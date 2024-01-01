@@ -5,33 +5,33 @@ Rating: 4.26 (Ranked 903)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Power Shot | 75.00% | ~156,686 |
-| Dead-ball specialist | 62.00% | ~129,527 |
-| European Legend | 52.00% | ~108,636 |
-| Multitasking | 51.00% | ~106,547 |
-| Balanced Path | 49.00% | ~102,368 |
-| High Grades | 48.00% | ~100,279 |
-| A Moment of Your Time | 46.00% | ~96,101 |
-| Let the Games Begin | 46.00% | ~96,101 |
-| Aiming High | 46.00% | ~96,101 |
-| Tactical Tinkerer | 40.00% | ~83,566 |
-| Intuition and Execution | 39.00% | ~81,477 |
-| Squad Building Connoisseur | 38.00% | ~79,388 |
-| The Winning Formula | 36.00% | ~75,209 |
-| Parking the Bus | 28.00% | ~58,496 |
-| Safe House | 26.00% | ~54,318 |
-| Best of Five | 26.00% | ~54,318 |
-| Football is Everything | 24.00% | ~50,140 |
-| The Chosen One | 22.00% | ~45,961 |
-| Fresh Fit | 20.00% | ~41,783 |
-| Bring it on | 17.00% | ~35,516 |
-| Life-Like | 14.00% | ~29,248 |
-| Make the Grade | 12.00% | ~25,070 |
-| I Played Them All | 10.00% | ~20,892 |
-| Specialist | 10.00% | ~20,892 |
-| Teamwork works | 9.00% | ~18,802 |
-| First of Many | 9.00% | ~18,802 |
-| Momentous Achievement | 6.00% | ~12,535 |
+| Power Shot | 75.00% | ~156,695 |
+| Dead-ball specialist | 62.00% | ~129,535 |
+| European Legend | 52.00% | ~108,642 |
+| Multitasking | 51.00% | ~106,553 |
+| Balanced Path | 49.00% | ~102,374 |
+| High Grades | 48.00% | ~100,285 |
+| A Moment of Your Time | 46.00% | ~96,106 |
+| Let the Games Begin | 46.00% | ~96,106 |
+| Aiming High | 46.00% | ~96,106 |
+| Tactical Tinkerer | 40.00% | ~83,571 |
+| Intuition and Execution | 39.00% | ~81,482 |
+| Squad Building Connoisseur | 38.00% | ~79,392 |
+| The Winning Formula | 36.00% | ~75,214 |
+| Parking the Bus | 28.00% | ~58,500 |
+| Safe House | 26.00% | ~54,321 |
+| Best of Five | 26.00% | ~54,321 |
+| Football is Everything | 24.00% | ~50,142 |
+| The Chosen One | 22.00% | ~45,964 |
+| Fresh Fit | 20.00% | ~41,785 |
+| Bring it on | 17.00% | ~35,518 |
+| Life-Like | 14.00% | ~29,250 |
+| Make the Grade | 12.00% | ~25,071 |
+| I Played Them All | 10.00% | ~20,893 |
+| Specialist | 10.00% | ~20,893 |
+| Teamwork works | 9.00% | ~18,803 |
+| First of Many | 9.00% | ~18,803 |
+| Momentous Achievement | 6.00% | ~12,536 |
 | In Cahoots | 5.00% | ~10,446 |
 | Becoming Unplayable | 5.00% | ~10,446 |
 | Shop till you drop | 5.00% | ~10,446 |
@@ -39,13 +39,13 @@ Rating: 4.26 (Ranked 903)
 | Volta's best | 4.00% | ~8,357 |
 | Tune Your Club | 4.00% | ~8,357 |
 | Full-House | 4.00% | ~8,357 |
-| Sharing is Caring | 3.00% | ~6,267 |
-| Full wardrobe | 0.60% | ~1,253 |
+| Sharing is Caring | 3.00% | ~6,268 |
+| Full wardrobe | 0.60% | ~1,254 |
 | Girl Power | 0.40% | ~836 |
 | Training Addict | 0.10% | ~209 |
 | Dazzling Personality | 0.10% | ~209 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208,915 (Ranked 80)  
+Progressed: 208,927 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,20 +154,20 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-29 | 207,657 | 0 |
 | 2023-12-30 | 208,182 | 0 |
 | 2023-12-31 | 208,766 | 0 |
-| 2024-01-01 | 208,915 | 0 |
+| 2024-01-01 | 208,927 | 0 |
 ## Awards
-Max (Diverse Characters): 22,046  (Ranked 21)  
-Sum: 109,616 (Ranked 16)  
+Max (Diverse Characters): 22,060  (Ranked 21)  
+Sum: 109,665 (Ranked 16)  
 Diff (max vs sum): 5  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 22,046 |
-| This game is Highly Recommended | 14,990 |
-| This game has a Competitive Community | 14,332 |
+| This game has Diverse Characters | 22,060 |
+| This game is Highly Recommended | 15,000 |
+| This game has a Competitive Community | 14,344 |
 | This game has Amazing Characters | 12,355 |
 | This game is Extremely Fun | 11,833 |
-| This game has Competitive Players | 11,776 |
-| This game has Amazing Storytelling | 11,588 |
+| This game has Competitive Players | 11,784 |
+| This game has Amazing Storytelling | 11,593 |
 | This game has Quickly Understood Controls | 10,696 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -534,3 +534,4 @@ Diff (max vs sum): 5
 | 2023-12-29 | 4.26 | 22,017 | 109,467 |
 | 2023-12-30 | 4.26 | 22,031 | 109,546 |
 | 2023-12-31 | 4.26 | 22,046 | 109,616 |
+| 2024-01-01 | 4.26 | 22,060 | 109,665 |

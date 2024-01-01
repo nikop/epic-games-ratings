@@ -4,8 +4,8 @@
   "ProductSlug": "ebola-2-b61221",
   "Ranking_EOS_Progress": 382,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 426,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 415,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
     "PcReleaseDate": "2020-12-20T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 315,
+  "EOS_Progressed": 316,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1274,6 +1274,11 @@
       "Time": "2023-12-30T17:09:54.3422632+00:00",
       "NumProgressed": 315,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T12:10:29.1442052+00:00",
+      "NumProgressed": 316,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 18,
@@ -1291,7 +1296,7 @@
       "ID": "achBossThree",
       "SetID": "1al1mjg",
       "Name": "Light will show the truth \u2714",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 55,
       "UsersEstimate": 3
     },
@@ -1373,7 +1378,7 @@
       "Name": "Recluse \u2714",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "achMeat",
@@ -1381,7 +1386,7 @@
       "Name": "Scent of Meat \u2714",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "achSaveses",
@@ -1405,13 +1410,13 @@
       "Name": "Statue \u2714",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "achVirus",
       "SetID": "1al1mjg",
       "Name": "Saved the planet \u2714",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -1421,21 +1426,21 @@
       "Name": "Witch \u2714",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     }
   ],
   "AchievementSets": [
     {
       "ID": "1al1mjg",
       "IsBase": true,
-      "Progressed": 315,
+      "Progressed": 316,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2024-01-01T11:10:58.7888217+00:00",
+  "LastChanged_Achievements": "2024-01-01T12:10:29.1442048+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:31.1448183+00:00",
-  "LastUpdate_Ratings": "2024-01-01T11:03:20.0824995+00:00",
-  "LastUpdate_Achievements": "2024-01-01T11:10:58.7888432+00:00"
+  "LastUpdate_Ratings": "2024-01-01T12:03:06.0843476+00:00",
+  "LastUpdate_Achievements": "2024-01-01T12:10:29.1442211+00:00"
 }

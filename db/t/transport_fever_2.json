@@ -3,12 +3,12 @@
   "Name": "Transport Fever 2",
   "ProductSlug": "transport-fever-2",
   "Ranking_Rating": 262,
-  "Ranking_Popularity": 449,
+  "Ranking_Popularity": 450,
   "Ranking_PopularitySum": 370,
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
     "PcReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -6511,9 +6511,9 @@
       "ID": "achFirstPassengerTransported",
       "SetID": "dgl390n",
       "Name": "First passenger on board",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1428
+      "UsersEstimate": 1451
     },
     {
       "ID": "achFirstPassengerWaiting",
@@ -6759,8 +6759,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-12-31T16:02:45.7007143+00:00",
-  "LastChanged_Achievements": "2024-01-01T11:09:37.8517852+00:00",
+  "LastChanged_Achievements": "2024-01-01T12:09:13.4133284+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:27.72637+00:00",
-  "LastUpdate_Ratings": "2024-01-01T11:03:19.9140434+00:00",
-  "LastUpdate_Achievements": "2024-01-01T11:09:37.8518842+00:00"
+  "LastUpdate_Ratings": "2024-01-01T12:03:06.019237+00:00",
+  "LastUpdate_Achievements": "2024-01-01T12:09:13.4134077+00:00"
 }

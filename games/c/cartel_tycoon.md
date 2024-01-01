@@ -11,7 +11,7 @@ Number of Ratings: 101  (23.09.2022)
 | Hokey-Pokey | 69.00% | ~624 |
 | Camellos | 54.00% | ~488 |
 | Bad Trip | 45.00% | ~407 |
-| Didn't Miss A Single One | 43.00% | ~389 |
+| Didn't Miss A Single One | 44.00% | ~398 |
 | Spread | 43.00% | ~389 |
 | That was base | 42.00% | ~380 |
 | Safe Pair of Hands | 35.00% | ~316 |
@@ -26,7 +26,7 @@ Number of Ratings: 101  (23.09.2022)
 | Iron Lady | 0.70% | ~6 |
 | Sense Of Style | 0.40% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 904 (Ranked 294)  
+Progressed: 904 (Ranked 295)  
 Completed: 3 (0.33%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |

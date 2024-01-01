@@ -4,8 +4,8 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 923,
+  "EOS_Progressed": 924,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
@@ -3992,6 +3992,11 @@
       "Time": "2024-01-01T09:10:26.8939526+00:00",
       "NumProgressed": 923,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T12:10:09.0358356+00:00",
+      "NumProgressed": 924,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -4051,7 +4056,7 @@
       "Name": "French Flair",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "CleanRestaurantDays10",
@@ -4179,7 +4184,7 @@
       "Name": "The Big Day",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "Packing20",
@@ -4227,7 +4232,7 @@
       "Name": "S is for Scrumptious",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ServiceMaxClient",
@@ -4259,7 +4264,7 @@
       "Name": "You\u0027re the Expert!",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "TrattoriaSet",
@@ -4322,7 +4327,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 923,
+      "Progressed": 924,
       "Completed": 0
     }
   ],
@@ -4330,8 +4335,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2024-01-01T11:10:37.446225+00:00",
+  "LastChanged_Achievements": "2024-01-01T12:10:09.0358354+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.9361067+00:00",
-  "LastUpdate_Ratings": "2024-01-01T10:57:13.8599588+00:00",
-  "LastUpdate_Achievements": "2024-01-01T11:10:37.4462742+00:00"
+  "LastUpdate_Ratings": "2024-01-01T11:57:10.5755536+00:00",
+  "LastUpdate_Achievements": "2024-01-01T12:10:09.0358745+00:00"
 }

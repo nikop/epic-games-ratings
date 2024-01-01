@@ -6,7 +6,7 @@ Number of Ratings: 67  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mint I | 5.00% | ~17 |
+| Mint I | 6.00% | ~21 |
 | Soul Cache | 5.00% | ~17 |
 | Mammon | 2.00% | ~7 |
 | Astarte | 1.00% | ~3 |
@@ -58,8 +58,8 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-31 | 336 | 0 |
 | 2024-01-01 | 343 | 0 |
 ## Awards
-Max (Great Boss Battles): 45  (Ranked 466)  
-Sum: 45 (Ranked 510)  
+Max (Great Boss Battles): 45  (Ranked 467)  
+Sum: 45 (Ranked 511)  
 Diff (max vs sum): -44  
 | Award | Count |
 | ----- | ----- |

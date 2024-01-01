@@ -3,12 +3,12 @@
   "Name": "Call of the Wild: The Angler\u2122",
   "ProductSlug": "call-of-the-wild-the-angler",
   "Ranking_Rating": 953,
-  "Ranking_Popularity": 473,
+  "Ranking_Popularity": 474,
   "Ranking_PopularitySum": 408,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -1015,9 +1015,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 7825,
+  "EOS_Progressed": 7827,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 309,
+  "EOS_NewPlayers": 308,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12880,6 +12880,11 @@
       "Time": "2024-01-01T11:06:32.7337921+00:00",
       "NumProgressed": 7825,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T12:06:02.3137988+00:00",
+      "NumProgressed": 7827,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -12907,7 +12912,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1018
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -12931,7 +12936,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -12939,7 +12944,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1018
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -13051,7 +13056,7 @@
       "Name": "I\u0027m Hooked!",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -13210,13 +13215,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7825,
+      "Progressed": 7827,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7197,
+      "Progressed": 7199,
       "Completed": 113
     }
   ],
@@ -13224,8 +13229,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-26T19:00:49.2434236+00:00",
-  "LastChanged_Achievements": "2024-01-01T11:06:32.7337917+00:00",
+  "LastChanged_Achievements": "2024-01-01T12:06:02.3137985+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:09.4029638+00:00",
-  "LastUpdate_Ratings": "2024-01-01T10:59:57.2155975+00:00",
-  "LastUpdate_Achievements": "2024-01-01T11:06:32.7339167+00:00"
+  "LastUpdate_Ratings": "2024-01-01T11:59:35.7439225+00:00",
+  "LastUpdate_Achievements": "2024-01-01T12:06:02.3138873+00:00"
 }

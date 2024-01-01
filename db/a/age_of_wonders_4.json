@@ -3,12 +3,12 @@
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 359,
-  "Ranking_Popularity": 478,
+  "Ranking_Popularity": 479,
   "Ranking_PopularitySum": 423,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -669,7 +669,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6648,
+  "EOS_Progressed": 6650,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 476,
   "EOS_NewCompleters": 0,
@@ -9984,6 +9984,11 @@
       "Time": "2024-01-01T11:08:21.14835+00:00",
       "NumProgressed": 6648,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-01T12:07:41.5475542+00:00",
+      "NumProgressed": 6650,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10043,7 +10048,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "16",
@@ -10083,7 +10088,7 @@
       "Name": "Enchanted Archipelago",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "20",
@@ -10107,7 +10112,7 @@
       "Name": "Realm Estate",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 731
+      "UsersEstimate": 732
     },
     {
       "ID": "23",
@@ -10115,7 +10120,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 731
+      "UsersEstimate": 732
     },
     {
       "ID": "24",
@@ -10147,7 +10152,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "28",
@@ -10187,7 +10192,7 @@
       "Name": "Magical Synergy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "32",
@@ -10227,7 +10232,7 @@
       "Name": "Fiery Friend",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "37",
@@ -10235,7 +10240,7 @@
       "Name": "Against the Odds",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "38",
@@ -10251,7 +10256,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "4",
@@ -10395,7 +10400,7 @@
       "Name": "Freed Lands of Manuhari",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "52",
@@ -10474,13 +10479,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6648,
+      "Progressed": 6650,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6648,
+      "Progressed": 6650,
       "Completed": 7
     }
   ],
@@ -10488,8 +10493,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-31T18:58:53.0277501+00:00",
-  "LastChanged_Achievements": "2024-01-01T11:08:21.1483496+00:00",
+  "LastChanged_Achievements": "2024-01-01T12:07:41.5475539+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-01T11:00:12.6292423+00:00",
-  "LastUpdate_Achievements": "2024-01-01T11:08:21.1484351+00:00"
+  "LastUpdate_Ratings": "2024-01-01T11:59:49.0826579+00:00",
+  "LastUpdate_Achievements": "2024-01-01T12:07:41.5476521+00:00"
 }

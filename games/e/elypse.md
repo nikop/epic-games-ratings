@@ -13,7 +13,7 @@
 | Masochistic | 53.00% | ~67 |
 | Soft skin | 50.00% | ~63 |
 | Splash! | 50.00% | ~63 |
-| Squid game | 40.00% | ~50 |
+| Squid game | 41.00% | ~52 |
 | Sensitive soul | 34.00% | ~43 |
 | Rock Solid | 33.00% | ~42 |
 | The beast within | 33.00% | ~42 |
@@ -39,7 +39,7 @@
 | Gold digger | 0.00% | ~0 |
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126 (Ranked 468)  
+Progressed: 126 (Ranked 469)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |

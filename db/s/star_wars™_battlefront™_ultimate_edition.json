@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2438,
+  "EOS_Progressed": 2440,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 300,
+  "EOS_NewPlayers": 302,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -6844,6 +6844,11 @@
       "Time": "2024-01-01T11:11:17.4146856+00:00",
       "NumProgressed": 2438,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-01T12:10:46.8617424+00:00",
+      "NumProgressed": 2440,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -7080,7 +7085,7 @@
       "Name": "New Recruit",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 2121
+      "UsersEstimate": 2123
     },
     {
       "ID": "achievement_36",
@@ -7096,7 +7101,7 @@
       "Name": "Off to a good start",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1512
+      "UsersEstimate": 1513
     },
     {
       "ID": "achievement_38",
@@ -7128,7 +7133,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "achievement_41",
@@ -7359,13 +7364,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2438,
+      "Progressed": 2440,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2438,
+      "Progressed": 2440,
       "Completed": 1
     }
   ],
@@ -7373,8 +7378,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-01T11:11:17.4146705+00:00",
+  "LastChanged_Achievements": "2024-01-01T12:10:46.8617422+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:19.759459+00:00",
-  "LastUpdate_Ratings": "2024-01-01T10:59:21.2590238+00:00",
-  "LastUpdate_Achievements": "2024-01-01T11:11:17.4147548+00:00"
+  "LastUpdate_Ratings": "2024-01-01T11:59:05.2538642+00:00",
+  "LastUpdate_Achievements": "2024-01-01T12:10:46.8618278+00:00"
 }

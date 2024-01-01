@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 197,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2634,9 +2634,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 44295,
+  "EOS_Progressed": 44296,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -10584,6 +10584,11 @@
       "Time": "2024-01-01T09:05:40.8857822+00:00",
       "NumProgressed": 44295,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2024-01-01T12:05:45.6781036+00:00",
+      "NumProgressed": 44296,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -10595,7 +10600,7 @@
       "Name": "Groovy",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27463
+      "UsersEstimate": 27464
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -10715,7 +10720,7 @@
       "Name": "You\u0027re all going to die down here",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 14174
+      "UsersEstimate": 14175
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_CAGED_FEAR",
@@ -10763,7 +10768,7 @@
       "Name": "Into the deep",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5315
+      "UsersEstimate": 5316
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_UNDEAD_WOOD",
@@ -10803,7 +10808,7 @@
       "Name": "All roads lead to Rome",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 15060
+      "UsersEstimate": 15061
     },
     {
       "ID": "SE_COMPLETE_SARDINIA",
@@ -10819,7 +10824,7 @@
       "Name": "He did Nazi that coming",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 14174
+      "UsersEstimate": 14175
     },
     {
       "ID": "SE_COMPLETE_TERMINAL_ERROR",
@@ -10851,7 +10856,7 @@
       "Name": "All of this has happened before\u2026",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15946
+      "UsersEstimate": 15947
     },
     {
       "ID": "SE_DROP_PIANO_ON_A_ZOMBIE",
@@ -10859,7 +10864,7 @@
       "Name": "Kill of the week",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13731
+      "UsersEstimate": 13732
     },
     {
       "ID": "SE_ELECTROCUTE_X_ZOMBIES_WITH_ONE_SPECIAL_MELEE",
@@ -10883,7 +10888,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 16389
+      "UsersEstimate": 16390
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -10899,7 +10904,7 @@
       "Name": "Gold",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 22590
+      "UsersEstimate": 22591
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -10915,7 +10920,7 @@
       "Name": "Cranial blowout!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 16389
+      "UsersEstimate": 16390
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -10939,7 +10944,7 @@
       "Name": "I never liked them anyway",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 13731
+      "UsersEstimate": 13732
     },
     {
       "ID": "SE_KILL_SNIPER_MID_AIR",
@@ -10955,7 +10960,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 25248
+      "UsersEstimate": 25249
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -10971,7 +10976,7 @@
       "Name": "Zombie killin\u0027 machine",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15946
+      "UsersEstimate": 15947
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_ATTACKING_OTHER_PLAYERS",
@@ -11035,7 +11040,7 @@
       "Name": "You\u0027ve got red on you",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 15060
+      "UsersEstimate": 15061
     },
     {
       "ID": "SE_REACH_RANK_100",
@@ -11115,22 +11120,22 @@
       "Name": "Every bullet counts",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 15946
+      "UsersEstimate": 15947
     }
   ],
   "AchievementSets": [
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 44295,
+      "Progressed": 44296,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-12-31T21:58:40.3085572+00:00",
-  "LastChanged_Achievements": "2024-01-01T11:06:14.9125398+00:00",
+  "LastChanged_Achievements": "2024-01-01T12:05:45.6781032+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:12.9047325+00:00",
-  "LastUpdate_Ratings": "2024-01-01T11:00:07.3204785+00:00",
-  "LastUpdate_Achievements": "2024-01-01T11:06:14.9126128+00:00"
+  "LastUpdate_Ratings": "2024-01-01T11:59:44.1827141+00:00",
+  "LastUpdate_Achievements": "2024-01-01T12:05:45.6781723+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -807,9 +807,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3695,
+  "EOS_Progressed": 3696,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5257,6 +5257,11 @@
       "Time": "2024-01-01T10:04:17.1825681+00:00",
       "NumProgressed": 3695,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T12:05:28.6398535+00:00",
+      "NumProgressed": 3696,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -5436,7 +5441,7 @@
       "Name": "Not So Fast...",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "Kills_Bleed",
@@ -5516,7 +5521,7 @@
       "Name": "An Ill Omen",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -5811,21 +5816,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3695,
+      "Progressed": 3696,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3695,
+      "Progressed": 3696,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-29T09:03:12.9031427+00:00",
-  "LastChanged_Achievements": "2024-01-01T11:05:56.5128598+00:00",
+  "LastChanged_Achievements": "2024-01-01T12:05:28.6398533+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:30.5390055+00:00",
-  "LastUpdate_Ratings": "2024-01-01T11:03:51.4429868+00:00",
-  "LastUpdate_Achievements": "2024-01-01T11:05:56.5129244+00:00"
+  "LastUpdate_Ratings": "2024-01-01T12:03:34.2131903+00:00",
+  "LastUpdate_Achievements": "2024-01-01T12:05:28.6399142+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 366,
+  "Ranking_EOS_NewPlayers": 363,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 284,
+  "EOS_Progressed": 285,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 10.21,
+  "EOS_Completed_Percentage": 10.18,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:58.284727+00:00",
@@ -775,6 +775,11 @@
       "Time": "2024-01-01T09:10:35.5434467+00:00",
       "NumProgressed": 284,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2024-01-01T12:10:17.7735276+00:00",
+      "NumProgressed": 285,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 17,
@@ -786,7 +791,7 @@
       "Name": "And away we go!",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "bless_the_rain",
@@ -800,9 +805,9 @@
       "ID": "blow",
       "SetID": "202dmm8",
       "Name": "Blow",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 102
+      "UsersEstimate": 100
     },
     {
       "ID": "brown_nosing",
@@ -840,9 +845,9 @@
       "ID": "instinct",
       "SetID": "202dmm8",
       "Name": "Instinct",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 114
     },
     {
       "ID": "job_one_done",
@@ -850,7 +855,7 @@
       "Name": "Job one. DONE!",
       "Percentage": 62,
       "XP": 100,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "just_like_me",
@@ -882,7 +887,7 @@
       "Name": "Sorry, kiddo",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "the_truth",
@@ -921,7 +926,7 @@
     {
       "ID": "202dmm8",
       "IsBase": true,
-      "Progressed": 284,
+      "Progressed": 285,
       "Completed": 29
     }
   ],
@@ -929,8 +934,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2024-01-01T11:10:46.6816611+00:00",
+  "LastChanged_Achievements": "2024-01-01T12:10:17.7735273+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:45.8627972+00:00",
-  "LastUpdate_Ratings": "2024-01-01T10:58:42.581113+00:00",
-  "LastUpdate_Achievements": "2024-01-01T11:10:46.6816715+00:00"
+  "LastUpdate_Ratings": "2024-01-01T11:58:29.2767492+00:00",
+  "LastUpdate_Achievements": "2024-01-01T12:10:17.7735417+00:00"
 }

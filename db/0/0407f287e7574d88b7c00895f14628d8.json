@@ -4,8 +4,8 @@
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 434,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 286,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
     "PcReleaseDate": "2022-10-24T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 172,
+  "EOS_Progressed": 173,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -684,6 +684,11 @@
       "Time": "2024-01-01T02:00:36.0741628+00:00",
       "NumProgressed": 172,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T12:05:23.8731896+00:00",
+      "NumProgressed": 173,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-12T07:05:28.2307151+00:00",
@@ -728,7 +733,7 @@
       "Name": "Clear Road",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "dl2",
@@ -776,7 +781,7 @@
       "Name": "City Center",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "fw2",
@@ -800,7 +805,7 @@
       "Name": "Skilled Workers",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "g2",
@@ -848,7 +853,7 @@
       "Name": "Infrastructure",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "jg2",
@@ -896,7 +901,7 @@
       "Name": "Builder",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "jz2",
@@ -920,7 +925,7 @@
       "Name": "Advanced Technology",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "k2",
@@ -966,9 +971,9 @@
       "ID": "r1",
       "SetID": "b1ggf28",
       "Name": "Prosperity",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 24
     },
     {
       "ID": "r2",
@@ -1008,7 +1013,7 @@
       "Name": "Against the Cold",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "w2",
@@ -1103,14 +1108,14 @@
     {
       "ID": "b1ggf28",
       "IsBase": true,
-      "Progressed": 172,
+      "Progressed": 173,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-01T11:05:51.4957339+00:00",
+  "LastChanged_Achievements": "2024-01-01T12:05:23.8731894+00:00",
   "LastUpdate_AppInfo": "2023-12-27T04:56:58.3049887+00:00",
-  "LastUpdate_Ratings": "2024-01-01T11:03:32.1875726+00:00",
-  "LastUpdate_Achievements": "2024-01-01T11:05:51.495767+00:00"
+  "LastUpdate_Ratings": "2024-01-01T12:03:17.7824619+00:00",
+  "LastUpdate_Achievements": "2024-01-01T12:05:23.8732211+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "The Devil\u0027s Face",
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 329,
-  "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 334,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Completed": 165,
+  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 622,
+  "EOS_Progressed": 623,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.13,
+  "EOS_Completed_Percentage": 1.12,
   "EosHistory": [
     {
       "Time": "2023-06-26T18:04:48.9323975+00:00",
@@ -2734,6 +2734,11 @@
       "Time": "2024-01-01T11:07:02.4116839+00:00",
       "NumProgressed": 622,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-01T12:06:29.4712561+00:00",
+      "NumProgressed": 623,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 14,
@@ -2745,7 +2750,7 @@
       "Name": "The gateway to the underworld",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -2856,14 +2861,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 622,
+      "Progressed": 623,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2024-01-01T11:07:02.4116837+00:00",
+  "LastChanged_Achievements": "2024-01-01T12:06:29.4712558+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:37.2024016+00:00",
-  "LastUpdate_Ratings": "2024-01-01T11:00:53.8770817+00:00",
-  "LastUpdate_Achievements": "2024-01-01T11:07:02.4117076+00:00"
+  "LastUpdate_Ratings": "2024-01-01T12:00:26.57872+00:00",
+  "LastUpdate_Achievements": "2024-01-01T12:06:29.471276+00:00"
 }

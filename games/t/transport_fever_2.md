@@ -10,8 +10,8 @@ Number of Ratings: 180  (23.09.2022)
 | First cargo item on board | 68.00% | ~1,542 |
 | First cargo item waiting | 68.00% | ~1,542 |
 | First bus stop | 67.00% | ~1,519 |
+| First passenger on board | 64.00% | ~1,451 |
 | First passenger waiting | 64.00% | ~1,451 |
-| First passenger on board | 63.00% | ~1,428 |
 | First bus arrived | 62.00% | ~1,406 |
 | First train station | 60.00% | ~1,360 |
 | First steam train arrived | 57.00% | ~1,292 |
@@ -311,9 +311,9 @@ Completed: 1 (0.04%) (Ranked 344)
 | 2023-12-31 | 2,263 | 1 |
 | 2024-01-01 | 2,267 | 1 |
 ## Awards
-Max (Great for Beginners): 50  (Ranked 449)  
+Max (Great for Beginners): 50  (Ranked 450)  
 Sum: 331 (Ranked 370)  
-Diff (max vs sum): 79  
+Diff (max vs sum): 80  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 50 |

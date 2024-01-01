@@ -38,11 +38,11 @@
 | Warden Slayer | 10.00% | ~68 |
 | Master Cook | 9.00% | ~61 |
 | Silver Moon Wolf King Challenge | 4.00% | ~27 |
+| Blade Mantis Challenge | 3.00% | ~20 |
 | Flying Kobold Challenge | 3.00% | ~20 |
 | Furious Scorpion Challenge | 3.00% | ~20 |
 | Giant Lizard Challenge | 3.00% | ~20 |
 | Rebellious | 2.00% | ~14 |
-| Blade Mantis Challenge | 2.00% | ~14 |
 | Big Face Goalkeeper Challenge | 2.00% | ~14 |
 | Giant Claw Spider Challenge | 2.00% | ~14 |
 | Mermaid Challenge | 2.00% | ~14 |
@@ -50,7 +50,7 @@
 | Giantess Challenge | 2.00% | ~14 |
 | Warden Challenge | 2.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 680 (Ranked 315)  
+Progressed: 680 (Ranked 316)  
 Completed: 2 (0.29%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -5,9 +5,9 @@ Rating: 4.27 (Ranked 895)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 79.00% | ~1,923 |
-| Don't I Know You...? | 76.00% | ~1,850 |
-| Jailbreak | 65.00% | ~1,582 |
+| Rigged And Ready | 79.00% | ~1,924 |
+| Don't I Know You...? | 75.00% | ~1,826 |
+| Jailbreak | 65.00% | ~1,583 |
 | Suited and Booted | 38.00% | ~925 |
 | HEADSHOT! | 37.00% | ~901 |
 | Sleeping With The Fishes | 35.00% | ~852 |
@@ -16,27 +16,27 @@ Rating: 4.27 (Ranked 895)
 | Powered Up | 28.00% | ~682 |
 | Studied The Blade | 24.00% | ~584 |
 | Home Invasion | 23.00% | ~560 |
-| Luminary | 22.00% | ~535 |
-| It's a Trap | 22.00% | ~535 |
+| Luminary | 22.00% | ~536 |
+| It's a Trap | 22.00% | ~536 |
 | True Survivor | 21.00% | ~511 |
 | Offensive Defense | 20.00% | ~487 |
 | Shocking | 20.00% | ~487 |
-| Court Martial | 19.00% | ~462 |
-| Unforeseeable Consequences | 19.00% | ~462 |
-| Dead Again | 18.00% | ~438 |
+| Court Martial | 19.00% | ~463 |
+| Unforeseeable Consequences | 19.00% | ~463 |
 | Clean Cut | 18.00% | ~438 |
+| Dead Again | 17.00% | ~414 |
 | Full Arsenal | 17.00% | ~414 |
 | Can't Trust Banks | 15.00% | ~365 |
-| Mommy Dearest | 13.00% | ~316 |
-| Bad Dog | 13.00% | ~316 |
-| Where It All Began | 13.00% | ~316 |
-| Risk Tolerant | 13.00% | ~316 |
-| What A Catchy Song | 13.00% | ~316 |
+| Mommy Dearest | 13.00% | ~317 |
+| Bad Dog | 13.00% | ~317 |
+| Where It All Began | 13.00% | ~317 |
+| Risk Tolerant | 13.00% | ~317 |
+| What A Catchy Song | 13.00% | ~317 |
 | Corrupted Beauty | 12.00% | ~292 |
 | Marked For Success | 12.00% | ~292 |
 | Sorry, Didn't See You There | 12.00% | ~292 |
-| Stimulating The Local Economy | 10.00% | ~243 |
-| Triplets | 10.00% | ~243 |
+| Stimulating The Local Economy | 10.00% | ~244 |
+| Triplets | 10.00% | ~244 |
 | Denying Prophecy | 9.00% | ~219 |
 | A Little Banged Up | 8.00% | ~195 |
 | Following In Their Footsteps | 8.00% | ~195 |
@@ -63,7 +63,7 @@ Rating: 4.27 (Ranked 895)
 | Three Birds With One Stone | 1.00% | ~24 |
 | The Easy Way Out | 1.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,434 (Ranked 232)  
+Progressed: 2,435 (Ranked 233)  
 Completed: 13 (0.53%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 13 (0.53%) (Ranked 214)
 | 2023-12-29 | 2,408 | 13 |
 | 2023-12-30 | 2,418 | 13 |
 | 2023-12-31 | 2,428 | 13 |
-| 2024-01-01 | 2,434 | 13 |
+| 2024-01-01 | 2,435 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

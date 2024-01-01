@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 619,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 568,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-04-01T09:00:00+00:00",
     "PcReleaseDate": "2015-02-27T03:00:00+00:00",
@@ -114,17 +114,17 @@
       "ID": "TALES_12",
       "SetID": "c5idb6k",
       "Name": "Constructor",
-      "Percentage": 79,
+      "Percentage": 84,
       "XP": 150,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "TALES_13",
       "SetID": "c5idb6k",
       "Name": "Happy Ending",
-      "Percentage": 79,
+      "Percentage": 84,
       "XP": 100,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "TALES_2",
@@ -227,8 +227,8 @@
   "FirstSeenRating": "2023-04-15T20:58:43.6104414+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.8460847+00:00",
   "LastChanged": "2023-04-15T20:58:43.6104415+00:00",
-  "LastChanged_Achievements": "2024-01-01T11:11:03.3974383+00:00",
+  "LastChanged_Achievements": "2024-01-01T12:10:33.3927277+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:53.8465005+00:00",
-  "LastUpdate_Ratings": "2024-01-01T11:02:06.6798187+00:00",
-  "LastUpdate_Achievements": "2024-01-01T11:11:03.3974465+00:00"
+  "LastUpdate_Ratings": "2024-01-01T12:01:28.7183989+00:00",
+  "LastUpdate_Achievements": "2024-01-01T12:10:33.392738+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 238445,
+  "EOS_Progressed": 238447,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 619,
+  "EOS_NewPlayers": 620,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -27203,6 +27203,11 @@
       "Time": "2024-01-01T11:07:07.602285+00:00",
       "NumProgressed": 238445,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2024-01-01T12:06:34.1116629+00:00",
+      "NumProgressed": 238447,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -27350,7 +27355,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 78687
+      "UsersEstimate": 78688
     },
     {
       "ID": "NOBUNAGA",
@@ -27478,22 +27483,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 97762
+      "UsersEstimate": 97763
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 238445,
+      "Progressed": 238447,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-12-24T20:57:53.5122809+00:00",
-  "LastChanged_Achievements": "2024-01-01T11:07:07.6022847+00:00",
+  "LastChanged_Achievements": "2024-01-01T12:06:34.1116626+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:41.2856312+00:00",
-  "LastUpdate_Ratings": "2024-01-01T10:58:09.3670728+00:00",
-  "LastUpdate_Achievements": "2024-01-01T11:07:07.6024018+00:00"
+  "LastUpdate_Ratings": "2024-01-01T11:57:58.83903+00:00",
+  "LastUpdate_Achievements": "2024-01-01T12:06:34.1118105+00:00"
 }

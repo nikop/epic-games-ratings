@@ -9247,9 +9247,9 @@
       "Count": 3617
     }
   ],
-  "EOS_Progressed": 248917,
+  "EOS_Progressed": 248950,
   "EOS_Completed": 2582,
-  "EOS_NewPlayers": 4497,
+  "EOS_NewPlayers": 4511,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -38212,6 +38212,11 @@
       "Time": "2024-01-01T11:11:22.2105681+00:00",
       "NumProgressed": 248917,
       "NumCompleted": 2582
+    },
+    {
+      "Time": "2024-01-01T12:10:51.5148352+00:00",
+      "NumProgressed": 248950,
+      "NumCompleted": 2582
     }
   ],
   "TotalAchievements": 546,
@@ -38591,7 +38596,7 @@
       "Name": "Beast Intentions",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2240
+      "UsersEstimate": 2241
     },
     {
       "ID": "objective_completed_110",
@@ -39895,7 +39900,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2489
+      "UsersEstimate": 2490
     },
     {
       "ID": "objective_completed_34",
@@ -41367,7 +41372,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1991
+      "UsersEstimate": 1992
     },
     {
       "ID": "objective_completed_70",
@@ -42590,21 +42595,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 215191,
-      "Completed": 4116
+      "Progressed": 215224,
+      "Completed": 4117
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 248917,
+      "Progressed": 248950,
       "Completed": 2582
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-01T05:57:48.4090061+00:00",
-  "LastChanged_Achievements": "2024-01-01T11:11:22.2105678+00:00",
+  "LastChanged_Achievements": "2024-01-01T12:10:51.5148349+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-01T10:57:55.2478943+00:00",
-  "LastUpdate_Achievements": "2024-01-01T11:11:22.2130502+00:00"
+  "LastUpdate_Ratings": "2024-01-01T11:57:46.9389219+00:00",
+  "LastUpdate_Achievements": "2024-01-01T12:10:51.5172895+00:00"
 }

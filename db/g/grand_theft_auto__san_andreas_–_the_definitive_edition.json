@@ -3,11 +3,11 @@
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 522,
-  "Ranking_Popularity": 453,
+  "Ranking_Popularity": 455,
   "Ranking_PopularitySum": 374,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -2131,9 +2131,9 @@
       "Count": 31
     }
   ],
-  "EOS_Progressed": 17853,
+  "EOS_Progressed": 17862,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 1138,
+  "EOS_NewPlayers": 1145,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -18541,6 +18541,11 @@
       "Time": "2024-01-01T11:11:02.8991081+00:00",
       "NumProgressed": 17853,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2024-01-01T12:10:32.9578651+00:00",
+      "NumProgressed": 17862,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 35,
@@ -18552,7 +18557,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 14461
+      "UsersEstimate": 14468
     },
     {
       "ID": "ACH02",
@@ -18598,9 +18603,9 @@
       "ID": "ACH07",
       "SetID": "4ck5mbe",
       "Name": "The American Dream",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 3392
+      "UsersEstimate": 3215
     },
     {
       "ID": "ACH08",
@@ -18608,7 +18613,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 8926
+      "UsersEstimate": 8931
     },
     {
       "ID": "ACH09",
@@ -18632,7 +18637,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1607
+      "UsersEstimate": 1608
     },
     {
       "ID": "ACH12",
@@ -18648,7 +18653,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 3214
+      "UsersEstimate": 3215
     },
     {
       "ID": "ACH14",
@@ -18656,7 +18661,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1785
+      "UsersEstimate": 1786
     },
     {
       "ID": "ACH15",
@@ -18672,7 +18677,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3035
+      "UsersEstimate": 3037
     },
     {
       "ID": "ACH17",
@@ -18688,7 +18693,7 @@
       "Name": "Saviour",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1072
     },
     {
       "ID": "ACH19",
@@ -18720,7 +18725,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2499
+      "UsersEstimate": 2501
     },
     {
       "ID": "ACH23",
@@ -18728,7 +18733,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4463
+      "UsersEstimate": 4466
     },
     {
       "ID": "ACH24",
@@ -18768,7 +18773,7 @@
       "Name": "Original Gangster",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 1428
+      "UsersEstimate": 1429
     },
     {
       "ID": "ACH29",
@@ -18776,7 +18781,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 2678
+      "UsersEstimate": 2679
     },
     {
       "ID": "ACH30",
@@ -18831,7 +18836,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 17853,
+      "Progressed": 17862,
       "Completed": 67
     }
   ],
@@ -18839,8 +18844,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-01T01:56:30.1980423+00:00",
-  "LastChanged_Achievements": "2024-01-01T11:11:02.8991076+00:00",
+  "LastChanged_Achievements": "2024-01-01T12:10:32.9578649+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.8114387+00:00",
-  "LastUpdate_Ratings": "2024-01-01T11:02:09.0667094+00:00",
-  "LastUpdate_Achievements": "2024-01-01T11:11:02.8992034+00:00"
+  "LastUpdate_Ratings": "2024-01-01T12:01:30.6132394+00:00",
+  "LastUpdate_Achievements": "2024-01-01T12:10:32.9579528+00:00"
 }

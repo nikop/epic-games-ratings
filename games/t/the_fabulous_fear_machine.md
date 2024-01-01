@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Master trainee | 46.00% | ~33 |
-| You have three wishes left | 42.00% | ~30 |
+| Master trainee | 45.00% | ~33 |
+| You have three wishes left | 41.00% | ~30 |
 | Jung's dream | 32.00% | ~23 |
 | The battle of Great Britain | 32.00% | ~23 |
-| Pulp! Where Monsters Dwell | 28.00% | ~20 |
-| A continent with chemistry | 24.00% | ~17 |
+| Pulp! Where Monsters Dwell | 27.00% | ~20 |
+| A continent with chemistry | 23.00% | ~17 |
 | The happy farmer girl | 22.00% | ~16 |
 | Giant | 19.00% | ~14 |
 | Pulp! Terror Tales in the Night | 19.00% | ~14 |
 | A rival with no options | 18.00% | ~13 |
 | Pulp! Out of this World | 18.00% | ~13 |
-| Diagnosis: fear | 17.00% | ~12 |
-| Ambition is... blind | 17.00% | ~12 |
-| You have two wishes left | 17.00% | ~12 |
+| Diagnosis: fear | 16.00% | ~12 |
+| Ambition is... blind | 16.00% | ~12 |
+| You have two wishes left | 16.00% | ~12 |
 | The artist | 15.00% | ~11 |
 | The seer | 15.00% | ~11 |
 | Pulp! Adventures into the Unknown | 15.00% | ~11 |
 | You had one wish left | 14.00% | ~10 |
 | Et in arcadia ego | 14.00% | ~10 |
-| You've awakened the beast | 13.00% | ~9 |
-| Hate is... addictive | 13.00% | ~9 |
-| Kirlian's best disciple | 13.00% | ~9 |
-| Welcome to Hellville | 13.00% | ~9 |
+| You've awakened the beast | 12.00% | ~9 |
+| Hate is... addictive | 12.00% | ~9 |
+| Kirlian's best disciple | 12.00% | ~9 |
+| Welcome to Hellville | 12.00% | ~9 |
 | Blood Red Island | 11.00% | ~8 |
 | Bread and bocaua | 11.00% | ~8 |
 | Fanatacism is... poisonous | 11.00% | ~8 |
@@ -39,8 +39,8 @@
 | The scholar | 8.00% | ~6 |
 | Pulp! True Adventures | 8.00% | ~6 |
 | America had no Faith | 8.00% | ~6 |
-| The barbarian invasions | 6.00% | ~4 |
-| A new Hindenburg | 6.00% | ~4 |
+| The barbarian invasions | 5.00% | ~4 |
+| A new Hindenburg | 5.00% | ~4 |
 | Pulp! Tales from the Crypt | 4.00% | ~3 |
 | Thirst for Oleum | 4.00% | ~3 |
 | Vaccine fans | 4.00% | ~3 |
@@ -52,7 +52,7 @@
 | Pulp! Skeleton Hand | 1.00% | ~1 |
 | Pulp! The Vault of Horror | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72 (Ranked 515)  
+Progressed: 73 (Ranked 514)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,4 +94,4 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-28 | 68 | 0 |
 | 2023-12-30 | 69 | 0 |
 | 2023-12-31 | 71 | 0 |
-| 2024-01-01 | 72 | 0 |
+| 2024-01-01 | 73 | 0 |

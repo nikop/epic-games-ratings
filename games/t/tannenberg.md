@@ -6,52 +6,52 @@ Number of Ratings: 13,393  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Immovable Object | 90.00% | ~129,200 |
-| Comeback | 82.00% | ~117,716 |
-| Information is Key | 80.00% | ~114,845 |
-| Unlucky | 70.00% | ~100,489 |
-| Anarchist | 68.00% | ~97,618 |
-| Wallhack | 65.00% | ~93,311 |
-| Steady Supply | 60.00% | ~86,134 |
-| Lucky Shot | 53.00% | ~76,085 |
-| Ring Ring! | 52.00% | ~74,649 |
-| Forward Observer | 51.00% | ~73,214 |
-| Bossing Around | 45.00% | ~64,600 |
-| Frostbite | 45.00% | ~64,600 |
-| Night Owl | 44.00% | ~63,165 |
-| Strength in Numbers | 44.00% | ~63,165 |
-| Fog of War | 41.00% | ~58,858 |
-| Rasputin | 39.00% | ~55,987 |
-| Stronghold Denied | 39.00% | ~55,987 |
-| Anyone Else? | 38.00% | ~54,551 |
-| Hydra | 36.00% | ~51,680 |
-| This Belongs to Us Now | 36.00% | ~51,680 |
-| Stronghold | 35.00% | ~50,245 |
-| Leeroy | 33.00% | ~47,373 |
-| Lost Batallion | 33.00% | ~47,373 |
-| This is MY Machine Gun! | 32.00% | ~45,938 |
-| Together As One | 31.00% | ~44,502 |
-| Gavrilo Princip | 27.00% | ~38,760 |
-| Lead Harvest | 25.00% | ~35,889 |
-| Skynet Confirmed | 23.00% | ~33,018 |
-| Kesselschlacht | 22.00% | ~31,582 |
-| Democracy Works! | 20.00% | ~28,711 |
-| Switch, Please! | 19.00% | ~27,276 |
-| At Least This Way I Can Win... | 18.00% | ~25,840 |
-| Tourist | 18.00% | ~25,840 |
+| Immovable Object | 90.00% | ~129,205 |
+| Comeback | 82.00% | ~117,720 |
+| Information is Key | 80.00% | ~114,849 |
+| Unlucky | 70.00% | ~100,493 |
+| Anarchist | 68.00% | ~97,621 |
+| Wallhack | 65.00% | ~93,315 |
+| Steady Supply | 60.00% | ~86,137 |
+| Lucky Shot | 53.00% | ~76,087 |
+| Ring Ring! | 52.00% | ~74,652 |
+| Forward Observer | 51.00% | ~73,216 |
+| Bossing Around | 45.00% | ~64,602 |
+| Frostbite | 45.00% | ~64,602 |
+| Night Owl | 44.00% | ~63,167 |
+| Strength in Numbers | 44.00% | ~63,167 |
+| Fog of War | 41.00% | ~58,860 |
+| Rasputin | 39.00% | ~55,989 |
+| Stronghold Denied | 39.00% | ~55,989 |
+| Anyone Else? | 38.00% | ~54,553 |
+| Hydra | 36.00% | ~51,682 |
+| This Belongs to Us Now | 36.00% | ~51,682 |
+| Stronghold | 35.00% | ~50,246 |
+| Leeroy | 33.00% | ~47,375 |
+| Lost Batallion | 33.00% | ~47,375 |
+| This is MY Machine Gun! | 32.00% | ~45,940 |
+| Together As One | 31.00% | ~44,504 |
+| Gavrilo Princip | 27.00% | ~38,761 |
+| Lead Harvest | 25.00% | ~35,890 |
+| Skynet Confirmed | 23.00% | ~33,019 |
+| Kesselschlacht | 22.00% | ~31,583 |
+| Democracy Works! | 20.00% | ~28,712 |
+| Switch, Please! | 19.00% | ~27,277 |
+| At Least This Way I Can Win... | 18.00% | ~25,841 |
+| Tourist | 18.00% | ~25,841 |
 | I've Seen It All | 17.00% | ~24,405 |
 | Oops! | 17.00% | ~24,405 |
-| Developers, Developers, Developers, Developers! | 16.00% | ~22,969 |
+| Developers, Developers, Developers, Developers! | 16.00% | ~22,970 |
 | Butcher | 12.00% | ~17,227 |
 | Before the Leaves Fall | 10.00% | ~14,356 |
 | Close Call | 10.00% | ~14,356 |
 | Pinpoint | 10.00% | ~14,356 |
 | Tannenberg | 9.00% | ~12,920 |
-| For the Emperor | 8.00% | ~11,484 |
-| Hawk Eye | 8.00% | ~11,484 |
+| For the Emperor | 8.00% | ~11,485 |
+| Hawk Eye | 8.00% | ~11,485 |
 | Equality For All | 7.00% | ~10,049 |
 | Hötzendorf | 7.00% | ~10,049 |
-| Crack Shot | 6.00% | ~8,613 |
+| Crack Shot | 6.00% | ~8,614 |
 | From Russia with Love | 5.00% | ~7,178 |
 | Overachiever | 5.00% | ~7,178 |
 | Your Family Will Be Proud... | 5.00% | ~7,178 |
@@ -74,7 +74,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Seeing is Believing | 0.90% | ~1,292 |
 | Road to Berlin | 0.60% | ~861 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 143,556 (Ranked 87)  
+Progressed: 143,561 (Ranked 87)  
 Completed: 35 (0.02%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 35 (0.02%) (Ranked 357)
 | 2023-12-29 | 143,213 | 35 |
 | 2023-12-30 | 143,386 | 35 |
 | 2023-12-31 | 143,523 | 35 |
-| 2024-01-01 | 143,556 | 35 |
+| 2024-01-01 | 143,561 | 35 |
 ## Awards
 Max (Competitive Players): 335  (Ranked 250)  
 Sum: 3,298 (Ranked 179)  

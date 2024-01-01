@@ -4,11 +4,11 @@
   "ProductSlug": "thems-fightin-herds",
   "Ranking_Rating": 445,
   "Ranking_Popularity": 527,
-  "Ranking_PopularitySum": 504,
+  "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -339,7 +339,7 @@
   ],
   "EOS_Progressed": 234694,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 495,
+  "EOS_NewPlayers": 493,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26609,8 +26609,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-12-30T14:57:12.7393398+00:00",
-  "LastChanged_Achievements": "2024-01-01T11:10:15.8814032+00:00",
+  "LastChanged_Achievements": "2024-01-01T12:09:48.9067602+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:51.1279895+00:00",
-  "LastUpdate_Ratings": "2024-01-01T10:58:59.049655+00:00",
-  "LastUpdate_Achievements": "2024-01-01T11:10:15.8815249+00:00"
+  "LastUpdate_Ratings": "2024-01-01T11:58:44.0719455+00:00",
+  "LastUpdate_Achievements": "2024-01-01T12:09:48.906917+00:00"
 }

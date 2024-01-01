@@ -42,17 +42,17 @@
 | Ripe Meat Off The Bone! | 27.00% | ~39 |
 | Kleptomaniac | 27.00% | ~39 |
 | Hovering around | 26.00% | ~38 |
+| You're not so Big anymore, Boi! | 25.00% | ~36 |
 | A Megapint...? | 25.00% | ~36 |
-| You're not so Big anymore, Boi! | 24.00% | ~35 |
-| Your daily dose of Vitamin C. | 24.00% | ~35 |
+| Your daily dose of Vitamin C. | 25.00% | ~36 |
 | I cant stand still! | 23.00% | ~33 |
 | Slimy... yet satisfying | 21.00% | ~30 |
 | Master Butcher | 18.00% | ~26 |
 | Just wing it! | 18.00% | ~26 |
 | Deal with it | 17.00% | ~25 |
 | Yeehaw!!! | 15.00% | ~22 |
+| Ancient Ruins of Dirty Feet | 14.00% | ~20 |
 | You're looking mozzare-hella good! | 13.00% | ~19 |
-| Ancient Ruins of Dirty Feet | 13.00% | ~19 |
 | Spoiler alert! | 10.00% | ~14 |
 | Timber! | 10.00% | ~14 |
 | Grumpy Immortal | 10.00% | ~14 |

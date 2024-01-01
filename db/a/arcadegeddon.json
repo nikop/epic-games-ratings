@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 339,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
     "PcReleaseDate": "2021-07-08T21:30:00+00:00",
@@ -832,9 +832,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 10211,
+  "EOS_Progressed": 10212,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13662,6 +13662,11 @@
       "Time": "2024-01-01T05:04:25.3379033+00:00",
       "NumProgressed": 10211,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-01T12:04:45.8491216+00:00",
+      "NumProgressed": 10212,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 50,
@@ -13673,7 +13678,7 @@
       "Name": "Adventure Time",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 7658
+      "UsersEstimate": 7659
     },
     {
       "ID": "ACH_BOOTY_BASHING",
@@ -13705,7 +13710,7 @@
       "Name": "Coup d\u0027Etat",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 5616
+      "UsersEstimate": 5617
     },
     {
       "ID": "ACH_EVENT_HORIZON",
@@ -13783,9 +13788,9 @@
       "ID": "ACH_HACKS_IN_STACKS",
       "SetID": "97mcd7i",
       "Name": "Hacks In Stacks",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 5412
+      "UsersEstimate": 5310
     },
     {
       "ID": "ACH_HERE_COMES_A_NEW_CHALLENGER",
@@ -13817,7 +13822,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 8781
+      "UsersEstimate": 8782
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -13841,7 +13846,7 @@
       "Name": "Meching Enemies",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 4697
+      "UsersEstimate": 4698
     },
     {
       "ID": "ACH_NATURE_IS_LIT",
@@ -13873,7 +13878,7 @@
       "Name": "Photogenic",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 8373
+      "UsersEstimate": 8374
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -13881,7 +13886,7 @@
       "Name": "Playing With Power",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7352
+      "UsersEstimate": 7353
     },
     {
       "ID": "ACH_PLUG_IT_IN",
@@ -14049,7 +14054,7 @@
       "Name": "To Be Continued",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1328
     },
     {
       "ID": "ACH_TREASURE_HUNTING",
@@ -14072,15 +14077,15 @@
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 10211,
+      "Progressed": 10212,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-12-06T04:01:07.9880717+00:00",
-  "LastChanged_Achievements": "2024-01-01T11:05:09.874746+00:00",
+  "LastChanged_Achievements": "2024-01-01T12:04:45.8491212+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:28.3971436+00:00",
-  "LastUpdate_Ratings": "2024-01-01T11:03:20.6713695+00:00",
-  "LastUpdate_Achievements": "2024-01-01T11:05:09.8748408+00:00"
+  "LastUpdate_Ratings": "2024-01-01T12:03:06.7045786+00:00",
+  "LastUpdate_Achievements": "2024-01-01T12:04:45.8491964+00:00"
 }

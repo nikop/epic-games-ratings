@@ -3,8 +3,8 @@
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
   "Ranking_Rating": 996,
-  "Ranking_Popularity": 488,
-  "Ranking_PopularitySum": 521,
+  "Ranking_Popularity": 489,
+  "Ranking_PopularitySum": 522,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 368,
   "Ranking_EOS_NewPlayers": 128,
@@ -565,9 +565,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 45952,
+  "EOS_Progressed": 45957,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 810,
+  "EOS_NewPlayers": 811,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17225,6 +17225,11 @@
       "Time": "2024-01-01T11:06:10.1062965+00:00",
       "NumProgressed": 45952,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-01T12:05:41.0810373+00:00",
+      "NumProgressed": 45957,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -17284,7 +17289,7 @@
       "Name": "Attachments",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5514
+      "UsersEstimate": 5515
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -17388,7 +17393,7 @@
       "Name": "Tinkerer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3676
+      "UsersEstimate": 3677
     },
     {
       "ID": "CUFF_ATTACK",
@@ -17659,22 +17664,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 45952,
+      "Progressed": 45957,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 10789,
-      "Completed": 10789
+      "Progressed": 10794,
+      "Completed": 10794
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-01T08:03:24.63653+00:00",
-  "LastChanged_Achievements": "2024-01-01T11:06:10.1062961+00:00",
+  "LastChanged_Achievements": "2024-01-01T12:05:41.0810368+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:48.1998363+00:00",
-  "LastUpdate_Ratings": "2024-01-01T11:03:20.8652178+00:00",
-  "LastUpdate_Achievements": "2024-01-01T11:06:10.1064343+00:00"
+  "LastUpdate_Ratings": "2024-01-01T12:03:06.9013911+00:00",
+  "LastUpdate_Achievements": "2024-01-01T12:05:41.0811346+00:00"
 }

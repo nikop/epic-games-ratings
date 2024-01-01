@@ -6,18 +6,18 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 73.00% | ~4,973 |
+| Just One...More...Term... | 73.00% | ~4,974 |
 | Un-Lonely Island | 45.00% | ~3,066 |
 | The Beginning of a Servantship | 44.00% | ~2,998 |
 | Trade Is My Trait | 36.00% | ~2,453 |
 | Number 18 | 23.00% | ~1,567 |
-| We Don't Have Time For That | 18.00% | ~1,226 |
+| We Don't Have Time For That | 18.00% | ~1,227 |
 | The Governator | 17.00% | ~1,158 |
 | The Legend of Langostino | 16.00% | ~1,090 |
 | Caribbean Comrade | 15.00% | ~1,022 |
 | The Dreamer of Dreams | 15.00% | ~1,022 |
-| Go Sovereigns! | 11.00% | ~749 |
-| For Science! | 11.00% | ~749 |
+| Go Sovereigns! | 11.00% | ~750 |
+| For Science! | 11.00% | ~750 |
 | Happy Ending? | 10.00% | ~681 |
 | Of Seals And Men | 9.00% | ~613 |
 | Shackadelic | 9.00% | ~613 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~55 |
 | My Ways | 0.20% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,813 (Ranked 194)  
+Progressed: 6,814 (Ranked 194)  
 Completed: 2 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,10 +303,10 @@ Completed: 2 (0.03%) (Ranked 350)
 | 2023-12-29 | 6,753 | 2 |
 | 2023-12-30 | 6,780 | 2 |
 | 2023-12-31 | 6,808 | 2 |
-| 2024-01-01 | 6,813 | 2 |
+| 2024-01-01 | 6,814 | 2 |
 ## Awards
 Max (Highly Recommended): 105  (Ranked 367)  
-Sum: 749 (Ranked 298)  
+Sum: 750 (Ranked 298)  
 Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
@@ -318,7 +318,7 @@ Diff (max vs sum): 69
 | This game is Extremely Fun | 92 |
 | This game has Amazing Characters | 91 |
 | This game is Educational | 91 |
-| This game has a Creative Community | 69 |
+| This game has a Creative Community | 70 |
 | This game has Obsessive Gameplay | 52 |
 | This game has Diverse Characters | 46 |
 ## Ratings History
@@ -503,3 +503,4 @@ Diff (max vs sum): 69
 | 2023-12-25 | 4.66 | - | 105 | 743 |
 | 2023-12-28 | 4.66 | - | 105 | 745 |
 | 2023-12-30 | 4.66 | - | 105 | 749 |
+| 2024-01-01 | 4.66 | - | 105 | 750 |

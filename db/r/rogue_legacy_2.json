@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1548,9 +1548,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 27392,
+  "EOS_Progressed": 27399,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 713,
+  "EOS_NewPlayers": 712,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -12618,6 +12618,11 @@
       "Time": "2024-01-01T11:10:59.415588+00:00",
       "NumProgressed": 27392,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-01T12:10:29.8268086+00:00",
+      "NumProgressed": 27399,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -12747,9 +12752,9 @@
       "ID": "BossForestAdvancedDefeated",
       "SetID": "3ojhj46",
       "Name": "For Survival",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 110
+      "UsersEstimate": 137
     },
     {
       "ID": "BossForestDefeated",
@@ -12779,9 +12784,9 @@
       "ID": "BossStudyAdvancedDefeated",
       "SetID": "3ojhj46",
       "Name": "For Love",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 82
+      "UsersEstimate": 110
     },
     {
       "ID": "BossStudyDefeated",
@@ -12940,21 +12945,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 27392,
+      "Progressed": 27399,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 6322,
+      "Progressed": 6329,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-31T13:02:19.9867054+00:00",
-  "LastChanged_Achievements": "2024-01-01T11:10:59.4155875+00:00",
+  "LastChanged_Achievements": "2024-01-01T12:10:29.8268078+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.0569835+00:00",
-  "LastUpdate_Ratings": "2024-01-01T11:03:06.1262912+00:00",
-  "LastUpdate_Achievements": "2024-01-01T11:10:59.4156593+00:00"
+  "LastUpdate_Ratings": "2024-01-01T12:02:53.8076646+00:00",
+  "LastUpdate_Achievements": "2024-01-01T12:10:29.8268817+00:00"
 }

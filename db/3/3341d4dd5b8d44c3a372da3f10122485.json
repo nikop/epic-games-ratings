@@ -1424,9 +1424,9 @@
       "ID": "Budoar",
       "SetID": "823jm6g",
       "Name": "Budoir",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 80,
-      "UsersEstimate": 136
+      "UsersEstimate": 138
     },
     {
       "ID": "Intro",
@@ -1480,17 +1480,17 @@
       "ID": "Nora",
       "SetID": "823jm6g",
       "Name": "Burrow",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 75,
-      "UsersEstimate": 125
+      "UsersEstimate": 127
     },
     {
       "ID": "Planina",
       "SetID": "823jm6g",
       "Name": "Plain",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 80,
-      "UsersEstimate": 125
+      "UsersEstimate": 127
     },
     {
       "ID": "Poklop",
@@ -1535,8 +1535,8 @@
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2024-01-01T11:06:21.7899541+00:00",
+  "LastChanged_Achievements": "2024-01-01T12:05:52.0555628+00:00",
   "LastUpdate_AppInfo": "2023-12-30T07:56:58.6269869+00:00",
-  "LastUpdate_Ratings": "2024-01-01T10:58:03.6414711+00:00",
-  "LastUpdate_Achievements": "2024-01-01T11:06:21.7899717+00:00"
+  "LastUpdate_Ratings": "2024-01-01T11:57:54.0334453+00:00",
+  "LastUpdate_Achievements": "2024-01-01T12:05:52.0555819+00:00"
 }

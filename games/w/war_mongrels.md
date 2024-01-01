@@ -39,11 +39,11 @@ Number of Ratings: 34  (23.09.2022)
 | Tiptoe Around | 11.00% | ~82 |
 | Collectibles of Chapter V | 10.00% | ~75 |
 | Such is War! | 8.00% | ~60 |
+| Collectibles of Chapter VII | 6.00% | ~45 |
 | Collectibles of Chapter XII | 6.00% | ~45 |
 | Piece of Cake | 6.00% | ~45 |
 | It Will Rain | 6.00% | ~45 |
 | Not Spill a Drop | 6.00% | ~45 |
-| Collectibles of Chapter VII | 5.00% | ~37 |
 | Collectibles of Chapter XI | 5.00% | ~37 |
 | The Good Samaritan | 5.00% | ~37 |
 | Collectibles of Chapter VIII | 4.00% | ~30 |

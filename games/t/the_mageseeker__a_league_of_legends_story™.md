@@ -5,13 +5,13 @@ Rating: 4.81 (Ranked 84)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~3,040 |
-| No more cages! | 90.00% | ~2,880 |
-| Everfrost | 77.00% | ~2,464 |
-| Pentakill | 76.00% | ~2,432 |
-| Dark Forest | 76.00% | ~2,432 |
-| The use of petricite | 73.00% | ~2,336 |
-| You can pet the dog | 60.00% | ~1,920 |
+| For Demacia | 95.00% | ~3,041 |
+| No more cages! | 90.00% | ~2,881 |
+| Everfrost | 77.00% | ~2,465 |
+| Pentakill | 76.00% | ~2,433 |
+| Dark Forest | 76.00% | ~2,433 |
+| The use of petricite | 73.00% | ~2,337 |
+| You can pet the dog | 60.00% | ~1,921 |
 | Thornbarrow | 42.00% | ~1,344 |
 | Big Helmet Bro | 40.00% | ~1,280 |
 | Clarion Cove | 40.00% | ~1,280 |
@@ -33,9 +33,9 @@ Rating: 4.81 (Ranked 84)
 | Full equipped | 23.00% | ~736 |
 | Iffighain Headquarters | 22.00% | ~704 |
 | No more holding back | 19.00% | ~608 |
-| Quickmoore Headquarters | 19.00% | ~608 |
 | Whispers in the Woods II | 18.00% | ~576 |
 | Terbisia | 18.00% | ~576 |
+| Quickmoore Headquarters | 18.00% | ~576 |
 | Whispers in the Woods III | 17.00% | ~544 |
 | Friendly fire | 17.00% | ~544 |
 | The Central Headquarters | 17.00% | ~544 |
@@ -59,7 +59,7 @@ Rating: 4.81 (Ranked 84)
 | Silverwing nest | 2.00% | ~64 |
 | The Unshackled | 1.00% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,200 (Ranked 222)  
+Progressed: 3,201 (Ranked 222)  
 Completed: 18 (0.56%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 18 (0.56%) (Ranked 210)
 | 2023-12-29 | 3,140 | 17 |
 | 2023-12-30 | 3,165 | 17 |
 | 2023-12-31 | 3,186 | 18 |
-| 2024-01-01 | 3,200 | 18 |
+| 2024-01-01 | 3,201 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

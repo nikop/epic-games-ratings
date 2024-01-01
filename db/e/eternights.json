@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -41,9 +41,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 725,
+  "EOS_Progressed": 726,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -2686,6 +2686,11 @@
       "Time": "2024-01-01T11:09:50.7575138+00:00",
       "NumProgressed": 725,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-01T12:09:25.7951697+00:00",
+      "NumProgressed": 726,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -2698,7 +2703,7 @@
       "Name": "New arm",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -2730,7 +2735,7 @@
       "Name": "Yuna\u0027s Promise",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ACHIEVEMENT_15_PromiseMin",
@@ -2738,7 +2743,7 @@
       "Name": "Min\u0027s Promise",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACHIEVEMENT_16_PromiseYohan",
@@ -2762,15 +2767,15 @@
       "Name": "Find myself",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ACHIEVEMENT_19_Romantic",
       "SetID": "9bke6f1",
       "Name": "Romantic",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 102
+      "UsersEstimate": 94
     },
     {
       "ID": "ACHIEVEMENT_1_ShelterEscape",
@@ -2810,7 +2815,7 @@
       "Name": "Truebro",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACHIEVEMENT_24_TentacleMan",
@@ -2834,7 +2839,7 @@
       "Name": "The First Bond",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
@@ -2842,7 +2847,7 @@
       "Name": "Novice Scavenger",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -2858,7 +2863,7 @@
       "Name": "First wall",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
@@ -2874,7 +2879,7 @@
       "Name": "Second wall",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACHIEVEMENT_8_StoneRetriever",
@@ -2882,7 +2887,7 @@
       "Name": "Stone Retriever",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ACHIEVEMENT_9_Flawless",
@@ -2897,7 +2902,7 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 725,
+      "Progressed": 726,
       "Completed": 2
     }
   ],
@@ -2905,8 +2910,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2023-12-31T15:57:10.2736309+00:00",
-  "LastChanged_Achievements": "2024-01-01T11:09:50.7575135+00:00",
+  "LastChanged_Achievements": "2024-01-01T12:09:25.7951694+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.2091482+00:00",
-  "LastUpdate_Ratings": "2024-01-01T10:58:12.611481+00:00",
-  "LastUpdate_Achievements": "2024-01-01T11:09:50.7575461+00:00"
+  "LastUpdate_Ratings": "2024-01-01T11:58:01.8222786+00:00",
+  "LastUpdate_Achievements": "2024-01-01T12:09:25.7952171+00:00"
 }

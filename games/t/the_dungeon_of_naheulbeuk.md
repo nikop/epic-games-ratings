@@ -6,25 +6,25 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~88,528 |
-| Alt+F4 | 10.00% | ~24,591 |
-| Where's that freaking Dwarf? | 9.00% | ~22,132 |
-| Déjà vu | 7.00% | ~17,214 |
+| Sowwy! | 36.00% | ~88,532 |
+| Alt+F4 | 10.00% | ~24,592 |
+| Where's that freaking Dwarf? | 9.00% | ~22,133 |
+| Déjà vu | 7.00% | ~17,215 |
 | Sock! SOCK! | 6.00% | ~14,755 |
 | A beer, two curses, three companions | 5.00% | ~12,296 |
 | GG EZ | 5.00% | ~12,296 |
 | DM intervention | 5.00% | ~12,296 |
 | Speedrun | 5.00% | ~12,296 |
-| Fireproof Wizardess | 4.00% | ~9,836 |
-| Livin' in a dwarven paradise | 3.00% | ~7,377 |
-| Way of the Wimp | 3.00% | ~7,377 |
-| The plot thickens... At the tavern | 3.00% | ~7,377 |
-| The demons' feast | 3.00% | ~7,377 |
-| The Great Library | 3.00% | ~7,377 |
-| Torture and Sensibility | 3.00% | ~7,377 |
-| The Woman in the High Castle | 3.00% | ~7,377 |
-| Team Building Exercise | 3.00% | ~7,377 |
-| Oh, when I'll be level 10... | 3.00% | ~7,377 |
+| Fireproof Wizardess | 4.00% | ~9,837 |
+| Livin' in a dwarven paradise | 3.00% | ~7,378 |
+| Way of the Wimp | 3.00% | ~7,378 |
+| The plot thickens... At the tavern | 3.00% | ~7,378 |
+| The demons' feast | 3.00% | ~7,378 |
+| The Great Library | 3.00% | ~7,378 |
+| Torture and Sensibility | 3.00% | ~7,378 |
+| The Woman in the High Castle | 3.00% | ~7,378 |
+| Team Building Exercise | 3.00% | ~7,378 |
+| Oh, when I'll be level 10... | 3.00% | ~7,378 |
 | Shiny and Crôm | 2.00% | ~4,918 |
 | Urik's Depths | 2.00% | ~4,918 |
 | The Dungeon Master | 2.00% | ~4,918 |
@@ -49,8 +49,8 @@ Number of Ratings: 118  (23.09.2022)
 | We come in peace | 0.80% | ~1,967 |
 | Holistic Adventuring Party | 0.70% | ~1,721 |
 | An old poacher makes the best gamekeeper | 0.70% | ~1,721 |
-| Scholar of the Lands of Fangh | 0.60% | ~1,475 |
-| Law and Order | 0.60% | ~1,475 |
+| Scholar of the Lands of Fangh | 0.60% | ~1,476 |
+| Law and Order | 0.60% | ~1,476 |
 | It's been a hard day's night | 0.50% | ~1,230 |
 | Friendly fire | 0.40% | ~984 |
 | I'd rather... Just... Sing! | 0.40% | ~984 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~246 |
 | Dwarf Candy | 0.10% | ~246 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 245,912 (Ranked 71)  
+Progressed: 245,922 (Ranked 71)  
 Completed: 8 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 8 (0.00%) (Ranked 390)
 | 2023-12-29 | 245,438 | 8 |
 | 2023-12-30 | 245,630 | 8 |
 | 2023-12-31 | 245,835 | 8 |
-| 2024-01-01 | 245,912 | 8 |
+| 2024-01-01 | 245,922 | 8 |
 ## Awards
 Max (Character Customization): 263  (Ranked 275)  
 Sum: 550 (Ranked 328)  

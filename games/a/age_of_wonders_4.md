@@ -6,12 +6,12 @@ Rating: 4.63 (Ranked 359)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 13.00% | ~864 |
-| Realm Estate | 11.00% | ~731 |
-| A Wonderful Discovery | 11.00% | ~731 |
+| Realm Estate | 11.00% | ~732 |
+| A Wonderful Discovery | 11.00% | ~732 |
 | Walls Cannot Stop Us | 10.00% | ~665 |
 | From Friends to Family | 9.00% | ~598 |
 | Bone Peddler | 8.00% | ~532 |
-| Magical Synergy | 7.00% | ~465 |
+| Magical Synergy | 7.00% | ~466 |
 | There Can Only Be One! | 6.00% | ~399 |
 | Full Ascension | 6.00% | ~399 |
 | Stronger Together | 6.00% | ~399 |
@@ -21,13 +21,13 @@ Rating: 4.63 (Ranked 359)
 | Intimidation Tactics | 5.00% | ~332 |
 | But this one is mine | 5.00% | ~332 |
 | My Final Form | 4.00% | ~266 |
-| Return of the Wizard King | 3.00% | ~199 |
-| Enchanted Archipelago | 3.00% | ~199 |
-| Digging for Treasure | 3.00% | ~199 |
-| Fiery Friend | 3.00% | ~199 |
-| Against the Odds | 3.00% | ~199 |
-| Impenetrable Fortress | 3.00% | ~199 |
-| Freed Lands of Manuhari | 3.00% | ~199 |
+| Return of the Wizard King | 3.00% | ~200 |
+| Enchanted Archipelago | 3.00% | ~200 |
+| Digging for Treasure | 3.00% | ~200 |
+| Fiery Friend | 3.00% | ~200 |
+| Against the Odds | 3.00% | ~200 |
+| Impenetrable Fortress | 3.00% | ~200 |
+| Freed Lands of Manuhari | 3.00% | ~200 |
 | Arch Mage | 2.00% | ~133 |
 | The Creator | 2.00% | ~133 |
 | Crimson Caldera | 2.00% | ~133 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 359)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,648 (Ranked 195)  
+Progressed: 6,650 (Ranked 195)  
 Completed: 7 (0.11%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,11 +290,11 @@ Completed: 7 (0.11%) (Ranked 302)
 | 2023-12-29 | 6,495 | 7 |
 | 2023-12-30 | 6,566 | 7 |
 | 2023-12-31 | 6,624 | 7 |
-| 2024-01-01 | 6,648 | 7 |
+| 2024-01-01 | 6,650 | 7 |
 ## Awards
-Max (Great for Beginners): 39  (Ranked 478)  
+Max (Great for Beginners): 39  (Ranked 479)  
 Sum: 184 (Ranked 423)  
-Diff (max vs sum): 55  
+Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 39 |

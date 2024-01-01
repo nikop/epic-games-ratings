@@ -365,9 +365,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 118669,
+  "EOS_Progressed": 118671,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 882,
+  "EOS_NewPlayers": 876,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -23340,6 +23340,11 @@
       "Time": "2024-01-01T11:11:08.8506525+00:00",
       "NumProgressed": 118669,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2024-01-01T12:10:38.6341586+00:00",
+      "NumProgressed": 118671,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 49,
@@ -23359,7 +23364,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 91375
+      "UsersEstimate": 91377
     },
     {
       "ID": "EAwards_10",
@@ -23367,7 +23372,7 @@
       "Name": "Juan Punch Man",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 14240
+      "UsersEstimate": 14241
     },
     {
       "ID": "EAwards_11",
@@ -23383,7 +23388,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 17800
+      "UsersEstimate": 17801
     },
     {
       "ID": "EAwards_13",
@@ -23447,7 +23452,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 58148
+      "UsersEstimate": 58149
     },
     {
       "ID": "EAwards_20",
@@ -23719,7 +23724,7 @@
       "Name": "Questionable Plumbing",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 14240
+      "UsersEstimate": 14241
     },
     {
       "ID": "EAwards_8",
@@ -23727,7 +23732,7 @@
       "Name": "Santa Golpiza!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 14240
+      "UsersEstimate": 14241
     },
     {
       "ID": "EAwards_9",
@@ -23742,7 +23747,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 118669,
+      "Progressed": 118671,
       "Completed": 54
     }
   ],
@@ -23750,8 +23755,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-12-21T05:59:27.8580735+00:00",
-  "LastChanged_Achievements": "2024-01-01T11:11:08.8506521+00:00",
+  "LastChanged_Achievements": "2024-01-01T12:10:38.6341584+00:00",
   "LastUpdate_AppInfo": "2023-12-29T08:57:21.6773482+00:00",
-  "LastUpdate_Ratings": "2024-01-01T10:58:03.000104+00:00",
-  "LastUpdate_Achievements": "2024-01-01T11:11:08.8508607+00:00"
+  "LastUpdate_Ratings": "2024-01-01T11:57:53.4453236+00:00",
+  "LastUpdate_Achievements": "2024-01-01T12:10:38.6342994+00:00"
 }

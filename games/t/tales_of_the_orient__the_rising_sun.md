@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Constructor | 84.00% | ~16 |
+| Happy Ending | 84.00% | ~16 |
 | Good Start | 79.00% | ~15 |
-| Constructor | 79.00% | ~15 |
-| Happy Ending | 79.00% | ~15 |
 | 10 is good! | 58.00% | ~11 |
 | 1 Hour! | 58.00% | ~11 |
 | One-quarter mark | 42.00% | ~8 |

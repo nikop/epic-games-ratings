@@ -24,9 +24,9 @@ Rating: 4.56 (Ranked 504)
 | The Bright Fir | 1.00% | ~9 |
 | Complete Elder Faction | 0.90% | ~21 |
 | End of the Mozis | 0.90% | ~21 |
+| Meet the Creatures from the Deep | 0.90% | ~21 |
 | Throne Room Fit For A King | 0.90% | ~21 |
-| Meet the Creatures from the Deep | 0.80% | ~18 |
-| Return Power To The Depths | 0.80% | ~18 |
+| Return Power To The Depths | 0.90% | ~21 |
 | Defeat Ratnor Rodentson | 0.70% | ~16 |
 | Fix the Travellers Wagon | 0.70% | ~16 |
 | Defeat the Grub Buster | 0.70% | ~7 |

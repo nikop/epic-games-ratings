@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -167,9 +167,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16218,
+  "EOS_Progressed": 16219,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 402,
+  "EOS_NewPlayers": 400,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -5532,6 +5532,11 @@
       "Time": "2024-01-01T11:10:24.9345012+00:00",
       "NumProgressed": 16218,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-01T12:09:57.2111194+00:00",
+      "NumProgressed": 16219,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -5584,7 +5589,7 @@
       "Name": "Sticky Situation",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 3081
+      "UsersEstimate": 3082
     },
     {
       "ID": "ACH_AE_15",
@@ -5632,7 +5637,7 @@
       "Name": "Back to School",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3892
+      "UsersEstimate": 3893
     },
     {
       "ID": "ACH_AE_20",
@@ -5656,7 +5661,7 @@
       "Name": "The High Road",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 3892
+      "UsersEstimate": 3893
     },
     {
       "ID": "ACH_AE_23",
@@ -5823,7 +5828,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16218,
+      "Progressed": 16219,
       "Completed": 15
     }
   ],
@@ -5831,8 +5836,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-27T16:00:31.0909826+00:00",
-  "LastChanged_Achievements": "2024-01-01T11:10:24.9345009+00:00",
+  "LastChanged_Achievements": "2024-01-01T12:09:57.2111191+00:00",
   "LastUpdate_AppInfo": "2023-12-26T18:57:07.3435183+00:00",
-  "LastUpdate_Ratings": "2024-01-01T10:58:41.3050348+00:00",
-  "LastUpdate_Achievements": "2024-01-01T11:10:24.9345561+00:00"
+  "LastUpdate_Ratings": "2024-01-01T11:58:28.0656787+00:00",
+  "LastUpdate_Achievements": "2024-01-01T12:09:57.2111629+00:00"
 }

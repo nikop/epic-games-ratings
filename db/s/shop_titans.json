@@ -7909,9 +7909,9 @@
       "Count": 3808
     }
   ],
-  "EOS_Progressed": 148775,
+  "EOS_Progressed": 148783,
   "EOS_Completed": 340,
-  "EOS_NewPlayers": 1264,
+  "EOS_NewPlayers": 1263,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -34854,6 +34854,11 @@
       "Time": "2024-01-01T11:07:04.0619639+00:00",
       "NumProgressed": 148775,
       "NumCompleted": 340
+    },
+    {
+      "Time": "2024-01-01T12:06:30.9375753+00:00",
+      "NumProgressed": 148783,
+      "NumCompleted": 340
     }
   ],
   "TotalAchievements": 112,
@@ -35129,7 +35134,7 @@
       "Name": "Disintermediation",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10414
+      "UsersEstimate": 10415
     },
     {
       "ID": "craft02",
@@ -35241,7 +35246,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8926
+      "UsersEstimate": 8927
     },
     {
       "ID": "expansion02",
@@ -35337,7 +35342,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11902
+      "UsersEstimate": 11903
     },
     {
       "ID": "gold02",
@@ -35449,7 +35454,7 @@
       "Name": "Budding Merchant",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8926
+      "UsersEstimate": 8927
     },
     {
       "ID": "level02",
@@ -35641,7 +35646,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10414
+      "UsersEstimate": 10415
     },
     {
       "ID": "sell02",
@@ -35760,15 +35765,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 148775,
+      "Progressed": 148783,
       "Completed": 340
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-01T05:03:24.8918363+00:00",
-  "LastChanged_Achievements": "2024-01-01T11:07:04.0619638+00:00",
+  "LastChanged_Achievements": "2024-01-01T12:06:30.937575+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.6407181+00:00",
-  "LastUpdate_Ratings": "2024-01-01T11:03:55.7227266+00:00",
-  "LastUpdate_Achievements": "2024-01-01T11:07:04.0621732+00:00"
+  "LastUpdate_Ratings": "2024-01-01T12:03:37.74976+00:00",
+  "LastUpdate_Achievements": "2024-01-01T12:06:30.9377779+00:00"
 }
