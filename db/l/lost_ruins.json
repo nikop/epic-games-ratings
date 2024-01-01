@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -1790,9 +1790,9 @@
       "ID": "Gladiator",
       "SetID": "82505mn",
       "Name": "Gladiator",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 77
     },
     {
       "ID": "GoblinTales",
@@ -2047,8 +2047,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2024-01-01T05:10:24.437378+00:00",
+  "LastChanged_Achievements": "2024-01-01T06:11:04.5865565+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:03.2604081+00:00",
-  "LastUpdate_Ratings": "2024-01-01T05:01:34.0604646+00:00",
-  "LastUpdate_Achievements": "2024-01-01T05:10:24.4374242+00:00"
+  "LastUpdate_Ratings": "2024-01-01T06:02:13.4001029+00:00",
+  "LastUpdate_Achievements": "2024-01-01T06:11:04.5865966+00:00"
 }

@@ -7,30 +7,30 @@
 | Iceberg Theory | 77.00% | ~112 |
 | Gear Up | 66.00% | ~96 |
 | A Grand Show | 66.00% | ~96 |
-| Freshen Up | 56.00% | ~81 |
+| Freshen Up | 55.00% | ~80 |
 | GG EZ | 53.00% | ~77 |
 | Hydrophobia | 37.00% | ~54 |
-| Ka-Ching! | 30.00% | ~44 |
-| Stop Right There | 28.00% | ~41 |
+| Ka-Ching! | 29.00% | ~42 |
+| Stop Right There | 27.00% | ~39 |
 | Get to the Point | 25.00% | ~36 |
 | Mr. Want It All | 14.00% | ~20 |
 | Toe to Toe | 14.00% | ~20 |
 | Phew! | 14.00% | ~20 |
 | The Hidden Secret | 13.00% | ~19 |
-| The Abyss Conqueror | 10.00% | ~14 |
-| Space Warrior: Prologue | 10.00% | ~14 |
+| The Abyss Conqueror | 10.00% | ~15 |
+| Space Warrior: Prologue | 10.00% | ~15 |
 | Grand Escape | 9.00% | ~13 |
 | The Fortress Conqueror | 8.00% | ~12 |
 | Keep it Up, rookie! | 7.00% | ~10 |
-| The Hypergravitational Abyss Conqueror | 6.00% | ~9 |
-| he Ultra Fortress Conqueror | 6.00% | ~9 |
-| Decapitation Strike | 6.00% | ~9 |
 | The Deep Frozen Conqueror | 5.00% | ~7 |
 | The Infinite Train Conqueror | 5.00% | ~7 |
 | The Paradox Coordinate Conqueror | 5.00% | ~7 |
 | The Inactivated Frozen Conqueror | 5.00% | ~7 |
+| The Hypergravitational Abyss Conqueror | 5.00% | ~7 |
+| he Ultra Fortress Conqueror | 5.00% | ~7 |
 | Antaeus | 5.00% | ~7 |
 | Hell of a Fight | 5.00% | ~7 |
+| Decapitation Strike | 5.00% | ~7 |
 | The Sunken City Conqueror | 4.00% | ~6 |
 | The Zero Dimensional Capital Conqueror | 4.00% | ~6 |
 | Death Bringer Conqueror | 4.00% | ~6 |
@@ -55,8 +55,8 @@
 | Bullets Fear Me | 0.70% | ~1 |
 | Super Alloy Ranger! | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 145 (Ranked 451)  
-Completed: 1 (0.69%) (Ranked 196)  
+Progressed: 146 (Ranked 450)  
+Completed: 1 (0.68%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -135,7 +135,7 @@ Completed: 1 (0.69%) (Ranked 196)
 | 2023-12-26 | 141 | 1 |
 | 2023-12-29 | 142 | 1 |
 | 2023-12-31 | 144 | 1 |
-| 2024-01-01 | 145 | 1 |
+| 2024-01-01 | 146 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

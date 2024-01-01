@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 341,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1833,
+  "EOS_Progressed": 1834,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4827,6 +4827,11 @@
       "Time": "2023-12-31T19:09:20.3065261+00:00",
       "NumProgressed": 1833,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T06:10:11.4750707+00:00",
+      "NumProgressed": 1834,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4886,7 +4891,7 @@
       "Name": "Hot Repairs",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_LETS_COOK",
@@ -4926,7 +4931,7 @@
       "Name": "5G Network",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "NEW_ACHIEVEMENT_ALIENS",
@@ -5102,7 +5107,7 @@
       "Name": "Never Ending Story?",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "NEW_ACHIEVEMENT_OCCUPY_MARS",
@@ -5110,7 +5115,7 @@
       "Name": "Occupy Mars!",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -5221,7 +5226,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1833,
+      "Progressed": 1834,
       "Completed": 0
     }
   ],
@@ -5229,8 +5234,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-12-25T15:00:25.6690232+00:00",
-  "LastChanged_Achievements": "2024-01-01T05:09:35.018655+00:00",
+  "LastChanged_Achievements": "2024-01-01T06:10:11.4750703+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:37.9319914+00:00",
-  "LastUpdate_Ratings": "2024-01-01T05:01:05.3314336+00:00",
-  "LastUpdate_Achievements": "2024-01-01T05:09:35.018706+00:00"
+  "LastUpdate_Ratings": "2024-01-01T06:01:41.0051175+00:00",
+  "LastUpdate_Achievements": "2024-01-01T06:10:11.4751202+00:00"
 }

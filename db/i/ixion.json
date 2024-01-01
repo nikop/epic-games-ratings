@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -323,7 +323,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3864,
+  "EOS_Progressed": 3865,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
@@ -7588,6 +7588,11 @@
       "Time": "2024-01-01T05:06:40.2595929+00:00",
       "NumProgressed": 3864,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T06:07:22.8799172+00:00",
+      "NumProgressed": 3865,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -7663,7 +7668,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1044
     },
     {
       "ID": "ACH_BASE_19",
@@ -7687,7 +7692,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1236
+      "UsersEstimate": 1237
     },
     {
       "ID": "ACH_BASE_22",
@@ -7727,7 +7732,7 @@
       "Name": "Sightseeing",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ACH_BASE_27",
@@ -7823,7 +7828,7 @@
       "Name": "Necessary Enhancement",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ACH_BASE_38",
@@ -7989,9 +7994,9 @@
       "ID": "ACH_BASE_60",
       "SetID": "92iocjf",
       "Name": "Crunch Culture",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_BASE_61",
@@ -8031,7 +8036,7 @@
       "Name": "From the Past",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ACH_BASE_8",
@@ -8054,13 +8059,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 2048,
+      "Progressed": 2049,
       "Completed": 10
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3864,
+      "Progressed": 3865,
       "Completed": 0
     }
   ],
@@ -8068,8 +8073,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-22T13:57:44.9340377+00:00",
-  "LastChanged_Achievements": "2024-01-01T05:06:40.2595924+00:00",
+  "LastChanged_Achievements": "2024-01-01T06:07:22.8799165+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:27.7465752+00:00",
-  "LastUpdate_Ratings": "2024-01-01T05:02:54.2218762+00:00",
-  "LastUpdate_Achievements": "2024-01-01T05:06:40.2596624+00:00"
+  "LastUpdate_Ratings": "2024-01-01T06:03:15.4446678+00:00",
+  "LastUpdate_Achievements": "2024-01-01T06:07:22.8799919+00:00"
 }

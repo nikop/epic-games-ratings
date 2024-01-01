@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 85.00% | ~207 |
-| A piece of the story | 61.00% | ~149 |
+| Something important | 85.00% | ~208 |
+| A piece of the story | 62.00% | ~152 |
 | It's covered up for a reason | 54.00% | ~132 |
 | Wanderer | 54.00% | ~132 |
-| Scraps of love | 48.00% | ~117 |
-| The artist’s impression | 46.00% | ~112 |
-| Do what you have to | 42.00% | ~102 |
+| Scraps of love | 48.00% | ~118 |
+| The artist’s impression | 46.00% | ~113 |
+| Do what you have to | 42.00% | ~103 |
 | Sign of weakness | 38.00% | ~93 |
-| Refuse to look | 35.00% | ~85 |
+| Refuse to look | 35.00% | ~86 |
 | Face your fears | 29.00% | ~71 |
-| Finished it | 26.00% | ~63 |
+| Finished it | 26.00% | ~64 |
 | Whispers long forgotten | 16.00% | ~39 |
 | The art of movement | 13.00% | ~32 |
 | A Slice of Life | 12.00% | ~29 |
@@ -32,7 +32,7 @@
 | True Reflection | 7.00% | ~17 |
 | Casting Finished | 6.00% | ~15 |
 | Heavy Burden | 6.00% | ~15 |
-| Instinct of self-preservation | 5.00% | ~12 |
+| Instinct of self-preservation | 6.00% | ~15 |
 | Something to think about | 4.00% | ~10 |
 | I remember It Like Was Yesterday | 4.00% | ~10 |
 | Immortalized in my heart | 4.00% | ~10 |
@@ -57,7 +57,7 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 244 (Ranked 408)  
+Progressed: 245 (Ranked 408)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,4 +127,4 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-29 | 227 | 0 |
 | 2023-12-30 | 235 | 0 |
 | 2023-12-31 | 243 | 0 |
-| 2024-01-01 | 244 | 0 |
+| 2024-01-01 | 245 | 0 |

@@ -179,7 +179,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1387,
+  "EOS_Progressed": 1388,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 1,
@@ -4784,6 +4784,11 @@
       "Time": "2024-01-01T03:06:59.5779469+00:00",
       "NumProgressed": 1387,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-01T06:06:59.9238883+00:00",
+      "NumProgressed": 1388,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4804,7 +4809,7 @@
       "Name": "A New Journey",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 943
+      "UsersEstimate": 944
     },
     {
       "ID": "_03_FinishAct1",
@@ -4852,7 +4857,7 @@
       "Name": "Swabbie",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "_09_Completion_20",
@@ -4868,7 +4873,7 @@
       "Name": "Buccaneer",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "_11_Completion_40",
@@ -4900,7 +4905,7 @@
       "Name": "Freebooter",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "_15_Completion_80",
@@ -4924,7 +4929,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -4948,7 +4953,7 @@
       "Name": "Fishy Fish",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -4978,9 +4983,9 @@
       "ID": "_24_CrewTale_SNP",
       "SetID": "8a1io5d",
       "Name": "Jaded Judge",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 167
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -5003,7 +5008,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1387,
+      "Progressed": 1388,
       "Completed": 35
     }
   ],
@@ -5011,8 +5016,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-27T21:58:17.6269244+00:00",
-  "LastChanged_Achievements": "2024-01-01T05:06:19.5767377+00:00",
+  "LastChanged_Achievements": "2024-01-01T06:06:59.9238876+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.1530944+00:00",
-  "LastUpdate_Ratings": "2024-01-01T05:01:15.9996935+00:00",
-  "LastUpdate_Achievements": "2024-01-01T05:06:19.5767818+00:00"
+  "LastUpdate_Ratings": "2024-01-01T06:01:53.1269982+00:00",
+  "LastUpdate_Achievements": "2024-01-01T06:06:59.923919+00:00"
 }

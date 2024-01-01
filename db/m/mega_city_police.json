@@ -2,10 +2,10 @@
   "ID": "a0a5746aad2645a9a23913766d2f4667",
   "Name": "Mega City Force",
   "ProductSlug": "mega-city-police-22a245",
-  "Ranking_EOS_Progress": 568,
+  "Ranking_EOS_Progress": 569,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 526,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 527,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-07-28T14:00:00+00:00",
     "PcReleaseDate": "2023-07-28T14:00:00+00:00",
@@ -448,8 +448,8 @@
   ],
   "FirstSeen": "2023-07-30T18:59:40.5539908+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:08.7767583+00:00",
-  "LastChanged_Achievements": "2024-01-01T05:10:20.8072984+00:00",
+  "LastChanged_Achievements": "2024-01-01T06:11:00.6164207+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:20.1917529+00:00",
-  "LastUpdate_Ratings": "2024-01-01T04:57:14.1722866+00:00",
-  "LastUpdate_Achievements": "2024-01-01T05:10:20.8073191+00:00"
+  "LastUpdate_Ratings": "2024-01-01T05:57:27.8162014+00:00",
+  "LastUpdate_Achievements": "2024-01-01T06:11:00.6164398+00:00"
 }

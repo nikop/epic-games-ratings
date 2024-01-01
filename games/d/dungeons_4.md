@@ -32,7 +32,7 @@ Rating: 4.67 (Ranked 284)
 | Dungeonlord Gorgu | 45.00% | ~306 |
 | Tanos' Crusade Against Thalya | 45.00% | ~306 |
 | Mana Cannon | 42.00% | ~286 |
-| All’s Well That Ends Evil | 40.00% | ~272 |
+| All’s Well That Ends Evil | 41.00% | ~279 |
 | The Duel | 38.00% | ~258 |
 | Unstoppable Horde | 35.00% | ~238 |
 | If Looks Could Kill | 35.00% | ~238 |

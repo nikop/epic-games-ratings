@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 542,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -655,9 +655,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 4172,
+  "EOS_Progressed": 4173,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -9230,6 +9230,11 @@
       "Time": "2024-01-01T04:09:55.9480571+00:00",
       "NumProgressed": 4172,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-01T06:10:09.1861036+00:00",
+      "NumProgressed": 4173,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9409,7 +9414,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1752
+      "UsersEstimate": 1753
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -9425,7 +9430,7 @@
       "Name": "Rigged to Blow",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -9449,7 +9454,7 @@
       "Name": "Lord of War",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1293
+      "UsersEstimate": 1294
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -9481,7 +9486,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1001
+      "UsersEstimate": 1002
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -9553,7 +9558,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1418
+      "UsersEstimate": 1419
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -9633,7 +9638,7 @@
       "Name": "Target America",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1126
+      "UsersEstimate": 1127
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -9808,13 +9813,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4123,
+      "Progressed": 4124,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4172,
+      "Progressed": 4173,
       "Completed": 11
     }
   ],
@@ -9822,8 +9827,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-31T17:57:21.8483577+00:00",
-  "LastChanged_Achievements": "2024-01-01T05:09:32.8684182+00:00",
+  "LastChanged_Achievements": "2024-01-01T06:10:09.1861031+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:41.6601563+00:00",
-  "LastUpdate_Ratings": "2024-01-01T04:57:46.0787605+00:00",
-  "LastUpdate_Achievements": "2024-01-01T05:09:32.8685051+00:00"
+  "LastUpdate_Ratings": "2024-01-01T05:58:01.8277979+00:00",
+  "LastUpdate_Achievements": "2024-01-01T06:10:09.1861927+00:00"
 }

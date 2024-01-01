@@ -2,10 +2,10 @@
   "ID": "3645577654d440e4a833ce60dac7ccf3",
   "Name": "Persha and the Magic Labyrinth -Arabian Nyaights-",
   "ProductSlug": "persha-and-the-magic-labyrinth-ca72d4",
-  "Ranking_EOS_Progress": 600,
+  "Ranking_EOS_Progress": 601,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 387,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-22T05:00:00+00:00",
     "PcReleaseDate": "2023-09-19T05:00:00+00:00",
@@ -512,8 +512,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-22T06:03:17.9237808+00:00",
-  "LastChanged_Achievements": "2024-01-01T05:03:53.59494+00:00",
+  "LastChanged_Achievements": "2024-01-01T06:04:20.6347137+00:00",
   "LastUpdate_AppInfo": "2023-12-27T07:56:54.3726407+00:00",
-  "LastUpdate_Ratings": "2024-01-01T05:00:00.298392+00:00",
-  "LastUpdate_Achievements": "2024-01-01T05:03:53.5949688+00:00"
+  "LastUpdate_Ratings": "2024-01-01T06:00:31.9532244+00:00",
+  "LastUpdate_Achievements": "2024-01-01T06:04:20.6347621+00:00"
 }

@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17944,
+  "EOS_Progressed": 17947,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 592,
+  "EOS_NewPlayers": 591,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -15870,6 +15870,11 @@
       "Time": "2024-01-01T05:03:50.995174+00:00",
       "NumProgressed": 17944,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-01T06:04:17.7846775+00:00",
+      "NumProgressed": 17947,
+      "NumCompleted": 58
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15914,7 +15919,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2871
+      "UsersEstimate": 2872
     },
     {
       "ID": "14",
@@ -15946,7 +15951,7 @@
       "Name": "Spore Taste",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1794
+      "UsersEstimate": 1795
     },
     {
       "ID": "18",
@@ -16090,7 +16095,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2153
+      "UsersEstimate": 2154
     },
     {
       "ID": "7",
@@ -16161,22 +16166,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17944,
+      "Progressed": 17947,
       "Completed": 58
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3898,
-      "Completed": 1139
+      "Progressed": 3901,
+      "Completed": 1140
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T23:58:17.8612142+00:00",
-  "LastChanged_Achievements": "2024-01-01T05:03:50.9951735+00:00",
+  "LastChanged_Achievements": "2024-01-01T06:04:17.7846769+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2024-01-01T04:58:59.5670009+00:00",
-  "LastUpdate_Achievements": "2024-01-01T05:03:50.9953378+00:00"
+  "LastUpdate_Ratings": "2024-01-01T05:59:23.9368269+00:00",
+  "LastUpdate_Achievements": "2024-01-01T06:04:17.7848393+00:00"
 }

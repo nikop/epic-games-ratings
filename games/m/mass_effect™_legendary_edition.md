@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 90.00% | ~3,142 |
-| Spectre Inductee | 67.00% | ~2,339 |
+| Distinguished Service Medal | 90.00% | ~3,143 |
+| Spectre Inductee | 67.00% | ~2,340 |
 | Medal of Exploration I | 57.00% | ~1,990 |
-| Recruit | 52.00% | ~1,815 |
-| Search and Rescue | 51.00% | ~1,780 |
+| Recruit | 52.00% | ~1,816 |
+| Search and Rescue | 51.00% | ~1,781 |
 | Quarian Ally | 49.00% | ~1,711 |
 | Medal of Heroism | 44.00% | ~1,536 |
 | Honorarium of Corporate Service | 44.00% | ~1,536 |
-| Turian Ally | 41.00% | ~1,431 |
-| Medal of Exploration II | 39.00% | ~1,361 |
-| Council Legion of Merit | 39.00% | ~1,361 |
+| Turian Ally | 41.00% | ~1,432 |
+| Medal of Exploration II | 39.00% | ~1,362 |
+| Council Legion of Merit | 39.00% | ~1,362 |
 | Medal of Honor | 36.00% | ~1,257 |
 | Meritorious Service Medal | 36.00% | ~1,257 |
 | Soldier Ally | 36.00% | ~1,257 |
@@ -25,16 +25,16 @@
 | Very Elusive | 33.00% | ~1,152 |
 | Principled | 32.00% | ~1,117 |
 | Colonial Savior | 32.00% | ~1,117 |
-| Medal of Exploration III | 31.00% | ~1,082 |
-| Sentinel Ally | 31.00% | ~1,082 |
-| Krogan Ally | 31.00% | ~1,082 |
-| Merciless | 31.00% | ~1,082 |
-| Scientist | 31.00% | ~1,082 |
-| Paramour I | 30.00% | ~1,047 |
-| The Professor | 29.00% | ~1,012 |
-| Head Hunter | 29.00% | ~1,012 |
-| Scholar | 29.00% | ~1,012 |
-| The Archangel | 28.00% | ~977 |
+| Medal of Exploration III | 31.00% | ~1,083 |
+| Krogan Ally | 31.00% | ~1,083 |
+| Merciless | 31.00% | ~1,083 |
+| Scientist | 31.00% | ~1,083 |
+| Paramour I | 30.00% | ~1,048 |
+| Sentinel Ally | 30.00% | ~1,048 |
+| The Professor | 29.00% | ~1,013 |
+| Head Hunter | 29.00% | ~1,013 |
+| Scholar | 29.00% | ~1,013 |
+| The Archangel | 28.00% | ~978 |
 | Operative | 27.00% | ~943 |
 | The Convict | 26.00% | ~908 |
 | Power Full | 26.00% | ~908 |
@@ -42,8 +42,8 @@
 | The Krogan | 25.00% | ~873 |
 | Veteran | 24.00% | ~838 |
 | Broke, Blind, and Bedlam | 24.00% | ~838 |
+| Ghost Ship | 23.00% | ~803 |
 | Driven | 23.00% | ~803 |
-| Ghost Ship | 22.00% | ~768 |
 | The Assassin | 22.00% | ~768 |
 | The Justicar | 22.00% | ~768 |
 | The Quarian | 22.00% | ~768 |
@@ -65,20 +65,20 @@
 | Big Game Hunter | 20.00% | ~698 |
 | Digital Exorcist | 20.00% | ~698 |
 | Focused | 19.00% | ~663 |
-| Suicide Mission | 19.00% | ~663 |
 | Friend or Foe | 19.00% | ~663 |
 | Cat's in the Cradle | 19.00% | ~663 |
 | Doppelganger | 19.00% | ~663 |
 | Agent | 19.00% | ~663 |
 | Mobilizer | 19.00% | ~663 |
-| Untouchable | 18.00% | ~628 |
-| Eye of the Hurricane | 18.00% | ~628 |
-| Giant Killer | 18.00% | ~628 |
-| First Aid Specialist | 18.00% | ~628 |
-| Mission Accomplished | 18.00% | ~628 |
-| Against All Odds | 18.00% | ~628 |
-| A House Divided | 18.00% | ~628 |
-| World Shaker | 17.00% | ~593 |
+| Untouchable | 18.00% | ~629 |
+| Eye of the Hurricane | 18.00% | ~629 |
+| Giant Killer | 18.00% | ~629 |
+| First Aid Specialist | 18.00% | ~629 |
+| Mission Accomplished | 18.00% | ~629 |
+| Suicide Mission | 18.00% | ~629 |
+| Against All Odds | 18.00% | ~629 |
+| A House Divided | 18.00% | ~629 |
+| World Shaker | 17.00% | ~594 |
 | Pathfinder | 16.00% | ~559 |
 | Tunnel Rat | 16.00% | ~559 |
 | Arbiter | 16.00% | ~559 |
@@ -115,8 +115,8 @@
 | Bruiser | 7.00% | ~244 |
 | Lift Mastery | 7.00% | ~244 |
 | Overload Specialist | 7.00% | ~244 |
-| Sky High | 6.00% | ~209 |
-| Hijacker | 6.00% | ~209 |
+| Sky High | 6.00% | ~210 |
+| Hijacker | 6.00% | ~210 |
 | Insanity I | 4.00% | ~140 |
 | Damping Specialist | 4.00% | ~140 |
 | Singularity Mastery | 4.00% | ~140 |
@@ -132,7 +132,7 @@
 | Neural Shock Specialist | 1.00% | ~35 |
 | The One and Only | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,491 (Ranked 219)  
+Progressed: 3,492 (Ranked 219)  
 Completed: 12 (0.34%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,4 +240,4 @@ Completed: 12 (0.34%) (Ranked 239)
 | 2023-12-29 | 3,336 | 12 |
 | 2023-12-30 | 3,419 | 12 |
 | 2023-12-31 | 3,483 | 12 |
-| 2024-01-01 | 3,491 | 12 |
+| 2024-01-01 | 3,492 | 12 |

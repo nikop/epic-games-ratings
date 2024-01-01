@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 317,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -367,9 +367,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2418,
+  "EOS_Progressed": 2421,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 613,
+  "EOS_NewPlayers": 612,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3937,6 +3937,11 @@
       "Time": "2024-01-01T04:10:34.2566459+00:00",
       "NumProgressed": 2418,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-01T06:10:46.7097911+00:00",
+      "NumProgressed": 2421,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -3949,7 +3954,7 @@
       "Name": "Unforeseen",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 2128
+      "UsersEstimate": 2130
     },
     {
       "ID": "achievement_10",
@@ -3957,7 +3962,7 @@
       "Name": "Control is an Illusion",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "achievement_11",
@@ -3989,7 +3994,7 @@
       "Name": "Geas Aristeya",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "achievement_15",
@@ -3997,7 +4002,7 @@
       "Name": "A Perfect Cycle",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "achievement_16",
@@ -4005,7 +4010,7 @@
       "Name": "Recruit",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "achievement_17",
@@ -4013,7 +4018,7 @@
       "Name": "Lights Army",
       "Percentage": 8,
       "XP": 60,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "achievement_18",
@@ -4029,7 +4034,7 @@
       "Name": "Socialite",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "achievement_2",
@@ -4037,7 +4042,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1934
+      "UsersEstimate": 1937
     },
     {
       "ID": "achievement_20",
@@ -4093,7 +4098,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1644
+      "UsersEstimate": 1646
     },
     {
       "ID": "achievement_36",
@@ -4125,7 +4130,7 @@
       "Name": "No More Names",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1233
+      "UsersEstimate": 1235
     },
     {
       "ID": "achievement_41",
@@ -4165,7 +4170,7 @@
       "Name": "Periapt Alizarin",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "achievement_46",
@@ -4181,7 +4186,7 @@
       "Name": "Enlisted",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 1789
+      "UsersEstimate": 1792
     },
     {
       "ID": "achievement_49",
@@ -4189,7 +4194,7 @@
       "Name": "Soldier",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "achievement_5",
@@ -4197,7 +4202,7 @@
       "Name": "Initiate",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 870
+      "UsersEstimate": 872
     },
     {
       "ID": "achievement_50",
@@ -4245,7 +4250,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "achievement_60",
@@ -4309,7 +4314,7 @@
       "Name": "All the Major Food Groups",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "achievement_9",
@@ -4324,7 +4329,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 2418,
+      "Progressed": 2421,
       "Completed": 2
     }
   ],
@@ -4332,8 +4337,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-01T01:53:59.6513692+00:00",
-  "LastChanged_Achievements": "2024-01-01T05:10:07.6963299+00:00",
+  "LastChanged_Achievements": "2024-01-01T06:10:46.7097906+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.4007279+00:00",
-  "LastUpdate_Ratings": "2024-01-01T04:57:49.6555028+00:00",
-  "LastUpdate_Achievements": "2024-01-01T05:10:07.6963868+00:00"
+  "LastUpdate_Ratings": "2024-01-01T05:58:05.6835249+00:00",
+  "LastUpdate_Achievements": "2024-01-01T06:10:46.7098508+00:00"
 }

@@ -6,32 +6,33 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 12.00% | ~711 |
-| Lost and Found | 7.00% | ~415 |
-| Autodidact | 6.00% | ~7,863 |
+| Malpractice Assurance | 12.00% | ~713 |
+| Lost and Found | 7.00% | ~416 |
+| Autodidact | 6.00% | ~7,864 |
 | This guy... again? | 6.00% | ~356 |
 | Serenity Now! | 5.00% | ~6,553 |
 | This Belongs in a Museum | 5.00% | ~6,553 |
 | Creep and Sleep | 5.00% | ~6,553 |
 | Overdue Notice | 5.00% | ~6,553 |
 | Escape from the Black Hole | 5.00% | ~6,553 |
-| Ploughshares to Swords | 5.00% | ~296 |
-| Bloody Graduation | 5.00% | ~296 |
-| Don't Make Me Turn This Coach Around | 4.00% | ~5,242 |
-| It Rings a Bell | 4.00% | ~5,242 |
-| Not Today! | 4.00% | ~5,242 |
-| Meat and Greet | 4.00% | ~5,242 |
-| Catch and Decease | 4.00% | ~5,242 |
-| It Happens | 4.00% | ~5,242 |
-| Rush Hour | 4.00% | ~5,242 |
-| To Grandmother's House | 4.00% | ~5,242 |
-| A Place to Lay Your Head | 4.00% | ~5,242 |
-| FNG | 4.00% | ~5,242 |
-| Friends 'Til the End | 4.00% | ~237 |
+| Ploughshares to Swords | 5.00% | ~297 |
+| Bloody Graduation | 5.00% | ~297 |
+| Don't Make Me Turn This Coach Around | 4.00% | ~5,243 |
+| It Rings a Bell | 4.00% | ~5,243 |
+| Not Today! | 4.00% | ~5,243 |
+| Meat and Greet | 4.00% | ~5,243 |
+| Catch and Decease | 4.00% | ~5,243 |
+| It Happens | 4.00% | ~5,243 |
+| Rush Hour | 4.00% | ~5,243 |
+| To Grandmother's House | 4.00% | ~5,243 |
+| A Place to Lay Your Head | 4.00% | ~5,243 |
+| FNG | 4.00% | ~5,243 |
+| Friends 'Til the End | 4.00% | ~238 |
 | Resurrection | 3.00% | ~3,932 |
 | Unleash Hell | 3.00% | ~3,932 |
 | Funny Guy | 3.00% | ~3,932 |
 | Long Live the King | 3.00% | ~3,932 |
+| Wyrdly Reconstructed | 3.00% | ~3,932 |
 | Unfulfilled Desires | 3.00% | ~3,932 |
 | Dissector | 3.00% | ~3,932 |
 | Banishment | 3.00% | ~3,932 |
@@ -40,10 +41,10 @@ Number of Ratings: 7,767  (23.09.2022)
 | Merry Time | 3.00% | ~3,932 |
 | Harvest Festival | 3.00% | ~3,932 |
 | Ramble On | 3.00% | ~3,932 |
+| A Clear Conscience | 3.00% | ~3,932 |
 | Whale | 3.00% | ~3,932 |
 | Nope | 3.00% | ~3,932 |
 | Unshackled | 3.00% | ~3,932 |
-| Wyrdly Reconstructed | 2.00% | ~2,621 |
 | Boxcar Kid | 2.00% | ~2,621 |
 | This Looks Familiar | 2.00% | ~2,621 |
 | Hope Rekindled | 2.00% | ~2,621 |
@@ -52,7 +53,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Ichthyophobic | 2.00% | ~2,621 |
 | No More Mouths to Feed | 2.00% | ~2,621 |
 | Reverse Banditry | 2.00% | ~2,621 |
-| A Clear Conscience | 2.00% | ~2,621 |
 | When You Want Something Done Right | 2.00% | ~2,621 |
 | Worldly Traveller | 2.00% | ~2,621 |
 | Utopia | 2.00% | ~2,621 |
@@ -64,10 +64,10 @@ Number of Ratings: 7,767  (23.09.2022)
 | Body of Work | 1.00% | ~1,311 |
 | Slap on the Wrist | 1.00% | ~59 |
 | For Old Time' Sake | 1.00% | ~59 |
-| Clearing the Ledger | 0.80% | ~1,048 |
-| Triage | 0.80% | ~1,048 |
-| No Mercy | 0.80% | ~47 |
-| Et Tu, Riposte? | 0.80% | ~47 |
+| Clearing the Ledger | 0.80% | ~1,049 |
+| Triage | 0.80% | ~1,049 |
+| No Mercy | 0.80% | ~48 |
+| Et Tu, Riposte? | 0.80% | ~48 |
 | Hat Trick | 0.70% | ~917 |
 | The World As It Was | 0.60% | ~786 |
 | A Life Well Lived | 0.50% | ~655 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,058 (Ranked 90)  
+Progressed: 131,069 (Ranked 90)  
 Completed: 3 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,7 +332,7 @@ Completed: 3 (0.00%) (Ranked 391)
 | 2023-12-29 | 130,627 | 3 |
 | 2023-12-30 | 130,838 | 3 |
 | 2023-12-31 | 131,026 | 3 |
-| 2024-01-01 | 131,058 | 3 |
+| 2024-01-01 | 131,069 | 3 |
 ## Awards
 Max (Character Customization): 7,910  (Ranked 50)  
 Sum: 21,298 (Ranked 58)  

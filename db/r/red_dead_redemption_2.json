@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 7,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 570,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2019-11-05T13:00:00+00:00",
     "PcReleaseDate": null,
@@ -19205,10 +19205,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 600239,
       "NumberOfAwardsMax": 231177
+    },
+    {
+      "Time": "2024-01-01T05:59:51.2069693+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 601121,
+      "NumberOfAwardsMax": 231177
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 600239,
+  "NumberOfAwards": 601121,
   "NumberOfAwardsMax": 231177,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -19222,7 +19228,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 128083
+      "Count": 128965
     },
     {
       "Text": "This game is Extremely Fun",
@@ -19308,8 +19314,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2024-01-01T02:59:40.4266066+00:00",
+  "LastChanged": "2024-01-01T05:59:51.2069678+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:09.6393961+00:00",
-  "LastUpdate_Ratings": "2024-01-01T04:59:25.2439924+00:00",
-  "LastUpdate_Achievements": "2024-01-01T05:05:50.207966+00:00"
+  "LastUpdate_Ratings": "2024-01-01T05:59:51.2069698+00:00",
+  "LastUpdate_Achievements": "2024-01-01T06:06:27.8977973+00:00"
 }

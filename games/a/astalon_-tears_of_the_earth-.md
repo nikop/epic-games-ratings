@@ -11,11 +11,11 @@
 | Monster Hunt | 36.00% | ~29 |
 | Beast Hunter | 31.00% | ~25 |
 | Fly, you fool! | 31.00% | ~25 |
+| Loot, loot! | 31.00% | ~25 |
 | Vanquisher! | 30.00% | ~24 |
 | Orb Collector | 30.00% | ~24 |
 | Snakehead! | 30.00% | ~24 |
 | Unmasked! | 30.00% | ~24 |
-| Loot, loot! | 30.00% | ~24 |
 | Twin slayer! | 28.00% | ~23 |
 | Mercenary! | 28.00% | ~23 |
 | Beast Knight | 27.00% | ~22 |

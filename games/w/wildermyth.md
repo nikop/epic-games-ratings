@@ -19,46 +19,46 @@ Number of Ratings: 45  (23.09.2022)
 | Core Failure | 3.00% | ~47 |
 | A Mythic Menagerie | 2.00% | ~32 |
 | Who's Counting? | 2.00% | ~32 |
+| Thematic Divergence | 2.00% | ~32 |
 | Pyrrhic Victory | 2.00% | ~32 |
 | Echoes Die | 2.00% | ~32 |
 | Let Me Get My Chisel | 1.00% | ~16 |
-| Thematic Divergence | 1.00% | ~16 |
+| Everfading | 1.00% | ~16 |
 | Another Tale to Tell | 1.00% | ~16 |
 | A Story of Heroes | 1.00% | ~16 |
 | Turncoat | 1.00% | ~16 |
 | Chain Reaction | 0.90% | ~14 |
-| Everfading | 0.90% | ~14 |
 | Legends Never Die | 0.80% | ~13 |
 | In Soil, In Smoke | 0.80% | ~13 |
 | Plague Doctor | 0.70% | ~11 |
 | Some Say I'm Too Flashy | 0.70% | ~11 |
+| Astrology | 0.70% | ~11 |
 | No Time for Clawmonsters | 0.70% | ~11 |
 | Storied Past | 0.60% | ~9 |
+| Worldwalker | 0.60% | ~9 |
+| Wingknight's Prowess | 0.60% | ~9 |
 | All My Birds, Safely Home | 0.60% | ~9 |
+| Bears are Scary | 0.60% | ~9 |
 | Into Mulch | 0.60% | ~9 |
-| Astrology | 0.60% | ~9 |
-| Worldwalker | 0.50% | ~8 |
+| Tempest | 0.60% | ~9 |
+| We Emerge Changed | 0.50% | ~8 |
 | Empty the Caves | 0.50% | ~8 |
 | Bonebreakers | 0.50% | ~8 |
-| Wingknight's Prowess | 0.50% | ~8 |
-| Bears are Scary | 0.50% | ~8 |
+| No More Nightmares | 0.50% | ~8 |
+| A Hunger, Sated | 0.50% | ~8 |
+| Fight Like a Bird | 0.50% | ~8 |
 | Grillmaster | 0.50% | ~8 |
-| Tempest | 0.50% | ~8 |
-| We Emerge Changed | 0.40% | ~6 |
-| No More Nightmares | 0.40% | ~6 |
-| A Hunger, Sated | 0.40% | ~6 |
-| Fight Like a Bird | 0.40% | ~6 |
 | Lochias's Hunger | 0.40% | ~6 |
 | The Power of Friendship | 0.30% | ~5 |
 | I'm Not Smiling | 0.30% | ~5 |
 | Overwhelming Monstrosity | 0.20% | ~3 |
 | War-Ender | 0.20% | ~3 |
+| Thwack! | 0.20% | ~3 |
 | A Lowly Crust of Beef | 0.10% | ~2 |
 | Back into the Sea | 0.10% | ~2 |
 | Solid as the Hills | 0.10% | ~2 |
 | We Call That Mortificient! | 0.10% | ~2 |
 | Symbiosis | 0.10% | ~2 |
-| Thwack! | 0.10% | ~2 |
 | Drauvenslayers | 0.00% | ~0 |
 | Peacemaker | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |

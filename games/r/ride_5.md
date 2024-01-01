@@ -6,20 +6,20 @@ Rating: 4.48 (Ranked 653)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eat My Dust | 48.00% | ~1,524 |
-| First Love | 45.00% | ~1,428 |
+| First Love | 45.00% | ~1,429 |
 | Clean Race | 44.00% | ~1,397 |
-| Hear That Roar! | 41.00% | ~1,301 |
+| Hear That Roar! | 41.00% | ~1,302 |
 | Bitter Rivalry | 30.00% | ~952 |
 | Rivals to the End | 30.00% | ~952 |
 | Champagne Spray | 28.00% | ~889 |
-| We're Going to Need a Bigger Garage | 26.00% | ~825 |
+| We're Going to Need a Bigger Garage | 26.00% | ~826 |
 | Quick Pit Stop | 21.00% | ~667 |
 | Restored and Ready | 20.00% | ~635 |
 | I Want One Too! | 20.00% | ~635 |
 | Legendary!!! | 20.00% | ~635 |
 | Go-Faster Stripes | 17.00% | ~540 |
 | I'm Here Too! | 15.00% | ~476 |
-| We've Just Begun | 14.00% | ~444 |
+| We've Just Begun | 14.00% | ~445 |
 | Is It the Right Size? | 9.00% | ~286 |
 | Stamina Star | 8.00% | ~254 |
 | Evangelist | 7.00% | ~222 |
@@ -32,11 +32,11 @@ Rating: 4.48 (Ranked 653)
 | I Make the Rules! | 3.00% | ~95 |
 | Rounding Off | 3.00% | ~95 |
 | My Work Here Is Done | 3.00% | ~95 |
-| Iconic! | 2.00% | ~63 |
-| I'll Be the Best! | 2.00% | ~63 |
-| Back in Blighty | 2.00% | ~63 |
-| Still Here | 2.00% | ~63 |
-| Overtaking the Master | 2.00% | ~63 |
+| Iconic! | 2.00% | ~64 |
+| I'll Be the Best! | 2.00% | ~64 |
+| Back in Blighty | 2.00% | ~64 |
+| Still Here | 2.00% | ~64 |
+| Overtaking the Master | 2.00% | ~64 |
 | Next Level | 1.00% | ~32 |
 | I Don't Stop | 1.00% | ~32 |
 | Exhausted but Happy | 0.70% | ~22 |
@@ -55,7 +55,7 @@ Rating: 4.48 (Ranked 653)
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,174 (Ranked 223)  
+Progressed: 3,175 (Ranked 223)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-29 | 3,096 | 0 |
 | 2023-12-30 | 3,132 | 0 |
 | 2023-12-31 | 3,170 | 0 |
-| 2024-01-01 | 3,174 | 0 |
+| 2024-01-01 | 3,175 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 300,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -2360,9 +2360,9 @@
       "ID": "achievement_10DifferentThemeLimbs",
       "SetID": "95dc8p",
       "Name": "We Emerge Changed",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement_150Calamities",
@@ -2400,9 +2400,9 @@
       "ID": "achievement_beatAllStoryCampaigns",
       "SetID": "95dc8p",
       "Name": "Worldwalker",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_beatGameOnIronmanMode",
@@ -2496,9 +2496,9 @@
       "ID": "achievement_kill1000Thrixl",
       "SetID": "95dc8p",
       "Name": "No More Nightmares",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement_kill100Monsters",
@@ -2560,9 +2560,9 @@
       "ID": "achievement_twoDifferentThemeLimbs",
       "SetID": "95dc8p",
       "Name": "Thematic Divergence",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 32
     },
     {
       "ID": "achievement_use3ReactionStrikesInOneTurn",
@@ -2592,9 +2592,9 @@
       "ID": "completedStory_ecthis",
       "SetID": "95dc8p",
       "Name": "Everfading",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "completedStory_enduringWar",
@@ -2640,17 +2640,17 @@
       "ID": "completedStory_vultureLord",
       "SetID": "95dc8p",
       "Name": "A Hunger, Sated",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "cvawn_allDrauvenSurvivedMission",
       "SetID": "95dc8p",
       "Name": "Wingknight\u0027s Prowess",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ecthis_all5PlotCharacters",
@@ -2688,17 +2688,17 @@
       "ID": "theme_bear_kill2EnemiesSimultaneously",
       "SetID": "95dc8p",
       "Name": "Bears are Scary",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "theme_crow_blind20Enemies",
       "SetID": "95dc8p",
       "Name": "Fight Like a Bird",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "theme_fire_hit5EnemiesAtOnce",
@@ -2760,25 +2760,25 @@
       "ID": "theme_star_kill20EnemiesWithFallingStars",
       "SetID": "95dc8p",
       "Name": "Astrology",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "theme_storm_kill3Enemies",
       "SetID": "95dc8p",
       "Name": "Tempest",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "theme_tree_knockback50Tiles",
       "SetID": "95dc8p",
       "Name": "Thwack!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "theme_vine_poison50Enemies",
@@ -2816,8 +2816,8 @@
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-11-12T17:00:17.2155611+00:00",
-  "LastChanged_Achievements": "2024-01-01T05:10:27.9358524+00:00",
+  "LastChanged_Achievements": "2024-01-01T06:11:08.0902291+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:43.1423239+00:00",
-  "LastUpdate_Ratings": "2024-01-01T04:57:06.9913109+00:00",
-  "LastUpdate_Achievements": "2024-01-01T05:10:27.9358966+00:00"
+  "LastUpdate_Ratings": "2024-01-01T05:57:19.3749628+00:00",
+  "LastUpdate_Achievements": "2024-01-01T06:11:08.0902801+00:00"
 }

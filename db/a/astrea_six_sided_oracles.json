@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -1307,9 +1307,9 @@
       "ID": "AstralAdventurer",
       "SetID": "1jeo1g7",
       "Name": "Astral Adventurer",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 97
     },
     {
       "ID": "AstralSeeker",
@@ -2010,8 +2010,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-01T05:08:39.5657705+00:00",
+  "LastChanged_Achievements": "2024-01-01T06:09:11.80211+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:34.5642416+00:00",
-  "LastUpdate_Ratings": "2024-01-01T05:00:20.1775454+00:00",
-  "LastUpdate_Achievements": "2024-01-01T05:08:39.5658587+00:00"
+  "LastUpdate_Ratings": "2024-01-01T06:00:53.1883181+00:00",
+  "LastUpdate_Achievements": "2024-01-01T06:09:11.8021983+00:00"
 }

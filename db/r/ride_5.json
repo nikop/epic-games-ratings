@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -33,7 +33,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3174,
+  "EOS_Progressed": 3175,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 0,
@@ -7788,6 +7788,11 @@
       "Time": "2024-01-01T03:04:53.9798764+00:00",
       "NumProgressed": 3174,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T06:04:55.3102615+00:00",
+      "NumProgressed": 3175,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -7800,7 +7805,7 @@
       "Name": "First Love",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1428
+      "UsersEstimate": 1429
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -7808,7 +7813,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1301
+      "UsersEstimate": 1302
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -7848,7 +7853,7 @@
       "Name": "Iconic!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
@@ -7872,7 +7877,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -7912,7 +7917,7 @@
       "Name": "I\u0027ll Be the Best!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ML_ACHIEVEMENT_16",
@@ -7944,7 +7949,7 @@
       "Name": "Back in Blighty",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -7984,7 +7989,7 @@
       "Name": "Still Here",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ML_ACHIEVEMENT_25",
@@ -8056,7 +8061,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -8144,7 +8149,7 @@
       "Name": "Overtaking the Master",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ML_ACHIEVEMENT_45",
@@ -8191,7 +8196,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3174,
+      "Progressed": 3175,
       "Completed": 0
     }
   ],
@@ -8199,8 +8204,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2023-12-26T23:58:21.0860972+00:00",
-  "LastChanged_Achievements": "2024-01-01T05:04:25.4989743+00:00",
+  "LastChanged_Achievements": "2024-01-01T06:04:55.3102609+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:59.7599271+00:00",
-  "LastUpdate_Ratings": "2024-01-01T04:57:07.3590163+00:00",
-  "LastUpdate_Achievements": "2024-01-01T05:04:25.4990354+00:00"
+  "LastUpdate_Ratings": "2024-01-01T05:57:19.7508287+00:00",
+  "LastUpdate_Achievements": "2024-01-01T06:04:55.3103187+00:00"
 }

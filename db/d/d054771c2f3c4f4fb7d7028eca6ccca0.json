@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
     "PcReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3264,
+  "EOS_Progressed": 3266,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 557,
+  "EOS_NewPlayers": 556,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3524,6 +3524,11 @@
       "Time": "2024-01-01T05:04:33.0102993+00:00",
       "NumProgressed": 3264,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T06:05:03.5386555+00:00",
+      "NumProgressed": 3266,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -3560,7 +3565,7 @@
       "Name": "Highest Among the Highest",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 979
+      "UsersEstimate": 980
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -3574,9 +3579,9 @@
       "ID": "ACHIEVEMENT_13",
       "SetID": "c167foo",
       "Name": "Monster Power",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 23
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -3640,7 +3645,7 @@
       "Name": "Worthy Badge",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -3911,14 +3916,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 3264,
+      "Progressed": 3266,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2024-01-01T05:04:33.0102988+00:00",
+  "LastChanged_Achievements": "2024-01-01T06:05:03.5386548+00:00",
   "LastUpdate_AppInfo": "2023-12-26T12:59:42.4793606+00:00",
-  "LastUpdate_Ratings": "2024-01-01T05:00:29.1600929+00:00",
-  "LastUpdate_Achievements": "2024-01-01T05:04:33.0103468+00:00"
+  "LastUpdate_Ratings": "2024-01-01T06:01:02.1935194+00:00",
+  "LastUpdate_Achievements": "2024-01-01T06:05:03.5386956+00:00"
 }

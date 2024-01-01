@@ -500,9 +500,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 97632,
+  "EOS_Progressed": 97637,
   "EOS_Completed": 450,
-  "EOS_NewPlayers": 961,
+  "EOS_NewPlayers": 962,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -29000,6 +29000,11 @@
       "Time": "2024-01-01T05:09:18.0663623+00:00",
       "NumProgressed": 97632,
       "NumCompleted": 450
+    },
+    {
+      "Time": "2024-01-01T06:09:52.9876692+00:00",
+      "NumProgressed": 97637,
+      "NumCompleted": 450
     }
   ],
   "TotalAchievements": 10,
@@ -29057,9 +29062,9 @@
       "ID": "DrawingsDLC",
       "SetID": "77jc0gi",
       "Name": "Prologue Drawings",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 586
+      "UsersEstimate": 488
     },
     {
       "ID": "GameCompleted",
@@ -29067,7 +29072,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 9763
+      "UsersEstimate": 9764
     },
     {
       "ID": "Level00BowlingStrike",
@@ -29075,7 +29080,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 34171
+      "UsersEstimate": 34173
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -29090,15 +29095,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 97632,
+      "Progressed": 97637,
       "Completed": 450
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-12-20T03:02:57.8561576+00:00",
-  "LastChanged_Achievements": "2024-01-01T05:09:18.0663563+00:00",
+  "LastChanged_Achievements": "2024-01-01T06:09:52.9876687+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:31.1360404+00:00",
-  "LastUpdate_Ratings": "2024-01-01T05:03:22.29523+00:00",
-  "LastUpdate_Achievements": "2024-01-01T05:09:18.0665408+00:00"
+  "LastUpdate_Ratings": "2024-01-01T06:03:46.6581282+00:00",
+  "LastUpdate_Achievements": "2024-01-01T06:09:52.987824+00:00"
 }

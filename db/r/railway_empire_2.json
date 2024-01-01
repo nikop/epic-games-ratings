@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -7509,9 +7509,9 @@
       "ID": "A03",
       "SetID": "9b7p7eo",
       "Name": "Resistance is futile",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 440
+      "UsersEstimate": 466
     },
     {
       "ID": "A04",
@@ -7934,8 +7934,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-12-27T17:00:03.776976+00:00",
-  "LastChanged_Achievements": "2024-01-01T05:06:05.7452752+00:00",
+  "LastChanged_Achievements": "2024-01-01T06:06:44.8863796+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:54.9390802+00:00",
-  "LastUpdate_Ratings": "2024-01-01T04:58:40.4880395+00:00",
-  "LastUpdate_Achievements": "2024-01-01T05:06:05.745357+00:00"
+  "LastUpdate_Ratings": "2024-01-01T05:59:03.4435414+00:00",
+  "LastUpdate_Achievements": "2024-01-01T06:06:44.8864502+00:00"
 }

@@ -6,22 +6,22 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| That's a Grand Army | 0.50% | ~2,446 |
 | Until death do us apart | 0.50% | ~2,446 |
-| That's a Grand Army | 0.40% | ~1,957 |
 | That is mine! | 0.40% | ~1,957 |
 | Victorious! | 0.40% | ~1,957 |
 | Brothers in Arms | 0.30% | ~1,468 |
 | That's a Grand Navy | 0.30% | ~1,468 |
 | Seriously?! | 0.30% | ~1,468 |
-| Cold War | 0.20% | ~978 |
-| Defender of the Faith | 0.20% | ~978 |
-| For the Glory | 0.20% | ~978 |
-| It's all about luck | 0.20% | ~978 |
-| It's all about the money | 0.20% | ~978 |
-| Respected | 0.20% | ~978 |
-| The Princess is in this Castle | 0.20% | ~978 |
-| True Catholic | 0.20% | ~978 |
-| Truly Divine Ruler | 0.20% | ~978 |
+| Cold War | 0.20% | ~979 |
+| Defender of the Faith | 0.20% | ~979 |
+| For the Glory | 0.20% | ~979 |
+| It's all about luck | 0.20% | ~979 |
+| It's all about the money | 0.20% | ~979 |
+| Respected | 0.20% | ~979 |
+| The Princess is in this Castle | 0.20% | ~979 |
+| True Catholic | 0.20% | ~979 |
+| Truly Divine Ruler | 0.20% | ~979 |
 | The 52 Garhs | 0.10% | ~489 |
 | I don't like sand | 0.10% | ~489 |
 | A Blessed Nation | 0.10% | ~489 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 489,249 (Ranked 40)  
+Progressed: 489,273 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -626,7 +626,7 @@ Completed: 1 (0.00%) (Ranked 391)
 | 2023-12-29 | 487,372 | 1 |
 | 2023-12-30 | 488,255 | 1 |
 | 2023-12-31 | 489,119 | 1 |
-| 2024-01-01 | 489,249 | 1 |
+| 2024-01-01 | 489,273 | 1 |
 ## Awards
 Max (Educational): 7,645  (Ranked 54)  
 Sum: 63,025 (Ranked 24)  

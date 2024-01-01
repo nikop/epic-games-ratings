@@ -26,7 +26,7 @@
 | Castle Meldec | 22.00% | ~23 |
 | Sevenkeeps Seat of Kings | 20.00% | ~21 |
 | Friend of Alluvyan | 16.00% | ~17 |
-| Friend of Connach | 14.00% | ~15 |
+| Friend of Connach | 15.00% | ~16 |
 | Break Free | 14.00% | ~15 |
 | Friend of Gillyshire | 13.00% | ~14 |
 | Friend of Silver Drift Hollow | 13.00% | ~14 |
@@ -46,12 +46,12 @@
 | Defeat Uram | 7.00% | ~7 |
 | Elynn's Tale | 7.00% | ~7 |
 | Lore's Tale | 7.00% | ~7 |
+| Crypt of the Revenant | 7.00% | ~7 |
 | The Forge of Regan Gor | 7.00% | ~7 |
 | Master Artificer | 7.00% | ~7 |
 | A Monopoly of Might | 7.00% | ~7 |
 | Defeat Ianna | 6.00% | ~6 |
 | Defeat Undergast | 6.00% | ~6 |
-| Crypt of the Revenant | 6.00% | ~6 |
 | Tuscari Sea Portal | 6.00% | ~6 |
 | Heroes | 6.00% | ~6 |
 | Balanced | 6.00% | ~6 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 106 (Ranked 482)  
+Progressed: 106 (Ranked 483)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |

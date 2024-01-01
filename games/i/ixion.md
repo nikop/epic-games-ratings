@@ -5,9 +5,9 @@ Rating: 4.58 (Ranked 466)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 32.00% | ~1,236 |
+| Wakey Wakey | 32.00% | ~1,237 |
 | Sputnik 2049 | 28.00% | ~1,082 |
-| Infinite Growth... | 27.00% | ~1,043 |
+| Infinite Growth... | 27.00% | ~1,044 |
 | Without Breaking Some Eggs... | 26.00% | ~1,005 |
 | Space Society | 18.00% | ~696 |
 | A Thousand Strong | 18.00% | ~696 |
@@ -25,9 +25,9 @@ Rating: 4.58 (Ranked 466)
 | Power Outage | 9.00% | ~348 |
 | Convenient Transport | 8.00% | ~309 |
 | Please Make it Stop! | 8.00% | ~309 |
-| Sightseeing | 7.00% | ~270 |
-| Necessary Enhancement | 7.00% | ~270 |
-| From the Past | 7.00% | ~270 |
+| Sightseeing | 7.00% | ~271 |
+| Necessary Enhancement | 7.00% | ~271 |
+| From the Past | 7.00% | ~271 |
 | Access Granted | 6.00% | ~232 |
 | All in Good Health | 6.00% | ~232 |
 | Oats | 5.00% | ~193 |
@@ -54,16 +54,16 @@ Rating: 4.58 (Ranked 466)
 | Gregor Spinoza | 1.00% | ~39 |
 | Scientifically Accurate | 1.00% | ~39 |
 | Work Harder | 0.60% | ~23 |
+| Crunch Culture | 0.40% | ~15 |
 | Soylent Green | 0.40% | ~15 |
 | A Junker's Dream | 0.30% | ~12 |
-| Crunch Culture | 0.30% | ~12 |
 | Scenic View | 0.20% | ~8 |
 | I Give You the Stars | 0.20% | ~4 |
 | Beyond Time and Space | 0.10% | ~4 |
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,864 (Ranked 213)  
+Progressed: 3,865 (Ranked 213)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-29 | 3,814 | 0 |
 | 2023-12-30 | 3,837 | 0 |
 | 2023-12-31 | 3,860 | 0 |
-| 2024-01-01 | 3,864 | 0 |
+| 2024-01-01 | 3,865 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -38,7 +38,7 @@ Rating: 3.95 (Ranked 1,049)
 | Rockay Knight | 0.30% | ~278 |
 | Red Star | 0.30% | ~278 |
 | Classy Joint | 0.30% | ~278 |
-| All for One | 0.30% | ~63 |
+| All for One | 0.30% | ~64 |
 | Privateer | 0.20% | ~186 |
 | Talent Scout | 0.20% | ~186 |
 | Impossible Dreamer | 0.20% | ~186 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,049)
 | Full House | 0.10% | ~93 |
 | Geek Out | 0.10% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92,819 (Ranked 100)  
+Progressed: 92,821 (Ranked 100)  
 Completed: 58 (0.06%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,17 +303,17 @@ Completed: 58 (0.06%) (Ranked 326)
 | 2023-12-29 | 92,698 | 58 |
 | 2023-12-30 | 92,767 | 58 |
 | 2023-12-31 | 92,813 | 58 |
-| 2024-01-01 | 92,819 | 58 |
+| 2024-01-01 | 92,821 | 58 |
 ## Awards
 Max (Diverse Characters): 585  (Ranked 209)  
-Sum: 2,768 (Ranked 190)  
+Sum: 2,770 (Ranked 190)  
 Diff (max vs sum): 19  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 585 |
 | This game is Highly Recommended | 564 |
+| This game has Amazing Characters | 545 |
 | This game has Quickly Understood Controls | 545 |
-| This game has Amazing Characters | 543 |
 | This game is Extremely Fun | 531 |
 | This game has Challenging Combat | 514 |
 | This game is Great for Quick Sessions | 70 |
@@ -595,3 +595,4 @@ Diff (max vs sum): 19
 | 2023-12-29 | 3.95 | 585 | 2,761 |
 | 2023-12-30 | 3.95 | 585 | 2,765 |
 | 2023-12-31 | 3.95 | 585 | 2,768 |
+| 2024-01-01 | 3.95 | 585 | 2,770 |

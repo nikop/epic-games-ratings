@@ -6,19 +6,19 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,862 |
-| I'll Be Back | 84.00% | ~4,344 |
-| Sorry, I Dropped This | 77.00% | ~3,982 |
+| On My Own Two Feet | 94.00% | ~4,863 |
+| I'll Be Back | 84.00% | ~4,345 |
+| Sorry, I Dropped This | 77.00% | ~3,983 |
 | First Day on the Job | 76.00% | ~3,931 |
 | Butcher's Bill | 54.00% | ~2,793 |
 | P.A.X | 37.00% | ~1,914 |
 | Hey Listen | 36.00% | ~1,862 |
-| OPERATOR | 35.00% | ~1,810 |
+| OPERATOR | 35.00% | ~1,811 |
 | It's Blue Light | 33.00% | ~1,707 |
 | Most Wanted | 26.00% | ~1,345 |
 | Infidel | 23.00% | ~1,190 |
 | GOLIATH | 21.00% | ~1,086 |
-| Firebug | 20.00% | ~1,034 |
+| Firebug | 20.00% | ~1,035 |
 | Nothing to Lose | 18.00% | ~931 |
 | I Choose You | 17.00% | ~879 |
 | Big Sister | 15.00% | ~776 |
@@ -31,9 +31,9 @@ Number of Ratings: 62  (23.09.2022)
 | Who's in Charge Here? | 11.00% | ~569 |
 | Shall Not Pass | 11.00% | ~569 |
 | Right Tool for the Job | 10.00% | ~517 |
-| Melting Down | 9.00% | ~465 |
-| Raging Drones | 9.00% | ~465 |
-| Overconfident | 9.00% | ~465 |
+| Melting Down | 9.00% | ~466 |
+| Raging Drones | 9.00% | ~466 |
+| Overconfident | 9.00% | ~466 |
 | Pusher Man | 8.00% | ~414 |
 | Squad Chief Helvig | 8.00% | ~414 |
 | No More Marching | 8.00% | ~414 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~31 |
 | The Surge | 0.40% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,172 (Ranked 203)  
+Progressed: 5,173 (Ranked 203)  
 Completed: 18 (0.35%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 18 (0.35%) (Ranked 237)
 | 2023-12-29 | 5,128 | 18 |
 | 2023-12-30 | 5,146 | 18 |
 | 2023-12-31 | 5,169 | 18 |
-| 2024-01-01 | 5,172 | 18 |
+| 2024-01-01 | 5,173 | 18 |
 ## Awards
 Max (Great Boss Battles): 30  (Ranked 515)  
 Sum: 30 (Ranked 535)  
