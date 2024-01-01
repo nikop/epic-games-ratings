@@ -68,7 +68,7 @@
 | 66 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 66 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 6.25% |
 | 68 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.20% |
-| 69 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.11% |
+| 69 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.10% |
 | 70 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.80% |
 | 71 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.56% |
 | 71 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
@@ -116,7 +116,7 @@
 | 114 | [Without Escape](games/w/without_escape.md) | 2.86% |
 | 115 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 2.78% |
 | 116 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2.77% |
-| 117 | [The Complex](games/t/the_complex.md) | 2.75% |
+| 117 | [The Complex](games/t/the_complex.md) | 2.74% |
 | 118 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.71% |
 | 119 | [Time on Frog Island](games/t/time_on_frog_island.md) | 2.70% |
 | 120 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.69% |
@@ -165,8 +165,8 @@
 | 163 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.13% |
 | 163 | [Ten Dates](games/t/ten_dates.md) | 1.13% |
 | 163 | [The Devil's Face](games/t/the_devil's_face.md) | 1.13% |
-| 166 | [Botanicula](games/5/5c7501617f3449c5a6eed7590392f9fa.md) | 1.12% |
 | 166 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 1.12% |
+| 167 | [Botanicula](games/5/5c7501617f3449c5a6eed7590392f9fa.md) | 1.11% |
 | 168 | [Adios](games/a/adios.md) | 1.10% |
 | 169 | [Lemon Cake](games/l/lemon_cake.md) | 1.08% |
 | 170 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.04% |
@@ -351,22 +351,22 @@
 | 344 | [Transport Fever 2](games/t/transport_fever_2.md) | 0.04% |
 | 350 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 0.03% |
 | 350 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.03% |
-| 350 | [Ghostrunner](games/g/ghostrunner.md) | 0.03% |
 | 350 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
 | 350 | [Old World](games/o/old_world.md) | 0.03% |
 | 350 | [Saturnalia](games/s/saturnalia.md) | 0.03% |
 | 350 | [STAR WARS™ Battlefront™ II: Celebration Edition](games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 0.03% |
 | 350 | [Tropico 6](games/t/tropico_6.md) | 0.03% |
-| 358 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.02% |
-| 358 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 0.02% |
-| 358 | [Arcadegeddon](games/a/arcadegeddon.md) | 0.02% |
-| 358 | [Deceive Inc.](games/d/deceive_inc..md) | 0.02% |
-| 358 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
-| 358 | [Good Company](games/g/good_company.md) | 0.02% |
-| 358 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 0.02% |
-| 358 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
-| 358 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
-| 358 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 0.02% |
+| 357 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.02% |
+| 357 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 0.02% |
+| 357 | [Arcadegeddon](games/a/arcadegeddon.md) | 0.02% |
+| 357 | [Deceive Inc.](games/d/deceive_inc..md) | 0.02% |
+| 357 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
+| 357 | [Ghostrunner](games/g/ghostrunner.md) | 0.02% |
+| 357 | [Good Company](games/g/good_company.md) | 0.02% |
+| 357 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 0.02% |
+| 357 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
+| 357 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
+| 357 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 0.02% |
 | 368 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
 | 368 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
 | 368 | [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 0.01% |
