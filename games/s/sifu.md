@@ -6,34 +6,34 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 5.00% | ~37,521 |
-| Life is your teacher | 4.00% | ~30,017 |
-| Lightning Hands | 4.00% | ~30,017 |
-| The Assault | 3.00% | ~22,513 |
-| The Hateful Pole Fighter | 2.00% | ~15,008 |
-| A Lady's Blood in the Snow | 2.00% | ~15,008 |
-| Stuntmaster | 2.00% | ~15,008 |
-| Street Fighting | 2.00% | ~15,008 |
-| State of constant learning | 2.00% | ~15,008 |
-| Qi Gong: Breath | 2.00% | ~15,008 |
-| Qi Gong: Essence | 2.00% | ~15,008 |
-| Old Child | 2.00% | ~15,008 |
-| Rumble in the Hangar | 2.00% | ~15,008 |
-| Diligence as a goal | 2.00% | ~1,194 |
-| Lady Wing Chun | 1.00% | ~7,504 |
-| Furious Fists | 1.00% | ~7,504 |
-| Scareless | 1.00% | ~7,504 |
-| Kill Nil | 1.00% | ~7,504 |
-| Qi Gong: Mind | 1.00% | ~7,504 |
-| I know Kung-Fu | 1.00% | ~7,504 |
-| Kung-Fu Tussle | 1.00% | ~7,504 |
-| Path of the Prospect | 1.00% | ~7,504 |
-| Take damage to save time | 1.00% | ~7,504 |
-| Project Arena | 1.00% | ~597 |
+| The Old Grandmaster | 5.00% | ~37,523 |
+| Life is your teacher | 4.00% | ~30,018 |
+| Lightning Hands | 4.00% | ~30,018 |
+| The Assault | 3.00% | ~22,514 |
+| The Hateful Pole Fighter | 2.00% | ~15,009 |
+| A Lady's Blood in the Snow | 2.00% | ~15,009 |
+| Stuntmaster | 2.00% | ~15,009 |
+| Street Fighting | 2.00% | ~15,009 |
+| State of constant learning | 2.00% | ~15,009 |
+| Qi Gong: Breath | 2.00% | ~15,009 |
+| Qi Gong: Essence | 2.00% | ~15,009 |
+| Old Child | 2.00% | ~15,009 |
+| Rumble in the Hangar | 2.00% | ~15,009 |
+| Diligence as a goal | 2.00% | ~1,195 |
+| Lady Wing Chun | 1.00% | ~7,505 |
+| Furious Fists | 1.00% | ~7,505 |
+| Scareless | 1.00% | ~7,505 |
+| Kill Nil | 1.00% | ~7,505 |
+| Qi Gong: Mind | 1.00% | ~7,505 |
+| I know Kung-Fu | 1.00% | ~7,505 |
+| Kung-Fu Tussle | 1.00% | ~7,505 |
+| Path of the Prospect | 1.00% | ~7,505 |
+| Take damage to save time | 1.00% | ~7,505 |
+| Project Arena | 1.00% | ~598 |
 | Dance of the Praying Mantis | 0.90% | ~6,754 |
 | Fight the way you practice | 0.70% | ~418 |
 | Muk Yan Master | 0.60% | ~4,503 |
-| Martial Hub | 0.60% | ~358 |
+| Martial Hub | 0.60% | ~359 |
 | Tiger on Fire | 0.50% | ~3,752 |
 | Source of Flying Daggers | 0.50% | ~3,752 |
 | Iron Money | 0.50% | ~3,752 |
@@ -54,11 +54,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Master of the Phoenix Eye Fist | 0.20% | ~1,501 |
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,501 |
 | Be like water my friend | 0.20% | ~1,501 |
-| A Touch of Acumen | 0.20% | ~119 |
-| Crouching Tiger | 0.20% | ~119 |
-| Skill and an even stronger will | 0.20% | ~119 |
-| Master of the Flying Assassins | 0.20% | ~119 |
-| Beatmaker | 0.20% | ~119 |
+| A Touch of Acumen | 0.20% | ~120 |
+| Crouching Tiger | 0.20% | ~120 |
+| Skill and an even stronger will | 0.20% | ~120 |
+| Master of the Flying Assassins | 0.20% | ~120 |
+| Beatmaker | 0.20% | ~120 |
 | Warriors from the Mountain | 0.10% | ~750 |
 | Secure, Protect, Leave | 0.10% | ~60 |
 | Hidden Dragon | 0.10% | ~60 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~60 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 750,417 (Ranked 23)  
+Progressed: 750,460 (Ranked 23)  
 Completed: 12,971 (1.73%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,14 +323,14 @@ Completed: 12,971 (1.73%) (Ranked 143)
 | 2023-12-29 | 748,212 | 12,968 |
 | 2023-12-30 | 749,350 | 12,969 |
 | 2023-12-31 | 750,399 | 12,971 |
-| 2024-01-01 | 750,417 | 12,971 |
+| 2024-01-01 | 750,460 | 12,971 |
 ## Awards
-Max (Great Boss Battles): 7,061  (Ranked 55)  
-Sum: 11,952 (Ranked 87)  
+Max (Great Boss Battles): 7,070  (Ranked 55)  
+Sum: 11,961 (Ranked 87)  
 Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 7,061 |
+| This game has Great Boss Battles | 7,070 |
 | This game has Diverse Characters | 690 |
 | This game has Challenging Combat | 636 |
 | This game has Amazing Storytelling | 612 |
@@ -693,3 +693,4 @@ Diff (max vs sum): -32
 | 2023-12-29 | 4.82 | - | 7,041 | 12,473 |
 | 2023-12-30 | 4.82 | - | 7,052 | 12,492 |
 | 2023-12-31 | 4.82 | - | 7,061 | 12,502 |
+| 2024-01-01 | 4.82 | - | 7,070 | 11,961 |

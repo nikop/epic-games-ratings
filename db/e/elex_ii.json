@@ -5,7 +5,7 @@
   "Ranking_Rating": 874,
   "Ranking_Popularity": 576,
   "Ranking_PopularitySum": 576,
-  "Ranking_EOS_Progress": 443,
+  "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 156,
@@ -571,9 +571,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 154,
+  "EOS_Progressed": 155,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1151,6 +1151,11 @@
       "Time": "2023-12-31T23:06:16.5763879+00:00",
       "NumProgressed": 154,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T02:01:21.7092162+00:00",
+      "NumProgressed": 155,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:41.4600068+00:00",
@@ -1443,15 +1448,15 @@
       "Name": "Civilian",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "FINDCRONY",
       "SetID": "a1angca",
       "Name": "Best Buddy",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 40
     },
     {
       "ID": "FINDMAP",
@@ -1475,7 +1480,7 @@
       "Name": "Irissa\u0027s Fate",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "HELPCHILDREN",
@@ -1491,7 +1496,7 @@
       "Name": "Pass A38",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "KILL200MONSTER",
@@ -1562,15 +1567,15 @@
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 154,
+      "Progressed": 155,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2024-01-01T00:05:10.2402477+00:00",
+  "LastChanged_Achievements": "2024-01-01T02:01:21.7092159+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:16.9599546+00:00",
-  "LastUpdate_Ratings": "2023-12-31T23:58:57.1034206+00:00",
-  "LastUpdate_Achievements": "2024-01-01T00:05:10.2402902+00:00"
+  "LastUpdate_Ratings": "2024-01-01T01:55:29.0793387+00:00",
+  "LastUpdate_Achievements": "2024-01-01T02:01:21.7092646+00:00"
 }

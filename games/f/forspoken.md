@@ -1,13 +1,13 @@
 # Forspoken
 [Store](https://store.epicgames.com/en-US/p/forspoken)  
 [View Rawdata](../../db/f/forspoken.json)  
-Rating: 4.13 (Ranked 997)  
+Rating: 4.13 (Ranked 998)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Attachments | 12.00% | ~5,510 |
-| Unlocked Potential | 11.00% | ~5,050 |
-| Tinkerer | 8.00% | ~3,673 |
+| Unlocked Potential | 11.00% | ~5,051 |
+| Tinkerer | 8.00% | ~3,674 |
 | Leapfrogger | 7.00% | ~3,214 |
 | Knock 'Em Dead | 7.00% | ~3,214 |
 | Pilgrimage: Initiate | 7.00% | ~3,214 |
@@ -19,9 +19,9 @@ Rating: 4.13 (Ranked 997)
 | Help Me Out Here | 5.00% | ~2,296 |
 | Through the Eyes of Another: Empath | 4.00% | ~1,837 |
 | The Interloper | 4.00% | ~1,837 |
-| Outdoorsperson | 3.00% | ~1,377 |
-| Hop, Step, Jump | 3.00% | ~1,377 |
-| Endless Runner | 3.00% | ~1,377 |
+| Outdoorsperson | 3.00% | ~1,378 |
+| Hop, Step, Jump | 3.00% | ~1,378 |
+| Endless Runner | 3.00% | ~1,378 |
 | What Must Be Done | 2.00% | ~918 |
 | Might and Main | 2.00% | ~918 |
 | Damned If You Do... | 2.00% | ~918 |
@@ -36,19 +36,19 @@ Rating: 4.13 (Ranked 997)
 | Pilgrimage: Novice | 1.00% | ~459 |
 | Wildfire | 0.70% | ~321 |
 | Realized Potential | 0.70% | ~321 |
-| Awakening | 0.60% | ~275 |
-| Explorer: Trailblazer | 0.60% | ~275 |
+| Awakening | 0.60% | ~276 |
+| Explorer: Trailblazer | 0.60% | ~276 |
 | Through the Eyes of Another: Seer | 0.50% | ~230 |
 | Archivist | 0.30% | ~138 |
 | Craftsperson | 0.30% | ~138 |
 | Tit for Tat | 0.30% | ~138 |
 | A Roaring Trade | 0.30% | ~138 |
 | Promises | 0.30% | ~138 |
+| Rebirth | 0.30% | ~138 |
 | Paragon | 0.20% | ~92 |
 | Pilgrimage: Adept | 0.20% | ~92 |
 | Call of the Fount: Beatified | 0.20% | ~92 |
 | I Can Fly! | 0.20% | ~92 |
-| Rebirth | 0.20% | ~92 |
 | Abominizer | 0.10% | ~46 |
 | Through the Eyes of Another: Visionary | 0.10% | ~46 |
 | Kit and Caboodle | 0.10% | ~46 |
@@ -59,7 +59,7 @@ Rating: 4.13 (Ranked 997)
 | Remembrance | 0.10% | ~46 |
 | Cat Person | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,913 (Ranked 124)  
+Progressed: 45,920 (Ranked 124)  
 Completed: 4 (0.01%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 4 (0.01%) (Ranked 368)
 | 2023-12-29 | 45,657 | 3 |
 | 2023-12-30 | 45,788 | 3 |
 | 2023-12-31 | 45,906 | 4 |
-| 2024-01-01 | 45,913 | 4 |
+| 2024-01-01 | 45,920 | 4 |
 ## Awards
 Max (Character Customization): 35  (Ranked 496)  
 Sum: 35 (Ranked 524)  

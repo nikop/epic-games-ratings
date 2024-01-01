@@ -1,27 +1,27 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.03 (Ranked 1,029)  
+Rating: 4.04 (Ranked 1,025)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,753 |
-| World Map | 78.00% | ~3,147 |
-| Temple of Eternals | 56.00% | ~2,260 |
-| Prestigious | 52.00% | ~2,098 |
-| Fellowship Power | 42.00% | ~1,695 |
-| Full Party | 27.00% | ~1,089 |
-| Guild Power | 23.00% | ~928 |
-| Prestigious x10 | 20.00% | ~807 |
-| The game is on | 18.00% | ~726 |
+| Victor | 93.00% | ~3,755 |
+| World Map | 78.00% | ~3,150 |
+| Temple of Eternals | 56.00% | ~2,261 |
+| Prestigious | 52.00% | ~2,100 |
+| Fellowship Power | 42.00% | ~1,696 |
+| Full Party | 27.00% | ~1,090 |
+| Guild Power | 23.00% | ~929 |
+| Prestigious x10 | 20.00% | ~808 |
+| The game is on | 18.00% | ~727 |
 | Exotic Merchant | 16.00% | ~646 |
-| Dragon Clicker | 15.00% | ~605 |
-| Miner Clicker | 15.00% | ~605 |
+| Dragon Clicker | 15.00% | ~606 |
+| Miner Clicker | 15.00% | ~606 |
 | Inspection | 14.00% | ~565 |
 | Dragon Master | 13.00% | ~525 |
 | Enlightenment | 13.00% | ~525 |
 | Hero inspection | 13.00% | ~525 |
-| Lieutenant | 12.00% | ~484 |
+| Lieutenant | 12.00% | ~485 |
 | Milestone collector | 11.00% | ~444 |
 | Mysterious Rock | 11.00% | ~444 |
 | Natural Talent | 11.00% | ~444 |
@@ -30,7 +30,6 @@ Rating: 4.03 (Ranked 1,029)
 | Doing My Part | 9.00% | ~363 |
 | Hunter | 9.00% | ~363 |
 | Scientist | 9.00% | ~363 |
-| The power of Awakening | 9.00% | ~363 |
 | Challenger | 8.00% | ~323 |
 | Daily Quest Completionist | 8.00% | ~323 |
 | Frostfire Liberator | 8.00% | ~323 |
@@ -38,27 +37,28 @@ Rating: 4.03 (Ranked 1,029)
 | Moving Up The Ladder | 8.00% | ~323 |
 | Relic Of The Past | 8.00% | ~323 |
 | Scroll Master | 8.00% | ~323 |
-| Four Leaf Clover | 7.00% | ~282 |
-| Here We Go Again | 7.00% | ~282 |
-| Master Enchanter | 7.00% | ~282 |
-| The father of Dragons | 7.00% | ~282 |
-| Trader | 7.00% | ~282 |
-| Dragon Slayer | 6.00% | ~242 |
+| The power of Awakening | 8.00% | ~323 |
+| Four Leaf Clover | 7.00% | ~283 |
+| Here We Go Again | 7.00% | ~283 |
+| Master Enchanter | 7.00% | ~283 |
+| The father of Dragons | 7.00% | ~283 |
+| Trader | 7.00% | ~283 |
 | The Expeditioner | 6.00% | ~242 |
 | Weekly Quest Completionist | 6.00% | ~242 |
 | Blueprint Upgrades | 5.00% | ~202 |
 | Crystal Mining | 5.00% | ~202 |
+| Dragon Slayer | 5.00% | ~202 |
 | Enchanting skill | 5.00% | ~202 |
 | Engineer Mastery | 5.00% | ~202 |
 | How Do You Turn This On? | 5.00% | ~202 |
 | Lock And Load | 5.00% | ~202 |
 | Missions Dedication | 5.00% | ~202 |
 | Sailor | 5.00% | ~202 |
-| Active Member | 4.00% | ~161 |
-| Ancient Knowledge | 4.00% | ~161 |
-| Background Story | 4.00% | ~161 |
-| Legendary | 4.00% | ~161 |
-| The Alchemist | 4.00% | ~161 |
+| Active Member | 4.00% | ~162 |
+| Ancient Knowledge | 4.00% | ~162 |
+| Background Story | 4.00% | ~162 |
+| Legendary | 4.00% | ~162 |
+| The Alchemist | 4.00% | ~162 |
 | Arena Challenger | 3.00% | ~121 |
 | Ebony Jungle Liberator | 3.00% | ~121 |
 | Mythic Power | 3.00% | ~121 |
@@ -81,8 +81,8 @@ Rating: 4.03 (Ranked 1,029)
 | Jewel Enchanting | 0.10% | ~4 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,035 (Ranked 209)  
-Completed: 2 (0.05%) (Ranked 334)  
+Progressed: 4,038 (Ranked 209)  
+Completed: 2 (0.05%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -332,16 +332,16 @@ Completed: 2 (0.05%) (Ranked 334)
 | 2023-12-29 | 3,948 | 2 |
 | 2023-12-30 | 3,984 | 2 |
 | 2023-12-31 | 4,033 | 2 |
-| 2024-01-01 | 4,035 | 2 |
+| 2024-01-01 | 4,038 | 2 |
 ## Awards
 Max (Great for Beginners): 39  (Ranked 478)  
-Sum: 129 (Ranked 445)  
+Sum: 130 (Ranked 445)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 39 |
 | This game is Great for Quick Sessions | 34 |
-| This game has Diverse Characters | 29 |
+| This game has Diverse Characters | 30 |
 | This game has Playful Visuals | 27 |
 | This game is Highly Recommended | 21 |
 | This game has a Kind Community | 20 |
@@ -431,3 +431,4 @@ Diff (max vs sum): 33
 | 2023-12-27 | 4.02 | 39 | 128 |
 | 2023-12-28 | 4.03 | 39 | 128 |
 | 2023-12-29 | 4.03 | 39 | 129 |
+| 2024-01-01 | 4.04 | 39 | 130 |

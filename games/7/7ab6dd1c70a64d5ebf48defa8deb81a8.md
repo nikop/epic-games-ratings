@@ -1,25 +1,25 @@
 # Atlas Fallen
 [Store](https://store.epicgames.com/en-US/p/atlas-fallen)  
 [View Rawdata](../../db/7/7ab6dd1c70a64d5ebf48defa8deb81a8.json)  
-Rating: 4.12 (Ranked 1,000)  
+Rating: 4.14 (Ranked 994)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 59.00% | ~932 |
-| Trinity | 29.00% | ~458 |
-| The Collector | 23.00% | ~363 |
-| Find Allies | 22.00% | ~347 |
-| A Taste of Wrath | 22.00% | ~347 |
-| I Found It | 22.00% | ~347 |
-| Shatter Them All | 21.00% | ~332 |
-| Geared Up | 21.00% | ~332 |
-| Adventurer | 20.00% | ~316 |
-| Scholar | 20.00% | ~316 |
-| Fashion Victim | 19.00% | ~300 |
-| Stone Collection | 19.00% | ~300 |
-| Powerful Allies | 18.00% | ~284 |
-| Tributes of Caladrias | 18.00% | ~284 |
-| Big Bazar | 12.00% | ~189 |
+| Break Out | 58.00% | ~919 |
+| Trinity | 29.00% | ~460 |
+| The Collector | 23.00% | ~365 |
+| Find Allies | 22.00% | ~349 |
+| A Taste of Wrath | 22.00% | ~349 |
+| I Found It | 22.00% | ~349 |
+| Shatter Them All | 21.00% | ~333 |
+| Geared Up | 21.00% | ~333 |
+| Adventurer | 20.00% | ~317 |
+| Scholar | 20.00% | ~317 |
+| Fashion Victim | 19.00% | ~301 |
+| Stone Collection | 19.00% | ~301 |
+| Powerful Allies | 18.00% | ~285 |
+| Tributes of Caladrias | 18.00% | ~285 |
+| Big Bazar | 12.00% | ~190 |
 | Essence Blow | 11.00% | ~174 |
 | Alchemist | 11.00% | ~174 |
 | The Mentor | 10.00% | ~158 |
@@ -42,7 +42,7 @@ Rating: 4.12 (Ranked 1,000)
 | All That Gold | 0.70% | ~11 |
 | Feeling Fancy | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,579 (Ranked 259)  
+Progressed: 1,585 (Ranked 259)  
 Completed: 3 (0.19%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,10 +123,11 @@ Completed: 3 (0.19%) (Ranked 274)
 | 2023-12-29 | 1,459 | 3 |
 | 2023-12-30 | 1,519 | 3 |
 | 2023-12-31 | 1,577 | 3 |
-| 2024-01-01 | 1,579 | 3 |
+| 2024-01-01 | 1,585 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
 | 2023-12-25 | 4.10 | 0 | 0 |
 | 2023-12-27 | 4.14 | 0 | 0 |
 | 2023-12-29 | 4.12 | 0 | 0 |
+| 2024-01-01 | 4.14 | 0 | 0 |

@@ -331,7 +331,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24974,
+  "EOS_Progressed": 24975,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
@@ -8511,6 +8511,11 @@
       "Time": "2024-01-01T00:08:37.6180331+00:00",
       "NumProgressed": 24974,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-01T02:04:37.9244347+00:00",
+      "NumProgressed": 24975,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -8554,7 +8559,7 @@
       "Name": "Eatin\u0027 Good in the Neighborhood",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "ACH_GET_CREATURE",
@@ -8626,7 +8631,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -8770,7 +8775,7 @@
       "Name": "Series Wrap on Suit-O",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "ACH_CHARGED_BALL_KILLS",
@@ -8873,13 +8878,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24974,
+      "Progressed": 24975,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 2267,
+      "Progressed": 2268,
       "Completed": 1376
     }
   ],
@@ -8887,8 +8892,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-12-27T23:03:01.2851601+00:00",
-  "LastChanged_Achievements": "2024-01-01T00:08:37.6180326+00:00",
+  "LastChanged_Achievements": "2024-01-01T02:04:37.9244345+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:22.3334267+00:00",
-  "LastUpdate_Ratings": "2024-01-01T00:02:53.4140522+00:00",
-  "LastUpdate_Achievements": "2024-01-01T00:08:37.6181234+00:00"
+  "LastUpdate_Ratings": "2024-01-01T01:59:01.5957222+00:00",
+  "LastUpdate_Achievements": "2024-01-01T02:04:37.9244925+00:00"
 }

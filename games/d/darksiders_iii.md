@@ -1,7 +1,7 @@
 # Darksiders III
 [Store](https://store.epicgames.com/en-US/p/darksiders3)  
 [View Rawdata](../../db/d/darksiders_iii.json)  
-Rating: 4.49 (Ranked 632)  
+Rating: 4.49 (Ranked 631)  
 Number of Ratings: 116  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -16,17 +16,17 @@ Number of Ratings: 116  (23.09.2022)
 | Perfect Storm | 46.00% | ~159 |
 | All That Glitters | 46.00% | ~159 |
 | Enhance! | 43.00% | ~148 |
-| One Of the Chosen | 40.00% | ~138 |
+| One Of the Chosen | 41.00% | ~141 |
 | Throne Potato | 39.00% | ~135 |
+| Devil's in the Details | 38.00% | ~131 |
 | Five's a Crowd | 38.00% | ~131 |
-| Devil's in the Details | 37.00% | ~128 |
 | 25 to Life | 37.00% | ~128 |
 | Soul Harvester | 35.00% | ~121 |
 | Salvation | 35.00% | ~121 |
 | Unshakable Fortitude | 33.00% | ~114 |
+| Delusions of Grandeur | 31.00% | ~107 |
 | Maximum Vigor | 30.00% | ~104 |
 | I Wanna Rock | 30.00% | ~104 |
-| Delusions of Grandeur | 30.00% | ~104 |
 | Love Tap | 29.00% | ~100 |
 | Freeze Frame | 26.00% | ~90 |
 | Eat Your Heart Out | 26.00% | ~90 |

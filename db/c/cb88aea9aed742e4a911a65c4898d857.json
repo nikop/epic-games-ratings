@@ -239,9 +239,9 @@
       "Count": 77
     }
   ],
-  "EOS_Progressed": 9200,
+  "EOS_Progressed": 9208,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1952,
+  "EOS_NewPlayers": 1937,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3169,6 +3169,11 @@
       "Time": "2024-01-01T00:09:50.9473136+00:00",
       "NumProgressed": 9200,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T02:05:50.9368467+00:00",
+      "NumProgressed": 9208,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3363,9 +3368,9 @@
       "ID": "25_DynastyProspers",
       "SetID": "37a94m8",
       "Name": "The Dynasty Prospers",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 37
     },
     {
       "ID": "26_MasterOfTheTrade",
@@ -3700,7 +3705,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 9200,
+      "Progressed": 9208,
       "Completed": 0
     }
   ],
@@ -3708,8 +3713,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-31T16:59:07.4818651+00:00",
-  "LastChanged_Achievements": "2024-01-01T00:09:50.9473129+00:00",
+  "LastChanged_Achievements": "2024-01-01T02:05:50.9368465+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2023-12-31T23:59:07.0577592+00:00",
-  "LastUpdate_Achievements": "2024-01-01T00:09:50.9473819+00:00"
+  "LastUpdate_Ratings": "2024-01-01T01:55:39.1476509+00:00",
+  "LastUpdate_Achievements": "2024-01-01T02:05:50.936923+00:00"
 }

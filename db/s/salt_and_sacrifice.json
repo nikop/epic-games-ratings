@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 138,
   "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -2008,7 +2008,7 @@
   "EOS_Progressed": 68041,
   "EOS_Completed": 1285,
   "EOS_NewPlayers": 103,
-  "EOS_NewCompleters": 2,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.89,
   "EosHistory": [
     {
@@ -16642,9 +16642,9 @@
       "ID": "mummy",
       "SetID": "2jelldm",
       "Name": "The Exalted",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 38103
+      "UsersEstimate": 38783
     },
     {
       "ID": "necromancer",
@@ -16786,8 +16786,8 @@
   "FirstSeen": "2022-07-22T20:23:45.0965926+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:04.986715+00:00",
   "LastChanged": "2023-12-31T10:59:02.4620799+00:00",
-  "LastChanged_Achievements": "2024-01-01T00:03:47.8415719+00:00",
+  "LastChanged_Achievements": "2024-01-01T01:59:58.0129051+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:08.6289806+00:00",
-  "LastUpdate_Ratings": "2023-12-31T23:58:33.3655551+00:00",
-  "LastUpdate_Achievements": "2024-01-01T00:03:47.8416747+00:00"
+  "LastUpdate_Ratings": "2024-01-01T01:55:06.1491564+00:00",
+  "LastUpdate_Achievements": "2024-01-01T01:59:58.0129844+00:00"
 }

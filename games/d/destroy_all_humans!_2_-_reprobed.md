@@ -6,17 +6,17 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 80.00% | ~216 |
+| Rock of the Bay | 81.00% | ~219 |
 | Mash Machine | 74.00% | ~200 |
 | Ducks in a Row, Fish in a Barrel | 51.00% | ~138 |
-| Furon Fashion | 47.00% | ~127 |
+| Furon Fashion | 48.00% | ~130 |
 | Shop Til They Drop | 40.00% | ~108 |
 | Bodied Sattva | 36.00% | ~97 |
 | Earthly Pleasures | 35.00% | ~94 |
 | Cult Following | 33.00% | ~89 |
 | Lie Back and Think of Albion | 28.00% | ~76 |
 | Upgreatest | 25.00% | ~68 |
-| Pimp My Raid | 23.00% | ~62 |
+| Pimp My Raid | 24.00% | ~65 |
 | Freshly Squeezed | 20.00% | ~54 |
 | I Look Up As I Walk to Takoshima | 19.00% | ~51 |
 | Perfect Probulator | 17.00% | ~46 |

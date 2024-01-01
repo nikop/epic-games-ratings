@@ -12,9 +12,9 @@ Rating: 4.29 (Ranked 874)
 | Wheeler Dealer | 25.00% | ~157 |
 | Look Mom, I Can Fly | 24.00% | ~151 |
 | National Amateurs Champion | 18.00% | ~113 |
+| Hating Them Tin Cans | 16.00% | ~101 |
 | Junk Collector | 15.00% | ~94 |
-| Hating Them Tin Cans | 15.00% | ~94 |
-| Trashing Around | 14.00% | ~88 |
+| Trashing Around | 15.00% | ~94 |
 | Challengers Champion | 11.00% | ~69 |
 | Pro Internationals Champion | 7.00% | ~44 |
 | Cash For Crashes | 7.00% | ~44 |
@@ -26,7 +26,7 @@ Rating: 4.29 (Ranked 874)
 | Human Lover | 0.60% | ~4 |
 | Rocketeer | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 628 (Ranked 326)  
+Progressed: 629 (Ranked 326)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -45,7 +45,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-29 | 537 | 0 |
 | 2023-12-30 | 579 | 0 |
 | 2023-12-31 | 626 | 0 |
-| 2024-01-01 | 628 | 0 |
+| 2024-01-01 | 629 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

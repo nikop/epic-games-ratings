@@ -1,29 +1,29 @@
 # Hardspace: Shipbreaker
 [Store](https://store.epicgames.com/en-US/p/hardspace-shipbreaker)  
 [View Rawdata](../../db/h/hardspace__shipbreaker.json)  
-Rating: 4.67 (Ranked 284)  
+Rating: 4.67 (Ranked 283)  
 Number of Ratings: 36  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breathe In… Breathe Out… | 73.00% | ~757 |
+| Breathe In… Breathe Out… | 73.00% | ~758 |
 | It’s Heating up! | 69.00% | ~716 |
-| Let’s patch things up | 65.00% | ~674 |
-| I can fix it! | 62.00% | ~643 |
-| Post No Bills | 54.00% | ~560 |
-| Truly Shocking! | 47.00% | ~487 |
+| Let’s patch things up | 65.00% | ~675 |
+| I can fix it! | 62.00% | ~644 |
+| Post No Bills | 54.00% | ~561 |
+| Truly Shocking! | 47.00% | ~488 |
 | Critical Thinker | 35.00% | ~363 |
 | Act I Complete | 29.00% | ~301 |
 | Always Finding Your Mark | 29.00% | ~301 |
 | The Weight of the World | 29.00% | ~301 |
-| A drop in the Ocean | 28.00% | ~290 |
+| A drop in the Ocean | 28.00% | ~291 |
 | No Niños | 26.00% | ~270 |
 | I ain’t afraid of no Ghost | 24.00% | ~249 |
 | Act II Complete | 21.00% | ~218 |
 | Bing Bang BOOM | 19.00% | ~197 |
 | A successful procedure! | 18.00% | ~187 |
 | Breaking the Ice | 18.00% | ~187 |
-| Solidarity Forever | 12.00% | ~124 |
+| Solidarity Forever | 12.00% | ~125 |
 | A Tucked Tale | 10.00% | ~104 |
 | The best thing money can buy | 9.00% | ~93 |
 | Act III Complete | 6.00% | ~62 |
@@ -34,7 +34,7 @@ Number of Ratings: 36  (23.09.2022)
 | Captured Killer of Caerbannog | 0.00% | ~0 |
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,037 (Ranked 288)  
+Progressed: 1,038 (Ranked 288)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,6 +189,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-29 | 1,027 | 0 |
 | 2023-12-30 | 1,031 | 0 |
 | 2023-12-31 | 1,037 | 0 |
+| 2024-01-01 | 1,038 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

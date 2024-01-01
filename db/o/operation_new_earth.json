@@ -6,8 +6,8 @@
   "Ranking_Popularity": 576,
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 239,
-  "Ranking_EOS_Completed": 334,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_Completed": 333,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2141,
+  "EOS_Progressed": 2142,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -8230,6 +8230,11 @@
       "Time": "2023-12-31T21:06:44.069867+00:00",
       "NumProgressed": 2141,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-01T02:01:45.2817261+00:00",
+      "NumProgressed": 2142,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8241,7 +8246,7 @@
       "Name": "Know The Enemy",
       "Percentage": 6,
       "XP": 75,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -8329,7 +8334,7 @@
       "Name": "Moving On Up",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "objective_headquarters_20",
@@ -8409,7 +8414,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -8497,7 +8502,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -8544,7 +8549,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2141,
+      "Progressed": 2142,
       "Completed": 1
     }
   ],
@@ -8552,8 +8557,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-25T23:58:10.3014256+00:00",
-  "LastChanged_Achievements": "2024-01-01T00:05:33.1017648+00:00",
+  "LastChanged_Achievements": "2024-01-01T02:01:45.2817259+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:25.9392392+00:00",
-  "LastUpdate_Ratings": "2023-12-31T23:57:22.2270489+00:00",
-  "LastUpdate_Achievements": "2024-01-01T00:05:33.1018299+00:00"
+  "LastUpdate_Ratings": "2024-01-01T01:53:53.9411352+00:00",
+  "LastUpdate_Achievements": "2024-01-01T02:01:45.2817772+00:00"
 }

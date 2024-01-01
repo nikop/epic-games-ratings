@@ -18,26 +18,26 @@ Rating: 4.56 (Ranked 503)
 | Kitchen Ready To Cook | 1.00% | ~23 |
 | Smithy Ready to Craft | 1.00% | ~23 |
 | Rescue Redgi's Brothers | 1.00% | ~23 |
+| Defeat Croakhis Khan | 1.00% | ~9 |
 | Shield Maiden Yellow Tongue | 1.00% | ~9 |
+| I Remember My First Beer | 1.00% | ~9 |
 | The Bright Fir | 1.00% | ~9 |
 | End of the Mozis | 0.90% | ~21 |
 | Throne Room Fit For A King | 0.90% | ~21 |
-| Defeat Croakhis Khan | 0.90% | ~8 |
-| I Remember My First Beer | 0.90% | ~8 |
 | Complete Elder Faction | 0.80% | ~18 |
 | Meet the Creatures from the Deep | 0.80% | ~18 |
 | Return Power To The Depths | 0.80% | ~18 |
 | Defeat Ratnor Rodentson | 0.70% | ~16 |
 | Fix the Travellers Wagon | 0.70% | ~16 |
 | Defeat the Grub Buster | 0.70% | ~7 |
+| Defeat the Stalker Queen | 0.70% | ~7 |
+| Return the Statues | 0.60% | ~14 |
 | Complete the Chefs Book | 0.60% | ~14 |
 | Defeat Avor Warden of the Northern Wastes | 0.60% | ~14 |
+| Defeat Rattus Augustail | 0.60% | ~14 |
 | Discover the mystery of the Kings Chambers | 0.60% | ~14 |
-| Defeat the Stalker Queen | 0.60% | ~6 |
-| Return the Statues | 0.50% | ~11 |
 | Complete Arena Faction | 0.50% | ~11 |
 | Complete Ranger Faction | 0.50% | ~11 |
-| Defeat Rattus Augustail | 0.50% | ~11 |
 | Complete Redgi's Armory | 0.30% | ~7 |
 | King of Kings | 0.30% | ~7 |
 | A new Warchief rises | 0.00% | ~0 |

@@ -4,7 +4,7 @@
   "ProductSlug": "rogue-legacy-2",
   "Ranking_Rating": 42,
   "Ranking_Popularity": 286,
-  "Ranking_PopularitySum": 237,
+  "Ranking_PopularitySum": 238,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 133,
@@ -1548,9 +1548,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 27357,
+  "EOS_Progressed": 27360,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 731,
+  "EOS_NewPlayers": 726,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -12568,6 +12568,11 @@
       "Time": "2024-01-01T00:09:53.6665404+00:00",
       "NumProgressed": 27357,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-01T02:05:53.6513314+00:00",
+      "NumProgressed": 27360,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -12587,7 +12592,7 @@
       "Name": "Truly Blessed",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "AllEquipment",
@@ -12611,7 +12616,7 @@
       "Name": "Pillow Investments",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "AllScarsBronze",
@@ -12627,7 +12632,7 @@
       "Name": "Looks Familiar",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "BossBridgeAdvancedDefeated",
@@ -12659,7 +12664,7 @@
       "Name": "Spells and Swords",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1641
+      "UsersEstimate": 1642
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -12737,9 +12742,9 @@
       "ID": "BossStudyDefeated",
       "SetID": "3ojhj46",
       "Name": "Poise and Poisons",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 547
+      "UsersEstimate": 821
     },
     {
       "ID": "BossTowerAdvancedDefeated",
@@ -12890,21 +12895,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 27357,
+      "Progressed": 27360,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 6287,
+      "Progressed": 6290,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-31T13:02:19.9867054+00:00",
-  "LastChanged_Achievements": "2024-01-01T00:09:53.66654+00:00",
+  "LastChanged_Achievements": "2024-01-01T02:05:53.6513312+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.0569835+00:00",
-  "LastUpdate_Ratings": "2024-01-01T00:00:19.4188643+00:00",
-  "LastUpdate_Achievements": "2024-01-01T00:09:53.6666551+00:00"
+  "LastUpdate_Ratings": "2024-01-01T01:56:49.6189279+00:00",
+  "LastUpdate_Achievements": "2024-01-01T02:05:53.6514342+00:00"
 }

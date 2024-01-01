@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 474,
+  "EOS_Progressed": 475,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1520,6 +1520,11 @@
       "Time": "2023-12-31T23:05:37.0529564+00:00",
       "NumProgressed": 474,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T02:00:51.050154+00:00",
+      "NumProgressed": 475,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1547,7 +1552,7 @@
       "Name": "Lux Living",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ach_apartments_2",
@@ -1579,7 +1584,7 @@
       "Name": "Artfully Done",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ach_art_large",
@@ -1619,7 +1624,7 @@
       "Name": "Campaign Launch",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "ach_campaigns_1",
@@ -1627,7 +1632,7 @@
       "Name": "Apartment Awareness",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ach_campaigns_2",
@@ -1667,7 +1672,7 @@
       "Name": "Need a Consult",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ach_consultant_1",
@@ -1675,7 +1680,7 @@
       "Name": "Upgrade Unlock",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ach_consultants_a",
@@ -1715,7 +1720,7 @@
       "Name": "Loft Life",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ach_contracts_3",
@@ -1723,7 +1728,7 @@
       "Name": "Glut of Gastronomy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ach_contracts_4",
@@ -1739,7 +1744,7 @@
       "Name": "Proper Walls",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ach_drones",
@@ -1771,7 +1776,7 @@
       "Name": "Royal Flush",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ach_ep1_event_1",
@@ -1795,7 +1800,7 @@
       "Name": "The King of Cool",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ach_ep1_reviews_1",
@@ -1811,7 +1816,7 @@
       "Name": "Four of a Kind",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ach_ep1_revs_1",
@@ -1827,7 +1832,7 @@
       "Name": "In the Money",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ach_floors",
@@ -1835,7 +1840,7 @@
       "Name": "Starting Skyward",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ach_floors_1",
@@ -1923,7 +1928,7 @@
       "Name": "28 Days Later",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ach_office_1",
@@ -1931,7 +1936,7 @@
       "Name": "It\u0027s Technical",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ach_office_2",
@@ -1995,7 +2000,7 @@
       "Name": "In the Black",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ach_profit_1",
@@ -2051,7 +2056,7 @@
       "Name": "Dinner Dash",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "ach_restaurants_4",
@@ -2065,9 +2070,9 @@
       "ID": "ach_restaurants_5",
       "SetID": "b8gh1fi",
       "Name": "Starred Dining",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 62
     },
     {
       "ID": "ach_retail_1",
@@ -2083,7 +2088,7 @@
       "Name": "Emporium Empire",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ach_retail_3",
@@ -2091,7 +2096,7 @@
       "Name": "Leveled Up Shops",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ach_retail_4",
@@ -2123,7 +2128,7 @@
       "Name": "It is Payday",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ach_scenarios_1",
@@ -2171,7 +2176,7 @@
       "Name": "We Don\u0027t Need No Education",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ach_util_cable",
@@ -2203,7 +2208,7 @@
       "Name": "Get Electrified",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ach_util_water",
@@ -2227,14 +2232,14 @@
       "Name": "Destination Destiny",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 474,
+      "Progressed": 475,
       "Completed": 0
     }
   ],
@@ -2242,8 +2247,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2024-01-01T00:04:39.9299944+00:00",
+  "LastChanged_Achievements": "2024-01-01T02:00:51.0501538+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.6325323+00:00",
-  "LastUpdate_Ratings": "2023-12-31T23:57:28.3382477+00:00",
-  "LastUpdate_Achievements": "2024-01-01T00:04:39.9300848+00:00"
+  "LastUpdate_Ratings": "2024-01-01T01:54:00.047601+00:00",
+  "LastUpdate_Achievements": "2024-01-01T02:00:51.0502273+00:00"
 }

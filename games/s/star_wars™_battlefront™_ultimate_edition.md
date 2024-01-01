@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 87.00% | ~2,110 |
-| Off to a good start | 62.00% | ~1,504 |
-| Do... or do not. There is no try | 52.00% | ~1,261 |
-| A good blaster at your side | 26.00% | ~630 |
-| I suggest a new strategy | 18.00% | ~436 |
+| New Recruit | 87.00% | ~2,112 |
+| Off to a good start | 62.00% | ~1,505 |
+| Do... or do not. There is no try | 52.00% | ~1,263 |
+| A good blaster at your side | 26.00% | ~631 |
+| I suggest a new strategy | 18.00% | ~437 |
 | Great shot, kid! | 16.00% | ~388 |
 | Scrap collector | 15.00% | ~364 |
 | All right, I'll give it a try | 15.00% | ~364 |
-| Shoot first | 13.00% | ~315 |
+| Shoot first | 13.00% | ~316 |
 | The power of the Force | 12.00% | ~291 |
 | Collector | 12.00% | ~291 |
 | Together we can rule the galaxy | 12.00% | ~291 |
@@ -33,15 +33,15 @@
 | Not bad for a little furball | 3.00% | ~73 |
 | Patience you must have | 3.00% | ~73 |
 | Don't underestimate the Force | 3.00% | ~73 |
-| The Force is strong with this one | 2.00% | ~48 |
-| I've been waiting for you | 2.00% | ~48 |
-| When 900 years old you reach... | 2.00% | ~48 |
-| Determined | 2.00% | ~48 |
-| Your journey has only started | 2.00% | ~48 |
-| Precision shot | 2.00% | ~48 |
-| That's no moon | 2.00% | ~48 |
-| What will you become? | 2.00% | ~48 |
-| Disturbed tranquility | 2.00% | ~48 |
+| The Force is strong with this one | 2.00% | ~49 |
+| I've been waiting for you | 2.00% | ~49 |
+| When 900 years old you reach... | 2.00% | ~49 |
+| Determined | 2.00% | ~49 |
+| Your journey has only started | 2.00% | ~49 |
+| Precision shot | 2.00% | ~49 |
+| That's no moon | 2.00% | ~49 |
+| What will you become? | 2.00% | ~49 |
+| Disturbed tranquility | 2.00% | ~49 |
 | Hold the line! | 1.00% | ~24 |
 | Ackbar's Elite | 1.00% | ~24 |
 | This is a new day, a new beginning | 1.00% | ~24 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,425 (Ranked 231)  
+Progressed: 2,428 (Ranked 231)  
 Completed: 1 (0.04%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,6 +175,7 @@ Completed: 1 (0.04%) (Ranked 345)
 | 2023-12-29 | 2,337 | 1 |
 | 2023-12-30 | 2,388 | 1 |
 | 2023-12-31 | 2,425 | 1 |
+| 2024-01-01 | 2,428 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

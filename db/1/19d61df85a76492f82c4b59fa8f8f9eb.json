@@ -4,8 +4,8 @@
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 42,
-  "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
     "PcReleaseDate": "2017-11-24T00:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 462,
+  "EOS_Progressed": 463,
   "EOS_Completed": 45,
   "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 9.74,
+  "EOS_Completed_Percentage": 9.72,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -2174,6 +2174,11 @@
       "Time": "2024-01-01T00:09:02.3746347+00:00",
       "NumProgressed": 462,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2024-01-01T02:05:02.1816428+00:00",
+      "NumProgressed": 463,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 6,
@@ -2217,7 +2222,7 @@
       "Name": "Revolving Bridge",
       "Percentage": 31,
       "XP": 165,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBQ",
@@ -2225,21 +2230,21 @@
       "Name": "Flying Machine",
       "Percentage": 33,
       "XP": 165,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     }
   ],
   "AchievementSets": [
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 462,
+      "Progressed": 463,
       "Completed": 45
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2024-01-01T00:09:02.3746343+00:00",
+  "LastChanged_Achievements": "2024-01-01T02:05:02.1816425+00:00",
   "LastUpdate_AppInfo": "2023-12-29T02:57:14.6672707+00:00",
-  "LastUpdate_Ratings": "2023-12-31T23:58:18.0806721+00:00",
-  "LastUpdate_Achievements": "2024-01-01T00:09:02.3746567+00:00"
+  "LastUpdate_Ratings": "2024-01-01T01:54:50.5734076+00:00",
+  "LastUpdate_Achievements": "2024-01-01T02:05:02.1816579+00:00"
 }

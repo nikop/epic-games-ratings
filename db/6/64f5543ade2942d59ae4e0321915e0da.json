@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 333,
+  "EOS_Progressed": 335,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -1319,6 +1319,11 @@
       "Time": "2023-12-31T23:04:31.6178664+00:00",
       "NumProgressed": 333,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-01T02:00:03.6557973+00:00",
+      "NumProgressed": 335,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -1361,9 +1366,9 @@
       "ID": "AC_ALL_TOYS",
       "SetID": "16i2akc",
       "Name": "Gift",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "AC_ALL_WEAPONS",
@@ -1387,7 +1392,7 @@
       "Name": "Gambler",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "AC_BLACKJACK_GAMES_2",
@@ -1403,23 +1408,23 @@
       "Name": "Hunger",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 178
     },
     {
       "ID": "AC_BOSS_01",
       "SetID": "16i2akc",
       "Name": "Misery",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 84
     },
     {
       "ID": "AC_BOSS_02",
       "SetID": "16i2akc",
       "Name": "Downfall",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 54
     },
     {
       "ID": "AC_BOSS_03",
@@ -1435,7 +1440,7 @@
       "Name": "Heresy",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "AC_COMBO_1",
@@ -1465,17 +1470,17 @@
       "ID": "AC_CROSSBOW_MAX",
       "SetID": "16i2akc",
       "Name": "Bolt",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 3
     },
     {
       "ID": "AC_DEATH_1",
       "SetID": "16i2akc",
       "Name": "Corpse",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 121
     },
     {
       "ID": "AC_DEATH_2",
@@ -1499,7 +1504,7 @@
       "Name": "Killer",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -1523,7 +1528,7 @@
       "Name": "Excursion",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 266
+      "UsersEstimate": 268
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -1531,15 +1536,15 @@
       "Name": "Journey",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "AC_DISTANCE_3",
       "SetID": "16i2akc",
       "Name": "Voyage",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 45,
-      "UsersEstimate": 93
+      "UsersEstimate": 90
     },
     {
       "ID": "AC_FIRST_BLACKJACK",
@@ -1547,15 +1552,15 @@
       "Name": "Player",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "AC_FLASHBACK_01",
       "SetID": "16i2akc",
       "Name": "Creation",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 60
     },
     {
       "ID": "AC_FLASHBACK_02",
@@ -1593,9 +1598,9 @@
       "ID": "AC_MUSIC_CONCERT",
       "SetID": "16i2akc",
       "Name": "Band",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "AC_PISTOL_MAX",
@@ -1611,7 +1616,7 @@
       "Name": "Cook",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "AC_RECIPES_DONE_2",
@@ -1625,9 +1630,9 @@
       "ID": "AC_ROCKET_MAX",
       "SetID": "16i2akc",
       "Name": "Rocket",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 3
     },
     {
       "ID": "AC_ROSCOBOSS",
@@ -1666,14 +1671,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 333,
+      "Progressed": 335,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-01T00:03:53.5481907+00:00",
+  "LastChanged_Achievements": "2024-01-01T02:00:03.6557971+00:00",
   "LastUpdate_AppInfo": "2023-12-26T21:56:54.1541826+00:00",
-  "LastUpdate_Ratings": "2023-12-31T23:58:28.2141948+00:00",
-  "LastUpdate_Achievements": "2024-01-01T00:03:53.5482257+00:00"
+  "LastUpdate_Ratings": "2024-01-01T01:55:00.4818359+00:00",
+  "LastUpdate_Achievements": "2024-01-01T02:00:03.6558305+00:00"
 }

@@ -16,12 +16,12 @@
 | Artistic fool | 31.00% | ~56 |
 | Let the boot talk | 31.00% | ~56 |
 | Chapter II | 25.00% | ~45 |
+| Bubblekillerfamily | 24.00% | ~43 |
+| Quite a buggy game | 23.00% | ~42 |
 | Handyman | 23.00% | ~42 |
-| Bubblekillerfamily | 23.00% | ~42 |
 | Achoo!! | 23.00% | ~42 |
 | Chapter III | 23.00% | ~42 |
 | Like a moth in the Wind | 23.00% | ~42 |
-| Quite a buggy game | 22.00% | ~40 |
 | Pacifist | 21.00% | ~38 |
 | Mirror mirror on the wall... | 19.00% | ~34 |
 | Fastidious Clown | 18.00% | ~33 |

@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1178,
+  "EOS_Progressed": 1179,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2932,6 +2932,11 @@
       "Time": "2024-01-01T00:08:24.7047774+00:00",
       "NumProgressed": 1178,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-01T02:04:25.1464873+00:00",
+      "NumProgressed": 1179,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -3000,7 +3005,7 @@
       "Name": "Pathfinder",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "CompleteChapter10",
@@ -3064,7 +3069,7 @@
       "Name": "Fool\u0027s Errand",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "CompleteChapter17NoIdenDeath",
@@ -3080,7 +3085,7 @@
       "Name": "The Might of Sigmar\u0027s Warriors",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "CompleteChapter2",
@@ -3088,7 +3093,7 @@
       "Name": "Met the Enemy",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "CompleteChapter3",
@@ -3096,7 +3101,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "CompleteChapter4",
@@ -3136,7 +3141,7 @@
       "Name": "Troggoff Troubles",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "CompleteChapter9",
@@ -3239,14 +3244,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 1178,
+      "Progressed": 1179,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2024-01-01T00:08:24.704777+00:00",
+  "LastChanged_Achievements": "2024-01-01T02:04:25.146487+00:00",
   "LastUpdate_AppInfo": "2023-12-29T09:57:13.5043463+00:00",
-  "LastUpdate_Ratings": "2023-12-31T23:58:23.3579497+00:00",
-  "LastUpdate_Achievements": "2024-01-01T00:08:24.7048234+00:00"
+  "LastUpdate_Ratings": "2024-01-01T01:54:55.6757643+00:00",
+  "LastUpdate_Achievements": "2024-01-01T02:04:25.1465305+00:00"
 }

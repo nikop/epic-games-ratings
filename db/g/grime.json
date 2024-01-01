@@ -5,7 +5,7 @@
   "Ranking_Rating": 445,
   "Ranking_Popularity": 423,
   "Ranking_PopularitySum": 343,
-  "Ranking_EOS_Progress": 83,
+  "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 93,
   "Ranking_EOS_NewCompleters": 11,
@@ -1789,9 +1789,9 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 165811,
+  "EOS_Progressed": 165822,
   "EOS_Completed": 431,
-  "EOS_NewPlayers": 1502,
+  "EOS_NewPlayers": 1506,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -21369,6 +21369,11 @@
       "Time": "2024-01-01T00:04:13.7752768+00:00",
       "NumProgressed": 165811,
       "NumCompleted": 431
+    },
+    {
+      "Time": "2024-01-01T02:00:24.2729765+00:00",
+      "NumProgressed": 165822,
+      "NumCompleted": 431
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -21445,7 +21450,7 @@
       "Name": "Taste",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4974
+      "UsersEstimate": 4975
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -21573,7 +21578,7 @@
       "Name": "Silenced Whispers",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 1326
+      "UsersEstimate": 1327
     },
     {
       "ID": "MISC_ABSORBMANY",
@@ -21597,7 +21602,7 @@
       "Name": "Imprint",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4974
+      "UsersEstimate": 4975
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -21748,21 +21753,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 165394,
+      "Progressed": 165405,
       "Completed": 1250
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 165811,
+      "Progressed": 165822,
       "Completed": 431
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-31T13:00:03.1579363+00:00",
-  "LastChanged_Achievements": "2024-01-01T00:04:13.7752764+00:00",
+  "LastChanged_Achievements": "2024-01-01T02:00:24.2729763+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:50.3299145+00:00",
-  "LastUpdate_Ratings": "2023-12-31T23:58:03.6722145+00:00",
-  "LastUpdate_Achievements": "2024-01-01T00:04:13.7754289+00:00"
+  "LastUpdate_Ratings": "2024-01-01T01:54:35.3321059+00:00",
+  "LastUpdate_Achievements": "2024-01-01T02:00:24.2730701+00:00"
 }

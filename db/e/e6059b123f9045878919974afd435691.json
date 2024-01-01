@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -3448,9 +3448,9 @@
       "ID": "ATK_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Beware of the Goat",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 551
+      "UsersEstimate": 564
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -3648,9 +3648,9 @@
       "ID": "FREEM_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Where Is Houdini?",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 231
     },
     {
       "ID": "FREE_ACHIEVEMENT_1",
@@ -3696,9 +3696,9 @@
       "ID": "KILLR_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Who You Gonna Call?",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 487
+      "UsersEstimate": 500
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -3800,9 +3800,9 @@
       "ID": "MEAT_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Night Snack",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 359
+      "UsersEstimate": 371
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -3943,8 +3943,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-01T00:10:08.2562345+00:00",
+  "LastChanged_Achievements": "2024-01-01T02:06:08.5854755+00:00",
   "LastUpdate_AppInfo": "2023-12-29T02:57:14.6537743+00:00",
-  "LastUpdate_Ratings": "2023-12-31T23:58:29.0328888+00:00",
-  "LastUpdate_Achievements": "2024-01-01T00:10:08.2563254+00:00"
+  "LastUpdate_Ratings": "2024-01-01T01:55:01.2210138+00:00",
+  "LastUpdate_Achievements": "2024-01-01T02:06:08.5855374+00:00"
 }

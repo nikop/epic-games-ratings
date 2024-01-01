@@ -807,7 +807,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3685,
+  "EOS_Progressed": 3686,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
@@ -5222,6 +5222,11 @@
       "Time": "2023-12-31T22:04:14.3745967+00:00",
       "NumProgressed": 3685,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T02:00:39.1284869+00:00",
+      "NumProgressed": 3686,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -5425,7 +5430,7 @@
       "Name": "Executioner",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "Kills_Exterminator",
@@ -5503,9 +5508,9 @@
       "ID": "MasterCraftLevel3_Melee",
       "SetID": "3jha1np",
       "Name": "Nemesis Master",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 111
     },
     {
       "ID": "MasterCraftLevel3_Ranged",
@@ -5776,21 +5781,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3685,
+      "Progressed": 3686,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3685,
+      "Progressed": 3686,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-12-29T09:03:12.9031427+00:00",
-  "LastChanged_Achievements": "2024-01-01T00:04:27.83103+00:00",
+  "LastChanged_Achievements": "2024-01-01T02:00:39.1284866+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:30.5390055+00:00",
-  "LastUpdate_Ratings": "2024-01-01T00:03:07.8447724+00:00",
-  "LastUpdate_Achievements": "2024-01-01T00:04:27.8310926+00:00"
+  "LastUpdate_Ratings": "2024-01-01T01:59:16.2347201+00:00",
+  "LastUpdate_Achievements": "2024-01-01T02:00:39.1285473+00:00"
 }

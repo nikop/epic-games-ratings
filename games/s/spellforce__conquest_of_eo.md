@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 90.00% | ~94 |
-| Enough rooms to swing a cat | 82.00% | ~86 |
-| First to the post | 81.00% | ~85 |
-| A kind of Magic | 75.00% | ~79 |
-| Connected | 68.00% | ~71 |
-| Expansion | 62.00% | ~65 |
+| Home Sweet Home | 89.00% | ~94 |
+| Enough rooms to swing a cat | 82.00% | ~87 |
+| First to the post | 81.00% | ~86 |
+| A kind of Magic | 75.00% | ~80 |
+| Connected | 67.00% | ~71 |
+| Expansion | 61.00% | ~65 |
 | Mine! | 58.00% | ~61 |
 | Harvest Time | 57.00% | ~60 |
-| Artificer's Apprentice | 50.00% | ~52 |
-| Fly the friendly Sky | 46.00% | ~48 |
-| Get out of here! | 43.00% | ~45 |
+| Artificer's Apprentice | 51.00% | ~54 |
+| Fly the friendly Sky | 45.00% | ~48 |
+| Get out of here! | 42.00% | ~45 |
 | Alchemist's Apprentice | 38.00% | ~40 |
 | Necromancer's Apprentice | 37.00% | ~39 |
 | Friend of Lyraine | 36.00% | ~38 |
@@ -23,7 +23,7 @@
 | Bad JuJu | 25.00% | ~26 |
 | Friend of Sevenkeeps | 23.00% | ~24 |
 | Slave to the rhythm | 22.00% | ~23 |
-| Castle Meldec | 21.00% | ~22 |
+| Castle Meldec | 22.00% | ~23 |
 | Sevenkeeps Seat of Kings | 20.00% | ~21 |
 | Friend of Alluvyan | 16.00% | ~17 |
 | Friend of Connach | 14.00% | ~15 |
@@ -35,13 +35,13 @@
 | Silver Drift Hollow Mine | 11.00% | ~12 |
 | Friend of Orgash | 11.00% | ~12 |
 | Friend of Bastion | 11.00% | ~12 |
-| Defeat Gor | 10.00% | ~10 |
-| A Master of Magic | 10.00% | ~10 |
-| Friend of Windholme | 10.00% | ~10 |
-| Magic Academy | 10.00% | ~10 |
-| A Joke | 10.00% | ~10 |
-| Yngrid's Tale | 9.00% | ~9 |
-| Mage Teacher | 9.00% | ~9 |
+| A Master of Magic | 10.00% | ~11 |
+| Friend of Windholme | 10.00% | ~11 |
+| Magic Academy | 10.00% | ~11 |
+| Defeat Gor | 9.00% | ~10 |
+| A Joke | 9.00% | ~10 |
+| Yngrid's Tale | 8.00% | ~8 |
+| Mage Teacher | 8.00% | ~8 |
 | Defeat Hokan | 7.00% | ~7 |
 | Defeat Uram | 7.00% | ~7 |
 | Elynn's Tale | 7.00% | ~7 |
@@ -70,12 +70,12 @@
 | Breaking the circle | 3.00% | ~3 |
 | My Friends! | 3.00% | ~3 |
 | Hard Life | 2.00% | ~2 |
-| Impossible Mission | 1.00% | ~1 |
+| Impossible Mission | 0.90% | ~1 |
 | Potion Master | 0.00% | ~0 |
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 105 (Ranked 482)  
+Progressed: 106 (Ranked 482)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,6 +124,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-29 | 96 | 0 |
 | 2023-12-30 | 98 | 0 |
 | 2023-12-31 | 105 | 0 |
+| 2024-01-01 | 106 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

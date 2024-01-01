@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 113,
+  "EOS_Progressed": 114,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
@@ -579,6 +579,11 @@
       "Time": "2023-12-31T19:06:19.4478974+00:00",
       "NumProgressed": 113,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T02:02:16.3530096+00:00",
+      "NumProgressed": 114,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -588,17 +593,17 @@
       "ID": "CgkIxYDzrbcPEAIQAQ",
       "SetID": "4egpam7",
       "Name": "Catacomb Crawl",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 88
+      "UsersEstimate": 90
     },
     {
       "ID": "CgkIxYDzrbcPEAIQAg",
       "SetID": "4egpam7",
       "Name": "All in a Day\u0027s Work",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "CgkIxYDzrbcPEAIQAw",
@@ -622,7 +627,7 @@
       "Name": "Man of Faith",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "CgkIxYDzrbcPEAIQBg",
@@ -630,7 +635,7 @@
       "Name": "Uninvited Guests",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "CgkIxYDzrbcPEAIQBw",
@@ -654,15 +659,15 @@
       "Name": "Ancient Enigma",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "CgkIxYDzrbcPEAIQCg",
       "SetID": "4egpam7",
       "Name": "Pest Control",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 30,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "CgkIxYDzrbcPEAIQCw",
@@ -670,7 +675,7 @@
       "Name": "Target Practice",
       "Percentage": 72,
       "XP": 30,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "CgkIxYDzrbcPEAIQDA",
@@ -708,7 +713,7 @@
       "ID": "CgkIxYDzrbcPEAIQEA",
       "SetID": "4egpam7",
       "Name": "Collector of Secrets",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 30,
       "UsersEstimate": 62
     },
@@ -764,9 +769,9 @@
       "ID": "CgkIxYDzrbcPEAIQFw",
       "SetID": "4egpam7",
       "Name": "I Could Do This Blindfolded",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 13
     },
     {
       "ID": "CgkIxYDzrbcPEAIQGA",
@@ -806,7 +811,7 @@
       "Name": "Healthy Moderation",
       "Percentage": 19,
       "XP": 70,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "CgkIxYDzrbcPEAIQHQ",
@@ -820,23 +825,23 @@
       "ID": "CgkIxYDzrbcPEAIQHg",
       "SetID": "4egpam7",
       "Name": "Curious Soul",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     }
   ],
   "AchievementSets": [
     {
       "ID": "4egpam7",
       "IsBase": true,
-      "Progressed": 113,
+      "Progressed": 114,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2024-01-01T00:06:05.1599533+00:00",
+  "LastChanged_Achievements": "2024-01-01T02:02:16.3530094+00:00",
   "LastUpdate_AppInfo": "2023-12-27T02:57:26.2622847+00:00",
-  "LastUpdate_Ratings": "2023-12-31T23:57:38.1003657+00:00",
-  "LastUpdate_Achievements": "2024-01-01T00:06:05.1599815+00:00"
+  "LastUpdate_Ratings": "2024-01-01T01:54:10.0864123+00:00",
+  "LastUpdate_Achievements": "2024-01-01T02:02:16.3530282+00:00"
 }

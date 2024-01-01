@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Wraith | 62.00% | ~417 |
-| Welcome to Mordor! | 52.00% | ~349 |
+| Welcome to Mordor! | 53.00% | ~356 |
 | Collectibles Part 1 | 50.00% | ~336 |
 | Wait! Wait! Not yet! | 38.00% | ~255 |
 | Like Flying... | 33.00% | ~222 |

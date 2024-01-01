@@ -2,7 +2,7 @@
   "ID": "3348e3d8eae449ecbcf9fe354d4fe8a0",
   "Name": "Hotel Renovator",
   "ProductSlug": "hotel-renovator",
-  "Ranking_Rating": 818,
+  "Ranking_Rating": 817,
   "Ranking_Popularity": 576,
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 269,
@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1366,
+  "EOS_Progressed": 1367,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.32,
   "EosHistory": [
@@ -3273,6 +3273,11 @@
       "Time": "2023-12-31T21:08:52.4518157+00:00",
       "NumProgressed": 1366,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-01T02:04:43.1232933+00:00",
+      "NumProgressed": 1367,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 27,
@@ -3324,7 +3329,7 @@
       "Name": "Fine, I\u0027ll do it myself",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "ACH_ELIZA_PHOTO",
@@ -3404,7 +3409,7 @@
       "Name": "Big fortune",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "ACH_POSTCARD",
@@ -3436,7 +3441,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1038
+      "UsersEstimate": 1039
     },
     {
       "ID": "ACH_STAR_2",
@@ -3444,7 +3449,7 @@
       "Name": "Moving up",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "ACH_STAR_3",
@@ -3492,14 +3497,14 @@
       "Name": "I think you dropped this",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     }
   ],
   "AchievementSets": [
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1366,
+      "Progressed": 1367,
       "Completed": 18
     }
   ],
@@ -3507,8 +3512,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-12-29T01:34:53.0019618+00:00",
-  "LastChanged_Achievements": "2024-01-01T00:08:43.0078346+00:00",
+  "LastChanged_Achievements": "2024-01-01T02:04:43.1232931+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:25.8678636+00:00",
-  "LastUpdate_Ratings": "2023-12-31T23:59:37.4785825+00:00",
-  "LastUpdate_Achievements": "2024-01-01T00:08:43.0078662+00:00"
+  "LastUpdate_Ratings": "2024-01-01T01:56:07.2673707+00:00",
+  "LastUpdate_Achievements": "2024-01-01T02:04:43.1233476+00:00"
 }

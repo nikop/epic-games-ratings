@@ -383,7 +383,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7010,
+  "EOS_Progressed": 7011,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 0,
@@ -8043,6 +8043,11 @@
       "Time": "2024-01-01T00:08:49.1814438+00:00",
       "NumProgressed": 7010,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-01T02:04:49.154316+00:00",
+      "NumProgressed": 7011,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -8334,7 +8339,7 @@
       "Name": "Life Found a Way",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "MoneyShot",
@@ -8422,7 +8427,7 @@
       "Name": "Smooth Operator: Madison",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "SmellBlood",
@@ -8605,21 +8610,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 4049,
+      "Progressed": 4050,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 7010,
+      "Progressed": 7011,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-12-30T21:02:21.4914587+00:00",
-  "LastChanged_Achievements": "2024-01-01T00:08:49.1814434+00:00",
+  "LastChanged_Achievements": "2024-01-01T02:04:49.1543158+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:40.2112681+00:00",
-  "LastUpdate_Ratings": "2023-12-31T23:57:08.5651746+00:00",
-  "LastUpdate_Achievements": "2024-01-01T00:08:49.181542+00:00"
+  "LastUpdate_Ratings": "2024-01-01T01:53:39.6253875+00:00",
+  "LastUpdate_Achievements": "2024-01-01T02:04:49.1544123+00:00"
 }

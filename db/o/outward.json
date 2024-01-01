@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4380,
+  "EOS_Progressed": 4381,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -7406,6 +7406,11 @@
       "Time": "2024-01-01T00:05:27.1542019+00:00",
       "NumProgressed": 4380,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-01T02:01:39.4417647+00:00",
+      "NumProgressed": 4381,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -7473,7 +7478,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "Eureka_23",
@@ -7601,7 +7606,7 @@
       "Name": "Ready for Summer",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2146
+      "UsersEstimate": 2147
     },
     {
       "ID": "ReadyforWinter_42",
@@ -7737,7 +7742,7 @@
       "Name": "Venture Outward",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3197
+      "UsersEstimate": 3198
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -7752,15 +7757,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4380,
+      "Progressed": 4381,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2024-01-01T00:05:27.1542016+00:00",
+  "LastChanged_Achievements": "2024-01-01T02:01:39.4417645+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:23.571083+00:00",
-  "LastUpdate_Ratings": "2024-01-01T00:02:56.1508864+00:00",
-  "LastUpdate_Achievements": "2024-01-01T00:05:27.154258+00:00"
+  "LastUpdate_Ratings": "2024-01-01T01:59:04.3512581+00:00",
+  "LastUpdate_Achievements": "2024-01-01T02:01:39.4418134+00:00"
 }

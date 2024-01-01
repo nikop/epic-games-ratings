@@ -2,7 +2,7 @@
   "ID": "ed8b8463b9a34638b64bb8e5575b8f4e",
   "Name": "The Isle Tide Hotel",
   "ProductSlug": "the-isle-tide-hotel-adf588",
-  "Ranking_EOS_Progress": 482,
+  "Ranking_EOS_Progress": 484,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 382,
   "Ranking_EOS_NewCompleters": 156,
@@ -573,9 +573,9 @@
       "ID": "cultipedia",
       "SetID": "7i36ba9",
       "Name": "Cultipedia",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "drowned_sorrows",
@@ -709,9 +709,9 @@
       "ID": "the_pageant",
       "SetID": "7i36ba9",
       "Name": "The Pageant",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 95,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "the_petition",
@@ -749,9 +749,9 @@
       "ID": "who_is_d",
       "SetID": "7i36ba9",
       "Name": "Who is D?",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     }
   ],
   "AchievementSets": [
@@ -764,8 +764,8 @@
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2024-01-01T00:09:55.4626752+00:00",
+  "LastChanged_Achievements": "2024-01-01T02:05:55.532643+00:00",
   "LastUpdate_AppInfo": "2023-12-30T07:56:58.7509332+00:00",
-  "LastUpdate_Ratings": "2023-12-31T23:57:26.1292174+00:00",
-  "LastUpdate_Achievements": "2024-01-01T00:09:55.4627038+00:00"
+  "LastUpdate_Ratings": "2024-01-01T01:53:57.7473051+00:00",
+  "LastUpdate_Achievements": "2024-01-01T02:05:55.5326785+00:00"
 }

@@ -20,7 +20,7 @@
 | DI Hardwicke | 42.00% | ~35 |
 | Order and method | 37.00% | ~31 |
 | Betty Allen | 37.00% | ~31 |
-| The Investigation Begins | 34.00% | ~28 |
+| The Investigation Begins | 35.00% | ~29 |
 | Ms. Camilla B. Culsham | 31.00% | ~26 |
 | Irene Court-Smyth | 31.00% | ~26 |
 | An odd series of events | 30.00% | ~25 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 572,
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -345,9 +345,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2192,
+  "EOS_Progressed": 2195,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3750,6 +3750,11 @@
       "Time": "2024-01-01T00:05:13.3333155+00:00",
       "NumProgressed": 2192,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T02:01:24.7983002+00:00",
+      "NumProgressed": 2195,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3785,7 +3790,7 @@
       "Name": "Enter of Your Own Free Will",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "Achievement_006",
@@ -3809,7 +3814,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "Achievement_009",
@@ -3817,7 +3822,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "Achievement_010",
@@ -3825,7 +3830,7 @@
       "Name": "Welcome to the Neighborhood",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "Achievement_011",
@@ -3953,7 +3958,7 @@
       "Name": "Fly Fisher",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "Achievement_027",
@@ -3961,7 +3966,7 @@
       "Name": "Peek-a-boo",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "Achievement_028",
@@ -3977,7 +3982,7 @@
       "Name": "Throw The First Stone",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "Achievement_030",
@@ -3991,9 +3996,9 @@
       "ID": "Achievement_031",
       "SetID": "6b34g18",
       "Name": "Sucks To Be You",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 198
     },
     {
       "ID": "Achievement_032",
@@ -4065,7 +4070,7 @@
       "Name": "Heart Attack",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "Achievement_041",
@@ -4288,7 +4293,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2192,
+      "Progressed": 2195,
       "Completed": 0
     }
   ],
@@ -4296,8 +4301,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-31T15:59:03.0757989+00:00",
-  "LastChanged_Achievements": "2024-01-01T00:05:13.3333151+00:00",
+  "LastChanged_Achievements": "2024-01-01T02:01:24.7983+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.8280502+00:00",
-  "LastUpdate_Ratings": "2023-12-31T23:59:23.1555357+00:00",
-  "LastUpdate_Achievements": "2024-01-01T00:05:13.33338+00:00"
+  "LastUpdate_Ratings": "2024-01-01T01:55:53.9538627+00:00",
+  "LastUpdate_Achievements": "2024-01-01T02:01:24.7983791+00:00"
 }

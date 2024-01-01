@@ -4,7 +4,7 @@
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 810,
+  "EOS_Progressed": 811,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.23,
   "EosHistory": [
@@ -2910,6 +2910,11 @@
       "Time": "2023-12-31T23:10:47.0870573+00:00",
       "NumProgressed": 810,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-01T02:05:43.4056299+00:00",
+      "NumProgressed": 811,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -2922,15 +2927,15 @@
       "Name": "The Ultimate Prize",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "achievement_10",
       "SetID": "7ldgi7j",
       "Name": "Holey Moley",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 373
+      "UsersEstimate": 365
     },
     {
       "ID": "achievement_11",
@@ -2938,7 +2943,7 @@
       "Name": "Bomb\u0027s Away",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "achievement_12",
@@ -2954,7 +2959,7 @@
       "Name": "Competitor\u0027s Spirit",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "achievement_14",
@@ -2978,7 +2983,7 @@
       "Name": "Star Power",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "achievement_17",
@@ -2986,7 +2991,7 @@
       "Name": "Clean Sheet",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "achievement_18",
@@ -3008,9 +3013,9 @@
       "ID": "achievement_3",
       "SetID": "7ldgi7j",
       "Name": "A Passion for Excellence",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 162
+      "UsersEstimate": 154
     },
     {
       "ID": "achievement_4",
@@ -3058,20 +3063,20 @@
       "Name": "Ace in the Hole",
       "Percentage": 24,
       "XP": 90,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     }
   ],
   "AchievementSets": [
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 810,
+      "Progressed": 811,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2024-01-01T00:09:43.7027688+00:00",
+  "LastChanged_Achievements": "2024-01-01T02:05:43.4056297+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:46.6527826+00:00",
-  "LastUpdate_Ratings": "2023-12-31T23:57:08.8149909+00:00",
-  "LastUpdate_Achievements": "2024-01-01T00:09:43.7027924+00:00"
+  "LastUpdate_Ratings": "2024-01-01T01:53:39.7659685+00:00",
+  "LastUpdate_Achievements": "2024-01-01T02:05:43.4056615+00:00"
 }

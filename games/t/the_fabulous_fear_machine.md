@@ -28,22 +28,22 @@
 | Kirlian's best disciple | 13.00% | ~9 |
 | Welcome to Hellville | 13.00% | ~9 |
 | Blood Red Island | 11.00% | ~8 |
+| Bread and bocaua | 11.00% | ~8 |
+| Fanatacism is... poisonous | 11.00% | ~8 |
 | Pulp! The Beyond | 11.00% | ~8 |
 | Blessed antennas | 10.00% | ~7 |
 | The beast in the Oval Office | 10.00% | ~7 |
-| Bread and bocaua | 10.00% | ~7 |
-| Fanatacism is... poisonous | 10.00% | ~7 |
 | The bully | 10.00% | ~7 |
 | The adventurer | 10.00% | ~7 |
+| ECO mode | 10.00% | ~7 |
 | The scholar | 8.00% | ~6 |
 | Pulp! True Adventures | 8.00% | ~6 |
-| ECO mode | 8.00% | ~6 |
 | America had no Faith | 8.00% | ~6 |
 | The barbarian invasions | 6.00% | ~4 |
+| A new Hindenburg | 6.00% | ~4 |
 | Pulp! Tales from the Crypt | 4.00% | ~3 |
 | Thirst for Oleum | 4.00% | ~3 |
 | Vaccine fans | 4.00% | ~3 |
-| A new Hindenburg | 4.00% | ~3 |
 | Pulp! Weird Science | 3.00% | ~2 |
 | Pulp! Heart Throbs | 3.00% | ~2 |
 | Troy is burning! | 3.00% | ~2 |

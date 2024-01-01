@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 56.00% | ~265 |
-| Starting Skyward | 50.00% | ~237 |
+| In the Black | 56.00% | ~266 |
+| Starting Skyward | 50.00% | ~238 |
 | Grime is Not Good | 43.00% | ~204 |
 | Floor Galore | 38.00% | ~180 |
-| Campaign Launch | 37.00% | ~175 |
-| Dinner Dash | 37.00% | ~175 |
-| Need a Consult | 34.00% | ~161 |
-| Upgrade Unlock | 34.00% | ~161 |
-| It's Technical | 34.00% | ~161 |
+| Campaign Launch | 37.00% | ~176 |
+| Dinner Dash | 37.00% | ~176 |
+| Need a Consult | 34.00% | ~162 |
+| Upgrade Unlock | 34.00% | ~162 |
+| It's Technical | 34.00% | ~162 |
 | Delegate Maintenance | 30.00% | ~142 |
-| Proper Walls | 29.00% | ~137 |
-| Destination Destiny | 29.00% | ~137 |
+| Proper Walls | 29.00% | ~138 |
+| Destination Destiny | 29.00% | ~138 |
 | Happy Tenants | 24.00% | ~114 |
 | Potent Potables | 24.00% | ~114 |
 | Smooth Service | 23.00% | ~109 |
@@ -23,23 +23,23 @@
 | Retail Revenue | 22.00% | ~104 |
 | Don't Feel a Loan | 21.00% | ~100 |
 | People Mover | 19.00% | ~90 |
-| Lux Living | 18.00% | ~85 |
-| Artfully Done | 18.00% | ~85 |
-| Emporium Empire | 18.00% | ~85 |
-| Leveled Up Shops | 18.00% | ~85 |
-| We Don't Need No Education | 18.00% | ~85 |
-| Get Electrified | 18.00% | ~85 |
+| Lux Living | 18.00% | ~86 |
+| Artfully Done | 18.00% | ~86 |
+| Emporium Empire | 18.00% | ~86 |
+| Leveled Up Shops | 18.00% | ~86 |
+| We Don't Need No Education | 18.00% | ~86 |
+| Get Electrified | 18.00% | ~86 |
 | Rehab Expert | 17.00% | ~81 |
 | Tasty Profits | 17.00% | ~81 |
 | Established Fame | 16.00% | ~76 |
 | Under One Roof | 14.00% | ~66 |
-| Starred Dining | 14.00% | ~66 |
 | Cashflow Chief | 14.00% | ~66 |
+| Starred Dining | 13.00% | ~62 |
 | Boutique Benefits | 12.00% | ~57 |
 | Thrilled Tenants | 12.00% | ~57 |
 | Smooth Operator | 11.00% | ~52 |
 | Terrifically Trashed | 11.00% | ~52 |
-| 28 Days Later | 10.00% | ~47 |
+| 28 Days Later | 10.00% | ~48 |
 | Aestheticly Pleased | 9.00% | ~43 |
 | Swimming in Surplus | 9.00% | ~43 |
 | Refined Palates | 9.00% | ~43 |
@@ -67,14 +67,14 @@
 | Office Bigwigs | 3.00% | ~14 |
 | Luxury Boutiques | 3.00% | ~14 |
 | Three of a Kind | 3.00% | ~14 |
-| Apartment Awareness | 2.00% | ~9 |
-| Loft Life | 2.00% | ~9 |
-| Glut of Gastronomy | 2.00% | ~9 |
-| Royal Flush | 2.00% | ~9 |
-| The King of Cool | 2.00% | ~9 |
-| Four of a Kind | 2.00% | ~9 |
-| In the Money | 2.00% | ~9 |
-| It is Payday | 2.00% | ~9 |
+| Apartment Awareness | 2.00% | ~10 |
+| Loft Life | 2.00% | ~10 |
+| Glut of Gastronomy | 2.00% | ~10 |
+| Royal Flush | 2.00% | ~10 |
+| The King of Cool | 2.00% | ~10 |
+| Four of a Kind | 2.00% | ~10 |
+| In the Money | 2.00% | ~10 |
+| It is Payday | 2.00% | ~10 |
 | Curated Class | 1.00% | ~5 |
 | Plebs Are Needed | 1.00% | ~5 |
 | Full House | 1.00% | ~5 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 474 (Ranked 348)  
+Progressed: 475 (Ranked 348)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,6 +212,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-29 | 459 | 0 |
 | 2023-12-30 | 468 | 0 |
 | 2023-12-31 | 474 | 0 |
+| 2024-01-01 | 475 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

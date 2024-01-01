@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 124,
   "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -179,7 +179,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1385,
+  "EOS_Progressed": 1386,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 1,
@@ -4774,6 +4774,11 @@
       "Time": "2024-01-01T00:05:23.7834033+00:00",
       "NumProgressed": 1385,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-01T02:01:36.1046347+00:00",
+      "NumProgressed": 1386,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4834,7 +4839,7 @@
       "Name": "All Good Things",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "_08_Completion_10",
@@ -4906,7 +4911,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -4946,7 +4951,7 @@
       "Name": "Tobacco Travesty",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -4993,7 +4998,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1385,
+      "Progressed": 1386,
       "Completed": 35
     }
   ],
@@ -5001,8 +5006,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-27T21:58:17.6269244+00:00",
-  "LastChanged_Achievements": "2024-01-01T00:05:23.7834029+00:00",
+  "LastChanged_Achievements": "2024-01-01T02:01:36.1046345+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.1530944+00:00",
-  "LastUpdate_Ratings": "2023-12-31T23:59:58.0856398+00:00",
-  "LastUpdate_Achievements": "2024-01-01T00:05:23.783472+00:00"
+  "LastUpdate_Ratings": "2024-01-01T01:56:27.8017475+00:00",
+  "LastUpdate_Achievements": "2024-01-01T02:01:36.1046679+00:00"
 }

@@ -450,9 +450,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 898,
+  "EOS_Progressed": 899,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3240,6 +3240,11 @@
       "Time": "2024-01-01T00:09:03.6360559+00:00",
       "NumProgressed": 898,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T02:05:03.4904345+00:00",
+      "NumProgressed": 899,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3258,9 +3263,9 @@
       "ID": "ArleonCampaign",
       "SetID": "71c0n9i",
       "Name": "The Song of Stoutheart",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 45
     },
     {
       "ID": "ArleonCampaignFinaleOnHard",
@@ -3396,7 +3401,7 @@
       "Name": "Double Kill",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "FlameAttackKillCount",
@@ -3580,7 +3585,7 @@
       "Name": "Adept",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "WielderLevel2",
@@ -3683,15 +3688,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 898,
+      "Progressed": 899,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2024-01-01T00:09:03.6360554+00:00",
+  "LastChanged_Achievements": "2024-01-01T02:05:03.4904343+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:53.9356991+00:00",
-  "LastUpdate_Ratings": "2024-01-01T00:00:01.2910758+00:00",
-  "LastUpdate_Achievements": "2024-01-01T00:09:03.6361087+00:00"
+  "LastUpdate_Ratings": "2024-01-01T01:56:31.0145751+00:00",
+  "LastUpdate_Achievements": "2024-01-01T02:05:03.4904944+00:00"
 }

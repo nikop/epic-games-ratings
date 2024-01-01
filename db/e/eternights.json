@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -43,7 +43,7 @@
   "Tags": [],
   "EOS_Progressed": 718,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -2703,9 +2703,9 @@
       "ID": "ACHIEVEMENT_14_PromiseYuna",
       "SetID": "9bke6f1",
       "Name": "Yuna\u0027s Promise",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 187
+      "UsersEstimate": 194
     },
     {
       "ID": "ACHIEVEMENT_15_PromiseMin",
@@ -2727,9 +2727,9 @@
       "ID": "ACHIEVEMENT_17_PromiseSia",
       "SetID": "9bke6f1",
       "Name": "Sia\u0027s Promise",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 122
+      "UsersEstimate": 129
     },
     {
       "ID": "ACHIEVEMENT_18_FindMyself",
@@ -2743,9 +2743,9 @@
       "ID": "ACHIEVEMENT_19_Romantic",
       "SetID": "9bke6f1",
       "Name": "Romantic",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 93
+      "UsersEstimate": 101
     },
     {
       "ID": "ACHIEVEMENT_1_ShelterEscape",
@@ -2880,8 +2880,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2023-12-31T15:57:10.2736309+00:00",
-  "LastChanged_Achievements": "2024-01-01T00:09:04.4835073+00:00",
+  "LastChanged_Achievements": "2024-01-01T02:05:04.2600388+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.2091482+00:00",
-  "LastUpdate_Ratings": "2023-12-31T23:57:27.6245556+00:00",
-  "LastUpdate_Achievements": "2024-01-01T00:09:04.483544+00:00"
+  "LastUpdate_Ratings": "2024-01-01T01:53:59.2726035+00:00",
+  "LastUpdate_Achievements": "2024-01-01T02:05:04.260073+00:00"
 }

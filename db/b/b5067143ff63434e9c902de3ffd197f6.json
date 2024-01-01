@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17739,
+  "EOS_Progressed": 17756,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1692,
+  "EOS_NewPlayers": 1699,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10874,6 +10874,11 @@
       "Time": "2024-01-01T00:03:52.5690987+00:00",
       "NumProgressed": 17739,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T02:00:02.6142175+00:00",
+      "NumProgressed": 17756,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -10910,7 +10915,7 @@
       "Name": "Liminal Hotel",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH_LEVEL974",
@@ -10974,7 +10979,7 @@
       "Name": "Electric",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "ACH_WINLEVEL0",
@@ -10982,7 +10987,7 @@
       "Name": "Level 0",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4435
+      "UsersEstimate": 4439
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -10990,7 +10995,7 @@
       "Name": "Level 1",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2129
+      "UsersEstimate": 2131
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -10998,7 +11003,7 @@
       "Name": "Dreamer!",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1951
+      "UsersEstimate": 1953
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -11006,7 +11011,7 @@
       "Name": "Poolrooms",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "ACH_WINLEVEL4",
@@ -11046,7 +11051,7 @@
       "Name": "Motion",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "ACH_WINLEVEL9999999",
@@ -11070,21 +11075,21 @@
       "Name": "Lights Out",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     }
   ],
   "AchievementSets": [
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 17739,
+      "Progressed": 17756,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2024-01-01T00:03:52.5690984+00:00",
+  "LastChanged_Achievements": "2024-01-01T02:00:02.6142172+00:00",
   "LastUpdate_AppInfo": "2023-12-25T19:57:06.2356641+00:00",
-  "LastUpdate_Ratings": "2024-01-01T00:02:50.480641+00:00",
-  "LastUpdate_Achievements": "2024-01-01T00:03:52.5691773+00:00"
+  "LastUpdate_Ratings": "2024-01-01T01:58:58.0641385+00:00",
+  "LastUpdate_Achievements": "2024-01-01T02:00:02.6142982+00:00"
 }

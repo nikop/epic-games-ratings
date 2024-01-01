@@ -10,15 +10,15 @@ Rating: 3.61 (Ranked 1,082)
 | Home Is Where the Heart Is | 12.00% | ~263 |
 | Wounded Whispers | 12.00% | ~263 |
 | ICU | 11.00% | ~241 |
-| Blood Will Have Blood | 10.00% | ~219 |
-| Ne Plus Ultra | 10.00% | ~219 |
-| Fly Fisher | 9.00% | ~197 |
-| Peek-a-boo | 9.00% | ~197 |
-| Throw The First Stone | 8.00% | ~175 |
-| Sucks To Be You | 8.00% | ~175 |
-| Enter of Your Own Free Will | 7.00% | ~153 |
-| Welcome to the Neighborhood | 7.00% | ~153 |
-| Heart Attack | 7.00% | ~153 |
+| Blood Will Have Blood | 10.00% | ~220 |
+| Ne Plus Ultra | 10.00% | ~220 |
+| Fly Fisher | 9.00% | ~198 |
+| Peek-a-boo | 9.00% | ~198 |
+| Sucks To Be You | 9.00% | ~198 |
+| Throw The First Stone | 8.00% | ~176 |
+| Enter of Your Own Free Will | 7.00% | ~154 |
+| Welcome to the Neighborhood | 7.00% | ~154 |
+| Heart Attack | 7.00% | ~154 |
 | Grounded | 6.00% | ~132 |
 | Skin of Their Teeth | 6.00% | ~132 |
 | Bad Wiring | 5.00% | ~110 |
@@ -72,7 +72,7 @@ Rating: 3.61 (Ranked 1,082)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,192 (Ranked 238)  
+Progressed: 2,195 (Ranked 238)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-29 | 2,155 | 0 |
 | 2023-12-30 | 2,176 | 0 |
 | 2023-12-31 | 2,191 | 0 |
-| 2024-01-01 | 2,192 | 0 |
+| 2024-01-01 | 2,195 | 0 |
 ## Awards
 Max (Great Boss Battles): 20  (Ranked 571)  
 Sum: 20 (Ranked 572)  
