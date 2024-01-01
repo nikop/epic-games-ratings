@@ -167,9 +167,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16240,
+  "EOS_Progressed": 16242,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 401,
+  "EOS_NewPlayers": 398,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -5577,6 +5577,11 @@
       "Time": "2024-01-01T20:10:34.4209447+00:00",
       "NumProgressed": 16240,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-01T21:09:42.3132392+00:00",
+      "NumProgressed": 16242,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -5589,7 +5594,7 @@
       "Name": "Revelations",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 6171
+      "UsersEstimate": 6172
     },
     {
       "ID": "ACH_AE_10",
@@ -5613,7 +5618,7 @@
       "Name": "Versatile",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "ACH_AE_13",
@@ -5621,7 +5626,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 12180
+      "UsersEstimate": 12182
     },
     {
       "ID": "ACH_AE_14",
@@ -5677,7 +5682,7 @@
       "Name": "Back to School",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3735
+      "UsersEstimate": 3736
     },
     {
       "ID": "ACH_AE_20",
@@ -5709,7 +5714,7 @@
       "Name": "Emergency Services",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1786
+      "UsersEstimate": 1787
     },
     {
       "ID": "ACH_AE_24",
@@ -5717,7 +5722,7 @@
       "Name": "Think Fast",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1786
+      "UsersEstimate": 1787
     },
     {
       "ID": "ACH_AE_25",
@@ -5733,7 +5738,7 @@
       "Name": "Live With It",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1786
+      "UsersEstimate": 1787
     },
     {
       "ID": "ACH_AE_27",
@@ -5765,7 +5770,7 @@
       "Name": "Pajama Boy",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 2598
+      "UsersEstimate": 2599
     },
     {
       "ID": "ACH_AE_30",
@@ -5868,7 +5873,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16240,
+      "Progressed": 16242,
       "Completed": 15
     }
   ],
@@ -5876,8 +5881,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-27T16:00:31.0909826+00:00",
-  "LastChanged_Achievements": "2024-01-01T20:10:34.4209442+00:00",
+  "LastChanged_Achievements": "2024-01-01T21:09:42.3132389+00:00",
   "LastUpdate_AppInfo": "2023-12-26T18:57:07.3435183+00:00",
-  "LastUpdate_Ratings": "2024-01-01T19:58:59.1435528+00:00",
-  "LastUpdate_Achievements": "2024-01-01T20:10:34.4209981+00:00"
+  "LastUpdate_Ratings": "2024-01-01T20:58:16.7643997+00:00",
+  "LastUpdate_Achievements": "2024-01-01T21:09:42.3132833+00:00"
 }

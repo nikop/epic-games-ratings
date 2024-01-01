@@ -1,13 +1,13 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 1,021)  
+Rating: 4.06 (Ranked 1,020)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~7,477 |
-| The Cursed Farmer | 1.00% | ~2,492 |
+| A Brief Tour of the Realms | 3.00% | ~7,478 |
+| The Cursed Farmer | 1.00% | ~2,493 |
 | Beast Intentions | 0.90% | ~2,243 |
 | The Mad Wizard | 0.80% | ~1,994 |
 | Welcome to Sigil | 0.80% | ~1,724 |
@@ -31,21 +31,21 @@ Number of Ratings: 9,041  (23.09.2022)
 | Welcome to the Vrocks | 0.30% | ~647 |
 | Misaligned in Sigil | 0.30% | ~647 |
 | Chaos Theory | 0.30% | ~647 |
-| Maddening | 0.20% | ~498 |
-| Beast Mode | 0.20% | ~498 |
-| Low Initiative | 0.20% | ~498 |
-| A Mysterious Summons | 0.20% | ~498 |
-| Building Trust | 0.20% | ~498 |
-| Unearthed Evil | 0.20% | ~498 |
-| No Time To Rest | 0.20% | ~498 |
-| The Crumbling Temple | 0.20% | ~498 |
-| Useless Allies | 0.20% | ~498 |
-| Exploring Port Nyanzaru | 0.20% | ~498 |
-| Running of the Saurs | 0.20% | ~498 |
-| The Contagious Curse | 0.20% | ~498 |
-| Escort to Waterdeep | 0.20% | ~498 |
-| Waterdeep Detours | 0.20% | ~498 |
-| Underdeep Cartography | 0.20% | ~498 |
+| Maddening | 0.20% | ~499 |
+| Beast Mode | 0.20% | ~499 |
+| Low Initiative | 0.20% | ~499 |
+| A Mysterious Summons | 0.20% | ~499 |
+| Building Trust | 0.20% | ~499 |
+| Unearthed Evil | 0.20% | ~499 |
+| No Time To Rest | 0.20% | ~499 |
+| The Crumbling Temple | 0.20% | ~499 |
+| Useless Allies | 0.20% | ~499 |
+| Exploring Port Nyanzaru | 0.20% | ~499 |
+| Running of the Saurs | 0.20% | ~499 |
+| The Contagious Curse | 0.20% | ~499 |
+| Escort to Waterdeep | 0.20% | ~499 |
+| Waterdeep Detours | 0.20% | ~499 |
+| Underdeep Cartography | 0.20% | ~499 |
 | Pros and CONs | 0.10% | ~249 |
 | Upholding the Law | 0.10% | ~249 |
 | Starving in the Jungle | 0.10% | ~249 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~216 |
 | The Brains of an Illithid's Desire | 0.10% | ~216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,233 (Ranked 70)  
+Progressed: 249,269 (Ranked 70)  
 Completed: 2,583 (1.04%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -809,7 +809,7 @@ Completed: 2,583 (1.04%) (Ranked 170)
 | 2023-12-29 | 247,120 | 2,575 |
 | 2023-12-30 | 247,917 | 2,578 |
 | 2023-12-31 | 248,665 | 2,581 |
-| 2024-01-01 | 249,233 | 2,583 |
+| 2024-01-01 | 249,269 | 2,583 |
 ## Awards
 Max (Great for Beginners): 5,726  (Ranked 71)  
 Sum: 33,249 (Ranked 41)  

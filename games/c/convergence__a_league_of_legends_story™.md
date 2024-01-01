@@ -7,7 +7,7 @@ Rating: 4.65 (Ranked 322)
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 43.00% | ~511 |
 | Rail Rat | 32.00% | ~380 |
-| The Mysterious Stranger | 31.00% | ~368 |
+| The Mysterious Stranger | 31.00% | ~369 |
 | Immaculate Aim | 27.00% | ~321 |
 | The Brass Boss | 26.00% | ~309 |
 | Make Up For Lost Time | 25.00% | ~297 |
@@ -20,11 +20,11 @@ Rating: 4.65 (Ranked 322)
 | Immaculate Aim | 24.00% | ~285 |
 | The Steel Shadow | 23.00% | ~273 |
 | Breaking Down Barriers | 23.00% | ~273 |
-| The Wicked Twins | 22.00% | ~261 |
-| Right On Time | 21.00% | ~249 |
-| Like Clockwork | 21.00% | ~249 |
-| The Betrayer | 21.00% | ~249 |
-| Golem Chaser | 21.00% | ~249 |
+| The Wicked Twins | 22.00% | ~262 |
+| Right On Time | 21.00% | ~250 |
+| Like Clockwork | 21.00% | ~250 |
+| The Betrayer | 21.00% | ~250 |
+| Golem Chaser | 21.00% | ~250 |
 | Check Your Pulse | 20.00% | ~238 |
 | The Loose Cannon | 19.00% | ~226 |
 | Street Style | 18.00% | ~214 |
@@ -32,9 +32,9 @@ Rating: 4.65 (Ranked 322)
 | The Family Fortune | 18.00% | ~214 |
 | Whiz Kid | 15.00% | ~178 |
 | Good Neighbor | 14.00% | ~166 |
-| Family Memories | 13.00% | ~154 |
-| Cartographer | 13.00% | ~154 |
-| Ask Questions Later | 13.00% | ~154 |
+| Family Memories | 13.00% | ~155 |
+| Cartographer | 13.00% | ~155 |
+| Ask Questions Later | 13.00% | ~155 |
 | Chaincrawler Explorer | 12.00% | ~143 |
 | Treasure Trove | 12.00% | ~143 |
 | Syron for Hope | 12.00% | ~143 |
@@ -59,8 +59,8 @@ Rating: 4.65 (Ranked 322)
 | Raw Talent | 0.60% | ~7 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,188 (Ranked 281)  
-Completed: 6 (0.51%) (Ranked 218)  
+Progressed: 1,189 (Ranked 281)  
+Completed: 6 (0.50%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -221,7 +221,7 @@ Completed: 6 (0.51%) (Ranked 218)
 | 2023-12-29 | 1,145 | 6 |
 | 2023-12-30 | 1,165 | 6 |
 | 2023-12-31 | 1,175 | 6 |
-| 2024-01-01 | 1,188 | 6 |
+| 2024-01-01 | 1,189 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

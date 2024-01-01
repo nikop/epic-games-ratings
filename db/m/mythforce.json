@@ -848,9 +848,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5994,
+  "EOS_Progressed": 5999,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 178,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -12313,6 +12313,11 @@
       "Time": "2024-01-01T20:07:29.5349219+00:00",
       "NumProgressed": 5994,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-01T21:05:51.1729504+00:00",
+      "NumProgressed": 5999,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -12325,7 +12330,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -12357,7 +12362,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 1439
+      "UsersEstimate": 1440
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -12365,7 +12370,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 839
+      "UsersEstimate": 840
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -12373,7 +12378,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1618
+      "UsersEstimate": 1620
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -12381,7 +12386,7 @@
       "Name": "First Strike",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 1259
+      "UsersEstimate": 1260
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -12413,7 +12418,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1558
+      "UsersEstimate": 1560
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -12421,7 +12426,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1019
+      "UsersEstimate": 1020
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -12437,7 +12442,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1379
+      "UsersEstimate": 1380
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -12445,7 +12450,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 899
+      "UsersEstimate": 900
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -12461,7 +12466,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1498
+      "UsersEstimate": 1500
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -12477,7 +12482,7 @@
       "Name": "Spending Spree",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1139
+      "UsersEstimate": 1140
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -12485,7 +12490,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 899
+      "UsersEstimate": 900
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -12493,7 +12498,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 1498
+      "UsersEstimate": 1500
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -12508,15 +12513,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5994,
+      "Progressed": 5999,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-26T21:58:46.0180606+00:00",
-  "LastChanged_Achievements": "2024-01-01T20:07:29.5349215+00:00",
+  "LastChanged_Achievements": "2024-01-01T21:05:51.17295+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:44.5580896+00:00",
-  "LastUpdate_Ratings": "2024-01-01T19:58:52.8661392+00:00",
-  "LastUpdate_Achievements": "2024-01-01T20:07:29.5350006+00:00"
+  "LastUpdate_Ratings": "2024-01-01T20:58:13.2519063+00:00",
+  "LastUpdate_Achievements": "2024-01-01T21:05:51.1730155+00:00"
 }

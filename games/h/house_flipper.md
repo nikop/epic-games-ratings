@@ -6,14 +6,14 @@ Number of Ratings: 1,023  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First money | 95.00% | ~20,786 |
+| First money | 95.00% | ~20,788 |
 | Strongman | 31.00% | ~6,783 |
 | Just Enough | 20.00% | ~4,376 |
 | Alpha Male | 20.00% | ~4,376 |
-| Pro-creative | 19.00% | ~4,157 |
+| Pro-creative | 19.00% | ~4,158 |
 | Worth Every Penny | 14.00% | ~3,063 |
-| Family man | 13.00% | ~2,844 |
-| Junior Estate Agent | 13.00% | ~2,844 |
+| Family man | 13.00% | ~2,845 |
+| Junior Estate Agent | 13.00% | ~2,845 |
 | Mystery | 10.00% | ~2,188 |
 | Artistic soul | 10.00% | ~2,188 |
 | Estate Agent | 6.00% | ~1,313 |
@@ -30,7 +30,7 @@ Number of Ratings: 1,023  (23.09.2022)
 | Do it ASAP | 0.60% | ~131 |
 | Senior Estate Agent | 0.60% | ~131 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,880 (Ranked 148)  
+Progressed: 21,882 (Ranked 148)  
 Completed: 21 (0.10%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,10 +285,10 @@ Completed: 21 (0.10%) (Ranked 304)
 | 2023-12-29 | 21,824 | 21 |
 | 2023-12-30 | 21,847 | 21 |
 | 2023-12-31 | 21,865 | 21 |
-| 2024-01-01 | 21,880 | 21 |
+| 2024-01-01 | 21,882 | 21 |
 ## Awards
 Max (Great for Beginners): 330  (Ranked 251)  
-Sum: 2,291 (Ranked 207)  
+Sum: 2,292 (Ranked 207)  
 Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
@@ -298,7 +298,7 @@ Diff (max vs sum): 44
 | This game is Extremely Fun | 232 |
 | This game has a Creative Community | 225 |
 | This game is Highly Recommended | 223 |
-| This game has Quickly Understood Controls | 222 |
+| This game has Quickly Understood Controls | 223 |
 | This game has Amazing Storytelling | 220 |
 | This game has Amazing Characters | 194 |
 | This game has Obsessive Gameplay | 173 |
@@ -503,4 +503,4 @@ Diff (max vs sum): 44
 | 2023-12-27 | 4.69 | - | 328 | 2,286 |
 | 2023-12-28 | 4.69 | - | 329 | 2,287 |
 | 2023-12-30 | 4.69 | - | 329 | 2,290 |
-| 2024-01-01 | 4.69 | - | 330 | 2,291 |
+| 2024-01-01 | 4.69 | - | 330 | 2,292 |

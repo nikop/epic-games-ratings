@@ -1015,9 +1015,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 7841,
+  "EOS_Progressed": 7843,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 292,
+  "EOS_NewPlayers": 294,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12915,6 +12915,11 @@
       "Time": "2024-01-01T19:06:48.8964954+00:00",
       "NumProgressed": 7841,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T21:05:21.0086425+00:00",
+      "NumProgressed": 7843,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -12942,7 +12947,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1019
+      "UsersEstimate": 1020
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -12958,7 +12963,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -12990,7 +12995,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -13245,13 +13250,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7841,
+      "Progressed": 7843,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7213,
+      "Progressed": 7215,
       "Completed": 113
     }
   ],
@@ -13259,8 +13264,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-26T19:00:49.2434236+00:00",
-  "LastChanged_Achievements": "2024-01-01T20:06:46.7051602+00:00",
+  "LastChanged_Achievements": "2024-01-01T21:05:21.0086421+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:09.4029638+00:00",
-  "LastUpdate_Ratings": "2024-01-01T20:00:15.843169+00:00",
-  "LastUpdate_Achievements": "2024-01-01T20:06:46.7052496+00:00"
+  "LastUpdate_Ratings": "2024-01-01T20:59:07.4298655+00:00",
+  "LastUpdate_Achievements": "2024-01-01T21:05:21.0087166+00:00"
 }

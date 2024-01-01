@@ -634,9 +634,9 @@
       "ID": "CgkInO_K3eIdEAIQBQ",
       "SetID": "6bj96in",
       "Name": "SAILOR\u0027S GIFT",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 40,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "CgkInO_K3eIdEAIQBg",
@@ -706,9 +706,9 @@
       "ID": "CgkInO_K3eIdEAIQDg",
       "SetID": "6bj96in",
       "Name": "CHRONOSPY",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 40,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "CgkInO_K3eIdEAIQDw",
@@ -794,9 +794,9 @@
       "ID": "CgkInO_K3eIdEAIQGQ",
       "SetID": "6bj96in",
       "Name": "BLINDED BY THE LIGHT",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "CgkInO_K3eIdEAIQGg",
@@ -817,8 +817,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2024-01-01T20:11:08.2858759+00:00",
+  "LastChanged_Achievements": "2024-01-01T21:10:06.4630649+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:14.0329257+00:00",
-  "LastUpdate_Ratings": "2024-01-01T20:01:30.8432051+00:00",
-  "LastUpdate_Achievements": "2024-01-01T20:11:08.2859012+00:00"
+  "LastUpdate_Ratings": "2024-01-01T20:59:57.4094938+00:00",
+  "LastUpdate_Achievements": "2024-01-01T21:10:06.4630868+00:00"
 }

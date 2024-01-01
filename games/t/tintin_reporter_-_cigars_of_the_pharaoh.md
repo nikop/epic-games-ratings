@@ -12,9 +12,9 @@
 | The Curse of Kih-Oskh | 17.00% | ~19 |
 | It's a Deal! | 13.00% | ~15 |
 | Cat Lover | 12.00% | ~13 |
+| Dynamite, Treason and Coconuts | 12.00% | ~13 |
 | In the Name of the Law | 11.00% | ~12 |
 | Au Revoir, Abudin | 11.00% | ~12 |
-| Dynamite, Treason and Coconuts | 11.00% | ~12 |
 | Save a Friend | 11.00% | ~12 |
 | Mysterious Bungalow | 9.00% | ~10 |
 | The Eyes! | 8.00% | ~9 |

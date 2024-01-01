@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -265,9 +265,9 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 1225,
+  "EOS_Progressed": 1227,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3400,6 +3400,11 @@
       "Time": "2024-01-01T20:08:43.4752976+00:00",
       "NumProgressed": 1225,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-01T21:06:44.3879032+00:00",
+      "NumProgressed": 1227,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3420,7 +3425,7 @@
       "Name": "Ab Initio",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "AnthropicHills",
@@ -3450,9 +3455,9 @@
       "ID": "BecomingSmarter",
       "SetID": "1n308hc",
       "Name": "Becoming Smarter",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 392
+      "UsersEstimate": 380
     },
     {
       "ID": "BreakTheLoop",
@@ -3468,7 +3473,7 @@
       "Name": "Bridge Builder",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "ChasingTheLight",
@@ -3492,7 +3497,7 @@
       "Name": "Circular Oasis",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "DesolateIsland",
@@ -3516,7 +3521,7 @@
       "Name": "Eastern Wetlands",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "EcstaticTruth",
@@ -3580,7 +3585,7 @@
       "Name": "Into the Machine",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "JustOneLap",
@@ -3596,7 +3601,7 @@
       "Name": "Lord of the Files",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "LostMarshes",
@@ -3658,9 +3663,9 @@
       "ID": "NotWhatItSeems",
       "SetID": "1n308hc",
       "Name": "Not What It Seems",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 123
     },
     {
       "ID": "Overload",
@@ -3724,7 +3729,7 @@
       "Name": "Signatory",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "SingleRod",
@@ -3748,7 +3753,7 @@
       "Name": "Southern Coast",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "TeamSpirit",
@@ -3756,7 +3761,7 @@
       "Name": "Team Spirit",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "TextAdventurer",
@@ -3772,7 +3777,7 @@
       "Name": "The All-Gifted",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "TheEdgeOfForever",
@@ -3804,7 +3809,7 @@
       "Name": "The Spark",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "TheThiefOfFire",
@@ -3836,7 +3841,7 @@
       "Name": "Trevor\u0027s Biographer",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "VerdantCanyon",
@@ -3844,7 +3849,7 @@
       "Name": "Verdant Canyon",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "Wanderers",
@@ -3860,7 +3865,7 @@
       "Name": "Western Delta",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "WoodedPlateau",
@@ -3876,14 +3881,14 @@
       "Name": "Your Biggest Fan",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     }
   ],
   "AchievementSets": [
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1225,
+      "Progressed": 1227,
       "Completed": 2
     }
   ],
@@ -3891,8 +3896,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-01T16:59:26.0585046+00:00",
-  "LastChanged_Achievements": "2024-01-01T20:08:43.4752972+00:00",
+  "LastChanged_Achievements": "2024-01-01T21:06:44.3879026+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.9244138+00:00",
-  "LastUpdate_Ratings": "2024-01-01T19:59:39.5911429+00:00",
-  "LastUpdate_Achievements": "2024-01-01T20:08:43.4753547+00:00"
+  "LastUpdate_Ratings": "2024-01-01T20:58:42.4157655+00:00",
+  "LastUpdate_Achievements": "2024-01-01T21:06:44.3879594+00:00"
 }

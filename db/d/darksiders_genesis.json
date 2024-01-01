@@ -5,9 +5,9 @@
   "Ranking_Rating": 633,
   "Ranking_Popularity": 467,
   "Ranking_PopularitySum": 511,
-  "Ranking_EOS_Progress": 373,
+  "Ranking_EOS_Progress": 372,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-07-16T16:00:00+00:00",
@@ -445,9 +445,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 352,
+  "EOS_Progressed": 355,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1415,6 +1415,11 @@
       "Time": "2024-01-01T19:11:07.7486731+00:00",
       "NumProgressed": 352,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T21:10:02.078072+00:00",
+      "NumProgressed": 355,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:09:59.7070954+00:00",
@@ -1489,7 +1494,7 @@
       "ID": "DemolitionDerby",
       "SetID": "329ak73",
       "Name": "Demolition Derby",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -1545,7 +1550,7 @@
       "ID": "MasterofStrife",
       "SetID": "329ak73",
       "Name": "Master of Strife",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -1569,7 +1574,7 @@
       "ID": "MintII",
       "SetID": "329ak73",
       "Name": "Mint II",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -1649,7 +1654,7 @@
       "ID": "WhydItHavetoBeSnakes",
       "SetID": "329ak73",
       "Name": "Why\u0027d It Have to Be Snakes?",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -1666,15 +1671,15 @@
     {
       "ID": "329ak73",
       "IsBase": true,
-      "Progressed": 352,
+      "Progressed": 355,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2023-12-28T14:59:58.8011191+00:00",
-  "LastChanged_Achievements": "2024-01-01T20:11:01.8228288+00:00",
+  "LastChanged_Achievements": "2024-01-01T21:10:02.0780716+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.7338435+00:00",
-  "LastUpdate_Ratings": "2024-01-01T19:59:07.9156672+00:00",
-  "LastUpdate_Achievements": "2024-01-01T20:11:01.8228743+00:00"
+  "LastUpdate_Ratings": "2024-01-01T20:58:22.2186553+00:00",
+  "LastUpdate_Achievements": "2024-01-01T21:10:02.0781031+00:00"
 }

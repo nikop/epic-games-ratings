@@ -4,7 +4,7 @@
   "ProductSlug": "assassins-creed-origins",
   "Ranking_Rating": 262,
   "Ranking_Popularity": 88,
-  "Ranking_PopularitySum": 125,
+  "Ranking_PopularitySum": 124,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 574,
@@ -7452,18 +7452,24 @@
       "Rating": 4.68,
       "NumberOfAwards": 7218,
       "NumberOfAwardsMax": 4075
+    },
+    {
+      "Time": "2024-01-01T21:00:37.4318042+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 7232,
+      "NumberOfAwardsMax": 4088
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7218,
-  "NumberOfAwardsMax": 4075,
+  "NumberOfAwards": 7232,
+  "NumberOfAwardsMax": 4088,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 4075
+      "Count": 4088
     },
     {
       "Text": "This game is Relaxing",
@@ -7517,7 +7523,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 334
+      "Count": 335
     },
     {
       "Text": "This game has Diverse Characters",
@@ -7543,8 +7549,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:42.6567846+00:00",
-  "LastChanged": "2024-01-01T17:02:46.6318917+00:00",
+  "LastChanged": "2024-01-01T21:00:37.4318041+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:00.6946968+00:00",
-  "LastUpdate_Ratings": "2024-01-01T20:02:30.0092968+00:00",
-  "LastUpdate_Achievements": "2024-01-01T20:06:18.6967979+00:00"
+  "LastUpdate_Ratings": "2024-01-01T21:00:37.4318046+00:00",
+  "LastUpdate_Achievements": "2024-01-01T21:05:01.7765839+00:00"
 }

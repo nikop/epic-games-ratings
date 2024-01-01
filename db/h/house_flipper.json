@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
@@ -2185,10 +2185,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 2291,
       "NumberOfAwardsMax": 330
+    },
+    {
+      "Time": "2024-01-01T20:57:53.1396926+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 2292,
+      "NumberOfAwardsMax": 330
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2291,
+  "NumberOfAwards": 2292,
   "NumberOfAwardsMax": 330,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2214,7 +2220,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 222
+      "Count": 223
     },
     {
       "Text": "This game is Relaxing",
@@ -2259,7 +2265,7 @@
       "Count": 225
     }
   ],
-  "EOS_Progressed": 21880,
+  "EOS_Progressed": 21882,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
@@ -12519,6 +12525,11 @@
       "Time": "2024-01-01T19:05:01.5478185+00:00",
       "NumProgressed": 21880,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-01T21:04:07.8213087+00:00",
+      "NumProgressed": 21882,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -12530,7 +12541,7 @@
       "Name": "Family man",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2844
+      "UsersEstimate": 2845
     },
     {
       "ID": "CarMechanic",
@@ -12578,7 +12589,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20786
+      "UsersEstimate": 20788
     },
     {
       "ID": "GameOver",
@@ -12618,7 +12629,7 @@
       "Name": "Junior Estate Agent",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2844
+      "UsersEstimate": 2845
     },
     {
       "ID": "KnockKnock",
@@ -12682,7 +12693,7 @@
       "Name": "Pro-creative",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4157
+      "UsersEstimate": 4158
     },
     {
       "ID": "Strongman",
@@ -12713,15 +12724,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21880,
+      "Progressed": 21882,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
-  "LastChanged": "2024-01-01T13:01:04.7981783+00:00",
-  "LastChanged_Achievements": "2024-01-01T20:04:59.857589+00:00",
+  "LastChanged": "2024-01-01T20:57:53.1396925+00:00",
+  "LastChanged_Achievements": "2024-01-01T21:04:07.8213084+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:00.4984496+00:00",
-  "LastUpdate_Ratings": "2024-01-01T19:58:24.8568506+00:00",
-  "LastUpdate_Achievements": "2024-01-01T20:04:59.8576523+00:00"
+  "LastUpdate_Ratings": "2024-01-01T20:57:53.139693+00:00",
+  "LastUpdate_Achievements": "2024-01-01T21:04:07.8213551+00:00"
 }

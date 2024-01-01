@@ -134,9 +134,9 @@
       "ID": "all_slips_read_wall_of_laments",
       "SetID": "4akddl8",
       "Name": "The Wall of Laments",
-      "Percentage": 42,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "by_killing_Hem_you_saved_one_soul",
@@ -390,17 +390,17 @@
       "ID": "map_enabled_for_Benedek",
       "SetID": "4akddl8",
       "Name": "A Map for Benedek",
-      "Percentage": 50,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "map_enabled_for_Nikolay",
       "SetID": "4akddl8",
       "Name": "A Map for Nikolay",
-      "Percentage": 50,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "opened_passage_with_walking_stick",
@@ -447,8 +447,8 @@
   "FirstSeenRating": "2023-03-31T05:58:43.0246209+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.7285802+00:00",
   "LastChanged": "2023-03-31T05:58:43.024621+00:00",
-  "LastChanged_Achievements": "2024-01-01T20:08:00.7670455+00:00",
+  "LastChanged_Achievements": "2024-01-01T21:06:13.8826508+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:42.4182444+00:00",
-  "LastUpdate_Ratings": "2024-01-01T20:03:37.2945708+00:00",
-  "LastUpdate_Achievements": "2024-01-01T20:08:00.767077+00:00"
+  "LastUpdate_Ratings": "2024-01-01T21:03:11.4180647+00:00",
+  "LastUpdate_Achievements": "2024-01-01T21:06:13.8826809+00:00"
 }

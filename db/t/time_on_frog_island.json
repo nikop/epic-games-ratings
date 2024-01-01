@@ -4,7 +4,7 @@
   "ProductSlug": "time-on-frog-island-b3ad0d",
   "Ranking_EOS_Progress": 570,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 476,
+  "Ranking_EOS_NewPlayers": 478,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-07-12T13:00:00+00:00",
@@ -422,9 +422,9 @@
       "ID": "a31",
       "SetID": "cdg65ol",
       "Name": "Vandal",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "a32",
@@ -446,9 +446,9 @@
       "ID": "a34",
       "SetID": "cdg65ol",
       "Name": "Falling with Style",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "a35",
@@ -519,8 +519,8 @@
   "FirstSeenRating": "2023-03-31T05:58:16.4143103+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:44.2276989+00:00",
   "LastChanged": "2023-03-31T05:58:16.4143104+00:00",
-  "LastChanged_Achievements": "2024-01-01T20:08:32.5543342+00:00",
+  "LastChanged_Achievements": "2024-01-01T21:06:35.994368+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:23.4380814+00:00",
-  "LastUpdate_Ratings": "2024-01-01T20:03:32.9943016+00:00",
-  "LastUpdate_Achievements": "2024-01-01T20:08:32.554361+00:00"
+  "LastUpdate_Ratings": "2024-01-01T21:03:08.7448624+00:00",
+  "LastUpdate_Achievements": "2024-01-01T21:06:35.9943949+00:00"
 }

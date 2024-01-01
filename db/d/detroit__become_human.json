@@ -2,7 +2,7 @@
   "ID": "columbine",
   "Name": "Detroit: Become Human",
   "ProductSlug": "detroit-become-human",
-  "Ranking_Rating": 24,
+  "Ranking_Rating": 31,
   "Ranking_Popularity": 134,
   "Ranking_PopularitySum": 226,
   "Ranking_EOS_Progress": 819,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.87,
+  "Rating": 4.86,
   "NumberOfRatings": 3910,
   "RatingHistory": [
     {
@@ -1756,6 +1756,12 @@
       "Rating": 4.87,
       "NumberOfAwards": 1734,
       "NumberOfAwardsMax": 1550
+    },
+    {
+      "Time": "2024-01-01T20:58:21.2501331+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 1734,
+      "NumberOfAwardsMax": 1550
     }
   ],
   "ReviewsDisabled": false,
@@ -1829,8 +1835,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:06.5181893+00:00",
-  "LastChanged": "2023-12-31T20:58:13.3711888+00:00",
+  "LastChanged": "2024-01-01T20:58:21.250133+00:00",
   "LastUpdate_AppInfo": "2023-12-30T17:56:58.9993656+00:00",
-  "LastUpdate_Ratings": "2024-01-01T19:59:06.1121931+00:00",
-  "LastUpdate_Achievements": "2024-01-01T20:08:27.7439643+00:00"
+  "LastUpdate_Ratings": "2024-01-01T20:58:21.2501334+00:00",
+  "LastUpdate_Achievements": "2024-01-01T21:06:32.3677443+00:00"
 }

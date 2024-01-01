@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tastes just like chicken! | 93.00% | ~135 |
-| MLG 360 no scope kill! | 93.00% | ~135 |
-| Are you ready to rumble? | 93.00% | ~135 |
+| Tastes just like chicken! | 94.00% | ~136 |
+| MLG 360 no scope kill! | 94.00% | ~136 |
+| Are you ready to rumble? | 94.00% | ~136 |
 | That's what cheese said! | 89.00% | ~129 |
 | AHHHHHH.....I'M ON FIRE!!! | 86.00% | ~125 |
 | I like you...but I have to kill you... | 86.00% | ~125 |
@@ -53,8 +53,8 @@
 | Yeehaw!!! | 15.00% | ~22 |
 | You're looking mozzare-hella good! | 14.00% | ~20 |
 | Ancient Ruins of Dirty Feet | 14.00% | ~20 |
-| Timber! | 11.00% | ~16 |
-| Free Of Chains | 11.00% | ~16 |
+| Timber! | 12.00% | ~17 |
+| Free Of Chains | 12.00% | ~17 |
 | Spoiler alert! | 10.00% | ~14 |
 | I drink, but I'm not a drunk! | 10.00% | ~14 |
 | Grumpy Immortal | 10.00% | ~14 |

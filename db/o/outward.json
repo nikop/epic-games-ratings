@@ -3,11 +3,11 @@
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
   "Ranking_Rating": 522,
-  "Ranking_Popularity": 498,
+  "Ranking_Popularity": 499,
   "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4403,
+  "EOS_Progressed": 4404,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -7466,6 +7466,11 @@
       "Time": "2024-01-01T20:07:34.41048+00:00",
       "NumProgressed": 4403,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-01T21:05:54.8118562+00:00",
+      "NumProgressed": 4404,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -7477,7 +7482,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "AceDetective_9",
@@ -7501,7 +7506,7 @@
       "Name": "Apex Predator",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "BloodAndJustice_50",
@@ -7517,7 +7522,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1805
+      "UsersEstimate": 1806
     },
     {
       "ID": "CrowdPleaser",
@@ -7661,7 +7666,7 @@
       "Name": "Ready for Summer",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2157
+      "UsersEstimate": 2158
     },
     {
       "ID": "ReadyforWinter_42",
@@ -7741,7 +7746,7 @@
       "Name": "The Power of Family",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -7797,7 +7802,7 @@
       "Name": "Venture Outward",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3214
+      "UsersEstimate": 3215
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -7812,15 +7817,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4403,
+      "Progressed": 4404,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2024-01-01T20:07:34.4104733+00:00",
+  "LastChanged_Achievements": "2024-01-01T21:05:54.8118561+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:23.571083+00:00",
-  "LastUpdate_Ratings": "2024-01-01T20:03:33.7585566+00:00",
-  "LastUpdate_Achievements": "2024-01-01T20:07:34.410542+00:00"
+  "LastUpdate_Ratings": "2024-01-01T21:03:09.2407489+00:00",
+  "LastUpdate_Achievements": "2024-01-01T21:05:54.8119083+00:00"
 }

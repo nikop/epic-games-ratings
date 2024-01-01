@@ -2,7 +2,7 @@
   "ID": "0f4a57443f904107818acfc2068704f9",
   "Name": "Warhammer Age of Sigmar: Realms of Ruin",
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
-  "Ranking_EOS_Progress": 279,
+  "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 317,
   "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 151,
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1197,
+  "EOS_Progressed": 1198,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2992,6 +2992,11 @@
       "Time": "2024-01-01T20:09:09.3439602+00:00",
       "NumProgressed": 1197,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-01T21:08:42.3619063+00:00",
+      "NumProgressed": 1198,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -3148,7 +3153,7 @@
       "Name": "Met the Enemy",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "CompleteChapter3",
@@ -3172,7 +3177,7 @@
       "Name": "Breathing Easy",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "CompleteChapter6",
@@ -3180,7 +3185,7 @@
       "Name": "More Waagh, More Problems",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "CompleteChapter7",
@@ -3188,7 +3193,7 @@
       "Name": "First to be Forged, Never to Fail!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "CompleteChapter8",
@@ -3299,14 +3304,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 1197,
+      "Progressed": 1198,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2024-01-01T20:09:09.3439598+00:00",
+  "LastChanged_Achievements": "2024-01-01T21:08:42.3619051+00:00",
   "LastUpdate_AppInfo": "2023-12-29T09:57:13.5043463+00:00",
-  "LastUpdate_Ratings": "2024-01-01T19:59:57.3792782+00:00",
-  "LastUpdate_Achievements": "2024-01-01T20:09:09.3440003+00:00"
+  "LastUpdate_Ratings": "2024-01-01T20:58:54.1112145+00:00",
+  "LastUpdate_Achievements": "2024-01-01T21:08:42.3619528+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "jars-e39063",
   "Ranking_EOS_Progress": 476,
   "Ranking_EOS_Completed": 83,
-  "Ranking_EOS_NewPlayers": 476,
+  "Ranking_EOS_NewPlayers": 478,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-10-20T16:00:00+00:00",
@@ -534,9 +534,9 @@
       "ID": "ACH_GET10K_ESSENCE",
       "SetID": "3jfhgga",
       "Name": "Bloody stream",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_GETALL_COLLECTIBLES",
@@ -607,8 +607,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.991429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:38.9338539+00:00",
   "LastChanged": "2023-03-31T05:58:01.9914291+00:00",
-  "LastChanged_Achievements": "2024-01-01T20:05:17.2199714+00:00",
+  "LastChanged_Achievements": "2024-01-01T21:04:19.6271888+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:33.4325616+00:00",
-  "LastUpdate_Ratings": "2024-01-01T20:01:14.6679908+00:00",
-  "LastUpdate_Achievements": "2024-01-01T20:05:17.2199832+00:00"
+  "LastUpdate_Ratings": "2024-01-01T20:59:46.7983614+00:00",
+  "LastUpdate_Achievements": "2024-01-01T21:04:19.6272009+00:00"
 }

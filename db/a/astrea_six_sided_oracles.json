@@ -2,9 +2,9 @@
   "ID": "a940fa38f001486a9884640924119576",
   "Name": "Astrea Six Sided Oracles",
   "ProductSlug": "astrea-six-sided-oracles-33c949",
-  "Ranking_EOS_Progress": 393,
+  "Ranking_EOS_Progress": 392,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 292,
+  "EOS_Progressed": 293,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1234,6 +1234,11 @@
       "Time": "2024-01-01T15:08:36.3156414+00:00",
       "NumProgressed": 292,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T21:08:56.3550962+00:00",
+      "NumProgressed": 293,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-22T01:45:20.357802+00:00",
@@ -1332,9 +1337,9 @@
       "ID": "AstralAdventurer",
       "SetID": "1jeo1g7",
       "Name": "Astral Adventurer",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 97
     },
     {
       "ID": "AstralSeeker",
@@ -1468,9 +1473,9 @@
       "ID": "DicesmithingTime",
       "SetID": "1jeo1g7",
       "Name": "Dicesmithing Time!",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 187
+      "UsersEstimate": 190
     },
     {
       "ID": "EndlessTricks",
@@ -1508,9 +1513,9 @@
       "ID": "FavoredbytheCosmos",
       "SetID": "1jeo1g7",
       "Name": "Favored by the Cosmos",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "Gottatinkeremall",
@@ -1590,7 +1595,7 @@
       "Name": "Mechanical Buddy",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "MeissasSavior",
@@ -1598,7 +1603,7 @@
       "Name": "Meissa\u0027s Savior",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "MindIlluminator",
@@ -1606,7 +1611,7 @@
       "Name": "Mind Illuminator",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "NoctuanChampionAchievement",
@@ -1670,7 +1675,7 @@
       "Name": "Purification Pioneer",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ReflexiveMind",
@@ -1790,7 +1795,7 @@
       "Name": "The Corruption Goddess",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "TheDarkMoon",
@@ -1814,7 +1819,7 @@
       "Name": "The Goddes Avatar",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "TheRagingSkies",
@@ -1878,7 +1883,7 @@
       "Name": "Wild\u0027s Keeper",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ApianChampion",
@@ -1980,9 +1985,9 @@
       "ID": "LacertianChampion",
       "SetID": "1jeo1g7",
       "Name": "Lacertian Champion",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 59
     },
     {
       "ID": "LacertianHero",
@@ -2004,9 +2009,9 @@
       "ID": "NoctuanChampion",
       "SetID": "1jeo1g7",
       "Name": "Noctuan Champion",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 103
     },
     {
       "ID": "NoctuanHero",
@@ -2029,14 +2034,14 @@
     {
       "ID": "1jeo1g7",
       "IsBase": true,
-      "Progressed": 292,
+      "Progressed": 293,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-01T20:09:29.3414979+00:00",
+  "LastChanged_Achievements": "2024-01-01T21:08:56.3550957+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:34.5642416+00:00",
-  "LastUpdate_Ratings": "2024-01-01T20:01:18.4267564+00:00",
-  "LastUpdate_Achievements": "2024-01-01T20:09:29.3415908+00:00"
+  "LastUpdate_Ratings": "2024-01-01T20:59:49.3549331+00:00",
+  "LastUpdate_Achievements": "2024-01-01T21:08:56.3551822+00:00"
 }

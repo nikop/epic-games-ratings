@@ -4,7 +4,7 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -2205,9 +2205,9 @@
       "ID": "courier_win",
       "SetID": "69co12a",
       "Name": "Legal courier",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 253
     },
     {
       "ID": "fight_defeat_1",
@@ -2357,9 +2357,9 @@
       "ID": "law_student",
       "SetID": "69co12a",
       "Name": "Law student",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 289
+      "UsersEstimate": 294
     },
     {
       "ID": "league_1",
@@ -2644,8 +2644,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2024-01-01T20:10:52.3872941+00:00",
+  "LastChanged_Achievements": "2024-01-01T21:09:55.4544114+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:36.4340723+00:00",
-  "LastUpdate_Ratings": "2024-01-01T20:01:31.0307363+00:00",
-  "LastUpdate_Achievements": "2024-01-01T20:10:52.3873633+00:00"
+  "LastUpdate_Ratings": "2024-01-01T20:59:57.5286667+00:00",
+  "LastUpdate_Achievements": "2024-01-01T21:09:55.4544775+00:00"
 }

@@ -6,12 +6,12 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 78.00% | ~287 |
+| Green with Envy | 79.00% | ~291 |
 | First of many… | 68.00% | ~250 |
-| Helping Hand | 64.00% | ~236 |
+| Helping Hand | 65.00% | ~239 |
 | Increased Vigor | 59.00% | ~217 |
-| Fight Fire with Fire | 56.00% | ~206 |
-| Increased Capacity | 52.00% | ~191 |
+| Fight Fire with Fire | 57.00% | ~210 |
+| Increased Capacity | 53.00% | ~195 |
 | Just the start | 48.00% | ~177 |
 | Perfect Storm | 45.00% | ~166 |
 | All That Glitters | 45.00% | ~166 |
@@ -19,11 +19,11 @@ Number of Ratings: 116  (23.09.2022)
 | One Of the Chosen | 39.00% | ~144 |
 | Devil's in the Details | 38.00% | ~140 |
 | Throne Potato | 38.00% | ~140 |
-| Five's a Crowd | 36.00% | ~132 |
+| Five's a Crowd | 37.00% | ~136 |
 | 25 to Life | 36.00% | ~132 |
 | Soul Harvester | 35.00% | ~129 |
 | Salvation | 35.00% | ~129 |
-| Unshakable Fortitude | 32.00% | ~118 |
+| Unshakable Fortitude | 33.00% | ~121 |
 | I Wanna Rock | 30.00% | ~110 |
 | Delusions of Grandeur | 30.00% | ~110 |
 | Maximum Vigor | 29.00% | ~107 |
@@ -31,8 +31,8 @@ Number of Ratings: 116  (23.09.2022)
 | Freeze Frame | 26.00% | ~96 |
 | For Whom the Bell Tolls | 26.00% | ~96 |
 | Eat Your Heart Out | 25.00% | ~92 |
+| Big Spender | 24.00% | ~88 |
 | Unyielding Strength | 23.00% | ~85 |
-| Big Spender | 23.00% | ~85 |
 | Can you restore the Balance? | 22.00% | ~81 |
 | Cleanup Crew | 21.00% | ~77 |
 | Crowd Source | 21.00% | ~77 |
@@ -91,8 +91,8 @@ Completed: 1 (0.27%) (Ranked 255)
 | 2024-01-01 | 368 | 1 |
 ## Awards
 Max (Great Boss Battles): 94  (Ranked 386)  
-Sum: 94 (Ranked 467)  
-Diff (max vs sum): -81  
+Sum: 94 (Ranked 468)  
+Diff (max vs sum): -82  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 94 |

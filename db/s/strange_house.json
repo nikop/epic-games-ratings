@@ -2,9 +2,9 @@
   "ID": "e65306b6830641a68e3b76e5b1bc2dfd",
   "Name": "Strange House",
   "ProductSlug": "strange-house-5fd1b5",
-  "Ranking_EOS_Progress": 557,
+  "Ranking_EOS_Progress": 555,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 476,
+  "Ranking_EOS_NewPlayers": 461,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-11-03T11:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 45,
+  "EOS_Progressed": 46,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -252,6 +252,11 @@
       "Time": "2024-01-01T10:08:40.49439+00:00",
       "NumProgressed": 45,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T21:09:18.6400437+00:00",
+      "NumProgressed": 46,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-08T22:03:43.7557522+00:00",
@@ -262,15 +267,15 @@
       "ID": "AlcoholMachine",
       "SetID": "a2ci5mh",
       "Name": "Alcoholic",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 150,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "EndPrologue",
       "SetID": "a2ci5mh",
       "Name": "Chapter 1",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 150,
       "UsersEstimate": 7
     },
@@ -294,7 +299,7 @@
       "ID": "Underground",
       "SetID": "a2ci5mh",
       "Name": "Underground",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 150,
       "UsersEstimate": 8
     },
@@ -302,22 +307,22 @@
       "ID": "VisorGlass1",
       "SetID": "a2ci5mh",
       "Name": "Nice Glass",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 150,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     }
   ],
   "AchievementSets": [
     {
       "ID": "a2ci5mh",
       "IsBase": true,
-      "Progressed": 45,
+      "Progressed": 46,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:48.3132312+00:00",
-  "LastChanged_Achievements": "2024-01-01T20:10:01.2933591+00:00",
+  "LastChanged_Achievements": "2024-01-01T21:09:18.6400433+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:31.3560032+00:00",
-  "LastUpdate_Ratings": "2024-01-01T20:03:54.3323866+00:00",
-  "LastUpdate_Achievements": "2024-01-01T20:10:01.2933665+00:00"
+  "LastUpdate_Ratings": "2024-01-01T21:03:21.9197218+00:00",
+  "LastUpdate_Achievements": "2024-01-01T21:09:18.6400504+00:00"
 }

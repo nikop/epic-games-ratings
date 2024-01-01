@@ -5,25 +5,25 @@ Rating: 4.56 (Ranked 503)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 67.00% | ~848 |
-| The Teleprobe | 53.00% | ~670 |
-| The City | 48.00% | ~607 |
-| The field base | 44.00% | ~557 |
-| The Alliance | 39.00% | ~493 |
-| Survivors | 38.00% | ~481 |
-| The Condor | 35.00% | ~443 |
-| The End | 35.00% | ~443 |
-| The Necroevolution | 28.00% | ~354 |
+| The Camp | 67.00% | ~850 |
+| The Teleprobe | 53.00% | ~672 |
+| The City | 48.00% | ~609 |
+| The field base | 44.00% | ~558 |
+| The Alliance | 39.00% | ~495 |
+| Survivors | 38.00% | ~482 |
+| The Condor | 35.00% | ~444 |
+| The End | 35.00% | ~444 |
+| The Necroevolution | 28.00% | ~355 |
 | Krauta is alive | 27.00% | ~342 |
-| Peacemaker | 22.00% | ~278 |
+| Peacemaker | 22.00% | ~279 |
 | On her own | 21.00% | ~266 |
 | Volcanologist | 21.00% | ~266 |
-| Fierce fight | 20.00% | ~253 |
-| Evacuation | 19.00% | ~240 |
-| Beyond divisions | 17.00% | ~215 |
-| Flying Objects Operator | 16.00% | ~202 |
-| I remember everything! | 14.00% | ~177 |
-| Another giant | 13.00% | ~164 |
+| Fierce fight | 20.00% | ~254 |
+| Evacuation | 19.00% | ~241 |
+| Beyond divisions | 17.00% | ~216 |
+| Flying Objects Operator | 16.00% | ~203 |
+| I remember everything! | 14.00% | ~178 |
+| Another giant | 13.00% | ~165 |
 | Violent solution | 9.00% | ~114 |
 | I leave no man behind | 9.00% | ~114 |
 | Innate curiosity | 7.00% | ~89 |
@@ -35,7 +35,7 @@ Rating: 4.56 (Ranked 503)
 | Convoy list | 0.90% | ~11 |
 | No more mistakes | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,265 (Ranked 275)  
+Progressed: 1,268 (Ranked 274)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-29 | 1,151 | 0 |
 | 2023-12-30 | 1,193 | 0 |
 | 2023-12-31 | 1,236 | 0 |
-| 2024-01-01 | 1,265 | 0 |
+| 2024-01-01 | 1,268 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17994,
+  "EOS_Progressed": 18004,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 585,
+  "EOS_NewPlayers": 586,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -15940,6 +15940,11 @@
       "Time": "2024-01-01T20:04:41.6014577+00:00",
       "NumProgressed": 17994,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-01T21:03:55.0398628+00:00",
+      "NumProgressed": 18004,
+      "NumCompleted": 58
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15968,7 +15973,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1979
+      "UsersEstimate": 1980
     },
     {
       "ID": "12",
@@ -15984,7 +15989,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2879
+      "UsersEstimate": 2881
     },
     {
       "ID": "14",
@@ -16000,7 +16005,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1619
+      "UsersEstimate": 1620
     },
     {
       "ID": "16",
@@ -16016,7 +16021,7 @@
       "Name": "Spore Taste",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1799
+      "UsersEstimate": 1800
     },
     {
       "ID": "18",
@@ -16032,7 +16037,7 @@
       "Name": "Martian Music",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1979
+      "UsersEstimate": 1980
     },
     {
       "ID": "2",
@@ -16056,7 +16061,7 @@
       "Name": "Drone Dodger",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1979
+      "UsersEstimate": 1980
     },
     {
       "ID": "22",
@@ -16104,7 +16109,7 @@
       "Name": "Bosmang",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 2159
+      "UsersEstimate": 2160
     },
     {
       "ID": "28",
@@ -16128,7 +16133,7 @@
       "Name": "Captain Drummer",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2339
+      "UsersEstimate": 2341
     },
     {
       "ID": "30",
@@ -16160,7 +16165,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2159
+      "UsersEstimate": 2160
     },
     {
       "ID": "7",
@@ -16184,7 +16189,7 @@
       "Name": "Impossible Objects",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1979
+      "UsersEstimate": 1980
     },
     {
       "ID": "31",
@@ -16192,7 +16197,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "32",
@@ -16200,7 +16205,7 @@
       "Name": "Safe Cracker",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "33",
@@ -16208,7 +16213,7 @@
       "Name": "Zen Master",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "34",
@@ -16224,20 +16229,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17994,
+      "Progressed": 18004,
       "Completed": 58
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3948,
+      "Progressed": 3958,
       "Completed": 1149
     }
   ],
@@ -16245,8 +16250,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T23:58:17.8612142+00:00",
-  "LastChanged_Achievements": "2024-01-01T20:04:41.6014574+00:00",
+  "LastChanged_Achievements": "2024-01-01T21:03:55.0398626+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2024-01-01T19:59:49.2791145+00:00",
-  "LastUpdate_Achievements": "2024-01-01T20:04:41.6015308+00:00"
+  "LastUpdate_Ratings": "2024-01-01T20:58:48.843598+00:00",
+  "LastUpdate_Achievements": "2024-01-01T21:03:55.0399574+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "60 Parsecs!",
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 304,
-  "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_Completed": 298,
+  "Ranking_EOS_NewPlayers": 392,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 799,
+  "EOS_Progressed": 800,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.13,
+  "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:25.9080713+00:00",
@@ -1111,6 +1111,11 @@
       "Time": "2024-01-01T12:04:35.0842399+00:00",
       "NumProgressed": 799,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-01T21:04:14.5407245+00:00",
+      "NumProgressed": 800,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -1194,7 +1199,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 775
+      "UsersEstimate": 776
     },
     {
       "ID": "Achievement_DustToDust",
@@ -1202,7 +1207,7 @@
       "Name": "Dust to Dust",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "Achievement_EcoShuttle",
@@ -1266,7 +1271,7 @@
       "Name": "Friendzone",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "Achievement_GiantLeap",
@@ -1298,7 +1303,7 @@
       "Name": "Hello World",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "Achievement_Improvinator",
@@ -1410,7 +1415,7 @@
       "Name": "Space Colonization",
       "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "Achievement_SpaceEngineer",
@@ -1418,7 +1423,7 @@
       "Name": "Space Engineer",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "Achievement_SpaceExplorer",
@@ -1458,7 +1463,7 @@
       "Name": "Tinkerer",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "Achievement_Traitor",
@@ -1473,7 +1478,7 @@
     {
       "ID": "c01p6e5",
       "IsBase": true,
-      "Progressed": 799,
+      "Progressed": 800,
       "Completed": 1
     }
   ],
@@ -1481,8 +1486,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2024-01-01T20:05:09.3734016+00:00",
+  "LastChanged_Achievements": "2024-01-01T21:04:14.540724+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:36.3559417+00:00",
-  "LastUpdate_Ratings": "2024-01-01T20:00:22.4239185+00:00",
-  "LastUpdate_Achievements": "2024-01-01T20:05:09.3734298+00:00"
+  "LastUpdate_Ratings": "2024-01-01T20:59:12.8616078+00:00",
+  "LastUpdate_Achievements": "2024-01-01T21:04:14.5407681+00:00"
 }

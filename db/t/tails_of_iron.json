@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -266,9 +266,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2302,
+  "EOS_Progressed": 2303,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -4261,6 +4261,11 @@
       "Time": "2024-01-01T20:07:00.3444752+00:00",
       "NumProgressed": 2302,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-01T21:05:30.7783443+00:00",
+      "NumProgressed": 2303,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 36,
@@ -4382,9 +4387,9 @@
       "ID": "DefeatMoziQueen",
       "SetID": "9lj35g4",
       "Name": "End of the Mozis",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "DefeatRatnorRodentson",
@@ -4486,9 +4491,9 @@
       "ID": "RepairThroneRoom",
       "SetID": "9lj35g4",
       "Name": "Throne Room Fit For A King",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "RescueBrothers",
@@ -4559,13 +4564,13 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2302,
+      "Progressed": 2303,
       "Completed": 12
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 943,
+      "Progressed": 944,
       "Completed": 911
     }
   ],
@@ -4573,8 +4578,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-12-23T19:58:55.6551134+00:00",
-  "LastChanged_Achievements": "2024-01-01T20:07:00.3444748+00:00",
+  "LastChanged_Achievements": "2024-01-01T21:05:30.7783441+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:25.3230554+00:00",
-  "LastUpdate_Ratings": "2024-01-01T19:59:56.7964835+00:00",
-  "LastUpdate_Achievements": "2024-01-01T20:07:00.3445129+00:00"
+  "LastUpdate_Ratings": "2024-01-01T20:58:53.7125769+00:00",
+  "LastUpdate_Achievements": "2024-01-01T21:05:30.7783933+00:00"
 }

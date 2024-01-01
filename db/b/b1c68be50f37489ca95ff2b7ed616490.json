@@ -4,7 +4,7 @@
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
   "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -1133,9 +1133,9 @@
       "ID": "17",
       "SetID": "6bgoh8g",
       "Name": "Master Chess",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "18",
@@ -1292,8 +1292,8 @@
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2024-01-01T20:08:39.2619629+00:00",
+  "LastChanged_Achievements": "2024-01-01T21:06:41.3137022+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:21.3580987+00:00",
-  "LastUpdate_Ratings": "2024-01-01T20:03:47.5181006+00:00",
-  "LastUpdate_Achievements": "2024-01-01T20:08:39.2619795+00:00"
+  "LastUpdate_Ratings": "2024-01-01T21:03:18.1894199+00:00",
+  "LastUpdate_Achievements": "2024-01-01T21:06:41.3137351+00:00"
 }

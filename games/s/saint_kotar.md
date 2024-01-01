@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Finish the Tutorial | 75.00% | ~18 |
-| A Map for Benedek | 50.00% | ~12 |
-| A Map for Nikolay | 50.00% | ~12 |
-| The Wall of Laments | 42.00% | ~10 |
+| A Map for Benedek | 54.00% | ~13 |
+| A Map for Nikolay | 54.00% | ~13 |
+| The Wall of Laments | 46.00% | ~11 |
 | Death Whistle | 38.00% | ~9 |
 | Make the Prophet Your Ally | 33.00% | ~8 |
 | Become a Half-Child | 33.00% | ~8 |

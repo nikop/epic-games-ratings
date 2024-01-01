@@ -5,35 +5,35 @@ Rating: 4.35 (Ranked 817)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start | 76.00% | ~1,045 |
-| And so it begins | 72.00% | ~990 |
-| No pressure | 69.00% | ~949 |
-| Memento | 59.00% | ~811 |
-| Let there be light | 57.00% | ~784 |
-| I think you dropped this | 52.00% | ~715 |
-| Soulmate? | 51.00% | ~701 |
-| Excellent service | 47.00% | ~646 |
-| Roll with it | 44.00% | ~605 |
+| Good start | 75.00% | ~1,033 |
+| And so it begins | 72.00% | ~991 |
+| No pressure | 69.00% | ~950 |
+| Memento | 59.00% | ~812 |
+| Let there be light | 56.00% | ~771 |
+| I think you dropped this | 52.00% | ~716 |
+| Soulmate? | 51.00% | ~702 |
+| Excellent service | 47.00% | ~647 |
+| Roll with it | 44.00% | ~606 |
 | Humble beginnings | 42.00% | ~578 |
-| Love is in the air | 41.00% | ~564 |
-| Fine, I'll do it myself | 40.00% | ~550 |
-| Moving up | 40.00% | ~550 |
-| No need to call anyone | 38.00% | ~522 |
-| Big fortune | 31.00% | ~426 |
-| Still more work ahead | 29.00% | ~399 |
+| Love is in the air | 41.00% | ~565 |
+| Fine, I'll do it myself | 40.00% | ~551 |
+| Moving up | 40.00% | ~551 |
+| No need to call anyone | 38.00% | ~523 |
+| Big fortune | 31.00% | ~427 |
+| Still more work ahead | 28.00% | ~386 |
+| Aesop's fable | 27.00% | ~372 |
 | Kaboom | 26.00% | ~358 |
-| Aesop's fable | 26.00% | ~358 |
 | Hotel sleuthing | 26.00% | ~358 |
 | Nearly there | 24.00% | ~330 |
-| Broken heart | 22.00% | ~302 |
-| Island boy | 20.00% | ~275 |
-| You're a star | 19.00% | ~261 |
+| Broken heart | 22.00% | ~303 |
+| Island boy | 21.00% | ~289 |
+| You're a star | 19.00% | ~262 |
 | Unstoppable | 18.00% | ~248 |
 | Reunited | 18.00% | ~248 |
 | King of hospitality | 11.00% | ~151 |
 | Top spot in town | 2.00% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,375 (Ranked 267)  
+Progressed: 1,377 (Ranked 267)  
 Completed: 18 (1.31%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 18 (1.31%) (Ranked 154)
 | 2023-12-29 | 1,348 | 18 |
 | 2023-12-30 | 1,356 | 18 |
 | 2023-12-31 | 1,366 | 18 |
-| 2024-01-01 | 1,375 | 18 |
+| 2024-01-01 | 1,377 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

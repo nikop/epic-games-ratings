@@ -34,10 +34,10 @@ Number of Ratings: 20  (23.09.2022)
 | For the Club! | 15.00% | ~59 |
 | Dapper | 15.00% | ~59 |
 | The New Director | 14.00% | ~55 |
+| Plays Well With Others | 14.00% | ~55 |
 | The Director is Dead | 13.00% | ~51 |
 | And Here Is Your Statue | 13.00% | ~51 |
 | Discovery | 13.00% | ~51 |
-| Plays Well With Others | 13.00% | ~51 |
 | Very Classy | 13.00% | ~51 |
 | Under the Table | 11.00% | ~43 |
 | It's Complicated | 11.00% | ~43 |

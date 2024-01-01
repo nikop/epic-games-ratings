@@ -3,7 +3,7 @@
   "Name": "The Surge",
   "ProductSlug": "the-surge",
   "Ranking_Rating": 703,
-  "Ranking_Popularity": 516,
+  "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 238,
@@ -400,9 +400,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5184,
+  "EOS_Progressed": 5185,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -4500,6 +4500,11 @@
       "Time": "2024-01-01T19:04:30.9082535+00:00",
       "NumProgressed": 5184,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-01T21:03:46.4273183+00:00",
+      "NumProgressed": 5185,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -4567,7 +4572,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4873
+      "UsersEstimate": 4874
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -4583,7 +4588,7 @@
       "Name": "Hey Listen",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1866
+      "UsersEstimate": 1867
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -4727,7 +4732,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3940
+      "UsersEstimate": 3941
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -4759,7 +4764,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 2799
+      "UsersEstimate": 2800
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -4783,7 +4788,7 @@
       "Name": "Infidel",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1192
+      "UsersEstimate": 1193
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -4855,7 +4860,7 @@
       "Name": "OPERATOR",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1814
+      "UsersEstimate": 1815
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -5046,15 +5051,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5184,
+      "Progressed": 5185,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-31T19:58:10.5906343+00:00",
-  "LastChanged_Achievements": "2024-01-01T20:04:29.7373002+00:00",
+  "LastChanged_Achievements": "2024-01-01T21:03:46.4273179+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:44.5404504+00:00",
-  "LastUpdate_Ratings": "2024-01-01T19:58:51.8877524+00:00",
-  "LastUpdate_Achievements": "2024-01-01T20:04:29.7374087+00:00"
+  "LastUpdate_Ratings": "2024-01-01T20:58:11.7568455+00:00",
+  "LastUpdate_Achievements": "2024-01-01T21:03:46.4274019+00:00"
 }

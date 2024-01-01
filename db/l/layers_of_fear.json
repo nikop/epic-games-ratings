@@ -4,7 +4,7 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 407,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -1244,9 +1244,9 @@
       "ID": "covered_up_for_a_reason",
       "SetID": "f2im8d",
       "Name": "It\u0027s covered up for a reason",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 137
     },
     {
       "ID": "decrypt_one_myth",
@@ -1587,8 +1587,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-01T20:09:26.2329664+00:00",
+  "LastChanged_Achievements": "2024-01-01T21:08:54.2078417+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.7570027+00:00",
-  "LastUpdate_Ratings": "2024-01-01T19:58:14.6196037+00:00",
-  "LastUpdate_Achievements": "2024-01-01T20:09:26.2330213+00:00"
+  "LastUpdate_Ratings": "2024-01-01T20:57:46.2906031+00:00",
+  "LastUpdate_Achievements": "2024-01-01T21:08:54.2079051+00:00"
 }

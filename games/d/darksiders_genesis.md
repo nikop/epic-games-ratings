@@ -14,10 +14,10 @@ Number of Ratings: 67  (23.09.2022)
 | Hell's Forge | 1.00% | ~4 |
 | Master of War | 1.00% | ~4 |
 | The Dead Court | 1.00% | ~4 |
-| Demolition Derby | 0.90% | ~3 |
-| Master of Strife | 0.90% | ~3 |
-| Mint II | 0.90% | ~3 |
-| Why'd It Have to Be Snakes? | 0.90% | ~3 |
+| Demolition Derby | 0.80% | ~3 |
+| Master of Strife | 0.80% | ~3 |
+| Mint II | 0.80% | ~3 |
+| Why'd It Have to Be Snakes? | 0.80% | ~3 |
 | A Bullet for All Seasons | 0.60% | ~2 |
 | Good Deeds | 0.60% | ~2 |
 | Infested | 0.60% | ~2 |
@@ -37,7 +37,7 @@ Number of Ratings: 67  (23.09.2022)
 | Respect For Animals | 0.00% | ~0 |
 | Garden of Forking Paths | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 352 (Ranked 373)  
+Progressed: 355 (Ranked 372)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -56,7 +56,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-29 | 284 | 0 |
 | 2023-12-30 | 308 | 0 |
 | 2023-12-31 | 336 | 0 |
-| 2024-01-01 | 352 | 0 |
+| 2024-01-01 | 355 | 0 |
 ## Awards
 Max (Great Boss Battles): 45  (Ranked 467)  
 Sum: 45 (Ranked 511)  

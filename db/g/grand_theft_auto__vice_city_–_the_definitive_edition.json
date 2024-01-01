@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 430,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -1045,9 +1045,9 @@
       "Count": 172
     }
   ],
-  "EOS_Progressed": 14979,
+  "EOS_Progressed": 14988,
   "EOS_Completed": 84,
-  "EOS_NewPlayers": 973,
+  "EOS_NewPlayers": 974,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -16655,6 +16655,11 @@
       "Time": "2024-01-01T20:10:50.1356675+00:00",
       "NumProgressed": 14979,
       "NumCompleted": 84
+    },
+    {
+      "Time": "2024-01-01T21:09:53.8143443+00:00",
+      "NumProgressed": 14988,
+      "NumCompleted": 84
     }
   ],
   "TotalAchievements": 34,
@@ -16682,7 +16687,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 1498
+      "UsersEstimate": 1499
     },
     {
       "ID": "ACH04",
@@ -16706,7 +16711,7 @@
       "Name": "Point A to Point B",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ACH07",
@@ -16714,7 +16719,7 @@
       "Name": "High Quality H2O",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ACH08",
@@ -16722,7 +16727,7 @@
       "Name": "Pie Guy",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "ACH09",
@@ -16730,7 +16735,7 @@
       "Name": "Bull in a China Shop",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ACH10",
@@ -16746,7 +16751,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1648
+      "UsersEstimate": 1649
     },
     {
       "ID": "ACH12",
@@ -16762,7 +16767,7 @@
       "Name": "Somebody Call the Wambulance?",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ACH14",
@@ -16770,7 +16775,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 6291
+      "UsersEstimate": 6295
     },
     {
       "ID": "ACH15",
@@ -16778,7 +16783,7 @@
       "Name": "Just Like the Real Thing",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ACH16",
@@ -16794,7 +16799,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1348
+      "UsersEstimate": 1349
     },
     {
       "ID": "ACH18",
@@ -16810,7 +16815,7 @@
       "Name": "Don\u0027t Need Roads",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ACH20",
@@ -16826,7 +16831,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 6890
+      "UsersEstimate": 6894
     },
     {
       "ID": "ACH22",
@@ -16834,7 +16839,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2996
+      "UsersEstimate": 2998
     },
     {
       "ID": "ACH23",
@@ -16842,7 +16847,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 3895
+      "UsersEstimate": 3897
     },
     {
       "ID": "ACH24",
@@ -16850,7 +16855,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2247
+      "UsersEstimate": 2248
     },
     {
       "ID": "ACH25",
@@ -16858,7 +16863,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2247
+      "UsersEstimate": 2248
     },
     {
       "ID": "ACH26",
@@ -16866,7 +16871,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2247
+      "UsersEstimate": 2248
     },
     {
       "ID": "ACH27",
@@ -16898,7 +16903,7 @@
       "Name": "Mischief Managed",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1198
+      "UsersEstimate": 1199
     },
     {
       "ID": "ACH31",
@@ -16937,7 +16942,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 14979,
+      "Progressed": 14988,
       "Completed": 84
     }
   ],
@@ -16945,8 +16950,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-01T13:03:44.2901272+00:00",
-  "LastChanged_Achievements": "2024-01-01T20:10:50.1356672+00:00",
+  "LastChanged_Achievements": "2024-01-01T21:09:53.8143438+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:48.9246276+00:00",
-  "LastUpdate_Ratings": "2024-01-01T20:02:00.0988243+00:00",
-  "LastUpdate_Achievements": "2024-01-01T20:10:50.135762+00:00"
+  "LastUpdate_Ratings": "2024-01-01T21:00:17.9532309+00:00",
+  "LastUpdate_Achievements": "2024-01-01T21:09:53.8144785+00:00"
 }

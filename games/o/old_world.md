@@ -10,17 +10,17 @@ Number of Ratings: 1,307  (23.09.2022)
 | Settler | 1.00% | ~161 |
 | Play a Single Player Game | 1.00% | ~161 |
 | Friendly Family | 0.90% | ~145 |
+| Architect | 0.80% | ~129 |
 | Intrepid | 0.80% | ~129 |
-| Able | 0.70% | ~112 |
-| Architect | 0.70% | ~112 |
-| Good | 0.70% | ~112 |
-| Learned | 0.70% | ~112 |
-| Mason | 0.70% | ~112 |
-| Noble | 0.70% | ~112 |
-| Strong | 0.70% | ~112 |
-| Hanging Gardens | 0.70% | ~112 |
-| Oracle | 0.70% | ~112 |
-| Trade Caravan | 0.70% | ~112 |
+| Able | 0.70% | ~113 |
+| Good | 0.70% | ~113 |
+| Learned | 0.70% | ~113 |
+| Mason | 0.70% | ~113 |
+| Noble | 0.70% | ~113 |
+| Strong | 0.70% | ~113 |
+| Hanging Gardens | 0.70% | ~113 |
+| Oracle | 0.70% | ~113 |
+| Trade Caravan | 0.70% | ~113 |
 | Ambitious | 0.60% | ~96 |
 | Enlightened | 0.60% | ~96 |
 | Glorious | 0.60% | ~96 |
@@ -46,6 +46,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonian Paganism | 0.50% | ~80 |
 | Roman Paganism | 0.50% | ~80 |
 | Zoroastrianism | 0.50% | ~80 |
+| Drillmaster | 0.40% | ~64 |
 | Great | 0.40% | ~64 |
 | Intercessor | 0.40% | ~64 |
 | Legendary Cities | 0.40% | ~64 |
@@ -62,7 +63,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthaginian Paganism | 0.40% | ~64 |
 | Hanging Gardens in Babylon | 0.30% | ~48 |
 | Beloved | 0.30% | ~48 |
-| Drillmaster | 0.30% | ~48 |
 | Mighty | 0.30% | ~48 |
 | Valiant | 0.30% | ~48 |
 | Just Difficulty | 0.30% | ~48 |
@@ -97,6 +97,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus | 0.20% | ~32 |
 | Hagia Sophia | 0.20% | ~32 |
 | Temple of Solomon | 0.20% | ~32 |
+| Adur Burzen-Mihr | 0.20% | ~32 |
 | Pantheon | 0.20% | ~32 |
 | Via Recta Souk | 0.20% | ~32 |
 | Babylonia | 0.20% | ~32 |
@@ -113,6 +114,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Redemption | 0.20% | ~32 |
 | Revelation | 0.20% | ~32 |
 | Cimmerian Archer | 0.20% | ~32 |
+| Kushite Cavalry | 0.20% | ~32 |
 | Legionary | 0.20% | ~32 |
 | Phalangite | 0.20% | ~32 |
 | Double Victory | 0.20% | ~32 |
@@ -194,7 +196,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hardcore | 0.10% | ~16 |
 | Church of the Holy Sepulchre | 0.10% | ~16 |
 | Cao'an | 0.10% | ~16 |
-| Adur Burzen-Mihr | 0.10% | ~16 |
 | Learn By Playing 1 - Able | 0.10% | ~16 |
 | Learn By Playing 2 - Just | 0.10% | ~16 |
 | Learn to Play 4 | 0.10% | ~16 |
@@ -232,7 +233,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Word of God | 0.10% | ~16 |
 | Cataphract Archer | 0.10% | ~16 |
 | Three Man Chariot | 0.10% | ~16 |
-| Kushite Cavalry | 0.10% | ~16 |
 | Siege Tower | 0.10% | ~16 |
 | Turreted Elephant | 0.10% | ~16 |
 | Great Ziggurat in Ur | 0.10% | ~16 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,070 (Ranked 166)  
+Progressed: 16,074 (Ranked 166)  
 Completed: 5 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -621,7 +621,7 @@ Completed: 5 (0.03%) (Ranked 350)
 | 2023-12-29 | 16,011 | 5 |
 | 2023-12-30 | 16,036 | 5 |
 | 2023-12-31 | 16,053 | 5 |
-| 2024-01-01 | 16,070 | 5 |
+| 2024-01-01 | 16,074 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 283)  
 Sum: 1,912 (Ranked 220)  

@@ -23,7 +23,7 @@
 | Pal of your father? | 61.00% | ~315 |
 | Spirit of the past | 59.00% | ~304 |
 | Employee of the month | 59.00% | ~304 |
-| Law student | 56.00% | ~289 |
+| Law student | 57.00% | ~294 |
 | Workout professional | 54.00% | ~279 |
 | Little hacker | 54.00% | ~279 |
 | Handyman | 54.00% | ~279 |
@@ -33,7 +33,7 @@
 | Employee of the year | 53.00% | ~273 |
 | Own four walls | 52.00% | ~268 |
 | Intriguing candies | 52.00% | ~268 |
-| Legal courier | 48.00% | ~248 |
+| Legal courier | 49.00% | ~253 |
 | Extreme neuropower! | 48.00% | ~248 |
 | Escaped from a big trouble | 46.00% | ~237 |
 | Now you are worthy | 41.00% | ~212 |

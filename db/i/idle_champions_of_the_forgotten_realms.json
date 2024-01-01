@@ -2,13 +2,13 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 1021,
+  "Ranking_Rating": 1020,
   "Ranking_Popularity": 71,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 49,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9259,10 +9259,10 @@
       "Count": 3617
     }
   ],
-  "EOS_Progressed": 249233,
+  "EOS_Progressed": 249269,
   "EOS_Completed": 2583,
-  "EOS_NewPlayers": 4652,
-  "EOS_NewCompleters": 22,
+  "EOS_NewPlayers": 4670,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
@@ -38269,6 +38269,11 @@
       "Time": "2024-01-01T20:11:31.9770491+00:00",
       "NumProgressed": 249233,
       "NumCompleted": 2583
+    },
+    {
+      "Time": "2024-01-01T21:10:25.4236839+00:00",
+      "NumProgressed": 249269,
+      "NumCompleted": 2583
     }
   ],
   "TotalAchievements": 546,
@@ -38280,7 +38285,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7477
+      "UsersEstimate": 7478
     },
     {
       "ID": "objective_completed_10",
@@ -38288,7 +38293,7 @@
       "Name": "Maddening",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "objective_completed_100",
@@ -39384,7 +39389,7 @@
       "Name": "Beast Mode",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "objective_completed_149",
@@ -39464,7 +39469,7 @@
       "Name": "Low Initiative",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "objective_completed_164",
@@ -39472,7 +39477,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "objective_completed_165",
@@ -39504,7 +39509,7 @@
       "Name": "Building Trust",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "objective_completed_17",
@@ -39608,7 +39613,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "objective_completed_20",
@@ -39616,7 +39621,7 @@
       "Name": "No Time To Rest",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "objective_completed_208",
@@ -39952,7 +39957,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2492
+      "UsersEstimate": 2493
     },
     {
       "ID": "objective_completed_34",
@@ -39968,7 +39973,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "objective_completed_36",
@@ -40152,7 +40157,7 @@
       "Name": "Useless Allies",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "objective_completed_400",
@@ -40424,7 +40429,7 @@
       "Name": "Exploring Port Nyanzaru",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "objective_completed_540",
@@ -40768,7 +40773,7 @@
       "Name": "Running of the Saurs",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "objective_completed_590",
@@ -40824,7 +40829,7 @@
       "Name": "The Contagious Curse",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "objective_completed_60",
@@ -41352,7 +41357,7 @@
       "Name": "Escort to Waterdeep",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "objective_completed_690",
@@ -41456,7 +41461,7 @@
       "Name": "Waterdeep Detours",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "objective_completed_75",
@@ -41488,7 +41493,7 @@
       "Name": "Underdeep Cartography",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "objective_completed_8",
@@ -42647,21 +42652,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 215507,
+      "Progressed": 215543,
       "Completed": 4120
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 249233,
+      "Progressed": 249269,
       "Completed": 2583
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-01T16:58:00.6629331+00:00",
-  "LastChanged_Achievements": "2024-01-01T20:11:31.9770486+00:00",
+  "LastChanged_Achievements": "2024-01-01T21:10:25.4236836+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-01T19:58:13.179172+00:00",
-  "LastUpdate_Achievements": "2024-01-01T20:11:31.9794887+00:00"
+  "LastUpdate_Ratings": "2024-01-01T20:57:45.0553276+00:00",
+  "LastUpdate_Achievements": "2024-01-01T21:10:25.4261051+00:00"
 }

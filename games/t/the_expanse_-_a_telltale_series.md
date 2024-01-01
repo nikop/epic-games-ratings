@@ -5,24 +5,24 @@ Rating: 4.54 (Ranked 543)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 16.00% | ~2,879 |
-| Captain Drummer | 13.00% | ~2,339 |
-| Bosmang | 12.00% | ~2,159 |
-| Celebrations are in Order | 12.00% | ~2,159 |
-| The Pit and the Pirates | 11.00% | ~1,979 |
-| Martian Music | 11.00% | ~1,979 |
-| Drone Dodger | 11.00% | ~1,979 |
-| Impossible Objects | 11.00% | ~1,979 |
-| Spore Taste | 10.00% | ~1,799 |
-| Stogie for Fogey | 9.00% | ~1,619 |
-| Safe Cracker | 9.00% | ~355 |
-| Zen Master | 9.00% | ~355 |
+| Oyedang, Kopengs | 16.00% | ~2,881 |
+| Captain Drummer | 13.00% | ~2,341 |
+| Bosmang | 12.00% | ~2,160 |
+| Celebrations are in Order | 12.00% | ~2,160 |
+| The Pit and the Pirates | 11.00% | ~1,980 |
+| Martian Music | 11.00% | ~1,980 |
+| Drone Dodger | 11.00% | ~1,980 |
+| Impossible Objects | 11.00% | ~1,980 |
+| Spore Taste | 10.00% | ~1,800 |
+| Stogie for Fogey | 9.00% | ~1,620 |
+| Safe Cracker | 9.00% | ~356 |
+| Zen Master | 9.00% | ~356 |
 | Call it Even | 8.00% | ~1,440 |
-| Madame Undersecretary | 8.00% | ~316 |
+| Madame Undersecretary | 8.00% | ~317 |
 | Data Archivist | 7.00% | ~1,260 |
 | Drug Gifter | 7.00% | ~1,260 |
 | Heal Thy Medic | 7.00% | ~1,260 |
-| Keep Arjun in Check | 7.00% | ~276 |
+| Keep Arjun in Check | 7.00% | ~277 |
 | Thorston Mayer | 6.00% | ~1,080 |
 | Khan's Revenge | 6.00% | ~1,080 |
 | Master Negotiator | 6.00% | ~237 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 543)
 | Scavenger Star | 0.30% | ~54 |
 | Data Collector | 0.20% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,994 (Ranked 156)  
+Progressed: 18,004 (Ranked 156)  
 Completed: 58 (0.32%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 58 (0.32%) (Ranked 246)
 | 2023-12-29 | 17,756 | 57 |
 | 2023-12-30 | 17,838 | 57 |
 | 2023-12-31 | 17,926 | 58 |
-| 2024-01-01 | 17,994 | 58 |
+| 2024-01-01 | 18,004 | 58 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

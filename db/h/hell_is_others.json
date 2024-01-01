@@ -4,10 +4,10 @@
   "ProductSlug": "hell-is-others-789262",
   "Ranking_Rating": 775,
   "Ranking_Popularity": 437,
-  "Ranking_PopularitySum": 359,
+  "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -1417,7 +1417,7 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 260092,
+  "EOS_Progressed": 260093,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 312,
   "EOS_NewCompleters": 0,
@@ -25952,6 +25952,11 @@
       "Time": "2024-01-01T20:06:40.7201122+00:00",
       "NumProgressed": 260092,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-01T21:05:17.1691657+00:00",
+      "NumProgressed": 260093,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -25963,7 +25968,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 18206
+      "UsersEstimate": 18207
     },
     {
       "ID": "Act2",
@@ -26410,7 +26415,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 260092,
+      "Progressed": 260093,
       "Completed": 3
     }
   ],
@@ -26418,8 +26423,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2024-01-01T09:57:51.6910853+00:00",
-  "LastChanged_Achievements": "2024-01-01T20:06:40.7201117+00:00",
+  "LastChanged_Achievements": "2024-01-01T21:05:17.1691654+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:41.7689812+00:00",
-  "LastUpdate_Ratings": "2024-01-01T19:58:39.1597058+00:00",
-  "LastUpdate_Achievements": "2024-01-01T20:06:40.7202593+00:00"
+  "LastUpdate_Ratings": "2024-01-01T20:58:02.6143361+00:00",
+  "LastUpdate_Achievements": "2024-01-01T21:05:17.1693849+00:00"
 }

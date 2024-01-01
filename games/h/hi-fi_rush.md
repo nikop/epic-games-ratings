@@ -1,35 +1,35 @@
 # Hi-Fi RUSH
 [Store](https://store.epicgames.com/en-US/p/hi-fi-rush)  
 [View Rawdata](../../db/h/hi-fi_rush.json)  
-Rating: 4.86 (Ranked 32)  
+Rating: 4.86 (Ranked 31)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 52.00% | ~7,525 |
-| Start with a bang! | 51.00% | ~7,381 |
-| You can pet the cat! | 47.00% | ~6,802 |
-| Who put gears in there? | 38.00% | ~5,499 |
-| Cream of the Crop | 33.00% | ~4,776 |
-| Thanks for the free chip, Peppermint! | 32.00% | ~4,631 |
-| You got this, Peppermint? | 27.00% | ~3,907 |
-| Perfect Parry | 26.00% | ~3,763 |
-| Alright, that felt AWESOME! | 25.00% | ~3,618 |
+| Start with a bang! | 52.00% | ~7,527 |
+| Feeling the beat! | 52.00% | ~7,527 |
+| You can pet the cat! | 47.00% | ~6,803 |
+| Who put gears in there? | 38.00% | ~5,500 |
+| Cream of the Crop | 33.00% | ~4,777 |
+| Thanks for the free chip, Peppermint! | 32.00% | ~4,632 |
+| You got this, Peppermint? | 28.00% | ~4,053 |
+| Perfect Parry | 26.00% | ~3,764 |
+| Alright, that felt AWESOME! | 25.00% | ~3,619 |
 | I play my own way! | 22.00% | ~3,184 |
-| This will cost you big time | 20.00% | ~2,894 |
-| Uh, they were broken when I got here | 20.00% | ~2,894 |
-| Z-shielding's got nothing on us! | 18.00% | ~2,605 |
-| Kissing the sky! | 18.00% | ~2,605 |
+| This will cost you big time | 20.00% | ~2,895 |
+| Uh, they were broken when I got here | 20.00% | ~2,895 |
+| Z-shielding's got nothing on us! | 18.00% | ~2,606 |
+| Kissing the sky! | 18.00% | ~2,606 |
 | Does that say weakpoint? | 16.00% | ~2,316 |
 | Whoa! There's ANOTHER health bar!? | 15.00% | ~2,171 |
-| The Negotiator | 14.00% | ~2,026 |
+| The Negotiator | 14.00% | ~2,027 |
 | You must like calling me in, Chai | 12.00% | ~1,737 |
 | Headliner | 11.00% | ~1,592 |
 | Out in a puff of smoke | 11.00% | ~1,592 |
 | I look cool. But I can look COOLER. | 11.00% | ~1,592 |
-| Time to pay up! | 10.00% | ~1,447 |
-| Who's the boss now? | 10.00% | ~1,447 |
-| I have to read these things? | 10.00% | ~1,447 |
-| Perfecter Parry-er! | 10.00% | ~1,447 |
+| Time to pay up! | 10.00% | ~1,448 |
+| Who's the boss now? | 10.00% | ~1,448 |
+| Perfecter Parry-er! | 10.00% | ~1,448 |
+| I have to read these things? | 9.00% | ~1,303 |
 | There's such a thing as TOO helpful | 7.00% | ~1,013 |
 | NOW we got a kickass hideout! | 7.00% | ~910 |
 | Well that was a rush! | 6.00% | ~868 |
@@ -39,11 +39,11 @@ Rating: 4.86 (Ranked 32)
 | I told you I'd be fine, Peppermint! | 4.00% | ~579 |
 | Wanna hear my playlist? | 3.00% | ~434 |
 | Check out my moves! | 3.00% | ~434 |
-| I think I found your calling, Macaron | 2.00% | ~289 |
-| We're Jammin' | 2.00% | ~289 |
-| First we parry, then we counter | 2.00% | ~289 |
-| I hit things with a guitar really well. | 2.00% | ~289 |
-| You ever parry a volcano? | 2.00% | ~289 |
+| I think I found your calling, Macaron | 2.00% | ~290 |
+| We're Jammin' | 2.00% | ~290 |
+| First we parry, then we counter | 2.00% | ~290 |
+| I hit things with a guitar really well. | 2.00% | ~290 |
+| You ever parry a volcano? | 2.00% | ~290 |
 | Easy Listening | 1.00% | ~145 |
 | I think I deserve some praise, here! | 1.00% | ~145 |
 | This is a breeze! | 1.00% | ~145 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 32)
 | Voices from within | 0.10% | ~13 |
 | Low budget finish | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,472 (Ranked 171)  
+Progressed: 14,475 (Ranked 171)  
 Completed: 8 (0.06%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 8 (0.06%) (Ranked 326)
 | 2023-12-29 | 13,371 | 8 |
 | 2023-12-30 | 13,741 | 8 |
 | 2023-12-31 | 14,116 | 8 |
-| 2024-01-01 | 14,472 | 8 |
+| 2024-01-01 | 14,475 | 8 |
 ## Awards
 Max (Great Boss Battles): 26  (Ranked 539)  
 Sum: 26 (Ranked 550)  

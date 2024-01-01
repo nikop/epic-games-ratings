@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewPlayers": 337,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -23,9 +23,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 673,
+  "EOS_Progressed": 674,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1953,6 +1953,11 @@
       "Time": "2024-01-01T18:08:39.9105949+00:00",
       "NumProgressed": 673,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-01T21:08:42.9682758+00:00",
+      "NumProgressed": 674,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1988,7 +1993,7 @@
       "Name": "The Wraith",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "Chapter10",
@@ -2068,7 +2073,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "Collectibles2",
@@ -2251,14 +2256,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 673,
+      "Progressed": 674,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2024-01-01T20:09:10.1837081+00:00",
+  "LastChanged_Achievements": "2024-01-01T21:08:42.9682753+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:52.7488707+00:00",
-  "LastUpdate_Ratings": "2024-01-01T19:59:22.7698784+00:00",
-  "LastUpdate_Achievements": "2024-01-01T20:09:10.183744+00:00"
+  "LastUpdate_Ratings": "2024-01-01T20:58:31.8710153+00:00",
+  "LastUpdate_Achievements": "2024-01-01T21:08:42.9683163+00:00"
 }

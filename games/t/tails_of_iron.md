@@ -12,6 +12,7 @@ Rating: 4.56 (Ranked 503)
 | Collect Iron Ore | 1.00% | ~23 |
 | Collect Monster Parts | 1.00% | ~23 |
 | Complete Elder Faction | 1.00% | ~23 |
+| End of the Mozis | 1.00% | ~23 |
 | Ranged Weapon | 1.00% | ~23 |
 | Two Handed Weapon | 1.00% | ~23 |
 | Defeat 25 Grubs | 1.00% | ~23 |
@@ -19,13 +20,12 @@ Rating: 4.56 (Ranked 503)
 | Defeat 25 Mozis | 1.00% | ~23 |
 | Kitchen Ready To Cook | 1.00% | ~23 |
 | Smithy Ready to Craft | 1.00% | ~23 |
+| Throne Room Fit For A King | 1.00% | ~23 |
 | Rescue Redgi's Brothers | 1.00% | ~23 |
 | Defeat Croakhis Khan | 1.00% | ~9 |
 | Shield Maiden Yellow Tongue | 1.00% | ~9 |
 | I Remember My First Beer | 1.00% | ~9 |
-| End of the Mozis | 0.90% | ~21 |
 | Meet the Creatures from the Deep | 0.90% | ~21 |
-| Throne Room Fit For A King | 0.90% | ~21 |
 | Return Power To The Depths | 0.90% | ~21 |
 | Defeat Ratnor Rodentson | 0.80% | ~18 |
 | Fix the Travellers Wagon | 0.80% | ~18 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 503)
 | King of Kings | 0.30% | ~7 |
 | A new Warchief rises | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,302 (Ranked 236)  
+Progressed: 2,303 (Ranked 236)  
 Completed: 12 (0.52%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,7 +253,7 @@ Completed: 12 (0.52%) (Ranked 216)
 | 2023-12-29 | 2,292 | 12 |
 | 2023-12-30 | 2,295 | 12 |
 | 2023-12-31 | 2,297 | 12 |
-| 2024-01-01 | 2,302 | 12 |
+| 2024-01-01 | 2,303 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

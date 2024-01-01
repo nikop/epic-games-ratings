@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 82.00% | ~239 |
-| Purification Pioneer | 77.00% | ~225 |
-| Mechanical Buddy | 72.00% | ~210 |
-| Dicesmithing Time! | 64.00% | ~187 |
+| Meissa's Savior | 82.00% | ~240 |
+| Purification Pioneer | 77.00% | ~226 |
+| Mechanical Buddy | 72.00% | ~211 |
+| Dicesmithing Time! | 65.00% | ~190 |
 | Sanctuary Guardian | 55.00% | ~161 |
 | Endless Tricks | 51.00% | ~149 |
-| Wild's Keeper | 46.00% | ~134 |
-| Mind Illuminator | 44.00% | ~128 |
+| Wild's Keeper | 46.00% | ~135 |
+| Mind Illuminator | 44.00% | ~129 |
 | Stellar Dismantler | 37.00% | ~108 |
-| Noctuan Champion | 36.00% | ~105 |
-| Astral Adventurer | 34.00% | ~99 |
+| Noctuan Champion | 35.00% | ~103 |
+| Astral Adventurer | 33.00% | ~97 |
 | Anomaly Destroyer | 31.00% | ~91 |
 | Star Killer | 28.00% | ~82 |
 | Eridanian Champion | 25.00% | ~73 |
 | Loyal Partner | 22.00% | ~64 |
-| Lacertian Champion | 21.00% | ~61 |
+| Lacertian Champion | 20.00% | ~59 |
 | Shard Spender | 18.00% | ~53 |
 | Apian Champion | 18.00% | ~53 |
 | Unbeatable | 17.00% | ~50 |
@@ -31,9 +31,9 @@
 | Heavy Purger | 9.00% | ~26 |
 | Heart Gate | 8.00% | ~23 |
 | Stellar Haste | 8.00% | ~23 |
-| Favored by the Cosmos | 7.00% | ~20 |
-| The Corruption Goddess | 7.00% | ~20 |
-| The Goddes Avatar | 7.00% | ~20 |
+| The Corruption Goddess | 7.00% | ~21 |
+| The Goddes Avatar | 7.00% | ~21 |
+| Favored by the Cosmos | 6.00% | ~18 |
 | Anomaly Control | 5.00% | ~15 |
 | Artificer | 5.00% | ~15 |
 | Can't touch this | 5.00% | ~15 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 292 (Ranked 393)  
+Progressed: 293 (Ranked 392)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,4 +170,4 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-29 | 269 | 0 |
 | 2023-12-30 | 277 | 0 |
 | 2023-12-31 | 285 | 0 |
-| 2024-01-01 | 292 | 0 |
+| 2024-01-01 | 293 | 0 |

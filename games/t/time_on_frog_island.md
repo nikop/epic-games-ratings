@@ -33,12 +33,12 @@
 | Shrub-Seeing: Seen it all! | 5.00% | ~2 |
 | Yeet! | 5.00% | ~2 |
 | Return to sender | 5.00% | ~2 |
+| Vandal | 5.00% | ~2 |
+| Falling with Style | 5.00% | ~2 |
 | Froggy Friendship | 5.00% | ~2 |
 | Crunch Time | 3.00% | ~1 |
 | One with the frogs | 3.00% | ~1 |
-| Vandal | 3.00% | ~1 |
 | Just Here for the Food | 3.00% | ~1 |
-| Falling with Style | 3.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 38 (Ranked 570)  
 Completed: 1 (2.63%) (Ranked 121)  

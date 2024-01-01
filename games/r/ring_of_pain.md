@@ -20,14 +20,14 @@ Number of Ratings: 15,086  (23.09.2022)
 | Explorer | 0.90% | ~2,180 |
 | An Offering | 0.90% | ~2,180 |
 | Not Touching You | 0.90% | ~33 |
-| Nothing To Lose | 0.80% | ~1,937 |
-| Delving Deeper | 0.80% | ~1,937 |
-| Heartless | 0.80% | ~1,937 |
-| What's Yours Is Mine | 0.80% | ~1,937 |
-| Spine Breaker | 0.80% | ~1,937 |
-| C-C-Combo | 0.80% | ~1,937 |
-| Deflection | 0.80% | ~1,937 |
-| Sneaky | 0.80% | ~1,937 |
+| Nothing To Lose | 0.80% | ~1,938 |
+| Delving Deeper | 0.80% | ~1,938 |
+| Heartless | 0.80% | ~1,938 |
+| What's Yours Is Mine | 0.80% | ~1,938 |
+| Spine Breaker | 0.80% | ~1,938 |
+| C-C-Combo | 0.80% | ~1,938 |
+| Deflection | 0.80% | ~1,938 |
+| Sneaky | 0.80% | ~1,938 |
 | Ambitious Intent | 0.70% | ~1,695 |
 | R.I.P | 0.70% | ~1,695 |
 | Dig Your Own Grave | 0.70% | ~1,695 |
@@ -145,8 +145,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,187 (Ranked 72)  
-Completed: 302 (0.12%) (Ranked 299)  
+Progressed: 242,190 (Ranked 72)  
+Completed: 302 (0.12%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -401,7 +401,7 @@ Completed: 302 (0.12%) (Ranked 299)
 | 2023-12-29 | 241,985 | 302 |
 | 2023-12-30 | 242,061 | 302 |
 | 2023-12-31 | 242,129 | 302 |
-| 2024-01-01 | 242,187 | 302 |
+| 2024-01-01 | 242,190 | 302 |
 ## Awards
 Max (Quickly Understood Controls): 1,513  (Ranked 136)  
 Sum: 11,781 (Ranked 88)  

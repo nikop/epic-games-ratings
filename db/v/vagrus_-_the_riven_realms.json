@@ -1175,9 +1175,9 @@
       "ID": "Vanilla_CargoEfficiencyTier1",
       "SetID": "27kik8p",
       "Name": "Quartermaster",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     },
     {
       "ID": "Vanilla_CargoEfficiencyTier2",
@@ -1896,8 +1896,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2024-01-01T20:04:31.2564603+00:00",
+  "LastChanged_Achievements": "2024-01-01T21:03:47.4298388+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:41.3005977+00:00",
-  "LastUpdate_Ratings": "2024-01-01T19:58:35.9447674+00:00",
-  "LastUpdate_Achievements": "2024-01-01T20:04:31.2565967+00:00"
+  "LastUpdate_Ratings": "2024-01-01T20:58:00.4486474+00:00",
+  "LastUpdate_Achievements": "2024-01-01T21:03:47.4300808+00:00"
 }

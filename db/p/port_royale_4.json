@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -263,7 +263,7 @@
   "Tags": [],
   "EOS_Progressed": 1164,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3361,9 +3361,9 @@
       "ID": "ACH007",
       "SetID": "69nfp41",
       "Name": "My little farm",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 733
+      "UsersEstimate": 745
     },
     {
       "ID": "ACH008",
@@ -3713,8 +3713,8 @@
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-11-01T22:59:02.448108+00:00",
-  "LastChanged_Achievements": "2024-01-01T20:08:15.4300665+00:00",
+  "LastChanged_Achievements": "2024-01-01T21:06:23.7813676+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:13.936517+00:00",
-  "LastUpdate_Ratings": "2024-01-01T19:57:41.4569955+00:00",
-  "LastUpdate_Achievements": "2024-01-01T20:08:15.4301099+00:00"
+  "LastUpdate_Ratings": "2024-01-01T20:57:23.0354034+00:00",
+  "LastUpdate_Achievements": "2024-01-01T21:06:23.7814255+00:00"
 }

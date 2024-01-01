@@ -5,36 +5,36 @@ Rating: 4.50 (Ranked 614)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 63.00% | ~865 |
+| Read Between The Lines | 63.00% | ~866 |
 | To Hell In A Handcart | 61.00% | ~838 |
-| High Profile | 54.00% | ~741 |
+| High Profile | 54.00% | ~742 |
 | Whispers In The Dark | 52.00% | ~714 |
-| Fond Memories | 50.00% | ~686 |
-| A Method To His Madness | 48.00% | ~659 |
-| History Check | 47.00% | ~645 |
+| Fond Memories | 50.00% | ~687 |
+| A Method To His Madness | 48.00% | ~660 |
+| History Check | 47.00% | ~646 |
 | The New World | 45.00% | ~618 |
-| Gaze Into The Abyss | 43.00% | ~590 |
-| Open Sesame | 43.00% | ~590 |
-| Sticky Fingers | 43.00% | ~590 |
-| Knives Out | 43.00% | ~590 |
+| Gaze Into The Abyss | 43.00% | ~591 |
+| Open Sesame | 43.00% | ~591 |
+| Sticky Fingers | 43.00% | ~591 |
+| Knives Out | 43.00% | ~591 |
 | Lock, Stock, And Barrel | 42.00% | ~577 |
 | Back In The Saddle | 42.00% | ~577 |
 | Land, Ho! | 42.00% | ~577 |
 | No Man Is An Island | 41.00% | ~563 |
-| At Wits' End | 40.00% | ~549 |
+| At Wits' End | 40.00% | ~550 |
 | Up In Flames | 38.00% | ~522 |
 | Fhtagn! | 38.00% | ~522 |
 | Bookworm | 37.00% | ~508 |
-| Going Once... | 36.00% | ~494 |
+| Going Once... | 36.00% | ~495 |
 | Let Me Be Frank | 34.00% | ~467 |
-| No Stone Unturned | 32.00% | ~439 |
-| Brain Food | 31.00% | ~426 |
+| No Stone Unturned | 32.00% | ~440 |
+| Brain Food | 30.00% | ~412 |
 | Read It And Weep | 19.00% | ~261 |
 | Curiosity Killed The Cat | 18.00% | ~247 |
 | Big Breakthrough | 12.00% | ~165 |
 | Reawakened | 3.00% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,373 (Ranked 269)  
+Progressed: 1,374 (Ranked 268)  
 Completed: 38 (2.77%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 38 (2.77%) (Ranked 116)
 | 2023-12-29 | 1,347 | 38 |
 | 2023-12-30 | 1,356 | 38 |
 | 2023-12-31 | 1,366 | 38 |
-| 2024-01-01 | 1,373 | 38 |
+| 2024-01-01 | 1,374 | 38 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

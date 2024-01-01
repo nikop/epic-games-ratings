@@ -7,8 +7,8 @@ Number of Ratings: 98  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You Shall Not Pass | 51.00% | ~4,960 |
-| Tutti Eroi! | 50.00% | ~4,862 |
-| Peak Performance | 45.00% | ~4,376 |
+| Tutti Eroi! | 50.00% | ~4,863 |
+| Peak Performance | 45.00% | ~4,377 |
 | Avanti Savoia! | 44.00% | ~4,279 |
 | Mamma Mia! | 35.00% | ~3,404 |
 | Conrad von Hotzensocks | 32.00% | ~3,112 |
@@ -28,8 +28,8 @@ Number of Ratings: 98  (23.09.2022)
 | Dirty Dozen | 12.00% | ~1,167 |
 | Shaken, Not Stirred | 12.00% | ~1,167 |
 | Machiavelli | 11.00% | ~1,070 |
-| The Devil's Paintbrush | 10.00% | ~972 |
-| Thus With A Kiss | 10.00% | ~972 |
+| The Devil's Paintbrush | 10.00% | ~973 |
+| Thus With A Kiss | 10.00% | ~973 |
 | Dante's Inferno | 9.00% | ~875 |
 | I Have the High Ground | 9.00% | ~875 |
 | Millenial | 9.00% | ~875 |
@@ -41,10 +41,10 @@ Number of Ratings: 98  (23.09.2022)
 | Generalissimo | 4.00% | ~389 |
 | "O La Vittoria, O Tutti Accoppati" | 4.00% | ~389 |
 | Seeing Red | 3.00% | ~292 |
-| Farewell to Arms | 2.00% | ~194 |
-| Ponte of No Return | 2.00% | ~194 |
-| Soča Drag | 2.00% | ~194 |
-| Saboteur | 2.00% | ~194 |
+| Farewell to Arms | 2.00% | ~195 |
+| Ponte of No Return | 2.00% | ~195 |
+| Soča Drag | 2.00% | ~195 |
+| Saboteur | 2.00% | ~195 |
 | Compagnia della Morte | 1.00% | ~97 |
 | Drop and Give Me 20 | 1.00% | ~97 |
 | Malpractice | 1.00% | ~97 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~39 |
 | Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,725 (Ranked 181)  
+Progressed: 9,726 (Ranked 181)  
 Completed: 10 (0.10%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 10 (0.10%) (Ranked 304)
 | 2023-12-29 | 9,668 | 10 |
 | 2023-12-30 | 9,691 | 10 |
 | 2023-12-31 | 9,706 | 10 |
-| 2024-01-01 | 9,725 | 10 |
+| 2024-01-01 | 9,726 | 10 |
 ## Awards
 Max (Diverse Characters): 41  (Ranked 474)  
 Sum: 335 (Ranked 368)  
