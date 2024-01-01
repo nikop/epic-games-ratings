@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 486,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -397,9 +397,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 1846,
+  "EOS_Progressed": 1847,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -3212,6 +3212,11 @@
       "Time": "2024-01-01T08:05:28.2180843+00:00",
       "NumProgressed": 1846,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-01T10:04:40.1819816+00:00",
+      "NumProgressed": 1847,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 38,
@@ -3223,7 +3228,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1809
+      "UsersEstimate": 1810
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -3231,7 +3236,7 @@
       "Name": "Great Doctor",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -3279,7 +3284,7 @@
       "Name": "The First Step",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 1606
+      "UsersEstimate": 1607
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -3287,7 +3292,7 @@
       "Name": "Rookie Chemist",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1126
+      "UsersEstimate": 1127
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -3303,7 +3308,7 @@
       "Name": "Expert Chemist",
       "Percentage": 14,
       "XP": 80,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "ACHIEVEMENTS_12",
@@ -3335,7 +3340,7 @@
       "Name": "Friendly",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "ACHIEVEMENTS_16",
@@ -3359,7 +3364,7 @@
       "Name": "Dog Whisperer",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "ACHIEVEMENTS_19",
@@ -3375,7 +3380,7 @@
       "Name": "Decorative Mind",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "ACHIEVEMENTS_21",
@@ -3399,7 +3404,7 @@
       "Name": "Lumber Specialist",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "ACHIEVEMENTS_24",
@@ -3407,7 +3412,7 @@
       "Name": "Stone Specialist",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "ACHIEVEMENTS_25",
@@ -3487,7 +3492,7 @@
       "Name": "Moonbury Traveller",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1163
+      "UsersEstimate": 1164
     },
     {
       "ID": "ACHIEVEMENTS_35",
@@ -3526,7 +3531,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1846,
+      "Progressed": 1847,
       "Completed": 11
     }
   ],
@@ -3534,8 +3539,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-12-28T09:03:17.5303608+00:00",
-  "LastChanged_Achievements": "2024-01-01T09:05:54.5779431+00:00",
+  "LastChanged_Achievements": "2024-01-01T10:04:40.1819812+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:18.8535407+00:00",
-  "LastUpdate_Ratings": "2024-01-01T08:58:00.8397378+00:00",
-  "LastUpdate_Achievements": "2024-01-01T09:05:54.577974+00:00"
+  "LastUpdate_Ratings": "2024-01-01T09:57:54.973246+00:00",
+  "LastUpdate_Achievements": "2024-01-01T10:04:40.1820156+00:00"
 }

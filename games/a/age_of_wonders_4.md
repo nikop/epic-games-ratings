@@ -5,12 +5,12 @@ Rating: 4.63 (Ranked 359)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 13.00% | ~863 |
+| Secret Technique | 13.00% | ~864 |
 | Realm Estate | 11.00% | ~731 |
 | A Wonderful Discovery | 11.00% | ~731 |
 | Walls Cannot Stop Us | 10.00% | ~664 |
 | From Friends to Family | 9.00% | ~598 |
-| Bone Peddler | 8.00% | ~531 |
+| Bone Peddler | 8.00% | ~532 |
 | Magical Synergy | 7.00% | ~465 |
 | There Can Only Be One! | 6.00% | ~399 |
 | Full Ascension | 6.00% | ~399 |
@@ -54,7 +54,7 @@ Rating: 4.63 (Ranked 359)
 | Grexolis | 0.90% | ~60 |
 | One for All, All for One | 0.80% | ~53 |
 | Duality | 0.80% | ~53 |
-| Betrayal Most Foul | 0.70% | ~46 |
+| Betrayal Most Foul | 0.70% | ~47 |
 | Snap Out of It! | 0.40% | ~27 |
 | The Magic That Empowers Me! | 0.40% | ~27 |
 | Jack of All Tomes | 0.30% | ~20 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 359)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,642 (Ranked 195)  
+Progressed: 6,644 (Ranked 195)  
 Completed: 7 (0.11%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 7 (0.11%) (Ranked 302)
 | 2023-12-29 | 6,495 | 7 |
 | 2023-12-30 | 6,566 | 7 |
 | 2023-12-31 | 6,624 | 7 |
-| 2024-01-01 | 6,642 | 7 |
+| 2024-01-01 | 6,644 | 7 |
 ## Awards
 Max (Great for Beginners): 39  (Ranked 478)  
 Sum: 184 (Ranked 423)  

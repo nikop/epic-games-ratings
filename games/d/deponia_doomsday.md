@@ -42,7 +42,7 @@ Rating: 4.55 (Ranked 522)
 | Pacifist | 5.00% | ~26 |
 | 1001 Jackalopes | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 510 (Ranked 341)  
+Progressed: 510 (Ranked 342)  
 Completed: 7 (1.37%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |

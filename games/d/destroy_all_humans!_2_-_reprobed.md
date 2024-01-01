@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.40% | ~1 |
 | Trans-Siberian Express | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 272 (Ranked 398)  
+Progressed: 272 (Ranked 399)  
 Completed: 1 (0.37%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |

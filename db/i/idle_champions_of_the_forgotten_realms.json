@@ -9247,9 +9247,9 @@
       "Count": 3617
     }
   ],
-  "EOS_Progressed": 248877,
+  "EOS_Progressed": 248899,
   "EOS_Completed": 2582,
-  "EOS_NewPlayers": 4475,
+  "EOS_NewPlayers": 4488,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -38202,6 +38202,11 @@
       "Time": "2024-01-01T09:11:10.2171981+00:00",
       "NumProgressed": 248877,
       "NumCompleted": 2582
+    },
+    {
+      "Time": "2024-01-01T10:09:45.3343773+00:00",
+      "NumProgressed": 248899,
+      "NumCompleted": 2582
     }
   ],
   "TotalAchievements": 546,
@@ -38213,7 +38218,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7466
+      "UsersEstimate": 7467
     },
     {
       "ID": "objective_completed_10",
@@ -42485,7 +42490,7 @@
       "Name": "Arcane Suppression",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "objective_completed_1352",
@@ -42493,7 +42498,7 @@
       "Name": "Welcome to the Vrocks",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "objective_completed_1557",
@@ -42509,7 +42514,7 @@
       "Name": "Misaligned in Sigil",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "objective_completed_1562",
@@ -42525,7 +42530,7 @@
       "Name": "Chaos Theory",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "objective_completed_598",
@@ -42580,21 +42585,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 215151,
+      "Progressed": 215173,
       "Completed": 4115
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 248877,
+      "Progressed": 248899,
       "Completed": 2582
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-01T05:57:48.4090061+00:00",
-  "LastChanged_Achievements": "2024-01-01T09:11:10.217198+00:00",
+  "LastChanged_Achievements": "2024-01-01T10:09:45.334377+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-01T08:57:32.2551981+00:00",
-  "LastUpdate_Achievements": "2024-01-01T09:11:10.2196524+00:00"
+  "LastUpdate_Ratings": "2024-01-01T09:57:35.2820113+00:00",
+  "LastUpdate_Achievements": "2024-01-01T10:09:45.3387125+00:00"
 }

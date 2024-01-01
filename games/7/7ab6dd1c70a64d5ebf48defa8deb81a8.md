@@ -5,29 +5,29 @@ Rating: 4.14 (Ranked 996)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 59.00% | ~939 |
-| Trinity | 29.00% | ~461 |
+| Break Out | 59.00% | ~940 |
+| Trinity | 29.00% | ~462 |
 | The Collector | 23.00% | ~366 |
 | Find Allies | 22.00% | ~350 |
 | A Taste of Wrath | 22.00% | ~350 |
 | I Found It | 22.00% | ~350 |
-| Shatter Them All | 21.00% | ~334 |
-| Geared Up | 21.00% | ~334 |
-| Adventurer | 20.00% | ~318 |
-| Fashion Victim | 20.00% | ~318 |
-| Scholar | 20.00% | ~318 |
-| Stone Collection | 19.00% | ~302 |
-| Powerful Allies | 18.00% | ~286 |
-| Tributes of Caladrias | 18.00% | ~286 |
+| Shatter Them All | 21.00% | ~335 |
+| Geared Up | 21.00% | ~335 |
+| Adventurer | 20.00% | ~319 |
+| Fashion Victim | 20.00% | ~319 |
+| Scholar | 20.00% | ~319 |
+| Stone Collection | 19.00% | ~303 |
+| Powerful Allies | 18.00% | ~287 |
+| Tributes of Caladrias | 18.00% | ~287 |
 | Big Bazar | 12.00% | ~191 |
 | Essence Blow | 11.00% | ~175 |
 | Alchemist | 11.00% | ~175 |
 | The Mentor | 10.00% | ~159 |
-| Calm before the Storm | 7.00% | ~111 |
-| Airborne | 7.00% | ~111 |
-| To Battle | 6.00% | ~95 |
-| Godslayer | 6.00% | ~95 |
-| Miner | 6.00% | ~95 |
+| Calm before the Storm | 7.00% | ~112 |
+| Airborne | 7.00% | ~112 |
+| To Battle | 6.00% | ~96 |
+| Godslayer | 6.00% | ~96 |
+| Miner | 6.00% | ~96 |
 | Clear Sight | 4.00% | ~64 |
 | Shatterer | 4.00% | ~64 |
 | Fine Feathers Make Fine Birds | 4.00% | ~64 |
@@ -42,7 +42,7 @@ Rating: 4.14 (Ranked 996)
 | All That Gold | 0.70% | ~11 |
 | Feeling Fancy | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,591 (Ranked 259)  
+Progressed: 1,593 (Ranked 259)  
 Completed: 3 (0.19%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 3 (0.19%) (Ranked 274)
 | 2023-12-29 | 1,459 | 3 |
 | 2023-12-30 | 1,519 | 3 |
 | 2023-12-31 | 1,577 | 3 |
-| 2024-01-01 | 1,591 | 3 |
+| 2024-01-01 | 1,593 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

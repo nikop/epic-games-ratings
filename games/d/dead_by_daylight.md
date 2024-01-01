@@ -6,37 +6,37 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 5.00% | ~56,650 |
-| Skillful | 5.00% | ~56,650 |
-| Zealous | 4.00% | ~45,320 |
-| Not half bad | 4.00% | ~45,320 |
-| Make Some Noise | 4.00% | ~45,320 |
-| No one left behind | 3.00% | ~33,990 |
-| Handyman | 3.00% | ~33,990 |
-| Bloody Millionaire | 3.00% | ~33,990 |
-| Apt Survivor | 3.00% | ~33,990 |
-| Survival Treasures | 3.00% | ~33,990 |
-| I | 3.00% | ~33,990 |
-| Sorted | 3.00% | ~33,990 |
-| Healthy Obsession | 3.00% | ~33,990 |
-| Resurgence | 3.00% | ~33,990 |
-| Preemptive Strike | 3.00% | ~33,990 |
-| The Grand Sacrifice | 2.00% | ~22,660 |
-| Agonizing Escape | 2.00% | ~22,660 |
-| Backdoor Escape | 2.00% | ~22,660 |
-| I've got your back | 2.00% | ~22,660 |
-| Medic | 2.00% | ~22,660 |
-| Perfect Escape | 2.00% | ~22,660 |
-| Perfect Killing | 2.00% | ~22,660 |
-| Apt Killer | 2.00% | ~22,660 |
-| Risk it all | 2.00% | ~22,660 |
-| II | 2.00% | ~22,660 |
-| III | 2.00% | ~22,660 |
-| Engineer | 2.00% | ~22,660 |
-| Wounded Healer | 2.00% | ~22,660 |
-| Close Shave | 2.00% | ~22,660 |
-| Humanitarian | 2.00% | ~22,660 |
-| Second Act | 2.00% | ~22,660 |
+| It wakes | 5.00% | ~56,652 |
+| Skillful | 5.00% | ~56,652 |
+| Zealous | 4.00% | ~45,322 |
+| Not half bad | 4.00% | ~45,322 |
+| Make Some Noise | 4.00% | ~45,322 |
+| No one left behind | 3.00% | ~33,992 |
+| Handyman | 3.00% | ~33,992 |
+| Bloody Millionaire | 3.00% | ~33,992 |
+| Apt Survivor | 3.00% | ~33,992 |
+| Survival Treasures | 3.00% | ~33,992 |
+| I | 3.00% | ~33,992 |
+| Sorted | 3.00% | ~33,992 |
+| Healthy Obsession | 3.00% | ~33,992 |
+| Resurgence | 3.00% | ~33,992 |
+| Preemptive Strike | 3.00% | ~33,992 |
+| The Grand Sacrifice | 2.00% | ~22,661 |
+| Agonizing Escape | 2.00% | ~22,661 |
+| Backdoor Escape | 2.00% | ~22,661 |
+| I've got your back | 2.00% | ~22,661 |
+| Medic | 2.00% | ~22,661 |
+| Perfect Escape | 2.00% | ~22,661 |
+| Perfect Killing | 2.00% | ~22,661 |
+| Apt Killer | 2.00% | ~22,661 |
+| Risk it all | 2.00% | ~22,661 |
+| II | 2.00% | ~22,661 |
+| III | 2.00% | ~22,661 |
+| Engineer | 2.00% | ~22,661 |
+| Wounded Healer | 2.00% | ~22,661 |
+| Close Shave | 2.00% | ~22,661 |
+| Humanitarian | 2.00% | ~22,661 |
+| Second Act | 2.00% | ~22,661 |
 | Blood on your hands | 1.00% | ~11,330 |
 | Escape Artist | 1.00% | ~11,330 |
 | Made it out alive! | 1.00% | ~11,330 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,133 |
 | Adept Good Guy | 0.10% | ~1,133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,132,997 (Ranked 13)  
+Progressed: 1,133,050 (Ranked 13)  
 Completed: 65 (0.01%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -495,7 +495,7 @@ Completed: 65 (0.01%) (Ranked 368)
 | 2023-12-29 | 1,127,985 | 65 |
 | 2023-12-30 | 1,130,308 | 65 |
 | 2023-12-31 | 1,132,441 | 65 |
-| 2024-01-01 | 1,132,997 | 65 |
+| 2024-01-01 | 1,133,050 | 65 |
 ## Awards
 Max (Diverse Characters): 38,918  (Ranked 15)  
 Sum: 294,091 (Ranked 12)  

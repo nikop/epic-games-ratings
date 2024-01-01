@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 529,
   "Ranking_EOS_Completed": 62,
   "Ranking_EOS_NewPlayers": 389,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-11-02T01:00:00+00:00",
     "PcReleaseDate": "2021-11-02T01:00:00+00:00",
@@ -368,9 +368,9 @@
       "ID": "BeatBossKawa",
       "SetID": "123m9l1",
       "Name": "Phantom Kunoichi",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "BeatBossNaka",
@@ -440,9 +440,9 @@
       "ID": "FanOfYang",
       "SetID": "123m9l1",
       "Name": "The Real O.G.",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "FinishTheGame",
@@ -577,8 +577,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2024-01-01T09:06:21.3410026+00:00",
+  "LastChanged_Achievements": "2024-01-01T10:04:59.4379717+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:12.5249807+00:00",
-  "LastUpdate_Ratings": "2024-01-01T08:57:28.647831+00:00",
-  "LastUpdate_Achievements": "2024-01-01T09:06:21.3410249+00:00"
+  "LastUpdate_Ratings": "2024-01-01T09:57:33.196842+00:00",
+  "LastUpdate_Achievements": "2024-01-01T10:04:59.4379888+00:00"
 }

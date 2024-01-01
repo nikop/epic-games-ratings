@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 483,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 302,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
     "PcReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -562,9 +562,9 @@
       "ID": "Build_First_Lodge",
       "SetID": "7b9f97e",
       "Name": "Expansion",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "Build_First_Room",
@@ -722,17 +722,17 @@
       "ID": "First_Node_Meld",
       "SetID": "7b9f97e",
       "Name": "Connected",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "Harvest_First_Plant",
       "SetID": "7b9f97e",
       "Name": "Harvest Time",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "HeroStory_Elynn",
@@ -1042,9 +1042,9 @@
       "ID": "Mine_First_Ore",
       "SetID": "7b9f97e",
       "Name": "Mine!",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 63
     },
     {
       "ID": "Recipes_All_Alchemy",
@@ -1123,8 +1123,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2024-01-01T09:10:14.1754847+00:00",
+  "LastChanged_Achievements": "2024-01-01T10:09:03.2997721+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:20.4706393+00:00",
-  "LastUpdate_Ratings": "2024-01-01T08:59:41.8564071+00:00",
-  "LastUpdate_Achievements": "2024-01-01T09:10:14.1755386+00:00"
+  "LastUpdate_Ratings": "2024-01-01T09:59:03.7253315+00:00",
+  "LastUpdate_Achievements": "2024-01-01T10:09:03.2998335+00:00"
 }

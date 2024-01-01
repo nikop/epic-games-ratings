@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -259,9 +259,9 @@
       "Count": 89
     }
   ],
-  "EOS_Progressed": 1217,
+  "EOS_Progressed": 1218,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3369,6 +3369,11 @@
       "Time": "2024-01-01T03:08:15.78761+00:00",
       "NumProgressed": 1217,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-01T10:06:01.9737049+00:00",
+      "NumProgressed": 1218,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3421,7 +3426,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "BreakTheLoop",
@@ -3437,7 +3442,7 @@
       "Name": "Bridge Builder",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "ChasingTheLight",
@@ -3523,9 +3528,9 @@
       "ID": "GoodCitizen",
       "SetID": "1n308hc",
       "Name": "Good Citizen",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 85
     },
     {
       "ID": "GrasslandsRing",
@@ -3773,7 +3778,7 @@
       "Name": "The Spark",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "TheThiefOfFire",
@@ -3795,9 +3800,9 @@
       "ID": "TouchGrass",
       "SetID": "1n308hc",
       "Name": "Touch Grass",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 268
     },
     {
       "ID": "TrevorsBiographer",
@@ -3821,7 +3826,7 @@
       "Name": "Wanderers",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "WesternDelta",
@@ -3837,7 +3842,7 @@
       "Name": "Wooded Plateau",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "YourBiggestFan",
@@ -3852,7 +3857,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1217,
+      "Progressed": 1218,
       "Completed": 2
     }
   ],
@@ -3860,8 +3865,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-29T23:57:10.9507958+00:00",
-  "LastChanged_Achievements": "2024-01-01T09:07:50.1642245+00:00",
+  "LastChanged_Achievements": "2024-01-01T10:06:01.9737044+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.9244138+00:00",
-  "LastUpdate_Ratings": "2024-01-01T08:58:50.2594776+00:00",
-  "LastUpdate_Achievements": "2024-01-01T09:07:50.1642929+00:00"
+  "LastUpdate_Ratings": "2024-01-01T09:58:29.7134727+00:00",
+  "LastUpdate_Achievements": "2024-01-01T10:06:01.9737679+00:00"
 }

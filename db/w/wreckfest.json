@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -333,7 +333,7 @@
   "Tags": [],
   "EOS_Progressed": 635,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 291,
+  "EOS_NewPlayers": 289,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1737,9 +1737,9 @@
       "ID": "CareerChamp1",
       "SetID": "5hd282c",
       "Name": "Regional Juniors Champion",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 203
+      "UsersEstimate": 210
     },
     {
       "ID": "CareerChamp2",
@@ -1890,8 +1890,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-28T22:58:24.1175943+00:00",
-  "LastChanged_Achievements": "2024-01-01T09:09:21.0472512+00:00",
+  "LastChanged_Achievements": "2024-01-01T10:08:24.8716273+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:31.5719432+00:00",
-  "LastUpdate_Ratings": "2024-01-01T09:00:15.5063337+00:00",
-  "LastUpdate_Achievements": "2024-01-01T09:09:21.0472779+00:00"
+  "LastUpdate_Ratings": "2024-01-01T09:59:26.6096984+00:00",
+  "LastUpdate_Achievements": "2024-01-01T10:08:24.8716512+00:00"
 }

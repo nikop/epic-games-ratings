@@ -2,13 +2,13 @@
   "ID": "af0ea01162704696bebf8633a52a7a6d",
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
-  "Ranking_Rating": 1049,
+  "Ranking_Rating": 1047,
   "Ranking_Popularity": 209,
   "Ranking_PopularitySum": 190,
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 3.95,
+  "Rating": 3.96,
   "RatingHistory": [
     {
       "Time": "2023-03-29T02:58:45.3340124+00:00",
@@ -5287,6 +5287,12 @@
       "Rating": 3.95,
       "NumberOfAwards": 2770,
       "NumberOfAwardsMax": 585
+    },
+    {
+      "Time": "2024-01-01T09:59:49.4620953+00:00",
+      "Rating": 3.96,
+      "NumberOfAwards": 2770,
+      "NumberOfAwardsMax": 585
     }
   ],
   "ReviewsDisabled": true,
@@ -5351,7 +5357,7 @@
   ],
   "EOS_Progressed": 92829,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 336,
+  "EOS_NewPlayers": 335,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -30290,9 +30296,9 @@
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2024-01-01T06:01:17.3240637+00:00",
-  "LastChanged_Achievements": "2024-01-01T09:04:27.9105029+00:00",
+  "LastChanged": "2024-01-01T09:59:49.4620951+00:00",
+  "LastChanged_Achievements": "2024-01-01T10:03:37.2312872+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:43.6008036+00:00",
-  "LastUpdate_Ratings": "2024-01-01T09:00:47.2940706+00:00",
-  "LastUpdate_Achievements": "2024-01-01T09:04:27.910659+00:00"
+  "LastUpdate_Ratings": "2024-01-01T09:59:49.4620957+00:00",
+  "LastUpdate_Achievements": "2024-01-01T10:03:37.2314013+00:00"
 }

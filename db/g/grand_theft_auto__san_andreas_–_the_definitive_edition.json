@@ -4,10 +4,10 @@
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 522,
   "Ranking_Popularity": 453,
-  "Ranking_PopularitySum": 373,
+  "Ranking_PopularitySum": 374,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -2131,9 +2131,9 @@
       "Count": 31
     }
   ],
-  "EOS_Progressed": 17844,
+  "EOS_Progressed": 17845,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 1147,
+  "EOS_NewPlayers": 1142,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -18531,6 +18531,11 @@
       "Time": "2024-01-01T09:10:51.5396461+00:00",
       "NumProgressed": 17844,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2024-01-01T10:09:30.5001313+00:00",
+      "NumProgressed": 17845,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 35,
@@ -18590,7 +18595,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3390
+      "UsersEstimate": 3391
     },
     {
       "ID": "ACH08",
@@ -18662,7 +18667,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3033
+      "UsersEstimate": 3034
     },
     {
       "ID": "ACH17",
@@ -18821,7 +18826,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 17844,
+      "Progressed": 17845,
       "Completed": 67
     }
   ],
@@ -18829,8 +18834,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-01T01:56:30.1980423+00:00",
-  "LastChanged_Achievements": "2024-01-01T09:10:51.5396459+00:00",
+  "LastChanged_Achievements": "2024-01-01T10:09:30.5001309+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.8114387+00:00",
-  "LastUpdate_Ratings": "2024-01-01T09:01:27.2788894+00:00",
-  "LastUpdate_Achievements": "2024-01-01T09:10:51.5397306+00:00"
+  "LastUpdate_Ratings": "2024-01-01T10:00:17.8181647+00:00",
+  "LastUpdate_Achievements": "2024-01-01T10:09:30.5002228+00:00"
 }

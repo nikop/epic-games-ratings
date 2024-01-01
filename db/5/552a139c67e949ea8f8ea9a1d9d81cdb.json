@@ -4,8 +4,8 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1777,
+  "EOS_Progressed": 1781,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4407,6 +4407,11 @@
       "Time": "2024-01-01T08:05:40.5562257+00:00",
       "NumProgressed": 1777,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-01T10:04:52.6127542+00:00",
+      "NumProgressed": 1781,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4617,9 +4622,9 @@
       "ID": "ML_ACHIEVEMENT_26",
       "SetID": "5k00jcd",
       "Name": "The Nitro Bot",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "ML_ACHIEVEMENT_27",
@@ -4745,9 +4750,9 @@
       "ID": "ML_ACHIEVEMENT_42",
       "SetID": "5k00jcd",
       "Name": "Magic trick",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "ML_ACHIEVEMENT_43",
@@ -4755,7 +4760,7 @@
       "Name": "Mission complete",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ML_ACHIEVEMENT_44",
@@ -4786,20 +4791,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1777,
+      "Progressed": 1781,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1445,
+      "Progressed": 1449,
       "Completed": 1006
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-01T09:06:11.7003323+00:00",
+  "LastChanged_Achievements": "2024-01-01T10:04:52.6127537+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:19.4494243+00:00",
-  "LastUpdate_Ratings": "2024-01-01T08:59:35.4214687+00:00",
-  "LastUpdate_Achievements": "2024-01-01T09:06:11.7004517+00:00"
+  "LastUpdate_Ratings": "2024-01-01T09:58:59.5267196+00:00",
+  "LastUpdate_Achievements": "2024-01-01T10:04:52.6128061+00:00"
 }

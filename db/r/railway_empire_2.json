@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -7653,9 +7653,9 @@
       "ID": "A21",
       "SetID": "9b7p7eo",
       "Name": "Country Life",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 725
+      "UsersEstimate": 751
     },
     {
       "ID": "A22",
@@ -7934,8 +7934,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-12-27T17:00:03.776976+00:00",
-  "LastChanged_Achievements": "2024-01-01T09:06:22.6820851+00:00",
+  "LastChanged_Achievements": "2024-01-01T10:05:00.3795223+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:54.9390802+00:00",
-  "LastUpdate_Ratings": "2024-01-01T08:58:41.3924447+00:00",
-  "LastUpdate_Achievements": "2024-01-01T09:06:22.682149+00:00"
+  "LastUpdate_Ratings": "2024-01-01T09:58:23.3937018+00:00",
+  "LastUpdate_Achievements": "2024-01-01T10:05:00.3795903+00:00"
 }

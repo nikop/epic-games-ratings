@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 317,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -367,7 +367,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2429,
+  "EOS_Progressed": 2431,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 611,
   "EOS_NewCompleters": 0,
@@ -3957,6 +3957,11 @@
       "Time": "2024-01-01T09:10:43.4280054+00:00",
       "NumProgressed": 2429,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-01T10:09:24.4091418+00:00",
+      "NumProgressed": 2431,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -3969,7 +3974,7 @@
       "Name": "Unforeseen",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 2138
+      "UsersEstimate": 2139
     },
     {
       "ID": "achievement_10",
@@ -3977,7 +3982,7 @@
       "Name": "Control is an Illusion",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "achievement_11",
@@ -4017,7 +4022,7 @@
       "Name": "A Perfect Cycle",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "achievement_16",
@@ -4025,7 +4030,7 @@
       "Name": "Recruit",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "achievement_17",
@@ -4057,7 +4062,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1943
+      "UsersEstimate": 1945
     },
     {
       "ID": "achievement_20",
@@ -4113,7 +4118,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1652
+      "UsersEstimate": 1653
     },
     {
       "ID": "achievement_36",
@@ -4137,7 +4142,7 @@
       "Name": "Best Dressed",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "achievement_4",
@@ -4145,7 +4150,7 @@
       "Name": "No More Names",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1239
+      "UsersEstimate": 1240
     },
     {
       "ID": "achievement_41",
@@ -4201,7 +4206,7 @@
       "Name": "Enlisted",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 1797
+      "UsersEstimate": 1799
     },
     {
       "ID": "achievement_49",
@@ -4209,7 +4214,7 @@
       "Name": "Soldier",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "achievement_5",
@@ -4217,7 +4222,7 @@
       "Name": "Initiate",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "achievement_50",
@@ -4257,7 +4262,7 @@
       "Name": "Shroudfane Explorer",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "achievement_6",
@@ -4265,7 +4270,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "achievement_60",
@@ -4329,7 +4334,7 @@
       "Name": "All the Major Food Groups",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "achievement_9",
@@ -4344,7 +4349,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 2429,
+      "Progressed": 2431,
       "Completed": 2
     }
   ],
@@ -4352,8 +4357,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-01T01:53:59.6513692+00:00",
-  "LastChanged_Achievements": "2024-01-01T09:10:43.4280052+00:00",
+  "LastChanged_Achievements": "2024-01-01T10:09:24.4091415+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.4007279+00:00",
-  "LastUpdate_Ratings": "2024-01-01T08:57:48.5204549+00:00",
-  "LastUpdate_Achievements": "2024-01-01T09:10:43.4280602+00:00"
+  "LastUpdate_Ratings": "2024-01-01T09:57:46.5170202+00:00",
+  "LastUpdate_Achievements": "2024-01-01T10:09:24.4092007+00:00"
 }

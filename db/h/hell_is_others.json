@@ -2,13 +2,13 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 767,
+  "Ranking_Rating": 775,
   "Ranking_Popularity": 436,
   "Ranking_PopularitySum": 359,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.4,
+  "Rating": 4.39,
   "RatingHistory": [
     {
       "Time": "2023-02-05T15:57:56.0114161+00:00",
@@ -1343,6 +1343,12 @@
       "Rating": 4.4,
       "NumberOfAwards": 369,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2024-01-01T09:57:51.6910858+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 369,
+      "NumberOfAwardsMax": 54
     }
   ],
   "ReviewsDisabled": false,
@@ -1411,9 +1417,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 260067,
+  "EOS_Progressed": 260068,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 317,
+  "EOS_NewPlayers": 315,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25901,6 +25907,11 @@
       "Time": "2024-01-01T08:05:26.7297478+00:00",
       "NumProgressed": 260067,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-01T10:04:38.6794007+00:00",
+      "NumProgressed": 260068,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -26200,7 +26211,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59815
+      "UsersEstimate": 59816
     },
     {
       "ID": "KillOthers2",
@@ -26359,16 +26370,16 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 260067,
+      "Progressed": 260068,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2023-12-31T23:57:33.3374743+00:00",
-  "LastChanged_Achievements": "2024-01-01T09:05:52.4534518+00:00",
+  "LastChanged": "2024-01-01T09:57:51.6910853+00:00",
+  "LastChanged_Achievements": "2024-01-01T10:04:38.6794004+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:41.7689812+00:00",
-  "LastUpdate_Ratings": "2024-01-01T08:57:56.1678567+00:00",
-  "LastUpdate_Achievements": "2024-01-01T09:05:52.453611+00:00"
+  "LastUpdate_Ratings": "2024-01-01T09:57:51.691086+00:00",
+  "LastUpdate_Achievements": "2024-01-01T10:04:38.6795206+00:00"
 }

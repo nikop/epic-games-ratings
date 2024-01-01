@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 253,
   "Ranking_EOS_NewPlayers": 342,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -2467,9 +2467,9 @@
       "ID": "ACHIEVEMENT_25",
       "SetID": "7pimpda",
       "Name": "Beginner Artificer",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 25,
-      "UsersEstimate": 252
+      "UsersEstimate": 258
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -2700,8 +2700,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2024-01-01T09:09:58.8892687+00:00",
+  "LastChanged_Achievements": "2024-01-01T10:08:52.3392361+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:39.5136135+00:00",
-  "LastUpdate_Ratings": "2024-01-01T09:00:37.2063653+00:00",
-  "LastUpdate_Achievements": "2024-01-01T09:09:58.8893201+00:00"
+  "LastUpdate_Ratings": "2024-01-01T09:59:42.300165+00:00",
+  "LastUpdate_Achievements": "2024-01-01T10:08:52.3393061+00:00"
 }

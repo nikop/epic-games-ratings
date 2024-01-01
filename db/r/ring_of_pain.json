@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 299,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3844,9 +3844,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242148,
+  "EOS_Progressed": 242150,
   "EOS_Completed": 302,
-  "EOS_NewPlayers": 498,
+  "EOS_NewPlayers": 493,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -30304,6 +30304,11 @@
       "Time": "2024-01-01T09:11:07.5963474+00:00",
       "NumProgressed": 242148,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2024-01-01T10:09:43.1316751+00:00",
+      "NumProgressed": 242150,
+      "NumCompleted": 302
     }
   ],
   "TotalAchievements": 138,
@@ -30347,7 +30352,7 @@
       "Name": "First Steps",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2421
+      "UsersEstimate": 2422
     },
     {
       "ID": "CURSE1HP",
@@ -30435,7 +30440,7 @@
       "Name": "Getting A Glimpse",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2421
+      "UsersEstimate": 2422
     },
     {
       "ID": "DEPTH6NOPOTIONS",
@@ -31059,7 +31064,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2421
+      "UsersEstimate": 2422
     },
     {
       "ID": "SPECIALROOMS10",
@@ -31418,13 +31423,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242148,
+      "Progressed": 242150,
       "Completed": 302
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3628,
+      "Progressed": 3630,
       "Completed": 416
     }
   ],
@@ -31432,8 +31437,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-01T04:57:24.2151303+00:00",
-  "LastChanged_Achievements": "2024-01-01T09:11:07.5963472+00:00",
+  "LastChanged_Achievements": "2024-01-01T10:09:43.1316748+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:01.848225+00:00",
-  "LastUpdate_Ratings": "2024-01-01T08:57:21.7190236+00:00",
-  "LastUpdate_Achievements": "2024-01-01T09:11:07.5966112+00:00"
+  "LastUpdate_Ratings": "2024-01-01T09:57:28.1945148+00:00",
+  "LastUpdate_Achievements": "2024-01-01T10:09:43.131985+00:00"
 }

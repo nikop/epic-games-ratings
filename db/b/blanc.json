@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3873,
+  "EOS_Progressed": 3875,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6391,6 +6391,11 @@
       "Time": "2024-01-01T09:07:47.2612129+00:00",
       "NumProgressed": 3873,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-01T10:06:00.0486847+00:00",
+      "NumProgressed": 3875,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -6410,7 +6415,7 @@
       "Name": "A big leap for wolfkind",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "FALLEN_TREE",
@@ -6418,7 +6423,7 @@
       "Name": "Sheltered by the fallen tree",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "HELPING_LITTLE_ONES",
@@ -6426,7 +6431,7 @@
       "Name": "Helping the little ones",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "MOVE_ON",
@@ -6474,7 +6479,7 @@
       "Name": "Stronger together",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "THE_END",
@@ -6505,7 +6510,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3873,
+      "Progressed": 3875,
       "Completed": 6
     }
   ],
@@ -6513,8 +6518,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2024-01-01T09:07:47.2612126+00:00",
+  "LastChanged_Achievements": "2024-01-01T10:06:00.0486842+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:59.0797821+00:00",
-  "LastUpdate_Ratings": "2024-01-01T08:58:50.2111924+00:00",
-  "LastUpdate_Achievements": "2024-01-01T09:07:47.2612599+00:00"
+  "LastUpdate_Ratings": "2024-01-01T09:58:29.5588637+00:00",
+  "LastUpdate_Achievements": "2024-01-01T10:06:00.0487197+00:00"
 }

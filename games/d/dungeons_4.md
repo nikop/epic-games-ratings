@@ -41,8 +41,8 @@ Rating: 4.67 (Ranked 285)
 | Ghost Pirates? Ghost Heroes! | 30.00% | ~204 |
 | Doom Hill | 30.00% | ~204 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 29.00% | ~197 |
+| Forbidden Knowledge | 29.00% | ~197 |
 | Hungry, Hungry Gorgu! | 28.00% | ~190 |
-| Forbidden Knowledge | 28.00% | ~190 |
 | Brimstone Shaken, Not Stirred | 28.00% | ~190 |
 | Stop Tanos! | 27.00% | ~184 |
 | The Rune Sockets of Finitude (Part 1) | 27.00% | ~184 |

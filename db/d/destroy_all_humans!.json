@@ -299,11 +299,11 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 272,
+  "EOS_Progressed": 273,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 1.84,
+  "EOS_Completed_Percentage": 1.83,
   "EosHistory": [
     {
       "Time": "2023-12-18T10:04:38.3586261+00:00",
@@ -1199,6 +1199,11 @@
       "Time": "2024-01-01T06:08:31.8821682+00:00",
       "NumProgressed": 272,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-01T10:06:11.0186899+00:00",
+      "NumProgressed": 273,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -1211,7 +1216,7 @@
       "Name": "Fly Me to the Moon Base",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACH_ABILITY_ABDUCTOBEAMCOW",
@@ -1227,7 +1232,7 @@
       "Name": "Scuttled",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_ABILITY_ECM",
@@ -1249,9 +1254,9 @@
       "ID": "ACH_ABILITY_PKHUMANINTOHUMAN",
       "SetID": "cefn62b",
       "Name": "Yettisoned",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 153
     },
     {
       "ID": "ACH_ABILITY_PKHUMANINTOOCEAN",
@@ -1297,17 +1302,17 @@
       "ID": "ACH_ABILITY_WITHWEAPON",
       "SetID": "cefn62b",
       "Name": "Lie Back and Think of Albion",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 169
     },
     {
       "ID": "ACH_CHALLENGE_ABDUCTIONTHREESTAR",
       "SetID": "cefn62b",
       "Name": "Ouch of Body Experience",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 46
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_CHALLENGE_ANY",
@@ -1379,7 +1384,7 @@
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "ACH_COMBAT_EVADEBAZOOKA",
@@ -1441,9 +1446,9 @@
       "ID": "ACH_INVADE_ROCKWELL",
       "SetID": "cefn62b",
       "Name": "Pimp My Raid",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 142
     },
     {
       "ID": "ACH_INVADE_SANTAMODESTA",
@@ -1459,7 +1464,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ACH_INVADE_UNIONTOWN",
@@ -1483,7 +1488,7 @@
       "Name": "Bodied Sattva",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACH_OBJECTIVES_COMPLETEDALLOPTIONAL",
@@ -1530,15 +1535,15 @@
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 272,
+      "Progressed": 273,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2023-11-09T01:43:19.9714919+00:00",
-  "LastChanged_Achievements": "2024-01-01T09:08:33.5667633+00:00",
+  "LastChanged_Achievements": "2024-01-01T10:06:11.0186894+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:06.6677344+00:00",
-  "LastUpdate_Ratings": "2024-01-01T09:02:39.215999+00:00",
-  "LastUpdate_Achievements": "2024-01-01T09:08:33.5668016+00:00"
+  "LastUpdate_Ratings": "2024-01-01T10:00:31.8613745+00:00",
+  "LastUpdate_Achievements": "2024-01-01T10:06:11.0187432+00:00"
 }

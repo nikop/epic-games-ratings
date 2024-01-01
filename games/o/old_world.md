@@ -25,6 +25,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Keystone | 0.60% | ~96 |
 | Learned | 0.60% | ~96 |
 | Pioneer | 0.60% | ~96 |
+| Developing Cities | 0.60% | ~96 |
 | Judaism | 0.60% | ~96 |
 | Greek Paganism | 0.60% | ~96 |
 | Naming Landmarks | 0.60% | ~96 |
@@ -34,7 +35,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Fountainhead | 0.50% | ~80 |
 | Magnificent | 0.50% | ~80 |
 | Warrior | 0.50% | ~80 |
-| Developing Cities | 0.50% | ~80 |
 | Strong Cities | 0.50% | ~80 |
 | Ishtar Gate | 0.50% | ~80 |
 | Lighthouse | 0.50% | ~80 |

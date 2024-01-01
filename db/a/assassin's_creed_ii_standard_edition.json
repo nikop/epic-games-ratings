@@ -2,13 +2,13 @@
   "ID": "50648c4c6f7f47e98a1b3756ed06cc4a",
   "Name": "Assassin\u0027s Creed II Standard Edition",
   "ProductSlug": "assassins-creed-2",
-  "Ranking_Rating": 133,
+  "Ranking_Rating": 149,
   "Ranking_Popularity": 453,
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 568,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-10-06T15:00:00+00:00",
     "PcReleaseDate": "2014-11-11T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.76,
+  "Rating": 4.75,
   "NumberOfRatings": 315,
   "RatingHistory": [
     {
@@ -1428,10 +1428,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 366,
       "NumberOfAwardsMax": 49
+    },
+    {
+      "Time": "2024-01-01T10:00:37.1898276+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 368,
+      "NumberOfAwardsMax": 49
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 366,
+  "NumberOfAwards": 368,
   "NumberOfAwardsMax": 49,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -1487,7 +1493,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 27
+      "Count": 29
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1507,8 +1513,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:28.9665726+00:00",
-  "LastChanged": "2023-12-31T18:00:51.9923625+00:00",
+  "LastChanged": "2024-01-01T10:00:37.1898275+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:18.898978+00:00",
-  "LastUpdate_Ratings": "2024-01-01T09:02:46.8366722+00:00",
-  "LastUpdate_Achievements": "2024-01-01T09:08:31.1903283+00:00"
+  "LastUpdate_Ratings": "2024-01-01T10:00:37.1898282+00:00",
+  "LastUpdate_Achievements": "2024-01-01T10:06:09.2079767+00:00"
 }

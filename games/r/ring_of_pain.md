@@ -6,9 +6,9 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 1.00% | ~2,421 |
-| Getting A Glimpse | 1.00% | ~2,421 |
-| Uncharted Territory | 1.00% | ~2,421 |
+| First Steps | 1.00% | ~2,422 |
+| Getting A Glimpse | 1.00% | ~2,422 |
+| Uncharted Territory | 1.00% | ~2,422 |
 | Matching | 1.00% | ~36 |
 | That Was Quick | 0.90% | ~2,179 |
 | Colorful Corpse | 0.90% | ~2,179 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,148 (Ranked 72)  
+Progressed: 242,150 (Ranked 72)  
 Completed: 302 (0.12%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -401,7 +401,7 @@ Completed: 302 (0.12%) (Ranked 299)
 | 2023-12-29 | 241,985 | 302 |
 | 2023-12-30 | 242,061 | 302 |
 | 2023-12-31 | 242,129 | 302 |
-| 2024-01-01 | 242,148 | 302 |
+| 2024-01-01 | 242,150 | 302 |
 ## Awards
 Max (Quickly Understood Controls): 1,513  (Ranked 135)  
 Sum: 11,777 (Ranked 88)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 572,
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -345,7 +345,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2197,
+  "EOS_Progressed": 2198,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
@@ -3765,6 +3765,11 @@
       "Time": "2024-01-01T09:06:23.6061625+00:00",
       "NumProgressed": 2197,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T10:05:01.1082515+00:00",
+      "NumProgressed": 2198,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3912,7 +3917,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "Achievement_020",
@@ -4062,9 +4067,9 @@
       "ID": "Achievement_038",
       "SetID": "6b34g18",
       "Name": "What Lies Below",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "Achievement_039",
@@ -4303,7 +4308,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2197,
+      "Progressed": 2198,
       "Completed": 0
     }
   ],
@@ -4311,8 +4316,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-31T15:59:03.0757989+00:00",
-  "LastChanged_Achievements": "2024-01-01T09:06:23.6061624+00:00",
+  "LastChanged_Achievements": "2024-01-01T10:05:01.1082511+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.8280502+00:00",
-  "LastUpdate_Ratings": "2024-01-01T09:00:32.6065024+00:00",
-  "LastUpdate_Achievements": "2024-01-01T09:06:23.6062285+00:00"
+  "LastUpdate_Ratings": "2024-01-01T09:59:39.1810621+00:00",
+  "LastUpdate_Achievements": "2024-01-01T10:05:01.1083133+00:00"
 }

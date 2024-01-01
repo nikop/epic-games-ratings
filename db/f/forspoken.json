@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 368,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -565,9 +565,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 45946,
+  "EOS_Progressed": 45948,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 818,
+  "EOS_NewPlayers": 811,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17215,6 +17215,11 @@
       "Time": "2024-01-01T09:05:36.442133+00:00",
       "NumProgressed": 45946,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-01T10:04:26.863741+00:00",
+      "NumProgressed": 45948,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -17440,9 +17445,9 @@
       "ID": "LOCATION_TEN",
       "SetID": "6d0g7k8",
       "Name": "Explorer: Seeker",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2297
+      "UsersEstimate": 2757
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -17649,22 +17654,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 45946,
+      "Progressed": 45948,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 10783,
-      "Completed": 10783
+      "Progressed": 10785,
+      "Completed": 10785
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-01T08:03:24.63653+00:00",
-  "LastChanged_Achievements": "2024-01-01T09:05:36.4421327+00:00",
+  "LastChanged_Achievements": "2024-01-01T10:04:26.8637407+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:48.1998363+00:00",
-  "LastUpdate_Ratings": "2024-01-01T09:02:58.7577122+00:00",
-  "LastUpdate_Achievements": "2024-01-01T09:05:36.4422276+00:00"
+  "LastUpdate_Ratings": "2024-01-01T10:02:34.6355665+00:00",
+  "LastUpdate_Achievements": "2024-01-01T10:04:26.863844+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "sunless-sea",
   "Ranking_Rating": 445,
   "Ranking_Popularity": 289,
-  "Ranking_PopularitySum": 374,
+  "Ranking_PopularitySum": 375,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 368,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -802,9 +802,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 43325,
+  "EOS_Progressed": 43328,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 462,
+  "EOS_NewPlayers": 464,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -26942,6 +26942,11 @@
       "Time": "2024-01-01T09:06:21.4747613+00:00",
       "NumProgressed": 43325,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-01T10:04:59.5057955+00:00",
+      "NumProgressed": 43328,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -26969,7 +26974,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7365
+      "UsersEstimate": 7366
     },
     {
       "ID": "ach_antiquarian10",
@@ -27073,7 +27078,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 15597
+      "UsersEstimate": 15598
     },
     {
       "ID": "ach_die10",
@@ -27113,7 +27118,7 @@
       "Name": "Roaring Rise",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "ach_hunterskeep",
@@ -27129,7 +27134,7 @@
       "Name": "I am the Captain of my Soul",
       "Percentage": 2,
       "XP": 70,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "ach_ladylilac",
@@ -27305,7 +27310,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 7798
+      "UsersEstimate": 7799
     },
     {
       "ID": "ach_terror100",
@@ -27384,15 +27389,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 43325,
+      "Progressed": 43328,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-12-30T23:57:07.6493697+00:00",
-  "LastChanged_Achievements": "2024-01-01T09:06:21.4747611+00:00",
+  "LastChanged_Achievements": "2024-01-01T10:04:59.5057951+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:43.1015004+00:00",
-  "LastUpdate_Ratings": "2024-01-01T08:57:53.8825866+00:00",
-  "LastUpdate_Achievements": "2024-01-01T09:06:21.4749058+00:00"
+  "LastUpdate_Ratings": "2024-01-01T09:57:50.0135598+00:00",
+  "LastUpdate_Achievements": "2024-01-01T10:04:59.5059576+00:00"
 }

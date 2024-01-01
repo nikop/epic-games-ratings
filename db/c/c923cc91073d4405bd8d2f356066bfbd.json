@@ -4,8 +4,8 @@
   "ProductSlug": "bursthero-dd5a56",
   "Ranking_EOS_Progress": 602,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-12-29T00:00:00+00:00",
     "PcReleaseDate": "2023-05-14T15:00:00+00:00",
@@ -150,9 +150,9 @@
       "ID": "CHALLENGER_CHAOS",
       "SetID": "1fek4an",
       "Name": "Chaos Challenger",
-      "Percentage": 8,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "COMBO_BULLETSIZE",
@@ -406,9 +406,9 @@
       "ID": "LEVEL_COMPLETE_0_0",
       "SetID": "1fek4an",
       "Name": "Grass",
-      "Percentage": 73,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "LEVEL_COMPLETE_0_12",
@@ -646,9 +646,9 @@
       "ID": "SHOP_LEVEL_UP_COMBO_2",
       "SetID": "1fek4an",
       "Name": "Level Skip",
-      "Percentage": 42,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "SHOP_LEVEL_UP_COMBO_MAX",
@@ -693,8 +693,8 @@
   ],
   "FirstSeen": "2023-12-29T13:57:03.3261861+00:00",
   "FirstSeenAchievements": "2023-12-16T10:03:32.9103598+00:00",
-  "LastChanged_Achievements": "2024-01-01T09:08:47.0350623+00:00",
+  "LastChanged_Achievements": "2024-01-01T10:06:20.7854954+00:00",
   "LastUpdate_AppInfo": "2023-12-27T12:59:42.9426347+00:00",
-  "LastUpdate_Ratings": "2024-01-01T08:58:54.2390454+00:00",
-  "LastUpdate_Achievements": "2024-01-01T09:08:47.035115+00:00"
+  "LastUpdate_Ratings": "2024-01-01T09:58:32.0139262+00:00",
+  "LastUpdate_Achievements": "2024-01-01T10:06:20.7855507+00:00"
 }

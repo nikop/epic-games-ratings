@@ -29,11 +29,11 @@
 | My pants squeak when I walk | 45.00% | ~65 |
 | Self assessed tax return | 43.00% | ~62 |
 | Surprise!! | 43.00% | ~62 |
-| Haemochromatosis | 40.00% | ~58 |
+| Haemochromatosis | 41.00% | ~59 |
 | Make America Grate Again | 39.00% | ~57 |
 | Pasta Bolognese | 37.00% | ~54 |
+| You can't stop me, bro! | 36.00% | ~52 |
 | You are no match for me, Billy! | 35.00% | ~51 |
-| You can't stop me, bro! | 35.00% | ~51 |
 | Karaoke king | 34.00% | ~49 |
 | Meatballs, coming up! | 33.00% | ~48 |
 | Catch the bus with me! | 32.00% | ~46 |
@@ -57,9 +57,9 @@
 | Timber! | 10.00% | ~14 |
 | Grumpy Immortal | 10.00% | ~14 |
 | Free Of Chains | 10.00% | ~14 |
+| I want to throw up! | 9.00% | ~13 |
 | I drink, but I'm not a drunk! | 9.00% | ~13 |
 | Ancient Ruins of Moist Overhangs | 8.00% | ~12 |
-| I want to throw up! | 8.00% | ~12 |
 | Scrambled Eggs | 8.00% | ~12 |
 | My name is Whoopass, SIR Whoopass! | 7.00% | ~10 |
 | Ancient Ruins of Leaky Roof | 6.00% | ~9 |

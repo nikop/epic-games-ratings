@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17952,
+  "EOS_Progressed": 17954,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 587,
+  "EOS_NewPlayers": 584,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -15890,6 +15890,11 @@
       "Time": "2024-01-01T09:04:02.4057312+00:00",
       "NumProgressed": 17952,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-01T10:03:18.4246632+00:00",
+      "NumProgressed": 17954,
+      "NumCompleted": 58
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15934,7 +15939,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2872
+      "UsersEstimate": 2873
     },
     {
       "ID": "14",
@@ -16142,7 +16147,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "32",
@@ -16174,20 +16179,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17952,
+      "Progressed": 17954,
       "Completed": 58
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3906,
+      "Progressed": 3908,
       "Completed": 1140
     }
   ],
@@ -16195,8 +16200,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T23:58:17.8612142+00:00",
-  "LastChanged_Achievements": "2024-01-01T09:04:02.4057309+00:00",
+  "LastChanged_Achievements": "2024-01-01T10:03:18.4246627+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2024-01-01T08:59:00.3408032+00:00",
-  "LastUpdate_Achievements": "2024-01-01T09:04:02.4058311+00:00"
+  "LastUpdate_Ratings": "2024-01-01T09:58:36.1218189+00:00",
+  "LastUpdate_Achievements": "2024-01-01T10:03:18.4247722+00:00"
 }

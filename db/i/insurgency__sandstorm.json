@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 40,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
     "PcReleaseDate": "2018-12-12T12:21:00+00:00",
@@ -4636,7 +4636,7 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 516588,
+  "EOS_Progressed": 516612,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 6319,
   "EOS_NewCompleters": 0,
@@ -34036,6 +34036,11 @@
       "Time": "2024-01-01T09:09:09.5566342+00:00",
       "NumProgressed": 516588,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-01T10:08:16.7265621+00:00",
+      "NumProgressed": 516612,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -34063,7 +34068,7 @@
       "Name": "Carrying",
       "Percentage": 0.9,
       "XP": 70,
-      "UsersEstimate": 4649
+      "UsersEstimate": 4650
     },
     {
       "ID": "ACH_CHECKPOINT_VICTORY",
@@ -34095,7 +34100,7 @@
       "Name": "Efficient",
       "Percentage": 0.9,
       "XP": 35,
-      "UsersEstimate": 4649
+      "UsersEstimate": 4650
     },
     {
       "ID": "ACH_EXPLOITATIVE",
@@ -34183,7 +34188,7 @@
       "Name": "Mount \u0026 Gun",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 4649
+      "UsersEstimate": 4650
     },
     {
       "ID": "ACH_NUMBAH_ONE",
@@ -34199,7 +34204,7 @@
       "Name": "Personal",
       "Percentage": 0.9,
       "XP": 35,
-      "UsersEstimate": 4649
+      "UsersEstimate": 4650
     },
     {
       "ID": "ACH_PLAY_TO_WIN",
@@ -34311,7 +34316,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 25829
+      "UsersEstimate": 25831
     },
     {
       "ID": "ACH_WET_FEET",
@@ -34326,15 +34331,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 516588,
+      "Progressed": 516612,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-12-31T20:57:34.3386123+00:00",
-  "LastChanged_Achievements": "2024-01-01T09:09:09.556634+00:00",
+  "LastChanged_Achievements": "2024-01-01T10:08:16.7265617+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:00.66739+00:00",
-  "LastUpdate_Ratings": "2024-01-01T08:57:44.2437177+00:00",
-  "LastUpdate_Achievements": "2024-01-01T09:09:09.5568027+00:00"
+  "LastUpdate_Ratings": "2024-01-01T09:57:43.4685181+00:00",
+  "LastUpdate_Achievements": "2024-01-01T10:08:16.7266903+00:00"
 }

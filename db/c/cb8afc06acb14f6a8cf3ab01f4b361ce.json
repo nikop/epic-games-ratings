@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 52,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -455,9 +455,9 @@
       "Count": 75
     }
   ],
-  "EOS_Progressed": 339066,
+  "EOS_Progressed": 339084,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 4297,
+  "EOS_NewPlayers": 4294,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11745,6 +11745,11 @@
       "Time": "2024-01-01T09:09:18.8490859+00:00",
       "NumProgressed": 339066,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-01T10:08:23.2368765+00:00",
+      "NumProgressed": 339084,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -11765,7 +11770,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 10172
+      "UsersEstimate": 10173
     },
     {
       "ID": "S03_OTWA",
@@ -11789,7 +11794,7 @@
       "Name": "Back to your senses",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 2373
+      "UsersEstimate": 2374
     },
     {
       "ID": "S06_LWTC",
@@ -11797,7 +11802,7 @@
       "Name": "They tricked me",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 2034
+      "UsersEstimate": 2035
     },
     {
       "ID": "S07_INWA",
@@ -11805,7 +11810,7 @@
       "Name": "We need to talk",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 2034
+      "UsersEstimate": 2035
     },
     {
       "ID": "S08_MNSA",
@@ -11925,7 +11930,7 @@
       "Name": "They won\u0027t last long",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 2034
+      "UsersEstimate": 2035
     },
     {
       "ID": "S23_ETHEREAL",
@@ -11989,7 +11994,7 @@
       "Name": "Bring it on!",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 2373
+      "UsersEstimate": 2374
     },
     {
       "ID": "S31_CHNG_DIAMOND",
@@ -12069,14 +12074,14 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6781
+      "UsersEstimate": 6782
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 339066,
+      "Progressed": 339084,
       "Completed": 7
     }
   ],
@@ -12084,8 +12089,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-29T17:59:10.0786957+00:00",
-  "LastChanged_Achievements": "2024-01-01T09:09:18.8490857+00:00",
+  "LastChanged_Achievements": "2024-01-01T10:08:23.2368757+00:00",
   "LastUpdate_AppInfo": "2023-12-28T22:56:57.7073923+00:00",
-  "LastUpdate_Ratings": "2024-01-01T09:00:40.783111+00:00",
-  "LastUpdate_Achievements": "2024-01-01T09:09:18.8491512+00:00"
+  "LastUpdate_Ratings": "2024-01-01T09:59:44.6966578+00:00",
+  "LastUpdate_Achievements": "2024-01-01T10:08:23.2369625+00:00"
 }

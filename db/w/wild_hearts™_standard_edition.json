@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1052,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 189,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -3576,9 +3576,9 @@
       "ID": "achievement_2",
       "SetID": "2cpn27e",
       "Name": "Mountain Splitter",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 494
+      "UsersEstimate": 505
     },
     {
       "ID": "achievement_20",
@@ -3878,8 +3878,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-01T09:10:08.0918347+00:00",
+  "LastChanged_Achievements": "2024-01-01T10:08:59.0126558+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:22.7723621+00:00",
-  "LastUpdate_Ratings": "2024-01-01T09:00:00.390239+00:00",
-  "LastUpdate_Achievements": "2024-01-01T09:10:08.0918881+00:00"
+  "LastUpdate_Ratings": "2024-01-01T09:59:16.5150892+00:00",
+  "LastUpdate_Achievements": "2024-01-01T10:08:59.012709+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 452,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-19T23:00:00+00:00",
     "PcReleaseDate": "2022-08-18T17:00:00+00:00",
@@ -892,9 +892,9 @@
       "ID": "DODGE_3",
       "SetID": "9gfkh7c",
       "Name": "I want to throw up!",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "DRUNK_1",
@@ -1132,9 +1132,9 @@
       "ID": "KNIGHT_1",
       "SetID": "9gfkh7c",
       "Name": "You can\u0027t stop me, bro!",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "LEVELUP_1",
@@ -1180,9 +1180,9 @@
       "ID": "METAL_BARS_SWA",
       "SetID": "9gfkh7c",
       "Name": "Haemochromatosis",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "MOUNT_1",
@@ -1331,8 +1331,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2024-01-01T09:11:06.29617+00:00",
+  "LastChanged_Achievements": "2024-01-01T10:09:42.1104965+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:32.4318618+00:00",
-  "LastUpdate_Ratings": "2024-01-01T09:03:27.6204693+00:00",
-  "LastUpdate_Achievements": "2024-01-01T09:11:06.2962388+00:00"
+  "LastUpdate_Ratings": "2024-01-01T10:02:53.8963561+00:00",
+  "LastUpdate_Achievements": "2024-01-01T10:09:42.1105843+00:00"
 }

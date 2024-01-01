@@ -8,25 +8,25 @@ Number of Ratings: 7,767  (23.09.2022)
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 12.00% | ~715 |
 | Lost and Found | 7.00% | ~417 |
-| Autodidact | 6.00% | ~7,865 |
-| This guy... again? | 6.00% | ~357 |
-| Serenity Now! | 5.00% | ~6,554 |
-| This Belongs in a Museum | 5.00% | ~6,554 |
-| Creep and Sleep | 5.00% | ~6,554 |
-| Overdue Notice | 5.00% | ~6,554 |
-| Escape from the Black Hole | 5.00% | ~6,554 |
+| Autodidact | 6.00% | ~7,866 |
+| This guy... again? | 6.00% | ~358 |
+| Serenity Now! | 5.00% | ~6,555 |
+| This Belongs in a Museum | 5.00% | ~6,555 |
+| Creep and Sleep | 5.00% | ~6,555 |
+| Overdue Notice | 5.00% | ~6,555 |
+| Escape from the Black Hole | 5.00% | ~6,555 |
 | Ploughshares to Swords | 5.00% | ~298 |
 | Bloody Graduation | 5.00% | ~298 |
-| Don't Make Me Turn This Coach Around | 4.00% | ~5,243 |
-| It Rings a Bell | 4.00% | ~5,243 |
-| Not Today! | 4.00% | ~5,243 |
-| Meat and Greet | 4.00% | ~5,243 |
-| Catch and Decease | 4.00% | ~5,243 |
-| It Happens | 4.00% | ~5,243 |
-| Rush Hour | 4.00% | ~5,243 |
-| To Grandmother's House | 4.00% | ~5,243 |
-| A Place to Lay Your Head | 4.00% | ~5,243 |
-| FNG | 4.00% | ~5,243 |
+| Don't Make Me Turn This Coach Around | 4.00% | ~5,244 |
+| It Rings a Bell | 4.00% | ~5,244 |
+| Not Today! | 4.00% | ~5,244 |
+| Meat and Greet | 4.00% | ~5,244 |
+| Catch and Decease | 4.00% | ~5,244 |
+| It Happens | 4.00% | ~5,244 |
+| Rush Hour | 4.00% | ~5,244 |
+| To Grandmother's House | 4.00% | ~5,244 |
+| A Place to Lay Your Head | 4.00% | ~5,244 |
+| FNG | 4.00% | ~5,244 |
 | Friends 'Til the End | 4.00% | ~238 |
 | Resurrection | 3.00% | ~3,933 |
 | Unleash Hell | 3.00% | ~3,933 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,086 (Ranked 90)  
+Progressed: 131,092 (Ranked 90)  
 Completed: 3 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,7 +332,7 @@ Completed: 3 (0.00%) (Ranked 390)
 | 2023-12-29 | 130,627 | 3 |
 | 2023-12-30 | 130,838 | 3 |
 | 2023-12-31 | 131,026 | 3 |
-| 2024-01-01 | 131,086 | 3 |
+| 2024-01-01 | 131,092 | 3 |
 ## Awards
 Max (Character Customization): 7,919  (Ranked 50)  
 Sum: 21,312 (Ranked 58)  
