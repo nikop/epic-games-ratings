@@ -7,9 +7,9 @@
 | Mathematic | 86.00% | ~197 |
 | Digging a Hole | 76.00% | ~174 |
 | It's Yours, My Friend | 72.00% | ~165 |
-| Conducted Trade | 65.00% | ~149 |
-| Going Places | 63.00% | ~144 |
-| Aristocratic | 60.00% | ~137 |
+| Conducted Trade | 66.00% | ~151 |
+| Going Places | 64.00% | ~147 |
+| Aristocratic | 61.00% | ~140 |
 | Tutti Frutti | 55.00% | ~126 |
 | Gotta Go Fast | 44.00% | ~101 |
 | Slotting Machine | 44.00% | ~101 |
@@ -29,7 +29,7 @@
 | Real Purdy | 4.00% | ~9 |
 | Stack Overflow | 4.00% | ~9 |
 | Interstellar Performance | 2.00% | ~5 |
-| I'm A Lumberbot | 0.90% | ~2 |
+| I'm A Lumberbot | 1.00% | ~2 |
 | Yup. | 0.40% | ~1 |
 | Nothing But Road | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

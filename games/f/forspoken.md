@@ -5,14 +5,14 @@ Rating: 4.14 (Ranked 995)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 12.00% | ~5,520 |
-| Unlocked Potential | 11.00% | ~5,060 |
-| Tinkerer | 8.00% | ~3,680 |
-| Leapfrogger | 7.00% | ~3,220 |
-| Knock 'Em Dead | 7.00% | ~3,220 |
-| Pilgrimage: Initiate | 7.00% | ~3,220 |
-| Hell of a Run | 7.00% | ~3,220 |
-| Call of the Fount: Baptized | 7.00% | ~3,220 |
+| Attachments | 12.00% | ~5,521 |
+| Unlocked Potential | 11.00% | ~5,061 |
+| Tinkerer | 8.00% | ~3,681 |
+| Leapfrogger | 7.00% | ~3,221 |
+| Knock 'Em Dead | 7.00% | ~3,221 |
+| Pilgrimage: Initiate | 7.00% | ~3,221 |
+| Hell of a Run | 7.00% | ~3,221 |
+| Call of the Fount: Baptized | 7.00% | ~3,221 |
 | No Mercy | 6.00% | ~2,760 |
 | Explorer: Seeker | 6.00% | ~2,760 |
 | Stuck | 5.00% | ~2,300 |
@@ -39,16 +39,16 @@ Rating: 4.14 (Ranked 995)
 | Awakening | 0.60% | ~276 |
 | Explorer: Trailblazer | 0.60% | ~276 |
 | Through the Eyes of Another: Seer | 0.50% | ~230 |
-| Craftsperson | 0.40% | ~184 |
 | Archivist | 0.30% | ~138 |
+| Craftsperson | 0.30% | ~138 |
 | Tit for Tat | 0.30% | ~138 |
-| A Roaring Trade | 0.30% | ~138 |
 | Promises | 0.30% | ~138 |
-| Rebirth | 0.30% | ~138 |
 | Paragon | 0.20% | ~92 |
 | Pilgrimage: Adept | 0.20% | ~92 |
 | Call of the Fount: Beatified | 0.20% | ~92 |
 | I Can Fly! | 0.20% | ~92 |
+| A Roaring Trade | 0.20% | ~92 |
+| Rebirth | 0.20% | ~92 |
 | Abominizer | 0.10% | ~46 |
 | Through the Eyes of Another: Visionary | 0.10% | ~46 |
 | Kit and Caboodle | 0.10% | ~46 |
@@ -59,7 +59,7 @@ Rating: 4.14 (Ranked 995)
 | Remembrance | 0.10% | ~46 |
 | Cat Person | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,997 (Ranked 125)  
+Progressed: 46,008 (Ranked 125)  
 Completed: 4 (0.01%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 4 (0.01%) (Ranked 368)
 | 2023-12-29 | 45,657 | 3 |
 | 2023-12-30 | 45,788 | 3 |
 | 2023-12-31 | 45,906 | 4 |
-| 2024-01-01 | 45,997 | 4 |
+| 2024-01-01 | 46,008 | 4 |
 ## Awards
 Max (Character Customization): 37  (Ranked 489)  
 Sum: 37 (Ranked 523)  

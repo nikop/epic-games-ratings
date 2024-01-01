@@ -42,26 +42,26 @@
 | Ripe Meat Off The Bone! | 28.00% | ~41 |
 | Kleptomaniac | 28.00% | ~41 |
 | A Megapint...? | 26.00% | ~38 |
+| Your daily dose of Vitamin C. | 26.00% | ~38 |
 | Hovering around | 26.00% | ~38 |
 | You're not so Big anymore, Boi! | 25.00% | ~36 |
-| Your daily dose of Vitamin C. | 25.00% | ~36 |
 | I cant stand still! | 23.00% | ~33 |
 | Slimy... yet satisfying | 21.00% | ~30 |
 | Master Butcher | 19.00% | ~28 |
 | Just wing it! | 19.00% | ~28 |
-| Deal with it | 17.00% | ~25 |
+| Deal with it | 18.00% | ~26 |
 | Yeehaw!!! | 15.00% | ~22 |
 | You're looking mozzare-hella good! | 14.00% | ~20 |
 | Ancient Ruins of Dirty Feet | 14.00% | ~20 |
+| Timber! | 11.00% | ~16 |
+| Free Of Chains | 11.00% | ~16 |
 | Spoiler alert! | 10.00% | ~14 |
-| Timber! | 10.00% | ~14 |
+| I drink, but I'm not a drunk! | 10.00% | ~14 |
 | Grumpy Immortal | 10.00% | ~14 |
-| Free Of Chains | 10.00% | ~14 |
 | I want to throw up! | 9.00% | ~13 |
-| I drink, but I'm not a drunk! | 9.00% | ~13 |
 | Ancient Ruins of Moist Overhangs | 8.00% | ~12 |
+| My name is Whoopass, SIR Whoopass! | 8.00% | ~12 |
 | Scrambled Eggs | 8.00% | ~12 |
-| My name is Whoopass, SIR Whoopass! | 7.00% | ~10 |
 | Ancient Ruins of Leaky Roof | 6.00% | ~9 |
 | Ancient Ruins of Misplaced Belongings | 5.00% | ~7 |
 | Ancient Ruins of Stubbed Toes | 5.00% | ~7 |

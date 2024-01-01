@@ -11,7 +11,7 @@ Rating: 4.55 (Ranked 523)
 | Philanthropist | 61.00% | ~92 |
 | Archer | 43.00% | ~65 |
 | The brave little tailor | 41.00% | ~62 |
-| Field hand | 38.00% | ~57 |
+| Field hand | 39.00% | ~59 |
 | Samaritan | 32.00% | ~48 |
 | Well-to-do | 32.00% | ~48 |
 | The merciful one | 30.00% | ~45 |
@@ -20,24 +20,24 @@ Rating: 4.55 (Ranked 523)
 | Idiot | 23.00% | ~35 |
 | Beast slayer | 21.00% | ~32 |
 | Death of a legend | 18.00% | ~27 |
+| Wise man | 17.00% | ~26 |
 | Family man | 17.00% | ~26 |
 | Archaeologist | 17.00% | ~26 |
 | Ogre friend | 17.00% | ~26 |
 | Fence | 17.00% | ~26 |
 | Sidelined | 17.00% | ~26 |
-| Wise man | 16.00% | ~24 |
 | Little hero | 16.00% | ~24 |
 | The fourth triplet | 16.00% | ~24 |
 | Hard worker | 15.00% | ~23 |
+| Master detective | 15.00% | ~23 |
 | Ghost hunter | 14.00% | ~21 |
-| Master detective | 14.00% | ~21 |
 | Pandora's box | 13.00% | ~20 |
 | Workaholic | 12.00% | ~18 |
 | Peacekeeper | 12.00% | ~18 |
 | Defender | 11.00% | ~17 |
+| Safecracker | 10.00% | ~15 |
 | Freedom fighter | 9.00% | ~14 |
 | Showdown | 9.00% | ~14 |
-| Safecracker | 9.00% | ~14 |
 | Master thief | 9.00% | ~14 |
 | King of the handymen | 8.00% | ~12 |
 | Titan Lord | 7.00% | ~11 |

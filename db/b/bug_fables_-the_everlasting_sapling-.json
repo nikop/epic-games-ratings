@@ -4,8 +4,8 @@
   "ProductSlug": "bug-fables-the-everlasting-sapling-851aa9",
   "Ranking_EOS_Progress": 480,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 461,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 446,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-04-08T00:00:00+00:00",
     "PcReleaseDate": "2022-04-08T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 108,
+  "EOS_Progressed": 109,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -254,6 +254,11 @@
       "Time": "2023-12-31T17:09:37.3927553+00:00",
       "NumProgressed": 108,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T18:10:30.5698836+00:00",
+      "NumProgressed": 109,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -279,9 +284,9 @@
       "ID": "BFT_CH1",
       "SetID": "7o7kd30",
       "Name": "Chapter 1 Complete",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "BFT_CH1HB",
@@ -295,7 +300,7 @@
       "ID": "BFT_CH2",
       "SetID": "7o7kd30",
       "Name": "Chapter 2 Complete",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 15,
       "UsersEstimate": 46
     },
@@ -303,7 +308,7 @@
       "ID": "BFT_CH2HB",
       "SetID": "7o7kd30",
       "Name": "The Guardian",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
       "UsersEstimate": 32
     },
@@ -313,7 +318,7 @@
       "Name": "Chapter 3 Complete",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "BFT_CH3HB",
@@ -335,7 +340,7 @@
       "ID": "BFT_CH4HB",
       "SetID": "7o7kd30",
       "Name": "Always Watchful",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
       "UsersEstimate": 19
     },
@@ -375,7 +380,7 @@
       "ID": "BFT_CH7",
       "SetID": "7o7kd30",
       "Name": "Chapter 7 Complete",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
       "UsersEstimate": 19
     },
@@ -391,9 +396,9 @@
       "ID": "BFT_CHOMP",
       "SetID": "7o7kd30",
       "Name": "Plant Enchanter",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 65,
-      "UsersEstimate": 21
+      "UsersEstimate": 20
     },
     {
       "ID": "BFT_COOK",
@@ -495,16 +500,16 @@
       "ID": "BFT_VI",
       "SetID": "7o7kd30",
       "Name": "Reconciliation",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 65,
-      "UsersEstimate": 21
+      "UsersEstimate": 20
     }
   ],
   "AchievementSets": [
     {
       "ID": "7o7kd30",
       "IsBase": true,
-      "Progressed": 108,
+      "Progressed": 109,
       "Completed": 0
     }
   ],
@@ -512,8 +517,8 @@
   "FirstSeenRating": "2023-03-31T05:58:05.5070215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:45.7911439+00:00",
   "LastChanged": "2023-03-31T05:58:05.5070216+00:00",
-  "LastChanged_Achievements": "2024-01-01T17:10:49.0054257+00:00",
+  "LastChanged_Achievements": "2024-01-01T18:10:30.5698831+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:46.6433066+00:00",
-  "LastUpdate_Ratings": "2024-01-01T16:58:51.3199376+00:00",
-  "LastUpdate_Achievements": "2024-01-01T17:10:49.0054465+00:00"
+  "LastUpdate_Ratings": "2024-01-01T17:58:46.155108+00:00",
+  "LastUpdate_Achievements": "2024-01-01T18:10:30.5699038+00:00"
 }

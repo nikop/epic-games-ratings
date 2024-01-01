@@ -2,13 +2,13 @@
   "ID": "9bcf72043732431397782f3a32efbbd5",
   "Name": "Darksiders Genesis",
   "ProductSlug": "darksiders-genesis",
-  "Ranking_Rating": 632,
+  "Ranking_Rating": 633,
   "Ranking_Popularity": 467,
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 373,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-07-16T16:00:00+00:00",
     "PcReleaseDate": "2019-12-05T15:00:00+00:00",
@@ -445,9 +445,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 349,
+  "EOS_Progressed": 350,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1405,6 +1405,11 @@
       "Time": "2024-01-01T17:10:46.5889552+00:00",
       "NumProgressed": 349,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T18:10:28.2768368+00:00",
+      "NumProgressed": 350,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:09:59.7070954+00:00",
@@ -1433,7 +1438,7 @@
       "Name": "Astarte",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Belial",
@@ -1457,7 +1462,7 @@
       "Name": "Close the Rift",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Collector",
@@ -1513,7 +1518,7 @@
       "Name": "Hell\u0027s Forge",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Infested",
@@ -1545,7 +1550,7 @@
       "Name": "Master of War",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "MintI",
@@ -1553,7 +1558,7 @@
       "Name": "Mint I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "MintII",
@@ -1601,7 +1606,7 @@
       "Name": "Soul Cache",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "TheDeadCourt",
@@ -1609,7 +1614,7 @@
       "Name": "The Dead Court",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "TheGardenofForkingPaths",
@@ -1656,15 +1661,15 @@
     {
       "ID": "329ak73",
       "IsBase": true,
-      "Progressed": 349,
+      "Progressed": 350,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2023-12-28T14:59:58.8011191+00:00",
-  "LastChanged_Achievements": "2024-01-01T17:10:46.5889549+00:00",
+  "LastChanged_Achievements": "2024-01-01T18:10:28.2768366+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.7338435+00:00",
-  "LastUpdate_Ratings": "2024-01-01T16:58:56.277741+00:00",
-  "LastUpdate_Achievements": "2024-01-01T17:10:46.5889812+00:00"
+  "LastUpdate_Ratings": "2024-01-01T17:58:50.6365602+00:00",
+  "LastUpdate_Achievements": "2024-01-01T18:10:28.2768661+00:00"
 }

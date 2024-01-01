@@ -4,8 +4,8 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1289,
+  "EOS_Progressed": 1290,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3429,6 +3429,11 @@
       "Time": "2024-01-01T17:11:12.2772741+00:00",
       "NumProgressed": 1289,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T18:10:52.7961738+00:00",
+      "NumProgressed": 1290,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3440,7 +3445,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 915
+      "UsersEstimate": 916
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -3448,7 +3453,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -3478,9 +3483,9 @@
       "ID": "ATK_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Beware of the Goat",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 554
+      "UsersEstimate": 568
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -3488,7 +3493,7 @@
       "Name": "Goat Whisperer",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ATK_ACHIEVEMENT_3",
@@ -3568,7 +3573,7 @@
       "Name": "Where There\u0027s Smoke There\u0027s Fire",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "BURN_ACHIEVEMENT_3",
@@ -3678,9 +3683,9 @@
       "ID": "FREEM_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Where Is Houdini?",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 219
+      "UsersEstimate": 232
     },
     {
       "ID": "FREE_ACHIEVEMENT_1",
@@ -3726,17 +3731,17 @@
       "ID": "KILLR_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Who You Gonna Call?",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 490
+      "UsersEstimate": 503
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
       "SetID": "9lcahn0",
       "Name": "Decakill!",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 400
+      "UsersEstimate": 413
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -3830,9 +3835,9 @@
       "ID": "MEAT_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Night Snack",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 361
+      "UsersEstimate": 374
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -3888,7 +3893,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -3967,14 +3972,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1289,
+      "Progressed": 1290,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-01T17:11:12.2772738+00:00",
+  "LastChanged_Achievements": "2024-01-01T18:10:52.7961734+00:00",
   "LastUpdate_AppInfo": "2023-12-29T02:57:14.6537743+00:00",
-  "LastUpdate_Ratings": "2024-01-01T16:59:52.3238256+00:00",
-  "LastUpdate_Achievements": "2024-01-01T17:11:12.2773441+00:00"
+  "LastUpdate_Ratings": "2024-01-01T17:59:43.691431+00:00",
+  "LastUpdate_Achievements": "2024-01-01T18:10:52.7962612+00:00"
 }

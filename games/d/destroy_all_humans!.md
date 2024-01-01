@@ -14,10 +14,10 @@ Number of Ratings: 85  (23.09.2022)
 | Yettisoned | 57.00% | ~158 |
 | Perfect Probulator | 54.00% | ~150 |
 | Pimp My Raid | 52.00% | ~145 |
-| Lobster Blisque | 49.00% | ~136 |
+| Lobster Blisque | 50.00% | ~139 |
 | Earthly Pleasures | 47.00% | ~131 |
 | Fly Me to the Moon Base | 46.00% | ~128 |
-| Ducks in a Row, Fish in a Barrel | 43.00% | ~120 |
+| Ducks in a Row, Fish in a Barrel | 44.00% | ~122 |
 | Forbidden Donut | 36.00% | ~100 |
 | Freshly Squeezed | 36.00% | ~100 |
 | Bodied Sattva | 35.00% | ~97 |

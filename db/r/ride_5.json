@@ -2,13 +2,13 @@
   "ID": "82aa77fde0b14916a86b66b1e6345c30",
   "Name": "RIDE 5",
   "ProductSlug": "ride-5",
-  "Ranking_Rating": 651,
+  "Ranking_Rating": 573,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -20,11 +20,17 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.48,
+  "Rating": 4.52,
   "RatingHistory": [
     {
       "Time": "2023-12-26T23:58:21.0860973+00:00",
       "Rating": 4.48,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-01T17:57:32.3895096+00:00",
+      "Rating": 4.52,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -33,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3189,
+  "EOS_Progressed": 3190,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 214,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7833,6 +7839,11 @@
       "Time": "2024-01-01T16:04:13.958009+00:00",
       "NumProgressed": 3189,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T18:05:02.6393457+00:00",
+      "NumProgressed": 3190,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -7845,7 +7856,7 @@
       "Name": "First Love",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1435
+      "UsersEstimate": 1436
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -7853,7 +7864,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -7885,7 +7896,7 @@
       "Name": "Make It Your Own!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ML_ACHIEVEMENT_07",
@@ -8053,7 +8064,7 @@
       "Name": "Clean Race",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1403
+      "UsersEstimate": 1404
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -8101,7 +8112,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -8195,9 +8206,9 @@
       "ID": "ML_ACHIEVEMENT_45",
       "SetID": "c7hf6a4",
       "Name": "Rivals to the End",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 957
+      "UsersEstimate": 989
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -8236,16 +8247,16 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3189,
+      "Progressed": 3190,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged": "2023-12-26T23:58:21.0860972+00:00",
-  "LastChanged_Achievements": "2024-01-01T17:05:05.9913013+00:00",
+  "LastChanged": "2024-01-01T17:57:32.3895094+00:00",
+  "LastChanged_Achievements": "2024-01-01T18:05:02.6393454+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:59.7599271+00:00",
-  "LastUpdate_Ratings": "2024-01-01T16:57:31.0949912+00:00",
-  "LastUpdate_Achievements": "2024-01-01T17:05:05.9913553+00:00"
+  "LastUpdate_Ratings": "2024-01-01T17:57:32.38951+00:00",
+  "LastUpdate_Achievements": "2024-01-01T18:05:02.6394212+00:00"
 }

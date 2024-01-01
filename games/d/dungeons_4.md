@@ -61,7 +61,7 @@ Rating: 4.68 (Ranked 262)
 | Mirror, Mirror | 16.00% | ~110 |
 | Untouchable | 16.00% | ~110 |
 | Heal Heal Blessing | 16.00% | ~110 |
-| Laser Eyes Are So Useless | 13.00% | ~89 |
+| Laser Eyes Are So Useless | 14.00% | ~96 |
 | Hands Off My Stones | 13.00% | ~89 |
 | Gorgu is in the Best of Health | 12.00% | ~82 |
 | No Mana, No Cry | 10.00% | ~68 |

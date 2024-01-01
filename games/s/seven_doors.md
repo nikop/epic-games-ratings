@@ -14,8 +14,8 @@
 | The Last Skull | 41.00% | ~11 |
 | Survivor | 37.00% | ~10 |
 | Master of Riddles | 33.00% | ~9 |
+| The Witch’s Haunt | 30.00% | ~8 |
 | A Cautious Man Is Worth Two of His Kind | 30.00% | ~8 |
-| The Witch’s Haunt | 26.00% | ~7 |
 | A Cabin Boy with Potential | 26.00% | ~7 |
 | Trapped in Time | 22.00% | ~6 |
 | Thanksgiving Day | 15.00% | ~4 |

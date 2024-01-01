@@ -4,8 +4,8 @@
   "ProductSlug": "creepy-tale-3-ingrid-penance-1daff4",
   "Ranking_EOS_Progress": 516,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 391,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 392,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -604,17 +604,17 @@
       "ID": "creepytale3_ach_7",
       "SetID": "7idcjbn",
       "Name": "Burn, little bird!",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "creepytale3_ach_8",
       "SetID": "7idcjbn",
       "Name": "Save mission",
-      "Percentage": 42,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "creepytale3_ach_9",
@@ -635,8 +635,8 @@
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2024-01-01T17:04:21.2609815+00:00",
+  "LastChanged_Achievements": "2024-01-01T18:04:19.4682911+00:00",
   "LastUpdate_AppInfo": "2023-12-27T07:56:53.6623876+00:00",
-  "LastUpdate_Ratings": "2024-01-01T16:59:34.5169542+00:00",
-  "LastUpdate_Achievements": "2024-01-01T17:04:21.2609998+00:00"
+  "LastUpdate_Ratings": "2024-01-01T17:59:27.0466296+00:00",
+  "LastUpdate_Achievements": "2024-01-01T18:04:19.4683092+00:00"
 }

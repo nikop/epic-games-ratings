@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
     "PcReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 642,
+  "EOS_Progressed": 643,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 0,
@@ -2009,6 +2009,11 @@
       "Time": "2024-01-01T09:10:40.5889425+00:00",
       "NumProgressed": 642,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T18:10:28.3105251+00:00",
+      "NumProgressed": 643,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -2051,9 +2056,9 @@
       "ID": "HYPNO_CORRECT_GROUP",
       "SetID": "9j9h72e",
       "Name": "Hypnotorious: Brainiacs",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 90
+      "UsersEstimate": 96
     },
     {
       "ID": "HYPNO_OUTLIER_ID",
@@ -2133,7 +2138,7 @@
       "Name": "Timejinx: The Perfect Date",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "TIME_PERFECT_GUEST",
@@ -2180,14 +2185,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 642,
+      "Progressed": 643,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2024-01-01T17:10:46.5292066+00:00",
+  "LastChanged_Achievements": "2024-01-01T18:10:28.3105248+00:00",
   "LastUpdate_AppInfo": "2023-12-30T02:16:13.4108208+00:00",
-  "LastUpdate_Ratings": "2024-01-01T16:58:16.1365234+00:00",
-  "LastUpdate_Achievements": "2024-01-01T17:10:46.529228+00:00"
+  "LastUpdate_Ratings": "2024-01-01T17:58:13.5639534+00:00",
+  "LastUpdate_Achievements": "2024-01-01T18:10:28.3105486+00:00"
 }

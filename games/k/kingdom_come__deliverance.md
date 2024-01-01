@@ -6,25 +6,25 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~260,946 |
-| Cavalier | 26.00% | ~212,019 |
-| Fatso | 23.00% | ~187,555 |
-| Awakening | 21.00% | ~171,246 |
-| Ranger | 20.00% | ~163,091 |
-| Scrooge | 20.00% | ~163,091 |
-| Anorectic | 16.00% | ~130,473 |
-| Firestarter | 16.00% | ~130,473 |
+| Blacksmith's Son | 32.00% | ~260,948 |
+| Cavalier | 26.00% | ~212,020 |
+| Fatso | 23.00% | ~187,556 |
+| Awakening | 21.00% | ~171,247 |
+| Ranger | 20.00% | ~163,092 |
+| Scrooge | 20.00% | ~163,092 |
+| Anorectic | 16.00% | ~130,474 |
+| Firestarter | 16.00% | ~130,474 |
 | Bookworm | 15.00% | ~122,319 |
-| Insomniac | 13.00% | ~106,009 |
+| Insomniac | 13.00% | ~106,010 |
 | Buddy | 12.00% | ~97,855 |
 | Thief | 12.00% | ~97,855 |
-| Sinner | 11.00% | ~89,700 |
-| Traveller | 11.00% | ~89,700 |
+| Sinner | 11.00% | ~89,701 |
+| Traveller | 11.00% | ~89,701 |
 | Convict | 10.00% | ~81,546 |
 | Haggler | 9.00% | ~73,391 |
 | McLovin | 7.00% | ~57,082 |
 | Runt | 7.00% | ~57,082 |
-| Casanova | 6.00% | ~48,927 |
+| Casanova | 6.00% | ~48,928 |
 | Bad Trip | 5.00% | ~40,773 |
 | Monk | 5.00% | ~40,773 |
 | Serial Killer | 5.00% | ~40,773 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~815 |
 | Wingman | 0.10% | ~815 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 815,457 (Ranked 19)  
+Progressed: 815,461 (Ranked 19)  
 Completed: 53 (0.01%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -345,10 +345,10 @@ Completed: 53 (0.01%) (Ranked 368)
 | 2023-12-29 | 814,990 | 53 |
 | 2023-12-30 | 815,171 | 53 |
 | 2023-12-31 | 815,340 | 53 |
-| 2024-01-01 | 815,457 | 53 |
+| 2024-01-01 | 815,461 | 53 |
 ## Awards
 Max (Character Customization): 7,732  (Ranked 53)  
-Sum: 28,701 (Ranked 50)  
+Sum: 28,703 (Ranked 50)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -361,7 +361,7 @@ Diff (max vs sum): 3
 | This game is Extremely Fun | 1,713 |
 | This game has Realistic Visuals | 1,694 |
 | This game has Amazing Characters | 1,693 |
-| This game is Educational | 1,631 |
+| This game is Educational | 1,633 |
 | This game is Relaxing | 1,558 |
 | This game has Obsessive Gameplay | 1,048 |
 | This game has a Creative Community | 664 |
@@ -706,4 +706,4 @@ Diff (max vs sum): 3
 | 2023-12-29 | 4.71 | - | 7,723 | 28,669 |
 | 2023-12-30 | 4.71 | - | 7,728 | 28,696 |
 | 2023-12-31 | 4.71 | - | 7,732 | 28,700 |
-| 2024-01-01 | 4.71 | - | 7,732 | 28,701 |
+| 2024-01-01 | 4.71 | - | 7,732 | 28,703 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10404,9 +10404,9 @@
       "Count": 1074
     }
   ],
-  "EOS_Progressed": 131159,
+  "EOS_Progressed": 131165,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1342,
+  "EOS_NewPlayers": 1344,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37854,6 +37854,11 @@
       "Time": "2024-01-01T17:10:29.5829096+00:00",
       "NumProgressed": 131159,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-01T18:10:12.3514484+00:00",
+      "NumProgressed": 131165,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37865,7 +37870,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5246
+      "UsersEstimate": 5247
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -37881,7 +37886,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5246
+      "UsersEstimate": 5247
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -38017,7 +38022,7 @@
       "Name": "Not Today!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5246
+      "UsersEstimate": 5247
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -38065,7 +38070,7 @@
       "Name": "Meat and Greet",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5246
+      "UsersEstimate": 5247
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -38081,7 +38086,7 @@
       "Name": "Catch and Decease",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5246
+      "UsersEstimate": 5247
     },
     {
       "ID": "combat_kill_librarian",
@@ -38137,7 +38142,7 @@
       "Name": "It Happens",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5246
+      "UsersEstimate": 5247
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -38161,15 +38166,15 @@
       "Name": "Rush Hour",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5246
+      "UsersEstimate": 5247
     },
     {
       "ID": "driving_biome_clear_coast",
       "SetID": "64l4lke",
       "Name": "Merry Time",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 3935
+      "UsersEstimate": 5247
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -38177,7 +38182,7 @@
       "Name": "Harvest Festival",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5246
+      "UsersEstimate": 5247
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -38185,7 +38190,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5246
+      "UsersEstimate": 5247
     },
     {
       "ID": "driving_distance_easy",
@@ -38257,7 +38262,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5246
+      "UsersEstimate": 5247
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -38273,7 +38278,7 @@
       "Name": "FNG",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5246
+      "UsersEstimate": 5247
     },
     {
       "ID": "inn_visit_all_variants",
@@ -38401,7 +38406,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "combat_kill_collector",
@@ -38449,7 +38454,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -38457,7 +38462,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "quest_complete_crusader",
@@ -38496,21 +38501,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131159,
+      "Progressed": 131165,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6028,
+      "Progressed": 6034,
       "Completed": 820
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-01T16:58:52.5111888+00:00",
-  "LastChanged_Achievements": "2024-01-01T17:10:29.5829092+00:00",
+  "LastChanged_Achievements": "2024-01-01T18:10:12.3514481+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-01T16:58:52.5111894+00:00",
-  "LastUpdate_Achievements": "2024-01-01T17:10:29.5830714+00:00"
+  "LastUpdate_Ratings": "2024-01-01T17:58:47.2379369+00:00",
+  "LastUpdate_Achievements": "2024-01-01T18:10:12.3516546+00:00"
 }

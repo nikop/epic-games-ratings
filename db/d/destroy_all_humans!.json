@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -1434,9 +1434,9 @@
       "ID": "ACH_ENEMY_KILLSWITHEXPLOSIVE",
       "SetID": "cefn62b",
       "Name": "Lobster Blisque",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_ENEMY_SILHOUETTE",
@@ -1538,9 +1538,9 @@
       "ID": "ACH_UPGRADE_SAUCER",
       "SetID": "cefn62b",
       "Name": "Ducks in a Row, Fish in a Barrel",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH_UPGRADE_TOPTIER",
@@ -1562,8 +1562,8 @@
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2023-11-09T01:43:19.9714919+00:00",
-  "LastChanged_Achievements": "2024-01-01T17:08:37.8403016+00:00",
+  "LastChanged_Achievements": "2024-01-01T18:08:25.6009314+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:06.6677344+00:00",
-  "LastUpdate_Ratings": "2024-01-01T17:02:56.2845919+00:00",
-  "LastUpdate_Achievements": "2024-01-01T17:08:37.8403329+00:00"
+  "LastUpdate_Ratings": "2024-01-01T18:03:01.0132639+00:00",
+  "LastUpdate_Achievements": "2024-01-01T18:08:25.6009646+00:00"
 }

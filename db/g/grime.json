@@ -2,7 +2,7 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 445,
+  "Ranking_Rating": 428,
   "Ranking_Popularity": 424,
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 84,
@@ -21,7 +21,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.59,
+  "Rating": 4.6,
   "NumberOfRatings": 46,
   "RatingHistory": [
     {
@@ -1733,10 +1733,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 436,
       "NumberOfAwardsMax": 61
+    },
+    {
+      "Time": "2024-01-01T17:59:08.0457366+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 438,
+      "NumberOfAwardsMax": 61
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 436,
+  "NumberOfAwards": 438,
   "NumberOfAwardsMax": 61,
   "MaxAwardTitle": "Unique Visuals",
   "Tags": [
@@ -1768,7 +1774,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 52
+      "Count": 54
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1795,10 +1801,10 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 165945,
-  "EOS_Completed": 434,
-  "EOS_NewPlayers": 1487,
-  "EOS_NewCompleters": 30,
+  "EOS_Progressed": 165960,
+  "EOS_Completed": 435,
+  "EOS_NewPlayers": 1493,
+  "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
     {
@@ -21455,6 +21461,11 @@
       "Time": "2024-01-01T17:05:31.9816365+00:00",
       "NumProgressed": 165945,
       "NumCompleted": 434
+    },
+    {
+      "Time": "2024-01-01T18:05:27.833395+00:00",
+      "NumProgressed": 165960,
+      "NumCompleted": 435
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -21531,7 +21542,7 @@
       "Name": "Taste",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4978
+      "UsersEstimate": 4979
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -21683,7 +21694,7 @@
       "Name": "Imprint",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4978
+      "UsersEstimate": 4979
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -21834,21 +21845,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 165528,
+      "Progressed": 165543,
       "Completed": 1251
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 165945,
-      "Completed": 434
+      "Progressed": 165960,
+      "Completed": 435
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2024-01-01T13:01:50.6717718+00:00",
-  "LastChanged_Achievements": "2024-01-01T17:05:31.9816362+00:00",
+  "LastChanged": "2024-01-01T17:59:08.0457364+00:00",
+  "LastChanged_Achievements": "2024-01-01T18:05:27.8333947+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:50.3299145+00:00",
-  "LastUpdate_Ratings": "2024-01-01T16:59:15.2060993+00:00",
-  "LastUpdate_Achievements": "2024-01-01T17:05:31.9817521+00:00"
+  "LastUpdate_Ratings": "2024-01-01T17:59:08.045737+00:00",
+  "LastUpdate_Achievements": "2024-01-01T18:05:27.8335028+00:00"
 }

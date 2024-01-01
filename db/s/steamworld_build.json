@@ -4,8 +4,8 @@
   "ProductSlug": "steamworld-build-71ee6c",
   "Ranking_EOS_Progress": 416,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 278,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 229,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -947,9 +947,9 @@
       "ID": "Aristocratic",
       "SetID": "4bd750m",
       "Name": "Aristocratic",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 140
     },
     {
       "ID": "Botropolis",
@@ -971,9 +971,9 @@
       "ID": "ConductedTrade",
       "SetID": "4bd750m",
       "Name": "Conducted Trade",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 151
     },
     {
       "ID": "DiggingAHole",
@@ -995,9 +995,9 @@
       "ID": "GoingPlaces",
       "SetID": "4bd750m",
       "Name": "Going Places",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 147
     },
     {
       "ID": "GottaGoFast",
@@ -1011,7 +1011,7 @@
       "ID": "ImALumberbot",
       "SetID": "4bd750m",
       "Name": "I\u0027m A Lumberbot",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -1170,8 +1170,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2024-01-01T17:07:52.5555149+00:00",
+  "LastChanged_Achievements": "2024-01-01T18:07:42.3262996+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.9245287+00:00",
-  "LastUpdate_Ratings": "2024-01-01T17:03:44.87586+00:00",
-  "LastUpdate_Achievements": "2024-01-01T17:07:52.5555527+00:00"
+  "LastUpdate_Ratings": "2024-01-01T18:03:45.3134662+00:00",
+  "LastUpdate_Achievements": "2024-01-01T18:07:42.3263237+00:00"
 }

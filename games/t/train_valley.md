@@ -1,28 +1,28 @@
 # Train Valley
 [Store](https://store.epicgames.com/en-US/p/train-valley-ead642)  
 [View Rawdata](../../db/t/train_valley.json)  
-Rating: 4.49 (Ranked 632)  
+Rating: 4.49 (Ranked 633)  
 Number of Ratings: 28  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 76.00% | ~468 |
-| Close call! | 71.00% | ~437 |
-| Builder | 51.00% | ~314 |
+| Getting started | 76.00% | ~469 |
+| Close call! | 71.00% | ~438 |
+| Builder | 51.00% | ~315 |
 | Living it large! | 44.00% | ~271 |
 | Collector | 43.00% | ~265 |
 | Pangs of conscience | 43.00% | ~265 |
 | Need to think | 42.00% | ~259 |
-| Completely nuts! | 40.00% | ~246 |
+| Completely nuts! | 40.00% | ~247 |
 | Europe | 32.00% | ~197 |
 | Just in time! | 32.00% | ~197 |
 | Madness! | 31.00% | ~191 |
-| It's no coincidence. | 28.00% | ~172 |
+| It's no coincidence. | 28.00% | ~173 |
 | Philatelist | 26.00% | ~160 |
 | Let's roll! | 26.00% | ~160 |
 | Ouroboros | 24.00% | ~148 |
 | Non Stop! | 24.00% | ~148 |
-| Foreman | 21.00% | ~129 |
+| Foreman | 21.00% | ~130 |
 | Russia | 19.00% | ~117 |
 | America | 18.00% | ~111 |
 | Missed it! | 18.00% | ~111 |
@@ -31,14 +31,14 @@ Number of Ratings: 28  (23.09.2022)
 | Japan | 11.00% | ~68 |
 | Woodcutter | 10.00% | ~62 |
 | Engineer | 10.00% | ~62 |
-| Tycoon | 9.00% | ~55 |
+| Tycoon | 9.00% | ~56 |
 | Germany | 6.00% | ~37 |
 | Supercrash! | 5.00% | ~31 |
 | Chuck Norris | 5.00% | ~31 |
 | Сhancellor | 4.00% | ~25 |
 | Peacemaker | 4.00% | ~25 |
-| Forgotten | 3.00% | ~18 |
-| Lucky vandal | 3.00% | ~18 |
+| Forgotten | 3.00% | ~19 |
+| Lucky vandal | 3.00% | ~19 |
 | Salesman | 1.00% | ~6 |
 | BBQ | 0.60% | ~4 |
 | Juggler | 0.60% | ~4 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Mega-railroad | 0.50% | ~3 |
 | Vandal | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 616 (Ranked 331)  
+Progressed: 617 (Ranked 331)  
 Completed: 2 (0.32%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 2 (0.32%) (Ranked 245)
 | 2023-12-29 | 601 | 2 |
 | 2023-12-30 | 609 | 2 |
 | 2023-12-31 | 613 | 2 |
-| 2024-01-01 | 616 | 2 |
+| 2024-01-01 | 617 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

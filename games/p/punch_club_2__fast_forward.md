@@ -18,8 +18,8 @@
 | First defeat | 66.00% | ~339 |
 | Run K, run! | 66.00% | ~339 |
 | Hello, world! | 65.00% | ~334 |
+| No bullying more | 64.00% | ~329 |
 | Fighting is cool | 63.00% | ~324 |
-| No bullying more | 63.00% | ~324 |
 | Pal of your father? | 61.00% | ~314 |
 | Spirit of the past | 59.00% | ~303 |
 | Employee of the month | 59.00% | ~303 |
@@ -33,7 +33,7 @@
 | Intriguing candies | 53.00% | ~272 |
 | Own four walls | 52.00% | ~267 |
 | Employee of the year | 52.00% | ~267 |
-| Legal courier | 48.00% | ~247 |
+| Legal courier | 49.00% | ~252 |
 | Extreme neuropower! | 48.00% | ~247 |
 | Escaped from a big trouble | 46.00% | ~236 |
 | Now you are worthy | 41.00% | ~211 |

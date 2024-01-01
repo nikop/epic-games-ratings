@@ -39,7 +39,7 @@ Rating: 4.42 (Ranked 738)
 | Traffic Junction | 22.00% | ~571 |
 | Breaking Ground | 22.00% | ~571 |
 | Traffic Jam | 20.00% | ~519 |
-| Resistance is futile | 17.00% | ~441 |
+| Resistance is futile | 18.00% | ~467 |
 | Networker | 17.00% | ~441 |
 | Bold and beautiful | 16.00% | ~415 |
 | Settler | 16.00% | ~415 |

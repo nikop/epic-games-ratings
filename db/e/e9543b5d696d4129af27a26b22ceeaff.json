@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 547,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 446,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-29T07:30:00+00:00",
     "PcReleaseDate": "2022-12-01T04:00:00+00:00",
@@ -298,9 +298,9 @@
       "ID": "ACH_50_WINS",
       "SetID": "1lnhagg",
       "Name": "Winning is Quite Alright",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_AMERICAN_CAREER",
@@ -490,9 +490,9 @@
       "ID": "ACH_WINNER_STREAK",
       "SetID": "1lnhagg",
       "Name": "Keep the Streak Up!",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_WIN_BY_40",
@@ -537,8 +537,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2024-01-01T17:09:00.7445151+00:00",
+  "LastChanged_Achievements": "2024-01-01T18:08:47.1876762+00:00",
   "LastUpdate_AppInfo": "2023-12-29T02:57:12.5001029+00:00",
-  "LastUpdate_Ratings": "2024-01-01T17:01:48.7385695+00:00",
-  "LastUpdate_Achievements": "2024-01-01T17:09:00.7445296+00:00"
+  "LastUpdate_Ratings": "2024-01-01T18:01:35.1275524+00:00",
+  "LastUpdate_Achievements": "2024-01-01T18:08:47.187701+00:00"
 }

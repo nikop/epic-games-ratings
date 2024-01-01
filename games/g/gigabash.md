@@ -5,23 +5,23 @@ Rating: 4.53 (Ranked 560)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 17.00% | ~19,418 |
-| I've Had Enough! | 13.00% | ~14,849 |
-| Fists, Fury & a lot of Rage | 9.00% | ~10,280 |
-| Seasoned Fighter | 8.00% | ~9,138 |
-| All For One and One For All | 7.00% | ~7,996 |
-| A New Age | 5.00% | ~5,711 |
-| Home Sweet Home? | 5.00% | ~5,711 |
-| Oh Baby, A Triple | 3.00% | ~3,427 |
-| Symbiotic | 3.00% | ~3,427 |
-| Battle Hardened | 2.00% | ~2,284 |
-| Master of Disguise | 2.00% | ~2,284 |
-| It's Mayhem! | 2.00% | ~2,284 |
-| Right back at'cha | 2.00% | ~2,284 |
-| Cautious Veteran | 1.00% | ~1,142 |
-| Double Punch! | 1.00% | ~1,142 |
-| Martyrdom | 1.00% | ~1,142 |
-| Spectacular Finisher | 1.00% | ~1,142 |
+| All Grown Up! | 17.00% | ~19,425 |
+| I've Had Enough! | 13.00% | ~14,855 |
+| Fists, Fury & a lot of Rage | 9.00% | ~10,284 |
+| Seasoned Fighter | 8.00% | ~9,141 |
+| All For One and One For All | 7.00% | ~7,999 |
+| A New Age | 5.00% | ~5,713 |
+| Home Sweet Home? | 5.00% | ~5,713 |
+| Oh Baby, A Triple | 3.00% | ~3,428 |
+| Symbiotic | 3.00% | ~3,428 |
+| Battle Hardened | 2.00% | ~2,285 |
+| Master of Disguise | 2.00% | ~2,285 |
+| It's Mayhem! | 2.00% | ~2,285 |
+| Right back at'cha | 2.00% | ~2,285 |
+| Cautious Veteran | 1.00% | ~1,143 |
+| Double Punch! | 1.00% | ~1,143 |
+| Martyrdom | 1.00% | ~1,143 |
+| Spectacular Finisher | 1.00% | ~1,143 |
 | Katamari | 0.90% | ~1,028 |
 | Ninja Reflex | 0.80% | ~914 |
 | Zero-sum Game | 0.80% | ~914 |
@@ -31,8 +31,8 @@ Rating: 4.53 (Ranked 560)
 | Sidetracked... | 0.40% | ~457 |
 | Eye of the Titan | 0.30% | ~343 |
 | Top of the Food Chain | 0.30% | ~343 |
-| Let Them Fight | 0.20% | ~228 |
-| Apex Mode | 0.20% | ~228 |
+| Let Them Fight | 0.20% | ~229 |
+| Apex Mode | 0.20% | ~229 |
 | 5 Stages of Grief | 0.10% | ~114 |
 | Bastion of Humanity | 0.10% | ~114 |
 | Keeper of Knowledge | 0.10% | ~114 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 560)
 | What's Mine is Yours | 0.10% | ~114 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 114,222 (Ranked 93)  
+Progressed: 114,266 (Ranked 93)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,7 +68,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-29 | 110,708 | 0 |
 | 2023-12-30 | 112,045 | 0 |
 | 2023-12-31 | 113,337 | 0 |
-| 2024-01-01 | 114,222 | 0 |
+| 2024-01-01 | 114,266 | 0 |
 ## Awards
 Max (Great Boss Battles): 47  (Ranked 461)  
 Sum: 47 (Ranked 508)  

@@ -6,19 +6,19 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~38,312 |
-| Biggest Communism Builder | 23.00% | ~31,471 |
-| The World's Most Laughable Centrist | 20.00% | ~27,366 |
-| Il Coppo Del'Arte! | 18.00% | ~24,629 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,893 |
-| Hyperstellar Law Official | 15.00% | ~20,524 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~19,156 |
-| Gurdi-Ball Is Lit | 14.00% | ~19,156 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~17,788 |
-| Truly Rabid *Traditionalist* | 11.00% | ~15,051 |
+| Goodest Of The Good Cops | 28.00% | ~38,314 |
+| Biggest Communism Builder | 23.00% | ~31,473 |
+| The World's Most Laughable Centrist | 20.00% | ~27,367 |
+| Il Coppo Del'Arte! | 18.00% | ~24,631 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,894 |
+| Hyperstellar Law Official | 15.00% | ~20,526 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~19,157 |
+| Gurdi-Ball Is Lit | 14.00% | ~19,157 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~17,789 |
+| Truly Rabid *Traditionalist* | 11.00% | ~15,052 |
 | Unbelievably Boring **** | 9.00% | ~12,315 |
 | The Figurines Won't Win Her Back | 9.00% | ~12,315 |
-| Enemy Of The Physical Realm | 8.00% | ~10,946 |
+| Enemy Of The Physical Realm | 8.00% | ~10,947 |
 | Hardie's Heroes | 6.00% | ~8,210 |
 | The Lawbringer | 4.00% | ~5,473 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,473 |
@@ -30,14 +30,14 @@ Number of Ratings: 1,611  (23.09.2022)
 | Wheel of Pleasure and Light | 2.00% | ~2,737 |
 | Massive Torque Dork | 1.00% | ~1,368 |
 | Avowed Inframaterialist | 1.00% | ~1,368 |
-| Venture into the HARDCORE | 0.90% | ~1,231 |
-| Real Musor | 0.90% | ~1,231 |
+| Venture into the HARDCORE | 0.90% | ~1,232 |
+| Real Musor | 0.90% | ~1,232 |
 | Baddest Brow in Town | 0.80% | ~1,095 |
 | Committee of la Responsabilité | 0.80% | ~1,095 |
 | Networthy Individual | 0.70% | ~958 |
 | Leopard Mindset | 0.60% | ~821 |
-| Modus: Mullen | 0.30% | ~410 |
-| Palerunner | 0.30% | ~410 |
+| Modus: Mullen | 0.30% | ~411 |
+| Palerunner | 0.30% | ~411 |
 | Cause a ****storm | 0.20% | ~274 |
 | True Detective | 0.20% | ~274 |
 | The Icebreaker | 0.20% | ~274 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~137 |
 | What body? | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,829 (Ranked 89)  
+Progressed: 136,837 (Ranked 89)  
 Completed: 28 (0.02%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,14 +303,14 @@ Completed: 28 (0.02%) (Ranked 357)
 | 2023-12-29 | 136,177 | 28 |
 | 2023-12-30 | 136,405 | 28 |
 | 2023-12-31 | 136,630 | 28 |
-| 2024-01-01 | 136,829 | 28 |
+| 2024-01-01 | 136,837 | 28 |
 ## Awards
-Max (Character Customization): 756  (Ranked 187)  
-Sum: 1,153 (Ranked 259)  
+Max (Character Customization): 757  (Ranked 187)  
+Sum: 1,154 (Ranked 259)  
 Diff (max vs sum): -72  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 756 |
+| This game has Inclusive Character Customization | 757 |
 | This game has Amazing Storytelling | 52 |
 | This game is Educational | 47 |
 | This game has Quickly Understood Controls | 45 |
@@ -500,3 +500,4 @@ Diff (max vs sum): -72
 | 2023-12-28 | 4.86 | - | 756 | 1,152 |
 | 2023-12-30 | 4.87 | - | 756 | 1,152 |
 | 2023-12-31 | 4.87 | - | 756 | 1,153 |
+| 2024-01-01 | 4.87 | - | 757 | 1,154 |

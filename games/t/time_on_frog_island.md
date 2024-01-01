@@ -17,13 +17,13 @@
 | Replace the Rudder | 13.00% | ~5 |
 | Who Even Needs Keys | 11.00% | ~4 |
 | Shrub-Seeing: Townlife | 11.00% | ~4 |
+| No Evil | 11.00% | ~4 |
+| Safe Investment | 11.00% | ~4 |
+| Bank of Me | 11.00% | ~4 |
 | The Journey Continues | 11.00% | ~4 |
 | Shrub-Seeing: Silly Birbs | 8.00% | ~3 |
 | Sailor Swift | 8.00% | ~3 |
-| No Evil | 8.00% | ~3 |
 | Caught Ya! | 8.00% | ~3 |
-| Safe Investment | 8.00% | ~3 |
-| Bank of Me | 8.00% | ~3 |
 | Shrub-Seeing: Lights in the sky | 5.00% | ~2 |
 | Shrub-Seeing: Ruins of old | 5.00% | ~2 |
 | Shrub-Seeing: Ancient Extractor | 5.00% | ~2 |

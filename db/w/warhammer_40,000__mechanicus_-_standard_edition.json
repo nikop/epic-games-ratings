@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -1050,9 +1050,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 231083,
+  "EOS_Progressed": 231084,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 651,
+  "EOS_NewPlayers": 649,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29155,6 +29155,11 @@
       "Time": "2024-01-01T17:10:59.4862301+00:00",
       "NumProgressed": 231083,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-01T18:10:40.7038627+00:00",
+      "NumProgressed": 231084,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -29206,7 +29211,7 @@
       "Name": "Power Ranger",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20797
+      "UsersEstimate": 20798
     },
     {
       "ID": "ACH_BASE_16",
@@ -29222,7 +29227,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20797
+      "UsersEstimate": 20798
     },
     {
       "ID": "ACH_BASE_18",
@@ -29254,7 +29259,7 @@
       "Name": "Legio Cybernetica",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 6932
+      "UsersEstimate": 6933
     },
     {
       "ID": "ACH_BASE_21",
@@ -29390,7 +29395,7 @@
       "Name": "Fleshy Disposal",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 6932
+      "UsersEstimate": 6933
     },
     {
       "ID": "ACH_BASE_5",
@@ -29430,14 +29435,14 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20797
+      "UsersEstimate": 20798
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 231083,
+      "Progressed": 231084,
       "Completed": 5
     }
   ],
@@ -29445,8 +29450,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-12-28T22:58:51.4033804+00:00",
-  "LastChanged_Achievements": "2024-01-01T17:10:59.4862297+00:00",
+  "LastChanged_Achievements": "2024-01-01T18:10:40.7038624+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:45.3371168+00:00",
-  "LastUpdate_Ratings": "2024-01-01T17:01:34.045309+00:00",
-  "LastUpdate_Achievements": "2024-01-01T17:10:59.4864032+00:00"
+  "LastUpdate_Ratings": "2024-01-01T18:01:20.171906+00:00",
+  "LastUpdate_Achievements": "2024-01-01T18:10:40.7041387+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "The Bunker",
   "ProductSlug": "the-bunker-03b712",
   "Ranking_EOS_Progress": 436,
-  "Ranking_EOS_Completed": 88,
-  "Ranking_EOS_NewPlayers": 461,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_Completed": 89,
+  "Ranking_EOS_NewPlayers": 430,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2016-09-20T17:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 166,
+  "EOS_Progressed": 168,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.22,
+  "EOS_Completed_Percentage": 4.17,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:47.0734478+00:00",
@@ -440,6 +440,11 @@
       "Time": "2023-12-31T22:03:31.0045565+00:00",
       "NumProgressed": 166,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-01T18:04:45.0388306+00:00",
+      "NumProgressed": 168,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 28,
@@ -451,7 +456,7 @@
       "Name": "Bookworm",
       "Percentage": 26,
       "XP": 45,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ALL_CASSETTES",
@@ -491,7 +496,7 @@
       "Name": "Last Goodbye",
       "Percentage": 90,
       "XP": 25,
-      "UsersEstimate": 149
+      "UsersEstimate": 151
     },
     {
       "ID": "CHAPTER_03_COMPLETE",
@@ -499,15 +504,15 @@
       "Name": "The Routine",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "CHAPTER_04_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Failure",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 25,
-      "UsersEstimate": 124
+      "UsersEstimate": 128
     },
     {
       "ID": "CHAPTER_05_COMPLETE",
@@ -515,15 +520,15 @@
       "Name": "Replace Fuse",
       "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 111
+      "UsersEstimate": 113
     },
     {
       "ID": "CHAPTER_06_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Alarm",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 25,
-      "UsersEstimate": 110
+      "UsersEstimate": 109
     },
     {
       "ID": "CHAPTER_07_COMPLETE",
@@ -531,7 +536,7 @@
       "Name": "Air Filtration",
       "Percentage": 63,
       "XP": 25,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "CHAPTER_08_COMPLETE",
@@ -539,21 +544,21 @@
       "Name": "Broken",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "CHAPTER_09_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Radiation",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 100
+      "UsersEstimate": 99
     },
     {
       "ID": "CHAPTER_10_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Descent",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 25,
       "UsersEstimate": 96
     },
@@ -563,7 +568,7 @@
       "Name": "Awakenings",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "CHAPTER_12_COMPLETE",
@@ -571,15 +576,15 @@
       "Name": "Cold Storage",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "LEAVE",
       "SetID": "bho0i1h",
       "Name": "Leave",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 85
+      "UsersEstimate": 84
     },
     {
       "ID": "MISSING_PIECE",
@@ -593,17 +598,17 @@
       "ID": "PEG_CHURCHILL",
       "SetID": "bho0i1h",
       "Name": "Churchill",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 82
     },
     {
       "ID": "PEG_COMMISSIONER",
       "SetID": "bho0i1h",
       "Name": "Commissioner",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 84
     },
     {
       "ID": "PEG_DOCTOR",
@@ -611,13 +616,13 @@
       "Name": "Doctor",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "PEG_ENGINEER",
       "SetID": "bho0i1h",
       "Name": "Engineer",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 10,
       "UsersEstimate": 81
     },
@@ -625,9 +630,9 @@
       "ID": "PEG_GENERAL",
       "SetID": "bho0i1h",
       "Name": "General",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 45
     },
     {
       "ID": "PEG_MOTHER",
@@ -635,7 +640,7 @@
       "Name": "Mother",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 131
     },
     {
       "ID": "PEG_NURSE",
@@ -651,13 +656,13 @@
       "Name": "Sam",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "PEG_SOLDIER",
       "SetID": "bho0i1h",
       "Name": "Soldier",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 10,
       "UsersEstimate": 86
     },
@@ -674,7 +679,7 @@
     {
       "ID": "bho0i1h",
       "IsBase": true,
-      "Progressed": 166,
+      "Progressed": 168,
       "Completed": 7
     }
   ],
@@ -682,8 +687,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.332275+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:47.0734489+00:00",
   "LastChanged": "2023-03-31T05:58:47.3322751+00:00",
-  "LastChanged_Achievements": "2024-01-01T17:04:47.6682461+00:00",
+  "LastChanged_Achievements": "2024-01-01T18:04:45.0388302+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:25.7585633+00:00",
-  "LastUpdate_Ratings": "2024-01-01T17:00:36.7522388+00:00",
-  "LastUpdate_Achievements": "2024-01-01T17:04:47.6682658+00:00"
+  "LastUpdate_Ratings": "2024-01-01T18:00:24.3729011+00:00",
+  "LastUpdate_Achievements": "2024-01-01T18:04:45.0388503+00:00"
 }

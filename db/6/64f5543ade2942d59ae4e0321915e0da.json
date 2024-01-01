@@ -2,8 +2,8 @@
   "ID": "64f5543ade2942d59ae4e0321915e0da",
   "Name": "Laika: Aged Through Blood",
   "ProductSlug": "laika-3293ee",
-  "Ranking_EOS_Progress": 377,
-  "Ranking_EOS_Completed": 205,
+  "Ranking_EOS_Progress": 375,
+  "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 341,
+  "EOS_Progressed": 342,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.59,
+  "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
     {
       "Time": "2023-10-17T15:03:17.566478+00:00",
@@ -1354,6 +1354,11 @@
       "Time": "2024-01-01T17:05:03.0455846+00:00",
       "NumProgressed": 341,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-01T18:04:59.8869894+00:00",
+      "NumProgressed": 342,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -1366,7 +1371,7 @@
       "Name": "Sound",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "AC_ALL_COLUMNS",
@@ -1404,9 +1409,9 @@
       "ID": "AC_ALL_WEAPONS",
       "SetID": "16i2akc",
       "Name": "Arsenal",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 17
+      "UsersEstimate": 21
     },
     {
       "ID": "AC_ALL_WEAPON_SLOTS",
@@ -1436,9 +1441,9 @@
       "ID": "AC_BOSS_00",
       "SetID": "16i2akc",
       "Name": "Hunger",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 185
     },
     {
       "ID": "AC_BOSS_01",
@@ -1446,7 +1451,7 @@
       "Name": "Misery",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "AC_BOSS_02",
@@ -1460,9 +1465,9 @@
       "ID": "AC_BOSS_03",
       "SetID": "16i2akc",
       "Name": "Sacrilege",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 51
     },
     {
       "ID": "AC_BOSS_04",
@@ -1508,9 +1513,9 @@
       "ID": "AC_DEATH_1",
       "SetID": "16i2akc",
       "Name": "Corpse",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 127
     },
     {
       "ID": "AC_DEATH_2",
@@ -1532,9 +1537,9 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 174
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -1566,7 +1571,7 @@
       "Name": "Journey",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -1574,7 +1579,7 @@
       "Name": "Voyage",
       "Percentage": 28,
       "XP": 45,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "AC_FIRST_BLACKJACK",
@@ -1701,14 +1706,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 341,
+      "Progressed": 342,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-01T17:05:03.0455843+00:00",
+  "LastChanged_Achievements": "2024-01-01T18:04:59.8869891+00:00",
   "LastUpdate_AppInfo": "2023-12-26T21:56:54.1541826+00:00",
-  "LastUpdate_Ratings": "2024-01-01T16:59:51.2286047+00:00",
-  "LastUpdate_Achievements": "2024-01-01T17:05:03.0456173+00:00"
+  "LastUpdate_Ratings": "2024-01-01T17:59:42.607711+00:00",
+  "LastUpdate_Achievements": "2024-01-01T18:04:59.8870194+00:00"
 }

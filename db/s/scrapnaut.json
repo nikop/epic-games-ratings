@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 300,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -158,7 +158,7 @@
   "Tags": [],
   "EOS_Progressed": 596,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.67,
   "EosHistory": [
@@ -2079,9 +2079,9 @@
       "ID": "ACH_COLLECT_100_ELECTROSCRAP",
       "SetID": "7c4cldc",
       "Name": "Electro-Scrap Master",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 131
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH_COLLECT_100_SCRAP",
@@ -2312,8 +2312,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2024-01-01T17:10:05.7028601+00:00",
+  "LastChanged_Achievements": "2024-01-01T18:09:48.5040796+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:09.8569887+00:00",
-  "LastUpdate_Ratings": "2024-01-01T16:57:18.3001808+00:00",
-  "LastUpdate_Achievements": "2024-01-01T17:10:05.7028858+00:00"
+  "LastUpdate_Ratings": "2024-01-01T17:57:20.6708849+00:00",
+  "LastUpdate_Achievements": "2024-01-01T18:09:48.5041149+00:00"
 }

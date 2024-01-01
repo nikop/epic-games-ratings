@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 447,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 300,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
     "PcReleaseDate": "2009-10-30T16:00:00+00:00",
@@ -823,9 +823,9 @@
       "ID": "id_11",
       "SetID": "bk9jib6",
       "Name": "Wise man",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "id_12",
@@ -887,9 +887,9 @@
       "ID": "id_2",
       "SetID": "bk9jib6",
       "Name": "Field hand",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 59
     },
     {
       "ID": "id_20",
@@ -1103,9 +1103,9 @@
       "ID": "id_54",
       "SetID": "bk9jib6",
       "Name": "Safecracker",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "id_55",
@@ -1207,9 +1207,9 @@
       "ID": "id_9",
       "SetID": "bk9jib6",
       "Name": "Master detective",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     }
   ],
   "AchievementSets": [
@@ -1224,8 +1224,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-12-28T07:02:46.0007261+00:00",
-  "LastChanged_Achievements": "2024-01-01T17:11:03.5378356+00:00",
+  "LastChanged_Achievements": "2024-01-01T18:10:44.6641678+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:11.6693375+00:00",
-  "LastUpdate_Ratings": "2024-01-01T16:58:34.8503985+00:00",
-  "LastUpdate_Achievements": "2024-01-01T17:11:03.5378813+00:00"
+  "LastUpdate_Ratings": "2024-01-01T17:58:31.0549573+00:00",
+  "LastUpdate_Achievements": "2024-01-01T18:10:44.6642116+00:00"
 }

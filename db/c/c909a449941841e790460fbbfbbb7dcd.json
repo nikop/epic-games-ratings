@@ -1129,9 +1129,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "14g34pl",
       "Name": "Northbarrow is safe!",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -1192,8 +1192,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2024-01-01T17:04:29.8401356+00:00",
+  "LastChanged_Achievements": "2024-01-01T18:04:27.6997998+00:00",
   "LastUpdate_AppInfo": "2023-12-26T22:57:06.6108745+00:00",
-  "LastUpdate_Ratings": "2024-01-01T16:58:17.4792008+00:00",
-  "LastUpdate_Achievements": "2024-01-01T17:04:29.8401525+00:00"
+  "LastUpdate_Ratings": "2024-01-01T17:58:14.8278956+00:00",
+  "LastUpdate_Achievements": "2024-01-01T18:04:27.6998153+00:00"
 }

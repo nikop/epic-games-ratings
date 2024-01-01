@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 323)  
+Rating: 4.65 (Ranked 322)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -56,6 +56,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Ziggurat | 0.40% | ~64 |
 | Musaeum | 0.40% | ~64 |
 | Necropolis | 0.40% | ~64 |
+| Learn to Play 2 | 0.40% | ~64 |
 | Manichaeism | 0.40% | ~64 |
 | Carthaginian Paganism | 0.40% | ~64 |
 | Hanging Gardens in Babylon | 0.30% | ~48 |
@@ -71,7 +72,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Iron | 0.30% | ~48 |
 | Colossus | 0.30% | ~48 |
 | Mausoleum | 0.30% | ~48 |
-| Learn to Play 2 | 0.30% | ~48 |
 | Learn to Play 3 | 0.30% | ~48 |
 | Egyptian Paganism | 0.30% | ~48 |
 | Building Wonders | 0.30% | ~48 |
@@ -97,6 +97,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Temple of Solomon | 0.20% | ~32 |
 | Pantheon | 0.20% | ~32 |
 | Via Recta Souk | 0.20% | ~32 |
+| Babylonia | 0.20% | ~32 |
 | Greece | 0.20% | ~32 |
 | Power to the People | 0.20% | ~32 |
 | Assyrian Paganism | 0.20% | ~32 |
@@ -204,7 +205,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Merchants of the Levant | 0.10% | ~16 |
 | Realistic Mortality | 0.10% | ~16 |
 | Assyria | 0.10% | ~16 |
-| Babylonia | 0.10% | ~16 |
 | Carthage | 0.10% | ~16 |
 | Egypt | 0.10% | ~16 |
 | Hatti | 0.10% | ~16 |

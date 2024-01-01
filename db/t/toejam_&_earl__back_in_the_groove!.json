@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58573,
+  "EOS_Progressed": 58575,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15176,6 +15176,11 @@
       "Time": "2024-01-01T17:07:00.3019053+00:00",
       "NumProgressed": 58573,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-01T18:06:52.2490556+00:00",
+      "NumProgressed": 58575,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -15195,7 +15200,7 @@
       "Name": "Backer Visitor",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1172
     },
     {
       "ID": "BoomBox",
@@ -15275,7 +15280,7 @@
       "Name": "Food Taster",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 5857
+      "UsersEstimate": 5858
     },
     {
       "ID": "FoolMeTwice",
@@ -15443,7 +15448,7 @@
       "Name": "Hate That Randomizer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1172
     },
     {
       "ID": "RhythmStar",
@@ -15483,7 +15488,7 @@
       "Name": "Feet on Funkotron",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1172
     },
     {
       "ID": "StruckLove",
@@ -15578,7 +15583,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58573,
+      "Progressed": 58575,
       "Completed": 6
     }
   ],
@@ -15586,8 +15591,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2024-01-01T17:07:00.3019051+00:00",
+  "LastChanged_Achievements": "2024-01-01T18:06:52.2490552+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:00.2032486+00:00",
-  "LastUpdate_Ratings": "2024-01-01T16:59:32.5625394+00:00",
-  "LastUpdate_Achievements": "2024-01-01T17:07:00.3020071+00:00"
+  "LastUpdate_Ratings": "2024-01-01T17:59:25.2016114+00:00",
+  "LastUpdate_Achievements": "2024-01-01T18:06:52.2491824+00:00"
 }

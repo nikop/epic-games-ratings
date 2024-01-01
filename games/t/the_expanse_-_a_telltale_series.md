@@ -1,28 +1,28 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.54 (Ranked 544)  
+Rating: 4.54 (Ranked 543)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 16.00% | ~2,876 |
-| Captain Drummer | 13.00% | ~2,337 |
-| Celebrations are in Order | 12.00% | ~2,157 |
-| The Pit and the Pirates | 11.00% | ~1,977 |
-| Martian Music | 11.00% | ~1,977 |
-| Drone Dodger | 11.00% | ~1,977 |
-| Bosmang | 11.00% | ~1,977 |
-| Impossible Objects | 11.00% | ~1,977 |
+| Oyedang, Kopengs | 16.00% | ~2,877 |
+| Captain Drummer | 13.00% | ~2,338 |
+| Bosmang | 12.00% | ~2,158 |
+| Celebrations are in Order | 12.00% | ~2,158 |
+| The Pit and the Pirates | 11.00% | ~1,978 |
+| Martian Music | 11.00% | ~1,978 |
+| Drone Dodger | 11.00% | ~1,978 |
+| Impossible Objects | 11.00% | ~1,978 |
 | Spore Taste | 10.00% | ~1,798 |
 | Stogie for Fogey | 9.00% | ~1,618 |
 | Safe Cracker | 9.00% | ~354 |
 | Zen Master | 9.00% | ~354 |
-| Call it Even | 8.00% | ~1,438 |
-| Madame Undersecretary | 8.00% | ~314 |
-| Data Archivist | 7.00% | ~1,258 |
-| Drug Gifter | 7.00% | ~1,258 |
-| Heal Thy Medic | 7.00% | ~1,258 |
-| Keep Arjun in Check | 7.00% | ~275 |
+| Call it Even | 8.00% | ~1,439 |
+| Madame Undersecretary | 8.00% | ~315 |
+| Data Archivist | 7.00% | ~1,259 |
+| Drug Gifter | 7.00% | ~1,259 |
+| Heal Thy Medic | 7.00% | ~1,259 |
+| Keep Arjun in Check | 7.00% | ~276 |
 | Thorston Mayer | 6.00% | ~1,079 |
 | Khan's Revenge | 6.00% | ~1,079 |
 | Master Negotiator | 6.00% | ~236 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 544)
 | Scavenger Star | 0.30% | ~54 |
 | Data Collector | 0.20% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,977 (Ranked 156)  
+Progressed: 17,982 (Ranked 156)  
 Completed: 58 (0.32%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 58 (0.32%) (Ranked 245)
 | 2023-12-29 | 17,756 | 57 |
 | 2023-12-30 | 17,838 | 57 |
 | 2023-12-31 | 17,926 | 58 |
-| 2024-01-01 | 17,977 | 58 |
+| 2024-01-01 | 17,982 | 58 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

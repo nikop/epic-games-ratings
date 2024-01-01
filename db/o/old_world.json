@@ -2,13 +2,13 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 323,
+  "Ranking_Rating": 322,
   "Ranking_Popularity": 283,
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 350,
   "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2210,7 +2210,7 @@
   ],
   "EOS_Progressed": 16065,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20290,9 +20290,9 @@
       "ID": "ACHIEVEMENT_LEARNTOPLAY_2",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 2",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 64
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_3",
@@ -20370,9 +20370,9 @@
       "ID": "ACHIEVEMENT_NATION_BABYLONIA",
       "SetID": "7l38kb8",
       "Name": "Babylonia",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_NATION_CARTHAGE",
@@ -21640,8 +21640,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-29T16:02:55.9624641+00:00",
-  "LastChanged_Achievements": "2024-01-01T17:11:15.9250658+00:00",
+  "LastChanged_Achievements": "2024-01-01T18:10:56.3988855+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:24.5452657+00:00",
-  "LastUpdate_Ratings": "2024-01-01T17:03:25.5987905+00:00",
-  "LastUpdate_Achievements": "2024-01-01T17:11:15.9260925+00:00"
+  "LastUpdate_Ratings": "2024-01-01T18:03:27.2300936+00:00",
+  "LastUpdate_Achievements": "2024-01-01T18:10:56.4001017+00:00"
 }

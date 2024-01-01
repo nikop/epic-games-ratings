@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 393,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -1476,9 +1476,9 @@
       "ID": "EndlessTricks",
       "SetID": "1jeo1g7",
       "Name": "Endless Tricks",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 149
     },
     {
       "ID": "EridanianChampionAchievement",
@@ -1604,9 +1604,9 @@
       "ID": "MindIlluminator",
       "SetID": "1jeo1g7",
       "Name": "Mind Illuminator",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 128
     },
     {
       "ID": "NoctuanChampionAchievement",
@@ -2035,8 +2035,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-01T17:09:12.2019475+00:00",
+  "LastChanged_Achievements": "2024-01-01T18:08:58.0046427+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:34.5642416+00:00",
-  "LastUpdate_Ratings": "2024-01-01T17:01:05.1309812+00:00",
-  "LastUpdate_Achievements": "2024-01-01T17:09:12.2020335+00:00"
+  "LastUpdate_Ratings": "2024-01-01T18:00:51.9913404+00:00",
+  "LastUpdate_Achievements": "2024-01-01T18:08:58.0047334+00:00"
 }

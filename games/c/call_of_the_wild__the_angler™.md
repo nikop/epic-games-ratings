@@ -7,8 +7,8 @@ Number of Ratings: 281  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Fish Just Got Reel | 16.00% | ~1,254 |
+| More Fish in the Sea | 14.00% | ~1,097 |
 | Hey Good Hookin | 13.00% | ~1,019 |
-| More Fish in the Sea | 13.00% | ~1,019 |
 | Can you smell what the Rod is Hooking | 12.00% | ~941 |
 | Scaling up | 12.00% | ~941 |
 | I'm on a Boat! | 11.00% | ~862 |

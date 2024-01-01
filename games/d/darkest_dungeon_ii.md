@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 12.00% | ~723 |
+| Malpractice Assurance | 12.00% | ~724 |
 | Lost and Found | 7.00% | ~422 |
 | Autodidact | 6.00% | ~7,870 |
 | This guy... again? | 6.00% | ~362 |
@@ -15,19 +15,20 @@ Number of Ratings: 7,767  (23.09.2022)
 | Creep and Sleep | 5.00% | ~6,558 |
 | Overdue Notice | 5.00% | ~6,558 |
 | Escape from the Black Hole | 5.00% | ~6,558 |
-| Ploughshares to Swords | 5.00% | ~301 |
-| Bloody Graduation | 5.00% | ~301 |
-| Don't Make Me Turn This Coach Around | 4.00% | ~5,246 |
-| It Rings a Bell | 4.00% | ~5,246 |
-| Not Today! | 4.00% | ~5,246 |
-| Meat and Greet | 4.00% | ~5,246 |
-| Catch and Decease | 4.00% | ~5,246 |
-| It Happens | 4.00% | ~5,246 |
-| Rush Hour | 4.00% | ~5,246 |
-| Harvest Festival | 4.00% | ~5,246 |
-| To Grandmother's House | 4.00% | ~5,246 |
-| A Place to Lay Your Head | 4.00% | ~5,246 |
-| FNG | 4.00% | ~5,246 |
+| Ploughshares to Swords | 5.00% | ~302 |
+| Bloody Graduation | 5.00% | ~302 |
+| Don't Make Me Turn This Coach Around | 4.00% | ~5,247 |
+| It Rings a Bell | 4.00% | ~5,247 |
+| Not Today! | 4.00% | ~5,247 |
+| Meat and Greet | 4.00% | ~5,247 |
+| Catch and Decease | 4.00% | ~5,247 |
+| It Happens | 4.00% | ~5,247 |
+| Rush Hour | 4.00% | ~5,247 |
+| Merry Time | 4.00% | ~5,247 |
+| Harvest Festival | 4.00% | ~5,247 |
+| To Grandmother's House | 4.00% | ~5,247 |
+| A Place to Lay Your Head | 4.00% | ~5,247 |
+| FNG | 4.00% | ~5,247 |
 | Friends 'Til the End | 4.00% | ~241 |
 | Resurrection | 3.00% | ~3,935 |
 | Unleash Hell | 3.00% | ~3,935 |
@@ -40,7 +41,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Deprogramming | 3.00% | ~3,935 |
 | Now Stay Dead | 3.00% | ~3,935 |
 | Spelunker | 3.00% | ~3,935 |
-| Merry Time | 3.00% | ~3,935 |
 | Ramble On | 3.00% | ~3,935 |
 | A Clear Conscience | 3.00% | ~3,935 |
 | Whale | 3.00% | ~3,935 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,159 (Ranked 90)  
+Progressed: 131,165 (Ranked 90)  
 Completed: 3 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,7 +332,7 @@ Completed: 3 (0.00%) (Ranked 390)
 | 2023-12-29 | 130,627 | 3 |
 | 2023-12-30 | 130,838 | 3 |
 | 2023-12-31 | 131,026 | 3 |
-| 2024-01-01 | 131,159 | 3 |
+| 2024-01-01 | 131,165 | 3 |
 ## Awards
 Max (Character Customization): 7,919  (Ranked 50)  
 Sum: 21,323 (Ranked 58)  

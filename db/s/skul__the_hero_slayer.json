@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -1343,9 +1343,9 @@
       "Count": 147
     }
   ],
-  "EOS_Progressed": 13470,
+  "EOS_Progressed": 13471,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 986,
+  "EOS_NewPlayers": 983,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -8363,6 +8363,11 @@
       "Time": "2024-01-01T17:09:50.918891+00:00",
       "NumProgressed": 13470,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2024-01-01T18:09:34.4940712+00:00",
+      "NumProgressed": 13471,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 24,
@@ -8398,7 +8403,7 @@
       "Name": "Focus!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 8082
+      "UsersEstimate": 8083
     },
     {
       "ID": "DemonCastleRestoration",
@@ -8422,7 +8427,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 5253
+      "UsersEstimate": 5254
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -8430,7 +8435,7 @@
       "Name": "Deadly Power",
       "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 2020
+      "UsersEstimate": 2021
     },
     {
       "ID": "FirstHeroLastBattle",
@@ -8470,7 +8475,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 3906
+      "UsersEstimate": 3907
     },
     {
       "ID": "LeoniasFall_2",
@@ -8534,7 +8539,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 12527
+      "UsersEstimate": 12528
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -8558,22 +8563,22 @@
       "Name": "What should I buy?",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10911
+      "UsersEstimate": 10912
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 13470,
+      "Progressed": 13471,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2024-01-01T15:59:32.5152636+00:00",
-  "LastChanged_Achievements": "2024-01-01T17:09:50.9188906+00:00",
+  "LastChanged_Achievements": "2024-01-01T18:09:34.4940707+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:27.9431294+00:00",
-  "LastUpdate_Ratings": "2024-01-01T17:00:44.9022272+00:00",
-  "LastUpdate_Achievements": "2024-01-01T17:09:50.9189312+00:00"
+  "LastUpdate_Ratings": "2024-01-01T18:00:32.3162323+00:00",
+  "LastUpdate_Achievements": "2024-01-01T18:09:34.4941378+00:00"
 }

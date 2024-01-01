@@ -1,19 +1,19 @@
 # Darksiders Genesis
 [Store](https://store.epicgames.com/en-US/p/darksiders-genesis)  
 [View Rawdata](../../db/d/darksiders_genesis.json)  
-Rating: 4.49 (Ranked 632)  
+Rating: 4.49 (Ranked 633)  
 Number of Ratings: 67  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mint I | 5.00% | ~17 |
-| Soul Cache | 5.00% | ~17 |
+| Mint I | 5.00% | ~18 |
+| Soul Cache | 5.00% | ~18 |
 | Mammon | 2.00% | ~7 |
-| Astarte | 1.00% | ~3 |
-| Close the Rift | 1.00% | ~3 |
-| Hell's Forge | 1.00% | ~3 |
-| Master of War | 1.00% | ~3 |
-| The Dead Court | 1.00% | ~3 |
+| Astarte | 1.00% | ~4 |
+| Close the Rift | 1.00% | ~4 |
+| Hell's Forge | 1.00% | ~4 |
+| Master of War | 1.00% | ~4 |
+| The Dead Court | 1.00% | ~4 |
 | Demolition Derby | 0.90% | ~3 |
 | Master of Strife | 0.90% | ~3 |
 | Mint II | 0.90% | ~3 |
@@ -37,7 +37,7 @@ Number of Ratings: 67  (23.09.2022)
 | Respect For Animals | 0.00% | ~0 |
 | Garden of Forking Paths | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 349 (Ranked 373)  
+Progressed: 350 (Ranked 373)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -56,7 +56,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-29 | 284 | 0 |
 | 2023-12-30 | 308 | 0 |
 | 2023-12-31 | 336 | 0 |
-| 2024-01-01 | 349 | 0 |
+| 2024-01-01 | 350 | 0 |
 ## Awards
 Max (Great Boss Battles): 45  (Ranked 467)  
 Sum: 45 (Ranked 511)  

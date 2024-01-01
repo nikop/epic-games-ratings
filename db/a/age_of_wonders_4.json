@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -669,7 +669,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6676,
+  "EOS_Progressed": 6679,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 483,
   "EOS_NewCompleters": 0,
@@ -10014,6 +10014,11 @@
       "Time": "2024-01-01T17:08:19.3345389+00:00",
       "NumProgressed": 6676,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-01T18:08:07.8316962+00:00",
+      "NumProgressed": 6679,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10137,7 +10142,7 @@
       "Name": "Realm Estate",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "23",
@@ -10145,7 +10150,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "24",
@@ -10207,9 +10212,9 @@
       "ID": "30",
       "SetID": "3aa2279",
       "Name": "Preparation Is Everything",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 200
     },
     {
       "ID": "31",
@@ -10217,7 +10222,7 @@
       "Name": "Magical Synergy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "32",
@@ -10343,9 +10348,9 @@
       "ID": "6",
       "SetID": "3aa2279",
       "Name": "One for All, All for One",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 53
+      "UsersEstimate": 60
     },
     {
       "ID": "7",
@@ -10504,13 +10509,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6676,
+      "Progressed": 6679,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6676,
+      "Progressed": 6679,
       "Completed": 7
     }
   ],
@@ -10518,8 +10523,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-31T18:58:53.0277501+00:00",
-  "LastChanged_Achievements": "2024-01-01T17:08:19.3345386+00:00",
+  "LastChanged_Achievements": "2024-01-01T18:08:07.8316959+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-01T17:00:17.5846705+00:00",
-  "LastUpdate_Achievements": "2024-01-01T17:08:19.3346202+00:00"
+  "LastUpdate_Ratings": "2024-01-01T18:00:07.9535127+00:00",
+  "LastUpdate_Achievements": "2024-01-01T18:08:07.8317913+00:00"
 }

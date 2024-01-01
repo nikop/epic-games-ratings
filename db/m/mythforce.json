@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 379,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -848,9 +848,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5991,
+  "EOS_Progressed": 5993,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 178,
+  "EOS_NewPlayers": 180,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -12303,6 +12303,11 @@
       "Time": "2024-01-01T17:07:12.3451597+00:00",
       "NumProgressed": 5991,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-01T18:07:03.7052871+00:00",
+      "NumProgressed": 5993,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -12371,7 +12376,7 @@
       "Name": "First Strike",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 1258
+      "UsersEstimate": 1259
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -12379,7 +12384,7 @@
       "Name": "Flawless Victory",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -12395,7 +12400,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "MF_Ach_HitEmWhereItHurts",
@@ -12411,7 +12416,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -12443,7 +12448,7 @@
       "Name": "On this Episode!",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "MF_Ach_PerkShardPunchCard",
@@ -12467,7 +12472,7 @@
       "Name": "Spending Spree",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1139
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -12498,15 +12503,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5991,
+      "Progressed": 5993,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-26T21:58:46.0180606+00:00",
-  "LastChanged_Achievements": "2024-01-01T17:07:12.3451594+00:00",
+  "LastChanged_Achievements": "2024-01-01T18:07:03.7052868+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:44.5580896+00:00",
-  "LastUpdate_Ratings": "2024-01-01T16:58:41.6493602+00:00",
-  "LastUpdate_Achievements": "2024-01-01T17:07:12.3452093+00:00"
+  "LastUpdate_Ratings": "2024-01-01T17:58:36.7389177+00:00",
+  "LastUpdate_Achievements": "2024-01-01T18:07:03.7053635+00:00"
 }

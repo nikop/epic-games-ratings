@@ -2,13 +2,13 @@
   "ID": "456d95ca54814c8d98db2f52346ff5de",
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
-  "Ranking_Rating": 445,
+  "Ranking_Rating": 446,
   "Ranking_Popularity": 275,
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1647,9 +1647,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 245987,
+  "EOS_Progressed": 246003,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1378,
+  "EOS_NewPlayers": 1387,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24542,6 +24542,11 @@
       "Time": "2024-01-01T17:11:07.3800377+00:00",
       "NumProgressed": 245987,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-01T18:10:48.3694084+00:00",
+      "NumProgressed": 246003,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 88,
@@ -24601,7 +24606,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19679
+      "UsersEstimate": 19680
     },
     {
       "ID": "Chapter2",
@@ -24609,7 +24614,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12299
+      "UsersEstimate": 12300
     },
     {
       "ID": "Chapter3",
@@ -24953,7 +24958,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 22139
+      "UsersEstimate": 22140
     },
     {
       "ID": "DwarfElf15Support",
@@ -24985,7 +24990,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14759
+      "UsersEstimate": 14760
     },
     {
       "ID": "ElfEpic",
@@ -25001,7 +25006,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 88555
+      "UsersEstimate": 88561
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -25017,7 +25022,7 @@
       "Name": "GG EZ",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12299
+      "UsersEstimate": 12300
     },
     {
       "ID": "EndCombatOneHp",
@@ -25025,7 +25030,7 @@
       "Name": "DM intervention",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12299
+      "UsersEstimate": 12300
     },
     {
       "ID": "EndGameCursed",
@@ -25049,7 +25054,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 24599
+      "UsersEstimate": 24600
     },
     {
       "ID": "FollowBraztok",
@@ -25201,7 +25206,7 @@
       "Name": "Speedrun",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14759
+      "UsersEstimate": 14760
     },
     {
       "ID": "SupportCount4",
@@ -25249,28 +25254,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9839
+      "UsersEstimate": 9840
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 245987,
+      "Progressed": 246003,
       "Completed": 8
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 245987,
+      "Progressed": 246003,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-01T03:00:01.0080055+00:00",
-  "LastChanged_Achievements": "2024-01-01T17:11:07.3800373+00:00",
+  "LastChanged_Achievements": "2024-01-01T18:10:48.3694082+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:29.7482382+00:00",
-  "LastUpdate_Ratings": "2024-01-01T17:00:24.2701738+00:00",
-  "LastUpdate_Achievements": "2024-01-01T17:11:07.3802408+00:00"
+  "LastUpdate_Ratings": "2024-01-01T18:00:13.3437152+00:00",
+  "LastUpdate_Achievements": "2024-01-01T18:10:48.3695881+00:00"
 }

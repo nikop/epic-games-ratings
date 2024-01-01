@@ -2,10 +2,10 @@
   "ID": "b8877a4db3f04eec83b7410484e80473",
   "Name": "Railbreak",
   "ProductSlug": "railbreak-f87a0c",
-  "Ranking_EOS_Progress": 615,
+  "Ranking_EOS_Progress": 612,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 398,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 392,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-12-23T00:00:00+00:00",
     "PcReleaseDate": "2023-12-23T00:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21,
+  "EOS_Progressed": 22,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -124,6 +124,11 @@
       "Time": "2023-12-30T11:08:38.4427952+00:00",
       "NumProgressed": 21,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T18:09:03.0009947+00:00",
+      "NumProgressed": 22,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T01:52:57.8819176+00:00",
@@ -174,7 +179,7 @@
       "ID": "CYPRESS_RIDGE_PARK_ACH",
       "SetID": "af7amn3",
       "Name": "Cypress Ridge Park",
-      "Percentage": 29,
+      "Percentage": 27,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -182,7 +187,7 @@
       "ID": "DINNER_WITH_FRIENDS_ACH",
       "SetID": "af7amn3",
       "Name": "Dinner with Friends",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -192,21 +197,21 @@
       "Name": "Explosive Temper",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "HEADSHOT_ACH",
       "SetID": "af7amn3",
       "Name": "Headshot",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "MAIN_STREET_ACH",
       "SetID": "af7amn3",
       "Name": "Main Street",
-      "Percentage": 38,
+      "Percentage": 36,
       "XP": 30,
       "UsersEstimate": 8
     },
@@ -222,7 +227,7 @@
       "ID": "MIRANDAS_GARAGE_ACH",
       "SetID": "af7amn3",
       "Name": "Miranda\u0027s Garage",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 30,
       "UsersEstimate": 7
     },
@@ -254,7 +259,7 @@
       "ID": "TAKE_IN_THE_TOWN_ACH",
       "SetID": "af7amn3",
       "Name": "Take in the Town",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -278,7 +283,7 @@
       "ID": "THE_JOURNALIST_ACH",
       "SetID": "af7amn3",
       "Name": "The Journalist",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -286,7 +291,7 @@
       "ID": "THE_LAST_SHOT_BAR_ACH",
       "SetID": "af7amn3",
       "Name": "The Last Shot Bar",
-      "Percentage": 62,
+      "Percentage": 59,
       "XP": 30,
       "UsersEstimate": 13
     },
@@ -302,7 +307,7 @@
       "ID": "THE_MECHANIC_ACH",
       "SetID": "af7amn3",
       "Name": "The Mechanic",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -310,7 +315,7 @@
       "ID": "THE_SINGER_ACH",
       "SetID": "af7amn3",
       "Name": "The Singer",
-      "Percentage": 38,
+      "Percentage": 36,
       "XP": 50,
       "UsersEstimate": 8
     },
@@ -326,23 +331,23 @@
       "ID": "WEAK_KNEES_ACH",
       "SetID": "af7amn3",
       "Name": "Weak Knees",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     }
   ],
   "AchievementSets": [
     {
       "ID": "af7amn3",
       "IsBase": true,
-      "Progressed": 21,
+      "Progressed": 22,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-30T21:03:34.3520753+00:00",
   "FirstSeenAchievements": "2023-11-05T21:07:03.3998078+00:00",
-  "LastChanged_Achievements": "2024-01-01T17:09:17.4457014+00:00",
+  "LastChanged_Achievements": "2024-01-01T18:09:03.0009943+00:00",
   "LastUpdate_AppInfo": "2023-12-29T23:56:57.4341217+00:00",
-  "LastUpdate_Ratings": "2024-01-01T16:58:06.0606734+00:00",
-  "LastUpdate_Achievements": "2024-01-01T17:09:17.4457121+00:00"
+  "LastUpdate_Ratings": "2024-01-01T17:58:04.4069052+00:00",
+  "LastUpdate_Achievements": "2024-01-01T18:09:03.001014+00:00"
 }

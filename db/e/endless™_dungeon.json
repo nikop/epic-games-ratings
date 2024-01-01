@@ -4,8 +4,8 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1450,
+  "EOS_Progressed": 1452,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3065,6 +3065,11 @@
       "Time": "2024-01-01T12:06:58.6772951+00:00",
       "NumProgressed": 1450,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T18:07:22.8510386+00:00",
+      "NumProgressed": 1452,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -3101,7 +3106,7 @@
       "Name": "Endless Biographer",
       "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_BLOB_BOSS",
@@ -3109,7 +3114,7 @@
       "Name": "Blobmeister",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "ACHIEVEMENT_BLUR_BOSS",
@@ -3133,7 +3138,7 @@
       "Name": "Pest Control",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -3157,7 +3162,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -3173,7 +3178,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -3197,7 +3202,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACHIEVEMENT_FIRST_RELOAD",
@@ -3221,7 +3226,7 @@
       "Name": "Hoarder",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -3277,7 +3282,7 @@
       "Name": "Effective Efficiency",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ACHIEVEMENT_SCORE_WIN2WIN",
@@ -3316,14 +3321,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1450,
+      "Progressed": 1452,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2024-01-01T17:07:32.098004+00:00",
+  "LastChanged_Achievements": "2024-01-01T18:07:22.8510381+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:41.9593832+00:00",
-  "LastUpdate_Ratings": "2024-01-01T16:58:26.8471621+00:00",
-  "LastUpdate_Achievements": "2024-01-01T17:07:32.0980394+00:00"
+  "LastUpdate_Ratings": "2024-01-01T17:58:24.6257991+00:00",
+  "LastUpdate_Achievements": "2024-01-01T18:07:22.8510784+00:00"
 }

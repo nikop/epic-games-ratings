@@ -5,9 +5,9 @@
   "Ranking_Rating": 961,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
-  "Ranking_EOS_Progress": 251,
-  "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_Progress": 252,
+  "Ranking_EOS_Completed": 88,
+  "Ranking_EOS_NewPlayers": 361,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1812,
+  "EOS_Progressed": 1813,
   "EOS_Completed": 76,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.19,
   "EosHistory": [
@@ -4143,6 +4143,11 @@
       "Time": "2024-01-01T14:03:58.0329274+00:00",
       "NumProgressed": 1812,
       "NumCompleted": 76
+    },
+    {
+      "Time": "2024-01-01T18:04:06.5190712+00:00",
+      "NumProgressed": 1813,
+      "NumCompleted": 76
     }
   ],
   "TotalAchievements": 11,
@@ -4152,9 +4157,9 @@
       "ID": "ACH_Appuntamento",
       "SetID": "7a9m7mj",
       "Name": "Cutepie",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 743
+      "UsersEstimate": 725
     },
     {
       "ID": "ACH_BloccatoInGhiacciaia",
@@ -4170,7 +4175,7 @@
       "Name": "Screwdriver",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "ACH_DialogoAspettoFisico",
@@ -4218,7 +4223,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1377
+      "UsersEstimate": 1378
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -4241,15 +4246,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1812,
+      "Progressed": 1813,
       "Completed": 76
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-11-07T11:59:02.4644389+00:00",
-  "LastChanged_Achievements": "2024-01-01T17:04:07.5127014+00:00",
+  "LastChanged_Achievements": "2024-01-01T18:04:06.5190709+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:08.0184284+00:00",
-  "LastUpdate_Ratings": "2024-01-01T16:59:56.8943747+00:00",
-  "LastUpdate_Achievements": "2024-01-01T17:04:07.5127317+00:00"
+  "LastUpdate_Ratings": "2024-01-01T17:59:47.5012227+00:00",
+  "LastUpdate_Achievements": "2024-01-01T18:04:06.5191074+00:00"
 }

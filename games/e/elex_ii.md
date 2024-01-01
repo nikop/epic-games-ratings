@@ -29,6 +29,7 @@ Number of Ratings: 124  (23.09.2022)
 | Beam Me Up | 4.00% | ~6 |
 | Hotshot | 4.00% | ~6 |
 | Free as a Bird | 4.00% | ~6 |
+| Cleric | 4.00% | ~6 |
 | Perfectionist | 4.00% | ~6 |
 | Detective | 4.00% | ~6 |
 | Lover | 4.00% | ~6 |
@@ -37,7 +38,6 @@ Number of Ratings: 124  (23.09.2022)
 | Self-Sufficient | 3.00% | ~5 |
 | Idealist | 3.00% | ~5 |
 | Unbreakable | 3.00% | ~5 |
-| Cleric | 3.00% | ~5 |
 | Weaponsmith | 1.00% | ~2 |
 | Morkon | 1.00% | ~2 |
 | Legendary | 1.00% | ~2 |

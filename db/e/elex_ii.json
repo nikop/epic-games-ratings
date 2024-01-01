@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 441,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
     "PcReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -1407,9 +1407,9 @@
       "ID": "CHOSEKLE",
       "SetID": "a1angca",
       "Name": "Cleric",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "CHOSEMOR",
@@ -1599,8 +1599,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2024-01-01T17:06:52.8739271+00:00",
+  "LastChanged_Achievements": "2024-01-01T18:06:44.9539829+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:16.9599546+00:00",
-  "LastUpdate_Ratings": "2024-01-01T17:00:35.2410992+00:00",
-  "LastUpdate_Achievements": "2024-01-01T17:06:52.8739732+00:00"
+  "LastUpdate_Ratings": "2024-01-01T18:00:22.8800416+00:00",
+  "LastUpdate_Achievements": "2024-01-01T18:06:44.9540194+00:00"
 }

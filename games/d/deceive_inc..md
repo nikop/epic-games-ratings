@@ -1,7 +1,7 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.59 (Ranked 445)  
+Rating: 4.59 (Ranked 446)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,10 +9,10 @@ Rating: 4.59 (Ranked 445)
 | Mainframe Hacker | 23.00% | ~4,422 |
 | The Spy who eliminated me | 23.00% | ~4,422 |
 | Tomorrow Never Dyes | 22.00% | ~4,230 |
-| From the Vault with Love | 18.00% | ~3,460 |
-| Never Say Loser Again | 18.00% | ~3,460 |
-| Tailor-Made | 18.00% | ~3,460 |
-| For your Eyes only | 18.00% | ~3,460 |
+| From the Vault with Love | 18.00% | ~3,461 |
+| Never Say Loser Again | 18.00% | ~3,461 |
+| Tailor-Made | 18.00% | ~3,461 |
+| For your Eyes only | 18.00% | ~3,461 |
 | Assistant Accountant | 17.00% | ~3,268 |
 | You Only Live Twice | 16.00% | ~3,076 |
 | Fully Decked Out | 16.00% | ~3,076 |
@@ -23,17 +23,17 @@ Rating: 4.59 (Ranked 445)
 | Private Collection | 11.00% | ~2,115 |
 | Killer Looks | 11.00% | ~2,115 |
 | Hostile Takeover | 11.00% | ~2,115 |
-| Keycards Royale | 10.00% | ~1,922 |
-| Dr. No Kill | 10.00% | ~1,922 |
+| Keycards Royale | 10.00% | ~1,923 |
+| Dr. No Kill | 10.00% | ~1,923 |
 | In It to Win It | 9.00% | ~1,730 |
 | Security Supervisor | 6.00% | ~1,154 |
 | License to Thrill | 5.00% | ~961 |
 | Social of Solace | 4.00% | ~769 |
 | Live and let lie | 3.00% | ~577 |
 | Safe Withdrawal | 3.00% | ~577 |
-| Branch Manager | 2.00% | ~384 |
-| Call Me Maybe | 2.00% | ~384 |
-| PHD in VIP | 2.00% | ~384 |
+| Branch Manager | 2.00% | ~385 |
+| Call Me Maybe | 2.00% | ~385 |
+| PHD in VIP | 2.00% | ~385 |
 | The terminals are not enough | 1.00% | ~192 |
 | Lose Another Day | 1.00% | ~192 |
 | Chairman of Deceive Inc. | 0.90% | ~173 |
@@ -42,7 +42,7 @@ Rating: 4.59 (Ranked 445)
 | Extraction Confusion | 0.20% | ~38 |
 | Spyfall | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,225 (Ranked 154)  
+Progressed: 19,226 (Ranked 154)  
 Completed: 4 (0.02%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 4 (0.02%) (Ranked 357)
 | 2023-12-29 | 19,200 | 4 |
 | 2023-12-30 | 19,208 | 4 |
 | 2023-12-31 | 19,219 | 4 |
-| 2024-01-01 | 19,225 | 4 |
+| 2024-01-01 | 19,226 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

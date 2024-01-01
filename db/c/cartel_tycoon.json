@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 907,
+  "EOS_Progressed": 908,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -3211,6 +3211,11 @@
       "Time": "2024-01-01T15:06:04.3096327+00:00",
       "NumProgressed": 907,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-01T18:07:49.1798284+00:00",
+      "NumProgressed": 908,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3222,7 +3227,7 @@
       "Name": "Safe Pair of Hands",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "cool-shirts",
@@ -3270,7 +3275,7 @@
       "Name": "Our Man",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "kill-lieutenants",
@@ -3284,9 +3289,9 @@
       "ID": "pack-and-sell",
       "SetID": "bed33dd",
       "Name": "Hokey-Pokey",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 617
+      "UsersEstimate": 627
     },
     {
       "ID": "play-at-night",
@@ -3302,7 +3307,7 @@
       "Name": "Follow the Money",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "rage-quit",
@@ -3310,7 +3315,7 @@
       "Name": "Bad Trip",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "rename-lieutenant",
@@ -3332,9 +3337,9 @@
       "ID": "sell-variety",
       "SetID": "bed33dd",
       "Name": "Spread",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 381
+      "UsersEstimate": 390
     },
     {
       "ID": "send-smuggling",
@@ -3373,15 +3378,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 907,
+      "Progressed": 908,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-23T10:57:58.3271618+00:00",
-  "LastChanged_Achievements": "2024-01-01T17:07:59.7639589+00:00",
+  "LastChanged_Achievements": "2024-01-01T18:07:49.1798281+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:28.1140989+00:00",
-  "LastUpdate_Ratings": "2024-01-01T17:03:09.3737329+00:00",
-  "LastUpdate_Achievements": "2024-01-01T17:07:59.7639839+00:00"
+  "LastUpdate_Ratings": "2024-01-01T18:03:13.2540286+00:00",
+  "LastUpdate_Achievements": "2024-01-01T18:07:49.1798522+00:00"
 }

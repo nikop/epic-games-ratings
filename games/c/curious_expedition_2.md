@@ -6,34 +6,34 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 66.00% | ~257 |
-| Cartographer | 59.00% | ~230 |
-| A Strange Artefact | 54.00% | ~210 |
-| Insomnia | 50.00% | ~194 |
-| Lost & Found & Lost Again | 45.00% | ~175 |
-| From Whence we Came | 44.00% | ~171 |
-| Fire and Flood | 42.00% | ~163 |
-| Spooky! | 38.00% | ~148 |
-| Shennong Herbalist | 36.00% | ~140 |
-| Treasure Hunt | 36.00% | ~140 |
-| Good Mama | 34.00% | ~132 |
-| O Captain My Captain | 32.00% | ~124 |
+| The Adventure Begins | 65.00% | ~254 |
+| Cartographer | 58.00% | ~227 |
+| A Strange Artefact | 54.00% | ~211 |
+| Insomnia | 50.00% | ~196 |
+| Lost & Found & Lost Again | 45.00% | ~176 |
+| From Whence we Came | 44.00% | ~172 |
+| Fire and Flood | 42.00% | ~164 |
+| Spooky! | 38.00% | ~149 |
+| Shennong Herbalist | 36.00% | ~141 |
+| Treasure Hunt | 36.00% | ~141 |
+| Good Mama | 34.00% | ~133 |
+| O Captain My Captain | 32.00% | ~125 |
 | Plunderer | 31.00% | ~121 |
 | Taxonomist | 28.00% | ~109 |
-| Traveller | 26.00% | ~101 |
-| Uncertain Loyalties | 26.00% | ~101 |
-| Nahua Seeker | 24.00% | ~93 |
-| Roll to Save | 23.00% | ~89 |
+| Traveller | 26.00% | ~102 |
+| Uncertain Loyalties | 26.00% | ~102 |
+| Nahua Seeker | 24.00% | ~94 |
+| Roll to Save | 23.00% | ~90 |
 | Veteran Explorer | 22.00% | ~86 |
 | Red Flag Pirate | 20.00% | ~78 |
 | Iron Man | 17.00% | ~66 |
 | A Gentle Beast | 17.00% | ~66 |
-| Shortening of the Way | 16.00% | ~62 |
-| Practical Palaeontology | 16.00% | ~62 |
-| Adventurer | 15.00% | ~58 |
-| For the Club! | 15.00% | ~58 |
-| Dapper | 15.00% | ~58 |
-| The New Director | 14.00% | ~54 |
+| Shortening of the Way | 16.00% | ~63 |
+| Practical Palaeontology | 16.00% | ~63 |
+| Adventurer | 15.00% | ~59 |
+| For the Club! | 15.00% | ~59 |
+| Dapper | 15.00% | ~59 |
+| The New Director | 14.00% | ~55 |
 | The Director is Dead | 13.00% | ~51 |
 | And Here Is Your Statue | 13.00% | ~51 |
 | Discovery | 13.00% | ~51 |
@@ -50,9 +50,9 @@ Number of Ratings: 20  (23.09.2022)
 | Zookeeper | 7.00% | ~27 |
 | The Workshop | 7.00% | ~27 |
 | Islander Understanding | 6.00% | ~23 |
-| A Paris Sunset | 5.00% | ~19 |
-| The Director Perseveres | 5.00% | ~19 |
-| The Round Table | 5.00% | ~19 |
+| A Paris Sunset | 5.00% | ~20 |
+| The Director Perseveres | 5.00% | ~20 |
+| The Round Table | 5.00% | ~20 |
 | X Marks the Spot | 4.00% | ~16 |
 | Frugal | 4.00% | ~16 |
 | I Set Forth Again... and Again... and Again... | 4.00% | ~16 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.80% | ~3 |
 | Now I've Seen It All | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 389 (Ranked 364)  
+Progressed: 391 (Ranked 363)  
 Completed: 1 (0.26%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 1 (0.26%) (Ranked 261)
 | 2023-12-29 | 382 | 1 |
 | 2023-12-30 | 383 | 1 |
 | 2023-12-31 | 388 | 1 |
-| 2024-01-01 | 389 | 1 |
+| 2024-01-01 | 391 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

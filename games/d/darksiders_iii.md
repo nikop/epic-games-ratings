@@ -14,20 +14,20 @@ Number of Ratings: 116  (23.09.2022)
 | Increased Capacity | 52.00% | ~189 |
 | Just the start | 48.00% | ~175 |
 | Perfect Storm | 45.00% | ~164 |
-| All That Glitters | 44.00% | ~160 |
+| All That Glitters | 45.00% | ~164 |
 | Enhance! | 41.00% | ~149 |
 | One Of the Chosen | 39.00% | ~142 |
+| Devil's in the Details | 38.00% | ~138 |
 | Throne Potato | 38.00% | ~138 |
-| Devil's in the Details | 37.00% | ~135 |
 | Five's a Crowd | 37.00% | ~135 |
 | 25 to Life | 36.00% | ~131 |
+| Soul Harvester | 35.00% | ~127 |
 | Salvation | 35.00% | ~127 |
-| Soul Harvester | 34.00% | ~124 |
 | Unshakable Fortitude | 32.00% | ~116 |
 | I Wanna Rock | 30.00% | ~109 |
 | Delusions of Grandeur | 30.00% | ~109 |
 | Maximum Vigor | 29.00% | ~106 |
-| Love Tap | 28.00% | ~102 |
+| Love Tap | 29.00% | ~106 |
 | Freeze Frame | 26.00% | ~95 |
 | For Whom the Bell Tolls | 26.00% | ~95 |
 | Eat Your Heart Out | 25.00% | ~91 |

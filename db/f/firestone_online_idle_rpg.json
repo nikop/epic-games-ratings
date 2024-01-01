@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -697,9 +697,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4064,
+  "EOS_Progressed": 4067,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 271,
+  "EOS_NewPlayers": 272,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -11472,6 +11472,11 @@
       "Time": "2024-01-01T17:07:57.015356+00:00",
       "NumProgressed": 4064,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-01T18:07:46.6136088+00:00",
+      "NumProgressed": 4067,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -11595,7 +11600,7 @@
       "Name": "Dragon Master",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "dragonslayer",
@@ -11649,9 +11654,9 @@
       "ID": "enlightenment",
       "SetID": "3nl4bcg",
       "Name": "Enlightenment",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 569
+      "UsersEstimate": 529
     },
     {
       "ID": "exoticmerchant",
@@ -11659,7 +11664,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "fellowshippower",
@@ -11667,7 +11672,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1707
+      "UsersEstimate": 1708
     },
     {
       "ID": "fourleafclover",
@@ -11675,7 +11680,7 @@
       "Name": "Four Leaf Clover",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "frostfireliberator",
@@ -11691,7 +11696,7 @@
       "Name": "Full Party",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "gearenchanting",
@@ -11723,7 +11728,7 @@
       "Name": "Here We Go Again",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "heroinspection",
@@ -11731,7 +11736,7 @@
       "Name": "Hero inspection",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "howdoyouturnthison",
@@ -11795,7 +11800,7 @@
       "Name": "Master Enchanter",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "mastery",
@@ -11875,7 +11880,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 2113
+      "UsersEstimate": 2115
     },
     {
       "ID": "prestigiousx10",
@@ -11939,7 +11944,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2276
+      "UsersEstimate": 2278
     },
     {
       "ID": "thealchemist",
@@ -11963,7 +11968,7 @@
       "Name": "The father of Dragons",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "thegameison",
@@ -12003,7 +12008,7 @@
       "Name": "Trader",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "trainingmakesaproplayer",
@@ -12043,7 +12048,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 3780
+      "UsersEstimate": 3782
     },
     {
       "ID": "warmachinesarmy",
@@ -12075,14 +12080,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3170
+      "UsersEstimate": 3172
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4064,
+      "Progressed": 4067,
       "Completed": 2
     }
   ],
@@ -12090,8 +12095,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-01T01:56:17.6902286+00:00",
-  "LastChanged_Achievements": "2024-01-01T17:07:57.0153558+00:00",
+  "LastChanged_Achievements": "2024-01-01T18:07:46.6136085+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:50.7213096+00:00",
-  "LastUpdate_Ratings": "2024-01-01T17:01:49.7434025+00:00",
-  "LastUpdate_Achievements": "2024-01-01T17:07:57.0154508+00:00"
+  "LastUpdate_Ratings": "2024-01-01T18:01:36.2075035+00:00",
+  "LastUpdate_Achievements": "2024-01-01T18:07:46.6137171+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "3c06b15a8a2845c0b725d4f952fe00aa",
   "Name": "HITMAN",
   "ProductSlug": "hitman/standard-edition",
-  "Ranking_Rating": 344,
+  "Ranking_Rating": 345,
   "Ranking_Popularity": 290,
   "Ranking_PopularitySum": 234,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 572,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 573,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -2740,10 +2740,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 1622,
       "NumberOfAwardsMax": 217
+    },
+    {
+      "Time": "2024-01-01T18:00:26.1805833+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 1623,
+      "NumberOfAwardsMax": 217
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1622,
+  "NumberOfAwards": 1623,
   "NumberOfAwardsMax": 217,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2775,7 +2781,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 176
+      "Count": 177
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2819,8 +2825,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:10.6067815+00:00",
-  "LastChanged": "2023-12-31T09:58:44.5129445+00:00",
+  "LastChanged": "2024-01-01T18:00:26.1805832+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:26.4624878+00:00",
-  "LastUpdate_Ratings": "2024-01-01T17:00:38.5454052+00:00",
-  "LastUpdate_Achievements": "2024-01-01T17:04:22.6265762+00:00"
+  "LastUpdate_Ratings": "2024-01-01T18:00:26.1805839+00:00",
+  "LastUpdate_Achievements": "2024-01-01T18:04:20.7132094+00:00"
 }

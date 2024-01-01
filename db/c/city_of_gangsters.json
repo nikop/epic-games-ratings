@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -1030,9 +1030,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 359818,
+  "EOS_Progressed": 359821,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1365,
+  "EOS_NewPlayers": 1357,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30275,6 +30275,11 @@
       "Time": "2024-01-01T17:08:36.120194+00:00",
       "NumProgressed": 359818,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-01T18:08:23.9951616+00:00",
+      "NumProgressed": 359821,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -30302,7 +30307,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 43178
+      "UsersEstimate": 43179
     },
     {
       "ID": "ach004",
@@ -30342,7 +30347,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 43178
+      "UsersEstimate": 43179
     },
     {
       "ID": "ach009",
@@ -30374,7 +30379,7 @@
       "Name": "Core Corps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 28785
+      "UsersEstimate": 28786
     },
     {
       "ID": "ach013",
@@ -30414,7 +30419,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 46776
+      "UsersEstimate": 46777
     },
     {
       "ID": "ach018",
@@ -30422,7 +30427,7 @@
       "Name": "Sizeable Stash",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 28785
+      "UsersEstimate": 28786
     },
     {
       "ID": "ach019",
@@ -30494,7 +30499,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 165516
+      "UsersEstimate": 165518
     },
     {
       "ID": "ach028",
@@ -30638,7 +30643,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 46776
+      "UsersEstimate": 46777
     },
     {
       "ID": "ach046",
@@ -30925,7 +30930,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 359818,
+      "Progressed": 359821,
       "Completed": 7
     }
   ],
@@ -30933,8 +30938,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-12-31T21:58:48.4985633+00:00",
-  "LastChanged_Achievements": "2024-01-01T17:08:36.1201936+00:00",
+  "LastChanged_Achievements": "2024-01-01T18:08:23.9951613+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:16.170494+00:00",
-  "LastUpdate_Ratings": "2024-01-01T17:00:25.4359908+00:00",
-  "LastUpdate_Achievements": "2024-01-01T17:08:36.1203969+00:00"
+  "LastUpdate_Ratings": "2024-01-01T18:00:14.4412248+00:00",
+  "LastUpdate_Achievements": "2024-01-01T18:08:23.9953381+00:00"
 }

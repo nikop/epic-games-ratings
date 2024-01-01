@@ -495,11 +495,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3791,
+  "EOS_Progressed": 3793,
   "EOS_Completed": 142,
-  "EOS_NewPlayers": 181,
+  "EOS_NewPlayers": 180,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 3.75,
+  "EOS_Completed_Percentage": 3.74,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.7979813+00:00",
@@ -6560,6 +6560,11 @@
       "Time": "2024-01-01T17:08:57.0743407+00:00",
       "NumProgressed": 3791,
       "NumCompleted": 142
+    },
+    {
+      "Time": "2024-01-01T18:08:43.5362965+00:00",
+      "NumProgressed": 3793,
+      "NumCompleted": 142
     }
   ],
   "TotalAchievements": 14,
@@ -6579,7 +6584,7 @@
       "Name": "Case Closed",
       "Percentage": 35,
       "XP": 55,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1328
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -6603,7 +6608,7 @@
       "Name": "Dog Person",
       "Percentage": 18,
       "XP": 80,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "ACH_EASY_AS_PIE",
@@ -6611,7 +6616,7 @@
       "Name": "Easy As Pie",
       "Percentage": 33,
       "XP": 55,
-      "UsersEstimate": 1251
+      "UsersEstimate": 1252
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -6619,7 +6624,7 @@
       "Name": "Family Lost",
       "Percentage": 32,
       "XP": 80,
-      "UsersEstimate": 1213
+      "UsersEstimate": 1214
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -6667,7 +6672,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 29,
       "XP": 80,
-      "UsersEstimate": 1099
+      "UsersEstimate": 1100
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
@@ -6675,14 +6680,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 79,
       "XP": 35,
-      "UsersEstimate": 2995
+      "UsersEstimate": 2996
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3791,
+      "Progressed": 3793,
       "Completed": 142
     }
   ],
@@ -6690,8 +6695,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-12-29T23:00:02.814442+00:00",
-  "LastChanged_Achievements": "2024-01-01T17:08:57.0743403+00:00",
+  "LastChanged_Achievements": "2024-01-01T18:08:43.5362908+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:02.885587+00:00",
-  "LastUpdate_Ratings": "2024-01-01T17:03:06.7636939+00:00",
-  "LastUpdate_Achievements": "2024-01-01T17:08:57.0743846+00:00"
+  "LastUpdate_Ratings": "2024-01-01T18:03:10.3690307+00:00",
+  "LastUpdate_Achievements": "2024-01-01T18:08:43.5363392+00:00"
 }

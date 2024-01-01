@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marc Allard | 76.00% | ~63 |
+| Marc Allard | 75.00% | ~63 |
 | Little ideas | 73.00% | ~61 |
-| The Ship | 70.00% | ~58 |
+| The Ship | 69.00% | ~58 |
 | Seeking the truth | 55.00% | ~46 |
-| An old friend | 53.00% | ~44 |
-| The Gala | 52.00% | ~43 |
+| An old friend | 52.00% | ~44 |
+| The Gala | 51.00% | ~43 |
 | A curious gathering | 49.00% | ~41 |
 | Little grey cells | 48.00% | ~40 |
 | Impossible is possible | 48.00% | ~40 |
@@ -25,9 +25,9 @@
 | Irene Court-Smyth | 31.00% | ~26 |
 | An odd series of events | 30.00% | ~25 |
 | The Apartment | 30.00% | ~25 |
-| Nathaniel Dryden | 28.00% | ~23 |
-| A rude awakening | 27.00% | ~22 |
-| Bartholomew | 27.00% | ~22 |
+| Nathaniel Dryden | 27.00% | ~23 |
+| A rude awakening | 26.00% | ~22 |
+| Bartholomew | 26.00% | ~22 |
 | Well-acquainted | 25.00% | ~21 |
 | Anastasia Babanin | 25.00% | ~21 |
 | The Scheme | 25.00% | ~21 |
@@ -39,9 +39,9 @@
 | Horace Mountjoy | 17.00% | ~14 |
 | Johan Kristiansen | 17.00% | ~14 |
 | The Secrets | 17.00% | ~14 |
-| Well-travelled | 16.00% | ~13 |
-| A peculiar fellow | 16.00% | ~13 |
-| Mortimer Ailsworth | 16.00% | ~13 |
+| Well-travelled | 15.00% | ~13 |
+| A peculiar fellow | 15.00% | ~13 |
+| Mortimer Ailsworth | 15.00% | ~13 |
 | Florence Farquhar | 14.00% | ~12 |
 | The Investigation Starts Anew | 14.00% | ~12 |
 | A treasured heirloom | 12.00% | ~10 |
@@ -51,8 +51,8 @@
 | A perilous journey | 11.00% | ~9 |
 | Perkins | 7.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83 (Ranked 502)  
-Completed: 3 (3.61%) (Ranked 98)  
+Progressed: 84 (Ranked 502)  
+Completed: 3 (3.57%) (Ranked 98)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -107,3 +107,4 @@ Completed: 3 (3.61%) (Ranked 98)
 | 2023-12-29 | 77 | 3 |
 | 2023-12-30 | 82 | 3 |
 | 2023-12-31 | 83 | 3 |
+| 2024-01-01 | 84 | 3 |

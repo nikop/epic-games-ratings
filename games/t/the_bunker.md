@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Goodbye | 90.00% | ~149 |
-| The Routine | 80.00% | ~133 |
-| Mother | 78.00% | ~129 |
-| Failure | 75.00% | ~124 |
-| Replace Fuse | 67.00% | ~111 |
-| Alarm | 66.00% | ~110 |
-| Air Filtration | 63.00% | ~105 |
-| Broken | 60.00% | ~100 |
-| Radiation | 60.00% | ~100 |
-| Descent | 58.00% | ~96 |
-| Awakenings | 57.00% | ~95 |
-| Cold Storage | 57.00% | ~95 |
-| Sam | 57.00% | ~95 |
-| Soldier | 52.00% | ~86 |
-| Leave | 51.00% | ~85 |
-| Churchill | 50.00% | ~83 |
-| Commissioner | 49.00% | ~81 |
-| Engineer | 49.00% | ~81 |
-| Doctor | 46.00% | ~76 |
+| Last Goodbye | 90.00% | ~151 |
+| The Routine | 80.00% | ~134 |
+| Mother | 78.00% | ~131 |
+| Failure | 76.00% | ~128 |
+| Replace Fuse | 67.00% | ~113 |
+| Alarm | 65.00% | ~109 |
+| Air Filtration | 63.00% | ~106 |
+| Broken | 60.00% | ~101 |
+| Radiation | 59.00% | ~99 |
+| Descent | 57.00% | ~96 |
+| Awakenings | 57.00% | ~96 |
+| Cold Storage | 57.00% | ~96 |
+| Sam | 57.00% | ~96 |
+| Soldier | 51.00% | ~86 |
+| Leave | 50.00% | ~84 |
+| Commissioner | 50.00% | ~84 |
+| Churchill | 49.00% | ~82 |
+| Engineer | 48.00% | ~81 |
+| Doctor | 46.00% | ~77 |
 | Press Play | 36.00% | ~60 |
-| General | 28.00% | ~46 |
-| Bookworm | 26.00% | ~43 |
+| General | 27.00% | ~45 |
+| Bookworm | 26.00% | ~44 |
 | Floppy Disk Finder | 16.00% | ~27 |
 | Stay | 13.00% | ~22 |
 | Nurse | 10.00% | ~17 |
@@ -33,8 +33,8 @@
 | The Missing Piece | 6.00% | ~10 |
 | Friends | 5.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 166 (Ranked 436)  
-Completed: 7 (4.22%) (Ranked 88)  
+Progressed: 168 (Ranked 436)  
+Completed: 7 (4.17%) (Ranked 89)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -98,6 +98,7 @@ Completed: 7 (4.22%) (Ranked 88)
 | 2023-12-27 | 163 | 7 |
 | 2023-12-28 | 164 | 7 |
 | 2023-12-31 | 166 | 7 |
+| 2024-01-01 | 168 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

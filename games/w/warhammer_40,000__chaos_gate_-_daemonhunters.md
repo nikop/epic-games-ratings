@@ -18,10 +18,10 @@ Number of Ratings: 371  (23.09.2022)
 | Friendly Fire | 5.00% | ~185 |
 | Honoured Battle-Brother | 4.00% | ~148 |
 | The Emperor Protects | 4.00% | ~148 |
+| Nemesis Master | 4.00% | ~148 |
 | Gunmaster | 4.00% | ~148 |
 | A Foul Creche | 4.00% | ~148 |
 | Hold Your Ground | 3.00% | ~111 |
-| Nemesis Master | 3.00% | ~111 |
 | Just a Scratch | 3.00% | ~111 |
 | Daemonkeeper | 2.00% | ~74 |
 | Corruption Cleanser | 2.00% | ~74 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,698 (Ranked 216)  
+Progressed: 3,699 (Ranked 216)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,10 +300,10 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-29 | 3,644 | 0 |
 | 2023-12-30 | 3,663 | 0 |
 | 2023-12-31 | 3,685 | 0 |
-| 2024-01-01 | 3,698 | 0 |
+| 2024-01-01 | 3,699 | 0 |
 ## Awards
 Max (Character Customization): 232  (Ranked 282)  
-Sum: 493 (Ranked 335)  
+Sum: 494 (Ranked 335)  
 Diff (max vs sum): -53  
 | Award | Count |
 | ----- | ----- |
@@ -312,7 +312,7 @@ Diff (max vs sum): -53
 | This game has Amazing Storytelling | 32 |
 | This game has Amazing Characters | 32 |
 | This game is Highly Recommended | 31 |
-| This game has Diverse Characters | 29 |
+| This game has Diverse Characters | 30 |
 | This game has Competitive Players | 29 |
 | This game has Challenging Combat | 29 |
 | This game is Relaxing | 25 |
@@ -436,3 +436,4 @@ Diff (max vs sum): -53
 | 2023-12-16 | 4.58 | - | 229 | 490 |
 | 2023-12-24 | 4.58 | - | 231 | 492 |
 | 2023-12-29 | 4.58 | - | 232 | 493 |
+| 2024-01-01 | 4.58 | - | 232 | 494 |
