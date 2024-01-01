@@ -55,6 +55,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana | 0.40% | ~64 |
 | Great Ziggurat | 0.40% | ~64 |
 | Musaeum | 0.40% | ~64 |
+| Necropolis | 0.40% | ~64 |
 | Manichaeism | 0.40% | ~64 |
 | Carthaginian Paganism | 0.40% | ~64 |
 | Hanging Gardens in Babylon | 0.30% | ~48 |
@@ -70,7 +71,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Iron | 0.30% | ~48 |
 | Colossus | 0.30% | ~48 |
 | Mausoleum | 0.30% | ~48 |
-| Necropolis | 0.30% | ~48 |
 | Learn to Play 2 | 0.30% | ~48 |
 | Learn to Play 3 | 0.30% | ~48 |
 | Egyptian Paganism | 0.30% | ~48 |

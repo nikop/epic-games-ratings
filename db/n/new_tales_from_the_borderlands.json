@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -177,9 +177,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3779,
+  "EOS_Progressed": 3780,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2152,6 +2152,11 @@
       "Time": "2023-12-31T15:05:06.7117691+00:00",
       "NumProgressed": 3779,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T16:04:40.5447246+00:00",
+      "NumProgressed": 3780,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -2195,7 +2200,7 @@
       "Name": "Totally Intentional",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1738
+      "UsersEstimate": 1739
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -2283,7 +2288,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1927
+      "UsersEstimate": 1928
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -2347,7 +2352,7 @@
       "Name": "Don\u0027t Get Cocky",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1020
+      "UsersEstimate": 1021
     },
     {
       "ID": "WIN_VAULTLANDER_BATTLE_CLAPTRAP",
@@ -2370,7 +2375,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3779,
+      "Progressed": 3780,
       "Completed": 0
     }
   ],
@@ -2378,8 +2383,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2024-01-01T15:04:30.3493621+00:00",
+  "LastChanged_Achievements": "2024-01-01T16:04:40.5447242+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:14.9604799+00:00",
-  "LastUpdate_Ratings": "2024-01-01T14:57:32.6345169+00:00",
-  "LastUpdate_Achievements": "2024-01-01T15:04:30.3493936+00:00"
+  "LastUpdate_Ratings": "2024-01-01T15:57:35.5657512+00:00",
+  "LastUpdate_Achievements": "2024-01-01T16:04:40.5447498+00:00"
 }

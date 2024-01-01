@@ -13,7 +13,7 @@
 | Mine! | 59.00% | ~63 |
 | Harvest Time | 58.00% | ~62 |
 | Artificer's Apprentice | 50.00% | ~54 |
-| Fly the friendly Sky | 45.00% | ~48 |
+| Fly the friendly Sky | 46.00% | ~49 |
 | Get out of here! | 43.00% | ~46 |
 | Alchemist's Apprentice | 37.00% | ~40 |
 | Necromancer's Apprentice | 37.00% | ~40 |
@@ -21,8 +21,8 @@
 | Redecorating | 34.00% | ~36 |
 | The Circle | 34.00% | ~36 |
 | Bad JuJu | 25.00% | ~27 |
+| Slave to the rhythm | 22.00% | ~24 |
 | Friend of Sevenkeeps | 22.00% | ~24 |
-| Slave to the rhythm | 21.00% | ~22 |
 | Castle Meldec | 21.00% | ~22 |
 | Sevenkeeps Seat of Kings | 20.00% | ~21 |
 | Friend of Alluvyan | 17.00% | ~18 |
@@ -56,12 +56,12 @@
 | Tuscari Sea Portal | 6.00% | ~6 |
 | Heroes | 6.00% | ~6 |
 | Balanced | 6.00% | ~6 |
+| Friend of Uram Gor | 6.00% | ~6 |
 | Get to the Airship! | 5.00% | ~5 |
 | Defeat Isgrimm | 5.00% | ~5 |
 | Defeat Yria | 5.00% | ~5 |
 | Lytra's Tale | 5.00% | ~5 |
 | Friend of Grey Dusk Vale | 5.00% | ~5 |
-| Friend of Uram Gor | 5.00% | ~5 |
 | Fireforge | 4.00% | ~4 |
 | Master Alchemist | 4.00% | ~4 |
 | Master Necromancer | 4.00% | ~4 |

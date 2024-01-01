@@ -3,12 +3,12 @@
   "Name": "Snowbreak Containment Zone",
   "ProductSlug": "snowbreak-containment-zone-abc820",
   "Ranking_Rating": 784,
-  "Ranking_Popularity": 349,
-  "Ranking_PopularitySum": 292,
+  "Ranking_Popularity": 347,
+  "Ranking_PopularitySum": 291,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-07-20T02:00:00+00:00",
     "PcReleaseDate": "2023-07-20T02:00:00+00:00",
@@ -2339,11 +2339,17 @@
       "Rating": 4.38,
       "NumberOfAwards": 777,
       "NumberOfAwardsMax": 123
+    },
+    {
+      "Time": "2024-01-01T15:58:48.1773157+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 780,
+      "NumberOfAwardsMax": 125
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 777,
-  "NumberOfAwardsMax": 123,
+  "NumberOfAwards": 780,
+  "NumberOfAwardsMax": 125,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
@@ -2356,7 +2362,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 123
+      "Count": 125
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2398,7 +2404,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 97
+      "Count": 98
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2419,8 +2425,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-25T06:57:36.7654235+00:00",
   "FirstSeenRating": "2023-07-29T23:57:57.5620258+00:00",
-  "LastChanged": "2024-01-01T13:59:22.2093008+00:00",
+  "LastChanged": "2024-01-01T15:58:48.1773155+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:10.7280403+00:00",
-  "LastUpdate_Ratings": "2024-01-01T14:58:46.2103986+00:00",
-  "LastUpdate_Achievements": "2024-01-01T15:06:27.1913145+00:00"
+  "LastUpdate_Ratings": "2024-01-01T15:58:48.1773159+00:00",
+  "LastUpdate_Achievements": "2024-01-01T16:08:14.8036119+00:00"
 }

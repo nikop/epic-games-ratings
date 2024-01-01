@@ -17,10 +17,10 @@
 | Reflections | 16.00% | ~26 |
 | The shining | 16.00% | ~26 |
 | Clarity | 15.00% | ~25 |
+| Health | 13.00% | ~21 |
 | Awaiting orders | 12.00% | ~20 |
-| Health | 12.00% | ~20 |
 | Art critic | 10.00% | ~16 |
-| Jigsaw | 9.00% | ~15 |
+| Jigsaw | 10.00% | ~16 |
 | Peace | 9.00% | ~15 |
 | An act of courage | 7.00% | ~12 |
 | Lost | 7.00% | ~12 |

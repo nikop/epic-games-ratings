@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 93.00% | ~633 |
-| Training Simulation | 79.00% | ~538 |
+| Travel Streamer | 93.00% | ~634 |
+| Training Simulation | 79.00% | ~539 |
 | Kuku Bird Hunter | 65.00% | ~443 |
 | Storm Traveller | 60.00% | ~409 |
 | Wolf King Killer | 55.00% | ~375 |
@@ -22,8 +22,8 @@
 | Nosebleeder | 26.00% | ~177 |
 | Trader | 22.00% | ~150 |
 | Weapon Boost | 21.00% | ~143 |
-| Flying Kobold Killer | 19.00% | ~129 |
-| Youth Magnet | 19.00% | ~129 |
+| Flying Kobold Killer | 19.00% | ~130 |
+| Youth Magnet | 18.00% | ~123 |
 | Furious Scorpion Killer | 17.00% | ~116 |
 | Lethal Blade Mantis Killer | 17.00% | ~116 |
 | Squeaky Clean | 17.00% | ~116 |
@@ -50,7 +50,7 @@
 | Giantess Challenge | 2.00% | ~14 |
 | Warden Challenge | 2.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 681 (Ranked 316)  
+Progressed: 682 (Ranked 316)  
 Completed: 2 (0.29%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 2 (0.29%) (Ranked 253)
 | 2023-12-29 | 671 | 2 |
 | 2023-12-30 | 673 | 2 |
 | 2023-12-31 | 678 | 2 |
-| 2024-01-01 | 681 | 2 |
+| 2024-01-01 | 682 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

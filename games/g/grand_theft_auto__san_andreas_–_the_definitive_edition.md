@@ -5,25 +5,25 @@ Rating: 4.55 (Ranked 523)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~14,484 |
-| Pay 'n' Spray | 50.00% | ~8,940 |
-| All Dressed Up for San Fierro | 25.00% | ~4,470 |
-| The American Dream | 19.00% | ~3,397 |
-| School's Out | 18.00% | ~3,219 |
-| Smooth Moves | 17.00% | ~3,040 |
-| Today Was a Good Day | 15.00% | ~2,682 |
-| What happens in Las Venturas... | 14.00% | ~2,503 |
-| Horror of the Santa Maria | 10.00% | ~1,788 |
-| Liberty City State of Mind | 9.00% | ~1,609 |
-| Original Gangster | 8.00% | ~1,430 |
+| Getting Started | 81.00% | ~14,492 |
+| Pay 'n' Spray | 50.00% | ~8,946 |
+| All Dressed Up for San Fierro | 25.00% | ~4,473 |
+| The American Dream | 19.00% | ~3,399 |
+| School's Out | 18.00% | ~3,220 |
+| Smooth Moves | 17.00% | ~3,041 |
+| Today Was a Good Day | 15.00% | ~2,684 |
+| What happens in Las Venturas... | 14.00% | ~2,505 |
+| Horror of the Santa Maria | 10.00% | ~1,789 |
+| Liberty City State of Mind | 9.00% | ~1,610 |
+| Original Gangster | 8.00% | ~1,431 |
 | With Extra Dip | 7.00% | ~1,252 |
 | The End of the Line | 7.00% | ~1,252 |
 | Saviour | 6.00% | ~1,073 |
-| Rescue a Kitten Too? | 5.00% | ~894 |
-| They Can’t Stop All of Us | 4.00% | ~715 |
-| What are the Odds | 4.00% | ~715 |
-| Bike or Biker | 3.00% | ~536 |
-| What the City Needs | 3.00% | ~536 |
+| Rescue a Kitten Too? | 5.00% | ~895 |
+| They Can’t Stop All of Us | 4.00% | ~716 |
+| What are the Odds | 4.00% | ~716 |
+| Bike or Biker | 3.00% | ~537 |
+| What the City Needs | 3.00% | ~537 |
 | A Legitimate Business | 2.00% | ~358 |
 | I’ll Have Two Number 9s | 2.00% | ~358 |
 | Who Needs Directions? | 2.00% | ~358 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 523)
 | ...Here we go again | 0.50% | ~89 |
 | I Ain't No Buster | 0.40% | ~72 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,881 (Ranked 158)  
+Progressed: 17,891 (Ranked 158)  
 Completed: 68 (0.38%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,17 +297,17 @@ Completed: 68 (0.38%) (Ranked 234)
 | 2023-12-29 | 17,467 | 65 |
 | 2023-12-30 | 17,622 | 66 |
 | 2023-12-31 | 17,792 | 67 |
-| 2024-01-01 | 17,881 | 68 |
+| 2024-01-01 | 17,891 | 68 |
 ## Awards
 Max (Relaxing): 49  (Ranked 455)  
-Sum: 317 (Ranked 373)  
+Sum: 318 (Ranked 373)  
 Diff (max vs sum): 82  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 557 |
 | This game is Relaxing | 49 |
 | This game has Amazing Characters | 48 |
-| This game is Great for Beginners | 44 |
+| This game is Great for Beginners | 45 |
 | This game has Amazing Storytelling | 41 |
 | This game is Highly Recommended | 41 |
 | This game has Diverse Characters | 32 |
@@ -534,4 +534,4 @@ Diff (max vs sum): 82
 | 2023-12-29 | 4.54 | 545 | 805 |
 | 2023-12-30 | 4.55 | 557 | 866 |
 | 2023-12-31 | 4.55 | 557 | 871 |
-| 2024-01-01 | 4.55 | 49 | 317 |
+| 2024-01-01 | 4.55 | 49 | 318 |

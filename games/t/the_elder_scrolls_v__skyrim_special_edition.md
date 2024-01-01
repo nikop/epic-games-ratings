@@ -3,12 +3,12 @@
 [View Rawdata](../../db/t/the_elder_scrolls_v__skyrim_special_edition.json)  
 Rating: 4.86 (Ranked 32)  
 ## Awards
-Max (Character Customization): 1,643  (Ranked 131)  
-Sum: 3,731 (Ranked 169)  
-Diff (max vs sum): -38  
+Max (Character Customization): 1,645  (Ranked 130)  
+Sum: 3,733 (Ranked 169)  
+Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 1,643 |
+| This game has Inclusive Character Customization | 1,645 |
 | This game is Great for Beginners | 314 |
 | This game has Diverse Characters | 285 |
 | This game is Highly Recommended | 252 |
@@ -320,4 +320,4 @@ Diff (max vs sum): -38
 | 2023-12-29 | 4.86 | 1,643 | 3,722 |
 | 2023-12-30 | 4.86 | 1,643 | 3,724 |
 | 2023-12-31 | 4.86 | 1,643 | 3,727 |
-| 2024-01-01 | 4.86 | 1,643 | 3,731 |
+| 2024-01-01 | 4.86 | 1,645 | 3,733 |

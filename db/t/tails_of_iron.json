@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -266,9 +266,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2298,
+  "EOS_Progressed": 2299,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -4246,6 +4246,11 @@
       "Time": "2024-01-01T14:06:29.7801658+00:00",
       "NumProgressed": 2298,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-01T16:05:25.2097074+00:00",
+      "NumProgressed": 2299,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 36,
@@ -4295,9 +4300,9 @@
       "ID": "CollectAllWeaponsAndGear",
       "SetID": "9lj35g4",
       "Name": "Complete Redgi\u0027s Armory",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "CompleteAll",
@@ -4391,9 +4396,9 @@
       "ID": "FixTheTravellersWagon",
       "SetID": "9lj35g4",
       "Name": "Fix the Travellers Wagon",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "GetRangedWeapon",
@@ -4544,13 +4549,13 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2298,
+      "Progressed": 2299,
       "Completed": 12
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 939,
+      "Progressed": 940,
       "Completed": 911
     }
   ],
@@ -4558,8 +4563,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-12-23T19:58:55.6551134+00:00",
-  "LastChanged_Achievements": "2024-01-01T15:05:11.5854038+00:00",
+  "LastChanged_Achievements": "2024-01-01T16:05:25.209707+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:25.3230554+00:00",
-  "LastUpdate_Ratings": "2024-01-01T14:58:49.0507485+00:00",
-  "LastUpdate_Achievements": "2024-01-01T15:05:11.5854578+00:00"
+  "LastUpdate_Ratings": "2024-01-01T15:58:51.0180649+00:00",
+  "LastUpdate_Achievements": "2024-01-01T16:05:25.2097453+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "87b7ded137594cbbbe7b772826ec3289",
   "Name": "Aliens: Dark Descent",
   "ProductSlug": "aliens-dark-descent",
-  "Ranking_Rating": 559,
+  "Ranking_Rating": 544,
   "Ranking_Popularity": 429,
-  "Ranking_PopularitySum": 492,
+  "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 334,
-  "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.53,
+  "Rating": 4.54,
   "RatingHistory": [
     {
       "Time": "2023-06-25T13:13:06.191665+00:00",
@@ -499,6 +499,12 @@
       "Rating": 4.53,
       "NumberOfAwards": 58,
       "NumberOfAwardsMax": 58
+    },
+    {
+      "Time": "2024-01-01T15:58:28.7492697+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 58,
+      "NumberOfAwardsMax": 58
     }
   ],
   "ReviewsDisabled": false,
@@ -515,7 +521,7 @@
   ],
   "EOS_Progressed": 5611,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 511,
+  "EOS_NewPlayers": 508,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -8865,9 +8871,9 @@
   "FirstSeen": "2023-06-20T02:04:43.7723421+00:00",
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
-  "LastChanged": "2023-12-30T22:58:40.5112806+00:00",
-  "LastChanged_Achievements": "2024-01-01T15:05:03.3588452+00:00",
+  "LastChanged": "2024-01-01T15:58:28.7492695+00:00",
+  "LastChanged_Achievements": "2024-01-01T16:05:16.1768853+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:52.952602+00:00",
-  "LastUpdate_Ratings": "2024-01-01T14:58:27.9162341+00:00",
-  "LastUpdate_Achievements": "2024-01-01T15:05:03.3588987+00:00"
+  "LastUpdate_Ratings": "2024-01-01T15:58:28.74927+00:00",
+  "LastUpdate_Achievements": "2024-01-01T16:05:16.176951+00:00"
 }

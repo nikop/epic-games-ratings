@@ -6,9 +6,9 @@
   "Ranking_Popularity": 251,
   "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 148,
-  "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_Completed": 304,
+  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -2259,9 +2259,9 @@
       "Count": 225
     }
   ],
-  "EOS_Progressed": 21873,
+  "EOS_Progressed": 21875,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -12504,6 +12504,11 @@
       "Time": "2024-01-01T15:03:50.1787799+00:00",
       "NumProgressed": 21873,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-01T16:03:58.1571062+00:00",
+      "NumProgressed": 21875,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -12515,7 +12520,7 @@
       "Name": "Family man",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2843
+      "UsersEstimate": 2844
     },
     {
       "ID": "CarMechanic",
@@ -12547,7 +12552,7 @@
       "Name": "Worth Every Penny",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 3062
+      "UsersEstimate": 3063
     },
     {
       "ID": "EstateAgent",
@@ -12563,7 +12568,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20779
+      "UsersEstimate": 20781
     },
     {
       "ID": "GameOver",
@@ -12595,7 +12600,7 @@
       "Name": "Mystery",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 2187
+      "UsersEstimate": 2188
     },
     {
       "ID": "JuniorEstateAgent",
@@ -12603,7 +12608,7 @@
       "Name": "Junior Estate Agent",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2843
+      "UsersEstimate": 2844
     },
     {
       "ID": "KnockKnock",
@@ -12683,7 +12688,7 @@
       "Name": "Artistic soul",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 2187
+      "UsersEstimate": 2188
     },
     {
       "ID": "YouDoItWrong",
@@ -12698,15 +12703,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21873,
+      "Progressed": 21875,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2024-01-01T13:01:04.7981783+00:00",
-  "LastChanged_Achievements": "2024-01-01T15:03:50.1787796+00:00",
+  "LastChanged_Achievements": "2024-01-01T16:03:58.1571058+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:00.4984496+00:00",
-  "LastUpdate_Ratings": "2024-01-01T14:57:46.0823253+00:00",
-  "LastUpdate_Achievements": "2024-01-01T15:03:50.1788283+00:00"
+  "LastUpdate_Ratings": "2024-01-01T15:57:49.9531337+00:00",
+  "LastUpdate_Achievements": "2024-01-01T16:03:58.1571761+00:00"
 }

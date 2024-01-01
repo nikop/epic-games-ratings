@@ -4,8 +4,8 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1068,
+  "EOS_Progressed": 1069,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4149,6 +4149,11 @@
       "Time": "2024-01-01T15:09:55.3401982+00:00",
       "NumProgressed": 1068,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-01T16:10:08.4649876+00:00",
+      "NumProgressed": 1069,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -4174,9 +4179,9 @@
       "ID": "BasicControls",
       "SetID": "1e89b4i",
       "Name": "Basic Controls",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 566
+      "UsersEstimate": 577
     },
     {
       "ID": "BigPlane",
@@ -4248,7 +4253,7 @@
       "Name": "Fifty",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "First",
@@ -4495,14 +4500,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 1068,
+      "Progressed": 1069,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2024-01-01T15:09:55.3401978+00:00",
+  "LastChanged_Achievements": "2024-01-01T16:10:08.4649872+00:00",
   "LastUpdate_AppInfo": "2023-12-26T20:57:07.3165629+00:00",
-  "LastUpdate_Ratings": "2024-01-01T14:59:17.4519145+00:00",
-  "LastUpdate_Achievements": "2024-01-01T15:09:55.3402835+00:00"
+  "LastUpdate_Ratings": "2024-01-01T15:59:19.8059327+00:00",
+  "LastUpdate_Achievements": "2024-01-01T16:10:08.4650434+00:00"
 }

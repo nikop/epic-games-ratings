@@ -5,14 +5,14 @@ Rating: 4.81 (Ranked 84)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~3,045 |
-| No more cages! | 90.00% | ~2,884 |
-| Everfrost | 77.00% | ~2,468 |
-| Pentakill | 76.00% | ~2,436 |
-| Dark Forest | 76.00% | ~2,436 |
+| For Demacia | 95.00% | ~3,046 |
+| No more cages! | 90.00% | ~2,885 |
+| Everfrost | 77.00% | ~2,469 |
+| Pentakill | 76.00% | ~2,437 |
+| Dark Forest | 76.00% | ~2,437 |
 | The use of petricite | 73.00% | ~2,340 |
-| You can pet the dog | 60.00% | ~1,923 |
-| Thornbarrow | 42.00% | ~1,346 |
+| You can pet the dog | 60.00% | ~1,924 |
+| Thornbarrow | 42.00% | ~1,347 |
 | Big Helmet Bro | 40.00% | ~1,282 |
 | Clarion Cove | 40.00% | ~1,282 |
 | Ternmoat Headquarters | 38.00% | ~1,218 |
@@ -23,10 +23,10 @@ Rating: 4.81 (Ranked 84)
 | Old friend | 32.00% | ~1,026 |
 | Devineur | 31.00% | ~994 |
 | Hijack | 30.00% | ~962 |
-| Whispers in the Woods I | 27.00% | ~865 |
-| I chose my shackles | 27.00% | ~865 |
-| Ancient power | 27.00% | ~865 |
-| Sacred Woods | 25.00% | ~801 |
+| Whispers in the Woods I | 28.00% | ~898 |
+| I chose my shackles | 27.00% | ~866 |
+| Ancient power | 27.00% | ~866 |
+| Sacred Woods | 25.00% | ~802 |
 | Little light | 23.00% | ~737 |
 | Glyndemere | 23.00% | ~737 |
 | Capelworth | 23.00% | ~737 |
@@ -52,14 +52,14 @@ Rating: 4.81 (Ranked 84)
 | Call it 'redistribution of magic | 13.00% | ~417 |
 | Do you trust me? | 12.00% | ~385 |
 | Back to sleep, then... | 12.00% | ~385 |
+| Chains master | 11.00% | ~353 |
 | The great mage rebellion starts now | 11.00% | ~353 |
 | You can pet the... horse | 11.00% | ~353 |
-| Chains master | 10.00% | ~320 |
-| Spellcrafting | 10.00% | ~320 |
+| Spellcrafting | 10.00% | ~321 |
 | Silverwing nest | 2.00% | ~64 |
 | The Unshackled | 1.00% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,205 (Ranked 222)  
+Progressed: 3,206 (Ranked 222)  
 Completed: 18 (0.56%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 18 (0.56%) (Ranked 210)
 | 2023-12-29 | 3,140 | 17 |
 | 2023-12-30 | 3,165 | 17 |
 | 2023-12-31 | 3,186 | 18 |
-| 2024-01-01 | 3,205 | 18 |
+| 2024-01-01 | 3,206 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

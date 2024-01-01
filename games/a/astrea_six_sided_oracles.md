@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 81.00% | ~237 |
+| Meissa's Savior | 82.00% | ~239 |
 | Purification Pioneer | 77.00% | ~225 |
 | Mechanical Buddy | 72.00% | ~210 |
 | Dicesmithing Time! | 64.00% | ~187 |
@@ -13,8 +13,8 @@
 | Wild's Keeper | 46.00% | ~134 |
 | Mind Illuminator | 43.00% | ~126 |
 | Stellar Dismantler | 37.00% | ~108 |
-| Noctuan Champion | 35.00% | ~102 |
-| Astral Adventurer | 33.00% | ~96 |
+| Noctuan Champion | 36.00% | ~105 |
+| Astral Adventurer | 34.00% | ~99 |
 | Anomaly Destroyer | 31.00% | ~91 |
 | Star Killer | 28.00% | ~82 |
 | Eridanian Champion | 25.00% | ~73 |

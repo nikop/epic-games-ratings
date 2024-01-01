@@ -2,13 +2,13 @@
   "ID": "144f9e231e2846d1a4381d9bb678f69d",
   "Name": "Warhammer 40,000: Mechanicus - Standard Edition",
   "ProductSlug": "warhammer-mechanicus-0e4b71",
-  "Ranking_Rating": 717,
+  "Ranking_Rating": 718,
   "Ranking_Popularity": 263,
   "Ranking_PopularitySum": 209,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -1050,9 +1050,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 231069,
+  "EOS_Progressed": 231075,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 648,
+  "EOS_NewPlayers": 651,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29145,6 +29145,11 @@
       "Time": "2024-01-01T15:09:49.5358693+00:00",
       "NumProgressed": 231069,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-01T16:10:02.1021648+00:00",
+      "NumProgressed": 231075,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -29156,7 +29161,7 @@
       "Name": "This is only the beginning",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 46214
+      "UsersEstimate": 46215
     },
     {
       "ID": "ACH_BASE_10",
@@ -29164,7 +29169,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 60078
+      "UsersEstimate": 60080
     },
     {
       "ID": "ACH_BASE_11",
@@ -29196,7 +29201,7 @@
       "Name": "Power Ranger",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20796
+      "UsersEstimate": 20797
     },
     {
       "ID": "ACH_BASE_16",
@@ -29204,7 +29209,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23107
+      "UsersEstimate": 23108
     },
     {
       "ID": "ACH_BASE_17",
@@ -29212,7 +29217,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20796
+      "UsersEstimate": 20797
     },
     {
       "ID": "ACH_BASE_18",
@@ -29220,7 +29225,7 @@
       "Name": "Radium Ready",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23107
+      "UsersEstimate": 23108
     },
     {
       "ID": "ACH_BASE_19",
@@ -29228,7 +29233,7 @@
       "Name": "Battle Servitor",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4621
+      "UsersEstimate": 4622
     },
     {
       "ID": "ACH_BASE_2",
@@ -29252,7 +29257,7 @@
       "Name": "Ding Dong Szaregon\u0027s Gone",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4621
+      "UsersEstimate": 4622
     },
     {
       "ID": "ACH_BASE_22",
@@ -29260,7 +29265,7 @@
       "Name": "Impatient destruction",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 4621
+      "UsersEstimate": 4622
     },
     {
       "ID": "ACH_BASE_23",
@@ -29388,7 +29393,7 @@
       "Name": "Vivisected Vizier",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4621
+      "UsersEstimate": 4622
     },
     {
       "ID": "ACH_BASE_6",
@@ -29396,7 +29401,7 @@
       "Name": "Architect Abortion",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4621
+      "UsersEstimate": 4622
     },
     {
       "ID": "ACH_BASE_7",
@@ -29404,7 +29409,7 @@
       "Name": "Knowledge is power",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 30039
+      "UsersEstimate": 30040
     },
     {
       "ID": "ACH_BASE_8",
@@ -29420,14 +29425,14 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20796
+      "UsersEstimate": 20797
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 231069,
+      "Progressed": 231075,
       "Completed": 5
     }
   ],
@@ -29435,8 +29440,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-12-28T22:58:51.4033804+00:00",
-  "LastChanged_Achievements": "2024-01-01T15:09:49.535869+00:00",
+  "LastChanged_Achievements": "2024-01-01T16:10:02.1021644+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:45.3371168+00:00",
-  "LastUpdate_Ratings": "2024-01-01T15:00:01.9176538+00:00",
-  "LastUpdate_Achievements": "2024-01-01T15:09:49.5360628+00:00"
+  "LastUpdate_Ratings": "2024-01-01T16:00:05.832942+00:00",
+  "LastUpdate_Achievements": "2024-01-01T16:10:02.1023162+00:00"
 }

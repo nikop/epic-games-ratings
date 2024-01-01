@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marc Allard | 75.00% | ~62 |
-| Little ideas | 72.00% | ~60 |
-| The Ship | 69.00% | ~57 |
+| Marc Allard | 76.00% | ~63 |
+| Little ideas | 73.00% | ~61 |
+| The Ship | 70.00% | ~58 |
 | Seeking the truth | 55.00% | ~46 |
 | An old friend | 53.00% | ~44 |
 | The Gala | 52.00% | ~43 |
@@ -32,16 +32,16 @@
 | Anastasia Babanin | 25.00% | ~21 |
 | The Scheme | 25.00% | ~21 |
 | Zakariya Demir | 24.00% | ~20 |
-| Truth from within | 22.00% | ~18 |
+| Truth from within | 23.00% | ~19 |
 | A curious phrase | 19.00% | ~16 |
-| The Suspects | 18.00% | ~15 |
-| Evelyn Lakshmi Warbeck | 17.00% | ~14 |
+| The Suspects | 19.00% | ~16 |
+| Evelyn Lakshmi Warbeck | 18.00% | ~15 |
+| Horace Mountjoy | 17.00% | ~14 |
 | Johan Kristiansen | 17.00% | ~14 |
-| Horace Mountjoy | 16.00% | ~13 |
-| The Secrets | 16.00% | ~13 |
+| The Secrets | 17.00% | ~14 |
+| A peculiar fellow | 16.00% | ~13 |
+| Mortimer Ailsworth | 16.00% | ~13 |
 | Well-travelled | 14.00% | ~12 |
-| A peculiar fellow | 14.00% | ~12 |
-| Mortimer Ailsworth | 14.00% | ~12 |
 | Florence Farquhar | 13.00% | ~11 |
 | The Investigation Starts Anew | 13.00% | ~11 |
 | A treasured heirloom | 12.00% | ~10 |

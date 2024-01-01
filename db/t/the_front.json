@@ -2,13 +2,13 @@
   "ID": "f4be56a88fff45fb8ffb1f05f1c76467",
   "Name": "The Front",
   "ProductSlug": "the-front-3a8219",
-  "Ranking_Rating": 1032,
+  "Ranking_Rating": 1036,
   "Ranking_Popularity": 520,
-  "Ranking_PopularitySum": 504,
+  "Ranking_PopularitySum": 487,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-11T15:00:00+00:00",
     "PcReleaseDate": "2023-10-11T15:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.02,
+  "Rating": 4,
   "RatingHistory": [
     {
       "Time": "2023-10-16T03:57:21.8315476+00:00",
@@ -425,10 +425,16 @@
       "Rating": 4.02,
       "NumberOfAwards": 49,
       "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2024-01-01T16:00:21.3432542+00:00",
+      "Rating": 4,
+      "NumberOfAwards": 69,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 49,
+  "NumberOfAwards": 69,
   "NumberOfAwardsMax": 29,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -442,6 +448,12 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
+      "Count": 20
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
       "Count": 20
     }
   ],
@@ -457,8 +469,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-11T21:01:43.5636582+00:00",
   "FirstSeenRating": "2023-10-16T03:57:21.8315472+00:00",
-  "LastChanged": "2023-12-28T08:58:43.600829+00:00",
+  "LastChanged": "2024-01-01T16:00:21.3432541+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:40.7003854+00:00",
-  "LastUpdate_Ratings": "2024-01-01T15:00:18.7182881+00:00",
-  "LastUpdate_Achievements": "2024-01-01T15:03:27.0500706+00:00"
+  "LastUpdate_Ratings": "2024-01-01T16:00:21.3432545+00:00",
+  "LastUpdate_Achievements": "2024-01-01T16:03:33.4265851+00:00"
 }

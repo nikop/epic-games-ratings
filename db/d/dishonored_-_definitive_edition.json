@@ -2,13 +2,13 @@
   "ID": "766e1b59c32c447093add5efbc1a4858",
   "Name": "Dishonored - Definitive Edition",
   "ProductSlug": "dishonored-definitive-edition",
-  "Ranking_Rating": 149,
+  "Ranking_Rating": 148,
   "Ranking_Popularity": 167,
   "Ranking_PopularitySum": 251,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-09-09T15:00:00+00:00",
     "PcReleaseDate": "2015-08-25T09:00:00+00:00",
@@ -2566,10 +2566,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 1300,
       "NumberOfAwardsMax": 899
+    },
+    {
+      "Time": "2024-01-01T16:00:19.7787731+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 1302,
+      "NumberOfAwardsMax": 899
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1300,
+  "NumberOfAwards": 1302,
   "NumberOfAwardsMax": 899,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2625,7 +2631,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 37
+      "Count": 38
     },
     {
       "Text": "This game has Unique Visuals",
@@ -2637,7 +2643,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 35
+      "Count": 36
     },
     {
       "Text": "This game is Relaxing",
@@ -2657,8 +2663,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:28.893212+00:00",
-  "LastChanged": "2024-01-01T11:01:53.7399396+00:00",
+  "LastChanged": "2024-01-01T16:00:19.7787729+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:52.9100962+00:00",
-  "LastUpdate_Ratings": "2024-01-01T15:00:17.1087775+00:00",
-  "LastUpdate_Achievements": "2024-01-01T15:04:25.7554951+00:00"
+  "LastUpdate_Ratings": "2024-01-01T16:00:19.7787734+00:00",
+  "LastUpdate_Achievements": "2024-01-01T16:04:35.6042552+00:00"
 }

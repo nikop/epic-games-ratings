@@ -2,13 +2,13 @@
   "ID": "135201128d4f428699a891fc501a5097",
   "Name": "Scorn",
   "ProductSlug": "scorn",
-  "Ranking_Rating": 663,
+  "Ranking_Rating": 662,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-10-14T10:00:00+00:00",
     "PcReleaseDate": "2022-10-14T10:00:00+00:00",
@@ -221,11 +221,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2850,
-  "EOS_Completed": 197,
-  "EOS_NewPlayers": 64,
-  "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 6.91,
+  "EOS_Progressed": 2851,
+  "EOS_Completed": 198,
+  "EOS_NewPlayers": 65,
+  "EOS_NewCompleters": 5,
+  "EOS_Completed_Percentage": 6.94,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.2661107+00:00",
@@ -4721,6 +4721,11 @@
       "Time": "2024-01-01T14:05:06.0737387+00:00",
       "NumProgressed": 2850,
       "NumCompleted": 197
+    },
+    {
+      "Time": "2024-01-01T16:04:22.4164896+00:00",
+      "NumProgressed": 2851,
+      "NumCompleted": 198
     }
   ],
   "TotalAchievements": 12,
@@ -4732,7 +4737,7 @@
       "Name": "001",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "002",
@@ -4788,7 +4793,7 @@
       "Name": "008",
       "Percentage": 9,
       "XP": 80,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "009",
@@ -4796,7 +4801,7 @@
       "Name": "009",
       "Percentage": 9,
       "XP": 80,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "010",
@@ -4804,7 +4809,7 @@
       "Name": "010",
       "Percentage": 9,
       "XP": 80,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "011",
@@ -4812,7 +4817,7 @@
       "Name": "011",
       "Percentage": 9,
       "XP": 80,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "012",
@@ -4820,23 +4825,23 @@
       "Name": "012",
       "Percentage": 9,
       "XP": 80,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     }
   ],
   "AchievementSets": [
     {
       "ID": "94k0mj8",
       "IsBase": true,
-      "Progressed": 2850,
-      "Completed": 197
+      "Progressed": 2851,
+      "Completed": 198
     }
   ],
   "FirstSeen": "2022-10-14T14:31:02.6493654+00:00",
   "FirstSeenRating": "2022-10-15T14:30:48.7901656+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.2661117+00:00",
   "LastChanged": "2023-12-26T13:00:53.8529115+00:00",
-  "LastChanged_Achievements": "2024-01-01T15:04:12.8839192+00:00",
+  "LastChanged_Achievements": "2024-01-01T16:04:22.4164892+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:59.8154186+00:00",
-  "LastUpdate_Ratings": "2024-01-01T14:57:20.557495+00:00",
-  "LastUpdate_Achievements": "2024-01-01T15:04:12.8839494+00:00"
+  "LastUpdate_Ratings": "2024-01-01T15:57:23.0071883+00:00",
+  "LastUpdate_Achievements": "2024-01-01T16:04:22.4165188+00:00"
 }

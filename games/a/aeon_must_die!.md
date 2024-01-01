@@ -8,9 +8,9 @@
 | The Purpose Of Betrayal | 20.00% | ~725 |
 | Rightfully Yours | 17.00% | ~616 |
 | Like Swatting Flies | 16.00% | ~580 |
-| Moment Of Perfection | 10.00% | ~362 |
-| Even While Weakened | 10.00% | ~362 |
-| Balance Incarnate | 10.00% | ~362 |
+| Moment Of Perfection | 10.00% | ~363 |
+| Even While Weakened | 10.00% | ~363 |
+| Balance Incarnate | 10.00% | ~363 |
 | Purpose Lost | 7.00% | ~254 |
 | A Scarlet Mark | 7.00% | ~254 |
 | Hot Potato | 6.00% | ~218 |
@@ -18,18 +18,18 @@
 | Nothing To Lose | 4.00% | ~145 |
 | Dreams Of Perfection | 3.00% | ~109 |
 | Untouchable Legend | 3.00% | ~109 |
-| Loyal Companion | 2.00% | ~72 |
-| Atta Boy! | 2.00% | ~72 |
-| Not Afraid Of The Dark | 2.00% | ~72 |
-| Emperor's Education | 2.00% | ~72 |
-| Slam The Brakes! | 2.00% | ~72 |
-| Ashes Of Belief | 2.00% | ~72 |
+| Loyal Companion | 2.00% | ~73 |
+| Atta Boy! | 2.00% | ~73 |
+| Not Afraid Of The Dark | 2.00% | ~73 |
+| Emperor's Education | 2.00% | ~73 |
+| Slam The Brakes! | 2.00% | ~73 |
+| Ashes Of Belief | 2.00% | ~73 |
 | Buried Memories | 1.00% | ~36 |
 | Anything For The Throne | 0.90% | ~33 |
 | One Track Mind | 0.90% | ~33 |
 | Not On My Watch | 0.60% | ~22 |
 | Iron Will | 0.50% | ~18 |
-| Perfection Everlasting | 0.40% | ~14 |
+| Perfection Everlasting | 0.40% | ~15 |
 | Respect Earned | 0.30% | ~11 |
 | You're Trapped Here With Me | 0.30% | ~11 |
 | Out Of My Way | 0.30% | ~11 |
@@ -40,7 +40,7 @@
 | Full Might Of The Armada | 0.10% | ~4 |
 | The Many Fates Of The Many | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,625 (Ranked 217)  
+Progressed: 3,626 (Ranked 217)  
 Completed: -28 (-0.77%) (Ranked 3,795)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: -28 (-0.77%) (Ranked 3,795)
 | 2023-12-29 | 3,619 | -28 |
 | 2023-12-30 | 3,622 | -28 |
 | 2023-12-31 | 3,623 | -28 |
-| 2024-01-01 | 3,625 | -28 |
+| 2024-01-01 | 3,626 | -28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

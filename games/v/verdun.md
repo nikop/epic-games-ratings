@@ -1,28 +1,28 @@
 # Verdun
 [Store](https://store.epicgames.com/en-US/p/verdun)  
 [View Rawdata](../../db/v/verdun.json)  
-Rating: 4.53 (Ranked 559)  
+Rating: 4.53 (Ranked 560)  
 Number of Ratings: 1,999  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~53,191 |
-| Worth it | 63.00% | ~42,962 |
-| Eagle Eye | 55.00% | ~37,506 |
-| Corpseman I | 39.00% | ~26,595 |
-| Blast fishing | 37.00% | ~25,231 |
-| Not alone | 32.00% | ~21,822 |
-| Headhunter I | 26.00% | ~17,730 |
-| Manual Labour I | 25.00% | ~17,048 |
-| Developers, Developers, Developers | 24.00% | ~16,366 |
-| Basic Training | 23.00% | ~15,684 |
+| Setting an example | 78.00% | ~53,193 |
+| Worth it | 63.00% | ~42,963 |
+| Eagle Eye | 55.00% | ~37,508 |
+| Corpseman I | 39.00% | ~26,596 |
+| Blast fishing | 37.00% | ~25,233 |
+| Not alone | 32.00% | ~21,823 |
+| Headhunter I | 26.00% | ~17,731 |
+| Manual Labour I | 25.00% | ~17,049 |
+| Developers, Developers, Developers | 24.00% | ~16,367 |
+| Basic Training | 23.00% | ~15,685 |
 | Furchtlos und Treu | 13.00% | ~8,865 |
-| Gott Mit Uns | 12.00% | ~8,183 |
-| This We'll Defend! | 9.00% | ~6,137 |
-| Providentiea Memor | 9.00% | ~6,137 |
-| For King and Country | 9.00% | ~6,137 |
-| Battle hardened | 8.00% | ~5,455 |
-| Anker wirf! | 8.00% | ~5,455 |
+| Gott Mit Uns | 12.00% | ~8,184 |
+| This We'll Defend! | 9.00% | ~6,138 |
+| Providentiea Memor | 9.00% | ~6,138 |
+| For King and Country | 9.00% | ~6,138 |
+| Battle hardened | 8.00% | ~5,456 |
+| Anker wirf! | 8.00% | ~5,456 |
 | Semper Fidelis! | 7.00% | ~4,774 |
 | Honneur et Patrie | 7.00% | ~4,774 |
 | In Treue Fest | 5.00% | ~3,410 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~68 |
 | Blood Brother | 0.10% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,193 (Ranked 114)  
+Progressed: 68,196 (Ranked 114)  
 Completed: 4 (0.01%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,7 +322,7 @@ Completed: 4 (0.01%) (Ranked 368)
 | 2023-12-29 | 67,910 | 4 |
 | 2023-12-30 | 68,042 | 4 |
 | 2023-12-31 | 68,140 | 4 |
-| 2024-01-01 | 68,193 | 4 |
+| 2024-01-01 | 68,196 | 4 |
 ## Awards
 Max (Highly Recommended): 105  (Ranked 368)  
 Sum: 829 (Ranked 286)  

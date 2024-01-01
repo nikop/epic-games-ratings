@@ -2,13 +2,13 @@
   "ID": "317acd36093b41cab801f4237499e5d7",
   "Name": "Train Valley",
   "ProductSlug": "train-valley-ead642",
-  "Ranking_Rating": 631,
+  "Ranking_Rating": 632,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
-  "Ranking_EOS_Progress": 331,
+  "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -150,9 +150,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 614,
+  "EOS_Progressed": 615,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1740,6 +1740,11 @@
       "Time": "2024-01-01T10:04:11.4867666+00:00",
       "NumProgressed": 614,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-01T16:04:41.3307213+00:00",
+      "NumProgressed": 615,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -1749,9 +1754,9 @@
       "ID": "01_gettingstarted",
       "SetID": "chb1m60",
       "Name": "Getting started",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 473
+      "UsersEstimate": 467
     },
     {
       "ID": "02_collector",
@@ -1791,7 +1796,7 @@
       "Name": "Living it large!",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "07_europe",
@@ -1799,7 +1804,7 @@
       "Name": "Europe",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "08_america",
@@ -1855,7 +1860,7 @@
       "Name": "Woodcutter",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "15_bbq",
@@ -1879,7 +1884,7 @@
       "Name": "Builder",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "18_foreman",
@@ -1895,7 +1900,7 @@
       "Name": "Just in time!",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "20_sabotage",
@@ -1919,7 +1924,7 @@
       "Name": "Ouroboros",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "23_closecall",
@@ -1927,7 +1932,7 @@
       "Name": "Close call!",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "24_mega",
@@ -1967,7 +1972,7 @@
       "Name": "Non Stop!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "29_madness",
@@ -1975,15 +1980,15 @@
       "Name": "Madness!",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "30_completelynuts",
       "SetID": "chb1m60",
       "Name": "Completely nuts!",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 252
+      "UsersEstimate": 246
     },
     {
       "ID": "31_chancellor",
@@ -1999,7 +2004,7 @@
       "Name": "Engineer",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "33_peacemaker",
@@ -2062,15 +2067,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 614,
+      "Progressed": 615,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2024-01-01T09:01:13.9555975+00:00",
-  "LastChanged_Achievements": "2024-01-01T15:04:31.0631556+00:00",
+  "LastChanged_Achievements": "2024-01-01T16:04:41.3307211+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:40.4916275+00:00",
-  "LastUpdate_Ratings": "2024-01-01T15:00:17.5917713+00:00",
-  "LastUpdate_Achievements": "2024-01-01T15:04:31.0631966+00:00"
+  "LastUpdate_Ratings": "2024-01-01T16:00:20.1767456+00:00",
+  "LastUpdate_Achievements": "2024-01-01T16:04:41.3307463+00:00"
 }

@@ -5,23 +5,23 @@ Rating: 4.14 (Ranked 995)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 12.00% | ~5,518 |
-| Unlocked Potential | 11.00% | ~5,058 |
+| Attachments | 12.00% | ~5,519 |
+| Unlocked Potential | 11.00% | ~5,059 |
 | Tinkerer | 8.00% | ~3,679 |
 | Leapfrogger | 7.00% | ~3,219 |
 | Knock 'Em Dead | 7.00% | ~3,219 |
 | Pilgrimage: Initiate | 7.00% | ~3,219 |
 | Hell of a Run | 7.00% | ~3,219 |
 | Call of the Fount: Baptized | 7.00% | ~3,219 |
+| No Mercy | 6.00% | ~2,759 |
 | Explorer: Seeker | 6.00% | ~2,759 |
 | Stuck | 5.00% | ~2,299 |
-| No Mercy | 5.00% | ~2,299 |
 | Help Me Out Here | 5.00% | ~2,299 |
-| Through the Eyes of Another: Empath | 4.00% | ~1,839 |
-| The Interloper | 4.00% | ~1,839 |
-| Outdoorsperson | 3.00% | ~1,379 |
-| Hop, Step, Jump | 3.00% | ~1,379 |
-| Endless Runner | 3.00% | ~1,379 |
+| Through the Eyes of Another: Empath | 4.00% | ~1,840 |
+| The Interloper | 4.00% | ~1,840 |
+| Outdoorsperson | 3.00% | ~1,380 |
+| Hop, Step, Jump | 3.00% | ~1,380 |
+| Endless Runner | 3.00% | ~1,380 |
 | What Must Be Done | 2.00% | ~920 |
 | Might and Main | 2.00% | ~920 |
 | Damned If You Do... | 2.00% | ~920 |
@@ -59,7 +59,7 @@ Rating: 4.14 (Ranked 995)
 | Remembrance | 0.10% | ~46 |
 | Cat Person | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,982 (Ranked 125)  
+Progressed: 45,988 (Ranked 125)  
 Completed: 4 (0.01%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 4 (0.01%) (Ranked 368)
 | 2023-12-29 | 45,657 | 3 |
 | 2023-12-30 | 45,788 | 3 |
 | 2023-12-31 | 45,906 | 4 |
-| 2024-01-01 | 45,982 | 4 |
+| 2024-01-01 | 45,988 | 4 |
 ## Awards
 Max (Character Customization): 37  (Ranked 489)  
 Sum: 37 (Ranked 522)  

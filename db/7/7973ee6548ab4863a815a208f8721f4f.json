@@ -2,13 +2,13 @@
   "ID": "7973ee6548ab4863a815a208f8721f4f",
   "Name": "GrandChase",
   "ProductSlug": "grandchase-c03eb2",
-  "Ranking_Rating": 149,
+  "Ranking_Rating": 148,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-15T02:00:00+00:00",
     "PcReleaseDate": "2021-07-27T15:00:00+00:00",
@@ -145,6 +145,6 @@
   "FirstSeenRating": "2023-12-07T10:57:43.491197+00:00",
   "LastChanged": "2023-12-31T23:59:31.8556833+00:00",
   "LastUpdate_AppInfo": "2023-12-27T02:57:20.3086542+00:00",
-  "LastUpdate_Ratings": "2024-01-01T14:59:56.405896+00:00",
-  "LastUpdate_Achievements": "2024-01-01T15:03:34.5002143+00:00"
+  "LastUpdate_Ratings": "2024-01-01T16:00:00.0201129+00:00",
+  "LastUpdate_Achievements": "2024-01-01T16:03:41.1195226+00:00"
 }

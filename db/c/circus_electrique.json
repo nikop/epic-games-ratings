@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 429,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 415,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
     "PcReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -77,9 +77,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 501,
+  "EOS_Progressed": 502,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -632,6 +632,11 @@
       "Time": "2023-12-31T17:08:13.5941596+00:00",
       "NumProgressed": 501,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-01T16:08:32.6083252+00:00",
+      "NumProgressed": 502,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -643,7 +648,7 @@
       "Name": "Grand Opening",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -651,7 +656,7 @@
       "Name": "Perfect Illusion",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACHIEVEMENT_03",
@@ -691,7 +696,7 @@
       "Name": "Circus Electrique Proudly Presents...",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -699,7 +704,7 @@
       "Name": "Built in a Day",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -707,7 +712,7 @@
       "Name": "Path of Learning",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -747,7 +752,7 @@
       "Name": "More Brain Than Brawn",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -795,7 +800,7 @@
       "Name": "Hundred Percent First",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -963,7 +968,7 @@
       "Name": "Self Defense",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -1042,7 +1047,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 501,
+      "Progressed": 502,
       "Completed": 1
     }
   ],
@@ -1050,8 +1055,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2024-01-01T15:08:25.0752748+00:00",
+  "LastChanged_Achievements": "2024-01-01T16:08:32.6083248+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:23.6546135+00:00",
-  "LastUpdate_Ratings": "2024-01-01T14:59:19.0656148+00:00",
-  "LastUpdate_Achievements": "2024-01-01T15:08:25.0753118+00:00"
+  "LastUpdate_Ratings": "2024-01-01T15:59:21.2972946+00:00",
+  "LastUpdate_Achievements": "2024-01-01T16:08:32.6083738+00:00"
 }

@@ -1,7 +1,7 @@
 # Eternights
 [Store](https://store.epicgames.com/en-US/p/eternights-c2fbca)  
 [View Rawdata](../../db/e/eternights.json)  
-Rating: 4.76 (Ranked 133)  
+Rating: 4.76 (Ranked 131)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -21,7 +21,7 @@ Rating: 4.76 (Ranked 133)
 | Min's Promise | 18.00% | ~131 |
 | Truebro | 18.00% | ~131 |
 | Sia's Promise | 17.00% | ~124 |
-| Romantic | 13.00% | ~95 |
+| Romantic | 14.00% | ~102 |
 | TentacleMAN | 8.00% | ~58 |
 | Yohan's Promise | 5.00% | ~36 |
 | Flawless | 5.00% | ~36 |

@@ -4,8 +4,8 @@
   "ProductSlug": "100-doors-escape-from-prison-1e0ba3",
   "Ranking_EOS_Progress": 360,
   "Ranking_EOS_Completed": 23,
-  "Ranking_EOS_NewPlayers": 447,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-07-28T07:00:00+00:00",
     "PcReleaseDate": "2022-06-15T07:00:00+00:00",
@@ -1679,9 +1679,9 @@
       "ID": "ach_hint_9",
       "SetID": "5e260i9",
       "Name": "Together is better!",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 180
+      "UsersEstimate": 184
     },
     {
       "ID": "ach_items_50",
@@ -1734,8 +1734,8 @@
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2024-01-01T15:09:08.9099974+00:00",
+  "LastChanged_Achievements": "2024-01-01T16:09:18.6896751+00:00",
   "LastUpdate_AppInfo": "2023-12-29T09:57:13.7449064+00:00",
-  "LastUpdate_Ratings": "2024-01-01T14:58:59.1410116+00:00",
-  "LastUpdate_Achievements": "2024-01-01T15:09:08.9100206+00:00"
+  "LastUpdate_Ratings": "2024-01-01T15:59:01.0522543+00:00",
+  "LastUpdate_Achievements": "2024-01-01T16:09:18.689695+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 358,
   "Ranking_Popularity": 479,
-  "Ranking_PopularitySum": 423,
+  "Ranking_PopularitySum": 424,
   "Ranking_EOS_Progress": 195,
-  "Ranking_EOS_Completed": 302,
+  "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -669,11 +669,11 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6664,
+  "EOS_Progressed": 6672,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 481,
+  "EOS_NewPlayers": 483,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.11,
+  "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
     {
       "Time": "2023-05-09T15:04:23.1364092+00:00",
@@ -10004,6 +10004,11 @@
       "Time": "2024-01-01T15:06:17.6293589+00:00",
       "NumProgressed": 6664,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-01T16:06:35.1851698+00:00",
+      "NumProgressed": 6672,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10015,7 +10020,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "10",
@@ -10127,7 +10132,7 @@
       "Name": "Realm Estate",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "23",
@@ -10135,7 +10140,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "24",
@@ -10143,7 +10148,7 @@
       "Name": "Secret Technique",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "25",
@@ -10151,7 +10156,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "26",
@@ -10159,7 +10164,7 @@
       "Name": "Bone Peddler",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "27",
@@ -10207,7 +10212,7 @@
       "Name": "Magical Synergy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "32",
@@ -10231,7 +10236,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "35",
@@ -10287,7 +10292,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "41",
@@ -10479,7 +10484,7 @@
       "Name": "But this one is mine",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "60",
@@ -10494,13 +10499,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6664,
+      "Progressed": 6672,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6664,
+      "Progressed": 6672,
       "Completed": 7
     }
   ],
@@ -10508,8 +10513,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-31T18:58:53.0277501+00:00",
-  "LastChanged_Achievements": "2024-01-01T15:06:17.6293585+00:00",
+  "LastChanged_Achievements": "2024-01-01T16:06:35.1851694+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-01T14:59:10.9956002+00:00",
-  "LastUpdate_Achievements": "2024-01-01T15:06:17.6294547+00:00"
+  "LastUpdate_Ratings": "2024-01-01T15:59:13.9756184+00:00",
+  "LastUpdate_Achievements": "2024-01-01T16:06:35.1852536+00:00"
 }

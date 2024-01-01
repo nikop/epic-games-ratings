@@ -1,7 +1,7 @@
 # Darksiders Genesis
 [Store](https://store.epicgames.com/en-US/p/darksiders-genesis)  
 [View Rawdata](../../db/d/darksiders_genesis.json)  
-Rating: 4.49 (Ranked 631)  
+Rating: 4.49 (Ranked 632)  
 Number of Ratings: 67  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -18,14 +18,14 @@ Number of Ratings: 67  (23.09.2022)
 | Master of Strife | 0.90% | ~3 |
 | Mint II | 0.90% | ~3 |
 | Why'd It Have to Be Snakes? | 0.90% | ~3 |
+| A Bullet for All Seasons | 0.60% | ~2 |
 | Good Deeds | 0.60% | ~2 |
+| Infested | 0.60% | ~2 |
 | Walking Armory | 0.60% | ~2 |
-| A Bullet for All Seasons | 0.30% | ~1 |
 | Are You Not Entertained? | 0.30% | ~1 |
 | Collector | 0.30% | ~1 |
 | Full of Hell | 0.30% | ~1 |
 | Gatekeeper | 0.30% | ~1 |
-| Infested | 0.30% | ~1 |
 | Mint III | 0.30% | ~1 |
 | The Promised End | 0.30% | ~1 |
 | Wicked Killington | 0.30% | ~1 |
@@ -37,7 +37,7 @@ Number of Ratings: 67  (23.09.2022)
 | Respect For Animals | 0.00% | ~0 |
 | Garden of Forking Paths | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 347 (Ranked 373)  
+Progressed: 348 (Ranked 373)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -56,7 +56,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-29 | 284 | 0 |
 | 2023-12-30 | 308 | 0 |
 | 2023-12-31 | 336 | 0 |
-| 2024-01-01 | 347 | 0 |
+| 2024-01-01 | 348 | 0 |
 ## Awards
 Max (Great Boss Battles): 45  (Ranked 467)  
 Sum: 45 (Ranked 511)  

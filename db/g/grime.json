@@ -1795,10 +1795,10 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 165921,
-  "EOS_Completed": 433,
-  "EOS_NewPlayers": 1492,
-  "EOS_NewCompleters": 29,
+  "EOS_Progressed": 165935,
+  "EOS_Completed": 434,
+  "EOS_NewPlayers": 1489,
+  "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
     {
@@ -21445,6 +21445,11 @@
       "Time": "2024-01-01T15:04:22.6447156+00:00",
       "NumProgressed": 165921,
       "NumCompleted": 433
+    },
+    {
+      "Time": "2024-01-01T16:04:32.7604979+00:00",
+      "NumProgressed": 165935,
+      "NumCompleted": 434
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -21505,7 +21510,7 @@
       "Name": "The Hunt",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3318
+      "UsersEstimate": 3319
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -21529,7 +21534,7 @@
       "Name": "Weeper",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3318
+      "UsersEstimate": 3319
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -21721,7 +21726,7 @@
       "Name": "Sharpened Vessel",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1161
+      "UsersEstimate": 1162
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -21729,7 +21734,7 @@
       "Name": "Ravenous",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3318
+      "UsersEstimate": 3319
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -21824,21 +21829,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 165504,
+      "Progressed": 165518,
       "Completed": 1250
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 165921,
-      "Completed": 433
+      "Progressed": 165935,
+      "Completed": 434
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-01T13:01:50.6717718+00:00",
-  "LastChanged_Achievements": "2024-01-01T15:04:22.6447152+00:00",
+  "LastChanged_Achievements": "2024-01-01T16:04:32.7604975+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:50.3299145+00:00",
-  "LastUpdate_Ratings": "2024-01-01T14:58:30.3697712+00:00",
-  "LastUpdate_Achievements": "2024-01-01T15:04:22.6448808+00:00"
+  "LastUpdate_Ratings": "2024-01-01T15:58:31.2608805+00:00",
+  "LastUpdate_Achievements": "2024-01-01T16:04:32.7606375+00:00"
 }

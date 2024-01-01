@@ -2,13 +2,13 @@
   "ID": "3542a1df211e492bb2abecb7c734f7f9",
   "Name": "Rising Storm 2: Vietnam",
   "ProductSlug": "rising-storm-2-vietnam",
-  "Ranking_Rating": 631,
+  "Ranking_Rating": 613,
   "Ranking_Popularity": 165,
   "Ranking_PopularitySum": 110,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2020-10-08T15:00:00+00:00",
     "PcReleaseDate": "2017-05-30T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.49,
+  "Rating": 4.5,
   "NumberOfRatings": 2871,
   "RatingHistory": [
     {
@@ -8812,18 +8812,24 @@
       "Rating": 4.49,
       "NumberOfAwards": 8273,
       "NumberOfAwardsMax": 941
+    },
+    {
+      "Time": "2024-01-01T15:58:11.9124702+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 8276,
+      "NumberOfAwardsMax": 943
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8273,
-  "NumberOfAwardsMax": 941,
+  "NumberOfAwards": 8276,
+  "NumberOfAwardsMax": 943,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 941
+      "Count": 943
     },
     {
       "Text": "This game has Challenging Combat",
@@ -8865,7 +8871,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 721
+      "Count": 722
     },
     {
       "Text": "This game is Highly Recommended",
@@ -8903,8 +8909,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:01.9832025+00:00",
-  "LastChanged": "2024-01-01T08:58:13.8809352+00:00",
+  "LastChanged": "2024-01-01T15:58:11.91247+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:46.3148358+00:00",
-  "LastUpdate_Ratings": "2024-01-01T14:58:11.8688349+00:00",
-  "LastUpdate_Achievements": "2024-01-01T15:03:22.4722312+00:00"
+  "LastUpdate_Ratings": "2024-01-01T15:58:11.9124706+00:00",
+  "LastUpdate_Achievements": "2024-01-01T16:03:28.0331936+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "aeon-must-die",
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 3795,
-  "Ranking_EOS_NewPlayers": 382,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 377,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-10-27T21:59:00+00:00",
     "PcReleaseDate": "2021-10-27T21:59:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3625,
+  "EOS_Progressed": 3626,
   "EOS_Completed": -28,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": -0.77,
   "EosHistory": [
@@ -839,6 +839,11 @@
       "Time": "2024-01-01T15:08:44.4937313+00:00",
       "NumProgressed": 3625,
       "NumCompleted": -28
+    },
+    {
+      "Time": "2024-01-01T16:08:52.8938399+00:00",
+      "NumProgressed": 3626,
+      "NumCompleted": -28
     }
   ],
   "TotalAchievements": 35,
@@ -874,7 +879,7 @@
       "Name": "Loyal Companion",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "13",
@@ -890,7 +895,7 @@
       "Name": "Atta Boy!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "15",
@@ -906,7 +911,7 @@
       "Name": "Moment Of Perfection",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "17",
@@ -914,7 +919,7 @@
       "Name": "Perfection Everlasting",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "18",
@@ -946,7 +951,7 @@
       "Name": "Even While Weakened",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "21",
@@ -1002,7 +1007,7 @@
       "Name": "Not Afraid Of The Dark",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "28",
@@ -1018,7 +1023,7 @@
       "Name": "Balance Incarnate",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "3",
@@ -1042,7 +1047,7 @@
       "Name": "Emperor\u0027s Education",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "32",
@@ -1074,7 +1079,7 @@
       "Name": "Slam The Brakes!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "4",
@@ -1082,7 +1087,7 @@
       "Name": "Ashes Of Belief",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "5",
@@ -1129,7 +1134,7 @@
     {
       "ID": "5cfan5f",
       "IsBase": true,
-      "Progressed": 3625,
+      "Progressed": 3626,
       "Completed": -28
     }
   ],
@@ -1137,8 +1142,8 @@
   "FirstSeenRating": "2023-03-31T05:57:47.6282552+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:12.6590754+00:00",
   "LastChanged": "2023-03-31T05:57:47.6282553+00:00",
-  "LastChanged_Achievements": "2024-01-01T15:08:44.4937309+00:00",
+  "LastChanged_Achievements": "2024-01-01T16:08:52.8938396+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:16.5044228+00:00",
-  "LastUpdate_Ratings": "2024-01-01T14:58:41.4339214+00:00",
-  "LastUpdate_Achievements": "2024-01-01T15:08:44.4937775+00:00"
+  "LastUpdate_Ratings": "2024-01-01T15:58:42.3238968+00:00",
+  "LastUpdate_Achievements": "2024-01-01T16:08:52.8938688+00:00"
 }

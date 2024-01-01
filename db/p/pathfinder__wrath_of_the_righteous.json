@@ -2,13 +2,13 @@
   "ID": "975d251af0384c88a898a996bda4881d",
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
-  "Ranking_Rating": 133,
+  "Ranking_Rating": 131,
   "Ranking_Popularity": 126,
   "Ranking_PopularitySum": 126,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4781,9 +4781,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12940,
+  "EOS_Progressed": 12942,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18651,6 +18651,11 @@
       "Time": "2024-01-01T15:09:59.6744391+00:00",
       "NumProgressed": 12940,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T16:10:12.9107934+00:00",
+      "NumProgressed": 12942,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -18670,7 +18675,7 @@
       "Name": "Burning City",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2329
+      "UsersEstimate": 2330
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -18870,7 +18875,7 @@
       "Name": "Great Upstart",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "29_StrategicVictory",
@@ -18910,7 +18915,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2070
+      "UsersEstimate": 2071
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -19014,7 +19019,7 @@
       "Name": "All Paths Open",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -19589,21 +19594,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11722,
+      "Progressed": 11724,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12940,
+      "Progressed": 12942,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2024-01-01T14:01:19.0017463+00:00",
-  "LastChanged_Achievements": "2024-01-01T15:09:59.6744389+00:00",
+  "LastChanged_Achievements": "2024-01-01T16:10:12.910793+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:46.0860245+00:00",
-  "LastUpdate_Ratings": "2024-01-01T15:00:03.8839239+00:00",
-  "LastUpdate_Achievements": "2024-01-01T15:09:59.6746303+00:00"
+  "LastUpdate_Ratings": "2024-01-01T16:00:07.8563455+00:00",
+  "LastUpdate_Achievements": "2024-01-01T16:10:12.910975+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "orten-was-the-case-d108fb",
   "Ranking_EOS_Progress": 612,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 462,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 461,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-29T00:00:00+00:00",
     "PcReleaseDate": "2023-11-29T00:00:00+00:00",
@@ -258,9 +258,9 @@
       "ID": "THEEND",
       "SetID": "51l0gl8",
       "Name": "The End",
-      "Percentage": 55,
+      "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "THEPROPHECY",
@@ -289,8 +289,8 @@
   ],
   "FirstSeen": "2023-12-03T01:50:41.1036238+00:00",
   "FirstSeenAchievements": "2023-10-25T12:03:08.1004674+00:00",
-  "LastChanged_Achievements": "2024-01-01T15:08:37.3189757+00:00",
+  "LastChanged_Achievements": "2024-01-01T16:08:45.2658961+00:00",
   "LastUpdate_AppInfo": "2023-12-27T14:57:15.5192883+00:00",
-  "LastUpdate_Ratings": "2024-01-01T14:59:15.3908079+00:00",
-  "LastUpdate_Achievements": "2024-01-01T15:08:37.3189854+00:00"
+  "LastUpdate_Ratings": "2024-01-01T15:59:17.8848808+00:00",
+  "LastUpdate_Achievements": "2024-01-01T16:08:45.2659204+00:00"
 }

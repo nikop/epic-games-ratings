@@ -34,8 +34,8 @@ Rating: 4.68 (Ranked 262)
 | Mana Cannon | 42.00% | ~288 |
 | All’s Well That Ends Evil | 41.00% | ~281 |
 | The Duel | 38.00% | ~260 |
+| Unstoppable Horde | 35.00% | ~240 |
 | If Looks Could Kill | 35.00% | ~240 |
-| Unstoppable Horde | 34.00% | ~233 |
 | Master of the Undead | 34.00% | ~233 |
 | The Finitude Drill | 32.00% | ~219 |
 | Ghost Pirates? Ghost Heroes! | 30.00% | ~206 |
@@ -53,10 +53,10 @@ Rating: 4.68 (Ranked 262)
 | The Last Stand - This Time For Real! | 23.00% | ~158 |
 | Rubble and Ashes | 21.00% | ~144 |
 | Lavalumps on Ice! | 19.00% | ~130 |
+| To the Max! | 19.00% | ~130 |
 | To Infinity And Beyond! | 19.00% | ~130 |
 | Sacrificial Pit = Garbage Disposal? | 18.00% | ~123 |
 | My Little Torture Chamber | 18.00% | ~123 |
-| To the Max! | 18.00% | ~123 |
 | Evilification | 17.00% | ~116 |
 | Mirror, Mirror | 16.00% | ~110 |
 | Untouchable | 16.00% | ~110 |

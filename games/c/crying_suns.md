@@ -6,21 +6,21 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~312,292 |
-| Jeef Skeejj | 44.00% | ~208,194 |
-| Careful planning | 39.00% | ~184,536 |
-| Second Coming | 34.00% | ~160,877 |
+| The Shutdown | 66.00% | ~312,293 |
+| Jeef Skeejj | 44.00% | ~208,195 |
+| Careful planning | 39.00% | ~184,537 |
+| Second Coming | 34.00% | ~160,878 |
 | Jeef Skagg | 30.00% | ~141,951 |
-| Mother | 25.00% | ~118,292 |
+| Mother | 25.00% | ~118,293 |
 | In space, no one can hear you scream | 24.00% | ~113,561 |
-| Chapter I: Echoes | 22.00% | ~104,097 |
-| Excelsior Rule | 22.00% | ~104,097 |
+| Chapter I: Echoes | 22.00% | ~104,098 |
+| Excelsior Rule | 22.00% | ~104,098 |
 | Things persisted in not being what they seemed | 20.00% | ~94,634 |
-| Knightmare Frames | 15.00% | ~70,975 |
-| May His passing cleanse the world | 15.00% | ~70,975 |
-| Chapter II: Fallible Flesh | 15.00% | ~70,975 |
-| Pope Zenon | 15.00% | ~70,975 |
-| Plan for the worst | 12.00% | ~56,780 |
+| Knightmare Frames | 15.00% | ~70,976 |
+| May His passing cleanse the world | 15.00% | ~70,976 |
+| Chapter II: Fallible Flesh | 15.00% | ~70,976 |
+| Pope Zenon | 15.00% | ~70,976 |
+| Plan for the worst | 12.00% | ~56,781 |
 | Tetsuo | 11.00% | ~52,049 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~47,317 |
 | Chapter IV: Through the Looking Glass | 8.00% | ~37,854 |
@@ -45,10 +45,10 @@ Number of Ratings: 1,003  (23.09.2022)
 | The Smuggler | 6.00% | ~28,390 |
 | The Crazy Repairman | 6.00% | ~28,390 |
 | The Weasel | 6.00% | ~28,390 |
-| Kill the Doctor | 5.00% | ~23,658 |
-| Forsaken | 5.00% | ~23,658 |
-| Mercy | 5.00% | ~23,658 |
-| Jericho Rule | 5.00% | ~23,658 |
+| Kill the Doctor | 5.00% | ~23,659 |
+| Forsaken | 5.00% | ~23,659 |
+| Mercy | 5.00% | ~23,659 |
+| Jericho Rule | 5.00% | ~23,659 |
 | Geno Rule | 3.00% | ~14,195 |
 | Hammer Rule | 3.00% | ~14,195 |
 | Survivor | 2.00% | ~9,463 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~17 |
 | Kronos Rule | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 473,169 (Ranked 45)  
+Progressed: 473,171 (Ranked 45)  
 Completed: 21 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,7 +342,7 @@ Completed: 21 (0.00%) (Ranked 390)
 | 2023-12-29 | 473,017 | 20 |
 | 2023-12-30 | 473,076 | 21 |
 | 2023-12-31 | 473,142 | 21 |
-| 2024-01-01 | 473,169 | 21 |
+| 2024-01-01 | 473,171 | 21 |
 ## Awards
 Max (Character Customization): 228  (Ranked 284)  
 Sum: 252 (Ranked 397)  

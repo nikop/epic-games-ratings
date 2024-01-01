@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 317,
   "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1189,
+  "EOS_Progressed": 1192,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2977,6 +2977,11 @@
       "Time": "2024-01-01T15:08:22.5942121+00:00",
       "NumProgressed": 1189,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-01T16:08:29.833651+00:00",
+      "NumProgressed": 1192,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -3005,7 +3010,7 @@
       "Name": "Chosen Victor",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "CompleteCampaignChampion",
@@ -3021,7 +3026,7 @@
       "Name": "Liberator",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "CompleteCampaignVeteran",
@@ -3045,7 +3050,7 @@
       "Name": "Pathfinder",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 927
+      "UsersEstimate": 930
     },
     {
       "ID": "CompleteChapter10",
@@ -3133,7 +3138,7 @@
       "Name": "Met the Enemy",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "CompleteChapter3",
@@ -3141,7 +3146,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "CompleteChapter4",
@@ -3149,7 +3154,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "CompleteChapter5",
@@ -3157,7 +3162,7 @@
       "Name": "Breathing Easy",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "CompleteChapter6",
@@ -3173,7 +3178,7 @@
       "Name": "First to be Forged, Never to Fail!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "CompleteChapter8",
@@ -3181,7 +3186,7 @@
       "Name": "Troggoff Troubles",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "CompleteChapter9",
@@ -3189,7 +3194,7 @@
       "Name": "Ingredients List",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "CompleteConquestKruleboyz",
@@ -3237,7 +3242,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "Win100OnlineMatched",
@@ -3261,7 +3266,7 @@
       "Name": "Bloodied Hammer",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "Win50ConquestBattles",
@@ -3284,14 +3289,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 1189,
+      "Progressed": 1192,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2024-01-01T15:08:22.5942118+00:00",
+  "LastChanged_Achievements": "2024-01-01T16:08:29.8336506+00:00",
   "LastUpdate_AppInfo": "2023-12-29T09:57:13.5043463+00:00",
-  "LastUpdate_Ratings": "2024-01-01T14:58:49.4385807+00:00",
-  "LastUpdate_Achievements": "2024-01-01T15:08:22.5942573+00:00"
+  "LastUpdate_Ratings": "2024-01-01T15:58:51.3870479+00:00",
+  "LastUpdate_Achievements": "2024-01-01T16:08:29.8336886+00:00"
 }

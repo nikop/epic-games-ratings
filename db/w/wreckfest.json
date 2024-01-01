@@ -5,10 +5,10 @@
   "Ranking_Rating": 869,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
-  "Ranking_EOS_Progress": 325,
+  "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -337,7 +337,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 644,
+  "EOS_Progressed": 645,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 286,
   "EOS_NewCompleters": 0,
@@ -1737,6 +1737,11 @@
       "Time": "2024-01-01T15:08:42.8039035+00:00",
       "NumProgressed": 644,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T16:08:51.0863875+00:00",
+      "NumProgressed": 645,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -1755,9 +1760,9 @@
       "ID": "CareerAllChallenges",
       "SetID": "5hd282c",
       "Name": "Highballer",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 90,
-      "UsersEstimate": 290
+      "UsersEstimate": 297
     },
     {
       "ID": "CareerChamp1",
@@ -1773,7 +1778,7 @@
       "Name": "National Amateurs Champion",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "CareerChamp3",
@@ -1805,7 +1810,7 @@
       "Name": "Storm Warning",
       "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "CollectVehiclesA",
@@ -1908,7 +1913,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 644,
+      "Progressed": 645,
       "Completed": 0
     }
   ],
@@ -1916,8 +1921,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-01T13:03:06.5238599+00:00",
-  "LastChanged_Achievements": "2024-01-01T15:08:42.8039031+00:00",
+  "LastChanged_Achievements": "2024-01-01T16:08:51.0863871+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:31.5719432+00:00",
-  "LastUpdate_Ratings": "2024-01-01T14:59:36.9625161+00:00",
-  "LastUpdate_Achievements": "2024-01-01T15:08:42.8039564+00:00"
+  "LastUpdate_Ratings": "2024-01-01T15:59:40.58705+00:00",
+  "LastUpdate_Achievements": "2024-01-01T16:08:51.086425+00:00"
 }

@@ -4,10 +4,10 @@
   "ProductSlug": "filament-332a92",
   "Ranking_Rating": 844,
   "Ranking_Popularity": 212,
-  "Ranking_PopularitySum": 309,
+  "Ranking_PopularitySum": 310,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -402,9 +402,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 208290,
+  "EOS_Progressed": 208294,
   "EOS_Completed": 553,
-  "EOS_NewPlayers": 508,
+  "EOS_NewPlayers": 512,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -27797,6 +27797,11 @@
       "Time": "2024-01-01T15:05:31.3808712+00:00",
       "NumProgressed": 208290,
       "NumCompleted": 553
+    },
+    {
+      "Time": "2024-01-01T16:05:47.0725105+00:00",
+      "NumProgressed": 208294,
+      "NumCompleted": 553
     }
   ],
   "TotalAchievements": 29,
@@ -27832,7 +27837,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 195793
+      "UsersEstimate": 195796
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -27888,7 +27893,7 @@
       "Name": "Corrupted.",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 10414
+      "UsersEstimate": 10415
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTEDCOMPLETE",
@@ -27944,7 +27949,7 @@
       "Name": "So you\u0027re saying I don\u0027t touch these ones?",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 12497
+      "UsersEstimate": 12498
     },
     {
       "ID": "ACHIEVEMENT_OPUS",
@@ -27968,7 +27973,7 @@
       "Name": "Good things come in pairs... Coloured Pairs.",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 10414
+      "UsersEstimate": 10415
     },
     {
       "ID": "ACHIEVEMENT_REQUISITE",
@@ -28008,7 +28013,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16663
+      "UsersEstimate": 16664
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -28039,7 +28044,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 208290,
+      "Progressed": 208294,
       "Completed": 553
     }
   ],
@@ -28047,8 +28052,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2024-01-01T02:58:07.3780611+00:00",
-  "LastChanged_Achievements": "2024-01-01T15:05:31.380871+00:00",
+  "LastChanged_Achievements": "2024-01-01T16:05:47.0725101+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:16.5074852+00:00",
-  "LastUpdate_Ratings": "2024-01-01T14:57:58.9755053+00:00",
-  "LastUpdate_Achievements": "2024-01-01T15:05:31.3810904+00:00"
+  "LastUpdate_Ratings": "2024-01-01T15:57:59.9290629+00:00",
+  "LastUpdate_Achievements": "2024-01-01T16:05:47.0726579+00:00"
 }

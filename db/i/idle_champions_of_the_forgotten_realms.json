@@ -9253,9 +9253,9 @@
       "Count": 3617
     }
   ],
-  "EOS_Progressed": 249052,
+  "EOS_Progressed": 249092,
   "EOS_Completed": 2583,
-  "EOS_NewPlayers": 4559,
+  "EOS_NewPlayers": 4584,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -38238,6 +38238,11 @@
       "Time": "2024-01-01T15:10:03.169212+00:00",
       "NumProgressed": 249052,
       "NumCompleted": 2583
+    },
+    {
+      "Time": "2024-01-01T16:10:16.3195307+00:00",
+      "NumProgressed": 249092,
+      "NumCompleted": 2583
     }
   ],
   "TotalAchievements": 546,
@@ -38249,7 +38254,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7472
+      "UsersEstimate": 7473
     },
     {
       "ID": "objective_completed_10",
@@ -38617,7 +38622,7 @@
       "Name": "Beast Intentions",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2241
+      "UsersEstimate": 2242
     },
     {
       "ID": "objective_completed_110",
@@ -41393,7 +41398,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1992
+      "UsersEstimate": 1993
     },
     {
       "ID": "objective_completed_70",
@@ -42591,9 +42596,9 @@
       "ID": "objective_completed_683",
       "SetID": "415jc5c",
       "Name": "Mental Gymnastics",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 861
+      "UsersEstimate": 1077
     },
     {
       "ID": "objective_completed_860",
@@ -42616,21 +42621,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 215326,
+      "Progressed": 215366,
       "Completed": 4117
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 249052,
+      "Progressed": 249092,
       "Completed": 2583
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-01T13:00:55.8356335+00:00",
-  "LastChanged_Achievements": "2024-01-01T15:10:03.1692116+00:00",
+  "LastChanged_Achievements": "2024-01-01T16:10:16.3195302+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-01T14:57:38.4011933+00:00",
-  "LastUpdate_Achievements": "2024-01-01T15:10:03.171627+00:00"
+  "LastUpdate_Ratings": "2024-01-01T15:57:41.7866473+00:00",
+  "LastUpdate_Achievements": "2024-01-01T16:10:16.3221465+00:00"
 }

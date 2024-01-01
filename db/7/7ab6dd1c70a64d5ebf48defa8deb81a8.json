@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -55,9 +55,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1605,
+  "EOS_Progressed": 1607,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 381,
+  "EOS_NewPlayers": 383,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -3165,6 +3165,11 @@
       "Time": "2024-01-01T15:09:54.1373784+00:00",
       "NumProgressed": 1605,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-01T16:10:07.265578+00:00",
+      "NumProgressed": 1607,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -3176,7 +3181,7 @@
       "Name": "Break Out",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 947
+      "UsersEstimate": 948
     },
     {
       "ID": "ACH_02",
@@ -3184,7 +3189,7 @@
       "Name": "Find Allies",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ACH_03",
@@ -3200,15 +3205,15 @@
       "Name": "Calm before the Storm",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ACH_05",
       "SetID": "efe2lj",
       "Name": "To Battle",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 112
     },
     {
       "ID": "ACH_06",
@@ -3232,7 +3237,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "ACH_09",
@@ -3240,7 +3245,7 @@
       "Name": "The Mentor",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "ACH_10",
@@ -3248,7 +3253,7 @@
       "Name": "Trinity",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "ACH_11",
@@ -3310,17 +3315,17 @@
       "ID": "ACH_18",
       "SetID": "efe2lj",
       "Name": "Shatter Them All",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 337
+      "UsersEstimate": 354
     },
     {
       "ID": "ACH_19",
       "SetID": "efe2lj",
       "Name": "Slayer",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 32
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_20",
@@ -3392,7 +3397,7 @@
       "Name": "I Found It",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ACH_29",
@@ -3422,9 +3427,9 @@
       "ID": "ACH_33",
       "SetID": "efe2lj",
       "Name": "Miner",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 96
+      "UsersEstimate": 112
     },
     {
       "ID": "ACH_34",
@@ -3432,7 +3437,7 @@
       "Name": "The Collector",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "ACH_35",
@@ -3463,7 +3468,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1605,
+      "Progressed": 1607,
       "Completed": 3
     }
   ],
@@ -3471,8 +3476,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-01T01:55:36.6139287+00:00",
-  "LastChanged_Achievements": "2024-01-01T15:09:54.1373778+00:00",
+  "LastChanged_Achievements": "2024-01-01T16:10:07.2655774+00:00",
   "LastUpdate_AppInfo": "2023-12-25T22:57:05.3300789+00:00",
-  "LastUpdate_Ratings": "2024-01-01T14:59:31.0542372+00:00",
-  "LastUpdate_Achievements": "2024-01-01T15:09:54.1374452+00:00"
+  "LastUpdate_Ratings": "2024-01-01T15:59:33.6436618+00:00",
+  "LastUpdate_Achievements": "2024-01-01T16:10:07.2656226+00:00"
 }

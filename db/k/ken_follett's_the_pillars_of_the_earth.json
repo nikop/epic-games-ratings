@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 415,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -570,7 +570,7 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17548,
+  "EOS_Progressed": 17549,
   "EOS_Completed": 123,
   "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 2,
@@ -17465,6 +17465,11 @@
       "Time": "2024-01-01T15:05:05.7637178+00:00",
       "NumProgressed": 17548,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2024-01-01T16:05:19.1185171+00:00",
+      "NumProgressed": 17549,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 41,
@@ -17516,7 +17521,7 @@
       "Name": "Friends of sorts",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5615
+      "UsersEstimate": 5616
     },
     {
       "ID": "tpote_achievement_15",
@@ -17740,7 +17745,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 7019
+      "UsersEstimate": 7020
     },
     {
       "ID": "tpote_achievement_40",
@@ -17796,22 +17801,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5966
+      "UsersEstimate": 5967
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17548,
+      "Progressed": 17549,
       "Completed": 123
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-01T15:05:05.7637175+00:00",
+  "LastChanged_Achievements": "2024-01-01T16:05:19.1185167+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:24.3361109+00:00",
-  "LastUpdate_Ratings": "2024-01-01T15:02:49.1472767+00:00",
-  "LastUpdate_Achievements": "2024-01-01T15:05:05.7638287+00:00"
+  "LastUpdate_Ratings": "2024-01-01T16:02:50.2687+00:00",
+  "LastUpdate_Achievements": "2024-01-01T16:05:19.1186264+00:00"
 }

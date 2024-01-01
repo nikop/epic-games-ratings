@@ -4,8 +4,8 @@
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 341,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 681,
+  "EOS_Progressed": 682,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -2327,6 +2327,11 @@
       "Time": "2024-01-01T13:12:33.6891089+00:00",
       "NumProgressed": 681,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-01T16:09:19.9564784+00:00",
+      "NumProgressed": 682,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -2338,7 +2343,7 @@
       "Name": "Travel Streamer",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -2370,15 +2375,15 @@
       "Name": "Flying Kobold Killer",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACHIEVEMENT_14",
       "SetID": "7pimpda",
       "Name": "Youth Magnet",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 129
+      "UsersEstimate": 123
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -2426,7 +2431,7 @@
       "Name": "Training Simulation",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -2697,7 +2702,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 681,
+      "Progressed": 682,
       "Completed": 2
     }
   ],
@@ -2705,8 +2710,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2024-01-01T15:09:10.0021965+00:00",
+  "LastChanged_Achievements": "2024-01-01T16:09:19.956478+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:39.5136135+00:00",
-  "LastUpdate_Ratings": "2024-01-01T14:59:51.9731791+00:00",
-  "LastUpdate_Achievements": "2024-01-01T15:09:10.002253+00:00"
+  "LastUpdate_Ratings": "2024-01-01T15:59:55.8252532+00:00",
+  "LastUpdate_Achievements": "2024-01-01T16:09:19.9565191+00:00"
 }

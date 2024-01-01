@@ -26,7 +26,7 @@
 | Butcher | 50.00% | ~72 |
 | Spare Ribs | 50.00% | ~72 |
 | Thats disgusting! | 49.00% | ~71 |
-| My pants squeak when I walk | 45.00% | ~65 |
+| My pants squeak when I walk | 46.00% | ~67 |
 | Self assessed tax return | 43.00% | ~62 |
 | Surprise!! | 43.00% | ~62 |
 | Haemochromatosis | 41.00% | ~59 |
@@ -34,16 +34,16 @@
 | Pasta Bolognese | 37.00% | ~54 |
 | You can't stop me, bro! | 36.00% | ~52 |
 | You are no match for me, Billy! | 35.00% | ~51 |
-| Karaoke king | 34.00% | ~49 |
-| Meatballs, coming up! | 33.00% | ~48 |
+| Karaoke king | 35.00% | ~51 |
+| Meatballs, coming up! | 34.00% | ~49 |
 | Catch the bus with me! | 32.00% | ~46 |
 | I'm going to get a concussion | 31.00% | ~45 |
-| Another one bites the iron | 30.00% | ~44 |
+| Another one bites the iron | 31.00% | ~45 |
 | Kleptomaniac | 28.00% | ~41 |
 | Ripe Meat Off The Bone! | 27.00% | ~39 |
+| A Megapint...? | 26.00% | ~38 |
 | Hovering around | 26.00% | ~38 |
 | You're not so Big anymore, Boi! | 25.00% | ~36 |
-| A Megapint...? | 25.00% | ~36 |
 | Your daily dose of Vitamin C. | 25.00% | ~36 |
 | I cant stand still! | 23.00% | ~33 |
 | Slimy... yet satisfying | 21.00% | ~30 |

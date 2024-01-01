@@ -2,13 +2,13 @@
   "ID": "82aa77fde0b14916a86b66b1e6345c30",
   "Name": "RIDE 5",
   "ProductSlug": "ride-5",
-  "Ranking_Rating": 652,
+  "Ranking_Rating": 651,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -33,9 +33,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3188,
+  "EOS_Progressed": 3189,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 217,
+  "EOS_NewPlayers": 218,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7828,6 +7828,11 @@
       "Time": "2024-01-01T15:04:05.2286262+00:00",
       "NumProgressed": 3188,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T16:04:13.958009+00:00",
+      "NumProgressed": 3189,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -7944,7 +7949,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -8128,7 +8133,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -8136,7 +8141,7 @@
       "Name": "Eat My Dust",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1530
+      "UsersEstimate": 1531
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -8192,7 +8197,7 @@
       "Name": "Rivals to the End",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -8231,7 +8236,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3188,
+      "Progressed": 3189,
       "Completed": 0
     }
   ],
@@ -8239,8 +8244,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2023-12-26T23:58:21.0860972+00:00",
-  "LastChanged_Achievements": "2024-01-01T15:04:05.2286258+00:00",
+  "LastChanged_Achievements": "2024-01-01T16:04:13.9580086+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:59.7599271+00:00",
-  "LastUpdate_Ratings": "2024-01-01T14:57:19.6629992+00:00",
-  "LastUpdate_Achievements": "2024-01-01T15:04:05.2287054+00:00"
+  "LastUpdate_Ratings": "2024-01-01T15:57:22.0340633+00:00",
+  "LastUpdate_Achievements": "2024-01-01T16:04:13.9580669+00:00"
 }

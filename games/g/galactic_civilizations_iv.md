@@ -6,12 +6,12 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 77.00% | ~5,774 |
-| Worker Specialization | 76.00% | ~5,699 |
-| First Contact | 72.00% | ~5,399 |
-| Win a Battle | 65.00% | ~4,874 |
-| Anomaly Researcher | 60.00% | ~4,499 |
-| Unleash My Power | 60.00% | ~4,499 |
+| Colonize a Planet | 77.00% | ~5,775 |
+| Worker Specialization | 76.00% | ~5,700 |
+| First Contact | 72.00% | ~5,400 |
+| Win a Battle | 65.00% | ~4,875 |
+| Anomaly Researcher | 60.00% | ~4,500 |
+| Unleash My Power | 60.00% | ~4,500 |
 | Own 30 Planets | 32.00% | ~2,400 |
 | Xenocide | 31.00% | ~2,325 |
 | Design a Civilization | 31.00% | ~2,325 |
@@ -36,9 +36,9 @@ Number of Ratings: 429  (23.09.2022)
 | Influence Victory! | 2.00% | ~150 |
 | Win as the Baratak | 1.00% | ~75 |
 | Win as the Mimot | 1.00% | ~75 |
-| Win as Arceans | 0.90% | ~67 |
-| Win as Festron | 0.90% | ~67 |
-| Win as the Navigators | 0.90% | ~67 |
+| Win as Arceans | 0.90% | ~68 |
+| Win as Festron | 0.90% | ~68 |
+| Win as the Navigators | 0.90% | ~68 |
 | Win as Torians | 0.80% | ~60 |
 | Win as the Drengin | 0.70% | ~52 |
 | Win as the Krynn | 0.70% | ~52 |
@@ -48,18 +48,18 @@ Number of Ratings: 429  (23.09.2022)
 | Win as the Manti | 0.60% | ~45 |
 | Win as the Onyx | 0.60% | ~45 |
 | Diplomatic Victory! | 0.60% | ~45 |
-| Win as the Iconians | 0.50% | ~37 |
+| Win as the Iconians | 0.50% | ~38 |
 | Iconia Reclaimed! | 0.30% | ~22 |
 | Relic Hoarder | 0.20% | ~15 |
-| Commodity Trader - Level 2 | 0.10% | ~7 |
-| Discover a Nebula | 0.10% | ~7 |
-| Play for 1000 Hours | 0.10% | ~7 |
-| Play for 100 Hours | 0.10% | ~7 |
-| Play for 5 Hours | 0.10% | ~7 |
-| It's OUR Homeworld | 0.10% | ~7 |
-| Recruit a Leader | 0.10% | ~7 |
-| Commodity Seller, Level 2 | 0.10% | ~7 |
-| Win a Multiplayer Game | 0.10% | ~7 |
+| Commodity Trader - Level 2 | 0.10% | ~8 |
+| Discover a Nebula | 0.10% | ~8 |
+| Play for 1000 Hours | 0.10% | ~8 |
+| Play for 100 Hours | 0.10% | ~8 |
+| Play for 5 Hours | 0.10% | ~8 |
+| It's OUR Homeworld | 0.10% | ~8 |
+| Recruit a Leader | 0.10% | ~8 |
+| Commodity Seller, Level 2 | 0.10% | ~8 |
+| Win a Multiplayer Game | 0.10% | ~8 |
 | Solid Economy | 0.00% | ~0 |
 | Ask Not What Your Empire Can Do For You | 0.00% | ~0 |
 | Commodity Guru | 0.00% | ~0 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,499 (Ranked 192)  
+Progressed: 7,500 (Ranked 192)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,11 +334,11 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-29 | 7,482 | 0 |
 | 2023-12-30 | 7,489 | 0 |
 | 2023-12-31 | 7,496 | 0 |
-| 2024-01-01 | 7,499 | 0 |
+| 2024-01-01 | 7,500 | 0 |
 ## Awards
 Max (Diverse Characters): 99  (Ranked 377)  
-Sum: 699 (Ranked 310)  
-Diff (max vs sum): 67  
+Sum: 699 (Ranked 311)  
+Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 99 |

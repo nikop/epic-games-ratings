@@ -22,9 +22,9 @@ Rating: 3.75 (Ranked 1,078)
 | He is just a child | 19.00% | ~119 |
 | The Walking Robot Among Us | 19.00% | ~119 |
 | Uncertain | 18.00% | ~112 |
+| Ace | 17.00% | ~106 |
 | Goody | 17.00% | ~106 |
 | Not what it seems | 17.00% | ~106 |
-| Ace | 16.00% | ~100 |
 | Concrete painting | 16.00% | ~100 |
 | Found it! | 16.00% | ~100 |
 | Please oh pleeease! | 16.00% | ~100 |

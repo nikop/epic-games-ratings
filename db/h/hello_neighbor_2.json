@@ -2,7 +2,7 @@
   "ID": "4046b000e6b0477ea639ee07e28db3d0",
   "Name": "Hello Neighbor 2",
   "ProductSlug": "hello-neighbor-2",
-  "Ranking_Rating": 717,
+  "Ranking_Rating": 718,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 214,
@@ -495,9 +495,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3788,
+  "EOS_Progressed": 3789,
   "EOS_Completed": 142,
-  "EOS_NewPlayers": 181,
+  "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.75,
   "EosHistory": [
@@ -6550,6 +6550,11 @@
       "Time": "2024-01-01T15:08:25.8010879+00:00",
       "NumProgressed": 3788,
       "NumCompleted": 142
+    },
+    {
+      "Time": "2024-01-01T16:08:33.2934215+00:00",
+      "NumProgressed": 3789,
+      "NumCompleted": 142
     }
   ],
   "TotalAchievements": 14,
@@ -6625,7 +6630,7 @@
       "Name": "Imprisonment",
       "Percentage": 22,
       "XP": 80,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "ACH_MAD_SCIENTIST",
@@ -6672,7 +6677,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3788,
+      "Progressed": 3789,
       "Completed": 142
     }
   ],
@@ -6680,8 +6685,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-12-29T23:00:02.814442+00:00",
-  "LastChanged_Achievements": "2024-01-01T15:08:25.8010875+00:00",
+  "LastChanged_Achievements": "2024-01-01T16:08:33.2934211+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:02.885587+00:00",
-  "LastUpdate_Ratings": "2024-01-01T15:02:49.2714664+00:00",
-  "LastUpdate_Achievements": "2024-01-01T15:08:25.8011326+00:00"
+  "LastUpdate_Ratings": "2024-01-01T16:02:50.3975284+00:00",
+  "LastUpdate_Achievements": "2024-01-01T16:08:33.2934592+00:00"
 }

@@ -6,24 +6,24 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~52,656 |
-| Get Busy Living | 16.00% | ~33,700 |
-| Samuel Norton | 9.00% | ~18,956 |
+| Stone Walls | 25.00% | ~52,658 |
+| Get Busy Living | 16.00% | ~33,701 |
+| Samuel Norton | 9.00% | ~18,957 |
 | Spare The Rod | 4.00% | ~8,425 |
 | Don't Put Me In The Dark | 3.00% | ~6,319 |
 | Wait and Hope | 3.00% | ~6,319 |
 | I May Have Found A Way Out Of Here | 3.00% | ~6,319 |
-| Throw The Book At Them | 2.00% | ~4,212 |
-| Iron Bars | 2.00% | ~4,212 |
+| Throw The Book At Them | 2.00% | ~4,213 |
+| Iron Bars | 2.00% | ~4,213 |
 | D.B. Cooper | 1.00% | ~2,106 |
 | Reformation | 0.60% | ~1,264 |
 | Crowd Control | 0.50% | ~1,053 |
-| Freedom | 0.40% | ~842 |
+| Freedom | 0.40% | ~843 |
 | Confined | 0.30% | ~632 |
 | It's Not What You Know... | 0.10% | ~211 |
 | ... It's What You Can Prove | 0.10% | ~211 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,622 (Ranked 79)  
+Progressed: 210,634 (Ranked 79)  
 Completed: 12 (0.01%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,10 +279,10 @@ Completed: 12 (0.01%) (Ranked 368)
 | 2023-12-29 | 209,513 | 12 |
 | 2023-12-30 | 209,993 | 12 |
 | 2023-12-31 | 210,404 | 12 |
-| 2024-01-01 | 210,622 | 12 |
+| 2024-01-01 | 210,634 | 12 |
 ## Awards
 Max (Great for Beginners): 622  (Ranked 200)  
-Sum: 4,766 (Ranked 150)  
+Sum: 4,768 (Ranked 150)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
@@ -292,7 +292,7 @@ Diff (max vs sum): 50
 | This game has Quickly Understood Controls | 560 |
 | This game is Relaxing | 556 |
 | This game has Diverse Characters | 520 |
-| This game has Amazing Storytelling | 507 |
+| This game has Amazing Storytelling | 509 |
 | This game has Amazing Characters | 463 |
 | This game is Educational | 459 |
 | This game has a Creative Community | 365 |
@@ -643,4 +643,4 @@ Diff (max vs sum): 50
 | 2023-12-29 | 4.61 | - | 619 | 4,745 |
 | 2023-12-30 | 4.61 | - | 622 | 4,754 |
 | 2023-12-31 | 4.61 | - | 622 | 4,759 |
-| 2024-01-01 | 4.61 | - | 622 | 4,766 |
+| 2024-01-01 | 4.61 | - | 622 | 4,768 |

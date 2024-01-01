@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 50,
   "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -2899,9 +2899,9 @@
       "ID": "BroomPistol",
       "SetID": "db30heh",
       "Name": "Target Hit",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 178
+      "UsersEstimate": 185
     },
     {
       "ID": "DevilPriest",
@@ -3170,8 +3170,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2024-01-01T15:05:46.3149474+00:00",
+  "LastChanged_Achievements": "2024-01-01T16:06:02.1451162+00:00",
   "LastUpdate_AppInfo": "2023-12-27T02:57:22.002955+00:00",
-  "LastUpdate_Ratings": "2024-01-01T14:57:25.7063174+00:00",
-  "LastUpdate_Achievements": "2024-01-01T15:05:46.3149927+00:00"
+  "LastUpdate_Ratings": "2024-01-01T15:57:27.9676769+00:00",
+  "LastUpdate_Achievements": "2024-01-01T16:06:02.1451507+00:00"
 }

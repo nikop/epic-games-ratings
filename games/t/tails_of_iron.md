@@ -27,8 +27,8 @@ Rating: 4.56 (Ranked 504)
 | Meet the Creatures from the Deep | 0.90% | ~21 |
 | Throne Room Fit For A King | 0.90% | ~21 |
 | Return Power To The Depths | 0.90% | ~21 |
+| Fix the Travellers Wagon | 0.80% | ~18 |
 | Defeat Ratnor Rodentson | 0.70% | ~16 |
-| Fix the Travellers Wagon | 0.70% | ~16 |
 | Defeat the Grub Buster | 0.70% | ~7 |
 | Defeat the Stalker Queen | 0.70% | ~7 |
 | Return the Statues | 0.60% | ~14 |
@@ -38,11 +38,11 @@ Rating: 4.56 (Ranked 504)
 | Discover the mystery of the Kings Chambers | 0.60% | ~14 |
 | Complete Arena Faction | 0.50% | ~11 |
 | Complete Ranger Faction | 0.50% | ~11 |
-| Complete Redgi's Armory | 0.30% | ~7 |
+| Complete Redgi's Armory | 0.40% | ~9 |
 | King of Kings | 0.30% | ~7 |
 | A new Warchief rises | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,298 (Ranked 236)  
+Progressed: 2,299 (Ranked 236)  
 Completed: 12 (0.52%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,7 +253,7 @@ Completed: 12 (0.52%) (Ranked 216)
 | 2023-12-29 | 2,292 | 12 |
 | 2023-12-30 | 2,295 | 12 |
 | 2023-12-31 | 2,297 | 12 |
-| 2024-01-01 | 2,298 | 12 |
+| 2024-01-01 | 2,299 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

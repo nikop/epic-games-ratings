@@ -4,11 +4,11 @@
   "ProductSlug": "galactic-civilizations-iv",
   "Ranking_Rating": 972,
   "Ranking_Popularity": 377,
-  "Ranking_PopularitySum": 310,
+  "Ranking_PopularitySum": 311,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 291,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -999,9 +999,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 7499,
+  "EOS_Progressed": 7500,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9564,6 +9564,11 @@
       "Time": "2024-01-01T15:09:51.3558403+00:00",
       "NumProgressed": 7499,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T16:10:04.1564835+00:00",
+      "NumProgressed": 7500,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -9591,7 +9596,7 @@
       "Name": "Commodity Trader - Level 2",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Buy_30_Resource",
@@ -9615,7 +9620,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4499
+      "UsersEstimate": 4500
     },
     {
       "ID": "Control_All_Relics",
@@ -9671,7 +9676,7 @@
       "Name": "Discover a Nebula",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "First_Planet_Colonized",
@@ -9679,7 +9684,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5774
+      "UsersEstimate": 5775
     },
     {
       "ID": "First_Race_Met",
@@ -9687,7 +9692,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5399
+      "UsersEstimate": 5400
     },
     {
       "ID": "First_Ship_Designed",
@@ -9711,7 +9716,7 @@
       "Name": "Worker Specialization",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 5699
+      "UsersEstimate": 5700
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -9799,7 +9804,7 @@
       "Name": "Play for 1000 Hours",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Play_100_Hours",
@@ -9807,7 +9812,7 @@
       "Name": "Play for 100 Hours",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Play_5_Hours",
@@ -9815,7 +9820,7 @@
       "Name": "Play for 5 Hours",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Play_Multiplayer",
@@ -9839,7 +9844,7 @@
       "Name": "It\u0027s OUR Homeworld",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Recruit_12_Leaders",
@@ -9855,7 +9860,7 @@
       "Name": "Recruit a Leader",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Sell_10_Resource",
@@ -9863,7 +9868,7 @@
       "Name": "Commodity Seller, Level 2",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Sell_30_Resource",
@@ -9895,7 +9900,7 @@
       "Name": "Unleash My Power",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4499
+      "UsersEstimate": 4500
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -9935,7 +9940,7 @@
       "Name": "Win as Arceans",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Win_As_Baratak",
@@ -9967,7 +9972,7 @@
       "Name": "Win as Festron",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Win_As_Iconian",
@@ -9975,7 +9980,7 @@
       "Name": "Win as the Iconians",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "Win_As_Iridium",
@@ -10015,7 +10020,7 @@
       "Name": "Win as the Navigators",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Win_As_Onyx",
@@ -10063,7 +10068,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4874
+      "UsersEstimate": 4875
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -10119,7 +10124,7 @@
       "Name": "Win a Multiplayer Game",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Win_Prestige",
@@ -10150,15 +10155,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7499,
+      "Progressed": 7500,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-12-27T21:02:14.3045553+00:00",
-  "LastChanged_Achievements": "2024-01-01T15:09:51.35584+00:00",
+  "LastChanged_Achievements": "2024-01-01T16:10:04.1564832+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:30.2533612+00:00",
-  "LastUpdate_Ratings": "2024-01-01T14:59:15.8165885+00:00",
-  "LastUpdate_Achievements": "2024-01-01T15:09:51.3559691+00:00"
+  "LastUpdate_Ratings": "2024-01-01T15:59:18.1470797+00:00",
+  "LastUpdate_Achievements": "2024-01-01T16:10:04.1565761+00:00"
 }

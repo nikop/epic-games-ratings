@@ -4,8 +4,8 @@
   "ProductSlug": "ugly-da09b2",
   "Ranking_EOS_Progress": 593,
   "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 414,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 415,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
     "PcReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -216,9 +216,9 @@
       "ID": "BOSS_06",
       "SetID": "35d3i7a",
       "Name": "Who am I?",
-      "Percentage": 14,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "BOSS_07",
@@ -352,9 +352,9 @@
       "ID": "MEM_IV",
       "SetID": "35d3i7a",
       "Name": "Your only friend.",
-      "Percentage": 21,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "MEM_IX",
@@ -376,9 +376,9 @@
       "ID": "MEM_VI",
       "SetID": "35d3i7a",
       "Name": "PUT ON THE MASK!",
-      "Percentage": 21,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "MEM_VII",
@@ -472,9 +472,9 @@
       "ID": "MEM_XVIII",
       "SetID": "35d3i7a",
       "Name": "A new hope.",
-      "Percentage": 21,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "MEM_XX",
@@ -488,17 +488,17 @@
       "ID": "MEM_XXI",
       "SetID": "35d3i7a",
       "Name": "Obstetric tenderness.",
-      "Percentage": 14,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "MEM_XXII",
       "SetID": "35d3i7a",
       "Name": "Failed attempts.",
-      "Percentage": 14,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "MEM_XXIII",
@@ -520,17 +520,17 @@
       "ID": "MEM_XXV",
       "SetID": "35d3i7a",
       "Name": "You\u2019ll wear the mask FOREVER.",
-      "Percentage": 14,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "MEM_XXVI",
       "SetID": "35d3i7a",
       "Name": "I\u2019M UGLY!",
-      "Percentage": 14,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "PART_I",
@@ -592,9 +592,9 @@
       "ID": "PROJ_V",
       "SetID": "35d3i7a",
       "Name": "Monster.",
-      "Percentage": 14,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
@@ -607,8 +607,8 @@
   ],
   "FirstSeen": "2023-10-03T14:57:54.0765548+00:00",
   "FirstSeenAchievements": "2023-09-13T06:03:08.8902067+00:00",
-  "LastChanged_Achievements": "2024-01-01T15:09:53.2461729+00:00",
+  "LastChanged_Achievements": "2024-01-01T16:10:06.4524564+00:00",
   "LastUpdate_AppInfo": "2023-12-27T14:57:15.6707756+00:00",
-  "LastUpdate_Ratings": "2024-01-01T14:59:01.3259582+00:00",
-  "LastUpdate_Achievements": "2024-01-01T15:09:53.246208+00:00"
+  "LastUpdate_Ratings": "2024-01-01T15:59:03.285983+00:00",
+  "LastUpdate_Achievements": "2024-01-01T16:10:06.4525074+00:00"
 }

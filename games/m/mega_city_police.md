@@ -10,9 +10,9 @@
 | Overkill | 10.00% | ~4 |
 | Law and Order | 10.00% | ~4 |
 | Hammer Time | 10.00% | ~4 |
+| Gibbing Love | 8.00% | ~3 |
 | Feel the Spark | 8.00% | ~3 |
 | The Hunt | 8.00% | ~3 |
-| Gibbing Love | 5.00% | ~2 |
 | Escape From M.C. | 5.00% | ~2 |
 | Head of the Snake | 3.00% | ~1 |
 | Barbecue Time | 3.00% | ~1 |

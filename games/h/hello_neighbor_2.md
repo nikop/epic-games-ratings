@@ -1,7 +1,7 @@
 # Hello Neighbor 2
 [Store](https://store.epicgames.com/en-US/p/hello-neighbor-2)  
 [View Rawdata](../../db/h/hello_neighbor_2.json)  
-Rating: 4.43 (Ranked 717)  
+Rating: 4.43 (Ranked 718)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -17,10 +17,10 @@ Rating: 4.43 (Ranked 717)
 | Hidden Secrets | 24.00% | ~909 |
 | Mad Scientist | 23.00% | ~871 |
 | Reunion | 23.00% | ~871 |
-| Imprisonment | 22.00% | ~833 |
+| Imprisonment | 22.00% | ~834 |
 | Dog Person | 18.00% | ~682 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,788 (Ranked 214)  
+Progressed: 3,789 (Ranked 214)  
 Completed: 142 (3.75%) (Ranked 93)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 142 (3.75%) (Ranked 93)
 | 2023-12-29 | 3,711 | 140 |
 | 2023-12-30 | 3,741 | 141 |
 | 2023-12-31 | 3,774 | 141 |
-| 2024-01-01 | 3,788 | 142 |
+| 2024-01-01 | 3,789 | 142 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

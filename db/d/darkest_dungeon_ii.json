@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10312,10 +10312,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 21317,
       "NumberOfAwardsMax": 7919
+    },
+    {
+      "Time": "2024-01-01T15:58:15.5816281+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21320,
+      "NumberOfAwardsMax": 7919
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21317,
+  "NumberOfAwards": 21320,
   "NumberOfAwardsMax": 7919,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10335,7 +10341,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1583
+      "Count": 1586
     },
     {
       "Text": "This game is Extremely Fun",
@@ -10392,9 +10398,9 @@
       "Count": 1071
     }
   ],
-  "EOS_Progressed": 131133,
+  "EOS_Progressed": 131148,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1338,
+  "EOS_NewPlayers": 1347,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37832,6 +37838,11 @@
       "Time": "2024-01-01T15:09:28.3981858+00:00",
       "NumProgressed": 131133,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-01T16:09:40.163461+00:00",
+      "NumProgressed": 131148,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37843,7 +37854,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5245
+      "UsersEstimate": 5246
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -37859,7 +37870,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5245
+      "UsersEstimate": 5246
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -37995,7 +38006,7 @@
       "Name": "Not Today!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5245
+      "UsersEstimate": 5246
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -38043,7 +38054,7 @@
       "Name": "Meat and Greet",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5245
+      "UsersEstimate": 5246
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -38059,7 +38070,7 @@
       "Name": "Catch and Decease",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5245
+      "UsersEstimate": 5246
     },
     {
       "ID": "combat_kill_librarian",
@@ -38115,7 +38126,7 @@
       "Name": "It Happens",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5245
+      "UsersEstimate": 5246
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -38139,7 +38150,7 @@
       "Name": "Rush Hour",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5245
+      "UsersEstimate": 5246
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -38153,9 +38164,9 @@
       "ID": "driving_biome_clear_farm",
       "SetID": "64l4lke",
       "Name": "Harvest Festival",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 3934
+      "UsersEstimate": 5246
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -38163,7 +38174,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5245
+      "UsersEstimate": 5246
     },
     {
       "ID": "driving_distance_easy",
@@ -38195,7 +38206,7 @@
       "Name": "Autodidact",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7868
+      "UsersEstimate": 7869
     },
     {
       "ID": "hero_story_complete_all",
@@ -38235,7 +38246,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5245
+      "UsersEstimate": 5246
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -38251,7 +38262,7 @@
       "Name": "FNG",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5245
+      "UsersEstimate": 5246
     },
     {
       "ID": "inn_visit_all_variants",
@@ -38379,7 +38390,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 720
+      "UsersEstimate": 722
     },
     {
       "ID": "combat_kill_collector",
@@ -38387,7 +38398,7 @@
       "Name": "This guy... again?",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -38427,7 +38438,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -38435,7 +38446,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "quest_complete_crusader",
@@ -38443,7 +38454,7 @@
       "Name": "Lost and Found",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -38451,7 +38462,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -38474,21 +38485,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131133,
+      "Progressed": 131148,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6002,
+      "Progressed": 6017,
       "Completed": 820
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-01T14:58:15.084572+00:00",
-  "LastChanged_Achievements": "2024-01-01T15:09:28.3981853+00:00",
+  "LastChanged": "2024-01-01T15:58:15.5816279+00:00",
+  "LastChanged_Achievements": "2024-01-01T16:09:40.1634607+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-01T14:58:15.084573+00:00",
-  "LastUpdate_Achievements": "2024-01-01T15:09:28.3983626+00:00"
+  "LastUpdate_Ratings": "2024-01-01T15:58:15.5816288+00:00",
+  "LastUpdate_Achievements": "2024-01-01T16:09:40.1636567+00:00"
 }

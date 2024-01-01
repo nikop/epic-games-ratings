@@ -4,8 +4,8 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 353,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1308,
+  "EOS_Progressed": 1309,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4679,6 +4679,11 @@
       "Time": "2024-01-01T15:09:57.9930622+00:00",
       "NumProgressed": 1308,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T16:10:11.2158566+00:00",
+      "NumProgressed": 1309,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4690,7 +4695,7 @@
       "Name": "Adventurous 1",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "adventurous_2",
@@ -4738,7 +4743,7 @@
       "Name": "Call of Mana 1",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "call_of_mana_2",
@@ -4786,7 +4791,7 @@
       "Name": "Collector 1",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "collector_2",
@@ -4882,7 +4887,7 @@
       "Name": "Elite Deck 1",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "elite_deck_2",
@@ -4930,7 +4935,7 @@
       "Name": "Glitter of Gold 1",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "glitter_of_gold_2",
@@ -5074,7 +5079,7 @@
       "Name": "Punctual 1",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "punctual_2",
@@ -5122,7 +5127,7 @@
       "Name": "Soul Shards 1",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "soul_shards_2",
@@ -5217,14 +5222,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1308,
+      "Progressed": 1309,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2024-01-01T15:09:57.9930619+00:00",
+  "LastChanged_Achievements": "2024-01-01T16:10:11.2158563+00:00",
   "LastUpdate_AppInfo": "2023-12-26T18:57:06.3782572+00:00",
-  "LastUpdate_Ratings": "2024-01-01T15:00:07.5409319+00:00",
-  "LastUpdate_Achievements": "2024-01-01T15:09:57.9931468+00:00"
+  "LastUpdate_Ratings": "2024-01-01T16:00:11.6370485+00:00",
+  "LastUpdate_Achievements": "2024-01-01T16:10:11.2159259+00:00"
 }

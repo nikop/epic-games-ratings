@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 571,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 6.83,
   "EosHistory": [
@@ -1780,9 +1780,9 @@
       "ID": "1000_XP",
       "SetID": "8d0im30",
       "Name": "1000 Score",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 200,
-      "UsersEstimate": 217
+      "UsersEstimate": 223
     },
     {
       "ID": "100_XP",
@@ -1811,8 +1811,8 @@
   ],
   "FirstSeen": "2023-12-08T10:57:34.1568649+00:00",
   "FirstSeenAchievements": "2023-12-07T15:03:10.6469952+00:00",
-  "LastChanged_Achievements": "2024-01-01T15:06:02.7613099+00:00",
+  "LastChanged_Achievements": "2024-01-01T16:06:19.1749135+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:17.8041321+00:00",
-  "LastUpdate_Ratings": "2024-01-01T14:59:32.5999691+00:00",
-  "LastUpdate_Achievements": "2024-01-01T15:06:02.7613253+00:00"
+  "LastUpdate_Ratings": "2024-01-01T15:59:35.240447+00:00",
+  "LastUpdate_Achievements": "2024-01-01T16:06:19.1749262+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 334,
-  "Ranking_EOS_NewPlayers": 260,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2148,
+  "EOS_Progressed": 2150,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -8255,6 +8255,11 @@
       "Time": "2024-01-01T13:09:19.7263628+00:00",
       "NumProgressed": 2148,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-01T16:05:55.8371655+00:00",
+      "NumProgressed": 2150,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8274,7 +8279,7 @@
       "Name": "Exterminator",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ach_defeat_players_10",
@@ -8290,7 +8295,7 @@
       "Name": "Player Betrayer",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ach_gold_rewards_100",
@@ -8346,7 +8351,7 @@
       "Name": "Keeping Busy",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "objective_headquarters_15",
@@ -8402,7 +8407,7 @@
       "Name": "Captain",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -8410,7 +8415,7 @@
       "Name": "Major",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "objective_hero_level_up_6",
@@ -8474,7 +8479,7 @@
       "Name": "Stocking Up",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -8506,7 +8511,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -8522,7 +8527,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -8530,7 +8535,7 @@
       "Name": "Advanced Interceptors",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "objective_research_unlock_ground_vehicle_tier_4",
@@ -8538,7 +8543,7 @@
       "Name": "Titan Tanks",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "objective_research_unlock_heavy_infantry_tier_4",
@@ -8546,7 +8551,7 @@
       "Name": "Shock Troops",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "objective_research_unlock_light_infantry_tier_4",
@@ -8569,7 +8574,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2148,
+      "Progressed": 2150,
       "Completed": 1
     }
   ],
@@ -8577,8 +8582,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-25T23:58:10.3014256+00:00",
-  "LastChanged_Achievements": "2024-01-01T15:05:40.3438925+00:00",
+  "LastChanged_Achievements": "2024-01-01T16:05:55.8371651+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:25.9392392+00:00",
-  "LastUpdate_Ratings": "2024-01-01T14:57:43.9672565+00:00",
-  "LastUpdate_Achievements": "2024-01-01T15:05:40.3439748+00:00"
+  "LastUpdate_Ratings": "2024-01-01T15:57:47.6762519+00:00",
+  "LastUpdate_Achievements": "2024-01-01T16:05:55.8372209+00:00"
 }

@@ -1,7 +1,7 @@
 # Aliens: Dark Descent
 [Store](https://store.epicgames.com/en-US/p/aliens-dark-descent)  
 [View Rawdata](../../db/a/aliens__dark_descent.json)  
-Rating: 4.53 (Ranked 559)  
+Rating: 4.54 (Ranked 544)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -243,8 +243,8 @@ Completed: 3 (0.05%) (Ranked 334)
 | 2024-01-01 | 5,611 | 3 |
 ## Awards
 Max (Great Boss Battles): 58  (Ranked 429)  
-Sum: 58 (Ranked 492)  
-Diff (max vs sum): -63  
+Sum: 58 (Ranked 493)  
+Diff (max vs sum): -64  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 58 |
@@ -326,3 +326,4 @@ Diff (max vs sum): -63
 | 2023-12-28 | 4.52 | 52 | 52 |
 | 2023-12-29 | 4.53 | 54 | 54 |
 | 2023-12-30 | 4.53 | 58 | 58 |
+| 2024-01-01 | 4.54 | 58 | 58 |

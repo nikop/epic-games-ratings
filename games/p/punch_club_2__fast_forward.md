@@ -30,8 +30,8 @@
 | Fight for life | 53.00% | ~272 |
 | Champion – starter pack | 53.00% | ~272 |
 | It's good to be alive | 53.00% | ~272 |
+| Intriguing candies | 53.00% | ~272 |
 | Own four walls | 52.00% | ~267 |
-| Intriguing candies | 52.00% | ~267 |
 | Employee of the year | 52.00% | ~267 |
 | Legal courier | 48.00% | ~247 |
 | Extreme neuropower! | 48.00% | ~247 |
