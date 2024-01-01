@@ -6,18 +6,18 @@ Rating: 4.65 (Ranked 323)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 43.00% | ~510 |
-| Rail Rat | 32.00% | ~379 |
-| The Mysterious Stranger | 31.00% | ~367 |
+| Rail Rat | 32.00% | ~380 |
+| The Mysterious Stranger | 31.00% | ~368 |
 | Immaculate Aim | 27.00% | ~320 |
-| The Brass Boss | 26.00% | ~308 |
-| Make Up For Lost Time | 25.00% | ~296 |
-| Time Flies | 25.00% | ~296 |
-| No, Thanks! | 25.00% | ~296 |
-| The Prince in Heels | 25.00% | ~296 |
-| The Harder They Fall | 24.00% | ~284 |
-| Honest Mistake | 24.00% | ~284 |
-| Fast Learner | 24.00% | ~284 |
-| Immaculate Aim | 24.00% | ~284 |
+| The Brass Boss | 26.00% | ~309 |
+| Make Up For Lost Time | 25.00% | ~297 |
+| Time Flies | 25.00% | ~297 |
+| No, Thanks! | 25.00% | ~297 |
+| The Prince in Heels | 25.00% | ~297 |
+| The Harder They Fall | 24.00% | ~285 |
+| Honest Mistake | 24.00% | ~285 |
+| Fast Learner | 24.00% | ~285 |
+| Immaculate Aim | 24.00% | ~285 |
 | The Steel Shadow | 23.00% | ~273 |
 | Breaking Down Barriers | 23.00% | ~273 |
 | The Wicked Twins | 22.00% | ~261 |
@@ -26,10 +26,10 @@ Rating: 4.65 (Ranked 323)
 | The Betrayer | 21.00% | ~249 |
 | Golem Chaser | 21.00% | ~249 |
 | Check Your Pulse | 20.00% | ~237 |
-| The Loose Cannon | 19.00% | ~225 |
-| Street Style | 18.00% | ~213 |
-| The Man Who Shattered Time | 18.00% | ~213 |
-| The Family Fortune | 18.00% | ~213 |
+| The Loose Cannon | 19.00% | ~226 |
+| Street Style | 18.00% | ~214 |
+| The Man Who Shattered Time | 18.00% | ~214 |
+| The Family Fortune | 18.00% | ~214 |
 | Whiz Kid | 15.00% | ~178 |
 | Good Neighbor | 14.00% | ~166 |
 | Family Memories | 13.00% | ~154 |
@@ -38,9 +38,9 @@ Rating: 4.65 (Ranked 323)
 | Chaincrawler Explorer | 12.00% | ~142 |
 | Treasure Trove | 12.00% | ~142 |
 | Syron for Hope | 12.00% | ~142 |
-| Sump Explorer | 11.00% | ~130 |
-| Factorywood Explorer | 10.00% | ~118 |
-| Theater Explorer | 10.00% | ~118 |
+| Sump Explorer | 11.00% | ~131 |
+| Factorywood Explorer | 10.00% | ~119 |
+| Theater Explorer | 10.00% | ~119 |
 | Cultivair Explorer | 9.00% | ~107 |
 | Fairgrounds Explorer | 9.00% | ~107 |
 | Corin Goes Home | 8.00% | ~95 |
@@ -59,7 +59,7 @@ Rating: 4.65 (Ranked 323)
 | Raw Talent | 0.60% | ~7 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,185 (Ranked 280)  
+Progressed: 1,187 (Ranked 280)  
 Completed: 6 (0.51%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 6 (0.51%) (Ranked 218)
 | 2023-12-29 | 1,145 | 6 |
 | 2023-12-30 | 1,165 | 6 |
 | 2023-12-31 | 1,175 | 6 |
-| 2024-01-01 | 1,185 | 6 |
+| 2024-01-01 | 1,187 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

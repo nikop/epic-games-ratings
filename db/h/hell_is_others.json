@@ -1417,9 +1417,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 260082,
+  "EOS_Progressed": 260087,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 316,
+  "EOS_NewPlayers": 315,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25937,6 +25937,11 @@
       "Time": "2024-01-01T16:05:11.0284002+00:00",
       "NumProgressed": 260082,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-01T17:06:23.9406486+00:00",
+      "NumProgressed": 260087,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -25972,7 +25977,7 @@
       "Name": "The Gamble",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 1560
+      "UsersEstimate": 1561
     },
     {
       "ID": "Act5",
@@ -25996,7 +26001,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80625
+      "UsersEstimate": 80627
     },
     {
       "ID": "BackHomeNTimes",
@@ -26028,7 +26033,7 @@
       "Name": "A major purchase",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 1560
+      "UsersEstimate": 1561
     },
     {
       "ID": "BuyNWeapons",
@@ -26052,7 +26057,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 26008
+      "UsersEstimate": 26009
     },
     {
       "ID": "CreditLevel2",
@@ -26060,7 +26065,7 @@
       "Name": "Fixer II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7802
+      "UsersEstimate": 7803
     },
     {
       "ID": "CreditLevel3",
@@ -26180,7 +26185,7 @@
       "Name": "Interior designer",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1560
+      "UsersEstimate": 1561
     },
     {
       "ID": "KillCrawlingThing",
@@ -26188,7 +26193,7 @@
       "Name": "It took a while",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7802
+      "UsersEstimate": 7803
     },
     {
       "ID": "KillHauntingThingsWithBaseballBat",
@@ -26220,7 +26225,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7802
+      "UsersEstimate": 7803
     },
     {
       "ID": "KillOtherWithMine",
@@ -26236,7 +26241,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59819
+      "UsersEstimate": 59820
     },
     {
       "ID": "KillOthers2",
@@ -26244,7 +26249,7 @@
       "Name": "Predator II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7802
+      "UsersEstimate": 7803
     },
     {
       "ID": "KillOthers3",
@@ -26340,7 +26345,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 26008
+      "UsersEstimate": 26009
     },
     {
       "ID": "ReachNDays2",
@@ -26395,7 +26400,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 260082,
+      "Progressed": 260087,
       "Completed": 3
     }
   ],
@@ -26403,8 +26408,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2024-01-01T09:57:51.6910853+00:00",
-  "LastChanged_Achievements": "2024-01-01T16:05:11.0283999+00:00",
+  "LastChanged_Achievements": "2024-01-01T17:06:23.9406484+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:41.7689812+00:00",
-  "LastUpdate_Ratings": "2024-01-01T15:57:59.2728604+00:00",
-  "LastUpdate_Achievements": "2024-01-01T16:05:11.0285308+00:00"
+  "LastUpdate_Ratings": "2024-01-01T16:58:26.4921945+00:00",
+  "LastUpdate_Achievements": "2024-01-01T17:06:23.9407845+00:00"
 }

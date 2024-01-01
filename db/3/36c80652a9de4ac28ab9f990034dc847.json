@@ -2,9 +2,9 @@
   "ID": "36c80652a9de4ac28ab9f990034dc847",
   "Name": "Death Crown",
   "ProductSlug": "death-crown-b2f5cd",
-  "Ranking_EOS_Progress": 567,
-  "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_Progress": 565,
+  "Ranking_EOS_Completed": 127,
+  "Ranking_EOS_NewPlayers": 398,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-08-22T23:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 40,
+  "EOS_Progressed": 41,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.5,
+  "EOS_Completed_Percentage": 2.44,
   "EosHistory": [
     {
       "Time": "2023-08-23T22:02:05.0482653+00:00",
@@ -234,6 +234,11 @@
       "Time": "2023-12-31T15:10:10.0812504+00:00",
       "NumProgressed": 40,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-01T17:10:26.4513384+00:00",
+      "NumProgressed": 41,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-23T22:02:05.0482707+00:00",
@@ -252,7 +257,7 @@
       "ID": "All_Human_Missions",
       "SetID": "cla1dpp",
       "Name": "The Era of Human has began.",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -276,7 +281,7 @@
       "ID": "Boss_Cita",
       "SetID": "cla1dpp",
       "Name": "Deadlord is Already Dead.",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -284,7 +289,7 @@
       "ID": "Boss_Cube",
       "SetID": "cla1dpp",
       "Name": "I hate geometry so much!",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 25,
       "UsersEstimate": 11
     },
@@ -308,7 +313,7 @@
       "ID": "Boss_Sphere",
       "SetID": "cla1dpp",
       "Name": "Roll out of here!",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -316,7 +321,7 @@
       "ID": "Boss_Tower",
       "SetID": "cla1dpp",
       "Name": "My tower is bigger than yours.",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 25,
       "UsersEstimate": 9
     },
@@ -324,7 +329,7 @@
       "ID": "Boss_Tree",
       "SetID": "cla1dpp",
       "Name": "This lawn is watching me.",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -332,7 +337,7 @@
       "ID": "Boss_Worm",
       "SetID": "cla1dpp",
       "Name": "He who controls the Black Crystals controls the universe.",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -356,7 +361,7 @@
       "ID": "Pass_Tutorial",
       "SetID": "cla1dpp",
       "Name": "First time here?",
-      "Percentage": 63,
+      "Percentage": 61,
       "XP": 25,
       "UsersEstimate": 25
     },
@@ -364,7 +369,7 @@
       "ID": "PvP_Mission",
       "SetID": "cla1dpp",
       "Name": "Many men, many corpses.",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -372,7 +377,7 @@
       "ID": "Surv_10",
       "SetID": "cla1dpp",
       "Name": "X.",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -380,7 +385,7 @@
       "ID": "Surv_20",
       "SetID": "cla1dpp",
       "Name": "XX.",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -388,7 +393,7 @@
       "ID": "Surv_30",
       "SetID": "cla1dpp",
       "Name": "XXX.",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -396,7 +401,7 @@
       "ID": "Up_Barraks",
       "SetID": "cla1dpp",
       "Name": "Where did so many skeletons come from in this grave?",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -404,7 +409,7 @@
       "ID": "Up_Farm",
       "SetID": "cla1dpp",
       "Name": "We need to go deeper!",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 25,
       "UsersEstimate": 7
     },
@@ -421,14 +426,14 @@
     {
       "ID": "cla1dpp",
       "IsBase": true,
-      "Progressed": 40,
+      "Progressed": 41,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-24T18:58:49.6745587+00:00",
   "FirstSeenAchievements": "2023-08-23T14:02:21.3308024+00:00",
-  "LastChanged_Achievements": "2024-01-01T16:09:37.6877014+00:00",
+  "LastChanged_Achievements": "2024-01-01T17:10:26.451338+00:00",
   "LastUpdate_AppInfo": "2023-12-28T02:56:54.5483043+00:00",
-  "LastUpdate_Ratings": "2024-01-01T15:59:07.6868659+00:00",
-  "LastUpdate_Achievements": "2024-01-01T16:09:37.6877198+00:00"
+  "LastUpdate_Ratings": "2024-01-01T17:00:08.2357297+00:00",
+  "LastUpdate_Achievements": "2024-01-01T17:10:26.4513538+00:00"
 }

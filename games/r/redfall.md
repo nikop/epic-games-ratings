@@ -5,8 +5,8 @@ Rating: 3.64 (Ranked 1,082)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 18.00% | ~396 |
-| Catch and Release | 13.00% | ~286 |
+| I Like My Stakes Rare! | 18.00% | ~397 |
+| Catch and Release | 13.00% | ~287 |
 | Home Is Where the Heart Is | 12.00% | ~264 |
 | ICU | 12.00% | ~264 |
 | Wounded Whispers | 12.00% | ~264 |
@@ -46,16 +46,16 @@ Rating: 3.64 (Ranked 1,082)
 | Bloody Initiate | 0.70% | ~15 |
 | Dexterity Save | 0.70% | ~15 |
 | Neighborhood Watch | 0.60% | ~13 |
+| Blood Brother | 0.60% | ~13 |
 | What Lies Below | 0.60% | ~13 |
-| Blood Brother | 0.50% | ~11 |
 | Sisterhood | 0.50% | ~11 |
 | Good Samaritan | 0.50% | ~11 |
 | Scream Team | 0.40% | ~9 |
 | Friendgineering | 0.40% | ~9 |
+| Monster Hunters Club | 0.30% | ~7 |
 | So Anyway I Started Blasting | 0.30% | ~7 |
 | Under a Bushel | 0.30% | ~7 |
 | Enemy of My Enemy | 0.30% | ~7 |
-| Monster Hunters Club | 0.20% | ~4 |
 | Bob’s Final Hour | 0.20% | ~4 |
 | Faith Healer | 0.10% | ~2 |
 | A Cry in the Dark | 0.10% | ~2 |
@@ -72,7 +72,7 @@ Rating: 3.64 (Ranked 1,082)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,202 (Ranked 238)  
+Progressed: 2,204 (Ranked 238)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-29 | 2,155 | 0 |
 | 2023-12-30 | 2,176 | 0 |
 | 2023-12-31 | 2,191 | 0 |
-| 2024-01-01 | 2,202 | 0 |
+| 2024-01-01 | 2,204 | 0 |
 ## Awards
 Max (Great Boss Battles): 20  (Ranked 572)  
 Sum: 20 (Ranked 573)  

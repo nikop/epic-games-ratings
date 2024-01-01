@@ -848,7 +848,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5990,
+  "EOS_Progressed": 5991,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 0,
@@ -12298,6 +12298,11 @@
       "Time": "2024-01-01T16:05:46.8908644+00:00",
       "NumProgressed": 5990,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-01T17:07:12.3451597+00:00",
+      "NumProgressed": 5991,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -12358,7 +12363,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1617
+      "UsersEstimate": 1618
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -12398,7 +12403,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1557
+      "UsersEstimate": 1558
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -12470,7 +12475,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 898
+      "UsersEstimate": 899
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -12493,15 +12498,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5990,
+      "Progressed": 5991,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-26T21:58:46.0180606+00:00",
-  "LastChanged_Achievements": "2024-01-01T16:05:46.8908641+00:00",
+  "LastChanged_Achievements": "2024-01-01T17:07:12.3451594+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:44.5580896+00:00",
-  "LastUpdate_Ratings": "2024-01-01T15:58:08.0460977+00:00",
-  "LastUpdate_Achievements": "2024-01-01T16:05:46.8909232+00:00"
+  "LastUpdate_Ratings": "2024-01-01T16:58:41.6493602+00:00",
+  "LastUpdate_Achievements": "2024-01-01T17:07:12.3452093+00:00"
 }

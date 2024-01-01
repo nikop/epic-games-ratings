@@ -6,7 +6,7 @@
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 156,
-  "Ranking_EOS_Completed": 246,
+  "Ranking_EOS_Completed": 245,
   "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
@@ -325,7 +325,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17973,
+  "EOS_Progressed": 17977,
   "EOS_Completed": 58,
   "EOS_NewPlayers": 579,
   "EOS_NewCompleters": 6,
@@ -15920,6 +15920,11 @@
       "Time": "2024-01-01T16:03:44.9676961+00:00",
       "NumProgressed": 17973,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-01T17:04:26.7722266+00:00",
+      "NumProgressed": 17977,
+      "NumCompleted": 58
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15996,7 +16001,7 @@
       "Name": "Spore Taste",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1797
+      "UsersEstimate": 1798
     },
     {
       "ID": "18",
@@ -16028,7 +16033,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1079
     },
     {
       "ID": "21",
@@ -16044,7 +16049,7 @@
       "Name": "Brother\u0027s Reaper",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "23",
@@ -16068,7 +16073,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1079
     },
     {
       "ID": "26",
@@ -16108,7 +16113,7 @@
       "Name": "Captain Drummer",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2336
+      "UsersEstimate": 2337
     },
     {
       "ID": "30",
@@ -16116,7 +16121,7 @@
       "Name": "No Belter Left Behind",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "4",
@@ -16124,7 +16129,7 @@
       "Name": "Debris Spree",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "5",
@@ -16156,7 +16161,7 @@
       "Name": "Data Recoverer",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "9",
@@ -16180,7 +16185,7 @@
       "Name": "Safe Cracker",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "33",
@@ -16188,7 +16193,7 @@
       "Name": "Zen Master",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "34",
@@ -16211,22 +16216,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17973,
+      "Progressed": 17977,
       "Completed": 58
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3927,
-      "Completed": 1146
+      "Progressed": 3931,
+      "Completed": 1147
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T23:58:17.8612142+00:00",
-  "LastChanged_Achievements": "2024-01-01T16:03:44.9676955+00:00",
+  "LastChanged_Achievements": "2024-01-01T17:04:26.7722262+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2024-01-01T15:58:45.7762941+00:00",
-  "LastUpdate_Achievements": "2024-01-01T16:03:44.9678041+00:00"
+  "LastUpdate_Ratings": "2024-01-01T16:59:35.9218375+00:00",
+  "LastUpdate_Achievements": "2024-01-01T17:04:26.772307+00:00"
 }

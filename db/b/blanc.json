@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3882,
+  "EOS_Progressed": 3884,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 0,
@@ -6411,6 +6411,11 @@
       "Time": "2024-01-01T15:06:20.4042858+00:00",
       "NumProgressed": 3882,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-01T17:08:23.3120766+00:00",
+      "NumProgressed": 3884,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -6470,7 +6475,7 @@
       "Name": "Sliders",
       "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "SNOW_RUINS",
@@ -6486,7 +6491,7 @@
       "Name": "Starting as a duo",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -6525,7 +6530,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3882,
+      "Progressed": 3884,
       "Completed": 6
     }
   ],
@@ -6533,8 +6538,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2024-01-01T16:06:37.9565392+00:00",
+  "LastChanged_Achievements": "2024-01-01T17:08:23.3120761+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:59.0797821+00:00",
-  "LastUpdate_Ratings": "2024-01-01T15:58:38.8021348+00:00",
-  "LastUpdate_Achievements": "2024-01-01T16:06:37.9565825+00:00"
+  "LastUpdate_Ratings": "2024-01-01T16:59:26.0903891+00:00",
+  "LastUpdate_Achievements": "2024-01-01T17:08:23.3121201+00:00"
 }

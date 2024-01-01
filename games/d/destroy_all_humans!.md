@@ -16,7 +16,7 @@ Number of Ratings: 85  (23.09.2022)
 | Pimp My Raid | 52.00% | ~145 |
 | Lobster Blisque | 49.00% | ~136 |
 | Earthly Pleasures | 47.00% | ~131 |
-| Fly Me to the Moon Base | 45.00% | ~125 |
+| Fly Me to the Moon Base | 46.00% | ~128 |
 | Ducks in a Row, Fish in a Barrel | 43.00% | ~120 |
 | Forbidden Donut | 36.00% | ~100 |
 | Freshly Squeezed | 36.00% | ~100 |
@@ -69,8 +69,8 @@ Completed: 5 (1.80%) (Ranked 141)
 | 2024-01-01 | 278 | 5 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 503)  
-Sum: 34 (Ranked 528)  
-Diff (max vs sum): -25  
+Sum: 34 (Ranked 529)  
+Diff (max vs sum): -26  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 34 |

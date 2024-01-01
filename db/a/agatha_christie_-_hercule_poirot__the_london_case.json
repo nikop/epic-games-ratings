@@ -4,8 +4,8 @@
   "ProductSlug": "agatha-christie-hercule-poirot-london-cases-c81a32",
   "Ranking_EOS_Progress": 502,
   "Ranking_EOS_Completed": 98,
-  "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-08-29T08:00:00+00:00",
     "PcReleaseDate": "2023-08-29T08:00:00+00:00",
@@ -475,9 +475,9 @@
       "ID": "ACH_011",
       "SetID": "7b646ck",
       "Name": "Well-travelled",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_012",
@@ -691,9 +691,9 @@
       "ID": "ACH_036",
       "SetID": "7b646ck",
       "Name": "Florence Farquhar",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_037",
@@ -819,9 +819,9 @@
       "ID": "ACH_09",
       "SetID": "7b646ck",
       "Name": "The Investigation Starts Anew",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     }
   ],
   "AchievementSets": [
@@ -834,8 +834,8 @@
   ],
   "FirstSeen": "2023-09-01T19:00:04.7737325+00:00",
   "FirstSeenAchievements": "2023-07-06T13:22:18.2956112+00:00",
-  "LastChanged_Achievements": "2024-01-01T16:09:43.5441836+00:00",
+  "LastChanged_Achievements": "2024-01-01T17:10:34.3419148+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:16.5856967+00:00",
-  "LastUpdate_Ratings": "2024-01-01T15:57:18.7753667+00:00",
-  "LastUpdate_Achievements": "2024-01-01T16:09:43.544243+00:00"
+  "LastUpdate_Ratings": "2024-01-01T16:57:26.0887126+00:00",
+  "LastUpdate_Achievements": "2024-01-01T17:10:34.3419531+00:00"
 }

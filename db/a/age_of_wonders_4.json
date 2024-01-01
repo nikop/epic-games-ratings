@@ -669,7 +669,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6672,
+  "EOS_Progressed": 6676,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 483,
   "EOS_NewCompleters": 0,
@@ -10009,6 +10009,11 @@
       "Time": "2024-01-01T16:06:35.1851698+00:00",
       "NumProgressed": 6672,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-01T17:08:19.3345389+00:00",
+      "NumProgressed": 6676,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10036,7 +10041,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "12",
@@ -10060,7 +10065,7 @@
       "Name": "Full Ascension",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "15",
@@ -10092,7 +10097,7 @@
       "Name": "Arch Mage",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "19",
@@ -10100,7 +10105,7 @@
       "Name": "The Creator",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "2",
@@ -10148,7 +10153,7 @@
       "Name": "Secret Technique",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "25",
@@ -10156,7 +10161,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "26",
@@ -10180,7 +10185,7 @@
       "Name": "From Friends to Family",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "29",
@@ -10188,7 +10193,7 @@
       "Name": "Stronger Together",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "3",
@@ -10196,7 +10201,7 @@
       "Name": "Crimson Caldera",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "30",
@@ -10204,7 +10209,7 @@
       "Name": "Preparation Is Everything",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "31",
@@ -10228,7 +10233,7 @@
       "Name": "Seat of Power",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "34",
@@ -10372,7 +10377,7 @@
       "Name": "Here be Dragons",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "46",
@@ -10380,7 +10385,7 @@
       "Name": "Tipping the Scales",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "47",
@@ -10396,7 +10401,7 @@
       "Name": "Blood of the Dragon",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "49",
@@ -10404,7 +10409,7 @@
       "Name": "Mighty Hoard",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "50",
@@ -10428,7 +10433,7 @@
       "Name": "Sehiran Oasis",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "53",
@@ -10444,7 +10449,7 @@
       "Name": "Chaos Surge",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "55",
@@ -10468,7 +10473,7 @@
       "Name": "Spoils of War",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "58",
@@ -10499,13 +10504,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6672,
+      "Progressed": 6676,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6672,
+      "Progressed": 6676,
       "Completed": 7
     }
   ],
@@ -10513,8 +10518,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-31T18:58:53.0277501+00:00",
-  "LastChanged_Achievements": "2024-01-01T16:06:35.1851694+00:00",
+  "LastChanged_Achievements": "2024-01-01T17:08:19.3345386+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-01T15:59:13.9756184+00:00",
-  "LastUpdate_Achievements": "2024-01-01T16:06:35.1852536+00:00"
+  "LastUpdate_Ratings": "2024-01-01T17:00:17.5846705+00:00",
+  "LastUpdate_Achievements": "2024-01-01T17:08:19.3346202+00:00"
 }

@@ -6,21 +6,21 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 81.00% | ~221 |
-| Mash Machine | 74.00% | ~202 |
-| Ducks in a Row, Fish in a Barrel | 52.00% | ~142 |
-| Furon Fashion | 48.00% | ~131 |
-| Shop Til They Drop | 40.00% | ~109 |
-| Bodied Sattva | 36.00% | ~98 |
+| Rock of the Bay | 80.00% | ~220 |
+| Mash Machine | 74.00% | ~204 |
+| Ducks in a Row, Fish in a Barrel | 52.00% | ~143 |
+| Furon Fashion | 48.00% | ~132 |
+| Shop Til They Drop | 40.00% | ~110 |
+| Bodied Sattva | 36.00% | ~99 |
 | Earthly Pleasures | 35.00% | ~96 |
-| Cult Following | 34.00% | ~93 |
-| Lie Back and Think of Albion | 27.00% | ~74 |
-| Upgreatest | 25.00% | ~68 |
+| Cult Following | 34.00% | ~94 |
+| Lie Back and Think of Albion | 28.00% | ~77 |
+| Upgreatest | 25.00% | ~69 |
 | Pimp My Raid | 24.00% | ~66 |
-| Freshly Squeezed | 21.00% | ~57 |
+| Freshly Squeezed | 21.00% | ~58 |
 | I Look Up As I Walk to Takoshima | 20.00% | ~55 |
-| Perfect Probulator | 17.00% | ~46 |
-| Die Nasty | 17.00% | ~46 |
+| Perfect Probulator | 17.00% | ~47 |
+| Die Nasty | 17.00% | ~47 |
 | Transmitting From Sol-3 | 15.00% | ~41 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 12.00% | ~33 |
 | Fly Me to the Moon Base | 9.00% | ~25 |
@@ -28,18 +28,18 @@ Number of Ratings: 90  (23.09.2022)
 | Dusted | 8.00% | ~22 |
 | Scuttled | 7.00% | ~19 |
 | Re-Return of the Clone of the Invasion II-2 | 7.00% | ~19 |
+| Lobster Blisque | 5.00% | ~14 |
 | Ultimate Smoothie | 4.00% | ~11 |
-| Lobster Blisque | 4.00% | ~11 |
 | Yettisoned | 4.00% | ~11 |
 | Arkvoodle Doodle | 4.00% | ~11 |
 | Deincarnated | 3.00% | ~8 |
 | Arty Facts | 1.00% | ~3 |
 | Against All Odds | 1.00% | ~3 |
+| Forbidden Donut | 1.00% | ~3 |
 | The Optional Mandate | 1.00% | ~3 |
 | PK Slam Dunk | 0.70% | ~2 |
 | Gotta Catch All the Pop Art | 0.70% | ~2 |
 | This Is Earth Radio | 0.70% | ~2 |
-| Forbidden Donut | 0.70% | ~2 |
 | Hidden Human Hive Harvest | 0.70% | ~2 |
 | Toilet Break | 0.40% | ~1 |
 | Albion Bridge Is for Falling Down | 0.40% | ~1 |
@@ -51,8 +51,8 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.40% | ~1 |
 | Trans-Siberian Express | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 273 (Ranked 399)  
-Completed: 1 (0.37%) (Ranked 235)  
+Progressed: 275 (Ranked 399)  
+Completed: 1 (0.36%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -87,11 +87,11 @@ Completed: 1 (0.37%) (Ranked 235)
 | 2023-12-29 | 246 | 1 |
 | 2023-12-30 | 259 | 1 |
 | 2023-12-31 | 268 | 1 |
-| 2024-01-01 | 273 | 1 |
+| 2024-01-01 | 275 | 1 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 493)  
-Sum: 36 (Ranked 524)  
-Diff (max vs sum): -31  
+Sum: 36 (Ranked 525)  
+Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 36 |

@@ -5,20 +5,20 @@ Rating: 4.55 (Ranked 523)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~14,492 |
-| Pay 'n' Spray | 50.00% | ~8,946 |
-| All Dressed Up for San Fierro | 25.00% | ~4,473 |
-| The American Dream | 19.00% | ~3,399 |
-| School's Out | 18.00% | ~3,220 |
-| Smooth Moves | 17.00% | ~3,041 |
-| Today Was a Good Day | 15.00% | ~2,684 |
-| What happens in Las Venturas... | 14.00% | ~2,505 |
-| Horror of the Santa Maria | 10.00% | ~1,789 |
-| Liberty City State of Mind | 9.00% | ~1,610 |
-| Original Gangster | 8.00% | ~1,431 |
-| With Extra Dip | 7.00% | ~1,252 |
-| The End of the Line | 7.00% | ~1,252 |
-| Saviour | 6.00% | ~1,073 |
+| Getting Started | 81.00% | ~14,499 |
+| Pay 'n' Spray | 50.00% | ~8,950 |
+| All Dressed Up for San Fierro | 25.00% | ~4,475 |
+| The American Dream | 19.00% | ~3,401 |
+| School's Out | 18.00% | ~3,222 |
+| Smooth Moves | 17.00% | ~3,043 |
+| Today Was a Good Day | 15.00% | ~2,685 |
+| What happens in Las Venturas... | 14.00% | ~2,506 |
+| Horror of the Santa Maria | 10.00% | ~1,790 |
+| Liberty City State of Mind | 9.00% | ~1,611 |
+| Original Gangster | 8.00% | ~1,432 |
+| With Extra Dip | 7.00% | ~1,253 |
+| The End of the Line | 7.00% | ~1,253 |
+| Saviour | 6.00% | ~1,074 |
 | Rescue a Kitten Too? | 5.00% | ~895 |
 | They Can’t Stop All of Us | 4.00% | ~716 |
 | What are the Odds | 4.00% | ~716 |
@@ -38,10 +38,10 @@ Rating: 4.55 (Ranked 523)
 | Not a Player | 1.00% | ~179 |
 | Chick Magnet | 1.00% | ~179 |
 | Remastered | 0.70% | ~125 |
-| ...Here we go again | 0.50% | ~89 |
+| ...Here we go again | 0.50% | ~90 |
 | I Ain't No Buster | 0.40% | ~72 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,891 (Ranked 158)  
+Progressed: 17,900 (Ranked 158)  
 Completed: 68 (0.38%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,11 +297,11 @@ Completed: 68 (0.38%) (Ranked 234)
 | 2023-12-29 | 17,467 | 65 |
 | 2023-12-30 | 17,622 | 66 |
 | 2023-12-31 | 17,792 | 67 |
-| 2024-01-01 | 17,891 | 68 |
+| 2024-01-01 | 17,900 | 68 |
 ## Awards
-Max (Relaxing): 49  (Ranked 455)  
-Sum: 318 (Ranked 373)  
-Diff (max vs sum): 82  
+Max (Relaxing): 49  (Ranked 456)  
+Sum: 320 (Ranked 373)  
+Diff (max vs sum): 83  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 557 |
@@ -310,9 +310,9 @@ Diff (max vs sum): 82
 | This game is Great for Beginners | 45 |
 | This game has Amazing Storytelling | 41 |
 | This game is Highly Recommended | 41 |
+| This game has Quickly Understood Controls | 33 |
 | This game has Diverse Characters | 32 |
 | This game is Extremely Fun | 31 |
-| This game has Quickly Understood Controls | 31 |
 | This game has a Creative Community | 29 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -534,4 +534,4 @@ Diff (max vs sum): 82
 | 2023-12-29 | 4.54 | 545 | 805 |
 | 2023-12-30 | 4.55 | 557 | 866 |
 | 2023-12-31 | 4.55 | 557 | 871 |
-| 2024-01-01 | 4.55 | 49 | 318 |
+| 2024-01-01 | 4.55 | 49 | 320 |

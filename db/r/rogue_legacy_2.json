@@ -1548,9 +1548,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 27425,
+  "EOS_Progressed": 27427,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 698,
+  "EOS_NewPlayers": 699,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -12643,6 +12643,11 @@
       "Time": "2024-01-01T16:09:58.1954446+00:00",
       "NumProgressed": 27425,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-01T17:10:54.3020348+00:00",
+      "NumProgressed": 27427,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -12750,7 +12755,7 @@
       "Name": "Hands and Hammers",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "BossFinalAdvancedDefeated",
@@ -12798,7 +12803,7 @@
       "Name": "Progenitor and Prot\u00E9g\u00E9",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "BossStudyAdvancedDefeated",
@@ -12830,7 +12835,7 @@
       "Name": "Suns and Soldiers",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "BoxerBoss",
@@ -12965,21 +12970,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 27425,
+      "Progressed": 27427,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 6355,
+      "Progressed": 6357,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-31T13:02:19.9867054+00:00",
-  "LastChanged_Achievements": "2024-01-01T16:09:58.1954444+00:00",
+  "LastChanged_Achievements": "2024-01-01T17:10:54.3020344+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.0569835+00:00",
-  "LastUpdate_Ratings": "2024-01-01T15:02:42.2116008+00:00",
-  "LastUpdate_Achievements": "2024-01-01T16:09:58.1955157+00:00"
+  "LastUpdate_Ratings": "2024-01-01T16:57:06.315129+00:00",
+  "LastUpdate_Achievements": "2024-01-01T17:10:54.3021156+00:00"
 }

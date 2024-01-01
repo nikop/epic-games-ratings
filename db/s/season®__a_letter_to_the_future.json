@@ -3,9 +3,9 @@
   "Name": "SEASON\u00AE: A letter to the future",
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 246,
-  "Ranking_EOS_Completed": 94,
-  "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 93,
+  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1896,
-  "EOS_Completed": 71,
-  "EOS_NewPlayers": 152,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 3.74,
+  "EOS_Progressed": 1898,
+  "EOS_Completed": 72,
+  "EOS_NewPlayers": 154,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 3.79,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:27.3083538+00:00",
@@ -4249,6 +4249,11 @@
       "Time": "2024-01-01T16:09:54.4237232+00:00",
       "NumProgressed": 1896,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-01T17:10:49.2417335+00:00",
+      "NumProgressed": 1898,
+      "NumCompleted": 72
     }
   ],
   "TotalAchievements": 16,
@@ -4260,7 +4265,7 @@
       "Name": "Artist Assistant",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ACH_DEEPLISTENER",
@@ -4276,7 +4281,7 @@
       "Name": "Dream Listener",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "ACH_EMOTIONALBAGGAGEHANDLER",
@@ -4284,7 +4289,7 @@
       "Name": "Emotional Baggage Handler",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "ACH_GOODBYETIENGVALLEY",
@@ -4316,7 +4321,7 @@
       "Name": "Home Leaver",
       "Percentage": 80,
       "XP": 40,
-      "UsersEstimate": 1517
+      "UsersEstimate": 1518
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -4324,7 +4329,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 80,
       "XP": 40,
-      "UsersEstimate": 1517
+      "UsersEstimate": 1518
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -4340,7 +4345,7 @@
       "Name": "Music for Cows",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "ACH_OUTSIDEWORLDSEER",
@@ -4348,7 +4353,7 @@
       "Name": "Outside World Seer",
       "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 1157
+      "UsersEstimate": 1158
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -4380,23 +4385,23 @@
       "Name": "Tour de Tieng",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1896,
-      "Completed": 71
+      "Progressed": 1898,
+      "Completed": 72
     }
   ],
   "FirstSeen": "2023-02-01T02:21:53.1981765+00:00",
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2024-01-01T16:09:54.4237229+00:00",
+  "LastChanged_Achievements": "2024-01-01T17:10:49.241733+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.182252+00:00",
-  "LastUpdate_Ratings": "2024-01-01T15:59:50.6266821+00:00",
-  "LastUpdate_Achievements": "2024-01-01T16:09:54.4237535+00:00"
+  "LastUpdate_Ratings": "2024-01-01T17:01:10.6582742+00:00",
+  "LastUpdate_Achievements": "2024-01-01T17:10:49.2417686+00:00"
 }

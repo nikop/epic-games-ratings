@@ -5,17 +5,17 @@ Rating: 4.63 (Ranked 358)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 13.00% | ~867 |
+| Secret Technique | 13.00% | ~868 |
 | Realm Estate | 11.00% | ~734 |
 | A Wonderful Discovery | 11.00% | ~734 |
-| Walls Cannot Stop Us | 10.00% | ~667 |
-| From Friends to Family | 9.00% | ~600 |
+| Walls Cannot Stop Us | 10.00% | ~668 |
+| From Friends to Family | 9.00% | ~601 |
 | Bone Peddler | 8.00% | ~534 |
 | Magical Synergy | 7.00% | ~467 |
-| There Can Only Be One! | 6.00% | ~400 |
-| Full Ascension | 6.00% | ~400 |
-| Stronger Together | 6.00% | ~400 |
-| Seat of Power | 6.00% | ~400 |
+| There Can Only Be One! | 6.00% | ~401 |
+| Full Ascension | 6.00% | ~401 |
+| Stronger Together | 6.00% | ~401 |
+| Seat of Power | 6.00% | ~401 |
 | Valley of Wonders | 5.00% | ~334 |
 | In a Liege of Your Own | 5.00% | ~334 |
 | Intimidation Tactics | 5.00% | ~334 |
@@ -28,17 +28,17 @@ Rating: 4.63 (Ranked 358)
 | Against the Odds | 3.00% | ~200 |
 | Impenetrable Fortress | 3.00% | ~200 |
 | Freed Lands of Manuhari | 3.00% | ~200 |
-| Arch Mage | 2.00% | ~133 |
-| The Creator | 2.00% | ~133 |
-| Crimson Caldera | 2.00% | ~133 |
-| Preparation Is Everything | 2.00% | ~133 |
-| Here be Dragons | 2.00% | ~133 |
-| Tipping the Scales | 2.00% | ~133 |
-| Blood of the Dragon | 2.00% | ~133 |
-| Mighty Hoard | 2.00% | ~133 |
-| Sehiran Oasis | 2.00% | ~133 |
-| Chaos Surge | 2.00% | ~133 |
-| Spoils of War | 2.00% | ~133 |
+| Arch Mage | 2.00% | ~134 |
+| The Creator | 2.00% | ~134 |
+| Crimson Caldera | 2.00% | ~134 |
+| Preparation Is Everything | 2.00% | ~134 |
+| Here be Dragons | 2.00% | ~134 |
+| Tipping the Scales | 2.00% | ~134 |
+| Blood of the Dragon | 2.00% | ~134 |
+| Mighty Hoard | 2.00% | ~134 |
+| Sehiran Oasis | 2.00% | ~134 |
+| Chaos Surge | 2.00% | ~134 |
+| Spoils of War | 2.00% | ~134 |
 | I've Got Everything I Need Right Here | 1.00% | ~67 |
 | God Emperor | 1.00% | ~67 |
 | Lord of Chaos | 1.00% | ~67 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 358)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,672 (Ranked 195)  
+Progressed: 6,676 (Ranked 195)  
 Completed: 7 (0.10%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 7 (0.10%) (Ranked 304)
 | 2023-12-29 | 6,495 | 7 |
 | 2023-12-30 | 6,566 | 7 |
 | 2023-12-31 | 6,624 | 7 |
-| 2024-01-01 | 6,672 | 7 |
+| 2024-01-01 | 6,676 | 7 |
 ## Awards
 Max (Great for Beginners): 39  (Ranked 479)  
 Sum: 184 (Ranked 424)  

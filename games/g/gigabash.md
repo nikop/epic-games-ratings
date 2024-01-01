@@ -5,15 +5,15 @@ Rating: 4.53 (Ranked 560)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 17.00% | ~19,411 |
-| I've Had Enough! | 13.00% | ~14,844 |
-| Fists, Fury & a lot of Rage | 9.00% | ~10,276 |
-| Seasoned Fighter | 8.00% | ~9,135 |
-| All For One and One For All | 7.00% | ~7,993 |
-| A New Age | 5.00% | ~5,709 |
-| Home Sweet Home? | 5.00% | ~5,709 |
-| Oh Baby, A Triple | 3.00% | ~3,425 |
-| Symbiotic | 3.00% | ~3,425 |
+| All Grown Up! | 17.00% | ~19,418 |
+| I've Had Enough! | 13.00% | ~14,849 |
+| Fists, Fury & a lot of Rage | 9.00% | ~10,280 |
+| Seasoned Fighter | 8.00% | ~9,138 |
+| All For One and One For All | 7.00% | ~7,996 |
+| A New Age | 5.00% | ~5,711 |
+| Home Sweet Home? | 5.00% | ~5,711 |
+| Oh Baby, A Triple | 3.00% | ~3,427 |
+| Symbiotic | 3.00% | ~3,427 |
 | Battle Hardened | 2.00% | ~2,284 |
 | Master of Disguise | 2.00% | ~2,284 |
 | It's Mayhem! | 2.00% | ~2,284 |
@@ -23,9 +23,9 @@ Rating: 4.53 (Ranked 560)
 | Martyrdom | 1.00% | ~1,142 |
 | Spectacular Finisher | 1.00% | ~1,142 |
 | Katamari | 0.90% | ~1,028 |
-| Ninja Reflex | 0.80% | ~913 |
-| Zero-sum Game | 0.80% | ~913 |
-| Taste Your Own Medicine | 0.70% | ~799 |
+| Ninja Reflex | 0.80% | ~914 |
+| Zero-sum Game | 0.80% | ~914 |
+| Taste Your Own Medicine | 0.70% | ~800 |
 | This is GigaBash! | 0.50% | ~571 |
 | Just Getting Warmed Up | 0.40% | ~457 |
 | Sidetracked... | 0.40% | ~457 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 560)
 | What's Mine is Yours | 0.10% | ~114 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 114,182 (Ranked 93)  
+Progressed: 114,222 (Ranked 93)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,7 +68,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-29 | 110,708 | 0 |
 | 2023-12-30 | 112,045 | 0 |
 | 2023-12-31 | 113,337 | 0 |
-| 2024-01-01 | 114,182 | 0 |
+| 2024-01-01 | 114,222 | 0 |
 ## Awards
 Max (Great Boss Battles): 47  (Ranked 461)  
 Sum: 47 (Ranked 508)  

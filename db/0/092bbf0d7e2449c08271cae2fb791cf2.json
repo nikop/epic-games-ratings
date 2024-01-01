@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
     "PcReleaseDate": "2018-03-07T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 390,
+  "EOS_Progressed": 391,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -1284,6 +1284,11 @@
       "Time": "2024-01-01T15:06:29.6860607+00:00",
       "NumProgressed": 390,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-01T17:08:34.8681711+00:00",
+      "NumProgressed": 391,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -1296,15 +1301,15 @@
       "Name": "Good Morning",
       "Percentage": 16,
       "XP": 145,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ach2",
       "SetID": "796kfpa",
       "Name": "Blabber",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 145,
-      "UsersEstimate": 191
+      "UsersEstimate": 196
     },
     {
       "ID": "ach3",
@@ -1351,14 +1356,14 @@
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 390,
+      "Progressed": 391,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2024-01-01T16:08:17.3191394+00:00",
+  "LastChanged_Achievements": "2024-01-01T17:08:34.8681706+00:00",
   "LastUpdate_AppInfo": "2023-12-27T20:57:07.636228+00:00",
-  "LastUpdate_Ratings": "2024-01-01T15:58:16.4710985+00:00",
-  "LastUpdate_Achievements": "2024-01-01T16:08:17.3191581+00:00"
+  "LastUpdate_Ratings": "2024-01-01T16:58:54.4472401+00:00",
+  "LastUpdate_Achievements": "2024-01-01T17:08:34.8681881+00:00"
 }

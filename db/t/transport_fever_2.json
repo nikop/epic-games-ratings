@@ -4,7 +4,7 @@
   "ProductSlug": "transport-fever-2",
   "Ranking_Rating": 262,
   "Ranking_Popularity": 450,
-  "Ranking_PopularitySum": 370,
+  "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 217,
@@ -881,7 +881,7 @@
   ],
   "EOS_Progressed": 2273,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -6542,9 +6542,9 @@
       "ID": "achFirstShipArrived",
       "SetID": "dgl390n",
       "Name": "First ship arrived",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 955
+      "UsersEstimate": 977
     },
     {
       "ID": "achFirstSteamTrainArrived",
@@ -6686,9 +6686,9 @@
       "ID": "achShipEarnings",
       "SetID": "dgl390n",
       "Name": "The king of the sea",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 591
+      "UsersEstimate": 614
     },
     {
       "ID": "achSmellOfSuccess",
@@ -6774,8 +6774,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-12-31T16:02:45.7007143+00:00",
-  "LastChanged_Achievements": "2024-01-01T16:08:57.5384442+00:00",
+  "LastChanged_Achievements": "2024-01-01T17:09:31.480665+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:27.72637+00:00",
-  "LastUpdate_Ratings": "2024-01-01T16:02:52.3344609+00:00",
-  "LastUpdate_Achievements": "2024-01-01T16:08:57.5385458+00:00"
+  "LastUpdate_Ratings": "2024-01-01T17:03:09.1795104+00:00",
+  "LastUpdate_Achievements": "2024-01-01T17:09:31.4807485+00:00"
 }

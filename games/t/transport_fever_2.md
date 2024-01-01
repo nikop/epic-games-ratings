@@ -23,8 +23,8 @@ Number of Ratings: 180  (23.09.2022)
 | Sculpturer | 46.00% | ~1,046 |
 | Settled down | 45.00% | ~1,023 |
 | First electric train arrived | 43.00% | ~977 |
+| First ship arrived | 43.00% | ~977 |
 | Now what? | 43.00% | ~977 |
-| First ship arrived | 42.00% | ~955 |
 | Exemplary student | 41.00% | ~932 |
 | High speed | 39.00% | ~886 |
 | Transport shark | 38.00% | ~864 |
@@ -34,8 +34,8 @@ Number of Ratings: 180  (23.09.2022)
 | The future is now, old man | 29.00% | ~659 |
 | Crowd in a train | 28.00% | ~636 |
 | Not in my backyard | 28.00% | ~636 |
+| The king of the sea | 27.00% | ~614 |
 | City | 26.00% | ~591 |
-| The king of the sea | 26.00% | ~591 |
 | Transport tycoon | 22.00% | ~500 |
 | Old timer | 21.00% | ~477 |
 | The ugly smell of success | 21.00% | ~477 |
@@ -312,8 +312,8 @@ Completed: 1 (0.04%) (Ranked 344)
 | 2024-01-01 | 2,273 | 1 |
 ## Awards
 Max (Great for Beginners): 50  (Ranked 450)  
-Sum: 331 (Ranked 370)  
-Diff (max vs sum): 80  
+Sum: 331 (Ranked 371)  
+Diff (max vs sum): 79  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 50 |

@@ -3,8 +3,8 @@
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
   "Ranking_Rating": 262,
-  "Ranking_Popularity": 402,
-  "Ranking_PopularitySum": 478,
+  "Ranking_Popularity": 396,
+  "Ranking_PopularitySum": 475,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 81,
@@ -225,23 +225,29 @@
       "Rating": 4.68,
       "NumberOfAwards": 77,
       "NumberOfAwardsMax": 77
+    },
+    {
+      "Time": "2024-01-01T17:00:50.4484391+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 84,
+      "NumberOfAwardsMax": 84
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 77,
-  "NumberOfAwardsMax": 77,
+  "NumberOfAwards": 84,
+  "NumberOfAwardsMax": 84,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 77
+      "Count": 84
     }
   ],
-  "EOS_Progressed": 9358,
+  "EOS_Progressed": 9369,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1934,
+  "EOS_NewPlayers": 1927,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3244,6 +3250,11 @@
       "Time": "2024-01-01T16:09:55.6855772+00:00",
       "NumProgressed": 9358,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T17:10:50.7700029+00:00",
+      "NumProgressed": 9369,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3254,9 +3265,9 @@
       "ID": "02_TheIntrigue",
       "SetID": "37a94m8",
       "Name": "Conspiracy",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 655
+      "UsersEstimate": 750
     },
     {
       "ID": "03_TheStolenStar",
@@ -3368,7 +3379,7 @@
       "Name": "The Rise",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "17_TheExemplar",
@@ -3382,9 +3393,9 @@
       "ID": "18_TheRookieSkipper",
       "SetID": "37a94m8",
       "Name": "Rookie Skipper",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 374
+      "UsersEstimate": 468
     },
     {
       "ID": "19_TheVoidWolf",
@@ -3416,7 +3427,7 @@
       "Name": "Perfect Timing",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "23_DynastyRestored",
@@ -3464,7 +3475,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -3775,16 +3786,16 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 9358,
+      "Progressed": 9369,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-07T19:57:48.6554999+00:00",
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged": "2023-12-31T16:59:07.4818651+00:00",
-  "LastChanged_Achievements": "2024-01-01T16:09:55.6855768+00:00",
+  "LastChanged": "2024-01-01T17:00:50.4484389+00:00",
+  "LastChanged_Achievements": "2024-01-01T17:10:50.7700025+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2024-01-01T15:59:36.1228886+00:00",
-  "LastUpdate_Achievements": "2024-01-01T16:09:55.6856571+00:00"
+  "LastUpdate_Ratings": "2024-01-01T17:00:50.4484395+00:00",
+  "LastUpdate_Achievements": "2024-01-01T17:10:50.7700686+00:00"
 }

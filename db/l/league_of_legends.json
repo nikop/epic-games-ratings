@@ -2,12 +2,12 @@
   "ID": "24b9b5e323bc40eea252a10cdd3b2f10",
   "Name": "League of Legends",
   "ProductSlug": "league-of-legends",
-  "Ranking_Rating": 953,
+  "Ranking_Rating": 943,
   "Ranking_Popularity": 76,
   "Ranking_PopularitySum": 57,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewPlayers": 572,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-11-04T16:30:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN, VN, TW, HK, MO, SG,MY, TH, ID, PH, KH, LA, MM, BN, TL"
     }
   },
-  "Rating": 4.2,
+  "Rating": 4.21,
   "NumberOfRatings": 10796,
   "RatingHistory": [
     {
@@ -12007,10 +12007,16 @@
       "Rating": 4.2,
       "NumberOfAwards": 23168,
       "NumberOfAwardsMax": 4973
+    },
+    {
+      "Time": "2024-01-01T16:57:25.8446958+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 23178,
+      "NumberOfAwardsMax": 4973
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 23168,
+  "NumberOfAwards": 23178,
   "NumberOfAwardsMax": 4973,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -12054,7 +12060,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 3390
+      "Count": 3400
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -12080,8 +12086,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:19.1268612+00:00",
-  "LastChanged": "2024-01-01T02:57:09.0610873+00:00",
+  "LastChanged": "2024-01-01T16:57:25.8446956+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:58.6549205+00:00",
-  "LastUpdate_Ratings": "2024-01-01T15:57:18.5240365+00:00",
-  "LastUpdate_Achievements": "2024-01-01T15:06:25.5287713+00:00"
+  "LastUpdate_Ratings": "2024-01-01T16:57:25.8446962+00:00",
+  "LastUpdate_Achievements": "2024-01-01T17:03:58.0632995+00:00"
 }

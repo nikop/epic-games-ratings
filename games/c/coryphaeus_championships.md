@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You are a Winner! | 25.00% | ~1 |
+| You are a Winner! | 50.00% | ~2 |
 | You are an Amateur! | 0.00% | ~0 |
 | You are a true Pro! | 0.00% | ~0 |
 | You are a CHAMPION! | 0.00% | ~0 |

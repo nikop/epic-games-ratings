@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 185,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3903,9 +3903,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33061,
+  "EOS_Progressed": 33068,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 380,
+  "EOS_NewPlayers": 384,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -24208,6 +24208,11 @@
       "Time": "2024-01-01T16:08:50.5006381+00:00",
       "NumProgressed": 33061,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-01T17:09:21.0007413+00:00",
+      "NumProgressed": 33068,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -24259,7 +24264,7 @@
       "Name": "Clutch Capture",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1322
+      "UsersEstimate": 1323
     },
     {
       "ID": "Collect_Spores",
@@ -24283,7 +24288,7 @@
       "Name": "Cultured",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1322
+      "UsersEstimate": 1323
     },
     {
       "ID": "Daily_Dose",
@@ -24291,7 +24296,7 @@
       "Name": "Daily Dose",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1322
+      "UsersEstimate": 1323
     },
     {
       "ID": "Diabolical",
@@ -24363,7 +24368,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1322
+      "UsersEstimate": 1323
     },
     {
       "ID": "Ghost_Expert",
@@ -24523,7 +24528,7 @@
       "Name": "Stylish",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 3306
+      "UsersEstimate": 3307
     },
     {
       "ID": "Summoner",
@@ -24571,7 +24576,7 @@
       "Name": "Therapeutic",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "There_You_Are",
@@ -24579,7 +24584,7 @@
       "Name": "There you are!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1322
+      "UsersEstimate": 1323
     },
     {
       "ID": "Tobins_Prodigy",
@@ -24619,14 +24624,14 @@
       "Name": "Whoopsie",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1322
+      "UsersEstimate": 1323
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33061,
+      "Progressed": 33068,
       "Completed": 71
     }
   ],
@@ -24634,8 +24639,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-31T08:57:45.2513751+00:00",
-  "LastChanged_Achievements": "2024-01-01T16:08:50.5006377+00:00",
+  "LastChanged_Achievements": "2024-01-01T17:09:21.000741+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:23.250158+00:00",
-  "LastUpdate_Ratings": "2024-01-01T15:58:31.3848444+00:00",
-  "LastUpdate_Achievements": "2024-01-01T16:08:50.5008939+00:00"
+  "LastUpdate_Ratings": "2024-01-01T16:59:15.3221438+00:00",
+  "LastUpdate_Achievements": "2024-01-01T17:09:21.0008774+00:00"
 }

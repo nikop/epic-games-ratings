@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Steam Power | 13.00% | ~3 |
+| Steam Power | 12.00% | ~3 |
 | Connection Up | 8.00% | ~2 |
 | Capital Connection | 4.00% | ~1 |
 | Billionaire Club | 4.00% | ~1 |
@@ -55,7 +55,7 @@
 | City Link | 0.00% | ~0 |
 | Double Trouble | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24 (Ranked 605)  
+Progressed: 25 (Ranked 604)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,3 +81,4 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-25 | 21 | 0 |
 | 2023-12-27 | 22 | 0 |
 | 2023-12-29 | 24 | 0 |
+| 2024-01-01 | 25 | 0 |

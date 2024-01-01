@@ -3,8 +3,8 @@
   "Name": "Kingdom Rush Vengeance",
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 409,
-  "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_Completed": 185,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -1597,9 +1597,9 @@
       "ID": "KR4_ACHIEVEMENT_SHADOWARCHERS",
       "SetID": "caeik3h",
       "Name": "They\u0027re coming!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "KR4_ACHIEVEMENT_SHAOLIN_MASTER",
@@ -1738,8 +1738,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2024-01-01T16:08:22.6686081+00:00",
+  "LastChanged_Achievements": "2024-01-01T17:08:41.9185855+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:04.1058747+00:00",
-  "LastUpdate_Ratings": "2024-01-01T15:59:16.0642393+00:00",
-  "LastUpdate_Achievements": "2024-01-01T16:08:22.6687208+00:00"
+  "LastUpdate_Ratings": "2024-01-01T17:00:21.3900381+00:00",
+  "LastUpdate_Achievements": "2024-01-01T17:08:41.9186576+00:00"
 }

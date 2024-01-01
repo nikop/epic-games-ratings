@@ -4,10 +4,10 @@
   "ProductSlug": "payday-3",
   "Ranking_Rating": 1036,
   "Ranking_Popularity": 566,
-  "Ranking_PopularitySum": 568,
+  "Ranking_PopularitySum": 515,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewPlayers": 572,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-09-21T15:00:00+00:00",
@@ -571,17 +571,29 @@
       "Rating": 4,
       "NumberOfAwards": 21,
       "NumberOfAwardsMax": 21
+    },
+    {
+      "Time": "2024-01-01T16:59:45.4473501+00:00",
+      "Rating": 4,
+      "NumberOfAwards": 42,
+      "NumberOfAwardsMax": 21
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21,
+  "NumberOfAwards": 42,
   "NumberOfAwardsMax": 21,
-  "MaxAwardTitle": "Realistic Visuals",
+  "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
+      "Count": 21
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
       "Count": 21
     }
   ],
@@ -597,8 +609,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-21T15:59:03.5169673+00:00",
   "FirstSeenRating": "2023-09-22T23:59:41.3450917+00:00",
-  "LastChanged": "2024-01-01T14:58:50.1273612+00:00",
+  "LastChanged": "2024-01-01T16:59:45.4473499+00:00",
   "LastUpdate_AppInfo": "2023-12-29T08:57:20.4960097+00:00",
-  "LastUpdate_Ratings": "2024-01-01T15:58:52.1407729+00:00",
-  "LastUpdate_Achievements": "2024-01-01T16:05:56.7486056+00:00"
+  "LastUpdate_Ratings": "2024-01-01T16:59:45.4473504+00:00",
+  "LastUpdate_Achievements": "2024-01-01T17:07:26.4020305+00:00"
 }

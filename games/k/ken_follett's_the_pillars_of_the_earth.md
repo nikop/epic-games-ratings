@@ -8,14 +8,14 @@ Number of Ratings: 368  (23.09.2022)
 | ---- | ---------- | ----- |
 | Tattletale | 40.00% | ~7,020 |
 | Man of politics | 34.00% | ~5,967 |
-| Yet another secret | 33.00% | ~5,791 |
+| Yet another secret | 33.00% | ~5,792 |
 | Friends of sorts | 32.00% | ~5,616 |
 | Let there be darkness | 31.00% | ~5,440 |
-| End of Book One | 29.00% | ~5,089 |
+| End of Book One | 29.00% | ~5,090 |
 | Wannabe knight | 23.00% | ~4,036 |
 | Garden of Eden | 23.00% | ~4,036 |
 | Full house | 23.00% | ~4,036 |
-| Help an old friend | 21.00% | ~3,685 |
+| Help an old friend | 21.00% | ~3,686 |
 | Two of us | 20.00% | ~3,510 |
 | Negotiation skills | 18.00% | ~3,159 |
 | Workers' union | 18.00% | ~3,159 |
@@ -23,24 +23,24 @@ Number of Ratings: 368  (23.09.2022)
 | Everything's in order | 16.00% | ~2,808 |
 | Twist of Fate | 14.00% | ~2,457 |
 | Jack was here! | 14.00% | ~2,457 |
-| Exterminator | 13.00% | ~2,281 |
+| Exterminator | 13.00% | ~2,282 |
 | Whodunnit | 12.00% | ~2,106 |
 | Good midwife | 10.00% | ~1,755 |
 | Friar Tuck | 10.00% | ~1,755 |
 | First profit | 10.00% | ~1,755 |
 | Team player | 10.00% | ~1,755 |
-| Skilled merchant | 9.00% | ~1,579 |
-| Brother Marcus | 9.00% | ~1,579 |
-| The oath | 9.00% | ~1,579 |
-| The truth revealed | 9.00% | ~1,579 |
-| The End. | 9.00% | ~1,579 |
+| Skilled merchant | 9.00% | ~1,580 |
+| Brother Marcus | 9.00% | ~1,580 |
+| The oath | 9.00% | ~1,580 |
+| The truth revealed | 9.00% | ~1,580 |
+| The End. | 9.00% | ~1,580 |
 | Nothing but make-believe | 8.00% | ~1,404 |
-| A cry for help | 7.00% | ~1,228 |
-| Silentium est aureum | 7.00% | ~1,228 |
+| A cry for help | 7.00% | ~1,229 |
+| Silentium est aureum | 7.00% | ~1,229 |
 | Rebel without a cause | 6.00% | ~1,053 |
-| Staring contest champion | 5.00% | ~877 |
-| Lone wolf | 5.00% | ~877 |
-| Vox Populi | 5.00% | ~877 |
+| Staring contest champion | 5.00% | ~878 |
+| Lone wolf | 5.00% | ~878 |
+| Vox Populi | 5.00% | ~878 |
 | Revenge | 4.00% | ~702 |
 | Countess Aliena | 4.00% | ~702 |
 | Care, like a brother cares | 3.00% | ~526 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~526 |
 | Boy of mystery | 2.00% | ~351 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,549 (Ranked 160)  
+Progressed: 17,550 (Ranked 160)  
 Completed: 123 (0.70%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 123 (0.70%) (Ranked 195)
 | 2023-12-29 | 17,490 | 122 |
 | 2023-12-30 | 17,509 | 122 |
 | 2023-12-31 | 17,527 | 123 |
-| 2024-01-01 | 17,549 | 123 |
+| 2024-01-01 | 17,550 | 123 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 323)  
 Sum: 200 (Ranked 415)  

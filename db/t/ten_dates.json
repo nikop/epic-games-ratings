@@ -2,7 +2,7 @@
   "ID": "b5ab16ebd552476688116e187acd2151",
   "Name": "Ten Dates",
   "ProductSlug": "ten-dates-9a188a",
-  "Ranking_EOS_Progress": 354,
+  "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 164,
   "Ranking_EOS_NewPlayers": 280,
   "Ranking_EOS_NewCompleters": 152,
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 446,
+  "EOS_Progressed": 447,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
@@ -1226,6 +1226,11 @@
       "Time": "2024-01-01T16:09:40.647727+00:00",
       "NumProgressed": 446,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-01T17:10:30.2646683+00:00",
+      "NumProgressed": 447,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 19,
@@ -1269,7 +1274,7 @@
       "Name": "Let it begin",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "profile_ryan",
@@ -1277,7 +1282,7 @@
       "Name": "That wasn\u0027t so bad",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "ryan_date2_all",
@@ -1365,7 +1370,7 @@
       "Name": "The athlete",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "success_ty",
@@ -1388,7 +1393,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 446,
+      "Progressed": 447,
       "Completed": 5
     }
   ],
@@ -1396,8 +1401,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2024-01-01T16:09:40.6477267+00:00",
+  "LastChanged_Achievements": "2024-01-01T17:10:30.2646678+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:31.6181665+00:00",
-  "LastUpdate_Ratings": "2024-01-01T16:02:53.822849+00:00",
-  "LastUpdate_Achievements": "2024-01-01T16:09:40.647748+00:00"
+  "LastUpdate_Ratings": "2024-01-01T17:03:11.4740114+00:00",
+  "LastUpdate_Achievements": "2024-01-01T17:10:30.2646874+00:00"
 }

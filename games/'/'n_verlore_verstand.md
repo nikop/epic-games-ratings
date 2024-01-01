@@ -16,7 +16,7 @@
 | A Terrifying Blizzard | 9.00% | ~6 |
 | A Dangerous Road | 7.00% | ~5 |
 | Scorched Ruins | 6.00% | ~4 |
-| City of Illusion | 4.00% | ~3 |
+| City of Illusion | 6.00% | ~4 |
 | Kill the Flames | 4.00% | ~3 |
 | Find the Light | 4.00% | ~3 |
 | Fight and Overcome | 4.00% | ~3 |

@@ -2,9 +2,9 @@
   "ID": "6bd7d2e32a724e119b9e4a2254aeec33",
   "Name": "Super Alloy Ranger",
   "ProductSlug": "super-alloy-ranger-4252cc",
-  "Ranking_EOS_Progress": 451,
+  "Ranking_EOS_Progress": 450,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 415,
+  "Ranking_EOS_NewPlayers": 407,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 146,
+  "EOS_Progressed": 147,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
@@ -716,6 +716,11 @@
       "Time": "2024-01-01T06:08:30.653802+00:00",
       "NumProgressed": 146,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-01T17:08:36.4023874+00:00",
+      "NumProgressed": 147,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -861,7 +866,7 @@
       "ID": "Achi_18",
       "SetID": "51a97k7",
       "Name": "Gear Up",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 15,
       "UsersEstimate": 96
     },
@@ -879,7 +884,7 @@
       "Name": "Freshen Up",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "Achi_21",
@@ -895,7 +900,7 @@
       "Name": "Iceberg Theory",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "Achi_23",
@@ -919,7 +924,7 @@
       "Name": "Mr. Want It All",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Achi_26",
@@ -933,9 +938,9 @@
       "ID": "Achi_27",
       "SetID": "51a97k7",
       "Name": "GG EZ",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 76
     },
     {
       "ID": "Achi_28",
@@ -943,7 +948,7 @@
       "Name": "Ka-Ching!",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Achi_29",
@@ -957,7 +962,7 @@
       "ID": "Achi_30",
       "SetID": "51a97k7",
       "Name": "A Grand Show",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 20,
       "UsersEstimate": 96
     },
@@ -999,7 +1004,7 @@
       "Name": "Stop Right There",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "Achi_36",
@@ -1013,9 +1018,9 @@
       "ID": "Achi_37",
       "SetID": "51a97k7",
       "Name": "Get to the Point",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 36
+      "UsersEstimate": 35
     },
     {
       "ID": "Achi_38",
@@ -1039,7 +1044,7 @@
       "Name": "Toe to Toe",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Achi_41",
@@ -1095,7 +1100,7 @@
       "Name": "Phew!",
       "Percentage": 14,
       "XP": 35,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Achi_48",
@@ -1126,7 +1131,7 @@
     {
       "ID": "51a97k7",
       "IsBase": true,
-      "Progressed": 146,
+      "Progressed": 147,
       "Completed": 1
     }
   ],
@@ -1134,8 +1139,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2024-01-01T16:08:18.4574183+00:00",
+  "LastChanged_Achievements": "2024-01-01T17:08:36.4023872+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:37.9586675+00:00",
-  "LastUpdate_Ratings": "2024-01-01T15:59:54.6508213+00:00",
-  "LastUpdate_Achievements": "2024-01-01T16:08:18.4574602+00:00"
+  "LastUpdate_Ratings": "2024-01-01T17:01:17.1575089+00:00",
+  "LastUpdate_Achievements": "2024-01-01T17:08:36.4024208+00:00"
 }

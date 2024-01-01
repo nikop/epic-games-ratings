@@ -532,9 +532,9 @@
       "ID": "ACH_19_PYJAMA",
       "SetID": "9dl0ei6",
       "Name": "Pajama Party",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_20_321GO",
@@ -611,8 +611,8 @@
   ],
   "FirstSeen": "2023-07-12T17:57:50.452035+00:00",
   "FirstSeenAchievements": "2023-06-18T14:01:38.8947903+00:00",
-  "LastChanged_Achievements": "2024-01-01T16:10:03.3534482+00:00",
+  "LastChanged_Achievements": "2024-01-01T17:11:01.1968767+00:00",
   "LastUpdate_AppInfo": "2024-01-01T02:57:07.1307099+00:00",
-  "LastUpdate_Ratings": "2024-01-01T15:57:58.1770141+00:00",
-  "LastUpdate_Achievements": "2024-01-01T16:10:03.3534737+00:00"
+  "LastUpdate_Ratings": "2024-01-01T16:58:25.1912777+00:00",
+  "LastUpdate_Achievements": "2024-01-01T17:11:01.196899+00:00"
 }

@@ -7,14 +7,14 @@
 | Welcome to Seven Doors | 59.00% | ~16 |
 | Kill the Dead Man | 48.00% | ~13 |
 | Diogenes Syndrome | 48.00% | ~13 |
+| Egyptologist | 48.00% | ~13 |
 | No Fear of the Dark | 44.00% | ~12 |
-| Egyptologist | 44.00% | ~12 |
 | They’re Watching | 41.00% | ~11 |
 | Art Connoisseur | 41.00% | ~11 |
-| The Last Skull | 37.00% | ~10 |
-| Survivor | 33.00% | ~9 |
+| The Last Skull | 41.00% | ~11 |
+| Survivor | 37.00% | ~10 |
+| Master of Riddles | 33.00% | ~9 |
 | A Cautious Man Is Worth Two of His Kind | 30.00% | ~8 |
-| Master of Riddles | 30.00% | ~8 |
 | The Witch’s Haunt | 26.00% | ~7 |
 | A Cabin Boy with Potential | 26.00% | ~7 |
 | Trapped in Time | 22.00% | ~6 |

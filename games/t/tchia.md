@@ -5,7 +5,7 @@ Rating: 4.71 (Ranked 202)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In a Pinch | 0.90% | ~77 |
+| In a Pinch | 0.90% | ~78 |
 | Energy Saver | 0.80% | ~69 |
 | The Journey Onwards | 0.40% | ~34 |
 | Globe Trotter | 0.30% | ~26 |
@@ -27,7 +27,7 @@ Rating: 4.71 (Ranked 202)
 | Fashion Victim | 0.00% | ~0 |
 | Thing | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,610 (Ranked 186)  
+Progressed: 8,617 (Ranked 186)  
 Completed: 34 (0.39%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 34 (0.39%) (Ranked 233)
 | 2023-12-29 | 8,521 | 34 |
 | 2023-12-30 | 8,561 | 34 |
 | 2023-12-31 | 8,595 | 34 |
-| 2024-01-01 | 8,610 | 34 |
+| 2024-01-01 | 8,617 | 34 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1795,9 +1795,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 165935,
+  "EOS_Progressed": 165945,
   "EOS_Completed": 434,
-  "EOS_NewPlayers": 1489,
+  "EOS_NewPlayers": 1487,
   "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -21450,6 +21450,11 @@
       "Time": "2024-01-01T16:04:32.7604979+00:00",
       "NumProgressed": 165935,
       "NumCompleted": 434
+    },
+    {
+      "Time": "2024-01-01T17:05:31.9816365+00:00",
+      "NumProgressed": 165945,
+      "NumCompleted": 434
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -21580,9 +21585,9 @@
       "ID": "DEFEAT_FLOWERVULTURE",
       "SetID": "72k7oh",
       "Name": "Host",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 497
+      "UsersEstimate": 662
     },
     {
       "ID": "DEFEAT_GRIEVINGROCKGIANT",
@@ -21598,7 +21603,7 @@
       "Name": "Harmless",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1328
     },
     {
       "ID": "DEFEAT_JAWCRAB",
@@ -21654,7 +21659,7 @@
       "Name": "Silenced Whispers",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1328
     },
     {
       "ID": "MISC_ABSORBMANY",
@@ -21662,7 +21667,7 @@
       "Name": "Devourer",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1493
+      "UsersEstimate": 1494
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -21829,21 +21834,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 165518,
-      "Completed": 1250
+      "Progressed": 165528,
+      "Completed": 1251
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 165935,
+      "Progressed": 165945,
       "Completed": 434
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-01T13:01:50.6717718+00:00",
-  "LastChanged_Achievements": "2024-01-01T16:04:32.7604975+00:00",
+  "LastChanged_Achievements": "2024-01-01T17:05:31.9816362+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:50.3299145+00:00",
-  "LastUpdate_Ratings": "2024-01-01T15:58:31.2608805+00:00",
-  "LastUpdate_Achievements": "2024-01-01T16:04:32.7606375+00:00"
+  "LastUpdate_Ratings": "2024-01-01T16:59:15.2060993+00:00",
+  "LastUpdate_Achievements": "2024-01-01T17:05:31.9817521+00:00"
 }

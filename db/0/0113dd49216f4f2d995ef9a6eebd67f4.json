@@ -4,7 +4,7 @@
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 420,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewPlayers": 285,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 214,
+  "EOS_Progressed": 215,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -964,6 +964,11 @@
       "Time": "2024-01-01T03:09:36.0160047+00:00",
       "NumProgressed": 214,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T17:09:37.4415692+00:00",
+      "NumProgressed": 215,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -1048,7 +1053,7 @@
       "Name": "End Of The Road",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -1088,7 +1093,7 @@
       "Name": "Like Heroes Before You",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "SG_LOSTINASONG",
@@ -1096,7 +1101,7 @@
       "Name": "Lost In A Song",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "SG_MAESTRO",
@@ -1200,7 +1205,7 @@
       "Name": "The Deep End",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "SG_THEHIGHROAD",
@@ -1271,14 +1276,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 214,
+      "Progressed": 215,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-01T16:09:01.7375307+00:00",
+  "LastChanged_Achievements": "2024-01-01T17:09:37.4415689+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:04.3127204+00:00",
-  "LastUpdate_Ratings": "2024-01-01T15:59:17.5522371+00:00",
-  "LastUpdate_Achievements": "2024-01-01T16:09:01.737556+00:00"
+  "LastUpdate_Ratings": "2024-01-01T17:00:23.9337398+00:00",
+  "LastUpdate_Achievements": "2024-01-01T17:09:37.441594+00:00"
 }

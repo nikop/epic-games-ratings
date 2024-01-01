@@ -51,9 +51,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1185,
+  "EOS_Progressed": 1187,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -3426,6 +3426,11 @@
       "Time": "2024-01-01T16:10:08.4086369+00:00",
       "NumProgressed": 1185,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-01T17:11:07.0382634+00:00",
+      "NumProgressed": 1187,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3509,7 +3514,7 @@
       "Name": "Street Style",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "CultivairChests1",
@@ -3541,7 +3546,7 @@
       "Name": "Factorywood Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "FairgroundsChests1",
@@ -3557,7 +3562,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -3573,7 +3578,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "GadgetCompletion1",
@@ -3597,7 +3602,7 @@
       "Name": "Rail Rat",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "HexlockGift",
@@ -3621,7 +3626,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "LacunaCompleted",
@@ -3629,7 +3634,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "MapCompletion1",
@@ -3677,7 +3682,7 @@
       "Name": "Time Flies",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ParryBoss",
@@ -3685,7 +3690,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "ParryRepeated1",
@@ -3693,7 +3698,7 @@
       "Name": "No, Thanks!",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "PhaseDiveCounter",
@@ -3717,7 +3722,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "RewindDamage1",
@@ -3733,7 +3738,7 @@
       "Name": "Honest Mistake",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "ScrambotCompletion1",
@@ -3765,7 +3770,7 @@
       "Name": "Fast Learner",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "SpeedRun",
@@ -3781,7 +3786,7 @@
       "Name": "Sump Explorer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "SyronGift",
@@ -3805,7 +3810,7 @@
       "Name": "Theater Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "TimewinderMultiKill1",
@@ -3821,7 +3826,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "WatcherFought",
@@ -3845,7 +3850,7 @@
       "Name": "The Brass Boss",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "Zarkon2Defeated",
@@ -3853,14 +3858,14 @@
       "Name": "The Family Fortune",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1185,
+      "Progressed": 1187,
       "Completed": 6
     }
   ],
@@ -3868,8 +3873,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2024-01-01T16:10:08.4086365+00:00",
+  "LastChanged_Achievements": "2024-01-01T17:11:07.0382631+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:23.9308133+00:00",
-  "LastUpdate_Ratings": "2024-01-01T16:02:49.1501963+00:00",
-  "LastUpdate_Achievements": "2024-01-01T16:10:08.4087165+00:00"
+  "LastUpdate_Ratings": "2024-01-01T17:03:04.8925253+00:00",
+  "LastUpdate_Achievements": "2024-01-01T17:11:07.0383143+00:00"
 }

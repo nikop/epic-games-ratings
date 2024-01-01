@@ -14,10 +14,10 @@ Number of Ratings: 124  (23.09.2022)
 | Military Leader | 19.00% | ~30 |
 | Creator | 19.00% | ~30 |
 | Festival-goer | 18.00% | ~29 |
-| Commander | 14.00% | ~22 |
+| Commander | 15.00% | ~24 |
 | Long-Haul Flyer | 13.00% | ~21 |
 | Pass A38 | 13.00% | ~21 |
-| Irissa's Fate | 11.00% | ~18 |
+| Irissa's Fate | 12.00% | ~19 |
 | Berserker | 9.00% | ~14 |
 | Family Reunion | 9.00% | ~14 |
 | Storyteller | 8.00% | ~13 |
@@ -31,13 +31,13 @@ Number of Ratings: 124  (23.09.2022)
 | Free as a Bird | 4.00% | ~6 |
 | Perfectionist | 4.00% | ~6 |
 | Detective | 4.00% | ~6 |
+| Lover | 4.00% | ~6 |
 | Treasure Hunter | 3.00% | ~5 |
 | Alchemist | 3.00% | ~5 |
 | Self-Sufficient | 3.00% | ~5 |
 | Idealist | 3.00% | ~5 |
 | Unbreakable | 3.00% | ~5 |
 | Cleric | 3.00% | ~5 |
-| Lover | 3.00% | ~5 |
 | Weaponsmith | 1.00% | ~2 |
 | Morkon | 1.00% | ~2 |
 | Legendary | 1.00% | ~2 |

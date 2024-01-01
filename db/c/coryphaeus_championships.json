@@ -4,7 +4,7 @@
   "ProductSlug": "coryphaeus-championships-216f4a",
   "Ranking_EOS_Progress": 694,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewPlayers": 572,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-12-07T20:30:00+00:00",
@@ -78,9 +78,9 @@
       "ID": "FirstWin",
       "SetID": "6gf78k7",
       "Name": "You are a Winner!",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 200,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Prodigy",
@@ -101,8 +101,8 @@
   ],
   "FirstSeen": "2023-12-09T15:59:00.0551516+00:00",
   "FirstSeenAchievements": "2023-05-02T14:01:03.0189024+00:00",
-  "LastChanged_Achievements": "2024-01-01T16:09:52.1781751+00:00",
+  "LastChanged_Achievements": "2024-01-01T17:10:46.2846695+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:24.4889072+00:00",
-  "LastUpdate_Ratings": "2024-01-01T15:59:51.6232913+00:00",
-  "LastUpdate_Achievements": "2024-01-01T16:09:52.1781789+00:00"
+  "LastUpdate_Ratings": "2024-01-01T17:01:12.8395618+00:00",
+  "LastUpdate_Achievements": "2024-01-01T17:10:46.2846759+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 407,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 251,
+  "EOS_Progressed": 252,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1139,6 +1139,11 @@
       "Time": "2024-01-01T15:08:34.1448225+00:00",
       "NumProgressed": 251,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T17:09:09.1411256+00:00",
+      "NumProgressed": 252,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -1255,7 +1260,7 @@
       "Name": "Refuse to look",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "do_what_you_have_to",
@@ -1279,7 +1284,7 @@
       "Name": "Face your fears",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "find_most_of_family_mementos",
@@ -1335,7 +1340,7 @@
       "Name": "Finished it",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "first_step",
@@ -1423,7 +1428,7 @@
       "Name": "A piece of the story",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "playtime",
@@ -1487,7 +1492,7 @@
       "Name": "Something important",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "spy_one_item",
@@ -1551,7 +1556,7 @@
       "Name": "Wanderer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "whispers_long_forgotten",
@@ -1566,14 +1571,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 251,
+      "Progressed": 252,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-01T16:08:41.9105727+00:00",
+  "LastChanged_Achievements": "2024-01-01T17:09:09.1411253+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.7570027+00:00",
-  "LastUpdate_Ratings": "2024-01-01T15:57:42.7802015+00:00",
-  "LastUpdate_Achievements": "2024-01-01T16:08:41.9106145+00:00"
+  "LastUpdate_Ratings": "2024-01-01T16:58:02.2249263+00:00",
+  "LastUpdate_Achievements": "2024-01-01T17:09:09.1411664+00:00"
 }

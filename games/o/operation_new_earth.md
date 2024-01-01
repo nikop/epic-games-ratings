@@ -19,9 +19,9 @@ Rating: 3.28 (Ranked 1,086)
 | Infantry Reporting | 9.00% | ~194 |
 | Fighting for Survival | 8.00% | ~172 |
 | Silver Competitor | 8.00% | ~172 |
+| Captain | 8.00% | ~172 |
 | Factory Expansion | 8.00% | ~172 |
 | Exterminator | 7.00% | ~151 |
-| Captain | 7.00% | ~151 |
 | Know The Enemy | 6.00% | ~129 |
 | Silver Achiever | 6.00% | ~129 |
 | Moving On Up | 6.00% | ~129 |
@@ -32,10 +32,10 @@ Rating: 3.28 (Ranked 1,086)
 | Resourceful | 4.00% | ~86 |
 | Advanced Warfare | 3.00% | ~64 |
 | Colonel | 3.00% | ~64 |
+| Battle Ready | 3.00% | ~64 |
 | Control the Skies | 3.00% | ~64 |
 | General | 2.00% | ~43 |
 | Seek & Destroy | 2.00% | ~43 |
-| Battle Ready | 2.00% | ~43 |
 | Advanced Interceptors | 1.00% | ~22 |
 | Titan Tanks | 1.00% | ~22 |
 | Shock Troops | 1.00% | ~22 |

@@ -4,7 +4,7 @@
   "ProductSlug": "spongebob-squarepants-battle-for-bikini-bottom-rehydrated",
   "Ranking_Rating": 323,
   "Ranking_Popularity": 498,
-  "Ranking_PopularitySum": 526,
+  "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 185,
@@ -325,7 +325,7 @@
   ],
   "EOS_Progressed": 616,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 256,
+  "EOS_NewPlayers": 253,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.81,
   "EosHistory": [
@@ -1742,9 +1742,9 @@
       "ID": "ACH_FLYING_DUTCHMAN_BOSS",
       "SetID": "biiejkc",
       "Name": "Shanghaied",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_JELLYFISHING",
@@ -1798,9 +1798,9 @@
       "ID": "ACH_ROBO_SANDY_BOSS",
       "SetID": "biiejkc",
       "Name": "Sweet Victory",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH_ROBO_SB_BOSS",
@@ -1878,9 +1878,9 @@
       "ID": "ACH_STAT_COLLECT_SOCKS",
       "SetID": "biiejkc",
       "Name": "Sock Getter",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH_STAT_SPATULA_SEEKER",
@@ -1894,9 +1894,9 @@
       "ID": "ACH_STAT_SPONGE_SMASHER",
       "SetID": "biiejkc",
       "Name": "Sponge Smasher",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
@@ -1942,8 +1942,8 @@
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-31T19:58:31.7111869+00:00",
-  "LastChanged_Achievements": "2024-01-01T16:08:20.9193335+00:00",
+  "LastChanged_Achievements": "2024-01-01T17:08:39.7032335+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:11.8880921+00:00",
-  "LastUpdate_Ratings": "2024-01-01T15:58:22.3871071+00:00",
-  "LastUpdate_Achievements": "2024-01-01T16:08:20.9193645+00:00"
+  "LastUpdate_Ratings": "2024-01-01T16:59:03.0422285+00:00",
+  "LastUpdate_Achievements": "2024-01-01T17:08:39.7032695+00:00"
 }

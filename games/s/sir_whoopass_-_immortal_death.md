@@ -31,16 +31,16 @@
 | Surprise!! | 43.00% | ~62 |
 | Haemochromatosis | 41.00% | ~59 |
 | Make America Grate Again | 39.00% | ~57 |
+| You can't stop me, bro! | 37.00% | ~54 |
 | Pasta Bolognese | 37.00% | ~54 |
-| You can't stop me, bro! | 36.00% | ~52 |
-| You are no match for me, Billy! | 35.00% | ~51 |
+| You are no match for me, Billy! | 36.00% | ~52 |
 | Karaoke king | 35.00% | ~51 |
 | Meatballs, coming up! | 34.00% | ~49 |
 | Catch the bus with me! | 32.00% | ~46 |
 | I'm going to get a concussion | 31.00% | ~45 |
 | Another one bites the iron | 31.00% | ~45 |
+| Ripe Meat Off The Bone! | 28.00% | ~41 |
 | Kleptomaniac | 28.00% | ~41 |
-| Ripe Meat Off The Bone! | 27.00% | ~39 |
 | A Megapint...? | 26.00% | ~38 |
 | Hovering around | 26.00% | ~38 |
 | You're not so Big anymore, Boi! | 25.00% | ~36 |
@@ -48,7 +48,7 @@
 | I cant stand still! | 23.00% | ~33 |
 | Slimy... yet satisfying | 21.00% | ~30 |
 | Master Butcher | 19.00% | ~28 |
-| Just wing it! | 18.00% | ~26 |
+| Just wing it! | 19.00% | ~28 |
 | Deal with it | 17.00% | ~25 |
 | Yeehaw!!! | 15.00% | ~22 |
 | You're looking mozzare-hella good! | 14.00% | ~20 |

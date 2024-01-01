@@ -8405,9 +8405,9 @@
       "ID": "objective_hero_level_up_4",
       "SetID": "bm61c2p",
       "Name": "Captain",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 151
+      "UsersEstimate": 172
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -8501,9 +8501,9 @@
       "ID": "objective_key_objectives_completed_4",
       "SetID": "bm61c2p",
       "Name": "Battle Ready",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 64
     },
     {
       "ID": "objective_multiple_barracks_1",
@@ -8582,8 +8582,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-25T23:58:10.3014256+00:00",
-  "LastChanged_Achievements": "2024-01-01T16:05:55.8371651+00:00",
+  "LastChanged_Achievements": "2024-01-01T17:07:25.0296497+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:25.9392392+00:00",
-  "LastUpdate_Ratings": "2024-01-01T15:57:47.6762519+00:00",
-  "LastUpdate_Achievements": "2024-01-01T16:05:55.8372209+00:00"
+  "LastUpdate_Ratings": "2024-01-01T16:58:10.4283005+00:00",
+  "LastUpdate_Achievements": "2024-01-01T17:07:25.0297028+00:00"
 }

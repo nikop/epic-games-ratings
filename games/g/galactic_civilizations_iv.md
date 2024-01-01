@@ -6,12 +6,12 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 77.00% | ~5,775 |
-| Worker Specialization | 76.00% | ~5,700 |
-| First Contact | 72.00% | ~5,400 |
-| Win a Battle | 65.00% | ~4,875 |
-| Anomaly Researcher | 60.00% | ~4,500 |
-| Unleash My Power | 60.00% | ~4,500 |
+| Colonize a Planet | 77.00% | ~5,776 |
+| Worker Specialization | 76.00% | ~5,701 |
+| First Contact | 72.00% | ~5,401 |
+| Win a Battle | 65.00% | ~4,876 |
+| Anomaly Researcher | 60.00% | ~4,501 |
+| Unleash My Power | 60.00% | ~4,501 |
 | Own 30 Planets | 32.00% | ~2,400 |
 | Xenocide | 31.00% | ~2,325 |
 | Design a Civilization | 31.00% | ~2,325 |
@@ -40,16 +40,16 @@ Number of Ratings: 429  (23.09.2022)
 | Win as Festron | 0.90% | ~68 |
 | Win as the Navigators | 0.90% | ~68 |
 | Win as Torians | 0.80% | ~60 |
-| Win as the Drengin | 0.70% | ~52 |
-| Win as the Krynn | 0.70% | ~52 |
-| Win as Xeloxi | 0.70% | ~52 |
+| Win as the Drengin | 0.70% | ~53 |
+| Win as the Krynn | 0.70% | ~53 |
+| Win as Xeloxi | 0.70% | ~53 |
 | Win as the Drath | 0.60% | ~45 |
 | Win as the Iridium | 0.60% | ~45 |
 | Win as the Manti | 0.60% | ~45 |
 | Win as the Onyx | 0.60% | ~45 |
 | Diplomatic Victory! | 0.60% | ~45 |
 | Win as the Iconians | 0.50% | ~38 |
-| Iconia Reclaimed! | 0.30% | ~22 |
+| Iconia Reclaimed! | 0.30% | ~23 |
 | Relic Hoarder | 0.20% | ~15 |
 | Commodity Trader - Level 2 | 0.10% | ~8 |
 | Discover a Nebula | 0.10% | ~8 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,500 (Ranked 192)  
+Progressed: 7,501 (Ranked 192)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,7 +334,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-29 | 7,482 | 0 |
 | 2023-12-30 | 7,489 | 0 |
 | 2023-12-31 | 7,496 | 0 |
-| 2024-01-01 | 7,500 | 0 |
+| 2024-01-01 | 7,501 | 0 |
 ## Awards
 Max (Diverse Characters): 99  (Ranked 377)  
 Sum: 699 (Ranked 311)  

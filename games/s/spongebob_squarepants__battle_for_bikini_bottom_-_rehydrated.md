@@ -6,14 +6,14 @@ Number of Ratings: 76  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Sponge Smasher | 18.00% | ~111 |
 | Spatula Seeker | 17.00% | ~105 |
-| Sponge Smasher | 17.00% | ~105 |
 | Jellyfish Jam | 16.00% | ~99 |
 | Jellyfishing | 12.00% | ~74 |
 | Time For Tutorial | 11.00% | ~68 |
-| Sweet Victory | 9.00% | ~55 |
+| Sweet Victory | 10.00% | ~62 |
+| Sock Getter | 10.00% | ~62 |
 | Super Spatula Seeker | 9.00% | ~55 |
-| Sock Getter | 9.00% | ~55 |
 | Squirrel Smasher | 8.00% | ~49 |
 | Star Smasher | 8.00% | ~49 |
 | Surf's Up! | 8.00% | ~49 |
@@ -28,8 +28,8 @@ Number of Ratings: 76  (23.09.2022)
 | Hello, Bikini Bottom | 5.00% | ~31 |
 | Ultra Spatula Seeker | 5.00% | ~31 |
 | Ship Shape | 4.00% | ~25 |
+| Shanghaied | 4.00% | ~25 |
 | The Small Does Not Rule | 3.00% | ~18 |
-| Shanghaied | 3.00% | ~18 |
 | Kelp Forest of Fear | 3.00% | ~18 |
 | SpongeBob vs SpongeBob! | 3.00% | ~18 |
 | Sleepy Time | 3.00% | ~18 |
@@ -61,8 +61,8 @@ Completed: 5 (0.81%) (Ranked 187)
 | 2024-01-01 | 616 | 5 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 498)  
-Sum: 35 (Ranked 526)  
-Diff (max vs sum): -28  
+Sum: 35 (Ranked 527)  
+Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 35 |

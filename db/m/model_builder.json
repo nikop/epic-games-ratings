@@ -2,12 +2,12 @@
   "ID": "23499f64e5304139b514c3e674c5c0d6",
   "Name": "Model Builder",
   "ProductSlug": "model-builder-f9b456",
-  "Ranking_Rating": 976,
+  "Ranking_Rating": 985,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 753,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewPlayers": 572,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-01-16T17:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.16,
+  "Rating": 4.15,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:36.1160753+00:00",
@@ -285,6 +285,12 @@
     {
       "Time": "2023-12-31T17:03:12.583416+00:00",
       "Rating": 4.16,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-01T17:03:41.268035+00:00",
+      "Rating": 4.15,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -880,9 +886,9 @@
   "FirstSeen": "2023-01-29T08:58:42.9349994+00:00",
   "FirstSeenRating": "2023-03-31T05:58:36.1160749+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6201537+00:00",
-  "LastChanged": "2023-12-31T17:03:12.5834159+00:00",
-  "LastChanged_Achievements": "2024-01-01T16:10:09.6051987+00:00",
+  "LastChanged": "2024-01-01T17:03:41.2680349+00:00",
+  "LastChanged_Achievements": "2024-01-01T17:11:08.5690388+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:30.996236+00:00",
-  "LastUpdate_Ratings": "2024-01-01T16:03:13.1847852+00:00",
-  "LastUpdate_Achievements": "2024-01-01T16:10:09.6052637+00:00"
+  "LastUpdate_Ratings": "2024-01-01T17:03:41.2680354+00:00",
+  "LastUpdate_Achievements": "2024-01-01T17:11:08.5690985+00:00"
 }

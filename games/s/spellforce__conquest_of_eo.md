@@ -43,17 +43,17 @@
 | A Joke | 9.00% | ~10 |
 | Mage Teacher | 8.00% | ~9 |
 | Defeat Hokan | 7.00% | ~7 |
+| Defeat Raith | 7.00% | ~7 |
 | Defeat Uram | 7.00% | ~7 |
 | Elynn's Tale | 7.00% | ~7 |
 | Lore's Tale | 7.00% | ~7 |
 | Crypt of the Revenant | 7.00% | ~7 |
 | The Forge of Regan Gor | 7.00% | ~7 |
+| Tuscari Sea Portal | 7.00% | ~7 |
 | Master Artificer | 7.00% | ~7 |
 | A Monopoly of Might | 7.00% | ~7 |
 | Defeat Ianna | 6.00% | ~6 |
-| Defeat Raith | 6.00% | ~6 |
 | Defeat Undergast | 6.00% | ~6 |
-| Tuscari Sea Portal | 6.00% | ~6 |
 | Heroes | 6.00% | ~6 |
 | Balanced | 6.00% | ~6 |
 | Friend of Uram Gor | 6.00% | ~6 |

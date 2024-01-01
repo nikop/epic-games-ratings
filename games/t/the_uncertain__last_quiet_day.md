@@ -28,8 +28,8 @@ Rating: 3.75 (Ranked 1,078)
 | Concrete painting | 16.00% | ~100 |
 | Found it! | 16.00% | ~100 |
 | Please oh pleeease! | 16.00% | ~100 |
+| That's much better! | 16.00% | ~100 |
 | Hipster | 15.00% | ~94 |
-| That's much better! | 15.00% | ~94 |
 | Not as clumsy or random | 13.00% | ~81 |
 | Blade Runner | 10.00% | ~62 |
 | Perfect hearing | 9.00% | ~56 |

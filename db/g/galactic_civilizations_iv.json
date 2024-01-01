@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 311,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewPlayers": 288,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -999,9 +999,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 7500,
+  "EOS_Progressed": 7501,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9569,6 +9569,11 @@
       "Time": "2024-01-01T16:10:04.1564835+00:00",
       "NumProgressed": 7500,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T17:11:02.1612267+00:00",
+      "NumProgressed": 7501,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -9620,7 +9625,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4500
+      "UsersEstimate": 4501
     },
     {
       "ID": "Control_All_Relics",
@@ -9684,7 +9689,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5775
+      "UsersEstimate": 5776
     },
     {
       "ID": "First_Race_Met",
@@ -9692,7 +9697,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5400
+      "UsersEstimate": 5401
     },
     {
       "ID": "First_Ship_Designed",
@@ -9716,7 +9721,7 @@
       "Name": "Worker Specialization",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 5700
+      "UsersEstimate": 5701
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -9892,7 +9897,7 @@
       "Name": "Iconia Reclaimed!",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Use_Artifact_Power",
@@ -9900,7 +9905,7 @@
       "Name": "Unleash My Power",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4500
+      "UsersEstimate": 4501
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -9964,7 +9969,7 @@
       "Name": "Win as the Drengin",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "Win_As_Festron",
@@ -9996,7 +10001,7 @@
       "Name": "Win as the Krynn",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "Win_As_Manti",
@@ -10052,7 +10057,7 @@
       "Name": "Win as Xeloxi",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "Win_As_Yor",
@@ -10068,7 +10073,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4875
+      "UsersEstimate": 4876
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -10155,15 +10160,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7500,
+      "Progressed": 7501,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-12-27T21:02:14.3045553+00:00",
-  "LastChanged_Achievements": "2024-01-01T16:10:04.1564832+00:00",
+  "LastChanged_Achievements": "2024-01-01T17:11:02.1612263+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:30.2533612+00:00",
-  "LastUpdate_Ratings": "2024-01-01T15:59:18.1470797+00:00",
-  "LastUpdate_Achievements": "2024-01-01T16:10:04.1565761+00:00"
+  "LastUpdate_Ratings": "2024-01-01T17:00:24.8362979+00:00",
+  "LastUpdate_Achievements": "2024-01-01T17:11:02.1613403+00:00"
 }

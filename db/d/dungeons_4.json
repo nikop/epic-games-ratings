@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 274,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -49,7 +49,7 @@
   "Tags": [],
   "EOS_Progressed": 685,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 3.8,
   "EosHistory": [
@@ -2456,9 +2456,9 @@
       "ID": "ach_main15drill_completed",
       "SetID": "4hg22ll",
       "Name": "The Finitude Drill",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 226
     },
     {
       "ID": "ach_main15drill_sabotage",
@@ -2480,9 +2480,9 @@
       "ID": "ach_main16ring_completed",
       "SetID": "4hg22ll",
       "Name": "Doom Hill",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 199
+      "UsersEstimate": 206
     },
     {
       "ID": "ach_main16ring_lavalings",
@@ -2609,8 +2609,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-01T11:59:08.1802678+00:00",
-  "LastChanged_Achievements": "2024-01-01T16:09:02.2906311+00:00",
+  "LastChanged_Achievements": "2024-01-01T17:09:38.123295+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:16.0613697+00:00",
-  "LastUpdate_Ratings": "2024-01-01T15:58:42.3094745+00:00",
-  "LastUpdate_Achievements": "2024-01-01T16:09:02.2906826+00:00"
+  "LastUpdate_Ratings": "2024-01-01T16:59:31.423775+00:00",
+  "LastUpdate_Achievements": "2024-01-01T17:09:38.1233577+00:00"
 }

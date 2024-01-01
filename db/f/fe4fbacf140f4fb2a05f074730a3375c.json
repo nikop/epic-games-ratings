@@ -3,8 +3,8 @@
   "Name": "Angelo and Deemon: One Hell of a Quest",
   "ProductSlug": "angelo-and-deemon-one-hell-of-a-quest-94d7e2",
   "Ranking_EOS_Progress": 560,
-  "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 479,
+  "Ranking_EOS_Completed": 78,
+  "Ranking_EOS_NewPlayers": 480,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-08-15T14:00:00+00:00",
@@ -328,9 +328,9 @@
       "ID": "NewLife",
       "SetID": "bl5ebnd",
       "Name": "New Life for a Blogger",
-      "Percentage": 70,
+      "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "PersonalHell",
@@ -392,9 +392,9 @@
       "ID": "WatchLearn",
       "SetID": "bl5ebnd",
       "Name": "Watch and Learn",
-      "Percentage": 59,
+      "Percentage": 61,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     }
   ],
   "AchievementSets": [
@@ -407,8 +407,8 @@
   ],
   "FirstSeen": "2023-08-17T18:58:24.9645981+00:00",
   "FirstSeenAchievements": "2023-08-07T14:05:00.198888+00:00",
-  "LastChanged_Achievements": "2024-01-01T16:06:13.7197986+00:00",
+  "LastChanged_Achievements": "2024-01-01T17:07:49.6008377+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:06.5115274+00:00",
-  "LastUpdate_Ratings": "2024-01-01T16:00:25.7731167+00:00",
-  "LastUpdate_Achievements": "2024-01-01T16:06:13.7198104+00:00"
+  "LastUpdate_Ratings": "2024-01-01T17:02:02.9064599+00:00",
+  "LastUpdate_Achievements": "2024-01-01T17:07:49.6008538+00:00"
 }

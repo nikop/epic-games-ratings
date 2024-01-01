@@ -17,9 +17,9 @@
 | Pulp! Terror Tales in the Night | 19.00% | ~14 |
 | Diagnosis: fear | 19.00% | ~14 |
 | Ambition is... blind | 19.00% | ~14 |
+| You have two wishes left | 19.00% | ~14 |
 | The artist | 18.00% | ~13 |
 | Pulp! Adventures into the Unknown | 18.00% | ~13 |
-| You have two wishes left | 18.00% | ~13 |
 | The seer | 16.00% | ~12 |
 | Et in arcadia ego | 15.00% | ~11 |
 | You had one wish left | 14.00% | ~10 |
