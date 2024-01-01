@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -83,11 +83,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 634,
+  "EOS_Progressed": 635,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.95,
+  "EOS_Completed_Percentage": 0.94,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:44.5175392+00:00",
@@ -1233,6 +1233,11 @@
       "Time": "2024-01-01T14:07:37.9982957+00:00",
       "NumProgressed": 634,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-01T15:05:59.7762874+00:00",
+      "NumProgressed": 635,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -1332,7 +1337,7 @@
       "Name": "Bundle of Joy",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "Hitman",
@@ -1340,7 +1345,7 @@
       "Name": "Short Circuit",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Illustrator",
@@ -1364,15 +1369,15 @@
       "Name": "A Friend in Need...",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "Leisurely_Strol",
       "SetID": "ek310c",
       "Name": "A Trip to Remember",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 70
     },
     {
       "ID": "MISSING_DATA",
@@ -1468,14 +1473,14 @@
       "Name": "Unexpected Consequences",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     }
   ],
   "AchievementSets": [
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 634,
+      "Progressed": 635,
       "Completed": 6
     }
   ],
@@ -1483,8 +1488,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2024-01-01T14:07:37.9982954+00:00",
+  "LastChanged_Achievements": "2024-01-01T15:05:59.7762871+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:43.1004855+00:00",
-  "LastUpdate_Ratings": "2024-01-01T14:03:47.4036484+00:00",
-  "LastUpdate_Achievements": "2024-01-01T14:07:37.9983422+00:00"
+  "LastUpdate_Ratings": "2024-01-01T15:03:17.4979773+00:00",
+  "LastUpdate_Achievements": "2024-01-01T15:05:59.7763075+00:00"
 }

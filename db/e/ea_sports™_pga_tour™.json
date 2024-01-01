@@ -2943,9 +2943,9 @@
       "ID": "achievement_10",
       "SetID": "7ldgi7j",
       "Name": "Holey Moley",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 366
+      "UsersEstimate": 374
     },
     {
       "ID": "achievement_11",
@@ -3085,8 +3085,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2024-01-01T14:10:21.2118137+00:00",
+  "LastChanged_Achievements": "2024-01-01T15:09:35.6001248+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:46.6527826+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:57:31.5546261+00:00",
-  "LastUpdate_Achievements": "2024-01-01T14:10:21.2118398+00:00"
+  "LastUpdate_Ratings": "2024-01-01T14:57:30.8296554+00:00",
+  "LastUpdate_Achievements": "2024-01-01T15:09:35.6001713+00:00"
 }

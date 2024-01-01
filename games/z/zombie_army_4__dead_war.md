@@ -1,40 +1,40 @@
 # Zombie Army 4: Dead War
 [Store](https://store.epicgames.com/en-US/p/zombie-army-4-dead-war)  
 [View Rawdata](../../db/z/zombie_army_4__dead_war.json)  
-Rating: 4.69 (Ranked 236)  
+Rating: 4.69 (Ranked 235)  
 Number of Ratings: 743  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 69.00% | ~30,566 |
-| Say goodbye, creep! | 66.00% | ~29,237 |
-| Blood splattered | 66.00% | ~29,237 |
-| Choo choo! | 63.00% | ~27,908 |
-| Groovy | 62.00% | ~27,465 |
-| Cleanup on aisle 4! | 57.00% | ~25,250 |
-| Gold | 51.00% | ~22,592 |
-| The boat can leave now...tell the crew | 49.00% | ~21,706 |
-| Give me something to shoot! | 47.00% | ~20,820 |
-| Stand back boy! | 47.00% | ~20,820 |
-| Chain reaction | 45.00% | ~19,934 |
-| Weird science | 44.00% | ~19,491 |
-| Look mummy! A shark! | 42.00% | ~18,605 |
-| What did you say, Blain? | 42.00% | ~18,605 |
-| In the dark dark woods... | 39.00% | ~17,276 |
-| Come and get it! It's a running buffet! | 38.00% | ~16,833 |
-| Double tap | 37.00% | ~16,390 |
-| Cranial blowout! | 37.00% | ~16,390 |
-| All of this has happened before… | 36.00% | ~15,947 |
-| Zombie killin' machine | 36.00% | ~15,947 |
-| Every bullet counts | 36.00% | ~15,947 |
-| All roads lead to Rome | 34.00% | ~15,061 |
-| You've got red on you | 34.00% | ~15,061 |
-| You're all going to die down here | 32.00% | ~14,175 |
-| He did Nazi that coming | 32.00% | ~14,175 |
-| Kill of the week | 31.00% | ~13,732 |
-| I never liked them anyway | 31.00% | ~13,732 |
-| Is it over? | 28.00% | ~12,403 |
-| Got your back | 27.00% | ~11,960 |
+| Shoot it, man! Shoot it in the head! | 69.00% | ~30,568 |
+| Say goodbye, creep! | 66.00% | ~29,239 |
+| Blood splattered | 66.00% | ~29,239 |
+| Choo choo! | 63.00% | ~27,910 |
+| Groovy | 62.00% | ~27,467 |
+| Cleanup on aisle 4! | 57.00% | ~25,252 |
+| Gold | 51.00% | ~22,594 |
+| The boat can leave now...tell the crew | 49.00% | ~21,707 |
+| Give me something to shoot! | 47.00% | ~20,821 |
+| Stand back boy! | 47.00% | ~20,821 |
+| Chain reaction | 45.00% | ~19,935 |
+| Weird science | 44.00% | ~19,492 |
+| What did you say, Blain? | 42.00% | ~18,606 |
+| Look mummy! A shark! | 41.00% | ~18,163 |
+| In the dark dark woods... | 39.00% | ~17,277 |
+| Come and get it! It's a running buffet! | 38.00% | ~16,834 |
+| Double tap | 37.00% | ~16,391 |
+| Cranial blowout! | 37.00% | ~16,391 |
+| All of this has happened before… | 36.00% | ~15,948 |
+| Zombie killin' machine | 36.00% | ~15,948 |
+| Every bullet counts | 36.00% | ~15,948 |
+| All roads lead to Rome | 34.00% | ~15,062 |
+| You've got red on you | 34.00% | ~15,062 |
+| You're all going to die down here | 32.00% | ~14,176 |
+| He did Nazi that coming | 32.00% | ~14,176 |
+| Kill of the week | 31.00% | ~13,733 |
+| I never liked them anyway | 31.00% | ~13,733 |
+| Is it over? | 28.00% | ~12,404 |
+| Got your back | 27.00% | ~11,961 |
 | Gore soaked | 24.00% | ~10,632 |
 | Shock therapy | 23.00% | ~10,189 |
 | Leave the limbs you've lost | 23.00% | ~10,189 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~443 |
 | None more hard | 0.60% | ~266 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,298 (Ranked 128)  
+Progressed: 44,301 (Ranked 128)  
 Completed: 25 (0.06%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,10 +329,10 @@ Completed: 25 (0.06%) (Ranked 326)
 | 2023-12-29 | 44,263 | 25 |
 | 2023-12-30 | 44,274 | 25 |
 | 2023-12-31 | 44,291 | 25 |
-| 2024-01-01 | 44,298 | 25 |
+| 2024-01-01 | 44,301 | 25 |
 ## Awards
 Max (Great Boss Battles): 866  (Ranked 172)  
-Sum: 2,613 (Ranked 197)  
+Sum: 2,615 (Ranked 197)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
@@ -340,9 +340,9 @@ Diff (max vs sum): -25
 | This game is Great for Beginners | 279 |
 | This game has Diverse Characters | 223 |
 | This game is Highly Recommended | 222 |
-| This game has Amazing Storytelling | 216 |
+| This game has Amazing Storytelling | 217 |
 | This game is Extremely Fun | 213 |
-| This game has Quickly Understood Controls | 210 |
+| This game has Quickly Understood Controls | 211 |
 | This game is Relaxing | 193 |
 | This game has Amazing Characters | 191 |
 | This game has Obsessive Gameplay | 165 |
@@ -594,3 +594,4 @@ Diff (max vs sum): -25
 | 2023-12-29 | 4.69 | - | 864 | 2,609 |
 | 2023-12-30 | 4.69 | - | 866 | 2,611 |
 | 2023-12-31 | 4.69 | - | 866 | 2,613 |
+| 2024-01-01 | 4.69 | - | 866 | 2,615 |

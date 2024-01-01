@@ -1,18 +1,18 @@
 # Prison Architect
 [Store](https://store.epicgames.com/en-US/p/prison-architect)  
 [View Rawdata](../../db/p/prison_architect.json)  
-Rating: 4.61 (Ranked 398)  
+Rating: 4.61 (Ranked 397)  
 Number of Ratings: 4,491  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~52,649 |
-| Get Busy Living | 16.00% | ~33,696 |
-| Samuel Norton | 9.00% | ~18,954 |
-| Spare The Rod | 4.00% | ~8,424 |
-| Don't Put Me In The Dark | 3.00% | ~6,318 |
-| Wait and Hope | 3.00% | ~6,318 |
-| I May Have Found A Way Out Of Here | 3.00% | ~6,318 |
+| Stone Walls | 25.00% | ~52,656 |
+| Get Busy Living | 16.00% | ~33,700 |
+| Samuel Norton | 9.00% | ~18,956 |
+| Spare The Rod | 4.00% | ~8,425 |
+| Don't Put Me In The Dark | 3.00% | ~6,319 |
+| Wait and Hope | 3.00% | ~6,319 |
+| I May Have Found A Way Out Of Here | 3.00% | ~6,319 |
 | Throw The Book At Them | 2.00% | ~4,212 |
 | Iron Bars | 2.00% | ~4,212 |
 | D.B. Cooper | 1.00% | ~2,106 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~211 |
 | ... It's What You Can Prove | 0.10% | ~211 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,597 (Ranked 79)  
+Progressed: 210,622 (Ranked 79)  
 Completed: 12 (0.01%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,10 +279,10 @@ Completed: 12 (0.01%) (Ranked 368)
 | 2023-12-29 | 209,513 | 12 |
 | 2023-12-30 | 209,993 | 12 |
 | 2023-12-31 | 210,404 | 12 |
-| 2024-01-01 | 210,597 | 12 |
+| 2024-01-01 | 210,622 | 12 |
 ## Awards
 Max (Great for Beginners): 622  (Ranked 200)  
-Sum: 4,765 (Ranked 150)  
+Sum: 4,766 (Ranked 150)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
@@ -293,7 +293,7 @@ Diff (max vs sum): 50
 | This game is Relaxing | 556 |
 | This game has Diverse Characters | 520 |
 | This game has Amazing Storytelling | 507 |
-| This game has Amazing Characters | 462 |
+| This game has Amazing Characters | 463 |
 | This game is Educational | 459 |
 | This game has a Creative Community | 365 |
 | This game has Obsessive Gameplay | 234 |
@@ -643,4 +643,4 @@ Diff (max vs sum): 50
 | 2023-12-29 | 4.61 | - | 619 | 4,745 |
 | 2023-12-30 | 4.61 | - | 622 | 4,754 |
 | 2023-12-31 | 4.61 | - | 622 | 4,759 |
-| 2024-01-01 | 4.61 | - | 622 | 4,765 |
+| 2024-01-01 | 4.61 | - | 622 | 4,766 |

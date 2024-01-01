@@ -1,24 +1,24 @@
 # Eiyuden Chronicle: Rising
 [Store](https://store.epicgames.com/en-US/p/eiyuden-chronicle-rising)  
 [View Rawdata](../../db/e/eiyuden_chronicle__rising.json)  
-Rating: 4.50 (Ranked 614)  
+Rating: 4.50 (Ranked 613)  
 Number of Ratings: 48  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Plenty More to Go | 85.00% | ~669 |
-| All Bark, No Bite | 74.00% | ~582 |
+| Plenty More to Go | 85.00% | ~670 |
+| All Bark, No Bite | 74.00% | ~583 |
 | Hopeful Hunter | 63.00% | ~496 |
-| Amateur Adventurer | 61.00% | ~480 |
-| The Road to Recovery | 60.00% | ~472 |
-| Partners? | 58.00% | ~456 |
-| Magical Mineral Golem | 52.00% | ~409 |
-| On Outlander Lane | 51.00% | ~401 |
+| Amateur Adventurer | 61.00% | ~481 |
+| The Road to Recovery | 60.00% | ~473 |
+| Partners? | 58.00% | ~457 |
+| Magical Mineral Golem | 52.00% | ~410 |
+| On Outlander Lane | 51.00% | ~402 |
 | First Time Fishing | 48.00% | ~378 |
 | A Girl About the Town | 47.00% | ~370 |
 | First Time Hunting | 46.00% | ~362 |
-| Rune Wall Wreckage | 45.00% | ~354 |
-| ...And Your Tax Money | 44.00% | ~346 |
+| Rune Wall Wreckage | 45.00% | ~355 |
+| ...And Your Tax Money | 44.00% | ~347 |
 | The Lords of the Snowpeak | 38.00% | ~299 |
 | The Lava Mantor Wyrm | 34.00% | ~268 |
 | The Go-To Girl | 34.00% | ~268 |
@@ -26,11 +26,11 @@ Number of Ratings: 48  (23.09.2022)
 | Natural Born Monster-Killer | 34.00% | ~268 |
 | The Great Forest...On Foot! | 34.00% | ~268 |
 | One Mean Merc | 33.00% | ~260 |
-| Adept, for an Acting Mayor | 33.00% | ~260 |
 | Money, Money, Money | 33.00% | ~260 |
+| Adept, for an Acting Mayor | 32.00% | ~252 |
 | Rune Wall Master | 31.00% | ~244 |
-| The Quarry...On Foot! | 29.00% | ~228 |
-| The Runebarrows...On Foot! | 27.00% | ~212 |
+| The Quarry...On Foot! | 29.00% | ~229 |
+| The Runebarrows...On Foot! | 27.00% | ~213 |
 | The Snowpeak...On Foot! | 25.00% | ~197 |
 | The Lava Ruins...On Foot! | 25.00% | ~197 |
 | Meat Master | 24.00% | ~189 |
@@ -41,7 +41,7 @@ Number of Ratings: 48  (23.09.2022)
 | New Nevaeh's Number One Customer | 19.00% | ~150 |
 | Arms Master | 18.00% | ~142 |
 | Rune Scholar | 15.00% | ~118 |
-| No Treasure Left Behind | 12.00% | ~94 |
+| No Treasure Left Behind | 12.00% | ~95 |
 | Sommelier | 11.00% | ~87 |
 | Champion of the Great Forest | 11.00% | ~87 |
 | One-Hundred Resident Record | 10.00% | ~79 |
@@ -57,8 +57,8 @@ Number of Ratings: 48  (23.09.2022)
 | Full Force - Isha | 7.00% | ~55 |
 | Rising Champion | 6.00% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 787 (Ranked 305)  
-Completed: 60 (7.62%) (Ranked 54)  
+Progressed: 788 (Ranked 305)  
+Completed: 60 (7.61%) (Ranked 54)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -121,7 +121,7 @@ Completed: 60 (7.62%) (Ranked 54)
 | 2023-12-29 | 778 | 60 |
 | 2023-12-30 | 782 | 60 |
 | 2023-12-31 | 785 | 60 |
-| 2024-01-01 | 787 | 60 |
+| 2024-01-01 | 788 | 60 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

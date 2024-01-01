@@ -1,15 +1,15 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 236)  
+Rating: 4.69 (Ranked 235)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | That's a Grand Army | 0.50% | ~2,448 |
 | Until death do us apart | 0.50% | ~2,448 |
-| That is mine! | 0.40% | ~1,958 |
-| Victorious! | 0.40% | ~1,958 |
+| That is mine! | 0.40% | ~1,959 |
+| Victorious! | 0.40% | ~1,959 |
 | Brothers in Arms | 0.30% | ~1,469 |
 | That's a Grand Navy | 0.30% | ~1,469 |
 | Seriously?! | 0.30% | ~1,469 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 489,578 (Ranked 42)  
+Progressed: 489,628 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -626,7 +626,7 @@ Completed: 1 (0.00%) (Ranked 390)
 | 2023-12-29 | 487,372 | 1 |
 | 2023-12-30 | 488,255 | 1 |
 | 2023-12-31 | 489,119 | 1 |
-| 2024-01-01 | 489,578 | 1 |
+| 2024-01-01 | 489,628 | 1 |
 ## Awards
 Max (Educational): 7,659  (Ranked 54)  
 Sum: 63,134 (Ranked 24)  

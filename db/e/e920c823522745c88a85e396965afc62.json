@@ -4,7 +4,7 @@
   "ProductSlug": "indoorlands-3b2356",
   "Ranking_EOS_Progress": 621,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_NewPlayers": 377,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-12-17T23:00:00+00:00",
@@ -156,9 +156,9 @@
       "ID": "contractor",
       "SetID": "d4692al",
       "Name": "New Contractor",
-      "Percentage": 17,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "crazyCoaster",
@@ -379,8 +379,8 @@
   ],
   "FirstSeen": "2023-12-24T08:59:07.6239252+00:00",
   "FirstSeenAchievements": "2023-12-14T09:03:47.827813+00:00",
-  "LastChanged_Achievements": "2024-01-01T14:05:24.0349593+00:00",
+  "LastChanged_Achievements": "2024-01-01T15:04:25.4832944+00:00",
   "LastUpdate_AppInfo": "2023-12-28T08:57:17.3349077+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:59:59.8207922+00:00",
-  "LastUpdate_Achievements": "2024-01-01T14:05:24.0349789+00:00"
+  "LastUpdate_Ratings": "2024-01-01T14:59:10.1356739+00:00",
+  "LastUpdate_Achievements": "2024-01-01T15:04:25.483318+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "XCOM\u00AE 2",
   "ProductSlug": "xcom-2",
   "Ranking_Rating": 523,
-  "Ranking_Popularity": 137,
+  "Ranking_Popularity": 138,
   "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewPlayers": 571,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-04-14T15:00:00+00:00",
@@ -9814,6 +9814,6 @@
   "FirstSeen": "2022-07-22T20:17:40.7075482+00:00",
   "LastChanged": "2024-01-01T08:00:13.0070078+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:45.92228+00:00",
-  "LastUpdate_Ratings": "2024-01-01T14:01:18.3073406+00:00",
-  "LastUpdate_Achievements": "2024-01-01T14:07:43.4015503+00:00"
+  "LastUpdate_Ratings": "2024-01-01T15:00:03.4900875+00:00",
+  "LastUpdate_Achievements": "2024-01-01T15:06:03.7311422+00:00"
 }

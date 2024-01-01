@@ -1,27 +1,27 @@
 # Atlas Fallen
 [Store](https://store.epicgames.com/en-US/p/atlas-fallen)  
 [View Rawdata](../../db/7/7ab6dd1c70a64d5ebf48defa8deb81a8.json)  
-Rating: 4.14 (Ranked 996)  
+Rating: 4.14 (Ranked 995)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 59.00% | ~945 |
+| Break Out | 59.00% | ~947 |
 | Trinity | 29.00% | ~465 |
-| A Taste of Wrath | 23.00% | ~368 |
-| The Collector | 23.00% | ~368 |
-| Find Allies | 22.00% | ~352 |
-| I Found It | 22.00% | ~352 |
-| Shatter Them All | 21.00% | ~336 |
-| Geared Up | 21.00% | ~336 |
-| Adventurer | 20.00% | ~320 |
-| Fashion Victim | 20.00% | ~320 |
-| Scholar | 20.00% | ~320 |
-| Tributes of Caladrias | 19.00% | ~304 |
-| Stone Collection | 19.00% | ~304 |
-| Powerful Allies | 18.00% | ~288 |
-| Big Bazar | 12.00% | ~192 |
-| Essence Blow | 11.00% | ~176 |
-| Alchemist | 11.00% | ~176 |
+| A Taste of Wrath | 23.00% | ~369 |
+| The Collector | 23.00% | ~369 |
+| Find Allies | 22.00% | ~353 |
+| I Found It | 22.00% | ~353 |
+| Shatter Them All | 21.00% | ~337 |
+| Geared Up | 21.00% | ~337 |
+| Adventurer | 20.00% | ~321 |
+| Fashion Victim | 20.00% | ~321 |
+| Scholar | 20.00% | ~321 |
+| Tributes of Caladrias | 19.00% | ~305 |
+| Stone Collection | 19.00% | ~305 |
+| Powerful Allies | 18.00% | ~289 |
+| Big Bazar | 12.00% | ~193 |
+| Essence Blow | 11.00% | ~177 |
+| Alchemist | 11.00% | ~177 |
 | The Mentor | 10.00% | ~160 |
 | Calm before the Storm | 8.00% | ~128 |
 | Airborne | 7.00% | ~112 |
@@ -34,15 +34,15 @@ Rating: 4.14 (Ranked 996)
 | Slayer | 2.00% | ~32 |
 | Flawless Victory | 2.00% | ~32 |
 | All There Is | 2.00% | ~32 |
+| False God | 2.00% | ~32 |
 | A Queen's Tale | 2.00% | ~32 |
 | Forgemaster | 1.00% | ~16 |
 | Shardbearer | 1.00% | ~16 |
-| False God | 1.00% | ~16 |
 | Summiter | 1.00% | ~16 |
 | All That Gold | 0.70% | ~11 |
 | Feeling Fancy | 0.40% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,602 (Ranked 259)  
+Progressed: 1,605 (Ranked 259)  
 Completed: 3 (0.19%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 3 (0.19%) (Ranked 274)
 | 2023-12-29 | 1,459 | 3 |
 | 2023-12-30 | 1,519 | 3 |
 | 2023-12-31 | 1,577 | 3 |
-| 2024-01-01 | 1,602 | 3 |
+| 2024-01-01 | 1,605 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

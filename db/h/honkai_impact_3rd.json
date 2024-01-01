@@ -2,12 +2,12 @@
   "ID": "d2d162953fec40e381867d7af8371362",
   "Name": "Honkai Impact 3rd",
   "ProductSlug": "honkai-impact-3rd",
-  "Ranking_Rating": 614,
+  "Ranking_Rating": 613,
   "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 86,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewPlayers": 571,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-10-27T06:00:00+00:00",
@@ -10185,6 +10185,6 @@
   "FirstSeenRating": "2022-10-28T11:32:15.7744841+00:00",
   "LastChanged": "2024-01-01T12:00:38.6213163+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.3037304+00:00",
-  "LastUpdate_Ratings": "2024-01-01T14:00:54.7462057+00:00",
-  "LastUpdate_Achievements": "2024-01-01T14:04:31.8942251+00:00"
+  "LastUpdate_Ratings": "2024-01-01T14:59:47.1896408+00:00",
+  "LastUpdate_Achievements": "2024-01-01T15:03:48.5585958+00:00"
 }

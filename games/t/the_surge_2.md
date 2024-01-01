@@ -5,27 +5,27 @@ Rating: 4.27 (Ranked 895)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 79.00% | ~1,926 |
-| Don't I Know You...? | 76.00% | ~1,853 |
+| Rigged And Ready | 79.00% | ~1,927 |
+| Don't I Know You...? | 75.00% | ~1,829 |
 | Jailbreak | 65.00% | ~1,585 |
-| Suited and Booted | 38.00% | ~926 |
+| Suited and Booted | 38.00% | ~927 |
 | HEADSHOT! | 37.00% | ~902 |
-| Sleeping With The Fishes | 35.00% | ~853 |
-| Overheated | 30.00% | ~731 |
-| High Performance | 30.00% | ~731 |
+| Sleeping With The Fishes | 35.00% | ~854 |
+| Overheated | 30.00% | ~732 |
+| High Performance | 30.00% | ~732 |
 | Powered Up | 28.00% | ~683 |
 | Studied The Blade | 24.00% | ~585 |
 | Home Invasion | 23.00% | ~561 |
-| Luminary | 22.00% | ~536 |
-| It's a Trap | 22.00% | ~536 |
+| Luminary | 22.00% | ~537 |
+| It's a Trap | 22.00% | ~537 |
 | True Survivor | 21.00% | ~512 |
 | Offensive Defense | 20.00% | ~488 |
 | Shocking | 20.00% | ~488 |
 | Court Martial | 19.00% | ~463 |
 | Unforeseeable Consequences | 19.00% | ~463 |
 | Clean Cut | 18.00% | ~439 |
-| Dead Again | 17.00% | ~414 |
-| Full Arsenal | 17.00% | ~414 |
+| Dead Again | 17.00% | ~415 |
+| Full Arsenal | 17.00% | ~415 |
 | Can't Trust Banks | 15.00% | ~366 |
 | Mommy Dearest | 13.00% | ~317 |
 | Bad Dog | 13.00% | ~317 |
@@ -37,7 +37,7 @@ Rating: 4.27 (Ranked 895)
 | Sorry, Didn't See You There | 12.00% | ~293 |
 | Stimulating The Local Economy | 10.00% | ~244 |
 | Triplets | 10.00% | ~244 |
-| Denying Prophecy | 9.00% | ~219 |
+| Denying Prophecy | 9.00% | ~220 |
 | A Little Banged Up | 8.00% | ~195 |
 | Following In Their Footsteps | 8.00% | ~195 |
 | Defense in Depth | 8.00% | ~195 |
@@ -63,7 +63,7 @@ Rating: 4.27 (Ranked 895)
 | Three Birds With One Stone | 1.00% | ~24 |
 | The Easy Way Out | 1.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,438 (Ranked 233)  
+Progressed: 2,439 (Ranked 233)  
 Completed: 13 (0.53%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 13 (0.53%) (Ranked 214)
 | 2023-12-29 | 2,408 | 13 |
 | 2023-12-30 | 2,418 | 13 |
 | 2023-12-31 | 2,428 | 13 |
-| 2024-01-01 | 2,438 | 13 |
+| 2024-01-01 | 2,439 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

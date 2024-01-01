@@ -1,7 +1,7 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 466)  
+Rating: 4.58 (Ranked 465)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,14 +10,14 @@ Number of Ratings: 15,086  (23.09.2022)
 | Getting A Glimpse | 1.00% | ~2,422 |
 | A Quick Escape | 1.00% | ~2,422 |
 | Uncharted Territory | 1.00% | ~2,422 |
-| Matching | 1.00% | ~36 |
-| Heavy Hitter | 0.90% | ~2,179 |
-| That Was Quick | 0.90% | ~2,179 |
-| Colorful Corpse | 0.90% | ~2,179 |
-| Defeat The Dark | 0.90% | ~2,179 |
-| A Donation | 0.90% | ~2,179 |
-| Explorer | 0.90% | ~2,179 |
-| An Offering | 0.90% | ~2,179 |
+| Matching | 1.00% | ~37 |
+| Heavy Hitter | 0.90% | ~2,180 |
+| That Was Quick | 0.90% | ~2,180 |
+| Colorful Corpse | 0.90% | ~2,180 |
+| Defeat The Dark | 0.90% | ~2,180 |
+| A Donation | 0.90% | ~2,180 |
+| Explorer | 0.90% | ~2,180 |
+| An Offering | 0.90% | ~2,180 |
 | Not Touching You | 0.90% | ~33 |
 | Nothing To Lose | 0.80% | ~1,937 |
 | Delving Deeper | 0.80% | ~1,937 |
@@ -67,19 +67,19 @@ Number of Ratings: 15,086  (23.09.2022)
 | Antivenom | 0.40% | ~969 |
 | The Long Run | 0.40% | ~969 |
 | Who Needs Luck? | 0.40% | ~15 |
-| Achievement Hunter | 0.30% | ~726 |
-| Challenge Increases | 0.30% | ~726 |
-| New Game+ | 0.30% | ~726 |
-| Barbecue | 0.30% | ~726 |
-| Juggernaut | 0.30% | ~726 |
-| Clearing The Room | 0.30% | ~726 |
-| Decisions, Decisions | 0.30% | ~726 |
-| Fragile Mortality | 0.30% | ~726 |
-| Snake Sneak | 0.30% | ~726 |
-| Defuser | 0.30% | ~726 |
-| Obsessed | 0.30% | ~726 |
-| Sentimental Value | 0.30% | ~726 |
-| Precious | 0.30% | ~726 |
+| Achievement Hunter | 0.30% | ~727 |
+| Challenge Increases | 0.30% | ~727 |
+| New Game+ | 0.30% | ~727 |
+| Barbecue | 0.30% | ~727 |
+| Juggernaut | 0.30% | ~727 |
+| Clearing The Room | 0.30% | ~727 |
+| Decisions, Decisions | 0.30% | ~727 |
+| Fragile Mortality | 0.30% | ~727 |
+| Snake Sneak | 0.30% | ~727 |
+| Defuser | 0.30% | ~727 |
+| Obsessed | 0.30% | ~727 |
+| Sentimental Value | 0.30% | ~727 |
+| Precious | 0.30% | ~727 |
 | Raw Power | 0.30% | ~11 |
 | A Long Climb | 0.20% | ~484 |
 | Dead Revels | 0.20% | ~484 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,166 (Ranked 72)  
+Progressed: 242,171 (Ranked 72)  
 Completed: 302 (0.12%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -401,7 +401,7 @@ Completed: 302 (0.12%) (Ranked 299)
 | 2023-12-29 | 241,985 | 302 |
 | 2023-12-30 | 242,061 | 302 |
 | 2023-12-31 | 242,129 | 302 |
-| 2024-01-01 | 242,166 | 302 |
+| 2024-01-01 | 242,171 | 302 |
 ## Awards
 Max (Quickly Understood Controls): 1,513  (Ranked 136)  
 Sum: 11,777 (Ranked 88)  

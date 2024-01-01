@@ -7,8 +7,8 @@
 | Hero Arrives | 87.00% | ~54 |
 | Eat the Rich | 61.00% | ~38 |
 | Killing Machine | 48.00% | ~30 |
+| Death Battle | 45.00% | ~28 |
 | Phantom Kunoichi | 45.00% | ~28 |
-| Death Battle | 44.00% | ~27 |
 | Divine Retribution | 42.00% | ~26 |
 | Captain Mustache | 39.00% | ~24 |
 | Dispel Rumors | 37.00% | ~23 |
@@ -22,7 +22,7 @@
 | Not Today | 26.00% | ~16 |
 | Coward | 26.00% | ~16 |
 | Big Eater | 24.00% | ~15 |
-| Tour Guide | 23.00% | ~14 |
+| Tour Guide | 24.00% | ~15 |
 | The Real O.G. | 23.00% | ~14 |
 | Tomb Raider | 23.00% | ~14 |
 | The Hero of the People | 15.00% | ~9 |

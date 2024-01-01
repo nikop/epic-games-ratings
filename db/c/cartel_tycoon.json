@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 905,
+  "EOS_Progressed": 907,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -3206,6 +3206,11 @@
       "Time": "2024-01-01T13:09:46.5578491+00:00",
       "NumProgressed": 905,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-01T15:06:04.3096327+00:00",
+      "NumProgressed": 907,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3233,15 +3238,15 @@
       "Name": "Architect of Fortunes",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "dont-miss-calls",
       "SetID": "bed33dd",
       "Name": "Didn\u0027t Miss A Single One",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 398
+      "UsersEstimate": 390
     },
     {
       "ID": "female-conqueror",
@@ -3257,7 +3262,7 @@
       "Name": "That was base",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "hire-lieutenant",
@@ -3265,7 +3270,7 @@
       "Name": "Our Man",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 760
+      "UsersEstimate": 762
     },
     {
       "ID": "kill-lieutenants",
@@ -3273,15 +3278,15 @@
       "Name": "Spreading Fear",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "pack-and-sell",
       "SetID": "bed33dd",
       "Name": "Hokey-Pokey",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 624
+      "UsersEstimate": 617
     },
     {
       "ID": "play-at-night",
@@ -3305,7 +3310,7 @@
       "Name": "Bad Trip",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "rename-lieutenant",
@@ -3321,15 +3326,15 @@
       "Name": "Bite the Blow",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "sell-variety",
       "SetID": "bed33dd",
       "Name": "Spread",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 389
+      "UsersEstimate": 381
     },
     {
       "ID": "send-smuggling",
@@ -3337,7 +3342,7 @@
       "Name": "Camellos",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "unlock-residences",
@@ -3345,7 +3350,7 @@
       "Name": "Pampered Life",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "upgrade-building",
@@ -3353,7 +3358,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 724
+      "UsersEstimate": 726
     },
     {
       "ID": "use-submarine",
@@ -3368,15 +3373,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 905,
+      "Progressed": 907,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-23T10:57:58.3271618+00:00",
-  "LastChanged_Achievements": "2024-01-01T14:07:44.1343603+00:00",
+  "LastChanged_Achievements": "2024-01-01T15:06:04.3096324+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:28.1140989+00:00",
-  "LastUpdate_Ratings": "2024-01-01T14:03:05.3899668+00:00",
-  "LastUpdate_Achievements": "2024-01-01T14:07:44.1343894+00:00"
+  "LastUpdate_Ratings": "2024-01-01T15:02:50.843862+00:00",
+  "LastUpdate_Achievements": "2024-01-01T15:06:04.3096614+00:00"
 }

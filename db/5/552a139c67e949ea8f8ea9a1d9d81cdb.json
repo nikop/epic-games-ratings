@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1783,
+  "EOS_Progressed": 1784,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4417,6 +4417,11 @@
       "Time": "2024-01-01T13:08:48.5691016+00:00",
       "NumProgressed": 1783,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-01T15:05:12.6267129+00:00",
+      "NumProgressed": 1784,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4483,9 +4488,9 @@
       "ID": "ML_ACHIEVEMENT_08",
       "SetID": "5k00jcd",
       "Name": "Versatile riding",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 54
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -4509,7 +4514,7 @@
       "Name": "It\u0027s me you have to beat",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ML_ACHIEVEMENT_12",
@@ -4581,7 +4586,7 @@
       "Name": "Challenge accepted!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -4589,7 +4594,7 @@
       "Name": "I\u0027m in charge here!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ML_ACHIEVEMENT_22",
@@ -4701,7 +4706,7 @@
       "Name": "Extra gear",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ML_ACHIEVEMENT_36",
@@ -4709,7 +4714,7 @@
       "Name": "Perfectionist",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ML_ACHIEVEMENT_37",
@@ -4796,20 +4801,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1783,
+      "Progressed": 1784,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1451,
+      "Progressed": 1452,
       "Completed": 1006
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-01T14:06:31.3188863+00:00",
+  "LastChanged_Achievements": "2024-01-01T15:05:12.6267126+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:19.4494243+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:59:55.276406+00:00",
-  "LastUpdate_Achievements": "2024-01-01T14:06:31.3189345+00:00"
+  "LastUpdate_Ratings": "2024-01-01T14:59:07.2304111+00:00",
+  "LastUpdate_Achievements": "2024-01-01T15:05:12.62676+00:00"
 }

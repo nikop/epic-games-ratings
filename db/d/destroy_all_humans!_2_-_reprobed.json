@@ -2,7 +2,7 @@
   "ID": "4d62b26703d24f6d919750b3d88b6d52",
   "Name": "Destroy All Humans! 2 - Reprobed",
   "ProductSlug": "destroy-all-humans-2-reprobed",
-  "Ranking_Rating": 560,
+  "Ranking_Rating": 559,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 399,
@@ -288,9 +288,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 272,
+  "EOS_Progressed": 273,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -1348,6 +1348,11 @@
       "Time": "2024-01-01T07:09:18.7048487+00:00",
       "NumProgressed": 272,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-01T15:09:00.8600075+00:00",
+      "NumProgressed": 273,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1360,7 +1365,7 @@
       "Name": "Mash Machine",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1430,9 +1435,9 @@
       "ID": "ACH_COMPLETE_ARK01",
       "SetID": "4n84pon",
       "Name": "Cult Following",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -1486,9 +1491,9 @@
       "ID": "ACH_ENTER_ALBION",
       "SetID": "4n84pon",
       "Name": "Lie Back and Think of Albion",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 76
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
@@ -1496,7 +1501,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1504,7 +1509,7 @@
       "Name": "Fly Me to the Moon Base",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_ENTER_TAKOSHIMA",
@@ -1512,7 +1517,7 @@
       "Name": "I Look Up As I Walk to Takoshima",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_ENTER_TUNGUSKA",
@@ -1536,7 +1541,7 @@
       "Name": "Kaijuiced",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_KILL_MILENKOV",
@@ -1608,7 +1613,7 @@
       "Name": "Earthly Pleasures",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
@@ -1704,14 +1709,14 @@
       "Name": "Pimp My Raid",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 272,
+      "Progressed": 273,
       "Completed": 1
     }
   ],
@@ -1719,8 +1724,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-31T11:01:39.7283208+00:00",
-  "LastChanged_Achievements": "2024-01-01T14:09:32.6245885+00:00",
+  "LastChanged_Achievements": "2024-01-01T15:09:00.8600072+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.261947+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:57:26.0243189+00:00",
-  "LastUpdate_Achievements": "2024-01-01T14:09:32.6246242+00:00"
+  "LastUpdate_Ratings": "2024-01-01T14:57:27.3252667+00:00",
+  "LastUpdate_Achievements": "2024-01-01T15:09:00.8600382+00:00"
 }

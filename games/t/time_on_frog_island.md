@@ -7,32 +7,32 @@
 | Shipwrecked! | 71.00% | ~27 |
 | Sea Legs | 63.00% | ~24 |
 | What?! | 45.00% | ~17 |
-| Frogs Legs | 21.00% | ~8 |
+| Frogs Legs | 24.00% | ~9 |
 | Mad Scientist | 21.00% | ~8 |
 | Hoist the Sails | 18.00% | ~7 |
 | Secure the Sheets | 18.00% | ~7 |
 | Socialite | 16.00% | ~6 |
 | Hands on the Helm | 16.00% | ~6 |
 | Couch-surfing | 13.00% | ~5 |
+| Replace the Rudder | 13.00% | ~5 |
 | Who Even Needs Keys | 11.00% | ~4 |
-| Replace the Rudder | 11.00% | ~4 |
-| Shrub-Seeing: Townlife | 8.00% | ~3 |
+| Shrub-Seeing: Townlife | 11.00% | ~4 |
+| The Journey Continues | 11.00% | ~4 |
 | Shrub-Seeing: Silly Birbs | 8.00% | ~3 |
 | Sailor Swift | 8.00% | ~3 |
 | No Evil | 8.00% | ~3 |
+| Caught Ya! | 8.00% | ~3 |
 | Safe Investment | 8.00% | ~3 |
 | Bank of Me | 8.00% | ~3 |
-| The Journey Continues | 8.00% | ~3 |
+| Shrub-Seeing: Lights in the sky | 5.00% | ~2 |
 | Shrub-Seeing: Ruins of old | 5.00% | ~2 |
+| Shrub-Seeing: Ancient Extractor | 5.00% | ~2 |
 | Yeet! | 5.00% | ~2 |
-| Caught Ya! | 5.00% | ~2 |
 | Honey, I'm Home | 5.00% | ~2 |
 | Fantastic Fungi | 5.00% | ~2 |
 | Home Sweet Home | 5.00% | ~2 |
 | Crunch Time | 3.00% | ~1 |
 | One with the frogs | 3.00% | ~1 |
-| Shrub-Seeing: Lights in the sky | 3.00% | ~1 |
-| Shrub-Seeing: Ancient Extractor | 3.00% | ~1 |
 | Shrub-Seeing: Seen it all! | 3.00% | ~1 |
 | Return to sender | 3.00% | ~1 |
 | Vandal | 3.00% | ~1 |

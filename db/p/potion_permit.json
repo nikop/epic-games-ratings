@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 486,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -397,9 +397,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 1847,
+  "EOS_Progressed": 1848,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -3217,6 +3217,11 @@
       "Time": "2024-01-01T10:04:40.1819816+00:00",
       "NumProgressed": 1847,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-01T15:04:59.7939002+00:00",
+      "NumProgressed": 1848,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 38,
@@ -3228,7 +3233,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1810
+      "UsersEstimate": 1811
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -3276,7 +3281,7 @@
       "Name": "K.O.!",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 794
+      "UsersEstimate": 795
     },
     {
       "ID": "ACHIEVEMENTS_08",
@@ -3284,7 +3289,7 @@
       "Name": "The First Step",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 1607
+      "UsersEstimate": 1608
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -3300,7 +3305,7 @@
       "Name": "Intermediate Chemist",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "ACHIEVEMENTS_11",
@@ -3316,7 +3321,7 @@
       "Name": "Amateur Chef",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "ACHIEVEMENTS_13",
@@ -3372,7 +3377,7 @@
       "Name": "Spark of Love",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ACHIEVEMENTS_20",
@@ -3388,7 +3393,7 @@
       "Name": "Fishing Guru",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "ACHIEVEMENTS_22",
@@ -3396,7 +3401,7 @@
       "Name": "The Capitalist",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 794
+      "UsersEstimate": 795
     },
     {
       "ID": "ACHIEVEMENTS_23",
@@ -3531,7 +3536,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1847,
+      "Progressed": 1848,
       "Completed": 11
     }
   ],
@@ -3539,8 +3544,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-12-28T09:03:17.5303608+00:00",
-  "LastChanged_Achievements": "2024-01-01T14:06:12.9038357+00:00",
+  "LastChanged_Achievements": "2024-01-01T15:04:59.7938999+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:18.8535407+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:58:16.9609726+00:00",
-  "LastUpdate_Achievements": "2024-01-01T14:06:12.9038673+00:00"
+  "LastUpdate_Ratings": "2024-01-01T14:58:02.085778+00:00",
+  "LastUpdate_Achievements": "2024-01-01T15:04:59.7939342+00:00"
 }

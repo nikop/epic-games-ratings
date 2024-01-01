@@ -1135,17 +1135,17 @@
       "ID": "id_58",
       "SetID": "bk9jib6",
       "Name": "Moneybags",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "id_59",
       "SetID": "bk9jib6",
       "Name": "King Midas",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "id_6",
@@ -1175,9 +1175,9 @@
       "ID": "id_62",
       "SetID": "bk9jib6",
       "Name": "Archer",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 65
     },
     {
       "ID": "id_63",
@@ -1224,8 +1224,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-12-28T07:02:46.0007261+00:00",
-  "LastChanged_Achievements": "2024-01-01T14:10:44.603321+00:00",
+  "LastChanged_Achievements": "2024-01-01T15:09:52.4148529+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:11.6693375+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:58:18.9833763+00:00",
-  "LastUpdate_Achievements": "2024-01-01T14:10:44.6033821+00:00"
+  "LastUpdate_Ratings": "2024-01-01T14:58:03.4300773+00:00",
+  "LastUpdate_Achievements": "2024-01-01T15:09:52.4148931+00:00"
 }

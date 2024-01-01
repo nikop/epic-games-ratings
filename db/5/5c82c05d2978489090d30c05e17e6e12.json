@@ -2,13 +2,13 @@
   "ID": "5c82c05d2978489090d30c05e17e6e12",
   "Name": "EARTHLOCK",
   "ProductSlug": "earthlock-e7d979",
-  "Ranking_Rating": 986,
+  "Ranking_Rating": 995,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 77,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewPlayers": 76,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2023-11-16T16:00:00+00:00",
     "PcReleaseDate": "2018-03-08T17:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.15,
+  "Rating": 4.14,
   "RatingHistory": [
     {
       "Time": "2023-11-20T03:59:04.4319756+00:00",
@@ -233,15 +233,21 @@
       "Rating": 4.15,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-01T15:03:04.2338838+00:00",
+      "Rating": 4.14,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 72211,
+  "EOS_Progressed": 72227,
   "EOS_Completed": 105,
-  "EOS_NewPlayers": 2057,
+  "EOS_NewPlayers": 2061,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -5709,6 +5715,11 @@
       "Time": "2024-01-01T14:07:02.948068+00:00",
       "NumProgressed": 72211,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2024-01-01T15:05:35.3887326+00:00",
+      "NumProgressed": 72227,
+      "NumCompleted": 105
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -5721,7 +5732,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 26718
+      "UsersEstimate": 26724
     },
     {
       "ID": "Achievement_10",
@@ -5753,7 +5764,7 @@
       "Name": "Supreme Scavenger",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2888
+      "UsersEstimate": 2889
     },
     {
       "ID": "Achievement_14",
@@ -5761,7 +5772,7 @@
       "Name": "Gardener of Lango",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1444
+      "UsersEstimate": 1445
     },
     {
       "ID": "Achievement_15",
@@ -5793,7 +5804,7 @@
       "Name": "Champions of Umbra",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "Achievement_19",
@@ -5809,7 +5820,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 19497
+      "UsersEstimate": 19501
     },
     {
       "ID": "Achievement_20",
@@ -5833,7 +5844,7 @@
       "Name": "Spiritualist of the Sands",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1444
+      "UsersEstimate": 1445
     },
     {
       "ID": "Achievement_23",
@@ -5841,7 +5852,7 @@
       "Name": "Festival Masters",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "Achievement_24",
@@ -5849,7 +5860,7 @@
       "Name": "Custodian of Scrollroads",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2888
+      "UsersEstimate": 2889
     },
     {
       "ID": "Achievement_25",
@@ -5873,7 +5884,7 @@
       "Name": "Critter King",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "Achievement_28",
@@ -5897,7 +5908,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8665
+      "UsersEstimate": 8667
     },
     {
       "ID": "Achievement_30",
@@ -5921,7 +5932,7 @@
       "Name": "Art Director",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 1444
+      "UsersEstimate": 1445
     },
     {
       "ID": "Achievement_33",
@@ -5945,7 +5956,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6499
+      "UsersEstimate": 6500
     },
     {
       "ID": "Achievement_5",
@@ -5953,7 +5964,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 5055
+      "UsersEstimate": 5056
     },
     {
       "ID": "Achievement_6",
@@ -5961,7 +5972,7 @@
       "Name": "The Red-Haired Enigma",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2888
+      "UsersEstimate": 2889
     },
     {
       "ID": "Achievement_7",
@@ -5969,7 +5980,7 @@
       "Name": "Ancient Sentient Support",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2166
+      "UsersEstimate": 2167
     },
     {
       "ID": "Achievement_8",
@@ -5977,7 +5988,7 @@
       "Name": "House In Order",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2166
+      "UsersEstimate": 2167
     },
     {
       "ID": "Achievement_9",
@@ -5992,16 +6003,16 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 72211,
+      "Progressed": 72227,
       "Completed": 105
     }
   ],
   "FirstSeen": "2023-11-16T18:57:39.5657505+00:00",
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
-  "LastChanged": "2024-01-01T07:03:09.8691666+00:00",
-  "LastChanged_Achievements": "2024-01-01T14:07:02.9480676+00:00",
+  "LastChanged": "2024-01-01T15:03:04.2338836+00:00",
+  "LastChanged_Achievements": "2024-01-01T15:05:35.3887321+00:00",
   "LastUpdate_AppInfo": "2023-12-28T16:57:09.138646+00:00",
-  "LastUpdate_Ratings": "2024-01-01T14:03:26.680151+00:00",
-  "LastUpdate_Achievements": "2024-01-01T14:07:02.9481231+00:00"
+  "LastUpdate_Ratings": "2024-01-01T15:03:04.233884+00:00",
+  "LastUpdate_Achievements": "2024-01-01T15:05:35.3887825+00:00"
 }

@@ -13,7 +13,7 @@
 | Breached | 11.00% | ~29 |
 | Conciliator | 9.00% | ~24 |
 | Tactician | 9.00% | ~24 |
-| Fight Another Day | 8.00% | ~21 |
+| Fight Another Day | 9.00% | ~24 |
 | Taskmaster | 8.00% | ~21 |
 | Acquaintance | 7.00% | ~19 |
 | Tail-wind | 7.00% | ~19 |
@@ -54,6 +54,7 @@
 | Talent Nurtured | 1.00% | ~3 |
 | Ever After | 1.00% | ~3 |
 | Trailblazer | 1.00% | ~3 |
+| Loader | 1.00% | ~3 |
 | Moving At Odd Angles | 1.00% | ~3 |
 | The Darkness Within | 1.00% | ~3 |
 | Wyrmslayer | 1.00% | ~3 |
@@ -62,7 +63,6 @@
 | Embellished | 0.70% | ~2 |
 | Manticore | 0.70% | ~2 |
 | Huntsmaster | 0.70% | ~2 |
-| Loader | 0.70% | ~2 |
 | Mercenary | 0.70% | ~2 |
 | Escort | 0.70% | ~2 |
 | Despoiler | 0.70% | ~2 |

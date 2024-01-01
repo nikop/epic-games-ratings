@@ -33,14 +33,14 @@
 | Team Hunter | 19.00% | ~201 |
 | Karakuri Isle | 18.00% | ~190 |
 | Reincarnation Cycle Stopper | 18.00% | ~190 |
+| Left Arm Leverager | 16.00% | ~169 |
 | Human Believer | 16.00% | ~169 |
-| Left Arm Leverager | 15.00% | ~159 |
 | Style Seeker | 15.00% | ~159 |
 | Unrivaled in Arms | 15.00% | ~159 |
 | Threaded Harmony | 15.00% | ~159 |
 | Quintessence of Form | 14.00% | ~148 |
 | Karakuri Minato | 14.00% | ~148 |
-| Canyon of Karakuri | 12.00% | ~127 |
+| Canyon of Karakuri | 13.00% | ~138 |
 | Jack of All Trades | 12.00% | ~127 |
 | Karakuri Fortress | 11.00% | ~116 |
 | Haven Hunter | 10.00% | ~106 |

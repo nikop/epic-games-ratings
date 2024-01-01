@@ -1548,9 +1548,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 27416,
+  "EOS_Progressed": 27420,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 706,
+  "EOS_NewPlayers": 699,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -12633,6 +12633,11 @@
       "Time": "2024-01-01T14:10:35.6898977+00:00",
       "NumProgressed": 27416,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-01T15:09:45.5586899+00:00",
+      "NumProgressed": 27420,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -12700,7 +12705,7 @@
       "Name": "For Justice",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "BossBridgeDefeated",
@@ -12772,7 +12777,7 @@
       "Name": "Harvest and Home",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "BossGardenAdvancedDefeated",
@@ -12804,7 +12809,7 @@
       "Name": "Poise and Poisons",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "BossTowerAdvancedDefeated",
@@ -12892,7 +12897,7 @@
       "Name": "Good Boy!",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "PrequelReveal",
@@ -12955,21 +12960,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 27416,
+      "Progressed": 27420,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 6346,
+      "Progressed": 6350,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-31T13:02:19.9867054+00:00",
-  "LastChanged_Achievements": "2024-01-01T14:10:35.6898973+00:00",
+  "LastChanged_Achievements": "2024-01-01T15:09:45.5586896+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.0569835+00:00",
-  "LastUpdate_Ratings": "2024-01-01T14:02:54.1551021+00:00",
-  "LastUpdate_Achievements": "2024-01-01T14:10:35.6899673+00:00"
+  "LastUpdate_Ratings": "2024-01-01T15:02:42.2116008+00:00",
+  "LastUpdate_Achievements": "2024-01-01T15:09:45.5588107+00:00"
 }

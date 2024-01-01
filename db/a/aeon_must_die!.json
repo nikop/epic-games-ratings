@@ -4,7 +4,7 @@
   "ProductSlug": "aeon-must-die",
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 3795,
-  "Ranking_EOS_NewPlayers": 390,
+  "Ranking_EOS_NewPlayers": 382,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-10-27T21:59:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3624,
+  "EOS_Progressed": 3625,
   "EOS_Completed": -28,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": -0.77,
   "EosHistory": [
@@ -834,6 +834,11 @@
       "Time": "2024-01-01T04:09:11.0056815+00:00",
       "NumProgressed": 3624,
       "NumCompleted": -28
+    },
+    {
+      "Time": "2024-01-01T15:08:44.4937313+00:00",
+      "NumProgressed": 3625,
+      "NumCompleted": -28
     }
   ],
   "TotalAchievements": 35,
@@ -893,7 +898,7 @@
       "Name": "Hot Potato",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "16",
@@ -1124,7 +1129,7 @@
     {
       "ID": "5cfan5f",
       "IsBase": true,
-      "Progressed": 3624,
+      "Progressed": 3625,
       "Completed": -28
     }
   ],
@@ -1132,8 +1137,8 @@
   "FirstSeenRating": "2023-03-31T05:57:47.6282552+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:12.6590754+00:00",
   "LastChanged": "2023-03-31T05:57:47.6282553+00:00",
-  "LastChanged_Achievements": "2024-01-01T14:09:09.7756668+00:00",
+  "LastChanged_Achievements": "2024-01-01T15:08:44.4937309+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:16.5044228+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:59:14.9297298+00:00",
-  "LastUpdate_Achievements": "2024-01-01T14:09:09.775692+00:00"
+  "LastUpdate_Ratings": "2024-01-01T14:58:41.4339214+00:00",
+  "LastUpdate_Achievements": "2024-01-01T15:08:44.4937775+00:00"
 }

@@ -9,7 +9,7 @@ Rating: 4.55 (Ranked 523)
 | Map reader | 66.00% | ~100 |
 | Adventurer | 64.00% | ~97 |
 | Philanthropist | 61.00% | ~92 |
-| Archer | 42.00% | ~63 |
+| Archer | 43.00% | ~65 |
 | The brave little tailor | 40.00% | ~60 |
 | Field hand | 38.00% | ~57 |
 | Samaritan | 32.00% | ~48 |
@@ -43,9 +43,9 @@ Rating: 4.55 (Ranked 523)
 | Titan Lord | 7.00% | ~11 |
 | Terror of the hens | 7.00% | ~11 |
 | Expert | 7.00% | ~11 |
+| Moneybags | 6.00% | ~9 |
 | The traveler | 5.00% | ~8 |
-| Moneybags | 5.00% | ~8 |
-| King Midas | 4.00% | ~6 |
+| King Midas | 5.00% | ~8 |
 | Rune master | 3.00% | ~5 |
 | Fervent swimmer | 3.00% | ~5 |
 | Jester | 3.00% | ~5 |

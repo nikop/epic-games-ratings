@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Master trainee | 47.00% | ~34 |
+| Master trainee | 47.00% | ~35 |
 | You have three wishes left | 42.00% | ~31 |
-| Jung's dream | 33.00% | ~24 |
-| The battle of Great Britain | 33.00% | ~24 |
+| Jung's dream | 32.00% | ~24 |
+| The battle of Great Britain | 32.00% | ~24 |
 | Pulp! Where Monsters Dwell | 27.00% | ~20 |
-| A continent with chemistry | 23.00% | ~17 |
-| The happy farmer girl | 22.00% | ~16 |
-| Giant | 19.00% | ~14 |
+| A continent with chemistry | 24.00% | ~18 |
+| The happy farmer girl | 23.00% | ~17 |
+| Giant | 20.00% | ~15 |
+| A rival with no options | 19.00% | ~14 |
 | Pulp! Terror Tales in the Night | 19.00% | ~14 |
 | Pulp! Out of this World | 19.00% | ~14 |
-| A rival with no options | 18.00% | ~13 |
+| The artist | 18.00% | ~13 |
 | Diagnosis: fear | 18.00% | ~13 |
 | Ambition is... blind | 18.00% | ~13 |
 | You have two wishes left | 18.00% | ~13 |
-| The artist | 16.00% | ~12 |
 | Pulp! Adventures into the Unknown | 16.00% | ~12 |
 | Et in arcadia ego | 15.00% | ~11 |
 | The seer | 15.00% | ~11 |
@@ -31,11 +31,11 @@
 | Bread and bocaua | 11.00% | ~8 |
 | Fanatacism is... poisonous | 11.00% | ~8 |
 | Pulp! The Beyond | 11.00% | ~8 |
-| Blessed antennas | 10.00% | ~7 |
-| The beast in the Oval Office | 10.00% | ~7 |
-| The bully | 10.00% | ~7 |
-| The adventurer | 10.00% | ~7 |
-| ECO mode | 10.00% | ~7 |
+| Blessed antennas | 9.00% | ~7 |
+| The beast in the Oval Office | 9.00% | ~7 |
+| The bully | 9.00% | ~7 |
+| The adventurer | 9.00% | ~7 |
+| ECO mode | 9.00% | ~7 |
 | The scholar | 8.00% | ~6 |
 | Pulp! True Adventures | 8.00% | ~6 |
 | America had no Faith | 8.00% | ~6 |
@@ -52,7 +52,7 @@
 | Pulp! Skeleton Hand | 1.00% | ~1 |
 | Pulp! The Vault of Horror | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73 (Ranked 514)  
+Progressed: 74 (Ranked 512)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,4 +94,4 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-28 | 68 | 0 |
 | 2023-12-30 | 69 | 0 |
 | 2023-12-31 | 71 | 0 |
-| 2024-01-01 | 73 | 0 |
+| 2024-01-01 | 74 | 0 |

@@ -2,7 +2,7 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_Rating": 324,
+  "Ranking_Rating": 323,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 280,
@@ -51,9 +51,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1183,
+  "EOS_Progressed": 1184,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -3416,6 +3416,11 @@
       "Time": "2024-01-01T14:10:48.1552706+00:00",
       "NumProgressed": 1183,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-01T15:09:55.2457151+00:00",
+      "NumProgressed": 1184,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3459,7 +3464,7 @@
       "Name": "Right On Time",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ClockworkCompletion1",
@@ -3475,7 +3480,7 @@
       "Name": "Like Clockwork",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ClovemaryGift",
@@ -3497,9 +3502,9 @@
       "ID": "CosmeticProgress1",
       "SetID": "a9e499d",
       "Name": "Street Style",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 213
     },
     {
       "ID": "CultivairChests1",
@@ -3507,7 +3512,7 @@
       "Name": "Cultivair Explorer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "EntresolChests1",
@@ -3539,7 +3544,7 @@
       "Name": "Fairgrounds Explorer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -3555,7 +3560,7 @@
       "Name": "The Betrayer",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -3579,7 +3584,7 @@
       "Name": "Whiz Kid",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "GrindingTime1",
@@ -3617,9 +3622,9 @@
       "ID": "LacunaCompleted",
       "SetID": "a9e499d",
       "Name": "Make Up For Lost Time",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 296
+      "UsersEstimate": 284
     },
     {
       "ID": "MapCompletion1",
@@ -3681,9 +3686,9 @@
       "ID": "ParryRepeated1",
       "SetID": "a9e499d",
       "Name": "No, Thanks!",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 296
+      "UsersEstimate": 284
     },
     {
       "ID": "PhaseDiveCounter",
@@ -3739,7 +3744,7 @@
       "Name": "Golem Chaser",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "SkillCompletion1",
@@ -3803,7 +3808,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "WarwickDefeated",
@@ -3850,7 +3855,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1183,
+      "Progressed": 1184,
       "Completed": 6
     }
   ],
@@ -3858,8 +3863,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2024-01-01T14:10:48.1552704+00:00",
+  "LastChanged_Achievements": "2024-01-01T15:09:55.2457145+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:23.9308133+00:00",
-  "LastUpdate_Ratings": "2024-01-01T14:03:01.0225669+00:00",
-  "LastUpdate_Achievements": "2024-01-01T14:10:48.1553263+00:00"
+  "LastUpdate_Ratings": "2024-01-01T15:02:48.0464533+00:00",
+  "LastUpdate_Achievements": "2024-01-01T15:09:55.2457896+00:00"
 }

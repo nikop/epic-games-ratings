@@ -2,11 +2,11 @@
   "ID": "c12a5687fb024192999b2d22c555d4c6",
   "Name": "Destroy All Humans!",
   "ProductSlug": "destroy-all-humans",
-  "Ranking_Rating": 359,
+  "Ranking_Rating": 358,
   "Ranking_Popularity": 503,
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 398,
-  "Ranking_EOS_Completed": 140,
+  "Ranking_EOS_Completed": 141,
   "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
@@ -299,11 +299,11 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 275,
+  "EOS_Progressed": 276,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 1.82,
+  "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
     {
       "Time": "2023-12-18T10:04:38.3586261+00:00",
@@ -1214,6 +1214,11 @@
       "Time": "2024-01-01T13:10:17.2017213+00:00",
       "NumProgressed": 275,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-01T15:06:31.7506601+00:00",
+      "NumProgressed": 276,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -1274,7 +1279,7 @@
       "Name": "Cult Following",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_ABILITY_PKTHROWANDCATCHHUMAN",
@@ -1288,9 +1293,9 @@
       "ID": "ACH_ABILITY_SCANINHOLOBOB",
       "SetID": "cefn62b",
       "Name": "I Look Up As I Walk to Takoshima",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 160
     },
     {
       "ID": "ACH_ABILITY_SMASHBUTTON",
@@ -1314,7 +1319,7 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "ACH_CHALLENGE_ABDUCTIONTHREESTAR",
@@ -1370,7 +1375,7 @@
       "Name": "Path of the Furon",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_CHANGE_SKIN",
@@ -1378,7 +1383,7 @@
       "Name": "Earthly Pleasures",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_COLLECT_BRAINWHILEDAMAGED",
@@ -1394,7 +1399,7 @@
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "ACH_COMBAT_EVADEBAZOOKA",
@@ -1408,9 +1413,9 @@
       "ID": "ACH_ENEMY_KILLARMQUIST",
       "SetID": "cefn62b",
       "Name": "Albion Bridge Is for Falling Down",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_ENEMY_KILLROBOPREZ",
@@ -1458,7 +1463,7 @@
       "Name": "Pimp My Raid",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ACH_INVADE_SANTAMODESTA",
@@ -1474,7 +1479,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ACH_INVADE_UNIONTOWN",
@@ -1498,7 +1503,7 @@
       "Name": "Bodied Sattva",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_OBJECTIVES_COMPLETEDALLOPTIONAL",
@@ -1522,7 +1527,7 @@
       "Name": "Perfect Probulator",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1530,7 +1535,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH_UPGRADE_TOPTIER",
@@ -1545,15 +1550,15 @@
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 275,
+      "Progressed": 276,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2023-11-09T01:43:19.9714919+00:00",
-  "LastChanged_Achievements": "2024-01-01T14:08:22.6894317+00:00",
+  "LastChanged_Achievements": "2024-01-01T15:06:31.7506597+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:06.6677344+00:00",
-  "LastUpdate_Ratings": "2024-01-01T14:02:50.9310457+00:00",
-  "LastUpdate_Achievements": "2024-01-01T14:08:22.68946+00:00"
+  "LastUpdate_Ratings": "2024-01-01T15:02:39.9212231+00:00",
+  "LastUpdate_Achievements": "2024-01-01T15:06:31.7506923+00:00"
 }

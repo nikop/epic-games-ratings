@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -667,9 +667,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11270,
+  "EOS_Progressed": 11274,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 707,
+  "EOS_NewPlayers": 704,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -14347,6 +14347,11 @@
       "Time": "2024-01-01T14:06:46.397933+00:00",
       "NumProgressed": 11270,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2024-01-01T15:05:23.3144664+00:00",
+      "NumProgressed": 11274,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 29,
@@ -14358,7 +14363,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 9354
+      "UsersEstimate": 9357
     },
     {
       "ID": "ACH02",
@@ -14366,7 +14371,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 3832
+      "UsersEstimate": 3833
     },
     {
       "ID": "ACH03",
@@ -14382,7 +14387,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 4283
+      "UsersEstimate": 4284
     },
     {
       "ID": "ACH05",
@@ -14398,7 +14403,7 @@
       "Name": "Street Sweeper",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 2141
+      "UsersEstimate": 2142
     },
     {
       "ID": "ACH07",
@@ -14430,7 +14435,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 3156
+      "UsersEstimate": 3157
     },
     {
       "ID": "ACH11",
@@ -14462,7 +14467,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1916
+      "UsersEstimate": 1917
     },
     {
       "ID": "ACH15",
@@ -14542,7 +14547,7 @@
       "Name": "Dirty Money",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1352
+      "UsersEstimate": 1353
     },
     {
       "ID": "ACH25",
@@ -14589,7 +14594,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 11270,
+      "Progressed": 11274,
       "Completed": 70
     }
   ],
@@ -14597,8 +14602,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-01T00:00:15.5099178+00:00",
-  "LastChanged_Achievements": "2024-01-01T14:06:46.3979326+00:00",
+  "LastChanged_Achievements": "2024-01-01T15:05:23.314466+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:06.0840087+00:00",
-  "LastUpdate_Ratings": "2024-01-01T14:02:50.0005445+00:00",
-  "LastUpdate_Achievements": "2024-01-01T14:06:46.3980182+00:00"
+  "LastUpdate_Ratings": "2024-01-01T15:02:39.3296286+00:00",
+  "LastUpdate_Achievements": "2024-01-01T15:05:23.3145559+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "49c0ed7b0cc94825a13c3c2ca21ed265",
   "Name": "Doodle God",
   "ProductSlug": "doodle-god-f6a7b6",
-  "Ranking_EOS_Progress": 399,
+  "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 97,
-  "Ranking_EOS_NewPlayers": 428,
+  "Ranking_EOS_NewPlayers": 429,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-03-10T17:00:00+00:00",
@@ -501,9 +501,9 @@
       "ID": "605792",
       "SetID": "4lpaifm",
       "Name": "Creator of Modernity",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 49
     },
     {
       "ID": "605802",
@@ -638,8 +638,8 @@
   "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6583079+00:00",
   "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
-  "LastChanged_Achievements": "2024-01-01T14:07:27.8549398+00:00",
+  "LastChanged_Achievements": "2024-01-01T15:05:52.8451051+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:03.1434822+00:00",
-  "LastUpdate_Ratings": "2024-01-01T14:02:43.9709515+00:00",
-  "LastUpdate_Achievements": "2024-01-01T14:07:27.8549844+00:00"
+  "LastUpdate_Ratings": "2024-01-01T15:02:35.5013875+00:00",
+  "LastUpdate_Achievements": "2024-01-01T15:05:52.8451188+00:00"
 }

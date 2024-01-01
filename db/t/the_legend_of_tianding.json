@@ -365,9 +365,9 @@
       "ID": "BeatBossChen",
       "SetID": "123m9l1",
       "Name": "Death Battle",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "BeatBossKawa",
@@ -437,9 +437,9 @@
       "ID": "ExpressTrainExplorer",
       "SetID": "123m9l1",
       "Name": "Tour Guide",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "FanOfYang",
@@ -582,8 +582,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2024-01-01T14:06:40.8428879+00:00",
+  "LastChanged_Achievements": "2024-01-01T15:05:19.4665222+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:12.5249807+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:57:39.7744003+00:00",
-  "LastUpdate_Achievements": "2024-01-01T14:06:40.8429027+00:00"
+  "LastUpdate_Ratings": "2024-01-01T14:57:36.1996737+00:00",
+  "LastUpdate_Achievements": "2024-01-01T15:05:19.4665411+00:00"
 }

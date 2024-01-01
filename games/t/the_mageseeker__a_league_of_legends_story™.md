@@ -5,61 +5,61 @@ Rating: 4.81 (Ranked 84)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~3,042 |
-| No more cages! | 90.00% | ~2,882 |
-| Everfrost | 77.00% | ~2,466 |
-| Pentakill | 76.00% | ~2,434 |
-| Dark Forest | 76.00% | ~2,434 |
-| The use of petricite | 73.00% | ~2,337 |
-| You can pet the dog | 60.00% | ~1,921 |
-| Thornbarrow | 42.00% | ~1,345 |
-| Big Helmet Bro | 40.00% | ~1,281 |
-| Clarion Cove | 40.00% | ~1,281 |
-| Ternmoat Headquarters | 38.00% | ~1,217 |
-| Elemental master | 37.00% | ~1,185 |
-| Past trauma | 37.00% | ~1,185 |
-| Cypress Glen Headquarters | 34.00% | ~1,089 |
-| Petricite Burst | 33.00% | ~1,057 |
-| Old friend | 32.00% | ~1,025 |
-| Devineur | 31.00% | ~993 |
-| Hijack | 30.00% | ~961 |
-| Whispers in the Woods I | 28.00% | ~897 |
+| For Demacia | 95.00% | ~3,045 |
+| No more cages! | 90.00% | ~2,884 |
+| Everfrost | 77.00% | ~2,468 |
+| Pentakill | 76.00% | ~2,436 |
+| Dark Forest | 76.00% | ~2,436 |
+| The use of petricite | 73.00% | ~2,340 |
+| You can pet the dog | 60.00% | ~1,923 |
+| Thornbarrow | 42.00% | ~1,346 |
+| Big Helmet Bro | 40.00% | ~1,282 |
+| Clarion Cove | 40.00% | ~1,282 |
+| Ternmoat Headquarters | 38.00% | ~1,218 |
+| Elemental master | 37.00% | ~1,186 |
+| Past trauma | 37.00% | ~1,186 |
+| Cypress Glen Headquarters | 34.00% | ~1,090 |
+| Petricite Burst | 33.00% | ~1,058 |
+| Old friend | 32.00% | ~1,026 |
+| Devineur | 31.00% | ~994 |
+| Hijack | 30.00% | ~962 |
+| Whispers in the Woods I | 27.00% | ~865 |
 | I chose my shackles | 27.00% | ~865 |
 | Ancient power | 27.00% | ~865 |
-| Sacred Woods | 25.00% | ~800 |
-| Little light | 23.00% | ~736 |
-| Glyndemere | 23.00% | ~736 |
-| Capelworth | 23.00% | ~736 |
-| Full equipped | 23.00% | ~736 |
-| Iffighain Headquarters | 22.00% | ~704 |
-| No more holding back | 19.00% | ~608 |
-| Quickmoore Headquarters | 19.00% | ~608 |
-| Whispers in the Woods II | 18.00% | ~576 |
-| Terbisia | 18.00% | ~576 |
-| Whispers in the Woods III | 17.00% | ~544 |
-| Friendly fire | 17.00% | ~544 |
-| The Central Headquarters | 17.00% | ~544 |
-| My heart and sword always for Demacia | 16.00% | ~512 |
-| True power | 16.00% | ~512 |
-| Meltridge | 16.00% | ~512 |
-| Cloven Dell Headquarters | 16.00% | ~512 |
-| Whispers in the Woods IV | 14.00% | ~448 |
-| I smell fear | 14.00% | ~448 |
-| The Great City of Demacia | 14.00% | ~448 |
-| Embrace the darkness | 13.00% | ~416 |
-| The end of the experiments | 13.00% | ~416 |
-| Truth is a dark mirror | 13.00% | ~416 |
-| Call it 'redistribution of magic | 13.00% | ~416 |
-| Do you trust me? | 12.00% | ~384 |
-| Back to sleep, then... | 12.00% | ~384 |
-| The great mage rebellion starts now | 11.00% | ~352 |
-| You can pet the... horse | 11.00% | ~352 |
+| Sacred Woods | 25.00% | ~801 |
+| Little light | 23.00% | ~737 |
+| Glyndemere | 23.00% | ~737 |
+| Capelworth | 23.00% | ~737 |
+| Full equipped | 23.00% | ~737 |
+| Iffighain Headquarters | 22.00% | ~705 |
+| No more holding back | 19.00% | ~609 |
+| Quickmoore Headquarters | 19.00% | ~609 |
+| Whispers in the Woods II | 18.00% | ~577 |
+| Terbisia | 18.00% | ~577 |
+| Whispers in the Woods III | 17.00% | ~545 |
+| Friendly fire | 17.00% | ~545 |
+| The Central Headquarters | 17.00% | ~545 |
+| My heart and sword always for Demacia | 16.00% | ~513 |
+| True power | 16.00% | ~513 |
+| Meltridge | 16.00% | ~513 |
+| Cloven Dell Headquarters | 16.00% | ~513 |
+| Whispers in the Woods IV | 14.00% | ~449 |
+| I smell fear | 14.00% | ~449 |
+| The Great City of Demacia | 14.00% | ~449 |
+| Embrace the darkness | 13.00% | ~417 |
+| The end of the experiments | 13.00% | ~417 |
+| Truth is a dark mirror | 13.00% | ~417 |
+| Call it 'redistribution of magic | 13.00% | ~417 |
+| Do you trust me? | 12.00% | ~385 |
+| Back to sleep, then... | 12.00% | ~385 |
+| The great mage rebellion starts now | 11.00% | ~353 |
+| You can pet the... horse | 11.00% | ~353 |
 | Chains master | 10.00% | ~320 |
 | Spellcrafting | 10.00% | ~320 |
 | Silverwing nest | 2.00% | ~64 |
 | The Unshackled | 1.00% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,202 (Ranked 222)  
+Progressed: 3,205 (Ranked 222)  
 Completed: 18 (0.56%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 18 (0.56%) (Ranked 210)
 | 2023-12-29 | 3,140 | 17 |
 | 2023-12-30 | 3,165 | 17 |
 | 2023-12-31 | 3,186 | 18 |
-| 2024-01-01 | 3,202 | 18 |
+| 2024-01-01 | 3,205 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,13 +2,13 @@
   "ID": "b9c7474c6bdf4e9ab8ca5a5da60059d4",
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
-  "Ranking_Rating": 466,
+  "Ranking_Rating": 465,
   "Ranking_Popularity": 136,
   "Ranking_PopularitySum": 88,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 299,
-  "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3844,9 +3844,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242166,
+  "EOS_Progressed": 242171,
   "EOS_Completed": 302,
-  "EOS_NewPlayers": 496,
+  "EOS_NewPlayers": 495,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -30324,6 +30324,11 @@
       "Time": "2024-01-01T14:10:55.6992739+00:00",
       "NumProgressed": 242166,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2024-01-01T15:10:01.2041257+00:00",
+      "NumProgressed": 242171,
+      "NumCompleted": 302
     }
   ],
   "TotalAchievements": 138,
@@ -30343,7 +30348,7 @@
       "Name": "Achievement Hunter",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "ATTACKOWL",
@@ -30407,7 +30412,7 @@
       "Name": "Challenge Increases",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "DEAL25DAMAGE",
@@ -30415,7 +30420,7 @@
       "Name": "Heavy Hitter",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2179
+      "UsersEstimate": 2180
     },
     {
       "ID": "DEAL99DAMAGE",
@@ -30503,7 +30508,7 @@
       "Name": "New Game\u002B",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "DIEIN30SEC",
@@ -30511,7 +30516,7 @@
       "Name": "That Was Quick",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2179
+      "UsersEstimate": 2180
     },
     {
       "ID": "DIERAINBOWSOCKS",
@@ -30519,7 +30524,7 @@
       "Name": "Colorful Corpse",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2179
+      "UsersEstimate": 2180
     },
     {
       "ID": "DIETOGRAVESTONE",
@@ -30575,7 +30580,7 @@
       "Name": "Barbecue",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "FIREBREEDEXPLOSION",
@@ -30671,7 +30676,7 @@
       "Name": "Juggernaut",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "HIGHHEALTH",
@@ -30735,7 +30740,7 @@
       "Name": "Defeat The Dark",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2179
+      "UsersEstimate": 2180
     },
     {
       "ID": "KILL1000",
@@ -30759,7 +30764,7 @@
       "Name": "Clearing The Room",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "KILL20TYPES",
@@ -30919,7 +30924,7 @@
       "Name": "A Donation",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2179
+      "UsersEstimate": 2180
     },
     {
       "ID": "MULTEXPLOSIONS",
@@ -31047,7 +31052,7 @@
       "Name": "Decisions, Decisions",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "SHRINETO1",
@@ -31055,7 +31060,7 @@
       "Name": "Fragile Mortality",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "SHUFFLE10TIMES",
@@ -31071,7 +31076,7 @@
       "Name": "Snake Sneak",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "SPECIALROOMS1",
@@ -31087,7 +31092,7 @@
       "Name": "Explorer",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2179
+      "UsersEstimate": 2180
     },
     {
       "ID": "SPEEDRUN10",
@@ -31143,7 +31148,7 @@
       "Name": "Defuser",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "USESHRINE",
@@ -31151,7 +31156,7 @@
       "Name": "An Offering",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2179
+      "UsersEstimate": 2180
     },
     {
       "ID": "VISIT35DUNGEONS",
@@ -31191,7 +31196,7 @@
       "Name": "Obsessed",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "WIN5MAXHEALTH",
@@ -31279,7 +31284,7 @@
       "Name": "Sentimental Value",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "WINWITHNOARMOR",
@@ -31295,7 +31300,7 @@
       "Name": "Precious",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "WINWITHSPOON",
@@ -31431,20 +31436,20 @@
       "Name": "Matching",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     }
   ],
   "AchievementSets": [
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242166,
+      "Progressed": 242171,
       "Completed": 302
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3646,
+      "Progressed": 3651,
       "Completed": 416
     }
   ],
@@ -31452,8 +31457,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-01T04:57:24.2151303+00:00",
-  "LastChanged_Achievements": "2024-01-01T14:10:55.6992735+00:00",
+  "LastChanged_Achievements": "2024-01-01T15:10:01.2041252+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:01.848225+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:57:33.0144729+00:00",
-  "LastUpdate_Achievements": "2024-01-01T14:10:55.6995518+00:00"
+  "LastUpdate_Ratings": "2024-01-01T14:57:31.6695914+00:00",
+  "LastUpdate_Achievements": "2024-01-01T15:10:01.2043946+00:00"
 }

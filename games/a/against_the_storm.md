@@ -19,7 +19,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Frosts | 5.00% | ~994 |
 | Ominous Presence | 5.00% | ~994 |
 | Gathering Storm | 5.00% | ~994 |
-| Land of Greed | 4.00% | ~795 |
+| Land of Greed | 4.00% | ~796 |
 | Homesick | 3.00% | ~597 |
 | Fertile Meadows | 3.00% | ~597 |
 | Monastery of the Holy Flame | 3.00% | ~597 |
@@ -27,6 +27,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Watchtower | 3.00% | ~597 |
 | A Real Challenge | 3.00% | ~597 |
 | Untamed Wilds | 3.00% | ~597 |
+| Against All Odds | 2.00% | ~398 |
 | Ruined Armory | 2.00% | ~398 |
 | Bandit Camp | 2.00% | ~398 |
 | Barren Lands | 2.00% | ~398 |
@@ -42,7 +43,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Trade Baron | 2.00% | ~398 |
 | Serving Ale | 1.00% | ~199 |
 | Refinery | 1.00% | ~199 |
-| Against All Odds | 1.00% | ~199 |
 | Fishmen Ritual Site | 1.00% | ~199 |
 | Victory Through Prosperity | 1.00% | ~199 |
 | Defying the Crown | 1.00% | ~199 |
@@ -66,8 +66,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,885 (Ranked 152)  
-Completed: 33 (0.17%) (Ranked 281)  
+Progressed: 19,890 (Ranked 152)  
+Completed: 33 (0.17%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -322,7 +322,7 @@ Completed: 33 (0.17%) (Ranked 281)
 | 2023-12-29 | 19,630 | 36 |
 | 2023-12-30 | 19,741 | 35 |
 | 2023-12-31 | 19,834 | 34 |
-| 2024-01-01 | 19,885 | 33 |
+| 2024-01-01 | 19,890 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 447  (Ranked 229)  
 Sum: 3,315 (Ranked 177)  

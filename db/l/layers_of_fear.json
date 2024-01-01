@@ -4,7 +4,7 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 407,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 250,
+  "EOS_Progressed": 251,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
@@ -1134,6 +1134,11 @@
       "Time": "2024-01-01T14:08:54.9123409+00:00",
       "NumProgressed": 250,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T15:08:34.1448225+00:00",
+      "NumProgressed": 251,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -1162,7 +1167,7 @@
       "Name": "The Big Picture",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "breaking_free",
@@ -1170,7 +1175,7 @@
       "Name": "Breaking free",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "casting_finished",
@@ -1224,9 +1229,9 @@
       "ID": "covered_up_for_a_reason",
       "SetID": "f2im8d",
       "Name": "It\u0027s covered up for a reason",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 133
     },
     {
       "ID": "decrypt_one_myth",
@@ -1258,7 +1263,7 @@
       "Name": "Do what you have to",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "earn_all_trophies",
@@ -1320,9 +1325,9 @@
       "ID": "find_one_rat_sketch",
       "SetID": "f2im8d",
       "Name": "The artist\u2019s impression",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 113
     },
     {
       "ID": "finished_it",
@@ -1354,7 +1359,7 @@
       "Name": "Sound Bite",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "heavy_burden",
@@ -1370,7 +1375,7 @@
       "Name": "In One Take",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "inheritance",
@@ -1418,7 +1423,7 @@
       "Name": "A piece of the story",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "playtime",
@@ -1472,9 +1477,9 @@
       "ID": "sign_of_weakness",
       "SetID": "f2im8d",
       "Name": "Sign of weakness",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 93
     },
     {
       "ID": "something_important",
@@ -1482,7 +1487,7 @@
       "Name": "Something important",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "spy_one_item",
@@ -1498,7 +1503,7 @@
       "Name": "Sword of the Serpent",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "the_art_of_movement",
@@ -1546,7 +1551,7 @@
       "Name": "Wanderer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "whispers_long_forgotten",
@@ -1561,14 +1566,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 250,
+      "Progressed": 251,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-01T14:08:54.9123403+00:00",
+  "LastChanged_Achievements": "2024-01-01T15:08:34.1448221+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.7570027+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:57:44.9425496+00:00",
-  "LastUpdate_Achievements": "2024-01-01T14:08:54.9123875+00:00"
+  "LastUpdate_Ratings": "2024-01-01T14:57:39.4253002+00:00",
+  "LastUpdate_Achievements": "2024-01-01T15:08:34.1448735+00:00"
 }

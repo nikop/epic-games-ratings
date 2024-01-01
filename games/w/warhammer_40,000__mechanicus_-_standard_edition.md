@@ -5,18 +5,18 @@ Rating: 4.43 (Ranked 717)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~60,076 |
-| This is only the beginning | 20.00% | ~46,212 |
-| Knowledge is power | 13.00% | ~30,038 |
-| Galvanic Rifle | 10.00% | ~23,106 |
-| Radium Ready | 10.00% | ~23,106 |
+| No aid from the Omnissiah | 26.00% | ~60,078 |
+| This is only the beginning | 20.00% | ~46,214 |
+| Knowledge is power | 13.00% | ~30,039 |
+| Galvanic Rifle | 10.00% | ~23,107 |
+| Radium Ready | 10.00% | ~23,107 |
 | Power Ranger | 9.00% | ~20,796 |
 | Taser Goad | 9.00% | ~20,796 |
 | Half a cog | 9.00% | ~20,796 |
 | Watch them crumble | 6.00% | ~13,864 |
-| Competent Cohort | 4.00% | ~9,242 |
-| Celestial Cartography Catastrophe | 4.00% | ~9,242 |
-| One with the Machine | 4.00% | ~9,242 |
+| Competent Cohort | 4.00% | ~9,243 |
+| Celestial Cartography Catastrophe | 4.00% | ~9,243 |
+| One with the Machine | 4.00% | ~9,243 |
 | Legio Cybernetica | 3.00% | ~6,932 |
 | Fleshy Disposal | 3.00% | ~6,932 |
 | Battle Servitor | 2.00% | ~4,621 |
@@ -24,7 +24,7 @@ Rating: 4.43 (Ranked 717)
 | Impatient destruction | 2.00% | ~4,621 |
 | Vivisected Vizier | 2.00% | ~4,621 |
 | Architect Abortion | 2.00% | ~4,621 |
-| Cohortus Maximus | 0.80% | ~1,848 |
+| Cohortus Maximus | 0.80% | ~1,849 |
 | Mother of Xenarites | 0.40% | ~924 |
 | False God | 0.30% | ~693 |
 | Hard | 0.20% | ~462 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 717)
 | Perma-live | 0.10% | ~231 |
 | Purge the Heretek | 0.10% | ~231 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,062 (Ranked 76)  
+Progressed: 231,069 (Ranked 76)  
 Completed: 5 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 5 (0.00%) (Ranked 390)
 | 2023-12-29 | 230,808 | 5 |
 | 2023-12-30 | 230,903 | 5 |
 | 2023-12-31 | 231,013 | 5 |
-| 2024-01-01 | 231,062 | 5 |
+| 2024-01-01 | 231,069 | 5 |
 ## Awards
 Max (Highly Recommended): 291  (Ranked 263)  
 Sum: 2,221 (Ranked 209)  

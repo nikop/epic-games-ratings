@@ -5,7 +5,7 @@ Rating: 4.28 (Ranked 885)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The creature | 79.00% | ~269 |
+| The creature | 80.00% | ~273 |
 | Grau Hill | 77.00% | ~263 |
 | A forgotten language | 69.00% | ~235 |
 | Lord Wesley | 35.00% | ~119 |

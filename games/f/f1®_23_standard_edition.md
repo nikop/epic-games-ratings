@@ -1,28 +1,28 @@
 # F1® 23
 [Store](https://store.epicgames.com/en-US/p/f1-23)  
 [View Rawdata](../../db/f/f1®_23_standard_edition.json)  
-Rating: 4.66 (Ranked 302)  
+Rating: 4.66 (Ranked 301)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~13,102 |
-| On the Top Step | 82.00% | ~11,806 |
-| Setting up for Success | 69.00% | ~9,935 |
-| Team Orders | 68.00% | ~9,791 |
-| Engineer | 45.00% | ~6,479 |
-| Familiar Faces | 42.00% | ~6,047 |
-| Going the Extra Mile | 36.00% | ~5,183 |
-| Sharing the Love | 33.00% | ~4,751 |
-| Hitting a Season | 26.00% | ~3,743 |
-| Making History | 25.00% | ~3,600 |
-| A Dozen Pieces | 24.00% | ~3,456 |
-| Network Success | 23.00% | ~3,312 |
-| Challenge Yourself | 23.00% | ~3,312 |
-| Writing a new Chapter | 19.00% | ~2,736 |
-| Spring Cleaning | 18.00% | ~2,592 |
-| Reduce | 15.00% | ~2,160 |
-| Ups and Downs | 15.00% | ~2,160 |
-| Crucial Combo | 13.00% | ~1,872 |
+| Getting on the Step | 91.00% | ~13,108 |
+| On the Top Step | 82.00% | ~11,811 |
+| Setting up for Success | 69.00% | ~9,939 |
+| Team Orders | 68.00% | ~9,795 |
+| Engineer | 45.00% | ~6,482 |
+| Familiar Faces | 42.00% | ~6,050 |
+| Going the Extra Mile | 36.00% | ~5,185 |
+| Sharing the Love | 33.00% | ~4,753 |
+| Hitting a Season | 26.00% | ~3,745 |
+| Making History | 25.00% | ~3,601 |
+| A Dozen Pieces | 24.00% | ~3,457 |
+| Network Success | 23.00% | ~3,313 |
+| Challenge Yourself | 23.00% | ~3,313 |
+| Writing a new Chapter | 19.00% | ~2,737 |
+| Spring Cleaning | 18.00% | ~2,593 |
+| Reduce | 15.00% | ~2,161 |
+| Ups and Downs | 15.00% | ~2,161 |
+| Crucial Combo | 13.00% | ~1,873 |
 | Reuse | 12.00% | ~1,728 |
 | Proving Them Wrong | 12.00% | ~1,728 |
 | Gathering Dust | 11.00% | ~1,584 |
@@ -55,7 +55,7 @@ Rating: 4.66 (Ranked 302)
 | Shot in the Dark | 0.10% | ~14 |
 | Elite Racer | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,398 (Ranked 170)  
+Progressed: 14,404 (Ranked 171)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-29 | 13,578 | 0 |
 | 2023-12-30 | 13,937 | 0 |
 | 2023-12-31 | 14,268 | 0 |
-| 2024-01-01 | 14,398 | 0 |
+| 2024-01-01 | 14,404 | 0 |
 ## Awards
 Max (Diverse Characters): 54  (Ranked 437)  
 Sum: 345 (Ranked 366)  

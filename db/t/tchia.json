@@ -6,8 +6,8 @@
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 186,
-  "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_Completed": 233,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -269,11 +269,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8604,
+  "EOS_Progressed": 8608,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 303,
+  "EOS_NewPlayers": 306,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.4,
+  "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:52.5163739+00:00",
@@ -10589,6 +10589,11 @@
       "Time": "2024-01-01T14:08:56.8282624+00:00",
       "NumProgressed": 8604,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-01T15:08:35.3433675+00:00",
+      "NumProgressed": 8608,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -10750,9 +10755,9 @@
       "ID": "THE_JOURNEY_ONWARDS",
       "SetID": "3cck1g6",
       "Name": "The Journey Onwards",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 26
+      "UsersEstimate": 34
     },
     {
       "ID": "THING",
@@ -10767,7 +10772,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 8604,
+      "Progressed": 8608,
       "Completed": 34
     }
   ],
@@ -10775,8 +10780,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-12-30T15:00:00.2833765+00:00",
-  "LastChanged_Achievements": "2024-01-01T14:08:56.8282619+00:00",
+  "LastChanged_Achievements": "2024-01-01T15:08:35.3433672+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:18.6099916+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:58:14.4215666+00:00",
-  "LastUpdate_Achievements": "2024-01-01T14:08:56.8283271+00:00"
+  "LastUpdate_Ratings": "2024-01-01T14:57:59.9841359+00:00",
+  "LastUpdate_Achievements": "2024-01-01T15:08:35.3434654+00:00"
 }

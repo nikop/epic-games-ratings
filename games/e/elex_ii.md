@@ -6,10 +6,10 @@ Number of Ratings: 124  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 33.00% | ~52 |
+| Entrepreneur | 33.00% | ~53 |
 | Best Buddy | 28.00% | ~45 |
-| Civilian | 25.00% | ~40 |
 | Role Model | 24.00% | ~38 |
+| Civilian | 24.00% | ~38 |
 | Peddler | 19.00% | ~30 |
 | Military Leader | 19.00% | ~30 |
 | Creator | 19.00% | ~30 |
@@ -17,15 +17,15 @@ Number of Ratings: 124  (23.09.2022)
 | Commander | 14.00% | ~22 |
 | Long-Haul Flyer | 13.00% | ~21 |
 | Pass A38 | 13.00% | ~21 |
-| Irissa's Fate | 11.00% | ~17 |
+| Irissa's Fate | 11.00% | ~18 |
 | Berserker | 9.00% | ~14 |
 | Family Reunion | 9.00% | ~14 |
 | Storyteller | 8.00% | ~13 |
 | Globetrotter | 8.00% | ~13 |
 | Eternal Oblivion | 8.00% | ~13 |
 | Alb | 7.00% | ~11 |
+| Banker | 6.00% | ~10 |
 | Hunter | 6.00% | ~10 |
-| Banker | 5.00% | ~8 |
 | Beam Me Up | 4.00% | ~6 |
 | Hotshot | 4.00% | ~6 |
 | Free as a Bird | 4.00% | ~6 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Enforcer | 0.00% | ~0 |
 | Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 159 (Ranked 441)  
+Progressed: 160 (Ranked 441)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-29 | 131 | 0 |
 | 2023-12-30 | 141 | 0 |
 | 2023-12-31 | 154 | 0 |
-| 2024-01-01 | 159 | 0 |
+| 2024-01-01 | 160 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

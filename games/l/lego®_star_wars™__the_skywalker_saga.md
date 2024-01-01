@@ -6,33 +6,33 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 96.00% | ~54,568 |
-| ''I don't like you either!'' | 77.00% | ~43,768 |
-| ''Impressive, most impressive'' | 70.00% | ~39,789 |
-| ''You think you're some kind of Jedi?'' | 69.00% | ~39,221 |
-| The Phantom Menace | 57.00% | ~32,400 |
-| ''Aggressive Negotiations'' | 56.00% | ~31,832 |
-| ''I can fly anything'' | 55.00% | ~31,263 |
-| ''And who gave you permission...?'' | 51.00% | ~28,989 |
-| A New Hope | 46.00% | ~26,147 |
-| Attack of the Clones | 45.00% | ~25,579 |
-| Revenge of the Sith | 38.00% | ~21,600 |
-| The Empire Strikes Back | 36.00% | ~20,463 |
-| ''A fine addition to my collection'' | 36.00% | ~20,463 |
-| Return of the Jedi | 31.00% | ~17,621 |
-| The Force Awakens | 26.00% | ~14,779 |
-| The Last Jedi | 22.00% | ~12,505 |
-| The Rise of Skywalker | 19.00% | ~10,800 |
-| ''It's true... all of it'' | 18.00% | ~10,232 |
-| ''Get the crews to their fighters'' | 18.00% | ~10,232 |
-| ''Raw, untamed power'' | 8.00% | ~4,547 |
-| Rishi Maze | 5.00% | ~2,842 |
+| ''You guys got yourself a ship!'' | 96.00% | ~54,585 |
+| ''I don't like you either!'' | 77.00% | ~43,781 |
+| ''Impressive, most impressive'' | 70.00% | ~39,801 |
+| ''You think you're some kind of Jedi?'' | 69.00% | ~39,233 |
+| The Phantom Menace | 57.00% | ~32,410 |
+| ''Aggressive Negotiations'' | 56.00% | ~31,841 |
+| ''I can fly anything'' | 55.00% | ~31,272 |
+| ''And who gave you permission...?'' | 51.00% | ~28,998 |
+| A New Hope | 46.00% | ~26,155 |
+| Attack of the Clones | 45.00% | ~25,587 |
+| Revenge of the Sith | 38.00% | ~21,606 |
+| The Empire Strikes Back | 36.00% | ~20,469 |
+| ''A fine addition to my collection'' | 36.00% | ~20,469 |
+| Return of the Jedi | 31.00% | ~17,626 |
+| The Force Awakens | 25.00% | ~14,215 |
+| The Last Jedi | 22.00% | ~12,509 |
+| The Rise of Skywalker | 19.00% | ~10,803 |
+| ''It's true... all of it'' | 18.00% | ~10,235 |
+| ''Get the crews to their fighters'' | 18.00% | ~10,235 |
+| ''Raw, untamed power'' | 8.00% | ~4,549 |
+| Rishi Maze | 5.00% | ~2,843 |
 | ''Only one business in the Galaxy...'' | 4.00% | ~2,274 |
-| ''You may fire when ready'' | 3.00% | ~1,705 |
-| ''What have you done with those plans?'' | 3.00% | ~1,705 |
-| ''GONK!'' | 3.00% | ~1,705 |
-| ''Hey, what are you trying to push on us?'' | 3.00% | ~1,705 |
-| The Slice | 3.00% | ~1,705 |
+| ''You may fire when ready'' | 3.00% | ~1,706 |
+| ''What have you done with those plans?'' | 3.00% | ~1,706 |
+| ''GONK!'' | 3.00% | ~1,706 |
+| ''Hey, what are you trying to push on us?'' | 3.00% | ~1,706 |
+| The Slice | 3.00% | ~1,706 |
 | ''Hello there!'' | 2.00% | ~1,137 |
 | Unknown Regions | 2.00% | ~1,137 |
 | ''Do or do not. There is no try'' | 2.00% | ~1,137 |
@@ -49,10 +49,10 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''No more training, do you require'' | 2.00% | ~1,137 |
 | ''You needn't worry about your reward'' | 2.00% | ~1,137 |
 | ''Now I am the Master'' | 2.00% | ~1,137 |
-| ''Jedi Business'' | 1.00% | ~568 |
+| ''Jedi Business'' | 1.00% | ~569 |
 | ''I've never seen a real one!'' | 0.90% | ~512 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,842 (Ranked 120)  
+Progressed: 56,859 (Ranked 120)  
 Completed: 256 (0.45%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,14 +307,14 @@ Completed: 256 (0.45%) (Ranked 226)
 | 2023-12-29 | 56,104 | 254 |
 | 2023-12-30 | 56,437 | 255 |
 | 2023-12-31 | 56,744 | 256 |
-| 2024-01-01 | 56,842 | 256 |
+| 2024-01-01 | 56,859 | 256 |
 ## Awards
-Max (Great Boss Battles): 2,474  (Ranked 107)  
-Sum: 6,789 (Ranked 129)  
+Max (Great Boss Battles): 2,479  (Ranked 107)  
+Sum: 6,794 (Ranked 129)  
 Diff (max vs sum): -22  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,474 |
+| This game has Great Boss Battles | 2,479 |
 | This game is Great for Beginners | 525 |
 | This game has Diverse Characters | 520 |
 | This game has Amazing Characters | 497 |
@@ -612,4 +612,4 @@ Diff (max vs sum): -22
 | 2023-12-29 | 4.77 | - | 2,470 | 6,771 |
 | 2023-12-30 | 4.77 | - | 2,471 | 6,780 |
 | 2023-12-31 | 4.78 | - | 2,474 | 6,787 |
-| 2024-01-01 | 4.77 | - | 2,474 | 6,789 |
+| 2024-01-01 | 4.77 | - | 2,479 | 6,794 |

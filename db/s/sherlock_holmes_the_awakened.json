@@ -2,12 +2,12 @@
   "ID": "f9bc208b965c4fb7afd0c842d764fc37",
   "Name": "Sherlock Holmes The Awakened",
   "ProductSlug": "sherlock-holmes-the-awakened",
-  "Ranking_Rating": 614,
+  "Ranking_Rating": 613,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
-  "Ranking_EOS_Progress": 268,
+  "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -163,9 +163,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1371,
+  "EOS_Progressed": 1372,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.77,
   "EosHistory": [
@@ -4813,6 +4813,11 @@
       "Time": "2024-01-01T05:05:04.4281395+00:00",
       "NumProgressed": 1371,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2024-01-01T15:04:34.1504037+00:00",
+      "NumProgressed": 1372,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 28,
@@ -4832,7 +4837,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "MQ02_1",
@@ -4840,7 +4845,7 @@
       "Name": "High Profile",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "MQ02_2",
@@ -4888,7 +4893,7 @@
       "Name": "History Check",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "MQ03_4",
@@ -4904,7 +4909,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "MQ04_1",
@@ -4968,7 +4973,7 @@
       "Name": "Brain Food",
       "Percentage": 30,
       "XP": 40,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "MQ06_2",
@@ -4976,7 +4981,7 @@
       "Name": "Bookworm",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "MQ06_3",
@@ -4992,7 +4997,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "MQ07_1",
@@ -5000,7 +5005,7 @@
       "Name": "Read It And Weep",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "MQ07_2",
@@ -5008,7 +5013,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "MQ08_1",
@@ -5047,7 +5052,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1371,
+      "Progressed": 1372,
       "Completed": 38
     }
   ],
@@ -5055,8 +5060,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-27T11:03:12.3161328+00:00",
-  "LastChanged_Achievements": "2024-01-01T14:05:36.781832+00:00",
+  "LastChanged_Achievements": "2024-01-01T15:04:34.1504029+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:32.3322639+00:00",
-  "LastUpdate_Ratings": "2024-01-01T14:03:34.748872+00:00",
-  "LastUpdate_Achievements": "2024-01-01T14:05:36.7818713+00:00"
+  "LastUpdate_Ratings": "2024-01-01T15:03:09.3431089+00:00",
+  "LastUpdate_Achievements": "2024-01-01T15:04:34.1504413+00:00"
 }

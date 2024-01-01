@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 44,
-  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewPlayers": 293,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2833,
+  "EOS_Progressed": 2834,
   "EOS_Completed": 261,
   "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 4,
@@ -8141,6 +8141,11 @@
       "Time": "2024-01-01T10:08:42.7380162+00:00",
       "NumProgressed": 2833,
       "NumCompleted": 261
+    },
+    {
+      "Time": "2024-01-01T15:09:00.2344359+00:00",
+      "NumProgressed": 2834,
+      "NumCompleted": 261
     }
   ],
   "TotalAchievements": 12,
@@ -8216,7 +8221,7 @@
       "Name": "Little Helper",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -8247,7 +8252,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2833,
+      "Progressed": 2834,
       "Completed": 261
     }
   ],
@@ -8255,8 +8260,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2024-01-01T14:09:31.8494912+00:00",
+  "LastChanged_Achievements": "2024-01-01T15:09:00.2344355+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:43.1784537+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:58:20.5717834+00:00",
-  "LastUpdate_Achievements": "2024-01-01T14:09:31.8495405+00:00"
+  "LastUpdate_Ratings": "2024-01-01T14:58:04.4442056+00:00",
+  "LastUpdate_Achievements": "2024-01-01T15:09:00.2344993+00:00"
 }

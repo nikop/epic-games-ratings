@@ -1,31 +1,31 @@
 # Sunless Sea
 [Store](https://store.epicgames.com/en-US/p/sunless-sea)  
 [View Rawdata](../../db/s/sunless_sea.json)  
-Rating: 4.59 (Ranked 446)  
+Rating: 4.59 (Ranked 445)  
 Number of Ratings: 401  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~15,601 |
-| Sweet Sorrow | 18.00% | ~7,800 |
-| Rules the Waves | 17.00% | ~7,367 |
-| Thou, All-Shaking Thunder | 15.00% | ~6,500 |
-| Rival | 14.00% | ~6,067 |
-| Correspondent | 12.00% | ~5,200 |
-| Lose Your Mind | 12.00% | ~5,200 |
-| Sound Mind? | 12.00% | ~5,200 |
+| Sink Beneath the Waves | 36.00% | ~15,602 |
+| Sweet Sorrow | 18.00% | ~7,801 |
+| Rules the Waves | 17.00% | ~7,368 |
+| Thou, All-Shaking Thunder | 15.00% | ~6,501 |
+| Rival | 14.00% | ~6,068 |
+| Correspondent | 12.00% | ~5,201 |
+| Lose Your Mind | 12.00% | ~5,201 |
+| Sound Mind? | 12.00% | ~5,201 |
 | Salt's Curse | 11.00% | ~4,767 |
 | HE SUN THE SUN THE SUN T | 11.00% | ~4,767 |
 | The Fall of the House | 11.00% | ~4,767 |
 | Shipmate | 11.00% | ~4,767 |
 | One Year at Zee | 8.00% | ~3,467 |
-| Pupil | 7.00% | ~3,033 |
-| Salvager | 7.00% | ~3,033 |
-| Open Your Ears | 7.00% | ~3,033 |
-| The Ascent of Man | 7.00% | ~3,033 |
+| Pupil | 7.00% | ~3,034 |
+| Salvager | 7.00% | ~3,034 |
+| Open Your Ears | 7.00% | ~3,034 |
+| The Ascent of Man | 7.00% | ~3,034 |
 | Zee Fever | 5.00% | ~2,167 |
-| Old Unhappy Far-Off Things | 4.00% | ~1,733 |
-| Sink Beneath the Waves. Again. | 4.00% | ~1,733 |
+| Old Unhappy Far-Off Things | 4.00% | ~1,734 |
+| Sink Beneath the Waves. Again. | 4.00% | ~1,734 |
 | Storm's Curse | 3.00% | ~1,300 |
 | We're Gonna Need a Bigger Boat | 3.00% | ~1,300 |
 | Come Closer | 3.00% | ~1,300 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~43 |
 | Ten Years at Zee | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,335 (Ranked 129)  
+Progressed: 43,340 (Ranked 129)  
 Completed: 4 (0.01%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 4 (0.01%) (Ranked 368)
 | 2023-12-29 | 43,162 | 4 |
 | 2023-12-30 | 43,235 | 4 |
 | 2023-12-31 | 43,307 | 4 |
-| 2024-01-01 | 43,335 | 4 |
+| 2024-01-01 | 43,340 | 4 |
 ## Awards
 Max (Character Customization): 221  (Ranked 289)  
 Sum: 315 (Ranked 375)  

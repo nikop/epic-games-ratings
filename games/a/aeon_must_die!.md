@@ -13,7 +13,7 @@
 | Balance Incarnate | 10.00% | ~362 |
 | Purpose Lost | 7.00% | ~254 |
 | A Scarlet Mark | 7.00% | ~254 |
-| Hot Potato | 6.00% | ~217 |
+| Hot Potato | 6.00% | ~218 |
 | Emperor's Hubris | 4.00% | ~145 |
 | Nothing To Lose | 4.00% | ~145 |
 | Dreams Of Perfection | 3.00% | ~109 |
@@ -40,7 +40,7 @@
 | Full Might Of The Armada | 0.10% | ~4 |
 | The Many Fates Of The Many | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,624 (Ranked 217)  
+Progressed: 3,625 (Ranked 217)  
 Completed: -28 (-0.77%) (Ranked 3,795)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: -28 (-0.77%) (Ranked 3,795)
 | 2023-12-29 | 3,619 | -28 |
 | 2023-12-30 | 3,622 | -28 |
 | 2023-12-31 | 3,623 | -28 |
-| 2024-01-01 | 3,624 | -28 |
+| 2024-01-01 | 3,625 | -28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

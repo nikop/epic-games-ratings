@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_NewPlayers": 368,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -219,9 +219,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5222,
+  "EOS_Progressed": 5223,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -1094,6 +1094,11 @@
       "Time": "2023-12-31T21:06:29.4371513+00:00",
       "NumProgressed": 5222,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-01T15:05:29.3485695+00:00",
+      "NumProgressed": 5223,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 49,
@@ -1105,7 +1110,7 @@
       "Name": "Employee of the Month",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 1932
+      "UsersEstimate": 1933
     },
     {
       "ID": "ACHIEVE_3_OFFSHOOTS_COMPLETE",
@@ -1121,7 +1126,7 @@
       "Name": "I Believe I Can Fly",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1932
+      "UsersEstimate": 1933
     },
     {
       "ID": "ACHIEVE_50_BONES",
@@ -1161,7 +1166,7 @@
       "Name": "Jerk-Slayer",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2245
+      "UsersEstimate": 2246
     },
     {
       "ID": "ACHIEVE_50_ICE",
@@ -1185,7 +1190,7 @@
       "Name": "Hot Potato",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "ACHIEVE_50_MUSHROOMS",
@@ -1209,7 +1214,7 @@
       "Name": "Timber!",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 3185
+      "UsersEstimate": 3186
     },
     {
       "ID": "ACHIEVE_ATE_FOOD_3",
@@ -1233,7 +1238,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5118
+      "UsersEstimate": 5119
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -1313,7 +1318,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4073
+      "UsersEstimate": 4074
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -1377,7 +1382,7 @@
       "Name": "Survive the Bombsequences",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3081
+      "UsersEstimate": 3082
     },
     {
       "ID": "ACHIEVE_LVL_180_COMPLETE",
@@ -1393,7 +1398,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5118
+      "UsersEstimate": 5119
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -1481,7 +1486,7 @@
       "Name": "Pardon my Slob",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1723
+      "UsersEstimate": 1724
     },
     {
       "ID": "ACHIEVE_WOKE_UP_INN",
@@ -1496,15 +1501,15 @@
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5222,
+      "Progressed": 5223,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-12-26T18:58:09.3460811+00:00",
-  "LastChanged_Achievements": "2024-01-01T14:06:54.9271547+00:00",
+  "LastChanged_Achievements": "2024-01-01T15:05:29.3485691+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:55.5067997+00:00",
-  "LastUpdate_Ratings": "2024-01-01T14:02:48.8513167+00:00",
-  "LastUpdate_Achievements": "2024-01-01T14:06:54.927189+00:00"
+  "LastUpdate_Ratings": "2024-01-01T15:02:38.5835101+00:00",
+  "LastUpdate_Achievements": "2024-01-01T15:05:29.3486102+00:00"
 }

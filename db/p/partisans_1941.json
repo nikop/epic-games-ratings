@@ -2,12 +2,12 @@
   "ID": "aa102e1c575d42868a11ac8e79af2126",
   "Name": "Partisans 1941",
   "ProductSlug": "partisans-1941",
-  "Ranking_Rating": 378,
+  "Ranking_Rating": 377,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewPlayers": 301,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -4976,8 +4976,8 @@
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2024-01-01T14:10:13.1925385+00:00",
+  "LastChanged_Achievements": "2024-01-01T15:09:29.7963181+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:23.7315333+00:00",
-  "LastUpdate_Ratings": "2024-01-01T14:03:17.5642491+00:00",
-  "LastUpdate_Achievements": "2024-01-01T14:10:13.1925752+00:00"
+  "LastUpdate_Ratings": "2024-01-01T15:02:58.3708645+00:00",
+  "LastUpdate_Achievements": "2024-01-01T15:09:29.7963665+00:00"
 }

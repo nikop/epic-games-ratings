@@ -311,9 +311,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2592,
+  "EOS_Progressed": 2593,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7486,6 +7486,11 @@
       "Time": "2024-01-01T14:06:42.5352115+00:00",
       "NumProgressed": 2592,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T15:05:20.6540715+00:00",
+      "NumProgressed": 2593,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -7505,7 +7510,7 @@
       "Name": "Stoker",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "A02",
@@ -7561,7 +7566,7 @@
       "Name": "Conductor",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "A09",
@@ -7577,7 +7582,7 @@
       "Name": "From X to Y",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1918
+      "UsersEstimate": 1919
     },
     {
       "ID": "A11",
@@ -7593,7 +7598,7 @@
       "Name": "Departure",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1918
+      "UsersEstimate": 1919
     },
     {
       "ID": "A13",
@@ -7609,7 +7614,7 @@
       "Name": "A new Journey",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1944
+      "UsersEstimate": 1945
     },
     {
       "ID": "A15",
@@ -7617,7 +7622,7 @@
       "Name": "Full Steam ahead",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 855
+      "UsersEstimate": 856
     },
     {
       "ID": "A16",
@@ -7625,7 +7630,7 @@
       "Name": "Traffic Jam",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "A17",
@@ -7655,9 +7660,9 @@
       "ID": "A20",
       "SetID": "9b7p7eo",
       "Name": "Country Bumpkin",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 1996
+      "UsersEstimate": 1971
     },
     {
       "ID": "A21",
@@ -7721,7 +7726,7 @@
       "Name": "We brake for nobody",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1788
+      "UsersEstimate": 1789
     },
     {
       "ID": "A29",
@@ -7785,7 +7790,7 @@
       "Name": "Way of Iron",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 1840
+      "UsersEstimate": 1841
     },
     {
       "ID": "A37",
@@ -7793,7 +7798,7 @@
       "Name": "All around the World",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 1659
+      "UsersEstimate": 1660
     },
     {
       "ID": "A38",
@@ -7825,7 +7830,7 @@
       "Name": "Right through the middle",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 1529
+      "UsersEstimate": 1530
     },
     {
       "ID": "A42",
@@ -7865,7 +7870,7 @@
       "Name": "Mystery Tour",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1814
+      "UsersEstimate": 1815
     },
     {
       "ID": "A47",
@@ -7881,7 +7886,7 @@
       "Name": "Bull and bear",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 907
+      "UsersEstimate": 908
     },
     {
       "ID": "A49",
@@ -7936,7 +7941,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 2592,
+      "Progressed": 2593,
       "Completed": 0
     }
   ],
@@ -7944,8 +7949,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-12-27T17:00:03.776976+00:00",
-  "LastChanged_Achievements": "2024-01-01T14:06:42.5352111+00:00",
+  "LastChanged_Achievements": "2024-01-01T15:05:20.654071+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:54.9390802+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:58:58.9939503+00:00",
-  "LastUpdate_Achievements": "2024-01-01T14:06:42.5352736+00:00"
+  "LastUpdate_Ratings": "2024-01-01T14:58:31.2928007+00:00",
+  "LastUpdate_Achievements": "2024-01-01T15:05:20.6541442+00:00"
 }

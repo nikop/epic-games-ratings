@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -353,9 +353,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24507,
+  "EOS_Progressed": 24512,
   "EOS_Completed": 118,
-  "EOS_NewPlayers": 470,
+  "EOS_NewPlayers": 472,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -21753,6 +21753,11 @@
       "Time": "2024-01-01T14:06:17.5973631+00:00",
       "NumProgressed": 24507,
       "NumCompleted": 118
+    },
+    {
+      "Time": "2024-01-01T15:05:03.1104772+00:00",
+      "NumProgressed": 24512,
+      "NumCompleted": 118
     }
   ],
   "TotalAchievements": 16,
@@ -21764,7 +21769,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 24,
       "XP": 90,
-      "UsersEstimate": 5882
+      "UsersEstimate": 5883
     },
     {
       "ID": "Burning_For_You",
@@ -21772,7 +21777,7 @@
       "Name": "Burning For You",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 6372
+      "UsersEstimate": 6373
     },
     {
       "ID": "Deadline",
@@ -21780,7 +21785,7 @@
       "Name": "Deadline",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 3186
+      "UsersEstimate": 3187
     },
     {
       "ID": "Dont_Fear_The_Reaper",
@@ -21804,7 +21809,7 @@
       "Name": "Feel The Thunder",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 1225
+      "UsersEstimate": 1226
     },
     {
       "ID": "Fireworks",
@@ -21812,7 +21817,7 @@
       "Name": "Fireworks",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 7352
+      "UsersEstimate": 7354
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -21820,7 +21825,7 @@
       "Name": "Harvester Of Eyes",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 1470
+      "UsersEstimate": 1471
     },
     {
       "ID": "I_Am_The_Storm",
@@ -21828,7 +21833,7 @@
       "Name": "I Am The Storm",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 3921
+      "UsersEstimate": 3922
     },
     {
       "ID": "Make_Rock_Not_War",
@@ -21836,7 +21841,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 9558
+      "UsersEstimate": 9560
     },
     {
       "ID": "Mirrors",
@@ -21860,7 +21865,7 @@
       "Name": "Shooting Shark",
       "Percentage": 47,
       "XP": 90,
-      "UsersEstimate": 11518
+      "UsersEstimate": 11521
     },
     {
       "ID": "Sole_Survivor",
@@ -21868,7 +21873,7 @@
       "Name": "Sole Survivor",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 8577
+      "UsersEstimate": 8579
     },
     {
       "ID": "Still_Burning",
@@ -21876,7 +21881,7 @@
       "Name": "Still Burnin\u0027",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 3921
+      "UsersEstimate": 3922
     },
     {
       "ID": "The_Reaper",
@@ -21884,22 +21889,22 @@
       "Name": "The Reaper",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 1470
+      "UsersEstimate": 1471
     }
   ],
   "AchievementSets": [
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 24507,
+      "Progressed": 24512,
       "Completed": 118
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-12-26T13:00:27.7460321+00:00",
-  "LastChanged_Achievements": "2024-01-01T14:06:17.5973627+00:00",
+  "LastChanged_Achievements": "2024-01-01T15:05:03.1104769+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:56.3485527+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:57:01.8337241+00:00",
-  "LastUpdate_Achievements": "2024-01-01T14:06:17.5974768+00:00"
+  "LastUpdate_Ratings": "2024-01-01T14:57:10.952704+00:00",
+  "LastUpdate_Achievements": "2024-01-01T15:05:03.1106155+00:00"
 }

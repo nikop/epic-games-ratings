@@ -2,7 +2,7 @@
   "ID": "6ff9efdef6dc45ecb40ed20fcd2c4621",
   "Name": "Darkest Dungeon II",
   "ProductSlug": "darkest-dungeon-2",
-  "Ranking_Rating": 263,
+  "Ranking_Rating": 262,
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 90,
@@ -10306,10 +10306,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 21312,
       "NumberOfAwardsMax": 7919
+    },
+    {
+      "Time": "2024-01-01T14:58:15.0845725+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21317,
+      "NumberOfAwardsMax": 7919
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21312,
+  "NumberOfAwards": 21317,
   "NumberOfAwardsMax": 7919,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10377,7 +10383,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1426
+      "Count": 1431
     },
     {
       "Text": "This game has a Creative Community",
@@ -10386,9 +10392,9 @@
       "Count": 1071
     }
   ],
-  "EOS_Progressed": 131125,
+  "EOS_Progressed": 131133,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1344,
+  "EOS_NewPlayers": 1338,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37821,6 +37827,11 @@
       "Time": "2024-01-01T14:10:11.3282289+00:00",
       "NumProgressed": 131125,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-01T15:09:28.3981858+00:00",
+      "NumProgressed": 131133,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37840,7 +37851,7 @@
       "Name": "Serenity Now!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6556
+      "UsersEstimate": 6557
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -37904,7 +37915,7 @@
       "Name": "Boxcar Kid",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2622
+      "UsersEstimate": 2623
     },
     {
       "ID": "altar_of_hope_unlock_hero_vestal",
@@ -37928,7 +37939,7 @@
       "Name": "This Looks Familiar",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2622
+      "UsersEstimate": 2623
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -37936,7 +37947,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2622
+      "UsersEstimate": 2623
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -37952,7 +37963,7 @@
       "Name": "Predator",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2622
+      "UsersEstimate": 2623
     },
     {
       "ID": "combat_kill_antiquarian",
@@ -37960,7 +37971,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6556
+      "UsersEstimate": 6557
     },
     {
       "ID": "combat_kill_cadavers",
@@ -37992,7 +38003,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6556
+      "UsersEstimate": 6557
     },
     {
       "ID": "combat_kill_fanatics",
@@ -38008,7 +38019,7 @@
       "Name": "Ichthyophobic",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2622
+      "UsersEstimate": 2623
     },
     {
       "ID": "combat_kill_gaunts",
@@ -38024,7 +38035,7 @@
       "Name": "No More Mouths to Feed",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2622
+      "UsersEstimate": 2623
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -38056,7 +38067,7 @@
       "Name": "Overdue Notice",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6556
+      "UsersEstimate": 6557
     },
     {
       "ID": "combat_kill_pillagers",
@@ -38064,7 +38075,7 @@
       "Name": "Reverse Banditry",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2622
+      "UsersEstimate": 2623
     },
     {
       "ID": "combat_kill_shambler",
@@ -38072,7 +38083,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6556
+      "UsersEstimate": 6557
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -38232,7 +38243,7 @@
       "Name": "When You Want Something Done Right",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2622
+      "UsersEstimate": 2623
     },
     {
       "ID": "inn_replacement_hero_add",
@@ -38248,7 +38259,7 @@
       "Name": "Worldly Traveller",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2622
+      "UsersEstimate": 2623
     },
     {
       "ID": "relationships_all_negative_mountain",
@@ -38264,7 +38275,7 @@
       "Name": "Utopia",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2622
+      "UsersEstimate": 2623
     },
     {
       "ID": "roster_confirm_all_memoried",
@@ -38272,7 +38283,7 @@
       "Name": "Eidetic",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "run_end_abandon",
@@ -38296,7 +38307,7 @@
       "Name": "Hot Air",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2622
+      "UsersEstimate": 2623
     },
     {
       "ID": "run_victory_act03",
@@ -38304,7 +38315,7 @@
       "Name": "Eyes Up",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2622
+      "UsersEstimate": 2623
     },
     {
       "ID": "run_victory_act04",
@@ -38344,7 +38355,7 @@
       "Name": "Road Trip",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2622
+      "UsersEstimate": 2623
     },
     {
       "ID": "altar_of_hope_memory_equip_all_crusader",
@@ -38368,7 +38379,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "combat_kill_collector",
@@ -38463,21 +38474,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131125,
+      "Progressed": 131133,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 5994,
+      "Progressed": 6002,
       "Completed": 820
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-01T08:58:18.5708856+00:00",
-  "LastChanged_Achievements": "2024-01-01T14:10:11.3282285+00:00",
+  "LastChanged": "2024-01-01T14:58:15.084572+00:00",
+  "LastChanged_Achievements": "2024-01-01T15:09:28.3981853+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:58:35.9683151+00:00",
-  "LastUpdate_Achievements": "2024-01-01T14:10:11.3284064+00:00"
+  "LastUpdate_Ratings": "2024-01-01T14:58:15.084573+00:00",
+  "LastUpdate_Achievements": "2024-01-01T15:09:28.3983626+00:00"
 }

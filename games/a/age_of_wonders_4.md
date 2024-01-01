@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.63 (Ranked 359)  
+Rating: 4.63 (Ranked 358)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -20,7 +20,7 @@ Rating: 4.63 (Ranked 359)
 | In a Liege of Your Own | 5.00% | ~333 |
 | Intimidation Tactics | 5.00% | ~333 |
 | But this one is mine | 5.00% | ~333 |
-| My Final Form | 4.00% | ~266 |
+| My Final Form | 4.00% | ~267 |
 | Return of the Wizard King | 3.00% | ~200 |
 | Enchanted Archipelago | 3.00% | ~200 |
 | Digging for Treasure | 3.00% | ~200 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 359)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,662 (Ranked 195)  
+Progressed: 6,664 (Ranked 195)  
 Completed: 7 (0.11%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 7 (0.11%) (Ranked 302)
 | 2023-12-29 | 6,495 | 7 |
 | 2023-12-30 | 6,566 | 7 |
 | 2023-12-31 | 6,624 | 7 |
-| 2024-01-01 | 6,662 | 7 |
+| 2024-01-01 | 6,664 | 7 |
 ## Awards
 Max (Great for Beginners): 39  (Ranked 479)  
 Sum: 184 (Ranked 423)  

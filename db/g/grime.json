@@ -2,13 +2,13 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 446,
+  "Ranking_Rating": 445,
   "Ranking_Popularity": 424,
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 12,
+  "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1795,9 +1795,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 165910,
+  "EOS_Progressed": 165921,
   "EOS_Completed": 433,
-  "EOS_NewPlayers": 1491,
+  "EOS_NewPlayers": 1492,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -21440,6 +21440,11 @@
       "Time": "2024-01-01T14:05:20.3621882+00:00",
       "NumProgressed": 165910,
       "NumCompleted": 433
+    },
+    {
+      "Time": "2024-01-01T15:04:22.6447156+00:00",
+      "NumProgressed": 165921,
+      "NumCompleted": 433
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -21492,7 +21497,7 @@
       "Name": "Zygote",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ACQUIRE_HUNTPOINT",
@@ -21516,7 +21521,7 @@
       "Name": "Taste",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4977
+      "UsersEstimate": 4978
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -21554,9 +21559,9 @@
       "ID": "DEFEAT_FLOWERHEART",
       "SetID": "72k7oh",
       "Name": "Scion",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 827
+      "UsersEstimate": 993
     },
     {
       "ID": "DEFEAT_FLOWERROCKGIANT",
@@ -21572,7 +21577,7 @@
       "Name": "Host",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "DEFEAT_GRIEVINGROCKGIANT",
@@ -21596,7 +21601,7 @@
       "Name": "Jawcrab",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     },
     {
       "ID": "DEFEAT_JAWSTAG",
@@ -21628,7 +21633,7 @@
       "Name": "Feast",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     },
     {
       "ID": "DEFEAT_WATCHER",
@@ -21668,7 +21673,7 @@
       "Name": "Imprint",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4977
+      "UsersEstimate": 4978
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -21708,7 +21713,7 @@
       "Name": "Yank",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     },
     {
       "ID": "MISC_REACHHIGHLEVEL",
@@ -21748,7 +21753,7 @@
       "Name": "Dream",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "QUEST_CODA",
@@ -21764,7 +21769,7 @@
       "Name": "Kin",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "QUEST_LISTENER",
@@ -21772,7 +21777,7 @@
       "Name": "Listen",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "QUEST_YON",
@@ -21788,7 +21793,7 @@
       "Name": "The Nightmare",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "MISC_FINISHNG",
@@ -21796,7 +21801,7 @@
       "Name": "Touch of Otherwhere",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "MISC_OVERLOADITEM",
@@ -21804,7 +21809,7 @@
       "Name": "Enrich",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "MISC_OVERLOADTRAIT",
@@ -21812,28 +21817,28 @@
       "Name": "Intensify",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     }
   ],
   "AchievementSets": [
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 165493,
+      "Progressed": 165504,
       "Completed": 1250
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 165910,
+      "Progressed": 165921,
       "Completed": 433
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-01T13:01:50.6717718+00:00",
-  "LastChanged_Achievements": "2024-01-01T14:05:20.3621878+00:00",
+  "LastChanged_Achievements": "2024-01-01T15:04:22.6447152+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:50.3299145+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:58:57.6653112+00:00",
-  "LastUpdate_Achievements": "2024-01-01T14:05:20.3623056+00:00"
+  "LastUpdate_Ratings": "2024-01-01T14:58:30.3697712+00:00",
+  "LastUpdate_Achievements": "2024-01-01T15:04:22.6448808+00:00"
 }

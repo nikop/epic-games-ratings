@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 84.00% | ~210 |
-| A piece of the story | 61.00% | ~152 |
-| It's covered up for a reason | 54.00% | ~135 |
-| Wanderer | 53.00% | ~132 |
+| Something important | 84.00% | ~211 |
+| A piece of the story | 61.00% | ~153 |
+| It's covered up for a reason | 53.00% | ~133 |
+| Wanderer | 53.00% | ~133 |
 | Scraps of love | 47.00% | ~118 |
-| The artist’s impression | 46.00% | ~115 |
-| Do what you have to | 41.00% | ~102 |
-| Sign of weakness | 38.00% | ~95 |
+| The artist’s impression | 45.00% | ~113 |
+| Do what you have to | 41.00% | ~103 |
+| Sign of weakness | 37.00% | ~93 |
 | Refuse to look | 34.00% | ~85 |
 | Face your fears | 28.00% | ~70 |
 | Finished it | 26.00% | ~65 |
 | Whispers long forgotten | 16.00% | ~40 |
-| Sound Bite | 13.00% | ~32 |
+| Sound Bite | 13.00% | ~33 |
 | A Slice of Life | 12.00% | ~30 |
 | Debut | 12.00% | ~30 |
 | The art of movement | 12.00% | ~30 |
@@ -27,7 +27,7 @@
 | A new way | 10.00% | ~25 |
 | First steps | 10.00% | ~25 |
 | The tragedy unfolds | 10.00% | ~25 |
-| Breaking free | 9.00% | ~22 |
+| Breaking free | 9.00% | ~23 |
 | True Reflection | 7.00% | ~18 |
 | Casting Finished | 6.00% | ~15 |
 | Heavy Burden | 6.00% | ~15 |
@@ -45,9 +45,9 @@
 | Preferred Parent | 2.00% | ~5 |
 | Se7en Seas | 2.00% | ~5 |
 | A Mosaic of Misery | 2.00% | ~5 |
-| The Big Picture | 1.00% | ~2 |
-| In One Take | 1.00% | ~2 |
-| Sword of the Serpent | 1.00% | ~2 |
+| The Big Picture | 1.00% | ~3 |
+| In One Take | 1.00% | ~3 |
+| Sword of the Serpent | 1.00% | ~3 |
 | Rocket Science | 0.80% | ~2 |
 | You Can’t Handle the Truth | 0.40% | ~1 |
 | The Tree and the Apple | 0.40% | ~1 |
@@ -57,7 +57,7 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250 (Ranked 407)  
+Progressed: 251 (Ranked 407)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,4 +127,4 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-29 | 227 | 0 |
 | 2023-12-30 | 235 | 0 |
 | 2023-12-31 | 243 | 0 |
-| 2024-01-01 | 250 | 0 |
+| 2024-01-01 | 251 | 0 |

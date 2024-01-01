@@ -1417,9 +1417,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 260076,
+  "EOS_Progressed": 260079,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 314,
+  "EOS_NewPlayers": 316,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25927,6 +25927,11 @@
       "Time": "2024-01-01T14:06:10.9148305+00:00",
       "NumProgressed": 260076,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-01T15:04:58.3911489+00:00",
+      "NumProgressed": 260079,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -25938,7 +25943,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 18205
+      "UsersEstimate": 18206
     },
     {
       "ID": "Act2",
@@ -26226,7 +26231,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59817
+      "UsersEstimate": 59818
     },
     {
       "ID": "KillOthers2",
@@ -26385,7 +26390,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 260076,
+      "Progressed": 260079,
       "Completed": 3
     }
   ],
@@ -26393,8 +26398,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2024-01-01T09:57:51.6910853+00:00",
-  "LastChanged_Achievements": "2024-01-01T14:06:10.9148302+00:00",
+  "LastChanged_Achievements": "2024-01-01T15:04:58.3911486+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:41.7689812+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:58:10.5921829+00:00",
-  "LastUpdate_Achievements": "2024-01-01T14:06:10.9149604+00:00"
+  "LastUpdate_Ratings": "2024-01-01T14:57:58.3424536+00:00",
+  "LastUpdate_Achievements": "2024-01-01T15:04:58.3912999+00:00"
 }

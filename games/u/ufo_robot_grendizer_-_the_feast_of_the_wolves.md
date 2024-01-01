@@ -12,8 +12,8 @@
 | First Contact | 37.00% | ~21 |
 | Technology first! | 19.00% | ~11 |
 | The Exterminator | 19.00% | ~11 |
+| Earth's Savior | 16.00% | ~9 |
 | The Keeper of Fleed | 14.00% | ~8 |
-| Earth's Savior | 14.00% | ~8 |
 | The Collector | 11.00% | ~6 |
 | The Broken Guard | 7.00% | ~4 |
 | The Vega Turtle | 7.00% | ~4 |

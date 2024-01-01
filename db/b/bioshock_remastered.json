@@ -2,12 +2,12 @@
   "ID": "e9e3ee13329f434f94105e6ec63435e0",
   "Name": "BioShock Remastered",
   "ProductSlug": "bioshock-remastered",
-  "Ranking_Rating": 347,
+  "Ranking_Rating": 346,
   "Ranking_Popularity": 65,
   "Ranking_PopularitySum": 122,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewPlayers": 571,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-06-02T15:00:00+00:00",
@@ -2853,6 +2853,6 @@
   "FirstSeen": "2022-07-22T20:33:07.4798792+00:00",
   "LastChanged": "2024-01-01T13:01:12.6312287+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:41.3996991+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:58:07.5481077+00:00",
-  "LastUpdate_Achievements": "2024-01-01T14:06:33.4171008+00:00"
+  "LastUpdate_Ratings": "2024-01-01T14:57:56.5797774+00:00",
+  "LastUpdate_Achievements": "2024-01-01T15:05:14.0665596+00:00"
 }

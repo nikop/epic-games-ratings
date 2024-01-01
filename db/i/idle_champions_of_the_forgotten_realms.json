@@ -9253,9 +9253,9 @@
       "Count": 3617
     }
   ],
-  "EOS_Progressed": 249018,
+  "EOS_Progressed": 249052,
   "EOS_Completed": 2583,
-  "EOS_NewPlayers": 4546,
+  "EOS_NewPlayers": 4559,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -38233,6 +38233,11 @@
       "Time": "2024-01-01T14:10:57.7541768+00:00",
       "NumProgressed": 249018,
       "NumCompleted": 2583
+    },
+    {
+      "Time": "2024-01-01T15:10:03.169212+00:00",
+      "NumProgressed": 249052,
+      "NumCompleted": 2583
     }
   ],
   "TotalAchievements": 546,
@@ -38244,7 +38249,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7471
+      "UsersEstimate": 7472
     },
     {
       "ID": "objective_completed_10",
@@ -39916,7 +39921,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2490
+      "UsersEstimate": 2491
     },
     {
       "ID": "objective_completed_34",
@@ -42532,7 +42537,7 @@
       "Name": "Welcome to Sigil",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1722
+      "UsersEstimate": 1723
     },
     {
       "ID": "objective_completed_1558",
@@ -42564,7 +42569,7 @@
       "Name": "The Overgrown Grove",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1076
+      "UsersEstimate": 1077
     },
     {
       "ID": "objective_completed_673",
@@ -42611,21 +42616,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 215292,
+      "Progressed": 215326,
       "Completed": 4117
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 249018,
+      "Progressed": 249052,
       "Completed": 2583
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-01T13:00:55.8356335+00:00",
-  "LastChanged_Achievements": "2024-01-01T14:10:57.7541765+00:00",
+  "LastChanged_Achievements": "2024-01-01T15:10:03.1692116+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:57:43.439123+00:00",
-  "LastUpdate_Achievements": "2024-01-01T14:10:57.756588+00:00"
+  "LastUpdate_Ratings": "2024-01-01T14:57:38.4011933+00:00",
+  "LastUpdate_Achievements": "2024-01-01T15:10:03.171627+00:00"
 }

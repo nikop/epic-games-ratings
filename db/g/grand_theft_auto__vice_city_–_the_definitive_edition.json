@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 430,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -1045,9 +1045,9 @@
       "Count": 172
     }
   ],
-  "EOS_Progressed": 14931,
+  "EOS_Progressed": 14941,
   "EOS_Completed": 84,
-  "EOS_NewPlayers": 986,
+  "EOS_NewPlayers": 987,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -16625,6 +16625,11 @@
       "Time": "2024-01-01T14:10:16.295883+00:00",
       "NumProgressed": 14931,
       "NumCompleted": 84
+    },
+    {
+      "Time": "2024-01-01T15:09:32.0895288+00:00",
+      "NumProgressed": 14941,
+      "NumCompleted": 84
     }
   ],
   "TotalAchievements": 34,
@@ -16652,7 +16657,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 1493
+      "UsersEstimate": 1494
     },
     {
       "ID": "ACH04",
@@ -16692,7 +16697,7 @@
       "Name": "Pie Guy",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "ACH09",
@@ -16716,7 +16721,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1642
+      "UsersEstimate": 1644
     },
     {
       "ID": "ACH12",
@@ -16740,7 +16745,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 6271
+      "UsersEstimate": 6275
     },
     {
       "ID": "ACH15",
@@ -16764,7 +16769,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1344
+      "UsersEstimate": 1345
     },
     {
       "ID": "ACH18",
@@ -16796,7 +16801,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 6868
+      "UsersEstimate": 6873
     },
     {
       "ID": "ACH22",
@@ -16804,7 +16809,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2986
+      "UsersEstimate": 2988
     },
     {
       "ID": "ACH23",
@@ -16812,7 +16817,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 3882
+      "UsersEstimate": 3885
     },
     {
       "ID": "ACH24",
@@ -16820,7 +16825,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2240
+      "UsersEstimate": 2241
     },
     {
       "ID": "ACH25",
@@ -16828,7 +16833,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2240
+      "UsersEstimate": 2241
     },
     {
       "ID": "ACH26",
@@ -16836,7 +16841,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2240
+      "UsersEstimate": 2241
     },
     {
       "ID": "ACH27",
@@ -16868,7 +16873,7 @@
       "Name": "Mischief Managed",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1194
+      "UsersEstimate": 1195
     },
     {
       "ID": "ACH31",
@@ -16907,7 +16912,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 14931,
+      "Progressed": 14941,
       "Completed": 84
     }
   ],
@@ -16915,8 +16920,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-01T13:03:44.2901272+00:00",
-  "LastChanged_Achievements": "2024-01-01T14:10:16.2958827+00:00",
+  "LastChanged_Achievements": "2024-01-01T15:09:32.0895285+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:48.9246276+00:00",
-  "LastUpdate_Ratings": "2024-01-01T14:01:28.0133685+00:00",
-  "LastUpdate_Achievements": "2024-01-01T14:10:16.2959888+00:00"
+  "LastUpdate_Ratings": "2024-01-01T15:00:09.9409904+00:00",
+  "LastUpdate_Achievements": "2024-01-01T15:09:32.0896783+00:00"
 }

@@ -634,9 +634,9 @@
       "ID": "CgkInO_K3eIdEAIQBQ",
       "SetID": "6bj96in",
       "Name": "SAILOR\u0027S GIFT",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 40,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "CgkInO_K3eIdEAIQBg",
@@ -706,9 +706,9 @@
       "ID": "CgkInO_K3eIdEAIQDg",
       "SetID": "6bj96in",
       "Name": "CHRONOSPY",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 40,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "CgkInO_K3eIdEAIQDw",
@@ -722,9 +722,9 @@
       "ID": "CgkInO_K3eIdEAIQEA",
       "SetID": "6bj96in",
       "Name": "EAGLE EYED",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 40,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "CgkInO_K3eIdEAIQEQ",
@@ -817,8 +817,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2024-01-01T14:10:34.137197+00:00",
+  "LastChanged_Achievements": "2024-01-01T15:09:44.515779+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:14.0329257+00:00",
-  "LastUpdate_Ratings": "2024-01-01T14:00:58.8465206+00:00",
-  "LastUpdate_Achievements": "2024-01-01T14:10:34.1372229+00:00"
+  "LastUpdate_Ratings": "2024-01-01T14:59:49.9870895+00:00",
+  "LastUpdate_Achievements": "2024-01-01T15:09:44.5157973+00:00"
 }

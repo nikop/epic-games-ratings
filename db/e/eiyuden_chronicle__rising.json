@@ -2,12 +2,12 @@
   "ID": "a4824407d9ec4f6a8c13919e732f9400",
   "Name": "Eiyuden Chronicle: Rising",
   "ProductSlug": "eiyuden-chronicle-rising",
-  "Ranking_Rating": 614,
+  "Ranking_Rating": 613,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 329,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -191,11 +191,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 787,
+  "EOS_Progressed": 788,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.62,
+  "EOS_Completed_Percentage": 7.61,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:45.6416158+00:00",
@@ -766,6 +766,11 @@
       "Time": "2024-01-01T09:09:24.3779215+00:00",
       "NumProgressed": 787,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2024-01-01T15:08:45.0217216+00:00",
+      "NumProgressed": 788,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 50,
@@ -777,7 +782,7 @@
       "Name": "Plenty More to Go",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "ACHIEVEMENT002",
@@ -785,7 +790,7 @@
       "Name": "Partners?",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "ACHIEVEMENT003",
@@ -793,7 +798,7 @@
       "Name": "...And Your Tax Money",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "ACHIEVEMENT004",
@@ -801,7 +806,7 @@
       "Name": "All Bark, No Bite",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "ACHIEVEMENT005",
@@ -809,7 +814,7 @@
       "Name": "Magical Mineral Golem",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "ACHIEVEMENT006",
@@ -841,7 +846,7 @@
       "Name": "The Road to Recovery",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "ACHIEVEMENT010",
@@ -903,9 +908,9 @@
       "ID": "ACHIEVEMENT017",
       "SetID": "dejhjd5",
       "Name": "Adept, for an Acting Mayor",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 260
+      "UsersEstimate": 252
     },
     {
       "ID": "ACHIEVEMENT018",
@@ -961,7 +966,7 @@
       "Name": "Amateur Adventurer",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "ACHIEVEMENT025",
@@ -977,7 +982,7 @@
       "Name": "No Treasure Left Behind",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACHIEVEMENT027",
@@ -993,7 +998,7 @@
       "Name": "On Outlander Lane",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "ACHIEVEMENT029",
@@ -1065,7 +1070,7 @@
       "Name": "Rune Wall Wreckage",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "ACHIEVEMENT038",
@@ -1105,7 +1110,7 @@
       "Name": "The Quarry...On Foot!",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "ACHIEVEMENT043",
@@ -1129,7 +1134,7 @@
       "Name": "The Runebarrows...On Foot!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ACHIEVEMENT046",
@@ -1176,15 +1181,15 @@
     {
       "ID": "dejhjd5",
       "IsBase": true,
-      "Progressed": 787,
+      "Progressed": 788,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-12-03T09:59:31.596296+00:00",
-  "LastChanged_Achievements": "2024-01-01T14:09:10.4327493+00:00",
+  "LastChanged_Achievements": "2024-01-01T15:08:45.0217213+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:02.3357194+00:00",
-  "LastUpdate_Ratings": "2024-01-01T14:02:43.6030107+00:00",
-  "LastUpdate_Achievements": "2024-01-01T14:09:10.432786+00:00"
+  "LastUpdate_Ratings": "2024-01-01T15:02:35.1429148+00:00",
+  "LastUpdate_Achievements": "2024-01-01T15:08:45.0217629+00:00"
 }

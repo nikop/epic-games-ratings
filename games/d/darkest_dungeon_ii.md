@@ -1,20 +1,20 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 263)  
+Rating: 4.68 (Ranked 262)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 12.00% | ~719 |
+| Malpractice Assurance | 12.00% | ~720 |
 | Lost and Found | 7.00% | ~420 |
 | Autodidact | 6.00% | ~7,868 |
 | This guy... again? | 6.00% | ~360 |
-| Serenity Now! | 5.00% | ~6,556 |
-| This Belongs in a Museum | 5.00% | ~6,556 |
-| Creep and Sleep | 5.00% | ~6,556 |
-| Overdue Notice | 5.00% | ~6,556 |
-| Escape from the Black Hole | 5.00% | ~6,556 |
+| Serenity Now! | 5.00% | ~6,557 |
+| This Belongs in a Museum | 5.00% | ~6,557 |
+| Creep and Sleep | 5.00% | ~6,557 |
+| Overdue Notice | 5.00% | ~6,557 |
+| Escape from the Black Hole | 5.00% | ~6,557 |
 | Ploughshares to Swords | 5.00% | ~300 |
 | Bloody Graduation | 5.00% | ~300 |
 | Don't Make Me Turn This Coach Around | 4.00% | ~5,245 |
@@ -46,19 +46,19 @@ Number of Ratings: 7,767  (23.09.2022)
 | Whale | 3.00% | ~3,934 |
 | Nope | 3.00% | ~3,934 |
 | Unshackled | 3.00% | ~3,934 |
-| Boxcar Kid | 2.00% | ~2,622 |
-| This Looks Familiar | 2.00% | ~2,622 |
-| Hope Rekindled | 2.00% | ~2,622 |
-| Predator | 2.00% | ~2,622 |
-| Ichthyophobic | 2.00% | ~2,622 |
-| No More Mouths to Feed | 2.00% | ~2,622 |
-| Reverse Banditry | 2.00% | ~2,622 |
-| When You Want Something Done Right | 2.00% | ~2,622 |
-| Worldly Traveller | 2.00% | ~2,622 |
-| Utopia | 2.00% | ~2,622 |
-| Hot Air | 2.00% | ~2,622 |
-| Eyes Up | 2.00% | ~2,622 |
-| Road Trip | 2.00% | ~2,622 |
+| Boxcar Kid | 2.00% | ~2,623 |
+| This Looks Familiar | 2.00% | ~2,623 |
+| Hope Rekindled | 2.00% | ~2,623 |
+| Predator | 2.00% | ~2,623 |
+| Ichthyophobic | 2.00% | ~2,623 |
+| No More Mouths to Feed | 2.00% | ~2,623 |
+| Reverse Banditry | 2.00% | ~2,623 |
+| When You Want Something Done Right | 2.00% | ~2,623 |
+| Worldly Traveller | 2.00% | ~2,623 |
+| Utopia | 2.00% | ~2,623 |
+| Hot Air | 2.00% | ~2,623 |
+| Eyes Up | 2.00% | ~2,623 |
+| Road Trip | 2.00% | ~2,623 |
 | Shrine of Reflection | 1.00% | ~1,311 |
 | Handled | 1.00% | ~1,311 |
 | Body of Work | 1.00% | ~1,311 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The World As It Was | 0.60% | ~787 |
 | A Life Well Lived | 0.50% | ~656 |
 | Bacon Bits | 0.50% | ~656 |
-| Eidetic | 0.40% | ~524 |
+| Eidetic | 0.40% | ~525 |
 | Battle Hardened | 0.40% | ~24 |
 | On This Long Road, We Found Redemption | 0.40% | ~24 |
 | Tears in the Rain | 0.30% | ~393 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,125 (Ranked 90)  
+Progressed: 131,133 (Ranked 90)  
 Completed: 3 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,10 +332,10 @@ Completed: 3 (0.00%) (Ranked 390)
 | 2023-12-29 | 130,627 | 3 |
 | 2023-12-30 | 130,838 | 3 |
 | 2023-12-31 | 131,026 | 3 |
-| 2024-01-01 | 131,125 | 3 |
+| 2024-01-01 | 131,133 | 3 |
 ## Awards
 Max (Character Customization): 7,919  (Ranked 50)  
-Sum: 21,312 (Ranked 58)  
+Sum: 21,317 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -346,7 +346,7 @@ Diff (max vs sum): -8
 | This game has Amazing Characters | 1,508 |
 | This game is Extremely Fun | 1,506 |
 | This game has Unique Visuals | 1,442 |
-| This game has Amazing Storytelling | 1,426 |
+| This game has Amazing Storytelling | 1,431 |
 | This game has Quickly Understood Controls | 1,396 |
 | This game has a Creative Community | 1,071 |
 | This game has Obsessive Gameplay | 585 |
@@ -692,4 +692,4 @@ Diff (max vs sum): -8
 | 2023-12-29 | 4.68 | - | 7,899 | 21,240 |
 | 2023-12-30 | 4.68 | - | 7,905 | 21,274 |
 | 2023-12-31 | 4.68 | - | 7,910 | 21,297 |
-| 2024-01-01 | 4.68 | - | 7,919 | 21,312 |
+| 2024-01-01 | 4.68 | - | 7,919 | 21,317 |

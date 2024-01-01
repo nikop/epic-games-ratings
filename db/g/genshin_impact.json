@@ -2,12 +2,12 @@
   "ID": "879b0d8776ab46a59a129983ba78f0ce",
   "Name": "Genshin Impact",
   "ProductSlug": "genshin-impact",
-  "Ranking_Rating": 263,
+  "Ranking_Rating": 262,
   "Ranking_Popularity": 3,
   "Ranking_PopularitySum": 4,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewPlayers": 571,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-06-08T23:00:00+00:00",
@@ -16341,10 +16341,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 1473215,
       "NumberOfAwardsMax": 322679
+    },
+    {
+      "Time": "2024-01-01T15:02:56.9297341+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1473343,
+      "NumberOfAwardsMax": 322679
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1473215,
+  "NumberOfAwards": 1473343,
   "NumberOfAwardsMax": 322679,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -16358,7 +16364,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 158375
+      "Count": 158503
     },
     {
       "Text": "This game has Diverse Characters",
@@ -16426,8 +16432,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:42.3518763+00:00",
-  "LastChanged": "2024-01-01T13:06:18.7288359+00:00",
+  "LastChanged": "2024-01-01T15:02:56.9297339+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:22.8775432+00:00",
-  "LastUpdate_Ratings": "2024-01-01T14:03:15.2997703+00:00",
-  "LastUpdate_Achievements": "2024-01-01T14:05:02.02723+00:00"
+  "LastUpdate_Ratings": "2024-01-01T15:02:56.9297345+00:00",
+  "LastUpdate_Achievements": "2024-01-01T15:04:09.9610869+00:00"
 }

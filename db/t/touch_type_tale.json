@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3957,
+  "EOS_Progressed": 3958,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -5312,6 +5312,11 @@
       "Time": "2024-01-01T09:03:55.357511+00:00",
       "NumProgressed": 3957,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-01T15:03:32.570371+00:00",
+      "NumProgressed": 3958,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -5323,7 +5328,7 @@
       "Name": "All Ovens Blazing",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "bonus2",
@@ -5483,7 +5488,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1622
+      "UsersEstimate": 1623
     },
     {
       "ID": "campaign5",
@@ -5499,7 +5504,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "campaign7",
@@ -5507,7 +5512,7 @@
       "Name": "Maestro",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "campaign8",
@@ -5586,7 +5591,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3957,
+      "Progressed": 3958,
       "Completed": 11
     }
   ],
@@ -5594,8 +5599,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2024-01-01T14:04:09.4453279+00:00",
+  "LastChanged_Achievements": "2024-01-01T15:03:32.5703707+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.1228513+00:00",
-  "LastUpdate_Ratings": "2024-01-01T14:01:42.8000785+00:00",
-  "LastUpdate_Achievements": "2024-01-01T14:04:09.4453764+00:00"
+  "LastUpdate_Ratings": "2024-01-01T15:00:21.4287325+00:00",
+  "LastUpdate_Achievements": "2024-01-01T15:03:32.5704238+00:00"
 }

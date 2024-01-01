@@ -2,13 +2,13 @@
   "ID": "9696e0c7c26841789a152588c744d506",
   "Name": "Shop Titans",
   "ProductSlug": "shop-titans-d95c1c",
-  "Ranking_Rating": 1039,
+  "Ranking_Rating": 1040,
   "Ranking_Popularity": 78,
   "Ranking_PopularitySum": 51,
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -7915,9 +7915,9 @@
       "Count": 3808
     }
   ],
-  "EOS_Progressed": 148808,
+  "EOS_Progressed": 148816,
   "EOS_Completed": 340,
-  "EOS_NewPlayers": 1274,
+  "EOS_NewPlayers": 1275,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -34875,6 +34875,11 @@
       "Time": "2024-01-01T14:06:47.1972159+00:00",
       "NumProgressed": 148808,
       "NumCompleted": 340
+    },
+    {
+      "Time": "2024-01-01T15:05:24.1428711+00:00",
+      "NumProgressed": 148816,
+      "NumCompleted": 340
     }
   ],
   "TotalAchievements": 112,
@@ -34886,7 +34891,7 @@
       "Name": "The Daily Grind",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5952
+      "UsersEstimate": 5953
     },
     {
       "ID": "advlevel02",
@@ -34966,7 +34971,7 @@
       "Name": "One Easy Payment",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7440
+      "UsersEstimate": 7441
     },
     {
       "ID": "bigsale02",
@@ -34990,7 +34995,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7440
+      "UsersEstimate": 7441
     },
     {
       "ID": "blueprint02",
@@ -35022,7 +35027,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5952
+      "UsersEstimate": 5953
     },
     {
       "ID": "boss02",
@@ -35038,7 +35043,7 @@
       "Name": "Bane of Legends",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1190
+      "UsersEstimate": 1191
     },
     {
       "ID": "champions01",
@@ -35054,7 +35059,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 14881
+      "UsersEstimate": 14882
     },
     {
       "ID": "chest02",
@@ -35126,7 +35131,7 @@
       "Name": "Demand for Supplies",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5952
+      "UsersEstimate": 5953
     },
     {
       "ID": "commonres03",
@@ -35158,7 +35163,7 @@
       "Name": "Flooding the Market",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5952
+      "UsersEstimate": 5953
     },
     {
       "ID": "craft03",
@@ -35190,7 +35195,7 @@
       "Name": "Where it Hurts",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5952
+      "UsersEstimate": 5953
     },
     {
       "ID": "damage02",
@@ -35238,7 +35243,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7440
+      "UsersEstimate": 7441
     },
     {
       "ID": "energy02",
@@ -35262,7 +35267,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8928
+      "UsersEstimate": 8929
     },
     {
       "ID": "expansion02",
@@ -35366,7 +35371,7 @@
       "Name": "Pretty Penny",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 7440
+      "UsersEstimate": 7441
     },
     {
       "ID": "gold03",
@@ -35438,7 +35443,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5952
+      "UsersEstimate": 5953
     },
     {
       "ID": "jackslot02",
@@ -35470,7 +35475,7 @@
       "Name": "Budding Merchant",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8928
+      "UsersEstimate": 8929
     },
     {
       "ID": "level02",
@@ -35510,7 +35515,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5952
+      "UsersEstimate": 5953
     },
     {
       "ID": "loot02",
@@ -35534,7 +35539,7 @@
       "Name": "Anything not Nailed Down",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1190
+      "UsersEstimate": 1191
     },
     {
       "ID": "master01",
@@ -35542,7 +35547,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5952
+      "UsersEstimate": 5953
     },
     {
       "ID": "master02",
@@ -35646,7 +35651,7 @@
       "Name": "Marvels from the World Over",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1190
+      "UsersEstimate": 1191
     },
     {
       "ID": "rudo_a",
@@ -35702,7 +35707,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 14881
+      "UsersEstimate": 14882
     },
     {
       "ID": "twinenchant01",
@@ -35750,7 +35755,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7440
+      "UsersEstimate": 7441
     },
     {
       "ID": "workers02",
@@ -35758,7 +35763,7 @@
       "Name": "Arcane Industries",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5952
+      "UsersEstimate": 5953
     },
     {
       "ID": "workers03",
@@ -35781,15 +35786,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 148808,
+      "Progressed": 148816,
       "Completed": 340
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-01T14:03:39.0979681+00:00",
-  "LastChanged_Achievements": "2024-01-01T14:06:47.1972155+00:00",
+  "LastChanged_Achievements": "2024-01-01T15:05:24.1428709+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.6407181+00:00",
-  "LastUpdate_Ratings": "2024-01-01T14:03:39.0979687+00:00",
-  "LastUpdate_Achievements": "2024-01-01T14:06:47.1974491+00:00"
+  "LastUpdate_Ratings": "2024-01-01T15:03:12.1233999+00:00",
+  "LastUpdate_Achievements": "2024-01-01T15:05:24.1430979+00:00"
 }
