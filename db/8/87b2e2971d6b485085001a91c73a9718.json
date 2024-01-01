@@ -2,10 +2,10 @@
   "ID": "87b2e2971d6b485085001a91c73a9718",
   "Name": "Kaze and the Wild Masks",
   "ProductSlug": "kaze-and-the-wild-masks-94a27d",
-  "Ranking_EOS_Progress": 594,
-  "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 527,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Progress": 591,
+  "Ranking_EOS_Completed": 59,
+  "Ranking_EOS_NewPlayers": 497,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-11-30T08:00:00+00:00",
     "PcReleaseDate": "2021-03-26T08:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 27,
+  "EOS_Progressed": 28,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.41,
+  "EOS_Completed_Percentage": 7.14,
   "EosHistory": [
     {
       "Time": "2023-11-20T15:03:30.7226968+00:00",
@@ -164,6 +164,11 @@
       "Time": "2023-12-28T01:53:36.8106156+00:00",
       "NumProgressed": 27,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-01T07:09:39.425996+00:00",
+      "NumProgressed": 28,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-20T15:03:30.7239426+00:00",
@@ -174,7 +179,7 @@
       "ID": "1",
       "SetID": "279eo25",
       "Name": "Crystal Collector",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -182,15 +187,15 @@
       "ID": "10",
       "SetID": "279eo25",
       "Name": "Untouchable!",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "11",
       "SetID": "279eo25",
       "Name": "Queen of the Hill",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -206,7 +211,7 @@
       "ID": "13",
       "SetID": "279eo25",
       "Name": "Golden Rabbit",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -230,7 +235,7 @@
       "ID": "16",
       "SetID": "279eo25",
       "Name": "Grounded!",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -238,7 +243,7 @@
       "ID": "17",
       "SetID": "279eo25",
       "Name": "Beet Broken",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 25,
       "UsersEstimate": 8
     },
@@ -246,7 +251,7 @@
       "ID": "18",
       "SetID": "279eo25",
       "Name": "Tears of Joy",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -270,7 +275,7 @@
       "ID": "20",
       "SetID": "279eo25",
       "Name": "Out of sight, Out of mind",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -278,7 +283,7 @@
       "ID": "21",
       "SetID": "279eo25",
       "Name": "The floor is lava!",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -326,15 +331,15 @@
       "ID": "4",
       "SetID": "279eo25",
       "Name": "Who are they?",
-      "Percentage": 59,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "5",
       "SetID": "279eo25",
       "Name": "Card Addict",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 25,
       "UsersEstimate": 8
     },
@@ -350,7 +355,7 @@
       "ID": "7",
       "SetID": "279eo25",
       "Name": "Green Island",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -375,14 +380,14 @@
     {
       "ID": "279eo25",
       "IsBase": true,
-      "Progressed": 27,
+      "Progressed": 28,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-12-03T09:57:17.9885642+00:00",
   "FirstSeenAchievements": "2023-11-20T15:03:30.7239426+00:00",
-  "LastChanged_Achievements": "2024-01-01T06:10:13.5987263+00:00",
+  "LastChanged_Achievements": "2024-01-01T07:09:39.4259958+00:00",
   "LastUpdate_AppInfo": "2023-12-25T18:57:02.6730441+00:00",
-  "LastUpdate_Ratings": "2024-01-01T05:58:03.7572568+00:00",
-  "LastUpdate_Achievements": "2024-01-01T06:10:13.5987477+00:00"
+  "LastUpdate_Ratings": "2024-01-01T06:57:40.3732925+00:00",
+  "LastUpdate_Achievements": "2024-01-01T07:09:39.4260108+00:00"
 }

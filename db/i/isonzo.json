@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 368,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1045,9 +1045,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9709,
+  "EOS_Progressed": 9710,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10385,6 +10385,11 @@
       "Time": "2024-01-01T03:09:58.6689153+00:00",
       "NumProgressed": 9709,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-01T07:09:27.8261802+00:00",
+      "NumProgressed": 9710,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -10428,7 +10433,7 @@
       "Name": "Cercatore d\u0027Oro",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "ISONZO_ACH_COMPAGNIA_DELLA_MORTE",
@@ -10540,7 +10545,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1553
+      "UsersEstimate": 1554
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -10588,7 +10593,7 @@
       "Name": "Peak Performance",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4369
+      "UsersEstimate": 4370
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -10644,7 +10649,7 @@
       "Name": "Silver Lining",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2621
+      "UsersEstimate": 2622
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -10724,7 +10729,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4854
+      "UsersEstimate": 4855
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -10755,7 +10760,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9709,
+      "Progressed": 9710,
       "Completed": 10
     }
   ],
@@ -10763,8 +10768,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-30T03:57:33.3665427+00:00",
-  "LastChanged_Achievements": "2024-01-01T06:09:58.837207+00:00",
+  "LastChanged_Achievements": "2024-01-01T07:09:27.82618+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:27.5115536+00:00",
-  "LastUpdate_Ratings": "2024-01-01T05:59:50.3511671+00:00",
-  "LastUpdate_Achievements": "2024-01-01T06:09:58.8372705+00:00"
+  "LastUpdate_Ratings": "2024-01-01T06:59:01.6397075+00:00",
+  "LastUpdate_Achievements": "2024-01-01T07:09:27.8262448+00:00"
 }

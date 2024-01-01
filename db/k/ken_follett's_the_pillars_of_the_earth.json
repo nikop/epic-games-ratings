@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17532,
+  "EOS_Progressed": 17533,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -17435,6 +17435,11 @@
       "Time": "2024-01-01T05:05:46.5159789+00:00",
       "NumProgressed": 17532,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2024-01-01T07:05:20.0278273+00:00",
+      "NumProgressed": 17533,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 41,
@@ -17462,7 +17467,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 4032
+      "UsersEstimate": 4033
     },
     {
       "ID": "tpote_achievement_12",
@@ -17486,7 +17491,7 @@
       "Name": "Friends of sorts",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5610
+      "UsersEstimate": 5611
     },
     {
       "ID": "tpote_achievement_15",
@@ -17502,7 +17507,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2454
+      "UsersEstimate": 2455
     },
     {
       "ID": "tpote_achievement_17",
@@ -17550,7 +17555,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 5084
+      "UsersEstimate": 5085
     },
     {
       "ID": "tpote_achievement_22",
@@ -17558,7 +17563,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3506
+      "UsersEstimate": 3507
     },
     {
       "ID": "tpote_achievement_23",
@@ -17646,7 +17651,7 @@
       "Name": "Jack was here!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2454
+      "UsersEstimate": 2455
     },
     {
       "ID": "tpote_achievement_33",
@@ -17734,7 +17739,7 @@
       "Name": "Garden of Eden",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4032
+      "UsersEstimate": 4033
     },
     {
       "ID": "tpote_achievement_6",
@@ -17742,7 +17747,7 @@
       "Name": "Full house",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 4032
+      "UsersEstimate": 4033
     },
     {
       "ID": "tpote_achievement_7",
@@ -17773,15 +17778,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17532,
+      "Progressed": 17533,
       "Completed": 123
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-01T06:06:23.8432852+00:00",
+  "LastChanged_Achievements": "2024-01-01T07:05:20.027827+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:24.3361109+00:00",
-  "LastUpdate_Ratings": "2024-01-01T06:02:40.2911914+00:00",
-  "LastUpdate_Achievements": "2024-01-01T06:06:23.8433671+00:00"
+  "LastUpdate_Ratings": "2024-01-01T07:02:49.4418704+00:00",
+  "LastUpdate_Achievements": "2024-01-01T07:05:20.027917+00:00"
 }

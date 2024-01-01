@@ -14,10 +14,10 @@
 | Loot, loot! | 31.00% | ~25 |
 | Vanquisher! | 30.00% | ~24 |
 | Orb Collector | 30.00% | ~24 |
+| Twin slayer! | 30.00% | ~24 |
 | Snakehead! | 30.00% | ~24 |
 | Unmasked! | 30.00% | ~24 |
-| Twin slayer! | 28.00% | ~23 |
-| Mercenary! | 28.00% | ~23 |
+| Mercenary! | 30.00% | ~24 |
 | Beast Knight | 27.00% | ~22 |
 | Relic Collector | 25.00% | ~20 |
 | God of the Tower! | 23.00% | ~19 |
@@ -36,7 +36,7 @@
 | True Titan | 4.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 81 (Ranked 504)  
-Completed: 3 (3.70%) (Ranked 95)  
+Completed: 3 (3.70%) (Ranked 94)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

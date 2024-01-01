@@ -6,9 +6,9 @@
   "Ranking_Popularity": 576,
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 294,
-  "Ranking_EOS_Completed": 243,
+  "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 902,
+  "EOS_Progressed": 903,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -3191,6 +3191,11 @@
       "Time": "2024-01-01T05:07:02.8059225+00:00",
       "NumProgressed": 902,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-01T07:06:25.122725+00:00",
+      "NumProgressed": 903,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3218,7 +3223,7 @@
       "Name": "Architect of Fortunes",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "dont-miss-calls",
@@ -3250,7 +3255,7 @@
       "Name": "Our Man",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "kill-lieutenants",
@@ -3266,7 +3271,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "play-at-night",
@@ -3306,7 +3311,7 @@
       "Name": "Bite the Blow",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "sell-variety",
@@ -3322,7 +3327,7 @@
       "Name": "Camellos",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "unlock-residences",
@@ -3330,7 +3335,7 @@
       "Name": "Pampered Life",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "upgrade-building",
@@ -3353,15 +3358,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 902,
+      "Progressed": 903,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-23T10:57:58.3271618+00:00",
-  "LastChanged_Achievements": "2024-01-01T06:07:47.4613426+00:00",
+  "LastChanged_Achievements": "2024-01-01T07:06:25.1227247+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:28.1140989+00:00",
-  "LastUpdate_Ratings": "2024-01-01T06:03:16.1188192+00:00",
-  "LastUpdate_Achievements": "2024-01-01T06:07:47.461374+00:00"
+  "LastUpdate_Ratings": "2024-01-01T07:02:53.4613223+00:00",
+  "LastUpdate_Achievements": "2024-01-01T07:06:25.1227501+00:00"
 }

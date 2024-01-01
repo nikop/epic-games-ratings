@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 311,
   "Ranking_EOS_NewPlayers": 3793,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1130,
+  "EOS_Progressed": 1129,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": -12,
+  "EOS_NewPlayers": -13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2221,6 +2221,11 @@
       "Time": "2023-12-31T17:05:27.3336223+00:00",
       "NumProgressed": 1130,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-01T07:05:52.6652391+00:00",
+      "NumProgressed": 1129,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -2264,7 +2269,7 @@
       "Name": "The First Step",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 814
+      "UsersEstimate": 813
     },
     {
       "ID": "06",
@@ -2280,7 +2285,7 @@
       "Name": "Monster Hunter",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 622
+      "UsersEstimate": 621
     },
     {
       "ID": "08",
@@ -2368,7 +2373,7 @@
       "Name": "Earning Trust",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 599
+      "UsersEstimate": 598
     },
     {
       "ID": "19",
@@ -2400,7 +2405,7 @@
       "Name": "House Vulisica\u0027s Heirloom",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 170
+      "UsersEstimate": 169
     },
     {
       "ID": "23",
@@ -2415,7 +2420,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1130,
+      "Progressed": 1129,
       "Completed": 1
     }
   ],
@@ -2423,8 +2428,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-12-04T18:59:06.5793648+00:00",
-  "LastChanged_Achievements": "2024-01-01T06:07:05.6505854+00:00",
+  "LastChanged_Achievements": "2024-01-01T07:05:52.6652389+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:47.6931487+00:00",
-  "LastUpdate_Ratings": "2024-01-01T06:02:42.5826578+00:00",
-  "LastUpdate_Achievements": "2024-01-01T06:07:05.6506031+00:00"
+  "LastUpdate_Ratings": "2024-01-01T07:02:50.8619103+00:00",
+  "LastUpdate_Achievements": "2024-01-01T07:05:52.6652613+00:00"
 }

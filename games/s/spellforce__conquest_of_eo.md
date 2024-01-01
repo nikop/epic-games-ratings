@@ -25,7 +25,7 @@
 | Slave to the rhythm | 22.00% | ~23 |
 | Castle Meldec | 22.00% | ~23 |
 | Sevenkeeps Seat of Kings | 20.00% | ~21 |
-| Friend of Alluvyan | 16.00% | ~17 |
+| Friend of Alluvyan | 17.00% | ~18 |
 | Friend of Connach | 15.00% | ~16 |
 | Break Free | 14.00% | ~15 |
 | Friend of Gillyshire | 13.00% | ~14 |
@@ -41,13 +41,13 @@
 | Defeat Gor | 9.00% | ~10 |
 | Yngrid's Tale | 9.00% | ~10 |
 | A Joke | 9.00% | ~10 |
+| The Forge of Regan Gor | 8.00% | ~8 |
 | Mage Teacher | 8.00% | ~8 |
 | Defeat Hokan | 7.00% | ~7 |
 | Defeat Uram | 7.00% | ~7 |
 | Elynn's Tale | 7.00% | ~7 |
 | Lore's Tale | 7.00% | ~7 |
 | Crypt of the Revenant | 7.00% | ~7 |
-| The Forge of Regan Gor | 7.00% | ~7 |
 | Master Artificer | 7.00% | ~7 |
 | A Monopoly of Might | 7.00% | ~7 |
 | Defeat Ianna | 6.00% | ~6 |

@@ -3713,7 +3713,7 @@
       "Count": 338
     }
   ],
-  "EOS_Progressed": 19853,
+  "EOS_Progressed": 19855,
   "EOS_Completed": 33,
   "EOS_NewPlayers": 688,
   "EOS_NewCompleters": -5,
@@ -17958,6 +17958,11 @@
       "Time": "2024-01-01T05:04:29.3315114+00:00",
       "NumProgressed": 19853,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2024-01-01T07:04:13.9741206+00:00",
+      "NumProgressed": 19855,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -18392,9 +18397,9 @@
       "ID": "WinNearLibrary",
       "SetID": "cfbk359",
       "Name": "Overgrown Library",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1588
+      "UsersEstimate": 1390
     },
     {
       "ID": "WinNearPetrified",
@@ -18441,15 +18446,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19853,
+      "Progressed": 19855,
       "Completed": 33
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-01T03:57:48.0715595+00:00",
-  "LastChanged_Achievements": "2024-01-01T06:04:59.507013+00:00",
+  "LastChanged_Achievements": "2024-01-01T07:04:13.9741205+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:03.5085053+00:00",
-  "LastUpdate_Ratings": "2024-01-01T05:57:58.3066782+00:00",
-  "LastUpdate_Achievements": "2024-01-01T06:04:59.5071023+00:00"
+  "LastUpdate_Ratings": "2024-01-01T06:57:36.3934849+00:00",
+  "LastUpdate_Achievements": "2024-01-01T07:04:13.9742066+00:00"
 }

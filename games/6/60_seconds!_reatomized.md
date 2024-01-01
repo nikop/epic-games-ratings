@@ -1,7 +1,7 @@
 # 60 Seconds! Reatomized
 [Store](https://store.epicgames.com/en-US/p/60-seconds-reatomized-91ffa3)  
 [View Rawdata](../../db/6/60_seconds!_reatomized.json)  
-Rating: 4.52 (Ranked 575)  
+Rating: 4.52 (Ranked 574)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -17,8 +17,8 @@ Rating: 4.52 (Ranked 575)
 | The Dark Side | 71.00% | ~4,271 |
 | Souper! | 66.00% | ~3,971 |
 | Duck and cover! | 66.00% | ~3,971 |
+| 2-1-6 | 60.00% | ~3,610 |
 | Pacifist | 60.00% | ~3,610 |
-| 2-1-6 | 59.00% | ~3,549 |
 | A gift | 55.00% | ~3,309 |
 | Girl Power | 49.00% | ~2,948 |
 | What goes around... | 45.00% | ~2,707 |

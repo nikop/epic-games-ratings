@@ -7,20 +7,20 @@ Number of Ratings: 266  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Venture Outward | 73.00% | ~3,203 |
-| Ready for Winter | 62.00% | ~2,720 |
+| Ready for Winter | 62.00% | ~2,721 |
 | Ready for Summer | 49.00% | ~2,150 |
 | Cordon Bleu | 41.00% | ~1,799 |
-| Tapped! | 35.00% | ~1,535 |
+| Tapped! | 35.00% | ~1,536 |
 | Eureka | 30.00% | ~1,316 |
 | Scourge Slayer | 24.00% | ~1,053 |
 | Science, Troglodyte! | 22.00% | ~965 |
 | Exceptional Skill | 21.00% | ~921 |
-| Home Sweet Home | 20.00% | ~877 |
+| Home Sweet Home | 20.00% | ~878 |
 | Encyclopedic! | 18.00% | ~790 |
 | A Fortress Toppled! | 15.00% | ~658 |
 | The Power of Family | 15.00% | ~658 |
 | Apex Predator | 14.00% | ~614 |
-| The Power of Faith | 12.00% | ~526 |
+| The Power of Faith | 12.00% | ~527 |
 | Strange amalgams | 11.00% | ~483 |
 | The Power of Freedom | 9.00% | ~395 |
 | Ace Detective | 7.00% | ~307 |
@@ -32,9 +32,9 @@ Number of Ratings: 266  (23.09.2022)
 | The power of ambition | 6.00% | ~263 |
 | The stuff of legends. | 6.00% | ~263 |
 | Blood and justice | 5.00% | ~219 |
-| Ancestor's Pride | 4.00% | ~175 |
-| For All Aurai | 4.00% | ~175 |
-| Memory of a legend | 4.00% | ~175 |
+| Ancestor's Pride | 4.00% | ~176 |
+| For All Aurai | 4.00% | ~176 |
+| Memory of a legend | 4.00% | ~176 |
 | Light of Levant | 3.00% | ~132 |
 | This was a mistake... | 3.00% | ~132 |
 | Crowd Pleaser. | 2.00% | ~88 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~13 |
 | The Absolute Pinnacle. | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,387 (Ranked 206)  
+Progressed: 4,388 (Ranked 206)  
 Completed: 5 (0.11%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 5 (0.11%) (Ranked 302)
 | 2023-12-29 | 4,335 | 5 |
 | 2023-12-30 | 4,362 | 5 |
 | 2023-12-31 | 4,379 | 5 |
-| 2024-01-01 | 4,387 | 5 |
+| 2024-01-01 | 4,388 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 496)  
 Sum: 246 (Ranked 400)  

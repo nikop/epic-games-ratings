@@ -6,14 +6,14 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~7,464 |
+| A Brief Tour of the Realms | 3.00% | ~7,465 |
 | The Cursed Farmer | 1.00% | ~2,488 |
-| Beast Intentions | 0.90% | ~2,239 |
+| Beast Intentions | 0.90% | ~2,240 |
 | The Mad Wizard | 0.80% | ~1,991 |
 | Welcome to Sigil | 0.80% | ~1,721 |
 | Fast Food | 0.60% | ~1,291 |
 | The Ring of Regeneration | 0.50% | ~1,244 |
-| The Overgrown Grove | 0.50% | ~1,075 |
+| The Overgrown Grove | 0.50% | ~1,076 |
 | Were-verpowered | 0.40% | ~995 |
 | Seeking Allies | 0.40% | ~995 |
 | Are Ya Chicken? | 0.40% | ~995 |
@@ -23,9 +23,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mental Gymnastics | 0.40% | ~860 |
 | Don't Lose Your Head | 0.40% | ~860 |
 | Mind Spike | 0.40% | ~860 |
-| A Persistent Buzzing | 0.30% | ~746 |
-| Mad Cow Disease | 0.30% | ~746 |
-| Pure Energy | 0.30% | ~746 |
+| A Persistent Buzzing | 0.30% | ~747 |
+| Mad Cow Disease | 0.30% | ~747 |
+| Pure Energy | 0.30% | ~747 |
 | Arcane Suppression | 0.30% | ~645 |
 | Welcome to the Vrocks | 0.30% | ~645 |
 | Misaligned in Sigil | 0.30% | ~645 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~215 |
 | The Brains of an Illithid's Desire | 0.10% | ~215 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,816 (Ranked 70)  
+Progressed: 248,834 (Ranked 70)  
 Completed: 2,582 (1.04%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -809,7 +809,7 @@ Completed: 2,582 (1.04%) (Ranked 170)
 | 2023-12-29 | 247,120 | 2,575 |
 | 2023-12-30 | 247,917 | 2,578 |
 | 2023-12-31 | 248,665 | 2,581 |
-| 2024-01-01 | 248,816 | 2,582 |
+| 2024-01-01 | 248,834 | 2,582 |
 ## Awards
 Max (Great for Beginners): 5,726  (Ranked 71)  
 Sum: 33,224 (Ranked 41)  

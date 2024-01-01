@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -5349,9 +5349,9 @@
       "Count": 531
     }
   ],
-  "EOS_Progressed": 92821,
+  "EOS_Progressed": 92822,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 335,
+  "EOS_NewPlayers": 336,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -29924,6 +29924,11 @@
       "Time": "2024-01-01T06:04:44.0365225+00:00",
       "NumProgressed": 92821,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-01T07:04:02.2940718+00:00",
+      "NumProgressed": 92822,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -30125,9 +30130,9 @@
       "ID": "ACH_0330",
       "SetID": "3kam13l",
       "Name": "Ding Dong",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 464
+      "UsersEstimate": 557
     },
     {
       "ID": "ACH_0340",
@@ -30262,13 +30267,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 92821,
+      "Progressed": 92822,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 21168,
+      "Progressed": 21169,
       "Completed": 15593
     }
   ],
@@ -30276,8 +30281,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2024-01-01T06:01:17.3240637+00:00",
-  "LastChanged_Achievements": "2024-01-01T06:04:44.0365222+00:00",
+  "LastChanged_Achievements": "2024-01-01T07:04:02.2940714+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:43.6008036+00:00",
-  "LastUpdate_Ratings": "2024-01-01T06:01:17.3240643+00:00",
-  "LastUpdate_Achievements": "2024-01-01T06:04:44.0366642+00:00"
+  "LastUpdate_Ratings": "2024-01-01T07:00:07.4300606+00:00",
+  "LastUpdate_Achievements": "2024-01-01T07:04:02.2942333+00:00"
 }

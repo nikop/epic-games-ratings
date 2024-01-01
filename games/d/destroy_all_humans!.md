@@ -7,7 +7,7 @@ Number of Ratings: 85  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Shop Til They Drop | 70.00% | ~190 |
-| Kaijuiced | 68.00% | ~185 |
+| Kaijuiced | 69.00% | ~188 |
 | Lie Back and Think of Albion | 63.00% | ~171 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 59.00% | ~160 |
 | I Look Up As I Walk to Takoshima | 58.00% | ~158 |
@@ -27,14 +27,14 @@ Number of Ratings: 85  (23.09.2022)
 | Rock of the Bay | 25.00% | ~68 |
 | Trans-Siberian Express | 25.00% | ~68 |
 | Re-Return of the Clone of the Invasion II-2 | 21.00% | ~57 |
-| Arkvoodle Doodle | 17.00% | ~46 |
+| Arkvoodle Doodle | 18.00% | ~49 |
 | Ouch of Body Experience | 17.00% | ~46 |
 | If You Know What I Mean | 17.00% | ~46 |
-| Die Nasty | 15.00% | ~41 |
+| Die Nasty | 16.00% | ~44 |
 | Hidden Human Hive Harvest | 15.00% | ~41 |
 | Mash Machine | 15.00% | ~41 |
+| Albion Bridge Is for Falling Down | 14.00% | ~38 |
 | Dusted | 14.00% | ~38 |
-| Albion Bridge Is for Falling Down | 13.00% | ~35 |
 | PK Slam Dunk | 10.00% | ~27 |
 | Higher Than the Futen Zoku | 10.00% | ~27 |
 | Scuttled | 9.00% | ~24 |

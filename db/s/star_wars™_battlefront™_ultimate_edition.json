@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2433,
+  "EOS_Progressed": 2434,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 301,
+  "EOS_NewPlayers": 300,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -6824,6 +6824,11 @@
       "Time": "2024-01-01T06:11:09.7461398+00:00",
       "NumProgressed": 2433,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-01T07:10:23.5757125+00:00",
+      "NumProgressed": 2434,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -7060,7 +7065,7 @@
       "Name": "New Recruit",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 2117
+      "UsersEstimate": 2118
     },
     {
       "ID": "achievement_36",
@@ -7076,7 +7081,7 @@
       "Name": "Off to a good start",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1508
+      "UsersEstimate": 1509
     },
     {
       "ID": "achievement_38",
@@ -7108,7 +7113,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "achievement_41",
@@ -7130,9 +7135,9 @@
       "ID": "achievement_43",
       "SetID": "271ol84",
       "Name": "Walker defender",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_44",
@@ -7339,13 +7344,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2433,
+      "Progressed": 2434,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2433,
+      "Progressed": 2434,
       "Completed": 1
     }
   ],
@@ -7353,8 +7358,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-01T06:11:09.7461392+00:00",
+  "LastChanged_Achievements": "2024-01-01T07:10:23.5757122+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:19.759459+00:00",
-  "LastUpdate_Ratings": "2024-01-01T05:59:15.7387394+00:00",
-  "LastUpdate_Achievements": "2024-01-01T06:11:09.7462167+00:00"
+  "LastUpdate_Ratings": "2024-01-01T06:58:36.643862+00:00",
+  "LastUpdate_Achievements": "2024-01-01T07:10:23.5758141+00:00"
 }

@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 87.00% | ~2,117 |
-| Off to a good start | 62.00% | ~1,508 |
-| Do... or do not. There is no try | 52.00% | ~1,265 |
+| New Recruit | 87.00% | ~2,118 |
+| Off to a good start | 62.00% | ~1,509 |
+| Do... or do not. There is no try | 52.00% | ~1,266 |
 | A good blaster at your side | 26.00% | ~633 |
 | I suggest a new strategy | 18.00% | ~438 |
 | Great shot, kid! | 16.00% | ~389 |
@@ -50,9 +50,9 @@
 | Onwards! | 1.00% | ~24 |
 | The circle is now complete | 1.00% | ~24 |
 | Playing the objective | 0.90% | ~22 |
+| Walker defender | 0.80% | ~19 |
 | You have your moments | 0.80% | ~19 |
 | A New Hope | 0.70% | ~17 |
-| Walker defender | 0.70% | ~17 |
 | When surrounded by war... | 0.70% | ~17 |
 | No such thing as luck | 0.60% | ~15 |
 | Stop that Droid | 0.60% | ~15 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,433 (Ranked 231)  
+Progressed: 2,434 (Ranked 231)  
 Completed: 1 (0.04%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 1 (0.04%) (Ranked 344)
 | 2023-12-29 | 2,337 | 1 |
 | 2023-12-30 | 2,388 | 1 |
 | 2023-12-31 | 2,425 | 1 |
-| 2024-01-01 | 2,433 | 1 |
+| 2024-01-01 | 2,434 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

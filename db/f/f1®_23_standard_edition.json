@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -1141,10 +1141,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 344,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2024-01-01T07:00:37.6802271+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 345,
+      "NumberOfAwardsMax": 54
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 344,
+  "NumberOfAwards": 345,
   "NumberOfAwardsMax": 54,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1188,7 +1194,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1221,9 +1227,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 14318,
+  "EOS_Progressed": 14327,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2588,
+  "EOS_NewPlayers": 2581,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9816,6 +9822,11 @@
       "Time": "2024-01-01T06:05:44.2800805+00:00",
       "NumProgressed": 14318,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T07:04:48.9707107+00:00",
+      "NumProgressed": 14327,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -9828,7 +9839,7 @@
       "Name": "Spring Cleaning",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 2577
+      "UsersEstimate": 2579
     },
     {
       "ID": "achievement_0002",
@@ -9836,7 +9847,7 @@
       "Name": "Gathering Dust",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1575
+      "UsersEstimate": 1576
     },
     {
       "ID": "achievement_0003",
@@ -9860,7 +9871,7 @@
       "Name": "Crucial Combo",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1861
+      "UsersEstimate": 1863
     },
     {
       "ID": "achievement_0006",
@@ -9868,7 +9879,7 @@
       "Name": "Setting up for Success",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 9879
+      "UsersEstimate": 9886
     },
     {
       "ID": "achievement_0007",
@@ -9876,7 +9887,7 @@
       "Name": "Getting on the Step",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 13029
+      "UsersEstimate": 13038
     },
     {
       "ID": "achievement_0008",
@@ -9884,7 +9895,7 @@
       "Name": "On the Top Step",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 11741
+      "UsersEstimate": 11748
     },
     {
       "ID": "achievement_0009",
@@ -9900,7 +9911,7 @@
       "Name": "Network Success",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 3293
+      "UsersEstimate": 3295
     },
     {
       "ID": "achievement_0011",
@@ -9916,7 +9927,7 @@
       "Name": "Seasoned Rookie",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "achievement_0013",
@@ -9924,7 +9935,7 @@
       "Name": "Oil and Water",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1432
+      "UsersEstimate": 1433
     },
     {
       "ID": "achievement_0014",
@@ -9948,7 +9959,7 @@
       "Name": "Hitting a Season",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 3723
+      "UsersEstimate": 3725
     },
     {
       "ID": "achievement_0017",
@@ -9964,7 +9975,7 @@
       "Name": "Hitting a Century",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "achievement_0019",
@@ -9972,7 +9983,7 @@
       "Name": "Undisputed Winner",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 859
+      "UsersEstimate": 860
     },
     {
       "ID": "achievement_0020",
@@ -9988,7 +9999,7 @@
       "Name": "Team Orders",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 9736
+      "UsersEstimate": 9742
     },
     {
       "ID": "achievement_0022",
@@ -9996,7 +10007,7 @@
       "Name": "A Dozen Pieces",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 3436
+      "UsersEstimate": 3438
     },
     {
       "ID": "achievement_0023",
@@ -10004,7 +10015,7 @@
       "Name": "Sharing the Love",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 4725
+      "UsersEstimate": 4728
     },
     {
       "ID": "achievement_0024",
@@ -10020,7 +10031,7 @@
       "Name": "Wait, I know you?",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "achievement_0026",
@@ -10028,7 +10039,7 @@
       "Name": "Friendly Competition",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1432
+      "UsersEstimate": 1433
     },
     {
       "ID": "achievement_0027",
@@ -10036,7 +10047,7 @@
       "Name": "Switcheroo",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1432
+      "UsersEstimate": 1433
     },
     {
       "ID": "achievement_0028",
@@ -10052,7 +10063,7 @@
       "Name": "Reduce",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 2148
+      "UsersEstimate": 2149
     },
     {
       "ID": "achievement_0030",
@@ -10060,7 +10071,7 @@
       "Name": "Reuse",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1718
+      "UsersEstimate": 1719
     },
     {
       "ID": "achievement_0031",
@@ -10068,7 +10079,7 @@
       "Name": "Recycle",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1002
+      "UsersEstimate": 1003
     },
     {
       "ID": "achievement_0032",
@@ -10076,7 +10087,7 @@
       "Name": "Tinkerer",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 859
+      "UsersEstimate": 860
     },
     {
       "ID": "achievement_0033",
@@ -10084,7 +10095,7 @@
       "Name": "Engineer",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 6443
+      "UsersEstimate": 6447
     },
     {
       "ID": "achievement_0034",
@@ -10092,7 +10103,7 @@
       "Name": "Challenge Yourself",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 3293
+      "UsersEstimate": 3295
     },
     {
       "ID": "achievement_0035",
@@ -10108,7 +10119,7 @@
       "Name": "Ups and Downs",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2148
+      "UsersEstimate": 2149
     },
     {
       "ID": "achievement_0037",
@@ -10140,7 +10151,7 @@
       "Name": "One for the Book",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1575
+      "UsersEstimate": 1576
     },
     {
       "ID": "achievement_0041",
@@ -10164,7 +10175,7 @@
       "Name": "Familiar Faces",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 6014
+      "UsersEstimate": 6017
     },
     {
       "ID": "achievement_0044",
@@ -10172,7 +10183,7 @@
       "Name": "Going the Extra Mile",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 5154
+      "UsersEstimate": 5158
     },
     {
       "ID": "achievement_0045",
@@ -10180,7 +10191,7 @@
       "Name": "Making History",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3580
+      "UsersEstimate": 3582
     },
     {
       "ID": "achievement_0046",
@@ -10188,7 +10199,7 @@
       "Name": "Writing a new Chapter",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2720
+      "UsersEstimate": 2722
     },
     {
       "ID": "achievement_0047",
@@ -10212,23 +10223,23 @@
       "Name": "Proving Them Wrong",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1718
+      "UsersEstimate": 1719
     }
   ],
   "AchievementSets": [
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 14318,
+      "Progressed": 14327,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-16T07:57:31.4647936+00:00",
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
-  "LastChanged": "2023-12-31T21:01:24.6072869+00:00",
-  "LastChanged_Achievements": "2024-01-01T06:05:44.2800799+00:00",
+  "LastChanged": "2024-01-01T07:00:37.6802269+00:00",
+  "LastChanged_Achievements": "2024-01-01T07:04:48.9707105+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:56:57.776446+00:00",
-  "LastUpdate_Ratings": "2024-01-01T06:01:58.1099959+00:00",
-  "LastUpdate_Achievements": "2024-01-01T06:05:44.2801406+00:00"
+  "LastUpdate_Ratings": "2024-01-01T07:00:37.6802273+00:00",
+  "LastUpdate_Achievements": "2024-01-01T07:04:48.970771+00:00"
 }

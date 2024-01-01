@@ -27,9 +27,9 @@ Number of Ratings: 398  (23.09.2022)
 | Make Tropico Great Again! | 7.00% | ~477 |
 | French Connection | 7.00% | ~477 |
 | Don't Panic! | 6.00% | ~409 |
+| Beware The Betman | 6.00% | ~409 |
 | Viva Tropico! | 5.00% | ~340 |
 | Computer Says "No" | 5.00% | ~340 |
-| Beware The Betman | 5.00% | ~340 |
 | Watch The World Burn | 5.00% | ~340 |
 | Fairy Tale Come True | 5.00% | ~340 |
 | Been there, Done That | 3.00% | ~204 |
@@ -48,7 +48,7 @@ Number of Ratings: 398  (23.09.2022)
 | My Ways | 0.20% | ~14 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6,810 (Ranked 194)  
-Completed: 2 (0.03%) (Ranked 351)  
+Completed: 2 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

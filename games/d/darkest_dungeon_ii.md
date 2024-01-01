@@ -6,15 +6,15 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 12.00% | ~713 |
+| Malpractice Assurance | 12.00% | ~714 |
 | Lost and Found | 7.00% | ~416 |
-| Autodidact | 6.00% | ~7,864 |
-| This guy... again? | 6.00% | ~356 |
-| Serenity Now! | 5.00% | ~6,553 |
-| This Belongs in a Museum | 5.00% | ~6,553 |
-| Creep and Sleep | 5.00% | ~6,553 |
-| Overdue Notice | 5.00% | ~6,553 |
-| Escape from the Black Hole | 5.00% | ~6,553 |
+| Autodidact | 6.00% | ~7,865 |
+| This guy... again? | 6.00% | ~357 |
+| Serenity Now! | 5.00% | ~6,554 |
+| This Belongs in a Museum | 5.00% | ~6,554 |
+| Creep and Sleep | 5.00% | ~6,554 |
+| Overdue Notice | 5.00% | ~6,554 |
+| Escape from the Black Hole | 5.00% | ~6,554 |
 | Ploughshares to Swords | 5.00% | ~297 |
 | Bloody Graduation | 5.00% | ~297 |
 | Don't Make Me Turn This Coach Around | 4.00% | ~5,243 |
@@ -45,20 +45,20 @@ Number of Ratings: 7,767  (23.09.2022)
 | Whale | 3.00% | ~3,932 |
 | Nope | 3.00% | ~3,932 |
 | Unshackled | 3.00% | ~3,932 |
-| Boxcar Kid | 2.00% | ~2,621 |
-| This Looks Familiar | 2.00% | ~2,621 |
-| Hope Rekindled | 2.00% | ~2,621 |
-| Predator | 2.00% | ~2,621 |
-| Deprogramming | 2.00% | ~2,621 |
-| Ichthyophobic | 2.00% | ~2,621 |
-| No More Mouths to Feed | 2.00% | ~2,621 |
-| Reverse Banditry | 2.00% | ~2,621 |
-| When You Want Something Done Right | 2.00% | ~2,621 |
-| Worldly Traveller | 2.00% | ~2,621 |
-| Utopia | 2.00% | ~2,621 |
-| Hot Air | 2.00% | ~2,621 |
-| Eyes Up | 2.00% | ~2,621 |
-| Road Trip | 2.00% | ~2,621 |
+| Boxcar Kid | 2.00% | ~2,622 |
+| This Looks Familiar | 2.00% | ~2,622 |
+| Hope Rekindled | 2.00% | ~2,622 |
+| Predator | 2.00% | ~2,622 |
+| Deprogramming | 2.00% | ~2,622 |
+| Ichthyophobic | 2.00% | ~2,622 |
+| No More Mouths to Feed | 2.00% | ~2,622 |
+| Reverse Banditry | 2.00% | ~2,622 |
+| When You Want Something Done Right | 2.00% | ~2,622 |
+| Worldly Traveller | 2.00% | ~2,622 |
+| Utopia | 2.00% | ~2,622 |
+| Hot Air | 2.00% | ~2,622 |
+| Eyes Up | 2.00% | ~2,622 |
+| Road Trip | 2.00% | ~2,622 |
 | Shrine of Reflection | 1.00% | ~1,311 |
 | Handled | 1.00% | ~1,311 |
 | Body of Work | 1.00% | ~1,311 |
@@ -68,7 +68,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Triage | 0.80% | ~1,049 |
 | No Mercy | 0.80% | ~48 |
 | Et Tu, Riposte? | 0.80% | ~48 |
-| Hat Trick | 0.70% | ~917 |
+| Hat Trick | 0.70% | ~918 |
 | The World As It Was | 0.60% | ~786 |
 | A Life Well Lived | 0.50% | ~655 |
 | Bacon Bits | 0.50% | ~655 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,069 (Ranked 90)  
+Progressed: 131,077 (Ranked 90)  
 Completed: 3 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,7 +332,7 @@ Completed: 3 (0.00%) (Ranked 391)
 | 2023-12-29 | 130,627 | 3 |
 | 2023-12-30 | 130,838 | 3 |
 | 2023-12-31 | 131,026 | 3 |
-| 2024-01-01 | 131,069 | 3 |
+| 2024-01-01 | 131,077 | 3 |
 ## Awards
 Max (Character Customization): 7,910  (Ranked 50)  
 Sum: 21,298 (Ranked 58)  

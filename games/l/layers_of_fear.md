@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 85.00% | ~208 |
-| A piece of the story | 62.00% | ~152 |
-| It's covered up for a reason | 54.00% | ~132 |
-| Wanderer | 54.00% | ~132 |
+| Something important | 85.00% | ~209 |
+| A piece of the story | 61.00% | ~150 |
+| It's covered up for a reason | 54.00% | ~133 |
+| Wanderer | 54.00% | ~133 |
 | Scraps of love | 48.00% | ~118 |
 | The artist’s impression | 46.00% | ~113 |
 | Do what you have to | 42.00% | ~103 |
@@ -17,16 +17,16 @@
 | Finished it | 26.00% | ~64 |
 | Whispers long forgotten | 16.00% | ~39 |
 | The art of movement | 13.00% | ~32 |
-| A Slice of Life | 12.00% | ~29 |
-| Debut | 12.00% | ~29 |
-| Sound Bite | 12.00% | ~29 |
+| A Slice of Life | 12.00% | ~30 |
+| Debut | 12.00% | ~30 |
+| Sound Bite | 12.00% | ~30 |
 | Another perspective | 11.00% | ~27 |
 | Lights! Camera! Action! | 11.00% | ~27 |
 | Playtime | 11.00% | ~27 |
 | The tragedy unfolds | 11.00% | ~27 |
 | Tough conversation | 11.00% | ~27 |
-| A new way | 10.00% | ~24 |
-| First steps | 10.00% | ~24 |
+| A new way | 10.00% | ~25 |
+| First steps | 10.00% | ~25 |
 | Breaking free | 9.00% | ~22 |
 | Fisherman | 7.00% | ~17 |
 | True Reflection | 7.00% | ~17 |
@@ -57,7 +57,7 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 245 (Ranked 408)  
+Progressed: 246 (Ranked 408)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,4 +127,4 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-29 | 227 | 0 |
 | 2023-12-30 | 235 | 0 |
 | 2023-12-31 | 243 | 0 |
-| 2024-01-01 | 245 | 0 |
+| 2024-01-01 | 246 | 0 |

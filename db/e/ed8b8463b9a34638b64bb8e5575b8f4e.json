@@ -4,8 +4,8 @@
   "ProductSlug": "the-isle-tide-hotel-adf588",
   "Ranking_EOS_Progress": 481,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 366,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-09-12T11:00:00+00:00",
     "PcReleaseDate": "2023-09-12T09:00:00+00:00",
@@ -599,9 +599,9 @@
       "ID": "good_cop_bad_cop",
       "SetID": "7i36ba9",
       "Name": "Good Cop, Bad Cop",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "if_the_suit_fits",
@@ -623,9 +623,9 @@
       "ID": "josh_the_saviour",
       "SetID": "7i36ba9",
       "Name": "Josh the Saviour",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "knock_knockout",
@@ -679,9 +679,9 @@
       "ID": "the_doctor",
       "SetID": "7i36ba9",
       "Name": "The Doctor",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 95,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "the_escape",
@@ -774,8 +774,8 @@
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2024-01-01T06:10:54.1373139+00:00",
+  "LastChanged_Achievements": "2024-01-01T07:10:10.7428982+00:00",
   "LastUpdate_AppInfo": "2023-12-30T07:56:58.7509332+00:00",
-  "LastUpdate_Ratings": "2024-01-01T05:58:03.3683913+00:00",
-  "LastUpdate_Achievements": "2024-01-01T06:10:54.1373342+00:00"
+  "LastUpdate_Ratings": "2024-01-01T06:57:40.0859383+00:00",
+  "LastUpdate_Achievements": "2024-01-01T07:10:10.7429201+00:00"
 }

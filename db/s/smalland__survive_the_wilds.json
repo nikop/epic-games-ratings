@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-03-29T13:00:00+00:00",
     "PcReleaseDate": "2023-03-29T13:00:00+00:00",
@@ -399,9 +399,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21183,
+  "EOS_Progressed": 21184,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -10074,6 +10074,11 @@
       "Time": "2024-01-01T04:10:30.2538392+00:00",
       "NumProgressed": 21183,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-01T07:10:02.007729+00:00",
+      "NumProgressed": 21184,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 13,
@@ -10101,7 +10106,7 @@
       "Name": "Getting some shuteye",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "FirstTame",
@@ -10149,7 +10154,7 @@
       "Name": "Insect hunter",
       "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "PickupKey",
@@ -10181,14 +10186,14 @@
       "Name": "Stone Age",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     }
   ],
   "AchievementSets": [
     {
       "ID": "3c9im16",
       "IsBase": true,
-      "Progressed": 21183,
+      "Progressed": 21184,
       "Completed": 18
     }
   ],
@@ -10196,8 +10201,8 @@
   "FirstSeenRating": "2023-03-31T05:57:29.8298127+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.2502922+00:00",
   "LastChanged": "2023-12-27T10:57:54.2344203+00:00",
-  "LastChanged_Achievements": "2024-01-01T06:10:42.4851348+00:00",
+  "LastChanged_Achievements": "2024-01-01T07:10:02.0077287+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:39.073076+00:00",
-  "LastUpdate_Ratings": "2024-01-01T06:02:11.7315529+00:00",
-  "LastUpdate_Achievements": "2024-01-01T06:10:42.4851907+00:00"
+  "LastUpdate_Ratings": "2024-01-01T07:00:47.6936959+00:00",
+  "LastUpdate_Achievements": "2024-01-01T07:10:02.0077825+00:00"
 }

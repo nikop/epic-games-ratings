@@ -12,7 +12,7 @@
 | Blue Goo | 31.00% | ~100 |
 | Let's Get Fishy! | 21.00% | ~68 |
 | Furniture in the Forest! | 20.00% | ~65 |
-| Save the Slimes! | 11.00% | ~36 |
+| Save the Slimes! | 12.00% | ~39 |
 | So long, Slime Co! | 3.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 323 (Ranked 381)  

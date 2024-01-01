@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -1448,9 +1448,9 @@
       "ID": "AC_BOSS_04",
       "SetID": "16i2akc",
       "Name": "Heresy",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 34
     },
     {
       "ID": "AC_COMBO_1",
@@ -1640,9 +1640,9 @@
       "ID": "AC_ROCKET_MAX",
       "SetID": "16i2akc",
       "Name": "Rocket",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "AC_ROSCOBOSS",
@@ -1687,8 +1687,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-01T06:04:53.4603923+00:00",
+  "LastChanged_Achievements": "2024-01-01T07:04:09.2056668+00:00",
   "LastUpdate_AppInfo": "2023-12-26T21:56:54.1541826+00:00",
-  "LastUpdate_Ratings": "2024-01-01T05:59:40.0058637+00:00",
-  "LastUpdate_Achievements": "2024-01-01T06:04:53.460426+00:00"
+  "LastUpdate_Ratings": "2024-01-01T06:58:53.7087151+00:00",
+  "LastUpdate_Achievements": "2024-01-01T07:04:09.2056917+00:00"
 }

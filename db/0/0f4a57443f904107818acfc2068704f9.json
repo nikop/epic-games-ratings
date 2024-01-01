@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 317,
   "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1180,
+  "EOS_Progressed": 1181,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
@@ -2942,6 +2942,11 @@
       "Time": "2024-01-01T03:08:48.8453685+00:00",
       "NumProgressed": 1180,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-01T07:08:31.6408574+00:00",
+      "NumProgressed": 1181,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -3010,7 +3015,7 @@
       "Name": "Pathfinder",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "CompleteChapter10",
@@ -3018,7 +3023,7 @@
       "Name": "You da Boss, Now",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "CompleteChapter11",
@@ -3040,9 +3045,9 @@
       "ID": "CompleteChapter13",
       "SetID": "52ail55",
       "Name": "Slaughter and Siege wiv da Squeeze",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 118
     },
     {
       "ID": "CompleteChapter14",
@@ -3098,7 +3103,7 @@
       "Name": "Met the Enemy",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "CompleteChapter3",
@@ -3138,7 +3143,7 @@
       "Name": "First to be Forged, Never to Fail!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "CompleteChapter8",
@@ -3249,14 +3254,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 1180,
+      "Progressed": 1181,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2024-01-01T06:08:48.7601881+00:00",
+  "LastChanged_Achievements": "2024-01-01T07:08:31.640857+00:00",
   "LastUpdate_AppInfo": "2023-12-29T09:57:13.5043463+00:00",
-  "LastUpdate_Ratings": "2024-01-01T05:59:32.9814822+00:00",
-  "LastUpdate_Achievements": "2024-01-01T06:08:48.7602567+00:00"
+  "LastUpdate_Ratings": "2024-01-01T06:58:48.5092975+00:00",
+  "LastUpdate_Achievements": "2024-01-01T07:08:31.6408992+00:00"
 }

@@ -275,9 +275,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19247,
+  "EOS_Progressed": 19253,
   "EOS_Completed": 84,
-  "EOS_NewPlayers": 1859,
+  "EOS_NewPlayers": 1855,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -6455,6 +6455,11 @@
       "Time": "2024-01-01T06:04:37.0328572+00:00",
       "NumProgressed": 19247,
       "NumCompleted": 84
+    },
+    {
+      "Time": "2024-01-01T07:03:56.8919057+00:00",
+      "NumProgressed": 19253,
+      "NumCompleted": 84
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -6475,7 +6480,7 @@
       "Name": "Beam Me Up Scotty",
       "Percentage": 7,
       "XP": 200,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "LISTEN_TO_ALL_6_VOICEMAILS_1_4",
@@ -6507,7 +6512,7 @@
       "Name": "Righter of Wrongs",
       "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "SAVE_ONE_PERSON_1_0",
@@ -6523,7 +6528,7 @@
       "Name": "Secrets Out",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "UNLOCK_ALL_4_DOORS_1_3",
@@ -6546,7 +6551,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 19247,
+      "Progressed": 19253,
       "Completed": 84
     }
   ],
@@ -6554,8 +6559,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2023-12-31T16:57:53.6678142+00:00",
-  "LastChanged_Achievements": "2024-01-01T06:04:37.0328564+00:00",
+  "LastChanged_Achievements": "2024-01-01T07:03:56.8919054+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:09.201879+00:00",
-  "LastUpdate_Ratings": "2024-01-01T05:58:47.2398552+00:00",
-  "LastUpdate_Achievements": "2024-01-01T06:04:37.0328919+00:00"
+  "LastUpdate_Ratings": "2024-01-01T06:58:12.8069462+00:00",
+  "LastUpdate_Achievements": "2024-01-01T07:03:56.8919414+00:00"
 }

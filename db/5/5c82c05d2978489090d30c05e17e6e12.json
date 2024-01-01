@@ -2,7 +2,7 @@
   "ID": "5c82c05d2978489090d30c05e17e6e12",
   "Name": "EARTHLOCK",
   "ProductSlug": "earthlock-e7d979",
-  "Ranking_Rating": 995,
+  "Ranking_Rating": 986,
   "Ranking_Popularity": 576,
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 112,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.14,
+  "Rating": 4.15,
   "RatingHistory": [
     {
       "Time": "2023-11-20T03:59:04.4319756+00:00",
@@ -227,15 +227,21 @@
       "Rating": 4.14,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-01T07:03:09.8691668+00:00",
+      "Rating": 4.15,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 72142,
+  "EOS_Progressed": 72145,
   "EOS_Completed": 104,
-  "EOS_NewPlayers": 2075,
+  "EOS_NewPlayers": 2076,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -5663,6 +5669,11 @@
       "Time": "2024-01-01T06:07:06.2359107+00:00",
       "NumProgressed": 72142,
       "NumCompleted": 104
+    },
+    {
+      "Time": "2024-01-01T07:05:53.0680891+00:00",
+      "NumProgressed": 72145,
+      "NumCompleted": 104
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -5675,7 +5686,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 26693
+      "UsersEstimate": 26694
     },
     {
       "ID": "Achievement_10",
@@ -5763,7 +5774,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 19478
+      "UsersEstimate": 19479
     },
     {
       "ID": "Achievement_20",
@@ -5946,16 +5957,16 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 72142,
+      "Progressed": 72145,
       "Completed": 104
     }
   ],
   "FirstSeen": "2023-11-16T18:57:39.5657505+00:00",
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
-  "LastChanged": "2023-12-30T13:05:52.7495304+00:00",
-  "LastChanged_Achievements": "2024-01-01T06:07:06.2359102+00:00",
+  "LastChanged": "2024-01-01T07:03:09.8691666+00:00",
+  "LastChanged_Achievements": "2024-01-01T07:05:53.0680888+00:00",
   "LastUpdate_AppInfo": "2023-12-28T16:57:09.138646+00:00",
-  "LastUpdate_Ratings": "2024-01-01T06:03:37.2358265+00:00",
-  "LastUpdate_Achievements": "2024-01-01T06:07:06.2359634+00:00"
+  "LastUpdate_Ratings": "2024-01-01T07:03:09.869167+00:00",
+  "LastUpdate_Achievements": "2024-01-01T07:05:53.0681419+00:00"
 }

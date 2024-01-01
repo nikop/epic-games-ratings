@@ -8,7 +8,7 @@
 | Goblin Tales | 29.00% | ~186 |
 | Bug Hunter | 23.00% | ~148 |
 | Boss Killer | 22.00% | ~141 |
-| The Fallen | 20.00% | ~128 |
+| The Fallen | 20.00% | ~129 |
 | Artifact Collector | 19.00% | ~122 |
 | Trap Master | 18.00% | ~116 |
 | Reincarnation | 15.00% | ~96 |
@@ -45,7 +45,7 @@
 | Cryomancer | 0.30% | ~2 |
 | Hardboiled | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 642 (Ranked 324)  
+Progressed: 643 (Ranked 324)  
 Completed: 1 (0.16%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 1 (0.16%) (Ranked 283)
 | 2023-12-29 | 630 | 1 |
 | 2023-12-30 | 636 | 1 |
 | 2023-12-31 | 641 | 1 |
-| 2024-01-01 | 642 | 1 |
+| 2024-01-01 | 643 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

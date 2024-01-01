@@ -3,9 +3,9 @@
   "Name": "Sonic Frontiers",
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 343,
-  "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 366,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_Completed": 206,
+  "Ranking_EOS_NewPlayers": 362,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -22,11 +22,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 504,
+  "EOS_Progressed": 506,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.6,
+  "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
     {
       "Time": "2023-10-18T09:06:38.9917479+00:00",
@@ -1422,6 +1422,11 @@
       "Time": "2024-01-01T03:05:08.478964+00:00",
       "NumProgressed": 504,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-01T07:04:22.3051939+00:00",
+      "NumProgressed": 506,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1490,7 +1495,7 @@
       "Name": "Combo Convert",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
@@ -1498,7 +1503,7 @@
       "Name": "Perfect Run",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
@@ -1514,7 +1519,7 @@
       "Name": "Elder Koco Encounter",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "FIRST_KODAMA_HERMIT_TALK",
@@ -1538,7 +1543,7 @@
       "Name": "Unknown Threat",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 410
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -1546,7 +1551,7 @@
       "Name": "Speed Demon",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "FIRST_S_RANK",
@@ -1594,7 +1599,7 @@
       "Name": "Ancient Defiance",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "MAIN_CLEAR_ISLAND3",
@@ -1626,7 +1631,7 @@
       "Name": "The Journey Begins",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -1746,21 +1751,21 @@
       "Name": "Swath of Destruction",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     }
   ],
   "AchievementSets": [
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 504,
+      "Progressed": 506,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2024-01-01T06:05:09.4662373+00:00",
+  "LastChanged_Achievements": "2024-01-01T07:04:22.3051936+00:00",
   "LastUpdate_AppInfo": "2023-12-26T20:57:07.4525805+00:00",
-  "LastUpdate_Ratings": "2024-01-01T06:03:42.8002305+00:00",
-  "LastUpdate_Achievements": "2024-01-01T06:05:09.4662642+00:00"
+  "LastUpdate_Ratings": "2024-01-01T07:03:14.5311794+00:00",
+  "LastUpdate_Achievements": "2024-01-01T07:04:22.3052184+00:00"
 }

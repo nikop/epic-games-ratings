@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10374,9 +10374,9 @@
       "Count": 1071
     }
   ],
-  "EOS_Progressed": 131069,
+  "EOS_Progressed": 131077,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1342,
+  "EOS_NewPlayers": 1343,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37769,6 +37769,11 @@
       "Time": "2024-01-01T06:10:26.7611382+00:00",
       "NumProgressed": 131069,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-01T07:09:49.7803037+00:00",
+      "NumProgressed": 131077,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37788,7 +37793,7 @@
       "Name": "Serenity Now!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6553
+      "UsersEstimate": 6554
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -37852,7 +37857,7 @@
       "Name": "Boxcar Kid",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2621
+      "UsersEstimate": 2622
     },
     {
       "ID": "altar_of_hope_unlock_hero_vestal",
@@ -37876,7 +37881,7 @@
       "Name": "This Looks Familiar",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2621
+      "UsersEstimate": 2622
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -37884,7 +37889,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2621
+      "UsersEstimate": 2622
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -37900,7 +37905,7 @@
       "Name": "Predator",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2621
+      "UsersEstimate": 2622
     },
     {
       "ID": "combat_kill_antiquarian",
@@ -37908,7 +37913,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6553
+      "UsersEstimate": 6554
     },
     {
       "ID": "combat_kill_cadavers",
@@ -37940,7 +37945,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6553
+      "UsersEstimate": 6554
     },
     {
       "ID": "combat_kill_fanatics",
@@ -37948,7 +37953,7 @@
       "Name": "Deprogramming",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2621
+      "UsersEstimate": 2622
     },
     {
       "ID": "combat_kill_fisherfolk",
@@ -37956,7 +37961,7 @@
       "Name": "Ichthyophobic",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2621
+      "UsersEstimate": 2622
     },
     {
       "ID": "combat_kill_gaunts",
@@ -37972,7 +37977,7 @@
       "Name": "No More Mouths to Feed",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2621
+      "UsersEstimate": 2622
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -38004,7 +38009,7 @@
       "Name": "Overdue Notice",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6553
+      "UsersEstimate": 6554
     },
     {
       "ID": "combat_kill_pillagers",
@@ -38012,7 +38017,7 @@
       "Name": "Reverse Banditry",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2621
+      "UsersEstimate": 2622
     },
     {
       "ID": "combat_kill_shambler",
@@ -38020,7 +38025,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6553
+      "UsersEstimate": 6554
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -38060,7 +38065,7 @@
       "Name": "Hat Trick",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "driving_biome_clear_cave",
@@ -38132,7 +38137,7 @@
       "Name": "Autodidact",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7864
+      "UsersEstimate": 7865
     },
     {
       "ID": "hero_story_complete_all",
@@ -38180,7 +38185,7 @@
       "Name": "When You Want Something Done Right",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2621
+      "UsersEstimate": 2622
     },
     {
       "ID": "inn_replacement_hero_add",
@@ -38196,7 +38201,7 @@
       "Name": "Worldly Traveller",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2621
+      "UsersEstimate": 2622
     },
     {
       "ID": "relationships_all_negative_mountain",
@@ -38212,7 +38217,7 @@
       "Name": "Utopia",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2621
+      "UsersEstimate": 2622
     },
     {
       "ID": "roster_confirm_all_memoried",
@@ -38244,7 +38249,7 @@
       "Name": "Hot Air",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2621
+      "UsersEstimate": 2622
     },
     {
       "ID": "run_victory_act03",
@@ -38252,7 +38257,7 @@
       "Name": "Eyes Up",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2621
+      "UsersEstimate": 2622
     },
     {
       "ID": "run_victory_act04",
@@ -38292,7 +38297,7 @@
       "Name": "Road Trip",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2621
+      "UsersEstimate": 2622
     },
     {
       "ID": "altar_of_hope_memory_equip_all_crusader",
@@ -38316,7 +38321,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "combat_kill_collector",
@@ -38324,7 +38329,7 @@
       "Name": "This guy... again?",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -38411,21 +38416,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131069,
+      "Progressed": 131077,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 5938,
+      "Progressed": 5946,
       "Completed": 820
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-01T01:54:21.4310511+00:00",
-  "LastChanged_Achievements": "2024-01-01T06:10:26.7611377+00:00",
+  "LastChanged_Achievements": "2024-01-01T07:09:49.7803035+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-01T05:58:40.3536933+00:00",
-  "LastUpdate_Achievements": "2024-01-01T06:10:26.7613321+00:00"
+  "LastUpdate_Ratings": "2024-01-01T06:58:07.157488+00:00",
+  "LastUpdate_Achievements": "2024-01-01T07:09:49.7804801+00:00"
 }

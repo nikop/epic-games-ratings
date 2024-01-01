@@ -6,7 +6,7 @@ Rating: 4.54 (Ranked 544)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 16.00% | ~2,872 |
-| Captain Drummer | 13.00% | ~2,333 |
+| Captain Drummer | 13.00% | ~2,334 |
 | Celebrations are in Order | 12.00% | ~2,154 |
 | The Pit and the Pirates | 11.00% | ~1,974 |
 | Martian Music | 11.00% | ~1,974 |
@@ -14,19 +14,19 @@ Rating: 4.54 (Ranked 544)
 | Bosmang | 11.00% | ~1,974 |
 | Impossible Objects | 11.00% | ~1,974 |
 | Spore Taste | 10.00% | ~1,795 |
-| Stogie for Fogey | 9.00% | ~1,615 |
+| Stogie for Fogey | 9.00% | ~1,616 |
 | Safe Cracker | 9.00% | ~351 |
 | Zen Master | 9.00% | ~351 |
 | Call it Even | 8.00% | ~1,436 |
 | Madame Undersecretary | 8.00% | ~312 |
-| Heal Thy Medic | 7.00% | ~1,256 |
+| Heal Thy Medic | 7.00% | ~1,257 |
 | Keep Arjun in Check | 7.00% | ~273 |
 | Data Archivist | 6.00% | ~1,077 |
 | Drug Gifter | 6.00% | ~1,077 |
 | Thorston Mayer | 6.00% | ~1,077 |
 | Khan's Revenge | 6.00% | ~1,077 |
-| Doctor Approved | 5.00% | ~897 |
-| Bottoms up! | 5.00% | ~897 |
+| Doctor Approved | 5.00% | ~898 |
+| Bottoms up! | 5.00% | ~898 |
 | Master Negotiator | 5.00% | ~195 |
 | Data Logger | 4.00% | ~718 |
 | Miraculous Maya | 4.00% | ~718 |
@@ -35,13 +35,13 @@ Rating: 4.54 (Ranked 544)
 | No Belter Left Behind | 2.00% | ~359 |
 | Debris Spree | 2.00% | ~359 |
 | Data Recoverer | 2.00% | ~359 |
-| Urshanabi Hoarder | 1.00% | ~179 |
+| Urshanabi Hoarder | 1.00% | ~180 |
 | Grave Robber | 0.70% | ~126 |
 | Data Miner | 0.60% | ~108 |
 | Scavenger Star | 0.30% | ~54 |
 | Data Collector | 0.20% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,947 (Ranked 157)  
+Progressed: 17,950 (Ranked 157)  
 Completed: 58 (0.32%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 58 (0.32%) (Ranked 245)
 | 2023-12-29 | 17,756 | 57 |
 | 2023-12-30 | 17,838 | 57 |
 | 2023-12-31 | 17,926 | 58 |
-| 2024-01-01 | 17,947 | 58 |
+| 2024-01-01 | 17,950 | 58 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

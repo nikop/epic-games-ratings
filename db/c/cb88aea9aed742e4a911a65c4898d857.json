@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -239,9 +239,9 @@
       "Count": 77
     }
   ],
-  "EOS_Progressed": 9247,
+  "EOS_Progressed": 9251,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1929,
+  "EOS_NewPlayers": 1923,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3194,6 +3194,11 @@
       "Time": "2024-01-01T06:10:47.7711438+00:00",
       "NumProgressed": 9247,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T07:10:06.0937141+00:00",
+      "NumProgressed": 9251,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3206,7 +3211,7 @@
       "Name": "Conspiracy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "03_TheStolenStar",
@@ -3230,7 +3235,7 @@
       "Name": "Commorragh Survivors",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "06_TheExpanseCalamity",
@@ -3238,7 +3243,7 @@
       "Name": "Expanse Calamity",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "07_TheGrandFinale",
@@ -3310,7 +3315,7 @@
       "Name": "Pentakill",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "16_TheRise",
@@ -3326,7 +3331,7 @@
       "Name": "Exemplar",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "18_TheRookieSkipper",
@@ -3366,7 +3371,7 @@
       "Name": "Perfect Timing",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "23_DynastyRestored",
@@ -3382,7 +3387,7 @@
       "Name": "Highrise",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "25_DynastyProspers",
@@ -3414,7 +3419,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -3430,7 +3435,7 @@
       "Name": "Greatest Exploration",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "31_DontTouchThis",
@@ -3454,7 +3459,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -3518,7 +3523,7 @@
       "Name": "Jungle Heat",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "42_TheIronJudgement",
@@ -3566,7 +3571,7 @@
       "Name": "A Flame",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "48_TheUnexpectedCompany",
@@ -3590,7 +3595,7 @@
       "Name": "Whodunit?",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "51_AmendsToTheDead",
@@ -3606,7 +3611,7 @@
       "Name": "Frog Trader",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "53_GardensOfMadness",
@@ -3622,7 +3627,7 @@
       "Name": "This Is a Job for the Lord Captain!",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "55_ReturningTheBoots",
@@ -3670,7 +3675,7 @@
       "Name": "The Not-So-Bottomless Pit",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "61_TheScourge",
@@ -3725,7 +3730,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 9247,
+      "Progressed": 9251,
       "Completed": 0
     }
   ],
@@ -3733,8 +3738,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-31T16:59:07.4818651+00:00",
-  "LastChanged_Achievements": "2024-01-01T06:10:47.7711433+00:00",
+  "LastChanged_Achievements": "2024-01-01T07:10:06.0937139+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2024-01-01T06:00:38.6625646+00:00",
-  "LastUpdate_Achievements": "2024-01-01T06:10:47.771206+00:00"
+  "LastUpdate_Ratings": "2024-01-01T06:59:36.9862177+00:00",
+  "LastUpdate_Achievements": "2024-01-01T07:10:06.0937714+00:00"
 }

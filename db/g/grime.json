@@ -1789,10 +1789,10 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 165850,
+  "EOS_Progressed": 165855,
   "EOS_Completed": 432,
-  "EOS_NewPlayers": 1504,
-  "EOS_NewCompleters": 32,
+  "EOS_NewPlayers": 1500,
+  "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
     {
@@ -21394,6 +21394,11 @@
       "Time": "2024-01-01T06:05:21.484011+00:00",
       "NumProgressed": 165850,
       "NumCompleted": 432
+    },
+    {
+      "Time": "2024-01-01T07:04:31.5875742+00:00",
+      "NumProgressed": 165855,
+      "NumCompleted": 432
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -21478,7 +21483,7 @@
       "Name": "Weeper",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -21492,9 +21497,9 @@
       "ID": "DEFEAT_ARTISAN",
       "SetID": "ccc0dlh",
       "Name": "Artisan",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 332
+      "UsersEstimate": 498
     },
     {
       "ID": "DEFEAT_FIDUS",
@@ -21548,9 +21553,9 @@
       "ID": "DEFEAT_JAWCRAB",
       "SetID": "ccc0dlh",
       "Name": "Jawcrab",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 829
+      "UsersEstimate": 995
     },
     {
       "ID": "DEFEAT_JAWSTAG",
@@ -21773,21 +21778,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 165433,
+      "Progressed": 165438,
       "Completed": 1250
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 165850,
+      "Progressed": 165855,
       "Completed": 432
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-31T13:00:03.1579363+00:00",
-  "LastChanged_Achievements": "2024-01-01T06:05:21.4840106+00:00",
+  "LastChanged_Achievements": "2024-01-01T07:04:31.5875739+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:50.3299145+00:00",
-  "LastUpdate_Ratings": "2024-01-01T05:59:01.6809739+00:00",
-  "LastUpdate_Achievements": "2024-01-01T06:05:21.4841425+00:00"
+  "LastUpdate_Ratings": "2024-01-01T06:58:25.4646976+00:00",
+  "LastUpdate_Achievements": "2024-01-01T07:04:31.5876663+00:00"
 }
