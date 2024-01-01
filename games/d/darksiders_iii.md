@@ -8,7 +8,7 @@ Number of Ratings: 116  (23.09.2022)
 | ---- | ---------- | ----- |
 | Green with Envy | 78.00% | ~276 |
 | First of many… | 68.00% | ~241 |
-| Helping Hand | 64.00% | ~227 |
+| Helping Hand | 65.00% | ~230 |
 | Increased Vigor | 59.00% | ~209 |
 | Fight Fire with Fire | 56.00% | ~198 |
 | Increased Capacity | 53.00% | ~188 |
@@ -35,7 +35,7 @@ Number of Ratings: 116  (23.09.2022)
 | Big Spender | 24.00% | ~85 |
 | Can you restore the Balance? | 23.00% | ~81 |
 | Cleanup Crew | 22.00% | ~78 |
-| Crowd Source | 21.00% | ~74 |
+| Crowd Source | 22.00% | ~78 |
 | Maximum Capacity | 20.00% | ~71 |
 | Demon Meddler | 20.00% | ~71 |
 | Seeing Red | 19.00% | ~67 |
@@ -47,7 +47,7 @@ Number of Ratings: 116  (23.09.2022)
 | Unbreakable Will | 11.00% | ~39 |
 | Path of the Horseman | 11.00% | ~39 |
 | Take it to the Limit | 10.00% | ~35 |
-| Holy Keeper | 8.00% | ~28 |
+| Holy Keeper | 9.00% | ~32 |
 | Demon Keeper | 8.00% | ~28 |
 | Soul Reaper | 7.00% | ~25 |
 | Humanitarian | 7.00% | ~25 |

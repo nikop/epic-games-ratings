@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -1015,9 +1015,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 7822,
+  "EOS_Progressed": 7825,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 310,
+  "EOS_NewPlayers": 309,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12875,6 +12875,11 @@
       "Time": "2024-01-01T09:05:57.8351586+00:00",
       "NumProgressed": 7822,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T11:06:32.7337921+00:00",
+      "NumProgressed": 7825,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -12918,7 +12923,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -12942,7 +12947,7 @@
       "Name": "Scaling up",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 860
+      "UsersEstimate": 861
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -12950,7 +12955,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -13205,13 +13210,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7822,
+      "Progressed": 7825,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7194,
+      "Progressed": 7197,
       "Completed": 113
     }
   ],
@@ -13219,8 +13224,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-26T19:00:49.2434236+00:00",
-  "LastChanged_Achievements": "2024-01-01T10:04:42.6055744+00:00",
+  "LastChanged_Achievements": "2024-01-01T11:06:32.7337917+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:09.4029638+00:00",
-  "LastUpdate_Ratings": "2024-01-01T09:58:53.1575981+00:00",
-  "LastUpdate_Achievements": "2024-01-01T10:04:42.6056535+00:00"
+  "LastUpdate_Ratings": "2024-01-01T10:59:57.2155975+00:00",
+  "LastUpdate_Achievements": "2024-01-01T11:06:32.7339167+00:00"
 }

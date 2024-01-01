@@ -2,9 +2,9 @@
   "ID": "092bbf0d7e2449c08271cae2fb791cf2",
   "Name": "CHUCHEL",
   "ProductSlug": "chuchel-203808",
-  "Ranking_EOS_Progress": 366,
+  "Ranking_EOS_Progress": 364,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 379,
+  "EOS_Progressed": 381,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 2,
@@ -1259,6 +1259,11 @@
       "Time": "2024-01-01T09:08:31.5129098+00:00",
       "NumProgressed": 379,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-01T11:08:39.3979663+00:00",
+      "NumProgressed": 381,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -1277,9 +1282,9 @@
       "ID": "ach2",
       "SetID": "796kfpa",
       "Name": "Blabber",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 145,
-      "UsersEstimate": 190
+      "UsersEstimate": 187
     },
     {
       "ID": "ach3",
@@ -1317,23 +1322,23 @@
       "ID": "ach7",
       "SetID": "796kfpa",
       "Name": "Snail Racing Champion",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 145,
-      "UsersEstimate": 42
+      "UsersEstimate": 38
     }
   ],
   "AchievementSets": [
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 379,
+      "Progressed": 381,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2024-01-01T10:06:09.3782868+00:00",
+  "LastChanged_Achievements": "2024-01-01T11:08:39.3979659+00:00",
   "LastUpdate_AppInfo": "2023-12-27T20:57:07.636228+00:00",
-  "LastUpdate_Ratings": "2024-01-01T09:58:08.3685483+00:00",
-  "LastUpdate_Achievements": "2024-01-01T10:06:09.3782992+00:00"
+  "LastUpdate_Ratings": "2024-01-01T10:58:47.5586143+00:00",
+  "LastUpdate_Achievements": "2024-01-01T11:08:39.3979931+00:00"
 }

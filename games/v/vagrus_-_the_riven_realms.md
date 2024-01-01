@@ -28,6 +28,7 @@
 | Been There | 4.00% | ~11 |
 | Spiritual Journey | 4.00% | ~11 |
 | Trouble at Fort Larius | 4.00% | ~11 |
+| Bounty Hunter | 3.00% | ~8 |
 | Quartermaster | 3.00% | ~8 |
 | Potential Unlocked | 3.00% | ~8 |
 | Xevarian Gambit | 3.00% | ~8 |
@@ -36,10 +37,10 @@
 | A Terrible Will | 3.00% | ~8 |
 | Inquisitions of Discord | 3.00% | ~8 |
 | Unseen Patterns | 3.00% | ~8 |
-| Bounty Hunter | 2.00% | ~5 |
 | Supercargo | 2.00% | ~5 |
 | Huntress Unbound | 2.00% | ~5 |
 | Business As Usual | 2.00% | ~5 |
+| Legacy of a Mercenary | 2.00% | ~5 |
 | Delayed | 2.00% | ~5 |
 | A Real Battle | 2.00% | ~5 |
 | Life... Finds a Way | 2.00% | ~5 |
@@ -52,7 +53,6 @@
 | Adept | 1.00% | ~3 |
 | Talent Nurtured | 1.00% | ~3 |
 | Ever After | 1.00% | ~3 |
-| Legacy of a Mercenary | 1.00% | ~3 |
 | Trailblazer | 1.00% | ~3 |
 | Moving At Odd Angles | 1.00% | ~3 |
 | The Darkness Within | 1.00% | ~3 |

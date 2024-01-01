@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 163,
   "Ranking_EOS_NewPlayers": 334,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 621,
+  "EOS_Progressed": 622,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
@@ -2729,6 +2729,11 @@
       "Time": "2023-12-31T22:05:00.6370739+00:00",
       "NumProgressed": 621,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-01T11:07:02.4116839+00:00",
+      "NumProgressed": 622,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 14,
@@ -2748,7 +2753,7 @@
       "Name": "Is it merely a dream?",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -2804,7 +2809,7 @@
       "Name": "This looks really bad",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -2851,14 +2856,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 621,
+      "Progressed": 622,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2024-01-01T10:05:02.522461+00:00",
+  "LastChanged_Achievements": "2024-01-01T11:07:02.4116837+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:37.2024016+00:00",
-  "LastUpdate_Ratings": "2024-01-01T09:59:28.8945304+00:00",
-  "LastUpdate_Achievements": "2024-01-01T10:05:02.5224813+00:00"
+  "LastUpdate_Ratings": "2024-01-01T11:00:53.8770817+00:00",
+  "LastUpdate_Achievements": "2024-01-01T11:07:02.4117076+00:00"
 }

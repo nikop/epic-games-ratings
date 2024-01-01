@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1388,
+  "EOS_Progressed": 1389,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.52,
   "EosHistory": [
@@ -4789,6 +4789,11 @@
       "Time": "2024-01-01T06:06:59.9238883+00:00",
       "NumProgressed": 1388,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-01T11:07:14.6640499+00:00",
+      "NumProgressed": 1389,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4817,7 +4822,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -4833,7 +4838,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -4863,9 +4868,9 @@
       "ID": "_09_Completion_20",
       "SetID": "8a1io5d",
       "Name": "Powder Monkey",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 375
+      "UsersEstimate": 361
     },
     {
       "ID": "_10_Completion_30",
@@ -5008,7 +5013,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1388,
+      "Progressed": 1389,
       "Completed": 35
     }
   ],
@@ -5016,8 +5021,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-27T21:58:17.6269244+00:00",
-  "LastChanged_Achievements": "2024-01-01T10:05:11.36738+00:00",
+  "LastChanged_Achievements": "2024-01-01T11:07:14.6640496+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.1530944+00:00",
-  "LastUpdate_Ratings": "2024-01-01T10:00:14.1174657+00:00",
-  "LastUpdate_Achievements": "2024-01-01T10:05:11.3674155+00:00"
+  "LastUpdate_Ratings": "2024-01-01T11:02:04.2521552+00:00",
+  "LastUpdate_Achievements": "2024-01-01T11:07:14.6640823+00:00"
 }

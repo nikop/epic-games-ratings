@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 185,
   "Ranking_EOS_NewPlayers": 330,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
     "PcReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -1425,9 +1425,9 @@
       "ID": "ACHIEVEMENT_33",
       "SetID": "gagif7",
       "Name": "Start Your Engines",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -1488,8 +1488,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2024-01-01T10:03:28.7745748+00:00",
+  "LastChanged_Achievements": "2024-01-01T11:04:47.0082508+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:15.8225499+00:00",
-  "LastUpdate_Ratings": "2024-01-01T09:57:47.1557925+00:00",
-  "LastUpdate_Achievements": "2024-01-01T10:03:28.7746127+00:00"
+  "LastUpdate_Ratings": "2024-01-01T10:58:13.9404728+00:00",
+  "LastUpdate_Achievements": "2024-01-01T11:04:47.0082842+00:00"
 }

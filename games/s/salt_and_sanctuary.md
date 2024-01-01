@@ -6,16 +6,16 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~450,604 |
-| The Three | 64.00% | ~347,453 |
-| The Banquet | 40.00% | ~217,158 |
-| Devara's Light | 31.00% | ~168,298 |
-| The Iron Ones | 19.00% | ~103,150 |
-| The Village | 17.00% | ~92,292 |
-| The Forest | 15.00% | ~81,434 |
-| The Imposter | 14.00% | ~76,005 |
-| The Keep | 14.00% | ~76,005 |
-| Branded | 13.00% | ~70,576 |
+| Find Sanctuary | 83.00% | ~450,609 |
+| The Three | 64.00% | ~347,457 |
+| The Banquet | 40.00% | ~217,161 |
+| Devara's Light | 31.00% | ~168,300 |
+| The Iron Ones | 19.00% | ~103,151 |
+| The Village | 17.00% | ~92,293 |
+| The Forest | 15.00% | ~81,435 |
+| The Imposter | 14.00% | ~76,006 |
+| The Keep | 14.00% | ~76,006 |
+| Branded | 13.00% | ~70,577 |
 | The Castle | 11.00% | ~59,719 |
 | The Dome | 9.00% | ~48,861 |
 | The Red Hall | 9.00% | ~48,861 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,858 |
 | Fading Fast | 1.00% | ~5,429 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 542,896 (Ranked 34)  
+Progressed: 542,902 (Ranked 34)  
 Completed: 1,664 (0.31%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,10 +300,10 @@ Completed: 1,664 (0.31%) (Ranked 249)
 | 2023-12-29 | 542,546 | 1,660 |
 | 2023-12-30 | 542,699 | 1,663 |
 | 2023-12-31 | 542,847 | 1,664 |
-| 2024-01-01 | 542,896 | 1,664 |
+| 2024-01-01 | 542,902 | 1,664 |
 ## Awards
 Max (Challenging Combat): 296  (Ranked 261)  
-Sum: 2,024 (Ranked 216)  
+Sum: 2,025 (Ranked 216)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
@@ -314,7 +314,7 @@ Diff (max vs sum): 45
 | This game has Diverse Characters | 247 |
 | This game has Amazing Storytelling | 236 |
 | This game has Amazing Characters | 233 |
-| This game has Unique Visuals | 228 |
+| This game has Unique Visuals | 229 |
 | This game has Obsessive Gameplay | 164 |
 | This game has a Creative Community | 94 |
 ## Ratings History
@@ -521,3 +521,4 @@ Diff (max vs sum): 45
 | 2023-12-29 | 4.61 | - | 296 | 2,019 |
 | 2023-12-30 | 4.61 | - | 296 | 2,022 |
 | 2023-12-31 | 4.61 | - | 296 | 2,024 |
+| 2024-01-01 | 4.61 | - | 296 | 2,025 |

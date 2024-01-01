@@ -5,27 +5,27 @@ Rating: 4.52 (Ranked 574)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 94.00% | ~5,655 |
-| I will survive! | 93.00% | ~5,595 |
-| All thumbs | 92.00% | ~5,535 |
+| Prepper | 94.00% | ~5,656 |
+| I will survive! | 93.00% | ~5,596 |
+| All thumbs | 92.00% | ~5,536 |
 | Home, sweet home | 91.00% | ~5,475 |
-| Survivalist | 90.00% | ~5,414 |
+| Survivalist | 90.00% | ~5,415 |
 | One way ticket | 85.00% | ~5,114 |
-| Last man standing | 81.00% | ~4,873 |
-| Family guy | 77.00% | ~4,632 |
-| Out of the Bag | 76.00% | ~4,572 |
-| The Dark Side | 71.00% | ~4,271 |
+| Last man standing | 81.00% | ~4,874 |
+| Family guy | 77.00% | ~4,633 |
+| Out of the Bag | 76.00% | ~4,573 |
+| The Dark Side | 71.00% | ~4,272 |
 | Souper! | 66.00% | ~3,971 |
 | Duck and cover! | 66.00% | ~3,971 |
 | 2-1-6 | 60.00% | ~3,610 |
 | Pacifist | 60.00% | ~3,610 |
 | A gift | 55.00% | ~3,309 |
 | Girl Power | 49.00% | ~2,948 |
-| What goes around... | 45.00% | ~2,707 |
-| Be Prepared | 39.00% | ~2,346 |
+| What goes around... | 45.00% | ~2,708 |
+| Be Prepared | 39.00% | ~2,347 |
 | Unbreakable | 37.00% | ~2,226 |
 | Gotta get 'em all | 35.00% | ~2,106 |
-| This is the end | 34.00% | ~2,045 |
+| This is the end | 34.00% | ~2,046 |
 | Atomic drill | 32.00% | ~1,925 |
 | Disco Roach | 29.00% | ~1,745 |
 | Dawkins Residence | 22.00% | ~1,324 |
@@ -33,11 +33,11 @@ Rating: 4.52 (Ranked 574)
 | New order | 18.00% | ~1,083 |
 | New species | 17.00% | ~1,023 |
 | Enigma | 16.00% | ~963 |
-| A New Hope | 15.00% | ~902 |
+| A New Hope | 15.00% | ~903 |
 | Challenger | 13.00% | ~782 |
 | Men in Black | 13.00% | ~782 |
 | No stone unturned | 12.00% | ~722 |
-| Unplugged | 9.00% | ~541 |
+| Unplugged | 9.00% | ~542 |
 | Mad Hatter | 8.00% | ~481 |
 | Holidays! | 7.00% | ~421 |
 | Yes Man | 7.00% | ~421 |
@@ -47,7 +47,7 @@ Rating: 4.52 (Ranked 574)
 | Rogue One | 5.00% | ~301 |
 | Danger zone | 4.00% | ~241 |
 | Friend in need | 4.00% | ~241 |
-| Soup Can into Space | 3.00% | ~180 |
+| Soup Can into Space | 3.00% | ~181 |
 | Enola Gay | 2.00% | ~120 |
 | Stay frosty | 2.00% | ~120 |
 | Panzer | 2.00% | ~120 |
@@ -66,8 +66,8 @@ Rating: 4.52 (Ranked 574)
 | Tora! Tora! Tora! | 0.20% | ~12 |
 | Dead Hand | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,016 (Ranked 197)  
-Completed: 1 (0.02%) (Ranked 358)  
+Progressed: 6,017 (Ranked 197)  
+Completed: 1 (0.02%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -322,7 +322,7 @@ Completed: 1 (0.02%) (Ranked 358)
 | 2023-12-29 | 5,972 | 1 |
 | 2023-12-30 | 5,989 | 1 |
 | 2023-12-31 | 6,006 | 1 |
-| 2024-01-01 | 6,016 | 1 |
+| 2024-01-01 | 6,017 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

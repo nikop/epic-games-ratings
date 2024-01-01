@@ -16,9 +16,9 @@
 | Solved fifth case | 7.00% | ~16 |
 | Solved The Spider of Lanka 2nd Case | 7.00% | ~13 |
 | Solved eighth case | 6.00% | ~14 |
+| Solved tenth case | 6.00% | ~14 |
 | Solved the Lemurian Vampire 2nd Case | 6.00% | ~11 |
 | Solved ninth case | 5.00% | ~12 |
-| Solved tenth case | 5.00% | ~12 |
 | Solved eleventh case | 4.00% | ~9 |
 | Solved the Lemurian Vampire 3rd Case | 3.00% | ~5 |
 ## Popularity (Based on EOS Achievements)

@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 56.00% | ~266 |
+| In the Black | 56.00% | ~267 |
 | Starting Skyward | 50.00% | ~238 |
-| Grime is Not Good | 43.00% | ~204 |
-| Floor Galore | 38.00% | ~180 |
+| Grime is Not Good | 43.00% | ~205 |
+| Floor Galore | 38.00% | ~181 |
 | Campaign Launch | 37.00% | ~176 |
 | Dinner Dash | 37.00% | ~176 |
 | Need a Consult | 34.00% | ~162 |
 | Upgrade Unlock | 34.00% | ~162 |
 | It's Technical | 34.00% | ~162 |
-| Delegate Maintenance | 30.00% | ~142 |
+| Delegate Maintenance | 30.00% | ~143 |
 | Proper Walls | 29.00% | ~138 |
 | Destination Destiny | 29.00% | ~138 |
 | Happy Tenants | 24.00% | ~114 |
 | Potent Potables | 24.00% | ~114 |
 | Smooth Service | 23.00% | ~109 |
-| Your Prestige is Rising | 22.00% | ~104 |
-| Retail Revenue | 22.00% | ~104 |
+| Your Prestige is Rising | 22.00% | ~105 |
+| Retail Revenue | 22.00% | ~105 |
 | Don't Feel a Loan | 21.00% | ~100 |
 | People Mover | 19.00% | ~90 |
 | Lux Living | 18.00% | ~86 |
@@ -32,8 +32,8 @@
 | Rehab Expert | 17.00% | ~81 |
 | Tasty Profits | 17.00% | ~81 |
 | Established Fame | 16.00% | ~76 |
-| Under One Roof | 14.00% | ~66 |
-| Cashflow Chief | 14.00% | ~66 |
+| Under One Roof | 14.00% | ~67 |
+| Cashflow Chief | 14.00% | ~67 |
 | Starred Dining | 13.00% | ~62 |
 | Boutique Benefits | 12.00% | ~57 |
 | Thrilled Tenants | 12.00% | ~57 |
@@ -49,11 +49,11 @@
 | Water Features | 7.00% | ~33 |
 | Golden Opportunity | 7.00% | ~33 |
 | Phoning It In | 7.00% | ~33 |
-| Careful Constructor | 6.00% | ~28 |
-| Meet Me at HQ | 6.00% | ~28 |
-| Maximum Reuse | 6.00% | ~28 |
-| Revenue Royalty | 6.00% | ~28 |
-| Pipe Up | 6.00% | ~28 |
+| Careful Constructor | 6.00% | ~29 |
+| Meet Me at HQ | 6.00% | ~29 |
+| Maximum Reuse | 6.00% | ~29 |
+| Revenue Royalty | 6.00% | ~29 |
+| Pipe Up | 6.00% | ~29 |
 | Baron of Business | 5.00% | ~24 |
 | I'm Busy Ruling | 5.00% | ~24 |
 | Sky High Stature | 5.00% | ~24 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 475 (Ranked 348)  
+Progressed: 476 (Ranked 348)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-29 | 459 | 0 |
 | 2023-12-30 | 468 | 0 |
 | 2023-12-31 | 474 | 0 |
-| 2024-01-01 | 475 | 0 |
+| 2024-01-01 | 476 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

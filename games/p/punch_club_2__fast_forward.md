@@ -14,9 +14,9 @@
 | Neurotrainer – power gainer! | 74.00% | ~378 |
 | Fitness professional | 73.00% | ~373 |
 | Employee of the week | 72.00% | ~368 |
-| Your own amateur gym | 67.00% | ~342 |
+| Your own amateur gym | 68.00% | ~347 |
+| Run K, run! | 67.00% | ~342 |
 | First defeat | 66.00% | ~337 |
-| Run K, run! | 66.00% | ~337 |
 | Hello, world! | 65.00% | ~332 |
 | No bullying more | 64.00% | ~327 |
 | Fighting is cool | 63.00% | ~322 |
@@ -47,11 +47,11 @@
 | Deal with life | 35.00% | ~179 |
 | GYM professional | 35.00% | ~179 |
 | Mom got better | 34.00% | ~174 |
+| Poisoned fighter | 34.00% | ~174 |
 | The die is cast | 34.00% | ~174 |
-| Poisoned fighter | 33.00% | ~169 |
 | Get out of my apartment! | 33.00% | ~169 |
+| Gang wrangler | 32.00% | ~164 |
 | Seashell hunter | 32.00% | ~164 |
-| Gang wrangler | 31.00% | ~158 |
 | Undercover robot | 31.00% | ~158 |
 | Problems of cyborgs | 30.00% | ~153 |
 | Absolute Champion! | 30.00% | ~153 |

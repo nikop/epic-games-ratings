@@ -5,46 +5,46 @@ Rating: 3.28 (Ranked 1,086)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Good to have Allies | 27.00% | ~579 |
-| Defenses Online | 25.00% | ~536 |
+| It's Good to have Allies | 27.00% | ~580 |
+| Defenses Online | 25.00% | ~537 |
 | Facility Online | 20.00% | ~429 |
 | Corporal | 15.00% | ~322 |
-| Covert Operative | 12.00% | ~257 |
+| Covert Operative | 12.00% | ~258 |
 | Sergeant | 11.00% | ~236 |
-| Lieutenant | 10.00% | ~214 |
-| Getting Deployment | 10.00% | ~214 |
-| On Target | 10.00% | ~214 |
+| Lieutenant | 10.00% | ~215 |
+| Getting Deployment | 10.00% | ~215 |
+| Stocking Up | 10.00% | ~215 |
+| On Target | 10.00% | ~215 |
 | Keeping Busy | 9.00% | ~193 |
-| Stocking Up | 9.00% | ~193 |
 | Infantry Reporting | 9.00% | ~193 |
 | Fighting for Survival | 8.00% | ~172 |
 | Silver Competitor | 8.00% | ~172 |
+| Factory Expansion | 8.00% | ~172 |
 | Exterminator | 7.00% | ~150 |
 | Captain | 7.00% | ~150 |
-| Factory Expansion | 7.00% | ~150 |
 | Know The Enemy | 6.00% | ~129 |
+| Silver Achiever | 6.00% | ~129 |
 | Moving On Up | 6.00% | ~129 |
 | Brothers in Arms | 6.00% | ~129 |
 | Player Betrayer | 5.00% | ~107 |
-| Silver Achiever | 5.00% | ~107 |
 | Major | 5.00% | ~107 |
 | Gold Achiever | 4.00% | ~86 |
 | Resourceful | 4.00% | ~86 |
+| Advanced Warfare | 3.00% | ~64 |
 | Colonel | 3.00% | ~64 |
 | Control the Skies | 3.00% | ~64 |
-| Advanced Warfare | 2.00% | ~43 |
+| General | 2.00% | ~43 |
 | Seek & Destroy | 2.00% | ~43 |
 | Battle Ready | 2.00% | ~43 |
-| General | 1.00% | ~21 |
+| Advanced Interceptors | 1.00% | ~21 |
 | Titan Tanks | 1.00% | ~21 |
 | Shock Troops | 1.00% | ~21 |
-| Advanced Interceptors | 0.90% | ~19 |
 | Jet Troops | 0.70% | ~15 |
 | Gold Competitor | 0.10% | ~2 |
 | Platinum Achiever | 0.10% | ~2 |
 | Platinum Competitor | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,144 (Ranked 239)  
+Progressed: 2,147 (Ranked 240)  
 Completed: 1 (0.05%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,7 +251,7 @@ Completed: 1 (0.05%) (Ranked 334)
 | 2023-12-29 | 2,122 | 1 |
 | 2023-12-30 | 2,135 | 1 |
 | 2023-12-31 | 2,141 | 1 |
-| 2024-01-01 | 2,144 | 1 |
+| 2024-01-01 | 2,147 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

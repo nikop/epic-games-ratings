@@ -5,10 +5,10 @@
   "Ranking_Rating": 1086,
   "Ranking_Popularity": 576,
   "Ranking_PopularitySum": 576,
-  "Ranking_EOS_Progress": 239,
+  "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 334,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2144,
+  "EOS_Progressed": 2147,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -8245,6 +8245,11 @@
       "Time": "2024-01-01T09:06:49.6051236+00:00",
       "NumProgressed": 2144,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-01T11:07:27.8464496+00:00",
+      "NumProgressed": 2147,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8326,9 +8331,9 @@
       "ID": "ach_silver_rewards_50",
       "SetID": "bm61c2p",
       "Name": "Silver Achiever",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 107
+      "UsersEstimate": 129
     },
     {
       "ID": "objective_headquarters_10",
@@ -8350,9 +8355,9 @@
       "ID": "objective_headquarters_20",
       "SetID": "bm61c2p",
       "Name": "Advanced Warfare",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 43
+      "UsersEstimate": 64
     },
     {
       "ID": "objective_headquarters_5",
@@ -8384,7 +8389,7 @@
       "Name": "Lieutenant",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -8414,9 +8419,9 @@
       "ID": "objective_hero_level_up_7",
       "SetID": "bm61c2p",
       "Name": "General",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 21
+      "UsersEstimate": 43
     },
     {
       "ID": "objective_key_alliance_help_2",
@@ -8432,7 +8437,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -8440,7 +8445,7 @@
       "Name": "Covert Operative",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -8448,7 +8453,7 @@
       "Name": "Getting Deployment",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -8462,9 +8467,9 @@
       "ID": "objective_key_gather_resources_from_tiles_3",
       "SetID": "bm61c2p",
       "Name": "Stocking Up",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 193
+      "UsersEstimate": 215
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -8480,7 +8485,7 @@
       "Name": "On Target",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -8502,9 +8507,9 @@
       "ID": "objective_multiple_factory_1",
       "SetID": "bm61c2p",
       "Name": "Factory Expansion",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 172
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -8512,15 +8517,15 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
       "SetID": "bm61c2p",
       "Name": "Advanced Interceptors",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "objective_research_unlock_ground_vehicle_tier_4",
@@ -8559,7 +8564,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2144,
+      "Progressed": 2147,
       "Completed": 1
     }
   ],
@@ -8567,8 +8572,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-25T23:58:10.3014256+00:00",
-  "LastChanged_Achievements": "2024-01-01T10:05:20.2226029+00:00",
+  "LastChanged_Achievements": "2024-01-01T11:07:27.8464494+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:25.9392392+00:00",
-  "LastUpdate_Ratings": "2024-01-01T09:57:41.0989984+00:00",
-  "LastUpdate_Achievements": "2024-01-01T10:05:20.2226685+00:00"
+  "LastUpdate_Ratings": "2024-01-01T10:58:04.5225839+00:00",
+  "LastUpdate_Achievements": "2024-01-01T11:07:27.8465011+00:00"
 }

@@ -8,13 +8,13 @@ Number of Ratings: 15,086  (23.09.2022)
 | ---- | ---------- | ----- |
 | First Steps | 1.00% | ~2,422 |
 | Getting A Glimpse | 1.00% | ~2,422 |
+| A Quick Escape | 1.00% | ~2,422 |
 | Uncharted Territory | 1.00% | ~2,422 |
 | Matching | 1.00% | ~36 |
 | That Was Quick | 0.90% | ~2,179 |
 | Colorful Corpse | 0.90% | ~2,179 |
 | Defeat The Dark | 0.90% | ~2,179 |
 | A Donation | 0.90% | ~2,179 |
-| A Quick Escape | 0.90% | ~2,179 |
 | Explorer | 0.90% | ~2,179 |
 | An Offering | 0.90% | ~2,179 |
 | Not Touching You | 0.90% | ~33 |
@@ -31,7 +31,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Ambitious Intent | 0.70% | ~1,695 |
 | R.I.P | 0.70% | ~1,695 |
 | Dig Your Own Grave | 0.70% | ~1,695 |
-| Walk It Off | 0.70% | ~1,695 |
 | Cold Hearted | 0.70% | ~1,695 |
 | I Am Overburdened | 0.70% | ~1,695 |
 | The Bestiary | 0.70% | ~1,695 |
@@ -39,6 +38,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Toxic | 0.70% | ~1,695 |
 | Consecutive Curses | 0.60% | ~1,453 |
 | Who To Trust? | 0.60% | ~1,453 |
+| Walk It Off | 0.60% | ~1,453 |
 | Destroy Your Fears | 0.60% | ~1,453 |
 | Stone Touch | 0.60% | ~1,453 |
 | New Perspectives | 0.60% | ~1,453 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,150 (Ranked 72)  
+Progressed: 242,154 (Ranked 72)  
 Completed: 302 (0.12%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -401,7 +401,7 @@ Completed: 302 (0.12%) (Ranked 299)
 | 2023-12-29 | 241,985 | 302 |
 | 2023-12-30 | 242,061 | 302 |
 | 2023-12-31 | 242,129 | 302 |
-| 2024-01-01 | 242,150 | 302 |
+| 2024-01-01 | 242,154 | 302 |
 ## Awards
 Max (Quickly Understood Controls): 1,513  (Ranked 135)  
 Sum: 11,777 (Ranked 88)  

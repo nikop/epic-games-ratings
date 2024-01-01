@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 569,
   "Ranking_EOS_Completed": 122,
   "Ranking_EOS_NewPlayers": 528,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-07-28T14:00:00+00:00",
     "PcReleaseDate": "2023-07-28T14:00:00+00:00",
@@ -251,9 +251,9 @@
       "ID": "ACH_COLLECTABLES_10",
       "SetID": "a2aifpa",
       "Name": "Vintage Collector",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_DEATH_1",
@@ -307,17 +307,17 @@
       "ID": "ACH_ELECTROCUTE_100",
       "SetID": "a2aifpa",
       "Name": "Feel the Spark",
-      "Percentage": 5,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_ENEMIES_1000",
       "SetID": "a2aifpa",
       "Name": "Overkill",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_FLAWLESS_BOSS",
@@ -448,8 +448,8 @@
   ],
   "FirstSeen": "2023-07-30T18:59:40.5539908+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:08.7767583+00:00",
-  "LastChanged_Achievements": "2024-01-01T10:09:34.2274597+00:00",
+  "LastChanged_Achievements": "2024-01-01T11:11:08.0175693+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:20.1917529+00:00",
-  "LastUpdate_Ratings": "2024-01-01T09:57:21.6651711+00:00",
-  "LastUpdate_Achievements": "2024-01-01T10:09:34.2274862+00:00"
+  "LastUpdate_Ratings": "2024-01-01T10:57:33.8222228+00:00",
+  "LastUpdate_Achievements": "2024-01-01T11:11:08.0175918+00:00"
 }

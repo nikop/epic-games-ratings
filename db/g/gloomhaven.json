@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2021-10-20T12:00:00+00:00",
@@ -2837,9 +2837,9 @@
       "Count": 221
     }
   ],
-  "EOS_Progressed": 30264,
+  "EOS_Progressed": 30267,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1659,
+  "EOS_NewPlayers": 1654,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15282,6 +15282,11 @@
       "Time": "2024-01-01T10:09:02.4270018+00:00",
       "NumProgressed": 30264,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-01T11:10:22.9504285+00:00",
+      "NumProgressed": 30267,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -15462,7 +15467,7 @@
       "Name": "Precious!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 4842
+      "UsersEstimate": 4843
     },
     {
       "ID": "Achievement_Trophy23",
@@ -15478,7 +15483,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 11803
+      "UsersEstimate": 11804
     },
     {
       "ID": "Achievement_Trophy25",
@@ -15494,7 +15499,7 @@
       "Name": "Overkill",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 9987
+      "UsersEstimate": 9988
     },
     {
       "ID": "Achievement_Trophy27",
@@ -15510,7 +15515,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 9684
+      "UsersEstimate": 9685
     },
     {
       "ID": "Achievement_Trophy29",
@@ -15526,7 +15531,7 @@
       "Name": "Spread the plague",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 8171
+      "UsersEstimate": 8172
     },
     {
       "ID": "Achievement_Trophy31",
@@ -15550,7 +15555,7 @@
       "Name": "Pack leader",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 2118
+      "UsersEstimate": 2119
     },
     {
       "ID": "Achievement_Trophy34",
@@ -15582,7 +15587,7 @@
       "Name": "Get over here!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 7263
+      "UsersEstimate": 7264
     },
     {
       "ID": "Achievement_Trophy38",
@@ -15590,7 +15595,7 @@
       "Name": "Mine... All Mine...",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 4842
+      "UsersEstimate": 4843
     },
     {
       "ID": "Achievement_Trophy39",
@@ -15598,7 +15603,7 @@
       "Name": "Just when I thought I was out...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 5750
+      "UsersEstimate": 5751
     },
     {
       "ID": "Achievement_Trophy40",
@@ -15622,7 +15627,7 @@
       "Name": "Black death",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 2118
+      "UsersEstimate": 2119
     },
     {
       "ID": "Achievement_Trophy43",
@@ -15630,7 +15635,7 @@
       "Name": "Light of my life",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3934
+      "UsersEstimate": 3935
     },
     {
       "ID": "Achievement_Trophy44",
@@ -15662,7 +15667,7 @@
       "Name": "Play it again, Sam",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 2118
+      "UsersEstimate": 2119
     },
     {
       "ID": "Achievement_Trophy48",
@@ -15670,7 +15675,7 @@
       "Name": "Doom and gloom",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 3026
+      "UsersEstimate": 3027
     },
     {
       "ID": "Achievement_Trophy49",
@@ -15781,7 +15786,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 30264,
+      "Progressed": 30267,
       "Completed": 1
     }
   ],
@@ -15789,8 +15794,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2024-01-01T08:59:16.882574+00:00",
-  "LastChanged_Achievements": "2024-01-01T10:09:02.4270014+00:00",
+  "LastChanged_Achievements": "2024-01-01T11:10:22.9504283+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:05.9428761+00:00",
-  "LastUpdate_Ratings": "2024-01-01T09:58:46.7262479+00:00",
-  "LastUpdate_Achievements": "2024-01-01T10:09:02.4270995+00:00"
+  "LastUpdate_Ratings": "2024-01-01T10:59:46.8794803+00:00",
+  "LastUpdate_Achievements": "2024-01-01T11:10:22.9505324+00:00"
 }

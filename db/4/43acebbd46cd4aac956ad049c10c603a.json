@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -3800,9 +3800,9 @@
       "ID": "TouchGrass",
       "SetID": "1n308hc",
       "Name": "Touch Grass",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 280
     },
     {
       "ID": "TrevorsBiographer",
@@ -3865,8 +3865,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-12-29T23:57:10.9507958+00:00",
-  "LastChanged_Achievements": "2024-01-01T10:06:01.9737044+00:00",
+  "LastChanged_Achievements": "2024-01-01T11:08:28.1124864+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.9244138+00:00",
-  "LastUpdate_Ratings": "2024-01-01T09:58:29.7134727+00:00",
-  "LastUpdate_Achievements": "2024-01-01T10:06:01.9737679+00:00"
+  "LastUpdate_Ratings": "2024-01-01T10:59:19.24852+00:00",
+  "LastUpdate_Achievements": "2024-01-01T11:08:28.1125556+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1548,9 +1548,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 27387,
+  "EOS_Progressed": 27392,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 714,
+  "EOS_NewPlayers": 713,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -12613,6 +12613,11 @@
       "Time": "2024-01-01T10:09:27.8610234+00:00",
       "NumProgressed": 27387,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-01T11:10:59.415588+00:00",
+      "NumProgressed": 27392,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -12688,7 +12693,7 @@
       "Name": "Captain and Crew",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -12696,7 +12701,7 @@
       "Name": "For Glory",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "BossCastleDefeated",
@@ -12704,7 +12709,7 @@
       "Name": "Spells and Swords",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1643
+      "UsersEstimate": 1644
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -12816,7 +12821,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     },
     {
       "ID": "EndTimerFail",
@@ -12935,21 +12940,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 27387,
+      "Progressed": 27392,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 6317,
+      "Progressed": 6322,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-31T13:02:19.9867054+00:00",
-  "LastChanged_Achievements": "2024-01-01T10:09:27.8610227+00:00",
+  "LastChanged_Achievements": "2024-01-01T11:10:59.4155875+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.0569835+00:00",
-  "LastUpdate_Ratings": "2024-01-01T10:00:34.5971379+00:00",
-  "LastUpdate_Achievements": "2024-01-01T10:09:27.8611221+00:00"
+  "LastUpdate_Ratings": "2024-01-01T11:03:06.1262912+00:00",
+  "LastUpdate_Achievements": "2024-01-01T11:10:59.4156593+00:00"
 }

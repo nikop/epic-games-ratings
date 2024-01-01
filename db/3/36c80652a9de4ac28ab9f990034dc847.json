@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 566,
   "Ranking_EOS_Completed": 125,
   "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-08-22T23:00:00+00:00",
     "PcReleaseDate": "2019-08-22T23:00:00+00:00",
@@ -244,9 +244,9 @@
       "ID": "All_Bosses",
       "SetID": "cla1dpp",
       "Name": "Till death tear us apart!",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "All_Human_Missions",
@@ -260,17 +260,17 @@
       "ID": "All_Missions",
       "SetID": "cla1dpp",
       "Name": "Patience and a little dust.",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Boss_Blacksmith",
       "SetID": "cla1dpp",
       "Name": "No, this is not a stack of coins!",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Boss_Cita",
@@ -292,9 +292,9 @@
       "ID": "Boss_King",
       "SetID": "cla1dpp",
       "Name": "You are tearing me apart Deathy!",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Boss_Pyramid",
@@ -340,9 +340,9 @@
       "ID": "Full_Upgrade_Cita",
       "SetID": "cla1dpp",
       "Name": "Anything for my princess!",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "No_Lose_All_Human_Missions",
@@ -404,9 +404,9 @@
       "ID": "Up_Farm",
       "SetID": "cla1dpp",
       "Name": "We need to go deeper!",
-      "Percentage": 15,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Up_Tower",
@@ -427,8 +427,8 @@
   ],
   "FirstSeen": "2023-10-24T18:58:49.6745587+00:00",
   "FirstSeenAchievements": "2023-08-23T14:02:21.3308024+00:00",
-  "LastChanged_Achievements": "2024-01-01T10:09:08.6842946+00:00",
+  "LastChanged_Achievements": "2024-01-01T11:10:32.0963924+00:00",
   "LastUpdate_AppInfo": "2023-12-28T02:56:54.5483043+00:00",
-  "LastUpdate_Ratings": "2024-01-01T09:58:56.6151167+00:00",
-  "LastUpdate_Achievements": "2024-01-01T10:09:08.6843144+00:00"
+  "LastUpdate_Ratings": "2024-01-01T11:00:03.5686911+00:00",
+  "LastUpdate_Achievements": "2024-01-01T11:10:32.0964096+00:00"
 }

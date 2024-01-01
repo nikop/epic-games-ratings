@@ -6,8 +6,8 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 12.00% | ~715 |
-| Lost and Found | 7.00% | ~417 |
+| Malpractice Assurance | 12.00% | ~716 |
+| Lost and Found | 7.00% | ~418 |
 | Autodidact | 6.00% | ~7,866 |
 | This guy... again? | 6.00% | ~358 |
 | Serenity Now! | 5.00% | ~6,555 |
@@ -27,7 +27,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 4.00% | ~5,244 |
 | A Place to Lay Your Head | 4.00% | ~5,244 |
 | FNG | 4.00% | ~5,244 |
-| Friends 'Til the End | 4.00% | ~238 |
+| Friends 'Til the End | 4.00% | ~239 |
 | Resurrection | 3.00% | ~3,933 |
 | Unleash Hell | 3.00% | ~3,933 |
 | Funny Guy | 3.00% | ~3,933 |
@@ -70,8 +70,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Et Tu, Riposte? | 0.80% | ~48 |
 | Hat Trick | 0.70% | ~918 |
 | The World As It Was | 0.60% | ~787 |
-| A Life Well Lived | 0.50% | ~655 |
-| Bacon Bits | 0.50% | ~655 |
+| A Life Well Lived | 0.50% | ~656 |
+| Bacon Bits | 0.50% | ~656 |
 | Eidetic | 0.40% | ~524 |
 | Battle Hardened | 0.40% | ~24 |
 | On This Long Road, We Found Redemption | 0.40% | ~24 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,092 (Ranked 90)  
+Progressed: 131,100 (Ranked 90)  
 Completed: 3 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,7 +332,7 @@ Completed: 3 (0.00%) (Ranked 390)
 | 2023-12-29 | 130,627 | 3 |
 | 2023-12-30 | 130,838 | 3 |
 | 2023-12-31 | 131,026 | 3 |
-| 2024-01-01 | 131,092 | 3 |
+| 2024-01-01 | 131,100 | 3 |
 ## Awards
 Max (Character Customization): 7,919  (Ranked 50)  
 Sum: 21,312 (Ranked 58)  

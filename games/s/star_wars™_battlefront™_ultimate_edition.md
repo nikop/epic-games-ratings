@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 87.00% | ~2,120 |
-| Off to a good start | 62.00% | ~1,511 |
-| Do... or do not. There is no try | 52.00% | ~1,267 |
+| New Recruit | 87.00% | ~2,121 |
+| Off to a good start | 62.00% | ~1,512 |
+| Do... or do not. There is no try | 52.00% | ~1,268 |
 | A good blaster at your side | 26.00% | ~634 |
 | I suggest a new strategy | 18.00% | ~439 |
 | Great shot, kid! | 16.00% | ~390 |
 | Scrap collector | 15.00% | ~366 |
 | All right, I'll give it a try | 15.00% | ~366 |
 | Shoot first | 13.00% | ~317 |
-| The power of the Force | 12.00% | ~292 |
-| Collector | 12.00% | ~292 |
-| Together we can rule the galaxy | 12.00% | ~292 |
+| The power of the Force | 12.00% | ~293 |
+| Collector | 12.00% | ~293 |
+| Together we can rule the galaxy | 12.00% | ~293 |
 | Tell Jabba that I've got his money | 8.00% | ~195 |
 | Best star-pilot in the galaxy | 8.00% | ~195 |
 | Never tell me the odds! | 7.00% | ~171 |
@@ -25,9 +25,9 @@
 | "Gonk? Gonk!" | 5.00% | ~122 |
 | Impressive. Most impressive. | 5.00% | ~122 |
 | Judge me by my size, do you? | 5.00% | ~122 |
-| Distinguished | 4.00% | ~97 |
-| A tremor in the Force | 4.00% | ~97 |
-| Support the troops | 4.00% | ~97 |
+| Distinguished | 4.00% | ~98 |
+| A tremor in the Force | 4.00% | ~98 |
+| Support the troops | 4.00% | ~98 |
 | On the ball | 3.00% | ~73 |
 | Safety ain't the point of a joyride | 3.00% | ~73 |
 | Not bad for a little furball | 3.00% | ~73 |
@@ -50,8 +50,8 @@
 | Onwards! | 1.00% | ~24 |
 | The circle is now complete | 1.00% | ~24 |
 | Playing the objective | 0.90% | ~22 |
-| Walker defender | 0.80% | ~19 |
-| You have your moments | 0.80% | ~19 |
+| Walker defender | 0.80% | ~20 |
+| You have your moments | 0.80% | ~20 |
 | A New Hope | 0.70% | ~17 |
 | When surrounded by war... | 0.70% | ~17 |
 | No such thing as luck | 0.60% | ~15 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,437 (Ranked 231)  
+Progressed: 2,438 (Ranked 231)  
 Completed: 1 (0.04%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 1 (0.04%) (Ranked 344)
 | 2023-12-29 | 2,337 | 1 |
 | 2023-12-30 | 2,388 | 1 |
 | 2023-12-31 | 2,425 | 1 |
-| 2024-01-01 | 2,437 | 1 |
+| 2024-01-01 | 2,438 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

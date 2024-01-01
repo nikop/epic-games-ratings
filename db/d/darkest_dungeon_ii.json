@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10386,9 +10386,9 @@
       "Count": 1071
     }
   ],
-  "EOS_Progressed": 131092,
+  "EOS_Progressed": 131100,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1345,
+  "EOS_NewPlayers": 1343,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37801,6 +37801,11 @@
       "Time": "2024-01-01T10:09:10.716473+00:00",
       "NumProgressed": 131092,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-01T11:10:34.9716903+00:00",
+      "NumProgressed": 131100,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37836,7 +37841,7 @@
       "Name": "A Life Well Lived",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "altar_of_hope_unlock_hero_flagellant",
@@ -38068,7 +38073,7 @@
       "Name": "Bacon Bits",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "combat_party_wipe_all_run_bosses",
@@ -38348,7 +38353,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "combat_kill_collector",
@@ -38412,7 +38417,7 @@
       "Name": "Lost and Found",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -38420,7 +38425,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -38443,21 +38448,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131092,
+      "Progressed": 131100,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 5961,
+      "Progressed": 5969,
       "Completed": 820
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-01T08:58:18.5708856+00:00",
-  "LastChanged_Achievements": "2024-01-01T10:09:10.7164727+00:00",
+  "LastChanged_Achievements": "2024-01-01T11:10:34.9716901+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-01T09:58:07.5122144+00:00",
-  "LastUpdate_Achievements": "2024-01-01T10:09:10.716653+00:00"
+  "LastUpdate_Ratings": "2024-01-01T10:58:46.2499789+00:00",
+  "LastUpdate_Achievements": "2024-01-01T11:10:34.9718548+00:00"
 }
