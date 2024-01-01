@@ -2,10 +2,10 @@
   "ID": "fee7e9420cd849c3a8e7d09b2622f9b3",
   "Name": "Risen",
   "ProductSlug": "risen-e8e55e",
-  "Ranking_Rating": 521,
+  "Ranking_Rating": 522,
   "Ranking_Popularity": 576,
   "Ranking_PopularitySum": 576,
-  "Ranking_EOS_Progress": 449,
+  "Ranking_EOS_Progress": 447,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 298,
   "Ranking_EOS_NewCompleters": 156,
@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 148,
+  "EOS_Progressed": 149,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -790,6 +790,11 @@
       "Time": "2023-12-31T21:10:38.7187062+00:00",
       "NumProgressed": 148,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T05:10:21.4328617+00:00",
+      "NumProgressed": 149,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T08:07:32.4989951+00:00",
@@ -802,7 +807,7 @@
       "Name": "The merciful one",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "id_11",
@@ -816,9 +821,9 @@
       "ID": "id_12",
       "SetID": "bk9jib6",
       "Name": "Family man",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "id_14",
@@ -832,9 +837,9 @@
       "ID": "id_15",
       "SetID": "bk9jib6",
       "Name": "Archaeologist",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "id_16",
@@ -922,7 +927,7 @@
       "Name": "Philanthropist",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "id_30",
@@ -930,15 +935,15 @@
       "Name": "Beginner",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "id_32",
       "SetID": "bk9jib6",
       "Name": "The brave little tailor",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 60
     },
     {
       "ID": "id_33",
@@ -984,17 +989,17 @@
       "ID": "id_42",
       "SetID": "bk9jib6",
       "Name": "Ogre friend",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "id_43",
       "SetID": "bk9jib6",
       "Name": "Hard worker",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 22
     },
     {
       "ID": "id_44",
@@ -1072,9 +1077,9 @@
       "ID": "id_52",
       "SetID": "bk9jib6",
       "Name": "Idiot",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 34
     },
     {
       "ID": "id_53",
@@ -1114,7 +1119,7 @@
       "Name": "Well-to-do",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "id_58",
@@ -1160,9 +1165,9 @@
       "ID": "id_62",
       "SetID": "bk9jib6",
       "Name": "Archer",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 63
     },
     {
       "ID": "id_63",
@@ -1201,7 +1206,7 @@
     {
       "ID": "bk9jib6",
       "IsBase": true,
-      "Progressed": 148,
+      "Progressed": 149,
       "Completed": 0
     }
   ],
@@ -1209,8 +1214,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-12-28T07:02:46.0007261+00:00",
-  "LastChanged_Achievements": "2024-01-01T04:10:48.6991862+00:00",
+  "LastChanged_Achievements": "2024-01-01T05:10:21.4328614+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:11.6693375+00:00",
-  "LastUpdate_Ratings": "2024-01-01T03:58:09.8621644+00:00",
-  "LastUpdate_Achievements": "2024-01-01T04:10:48.6992301+00:00"
+  "LastUpdate_Ratings": "2024-01-01T04:58:03.7168495+00:00",
+  "LastUpdate_Achievements": "2024-01-01T05:10:21.4329061+00:00"
 }

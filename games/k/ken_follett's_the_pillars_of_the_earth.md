@@ -1,25 +1,25 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.51 (Ranked 589)  
+Rating: 4.51 (Ranked 590)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 40.00% | ~7,012 |
-| Man of politics | 34.00% | ~5,960 |
-| Yet another secret | 33.00% | ~5,785 |
+| Tattletale | 40.00% | ~7,013 |
+| Man of politics | 34.00% | ~5,961 |
+| Yet another secret | 33.00% | ~5,786 |
 | Friends of sorts | 32.00% | ~5,610 |
-| Let there be darkness | 31.00% | ~5,434 |
+| Let there be darkness | 31.00% | ~5,435 |
 | End of Book One | 29.00% | ~5,084 |
 | Wannabe knight | 23.00% | ~4,032 |
 | Garden of Eden | 23.00% | ~4,032 |
 | Full house | 23.00% | ~4,032 |
-| Help an old friend | 21.00% | ~3,681 |
+| Help an old friend | 21.00% | ~3,682 |
 | Two of us | 20.00% | ~3,506 |
-| Negotiation skills | 18.00% | ~3,155 |
-| Workers' union | 18.00% | ~3,155 |
-| End of Book Two | 18.00% | ~3,155 |
+| Negotiation skills | 18.00% | ~3,156 |
+| Workers' union | 18.00% | ~3,156 |
+| End of Book Two | 18.00% | ~3,156 |
 | Everything's in order | 16.00% | ~2,805 |
 | Twist of Fate | 14.00% | ~2,454 |
 | Jack was here! | 14.00% | ~2,454 |
@@ -34,13 +34,13 @@ Number of Ratings: 368  (23.09.2022)
 | The oath | 9.00% | ~1,578 |
 | The truth revealed | 9.00% | ~1,578 |
 | The End. | 9.00% | ~1,578 |
-| Nothing but make-believe | 8.00% | ~1,402 |
+| Nothing but make-believe | 8.00% | ~1,403 |
 | A cry for help | 7.00% | ~1,227 |
 | Silentium est aureum | 7.00% | ~1,227 |
 | Rebel without a cause | 6.00% | ~1,052 |
-| Staring contest champion | 5.00% | ~876 |
-| Lone wolf | 5.00% | ~876 |
-| Vox Populi | 5.00% | ~876 |
+| Staring contest champion | 5.00% | ~877 |
+| Lone wolf | 5.00% | ~877 |
+| Vox Populi | 5.00% | ~877 |
 | Revenge | 4.00% | ~701 |
 | Countess Aliena | 4.00% | ~701 |
 | Care, like a brother cares | 3.00% | ~526 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~526 |
 | Boy of mystery | 2.00% | ~351 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,530 (Ranked 160)  
+Progressed: 17,532 (Ranked 160)  
 Completed: 123 (0.70%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 123 (0.70%) (Ranked 195)
 | 2023-12-29 | 17,490 | 122 |
 | 2023-12-30 | 17,509 | 122 |
 | 2023-12-31 | 17,527 | 123 |
-| 2024-01-01 | 17,530 | 123 |
+| 2024-01-01 | 17,532 | 123 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 323)  
 Sum: 200 (Ranked 415)  

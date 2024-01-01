@@ -4,7 +4,7 @@
   "ProductSlug": "the-isle-tide-hotel-adf588",
   "Ranking_EOS_Progress": 482,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 377,
+  "Ranking_EOS_NewPlayers": 375,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-12T11:00:00+00:00",
@@ -642,9 +642,9 @@
       "ID": "passive_fist",
       "SetID": "7i36ba9",
       "Name": "Passive Fist",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "poor_gracie_ray",
@@ -746,9 +746,9 @@
       "ID": "time_waster",
       "SetID": "7i36ba9",
       "Name": "Time Waster",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "who_is_d",
@@ -769,8 +769,8 @@
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2024-01-01T04:10:41.5786867+00:00",
+  "LastChanged_Achievements": "2024-01-01T05:10:14.4341976+00:00",
   "LastUpdate_AppInfo": "2023-12-30T07:56:58.7509332+00:00",
-  "LastUpdate_Ratings": "2024-01-01T03:57:52.7505487+00:00",
-  "LastUpdate_Achievements": "2024-01-01T04:10:41.5787089+00:00"
+  "LastUpdate_Ratings": "2024-01-01T04:57:47.5334052+00:00",
+  "LastUpdate_Achievements": "2024-01-01T05:10:14.4342205+00:00"
 }

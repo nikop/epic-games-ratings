@@ -1,57 +1,57 @@
 # World of Warships
 [Store](https://store.epicgames.com/en-US/p/world-of-warships)  
 [View Rawdata](../../db/w/world_of_warships.json)  
-Rating: 4.41 (Ranked 749)  
+Rating: 4.41 (Ranked 750)  
 Number of Ratings: 4,733  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 76.00% | ~61,368 |
-| Initial Capital | 63.00% | ~50,871 |
-| Junior Supply Officer | 41.00% | ~33,107 |
-| Moneybags | 40.00% | ~32,299 |
-| Naval Warfare. Arson | 30.00% | ~24,224 |
-| Naval Warfare. Ramming | 29.00% | ~23,417 |
-| Amateur | 27.00% | ~21,802 |
-| Naval Warfare. Tactics | 27.00% | ~21,802 |
-| Naval Constructor | 27.00% | ~21,802 |
-| Naval Warfare. Weaponry Basics | 20.00% | ~16,150 |
-| Naval Warfare. Flooding | 17.00% | ~13,727 |
-| Naval Warfare. Lucky Shot | 17.00% | ~13,727 |
-| Business Magnate | 14.00% | ~11,305 |
-| Battle Hero | 13.00% | ~10,497 |
-| Supply Officer | 11.00% | ~8,882 |
-| Smooth Supply | 11.00% | ~8,882 |
-| Warrior | 10.00% | ~8,075 |
-| Veteran | 6.00% | ~4,845 |
-| Legend of the Seas | 3.00% | ~2,422 |
-| Chief Naval Architect | 3.00% | ~2,422 |
-| Shield | 3.00% | ~2,422 |
+| Junior Naval Designer | 76.00% | ~61,381 |
+| Initial Capital | 63.00% | ~50,881 |
+| Junior Supply Officer | 41.00% | ~33,113 |
+| Moneybags | 40.00% | ~32,306 |
+| Naval Warfare. Arson | 30.00% | ~24,229 |
+| Naval Warfare. Ramming | 29.00% | ~23,422 |
+| Amateur | 27.00% | ~21,806 |
+| Naval Warfare. Tactics | 27.00% | ~21,806 |
+| Naval Constructor | 27.00% | ~21,806 |
+| Naval Warfare. Weaponry Basics | 20.00% | ~16,153 |
+| Naval Warfare. Flooding | 17.00% | ~13,730 |
+| Naval Warfare. Lucky Shot | 17.00% | ~13,730 |
+| Business Magnate | 14.00% | ~11,307 |
+| Battle Hero | 13.00% | ~10,499 |
+| Supply Officer | 11.00% | ~8,884 |
+| Smooth Supply | 11.00% | ~8,884 |
+| Warrior | 10.00% | ~8,076 |
+| Veteran | 6.00% | ~4,846 |
+| Legend of the Seas | 3.00% | ~2,423 |
+| Chief Naval Architect | 3.00% | ~2,423 |
+| Shield | 3.00% | ~2,423 |
 | Senior Supply Officer | 2.00% | ~1,615 |
 | Weather Beaten | 2.00% | ~1,615 |
 | Important Missions | 2.00% | ~1,615 |
 | Guardian | 2.00% | ~1,615 |
-| Bane of the Oceans | 1.00% | ~807 |
-| "Science of Victory" | 1.00% | ~807 |
-| Special Orders | 1.00% | ~807 |
-| Protector | 1.00% | ~807 |
-| Exterminator | 1.00% | ~807 |
-| American Cruisers | 1.00% | ~807 |
+| Bane of the Oceans | 1.00% | ~808 |
+| "Science of Victory" | 1.00% | ~808 |
+| Special Orders | 1.00% | ~808 |
+| Protector | 1.00% | ~808 |
+| Exterminator | 1.00% | ~808 |
+| American Cruisers | 1.00% | ~808 |
 | Old-Timer | 0.90% | ~727 |
-| Secret Instructions | 0.60% | ~484 |
+| Secret Instructions | 0.60% | ~485 |
 | Raider | 0.50% | ~404 |
 | Experienced One | 0.40% | ~323 |
 | Ravager | 0.30% | ~242 |
 | "Yamamoto Isoroku" | 0.30% | ~242 |
 | "Yamamoto Isoroku" | 0.30% | ~242 |
-| "Honorable Service" | 0.20% | ~161 |
-| Hit Hard! Hit Fast! Hit Often! | 0.20% | ~161 |
+| "Honorable Service" | 0.20% | ~162 |
+| Hit Hard! Hit Fast! Hit Often! | 0.20% | ~162 |
 | "Science of Victory" with Honors | 0.10% | ~81 |
 | "Honorable Service" with Honors | 0.10% | ~81 |
 | "Yamamoto Isoroku" with Honors | 0.10% | ~81 |
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~81 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 80,748 (Ranked 110)  
+Progressed: 80,764 (Ranked 110)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,10 +192,10 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-29 | 78,984 | 0 |
 | 2023-12-30 | 79,843 | 0 |
 | 2023-12-31 | 80,627 | 0 |
-| 2024-01-01 | 80,748 | 0 |
+| 2024-01-01 | 80,764 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 1,664  (Ranked 129)  
-Sum: 13,938 (Ranked 79)  
+Sum: 13,941 (Ranked 79)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
@@ -205,7 +205,7 @@ Diff (max vs sum): 50
 | This game is Extremely Fun | 1,614 |
 | This game has Competitive Players | 1,606 |
 | This game is Highly Recommended | 1,603 |
-| This game has Realistic Visuals | 1,461 |
+| This game has Realistic Visuals | 1,464 |
 | This game has Amazing Storytelling | 1,386 |
 | This game has a Competitive Community | 1,308 |
 | This game has Amazing Characters | 942 |
@@ -566,4 +566,4 @@ Diff (max vs sum): 50
 | 2023-12-29 | 4.41 | - | 1,654 | 13,847 |
 | 2023-12-30 | 4.41 | - | 1,657 | 13,894 |
 | 2023-12-31 | 4.41 | - | 1,661 | 13,931 |
-| 2024-01-01 | 4.41 | - | 1,664 | 13,938 |
+| 2024-01-01 | 4.41 | - | 1,664 | 13,941 |

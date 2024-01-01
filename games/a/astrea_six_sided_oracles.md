@@ -12,7 +12,7 @@
 | Endless Tricks | 51.00% | ~146 |
 | Wild's Keeper | 47.00% | ~134 |
 | Mind Illuminator | 44.00% | ~126 |
-| Stellar Dismantler | 36.00% | ~103 |
+| Stellar Dismantler | 37.00% | ~106 |
 | Noctuan Champion | 35.00% | ~100 |
 | Astral Adventurer | 33.00% | ~94 |
 | Anomaly Destroyer | 31.00% | ~89 |
@@ -40,11 +40,11 @@
 | The Dark Moon | 5.00% | ~14 |
 | Apian Hero | 5.00% | ~14 |
 | Astrarium of Holding | 4.00% | ~11 |
+| Denying Destiny | 4.00% | ~11 |
 | Prestidigitation | 4.00% | ~11 |
 | The Chaos Artisan | 4.00% | ~11 |
 | Behenian Hero | 4.00% | ~11 |
 | Lacertian Hero | 4.00% | ~11 |
-| Denying Destiny | 3.00% | ~9 |
 | If I Had Failed... | 3.00% | ~9 |
 | Purification Avatar | 3.00% | ~9 |
 | The Ardent Prince | 3.00% | ~9 |

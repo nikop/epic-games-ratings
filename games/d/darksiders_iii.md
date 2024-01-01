@@ -1,35 +1,35 @@
 # Darksiders III
 [Store](https://store.epicgames.com/en-US/p/darksiders3)  
 [View Rawdata](../../db/d/darksiders_iii.json)  
-Rating: 4.49 (Ranked 631)  
+Rating: 4.49 (Ranked 632)  
 Number of Ratings: 116  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 78.00% | ~270 |
+| Green with Envy | 78.00% | ~271 |
 | First of many… | 69.00% | ~239 |
-| Helping Hand | 65.00% | ~225 |
+| Helping Hand | 65.00% | ~226 |
 | Increased Vigor | 60.00% | ~208 |
-| Fight Fire with Fire | 57.00% | ~197 |
+| Fight Fire with Fire | 57.00% | ~198 |
 | Increased Capacity | 54.00% | ~187 |
-| Just the start | 49.00% | ~170 |
-| Perfect Storm | 46.00% | ~159 |
-| All That Glitters | 46.00% | ~159 |
+| Just the start | 50.00% | ~174 |
+| Perfect Storm | 46.00% | ~160 |
+| All That Glitters | 46.00% | ~160 |
 | Enhance! | 43.00% | ~149 |
-| One Of the Chosen | 40.00% | ~138 |
+| One Of the Chosen | 41.00% | ~142 |
 | Throne Potato | 39.00% | ~135 |
-| Devil's in the Details | 38.00% | ~131 |
-| Five's a Crowd | 38.00% | ~131 |
+| Devil's in the Details | 38.00% | ~132 |
+| Five's a Crowd | 38.00% | ~132 |
 | 25 to Life | 37.00% | ~128 |
 | Soul Harvester | 35.00% | ~121 |
 | Salvation | 35.00% | ~121 |
-| Unshakable Fortitude | 33.00% | ~114 |
-| I Wanna Rock | 31.00% | ~107 |
-| Delusions of Grandeur | 31.00% | ~107 |
+| Unshakable Fortitude | 33.00% | ~115 |
+| I Wanna Rock | 31.00% | ~108 |
+| Delusions of Grandeur | 31.00% | ~108 |
 | Maximum Vigor | 30.00% | ~104 |
-| Love Tap | 29.00% | ~100 |
-| For Whom the Bell Tolls | 27.00% | ~93 |
-| Freeze Frame | 26.00% | ~90 |
+| Love Tap | 30.00% | ~104 |
+| Freeze Frame | 27.00% | ~94 |
+| For Whom the Bell Tolls | 27.00% | ~94 |
 | Eat Your Heart Out | 26.00% | ~90 |
 | Big Spender | 24.00% | ~83 |
 | Unyielding Strength | 23.00% | ~80 |
@@ -71,7 +71,7 @@ Number of Ratings: 116  (23.09.2022)
 | Quite Proper | 0.60% | ~2 |
 | Beast Mode | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 346 (Ranked 372)  
+Progressed: 347 (Ranked 372)  
 Completed: 1 (0.29%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 1 (0.29%) (Ranked 253)
 | 2023-12-29 | 293 | 1 |
 | 2023-12-30 | 320 | 1 |
 | 2023-12-31 | 345 | 1 |
-| 2024-01-01 | 346 | 1 |
+| 2024-01-01 | 347 | 1 |
 ## Awards
 Max (Great Boss Battles): 94  (Ranked 386)  
 Sum: 94 (Ranked 467)  

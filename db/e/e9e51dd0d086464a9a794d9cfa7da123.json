@@ -2,9 +2,9 @@
   "ID": "e9e51dd0d086464a9a794d9cfa7da123",
   "Name": "Desktop Girlfriend NEO",
   "ProductSlug": "desktop-girlfriend-neo-136f5a",
-  "Ranking_EOS_Progress": 506,
+  "Ranking_EOS_Progress": 504,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 475,
+  "Ranking_EOS_NewPlayers": 463,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-10-25T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 80,
+  "EOS_Progressed": 81,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -414,6 +414,11 @@
       "Time": "2023-12-29T23:09:58.6359349+00:00",
       "NumProgressed": 80,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T05:10:29.8993702+00:00",
+      "NumProgressed": 81,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-16T10:08:21.0101681+00:00",
@@ -464,7 +469,7 @@
       "ID": "DLC",
       "SetID": "2621k8c",
       "Name": "Dog-like constitution",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
       "UsersEstimate": 10
     },
@@ -472,7 +477,7 @@
       "ID": "DM",
       "SetID": "2621k8c",
       "Name": "Dance Master",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 50,
       "UsersEstimate": 14
     },
@@ -544,7 +549,7 @@
       "ID": "Equal",
       "SetID": "2621k8c",
       "Name": "Equal",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -576,7 +581,7 @@
       "ID": "Foodie",
       "SetID": "2621k8c",
       "Name": "Foodie",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -592,7 +597,7 @@
       "ID": "GE",
       "SetID": "2621k8c",
       "Name": "Gender equality",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -616,7 +621,7 @@
       "ID": "HBACAAD",
       "SetID": "2621k8c",
       "Name": "Having both a cat and a dog",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 14
     },
@@ -632,7 +637,7 @@
       "ID": "HH",
       "SetID": "2621k8c",
       "Name": "High Heels",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -640,7 +645,7 @@
       "ID": "HT",
       "SetID": "2621k8c",
       "Name": "Home Theater",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 14
     },
@@ -664,7 +669,7 @@
       "ID": "IC",
       "SetID": "2621k8c",
       "Name": "Intimate Contact",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 10,
       "UsersEstimate": 34
     },
@@ -696,7 +701,7 @@
       "ID": "Indifferent",
       "SetID": "2621k8c",
       "Name": "Indifferent",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -744,7 +749,7 @@
       "ID": "LTW",
       "SetID": "2621k8c",
       "Name": "Good Bye",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -800,7 +805,7 @@
       "ID": "MS",
       "SetID": "2621k8c",
       "Name": "Male supremacy",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -808,7 +813,7 @@
       "ID": "MTFNR",
       "SetID": "2621k8c",
       "Name": "Make trouble for no reason",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -832,7 +837,7 @@
       "ID": "Numb",
       "SetID": "2621k8c",
       "Name": "Numb",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -872,7 +877,7 @@
       "ID": "PP",
       "SetID": "2621k8c",
       "Name": "Pet Phobia",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -888,7 +893,7 @@
       "ID": "Perfunctory",
       "SetID": "2621k8c",
       "Name": "Perfunctory",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 14
     },
@@ -904,7 +909,7 @@
       "ID": "Poor",
       "SetID": "2621k8c",
       "Name": "Poor",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -928,7 +933,7 @@
       "ID": "Regret",
       "SetID": "2621k8c",
       "Name": "Regret",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -944,7 +949,7 @@
       "ID": "SAITAB",
       "SetID": "2621k8c",
       "Name": "Scratching an itch through a boot",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -984,7 +989,7 @@
       "ID": "SelflessLove",
       "SetID": "2621k8c",
       "Name": "Selfless Love",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
       "UsersEstimate": 10
     },
@@ -1072,7 +1077,7 @@
       "ID": "THOASOK",
       "SetID": "2621k8c",
       "Name": "To have only a smattering of knowledge",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
       "UsersEstimate": 10
     },
@@ -1080,7 +1085,7 @@
       "ID": "TMBM",
       "SetID": "2621k8c",
       "Name": "The most beautiful memory",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 27
     },
@@ -1096,7 +1101,7 @@
       "ID": "Takeout",
       "SetID": "2621k8c",
       "Name": "Takeout",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -1136,7 +1141,7 @@
       "ID": "VG",
       "SetID": "2621k8c",
       "Name": "Virtual Girl",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -1144,7 +1149,7 @@
       "ID": "VP",
       "SetID": "2621k8c",
       "Name": "Virtual Pet",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 14
     },
@@ -1169,14 +1174,14 @@
     {
       "ID": "2621k8c",
       "IsBase": true,
-      "Progressed": 80,
+      "Progressed": 81,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T16:57:18.9896255+00:00",
   "FirstSeenAchievements": "2023-09-14T09:02:21.8735151+00:00",
-  "LastChanged_Achievements": "2024-01-01T04:10:57.1993554+00:00",
+  "LastChanged_Achievements": "2024-01-01T05:10:29.89937+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:17.6824308+00:00",
-  "LastUpdate_Ratings": "2024-01-01T04:00:21.2782942+00:00",
-  "LastUpdate_Achievements": "2024-01-01T04:10:57.1994444+00:00"
+  "LastUpdate_Ratings": "2024-01-01T05:00:05.1320599+00:00",
+  "LastUpdate_Achievements": "2024-01-01T05:10:29.8994665+00:00"
 }

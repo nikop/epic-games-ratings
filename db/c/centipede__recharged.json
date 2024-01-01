@@ -2,13 +2,13 @@
   "ID": "a1edd0d2e28d4d298152c001e7c47e22",
   "Name": "Centipede: Recharged",
   "ProductSlug": "centipede-recharged",
-  "Ranking_Rating": 858,
+  "Ranking_Rating": 859,
   "Ranking_Popularity": 576,
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -353,7 +353,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24492,
+  "EOS_Progressed": 24494,
   "EOS_Completed": 118,
   "EOS_NewPlayers": 472,
   "EOS_NewCompleters": 1,
@@ -21718,6 +21718,11 @@
       "Time": "2024-01-01T04:06:06.8343643+00:00",
       "NumProgressed": 24492,
       "NumCompleted": 118
+    },
+    {
+      "Time": "2024-01-01T05:05:42.8174785+00:00",
+      "NumProgressed": 24494,
+      "NumCompleted": 118
     }
   ],
   "TotalAchievements": 16,
@@ -21729,7 +21734,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 24,
       "XP": 90,
-      "UsersEstimate": 5878
+      "UsersEstimate": 5879
     },
     {
       "ID": "Burning_For_You",
@@ -21801,7 +21806,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 9552
+      "UsersEstimate": 9553
     },
     {
       "ID": "Mirrors",
@@ -21825,7 +21830,7 @@
       "Name": "Shooting Shark",
       "Percentage": 47,
       "XP": 90,
-      "UsersEstimate": 11511
+      "UsersEstimate": 11512
     },
     {
       "ID": "Sole_Survivor",
@@ -21833,7 +21838,7 @@
       "Name": "Sole Survivor",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 8572
+      "UsersEstimate": 8573
     },
     {
       "ID": "Still_Burning",
@@ -21856,15 +21861,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 24492,
+      "Progressed": 24494,
       "Completed": 118
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-12-26T13:00:27.7460321+00:00",
-  "LastChanged_Achievements": "2024-01-01T04:06:06.8343637+00:00",
+  "LastChanged_Achievements": "2024-01-01T05:05:42.8174781+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:56.3485527+00:00",
-  "LastUpdate_Ratings": "2024-01-01T04:02:13.8134525+00:00",
-  "LastUpdate_Achievements": "2024-01-01T04:06:06.8344779+00:00"
+  "LastUpdate_Ratings": "2024-01-01T05:02:38.0481847+00:00",
+  "LastUpdate_Achievements": "2024-01-01T05:05:42.8175803+00:00"
 }

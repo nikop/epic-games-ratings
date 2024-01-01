@@ -1,7 +1,7 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 1,038)  
+Rating: 3.99 (Ranked 1,039)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -12,8 +12,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Tinkle of Coins | 8.00% | ~11,899 |
 | Disintermediation | 7.00% | ~10,412 |
 | Capitalism Ho! | 7.00% | ~10,412 |
-| It's Free Real Estate | 6.00% | ~8,924 |
-| Budding Merchant | 6.00% | ~8,924 |
+| It's Free Real Estate | 6.00% | ~8,925 |
+| Budding Merchant | 6.00% | ~8,925 |
 | One Easy Payment | 5.00% | ~7,437 |
 | Some Assembly Required | 5.00% | ~7,437 |
 | Another Satisfied Customer | 5.00% | ~7,437 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~595 |
 | Capitalist Camaraderie | 0.20% | ~297 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 148,741 (Ranked 86)  
+Progressed: 148,743 (Ranked 86)  
 Completed: 340 (0.23%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -375,10 +375,10 @@ Completed: 340 (0.23%) (Ranked 267)
 | 2023-12-29 | 148,353 | 338 |
 | 2023-12-30 | 148,534 | 340 |
 | 2023-12-31 | 148,713 | 340 |
-| 2024-01-01 | 148,741 | 340 |
+| 2024-01-01 | 148,743 | 340 |
 ## Awards
 Max (Great for Beginners): 4,934  (Ranked 78)  
-Sum: 27,883 (Ranked 51)  
+Sum: 27,886 (Ranked 51)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
@@ -388,7 +388,7 @@ Diff (max vs sum): 27
 | This game has Diverse Characters | 4,013 |
 | This game is Highly Recommended | 3,808 |
 | This game has Easy Combat | 3,762 |
-| This game has Playful Visuals | 3,234 |
+| This game has Playful Visuals | 3,237 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -728,4 +728,4 @@ Diff (max vs sum): 27
 | 2023-12-29 | 3.99 | - | 4,925 | 27,858 |
 | 2023-12-30 | 3.99 | - | 4,931 | 27,871 |
 | 2023-12-31 | 3.99 | - | 4,934 | 27,878 |
-| 2024-01-01 | 3.99 | - | 4,934 | 27,883 |
+| 2024-01-01 | 3.99 | - | 4,934 | 27,886 |

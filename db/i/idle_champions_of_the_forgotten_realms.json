@@ -2,10 +2,10 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 1019,
+  "Ranking_Rating": 1020,
   "Ranking_Popularity": 71,
   "Ranking_PopularitySum": 41,
-  "Ranking_EOS_Progress": 69,
+  "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 51,
   "Ranking_EOS_NewCompleters": 16,
@@ -9185,10 +9185,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 33218,
       "NumberOfAwardsMax": 5726
+    },
+    {
+      "Time": "2024-01-01T04:57:34.0718419+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33221,
+      "NumberOfAwardsMax": 5726
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33218,
+  "NumberOfAwards": 33221,
   "NumberOfAwardsMax": 5726,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9220,7 +9226,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 4286
+      "Count": 4289
     },
     {
       "Text": "This game has Amazing Characters",
@@ -9235,9 +9241,9 @@
       "Count": 3614
     }
   ],
-  "EOS_Progressed": 248771,
+  "EOS_Progressed": 248787,
   "EOS_Completed": 2582,
-  "EOS_NewPlayers": 4435,
+  "EOS_NewPlayers": 4442,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -38165,6 +38171,11 @@
       "Time": "2024-01-01T04:11:01.4430704+00:00",
       "NumProgressed": 248771,
       "NumCompleted": 2582
+    },
+    {
+      "Time": "2024-01-01T05:10:33.8764486+00:00",
+      "NumProgressed": 248787,
+      "NumCompleted": 2582
     }
   ],
   "TotalAchievements": 546,
@@ -38176,7 +38187,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7463
+      "UsersEstimate": 7464
     },
     {
       "ID": "objective_completed_10",
@@ -41382,9 +41393,9 @@
       "ID": "objective_completed_79",
       "SetID": "cc37lbc",
       "Name": "Underdeep Cartography",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 498
     },
     {
       "ID": "objective_completed_8",
@@ -42462,9 +42473,9 @@
       "ID": "objective_completed_1557",
       "SetID": "415jc5c",
       "Name": "Welcome to Sigil",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1505
+      "UsersEstimate": 1720
     },
     {
       "ID": "objective_completed_1558",
@@ -42543,21 +42554,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 215045,
-      "Completed": 4112
+      "Progressed": 215061,
+      "Completed": 4113
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 248771,
+      "Progressed": 248787,
       "Completed": 2582
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-01T02:57:42.0089305+00:00",
-  "LastChanged_Achievements": "2024-01-01T04:11:01.4430698+00:00",
+  "LastChanged": "2024-01-01T04:57:34.0718417+00:00",
+  "LastChanged_Achievements": "2024-01-01T05:10:33.8764479+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-01T03:57:38.1376914+00:00",
-  "LastUpdate_Achievements": "2024-01-01T04:11:01.4454445+00:00"
+  "LastUpdate_Ratings": "2024-01-01T04:57:34.0718425+00:00",
+  "LastUpdate_Achievements": "2024-01-01T05:10:33.8789351+00:00"
 }

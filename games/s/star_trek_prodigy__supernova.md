@@ -19,19 +19,20 @@
 | First Contact? | 11.00% | ~2 |
 | Naroan History | 11.00% | ~2 |
 | Playing with Time | 11.00% | ~2 |
+| Escape from Mirios | 11.00% | ~2 |
 | Coming in from the Cold | 11.00% | ~2 |
+| The Crew is Back! | 11.00% | ~2 |
 | Not Too Long | 11.00% | ~2 |
 | Welcome back | 11.00% | ~2 |
 | Getting Better | 11.00% | ~2 |
+| Teamwork makes the dream work | 11.00% | ~2 |
 | Priceless Collection | 6.00% | ~1 |
 | Quest for Loot | 6.00% | ~1 |
 | Proto Menagerie | 6.00% | ~1 |
-| Escape from Mirios | 6.00% | ~1 |
 | Searching for Al'Shams | 6.00% | ~1 |
 | Seeking Discovery | 6.00% | ~1 |
+| Open Sesame | 6.00% | ~1 |
 | Trekkie | 6.00% | ~1 |
-| The Crew is Back! | 6.00% | ~1 |
-| Teamwork makes the dream work | 6.00% | ~1 |
 | Badge of a Captain | 0.00% | ~0 |
 | A True Merit Badge | 0.00% | ~0 |
 | Wilderness Badge | 0.00% | ~0 |
@@ -40,7 +41,6 @@
 | Crew Love | 0.00% | ~0 |
 | Stopping the Supernova | 0.00% | ~0 |
 | Saved the System | 0.00% | ~0 |
-| Open Sesame | 0.00% | ~0 |
 | Green Thumb | 0.00% | ~0 |
 | Budding Botanist | 0.00% | ~0 |
 | Relic Hunter | 0.00% | ~0 |

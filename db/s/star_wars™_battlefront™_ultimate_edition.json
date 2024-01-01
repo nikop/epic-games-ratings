@@ -2,7 +2,7 @@
   "ID": "fefe1db11f534484987ef50ec1e25225",
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
-  "Ranking_EOS_Progress": 232,
+  "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 156,
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2429,
+  "EOS_Progressed": 2431,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 298,
+  "EOS_NewPlayers": 299,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -6814,6 +6814,11 @@
       "Time": "2024-01-01T03:11:10.36079+00:00",
       "NumProgressed": 2429,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-01T05:10:29.5142571+00:00",
+      "NumProgressed": 2431,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -6890,7 +6895,7 @@
       "Name": "\u0022Gonk? Gonk!\u0022",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "achievement_18",
@@ -6898,7 +6903,7 @@
       "Name": "The power of the Force",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "achievement_19",
@@ -6922,7 +6927,7 @@
       "Name": "Collector",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "achievement_21",
@@ -6970,7 +6975,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "achievement_27",
@@ -7018,7 +7023,7 @@
       "Name": "Scrap collector",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "achievement_32",
@@ -7026,7 +7031,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "achievement_33",
@@ -7050,7 +7055,7 @@
       "Name": "New Recruit",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 2113
+      "UsersEstimate": 2115
     },
     {
       "ID": "achievement_36",
@@ -7058,7 +7063,7 @@
       "Name": "Impressive. Most impressive.",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "achievement_37",
@@ -7066,7 +7071,7 @@
       "Name": "Off to a good start",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1506
+      "UsersEstimate": 1507
     },
     {
       "ID": "achievement_38",
@@ -7090,7 +7095,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "achievement_40",
@@ -7098,7 +7103,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1263
+      "UsersEstimate": 1264
     },
     {
       "ID": "achievement_41",
@@ -7106,7 +7111,7 @@
       "Name": "Judge me by my size, do you?",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "achievement_42",
@@ -7329,13 +7334,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2429,
+      "Progressed": 2431,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2429,
+      "Progressed": 2431,
       "Completed": 1
     }
   ],
@@ -7343,8 +7348,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-01T04:10:56.8218186+00:00",
+  "LastChanged_Achievements": "2024-01-01T05:10:29.5142569+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:19.759459+00:00",
-  "LastUpdate_Ratings": "2024-01-01T03:59:02.4760421+00:00",
-  "LastUpdate_Achievements": "2024-01-01T04:10:56.821905+00:00"
+  "LastUpdate_Ratings": "2024-01-01T04:58:51.7209775+00:00",
+  "LastUpdate_Achievements": "2024-01-01T05:10:29.5143287+00:00"
 }

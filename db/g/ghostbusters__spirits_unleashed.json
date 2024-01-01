@@ -2,7 +2,7 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed Ecto Edition",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 613,
+  "Ranking_Rating": 614,
   "Ranking_Popularity": 254,
   "Ranking_PopularitySum": 185,
   "Ranking_EOS_Progress": 135,
@@ -3903,9 +3903,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33041,
+  "EOS_Progressed": 33044,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 377,
+  "EOS_NewPlayers": 379,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -24158,6 +24158,11 @@
       "Time": "2024-01-01T04:09:07.0929301+00:00",
       "NumProgressed": 33041,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-01T05:08:47.5218312+00:00",
+      "NumProgressed": 33044,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -24169,7 +24174,7 @@
       "Name": "Advancement",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2643
+      "UsersEstimate": 2644
     },
     {
       "ID": "Animated",
@@ -24257,7 +24262,7 @@
       "Name": "Discovery",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1982
+      "UsersEstimate": 1983
     },
     {
       "ID": "Dont_Need_These",
@@ -24281,7 +24286,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 2643
+      "UsersEstimate": 2644
     },
     {
       "ID": "Escape_Artist",
@@ -24457,7 +24462,7 @@
       "Name": "Solo Capture",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1982
+      "UsersEstimate": 1983
     },
     {
       "ID": "Stunner",
@@ -24497,7 +24502,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 1982
+      "UsersEstimate": 1983
     },
     {
       "ID": "Teamwork",
@@ -24576,7 +24581,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33041,
+      "Progressed": 33044,
       "Completed": 71
     }
   ],
@@ -24584,8 +24589,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-31T08:57:45.2513751+00:00",
-  "LastChanged_Achievements": "2024-01-01T04:09:07.0929295+00:00",
+  "LastChanged_Achievements": "2024-01-01T05:08:47.5218308+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:23.250158+00:00",
-  "LastUpdate_Ratings": "2024-01-01T03:58:49.2042973+00:00",
-  "LastUpdate_Achievements": "2024-01-01T04:09:07.0930365+00:00"
+  "LastUpdate_Ratings": "2024-01-01T04:58:39.3175555+00:00",
+  "LastUpdate_Achievements": "2024-01-01T05:08:47.5219695+00:00"
 }

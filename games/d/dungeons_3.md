@@ -1,7 +1,7 @@
 # Dungeons 3
 [Store](https://store.epicgames.com/en-US/p/dungeons-3)  
 [View Rawdata](../../db/d/dungeons_3.json)  
-Rating: 4.66 (Ranked 302)  
+Rating: 4.66 (Ranked 303)  
 Number of Ratings: 1,635  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,27 +9,27 @@ Number of Ratings: 1,635  (23.09.2022)
 | The Shadow strikes | 70.00% | ~31,849 |
 | The Evilest Evil | 59.00% | ~26,844 |
 | Twistram is devastated | 58.00% | ~26,389 |
-| The Gehenna Stones | 50.00% | ~22,749 |
-| No one has to die today! | 47.00% | ~21,384 |
-| Death and destruction! | 46.00% | ~20,929 |
-| The Swamplanders from the swamplands | 44.00% | ~20,019 |
-| Rusty Steel | 41.00% | ~18,654 |
-| The One-Huge-Army-Building Evil | 40.00% | ~18,199 |
-| Braiiiiins! | 38.00% | ~17,289 |
-| The last burger | 37.00% | ~16,834 |
-| Hands off the Dungeonheart! | 36.00% | ~16,379 |
-| A trip on sea, what fun it can be | 34.00% | ~15,469 |
-| Damned good | 33.00% | ~15,014 |
-| Stock Market Crash | 31.00% | ~14,104 |
-| Factory farming | 31.00% | ~14,104 |
-| Shadow hunter | 30.00% | ~13,649 |
-| Not-So-Overproud | 29.00% | ~13,194 |
-| For a handfull of Catapults | 28.00% | ~12,739 |
-| Thirst quencher | 27.00% | ~12,284 |
-| Ogre Solo! | 27.00% | ~12,284 |
-| Destroy the thing | 26.00% | ~11,829 |
-| Tide Master | 26.00% | ~11,829 |
-| Difficult family relationships | 25.00% | ~11,374 |
+| The Gehenna Stones | 50.00% | ~22,750 |
+| No one has to die today! | 47.00% | ~21,385 |
+| Death and destruction! | 46.00% | ~20,930 |
+| The Swamplanders from the swamplands | 44.00% | ~20,020 |
+| Rusty Steel | 41.00% | ~18,655 |
+| The One-Huge-Army-Building Evil | 40.00% | ~18,200 |
+| Braiiiiins! | 38.00% | ~17,290 |
+| The last burger | 37.00% | ~16,835 |
+| Hands off the Dungeonheart! | 36.00% | ~16,380 |
+| A trip on sea, what fun it can be | 34.00% | ~15,470 |
+| Damned good | 33.00% | ~15,015 |
+| Stock Market Crash | 31.00% | ~14,105 |
+| Factory farming | 31.00% | ~14,105 |
+| Shadow hunter | 30.00% | ~13,650 |
+| Not-So-Overproud | 29.00% | ~13,195 |
+| For a handfull of Catapults | 28.00% | ~12,740 |
+| Thirst quencher | 27.00% | ~12,285 |
+| Ogre Solo! | 27.00% | ~12,285 |
+| Destroy the thing | 26.00% | ~11,830 |
+| Tide Master | 26.00% | ~11,830 |
+| Difficult family relationships | 25.00% | ~11,375 |
 | MASS-O-BOT | 24.00% | ~10,920 |
 | Prepare the grave | 24.00% | ~10,920 |
 | Angel of Fire | 24.00% | ~10,920 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~910 |
 | Sacrifices! | 2.00% | ~910 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,498 (Ranked 126)  
+Progressed: 45,499 (Ranked 126)  
 Completed: 363 (0.80%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 363 (0.80%) (Ranked 188)
 | 2023-12-29 | 45,239 | 362 |
 | 2023-12-30 | 45,366 | 362 |
 | 2023-12-31 | 45,477 | 363 |
-| 2024-01-01 | 45,498 | 363 |
+| 2024-01-01 | 45,499 | 363 |
 ## Awards
 Max (Great for Beginners): 395  (Ranked 237)  
 Sum: 2,836 (Ranked 187)  

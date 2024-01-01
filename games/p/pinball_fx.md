@@ -1,12 +1,12 @@
 # Pinball FX
 [Store](https://store.epicgames.com/en-US/p/pinball-fx)  
 [View Rawdata](../../db/p/pinball_fx.json)  
-Rating: 4.07 (Ranked 1,015)  
+Rating: 4.07 (Ranked 1,016)  
 Number of Ratings: 756  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 2.00% | ~5,792 |
+| Ball Launched | 2.00% | ~5,793 |
 | I Found it! | 0.80% | ~2,317 |
 | Ready Steady Score | 0.30% | ~869 |
 | First but not Last | 0.20% | ~579 |
@@ -46,7 +46,7 @@ Number of Ratings: 756  (23.09.2022)
 | The most beautiful Christmas | 0.00% | ~0 |
 | End of Gloom | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 289,617 (Ranked 62)  
+Progressed: 289,629 (Ranked 62)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-29 | 288,693 | 0 |
 | 2023-12-30 | 289,126 | 0 |
 | 2023-12-31 | 289,544 | 0 |
-| 2024-01-01 | 289,617 | 0 |
+| 2024-01-01 | 289,629 | 0 |
 ## Awards
 Max (Great for Beginners): 212  (Ranked 291)  
 Sum: 1,633 (Ranked 230)  

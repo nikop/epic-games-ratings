@@ -2,12 +2,12 @@
   "ID": "013ca9b88fa34b21b2de7fdbfcfc843b",
   "Name": "Fae Farm",
   "ProductSlug": "fae-farm",
-  "Ranking_Rating": 358,
+  "Ranking_Rating": 359,
   "Ranking_Popularity": 576,
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -235,9 +235,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8793,
+  "EOS_Progressed": 8794,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9470,6 +9470,11 @@
       "Time": "2023-12-31T21:10:43.9339355+00:00",
       "NumProgressed": 8793,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-01T05:10:26.7322609+00:00",
+      "NumProgressed": 8794,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -9825,13 +9830,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8793,
+      "Progressed": 8794,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1410,
+      "Progressed": 1411,
       "Completed": 1050
     }
   ],
@@ -9839,8 +9844,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-12-19T16:03:30.9665101+00:00",
-  "LastChanged_Achievements": "2024-01-01T04:10:53.8792902+00:00",
+  "LastChanged_Achievements": "2024-01-01T05:10:26.7322607+00:00",
   "LastUpdate_AppInfo": "2023-12-29T11:57:18.9799571+00:00",
-  "LastUpdate_Ratings": "2024-01-01T04:03:40.1232283+00:00",
-  "LastUpdate_Achievements": "2024-01-01T04:10:53.8793746+00:00"
+  "LastUpdate_Ratings": "2024-01-01T05:03:27.5103654+00:00",
+  "LastUpdate_Achievements": "2024-01-01T05:10:26.7323307+00:00"
 }

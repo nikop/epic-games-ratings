@@ -2,7 +2,7 @@
   "ID": "25d726130e6c4fe68f88e71933bda955",
   "Name": "Terraforming Mars",
   "ProductSlug": "terraforming-mars-18c3ad",
-  "Ranking_Rating": 559,
+  "Ranking_Rating": 560,
   "Ranking_Popularity": 214,
   "Ranking_PopularitySum": 176,
   "Ranking_EOS_Progress": 103,
@@ -3475,9 +3475,9 @@
       "Count": 262
     }
   ],
-  "EOS_Progressed": 88582,
+  "EOS_Progressed": 88584,
   "EOS_Completed": 178,
-  "EOS_NewPlayers": 1181,
+  "EOS_NewPlayers": 1179,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -32070,6 +32070,11 @@
       "Time": "2024-01-01T04:05:39.0626572+00:00",
       "NumProgressed": 88582,
       "NumCompleted": 178
+    },
+    {
+      "Time": "2024-01-01T05:05:17.1216077+00:00",
+      "NumProgressed": 88584,
+      "NumCompleted": 178
     }
   ],
   "TotalAchievements": 30,
@@ -32081,7 +32086,7 @@
       "Name": "First Journey",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 12401
+      "UsersEstimate": 12402
     },
     {
       "ID": "ACHIEVEMENT_01",
@@ -32089,7 +32094,7 @@
       "Name": "Team Effort",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2657
+      "UsersEstimate": 2658
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -32145,7 +32150,7 @@
       "Name": "Variety Expert",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 7972
+      "UsersEstimate": 7973
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -32161,7 +32166,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 32775
+      "UsersEstimate": 32776
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -32169,7 +32174,7 @@
       "Name": "Changing the Planet",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 24803
+      "UsersEstimate": 24804
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -32177,7 +32182,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 28346
+      "UsersEstimate": 28347
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -32193,7 +32198,7 @@
       "Name": "Opportunity",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2657
+      "UsersEstimate": 2658
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -32217,7 +32222,7 @@
       "Name": "Sojourner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 23031
+      "UsersEstimate": 23032
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -32233,7 +32238,7 @@
       "Name": "Winner Winner Terraformer",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 18602
+      "UsersEstimate": 18603
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -32249,7 +32254,7 @@
       "Name": "Money money",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 13287
+      "UsersEstimate": 13288
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -32257,7 +32262,7 @@
       "Name": "Final touch",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 30118
+      "UsersEstimate": 30119
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -32320,15 +32325,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 88582,
+      "Progressed": 88584,
       "Completed": 178
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-12-31T17:00:13.756684+00:00",
-  "LastChanged_Achievements": "2024-01-01T04:05:39.0626567+00:00",
+  "LastChanged_Achievements": "2024-01-01T05:05:17.1216073+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:05.7214012+00:00",
-  "LastUpdate_Ratings": "2024-01-01T04:02:03.7223703+00:00",
-  "LastUpdate_Achievements": "2024-01-01T04:05:39.0627964+00:00"
+  "LastUpdate_Ratings": "2024-01-01T05:01:39.4093601+00:00",
+  "LastUpdate_Achievements": "2024-01-01T05:05:17.1217774+00:00"
 }

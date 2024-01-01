@@ -1,15 +1,15 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.61 (Ranked 1,082)  
+Rating: 3.61 (Ranked 1,083)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I Like My Stakes Rare! | 18.00% | ~395 |
 | Catch and Release | 13.00% | ~285 |
 | Home Is Where the Heart Is | 12.00% | ~263 |
+| ICU | 12.00% | ~263 |
 | Wounded Whispers | 12.00% | ~263 |
-| ICU | 11.00% | ~241 |
 | Blood Will Have Blood | 10.00% | ~220 |
 | Ne Plus Ultra | 10.00% | ~220 |
 | Fly Fisher | 9.00% | ~198 |

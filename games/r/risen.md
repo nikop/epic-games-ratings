@@ -1,34 +1,34 @@
 # Risen
 [Store](https://store.epicgames.com/en-US/p/risen-e8e55e)  
 [View Rawdata](../../db/r/risen.json)  
-Rating: 4.55 (Ranked 521)  
+Rating: 4.55 (Ranked 522)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 91.00% | ~135 |
+| Beginner | 91.00% | ~136 |
 | Map reader | 66.00% | ~98 |
 | Adventurer | 64.00% | ~95 |
-| Philanthropist | 61.00% | ~90 |
-| Archer | 43.00% | ~64 |
-| The brave little tailor | 41.00% | ~61 |
+| Philanthropist | 61.00% | ~91 |
+| Archer | 42.00% | ~63 |
+| The brave little tailor | 40.00% | ~60 |
 | Field hand | 39.00% | ~58 |
 | Samaritan | 33.00% | ~49 |
-| Well-to-do | 32.00% | ~47 |
-| The merciful one | 30.00% | ~44 |
+| Well-to-do | 32.00% | ~48 |
+| The merciful one | 30.00% | ~45 |
 | Ladies' man | 29.00% | ~43 |
 | Ferocious wild boars | 24.00% | ~36 |
-| Idiot | 24.00% | ~36 |
+| Idiot | 23.00% | ~34 |
 | Beast slayer | 21.00% | ~31 |
-| Family man | 18.00% | ~27 |
 | Death of a legend | 18.00% | ~27 |
-| Archaeologist | 18.00% | ~27 |
-| Ogre friend | 18.00% | ~27 |
+| Family man | 17.00% | ~25 |
+| Archaeologist | 17.00% | ~25 |
+| Ogre friend | 17.00% | ~25 |
 | Fence | 17.00% | ~25 |
 | Sidelined | 17.00% | ~25 |
 | Wise man | 16.00% | ~24 |
 | Little hero | 16.00% | ~24 |
-| Hard worker | 16.00% | ~24 |
 | The fourth triplet | 16.00% | ~24 |
+| Hard worker | 15.00% | ~22 |
 | Ghost hunter | 14.00% | ~21 |
 | Master detective | 14.00% | ~21 |
 | Pandora's box | 13.00% | ~19 |
@@ -56,7 +56,7 @@ Rating: 4.55 (Ranked 521)
 | Master of the classes | 0.70% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 148 (Ranked 449)  
+Progressed: 149 (Ranked 447)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,6 +120,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-29 | 137 | 0 |
 | 2023-12-30 | 141 | 0 |
 | 2023-12-31 | 148 | 0 |
+| 2024-01-01 | 149 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

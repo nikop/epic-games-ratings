@@ -1,24 +1,24 @@
 # Iratus: Lord of the Dead
 [Store](https://store.epicgames.com/en-US/p/iratus-d0e5ba)  
 [View Rawdata](../../db/i/iratus__lord_of_the_dead.json)  
-Rating: 4.37 (Ranked 797)  
+Rating: 4.37 (Ranked 798)  
 Number of Ratings: 10,109  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Improvement | 85.00% | ~41,113 |
+| Improvement | 85.00% | ~41,114 |
 | Blood Moon | 73.00% | ~35,309 |
-| Path of the Necromancer | 65.00% | ~31,439 |
+| Path of the Necromancer | 65.00% | ~31,440 |
 | Chainbreaker - I | 60.00% | ~29,021 |
 | Cursed Creature | 57.00% | ~27,570 |
 | Extraction | 57.00% | ~27,570 |
-| Chainbreaker - II | 55.00% | ~26,602 |
+| Chainbreaker - II | 55.00% | ~26,603 |
 | Necromancer's Apprentice | 50.00% | ~24,184 |
 | Keeper of Keys | 47.00% | ~22,733 |
-| Distillation | 43.00% | ~20,798 |
+| Distillation | 43.00% | ~20,799 |
 | Transmutation | 42.00% | ~20,315 |
 | Mountain King - I | 41.00% | ~19,831 |
-| Prepared Necromancer | 40.00% | ~19,347 |
+| Prepared Necromancer | 40.00% | ~19,348 |
 | Mountain King - II | 39.00% | ~18,864 |
 | Blind Rage | 38.00% | ~18,380 |
 | Mad Genius | 35.00% | ~16,929 |
@@ -32,7 +32,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Chainbreaker - III | 28.00% | ~13,543 |
 | Revealed Secrets - I | 26.00% | ~12,576 |
 | Revealed Secrets - II | 25.00% | ~12,092 |
-| Blood Elemental | 24.00% | ~11,608 |
+| Blood Elemental | 24.00% | ~11,609 |
 | Unholy Bones | 23.00% | ~11,125 |
 | Lord of Fire | 22.00% | ~10,641 |
 | Cannon Fodder - III | 22.00% | ~10,641 |
@@ -60,10 +60,10 @@ Number of Ratings: 10,109  (23.09.2022)
 | More Mortal Suffering! | 9.00% | ~4,353 |
 | Forbidden Knowledge | 9.00% | ~4,353 |
 | Live Operation | 9.00% | ~4,353 |
-| Master of Rage | 8.00% | ~3,869 |
-| Icy Incursion | 8.00% | ~3,869 |
-| Arachnophobia | 8.00% | ~3,869 |
-| Revealed Secrets - III | 8.00% | ~3,869 |
+| Master of Rage | 8.00% | ~3,870 |
+| Icy Incursion | 8.00% | ~3,870 |
+| Arachnophobia | 8.00% | ~3,870 |
+| Revealed Secrets - III | 8.00% | ~3,870 |
 | Nightmare of the Humanity - III | 7.00% | ~3,386 |
 | Means of Recovery | 6.00% | ~2,902 |
 | Master of Magic | 6.00% | ~2,902 |
@@ -82,7 +82,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Unrivaled | 0.50% | ~242 |
 | Renowned Researcher | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48,368 (Ranked 122)  
+Progressed: 48,369 (Ranked 122)  
 Completed: 26 (0.05%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,7 +338,7 @@ Completed: 26 (0.05%) (Ranked 333)
 | 2023-12-29 | 48,174 | 26 |
 | 2023-12-30 | 48,277 | 26 |
 | 2023-12-31 | 48,351 | 26 |
-| 2024-01-01 | 48,368 | 26 |
+| 2024-01-01 | 48,369 | 26 |
 ## Awards
 Max (Character Customization): 2,166  (Ranked 113)  
 Sum: 4,223 (Ranked 157)  

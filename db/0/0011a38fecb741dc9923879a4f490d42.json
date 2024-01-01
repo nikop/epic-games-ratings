@@ -2,9 +2,9 @@
   "ID": "0011a38fecb741dc9923879a4f490d42",
   "Name": "Deadwater Saloon",
   "ProductSlug": "deadwater-saloon-391b9d",
-  "Ranking_EOS_Progress": 590,
+  "Ranking_EOS_Progress": 588,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 497,
+  "Ranking_EOS_NewPlayers": 476,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-21T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 28,
+  "EOS_Progressed": 29,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -169,6 +169,11 @@
       "Time": "2023-12-29T14:09:19.7037031+00:00",
       "NumProgressed": 28,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T05:09:10.6586899+00:00",
+      "NumProgressed": 29,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T10:04:12.9099765+00:00",
@@ -179,15 +184,15 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "631i43e",
       "Name": "First Shipment",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "631i43e",
       "Name": "Manipulator",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -195,7 +200,7 @@
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "631i43e",
       "Name": "Hello Friend",
-      "Percentage": 61,
+      "Percentage": 59,
       "XP": 15,
       "UsersEstimate": 17
     },
@@ -203,7 +208,7 @@
       "ID": "NEW_ACHIEVEMENT_1_12",
       "SetID": "631i43e",
       "Name": "Under The Floorboards",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -219,7 +224,7 @@
       "ID": "NEW_ACHIEVEMENT_1_14",
       "SetID": "631i43e",
       "Name": "I Can Keep A Secret",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -267,7 +272,7 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "631i43e",
       "Name": "Get Your Swerve On",
-      "Percentage": 68,
+      "Percentage": 66,
       "XP": 15,
       "UsersEstimate": 19
     },
@@ -275,7 +280,7 @@
       "ID": "NEW_ACHIEVEMENT_1_20",
       "SetID": "631i43e",
       "Name": "No Matrimony Back Then",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -283,7 +288,7 @@
       "ID": "NEW_ACHIEVEMENT_1_21",
       "SetID": "631i43e",
       "Name": "A Furry Friend",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -291,7 +296,7 @@
       "ID": "NEW_ACHIEVEMENT_1_22",
       "SetID": "631i43e",
       "Name": "Moneymaker",
-      "Percentage": 36,
+      "Percentage": 34,
       "XP": 15,
       "UsersEstimate": 10
     },
@@ -299,7 +304,7 @@
       "ID": "NEW_ACHIEVEMENT_1_23",
       "SetID": "631i43e",
       "Name": "Aces Wild",
-      "Percentage": 43,
+      "Percentage": 41,
       "XP": 15,
       "UsersEstimate": 12
     },
@@ -307,7 +312,7 @@
       "ID": "NEW_ACHIEVEMENT_1_24",
       "SetID": "631i43e",
       "Name": "Fine Tuned",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -315,7 +320,7 @@
       "ID": "NEW_ACHIEVEMENT_1_25",
       "SetID": "631i43e",
       "Name": "Watch Your Back",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
       "UsersEstimate": 9
     },
@@ -323,7 +328,7 @@
       "ID": "NEW_ACHIEVEMENT_1_26",
       "SetID": "631i43e",
       "Name": "Got Your Back",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
       "UsersEstimate": 9
     },
@@ -347,7 +352,7 @@
       "ID": "NEW_ACHIEVEMENT_1_29",
       "SetID": "631i43e",
       "Name": "Hello",
-      "Percentage": 64,
+      "Percentage": 62,
       "XP": 15,
       "UsersEstimate": 18
     },
@@ -355,7 +360,7 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "631i43e",
       "Name": "Chow Time",
-      "Percentage": 57,
+      "Percentage": 55,
       "XP": 15,
       "UsersEstimate": 16
     },
@@ -371,7 +376,7 @@
       "ID": "NEW_ACHIEVEMENT_1_31",
       "SetID": "631i43e",
       "Name": "Might Close Early",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -379,7 +384,7 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "631i43e",
       "Name": "Just A Little Taste",
-      "Percentage": 36,
+      "Percentage": 34,
       "XP": 15,
       "UsersEstimate": 10
     },
@@ -403,7 +408,7 @@
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "631i43e",
       "Name": "Hating Life",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -411,7 +416,7 @@
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "631i43e",
       "Name": "Goodbye Life",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -427,7 +432,7 @@
       "ID": "NEW_ACHIEVEMENT_2_0",
       "SetID": "631i43e",
       "Name": "Gold Rush",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -435,7 +440,7 @@
       "ID": "NEW_ACHIEVEMENT_2_1",
       "SetID": "631i43e",
       "Name": "Largeville",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -443,7 +448,7 @@
       "ID": "NEW_ACHIEVEMENT_2_10",
       "SetID": "631i43e",
       "Name": "The Gambler",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -459,7 +464,7 @@
       "ID": "NEW_ACHIEVEMENT_2_12",
       "SetID": "631i43e",
       "Name": "Follow Me!",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -483,7 +488,7 @@
       "ID": "NEW_ACHIEVEMENT_2_15",
       "SetID": "631i43e",
       "Name": "Words Of Wisdom, Lloyd",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -499,7 +504,7 @@
       "ID": "NEW_ACHIEVEMENT_2_17",
       "SetID": "631i43e",
       "Name": "Silver Tongue",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -531,7 +536,7 @@
       "ID": "NEW_ACHIEVEMENT_2_20",
       "SetID": "631i43e",
       "Name": "Pious",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -547,7 +552,7 @@
       "ID": "NEW_ACHIEVEMENT_2_22",
       "SetID": "631i43e",
       "Name": "Tycoon?",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -563,7 +568,7 @@
       "ID": "NEW_ACHIEVEMENT_2_24",
       "SetID": "631i43e",
       "Name": "I\u0027ll Just Leave This Here...",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -587,7 +592,7 @@
       "ID": "NEW_ACHIEVEMENT_2_27",
       "SetID": "631i43e",
       "Name": "You Really Are Suave!",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -619,7 +624,7 @@
       "ID": "NEW_ACHIEVEMENT_2_30",
       "SetID": "631i43e",
       "Name": "Backpages",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -635,7 +640,7 @@
       "ID": "NEW_ACHIEVEMENT_2_4",
       "SetID": "631i43e",
       "Name": "Full House",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -651,7 +656,7 @@
       "ID": "NEW_ACHIEVEMENT_2_6",
       "SetID": "631i43e",
       "Name": "Shovels!",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -675,7 +680,7 @@
       "ID": "NEW_ACHIEVEMENT_2_9",
       "SetID": "631i43e",
       "Name": "Shakespeare Of The West",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -692,14 +697,14 @@
     {
       "ID": "631i43e",
       "IsBase": true,
-      "Progressed": 28,
+      "Progressed": 29,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-08T01:44:07.0326373+00:00",
   "FirstSeenAchievements": "2023-08-30T10:02:22.7238107+00:00",
-  "LastChanged_Achievements": "2024-01-01T04:09:31.7589856+00:00",
+  "LastChanged_Achievements": "2024-01-01T05:09:10.6586894+00:00",
   "LastUpdate_AppInfo": "2023-12-27T20:57:07.926146+00:00",
-  "LastUpdate_Ratings": "2024-01-01T03:58:53.8440909+00:00",
-  "LastUpdate_Achievements": "2024-01-01T04:09:31.759047+00:00"
+  "LastUpdate_Ratings": "2024-01-01T04:58:43.4569024+00:00",
+  "LastUpdate_Achievements": "2024-01-01T05:09:10.6587418+00:00"
 }

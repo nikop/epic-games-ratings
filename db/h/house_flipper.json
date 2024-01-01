@@ -2,12 +2,12 @@
   "ID": "d5cbd232ad304c91aacc20f31849435c",
   "Name": "House Flipper",
   "ProductSlug": "house-flipper",
-  "Ranking_Rating": 234,
+  "Ranking_Rating": 235,
   "Ranking_Popularity": 251,
   "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
@@ -12684,8 +12684,8 @@
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-12-30T17:00:40.7437289+00:00",
-  "LastChanged_Achievements": "2024-01-01T04:04:22.605027+00:00",
+  "LastChanged_Achievements": "2024-01-01T05:04:07.0429086+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:00.4984496+00:00",
-  "LastUpdate_Ratings": "2024-01-01T03:57:50.0752728+00:00",
-  "LastUpdate_Achievements": "2024-01-01T04:04:22.6050871+00:00"
+  "LastUpdate_Ratings": "2024-01-01T04:57:45.0550998+00:00",
+  "LastUpdate_Achievements": "2024-01-01T05:04:07.0429792+00:00"
 }

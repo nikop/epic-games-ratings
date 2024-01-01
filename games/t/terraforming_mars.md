@@ -1,27 +1,27 @@
 # Terraforming Mars
 [Store](https://store.epicgames.com/en-US/p/terraforming-mars-18c3ad)  
 [View Rawdata](../../db/t/terraforming_mars.json)  
-Rating: 4.53 (Ranked 559)  
+Rating: 4.53 (Ranked 560)  
 Number of Ratings: 2,731  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 37.00% | ~32,775 |
-| Final touch | 34.00% | ~30,118 |
-| Prop-M Rover | 32.00% | ~28,346 |
-| Changing the Planet | 28.00% | ~24,803 |
-| Sojourner | 26.00% | ~23,031 |
+| It's a steal! | 37.00% | ~32,776 |
+| Final touch | 34.00% | ~30,119 |
+| Prop-M Rover | 32.00% | ~28,347 |
+| Changing the Planet | 28.00% | ~24,804 |
+| Sojourner | 26.00% | ~23,032 |
 | New Home | 23.00% | ~20,374 |
 | Beagle 2 | 23.00% | ~20,374 |
-| Winner Winner Terraformer | 21.00% | ~18,602 |
+| Winner Winner Terraformer | 21.00% | ~18,603 |
 | Project Manager | 19.00% | ~16,831 |
 | Collector | 19.00% | ~16,831 |
 | No Longer Red | 18.00% | ~15,945 |
 | Curiosity | 18.00% | ~15,945 |
 | Master | 18.00% | ~15,945 |
 | Self-sufficient | 17.00% | ~15,059 |
-| Money money | 15.00% | ~13,287 |
-| First Journey | 14.00% | ~12,401 |
+| Money money | 15.00% | ~13,288 |
+| First Journey | 14.00% | ~12,402 |
 | Biggest Reward | 13.00% | ~11,516 |
 | Acquired knowledge | 12.00% | ~10,630 |
 | Landlord | 11.00% | ~9,744 |
@@ -30,14 +30,14 @@ Number of Ratings: 2,731  (23.09.2022)
 | Grand champion | 11.00% | ~9,744 |
 | Spirit | 10.00% | ~8,858 |
 | Ultimate success | 10.00% | ~8,858 |
-| Variety Expert | 9.00% | ~7,972 |
+| Variety Expert | 9.00% | ~7,973 |
 | Frequent tester | 8.00% | ~7,087 |
 | Determined | 7.00% | ~6,201 |
 | Terraformer | 4.00% | ~3,543 |
-| Team Effort | 3.00% | ~2,657 |
-| Opportunity | 3.00% | ~2,657 |
+| Team Effort | 3.00% | ~2,658 |
+| Opportunity | 3.00% | ~2,658 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,582 (Ranked 103)  
+Progressed: 88,584 (Ranked 103)  
 Completed: 178 (0.20%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 178 (0.20%) (Ranked 272)
 | 2023-12-29 | 88,210 | 177 |
 | 2023-12-30 | 88,409 | 177 |
 | 2023-12-31 | 88,558 | 178 |
-| 2024-01-01 | 88,582 | 178 |
+| 2024-01-01 | 88,584 | 178 |
 ## Awards
 Max (Relaxing): 535  (Ranked 214)  
 Sum: 3,320 (Ranked 176)  

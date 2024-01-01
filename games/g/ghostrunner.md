@@ -1,58 +1,58 @@
 # Ghostrunner
 [Store](https://store.epicgames.com/en-US/p/ghostrunner)  
 [View Rawdata](../../db/g/ghostrunner.json)  
-Rating: 4.72 (Ranked 187)  
+Rating: 4.72 (Ranked 188)  
 Number of Ratings: 1,047  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 19.00% | ~44,025 |
-| Sword Runner | 13.00% | ~30,122 |
-| Running out of breath | 8.00% | ~18,537 |
-| I call it luck | 7.00% | ~16,220 |
-| Wallrunner | 7.00% | ~16,220 |
-| Homerunner | 5.00% | ~11,585 |
-| Out of order | 5.00% | ~11,585 |
-| Back to hell | 4.00% | ~9,268 |
-| Perfection | 4.00% | ~9,268 |
-| Running Wild | 4.00% | ~9,268 |
-| Sword to a gunfight | 4.00% | ~9,268 |
-| Where are my Keys? | 4.00% | ~9,268 |
-| Artificial selection | 3.00% | ~6,951 |
-| Finish line | 3.00% | ~6,951 |
-| Control freak | 3.00% | ~6,951 |
-| Upgrades not mandatory | 3.00% | ~6,951 |
-| Why not both | 3.00% | ~6,951 |
-| Can't Run Can't Hide | 2.00% | ~4,634 |
-| Dead in the air | 2.00% | ~4,634 |
-| R is for Running | 2.00% | ~4,634 |
-| Unstoppable force | 2.00% | ~4,634 |
-| Wave of mutilation | 2.00% | ~4,634 |
-| Improvise, adapt, overrun | 1.00% | ~2,317 |
-| More than human | 1.00% | ~2,317 |
-| Pre-empative strike | 1.00% | ~2,317 |
-| Strike | 1.00% | ~2,317 |
-| Triple A | 1.00% | ~2,317 |
-| Fine addition | 0.70% | ~1,622 |
-| One Of Those Days | 0.70% | ~1,622 |
-| Push it to the limit | 0.50% | ~1,159 |
-| Where He Stood | 0.50% | ~1,159 |
-| About Adam | 0.40% | ~927 |
-| Just A Man | 0.40% | ~927 |
-| Scrapped | 0.40% | ~927 |
-| Strafing Run | 0.40% | ~927 |
-| Hit me if you can | 0.20% | ~463 |
-| Junkrunner | 0.20% | ~463 |
-| One man's trash | 0.20% | ~463 |
-| A Grade | 0.10% | ~232 |
-| Everyone Needs A Hobby | 0.10% | ~232 |
-| GR Project Complete | 0.10% | ~232 |
-| Legacy Drivers | 0.10% | ~232 |
-| Obedient Machine | 0.10% | ~232 |
-| Sticks And Stones | 0.10% | ~232 |
-| Up Close And Personal | 0.10% | ~232 |
+| Longrunner | 19.00% | ~49,051 |
+| Sword Runner | 13.00% | ~33,561 |
+| I call it luck | 7.00% | ~18,071 |
+| Running out of breath | 7.00% | ~18,071 |
+| Wallrunner | 7.00% | ~18,071 |
+| Homerunner | 5.00% | ~12,908 |
+| Out of order | 5.00% | ~12,908 |
+| Back to hell | 4.00% | ~10,326 |
+| Running Wild | 4.00% | ~10,326 |
+| Sword to a gunfight | 4.00% | ~10,326 |
+| Where are my Keys? | 4.00% | ~10,326 |
+| Artificial selection | 3.00% | ~7,745 |
+| Finish line | 3.00% | ~7,745 |
+| Control freak | 3.00% | ~7,745 |
+| Perfection | 3.00% | ~7,745 |
+| Upgrades not mandatory | 3.00% | ~7,745 |
+| Why not both | 3.00% | ~7,745 |
+| Can't Run Can't Hide | 2.00% | ~5,163 |
+| Dead in the air | 2.00% | ~5,163 |
+| R is for Running | 2.00% | ~5,163 |
+| Unstoppable force | 2.00% | ~5,163 |
+| Wave of mutilation | 2.00% | ~5,163 |
+| Improvise, adapt, overrun | 1.00% | ~2,582 |
+| More than human | 1.00% | ~2,582 |
+| Pre-empative strike | 1.00% | ~2,582 |
+| Strike | 1.00% | ~2,582 |
+| Triple A | 0.90% | ~2,323 |
+| Fine addition | 0.60% | ~1,549 |
+| One Of Those Days | 0.60% | ~1,549 |
+| Where He Stood | 0.50% | ~1,291 |
+| Push it to the limit | 0.40% | ~1,033 |
+| Scrapped | 0.40% | ~1,033 |
+| About Adam | 0.30% | ~774 |
+| Just A Man | 0.30% | ~774 |
+| Strafing Run | 0.30% | ~774 |
+| Junkrunner | 0.20% | ~516 |
+| One man's trash | 0.20% | ~516 |
+| A Grade | 0.10% | ~258 |
+| Everyone Needs A Hobby | 0.10% | ~258 |
+| GR Project Complete | 0.10% | ~258 |
+| Hit me if you can | 0.10% | ~258 |
+| Legacy Drivers | 0.10% | ~258 |
+| Obedient Machine | 0.10% | ~258 |
+| Sticks And Stones | 0.10% | ~258 |
+| Up Close And Personal | 0.10% | ~258 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,708 (Ranked 75)  
+Progressed: 258,162 (Ranked 66)  
 Completed: 100 (0.04%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 100 (0.04%) (Ranked 344)
 | 2023-12-29 | 25,370 | 98 |
 | 2023-12-30 | 25,463 | 98 |
 | 2023-12-31 | 152,862 | 100 |
-| 2024-01-01 | 231,708 | 100 |
+| 2024-01-01 | 258,162 | 100 |
 ## Awards
 Max (Great Boss Battles): 533  (Ranked 215)  
 Sum: 719 (Ranked 306)  

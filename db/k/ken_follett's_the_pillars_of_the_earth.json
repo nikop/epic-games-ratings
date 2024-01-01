@@ -2,7 +2,7 @@
   "ID": "ce8393adfbf342ceab0a36479ffbc627",
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
-  "Ranking_Rating": 589,
+  "Ranking_Rating": 590,
   "Ranking_Popularity": 323,
   "Ranking_PopularitySum": 415,
   "Ranking_EOS_Progress": 160,
@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17530,
+  "EOS_Progressed": 17532,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -17430,6 +17430,11 @@
       "Time": "2024-01-01T03:06:23.5271121+00:00",
       "NumProgressed": 17530,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2024-01-01T05:05:46.5159789+00:00",
+      "NumProgressed": 17532,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 41,
@@ -17465,7 +17470,7 @@
       "Name": "Staring contest champion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "tpote_achievement_13",
@@ -17473,7 +17478,7 @@
       "Name": "Lone wolf",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "tpote_achievement_14",
@@ -17521,7 +17526,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3155
+      "UsersEstimate": 3156
     },
     {
       "ID": "tpote_achievement_2",
@@ -17529,7 +17534,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5785
+      "UsersEstimate": 5786
     },
     {
       "ID": "tpote_achievement_20",
@@ -17593,7 +17598,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3155
+      "UsersEstimate": 3156
     },
     {
       "ID": "tpote_achievement_28",
@@ -17617,7 +17622,7 @@
       "Name": "Let there be darkness",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5434
+      "UsersEstimate": 5435
     },
     {
       "ID": "tpote_achievement_30",
@@ -17633,7 +17638,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 3155
+      "UsersEstimate": 3156
     },
     {
       "ID": "tpote_achievement_32",
@@ -17649,7 +17654,7 @@
       "Name": "Nothing but make-believe",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1402
+      "UsersEstimate": 1403
     },
     {
       "ID": "tpote_achievement_34",
@@ -17681,7 +17686,7 @@
       "Name": "Vox Populi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "tpote_achievement_38",
@@ -17705,7 +17710,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 7012
+      "UsersEstimate": 7013
     },
     {
       "ID": "tpote_achievement_40",
@@ -17753,7 +17758,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3681
+      "UsersEstimate": 3682
     },
     {
       "ID": "tpote_achievement_9",
@@ -17761,22 +17766,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5960
+      "UsersEstimate": 5961
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17530,
+      "Progressed": 17532,
       "Completed": 123
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-01T04:06:10.7714888+00:00",
+  "LastChanged_Achievements": "2024-01-01T05:05:46.5159785+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:24.3361109+00:00",
-  "LastUpdate_Ratings": "2024-01-01T04:02:25.6435023+00:00",
-  "LastUpdate_Achievements": "2024-01-01T04:06:10.7715697+00:00"
+  "LastUpdate_Ratings": "2024-01-01T05:02:49.2055649+00:00",
+  "LastUpdate_Achievements": "2024-01-01T05:05:46.5160634+00:00"
 }

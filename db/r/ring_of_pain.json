@@ -2,13 +2,13 @@
   "ID": "b9c7474c6bdf4e9ab8ca5a5da60059d4",
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
-  "Ranking_Rating": 465,
+  "Ranking_Rating": 466,
   "Ranking_Popularity": 135,
   "Ranking_PopularitySum": 88,
-  "Ranking_EOS_Progress": 71,
+  "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 299,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3764,10 +3764,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 11776,
       "NumberOfAwardsMax": 1513
+    },
+    {
+      "Time": "2024-01-01T04:57:24.2151304+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 11777,
+      "NumberOfAwardsMax": 1513
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11776,
+  "NumberOfAwards": 11777,
   "NumberOfAwardsMax": 1513,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3835,12 +3841,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 748
+      "Count": 749
     }
   ],
   "EOS_Progressed": 242136,
   "EOS_Completed": 302,
-  "EOS_NewPlayers": 497,
+  "EOS_NewPlayers": 495,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -31055,9 +31061,9 @@
       "ID": "STEALTH10",
       "SetID": "5l8oe0h",
       "Name": "Sneaky",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1695
+      "UsersEstimate": 1937
     },
     {
       "ID": "STEALTH100",
@@ -31405,9 +31411,9 @@
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
-  "LastChanged": "2024-01-01T02:57:31.7039321+00:00",
-  "LastChanged_Achievements": "2024-01-01T04:10:59.1900742+00:00",
+  "LastChanged": "2024-01-01T04:57:24.2151303+00:00",
+  "LastChanged_Achievements": "2024-01-01T05:10:31.8231625+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:01.848225+00:00",
-  "LastUpdate_Ratings": "2024-01-01T03:57:27.7423388+00:00",
-  "LastUpdate_Achievements": "2024-01-01T04:10:59.1903351+00:00"
+  "LastUpdate_Ratings": "2024-01-01T04:57:24.215131+00:00",
+  "LastUpdate_Achievements": "2024-01-01T05:10:31.823431+00:00"
 }

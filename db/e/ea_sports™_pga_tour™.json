@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 811,
+  "EOS_Progressed": 813,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.23,
   "EosHistory": [
@@ -2915,6 +2915,11 @@
       "Time": "2024-01-01T02:05:43.4056299+00:00",
       "NumProgressed": 811,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-01T05:09:59.1916168+00:00",
+      "NumProgressed": 813,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -2935,7 +2940,7 @@
       "Name": "Holey Moley",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "achievement_11",
@@ -2951,7 +2956,7 @@
       "Name": "From Way Downtown",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "achievement_13",
@@ -2983,7 +2988,7 @@
       "Name": "Star Power",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 681
+      "UsersEstimate": 683
     },
     {
       "ID": "achievement_17",
@@ -2991,7 +2996,7 @@
       "Name": "Clean Sheet",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "achievement_18",
@@ -2999,7 +3004,7 @@
       "Name": "Perfect Round",
       "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "achievement_2",
@@ -3023,7 +3028,7 @@
       "Name": "From Many, One",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "achievement_5",
@@ -3047,7 +3052,7 @@
       "Name": "Makin\u0027 the Cut",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_8",
@@ -3055,7 +3060,7 @@
       "Name": "Winner\u0027s Circle",
       "Percentage": 47,
       "XP": 35,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "achievement_9",
@@ -3070,13 +3075,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 811,
+      "Progressed": 813,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2024-01-01T04:10:24.9026679+00:00",
+  "LastChanged_Achievements": "2024-01-01T05:09:59.1916164+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:46.6527826+00:00",
-  "LastUpdate_Ratings": "2024-01-01T03:57:26.7796622+00:00",
-  "LastUpdate_Achievements": "2024-01-01T04:10:24.9026934+00:00"
+  "LastUpdate_Ratings": "2024-01-01T04:57:23.3427022+00:00",
+  "LastUpdate_Achievements": "2024-01-01T05:09:59.1916408+00:00"
 }

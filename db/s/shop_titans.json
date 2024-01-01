@@ -2,7 +2,7 @@
   "ID": "9696e0c7c26841789a152588c744d506",
   "Name": "Shop Titans",
   "ProductSlug": "shop-titans-d95c1c",
-  "Ranking_Rating": 1038,
+  "Ranking_Rating": 1039,
   "Ranking_Popularity": 78,
   "Ranking_PopularitySum": 51,
   "Ranking_EOS_Progress": 86,
@@ -7847,10 +7847,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27883,
       "NumberOfAwardsMax": 4934
+    },
+    {
+      "Time": "2024-01-01T05:03:24.8918364+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27886,
+      "NumberOfAwardsMax": 4934
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27883,
+  "NumberOfAwards": 27886,
   "NumberOfAwardsMax": 4934,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7894,7 +7900,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3234
+      "Count": 3237
     },
     {
       "Text": "This game is Highly Recommended",
@@ -7903,9 +7909,9 @@
       "Count": 3808
     }
   ],
-  "EOS_Progressed": 148741,
+  "EOS_Progressed": 148743,
   "EOS_Completed": 340,
-  "EOS_NewPlayers": 1268,
+  "EOS_NewPlayers": 1266,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -34813,6 +34819,11 @@
       "Time": "2024-01-01T04:06:35.3555916+00:00",
       "NumProgressed": 148741,
       "NumCompleted": 340
+    },
+    {
+      "Time": "2024-01-01T05:06:09.3291814+00:00",
+      "NumProgressed": 148743,
+      "NumCompleted": 340
     }
   ],
   "TotalAchievements": 112,
@@ -35200,7 +35211,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8924
+      "UsersEstimate": 8925
     },
     {
       "ID": "expansion02",
@@ -35408,7 +35419,7 @@
       "Name": "Budding Merchant",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8924
+      "UsersEstimate": 8925
     },
     {
       "ID": "level02",
@@ -35719,15 +35730,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 148741,
+      "Progressed": 148743,
       "Completed": 340
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2024-01-01T03:03:46.2612048+00:00",
-  "LastChanged_Achievements": "2024-01-01T04:06:35.3555901+00:00",
+  "LastChanged": "2024-01-01T05:03:24.8918363+00:00",
+  "LastChanged_Achievements": "2024-01-01T05:06:09.329181+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.6407181+00:00",
-  "LastUpdate_Ratings": "2024-01-01T04:03:37.3888445+00:00",
-  "LastUpdate_Achievements": "2024-01-01T04:06:35.355789+00:00"
+  "LastUpdate_Ratings": "2024-01-01T05:03:24.8918369+00:00",
+  "LastUpdate_Achievements": "2024-01-01T05:06:09.3294059+00:00"
 }

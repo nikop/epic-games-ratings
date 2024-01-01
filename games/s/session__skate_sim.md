@@ -1,14 +1,14 @@
 # Session: Skate Sim
 [Store](https://store.epicgames.com/en-US/p/session-skate-sim)  
 [View Rawdata](../../db/s/session__skate_sim.json)  
-Rating: 4.69 (Ranked 234)  
+Rating: 4.69 (Ranked 235)  
 Number of Ratings: 111  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 62.00% | ~2,156 |
+| You're free now! | 62.00% | ~2,157 |
 | Keeping it classy | 27.00% | ~939 |
-| Welcome to the family | 21.00% | ~730 |
+| Welcome to the family | 21.00% | ~731 |
 | The finer things in life | 19.00% | ~661 |
 | Backpacker | 14.00% | ~487 |
 | Go with the Flow | 13.00% | ~452 |
@@ -18,11 +18,11 @@ Number of Ratings: 111  (23.09.2022)
 | Good vibes | 9.00% | ~313 |
 | Keep the dream alive | 9.00% | ~313 |
 | Upfront shredder | 9.00% | ~313 |
-| Bottom ply killer | 7.00% | ~243 |
-| Fashionista | 7.00% | ~243 |
-| Finally he zips it | 7.00% | ~243 |
-| That pinch! | 7.00% | ~243 |
-| Tight lipslides | 7.00% | ~243 |
+| Bottom ply killer | 7.00% | ~244 |
+| Fashionista | 7.00% | ~244 |
+| Finally he zips it | 7.00% | ~244 |
+| That pinch! | 7.00% | ~244 |
+| Tight lipslides | 7.00% | ~244 |
 | Fulfilled the dream | 6.00% | ~209 |
 | G'Day Mate! | 6.00% | ~209 |
 | NAHELL! | 6.00% | ~209 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,477 (Ranked 220)  
+Progressed: 3,479 (Ranked 220)  
 Completed: 2 (0.06%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,6 +286,7 @@ Completed: 2 (0.06%) (Ranked 326)
 | 2023-12-29 | 3,448 | 2 |
 | 2023-12-30 | 3,465 | 2 |
 | 2023-12-31 | 3,477 | 2 |
+| 2024-01-01 | 3,479 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 62  (Ranked 422)  
 Sum: 578 (Ranked 324)  

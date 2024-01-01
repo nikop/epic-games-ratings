@@ -2,7 +2,7 @@
   "ID": "cf318a791de349f2b724136be105a6f1",
   "Name": "The Invincible",
   "ProductSlug": "the-invincible",
-  "Ranking_Rating": 465,
+  "Ranking_Rating": 466,
   "Ranking_Popularity": 576,
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 275,
@@ -55,9 +55,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1239,
+  "EOS_Progressed": 1240,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 271,
+  "EOS_NewPlayers": 270,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3220,6 +3220,11 @@
       "Time": "2024-01-01T02:05:32.0739242+00:00",
       "NumProgressed": 1239,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T05:09:44.6495265+00:00",
+      "NumProgressed": 1240,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -3256,7 +3261,7 @@
       "Name": "Fierce fight",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "AchvBombStop",
@@ -3296,7 +3301,7 @@
       "Name": "The Alliance",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "AchvDoom",
@@ -3400,7 +3405,7 @@
       "Name": "The field base",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "AchvReachCamp",
@@ -3408,7 +3413,7 @@
       "Name": "The Camp",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "AchvReachCity",
@@ -3432,7 +3437,7 @@
       "Name": "Survivors",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -3448,7 +3453,7 @@
       "Name": "The End",
       "Percentage": 34,
       "XP": 55,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "AchvUnity",
@@ -3463,7 +3468,7 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1239,
+      "Progressed": 1240,
       "Completed": 0
     }
   ],
@@ -3471,8 +3476,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2023-12-30T17:00:36.8691778+00:00",
-  "LastChanged_Achievements": "2024-01-01T04:10:09.0851664+00:00",
+  "LastChanged_Achievements": "2024-01-01T05:09:44.6495261+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:20.4992862+00:00",
-  "LastUpdate_Ratings": "2024-01-01T03:57:10.8010861+00:00",
-  "LastUpdate_Achievements": "2024-01-01T04:10:09.0852047+00:00"
+  "LastUpdate_Ratings": "2024-01-01T04:57:08.556247+00:00",
+  "LastUpdate_Achievements": "2024-01-01T05:09:44.6495611+00:00"
 }

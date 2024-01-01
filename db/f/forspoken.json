@@ -2,13 +2,13 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 998,
+  "Ranking_Rating": 999,
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 368,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -559,9 +559,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 45926,
+  "EOS_Progressed": 45928,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 819,
+  "EOS_NewPlayers": 818,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17184,6 +17184,11 @@
       "Time": "2024-01-01T04:05:43.0696023+00:00",
       "NumProgressed": 45926,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-01T05:05:20.9104426+00:00",
+      "NumProgressed": 45928,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -17618,22 +17623,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 45926,
+      "Progressed": 45928,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 10763,
-      "Completed": 10763
+      "Progressed": 10765,
+      "Completed": 10765
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-12-31T08:02:45.8562464+00:00",
-  "LastChanged_Achievements": "2024-01-01T04:05:43.0696017+00:00",
+  "LastChanged_Achievements": "2024-01-01T05:05:20.9104422+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:48.1998363+00:00",
-  "LastUpdate_Ratings": "2024-01-01T04:02:32.1012249+00:00",
-  "LastUpdate_Achievements": "2024-01-01T04:05:43.0697221+00:00"
+  "LastUpdate_Ratings": "2024-01-01T05:02:55.2514667+00:00",
+  "LastUpdate_Achievements": "2024-01-01T05:05:20.9105481+00:00"
 }

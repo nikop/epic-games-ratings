@@ -2,12 +2,12 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 543,
+  "Ranking_Rating": 544,
   "Ranking_Popularity": 576,
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17940,
+  "EOS_Progressed": 17944,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 589,
+  "EOS_NewPlayers": 592,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -15865,6 +15865,11 @@
       "Time": "2024-01-01T03:04:15.4040281+00:00",
       "NumProgressed": 17940,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-01T05:03:50.995174+00:00",
+      "NumProgressed": 17944,
+      "NumCompleted": 58
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15893,7 +15898,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1973
+      "UsersEstimate": 1974
     },
     {
       "ID": "12",
@@ -15901,7 +15906,7 @@
       "Name": "Data Archivist",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1076
+      "UsersEstimate": 1077
     },
     {
       "ID": "13",
@@ -15909,7 +15914,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2870
+      "UsersEstimate": 2871
     },
     {
       "ID": "14",
@@ -15933,7 +15938,7 @@
       "Name": "Drug Gifter",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1076
+      "UsersEstimate": 1077
     },
     {
       "ID": "17",
@@ -15957,7 +15962,7 @@
       "Name": "Martian Music",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1973
+      "UsersEstimate": 1974
     },
     {
       "ID": "2",
@@ -15973,7 +15978,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1076
+      "UsersEstimate": 1077
     },
     {
       "ID": "21",
@@ -15981,7 +15986,7 @@
       "Name": "Drone Dodger",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1973
+      "UsersEstimate": 1974
     },
     {
       "ID": "22",
@@ -16013,7 +16018,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1076
+      "UsersEstimate": 1077
     },
     {
       "ID": "26",
@@ -16021,7 +16026,7 @@
       "Name": "Call it Even",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 1435
+      "UsersEstimate": 1436
     },
     {
       "ID": "27",
@@ -16029,7 +16034,7 @@
       "Name": "Bosmang",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 1973
+      "UsersEstimate": 1974
     },
     {
       "ID": "28",
@@ -16053,7 +16058,7 @@
       "Name": "Captain Drummer",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2332
+      "UsersEstimate": 2333
     },
     {
       "ID": "30",
@@ -16109,7 +16114,7 @@
       "Name": "Impossible Objects",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1973
+      "UsersEstimate": 1974
     },
     {
       "ID": "31",
@@ -16125,7 +16130,7 @@
       "Name": "Safe Cracker",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "33",
@@ -16133,7 +16138,7 @@
       "Name": "Zen Master",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "34",
@@ -16156,22 +16161,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17940,
+      "Progressed": 17944,
       "Completed": 58
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3894,
-      "Completed": 1138
+      "Progressed": 3898,
+      "Completed": 1139
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T23:58:17.8612142+00:00",
-  "LastChanged_Achievements": "2024-01-01T04:04:05.3858293+00:00",
+  "LastChanged_Achievements": "2024-01-01T05:03:50.9951735+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2024-01-01T03:59:10.6051787+00:00",
-  "LastUpdate_Achievements": "2024-01-01T04:04:05.385929+00:00"
+  "LastUpdate_Ratings": "2024-01-01T04:58:59.5670009+00:00",
+  "LastUpdate_Achievements": "2024-01-01T05:03:50.9953378+00:00"
 }

@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1045,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -3636,9 +3636,9 @@
       "ID": "achievement_29",
       "SetID": "2cpn27e",
       "Name": "Fair Means or Foul",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 261
+      "UsersEstimate": 272
     },
     {
       "ID": "achievement_3",
@@ -3858,8 +3858,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-01T04:09:56.8546501+00:00",
+  "LastChanged_Achievements": "2024-01-01T05:09:33.6874866+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:22.7723621+00:00",
-  "LastUpdate_Ratings": "2024-01-01T04:00:12.2707517+00:00",
-  "LastUpdate_Achievements": "2024-01-01T04:09:56.8546946+00:00"
+  "LastUpdate_Ratings": "2024-01-01T04:59:56.8967262+00:00",
+  "LastUpdate_Achievements": "2024-01-01T05:09:33.687548+00:00"
 }

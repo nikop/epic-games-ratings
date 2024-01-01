@@ -1,7 +1,7 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 465)  
+Rating: 4.58 (Ranked 466)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -27,6 +27,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Spine Breaker | 0.80% | ~1,937 |
 | C-C-Combo | 0.80% | ~1,937 |
 | Deflection | 0.80% | ~1,937 |
+| Sneaky | 0.80% | ~1,937 |
 | Ambitious Intent | 0.70% | ~1,695 |
 | R.I.P | 0.70% | ~1,695 |
 | Dig Your Own Grave | 0.70% | ~1,695 |
@@ -35,7 +36,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | The Bestiary | 0.70% | ~1,695 |
 | Shootout | 0.70% | ~1,695 |
 | Toxic | 0.70% | ~1,695 |
-| Sneaky | 0.70% | ~1,695 |
 | Consecutive Curses | 0.60% | ~1,453 |
 | Who To Trust? | 0.60% | ~1,453 |
 | Walk It Off | 0.60% | ~1,453 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,136 (Ranked 71)  
+Progressed: 242,136 (Ranked 72)  
 Completed: 302 (0.12%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -404,7 +404,7 @@ Completed: 302 (0.12%) (Ranked 299)
 | 2024-01-01 | 242,136 | 302 |
 ## Awards
 Max (Quickly Understood Controls): 1,513  (Ranked 135)  
-Sum: 11,776 (Ranked 88)  
+Sum: 11,777 (Ranked 88)  
 Diff (max vs sum): 47  
 | Award | Count |
 | ----- | ----- |
@@ -418,7 +418,7 @@ Diff (max vs sum): 47
 | This game has Amazing Characters | 1,235 |
 | This game has Unique Visuals | 1,234 |
 | This game has Obsessive Gameplay | 1,088 |
-| This game has a Creative Community | 748 |
+| This game has a Creative Community | 749 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -669,4 +669,4 @@ Diff (max vs sum): 47
 | 2023-12-29 | 4.58 | - | 1,513 | 11,769 |
 | 2023-12-30 | 4.58 | - | 1,513 | 11,770 |
 | 2023-12-31 | 4.58 | - | 1,513 | 11,774 |
-| 2024-01-01 | 4.58 | - | 1,513 | 11,776 |
+| 2024-01-01 | 4.58 | - | 1,513 | 11,777 |

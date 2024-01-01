@@ -2,7 +2,7 @@
   "ID": "975d251af0384c88a898a996bda4881d",
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
-  "Ranking_Rating": 132,
+  "Ranking_Rating": 133,
   "Ranking_Popularity": 126,
   "Ranking_PopularitySum": 125,
   "Ranking_EOS_Progress": 174,
@@ -4775,9 +4775,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12927,
+  "EOS_Progressed": 12928,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 200,
+  "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18610,6 +18610,11 @@
       "Time": "2024-01-01T04:10:57.8822818+00:00",
       "NumProgressed": 12927,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T05:10:30.5317181+00:00",
+      "NumProgressed": 12928,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -18621,7 +18626,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3490
+      "UsersEstimate": 3491
     },
     {
       "ID": "02_BurningCity",
@@ -18645,7 +18650,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1163
+      "UsersEstimate": 1164
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -19548,21 +19553,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11709,
+      "Progressed": 11710,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12927,
+      "Progressed": 12928,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-12-31T23:00:46.0453811+00:00",
-  "LastChanged_Achievements": "2024-01-01T04:10:57.8822812+00:00",
+  "LastChanged_Achievements": "2024-01-01T05:10:30.5317179+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:46.0860245+00:00",
-  "LastUpdate_Ratings": "2024-01-01T04:01:10.0015079+00:00",
-  "LastUpdate_Achievements": "2024-01-01T04:10:57.8824562+00:00"
+  "LastUpdate_Ratings": "2024-01-01T05:00:50.2021024+00:00",
+  "LastUpdate_Achievements": "2024-01-01T05:10:30.5318928+00:00"
 }

@@ -1,20 +1,20 @@
 # Horizon Chase Turbo
 [Store](https://store.epicgames.com/en-US/p/horizon-chase-turbo)  
 [View Rawdata](../../db/h/horizon_chase_turbo.json)  
-Rating: 4.55 (Ranked 521)  
+Rating: 4.55 (Ranked 522)  
 Number of Ratings: 1,343  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~988,105 |
-| I Need a Bigger Garage | 63.00% | ~691,673 |
-| Pump my Ride | 47.00% | ~516,010 |
-| Ghostbuster | 34.00% | ~373,284 |
-| Call Roadside Assistance | 18.00% | ~197,621 |
-| That Was Close | 18.00% | ~197,621 |
-| Quickie | 11.00% | ~120,768 |
-| California Dreamer | 7.00% | ~76,853 |
-| Can't Touch This | 5.00% | ~54,895 |
+| The First of Many | 90.00% | ~988,121 |
+| I Need a Bigger Garage | 63.00% | ~691,685 |
+| Pump my Ride | 47.00% | ~516,019 |
+| Ghostbuster | 34.00% | ~373,290 |
+| Call Roadside Assistance | 18.00% | ~197,624 |
+| That Was Close | 18.00% | ~197,624 |
+| Quickie | 11.00% | ~120,770 |
+| California Dreamer | 7.00% | ~76,854 |
+| Can't Touch This | 5.00% | ~54,896 |
 | Carménère Taster | 4.00% | ~43,916 |
 | Comeback | 4.00% | ~43,916 |
 | Driver from Ipanema | 3.00% | ~32,937 |
@@ -38,13 +38,13 @@ Number of Ratings: 1,343  (23.09.2022)
 | Otaku | 0.90% | ~9,881 |
 | Survivor | 0.60% | ~6,587 |
 | King of the World | 0.60% | ~6,587 |
-| Getting Famous | 0.50% | ~5,489 |
+| Getting Famous | 0.50% | ~5,490 |
 | Now Go Play Outside | 0.30% | ~3,294 |
 | Master of the Racetrack | 0.20% | ~2,196 |
 | Look Mom, No Hands! | 0.20% | ~2,196 |
 | Transporter | 0.10% | ~1,098 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,097,894 (Ranked 14)  
+Progressed: 1,097,912 (Ranked 14)  
 Completed: 528 (0.05%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 528 (0.05%) (Ranked 333)
 | 2023-12-29 | 1,096,174 | 525 |
 | 2023-12-30 | 1,096,917 | 526 |
 | 2023-12-31 | 1,097,779 | 528 |
-| 2024-01-01 | 1,097,894 | 528 |
+| 2024-01-01 | 1,097,912 | 528 |
 ## Awards
 Max (Great for Beginners): 183  (Ranked 307)  
 Sum: 1,623 (Ranked 233)  

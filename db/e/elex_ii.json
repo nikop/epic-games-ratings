@@ -2,12 +2,12 @@
   "ID": "75c06d52a99942e9884a47deced106bb",
   "Name": "ELEX II",
   "ProductSlug": "elex-ii",
-  "Ranking_Rating": 874,
+  "Ranking_Rating": 875,
   "Ranking_Popularity": 576,
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -1459,9 +1459,9 @@
       "ID": "FINDCRONY",
       "SetID": "a1angca",
       "Name": "Best Buddy",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "FINDMAP",
@@ -1579,8 +1579,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2024-01-01T04:06:27.6382943+00:00",
+  "LastChanged_Achievements": "2024-01-01T05:06:02.1226338+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:16.9599546+00:00",
-  "LastUpdate_Ratings": "2024-01-01T04:00:07.6705689+00:00",
-  "LastUpdate_Achievements": "2024-01-01T04:06:27.6383254+00:00"
+  "LastUpdate_Ratings": "2024-01-01T04:59:52.8255796+00:00",
+  "LastUpdate_Achievements": "2024-01-01T05:06:02.1226752+00:00"
 }

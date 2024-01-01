@@ -2,10 +2,10 @@
   "ID": "aa7c3e6b5a2a4ca8962270c15bddb861",
   "Name": "Runbow",
   "ProductSlug": "runbow-fc9fa4",
-  "Ranking_Rating": 673,
+  "Ranking_Rating": 674,
   "Ranking_Popularity": 576,
   "Ranking_PopularitySum": 576,
-  "Ranking_EOS_Progress": 68,
+  "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 156,
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 252912,
+  "EOS_Progressed": 252914,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 393,
+  "EOS_NewPlayers": 395,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22892,6 +22892,11 @@
       "Time": "2024-01-01T04:10:39.3808139+00:00",
       "NumProgressed": 252912,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-01T05:10:12.4613012+00:00",
+      "NumProgressed": 252914,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -22999,7 +23004,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45524
+      "UsersEstimate": 45525
     },
     {
       "ID": "curator",
@@ -23007,7 +23012,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 50582
+      "UsersEstimate": 50583
     },
     {
       "ID": "didYourTime",
@@ -23079,7 +23084,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 134043
+      "UsersEstimate": 134044
     },
     {
       "ID": "indegestible",
@@ -23103,7 +23108,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 65757
+      "UsersEstimate": 65758
     },
     {
       "ID": "justABit",
@@ -23143,7 +23148,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126456
+      "UsersEstimate": 126457
     },
     {
       "ID": "notScared",
@@ -23270,7 +23275,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 252912,
+      "Progressed": 252914,
       "Completed": 6
     }
   ],
@@ -23278,8 +23283,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-01T04:10:39.380813+00:00",
+  "LastChanged_Achievements": "2024-01-01T05:10:12.461301+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.9407923+00:00",
-  "LastUpdate_Ratings": "2024-01-01T03:57:59.7024741+00:00",
-  "LastUpdate_Achievements": "2024-01-01T04:10:39.3809564+00:00"
+  "LastUpdate_Ratings": "2024-01-01T04:57:54.2149485+00:00",
+  "LastUpdate_Achievements": "2024-01-01T05:10:12.4614275+00:00"
 }

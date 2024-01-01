@@ -1,11 +1,11 @@
 # Maneater
 [Store](https://store.epicgames.com/en-US/p/maneater)  
 [View Rawdata](../../db/m/maneater.json)  
-Rating: 4.49 (Ranked 631)  
+Rating: 4.49 (Ranked 632)  
 Number of Ratings: 82,037  (23.09.2022)  
 ## Awards
 Max (Character Customization): 13,900  (Ranked 30)  
-Sum: 18,342 (Ranked 63)  
+Sum: 18,343 (Ranked 63)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -15,8 +15,8 @@ Diff (max vs sum): -33
 | This game has Amazing Storytelling | 106 |
 | This game is Great for Beginners | 102 |
 | This game has Quickly Understood Controls | 99 |
+| This game is Educational | 97 |
 | This game is Extremely Fun | 97 |
-| This game is Educational | 96 |
 | This game is Highly Recommended | 94 |
 | This game has Diverse Characters | 94 |
 | This game has Amazing Characters | 91 |
@@ -331,3 +331,4 @@ Diff (max vs sum): -33
 | 2023-12-29 | 4.49 | - | 13,894 | 18,334 |
 | 2023-12-30 | 4.49 | - | 13,894 | 18,335 |
 | 2023-12-31 | 4.49 | - | 13,900 | 18,342 |
+| 2024-01-01 | 4.49 | - | 13,900 | 18,343 |

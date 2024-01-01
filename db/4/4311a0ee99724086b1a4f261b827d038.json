@@ -2,10 +2,10 @@
   "ID": "4311a0ee99724086b1a4f261b827d038",
   "Name": "Homeworld Remastered Collection",
   "ProductSlug": "homeworld-remastered-collection",
-  "Ranking_Rating": 521,
+  "Ranking_Rating": 522,
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 414,
-  "Ranking_EOS_Progress": 72,
+  "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 156,
@@ -827,9 +827,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 240731,
+  "EOS_Progressed": 240734,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1321,
+  "EOS_NewPlayers": 1319,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19572,6 +19572,11 @@
       "Time": "2024-01-01T04:10:46.0232649+00:00",
       "NumProgressed": 240731,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T05:10:18.8754798+00:00",
+      "NumProgressed": 240734,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -19768,7 +19773,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 33702
+      "UsersEstimate": 33703
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -19840,7 +19845,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 60183
+      "UsersEstimate": 60184
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -19855,7 +19860,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 240731,
+      "Progressed": 240734,
       "Completed": 0
     }
   ],
@@ -19863,8 +19868,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-12-31T17:57:33.2875325+00:00",
-  "LastChanged_Achievements": "2024-01-01T04:10:46.0232644+00:00",
+  "LastChanged_Achievements": "2024-01-01T05:10:18.8754796+00:00",
   "LastUpdate_AppInfo": "2023-12-29T06:57:17.105104+00:00",
-  "LastUpdate_Ratings": "2024-01-01T03:58:05.4002644+00:00",
-  "LastUpdate_Achievements": "2024-01-01T04:10:46.0233543+00:00"
+  "LastUpdate_Ratings": "2024-01-01T04:57:59.5109878+00:00",
+  "LastUpdate_Achievements": "2024-01-01T05:10:18.8756006+00:00"
 }

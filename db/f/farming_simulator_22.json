@@ -2,7 +2,7 @@
   "ID": "308cbcb523ad4937a8c509d10e9b688a",
   "Name": "Farming Simulator 22",
   "ProductSlug": "farming-simulator-22",
-  "Ranking_Rating": 261,
+  "Ranking_Rating": 262,
   "Ranking_Popularity": 67,
   "Ranking_PopularitySum": 34,
   "Ranking_EOS_Progress": 118,
@@ -13122,9 +13122,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 59985,
+  "EOS_Progressed": 59986,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 2015,
+  "EOS_NewPlayers": 2014,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -37232,6 +37232,11 @@
       "Time": "2024-01-01T04:03:56.3985716+00:00",
       "NumProgressed": 59985,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-01T05:03:42.9226703+00:00",
+      "NumProgressed": 59986,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -37315,7 +37320,7 @@
       "Name": "Highly cultivated",
       "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 5998
+      "UsersEstimate": 5999
     },
     {
       "ID": "CultivateFirst",
@@ -37323,7 +37328,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 35991
+      "UsersEstimate": 35992
     },
     {
       "ID": "CutTree",
@@ -37339,7 +37344,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 34191
+      "UsersEstimate": 34192
     },
     {
       "ID": "DeliveryGrapes",
@@ -37395,7 +37400,7 @@
       "Name": "Own use",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 43189
+      "UsersEstimate": 43190
     },
     {
       "ID": "HorseJumps",
@@ -37427,7 +37432,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 27593
+      "UsersEstimate": 27594
     },
     {
       "ID": "Mission",
@@ -37451,7 +37456,7 @@
       "Name": "Hard work pays off",
       "Percentage": 50,
       "XP": 55,
-      "UsersEstimate": 29992
+      "UsersEstimate": 29993
     },
     {
       "ID": "NumBeehives",
@@ -37467,7 +37472,7 @@
       "Name": "I like to switch it up",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 22194
+      "UsersEstimate": 22195
     },
     {
       "ID": "NumPlaceables",
@@ -37523,7 +37528,7 @@
       "Name": "It\u0027s sow easy",
       "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 5998
+      "UsersEstimate": 5999
     },
     {
       "ID": "SowFirst",
@@ -37531,7 +37536,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 35391
+      "UsersEstimate": 35392
     },
     {
       "ID": "Stones",
@@ -37586,15 +37591,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 59985,
+      "Progressed": 59986,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-12-31T22:57:29.5835174+00:00",
-  "LastChanged_Achievements": "2024-01-01T04:03:56.398571+00:00",
+  "LastChanged_Achievements": "2024-01-01T05:03:42.9226699+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:56:59.878391+00:00",
-  "LastUpdate_Ratings": "2024-01-01T03:57:37.7649324+00:00",
-  "LastUpdate_Achievements": "2024-01-01T04:03:56.398715+00:00"
+  "LastUpdate_Ratings": "2024-01-01T04:57:33.8300691+00:00",
+  "LastUpdate_Achievements": "2024-01-01T05:03:42.9227998+00:00"
 }

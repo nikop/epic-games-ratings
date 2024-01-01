@@ -739,9 +739,9 @@
       "ID": "4",
       "SetID": "39djiaj",
       "Name": "Angry Mom",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "40",
@@ -810,8 +810,8 @@
   ],
   "FirstSeen": "2023-05-27T21:59:02.7354993+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:07.9162458+00:00",
-  "LastChanged_Achievements": "2024-01-01T04:10:18.2606958+00:00",
+  "LastChanged_Achievements": "2024-01-01T05:09:53.0369412+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:45.7375676+00:00",
-  "LastUpdate_Ratings": "2024-01-01T03:58:20.444659+00:00",
-  "LastUpdate_Achievements": "2024-01-01T04:10:18.2607321+00:00"
+  "LastUpdate_Ratings": "2024-01-01T04:58:13.0070189+00:00",
+  "LastUpdate_Achievements": "2024-01-01T05:09:53.0369768+00:00"
 }
