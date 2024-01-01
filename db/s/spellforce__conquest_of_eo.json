@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 482,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
     "PcReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -583,9 +583,9 @@
       "ID": "Build_First_Room_Extension",
       "SetID": "7b9f97e",
       "Name": "Redecorating",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Capture_Own_Tower",
@@ -1128,8 +1128,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2024-01-01T19:10:39.7617012+00:00",
+  "LastChanged_Achievements": "2024-01-01T20:10:34.1523254+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:20.4706393+00:00",
-  "LastUpdate_Ratings": "2024-01-01T19:00:32.0004697+00:00",
-  "LastUpdate_Achievements": "2024-01-01T19:10:39.7617891+00:00"
+  "LastUpdate_Ratings": "2024-01-01T20:00:31.0504915+00:00",
+  "LastUpdate_Achievements": "2024-01-01T20:10:34.1523801+00:00"
 }

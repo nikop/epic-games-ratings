@@ -6,24 +6,24 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~12,530 |
-| What should I buy? | 81.00% | ~10,913 |
-| Rescued Elder Ent | 61.00% | ~8,219 |
-| Focus! | 60.00% | ~8,084 |
-| The End of the Gold Mane Knights | 47.00% | ~6,332 |
-| False Goddess, Disappear | 39.00% | ~5,254 |
-| Rules of Etiquette | 37.00% | ~4,985 |
+| The Legend Begins | 93.00% | ~12,532 |
+| What should I buy? | 81.00% | ~10,915 |
+| Rescued Elder Ent | 61.00% | ~8,220 |
+| Focus! | 60.00% | ~8,085 |
+| The End of the Gold Mane Knights | 47.00% | ~6,333 |
+| False Goddess, Disappear | 39.00% | ~5,255 |
+| Rules of Etiquette | 37.00% | ~4,986 |
 | Inventory Management | 31.00% | ~4,177 |
 | Quick Movements | 30.00% | ~4,042 |
-| The Fall of the Leonia Order | 29.00% | ~3,907 |
+| The Fall of the Leonia Order | 29.00% | ~3,908 |
 | Go Home... | 27.00% | ~3,638 |
-| The Final Battle of the First Hero | 26.00% | ~3,503 |
+| The Final Battle of the First Hero | 26.00% | ~3,504 |
 | The Hero Killer | 24.00% | ~3,234 |
 | Brain at Full Throttle | 20.00% | ~2,695 |
-| Rookies Welcome | 18.00% | ~2,425 |
+| Rookies Welcome | 18.00% | ~2,426 |
 | Deadly Power | 15.00% | ~2,021 |
-| Castle Restoration Plans | 13.00% | ~1,751 |
-| The Dwarven Chandelier | 10.00% | ~1,347 |
+| Castle Restoration Plans | 13.00% | ~1,752 |
+| The Dwarven Chandelier | 10.00% | ~1,348 |
 | Master of Speed | 9.00% | ~1,213 |
 | The Levitator | 7.00% | ~943 |
 | The God of Battle | 4.00% | ~539 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 1.00% | ~135 |
 | Cold-Blooded | 0.60% | ~81 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,473 (Ranked 173)  
+Progressed: 13,475 (Ranked 173)  
 Completed: 20 (0.15%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 20 (0.15%) (Ranked 286)
 | 2023-12-29 | 13,030 | 19 |
 | 2023-12-30 | 13,181 | 19 |
 | 2023-12-31 | 13,333 | 19 |
-| 2024-01-01 | 13,473 | 20 |
+| 2024-01-01 | 13,475 | 20 |
 ## Awards
 Max (Great for Beginners): 147  (Ranked 327)  
 Sum: 981 (Ranked 270)  

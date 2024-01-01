@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 92,
   "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1900,
+  "EOS_Progressed": 1901,
   "EOS_Completed": 72,
   "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 4,
@@ -4259,6 +4259,11 @@
       "Time": "2024-01-01T18:10:30.7919031+00:00",
       "NumProgressed": 1900,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2024-01-01T20:11:04.43303+00:00",
+      "NumProgressed": 1901,
+      "NumCompleted": 72
     }
   ],
   "TotalAchievements": 16,
@@ -4326,7 +4331,7 @@
       "Name": "Home Leaver",
       "Percentage": 80,
       "XP": 40,
-      "UsersEstimate": 1520
+      "UsersEstimate": 1521
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -4334,7 +4339,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1501
+      "UsersEstimate": 1502
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -4358,7 +4363,7 @@
       "Name": "Outside World Seer",
       "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 1159
+      "UsersEstimate": 1160
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -4397,7 +4402,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1900,
+      "Progressed": 1901,
       "Completed": 72
     }
   ],
@@ -4405,8 +4410,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2024-01-01T19:11:10.5580063+00:00",
+  "LastChanged_Achievements": "2024-01-01T20:11:04.4330296+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.182252+00:00",
-  "LastUpdate_Ratings": "2024-01-01T19:01:25.2509+00:00",
-  "LastUpdate_Achievements": "2024-01-01T19:11:10.5580559+00:00"
+  "LastUpdate_Ratings": "2024-01-01T20:01:24.1288501+00:00",
+  "LastUpdate_Achievements": "2024-01-01T20:11:04.4330847+00:00"
 }

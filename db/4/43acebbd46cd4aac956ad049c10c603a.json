@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -265,9 +265,9 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 1223,
+  "EOS_Progressed": 1225,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3395,6 +3395,11 @@
       "Time": "2024-01-01T18:08:14.6794961+00:00",
       "NumProgressed": 1223,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-01T20:08:43.4752976+00:00",
+      "NumProgressed": 1225,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3447,7 +3452,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "BreakTheLoop",
@@ -3463,7 +3468,7 @@
       "Name": "Bridge Builder",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "ChasingTheLight",
@@ -3471,7 +3476,7 @@
       "Name": "Chasing the Light",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "Chicken",
@@ -3591,7 +3596,7 @@
       "Name": "Lord of the Files",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "LostMarshes",
@@ -3607,7 +3612,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "Mnemosyne",
@@ -3639,7 +3644,7 @@
       "Name": "A New Beginning",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "NewMorality",
@@ -3663,7 +3668,7 @@
       "Name": "Overload",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "Persistent",
@@ -3695,7 +3700,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "RenaissanceRobot",
@@ -3807,7 +3812,7 @@
       "Name": "The Thief of Fire",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "TheWordEndures",
@@ -3815,7 +3820,7 @@
       "Name": "The Word Endures",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "TouchGrass",
@@ -3823,7 +3828,7 @@
       "Name": "Touch Grass",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "TrevorsBiographer",
@@ -3863,7 +3868,7 @@
       "Name": "Wooded Plateau",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "YourBiggestFan",
@@ -3878,7 +3883,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1223,
+      "Progressed": 1225,
       "Completed": 2
     }
   ],
@@ -3886,8 +3891,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-01T16:59:26.0585046+00:00",
-  "LastChanged_Achievements": "2024-01-01T19:08:47.6712186+00:00",
+  "LastChanged_Achievements": "2024-01-01T20:08:43.4752972+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.9244138+00:00",
-  "LastUpdate_Ratings": "2024-01-01T18:59:37.8548351+00:00",
-  "LastUpdate_Achievements": "2024-01-01T19:08:47.671296+00:00"
+  "LastUpdate_Ratings": "2024-01-01T19:59:39.5911429+00:00",
+  "LastUpdate_Achievements": "2024-01-01T20:08:43.4753547+00:00"
 }

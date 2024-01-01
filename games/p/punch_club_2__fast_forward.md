@@ -4,58 +4,58 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Such a strange dream… | 88.00% | ~452 |
-| Your first fight | 85.00% | ~437 |
-| Good Person Chip | 83.00% | ~427 |
-| First winning | 81.00% | ~416 |
-| Your first job | 80.00% | ~411 |
-| Depressed visitor | 75.00% | ~386 |
-| Old movies enjoyer | 74.00% | ~380 |
-| Neurotrainer – power gainer! | 74.00% | ~380 |
-| Fitness professional | 73.00% | ~375 |
-| Employee of the week | 72.00% | ~370 |
-| Your own amateur gym | 67.00% | ~344 |
-| First defeat | 66.00% | ~339 |
-| Run K, run! | 66.00% | ~339 |
-| Hello, world! | 65.00% | ~334 |
-| No bullying more | 64.00% | ~329 |
-| Fighting is cool | 63.00% | ~324 |
-| Pal of your father? | 61.00% | ~314 |
-| Spirit of the past | 59.00% | ~303 |
-| Employee of the month | 59.00% | ~303 |
-| Law student | 56.00% | ~288 |
-| Workout professional | 54.00% | ~278 |
-| Little hacker | 54.00% | ~278 |
-| Handyman | 54.00% | ~278 |
-| Fight for life | 53.00% | ~272 |
-| Champion – starter pack | 53.00% | ~272 |
-| It's good to be alive | 53.00% | ~272 |
-| Intriguing candies | 53.00% | ~272 |
-| Own four walls | 52.00% | ~267 |
-| Employee of the year | 52.00% | ~267 |
-| Legal courier | 49.00% | ~252 |
-| Extreme neuropower! | 48.00% | ~247 |
-| Escaped from a big trouble | 46.00% | ~236 |
-| Now you are worthy | 41.00% | ~211 |
-| Fight is life | 41.00% | ~211 |
-| Mysterious voice | 41.00% | ~211 |
-| Guiding on the right path | 41.00% | ~211 |
-| No blades in the gym | 39.00% | ~200 |
-| Champion – no way back | 37.00% | ~190 |
-| Responsible approach | 37.00% | ~190 |
-| Underground dwellers | 36.00% | ~185 |
-| Deal with life | 35.00% | ~180 |
-| GYM professional | 35.00% | ~180 |
+| Such a strange dream… | 88.00% | ~454 |
+| Your first fight | 85.00% | ~439 |
+| Good Person Chip | 83.00% | ~428 |
+| First winning | 81.00% | ~418 |
+| Your first job | 80.00% | ~413 |
+| Depressed visitor | 75.00% | ~387 |
+| Neurotrainer – power gainer! | 74.00% | ~382 |
+| Old movies enjoyer | 73.00% | ~377 |
+| Fitness professional | 72.00% | ~372 |
+| Employee of the week | 72.00% | ~372 |
+| Your own amateur gym | 67.00% | ~346 |
+| First defeat | 66.00% | ~341 |
+| Run K, run! | 66.00% | ~341 |
+| Hello, world! | 65.00% | ~335 |
+| Fighting is cool | 63.00% | ~325 |
+| No bullying more | 63.00% | ~325 |
+| Pal of your father? | 61.00% | ~315 |
+| Spirit of the past | 59.00% | ~304 |
+| Employee of the month | 59.00% | ~304 |
+| Law student | 56.00% | ~289 |
+| Workout professional | 54.00% | ~279 |
+| Little hacker | 54.00% | ~279 |
+| Handyman | 54.00% | ~279 |
+| Fight for life | 53.00% | ~273 |
+| Champion – starter pack | 53.00% | ~273 |
+| It's good to be alive | 53.00% | ~273 |
+| Employee of the year | 53.00% | ~273 |
+| Own four walls | 52.00% | ~268 |
+| Intriguing candies | 52.00% | ~268 |
+| Legal courier | 48.00% | ~248 |
+| Extreme neuropower! | 48.00% | ~248 |
+| Escaped from a big trouble | 46.00% | ~237 |
+| Now you are worthy | 41.00% | ~212 |
+| Fight is life | 41.00% | ~212 |
+| Mysterious voice | 41.00% | ~212 |
+| Guiding on the right path | 41.00% | ~212 |
+| No blades in the gym | 38.00% | ~196 |
+| Champion – no way back | 37.00% | ~191 |
+| Responsible approach | 37.00% | ~191 |
+| Underground dwellers | 36.00% | ~186 |
+| Deal with life | 35.00% | ~181 |
+| GYM professional | 35.00% | ~181 |
 | Mom got better | 34.00% | ~175 |
 | The die is cast | 34.00% | ~175 |
 | Poisoned fighter | 33.00% | ~170 |
 | Get out of my apartment! | 33.00% | ~170 |
-| Gang wrangler | 32.00% | ~164 |
-| Seashell hunter | 31.00% | ~159 |
-| Undercover robot | 31.00% | ~159 |
-| Problems of cyborgs | 30.00% | ~154 |
-| Absolute Champion! | 30.00% | ~154 |
-| Not little hacker | 29.00% | ~149 |
+| Gang wrangler | 31.00% | ~160 |
+| Seashell hunter | 31.00% | ~160 |
+| Undercover robot | 31.00% | ~160 |
+| Problems of cyborgs | 30.00% | ~155 |
+| Absolute Champion! | 30.00% | ~155 |
+| Not little hacker | 29.00% | ~150 |
 | Trap disarmed | 28.00% | ~144 |
 | Another world | 28.00% | ~144 |
 | The lonesome road | 28.00% | ~144 |
@@ -67,12 +67,12 @@
 | Anyone can resist | 28.00% | ~144 |
 | The heart of the Resistance | 28.00% | ~144 |
 | Your own way | 28.00% | ~144 |
-| Silver’s past | 25.00% | ~128 |
-| Better cooking at home | 25.00% | ~128 |
-| The only right decision | 25.00% | ~128 |
+| The only right decision | 26.00% | ~134 |
+| Silver’s past | 25.00% | ~129 |
+| Better cooking at home | 25.00% | ~129 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 514 (Ranked 340)  
-Completed: 9 (1.75%) (Ranked 142)  
+Progressed: 516 (Ranked 340)  
+Completed: 9 (1.74%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -182,4 +182,4 @@ Completed: 9 (1.75%) (Ranked 142)
 | 2023-12-29 | 497 | 9 |
 | 2023-12-30 | 502 | 9 |
 | 2023-12-31 | 509 | 9 |
-| 2024-01-01 | 514 | 9 |
+| 2024-01-01 | 516 | 9 |

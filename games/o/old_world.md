@@ -30,6 +30,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Developing Cities | 0.60% | ~96 |
 | Strong Cities | 0.60% | ~96 |
 | Pyramids | 0.60% | ~96 |
+| Learn to Play 1 | 0.60% | ~96 |
 | Judaism | 0.60% | ~96 |
 | Greek Paganism | 0.60% | ~96 |
 | Naming Landmarks | 0.60% | ~96 |
@@ -41,7 +42,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Wise | 0.50% | ~80 |
 | Ishtar Gate | 0.50% | ~80 |
 | Lighthouse | 0.50% | ~80 |
-| Learn to Play 1 | 0.50% | ~80 |
 | Christianity | 0.50% | ~80 |
 | Babylonian Paganism | 0.50% | ~80 |
 | Roman Paganism | 0.50% | ~80 |
@@ -73,8 +73,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Iron | 0.30% | ~48 |
 | Colossus | 0.30% | ~48 |
 | Learn to Play 3 | 0.30% | ~48 |
+| Power to the People | 0.30% | ~48 |
 | Egyptian Paganism | 0.30% | ~48 |
 | Building Wonders | 0.30% | ~48 |
+| Mythology | 0.30% | ~48 |
 | Points Victory | 0.30% | ~48 |
 | Win a Single Player Game | 0.30% | ~48 |
 | Bad Heir Day | 0.20% | ~32 |
@@ -99,7 +101,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk | 0.20% | ~32 |
 | Babylonia | 0.20% | ~32 |
 | Greece | 0.20% | ~32 |
-| Power to the People | 0.20% | ~32 |
 | Assyrian Paganism | 0.20% | ~32 |
 | Persian Paganism | 0.20% | ~32 |
 | Economic Reform | 0.20% | ~32 |
@@ -109,7 +110,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightenment | 0.20% | ~32 |
 | Gnosticism | 0.20% | ~32 |
 | Legalism | 0.20% | ~32 |
-| Mythology | 0.20% | ~32 |
 | Redemption | 0.20% | ~32 |
 | Revelation | 0.20% | ~32 |
 | Cimmerian Archer | 0.20% | ~32 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,066 (Ranked 166)  
+Progressed: 16,070 (Ranked 166)  
 Completed: 5 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -621,7 +621,7 @@ Completed: 5 (0.03%) (Ranked 350)
 | 2023-12-29 | 16,011 | 5 |
 | 2023-12-30 | 16,036 | 5 |
 | 2023-12-31 | 16,053 | 5 |
-| 2024-01-01 | 16,066 | 5 |
+| 2024-01-01 | 16,070 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 283)  
 Sum: 1,912 (Ranked 220)  

@@ -2,10 +2,10 @@
   "ID": "ef02301060454cfd8345fae625743294",
   "Name": "Sands of Aura",
   "ProductSlug": "sands-of-aura",
-  "Ranking_EOS_Progress": 468,
+  "Ranking_EOS_Progress": 466,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 446,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 430,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
     "PcReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 127,
+  "EOS_Progressed": 128,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -635,6 +635,11 @@
       "Time": "2023-12-30T17:06:49.58913+00:00",
       "NumProgressed": 127,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T20:05:05.369594+00:00",
+      "NumProgressed": 128,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-14T11:03:32.7947841+00:00",
@@ -647,7 +652,7 @@
       "Name": "Rain Must Fall",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ALAIRA_MASTER",
@@ -663,7 +668,7 @@
       "Name": "Overboard",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ALCHEMECT_MASTER",
@@ -725,9 +730,9 @@
       "ID": "COLLECT_ALL_BREW_RECIPES",
       "SetID": "cm0d613",
       "Name": "Sommelier",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "COLLECT_ALL_POMMEL_CASTS",
@@ -911,7 +916,7 @@
       "Name": "The Guardian of Fire",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "FLARE_KNIGHT_MASTER",
@@ -925,9 +930,9 @@
       "ID": "GRECKKO_DEFEAT",
       "SetID": "cm0d613",
       "Name": "Sovereignty of Irons",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "GRECKKO_MASTER",
@@ -957,9 +962,9 @@
       "ID": "HOARD_GLINT",
       "SetID": "cm0d613",
       "Name": "A Sandwyrm\u0027s Hoard",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "MAVETH_DEFEAT",
@@ -1023,7 +1028,7 @@
       "Name": "Leisis Bless You",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "SMITH_UPGRADE_1",
@@ -1110,7 +1115,7 @@
     {
       "ID": "cm0d613",
       "IsBase": true,
-      "Progressed": 127,
+      "Progressed": 128,
       "Completed": 0
     }
   ],
@@ -1118,8 +1123,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2024-01-01T19:05:07.3180008+00:00",
+  "LastChanged_Achievements": "2024-01-01T20:05:05.3695932+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:22.6338315+00:00",
-  "LastUpdate_Ratings": "2024-01-01T19:03:34.6089658+00:00",
-  "LastUpdate_Achievements": "2024-01-01T19:05:07.3180624+00:00"
+  "LastUpdate_Ratings": "2024-01-01T20:03:30.3995021+00:00",
+  "LastUpdate_Achievements": "2024-01-01T20:05:05.3696303+00:00"
 }

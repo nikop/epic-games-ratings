@@ -15,14 +15,14 @@
 | Radiation | 60.00% | ~101 |
 | Descent | 58.00% | ~97 |
 | Awakenings | 58.00% | ~97 |
-| Cold Storage | 57.00% | ~96 |
+| Cold Storage | 58.00% | ~97 |
 | Sam | 57.00% | ~96 |
 | Soldier | 52.00% | ~87 |
+| Leave | 51.00% | ~86 |
 | Churchill | 51.00% | ~86 |
-| Leave | 50.00% | ~84 |
 | Commissioner | 50.00% | ~84 |
 | Engineer | 49.00% | ~82 |
-| Doctor | 46.00% | ~77 |
+| Doctor | 47.00% | ~79 |
 | Press Play | 36.00% | ~60 |
 | General | 27.00% | ~45 |
 | Bookworm | 26.00% | ~44 |

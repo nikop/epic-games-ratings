@@ -7,7 +7,7 @@ Number of Ratings: 20  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Adventure Begins | 66.00% | ~258 |
-| Cartographer | 58.00% | ~227 |
+| Cartographer | 59.00% | ~231 |
 | A Strange Artefact | 54.00% | ~211 |
 | Insomnia | 50.00% | ~196 |
 | Lost & Found & Lost Again | 45.00% | ~176 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.80% | ~3 |
 | Now I've Seen It All | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 391 (Ranked 363)  
+Progressed: 391 (Ranked 364)  
 Completed: 1 (0.26%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |

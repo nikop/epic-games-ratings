@@ -9,7 +9,7 @@ Rating: 4.35 (Ranked 817)
 | And so it begins | 72.00% | ~990 |
 | No pressure | 69.00% | ~949 |
 | Memento | 59.00% | ~811 |
-| Let there be light | 56.00% | ~770 |
+| Let there be light | 57.00% | ~784 |
 | I think you dropped this | 52.00% | ~715 |
 | Soulmate? | 51.00% | ~701 |
 | Excellent service | 47.00% | ~646 |
@@ -29,7 +29,7 @@ Rating: 4.35 (Ranked 817)
 | Island boy | 20.00% | ~275 |
 | You're a star | 19.00% | ~261 |
 | Unstoppable | 18.00% | ~248 |
-| Reunited | 17.00% | ~234 |
+| Reunited | 18.00% | ~248 |
 | King of hospitality | 11.00% | ~151 |
 | Top spot in town | 2.00% | ~28 |
 ## Popularity (Based on EOS Achievements)

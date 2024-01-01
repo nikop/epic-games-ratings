@@ -6,12 +6,12 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 40.00% | ~7,021 |
+| Tattletale | 40.00% | ~7,022 |
 | Man of politics | 34.00% | ~5,968 |
-| Yet another secret | 33.00% | ~5,792 |
+| Yet another secret | 33.00% | ~5,793 |
 | Friends of sorts | 32.00% | ~5,617 |
-| Let there be darkness | 31.00% | ~5,441 |
-| End of Book One | 29.00% | ~5,090 |
+| Let there be darkness | 31.00% | ~5,442 |
+| End of Book One | 29.00% | ~5,091 |
 | Wannabe knight | 23.00% | ~4,037 |
 | Garden of Eden | 23.00% | ~4,037 |
 | Full house | 23.00% | ~4,037 |
@@ -20,9 +20,9 @@ Number of Ratings: 368  (23.09.2022)
 | Negotiation skills | 18.00% | ~3,160 |
 | Workers' union | 18.00% | ~3,160 |
 | End of Book Two | 18.00% | ~3,160 |
-| Everything's in order | 16.00% | ~2,808 |
-| Twist of Fate | 14.00% | ~2,457 |
-| Jack was here! | 14.00% | ~2,457 |
+| Everything's in order | 16.00% | ~2,809 |
+| Twist of Fate | 14.00% | ~2,458 |
+| Jack was here! | 14.00% | ~2,458 |
 | Exterminator | 13.00% | ~2,282 |
 | Whodunnit | 12.00% | ~2,106 |
 | Good midwife | 10.00% | ~1,755 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~527 |
 | Boy of mystery | 2.00% | ~351 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,553 (Ranked 160)  
+Progressed: 17,554 (Ranked 160)  
 Completed: 123 (0.70%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 123 (0.70%) (Ranked 195)
 | 2023-12-29 | 17,490 | 122 |
 | 2023-12-30 | 17,509 | 122 |
 | 2023-12-31 | 17,527 | 123 |
-| 2024-01-01 | 17,553 | 123 |
+| 2024-01-01 | 17,554 | 123 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 323)  
 Sum: 200 (Ranked 415)  

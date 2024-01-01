@@ -5,7 +5,7 @@ Rating: 3.64 (Ranked 1,082)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 18.00% | ~397 |
+| I Like My Stakes Rare! | 18.00% | ~398 |
 | Catch and Release | 13.00% | ~287 |
 | Home Is Where the Heart Is | 12.00% | ~265 |
 | ICU | 12.00% | ~265 |
@@ -16,11 +16,11 @@ Rating: 3.64 (Ranked 1,082)
 | Fly Fisher | 9.00% | ~199 |
 | Sucks To Be You | 9.00% | ~199 |
 | Throw The First Stone | 8.00% | ~177 |
-| Enter of Your Own Free Will | 7.00% | ~154 |
-| Welcome to the Neighborhood | 7.00% | ~154 |
-| Heart Attack | 7.00% | ~154 |
-| Grounded | 6.00% | ~132 |
-| Skin of Their Teeth | 6.00% | ~132 |
+| Enter of Your Own Free Will | 7.00% | ~155 |
+| Welcome to the Neighborhood | 7.00% | ~155 |
+| Heart Attack | 7.00% | ~155 |
+| Grounded | 6.00% | ~133 |
+| Skin of Their Teeth | 6.00% | ~133 |
 | Bad Wiring | 5.00% | ~110 |
 | Neighborhood Revitalization | 4.00% | ~88 |
 | Radio Silence | 4.00% | ~88 |
@@ -72,7 +72,7 @@ Rating: 3.64 (Ranked 1,082)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,207 (Ranked 238)  
+Progressed: 2,209 (Ranked 238)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-29 | 2,155 | 0 |
 | 2023-12-30 | 2,176 | 0 |
 | 2023-12-31 | 2,191 | 0 |
-| 2024-01-01 | 2,207 | 0 |
+| 2024-01-01 | 2,209 | 0 |
 ## Awards
 Max (Great Boss Battles): 20  (Ranked 572)  
 Sum: 20 (Ranked 573)  

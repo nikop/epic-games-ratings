@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -133,7 +133,7 @@
   "Tags": [],
   "EOS_Progressed": 1517,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -4266,9 +4266,9 @@
       "ID": "GSS_ACH_01_SHOP_01",
       "SetID": "5fn8ia4",
       "Name": "First Customer!",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1335
     },
     {
       "ID": "GSS_ACH_02_SHOP_02",
@@ -4450,9 +4450,9 @@
       "ID": "GSS_ACH_25_DENNIS",
       "SetID": "5fn8ia4",
       "Name": "Pranks? Nope!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1380
+      "UsersEstimate": 1396
     },
     {
       "ID": "GSS_ACH_26_EXCAVATOR_RESET",
@@ -4610,9 +4610,9 @@
       "ID": "GSS_ACH_45_ORDER_PRODUCTS",
       "SetID": "5fn8ia4",
       "Name": "Products Please!",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 1244
+      "UsersEstimate": 1259
     },
     {
       "ID": "GSS_ACH_46_ORDER_CARPARTS",
@@ -4626,9 +4626,9 @@
       "ID": "GSS_ACH_47_UPGRADE_STATION_01",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 2",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1320
     },
     {
       "ID": "GSS_ACH_48_UPGRADE_STATION_02",
@@ -4714,9 +4714,9 @@
       "ID": "GSS_ACH_58_UPGRADE_WAREHOUSE_03",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Lvl. 3",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 683
+      "UsersEstimate": 698
     },
     {
       "ID": "GSS_ACH_59_UPGRADE_WAREHOUSE_04",
@@ -4834,9 +4834,9 @@
       "ID": "GSS_ACH_73_MEETING_THE_UNCLE",
       "SetID": "5fn8ia4",
       "Name": "The Uncle",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1335
     },
     {
       "ID": "GSS_ACH_74_SANDSTORM",
@@ -4923,8 +4923,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-01T13:58:04.4800406+00:00",
-  "LastChanged_Achievements": "2024-01-01T19:06:54.9892692+00:00",
-  "LastUpdate_AppInfo": "2023-12-25T19:57:05.7719462+00:00",
-  "LastUpdate_Ratings": "2024-01-01T18:58:31.6073989+00:00",
-  "LastUpdate_Achievements": "2024-01-01T19:06:54.9893654+00:00"
+  "LastChanged_Achievements": "2024-01-01T20:06:52.2802479+00:00",
+  "LastUpdate_AppInfo": "2024-01-01T19:57:12.6980533+00:00",
+  "LastUpdate_Ratings": "2024-01-01T19:58:32.9928278+00:00",
+  "LastUpdate_Achievements": "2024-01-01T20:06:52.2803566+00:00"
 }

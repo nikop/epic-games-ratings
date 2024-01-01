@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First success | 91.00% | ~52 |
-| Suicide squad | 51.00% | ~29 |
+| First success | 91.00% | ~53 |
+| Suicide squad | 50.00% | ~29 |
 | Train hard, fight easy | 28.00% | ~16 |
 | Under cover | 28.00% | ~16 |
 | First blood | 28.00% | ~16 |
-| All for one! | 23.00% | ~13 |
-| Royal blessing | 23.00% | ~13 |
-| Blood and sand | 23.00% | ~13 |
+| All for one! | 22.00% | ~13 |
+| Royal blessing | 22.00% | ~13 |
+| Blood and sand | 22.00% | ~13 |
 | A hidden snake | 21.00% | ~12 |
 | Crimson rivers | 16.00% | ~9 |
 | Power of Inquisition | 16.00% | ~9 |
@@ -22,7 +22,7 @@
 | Rage | 14.00% | ~8 |
 | Berkanan Borgia | 12.00% | ~7 |
 | Trial by cold | 12.00% | ~7 |
-| The champion of the arena | 11.00% | ~6 |
+| The champion of the arena | 10.00% | ~6 |
 | For the greater good | 9.00% | ~5 |
 | Overplay the rogue | 9.00% | ~5 |
 | Stronger than Gellian steel | 9.00% | ~5 |
@@ -39,9 +39,9 @@
 | Cunning plan | 5.00% | ~3 |
 | All's fair in love and war | 5.00% | ~3 |
 | Nothing is settled | 5.00% | ~3 |
-| The power of persuasion | 4.00% | ~2 |
-| A solo player | 4.00% | ~2 |
-| Do it yourself | 4.00% | ~2 |
+| The power of persuasion | 3.00% | ~2 |
+| A solo player | 3.00% | ~2 |
+| Do it yourself | 3.00% | ~2 |
 | By someone else's hands | 2.00% | ~1 |
 | There can be only one | 2.00% | ~1 |
 | Happily ever after | 2.00% | ~1 |
@@ -54,7 +54,7 @@
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57 (Ranked 537)  
+Progressed: 58 (Ranked 534)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,6 +90,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-28 | 53 | 0 |
 | 2023-12-29 | 54 | 0 |
 | 2023-12-31 | 57 | 0 |
+| 2024-01-01 | 58 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

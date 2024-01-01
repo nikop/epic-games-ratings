@@ -11,8 +11,8 @@
 | Welcome to the Garage | 18.00% | ~110 |
 | This is Not Heavy Metal! | 15.00% | ~91 |
 | Truthseeker | 14.00% | ~85 |
+| 86's Nightmare | 8.00% | ~49 |
 | Freedom | 7.00% | ~43 |
-| 86's Nightmare | 7.00% | ~43 |
 | Partners in Crime | 7.00% | ~43 |
 | Friendzone | 7.00% | ~43 |
 | The Eye of the Storm | 6.00% | ~37 |
@@ -21,7 +21,7 @@
 | Try Harder | 1.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 609 (Ranked 333)  
-Completed: 2 (0.33%) (Ranked 243)  
+Completed: 2 (0.33%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

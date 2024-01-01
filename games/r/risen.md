@@ -12,8 +12,8 @@ Rating: 4.55 (Ranked 522)
 | Archer | 43.00% | ~65 |
 | The brave little tailor | 41.00% | ~62 |
 | Field hand | 40.00% | ~60 |
+| Well-to-do | 33.00% | ~50 |
 | Samaritan | 32.00% | ~48 |
-| Well-to-do | 32.00% | ~48 |
 | The merciful one | 30.00% | ~45 |
 | Ladies' man | 29.00% | ~44 |
 | Ferocious wild boars | 24.00% | ~36 |
@@ -36,9 +36,9 @@ Rating: 4.55 (Ranked 522)
 | Peacekeeper | 12.00% | ~18 |
 | Defender | 11.00% | ~17 |
 | Safecracker | 10.00% | ~15 |
+| Master thief | 10.00% | ~15 |
 | Freedom fighter | 9.00% | ~14 |
 | Showdown | 9.00% | ~14 |
-| Master thief | 9.00% | ~14 |
 | King of the handymen | 8.00% | ~12 |
 | Titan Lord | 7.00% | ~11 |
 | Terror of the hens | 7.00% | ~11 |

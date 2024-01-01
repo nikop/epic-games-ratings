@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 57.00% | ~153 |
+| A Second Chance | 56.00% | ~151 |
 | Press-ganged | 42.00% | ~113 |
-| The Package | 28.00% | ~75 |
+| The Package | 27.00% | ~73 |
 | Conquered | 19.00% | ~51 |
-| Randomized | 18.00% | ~48 |
+| Randomized | 18.00% | ~49 |
 | Scribe | 11.00% | ~30 |
 | Breached | 11.00% | ~30 |
 | Conciliator | 9.00% | ~24 |
@@ -21,16 +21,17 @@
 | The More the Merrier | 6.00% | ~16 |
 | Deputized | 6.00% | ~16 |
 | Harbinger | 6.00% | ~16 |
-| Strategist | 5.00% | ~13 |
-| Courier | 5.00% | ~13 |
-| Pilgrimage's End | 5.00% | ~13 |
-| Merchant | 5.00% | ~13 |
-| Trouble at Fort Larius | 5.00% | ~13 |
+| Strategist | 5.00% | ~14 |
+| Courier | 5.00% | ~14 |
+| Pilgrimage's End | 5.00% | ~14 |
+| Merchant | 5.00% | ~14 |
+| Trouble at Fort Larius | 5.00% | ~14 |
+| Potential Unlocked | 4.00% | ~11 |
 | Been There | 4.00% | ~11 |
 | Spiritual Journey | 4.00% | ~11 |
 | Bounty Hunter | 3.00% | ~8 |
 | Quartermaster | 3.00% | ~8 |
-| Potential Unlocked | 3.00% | ~8 |
+| Huntress Unbound | 3.00% | ~8 |
 | Xevarian Gambit | 3.00% | ~8 |
 | The Voice of Hereafter | 3.00% | ~8 |
 | Despised | 3.00% | ~8 |
@@ -38,7 +39,6 @@
 | Inquisitions of Discord | 3.00% | ~8 |
 | Unseen Patterns | 3.00% | ~8 |
 | Supercargo | 2.00% | ~5 |
-| Huntress Unbound | 2.00% | ~5 |
 | Business As Usual | 2.00% | ~5 |
 | Legacy of a Mercenary | 2.00% | ~5 |
 | Delayed | 2.00% | ~5 |
@@ -104,7 +104,7 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 269 (Ranked 401)  
+Progressed: 270 (Ranked 401)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-29 | 254 | 0 |
 | 2023-12-30 | 258 | 0 |
 | 2023-12-31 | 267 | 0 |
-| 2024-01-01 | 269 | 0 |
+| 2024-01-01 | 270 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

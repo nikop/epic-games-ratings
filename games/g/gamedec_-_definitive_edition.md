@@ -6,12 +6,12 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 29.00% | ~74,384 |
-| Powergamer | 27.00% | ~69,254 |
-| Write that down | 25.00% | ~64,124 |
-| Barely scratched the surface | 25.00% | ~64,124 |
-| Guns, lots of guns | 13.00% | ~33,344 |
-| Collector | 12.00% | ~30,780 |
+| I will finish what you started | 29.00% | ~74,386 |
+| Powergamer | 27.00% | ~69,256 |
+| Write that down | 25.00% | ~64,126 |
+| Barely scratched the surface | 25.00% | ~64,126 |
+| Guns, lots of guns | 13.00% | ~33,346 |
+| Collector | 12.00% | ~30,781 |
 | Elementary! | 9.00% | ~23,085 |
 | Griever | 8.00% | ~20,520 |
 | Pumpkin Jack | 8.00% | ~20,520 |
@@ -43,23 +43,23 @@ Number of Ratings: 33  (23.09.2022)
 | SysOp on duty | 1.00% | ~2,565 |
 | Take the blue pill | 1.00% | ~2,565 |
 | The power of three | 1.00% | ~2,565 |
-| Let's try another | 0.90% | ~2,308 |
+| Let's try another | 0.90% | ~2,309 |
 | It's blue, always blue | 0.80% | ~2,052 |
 | Home run | 0.80% | ~2,052 |
-| I have the high ground | 0.70% | ~1,795 |
-| Enjoy these little moments | 0.50% | ~1,282 |
-| Who wouldn't love a troll? | 0.50% | ~1,282 |
+| I have the high ground | 0.70% | ~1,796 |
+| Enjoy these little moments | 0.50% | ~1,283 |
+| Who wouldn't love a troll? | 0.50% | ~1,283 |
 | Irondec | 0.40% | ~1,026 |
 | LET ME OUT! | 0.40% | ~1,026 |
 | Un-bear-able | 0.40% | ~1,026 |
-| Well-deserved reunion | 0.30% | ~769 |
+| Well-deserved reunion | 0.30% | ~770 |
 | Breaking the chains | 0.20% | ~513 |
 | Aren't you overthinking? | 0.20% | ~513 |
 | Take the red pill | 0.20% | ~513 |
 | This is the way | 0.20% | ~513 |
-| Memory 5 | 0.10% | ~256 |
+| Memory 5 | 0.10% | ~257 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 256,496 (Ranked 68)  
+Progressed: 256,505 (Ranked 68)  
 Completed: 8 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 8 (0.00%) (Ranked 390)
 | 2023-12-29 | 256,175 | 8 |
 | 2023-12-30 | 256,278 | 8 |
 | 2023-12-31 | 256,373 | 8 |
-| 2024-01-01 | 256,496 | 8 |
+| 2024-01-01 | 256,505 | 8 |
 ## Awards
 Max (Character Customization): 96  (Ranked 383)  
 Sum: 96 (Ranked 465)  

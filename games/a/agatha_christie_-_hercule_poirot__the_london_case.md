@@ -5,11 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Marc Allard | 76.00% | ~65 |
-| Little ideas | 73.00% | ~62 |
+| Little ideas | 72.00% | ~62 |
 | The Ship | 69.00% | ~59 |
 | Seeking the truth | 55.00% | ~47 |
-| An old friend | 53.00% | ~45 |
-| The Gala | 52.00% | ~44 |
+| An old friend | 52.00% | ~45 |
+| The Gala | 51.00% | ~44 |
 | A curious gathering | 49.00% | ~42 |
 | Little grey cells | 48.00% | ~41 |
 | Impossible is possible | 48.00% | ~41 |
@@ -21,21 +21,21 @@
 | Order and method | 36.00% | ~31 |
 | Betty Allen | 36.00% | ~31 |
 | The Investigation Begins | 34.00% | ~29 |
-| Ms. Camilla B. Culsham | 31.00% | ~26 |
-| Irene Court-Smyth | 31.00% | ~26 |
+| Ms. Camilla B. Culsham | 30.00% | ~26 |
+| Irene Court-Smyth | 30.00% | ~26 |
 | An odd series of events | 29.00% | ~25 |
 | The Apartment | 29.00% | ~25 |
 | Nathaniel Dryden | 27.00% | ~23 |
 | A rude awakening | 26.00% | ~22 |
 | Bartholomew | 26.00% | ~22 |
-| Well-acquainted | 25.00% | ~21 |
-| Anastasia Babanin | 25.00% | ~21 |
-| The Scheme | 25.00% | ~21 |
-| Zakariya Demir | 24.00% | ~20 |
+| Well-acquainted | 24.00% | ~21 |
+| Anastasia Babanin | 24.00% | ~21 |
+| The Scheme | 24.00% | ~21 |
+| Zakariya Demir | 23.00% | ~20 |
 | Truth from within | 22.00% | ~19 |
 | A curious phrase | 19.00% | ~16 |
 | The Suspects | 19.00% | ~16 |
-| Evelyn Lakshmi Warbeck | 18.00% | ~15 |
+| Evelyn Lakshmi Warbeck | 17.00% | ~15 |
 | Horace Mountjoy | 16.00% | ~14 |
 | Johan Kristiansen | 16.00% | ~14 |
 | The Secrets | 16.00% | ~14 |
@@ -47,12 +47,12 @@
 | A treasured heirloom | 12.00% | ~10 |
 | The Penitent Magdalene | 12.00% | ~10 |
 | A true performance | 12.00% | ~10 |
-| The Denouement | 11.00% | ~9 |
-| A perilous journey | 11.00% | ~9 |
+| The Denouement | 10.00% | ~9 |
+| A perilous journey | 10.00% | ~9 |
 | Perkins | 7.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 85 (Ranked 502)  
-Completed: 3 (3.53%) (Ranked 100)  
+Progressed: 86 (Ranked 501)  
+Completed: 3 (3.49%) (Ranked 100)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -107,4 +107,4 @@ Completed: 3 (3.53%) (Ranked 100)
 | 2023-12-29 | 77 | 3 |
 | 2023-12-30 | 82 | 3 |
 | 2023-12-31 | 83 | 3 |
-| 2024-01-01 | 85 | 3 |
+| 2024-01-01 | 86 | 3 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -669,9 +669,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6683,
+  "EOS_Progressed": 6686,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 484,
+  "EOS_NewPlayers": 483,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10024,6 +10024,11 @@
       "Time": "2024-01-01T19:08:40.4821351+00:00",
       "NumProgressed": 6683,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-01T20:08:36.4992503+00:00",
+      "NumProgressed": 6686,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10083,7 +10088,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "16",
@@ -10123,7 +10128,7 @@
       "Name": "Enchanted Archipelago",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "20",
@@ -10171,7 +10176,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "26",
@@ -10187,7 +10192,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "28",
@@ -10195,7 +10200,7 @@
       "Name": "From Friends to Family",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "29",
@@ -10217,9 +10222,9 @@
       "ID": "30",
       "SetID": "3aa2279",
       "Name": "Preparation Is Everything",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 201
     },
     {
       "ID": "31",
@@ -10267,7 +10272,7 @@
       "Name": "Fiery Friend",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "37",
@@ -10275,7 +10280,7 @@
       "Name": "Against the Odds",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "38",
@@ -10291,7 +10296,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "4",
@@ -10435,7 +10440,7 @@
       "Name": "Freed Lands of Manuhari",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "52",
@@ -10514,13 +10519,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6683,
+      "Progressed": 6686,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6683,
+      "Progressed": 6686,
       "Completed": 7
     }
   ],
@@ -10528,8 +10533,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-31T18:58:53.0277501+00:00",
-  "LastChanged_Achievements": "2024-01-01T19:08:40.4821348+00:00",
+  "LastChanged_Achievements": "2024-01-01T20:08:36.49925+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-01T19:00:31.0810205+00:00",
-  "LastUpdate_Achievements": "2024-01-01T19:08:40.4822208+00:00"
+  "LastUpdate_Ratings": "2024-01-01T20:00:30.7965771+00:00",
+  "LastUpdate_Achievements": "2024-01-01T20:08:36.4993259+00:00"
 }

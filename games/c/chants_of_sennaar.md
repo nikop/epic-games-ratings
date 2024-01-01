@@ -5,34 +5,34 @@ Rating: 4.88 (Ranked 17)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 57.00% | ~1,236 |
-| Welcome to the Tower | 51.00% | ~1,106 |
-| The great escape | 43.00% | ~932 |
-| The Preacher's fate | 41.00% | ~889 |
-| A new dawn | 35.00% | ~759 |
-| Scholar | 30.00% | ~650 |
-| True G3M4R | 29.00% | ~629 |
-| The darkness | 29.00% | ~629 |
-| A good beginning | 28.00% | ~607 |
-| One last step | 25.00% | ~542 |
-| I did it | 24.00% | ~520 |
-| Cable guy | 24.00% | ~520 |
-| Half the way | 24.00% | ~520 |
-| Rascal | 24.00% | ~520 |
-| In this together | 23.00% | ~499 |
-| Peace walker | 23.00% | ~499 |
-| Champollion | 23.00% | ~499 |
+| That's the spirit | 57.00% | ~1,238 |
+| Welcome to the Tower | 51.00% | ~1,108 |
+| The great escape | 43.00% | ~934 |
+| The Preacher's fate | 41.00% | ~891 |
+| A new dawn | 35.00% | ~760 |
+| Scholar | 30.00% | ~652 |
+| True G3M4R | 29.00% | ~630 |
+| The darkness | 29.00% | ~630 |
+| A good beginning | 28.00% | ~608 |
+| One last step | 25.00% | ~543 |
+| I did it | 24.00% | ~521 |
+| Cable guy | 24.00% | ~521 |
+| Half the way | 24.00% | ~521 |
+| Rascal | 24.00% | ~521 |
+| In this together | 23.00% | ~500 |
+| Peace walker | 23.00% | ~500 |
+| Champollion | 23.00% | ~500 |
 | Open door | 20.00% | ~434 |
 | Feels like springtime | 20.00% | ~434 |
-| Alchemists Express | 19.00% | ~412 |
+| Alchemists Express | 19.00% | ~413 |
 | Free at last | 17.00% | ~369 |
-| A Link to the Past | 15.00% | ~325 |
+| A Link to the Past | 15.00% | ~326 |
 | A great audience | 13.00% | ~282 |
 | For its own good | 13.00% | ~282 |
-| Fashion victim | 8.00% | ~173 |
+| Fashion victim | 8.00% | ~174 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,168 (Ranked 239)  
-Completed: 133 (6.13%) (Ranked 69)  
+Progressed: 2,172 (Ranked 239)  
+Completed: 133 (6.12%) (Ranked 69)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -194,7 +194,7 @@ Completed: 133 (6.13%) (Ranked 69)
 | 2023-12-29 | 2,004 | 122 |
 | 2023-12-30 | 2,068 | 124 |
 | 2023-12-31 | 2,116 | 129 |
-| 2024-01-01 | 2,168 | 133 |
+| 2024-01-01 | 2,172 | 133 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

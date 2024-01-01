@@ -4,8 +4,8 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
     "PcReleaseDate": "2020-11-17T18:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1867,
+  "EOS_Progressed": 1872,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 295,
+  "EOS_NewPlayers": 299,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -3470,6 +3470,11 @@
       "Time": "2024-01-01T19:11:16.639194+00:00",
       "NumProgressed": 1867,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-01T20:11:10.4718637+00:00",
+      "NumProgressed": 1872,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 15,
@@ -3481,7 +3486,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 1830
+      "UsersEstimate": 1835
     },
     {
       "ID": "booty_call",
@@ -3489,7 +3494,7 @@
       "Name": "Booty Call",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "crash_and_burn",
@@ -3505,7 +3510,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 1792
+      "UsersEstimate": 1797
     },
     {
       "ID": "hold_my_beer",
@@ -3513,7 +3518,7 @@
       "Name": "Hold my Beer",
       "Percentage": 62,
       "XP": 25,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1161
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -3521,7 +3526,7 @@
       "Name": "In Contempt of Duvet",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "interrogation",
@@ -3537,7 +3542,7 @@
       "Name": "Light Sleepers",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "not_alone",
@@ -3545,7 +3550,7 @@
       "Name": "Not Alone",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "nueva_beginnings",
@@ -3553,7 +3558,7 @@
       "Name": "Nueva Beginnings",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "only_thyme_will_tell",
@@ -3561,7 +3566,7 @@
       "Name": "Only Thyme Will Tell",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "planting_the_seed",
@@ -3569,7 +3574,7 @@
       "Name": "Planting the Seed",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "smooth_criminal",
@@ -3585,7 +3590,7 @@
       "Name": "Sore Loser",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "we_go_again",
@@ -3593,14 +3598,14 @@
       "Name": "We Go Again",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     }
   ],
   "AchievementSets": [
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 1867,
+      "Progressed": 1872,
       "Completed": 12
     }
   ],
@@ -3608,8 +3613,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2024-01-01T19:11:16.6391936+00:00",
+  "LastChanged_Achievements": "2024-01-01T20:11:10.4718633+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:27.9788979+00:00",
-  "LastUpdate_Ratings": "2024-01-01T19:00:58.3369545+00:00",
-  "LastUpdate_Achievements": "2024-01-01T19:11:16.6392294+00:00"
+  "LastUpdate_Ratings": "2024-01-01T20:00:56.8005976+00:00",
+  "LastUpdate_Achievements": "2024-01-01T20:11:10.4718874+00:00"
 }

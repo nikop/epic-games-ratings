@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -813,9 +813,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3700,
+  "EOS_Progressed": 3702,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5283,6 +5283,11 @@
       "Time": "2024-01-01T19:06:10.7485307+00:00",
       "NumProgressed": 3700,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T20:06:09.2299521+00:00",
+      "NumProgressed": 3702,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -5540,9 +5545,9 @@
       "ID": "KoramarCompleted",
       "SetID": "3jha1np",
       "Name": "An Ill Omen",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 444
+      "UsersEstimate": 481
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -5638,7 +5643,7 @@
       "Name": "Exercise in Restraint",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "MissionVictory_Purgators",
@@ -5837,21 +5842,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3700,
+      "Progressed": 3702,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3700,
+      "Progressed": 3702,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-01T18:03:40.84636+00:00",
-  "LastChanged_Achievements": "2024-01-01T19:06:10.7485303+00:00",
+  "LastChanged_Achievements": "2024-01-01T20:06:09.2299517+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:30.5390055+00:00",
-  "LastUpdate_Ratings": "2024-01-01T19:03:55.7124293+00:00",
-  "LastUpdate_Achievements": "2024-01-01T19:06:10.7485952+00:00"
+  "LastUpdate_Ratings": "2024-01-01T20:03:52.3457341+00:00",
+  "LastUpdate_Achievements": "2024-01-01T20:06:09.2300345+00:00"
 }

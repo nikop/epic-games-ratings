@@ -2,10 +2,10 @@
   "ID": "9070f19d29354e45abf338e566da7ced",
   "Name": "FORECLOSED",
   "ProductSlug": "foreclosed",
-  "Ranking_EOS_Progress": 460,
+  "Ranking_EOS_Progress": 458,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 400,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 392,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-08-12T13:00:00+00:00",
     "PcReleaseDate": "2021-08-12T13:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 134,
+  "EOS_Progressed": 135,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.24,
+  "EOS_Completed_Percentage": 2.22,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:36.3929113+00:00",
@@ -359,6 +359,11 @@
       "Time": "2023-12-31T18:04:09.5865225+00:00",
       "NumProgressed": 134,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-01T20:05:40.4511209+00:00",
+      "NumProgressed": 135,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 24,
@@ -410,7 +415,7 @@
       "Name": "Cyborg",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ExpertChoice",
@@ -426,15 +431,15 @@
       "Name": "Breaking Through",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "FirstSkillBuy",
       "SetID": "9e3d06k",
       "Name": "A.I. Training",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 65
     },
     {
       "ID": "GunUnlock",
@@ -442,7 +447,7 @@
       "Name": "Symbiotic Weapon",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "Headshots_0",
@@ -450,7 +455,7 @@
       "Name": "Sniper",
       "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "Headshots_1",
@@ -458,7 +463,7 @@
       "Name": "Veteran Sniper",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "KyklosPlan",
@@ -490,7 +495,7 @@
       "Name": "The Neuro-connector",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "SecondAutoSkillUnlock",
@@ -498,7 +503,7 @@
       "Name": "Silent Overload",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "SecretEnding",
@@ -514,7 +519,7 @@
       "Name": "Flatline",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "StealthDefeat_1",
@@ -538,7 +543,7 @@
       "Name": "Mind Over Matter",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "TelekinesisThrow_1",
@@ -561,7 +566,7 @@
     {
       "ID": "9e3d06k",
       "IsBase": true,
-      "Progressed": 134,
+      "Progressed": 135,
       "Completed": 3
     }
   ],
@@ -569,8 +574,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
   "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
-  "LastChanged_Achievements": "2024-01-01T19:05:42.3491479+00:00",
+  "LastChanged_Achievements": "2024-01-01T20:05:40.4511206+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:54.8333074+00:00",
-  "LastUpdate_Ratings": "2024-01-01T18:59:27.5443583+00:00",
-  "LastUpdate_Achievements": "2024-01-01T19:05:42.3491595+00:00"
+  "LastUpdate_Ratings": "2024-01-01T19:59:28.6656657+00:00",
+  "LastUpdate_Achievements": "2024-01-01T20:05:40.4511332+00:00"
 }

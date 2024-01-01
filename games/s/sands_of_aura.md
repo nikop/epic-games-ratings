@@ -10,17 +10,17 @@
 | A Small Thirsty Thing | 13.00% | ~17 |
 | Bladesmith | 10.00% | ~13 |
 | Spirit Within | 10.00% | ~13 |
-| Rain Must Fall | 9.00% | ~11 |
-| Overboard | 9.00% | ~11 |
-| The Guardian of Fire | 9.00% | ~11 |
-| Leisis Bless You | 9.00% | ~11 |
+| Rain Must Fall | 9.00% | ~12 |
+| Overboard | 9.00% | ~12 |
+| The Guardian of Fire | 9.00% | ~12 |
+| Leisis Bless You | 9.00% | ~12 |
 | Explorer | 8.00% | ~10 |
 | Twin Thorns | 8.00% | ~10 |
 | The River Styx | 7.00% | ~9 |
-| Sommelier | 6.00% | ~8 |
-| Sovereignty of Irons | 6.00% | ~8 |
-| A Sandwyrm's Hoard | 6.00% | ~8 |
+| Sommelier | 5.00% | ~6 |
 | Let Me Solo Them | 5.00% | ~6 |
+| Sovereignty of Irons | 5.00% | ~6 |
+| A Sandwyrm's Hoard | 5.00% | ~6 |
 | Frigid Winds | 4.00% | ~5 |
 | Missing Melodies | 2.00% | ~3 |
 | Smotherly Love | 2.00% | ~3 |
@@ -63,7 +63,7 @@
 | Holding Out | 0.00% | ~0 |
 | Savage Progeny | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127 (Ranked 468)  
+Progressed: 128 (Ranked 466)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,6 +122,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-27 | 123 | 0 |
 | 2023-12-29 | 126 | 0 |
 | 2023-12-30 | 127 | 0 |
+| 2024-01-01 | 128 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

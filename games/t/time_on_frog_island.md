@@ -18,12 +18,12 @@
 | Who Even Needs Keys | 11.00% | ~4 |
 | Shrub-Seeing: Townlife | 11.00% | ~4 |
 | Shrub-Seeing: Silly Birbs | 11.00% | ~4 |
+| Sailor Swift | 11.00% | ~4 |
 | No Evil | 11.00% | ~4 |
 | Safe Investment | 11.00% | ~4 |
 | Bank of Me | 11.00% | ~4 |
 | The Journey Continues | 11.00% | ~4 |
 | Shrub-Seeing: Ruins of old | 8.00% | ~3 |
-| Sailor Swift | 8.00% | ~3 |
 | Caught Ya! | 8.00% | ~3 |
 | Honey, I'm Home | 8.00% | ~3 |
 | Fantastic Fungi | 8.00% | ~3 |

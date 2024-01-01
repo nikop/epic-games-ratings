@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -409,7 +409,7 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1572,
+  "EOS_Progressed": 1573,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
@@ -4024,6 +4024,11 @@
       "Time": "2024-01-01T15:09:49.9210134+00:00",
       "NumProgressed": 1572,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-01T20:11:15.6078822+00:00",
+      "NumProgressed": 1573,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4091,7 +4096,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1556
+      "UsersEstimate": 1557
     },
     {
       "ID": "EXPERT_1",
@@ -4155,7 +4160,7 @@
       "Name": "Kraina Grzybow",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "LOVE_GURU_1",
@@ -4163,7 +4168,7 @@
       "Name": "Love Guru",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "NEANDERTHAL_1",
@@ -4187,7 +4192,7 @@
       "Name": "One HIT wonder",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -4259,7 +4264,7 @@
       "Name": "Savant",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "SECRET_ROOM",
@@ -4322,15 +4327,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1572,
+      "Progressed": 1573,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-12-27T01:41:52.1948259+00:00",
-  "LastChanged_Achievements": "2024-01-01T19:11:22.0412064+00:00",
+  "LastChanged_Achievements": "2024-01-01T20:11:15.6078816+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.8702318+00:00",
-  "LastUpdate_Ratings": "2024-01-01T19:02:18.4551996+00:00",
-  "LastUpdate_Achievements": "2024-01-01T19:11:22.0412582+00:00"
+  "LastUpdate_Ratings": "2024-01-01T20:02:18.3747941+00:00",
+  "LastUpdate_Achievements": "2024-01-01T20:11:15.6079253+00:00"
 }

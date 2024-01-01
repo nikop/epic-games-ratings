@@ -3,9 +3,9 @@
   "Name": "Frontier Hunter: Erza\u0027s Wheel of Fortune",
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
   "Ranking_EOS_Progress": 316,
-  "Ranking_EOS_Completed": 253,
+  "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 340,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -28,10 +28,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 682,
-  "EOS_Completed": 2,
+  "EOS_Completed": 3,
   "EOS_NewPlayers": 19,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.29,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:54.4863714+00:00",
@@ -2332,6 +2332,11 @@
       "Time": "2024-01-01T16:09:19.9564784+00:00",
       "NumProgressed": 682,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-01T20:10:18.3643085+00:00",
+      "NumProgressed": 682,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -2541,9 +2546,9 @@
       "ID": "ACHIEVEMENT_33",
       "SetID": "7pimpda",
       "Name": "Blade Mantis Challenge",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 20
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -2605,9 +2610,9 @@
       "ID": "ACHIEVEMENT_40",
       "SetID": "7pimpda",
       "Name": "Mermaid Challenge",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 20
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -2703,15 +2708,15 @@
       "ID": "7pimpda",
       "IsBase": true,
       "Progressed": 682,
-      "Completed": 2
+      "Completed": 3
     }
   ],
   "FirstSeen": "2023-02-17T17:57:30.0066126+00:00",
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2024-01-01T19:10:23.4524158+00:00",
+  "LastChanged_Achievements": "2024-01-01T20:10:18.3643079+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:39.5136135+00:00",
-  "LastUpdate_Ratings": "2024-01-01T19:01:33.2260002+00:00",
-  "LastUpdate_Achievements": "2024-01-01T19:10:23.4524617+00:00"
+  "LastUpdate_Ratings": "2024-01-01T20:01:33.3088623+00:00",
+  "LastUpdate_Achievements": "2024-01-01T20:10:18.3643502+00:00"
 }

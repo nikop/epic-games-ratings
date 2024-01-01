@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 350,
-  "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2208,9 +2208,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16066,
+  "EOS_Progressed": 16070,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18758,6 +18758,11 @@
       "Time": "2024-01-01T19:11:37.4102056+00:00",
       "NumProgressed": 16066,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-01T20:11:31.2244927+00:00",
+      "NumProgressed": 16070,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20287,9 +20292,9 @@
       "ID": "ACHIEVEMENT_LEARNTOPLAY_1",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 1",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 96
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_2",
@@ -20527,9 +20532,9 @@
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
       "SetID": "9201eeb",
       "Name": "Power to the People",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_PUNIC_WARS",
@@ -20759,9 +20764,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_MYTHOLOGY",
       "SetID": "7l38kb8",
       "Name": "Mythology",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_REDEMPTION",
@@ -21632,21 +21637,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16066,
+      "Progressed": 16070,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16066,
+      "Progressed": 16070,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-29T16:02:55.9624641+00:00",
-  "LastChanged_Achievements": "2024-01-01T19:11:37.4102054+00:00",
+  "LastChanged_Achievements": "2024-01-01T20:11:31.2244925+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:24.5452657+00:00",
-  "LastUpdate_Ratings": "2024-01-01T19:03:40.6127005+00:00",
-  "LastUpdate_Achievements": "2024-01-01T19:11:37.411245+00:00"
+  "LastUpdate_Ratings": "2024-01-01T20:03:37.2531008+00:00",
+  "LastUpdate_Achievements": "2024-01-01T20:11:31.2255506+00:00"
 }

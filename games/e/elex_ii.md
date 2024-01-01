@@ -6,7 +6,7 @@ Number of Ratings: 124  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 33.00% | ~53 |
+| Entrepreneur | 34.00% | ~54 |
 | Best Buddy | 28.00% | ~45 |
 | Civilian | 25.00% | ~40 |
 | Role Model | 24.00% | ~38 |

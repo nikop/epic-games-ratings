@@ -9,8 +9,8 @@ Number of Ratings: 371  (23.09.2022)
 | Executioner | 17.00% | ~629 |
 | Look Over There! | 13.00% | ~481 |
 | Watch Where You Step... | 13.00% | ~481 |
+| An Ill Omen | 13.00% | ~481 |
 | Not So Fast... | 12.00% | ~444 |
-| An Ill Omen | 12.00% | ~444 |
 | Purging Spree | 9.00% | ~333 |
 | Blood for the Blood God! | 8.00% | ~296 |
 | Bloodless | 7.00% | ~259 |
@@ -46,7 +46,7 @@ Number of Ratings: 371  (23.09.2022)
 | Hands-On Research | 0.70% | ~26 |
 | Strike Force | 0.60% | ~22 |
 | True Mastery | 0.60% | ~22 |
-| Exercise in Restraint | 0.50% | ~18 |
+| Exercise in Restraint | 0.50% | ~19 |
 | Reign of Confusion | 0.40% | ~15 |
 | Suffer Not the Mutant | 0.40% | ~15 |
 | Blood and Iron | 0.30% | ~11 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,700 (Ranked 216)  
+Progressed: 3,702 (Ranked 216)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-29 | 3,644 | 0 |
 | 2023-12-30 | 3,663 | 0 |
 | 2023-12-31 | 3,685 | 0 |
-| 2024-01-01 | 3,700 | 0 |
+| 2024-01-01 | 3,702 | 0 |
 ## Awards
 Max (Character Customization): 232  (Ranked 282)  
 Sum: 494 (Ranked 335)  

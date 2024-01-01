@@ -7,7 +7,7 @@
 | Mighty Powers | 81.00% | ~47 |
 | Grand Re-Opening | 71.00% | ~41 |
 | Pup Pup Boogie | 67.00% | ~39 |
-| Summer Day | 64.00% | ~37 |
+| Summer Day | 66.00% | ~38 |
 | Mr. Porter | 55.00% | ~32 |
 | Risky Rescue | 53.00% | ~31 |
 | Carlos Is Tangled | 50.00% | ~29 |
@@ -35,7 +35,7 @@
 | The Collector | 0.00% | ~0 |
 | Pup Treat Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58 (Ranked 533)  
+Progressed: 58 (Ranked 534)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |

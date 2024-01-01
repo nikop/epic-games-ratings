@@ -5,10 +5,10 @@
   "Ranking_Rating": 465,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
-  "Ranking_EOS_Progress": 213,
+  "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -323,9 +323,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3885,
+  "EOS_Progressed": 3887,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7638,6 +7638,11 @@
       "Time": "2024-01-01T19:07:54.6336375+00:00",
       "NumProgressed": 3885,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T20:07:51.6760706+00:00",
+      "NumProgressed": 3887,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -7649,7 +7654,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "ACH_BASE_10",
@@ -7737,7 +7742,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1243
+      "UsersEstimate": 1244
     },
     {
       "ID": "ACH_BASE_22",
@@ -7753,7 +7758,7 @@
       "Name": "Space Society",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "ACH_BASE_24",
@@ -7801,7 +7806,7 @@
       "Name": "A Thousand Strong",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "ACH_BASE_3",
@@ -7849,7 +7854,7 @@
       "Name": "Ready for a New World",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "ACH_BASE_35",
@@ -8104,13 +8109,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 2069,
+      "Progressed": 2071,
       "Completed": 10
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3885,
+      "Progressed": 3887,
       "Completed": 0
     }
   ],
@@ -8118,8 +8123,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-22T13:57:44.9340377+00:00",
-  "LastChanged_Achievements": "2024-01-01T19:07:54.6336371+00:00",
+  "LastChanged_Achievements": "2024-01-01T20:07:51.6760701+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:27.7465752+00:00",
-  "LastUpdate_Ratings": "2024-01-01T18:57:23.8729502+00:00",
-  "LastUpdate_Achievements": "2024-01-01T19:07:54.63371+00:00"
+  "LastUpdate_Ratings": "2024-01-01T19:57:28.7136288+00:00",
+  "LastUpdate_Achievements": "2024-01-01T20:07:51.6761359+00:00"
 }

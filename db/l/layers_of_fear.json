@@ -4,8 +4,8 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 407,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 274,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253,
+  "EOS_Progressed": 254,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
@@ -1149,6 +1149,11 @@
       "Time": "2024-01-01T19:09:30.6895659+00:00",
       "NumProgressed": 253,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T20:09:26.2329674+00:00",
+      "NumProgressed": 254,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -1241,7 +1246,7 @@
       "Name": "It\u0027s covered up for a reason",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "decrypt_one_myth",
@@ -1311,9 +1316,9 @@
       "ID": "find_one_memento",
       "SetID": "f2im8d",
       "Name": "Scraps of love",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 117
     },
     {
       "ID": "find_one_photo",
@@ -1433,7 +1438,7 @@
       "Name": "A piece of the story",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "playtime",
@@ -1487,9 +1492,9 @@
       "ID": "sign_of_weakness",
       "SetID": "f2im8d",
       "Name": "Sign of weakness",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 94
     },
     {
       "ID": "something_important",
@@ -1559,9 +1564,9 @@
       "ID": "wanderer",
       "SetID": "f2im8d",
       "Name": "Wanderer",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 132
     },
     {
       "ID": "whispers_long_forgotten",
@@ -1569,21 +1574,21 @@
       "Name": "Whispers long forgotten",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     }
   ],
   "AchievementSets": [
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 253,
+      "Progressed": 254,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-01T19:09:30.6895655+00:00",
+  "LastChanged_Achievements": "2024-01-01T20:09:26.2329664+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.7570027+00:00",
-  "LastUpdate_Ratings": "2024-01-01T18:58:13.2053731+00:00",
-  "LastUpdate_Achievements": "2024-01-01T19:09:30.6896252+00:00"
+  "LastUpdate_Ratings": "2024-01-01T19:58:14.6196037+00:00",
+  "LastUpdate_Achievements": "2024-01-01T20:09:26.2330213+00:00"
 }

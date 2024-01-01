@@ -2,13 +2,13 @@
   "ID": "0460f46401ae4bdcadbc931d30028015",
   "Name": "Madden NFL 24",
   "ProductSlug": "madden-nfl-24",
-  "Ranking_Rating": 976,
+  "Ranking_Rating": 977,
   "Ranking_Popularity": 406,
   "Ranking_PopularitySum": 363,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -1359,9 +1359,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 7783,
+  "EOS_Progressed": 7793,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1767,
+  "EOS_NewPlayers": 1761,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9624,6 +9624,11 @@
       "Time": "2024-01-01T19:07:19.0974028+00:00",
       "NumProgressed": 7783,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T20:07:16.5543587+00:00",
+      "NumProgressed": 7793,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -9636,7 +9641,7 @@
       "Name": "Primetime",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "achievement_10",
@@ -9644,7 +9649,7 @@
       "Name": "Stud Finder",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 2568
+      "UsersEstimate": 2572
     },
     {
       "ID": "achievement_11",
@@ -9652,7 +9657,7 @@
       "Name": "Big Spender",
       "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 1323
+      "UsersEstimate": 1325
     },
     {
       "ID": "achievement_12",
@@ -9660,7 +9665,7 @@
       "Name": "Dealmaker",
       "Percentage": 25,
       "XP": 60,
-      "UsersEstimate": 1946
+      "UsersEstimate": 1948
     },
     {
       "ID": "achievement_13",
@@ -9668,7 +9673,7 @@
       "Name": "MVP",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 2179
+      "UsersEstimate": 2182
     },
     {
       "ID": "achievement_14",
@@ -9676,7 +9681,7 @@
       "Name": "ROTY",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 2568
+      "UsersEstimate": 2572
     },
     {
       "ID": "achievement_15",
@@ -9732,7 +9737,7 @@
       "Name": "Saw It Coming",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 4436
+      "UsersEstimate": 4442
     },
     {
       "ID": "achievement_21",
@@ -9740,7 +9745,7 @@
       "Name": "Clean The Pile",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "achievement_3",
@@ -9748,7 +9753,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "achievement_4",
@@ -9756,7 +9761,7 @@
       "Name": "Lockdown Corner",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "achievement_5",
@@ -9764,7 +9769,7 @@
       "Name": "Change of Scenery",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 1245
+      "UsersEstimate": 1247
     },
     {
       "ID": "achievement_6",
@@ -9772,7 +9777,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1946
+      "UsersEstimate": 1948
     },
     {
       "ID": "achievement_7",
@@ -9780,7 +9785,7 @@
       "Name": "Head-to-Head",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "achievement_8",
@@ -9788,7 +9793,7 @@
       "Name": "Bragging Rights",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 1946
+      "UsersEstimate": 1948
     },
     {
       "ID": "achievement_9",
@@ -9796,14 +9801,14 @@
       "Name": "Future of the Franchise",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1013
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 7783,
+      "Progressed": 7793,
       "Completed": 0
     }
   ],
@@ -9811,8 +9816,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2024-01-01T11:00:13.0203096+00:00",
-  "LastChanged_Achievements": "2024-01-01T19:07:19.0974025+00:00",
+  "LastChanged_Achievements": "2024-01-01T20:07:16.554358+00:00",
   "LastUpdate_AppInfo": "2023-12-28T08:57:17.7769653+00:00",
-  "LastUpdate_Ratings": "2024-01-01T19:00:32.0941379+00:00",
-  "LastUpdate_Achievements": "2024-01-01T19:07:19.0974603+00:00"
+  "LastUpdate_Ratings": "2024-01-01T20:00:31.171136+00:00",
+  "LastUpdate_Achievements": "2024-01-01T20:07:16.5544115+00:00"
 }

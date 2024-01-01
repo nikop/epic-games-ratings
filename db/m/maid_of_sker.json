@@ -4,8 +4,8 @@
   "ProductSlug": "maid-of-sker-2ae24e",
   "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 364,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 269,
+  "EOS_Progressed": 270,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -715,6 +715,11 @@
       "Time": "2023-12-31T23:08:39.5243915+00:00",
       "NumProgressed": 269,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T20:08:55.718495+00:00",
+      "NumProgressed": 270,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -926,7 +931,7 @@
       "Name": "Sker Explorer",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "smooth_operator",
@@ -965,7 +970,7 @@
     {
       "ID": "3j2phem",
       "IsBase": true,
-      "Progressed": 269,
+      "Progressed": 270,
       "Completed": 0
     }
   ],
@@ -973,8 +978,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2024-01-01T19:08:59.5452197+00:00",
+  "LastChanged_Achievements": "2024-01-01T20:08:55.7184945+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:21.5182782+00:00",
-  "LastUpdate_Ratings": "2024-01-01T18:58:22.2432172+00:00",
-  "LastUpdate_Achievements": "2024-01-01T19:08:59.5452456+00:00"
+  "LastUpdate_Ratings": "2024-01-01T19:58:23.1376216+00:00",
+  "LastUpdate_Achievements": "2024-01-01T20:08:55.7185394+00:00"
 }

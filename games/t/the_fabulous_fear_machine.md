@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Master trainee | 47.00% | ~35 |
+| Master trainee | 47.00% | ~36 |
 | You have three wishes left | 41.00% | ~31 |
 | Jung's dream | 32.00% | ~24 |
 | The battle of Great Britain | 32.00% | ~24 |
-| Pulp! Where Monsters Dwell | 27.00% | ~20 |
+| Pulp! Where Monsters Dwell | 26.00% | ~20 |
 | A continent with chemistry | 24.00% | ~18 |
-| The happy farmer girl | 23.00% | ~17 |
+| The happy farmer girl | 22.00% | ~17 |
 | Giant | 20.00% | ~15 |
 | Pulp! Out of this World | 20.00% | ~15 |
-| A rival with no options | 19.00% | ~14 |
-| Pulp! Terror Tales in the Night | 19.00% | ~14 |
-| Diagnosis: fear | 19.00% | ~14 |
-| Ambition is... blind | 19.00% | ~14 |
-| You have two wishes left | 19.00% | ~14 |
+| A rival with no options | 18.00% | ~14 |
+| Pulp! Terror Tales in the Night | 18.00% | ~14 |
+| Diagnosis: fear | 18.00% | ~14 |
+| Ambition is... blind | 18.00% | ~14 |
+| You have two wishes left | 18.00% | ~14 |
 | The artist | 17.00% | ~13 |
 | Pulp! Adventures into the Unknown | 17.00% | ~13 |
 | The seer | 16.00% | ~12 |
-| Et in arcadia ego | 15.00% | ~11 |
+| Et in arcadia ego | 14.00% | ~11 |
 | You had one wish left | 13.00% | ~10 |
 | You've awakened the beast | 12.00% | ~9 |
 | Hate is... addictive | 12.00% | ~9 |
@@ -52,7 +52,7 @@
 | Pulp! Skeleton Hand | 1.00% | ~1 |
 | Pulp! The Vault of Horror | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75 (Ranked 512)  
+Progressed: 76 (Ranked 512)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,4 +94,4 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-28 | 68 | 0 |
 | 2023-12-30 | 69 | 0 |
 | 2023-12-31 | 71 | 0 |
-| 2024-01-01 | 75 | 0 |
+| 2024-01-01 | 76 | 0 |

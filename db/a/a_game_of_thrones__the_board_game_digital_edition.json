@@ -2,13 +2,13 @@
   "ID": "1b737464d3c441f8956315433be02d3b",
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
-  "Ranking_Rating": 942,
+  "Ranking_Rating": 943,
   "Ranking_Popularity": 343,
   "Ranking_PopularitySum": 289,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1380,9 +1380,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 32145,
+  "EOS_Progressed": 32152,
   "EOS_Completed": 86,
-  "EOS_NewPlayers": 763,
+  "EOS_NewPlayers": 766,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -28925,6 +28925,11 @@
       "Time": "2024-01-01T19:11:05.7578092+00:00",
       "NumProgressed": 32145,
       "NumCompleted": 86
+    },
+    {
+      "Time": "2024-01-01T20:10:59.8810108+00:00",
+      "NumProgressed": 32152,
+      "NumCompleted": 86
     }
   ],
   "TotalAchievements": 22,
@@ -28936,7 +28941,7 @@
       "Name": "War of the Five Kings",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "1016",
@@ -28960,7 +28965,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 1607
+      "UsersEstimate": 1608
     },
     {
       "ID": "1019",
@@ -28968,7 +28973,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2250
+      "UsersEstimate": 2251
     },
     {
       "ID": "1020",
@@ -28976,7 +28981,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1607
+      "UsersEstimate": 1608
     },
     {
       "ID": "1021",
@@ -28984,7 +28989,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1607
+      "UsersEstimate": 1608
     },
     {
       "ID": "1022",
@@ -29000,7 +29005,7 @@
       "Name": "What is Dead may Never Die",
       "Percentage": 3,
       "XP": 65,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "1024",
@@ -29024,7 +29029,7 @@
       "Name": "Oathkeeper",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2250
+      "UsersEstimate": 2251
     },
     {
       "ID": "1027",
@@ -29032,7 +29037,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2893
+      "UsersEstimate": 2894
     },
     {
       "ID": "1028",
@@ -29040,7 +29045,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5786
+      "UsersEstimate": 5787
     },
     {
       "ID": "1029",
@@ -29056,7 +29061,7 @@
       "Name": "Battering Crew",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 6108
+      "UsersEstimate": 6109
     },
     {
       "ID": "1031",
@@ -29064,7 +29069,7 @@
       "Name": "Well Stocked",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 4179
+      "UsersEstimate": 4180
     },
     {
       "ID": "1032",
@@ -29072,7 +29077,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 12858
+      "UsersEstimate": 12861
     },
     {
       "ID": "1033",
@@ -29080,7 +29085,7 @@
       "Name": "The Swift",
       "Percentage": 3,
       "XP": 120,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "1034",
@@ -29088,7 +29093,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2250
+      "UsersEstimate": 2251
     },
     {
       "ID": "1035",
@@ -29096,7 +29101,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 4179
+      "UsersEstimate": 4180
     },
     {
       "ID": "1036",
@@ -29104,22 +29109,22 @@
       "Name": "A Long Journey",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2250
+      "UsersEstimate": 2251
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 32145,
+      "Progressed": 32152,
       "Completed": 86
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-12-30T03:00:21.8203894+00:00",
-  "LastChanged_Achievements": "2024-01-01T19:11:05.7578088+00:00",
+  "LastChanged_Achievements": "2024-01-01T20:10:59.8810103+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:55.7773957+00:00",
-  "LastUpdate_Ratings": "2024-01-01T18:57:44.8633367+00:00",
-  "LastUpdate_Achievements": "2024-01-01T19:11:05.7579638+00:00"
+  "LastUpdate_Ratings": "2024-01-01T19:57:47.3493622+00:00",
+  "LastUpdate_Achievements": "2024-01-01T20:10:59.8811574+00:00"
 }
