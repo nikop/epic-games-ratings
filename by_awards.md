@@ -26,7 +26,7 @@
 | 24 | [Borderlands 2](games/b/borderlands_2.md) | 16,298 | 4.76 | 133 |
 | 25 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 15,666 | 4.60 | 429 |
 | 26 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,677 | 4.58 | 466 |
-| 27 | [Satisfactory](games/s/satisfactory.md) | 14,577 | 4.87 | 24 |
+| 27 | [Satisfactory](games/s/satisfactory.md) | 14,612 | 4.87 | 24 |
 | 28 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 14,407 | 4.60 | 429 |
 | 29 | [Killing Floor 2](games/k/killing_floor_2.md) | 14,091 | 4.43 | 719 |
 | 30 | [Maneater](games/m/maneater.md) | 13,900 | 4.49 | 632 |
@@ -44,7 +44,7 @@
 | 42 | [Bloons TD 6](games/b/bloons_td_6.md) | 9,216 | 4.77 | 117 |
 | 43 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 9,167 | 4.89 | 10 |
 | 44 | [Control](games/c/control.md) | 9,018 | 4.61 | 399 |
-| 45 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 8,801 | 4.49 | 632 |
+| 45 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 8,810 | 4.49 | 632 |
 | 46 | [DEATH STRANDING](games/d/death_stranding.md) | 8,765 | 4.78 | 109 |
 | 47 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 8,531 | 4.56 | 504 |
 | 48 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 8,468 | 4.69 | 235 |
@@ -86,7 +86,7 @@
 | 84 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,633 | 4.70 | 218 |
 | 85 | [Trackmania](games/t/trackmania.md) | 4,265 | 4.66 | 303 |
 | 86 | [Days Gone](games/d/days_gone.md) | 4,174 | 4.68 | 262 |
-| 87 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,160 | 4.51 | 590 |
+| 87 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,162 | 4.51 | 590 |
 | 88 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4,075 | 4.68 | 262 |
 | 89 | [Paladins](games/p/paladins.md) | 3,962 | 4.32 | 852 |
 | 90 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,934 | 4.46 | 674 |
@@ -238,11 +238,11 @@
 | 236 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 415 | 4.61 | 399 |
 | 237 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 395 | 4.62 | 379 |
 | 237 | [Dungeons 3](games/d/dungeons_3.md) | 395 | 4.66 | 303 |
-| 239 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 387 | 4.55 | 522 |
-| 240 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 381 | 4.34 | 829 |
-| 241 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 378 | 3.99 | 1,039 |
-| 242 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 376 | 4.31 | 859 |
-| 242 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 376 | 4.21 | 942 |
+| 239 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 394 | 4.21 | 942 |
+| 240 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 387 | 4.55 | 522 |
+| 241 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 381 | 4.34 | 829 |
+| 242 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 378 | 3.99 | 1,039 |
+| 243 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 376 | 4.31 | 859 |
 | 244 | [Hello Neighbor](games/h/hello_neighbor.md) | 368 | 4.57 | 494 |
 | 245 | [Inscryption](games/i/inscryption.md) | 357 | 4.86 | 31 |
 | 246 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 355 | 4.72 | 188 |
@@ -470,7 +470,7 @@
 | 466 | [Bugsnax](games/b/bugsnax.md) | 45 | 4.86 | 31 |
 | 466 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 45 | 4.49 | 632 |
 | 470 | [Coromon](games/c/coromon.md) | 44 | 4.69 | 235 |
-| 471 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 43 | 4.84 | 50 |
+| 470 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 44 | 4.84 | 50 |
 | 472 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 42 | 4.60 | 429 |
 | 473 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 41 | 4.20 | 953 |
 | 473 | [Isonzo](games/i/isonzo.md) | 41 | 4.58 | 466 |

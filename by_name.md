@@ -155,7 +155,7 @@
 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | - | - | 0 | - |
 | [Angry Video Game Nerd I & II Deluxe](games/a/angry_video_game_nerd_1_and_2_deluxe.md) | - | - | 0 | - |
 | [anigolden1product1 Production](games/a/anigolden1product1_production.md) | - | - | - | - |
-| [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.31 | 859 | 376 | 242 |
+| [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.31 | 859 | 376 | 243 |
 | [Anime vs Evil: Apocalypse](games/9/988ce7aae48b438fa5cc17de4136e237.md) | - | - | 0 | - |
 | [ANIMO Stars Arena](games/a/animo_stars_arena.md) | - | - | - | - |
 | [Anito Legends](games/5/5a70a74abf1044db84a816cb0a401566.md) | - | - | - | - |
@@ -377,7 +377,7 @@
 | [Bio Inc. Redemption](games/f/f00f2d0ae4f04fc987d4218d9355f026.md) | - | - | 0 | - |
 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 829 | 124 | 348 |
 | [Bionic Bay](games/b/bionic_bay.md) | - | - | - | - |
-| [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 590 | 4,160 | 87 |
+| [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 590 | 4,162 | 87 |
 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 218 | 4,633 | 84 |
 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 346 | 6,017 | 65 |
 | [BioShock: The Collection](games/b/bioshock__the_collection.md) | - | - | - | - |
@@ -436,7 +436,7 @@
 | [BoltBreak 2](games/5/597a33e3a06945278a30506a8496345f.md) | - | - | - | - |
 | [Bonfire Peaks](games/b/bonfire_peaks.md) | - | - | 0 | - |
 | [Book of Demons](games/b/book_of_demons.md) | - | - | 0 | - |
-| [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 3.94 | 1,052 | 0 | 576 |
+| [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 3.93 | 1,054 | 0 | 576 |
 | [Boom Blaster](games/b/boom_blaster.md) | - | - | 0 | - |
 | [Boomerang X](games/b/boomerang_x.md) | - | - | 0 | - |
 | [Booze Masters: Freezing Moonshine](games/d/deca76ccbe584df395bc785c61653e50.md) | - | - | 0 | - |
@@ -878,7 +878,7 @@
 | [Dizzy Fight](games/0/0e75b2d3188d42378ba82dccbfa48891.md) | - | - | - | - |
 | [DNF Duel](games/3/3eb832eb6d9f4496818a0b0d667420c0.md) | 4.35 | 817 | 0 | 576 |
 | [Doctor Who: The Lonely Assassins](games/d/doctor_who__the_lonely_assassins.md) | - | - | 0 | - |
-| [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 3.93 | 1,055 | 0 | 576 |
+| [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 3.93 | 1,054 | 0 | 576 |
 | [Dog Duty](games/d/dog_duty.md) | - | - | 0 | - |
 | [Dogfight](games/d/dogfight.md) | - | - | 0 | - |
 | [Dojoran](games/d/dojoran.md) | - | - | 0 | - |
@@ -1456,7 +1456,7 @@
 | [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 4.41 | 750 | 23 | 554 |
 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 614 | 3,255 | 98 |
 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.73 | 177 | 26,827 | 18 |
-| [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 1,039 | 378 | 241 |
+| [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 1,039 | 378 | 242 |
 | [Horace](games/h/horace.md) | 4.54 | 544 | 0 | 576 |
 | [HordeCore](games/h/hordecore.md) | - | - | 0 | - |
 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 4.72 | 188 | 0 | 576 |
@@ -1522,7 +1522,7 @@
 | [Ikonei Island: An Earthlock Adventure](games/9/9d18d8b14f2249278132414a09234394.md) | - | - | 0 | - |
 | [IL-2 Sturmovik: 1946](games/5/5332e78b6dcf4b148da8e7ad110d0baf.md) | - | - | 0 | - |
 | [illusion](games/i/illusion.md) | - | - | - | - |
-| [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 4.84 | 50 | 43 | 471 |
+| [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 4.84 | 50 | 44 | 470 |
 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 852 | 0 | 576 |
 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 445 | 847 | 174 |
 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 4.20 | 953 | 0 | 576 |
@@ -1608,8 +1608,8 @@
 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 466 | 40 | 475 |
 | [Journey to the West](games/j/journey_to_the_west.md) | - | - | - | - |
 | [Joyville](games/8/828033f9503242d5aded3a1a0f3d3c91.md) | - | - | 0 | - |
-| [Judas](games/j/judas.md) | - | - | 0 | - |
 | [Judas](games/j/judas_1.md) | - | - | - | - |
+| [Judas](games/j/judas.md) | - | - | 0 | - |
 | [Jump Challenge!](games/8/812112fd7449435ab8aa1ff41f01fe92.md) | - | - | 0 | - |
 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 379 | 624 | 199 |
 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 162 | 787 | 179 |
@@ -1778,8 +1778,8 @@
 | [Little Orpheus](games/l/little_orpheus.md) | - | - | 0 | - |
 | [Little Wu Chang](games/2/2949830a102e4b6aad990f6ae31e758f.md) | - | - | - | - |
 | [Littlelands](games/d/de4a72bbf5e6433c9cf8f24871fd9b47.md) | - | - | - | - |
-| [Live](games/l/live_130.md) | - | - | - | - |
 | [Live](games/l/live_79.md) | - | - | - | - |
+| [Live](games/l/live_130.md) | - | - | - | - |
 | [Live In The Country](games/7/7247d3e923ac4d04a7d8f4435e240302.md) | - | - | - | - |
 | [Locks Quest](games/l/locks_quest.md) | - | - | 0 | - |
 | [Lonesome Village](games/l/lonesome_village.md) | - | - | 0 | - |
@@ -1789,7 +1789,7 @@
 | [Lord of Midchester](games/l/lord_of_midchester.md) | - | - | - | - |
 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.43 | 719 | 0 | 576 |
 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 4.36 | 804 | 26 | 539 |
-| [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 4.21 | 942 | 376 | 242 |
+| [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 4.21 | 942 | 394 | 239 |
 | [Loretta](games/l/loretta.md) | - | - | 0 | - |
 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | - | - | 0 | - |
 | [Lost And Found Beta](games/5/52584c975e1d43d5b8c521f9a3eb64a1.md) | - | - | - | - |
@@ -2593,7 +2593,7 @@
 | [SAMURAI Survivor -Undefeated Blade](games/s/samurai_survivor_-undefeated_blade.md) | - | - | 0 | - |
 | [Sands of Aura](games/s/sands_of_aura.md) | - | - | 0 | - |
 | [Sapphire](games/s/sapphire.md) | - | - | - | - |
-| [Satisfactory](games/s/satisfactory.md) | 4.87 | 24 | 14,577 | 27 |
+| [Satisfactory](games/s/satisfactory.md) | 4.87 | 24 | 14,612 | 27 |
 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 903 | 0 | 576 |
 | [Savant - Ascent REMIX](games/a/a013d93390c34ff588ab136bee0cde71.md) | - | - | - | - |
 | [Save District 3](games/s/save_district_3.md) | - | - | 0 | - |
@@ -3115,7 +3115,7 @@
 | [The Dead Await](games/t/the_dead_await.md) | - | - | - | - |
 | [The Death Into Trouble](games/6/61bf61eac17e4387b779eac91395aa79.md) | - | - | - | - |
 | [The Devil's Face](games/t/the_devil's_face.md) | - | - | 0 | - |
-| [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.49 | 632 | 8,801 | 45 |
+| [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.49 | 632 | 8,810 | 45 |
 | [The Dragoness Command Of The Flame](games/8/8bf17fa0bd774f72bb06bd095830af2a.md) | - | - | 0 | - |
 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 614 | 69 | 416 |
 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.59 | 445 | 263 | 275 |
@@ -3394,8 +3394,8 @@
 | [Tour de France 2022](games/t/tour_de_france_2022.md) | - | - | - | - |
 | [Tour de France 2023](games/c/c20377f30dfa44eb929b0081c1182381.md) | - | - | - | - |
 | [Tower Defense 3D Fusion](games/d/d668f571588d42a4906a583e4149c32a.md) | - | - | - | - |
-| [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.34 | 829 | 381 | 240 |
 | [Tower of Fantasy](games/t/tower_of_fantasy_1.md) | - | - | - | - |
+| [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.34 | 829 | 381 | 241 |
 | [Tower of Guns](games/t/tower_of_guns.md) | - | - | 0 | - |
 | [Tower Princess](games/t/tower_princess.md) | - | - | 0 | - |
 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.70 | 218 | 0 | 576 |
@@ -3413,7 +3413,7 @@
 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.01 | 1,034 | 0 | 576 |
 | [Train Sim World](games/t/train_sim_world.md) | - | - | - | - |
 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.39 | 776 | 592 | 206 |
-| [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 522 | 387 | 239 |
+| [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 522 | 387 | 240 |
 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 4.34 | 829 | 114 | 356 |
 | [Train Valley](games/t/train_valley.md) | 4.50 | 614 | 0 | 576 |
 | [Train Valley 2](games/t/train_valley_2.md) | 4.45 | 689 | 1,011 | 158 |
@@ -3491,8 +3491,8 @@
 | [Uncontained](games/f/f997635f6f6a4d62b592943e93fe7931.md) | - | - | - | - |
 | [Undead Horde](games/u/undead_horde.md) | - | - | 0 | - |
 | [Under a Rock](games/f/f1838ea95ba442d98b3da503ae5a5a33.md) | - | - | - | - |
-| [Under The Waves](games/u/under_the_waves.md) | - | - | - | - |
 | [Under The Waves](games/d/d5309b9c54564b1f9a0b4c6b797cc5f0.md) | - | - | 0 | - |
+| [Under The Waves](games/u/under_the_waves.md) | - | - | - | - |
 | [Undergrave](games/u/undergrave.md) | - | - | 0 | - |
 | [Underground Waifus TCG](games/4/469efc19125a4c3fb518e4723ad3010e.md) | - | - | 0 | - |
 | [Underworld Defense](games/2/229da97a621d443dafe527f874375f3b.md) | - | - | 0 | - |
