@@ -3,12 +3,12 @@
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 358,
-  "Ranking_Popularity": 479,
+  "Ranking_Popularity": 480,
   "Ranking_PopularitySum": 424,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -669,9 +669,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6679,
+  "EOS_Progressed": 6683,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 483,
+  "EOS_NewPlayers": 484,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10019,6 +10019,11 @@
       "Time": "2024-01-01T18:08:07.8316962+00:00",
       "NumProgressed": 6679,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-01T19:08:40.4821351+00:00",
+      "NumProgressed": 6683,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10140,9 +10145,9 @@
       "ID": "22",
       "SetID": "3aa2279",
       "Name": "Realm Estate",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 735
+      "UsersEstimate": 802
     },
     {
       "ID": "23",
@@ -10158,7 +10163,7 @@
       "Name": "Secret Technique",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "25",
@@ -10174,7 +10179,7 @@
       "Name": "Bone Peddler",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "27",
@@ -10212,9 +10217,9 @@
       "ID": "30",
       "SetID": "3aa2279",
       "Name": "Preparation Is Everything",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 134
     },
     {
       "ID": "31",
@@ -10509,13 +10514,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6679,
+      "Progressed": 6683,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6679,
+      "Progressed": 6683,
       "Completed": 7
     }
   ],
@@ -10523,8 +10528,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-31T18:58:53.0277501+00:00",
-  "LastChanged_Achievements": "2024-01-01T18:08:07.8316959+00:00",
+  "LastChanged_Achievements": "2024-01-01T19:08:40.4821348+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-01T18:00:07.9535127+00:00",
-  "LastUpdate_Achievements": "2024-01-01T18:08:07.8317913+00:00"
+  "LastUpdate_Ratings": "2024-01-01T19:00:31.0810205+00:00",
+  "LastUpdate_Achievements": "2024-01-01T19:08:40.4822208+00:00"
 }

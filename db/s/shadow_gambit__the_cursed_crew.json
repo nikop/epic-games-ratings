@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 123,
   "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -179,11 +179,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1391,
+  "EOS_Progressed": 1392,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.52,
+  "EOS_Completed_Percentage": 2.51,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -4804,6 +4804,11 @@
       "Time": "2024-01-01T18:07:02.9776066+00:00",
       "NumProgressed": 1391,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-01T19:07:31.5069484+00:00",
+      "NumProgressed": 1392,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4848,7 +4853,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -4864,7 +4869,7 @@
       "Name": "All Good Things",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "_08_Completion_10",
@@ -5023,7 +5028,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1391,
+      "Progressed": 1392,
       "Completed": 35
     }
   ],
@@ -5031,8 +5036,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-27T21:58:17.6269244+00:00",
-  "LastChanged_Achievements": "2024-01-01T18:07:02.9776063+00:00",
+  "LastChanged_Achievements": "2024-01-01T19:07:31.5069477+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.1530944+00:00",
-  "LastUpdate_Ratings": "2024-01-01T18:01:50.140228+00:00",
-  "LastUpdate_Achievements": "2024-01-01T18:07:02.9776602+00:00"
+  "LastUpdate_Ratings": "2024-01-01T19:02:20.4564549+00:00",
+  "LastUpdate_Achievements": "2024-01-01T19:07:31.5070052+00:00"
 }

@@ -7,13 +7,13 @@ Number of Ratings: 85  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Shop Til They Drop | 71.00% | ~197 |
-| Kaijuiced | 68.00% | ~189 |
+| Kaijuiced | 69.00% | ~192 |
 | Lie Back and Think of Albion | 62.00% | ~172 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 59.00% | ~164 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 60.00% | ~167 |
 | I Look Up As I Walk to Takoshima | 58.00% | ~161 |
 | Yettisoned | 57.00% | ~158 |
 | Perfect Probulator | 54.00% | ~150 |
-| Pimp My Raid | 52.00% | ~145 |
+| Pimp My Raid | 53.00% | ~147 |
 | Lobster Blisque | 50.00% | ~139 |
 | Earthly Pleasures | 47.00% | ~131 |
 | Fly Me to the Moon Base | 46.00% | ~128 |
@@ -27,7 +27,7 @@ Number of Ratings: 85  (23.09.2022)
 | Rock of the Bay | 25.00% | ~70 |
 | Trans-Siberian Express | 24.00% | ~67 |
 | Re-Return of the Clone of the Invasion II-2 | 21.00% | ~58 |
-| Arkvoodle Doodle | 18.00% | ~50 |
+| Arkvoodle Doodle | 19.00% | ~53 |
 | If You Know What I Mean | 17.00% | ~47 |
 | Ouch of Body Experience | 16.00% | ~44 |
 | Die Nasty | 16.00% | ~44 |

@@ -10,7 +10,7 @@ Number of Ratings: 292  (23.09.2022)
 | Double Kill | 39.00% | ~359 |
 | Critical Hit | 21.00% | ~193 |
 | Veteran | 21.00% | ~193 |
-| Dressed For Success | 14.00% | ~129 |
+| Dressed For Success | 15.00% | ~138 |
 | Humiliation | 9.00% | ~83 |
 | Veni, Vidi, Vici | 9.00% | ~83 |
 | Multi Kill | 8.00% | ~74 |

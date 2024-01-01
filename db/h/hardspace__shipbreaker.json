@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 308,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -309,9 +309,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1039,
+  "EOS_Progressed": 1041,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2344,6 +2344,11 @@
       "Time": "2024-01-01T09:10:13.2375527+00:00",
       "NumProgressed": 1039,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T19:10:38.2662869+00:00",
+      "NumProgressed": 1041,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -2355,7 +2360,7 @@
       "Name": "Act I Complete",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "ACH_ACT_2_COMPLETE",
@@ -2363,7 +2368,7 @@
       "Name": "Act II Complete",
       "Percentage": 21,
       "XP": 60,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "ACH_ACT_3_COMPLETE",
@@ -2379,7 +2384,7 @@
       "Name": "Always Finding Your Mark",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "ACH_A_DROP_IN_THE_OCEAN",
@@ -2419,7 +2424,7 @@
       "Name": "Bing Bang BOOM",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ACH_BREAKING_THE_ICE",
@@ -2435,7 +2440,7 @@
       "Name": "Breathe In\u2026 Breathe Out\u2026",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 758
+      "UsersEstimate": 760
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -2491,7 +2496,7 @@
       "Name": "It\u2019s Heating up!",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
@@ -2499,7 +2504,7 @@
       "Name": "I ain\u2019t afraid of no Ghost",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "ACH_I_CAN_FIX_IT",
@@ -2507,15 +2512,15 @@
       "Name": "I can fix it!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
       "SetID": "108h92c",
       "Name": "Let\u2019s patch things up",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 675
+      "UsersEstimate": 666
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -2523,7 +2528,7 @@
       "Name": "No Ni\u00F1os",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ACH_POST_NO_BILLS",
@@ -2531,7 +2536,7 @@
       "Name": "Post No Bills",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "ACH_SEE_YOU_SPACE_COWBOY",
@@ -2555,7 +2560,7 @@
       "Name": "The Weight of the World",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "ACH_TRUELY_SHOCKING",
@@ -2563,14 +2568,14 @@
       "Name": "Truly Shocking!",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     }
   ],
   "AchievementSets": [
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 1039,
+      "Progressed": 1041,
       "Completed": 0
     }
   ],
@@ -2578,8 +2583,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2024-01-01T13:59:32.897486+00:00",
-  "LastChanged_Achievements": "2024-01-01T18:09:59.8207808+00:00",
+  "LastChanged_Achievements": "2024-01-01T19:10:38.2662865+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:17.6550121+00:00",
-  "LastUpdate_Ratings": "2024-01-01T17:59:41.8544433+00:00",
-  "LastUpdate_Achievements": "2024-01-01T18:09:59.8208098+00:00"
+  "LastUpdate_Ratings": "2024-01-01T19:00:03.1183948+00:00",
+  "LastUpdate_Achievements": "2024-01-01T19:10:38.2663126+00:00"
 }

@@ -18,22 +18,22 @@
 | Healing | 6.00% | ~16 |
 | Good payer | 6.00% | ~16 |
 | Pathfinder | 6.00% | ~16 |
+| Self-sufficient | 6.00% | ~16 |
 | Food Tycoon | 6.00% | ~16 |
 | Fuel Tycoon | 6.00% | ~16 |
 | Ammo Tycoon | 6.00% | ~16 |
 | Jantine: the Misfortunes of Evil | 5.00% | ~13 |
 | Overpopulation | 5.00% | ~13 |
 | Property Bro | 5.00% | ~13 |
-| Self-sufficient | 5.00% | ~13 |
 | Outdoor Decorator | 4.00% | ~11 |
 | Medicine Tycoon | 4.00% | ~11 |
 | Tear Down the Wall! | 3.00% | ~8 |
 | Supersoldier | 3.00% | ~8 |
 | Vive le Résistance | 3.00% | ~8 |
+| No News is Good News | 3.00% | ~8 |
 | Human Resources | 3.00% | ~8 |
 | Training Camp | 3.00% | ~8 |
 | Economist | 2.00% | ~5 |
-| No News is Good News | 2.00% | ~5 |
 | Snowman | 2.00% | ~5 |
 | Reconquest | 2.00% | ~5 |
 | Winter Soldier | 2.00% | ~5 |

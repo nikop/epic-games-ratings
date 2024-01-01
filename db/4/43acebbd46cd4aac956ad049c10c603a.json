@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -267,7 +267,7 @@
   ],
   "EOS_Progressed": 1223,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3445,9 +3445,9 @@
       "ID": "BecomingSmarter",
       "SetID": "1n308hc",
       "Name": "Becoming Smarter",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 379
+      "UsersEstimate": 391
     },
     {
       "ID": "BreakTheLoop",
@@ -3886,8 +3886,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-01T16:59:26.0585046+00:00",
-  "LastChanged_Achievements": "2024-01-01T18:08:14.6794957+00:00",
+  "LastChanged_Achievements": "2024-01-01T19:08:47.6712186+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.9244138+00:00",
-  "LastUpdate_Ratings": "2024-01-01T17:59:18.2177834+00:00",
-  "LastUpdate_Achievements": "2024-01-01T18:08:14.6795716+00:00"
+  "LastUpdate_Ratings": "2024-01-01T18:59:37.8548351+00:00",
+  "LastUpdate_Achievements": "2024-01-01T19:08:47.671296+00:00"
 }

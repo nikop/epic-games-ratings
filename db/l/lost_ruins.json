@@ -3,9 +3,9 @@
   "Name": "Lost Ruins",
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 325,
-  "Ranking_EOS_Completed": 283,
+  "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 285,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 645,
+  "EOS_Progressed": 646,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.16,
+  "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:32.3628433+00:00",
@@ -1724,6 +1724,11 @@
       "Time": "2024-01-01T15:09:55.0156357+00:00",
       "NumProgressed": 645,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-01T19:11:28.5217041+00:00",
+      "NumProgressed": 646,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1775,7 +1780,7 @@
       "Name": "Bug Hunter",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "Cryomancer",
@@ -1813,9 +1818,9 @@
       "ID": "GoblinTales",
       "SetID": "82505mn",
       "Name": "Goblin Tales",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 187
+      "UsersEstimate": 181
     },
     {
       "ID": "Hardboiled",
@@ -1855,7 +1860,7 @@
       "Name": "Inquisitor",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "Librarian",
@@ -1863,7 +1868,7 @@
       "Name": "Librarian",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "Lumberjack",
@@ -1919,7 +1924,7 @@
       "Name": "Orcs Must Die!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "Pyromancer",
@@ -1991,7 +1996,7 @@
       "Name": "The End",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "TheFallen",
@@ -2031,7 +2036,7 @@
       "Name": "Troubleshooter",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "WeaponMaster",
@@ -2054,7 +2059,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 645,
+      "Progressed": 646,
       "Completed": 1
     }
   ],
@@ -2062,8 +2067,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2024-01-01T18:10:47.4364711+00:00",
+  "LastChanged_Achievements": "2024-01-01T19:11:28.5217038+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:03.2604081+00:00",
-  "LastUpdate_Ratings": "2024-01-01T18:02:55.0626671+00:00",
-  "LastUpdate_Achievements": "2024-01-01T18:10:47.4365198+00:00"
+  "LastUpdate_Ratings": "2024-01-01T19:02:33.8275008+00:00",
+  "LastUpdate_Achievements": "2024-01-01T19:11:28.5217444+00:00"
 }

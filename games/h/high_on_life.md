@@ -16,13 +16,13 @@ Rating: 4.65 (Ranked 322)
 | We're All Very Impressed, Trust Me | 4.00% | ~999 |
 | Who's The Boss? | 4.00% | ~999 |
 | Don't Knife The Hand That Feeds | 4.00% | ~999 |
-| Lezduit! | 3.00% | ~749 |
-| RIP Davey Glutes | 3.00% | ~749 |
-| Legendary Bounty Hunter | 3.00% | ~749 |
-| Hardest Battle In The Game | 3.00% | ~749 |
-| Self-Actualization | 3.00% | ~749 |
-| Fallout Doesn't Let You Do This | 3.00% | ~749 |
-| Spent 15 Hours At The Alien Strip Club | 3.00% | ~749 |
+| Lezduit! | 3.00% | ~750 |
+| RIP Davey Glutes | 3.00% | ~750 |
+| Legendary Bounty Hunter | 3.00% | ~750 |
+| Hardest Battle In The Game | 3.00% | ~750 |
+| Self-Actualization | 3.00% | ~750 |
+| Fallout Doesn't Let You Do This | 3.00% | ~750 |
+| Spent 15 Hours At The Alien Strip Club | 3.00% | ~750 |
 | Eatin' Good in the Neighborhood | 2.00% | ~500 |
 | Eye Scream, You Scream | 2.00% | ~500 |
 | Series Wrap on Suit-O | 2.00% | ~500 |
@@ -30,7 +30,7 @@ Rating: 4.65 (Ranked 322)
 | Gunning For Your Job | 1.00% | ~250 |
 | We Came, We Chainsaw, We Conquered | 1.00% | ~23 |
 | We Paid For The Rights To Put A Whole Movie In Here | 0.90% | ~225 |
-| Mux Ado About Shipping | 0.90% | ~20 |
+| Mux Ado About Shipping | 0.90% | ~21 |
 | Fall In Love With A Parasite | 0.60% | ~14 |
 | Sequel-Bait | 0.50% | ~125 |
 | Playing Favorites | 0.40% | ~100 |
@@ -50,7 +50,7 @@ Rating: 4.65 (Ranked 322)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,983 (Ranked 145)  
+Progressed: 24,986 (Ranked 145)  
 Completed: 14 (0.06%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 14 (0.06%) (Ranked 326)
 | 2023-12-29 | 24,937 | 14 |
 | 2023-12-30 | 24,947 | 14 |
 | 2023-12-31 | 24,971 | 14 |
-| 2024-01-01 | 24,983 | 14 |
+| 2024-01-01 | 24,986 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

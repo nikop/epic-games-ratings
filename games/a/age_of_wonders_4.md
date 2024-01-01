@@ -5,12 +5,12 @@ Rating: 4.63 (Ranked 358)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 13.00% | ~868 |
-| Realm Estate | 11.00% | ~735 |
+| Secret Technique | 13.00% | ~869 |
+| Realm Estate | 12.00% | ~802 |
 | A Wonderful Discovery | 11.00% | ~735 |
 | Walls Cannot Stop Us | 10.00% | ~668 |
 | From Friends to Family | 9.00% | ~601 |
-| Bone Peddler | 8.00% | ~534 |
+| Bone Peddler | 8.00% | ~535 |
 | Magical Synergy | 7.00% | ~468 |
 | There Can Only Be One! | 6.00% | ~401 |
 | Full Ascension | 6.00% | ~401 |
@@ -24,7 +24,6 @@ Rating: 4.63 (Ranked 358)
 | Return of the Wizard King | 3.00% | ~200 |
 | Enchanted Archipelago | 3.00% | ~200 |
 | Digging for Treasure | 3.00% | ~200 |
-| Preparation Is Everything | 3.00% | ~200 |
 | Fiery Friend | 3.00% | ~200 |
 | Against the Odds | 3.00% | ~200 |
 | Impenetrable Fortress | 3.00% | ~200 |
@@ -32,6 +31,7 @@ Rating: 4.63 (Ranked 358)
 | Arch Mage | 2.00% | ~134 |
 | The Creator | 2.00% | ~134 |
 | Crimson Caldera | 2.00% | ~134 |
+| Preparation Is Everything | 2.00% | ~134 |
 | Here be Dragons | 2.00% | ~134 |
 | Tipping the Scales | 2.00% | ~134 |
 | Blood of the Dragon | 2.00% | ~134 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 358)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,679 (Ranked 195)  
+Progressed: 6,683 (Ranked 195)  
 Completed: 7 (0.10%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,11 +290,11 @@ Completed: 7 (0.10%) (Ranked 304)
 | 2023-12-29 | 6,495 | 7 |
 | 2023-12-30 | 6,566 | 7 |
 | 2023-12-31 | 6,624 | 7 |
-| 2024-01-01 | 6,679 | 7 |
+| 2024-01-01 | 6,683 | 7 |
 ## Awards
-Max (Great for Beginners): 39  (Ranked 479)  
+Max (Great for Beginners): 39  (Ranked 480)  
 Sum: 184 (Ranked 424)  
-Diff (max vs sum): 55  
+Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 39 |

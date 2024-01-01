@@ -8,8 +8,8 @@ Number of Ratings: 34  (23.09.2022)
 | ---- | ---------- | ----- |
 | Explorer | 68.00% | ~508 |
 | Cowardice | 61.00% | ~456 |
+| The Breaking Point | 44.00% | ~329 |
 | NO LIFE IS WORTH SAVING... | 44.00% | ~329 |
-| The Breaking Point | 43.00% | ~321 |
 | Eat Lead! | 43.00% | ~321 |
 | Here Comes the Boom | 40.00% | ~299 |
 | Prospector | 39.00% | ~291 |
@@ -33,9 +33,9 @@ Number of Ratings: 34  (23.09.2022)
 | Atonement | 17.00% | ~127 |
 | Helping Hand | 17.00% | ~127 |
 | Food Massacre | 17.00% | ~127 |
+| Without a Second Thought | 15.00% | ~112 |
 | Collectibles of Chapter III | 14.00% | ~105 |
 | Collectibles of Chapter IV | 14.00% | ~105 |
-| Without a Second Thought | 14.00% | ~105 |
 | Tiptoe Around | 11.00% | ~82 |
 | Collectibles of Chapter V | 10.00% | ~75 |
 | Such is War! | 8.00% | ~60 |

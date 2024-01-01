@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marc Allard | 75.00% | ~63 |
-| Little ideas | 73.00% | ~61 |
-| The Ship | 69.00% | ~58 |
-| Seeking the truth | 55.00% | ~46 |
-| An old friend | 52.00% | ~44 |
-| The Gala | 51.00% | ~43 |
-| A curious gathering | 49.00% | ~41 |
-| Little grey cells | 48.00% | ~40 |
-| Impossible is possible | 48.00% | ~40 |
-| The Missing Magdalene | 48.00% | ~40 |
-| Arthur Hastings | 48.00% | ~40 |
-| Everything matters | 43.00% | ~36 |
-| An expert mediator | 42.00% | ~35 |
-| DI Hardwicke | 42.00% | ~35 |
-| Order and method | 37.00% | ~31 |
-| Betty Allen | 37.00% | ~31 |
-| The Investigation Begins | 35.00% | ~29 |
+| Marc Allard | 76.00% | ~65 |
+| Little ideas | 73.00% | ~62 |
+| The Ship | 69.00% | ~59 |
+| Seeking the truth | 55.00% | ~47 |
+| An old friend | 53.00% | ~45 |
+| The Gala | 52.00% | ~44 |
+| A curious gathering | 49.00% | ~42 |
+| Little grey cells | 48.00% | ~41 |
+| Impossible is possible | 48.00% | ~41 |
+| Arthur Hastings | 48.00% | ~41 |
+| The Missing Magdalene | 47.00% | ~40 |
+| Everything matters | 42.00% | ~36 |
+| An expert mediator | 41.00% | ~35 |
+| DI Hardwicke | 41.00% | ~35 |
+| Order and method | 36.00% | ~31 |
+| Betty Allen | 36.00% | ~31 |
+| The Investigation Begins | 34.00% | ~29 |
 | Ms. Camilla B. Culsham | 31.00% | ~26 |
 | Irene Court-Smyth | 31.00% | ~26 |
-| An odd series of events | 30.00% | ~25 |
-| The Apartment | 30.00% | ~25 |
+| An odd series of events | 29.00% | ~25 |
+| The Apartment | 29.00% | ~25 |
 | Nathaniel Dryden | 27.00% | ~23 |
 | A rude awakening | 26.00% | ~22 |
 | Bartholomew | 26.00% | ~22 |
@@ -32,13 +32,13 @@
 | Anastasia Babanin | 25.00% | ~21 |
 | The Scheme | 25.00% | ~21 |
 | Zakariya Demir | 24.00% | ~20 |
-| Truth from within | 23.00% | ~19 |
+| Truth from within | 22.00% | ~19 |
 | A curious phrase | 19.00% | ~16 |
 | The Suspects | 19.00% | ~16 |
 | Evelyn Lakshmi Warbeck | 18.00% | ~15 |
-| Horace Mountjoy | 17.00% | ~14 |
-| Johan Kristiansen | 17.00% | ~14 |
-| The Secrets | 17.00% | ~14 |
+| Horace Mountjoy | 16.00% | ~14 |
+| Johan Kristiansen | 16.00% | ~14 |
+| The Secrets | 16.00% | ~14 |
 | Well-travelled | 15.00% | ~13 |
 | A peculiar fellow | 15.00% | ~13 |
 | Mortimer Ailsworth | 15.00% | ~13 |
@@ -51,8 +51,8 @@
 | A perilous journey | 11.00% | ~9 |
 | Perkins | 7.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 84 (Ranked 502)  
-Completed: 3 (3.57%) (Ranked 98)  
+Progressed: 85 (Ranked 502)  
+Completed: 3 (3.53%) (Ranked 100)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -107,4 +107,4 @@ Completed: 3 (3.57%) (Ranked 98)
 | 2023-12-29 | 77 | 3 |
 | 2023-12-30 | 82 | 3 |
 | 2023-12-31 | 83 | 3 |
-| 2024-01-01 | 84 | 3 |
+| 2024-01-01 | 85 | 3 |

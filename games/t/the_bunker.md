@@ -8,30 +8,30 @@
 | The Routine | 80.00% | ~134 |
 | Mother | 78.00% | ~131 |
 | Failure | 76.00% | ~128 |
-| Replace Fuse | 67.00% | ~113 |
-| Alarm | 65.00% | ~109 |
-| Air Filtration | 63.00% | ~106 |
-| Broken | 60.00% | ~101 |
-| Radiation | 59.00% | ~99 |
-| Descent | 57.00% | ~96 |
-| Awakenings | 57.00% | ~96 |
+| Replace Fuse | 68.00% | ~114 |
+| Alarm | 67.00% | ~113 |
+| Air Filtration | 64.00% | ~108 |
+| Broken | 61.00% | ~102 |
+| Radiation | 60.00% | ~101 |
+| Descent | 58.00% | ~97 |
+| Awakenings | 58.00% | ~97 |
 | Cold Storage | 57.00% | ~96 |
 | Sam | 57.00% | ~96 |
-| Soldier | 51.00% | ~86 |
+| Soldier | 52.00% | ~87 |
+| Churchill | 51.00% | ~86 |
 | Leave | 50.00% | ~84 |
 | Commissioner | 50.00% | ~84 |
-| Churchill | 49.00% | ~82 |
-| Engineer | 48.00% | ~81 |
+| Engineer | 49.00% | ~82 |
 | Doctor | 46.00% | ~77 |
 | Press Play | 36.00% | ~60 |
 | General | 27.00% | ~45 |
 | Bookworm | 26.00% | ~44 |
 | Floppy Disk Finder | 16.00% | ~27 |
 | Stay | 13.00% | ~22 |
-| Nurse | 10.00% | ~17 |
+| Nurse | 11.00% | ~18 |
 | No Page Unturned | 6.00% | ~10 |
+| Friends | 6.00% | ~10 |
 | The Missing Piece | 6.00% | ~10 |
-| Friends | 5.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 168 (Ranked 436)  
 Completed: 7 (4.17%) (Ranked 89)  

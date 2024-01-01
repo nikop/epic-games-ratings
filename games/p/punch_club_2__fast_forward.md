@@ -50,12 +50,13 @@
 | The die is cast | 34.00% | ~175 |
 | Poisoned fighter | 33.00% | ~170 |
 | Get out of my apartment! | 33.00% | ~170 |
-| Gang wrangler | 31.00% | ~159 |
+| Gang wrangler | 32.00% | ~164 |
 | Seashell hunter | 31.00% | ~159 |
 | Undercover robot | 31.00% | ~159 |
 | Problems of cyborgs | 30.00% | ~154 |
 | Absolute Champion! | 30.00% | ~154 |
 | Not little hacker | 29.00% | ~149 |
+| Trap disarmed | 28.00% | ~144 |
 | Another world | 28.00% | ~144 |
 | The lonesome road | 28.00% | ~144 |
 | Keep nature safe | 28.00% | ~144 |
@@ -66,7 +67,6 @@
 | Anyone can resist | 28.00% | ~144 |
 | The heart of the Resistance | 28.00% | ~144 |
 | Your own way | 28.00% | ~144 |
-| Trap disarmed | 27.00% | ~139 |
 | Silver’s past | 25.00% | ~128 |
 | Better cooking at home | 25.00% | ~128 |
 | The only right decision | 25.00% | ~128 |

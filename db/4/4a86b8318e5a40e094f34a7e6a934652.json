@@ -2,10 +2,10 @@
   "ID": "4a86b8318e5a40e094f34a7e6a934652",
   "Name": "I Am Future - Cozy Apocalypse Survival",
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
-  "Ranking_EOS_Progress": 354,
+  "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 448,
+  "EOS_Progressed": 449,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.67,
   "EosHistory": [
@@ -1899,6 +1899,11 @@
       "Time": "2024-01-01T18:04:31.7748975+00:00",
       "NumProgressed": 448,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-01T19:04:50.6537591+00:00",
+      "NumProgressed": 449,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -1911,7 +1916,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 90,
       "XP": 50,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -1919,7 +1924,7 @@
       "Name": "Design Engineer",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "BRING_MARY",
@@ -1927,15 +1932,15 @@
       "Name": "Retro Diva",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "BRING_PROSPERO",
       "SetID": "aniflfk",
       "Name": "Amusement Park",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 179
+      "UsersEstimate": 175
     },
     {
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
@@ -1967,7 +1972,7 @@
       "Name": "Off on an Expedition!",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -2055,7 +2060,7 @@
       "Name": "Uppies!",
       "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -2070,14 +2075,14 @@
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 448,
+      "Progressed": 449,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2024-01-01T18:04:31.7748972+00:00",
+  "LastChanged_Achievements": "2024-01-01T19:04:50.6537587+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:54.5394751+00:00",
-  "LastUpdate_Ratings": "2024-01-01T18:03:08.9369406+00:00",
-  "LastUpdate_Achievements": "2024-01-01T18:04:31.7749204+00:00"
+  "LastUpdate_Ratings": "2024-01-01T19:03:20.6752218+00:00",
+  "LastUpdate_Achievements": "2024-01-01T19:04:50.6537834+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -331,9 +331,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24983,
+  "EOS_Progressed": 24986,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -8546,6 +8546,11 @@
       "Time": "2024-01-01T18:08:52.6309342+00:00",
       "NumProgressed": 24983,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-01T19:09:27.8631352+00:00",
+      "NumProgressed": 24986,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -8629,7 +8634,7 @@
       "Name": "Lezduit!",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "ACH_GET_MAGBOOTS",
@@ -8637,7 +8642,7 @@
       "Name": "RIP Davey Glutes",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "ACH_GET_SWEEZY",
@@ -8701,7 +8706,7 @@
       "Name": "Legendary Bounty Hunter",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "ACH_KILL_GIBLETS",
@@ -8709,7 +8714,7 @@
       "Name": "Hardest Battle In The Game",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "ACH_KILL_KRUBIS",
@@ -8725,7 +8730,7 @@
       "Name": "Self-Actualization",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "ACH_KILL_SKRENDELS",
@@ -8741,7 +8746,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -8781,7 +8786,7 @@
       "Name": "Spent 15 Hours At The Alien Strip Club",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "ACH_NOT_KENNY",
@@ -8829,7 +8834,7 @@
       "Name": "Mux Ado About Shipping",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_FIND_ALL_LANDMARKS",
@@ -8908,13 +8913,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24983,
+      "Progressed": 24986,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 2276,
+      "Progressed": 2279,
       "Completed": 1376
     }
   ],
@@ -8922,8 +8927,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-12-27T23:03:01.2851601+00:00",
-  "LastChanged_Achievements": "2024-01-01T18:08:52.630934+00:00",
+  "LastChanged_Achievements": "2024-01-01T19:09:27.8631348+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:22.3334267+00:00",
-  "LastUpdate_Ratings": "2024-01-01T18:03:20.5607846+00:00",
-  "LastUpdate_Achievements": "2024-01-01T18:08:52.6309997+00:00"
+  "LastUpdate_Ratings": "2024-01-01T19:03:33.6065152+00:00",
+  "LastUpdate_Achievements": "2024-01-01T19:09:27.8632121+00:00"
 }

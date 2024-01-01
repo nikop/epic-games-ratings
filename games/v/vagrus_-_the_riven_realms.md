@@ -9,12 +9,12 @@
 | The Package | 28.00% | ~75 |
 | Conquered | 19.00% | ~51 |
 | Randomized | 18.00% | ~48 |
-| Scribe | 11.00% | ~29 |
-| Breached | 11.00% | ~29 |
+| Scribe | 11.00% | ~30 |
+| Breached | 11.00% | ~30 |
 | Conciliator | 9.00% | ~24 |
 | Tactician | 9.00% | ~24 |
 | Fight Another Day | 9.00% | ~24 |
-| Taskmaster | 8.00% | ~21 |
+| Taskmaster | 8.00% | ~22 |
 | Acquaintance | 7.00% | ~19 |
 | Tail-wind | 7.00% | ~19 |
 | Scholar | 6.00% | ~16 |
@@ -104,7 +104,7 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 268 (Ranked 402)  
+Progressed: 269 (Ranked 401)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-29 | 254 | 0 |
 | 2023-12-30 | 258 | 0 |
 | 2023-12-31 | 267 | 0 |
-| 2024-01-01 | 268 | 0 |
+| 2024-01-01 | 269 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,10 +6,10 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~7,475 |
+| A Brief Tour of the Realms | 3.00% | ~7,476 |
 | The Cursed Farmer | 1.00% | ~2,492 |
 | Beast Intentions | 0.90% | ~2,243 |
-| The Mad Wizard | 0.80% | ~1,993 |
+| The Mad Wizard | 0.80% | ~1,994 |
 | Welcome to Sigil | 0.80% | ~1,724 |
 | Fast Food | 0.60% | ~1,293 |
 | The Ring of Regeneration | 0.50% | ~1,246 |
@@ -25,6 +25,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Don't Lose Your Head | 0.40% | ~862 |
 | Mind Spike | 0.40% | ~862 |
 | A Persistent Buzzing | 0.30% | ~748 |
+| Terror in the Dark | 0.30% | ~748 |
 | Pure Energy | 0.30% | ~748 |
 | Arcane Suppression | 0.30% | ~646 |
 | Welcome to the Vrocks | 0.30% | ~646 |
@@ -32,7 +33,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Chaos Theory | 0.30% | ~646 |
 | Maddening | 0.20% | ~498 |
 | Beast Mode | 0.20% | ~498 |
-| Terror in the Dark | 0.20% | ~498 |
 | Low Initiative | 0.20% | ~498 |
 | A Mysterious Summons | 0.20% | ~498 |
 | Building Trust | 0.20% | ~498 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~215 |
 | The Brains of an Illithid's Desire | 0.10% | ~215 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,167 (Ranked 70)  
+Progressed: 249,198 (Ranked 70)  
 Completed: 2,583 (1.04%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -809,7 +809,7 @@ Completed: 2,583 (1.04%) (Ranked 170)
 | 2023-12-29 | 247,120 | 2,575 |
 | 2023-12-30 | 247,917 | 2,578 |
 | 2023-12-31 | 248,665 | 2,581 |
-| 2024-01-01 | 249,167 | 2,583 |
+| 2024-01-01 | 249,198 | 2,583 |
 ## Awards
 Max (Great for Beginners): 5,726  (Ranked 71)  
 Sum: 33,249 (Ranked 41)  

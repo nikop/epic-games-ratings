@@ -10,6 +10,7 @@
 | Interesting | 21.00% | ~6 |
 | Amateur photographer | 14.00% | ~4 |
 | Rescuer | 11.00% | ~3 |
+| In search of knowledge | 11.00% | ~3 |
 | Power of the turtle | 11.00% | ~3 |
 | Power of the dolphin | 11.00% | ~3 |
 | Power of the ray | 11.00% | ~3 |
@@ -21,7 +22,6 @@
 | Picture of the bay | 7.00% | ~2 |
 | Picture of the atoll | 7.00% | ~2 |
 | Picture of the reef | 7.00% | ~2 |
-| In search of knowledge | 7.00% | ~2 |
 | Animal reporter | 4.00% | ~1 |
 | Creek cleanup | 4.00% | ~1 |
 | Atoll cleanup | 4.00% | ~1 |

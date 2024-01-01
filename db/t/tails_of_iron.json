@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 342,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -266,9 +266,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2299,
+  "EOS_Progressed": 2301,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -4251,6 +4251,11 @@
       "Time": "2024-01-01T16:05:25.2097074+00:00",
       "NumProgressed": 2299,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-01T19:07:03.1517511+00:00",
+      "NumProgressed": 2301,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 36,
@@ -4260,9 +4265,9 @@
       "ID": "BecomeKing",
       "SetID": "9lj35g4",
       "Name": "Become King",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 46
     },
     {
       "ID": "Collect20Gold",
@@ -4318,7 +4323,7 @@
       "Name": "Complete Arena Faction",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "CompleteChefsBook",
@@ -4332,9 +4337,9 @@
       "ID": "CompleteElderFaction",
       "SetID": "9lj35g4",
       "Name": "Complete Elder Faction",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "CompleteGuardFaction",
@@ -4350,7 +4355,7 @@
       "Name": "Complete Ranger Faction",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "CompleteStoryDM",
@@ -4380,9 +4385,9 @@
       "ID": "DefeatRatnorRodentson",
       "SetID": "9lj35g4",
       "Name": "Defeat Ratnor Rodentson",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "DefeatRattusAugustus",
@@ -4540,22 +4545,22 @@
       "ID": "TravelToBrightFirForest",
       "SetID": "cbf1i0c",
       "Name": "The Bright Fir",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 19
     }
   ],
   "AchievementSets": [
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2299,
+      "Progressed": 2301,
       "Completed": 12
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 940,
+      "Progressed": 942,
       "Completed": 911
     }
   ],
@@ -4563,8 +4568,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-12-23T19:58:55.6551134+00:00",
-  "LastChanged_Achievements": "2024-01-01T18:06:35.9569103+00:00",
+  "LastChanged_Achievements": "2024-01-01T19:07:03.1517508+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:25.3230554+00:00",
-  "LastUpdate_Ratings": "2024-01-01T17:59:35.4402944+00:00",
-  "LastUpdate_Achievements": "2024-01-01T18:06:35.9569682+00:00"
+  "LastUpdate_Ratings": "2024-01-01T18:59:55.9590679+00:00",
+  "LastUpdate_Achievements": "2024-01-01T19:07:03.1517899+00:00"
 }

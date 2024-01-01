@@ -2,10 +2,10 @@
   "ID": "341b8002fa094d72905999eb8aa900b1",
   "Name": "Doodle Devil",
   "ProductSlug": "doodle-devil-8e65af",
-  "Ranking_EOS_Progress": 499,
+  "Ranking_EOS_Progress": 498,
   "Ranking_EOS_Completed": 21,
-  "Ranking_EOS_NewPlayers": 573,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 528,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-07-01T17:00:00+00:00",
     "PcReleaseDate": "2017-05-25T00:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 89,
+  "EOS_Progressed": 90,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 21.35,
+  "EOS_Completed_Percentage": 21.11,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:19.0754835+00:00",
@@ -150,6 +150,11 @@
       "Time": "2023-12-26T08:05:54.3045689+00:00",
       "NumProgressed": 89,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2024-01-01T19:06:47.0622026+00:00",
+      "NumProgressed": 90,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 9,
@@ -159,7 +164,7 @@
       "ID": "701312",
       "SetID": "3n3mm3c",
       "Name": "Master of Sins",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 100,
       "UsersEstimate": 57
     },
@@ -175,7 +180,7 @@
       "ID": "701332",
       "SetID": "3n3mm3c",
       "Name": "Lucky Strike",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 50,
       "UsersEstimate": 54
     },
@@ -183,7 +188,7 @@
       "ID": "701382",
       "SetID": "3n3mm3c",
       "Name": "Paradise lost",
-      "Percentage": 97,
+      "Percentage": 96,
       "XP": 50,
       "UsersEstimate": 86
     },
@@ -199,7 +204,7 @@
       "ID": "701402",
       "SetID": "3n3mm3c",
       "Name": "Cardinal Sins",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 100,
       "UsersEstimate": 45
     },
@@ -207,7 +212,7 @@
       "ID": "701422",
       "SetID": "3n3mm3c",
       "Name": "Hellfire",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 150,
       "UsersEstimate": 22
     },
@@ -223,7 +228,7 @@
       "ID": "701442",
       "SetID": "3n3mm3c",
       "Name": "Warm and Fuzzy",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 150,
       "UsersEstimate": 45
     }
@@ -232,7 +237,7 @@
     {
       "ID": "3n3mm3c",
       "IsBase": true,
-      "Progressed": 89,
+      "Progressed": 90,
       "Completed": 19
     }
   ],
@@ -240,8 +245,8 @@
   "FirstSeenRating": "2023-03-31T05:57:51.0518288+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:19.0754842+00:00",
   "LastChanged": "2023-03-31T05:57:51.0518289+00:00",
-  "LastChanged_Achievements": "2024-01-01T18:06:21.0453417+00:00",
+  "LastChanged_Achievements": "2024-01-01T19:06:47.0622021+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:43.5836177+00:00",
-  "LastUpdate_Ratings": "2024-01-01T18:01:15.3653209+00:00",
-  "LastUpdate_Achievements": "2024-01-01T18:06:21.0453492+00:00"
+  "LastUpdate_Ratings": "2024-01-01T19:01:43.1843942+00:00",
+  "LastUpdate_Achievements": "2024-01-01T19:06:47.0622163+00:00"
 }

@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 914,
+  "EOS_Progressed": 915,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 1.2,
   "EosHistory": [
@@ -2510,6 +2510,11 @@
       "Time": "2024-01-01T18:10:05.603468+00:00",
       "NumProgressed": 914,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-01T19:10:43.8475118+00:00",
+      "NumProgressed": 915,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 20,
@@ -2521,7 +2526,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "CHOICES_MATTER",
@@ -2569,7 +2574,7 @@
       "Name": "The Delivery",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "ENDING_6",
@@ -2577,7 +2582,7 @@
       "Name": "The Bribe",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "ENDING_7",
@@ -2585,7 +2590,7 @@
       "Name": "The Frenzy",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "EVEN_TEMPERED",
@@ -2655,9 +2660,9 @@
       "ID": "SABOTAGE",
       "SetID": "8eejhlh",
       "Name": "Sabotage",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 75,
-      "UsersEstimate": 101
+      "UsersEstimate": 92
     },
     {
       "ID": "SHILL_BIDDER",
@@ -2680,7 +2685,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 914,
+      "Progressed": 915,
       "Completed": 11
     }
   ],
@@ -2688,8 +2693,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2024-01-01T18:10:05.6034678+00:00",
+  "LastChanged_Achievements": "2024-01-01T19:10:43.8475116+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:05.9335088+00:00",
-  "LastUpdate_Ratings": "2024-01-01T18:02:59.8884468+00:00",
-  "LastUpdate_Achievements": "2024-01-01T18:10:05.6034939+00:00"
+  "LastUpdate_Ratings": "2024-01-01T19:02:39.380837+00:00",
+  "LastUpdate_Achievements": "2024-01-01T19:10:43.8475602+00:00"
 }

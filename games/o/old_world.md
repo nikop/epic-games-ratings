@@ -22,6 +22,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Oracle | 0.70% | ~112 |
 | Trade Caravan | 0.70% | ~112 |
 | Ambitious | 0.60% | ~96 |
+| Enlightened | 0.60% | ~96 |
 | Glorious | 0.60% | ~96 |
 | Just | 0.60% | ~96 |
 | Keystone | 0.60% | ~96 |
@@ -34,10 +35,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Naming Landmarks | 0.60% | ~96 |
 | Regicide | 0.50% | ~80 |
 | Brilliant | 0.50% | ~80 |
-| Enlightened | 0.50% | ~80 |
 | Fountainhead | 0.50% | ~80 |
 | Magnificent | 0.50% | ~80 |
 | Warrior | 0.50% | ~80 |
+| Wise | 0.50% | ~80 |
 | Ishtar Gate | 0.50% | ~80 |
 | Lighthouse | 0.50% | ~80 |
 | Learn to Play 1 | 0.50% | ~80 |
@@ -47,13 +48,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Zoroastrianism | 0.50% | ~80 |
 | Great | 0.40% | ~64 |
 | Intercessor | 0.40% | ~64 |
-| Wise | 0.40% | ~64 |
 | Legendary Cities | 0.40% | ~64 |
 | Able Difficulty | 0.40% | ~64 |
 | Furious Family | 0.40% | ~64 |
 | Acropolis | 0.40% | ~64 |
 | Apadana | 0.40% | ~64 |
 | Great Ziggurat | 0.40% | ~64 |
+| Mausoleum | 0.40% | ~64 |
 | Musaeum | 0.40% | ~64 |
 | Necropolis | 0.40% | ~64 |
 | Learn to Play 2 | 0.40% | ~64 |
@@ -71,7 +72,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Sages | 0.30% | ~48 |
 | Hittite Iron | 0.30% | ~48 |
 | Colossus | 0.30% | ~48 |
-| Mausoleum | 0.30% | ~48 |
 | Learn to Play 3 | 0.30% | ~48 |
 | Egyptian Paganism | 0.30% | ~48 |
 | Building Wonders | 0.30% | ~48 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,065 (Ranked 166)  
+Progressed: 16,066 (Ranked 166)  
 Completed: 5 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -621,7 +621,7 @@ Completed: 5 (0.03%) (Ranked 350)
 | 2023-12-29 | 16,011 | 5 |
 | 2023-12-30 | 16,036 | 5 |
 | 2023-12-31 | 16,053 | 5 |
-| 2024-01-01 | 16,065 | 5 |
+| 2024-01-01 | 16,066 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 283)  
 Sum: 1,912 (Ranked 220)  

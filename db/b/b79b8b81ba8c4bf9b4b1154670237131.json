@@ -5,10 +5,10 @@
   "Ranking_Rating": 860,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
-  "Ranking_EOS_Progress": 164,
+  "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 311,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
     "PcReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -167,10 +167,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16236,
+  "EOS_Progressed": 16239,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 406,
-  "EOS_NewCompleters": 1,
+  "EOS_NewPlayers": 402,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
     {
@@ -5567,6 +5567,11 @@
       "Time": "2024-01-01T18:10:01.7747511+00:00",
       "NumProgressed": 16236,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-01T19:10:40.0998706+00:00",
+      "NumProgressed": 16239,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -5579,7 +5584,7 @@
       "Name": "Revelations",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 6170
+      "UsersEstimate": 6171
     },
     {
       "ID": "ACH_AE_10",
@@ -5587,7 +5592,7 @@
       "Name": "Together We Fight",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1462
     },
     {
       "ID": "ACH_AE_11",
@@ -5611,7 +5616,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 12177
+      "UsersEstimate": 12179
     },
     {
       "ID": "ACH_AE_14",
@@ -5627,7 +5632,7 @@
       "Name": "Right Back At You",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3572
+      "UsersEstimate": 3573
     },
     {
       "ID": "ACH_AE_16",
@@ -5651,7 +5656,7 @@
       "Name": "Crime Fighter",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "ACH_AE_19",
@@ -5667,7 +5672,7 @@
       "Name": "Back to School",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3734
+      "UsersEstimate": 3735
     },
     {
       "ID": "ACH_AE_20",
@@ -5811,7 +5816,7 @@
       "Name": "The Bomb",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1948
+      "UsersEstimate": 1949
     },
     {
       "ID": "ACH_AE_5",
@@ -5819,7 +5824,7 @@
       "Name": "Bad Chemistry",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1948
+      "UsersEstimate": 1949
     },
     {
       "ID": "ACH_AE_6",
@@ -5827,7 +5832,7 @@
       "Name": "Betrayal",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1462
     },
     {
       "ID": "ACH_AE_7",
@@ -5851,14 +5856,14 @@
       "Name": "Paradise Lost",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1462
     }
   ],
   "AchievementSets": [
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16236,
+      "Progressed": 16239,
       "Completed": 15
     }
   ],
@@ -5866,8 +5871,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-27T16:00:31.0909826+00:00",
-  "LastChanged_Achievements": "2024-01-01T18:10:01.7747507+00:00",
+  "LastChanged_Achievements": "2024-01-01T19:10:40.0998704+00:00",
   "LastUpdate_AppInfo": "2023-12-26T18:57:07.3435183+00:00",
-  "LastUpdate_Ratings": "2024-01-01T17:58:42.201687+00:00",
-  "LastUpdate_Achievements": "2024-01-01T18:10:01.774847+00:00"
+  "LastUpdate_Ratings": "2024-01-01T18:58:56.9090158+00:00",
+  "LastUpdate_Achievements": "2024-01-01T19:10:40.0999166+00:00"
 }

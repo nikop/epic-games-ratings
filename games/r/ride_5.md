@@ -13,7 +13,7 @@ Rating: 4.52 (Ranked 573)
 | Bitter Rivalry | 30.00% | ~957 |
 | Champagne Spray | 28.00% | ~893 |
 | We're Going to Need a Bigger Garage | 26.00% | ~829 |
-| Quick Pit Stop | 21.00% | ~670 |
+| Quick Pit Stop | 22.00% | ~702 |
 | Restored and Ready | 20.00% | ~638 |
 | I Want One Too! | 20.00% | ~638 |
 | Legendary!!! | 20.00% | ~638 |

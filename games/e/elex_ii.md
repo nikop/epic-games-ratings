@@ -8,12 +8,12 @@ Number of Ratings: 124  (23.09.2022)
 | ---- | ---------- | ----- |
 | Entrepreneur | 33.00% | ~53 |
 | Best Buddy | 28.00% | ~45 |
+| Civilian | 25.00% | ~40 |
 | Role Model | 24.00% | ~38 |
-| Civilian | 24.00% | ~38 |
 | Peddler | 19.00% | ~30 |
 | Military Leader | 19.00% | ~30 |
 | Creator | 19.00% | ~30 |
-| Festival-goer | 18.00% | ~29 |
+| Festival-goer | 19.00% | ~30 |
 | Commander | 15.00% | ~24 |
 | Long-Haul Flyer | 13.00% | ~21 |
 | Pass A38 | 13.00% | ~21 |
@@ -26,11 +26,11 @@ Number of Ratings: 124  (23.09.2022)
 | Alb | 7.00% | ~11 |
 | Banker | 6.00% | ~10 |
 | Hunter | 6.00% | ~10 |
+| Perfectionist | 5.00% | ~8 |
 | Beam Me Up | 4.00% | ~6 |
 | Hotshot | 4.00% | ~6 |
 | Free as a Bird | 4.00% | ~6 |
 | Cleric | 4.00% | ~6 |
-| Perfectionist | 4.00% | ~6 |
 | Detective | 4.00% | ~6 |
 | Lover | 4.00% | ~6 |
 | Treasure Hunter | 3.00% | ~5 |

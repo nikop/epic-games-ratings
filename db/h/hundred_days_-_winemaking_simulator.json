@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 225,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1037,10 +1037,16 @@
       "Rating": 4.35,
       "NumberOfAwards": 1736,
       "NumberOfAwardsMax": 208
+    },
+    {
+      "Time": "2024-01-01T19:03:20.2476809+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 1737,
+      "NumberOfAwardsMax": 208
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1736,
+  "NumberOfAwards": 1737,
   "NumberOfAwardsMax": 208,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -1066,7 +1072,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 203
+      "Count": 204
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1105,9 +1111,9 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 18669,
+  "EOS_Progressed": 18677,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 1135,
+  "EOS_NewPlayers": 1132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -15740,6 +15746,11 @@
       "Time": "2024-01-01T18:10:14.1831236+00:00",
       "NumProgressed": 18669,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-01T19:10:52.791403+00:00",
+      "NumProgressed": 18677,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -15752,7 +15763,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1867
+      "UsersEstimate": 1868
     },
     {
       "ID": "a_10",
@@ -15760,7 +15771,7 @@
       "Name": "What is that? A castle?",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "a_11",
@@ -15768,7 +15779,7 @@
       "Name": "A lot of space",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "a_12",
@@ -15776,7 +15787,7 @@
       "Name": "A big garage",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "a_15",
@@ -15792,7 +15803,7 @@
       "Name": "Millionaire",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "a_18",
@@ -15800,7 +15811,7 @@
       "Name": "Bye Bye",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 8028
+      "UsersEstimate": 8031
     },
     {
       "ID": "a_19",
@@ -15816,7 +15827,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "a_20",
@@ -15824,7 +15835,7 @@
       "Name": "The Assistant",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "a_21",
@@ -15832,7 +15843,7 @@
       "Name": "The Blue Marl",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "a_22",
@@ -15856,7 +15867,7 @@
       "Name": "Better than nothing?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "a_26",
@@ -15864,7 +15875,7 @@
       "Name": "Exotic",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "a_27",
@@ -15880,7 +15891,7 @@
       "Name": "Pastry Chef",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "a_3",
@@ -15936,7 +15947,7 @@
       "Name": "Welcome to the club",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "a_36",
@@ -15992,23 +16003,23 @@
       "Name": "Very Important Winemaker",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     }
   ],
   "AchievementSets": [
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 18669,
+      "Progressed": 18677,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:20:15.0097479+00:00",
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
-  "LastChanged": "2023-12-27T10:58:40.8627421+00:00",
-  "LastChanged_Achievements": "2024-01-01T18:10:14.1831233+00:00",
+  "LastChanged": "2024-01-01T19:03:20.2476808+00:00",
+  "LastChanged_Achievements": "2024-01-01T19:10:52.7914026+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:46.499135+00:00",
-  "LastUpdate_Ratings": "2024-01-01T18:03:08.4743861+00:00",
-  "LastUpdate_Achievements": "2024-01-01T18:10:14.1832427+00:00"
+  "LastUpdate_Ratings": "2024-01-01T19:03:20.2476812+00:00",
+  "LastUpdate_Achievements": "2024-01-01T19:10:52.7914922+00:00"
 }

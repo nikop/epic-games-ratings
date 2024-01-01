@@ -1,29 +1,29 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.55 (Ranked 523)  
+Rating: 4.55 (Ranked 522)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~14,505 |
-| Pay 'n' Spray | 50.00% | ~8,954 |
-| All Dressed Up for San Fierro | 25.00% | ~4,477 |
-| The American Dream | 19.00% | ~3,402 |
-| School's Out | 18.00% | ~3,223 |
-| Smooth Moves | 17.00% | ~3,044 |
-| Today Was a Good Day | 15.00% | ~2,686 |
-| What happens in Las Venturas... | 14.00% | ~2,507 |
-| Horror of the Santa Maria | 10.00% | ~1,791 |
-| Liberty City State of Mind | 9.00% | ~1,612 |
-| Original Gangster | 8.00% | ~1,433 |
-| With Extra Dip | 7.00% | ~1,253 |
-| The End of the Line | 7.00% | ~1,253 |
-| Saviour | 6.00% | ~1,074 |
-| Rescue a Kitten Too? | 5.00% | ~895 |
-| They Can’t Stop All of Us | 4.00% | ~716 |
-| What are the Odds | 4.00% | ~716 |
-| Bike or Biker | 3.00% | ~537 |
-| What the City Needs | 3.00% | ~537 |
+| Getting Started | 81.00% | ~14,515 |
+| Pay 'n' Spray | 50.00% | ~8,960 |
+| All Dressed Up for San Fierro | 25.00% | ~4,480 |
+| The American Dream | 19.00% | ~3,405 |
+| School's Out | 18.00% | ~3,226 |
+| Smooth Moves | 17.00% | ~3,046 |
+| Today Was a Good Day | 15.00% | ~2,688 |
+| What happens in Las Venturas... | 14.00% | ~2,509 |
+| Horror of the Santa Maria | 10.00% | ~1,792 |
+| Liberty City State of Mind | 9.00% | ~1,613 |
+| Original Gangster | 8.00% | ~1,434 |
+| With Extra Dip | 7.00% | ~1,254 |
+| The End of the Line | 7.00% | ~1,254 |
+| Saviour | 6.00% | ~1,075 |
+| Rescue a Kitten Too? | 5.00% | ~896 |
+| They Can’t Stop All of Us | 4.00% | ~717 |
+| What are the Odds | 4.00% | ~717 |
+| Bike or Biker | 3.00% | ~538 |
+| What the City Needs | 3.00% | ~538 |
 | A Legitimate Business | 2.00% | ~358 |
 | I’ll Have Two Number 9s | 2.00% | ~358 |
 | Who Needs Directions? | 2.00% | ~358 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 523)
 | ...Here we go again | 0.50% | ~90 |
 | I Ain't No Buster | 0.40% | ~72 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,907 (Ranked 158)  
+Progressed: 17,920 (Ranked 158)  
 Completed: 68 (0.38%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 68 (0.38%) (Ranked 234)
 | 2023-12-29 | 17,467 | 65 |
 | 2023-12-30 | 17,622 | 66 |
 | 2023-12-31 | 17,792 | 67 |
-| 2024-01-01 | 17,907 | 68 |
+| 2024-01-01 | 17,920 | 68 |
 ## Awards
 Max (Relaxing): 49  (Ranked 456)  
 Sum: 320 (Ranked 373)  

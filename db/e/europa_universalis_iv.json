@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -13947,9 +13947,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 489777,
+  "EOS_Progressed": 489818,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5852,
+  "EOS_NewPlayers": 5844,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -43482,6 +43482,11 @@
       "Time": "2024-01-01T18:09:50.5859165+00:00",
       "NumProgressed": 489777,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-01T19:10:29.0442914+00:00",
+      "NumProgressed": 489818,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -45611,9 +45616,9 @@
       "ID": "achievement_stern_des_sudens",
       "SetID": "8p2n7he",
       "Name": "Stern des S\u00FCdens",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 490
     },
     {
       "ID": "achievement_stiff_upper_lippe",
@@ -46396,21 +46401,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 489777,
+      "Progressed": 489818,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 489777,
+      "Progressed": 489818,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2024-01-01T16:00:09.3004047+00:00",
-  "LastChanged_Achievements": "2024-01-01T18:09:50.5859163+00:00",
+  "LastChanged_Achievements": "2024-01-01T19:10:29.0442911+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:39.2428149+00:00",
-  "LastUpdate_Ratings": "2024-01-01T18:01:25.6718912+00:00",
-  "LastUpdate_Achievements": "2024-01-01T18:09:50.5870164+00:00"
+  "LastUpdate_Ratings": "2024-01-01T19:01:53.8113062+00:00",
+  "LastUpdate_Achievements": "2024-01-01T19:10:29.0455531+00:00"
 }

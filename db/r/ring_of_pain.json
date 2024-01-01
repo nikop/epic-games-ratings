@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 299,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3850,9 +3850,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242182,
+  "EOS_Progressed": 242185,
   "EOS_Completed": 302,
-  "EOS_NewPlayers": 498,
+  "EOS_NewPlayers": 500,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -30350,6 +30350,11 @@
       "Time": "2024-01-01T18:10:55.2566263+00:00",
       "NumProgressed": 242182,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2024-01-01T19:11:36.2704418+00:00",
+      "NumProgressed": 242185,
+      "NumCompleted": 302
     }
   ],
   "TotalAchievements": 138,
@@ -30847,9 +30852,9 @@
       "ID": "KILLFROG",
       "SetID": "5l8oe0h",
       "Name": "Goodbye, Frog Friend",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1937
+      "UsersEstimate": 2180
     },
     {
       "ID": "KILLNICEDOG",
@@ -31464,13 +31469,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242182,
+      "Progressed": 242185,
       "Completed": 302
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3662,
+      "Progressed": 3665,
       "Completed": 417
     }
   ],
@@ -31478,8 +31483,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-01T17:57:49.7285816+00:00",
-  "LastChanged_Achievements": "2024-01-01T18:10:55.2566256+00:00",
+  "LastChanged_Achievements": "2024-01-01T19:11:36.2704415+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:01.848225+00:00",
-  "LastUpdate_Ratings": "2024-01-01T17:57:49.7285823+00:00",
-  "LastUpdate_Achievements": "2024-01-01T18:10:55.2568874+00:00"
+  "LastUpdate_Ratings": "2024-01-01T18:58:01.3444979+00:00",
+  "LastUpdate_Achievements": "2024-01-01T19:11:36.2707158+00:00"
 }

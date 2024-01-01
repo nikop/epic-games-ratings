@@ -2,13 +2,13 @@
   "ID": "viola",
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
-  "Ranking_Rating": 523,
+  "Ranking_Rating": 522,
   "Ranking_Popularity": 498,
   "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4400,
+  "EOS_Progressed": 4401,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -7456,6 +7456,11 @@
       "Time": "2024-01-01T18:07:08.5376737+00:00",
       "NumProgressed": 4400,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-01T19:07:37.1123+00:00",
+      "NumProgressed": 4401,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -7659,7 +7664,7 @@
       "Name": "Ready for Winter",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 2728
+      "UsersEstimate": 2729
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -7787,7 +7792,7 @@
       "Name": "Venture Outward",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3212
+      "UsersEstimate": 3213
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -7802,15 +7807,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4400,
+      "Progressed": 4401,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2024-01-01T18:07:08.5376734+00:00",
+  "LastChanged_Achievements": "2024-01-01T19:07:37.1122997+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:23.571083+00:00",
-  "LastUpdate_Ratings": "2024-01-01T18:03:24.3499114+00:00",
-  "LastUpdate_Achievements": "2024-01-01T18:07:08.5377391+00:00"
+  "LastUpdate_Ratings": "2024-01-01T19:03:37.4777132+00:00",
+  "LastUpdate_Achievements": "2024-01-01T19:07:37.1123551+00:00"
 }

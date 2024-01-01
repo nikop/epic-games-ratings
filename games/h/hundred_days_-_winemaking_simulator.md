@@ -6,27 +6,27 @@ Number of Ratings: 7,669  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 43.00% | ~8,028 |
-| It's a good start | 10.00% | ~1,867 |
+| Bye Bye | 43.00% | ~8,031 |
+| It's a good start | 10.00% | ~1,868 |
 | Bonjour! | 8.00% | ~1,494 |
 | Quack | 8.00% | ~1,494 |
-| The Assistant | 6.00% | ~1,120 |
-| The Blue Marl | 6.00% | ~1,120 |
-| Ostinata | 5.00% | ~933 |
-| Better than nothing? | 5.00% | ~933 |
+| The Assistant | 6.00% | ~1,121 |
+| The Blue Marl | 6.00% | ~1,121 |
+| Ostinata | 5.00% | ~934 |
+| Better than nothing? | 5.00% | ~934 |
 | A long journey | 4.00% | ~747 |
 | Big Money | 3.00% | ~560 |
 | Keep the doctor away | 3.00% | ~560 |
 | Surprise of Langhe | 3.00% | ~560 |
 | Famous | 3.00% | ~560 |
-| What is that? A castle? | 2.00% | ~373 |
-| A lot of space | 2.00% | ~373 |
-| A big garage | 2.00% | ~373 |
-| Millionaire | 2.00% | ~373 |
-| Exotic | 2.00% | ~373 |
-| Pastry Chef | 2.00% | ~373 |
-| Welcome to the club | 2.00% | ~373 |
-| Very Important Winemaker | 2.00% | ~373 |
+| What is that? A castle? | 2.00% | ~374 |
+| A lot of space | 2.00% | ~374 |
+| A big garage | 2.00% | ~374 |
+| Millionaire | 2.00% | ~374 |
+| Exotic | 2.00% | ~374 |
+| Pastry Chef | 2.00% | ~374 |
+| Welcome to the club | 2.00% | ~374 |
+| Very Important Winemaker | 2.00% | ~374 |
 | King of Langhe | 1.00% | ~187 |
 | Gem of Monferrato | 1.00% | ~187 |
 | Treasure of Roero | 0.70% | ~131 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Master Winemaker | 0.10% | ~19 |
 | Unsuitable Terroir | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,669 (Ranked 155)  
+Progressed: 18,677 (Ranked 155)  
 Completed: 13 (0.07%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,16 +167,16 @@ Completed: 13 (0.07%) (Ranked 321)
 | 2023-12-29 | 18,260 | 13 |
 | 2023-12-30 | 18,429 | 13 |
 | 2023-12-31 | 18,558 | 13 |
-| 2024-01-01 | 18,669 | 13 |
+| 2024-01-01 | 18,677 | 13 |
 ## Awards
 Max (Relaxing): 208  (Ranked 292)  
-Sum: 1,736 (Ranked 225)  
+Sum: 1,737 (Ranked 225)  
 Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 208 |
 | This game is Extremely Fun | 205 |
-| This game has Quickly Understood Controls | 203 |
+| This game has Quickly Understood Controls | 204 |
 | This game is Great for Beginners | 202 |
 | This game is Highly Recommended | 195 |
 | This game is Educational | 179 |
@@ -259,3 +259,4 @@ Diff (max vs sum): 67
 | 2023-12-25 | 4.35 | - | 208 | 1,733 |
 | 2023-12-26 | 4.35 | - | 208 | 1,734 |
 | 2023-12-27 | 4.35 | - | 208 | 1,736 |
+| 2024-01-01 | 4.35 | - | 208 | 1,737 |

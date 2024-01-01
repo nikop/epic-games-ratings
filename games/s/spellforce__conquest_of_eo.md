@@ -13,7 +13,7 @@
 | Mine! | 59.00% | ~63 |
 | Harvest Time | 58.00% | ~62 |
 | Artificer's Apprentice | 50.00% | ~54 |
-| Fly the friendly Sky | 46.00% | ~49 |
+| Fly the friendly Sky | 47.00% | ~50 |
 | Get out of here! | 43.00% | ~46 |
 | Alchemist's Apprentice | 37.00% | ~40 |
 | Necromancer's Apprentice | 37.00% | ~40 |
@@ -21,7 +21,7 @@
 | Redecorating | 34.00% | ~36 |
 | The Circle | 34.00% | ~36 |
 | Bad JuJu | 25.00% | ~27 |
-| Slave to the rhythm | 22.00% | ~24 |
+| Slave to the rhythm | 23.00% | ~25 |
 | Friend of Sevenkeeps | 22.00% | ~24 |
 | Castle Meldec | 21.00% | ~22 |
 | Sevenkeeps Seat of Kings | 20.00% | ~21 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 107 (Ranked 481)  
+Progressed: 107 (Ranked 482)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |

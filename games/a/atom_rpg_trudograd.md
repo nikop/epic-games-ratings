@@ -22,8 +22,8 @@ Rating: 4.56 (Ranked 503)
 | Death of the Author | 1.00% | ~14 |
 | Memoirs of a Nibbler | 0.90% | ~12 |
 | Rising Star | 0.90% | ~12 |
-| KGB Bunker | 0.70% | ~9 |
-| Sixth Sense | 0.70% | ~9 |
+| KGB Bunker | 0.70% | ~10 |
+| Sixth Sense | 0.70% | ~10 |
 | Baby Eater | 0.60% | ~8 |
 | Admiral | 0.40% | ~5 |
 | Incompetence | 0.40% | ~5 |
@@ -38,7 +38,7 @@ Rating: 4.56 (Ranked 503)
 | Terrorist | 0.20% | ~3 |
 | Escalation of Conflict | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,357 (Ranked 270)  
+Progressed: 1,358 (Ranked 270)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-29 | 1,345 | 0 |
 | 2023-12-30 | 1,350 | 0 |
 | 2023-12-31 | 1,354 | 0 |
-| 2024-01-01 | 1,357 | 0 |
+| 2024-01-01 | 1,358 | 0 |
 ## Awards
 Max (Character Customization): 26  (Ranked 539)  
 Sum: 26 (Ranked 550)  

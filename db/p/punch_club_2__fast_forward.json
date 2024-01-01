@@ -4,8 +4,8 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 276,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 514,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.75,
   "EosHistory": [
@@ -2128,9 +2128,9 @@
       "ID": "all_promotion_4",
       "SetID": "69co12a",
       "Name": "Gang wrangler",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 164
     },
     {
       "ID": "all_promotion_5",
@@ -2144,9 +2144,9 @@
       "ID": "all_promotion_6",
       "SetID": "69co12a",
       "Name": "Trap disarmed",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 144
     },
     {
       "ID": "another_world",
@@ -2639,8 +2639,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2024-01-01T18:10:19.0949811+00:00",
+  "LastChanged_Achievements": "2024-01-01T19:10:58.1052281+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:36.4340723+00:00",
-  "LastUpdate_Ratings": "2024-01-01T18:01:03.5266772+00:00",
-  "LastUpdate_Achievements": "2024-01-01T18:10:19.0950343+00:00"
+  "LastUpdate_Ratings": "2024-01-01T19:01:30.7401659+00:00",
+  "LastUpdate_Achievements": "2024-01-01T19:10:58.1052995+00:00"
 }

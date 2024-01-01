@@ -5,11 +5,13 @@ Rating: 4.56 (Ranked 503)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Become King | 2.00% | ~46 |
 | Complete Guard Faction | 2.00% | ~46 |
-| Become King | 1.00% | ~23 |
+| The Bright Fir | 2.00% | ~19 |
 | Collect Gold | 1.00% | ~23 |
 | Collect Iron Ore | 1.00% | ~23 |
 | Collect Monster Parts | 1.00% | ~23 |
+| Complete Elder Faction | 1.00% | ~23 |
 | Ranged Weapon | 1.00% | ~23 |
 | Two Handed Weapon | 1.00% | ~23 |
 | Defeat 25 Grubs | 1.00% | ~23 |
@@ -21,14 +23,12 @@ Rating: 4.56 (Ranked 503)
 | Defeat Croakhis Khan | 1.00% | ~9 |
 | Shield Maiden Yellow Tongue | 1.00% | ~9 |
 | I Remember My First Beer | 1.00% | ~9 |
-| The Bright Fir | 1.00% | ~9 |
-| Complete Elder Faction | 0.90% | ~21 |
 | End of the Mozis | 0.90% | ~21 |
 | Meet the Creatures from the Deep | 0.90% | ~21 |
 | Throne Room Fit For A King | 0.90% | ~21 |
 | Return Power To The Depths | 0.90% | ~21 |
+| Defeat Ratnor Rodentson | 0.80% | ~18 |
 | Fix the Travellers Wagon | 0.80% | ~18 |
-| Defeat Ratnor Rodentson | 0.70% | ~16 |
 | Defeat the Grub Buster | 0.70% | ~7 |
 | Defeat the Stalker Queen | 0.70% | ~7 |
 | Return the Statues | 0.60% | ~14 |
@@ -36,13 +36,13 @@ Rating: 4.56 (Ranked 503)
 | Defeat Avor Warden of the Northern Wastes | 0.60% | ~14 |
 | Defeat Rattus Augustail | 0.60% | ~14 |
 | Discover the mystery of the Kings Chambers | 0.60% | ~14 |
-| Complete Arena Faction | 0.50% | ~11 |
-| Complete Ranger Faction | 0.50% | ~11 |
+| Complete Arena Faction | 0.50% | ~12 |
+| Complete Ranger Faction | 0.50% | ~12 |
 | Complete Redgi's Armory | 0.40% | ~9 |
 | King of Kings | 0.30% | ~7 |
 | A new Warchief rises | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,299 (Ranked 236)  
+Progressed: 2,301 (Ranked 236)  
 Completed: 12 (0.52%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,7 +253,7 @@ Completed: 12 (0.52%) (Ranked 216)
 | 2023-12-29 | 2,292 | 12 |
 | 2023-12-30 | 2,295 | 12 |
 | 2023-12-31 | 2,297 | 12 |
-| 2024-01-01 | 2,299 | 12 |
+| 2024-01-01 | 2,301 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

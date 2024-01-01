@@ -2,12 +2,12 @@
   "ID": "89fb09a222a54e53b692e9c36e68d0a1",
   "Name": "Filament",
   "ProductSlug": "filament-332a92",
-  "Ranking_Rating": 844,
+  "Ranking_Rating": 845,
   "Ranking_Popularity": 212,
   "Ranking_PopularitySum": 310,
   "Ranking_EOS_Progress": 81,
-  "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_Completed": 255,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -402,9 +402,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 208306,
+  "EOS_Progressed": 208313,
   "EOS_Completed": 553,
-  "EOS_NewPlayers": 520,
+  "EOS_NewPlayers": 526,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -27812,6 +27812,11 @@
       "Time": "2024-01-01T18:07:03.9447344+00:00",
       "NumProgressed": 208306,
       "NumCompleted": 553
+    },
+    {
+      "Time": "2024-01-01T19:07:32.4586096+00:00",
+      "NumProgressed": 208313,
+      "NumCompleted": 553
     }
   ],
   "TotalAchievements": 29,
@@ -27847,7 +27852,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 195808
+      "UsersEstimate": 195814
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -27879,7 +27884,7 @@
       "Name": "Cockpit",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1666
+      "UsersEstimate": 1667
     },
     {
       "ID": "ACHIEVEMENT_COLMIX",
@@ -27903,7 +27908,7 @@
       "Name": "Corrupted.",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 10415
+      "UsersEstimate": 10416
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTEDCOMPLETE",
@@ -27959,7 +27964,7 @@
       "Name": "So you\u0027re saying I don\u0027t touch these ones?",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 12498
+      "UsersEstimate": 12499
     },
     {
       "ID": "ACHIEVEMENT_OPUS",
@@ -27983,7 +27988,7 @@
       "Name": "Good things come in pairs... Coloured Pairs.",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 10415
+      "UsersEstimate": 10416
     },
     {
       "ID": "ACHIEVEMENT_REQUISITE",
@@ -28023,7 +28028,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16664
+      "UsersEstimate": 16665
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -28031,7 +28036,7 @@
       "Name": "Witness it.",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1666
+      "UsersEstimate": 1667
     },
     {
       "ID": "ACHIEVEMENT_WRAP",
@@ -28054,7 +28059,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 208306,
+      "Progressed": 208313,
       "Completed": 553
     }
   ],
@@ -28062,8 +28067,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2024-01-01T02:58:07.3780611+00:00",
-  "LastChanged_Achievements": "2024-01-01T18:07:03.9447341+00:00",
+  "LastChanged_Achievements": "2024-01-01T19:07:32.4586092+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:16.5074852+00:00",
-  "LastUpdate_Ratings": "2024-01-01T17:58:25.1953666+00:00",
-  "LastUpdate_Achievements": "2024-01-01T18:07:03.9448854+00:00"
+  "LastUpdate_Ratings": "2024-01-01T18:58:38.7622369+00:00",
+  "LastUpdate_Achievements": "2024-01-01T19:07:32.4587644+00:00"
 }

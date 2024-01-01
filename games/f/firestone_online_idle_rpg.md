@@ -1,23 +1,23 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.04 (Ranked 1,026)  
+Rating: 4.06 (Ranked 1,020)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,782 |
-| World Map | 78.00% | ~3,172 |
+| Victor | 93.00% | ~3,783 |
+| World Map | 78.00% | ~3,173 |
 | Temple of Eternals | 56.00% | ~2,278 |
 | Prestigious | 52.00% | ~2,115 |
-| Fellowship Power | 42.00% | ~1,708 |
+| Fellowship Power | 42.00% | ~1,709 |
 | Full Party | 27.00% | ~1,098 |
-| Guild Power | 23.00% | ~935 |
-| Prestigious x10 | 20.00% | ~813 |
+| Guild Power | 23.00% | ~936 |
+| Prestigious x10 | 20.00% | ~814 |
 | The game is on | 18.00% | ~732 |
 | Exotic Merchant | 16.00% | ~651 |
 | Dragon Clicker | 15.00% | ~610 |
 | Miner Clicker | 15.00% | ~610 |
-| Inspection | 14.00% | ~569 |
+| Inspection | 14.00% | ~570 |
 | Dragon Master | 13.00% | ~529 |
 | Enlightenment | 13.00% | ~529 |
 | Hero inspection | 13.00% | ~529 |
@@ -81,7 +81,7 @@ Rating: 4.04 (Ranked 1,026)
 | Jewel Enchanting | 0.10% | ~4 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,067 (Ranked 209)  
+Progressed: 4,068 (Ranked 209)  
 Completed: 2 (0.05%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,15 +332,15 @@ Completed: 2 (0.05%) (Ranked 334)
 | 2023-12-29 | 3,948 | 2 |
 | 2023-12-30 | 3,984 | 2 |
 | 2023-12-31 | 4,033 | 2 |
-| 2024-01-01 | 4,067 | 2 |
+| 2024-01-01 | 4,068 | 2 |
 ## Awards
-Max (Great for Beginners): 39  (Ranked 479)  
-Sum: 130 (Ranked 445)  
-Diff (max vs sum): 34  
+Max (Great for Beginners): 40  (Ranked 476)  
+Sum: 132 (Ranked 444)  
+Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 39 |
-| This game is Great for Quick Sessions | 34 |
+| This game is Great for Beginners | 40 |
+| This game is Great for Quick Sessions | 35 |
 | This game has Diverse Characters | 30 |
 | This game has Playful Visuals | 27 |
 | This game is Highly Recommended | 21 |
@@ -431,4 +431,4 @@ Diff (max vs sum): 34
 | 2023-12-27 | 4.02 | 39 | 128 |
 | 2023-12-28 | 4.03 | 39 | 128 |
 | 2023-12-29 | 4.03 | 39 | 129 |
-| 2024-01-01 | 4.04 | 39 | 130 |
+| 2024-01-01 | 4.06 | 40 | 132 |

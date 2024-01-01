@@ -1,7 +1,7 @@
 # ABZU
 [Store](https://store.epicgames.com/en-US/p/abzu)  
 [View Rawdata](../../db/a/abzu.json)  
-Rating: 4.61 (Ranked 397)  
+Rating: 4.60 (Ranked 427)  
 Number of Ratings: 148  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -94,3 +94,4 @@ Number of Ratings: 148  (23.09.2022)
 | 2023-10-22 | 4.61 | - | 0 | 0 |
 | 2023-10-23 | 4.60 | - | 0 | 0 |
 | 2023-10-24 | 4.61 | - | 0 | 0 |
+| 2024-01-01 | 4.60 | - | 0 | 0 |

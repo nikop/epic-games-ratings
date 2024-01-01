@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -51,7 +51,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1187,
+  "EOS_Progressed": 1188,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
@@ -3431,6 +3431,11 @@
       "Time": "2024-01-01T17:11:07.0382634+00:00",
       "NumProgressed": 1187,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-01T19:11:29.1362946+00:00",
+      "NumProgressed": 1188,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3458,7 +3463,7 @@
       "Name": "Chaincrawler Explorer",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ChestCompletion1",
@@ -3466,7 +3471,7 @@
       "Name": "Treasure Trove",
       "Percentage": 12,
       "XP": 75,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -3560,9 +3565,9 @@
       "ID": "FutureEkko1Defeated",
       "SetID": "a9e499d",
       "Name": "The Mysterious Stranger",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 380
+      "UsersEstimate": 368
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -3674,7 +3679,7 @@
       "Name": "A Lesson in Precision",
       "Percentage": 0.8,
       "XP": 60,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ParallelConvergenceMultiHit1",
@@ -3730,7 +3735,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "RewindParry",
@@ -3794,7 +3799,7 @@
       "Name": "Syron for Hope",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "TemporalPulseKills1",
@@ -3802,7 +3807,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "TheaterChests1",
@@ -3818,7 +3823,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "WarwickDefeated",
@@ -3865,7 +3870,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1187,
+      "Progressed": 1188,
       "Completed": 6
     }
   ],
@@ -3873,8 +3878,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2024-01-01T18:10:48.0514558+00:00",
+  "LastChanged_Achievements": "2024-01-01T19:11:29.1362943+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:23.9308133+00:00",
-  "LastUpdate_Ratings": "2024-01-01T18:03:08.6470932+00:00",
-  "LastUpdate_Achievements": "2024-01-01T18:10:48.0515051+00:00"
+  "LastUpdate_Ratings": "2024-01-01T19:03:20.4292835+00:00",
+  "LastUpdate_Achievements": "2024-01-01T19:11:29.1363431+00:00"
 }

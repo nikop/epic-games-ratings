@@ -36,7 +36,7 @@
 | You are no match for me, Billy! | 36.00% | ~52 |
 | Karaoke king | 35.00% | ~51 |
 | Meatballs, coming up! | 34.00% | ~49 |
-| Catch the bus with me! | 32.00% | ~46 |
+| Catch the bus with me! | 33.00% | ~48 |
 | I'm going to get a concussion | 31.00% | ~45 |
 | Another one bites the iron | 31.00% | ~45 |
 | Ripe Meat Off The Bone! | 28.00% | ~41 |
@@ -46,7 +46,7 @@
 | Hovering around | 26.00% | ~38 |
 | You're not so Big anymore, Boi! | 25.00% | ~36 |
 | I cant stand still! | 23.00% | ~33 |
-| Slimy... yet satisfying | 21.00% | ~30 |
+| Slimy... yet satisfying | 22.00% | ~32 |
 | Master Butcher | 19.00% | ~28 |
 | Just wing it! | 19.00% | ~28 |
 | Deal with it | 18.00% | ~26 |

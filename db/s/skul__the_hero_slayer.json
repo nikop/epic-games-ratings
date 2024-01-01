@@ -6,7 +6,7 @@
   "Ranking_Popularity": 327,
   "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 173,
-  "Ranking_EOS_Completed": 287,
+  "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
@@ -1343,9 +1343,9 @@
       "Count": 147
     }
   ],
-  "EOS_Progressed": 13471,
+  "EOS_Progressed": 13473,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 983,
+  "EOS_NewPlayers": 982,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -8368,6 +8368,11 @@
       "Time": "2024-01-01T18:09:34.4940712+00:00",
       "NumProgressed": 13471,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2024-01-01T19:10:11.7163235+00:00",
+      "NumProgressed": 13473,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 24,
@@ -8379,7 +8384,7 @@
       "Name": "Brain at Full Throttle",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2694
+      "UsersEstimate": 2695
     },
     {
       "ID": "Chatterbox",
@@ -8403,7 +8408,7 @@
       "Name": "Focus!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 8083
+      "UsersEstimate": 8084
     },
     {
       "ID": "DemonCastleRestoration",
@@ -8443,7 +8448,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 3502
+      "UsersEstimate": 3503
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -8459,7 +8464,7 @@
       "Name": "Go Home...",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 3637
+      "UsersEstimate": 3638
     },
     {
       "ID": "HeroSlayer",
@@ -8467,7 +8472,7 @@
       "Name": "The Hero Killer",
       "Percentage": 24,
       "XP": 90,
-      "UsersEstimate": 3233
+      "UsersEstimate": 3234
     },
     {
       "ID": "LeoniasFall",
@@ -8491,7 +8496,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 4984
+      "UsersEstimate": 4985
     },
     {
       "ID": "RookieWelcome",
@@ -8507,7 +8512,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 8217
+      "UsersEstimate": 8219
     },
     {
       "ID": "SavedElderEnt_2",
@@ -8515,7 +8520,7 @@
       "Name": "Quick Movements",
       "Percentage": 30,
       "XP": 90,
-      "UsersEstimate": 4041
+      "UsersEstimate": 4042
     },
     {
       "ID": "SkeletonKing",
@@ -8531,7 +8536,7 @@
       "Name": "Inventory Management",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 4176
+      "UsersEstimate": 4177
     },
     {
       "ID": "TheLegendBegins",
@@ -8539,7 +8544,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 12528
+      "UsersEstimate": 12530
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -8547,7 +8552,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 6331
+      "UsersEstimate": 6332
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -8555,7 +8560,7 @@
       "Name": "Master of Speed",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 1212
+      "UsersEstimate": 1213
     },
     {
       "ID": "WhattoBuy",
@@ -8563,22 +8568,22 @@
       "Name": "What should I buy?",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10912
+      "UsersEstimate": 10913
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 13471,
+      "Progressed": 13473,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2024-01-01T15:59:32.5152636+00:00",
-  "LastChanged_Achievements": "2024-01-01T18:09:34.4940707+00:00",
+  "LastChanged_Achievements": "2024-01-01T19:10:11.7163234+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:27.9431294+00:00",
-  "LastUpdate_Ratings": "2024-01-01T18:00:32.3162323+00:00",
-  "LastUpdate_Achievements": "2024-01-01T18:09:34.4941378+00:00"
+  "LastUpdate_Ratings": "2024-01-01T19:00:58.3497316+00:00",
+  "LastUpdate_Achievements": "2024-01-01T19:10:11.7163715+00:00"
 }

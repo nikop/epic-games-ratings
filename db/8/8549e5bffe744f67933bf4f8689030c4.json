@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 574,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 477,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-11-08T03:00:00+00:00",
     "PcReleaseDate": "2023-11-04T03:00:00+00:00",
@@ -620,9 +620,9 @@
       "ID": "ObtainMonsterFirst",
       "SetID": "59jf8f5",
       "Name": "Rookie Monster Collector",
-      "Percentage": 69,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ObtainStar3OnStage100",
@@ -715,8 +715,8 @@
   ],
   "FirstSeen": "2023-11-24T21:58:03.1577897+00:00",
   "FirstSeenAchievements": "2023-11-07T04:02:54.7866362+00:00",
-  "LastChanged_Achievements": "2024-01-01T18:05:04.3428506+00:00",
+  "LastChanged_Achievements": "2024-01-01T19:05:25.2701246+00:00",
   "LastUpdate_AppInfo": "2023-12-26T06:57:11.627534+00:00",
-  "LastUpdate_Ratings": "2024-01-01T17:59:24.319691+00:00",
-  "LastUpdate_Achievements": "2024-01-01T18:05:04.3428951+00:00"
+  "LastUpdate_Ratings": "2024-01-01T18:59:43.5076539+00:00",
+  "LastUpdate_Achievements": "2024-01-01T19:05:25.2701741+00:00"
 }

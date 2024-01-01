@@ -4,11 +4,11 @@
   "ProductSlug": "totally-accurate-battle-simulator",
   "Ranking_Rating": 148,
   "Ranking_Popularity": 233,
-  "Ranking_PopularitySum": 172,
+  "Ranking_PopularitySum": 171,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 573,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 574,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2019-04-01T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -5052,10 +5052,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 3524,
       "NumberOfAwardsMax": 432
+    },
+    {
+      "Time": "2024-01-01T19:03:21.0588637+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 3525,
+      "NumberOfAwardsMax": 432
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3524,
+  "NumberOfAwards": 3525,
   "NumberOfAwardsMax": 432,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5123,7 +5129,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 305
+      "Count": 306
     },
     {
       "Text": "This game has Playful Visuals",
@@ -5155,8 +5161,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:14.6922177+00:00",
-  "LastChanged": "2024-01-01T15:02:48.4250065+00:00",
+  "LastChanged": "2024-01-01T19:03:21.0588636+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:24.1238177+00:00",
-  "LastUpdate_Ratings": "2024-01-01T18:03:09.295184+00:00",
-  "LastUpdate_Achievements": "2024-01-01T18:07:32.7597748+00:00"
+  "LastUpdate_Ratings": "2024-01-01T19:03:21.0588642+00:00",
+  "LastUpdate_Achievements": "2024-01-01T19:08:02.9984322+00:00"
 }

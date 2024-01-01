@@ -5,7 +5,7 @@
   "Ranking_Rating": 322,
   "Ranking_Popularity": 498,
   "Ranking_PopularitySum": 527,
-  "Ranking_EOS_Progress": 332,
+  "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 60,
@@ -323,9 +323,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 616,
+  "EOS_Progressed": 618,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 248,
+  "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.81,
   "EosHistory": [
@@ -1668,6 +1668,11 @@
       "Time": "2024-01-01T16:08:20.9193338+00:00",
       "NumProgressed": 616,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-01T19:09:00.8377924+00:00",
+      "NumProgressed": 618,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1696,7 +1701,7 @@
       "Name": "The Small Does Not Rule",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_COMPLETION",
@@ -1718,9 +1723,9 @@
       "ID": "ACH_DOWN_TOWN",
       "SetID": "biiejkc",
       "Name": "Uptown and Downtown",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_FD_GRAVEYARD",
@@ -1768,7 +1773,7 @@
       "Name": "Kelp Forest of Fear",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_MERMALAIR",
@@ -1808,7 +1813,7 @@
       "Name": "SpongeBob vs SpongeBob!",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_ROCK_BOTTOM",
@@ -1824,7 +1829,7 @@
       "Name": "Sleepy Time",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_SOCK_CONCERT",
@@ -1856,7 +1861,7 @@
       "Name": "Super Spatula Seeker",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_STAT_50_SPATULA_SEEKER",
@@ -1918,9 +1923,9 @@
       "ID": "ACH_SURFS_UP",
       "SetID": "biiejkc",
       "Name": "Surf\u0027s Up!",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_TIME_FOR_TUTORIAL",
@@ -1935,15 +1940,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 616,
+      "Progressed": 618,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-31T19:58:31.7111869+00:00",
-  "LastChanged_Achievements": "2024-01-01T18:08:27.3334287+00:00",
+  "LastChanged_Achievements": "2024-01-01T19:09:00.837792+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:11.8880921+00:00",
-  "LastUpdate_Ratings": "2024-01-01T17:58:57.0424661+00:00",
-  "LastUpdate_Achievements": "2024-01-01T18:08:27.3334613+00:00"
+  "LastUpdate_Ratings": "2024-01-01T18:59:14.2984772+00:00",
+  "LastUpdate_Achievements": "2024-01-01T19:09:00.8378257+00:00"
 }
