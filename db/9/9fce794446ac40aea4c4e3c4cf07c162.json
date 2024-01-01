@@ -200,17 +200,17 @@
       "ID": "BOSS_04",
       "SetID": "35d3i7a",
       "Name": "THIS IS NOT ME!",
-      "Percentage": 29,
+      "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "BOSS_05",
       "SetID": "35d3i7a",
       "Name": "I need to hide myself.",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "BOSS_06",
@@ -360,9 +360,9 @@
       "ID": "MEM_IX",
       "SetID": "35d3i7a",
       "Name": "Hot dog.",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "MEM_V",
@@ -384,9 +384,9 @@
       "ID": "MEM_VII",
       "SetID": "35d3i7a",
       "Name": "PUT ON THE F****** MASK!",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "MEM_VIII",
@@ -416,9 +416,9 @@
       "ID": "MEM_XII",
       "SetID": "35d3i7a",
       "Name": "A strange illness.",
-      "Percentage": 21,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "MEM_XIII",
@@ -440,9 +440,9 @@
       "ID": "MEM_XIX",
       "SetID": "35d3i7a",
       "Name": "Mass production.",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "MEM_XV",
@@ -480,9 +480,9 @@
       "ID": "MEM_XX",
       "SetID": "35d3i7a",
       "Name": "Waiting for my prince.",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "MEM_XXI",
@@ -607,8 +607,8 @@
   ],
   "FirstSeen": "2023-10-03T14:57:54.0765548+00:00",
   "FirstSeenAchievements": "2023-09-13T06:03:08.8902067+00:00",
-  "LastChanged_Achievements": "2024-01-01T13:13:21.9712671+00:00",
+  "LastChanged_Achievements": "2024-01-01T14:10:45.7175028+00:00",
   "LastUpdate_AppInfo": "2023-12-27T14:57:15.6707756+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:02:27.8923741+00:00",
-  "LastUpdate_Achievements": "2024-01-01T13:13:21.9713113+00:00"
+  "LastUpdate_Ratings": "2024-01-01T13:59:44.8529+00:00",
+  "LastUpdate_Achievements": "2024-01-01T14:10:45.7175391+00:00"
 }

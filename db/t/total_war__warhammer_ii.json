@@ -2,12 +2,12 @@
   "ID": "0f710ebf203f42e1a26a8bc5cb48709a",
   "Name": "Total War: WARHAMMER II",
   "ProductSlug": "total-war-warhammer-ii",
-  "Ranking_Rating": 219,
+  "Ranking_Rating": 218,
   "Ranking_Popularity": 81,
   "Ranking_PopularitySum": 72,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 568,
+  "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-04-28T14:00:00+00:00",
@@ -7646,10 +7646,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 15118,
       "NumberOfAwardsMax": 4794
+    },
+    {
+      "Time": "2024-01-01T13:59:39.4387315+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 15121,
+      "NumberOfAwardsMax": 4794
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15118,
+  "NumberOfAwards": 15121,
   "NumberOfAwardsMax": 4794,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -7729,7 +7735,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 960
+      "Count": 963
     }
   ],
   "EOS_Progressed": 0,
@@ -7743,8 +7749,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:56.1200636+00:00",
-  "LastChanged": "2024-01-01T01:55:04.6140349+00:00",
+  "LastChanged": "2024-01-01T13:59:39.4387313+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:18.7417481+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:02:23.6073459+00:00",
-  "LastUpdate_Achievements": "2024-01-01T13:08:47.9909176+00:00"
+  "LastUpdate_Ratings": "2024-01-01T13:59:39.4387319+00:00",
+  "LastUpdate_Achievements": "2024-01-01T14:06:30.4076096+00:00"
 }

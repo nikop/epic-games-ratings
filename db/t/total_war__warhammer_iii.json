@@ -4,10 +4,10 @@
   "ProductSlug": "total-war-warhammer-3",
   "Ranking_Rating": 202,
   "Ranking_Popularity": 112,
-  "Ranking_PopularitySum": 106,
+  "Ranking_PopularitySum": 107,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 568,
+  "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-02-17T06:00:00+00:00",
@@ -9701,6 +9701,6 @@
   "FirstSeen": "2022-07-22T20:20:31.8340221+00:00",
   "LastChanged": "2024-01-01T13:01:00.1032102+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:26.1260099+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:01:00.1032111+00:00",
-  "LastUpdate_Achievements": "2024-01-01T13:09:34.1608851+00:00"
+  "LastUpdate_Ratings": "2024-01-01T13:57:49.2775478+00:00",
+  "LastUpdate_Achievements": "2024-01-01T14:07:28.9314994+00:00"
 }

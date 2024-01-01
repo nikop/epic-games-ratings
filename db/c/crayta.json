@@ -2,12 +2,12 @@
   "ID": "bb9f87bb3d0042258bb1c97397bc60f2",
   "Name": "Crayta",
   "ProductSlug": "crayta",
-  "Ranking_Rating": 962,
+  "Ranking_Rating": 961,
   "Ranking_Popularity": 450,
   "Ranking_PopularitySum": 358,
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewPlayers": 354,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": null,
@@ -332,9 +332,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 109937,
+  "EOS_Progressed": 109938,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3767,6 +3767,11 @@
       "Time": "2023-12-31T01:58:04.5745645+00:00",
       "NumProgressed": 109937,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-01T14:04:12.1314682+00:00",
+      "NumProgressed": 109938,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -3850,7 +3855,7 @@
       "Name": "Building Block - Bronze",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4397
+      "UsersEstimate": 4398
     },
     {
       "ID": "19",
@@ -3914,7 +3919,7 @@
       "Name": "Variety Player - Silver",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 4397
+      "UsersEstimate": 4398
     },
     {
       "ID": "26",
@@ -4049,15 +4054,15 @@
     {
       "ID": "4i9cj6f",
       "IsBase": true,
-      "Progressed": 109937,
+      "Progressed": 109938,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:02.9835227+00:00",
   "LastChanged": "2023-01-05T14:57:39.5556866+00:00",
-  "LastChanged_Achievements": "2024-01-01T13:07:01.1818982+00:00",
+  "LastChanged_Achievements": "2024-01-01T14:04:12.1314678+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:49.254648+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:01:39.1731225+00:00",
-  "LastUpdate_Achievements": "2024-01-01T13:07:01.1819374+00:00"
+  "LastUpdate_Ratings": "2024-01-01T13:58:42.3606582+00:00",
+  "LastUpdate_Achievements": "2024-01-01T14:04:12.1315091+00:00"
 }

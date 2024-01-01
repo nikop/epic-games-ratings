@@ -4,7 +4,7 @@
   "ProductSlug": "merchant-of-the-skies",
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 568,
+  "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-04-13T15:00:00+00:00",
@@ -311,8 +311,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.9474468+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.0879809+00:00",
   "LastChanged": "2023-03-31T05:58:14.9474469+00:00",
-  "LastChanged_Achievements": "2024-01-01T13:08:45.5939976+00:00",
+  "LastChanged_Achievements": "2024-01-01T14:06:27.449411+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:41.9177261+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:03:57.5497669+00:00",
-  "LastUpdate_Achievements": "2024-01-01T13:08:45.5940138+00:00"
+  "LastUpdate_Ratings": "2024-01-01T14:01:45.333979+00:00",
+  "LastUpdate_Achievements": "2024-01-01T14:06:27.4494207+00:00"
 }

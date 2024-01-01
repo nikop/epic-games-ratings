@@ -6,61 +6,61 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 68.00% | ~360,069 |
-| To The Nines | 40.00% | ~211,805 |
-| Optimized | 23.00% | ~121,788 |
-| Wet Work | 21.00% | ~111,198 |
-| Food for Thought | 19.00% | ~100,607 |
-| Performance Review | 17.00% | ~90,017 |
-| The Side Job | 16.00% | ~84,722 |
-| Making a Name | 14.00% | ~74,132 |
-| Tune Up | 13.00% | ~68,837 |
-| Landlord | 11.00% | ~58,246 |
-| Wrecking Ball | 9.00% | ~47,656 |
-| A Young Empire | 6.00% | ~31,771 |
-| Finders Keepers | 5.00% | ~26,476 |
-| Work Ethic | 5.00% | ~26,476 |
-| Hijacked | 4.00% | ~21,181 |
-| Power Players | 4.00% | ~21,181 |
-| Took It to The Limit | 4.00% | ~21,181 |
-| Picking Fights | 4.00% | ~21,181 |
-| Quality Time | 3.00% | ~15,885 |
-| Showdown | 3.00% | ~15,885 |
-| The Spins | 3.00% | ~15,885 |
-| Kitted Out | 3.00% | ~15,885 |
-| Et tu? | 3.00% | ~15,885 |
-| Prankster | 3.00% | ~15,885 |
-| Masters of Santo Ileso | 2.00% | ~10,590 |
-| The Mechanic | 2.00% | ~10,590 |
-| Closet Space | 2.00% | ~10,590 |
-| We could go home, or… | 1.00% | ~5,295 |
-| Challenge Accepted | 1.00% | ~5,295 |
-| Chaos Tamer | 1.00% | ~5,295 |
-| A Golden Age | 1.00% | ~5,295 |
-| Free Refills | 1.00% | ~5,295 |
-| Smooth Moves | 1.00% | ~5,295 |
-| Producer Credit | 1.00% | ~5,012 |
-| Face Off | 1.00% | ~5,012 |
-| The Professional | 0.90% | ~4,766 |
-| Hazardous Heist | 0.90% | ~4,510 |
-| Untouchable | 0.80% | ~4,236 |
-| Neighborly | 0.80% | ~4,236 |
-| Tourist | 0.80% | ~4,236 |
-| Shopping Spree | 0.70% | ~3,707 |
-| Always Be Hustling | 0.70% | ~3,707 |
-| Bonus Round | 0.50% | ~2,648 |
-| Community Outreach | 0.50% | ~2,648 |
-| It's a Bird! | 0.20% | ~1,059 |
-| The Collector | 0.20% | ~1,059 |
-| All Mine | 0.20% | ~1,059 |
-| Jack of All Trades | 0.10% | ~530 |
-| Statement Pieces | 0.10% | ~530 |
-| Armor Piercing | 0.10% | ~530 |
-| A Car Named Simone | 0.10% | ~530 |
-| Heard You Like Wheels | 0.10% | ~530 |
-| Fiesta Time | 0.10% | ~530 |
+| First F#@!ing Day | 68.00% | ~364,118 |
+| To The Nines | 40.00% | ~214,187 |
+| Optimized | 23.00% | ~123,157 |
+| Wet Work | 21.00% | ~112,448 |
+| Food for Thought | 19.00% | ~101,739 |
+| Performance Review | 17.00% | ~91,029 |
+| The Side Job | 16.00% | ~85,675 |
+| Making a Name | 14.00% | ~74,965 |
+| Tune Up | 13.00% | ~69,611 |
+| Landlord | 11.00% | ~58,901 |
+| Wrecking Ball | 9.00% | ~48,192 |
+| A Young Empire | 6.00% | ~32,128 |
+| Finders Keepers | 5.00% | ~26,773 |
+| Work Ethic | 5.00% | ~26,773 |
+| Hijacked | 4.00% | ~21,419 |
+| Power Players | 4.00% | ~21,419 |
+| Took It to The Limit | 4.00% | ~21,419 |
+| Picking Fights | 4.00% | ~21,419 |
+| Quality Time | 3.00% | ~16,064 |
+| Showdown | 3.00% | ~16,064 |
+| The Spins | 3.00% | ~16,064 |
+| Kitted Out | 3.00% | ~16,064 |
+| Et tu? | 3.00% | ~16,064 |
+| Prankster | 3.00% | ~16,064 |
+| Masters of Santo Ileso | 2.00% | ~10,709 |
+| The Mechanic | 2.00% | ~10,709 |
+| Closet Space | 2.00% | ~10,709 |
+| We could go home, or… | 1.00% | ~5,355 |
+| Challenge Accepted | 1.00% | ~5,355 |
+| Chaos Tamer | 1.00% | ~5,355 |
+| A Golden Age | 1.00% | ~5,355 |
+| Free Refills | 1.00% | ~5,355 |
+| Smooth Moves | 1.00% | ~5,355 |
+| Producer Credit | 1.00% | ~5,071 |
+| Face Off | 1.00% | ~5,071 |
+| The Professional | 0.90% | ~4,819 |
+| Hazardous Heist | 0.90% | ~4,564 |
+| Untouchable | 0.80% | ~4,284 |
+| Neighborly | 0.80% | ~4,284 |
+| Tourist | 0.80% | ~4,284 |
+| Shopping Spree | 0.70% | ~3,748 |
+| Always Be Hustling | 0.70% | ~3,748 |
+| Bonus Round | 0.50% | ~2,677 |
+| Community Outreach | 0.50% | ~2,677 |
+| It's a Bird! | 0.20% | ~1,071 |
+| The Collector | 0.20% | ~1,071 |
+| All Mine | 0.20% | ~1,071 |
+| Jack of All Trades | 0.10% | ~535 |
+| Statement Pieces | 0.10% | ~535 |
+| Armor Piercing | 0.10% | ~535 |
+| A Car Named Simone | 0.10% | ~535 |
+| Heard You Like Wheels | 0.10% | ~535 |
+| Fiesta Time | 0.10% | ~535 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 529,513 (Ranked 36)  
+Progressed: 535,467 (Ranked 35)  
 Completed: 57 (0.01%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 57 (0.01%) (Ranked 368)
 | 2023-12-29 | 86,942 | 56 |
 | 2023-12-30 | 179,956 | 56 |
 | 2023-12-31 | 464,445 | 56 |
-| 2024-01-01 | 529,513 | 57 |
+| 2024-01-01 | 535,467 | 57 |
 ## Awards
 Max (Extremely Fun): 1,086  (Ranked 151)  
 Sum: 8,804 (Ranked 102)  

@@ -5,19 +5,19 @@ Rating: 4.58 (Ranked 466)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 32.00% | ~1,239 |
-| Sputnik 2049 | 28.00% | ~1,084 |
+| Wakey Wakey | 32.00% | ~1,240 |
+| Sputnik 2049 | 28.00% | ~1,085 |
 | Infinite Growth... | 27.00% | ~1,046 |
-| Without Breaking Some Eggs... | 26.00% | ~1,007 |
-| Space Society | 18.00% | ~697 |
-| A Thousand Strong | 18.00% | ~697 |
-| Ready for a New World | 18.00% | ~697 |
+| Without Breaking Some Eggs... | 26.00% | ~1,008 |
+| Space Society | 18.00% | ~698 |
+| A Thousand Strong | 18.00% | ~698 |
+| Ready for a New World | 18.00% | ~698 |
 | Permanent Redesigns | 16.00% | ~620 |
 | The Ship of Theseus | 15.00% | ~581 |
 | Guy de Borderlands | 14.00% | ~542 |
 | Fully Recycled | 14.00% | ~542 |
 | Ain't Nobody Got Time for That | 14.00% | ~542 |
-| Hope Seeker | 13.00% | ~503 |
+| Hope Seeker | 13.00% | ~504 |
 | A Hunk of Junk | 12.00% | ~465 |
 | Exceeding Capacity | 12.00% | ~465 |
 | Breaking Protocol | 12.00% | ~465 |
@@ -43,19 +43,19 @@ Rating: 4.58 (Ranked 466)
 | Delivery! | 3.00% | ~116 |
 | Help of the Forgotten Member | 3.00% | ~116 |
 | Pulsar Disciple | 3.00% | ~116 |
-| Mutual Loyalty | 2.00% | ~77 |
-| Tiqqun Contender | 2.00% | ~77 |
-| Catastrophe Avoided | 2.00% | ~77 |
-| You Had One Job... | 2.00% | ~77 |
-| Space Greenhouse | 2.00% | ~77 |
-| Tiqqun Unchained | 2.00% | ~77 |
+| Mutual Loyalty | 2.00% | ~78 |
+| Tiqqun Contender | 2.00% | ~78 |
+| Catastrophe Avoided | 2.00% | ~78 |
+| You Had One Job... | 2.00% | ~78 |
+| Space Greenhouse | 2.00% | ~78 |
+| Tiqqun Unchained | 2.00% | ~78 |
 | Better Him Than Me | 1.00% | ~39 |
 | Remember the Dead | 1.00% | ~39 |
 | Gregor Spinoza | 1.00% | ~39 |
 | Scientifically Accurate | 1.00% | ~39 |
 | Work Harder | 0.60% | ~23 |
-| Crunch Culture | 0.40% | ~15 |
-| Soylent Green | 0.40% | ~15 |
+| Crunch Culture | 0.40% | ~16 |
+| Soylent Green | 0.40% | ~16 |
 | A Junker's Dream | 0.30% | ~12 |
 | Scenic View | 0.20% | ~8 |
 | I Give You the Stars | 0.20% | ~4 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 466)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,873 (Ranked 213)  
+Progressed: 3,875 (Ranked 213)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-29 | 3,814 | 0 |
 | 2023-12-30 | 3,837 | 0 |
 | 2023-12-31 | 3,860 | 0 |
-| 2024-01-01 | 3,873 | 0 |
+| 2024-01-01 | 3,875 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

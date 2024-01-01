@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 173,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -731,9 +731,9 @@
       "ID": "dl1",
       "SetID": "b1ggf28",
       "Name": "Clear Road",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 90
+      "UsersEstimate": 92
     },
     {
       "ID": "dl2",
@@ -859,9 +859,9 @@
       "ID": "jg2",
       "SetID": "b1ggf28",
       "Name": "Waterpower",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "jg3",
@@ -1114,8 +1114,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-01T13:08:04.8776755+00:00",
+  "LastChanged_Achievements": "2024-01-01T14:05:35.5923044+00:00",
   "LastUpdate_AppInfo": "2023-12-27T04:56:58.3049887+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:06:19.8737569+00:00",
-  "LastUpdate_Achievements": "2024-01-01T13:08:04.8777061+00:00"
+  "LastUpdate_Ratings": "2024-01-01T14:03:16.8155406+00:00",
+  "LastUpdate_Achievements": "2024-01-01T14:05:35.5923364+00:00"
 }

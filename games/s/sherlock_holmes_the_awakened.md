@@ -12,7 +12,7 @@ Rating: 4.50 (Ranked 614)
 | Fond Memories | 50.00% | ~686 |
 | A Method To His Madness | 48.00% | ~658 |
 | History Check | 47.00% | ~644 |
-| The New World | 44.00% | ~603 |
+| The New World | 45.00% | ~617 |
 | Gaze Into The Abyss | 43.00% | ~590 |
 | Open Sesame | 43.00% | ~590 |
 | Sticky Fingers | 43.00% | ~590 |
@@ -34,7 +34,7 @@ Rating: 4.50 (Ranked 614)
 | Big Breakthrough | 12.00% | ~165 |
 | Reawakened | 3.00% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,371 (Ranked 267)  
+Progressed: 1,371 (Ranked 268)  
 Completed: 38 (2.77%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -1,19 +1,19 @@
 # SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated
 [Store](https://store.epicgames.com/en-US/p/spongebob-squarepants-battle-for-bikini-bottom-rehydrated)  
 [View Rawdata](../../db/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.json)  
-Rating: 4.65 (Ranked 325)  
+Rating: 4.65 (Ranked 324)  
 Number of Ratings: 76  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Spatula Seeker | 17.00% | ~104 |
 | Sponge Smasher | 17.00% | ~104 |
-| Jellyfish Jam | 16.00% | ~97 |
+| Jellyfish Jam | 16.00% | ~98 |
 | Jellyfishing | 12.00% | ~73 |
 | Time For Tutorial | 11.00% | ~67 |
-| Sweet Victory | 10.00% | ~61 |
-| Sock Getter | 10.00% | ~61 |
+| Sweet Victory | 9.00% | ~55 |
 | Super Spatula Seeker | 9.00% | ~55 |
+| Sock Getter | 9.00% | ~55 |
 | Uptown and Downtown | 8.00% | ~49 |
 | Squirrel Smasher | 8.00% | ~49 |
 | Star Smasher | 8.00% | ~49 |
@@ -24,9 +24,9 @@ Number of Ratings: 76  (23.09.2022)
 | Life's as extreme as you wanna make it! | 6.00% | ~37 |
 | Keep it Rolling | 6.00% | ~37 |
 | Shrimp Catcher | 6.00% | ~37 |
-| Robot encyclopedia | 5.00% | ~30 |
-| Hello, Bikini Bottom | 5.00% | ~30 |
-| Ultra Spatula Seeker | 5.00% | ~30 |
+| Robot encyclopedia | 5.00% | ~31 |
+| Hello, Bikini Bottom | 5.00% | ~31 |
+| Ultra Spatula Seeker | 5.00% | ~31 |
 | The Small Does Not Rule | 3.00% | ~18 |
 | Ship Shape | 3.00% | ~18 |
 | Shanghaied | 3.00% | ~18 |
@@ -39,7 +39,7 @@ Number of Ratings: 76  (23.09.2022)
 | Sock Opera | 1.00% | ~6 |
 | Super Ultra Mega Spatula Seeker | 1.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 609 (Ranked 332)  
+Progressed: 612 (Ranked 332)  
 Completed: 5 (0.82%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -58,7 +58,7 @@ Completed: 5 (0.82%) (Ranked 187)
 | 2023-12-29 | 502 | 4 |
 | 2023-12-30 | 551 | 5 |
 | 2023-12-31 | 592 | 5 |
-| 2024-01-01 | 609 | 5 |
+| 2024-01-01 | 612 | 5 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 498)  
 Sum: 35 (Ranked 526)  

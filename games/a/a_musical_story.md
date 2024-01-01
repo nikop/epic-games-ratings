@@ -18,7 +18,7 @@
 | Big City Music | 48.00% | ~54 |
 | Love at First Sight | 47.00% | ~53 |
 | First Kiss | 40.00% | ~45 |
-| Symbiosis | 36.00% | ~41 |
+| Symbiosis | 37.00% | ~42 |
 | A Bigger Band | 35.00% | ~40 |
 | Fuel | 31.00% | ~35 |
 | Alone Together | 31.00% | ~35 |

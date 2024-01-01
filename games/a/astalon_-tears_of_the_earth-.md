@@ -22,7 +22,7 @@
 | Relic Collector | 25.00% | ~20 |
 | God of the Tower! | 23.00% | ~19 |
 | Cartographer | 23.00% | ~19 |
-| Wizard Mastery | 16.00% | ~13 |
+| Wizard Mastery | 17.00% | ~14 |
 | Rogue Mastery | 15.00% | ~12 |
 | Destoy all monsters! | 14.00% | ~11 |
 | Slay the Monster! | 14.00% | ~11 |
@@ -35,8 +35,8 @@
 | No match for me! | 4.00% | ~3 |
 | True Titan | 4.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 81 (Ranked 504)  
-Completed: 3 (3.70%) (Ranked 94)  
+Progressed: 81 (Ranked 505)  
+Completed: 3 (3.70%) (Ranked 95)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -20,7 +20,7 @@ Rating: 4.68 (Ranked 263)
 | Magic Accidents | 59.00% | ~404 |
 | The Ascent | 59.00% | ~404 |
 | It's Warm and Cozy at Home | 59.00% | ~404 |
-| Trap Master | 55.00% | ~376 |
+| Trap Master | 56.00% | ~383 |
 | Minions, Minions! | 55.00% | ~376 |
 | Hard Work | 54.00% | ~369 |
 | The Big Eaty | 54.00% | ~369 |
@@ -32,7 +32,7 @@ Rating: 4.68 (Ranked 263)
 | Dungeonlord Gorgu | 45.00% | ~308 |
 | Tanos' Crusade Against Thalya | 45.00% | ~308 |
 | Mana Cannon | 42.00% | ~287 |
-| All’s Well That Ends Evil | 40.00% | ~274 |
+| All’s Well That Ends Evil | 41.00% | ~280 |
 | The Duel | 38.00% | ~260 |
 | Unstoppable Horde | 35.00% | ~239 |
 | If Looks Could Kill | 35.00% | ~239 |

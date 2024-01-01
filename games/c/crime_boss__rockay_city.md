@@ -5,8 +5,8 @@ Rating: 3.96 (Ranked 1,047)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First One’s Free | 4.00% | ~3,713 |
-| Downed but Not Outed | 4.00% | ~3,713 |
+| First One’s Free | 4.00% | ~3,714 |
+| Downed but Not Outed | 4.00% | ~3,714 |
 | Neophyte Ninja | 3.00% | ~2,785 |
 | Too Old for This | 3.00% | ~2,785 |
 | Fancy Pants | 3.00% | ~2,785 |
@@ -21,7 +21,7 @@ Rating: 3.96 (Ranked 1,047)
 | Hidden Sonata | 1.00% | ~928 |
 | Track Star | 1.00% | ~928 |
 | True Player | 1.00% | ~928 |
-| Headhunter | 0.90% | ~835 |
+| Headhunter | 0.90% | ~836 |
 | Freebooter | 0.80% | ~743 |
 | I Like Trains | 0.70% | ~650 |
 | Legend Looter | 0.60% | ~557 |
@@ -35,9 +35,9 @@ Rating: 3.96 (Ranked 1,047)
 | Rockay Raider | 0.40% | ~371 |
 | Groundhog Days | 0.40% | ~371 |
 | Cracked the Jack | 0.40% | ~371 |
-| Rockay Knight | 0.30% | ~278 |
-| Red Star | 0.30% | ~278 |
-| Classy Joint | 0.30% | ~278 |
+| Rockay Knight | 0.30% | ~279 |
+| Red Star | 0.30% | ~279 |
+| Classy Joint | 0.30% | ~279 |
 | All for One | 0.30% | ~64 |
 | Privateer | 0.20% | ~186 |
 | Talent Scout | 0.20% | ~186 |
@@ -47,7 +47,7 @@ Rating: 3.96 (Ranked 1,047)
 | Full House | 0.10% | ~93 |
 | Geek Out | 0.10% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92,833 (Ranked 100)  
+Progressed: 92,839 (Ranked 100)  
 Completed: 58 (0.06%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 58 (0.06%) (Ranked 326)
 | 2023-12-29 | 92,698 | 58 |
 | 2023-12-30 | 92,767 | 58 |
 | 2023-12-31 | 92,813 | 58 |
-| 2024-01-01 | 92,833 | 58 |
+| 2024-01-01 | 92,839 | 58 |
 ## Awards
 Max (Diverse Characters): 585  (Ranked 209)  
 Sum: 2,770 (Ranked 190)  

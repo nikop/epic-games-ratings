@@ -6,35 +6,35 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 39.00% | ~11,812 |
-| Overkill | 33.00% | ~9,994 |
-| Vaccine Incoming | 32.00% | ~9,692 |
-| A normal day in Gloomhaven | 29.00% | ~8,783 |
-| Spread the plague | 27.00% | ~8,177 |
-| Get over here! | 24.00% | ~7,269 |
-| Just when I thought I was out... | 19.00% | ~5,754 |
-| Precious! | 16.00% | ~4,846 |
-| Mine... All Mine... | 16.00% | ~4,846 |
-| Grizzled veteran | 15.00% | ~4,543 |
-| Anatomy Lesson | 14.00% | ~4,240 |
-| Light of my life | 13.00% | ~3,937 |
-| Who's the Boss? | 12.00% | ~3,634 |
-| You activated my trap card! | 12.00% | ~3,634 |
-| Obstacle race | 12.00% | ~3,634 |
-| Augmented rat | 11.00% | ~3,331 |
+| I'm not dead yet | 39.00% | ~11,815 |
+| Overkill | 33.00% | ~9,997 |
+| Vaccine Incoming | 32.00% | ~9,694 |
+| A normal day in Gloomhaven | 29.00% | ~8,785 |
+| Spread the plague | 27.00% | ~8,179 |
+| Get over here! | 24.00% | ~7,271 |
+| Just when I thought I was out... | 19.00% | ~5,756 |
+| Precious! | 16.00% | ~4,847 |
+| Mine... All Mine... | 16.00% | ~4,847 |
+| Grizzled veteran | 15.00% | ~4,544 |
+| Anatomy Lesson | 14.00% | ~4,241 |
+| Light of my life | 13.00% | ~3,938 |
+| Who's the Boss? | 12.00% | ~3,635 |
+| You activated my trap card! | 12.00% | ~3,635 |
+| Obstacle race | 12.00% | ~3,635 |
+| Augmented rat | 11.00% | ~3,332 |
 | Doom and gloom | 10.00% | ~3,029 |
-| Dungeon Veteran | 8.00% | ~2,423 |
-| Pain is your friend | 8.00% | ~2,423 |
-| Pack leader | 7.00% | ~2,120 |
-| Black death | 7.00% | ~2,120 |
-| Play it again, Sam | 7.00% | ~2,120 |
-| Quad damage | 6.00% | ~1,817 |
-| Power Up! | 5.00% | ~1,514 |
-| Merchant of doom | 5.00% | ~1,514 |
-| Caught off guard | 5.00% | ~1,514 |
-| Now you see me... | 5.00% | ~1,514 |
-| The Pro from Dover | 4.00% | ~1,211 |
-| Pretty lights! | 4.00% | ~1,211 |
+| Dungeon Veteran | 8.00% | ~2,424 |
+| Pain is your friend | 8.00% | ~2,424 |
+| Pack leader | 7.00% | ~2,121 |
+| Black death | 7.00% | ~2,121 |
+| Play it again, Sam | 7.00% | ~2,121 |
+| Quad damage | 6.00% | ~1,818 |
+| Power Up! | 5.00% | ~1,515 |
+| Merchant of doom | 5.00% | ~1,515 |
+| Caught off guard | 5.00% | ~1,515 |
+| Now you see me... | 5.00% | ~1,515 |
+| The Pro from Dover | 4.00% | ~1,212 |
+| Pretty lights! | 4.00% | ~1,212 |
 | I hate portals | 3.00% | ~909 |
 | Down the hatch | 3.00% | ~909 |
 | An eye for an eye | 3.00% | ~909 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~30 |
 | Murder Death Kill | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,286 (Ranked 140)  
+Progressed: 30,294 (Ranked 140)  
 Completed: 1 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 1 (0.00%) (Ranked 390)
 | 2023-12-29 | 29,668 | 1 |
 | 2023-12-30 | 29,956 | 1 |
 | 2023-12-31 | 30,197 | 1 |
-| 2024-01-01 | 30,286 | 1 |
+| 2024-01-01 | 30,294 | 1 |
 ## Awards
 Max (Character Customization): 3,608  (Ranked 93)  
 Sum: 8,449 (Ranked 105)  

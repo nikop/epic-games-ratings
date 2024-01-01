@@ -6,19 +6,19 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 76.00% | ~5,828 |
-| Having A Field Day | 76.00% | ~5,828 |
-| Reap What You Sow | 73.00% | ~5,598 |
-| The First Day | 70.00% | ~5,368 |
-| Novice Researcher | 68.00% | ~5,215 |
-| Green Thumb | 67.00% | ~5,138 |
+| Get A Room | 76.00% | ~5,829 |
+| Having A Field Day | 76.00% | ~5,829 |
+| Reap What You Sow | 73.00% | ~5,599 |
+| The First Day | 70.00% | ~5,369 |
+| Novice Researcher | 68.00% | ~5,216 |
+| Green Thumb | 67.00% | ~5,139 |
 | Home Cooked Meal | 62.00% | ~4,755 |
-| Onward | 58.00% | ~4,448 |
+| Onward | 58.00% | ~4,449 |
 | The First Week | 56.00% | ~4,295 |
 | Studious Researcher | 53.00% | ~4,065 |
 | Beam Me Up | 52.00% | ~3,988 |
-| Adept Researcher | 45.00% | ~3,451 |
-| Putting Food on the Table | 44.00% | ~3,374 |
+| Adept Researcher | 45.00% | ~3,452 |
+| Putting Food on the Table | 44.00% | ~3,375 |
 | Retribution | 43.00% | ~3,298 |
 | ...And Don’t Come Back! | 43.00% | ~3,298 |
 | Feast or Famine | 35.00% | ~2,684 |
@@ -34,11 +34,11 @@ Number of Ratings: 706  (23.09.2022)
 | Nothing Wasted | 13.00% | ~997 |
 | Don't Cry Wolf | 13.00% | ~997 |
 | Deerly Departed | 8.00% | ~614 |
-| Where Wolf? | 5.00% | ~383 |
+| Where Wolf? | 5.00% | ~384 |
 | Food Chain | 2.00% | ~153 |
 | Wabbit Season | 0.50% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,669 (Ranked 191)  
+Progressed: 7,670 (Ranked 191)  
 Completed: 14 (0.18%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 14 (0.18%) (Ranked 277)
 | 2023-12-29 | 7,606 | 14 |
 | 2023-12-30 | 7,630 | 14 |
 | 2023-12-31 | 7,657 | 14 |
-| 2024-01-01 | 7,669 | 14 |
+| 2024-01-01 | 7,670 | 14 |
 ## Awards
 Max (Great for Beginners): 133  (Ranked 337)  
 Sum: 1,054 (Ranked 263)  

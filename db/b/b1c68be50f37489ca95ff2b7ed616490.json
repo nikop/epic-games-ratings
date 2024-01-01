@@ -4,7 +4,7 @@
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
   "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 240,
+  "EOS_Progressed": 241,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1049,6 +1049,11 @@
       "Time": "2024-01-01T10:05:59.24039+00:00",
       "NumProgressed": 240,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T14:08:05.6812555+00:00",
+      "NumProgressed": 241,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-05T15:06:14.3136114+00:00",
@@ -1059,9 +1064,9 @@
       "ID": "1",
       "SetID": "6bgoh8g",
       "Name": "A mystery? No! A trifle for Poirot!",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 144
+      "UsersEstimate": 147
     },
     {
       "ID": "10",
@@ -1075,9 +1080,9 @@
       "ID": "11",
       "SetID": "6bgoh8g",
       "Name": "Final questions",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "12",
@@ -1099,9 +1104,9 @@
       "ID": "14",
       "SetID": "6bgoh8g",
       "Name": "End of the line, everyone disembark",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "15",
@@ -1205,7 +1210,7 @@
       "Name": "The only useful pigeon is a stool pigeon",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "27",
@@ -1213,7 +1218,7 @@
       "Name": "Dessert Connoisseur!",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "3",
@@ -1237,7 +1242,7 @@
       "Name": "The power of observation",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "6",
@@ -1276,14 +1281,14 @@
     {
       "ID": "6bgoh8g",
       "IsBase": true,
-      "Progressed": 240,
+      "Progressed": 241,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2024-01-01T13:10:03.6944432+00:00",
+  "LastChanged_Achievements": "2024-01-01T14:08:05.6812552+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:21.3580987+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:06:29.2111947+00:00",
-  "LastUpdate_Achievements": "2024-01-01T13:10:03.6944697+00:00"
+  "LastUpdate_Ratings": "2024-01-01T14:03:29.9977832+00:00",
+  "LastUpdate_Achievements": "2024-01-01T14:08:05.6812814+00:00"
 }

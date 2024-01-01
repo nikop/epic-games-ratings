@@ -3,10 +3,10 @@
   "Name": "Destroy All Humans! 2 - Reprobed",
   "ProductSlug": "destroy-all-humans-2-reprobed",
   "Ranking_Rating": 560,
-  "Ranking_Popularity": 492,
-  "Ranking_PopularitySum": 523,
+  "Ranking_Popularity": 493,
+  "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 399,
-  "Ranking_EOS_Completed": 234,
+  "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
@@ -1550,9 +1550,9 @@
       "ID": "ACH_KILL_ORANCHOV",
       "SetID": "4n84pon",
       "Name": "Freshly Squeezed",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 54
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_KILL_PONSONBY",
@@ -1719,8 +1719,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-31T11:01:39.7283208+00:00",
-  "LastChanged_Achievements": "2024-01-01T13:12:23.4502171+00:00",
+  "LastChanged_Achievements": "2024-01-01T14:09:32.6245885+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.261947+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:00:43.2005762+00:00",
-  "LastUpdate_Achievements": "2024-01-01T13:12:23.4502691+00:00"
+  "LastUpdate_Ratings": "2024-01-01T13:57:26.0243189+00:00",
+  "LastUpdate_Achievements": "2024-01-01T14:09:32.6246242+00:00"
 }

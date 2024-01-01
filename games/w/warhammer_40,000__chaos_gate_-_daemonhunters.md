@@ -26,13 +26,13 @@ Number of Ratings: 371  (23.09.2022)
 | Daemonkeeper | 2.00% | ~74 |
 | Corruption Cleanser | 2.00% | ~74 |
 | Efficient Killer | 2.00% | ~74 |
+| Only in Death | 2.00% | ~74 |
 | A Gift Spurned | 2.00% | ~74 |
 | Execution Force | 2.00% | ~74 |
 | Hive Exterminator | 2.00% | ~74 |
 | Fleetmaster | 1.00% | ~37 |
 | Exterminator | 1.00% | ~37 |
 | Mind Like a Fortress | 1.00% | ~37 |
-| Only in Death | 1.00% | ~37 |
 | Preservationist | 1.00% | ~37 |
 | Junk Banishment | 1.00% | ~37 |
 | Long Distance Call | 1.00% | ~37 |

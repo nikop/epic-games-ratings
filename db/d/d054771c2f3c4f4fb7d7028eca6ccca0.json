@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3283,
+  "EOS_Progressed": 3288,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 566,
   "EOS_NewCompleters": 0,
@@ -3554,6 +3554,11 @@
       "Time": "2024-01-01T13:07:39.5199905+00:00",
       "NumProgressed": 3283,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T14:05:02.6052562+00:00",
+      "NumProgressed": 3288,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -3590,7 +3595,7 @@
       "Name": "Highest Among the Highest",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -3670,7 +3675,7 @@
       "Name": "Worthy Badge",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -3750,7 +3755,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1149
+      "UsersEstimate": 1151
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -3766,7 +3771,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 1313
+      "UsersEstimate": 1315
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -3941,14 +3946,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 3283,
+      "Progressed": 3288,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2024-01-01T13:07:39.5199901+00:00",
+  "LastChanged_Achievements": "2024-01-01T14:05:02.6052558+00:00",
   "LastUpdate_AppInfo": "2023-12-26T12:59:42.4793606+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:03:20.2752577+00:00",
-  "LastUpdate_Achievements": "2024-01-01T13:07:39.5200305+00:00"
+  "LastUpdate_Ratings": "2024-01-01T14:00:56.80501+00:00",
+  "LastUpdate_Achievements": "2024-01-01T14:05:02.6053076+00:00"
 }

@@ -5355,9 +5355,9 @@
       "Count": 531
     }
   ],
-  "EOS_Progressed": 92833,
+  "EOS_Progressed": 92839,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 325,
+  "EOS_NewPlayers": 329,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -29955,6 +29955,11 @@
       "Time": "2024-01-01T13:07:25.1298256+00:00",
       "NumProgressed": 92833,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-01T14:04:43.5339751+00:00",
+      "NumProgressed": 92839,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -30030,7 +30035,7 @@
       "Name": "Rockay Knight",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "ACH_0030",
@@ -30078,7 +30083,7 @@
       "Name": "Headhunter",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "ACH_0101",
@@ -30110,7 +30115,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3713
+      "UsersEstimate": 3714
     },
     {
       "ID": "ACH_0210",
@@ -30118,7 +30123,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3713
+      "UsersEstimate": 3714
     },
     {
       "ID": "ACH_0211",
@@ -30166,7 +30171,7 @@
       "Name": "Red Star",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "ACH_0350",
@@ -30206,7 +30211,7 @@
       "Name": "Classy Joint",
       "Percentage": 0.3,
       "XP": 55,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "ACH_0440",
@@ -30293,13 +30298,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 92833,
+      "Progressed": 92839,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 21180,
+      "Progressed": 21186,
       "Completed": 15593
     }
   ],
@@ -30307,8 +30312,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2024-01-01T09:59:49.4620951+00:00",
-  "LastChanged_Achievements": "2024-01-01T13:07:25.1298251+00:00",
+  "LastChanged_Achievements": "2024-01-01T14:04:43.5339748+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:43.6008036+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:03:32.330315+00:00",
-  "LastUpdate_Achievements": "2024-01-01T13:07:25.1299754+00:00"
+  "LastUpdate_Ratings": "2024-01-01T14:01:11.7171404+00:00",
+  "LastUpdate_Achievements": "2024-01-01T14:04:43.5340941+00:00"
 }

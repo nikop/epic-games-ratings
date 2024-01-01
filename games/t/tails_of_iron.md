@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 505)
 | King of Kings | 0.30% | ~7 |
 | A new Warchief rises | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,297 (Ranked 236)  
+Progressed: 2,298 (Ranked 236)  
 Completed: 12 (0.52%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,6 +253,7 @@ Completed: 12 (0.52%) (Ranked 216)
 | 2023-12-29 | 2,292 | 12 |
 | 2023-12-30 | 2,295 | 12 |
 | 2023-12-31 | 2,297 | 12 |
+| 2024-01-01 | 2,298 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

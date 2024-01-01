@@ -8,7 +8,7 @@ Number of Ratings: 20  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Adventure Begins | 66.00% | ~256 |
 | Cartographer | 59.00% | ~229 |
-| A Strange Artefact | 54.00% | ~210 |
+| A Strange Artefact | 55.00% | ~213 |
 | Insomnia | 50.00% | ~194 |
 | Lost & Found & Lost Again | 45.00% | ~175 |
 | From Whence we Came | 44.00% | ~171 |
@@ -18,7 +18,7 @@ Number of Ratings: 20  (23.09.2022)
 | Treasure Hunt | 36.00% | ~140 |
 | Good Mama | 34.00% | ~132 |
 | O Captain My Captain | 32.00% | ~124 |
-| Plunderer | 30.00% | ~116 |
+| Plunderer | 31.00% | ~120 |
 | Taxonomist | 28.00% | ~109 |
 | Traveller | 26.00% | ~101 |
 | Uncertain Loyalties | 26.00% | ~101 |

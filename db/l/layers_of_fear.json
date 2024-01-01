@@ -4,7 +4,7 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 407,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 249,
+  "EOS_Progressed": 250,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
@@ -1129,6 +1129,11 @@
       "Time": "2024-01-01T13:11:53.1930874+00:00",
       "NumProgressed": 249,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T14:08:54.9123409+00:00",
+      "NumProgressed": 250,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -1149,7 +1154,7 @@
       "Name": "Another perspective",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "assemble_puzzles",
@@ -1197,7 +1202,7 @@
       "Name": "We Are Not Alone",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "collect_most_of_posters",
@@ -1213,15 +1218,15 @@
       "Name": "Dark correspondence",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "covered_up_for_a_reason",
       "SetID": "f2im8d",
       "Name": "It\u0027s covered up for a reason",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 135
     },
     {
       "ID": "decrypt_one_myth",
@@ -1243,9 +1248,9 @@
       "ID": "do_not_look",
       "SetID": "f2im8d",
       "Name": "Refuse to look",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 87
+      "UsersEstimate": 85
     },
     {
       "ID": "do_what_you_have_to",
@@ -1267,9 +1272,9 @@
       "ID": "face_your_fears",
       "SetID": "f2im8d",
       "Name": "Face your fears",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 72
+      "UsersEstimate": 70
     },
     {
       "ID": "find_most_of_family_mementos",
@@ -1293,7 +1298,7 @@
       "Name": "Scraps of love",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "find_one_photo",
@@ -1315,9 +1320,9 @@
       "ID": "find_one_rat_sketch",
       "SetID": "f2im8d",
       "Name": "The artist\u2019s impression",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 115
     },
     {
       "ID": "finished_it",
@@ -1389,7 +1394,7 @@
       "Name": "Lights! Camera! Action!",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "once_upon_a_time",
@@ -1421,7 +1426,7 @@
       "Name": "Playtime",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "preferred_parent",
@@ -1475,9 +1480,9 @@
       "ID": "something_important",
       "SetID": "f2im8d",
       "Name": "Something important",
-      "Percentage": 85,
+      "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 212
+      "UsersEstimate": 210
     },
     {
       "ID": "spy_one_item",
@@ -1517,7 +1522,7 @@
       "Name": "Tough conversation",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "true_reflection",
@@ -1525,7 +1530,7 @@
       "Name": "True Reflection",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "view_most_of_photos",
@@ -1556,14 +1561,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 249,
+      "Progressed": 250,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-01T13:11:53.1930869+00:00",
+  "LastChanged_Achievements": "2024-01-01T14:08:54.9123403+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.7570027+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:00:56.9846921+00:00",
-  "LastUpdate_Achievements": "2024-01-01T13:11:53.1931342+00:00"
+  "LastUpdate_Ratings": "2024-01-01T13:57:44.9425496+00:00",
+  "LastUpdate_Achievements": "2024-01-01T14:08:54.9123875+00:00"
 }

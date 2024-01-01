@@ -6,7 +6,7 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 45.00% | ~409 |
+| Adept | 45.00% | ~410 |
 | Double Kill | 39.00% | ~355 |
 | Critical Hit | 21.00% | ~191 |
 | Veteran | 21.00% | ~191 |
@@ -18,8 +18,8 @@ Number of Ratings: 292  (23.09.2022)
 | Master | 7.00% | ~64 |
 | Whoops! | 6.00% | ~55 |
 | Landlord Extraordinaire | 6.00% | ~55 |
-| The Song of Stoutheart | 5.00% | ~45 |
-| Don't Touch My Stuff | 5.00% | ~45 |
+| The Song of Stoutheart | 5.00% | ~46 |
+| Don't Touch My Stuff | 5.00% | ~46 |
 | Trojan Horse | 4.00% | ~36 |
 | Expert Essence Employment | 3.00% | ~27 |
 | Venisti, Vidisti, Perdidisti | 3.00% | ~27 |
@@ -34,8 +34,8 @@ Number of Ratings: 292  (23.09.2022)
 | Such A Fungi | 1.00% | ~9 |
 | Grand Master | 1.00% | ~9 |
 | In The Thick of It | 0.70% | ~6 |
-| Unlimited Power! | 0.60% | ~5 |
-| Get Over Here! | 0.60% | ~5 |
+| Unlimited Power! | 0.50% | ~5 |
+| Get Over Here! | 0.50% | ~5 |
 | Death To Diplomacy | 0.40% | ~4 |
 | Killing Spree | 0.40% | ~4 |
 | Fully Charged | 0.30% | ~3 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 909 (Ranked 294)  
+Progressed: 910 (Ranked 294)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-29 | 850 | 0 |
 | 2023-12-30 | 871 | 0 |
 | 2023-12-31 | 895 | 0 |
-| 2024-01-01 | 909 | 0 |
+| 2024-01-01 | 910 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 29  (Ranked 520)  
 Sum: 251 (Ranked 399)  

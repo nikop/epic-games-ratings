@@ -1,11 +1,11 @@
 # The Outlast Trials
 [Store](https://store.epicgames.com/en-US/p/the-outlast-trials)  
 [View Rawdata](../../db/t/the_outlast_trials.json)  
-Rating: 4.66 (Ranked 303)  
+Rating: 4.66 (Ranked 302)  
 ## Awards
 Max (Great for Beginners): 270  (Ranked 271)  
-Sum: 1,477 (Ranked 242)  
-Diff (max vs sum): 29  
+Sum: 1,477 (Ranked 243)  
+Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 270 |

@@ -1,46 +1,46 @@
 # PC Building Simulator
 [Store](https://store.epicgames.com/en-US/p/pc-building-simulator)  
 [View Rawdata](../../db/p/pc_building_simulator.json)  
-Rating: 4.66 (Ranked 303)  
+Rating: 4.66 (Ranked 302)  
 Number of Ratings: 12,155  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,764,759 |
-| Easy to forget | 46.00% | ~1,656,713 |
-| Back in the black | 39.00% | ~1,404,604 |
-| That's what I'm talking about | 29.00% | ~1,044,449 |
-| The Best of Both Worlds | 25.00% | ~900,387 |
-| Get your wings | 20.00% | ~720,310 |
-| Double trouble | 16.00% | ~576,248 |
-| Smashing it | 11.00% | ~396,170 |
-| But can it run Crysis? | 9.00% | ~324,139 |
-| My favourite feature... | 9.00% | ~324,139 |
-| From humble beginnings... | 7.00% | ~252,108 |
-| Customer satisfaction | 7.00% | ~252,108 |
-| Keeping things neat | 4.00% | ~144,062 |
-| Seems you're pretty good at this | 4.00% | ~144,062 |
-| Bending over backwards | 4.00% | ~144,062 |
-| I'm broke, Uncle! | 3.00% | ~108,046 |
-| Triple threat | 3.00% | ~108,046 |
-| You rock at this! | 3.00% | ~108,046 |
-| Perfection | 3.00% | ~108,046 |
-| Your music sucks | 3.00% | ~108,046 |
-| Maybe you should try something else? | 2.00% | ~72,031 |
-| Taking care of business | 2.00% | ~72,031 |
-| Things are under control | 2.00% | ~72,031 |
-| Calling in Sick | 2.00% | ~72,031 |
-| Overvolted | 1.00% | ~36,015 |
-| If you fail the first time... | 1.00% | ~36,015 |
-| Amazonian | 1.00% | ~36,015 |
-| Show off | 1.00% | ~36,015 |
-| The Stuart Morton Award for Purpleness | 1.00% | ~36,015 |
-| Building isn't cheap! | 1.00% | ~36,015 |
-| Majority Shareholder | 1.00% | ~36,015 |
-| Owner | 1.00% | ~36,015 |
+| You need to plug it in... | 49.00% | ~1,764,778 |
+| Easy to forget | 46.00% | ~1,656,730 |
+| Back in the black | 39.00% | ~1,404,619 |
+| That's what I'm talking about | 29.00% | ~1,044,460 |
+| The Best of Both Worlds | 25.00% | ~900,397 |
+| Get your wings | 20.00% | ~720,317 |
+| Double trouble | 16.00% | ~576,254 |
+| Smashing it | 11.00% | ~396,175 |
+| But can it run Crysis? | 9.00% | ~324,143 |
+| My favourite feature... | 9.00% | ~324,143 |
+| From humble beginnings... | 7.00% | ~252,111 |
+| Customer satisfaction | 7.00% | ~252,111 |
+| Keeping things neat | 4.00% | ~144,063 |
+| Seems you're pretty good at this | 4.00% | ~144,063 |
+| Bending over backwards | 4.00% | ~144,063 |
+| I'm broke, Uncle! | 3.00% | ~108,048 |
+| Triple threat | 3.00% | ~108,048 |
+| You rock at this! | 3.00% | ~108,048 |
+| Perfection | 3.00% | ~108,048 |
+| Your music sucks | 3.00% | ~108,048 |
+| Maybe you should try something else? | 2.00% | ~72,032 |
+| Taking care of business | 2.00% | ~72,032 |
+| Things are under control | 2.00% | ~72,032 |
+| Calling in Sick | 2.00% | ~72,032 |
+| Overvolted | 1.00% | ~36,016 |
+| If you fail the first time... | 1.00% | ~36,016 |
+| Amazonian | 1.00% | ~36,016 |
+| Show off | 1.00% | ~36,016 |
+| The Stuart Morton Award for Purpleness | 1.00% | ~36,016 |
+| Building isn't cheap! | 1.00% | ~36,016 |
+| Majority Shareholder | 1.00% | ~36,016 |
+| Owner | 1.00% | ~36,016 |
 | Work ethic 101 | 0.70% | ~25,211 |
-| Building momentum | 0.60% | ~21,609 |
-| Lead by example | 0.60% | ~21,609 |
+| Building momentum | 0.60% | ~21,610 |
+| Lead by example | 0.60% | ~21,610 |
 | Treat yourself - RAM | 0.50% | ~18,008 |
 | Mr big business | 0.40% | ~14,406 |
 | So you're the reason why the prices are so high? | 0.30% | ~10,805 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,602 |
 | Treat yourself - GPU | 0.10% | ~3,602 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,601,549 (Ranked 5)  
+Progressed: 3,601,587 (Ranked 5)  
 Completed: 41 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,10 +315,10 @@ Completed: 41 (0.00%) (Ranked 390)
 | 2023-12-29 | 3,599,975 | 41 |
 | 2023-12-30 | 3,600,609 | 41 |
 | 2023-12-31 | 3,601,247 | 41 |
-| 2024-01-01 | 3,601,549 | 41 |
+| 2024-01-01 | 3,601,587 | 41 |
 ## Awards
 Max (Great for Beginners): 1,125  (Ranked 149)  
-Sum: 8,252 (Ranked 111)  
+Sum: 8,253 (Ranked 111)  
 Diff (max vs sum): 38  
 | Award | Count |
 | ----- | ----- |
@@ -328,7 +328,7 @@ Diff (max vs sum): 38
 | This game is Relaxing | 1,003 |
 | This game has Quickly Understood Controls | 965 |
 | This game is Highly Recommended | 928 |
-| This game has Amazing Storytelling | 838 |
+| This game has Amazing Storytelling | 839 |
 | This game has Amazing Characters | 683 |
 | This game has a Creative Community | 670 |
 | This game has Obsessive Gameplay | 664 |
@@ -631,3 +631,4 @@ Diff (max vs sum): 38
 | 2023-12-29 | 4.66 | - | 1,123 | 8,246 |
 | 2023-12-30 | 4.66 | - | 1,123 | 8,247 |
 | 2023-12-31 | 4.66 | - | 1,125 | 8,252 |
+| 2024-01-01 | 4.66 | - | 1,125 | 8,253 |

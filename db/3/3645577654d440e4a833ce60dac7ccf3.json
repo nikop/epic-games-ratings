@@ -334,17 +334,17 @@
       "ID": "MagicCat20",
       "SetID": "df8cl74",
       "Name": "Magic Cat: 20 cats unlocked",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MagicCat30",
       "SetID": "df8cl74",
       "Name": "Magic Cat: 30 cats unlocked",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MagicCat40",
@@ -470,9 +470,9 @@
       "ID": "Tower5_Normal",
       "SetID": "df8cl74",
       "Name": "Clear the Fifth Tower",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Tower5_RankA",
@@ -532,8 +532,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-22T06:03:17.9237808+00:00",
-  "LastChanged_Achievements": "2024-01-01T13:07:07.0408529+00:00",
+  "LastChanged_Achievements": "2024-01-01T14:04:20.0294527+00:00",
   "LastUpdate_AppInfo": "2023-12-27T07:56:54.3726407+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:02:56.8482338+00:00",
-  "LastUpdate_Achievements": "2024-01-01T13:07:07.0408806+00:00"
+  "LastUpdate_Ratings": "2024-01-01T14:00:26.562904+00:00",
+  "LastUpdate_Achievements": "2024-01-01T14:04:20.029481+00:00"
 }

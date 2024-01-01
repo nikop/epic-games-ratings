@@ -12,8 +12,8 @@ Rating: 4.30 (Ranked 869)
 | Wheeler Dealer | 25.00% | ~160 |
 | Look Mom, I Can Fly | 24.00% | ~153 |
 | National Amateurs Champion | 19.00% | ~121 |
+| Hating Them Tin Cans | 16.00% | ~102 |
 | Junk Collector | 15.00% | ~96 |
-| Hating Them Tin Cans | 15.00% | ~96 |
 | Trashing Around | 14.00% | ~89 |
 | Challengers Champion | 11.00% | ~70 |
 | Pro Internationals Champion | 7.00% | ~45 |

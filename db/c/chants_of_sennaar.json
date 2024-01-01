@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 69,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -99,7 +99,7 @@
   "Tags": [],
   "EOS_Progressed": 2151,
   "EOS_Completed": 131,
-  "EOS_NewPlayers": 390,
+  "EOS_NewPlayers": 385,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 6.09,
   "EosHistory": [
@@ -6038,9 +6038,9 @@
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 581
+      "UsersEstimate": 602
     },
     {
       "ID": "META_HALF_LINK",
@@ -6118,9 +6118,9 @@
       "ID": "OPTIONNAL_GAMES",
       "SetID": "2gma9an",
       "Name": "True G3M4R",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 602
+      "UsersEstimate": 624
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -6190,9 +6190,9 @@
       "ID": "PROGRESS_N4",
       "SetID": "2gma9an",
       "Name": "The darkness",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 60,
-      "UsersEstimate": 602
+      "UsersEstimate": 624
     },
     {
       "ID": "PROGRESS_N5",
@@ -6215,8 +6215,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-31T07:01:38.7723363+00:00",
-  "LastChanged_Achievements": "2024-01-01T13:10:11.4827012+00:00",
+  "LastChanged_Achievements": "2024-01-01T14:08:15.5950369+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:09.4320521+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:04:22.2152277+00:00",
-  "LastUpdate_Achievements": "2024-01-01T13:10:11.4827481+00:00"
+  "LastUpdate_Ratings": "2024-01-01T14:02:56.1782844+00:00",
+  "LastUpdate_Achievements": "2024-01-01T14:08:15.5950791+00:00"
 }

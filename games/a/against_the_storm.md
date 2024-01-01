@@ -16,17 +16,17 @@ Number of Ratings: 1,845  (23.09.2022)
 | Overcoming Difficulty | 5.00% | ~994 |
 | Coral Forest | 5.00% | ~994 |
 | The Scarlet Orchard | 5.00% | ~994 |
+| Frosts | 5.00% | ~994 |
 | Ominous Presence | 5.00% | ~994 |
 | Gathering Storm | 5.00% | ~994 |
-| Frosts | 4.00% | ~795 |
 | Land of Greed | 4.00% | ~795 |
-| Homesick | 3.00% | ~596 |
-| Fertile Meadows | 3.00% | ~596 |
-| Monastery of the Holy Flame | 3.00% | ~596 |
-| Royal Outpost | 3.00% | ~596 |
-| Watchtower | 3.00% | ~596 |
-| A Real Challenge | 3.00% | ~596 |
-| Untamed Wilds | 3.00% | ~596 |
+| Homesick | 3.00% | ~597 |
+| Fertile Meadows | 3.00% | ~597 |
+| Monastery of the Holy Flame | 3.00% | ~597 |
+| Royal Outpost | 3.00% | ~597 |
+| Watchtower | 3.00% | ~597 |
+| A Real Challenge | 3.00% | ~597 |
+| Untamed Wilds | 3.00% | ~597 |
 | Ruined Armory | 2.00% | ~398 |
 | Bandit Camp | 2.00% | ~398 |
 | Barren Lands | 2.00% | ~398 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,882 (Ranked 152)  
+Progressed: 19,885 (Ranked 152)  
 Completed: 33 (0.17%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,7 +322,7 @@ Completed: 33 (0.17%) (Ranked 281)
 | 2023-12-29 | 19,630 | 36 |
 | 2023-12-30 | 19,741 | 35 |
 | 2023-12-31 | 19,834 | 34 |
-| 2024-01-01 | 19,882 | 33 |
+| 2024-01-01 | 19,885 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 447  (Ranked 229)  
 Sum: 3,315 (Ranked 177)  

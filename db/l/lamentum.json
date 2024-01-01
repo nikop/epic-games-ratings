@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewPlayers": 428,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-05-12T16:00:00+00:00",
@@ -78,9 +78,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 340,
+  "EOS_Progressed": 341,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.35,
   "EosHistory": [
@@ -448,6 +448,11 @@
       "Time": "2023-12-30T18:04:35.5381596+00:00",
       "NumProgressed": 340,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-01T14:06:30.2027197+00:00",
+      "NumProgressed": 341,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 19,
@@ -523,23 +528,23 @@
       "Name": "There is freedom in awakening",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "achievement_09",
       "SetID": "7881h0d",
       "Name": "Grau Hill",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 258
+      "UsersEstimate": 263
     },
     {
       "ID": "achievement_10",
       "SetID": "7881h0d",
       "Name": "The creature",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 272
+      "UsersEstimate": 269
     },
     {
       "ID": "achievement_11",
@@ -563,7 +568,7 @@
       "Name": "One step down",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "achievement_14",
@@ -587,7 +592,7 @@
       "Name": "The other side of the mirror",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "achievement_17",
@@ -610,7 +615,7 @@
     {
       "ID": "7881h0d",
       "IsBase": true,
-      "Progressed": 340,
+      "Progressed": 341,
       "Completed": 8
     }
   ],
@@ -618,8 +623,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-12-19T15:00:52.3248594+00:00",
-  "LastChanged_Achievements": "2024-01-01T13:08:47.7295852+00:00",
+  "LastChanged_Achievements": "2024-01-01T14:06:30.2027193+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:31.5419716+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:02:56.5897621+00:00",
-  "LastUpdate_Achievements": "2024-01-01T13:08:47.7296+00:00"
+  "LastUpdate_Ratings": "2024-01-01T14:00:26.3701055+00:00",
+  "LastUpdate_Achievements": "2024-01-01T14:06:30.2027334+00:00"
 }

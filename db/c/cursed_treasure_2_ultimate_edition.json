@@ -4,7 +4,7 @@
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
   "Ranking_EOS_Progress": 426,
   "Ranking_EOS_Completed": 29,
-  "Ranking_EOS_NewPlayers": 568,
+  "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
@@ -670,9 +670,9 @@
       "ID": "BADGE_SKILL_BRANCH_MAX",
       "SetID": "ak6pfjk",
       "Name": "Father of Nation",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 64
     },
     {
       "ID": "BADGE_SKILL_MAX",
@@ -727,8 +727,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2024-01-01T13:07:12.087585+00:00",
+  "LastChanged_Achievements": "2024-01-01T14:04:26.5485467+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:29.6085275+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:06:30.8239023+00:00",
-  "LastUpdate_Achievements": "2024-01-01T13:07:12.0876194+00:00"
+  "LastUpdate_Ratings": "2024-01-01T14:03:32.4040331+00:00",
+  "LastUpdate_Achievements": "2024-01-01T14:04:26.548585+00:00"
 }

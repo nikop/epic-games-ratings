@@ -16,7 +16,7 @@ Number of Ratings: 124  (23.09.2022)
 | Festival-goer | 18.00% | ~29 |
 | Commander | 14.00% | ~22 |
 | Long-Haul Flyer | 13.00% | ~21 |
-| Pass A38 | 12.00% | ~19 |
+| Pass A38 | 13.00% | ~21 |
 | Irissa's Fate | 11.00% | ~17 |
 | Berserker | 9.00% | ~14 |
 | Family Reunion | 9.00% | ~14 |
@@ -24,8 +24,8 @@ Number of Ratings: 124  (23.09.2022)
 | Globetrotter | 8.00% | ~13 |
 | Eternal Oblivion | 8.00% | ~13 |
 | Alb | 7.00% | ~11 |
+| Hunter | 6.00% | ~10 |
 | Banker | 5.00% | ~8 |
-| Hunter | 5.00% | ~8 |
 | Beam Me Up | 4.00% | ~6 |
 | Hotshot | 4.00% | ~6 |
 | Free as a Bird | 4.00% | ~6 |

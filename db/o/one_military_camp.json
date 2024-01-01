@@ -4,7 +4,7 @@
   "ProductSlug": "one-military-camp-8db1f6",
   "Ranking_EOS_Progress": 403,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 323,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 262,
+  "EOS_Progressed": 263,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1164,6 +1164,11 @@
       "Time": "2023-12-31T19:04:54.4189059+00:00",
       "NumProgressed": 262,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T14:06:09.577017+00:00",
+      "NumProgressed": 263,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-17T17:03:41.4004468+00:00",
@@ -1232,7 +1237,7 @@
       "Name": "Outdoor Decorator",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_ID_16",
@@ -1336,7 +1341,7 @@
       "Name": "The 4 Pillars",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ACHIEVEMENT_ID_28",
@@ -1384,7 +1389,7 @@
       "Name": "Capitalism",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACHIEVEMENT_ID_33",
@@ -1424,7 +1429,7 @@
       "Name": "Medicine Tycoon",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_ID_38",
@@ -1448,7 +1453,7 @@
       "Name": "First Step",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_ID_40",
@@ -1527,14 +1532,14 @@
     {
       "ID": "c504de6",
       "IsBase": true,
-      "Progressed": 262,
+      "Progressed": 263,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2024-01-01T13:08:31.8937232+00:00",
+  "LastChanged_Achievements": "2024-01-01T14:06:09.5770167+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.400419+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:03:59.9661961+00:00",
-  "LastUpdate_Achievements": "2024-01-01T13:08:31.8937527+00:00"
+  "LastUpdate_Ratings": "2024-01-01T14:01:48.2724144+00:00",
+  "LastUpdate_Achievements": "2024-01-01T14:06:09.5770438+00:00"
 }

@@ -11,7 +11,7 @@ Number of Ratings: 116  (23.09.2022)
 | Helping Hand | 65.00% | ~232 |
 | Increased Vigor | 59.00% | ~211 |
 | Fight Fire with Fire | 57.00% | ~203 |
-| Increased Capacity | 53.00% | ~189 |
+| Increased Capacity | 54.00% | ~193 |
 | Just the start | 48.00% | ~171 |
 | Perfect Storm | 45.00% | ~161 |
 | All That Glitters | 45.00% | ~161 |
@@ -29,8 +29,8 @@ Number of Ratings: 116  (23.09.2022)
 | Delusions of Grandeur | 30.00% | ~107 |
 | Love Tap | 29.00% | ~104 |
 | Freeze Frame | 26.00% | ~93 |
+| Eat Your Heart Out | 26.00% | ~93 |
 | For Whom the Bell Tolls | 26.00% | ~93 |
-| Eat Your Heart Out | 25.00% | ~89 |
 | Unyielding Strength | 24.00% | ~86 |
 | Big Spender | 24.00% | ~86 |
 | Cleanup Crew | 22.00% | ~79 |

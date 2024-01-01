@@ -450,9 +450,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 909,
+  "EOS_Progressed": 910,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3270,6 +3270,11 @@
       "Time": "2024-01-01T13:12:19.5593554+00:00",
       "NumProgressed": 909,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T14:09:27.6655928+00:00",
+      "NumProgressed": 910,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3290,7 +3295,7 @@
       "Name": "The Song of Stoutheart",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ArleonCampaignFinaleOnHard",
@@ -3360,7 +3365,7 @@
       "ID": "ChainLightningKills",
       "SetID": "71c0n9i",
       "Name": "Unlimited Power!",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -3546,7 +3551,7 @@
       "Name": "Don\u0027t Touch My Stuff",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "RepelIntoExplosiveFungi",
@@ -3568,7 +3573,7 @@
       "ID": "SwapIntoPoisonCloud",
       "SetID": "71c0n9i",
       "Name": "Get Over Here!",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -3610,7 +3615,7 @@
       "Name": "Adept",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "WielderLevel2",
@@ -3713,15 +3718,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 909,
+      "Progressed": 910,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2024-01-01T13:12:19.5593549+00:00",
+  "LastChanged_Achievements": "2024-01-01T14:09:27.665592+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:53.9356991+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:04:02.4269372+00:00",
-  "LastUpdate_Achievements": "2024-01-01T13:12:19.5594054+00:00"
+  "LastUpdate_Ratings": "2024-01-01T14:01:51.3043443+00:00",
+  "LastUpdate_Achievements": "2024-01-01T14:09:27.6656664+00:00"
 }

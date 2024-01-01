@@ -25,9 +25,9 @@
 | Courier | 5.00% | ~13 |
 | Pilgrimage's End | 5.00% | ~13 |
 | Merchant | 5.00% | ~13 |
+| Trouble at Fort Larius | 5.00% | ~13 |
 | Been There | 4.00% | ~11 |
 | Spiritual Journey | 4.00% | ~11 |
-| Trouble at Fort Larius | 4.00% | ~11 |
 | Bounty Hunter | 3.00% | ~8 |
 | Quartermaster | 3.00% | ~8 |
 | Potential Unlocked | 3.00% | ~8 |

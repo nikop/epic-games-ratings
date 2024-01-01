@@ -1359,9 +1359,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 7750,
+  "EOS_Progressed": 7754,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1778,
+  "EOS_NewPlayers": 1782,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9594,6 +9594,11 @@
       "Time": "2024-01-01T13:08:59.7881608+00:00",
       "NumProgressed": 7750,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T14:06:45.3001357+00:00",
+      "NumProgressed": 7754,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -9606,7 +9611,7 @@
       "Name": "Primetime",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "achievement_10",
@@ -9614,7 +9619,7 @@
       "Name": "Stud Finder",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 2558
+      "UsersEstimate": 2559
     },
     {
       "ID": "achievement_11",
@@ -9630,7 +9635,7 @@
       "Name": "Dealmaker",
       "Percentage": 24,
       "XP": 60,
-      "UsersEstimate": 1860
+      "UsersEstimate": 1861
     },
     {
       "ID": "achievement_13",
@@ -9638,7 +9643,7 @@
       "Name": "MVP",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 2170
+      "UsersEstimate": 2171
     },
     {
       "ID": "achievement_14",
@@ -9646,7 +9651,7 @@
       "Name": "ROTY",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 2558
+      "UsersEstimate": 2559
     },
     {
       "ID": "achievement_15",
@@ -9702,7 +9707,7 @@
       "Name": "Saw It Coming",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 4418
+      "UsersEstimate": 4420
     },
     {
       "ID": "achievement_21",
@@ -9726,7 +9731,7 @@
       "Name": "Lockdown Corner",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "achievement_5",
@@ -9734,7 +9739,7 @@
       "Name": "Change of Scenery",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 1240
+      "UsersEstimate": 1241
     },
     {
       "ID": "achievement_6",
@@ -9750,7 +9755,7 @@
       "Name": "Head-to-Head",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "achievement_8",
@@ -9773,7 +9778,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 7750,
+      "Progressed": 7754,
       "Completed": 0
     }
   ],
@@ -9781,8 +9786,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2024-01-01T11:00:13.0203096+00:00",
-  "LastChanged_Achievements": "2024-01-01T13:08:59.7881606+00:00",
+  "LastChanged_Achievements": "2024-01-01T14:06:45.3001354+00:00",
   "LastUpdate_AppInfo": "2023-12-28T08:57:17.7769653+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:02:38.953511+00:00",
-  "LastUpdate_Achievements": "2024-01-01T13:08:59.7882008+00:00"
+  "LastUpdate_Ratings": "2024-01-01T14:00:01.930709+00:00",
+  "LastUpdate_Achievements": "2024-01-01T14:06:45.3001899+00:00"
 }

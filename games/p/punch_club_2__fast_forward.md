@@ -61,12 +61,12 @@
 | Keep nature safe | 28.00% | ~144 |
 | Family comes first | 28.00% | ~144 |
 | Key memories | 28.00% | ~144 |
+| The last bell ring | 28.00% | ~144 |
 | Careerist | 28.00% | ~144 |
+| Anyone can resist | 28.00% | ~144 |
 | The heart of the Resistance | 28.00% | ~144 |
 | Your own way | 28.00% | ~144 |
 | Trap disarmed | 27.00% | ~139 |
-| The last bell ring | 27.00% | ~139 |
-| Anyone can resist | 27.00% | ~139 |
 | Silver’s past | 25.00% | ~128 |
 | Better cooking at home | 25.00% | ~128 |
 | The only right decision | 25.00% | ~128 |

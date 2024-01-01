@@ -57,7 +57,7 @@
   "Tags": [],
   "EOS_Progressed": 1253,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 275,
+  "EOS_NewPlayers": 272,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3438,9 +3438,9 @@
       "ID": "AchvReachBase",
       "SetID": "1hj060c",
       "Name": "The field base",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 539
+      "UsersEstimate": 551
     },
     {
       "ID": "AchvReachCamp",
@@ -3494,9 +3494,9 @@
       "ID": "AchvUnity",
       "SetID": "1hj060c",
       "Name": "Beyond divisions",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 200
+      "UsersEstimate": 213
     }
   ],
   "AchievementSets": [
@@ -3511,8 +3511,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2023-12-30T17:00:36.8691778+00:00",
-  "LastChanged_Achievements": "2024-01-01T13:12:50.1775662+00:00",
+  "LastChanged_Achievements": "2024-01-01T14:10:05.8935586+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:20.4992862+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:00:35.976112+00:00",
-  "LastUpdate_Achievements": "2024-01-01T13:12:50.1776058+00:00"
+  "LastUpdate_Ratings": "2024-01-01T13:57:15.8735069+00:00",
+  "LastUpdate_Achievements": "2024-01-01T14:10:05.8935967+00:00"
 }

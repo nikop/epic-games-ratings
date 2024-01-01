@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 52.00% | ~136 |
-| The 4 Pillars | 49.00% | ~128 |
-| Capitalism | 20.00% | ~52 |
+| First Step | 52.00% | ~137 |
+| The 4 Pillars | 49.00% | ~129 |
+| Capitalism | 20.00% | ~53 |
 | There's something in those trees | 11.00% | ~29 |
 | Green Energy | 11.00% | ~29 |
 | Desert Power | 10.00% | ~26 |
@@ -25,8 +25,8 @@
 | Overpopulation | 5.00% | ~13 |
 | Property Bro | 5.00% | ~13 |
 | Self-sufficient | 5.00% | ~13 |
-| Outdoor Decorator | 4.00% | ~10 |
-| Medicine Tycoon | 4.00% | ~10 |
+| Outdoor Decorator | 4.00% | ~11 |
+| Medicine Tycoon | 4.00% | ~11 |
 | Tear Down the Wall! | 3.00% | ~8 |
 | Supersoldier | 3.00% | ~8 |
 | Vive le Résistance | 3.00% | ~8 |
@@ -49,7 +49,7 @@
 | First Victory | 0.00% | ~0 |
 | Sandbox Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 262 (Ranked 403)  
+Progressed: 263 (Ranked 403)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,3 +140,4 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-29 | 256 | 0 |
 | 2023-12-30 | 258 | 0 |
 | 2023-12-31 | 262 | 0 |
+| 2024-01-01 | 263 | 0 |

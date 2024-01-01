@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 238,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1548,9 +1548,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 27409,
+  "EOS_Progressed": 27416,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 710,
+  "EOS_NewPlayers": 706,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -12628,6 +12628,11 @@
       "Time": "2024-01-01T13:13:13.6970584+00:00",
       "NumProgressed": 27409,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-01T14:10:35.6898977+00:00",
+      "NumProgressed": 27416,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -12703,7 +12708,7 @@
       "Name": "Captain and Crew",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1096
+      "UsersEstimate": 1097
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -12831,7 +12836,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1096
+      "UsersEstimate": 1097
     },
     {
       "ID": "EndTimerFail",
@@ -12950,21 +12955,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 27409,
+      "Progressed": 27416,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 6339,
+      "Progressed": 6346,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-31T13:02:19.9867054+00:00",
-  "LastChanged_Achievements": "2024-01-01T13:13:13.6970581+00:00",
+  "LastChanged_Achievements": "2024-01-01T14:10:35.6898973+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.0569835+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:04:20.7542357+00:00",
-  "LastUpdate_Achievements": "2024-01-01T13:13:13.6971327+00:00"
+  "LastUpdate_Ratings": "2024-01-01T14:02:54.1551021+00:00",
+  "LastUpdate_Achievements": "2024-01-01T14:10:35.6899673+00:00"
 }

@@ -55,9 +55,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1599,
+  "EOS_Progressed": 1602,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 381,
+  "EOS_NewPlayers": 382,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -3155,6 +3155,11 @@
       "Time": "2024-01-01T13:13:22.7730671+00:00",
       "NumProgressed": 1599,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-01T14:10:46.928607+00:00",
+      "NumProgressed": 1602,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -3166,7 +3171,7 @@
       "Name": "Break Out",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 943
+      "UsersEstimate": 945
     },
     {
       "ID": "ACH_02",
@@ -3238,7 +3243,7 @@
       "Name": "Trinity",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "ACH_11",
@@ -3324,9 +3329,9 @@
       "ID": "ACH_21",
       "SetID": "efe2lj",
       "Name": "Big Bazar",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 208
+      "UsersEstimate": 192
     },
     {
       "ID": "ACH_22",
@@ -3412,9 +3417,9 @@
       "ID": "ACH_33",
       "SetID": "efe2lj",
       "Name": "Miner",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 112
+      "UsersEstimate": 96
     },
     {
       "ID": "ACH_34",
@@ -3428,9 +3433,9 @@
       "ID": "ACH_35",
       "SetID": "efe2lj",
       "Name": "Feeling Fancy",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_36",
@@ -3453,7 +3458,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1599,
+      "Progressed": 1602,
       "Completed": 3
     }
   ],
@@ -3461,8 +3466,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-01T01:55:36.6139287+00:00",
-  "LastChanged_Achievements": "2024-01-01T13:13:22.7730669+00:00",
+  "LastChanged_Achievements": "2024-01-01T14:10:46.9286063+00:00",
   "LastUpdate_AppInfo": "2023-12-25T22:57:05.3300789+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:02:58.8625098+00:00",
-  "LastUpdate_Achievements": "2024-01-01T13:13:22.7730999+00:00"
+  "LastUpdate_Ratings": "2024-01-01T14:00:29.36294+00:00",
+  "LastUpdate_Achievements": "2024-01-01T14:10:46.9286839+00:00"
 }

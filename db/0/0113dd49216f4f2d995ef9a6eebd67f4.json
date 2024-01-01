@@ -4,7 +4,7 @@
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 420,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewPlayers": 286,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -998,9 +998,9 @@
       "ID": "SG_ALLTHEHELPYOUNEED",
       "SetID": "bj5g0n4",
       "Name": "All The Help You Need",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "SG_ARROWOFEROSUNDONE",
@@ -1277,8 +1277,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-01T13:12:14.8095569+00:00",
+  "LastChanged_Achievements": "2024-01-01T14:09:21.3848697+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:04.3127204+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:02:42.9680708+00:00",
-  "LastUpdate_Achievements": "2024-01-01T13:12:14.8095921+00:00"
+  "LastUpdate_Ratings": "2024-01-01T14:00:07.2164856+00:00",
+  "LastUpdate_Achievements": "2024-01-01T14:09:21.3849313+00:00"
 }

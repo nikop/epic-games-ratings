@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 325)  
+Rating: 4.65 (Ranked 324)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -14,6 +14,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able | 0.70% | ~112 |
 | Architect | 0.70% | ~112 |
 | Good | 0.70% | ~112 |
+| Learned | 0.70% | ~112 |
 | Mason | 0.70% | ~112 |
 | Noble | 0.70% | ~112 |
 | Strong | 0.70% | ~112 |
@@ -23,9 +24,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious | 0.60% | ~96 |
 | Just | 0.60% | ~96 |
 | Keystone | 0.60% | ~96 |
-| Learned | 0.60% | ~96 |
 | Pioneer | 0.60% | ~96 |
 | Developing Cities | 0.60% | ~96 |
+| Strong Cities | 0.60% | ~96 |
+| Pyramids | 0.60% | ~96 |
 | Judaism | 0.60% | ~96 |
 | Greek Paganism | 0.60% | ~96 |
 | Naming Landmarks | 0.60% | ~96 |
@@ -36,14 +38,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Fountainhead | 0.50% | ~80 |
 | Magnificent | 0.50% | ~80 |
 | Warrior | 0.50% | ~80 |
-| Strong Cities | 0.50% | ~80 |
 | Ishtar Gate | 0.50% | ~80 |
 | Lighthouse | 0.50% | ~80 |
-| Pyramids | 0.50% | ~80 |
 | Learn to Play 1 | 0.50% | ~80 |
 | Christianity | 0.50% | ~80 |
 | Babylonian Paganism | 0.50% | ~80 |
 | Roman Paganism | 0.50% | ~80 |
+| Zoroastrianism | 0.50% | ~80 |
 | Great | 0.40% | ~64 |
 | Intercessor | 0.40% | ~64 |
 | Wise | 0.40% | ~64 |
@@ -53,9 +54,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Acropolis | 0.40% | ~64 |
 | Apadana | 0.40% | ~64 |
 | Great Ziggurat | 0.40% | ~64 |
+| Musaeum | 0.40% | ~64 |
 | Manichaeism | 0.40% | ~64 |
 | Carthaginian Paganism | 0.40% | ~64 |
-| Zoroastrianism | 0.40% | ~64 |
 | Hanging Gardens in Babylon | 0.30% | ~48 |
 | Beloved | 0.30% | ~48 |
 | Drillmaster | 0.30% | ~48 |
@@ -69,7 +70,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Iron | 0.30% | ~48 |
 | Colossus | 0.30% | ~48 |
 | Mausoleum | 0.30% | ~48 |
-| Musaeum | 0.30% | ~48 |
 | Necropolis | 0.30% | ~48 |
 | Learn to Play 2 | 0.30% | ~48 |
 | Learn to Play 3 | 0.30% | ~48 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,061 (Ranked 165)  
+Progressed: 16,062 (Ranked 166)  
 Completed: 5 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -621,7 +621,7 @@ Completed: 5 (0.03%) (Ranked 350)
 | 2023-12-29 | 16,011 | 5 |
 | 2023-12-30 | 16,036 | 5 |
 | 2023-12-31 | 16,053 | 5 |
-| 2024-01-01 | 16,061 | 5 |
+| 2024-01-01 | 16,062 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 283)  
 Sum: 1,912 (Ranked 220)  

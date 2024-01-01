@@ -1442,9 +1442,9 @@
       "ID": "Collect_HealthStone_CapacityUpgrade_1",
       "SetID": "7a5k76n",
       "Name": "Increased Capacity",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 193
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_4",
@@ -1746,9 +1746,9 @@
       "ID": "Kill_Sin_Gluttony",
       "SetID": "7a5k76n",
       "Name": "Eat Your Heart Out",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 93
     },
     {
       "ID": "Kill_Sin_Lust",
@@ -1906,8 +1906,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2023-12-29T15:59:12.0320887+00:00",
-  "LastChanged_Achievements": "2024-01-01T13:08:46.0256255+00:00",
+  "LastChanged_Achievements": "2024-01-01T14:06:28.145846+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.0817876+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:00:25.9162068+00:00",
-  "LastUpdate_Achievements": "2024-01-01T13:08:46.0256685+00:00"
+  "LastUpdate_Ratings": "2024-01-01T13:57:02.4077455+00:00",
+  "LastUpdate_Achievements": "2024-01-01T14:06:28.1459007+00:00"
 }

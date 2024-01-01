@@ -15,14 +15,14 @@
 | Pulp! Terror Tales in the Night | 19.00% | ~14 |
 | Pulp! Out of this World | 19.00% | ~14 |
 | A rival with no options | 18.00% | ~13 |
-| Diagnosis: fear | 16.00% | ~12 |
-| Ambition is... blind | 16.00% | ~12 |
-| You have two wishes left | 16.00% | ~12 |
-| The artist | 15.00% | ~11 |
+| Diagnosis: fear | 18.00% | ~13 |
+| Ambition is... blind | 18.00% | ~13 |
+| You have two wishes left | 18.00% | ~13 |
+| The artist | 16.00% | ~12 |
+| Pulp! Adventures into the Unknown | 16.00% | ~12 |
+| Et in arcadia ego | 15.00% | ~11 |
 | The seer | 15.00% | ~11 |
-| Pulp! Adventures into the Unknown | 15.00% | ~11 |
 | You had one wish left | 14.00% | ~10 |
-| Et in arcadia ego | 14.00% | ~10 |
 | You've awakened the beast | 12.00% | ~9 |
 | Hate is... addictive | 12.00% | ~9 |
 | Kirlian's best disciple | 12.00% | ~9 |
@@ -40,10 +40,10 @@
 | Pulp! True Adventures | 8.00% | ~6 |
 | America had no Faith | 8.00% | ~6 |
 | The barbarian invasions | 5.00% | ~4 |
+| Vaccine fans | 5.00% | ~4 |
 | A new Hindenburg | 5.00% | ~4 |
 | Pulp! Tales from the Crypt | 4.00% | ~3 |
 | Thirst for Oleum | 4.00% | ~3 |
-| Vaccine fans | 4.00% | ~3 |
 | Pulp! Weird Science | 3.00% | ~2 |
 | Pulp! Heart Throbs | 3.00% | ~2 |
 | Troy is burning! | 3.00% | ~2 |

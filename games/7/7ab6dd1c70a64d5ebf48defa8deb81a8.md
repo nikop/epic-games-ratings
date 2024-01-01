@@ -5,8 +5,8 @@ Rating: 4.14 (Ranked 996)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 59.00% | ~943 |
-| Trinity | 29.00% | ~464 |
+| Break Out | 59.00% | ~945 |
+| Trinity | 29.00% | ~465 |
 | A Taste of Wrath | 23.00% | ~368 |
 | The Collector | 23.00% | ~368 |
 | Find Allies | 22.00% | ~352 |
@@ -19,15 +19,15 @@ Rating: 4.14 (Ranked 996)
 | Tributes of Caladrias | 19.00% | ~304 |
 | Stone Collection | 19.00% | ~304 |
 | Powerful Allies | 18.00% | ~288 |
-| Big Bazar | 13.00% | ~208 |
+| Big Bazar | 12.00% | ~192 |
 | Essence Blow | 11.00% | ~176 |
 | Alchemist | 11.00% | ~176 |
 | The Mentor | 10.00% | ~160 |
 | Calm before the Storm | 8.00% | ~128 |
 | Airborne | 7.00% | ~112 |
-| Miner | 7.00% | ~112 |
 | To Battle | 6.00% | ~96 |
 | Godslayer | 6.00% | ~96 |
+| Miner | 6.00% | ~96 |
 | Clear Sight | 4.00% | ~64 |
 | Shatterer | 4.00% | ~64 |
 | Fine Feathers Make Fine Birds | 4.00% | ~64 |
@@ -40,9 +40,9 @@ Rating: 4.14 (Ranked 996)
 | False God | 1.00% | ~16 |
 | Summiter | 1.00% | ~16 |
 | All That Gold | 0.70% | ~11 |
-| Feeling Fancy | 0.30% | ~5 |
+| Feeling Fancy | 0.40% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,599 (Ranked 259)  
+Progressed: 1,602 (Ranked 259)  
 Completed: 3 (0.19%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 3 (0.19%) (Ranked 274)
 | 2023-12-29 | 1,459 | 3 |
 | 2023-12-30 | 1,519 | 3 |
 | 2023-12-31 | 1,577 | 3 |
-| 2024-01-01 | 1,599 | 3 |
+| 2024-01-01 | 1,602 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

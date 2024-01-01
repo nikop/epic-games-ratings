@@ -17,8 +17,8 @@ Number of Ratings: 90  (23.09.2022)
 | Lie Back and Think of Albion | 28.00% | ~76 |
 | Upgreatest | 25.00% | ~68 |
 | Pimp My Raid | 24.00% | ~65 |
+| Freshly Squeezed | 21.00% | ~57 |
 | I Look Up As I Walk to Takoshima | 20.00% | ~54 |
-| Freshly Squeezed | 20.00% | ~54 |
 | Perfect Probulator | 17.00% | ~46 |
 | Die Nasty | 17.00% | ~46 |
 | Transmitting From Sol-3 | 14.00% | ~38 |
@@ -52,7 +52,7 @@ Number of Ratings: 90  (23.09.2022)
 | Trans-Siberian Express | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 272 (Ranked 399)  
-Completed: 1 (0.37%) (Ranked 234)  
+Completed: 1 (0.37%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -89,8 +89,8 @@ Completed: 1 (0.37%) (Ranked 234)
 | 2023-12-31 | 268 | 1 |
 | 2024-01-01 | 272 | 1 |
 ## Awards
-Max (Great Boss Battles): 36  (Ranked 492)  
-Sum: 36 (Ranked 523)  
+Max (Great Boss Battles): 36  (Ranked 493)  
+Sum: 36 (Ranked 524)  
 Diff (max vs sum): -31  
 | Award | Count |
 | ----- | ----- |

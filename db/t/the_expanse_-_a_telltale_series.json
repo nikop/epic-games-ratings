@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17963,
+  "EOS_Progressed": 17965,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 579,
+  "EOS_NewPlayers": 576,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -15905,6 +15905,11 @@
       "Time": "2024-01-01T13:07:04.6305299+00:00",
       "NumProgressed": 17963,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-01T14:04:16.4748574+00:00",
+      "NumProgressed": 17965,
+      "NumCompleted": 58
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15973,7 +15978,7 @@
       "Name": "Drug Gifter",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1257
+      "UsersEstimate": 1258
     },
     {
       "ID": "17",
@@ -16037,7 +16042,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1257
+      "UsersEstimate": 1258
     },
     {
       "ID": "24",
@@ -16189,29 +16194,29 @@
       "Name": "Madame Undersecretary",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17963,
+      "Progressed": 17965,
       "Completed": 58
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3917,
-      "Completed": 1142
+      "Progressed": 3919,
+      "Completed": 1144
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T23:58:17.8612142+00:00",
-  "LastChanged_Achievements": "2024-01-01T13:07:04.6305294+00:00",
+  "LastChanged_Achievements": "2024-01-01T14:04:16.474857+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:02:07.8871414+00:00",
-  "LastUpdate_Achievements": "2024-01-01T13:07:04.6306183+00:00"
+  "LastUpdate_Ratings": "2024-01-01T13:59:19.5074104+00:00",
+  "LastUpdate_Achievements": "2024-01-01T14:04:16.4749563+00:00"
 }

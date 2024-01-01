@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Life of Pi | 54.00% | ~31 |
+| Life of Pi | 56.00% | ~32 |
 | The Remains of Fleed | 53.00% | ~30 |
 | The Legend | 51.00% | ~29 |
 | Strength in Defeat | 42.00% | ~24 |
 | Escape from Fleed | 40.00% | ~23 |
 | First Contact | 37.00% | ~21 |
+| Technology first! | 19.00% | ~11 |
 | The Exterminator | 19.00% | ~11 |
-| Technology first! | 18.00% | ~10 |
 | The Keeper of Fleed | 14.00% | ~8 |
 | Earth's Savior | 14.00% | ~8 |
 | The Collector | 11.00% | ~6 |
@@ -23,10 +23,10 @@
 | The Space Hydra | 5.00% | ~3 |
 | A Land of Peace | 4.00% | ~2 |
 | A Good Paint Job | 4.00% | ~2 |
+| You can't fool me! | 4.00% | ~2 |
 | The Flying Octopus | 4.00% | ~2 |
 | The Royal Guard | 4.00% | ~2 |
 | The Power of Friendship | 2.00% | ~1 |
-| You can't fool me! | 2.00% | ~1 |
 | Saucer Beast Unchained | 2.00% | ~1 |
 | The Completionist | 2.00% | ~1 |
 | The Battle Axe | 2.00% | ~1 |

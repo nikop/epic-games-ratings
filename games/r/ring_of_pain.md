@@ -90,6 +90,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Willing the World | 0.20% | ~484 |
 | Gigantic | 0.20% | ~484 |
 | Predator | 0.20% | ~484 |
+| Resourceful | 0.20% | ~484 |
 | Become The Nightmare | 0.20% | ~484 |
 | Trail Of Death | 0.20% | ~484 |
 | Path To Enlightenment | 0.20% | ~484 |
@@ -108,7 +109,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | For Science | 0.10% | ~242 |
 | Power Score | 0.10% | ~242 |
 | Here Comes The Airplane | 0.10% | ~242 |
-| Resourceful | 0.10% | ~242 |
 | Blizzard | 0.10% | ~242 |
 | The Boulder | 0.10% | ~242 |
 | Overthrown | 0.10% | ~242 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,160 (Ranked 72)  
+Progressed: 242,166 (Ranked 72)  
 Completed: 302 (0.12%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -401,7 +401,7 @@ Completed: 302 (0.12%) (Ranked 299)
 | 2023-12-29 | 241,985 | 302 |
 | 2023-12-30 | 242,061 | 302 |
 | 2023-12-31 | 242,129 | 302 |
-| 2024-01-01 | 242,160 | 302 |
+| 2024-01-01 | 242,166 | 302 |
 ## Awards
 Max (Quickly Understood Controls): 1,513  (Ranked 136)  
 Sum: 11,777 (Ranked 88)  

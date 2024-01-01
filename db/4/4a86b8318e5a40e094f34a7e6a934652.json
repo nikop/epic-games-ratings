@@ -3,7 +3,7 @@
   "Name": "I Am Future - Cozy Apocalypse Survival",
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 354,
-  "Ranking_EOS_Completed": 197,
+  "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 444,
+  "EOS_Progressed": 445,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.68,
+  "EOS_Completed_Percentage": 0.67,
   "EosHistory": [
     {
       "Time": "2023-08-29T09:05:59.1773399+00:00",
@@ -1879,6 +1879,11 @@
       "Time": "2024-01-01T13:07:10.0232681+00:00",
       "NumProgressed": 444,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-01T14:04:23.9530354+00:00",
+      "NumProgressed": 445,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -1899,7 +1904,7 @@
       "Name": "Design Engineer",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "BRING_MARY",
@@ -1915,7 +1920,7 @@
       "Name": "Amusement Park",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
@@ -1931,7 +1936,7 @@
       "Name": "Fisherman",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -2043,21 +2048,21 @@
       "Name": "Strong Signal",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     }
   ],
   "AchievementSets": [
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 444,
+      "Progressed": 445,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2024-01-01T13:07:10.0232677+00:00",
+  "LastChanged_Achievements": "2024-01-01T14:04:23.9530351+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:54.5394751+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:06:07.8427767+00:00",
-  "LastUpdate_Achievements": "2024-01-01T13:07:10.0232868+00:00"
+  "LastUpdate_Ratings": "2024-01-01T14:03:01.263828+00:00",
+  "LastUpdate_Achievements": "2024-01-01T14:04:23.9530569+00:00"
 }

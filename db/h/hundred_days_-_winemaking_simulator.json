@@ -4,7 +4,7 @@
   "ProductSlug": "hundred-days-winemaking-simulator",
   "Ranking_Rating": 817,
   "Ranking_Popularity": 292,
-  "Ranking_PopularitySum": 224,
+  "Ranking_PopularitySum": 225,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 113,
@@ -1105,9 +1105,9 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 18629,
+  "EOS_Progressed": 18635,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 1145,
+  "EOS_NewPlayers": 1144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -15715,6 +15715,11 @@
       "Time": "2024-01-01T13:12:56.0781557+00:00",
       "NumProgressed": 18629,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-01T14:10:13.3532171+00:00",
+      "NumProgressed": 18635,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -15727,7 +15732,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1863
+      "UsersEstimate": 1864
     },
     {
       "ID": "a_10",
@@ -15775,7 +15780,7 @@
       "Name": "Bye Bye",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 8010
+      "UsersEstimate": 8013
     },
     {
       "ID": "a_19",
@@ -15783,7 +15788,7 @@
       "Name": "Bonjour!",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1490
+      "UsersEstimate": 1491
     },
     {
       "ID": "a_2",
@@ -15791,7 +15796,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "a_20",
@@ -15823,7 +15828,7 @@
       "Name": "Quack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1490
+      "UsersEstimate": 1491
     },
     {
       "ID": "a_25",
@@ -15831,7 +15836,7 @@
       "Name": "Better than nothing?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "a_26",
@@ -15974,7 +15979,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 18629,
+      "Progressed": 18635,
       "Completed": 13
     }
   ],
@@ -15982,8 +15987,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-12-27T10:58:40.8627421+00:00",
-  "LastChanged_Achievements": "2024-01-01T13:12:56.0781553+00:00",
+  "LastChanged_Achievements": "2024-01-01T14:10:13.3532167+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:46.499135+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:06:07.4336029+00:00",
-  "LastUpdate_Achievements": "2024-01-01T13:12:56.078247+00:00"
+  "LastUpdate_Ratings": "2024-01-01T14:03:00.7070065+00:00",
+  "LastUpdate_Achievements": "2024-01-01T14:10:13.3533133+00:00"
 }

@@ -3805,9 +3805,9 @@
       "ID": "LEVEL_016",
       "SetID": "3khpmem",
       "Name": "The beach is right there",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 162
+      "UsersEstimate": 171
     },
     {
       "ID": "LEVEL_017",
@@ -3870,8 +3870,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2024-01-01T13:08:53.040505+00:00",
+  "LastChanged_Achievements": "2024-01-01T14:06:36.9268974+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:25.1700467+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:00:59.1811688+00:00",
-  "LastUpdate_Achievements": "2024-01-01T13:08:53.0405373+00:00"
+  "LastUpdate_Ratings": "2024-01-01T13:57:47.9391303+00:00",
+  "LastUpdate_Achievements": "2024-01-01T14:06:36.9269249+00:00"
 }

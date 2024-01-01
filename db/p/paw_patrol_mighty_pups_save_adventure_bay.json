@@ -2,7 +2,7 @@
   "ID": "44c4d41627104968a7df87b8e33aa481",
   "Name": "PAW Patrol Mighty Pups Save Adventure Bay",
   "ProductSlug": "paw-patrol-mighty-pups-save-adventure-bay-aaad37",
-  "Ranking_EOS_Progress": 532,
+  "Ranking_EOS_Progress": 533,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 416,
   "Ranking_EOS_NewCompleters": 153,
@@ -445,9 +445,9 @@
       "ID": "22",
       "SetID": "38ide56",
       "Name": "Clear the Road",
-      "Percentage": 41,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "23",
@@ -574,8 +574,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2024-01-01T13:07:08.8268646+00:00",
+  "LastChanged_Achievements": "2024-01-01T14:04:22.3935006+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:17.3516667+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:02:53.6551661+00:00",
-  "LastUpdate_Achievements": "2024-01-01T13:07:08.8268839+00:00"
+  "LastUpdate_Ratings": "2024-01-01T14:00:22.6054984+00:00",
+  "LastUpdate_Achievements": "2024-01-01T14:04:22.3935197+00:00"
 }

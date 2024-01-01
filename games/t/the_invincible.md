@@ -8,7 +8,7 @@ Rating: 4.58 (Ranked 466)
 | The Camp | 67.00% | ~840 |
 | The Teleprobe | 53.00% | ~664 |
 | The City | 48.00% | ~601 |
-| The field base | 43.00% | ~539 |
+| The field base | 44.00% | ~551 |
 | The Alliance | 38.00% | ~476 |
 | Survivors | 37.00% | ~464 |
 | The Condor | 35.00% | ~439 |
@@ -20,8 +20,8 @@ Rating: 4.58 (Ranked 466)
 | Volcanologist | 21.00% | ~263 |
 | Fierce fight | 19.00% | ~238 |
 | Evacuation | 18.00% | ~226 |
+| Beyond divisions | 17.00% | ~213 |
 | Flying Objects Operator | 16.00% | ~200 |
-| Beyond divisions | 16.00% | ~200 |
 | I remember everything! | 13.00% | ~163 |
 | Another giant | 13.00% | ~163 |
 | I leave no man behind | 9.00% | ~113 |

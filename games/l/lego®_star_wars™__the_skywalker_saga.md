@@ -1,33 +1,33 @@
 # LEGO® Star Wars™: The Skywalker Saga
 [Store](https://store.epicgames.com/en-US/p/lego-star-wars-the-skywalker-saga)  
 [View Rawdata](../../db/l/lego®_star_wars™__the_skywalker_saga.json)  
-Rating: 4.77 (Ranked 117)  
+Rating: 4.77 (Ranked 116)  
 Number of Ratings: 2,536  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 96.00% | ~54,559 |
-| ''I don't like you either!'' | 77.00% | ~43,761 |
-| ''Impressive, most impressive'' | 70.00% | ~39,782 |
-| ''You think you're some kind of Jedi?'' | 69.00% | ~39,214 |
-| The Phantom Menace | 57.00% | ~32,394 |
-| ''Aggressive Negotiations'' | 56.00% | ~31,826 |
-| ''I can fly anything'' | 55.00% | ~31,258 |
-| ''And who gave you permission...?'' | 51.00% | ~28,984 |
-| A New Hope | 46.00% | ~26,143 |
-| Attack of the Clones | 45.00% | ~25,574 |
-| Revenge of the Sith | 38.00% | ~21,596 |
-| The Empire Strikes Back | 36.00% | ~20,460 |
-| ''A fine addition to my collection'' | 36.00% | ~20,460 |
-| Return of the Jedi | 31.00% | ~17,618 |
-| The Force Awakens | 26.00% | ~14,776 |
-| The Last Jedi | 22.00% | ~12,503 |
-| The Rise of Skywalker | 19.00% | ~10,798 |
-| ''It's true... all of it'' | 18.00% | ~10,230 |
-| ''Get the crews to their fighters'' | 18.00% | ~10,230 |
+| ''You guys got yourself a ship!'' | 96.00% | ~54,568 |
+| ''I don't like you either!'' | 77.00% | ~43,768 |
+| ''Impressive, most impressive'' | 70.00% | ~39,789 |
+| ''You think you're some kind of Jedi?'' | 69.00% | ~39,221 |
+| The Phantom Menace | 57.00% | ~32,400 |
+| ''Aggressive Negotiations'' | 56.00% | ~31,832 |
+| ''I can fly anything'' | 55.00% | ~31,263 |
+| ''And who gave you permission...?'' | 51.00% | ~28,989 |
+| A New Hope | 46.00% | ~26,147 |
+| Attack of the Clones | 45.00% | ~25,579 |
+| Revenge of the Sith | 38.00% | ~21,600 |
+| The Empire Strikes Back | 36.00% | ~20,463 |
+| ''A fine addition to my collection'' | 36.00% | ~20,463 |
+| Return of the Jedi | 31.00% | ~17,621 |
+| The Force Awakens | 26.00% | ~14,779 |
+| The Last Jedi | 22.00% | ~12,505 |
+| The Rise of Skywalker | 19.00% | ~10,800 |
+| ''It's true... all of it'' | 18.00% | ~10,232 |
+| ''Get the crews to their fighters'' | 18.00% | ~10,232 |
 | ''Raw, untamed power'' | 8.00% | ~4,547 |
 | Rishi Maze | 5.00% | ~2,842 |
-| ''Only one business in the Galaxy...'' | 4.00% | ~2,273 |
+| ''Only one business in the Galaxy...'' | 4.00% | ~2,274 |
 | ''You may fire when ready'' | 3.00% | ~1,705 |
 | ''What have you done with those plans?'' | 3.00% | ~1,705 |
 | ''GONK!'' | 3.00% | ~1,705 |
@@ -50,9 +50,9 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''You needn't worry about your reward'' | 2.00% | ~1,137 |
 | ''Now I am the Master'' | 2.00% | ~1,137 |
 | ''Jedi Business'' | 1.00% | ~568 |
-| ''I've never seen a real one!'' | 0.90% | ~511 |
+| ''I've never seen a real one!'' | 0.90% | ~512 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,832 (Ranked 120)  
+Progressed: 56,842 (Ranked 120)  
 Completed: 256 (0.45%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,7 +307,7 @@ Completed: 256 (0.45%) (Ranked 226)
 | 2023-12-29 | 56,104 | 254 |
 | 2023-12-30 | 56,437 | 255 |
 | 2023-12-31 | 56,744 | 256 |
-| 2024-01-01 | 56,832 | 256 |
+| 2024-01-01 | 56,842 | 256 |
 ## Awards
 Max (Great Boss Battles): 2,474  (Ranked 107)  
 Sum: 6,789 (Ranked 129)  

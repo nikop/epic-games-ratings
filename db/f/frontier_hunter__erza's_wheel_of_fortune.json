@@ -4,7 +4,7 @@
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewPlayers": 341,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
@@ -2400,9 +2400,9 @@
       "ID": "ACHIEVEMENT_17",
       "SetID": "7pimpda",
       "Name": "Squeaky Clean",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 109
+      "UsersEstimate": 116
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -2705,8 +2705,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2024-01-01T13:12:33.6891085+00:00",
+  "LastChanged_Achievements": "2024-01-01T14:09:45.5926715+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:39.5136135+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:03:24.0919276+00:00",
-  "LastUpdate_Achievements": "2024-01-01T13:12:33.6891459+00:00"
+  "LastUpdate_Ratings": "2024-01-01T14:01:01.5699614+00:00",
+  "LastUpdate_Achievements": "2024-01-01T14:09:45.5927097+00:00"
 }

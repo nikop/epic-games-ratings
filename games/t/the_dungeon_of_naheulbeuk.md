@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~88,535 |
-| Alt+F4 | 10.00% | ~24,593 |
-| Where's that freaking Dwarf? | 9.00% | ~22,134 |
-| Déjà vu | 7.00% | ~17,215 |
-| Sock! SOCK! | 6.00% | ~14,756 |
-| A beer, two curses, three companions | 5.00% | ~12,296 |
-| GG EZ | 5.00% | ~12,296 |
-| DM intervention | 5.00% | ~12,296 |
-| Speedrun | 5.00% | ~12,296 |
-| Fireproof Wizardess | 4.00% | ~9,837 |
+| Sowwy! | 36.00% | ~88,540 |
+| Alt+F4 | 10.00% | ~24,594 |
+| Where's that freaking Dwarf? | 9.00% | ~22,135 |
+| Déjà vu | 7.00% | ~17,216 |
+| Sock! SOCK! | 6.00% | ~14,757 |
+| A beer, two curses, three companions | 5.00% | ~12,297 |
+| GG EZ | 5.00% | ~12,297 |
+| DM intervention | 5.00% | ~12,297 |
+| Speedrun | 5.00% | ~12,297 |
+| Fireproof Wizardess | 4.00% | ~9,838 |
 | Livin' in a dwarven paradise | 3.00% | ~7,378 |
 | Way of the Wimp | 3.00% | ~7,378 |
 | The plot thickens... At the tavern | 3.00% | ~7,378 |
@@ -46,7 +46,7 @@ Number of Ratings: 118  (23.09.2022)
 | Lust and Debauchery | 1.00% | ~2,459 |
 | Material Girl | 1.00% | ~2,459 |
 | Lëgal Legend | 0.90% | ~2,213 |
-| We come in peace | 0.80% | ~1,967 |
+| We come in peace | 0.80% | ~1,968 |
 | Holistic Adventuring Party | 0.70% | ~1,722 |
 | An old poacher makes the best gamekeeper | 0.70% | ~1,722 |
 | Scholar of the Lands of Fangh | 0.60% | ~1,476 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~246 |
 | Dwarf Candy | 0.10% | ~246 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 245,930 (Ranked 71)  
+Progressed: 245,944 (Ranked 71)  
 Completed: 8 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 8 (0.00%) (Ranked 390)
 | 2023-12-29 | 245,438 | 8 |
 | 2023-12-30 | 245,630 | 8 |
 | 2023-12-31 | 245,835 | 8 |
-| 2024-01-01 | 245,930 | 8 |
+| 2024-01-01 | 245,944 | 8 |
 ## Awards
 Max (Character Customization): 263  (Ranked 275)  
 Sum: 550 (Ranked 328)  

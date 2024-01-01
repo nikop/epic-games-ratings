@@ -4755,9 +4755,9 @@
       "ID": "ML_ACHIEVEMENT_42",
       "SetID": "5k00jcd",
       "Name": "Magic trick",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "ML_ACHIEVEMENT_43",
@@ -4808,8 +4808,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-01T13:08:48.5691012+00:00",
+  "LastChanged_Achievements": "2024-01-01T14:06:31.3188863+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:19.4494243+00:00",
-  "LastUpdate_Ratings": "2024-01-01T13:02:34.2402076+00:00",
-  "LastUpdate_Achievements": "2024-01-01T13:08:48.5691449+00:00"
+  "LastUpdate_Ratings": "2024-01-01T13:59:55.276406+00:00",
+  "LastUpdate_Achievements": "2024-01-01T14:06:31.3189345+00:00"
 }
