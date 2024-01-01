@@ -5,27 +5,27 @@ Rating: 4.46 (Ranked 673)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,960 |
+| Meeting Resistance | 47.00% | ~1,961 |
 | Confirming Suspicions | 42.00% | ~1,752 |
-| The Kraken Wakes | 37.00% | ~1,543 |
+| The Kraken Wakes | 37.00% | ~1,544 |
 | It's Starting to Crack | 34.00% | ~1,418 |
 | Change the Channel | 32.00% | ~1,335 |
 | Lord of War | 31.00% | ~1,293 |
-| Taking it back | 30.00% | ~1,251 |
+| Taking it back | 30.00% | ~1,252 |
 | Resourceful | 28.00% | ~1,168 |
 | Target America | 27.00% | ~1,126 |
 | The Kraken Sleeps | 25.00% | ~1,043 |
 | As Quiet as a Mouse | 24.00% | ~1,001 |
-| Liberté | 23.00% | ~959 |
-| Organ Grinder | 23.00% | ~959 |
-| Sharpshooter | 23.00% | ~959 |
-| Gunslinger | 19.00% | ~792 |
-| Explosive Efficiency | 19.00% | ~792 |
+| Liberté | 23.00% | ~960 |
+| Organ Grinder | 23.00% | ~960 |
+| Sharpshooter | 23.00% | ~960 |
+| Gunslinger | 19.00% | ~793 |
+| Explosive Efficiency | 19.00% | ~793 |
 | Climbing the Ladder | 17.00% | ~709 |
 | Just a Flesh Wound | 17.00% | ~709 |
 | Der Geist | 17.00% | ~709 |
-| Close Quarters | 16.00% | ~667 |
-| Snake in the Grass | 16.00% | ~667 |
+| Close Quarters | 16.00% | ~668 |
+| Snake in the Grass | 16.00% | ~668 |
 | Skirmisher | 15.00% | ~626 |
 | Die Nussknacker Sweet! | 15.00% | ~626 |
 | Brains of the Operation | 15.00% | ~626 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 673)
 | Stroll in the Woods | 0.60% | ~25 |
 | Going Overboard | 0.60% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,171 (Ranked 208)  
+Progressed: 4,172 (Ranked 208)  
 Completed: 11 (0.26%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,6 +331,7 @@ Completed: 11 (0.26%) (Ranked 261)
 | 2023-12-29 | 4,153 | 11 |
 | 2023-12-30 | 4,160 | 11 |
 | 2023-12-31 | 4,171 | 11 |
+| 2024-01-01 | 4,172 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 527)  
 Sum: 28 (Ranked 542)  

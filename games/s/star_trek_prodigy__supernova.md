@@ -19,6 +19,7 @@
 | First Contact? | 11.00% | ~2 |
 | Naroan History | 11.00% | ~2 |
 | Playing with Time | 11.00% | ~2 |
+| Coming in from the Cold | 11.00% | ~2 |
 | Not Too Long | 11.00% | ~2 |
 | Welcome back | 11.00% | ~2 |
 | Getting Better | 11.00% | ~2 |
@@ -26,7 +27,6 @@
 | Quest for Loot | 6.00% | ~1 |
 | Proto Menagerie | 6.00% | ~1 |
 | Escape from Mirios | 6.00% | ~1 |
-| Coming in from the Cold | 6.00% | ~1 |
 | Searching for Al'Shams | 6.00% | ~1 |
 | Seeking Discovery | 6.00% | ~1 |
 | Trekkie | 6.00% | ~1 |

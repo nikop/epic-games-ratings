@@ -456,9 +456,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 345,
+  "EOS_Progressed": 346,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -1336,6 +1336,11 @@
       "Time": "2023-12-31T23:06:05.9857864+00:00",
       "NumProgressed": 345,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-01T04:06:16.3647077+00:00",
+      "NumProgressed": 346,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-13T09:04:44.5703562+00:00",
@@ -1356,7 +1361,7 @@
       "Name": "Unyielding Strength",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "Collect_AdamantinePure_3",
@@ -1394,9 +1399,9 @@
       "ID": "Collect_Artifact_EpicShard",
       "SetID": "7a5k76n",
       "Name": "One Of the Chosen",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 138
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_1",
@@ -1404,7 +1409,7 @@
       "Name": "Increased Capacity",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_4",
@@ -1420,7 +1425,7 @@
       "Name": "Increased Vigor",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "Collect_HealthStone_HealUpgrade_4",
@@ -1442,9 +1447,9 @@
       "ID": "Collect_Hollow_Force",
       "SetID": "7a5k76n",
       "Name": "I Wanna Rock",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 107
     },
     {
       "ID": "Collect_Hollow_Stasis",
@@ -1482,9 +1487,9 @@
       "ID": "Collect_PickUp_500",
       "SetID": "7a5k76n",
       "Name": "Cleanup Crew",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 76
     },
     {
       "ID": "Collect_Soulmulet",
@@ -1508,7 +1513,7 @@
       "Name": "Can you restore the Balance?",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "Craft_Enhancement_Balanced_5",
@@ -1524,7 +1529,7 @@
       "Name": "Enhance!",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "Crucible_Kill_WickedK",
@@ -1700,7 +1705,7 @@
       "Name": "Green with Envy",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "Kill_Sin_Gluttony",
@@ -1756,7 +1761,7 @@
       "Name": "Helping Hand",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "Save_Humans_10",
@@ -1804,7 +1809,7 @@
       "Name": "First of many\u2026",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "Spend_AttributePoint_25",
@@ -1842,9 +1847,9 @@
       "ID": "Upgrade_Weapon_First",
       "SetID": "7a5k76n",
       "Name": "Just the start",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 170
     },
     {
       "ID": "Upgrade_Weapon_Max",
@@ -1852,22 +1857,22 @@
       "Name": "Take it to the Limit",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     }
   ],
   "AchievementSets": [
     {
       "ID": "7a5k76n",
       "IsBase": true,
-      "Progressed": 345,
+      "Progressed": 346,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2023-12-29T15:59:12.0320887+00:00",
-  "LastChanged_Achievements": "2024-01-01T03:06:29.17384+00:00",
+  "LastChanged_Achievements": "2024-01-01T04:06:16.3647074+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.0817876+00:00",
-  "LastUpdate_Ratings": "2024-01-01T03:02:54.0921633+00:00",
-  "LastUpdate_Achievements": "2024-01-01T03:06:29.1738843+00:00"
+  "LastUpdate_Ratings": "2024-01-01T04:02:14.3886488+00:00",
+  "LastUpdate_Achievements": "2024-01-01T04:06:16.3647515+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 420,
+  "Ranking_EOS_NewPlayers": 406,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1197,
+  "EOS_Progressed": 1198,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1260,6 +1260,11 @@
       "Time": "2024-01-01T00:04:12.3344471+00:00",
       "NumProgressed": 1197,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T04:05:07.5911702+00:00",
+      "NumProgressed": 1198,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -1423,7 +1428,7 @@
       "Name": "Enter the Speed Gauntlet",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "CAREERCLASSMASTERS",
@@ -1567,7 +1572,7 @@
       "Name": "I just can\u0027t choose",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "ONELIVERY",
@@ -1591,7 +1596,7 @@
       "Name": "It\u0027s like an haircut",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "ONEPLATINUM",
@@ -1607,7 +1612,7 @@
       "Name": "Put it on a shelf",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "OVERTAKE100HUMANS",
@@ -1623,7 +1628,7 @@
       "Name": "A Cheese Grater to the Face",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "TENPLATINUM",
@@ -1686,7 +1691,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1197,
+      "Progressed": 1198,
       "Completed": 0
     }
   ],
@@ -1694,8 +1699,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-12-19T23:02:44.1554509+00:00",
-  "LastChanged_Achievements": "2024-01-01T03:05:19.2964429+00:00",
+  "LastChanged_Achievements": "2024-01-01T04:05:07.5911694+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:29.4677395+00:00",
-  "LastUpdate_Ratings": "2024-01-01T03:03:38.4398643+00:00",
-  "LastUpdate_Achievements": "2024-01-01T03:05:19.2964781+00:00"
+  "LastUpdate_Ratings": "2024-01-01T04:03:28.3500845+00:00",
+  "LastUpdate_Achievements": "2024-01-01T04:05:07.591205+00:00"
 }

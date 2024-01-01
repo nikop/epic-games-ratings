@@ -1789,9 +1789,9 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 165830,
+  "EOS_Progressed": 165837,
   "EOS_Completed": 431,
-  "EOS_NewPlayers": 1505,
+  "EOS_NewPlayers": 1507,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -21379,6 +21379,11 @@
       "Time": "2024-01-01T03:05:21.2697642+00:00",
       "NumProgressed": 165830,
       "NumCompleted": 431
+    },
+    {
+      "Time": "2024-01-01T04:05:09.3855164+00:00",
+      "NumProgressed": 165837,
+      "NumCompleted": 431
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -21415,7 +21420,7 @@
       "Name": "Assimilation",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "ACQUIRE_ALLWEAPONS",
@@ -21471,7 +21476,7 @@
       "Name": "Hunt Down",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "DEFEAT_ARTISAN",
@@ -21551,7 +21556,7 @@
       "Name": "Celebration",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "DEFEAT_SHIDRA",
@@ -21559,7 +21564,7 @@
       "Name": "Inevitable",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "DEFEAT_VULTURE",
@@ -21591,7 +21596,7 @@
       "Name": "Devourer",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1492
+      "UsersEstimate": 1493
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -21599,7 +21604,7 @@
       "Name": "All-Seeing",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "MISC_ACTIVATESURROGATE",
@@ -21758,21 +21763,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 165413,
+      "Progressed": 165420,
       "Completed": 1250
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 165830,
+      "Progressed": 165837,
       "Completed": 431
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-12-31T13:00:03.1579363+00:00",
-  "LastChanged_Achievements": "2024-01-01T03:05:21.2697638+00:00",
+  "LastChanged_Achievements": "2024-01-01T04:05:09.3855157+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:50.3299145+00:00",
-  "LastUpdate_Ratings": "2024-01-01T02:58:53.0002395+00:00",
-  "LastUpdate_Achievements": "2024-01-01T03:05:21.2698866+00:00"
+  "LastUpdate_Ratings": "2024-01-01T03:58:48.8103984+00:00",
+  "LastUpdate_Achievements": "2024-01-01T04:05:09.3856211+00:00"
 }

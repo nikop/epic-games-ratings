@@ -5,36 +5,36 @@ Rating: 4.51 (Ranked 589)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~177,858 |
-| FIRST BLOOD | 40.00% | ~158,096 |
-| KEVIN! | 30.00% | ~118,572 |
-| JACK OF ALL TRADES | 23.00% | ~90,905 |
-| CRIMINAL | 20.00% | ~79,048 |
-| GRANDMA WOULD BE PROUD | 11.00% | ~43,477 |
-| WITHOUT BREAKING A SWEAT | 9.00% | ~35,572 |
-| HONORS STUDENT | 8.00% | ~31,619 |
-| BUTCHER | 6.00% | ~23,714 |
-| INDIVIDUAL APPROACH | 5.00% | ~19,762 |
-| RAMBO | 5.00% | ~19,762 |
+| MASTER CHEF | 45.00% | ~177,867 |
+| FIRST BLOOD | 40.00% | ~158,104 |
+| KEVIN! | 30.00% | ~118,578 |
+| JACK OF ALL TRADES | 23.00% | ~90,910 |
+| CRIMINAL | 20.00% | ~79,052 |
+| GRANDMA WOULD BE PROUD | 11.00% | ~43,478 |
+| WITHOUT BREAKING A SWEAT | 9.00% | ~35,573 |
+| HONORS STUDENT | 8.00% | ~31,621 |
+| BUTCHER | 6.00% | ~23,716 |
+| INDIVIDUAL APPROACH | 5.00% | ~19,763 |
+| RAMBO | 5.00% | ~19,763 |
 | HELL'S KITCHEN | 4.00% | ~15,810 |
-| CELEBRITY | 3.00% | ~11,857 |
-| MARTYR | 3.00% | ~11,857 |
+| CELEBRITY | 3.00% | ~11,858 |
+| MARTYR | 3.00% | ~11,858 |
 | GRATITUDE | 2.00% | ~7,905 |
 | PATTY-KILLER | 2.00% | ~7,905 |
-| EXPERIMENTALIST | 1.00% | ~3,952 |
-| GOURMET | 1.00% | ~3,952 |
-| LAW-ABIDING CITIZEN | 1.00% | ~3,952 |
-| PRUDENT | 1.00% | ~3,952 |
+| EXPERIMENTALIST | 1.00% | ~3,953 |
+| GOURMET | 1.00% | ~3,953 |
+| LAW-ABIDING CITIZEN | 1.00% | ~3,953 |
+| PRUDENT | 1.00% | ~3,953 |
 | SCATTERBRAIN | 0.80% | ~3,162 |
 | HIGH TECHNOLOGIES | 0.70% | ~2,767 |
-| TASTE UNTASTY | 0.60% | ~2,371 |
-| DEBTOR | 0.20% | ~790 |
-| I'VE SEEN SOME… | 0.20% | ~790 |
+| TASTE UNTASTY | 0.60% | ~2,372 |
+| DEBTOR | 0.20% | ~791 |
+| I'VE SEEN SOME… | 0.20% | ~791 |
 | CORRUPTIONIST | 0.10% | ~395 |
 | MISTER ALL THUMBS | 0.10% | ~395 |
 | TRAVELER | 0.10% | ~395 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 395,241 (Ranked 48)  
+Progressed: 395,259 (Ranked 48)  
 Completed: 56 (0.01%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 56 (0.01%) (Ranked 368)
 | 2023-12-29 | 393,815 | 56 |
 | 2023-12-30 | 394,520 | 56 |
 | 2023-12-31 | 395,149 | 56 |
-| 2024-01-01 | 395,241 | 56 |
+| 2024-01-01 | 395,259 | 56 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

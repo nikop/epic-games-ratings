@@ -18,7 +18,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1044,
+  "EOS_Progressed": 1045,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 0,
@@ -3453,6 +3453,11 @@
       "Time": "2024-01-01T02:05:23.4840161+00:00",
       "NumProgressed": 1044,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-01T04:09:56.8546506+00:00",
+      "NumProgressed": 1045,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -3465,7 +3470,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 1044
+      "UsersEstimate": 1045
     },
     {
       "ID": "achievement_10",
@@ -3513,7 +3518,7 @@
       "Name": "Memory Rouser",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "achievement_16",
@@ -3537,7 +3542,7 @@
       "Name": "Man-Machine Master",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "achievement_19",
@@ -3617,7 +3622,7 @@
       "Name": "Mighty Marmelizer",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "achievement_28",
@@ -3625,7 +3630,7 @@
       "Name": "Flawless Crystal",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "achievement_29",
@@ -3639,9 +3644,9 @@
       "ID": "achievement_3",
       "SetID": "2cpn27e",
       "Name": "Bonds of Enmity",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 376
+      "UsersEstimate": 387
     },
     {
       "ID": "achievement_30",
@@ -3681,7 +3686,7 @@
       "Name": "Kemono at Heart",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "achievement_35",
@@ -3705,7 +3710,7 @@
       "Name": "Hidden History",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "achievement_38",
@@ -3761,7 +3766,7 @@
       "Name": "Team Hunter",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "achievement_44",
@@ -3777,7 +3782,7 @@
       "Name": "Helpful Heart",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "achievement_46",
@@ -3785,7 +3790,7 @@
       "Name": "Charmed by the Hunt",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "achievement_47",
@@ -3825,7 +3830,7 @@
       "Name": "Budding Conjuror",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "achievement_8",
@@ -3833,7 +3838,7 @@
       "Name": "Expert Conjuror",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "achievement_9",
@@ -3848,13 +3853,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 1044,
+      "Progressed": 1045,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-01T03:10:10.365453+00:00",
+  "LastChanged_Achievements": "2024-01-01T04:09:56.8546501+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:22.7723621+00:00",
-  "LastUpdate_Ratings": "2024-01-01T03:00:15.3437118+00:00",
-  "LastUpdate_Achievements": "2024-01-01T03:10:10.3654963+00:00"
+  "LastUpdate_Ratings": "2024-01-01T04:00:12.2707517+00:00",
+  "LastUpdate_Achievements": "2024-01-01T04:09:56.8546946+00:00"
 }

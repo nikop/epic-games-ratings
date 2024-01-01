@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewPlayers": 398,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4412,
+  "EOS_Progressed": 4413,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1878,6 +1878,11 @@
       "Time": "2023-12-31T17:09:57.55228+00:00",
       "NumProgressed": 4412,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-01T04:10:59.6799397+00:00",
+      "NumProgressed": 4413,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 101,
@@ -1913,7 +1918,7 @@
       "Name": "Another one bites the dust",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACHIEVEMENT_BREAD1",
@@ -1977,7 +1982,7 @@
       "Name": "I like to build stuff... IV",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACHIEVEMENT_BUILDINGS5",
@@ -2025,7 +2030,7 @@
       "Name": "Experienced decorator",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACHIEVEMENT_ELECTION_FACTIONS",
@@ -2065,7 +2070,7 @@
       "Name": "My precious... I",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACHIEVEMENT_JEWELS2",
@@ -2233,7 +2238,7 @@
       "Name": "Full-time job III",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACHIEVEMENT_RESEARCHCOMPLETED1",
@@ -2593,7 +2598,7 @@
       "Name": "A time consuming game III",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACHIEVEMENT_TIME4",
@@ -2625,7 +2630,7 @@
       "Name": "Tools of the trade II",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACHIEVEMENT_TOOLS3",
@@ -2696,15 +2701,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4412,
+      "Progressed": 4413,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-12-26T18:02:48.4372833+00:00",
-  "LastChanged_Achievements": "2024-01-01T03:11:13.1709048+00:00",
+  "LastChanged_Achievements": "2024-01-01T04:10:59.6799392+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:20.4533426+00:00",
-  "LastUpdate_Ratings": "2024-01-01T02:59:17.0300589+00:00",
-  "LastUpdate_Achievements": "2024-01-01T03:11:13.1710067+00:00"
+  "LastUpdate_Ratings": "2024-01-01T03:59:13.5658402+00:00",
+  "LastUpdate_Achievements": "2024-01-01T04:10:59.6800494+00:00"
 }

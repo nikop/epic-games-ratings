@@ -3,7 +3,7 @@
   "Name": "CHUCHEL",
   "ProductSlug": "chuchel-203808",
   "Ranking_EOS_Progress": 366,
-  "Ranking_EOS_Completed": 188,
+  "Ranking_EOS_Completed": 190,
   "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 377,
+  "EOS_Progressed": 378,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.8,
+  "EOS_Completed_Percentage": 0.79,
   "EosHistory": [
     {
       "Time": "2023-11-01T08:06:18.9626896+00:00",
@@ -1249,6 +1249,11 @@
       "Time": "2024-01-01T02:02:40.2451056+00:00",
       "NumProgressed": 377,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-01T04:08:15.9494051+00:00",
+      "NumProgressed": 378,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -1269,7 +1274,7 @@
       "Name": "Blabber",
       "Percentage": 50,
       "XP": 145,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ach3",
@@ -1309,21 +1314,21 @@
       "Name": "Snail Racing Champion",
       "Percentage": 11,
       "XP": 145,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     }
   ],
   "AchievementSets": [
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 377,
+      "Progressed": 378,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2024-01-01T03:08:29.8613811+00:00",
+  "LastChanged_Achievements": "2024-01-01T04:08:15.9494044+00:00",
   "LastUpdate_AppInfo": "2023-12-27T20:57:07.636228+00:00",
-  "LastUpdate_Ratings": "2024-01-01T02:58:33.0480413+00:00",
-  "LastUpdate_Achievements": "2024-01-01T03:08:29.8614001+00:00"
+  "LastUpdate_Ratings": "2024-01-01T03:58:29.0737755+00:00",
+  "LastUpdate_Achievements": "2024-01-01T04:08:15.9494207+00:00"
 }

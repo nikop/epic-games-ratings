@@ -7,25 +7,25 @@ Number of Ratings: 85  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Shop Til They Drop | 70.00% | ~188 |
-| Kaijuiced | 68.00% | ~182 |
-| Lie Back and Think of Albion | 62.00% | ~166 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 59.00% | ~158 |
-| I Look Up As I Walk to Takoshima | 58.00% | ~155 |
-| Yettisoned | 56.00% | ~150 |
-| Perfect Probulator | 54.00% | ~145 |
-| Pimp My Raid | 53.00% | ~142 |
+| Kaijuiced | 68.00% | ~183 |
+| Lie Back and Think of Albion | 62.00% | ~167 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 59.00% | ~159 |
+| I Look Up As I Walk to Takoshima | 58.00% | ~156 |
+| Yettisoned | 57.00% | ~153 |
+| Perfect Probulator | 55.00% | ~148 |
+| Pimp My Raid | 53.00% | ~143 |
 | Lobster Blisque | 50.00% | ~134 |
 | Earthly Pleasures | 47.00% | ~126 |
-| Fly Me to the Moon Base | 46.00% | ~123 |
+| Fly Me to the Moon Base | 46.00% | ~124 |
 | Ducks in a Row, Fish in a Barrel | 44.00% | ~118 |
-| Freshly Squeezed | 37.00% | ~99 |
-| Forbidden Donut | 36.00% | ~96 |
+| Freshly Squeezed | 37.00% | ~100 |
+| Forbidden Donut | 36.00% | ~97 |
 | Bodied Sattva | 35.00% | ~94 |
 | Upgreatest | 34.00% | ~91 |
 | Furon Fashion | 29.00% | ~78 |
 | Deincarnated | 28.00% | ~75 |
+| Rock of the Bay | 25.00% | ~67 |
 | Trans-Siberian Express | 25.00% | ~67 |
-| Rock of the Bay | 24.00% | ~64 |
 | Re-Return of the Clone of the Invasion II-2 | 21.00% | ~56 |
 | Arkvoodle Doodle | 17.00% | ~46 |
 | Ouch of Body Experience | 17.00% | ~46 |
@@ -47,8 +47,8 @@ Number of Ratings: 85  (23.09.2022)
 | Steezy Down the Spine | 2.00% | ~5 |
 | Against All Odds | 2.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 268 (Ranked 401)  
-Completed: 5 (1.87%) (Ranked 139)  
+Progressed: 269 (Ranked 400)  
+Completed: 5 (1.86%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -66,7 +66,7 @@ Completed: 5 (1.87%) (Ranked 139)
 | 2023-12-29 | 224 | 2 |
 | 2023-12-30 | 250 | 3 |
 | 2023-12-31 | 264 | 5 |
-| 2024-01-01 | 268 | 5 |
+| 2024-01-01 | 269 | 5 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 502)  
 Sum: 34 (Ranked 527)  

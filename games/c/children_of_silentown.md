@@ -28,7 +28,7 @@
 | Old kettle | 12.00% | ~28 |
 | Back Home | 11.00% | ~26 |
 | Forest Howl | 9.00% | ~21 |
-| Hope | 5.00% | ~12 |
+| Hope | 6.00% | ~14 |
 | Hairball | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 234 (Ranked 413)  

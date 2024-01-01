@@ -14,8 +14,8 @@ Rating: 4.14 (Ranked 994)
 | Shatter Them All | 21.00% | ~333 |
 | Geared Up | 21.00% | ~333 |
 | Adventurer | 20.00% | ~318 |
+| Fashion Victim | 20.00% | ~318 |
 | Scholar | 20.00% | ~318 |
-| Fashion Victim | 19.00% | ~302 |
 | Stone Collection | 19.00% | ~302 |
 | Powerful Allies | 18.00% | ~286 |
 | Tributes of Caladrias | 18.00% | ~286 |

@@ -6,12 +6,12 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 10.00% | ~14,873 |
-| Titan's First Steps | 10.00% | ~14,873 |
-| Basic in Bulk | 9.00% | ~13,386 |
+| Sponsored by Argon | 10.00% | ~14,874 |
+| Titan's First Steps | 10.00% | ~14,874 |
+| Basic in Bulk | 9.00% | ~13,387 |
 | Tinkle of Coins | 8.00% | ~11,899 |
-| Disintermediation | 7.00% | ~10,411 |
-| Capitalism Ho! | 7.00% | ~10,411 |
+| Disintermediation | 7.00% | ~10,412 |
+| Capitalism Ho! | 7.00% | ~10,412 |
 | It's Free Real Estate | 6.00% | ~8,924 |
 | Budding Merchant | 6.00% | ~8,924 |
 | One Easy Payment | 5.00% | ~7,437 |
@@ -19,15 +19,15 @@ Number of Ratings: 12,664  (23.09.2022)
 | Another Satisfied Customer | 5.00% | ~7,437 |
 | Pretty Penny | 5.00% | ~7,437 |
 | Own the Means of Production | 5.00% | ~7,437 |
-| The Daily Grind | 4.00% | ~5,949 |
-| Bounty Hunters | 4.00% | ~5,949 |
-| Demand for Supplies | 4.00% | ~5,949 |
-| Flooding the Market | 4.00% | ~5,949 |
-| Where it Hurts | 4.00% | ~5,949 |
-| One-Armed Bandit | 4.00% | ~5,949 |
-| Dungeon Imports | 4.00% | ~5,949 |
-| Through Repetition, Perfection | 4.00% | ~5,949 |
-| Arcane Industries | 4.00% | ~5,949 |
+| The Daily Grind | 4.00% | ~5,950 |
+| Bounty Hunters | 4.00% | ~5,950 |
+| Demand for Supplies | 4.00% | ~5,950 |
+| Flooding the Market | 4.00% | ~5,950 |
+| Where it Hurts | 4.00% | ~5,950 |
+| One-Armed Bandit | 4.00% | ~5,950 |
+| Dungeon Imports | 4.00% | ~5,950 |
+| Through Repetition, Perfection | 4.00% | ~5,950 |
+| Arcane Industries | 4.00% | ~5,950 |
 | On the Path to Greatness | 3.00% | ~4,462 |
 | Ascended | 3.00% | ~4,462 |
 | Tax not Included | 3.00% | ~4,462 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~595 |
 | Capitalist Camaraderie | 0.20% | ~297 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 148,732 (Ranked 86)  
+Progressed: 148,741 (Ranked 86)  
 Completed: 340 (0.23%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -375,7 +375,7 @@ Completed: 340 (0.23%) (Ranked 267)
 | 2023-12-29 | 148,353 | 338 |
 | 2023-12-30 | 148,534 | 340 |
 | 2023-12-31 | 148,713 | 340 |
-| 2024-01-01 | 148,732 | 340 |
+| 2024-01-01 | 148,741 | 340 |
 ## Awards
 Max (Great for Beginners): 4,934  (Ranked 78)  
 Sum: 27,883 (Ranked 51)  

@@ -5,7 +5,7 @@
   "Ranking_Rating": 844,
   "Ranking_Popularity": 212,
   "Ranking_PopularitySum": 310,
-  "Ranking_EOS_Progress": 80,
+  "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 52,
@@ -402,9 +402,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 208255,
+  "EOS_Progressed": 208259,
   "EOS_Completed": 552,
-  "EOS_NewPlayers": 505,
+  "EOS_NewPlayers": 506,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -27737,6 +27737,11 @@
       "Time": "2024-01-01T03:07:00.6580328+00:00",
       "NumProgressed": 208255,
       "NumCompleted": 552
+    },
+    {
+      "Time": "2024-01-01T04:06:47.6658755+00:00",
+      "NumProgressed": 208259,
+      "NumCompleted": 552
     }
   ],
   "TotalAchievements": 29,
@@ -27772,7 +27777,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 195760
+      "UsersEstimate": 195763
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -27884,7 +27889,7 @@
       "Name": "So you\u0027re saying I don\u0027t touch these ones?",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 12495
+      "UsersEstimate": 12496
     },
     {
       "ID": "ACHIEVEMENT_OPUS",
@@ -27948,7 +27953,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16660
+      "UsersEstimate": 16661
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -27979,7 +27984,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 208255,
+      "Progressed": 208259,
       "Completed": 552
     }
   ],
@@ -27987,8 +27992,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2024-01-01T02:58:07.3780611+00:00",
-  "LastChanged_Achievements": "2024-01-01T03:07:00.6580322+00:00",
+  "LastChanged_Achievements": "2024-01-01T04:06:47.665875+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:16.5074852+00:00",
-  "LastUpdate_Ratings": "2024-01-01T02:58:07.3780617+00:00",
-  "LastUpdate_Achievements": "2024-01-01T03:07:00.65817+00:00"
+  "LastUpdate_Ratings": "2024-01-01T03:58:03.4560001+00:00",
+  "LastUpdate_Achievements": "2024-01-01T04:06:47.6660281+00:00"
 }

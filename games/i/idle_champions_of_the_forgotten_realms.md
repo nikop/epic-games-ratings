@@ -6,8 +6,8 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~7,462 |
-| The Cursed Farmer | 1.00% | ~2,487 |
+| A Brief Tour of the Realms | 3.00% | ~7,463 |
+| The Cursed Farmer | 1.00% | ~2,488 |
 | Beast Intentions | 0.90% | ~2,239 |
 | The Mad Wizard | 0.80% | ~1,990 |
 | Welcome to Sigil | 0.70% | ~1,505 |
@@ -17,6 +17,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Were-verpowered | 0.40% | ~995 |
 | Seeking Allies | 0.40% | ~995 |
 | Are Ya Chicken? | 0.40% | ~995 |
+| Friendly Imps | 0.40% | ~995 |
 | When Tentacles Attack | 0.40% | ~860 |
 | Flames of Avernus | 0.40% | ~860 |
 | Mental Gymnastics | 0.40% | ~860 |
@@ -24,26 +25,25 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mind Spike | 0.40% | ~860 |
 | A Persistent Buzzing | 0.30% | ~746 |
 | Mad Cow Disease | 0.30% | ~746 |
-| Friendly Imps | 0.30% | ~746 |
 | Pure Energy | 0.30% | ~746 |
 | Arcane Suppression | 0.30% | ~645 |
 | Welcome to the Vrocks | 0.30% | ~645 |
 | Misaligned in Sigil | 0.30% | ~645 |
 | Chaos Theory | 0.30% | ~645 |
-| Maddening | 0.20% | ~497 |
-| Beast Mode | 0.20% | ~497 |
-| Terror in the Dark | 0.20% | ~497 |
-| Low Initiative | 0.20% | ~497 |
-| A Mysterious Summons | 0.20% | ~497 |
-| Building Trust | 0.20% | ~497 |
-| Unearthed Evil | 0.20% | ~497 |
-| The Crumbling Temple | 0.20% | ~497 |
-| Useless Allies | 0.20% | ~497 |
-| Exploring Port Nyanzaru | 0.20% | ~497 |
-| Running of the Saurs | 0.20% | ~497 |
-| The Contagious Curse | 0.20% | ~497 |
-| Escort to Waterdeep | 0.20% | ~497 |
-| Waterdeep Detours | 0.20% | ~497 |
+| Maddening | 0.20% | ~498 |
+| Beast Mode | 0.20% | ~498 |
+| Terror in the Dark | 0.20% | ~498 |
+| Low Initiative | 0.20% | ~498 |
+| A Mysterious Summons | 0.20% | ~498 |
+| Building Trust | 0.20% | ~498 |
+| Unearthed Evil | 0.20% | ~498 |
+| The Crumbling Temple | 0.20% | ~498 |
+| Useless Allies | 0.20% | ~498 |
+| Exploring Port Nyanzaru | 0.20% | ~498 |
+| Running of the Saurs | 0.20% | ~498 |
+| The Contagious Curse | 0.20% | ~498 |
+| Escort to Waterdeep | 0.20% | ~498 |
+| Waterdeep Detours | 0.20% | ~498 |
 | Pros and CONs | 0.10% | ~249 |
 | Upholding the Law | 0.10% | ~249 |
 | Starving in the Jungle | 0.10% | ~249 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~215 |
 | The Brains of an Illithid's Desire | 0.10% | ~215 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,743 (Ranked 69)  
+Progressed: 248,771 (Ranked 69)  
 Completed: 2,582 (1.04%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -809,7 +809,7 @@ Completed: 2,582 (1.04%) (Ranked 170)
 | 2023-12-29 | 247,120 | 2,575 |
 | 2023-12-30 | 247,917 | 2,578 |
 | 2023-12-31 | 248,665 | 2,581 |
-| 2024-01-01 | 248,743 | 2,582 |
+| 2024-01-01 | 248,771 | 2,582 |
 ## Awards
 Max (Great for Beginners): 5,726  (Ranked 71)  
 Sum: 33,218 (Ranked 41)  

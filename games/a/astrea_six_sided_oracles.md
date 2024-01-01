@@ -9,7 +9,7 @@
 | Mechanical Buddy | 72.00% | ~206 |
 | Dicesmithing Time! | 65.00% | ~186 |
 | Sanctuary Guardian | 55.00% | ~157 |
-| Endless Tricks | 50.00% | ~143 |
+| Endless Tricks | 51.00% | ~146 |
 | Wild's Keeper | 47.00% | ~134 |
 | Mind Illuminator | 44.00% | ~126 |
 | Stellar Dismantler | 36.00% | ~103 |

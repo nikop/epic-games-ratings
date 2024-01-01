@@ -5,28 +5,28 @@ Rating: 4.21 (Ranked 941)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 21.00% | ~4,277 |
-| The Outer Way | 21.00% | ~4,277 |
-| Desperate Times | 20.00% | ~4,073 |
-| Get a Grip | 18.00% | ~3,666 |
-| Paper Jams | 18.00% | ~3,666 |
-| Chew 'Em Up | 16.00% | ~3,258 |
-| Reforged | 15.00% | ~3,055 |
-| Float Like A Butterfly | 14.00% | ~2,851 |
-| Workplace Hazard | 13.00% | ~2,647 |
-| If the SHU Fits... | 13.00% | ~2,647 |
-| Without A Paddle | 11.00% | ~2,240 |
-| In the Pipe, Five by Five | 10.00% | ~2,036 |
-| Crash Site | 10.00% | ~2,036 |
+| Flesh Wound | 21.00% | ~4,278 |
+| The Outer Way | 21.00% | ~4,278 |
+| Desperate Times | 20.00% | ~4,074 |
+| Get a Grip | 18.00% | ~3,667 |
+| Paper Jams | 18.00% | ~3,667 |
+| Chew 'Em Up | 16.00% | ~3,259 |
+| Reforged | 15.00% | ~3,056 |
+| Float Like A Butterfly | 14.00% | ~2,852 |
+| Workplace Hazard | 13.00% | ~2,648 |
+| If the SHU Fits... | 13.00% | ~2,648 |
+| Without A Paddle | 11.00% | ~2,241 |
+| In the Pipe, Five by Five | 10.00% | ~2,037 |
+| Crash Site | 10.00% | ~2,037 |
 | Two Heads Are Better Than One | 9.00% | ~1,833 |
 | Power Up | 9.00% | ~1,833 |
-| Giving Back | 8.00% | ~1,629 |
-| Terminated | 8.00% | ~1,629 |
-| What Lies Beneath | 8.00% | ~1,629 |
-| Full Circle | 8.00% | ~1,629 |
+| Giving Back | 8.00% | ~1,630 |
+| Terminated | 8.00% | ~1,630 |
+| What Lies Beneath | 8.00% | ~1,630 |
+| Full Circle | 8.00% | ~1,630 |
 | You Need a Gun | 7.00% | ~1,426 |
 | I Do Belong Here | 7.00% | ~1,426 |
-| Keep Fighting | 6.00% | ~497 |
+| Keep Fighting | 6.00% | ~498 |
 | It's Time | 5.00% | ~415 |
 | In Striking Distance | 4.00% | ~815 |
 | The Commonality | 4.00% | ~815 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 941)
 | Big Game Hunter | 0.10% | ~8 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,365 (Ranked 150)  
+Progressed: 20,371 (Ranked 150)  
 Completed: 82 (0.40%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 82 (0.40%) (Ranked 229)
 | 2023-12-29 | 19,946 | 82 |
 | 2023-12-30 | 20,137 | 82 |
 | 2023-12-31 | 20,337 | 82 |
-| 2024-01-01 | 20,365 | 82 |
+| 2024-01-01 | 20,371 | 82 |
 ## Awards
 Max (Amazing Characters): 107  (Ranked 364)  
 Sum: 541 (Ranked 330)  

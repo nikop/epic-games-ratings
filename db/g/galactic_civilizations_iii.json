@@ -4,10 +4,10 @@
   "ProductSlug": "galactic-civilizations-iii",
   "Ranking_Rating": 931,
   "Ranking_Popularity": 301,
-  "Ranking_PopularitySum": 253,
+  "Ranking_PopularitySum": 252,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-01-21T16:00:00+00:00",
@@ -2114,18 +2114,24 @@
       "Rating": 4.23,
       "NumberOfAwards": 1257,
       "NumberOfAwardsMax": 189
+    },
+    {
+      "Time": "2024-01-01T04:02:14.559575+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 1258,
+      "NumberOfAwardsMax": 190
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1257,
-  "NumberOfAwardsMax": 189,
+  "NumberOfAwards": 1258,
+  "NumberOfAwardsMax": 190,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 189
+      "Count": 190
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2187,8 +2193,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:25.7061184+00:00",
-  "LastChanged": "2023-12-29T05:58:43.7843236+00:00",
+  "LastChanged": "2024-01-01T04:02:14.5595749+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.2214112+00:00",
-  "LastUpdate_Ratings": "2024-01-01T03:02:54.1317942+00:00",
-  "LastUpdate_Achievements": "2024-01-01T03:08:31.9505807+00:00"
+  "LastUpdate_Ratings": "2024-01-01T04:02:14.5595753+00:00",
+  "LastUpdate_Achievements": "2024-01-01T04:08:18.107471+00:00"
 }

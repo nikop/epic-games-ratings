@@ -2,9 +2,9 @@
   "ID": "0610384879594dd0b42c73e2d8af88ae",
   "Name": "Moonglow Bay",
   "ProductSlug": "moonglow-bay",
-  "Ranking_EOS_Progress": 361,
+  "Ranking_EOS_Progress": 360,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewPlayers": 527,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-11-11T17:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 391,
+  "EOS_Progressed": 392,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -108,6 +108,11 @@
     {
       "Time": "2023-12-23T00:10:48.9732206+00:00",
       "NumProgressed": 391,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T04:10:44.245181+00:00",
+      "NumProgressed": 392,
       "NumCompleted": 0
     }
   ],
@@ -415,7 +420,7 @@
     {
       "ID": "cieb1c3",
       "IsBase": true,
-      "Progressed": 391,
+      "Progressed": 392,
       "Completed": 0
     }
   ],
@@ -423,8 +428,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.9355782+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:22.8517258+00:00",
   "LastChanged": "2023-03-31T05:57:52.9355783+00:00",
-  "LastChanged_Achievements": "2024-01-01T03:10:57.2917704+00:00",
+  "LastChanged_Achievements": "2024-01-01T04:10:44.2451806+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:19.0652233+00:00",
-  "LastUpdate_Ratings": "2024-01-01T03:02:59.6660981+00:00",
-  "LastUpdate_Achievements": "2024-01-01T03:10:57.2917926+00:00"
+  "LastUpdate_Ratings": "2024-01-01T04:02:20.1410691+00:00",
+  "LastUpdate_Achievements": "2024-01-01T04:10:44.2452067+00:00"
 }

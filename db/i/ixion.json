@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -7784,9 +7784,9 @@
       "ID": "ACH_BASE_33",
       "SetID": "92iocjf",
       "Name": "Fully Recycled",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 541
+      "UsersEstimate": 579
     },
     {
       "ID": "ACH_BASE_34",
@@ -8063,8 +8063,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-22T13:57:44.9340377+00:00",
-  "LastChanged_Achievements": "2024-01-01T03:07:22.1922965+00:00",
+  "LastChanged_Achievements": "2024-01-01T04:07:08.9722064+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:27.7465752+00:00",
-  "LastUpdate_Ratings": "2024-01-01T03:03:11.2982907+00:00",
-  "LastUpdate_Achievements": "2024-01-01T03:07:22.192378+00:00"
+  "LastUpdate_Ratings": "2024-01-01T04:02:30.9431176+00:00",
+  "LastUpdate_Achievements": "2024-01-01T04:07:08.9722839+00:00"
 }

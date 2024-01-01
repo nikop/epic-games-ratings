@@ -7,12 +7,12 @@ Number of Ratings: 124  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Entrepreneur | 33.00% | ~51 |
-| Best Buddy | 26.00% | ~40 |
-| Civilian | 25.00% | ~39 |
+| Best Buddy | 26.00% | ~41 |
 | Role Model | 24.00% | ~37 |
-| Peddler | 19.00% | ~29 |
-| Military Leader | 19.00% | ~29 |
-| Creator | 19.00% | ~29 |
+| Civilian | 24.00% | ~37 |
+| Peddler | 19.00% | ~30 |
+| Military Leader | 19.00% | ~30 |
+| Creator | 19.00% | ~30 |
 | Festival-goer | 18.00% | ~28 |
 | Commander | 15.00% | ~23 |
 | Long-Haul Flyer | 13.00% | ~20 |
@@ -24,12 +24,12 @@ Number of Ratings: 124  (23.09.2022)
 | Eternal Oblivion | 8.00% | ~12 |
 | Globetrotter | 7.00% | ~11 |
 | Alb | 7.00% | ~11 |
-| Banker | 5.00% | ~8 |
-| Hotshot | 5.00% | ~8 |
-| Perfectionist | 5.00% | ~8 |
 | Hunter | 5.00% | ~8 |
+| Banker | 4.00% | ~6 |
 | Beam Me Up | 4.00% | ~6 |
+| Hotshot | 4.00% | ~6 |
 | Free as a Bird | 4.00% | ~6 |
+| Perfectionist | 4.00% | ~6 |
 | Detective | 4.00% | ~6 |
 | Treasure Hunter | 3.00% | ~5 |
 | Alchemist | 3.00% | ~5 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Enforcer | 0.00% | ~0 |
 | Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 155 (Ranked 442)  
+Progressed: 156 (Ranked 442)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-29 | 131 | 0 |
 | 2023-12-30 | 141 | 0 |
 | 2023-12-31 | 154 | 0 |
-| 2024-01-01 | 155 | 0 |
+| 2024-01-01 | 156 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

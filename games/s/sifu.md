@@ -6,20 +6,21 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 5.00% | ~37,525 |
-| Life is your teacher | 4.00% | ~30,020 |
-| Lightning Hands | 4.00% | ~30,020 |
-| The Assault | 3.00% | ~22,515 |
-| The Hateful Pole Fighter | 2.00% | ~15,010 |
-| A Lady's Blood in the Snow | 2.00% | ~15,010 |
-| Stuntmaster | 2.00% | ~15,010 |
-| Street Fighting | 2.00% | ~15,010 |
-| State of constant learning | 2.00% | ~15,010 |
-| Qi Gong: Breath | 2.00% | ~15,010 |
-| Qi Gong: Essence | 2.00% | ~15,010 |
-| Old Child | 2.00% | ~15,010 |
-| Rumble in the Hangar | 2.00% | ~15,010 |
-| Diligence as a goal | 2.00% | ~1,196 |
+| The Old Grandmaster | 5.00% | ~37,527 |
+| Life is your teacher | 4.00% | ~30,022 |
+| Lightning Hands | 4.00% | ~30,022 |
+| The Assault | 3.00% | ~22,516 |
+| The Hateful Pole Fighter | 2.00% | ~15,011 |
+| A Lady's Blood in the Snow | 2.00% | ~15,011 |
+| Stuntmaster | 2.00% | ~15,011 |
+| Street Fighting | 2.00% | ~15,011 |
+| State of constant learning | 2.00% | ~15,011 |
+| Qi Gong: Breath | 2.00% | ~15,011 |
+| Qi Gong: Essence | 2.00% | ~15,011 |
+| Old Child | 2.00% | ~15,011 |
+| Path of the Prospect | 2.00% | ~15,011 |
+| Rumble in the Hangar | 2.00% | ~15,011 |
+| Diligence as a goal | 2.00% | ~1,197 |
 | Lady Wing Chun | 1.00% | ~7,505 |
 | Furious Fists | 1.00% | ~7,505 |
 | Scareless | 1.00% | ~7,505 |
@@ -27,7 +28,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Mind | 1.00% | ~7,505 |
 | I know Kung-Fu | 1.00% | ~7,505 |
 | Kung-Fu Tussle | 1.00% | ~7,505 |
-| Path of the Prospect | 1.00% | ~7,505 |
 | Take damage to save time | 1.00% | ~7,505 |
 | Project Arena | 1.00% | ~598 |
 | Dance of the Praying Mantis | 0.90% | ~6,755 |
@@ -48,7 +48,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Knowledge Greed | 0.30% | ~2,252 |
 | The Pit Protector | 0.30% | ~2,252 |
 | Come Snap With Me | 0.30% | ~2,252 |
-| Deadly Venom | 0.30% | ~179 |
+| Deadly Venom | 0.30% | ~180 |
 | Martial Artist | 0.20% | ~1,501 |
 | Healing Memory | 0.20% | ~1,501 |
 | Master of the Phoenix Eye Fist | 0.20% | ~1,501 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~60 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 750,501 (Ranked 23)  
+Progressed: 750,540 (Ranked 23)  
 Completed: 12,971 (1.73%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 12,971 (1.73%) (Ranked 143)
 | 2023-12-29 | 748,212 | 12,968 |
 | 2023-12-30 | 749,350 | 12,969 |
 | 2023-12-31 | 750,399 | 12,971 |
-| 2024-01-01 | 750,501 | 12,971 |
+| 2024-01-01 | 750,540 | 12,971 |
 ## Awards
 Max (Great Boss Battles): 7,070  (Ranked 55)  
 Sum: 11,961 (Ranked 87)  

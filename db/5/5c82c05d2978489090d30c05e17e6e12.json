@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 72121,
+  "EOS_Progressed": 72125,
   "EOS_Completed": 104,
-  "EOS_NewPlayers": 2082,
+  "EOS_NewPlayers": 2072,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -5648,6 +5648,11 @@
       "Time": "2024-01-01T03:07:05.4388215+00:00",
       "NumProgressed": 72121,
       "NumCompleted": 104
+    },
+    {
+      "Time": "2024-01-01T04:06:52.5473782+00:00",
+      "NumProgressed": 72125,
+      "NumCompleted": 104
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -5660,7 +5665,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 26685
+      "UsersEstimate": 26686
     },
     {
       "ID": "Achievement_10",
@@ -5748,7 +5753,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 19473
+      "UsersEstimate": 19474
     },
     {
       "ID": "Achievement_20",
@@ -5892,7 +5897,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 4327
+      "UsersEstimate": 4328
     },
     {
       "ID": "Achievement_6",
@@ -5931,7 +5936,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 72121,
+      "Progressed": 72125,
       "Completed": 104
     }
   ],
@@ -5939,8 +5944,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2023-12-30T13:05:52.7495304+00:00",
-  "LastChanged_Achievements": "2024-01-01T03:07:05.4388212+00:00",
+  "LastChanged_Achievements": "2024-01-01T04:06:52.5473778+00:00",
   "LastUpdate_AppInfo": "2023-12-28T16:57:09.138646+00:00",
-  "LastUpdate_Ratings": "2024-01-01T03:03:33.8697496+00:00",
-  "LastUpdate_Achievements": "2024-01-01T03:07:05.4388658+00:00"
+  "LastUpdate_Ratings": "2024-01-01T04:03:23.6073074+00:00",
+  "LastUpdate_Achievements": "2024-01-01T04:06:52.5474156+00:00"
 }

@@ -14,7 +14,7 @@
 | Harvest Time | 57.00% | ~60 |
 | Artificer's Apprentice | 51.00% | ~54 |
 | Fly the friendly Sky | 45.00% | ~48 |
-| Get out of here! | 42.00% | ~45 |
+| Get out of here! | 43.00% | ~46 |
 | Alchemist's Apprentice | 38.00% | ~40 |
 | Necromancer's Apprentice | 37.00% | ~39 |
 | Friend of Lyraine | 36.00% | ~38 |
@@ -39,8 +39,8 @@
 | Friend of Windholme | 10.00% | ~11 |
 | Magic Academy | 10.00% | ~11 |
 | Defeat Gor | 9.00% | ~10 |
+| Yngrid's Tale | 9.00% | ~10 |
 | A Joke | 9.00% | ~10 |
-| Yngrid's Tale | 8.00% | ~8 |
 | Mage Teacher | 8.00% | ~8 |
 | Defeat Hokan | 7.00% | ~7 |
 | Defeat Uram | 7.00% | ~7 |

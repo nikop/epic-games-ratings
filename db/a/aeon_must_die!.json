@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3623,
+  "EOS_Progressed": 3624,
   "EOS_Completed": -28,
   "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
@@ -829,6 +829,11 @@
       "Time": "2023-12-31T07:09:10.7876023+00:00",
       "NumProgressed": 3623,
       "NumCompleted": -28
+    },
+    {
+      "Time": "2024-01-01T04:09:11.0056815+00:00",
+      "NumProgressed": 3624,
+      "NumCompleted": -28
     }
   ],
   "TotalAchievements": 35,
@@ -1048,7 +1053,7 @@
       "Name": "Cheap Tricks",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "34",
@@ -1119,7 +1124,7 @@
     {
       "ID": "5cfan5f",
       "IsBase": true,
-      "Progressed": 3623,
+      "Progressed": 3624,
       "Completed": -28
     }
   ],
@@ -1127,8 +1132,8 @@
   "FirstSeenRating": "2023-03-31T05:57:47.6282552+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:12.6590754+00:00",
   "LastChanged": "2023-03-31T05:57:47.6282553+00:00",
-  "LastChanged_Achievements": "2024-01-01T03:09:24.3282152+00:00",
+  "LastChanged_Achievements": "2024-01-01T04:09:11.005681+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:16.5044228+00:00",
-  "LastUpdate_Ratings": "2024-01-01T02:59:09.5509326+00:00",
-  "LastUpdate_Achievements": "2024-01-01T03:09:24.3282672+00:00"
+  "LastUpdate_Ratings": "2024-01-01T03:59:05.8314555+00:00",
+  "LastUpdate_Achievements": "2024-01-01T04:09:11.0057342+00:00"
 }

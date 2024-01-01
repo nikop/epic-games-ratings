@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 542,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -655,9 +655,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 4171,
+  "EOS_Progressed": 4172,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -9225,6 +9225,11 @@
       "Time": "2023-12-31T23:10:20.6975898+00:00",
       "NumProgressed": 4171,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-01T04:09:55.9480571+00:00",
+      "NumProgressed": 4172,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9244,7 +9249,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 959
+      "UsersEstimate": 960
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -9300,7 +9305,7 @@
       "Name": "Organ Grinder",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 959
+      "UsersEstimate": 960
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -9316,7 +9321,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1960
+      "UsersEstimate": 1961
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -9356,7 +9361,7 @@
       "Name": "Gunslinger",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -9372,7 +9377,7 @@
       "Name": "Sharpshooter",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 959
+      "UsersEstimate": 960
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -9436,7 +9441,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -9484,7 +9489,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1543
+      "UsersEstimate": 1544
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -9492,7 +9497,7 @@
       "Name": "Close Quarters",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -9500,7 +9505,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -9604,7 +9609,7 @@
       "Name": "Taking it back",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1251
+      "UsersEstimate": 1252
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -9803,13 +9808,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4122,
+      "Progressed": 4123,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4171,
+      "Progressed": 4172,
       "Completed": 11
     }
   ],
@@ -9817,8 +9822,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-31T17:57:21.8483577+00:00",
-  "LastChanged_Achievements": "2024-01-01T03:10:09.4826923+00:00",
+  "LastChanged_Achievements": "2024-01-01T04:09:55.9480567+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:41.6601563+00:00",
-  "LastUpdate_Ratings": "2024-01-01T02:57:55.3177142+00:00",
-  "LastUpdate_Achievements": "2024-01-01T03:10:09.4827964+00:00"
+  "LastUpdate_Ratings": "2024-01-01T03:57:51.2081418+00:00",
+  "LastUpdate_Achievements": "2024-01-01T04:09:55.9481436+00:00"
 }

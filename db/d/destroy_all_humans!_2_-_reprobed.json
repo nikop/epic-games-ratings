@@ -288,9 +288,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 270,
+  "EOS_Progressed": 271,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -1338,6 +1338,11 @@
       "Time": "2024-01-01T00:09:07.0892037+00:00",
       "NumProgressed": 270,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-01T04:09:33.646127+00:00",
+      "NumProgressed": 271,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1350,7 +1355,7 @@
       "Name": "Mash Machine",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1486,7 +1491,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1500,9 +1505,9 @@
       "ID": "ACH_ENTER_TAKOSHIMA",
       "SetID": "4n84pon",
       "Name": "I Look Up As I Walk to Takoshima",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 51
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_ENTER_TUNGUSKA",
@@ -1510,7 +1515,7 @@
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_KILL_BONGWATER",
@@ -1518,7 +1523,7 @@
       "Name": "Bodied Sattva",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -1598,7 +1603,7 @@
       "Name": "Earthly Pleasures",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
@@ -1684,9 +1689,9 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "4n84pon",
       "Name": "Shop Til They Drop",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 106
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1701,7 +1706,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 270,
+      "Progressed": 271,
       "Completed": 1
     }
   ],
@@ -1709,8 +1714,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-31T11:01:39.7283208+00:00",
-  "LastChanged_Achievements": "2024-01-01T03:09:46.9548755+00:00",
+  "LastChanged_Achievements": "2024-01-01T04:09:33.6461262+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.261947+00:00",
-  "LastUpdate_Ratings": "2024-01-01T02:57:25.4417915+00:00",
-  "LastUpdate_Achievements": "2024-01-01T03:09:46.9549137+00:00"
+  "LastUpdate_Ratings": "2024-01-01T03:57:21.1177562+00:00",
+  "LastUpdate_Achievements": "2024-01-01T04:09:33.6461892+00:00"
 }

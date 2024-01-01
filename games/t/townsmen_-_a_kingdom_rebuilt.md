@@ -34,13 +34,13 @@ Number of Ratings: 37  (23.09.2022)
 | An honorable Governor II | 5.00% | ~221 |
 | Tax-man IV | 5.00% | ~221 |
 | Conflicting parties | 5.00% | ~221 |
-| Another one bites the dust | 4.00% | ~176 |
-| I like to build stuff... IV | 4.00% | ~176 |
-| Experienced decorator | 4.00% | ~176 |
-| My precious... I | 4.00% | ~176 |
-| Full-time job III | 4.00% | ~176 |
-| A time consuming game III | 4.00% | ~176 |
-| Tools of the trade II | 4.00% | ~176 |
+| Another one bites the dust | 4.00% | ~177 |
+| I like to build stuff... IV | 4.00% | ~177 |
+| Experienced decorator | 4.00% | ~177 |
+| My precious... I | 4.00% | ~177 |
+| Full-time job III | 4.00% | ~177 |
+| A time consuming game III | 4.00% | ~177 |
+| Tools of the trade II | 4.00% | ~177 |
 | Bread for the people III | 3.00% | ~132 |
 | Five brews are a schnitzel | 3.00% | ~132 |
 | I like to build stuff... V | 3.00% | ~132 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,412 (Ranked 205)  
+Progressed: 4,413 (Ranked 205)  
 Completed: 4 (0.09%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,6 +259,7 @@ Completed: 4 (0.09%) (Ranked 311)
 | 2023-12-29 | 4,409 | 4 |
 | 2023-12-30 | 4,410 | 4 |
 | 2023-12-31 | 4,412 | 4 |
+| 2024-01-01 | 4,413 | 4 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fried Friendship | 84.00% | ~75,852 |
-| Struck A Pose | 82.00% | ~74,046 |
-| Look At Him Go | 68.00% | ~61,404 |
-| On Rails Experience | 43.00% | ~38,829 |
-| A Daring Devil | 43.00% | ~38,829 |
-| Break the Bank | 33.00% | ~29,799 |
-| It Took Two | 29.00% | ~26,187 |
-| Bug Sized Relaxation | 13.00% | ~11,739 |
-| Plastic Prison Breakers | 13.00% | ~11,739 |
-| Terror Of The Seven Seas | 10.00% | ~9,030 |
-| Realize Your Art | 8.00% | ~7,224 |
-| Force Triangulated | 8.00% | ~7,224 |
-| Meditation Maestro | 7.00% | ~6,321 |
-| Snackosaurus | 6.00% | ~5,418 |
-| Platforming Prodigy | 6.00% | ~5,418 |
-| Lost And Found | 6.00% | ~5,418 |
-| Something Fishy | 6.00% | ~5,418 |
-| Mood Swing | 4.00% | ~3,612 |
-| Faraway Frequencies | 3.00% | ~2,709 |
-| Minigame Megalomania | 2.00% | ~1,806 |
+| Fried Friendship | 84.00% | ~75,902 |
+| Struck A Pose | 82.00% | ~74,095 |
+| Look At Him Go | 68.00% | ~61,445 |
+| On Rails Experience | 43.00% | ~38,855 |
+| A Daring Devil | 43.00% | ~38,855 |
+| Break the Bank | 33.00% | ~29,819 |
+| It Took Two | 29.00% | ~26,204 |
+| Bug Sized Relaxation | 13.00% | ~11,747 |
+| Plastic Prison Breakers | 13.00% | ~11,747 |
+| Terror Of The Seven Seas | 10.00% | ~9,036 |
+| Realize Your Art | 8.00% | ~7,229 |
+| Force Triangulated | 8.00% | ~7,229 |
+| Meditation Maestro | 7.00% | ~6,325 |
+| Snackosaurus | 6.00% | ~5,422 |
+| Platforming Prodigy | 6.00% | ~5,422 |
+| Lost And Found | 6.00% | ~5,422 |
+| Something Fishy | 6.00% | ~5,422 |
+| Mood Swing | 4.00% | ~3,614 |
+| Faraway Frequencies | 3.00% | ~2,711 |
+| Minigame Megalomania | 2.00% | ~1,807 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,300 (Ranked 102)  
+Progressed: 90,360 (Ranked 102)  
 Completed: 189 (0.21%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,4 +133,4 @@ Completed: 189 (0.21%) (Ranked 269)
 | 2023-12-29 | 83,637 | 178 |
 | 2023-12-30 | 86,995 | 184 |
 | 2023-12-31 | 90,187 | 189 |
-| 2024-01-01 | 90,300 | 189 |
+| 2024-01-01 | 90,360 | 189 |

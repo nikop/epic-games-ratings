@@ -4,8 +4,8 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 94,
-  "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1886,
+  "EOS_Progressed": 1887,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 3.71,
   "EosHistory": [
@@ -4209,6 +4209,11 @@
       "Time": "2024-01-01T02:05:50.3012827+00:00",
       "NumProgressed": 1886,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2024-01-01T04:10:34.7010376+00:00",
+      "NumProgressed": 1887,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 16,
@@ -4252,7 +4257,7 @@
       "Name": "Goodbye Tieng Valley",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "ACH_GRAFFITIARTIST",
@@ -4276,7 +4281,7 @@
       "Name": "Home Leaver",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1490
+      "UsersEstimate": 1491
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -4284,7 +4289,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1490
+      "UsersEstimate": 1491
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -4300,7 +4305,7 @@
       "Name": "Music for Cows",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "ACH_OUTSIDEWORLDSEER",
@@ -4308,15 +4313,15 @@
       "Name": "Outside World Seer",
       "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 1150
+      "UsersEstimate": 1151
     },
     {
       "ID": "ACH_SHRINEARRIVER",
       "SetID": "7pam6gn",
       "Name": "Shrine Arriver",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 226
+      "UsersEstimate": 208
     },
     {
       "ID": "ACH_STRANGERENCOUNTERER",
@@ -4332,7 +4337,7 @@
       "Name": "The End",
       "Percentage": 11,
       "XP": 200,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "ACH_TOURDETIENG",
@@ -4347,7 +4352,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1886,
+      "Progressed": 1887,
       "Completed": 70
     }
   ],
@@ -4355,8 +4360,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2024-01-01T03:10:47.6396817+00:00",
+  "LastChanged_Achievements": "2024-01-01T04:10:34.7010367+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.182252+00:00",
-  "LastUpdate_Ratings": "2024-01-01T03:00:46.136341+00:00",
-  "LastUpdate_Achievements": "2024-01-01T03:10:47.6397406+00:00"
+  "LastUpdate_Ratings": "2024-01-01T04:00:44.6015657+00:00",
+  "LastUpdate_Achievements": "2024-01-01T04:10:34.7010736+00:00"
 }

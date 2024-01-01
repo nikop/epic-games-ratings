@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -2331,9 +2331,9 @@
       "ID": "ach_main10fire_naga",
       "SetID": "4hg22ll",
       "Name": "Shame! Shame! Shame!",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 320
+      "UsersEstimate": 326
     },
     {
       "ID": "ach_main11blessing_completed",
@@ -2588,8 +2588,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2023-12-31T11:58:23.3486081+00:00",
-  "LastChanged_Achievements": "2024-01-01T03:09:36.3560924+00:00",
+  "LastChanged_Achievements": "2024-01-01T04:09:22.8619263+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:16.0613697+00:00",
-  "LastUpdate_Ratings": "2024-01-01T02:59:09.5330832+00:00",
-  "LastUpdate_Achievements": "2024-01-01T03:09:36.3561441+00:00"
+  "LastUpdate_Ratings": "2024-01-01T03:59:05.664654+00:00",
+  "LastUpdate_Achievements": "2024-01-01T04:09:22.8619909+00:00"
 }

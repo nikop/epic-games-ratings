@@ -6,13 +6,13 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 19.00% | ~128,564 |
+| Advanced Stroller | 19.00% | ~128,565 |
 | Incurious | 18.00% | ~121,798 |
-| Climate Change | 17.00% | ~115,031 |
-| Stroller | 16.00% | ~108,264 |
-| Advanced Hiker | 14.00% | ~94,731 |
-| Toy Train | 14.00% | ~94,731 |
-| Hiker | 12.00% | ~81,198 |
+| Climate Change | 17.00% | ~115,032 |
+| Stroller | 16.00% | ~108,265 |
+| Advanced Hiker | 14.00% | ~94,732 |
+| Toy Train | 14.00% | ~94,732 |
+| Hiker | 12.00% | ~81,199 |
 | Mojave Courier | 6.00% | ~40,599 |
 | Saved by Nausicaä | 6.00% | ~40,599 |
 | Advanced Voyager | 4.00% | ~27,066 |
@@ -32,8 +32,8 @@ Number of Ratings: 21,990  (23.09.2022)
 | Scrooge | 0.50% | ~3,383 |
 | Wayfarer | 0.40% | ~2,707 |
 | Advanced Wayfarer | 0.40% | ~2,707 |
+| Trans-Siberian Railway | 0.40% | ~2,707 |
 | Tough Nut! | 0.40% | ~2,707 |
-| Trans-Siberian Railway | 0.30% | ~2,030 |
 | Engineer | 0.30% | ~2,030 |
 | Satan's Minion | 0.30% | ~2,030 |
 | Snowman's Land | 0.30% | ~2,030 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~677 |
 | 20 Miles under the Sea | 0.10% | ~677 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 676,653 (Ranked 28)  
+Progressed: 676,658 (Ranked 28)  
 Completed: 12 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,14 +315,14 @@ Completed: 12 (0.00%) (Ranked 391)
 | 2023-12-29 | 675,587 | 12 |
 | 2023-12-30 | 676,071 | 12 |
 | 2023-12-31 | 676,580 | 12 |
-| 2024-01-01 | 676,653 | 12 |
+| 2024-01-01 | 676,658 | 12 |
 ## Awards
-Max (Great for Beginners): 207  (Ranked 294)  
-Sum: 1,623 (Ranked 232)  
-Diff (max vs sum): 62  
+Max (Great for Beginners): 208  (Ranked 292)  
+Sum: 1,624 (Ranked 232)  
+Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 207 |
+| This game is Great for Beginners | 208 |
 | This game has Diverse Characters | 203 |
 | This game has Quickly Understood Controls | 194 |
 | This game is Extremely Fun | 188 |
@@ -496,3 +496,4 @@ Diff (max vs sum): 62
 | 2023-12-28 | 4.64 | - | 207 | 1,620 |
 | 2023-12-29 | 4.64 | - | 207 | 1,622 |
 | 2023-12-30 | 4.64 | - | 207 | 1,623 |
+| 2024-01-01 | 4.64 | - | 208 | 1,624 |

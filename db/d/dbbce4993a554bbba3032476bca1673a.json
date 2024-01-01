@@ -4,7 +4,7 @@
   "ProductSlug": "outbreak-devious-beginnings-5c0af8",
   "Ranking_EOS_Progress": 638,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 498,
+  "Ranking_EOS_NewPlayers": 497,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-10-25T14:00:00+00:00",
@@ -149,9 +149,9 @@
       "ID": "THATS_IT_RIGHT_ACH",
       "SetID": "8i8pmkm",
       "Name": "That\u0027s It... Right?",
-      "Percentage": 46,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "THERES_TOO_MANY_ACH",
@@ -212,8 +212,8 @@
   ],
   "FirstSeen": "2023-10-26T23:59:41.2750505+00:00",
   "FirstSeenAchievements": "2023-10-18T22:15:21.2446636+00:00",
-  "LastChanged_Achievements": "2024-01-01T03:06:10.8787184+00:00",
+  "LastChanged_Achievements": "2024-01-01T04:05:58.5849569+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:20.77388+00:00",
-  "LastUpdate_Ratings": "2024-01-01T02:59:07.0840929+00:00",
-  "LastUpdate_Achievements": "2024-01-01T03:06:10.8787279+00:00"
+  "LastUpdate_Ratings": "2024-01-01T03:59:03.077124+00:00",
+  "LastUpdate_Achievements": "2024-01-01T04:05:58.5849675+00:00"
 }

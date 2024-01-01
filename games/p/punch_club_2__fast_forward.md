@@ -68,8 +68,8 @@
 | The heart of the Resistance | 28.00% | ~143 |
 | Your own way | 28.00% | ~143 |
 | Better cooking at home | 26.00% | ~132 |
+| The only right decision | 26.00% | ~132 |
 | Silver’s past | 25.00% | ~127 |
-| The only right decision | 25.00% | ~127 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 509 (Ranked 342)  
 Completed: 9 (1.77%) (Ranked 142)  

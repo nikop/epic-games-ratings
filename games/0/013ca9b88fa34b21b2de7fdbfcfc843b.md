@@ -27,9 +27,9 @@ Rating: 4.63 (Ranked 358)
 | Azorian Anniversary | 0.70% | ~62 |
 | Skilled | 0.70% | ~62 |
 | Fae Farmer | 0.60% | ~53 |
+| Got to Catch Them All | 0.50% | ~44 |
 | Rumble in the Jumble | 0.50% | ~44 |
 | Fanatical Farmer | 0.50% | ~44 |
-| Got to Catch Them All | 0.40% | ~35 |
 | Scattered Scroll Scrounger | 0.40% | ~35 |
 | Right Tool For the Job | 0.40% | ~35 |
 | Azorian Hat Dance | 0.40% | ~6 |

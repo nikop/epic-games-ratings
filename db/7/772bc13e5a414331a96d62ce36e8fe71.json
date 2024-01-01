@@ -4,7 +4,7 @@
   "ProductSlug": "carsick-carventure-d216ba",
   "Ranking_EOS_Progress": 338,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2023-12-07T14:52:25.231+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 557,
+  "EOS_Progressed": 559,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 7,
+  "EOS_Completed_Percentage": 6.98,
   "EosHistory": [
     {
       "Time": "2023-12-07T15:03:10.6458391+00:00",
@@ -1724,6 +1724,11 @@
       "Time": "2024-01-01T03:07:44.8634658+00:00",
       "NumProgressed": 557,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2024-01-01T04:07:31.8194986+00:00",
+      "NumProgressed": 559,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-12-07T15:03:10.6469952+00:00",
@@ -1760,7 +1765,7 @@
       "Name": "500 Score",
       "Percentage": 52,
       "XP": 200,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "10_XP",
@@ -1768,21 +1773,21 @@
       "Name": "200 Score",
       "Percentage": 67,
       "XP": 200,
-      "UsersEstimate": 373
+      "UsersEstimate": 375
     }
   ],
   "AchievementSets": [
     {
       "ID": "8d0im30",
       "IsBase": true,
-      "Progressed": 557,
+      "Progressed": 559,
       "Completed": 39
     }
   ],
   "FirstSeen": "2023-12-08T10:57:34.1568649+00:00",
   "FirstSeenAchievements": "2023-12-07T15:03:10.6469952+00:00",
-  "LastChanged_Achievements": "2024-01-01T03:07:44.8634655+00:00",
+  "LastChanged_Achievements": "2024-01-01T04:07:31.8194981+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:17.8041321+00:00",
-  "LastUpdate_Ratings": "2024-01-01T03:00:24.3090789+00:00",
-  "LastUpdate_Achievements": "2024-01-01T03:07:44.8634774+00:00"
+  "LastUpdate_Ratings": "2024-01-01T04:00:21.3721386+00:00",
+  "LastUpdate_Achievements": "2024-01-01T04:07:31.8195155+00:00"
 }

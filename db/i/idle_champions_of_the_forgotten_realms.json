@@ -9235,9 +9235,9 @@
       "Count": 3614
     }
   ],
-  "EOS_Progressed": 248743,
+  "EOS_Progressed": 248771,
   "EOS_Completed": 2582,
-  "EOS_NewPlayers": 4421,
+  "EOS_NewPlayers": 4435,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -38160,6 +38160,11 @@
       "Time": "2024-01-01T03:11:15.0766823+00:00",
       "NumProgressed": 248743,
       "NumCompleted": 2582
+    },
+    {
+      "Time": "2024-01-01T04:11:01.4430704+00:00",
+      "NumProgressed": 248771,
+      "NumCompleted": 2582
     }
   ],
   "TotalAchievements": 546,
@@ -38171,7 +38176,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7462
+      "UsersEstimate": 7463
     },
     {
       "ID": "objective_completed_10",
@@ -38179,7 +38184,7 @@
       "Name": "Maddening",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "objective_completed_100",
@@ -39275,7 +39280,7 @@
       "Name": "Beast Mode",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "objective_completed_149",
@@ -39291,7 +39296,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "objective_completed_150",
@@ -39355,7 +39360,7 @@
       "Name": "Low Initiative",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "objective_completed_164",
@@ -39363,7 +39368,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "objective_completed_165",
@@ -39395,7 +39400,7 @@
       "Name": "Building Trust",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "objective_completed_17",
@@ -39499,7 +39504,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "objective_completed_20",
@@ -39843,7 +39848,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2487
+      "UsersEstimate": 2488
     },
     {
       "ID": "objective_completed_34",
@@ -39859,7 +39864,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "objective_completed_36",
@@ -40043,7 +40048,7 @@
       "Name": "Useless Allies",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "objective_completed_400",
@@ -40315,7 +40320,7 @@
       "Name": "Exploring Port Nyanzaru",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "objective_completed_540",
@@ -40659,7 +40664,7 @@
       "Name": "Running of the Saurs",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "objective_completed_590",
@@ -40715,7 +40720,7 @@
       "Name": "The Contagious Curse",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "objective_completed_60",
@@ -41243,7 +41248,7 @@
       "Name": "Escort to Waterdeep",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "objective_completed_690",
@@ -41347,7 +41352,7 @@
       "Name": "Waterdeep Detours",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "objective_completed_75",
@@ -41385,9 +41390,9 @@
       "ID": "objective_completed_8",
       "SetID": "cc37lbc",
       "Name": "Friendly Imps",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 746
+      "UsersEstimate": 995
     },
     {
       "ID": "objective_completed_80",
@@ -42538,21 +42543,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 215017,
+      "Progressed": 215045,
       "Completed": 4112
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 248743,
+      "Progressed": 248771,
       "Completed": 2582
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-01T02:57:42.0089305+00:00",
-  "LastChanged_Achievements": "2024-01-01T03:11:15.0766821+00:00",
+  "LastChanged_Achievements": "2024-01-01T04:11:01.4430698+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-01T02:57:42.0089314+00:00",
-  "LastUpdate_Achievements": "2024-01-01T03:11:15.079102+00:00"
+  "LastUpdate_Ratings": "2024-01-01T03:57:38.1376914+00:00",
+  "LastUpdate_Achievements": "2024-01-01T04:11:01.4454445+00:00"
 }

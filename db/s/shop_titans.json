@@ -7903,9 +7903,9 @@
       "Count": 3808
     }
   ],
-  "EOS_Progressed": 148732,
+  "EOS_Progressed": 148741,
   "EOS_Completed": 340,
-  "EOS_NewPlayers": 1260,
+  "EOS_NewPlayers": 1268,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -34808,6 +34808,11 @@
       "Time": "2024-01-01T03:06:48.3821763+00:00",
       "NumProgressed": 148732,
       "NumCompleted": 340
+    },
+    {
+      "Time": "2024-01-01T04:06:35.3555916+00:00",
+      "NumProgressed": 148741,
+      "NumCompleted": 340
     }
   ],
   "TotalAchievements": 112,
@@ -34819,7 +34824,7 @@
       "Name": "The Daily Grind",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5949
+      "UsersEstimate": 5950
     },
     {
       "ID": "advlevel02",
@@ -34955,7 +34960,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5949
+      "UsersEstimate": 5950
     },
     {
       "ID": "boss02",
@@ -34987,7 +34992,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 14873
+      "UsersEstimate": 14874
     },
     {
       "ID": "chest02",
@@ -35051,7 +35056,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13386
+      "UsersEstimate": 13387
     },
     {
       "ID": "commonres02",
@@ -35059,7 +35064,7 @@
       "Name": "Demand for Supplies",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5949
+      "UsersEstimate": 5950
     },
     {
       "ID": "commonres03",
@@ -35083,7 +35088,7 @@
       "Name": "Disintermediation",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10411
+      "UsersEstimate": 10412
     },
     {
       "ID": "craft02",
@@ -35091,7 +35096,7 @@
       "Name": "Flooding the Market",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5949
+      "UsersEstimate": 5950
     },
     {
       "ID": "craft03",
@@ -35123,7 +35128,7 @@
       "Name": "Where it Hurts",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5949
+      "UsersEstimate": 5950
     },
     {
       "ID": "damage02",
@@ -35371,7 +35376,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5949
+      "UsersEstimate": 5950
     },
     {
       "ID": "jackslot02",
@@ -35443,7 +35448,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5949
+      "UsersEstimate": 5950
     },
     {
       "ID": "loot02",
@@ -35475,7 +35480,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5949
+      "UsersEstimate": 5950
     },
     {
       "ID": "master02",
@@ -35595,7 +35600,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10411
+      "UsersEstimate": 10412
     },
     {
       "ID": "sell02",
@@ -35635,7 +35640,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 14873
+      "UsersEstimate": 14874
     },
     {
       "ID": "twinenchant01",
@@ -35691,7 +35696,7 @@
       "Name": "Arcane Industries",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5949
+      "UsersEstimate": 5950
     },
     {
       "ID": "workers03",
@@ -35714,15 +35719,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 148732,
+      "Progressed": 148741,
       "Completed": 340
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-01T03:03:46.2612048+00:00",
-  "LastChanged_Achievements": "2024-01-01T03:06:48.3821758+00:00",
+  "LastChanged_Achievements": "2024-01-01T04:06:35.3555901+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.6407181+00:00",
-  "LastUpdate_Ratings": "2024-01-01T03:03:46.2612055+00:00",
-  "LastUpdate_Achievements": "2024-01-01T03:06:48.3824363+00:00"
+  "LastUpdate_Ratings": "2024-01-01T04:03:37.3888445+00:00",
+  "LastUpdate_Achievements": "2024-01-01T04:06:35.355789+00:00"
 }

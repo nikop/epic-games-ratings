@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10374,9 +10374,9 @@
       "Count": 1071
     }
   ],
-  "EOS_Progressed": 131048,
+  "EOS_Progressed": 131055,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1339,
+  "EOS_NewPlayers": 1342,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37754,6 +37754,11 @@
       "Time": "2024-01-01T03:10:27.1981045+00:00",
       "NumProgressed": 131048,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-01T04:10:14.106226+00:00",
+      "NumProgressed": 131055,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37773,7 +37778,7 @@
       "Name": "Serenity Now!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6552
+      "UsersEstimate": 6553
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -37797,7 +37802,7 @@
       "Name": "Resurrection",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3931
+      "UsersEstimate": 3932
     },
     {
       "ID": "altar_of_hope_unlock_hero_hellion",
@@ -37805,7 +37810,7 @@
       "Name": "Unleash Hell",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3931
+      "UsersEstimate": 3932
     },
     {
       "ID": "altar_of_hope_unlock_hero_jester",
@@ -37813,7 +37818,7 @@
       "Name": "Funny Guy",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3931
+      "UsersEstimate": 3932
     },
     {
       "ID": "altar_of_hope_unlock_hero_leper",
@@ -37821,7 +37826,7 @@
       "Name": "Long Live the King",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3931
+      "UsersEstimate": 3932
     },
     {
       "ID": "altar_of_hope_unlock_hero_occultist",
@@ -37845,7 +37850,7 @@
       "Name": "Unfulfilled Desires",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3931
+      "UsersEstimate": 3932
     },
     {
       "ID": "altar_of_hope_upgrade_total_full",
@@ -37893,7 +37898,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6552
+      "UsersEstimate": 6553
     },
     {
       "ID": "combat_kill_cadavers",
@@ -37901,7 +37906,7 @@
       "Name": "Dissector",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3931
+      "UsersEstimate": 3932
     },
     {
       "ID": "combat_kill_cosmic",
@@ -37909,7 +37914,7 @@
       "Name": "Banishment",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3931
+      "UsersEstimate": 3932
     },
     {
       "ID": "combat_kill_death",
@@ -37925,7 +37930,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6552
+      "UsersEstimate": 6553
     },
     {
       "ID": "combat_kill_fanatics",
@@ -37949,7 +37954,7 @@
       "Name": "Now Stay Dead",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3931
+      "UsersEstimate": 3932
     },
     {
       "ID": "combat_kill_gentry",
@@ -37989,7 +37994,7 @@
       "Name": "Overdue Notice",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6552
+      "UsersEstimate": 6553
     },
     {
       "ID": "combat_kill_pillagers",
@@ -38005,7 +38010,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6552
+      "UsersEstimate": 6553
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -38053,7 +38058,7 @@
       "Name": "Spelunker",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3931
+      "UsersEstimate": 3932
     },
     {
       "ID": "driving_biome_clear_city",
@@ -38069,7 +38074,7 @@
       "Name": "Merry Time",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3931
+      "UsersEstimate": 3932
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -38077,7 +38082,7 @@
       "Name": "Harvest Festival",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3931
+      "UsersEstimate": 3932
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -38093,7 +38098,7 @@
       "Name": "Ramble On",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3931
+      "UsersEstimate": 3932
     },
     {
       "ID": "driving_distance_hard",
@@ -38125,7 +38130,7 @@
       "Name": "Shrine of Reflection",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1311
     },
     {
       "ID": "hero_story_complete_any",
@@ -38141,7 +38146,7 @@
       "Name": "Whale",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3931
+      "UsersEstimate": 3932
     },
     {
       "ID": "hospital_full_service",
@@ -38213,7 +38218,7 @@
       "Name": "Nope",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3931
+      "UsersEstimate": 3932
     },
     {
       "ID": "run_victory_act01",
@@ -38221,7 +38226,7 @@
       "Name": "Unshackled",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3931
+      "UsersEstimate": 3932
     },
     {
       "ID": "run_victory_act02",
@@ -38245,7 +38250,7 @@
       "Name": "Handled",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1311
     },
     {
       "ID": "run_victory_act05",
@@ -38253,7 +38258,7 @@
       "Name": "Body of Work",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1311
     },
     {
       "ID": "run_victory_all_confessions_back_to_back",
@@ -38301,7 +38306,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "combat_kill_collector",
@@ -38365,7 +38370,7 @@
       "Name": "Lost and Found",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -38396,21 +38401,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131048,
+      "Progressed": 131055,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 5917,
+      "Progressed": 5924,
       "Completed": 820
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-01T01:54:21.4310511+00:00",
-  "LastChanged_Achievements": "2024-01-01T03:10:27.1981042+00:00",
+  "LastChanged_Achievements": "2024-01-01T04:10:14.1062254+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-01T02:58:30.9272764+00:00",
-  "LastUpdate_Achievements": "2024-01-01T03:10:27.1983247+00:00"
+  "LastUpdate_Ratings": "2024-01-01T03:58:27.5468568+00:00",
+  "LastUpdate_Achievements": "2024-01-01T04:10:14.1063909+00:00"
 }

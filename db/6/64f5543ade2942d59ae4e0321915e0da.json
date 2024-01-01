@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 335,
+  "EOS_Progressed": 336,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -1324,6 +1324,11 @@
       "Time": "2024-01-01T02:00:03.6557973+00:00",
       "NumProgressed": 335,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-01T04:04:40.7662534+00:00",
+      "NumProgressed": 336,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -1390,9 +1395,9 @@
       "ID": "AC_BLACKJACK_GAMES_1",
       "SetID": "16i2akc",
       "Name": "Gambler",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 60
     },
     {
       "ID": "AC_BLACKJACK_GAMES_2",
@@ -1400,7 +1405,7 @@
       "Name": "Ludopath",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "AC_BOSS_00",
@@ -1448,7 +1453,7 @@
       "Name": "Pack",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "AC_COMBO_2",
@@ -1528,7 +1533,7 @@
       "Name": "Excursion",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -1584,7 +1589,7 @@
       "Name": "Vision",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "AC_MONEY_BLACKJACK",
@@ -1640,7 +1645,7 @@
       "Name": "Loss",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -1671,14 +1676,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 335,
+      "Progressed": 336,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-01T03:04:52.0736088+00:00",
+  "LastChanged_Achievements": "2024-01-01T04:04:40.766253+00:00",
   "LastUpdate_AppInfo": "2023-12-26T21:56:54.1541826+00:00",
-  "LastUpdate_Ratings": "2024-01-01T02:59:28.988956+00:00",
-  "LastUpdate_Achievements": "2024-01-01T03:04:52.0736439+00:00"
+  "LastUpdate_Ratings": "2024-01-01T03:59:25.7769971+00:00",
+  "LastUpdate_Achievements": "2024-01-01T04:04:40.766287+00:00"
 }
