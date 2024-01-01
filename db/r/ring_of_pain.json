@@ -3,12 +3,12 @@
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
   "Ranking_Rating": 466,
-  "Ranking_Popularity": 135,
+  "Ranking_Popularity": 136,
   "Ranking_PopularitySum": 88,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 299,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3844,9 +3844,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242154,
+  "EOS_Progressed": 242160,
   "EOS_Completed": 302,
-  "EOS_NewPlayers": 492,
+  "EOS_NewPlayers": 494,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -30314,6 +30314,11 @@
       "Time": "2024-01-01T11:11:19.9575088+00:00",
       "NumProgressed": 242154,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2024-01-01T13:13:30.2916794+00:00",
+      "NumProgressed": 242160,
+      "NumCompleted": 302
     }
   ],
   "TotalAchievements": 138,
@@ -30403,9 +30408,9 @@
       "ID": "DEAL25DAMAGE",
       "SetID": "5l8oe0h",
       "Name": "Heavy Hitter",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1937
+      "UsersEstimate": 2179
     },
     {
       "ID": "DEAL99DAMAGE",
@@ -31428,13 +31433,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242154,
+      "Progressed": 242160,
       "Completed": 302
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3634,
+      "Progressed": 3640,
       "Completed": 416
     }
   ],
@@ -31442,8 +31447,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-01T04:57:24.2151303+00:00",
-  "LastChanged_Achievements": "2024-01-01T12:10:49.2420631+00:00",
+  "LastChanged_Achievements": "2024-01-01T13:13:30.291679+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:01.848225+00:00",
-  "LastUpdate_Ratings": "2024-01-01T11:57:37.1651412+00:00",
-  "LastUpdate_Achievements": "2024-01-01T12:10:49.2423513+00:00"
+  "LastUpdate_Ratings": "2024-01-01T13:00:47.929718+00:00",
+  "LastUpdate_Achievements": "2024-01-01T13:13:30.2919594+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 408,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -1015,9 +1015,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 7827,
+  "EOS_Progressed": 7829,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 308,
+  "EOS_NewPlayers": 306,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12885,6 +12885,11 @@
       "Time": "2024-01-01T12:06:02.3137988+00:00",
       "NumProgressed": 7827,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T13:08:37.0659946+00:00",
+      "NumProgressed": 7829,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -12896,7 +12901,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1252
+      "UsersEstimate": 1253
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -12920,7 +12925,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -13215,13 +13220,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7827,
+      "Progressed": 7829,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7199,
+      "Progressed": 7201,
       "Completed": 113
     }
   ],
@@ -13229,8 +13234,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-26T19:00:49.2434236+00:00",
-  "LastChanged_Achievements": "2024-01-01T12:06:02.3137985+00:00",
+  "LastChanged_Achievements": "2024-01-01T13:08:37.0659943+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:09.4029638+00:00",
-  "LastUpdate_Ratings": "2024-01-01T11:59:35.7439225+00:00",
-  "LastUpdate_Achievements": "2024-01-01T12:06:02.3138873+00:00"
+  "LastUpdate_Ratings": "2024-01-01T13:02:27.8307039+00:00",
+  "LastUpdate_Achievements": "2024-01-01T13:08:37.0661066+00:00"
 }

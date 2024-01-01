@@ -3713,9 +3713,9 @@
       "Count": 338
     }
   ],
-  "EOS_Progressed": 19876,
+  "EOS_Progressed": 19882,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 685,
+  "EOS_NewPlayers": 686,
   "EOS_NewCompleters": -5,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -17988,6 +17988,11 @@
       "Time": "2024-01-01T12:04:49.4253578+00:00",
       "NumProgressed": 19876,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2024-01-01T13:07:36.2907388+00:00",
+      "NumProgressed": 19882,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -18336,7 +18341,7 @@
       "Name": "Taking Action",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1391
+      "UsersEstimate": 1392
     },
     {
       "ID": "WinWithResolve",
@@ -18400,7 +18405,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1391
+      "UsersEstimate": 1392
     },
     {
       "ID": "WinNearFrosts",
@@ -18424,7 +18429,7 @@
       "Name": "Overgrown Library",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1590
+      "UsersEstimate": 1591
     },
     {
       "ID": "WinNearPetrified",
@@ -18432,7 +18437,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1391
+      "UsersEstimate": 1392
     },
     {
       "ID": "WinNearPresence",
@@ -18471,15 +18476,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19876,
+      "Progressed": 19882,
       "Completed": 33
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-01T03:57:48.0715595+00:00",
-  "LastChanged_Achievements": "2024-01-01T12:04:49.4253575+00:00",
+  "LastChanged_Achievements": "2024-01-01T13:07:36.2907384+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:03.5085053+00:00",
-  "LastUpdate_Ratings": "2024-01-01T11:57:55.6919413+00:00",
-  "LastUpdate_Achievements": "2024-01-01T12:04:49.4254705+00:00"
+  "LastUpdate_Ratings": "2024-01-01T13:01:03.2167399+00:00",
+  "LastUpdate_Achievements": "2024-01-01T13:07:36.2908456+00:00"
 }

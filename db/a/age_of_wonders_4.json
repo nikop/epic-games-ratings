@@ -669,9 +669,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6650,
+  "EOS_Progressed": 6655,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 476,
+  "EOS_NewPlayers": 479,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9989,6 +9989,11 @@
       "Time": "2024-01-01T12:07:41.5475542+00:00",
       "NumProgressed": 6650,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-01T13:10:01.2573704+00:00",
+      "NumProgressed": 6655,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10000,7 +10005,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "10",
@@ -10024,7 +10029,7 @@
       "Name": "I\u0027ve Got Everything I Need Right Here",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "13",
@@ -10056,7 +10061,7 @@
       "Name": "God Emperor",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "17",
@@ -10064,7 +10069,7 @@
       "Name": "Lord of Chaos",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "18",
@@ -10096,7 +10101,7 @@
       "Name": "The Goddess of Nature",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "21",
@@ -10104,7 +10109,7 @@
       "Name": "Eternal Lord",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "22",
@@ -10128,7 +10133,7 @@
       "Name": "Secret Technique",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "25",
@@ -10136,7 +10141,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "26",
@@ -10160,7 +10165,7 @@
       "Name": "From Friends to Family",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "29",
@@ -10216,7 +10221,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "35",
@@ -10248,7 +10253,7 @@
       "Name": "Manufactured War",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "39",
@@ -10264,7 +10269,7 @@
       "Name": "The Eternal Court",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "40",
@@ -10272,7 +10277,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "41",
@@ -10304,7 +10309,7 @@
       "Name": "Pruning for Progress",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "5",
@@ -10416,7 +10421,7 @@
       "Name": "Prometheus Avenged",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "54",
@@ -10432,7 +10437,7 @@
       "Name": "Seal the Deal",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "56",
@@ -10440,7 +10445,7 @@
       "Name": "A Conqueror\u0027s Cohort",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "57",
@@ -10456,7 +10461,7 @@
       "Name": "Dawn of the Dread",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "59",
@@ -10464,7 +10469,7 @@
       "Name": "But this one is mine",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "60",
@@ -10479,13 +10484,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6650,
+      "Progressed": 6655,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6650,
+      "Progressed": 6655,
       "Completed": 7
     }
   ],
@@ -10493,8 +10498,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-31T18:58:53.0277501+00:00",
-  "LastChanged_Achievements": "2024-01-01T12:07:41.5475539+00:00",
+  "LastChanged_Achievements": "2024-01-01T13:10:01.25737+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-01T11:59:49.0826579+00:00",
-  "LastUpdate_Achievements": "2024-01-01T12:07:41.5476521+00:00"
+  "LastUpdate_Ratings": "2024-01-01T13:02:38.6742131+00:00",
+  "LastUpdate_Achievements": "2024-01-01T13:10:01.2574471+00:00"
 }

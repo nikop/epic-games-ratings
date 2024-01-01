@@ -2,7 +2,7 @@
   "ID": "7277899e0d3241ea81ee56943fd31567",
   "Name": "RAILGRADE",
   "ProductSlug": "railgrade",
-  "Ranking_Rating": 522,
+  "Ranking_Rating": 523,
   "Ranking_Popularity": 387,
   "Ranking_PopularitySum": 313,
   "Ranking_EOS_Progress": 156,
@@ -615,9 +615,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 17972,
+  "EOS_Progressed": 17971,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": -94,
+  "EOS_NewPlayers": -95,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -11560,6 +11560,11 @@
       "Time": "2024-01-01T12:09:01.4285704+00:00",
       "NumProgressed": 17972,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2024-01-01T13:11:59.4304648+00:00",
+      "NumProgressed": 17971,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 37,
@@ -11603,7 +11608,7 @@
       "Name": "Builder",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 16175
+      "UsersEstimate": 16174
     },
     {
       "ID": "ach.060.goingdistance",
@@ -11627,7 +11632,7 @@
       "Name": "Eraser",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 13659
+      "UsersEstimate": 13658
     },
     {
       "ID": "ach.090.perfectionist",
@@ -11635,7 +11640,7 @@
       "Name": "Perfectionist",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 4673
+      "UsersEstimate": 4672
     },
     {
       "ID": "ach.100.indecisive",
@@ -11659,7 +11664,7 @@
       "Name": "Simplification",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 6650
+      "UsersEstimate": 6649
     },
     {
       "ID": "ach.130.minimalist",
@@ -11667,15 +11672,15 @@
       "Name": "Minimalist",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 17613
+      "UsersEstimate": 17612
     },
     {
       "ID": "ach.140.legacy",
       "SetID": "384aaja",
       "Name": "Trevithick\u0027s Legacy",
-      "Percentage": 106,
+      "Percentage": 107,
       "XP": 60,
-      "UsersEstimate": 19050
+      "UsersEstimate": 19229
     },
     {
       "ID": "ach.150.pocket",
@@ -11683,7 +11688,7 @@
       "Name": "Pocket of Trains",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 12760
+      "UsersEstimate": 12759
     },
     {
       "ID": "ach.160.box",
@@ -11707,7 +11712,7 @@
       "Name": "Inspector",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 11502
+      "UsersEstimate": 11501
     },
     {
       "ID": "ach.190.scenic",
@@ -11715,7 +11720,7 @@
       "Name": "The scenic route",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5392
+      "UsersEstimate": 5391
     },
     {
       "ID": "ach.200.light",
@@ -11739,7 +11744,7 @@
       "Name": "Hot Water",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5931
+      "UsersEstimate": 5930
     },
     {
       "ID": "ach.230.infinity",
@@ -11763,7 +11768,7 @@
       "Name": "Before the Downfall",
       "Percentage": 101,
       "XP": 60,
-      "UsersEstimate": 18152
+      "UsersEstimate": 18151
     },
     {
       "ID": "ach.260.investor",
@@ -11827,7 +11832,7 @@
       "Name": "Money like Water",
       "Percentage": 99,
       "XP": 10,
-      "UsersEstimate": 17792
+      "UsersEstimate": 17791
     },
     {
       "ID": "ach.340.steel",
@@ -11866,7 +11871,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 17972,
+      "Progressed": 17971,
       "Completed": 26
     }
   ],
@@ -11874,8 +11879,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-12-27T15:02:48.1745504+00:00",
-  "LastChanged_Achievements": "2024-01-01T12:09:01.4285701+00:00",
+  "LastChanged_Achievements": "2024-01-01T13:11:59.4304642+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:24.3351764+00:00",
-  "LastUpdate_Ratings": "2024-01-01T11:59:05.0685081+00:00",
-  "LastUpdate_Achievements": "2024-01-01T12:09:01.42867+00:00"
+  "LastUpdate_Ratings": "2024-01-01T13:02:02.035788+00:00",
+  "LastUpdate_Achievements": "2024-01-01T13:11:59.4305562+00:00"
 }

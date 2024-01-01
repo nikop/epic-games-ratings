@@ -39,8 +39,8 @@
 | Catch the bus with me! | 32.00% | ~46 |
 | I'm going to get a concussion | 31.00% | ~45 |
 | Another one bites the iron | 30.00% | ~44 |
+| Kleptomaniac | 28.00% | ~41 |
 | Ripe Meat Off The Bone! | 27.00% | ~39 |
-| Kleptomaniac | 27.00% | ~39 |
 | Hovering around | 26.00% | ~38 |
 | You're not so Big anymore, Boi! | 25.00% | ~36 |
 | A Megapint...? | 25.00% | ~36 |
@@ -51,8 +51,8 @@
 | Just wing it! | 18.00% | ~26 |
 | Deal with it | 17.00% | ~25 |
 | Yeehaw!!! | 15.00% | ~22 |
+| You're looking mozzare-hella good! | 14.00% | ~20 |
 | Ancient Ruins of Dirty Feet | 14.00% | ~20 |
-| You're looking mozzare-hella good! | 13.00% | ~19 |
 | Spoiler alert! | 10.00% | ~14 |
 | Timber! | 10.00% | ~14 |
 | Grumpy Immortal | 10.00% | ~14 |
@@ -66,6 +66,7 @@
 | Ancient Ruins of Misplaced Belongings | 5.00% | ~7 |
 | Ancient Ruins of Stubbed Toes | 5.00% | ~7 |
 | Ancient Ruins of Poor Intrusion Prevention | 4.00% | ~6 |
+| Out of bounds | 4.00% | ~6 |
 | Fifty Shades of Gruyere | 3.00% | ~4 |
 | Ancient Ruins of Empty Echoes | 3.00% | ~4 |
 | Ancient Ruins of Vitamin D Addition | 3.00% | ~4 |
@@ -75,7 +76,6 @@
 | Ancient Ruins of Chilly Winds | 3.00% | ~4 |
 | Okay... Maybe I'm a bit drunk... | 3.00% | ~4 |
 | European karaoke king | 3.00% | ~4 |
-| Out of bounds | 3.00% | ~4 |
 | Ancient Ruins of Moldy Ceiling | 2.00% | ~3 |
 | Ancient Ruins of Peekaboo | 2.00% | ~3 |
 | Consider it dealt with | 1.00% | ~1 |

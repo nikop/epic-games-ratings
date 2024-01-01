@@ -6,7 +6,7 @@ Rating: 4.71 (Ranked 202)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | In a Pinch | 0.90% | ~77 |
-| Energy Saver | 0.70% | ~60 |
+| Energy Saver | 0.80% | ~69 |
 | Soul-Canon | 0.30% | ~26 |
 | The Journey Onwards | 0.30% | ~26 |
 | Ahem Ahem | 0.20% | ~17 |

@@ -2,9 +2,9 @@
   "ID": "e920c823522745c88a85e396965afc62",
   "Name": "Indoorlands",
   "ProductSlug": "indoorlands-3b2356",
-  "Ranking_EOS_Progress": 627,
+  "Ranking_EOS_Progress": 621,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 390,
+  "Ranking_EOS_NewPlayers": 376,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-12-17T23:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16,
+  "EOS_Progressed": 18,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -109,6 +109,11 @@
       "Time": "2024-01-01T08:04:54.0507364+00:00",
       "NumProgressed": 16,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T13:07:56.1609584+00:00",
+      "NumProgressed": 18,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-14T09:03:47.827813+00:00",
@@ -135,7 +140,7 @@
       "ID": "beautiful",
       "SetID": "d4692al",
       "Name": "It\u0027s beautiful",
-      "Percentage": 19,
+      "Percentage": 17,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -143,7 +148,7 @@
       "ID": "beginner",
       "SetID": "d4692al",
       "Name": "Beginner Guide",
-      "Percentage": 50,
+      "Percentage": 44,
       "XP": 5,
       "UsersEstimate": 8
     },
@@ -151,7 +156,7 @@
       "ID": "contractor",
       "SetID": "d4692al",
       "Name": "New Contractor",
-      "Percentage": 19,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -175,7 +180,7 @@
       "ID": "dealmaker",
       "SetID": "d4692al",
       "Name": "Devious Dealmaker",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 45,
       "UsersEstimate": 2
     },
@@ -191,7 +196,7 @@
       "ID": "dining",
       "SetID": "d4692al",
       "Name": "Fine Dining",
-      "Percentage": 19,
+      "Percentage": 17,
       "XP": 35,
       "UsersEstimate": 3
     },
@@ -223,7 +228,7 @@
       "ID": "expansion",
       "SetID": "d4692al",
       "Name": "Expansion",
-      "Percentage": 31,
+      "Percentage": 28,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -239,7 +244,7 @@
       "ID": "happyVisitors",
       "SetID": "d4692al",
       "Name": "Happy visitors",
-      "Percentage": 19,
+      "Percentage": 17,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -247,7 +252,7 @@
       "ID": "indoorlands",
       "SetID": "d4692al",
       "Name": "Indoorlands",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 75,
       "UsersEstimate": 2
     },
@@ -255,7 +260,7 @@
       "ID": "keepComing",
       "SetID": "d4692al",
       "Name": "They keep coming",
-      "Percentage": 19,
+      "Percentage": 17,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -279,7 +284,7 @@
       "ID": "researcher",
       "SetID": "d4692al",
       "Name": "Researcher",
-      "Percentage": 19,
+      "Percentage": 17,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -303,7 +308,7 @@
       "ID": "store",
       "SetID": "d4692al",
       "Name": "Luxurious Store",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -311,7 +316,7 @@
       "ID": "toomany",
       "SetID": "d4692al",
       "Name": "Too many too count",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -335,7 +340,7 @@
       "ID": "vip",
       "SetID": "d4692al",
       "Name": "VIP",
-      "Percentage": 56,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -351,7 +356,7 @@
       "ID": "visitorSat",
       "SetID": "d4692al",
       "Name": "Visitor Satisfaction Wanted",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -368,14 +373,14 @@
     {
       "ID": "d4692al",
       "IsBase": true,
-      "Progressed": 16,
+      "Progressed": 18,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-24T08:59:07.6239252+00:00",
   "FirstSeenAchievements": "2023-12-14T09:03:47.827813+00:00",
-  "LastChanged_Achievements": "2024-01-01T12:05:13.5867166+00:00",
+  "LastChanged_Achievements": "2024-01-01T13:07:56.160958+00:00",
   "LastUpdate_AppInfo": "2023-12-28T08:57:17.3349077+00:00",
-  "LastUpdate_Ratings": "2024-01-01T11:59:47.8596254+00:00",
-  "LastUpdate_Achievements": "2024-01-01T12:05:13.5867355+00:00"
+  "LastUpdate_Ratings": "2024-01-01T13:02:37.7061858+00:00",
+  "LastUpdate_Achievements": "2024-01-01T13:07:56.1609738+00:00"
 }

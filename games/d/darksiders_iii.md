@@ -6,49 +6,49 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 78.00% | ~277 |
-| First of many… | 68.00% | ~241 |
-| Helping Hand | 65.00% | ~231 |
-| Increased Vigor | 59.00% | ~209 |
-| Fight Fire with Fire | 57.00% | ~202 |
-| Increased Capacity | 54.00% | ~192 |
-| Just the start | 48.00% | ~170 |
-| Perfect Storm | 46.00% | ~163 |
-| All That Glitters | 45.00% | ~160 |
-| Enhance! | 42.00% | ~149 |
-| One Of the Chosen | 40.00% | ~142 |
-| Throne Potato | 39.00% | ~138 |
-| Devil's in the Details | 38.00% | ~135 |
-| Five's a Crowd | 37.00% | ~131 |
-| 25 to Life | 37.00% | ~131 |
-| Soul Harvester | 35.00% | ~124 |
-| Salvation | 35.00% | ~124 |
+| Green with Envy | 78.00% | ~278 |
+| First of many… | 68.00% | ~243 |
+| Helping Hand | 65.00% | ~232 |
+| Increased Vigor | 59.00% | ~211 |
+| Fight Fire with Fire | 57.00% | ~203 |
+| Increased Capacity | 53.00% | ~189 |
+| Just the start | 48.00% | ~171 |
+| Perfect Storm | 45.00% | ~161 |
+| All That Glitters | 45.00% | ~161 |
+| Enhance! | 42.00% | ~150 |
+| One Of the Chosen | 40.00% | ~143 |
+| Throne Potato | 39.00% | ~139 |
+| Devil's in the Details | 38.00% | ~136 |
+| Five's a Crowd | 37.00% | ~132 |
+| 25 to Life | 36.00% | ~129 |
+| Soul Harvester | 35.00% | ~125 |
+| Salvation | 35.00% | ~125 |
 | Unshakable Fortitude | 32.00% | ~114 |
-| Maximum Vigor | 30.00% | ~106 |
-| I Wanna Rock | 30.00% | ~106 |
-| Delusions of Grandeur | 30.00% | ~106 |
-| Love Tap | 29.00% | ~103 |
-| Freeze Frame | 26.00% | ~92 |
-| Eat Your Heart Out | 26.00% | ~92 |
-| For Whom the Bell Tolls | 26.00% | ~92 |
-| Unyielding Strength | 24.00% | ~85 |
-| Big Spender | 24.00% | ~85 |
-| Can you restore the Balance? | 23.00% | ~82 |
-| Cleanup Crew | 22.00% | ~78 |
-| Crowd Source | 22.00% | ~78 |
+| Maximum Vigor | 30.00% | ~107 |
+| I Wanna Rock | 30.00% | ~107 |
+| Delusions of Grandeur | 30.00% | ~107 |
+| Love Tap | 29.00% | ~104 |
+| Freeze Frame | 26.00% | ~93 |
+| For Whom the Bell Tolls | 26.00% | ~93 |
+| Eat Your Heart Out | 25.00% | ~89 |
+| Unyielding Strength | 24.00% | ~86 |
+| Big Spender | 24.00% | ~86 |
+| Cleanup Crew | 22.00% | ~79 |
+| Can you restore the Balance? | 22.00% | ~79 |
+| Crowd Source | 22.00% | ~79 |
 | Maximum Capacity | 20.00% | ~71 |
 | Demon Meddler | 20.00% | ~71 |
-| Seeing Red | 19.00% | ~67 |
-| Egomaniac | 17.00% | ~60 |
-| Protector of Humanity | 15.00% | ~53 |
-| Everybody Wants to Rule the World | 15.00% | ~53 |
+| Seeing Red | 19.00% | ~68 |
+| Egomaniac | 17.00% | ~61 |
+| Protector of Humanity | 15.00% | ~54 |
+| Everybody Wants to Rule the World | 15.00% | ~54 |
 | A Parting Gift | 13.00% | ~46 |
 | Community Outreach | 13.00% | ~46 |
 | Unbreakable Will | 11.00% | ~39 |
 | Path of the Horseman | 11.00% | ~39 |
 | Take it to the Limit | 10.00% | ~36 |
 | Holy Keeper | 9.00% | ~32 |
-| Demon Keeper | 8.00% | ~28 |
+| Demon Keeper | 8.00% | ~29 |
 | Soul Reaper | 7.00% | ~25 |
 | Humanitarian | 7.00% | ~25 |
 | My Evil Twin | 6.00% | ~21 |
@@ -71,7 +71,7 @@ Number of Ratings: 116  (23.09.2022)
 | Quite Proper | 0.60% | ~2 |
 | Beast Mode | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 355 (Ranked 371)  
+Progressed: 357 (Ranked 371)  
 Completed: 1 (0.28%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 1 (0.28%) (Ranked 254)
 | 2023-12-29 | 293 | 1 |
 | 2023-12-30 | 320 | 1 |
 | 2023-12-31 | 345 | 1 |
-| 2024-01-01 | 355 | 1 |
+| 2024-01-01 | 357 | 1 |
 ## Awards
 Max (Great Boss Battles): 94  (Ranked 386)  
 Sum: 94 (Ranked 467)  

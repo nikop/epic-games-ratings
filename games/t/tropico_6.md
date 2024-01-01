@@ -1,24 +1,24 @@
 # Tropico 6
 [Store](https://store.epicgames.com/en-US/p/tropico-6)  
 [View Rawdata](../../db/t/tropico_6.json)  
-Rating: 4.66 (Ranked 302)  
+Rating: 4.66 (Ranked 303)  
 Number of Ratings: 398  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 73.00% | ~4,974 |
-| Un-Lonely Island | 45.00% | ~3,066 |
-| The Beginning of a Servantship | 44.00% | ~2,998 |
-| Trade Is My Trait | 36.00% | ~2,453 |
-| Number 18 | 23.00% | ~1,567 |
+| Just One...More...Term... | 73.00% | ~4,976 |
+| Un-Lonely Island | 45.00% | ~3,067 |
+| The Beginning of a Servantship | 44.00% | ~2,999 |
+| Trade Is My Trait | 36.00% | ~2,454 |
+| Number 18 | 23.00% | ~1,568 |
 | We Don't Have Time For That | 18.00% | ~1,227 |
-| The Governator | 17.00% | ~1,158 |
-| The Legend of Langostino | 16.00% | ~1,090 |
+| The Governator | 17.00% | ~1,159 |
+| The Legend of Langostino | 16.00% | ~1,091 |
 | Caribbean Comrade | 15.00% | ~1,022 |
 | The Dreamer of Dreams | 15.00% | ~1,022 |
 | Go Sovereigns! | 11.00% | ~750 |
 | For Science! | 11.00% | ~750 |
-| Happy Ending? | 10.00% | ~681 |
+| Happy Ending? | 10.00% | ~682 |
 | Of Seals And Men | 9.00% | ~613 |
 | Shackadelic | 9.00% | ~613 |
 | Double Trouble | 8.00% | ~545 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~55 |
 | My Ways | 0.20% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,814 (Ranked 194)  
+Progressed: 6,816 (Ranked 194)  
 Completed: 2 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,15 +303,15 @@ Completed: 2 (0.03%) (Ranked 350)
 | 2023-12-29 | 6,753 | 2 |
 | 2023-12-30 | 6,780 | 2 |
 | 2023-12-31 | 6,808 | 2 |
-| 2024-01-01 | 6,814 | 2 |
+| 2024-01-01 | 6,816 | 2 |
 ## Awards
-Max (Highly Recommended): 105  (Ranked 367)  
-Sum: 750 (Ranked 298)  
+Max (Highly Recommended): 106  (Ranked 367)  
+Sum: 751 (Ranked 298)  
 Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
+| This game is Highly Recommended | 106 |
 | This game is Great for Beginners | 106 |
-| This game is Highly Recommended | 105 |
 | This game is Relaxing | 103 |
 | This game has Quickly Understood Controls | 103 |
 | This game has Amazing Storytelling | 95 |
@@ -503,4 +503,4 @@ Diff (max vs sum): 69
 | 2023-12-25 | 4.66 | - | 105 | 743 |
 | 2023-12-28 | 4.66 | - | 105 | 745 |
 | 2023-12-30 | 4.66 | - | 105 | 749 |
-| 2024-01-01 | 4.66 | - | 105 | 750 |
+| 2024-01-01 | 4.66 | - | 106 | 751 |

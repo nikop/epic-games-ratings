@@ -6,21 +6,21 @@ Number of Ratings: 94  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 75.00% | ~34,491 |
-| Quick Understanding of Block Extrusion | 68.00% | ~31,272 |
-| Nature or Nurture | 52.00% | ~23,914 |
-| Power Glove | 50.00% | ~22,994 |
-| Forgotten Memories | 43.00% | ~19,775 |
-| Cogs in the Machine | 36.00% | ~16,556 |
-| Mission Success | 23.00% | ~10,577 |
-| There's No Place Like Home | 23.00% | ~10,577 |
+| Lost in Space | 75.00% | ~34,494 |
+| Quick Understanding of Block Extrusion | 68.00% | ~31,275 |
+| Nature or Nurture | 52.00% | ~23,916 |
+| Power Glove | 50.00% | ~22,996 |
+| Forgotten Memories | 43.00% | ~19,777 |
+| Cogs in the Machine | 36.00% | ~16,557 |
+| Mission Success | 23.00% | ~10,578 |
+| There's No Place Like Home | 23.00% | ~10,578 |
 | Green Cube Killer | 20.00% | ~9,198 |
-| Infinity Loop | 17.00% | ~7,818 |
-| Path to Salvation | 17.00% | ~7,818 |
-| Descendants | 15.00% | ~6,898 |
+| Infinity Loop | 17.00% | ~7,819 |
+| Path to Salvation | 17.00% | ~7,819 |
+| Descendants | 15.00% | ~6,899 |
 | The Flawed Teacher | 12.00% | ~5,519 |
-| To Infinity and Beyond | 6.00% | ~2,759 |
-| The Truthful Enemy | 5.00% | ~2,299 |
+| To Infinity and Beyond | 6.00% | ~2,760 |
+| The Truthful Enemy | 5.00% | ~2,300 |
 | Laser Sharp | 3.00% | ~1,380 |
 | Bronze collector | 2.00% | ~920 |
 | Home Stretch | 2.00% | ~920 |
@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | QUBE Master | 1.00% | ~460 |
 | Expert Collector | 1.00% | ~460 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,988 (Ranked 124)  
+Progressed: 45,992 (Ranked 124)  
 Completed: 231 (0.50%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 231 (0.50%) (Ranked 219)
 | 2023-12-29 | 45,639 | 230 |
 | 2023-12-30 | 45,789 | 230 |
 | 2023-12-31 | 45,931 | 230 |
-| 2024-01-01 | 45,988 | 231 |
+| 2024-01-01 | 45,992 | 231 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

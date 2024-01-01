@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 51,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9197,10 +9197,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 33224,
       "NumberOfAwardsMax": 5726
+    },
+    {
+      "Time": "2024-01-01T13:00:55.8356337+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33232,
+      "NumberOfAwardsMax": 5726
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33224,
+  "NumberOfAwards": 33232,
   "NumberOfAwardsMax": 5726,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9238,7 +9244,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4298
+      "Count": 4306
     },
     {
       "Text": "This game has Playful Visuals",
@@ -9247,9 +9253,9 @@
       "Count": 3617
     }
   ],
-  "EOS_Progressed": 248950,
+  "EOS_Progressed": 248983,
   "EOS_Completed": 2582,
-  "EOS_NewPlayers": 4511,
+  "EOS_NewPlayers": 4529,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -38217,6 +38223,11 @@
       "Time": "2024-01-01T12:10:51.5148352+00:00",
       "NumProgressed": 248950,
       "NumCompleted": 2582
+    },
+    {
+      "Time": "2024-01-01T13:13:31.7745146+00:00",
+      "NumProgressed": 248983,
+      "NumCompleted": 2582
     }
   ],
   "TotalAchievements": 546,
@@ -38228,7 +38239,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7468
+      "UsersEstimate": 7469
     },
     {
       "ID": "objective_completed_10",
@@ -39562,9 +39573,9 @@
       "ID": "objective_completed_20",
       "SetID": "cc37lbc",
       "Name": "No Time To Rest",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 498
     },
     {
       "ID": "objective_completed_208",
@@ -40090,9 +40101,9 @@
       "ID": "objective_completed_4",
       "SetID": "cc37lbc",
       "Name": "Are Ya Chicken?",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 996
+      "UsersEstimate": 1245
     },
     {
       "ID": "objective_completed_40",
@@ -40362,9 +40373,9 @@
       "ID": "objective_completed_5",
       "SetID": "cc37lbc",
       "Name": "Mad Cow Disease",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 747
+      "UsersEstimate": 996
     },
     {
       "ID": "objective_completed_54",
@@ -42532,7 +42543,7 @@
       "Name": "Fast Food",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1291
+      "UsersEstimate": 1292
     },
     {
       "ID": "objective_completed_1563",
@@ -42595,21 +42606,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 215224,
+      "Progressed": 215257,
       "Completed": 4117
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 248950,
+      "Progressed": 248983,
       "Completed": 2582
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-01T05:57:48.4090061+00:00",
-  "LastChanged_Achievements": "2024-01-01T12:10:51.5148349+00:00",
+  "LastChanged": "2024-01-01T13:00:55.8356335+00:00",
+  "LastChanged_Achievements": "2024-01-01T13:13:31.7745143+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-01T11:57:46.9389219+00:00",
-  "LastUpdate_Achievements": "2024-01-01T12:10:51.5172895+00:00"
+  "LastUpdate_Ratings": "2024-01-01T13:00:55.8356342+00:00",
+  "LastUpdate_Achievements": "2024-01-01T13:13:31.776883+00:00"
 }

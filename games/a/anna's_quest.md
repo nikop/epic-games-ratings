@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escape artist | 76.00% | ~70 |
-| Book Worm | 48.00% | ~44 |
-| Ooh, it's shiny! | 48.00% | ~44 |
-| Fussy eater | 36.00% | ~33 |
-| My lost nightingale | 34.00% | ~31 |
-| Through the woods | 33.00% | ~30 |
-| Back to the anvil | 32.00% | ~29 |
-| So soothing... | 32.00% | ~29 |
-| Kekekeke... | 32.00% | ~29 |
+| Escape artist | 75.00% | ~70 |
+| Book Worm | 47.00% | ~44 |
+| Ooh, it's shiny! | 47.00% | ~44 |
+| Fussy eater | 35.00% | ~33 |
+| My lost nightingale | 33.00% | ~31 |
+| Through the woods | 32.00% | ~30 |
+| Back to the anvil | 31.00% | ~29 |
+| So soothing... | 31.00% | ~29 |
+| Kekekeke... | 31.00% | ~29 |
 | Mystery solved | 30.00% | ~28 |
 | Honey, honey, honey… | 30.00% | ~28 |
 | Sorry Grandpa | 30.00% | ~28 |
@@ -32,8 +32,8 @@
 | Little genius | 25.00% | ~23 |
 | Turn the last page | 24.00% | ~22 |
 | Pain in the hands | 22.00% | ~20 |
-| Kill it! KILL IT! | 21.00% | ~19 |
-| Ring-a-ding-ding | 20.00% | ~18 |
+| Kill it! KILL IT! | 20.00% | ~19 |
+| Ring-a-ding-ding | 19.00% | ~18 |
 | Close the deal | 18.00% | ~17 |
 | Bahahahaha... | 17.00% | ~16 |
 | Makeover | 16.00% | ~15 |
@@ -44,8 +44,8 @@
 | What a mess | 10.00% | ~9 |
 | Posterboy! | 8.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92 (Ranked 496)  
-Completed: 6 (6.52%) (Ranked 63)  
+Progressed: 93 (Ranked 495)  
+Completed: 6 (6.45%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -102,6 +102,7 @@ Completed: 6 (6.52%) (Ranked 63)
 | 2023-12-25 | 90 | 6 |
 | 2023-12-26 | 91 | 6 |
 | 2023-12-31 | 92 | 6 |
+| 2024-01-01 | 93 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "ugly-da09b2",
   "Ranking_EOS_Progress": 592,
   "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 415,
+  "Ranking_EOS_NewPlayers": 416,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -392,9 +392,9 @@
       "ID": "MEM_VIII",
       "SetID": "35d3i7a",
       "Name": "Bad dog.",
-      "Percentage": 29,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "MEM_X",
@@ -504,17 +504,17 @@
       "ID": "MEM_XXIII",
       "SetID": "35d3i7a",
       "Name": "Don\u0027t take off the mask!",
-      "Percentage": 21,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "MEM_XXIV",
       "SetID": "35d3i7a",
       "Name": "No one has to love you.",
-      "Percentage": 21,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "MEM_XXV",
@@ -584,9 +584,9 @@
       "ID": "PROJ_IV",
       "SetID": "35d3i7a",
       "Name": "Obscurity.",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "PROJ_V",
@@ -607,8 +607,8 @@
   ],
   "FirstSeen": "2023-10-03T14:57:54.0765548+00:00",
   "FirstSeenAchievements": "2023-09-13T06:03:08.8902067+00:00",
-  "LastChanged_Achievements": "2024-01-01T12:10:39.6811849+00:00",
+  "LastChanged_Achievements": "2024-01-01T13:13:21.9712671+00:00",
   "LastUpdate_AppInfo": "2023-12-27T14:57:15.6707756+00:00",
-  "LastUpdate_Ratings": "2024-01-01T11:59:35.621673+00:00",
-  "LastUpdate_Achievements": "2024-01-01T12:10:39.6812169+00:00"
+  "LastUpdate_Ratings": "2024-01-01T13:02:27.8923741+00:00",
+  "LastUpdate_Achievements": "2024-01-01T13:13:21.9713113+00:00"
 }

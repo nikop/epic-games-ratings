@@ -2,7 +2,7 @@
   "ID": "144f9e231e2846d1a4381d9bb678f69d",
   "Name": "Warhammer 40,000: Mechanicus - Standard Edition",
   "ProductSlug": "warhammer-mechanicus-0e4b71",
-  "Ranking_Rating": 718,
+  "Ranking_Rating": 717,
   "Ranking_Popularity": 263,
   "Ranking_PopularitySum": 209,
   "Ranking_EOS_Progress": 76,
@@ -1050,7 +1050,7 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 231054,
+  "EOS_Progressed": 231059,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 649,
   "EOS_NewCompleters": 0,
@@ -29130,6 +29130,11 @@
       "Time": "2024-01-01T12:10:34.7928827+00:00",
       "NumProgressed": 231054,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-01T13:13:17.7670681+00:00",
+      "NumProgressed": 231059,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -29141,7 +29146,7 @@
       "Name": "This is only the beginning",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 46211
+      "UsersEstimate": 46212
     },
     {
       "ID": "ACH_BASE_10",
@@ -29149,7 +29154,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 60074
+      "UsersEstimate": 60075
     },
     {
       "ID": "ACH_BASE_11",
@@ -29189,7 +29194,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23105
+      "UsersEstimate": 23106
     },
     {
       "ID": "ACH_BASE_17",
@@ -29205,7 +29210,7 @@
       "Name": "Radium Ready",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23105
+      "UsersEstimate": 23106
     },
     {
       "ID": "ACH_BASE_19",
@@ -29221,7 +29226,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13863
+      "UsersEstimate": 13864
     },
     {
       "ID": "ACH_BASE_20",
@@ -29389,7 +29394,7 @@
       "Name": "Knowledge is power",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 30037
+      "UsersEstimate": 30038
     },
     {
       "ID": "ACH_BASE_8",
@@ -29412,7 +29417,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 231054,
+      "Progressed": 231059,
       "Completed": 5
     }
   ],
@@ -29420,8 +29425,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-12-28T22:58:51.4033804+00:00",
-  "LastChanged_Achievements": "2024-01-01T12:10:34.7928824+00:00",
+  "LastChanged_Achievements": "2024-01-01T13:13:17.7670679+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:45.3371168+00:00",
-  "LastUpdate_Ratings": "2024-01-01T12:00:59.0239189+00:00",
-  "LastUpdate_Achievements": "2024-01-01T12:10:34.7930383+00:00"
+  "LastUpdate_Ratings": "2024-01-01T13:03:35.5196677+00:00",
+  "LastUpdate_Achievements": "2024-01-01T13:13:17.7672141+00:00"
 }

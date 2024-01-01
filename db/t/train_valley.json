@@ -3,8 +3,8 @@
   "Name": "Train Valley",
   "ProductSlug": "train-valley-ead642",
   "Ranking_Rating": 631,
-  "Ranking_Popularity": 576,
-  "Ranking_PopularitySum": 576,
+  "Ranking_Popularity": 577,
+  "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 243,
   "Ranking_EOS_NewPlayers": 304,
@@ -1749,9 +1749,9 @@
       "ID": "01_gettingstarted",
       "SetID": "chb1m60",
       "Name": "Getting started",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 467
+      "UsersEstimate": 473
     },
     {
       "ID": "02_collector",
@@ -2069,8 +2069,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2024-01-01T09:01:13.9555975+00:00",
-  "LastChanged_Achievements": "2024-01-01T12:05:20.797842+00:00",
+  "LastChanged_Achievements": "2024-01-01T13:08:02.3570098+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:40.4916275+00:00",
-  "LastUpdate_Ratings": "2024-01-01T12:01:17.5749606+00:00",
-  "LastUpdate_Achievements": "2024-01-01T12:05:20.7978683+00:00"
+  "LastUpdate_Ratings": "2024-01-01T13:03:51.1219733+00:00",
+  "LastUpdate_Achievements": "2024-01-01T13:08:02.3570359+00:00"
 }

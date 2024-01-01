@@ -2,7 +2,7 @@
   "ID": "4966d5da285c4f2c876937844b0e23ee",
   "Name": "Rogue Legacy 2",
   "ProductSlug": "rogue-legacy-2",
-  "Ranking_Rating": 42,
+  "Ranking_Rating": 41,
   "Ranking_Popularity": 286,
   "Ranking_PopularitySum": 238,
   "Ranking_EOS_Progress": 144,
@@ -1548,9 +1548,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 27399,
+  "EOS_Progressed": 27409,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 712,
+  "EOS_NewPlayers": 710,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -12623,6 +12623,11 @@
       "Time": "2024-01-01T12:10:29.8268086+00:00",
       "NumProgressed": 27399,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-01T13:13:13.6970584+00:00",
+      "NumProgressed": 27409,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -12714,7 +12719,7 @@
       "Name": "Spells and Swords",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1644
+      "UsersEstimate": 1645
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -12945,21 +12950,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 27399,
+      "Progressed": 27409,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 6329,
+      "Progressed": 6339,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-31T13:02:19.9867054+00:00",
-  "LastChanged_Achievements": "2024-01-01T12:10:29.8268078+00:00",
+  "LastChanged_Achievements": "2024-01-01T13:13:13.6970581+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.0569835+00:00",
-  "LastUpdate_Ratings": "2024-01-01T12:02:53.8076646+00:00",
-  "LastUpdate_Achievements": "2024-01-01T12:10:29.8268817+00:00"
+  "LastUpdate_Ratings": "2024-01-01T13:04:20.7542357+00:00",
+  "LastUpdate_Achievements": "2024-01-01T13:13:13.6971327+00:00"
 }

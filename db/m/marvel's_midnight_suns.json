@@ -2,7 +2,7 @@
   "ID": "ea73c08ac633414584e281f838b3a78c",
   "Name": "Marvel\u0027s Midnight Suns",
   "ProductSlug": "marvels-midnight-suns",
-  "Ranking_Rating": 522,
+  "Ranking_Rating": 523,
   "Ranking_Popularity": 128,
   "Ranking_PopularitySum": 164,
   "Ranking_EOS_Progress": 819,
@@ -5427,10 +5427,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 3819,
       "NumberOfAwardsMax": 1708
+    },
+    {
+      "Time": "2024-01-01T13:00:27.1651708+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 3822,
+      "NumberOfAwardsMax": 1708
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3819,
+  "NumberOfAwards": 3822,
   "NumberOfAwardsMax": 1708,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5444,7 +5450,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 264
+      "Count": 267
     },
     {
       "Text": "This game is Relaxing",
@@ -5513,8 +5519,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-02T09:57:07.4463087+00:00",
   "FirstSeenRating": "2022-12-03T17:57:10.4344427+00:00",
-  "LastChanged": "2024-01-01T11:57:11.7933273+00:00",
+  "LastChanged": "2024-01-01T13:00:27.1651706+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:59.0337678+00:00",
-  "LastUpdate_Ratings": "2024-01-01T11:57:11.7933279+00:00",
-  "LastUpdate_Achievements": "2024-01-01T12:06:47.7856017+00:00"
+  "LastUpdate_Ratings": "2024-01-01T13:00:27.1651713+00:00",
+  "LastUpdate_Achievements": "2024-01-01T13:09:15.7904722+00:00"
 }

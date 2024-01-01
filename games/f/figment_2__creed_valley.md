@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Black Hog Down | 60.00% | ~35 |
-| Remembering of the past | 41.00% | ~24 |
+| Black Hog Down | 62.00% | ~36 |
+| Remembering of the past | 43.00% | ~25 |
 | Ouch, that hurt! | 33.00% | ~19 |
-| Fight like an idiot | 29.00% | ~17 |
+| Fight like an idiot | 31.00% | ~18 |
 | Slam-KABAM | 28.00% | ~16 |
 | Heavy Thoughts | 19.00% | ~11 |
 | A heavy thinker | 17.00% | ~10 |

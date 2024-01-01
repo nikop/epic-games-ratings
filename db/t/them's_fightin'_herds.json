@@ -2,8 +2,8 @@
   "ID": "a567c32599bf4d4fb609e424f3691b39",
   "Name": "Them\u0027s Fightin\u0027 Herds",
   "ProductSlug": "thems-fightin-herds",
-  "Ranking_Rating": 445,
-  "Ranking_Popularity": 527,
+  "Ranking_Rating": 446,
+  "Ranking_Popularity": 528,
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 390,
@@ -337,9 +337,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 234694,
+  "EOS_Progressed": 234697,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 493,
+  "EOS_NewPlayers": 495,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26367,6 +26367,11 @@
       "Time": "2024-01-01T11:10:15.8814036+00:00",
       "NumProgressed": 234694,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-01T13:12:39.5727425+00:00",
+      "NumProgressed": 234697,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 28,
@@ -26442,7 +26447,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 84490
+      "UsersEstimate": 84491
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -26522,7 +26527,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 79796
+      "UsersEstimate": 79797
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -26601,7 +26606,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 234694,
+      "Progressed": 234697,
       "Completed": 6
     }
   ],
@@ -26609,8 +26614,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-12-30T14:57:12.7393398+00:00",
-  "LastChanged_Achievements": "2024-01-01T12:09:48.9067602+00:00",
+  "LastChanged_Achievements": "2024-01-01T13:12:39.5727422+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:51.1279895+00:00",
-  "LastUpdate_Ratings": "2024-01-01T11:58:44.0719455+00:00",
-  "LastUpdate_Achievements": "2024-01-01T12:09:48.906917+00:00"
+  "LastUpdate_Ratings": "2024-01-01T13:01:44.2210419+00:00",
+  "LastUpdate_Achievements": "2024-01-01T13:12:39.5729006+00:00"
 }

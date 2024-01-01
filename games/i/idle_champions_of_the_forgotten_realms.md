@@ -6,17 +6,18 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~7,468 |
+| A Brief Tour of the Realms | 3.00% | ~7,469 |
 | The Cursed Farmer | 1.00% | ~2,490 |
 | Beast Intentions | 0.90% | ~2,241 |
 | The Mad Wizard | 0.80% | ~1,992 |
 | Welcome to Sigil | 0.80% | ~1,722 |
-| Fast Food | 0.60% | ~1,291 |
+| Fast Food | 0.60% | ~1,292 |
 | The Ring of Regeneration | 0.50% | ~1,245 |
+| Are Ya Chicken? | 0.50% | ~1,245 |
 | The Overgrown Grove | 0.50% | ~1,076 |
 | Were-verpowered | 0.40% | ~996 |
 | Seeking Allies | 0.40% | ~996 |
-| Are Ya Chicken? | 0.40% | ~996 |
+| Mad Cow Disease | 0.40% | ~996 |
 | Friendly Imps | 0.40% | ~996 |
 | When Tentacles Attack | 0.40% | ~861 |
 | Flames of Avernus | 0.40% | ~861 |
@@ -24,7 +25,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Don't Lose Your Head | 0.40% | ~861 |
 | Mind Spike | 0.40% | ~861 |
 | A Persistent Buzzing | 0.30% | ~747 |
-| Mad Cow Disease | 0.30% | ~747 |
 | Pure Energy | 0.30% | ~747 |
 | Arcane Suppression | 0.30% | ~646 |
 | Welcome to the Vrocks | 0.30% | ~646 |
@@ -37,6 +37,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Mysterious Summons | 0.20% | ~498 |
 | Building Trust | 0.20% | ~498 |
 | Unearthed Evil | 0.20% | ~498 |
+| No Time To Rest | 0.20% | ~498 |
 | The Crumbling Temple | 0.20% | ~498 |
 | Useless Allies | 0.20% | ~498 |
 | Exploring Port Nyanzaru | 0.20% | ~498 |
@@ -201,7 +202,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Soulmonger Calls | 0.10% | ~249 |
 | Azaka's Procession - Part 2 | 0.10% | ~249 |
 | Acererak's Puzzle | 0.10% | ~215 |
-| No Time To Rest | 0.10% | ~249 |
 | The Mists of Ravenloft | 0.10% | ~249 |
 | The Hunt for Owl-y | 0.10% | ~249 |
 | Invisible Shadows | 0.10% | ~249 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~215 |
 | The Brains of an Illithid's Desire | 0.10% | ~215 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,950 (Ranked 70)  
+Progressed: 248,983 (Ranked 70)  
 Completed: 2,582 (1.04%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -809,10 +809,10 @@ Completed: 2,582 (1.04%) (Ranked 170)
 | 2023-12-29 | 247,120 | 2,575 |
 | 2023-12-30 | 247,917 | 2,578 |
 | 2023-12-31 | 248,665 | 2,581 |
-| 2024-01-01 | 248,950 | 2,582 |
+| 2024-01-01 | 248,983 | 2,582 |
 ## Awards
 Max (Great for Beginners): 5,726  (Ranked 71)  
-Sum: 33,224 (Ranked 41)  
+Sum: 33,232 (Ranked 41)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -820,7 +820,7 @@ Diff (max vs sum): 30
 | This game has Diverse Characters | 5,665 |
 | This game has Quickly Understood Controls | 4,877 |
 | This game is Relaxing | 4,752 |
-| This game has Amazing Characters | 4,298 |
+| This game has Amazing Characters | 4,306 |
 | This game is Highly Recommended | 4,289 |
 | This game has Playful Visuals | 3,617 |
 ## Ratings History
@@ -1166,4 +1166,4 @@ Diff (max vs sum): 30
 | 2023-12-29 | 4.06 | - | 5,715 | 33,183 |
 | 2023-12-30 | 4.06 | - | 5,720 | 33,198 |
 | 2023-12-31 | 4.06 | - | 5,720 | 33,212 |
-| 2024-01-01 | 4.06 | - | 5,726 | 33,224 |
+| 2024-01-01 | 4.06 | - | 5,726 | 33,232 |

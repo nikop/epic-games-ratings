@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 666,
+  "EOS_Progressed": 668,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
@@ -2229,6 +2229,11 @@
       "Time": "2024-01-01T12:08:47.7710295+00:00",
       "NumProgressed": 666,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-01T13:11:48.1325796+00:00",
+      "NumProgressed": 668,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -2241,7 +2246,7 @@
       "Name": "Chapter I - Complete",
       "Percentage": 20,
       "XP": 45,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ach_chapter_complete_2",
@@ -2271,7 +2276,7 @@
       "ID": "ach_complete_difficulty_extreme",
       "SetID": "d499apg",
       "Name": "Exterminatus",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 175,
       "UsersEstimate": 5
     },
@@ -2295,9 +2300,9 @@
       "ID": "ach_defeat_great_unclean_one",
       "SetID": "d499apg",
       "Name": "Defeat a Great Unclean One",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 45,
-      "UsersEstimate": 73
+      "UsersEstimate": 67
     },
     {
       "ID": "ach_defeat_lord_of_change",
@@ -2311,7 +2316,7 @@
       "ID": "ach_find_all_secrets_c1",
       "SetID": "d499apg",
       "Name": "Find all Secrets - Chapter 1",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 95,
       "UsersEstimate": 3
     },
@@ -2336,14 +2341,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 666,
+      "Progressed": 668,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2024-01-01T12:08:47.7710291+00:00",
+  "LastChanged_Achievements": "2024-01-01T13:11:48.1325792+00:00",
   "LastUpdate_AppInfo": "2023-12-29T15:57:01.9014557+00:00",
-  "LastUpdate_Ratings": "2024-01-01T12:00:16.860272+00:00",
-  "LastUpdate_Achievements": "2024-01-01T12:08:47.771052+00:00"
+  "LastUpdate_Ratings": "2024-01-01T13:03:01.0679431+00:00",
+  "LastUpdate_Achievements": "2024-01-01T13:11:48.1326015+00:00"
 }

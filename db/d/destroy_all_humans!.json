@@ -299,9 +299,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 274,
+  "EOS_Progressed": 275,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.82,
   "EosHistory": [
@@ -1209,6 +1209,11 @@
       "Time": "2024-01-01T12:08:00.7425129+00:00",
       "NumProgressed": 274,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-01T13:10:17.2017213+00:00",
+      "NumProgressed": 275,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -1219,9 +1224,9 @@
       "ID": "ACH_ABILITY_ABDUCTOBEAMCOLLISION",
       "SetID": "cefn62b",
       "Name": "Fly Me to the Moon Base",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_ABILITY_ABDUCTOBEAMCOW",
@@ -1229,7 +1234,7 @@
       "Name": "Arkvoodle Doodle",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_ABILITY_DRAINVEHICLE",
@@ -1259,9 +1264,9 @@
       "ID": "ACH_ABILITY_PKHUMANINTOHUMAN",
       "SetID": "cefn62b",
       "Name": "Yettisoned",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 154
     },
     {
       "ID": "ACH_ABILITY_PKHUMANINTOOCEAN",
@@ -1283,9 +1288,9 @@
       "ID": "ACH_ABILITY_SCANINHOLOBOB",
       "SetID": "cefn62b",
       "Name": "I Look Up As I Walk to Takoshima",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 157
     },
     {
       "ID": "ACH_ABILITY_SMASHBUTTON",
@@ -1293,7 +1298,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_ABILITY_TRANSMOG",
@@ -1325,7 +1330,7 @@
       "Name": "Furon Fashion",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_CHALLENGE_ARMAGEDDONTHREESTAR",
@@ -1341,7 +1346,7 @@
       "Name": "PK Slam Dunk",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_CHALLENGE_RAMPAGETHREESTAR",
@@ -1357,7 +1362,7 @@
       "Name": "Steezy Down the Spine",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_CHALLENGE_TWOSTARSEVERYWHERE",
@@ -1381,7 +1386,7 @@
       "Name": "Kaijuiced",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ACH_COLLECT_PROBE",
@@ -1403,9 +1408,9 @@
       "ID": "ACH_ENEMY_KILLARMQUIST",
       "SetID": "cefn62b",
       "Name": "Albion Bridge Is for Falling Down",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_ENEMY_KILLROBOPREZ",
@@ -1413,15 +1418,15 @@
       "Name": "Higher Than the Futen Zoku",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_ENEMY_KILLSWITHEXPLOSIVE",
       "SetID": "cefn62b",
       "Name": "Lobster Blisque",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 135
     },
     {
       "ID": "ACH_ENEMY_SILHOUETTE",
@@ -1453,7 +1458,7 @@
       "Name": "Pimp My Raid",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_INVADE_SANTAMODESTA",
@@ -1461,15 +1466,15 @@
       "Name": "Upgreatest",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ACH_INVADE_TURNIPSEED",
       "SetID": "cefn62b",
       "Name": "Shop Til They Drop",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 195
     },
     {
       "ID": "ACH_INVADE_UNIONTOWN",
@@ -1501,15 +1506,15 @@
       "Name": "Against All Odds",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_REVISIT_MISSION",
       "SetID": "cefn62b",
       "Name": "Dusted",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_UPGRADE_CRYPTO",
@@ -1533,22 +1538,22 @@
       "Name": "Trans-Siberian Express",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     }
   ],
   "AchievementSets": [
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 274,
+      "Progressed": 275,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2023-11-09T01:43:19.9714919+00:00",
-  "LastChanged_Achievements": "2024-01-01T12:08:00.7425126+00:00",
+  "LastChanged_Achievements": "2024-01-01T13:10:17.201721+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:06.6677344+00:00",
-  "LastUpdate_Ratings": "2024-01-01T12:02:50.7336419+00:00",
-  "LastUpdate_Achievements": "2024-01-01T12:08:00.7425624+00:00"
+  "LastUpdate_Ratings": "2024-01-01T13:04:18.3254359+00:00",
+  "LastUpdate_Achievements": "2024-01-01T13:10:17.2017573+00:00"
 }

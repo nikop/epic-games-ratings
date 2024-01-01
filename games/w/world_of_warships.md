@@ -6,38 +6,38 @@ Number of Ratings: 4,733  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 76.00% | ~61,499 |
-| Initial Capital | 63.00% | ~50,980 |
-| Junior Supply Officer | 41.00% | ~33,177 |
-| Moneybags | 40.00% | ~32,368 |
-| Naval Warfare. Arson | 30.00% | ~24,276 |
-| Naval Warfare. Ramming | 29.00% | ~23,467 |
-| Amateur | 27.00% | ~21,848 |
-| Naval Warfare. Tactics | 27.00% | ~21,848 |
-| Naval Constructor | 27.00% | ~21,848 |
-| Naval Warfare. Weaponry Basics | 20.00% | ~16,184 |
-| Naval Warfare. Flooding | 17.00% | ~13,756 |
-| Naval Warfare. Lucky Shot | 17.00% | ~13,756 |
-| Business Magnate | 14.00% | ~11,329 |
-| Battle Hero | 13.00% | ~10,520 |
-| Supply Officer | 11.00% | ~8,901 |
-| Smooth Supply | 11.00% | ~8,901 |
-| Warrior | 10.00% | ~8,092 |
-| Veteran | 6.00% | ~4,855 |
-| Legend of the Seas | 3.00% | ~2,428 |
-| Chief Naval Architect | 3.00% | ~2,428 |
-| Shield | 3.00% | ~2,428 |
-| Senior Supply Officer | 2.00% | ~1,618 |
-| Weather Beaten | 2.00% | ~1,618 |
-| Important Missions | 2.00% | ~1,618 |
-| Guardian | 2.00% | ~1,618 |
-| Bane of the Oceans | 1.00% | ~809 |
-| "Science of Victory" | 1.00% | ~809 |
-| Special Orders | 1.00% | ~809 |
-| Protector | 1.00% | ~809 |
-| Exterminator | 1.00% | ~809 |
-| American Cruisers | 1.00% | ~809 |
-| Old-Timer | 0.90% | ~728 |
+| Junior Naval Designer | 76.00% | ~61,524 |
+| Initial Capital | 63.00% | ~51,000 |
+| Junior Supply Officer | 41.00% | ~33,190 |
+| Moneybags | 40.00% | ~32,381 |
+| Naval Warfare. Arson | 30.00% | ~24,286 |
+| Naval Warfare. Ramming | 29.00% | ~23,476 |
+| Amateur | 27.00% | ~21,857 |
+| Naval Warfare. Tactics | 27.00% | ~21,857 |
+| Naval Constructor | 27.00% | ~21,857 |
+| Naval Warfare. Weaponry Basics | 20.00% | ~16,190 |
+| Naval Warfare. Flooding | 17.00% | ~13,762 |
+| Naval Warfare. Lucky Shot | 17.00% | ~13,762 |
+| Business Magnate | 14.00% | ~11,333 |
+| Battle Hero | 13.00% | ~10,524 |
+| Supply Officer | 11.00% | ~8,905 |
+| Smooth Supply | 11.00% | ~8,905 |
+| Warrior | 10.00% | ~8,095 |
+| Veteran | 6.00% | ~4,857 |
+| Legend of the Seas | 3.00% | ~2,429 |
+| Chief Naval Architect | 3.00% | ~2,429 |
+| Shield | 3.00% | ~2,429 |
+| Senior Supply Officer | 2.00% | ~1,619 |
+| Weather Beaten | 2.00% | ~1,619 |
+| Important Missions | 2.00% | ~1,619 |
+| Guardian | 2.00% | ~1,619 |
+| Bane of the Oceans | 1.00% | ~810 |
+| "Science of Victory" | 1.00% | ~810 |
+| Special Orders | 1.00% | ~810 |
+| Protector | 1.00% | ~810 |
+| Exterminator | 1.00% | ~810 |
+| American Cruisers | 1.00% | ~810 |
+| Old-Timer | 0.90% | ~729 |
 | Secret Instructions | 0.60% | ~486 |
 | Raider | 0.50% | ~405 |
 | Experienced One | 0.40% | ~324 |
@@ -51,7 +51,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | "Yamamoto Isoroku" with Honors | 0.10% | ~81 |
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~81 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 80,920 (Ranked 108)  
+Progressed: 80,952 (Ranked 108)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,21 +192,21 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-29 | 78,984 | 0 |
 | 2023-12-30 | 79,843 | 0 |
 | 2023-12-31 | 80,627 | 0 |
-| 2024-01-01 | 80,920 | 0 |
+| 2024-01-01 | 80,952 | 0 |
 ## Awards
-Max (Quickly Understood Controls): 1,664  (Ranked 129)  
-Sum: 13,941 (Ranked 79)  
+Max (Relaxing): 1,667  (Ranked 129)  
+Sum: 13,955 (Ranked 79)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
+| This game is Relaxing | 1,667 |
 | This game has Quickly Understood Controls | 1,664 |
-| This game is Relaxing | 1,661 |
 | This game has Challenging Combat | 1,635 |
 | This game is Extremely Fun | 1,614 |
 | This game has Competitive Players | 1,606 |
 | This game is Highly Recommended | 1,603 |
 | This game has Realistic Visuals | 1,464 |
-| This game has Amazing Storytelling | 1,386 |
+| This game has Amazing Storytelling | 1,394 |
 | This game has a Competitive Community | 1,308 |
 | This game has Amazing Characters | 942 |
 ## Ratings History
@@ -566,4 +566,4 @@ Diff (max vs sum): 50
 | 2023-12-29 | 4.41 | - | 1,654 | 13,847 |
 | 2023-12-30 | 4.41 | - | 1,657 | 13,894 |
 | 2023-12-31 | 4.41 | - | 1,661 | 13,931 |
-| 2024-01-01 | 4.41 | - | 1,664 | 13,941 |
+| 2024-01-01 | 4.41 | - | 1,667 | 13,955 |

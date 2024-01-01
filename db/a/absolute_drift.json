@@ -2,9 +2,9 @@
   "ID": "9d2f484bbec64aa8ad234b3199dcaf1c",
   "Name": "Absolute Drift",
   "ProductSlug": "absolute-drift",
-  "Ranking_Rating": 718,
-  "Ranking_Popularity": 576,
-  "Ranking_PopularitySum": 576,
+  "Ranking_Rating": 717,
+  "Ranking_Popularity": 577,
+  "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 8,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 78,
@@ -481,9 +481,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1560715,
+  "EOS_Progressed": 1560727,
   "EOS_Completed": 762,
-  "EOS_NewPlayers": 1987,
+  "EOS_NewPlayers": 1985,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -29826,6 +29826,11 @@
       "Time": "2024-01-01T12:07:16.6470336+00:00",
       "NumProgressed": 1560715,
       "NumCompleted": 762
+    },
+    {
+      "Time": "2024-01-01T13:09:40.3242252+00:00",
+      "NumProgressed": 1560727,
+      "NumCompleted": 762
     }
   ],
   "TotalAchievements": 20,
@@ -29845,7 +29850,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 109250
+      "UsersEstimate": 109251
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -29853,7 +29858,7 @@
       "Name": "Bring the Cubic Ruckus",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 31214
+      "UsersEstimate": 31215
     },
     {
       "ID": "ACH_DOUBLE_RAINBOW",
@@ -29869,7 +29874,7 @@
       "Name": "Drift Line Apprentice",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 46821
+      "UsersEstimate": 46822
     },
     {
       "ID": "ACH_DRIFT_LINE_MASTER",
@@ -29885,7 +29890,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 140464
+      "UsersEstimate": 140465
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -29909,7 +29914,7 @@
       "Name": "Jelly Donuts",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 31214
+      "UsersEstimate": 31215
     },
     {
       "ID": "ACH_MAD_SKILLS",
@@ -29917,7 +29922,7 @@
       "Name": "Mad Skills",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 46821
+      "UsersEstimate": 46822
     },
     {
       "ID": "ACH_MASTER_DRIFTER",
@@ -29925,7 +29930,7 @@
       "Name": "Master Drifter",
       "Percentage": 2,
       "XP": 95,
-      "UsersEstimate": 31214
+      "UsersEstimate": 31215
     },
     {
       "ID": "ACH_MIDNIGHT_DRIFTER",
@@ -29933,7 +29938,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 156072
+      "UsersEstimate": 156073
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -29941,7 +29946,7 @@
       "Name": "Midnight Master",
       "Percentage": 2,
       "XP": 95,
-      "UsersEstimate": 31214
+      "UsersEstimate": 31215
     },
     {
       "ID": "ACH_MULTIPLIER_MASTER",
@@ -29949,7 +29954,7 @@
       "Name": "Multiplier Master",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 140464
+      "UsersEstimate": 140465
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -29965,7 +29970,7 @@
       "Name": "Spin Doctor",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 31214
+      "UsersEstimate": 31215
     },
     {
       "ID": "ACH_THE_COMPLETIONIST",
@@ -29996,15 +30001,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1560715,
+      "Progressed": 1560727,
       "Completed": 762
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-12-17T11:57:05.6881594+00:00",
-  "LastChanged_Achievements": "2024-01-01T12:07:16.6470333+00:00",
+  "LastChanged_Achievements": "2024-01-01T13:09:40.3242249+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:19.1833195+00:00",
-  "LastUpdate_Ratings": "2024-01-01T11:58:14.7761234+00:00",
-  "LastUpdate_Achievements": "2024-01-01T12:07:16.6471493+00:00"
+  "LastUpdate_Ratings": "2024-01-01T13:01:19.268166+00:00",
+  "LastUpdate_Achievements": "2024-01-01T13:09:40.3243774+00:00"
 }

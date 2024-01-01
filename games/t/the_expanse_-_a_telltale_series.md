@@ -7,16 +7,16 @@ Rating: 4.54 (Ranked 544)
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 16.00% | ~2,874 |
 | Captain Drummer | 13.00% | ~2,335 |
-| Celebrations are in Order | 12.00% | ~2,155 |
+| Celebrations are in Order | 12.00% | ~2,156 |
 | The Pit and the Pirates | 11.00% | ~1,976 |
 | Martian Music | 11.00% | ~1,976 |
 | Drone Dodger | 11.00% | ~1,976 |
 | Bosmang | 11.00% | ~1,976 |
 | Impossible Objects | 11.00% | ~1,976 |
 | Spore Taste | 10.00% | ~1,796 |
-| Stogie for Fogey | 9.00% | ~1,616 |
-| Safe Cracker | 9.00% | ~352 |
-| Zen Master | 9.00% | ~352 |
+| Stogie for Fogey | 9.00% | ~1,617 |
+| Safe Cracker | 9.00% | ~353 |
+| Zen Master | 9.00% | ~353 |
 | Call it Even | 8.00% | ~1,437 |
 | Madame Undersecretary | 8.00% | ~313 |
 | Drug Gifter | 7.00% | ~1,257 |
@@ -28,8 +28,8 @@ Rating: 4.54 (Ranked 544)
 | Master Negotiator | 6.00% | ~235 |
 | Doctor Approved | 5.00% | ~898 |
 | Bottoms up! | 5.00% | ~898 |
-| Data Logger | 4.00% | ~718 |
-| Miraculous Maya | 4.00% | ~718 |
+| Data Logger | 4.00% | ~719 |
+| Miraculous Maya | 4.00% | ~719 |
 | Data Master | 3.00% | ~539 |
 | Brother's Reaper | 2.00% | ~359 |
 | No Belter Left Behind | 2.00% | ~359 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 544)
 | Scavenger Star | 0.30% | ~54 |
 | Data Collector | 0.20% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,960 (Ranked 157)  
+Progressed: 17,963 (Ranked 157)  
 Completed: 58 (0.32%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 58 (0.32%) (Ranked 246)
 | 2023-12-29 | 17,756 | 57 |
 | 2023-12-30 | 17,838 | 57 |
 | 2023-12-31 | 17,926 | 58 |
-| 2024-01-01 | 17,960 | 58 |
+| 2024-01-01 | 17,963 | 58 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

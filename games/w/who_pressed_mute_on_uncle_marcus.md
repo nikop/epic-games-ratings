@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sorry, kiddo | 97.00% | ~276 |
-| And away we go! | 88.00% | ~251 |
+| Sorry, kiddo | 98.00% | ~279 |
+| And away we go! | 89.00% | ~254 |
 | Job one. DONE! | 62.00% | ~177 |
 | You are Carol Vorderman | 57.00% | ~162 |
 | Toby foolery | 51.00% | ~145 |
@@ -15,8 +15,8 @@
 | Just like me | 34.00% | ~97 |
 | I bless the rain down in London | 31.00% | ~88 |
 | Cheat | 28.00% | ~80 |
+| Delusions | 28.00% | ~80 |
 | Brown nosing | 27.00% | ~77 |
-| Delusions | 27.00% | ~77 |
 | Prove it | 26.00% | ~74 |
 | The truth | 26.00% | ~74 |
 | Making a murderer | 19.00% | ~54 |

@@ -3,12 +3,12 @@
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
   "Ranking_Rating": 544,
-  "Ranking_Popularity": 576,
-  "Ranking_PopularitySum": 576,
+  "Ranking_Popularity": 577,
+  "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17960,
+  "EOS_Progressed": 17963,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 583,
+  "EOS_NewPlayers": 579,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -15900,6 +15900,11 @@
       "Time": "2024-01-01T12:04:10.2212552+00:00",
       "NumProgressed": 17960,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-01T13:07:04.6305299+00:00",
+      "NumProgressed": 17963,
+      "NumCompleted": 58
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -15960,7 +15965,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1616
+      "UsersEstimate": 1617
     },
     {
       "ID": "16",
@@ -16000,7 +16005,7 @@
       "Name": "Data Logger",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "20",
@@ -16040,7 +16045,7 @@
       "Name": "Miraculous Maya",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "25",
@@ -16120,7 +16125,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2155
+      "UsersEstimate": 2156
     },
     {
       "ID": "7",
@@ -16160,7 +16165,7 @@
       "Name": "Safe Cracker",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "33",
@@ -16168,7 +16173,7 @@
       "Name": "Zen Master",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "34",
@@ -16191,22 +16196,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 17960,
+      "Progressed": 17963,
       "Completed": 58
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3914,
-      "Completed": 1141
+      "Progressed": 3917,
+      "Completed": 1142
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T23:58:17.8612142+00:00",
-  "LastChanged_Achievements": "2024-01-01T12:04:10.2212548+00:00",
+  "LastChanged_Achievements": "2024-01-01T13:07:04.6305294+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2024-01-01T11:59:12.4351059+00:00",
-  "LastUpdate_Achievements": "2024-01-01T12:04:10.2213274+00:00"
+  "LastUpdate_Ratings": "2024-01-01T13:02:07.8871414+00:00",
+  "LastUpdate_Achievements": "2024-01-01T13:07:04.6306183+00:00"
 }

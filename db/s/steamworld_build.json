@@ -2,9 +2,9 @@
   "ID": "974d75969ed043489745f61eb0a25baf",
   "Name": "SteamWorld Build",
   "ProductSlug": "steamworld-build-71ee6c",
-  "Ranking_EOS_Progress": 417,
+  "Ranking_EOS_Progress": 416,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 227,
+  "EOS_Progressed": 228,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -919,6 +919,11 @@
       "Time": "2024-01-01T12:07:17.4257911+00:00",
       "NumProgressed": 227,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T13:09:41.0818984+00:00",
+      "NumProgressed": 228,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-01T14:06:40.4198033+00:00",
@@ -939,7 +944,7 @@
       "Name": "Aristocratic",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "Botropolis",
@@ -947,7 +952,7 @@
       "Name": "Botropolis",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ClickEmAll",
@@ -987,23 +992,23 @@
       "Name": "Going Places",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "GottaGoFast",
       "SetID": "4bd750m",
       "Name": "Gotta Go Fast",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 90,
-      "UsersEstimate": 100
+      "UsersEstimate": 98
     },
     {
       "ID": "ImALumberbot",
       "SetID": "4bd750m",
       "Name": "I\u0027m A Lumberbot",
-      "Percentage": 0.4,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "InterstellarPerformance",
@@ -1019,7 +1024,7 @@
       "Name": "It\u0027s Yours, My Friend",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ManicMechanic",
@@ -1035,15 +1040,15 @@
       "Name": "Mathematic",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "MineSweeper",
       "SetID": "4bd750m",
       "Name": "Mine Sweeper",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 89
     },
     {
       "ID": "NothingButRoad",
@@ -1073,9 +1078,9 @@
       "ID": "RoomToSpare",
       "SetID": "4bd750m",
       "Name": "Room To Spare",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 32
     },
     {
       "ID": "SlottingMachine",
@@ -1123,7 +1128,7 @@
       "Name": "Tutti Frutti",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "UpUpAndAway",
@@ -1154,14 +1159,14 @@
     {
       "ID": "4bd750m",
       "IsBase": true,
-      "Progressed": 227,
+      "Progressed": 228,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2024-01-01T12:07:17.4257908+00:00",
+  "LastChanged_Achievements": "2024-01-01T13:09:41.0818979+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.9245287+00:00",
-  "LastUpdate_Ratings": "2024-01-01T12:03:38.3233149+00:00",
-  "LastUpdate_Achievements": "2024-01-01T12:07:17.4258118+00:00"
+  "LastUpdate_Ratings": "2024-01-01T13:06:36.8947188+00:00",
+  "LastUpdate_Achievements": "2024-01-01T13:09:41.0819145+00:00"
 }

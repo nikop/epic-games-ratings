@@ -1,27 +1,27 @@
 # Zombie Army 4: Dead War
 [Store](https://store.epicgames.com/en-US/p/zombie-army-4-dead-war)  
 [View Rawdata](../../db/z/zombie_army_4__dead_war.json)  
-Rating: 4.69 (Ranked 235)  
+Rating: 4.69 (Ranked 236)  
 Number of Ratings: 743  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 69.00% | ~30,564 |
-| Say goodbye, creep! | 66.00% | ~29,235 |
-| Blood splattered | 66.00% | ~29,235 |
-| Choo choo! | 63.00% | ~27,906 |
+| Shoot it, man! Shoot it in the head! | 69.00% | ~30,565 |
+| Say goodbye, creep! | 66.00% | ~29,236 |
+| Blood splattered | 66.00% | ~29,236 |
+| Choo choo! | 63.00% | ~27,907 |
 | Groovy | 62.00% | ~27,464 |
 | Cleanup on aisle 4! | 57.00% | ~25,249 |
 | Gold | 51.00% | ~22,591 |
-| The boat can leave now...tell the crew | 49.00% | ~21,705 |
-| Give me something to shoot! | 47.00% | ~20,819 |
-| Stand back boy! | 47.00% | ~20,819 |
-| Chain reaction | 45.00% | ~19,933 |
-| Weird science | 44.00% | ~19,490 |
-| What did you say, Blain? | 42.00% | ~18,604 |
-| Look mummy! A shark! | 41.00% | ~18,161 |
-| In the dark dark woods... | 39.00% | ~17,275 |
-| Come and get it! It's a running buffet! | 38.00% | ~16,832 |
+| The boat can leave now...tell the crew | 49.00% | ~21,706 |
+| Give me something to shoot! | 47.00% | ~20,820 |
+| Stand back boy! | 47.00% | ~20,820 |
+| Chain reaction | 45.00% | ~19,934 |
+| Weird science | 44.00% | ~19,491 |
+| What did you say, Blain? | 42.00% | ~18,605 |
+| Look mummy! A shark! | 41.00% | ~18,162 |
+| In the dark dark woods... | 39.00% | ~17,276 |
+| Come and get it! It's a running buffet! | 38.00% | ~16,833 |
 | Double tap | 37.00% | ~16,390 |
 | Cranial blowout! | 37.00% | ~16,390 |
 | All of this has happened before… | 36.00% | ~15,947 |
@@ -42,9 +42,9 @@ Number of Ratings: 743  (23.09.2022)
 | Take them down screaming | 18.00% | ~7,973 |
 | Bad Blood | 17.00% | ~7,530 |
 | Weapons expert | 17.00% | ~7,530 |
-| The bigger they are... | 15.00% | ~6,644 |
-| I'm going deeper underground | 14.00% | ~6,201 |
-| Well equipped | 13.00% | ~5,758 |
+| The bigger they are... | 15.00% | ~6,645 |
+| I'm going deeper underground | 14.00% | ~6,202 |
+| Well equipped | 13.00% | ~5,759 |
 | Into the deep | 12.00% | ~5,316 |
 | Damnedbusters | 9.00% | ~3,987 |
 | Plane sailing | 8.00% | ~3,544 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~443 |
 | None more hard | 0.60% | ~266 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,296 (Ranked 128)  
+Progressed: 44,297 (Ranked 128)  
 Completed: 25 (0.06%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,7 +329,7 @@ Completed: 25 (0.06%) (Ranked 326)
 | 2023-12-29 | 44,263 | 25 |
 | 2023-12-30 | 44,274 | 25 |
 | 2023-12-31 | 44,291 | 25 |
-| 2024-01-01 | 44,296 | 25 |
+| 2024-01-01 | 44,297 | 25 |
 ## Awards
 Max (Great Boss Battles): 866  (Ranked 172)  
 Sum: 2,613 (Ranked 197)  

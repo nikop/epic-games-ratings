@@ -2,12 +2,12 @@
   "ID": "e1055bf1e5654b93a27e19e6bb86cb2a",
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
-  "Ranking_Rating": 302,
+  "Ranking_Rating": 303,
   "Ranking_Popularity": 367,
   "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 350,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1429,11 +1429,17 @@
       "Rating": 4.66,
       "NumberOfAwards": 750,
       "NumberOfAwardsMax": 105
+    },
+    {
+      "Time": "2024-01-01T13:03:04.11482+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 751,
+      "NumberOfAwardsMax": 106
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 750,
-  "NumberOfAwardsMax": 105,
+  "NumberOfAwards": 751,
+  "NumberOfAwardsMax": 106,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -1458,7 +1464,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 105
+      "Count": 106
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1503,9 +1509,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6814,
+  "EOS_Progressed": 6816,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15713,6 +15719,11 @@
       "Time": "2024-01-01T12:07:26.5063622+00:00",
       "NumProgressed": 6814,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-01T13:09:48.7898809+00:00",
+      "NumProgressed": 6816,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -15748,7 +15759,7 @@
       "Name": "Happy Ending?",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -15820,7 +15831,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 2998
+      "UsersEstimate": 2999
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -15828,7 +15839,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1090
+      "UsersEstimate": 1091
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -15844,7 +15855,7 @@
       "Name": "Number 18",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1567
+      "UsersEstimate": 1568
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -15876,7 +15887,7 @@
       "Name": "The Governator",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1159
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -15884,7 +15895,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 4974
+      "UsersEstimate": 4976
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -15980,7 +15991,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 3066
+      "UsersEstimate": 3067
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -15996,7 +16007,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2453
+      "UsersEstimate": 2454
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -16043,15 +16054,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6814,
+      "Progressed": 6816,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
-  "LastChanged": "2024-01-01T12:00:20.1499234+00:00",
-  "LastChanged_Achievements": "2024-01-01T12:07:26.5063619+00:00",
+  "LastChanged": "2024-01-01T13:03:04.1148198+00:00",
+  "LastChanged_Achievements": "2024-01-01T13:09:48.7898806+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:30.406474+00:00",
-  "LastUpdate_Ratings": "2024-01-01T12:00:20.1499239+00:00",
-  "LastUpdate_Achievements": "2024-01-01T12:07:26.5064793+00:00"
+  "LastUpdate_Ratings": "2024-01-01T13:03:04.1148204+00:00",
+  "LastUpdate_Achievements": "2024-01-01T13:09:48.7899846+00:00"
 }

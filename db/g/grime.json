@@ -2,13 +2,13 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 445,
+  "Ranking_Rating": 446,
   "Ranking_Popularity": 424,
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 11,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1727,10 +1727,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 434,
       "NumberOfAwardsMax": 61
+    },
+    {
+      "Time": "2024-01-01T13:01:50.671772+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 436,
+      "NumberOfAwardsMax": 61
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 434,
+  "NumberOfAwards": 436,
   "NumberOfAwardsMax": 61,
   "MaxAwardTitle": "Unique Visuals",
   "Tags": [
@@ -1786,12 +1792,12 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 50
+      "Count": 52
     }
   ],
-  "EOS_Progressed": 165894,
+  "EOS_Progressed": 165900,
   "EOS_Completed": 433,
-  "EOS_NewPlayers": 1494,
+  "EOS_NewPlayers": 1492,
   "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -21424,6 +21430,11 @@
       "Time": "2024-01-01T12:05:10.0813947+00:00",
       "NumProgressed": 165894,
       "NumCompleted": 433
+    },
+    {
+      "Time": "2024-01-01T13:07:53.2406071+00:00",
+      "NumProgressed": 165900,
+      "NumCompleted": 433
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -21588,7 +21599,7 @@
       "Name": "Jawstag",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 829
+      "UsersEstimate": 830
     },
     {
       "ID": "DEFEAT_PERFORMER",
@@ -21620,7 +21631,7 @@
       "Name": "Watcher",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 829
+      "UsersEstimate": 830
     },
     {
       "ID": "DEFEAT_WHISPERERS",
@@ -21803,21 +21814,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 165477,
+      "Progressed": 165483,
       "Completed": 1250
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 165894,
+      "Progressed": 165900,
       "Completed": 433
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2023-12-31T13:00:03.1579363+00:00",
-  "LastChanged_Achievements": "2024-01-01T12:05:10.0813945+00:00",
+  "LastChanged": "2024-01-01T13:01:50.6717718+00:00",
+  "LastChanged_Achievements": "2024-01-01T13:07:53.2406068+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:50.3299145+00:00",
-  "LastUpdate_Ratings": "2024-01-01T11:58:52.1749883+00:00",
-  "LastUpdate_Achievements": "2024-01-01T12:05:10.0814877+00:00"
+  "LastUpdate_Ratings": "2024-01-01T13:01:50.6717723+00:00",
+  "LastUpdate_Achievements": "2024-01-01T13:07:53.2407098+00:00"
 }

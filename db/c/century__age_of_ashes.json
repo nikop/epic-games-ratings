@@ -3,7 +3,7 @@
   "Name": "Century: Age of Ashes",
   "ProductSlug": "century-age-of-ashes",
   "Ranking_Rating": 750,
-  "Ranking_Popularity": 414,
+  "Ranking_Popularity": 412,
   "Ranking_PopularitySum": 317,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 390,
@@ -1792,12 +1792,18 @@
       "Rating": 4.41,
       "NumberOfAwards": 632,
       "NumberOfAwardsMax": 70
+    },
+    {
+      "Time": "2024-01-01T13:03:25.8505877+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 633,
+      "NumberOfAwardsMax": 71
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 632,
-  "NumberOfAwardsMax": 70,
-  "MaxAwardTitle": "Great for Quick Sessions",
+  "NumberOfAwards": 633,
+  "NumberOfAwardsMax": 71,
+  "MaxAwardTitle": "Amazing Characters",
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
@@ -1815,7 +1821,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 70
+      "Count": 71
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1877,8 +1883,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:28.564577+00:00",
-  "LastChanged": "2023-12-28T11:58:22.8957217+00:00",
+  "LastChanged": "2024-01-01T13:03:25.8505875+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:40.3953812+00:00",
-  "LastUpdate_Ratings": "2024-01-01T12:00:47.2345163+00:00",
-  "LastUpdate_Achievements": "2024-01-01T12:06:44.0678054+00:00"
+  "LastUpdate_Ratings": "2024-01-01T13:03:25.850588+00:00",
+  "LastUpdate_Achievements": "2024-01-01T13:09:12.6402788+00:00"
 }

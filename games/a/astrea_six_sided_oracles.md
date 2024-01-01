@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 82.00% | ~236 |
+| Meissa's Savior | 82.00% | ~237 |
 | Purification Pioneer | 78.00% | ~225 |
-| Mechanical Buddy | 72.00% | ~207 |
-| Dicesmithing Time! | 65.00% | ~187 |
-| Sanctuary Guardian | 55.00% | ~158 |
+| Mechanical Buddy | 72.00% | ~208 |
+| Dicesmithing Time! | 65.00% | ~188 |
+| Sanctuary Guardian | 55.00% | ~159 |
 | Endless Tricks | 51.00% | ~147 |
-| Wild's Keeper | 47.00% | ~135 |
+| Wild's Keeper | 46.00% | ~133 |
 | Mind Illuminator | 44.00% | ~127 |
 | Stellar Dismantler | 37.00% | ~107 |
 | Noctuan Champion | 36.00% | ~104 |
 | Astral Adventurer | 34.00% | ~98 |
-| Anomaly Destroyer | 31.00% | ~89 |
+| Anomaly Destroyer | 31.00% | ~90 |
 | Star Killer | 28.00% | ~81 |
 | Eridanian Champion | 25.00% | ~72 |
-| Loyal Partner | 22.00% | ~63 |
+| Loyal Partner | 22.00% | ~64 |
 | Lacertian Champion | 20.00% | ~58 |
 | Shard Spender | 19.00% | ~55 |
 | Apian Champion | 19.00% | ~55 |
@@ -37,12 +37,12 @@
 | Anomaly Control | 5.00% | ~14 |
 | Artificer | 5.00% | ~14 |
 | Can't touch this | 5.00% | ~14 |
-| The Dark Moon | 5.00% | ~14 |
-| Apian Hero | 5.00% | ~14 |
 | Astrarium of Holding | 4.00% | ~12 |
 | Denying Destiny | 4.00% | ~12 |
 | Prestidigitation | 4.00% | ~12 |
 | The Chaos Artisan | 4.00% | ~12 |
+| The Dark Moon | 4.00% | ~12 |
+| Apian Hero | 4.00% | ~12 |
 | Behenian Hero | 4.00% | ~12 |
 | Lacertian Hero | 4.00% | ~12 |
 | If I Had Failed... | 3.00% | ~9 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 288 (Ranked 394)  
+Progressed: 289 (Ranked 394)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,4 +170,4 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-29 | 269 | 0 |
 | 2023-12-30 | 277 | 0 |
 | 2023-12-31 | 285 | 0 |
-| 2024-01-01 | 288 | 0 |
+| 2024-01-01 | 289 | 0 |

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 498,
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 332,
-  "Ranking_EOS_Completed": 185,
+  "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
@@ -323,11 +323,11 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 605,
+  "EOS_Progressed": 609,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 254,
+  "EOS_NewPlayers": 255,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 0.83,
+  "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
     {
       "Time": "2023-12-18T11:05:17.4237079+00:00",
@@ -1648,6 +1648,11 @@
       "Time": "2024-01-01T12:08:25.1241813+00:00",
       "NumProgressed": 605,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-01T13:10:20.4586899+00:00",
+      "NumProgressed": 609,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1668,7 +1673,7 @@
       "Name": "Are you ready now?",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_CHUM_BUCKET_BRAIN",
@@ -1692,15 +1697,15 @@
       "Name": "Life\u0027s as extreme as you wanna make it!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_DOWN_TOWN",
       "SetID": "biiejkc",
       "Name": "Uptown and Downtown",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_FD_GRAVEYARD",
@@ -1756,7 +1761,7 @@
       "Name": "Keep it Rolling",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_PRAWN_BOSS",
@@ -1764,7 +1769,7 @@
       "Name": "Shrimp Catcher",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_ROBO_PATRICK_BOSS",
@@ -1772,7 +1777,7 @@
       "Name": "Toxic Terror",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_ROBO_SANDY_BOSS",
@@ -1780,7 +1785,7 @@
       "Name": "Sweet Victory",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_ROBO_SB_BOSS",
@@ -1796,7 +1801,7 @@
       "Name": "Hit Rock Bottom",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_SLEEPY_TIME",
@@ -1836,7 +1841,7 @@
       "Name": "Super Spatula Seeker",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_STAT_50_SPATULA_SEEKER",
@@ -1860,7 +1865,7 @@
       "Name": "Sock Getter",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_STAT_SPATULA_SEEKER",
@@ -1868,7 +1873,7 @@
       "Name": "Spatula Seeker",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -1876,7 +1881,7 @@
       "Name": "Sponge Smasher",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
@@ -1884,7 +1889,7 @@
       "Name": "Squirrel Smasher",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_STAT_STAR_SMASHER",
@@ -1892,7 +1897,7 @@
       "Name": "Star Smasher",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_SURFS_UP",
@@ -1900,7 +1905,7 @@
       "Name": "Surf\u0027s Up!",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_TIME_FOR_TUTORIAL",
@@ -1915,15 +1920,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 605,
+      "Progressed": 609,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-31T19:58:31.7111869+00:00",
-  "LastChanged_Achievements": "2024-01-01T12:08:25.1241811+00:00",
+  "LastChanged_Achievements": "2024-01-01T13:10:20.4586896+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:11.8880921+00:00",
-  "LastUpdate_Ratings": "2024-01-01T11:58:41.654366+00:00",
-  "LastUpdate_Achievements": "2024-01-01T12:08:25.1242168+00:00"
+  "LastUpdate_Ratings": "2024-01-01T13:01:42.0044975+00:00",
+  "LastUpdate_Achievements": "2024-01-01T13:10:20.458715+00:00"
 }

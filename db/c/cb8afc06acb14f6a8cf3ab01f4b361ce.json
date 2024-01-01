@@ -455,9 +455,9 @@
       "Count": 75
     }
   ],
-  "EOS_Progressed": 339123,
+  "EOS_Progressed": 339153,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 4281,
+  "EOS_NewPlayers": 4280,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11760,6 +11760,11 @@
       "Time": "2024-01-01T12:09:03.2417066+00:00",
       "NumProgressed": 339123,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-01T13:12:01.0632186+00:00",
+      "NumProgressed": 339153,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -11772,7 +11777,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13565
+      "UsersEstimate": 13566
     },
     {
       "ID": "S02_BRDA",
@@ -11780,7 +11785,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 10174
+      "UsersEstimate": 10175
     },
     {
       "ID": "S03_OTWA",
@@ -11788,7 +11793,7 @@
       "Name": "Rumors are true",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3391
+      "UsersEstimate": 3392
     },
     {
       "ID": "S04_BRDC",
@@ -11908,7 +11913,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13565
+      "UsersEstimate": 13566
     },
     {
       "ID": "S19_CHALLENGES",
@@ -11996,7 +12001,7 @@
       "Name": "Your wounds\u2026 They are healing so fast!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3391
+      "UsersEstimate": 3392
     },
     {
       "ID": "S30_DIAMOND",
@@ -12076,7 +12081,7 @@
       "Name": "I took a risk",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 1356
+      "UsersEstimate": 1357
     },
     {
       "ID": "S40_BONUS",
@@ -12084,14 +12089,14 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6782
+      "UsersEstimate": 6783
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 339123,
+      "Progressed": 339153,
       "Completed": 7
     }
   ],
@@ -12099,8 +12104,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-12-29T17:59:10.0786957+00:00",
-  "LastChanged_Achievements": "2024-01-01T12:09:03.2417063+00:00",
+  "LastChanged_Achievements": "2024-01-01T13:12:01.0632181+00:00",
   "LastUpdate_AppInfo": "2023-12-28T22:56:57.7073923+00:00",
-  "LastUpdate_Ratings": "2024-01-01T12:00:48.2059523+00:00",
-  "LastUpdate_Achievements": "2024-01-01T12:09:03.2417729+00:00"
+  "LastUpdate_Ratings": "2024-01-01T13:03:26.6546034+00:00",
+  "LastUpdate_Achievements": "2024-01-01T13:12:01.0633049+00:00"
 }

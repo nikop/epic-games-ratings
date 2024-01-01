@@ -2,12 +2,12 @@
   "ID": "3a18db06dff0465b8a58308aa29020a0",
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
-  "Ranking_Rating": 235,
+  "Ranking_Rating": 236,
   "Ranking_Popularity": 520,
   "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -450,9 +450,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 905,
+  "EOS_Progressed": 909,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3265,6 +3265,11 @@
       "Time": "2024-01-01T12:09:25.146119+00:00",
       "NumProgressed": 905,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T13:12:19.5593554+00:00",
+      "NumProgressed": 909,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3381,7 +3386,7 @@
       "Name": "Critical Hit",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "Deepstrike",
@@ -3421,7 +3426,7 @@
       "Name": "Double Kill",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 353
+      "UsersEstimate": 355
     },
     {
       "ID": "FlameAttackKillCount",
@@ -3485,7 +3490,7 @@
       "Name": "Multi Kill",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "MultiplayerWins",
@@ -3517,7 +3522,7 @@
       "Name": "Whoops!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "RanaCampaign",
@@ -3557,7 +3562,7 @@
       "Name": "Sorcerous Spree",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "SwapIntoPoisonCloud",
@@ -3581,7 +3586,7 @@
       "Name": "Landlord Extraordinaire",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "TrojanHorse",
@@ -3605,7 +3610,7 @@
       "Name": "Adept",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 407
+      "UsersEstimate": 409
     },
     {
       "ID": "WielderLevel2",
@@ -3613,7 +3618,7 @@
       "Name": "Veteran",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "WielderLevel3",
@@ -3621,7 +3626,7 @@
       "Name": "Master",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "WielderLevel4",
@@ -3637,7 +3642,7 @@
       "Name": "Humiliation",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "WinBattleWithOneUnitLeft",
@@ -3661,7 +3666,7 @@
       "Name": "Veni, Vidi, Vici",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "WinSiegeAsDefender",
@@ -3708,15 +3713,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 905,
+      "Progressed": 909,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2024-01-01T12:09:25.1461186+00:00",
+  "LastChanged_Achievements": "2024-01-01T13:12:19.5593549+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:53.9356991+00:00",
-  "LastUpdate_Ratings": "2024-01-01T12:01:30.9752257+00:00",
-  "LastUpdate_Achievements": "2024-01-01T12:09:25.1461809+00:00"
+  "LastUpdate_Ratings": "2024-01-01T13:04:02.4269372+00:00",
+  "LastUpdate_Achievements": "2024-01-01T13:12:19.5594054+00:00"
 }

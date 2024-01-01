@@ -7,7 +7,7 @@
 | Tough Decision | 92.00% | ~706 |
 | Blast From The Past | 83.00% | ~637 |
 | Kamikaze | 63.00% | ~483 |
-| The Rebel And The Doctor | 56.00% | ~430 |
+| The Rebel And The Doctor | 57.00% | ~437 |
 | Beat It | 48.00% | ~368 |
 | Free Champagne | 48.00% | ~368 |
 | Storage Hunter | 46.00% | ~353 |
@@ -16,8 +16,8 @@
 | Lab Rat | 24.00% | ~184 |
 | Stalemate | 21.00% | ~161 |
 | Kindar Surprise | 17.00% | ~130 |
+| Deadly Secret | 13.00% | ~100 |
 | MVP - Most Vanishing Person | 13.00% | ~100 |
-| Deadly Secret | 12.00% | ~92 |
 | Get Out Of This Alive | 9.00% | ~69 |
 | The Promise | 8.00% | ~61 |
 | People Pleaser | 8.00% | ~61 |

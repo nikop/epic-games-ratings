@@ -2,9 +2,9 @@
   "ID": "basil",
   "Name": "Human Resource Machine",
   "ProductSlug": "human-resource-machine",
-  "Ranking_Rating": 378,
-  "Ranking_Popularity": 576,
-  "Ranking_PopularitySum": 576,
+  "Ranking_Rating": 398,
+  "Ranking_Popularity": 554,
+  "Ranking_PopularitySum": 559,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 568,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.62,
+  "Rating": 4.61,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:48.6149291+00:00",
@@ -55,12 +55,26 @@
       "Rating": 4.62,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-01T13:04:07.4573856+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 23,
+      "NumberOfAwardsMax": 23
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "Tags": [],
+  "NumberOfAwards": 23,
+  "NumberOfAwardsMax": 23,
+  "MaxAwardTitle": "Challenging Puzzles",
+  "Tags": [
+    {
+      "Text": "This game features Challenging Puzzles",
+      "Prefix": "This game features",
+      "Type": "Challenging Puzzles",
+      "Count": 23
+    }
+  ],
   "EOS_Progressed": 0,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
@@ -73,8 +87,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:33.4589347+00:00",
   "FirstSeenRating": "2023-03-31T05:57:48.6149288+00:00",
-  "LastChanged": "2023-12-29T21:59:12.5968508+00:00",
+  "LastChanged": "2024-01-01T13:04:07.4573854+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:59.5761051+00:00",
-  "LastUpdate_Ratings": "2024-01-01T12:01:35.9404795+00:00",
-  "LastUpdate_Achievements": "2024-01-01T12:08:28.9730817+00:00"
+  "LastUpdate_Ratings": "2024-01-01T13:04:07.4573858+00:00",
+  "LastUpdate_Achievements": "2024-01-01T13:10:23.3072521+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1286,
+  "EOS_Progressed": 1287,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3419,6 +3419,11 @@
       "Time": "2024-01-01T11:11:17.7747829+00:00",
       "NumProgressed": 1286,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T13:13:28.2731732+00:00",
+      "NumProgressed": 1287,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3430,7 +3435,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 913
+      "UsersEstimate": 914
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -3454,7 +3459,7 @@
       "Name": "Out Of Stock",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ATKM_ACHIEVEMENT_1",
@@ -3502,7 +3507,7 @@
       "Name": "Capraphobia",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -3678,7 +3683,7 @@
       "Name": "I\u0027ll Save You!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "FREE_ACHIEVEMENT_2",
@@ -3710,7 +3715,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -3957,14 +3962,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1286,
+      "Progressed": 1287,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-01T12:10:47.1921373+00:00",
+  "LastChanged_Achievements": "2024-01-01T13:13:28.2731728+00:00",
   "LastUpdate_AppInfo": "2023-12-29T02:57:14.6537743+00:00",
-  "LastUpdate_Ratings": "2024-01-01T11:59:26.6981575+00:00",
-  "LastUpdate_Achievements": "2024-01-01T12:10:47.192204+00:00"
+  "LastUpdate_Ratings": "2024-01-01T13:02:19.7485792+00:00",
+  "LastUpdate_Achievements": "2024-01-01T13:13:28.2732473+00:00"
 }

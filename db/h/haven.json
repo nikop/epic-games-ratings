@@ -3,11 +3,11 @@
   "Name": "Haven",
   "ProductSlug": "haven",
   "Ranking_Rating": 149,
-  "Ranking_Popularity": 576,
-  "Ranking_PopularitySum": 576,
+  "Ranking_Popularity": 577,
+  "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1844,
+  "EOS_Progressed": 1846,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -3148,6 +3148,11 @@
       "Time": "2024-01-01T10:06:12.2800134+00:00",
       "NumProgressed": 1844,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-01T13:10:18.3020809+00:00",
+      "NumProgressed": 1846,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3159,7 +3164,7 @@
       "Name": "Lovebirds",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "10",
@@ -3207,7 +3212,7 @@
       "Name": "Back to rust",
       "Percentage": 10,
       "XP": 70,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "16",
@@ -3215,7 +3220,7 @@
       "Name": "My little pony",
       "Percentage": 17,
       "XP": 70,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "17",
@@ -3223,7 +3228,7 @@
       "Name": "Balding bloot!",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 1328
+      "UsersEstimate": 1329
     },
     {
       "ID": "18",
@@ -3247,7 +3252,7 @@
       "Name": "Flower Powered",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "20",
@@ -3295,7 +3300,7 @@
       "Name": "Heartstrings",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "27",
@@ -3341,9 +3346,9 @@
       "ID": "32",
       "SetID": "n50no0",
       "Name": "Spring cleaning",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 92
+      "UsersEstimate": 74
     },
     {
       "ID": "4",
@@ -3351,7 +3356,7 @@
       "Name": "Head in the clouds",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "5",
@@ -3367,7 +3372,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "7",
@@ -3383,7 +3388,7 @@
       "Name": "Over my dead body",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "9",
@@ -3398,15 +3403,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1844,
+      "Progressed": 1846,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2024-01-01T12:08:02.1593291+00:00",
+  "LastChanged_Achievements": "2024-01-01T13:10:18.3020803+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:49.1667896+00:00",
-  "LastUpdate_Ratings": "2024-01-01T11:58:45.4906185+00:00",
-  "LastUpdate_Achievements": "2024-01-01T12:08:02.1593601+00:00"
+  "LastUpdate_Ratings": "2024-01-01T13:01:45.3389926+00:00",
+  "LastUpdate_Achievements": "2024-01-01T13:10:18.3021181+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
   "Ranking_Rating": 675,
-  "Ranking_Popularity": 527,
-  "Ranking_PopularitySum": 542,
+  "Ranking_Popularity": 528,
+  "Ranking_PopularitySum": 543,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -655,9 +655,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 4174,
+  "EOS_Progressed": 4176,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -9240,6 +9240,11 @@
       "Time": "2024-01-01T12:09:50.2205562+00:00",
       "NumProgressed": 4174,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-01T13:12:40.7378867+00:00",
+      "NumProgressed": 4176,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9275,7 +9280,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -9283,7 +9288,7 @@
       "Name": "Opposing Force",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -9291,7 +9296,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -9299,7 +9304,7 @@
       "Name": "Fields of Glory",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -9331,7 +9336,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1962
+      "UsersEstimate": 1963
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -9395,7 +9400,7 @@
       "Name": "The Long Game",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "REWARD_28_AMBUSH_KING",
@@ -9411,7 +9416,7 @@
       "Name": "Precision Is Key",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -9419,7 +9424,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1753
+      "UsersEstimate": 1754
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -9427,7 +9432,7 @@
       "Name": "Out of Scope",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "REWARD_32_RIGGED_BLOW",
@@ -9443,7 +9448,7 @@
       "Name": "My Little Friend",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -9459,7 +9464,7 @@
       "Name": "Lord of War",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -9499,7 +9504,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1544
+      "UsersEstimate": 1545
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -9547,7 +9552,7 @@
       "Name": "Eagle Eyed",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "REWARD_48_WORKBENCH_USER",
@@ -9563,7 +9568,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1419
+      "UsersEstimate": 1420
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -9595,7 +9600,7 @@
       "Name": "Up close and personal",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "REWARD_66_VEHICULAR_OMNICIDE",
@@ -9619,7 +9624,7 @@
       "Name": "Taking it back",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1252
+      "UsersEstimate": 1253
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -9643,7 +9648,7 @@
       "Name": "Target America",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -9667,7 +9672,7 @@
       "Name": "Can\u0027t Outrun A Bullet",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "REWARD_DLC01_01_FUHRERIOUS_REPETITION",
@@ -9675,7 +9680,7 @@
       "Name": "F\u00FChrerious Repetition",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "REWARD_DLC01_02_REICH_TO_THE_POINT",
@@ -9683,7 +9688,7 @@
       "Name": "Reich To The Point",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "REWARD_DLC01_03_FROM_FUHRER_AWAY",
@@ -9699,7 +9704,7 @@
       "Name": "Covert Elimination",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "REWARD_DLC01_05_ALPHA",
@@ -9803,7 +9808,7 @@
       "Name": "Sink or Swim",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "REWARD_DLC04_03_GOING_OVERBOARD",
@@ -9818,13 +9823,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4125,
+      "Progressed": 4127,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4174,
+      "Progressed": 4176,
       "Completed": 11
     }
   ],
@@ -9832,8 +9837,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-31T17:57:21.8483577+00:00",
-  "LastChanged_Achievements": "2024-01-01T12:09:50.2205558+00:00",
+  "LastChanged_Achievements": "2024-01-01T13:12:40.7378863+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:41.6601563+00:00",
-  "LastUpdate_Ratings": "2024-01-01T11:57:58.7222587+00:00",
-  "LastUpdate_Achievements": "2024-01-01T12:09:50.2206427+00:00"
+  "LastUpdate_Ratings": "2024-01-01T13:01:05.6643098+00:00",
+  "LastUpdate_Achievements": "2024-01-01T13:12:40.7379787+00:00"
 }

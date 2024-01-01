@@ -31,7 +31,7 @@
   "Tags": [],
   "EOS_Progressed": 1893,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 3.7,
   "EosHistory": [
@@ -4339,9 +4339,9 @@
       "ID": "ACH_SHRINEARRIVER",
       "SetID": "7pam6gn",
       "Name": "Shrine Arriver",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 208
+      "UsersEstimate": 227
     },
     {
       "ID": "ACH_STRANGERENCOUNTERER",
@@ -4380,8 +4380,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2024-01-01T12:10:25.3720022+00:00",
+  "LastChanged_Achievements": "2024-01-01T13:13:09.8702781+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.182252+00:00",
-  "LastUpdate_Ratings": "2024-01-01T12:00:37.7589371+00:00",
-  "LastUpdate_Achievements": "2024-01-01T12:10:25.3720403+00:00"
+  "LastUpdate_Ratings": "2024-01-01T13:03:17.7573798+00:00",
+  "LastUpdate_Achievements": "2024-01-01T13:13:09.8703098+00:00"
 }

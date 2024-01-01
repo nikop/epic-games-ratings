@@ -3,8 +3,8 @@
   "Name": "Sherlock Holmes The Awakened",
   "ProductSlug": "sherlock-holmes-the-awakened",
   "Ranking_Rating": 614,
-  "Ranking_Popularity": 576,
-  "Ranking_PopularitySum": 576,
+  "Ranking_Popularity": 577,
+  "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 116,
   "Ranking_EOS_NewPlayers": 268,
@@ -165,7 +165,7 @@
   "Tags": [],
   "EOS_Progressed": 1371,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.77,
   "EosHistory": [
@@ -4886,9 +4886,9 @@
       "ID": "MQ03_3",
       "SetID": "bbing49",
       "Name": "History Check",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 631
+      "UsersEstimate": 644
     },
     {
       "ID": "MQ03_4",
@@ -4902,17 +4902,17 @@
       "ID": "MQ03_5",
       "SetID": "bbing49",
       "Name": "A Method To His Madness",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 644
+      "UsersEstimate": 658
     },
     {
       "ID": "MQ04_1",
       "SetID": "bbing49",
       "Name": "Going Once...",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 480
+      "UsersEstimate": 494
     },
     {
       "ID": "MQ04_2",
@@ -5055,8 +5055,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-27T11:03:12.3161328+00:00",
-  "LastChanged_Achievements": "2024-01-01T12:05:25.0080381+00:00",
+  "LastChanged_Achievements": "2024-01-01T13:08:05.7083586+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:32.3322639+00:00",
-  "LastUpdate_Ratings": "2024-01-01T12:03:33.8574632+00:00",
-  "LastUpdate_Achievements": "2024-01-01T12:05:25.00807+00:00"
+  "LastUpdate_Ratings": "2024-01-01T13:06:32.5821835+00:00",
+  "LastUpdate_Achievements": "2024-01-01T13:08:05.7083885+00:00"
 }

@@ -5,21 +5,21 @@ Rating: 4.63 (Ranked 359)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 13.00% | ~864 |
+| Secret Technique | 13.00% | ~865 |
 | Realm Estate | 11.00% | ~732 |
 | A Wonderful Discovery | 11.00% | ~732 |
-| Walls Cannot Stop Us | 10.00% | ~665 |
-| From Friends to Family | 9.00% | ~598 |
+| Walls Cannot Stop Us | 10.00% | ~666 |
+| From Friends to Family | 9.00% | ~599 |
 | Bone Peddler | 8.00% | ~532 |
 | Magical Synergy | 7.00% | ~466 |
 | There Can Only Be One! | 6.00% | ~399 |
 | Full Ascension | 6.00% | ~399 |
 | Stronger Together | 6.00% | ~399 |
 | Seat of Power | 6.00% | ~399 |
-| Valley of Wonders | 5.00% | ~332 |
-| In a Liege of Your Own | 5.00% | ~332 |
-| Intimidation Tactics | 5.00% | ~332 |
-| But this one is mine | 5.00% | ~332 |
+| Valley of Wonders | 5.00% | ~333 |
+| In a Liege of Your Own | 5.00% | ~333 |
+| Intimidation Tactics | 5.00% | ~333 |
+| But this one is mine | 5.00% | ~333 |
 | My Final Form | 4.00% | ~266 |
 | Return of the Wizard King | 3.00% | ~200 |
 | Enchanted Archipelago | 3.00% | ~200 |
@@ -39,18 +39,18 @@ Rating: 4.63 (Ranked 359)
 | Sehiran Oasis | 2.00% | ~133 |
 | Chaos Surge | 2.00% | ~133 |
 | Spoils of War | 2.00% | ~133 |
-| I've Got Everything I Need Right Here | 1.00% | ~66 |
-| God Emperor | 1.00% | ~66 |
-| Lord of Chaos | 1.00% | ~66 |
-| The Goddess of Nature | 1.00% | ~66 |
-| Eternal Lord | 1.00% | ~66 |
-| Manufactured War | 1.00% | ~66 |
-| The Eternal Court | 1.00% | ~66 |
-| Pruning for Progress | 1.00% | ~66 |
-| Prometheus Avenged | 1.00% | ~66 |
-| Seal the Deal | 1.00% | ~66 |
-| A Conqueror's Cohort | 1.00% | ~66 |
-| Dawn of the Dread | 1.00% | ~66 |
+| I've Got Everything I Need Right Here | 1.00% | ~67 |
+| God Emperor | 1.00% | ~67 |
+| Lord of Chaos | 1.00% | ~67 |
+| The Goddess of Nature | 1.00% | ~67 |
+| Eternal Lord | 1.00% | ~67 |
+| Manufactured War | 1.00% | ~67 |
+| The Eternal Court | 1.00% | ~67 |
+| Pruning for Progress | 1.00% | ~67 |
+| Prometheus Avenged | 1.00% | ~67 |
+| Seal the Deal | 1.00% | ~67 |
+| A Conqueror's Cohort | 1.00% | ~67 |
+| Dawn of the Dread | 1.00% | ~67 |
 | Grexolis | 0.90% | ~60 |
 | One for All, All for One | 0.80% | ~53 |
 | Duality | 0.80% | ~53 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 359)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,650 (Ranked 195)  
+Progressed: 6,655 (Ranked 195)  
 Completed: 7 (0.11%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 7 (0.11%) (Ranked 302)
 | 2023-12-29 | 6,495 | 7 |
 | 2023-12-30 | 6,566 | 7 |
 | 2023-12-31 | 6,624 | 7 |
-| 2024-01-01 | 6,650 | 7 |
+| 2024-01-01 | 6,655 | 7 |
 ## Awards
 Max (Great for Beginners): 39  (Ranked 479)  
 Sum: 184 (Ranked 423)  

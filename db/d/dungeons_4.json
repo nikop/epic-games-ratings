@@ -2,13 +2,13 @@
   "ID": "63afbcc46a714796af53032c2b3ed4b3",
   "Name": "Dungeons 4",
   "ProductSlug": "dungeons-4-595454",
-  "Ranking_Rating": 262,
-  "Ranking_Popularity": 576,
-  "Ranking_PopularitySum": 576,
-  "Ranking_EOS_Progress": 314,
+  "Ranking_Rating": 263,
+  "Ranking_Popularity": 577,
+  "Ranking_PopularitySum": 577,
+  "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -47,11 +47,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 683,
+  "EOS_Progressed": 684,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 3.81,
+  "EOS_Completed_Percentage": 3.8,
   "EosHistory": [
     {
       "Time": "2023-11-09T19:14:40.2664678+00:00",
@@ -2092,6 +2092,11 @@
       "Time": "2024-01-01T12:09:19.2534704+00:00",
       "NumProgressed": 683,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2024-01-01T13:12:15.1092565+00:00",
+      "NumProgressed": 684,
+      "NumCompleted": 26
     }
   ],
   "AchievementsAdded": "2023-11-07T12:05:38.3005436+00:00",
@@ -2102,9 +2107,9 @@
       "ID": "ach_main01begin_completed",
       "SetID": "4hg22ll",
       "Name": "The Last Stand",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 601
+      "UsersEstimate": 609
     },
     {
       "ID": "ach_main01begin_die",
@@ -2112,7 +2117,7 @@
       "Name": "Thalya\u00A0\u2013 Simply Immortal",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "ach_main01begin_storm",
@@ -2120,7 +2125,7 @@
       "Name": "Thalya\u0027s Concentrated Fury",
       "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "ach_main02horde_completed",
@@ -2128,7 +2133,7 @@
       "Name": "Hammer Time, Round Two",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "ach_main02horde_creatures",
@@ -2136,7 +2141,7 @@
       "Name": "For the Horde!",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "ach_main02horde_traps",
@@ -2152,7 +2157,7 @@
       "Name": "The Hellwoods",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "ach_main03demon_doors",
@@ -2160,7 +2165,7 @@
       "Name": "Master of Magic",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "ach_main03demon_spells",
@@ -2168,7 +2173,7 @@
       "Name": "Magic Accidents",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "ach_main04undead_completed",
@@ -2200,7 +2205,7 @@
       "Name": "Bad Elves Go Everywhere",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "ach_main05evil_thalyalevel",
@@ -2214,9 +2219,9 @@
       "ID": "ach_main05evil_unicorn",
       "SetID": "4hg22ll",
       "Name": "Unicorn steaks\u00A0\u2013 fresh off the hoof!",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 430
+      "UsersEstimate": 424
     },
     {
       "ID": "ach_main06transporter_completed",
@@ -2224,7 +2229,7 @@
       "Name": "Heroes\u2019 Gorge",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "ach_main06transporter_towers",
@@ -2240,7 +2245,7 @@
       "Name": "YOU SHALL NOT PASS!",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "ach_main07storm_classified",
@@ -2256,7 +2261,7 @@
       "Name": "The Ascent",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "ach_main07storm_dynamite",
@@ -2264,7 +2269,7 @@
       "Name": "Pure Dynamite!",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "ach_main07storm_storm",
@@ -2272,7 +2277,7 @@
       "Name": "It\u0027s Warm and Cozy at Home",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "ach_main08sacrifice_completed",
@@ -2288,7 +2293,7 @@
       "Name": "Hungry, Hungry Gorgu!",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "ach_main08sacrifice_overfed",
@@ -2296,7 +2301,7 @@
       "Name": "Not Even a Tiny Thin Mint Wafer, Thanks!",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ach_main09journey_completed",
@@ -2304,7 +2309,7 @@
       "Name": "\u201C\u2026 like son\u201D",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "ach_main09journey_killheroes",
@@ -2312,7 +2317,7 @@
       "Name": "Dungeonlord Gorgu",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "ach_main09journey_nospells",
@@ -2320,7 +2325,7 @@
       "Name": "Forbidden Knowledge",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ach_main10fire_completed",
@@ -2352,7 +2357,7 @@
       "Name": "Tanos\u0027 Crusade Against Thalya",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "ach_main11blessing_ghostheroes",
@@ -2368,23 +2373,23 @@
       "Name": "Master of the Undead",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "ach_main12race_completed",
       "SetID": "4hg22ll",
       "Name": "All\u2019s Well That Ends Evil",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 280
+      "UsersEstimate": 274
     },
     {
       "ID": "ach_main12race_tanosevilness",
       "SetID": "4hg22ll",
       "Name": "Stop Tanos!",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 184
+      "UsersEstimate": 178
     },
     {
       "ID": "ach_main12race_torture",
@@ -2446,9 +2451,9 @@
       "ID": "ach_main15drill_completed",
       "SetID": "4hg22ll",
       "Name": "The Finitude Drill",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 219
     },
     {
       "ID": "ach_main15drill_sabotage",
@@ -2488,7 +2493,7 @@
       "Name": "Rubble and Ashes",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ach_main17stone_completed",
@@ -2504,7 +2509,7 @@
       "Name": "Brimstone Shaken, Not Stirred",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ach_main17stone_transporter",
@@ -2520,7 +2525,7 @@
       "Name": "The Rune Sockets of Finitude (Part 1)",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "ach_main18unholy_researches",
@@ -2591,7 +2596,7 @@
     {
       "ID": "4hg22ll",
       "IsBase": true,
-      "Progressed": 683,
+      "Progressed": 684,
       "Completed": 26
     }
   ],
@@ -2599,8 +2604,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-01T11:59:08.1802678+00:00",
-  "LastChanged_Achievements": "2024-01-01T12:09:19.25347+00:00",
+  "LastChanged_Achievements": "2024-01-01T13:12:15.1092562+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:16.0613697+00:00",
-  "LastUpdate_Ratings": "2024-01-01T11:59:08.1802682+00:00",
-  "LastUpdate_Achievements": "2024-01-01T12:09:19.253535+00:00"
+  "LastUpdate_Ratings": "2024-01-01T13:02:04.5063537+00:00",
+  "LastUpdate_Achievements": "2024-01-01T13:12:15.1093116+00:00"
 }

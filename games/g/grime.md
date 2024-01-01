@@ -1,7 +1,7 @@
 # GRIME
 [Store](https://store.epicgames.com/en-US/p/grime)  
 [View Rawdata](../../db/g/grime.json)  
-Rating: 4.59 (Ranked 445)  
+Rating: 4.59 (Ranked 446)  
 Number of Ratings: 46  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -19,8 +19,8 @@ Number of Ratings: 46  (23.09.2022)
 | Feast | 0.60% | ~995 |
 | Yank | 0.60% | ~995 |
 | Scion | 0.50% | ~827 |
-| Jawstag | 0.50% | ~829 |
-| Watcher | 0.50% | ~829 |
+| Jawstag | 0.50% | ~830 |
+| Watcher | 0.50% | ~830 |
 | Shapely | 0.40% | ~664 |
 | Glare | 0.40% | ~662 |
 | Predator | 0.40% | ~664 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~165 |
 | Intensify | 0.10% | ~165 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 165,894 (Ranked 84)  
+Progressed: 165,900 (Ranked 84)  
 Completed: 433 (0.26%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,10 +286,10 @@ Completed: 433 (0.26%) (Ranked 261)
 | 2023-12-29 | 165,352 | 424 |
 | 2023-12-30 | 165,580 | 427 |
 | 2023-12-31 | 165,805 | 431 |
-| 2024-01-01 | 165,894 | 433 |
+| 2024-01-01 | 165,900 | 433 |
 ## Awards
 Max (Unique Visuals): 61  (Ranked 424)  
-Sum: 434 (Ranked 343)  
+Sum: 436 (Ranked 343)  
 Diff (max vs sum): 81  
 | Award | Count |
 | ----- | ----- |
@@ -299,7 +299,7 @@ Diff (max vs sum): 81
 | This game has Amazing Storytelling | 58 |
 | This game has Challenging Combat | 56 |
 | This game is Extremely Fun | 52 |
-| This game has Amazing Characters | 50 |
+| This game has Amazing Characters | 52 |
 | This game has a Creative Community | 40 |
 | This game has Diverse Characters | 20 |
 ## Ratings History
@@ -476,3 +476,4 @@ Diff (max vs sum): 81
 | 2023-12-29 | 4.59 | - | 60 | 431 |
 | 2023-12-30 | 4.59 | - | 61 | 433 |
 | 2023-12-31 | 4.59 | - | 61 | 434 |
+| 2024-01-01 | 4.59 | - | 61 | 436 |

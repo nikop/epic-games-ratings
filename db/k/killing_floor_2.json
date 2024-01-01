@@ -2,7 +2,7 @@
   "ID": "affc33b82405457595a032f00284abd2",
   "Name": "Killing Floor 2",
   "ProductSlug": "killing-floor-2",
-  "Ranking_Rating": 718,
+  "Ranking_Rating": 717,
   "Ranking_Popularity": 29,
   "Ranking_PopularitySum": 42,
   "Ranking_EOS_Progress": 819,
@@ -12787,18 +12787,24 @@
       "Rating": 4.43,
       "NumberOfAwards": 32453,
       "NumberOfAwardsMax": 14091
+    },
+    {
+      "Time": "2024-01-01T13:01:54.2705162+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 32466,
+      "NumberOfAwardsMax": 14104
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32453,
-  "NumberOfAwardsMax": 14091,
+  "NumberOfAwards": 32466,
+  "NumberOfAwardsMax": 14104,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 14091
+      "Count": 14104
     },
     {
       "Text": "This game is Relaxing",
@@ -12866,8 +12872,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:46.1518671+00:00",
-  "LastChanged": "2024-01-01T10:59:12.1737942+00:00",
+  "LastChanged": "2024-01-01T13:01:54.270516+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:55.8636958+00:00",
-  "LastUpdate_Ratings": "2024-01-01T11:58:55.8208181+00:00",
-  "LastUpdate_Achievements": "2024-01-01T12:03:59.2708574+00:00"
+  "LastUpdate_Ratings": "2024-01-01T13:01:54.2705166+00:00",
+  "LastUpdate_Achievements": "2024-01-01T13:06:55.5388942+00:00"
 }

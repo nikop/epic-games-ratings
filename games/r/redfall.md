@@ -12,8 +12,8 @@ Rating: 3.64 (Ranked 1,082)
 | Wounded Whispers | 12.00% | ~264 |
 | Blood Will Have Blood | 10.00% | ~220 |
 | Ne Plus Ultra | 10.00% | ~220 |
+| Peek-a-boo | 10.00% | ~220 |
 | Fly Fisher | 9.00% | ~198 |
-| Peek-a-boo | 9.00% | ~198 |
 | Sucks To Be You | 9.00% | ~198 |
 | Throw The First Stone | 8.00% | ~176 |
 | Enter of Your Own Free Will | 7.00% | ~154 |
@@ -72,7 +72,7 @@ Rating: 3.64 (Ranked 1,082)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,199 (Ranked 238)  
+Progressed: 2,200 (Ranked 238)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,10 +205,10 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-29 | 2,155 | 0 |
 | 2023-12-30 | 2,176 | 0 |
 | 2023-12-31 | 2,191 | 0 |
-| 2024-01-01 | 2,199 | 0 |
+| 2024-01-01 | 2,200 | 0 |
 ## Awards
-Max (Great Boss Battles): 20  (Ranked 571)  
-Sum: 20 (Ranked 572)  
+Max (Great Boss Battles): 20  (Ranked 572)  
+Sum: 20 (Ranked 573)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |

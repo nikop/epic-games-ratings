@@ -1,27 +1,27 @@
 # Salt and Sanctuary
 [Store](https://store.epicgames.com/en-US/p/salt-and-sanctuary)  
 [View Rawdata](../../db/s/salt_and_sanctuary.json)  
-Rating: 4.61 (Ranked 399)  
+Rating: 4.61 (Ranked 398)  
 Number of Ratings: 3,114  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~450,616 |
-| The Three | 64.00% | ~347,463 |
-| The Banquet | 40.00% | ~217,164 |
-| Devara's Light | 31.00% | ~168,302 |
-| The Iron Ones | 19.00% | ~103,153 |
-| The Village | 17.00% | ~92,295 |
-| The Forest | 15.00% | ~81,437 |
-| The Imposter | 14.00% | ~76,008 |
-| The Keep | 14.00% | ~76,008 |
-| Branded | 13.00% | ~70,578 |
-| The Castle | 11.00% | ~59,720 |
-| The Dome | 9.00% | ~48,862 |
-| The Red Hall | 9.00% | ~48,862 |
-| The Sacrifice | 9.00% | ~48,862 |
-| The Cave | 8.00% | ~43,433 |
-| The Ziggurat | 8.00% | ~43,433 |
+| Find Sanctuary | 83.00% | ~450,624 |
+| The Three | 64.00% | ~347,469 |
+| The Banquet | 40.00% | ~217,168 |
+| Devara's Light | 31.00% | ~168,306 |
+| The Iron Ones | 19.00% | ~103,155 |
+| The Village | 17.00% | ~92,297 |
+| The Forest | 15.00% | ~81,438 |
+| The Imposter | 14.00% | ~76,009 |
+| The Keep | 14.00% | ~76,009 |
+| Branded | 13.00% | ~70,580 |
+| The Castle | 11.00% | ~59,721 |
+| The Dome | 9.00% | ~48,863 |
+| The Red Hall | 9.00% | ~48,863 |
+| The Sacrifice | 9.00% | ~48,863 |
+| The Cave | 8.00% | ~43,434 |
+| The Ziggurat | 8.00% | ~43,434 |
 | The Mire | 7.00% | ~38,004 |
 | The Stone Roots | 7.00% | ~38,004 |
 | Storied | 6.00% | ~32,575 |
@@ -30,13 +30,13 @@ Number of Ratings: 3,114  (23.09.2022)
 | The Ruins | 6.00% | ~32,575 |
 | The Alkymancery | 5.00% | ~27,146 |
 | The Pitchwoods | 5.00% | ~27,146 |
-| Honed | 4.00% | ~21,716 |
-| The House of Splendor | 4.00% | ~21,716 |
-| The Crypt | 4.00% | ~21,716 |
-| The Palace | 4.00% | ~21,716 |
-| Coastrock | 3.00% | ~16,287 |
-| Find Salvation | 3.00% | ~16,287 |
-| The Unspeakable Deep | 3.00% | ~16,287 |
+| Honed | 4.00% | ~21,717 |
+| The House of Splendor | 4.00% | ~21,717 |
+| The Crypt | 4.00% | ~21,717 |
+| The Palace | 4.00% | ~21,717 |
+| Coastrock | 3.00% | ~16,288 |
+| Find Salvation | 3.00% | ~16,288 |
+| The Unspeakable Deep | 3.00% | ~16,288 |
 | Devoted | 2.00% | ~10,858 |
 | Dominion | 2.00% | ~10,858 |
 | Keepers of Fire and Sky | 2.00% | ~10,858 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,858 |
 | Fading Fast | 1.00% | ~5,429 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 542,911 (Ranked 34)  
+Progressed: 542,921 (Ranked 34)  
 Completed: 1,664 (0.31%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,10 +300,10 @@ Completed: 1,664 (0.31%) (Ranked 249)
 | 2023-12-29 | 542,546 | 1,660 |
 | 2023-12-30 | 542,699 | 1,663 |
 | 2023-12-31 | 542,847 | 1,664 |
-| 2024-01-01 | 542,911 | 1,664 |
+| 2024-01-01 | 542,921 | 1,664 |
 ## Awards
 Max (Challenging Combat): 296  (Ranked 261)  
-Sum: 2,025 (Ranked 216)  
+Sum: 2,027 (Ranked 216)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
@@ -313,7 +313,7 @@ Diff (max vs sum): 45
 | This game is Extremely Fun | 249 |
 | This game has Diverse Characters | 247 |
 | This game has Amazing Storytelling | 236 |
-| This game has Amazing Characters | 233 |
+| This game has Amazing Characters | 235 |
 | This game has Unique Visuals | 229 |
 | This game has Obsessive Gameplay | 164 |
 | This game has a Creative Community | 94 |
@@ -521,4 +521,4 @@ Diff (max vs sum): 45
 | 2023-12-29 | 4.61 | - | 296 | 2,019 |
 | 2023-12-30 | 4.61 | - | 296 | 2,022 |
 | 2023-12-31 | 4.61 | - | 296 | 2,024 |
-| 2024-01-01 | 4.61 | - | 296 | 2,025 |
+| 2024-01-01 | 4.61 | - | 296 | 2,027 |

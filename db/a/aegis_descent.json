@@ -4,7 +4,7 @@
   "ProductSlug": "aegis-descent-a1f5a0",
   "Ranking_EOS_Progress": 356,
   "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 428,
+  "Ranking_EOS_NewPlayers": 416,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 442,
+  "EOS_Progressed": 443,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -500,6 +500,11 @@
       "Time": "2023-12-30T12:08:45.6656391+00:00",
       "NumProgressed": 442,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-01T13:11:54.0961437+00:00",
+      "NumProgressed": 443,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -551,7 +556,7 @@
       "Name": "Clean Sweep",
       "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "Award_DeathFromAbove",
@@ -559,7 +564,7 @@
       "Name": "Death from Above",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "Award_DemolitionDerby",
@@ -583,7 +588,7 @@
       "Name": "DocKing",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "Award_EarlyBird",
@@ -623,7 +628,7 @@
       "Name": "Gunner",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "Award_HalfwayThere",
@@ -687,7 +692,7 @@
       "Name": "Line of Duty",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "Award_MilitaryIntelligence",
@@ -757,9 +762,9 @@
       "ID": "Award_Scavenger",
       "SetID": "9ojec6n",
       "Name": "Scavenger",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 327
+      "UsersEstimate": 323
     },
     {
       "ID": "Award_ShellShock",
@@ -862,7 +867,7 @@
     {
       "ID": "9ojec6n",
       "IsBase": true,
-      "Progressed": 442,
+      "Progressed": 443,
       "Completed": 1
     }
   ],
@@ -870,8 +875,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2024-01-01T12:08:54.9454514+00:00",
+  "LastChanged_Achievements": "2024-01-01T13:11:54.0961433+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:43.8568762+00:00",
-  "LastUpdate_Ratings": "2024-01-01T12:00:55.3036628+00:00",
-  "LastUpdate_Achievements": "2024-01-01T12:08:54.9454814+00:00"
+  "LastUpdate_Ratings": "2024-01-01T13:03:32.6267233+00:00",
+  "LastUpdate_Achievements": "2024-01-01T13:11:54.0961853+00:00"
 }

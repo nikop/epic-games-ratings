@@ -1,13 +1,13 @@
 # Dice Legacy
 [Store](https://store.epicgames.com/en-US/p/dice-legacy)  
 [View Rawdata](../../db/d/dice_legacy.json)  
-Rating: 4.29 (Ranked 875)  
+Rating: 4.29 (Ranked 876)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | We made it | 42.00% | ~540 |
 | The City | 11.00% | ~141 |
-| Manipulating Fate | 10.00% | ~128 |
+| Manipulating Fate | 10.00% | ~129 |
 | Full house | 7.00% | ~90 |
 | Burn and Pillage | 7.00% | ~90 |
 | Hear me out | 7.00% | ~90 |
@@ -51,7 +51,7 @@ Rating: 4.29 (Ranked 875)
 | Purist | 0.00% | ~0 |
 | King of the Dice | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,285 (Ranked 273)  
+Progressed: 1,286 (Ranked 273)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-29 | 1,274 | 0 |
 | 2023-12-30 | 1,282 | 0 |
 | 2023-12-31 | 1,284 | 0 |
-| 2024-01-01 | 1,285 | 0 |
+| 2024-01-01 | 1,286 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
