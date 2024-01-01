@@ -1,7 +1,7 @@
 # Session: Skate Sim
 [Store](https://store.epicgames.com/en-US/p/session-skate-sim)  
 [View Rawdata](../../db/s/session__skate_sim.json)  
-Rating: 4.69 (Ranked 233)  
+Rating: 4.69 (Ranked 234)  
 Number of Ratings: 111  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -30,6 +30,7 @@ Number of Ratings: 111  (23.09.2022)
 | Squad goals | 6.00% | ~209 |
 | Sup widdit big dog! | 6.00% | ~209 |
 | Commence the Hijinx! | 5.00% | ~174 |
+| Cops called! | 5.00% | ~174 |
 | DIY Boss | 5.00% | ~174 |
 | Globetrotter | 5.00% | ~174 |
 | Laid back | 5.00% | ~174 |
@@ -39,7 +40,6 @@ Number of Ratings: 111  (23.09.2022)
 | Tank commander | 5.00% | ~174 |
 | Trick shot marksman | 5.00% | ~174 |
 | We get it, you're good | 5.00% | ~174 |
-| Cops called! | 4.00% | ~139 |
 | G.O.A.T. status | 4.00% | ~139 |
 | Hoarder | 4.00% | ~139 |
 | Prince of Philly | 4.00% | ~139 |
@@ -56,7 +56,7 @@ Number of Ratings: 111  (23.09.2022)
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,477 (Ranked 220)  
-Completed: 2 (0.06%) (Ranked 327)  
+Completed: 2 (0.06%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

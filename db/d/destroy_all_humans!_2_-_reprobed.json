@@ -5,7 +5,7 @@
   "Ranking_Rating": 560,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 521,
-  "Ranking_EOS_Progress": 400,
+  "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 109,
@@ -288,9 +288,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 268,
+  "EOS_Progressed": 270,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -1333,6 +1333,11 @@
       "Time": "2023-12-31T23:10:00.2745807+00:00",
       "NumProgressed": 268,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-01T00:09:07.0892037+00:00",
+      "NumProgressed": 270,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1345,7 +1350,7 @@
       "Name": "Mash Machine",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 200
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1375,9 +1380,9 @@
       "ID": "ACH_CHANGE_SKIN",
       "SetID": "4n84pon",
       "Name": "Furon Fashion",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 127
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -1415,9 +1420,9 @@
       "ID": "ACH_COMPLETE_ARK01",
       "SetID": "4n84pon",
       "Name": "Cult Following",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 89
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -1457,7 +1462,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -1473,15 +1478,15 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
       "SetID": "4n84pon",
       "Name": "Rock of the Bay",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 217
+      "UsersEstimate": 216
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1513,7 +1518,7 @@
       "Name": "Bodied Sattva",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -1601,7 +1606,7 @@
       "Name": "Upgreatest",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
@@ -1633,7 +1638,7 @@
       "Name": "Dusted",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_SKATE_BAYCITY",
@@ -1681,22 +1686,22 @@
       "Name": "Shop Til They Drop",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
       "SetID": "4n84pon",
       "Name": "Pimp My Raid",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 62
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 268,
+      "Progressed": 270,
       "Completed": 1
     }
   ],
@@ -1704,8 +1709,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-31T11:01:39.7283208+00:00",
-  "LastChanged_Achievements": "2023-12-31T23:10:00.2745802+00:00",
+  "LastChanged_Achievements": "2024-01-01T00:09:07.0892033+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.261947+00:00",
-  "LastUpdate_Ratings": "2023-12-31T22:57:14.0906015+00:00",
-  "LastUpdate_Achievements": "2023-12-31T23:10:00.2746404+00:00"
+  "LastUpdate_Ratings": "2023-12-31T23:57:05.2418548+00:00",
+  "LastUpdate_Achievements": "2024-01-01T00:09:07.0892434+00:00"
 }

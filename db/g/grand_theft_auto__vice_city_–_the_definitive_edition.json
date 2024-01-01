@@ -6,9 +6,9 @@
   "Ranking_Popularity": 317,
   "Ranking_PopularitySum": 431,
   "Ranking_EOS_Progress": 169,
-  "Ranking_EOS_Completed": 209,
+  "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -1033,11 +1033,11 @@
       "Count": 168
     }
   ],
-  "EOS_Progressed": 14859,
-  "EOS_Completed": 83,
-  "EOS_NewPlayers": 996,
-  "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 0.56,
+  "EOS_Progressed": 14867,
+  "EOS_Completed": 84,
+  "EOS_NewPlayers": 999,
+  "EOS_NewCompleters": 9,
+  "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.1062688+00:00",
@@ -16543,6 +16543,11 @@
       "Time": "2023-12-31T23:10:42.6253163+00:00",
       "NumProgressed": 14859,
       "NumCompleted": 83
+    },
+    {
+      "Time": "2024-01-01T00:09:40.2386186+00:00",
+      "NumProgressed": 14867,
+      "NumCompleted": 84
     }
   ],
   "TotalAchievements": 34,
@@ -16570,7 +16575,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 1486
+      "UsersEstimate": 1487
     },
     {
       "ID": "ACH04",
@@ -16610,7 +16615,7 @@
       "Name": "Pie Guy",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "ACH09",
@@ -16634,7 +16639,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1634
+      "UsersEstimate": 1635
     },
     {
       "ID": "ACH12",
@@ -16658,7 +16663,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 6241
+      "UsersEstimate": 6244
     },
     {
       "ID": "ACH15",
@@ -16682,7 +16687,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1337
+      "UsersEstimate": 1338
     },
     {
       "ID": "ACH18",
@@ -16714,7 +16719,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 6835
+      "UsersEstimate": 6839
     },
     {
       "ID": "ACH22",
@@ -16722,7 +16727,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2972
+      "UsersEstimate": 2973
     },
     {
       "ID": "ACH23",
@@ -16730,7 +16735,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 3863
+      "UsersEstimate": 3865
     },
     {
       "ID": "ACH24",
@@ -16738,7 +16743,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2229
+      "UsersEstimate": 2230
     },
     {
       "ID": "ACH25",
@@ -16746,7 +16751,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2229
+      "UsersEstimate": 2230
     },
     {
       "ID": "ACH26",
@@ -16754,7 +16759,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2229
+      "UsersEstimate": 2230
     },
     {
       "ID": "ACH27",
@@ -16825,16 +16830,16 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 14859,
-      "Completed": 83
+      "Progressed": 14867,
+      "Completed": 84
     }
   ],
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-12-31T02:24:57.6245262+00:00",
-  "LastChanged_Achievements": "2023-12-31T23:10:42.625316+00:00",
+  "LastChanged_Achievements": "2024-01-01T00:09:40.2386183+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:48.9246276+00:00",
-  "LastUpdate_Ratings": "2023-12-31T23:00:53.9975301+00:00",
-  "LastUpdate_Achievements": "2023-12-31T23:10:42.6254271+00:00"
+  "LastUpdate_Ratings": "2023-12-31T23:59:45.3864101+00:00",
+  "LastUpdate_Achievements": "2024-01-01T00:09:40.2387323+00:00"
 }

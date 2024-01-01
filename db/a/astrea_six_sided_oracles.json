@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -1854,9 +1854,9 @@
       "ID": "ApianChampion",
       "SetID": "1jeo1g7",
       "Name": "Apian Champion",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 54
     },
     {
       "ID": "ApianHero",
@@ -2005,8 +2005,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-12-31T23:09:27.5340485+00:00",
+  "LastChanged_Achievements": "2024-01-01T00:08:41.4115891+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:34.5642416+00:00",
-  "LastUpdate_Ratings": "2023-12-31T23:00:16.6876798+00:00",
-  "LastUpdate_Achievements": "2023-12-31T23:09:27.5341367+00:00"
+  "LastUpdate_Ratings": "2023-12-31T23:59:17.0908142+00:00",
+  "LastUpdate_Achievements": "2024-01-01T00:08:41.4116785+00:00"
 }

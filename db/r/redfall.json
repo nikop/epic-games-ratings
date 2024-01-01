@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -345,7 +345,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2191,
+  "EOS_Progressed": 2192,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
@@ -3745,6 +3745,11 @@
       "Time": "2023-12-31T23:06:20.5023522+00:00",
       "NumProgressed": 2191,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T00:05:13.3333155+00:00",
+      "NumProgressed": 2192,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3810,9 +3815,9 @@
       "ID": "Achievement_009",
       "SetID": "6b34g18",
       "Name": "Ne Plus Ultra",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 197
+      "UsersEstimate": 219
     },
     {
       "ID": "Achievement_010",
@@ -3892,7 +3897,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "Achievement_020",
@@ -3940,7 +3945,7 @@
       "Name": "Grounded",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "Achievement_026",
@@ -3970,9 +3975,9 @@
       "ID": "Achievement_029",
       "SetID": "6b34g18",
       "Name": "Throw The First Stone",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 175
     },
     {
       "ID": "Achievement_030",
@@ -4092,7 +4097,7 @@
       "Name": "Skin of Their Teeth",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "Achievement_046",
@@ -4283,7 +4288,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2191,
+      "Progressed": 2192,
       "Completed": 0
     }
   ],
@@ -4291,8 +4296,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-12-31T15:59:03.0757989+00:00",
-  "LastChanged_Achievements": "2023-12-31T23:06:20.5023516+00:00",
+  "LastChanged_Achievements": "2024-01-01T00:05:13.3333151+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.8280502+00:00",
-  "LastUpdate_Ratings": "2023-12-31T23:00:24.3104491+00:00",
-  "LastUpdate_Achievements": "2023-12-31T23:06:20.5024195+00:00"
+  "LastUpdate_Ratings": "2023-12-31T23:59:23.1555357+00:00",
+  "LastUpdate_Achievements": "2024-01-01T00:05:13.33338+00:00"
 }

@@ -6,7 +6,7 @@ Rating: 4.48 (Ranked 651)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eat My Dust | 48.00% | ~1,522 |
-| First Love | 45.00% | ~1,426 |
+| First Love | 45.00% | ~1,427 |
 | Clean Race | 44.00% | ~1,395 |
 | Hear That Roar! | 41.00% | ~1,300 |
 | Bitter Rivalry | 30.00% | ~951 |
@@ -23,7 +23,7 @@ Rating: 4.48 (Ranked 651)
 | Is It the Right Size? | 9.00% | ~285 |
 | Stamina Star | 8.00% | ~254 |
 | Evangelist | 7.00% | ~222 |
-| Make It Your Own! | 5.00% | ~158 |
+| Make It Your Own! | 5.00% | ~159 |
 | Cherry Blossom and Temples | 4.00% | ~127 |
 | The Road to Liberty | 4.00% | ~127 |
 | Spoilt for Choice | 3.00% | ~95 |
@@ -55,7 +55,7 @@ Rating: 4.48 (Ranked 651)
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,170 (Ranked 223)  
+Progressed: 3,171 (Ranked 223)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,6 +177,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-29 | 3,096 | 0 |
 | 2023-12-30 | 3,132 | 0 |
 | 2023-12-31 | 3,170 | 0 |
+| 2024-01-01 | 3,171 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

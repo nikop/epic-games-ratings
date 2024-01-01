@@ -97,11 +97,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2116,
+  "EOS_Progressed": 2117,
   "EOS_Completed": 129,
-  "EOS_NewPlayers": 384,
+  "EOS_NewPlayers": 383,
   "EOS_NewCompleters": 30,
-  "EOS_Completed_Percentage": 6.1,
+  "EOS_Completed_Percentage": 6.09,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -5937,6 +5937,11 @@
       "Time": "2023-12-31T23:08:31.1344586+00:00",
       "NumProgressed": 2116,
       "NumCompleted": 129
+    },
+    {
+      "Time": "2024-01-01T00:06:23.8374991+00:00",
+      "NumProgressed": 2117,
+      "NumCompleted": 129
     }
   ],
   "TotalAchievements": 25,
@@ -5980,7 +5985,7 @@
       "Name": "A good beginning",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "META_HALF_LINK",
@@ -6036,7 +6041,7 @@
       "Name": "A Link to the Past",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -6060,7 +6065,7 @@
       "Name": "True G3M4R",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -6092,7 +6097,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 1185
+      "UsersEstimate": 1186
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -6108,7 +6113,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1079
+      "UsersEstimate": 1080
     },
     {
       "ID": "PROGRESS_N2",
@@ -6124,7 +6129,7 @@
       "Name": "A new dawn",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "PROGRESS_N4",
@@ -6132,7 +6137,7 @@
       "Name": "The darkness",
       "Percentage": 28,
       "XP": 60,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "PROGRESS_N5",
@@ -6147,7 +6152,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2116,
+      "Progressed": 2117,
       "Completed": 129
     }
   ],
@@ -6155,8 +6160,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-31T07:01:38.7723363+00:00",
-  "LastChanged_Achievements": "2023-12-31T23:08:31.1344581+00:00",
+  "LastChanged_Achievements": "2024-01-01T00:06:23.8374987+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:09.4320521+00:00",
-  "LastUpdate_Ratings": "2023-12-31T23:02:43.7559194+00:00",
-  "LastUpdate_Achievements": "2023-12-31T23:08:31.1345306+00:00"
+  "LastUpdate_Ratings": "2024-01-01T00:00:20.6963682+00:00",
+  "LastUpdate_Achievements": "2024-01-01T00:06:23.8375445+00:00"
 }

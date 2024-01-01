@@ -1,24 +1,24 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.56 (Ranked 503)  
+Rating: 4.54 (Ranked 543)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 16.00% | ~2,868 |
-| Captain Drummer | 13.00% | ~2,330 |
-| Celebrations are in Order | 12.00% | ~2,151 |
+| Oyedang, Kopengs | 16.00% | ~2,869 |
+| Captain Drummer | 13.00% | ~2,331 |
+| Celebrations are in Order | 12.00% | ~2,152 |
 | The Pit and the Pirates | 11.00% | ~1,972 |
 | Martian Music | 11.00% | ~1,972 |
 | Drone Dodger | 11.00% | ~1,972 |
 | Bosmang | 11.00% | ~1,972 |
 | Impossible Objects | 11.00% | ~1,972 |
 | Spore Taste | 10.00% | ~1,793 |
-| Stogie for Fogey | 9.00% | ~1,613 |
-| Safe Cracker | 9.00% | ~349 |
-| Zen Master | 9.00% | ~349 |
+| Stogie for Fogey | 9.00% | ~1,614 |
+| Safe Cracker | 9.00% | ~350 |
+| Zen Master | 9.00% | ~350 |
 | Call it Even | 8.00% | ~1,434 |
-| Madame Undersecretary | 8.00% | ~310 |
+| Madame Undersecretary | 8.00% | ~311 |
 | Heal Thy Medic | 7.00% | ~1,255 |
 | Keep Arjun in Check | 7.00% | ~272 |
 | Data Archivist | 6.00% | ~1,076 |
@@ -36,12 +36,12 @@ Rating: 4.56 (Ranked 503)
 | Debris Spree | 2.00% | ~359 |
 | Data Recoverer | 2.00% | ~359 |
 | Urshanabi Hoarder | 1.00% | ~179 |
-| Grave Robber | 0.70% | ~125 |
+| Grave Robber | 0.70% | ~126 |
 | Data Miner | 0.60% | ~108 |
 | Scavenger Star | 0.30% | ~54 |
 | Data Collector | 0.20% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,926 (Ranked 157)  
+Progressed: 17,930 (Ranked 157)  
 Completed: 58 (0.32%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,6 +204,7 @@ Completed: 58 (0.32%) (Ranked 245)
 | 2023-12-29 | 17,756 | 57 |
 | 2023-12-30 | 17,838 | 57 |
 | 2023-12-31 | 17,926 | 58 |
+| 2024-01-01 | 17,930 | 58 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

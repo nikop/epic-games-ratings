@@ -8,7 +8,7 @@
 | The Remains of Fleed | 53.00% | ~30 |
 | The Legend | 51.00% | ~29 |
 | Strength in Defeat | 42.00% | ~24 |
-| Escape from Fleed | 39.00% | ~22 |
+| Escape from Fleed | 40.00% | ~23 |
 | First Contact | 37.00% | ~21 |
 | The Exterminator | 19.00% | ~11 |
 | Technology first! | 18.00% | ~10 |

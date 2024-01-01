@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10368,9 +10368,9 @@
       "Count": 1071
     }
   ],
-  "EOS_Progressed": 131026,
+  "EOS_Progressed": 131035,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1351,
+  "EOS_NewPlayers": 1355,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37733,6 +37733,11 @@
       "Time": "2023-12-31T23:10:37.0765729+00:00",
       "NumProgressed": 131026,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-01T00:09:35.9529626+00:00",
+      "NumProgressed": 131035,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37752,7 +37757,7 @@
       "Name": "Serenity Now!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6551
+      "UsersEstimate": 6552
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -37872,7 +37877,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6551
+      "UsersEstimate": 6552
     },
     {
       "ID": "combat_kill_cadavers",
@@ -37904,7 +37909,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6551
+      "UsersEstimate": 6552
     },
     {
       "ID": "combat_kill_fanatics",
@@ -37968,7 +37973,7 @@
       "Name": "Overdue Notice",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6551
+      "UsersEstimate": 6552
     },
     {
       "ID": "combat_kill_pillagers",
@@ -37984,7 +37989,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6551
+      "UsersEstimate": 6552
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -38280,7 +38285,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "combat_kill_collector",
@@ -38375,21 +38380,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131026,
+      "Progressed": 131035,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 5895,
+      "Progressed": 5904,
       "Completed": 820
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-12-31T22:58:15.9926305+00:00",
-  "LastChanged_Achievements": "2023-12-31T23:10:37.0765726+00:00",
+  "LastChanged_Achievements": "2024-01-01T00:09:35.9529623+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2023-12-31T22:58:15.9926311+00:00",
-  "LastUpdate_Achievements": "2023-12-31T23:10:37.076739+00:00"
+  "LastUpdate_Ratings": "2023-12-31T23:57:49.5363706+00:00",
+  "LastUpdate_Achievements": "2024-01-01T00:09:35.9531397+00:00"
 }

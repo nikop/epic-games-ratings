@@ -2,13 +2,13 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed Ecto Edition",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 613,
+  "Ranking_Rating": 612,
   "Ranking_Popularity": 254,
   "Ranking_PopularitySum": 185,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3903,7 +3903,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33028,
+  "EOS_Progressed": 33029,
   "EOS_Completed": 71,
   "EOS_NewPlayers": 370,
   "EOS_NewCompleters": 2,
@@ -24138,6 +24138,11 @@
       "Time": "2023-12-31T22:08:40.7114887+00:00",
       "NumProgressed": 33028,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-01T00:08:47.5909455+00:00",
+      "NumProgressed": 33029,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -24556,7 +24561,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33028,
+      "Progressed": 33029,
       "Completed": 71
     }
   ],
@@ -24564,8 +24569,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-12-31T08:57:45.2513751+00:00",
-  "LastChanged_Achievements": "2023-12-31T23:09:36.074487+00:00",
+  "LastChanged_Achievements": "2024-01-01T00:08:47.5909451+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:23.250158+00:00",
-  "LastUpdate_Ratings": "2023-12-31T22:58:36.5774448+00:00",
-  "LastUpdate_Achievements": "2023-12-31T23:09:36.0746129+00:00"
+  "LastUpdate_Ratings": "2023-12-31T23:58:04.0235581+00:00",
+  "LastUpdate_Achievements": "2024-01-01T00:08:47.5910717+00:00"
 }

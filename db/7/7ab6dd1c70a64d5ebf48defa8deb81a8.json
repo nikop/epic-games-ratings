@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -49,7 +49,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1577,
+  "EOS_Progressed": 1579,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 390,
   "EOS_NewCompleters": 0,
@@ -3109,6 +3109,11 @@
       "Time": "2023-12-31T22:09:53.4236901+00:00",
       "NumProgressed": 1577,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-01T00:10:02.6670147+00:00",
+      "NumProgressed": 1579,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -3118,9 +3123,9 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break Out",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 915
+      "UsersEstimate": 932
     },
     {
       "ID": "ACH_02",
@@ -3144,7 +3149,7 @@
       "Name": "Calm before the Storm",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH_05",
@@ -3166,9 +3171,9 @@
       "ID": "ACH_07",
       "SetID": "efe2lj",
       "Name": "Clear Sight",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 47
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_08",
@@ -3192,7 +3197,7 @@
       "Name": "Trinity",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "ACH_11",
@@ -3216,7 +3221,7 @@
       "Name": "Adventurer",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "ACH_14",
@@ -3224,7 +3229,7 @@
       "Name": "Airborne",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH_15",
@@ -3240,7 +3245,7 @@
       "Name": "Essence Blow",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ACH_17",
@@ -3256,7 +3261,7 @@
       "Name": "Shatter Them All",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "ACH_19",
@@ -3296,7 +3301,7 @@
       "Name": "Geared Up",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "ACH_24",
@@ -3320,7 +3325,7 @@
       "Name": "Scholar",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "ACH_27",
@@ -3352,7 +3357,7 @@
       "Name": "Alchemist",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ACH_31",
@@ -3407,7 +3412,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1577,
+      "Progressed": 1579,
       "Completed": 3
     }
   ],
@@ -3415,8 +3420,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2023-12-29T23:58:00.9350231+00:00",
-  "LastChanged_Achievements": "2023-12-31T23:11:11.1002025+00:00",
+  "LastChanged_Achievements": "2024-01-01T00:10:02.6670143+00:00",
   "LastUpdate_AppInfo": "2023-12-25T22:57:05.3300789+00:00",
-  "LastUpdate_Ratings": "2023-12-31T22:59:59.8594754+00:00",
-  "LastUpdate_Achievements": "2023-12-31T23:11:11.1002444+00:00"
+  "LastUpdate_Ratings": "2023-12-31T23:59:04.5928359+00:00",
+  "LastUpdate_Achievements": "2024-01-01T00:10:02.6670776+00:00"
 }

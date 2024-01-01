@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -669,7 +669,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6624,
+  "EOS_Progressed": 6626,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 472,
   "EOS_NewCompleters": 0,
@@ -9929,6 +9929,11 @@
       "Time": "2023-12-31T23:07:36.6997392+00:00",
       "NumProgressed": 6624,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-01T00:06:13.2931822+00:00",
+      "NumProgressed": 6626,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9948,7 +9953,7 @@
       "Name": "Snap Out of It!",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "11",
@@ -9956,7 +9961,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "12",
@@ -9972,7 +9977,7 @@
       "Name": "The Magic That Empowers Me!",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "14",
@@ -9980,7 +9985,7 @@
       "Name": "Full Ascension",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "15",
@@ -10012,7 +10017,7 @@
       "Name": "Arch Mage",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "19",
@@ -10020,7 +10025,7 @@
       "Name": "The Creator",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "2",
@@ -10076,7 +10081,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "26",
@@ -10108,7 +10113,7 @@
       "Name": "Stronger Together",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "3",
@@ -10116,7 +10121,7 @@
       "Name": "Crimson Caldera",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "30",
@@ -10124,7 +10129,7 @@
       "Name": "Preparation Is Everything",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "31",
@@ -10148,7 +10153,7 @@
       "Name": "Seat of Power",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "34",
@@ -10292,7 +10297,7 @@
       "Name": "Here be Dragons",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "46",
@@ -10300,7 +10305,7 @@
       "Name": "Tipping the Scales",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "47",
@@ -10316,7 +10321,7 @@
       "Name": "Blood of the Dragon",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "49",
@@ -10324,7 +10329,7 @@
       "Name": "Mighty Hoard",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "50",
@@ -10348,7 +10353,7 @@
       "Name": "Sehiran Oasis",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "53",
@@ -10364,7 +10369,7 @@
       "Name": "Chaos Surge",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "55",
@@ -10388,7 +10393,7 @@
       "Name": "Spoils of War",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "58",
@@ -10419,13 +10424,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6624,
+      "Progressed": 6626,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6624,
+      "Progressed": 6626,
       "Completed": 7
     }
   ],
@@ -10433,8 +10438,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-31T18:58:53.0277501+00:00",
-  "LastChanged_Achievements": "2023-12-31T23:07:36.6997387+00:00",
+  "LastChanged_Achievements": "2024-01-01T00:06:13.2931819+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2023-12-31T22:59:34.6218393+00:00",
-  "LastUpdate_Achievements": "2023-12-31T23:07:36.6998397+00:00"
+  "LastUpdate_Ratings": "2023-12-31T23:58:45.8728065+00:00",
+  "LastUpdate_Achievements": "2024-01-01T00:06:13.2932933+00:00"
 }

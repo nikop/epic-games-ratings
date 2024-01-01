@@ -267,9 +267,9 @@
       "ID": "3_RACES",
       "SetID": "2g288ag",
       "Name": "Triple Threat",
-      "Percentage": 67,
+      "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "5_MAPS",
@@ -283,9 +283,9 @@
       "ID": "5_RACES",
       "SetID": "2g288ag",
       "Name": "Quintessential Quest",
-      "Percentage": 51,
+      "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "NO_CRASH",
@@ -313,8 +313,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-23T19:03:08.11154+00:00",
-  "LastChanged_Achievements": "2023-12-31T23:08:42.9064251+00:00",
+  "LastChanged_Achievements": "2024-01-01T00:06:32.5031486+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:41.1375402+00:00",
-  "LastUpdate_Ratings": "2023-12-31T22:57:29.0982338+00:00",
-  "LastUpdate_Achievements": "2023-12-31T23:08:42.9064345+00:00"
+  "LastUpdate_Ratings": "2023-12-31T23:57:15.8562285+00:00",
+  "LastUpdate_Achievements": "2024-01-01T00:06:32.5031585+00:00"
 }

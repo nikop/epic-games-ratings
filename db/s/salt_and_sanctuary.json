@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 34,
   "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
     "PcReleaseDate": "2016-05-17T16:00:00+00:00",
@@ -2946,9 +2946,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 542847,
+  "EOS_Progressed": 542849,
   "EOS_Completed": 1664,
-  "EOS_NewPlayers": 967,
+  "EOS_NewPlayers": 964,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -31261,6 +31261,11 @@
       "Time": "2023-12-31T23:04:32.6925574+00:00",
       "NumProgressed": 542847,
       "NumCompleted": 1664
+    },
+    {
+      "Time": "2024-01-01T00:03:54.3390082+00:00",
+      "NumProgressed": 542849,
+      "NumCompleted": 1664
     }
   ],
   "TotalAchievements": 37,
@@ -31328,7 +31333,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 450563
+      "UsersEstimate": 450565
     },
     {
       "ID": "HONED",
@@ -31384,7 +31389,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 217139
+      "UsersEstimate": 217140
     },
     {
       "ID": "THE_CASTLE",
@@ -31528,7 +31533,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 347422
+      "UsersEstimate": 347423
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -31567,15 +31572,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 542847,
+      "Progressed": 542849,
       "Completed": 1664
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-12-31T21:02:56.805049+00:00",
-  "LastChanged_Achievements": "2023-12-31T23:04:32.692557+00:00",
+  "LastChanged_Achievements": "2024-01-01T00:03:54.3390075+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:29.3864589+00:00",
-  "LastUpdate_Ratings": "2023-12-31T23:03:09.5344739+00:00",
-  "LastUpdate_Achievements": "2023-12-31T23:04:32.6926888+00:00"
+  "LastUpdate_Ratings": "2024-01-01T00:02:50.1273592+00:00",
+  "LastUpdate_Achievements": "2024-01-01T00:03:54.3391967+00:00"
 }

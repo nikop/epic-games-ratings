@@ -2,13 +2,13 @@
   "ID": "viola",
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
-  "Ranking_Rating": 522,
+  "Ranking_Rating": 521,
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4379,
+  "EOS_Progressed": 4380,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -7401,6 +7401,11 @@
       "Time": "2023-12-31T20:06:46.8766635+00:00",
       "NumProgressed": 4379,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-01T00:05:27.1542019+00:00",
+      "NumProgressed": 4380,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -7452,7 +7457,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1795
+      "UsersEstimate": 1796
     },
     {
       "ID": "CrowdPleaser",
@@ -7604,7 +7609,7 @@
       "Name": "Ready for Winter",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 2715
+      "UsersEstimate": 2716
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -7612,7 +7617,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -7668,7 +7673,7 @@
       "Name": "The Power of Faith",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "ThePowerofFamily_2",
@@ -7747,15 +7752,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4379,
+      "Progressed": 4380,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2023-12-31T23:06:38.5691613+00:00",
+  "LastChanged_Achievements": "2024-01-01T00:05:27.1542016+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:23.571083+00:00",
-  "LastUpdate_Ratings": "2023-12-31T23:03:17.7988355+00:00",
-  "LastUpdate_Achievements": "2023-12-31T23:06:38.5692224+00:00"
+  "LastUpdate_Ratings": "2024-01-01T00:02:56.1508864+00:00",
+  "LastUpdate_Achievements": "2024-01-01T00:05:27.154258+00:00"
 }

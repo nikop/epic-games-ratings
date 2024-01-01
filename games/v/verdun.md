@@ -6,23 +6,23 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~53,149 |
-| Worth it | 63.00% | ~42,928 |
-| Eagle Eye | 55.00% | ~37,477 |
-| Corpseman I | 39.00% | ~26,575 |
-| Blast fishing | 37.00% | ~25,212 |
-| Not alone | 32.00% | ~21,805 |
-| Headhunter I | 26.00% | ~17,716 |
-| Manual Labour I | 25.00% | ~17,035 |
-| Developers, Developers, Developers | 24.00% | ~16,354 |
-| Basic Training | 23.00% | ~15,672 |
-| Furchtlos und Treu | 13.00% | ~8,858 |
+| Setting an example | 78.00% | ~53,153 |
+| Worth it | 63.00% | ~42,931 |
+| Eagle Eye | 55.00% | ~37,480 |
+| Corpseman I | 39.00% | ~26,577 |
+| Blast fishing | 37.00% | ~25,214 |
+| Not alone | 32.00% | ~21,806 |
+| Headhunter I | 26.00% | ~17,718 |
+| Manual Labour I | 25.00% | ~17,036 |
+| Developers, Developers, Developers | 24.00% | ~16,355 |
+| Basic Training | 23.00% | ~15,673 |
+| Furchtlos und Treu | 13.00% | ~8,859 |
 | Gott Mit Uns | 12.00% | ~8,177 |
 | This We'll Defend! | 9.00% | ~6,133 |
 | Providentiea Memor | 9.00% | ~6,133 |
 | For King and Country | 9.00% | ~6,133 |
-| Battle hardened | 8.00% | ~5,451 |
-| Anker wirf! | 8.00% | ~5,451 |
+| Battle hardened | 8.00% | ~5,452 |
+| Anker wirf! | 8.00% | ~5,452 |
 | Semper Fidelis! | 7.00% | ~4,770 |
 | Honneur et Patrie | 7.00% | ~4,770 |
 | In Treue Fest | 5.00% | ~3,407 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~68 |
 | Blood Brother | 0.10% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,140 (Ranked 114)  
+Progressed: 68,145 (Ranked 114)  
 Completed: 4 (0.01%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,10 +322,11 @@ Completed: 4 (0.01%) (Ranked 368)
 | 2023-12-29 | 67,910 | 4 |
 | 2023-12-30 | 68,042 | 4 |
 | 2023-12-31 | 68,140 | 4 |
+| 2024-01-01 | 68,145 | 4 |
 ## Awards
 Max (Highly Recommended): 105  (Ranked 367)  
-Sum: 829 (Ranked 285)  
-Diff (max vs sum): 82  
+Sum: 829 (Ranked 286)  
+Diff (max vs sum): 81  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 106 |

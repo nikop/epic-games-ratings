@@ -3,12 +3,12 @@
   "Name": "Among Us",
   "ProductSlug": "among-us",
   "Ranking_Rating": 503,
-  "Ranking_Popularity": 100,
+  "Ranking_Popularity": 101,
   "Ranking_PopularitySum": 55,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-12-18T17:00:00+00:00",
     "PcReleaseDate": "2018-06-15T14:36:00+00:00",
@@ -11340,6 +11340,6 @@
   "FirstSeen": "2022-07-22T20:21:02.6618053+00:00",
   "LastChanged": "2023-12-31T20:57:29.0279088+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:18.7708634+00:00",
-  "LastUpdate_Ratings": "2023-12-31T22:57:35.9014746+00:00",
-  "LastUpdate_Achievements": "2023-12-31T23:08:28.893809+00:00"
+  "LastUpdate_Ratings": "2023-12-31T23:57:20.8238621+00:00",
+  "LastUpdate_Achievements": "2024-01-01T00:06:21.911604+00:00"
 }

@@ -325,7 +325,7 @@
   ],
   "EOS_Progressed": 592,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 257,
+  "EOS_NewPlayers": 254,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.84,
   "EosHistory": [
@@ -1690,9 +1690,9 @@
       "ID": "ACH_JELLYFISHING",
       "SetID": "biiejkc",
       "Name": "Jellyfishing",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 71
     },
     {
       "ID": "ACH_JELLYFISH_JAM",
@@ -1730,9 +1730,9 @@
       "ID": "ACH_ROBO_PATRICK_BOSS",
       "SetID": "biiejkc",
       "Name": "Toxic Terror",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_ROBO_SANDY_BOSS",
@@ -1882,8 +1882,8 @@
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2023-12-31T19:58:31.7111869+00:00",
-  "LastChanged_Achievements": "2023-12-31T23:08:46.0766186+00:00",
+  "LastChanged_Achievements": "2024-01-01T00:08:14.4743356+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:11.8880921+00:00",
-  "LastUpdate_Ratings": "2023-12-31T22:58:26.0178917+00:00",
-  "LastUpdate_Achievements": "2023-12-31T23:08:46.0766506+00:00"
+  "LastUpdate_Ratings": "2023-12-31T23:57:56.0597565+00:00",
+  "LastUpdate_Achievements": "2024-01-01T00:08:14.4743693+00:00"
 }

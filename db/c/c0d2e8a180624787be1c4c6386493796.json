@@ -1148,9 +1148,9 @@
       "ID": "KR4_ACHIEVEMENT_BUILD_TOWERS_EASY",
       "SetID": "caeik3h",
       "Name": "We Can Build It!",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 197
     },
     {
       "ID": "KR4_ACHIEVEMENT_CALL_EARLY_WAVES",
@@ -1713,8 +1713,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-12-31T23:08:47.2454864+00:00",
+  "LastChanged_Achievements": "2024-01-01T00:08:15.4143122+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:04.1058747+00:00",
-  "LastUpdate_Ratings": "2023-12-31T22:59:37.9615733+00:00",
-  "LastUpdate_Achievements": "2023-12-31T23:08:47.2455525+00:00"
+  "LastUpdate_Ratings": "2023-12-31T23:58:48.7683562+00:00",
+  "LastUpdate_Achievements": "2024-01-01T00:08:15.4144052+00:00"
 }

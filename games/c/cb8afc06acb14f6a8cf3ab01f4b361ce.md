@@ -1,14 +1,14 @@
 # Soulstice
 [Store](https://store.epicgames.com/en-US/p/soulstice)  
 [View Rawdata](../../db/c/cb8afc06acb14f6a8cf3ab01f4b361ce.json)  
-Rating: 4.21 (Ranked 940)  
+Rating: 4.21 (Ranked 941)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| May the Torchbearer light our way | 4.00% | ~13,555 |
-| The touch of Chaos | 4.00% | ~13,555 |
-| A powerful aura was here | 3.00% | ~10,166 |
-| Let's raise the stakes!! | 2.00% | ~6,777 |
+| May the Torchbearer light our way | 4.00% | ~13,556 |
+| The touch of Chaos | 4.00% | ~13,556 |
+| A powerful aura was here | 3.00% | ~10,167 |
+| Let's raise the stakes!! | 2.00% | ~6,778 |
 | Rumors are true | 1.00% | ~3,389 |
 | Your wounds… They are healing so fast! | 1.00% | ~3,389 |
 | We'll be careful | 0.90% | ~3,050 |
@@ -23,7 +23,7 @@ Rating: 4.21 (Ranked 940)
 | Counting on you | 0.50% | ~1,694 |
 | This is the end | 0.50% | ~1,694 |
 | We can choose to fight | 0.50% | ~1,694 |
-| I took a risk | 0.40% | ~1,355 |
+| I took a risk | 0.40% | ~1,356 |
 | Their fate is sealed | 0.30% | ~1,017 |
 | Not even from this world | 0.30% | ~1,017 |
 | No damsels in distress | 0.20% | ~678 |
@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 940)
 | Something... unnatural | 0.10% | ~339 |
 | We strike as one | 0.10% | ~339 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 338,873 (Ranked 57)  
+Progressed: 338,900 (Ranked 57)  
 Completed: 7 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,6 +146,7 @@ Completed: 7 (0.00%) (Ranked 391)
 | 2023-12-29 | 337,532 | 7 |
 | 2023-12-30 | 338,211 | 7 |
 | 2023-12-31 | 338,873 | 7 |
+| 2024-01-01 | 338,900 | 7 |
 ## Awards
 Max (Great Boss Battles): 75  (Ranked 404)  
 Sum: 75 (Ranked 479)  

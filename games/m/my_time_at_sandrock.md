@@ -6,59 +6,59 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 216.00% | ~1,592 |
-| Iron Chef | 152.00% | ~1,120 |
-| Super Spelunker | 148.00% | ~1,091 |
-| The Little Wood that Could | 122.00% | ~899 |
-| Greeno-B-Gone | 118.00% | ~870 |
-| Officially Official | 108.00% | ~796 |
-| On that Grindset | 105.00% | ~774 |
-| Your Especially Earned Trajectory | 99.00% | ~730 |
-| Better Late than Never | 91.00% | ~671 |
-| One of the Cool Kids | 90.00% | ~663 |
-| Pack Mule | 86.00% | ~634 |
-| Diamonds are Forever | 86.00% | ~634 |
-| Got Served | 85.00% | ~626 |
-| Mole Masher | 82.00% | ~604 |
-| Knowledge is Power | 81.00% | ~597 |
-| Financially Secure | 81.00% | ~597 |
-| No Mountain Wide Enough | 81.00% | ~597 |
-| I Do! | 79.00% | ~582 |
-| Yakmel Whisperer | 79.00% | ~582 |
-| Big Game Hunter | 78.00% | ~575 |
-| Unboxing | 76.00% | ~560 |
-| Can We Keep It? | 75.00% | ~553 |
-| Chatterbox | 74.00% | ~545 |
-| Panda-kin | 73.00% | ~538 |
-| First Love | 73.00% | ~538 |
+| Adept Assembler | 216.00% | ~1,594 |
+| Iron Chef | 152.00% | ~1,122 |
+| Super Spelunker | 148.00% | ~1,092 |
+| The Little Wood that Could | 122.00% | ~900 |
+| Greeno-B-Gone | 117.00% | ~863 |
+| Officially Official | 108.00% | ~797 |
+| On that Grindset | 105.00% | ~775 |
+| Your Especially Earned Trajectory | 99.00% | ~731 |
+| Better Late than Never | 91.00% | ~672 |
+| One of the Cool Kids | 90.00% | ~664 |
+| Pack Mule | 86.00% | ~635 |
+| Diamonds are Forever | 86.00% | ~635 |
+| Got Served | 85.00% | ~627 |
+| Mole Masher | 82.00% | ~605 |
+| Knowledge is Power | 81.00% | ~598 |
+| Financially Secure | 81.00% | ~598 |
+| No Mountain Wide Enough | 81.00% | ~598 |
+| I Do! | 79.00% | ~583 |
+| Yakmel Whisperer | 79.00% | ~583 |
+| Big Game Hunter | 78.00% | ~576 |
+| Unboxing | 76.00% | ~561 |
+| Can We Keep It? | 75.00% | ~554 |
+| Chatterbox | 74.00% | ~546 |
+| Panda-kin | 73.00% | ~539 |
+| First Love | 73.00% | ~539 |
 | What Plants Crave | 72.00% | ~531 |
 | Elementary, My Dear | 69.00% | ~509 |
-| Builder of the Month | 68.00% | ~501 |
-| Waste Not Want Not | 65.00% | ~479 |
+| Builder of the Month | 68.00% | ~502 |
+| Waste Not Want Not | 65.00% | ~480 |
 | Lifeline Pipeline | 64.00% | ~472 |
-| Bridging the Gap | 63.00% | ~464 |
+| Bridging the Gap | 63.00% | ~465 |
 | Commissions, commissions...! | 61.00% | ~450 |
-| Martle's Dream | 60.00% | ~442 |
-| Happier-est Place on Earth | 58.00% | ~427 |
-| Got the Flow Back | 58.00% | ~427 |
-| Anti-Santa | 58.00% | ~427 |
+| Martle's Dream | 60.00% | ~443 |
+| Happier-est Place on Earth | 58.00% | ~428 |
+| Got the Flow Back | 58.00% | ~428 |
+| Anti-Santa | 58.00% | ~428 |
 | You Don't Win Friends With Salad | 56.00% | ~413 |
-| Finishing Touches | 55.00% | ~405 |
-| Call Me Fishmael | 54.00% | ~398 |
+| Finishing Touches | 55.00% | ~406 |
+| Call Me Fishmael | 54.00% | ~399 |
 | Time Flies | 53.00% | ~391 |
 | Sepia Toned Memories | 53.00% | ~391 |
-| Who Ya Gonna Call...? | 52.00% | ~383 |
+| Who Ya Gonna Call...? | 52.00% | ~384 |
 | Kind of a Big Deal | 48.00% | ~354 |
-| Jewel of the Eufaula | 47.00% | ~346 |
+| Jewel of the Eufaula | 47.00% | ~347 |
 | Just What I Always Wanted! | 45.00% | ~332 |
 | My Time Mansion | 42.00% | ~310 |
 | He Can Spin A Yarn... | 40.00% | ~295 |
 | Santa In Training | 40.00% | ~295 |
 | Sandrunning Speedster | 40.00% | ~295 |
-| It Belongs in a Museum! | 36.00% | ~265 |
+| It Belongs in a Museum! | 36.00% | ~266 |
 | Pro Gamer | 34.00% | ~251 |
 | Do Your Part | 34.00% | ~251 |
-| Newton | 33.00% | ~243 |
+| Newton | 33.00% | ~244 |
 | Cardistry | 27.00% | ~199 |
 | Winner and Still Champeen | 26.00% | ~192 |
 | It's High Noon... | 18.00% | ~133 |
@@ -67,7 +67,7 @@ Number of Ratings: 892  (23.09.2022)
 | Jack of All Trades | 8.00% | ~59 |
 | Sandrock's Hottest Club | 5.00% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 737 (Ranked 309)  
+Progressed: 738 (Ranked 309)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,10 +132,11 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-29 | 730 | 0 |
 | 2023-12-30 | 746 | 0 |
 | 2023-12-31 | 754 | 0 |
+| 2024-01-01 | 738 | 0 |
 ## Awards
-Max (Character Customization): 615  (Ranked 201)  
+Max (Character Customization): 615  (Ranked 202)  
 Sum: 1,473 (Ranked 241)  
-Diff (max vs sum): -40  
+Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 615 |

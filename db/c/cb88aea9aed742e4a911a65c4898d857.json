@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -239,9 +239,9 @@
       "Count": 77
     }
   ],
-  "EOS_Progressed": 9191,
+  "EOS_Progressed": 9200,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1958,
+  "EOS_NewPlayers": 1952,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3164,6 +3164,11 @@
       "Time": "2023-12-31T23:10:56.4599087+00:00",
       "NumProgressed": 9191,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T00:09:50.9473136+00:00",
+      "NumProgressed": 9200,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3176,7 +3181,7 @@
       "Name": "Conspiracy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "03_TheStolenStar",
@@ -3695,7 +3700,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 9191,
+      "Progressed": 9200,
       "Completed": 0
     }
   ],
@@ -3703,8 +3708,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-31T16:59:07.4818651+00:00",
-  "LastChanged_Achievements": "2023-12-31T23:10:56.4599084+00:00",
+  "LastChanged_Achievements": "2024-01-01T00:09:50.9473129+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2023-12-31T23:00:03.194886+00:00",
-  "LastUpdate_Achievements": "2023-12-31T23:10:56.4599953+00:00"
+  "LastUpdate_Ratings": "2023-12-31T23:59:07.0577592+00:00",
+  "LastUpdate_Achievements": "2024-01-01T00:09:50.9473819+00:00"
 }

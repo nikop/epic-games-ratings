@@ -22,8 +22,8 @@ Number of Ratings: 154  (23.09.2022)
 | Boss Rush Attempt | 49.00% | ~328 |
 | Cleared Sonic the Hedgehog | 48.00% | ~322 |
 | Super Sonic | 42.00% | ~281 |
+| Shut Down Metal Sonic | 40.00% | ~268 |
 | Beware Stingers! | 40.00% | ~268 |
-| Shut Down Metal Sonic | 39.00% | ~261 |
 | Museum Time | 39.00% | ~261 |
 | Very First Mission Clear! | 39.00% | ~261 |
 | Beware Moto Bugs! | 38.00% | ~255 |

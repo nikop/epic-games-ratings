@@ -1,46 +1,46 @@
 # PC Building Simulator
 [Store](https://store.epicgames.com/en-US/p/pc-building-simulator)  
 [View Rawdata](../../db/p/pc_building_simulator.json)  
-Rating: 4.66 (Ranked 300)  
+Rating: 4.66 (Ranked 301)  
 Number of Ratings: 12,155  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,764,611 |
-| Easy to forget | 46.00% | ~1,656,574 |
-| Back in the black | 39.00% | ~1,404,486 |
-| That's what I'm talking about | 29.00% | ~1,044,362 |
-| The Best of Both Worlds | 25.00% | ~900,312 |
-| Get your wings | 20.00% | ~720,249 |
-| Double trouble | 16.00% | ~576,200 |
-| Smashing it | 11.00% | ~396,137 |
-| But can it run Crysis? | 9.00% | ~324,112 |
-| My favourite feature... | 9.00% | ~324,112 |
-| From humble beginnings... | 7.00% | ~252,087 |
-| Customer satisfaction | 7.00% | ~252,087 |
-| Keeping things neat | 4.00% | ~144,050 |
-| Seems you're pretty good at this | 4.00% | ~144,050 |
-| Bending over backwards | 4.00% | ~144,050 |
-| I'm broke, Uncle! | 3.00% | ~108,037 |
-| Triple threat | 3.00% | ~108,037 |
-| You rock at this! | 3.00% | ~108,037 |
-| Perfection | 3.00% | ~108,037 |
-| Your music sucks | 3.00% | ~108,037 |
+| You need to plug it in... | 49.00% | ~1,764,623 |
+| Easy to forget | 46.00% | ~1,656,585 |
+| Back in the black | 39.00% | ~1,404,496 |
+| That's what I'm talking about | 29.00% | ~1,044,369 |
+| The Best of Both Worlds | 25.00% | ~900,318 |
+| Get your wings | 20.00% | ~720,254 |
+| Double trouble | 16.00% | ~576,203 |
+| Smashing it | 11.00% | ~396,140 |
+| But can it run Crysis? | 9.00% | ~324,114 |
+| My favourite feature... | 9.00% | ~324,114 |
+| From humble beginnings... | 7.00% | ~252,089 |
+| Customer satisfaction | 7.00% | ~252,089 |
+| Keeping things neat | 4.00% | ~144,051 |
+| Seems you're pretty good at this | 4.00% | ~144,051 |
+| Bending over backwards | 4.00% | ~144,051 |
+| I'm broke, Uncle! | 3.00% | ~108,038 |
+| Triple threat | 3.00% | ~108,038 |
+| You rock at this! | 3.00% | ~108,038 |
+| Perfection | 3.00% | ~108,038 |
+| Your music sucks | 3.00% | ~108,038 |
 | Maybe you should try something else? | 2.00% | ~72,025 |
 | Taking care of business | 2.00% | ~72,025 |
 | Things are under control | 2.00% | ~72,025 |
 | Calling in Sick | 2.00% | ~72,025 |
-| Overvolted | 1.00% | ~36,012 |
-| If you fail the first time... | 1.00% | ~36,012 |
-| Amazonian | 1.00% | ~36,012 |
-| Show off | 1.00% | ~36,012 |
-| The Stuart Morton Award for Purpleness | 1.00% | ~36,012 |
-| Building isn't cheap! | 1.00% | ~36,012 |
-| Majority Shareholder | 1.00% | ~36,012 |
-| Owner | 1.00% | ~36,012 |
+| Overvolted | 1.00% | ~36,013 |
+| If you fail the first time... | 1.00% | ~36,013 |
+| Amazonian | 1.00% | ~36,013 |
+| Show off | 1.00% | ~36,013 |
+| The Stuart Morton Award for Purpleness | 1.00% | ~36,013 |
+| Building isn't cheap! | 1.00% | ~36,013 |
+| Majority Shareholder | 1.00% | ~36,013 |
+| Owner | 1.00% | ~36,013 |
 | Work ethic 101 | 0.70% | ~25,209 |
-| Building momentum | 0.60% | ~21,607 |
-| Lead by example | 0.60% | ~21,607 |
+| Building momentum | 0.60% | ~21,608 |
+| Lead by example | 0.60% | ~21,608 |
 | Treat yourself - RAM | 0.50% | ~18,006 |
 | Mr big business | 0.40% | ~14,405 |
 | So you're the reason why the prices are so high? | 0.30% | ~10,804 |
@@ -48,8 +48,8 @@ Number of Ratings: 12,155  (23.09.2022)
 | Getting your feet wet | 0.30% | ~10,804 |
 | Customer's ALWAYS right. | 0.30% | ~10,804 |
 | Treat yourself - CPU | 0.30% | ~10,804 |
-| 1920x1080 | 0.20% | ~7,202 |
-| Blow 'em away | 0.20% | ~7,202 |
+| 1920x1080 | 0.20% | ~7,203 |
+| Blow 'em away | 0.20% | ~7,203 |
 | Hasta La Vista, Baby. | 0.10% | ~3,601 |
 | Wow to build a PC! | 0.10% | ~3,601 |
 | Hoarder | 0.10% | ~3,601 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,601 |
 | Treat yourself - GPU | 0.10% | ~3,601 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,601,247 (Ranked 5)  
+Progressed: 3,601,271 (Ranked 5)  
 Completed: 41 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,6 +315,7 @@ Completed: 41 (0.00%) (Ranked 391)
 | 2023-12-29 | 3,599,975 | 41 |
 | 2023-12-30 | 3,600,609 | 41 |
 | 2023-12-31 | 3,601,247 | 41 |
+| 2024-01-01 | 3,601,271 | 41 |
 ## Awards
 Max (Great for Beginners): 1,125  (Ranked 149)  
 Sum: 8,252 (Ranked 110)  

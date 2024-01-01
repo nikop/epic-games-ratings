@@ -2,7 +2,7 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 522,
+  "Ranking_Rating": 521,
   "Ranking_Popularity": 453,
   "Ranking_PopularitySum": 374,
   "Ranking_EOS_Progress": 158,
@@ -2125,9 +2125,9 @@
       "Count": 31
     }
   ],
-  "EOS_Progressed": 17792,
+  "EOS_Progressed": 17796,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 1154,
+  "EOS_NewPlayers": 1150,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -18480,6 +18480,11 @@
       "Time": "2023-12-31T23:11:03.6581141+00:00",
       "NumProgressed": 17792,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2024-01-01T00:09:56.5155768+00:00",
+      "NumProgressed": 17796,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 35,
@@ -18491,7 +18496,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 14412
+      "UsersEstimate": 14415
     },
     {
       "ID": "ACH02",
@@ -18499,7 +18504,7 @@
       "Name": "With Extra Dip",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1245
+      "UsersEstimate": 1246
     },
     {
       "ID": "ACH03",
@@ -18507,7 +18512,7 @@
       "Name": "The End of the Line",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1245
+      "UsersEstimate": 1246
     },
     {
       "ID": "ACH04",
@@ -18539,7 +18544,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3380
+      "UsersEstimate": 3381
     },
     {
       "ID": "ACH08",
@@ -18547,7 +18552,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 8896
+      "UsersEstimate": 8898
     },
     {
       "ID": "ACH09",
@@ -18571,7 +18576,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1601
+      "UsersEstimate": 1602
     },
     {
       "ID": "ACH12",
@@ -18595,7 +18600,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1779
+      "UsersEstimate": 1780
     },
     {
       "ID": "ACH15",
@@ -18667,7 +18672,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4448
+      "UsersEstimate": 4449
     },
     {
       "ID": "ACH24",
@@ -18707,7 +18712,7 @@
       "Name": "Original Gangster",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 1423
+      "UsersEstimate": 1424
     },
     {
       "ID": "ACH29",
@@ -18770,7 +18775,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 17792,
+      "Progressed": 17796,
       "Completed": 67
     }
   ],
@@ -18778,8 +18783,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-12-31T19:00:15.2032114+00:00",
-  "LastChanged_Achievements": "2023-12-31T23:11:03.6581136+00:00",
+  "LastChanged_Achievements": "2024-01-01T00:09:56.5155765+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.8114387+00:00",
-  "LastUpdate_Ratings": "2023-12-31T23:01:14.2442915+00:00",
-  "LastUpdate_Achievements": "2023-12-31T23:11:03.6582062+00:00"
+  "LastUpdate_Ratings": "2024-01-01T00:00:00.4011872+00:00",
+  "LastUpdate_Achievements": "2024-01-01T00:09:56.5157036+00:00"
 }

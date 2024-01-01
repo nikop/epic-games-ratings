@@ -1,35 +1,35 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.21 (Ranked 940)  
+Rating: 4.21 (Ranked 941)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 21.00% | ~4,271 |
-| The Outer Way | 21.00% | ~4,271 |
-| Desperate Times | 19.00% | ~3,864 |
-| Get a Grip | 18.00% | ~3,661 |
-| Paper Jams | 18.00% | ~3,661 |
-| Chew 'Em Up | 16.00% | ~3,254 |
-| Reforged | 15.00% | ~3,051 |
-| Float Like A Butterfly | 14.00% | ~2,847 |
-| Workplace Hazard | 13.00% | ~2,644 |
-| If the SHU Fits... | 13.00% | ~2,644 |
-| Without A Paddle | 11.00% | ~2,237 |
-| In the Pipe, Five by Five | 10.00% | ~2,034 |
-| Crash Site | 10.00% | ~2,034 |
-| Two Heads Are Better Than One | 9.00% | ~1,830 |
-| Power Up | 9.00% | ~1,830 |
-| Giving Back | 8.00% | ~1,627 |
-| Terminated | 8.00% | ~1,627 |
-| What Lies Beneath | 8.00% | ~1,627 |
-| Full Circle | 8.00% | ~1,627 |
+| Flesh Wound | 21.00% | ~4,273 |
+| The Outer Way | 21.00% | ~4,273 |
+| Desperate Times | 20.00% | ~4,069 |
+| Get a Grip | 18.00% | ~3,662 |
+| Paper Jams | 18.00% | ~3,662 |
+| Chew 'Em Up | 16.00% | ~3,256 |
+| Reforged | 15.00% | ~3,052 |
+| Float Like A Butterfly | 14.00% | ~2,849 |
+| Workplace Hazard | 13.00% | ~2,645 |
+| If the SHU Fits... | 13.00% | ~2,645 |
+| Without A Paddle | 11.00% | ~2,238 |
+| In the Pipe, Five by Five | 10.00% | ~2,035 |
+| Crash Site | 10.00% | ~2,035 |
+| Two Heads Are Better Than One | 9.00% | ~1,831 |
+| Power Up | 9.00% | ~1,831 |
+| Giving Back | 8.00% | ~1,628 |
+| Terminated | 8.00% | ~1,628 |
+| What Lies Beneath | 8.00% | ~1,628 |
+| Full Circle | 8.00% | ~1,628 |
 | You Need a Gun | 7.00% | ~1,424 |
 | I Do Belong Here | 7.00% | ~1,424 |
 | Keep Fighting | 6.00% | ~496 |
-| It's Time | 5.00% | ~413 |
-| In Striking Distance | 4.00% | ~813 |
-| The Commonality | 4.00% | ~813 |
+| It's Time | 5.00% | ~414 |
+| In Striking Distance | 4.00% | ~814 |
+| The Commonality | 4.00% | ~814 |
 | One Last Job | 3.00% | ~248 |
 | Armed to the Teeth | 1.00% | ~83 |
 | Mugshot | 1.00% | ~203 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 940)
 | Big Game Hunter | 0.10% | ~8 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,337 (Ranked 150)  
+Progressed: 20,347 (Ranked 150)  
 Completed: 82 (0.40%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,6 +301,7 @@ Completed: 82 (0.40%) (Ranked 229)
 | 2023-12-29 | 19,946 | 82 |
 | 2023-12-30 | 20,137 | 82 |
 | 2023-12-31 | 20,337 | 82 |
+| 2024-01-01 | 20,347 | 82 |
 ## Awards
 Max (Amazing Characters): 107  (Ranked 364)  
 Sum: 541 (Ranked 330)  

@@ -15,7 +15,7 @@ Number of Ratings: 124  (23.09.2022)
 | Creator | 19.00% | ~29 |
 | Festival-goer | 18.00% | ~28 |
 | Commander | 15.00% | ~23 |
-| Long-Haul Flyer | 12.00% | ~18 |
+| Long-Haul Flyer | 13.00% | ~20 |
 | Irissa's Fate | 12.00% | ~18 |
 | Pass A38 | 12.00% | ~18 |
 | Berserker | 9.00% | ~14 |
@@ -28,10 +28,10 @@ Number of Ratings: 124  (23.09.2022)
 | Hotshot | 5.00% | ~8 |
 | Perfectionist | 5.00% | ~8 |
 | Hunter | 5.00% | ~8 |
+| Beam Me Up | 4.00% | ~6 |
 | Free as a Bird | 4.00% | ~6 |
 | Detective | 4.00% | ~6 |
 | Treasure Hunter | 3.00% | ~5 |
-| Beam Me Up | 3.00% | ~5 |
 | Alchemist | 3.00% | ~5 |
 | Self-Sufficient | 3.00% | ~5 |
 | Idealist | 3.00% | ~5 |

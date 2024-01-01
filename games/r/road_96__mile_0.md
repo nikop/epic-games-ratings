@@ -12,15 +12,15 @@
 | This is Not Heavy Metal! | 15.00% | ~90 |
 | Truthseeker | 14.00% | ~84 |
 | Freedom | 8.00% | ~48 |
+| 86's Nightmare | 8.00% | ~48 |
 | Partners in Crime | 8.00% | ~48 |
-| 86's Nightmare | 7.00% | ~42 |
 | Friendzone | 7.00% | ~42 |
 | The Eye of the Storm | 6.00% | ~36 |
 | Attack on Tyran | 5.00% | ~30 |
 | Song Harvester | 1.00% | ~6 |
 | Try Harder | 1.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 597 (Ranked 331)  
+Progressed: 597 (Ranked 332)  
 Completed: 2 (0.34%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |

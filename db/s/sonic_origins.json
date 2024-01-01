@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 444,
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 410,
+  "Ranking_EOS_NewPlayers": 409,
   "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -3103,9 +3103,9 @@
       "ID": "ID_08_SONICCD_WIN_METAL_SONIC",
       "SetID": "7o8nc5m",
       "Name": "Shut Down Metal Sonic",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 268
     },
     {
       "ID": "ID_09_SONIC2_DEFEAT_STINGER",
@@ -3335,8 +3335,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-12-13T19:57:46.4026225+00:00",
-  "LastChanged_Achievements": "2023-12-31T23:11:11.1604285+00:00",
+  "LastChanged_Achievements": "2024-01-01T00:10:02.7122234+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:39.4774601+00:00",
-  "LastUpdate_Ratings": "2023-12-31T23:00:50.4146468+00:00",
-  "LastUpdate_Achievements": "2023-12-31T23:11:11.1604594+00:00"
+  "LastUpdate_Ratings": "2023-12-31T23:59:42.5953963+00:00",
+  "LastUpdate_Achievements": "2024-01-01T00:10:02.7122621+00:00"
 }

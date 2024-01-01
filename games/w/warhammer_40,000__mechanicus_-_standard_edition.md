@@ -1,24 +1,24 @@
 # Warhammer 40,000: Mechanicus - Standard Edition
 [Store](https://store.epicgames.com/en-US/p/warhammer-mechanicus-0e4b71)  
 [View Rawdata](../../db/w/warhammer_40,000__mechanicus_-_standard_edition.json)  
-Rating: 4.43 (Ranked 717)  
+Rating: 4.43 (Ranked 718)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~60,063 |
-| This is only the beginning | 20.00% | ~46,203 |
-| Knowledge is power | 13.00% | ~30,032 |
-| Galvanic Rifle | 10.00% | ~23,101 |
-| Radium Ready | 10.00% | ~23,101 |
-| Power Ranger | 9.00% | ~20,791 |
-| Taser Goad | 9.00% | ~20,791 |
-| Half a cog | 9.00% | ~20,791 |
+| No aid from the Omnissiah | 26.00% | ~60,066 |
+| This is only the beginning | 20.00% | ~46,205 |
+| Knowledge is power | 13.00% | ~30,033 |
+| Galvanic Rifle | 10.00% | ~23,102 |
+| Radium Ready | 10.00% | ~23,102 |
+| Power Ranger | 9.00% | ~20,792 |
+| Taser Goad | 9.00% | ~20,792 |
+| Half a cog | 9.00% | ~20,792 |
 | Watch them crumble | 6.00% | ~13,861 |
 | Competent Cohort | 4.00% | ~9,241 |
 | Celestial Cartography Catastrophe | 4.00% | ~9,241 |
 | One with the Machine | 4.00% | ~9,241 |
-| Legio Cybernetica | 3.00% | ~6,930 |
-| Fleshy Disposal | 3.00% | ~6,930 |
+| Legio Cybernetica | 3.00% | ~6,931 |
+| Fleshy Disposal | 3.00% | ~6,931 |
 | Battle Servitor | 2.00% | ~4,620 |
 | Ding Dong Szaregon's Gone | 2.00% | ~4,620 |
 | Impatient destruction | 2.00% | ~4,620 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 717)
 | Perma-live | 0.10% | ~231 |
 | Purge the Heretek | 0.10% | ~231 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,013 (Ranked 75)  
+Progressed: 231,023 (Ranked 75)  
 Completed: 5 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,6 +296,7 @@ Completed: 5 (0.00%) (Ranked 391)
 | 2023-12-29 | 230,808 | 5 |
 | 2023-12-30 | 230,903 | 5 |
 | 2023-12-31 | 231,013 | 5 |
+| 2024-01-01 | 231,023 | 5 |
 ## Awards
 Max (Highly Recommended): 291  (Ranked 263)  
 Sum: 2,221 (Ranked 209)  

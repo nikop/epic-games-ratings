@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -127,7 +127,7 @@
   "Tags": [],
   "EOS_Progressed": 1498,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -4200,9 +4200,9 @@
       "ID": "GSS_ACH_01_SHOP_01",
       "SetID": "5fn8ia4",
       "Name": "First Customer!",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1318
     },
     {
       "ID": "GSS_ACH_02_SHOP_02",
@@ -4224,9 +4224,9 @@
       "ID": "GSS_ACH_04_TIP_02",
       "SetID": "5fn8ia4",
       "Name": "Gaining skill",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 1273
+      "UsersEstimate": 1288
     },
     {
       "ID": "GSS_ACH_05_TIP_03",
@@ -4296,9 +4296,9 @@
       "ID": "GSS_ACH_13_FUEL_SERVE_01",
       "SetID": "5fn8ia4",
       "Name": "So it begins",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1378
+      "UsersEstimate": 1393
     },
     {
       "ID": "GSS_ACH_14_FUEL_SERVE_02",
@@ -4536,9 +4536,9 @@
       "ID": "GSS_ACH_44_CARAVAN_03",
       "SetID": "5fn8ia4",
       "Name": "Business is Thriving",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 285
+      "UsersEstimate": 300
     },
     {
       "ID": "GSS_ACH_45_ORDER_PRODUCTS",
@@ -4680,9 +4680,9 @@
       "ID": "GSS_ACH_62_POPULARITY_02",
       "SetID": "5fn8ia4",
       "Name": "Heard in Whispers",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1198
     },
     {
       "ID": "GSS_ACH_63_POPULARITY_03",
@@ -4857,8 +4857,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-12-31T11:57:35.1216953+00:00",
-  "LastChanged_Achievements": "2023-12-31T23:06:00.29325+00:00",
+  "LastChanged_Achievements": "2024-01-01T00:04:57.9006553+00:00",
   "LastUpdate_AppInfo": "2023-12-25T19:57:05.7719462+00:00",
-  "LastUpdate_Ratings": "2023-12-31T22:57:47.3683349+00:00",
-  "LastUpdate_Achievements": "2023-12-31T23:06:00.2933407+00:00"
+  "LastUpdate_Ratings": "2023-12-31T23:57:29.2956978+00:00",
+  "LastUpdate_Achievements": "2024-01-01T00:04:57.9007662+00:00"
 }

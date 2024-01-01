@@ -4,8 +4,8 @@
   "ProductSlug": "chuchel-203808",
   "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
     "PcReleaseDate": "2018-03-07T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 374,
+  "EOS_Progressed": 375,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
@@ -1239,6 +1239,11 @@
       "Time": "2023-12-31T20:08:39.5169577+00:00",
       "NumProgressed": 374,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-01T00:06:28.4471055+00:00",
+      "NumProgressed": 375,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -1259,7 +1264,7 @@
       "Name": "Blabber",
       "Percentage": 50,
       "XP": 145,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ach3",
@@ -1283,7 +1288,7 @@
       "Name": "Cloudbuster",
       "Percentage": 2,
       "XP": 140,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ach6",
@@ -1291,7 +1296,7 @@
       "Name": "Creature Maker",
       "Percentage": 2,
       "XP": 140,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ach7",
@@ -1299,21 +1304,21 @@
       "Name": "Snail Racing Champion",
       "Percentage": 10,
       "XP": 145,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     }
   ],
   "AchievementSets": [
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 374,
+      "Progressed": 375,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2023-12-31T23:08:37.3057376+00:00",
+  "LastChanged_Achievements": "2024-01-01T00:06:28.4471052+00:00",
   "LastUpdate_AppInfo": "2023-12-27T20:57:07.636228+00:00",
-  "LastUpdate_Ratings": "2023-12-31T22:58:17.2618162+00:00",
-  "LastUpdate_Achievements": "2023-12-31T23:08:37.3057517+00:00"
+  "LastUpdate_Ratings": "2023-12-31T23:57:50.4123934+00:00",
+  "LastUpdate_Achievements": "2024-01-01T00:06:28.4471189+00:00"
 }

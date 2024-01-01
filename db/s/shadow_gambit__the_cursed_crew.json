@@ -179,7 +179,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1384,
+  "EOS_Progressed": 1385,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 1,
@@ -4769,6 +4769,11 @@
       "Time": "2023-12-31T22:05:09.0089092+00:00",
       "NumProgressed": 1384,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-01T00:05:23.7834033+00:00",
+      "NumProgressed": 1385,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4789,7 +4794,7 @@
       "Name": "A New Journey",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 941
+      "UsersEstimate": 942
     },
     {
       "ID": "_03_FinishAct1",
@@ -4797,7 +4802,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -4813,7 +4818,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -4837,7 +4842,7 @@
       "Name": "Swabbie",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "_09_Completion_20",
@@ -4909,7 +4914,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -4925,7 +4930,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -4988,7 +4993,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1384,
+      "Progressed": 1385,
       "Completed": 35
     }
   ],
@@ -4996,8 +5001,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-27T21:58:17.6269244+00:00",
-  "LastChanged_Achievements": "2023-12-31T23:06:34.1996225+00:00",
+  "LastChanged_Achievements": "2024-01-01T00:05:23.7834029+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.1530944+00:00",
-  "LastUpdate_Ratings": "2023-12-31T23:01:10.9190325+00:00",
-  "LastUpdate_Achievements": "2023-12-31T23:06:34.1996654+00:00"
+  "LastUpdate_Ratings": "2023-12-31T23:59:58.0856398+00:00",
+  "LastUpdate_Achievements": "2024-01-01T00:05:23.783472+00:00"
 }

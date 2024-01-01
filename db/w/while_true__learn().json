@@ -523,9 +523,9 @@
       "Count": 140
     }
   ],
-  "EOS_Progressed": 616556,
+  "EOS_Progressed": 616557,
   "EOS_Completed": 564,
-  "EOS_NewPlayers": 1162,
+  "EOS_NewPlayers": 1158,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -29378,6 +29378,11 @@
       "Time": "2023-12-31T23:09:52.5372761+00:00",
       "NumProgressed": 616556,
       "NumCompleted": 564
+    },
+    {
+      "Time": "2024-01-01T00:09:00.9474764+00:00",
+      "NumProgressed": 616557,
+      "NumCompleted": 564
     }
   ],
   "TotalAchievements": 28,
@@ -29453,7 +29458,7 @@
       "Name": "We need more gold",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 376099
+      "UsersEstimate": 376100
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -29517,7 +29522,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 573397
+      "UsersEstimate": 573398
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -29525,7 +29530,7 @@
       "Name": "Overmind",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 147973
+      "UsersEstimate": 147974
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -29549,7 +29554,7 @@
       "Name": "Error: Stack Overflow",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 406927
+      "UsersEstimate": 406928
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -29573,7 +29578,7 @@
       "Name": "Step by step",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 49324
+      "UsersEstimate": 49325
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -29612,15 +29617,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 616556,
+      "Progressed": 616557,
       "Completed": 564
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-12-26T11:02:39.9263335+00:00",
-  "LastChanged_Achievements": "2023-12-31T23:09:52.5372756+00:00",
+  "LastChanged_Achievements": "2024-01-01T00:09:00.9474759+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:24.9393605+00:00",
-  "LastUpdate_Ratings": "2023-12-31T22:59:46.0554759+00:00",
-  "LastUpdate_Achievements": "2023-12-31T23:09:52.5374476+00:00"
+  "LastUpdate_Ratings": "2023-12-31T23:58:55.0379566+00:00",
+  "LastUpdate_Achievements": "2024-01-01T00:09:00.9476265+00:00"
 }

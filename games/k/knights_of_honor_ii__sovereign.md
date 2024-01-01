@@ -1,7 +1,7 @@
 # Knights of Honor II: Sovereign
 [Store](https://store.epicgames.com/en-US/p/knights-of-honor-ii-sovereign)  
 [View Rawdata](../../db/k/knights_of_honor_ii__sovereign.json)  
-Rating: 4.31 (Ranked 857)  
+Rating: 4.32 (Ranked 851)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -36,3 +36,4 @@ Rating: 4.31 (Ranked 857)
 | 2023-11-29 | 4.43 | 0 | 0 |
 | 2023-12-28 | 4.36 | 0 | 0 |
 | 2023-12-30 | 4.31 | 0 | 0 |
+| 2023-12-31 | 4.32 | 0 | 0 |

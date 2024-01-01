@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -1015,9 +1015,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 7816,
+  "EOS_Progressed": 7817,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 320,
+  "EOS_NewPlayers": 321,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12855,6 +12855,11 @@
       "Time": "2023-12-31T22:04:39.8982567+00:00",
       "NumProgressed": 7816,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T00:04:54.2444519+00:00",
+      "NumProgressed": 7817,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -12890,7 +12895,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -12938,7 +12943,7 @@
       "Name": "License to Gill",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -12986,7 +12991,7 @@
       "Name": "School\u0027s Out for Summer",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ACHIEVEMENT_017",
@@ -13185,13 +13190,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7816,
+      "Progressed": 7817,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7188,
+      "Progressed": 7189,
       "Completed": 113
     }
   ],
@@ -13199,8 +13204,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-26T19:00:49.2434236+00:00",
-  "LastChanged_Achievements": "2023-12-31T23:05:55.5178882+00:00",
+  "LastChanged_Achievements": "2024-01-01T00:04:54.2444516+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:09.4029638+00:00",
-  "LastUpdate_Ratings": "2023-12-31T22:59:20.7149645+00:00",
-  "LastUpdate_Achievements": "2023-12-31T23:05:55.5179595+00:00"
+  "LastUpdate_Ratings": "2023-12-31T23:58:35.5633267+00:00",
+  "LastUpdate_Achievements": "2024-01-01T00:04:54.2445211+00:00"
 }

@@ -9,7 +9,7 @@
 | Makin' the Cut | 56.00% | ~454 |
 | Clean Sheet | 52.00% | ~421 |
 | Winner's Circle | 47.00% | ~381 |
-| Holey Moley | 45.00% | ~364 |
+| Holey Moley | 46.00% | ~373 |
 | Bomb's Away | 41.00% | ~332 |
 | Perfect Round | 37.00% | ~300 |
 | Competitor's Spirit | 34.00% | ~275 |

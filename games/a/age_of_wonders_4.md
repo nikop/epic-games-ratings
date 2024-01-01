@@ -8,14 +8,14 @@ Rating: 4.63 (Ranked 358)
 | Secret Technique | 13.00% | ~861 |
 | Realm Estate | 11.00% | ~729 |
 | A Wonderful Discovery | 11.00% | ~729 |
-| Walls Cannot Stop Us | 10.00% | ~662 |
+| Walls Cannot Stop Us | 10.00% | ~663 |
 | From Friends to Family | 9.00% | ~596 |
 | Bone Peddler | 8.00% | ~530 |
 | Magical Synergy | 7.00% | ~464 |
-| There Can Only Be One! | 6.00% | ~397 |
-| Full Ascension | 6.00% | ~397 |
-| Stronger Together | 6.00% | ~397 |
-| Seat of Power | 6.00% | ~397 |
+| There Can Only Be One! | 6.00% | ~398 |
+| Full Ascension | 6.00% | ~398 |
+| Stronger Together | 6.00% | ~398 |
+| Seat of Power | 6.00% | ~398 |
 | Valley of Wonders | 5.00% | ~331 |
 | In a Liege of Your Own | 5.00% | ~331 |
 | Intimidation Tactics | 5.00% | ~331 |
@@ -28,17 +28,17 @@ Rating: 4.63 (Ranked 358)
 | Against the Odds | 3.00% | ~199 |
 | Impenetrable Fortress | 3.00% | ~199 |
 | Freed Lands of Manuhari | 3.00% | ~199 |
-| Arch Mage | 2.00% | ~132 |
-| The Creator | 2.00% | ~132 |
-| Crimson Caldera | 2.00% | ~132 |
-| Preparation Is Everything | 2.00% | ~132 |
-| Here be Dragons | 2.00% | ~132 |
-| Tipping the Scales | 2.00% | ~132 |
-| Blood of the Dragon | 2.00% | ~132 |
-| Mighty Hoard | 2.00% | ~132 |
-| Sehiran Oasis | 2.00% | ~132 |
-| Chaos Surge | 2.00% | ~132 |
-| Spoils of War | 2.00% | ~132 |
+| Arch Mage | 2.00% | ~133 |
+| The Creator | 2.00% | ~133 |
+| Crimson Caldera | 2.00% | ~133 |
+| Preparation Is Everything | 2.00% | ~133 |
+| Here be Dragons | 2.00% | ~133 |
+| Tipping the Scales | 2.00% | ~133 |
+| Blood of the Dragon | 2.00% | ~133 |
+| Mighty Hoard | 2.00% | ~133 |
+| Sehiran Oasis | 2.00% | ~133 |
+| Chaos Surge | 2.00% | ~133 |
+| Spoils of War | 2.00% | ~133 |
 | I've Got Everything I Need Right Here | 1.00% | ~66 |
 | God Emperor | 1.00% | ~66 |
 | Lord of Chaos | 1.00% | ~66 |
@@ -55,8 +55,8 @@ Rating: 4.63 (Ranked 358)
 | One for All, All for One | 0.80% | ~53 |
 | Duality | 0.80% | ~53 |
 | Betrayal Most Foul | 0.70% | ~46 |
-| Snap Out of It! | 0.40% | ~26 |
-| The Magic That Empowers Me! | 0.40% | ~26 |
+| Snap Out of It! | 0.40% | ~27 |
+| The Magic That Empowers Me! | 0.40% | ~27 |
 | Jack of All Tomes | 0.30% | ~20 |
 | A Very Special Ring | 0.30% | ~20 |
 | I Want to Break Free | 0.10% | ~7 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 358)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,624 (Ranked 195)  
+Progressed: 6,626 (Ranked 195)  
 Completed: 7 (0.11%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,6 +290,7 @@ Completed: 7 (0.11%) (Ranked 302)
 | 2023-12-29 | 6,495 | 7 |
 | 2023-12-30 | 6,566 | 7 |
 | 2023-12-31 | 6,624 | 7 |
+| 2024-01-01 | 6,626 | 7 |
 ## Awards
 Max (Great for Beginners): 39  (Ranked 478)  
 Sum: 184 (Ranked 423)  

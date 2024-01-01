@@ -1,23 +1,23 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.55 (Ranked 522)  
+Rating: 4.55 (Ranked 521)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~14,412 |
-| Pay 'n' Spray | 50.00% | ~8,896 |
-| All Dressed Up for San Fierro | 25.00% | ~4,448 |
-| The American Dream | 19.00% | ~3,380 |
+| Getting Started | 81.00% | ~14,415 |
+| Pay 'n' Spray | 50.00% | ~8,898 |
+| All Dressed Up for San Fierro | 25.00% | ~4,449 |
+| The American Dream | 19.00% | ~3,381 |
 | School's Out | 18.00% | ~3,203 |
 | Smooth Moves | 17.00% | ~3,025 |
 | Today Was a Good Day | 15.00% | ~2,669 |
 | What happens in Las Venturas... | 14.00% | ~2,491 |
-| Horror of the Santa Maria | 10.00% | ~1,779 |
-| Liberty City State of Mind | 9.00% | ~1,601 |
-| Original Gangster | 8.00% | ~1,423 |
-| With Extra Dip | 7.00% | ~1,245 |
-| The End of the Line | 7.00% | ~1,245 |
+| Horror of the Santa Maria | 10.00% | ~1,780 |
+| Liberty City State of Mind | 9.00% | ~1,602 |
+| Original Gangster | 8.00% | ~1,424 |
+| With Extra Dip | 7.00% | ~1,246 |
+| The End of the Line | 7.00% | ~1,246 |
 | Saviour | 6.00% | ~1,068 |
 | Rescue a Kitten Too? | 5.00% | ~890 |
 | They Can’t Stop All of Us | 4.00% | ~712 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 522)
 | ...Here we go again | 0.50% | ~89 |
 | I Ain't No Buster | 0.40% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,792 (Ranked 158)  
+Progressed: 17,796 (Ranked 158)  
 Completed: 67 (0.38%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,6 +297,7 @@ Completed: 67 (0.38%) (Ranked 233)
 | 2023-12-29 | 17,467 | 65 |
 | 2023-12-30 | 17,622 | 66 |
 | 2023-12-31 | 17,792 | 67 |
+| 2024-01-01 | 17,796 | 67 |
 ## Awards
 Max (Relaxing): 49  (Ranked 453)  
 Sum: 314 (Ranked 374)  

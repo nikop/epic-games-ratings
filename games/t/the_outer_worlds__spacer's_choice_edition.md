@@ -4,11 +4,12 @@
 Rating: 4.48 (Ranked 651)  
 ## Awards
 Max (Character Customization): 1,270  (Ranked 143)  
-Sum: 1,292 (Ranked 251)  
-Diff (max vs sum): -108  
+Sum: 1,316 (Ranked 248)  
+Diff (max vs sum): -105  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,270 |
+| This game is Extremely Fun | 24 |
 | This game is Relaxing | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -126,4 +127,4 @@ Diff (max vs sum): -108
 | 2023-12-28 | 4.47 | 336 | 336 |
 | 2023-12-29 | 4.48 | 593 | 593 |
 | 2023-12-30 | 4.48 | 914 | 914 |
-| 2023-12-31 | 4.48 | 1,270 | 1,292 |
+| 2023-12-31 | 4.48 | 1,270 | 1,316 |

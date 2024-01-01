@@ -11,11 +11,11 @@ Number of Ratings: 116  (23.09.2022)
 | Helping Hand | 65.00% | ~224 |
 | Increased Vigor | 60.00% | ~207 |
 | Fight Fire with Fire | 57.00% | ~197 |
-| Increased Capacity | 53.00% | ~183 |
+| Increased Capacity | 54.00% | ~186 |
 | Just the start | 50.00% | ~172 |
 | Perfect Storm | 46.00% | ~159 |
 | All That Glitters | 46.00% | ~159 |
-| Enhance! | 42.00% | ~145 |
+| Enhance! | 43.00% | ~148 |
 | One Of the Chosen | 40.00% | ~138 |
 | Throne Potato | 39.00% | ~135 |
 | Five's a Crowd | 38.00% | ~131 |
@@ -34,8 +34,8 @@ Number of Ratings: 116  (23.09.2022)
 | Big Spender | 24.00% | ~83 |
 | Unyielding Strength | 23.00% | ~79 |
 | Can you restore the Balance? | 23.00% | ~79 |
+| Crowd Source | 22.00% | ~76 |
 | Cleanup Crew | 21.00% | ~72 |
-| Crowd Source | 21.00% | ~72 |
 | Maximum Capacity | 20.00% | ~69 |
 | Demon Meddler | 20.00% | ~69 |
 | Seeing Red | 20.00% | ~69 |

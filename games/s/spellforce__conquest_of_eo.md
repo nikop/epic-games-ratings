@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 89.00% | ~93 |
+| Home Sweet Home | 90.00% | ~94 |
 | Enough rooms to swing a cat | 82.00% | ~86 |
 | First to the post | 81.00% | ~85 |
 | A kind of Magic | 75.00% | ~79 |
@@ -20,7 +20,7 @@
 | Friend of Lyraine | 36.00% | ~38 |
 | The Circle | 34.00% | ~36 |
 | Redecorating | 33.00% | ~35 |
-| Bad JuJu | 24.00% | ~25 |
+| Bad JuJu | 25.00% | ~26 |
 | Friend of Sevenkeeps | 23.00% | ~24 |
 | Slave to the rhythm | 22.00% | ~23 |
 | Castle Meldec | 21.00% | ~22 |
