@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 12.00% | ~714 |
+| Malpractice Assurance | 12.00% | ~715 |
 | Lost and Found | 7.00% | ~417 |
 | Autodidact | 6.00% | ~7,865 |
 | This guy... again? | 6.00% | ~357 |
@@ -28,23 +28,23 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 4.00% | ~5,243 |
 | FNG | 4.00% | ~5,243 |
 | Friends 'Til the End | 4.00% | ~238 |
-| Resurrection | 3.00% | ~3,932 |
-| Unleash Hell | 3.00% | ~3,932 |
-| Funny Guy | 3.00% | ~3,932 |
-| Long Live the King | 3.00% | ~3,932 |
-| Wyrdly Reconstructed | 3.00% | ~3,932 |
-| Unfulfilled Desires | 3.00% | ~3,932 |
-| Dissector | 3.00% | ~3,932 |
-| Banishment | 3.00% | ~3,932 |
-| Now Stay Dead | 3.00% | ~3,932 |
-| Spelunker | 3.00% | ~3,932 |
-| Merry Time | 3.00% | ~3,932 |
-| Harvest Festival | 3.00% | ~3,932 |
-| Ramble On | 3.00% | ~3,932 |
-| A Clear Conscience | 3.00% | ~3,932 |
-| Whale | 3.00% | ~3,932 |
-| Nope | 3.00% | ~3,932 |
-| Unshackled | 3.00% | ~3,932 |
+| Resurrection | 3.00% | ~3,933 |
+| Unleash Hell | 3.00% | ~3,933 |
+| Funny Guy | 3.00% | ~3,933 |
+| Long Live the King | 3.00% | ~3,933 |
+| Wyrdly Reconstructed | 3.00% | ~3,933 |
+| Unfulfilled Desires | 3.00% | ~3,933 |
+| Dissector | 3.00% | ~3,933 |
+| Banishment | 3.00% | ~3,933 |
+| Now Stay Dead | 3.00% | ~3,933 |
+| Spelunker | 3.00% | ~3,933 |
+| Merry Time | 3.00% | ~3,933 |
+| Harvest Festival | 3.00% | ~3,933 |
+| Ramble On | 3.00% | ~3,933 |
+| A Clear Conscience | 3.00% | ~3,933 |
+| Whale | 3.00% | ~3,933 |
+| Nope | 3.00% | ~3,933 |
+| Unshackled | 3.00% | ~3,933 |
 | Boxcar Kid | 2.00% | ~2,622 |
 | This Looks Familiar | 2.00% | ~2,622 |
 | Hope Rekindled | 2.00% | ~2,622 |
@@ -69,7 +69,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 0.80% | ~48 |
 | Et Tu, Riposte? | 0.80% | ~48 |
 | Hat Trick | 0.70% | ~918 |
-| The World As It Was | 0.60% | ~786 |
+| The World As It Was | 0.60% | ~787 |
 | A Life Well Lived | 0.50% | ~655 |
 | Bacon Bits | 0.50% | ~655 |
 | Eidetic | 0.40% | ~524 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,082 (Ranked 90)  
+Progressed: 131,086 (Ranked 90)  
 Completed: 3 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,14 +332,14 @@ Completed: 3 (0.00%) (Ranked 390)
 | 2023-12-29 | 130,627 | 3 |
 | 2023-12-30 | 130,838 | 3 |
 | 2023-12-31 | 131,026 | 3 |
-| 2024-01-01 | 131,082 | 3 |
+| 2024-01-01 | 131,086 | 3 |
 ## Awards
-Max (Character Customization): 7,910  (Ranked 50)  
-Sum: 21,303 (Ranked 58)  
+Max (Character Customization): 7,919  (Ranked 50)  
+Sum: 21,312 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,910 |
+| This game has Inclusive Character Customization | 7,919 |
 | This game has Diverse Characters | 1,802 |
 | This game has Challenging Combat | 1,659 |
 | This game is Highly Recommended | 1,583 |
@@ -692,4 +692,4 @@ Diff (max vs sum): -8
 | 2023-12-29 | 4.68 | - | 7,899 | 21,240 |
 | 2023-12-30 | 4.68 | - | 7,905 | 21,274 |
 | 2023-12-31 | 4.68 | - | 7,910 | 21,297 |
-| 2024-01-01 | 4.68 | - | 7,910 | 21,303 |
+| 2024-01-01 | 4.68 | - | 7,919 | 21,312 |

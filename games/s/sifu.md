@@ -1,27 +1,27 @@
 # Sifu
 [Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
-Rating: 4.82 (Ranked 69)  
+Rating: 4.82 (Ranked 70)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 5.00% | ~37,538 |
-| The Assault | 4.00% | ~30,030 |
-| Life is your teacher | 4.00% | ~30,030 |
-| Lightning Hands | 4.00% | ~30,030 |
-| The Hateful Pole Fighter | 2.00% | ~15,015 |
-| A Lady's Blood in the Snow | 2.00% | ~15,015 |
-| Kill Nil | 2.00% | ~15,015 |
-| Stuntmaster | 2.00% | ~15,015 |
-| Street Fighting | 2.00% | ~15,015 |
-| State of constant learning | 2.00% | ~15,015 |
-| Qi Gong: Breath | 2.00% | ~15,015 |
-| Qi Gong: Essence | 2.00% | ~15,015 |
-| Old Child | 2.00% | ~15,015 |
-| Path of the Prospect | 2.00% | ~15,015 |
-| Rumble in the Hangar | 2.00% | ~15,015 |
-| Diligence as a goal | 2.00% | ~1,201 |
+| The Old Grandmaster | 5.00% | ~37,542 |
+| The Assault | 4.00% | ~30,033 |
+| Life is your teacher | 4.00% | ~30,033 |
+| Lightning Hands | 4.00% | ~30,033 |
+| The Hateful Pole Fighter | 2.00% | ~15,017 |
+| A Lady's Blood in the Snow | 2.00% | ~15,017 |
+| Kill Nil | 2.00% | ~15,017 |
+| Stuntmaster | 2.00% | ~15,017 |
+| Street Fighting | 2.00% | ~15,017 |
+| State of constant learning | 2.00% | ~15,017 |
+| Qi Gong: Breath | 2.00% | ~15,017 |
+| Qi Gong: Essence | 2.00% | ~15,017 |
+| Old Child | 2.00% | ~15,017 |
+| Path of the Prospect | 2.00% | ~15,017 |
+| Rumble in the Hangar | 2.00% | ~15,017 |
+| Diligence as a goal | 2.00% | ~1,203 |
 | Lady Wing Chun | 1.00% | ~7,508 |
 | Furious Fists | 1.00% | ~7,508 |
 | Scareless | 1.00% | ~7,508 |
@@ -30,24 +30,24 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kung-Fu Tussle | 1.00% | ~7,508 |
 | Take damage to save time | 1.00% | ~7,508 |
 | Project Arena | 1.00% | ~601 |
-| Dance of the Praying Mantis | 0.90% | ~6,757 |
-| Fight the way you practice | 0.70% | ~420 |
+| Dance of the Praying Mantis | 0.90% | ~6,758 |
+| Fight the way you practice | 0.70% | ~421 |
 | Muk Yan Master | 0.60% | ~4,505 |
-| Martial Hub | 0.60% | ~360 |
+| Martial Hub | 0.60% | ~361 |
 | Tiger on Fire | 0.50% | ~3,754 |
 | Source of Flying Daggers | 0.50% | ~3,754 |
 | Iron Money | 0.50% | ~3,754 |
 | Detective Story | 0.50% | ~3,754 |
 | Sword Stained With Blood | 0.50% | ~3,754 |
-| Bloody Sport | 0.50% | ~300 |
+| Bloody Sport | 0.50% | ~301 |
 | Legendary Talismans of Wuxing | 0.40% | ~3,003 |
 | Prodigal Child | 0.40% | ~3,003 |
 | The 36th Chamber of Kung-Fu | 0.40% | ~3,003 |
-| The best strikes are the ones we avoid | 0.40% | ~240 |
-| Drunken Fighter | 0.30% | ~2,252 |
-| Knowledge Greed | 0.30% | ~2,252 |
-| The Pit Protector | 0.30% | ~2,252 |
-| Come Snap With Me | 0.30% | ~2,252 |
+| The best strikes are the ones we avoid | 0.40% | ~241 |
+| Drunken Fighter | 0.30% | ~2,253 |
+| Knowledge Greed | 0.30% | ~2,253 |
+| The Pit Protector | 0.30% | ~2,253 |
+| Come Snap With Me | 0.30% | ~2,253 |
 | Deadly Venom | 0.30% | ~180 |
 | Martial Artist | 0.20% | ~1,502 |
 | Healing Memory | 0.20% | ~1,502 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~60 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 750,760 (Ranked 23)  
+Progressed: 750,834 (Ranked 23)  
 Completed: 12,971 (1.73%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 12,971 (1.73%) (Ranked 143)
 | 2023-12-29 | 748,212 | 12,968 |
 | 2023-12-30 | 749,350 | 12,969 |
 | 2023-12-31 | 750,399 | 12,971 |
-| 2024-01-01 | 750,760 | 12,971 |
+| 2024-01-01 | 750,834 | 12,971 |
 ## Awards
 Max (Great Boss Battles): 7,070  (Ranked 55)  
 Sum: 11,961 (Ranked 87)  

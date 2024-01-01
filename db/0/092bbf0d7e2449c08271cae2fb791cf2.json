@@ -4,7 +4,7 @@
   "ProductSlug": "chuchel-203808",
   "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 378,
+  "EOS_Progressed": 379,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.79,
   "EosHistory": [
@@ -1254,6 +1254,11 @@
       "Time": "2024-01-01T04:08:15.9494051+00:00",
       "NumProgressed": 378,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-01T09:08:31.5129098+00:00",
+      "NumProgressed": 379,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -1266,7 +1271,7 @@
       "Name": "Good Morning",
       "Percentage": 16,
       "XP": 145,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ach2",
@@ -1274,7 +1279,7 @@
       "Name": "Blabber",
       "Percentage": 50,
       "XP": 145,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ach3",
@@ -1290,7 +1295,7 @@
       "Name": "Three Caps",
       "Percentage": 7,
       "XP": 140,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ach5",
@@ -1321,14 +1326,14 @@
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 378,
+      "Progressed": 379,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2024-01-01T08:08:38.728684+00:00",
+  "LastChanged_Achievements": "2024-01-01T09:08:31.5129096+00:00",
   "LastUpdate_AppInfo": "2023-12-27T20:57:07.636228+00:00",
-  "LastUpdate_Ratings": "2024-01-01T07:58:25.9280975+00:00",
-  "LastUpdate_Achievements": "2024-01-01T08:08:38.7286948+00:00"
+  "LastUpdate_Ratings": "2024-01-01T08:58:19.7514728+00:00",
+  "LastUpdate_Achievements": "2024-01-01T09:08:31.5129219+00:00"
 }

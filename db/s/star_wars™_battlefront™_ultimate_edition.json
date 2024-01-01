@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2434,
+  "EOS_Progressed": 2435,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 300,
   "EOS_NewCompleters": 0,
@@ -6829,6 +6829,11 @@
       "Time": "2024-01-01T07:10:23.5757125+00:00",
       "NumProgressed": 2434,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-01T09:11:05.2547847+00:00",
+      "NumProgressed": 2435,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -7081,7 +7086,7 @@
       "Name": "Off to a good start",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1509
+      "UsersEstimate": 1510
     },
     {
       "ID": "achievement_38",
@@ -7193,7 +7198,7 @@
       "Name": "Shoot first",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "achievement_50",
@@ -7281,7 +7286,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "achievement_60",
@@ -7344,13 +7349,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2434,
+      "Progressed": 2435,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2434,
+      "Progressed": 2435,
       "Completed": 1
     }
   ],
@@ -7358,8 +7363,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-01T08:10:31.9172702+00:00",
+  "LastChanged_Achievements": "2024-01-01T09:11:05.2547845+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:19.759459+00:00",
-  "LastUpdate_Ratings": "2024-01-01T07:58:49.0439496+00:00",
-  "LastUpdate_Achievements": "2024-01-01T08:10:31.9173447+00:00"
+  "LastUpdate_Ratings": "2024-01-01T08:58:52.7980962+00:00",
+  "LastUpdate_Achievements": "2024-01-01T09:11:05.2548878+00:00"
 }

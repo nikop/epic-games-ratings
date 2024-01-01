@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7707,
+  "EOS_Progressed": 7708,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -6633,6 +6633,11 @@
       "Time": "2023-12-31T18:03:38.0818599+00:00",
       "NumProgressed": 7707,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2024-01-01T09:04:19.5274284+00:00",
+      "NumProgressed": 7708,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 27,
@@ -6724,7 +6729,7 @@
       "Name": "Knowledge Shared",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 1541
+      "UsersEstimate": 1542
     },
     {
       "ID": "AK_LEARNED_SCHOLAR",
@@ -6772,7 +6777,7 @@
       "Name": "Relic Finder",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1541
+      "UsersEstimate": 1542
     },
     {
       "ID": "AK_SEEKERS_FOUND",
@@ -6812,7 +6817,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2620
+      "UsersEstimate": 2621
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -6852,22 +6857,22 @@
       "Name": "Worthy of the Title",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1464
+      "UsersEstimate": 1465
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7707,
+      "Progressed": 7708,
       "Completed": 59
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2024-01-01T08:04:19.0218027+00:00",
+  "LastChanged_Achievements": "2024-01-01T09:04:19.5274281+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:57:02.2887263+00:00",
-  "LastUpdate_Ratings": "2024-01-01T08:03:50.4882197+00:00",
-  "LastUpdate_Achievements": "2024-01-01T08:04:19.0218443+00:00"
+  "LastUpdate_Ratings": "2024-01-01T09:03:37.8075215+00:00",
+  "LastUpdate_Achievements": "2024-01-01T09:04:19.5274628+00:00"
 }

@@ -28,8 +28,8 @@ Rating: 4.67 (Ranked 285)
 | “… like son” | 51.00% | ~347 |
 | The Cathedral of Light | 48.00% | ~326 |
 | Shame! Shame! Shame! | 48.00% | ~326 |
+| Dungeonlord Gorgu | 46.00% | ~313 |
 | Pure Dynamite! | 45.00% | ~306 |
-| Dungeonlord Gorgu | 45.00% | ~306 |
 | Tanos' Crusade Against Thalya | 45.00% | ~306 |
 | Mana Cannon | 42.00% | ~286 |
 | All’s Well That Ends Evil | 41.00% | ~279 |
@@ -40,10 +40,10 @@ Rating: 4.67 (Ranked 285)
 | The Finitude Drill | 33.00% | ~224 |
 | Ghost Pirates? Ghost Heroes! | 30.00% | ~204 |
 | Doom Hill | 30.00% | ~204 |
-| Not Even a Tiny Thin Mint Wafer, Thanks! | 28.00% | ~190 |
+| Not Even a Tiny Thin Mint Wafer, Thanks! | 29.00% | ~197 |
+| Hungry, Hungry Gorgu! | 28.00% | ~190 |
 | Forbidden Knowledge | 28.00% | ~190 |
 | Brimstone Shaken, Not Stirred | 28.00% | ~190 |
-| Hungry, Hungry Gorgu! | 27.00% | ~184 |
 | Stop Tanos! | 27.00% | ~184 |
 | The Rune Sockets of Finitude (Part 1) | 27.00% | ~184 |
 | Sabotage! | 26.00% | ~177 |

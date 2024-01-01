@@ -2,7 +2,7 @@
   "ID": "14d712e338ee4fe5b5304d959cd75cd2",
   "Name": "Spelldrifter",
   "ProductSlug": "spelldrifter",
-  "Ranking_Rating": 1074,
+  "Ranking_Rating": 1073,
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 549,
   "Ranking_EOS_Progress": 819,
@@ -353,6 +353,6 @@
   "FirstSeenRating": "2023-03-31T05:58:19.3460946+00:00",
   "LastChanged": "2023-12-30T14:02:24.8040684+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:21.1650689+00:00",
-  "LastUpdate_Ratings": "2024-01-01T08:03:27.6256182+00:00",
-  "LastUpdate_Achievements": "2024-01-01T08:08:33.0287131+00:00"
+  "LastUpdate_Ratings": "2024-01-01T09:03:02.9737261+00:00",
+  "LastUpdate_Achievements": "2024-01-01T09:08:23.6313194+00:00"
 }

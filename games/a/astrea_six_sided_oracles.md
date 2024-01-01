@@ -10,10 +10,10 @@
 | Dicesmithing Time! | 65.00% | ~187 |
 | Sanctuary Guardian | 55.00% | ~158 |
 | Endless Tricks | 51.00% | ~147 |
-| Wild's Keeper | 46.00% | ~132 |
+| Wild's Keeper | 47.00% | ~135 |
 | Mind Illuminator | 44.00% | ~127 |
 | Stellar Dismantler | 37.00% | ~107 |
-| Noctuan Champion | 35.00% | ~101 |
+| Noctuan Champion | 36.00% | ~104 |
 | Astral Adventurer | 33.00% | ~95 |
 | Anomaly Destroyer | 31.00% | ~89 |
 | Star Killer | 28.00% | ~81 |

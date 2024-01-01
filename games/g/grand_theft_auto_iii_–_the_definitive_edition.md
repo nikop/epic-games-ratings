@@ -5,37 +5,37 @@ Rating: 4.22 (Ranked 935)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~9,333 |
-| Disposing of the Evidence | 38.00% | ~4,273 |
-| Without a Scratch | 34.00% | ~3,823 |
-| Wreckless Driving | 28.00% | ~3,149 |
-| A Marked Man | 25.00% | ~2,811 |
-| Street Sweeper | 19.00% | ~2,137 |
-| Liberty City Minute | 17.00% | ~1,912 |
-| Offshore Delivery | 14.00% | ~1,574 |
-| Dirty Money | 12.00% | ~1,349 |
-| By a Mile | 10.00% | ~1,124 |
-| Not So Fast | 10.00% | ~1,124 |
-| Right-hand Man | 10.00% | ~1,124 |
-| A Gift from the King | 7.00% | ~787 |
+| First Day on the Job | 83.00% | ~9,339 |
+| Disposing of the Evidence | 38.00% | ~4,276 |
+| Without a Scratch | 34.00% | ~3,826 |
+| Wreckless Driving | 28.00% | ~3,151 |
+| A Marked Man | 25.00% | ~2,813 |
+| Street Sweeper | 19.00% | ~2,138 |
+| Liberty City Minute | 17.00% | ~1,913 |
+| Offshore Delivery | 14.00% | ~1,575 |
+| Dirty Money | 12.00% | ~1,350 |
+| By a Mile | 10.00% | ~1,125 |
+| Not So Fast | 10.00% | ~1,125 |
+| Right-hand Man | 10.00% | ~1,125 |
+| A Gift from the King | 7.00% | ~788 |
 | Full Artillery | 4.00% | ~450 |
-| Mob Boss | 3.00% | ~337 |
+| Mob Boss | 3.00% | ~338 |
 | Escape Artist | 2.00% | ~225 |
 | Where To? | 2.00% | ~225 |
 | Splish Splash | 2.00% | ~225 |
 | Playing Doctor | 2.00% | ~225 |
 | Liberty City Secrets | 2.00% | ~225 |
-| Planned Ahead | 1.00% | ~112 |
-| Got This Figured Out | 1.00% | ~112 |
-| Wheels Up | 1.00% | ~112 |
-| Come Out to Play-y-y-y | 1.00% | ~112 |
-| Man Toyz | 1.00% | ~112 |
-| Going Rogue | 1.00% | ~112 |
-| Furious First Responder | 1.00% | ~112 |
+| Planned Ahead | 1.00% | ~113 |
+| Got This Figured Out | 1.00% | ~113 |
+| Wheels Up | 1.00% | ~113 |
+| Come Out to Play-y-y-y | 1.00% | ~113 |
+| Man Toyz | 1.00% | ~113 |
+| Going Rogue | 1.00% | ~113 |
+| Furious First Responder | 1.00% | ~113 |
 | Is That All You've Got? | 0.90% | ~101 |
-| King of Liberty City | 0.60% | ~67 |
+| King of Liberty City | 0.60% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,245 (Ranked 177)  
+Progressed: 11,252 (Ranked 177)  
 Completed: 70 (0.62%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 70 (0.62%) (Ranked 203)
 | 2023-12-29 | 11,014 | 70 |
 | 2023-12-30 | 11,134 | 70 |
 | 2023-12-31 | 11,224 | 70 |
-| 2024-01-01 | 11,245 | 70 |
+| 2024-01-01 | 11,252 | 70 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

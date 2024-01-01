@@ -2577,9 +2577,9 @@
       "ID": "FAIR_SHARE",
       "SetID": "8eejhlh",
       "Name": "Fair Share",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 617
+      "UsersEstimate": 627
     },
     {
       "ID": "GOOD_KARMA",
@@ -2658,8 +2658,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2024-01-01T08:09:55.7545778+00:00",
+  "LastChanged_Achievements": "2024-01-01T09:10:18.2896411+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:05.9335088+00:00",
-  "LastUpdate_Ratings": "2024-01-01T08:00:48.0860422+00:00",
-  "LastUpdate_Achievements": "2024-01-01T08:09:55.7546063+00:00"
+  "LastUpdate_Ratings": "2024-01-01T09:02:38.0911539+00:00",
+  "LastUpdate_Achievements": "2024-01-01T09:10:18.289663+00:00"
 }

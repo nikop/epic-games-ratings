@@ -2951,9 +2951,9 @@
       "Count": 150
     }
   ],
-  "EOS_Progressed": 676704,
+  "EOS_Progressed": 676706,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 2992,
+  "EOS_NewPlayers": 2984,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32321,6 +32321,11 @@
       "Time": "2024-01-01T08:10:28.0330693+00:00",
       "NumProgressed": 676704,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-01T09:11:01.0773054+00:00",
+      "NumProgressed": 676706,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 52,
@@ -32340,7 +32345,7 @@
       "Name": "Hiker",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 81204
+      "UsersEstimate": 81205
     },
     {
       "ID": "_01_02_DISTANCE_500_EASY",
@@ -32618,9 +32623,9 @@
       "ID": "_03_07_SHOPAHOLIC",
       "SetID": "1l01929",
       "Name": "Shopaholic",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 4737
+      "UsersEstimate": 5414
     },
     {
       "ID": "_04_00_COLLECTOR",
@@ -32747,15 +32752,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 676704,
+      "Progressed": 676706,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2024-01-01T03:57:11.3630278+00:00",
-  "LastChanged_Achievements": "2024-01-01T08:10:28.0330689+00:00",
+  "LastChanged_Achievements": "2024-01-01T09:11:01.0773052+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:40.955753+00:00",
-  "LastUpdate_Ratings": "2024-01-01T07:57:31.8140386+00:00",
-  "LastUpdate_Achievements": "2024-01-01T08:10:28.0332792+00:00"
+  "LastUpdate_Ratings": "2024-01-01T08:57:06.7405238+00:00",
+  "LastUpdate_Achievements": "2024-01-01T09:11:01.0774517+00:00"
 }

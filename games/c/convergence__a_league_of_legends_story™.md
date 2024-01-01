@@ -6,7 +6,7 @@ Rating: 4.65 (Ranked 325)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 43.00% | ~506 |
-| Rail Rat | 32.00% | ~376 |
+| Rail Rat | 32.00% | ~377 |
 | The Mysterious Stranger | 31.00% | ~365 |
 | Immaculate Aim | 27.00% | ~318 |
 | The Brass Boss | 26.00% | ~306 |
@@ -18,19 +18,19 @@ Rating: 4.65 (Ranked 325)
 | Honest Mistake | 24.00% | ~282 |
 | Fast Learner | 24.00% | ~282 |
 | Immaculate Aim | 24.00% | ~282 |
-| The Steel Shadow | 23.00% | ~270 |
-| Breaking Down Barriers | 23.00% | ~270 |
+| The Steel Shadow | 23.00% | ~271 |
+| Breaking Down Barriers | 23.00% | ~271 |
 | The Wicked Twins | 22.00% | ~259 |
 | Right On Time | 21.00% | ~247 |
 | Like Clockwork | 21.00% | ~247 |
 | The Betrayer | 21.00% | ~247 |
 | Golem Chaser | 21.00% | ~247 |
 | Check Your Pulse | 20.00% | ~235 |
-| The Loose Cannon | 19.00% | ~223 |
+| The Loose Cannon | 19.00% | ~224 |
 | Street Style | 18.00% | ~212 |
 | The Man Who Shattered Time | 18.00% | ~212 |
 | The Family Fortune | 18.00% | ~212 |
-| Whiz Kid | 15.00% | ~176 |
+| Whiz Kid | 15.00% | ~177 |
 | Good Neighbor | 14.00% | ~165 |
 | Family Memories | 13.00% | ~153 |
 | Cartographer | 13.00% | ~153 |
@@ -54,12 +54,12 @@ Rating: 4.65 (Ranked 325)
 | Fitting In | 2.00% | ~24 |
 | Thinking Two Steps Ahead | 1.00% | ~12 |
 | No Time to Waste | 1.00% | ~12 |
-| A Lesson in Precision | 0.90% | ~11 |
+| A Lesson in Precision | 0.80% | ~9 |
 | Wildlife Protection | 0.70% | ~8 |
 | Raw Talent | 0.60% | ~7 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,176 (Ranked 280)  
+Progressed: 1,177 (Ranked 280)  
 Completed: 6 (0.51%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 6 (0.51%) (Ranked 218)
 | 2023-12-29 | 1,145 | 6 |
 | 2023-12-30 | 1,165 | 6 |
 | 2023-12-31 | 1,175 | 6 |
-| 2024-01-01 | 1,176 | 6 |
+| 2024-01-01 | 1,177 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

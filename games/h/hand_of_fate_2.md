@@ -6,16 +6,16 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~479,970 |
-| Apprentice | 58.00% | ~386,642 |
+| The Fool | 72.00% | ~479,971 |
+| Apprentice | 58.00% | ~386,643 |
 | Close Shave | 25.00% | ~166,656 |
 | Mercenary | 23.00% | ~153,324 |
 | Ninja | 23.00% | ~153,324 |
 | Northern Scourge | 17.00% | ~113,326 |
 | Thief Bane | 14.00% | ~93,328 |
 | Master of Arms | 12.00% | ~79,995 |
-| Gambler | 10.00% | ~66,662 |
-| Dice Master | 10.00% | ~66,662 |
+| Gambler | 10.00% | ~66,663 |
+| Dice Master | 10.00% | ~66,663 |
 | Swordsman | 9.00% | ~59,996 |
 | Knight | 8.00% | ~53,330 |
 | Cure for Corruption | 8.00% | ~53,330 |
@@ -31,9 +31,9 @@ Number of Ratings: 780  (23.09.2022)
 | Leap of Faith | 3.00% | ~19,999 |
 | Combat Ready | 3.00% | ~19,999 |
 | Stuffed Potato | 3.00% | ~19,999 |
-| Card Sharp | 2.00% | ~13,332 |
-| Magician | 2.00% | ~13,332 |
-| Draknar's Bane | 2.00% | ~13,332 |
+| Card Sharp | 2.00% | ~13,333 |
+| Magician | 2.00% | ~13,333 |
+| Draknar's Bane | 2.00% | ~13,333 |
 | Protector of the Realm | 1.00% | ~6,666 |
 | Purgatorium | 1.00% | ~6,666 |
 | Cursed Soul | 1.00% | ~6,666 |
@@ -45,8 +45,8 @@ Number of Ratings: 780  (23.09.2022)
 | Hero | 0.60% | ~4,000 |
 | Rebel | 0.60% | ~4,000 |
 | Dungeon Master | 0.50% | ~3,333 |
-| Pilgrim | 0.40% | ~2,666 |
-| Smiths Honour | 0.40% | ~2,666 |
+| Pilgrim | 0.40% | ~2,667 |
+| Smiths Honour | 0.40% | ~2,667 |
 | Peaceful Coast | 0.30% | ~2,000 |
 | Money Bags | 0.20% | ~1,333 |
 | Grifter | 0.10% | ~667 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~667 |
 | Blood Pact | 0.10% | ~667 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666,625 (Ranked 29)  
+Progressed: 666,626 (Ranked 29)  
 Completed: 174 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 174 (0.03%) (Ranked 350)
 | 2023-12-29 | 666,498 | 174 |
 | 2023-12-30 | 666,554 | 174 |
 | 2023-12-31 | 666,602 | 174 |
-| 2024-01-01 | 666,625 | 174 |
+| 2024-01-01 | 666,626 | 174 |
 ## Awards
 Max (Amazing Storytelling): 36  (Ranked 491)  
 Sum: 193 (Ranked 417)  

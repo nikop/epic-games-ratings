@@ -6,35 +6,35 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 39.00% | ~11,800 |
-| Overkill | 33.00% | ~9,985 |
-| Vaccine Incoming | 32.00% | ~9,682 |
-| A normal day in Gloomhaven | 29.00% | ~8,775 |
-| Spread the plague | 27.00% | ~8,169 |
-| Get over here! | 24.00% | ~7,262 |
-| Just when I thought I was out... | 19.00% | ~5,749 |
-| Precious! | 16.00% | ~4,841 |
-| Mine... All Mine... | 16.00% | ~4,841 |
+| I'm not dead yet | 39.00% | ~11,803 |
+| Overkill | 33.00% | ~9,987 |
+| Vaccine Incoming | 32.00% | ~9,684 |
+| A normal day in Gloomhaven | 29.00% | ~8,776 |
+| Spread the plague | 27.00% | ~8,171 |
+| Get over here! | 24.00% | ~7,263 |
+| Just when I thought I was out... | 19.00% | ~5,750 |
+| Precious! | 16.00% | ~4,842 |
+| Mine... All Mine... | 16.00% | ~4,842 |
 | Grizzled veteran | 15.00% | ~4,539 |
-| Anatomy Lesson | 14.00% | ~4,236 |
-| Light of my life | 13.00% | ~3,933 |
-| Who's the Boss? | 12.00% | ~3,631 |
-| You activated my trap card! | 12.00% | ~3,631 |
-| Obstacle race | 12.00% | ~3,631 |
-| Augmented rat | 11.00% | ~3,328 |
+| Anatomy Lesson | 14.00% | ~4,237 |
+| Light of my life | 13.00% | ~3,934 |
+| Who's the Boss? | 12.00% | ~3,632 |
+| You activated my trap card! | 12.00% | ~3,632 |
+| Obstacle race | 12.00% | ~3,632 |
+| Augmented rat | 11.00% | ~3,329 |
 | Doom and gloom | 10.00% | ~3,026 |
 | Dungeon Veteran | 8.00% | ~2,421 |
 | Pain is your friend | 8.00% | ~2,421 |
 | Pack leader | 7.00% | ~2,118 |
 | Black death | 7.00% | ~2,118 |
 | Play it again, Sam | 7.00% | ~2,118 |
-| Quad damage | 6.00% | ~1,815 |
+| Quad damage | 6.00% | ~1,816 |
 | Power Up! | 5.00% | ~1,513 |
 | Merchant of doom | 5.00% | ~1,513 |
 | Caught off guard | 5.00% | ~1,513 |
 | Now you see me... | 5.00% | ~1,513 |
-| The Pro from Dover | 4.00% | ~1,210 |
-| Pretty lights! | 4.00% | ~1,210 |
+| The Pro from Dover | 4.00% | ~1,211 |
+| Pretty lights! | 4.00% | ~1,211 |
 | I hate portals | 3.00% | ~908 |
 | Down the hatch | 3.00% | ~908 |
 | An eye for an eye | 3.00% | ~908 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~30 |
 | Murder Death Kill | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,257 (Ranked 140)  
+Progressed: 30,263 (Ranked 140)  
 Completed: 1 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,10 +178,10 @@ Completed: 1 (0.00%) (Ranked 390)
 | 2023-12-29 | 29,668 | 1 |
 | 2023-12-30 | 29,956 | 1 |
 | 2023-12-31 | 30,197 | 1 |
-| 2024-01-01 | 30,257 | 1 |
+| 2024-01-01 | 30,263 | 1 |
 ## Awards
 Max (Character Customization): 3,608  (Ranked 93)  
-Sum: 8,448 (Ranked 105)  
+Sum: 8,449 (Ranked 105)  
 Diff (max vs sum): -12  
 | Award | Count |
 | ----- | ----- |
@@ -192,7 +192,7 @@ Diff (max vs sum): -12
 | This game is Extremely Fun | 549 |
 | This game has Amazing Characters | 494 |
 | This game has Quickly Understood Controls | 493 |
-| This game is Relaxing | 492 |
+| This game is Relaxing | 493 |
 | This game has Amazing Storytelling | 491 |
 | This game has Unique Visuals | 382 |
 | This game has a Creative Community | 221 |
@@ -453,4 +453,4 @@ Diff (max vs sum): -12
 | 2023-12-28 | 4.47 | - | 3,605 | 8,440 |
 | 2023-12-29 | 4.47 | - | 3,606 | 8,445 |
 | 2023-12-30 | 4.47 | - | 3,607 | 8,447 |
-| 2024-01-01 | 4.47 | - | 3,608 | 8,448 |
+| 2024-01-01 | 4.47 | - | 3,608 | 8,449 |

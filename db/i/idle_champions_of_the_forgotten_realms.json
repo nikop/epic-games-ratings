@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 51,
-  "Ranking_EOS_NewCompleters": 17,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9247,9 +9247,9 @@
       "Count": 3617
     }
   ],
-  "EOS_Progressed": 248858,
+  "EOS_Progressed": 248877,
   "EOS_Completed": 2582,
-  "EOS_NewPlayers": 4472,
+  "EOS_NewPlayers": 4475,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -38197,6 +38197,11 @@
       "Time": "2024-01-01T08:10:35.8941025+00:00",
       "NumProgressed": 248858,
       "NumCompleted": 2582
+    },
+    {
+      "Time": "2024-01-01T09:11:10.2171981+00:00",
+      "NumProgressed": 248877,
+      "NumCompleted": 2582
     }
   ],
   "TotalAchievements": 546,
@@ -39072,7 +39077,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     },
     {
       "ID": "objective_completed_1203",
@@ -40000,7 +40005,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     },
     {
       "ID": "objective_completed_390",
@@ -40072,7 +40077,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     },
     {
       "ID": "objective_completed_40",
@@ -41424,7 +41429,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     },
     {
       "ID": "objective_completed_80",
@@ -42575,21 +42580,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 215132,
+      "Progressed": 215151,
       "Completed": 4115
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 248858,
+      "Progressed": 248877,
       "Completed": 2582
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-01T05:57:48.4090061+00:00",
-  "LastChanged_Achievements": "2024-01-01T08:10:35.8941022+00:00",
+  "LastChanged_Achievements": "2024-01-01T09:11:10.217198+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-01T07:57:50.8136967+00:00",
-  "LastUpdate_Achievements": "2024-01-01T08:10:35.8964549+00:00"
+  "LastUpdate_Ratings": "2024-01-01T08:57:32.2551981+00:00",
+  "LastUpdate_Achievements": "2024-01-01T09:11:10.2196524+00:00"
 }

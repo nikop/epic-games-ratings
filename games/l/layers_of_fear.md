@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 85.00% | ~209 |
-| A piece of the story | 61.00% | ~150 |
+| Something important | 85.00% | ~210 |
+| A piece of the story | 62.00% | ~153 |
 | It's covered up for a reason | 54.00% | ~133 |
 | Wanderer | 54.00% | ~133 |
-| Scraps of love | 48.00% | ~118 |
-| The artist’s impression | 46.00% | ~113 |
-| Do what you have to | 42.00% | ~103 |
-| Sign of weakness | 38.00% | ~93 |
+| Scraps of love | 48.00% | ~119 |
+| The artist’s impression | 46.00% | ~114 |
+| Do what you have to | 42.00% | ~104 |
+| Sign of weakness | 38.00% | ~94 |
 | Refuse to look | 35.00% | ~86 |
-| Face your fears | 29.00% | ~71 |
+| Face your fears | 29.00% | ~72 |
 | Finished it | 26.00% | ~64 |
-| Whispers long forgotten | 16.00% | ~39 |
+| Whispers long forgotten | 16.00% | ~40 |
+| Sound Bite | 13.00% | ~32 |
 | The art of movement | 13.00% | ~32 |
 | A Slice of Life | 12.00% | ~30 |
 | Debut | 12.00% | ~30 |
-| Sound Bite | 12.00% | ~30 |
 | Another perspective | 11.00% | ~27 |
 | Lights! Camera! Action! | 11.00% | ~27 |
 | Playtime | 11.00% | ~27 |
@@ -28,11 +28,11 @@
 | A new way | 10.00% | ~25 |
 | First steps | 10.00% | ~25 |
 | Breaking free | 9.00% | ~22 |
-| Fisherman | 7.00% | ~17 |
 | True Reflection | 7.00% | ~17 |
 | Casting Finished | 6.00% | ~15 |
 | Heavy Burden | 6.00% | ~15 |
 | Instinct of self-preservation | 6.00% | ~15 |
+| Fisherman | 6.00% | ~15 |
 | Something to think about | 4.00% | ~10 |
 | I remember It Like Was Yesterday | 4.00% | ~10 |
 | Immortalized in my heart | 4.00% | ~10 |
@@ -57,7 +57,7 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246 (Ranked 408)  
+Progressed: 247 (Ranked 408)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,4 +127,4 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-29 | 227 | 0 |
 | 2023-12-30 | 235 | 0 |
 | 2023-12-31 | 243 | 0 |
-| 2024-01-01 | 246 | 0 |
+| 2024-01-01 | 247 | 0 |

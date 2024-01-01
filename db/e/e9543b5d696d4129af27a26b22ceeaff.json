@@ -4,7 +4,7 @@
   "ProductSlug": "international-basketball-manager-23-561576",
   "Ranking_EOS_Progress": 547,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewPlayers": 443,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-29T07:30:00+00:00",
@@ -306,9 +306,9 @@
       "ID": "ACH_AMERICAN_CAREER",
       "SetID": "1lnhagg",
       "Name": "To the States!",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_ASSISTS_DELIVERY",
@@ -506,9 +506,9 @@
       "ID": "ACH_WIN_EUROLEAGUE",
       "SetID": "1lnhagg",
       "Name": "Europe is Mine",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_WIN_NBA",
@@ -537,8 +537,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2024-01-01T08:08:58.8744979+00:00",
+  "LastChanged_Achievements": "2024-01-01T09:08:59.4789443+00:00",
   "LastUpdate_AppInfo": "2023-12-29T02:57:12.5001029+00:00",
-  "LastUpdate_Ratings": "2024-01-01T08:00:20.7231047+00:00",
-  "LastUpdate_Achievements": "2024-01-01T08:08:58.8745177+00:00"
+  "LastUpdate_Ratings": "2024-01-01T09:01:07.7991026+00:00",
+  "LastUpdate_Achievements": "2024-01-01T09:08:59.4789692+00:00"
 }

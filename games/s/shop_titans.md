@@ -6,8 +6,8 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 10.00% | ~14,875 |
-| Titan's First Steps | 10.00% | ~14,875 |
+| Sponsored by Argon | 10.00% | ~14,876 |
+| Titan's First Steps | 10.00% | ~14,876 |
 | Basic in Bulk | 9.00% | ~13,388 |
 | Tinkle of Coins | 8.00% | ~11,900 |
 | Disintermediation | 7.00% | ~10,413 |
@@ -38,6 +38,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Power of Love | 3.00% | ~4,463 |
 | Efficient Floor Space | 3.00% | ~4,463 |
 | Flawless Fusion | 3.00% | ~4,463 |
+| Trash to Treasure | 3.00% | ~4,463 |
 | Gem Expert | 3.00% | ~4,463 |
 | Gild-Gotten Goods | 3.00% | ~4,463 |
 | Royal Ransom | 3.00% | ~4,463 |
@@ -76,7 +77,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fit for a King | 2.00% | ~2,975 |
 | By Your Powers Combined... | 2.00% | ~2,975 |
 | A Legend is Born | 2.00% | ~2,975 |
-| Trash to Treasure | 2.00% | ~2,975 |
 | Mammonite | 2.00% | ~2,975 |
 | Wealth Beyond Measure | 2.00% | ~2,975 |
 | Fat Cat Tag Team | 2.00% | ~2,975 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~595 |
 | Capitalist Camaraderie | 0.20% | ~298 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 148,751 (Ranked 86)  
+Progressed: 148,755 (Ranked 86)  
 Completed: 340 (0.23%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -375,7 +375,7 @@ Completed: 340 (0.23%) (Ranked 267)
 | 2023-12-29 | 148,353 | 338 |
 | 2023-12-30 | 148,534 | 340 |
 | 2023-12-31 | 148,713 | 340 |
-| 2024-01-01 | 148,751 | 340 |
+| 2024-01-01 | 148,755 | 340 |
 ## Awards
 Max (Great for Beginners): 4,934  (Ranked 78)  
 Sum: 27,886 (Ranked 51)  

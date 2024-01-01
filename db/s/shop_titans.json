@@ -7909,9 +7909,9 @@
       "Count": 3808
     }
   ],
-  "EOS_Progressed": 148751,
+  "EOS_Progressed": 148755,
   "EOS_Completed": 340,
-  "EOS_NewPlayers": 1256,
+  "EOS_NewPlayers": 1255,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -34839,6 +34839,11 @@
       "Time": "2024-01-01T08:05:51.8161924+00:00",
       "NumProgressed": 148751,
       "NumCompleted": 340
+    },
+    {
+      "Time": "2024-01-01T09:06:27.1132095+00:00",
+      "NumProgressed": 148755,
+      "NumCompleted": 340
     }
   ],
   "TotalAchievements": 112,
@@ -35018,7 +35023,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 14875
+      "UsersEstimate": 14876
     },
     {
       "ID": "chest02",
@@ -35304,9 +35309,9 @@
       "ID": "fuseuncommon",
       "SetID": "anfd17p",
       "Name": "Trash to Treasure",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2975
+      "UsersEstimate": 4463
     },
     {
       "ID": "gemsspent",
@@ -35666,7 +35671,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 14875
+      "UsersEstimate": 14876
     },
     {
       "ID": "twinenchant01",
@@ -35745,15 +35750,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 148751,
+      "Progressed": 148755,
       "Completed": 340
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-01T05:03:24.8918363+00:00",
-  "LastChanged_Achievements": "2024-01-01T08:05:51.8161921+00:00",
+  "LastChanged_Achievements": "2024-01-01T09:06:27.1132093+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.6407181+00:00",
-  "LastUpdate_Ratings": "2024-01-01T08:03:46.1225207+00:00",
-  "LastUpdate_Achievements": "2024-01-01T08:05:51.8164254+00:00"
+  "LastUpdate_Ratings": "2024-01-01T09:03:31.0582308+00:00",
+  "LastUpdate_Achievements": "2024-01-01T09:06:27.1135944+00:00"
 }

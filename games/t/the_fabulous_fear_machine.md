@@ -9,20 +9,20 @@
 | Jung's dream | 32.00% | ~23 |
 | The battle of Great Britain | 32.00% | ~23 |
 | Pulp! Where Monsters Dwell | 28.00% | ~20 |
-| A continent with chemistry | 22.00% | ~16 |
-| The happy farmer girl | 21.00% | ~15 |
-| Giant | 18.00% | ~13 |
-| Pulp! Terror Tales in the Night | 18.00% | ~13 |
+| A continent with chemistry | 24.00% | ~17 |
+| The happy farmer girl | 22.00% | ~16 |
+| Giant | 19.00% | ~14 |
+| Pulp! Terror Tales in the Night | 19.00% | ~14 |
+| A rival with no options | 18.00% | ~13 |
 | Pulp! Out of this World | 18.00% | ~13 |
-| A rival with no options | 17.00% | ~12 |
 | Diagnosis: fear | 17.00% | ~12 |
 | Ambition is... blind | 17.00% | ~12 |
 | You have two wishes left | 17.00% | ~12 |
 | The artist | 15.00% | ~11 |
+| The seer | 15.00% | ~11 |
 | Pulp! Adventures into the Unknown | 15.00% | ~11 |
 | You had one wish left | 14.00% | ~10 |
 | Et in arcadia ego | 14.00% | ~10 |
-| The seer | 14.00% | ~10 |
 | You've awakened the beast | 13.00% | ~9 |
 | Hate is... addictive | 13.00% | ~9 |
 | Kirlian's best disciple | 13.00% | ~9 |

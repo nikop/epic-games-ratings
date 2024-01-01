@@ -10,10 +10,10 @@
 | Smooth Operator | 17.00% | ~46 |
 | Easy Listening | 15.00% | ~40 |
 | Rapturous Applause! | 14.00% | ~38 |
-| Perfect Harmony! | 12.00% | ~32 |
+| Perfect Harmony! | 13.00% | ~35 |
 | Wales Interactive | 10.00% | ~27 |
 | Chief Butler | 9.00% | ~24 |
-| Bull in a China Shop | 7.00% | ~19 |
+| Bull in a China Shop | 8.00% | ~22 |
 | Sker Explorer | 5.00% | ~13 |
 | Ending on a High Note | 1.00% | ~3 |
 | Phonic Boom | 1.00% | ~3 |

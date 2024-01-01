@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 314,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 632,
+  "EOS_Progressed": 633,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.95,
   "EosHistory": [
@@ -1223,6 +1223,11 @@
       "Time": "2023-12-31T21:07:12.8959885+00:00",
       "NumProgressed": 632,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-01T09:07:16.9324046+00:00",
+      "NumProgressed": 633,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -1354,7 +1359,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "Leisurely_Strol",
@@ -1410,7 +1415,7 @@
       "Name": "A Familiar Face",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "Paparazzi",
@@ -1450,7 +1455,7 @@
       "Name": "Beat the Heat",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "Unforeseen_Consequences",
@@ -1465,7 +1470,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 632,
+      "Progressed": 633,
       "Completed": 6
     }
   ],
@@ -1473,8 +1478,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2024-01-01T08:06:27.4661882+00:00",
+  "LastChanged_Achievements": "2024-01-01T09:07:16.9324043+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:43.1004855+00:00",
-  "LastUpdate_Ratings": "2024-01-01T08:03:51.6119743+00:00",
-  "LastUpdate_Achievements": "2024-01-01T08:06:27.4662162+00:00"
+  "LastUpdate_Ratings": "2024-01-01T09:03:39.4664322+00:00",
+  "LastUpdate_Achievements": "2024-01-01T09:07:16.9324479+00:00"
 }

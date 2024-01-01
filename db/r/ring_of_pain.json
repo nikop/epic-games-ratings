@@ -3844,9 +3844,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242146,
+  "EOS_Progressed": 242148,
   "EOS_Completed": 302,
-  "EOS_NewPlayers": 499,
+  "EOS_NewPlayers": 498,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -30299,6 +30299,11 @@
       "Time": "2024-01-01T08:10:33.570963+00:00",
       "NumProgressed": 242146,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2024-01-01T09:11:07.5963474+00:00",
+      "NumProgressed": 242148,
+      "NumCompleted": 302
     }
   ],
   "TotalAchievements": 138,
@@ -30540,9 +30545,9 @@
       "ID": "FATALPOISONESCAPE",
       "SetID": "5l8oe0h",
       "Name": "Walk It Off",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1453
+      "UsersEstimate": 1695
     },
     {
       "ID": "FIREBEAD20EXPLOSIONS",
@@ -31413,13 +31418,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242146,
+      "Progressed": 242148,
       "Completed": 302
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3626,
+      "Progressed": 3628,
       "Completed": 416
     }
   ],
@@ -31427,8 +31432,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-01T04:57:24.2151303+00:00",
-  "LastChanged_Achievements": "2024-01-01T08:10:33.5709627+00:00",
+  "LastChanged_Achievements": "2024-01-01T09:11:07.5963472+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:01.848225+00:00",
-  "LastUpdate_Ratings": "2024-01-01T07:57:43.1523238+00:00",
-  "LastUpdate_Achievements": "2024-01-01T08:10:33.5712532+00:00"
+  "LastUpdate_Ratings": "2024-01-01T08:57:21.7190236+00:00",
+  "LastUpdate_Achievements": "2024-01-01T09:11:07.5966112+00:00"
 }

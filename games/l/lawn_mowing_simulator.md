@@ -6,12 +6,12 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 79.00% | ~547,668 |
-| Every story has a beginning | 36.00% | ~249,570 |
-| The first of many | 31.00% | ~214,908 |
-| Positive word of mouth | 18.00% | ~124,785 |
+| The dream begins | 79.00% | ~547,672 |
+| Every story has a beginning | 36.00% | ~249,572 |
+| The first of many | 31.00% | ~214,909 |
+| Positive word of mouth | 18.00% | ~124,786 |
 | Lawn in the U.S.A. | 15.00% | ~103,988 |
-| Blade Runner | 9.00% | ~62,392 |
+| Blade Runner | 9.00% | ~62,393 |
 | Credible | 7.00% | ~48,528 |
 | Teamwork makes the dream work | 6.00% | ~41,595 |
 | Where there's muck there's brass | 4.00% | ~27,730 |
@@ -38,10 +38,10 @@ Number of Ratings: 5,086  (23.09.2022)
 | Cut Loose | 0.40% | ~2,773 |
 | Esteemed | 0.40% | ~2,773 |
 | Hard times | 0.30% | ~2,080 |
-| Zero to hero | 0.20% | ~1,386 |
-| In it for the long haul | 0.20% | ~1,386 |
-| Centurion | 0.20% | ~1,386 |
-| Distinguished | 0.20% | ~1,386 |
+| Zero to hero | 0.20% | ~1,387 |
+| In it for the long haul | 0.20% | ~1,387 |
+| Centurion | 0.20% | ~1,387 |
+| Distinguished | 0.20% | ~1,387 |
 | Amateur mower | 0.10% | ~693 |
 | Expert mower | 0.10% | ~693 |
 | Professional mower | 0.10% | ~693 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~693 |
 | Mo mowers, mo problems | 0.10% | ~693 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 693,250 (Ranked 27)  
+Progressed: 693,256 (Ranked 27)  
 Completed: 19 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 19 (0.00%) (Ranked 390)
 | 2023-12-29 | 692,517 | 19 |
 | 2023-12-30 | 692,812 | 19 |
 | 2023-12-31 | 693,149 | 19 |
-| 2024-01-01 | 693,250 | 19 |
+| 2024-01-01 | 693,256 | 19 |
 ## Awards
 Max (Quickly Understood Controls): 182  (Ranked 309)  
 Sum: 990 (Ranked 268)  

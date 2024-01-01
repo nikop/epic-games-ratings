@@ -565,9 +565,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 45942,
+  "EOS_Progressed": 45946,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 823,
+  "EOS_NewPlayers": 818,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17210,6 +17210,11 @@
       "Time": "2024-01-01T08:05:15.0149044+00:00",
       "NumProgressed": 45942,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-01T09:05:36.442133+00:00",
+      "NumProgressed": 45946,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -17269,7 +17274,7 @@
       "Name": "Attachments",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5513
+      "UsersEstimate": 5514
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -17373,7 +17378,7 @@
       "Name": "Tinkerer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3675
+      "UsersEstimate": 3676
     },
     {
       "ID": "CUFF_ATTACK",
@@ -17435,9 +17440,9 @@
       "ID": "LOCATION_TEN",
       "SetID": "6d0g7k8",
       "Name": "Explorer: Seeker",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2757
+      "UsersEstimate": 2297
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -17644,22 +17649,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 45942,
+      "Progressed": 45946,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 10779,
-      "Completed": 10779
+      "Progressed": 10783,
+      "Completed": 10783
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-01T08:03:24.63653+00:00",
-  "LastChanged_Achievements": "2024-01-01T08:05:15.0149039+00:00",
+  "LastChanged_Achievements": "2024-01-01T09:05:36.4421327+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:48.1998363+00:00",
-  "LastUpdate_Ratings": "2024-01-01T08:03:24.6365305+00:00",
-  "LastUpdate_Achievements": "2024-01-01T08:05:15.0149925+00:00"
+  "LastUpdate_Ratings": "2024-01-01T09:02:58.7577122+00:00",
+  "LastUpdate_Achievements": "2024-01-01T09:05:36.4422276+00:00"
 }

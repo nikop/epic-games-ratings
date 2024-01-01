@@ -2,9 +2,9 @@
   "ID": "4570fd48bd25472b87e028bbab19c6e8",
   "Name": "Dungeon Drafters",
   "ProductSlug": "dungeon-drafters-82c40a",
-  "Ranking_EOS_Progress": 462,
+  "Ranking_EOS_Progress": 461,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewPlayers": 396,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 131,
+  "EOS_Progressed": 132,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -641,6 +641,11 @@
       "Time": "2023-12-31T17:06:08.7739666+00:00",
       "NumProgressed": 131,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T09:07:37.3812742+00:00",
+      "NumProgressed": 132,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -666,7 +671,7 @@
       "ID": "InnkeeperQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Treasure Hunting",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 5,
       "UsersEstimate": 48
     },
@@ -700,7 +705,7 @@
       "Name": "The Steed",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "MGR_complete",
@@ -740,7 +745,7 @@
       "Name": "Friend!",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "MasterRaiderQuestlineLast",
@@ -788,7 +793,7 @@
       "Name": "Uncut Gem",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "MasterWardenQuestlineLast",
@@ -812,7 +817,7 @@
       "Name": "A Strange Proposition",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "StrangerQuestlineLast",
@@ -868,7 +873,7 @@
       "Name": "Card Completionist",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "cards_discovered_half",
@@ -971,7 +976,7 @@
     {
       "ID": "3b8n56h",
       "IsBase": true,
-      "Progressed": 131,
+      "Progressed": 132,
       "Completed": 0
     }
   ],
@@ -979,8 +984,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2024-01-01T08:06:41.8249591+00:00",
+  "LastChanged_Achievements": "2024-01-01T09:07:37.381274+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:40.4890913+00:00",
-  "LastUpdate_Ratings": "2024-01-01T07:57:35.4631293+00:00",
-  "LastUpdate_Achievements": "2024-01-01T08:06:41.8249853+00:00"
+  "LastUpdate_Ratings": "2024-01-01T08:57:11.9216685+00:00",
+  "LastUpdate_Achievements": "2024-01-01T09:07:37.3813226+00:00"
 }

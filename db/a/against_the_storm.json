@@ -2,7 +2,7 @@
   "ID": "93eeeab14a3d45b8bf5586a900137733",
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
-  "Ranking_Rating": 69,
+  "Ranking_Rating": 70,
   "Ranking_Popularity": 229,
   "Ranking_PopularitySum": 177,
   "Ranking_EOS_Progress": 152,
@@ -3713,9 +3713,9 @@
       "Count": 338
     }
   ],
-  "EOS_Progressed": 19856,
+  "EOS_Progressed": 19861,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 687,
+  "EOS_NewPlayers": 688,
   "EOS_NewCompleters": -5,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -17968,6 +17968,11 @@
       "Time": "2024-01-01T08:04:35.2855725+00:00",
       "NumProgressed": 19856,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2024-01-01T09:04:42.1713969+00:00",
+      "NumProgressed": 19861,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -18068,7 +18073,7 @@
       "Name": "First Real Expedition",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1191
+      "UsersEstimate": 1192
     },
     {
       "ID": "WinHard",
@@ -18260,7 +18265,7 @@
       "Name": "The Marshlands",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1191
+      "UsersEstimate": 1192
     },
     {
       "ID": "WinOnMoorlands",
@@ -18356,7 +18361,7 @@
       "Name": "No Deaths",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1191
+      "UsersEstimate": 1192
     },
     {
       "ID": "WinWithoutOrders",
@@ -18404,7 +18409,7 @@
       "Name": "Overgrown Library",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1588
+      "UsersEstimate": 1589
     },
     {
       "ID": "WinNearPetrified",
@@ -18451,15 +18456,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19856,
+      "Progressed": 19861,
       "Completed": 33
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-01T03:57:48.0715595+00:00",
-  "LastChanged_Achievements": "2024-01-01T08:04:35.2855722+00:00",
+  "LastChanged_Achievements": "2024-01-01T09:04:42.1713966+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:03.5085053+00:00",
-  "LastUpdate_Ratings": "2024-01-01T07:57:57.670582+00:00",
-  "LastUpdate_Achievements": "2024-01-01T08:04:35.2856628+00:00"
+  "LastUpdate_Ratings": "2024-01-01T08:57:41.9746476+00:00",
+  "LastUpdate_Achievements": "2024-01-01T09:04:42.1715163+00:00"
 }

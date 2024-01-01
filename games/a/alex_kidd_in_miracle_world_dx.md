@@ -8,10 +8,10 @@
 | Magic Ball | 31.00% | ~124 |
 | Assailants | 24.00% | ~96 |
 | Prisoner | 21.00% | ~84 |
-| First Commander | 17.00% | ~68 |
+| First Commander | 18.00% | ~72 |
 | Second Commander | 16.00% | ~64 |
 | Adventurer | 16.00% | ~64 |
-| Third Commander | 14.00% | ~56 |
+| Third Commander | 15.00% | ~60 |
 | Pacifist | 11.00% | ~44 |
 | Janken The Great | 9.00% | ~36 |
 | Overwhelmed Beast | 8.00% | ~32 |

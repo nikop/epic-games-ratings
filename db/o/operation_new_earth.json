@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2143,
+  "EOS_Progressed": 2144,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -8240,6 +8240,11 @@
       "Time": "2024-01-01T07:05:58.6247421+00:00",
       "NumProgressed": 2143,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-01T09:06:49.6051236+00:00",
+      "NumProgressed": 2144,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8267,7 +8272,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ach_defeat_players_100",
@@ -8315,7 +8320,7 @@
       "Name": "Silver Competitor",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -8363,7 +8368,7 @@
       "Name": "Corporal",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -8554,7 +8559,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2143,
+      "Progressed": 2144,
       "Completed": 1
     }
   ],
@@ -8562,8 +8567,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-25T23:58:10.3014256+00:00",
-  "LastChanged_Achievements": "2024-01-01T08:06:08.1701334+00:00",
+  "LastChanged_Achievements": "2024-01-01T09:06:49.6051233+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:25.9392392+00:00",
-  "LastUpdate_Ratings": "2024-01-01T07:57:57.110491+00:00",
-  "LastUpdate_Achievements": "2024-01-01T08:06:08.1702063+00:00"
+  "LastUpdate_Ratings": "2024-01-01T08:57:41.0798788+00:00",
+  "LastUpdate_Achievements": "2024-01-01T09:06:49.605193+00:00"
 }

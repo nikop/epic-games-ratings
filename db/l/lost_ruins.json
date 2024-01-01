@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewPlayers": 281,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 643,
+  "EOS_Progressed": 644,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1714,6 +1714,11 @@
       "Time": "2024-01-01T07:10:19.2097638+00:00",
       "NumProgressed": 643,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-01T09:11:00.1760181+00:00",
+      "NumProgressed": 644,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1739,9 +1744,9 @@
       "ID": "ArtifactsCollector",
       "SetID": "82505mn",
       "Name": "Artifact Collector",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 122
+      "UsersEstimate": 116
     },
     {
       "ID": "Assassin",
@@ -1757,7 +1762,7 @@
       "Name": "Boss Killer",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "BugHunter",
@@ -1795,9 +1800,9 @@
       "ID": "Gladiator",
       "SetID": "82505mn",
       "Name": "Gladiator",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 71
     },
     {
       "ID": "GoblinTales",
@@ -1805,7 +1810,7 @@
       "Name": "Goblin Tales",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "Hardboiled",
@@ -1845,7 +1850,7 @@
       "Name": "Inquisitor",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "Librarian",
@@ -1885,7 +1890,7 @@
       "Name": "Money Swag",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "Necromancer",
@@ -1925,7 +1930,7 @@
       "Name": "Reincarnation",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "Roughneck",
@@ -2044,7 +2049,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 643,
+      "Progressed": 644,
       "Completed": 1
     }
   ],
@@ -2052,8 +2057,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2024-01-01T08:10:27.3855015+00:00",
+  "LastChanged_Achievements": "2024-01-01T09:11:00.1760179+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:03.2604081+00:00",
-  "LastUpdate_Ratings": "2024-01-01T08:00:43.7236877+00:00",
-  "LastUpdate_Achievements": "2024-01-01T08:10:27.3855344+00:00"
+  "LastUpdate_Ratings": "2024-01-01T09:01:41.3375026+00:00",
+  "LastUpdate_Achievements": "2024-01-01T09:11:00.1760581+00:00"
 }

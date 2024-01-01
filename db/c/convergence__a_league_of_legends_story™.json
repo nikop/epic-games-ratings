@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -51,9 +51,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1176,
+  "EOS_Progressed": 1177,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -3401,6 +3401,11 @@
       "Time": "2024-01-01T08:10:27.5496104+00:00",
       "NumProgressed": 1176,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-01T09:11:00.6782649+00:00",
+      "NumProgressed": 1177,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3420,7 +3425,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -3564,7 +3569,7 @@
       "Name": "Whiz Kid",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "GrindingTime1",
@@ -3572,7 +3577,7 @@
       "Name": "Rail Rat",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "HexlockGift",
@@ -3596,7 +3601,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "LacunaCompleted",
@@ -3642,9 +3647,9 @@
       "ID": "NoRewindCamille",
       "SetID": "a9e499d",
       "Name": "A Lesson in Precision",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 60,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "ParallelConvergenceMultiHit1",
@@ -3676,7 +3681,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -3835,7 +3840,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1176,
+      "Progressed": 1177,
       "Completed": 6
     }
   ],
@@ -3843,8 +3848,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2024-01-01T08:10:27.5496102+00:00",
+  "LastChanged_Achievements": "2024-01-01T09:11:00.6782645+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:23.9308133+00:00",
-  "LastUpdate_Ratings": "2024-01-01T08:03:19.0159909+00:00",
-  "LastUpdate_Achievements": "2024-01-01T08:10:27.5496607+00:00"
+  "LastUpdate_Ratings": "2024-01-01T09:02:51.4654908+00:00",
+  "LastUpdate_Achievements": "2024-01-01T09:11:00.6783391+00:00"
 }

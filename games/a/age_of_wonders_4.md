@@ -12,18 +12,18 @@ Rating: 4.63 (Ranked 359)
 | From Friends to Family | 9.00% | ~598 |
 | Bone Peddler | 8.00% | ~531 |
 | Magical Synergy | 7.00% | ~465 |
-| There Can Only Be One! | 6.00% | ~398 |
-| Full Ascension | 6.00% | ~398 |
-| Stronger Together | 6.00% | ~398 |
-| Seat of Power | 6.00% | ~398 |
+| There Can Only Be One! | 6.00% | ~399 |
+| Full Ascension | 6.00% | ~399 |
+| Stronger Together | 6.00% | ~399 |
+| Seat of Power | 6.00% | ~399 |
 | Valley of Wonders | 5.00% | ~332 |
 | In a Liege of Your Own | 5.00% | ~332 |
 | Intimidation Tactics | 5.00% | ~332 |
 | But this one is mine | 5.00% | ~332 |
+| My Final Form | 4.00% | ~266 |
 | Return of the Wizard King | 3.00% | ~199 |
 | Enchanted Archipelago | 3.00% | ~199 |
 | Digging for Treasure | 3.00% | ~199 |
-| My Final Form | 3.00% | ~199 |
 | Fiery Friend | 3.00% | ~199 |
 | Against the Odds | 3.00% | ~199 |
 | Impenetrable Fortress | 3.00% | ~199 |
@@ -46,12 +46,12 @@ Rating: 4.63 (Ranked 359)
 | Eternal Lord | 1.00% | ~66 |
 | Manufactured War | 1.00% | ~66 |
 | The Eternal Court | 1.00% | ~66 |
+| Pruning for Progress | 1.00% | ~66 |
 | Prometheus Avenged | 1.00% | ~66 |
 | Seal the Deal | 1.00% | ~66 |
 | A Conqueror's Cohort | 1.00% | ~66 |
 | Dawn of the Dread | 1.00% | ~66 |
-| Pruning for Progress | 0.90% | ~60 |
-| Grexolis | 0.80% | ~53 |
+| Grexolis | 0.90% | ~60 |
 | One for All, All for One | 0.80% | ~53 |
 | Duality | 0.80% | ~53 |
 | Betrayal Most Foul | 0.70% | ~46 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 359)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,641 (Ranked 195)  
+Progressed: 6,642 (Ranked 195)  
 Completed: 7 (0.11%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 7 (0.11%) (Ranked 302)
 | 2023-12-29 | 6,495 | 7 |
 | 2023-12-30 | 6,566 | 7 |
 | 2023-12-31 | 6,624 | 7 |
-| 2024-01-01 | 6,641 | 7 |
+| 2024-01-01 | 6,642 | 7 |
 ## Awards
 Max (Great for Beginners): 39  (Ranked 478)  
 Sum: 184 (Ranked 423)  

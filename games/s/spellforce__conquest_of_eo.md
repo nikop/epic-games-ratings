@@ -41,9 +41,9 @@
 | Defeat Gor | 9.00% | ~10 |
 | Yngrid's Tale | 9.00% | ~10 |
 | A Joke | 9.00% | ~10 |
+| Defeat Hokan | 8.00% | ~8 |
 | The Forge of Regan Gor | 8.00% | ~8 |
 | Mage Teacher | 8.00% | ~8 |
-| Defeat Hokan | 7.00% | ~7 |
 | Defeat Uram | 7.00% | ~7 |
 | Elynn's Tale | 7.00% | ~7 |
 | Lore's Tale | 7.00% | ~7 |
@@ -51,13 +51,13 @@
 | Master Artificer | 7.00% | ~7 |
 | A Monopoly of Might | 7.00% | ~7 |
 | Defeat Ianna | 6.00% | ~6 |
+| Defeat Raith | 6.00% | ~6 |
 | Defeat Undergast | 6.00% | ~6 |
 | Tuscari Sea Portal | 6.00% | ~6 |
 | Heroes | 6.00% | ~6 |
 | Balanced | 6.00% | ~6 |
 | Get to the Airship! | 5.00% | ~5 |
 | Defeat Isgrimm | 5.00% | ~5 |
-| Defeat Raith | 5.00% | ~5 |
 | Defeat Yria | 5.00% | ~5 |
 | Lytra's Tale | 5.00% | ~5 |
 | Friend of Grey Dusk Vale | 5.00% | ~5 |

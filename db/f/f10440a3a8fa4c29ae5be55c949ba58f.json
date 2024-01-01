@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-12-21T00:00:00+00:00",
     "PcReleaseDate": "2023-12-22T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5463,
+  "EOS_Progressed": 5473,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 3161,
+  "EOS_NewPlayers": 3160,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1324,6 +1324,11 @@
       "Time": "2024-01-01T08:09:43.538265+00:00",
       "NumProgressed": 5463,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-01T09:10:01.8940344+00:00",
+      "NumProgressed": 5473,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-12-04T20:08:44.4848254+00:00",
@@ -1336,7 +1341,7 @@
       "Name": "Final Destination",
       "Percentage": 50,
       "XP": 200,
-      "UsersEstimate": 2732
+      "UsersEstimate": 2736
     },
     {
       "ID": "Document1",
@@ -1344,7 +1349,7 @@
       "Name": "The Seeker in the Shadows",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "Document2",
@@ -1399,14 +1404,14 @@
     {
       "ID": "ao2gjap",
       "IsBase": true,
-      "Progressed": 5463,
+      "Progressed": 5473,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-12-22T16:57:58.2471903+00:00",
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2024-01-01T08:09:43.5382647+00:00",
+  "LastChanged_Achievements": "2024-01-01T09:10:01.8940341+00:00",
   "LastUpdate_AppInfo": "2023-12-31T21:56:58.8346544+00:00",
-  "LastUpdate_Ratings": "2024-01-01T07:59:42.3565647+00:00",
-  "LastUpdate_Achievements": "2024-01-01T08:09:43.5382775+00:00"
+  "LastUpdate_Ratings": "2024-01-01T09:00:11.4787127+00:00",
+  "LastUpdate_Achievements": "2024-01-01T09:10:01.8940467+00:00"
 }

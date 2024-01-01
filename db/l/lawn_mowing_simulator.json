@@ -2230,9 +2230,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 693250,
+  "EOS_Progressed": 693256,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 2243,
+  "EOS_NewPlayers": 2234,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31655,6 +31655,11 @@
       "Time": "2024-01-01T08:10:28.7033988+00:00",
       "NumProgressed": 693250,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2024-01-01T09:11:01.6517705+00:00",
+      "NumProgressed": 693256,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 54,
@@ -31666,7 +31671,7 @@
       "Name": "The dream begins",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 547668
+      "UsersEstimate": 547672
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -31722,7 +31727,7 @@
       "Name": "Zero to hero",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "BANKRUPTCY_TO_PROFIT",
@@ -31738,7 +31743,7 @@
       "Name": "In it for the long haul",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "COMPLETE_LITTER_CONTRACT",
@@ -31754,7 +31759,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 249570
+      "UsersEstimate": 249572
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -31898,7 +31903,7 @@
       "Name": "Centurion",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "DRIVE_1_MILE",
@@ -31906,7 +31911,7 @@
       "Name": "The first of many",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 214908
+      "UsersEstimate": 214909
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -32034,7 +32039,7 @@
       "Name": "Distinguished",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "RP_ESTABLISHED",
@@ -32066,7 +32071,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 124785
+      "UsersEstimate": 124786
     },
     {
       "ID": "RP_TRUSTED",
@@ -32082,7 +32087,7 @@
       "Name": "Blade Runner",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 62392
+      "UsersEstimate": 62393
     },
     {
       "ID": "UPGRADE_COMPANY_HQ",
@@ -32097,15 +32102,15 @@
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 693250,
+      "Progressed": 693256,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-12-22T00:00:38.9182801+00:00",
-  "LastChanged_Achievements": "2024-01-01T08:10:28.7033985+00:00",
+  "LastChanged_Achievements": "2024-01-01T09:11:01.6517703+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:51.3270984+00:00",
-  "LastUpdate_Ratings": "2024-01-01T07:58:34.8386428+00:00",
-  "LastUpdate_Achievements": "2024-01-01T08:10:28.7035693+00:00"
+  "LastUpdate_Ratings": "2024-01-01T08:58:31.2292376+00:00",
+  "LastUpdate_Achievements": "2024-01-01T09:11:01.6519423+00:00"
 }

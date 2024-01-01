@@ -331,9 +331,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 633,
+  "EOS_Progressed": 635,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 290,
+  "EOS_NewPlayers": 291,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1706,6 +1706,11 @@
       "Time": "2024-01-01T08:09:14.3289919+00:00",
       "NumProgressed": 633,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T09:09:21.0472516+00:00",
+      "NumProgressed": 635,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -1726,7 +1731,7 @@
       "Name": "Highballer",
       "Percentage": 45,
       "XP": 90,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "CareerChamp1",
@@ -1774,7 +1779,7 @@
       "Name": "Storm Warning",
       "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "CollectVehiclesA",
@@ -1782,7 +1787,7 @@
       "Name": "Wheeler Dealer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "CollectVehiclesB",
@@ -1830,15 +1835,15 @@
       "Name": "Dirty Roller",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "PlayerRankB",
       "SetID": "5hd282c",
       "Name": "Trashing Around",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 95
+      "UsersEstimate": 89
     },
     {
       "ID": "PlayerRankC",
@@ -1877,7 +1882,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 633,
+      "Progressed": 635,
       "Completed": 0
     }
   ],
@@ -1885,8 +1890,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2023-12-28T22:58:24.1175943+00:00",
-  "LastChanged_Achievements": "2024-01-01T08:09:14.3289916+00:00",
+  "LastChanged_Achievements": "2024-01-01T09:09:21.0472512+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:31.5719432+00:00",
-  "LastUpdate_Ratings": "2024-01-01T07:59:45.6899753+00:00",
-  "LastUpdate_Achievements": "2024-01-01T08:09:14.3290085+00:00"
+  "LastUpdate_Ratings": "2024-01-01T09:00:15.5063337+00:00",
+  "LastUpdate_Achievements": "2024-01-01T09:09:21.0472779+00:00"
 }

@@ -6,26 +6,26 @@ Number of Ratings: 124  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 33.00% | ~51 |
+| Entrepreneur | 33.00% | ~52 |
 | Best Buddy | 27.00% | ~42 |
-| Role Model | 24.00% | ~37 |
-| Civilian | 24.00% | ~37 |
+| Role Model | 24.00% | ~38 |
+| Civilian | 24.00% | ~38 |
 | Peddler | 19.00% | ~30 |
 | Military Leader | 19.00% | ~30 |
 | Creator | 19.00% | ~30 |
 | Festival-goer | 18.00% | ~28 |
-| Commander | 15.00% | ~23 |
+| Commander | 15.00% | ~24 |
 | Long-Haul Flyer | 13.00% | ~20 |
-| Irissa's Fate | 12.00% | ~19 |
 | Pass A38 | 12.00% | ~19 |
+| Irissa's Fate | 11.00% | ~17 |
 | Berserker | 9.00% | ~14 |
 | Family Reunion | 9.00% | ~14 |
-| Storyteller | 8.00% | ~12 |
-| Eternal Oblivion | 8.00% | ~12 |
+| Storyteller | 8.00% | ~13 |
+| Eternal Oblivion | 8.00% | ~13 |
 | Globetrotter | 7.00% | ~11 |
 | Alb | 7.00% | ~11 |
+| Banker | 5.00% | ~8 |
 | Hunter | 5.00% | ~8 |
-| Banker | 4.00% | ~6 |
 | Beam Me Up | 4.00% | ~6 |
 | Hotshot | 4.00% | ~6 |
 | Free as a Bird | 4.00% | ~6 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Enforcer | 0.00% | ~0 |
 | Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 156 (Ranked 442)  
+Progressed: 157 (Ranked 441)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-29 | 131 | 0 |
 | 2023-12-30 | 141 | 0 |
 | 2023-12-31 | 154 | 0 |
-| 2024-01-01 | 156 | 0 |
+| 2024-01-01 | 157 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

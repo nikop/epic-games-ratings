@@ -36,6 +36,7 @@ Number of Ratings: 45  (23.09.2022)
 | No Time for Clawmonsters | 0.70% | ~11 |
 | Storied Past | 0.60% | ~9 |
 | Worldwalker | 0.60% | ~9 |
+| Bonebreakers | 0.60% | ~9 |
 | Wingknight's Prowess | 0.60% | ~9 |
 | All My Birds, Safely Home | 0.60% | ~9 |
 | Bears are Scary | 0.60% | ~9 |
@@ -43,7 +44,6 @@ Number of Ratings: 45  (23.09.2022)
 | Tempest | 0.60% | ~9 |
 | We Emerge Changed | 0.50% | ~8 |
 | Empty the Caves | 0.50% | ~8 |
-| Bonebreakers | 0.50% | ~8 |
 | No More Nightmares | 0.50% | ~8 |
 | A Hunger, Sated | 0.50% | ~8 |
 | Fight Like a Bird | 0.50% | ~8 |

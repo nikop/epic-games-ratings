@@ -210,25 +210,25 @@
       "ID": "DESTROY_N_BARRELS",
       "SetID": "dcng643",
       "Name": "Uselessness",
-      "Percentage": 39,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "DIE_N_TIMES_IN_ROOM",
       "SetID": "dcng643",
       "Name": "Dead Weight",
-      "Percentage": 9,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "DIE_WHILE_TRYING_TO_REVIVE",
       "SetID": "dcng643",
       "Name": "At least you tried",
-      "Percentage": 4,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "DONT_KILL_AUDIENCE",
@@ -266,9 +266,9 @@
       "ID": "DO_N_RUNS_1",
       "SetID": "dcng643",
       "Name": "Rookie",
-      "Percentage": 30,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "DO_N_RUNS_2",
@@ -330,9 +330,9 @@
       "ID": "GET_HIT_N_TIMES",
       "SetID": "dcng643",
       "Name": "Meat Shield",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "GET_KILLED_BY_RAT",
@@ -346,17 +346,17 @@
       "ID": "GET_KILLED_BY_SPIKE",
       "SetID": "dcng643",
       "Name": "Trapper!",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "GET_N_LIKES_0",
       "SetID": "dcng643",
       "Name": "Rising Star",
-      "Percentage": 9,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "GET_N_LIKES_1",
@@ -474,9 +474,9 @@
       "ID": "KILL_BOSS_2",
       "SetID": "dcng643",
       "Name": "Sludge Cleaner",
-      "Percentage": 26,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "KILL_BOSS_3",
@@ -490,9 +490,9 @@
       "ID": "KILL_BOSS_4",
       "SetID": "dcng643",
       "Name": "Holy Moly",
-      "Percentage": 22,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "KILL_BOSS_5",
@@ -666,9 +666,9 @@
       "ID": "REVIVE_FRIEND",
       "SetID": "dcng643",
       "Name": "I Need A Hero",
-      "Percentage": 9,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SELL_GOLDEN_GUN",
@@ -690,9 +690,9 @@
       "ID": "SELL_WEAPON",
       "SetID": "dcng643",
       "Name": "Free Marketer",
-      "Percentage": 26,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "SPEND_N_IN_SHOP",
@@ -786,9 +786,9 @@
       "ID": "USE_N_SPECIALS",
       "SetID": "dcng643",
       "Name": "MacGyver",
-      "Percentage": 30,
+      "Percentage": 35,
       "XP": 105,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "USE_SKIN_PERKS",
@@ -817,8 +817,8 @@
   ],
   "FirstSeen": "2023-09-28T16:00:28.1613796+00:00",
   "FirstSeenAchievements": "2023-09-19T08:09:12.2865196+00:00",
-  "LastChanged_Achievements": "2024-01-01T08:09:23.7645912+00:00",
+  "LastChanged_Achievements": "2024-01-01T09:09:34.3174204+00:00",
   "LastUpdate_AppInfo": "2023-12-29T02:57:12.8778075+00:00",
-  "LastUpdate_Ratings": "2024-01-01T08:00:49.2268216+00:00",
-  "LastUpdate_Achievements": "2024-01-01T08:09:23.7646734+00:00"
+  "LastUpdate_Ratings": "2024-01-01T09:02:39.7342597+00:00",
+  "LastUpdate_Achievements": "2024-01-01T09:09:34.317493+00:00"
 }

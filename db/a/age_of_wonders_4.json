@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 423,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -669,9 +669,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6641,
+  "EOS_Progressed": 6642,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 471,
+  "EOS_NewPlayers": 472,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -9969,6 +9969,11 @@
       "Time": "2024-01-01T08:08:25.4890008+00:00",
       "NumProgressed": 6641,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-01T09:07:41.162824+00:00",
+      "NumProgressed": 6642,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -9996,7 +10001,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "12",
@@ -10020,7 +10025,7 @@
       "Name": "Full Ascension",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "15",
@@ -10148,7 +10153,7 @@
       "Name": "Stronger Together",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "3",
@@ -10178,9 +10183,9 @@
       "ID": "32",
       "SetID": "3aa2279",
       "Name": "My Final Form",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 199
+      "UsersEstimate": 266
     },
     {
       "ID": "33",
@@ -10188,7 +10193,7 @@
       "Name": "Seat of Power",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "34",
@@ -10282,17 +10287,17 @@
       "ID": "44",
       "SetID": "3aa2279",
       "Name": "Pruning for Progress",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 66
     },
     {
       "ID": "5",
       "SetID": "3aa2279",
       "Name": "Grexolis",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 60
     },
     {
       "ID": "6",
@@ -10459,13 +10464,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6641,
+      "Progressed": 6642,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6641,
+      "Progressed": 6642,
       "Completed": 7
     }
   ],
@@ -10473,8 +10478,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-12-31T18:58:53.0277501+00:00",
-  "LastChanged_Achievements": "2024-01-01T08:08:25.4890004+00:00",
+  "LastChanged_Achievements": "2024-01-01T09:07:41.1628237+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-01T07:59:21.1160053+00:00",
-  "LastUpdate_Achievements": "2024-01-01T08:08:25.4891127+00:00"
+  "LastUpdate_Ratings": "2024-01-01T08:59:41.3443478+00:00",
+  "LastUpdate_Achievements": "2024-01-01T09:07:41.1629037+00:00"
 }

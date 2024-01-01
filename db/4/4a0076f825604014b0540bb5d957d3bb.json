@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
   "Ranking_EOS_Progress": 474,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewPlayers": 342,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 120,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -712,9 +712,9 @@
       "ID": "CgkInO_K3eIdEAIQEA",
       "SetID": "6bj96in",
       "Name": "EAGLE EYED",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 40,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "CgkInO_K3eIdEAIQEQ",
@@ -807,8 +807,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2024-01-01T08:10:16.7505272+00:00",
+  "LastChanged_Achievements": "2024-01-01T09:10:46.6546143+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:14.0329257+00:00",
-  "LastUpdate_Ratings": "2024-01-01T07:59:59.1802959+00:00",
-  "LastUpdate_Achievements": "2024-01-01T08:10:16.750548+00:00"
+  "LastUpdate_Ratings": "2024-01-01T09:00:34.8967445+00:00",
+  "LastUpdate_Achievements": "2024-01-01T09:10:46.6546542+00:00"
 }

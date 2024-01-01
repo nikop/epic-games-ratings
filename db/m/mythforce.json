@@ -848,7 +848,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5985,
+  "EOS_Progressed": 5986,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 0,
@@ -12278,6 +12278,11 @@
       "Time": "2024-01-01T08:05:59.4370618+00:00",
       "NumProgressed": 5985,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-01T09:06:37.6402779+00:00",
+      "NumProgressed": 5986,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -12322,7 +12327,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 1436
+      "UsersEstimate": 1437
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -12386,7 +12391,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1018
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -12473,15 +12478,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5985,
+      "Progressed": 5986,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-26T21:58:46.0180606+00:00",
-  "LastChanged_Achievements": "2024-01-01T08:05:59.4370615+00:00",
+  "LastChanged_Achievements": "2024-01-01T09:06:37.6402777+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:44.5580896+00:00",
-  "LastUpdate_Ratings": "2024-01-01T07:58:17.1589454+00:00",
-  "LastUpdate_Achievements": "2024-01-01T08:05:59.4371329+00:00"
+  "LastUpdate_Ratings": "2024-01-01T08:58:07.948747+00:00",
+  "LastUpdate_Achievements": "2024-01-01T09:06:37.6403283+00:00"
 }

@@ -239,7 +239,7 @@
       "Count": 77
     }
   ],
-  "EOS_Progressed": 9258,
+  "EOS_Progressed": 9268,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1927,
   "EOS_NewCompleters": 0,
@@ -3204,6 +3204,11 @@
       "Time": "2024-01-01T08:10:15.2516034+00:00",
       "NumProgressed": 9258,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-01T09:10:44.5092497+00:00",
+      "NumProgressed": 9268,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3216,7 +3221,7 @@
       "Name": "Conspiracy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "03_TheStolenStar",
@@ -3224,7 +3229,7 @@
       "Name": "Stolen Star",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -3328,7 +3333,7 @@
       "Name": "The Rise",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "17_TheExemplar",
@@ -3344,7 +3349,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "19_TheVoidWolf",
@@ -3358,9 +3363,9 @@
       "ID": "20_PurgeTheUnclean",
       "SetID": "37a94m8",
       "Name": "Purge the Unclean",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 56
     },
     {
       "ID": "21_PreciseDefense",
@@ -3470,9 +3475,9 @@
       "ID": "34_CuriosityIsNotAVice",
       "SetID": "37a94m8",
       "Name": "Curiosity Is Not a Vice",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 185
+      "UsersEstimate": 278
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -3568,7 +3573,7 @@
       "Name": "A Spark",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "47_AFlame",
@@ -3622,9 +3627,9 @@
       "ID": "53_GardensOfMadness",
       "SetID": "37a94m8",
       "Name": "Enraged Dragon",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 46
     },
     {
       "ID": "54_ThisIsAJobForLordCaptain",
@@ -3735,7 +3740,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 9258,
+      "Progressed": 9268,
       "Completed": 0
     }
   ],
@@ -3743,8 +3748,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2023-12-31T16:59:07.4818651+00:00",
-  "LastChanged_Achievements": "2024-01-01T08:10:15.2516031+00:00",
+  "LastChanged_Achievements": "2024-01-01T09:10:44.5092496+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2024-01-01T07:59:41.7532974+00:00",
-  "LastUpdate_Achievements": "2024-01-01T08:10:15.2516711+00:00"
+  "LastUpdate_Ratings": "2024-01-01T09:00:10.5625592+00:00",
+  "LastUpdate_Achievements": "2024-01-01T09:10:44.5093129+00:00"
 }
