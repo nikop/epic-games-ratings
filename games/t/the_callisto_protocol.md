@@ -7,20 +7,20 @@ Rating: 4.21 (Ranked 943)
 | ---- | ---------- | ----- |
 | Flesh Wound | 22.00% | ~4,526 |
 | The Outer Way | 22.00% | ~4,526 |
-| Desperate Times | 20.00% | ~4,114 |
-| Paper Jams | 19.00% | ~3,908 |
+| Desperate Times | 20.00% | ~4,115 |
+| Paper Jams | 19.00% | ~3,909 |
 | Get a Grip | 18.00% | ~3,703 |
-| Chew 'Em Up | 17.00% | ~3,497 |
+| Chew 'Em Up | 17.00% | ~3,498 |
 | Float Like A Butterfly | 15.00% | ~3,086 |
 | Reforged | 15.00% | ~3,086 |
-| Workplace Hazard | 13.00% | ~2,674 |
-| If the SHU Fits... | 13.00% | ~2,674 |
+| Workplace Hazard | 13.00% | ~2,675 |
+| If the SHU Fits... | 13.00% | ~2,675 |
 | Without A Paddle | 11.00% | ~2,263 |
 | Two Heads Are Better Than One | 10.00% | ~2,057 |
 | In the Pipe, Five by Five | 10.00% | ~2,057 |
 | Crash Site | 10.00% | ~2,057 |
-| Terminated | 9.00% | ~1,851 |
-| Power Up | 9.00% | ~1,851 |
+| Terminated | 9.00% | ~1,852 |
+| Power Up | 9.00% | ~1,852 |
 | Giving Back | 8.00% | ~1,646 |
 | You Need a Gun | 8.00% | ~1,646 |
 | What Lies Beneath | 8.00% | ~1,646 |
@@ -42,8 +42,8 @@ Rating: 4.21 (Ranked 943)
 | Quick Pick | 0.70% | ~59 |
 | Subject Alpha | 0.50% | ~42 |
 | The Protocol is About Life | 0.30% | ~62 |
-| Hoard Mode | 0.30% | ~25 |
-| Don't Let It Mellow | 0.30% | ~25 |
+| Hoard Mode | 0.30% | ~26 |
+| Don't Let It Mellow | 0.30% | ~26 |
 | Recidivist | 0.20% | ~17 |
 | Bear Trap | 0.20% | ~17 |
 | It's over, Jacob! | 0.10% | ~21 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 943)
 | Big Game Hunter | 0.10% | ~8 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,571 (Ranked 150)  
+Progressed: 20,574 (Ranked 150)  
 Completed: 82 (0.40%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 82 (0.40%) (Ranked 231)
 | 2023-12-30 | 20,137 | 82 |
 | 2023-12-31 | 20,337 | 82 |
 | 2024-01-01 | 20,521 | 82 |
-| 2024-01-02 | 20,571 | 82 |
+| 2024-01-02 | 20,574 | 82 |
 ## Awards
 Max (Amazing Characters): 109  (Ranked 363)  
 Sum: 551 (Ranked 328)  

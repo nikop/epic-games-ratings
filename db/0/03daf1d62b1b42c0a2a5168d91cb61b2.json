@@ -2,7 +2,7 @@
   "ID": "03daf1d62b1b42c0a2a5168d91cb61b2",
   "Name": "Brawlers",
   "ProductSlug": "brawlers-84957e",
-  "Ranking_EOS_Progress": 819,
+  "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 150,
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-18T14:59:06.1875179+00:00",
   "LastUpdate_AppInfo": "2024-01-01T11:57:04.0244506+00:00",
-  "LastUpdate_Ratings": "2024-01-02T06:59:37.3926195+00:00",
-  "LastUpdate_Achievements": "2024-01-02T07:09:11.0018975+00:00"
+  "LastUpdate_Ratings": "2024-01-02T07:59:30.6906742+00:00",
+  "LastUpdate_Achievements": "2024-01-02T08:08:58.8089008+00:00"
 }

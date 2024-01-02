@@ -4,7 +4,7 @@
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
   "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 684,
+  "EOS_Progressed": 685,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -2347,6 +2347,11 @@
       "Time": "2024-01-02T07:09:21.0876907+00:00",
       "NumProgressed": 684,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-02T08:09:11.1157215+00:00",
+      "NumProgressed": 685,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -2358,7 +2363,7 @@
       "Name": "Travel Streamer",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -2420,9 +2425,9 @@
       "ID": "ACHIEVEMENT_17",
       "SetID": "7pimpda",
       "Name": "Squeaky Clean",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 110
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -2446,7 +2451,7 @@
       "Name": "Training Simulation",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -2486,7 +2491,7 @@
       "Name": "Arms Mechanic",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -2508,9 +2513,9 @@
       "ID": "ACHIEVEMENT_27",
       "SetID": "7pimpda",
       "Name": "Fashion Connoisseur",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 356
+      "UsersEstimate": 363
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -2518,7 +2523,7 @@
       "Name": "Trader",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -2614,7 +2619,7 @@
       "Name": "Storm Traveller",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -2678,7 +2683,7 @@
       "Name": "Wolf King Killer",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -2717,7 +2722,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 684,
+      "Progressed": 685,
       "Completed": 3
     }
   ],
@@ -2725,8 +2730,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2024-01-02T07:09:21.0876904+00:00",
+  "LastChanged_Achievements": "2024-01-02T08:09:11.1157212+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:39.5136135+00:00",
-  "LastUpdate_Ratings": "2024-01-02T07:00:09.3119613+00:00",
-  "LastUpdate_Achievements": "2024-01-02T07:09:21.0877356+00:00"
+  "LastUpdate_Ratings": "2024-01-02T08:00:04.5599983+00:00",
+  "LastUpdate_Achievements": "2024-01-02T08:09:11.1157683+00:00"
 }

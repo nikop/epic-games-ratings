@@ -3725,9 +3725,9 @@
       "Count": 338
     }
   ],
-  "EOS_Progressed": 19941,
+  "EOS_Progressed": 19943,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 667,
+  "EOS_NewPlayers": 666,
   "EOS_NewCompleters": -5,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -18085,6 +18085,11 @@
       "Time": "2024-01-02T07:04:26.2322573+00:00",
       "NumProgressed": 19941,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2024-01-02T08:04:16.3604118+00:00",
+      "NumProgressed": 19943,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -18185,7 +18190,7 @@
       "Name": "First Real Expedition",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1196
+      "UsersEstimate": 1197
     },
     {
       "ID": "WinHard",
@@ -18377,7 +18382,7 @@
       "Name": "The Marshlands",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1196
+      "UsersEstimate": 1197
     },
     {
       "ID": "WinOnMoorlands",
@@ -18568,15 +18573,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19941,
+      "Progressed": 19943,
       "Completed": 33
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-02T06:58:01.9021954+00:00",
-  "LastChanged_Achievements": "2024-01-02T07:04:26.232257+00:00",
+  "LastChanged_Achievements": "2024-01-02T08:04:16.3604113+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:03.5085053+00:00",
-  "LastUpdate_Ratings": "2024-01-02T06:58:01.9021961+00:00",
-  "LastUpdate_Achievements": "2024-01-02T07:04:26.2323574+00:00"
+  "LastUpdate_Ratings": "2024-01-02T07:57:58.7419239+00:00",
+  "LastUpdate_Achievements": "2024-01-02T08:04:16.3604997+00:00"
 }

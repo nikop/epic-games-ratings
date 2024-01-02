@@ -35,7 +35,7 @@ Rating: 3.82 (Ranked 1,069)
 | Marvellous Toys | 2.00% | ~13 |
 | Hardcore Gamer | 1.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 636 (Ranked 327)  
+Progressed: 636 (Ranked 328)  
 Completed: 6 (0.94%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |

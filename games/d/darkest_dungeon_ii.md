@@ -6,22 +6,22 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 12.00% | ~734 |
-| Lost and Found | 7.00% | ~428 |
+| Malpractice Assurance | 12.00% | ~735 |
+| Lost and Found | 7.00% | ~429 |
 | This Belongs in a Museum | 6.00% | ~7,875 |
 | Autodidact | 6.00% | ~7,875 |
 | This guy... again? | 6.00% | ~367 |
-| Serenity Now! | 5.00% | ~6,562 |
-| Creep and Sleep | 5.00% | ~6,562 |
-| Overdue Notice | 5.00% | ~6,562 |
-| Escape from the Black Hole | 5.00% | ~6,562 |
+| Serenity Now! | 5.00% | ~6,563 |
+| Creep and Sleep | 5.00% | ~6,563 |
+| Catch and Decease | 5.00% | ~6,563 |
+| Overdue Notice | 5.00% | ~6,563 |
+| Escape from the Black Hole | 5.00% | ~6,563 |
 | Ploughshares to Swords | 5.00% | ~306 |
 | Bloody Graduation | 5.00% | ~306 |
 | Don't Make Me Turn This Coach Around | 4.00% | ~5,250 |
 | It Rings a Bell | 4.00% | ~5,250 |
 | Not Today! | 4.00% | ~5,250 |
 | Meat and Greet | 4.00% | ~5,250 |
-| Catch and Decease | 4.00% | ~5,250 |
 | It Happens | 4.00% | ~5,250 |
 | Rush Hour | 4.00% | ~5,250 |
 | Merry Time | 4.00% | ~5,250 |
@@ -59,9 +59,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | Utopia | 2.00% | ~2,625 |
 | Hot Air | 2.00% | ~2,625 |
 | Eyes Up | 2.00% | ~2,625 |
-| Shrine of Reflection | 1.00% | ~1,312 |
-| Handled | 1.00% | ~1,312 |
-| Body of Work | 1.00% | ~1,312 |
+| Shrine of Reflection | 1.00% | ~1,313 |
+| Handled | 1.00% | ~1,313 |
+| Body of Work | 1.00% | ~1,313 |
 | Slap on the Wrist | 1.00% | ~61 |
 | For Old Time' Sake | 1.00% | ~61 |
 | Clearing the Ledger | 0.90% | ~1,181 |
@@ -77,8 +77,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Battle Hardened | 0.40% | ~24 |
 | Tears in the Rain | 0.30% | ~394 |
 | Maître De La Lame | 0.30% | ~18 |
-| Circle of Life | 0.20% | ~262 |
-| Grand Slam | 0.20% | ~262 |
+| Circle of Life | 0.20% | ~263 |
+| Grand Slam | 0.20% | ~263 |
 | Loop Year | 0.10% | ~131 |
 | No Gravestone Left Unturned | 0.10% | ~131 |
 | 20,000 Leagues Above the Sea | 0.10% | ~131 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,250 (Ranked 90)  
+Progressed: 131,253 (Ranked 90)  
 Completed: 3 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,7 +333,7 @@ Completed: 3 (0.00%) (Ranked 390)
 | 2023-12-30 | 130,838 | 3 |
 | 2023-12-31 | 131,026 | 3 |
 | 2024-01-01 | 131,206 | 3 |
-| 2024-01-02 | 131,250 | 3 |
+| 2024-01-02 | 131,253 | 3 |
 ## Awards
 Max (Character Customization): 7,919  (Ranked 50)  
 Sum: 21,334 (Ranked 58)  

@@ -2,7 +2,7 @@
   "ID": "456d95ca54814c8d98db2f52346ff5de",
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
-  "Ranking_Rating": 446,
+  "Ranking_Rating": 445,
   "Ranking_Popularity": 275,
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 71,
@@ -1653,9 +1653,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 246114,
+  "EOS_Progressed": 246115,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1391,
+  "EOS_NewPlayers": 1388,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24618,6 +24618,11 @@
       "Time": "2024-01-02T07:10:07.3998685+00:00",
       "NumProgressed": 246114,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-02T08:09:56.2710614+00:00",
+      "NumProgressed": 246115,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 88,
@@ -25125,7 +25130,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 24611
+      "UsersEstimate": 24612
     },
     {
       "ID": "FollowBraztok",
@@ -25332,21 +25337,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 246114,
+      "Progressed": 246115,
       "Completed": 8
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 246114,
+      "Progressed": 246115,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-01T21:59:20.4094917+00:00",
-  "LastChanged_Achievements": "2024-01-02T07:10:07.3998683+00:00",
+  "LastChanged_Achievements": "2024-01-02T08:09:56.271061+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:29.7482382+00:00",
-  "LastUpdate_Ratings": "2024-01-02T06:59:34.5085463+00:00",
-  "LastUpdate_Achievements": "2024-01-02T07:10:07.4000395+00:00"
+  "LastUpdate_Ratings": "2024-01-02T07:59:27.1398455+00:00",
+  "LastUpdate_Achievements": "2024-01-02T08:09:56.2712704+00:00"
 }

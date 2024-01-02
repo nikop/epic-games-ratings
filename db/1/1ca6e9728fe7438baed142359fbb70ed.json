@@ -2,7 +2,7 @@
   "ID": "1ca6e9728fe7438baed142359fbb70ed",
   "Name": "Beacon\u0027s Bluff",
   "ProductSlug": "beacons-bluff-dc7b2c",
-  "Ranking_EOS_Progress": 819,
+  "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 150,
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-25T20:58:53.119234+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:13.841561+00:00",
-  "LastUpdate_Ratings": "2024-01-02T07:00:05.9402318+00:00",
-  "LastUpdate_Achievements": "2024-01-02T07:06:07.3258894+00:00"
+  "LastUpdate_Ratings": "2024-01-02T08:00:00.6825415+00:00",
+  "LastUpdate_Achievements": "2024-01-02T08:05:48.1485225+00:00"
 }

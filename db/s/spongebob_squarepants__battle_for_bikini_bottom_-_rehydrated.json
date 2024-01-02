@@ -4,8 +4,8 @@
   "ProductSlug": "spongebob-squarepants-battle-for-bikini-bottom-rehydrated",
   "Ranking_Rating": 321,
   "Ranking_Popularity": 493,
-  "Ranking_PopularitySum": 525,
-  "Ranking_EOS_Progress": 328,
+  "Ranking_PopularitySum": 526,
+  "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 60,
@@ -329,9 +329,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 635,
+  "EOS_Progressed": 639,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 247,
+  "EOS_NewPlayers": 250,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.94,
   "EosHistory": [
@@ -1724,6 +1724,11 @@
       "Time": "2024-01-02T07:03:34.6727796+00:00",
       "NumProgressed": 635,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-02T08:03:26.6709146+00:00",
+      "NumProgressed": 639,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1742,9 +1747,9 @@
       "ID": "ACH_ARE_YOU_READY_NOW",
       "SetID": "biiejkc",
       "Name": "Are you ready now?",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_CHUM_BUCKET_BRAIN",
@@ -1752,7 +1757,7 @@
       "Name": "The Small Does Not Rule",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_COMPLETION",
@@ -1768,7 +1773,7 @@
       "Name": "Life\u0027s as extreme as you wanna make it!",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_DOWN_TOWN",
@@ -1784,15 +1789,15 @@
       "Name": "Ship Shape",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_FIND_BB_SPATULAS",
       "SetID": "biiejkc",
       "Name": "Hello, Bikini Bottom",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_FLYING_DUTCHMAN_BOSS",
@@ -1800,7 +1805,7 @@
       "Name": "Shanghaied",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_JELLYFISHING",
@@ -1808,7 +1813,7 @@
       "Name": "Jellyfishing",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH_JELLYFISH_JAM",
@@ -1816,7 +1821,7 @@
       "Name": "Jellyfish Jam",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACH_KELP_FOREST",
@@ -1830,9 +1835,9 @@
       "ID": "ACH_MERMALAIR",
       "SetID": "biiejkc",
       "Name": "Keep it Rolling",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_PRAWN_BOSS",
@@ -1848,7 +1853,7 @@
       "Name": "Toxic Terror",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_ROBO_SANDY_BOSS",
@@ -1864,7 +1869,7 @@
       "Name": "SpongeBob vs SpongeBob!",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_ROCK_BOTTOM",
@@ -1872,7 +1877,7 @@
       "Name": "Hit Rock Bottom",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_SLEEPY_TIME",
@@ -1912,7 +1917,7 @@
       "Name": "Super Spatula Seeker",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_STAT_50_SPATULA_SEEKER",
@@ -1944,7 +1949,7 @@
       "Name": "Spatula Seeker",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -1966,9 +1971,9 @@
       "ID": "ACH_STAT_STAR_SMASHER",
       "SetID": "biiejkc",
       "Name": "Star Smasher",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 51
     },
     {
       "ID": "ACH_SURFS_UP",
@@ -1976,30 +1981,30 @@
       "Name": "Surf\u0027s Up!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_TIME_FOR_TUTORIAL",
       "SetID": "biiejkc",
       "Name": "Time For Tutorial",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 64
     }
   ],
   "AchievementSets": [
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 635,
+      "Progressed": 639,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-01T20:58:26.8279253+00:00",
-  "LastChanged_Achievements": "2024-01-02T07:03:34.6727793+00:00",
+  "LastChanged_Achievements": "2024-01-02T08:03:26.6709142+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:11.8880921+00:00",
-  "LastUpdate_Ratings": "2024-01-02T06:58:38.666023+00:00",
-  "LastUpdate_Achievements": "2024-01-02T07:03:34.6728057+00:00"
+  "LastUpdate_Ratings": "2024-01-02T07:58:33.4570327+00:00",
+  "LastUpdate_Achievements": "2024-01-02T08:03:26.6709419+00:00"
 }

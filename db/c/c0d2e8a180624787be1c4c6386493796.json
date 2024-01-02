@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 245,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -1183,9 +1183,9 @@
       "ID": "KR4_ACHIEVEMENT_BUILD_TOWERS_EASY",
       "SetID": "caeik3h",
       "Name": "We Can Build It!",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 201
     },
     {
       "ID": "KR4_ACHIEVEMENT_CALL_EARLY_WAVES",
@@ -1367,9 +1367,9 @@
       "ID": "KR4_ACHIEVEMENT_HORN",
       "SetID": "caeik3h",
       "Name": "Not My Tempo",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 120
     },
     {
       "ID": "KR4_ACHIEVEMENT_HYPNOTOAD",
@@ -1431,9 +1431,9 @@
       "ID": "KR4_ACHIEVEMENT_KILL_DWARF_ENGINEERS",
       "SetID": "caeik3h",
       "Name": "Can\u0027t Touch This",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 201
+      "UsersEstimate": 203
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_EASY",
@@ -1455,9 +1455,9 @@
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_MEDIUM",
       "SetID": "caeik3h",
       "Name": "No Survivors II",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 198
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_WITH_VEZNAN_POWERS",
@@ -1471,9 +1471,9 @@
       "ID": "KR4_ACHIEVEMENT_KING",
       "SetID": "caeik3h",
       "Name": "The True King",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 100,
-      "UsersEstimate": 140
+      "UsersEstimate": 142
     },
     {
       "ID": "KR4_ACHIEVEMENT_LINIREA",
@@ -1748,8 +1748,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2024-01-02T07:08:29.405098+00:00",
+  "LastChanged_Achievements": "2024-01-02T08:08:17.0536549+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:04.1058747+00:00",
-  "LastUpdate_Ratings": "2024-01-02T06:59:32.7482819+00:00",
-  "LastUpdate_Achievements": "2024-01-02T07:08:29.4052107+00:00"
+  "LastUpdate_Ratings": "2024-01-02T07:59:25.6582837+00:00",
+  "LastUpdate_Achievements": "2024-01-02T08:08:17.0537377+00:00"
 }

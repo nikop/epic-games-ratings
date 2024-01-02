@@ -4,7 +4,7 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 600,
+  "EOS_Progressed": 602,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1949,6 +1949,11 @@
       "Time": "2024-01-01T19:09:08.8540252+00:00",
       "NumProgressed": 600,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T08:03:25.3963241+00:00",
+      "NumProgressed": 602,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -1975,9 +1980,9 @@
       "ID": "5",
       "SetID": "5pi96jj",
       "Name": "What\u0027s Cooking?",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 54
     },
     {
       "ID": "6",
@@ -2001,7 +2006,7 @@
       "Name": "Baby\u0027s On Fire",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "9",
@@ -2017,15 +2022,15 @@
       "Name": "Turn a Rat into a Snack",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "REMAKE_002",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s First...",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 444
+      "UsersEstimate": 439
     },
     {
       "ID": "REMAKE_004",
@@ -2033,7 +2038,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "Remake_005",
@@ -2047,17 +2052,17 @@
       "ID": "Remake_006",
       "SetID": "5pi96jj",
       "Name": "Attempted Vehicular Infanticide",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 54
     },
     {
       "ID": "Remake_007",
       "SetID": "5pi96jj",
       "Name": "Deez Buffs Make Me Go Nuts",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 162
+      "UsersEstimate": 157
     },
     {
       "ID": "Remake_008",
@@ -2073,7 +2078,7 @@
       "Name": "Make a fish your dish",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "Remake_010",
@@ -2184,14 +2189,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 600,
+      "Progressed": 602,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-02T07:03:33.3599948+00:00",
+  "LastChanged_Achievements": "2024-01-02T08:03:25.3963237+00:00",
   "LastUpdate_AppInfo": "2024-01-02T02:20:04.0332654+00:00",
-  "LastUpdate_Ratings": "2024-01-02T06:57:31.8509115+00:00",
-  "LastUpdate_Achievements": "2024-01-02T07:03:33.3600309+00:00"
+  "LastUpdate_Ratings": "2024-01-02T07:57:30.4334088+00:00",
+  "LastUpdate_Achievements": "2024-01-02T08:03:25.3963488+00:00"
 }

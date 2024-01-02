@@ -2,7 +2,7 @@
   "ID": "6108d244ce2b4fb89242c3ed3c2eee80",
   "Name": "Until the Last Plane",
   "ProductSlug": "until-the-last-plane-867d60",
-  "Ranking_EOS_Progress": 819,
+  "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 150,
@@ -129,8 +129,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:50:18.7647785+00:00",
-  "LastChanged_Achievements": "2024-01-02T07:09:59.1157062+00:00",
+  "LastChanged_Achievements": "2024-01-02T08:09:48.095682+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:25.4385402+00:00",
-  "LastUpdate_Ratings": "2024-01-02T06:58:01.089642+00:00",
-  "LastUpdate_Achievements": "2024-01-02T07:09:59.1157137+00:00"
+  "LastUpdate_Ratings": "2024-01-02T07:57:57.9247725+00:00",
+  "LastUpdate_Achievements": "2024-01-02T08:09:48.0956875+00:00"
 }

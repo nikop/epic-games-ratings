@@ -32,8 +32,8 @@ Number of Ratings: 32  (23.09.2022)
 | Selfish Decisions | 18.00% | ~45 |
 | Pulling Heartstrings | 18.00% | ~45 |
 | Extracurricular Affair | 18.00% | ~45 |
+| Hopes Rewarded | 17.00% | ~42 |
 | Guarding Guru | 17.00% | ~42 |
-| Hopes Rewarded | 16.00% | ~40 |
 | To Each Their Own | 11.00% | ~27 |
 | Eat Your Heart Out | 11.00% | ~27 |
 | Hustled and Bustled | 11.00% | ~27 |

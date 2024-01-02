@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewPlayers": 337,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -268,7 +268,7 @@
   "Tags": [],
   "EOS_Progressed": 2303,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -4307,9 +4307,9 @@
       "ID": "CollectAllStatues",
       "SetID": "9lj35g4",
       "Name": "Return the Statues",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "CollectAllWeaponsAndGear",
@@ -4403,9 +4403,9 @@
       "ID": "DefeatRattusAugustus",
       "SetID": "9lj35g4",
       "Name": "Defeat Rattus Augustail",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "FixTheTravellersWagon",
@@ -4578,8 +4578,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-12-23T19:58:55.6551134+00:00",
-  "LastChanged_Achievements": "2024-01-02T07:05:37.0518697+00:00",
+  "LastChanged_Achievements": "2024-01-02T08:05:18.8026978+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:25.3230554+00:00",
-  "LastUpdate_Ratings": "2024-01-02T06:59:06.7379054+00:00",
-  "LastUpdate_Achievements": "2024-01-02T07:05:37.0519492+00:00"
+  "LastUpdate_Ratings": "2024-01-02T07:58:59.0942192+00:00",
+  "LastUpdate_Achievements": "2024-01-02T08:05:18.8027424+00:00"
 }

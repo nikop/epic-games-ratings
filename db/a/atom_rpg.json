@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -409,9 +409,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1576,
+  "EOS_Progressed": 1577,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4044,6 +4044,11 @@
       "Time": "2024-01-02T05:09:33.9784645+00:00",
       "NumProgressed": 1576,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-02T08:09:50.792106+00:00",
+      "NumProgressed": 1577,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4103,7 +4108,7 @@
       "Name": "Double agent",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "EARLY_ACCESS_1",
@@ -4111,7 +4116,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1560
+      "UsersEstimate": 1561
     },
     {
       "ID": "EXPERT_1",
@@ -4231,7 +4236,7 @@
       "Name": "Paranoia",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "PRIVATE_EYE",
@@ -4311,7 +4316,7 @@
       "Name": "Traveler",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "VVE",
@@ -4342,15 +4347,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1576,
+      "Progressed": 1577,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-12-27T01:41:52.1948259+00:00",
-  "LastChanged_Achievements": "2024-01-02T07:10:01.6987945+00:00",
+  "LastChanged_Achievements": "2024-01-02T08:09:50.7921057+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.8702318+00:00",
-  "LastUpdate_Ratings": "2024-01-02T07:02:36.0139446+00:00",
-  "LastUpdate_Achievements": "2024-01-02T07:10:01.6988396+00:00"
+  "LastUpdate_Ratings": "2024-01-02T08:00:29.2238055+00:00",
+  "LastUpdate_Achievements": "2024-01-02T08:09:50.7921511+00:00"
 }

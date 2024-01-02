@@ -2,7 +2,7 @@
   "ID": "7afef992aaba4b53abfdf561e64e534d",
   "Name": "Prince of Persia Standard Edition",
   "ProductSlug": "prince-of-persia",
-  "Ranking_EOS_Progress": 819,
+  "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 150,
@@ -32,6 +32,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-13T17:57:02.155607+00:00",
   "LastUpdate_AppInfo": "2023-12-27T12:59:43.0593901+00:00",
-  "LastUpdate_Ratings": "2024-01-02T07:02:51.8772151+00:00",
-  "LastUpdate_Achievements": "2024-01-02T07:06:26.5413569+00:00"
+  "LastUpdate_Ratings": "2024-01-02T08:02:45.3977869+00:00",
+  "LastUpdate_Achievements": "2024-01-02T08:06:06.6750058+00:00"
 }

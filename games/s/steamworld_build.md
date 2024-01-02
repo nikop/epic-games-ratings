@@ -11,7 +11,7 @@
 | Going Places | 64.00% | ~149 |
 | Aristocratic | 61.00% | ~142 |
 | Tutti Frutti | 56.00% | ~130 |
-| Slotting Machine | 44.00% | ~103 |
+| Slotting Machine | 45.00% | ~105 |
 | Gotta Go Fast | 43.00% | ~100 |
 | Systematic | 42.00% | ~98 |
 | Mine Sweeper | 39.00% | ~91 |

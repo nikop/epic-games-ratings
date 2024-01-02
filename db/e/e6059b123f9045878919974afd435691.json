@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1293,
+  "EOS_Progressed": 1296,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3444,6 +3444,11 @@
       "Time": "2024-01-02T00:10:30.8916063+00:00",
       "NumProgressed": 1293,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T08:09:59.5457066+00:00",
+      "NumProgressed": 1296,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3455,7 +3460,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 918
+      "UsersEstimate": 920
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -3463,7 +3468,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 672
+      "UsersEstimate": 674
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -3479,7 +3484,7 @@
       "Name": "Out Of Stock",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ATKM_ACHIEVEMENT_1",
@@ -3495,7 +3500,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -3527,7 +3532,7 @@
       "Name": "Capraphobia",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 724
+      "UsersEstimate": 726
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -3575,7 +3580,7 @@
       "Name": "Burnt Smell",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "BURN_ACHIEVEMENT_2",
@@ -3655,7 +3660,7 @@
       "Name": "Greetings from Royalty",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 465
+      "UsersEstimate": 467
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -3663,7 +3668,7 @@
       "Name": "Think Bullets Will Affect Her?",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "EXT_ACHIEVEMENT_1",
@@ -3687,7 +3692,7 @@
       "Name": "End of Rest",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "FREEM_ACHIEVEMENT_1",
@@ -3711,7 +3716,7 @@
       "Name": "Free Like Birds",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "FREE_ACHIEVEMENT_3",
@@ -3735,7 +3740,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 737
+      "UsersEstimate": 739
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -3743,7 +3748,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -3751,7 +3756,7 @@
       "Name": "Decakill!",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -3775,7 +3780,7 @@
       "Name": "And There We Go",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -3783,7 +3788,7 @@
       "Name": "End the Infestation",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_3",
@@ -3815,7 +3820,7 @@
       "Name": "Don\u0027t Turn Your Back",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -3823,7 +3828,7 @@
       "Name": "1, 2, 3! Grandma!",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "MARY_ACHIEVEMENT_1",
@@ -3831,7 +3836,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -3845,9 +3850,9 @@
       "ID": "MEAT_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Night Snack",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 375
+      "UsersEstimate": 363
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -3855,7 +3860,7 @@
       "Name": "To Get Stronger",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "MEAT_ACHIEVEMENT_3",
@@ -3863,15 +3868,15 @@
       "Name": "Ancestral Banquet",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "NOTEM_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Reading and More Reading",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 91
     },
     {
       "ID": "NOTE_ACHIEVEMENT_1",
@@ -3885,9 +3890,9 @@
       "ID": "OUT_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "The Last of Us",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 414
+      "UsersEstimate": 402
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -3903,7 +3908,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 659
+      "UsersEstimate": 661
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -3982,14 +3987,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1293,
+      "Progressed": 1296,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-02T07:10:10.713508+00:00",
+  "LastChanged_Achievements": "2024-01-02T08:09:59.5457064+00:00",
   "LastUpdate_AppInfo": "2023-12-29T02:57:14.6537743+00:00",
-  "LastUpdate_Ratings": "2024-01-02T06:59:13.5254353+00:00",
-  "LastUpdate_Achievements": "2024-01-02T07:10:10.7135739+00:00"
+  "LastUpdate_Ratings": "2024-01-02T07:59:04.4402966+00:00",
+  "LastUpdate_Achievements": "2024-01-02T08:09:59.5458155+00:00"
 }

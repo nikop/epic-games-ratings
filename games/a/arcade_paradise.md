@@ -1,24 +1,24 @@
 # Arcade Paradise
 [Store](https://store.epicgames.com/en-US/p/arcade-paradise)  
 [View Rawdata](../../db/a/arcade_paradise.json)  
-Rating: 4.59 (Ranked 446)  
+Rating: 4.59 (Ranked 445)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pushing a pull door | 96.00% | ~708 |
-| Fetch Quest Complete | 90.00% | ~664 |
-| I can't wait! | 82.00% | ~605 |
-| Swish | 56.00% | ~413 |
+| Pushing a pull door | 96.00% | ~709 |
+| Fetch Quest Complete | 90.00% | ~665 |
+| I can't wait! | 82.00% | ~606 |
+| Swish | 56.00% | ~414 |
 | Clean up on Aisle 9 | 39.00% | ~288 |
 | Machine Maxed | 29.00% | ~214 |
-| Bug Fixer | 25.00% | ~184 |
-| Existential dread | 25.00% | ~184 |
-| Gerald of Riviera | 25.00% | ~184 |
+| Bug Fixer | 25.00% | ~185 |
+| Existential dread | 25.00% | ~185 |
+| Gerald of Riviera | 25.00% | ~185 |
 | Goal | 21.00% | ~155 |
 | I ran the numbers | 15.00% | ~111 |
 | Taking the plunge | 13.00% | ~96 |
 | Hidden Packages | 11.00% | ~81 |
-| GOOOAAAL | 9.00% | ~66 |
+| GOOOAAAL | 9.00% | ~67 |
 | Ahoy Hoy | 7.00% | ~52 |
 | Rhythm is a dancer | 6.00% | ~44 |
 | New Kid on the Block | 6.00% | ~44 |
@@ -60,7 +60,7 @@ Rating: 4.59 (Ranked 446)
 | Another all nighter? | 0.10% | ~1 |
 | Video killed the radio star | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 738 (Ranked 310)  
+Progressed: 739 (Ranked 310)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,6 +154,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-30 | 734 | 0 |
 | 2023-12-31 | 737 | 0 |
 | 2024-01-01 | 738 | 0 |
+| 2024-01-02 | 739 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

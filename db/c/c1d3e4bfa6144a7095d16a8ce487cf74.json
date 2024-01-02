@@ -2,7 +2,7 @@
   "ID": "c1d3e4bfa6144a7095d16a8ce487cf74",
   "Name": "SkyMatch",
   "ProductSlug": "skymatch-fba0d1",
-  "Ranking_EOS_Progress": 819,
+  "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 150,
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-14T22:03:29.6349936+00:00",
-  "LastChanged_Achievements": "2024-01-02T07:06:06.4564904+00:00",
+  "LastChanged_Achievements": "2024-01-02T08:05:47.3108019+00:00",
   "LastUpdate_AppInfo": "2024-01-02T02:20:04.9889276+00:00",
-  "LastUpdate_Ratings": "2024-01-02T07:00:11.8214183+00:00",
-  "LastUpdate_Achievements": "2024-01-02T07:06:06.4564942+00:00"
+  "LastUpdate_Ratings": "2024-01-02T08:00:06.5883557+00:00",
+  "LastUpdate_Achievements": "2024-01-02T08:05:47.3108054+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "76e9bc3f4ccd4061b471ee52735daf45",
   "Name": "Entomophobia",
   "ProductSlug": "entomophobia-5e766c",
-  "Ranking_EOS_Progress": 819,
+  "Ranking_EOS_Progress": 753,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 150,
@@ -22,12 +22,18 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2024-01-02T08:06:19.1417507+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
   "AchievementsAdded": "2024-01-02T04:08:27.0225922+00:00",
   "TotalAchievements": 14,
   "TotalAchievementsXP": 1000,
@@ -76,9 +82,9 @@
       "ID": "FIRST_LEVEL",
       "SetID": "73fploh",
       "Name": "Might",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "FIRST_UPGRADE",
@@ -124,9 +130,9 @@
       "ID": "PRESS_ESCAPE",
       "SetID": "73fploh",
       "Name": "Take a Breather",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PRESS_SPACE",
@@ -149,13 +155,13 @@
     {
       "ID": "73fploh",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-12T05:03:22.9962515+00:00",
-  "LastChanged_Achievements": "2024-01-02T07:08:20.9005151+00:00",
+  "LastChanged_Achievements": "2024-01-02T08:06:19.1417504+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:16.8078597+00:00",
-  "LastUpdate_Ratings": "2024-01-02T06:57:51.2190168+00:00",
-  "LastUpdate_Achievements": "2024-01-02T07:08:20.9005249+00:00"
+  "LastUpdate_Ratings": "2024-01-02T07:57:50.0602864+00:00",
+  "LastUpdate_Achievements": "2024-01-02T08:06:19.1417597+00:00"
 }

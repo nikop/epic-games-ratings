@@ -6,38 +6,38 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 5.00% | ~56,754 |
-| Skillful | 5.00% | ~56,754 |
-| Zealous | 4.00% | ~45,404 |
-| Not half bad | 4.00% | ~45,404 |
-| Make Some Noise | 4.00% | ~45,404 |
-| No one left behind | 3.00% | ~34,053 |
-| Medic | 3.00% | ~34,053 |
-| Handyman | 3.00% | ~34,053 |
-| Bloody Millionaire | 3.00% | ~34,053 |
-| Apt Survivor | 3.00% | ~34,053 |
-| Survival Treasures | 3.00% | ~34,053 |
-| I | 3.00% | ~34,053 |
-| Sorted | 3.00% | ~34,053 |
-| Healthy Obsession | 3.00% | ~34,053 |
-| Resurgence | 3.00% | ~34,053 |
-| Preemptive Strike | 3.00% | ~34,053 |
-| Humanitarian | 3.00% | ~34,053 |
-| The Grand Sacrifice | 2.00% | ~22,702 |
-| Agonizing Escape | 2.00% | ~22,702 |
-| Backdoor Escape | 2.00% | ~22,702 |
-| I've got your back | 2.00% | ~22,702 |
-| Perfect Escape | 2.00% | ~22,702 |
-| Perfect Killing | 2.00% | ~22,702 |
-| Apt Killer | 2.00% | ~22,702 |
-| Risk it all | 2.00% | ~22,702 |
-| Vulture | 2.00% | ~22,702 |
-| II | 2.00% | ~22,702 |
-| III | 2.00% | ~22,702 |
-| Engineer | 2.00% | ~22,702 |
-| Wounded Healer | 2.00% | ~22,702 |
-| Close Shave | 2.00% | ~22,702 |
-| Second Act | 2.00% | ~22,702 |
+| It wakes | 5.00% | ~56,757 |
+| Skillful | 5.00% | ~56,757 |
+| Zealous | 4.00% | ~45,406 |
+| Not half bad | 4.00% | ~45,406 |
+| Make Some Noise | 4.00% | ~45,406 |
+| No one left behind | 3.00% | ~34,054 |
+| Medic | 3.00% | ~34,054 |
+| Handyman | 3.00% | ~34,054 |
+| Bloody Millionaire | 3.00% | ~34,054 |
+| Apt Survivor | 3.00% | ~34,054 |
+| Survival Treasures | 3.00% | ~34,054 |
+| I | 3.00% | ~34,054 |
+| Sorted | 3.00% | ~34,054 |
+| Healthy Obsession | 3.00% | ~34,054 |
+| Resurgence | 3.00% | ~34,054 |
+| Preemptive Strike | 3.00% | ~34,054 |
+| Humanitarian | 3.00% | ~34,054 |
+| The Grand Sacrifice | 2.00% | ~22,703 |
+| Agonizing Escape | 2.00% | ~22,703 |
+| Backdoor Escape | 2.00% | ~22,703 |
+| I've got your back | 2.00% | ~22,703 |
+| Perfect Escape | 2.00% | ~22,703 |
+| Perfect Killing | 2.00% | ~22,703 |
+| Apt Killer | 2.00% | ~22,703 |
+| Risk it all | 2.00% | ~22,703 |
+| Vulture | 2.00% | ~22,703 |
+| II | 2.00% | ~22,703 |
+| III | 2.00% | ~22,703 |
+| Engineer | 2.00% | ~22,703 |
+| Wounded Healer | 2.00% | ~22,703 |
+| Close Shave | 2.00% | ~22,703 |
+| Second Act | 2.00% | ~22,703 |
 | Blood on your hands | 1.00% | ~11,351 |
 | Escape Artist | 1.00% | ~11,351 |
 | Made it out alive! | 1.00% | ~11,351 |
@@ -97,15 +97,15 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outrage | 0.60% | ~6,811 |
 | I See You | 0.60% | ~6,811 |
 | Triage | 0.60% | ~6,811 |
-| Blood in your mouth | 0.50% | ~5,675 |
-| Whiffing to Success | 0.50% | ~5,675 |
-| Heavy Burden | 0.50% | ~5,675 |
-| Power Moves | 0.50% | ~5,675 |
-| Punch Drunk | 0.50% | ~5,675 |
-| Prowler | 0.50% | ~5,675 |
-| Kitted Out | 0.50% | ~5,675 |
-| Looter | 0.40% | ~4,540 |
-| Death of Ignorance | 0.40% | ~4,540 |
+| Blood in your mouth | 0.50% | ~5,676 |
+| Whiffing to Success | 0.50% | ~5,676 |
+| Heavy Burden | 0.50% | ~5,676 |
+| Power Moves | 0.50% | ~5,676 |
+| Punch Drunk | 0.50% | ~5,676 |
+| Prowler | 0.50% | ~5,676 |
+| Kitted Out | 0.50% | ~5,676 |
+| Looter | 0.40% | ~4,541 |
+| Death of Ignorance | 0.40% | ~4,541 |
 | A feast for the Entity | 0.30% | ~3,405 |
 | Mad House | 0.30% | ~3,405 |
 | Dismantle | 0.30% | ~3,405 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,135 |
 | Adept Good Guy | 0.10% | ~1,135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,135,088 (Ranked 13)  
+Progressed: 1,135,139 (Ranked 13)  
 Completed: 65 (0.01%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -496,7 +496,7 @@ Completed: 65 (0.01%) (Ranked 368)
 | 2023-12-30 | 1,130,308 | 65 |
 | 2023-12-31 | 1,132,441 | 65 |
 | 2024-01-01 | 1,134,483 | 65 |
-| 2024-01-02 | 1,135,088 | 65 |
+| 2024-01-02 | 1,135,139 | 65 |
 ## Awards
 Max (Diverse Characters): 38,984  (Ranked 15)  
 Sum: 294,517 (Ranked 12)  

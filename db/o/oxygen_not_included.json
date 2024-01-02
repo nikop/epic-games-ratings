@@ -2,10 +2,10 @@
   "ID": "lotus",
   "Name": "Oxygen Not Included",
   "ProductSlug": "oxygen-not-included",
-  "Ranking_Rating": 57,
+  "Ranking_Rating": 56,
   "Ranking_Popularity": 268,
   "Ranking_PopularitySum": 203,
-  "Ranking_EOS_Progress": 819,
+  "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 150,
@@ -2775,6 +2775,6 @@
   "FirstSeen": "2022-07-22T20:20:44.1555168+00:00",
   "LastChanged": "2024-01-01T16:57:44.9093328+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:56.4609373+00:00",
-  "LastUpdate_Ratings": "2024-01-02T06:57:43.7567657+00:00",
-  "LastUpdate_Achievements": "2024-01-02T07:05:34.0905254+00:00"
+  "LastUpdate_Ratings": "2024-01-02T07:57:42.6245503+00:00",
+  "LastUpdate_Achievements": "2024-01-02T08:05:15.8823564+00:00"
 }

@@ -4264,9 +4264,9 @@
       "ID": "ASPIRING_EDITOR",
       "SetID": "9a4jnji",
       "Name": "Aspiring Editor",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1237
+      "UsersEstimate": 1254
     },
     {
       "ID": "ATTENBOROUGH",
@@ -4480,9 +4480,9 @@
       "ID": "GUN_FOR_HIRE",
       "SetID": "9a4jnji",
       "Name": "Gun for Hire",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1154
+      "UsersEstimate": 1170
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -4665,8 +4665,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-12-31T20:03:38.402068+00:00",
-  "LastChanged_Achievements": "2024-01-02T07:10:09.3825482+00:00",
+  "LastChanged_Achievements": "2024-01-02T08:09:58.1843935+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:28.618292+00:00",
-  "LastUpdate_Ratings": "2024-01-02T07:03:04.3939877+00:00",
-  "LastUpdate_Achievements": "2024-01-02T07:10:09.3826012+00:00"
+  "LastUpdate_Ratings": "2024-01-02T08:02:56.3005751+00:00",
+  "LastUpdate_Achievements": "2024-01-02T08:09:58.1844652+00:00"
 }

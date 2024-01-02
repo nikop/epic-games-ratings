@@ -10422,9 +10422,9 @@
       "Count": 1074
     }
   ],
-  "EOS_Progressed": 131250,
+  "EOS_Progressed": 131253,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1339,
+  "EOS_NewPlayers": 1337,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37942,6 +37942,11 @@
       "Time": "2024-01-02T07:09:40.7771052+00:00",
       "NumProgressed": 131250,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-02T08:09:30.1422252+00:00",
+      "NumProgressed": 131253,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37961,7 +37966,7 @@
       "Name": "Serenity Now!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6562
+      "UsersEstimate": 6563
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -38113,7 +38118,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6562
+      "UsersEstimate": 6563
     },
     {
       "ID": "combat_kill_fanatics",
@@ -38167,9 +38172,9 @@
       "ID": "combat_kill_leviathan",
       "SetID": "64l4lke",
       "Name": "Catch and Decease",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 5250
+      "UsersEstimate": 6563
     },
     {
       "ID": "combat_kill_librarian",
@@ -38177,7 +38182,7 @@
       "Name": "Overdue Notice",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6562
+      "UsersEstimate": 6563
     },
     {
       "ID": "combat_kill_pillagers",
@@ -38193,7 +38198,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6562
+      "UsersEstimate": 6563
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -38201,7 +38206,7 @@
       "Name": "Circle of Life",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "combat_kill_swine",
@@ -38313,7 +38318,7 @@
       "Name": "Shrine of Reflection",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1312
+      "UsersEstimate": 1313
     },
     {
       "ID": "hero_story_complete_any",
@@ -38433,7 +38438,7 @@
       "Name": "Handled",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1312
+      "UsersEstimate": 1313
     },
     {
       "ID": "run_victory_act05",
@@ -38441,7 +38446,7 @@
       "Name": "Body of Work",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1312
+      "UsersEstimate": 1313
     },
     {
       "ID": "run_victory_all_confessions_back_to_back",
@@ -38449,7 +38454,7 @@
       "Name": "Grand Slam",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "run_victory_final_boss_infernal_flame",
@@ -38489,7 +38494,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "combat_kill_collector",
@@ -38553,7 +38558,7 @@
       "Name": "Lost and Found",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -38584,21 +38589,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131250,
+      "Progressed": 131253,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6119,
+      "Progressed": 6122,
       "Completed": 820
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-02T05:58:27.833708+00:00",
-  "LastChanged_Achievements": "2024-01-02T07:09:40.7771048+00:00",
+  "LastChanged_Achievements": "2024-01-02T08:09:30.1422249+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-02T06:58:30.5846099+00:00",
-  "LastUpdate_Achievements": "2024-01-02T07:09:40.7772651+00:00"
+  "LastUpdate_Ratings": "2024-01-02T07:58:26.1933279+00:00",
+  "LastUpdate_Achievements": "2024-01-02T08:09:30.1424445+00:00"
 }

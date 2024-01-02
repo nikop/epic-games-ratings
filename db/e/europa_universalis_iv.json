@@ -13873,10 +13873,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 63158,
       "NumberOfAwardsMax": 7659
+    },
+    {
+      "Time": "2024-01-02T08:00:18.620136+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 63165,
+      "NumberOfAwardsMax": 7659
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 63158,
+  "NumberOfAwards": 63165,
   "NumberOfAwardsMax": 7659,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -13920,7 +13926,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 6861
+      "Count": 6868
     },
     {
       "Text": "This game is Relaxing",
@@ -13947,9 +13953,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 490097,
+  "EOS_Progressed": 490117,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5808,
+  "EOS_NewPlayers": 5807,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -43547,6 +43553,11 @@
       "Time": "2024-01-02T07:09:27.7485321+00:00",
       "NumProgressed": 490097,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-02T08:09:17.7881183+00:00",
+      "NumProgressed": 490117,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -44558,7 +44569,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2450
+      "UsersEstimate": 2451
     },
     {
       "ID": "achievement_grand_coalition",
@@ -46222,7 +46233,7 @@
       "Name": "Until death do us apart",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2450
+      "UsersEstimate": 2451
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -46461,21 +46472,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 490097,
+      "Progressed": 490117,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 490097,
+      "Progressed": 490117,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-01-01T16:00:09.3004047+00:00",
-  "LastChanged_Achievements": "2024-01-02T07:09:27.7485318+00:00",
+  "LastChanged": "2024-01-02T08:00:18.6201358+00:00",
+  "LastChanged_Achievements": "2024-01-02T08:09:17.7881179+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:39.2428149+00:00",
-  "LastUpdate_Ratings": "2024-01-02T07:00:23.6349449+00:00",
-  "LastUpdate_Achievements": "2024-01-02T07:09:27.7496205+00:00"
+  "LastUpdate_Ratings": "2024-01-02T08:00:18.6201364+00:00",
+  "LastUpdate_Achievements": "2024-01-02T08:09:17.7891994+00:00"
 }

@@ -5,19 +5,19 @@ Rating: 4.52 (Ranked 573)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 48.00% | ~1,536 |
-| First Love | 45.00% | ~1,440 |
-| Clean Race | 44.00% | ~1,408 |
-| Hear That Roar! | 41.00% | ~1,312 |
-| Rivals to the End | 31.00% | ~992 |
-| Bitter Rivalry | 30.00% | ~960 |
-| Champagne Spray | 28.00% | ~896 |
-| We're Going to Need a Bigger Garage | 26.00% | ~832 |
-| Quick Pit Stop | 22.00% | ~704 |
-| Restored and Ready | 20.00% | ~640 |
-| I Want One Too! | 20.00% | ~640 |
-| Legendary!!! | 20.00% | ~640 |
-| Go-Faster Stripes | 17.00% | ~544 |
+| Eat My Dust | 48.00% | ~1,537 |
+| First Love | 45.00% | ~1,441 |
+| Clean Race | 44.00% | ~1,409 |
+| Hear That Roar! | 41.00% | ~1,313 |
+| Rivals to the End | 31.00% | ~993 |
+| Bitter Rivalry | 30.00% | ~961 |
+| Champagne Spray | 28.00% | ~897 |
+| We're Going to Need a Bigger Garage | 26.00% | ~833 |
+| Quick Pit Stop | 22.00% | ~705 |
+| Restored and Ready | 20.00% | ~641 |
+| I Want One Too! | 20.00% | ~641 |
+| Legendary!!! | 20.00% | ~641 |
+| Go-Faster Stripes | 17.00% | ~545 |
 | I'm Here Too! | 15.00% | ~480 |
 | We've Just Begun | 14.00% | ~448 |
 | Is It the Right Size? | 9.00% | ~288 |
@@ -55,7 +55,7 @@ Rating: 4.52 (Ranked 573)
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,201 (Ranked 223)  
+Progressed: 3,203 (Ranked 223)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-30 | 3,132 | 0 |
 | 2023-12-31 | 3,170 | 0 |
 | 2024-01-01 | 3,195 | 0 |
-| 2024-01-02 | 3,201 | 0 |
+| 2024-01-02 | 3,203 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

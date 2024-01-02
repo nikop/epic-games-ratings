@@ -2016,9 +2016,9 @@
       "ID": "HOUSEWARMING",
       "SetID": "aniflfk",
       "Name": "A Party to Remember!",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 96
+      "UsersEstimate": 100
     },
     {
       "ID": "LUNCH_LEECH",
@@ -2096,9 +2096,9 @@
       "ID": "UPGRADE_SMART_TOWER",
       "SetID": "aniflfk",
       "Name": "Strong Signal",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 214
+      "UsersEstimate": 219
     }
   ],
   "AchievementSets": [
@@ -2111,8 +2111,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2024-01-02T07:04:01.4058736+00:00",
+  "LastChanged_Achievements": "2024-01-02T08:03:52.1189908+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:54.5394751+00:00",
-  "LastUpdate_Ratings": "2024-01-02T07:02:46.2095777+00:00",
-  "LastUpdate_Achievements": "2024-01-02T07:04:01.405898+00:00"
+  "LastUpdate_Ratings": "2024-01-02T08:02:39.1910914+00:00",
+  "LastUpdate_Achievements": "2024-01-02T08:03:52.1190123+00:00"
 }

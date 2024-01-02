@@ -2167,9 +2167,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 17983,
+  "EOS_Progressed": 17986,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 1097,
+  "EOS_NewPlayers": 1095,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -18677,6 +18677,11 @@
       "Time": "2024-01-02T07:10:00.2481214+00:00",
       "NumProgressed": 17983,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2024-01-02T08:09:49.2222065+00:00",
+      "NumProgressed": 17986,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 35,
@@ -18688,7 +18693,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 14566
+      "UsersEstimate": 14569
     },
     {
       "ID": "ACH02",
@@ -18744,7 +18749,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 8992
+      "UsersEstimate": 8993
     },
     {
       "ID": "ACH09",
@@ -18752,7 +18757,7 @@
       "Name": "Bike or Biker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "ACH10",
@@ -18768,7 +18773,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1618
+      "UsersEstimate": 1619
     },
     {
       "ID": "ACH12",
@@ -18792,7 +18797,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1798
+      "UsersEstimate": 1799
     },
     {
       "ID": "ACH15",
@@ -18808,7 +18813,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3057
+      "UsersEstimate": 3058
     },
     {
       "ID": "ACH17",
@@ -18816,7 +18821,7 @@
       "Name": "What the City Needs",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "ACH18",
@@ -18912,7 +18917,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 2697
+      "UsersEstimate": 2698
     },
     {
       "ID": "ACH30",
@@ -18967,7 +18972,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 17983,
+      "Progressed": 17986,
       "Completed": 69
     }
   ],
@@ -18975,8 +18980,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-02T04:56:55.1912569+00:00",
-  "LastChanged_Achievements": "2024-01-02T07:10:00.248121+00:00",
+  "LastChanged_Achievements": "2024-01-02T08:09:49.2222062+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.8114387+00:00",
-  "LastUpdate_Ratings": "2024-01-02T06:57:05.6189845+00:00",
-  "LastUpdate_Achievements": "2024-01-02T07:10:00.2482448+00:00"
+  "LastUpdate_Ratings": "2024-01-02T07:57:03.3417462+00:00",
+  "LastUpdate_Achievements": "2024-01-02T08:09:49.2223478+00:00"
 }

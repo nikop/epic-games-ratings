@@ -1106,9 +1106,9 @@
       "ID": "SlottingMachine",
       "SetID": "4bd750m",
       "Name": "Slotting Machine",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 105
     },
     {
       "ID": "StackOverflow",
@@ -1185,8 +1185,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2024-01-02T07:03:23.9763619+00:00",
+  "LastChanged_Achievements": "2024-01-02T08:03:16.2589501+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.9245287+00:00",
-  "LastUpdate_Ratings": "2024-01-02T07:03:12.6323319+00:00",
-  "LastUpdate_Achievements": "2024-01-02T07:03:23.9763854+00:00"
+  "LastUpdate_Ratings": "2024-01-02T08:03:04.6616404+00:00",
+  "LastUpdate_Achievements": "2024-01-02T08:03:16.258986+00:00"
 }

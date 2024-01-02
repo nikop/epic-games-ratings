@@ -9259,9 +9259,9 @@
       "Count": 3617
     }
   ],
-  "EOS_Progressed": 249542,
+  "EOS_Progressed": 249556,
   "EOS_Completed": 2585,
-  "EOS_NewPlayers": 4794,
+  "EOS_NewPlayers": 4797,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -38324,6 +38324,11 @@
       "Time": "2024-01-02T07:10:14.9935058+00:00",
       "NumProgressed": 249542,
       "NumCompleted": 2585
+    },
+    {
+      "Time": "2024-01-02T08:10:03.613584+00:00",
+      "NumProgressed": 249556,
+      "NumCompleted": 2585
     }
   ],
   "TotalAchievements": 546,
@@ -38335,7 +38340,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7486
+      "UsersEstimate": 7487
     },
     {
       "ID": "objective_completed_10",
@@ -38703,7 +38708,7 @@
       "Name": "Beast Intentions",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2495
+      "UsersEstimate": 2496
     },
     {
       "ID": "objective_completed_110",
@@ -40007,7 +40012,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2495
+      "UsersEstimate": 2496
     },
     {
       "ID": "objective_completed_34",
@@ -42702,21 +42707,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 215816,
+      "Progressed": 215830,
       "Completed": 4124
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 249542,
+      "Progressed": 249556,
       "Completed": 2585
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-01T16:58:00.6629331+00:00",
-  "LastChanged_Achievements": "2024-01-02T07:10:14.9935054+00:00",
+  "LastChanged_Achievements": "2024-01-02T08:10:03.6135835+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-02T06:57:54.470188+00:00",
-  "LastUpdate_Achievements": "2024-01-02T07:10:14.9959303+00:00"
+  "LastUpdate_Ratings": "2024-01-02T07:57:52.4049812+00:00",
+  "LastUpdate_Achievements": "2024-01-02T08:10:03.616033+00:00"
 }

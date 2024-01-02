@@ -30,11 +30,11 @@ Rating: 4.56 (Ranked 503)
 | Defeat Ratnor Rodentson | 0.80% | ~18 |
 | Fix the Travellers Wagon | 0.80% | ~18 |
 | Defeat the Grub Buster | 0.80% | ~8 |
+| Return the Statues | 0.70% | ~16 |
 | Defeat Avor Warden of the Northern Wastes | 0.70% | ~16 |
+| Defeat Rattus Augustail | 0.70% | ~16 |
 | Defeat the Stalker Queen | 0.70% | ~7 |
-| Return the Statues | 0.60% | ~14 |
 | Complete the Chefs Book | 0.60% | ~14 |
-| Defeat Rattus Augustail | 0.60% | ~14 |
 | Discover the mystery of the Kings Chambers | 0.60% | ~14 |
 | Complete Arena Faction | 0.50% | ~12 |
 | Complete Ranger Faction | 0.50% | ~12 |

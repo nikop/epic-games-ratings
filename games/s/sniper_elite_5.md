@@ -33,7 +33,7 @@ Rating: 4.46 (Ranked 675)
 | Opposing Force | 14.00% | ~586 |
 | Enemy at the Gates | 14.00% | ~586 |
 | Fields of Glory | 14.00% | ~586 |
-| Set Europe Ablaze | 13.00% | ~544 |
+| Set Europe Ablaze | 14.00% | ~586 |
 | Precision Is Key | 10.00% | ~418 |
 | My Little Friend | 10.00% | ~418 |
 | Rigged to Blow | 9.00% | ~377 |
@@ -335,8 +335,8 @@ Completed: 11 (0.26%) (Ranked 261)
 | 2024-01-02 | 4,184 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 528)  
-Sum: 28 (Ranked 544)  
-Diff (max vs sum): -16  
+Sum: 28 (Ranked 545)  
+Diff (max vs sum): -17  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 28 |

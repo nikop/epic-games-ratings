@@ -41,6 +41,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Fountainhead | 0.50% | ~80 |
 | Magnificent | 0.50% | ~80 |
 | Wise | 0.50% | ~80 |
+| Furious Family | 0.50% | ~80 |
 | Apadana | 0.50% | ~80 |
 | Great Ziggurat | 0.50% | ~80 |
 | Ishtar Gate | 0.50% | ~80 |
@@ -54,7 +55,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intercessor | 0.40% | ~64 |
 | Legendary Cities | 0.40% | ~64 |
 | Able Difficulty | 0.40% | ~64 |
-| Furious Family | 0.40% | ~64 |
 | Acropolis | 0.40% | ~64 |
 | Mausoleum | 0.40% | ~64 |
 | Musaeum | 0.40% | ~64 |

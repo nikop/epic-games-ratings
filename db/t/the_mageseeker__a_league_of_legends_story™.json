@@ -2,12 +2,12 @@
   "ID": "1e1d639f7fa045f08a1378885ec7080c",
   "Name": "The Mageseeker: A League of Legends Story\u2122",
   "ProductSlug": "the-mageseeker-a-league-of-legends-story",
-  "Ranking_Rating": 84,
+  "Ranking_Rating": 83,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -169,7 +169,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3221,
+  "EOS_Progressed": 3222,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 3,
@@ -5719,6 +5719,11 @@
       "Time": "2024-01-02T06:05:08.2464898+00:00",
       "NumProgressed": 3221,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2024-01-02T08:05:00.5470649+00:00",
+      "NumProgressed": 3222,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 53,
@@ -5770,7 +5775,7 @@
       "Name": "Hijack",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -5794,7 +5799,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 3060
+      "UsersEstimate": 3061
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -5802,7 +5807,7 @@
       "Name": "My heart and sword always for Demacia",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "STB_DEFEAT_ICE_SALAMANDER_I",
@@ -5810,7 +5815,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2480
+      "UsersEstimate": 2481
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -5834,7 +5839,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1288
+      "UsersEstimate": 1289
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -5874,7 +5879,7 @@
       "Name": "True power",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_III",
@@ -5906,7 +5911,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 2448
+      "UsersEstimate": 2449
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -5914,7 +5919,7 @@
       "Name": "No more cages!",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 2899
+      "UsersEstimate": 2900
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -5922,7 +5927,7 @@
       "Name": "Meltridge",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "STB_MISSION11_COMPLETED",
@@ -5946,7 +5951,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 2448
+      "UsersEstimate": 2449
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -5962,7 +5967,7 @@
       "Name": "Clarion Cove",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1288
+      "UsersEstimate": 1289
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -5978,7 +5983,7 @@
       "Name": "Sacred Woods",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 837
+      "UsersEstimate": 838
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -6088,9 +6093,9 @@
       "ID": "STB_SECONDARY_ASSAULT_IV",
       "SetID": "3pe2bac",
       "Name": "Quickmoore Headquarters",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 612
+      "UsersEstimate": 580
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_V",
@@ -6098,7 +6103,7 @@
       "Name": "Cloven Dell Headquarters",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "STB_UNLOCK_ACTIVE_RUNE",
@@ -6106,7 +6111,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2351
+      "UsersEstimate": 2352
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -6153,7 +6158,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 3221,
+      "Progressed": 3222,
       "Completed": 20
     }
   ],
@@ -6161,8 +6166,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-30T20:57:35.994685+00:00",
-  "LastChanged_Achievements": "2024-01-02T07:05:14.3089876+00:00",
+  "LastChanged_Achievements": "2024-01-02T08:05:00.5470645+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:16.0545663+00:00",
-  "LastUpdate_Ratings": "2024-01-02T06:58:10.0075545+00:00",
-  "LastUpdate_Achievements": "2024-01-02T07:05:14.3090643+00:00"
+  "LastUpdate_Ratings": "2024-01-02T07:58:06.035164+00:00",
+  "LastUpdate_Achievements": "2024-01-02T08:05:00.5471465+00:00"
 }

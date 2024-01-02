@@ -1985,9 +1985,9 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 20571,
+  "EOS_Progressed": 20574,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1249,
+  "EOS_NewPlayers": 1248,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -12205,6 +12205,11 @@
       "Time": "2024-01-02T07:09:35.2592548+00:00",
       "NumProgressed": 20571,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-02T08:09:24.7938645+00:00",
+      "NumProgressed": 20574,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -12344,7 +12349,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 3497
+      "UsersEstimate": 3498
     },
     {
       "ID": "KILL_ROBOT",
@@ -12352,7 +12357,7 @@
       "Name": "Terminated",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1851
+      "UsersEstimate": 1852
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -12360,7 +12365,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 2674
+      "UsersEstimate": 2675
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -12392,7 +12397,7 @@
       "Name": "Paper Jams",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3908
+      "UsersEstimate": 3909
     },
     {
       "ID": "SHARE_PHOTO",
@@ -12416,7 +12421,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2674
+      "UsersEstimate": 2675
     },
     {
       "ID": "STORY_HABITAT",
@@ -12448,7 +12453,7 @@
       "Name": "Desperate Times",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 4114
+      "UsersEstimate": 4115
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -12472,7 +12477,7 @@
       "Name": "Power Up",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1851
+      "UsersEstimate": 1852
     },
     {
       "ID": "DISMEMBER_100",
@@ -12512,7 +12517,7 @@
       "Name": "Hoard Mode",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "RIOT_10_POWERUPS",
@@ -12536,7 +12541,7 @@
       "Name": "Don\u0027t Let It Mellow",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "FIND_ALL_DATA_DRIVES",
@@ -12591,13 +12596,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 20571,
+      "Progressed": 20574,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 8497,
+      "Progressed": 8500,
       "Completed": 29
     }
   ],
@@ -12605,8 +12610,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-01T23:03:46.8313112+00:00",
-  "LastChanged_Achievements": "2024-01-02T07:09:35.2592546+00:00",
+  "LastChanged_Achievements": "2024-01-02T08:09:24.7938642+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.412859+00:00",
-  "LastUpdate_Ratings": "2024-01-02T07:03:12.2115477+00:00",
-  "LastUpdate_Achievements": "2024-01-02T07:09:35.2593432+00:00"
+  "LastUpdate_Ratings": "2024-01-02T08:03:04.5390186+00:00",
+  "LastUpdate_Achievements": "2024-01-02T08:09:24.7939672+00:00"
 }

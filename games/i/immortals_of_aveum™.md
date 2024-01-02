@@ -5,14 +5,14 @@ Rating: 4.20 (Ranked 954)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~2,198 |
-| Battlefields Have Memories | 81.00% | ~2,023 |
-| Enlisted | 74.00% | ~1,849 |
-| Maybe Engage a Little | 68.00% | ~1,699 |
-| No More Names | 51.00% | ~1,274 |
-| Initiate | 37.00% | ~924 |
-| Thrada-Kul | 33.00% | ~824 |
-| Gravity-Challenged Rocks | 27.00% | ~674 |
+| Unforeseen | 88.00% | ~2,200 |
+| Battlefields Have Memories | 81.00% | ~2,025 |
+| Enlisted | 74.00% | ~1,850 |
+| Maybe Engage a Little | 68.00% | ~1,700 |
+| No More Names | 51.00% | ~1,275 |
+| Initiate | 37.00% | ~925 |
+| Thrada-Kul | 33.00% | ~825 |
+| Gravity-Challenged Rocks | 27.00% | ~675 |
 | Socialite | 23.00% | ~575 |
 | Soldier | 22.00% | ~550 |
 | All the Major Food Groups | 22.00% | ~550 |
@@ -40,7 +40,7 @@ Rating: 4.20 (Ranked 954)
 | Veteran | 2.00% | ~50 |
 | Grand Magnus | 1.00% | ~25 |
 | Master of Carmine | 1.00% | ~25 |
-| Tip of the Spear | 0.90% | ~22 |
+| Tip of the Spear | 0.90% | ~23 |
 | Shroudfane Surveyor | 0.80% | ~20 |
 | Master of Ultramarine | 0.60% | ~15 |
 | Backtracker | 0.60% | ~15 |
@@ -49,11 +49,11 @@ Rating: 4.20 (Ranked 954)
 | Family Business | 0.40% | ~10 |
 | Diplomat | 0.40% | ~10 |
 | Petite Bourgeoisie | 0.40% | ~10 |
-| Treasure Hunter | 0.30% | ~7 |
+| Treasure Hunter | 0.30% | ~8 |
 | Out of Time | 0.20% | ~5 |
 | Fowl Play | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,498 (Ranked 231)  
+Progressed: 2,500 (Ranked 231)  
 Completed: 2 (0.08%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 2 (0.08%) (Ranked 317)
 | 2023-12-30 | 2,327 | 2 |
 | 2023-12-31 | 2,400 | 2 |
 | 2024-01-01 | 2,478 | 2 |
-| 2024-01-02 | 2,498 | 2 |
+| 2024-01-02 | 2,500 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

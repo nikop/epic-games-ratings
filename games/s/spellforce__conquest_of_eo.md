@@ -37,8 +37,8 @@
 | Silver Drift Hollow Mine | 11.00% | ~12 |
 | A Master of Magic | 11.00% | ~12 |
 | Magic Academy | 11.00% | ~12 |
+| Defeat Gor | 10.00% | ~11 |
 | Friend of Windholme | 10.00% | ~11 |
-| Defeat Gor | 9.00% | ~10 |
 | Yngrid's Tale | 9.00% | ~10 |
 | Mage Teacher | 9.00% | ~10 |
 | A Joke | 9.00% | ~10 |

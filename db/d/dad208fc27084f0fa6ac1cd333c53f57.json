@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6690,
+  "EOS_Progressed": 6692,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 565,
+  "EOS_NewPlayers": 566,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
@@ -6934,6 +6934,11 @@
       "Time": "2024-01-02T07:03:42.5279829+00:00",
       "NumProgressed": 6690,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2024-01-02T08:03:34.0309473+00:00",
+      "NumProgressed": 6692,
+      "NumCompleted": 62
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -6978,7 +6983,7 @@
       "Name": "Unlock the PC",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 2475
+      "UsersEstimate": 2476
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_SOFA",
@@ -6994,7 +6999,7 @@
       "Name": "Turn on the TV",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 3813
+      "UsersEstimate": 3814
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_WRONGCODE",
@@ -7002,7 +7007,7 @@
       "Name": "Wrong passcode",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 5285
+      "UsersEstimate": 5287
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -7066,21 +7071,21 @@
       "Name": "Turn on the TV in Speedrun",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     }
   ],
   "AchievementSets": [
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 6690,
+      "Progressed": 6692,
       "Completed": 62
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2024-01-02T07:03:42.5279826+00:00",
+  "LastChanged_Achievements": "2024-01-02T08:03:34.0309469+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:11.3556672+00:00",
-  "LastUpdate_Ratings": "2024-01-02T06:58:16.9705041+00:00",
-  "LastUpdate_Achievements": "2024-01-02T07:03:42.5280273+00:00"
+  "LastUpdate_Ratings": "2024-01-02T07:58:12.3645683+00:00",
+  "LastUpdate_Achievements": "2024-01-02T08:03:34.0309991+00:00"
 }

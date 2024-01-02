@@ -4,7 +4,7 @@
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 375,
   "Ranking_Popularity": 477,
-  "Ranking_PopularitySum": 424,
+  "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 157,
@@ -631,10 +631,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 185,
       "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2024-01-02T07:59:23.6762992+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 205,
+      "NumberOfAwardsMax": 40
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 185,
+  "NumberOfAwards": 205,
   "NumberOfAwardsMax": 40,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -679,11 +685,17 @@
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
       "Count": 20
+    },
+    {
+      "Text": "This game has Beautiful Visuals",
+      "Prefix": "This game has",
+      "Type": "Beautiful Visuals",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 6699,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 470,
+  "EOS_NewPlayers": 468,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10569,9 +10581,9 @@
   "FirstSeen": "2023-05-02T18:59:30.6410033+00:00",
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
-  "LastChanged": "2024-01-02T05:59:26.9501207+00:00",
-  "LastChanged_Achievements": "2024-01-02T07:08:20.1881946+00:00",
+  "LastChanged": "2024-01-02T07:59:23.676299+00:00",
+  "LastChanged_Achievements": "2024-01-02T08:06:18.4040064+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-02T06:59:30.6498521+00:00",
-  "LastUpdate_Achievements": "2024-01-02T07:08:20.1882675+00:00"
+  "LastUpdate_Ratings": "2024-01-02T07:59:23.6762994+00:00",
+  "LastUpdate_Achievements": "2024-01-02T08:06:18.4041214+00:00"
 }

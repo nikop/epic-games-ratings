@@ -5,9 +5,9 @@
   "Ranking_Rating": 612,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
-  "Ranking_EOS_Progress": 347,
+  "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 370,
+  "Ranking_EOS_NewPlayers": 362,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 479,
+  "EOS_Progressed": 480,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -668,6 +668,11 @@
       "Time": "2024-01-02T00:03:46.0764454+00:00",
       "NumProgressed": 479,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-02T08:03:37.8633229+00:00",
+      "NumProgressed": 480,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -711,7 +716,7 @@
       "Name": "Frugal",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "collect-discounted-items2",
@@ -735,7 +740,7 @@
       "Name": "Party",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "different-items2",
@@ -751,7 +756,7 @@
       "Name": "Fat of the Earth",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "finished-quest-cube",
@@ -759,7 +764,7 @@
       "Name": "Impossible Cube",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "finished-quest-flight",
@@ -775,7 +780,7 @@
       "Name": "Campaigning",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "finished-quest-nurgle",
@@ -799,7 +804,7 @@
       "Name": "The Return of a Rat",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "finished-quest-reaper",
@@ -831,7 +836,7 @@
       "Name": "Holy Vengeance",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "get-all",
@@ -853,9 +858,9 @@
       "ID": "last-hero",
       "SetID": "799afm0",
       "Name": "Last Man Standing",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 149
     },
     {
       "ID": "save-zombie",
@@ -901,9 +906,9 @@
       "ID": "win-first-level",
       "SetID": "799afm0",
       "Name": "Good start!",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 417
+      "UsersEstimate": 422
     },
     {
       "ID": "win-koth-fights1",
@@ -911,7 +916,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "win-koth-fights2",
@@ -958,7 +963,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 479,
+      "Progressed": 480,
       "Completed": 1
     }
   ],
@@ -966,8 +971,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2024-01-02T07:03:46.4194513+00:00",
+  "LastChanged_Achievements": "2024-01-02T08:03:37.8633226+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.2003375+00:00",
-  "LastUpdate_Ratings": "2024-01-02T06:57:02.208626+00:00",
-  "LastUpdate_Achievements": "2024-01-02T07:03:46.4194783+00:00"
+  "LastUpdate_Ratings": "2024-01-02T07:57:00.1613517+00:00",
+  "LastUpdate_Achievements": "2024-01-02T08:03:37.8633465+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "blasphemous-2",
   "Ranking_Rating": 49,
   "Ranking_Popularity": 520,
-  "Ranking_PopularitySum": 539,
+  "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 174,
@@ -269,7 +269,7 @@
   ],
   "EOS_Progressed": 2085,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 319,
+  "EOS_NewPlayers": 318,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5029,9 +5029,9 @@
       "ID": "AC14",
       "SetID": "l4abp0",
       "Name": "Acta, Non Verba",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 354
+      "UsersEstimate": 375
     },
     {
       "ID": "AC15",
@@ -5045,9 +5045,9 @@
       "ID": "AC16",
       "SetID": "l4abp0",
       "Name": "Weight of Penance",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 313
+      "UsersEstimate": 334
     },
     {
       "ID": "AC17",
@@ -5294,8 +5294,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-12-31T20:59:17.7127137+00:00",
-  "LastChanged_Achievements": "2024-01-02T07:08:27.5560343+00:00",
+  "LastChanged_Achievements": "2024-01-02T08:08:15.2562531+00:00",
   "LastUpdate_AppInfo": "2023-12-27T02:57:24.8809366+00:00",
-  "LastUpdate_Ratings": "2024-01-02T06:59:19.3867726+00:00",
-  "LastUpdate_Achievements": "2024-01-02T07:08:27.5560832+00:00"
+  "LastUpdate_Ratings": "2024-01-02T07:59:11.756143+00:00",
+  "LastUpdate_Achievements": "2024-01-02T08:08:15.2563135+00:00"
 }

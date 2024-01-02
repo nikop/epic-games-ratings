@@ -4,8 +4,8 @@
   "ProductSlug": "voidtrain",
   "Ranking_Rating": 612,
   "Ranking_Popularity": 461,
-  "Ranking_PopularitySum": 394,
-  "Ranking_EOS_Progress": 819,
+  "Ranking_PopularitySum": 393,
+  "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 150,
@@ -1248,10 +1248,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 266,
       "NumberOfAwardsMax": 47
+    },
+    {
+      "Time": "2024-01-02T08:02:56.5608703+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 267,
+      "NumberOfAwardsMax": 47
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 266,
+  "NumberOfAwards": 267,
   "NumberOfAwardsMax": 47,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1289,7 +1295,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1327,8 +1333,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:41.7165355+00:00",
-  "LastChanged": "2024-01-01T01:59:11.9640835+00:00",
+  "LastChanged": "2024-01-02T08:02:56.5608701+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:28.1600839+00:00",
-  "LastUpdate_Ratings": "2024-01-02T07:03:04.6939323+00:00",
-  "LastUpdate_Achievements": "2024-01-02T07:03:51.7054079+00:00"
+  "LastUpdate_Ratings": "2024-01-02T08:02:56.5608706+00:00",
+  "LastUpdate_Achievements": "2024-01-02T08:03:42.7680861+00:00"
 }

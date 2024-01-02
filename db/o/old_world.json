@@ -19722,9 +19722,9 @@
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
       "SetID": "9201eeb",
       "Name": "Furious Family",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 80
     },
     {
       "ID": "ACHIEVEMENT_FERTILE_CRESCENT",
@@ -21680,8 +21680,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-29T16:02:55.9624641+00:00",
-  "LastChanged_Achievements": "2024-01-02T07:10:14.0640644+00:00",
+  "LastChanged_Achievements": "2024-01-02T08:10:02.827003+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:24.5452657+00:00",
-  "LastUpdate_Ratings": "2024-01-02T06:57:13.9448707+00:00",
-  "LastUpdate_Achievements": "2024-01-02T07:10:14.0650795+00:00"
+  "LastUpdate_Ratings": "2024-01-02T07:57:12.205832+00:00",
+  "LastUpdate_Achievements": "2024-01-02T08:10:02.8280127+00:00"
 }

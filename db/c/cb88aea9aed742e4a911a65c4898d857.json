@@ -245,9 +245,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 9522,
+  "EOS_Progressed": 9530,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1895,
+  "EOS_NewPlayers": 1891,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3325,6 +3325,11 @@
       "Time": "2024-01-02T07:09:55.4233402+00:00",
       "NumProgressed": 9522,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T08:09:44.4616123+00:00",
+      "NumProgressed": 9530,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3335,9 +3340,9 @@
       "ID": "02_TheIntrigue",
       "SetID": "37a94m8",
       "Name": "Conspiracy",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 762
+      "UsersEstimate": 858
     },
     {
       "ID": "03_TheStolenStar",
@@ -3353,7 +3358,7 @@
       "Name": "Trade Empire",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "05_TheComorraghSurvivors",
@@ -3361,7 +3366,7 @@
       "Name": "Commorragh Survivors",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "06_TheExpanseCalamity",
@@ -3457,7 +3462,7 @@
       "Name": "Exemplar",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "18_TheRookieSkipper",
@@ -3505,7 +3510,7 @@
       "Name": "The Dynasty Restored",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "24_TheHighrise",
@@ -3721,7 +3726,7 @@
       "Name": "Whodunit?",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "51_AmendsToTheDead",
@@ -3856,7 +3861,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 9522,
+      "Progressed": 9530,
       "Completed": 0
     }
   ],
@@ -3864,8 +3869,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-01T17:00:50.4484389+00:00",
-  "LastChanged_Achievements": "2024-01-02T07:09:55.4233397+00:00",
+  "LastChanged_Achievements": "2024-01-02T08:09:44.461612+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2024-01-02T06:59:50.8209118+00:00",
-  "LastUpdate_Achievements": "2024-01-02T07:09:55.4234013+00:00"
+  "LastUpdate_Ratings": "2024-01-02T07:59:45.4710418+00:00",
+  "LastUpdate_Achievements": "2024-01-02T08:09:44.461685+00:00"
 }
