@@ -93,7 +93,7 @@
 | 91 | [Dungeons 4](games/d/dungeons_4.md) | 3.91% |
 | 92 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.82% |
 | 93 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.78% |
-| 94 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.74% |
+| 94 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.73% |
 | 95 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.70% |
 | 95 | [Thunder Ray](games/3/3c59565688c94fa2807baaa19ed62478.md) | 3.70% |
 | 97 | [Doodle God](games/d/doodle_god.md) | 3.68% |
@@ -131,7 +131,7 @@
 | 129 | [Destiny 2](games/d/destiny_2.md) | 2.36% |
 | 129 | [Night Book](games/n/night_book.md) | 2.36% |
 | 131 | [Lamentum](games/l/lamentum.md) | 2.35% |
-| 132 | [Bloodshore](games/b/bloodshore.md) | 2.31% |
+| 132 | [Bloodshore](games/b/bloodshore.md) | 2.30% |
 | 133 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.22% |
 | 133 | [FORECLOSED](games/f/foreclosed.md) | 2.22% |
 | 135 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 2.17% |
@@ -207,9 +207,9 @@
 | 205 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.60% |
 | 206 | [Potion Permit](games/p/potion_permit.md) | 0.59% |
 | 206 | [Sonic Frontiers](games/5/50809e4c39674f42b649fa127d6796dd.md) | 0.59% |
-| 208 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 0.58% |
-| 209 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.57% |
-| 209 | [Grindstone](games/g/grindstone.md) | 0.57% |
+| 208 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.57% |
+| 208 | [Grindstone](games/g/grindstone.md) | 0.57% |
+| 208 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 0.57% |
 | 211 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.56% |
 | 212 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 213 | [Haven](games/h/haven.md) | 0.54% |
@@ -256,14 +256,14 @@
 | 254 | [Remnant 2](games/r/remnant_2.md) | 0.28% |
 | 254 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.28% |
 | 256 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.27% |
-| 256 | [Darksiders III](games/d/darksiders_iii.md) | 0.27% |
 | 256 | [Eternights](games/e/eternights.md) | 0.27% |
 | 256 | [Filament](games/f/filament.md) | 0.27% |
 | 256 | [Them and Us](games/t/them_and_us.md) | 0.27% |
-| 261 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.26% |
-| 261 | [GRIME](games/g/grime.md) | 0.26% |
-| 261 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.26% |
-| 261 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.26% |
+| 260 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.26% |
+| 260 | [Darksiders III](games/d/darksiders_iii.md) | 0.26% |
+| 260 | [GRIME](games/g/grime.md) | 0.26% |
+| 260 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.26% |
+| 260 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.26% |
 | 265 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.25% |
 | 266 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.24% |
 | 267 | [Aegis Descent](games/a/aegis_descent.md) | 0.23% |
@@ -292,8 +292,8 @@
 | 286 | [Lost Ruins](games/l/lost_ruins.md) | 0.15% |
 | 286 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
 | 286 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.15% |
-| 286 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 0.15% |
-| 294 | [RAILGRADE](games/r/railgrade.md) | 0.14% |
+| 293 | [RAILGRADE](games/r/railgrade.md) | 0.14% |
+| 293 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 0.14% |
 | 295 | [Fall Guys](games/f/fall_guys.md) | 0.13% |
 | 295 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
 | 295 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.13% |
