@@ -3,12 +3,12 @@
   "Name": "GRIME",
   "ProductSlug": "grime",
   "Ranking_Rating": 426,
-  "Ranking_Popularity": 425,
+  "Ranking_Popularity": 426,
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1801,10 +1801,10 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 166114,
+  "EOS_Progressed": 166124,
   "EOS_Completed": 438,
-  "EOS_NewPlayers": 1462,
-  "EOS_NewCompleters": 27,
+  "EOS_NewPlayers": 1459,
+  "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
     {
@@ -21571,6 +21571,11 @@
       "Time": "2024-01-02T15:06:08.4070436+00:00",
       "NumProgressed": 166114,
       "NumCompleted": 438
+    },
+    {
+      "Time": "2024-01-02T16:05:05.893271+00:00",
+      "NumProgressed": 166124,
+      "NumCompleted": 438
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -21589,9 +21594,9 @@
       "ID": "ACQUIRE_ALLHUNTPOINTS",
       "SetID": "ccc0dlh",
       "Name": "Bloodhunter",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 166
+      "UsersEstimate": 332
     },
     {
       "ID": "ACQUIRE_ALLOUTFITS",
@@ -21647,7 +21652,7 @@
       "Name": "Taste",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4983
+      "UsersEstimate": 4984
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -21695,7 +21700,7 @@
       "Name": "Glare",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 828
+      "UsersEstimate": 829
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -21799,7 +21804,7 @@
       "Name": "Imprint",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4983
+      "UsersEstimate": 4984
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -21950,21 +21955,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 165697,
+      "Progressed": 165707,
       "Completed": 1254
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 166114,
+      "Progressed": 166124,
       "Completed": 438
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-01T17:59:08.0457364+00:00",
-  "LastChanged_Achievements": "2024-01-02T15:06:08.4070433+00:00",
+  "LastChanged_Achievements": "2024-01-02T16:05:05.8932705+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:50.3299145+00:00",
-  "LastUpdate_Ratings": "2024-01-02T15:00:02.1484749+00:00",
-  "LastUpdate_Achievements": "2024-01-02T15:06:08.4071595+00:00"
+  "LastUpdate_Ratings": "2024-01-02T15:58:50.808112+00:00",
+  "LastUpdate_Achievements": "2024-01-02T16:05:05.8934103+00:00"
 }

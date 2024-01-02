@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | First Step | 52.00% | ~139 |
 | The 4 Pillars | 49.00% | ~131 |
-| Capitalism | 19.00% | ~51 |
+| Capitalism | 20.00% | ~53 |
 | There's something in those trees | 11.00% | ~29 |
 | Green Energy | 11.00% | ~29 |
 | Desert Power | 10.00% | ~27 |

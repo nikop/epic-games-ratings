@@ -4,8 +4,8 @@
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
   "Ranking_EOS_Progress": 456,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 383,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 379,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
     "PcReleaseDate": "2023-04-20T13:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 139,
+  "EOS_Progressed": 140,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.72,
+  "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
     {
       "Time": "2023-06-14T04:03:10.0787902+00:00",
@@ -704,6 +704,11 @@
       "Time": "2024-01-02T09:03:40.8763738+00:00",
       "NumProgressed": 139,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-02T16:03:55.5629363+00:00",
+      "NumProgressed": 140,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -769,9 +774,9 @@
       "ID": "ACH_BLOODISH_RED",
       "SetID": "8h8m55b",
       "Name": "Blood(ish) Red",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_BREW_FIRST_TIME",
@@ -787,7 +792,7 @@
       "Name": "It\u0027s a masterpiece!",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ACH_CAT_SHELTER",
@@ -801,9 +806,9 @@
       "ID": "ACH_CHILDS_PLAY",
       "SetID": "8h8m55b",
       "Name": "Child\u2019s Play",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_COLD_SHOULDERS",
@@ -825,9 +830,9 @@
       "ID": "ACH_FAILED_MESSENGER",
       "SetID": "8h8m55b",
       "Name": "Failed Messenger",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_FELLOW_INFLUENCER",
@@ -859,7 +864,7 @@
       "Name": "First Love",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_FIVE_STARS",
@@ -883,7 +888,7 @@
       "Name": "Good Review",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_GUEST_OF_HONOR",
@@ -915,7 +920,7 @@
       "Name": "Hyde Leibovitz",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_JUST_MARRIED",
@@ -923,7 +928,7 @@
       "Name": "Just Married",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_LISTEN_ALL_SONG",
@@ -937,17 +942,17 @@
       "ID": "ACH_LOCAL_FAVORITE",
       "SetID": "8h8m55b",
       "Name": "Local Favorite",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_MASTER_PURLOINER",
       "SetID": "8h8m55b",
       "Name": "Master Purloiner",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_NEW_GAME_FIRST_TIME",
@@ -955,7 +960,7 @@
       "Name": "Welcome to Coffee Talk",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_NOTHING_TO_SHOW",
@@ -979,7 +984,7 @@
       "Name": "\u201COverflowing Warmth: CBAW\u201D",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_REMEMBRANCE",
@@ -1019,7 +1024,7 @@
       "Name": "The Hibiscus \u0026 The Butterfly",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_TIME_SPENT_LATTEART",
@@ -1065,9 +1070,9 @@
       "ID": "ACH_UNLOCK_ALL_CHARACTER",
       "SetID": "8h8m55b",
       "Name": "We are all friends",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH_UNLOCK_ALL_DRINK",
@@ -1138,14 +1143,14 @@
     {
       "ID": "8h8m55b",
       "IsBase": true,
-      "Progressed": 139,
+      "Progressed": 140,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2024-01-02T15:04:35.1574672+00:00",
+  "LastChanged_Achievements": "2024-01-02T16:03:55.562936+00:00",
   "LastUpdate_AppInfo": "2023-12-26T21:56:53.6877972+00:00",
-  "LastUpdate_Ratings": "2024-01-02T14:59:46.6550284+00:00",
-  "LastUpdate_Achievements": "2024-01-02T15:04:35.1575076+00:00"
+  "LastUpdate_Ratings": "2024-01-02T15:58:41.8711939+00:00",
+  "LastUpdate_Achievements": "2024-01-02T16:03:55.5629766+00:00"
 }

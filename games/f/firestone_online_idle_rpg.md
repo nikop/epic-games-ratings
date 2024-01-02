@@ -1,16 +1,16 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.06 (Ranked 1,021)  
+Rating: 4.06 (Ranked 1,023)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,811 |
-| World Map | 78.00% | ~3,196 |
+| Victor | 93.00% | ~3,812 |
+| World Map | 78.00% | ~3,197 |
 | Temple of Eternals | 56.00% | ~2,295 |
 | Prestigious | 52.00% | ~2,131 |
-| Fellowship Power | 41.00% | ~1,680 |
-| Full Party | 27.00% | ~1,106 |
+| Fellowship Power | 41.00% | ~1,681 |
+| Full Party | 27.00% | ~1,107 |
 | Guild Power | 23.00% | ~943 |
 | Prestigious x10 | 20.00% | ~820 |
 | The game is on | 18.00% | ~738 |
@@ -30,6 +30,7 @@ Rating: 4.06 (Ranked 1,021)
 | Doing My Part | 9.00% | ~369 |
 | Hunter | 9.00% | ~369 |
 | Scientist | 9.00% | ~369 |
+| The power of Awakening | 9.00% | ~369 |
 | Challenger | 8.00% | ~328 |
 | Daily Quest Completionist | 8.00% | ~328 |
 | Frostfire Liberator | 8.00% | ~328 |
@@ -37,7 +38,6 @@ Rating: 4.06 (Ranked 1,021)
 | Moving Up The Ladder | 8.00% | ~328 |
 | Relic Of The Past | 8.00% | ~328 |
 | Scroll Master | 8.00% | ~328 |
-| The power of Awakening | 8.00% | ~328 |
 | Four Leaf Clover | 7.00% | ~287 |
 | Here We Go Again | 7.00% | ~287 |
 | Master Enchanter | 7.00% | ~287 |
@@ -81,7 +81,7 @@ Rating: 4.06 (Ranked 1,021)
 | Jewel Enchanting | 0.10% | ~4 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,098 (Ranked 209)  
+Progressed: 4,099 (Ranked 209)  
 Completed: 2 (0.05%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,7 +333,7 @@ Completed: 2 (0.05%) (Ranked 333)
 | 2023-12-30 | 3,984 | 2 |
 | 2023-12-31 | 4,033 | 2 |
 | 2024-01-01 | 4,079 | 2 |
-| 2024-01-02 | 4,098 | 2 |
+| 2024-01-02 | 4,099 | 2 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 477)  
 Sum: 154 (Ranked 438)  

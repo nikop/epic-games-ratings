@@ -329,9 +329,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 650,
+  "EOS_Progressed": 653,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 247,
+  "EOS_NewPlayers": 250,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.92,
   "EosHistory": [
@@ -1764,6 +1764,11 @@
       "Time": "2024-01-02T15:04:35.5418329+00:00",
       "NumProgressed": 650,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-02T16:03:55.7683344+00:00",
+      "NumProgressed": 653,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1776,7 +1781,7 @@
       "Name": "Robot encyclopedia",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_ARE_YOU_READY_NOW",
@@ -1784,7 +1789,7 @@
       "Name": "Are you ready now?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_CHUM_BUCKET_BRAIN",
@@ -1800,15 +1805,15 @@
       "Name": "100% SpongeBob",
       "Percentage": 1,
       "XP": 200,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_DONT_EAT_THE_SAND",
       "SetID": "biiejkc",
       "Name": "Life\u0027s as extreme as you wanna make it!",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_DOWN_TOWN",
@@ -1832,7 +1837,7 @@
       "Name": "Hello, Bikini Bottom",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_FLYING_DUTCHMAN_BOSS",
@@ -1936,7 +1941,7 @@
       "Name": "Sock Opera",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_STAT_100_SPATULA_SEEKER",
@@ -1944,7 +1949,7 @@
       "Name": "Super Ultra Mega Spatula Seeker",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_STAT_25_SPATULA_SEEKER",
@@ -1952,7 +1957,7 @@
       "Name": "Super Spatula Seeker",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_STAT_50_SPATULA_SEEKER",
@@ -1960,7 +1965,7 @@
       "Name": "Ultra Spatula Seeker",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_STAT_75_SPATULA_SEEKER",
@@ -1984,7 +1989,7 @@
       "Name": "Spatula Seeker",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -2016,7 +2021,7 @@
       "Name": "Surf\u0027s Up!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_TIME_FOR_TUTORIAL",
@@ -2031,15 +2036,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 650,
+      "Progressed": 653,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-01T20:58:26.8279253+00:00",
-  "LastChanged_Achievements": "2024-01-02T15:04:35.5418326+00:00",
+  "LastChanged_Achievements": "2024-01-02T16:03:55.7683341+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:11.8880921+00:00",
-  "LastUpdate_Ratings": "2024-01-02T14:59:49.8915638+00:00",
-  "LastUpdate_Achievements": "2024-01-02T15:04:35.5418606+00:00"
+  "LastUpdate_Ratings": "2024-01-02T15:58:43.6220428+00:00",
+  "LastUpdate_Achievements": "2024-01-02T16:03:55.7683573+00:00"
 }

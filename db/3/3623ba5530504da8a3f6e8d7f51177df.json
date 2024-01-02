@@ -2,10 +2,10 @@
   "ID": "3623ba5530504da8a3f6e8d7f51177df",
   "Name": "Mediterranea Inferno",
   "ProductSlug": "mediterranea-inferno-6a1352",
-  "Ranking_EOS_Progress": 664,
+  "Ranking_EOS_Progress": 660,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 522,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-12-18T17:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8,
+  "EOS_Progressed": 9,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
@@ -69,6 +69,11 @@
       "Time": "2023-12-30T15:08:37.1726994+00:00",
       "NumProgressed": 8,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T16:08:56.6752284+00:00",
+      "NumProgressed": 9,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-21T12:05:49.4734668+00:00",
@@ -79,7 +84,7 @@
       "ID": "ACH_0",
       "SetID": "526kd3o",
       "Name": "The Tower",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -87,7 +92,7 @@
       "ID": "ACH_1",
       "SetID": "526kd3o",
       "Name": "Pump It Up",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -168,14 +173,14 @@
     {
       "ID": "526kd3o",
       "IsBase": true,
-      "Progressed": 8,
+      "Progressed": 9,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-24T23:57:29.1604344+00:00",
   "FirstSeenAchievements": "2023-11-21T09:07:01.6731758+00:00",
-  "LastChanged_Achievements": "2024-01-02T15:09:35.91018+00:00",
+  "LastChanged_Achievements": "2024-01-02T16:08:56.6752279+00:00",
   "LastUpdate_AppInfo": "2023-12-28T22:56:57.9872031+00:00",
-  "LastUpdate_Ratings": "2024-01-02T14:59:00.9082839+00:00",
-  "LastUpdate_Achievements": "2024-01-02T15:09:35.9101919+00:00"
+  "LastUpdate_Ratings": "2024-01-02T15:58:10.7599912+00:00",
+  "LastUpdate_Achievements": "2024-01-02T16:08:56.6752367+00:00"
 }

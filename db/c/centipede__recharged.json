@@ -2,7 +2,7 @@
   "ID": "a1edd0d2e28d4d298152c001e7c47e22",
   "Name": "Centipede: Recharged",
   "ProductSlug": "centipede-recharged",
-  "Ranking_Rating": 861,
+  "Ranking_Rating": 863,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 146,
@@ -353,7 +353,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24576,
+  "EOS_Progressed": 24578,
   "EOS_Completed": 118,
   "EOS_NewPlayers": 473,
   "EOS_NewCompleters": 1,
@@ -21863,6 +21863,11 @@
       "Time": "2024-01-02T15:07:03.6758969+00:00",
       "NumProgressed": 24576,
       "NumCompleted": 118
+    },
+    {
+      "Time": "2024-01-02T16:05:46.7190194+00:00",
+      "NumProgressed": 24578,
+      "NumCompleted": 118
     }
   ],
   "TotalAchievements": 16,
@@ -21874,7 +21879,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 24,
       "XP": 90,
-      "UsersEstimate": 5898
+      "UsersEstimate": 5899
     },
     {
       "ID": "Burning_For_You",
@@ -21906,7 +21911,7 @@
       "Name": "Eyes On Fire",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 2703
+      "UsersEstimate": 2704
     },
     {
       "ID": "Feel_The_Thunder",
@@ -21970,7 +21975,7 @@
       "Name": "Shooting Shark",
       "Percentage": 47,
       "XP": 90,
-      "UsersEstimate": 11551
+      "UsersEstimate": 11552
     },
     {
       "ID": "Sole_Survivor",
@@ -22001,15 +22006,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 24576,
+      "Progressed": 24578,
       "Completed": 118
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-12-26T13:00:27.7460321+00:00",
-  "LastChanged_Achievements": "2024-01-02T15:07:03.6758966+00:00",
+  "LastChanged_Achievements": "2024-01-02T16:05:46.7190188+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:56.3485527+00:00",
-  "LastUpdate_Ratings": "2024-01-02T14:58:06.7237274+00:00",
-  "LastUpdate_Achievements": "2024-01-02T15:07:03.6760058+00:00"
+  "LastUpdate_Ratings": "2024-01-02T15:57:33.8290025+00:00",
+  "LastUpdate_Achievements": "2024-01-02T16:05:46.7191446+00:00"
 }

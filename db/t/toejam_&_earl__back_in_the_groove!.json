@@ -2,13 +2,13 @@
   "ID": "bd1047eb76fd4fd490fcb8f668e5deda",
   "Name": "ToeJam \u0026 Earl: Back in the Groove!",
   "ProductSlug": "toejam-and-earl-back-in-the-groove-cddc16",
-  "Ranking_Rating": 845,
+  "Ranking_Rating": 847,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 367,
   "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58591,
+  "EOS_Progressed": 58594,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15241,6 +15241,11 @@
       "Time": "2024-01-02T12:05:52.3598882+00:00",
       "NumProgressed": 58591,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-02T16:06:09.0877208+00:00",
+      "NumProgressed": 58594,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -15316,7 +15321,7 @@
       "Name": "Fall Fest",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 4687
+      "UsersEstimate": 4688
     },
     {
       "ID": "FlyingPresent",
@@ -15324,7 +15329,7 @@
       "Name": "Flying Present Catcher",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3515
+      "UsersEstimate": 3516
     },
     {
       "ID": "FlyingPresentMaster",
@@ -15396,7 +15401,7 @@
       "Name": "HFZ Goober",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3515
+      "UsersEstimate": 3516
     },
     {
       "ID": "HarshLove",
@@ -15588,7 +15593,7 @@
       "Name": "Thrill Seeker",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 4101
+      "UsersEstimate": 4102
     },
     {
       "ID": "TimelySplash",
@@ -15643,7 +15648,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58591,
+      "Progressed": 58594,
       "Completed": 6
     }
   ],
@@ -15651,8 +15656,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2024-01-02T15:07:34.527026+00:00",
+  "LastChanged_Achievements": "2024-01-02T16:06:09.0877202+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:00.2032486+00:00",
-  "LastUpdate_Ratings": "2024-01-02T15:00:20.3183552+00:00",
-  "LastUpdate_Achievements": "2024-01-02T15:07:34.5271291+00:00"
+  "LastUpdate_Ratings": "2024-01-02T15:59:02.5299582+00:00",
+  "LastUpdate_Achievements": "2024-01-02T16:06:09.0878645+00:00"
 }

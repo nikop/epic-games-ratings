@@ -2,13 +2,13 @@
   "ID": "de3677b7bac547128656ac18c5b2f298",
   "Name": "Lost Eidolons",
   "ProductSlug": "lost-eidolons",
-  "Ranking_Rating": 831,
+  "Ranking_Rating": 833,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 311,
   "Ranking_EOS_NewPlayers": 3795,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -191,7 +191,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1129,
+  "EOS_Progressed": 1128,
   "EOS_Completed": 1,
   "EOS_NewPlayers": -8,
   "EOS_NewCompleters": 0,
@@ -2291,6 +2291,11 @@
       "Time": "2024-01-02T15:07:49.5650299+00:00",
       "NumProgressed": 1129,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-02T16:06:19.7309961+00:00",
+      "NumProgressed": 1128,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -2334,15 +2339,15 @@
       "Name": "The First Step",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 813
+      "UsersEstimate": 812
     },
     {
       "ID": "06",
       "SetID": "73ikgfc",
       "Name": "First Blood",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 768
+      "UsersEstimate": 778
     },
     {
       "ID": "07",
@@ -2350,7 +2355,7 @@
       "Name": "Monster Hunter",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 621
+      "UsersEstimate": 620
     },
     {
       "ID": "08",
@@ -2374,7 +2379,7 @@
       "Name": "Huntmaster",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 260
+      "UsersEstimate": 259
     },
     {
       "ID": "11",
@@ -2430,7 +2435,7 @@
       "Name": "Ready to Learn",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 734
+      "UsersEstimate": 733
     },
     {
       "ID": "18",
@@ -2478,14 +2483,14 @@
       "Name": "Complete the sidequest \u0027Malice and Greed\u0027",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 215
+      "UsersEstimate": 214
     }
   ],
   "AchievementSets": [
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1129,
+      "Progressed": 1128,
       "Completed": 1
     }
   ],
@@ -2493,8 +2498,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-12-04T18:59:06.5793648+00:00",
-  "LastChanged_Achievements": "2024-01-02T15:07:49.5650297+00:00",
+  "LastChanged_Achievements": "2024-01-02T16:06:19.7309956+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:47.6931487+00:00",
-  "LastUpdate_Ratings": "2024-01-02T15:03:16.3033926+00:00",
-  "LastUpdate_Achievements": "2024-01-02T15:07:49.5650516+00:00"
+  "LastUpdate_Ratings": "2024-01-02T16:02:51.6648647+00:00",
+  "LastUpdate_Achievements": "2024-01-02T16:06:19.7310211+00:00"
 }

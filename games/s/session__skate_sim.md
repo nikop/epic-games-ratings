@@ -6,8 +6,8 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 62.00% | ~2,169 |
-| Keeping it classy | 27.00% | ~944 |
+| You're free now! | 62.00% | ~2,170 |
+| Keeping it classy | 27.00% | ~945 |
 | Welcome to the family | 21.00% | ~735 |
 | The finer things in life | 19.00% | ~665 |
 | Backpacker | 13.00% | ~455 |
@@ -49,13 +49,13 @@ Number of Ratings: 111  (23.09.2022)
 | That was wheelie fun | 2.00% | ~70 |
 | Dipped! | 1.00% | ~35 |
 | Skatepark hero | 1.00% | ~35 |
-| Bing Bong! | 0.10% | ~3 |
-| Golden! | 0.10% | ~3 |
-| Loves You Back | 0.10% | ~3 |
-| That's how it's done! | 0.10% | ~3 |
-| Ultimate skate nerd | 0.10% | ~3 |
+| Bing Bong! | 0.10% | ~4 |
+| Golden! | 0.10% | ~4 |
+| Loves You Back | 0.10% | ~4 |
+| That's how it's done! | 0.10% | ~4 |
+| Ultimate skate nerd | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,498 (Ranked 220)  
+Progressed: 3,500 (Ranked 220)  
 Completed: 2 (0.06%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 2 (0.06%) (Ranked 327)
 | 2023-12-30 | 3,465 | 2 |
 | 2023-12-31 | 3,477 | 2 |
 | 2024-01-01 | 3,487 | 2 |
-| 2024-01-02 | 3,498 | 2 |
+| 2024-01-02 | 3,500 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 62  (Ranked 423)  
 Sum: 578 (Ranked 325)  

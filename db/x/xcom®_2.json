@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 570,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-04-14T15:00:00+00:00",
     "PcReleaseDate": "2016-02-04T08:00:00+00:00",
@@ -9763,10 +9763,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 11556,
       "NumberOfAwardsMax": 1419
+    },
+    {
+      "Time": "2024-01-02T16:02:25.7801364+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 11559,
+      "NumberOfAwardsMax": 1419
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11556,
+  "NumberOfAwards": 11559,
   "NumberOfAwardsMax": 1419,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -9810,13 +9816,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1378
+      "Count": 1380
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1250
+      "Count": 1251
     },
     {
       "Text": "This game has a Creative Community",
@@ -9842,8 +9848,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:40.7075482+00:00",
-  "LastChanged": "2024-01-02T14:02:23.304995+00:00",
+  "LastChanged": "2024-01-02T16:02:25.7801362+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:45.92228+00:00",
-  "LastUpdate_Ratings": "2024-01-02T15:02:46.9992088+00:00",
-  "LastUpdate_Achievements": "2024-01-02T15:08:19.0002641+00:00"
+  "LastUpdate_Ratings": "2024-01-02T16:02:25.7801373+00:00",
+  "LastUpdate_Achievements": "2024-01-02T16:06:41.1448432+00:00"
 }

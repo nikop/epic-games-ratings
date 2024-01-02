@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -699,9 +699,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6718,
+  "EOS_Progressed": 6723,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 471,
+  "EOS_NewPlayers": 472,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10114,6 +10114,11 @@
       "Time": "2024-01-02T15:08:35.145796+00:00",
       "NumProgressed": 6718,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-02T16:08:12.6146736+00:00",
+      "NumProgressed": 6723,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10237,7 +10242,7 @@
       "Name": "Realm Estate",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "23",
@@ -10245,7 +10250,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "24",
@@ -10253,7 +10258,7 @@
       "Name": "Secret Technique",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "25",
@@ -10261,7 +10266,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "26",
@@ -10269,7 +10274,7 @@
       "Name": "Bone Peddler",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "27",
@@ -10317,7 +10322,7 @@
       "Name": "Magical Synergy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "32",
@@ -10437,7 +10442,7 @@
       "Name": "Grexolis",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "6",
@@ -10445,7 +10450,7 @@
       "Name": "One for All, All for One",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "7",
@@ -10604,13 +10609,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6718,
+      "Progressed": 6723,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6718,
+      "Progressed": 6723,
       "Completed": 7
     }
   ],
@@ -10618,8 +10623,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-02T14:01:07.286994+00:00",
-  "LastChanged_Achievements": "2024-01-02T15:08:35.1457955+00:00",
+  "LastChanged_Achievements": "2024-01-02T16:08:12.6146731+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-02T15:01:04.1844758+00:00",
-  "LastUpdate_Achievements": "2024-01-02T15:08:35.145924+00:00"
+  "LastUpdate_Ratings": "2024-01-02T15:59:32.5430222+00:00",
+  "LastUpdate_Achievements": "2024-01-02T16:08:12.6147613+00:00"
 }

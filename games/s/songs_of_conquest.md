@@ -7,12 +7,12 @@ Number of Ratings: 292  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Adept | 46.00% | ~430 |
-| Double Kill | 39.00% | ~364 |
-| Critical Hit | 22.00% | ~205 |
-| Veteran | 22.00% | ~205 |
+| Double Kill | 39.00% | ~365 |
+| Veteran | 22.00% | ~206 |
+| Critical Hit | 21.00% | ~196 |
 | Dressed For Success | 15.00% | ~140 |
+| Veni, Vidi, Vici | 10.00% | ~94 |
 | Humiliation | 9.00% | ~84 |
-| Veni, Vidi, Vici | 9.00% | ~84 |
 | Multi Kill | 8.00% | ~75 |
 | Sorcerous Spree | 8.00% | ~75 |
 | Landlord Extraordinaire | 7.00% | ~65 |
@@ -25,12 +25,12 @@ Number of Ratings: 292  (23.09.2022)
 | Venisti, Vidisti, Perdidisti | 3.00% | ~28 |
 | This Spot's Taken | 2.00% | ~19 |
 | Infernal Influence | 2.00% | ~19 |
+| From the Ashes | 2.00% | ~19 |
 | Ultra Kill | 2.00% | ~19 |
 | Pyrrhic Victory | 2.00% | ~19 |
 | Versatile Wielder | 1.00% | ~9 |
 | Deepstrike | 1.00% | ~9 |
 | Together For Her | 1.00% | ~9 |
-| From the Ashes | 1.00% | ~9 |
 | Such A Fungi | 1.00% | ~9 |
 | Grand Master | 1.00% | ~9 |
 | In The Thick of It | 0.90% | ~8 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 934 (Ranked 292)  
+Progressed: 935 (Ranked 292)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-30 | 871 | 0 |
 | 2023-12-31 | 895 | 0 |
 | 2024-01-01 | 923 | 0 |
-| 2024-01-02 | 934 | 0 |
+| 2024-01-02 | 935 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 29  (Ranked 521)  
 Sum: 251 (Ranked 399)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9489,
+  "EOS_Progressed": 9495,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 569,
+  "EOS_NewPlayers": 571,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15759,6 +15759,11 @@
       "Time": "2024-01-02T15:06:45.2155432+00:00",
       "NumProgressed": 9489,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T16:05:33.2391937+00:00",
+      "NumProgressed": 9495,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -15770,7 +15775,7 @@
       "Name": "First Step",
       "Percentage": 34,
       "XP": 45,
-      "UsersEstimate": 3226
+      "UsersEstimate": 3228
     },
     {
       "ID": "10",
@@ -15786,7 +15791,7 @@
       "Name": "Telepathic",
       "Percentage": 8,
       "XP": 70,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "12",
@@ -15826,7 +15831,7 @@
       "Name": "Dense Forest",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 2562
+      "UsersEstimate": 2564
     },
     {
       "ID": "3",
@@ -15834,7 +15839,7 @@
       "Name": "Cactus Vally",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1898
+      "UsersEstimate": 1899
     },
     {
       "ID": "4",
@@ -15850,7 +15855,7 @@
       "Name": "Snowy Peak",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "6",
@@ -15858,7 +15863,7 @@
       "Name": "High Treetops",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "7",
@@ -15866,7 +15871,7 @@
       "Name": "Blue Rapids",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "8",
@@ -15882,14 +15887,14 @@
       "Name": "Speed\u00A0walkers",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     }
   ],
   "AchievementSets": [
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 9489,
+      "Progressed": 9495,
       "Completed": 0
     }
   ],
@@ -15897,8 +15902,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2024-01-02T15:06:45.2155428+00:00",
+  "LastChanged_Achievements": "2024-01-02T16:05:33.2391928+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:16.3269948+00:00",
-  "LastUpdate_Ratings": "2024-01-02T14:59:12.5245616+00:00",
-  "LastUpdate_Achievements": "2024-01-02T15:06:45.2156142+00:00"
+  "LastUpdate_Ratings": "2024-01-02T15:58:17.6827327+00:00",
+  "LastUpdate_Achievements": "2024-01-02T16:05:33.2392731+00:00"
 }

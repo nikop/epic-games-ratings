@@ -31,8 +31,8 @@
 | Champion – starter pack | 53.00% | ~276 |
 | It's good to be alive | 53.00% | ~276 |
 | Intriguing candies | 53.00% | ~276 |
+| Employee of the year | 53.00% | ~276 |
 | Own four walls | 52.00% | ~270 |
-| Employee of the year | 52.00% | ~270 |
 | Legal courier | 49.00% | ~255 |
 | Extreme neuropower! | 48.00% | ~250 |
 | Escaped from a big trouble | 46.00% | ~239 |
@@ -67,9 +67,9 @@
 | The heart of the Resistance | 28.00% | ~146 |
 | Your own way | 28.00% | ~146 |
 | The last bell ring | 27.00% | ~140 |
+| The only right decision | 26.00% | ~135 |
 | Silver’s past | 25.00% | ~130 |
 | Better cooking at home | 25.00% | ~130 |
-| The only right decision | 25.00% | ~130 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 520 (Ranked 340)  
 Completed: 9 (1.73%) (Ranked 142)  

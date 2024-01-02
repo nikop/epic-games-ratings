@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 3,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 570,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2020-05-14T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -10781,10 +10781,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 1992441,
       "NumberOfAwardsMax": 293044
+    },
+    {
+      "Time": "2024-01-02T15:59:50.3762751+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1994237,
+      "NumberOfAwardsMax": 293044
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1992441,
+  "NumberOfAwards": 1994237,
   "NumberOfAwardsMax": 293044,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -10792,13 +10798,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 252655
+      "Count": 253305
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 235866
+      "Count": 236444
     },
     {
       "Text": "This game has Diverse Characters",
@@ -10828,7 +10834,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 243449
+      "Count": 244017
     },
     {
       "Text": "This game has Amazing Characters",
@@ -10860,8 +10866,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:49.586898+00:00",
-  "LastChanged": "2024-01-02T15:01:30.5293721+00:00",
+  "LastChanged": "2024-01-02T15:59:50.3762749+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:18.9997787+00:00",
-  "LastUpdate_Ratings": "2024-01-02T15:01:30.529373+00:00",
-  "LastUpdate_Achievements": "2024-01-02T15:07:43.8669187+00:00"
+  "LastUpdate_Ratings": "2024-01-02T15:59:50.3762756+00:00",
+  "LastUpdate_Achievements": "2024-01-02T16:06:15.4829091+00:00"
 }

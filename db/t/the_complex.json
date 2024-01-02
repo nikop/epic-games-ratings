@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 775,
+  "EOS_Progressed": 776,
   "EOS_Completed": 22,
   "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 1,
@@ -1595,6 +1595,11 @@
       "Time": "2024-01-02T15:10:22.1988213+00:00",
       "NumProgressed": 775,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-01-02T16:09:30.4809767+00:00",
+      "NumProgressed": 776,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 20,
@@ -1604,9 +1609,9 @@
       "ID": "beat_it",
       "SetID": "d4f4pll",
       "Name": "Beat It",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 380
+      "UsersEstimate": 372
     },
     {
       "ID": "blast_from_the_past",
@@ -1614,7 +1619,7 @@
       "Name": "Blast From The Past",
       "Percentage": 83,
       "XP": 25,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "deadly_secret",
@@ -1710,7 +1715,7 @@
       "Name": "Kamikaze",
       "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "kindar_surprise",
@@ -1742,7 +1747,7 @@
       "Name": "Storage Hunter",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "the_rebel_and_the_doctor",
@@ -1750,7 +1755,7 @@
       "Name": "The Rebel And The Doctor",
       "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "tough_decision",
@@ -1758,14 +1763,14 @@
       "Name": "Tough Decision",
       "Percentage": 92,
       "XP": 50,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 775,
+      "Progressed": 776,
       "Completed": 22
     }
   ],
@@ -1773,8 +1778,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2024-01-02T15:10:22.1988209+00:00",
+  "LastChanged_Achievements": "2024-01-02T16:09:30.4809762+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:19.0245137+00:00",
-  "LastUpdate_Ratings": "2024-01-02T15:00:45.7593776+00:00",
-  "LastUpdate_Achievements": "2024-01-02T15:10:22.1988392+00:00"
+  "LastUpdate_Ratings": "2024-01-02T15:59:20.7307889+00:00",
+  "LastUpdate_Achievements": "2024-01-02T16:09:30.480994+00:00"
 }

@@ -23,6 +23,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 0.70% | ~113 |
 | Pioneer | 0.70% | ~113 |
 | Oracle | 0.70% | ~113 |
+| Judaism | 0.70% | ~113 |
 | Greek Paganism | 0.70% | ~113 |
 | Trade Caravan | 0.70% | ~113 |
 | Ambitious | 0.60% | ~97 |
@@ -34,7 +35,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Cities | 0.60% | ~97 |
 | Pyramids | 0.60% | ~97 |
 | Learn to Play 1 | 0.60% | ~97 |
-| Judaism | 0.60% | ~97 |
 | Babylonian Paganism | 0.60% | ~97 |
 | Naming Landmarks | 0.60% | ~97 |
 | Regicide | 0.50% | ~80 |

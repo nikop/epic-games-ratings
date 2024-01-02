@@ -12,7 +12,7 @@
 | Path of Corruption | 34.00% | ~57 |
 | Rage | 30.00% | ~50 |
 | Hope | 29.00% | ~49 |
-| Path of Pain | 21.00% | ~35 |
+| Path of Pain | 22.00% | ~37 |
 | Mayhem | 17.00% | ~29 |
 | Reflections | 17.00% | ~29 |
 | The shining | 17.00% | ~29 |

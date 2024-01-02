@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -3578,9 +3578,9 @@
       "ID": "BURN_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Burnt Smell",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 324
+      "UsersEstimate": 337
     },
     {
       "ID": "BURN_ACHIEVEMENT_2",
@@ -3993,8 +3993,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-02T15:11:03.2416833+00:00",
+  "LastChanged_Achievements": "2024-01-02T16:10:01.9996532+00:00",
   "LastUpdate_AppInfo": "2023-12-29T02:57:14.6537743+00:00",
-  "LastUpdate_Ratings": "2024-01-02T15:00:39.300456+00:00",
-  "LastUpdate_Achievements": "2024-01-02T15:11:03.2417683+00:00"
+  "LastUpdate_Ratings": "2024-01-02T15:59:15.8238236+00:00",
+  "LastUpdate_Achievements": "2024-01-02T16:10:01.9997297+00:00"
 }

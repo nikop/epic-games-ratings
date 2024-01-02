@@ -1,46 +1,46 @@
 # Cities: Skylines
 [Store](https://store.epicgames.com/en-US/p/cities-skylines)  
 [View Rawdata](../../db/c/cities__skylines.json)  
-Rating: 4.66 (Ranked 303)  
+Rating: 4.66 (Ranked 302)  
 Number of Ratings: 25,248  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~886,258 |
-| Green Energy | 59.00% | ~736,468 |
-| Foggy Weather | 58.00% | ~723,986 |
-| Singing In The- | 58.00% | ~723,986 |
-| Unpopular Mayor | 40.00% | ~499,300 |
-| Power at Your Fingertips | 33.00% | ~411,923 |
-| City Planner | 22.00% | ~274,615 |
-| Rolling in Dough | 20.00% | ~249,650 |
-| Does My Bum Look Big In This? | 17.00% | ~212,203 |
-| Climbing the Social Ladder | 16.00% | ~199,720 |
-| Safe City | 13.00% | ~162,273 |
-| Quay-King | 11.00% | ~137,308 |
-| With Canals You Can! | 10.00% | ~124,825 |
-| Lawmaker | 9.00% | ~112,343 |
-| Nomen Est Omen | 7.00% | ~87,378 |
-| Well Informed | 6.00% | ~74,895 |
-| Fire Watch | 5.00% | ~62,413 |
-| Greenest City | 4.00% | ~49,930 |
-| Heavenly City | 3.00% | ~37,448 |
-| Reporting! | 3.00% | ~37,448 |
-| SIMulated City | 3.00% | ~37,448 |
-| The Safest Town | 3.00% | ~37,448 |
-| Professional Dumper | 2.00% | ~24,965 |
+| Pioneer | 71.00% | ~886,311 |
+| Green Energy | 59.00% | ~736,512 |
+| Foggy Weather | 58.00% | ~724,028 |
+| Singing In The- | 58.00% | ~724,028 |
+| Unpopular Mayor | 40.00% | ~499,330 |
+| Power at Your Fingertips | 33.00% | ~411,947 |
+| City Planner | 22.00% | ~274,632 |
+| Rolling in Dough | 20.00% | ~249,665 |
+| Does My Bum Look Big In This? | 17.00% | ~212,215 |
+| Climbing the Social Ladder | 16.00% | ~199,732 |
+| Safe City | 13.00% | ~162,282 |
+| Quay-King | 11.00% | ~137,316 |
+| With Canals You Can! | 10.00% | ~124,832 |
+| Lawmaker | 9.00% | ~112,349 |
+| Nomen Est Omen | 7.00% | ~87,383 |
+| Well Informed | 6.00% | ~74,900 |
+| Fire Watch | 5.00% | ~62,416 |
+| Greenest City | 4.00% | ~49,933 |
+| Heavenly City | 3.00% | ~37,450 |
+| Reporting! | 3.00% | ~37,450 |
+| SIMulated City | 3.00% | ~37,450 |
+| The Safest Town | 3.00% | ~37,450 |
+| Professional Dumper | 2.00% | ~24,966 |
 | City in Motion | 1.00% | ~12,483 |
 | Earthloving City | 1.00% | ~12,483 |
 | Metropolis | 1.00% | ~12,483 |
-| Higher Education | 0.80% | ~9,986 |
+| Higher Education | 0.80% | ~9,987 |
 | Beam Me Up | 0.70% | ~8,738 |
 | Terraformer | 0.60% | ~7,490 |
-| Decorator | 0.50% | ~6,241 |
-| Full Capacity | 0.50% | ~6,241 |
-| It's heading right for us! | 0.50% | ~6,241 |
-| Shake It Up! | 0.50% | ~6,241 |
-| The Waters of Our Lives | 0.50% | ~6,241 |
-| Twist and shout | 0.50% | ~6,241 |
+| Decorator | 0.50% | ~6,242 |
+| Full Capacity | 0.50% | ~6,242 |
+| It's heading right for us! | 0.50% | ~6,242 |
+| Shake It Up! | 0.50% | ~6,242 |
+| The Waters of Our Lives | 0.50% | ~6,242 |
+| Twist and shout | 0.50% | ~6,242 |
 | Airfield Expertise | 0.40% | ~4,993 |
 | Drop the Base | 0.40% | ~4,993 |
 | Get Your Snowshoes Ready! | 0.40% | ~4,993 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~1,248 |
 | Z00 | 0.10% | ~1,248 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,248,251 (Ranked 12)  
+Progressed: 1,248,325 (Ranked 12)  
 Completed: 11 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -383,16 +383,16 @@ Completed: 11 (0.00%) (Ranked 390)
 | 2023-12-30 | 1,244,385 | 11 |
 | 2023-12-31 | 1,245,945 | 11 |
 | 2024-01-01 | 1,247,444 | 11 |
-| 2024-01-02 | 1,248,251 | 11 |
+| 2024-01-02 | 1,248,325 | 11 |
 ## Awards
 Max (Great for Beginners): 6,604  (Ranked 60)  
-Sum: 48,687 (Ranked 32)  
+Sum: 48,693 (Ranked 32)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 6,604 |
 | This game is Relaxing | 6,427 |
-| This game is Educational | 6,117 |
+| This game is Educational | 6,123 |
 | This game has Quickly Understood Controls | 5,969 |
 | This game is Extremely Fun | 5,568 |
 | This game is Highly Recommended | 5,421 |
@@ -744,4 +744,4 @@ Diff (max vs sum): 28
 | 2023-12-30 | 4.66 | - | 6,577 | 48,568 |
 | 2023-12-31 | 4.66 | - | 6,590 | 48,629 |
 | 2024-01-01 | 4.66 | - | 6,604 | 48,671 |
-| 2024-01-02 | 4.66 | - | 6,604 | 48,687 |
+| 2024-01-02 | 4.66 | - | 6,604 | 48,693 |

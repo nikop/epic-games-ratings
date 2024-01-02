@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
     "PcReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -257,9 +257,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44750,
+  "EOS_Progressed": 44751,
   "EOS_Completed": 247,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -20157,6 +20157,11 @@
       "Time": "2024-01-02T14:06:18.2030946+00:00",
       "NumProgressed": 44750,
       "NumCompleted": 247
+    },
+    {
+      "Time": "2024-01-02T16:04:59.6824798+00:00",
+      "NumProgressed": 44751,
+      "NumCompleted": 247
     }
   ],
   "TotalAchievements": 44,
@@ -20168,7 +20173,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25507
+      "UsersEstimate": 25508
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -20176,7 +20181,7 @@
       "Name": "Lady",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13872
+      "UsersEstimate": 13873
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -20272,7 +20277,7 @@
       "Name": "The Lion\u2019s Den",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1342
+      "UsersEstimate": 1343
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -20288,7 +20293,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 35800
+      "UsersEstimate": 35801
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -20296,7 +20301,7 @@
       "Name": "Master Ninja",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 4922
+      "UsersEstimate": 4923
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -20344,7 +20349,7 @@
       "Name": "Soul Reaver",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 10292
+      "UsersEstimate": 10293
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -20408,7 +20413,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 28192
+      "UsersEstimate": 28193
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -20416,7 +20421,7 @@
       "Name": "Fashionable Assassin",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 12082
+      "UsersEstimate": 12083
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -20432,7 +20437,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 26850
+      "UsersEstimate": 26851
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -20440,7 +20445,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 29982
+      "UsersEstimate": 29983
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -20496,7 +20501,7 @@
       "Name": "Forest Spirits",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1342
+      "UsersEstimate": 1343
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -20512,14 +20517,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 23270
+      "UsersEstimate": 23271
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 44750,
+      "Progressed": 44751,
       "Completed": 247
     }
   ],
@@ -20527,8 +20532,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-25T15:03:11.7209746+00:00",
-  "LastChanged_Achievements": "2024-01-02T15:06:00.3920838+00:00",
+  "LastChanged_Achievements": "2024-01-02T16:04:59.6824792+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:30.3527303+00:00",
-  "LastUpdate_Ratings": "2024-01-02T15:03:43.6690142+00:00",
-  "LastUpdate_Achievements": "2024-01-02T15:06:00.3921755+00:00"
+  "LastUpdate_Ratings": "2024-01-02T16:03:12.2858835+00:00",
+  "LastUpdate_Achievements": "2024-01-02T16:04:59.6826037+00:00"
 }

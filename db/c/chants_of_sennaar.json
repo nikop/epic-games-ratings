@@ -2,12 +2,12 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_Rating": 17,
+  "Ranking_Rating": 30,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
-  "Ranking_EOS_Progress": 240,
+  "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 65,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.88,
+  "Rating": 4.86,
   "RatingHistory": [
     {
       "Time": "2023-12-16T17:01:08.7568687+00:00",
@@ -91,16 +91,22 @@
       "Rating": 4.88,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-02T16:02:46.9551574+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2219,
+  "EOS_Progressed": 2221,
   "EOS_Completed": 139,
-  "EOS_NewPlayers": 381,
-  "EOS_NewCompleters": 32,
+  "EOS_NewPlayers": 379,
+  "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 6.26,
   "EosHistory": [
     {
@@ -6102,6 +6108,11 @@
       "Time": "2024-01-02T15:04:28.0320247+00:00",
       "NumProgressed": 2219,
       "NumCompleted": 139
+    },
+    {
+      "Time": "2024-01-02T16:03:49.968125+00:00",
+      "NumProgressed": 2221,
+      "NumCompleted": 139
     }
   ],
   "TotalAchievements": 25,
@@ -6121,7 +6132,7 @@
       "Name": "In this together",
       "Percentage": 23,
       "XP": 200,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "META_ALL_LINK",
@@ -6145,7 +6156,7 @@
       "Name": "A good beginning",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "META_HALF_LINK",
@@ -6169,7 +6180,7 @@
       "Name": "Free at last",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "META_RESULT_1-4",
@@ -6185,7 +6196,7 @@
       "Name": "A great audience",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "META_RESULT_2-4",
@@ -6193,7 +6204,7 @@
       "Name": "For its own good",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "META_RESULT_3-4",
@@ -6233,7 +6244,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -6249,7 +6260,7 @@
       "Name": "Champollion",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -6257,15 +6268,15 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
       "SetID": "2gma9an",
       "Name": "Scholar",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 666
+      "UsersEstimate": 689
     },
     {
       "ID": "PROGRESS_N1",
@@ -6273,7 +6284,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1154
+      "UsersEstimate": 1155
     },
     {
       "ID": "PROGRESS_N2",
@@ -6281,7 +6292,7 @@
       "Name": "The great escape",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 954
+      "UsersEstimate": 955
     },
     {
       "ID": "PROGRESS_N3",
@@ -6289,7 +6300,7 @@
       "Name": "A new dawn",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 799
+      "UsersEstimate": 800
     },
     {
       "ID": "PROGRESS_N4",
@@ -6312,16 +6323,16 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2219,
+      "Progressed": 2221,
       "Completed": 139
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged": "2023-12-31T07:01:38.7723363+00:00",
-  "LastChanged_Achievements": "2024-01-02T15:04:28.0320244+00:00",
+  "LastChanged": "2024-01-02T16:02:46.9551572+00:00",
+  "LastChanged_Achievements": "2024-01-02T16:03:49.9681246+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:09.4320521+00:00",
-  "LastUpdate_Ratings": "2024-01-02T15:03:09.4817186+00:00",
-  "LastUpdate_Achievements": "2024-01-02T15:04:28.0320572+00:00"
+  "LastUpdate_Ratings": "2024-01-02T16:02:46.9551578+00:00",
+  "LastUpdate_Achievements": "2024-01-02T16:03:49.9681675+00:00"
 }

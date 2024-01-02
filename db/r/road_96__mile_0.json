@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 610,
+  "EOS_Progressed": 611,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 1,
@@ -2197,6 +2197,11 @@
       "Time": "2024-01-02T13:13:36.9930022+00:00",
       "NumProgressed": 610,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-02T16:09:52.0017634+00:00",
+      "NumProgressed": 611,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -2248,7 +2253,7 @@
       "Name": "Truthseeker",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "scoreminrankrb2",
@@ -2296,7 +2301,7 @@
       "Name": "Attack on Tyran",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "scoreminrankrp3",
@@ -2327,7 +2332,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 610,
+      "Progressed": 611,
       "Completed": 3
     }
   ],
@@ -2335,8 +2340,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-02T15:10:50.8579186+00:00",
+  "LastChanged_Achievements": "2024-01-02T16:09:52.0017626+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:00.0371084+00:00",
-  "LastUpdate_Ratings": "2024-01-02T15:00:20.0783473+00:00",
-  "LastUpdate_Achievements": "2024-01-02T15:10:50.8579363+00:00"
+  "LastUpdate_Ratings": "2024-01-02T15:59:02.2952936+00:00",
+  "LastUpdate_Achievements": "2024-01-02T16:09:52.001786+00:00"
 }

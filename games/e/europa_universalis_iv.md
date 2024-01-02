@@ -8,8 +8,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | ---- | ---------- | ----- |
 | That's a Grand Army | 0.50% | ~2,452 |
 | Until death do us apart | 0.50% | ~2,452 |
-| That is mine! | 0.40% | ~1,961 |
-| Victorious! | 0.40% | ~1,961 |
+| That is mine! | 0.40% | ~1,962 |
+| Victorious! | 0.40% | ~1,962 |
 | Brothers in Arms | 0.30% | ~1,471 |
 | That's a Grand Navy | 0.30% | ~1,471 |
 | Seriously?! | 0.30% | ~1,471 |
@@ -288,6 +288,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | This navy can take it all | 0.10% | ~490 |
 | This Revolution Was Crushed | 0.10% | ~490 |
 | Three Trivial Tributary Tribes | 0.10% | ~490 |
+| Tiger of Mysore | 0.10% | ~490 |
 | Time Bandit | 0.10% | ~490 |
 | Total Control | 0.10% | ~490 |
 | Trade Hegemon | 0.10% | ~490 |
@@ -361,7 +362,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Freest Man in the World | 0.00% | ~0 |
 | The Third Way | 0.00% | ~0 |
 | The Three Mountains | 0.00% | ~0 |
-| Tiger of Mysore | 0.00% | ~0 |
 | To the Bone | 0.00% | ~0 |
 | Turkish Delight | 0.00% | ~0 |
 | Ultimate Military | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 490,349 (Ranked 42)  
+Progressed: 490,383 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -627,16 +627,16 @@ Completed: 1 (0.00%) (Ranked 390)
 | 2023-12-30 | 488,255 | 1 |
 | 2023-12-31 | 489,119 | 1 |
 | 2024-01-01 | 489,961 | 1 |
-| 2024-01-02 | 490,349 | 1 |
+| 2024-01-02 | 490,383 | 1 |
 ## Awards
 Max (Educational): 7,680  (Ranked 54)  
-Sum: 63,286 (Ranked 24)  
+Sum: 63,302 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 7,680 |
 | This game has Diverse Characters | 7,513 |
-| This game is Highly Recommended | 7,360 |
+| This game is Highly Recommended | 7,376 |
 | This game has Challenging Combat | 7,299 |
 | This game is Extremely Fun | 7,198 |
 | This game is Relaxing | 7,041 |
@@ -997,4 +997,4 @@ Diff (max vs sum): 30
 | 2023-12-30 | 4.69 | - | 7,620 | 62,893 |
 | 2023-12-31 | 4.69 | - | 7,645 | 63,014 |
 | 2024-01-01 | 4.69 | - | 7,659 | 63,158 |
-| 2024-01-02 | 4.69 | - | 7,680 | 63,286 |
+| 2024-01-02 | 4.69 | - | 7,680 | 63,302 |

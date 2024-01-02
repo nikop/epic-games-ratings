@@ -4,8 +4,8 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 293,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 648,
+  "EOS_Progressed": 649,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1739,6 +1739,11 @@
       "Time": "2024-01-02T06:10:01.00741+00:00",
       "NumProgressed": 648,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-02T16:09:58.0172501+00:00",
+      "NumProgressed": 649,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1764,9 +1769,9 @@
       "ID": "ArtifactsCollector",
       "SetID": "82505mn",
       "Name": "Artifact Collector",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 123
+      "UsersEstimate": 117
     },
     {
       "ID": "Assassin",
@@ -1870,15 +1875,15 @@
       "Name": "Inquisitor",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "Librarian",
       "SetID": "82505mn",
       "Name": "Librarian",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 84
+      "UsersEstimate": 78
     },
     {
       "ID": "Lumberjack",
@@ -2069,7 +2074,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 648,
+      "Progressed": 649,
       "Completed": 1
     }
   ],
@@ -2077,8 +2082,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2024-01-02T15:10:58.5638088+00:00",
+  "LastChanged_Achievements": "2024-01-02T16:09:58.0172496+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:03.2604081+00:00",
-  "LastUpdate_Ratings": "2024-01-02T14:57:39.3088089+00:00",
-  "LastUpdate_Achievements": "2024-01-02T15:10:58.5638475+00:00"
+  "LastUpdate_Ratings": "2024-01-02T15:57:14.8950874+00:00",
+  "LastUpdate_Achievements": "2024-01-02T16:09:58.017291+00:00"
 }

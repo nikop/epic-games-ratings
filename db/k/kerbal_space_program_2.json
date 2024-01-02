@@ -2,13 +2,13 @@
   "ID": "038295c445bb40d1b06545fd75741af1",
   "Name": "Kerbal Space Program 2",
   "ProductSlug": "kerbal-space-program-2",
-  "Ranking_Rating": 944,
+  "Ranking_Rating": 946,
   "Ranking_Popularity": 477,
   "Ranking_PopularitySum": 376,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 570,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-02-24T14:00:00+00:00",
     "PcReleaseDate": "2023-02-24T14:00:00+00:00",
@@ -995,10 +995,16 @@
       "Rating": 4.21,
       "NumberOfAwards": 308,
       "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2024-01-02T16:03:28.9946233+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 309,
+      "NumberOfAwardsMax": 40
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 308,
+  "NumberOfAwards": 309,
   "NumberOfAwardsMax": 40,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -1054,7 +1060,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game has a Creative Community",
@@ -1075,8 +1081,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-24T16:58:34.691796+00:00",
   "FirstSeenRating": "2023-02-27T02:15:09.7091148+00:00",
-  "LastChanged": "2024-01-02T11:03:19.202673+00:00",
+  "LastChanged": "2024-01-02T16:03:28.9946231+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:57:02.5659121+00:00",
-  "LastUpdate_Ratings": "2024-01-02T15:04:01.4022185+00:00",
-  "LastUpdate_Achievements": "2024-01-02T15:05:14.3463683+00:00"
+  "LastUpdate_Ratings": "2024-01-02T16:03:28.9946236+00:00",
+  "LastUpdate_Achievements": "2024-01-02T16:04:25.3323604+00:00"
 }

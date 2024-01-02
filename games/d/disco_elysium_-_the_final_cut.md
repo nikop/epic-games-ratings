@@ -1,23 +1,23 @@
 # Disco Elysium - The Final Cut
 [Store](https://store.epicgames.com/en-US/p/disco-elysium)  
 [View Rawdata](../../db/d/disco_elysium_-_the_final_cut.json)  
-Rating: 4.87 (Ranked 24)  
+Rating: 4.87 (Ranked 23)  
 Number of Ratings: 1,611  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~38,358 |
-| Biggest Communism Builder | 23.00% | ~31,509 |
-| The World's Most Laughable Centrist | 20.00% | ~27,399 |
-| Il Coppo Del'Arte! | 18.00% | ~24,659 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,919 |
-| Hyperstellar Law Official | 15.00% | ~20,549 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~19,179 |
-| Gurdi-Ball Is Lit | 14.00% | ~19,179 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~17,809 |
-| Truly Rabid *Traditionalist* | 11.00% | ~15,069 |
-| Unbelievably Boring **** | 9.00% | ~12,329 |
-| The Figurines Won't Win Her Back | 9.00% | ~12,329 |
+| Goodest Of The Good Cops | 28.00% | ~38,361 |
+| Biggest Communism Builder | 23.00% | ~31,511 |
+| The World's Most Laughable Centrist | 20.00% | ~27,401 |
+| Il Coppo Del'Arte! | 18.00% | ~24,661 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~21,921 |
+| Hyperstellar Law Official | 15.00% | ~20,551 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~19,181 |
+| Gurdi-Ball Is Lit | 14.00% | ~19,181 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~17,811 |
+| Truly Rabid *Traditionalist* | 11.00% | ~15,071 |
+| Unbelievably Boring **** | 9.00% | ~12,330 |
+| The Figurines Won't Win Her Back | 9.00% | ~12,330 |
 | Enemy Of The Physical Realm | 8.00% | ~10,960 |
 | Hardie's Heroes | 6.00% | ~8,220 |
 | The Lawbringer | 4.00% | ~5,480 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~137 |
 | What body? | 0.10% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,994 (Ranked 89)  
+Progressed: 137,005 (Ranked 89)  
 Completed: 28 (0.02%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 28 (0.02%) (Ranked 357)
 | 2023-12-30 | 136,405 | 28 |
 | 2023-12-31 | 136,630 | 28 |
 | 2024-01-01 | 136,889 | 28 |
-| 2024-01-02 | 136,994 | 28 |
+| 2024-01-02 | 137,005 | 28 |
 ## Awards
 Max (Character Customization): 757  (Ranked 188)  
 Sum: 1,156 (Ranked 259)  

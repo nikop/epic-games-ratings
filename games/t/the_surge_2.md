@@ -1,13 +1,13 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.27 (Ranked 895)  
+Rating: 4.27 (Ranked 897)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rigged And Ready | 79.00% | ~1,932 |
 | Don't I Know You...? | 75.00% | ~1,834 |
-| Jailbreak | 65.00% | ~1,589 |
+| Jailbreak | 65.00% | ~1,590 |
 | Suited and Booted | 38.00% | ~929 |
 | HEADSHOT! | 37.00% | ~905 |
 | Sleeping With The Fishes | 35.00% | ~856 |
@@ -15,10 +15,10 @@ Rating: 4.27 (Ranked 895)
 | High Performance | 30.00% | ~734 |
 | Powered Up | 28.00% | ~685 |
 | Studied The Blade | 24.00% | ~587 |
-| Home Invasion | 23.00% | ~562 |
+| Home Invasion | 23.00% | ~563 |
 | Luminary | 22.00% | ~538 |
 | It's a Trap | 22.00% | ~538 |
-| True Survivor | 21.00% | ~513 |
+| True Survivor | 21.00% | ~514 |
 | Offensive Defense | 20.00% | ~489 |
 | Shocking | 20.00% | ~489 |
 | Court Martial | 19.00% | ~465 |
@@ -32,11 +32,11 @@ Rating: 4.27 (Ranked 895)
 | Where It All Began | 13.00% | ~318 |
 | Risk Tolerant | 13.00% | ~318 |
 | What A Catchy Song | 13.00% | ~318 |
-| Corrupted Beauty | 12.00% | ~293 |
-| Marked For Success | 12.00% | ~293 |
-| Sorry, Didn't See You There | 12.00% | ~293 |
-| Stimulating The Local Economy | 10.00% | ~244 |
-| Triplets | 10.00% | ~244 |
+| Corrupted Beauty | 12.00% | ~294 |
+| Marked For Success | 12.00% | ~294 |
+| Sorry, Didn't See You There | 12.00% | ~294 |
+| Stimulating The Local Economy | 10.00% | ~245 |
+| Triplets | 10.00% | ~245 |
 | Denying Prophecy | 9.00% | ~220 |
 | A Little Banged Up | 8.00% | ~196 |
 | Following In Their Footsteps | 8.00% | ~196 |
@@ -63,7 +63,7 @@ Rating: 4.27 (Ranked 895)
 | Three Birds With One Stone | 1.00% | ~24 |
 | The Easy Way Out | 1.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,445 (Ranked 233)  
+Progressed: 2,446 (Ranked 233)  
 Completed: 13 (0.53%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 13 (0.53%) (Ranked 215)
 | 2023-12-30 | 2,418 | 13 |
 | 2023-12-31 | 2,428 | 13 |
 | 2024-01-01 | 2,442 | 13 |
-| 2024-01-02 | 2,445 | 13 |
+| 2024-01-02 | 2,446 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

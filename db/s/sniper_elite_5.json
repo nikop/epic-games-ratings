@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -655,9 +655,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 4187,
+  "EOS_Progressed": 4188,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -9290,6 +9290,11 @@
       "Time": "2024-01-02T13:13:03.9359737+00:00",
       "NumProgressed": 4187,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-02T16:09:18.4565286+00:00",
+      "NumProgressed": 4188,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9525,7 +9530,7 @@
       "Name": "Resourceful",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1172
+      "UsersEstimate": 1173
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -9549,7 +9554,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1549
+      "UsersEstimate": 1550
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -9629,7 +9634,7 @@
       "Name": "Locomotion Commotion",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "REWARD_5_BUNKER_BUSTER",
@@ -9693,7 +9698,7 @@
       "Name": "Target America",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1131
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -9868,13 +9873,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4138,
+      "Progressed": 4139,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4187,
+      "Progressed": 4188,
       "Completed": 11
     }
   ],
@@ -9882,8 +9887,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-31T17:57:21.8483577+00:00",
-  "LastChanged_Achievements": "2024-01-02T15:10:05.5857436+00:00",
+  "LastChanged_Achievements": "2024-01-02T16:09:18.4565282+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:41.6601563+00:00",
-  "LastUpdate_Ratings": "2024-01-02T14:59:01.6574172+00:00",
-  "LastUpdate_Achievements": "2024-01-02T15:10:05.5858536+00:00"
+  "LastUpdate_Ratings": "2024-01-02T15:58:11.2509383+00:00",
+  "LastUpdate_Achievements": "2024-01-02T16:09:18.4566253+00:00"
 }

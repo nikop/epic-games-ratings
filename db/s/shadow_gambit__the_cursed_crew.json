@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -5008,9 +5008,9 @@
       "ID": "_19_CrewTale_BSP",
       "SetID": "8a1io5d",
       "Name": "Persistent Parasite",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 239
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -5024,9 +5024,9 @@
       "ID": "_21_CrewTale_OVT",
       "SetID": "8a1io5d",
       "Name": "Tobacco Travesty",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 154
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -5081,8 +5081,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-27T21:58:17.6269244+00:00",
-  "LastChanged_Achievements": "2024-01-02T15:07:44.5959948+00:00",
+  "LastChanged_Achievements": "2024-01-02T16:06:16.0850845+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.1530944+00:00",
-  "LastUpdate_Ratings": "2024-01-02T15:03:02.0561529+00:00",
-  "LastUpdate_Achievements": "2024-01-02T15:07:44.5960532+00:00"
+  "LastUpdate_Ratings": "2024-01-02T16:02:39.837967+00:00",
+  "LastUpdate_Achievements": "2024-01-02T16:06:16.085129+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 233,
+  "EOS_Progressed": 234,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -944,6 +944,11 @@
       "Time": "2024-01-01T22:05:58.2862877+00:00",
       "NumProgressed": 233,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T16:03:44.3770114+00:00",
+      "NumProgressed": 234,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-01T14:06:40.4198033+00:00",
@@ -964,7 +969,7 @@
       "Name": "Aristocratic",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "Botropolis",
@@ -986,9 +991,9 @@
       "ID": "ConductedTrade",
       "SetID": "4bd750m",
       "Name": "Conducted Trade",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 152
     },
     {
       "ID": "DiggingAHole",
@@ -996,7 +1001,7 @@
       "Name": "Digging a Hole",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "DopaMiner",
@@ -1012,7 +1017,7 @@
       "Name": "Going Places",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "GottaGoFast",
@@ -1020,7 +1025,7 @@
       "Name": "Gotta Go Fast",
       "Percentage": 43,
       "XP": 90,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ImALumberbot",
@@ -1060,7 +1065,7 @@
       "Name": "Mathematic",
       "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "MineSweeper",
@@ -1106,9 +1111,9 @@
       "ID": "SlottingMachine",
       "SetID": "4bd750m",
       "Name": "Slotting Machine",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 103
     },
     {
       "ID": "StackOverflow",
@@ -1140,7 +1145,7 @@
       "Name": "Systematic",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "TuttiFrutti",
@@ -1148,7 +1153,7 @@
       "Name": "Tutti Frutti",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "UpUpAndAway",
@@ -1156,7 +1161,7 @@
       "Name": "Up, Up And Away!",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "Whoa",
@@ -1164,7 +1169,7 @@
       "Name": "Whoa!",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "Yup",
@@ -1179,14 +1184,14 @@
     {
       "ID": "4bd750m",
       "IsBase": true,
-      "Progressed": 233,
+      "Progressed": 234,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2024-01-02T15:04:20.5774972+00:00",
+  "LastChanged_Achievements": "2024-01-02T16:03:44.3770109+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.9245287+00:00",
-  "LastUpdate_Ratings": "2024-01-02T15:03:49.4640434+00:00",
-  "LastUpdate_Achievements": "2024-01-02T15:04:20.577515+00:00"
+  "LastUpdate_Ratings": "2024-01-02T16:03:18.5236052+00:00",
+  "LastUpdate_Achievements": "2024-01-02T16:03:44.377033+00:00"
 }

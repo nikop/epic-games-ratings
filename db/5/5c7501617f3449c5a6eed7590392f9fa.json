@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
     "PcReleaseDate": "2012-04-19T11:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 192,
+  "EOS_Progressed": 193,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -819,6 +819,11 @@
       "Time": "2024-01-02T13:12:41.2997678+00:00",
       "NumProgressed": 192,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-02T16:08:56.2055392+00:00",
+      "NumProgressed": 193,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.6097562+00:00",
@@ -829,9 +834,9 @@
       "ID": "Ach-01-balonek",
       "SetID": "2pjo9pi",
       "Name": "Balonek",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 89
     },
     {
       "ID": "Ach-01-brambora",
@@ -847,15 +852,15 @@
       "Name": "Bzukavec",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "Ach-01-jepice",
       "SetID": "2pjo9pi",
       "Name": "Jepice",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 91
     },
     {
       "ID": "Ach-01-soukac",
@@ -863,15 +868,15 @@
       "Name": "Soukac",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "Ach-01-ulita",
       "SetID": "2pjo9pi",
       "Name": "Ulita",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 48
     },
     {
       "ID": "Ach-02-brouk",
@@ -887,7 +892,7 @@
       "Name": "Dzin",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "Ach-02-hopik",
@@ -911,7 +916,7 @@
       "Name": "Orchestrion",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "Ach-02-parazit",
@@ -925,9 +930,9 @@
       "ID": "Ach-02-strasilka",
       "SetID": "2pjo9pi",
       "Name": "Strasilka",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 108
+      "UsersEstimate": 106
     },
     {
       "ID": "Ach-02-tykvovec",
@@ -941,9 +946,9 @@
       "ID": "Ach-02-zlo",
       "SetID": "2pjo9pi",
       "Name": "Zlo A",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 79
     },
     {
       "ID": "Ach-03-jepice",
@@ -967,7 +972,7 @@
       "Name": "Skakavec",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Ach-03-svolavac",
@@ -999,7 +1004,7 @@
       "Name": "Cap",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Ach-04-krabicka",
@@ -1039,7 +1044,7 @@
       "Name": "Skritci",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Ach-04-snek",
@@ -1071,7 +1076,7 @@
       "Name": "Zarovka",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Ach-04-zloB",
@@ -1101,9 +1106,9 @@
       "ID": "Ach-05-hlavouni",
       "SetID": "2pjo9pi",
       "Name": "Hlavouni",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "Ach-05-hrouda",
@@ -1149,9 +1154,9 @@
       "ID": "Ach-05-loutky",
       "SetID": "2pjo9pi",
       "Name": "Loutky",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 23
     },
     {
       "ID": "Ach-05-nosatec",
@@ -1191,7 +1196,7 @@
       "Name": "Zlo C",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Ach-level-1",
@@ -1205,9 +1210,9 @@
       "ID": "Ach-level-2",
       "SetID": "2pjo9pi",
       "Name": "Level 2",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 79
     },
     {
       "ID": "Ach-level-3",
@@ -1215,15 +1220,15 @@
       "Name": "Level 3",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Ach-level-4",
       "SetID": "2pjo9pi",
       "Name": "Level 4",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "Ach-level-5",
@@ -1231,7 +1236,7 @@
       "Name": "Level 5",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Ach-level-6",
@@ -1254,14 +1259,14 @@
     {
       "ID": "2pjo9pi",
       "IsBase": true,
-      "Progressed": 192,
+      "Progressed": 193,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2024-01-02T15:09:35.2432653+00:00",
+  "LastChanged_Achievements": "2024-01-02T16:08:56.2055387+00:00",
   "LastUpdate_AppInfo": "2023-12-27T20:57:05.6352108+00:00",
-  "LastUpdate_Ratings": "2024-01-02T15:02:37.5436411+00:00",
-  "LastUpdate_Achievements": "2024-01-02T15:09:35.2433258+00:00"
+  "LastUpdate_Ratings": "2024-01-02T16:00:25.6162375+00:00",
+  "LastUpdate_Achievements": "2024-01-02T16:08:56.2055788+00:00"
 }

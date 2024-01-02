@@ -1,7 +1,7 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.64 (Ranked 1,084)  
+Rating: 3.64 (Ranked 1,086)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -27,6 +27,7 @@ Rating: 3.64 (Ranked 1,084)
 | You Clean It Up | 3.00% | ~67 |
 | Helping Hand | 3.00% | ~67 |
 | I Spit On Your Grave | 3.00% | ~67 |
+| Revelations | 2.00% | ~44 |
 | Contingency Plans | 2.00% | ~44 |
 | Block Party | 2.00% | ~44 |
 | Sic Transit Umbra | 2.00% | ~44 |
@@ -36,7 +37,6 @@ Rating: 3.64 (Ranked 1,084)
 | From the Shadows | 2.00% | ~44 |
 | Starve the Beast | 2.00% | ~44 |
 | Harvest’s End | 2.00% | ~44 |
-| Revelations | 1.00% | ~22 |
 | Check, Please! | 1.00% | ~22 |
 | Right This Way | 1.00% | ~22 |
 | Nice Try | 1.00% | ~22 |
@@ -72,7 +72,7 @@ Rating: 3.64 (Ranked 1,084)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,220 (Ranked 239)  
+Progressed: 2,220 (Ranked 240)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |

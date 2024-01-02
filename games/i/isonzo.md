@@ -1,18 +1,18 @@
 # Isonzo
 [Store](https://store.epicgames.com/en-US/p/isonzo)  
 [View Rawdata](../../db/i/isonzo.json)  
-Rating: 4.58 (Ranked 467)  
+Rating: 4.58 (Ranked 468)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You Shall Not Pass | 51.00% | ~4,962 |
-| Tutti Eroi! | 50.00% | ~4,864 |
+| Tutti Eroi! | 50.00% | ~4,865 |
 | Peak Performance | 45.00% | ~4,378 |
 | Avanti Savoia! | 44.00% | ~4,281 |
-| Mamma Mia! | 35.00% | ~3,405 |
-| Conrad von Hotzensocks | 32.00% | ~3,113 |
-| Gabriele D'Annunzio | 32.00% | ~3,113 |
+| Mamma Mia! | 35.00% | ~3,406 |
+| Conrad von Hotzensocks | 32.00% | ~3,114 |
+| Gabriele D'Annunzio | 32.00% | ~3,114 |
 | Silver Lining | 27.00% | ~2,627 |
 | Aurelio Baruzzi | 20.00% | ~1,946 |
 | Decimation | 20.00% | ~1,946 |
@@ -24,9 +24,9 @@ Number of Ratings: 98  (23.09.2022)
 | Luigi Cadorna | 16.00% | ~1,557 |
 | The Lion of the Isonzo | 14.00% | ~1,362 |
 | Uomo Universale | 13.00% | ~1,265 |
-| Die Bosniaken Kommen! | 12.00% | ~1,167 |
-| Dirty Dozen | 12.00% | ~1,167 |
-| Shaken, Not Stirred | 12.00% | ~1,167 |
+| Die Bosniaken Kommen! | 12.00% | ~1,168 |
+| Dirty Dozen | 12.00% | ~1,168 |
+| Shaken, Not Stirred | 12.00% | ~1,168 |
 | Machiavelli | 11.00% | ~1,070 |
 | The Devil's Paintbrush | 10.00% | ~973 |
 | Thus With A Kiss | 10.00% | ~973 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~39 |
 | Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,729 (Ranked 181)  
+Progressed: 9,730 (Ranked 181)  
 Completed: 10 (0.10%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 10 (0.10%) (Ranked 304)
 | 2023-12-30 | 9,691 | 10 |
 | 2023-12-31 | 9,706 | 10 |
 | 2024-01-01 | 9,726 | 10 |
-| 2024-01-02 | 9,729 | 10 |
+| 2024-01-02 | 9,730 | 10 |
 ## Awards
 Max (Diverse Characters): 41  (Ranked 474)  
 Sum: 335 (Ranked 369)  

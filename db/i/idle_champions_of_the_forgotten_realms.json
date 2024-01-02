@@ -2,13 +2,13 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 1021,
+  "Ranking_Rating": 1023,
   "Ranking_Popularity": 71,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9215,10 +9215,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 33253,
       "NumberOfAwardsMax": 5730
+    },
+    {
+      "Time": "2024-01-02T15:58:02.5137916+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33256,
+      "NumberOfAwardsMax": 5730
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33253,
+  "NumberOfAwards": 33256,
   "NumberOfAwardsMax": 5730,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9256,7 +9262,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4306
+      "Count": 4309
     },
     {
       "Text": "This game has Playful Visuals",
@@ -9265,10 +9271,10 @@
       "Count": 3617
     }
   ],
-  "EOS_Progressed": 249767,
+  "EOS_Progressed": 249802,
   "EOS_Completed": 2585,
-  "EOS_NewPlayers": 4901,
-  "EOS_NewCompleters": 20,
+  "EOS_NewPlayers": 4906,
+  "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -38370,6 +38376,11 @@
       "Time": "2024-01-02T15:11:08.1937676+00:00",
       "NumProgressed": 249767,
       "NumCompleted": 2585
+    },
+    {
+      "Time": "2024-01-02T16:10:06.5199542+00:00",
+      "NumProgressed": 249802,
+      "NumCompleted": 2585
     }
   ],
   "TotalAchievements": 546,
@@ -38381,7 +38392,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7493
+      "UsersEstimate": 7494
     },
     {
       "ID": "objective_completed_10",
@@ -42669,7 +42680,7 @@
       "Name": "Welcome to Sigil",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1728
+      "UsersEstimate": 1729
     },
     {
       "ID": "objective_completed_1558",
@@ -42748,21 +42759,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 216041,
-      "Completed": 4127
+      "Progressed": 216076,
+      "Completed": 4128
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 249767,
+      "Progressed": 249802,
       "Completed": 2585
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-02T10:58:17.4534856+00:00",
-  "LastChanged_Achievements": "2024-01-02T15:11:08.1937668+00:00",
+  "LastChanged": "2024-01-02T15:58:02.5137914+00:00",
+  "LastChanged_Achievements": "2024-01-02T16:10:06.5199538+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-02T14:58:48.4194471+00:00",
-  "LastUpdate_Achievements": "2024-01-02T15:11:08.1961788+00:00"
+  "LastUpdate_Ratings": "2024-01-02T15:58:02.513792+00:00",
+  "LastUpdate_Achievements": "2024-01-02T16:10:06.5225033+00:00"
 }
