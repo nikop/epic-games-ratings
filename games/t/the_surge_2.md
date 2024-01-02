@@ -1,14 +1,14 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.27 (Ranked 897)  
+Rating: 4.27 (Ranked 896)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 79.00% | ~1,932 |
-| Don't I Know You...? | 76.00% | ~1,859 |
-| Jailbreak | 65.00% | ~1,590 |
-| Suited and Booted | 38.00% | ~929 |
+| Rigged And Ready | 79.00% | ~1,933 |
+| Don't I Know You...? | 75.00% | ~1,835 |
+| Jailbreak | 65.00% | ~1,591 |
+| Suited and Booted | 38.00% | ~930 |
 | HEADSHOT! | 37.00% | ~905 |
 | Sleeping With The Fishes | 35.00% | ~856 |
 | Overheated | 30.00% | ~734 |
@@ -63,7 +63,7 @@ Rating: 4.27 (Ranked 897)
 | Three Birds With One Stone | 1.00% | ~24 |
 | The Easy Way Out | 1.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,446 (Ranked 233)  
+Progressed: 2,447 (Ranked 233)  
 Completed: 13 (0.53%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 13 (0.53%) (Ranked 215)
 | 2023-12-30 | 2,418 | 13 |
 | 2023-12-31 | 2,428 | 13 |
 | 2024-01-01 | 2,442 | 13 |
-| 2024-01-02 | 2,446 | 13 |
+| 2024-01-02 | 2,447 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

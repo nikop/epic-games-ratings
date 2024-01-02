@@ -5,29 +5,29 @@ Rating: 4.17 (Ranked 976)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 60.00% | ~1,006 |
-| Trinity | 30.00% | ~503 |
-| The Collector | 24.00% | ~402 |
-| Find Allies | 23.00% | ~386 |
-| A Taste of Wrath | 23.00% | ~386 |
-| Geared Up | 22.00% | ~369 |
-| I Found It | 22.00% | ~369 |
-| Adventurer | 21.00% | ~352 |
-| Shatter Them All | 21.00% | ~352 |
-| Scholar | 21.00% | ~352 |
-| Tributes of Caladrias | 20.00% | ~335 |
-| Fashion Victim | 20.00% | ~335 |
-| Stone Collection | 19.00% | ~319 |
-| Powerful Allies | 18.00% | ~302 |
-| Big Bazar | 13.00% | ~218 |
-| Essence Blow | 12.00% | ~201 |
-| Alchemist | 12.00% | ~201 |
+| Break Out | 60.00% | ~1,009 |
+| Trinity | 29.00% | ~488 |
+| Find Allies | 23.00% | ~387 |
+| A Taste of Wrath | 23.00% | ~387 |
+| The Collector | 23.00% | ~387 |
+| Geared Up | 22.00% | ~370 |
+| I Found It | 22.00% | ~370 |
+| Shatter Them All | 21.00% | ~353 |
+| Scholar | 21.00% | ~353 |
+| Adventurer | 20.00% | ~336 |
+| Tributes of Caladrias | 20.00% | ~336 |
+| Fashion Victim | 20.00% | ~336 |
+| Stone Collection | 19.00% | ~320 |
+| Powerful Allies | 18.00% | ~303 |
+| Big Bazar | 13.00% | ~219 |
+| Essence Blow | 12.00% | ~202 |
+| Alchemist | 12.00% | ~202 |
 | The Mentor | 10.00% | ~168 |
-| Calm before the Storm | 8.00% | ~134 |
-| To Battle | 7.00% | ~117 |
-| Godslayer | 7.00% | ~117 |
-| Airborne | 7.00% | ~117 |
-| Miner | 7.00% | ~117 |
+| Calm before the Storm | 8.00% | ~135 |
+| To Battle | 7.00% | ~118 |
+| Godslayer | 7.00% | ~118 |
+| Airborne | 7.00% | ~118 |
+| Miner | 7.00% | ~118 |
 | Clear Sight | 4.00% | ~67 |
 | Shatterer | 4.00% | ~67 |
 | Fine Feathers Make Fine Birds | 4.00% | ~67 |
@@ -42,7 +42,7 @@ Rating: 4.17 (Ranked 976)
 | All That Gold | 0.70% | ~12 |
 | Feeling Fancy | 0.40% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,677 (Ranked 258)  
+Progressed: 1,682 (Ranked 258)  
 Completed: 3 (0.18%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 3 (0.18%) (Ranked 277)
 | 2023-12-30 | 1,519 | 3 |
 | 2023-12-31 | 1,577 | 3 |
 | 2024-01-01 | 1,636 | 3 |
-| 2024-01-02 | 1,677 | 3 |
+| 2024-01-02 | 1,682 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

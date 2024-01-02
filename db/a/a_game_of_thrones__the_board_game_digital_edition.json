@@ -1380,7 +1380,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 32267,
+  "EOS_Progressed": 32272,
   "EOS_Completed": 86,
   "EOS_NewPlayers": 766,
   "EOS_NewCompleters": 1,
@@ -29055,6 +29055,11 @@
       "Time": "2024-01-02T21:10:03.4476313+00:00",
       "NumProgressed": 32267,
       "NumCompleted": 86
+    },
+    {
+      "Time": "2024-01-02T22:10:03.6058451+00:00",
+      "NumProgressed": 32272,
+      "NumCompleted": 86
     }
   ],
   "TotalAchievements": 22,
@@ -29090,7 +29095,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 1613
+      "UsersEstimate": 1614
     },
     {
       "ID": "1019",
@@ -29106,7 +29111,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1613
+      "UsersEstimate": 1614
     },
     {
       "ID": "1021",
@@ -29114,7 +29119,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1613
+      "UsersEstimate": 1614
     },
     {
       "ID": "1022",
@@ -29138,7 +29143,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2581
+      "UsersEstimate": 2582
     },
     {
       "ID": "1025",
@@ -29170,7 +29175,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5808
+      "UsersEstimate": 5809
     },
     {
       "ID": "1029",
@@ -29178,7 +29183,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2581
+      "UsersEstimate": 2582
     },
     {
       "ID": "1030",
@@ -29186,7 +29191,7 @@
       "Name": "Battering Crew",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 6131
+      "UsersEstimate": 6132
     },
     {
       "ID": "1031",
@@ -29202,7 +29207,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 12907
+      "UsersEstimate": 12909
     },
     {
       "ID": "1033",
@@ -29241,15 +29246,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 32267,
+      "Progressed": 32272,
       "Completed": 86
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-12-30T03:00:21.8203894+00:00",
-  "LastChanged_Achievements": "2024-01-02T21:10:03.4476309+00:00",
+  "LastChanged_Achievements": "2024-01-02T22:10:03.6058449+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:55.7773957+00:00",
-  "LastUpdate_Ratings": "2024-01-02T20:58:05.2436912+00:00",
-  "LastUpdate_Achievements": "2024-01-02T21:10:03.4478035+00:00"
+  "LastUpdate_Ratings": "2024-01-02T21:58:03.4741948+00:00",
+  "LastUpdate_Achievements": "2024-01-02T22:10:03.6059711+00:00"
 }

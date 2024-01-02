@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -4337,9 +4337,9 @@
       "ID": "GSS_ACH_01_SHOP_01",
       "SetID": "5fn8ia4",
       "Name": "First Customer!",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1353
     },
     {
       "ID": "GSS_ACH_02_SHOP_02",
@@ -4529,9 +4529,9 @@
       "ID": "GSS_ACH_26_EXCAVATOR_RESET",
       "SetID": "5fn8ia4",
       "Name": "It\u0027s a kind of magic",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 969
+      "UsersEstimate": 984
     },
     {
       "ID": "GSS_ACH_27_PAINT_01",
@@ -4545,9 +4545,9 @@
       "ID": "GSS_ACH_28_PAINT_02",
       "SetID": "5fn8ia4",
       "Name": "On the Roll",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1277
     },
     {
       "ID": "GSS_ACH_29_PAINT_03",
@@ -4994,8 +4994,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-02T14:59:08.1835676+00:00",
-  "LastChanged_Achievements": "2024-01-02T21:06:05.2555738+00:00",
+  "LastChanged_Achievements": "2024-01-02T22:05:58.724012+00:00",
   "LastUpdate_AppInfo": "2024-01-01T19:57:12.6980533+00:00",
-  "LastUpdate_Ratings": "2024-01-02T20:58:39.8665098+00:00",
-  "LastUpdate_Achievements": "2024-01-02T21:06:05.2556775+00:00"
+  "LastUpdate_Ratings": "2024-01-02T21:58:34.3317726+00:00",
+  "LastUpdate_Achievements": "2024-01-02T22:05:58.7241044+00:00"
 }

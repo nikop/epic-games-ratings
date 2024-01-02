@@ -1,7 +1,7 @@
 # Scrapnaut
 [Store](https://store.epicgames.com/en-US/p/scrapnaut)  
 [View Rawdata](../../db/s/scrapnaut.json)  
-Rating: 4.29 (Ranked 878)  
+Rating: 4.29 (Ranked 877)  
 Number of Ratings: 38  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -14,7 +14,7 @@ Number of Ratings: 38  (23.09.2022)
 | Teleport | 43.00% | ~260 |
 | Scrap Master | 36.00% | ~217 |
 | Smelter | 34.00% | ~205 |
-| Digger | 30.00% | ~181 |
+| Digger | 31.00% | ~187 |
 | Electro-Scrap Gatherer | 30.00% | ~181 |
 | Survivor | 29.00% | ~175 |
 | Herbalist | 28.00% | ~169 |
@@ -38,7 +38,7 @@ Number of Ratings: 38  (23.09.2022)
 | Forest Killer | 2.00% | ~12 |
 | Invincible | 0.50% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 604 (Ranked 334)  
+Progressed: 604 (Ranked 335)  
 Completed: 4 (0.66%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |

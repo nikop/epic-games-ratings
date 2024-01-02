@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 373,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 356,
+  "EOS_Progressed": 357,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -1404,6 +1404,11 @@
       "Time": "2024-01-02T18:05:38.6827862+00:00",
       "NumProgressed": 356,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-02T22:04:53.8157076+00:00",
+      "NumProgressed": 357,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -1512,7 +1517,7 @@
       "Name": "Sacrilege",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "AC_BOSS_04",
@@ -1528,7 +1533,7 @@
       "Name": "Pack",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "AC_COMBO_2",
@@ -1558,9 +1563,9 @@
       "ID": "AC_DEATH_1",
       "SetID": "16i2akc",
       "Name": "Corpse",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 129
     },
     {
       "ID": "AC_DEATH_2",
@@ -1584,7 +1589,7 @@
       "Name": "Killer",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -1608,7 +1613,7 @@
       "Name": "Excursion",
       "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -1632,7 +1637,7 @@
       "Name": "Player",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "AC_FLASHBACK_01",
@@ -1656,7 +1661,7 @@
       "Name": "Schooling",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "AC_FULL_MAP",
@@ -1664,7 +1669,7 @@
       "Name": "Vision",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "AC_MONEY_BLACKJACK",
@@ -1751,14 +1756,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 356,
+      "Progressed": 357,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-02T21:04:55.5315443+00:00",
-  "LastUpdate_AppInfo": "2023-12-26T21:56:54.1541826+00:00",
-  "LastUpdate_Ratings": "2024-01-02T20:59:50.2674665+00:00",
-  "LastUpdate_Achievements": "2024-01-02T21:04:55.5315751+00:00"
+  "LastChanged_Achievements": "2024-01-02T22:04:53.8157074+00:00",
+  "LastUpdate_AppInfo": "2024-01-02T21:57:05.7124829+00:00",
+  "LastUpdate_Ratings": "2024-01-02T21:59:32.9683381+00:00",
+  "LastUpdate_Achievements": "2024-01-02T22:04:53.8157324+00:00"
 }

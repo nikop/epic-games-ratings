@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 243,
   "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -301,7 +301,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 917,
+  "EOS_Progressed": 918,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
@@ -3251,6 +3251,11 @@
       "Time": "2024-01-02T18:08:33.4647411+00:00",
       "NumProgressed": 917,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-02T22:08:27.2781862+00:00",
+      "NumProgressed": 918,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3286,7 +3291,7 @@
       "Name": "Didn\u0027t Miss A Single One",
       "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "female-conqueror",
@@ -3302,7 +3307,7 @@
       "Name": "That was base",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "hire-lieutenant",
@@ -3310,7 +3315,7 @@
       "Name": "Our Man",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "kill-lieutenants",
@@ -3374,7 +3379,7 @@
       "Name": "Spread",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "send-smuggling",
@@ -3382,7 +3387,7 @@
       "Name": "Camellos",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "unlock-residences",
@@ -3413,15 +3418,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 917,
+      "Progressed": 918,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-23T10:57:58.3271618+00:00",
-  "LastChanged_Achievements": "2024-01-02T21:06:58.4102925+00:00",
+  "LastChanged_Achievements": "2024-01-02T22:08:27.278186+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:28.1140989+00:00",
-  "LastUpdate_Ratings": "2024-01-02T21:03:01.3075176+00:00",
-  "LastUpdate_Achievements": "2024-01-02T21:06:58.4103606+00:00"
+  "LastUpdate_Ratings": "2024-01-02T22:03:07.7565282+00:00",
+  "LastUpdate_Achievements": "2024-01-02T22:08:27.2782088+00:00"
 }

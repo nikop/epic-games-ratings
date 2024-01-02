@@ -6,18 +6,18 @@ Number of Ratings: 896  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~573,697 |
-| Error: Stack Overflow | 66.00% | ~407,139 |
-| We need more gold | 61.00% | ~376,296 |
-| The dawn of civilization | 53.00% | ~326,945 |
-| More FPS for the FPS god! | 50.00% | ~308,439 |
-| Beauty and harmony | 48.00% | ~296,101 |
-| One more! | 44.00% | ~271,426 |
-| Overmind | 24.00% | ~148,051 |
-| RNG is my best friend now | 18.00% | ~111,038 |
-| Cosplay | 14.00% | ~86,363 |
-| Evolution in progress... | 13.00% | ~80,194 |
-| Step by step | 8.00% | ~49,350 |
+| First.. Bit? | 93.00% | ~573,701 |
+| Error: Stack Overflow | 66.00% | ~407,143 |
+| We need more gold | 61.00% | ~376,299 |
+| The dawn of civilization | 53.00% | ~326,948 |
+| More FPS for the FPS god! | 50.00% | ~308,442 |
+| Beauty and harmony | 48.00% | ~296,104 |
+| One more! | 44.00% | ~271,429 |
+| Overmind | 24.00% | ~148,052 |
+| RNG is my best friend now | 18.00% | ~111,039 |
+| Cosplay | 14.00% | ~86,364 |
+| Evolution in progress... | 13.00% | ~80,195 |
+| Step by step | 8.00% | ~49,351 |
 | README reader | 4.00% | ~24,675 |
 | Data scientist | 3.00% | ~18,506 |
 | One small step for a man... | 3.00% | ~18,506 |
@@ -35,7 +35,7 @@ Number of Ratings: 896  (23.09.2022)
 | Elements will destroy you! | 0.40% | ~2,468 |
 | The Scrooge | 0.10% | ~617 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 616,878 (Ranked 33)  
+Progressed: 616,883 (Ranked 33)  
 Completed: 564 (0.09%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,11 +292,11 @@ Completed: 564 (0.09%) (Ranked 311)
 | 2023-12-30 | 616,404 | 563 |
 | 2023-12-31 | 616,556 | 564 |
 | 2024-01-01 | 616,725 | 564 |
-| 2024-01-02 | 616,878 | 564 |
+| 2024-01-02 | 616,883 | 564 |
 ## Awards
-Max (Challenging Puzzles): 140  (Ranked 331)  
-Sum: 140 (Ranked 441)  
-Diff (max vs sum): -110  
+Max (Challenging Puzzles): 140  (Ranked 332)  
+Sum: 140 (Ranked 440)  
+Diff (max vs sum): -108  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 140 |

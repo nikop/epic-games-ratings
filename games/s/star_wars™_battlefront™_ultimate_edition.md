@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 87.00% | ~2,189 |
-| Off to a good start | 62.00% | ~1,560 |
-| Do... or do not. There is no try | 52.00% | ~1,308 |
+| New Recruit | 87.00% | ~2,190 |
+| Off to a good start | 62.00% | ~1,561 |
+| Do... or do not. There is no try | 52.00% | ~1,309 |
 | A good blaster at your side | 25.00% | ~629 |
 | I suggest a new strategy | 18.00% | ~453 |
 | Great shot, kid! | 16.00% | ~403 |
-| Scrap collector | 15.00% | ~377 |
-| All right, I'll give it a try | 15.00% | ~377 |
+| Scrap collector | 15.00% | ~378 |
+| All right, I'll give it a try | 15.00% | ~378 |
 | Shoot first | 13.00% | ~327 |
 | The power of the Force | 12.00% | ~302 |
 | Collector | 12.00% | ~302 |
@@ -28,11 +28,11 @@
 | Distinguished | 4.00% | ~101 |
 | A tremor in the Force | 4.00% | ~101 |
 | Support the troops | 4.00% | ~101 |
-| On the ball | 3.00% | ~75 |
-| Safety ain't the point of a joyride | 3.00% | ~75 |
-| Not bad for a little furball | 3.00% | ~75 |
-| Patience you must have | 3.00% | ~75 |
-| Don't underestimate the Force | 3.00% | ~75 |
+| On the ball | 3.00% | ~76 |
+| Safety ain't the point of a joyride | 3.00% | ~76 |
+| Not bad for a little furball | 3.00% | ~76 |
+| Patience you must have | 3.00% | ~76 |
+| Don't underestimate the Force | 3.00% | ~76 |
 | The Force is strong with this one | 2.00% | ~50 |
 | I've been waiting for you | 2.00% | ~50 |
 | When 900 years old you reach... | 2.00% | ~50 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,516 (Ranked 232)  
+Progressed: 2,517 (Ranked 232)  
 Completed: 1 (0.04%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 1 (0.04%) (Ranked 344)
 | 2023-12-30 | 2,388 | 1 |
 | 2023-12-31 | 2,425 | 1 |
 | 2024-01-01 | 2,461 | 1 |
-| 2024-01-02 | 2,516 | 1 |
+| 2024-01-02 | 2,517 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

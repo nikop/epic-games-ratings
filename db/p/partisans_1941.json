@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 339,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1923,
+  "EOS_Progressed": 1924,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -4734,6 +4734,11 @@
       "Time": "2024-01-02T16:09:32.1987143+00:00",
       "NumProgressed": 1923,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-02T22:09:54.7405776+00:00",
+      "NumProgressed": 1924,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -4775,9 +4780,9 @@
       "ID": "Boy",
       "SetID": "85nb4h3",
       "Name": "You\u0027re Gonna Go Far, Kid",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 500
+      "UsersEstimate": 519
     },
     {
       "ID": "Commandos",
@@ -4857,7 +4862,7 @@
       "Name": "Grenadier",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 846
+      "UsersEstimate": 847
     },
     {
       "ID": "Hard_Serpent",
@@ -4873,7 +4878,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "High_noon",
@@ -4921,7 +4926,7 @@
       "Name": "One by One",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "Miner",
@@ -4961,7 +4966,7 @@
       "Name": "War Never Changes",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 846
+      "UsersEstimate": 847
     },
     {
       "ID": "We_were_not_here",
@@ -4977,22 +4982,22 @@
       "Name": "Your Answer",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     }
   ],
   "AchievementSets": [
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1923,
+      "Progressed": 1924,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2024-01-02T21:09:53.7596033+00:00",
+  "LastChanged_Achievements": "2024-01-02T22:09:54.7405774+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:23.7315333+00:00",
-  "LastUpdate_Ratings": "2024-01-02T21:03:10.2644178+00:00",
-  "LastUpdate_Achievements": "2024-01-02T21:09:53.7596445+00:00"
+  "LastUpdate_Ratings": "2024-01-02T22:03:16.3378305+00:00",
+  "LastUpdate_Achievements": "2024-01-02T22:09:54.74061+00:00"
 }

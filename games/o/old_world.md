@@ -11,16 +11,16 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 1.00% | ~161 |
 | Play a Single Player Game | 1.00% | ~161 |
 | Intrepid | 0.90% | ~145 |
+| Able | 0.80% | ~129 |
 | Architect | 0.80% | ~129 |
 | Good | 0.80% | ~129 |
+| Learned | 0.80% | ~129 |
 | Mason | 0.80% | ~129 |
 | Noble | 0.80% | ~129 |
 | Strong | 0.80% | ~129 |
 | Hanging Gardens | 0.80% | ~129 |
-| Able | 0.70% | ~113 |
 | Just | 0.70% | ~113 |
 | Keystone | 0.70% | ~113 |
-| Learned | 0.70% | ~113 |
 | Pioneer | 0.70% | ~113 |
 | Developing Cities | 0.70% | ~113 |
 | Oracle | 0.70% | ~113 |
@@ -77,6 +77,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greece | 0.30% | ~48 |
 | Power to the People | 0.30% | ~48 |
 | Egyptian Paganism | 0.30% | ~48 |
+| Persian Paganism | 0.30% | ~48 |
 | Building Wonders | 0.30% | ~48 |
 | Mythology | 0.30% | ~48 |
 | Points Victory | 0.30% | ~48 |
@@ -105,7 +106,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonia | 0.20% | ~32 |
 | Egypt | 0.20% | ~32 |
 | Assyrian Paganism | 0.20% | ~32 |
-| Persian Paganism | 0.20% | ~32 |
 | Economic Reform | 0.20% | ~32 |
 | Industrial Progress | 0.20% | ~32 |
 | Military Prestige | 0.20% | ~32 |
@@ -125,6 +125,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambition Victory | 0.20% | ~32 |
 | Double Victory | 0.20% | ~32 |
 | The Clergy | 0.20% | ~32 |
+| Deposed Tribe | 0.20% | ~32 |
 | Centenarian | 0.10% | ~16 |
 | Alexander the Great | 0.10% | ~16 |
 | Lighthouse in Alexandria | 0.10% | ~16 |
@@ -252,7 +253,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.10% | ~16 |
 | Win a MP Teams Game | 0.10% | ~16 |
 | Win a Network Game | 0.10% | ~16 |
-| Deposed Tribe | 0.10% | ~16 |
 | Five Cults | 0.10% | ~16 |
 | The Great Mage | 0.10% | ~16 |
 | Pilgrimage | 0.10% | ~16 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,089 (Ranked 166)  
+Progressed: 16,090 (Ranked 166)  
 Completed: 5 (0.03%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -622,7 +622,7 @@ Completed: 5 (0.03%) (Ranked 349)
 | 2023-12-30 | 16,036 | 5 |
 | 2023-12-31 | 16,053 | 5 |
 | 2024-01-01 | 16,077 | 5 |
-| 2024-01-02 | 16,089 | 5 |
+| 2024-01-02 | 16,090 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 283)  
 Sum: 1,912 (Ranked 221)  

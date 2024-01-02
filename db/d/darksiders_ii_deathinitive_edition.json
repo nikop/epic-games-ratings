@@ -4,11 +4,11 @@
   "ProductSlug": "darksiders2",
   "Ranking_Rating": 375,
   "Ranking_Popularity": 238,
-  "Ranking_PopularitySum": 321,
+  "Ranking_PopularitySum": 322,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 570,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2015-11-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -793,6 +793,6 @@
   "FirstSeen": "2022-07-22T20:23:32.2059195+00:00",
   "LastChanged": "2023-12-29T18:59:43.303072+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:21.3314437+00:00",
-  "LastUpdate_Ratings": "2024-01-02T20:58:33.0315159+00:00",
-  "LastUpdate_Achievements": "2024-01-02T21:04:37.7727211+00:00"
+  "LastUpdate_Ratings": "2024-01-02T21:58:27.8290768+00:00",
+  "LastUpdate_Achievements": "2024-01-02T22:04:37.3827224+00:00"
 }

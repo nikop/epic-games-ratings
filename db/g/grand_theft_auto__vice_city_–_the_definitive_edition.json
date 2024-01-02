@@ -3,7 +3,7 @@
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
   "Ranking_Rating": 574,
-  "Ranking_Popularity": 316,
+  "Ranking_Popularity": 317,
   "Ranking_PopularitySum": 430,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 209,
@@ -1051,9 +1051,9 @@
       "Count": 172
     }
   ],
-  "EOS_Progressed": 15114,
+  "EOS_Progressed": 15122,
   "EOS_Completed": 85,
-  "EOS_NewPlayers": 940,
+  "EOS_NewPlayers": 941,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -16786,6 +16786,11 @@
       "Time": "2024-01-02T21:09:56.6916604+00:00",
       "NumProgressed": 15114,
       "NumCompleted": 85
+    },
+    {
+      "Time": "2024-01-02T22:09:57.4047153+00:00",
+      "NumProgressed": 15122,
+      "NumCompleted": 85
     }
   ],
   "TotalAchievements": 34,
@@ -16813,7 +16818,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 1511
+      "UsersEstimate": 1512
     },
     {
       "ID": "ACH04",
@@ -16837,7 +16842,7 @@
       "Name": "Point A to Point B",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "ACH07",
@@ -16845,7 +16850,7 @@
       "Name": "High Quality H2O",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "ACH08",
@@ -16861,7 +16866,7 @@
       "Name": "Bull in a China Shop",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "ACH10",
@@ -16869,7 +16874,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1059
     },
     {
       "ID": "ACH11",
@@ -16893,7 +16898,7 @@
       "Name": "Somebody Call the Wambulance?",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "ACH14",
@@ -16901,7 +16906,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 6348
+      "UsersEstimate": 6351
     },
     {
       "ID": "ACH15",
@@ -16909,7 +16914,7 @@
       "Name": "Just Like the Real Thing",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "ACH16",
@@ -16925,7 +16930,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1360
+      "UsersEstimate": 1361
     },
     {
       "ID": "ACH18",
@@ -16941,7 +16946,7 @@
       "Name": "Don\u0027t Need Roads",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "ACH20",
@@ -16957,7 +16962,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 6952
+      "UsersEstimate": 6956
     },
     {
       "ID": "ACH22",
@@ -16965,7 +16970,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 3023
+      "UsersEstimate": 3024
     },
     {
       "ID": "ACH23",
@@ -16973,7 +16978,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 3930
+      "UsersEstimate": 3932
     },
     {
       "ID": "ACH24",
@@ -16981,7 +16986,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2267
+      "UsersEstimate": 2268
     },
     {
       "ID": "ACH25",
@@ -16989,7 +16994,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2267
+      "UsersEstimate": 2268
     },
     {
       "ID": "ACH26",
@@ -16997,7 +17002,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2267
+      "UsersEstimate": 2268
     },
     {
       "ID": "ACH27",
@@ -17029,7 +17034,7 @@
       "Name": "Mischief Managed",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1210
     },
     {
       "ID": "ACH31",
@@ -17068,7 +17073,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 15114,
+      "Progressed": 15122,
       "Completed": 85
     }
   ],
@@ -17076,8 +17081,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-01T23:57:10.5196761+00:00",
-  "LastChanged_Achievements": "2024-01-02T21:09:56.6916601+00:00",
+  "LastChanged_Achievements": "2024-01-02T22:09:57.4047151+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:48.9246276+00:00",
-  "LastUpdate_Ratings": "2024-01-02T20:57:35.8253656+00:00",
-  "LastUpdate_Achievements": "2024-01-02T21:09:56.6917347+00:00"
+  "LastUpdate_Ratings": "2024-01-02T21:57:38.1227195+00:00",
+  "LastUpdate_Achievements": "2024-01-02T22:09:57.4048121+00:00"
 }

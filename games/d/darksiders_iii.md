@@ -13,8 +13,8 @@ Number of Ratings: 116  (23.09.2022)
 | Fight Fire with Fire | 58.00% | ~224 |
 | Increased Capacity | 54.00% | ~209 |
 | Just the start | 49.00% | ~190 |
-| Perfect Storm | 46.00% | ~178 |
-| All That Glitters | 46.00% | ~178 |
+| Perfect Storm | 47.00% | ~182 |
+| All That Glitters | 47.00% | ~182 |
 | Enhance! | 42.00% | ~163 |
 | One Of the Chosen | 39.00% | ~151 |
 | Throne Potato | 39.00% | ~151 |
@@ -30,7 +30,7 @@ Number of Ratings: 116  (23.09.2022)
 | Maximum Vigor | 30.00% | ~116 |
 | For Whom the Bell Tolls | 28.00% | ~108 |
 | Freeze Frame | 27.00% | ~104 |
-| Eat Your Heart Out | 26.00% | ~101 |
+| Eat Your Heart Out | 27.00% | ~104 |
 | Unyielding Strength | 25.00% | ~97 |
 | Can you restore the Balance? | 24.00% | ~93 |
 | Big Spender | 24.00% | ~93 |
@@ -43,8 +43,8 @@ Number of Ratings: 116  (23.09.2022)
 | Protector of Humanity | 15.00% | ~58 |
 | Everybody Wants to Rule the World | 15.00% | ~58 |
 | Community Outreach | 14.00% | ~54 |
+| Unbreakable Will | 12.00% | ~46 |
 | A Parting Gift | 12.00% | ~46 |
-| Unbreakable Will | 11.00% | ~43 |
 | Path of the Horseman | 11.00% | ~43 |
 | Take it to the Limit | 11.00% | ~43 |
 | Holy Keeper | 10.00% | ~39 |
@@ -92,8 +92,8 @@ Completed: 1 (0.26%) (Ranked 260)
 | 2024-01-02 | 387 | 1 |
 ## Awards
 Max (Great Boss Battles): 96  (Ranked 383)  
-Sum: 96 (Ranked 464)  
-Diff (max vs sum): -81  
+Sum: 96 (Ranked 465)  
+Diff (max vs sum): -82  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 96 |

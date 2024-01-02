@@ -4,11 +4,11 @@
   "ProductSlug": "tropico-6",
   "Ranking_Rating": 301,
   "Ranking_Popularity": 368,
-  "Ranking_PopularitySum": 300,
+  "Ranking_PopularitySum": 301,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 349,
   "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1515,7 +1515,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6854,
+  "EOS_Progressed": 6855,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
@@ -15845,6 +15845,11 @@
       "Time": "2024-01-02T21:06:59.9404385+00:00",
       "NumProgressed": 6854,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-02T22:08:28.6932204+00:00",
+      "NumProgressed": 6855,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -15880,7 +15885,7 @@
       "Name": "Happy Ending?",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -15976,7 +15981,7 @@
       "Name": "Number 18",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1576
+      "UsersEstimate": 1577
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -16006,9 +16011,9 @@
       "ID": "ACH_GOVERNATOR",
       "SetID": "1p8ab95",
       "Name": "The Governator",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1165
+      "UsersEstimate": 1097
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -16016,7 +16021,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 5003
+      "UsersEstimate": 5004
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -16112,7 +16117,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 3084
+      "UsersEstimate": 3085
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -16128,7 +16133,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2467
+      "UsersEstimate": 2468
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -16175,15 +16180,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6854,
+      "Progressed": 6855,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2024-01-01T23:00:51.8324602+00:00",
-  "LastChanged_Achievements": "2024-01-02T21:06:59.9404379+00:00",
+  "LastChanged_Achievements": "2024-01-02T22:08:28.6932201+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:30.406474+00:00",
-  "LastUpdate_Ratings": "2024-01-02T21:00:35.1247429+00:00",
-  "LastUpdate_Achievements": "2024-01-02T21:06:59.9405352+00:00"
+  "LastUpdate_Ratings": "2024-01-02T22:00:16.0031632+00:00",
+  "LastUpdate_Achievements": "2024-01-02T22:08:28.6933334+00:00"
 }

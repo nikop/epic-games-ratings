@@ -4,8 +4,8 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2516,
+  "EOS_Progressed": 2517,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 304,
+  "EOS_NewPlayers": 301,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -6989,6 +6989,11 @@
       "Time": "2024-01-02T21:10:25.6877758+00:00",
       "NumProgressed": 2516,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-02T22:10:24.3010784+00:00",
+      "NumProgressed": 2517,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -7169,7 +7174,7 @@
       "Name": "On the ball",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "achievement_3",
@@ -7193,7 +7198,7 @@
       "Name": "Scrap collector",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "achievement_32",
@@ -7201,7 +7206,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "achievement_33",
@@ -7209,7 +7214,7 @@
       "Name": "Safety ain\u0027t the point of a joyride",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "achievement_34",
@@ -7225,7 +7230,7 @@
       "Name": "New Recruit",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 2189
+      "UsersEstimate": 2190
     },
     {
       "ID": "achievement_36",
@@ -7241,7 +7246,7 @@
       "Name": "Off to a good start",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1560
+      "UsersEstimate": 1561
     },
     {
       "ID": "achievement_38",
@@ -7273,7 +7278,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1308
+      "UsersEstimate": 1309
     },
     {
       "ID": "achievement_41",
@@ -7289,7 +7294,7 @@
       "Name": "Not bad for a little furball",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "achievement_43",
@@ -7321,7 +7326,7 @@
       "Name": "Patience you must have",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "achievement_47",
@@ -7489,7 +7494,7 @@
       "Name": "Don\u0027t underestimate the Force",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "achievement_9",
@@ -7504,13 +7509,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2516,
+      "Progressed": 2517,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2516,
+      "Progressed": 2517,
       "Completed": 1
     }
   ],
@@ -7518,8 +7523,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-02T21:10:25.6877755+00:00",
+  "LastChanged_Achievements": "2024-01-02T22:10:24.3010782+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:19.759459+00:00",
-  "LastUpdate_Ratings": "2024-01-02T20:59:31.6448188+00:00",
-  "LastUpdate_Achievements": "2024-01-02T21:10:25.6878586+00:00"
+  "LastUpdate_Ratings": "2024-01-02T21:59:17.6797431+00:00",
+  "LastUpdate_Achievements": "2024-01-02T22:10:24.3011645+00:00"
 }

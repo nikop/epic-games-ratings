@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7721,
+  "EOS_Progressed": 7722,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -6698,6 +6698,11 @@
       "Time": "2024-01-02T20:04:23.3962645+00:00",
       "NumProgressed": 7721,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2024-01-02T22:04:41.7291979+00:00",
+      "NumProgressed": 7722,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 27,
@@ -6717,7 +6722,7 @@
       "Name": "Daylight Found",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 2007
+      "UsersEstimate": 2008
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -6741,7 +6746,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 4092
+      "UsersEstimate": 4093
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -6909,7 +6914,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 3088
+      "UsersEstimate": 3089
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -6924,15 +6929,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7721,
+      "Progressed": 7722,
       "Completed": 59
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2024-01-02T21:04:42.4611981+00:00",
+  "LastChanged_Achievements": "2024-01-02T22:04:41.7291976+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:57:02.2887263+00:00",
-  "LastUpdate_Ratings": "2024-01-02T21:03:29.4188874+00:00",
-  "LastUpdate_Achievements": "2024-01-02T21:04:42.4612471+00:00"
+  "LastUpdate_Ratings": "2024-01-02T22:03:34.7169776+00:00",
+  "LastUpdate_Achievements": "2024-01-02T22:04:41.7292525+00:00"
 }

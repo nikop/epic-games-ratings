@@ -4,8 +4,8 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 938,
+  "EOS_Progressed": 940,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4047,6 +4047,11 @@
       "Time": "2024-01-02T21:09:54.2044599+00:00",
       "NumProgressed": 938,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T22:09:55.0993592+00:00",
+      "NumProgressed": 940,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -4072,9 +4077,9 @@
       "ID": "5CustomDishesMenus",
       "SetID": "d1bm05f",
       "Name": "Culinary Arts",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 38
     },
     {
       "ID": "5OvenDishesMenu",
@@ -4106,7 +4111,7 @@
       "Name": "French Flair",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "CleanRestaurantDays10",
@@ -4234,7 +4239,7 @@
       "Name": "The Big Day",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "Packing20",
@@ -4258,7 +4263,7 @@
       "Name": "Home Cook",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "RecipeDifferent30",
@@ -4377,7 +4382,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 938,
+      "Progressed": 940,
       "Completed": 0
     }
   ],
@@ -4385,8 +4390,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2024-01-02T21:09:54.2044595+00:00",
+  "LastChanged_Achievements": "2024-01-02T22:09:55.0993589+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.9361067+00:00",
-  "LastUpdate_Ratings": "2024-01-02T20:57:53.6697379+00:00",
-  "LastUpdate_Achievements": "2024-01-02T21:09:54.2045004+00:00"
+  "LastUpdate_Ratings": "2024-01-02T21:57:53.6839854+00:00",
+  "LastUpdate_Achievements": "2024-01-02T22:09:55.099408+00:00"
 }

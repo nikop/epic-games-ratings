@@ -1,7 +1,7 @@
 # RAGE 2
 [Store](https://store.epicgames.com/en-US/p/rage-2)  
 [View Rawdata](../../db/r/rage_2.json)  
-Rating: 4.27 (Ranked 897)  
+Rating: 4.27 (Ranked 896)  
 Number of Ratings: 4,311  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 2,864  (Ranked 102)  

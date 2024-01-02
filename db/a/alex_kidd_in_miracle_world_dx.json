@@ -4,8 +4,8 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 343,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
     "PcReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 404,
+  "EOS_Progressed": 405,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -859,6 +859,11 @@
       "Time": "2024-01-02T17:07:45.98621+00:00",
       "NumProgressed": 404,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-02T22:06:11.1327999+00:00",
+      "NumProgressed": 405,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -908,9 +913,9 @@
       "ID": "EGLE_FREED",
       "SetID": "7im05fi",
       "Name": "Prisoner",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 85
     },
     {
       "ID": "GOOSEKA_DEFEATED",
@@ -950,7 +955,7 @@
       "Name": "Pacifist",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "NO_PURCHASES",
@@ -990,14 +995,14 @@
       "Name": "Magic Ball",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     }
   ],
   "AchievementSets": [
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 404,
+      "Progressed": 405,
       "Completed": 4
     }
   ],
@@ -1005,8 +1010,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2024-01-02T21:06:18.7758161+00:00",
+  "LastChanged_Achievements": "2024-01-02T22:06:11.1327996+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:25.7594248+00:00",
-  "LastUpdate_Ratings": "2024-01-02T21:00:22.6635289+00:00",
-  "LastUpdate_Achievements": "2024-01-02T21:06:18.7758341+00:00"
+  "LastUpdate_Ratings": "2024-01-02T22:00:05.1758035+00:00",
+  "LastUpdate_Achievements": "2024-01-02T22:06:11.1328121+00:00"
 }

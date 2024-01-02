@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -450,9 +450,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 941,
+  "EOS_Progressed": 943,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3375,6 +3375,11 @@
       "Time": "2024-01-02T20:08:54.437961+00:00",
       "NumProgressed": 941,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T22:09:21.7983236+00:00",
+      "NumProgressed": 943,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3531,7 +3536,7 @@
       "Name": "Double Kill",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "FlameAttackKillCount",
@@ -3545,7 +3550,7 @@
       "ID": "FrontlineFighterCount",
       "SetID": "71c0n9i",
       "Name": "In The Thick of It",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 15,
       "UsersEstimate": 8
     },
@@ -3627,7 +3632,7 @@
       "Name": "Whoops!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "RanaCampaign",
@@ -3715,7 +3720,7 @@
       "Name": "Adept",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "WielderLevel2",
@@ -3818,15 +3823,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 941,
+      "Progressed": 943,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2024-01-02T21:09:18.1812603+00:00",
+  "LastChanged_Achievements": "2024-01-02T22:09:21.7983235+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:53.9356991+00:00",
-  "LastUpdate_Ratings": "2024-01-02T20:57:28.9139227+00:00",
-  "LastUpdate_Achievements": "2024-01-02T21:09:18.1813032+00:00"
+  "LastUpdate_Ratings": "2024-01-02T21:57:31.556131+00:00",
+  "LastUpdate_Achievements": "2024-01-02T22:09:21.7983764+00:00"
 }

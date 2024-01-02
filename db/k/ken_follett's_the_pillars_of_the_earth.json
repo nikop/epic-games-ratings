@@ -3,7 +3,7 @@
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
   "Ranking_Rating": 590,
-  "Ranking_Popularity": 323,
+  "Ranking_Popularity": 324,
   "Ranking_PopularitySum": 416,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 195,
@@ -570,7 +570,7 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17581,
+  "EOS_Progressed": 17582,
   "EOS_Completed": 123,
   "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 2,
@@ -17565,6 +17565,11 @@
       "Time": "2024-01-02T21:06:03.6828123+00:00",
       "NumProgressed": 17581,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2024-01-02T22:05:57.2142025+00:00",
+      "NumProgressed": 17582,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 41,
@@ -17680,7 +17685,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 5098
+      "UsersEstimate": 5099
     },
     {
       "ID": "tpote_achievement_22",
@@ -17784,7 +17789,7 @@
       "Name": "Nothing but make-believe",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1406
+      "UsersEstimate": 1407
     },
     {
       "ID": "tpote_achievement_34",
@@ -17840,7 +17845,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 7032
+      "UsersEstimate": 7033
     },
     {
       "ID": "tpote_achievement_40",
@@ -17903,15 +17908,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17581,
+      "Progressed": 17582,
       "Completed": 123
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-02T21:06:03.682812+00:00",
+  "LastChanged_Achievements": "2024-01-02T22:05:57.2142024+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:24.3361109+00:00",
-  "LastUpdate_Ratings": "2024-01-02T21:02:59.4223922+00:00",
-  "LastUpdate_Achievements": "2024-01-02T21:06:03.6829742+00:00"
+  "LastUpdate_Ratings": "2024-01-02T22:03:06.0119415+00:00",
+  "LastUpdate_Achievements": "2024-01-02T22:05:57.2142895+00:00"
 }

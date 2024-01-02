@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1866,
+  "EOS_Progressed": 1867,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -3228,6 +3228,11 @@
       "Time": "2024-01-02T20:03:43.2723959+00:00",
       "NumProgressed": 1866,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-02T22:04:06.3704086+00:00",
+      "NumProgressed": 1867,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3239,7 +3244,7 @@
       "Name": "Lovebirds",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "10",
@@ -3478,15 +3483,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1866,
+      "Progressed": 1867,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2024-01-02T21:04:04.2342187+00:00",
+  "LastChanged_Achievements": "2024-01-02T22:04:06.3704084+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:49.1667896+00:00",
-  "LastUpdate_Ratings": "2024-01-02T20:59:15.5690084+00:00",
-  "LastUpdate_Achievements": "2024-01-02T21:04:04.2342558+00:00"
+  "LastUpdate_Ratings": "2024-01-02T21:59:04.1157638+00:00",
+  "LastUpdate_Achievements": "2024-01-02T22:04:06.3704345+00:00"
 }

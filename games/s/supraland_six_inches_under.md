@@ -13,11 +13,11 @@ Number of Ratings: 209  (23.09.2022)
 | High Jump | 96.00% | ~2,314 |
 | Knee bending | 96.00% | ~2,314 |
 | Pickaxe | 94.00% | ~2,265 |
+| Cage Town | 94.00% | ~2,265 |
 | Force Beam | 93.00% | ~2,241 |
 | Entered Cage Town | 93.00% | ~2,241 |
 | Stone Pickaxe | 93.00% | ~2,241 |
 | Revenge | 93.00% | ~2,241 |
-| Cage Town | 93.00% | ~2,241 |
 | Surprise | 93.00% | ~2,241 |
 | Magnet | 90.00% | ~2,169 |
 | Industrial Area | 89.00% | ~2,145 |

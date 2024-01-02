@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 141,
   "Ranking_EOS_NewPlayers": 36,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8697,9 +8697,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 752155,
+  "EOS_Progressed": 752172,
   "EOS_Completed": 12971,
-  "EOS_NewPlayers": 6636,
+  "EOS_NewPlayers": 6631,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.72,
   "EosHistory": [
@@ -32067,6 +32067,11 @@
       "Time": "2024-01-02T21:09:22.6652053+00:00",
       "NumProgressed": 752155,
       "NumCompleted": 12971
+    },
+    {
+      "Time": "2024-01-02T22:09:25.8677015+00:00",
+      "NumProgressed": 752172,
+      "NumCompleted": 12971
     }
   ],
   "TotalAchievements": 60,
@@ -32078,7 +32083,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 37608
+      "UsersEstimate": 37609
     },
     {
       "ID": "02_Vengeance_H1",
@@ -32086,7 +32091,7 @@
       "Name": "The Assault",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30086
+      "UsersEstimate": 30087
     },
     {
       "ID": "03_Vengeance_H2",
@@ -32198,7 +32203,7 @@
       "Name": "Drunken Fighter",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2256
+      "UsersEstimate": 2257
     },
     {
       "ID": "17_Detective_H3",
@@ -32206,7 +32211,7 @@
       "Name": "Martial Artist",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2256
+      "UsersEstimate": 2257
     },
     {
       "ID": "18_Detective_H4",
@@ -32214,7 +32219,7 @@
       "Name": "Knowledge Greed",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2256
+      "UsersEstimate": 2257
     },
     {
       "ID": "19_Detective_H5",
@@ -32238,7 +32243,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 6769
+      "UsersEstimate": 6770
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -32254,7 +32259,7 @@
       "Name": "Life is your teacher",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 30086
+      "UsersEstimate": 30087
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -32342,7 +32347,7 @@
       "Name": "Lightning Hands",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30086
+      "UsersEstimate": 30087
     },
     {
       "ID": "35_WideStrike",
@@ -32374,7 +32379,7 @@
       "Name": "The Pit Protector",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2256
+      "UsersEstimate": 2257
     },
     {
       "ID": "39_CustomTrophy_H3",
@@ -32406,7 +32411,7 @@
       "Name": "Come Snap With Me",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 2256
+      "UsersEstimate": 2257
     },
     {
       "ID": "43_Arena_UnlockPack",
@@ -32557,21 +32562,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 61456,
+      "Progressed": 61473,
       "Completed": 10796
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 752155,
+      "Progressed": 752172,
       "Completed": 12971
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-02T06:02:59.8897047+00:00",
-  "LastChanged_Achievements": "2024-01-02T21:09:22.6652048+00:00",
+  "LastChanged_Achievements": "2024-01-02T22:09:25.8677013+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:26.4563062+00:00",
-  "LastUpdate_Ratings": "2024-01-02T21:03:13.2479585+00:00",
-  "LastUpdate_Achievements": "2024-01-02T21:09:22.6653786+00:00"
+  "LastUpdate_Ratings": "2024-01-02T22:03:19.3847177+00:00",
+  "LastUpdate_Achievements": "2024-01-02T22:09:25.8678713+00:00"
 }

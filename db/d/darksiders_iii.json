@@ -4,11 +4,11 @@
   "ProductSlug": "darksiders3",
   "Ranking_Rating": 660,
   "Ranking_Popularity": 383,
-  "Ranking_PopularitySum": 464,
+  "Ranking_PopularitySum": 465,
   "Ranking_EOS_Progress": 365,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1483,9 +1483,9 @@
       "ID": "Collect_AdamantineLarge_30",
       "SetID": "7a5k76n",
       "Name": "Unbreakable Will",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 46
     },
     {
       "ID": "Collect_AdamantineMedium_30",
@@ -1595,9 +1595,9 @@
       "ID": "Collect_Hollow_Storm",
       "SetID": "7a5k76n",
       "Name": "Perfect Storm",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 182
     },
     {
       "ID": "Collect_Lurchers_100000",
@@ -1819,9 +1819,9 @@
       "ID": "Kill_Sin_Avarice",
       "SetID": "7a5k76n",
       "Name": "All That Glitters",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 182
     },
     {
       "ID": "Kill_Sin_BigBad",
@@ -1843,9 +1843,9 @@
       "ID": "Kill_Sin_Gluttony",
       "SetID": "7a5k76n",
       "Name": "Eat Your Heart Out",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 104
     },
     {
       "ID": "Kill_Sin_Lust",
@@ -2003,8 +2003,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-02T05:57:25.472105+00:00",
-  "LastChanged_Achievements": "2024-01-02T21:06:10.3204597+00:00",
+  "LastChanged_Achievements": "2024-01-02T22:06:03.3196442+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.0817876+00:00",
-  "LastUpdate_Ratings": "2024-01-02T20:57:53.1266863+00:00",
-  "LastUpdate_Achievements": "2024-01-02T21:06:10.3205222+00:00"
+  "LastUpdate_Ratings": "2024-01-02T21:57:53.0626138+00:00",
+  "LastUpdate_Achievements": "2024-01-02T22:06:03.319704+00:00"
 }

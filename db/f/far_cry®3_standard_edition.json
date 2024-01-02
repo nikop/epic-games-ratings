@@ -4,11 +4,11 @@
   "ProductSlug": "far-cry-3",
   "Ranking_Rating": 202,
   "Ranking_Popularity": 221,
-  "Ranking_PopularitySum": 305,
+  "Ranking_PopularitySum": 306,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 570,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2013-01-15T10:00:00+00:00",
     "PcReleaseDate": null,
@@ -1773,6 +1773,6 @@
   "FirstSeen": "2022-07-22T20:24:43.0306746+00:00",
   "LastChanged": "2024-01-02T18:01:42.008161+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:24.1875777+00:00",
-  "LastUpdate_Ratings": "2024-01-02T21:00:17.7602978+00:00",
-  "LastUpdate_Achievements": "2024-01-02T21:09:17.4076673+00:00"
+  "LastUpdate_Ratings": "2024-01-02T22:00:01.0501004+00:00",
+  "LastUpdate_Achievements": "2024-01-02T22:09:21.0489918+00:00"
 }

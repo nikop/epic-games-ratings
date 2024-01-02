@@ -4,11 +4,11 @@
   "ProductSlug": "the-talos-principle-2-ab1034",
   "Ranking_Rating": 23,
   "Ranking_Popularity": 388,
-  "Ranking_PopularitySum": 470,
+  "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -265,9 +265,9 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 1238,
+  "EOS_Progressed": 1239,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3445,6 +3445,11 @@
       "Time": "2024-01-02T18:04:21.5936697+00:00",
       "NumProgressed": 1238,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-02T22:03:59.9378678+00:00",
+      "NumProgressed": 1239,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3503,9 +3508,9 @@
       "ID": "BreakTheLoop",
       "SetID": "1n308hc",
       "Name": "Break the Loop",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 99
     },
     {
       "ID": "BridgeBuilder",
@@ -3567,9 +3572,9 @@
       "ID": "EcstaticTruth",
       "SetID": "1n308hc",
       "Name": "Ecstatic Truth",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 87
+      "UsersEstimate": 99
     },
     {
       "ID": "Excellent",
@@ -3577,7 +3582,7 @@
       "Name": "Excellent",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "FloodedValley",
@@ -3631,17 +3636,17 @@
       "ID": "JustOneLap",
       "SetID": "1n308hc",
       "Name": "Just One Lap",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 136
+      "UsersEstimate": 149
     },
     {
       "ID": "LordOfTheFiles",
       "SetID": "1n308hc",
       "Name": "Lord of the Files",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 347
+      "UsersEstimate": 359
     },
     {
       "ID": "LostMarshes",
@@ -3687,9 +3692,9 @@
       "ID": "NewBeginning",
       "SetID": "1n308hc",
       "Name": "A New Beginning",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 74
+      "UsersEstimate": 87
     },
     {
       "ID": "NewMorality",
@@ -3713,7 +3718,7 @@
       "Name": "Overload",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "Persistent",
@@ -3735,9 +3740,9 @@
       "ID": "PuzzleFiend",
       "SetID": "1n308hc",
       "Name": "Puzzle Fiend",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 198
+      "UsersEstimate": 211
     },
     {
       "ID": "RemnantsOfThePast",
@@ -3745,7 +3750,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "RenaissanceRobot",
@@ -3759,9 +3764,9 @@
       "ID": "ScientiaVincereTenebras",
       "SetID": "1n308hc",
       "Name": "Scientia Vincere Tenebras",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 136
+      "UsersEstimate": 124
     },
     {
       "ID": "Signatory",
@@ -3799,9 +3804,9 @@
       "ID": "TeamSpirit",
       "SetID": "1n308hc",
       "Name": "Team Spirit",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 260
+      "UsersEstimate": 273
     },
     {
       "ID": "TextAdventurer",
@@ -3865,7 +3870,7 @@
       "Name": "The Word Endures",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "TouchGrass",
@@ -3928,7 +3933,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1238,
+      "Progressed": 1239,
       "Completed": 2
     }
   ],
@@ -3936,8 +3941,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-01T16:59:26.0585046+00:00",
-  "LastChanged_Achievements": "2024-01-02T21:03:57.1996385+00:00",
+  "LastChanged_Achievements": "2024-01-02T22:03:59.9378676+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.9244138+00:00",
-  "LastUpdate_Ratings": "2024-01-02T20:59:30.4714504+00:00",
-  "LastUpdate_Achievements": "2024-01-02T21:03:57.1997009+00:00"
+  "LastUpdate_Ratings": "2024-01-02T21:59:16.9189695+00:00",
+  "LastUpdate_Achievements": "2024-01-02T22:03:59.9379289+00:00"
 }

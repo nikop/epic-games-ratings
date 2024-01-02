@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -18,7 +18,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1083,
+  "EOS_Progressed": 1084,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 0,
@@ -3583,6 +3583,11 @@
       "Time": "2024-01-02T21:09:39.0054459+00:00",
       "NumProgressed": 1083,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-02T22:09:40.6251433+00:00",
+      "NumProgressed": 1084,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -3595,7 +3600,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 1083
+      "UsersEstimate": 1084
     },
     {
       "ID": "achievement_10",
@@ -3635,7 +3640,7 @@
       "Name": "Fusion Conjuror",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "achievement_15",
@@ -3643,7 +3648,7 @@
       "Name": "Memory Rouser",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "achievement_16",
@@ -3673,9 +3678,9 @@
       "ID": "achievement_19",
       "SetID": "2cpn27e",
       "Name": "Counter Specialist",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 357
+      "UsersEstimate": 347
     },
     {
       "ID": "achievement_2",
@@ -3699,7 +3704,7 @@
       "Name": "Left Arm Leverager",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "achievement_22",
@@ -3731,7 +3736,7 @@
       "Name": "Volatile Vocation",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "achievement_26",
@@ -3779,7 +3784,7 @@
       "Name": "Tender Touch",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "achievement_31",
@@ -3795,7 +3800,7 @@
       "Name": "Style Seeker",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "achievement_33",
@@ -3819,7 +3824,7 @@
       "Name": "Unrivaled in Arms",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "achievement_36",
@@ -3835,7 +3840,7 @@
       "Name": "Hidden History",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "achievement_38",
@@ -3859,7 +3864,7 @@
       "Name": "Axer of Auspice",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "achievement_40",
@@ -3875,7 +3880,7 @@
       "Name": "Tsukumo Whisperer",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "achievement_42",
@@ -3883,7 +3888,7 @@
       "Name": "Quintessence of Form",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "achievement_43",
@@ -3899,7 +3904,7 @@
       "Name": "Artful Assister",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "achievement_45",
@@ -3923,7 +3928,7 @@
       "Name": "Threaded Harmony",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "achievement_48",
@@ -3955,7 +3960,7 @@
       "Name": "Budding Conjuror",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "achievement_8",
@@ -3963,7 +3968,7 @@
       "Name": "Expert Conjuror",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "achievement_9",
@@ -3978,13 +3983,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 1083,
+      "Progressed": 1084,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-02T21:09:39.0054455+00:00",
+  "LastChanged_Achievements": "2024-01-02T22:09:40.6251431+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:22.7723621+00:00",
-  "LastUpdate_Ratings": "2024-01-02T21:00:25.5147956+00:00",
-  "LastUpdate_Achievements": "2024-01-02T21:09:39.0055063+00:00"
+  "LastUpdate_Ratings": "2024-01-02T22:00:07.4098748+00:00",
+  "LastUpdate_Achievements": "2024-01-02T22:09:40.6252027+00:00"
 }

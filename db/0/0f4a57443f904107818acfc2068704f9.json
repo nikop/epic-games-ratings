@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 317,
   "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1220,
+  "EOS_Progressed": 1222,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3057,6 +3057,11 @@
       "Time": "2024-01-02T21:08:40.1363316+00:00",
       "NumProgressed": 1220,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-02T22:08:46.4623854+00:00",
+      "NumProgressed": 1222,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -3077,7 +3082,7 @@
       "Name": "Territorial",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "Capture100VictoryPoints",
@@ -3101,7 +3106,7 @@
       "Name": "Liberator",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "CompleteCampaignVeteran",
@@ -3125,7 +3130,7 @@
       "Name": "Pathfinder",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "CompleteChapter10",
@@ -3141,7 +3146,7 @@
       "Name": "The Artefact is Mine",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "CompleteChapter12",
@@ -3189,7 +3194,7 @@
       "Name": "Fool\u0027s Errand",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "CompleteChapter17NoIdenDeath",
@@ -3205,7 +3210,7 @@
       "Name": "The Might of Sigmar\u0027s Warriors",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "CompleteChapter2",
@@ -3213,15 +3218,15 @@
       "Name": "Met the Enemy",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "CompleteChapter3",
       "SetID": "52ail55",
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 488
+      "UsersEstimate": 501
     },
     {
       "ID": "CompleteChapter4",
@@ -3229,7 +3234,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "CompleteChapter5",
@@ -3237,7 +3242,7 @@
       "Name": "Breathing Easy",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "CompleteChapter6",
@@ -3317,7 +3322,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "Win100OnlineMatched",
@@ -3364,14 +3369,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 1220,
+      "Progressed": 1222,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2024-01-02T21:08:40.1363312+00:00",
+  "LastChanged_Achievements": "2024-01-02T22:08:46.4623852+00:00",
   "LastUpdate_AppInfo": "2023-12-29T09:57:13.5043463+00:00",
-  "LastUpdate_Ratings": "2024-01-02T20:59:42.8483395+00:00",
-  "LastUpdate_Achievements": "2024-01-02T21:08:40.136396+00:00"
+  "LastUpdate_Ratings": "2024-01-02T21:59:28.0833768+00:00",
+  "LastUpdate_Achievements": "2024-01-02T22:08:46.4624295+00:00"
 }

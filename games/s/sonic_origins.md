@@ -8,8 +8,8 @@ Number of Ratings: 154  (23.09.2022)
 | ---- | ---------- | ----- |
 | Welcome to Sonic the Hedgehog | 93.00% | ~626 |
 | Newbie Hero | 81.00% | ~545 |
+| Welcome to Sonic CD | 71.00% | ~478 |
 | Welcome to Sonic 3 & Knuckles | 71.00% | ~478 |
-| Welcome to Sonic CD | 70.00% | ~471 |
 | Welcome to Sonic the Hedgehog 2 | 69.00% | ~464 |
 | Ring Collector | 66.00% | ~444 |
 | Time Traveler | 65.00% | ~437 |
@@ -219,8 +219,8 @@ Completed: 48 (7.13%) (Ranked 60)
 | 2024-01-02 | 673 | 48 |
 ## Awards
 Max (Great Boss Battles): 131  (Ranked 338)  
-Sum: 131 (Ranked 445)  
-Diff (max vs sum): -107  
+Sum: 131 (Ranked 444)  
+Diff (max vs sum): -106  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 131 |

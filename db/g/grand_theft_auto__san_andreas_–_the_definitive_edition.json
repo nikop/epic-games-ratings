@@ -2,7 +2,7 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 542,
+  "Ranking_Rating": 522,
   "Ranking_Popularity": 457,
   "Ranking_PopularitySum": 373,
   "Ranking_EOS_Progress": 157,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.54,
+  "Rating": 4.55,
   "RatingHistory": [
     {
       "Time": "2023-02-21T07:58:25.3551608+00:00",
@@ -2105,6 +2105,12 @@
       "Rating": 4.54,
       "NumberOfAwards": 324,
       "NumberOfAwardsMax": 49
+    },
+    {
+      "Time": "2024-01-02T21:57:30.6005375+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 324,
+      "NumberOfAwardsMax": 49
     }
   ],
   "ReviewsDisabled": false,
@@ -2173,9 +2179,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 18086,
+  "EOS_Progressed": 18089,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 1104,
+  "EOS_NewPlayers": 1097,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -18753,6 +18759,11 @@
       "Time": "2024-01-02T21:10:14.5428396+00:00",
       "NumProgressed": 18086,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2024-01-02T22:10:13.6331329+00:00",
+      "NumProgressed": 18089,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 35,
@@ -18764,7 +18775,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 14650
+      "UsersEstimate": 14652
     },
     {
       "ID": "ACH02",
@@ -18812,7 +18823,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3436
+      "UsersEstimate": 3437
     },
     {
       "ID": "ACH08",
@@ -18820,7 +18831,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 9043
+      "UsersEstimate": 9044
     },
     {
       "ID": "ACH09",
@@ -18860,7 +18871,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 3255
+      "UsersEstimate": 3256
     },
     {
       "ID": "ACH14",
@@ -18876,7 +18887,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "ACH16",
@@ -18956,7 +18967,7 @@
       "Name": "What are the Odds",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "ACH26",
@@ -19043,16 +19054,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 18086,
+      "Progressed": 18089,
       "Completed": 70
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2024-01-02T17:57:48.4432131+00:00",
-  "LastChanged_Achievements": "2024-01-02T21:10:14.5428394+00:00",
+  "LastChanged": "2024-01-02T21:57:30.6005372+00:00",
+  "LastChanged_Achievements": "2024-01-02T22:10:13.6331326+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.8114387+00:00",
-  "LastUpdate_Ratings": "2024-01-02T20:57:26.7890427+00:00",
-  "LastUpdate_Achievements": "2024-01-02T21:10:14.5429381+00:00"
+  "LastUpdate_Ratings": "2024-01-02T21:57:30.6005378+00:00",
+  "LastUpdate_Achievements": "2024-01-02T22:10:13.6332122+00:00"
 }

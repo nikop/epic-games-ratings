@@ -29,22 +29,22 @@
 | A new way | 9.00% | ~23 |
 | Breaking free | 9.00% | ~23 |
 | True Reflection | 7.00% | ~18 |
+| Casting Finished | 6.00% | ~15 |
 | Heavy Burden | 6.00% | ~15 |
 | Instinct of self-preservation | 6.00% | ~15 |
 | Fisherman | 6.00% | ~15 |
-| Casting Finished | 5.00% | ~13 |
 | Something to think about | 4.00% | ~10 |
 | I remember It Like Was Yesterday | 4.00% | ~10 |
 | Immortalized in my heart | 4.00% | ~10 |
 | The Perfect Storm | 4.00% | ~10 |
 | We Are Not Alone | 3.00% | ~8 |
 | Dark correspondence | 3.00% | ~8 |
+| Se7en Seas | 3.00% | ~8 |
 | Body of Work | 2.00% | ~5 |
 | It was worth a try | 2.00% | ~5 |
 | Full Scoop | 2.00% | ~5 |
 | In One Take | 2.00% | ~5 |
 | Preferred Parent | 2.00% | ~5 |
-| Se7en Seas | 2.00% | ~5 |
 | A Mosaic of Misery | 2.00% | ~5 |
 | The Big Picture | 1.00% | ~3 |
 | Sword of the Serpent | 1.00% | ~3 |

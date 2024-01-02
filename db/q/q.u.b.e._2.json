@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
@@ -587,9 +587,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 46181,
+  "EOS_Progressed": 46183,
   "EOS_Completed": 234,
-  "EOS_NewPlayers": 956,
+  "EOS_NewPlayers": 949,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -12807,6 +12807,11 @@
       "Time": "2024-01-02T21:09:36.2624014+00:00",
       "NumProgressed": 46181,
       "NumCompleted": 234
+    },
+    {
+      "Time": "2024-01-02T22:09:38.1167046+00:00",
+      "NumProgressed": 46183,
+      "NumCompleted": 234
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -12835,7 +12840,7 @@
       "Name": "Green Cube Killer",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 9236
+      "UsersEstimate": 9237
     },
     {
       "ID": "ACH_DLC1ALLCOLLECTABLES",
@@ -12979,7 +12984,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 24014
+      "UsersEstimate": 24015
     },
     {
       "ID": "ACH_PEAK",
@@ -13011,7 +13016,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 31403
+      "UsersEstimate": 31404
     },
     {
       "ID": "ACH_S4",
@@ -13019,7 +13024,7 @@
       "Name": "Power Glove",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 23090
+      "UsersEstimate": 23092
     },
     {
       "ID": "ACH_S5",
@@ -13027,7 +13032,7 @@
       "Name": "Cogs in the Machine",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 17087
+      "UsersEstimate": 17088
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -13035,7 +13040,7 @@
       "Name": "Lost in Space",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 34636
+      "UsersEstimate": 34637
     },
     {
       "ID": "ACH_STATUE",
@@ -13043,22 +13048,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 19858
+      "UsersEstimate": 19859
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 46181,
+      "Progressed": 46183,
       "Completed": 234
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-12-17T06:58:25.2845688+00:00",
-  "LastChanged_Achievements": "2024-01-02T21:09:36.2624011+00:00",
+  "LastChanged_Achievements": "2024-01-02T22:09:38.1167044+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:18.3640051+00:00",
-  "LastUpdate_Ratings": "2024-01-02T20:59:51.6444286+00:00",
-  "LastUpdate_Achievements": "2024-01-02T21:09:36.2624721+00:00"
+  "LastUpdate_Ratings": "2024-01-02T21:59:34.0665761+00:00",
+  "LastUpdate_Achievements": "2024-01-02T22:09:38.1167887+00:00"
 }

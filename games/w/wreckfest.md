@@ -1,15 +1,15 @@
 # Wreckfest
 [Store](https://store.epicgames.com/en-US/p/wreckfest)  
 [View Rawdata](../../db/w/wreckfest.json)  
-Rating: 4.30 (Ranked 872)  
+Rating: 4.30 (Ranked 871)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Storm Warning | 67.00% | ~475 |
-| Highballer | 49.00% | ~347 |
+| Storm Warning | 67.00% | ~476 |
+| Highballer | 49.00% | ~348 |
 | Dirty Roller | 33.00% | ~234 |
 | Regional Juniors Champion | 32.00% | ~227 |
-| Wheeler Dealer | 25.00% | ~177 |
+| Wheeler Dealer | 25.00% | ~178 |
 | Look Mom, I Can Fly | 23.00% | ~163 |
 | National Amateurs Champion | 18.00% | ~128 |
 | Junk Collector | 15.00% | ~106 |
@@ -26,7 +26,7 @@ Rating: 4.30 (Ranked 872)
 | Human Lover | 0.60% | ~4 |
 | Rocketeer | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 709 (Ranked 312)  
+Progressed: 710 (Ranked 312)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -46,7 +46,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-30 | 579 | 0 |
 | 2023-12-31 | 626 | 0 |
 | 2024-01-01 | 670 | 0 |
-| 2024-01-02 | 709 | 0 |
+| 2024-01-02 | 710 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

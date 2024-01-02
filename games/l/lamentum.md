@@ -1,12 +1,12 @@
 # Lamentum
 [Store](https://store.epicgames.com/en-US/p/lamentum-962e3e)  
 [View Rawdata](../../db/l/lamentum.json)  
-Rating: 4.28 (Ranked 888)  
+Rating: 4.28 (Ranked 887)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The creature | 80.00% | ~274 |
-| Grau Hill | 76.00% | ~260 |
+| Grau Hill | 77.00% | ~263 |
 | A forgotten language | 69.00% | ~236 |
 | Lord Wesley | 35.00% | ~120 |
 | One step down | 27.00% | ~92 |

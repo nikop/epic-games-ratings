@@ -571,9 +571,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 46143,
+  "EOS_Progressed": 46148,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 831,
+  "EOS_NewPlayers": 828,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17401,6 +17401,11 @@
       "Time": "2024-01-02T21:05:43.5070543+00:00",
       "NumProgressed": 46143,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-02T22:05:38.4041323+00:00",
+      "NumProgressed": 46148,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -17442,9 +17447,9 @@
       "ID": "CHALLENGE_FIRST",
       "SetID": "6d0g7k8",
       "Name": "Through the Eyes of Another: Empath",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1846
+      "UsersEstimate": 2307
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -17460,7 +17465,7 @@
       "Name": "Attachments",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5537
+      "UsersEstimate": 5538
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -17564,7 +17569,7 @@
       "Name": "Tinkerer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3691
+      "UsersEstimate": 3692
     },
     {
       "ID": "CUFF_ATTACK",
@@ -17835,22 +17840,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 46143,
+      "Progressed": 46148,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 10980,
-      "Completed": 10980
+      "Progressed": 10985,
+      "Completed": 10985
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-02T14:03:32.6481765+00:00",
-  "LastChanged_Achievements": "2024-01-02T21:05:43.507054+00:00",
+  "LastChanged_Achievements": "2024-01-02T22:05:38.4041322+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:48.1998363+00:00",
-  "LastUpdate_Ratings": "2024-01-02T21:03:01.5759058+00:00",
-  "LastUpdate_Achievements": "2024-01-02T21:05:43.5071548+00:00"
+  "LastUpdate_Ratings": "2024-01-02T22:03:08.0035724+00:00",
+  "LastUpdate_Achievements": "2024-01-02T22:05:38.4042195+00:00"
 }

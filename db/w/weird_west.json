@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 541,
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 389,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 383,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -382,9 +382,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 2054,
+  "EOS_Progressed": 2055,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -3017,6 +3017,11 @@
       "Time": "2023-12-31T15:06:56.3610601+00:00",
       "NumProgressed": 2054,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-02T22:03:46.3459318+00:00",
+      "NumProgressed": 2055,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -3076,7 +3081,7 @@
       "Name": "Elusive Prey",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ACH_EXPLORER",
@@ -3260,7 +3265,7 @@
       "Name": "Off the Trail",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "ACH_OUT_ON_THE_EBB_TIDE",
@@ -3276,7 +3281,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1335
+      "UsersEstimate": 1336
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -3292,7 +3297,7 @@
       "Name": "Power Behind the Pulpit",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ACH_RAIN_OF_DEATH",
@@ -3324,7 +3329,7 @@
       "Name": "Self-Improvement",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1459
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -3332,7 +3337,7 @@
       "Name": "Something Wicked This Way Comes\u2026",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ACH_THATS_ALL_FOLKS",
@@ -3348,7 +3353,7 @@
       "Name": "There is Hope",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ACH_THE_GREAT_ESCAPE",
@@ -3356,7 +3361,7 @@
       "Name": "The Great Escape",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "ACH_THE_HARD_WAY",
@@ -3372,7 +3377,7 @@
       "Name": "The Philosopher\u2019s Stone",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "ACH_THIS_IS_SPARTA",
@@ -3404,7 +3409,7 @@
       "Name": "Unforgiven",
       "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 1828
+      "UsersEstimate": 1829
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -3412,7 +3417,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 1150
+      "UsersEstimate": 1151
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -3451,15 +3456,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 2054,
+      "Progressed": 2055,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2024-01-01T13:01:35.2225517+00:00",
-  "LastChanged_Achievements": "2024-01-02T21:03:41.9208589+00:00",
+  "LastChanged_Achievements": "2024-01-02T22:03:46.3459315+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.2708576+00:00",
-  "LastUpdate_Ratings": "2024-01-02T20:59:05.5060054+00:00",
-  "LastUpdate_Achievements": "2024-01-02T21:03:41.9209468+00:00"
+  "LastUpdate_Ratings": "2024-01-02T21:58:56.2046256+00:00",
+  "LastUpdate_Achievements": "2024-01-02T22:03:46.3459861+00:00"
 }

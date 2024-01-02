@@ -4,8 +4,8 @@
   "ProductSlug": "ash-of-gods-redemption-e0b97d",
   "Ranking_EOS_Progress": 497,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 312,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-10-11T09:00:00+00:00",
     "PcReleaseDate": "2018-03-22T23:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 92,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -694,9 +694,9 @@
       "ID": "achievement_meet_vay",
       "SetID": "bngbnfb",
       "Name": "The monk",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_most_dangerous_man",
@@ -861,8 +861,8 @@
   ],
   "FirstSeen": "2023-10-20T21:02:41.8286211+00:00",
   "FirstSeenAchievements": "2023-10-11T10:03:42.0552864+00:00",
-  "LastChanged_Achievements": "2024-01-02T21:09:30.5290006+00:00",
+  "LastChanged_Achievements": "2024-01-02T22:09:32.9055495+00:00",
   "LastUpdate_AppInfo": "2023-12-27T14:57:14.899745+00:00",
-  "LastUpdate_Ratings": "2024-01-02T20:57:43.0149785+00:00",
-  "LastUpdate_Achievements": "2024-01-02T21:09:30.5290361+00:00"
+  "LastUpdate_Ratings": "2024-01-02T21:57:44.4144986+00:00",
+  "LastUpdate_Achievements": "2024-01-02T22:09:32.9055806+00:00"
 }

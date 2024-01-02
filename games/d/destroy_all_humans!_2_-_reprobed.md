@@ -22,9 +22,9 @@ Number of Ratings: 90  (23.09.2022)
 | Perfect Probulator | 18.00% | ~52 |
 | Die Nasty | 18.00% | ~52 |
 | Transmitting From Sol-3 | 15.00% | ~44 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 11.00% | ~32 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 12.00% | ~35 |
+| Kaijuiced | 10.00% | ~29 |
 | Fly Me to the Moon Base | 9.00% | ~26 |
-| Kaijuiced | 9.00% | ~26 |
 | Dusted | 9.00% | ~26 |
 | Scuttled | 7.00% | ~20 |
 | Re-Return of the Clone of the Invasion II-2 | 7.00% | ~20 |

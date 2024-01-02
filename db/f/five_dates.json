@@ -4,7 +4,7 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1907,
+  "EOS_Progressed": 1908,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 303,
   "EOS_NewCompleters": 1,
@@ -3550,6 +3550,11 @@
       "Time": "2024-01-02T21:10:11.4611343+00:00",
       "NumProgressed": 1907,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-02T22:10:10.7590667+00:00",
+      "NumProgressed": 1908,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 15,
@@ -3561,7 +3566,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 1869
+      "UsersEstimate": 1870
     },
     {
       "ID": "booty_call",
@@ -3585,7 +3590,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 1831
+      "UsersEstimate": 1832
     },
     {
       "ID": "hold_my_beer",
@@ -3593,7 +3598,7 @@
       "Name": "Hold my Beer",
       "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 1163
+      "UsersEstimate": 1164
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -3601,7 +3606,7 @@
       "Name": "In Contempt of Duvet",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "interrogation",
@@ -3623,9 +3628,9 @@
       "ID": "not_alone",
       "SetID": "c4ipj3h",
       "Name": "Not Alone",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 400
+      "UsersEstimate": 420
     },
     {
       "ID": "nueva_beginnings",
@@ -3680,7 +3685,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 1907,
+      "Progressed": 1908,
       "Completed": 12
     }
   ],
@@ -3688,8 +3693,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2024-01-02T21:10:11.4611341+00:00",
+  "LastChanged_Achievements": "2024-01-02T22:10:10.7590664+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:27.9788979+00:00",
-  "LastUpdate_Ratings": "2024-01-02T21:00:28.6325095+00:00",
-  "LastUpdate_Achievements": "2024-01-02T21:10:11.4611581+00:00"
+  "LastUpdate_Ratings": "2024-01-02T22:00:10.1977523+00:00",
+  "LastUpdate_Achievements": "2024-01-02T22:10:10.7590993+00:00"
 }

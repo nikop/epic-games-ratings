@@ -2,12 +2,12 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed Ecto Edition",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 611,
+  "Ranking_Rating": 612,
   "Ranking_Popularity": 254,
   "Ranking_PopularitySum": 185,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3927,9 +3927,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33145,
+  "EOS_Progressed": 33150,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 388,
+  "EOS_NewPlayers": 391,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -24372,6 +24372,11 @@
       "Time": "2024-01-02T21:09:01.8698467+00:00",
       "NumProgressed": 33145,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-02T22:09:06.3374947+00:00",
+      "NumProgressed": 33150,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -24431,7 +24436,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1657
+      "UsersEstimate": 1658
     },
     {
       "ID": "Collector",
@@ -24463,7 +24468,7 @@
       "Name": "Diabolical",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "Discovery",
@@ -24511,7 +24516,7 @@
       "Name": "Fragile Panes",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "Fully_Upgraded",
@@ -24519,7 +24524,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1657
+      "UsersEstimate": 1658
     },
     {
       "ID": "GB_In_Training",
@@ -24559,7 +24564,7 @@
       "Name": "Liability",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "Line_Em_Up",
@@ -24639,7 +24644,7 @@
       "Name": "Rivalry",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "Seasoned",
@@ -24703,7 +24708,7 @@
       "Name": "Surprise!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "Swift_Removers",
@@ -24719,7 +24724,7 @@
       "Name": "Teamwork",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1657
+      "UsersEstimate": 1658
     },
     {
       "ID": "Terrifying",
@@ -24727,7 +24732,7 @@
       "Name": "Terrifying",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "Therapeutic",
@@ -24767,7 +24772,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1657
+      "UsersEstimate": 1658
     },
     {
       "ID": "Welcome_Crew",
@@ -24790,7 +24795,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33145,
+      "Progressed": 33150,
       "Completed": 71
     }
   ],
@@ -24798,8 +24803,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2024-01-02T09:58:49.6019984+00:00",
-  "LastChanged_Achievements": "2024-01-02T21:09:01.8698463+00:00",
+  "LastChanged_Achievements": "2024-01-02T22:09:06.3374945+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:23.250158+00:00",
-  "LastUpdate_Ratings": "2024-01-02T20:59:21.9123806+00:00",
-  "LastUpdate_Achievements": "2024-01-02T21:09:01.8699619+00:00"
+  "LastUpdate_Ratings": "2024-01-02T21:59:08.8138811+00:00",
+  "LastUpdate_Achievements": "2024-01-02T22:09:06.3376057+00:00"
 }

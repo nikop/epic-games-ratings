@@ -1,7 +1,7 @@
 # Frontier Hunter: Erza's Wheel of Fortune
 [Store](https://store.epicgames.com/en-US/p/frontier-hunter-erzas-wheel-of-fortune)  
 [View Rawdata](../../db/f/frontier_hunter__erza's_wheel_of_fortune.json)  
-Rating: 4.35 (Ranked 818)  
+Rating: 4.35 (Ranked 816)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -51,7 +51,7 @@ Rating: 4.35 (Ranked 818)
 | Giantess Challenge | 2.00% | ~14 |
 | Warden Challenge | 2.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 687 (Ranked 317)  
+Progressed: 687 (Ranked 318)  
 Completed: 3 (0.44%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |

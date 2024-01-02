@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 349,
   "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2208,9 +2208,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16089,
+  "EOS_Progressed": 16090,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18818,6 +18818,11 @@
       "Time": "2024-01-02T20:09:59.6725202+00:00",
       "NumProgressed": 16089,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-02T22:10:27.2459195+00:00",
+      "NumProgressed": 16090,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -19155,9 +19160,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_ABLE",
       "SetID": "7l38kb8",
       "Name": "Able",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 129
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AMBITIOUS",
@@ -19347,9 +19352,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_LEARNED",
       "SetID": "9201eeb",
       "Name": "Learned",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 129
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_LIBERATOR",
@@ -20675,9 +20680,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_PERSIA",
       "SetID": "7l38kb8",
       "Name": "Persian Paganism",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_ROME",
@@ -21115,9 +21120,9 @@
       "ID": "ACHIEVEMENT_SACRED_PROFANE_DEPOSE_TRIBE",
       "SetID": "9201eeb",
       "Name": "Deposed Tribe",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_DISSENT_ALL",
@@ -21692,21 +21697,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16089,
+      "Progressed": 16090,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16089,
+      "Progressed": 16090,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-29T16:02:55.9624641+00:00",
-  "LastChanged_Achievements": "2024-01-02T21:10:28.7400971+00:00",
+  "LastChanged_Achievements": "2024-01-02T22:10:27.2459193+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:24.5452657+00:00",
-  "LastUpdate_Ratings": "2024-01-02T20:57:37.3842116+00:00",
-  "LastUpdate_Achievements": "2024-01-02T21:10:28.7412337+00:00"
+  "LastUpdate_Ratings": "2024-01-02T21:57:39.5897188+00:00",
+  "LastUpdate_Achievements": "2024-01-02T22:10:27.2469629+00:00"
 }

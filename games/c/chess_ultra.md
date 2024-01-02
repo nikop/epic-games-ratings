@@ -1,27 +1,27 @@
 # Chess Ultra
 [Store](https://store.epicgames.com/en-US/p/chess-ultra-91bba3)  
 [View Rawdata](../../db/c/chess_ultra.json)  
-Rating: 4.31 (Ranked 863)  
+Rating: 4.31 (Ranked 862)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 71.00% | ~160,158 |
-| Doubled Pawn | 57.00% | ~128,578 |
-| Check | 56.00% | ~126,322 |
-| Absolute pin | 47.00% | ~106,020 |
-| Promotion | 31.00% | ~69,928 |
-| Checkmate | 30.00% | ~67,672 |
-| O-O | 24.00% | ~54,138 |
-| Spanish Bishop | 21.00% | ~47,371 |
-| Queen Sacrifice | 20.00% | ~45,115 |
-| Stalemate | 18.00% | ~40,604 |
-| O-O-O | 13.00% | ~29,325 |
-| Octopus | 13.00% | ~29,325 |
-| Stranger Danger | 12.00% | ~27,069 |
+| Chop Wood | 71.00% | ~160,164 |
+| Doubled Pawn | 57.00% | ~128,582 |
+| Check | 56.00% | ~126,326 |
+| Absolute pin | 47.00% | ~106,024 |
+| Promotion | 31.00% | ~69,931 |
+| Checkmate | 30.00% | ~67,675 |
+| O-O | 24.00% | ~54,140 |
+| Spanish Bishop | 21.00% | ~47,372 |
+| Queen Sacrifice | 20.00% | ~45,117 |
+| Stalemate | 18.00% | ~40,605 |
+| O-O-O | 13.00% | ~29,326 |
+| Octopus | 13.00% | ~29,326 |
+| Stranger Danger | 12.00% | ~27,070 |
 | En Passant | 9.00% | ~20,302 |
-| Double Check | 7.00% | ~15,790 |
-| Family Fork | 6.00% | ~13,534 |
-| Piece Collector | 6.00% | ~13,534 |
+| Double Check | 7.00% | ~15,791 |
+| Family Fork | 6.00% | ~13,535 |
+| Piece Collector | 6.00% | ~13,535 |
 | ELO | 5.00% | ~11,279 |
 | Friendly Fire | 4.00% | ~9,023 |
 | Underpromote | 4.00% | ~9,023 |
@@ -44,7 +44,7 @@ Rating: 4.31 (Ranked 863)
 | Tournament Master | 0.10% | ~226 |
 | Tournament Pro | 0.10% | ~226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,575 (Ranked 77)  
+Progressed: 225,583 (Ranked 77)  
 Completed: 2 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 2 (0.00%) (Ranked 390)
 | 2023-12-30 | 224,981 | 2 |
 | 2023-12-31 | 225,208 | 2 |
 | 2024-01-01 | 225,410 | 2 |
-| 2024-01-02 | 225,575 | 2 |
+| 2024-01-02 | 225,583 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

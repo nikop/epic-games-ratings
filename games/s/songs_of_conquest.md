@@ -6,8 +6,8 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 46.00% | ~433 |
-| Double Kill | 40.00% | ~376 |
+| Adept | 46.00% | ~434 |
+| Double Kill | 40.00% | ~377 |
 | Critical Hit | 22.00% | ~207 |
 | Veteran | 22.00% | ~207 |
 | Dressed For Success | 15.00% | ~141 |
@@ -17,7 +17,7 @@ Number of Ratings: 292  (23.09.2022)
 | Sorcerous Spree | 8.00% | ~75 |
 | Landlord Extraordinaire | 7.00% | ~66 |
 | Master | 7.00% | ~66 |
-| Whoops! | 6.00% | ~56 |
+| Whoops! | 6.00% | ~57 |
 | The Song of Stoutheart | 5.00% | ~47 |
 | Don't Touch My Stuff | 5.00% | ~47 |
 | Trojan Horse | 4.00% | ~38 |
@@ -33,7 +33,7 @@ Number of Ratings: 292  (23.09.2022)
 | Together For Her | 1.00% | ~9 |
 | Such A Fungi | 1.00% | ~9 |
 | Grand Master | 1.00% | ~9 |
-| In The Thick of It | 0.90% | ~8 |
+| In The Thick of It | 0.80% | ~8 |
 | Unlimited Power! | 0.50% | ~5 |
 | Get Over Here! | 0.50% | ~5 |
 | Death To Diplomacy | 0.40% | ~4 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 941 (Ranked 291)  
+Progressed: 943 (Ranked 291)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-30 | 871 | 0 |
 | 2023-12-31 | 895 | 0 |
 | 2024-01-01 | 923 | 0 |
-| 2024-01-02 | 941 | 0 |
+| 2024-01-02 | 943 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 29  (Ranked 523)  
 Sum: 251 (Ranked 399)  

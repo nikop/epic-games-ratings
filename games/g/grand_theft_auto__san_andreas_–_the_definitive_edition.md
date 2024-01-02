@@ -1,15 +1,15 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.54 (Ranked 542)  
+Rating: 4.55 (Ranked 522)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~14,650 |
-| Pay 'n' Spray | 50.00% | ~9,043 |
+| Getting Started | 81.00% | ~14,652 |
+| Pay 'n' Spray | 50.00% | ~9,044 |
 | All Dressed Up for San Fierro | 25.00% | ~4,522 |
-| The American Dream | 19.00% | ~3,436 |
-| School's Out | 18.00% | ~3,255 |
+| The American Dream | 19.00% | ~3,437 |
+| School's Out | 18.00% | ~3,256 |
 | Smooth Moves | 17.00% | ~3,075 |
 | Today Was a Good Day | 15.00% | ~2,713 |
 | What happens in Las Venturas... | 14.00% | ~2,532 |
@@ -20,8 +20,8 @@ Rating: 4.54 (Ranked 542)
 | The End of the Line | 7.00% | ~1,266 |
 | Saviour | 6.00% | ~1,085 |
 | Rescue a Kitten Too? | 5.00% | ~904 |
-| They Can’t Stop All of Us | 4.00% | ~723 |
-| What are the Odds | 4.00% | ~723 |
+| They Can’t Stop All of Us | 4.00% | ~724 |
+| What are the Odds | 4.00% | ~724 |
 | Bike or Biker | 3.00% | ~543 |
 | What the City Needs | 3.00% | ~543 |
 | A Legitimate Business | 2.00% | ~362 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 542)
 | ...Here we go again | 0.50% | ~90 |
 | I Ain't No Buster | 0.40% | ~72 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,086 (Ranked 157)  
+Progressed: 18,089 (Ranked 157)  
 Completed: 70 (0.39%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 70 (0.39%) (Ranked 235)
 | 2023-12-30 | 17,622 | 66 |
 | 2023-12-31 | 17,792 | 67 |
 | 2024-01-01 | 17,956 | 69 |
-| 2024-01-02 | 18,086 | 70 |
+| 2024-01-02 | 18,089 | 70 |
 ## Awards
 Max (Relaxing): 49  (Ranked 457)  
 Sum: 324 (Ranked 373)  
@@ -536,4 +536,4 @@ Diff (max vs sum): 84
 | 2023-12-30 | 4.55 | 557 | 866 |
 | 2023-12-31 | 4.55 | 557 | 871 |
 | 2024-01-01 | 4.55 | 49 | 320 |
-| 2024-01-02 | 4.54 | 49 | 324 |
+| 2024-01-02 | 4.55 | 49 | 324 |

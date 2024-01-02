@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 327,
   "Ranking_EOS_NewPlayers": 243,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -409,7 +409,7 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1585,
+  "EOS_Progressed": 1586,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
@@ -4074,6 +4074,11 @@
       "Time": "2024-01-02T19:11:11.4281474+00:00",
       "NumProgressed": 1585,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-02T22:10:14.8255289+00:00",
+      "NumProgressed": 1586,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4141,7 +4146,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1569
+      "UsersEstimate": 1570
     },
     {
       "ID": "EXPERT_1",
@@ -4173,7 +4178,7 @@
       "Name": "Grave Robber",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "HEAD_BURST_1",
@@ -4181,7 +4186,7 @@
       "Name": "Head Burst",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "INDY_1",
@@ -4357,7 +4362,7 @@
       "Name": "Wanderer",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "WISHMASTER_1",
@@ -4372,15 +4377,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1585,
+      "Progressed": 1586,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-12-27T01:41:52.1948259+00:00",
-  "LastChanged_Achievements": "2024-01-02T21:10:15.8904251+00:00",
+  "LastChanged_Achievements": "2024-01-02T22:10:14.8255288+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.8702318+00:00",
-  "LastUpdate_Ratings": "2024-01-02T21:02:50.1763618+00:00",
-  "LastUpdate_Achievements": "2024-01-02T21:10:15.8904665+00:00"
+  "LastUpdate_Ratings": "2024-01-02T22:02:58.186953+00:00",
+  "LastUpdate_Achievements": "2024-01-02T22:10:14.8255627+00:00"
 }

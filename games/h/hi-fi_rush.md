@@ -5,32 +5,32 @@ Rating: 4.85 (Ranked 40)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 52.00% | ~7,684 |
-| Feeling the beat! | 52.00% | ~7,684 |
-| You can pet the cat! | 47.00% | ~6,945 |
-| Who put gears in there? | 38.00% | ~5,615 |
-| Cream of the Crop | 33.00% | ~4,876 |
-| Thanks for the free chip, Peppermint! | 32.00% | ~4,729 |
+| Start with a bang! | 52.00% | ~7,686 |
+| Feeling the beat! | 52.00% | ~7,686 |
+| You can pet the cat! | 47.00% | ~6,947 |
+| Who put gears in there? | 38.00% | ~5,616 |
+| Cream of the Crop | 33.00% | ~4,877 |
+| Thanks for the free chip, Peppermint! | 32.00% | ~4,730 |
 | You got this, Peppermint? | 28.00% | ~4,138 |
-| Perfect Parry | 26.00% | ~3,842 |
-| Alright, that felt AWESOME! | 25.00% | ~3,694 |
-| I play my own way! | 22.00% | ~3,251 |
-| This will cost you big time | 20.00% | ~2,955 |
-| Uh, they were broken when I got here | 20.00% | ~2,955 |
+| Perfect Parry | 26.00% | ~3,843 |
+| Alright, that felt AWESOME! | 25.00% | ~3,695 |
+| I play my own way! | 22.00% | ~3,252 |
+| This will cost you big time | 20.00% | ~2,956 |
+| Uh, they were broken when I got here | 20.00% | ~2,956 |
 | Z-shielding's got nothing on us! | 18.00% | ~2,660 |
 | Kissing the sky! | 18.00% | ~2,660 |
-| Does that say weakpoint? | 16.00% | ~2,364 |
+| Does that say weakpoint? | 16.00% | ~2,365 |
 | Whoa! There's ANOTHER health bar!? | 15.00% | ~2,217 |
 | The Negotiator | 14.00% | ~2,069 |
 | You must like calling me in, Chai | 13.00% | ~1,921 |
-| I look cool. But I can look COOLER. | 12.00% | ~1,773 |
-| Headliner | 11.00% | ~1,625 |
-| Out in a puff of smoke | 11.00% | ~1,625 |
-| Perfecter Parry-er! | 11.00% | ~1,625 |
+| I look cool. But I can look COOLER. | 12.00% | ~1,774 |
+| Headliner | 11.00% | ~1,626 |
+| Out in a puff of smoke | 11.00% | ~1,626 |
+| Perfecter Parry-er! | 11.00% | ~1,626 |
 | Time to pay up! | 10.00% | ~1,478 |
 | Who's the boss now? | 10.00% | ~1,478 |
 | I have to read these things? | 10.00% | ~1,478 |
-| There's such a thing as TOO helpful | 7.00% | ~1,034 |
+| There's such a thing as TOO helpful | 7.00% | ~1,035 |
 | NOW we got a kickass hideout! | 7.00% | ~931 |
 | Well that was a rush! | 6.00% | ~887 |
 | That's a lot of junk metal… | 6.00% | ~887 |
@@ -77,7 +77,7 @@ Rating: 4.85 (Ranked 40)
 | Voices from within | 0.10% | ~13 |
 | Low budget finish | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,777 (Ranked 170)  
+Progressed: 14,780 (Ranked 171)  
 Completed: 8 (0.05%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 8 (0.05%) (Ranked 333)
 | 2023-12-30 | 13,741 | 8 |
 | 2023-12-31 | 14,116 | 8 |
 | 2024-01-01 | 14,485 | 8 |
-| 2024-01-02 | 14,777 | 8 |
+| 2024-01-02 | 14,780 | 8 |
 ## Awards
 Max (Great Boss Battles): 26  (Ranked 540)  
 Sum: 26 (Ranked 551)  

@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 5.00% | ~37,608 |
-| The Assault | 4.00% | ~30,086 |
-| Life is your teacher | 4.00% | ~30,086 |
-| Lightning Hands | 4.00% | ~30,086 |
+| The Old Grandmaster | 5.00% | ~37,609 |
+| The Assault | 4.00% | ~30,087 |
+| Life is your teacher | 4.00% | ~30,087 |
+| Lightning Hands | 4.00% | ~30,087 |
 | The Hateful Pole Fighter | 2.00% | ~15,043 |
 | A Lady's Blood in the Snow | 2.00% | ~15,043 |
 | Kill Nil | 2.00% | ~15,043 |
@@ -30,7 +30,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kung-Fu Tussle | 1.00% | ~7,522 |
 | Take damage to save time | 1.00% | ~7,522 |
 | Project Arena | 1.00% | ~615 |
-| Dance of the Praying Mantis | 0.90% | ~6,769 |
+| Dance of the Praying Mantis | 0.90% | ~6,770 |
 | Fight the way you practice | 0.80% | ~492 |
 | Muk Yan Master | 0.60% | ~4,513 |
 | Detective Story | 0.60% | ~4,513 |
@@ -44,11 +44,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Prodigal Child | 0.40% | ~3,009 |
 | The 36th Chamber of Kung-Fu | 0.40% | ~3,009 |
 | The best strikes are the ones we avoid | 0.40% | ~246 |
-| Drunken Fighter | 0.30% | ~2,256 |
-| Martial Artist | 0.30% | ~2,256 |
-| Knowledge Greed | 0.30% | ~2,256 |
-| The Pit Protector | 0.30% | ~2,256 |
-| Come Snap With Me | 0.30% | ~2,256 |
+| Drunken Fighter | 0.30% | ~2,257 |
+| Martial Artist | 0.30% | ~2,257 |
+| Knowledge Greed | 0.30% | ~2,257 |
+| The Pit Protector | 0.30% | ~2,257 |
+| Come Snap With Me | 0.30% | ~2,257 |
 | Deadly Venom | 0.30% | ~184 |
 | Healing Memory | 0.20% | ~1,504 |
 | Master of the Phoenix Eye Fist | 0.20% | ~1,504 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~61 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 752,155 (Ranked 24)  
+Progressed: 752,172 (Ranked 24)  
 Completed: 12,971 (1.72%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 12,971 (1.72%) (Ranked 141)
 | 2023-12-30 | 749,350 | 12,969 |
 | 2023-12-31 | 750,399 | 12,971 |
 | 2024-01-01 | 751,425 | 12,971 |
-| 2024-01-02 | 752,155 | 12,971 |
+| 2024-01-02 | 752,172 | 12,971 |
 ## Awards
 Max (Great Boss Battles): 7,079  (Ranked 55)  
 Sum: 11,978 (Ranked 87)  

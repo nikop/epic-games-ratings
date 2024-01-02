@@ -4,11 +4,11 @@
   "ProductSlug": "thems-fightin-herds",
   "Ranking_Rating": 445,
   "Ranking_Popularity": 529,
-  "Ranking_PopularitySum": 508,
+  "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -317,10 +317,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 48,
       "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2024-01-02T21:59:02.7368644+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 49,
+      "NumberOfAwardsMax": 28
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 48,
+  "NumberOfAwards": 49,
   "NumberOfAwardsMax": 28,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -334,10 +340,10 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 20
+      "Count": 21
     }
   ],
-  "EOS_Progressed": 234787,
+  "EOS_Progressed": 234790,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 488,
   "EOS_NewCompleters": 0,
@@ -26527,6 +26533,11 @@
       "Time": "2024-01-02T21:09:36.5694446+00:00",
       "NumProgressed": 234787,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-02T22:09:38.474561+00:00",
+      "NumProgressed": 234790,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 28,
@@ -26602,7 +26613,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 84523
+      "UsersEstimate": 84524
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -26682,7 +26693,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 79828
+      "UsersEstimate": 79829
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -26698,7 +26709,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 51653
+      "UsersEstimate": 51654
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -26738,7 +26749,7 @@
       "Name": "Makin\u0027 Bacon",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 9391
+      "UsersEstimate": 9392
     },
     {
       "ID": "WIN_1_ONLINE_MATCH",
@@ -26761,16 +26772,16 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 234787,
+      "Progressed": 234790,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-12-19T18:57:06.8658934+00:00",
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
-  "LastChanged": "2023-12-30T14:57:12.7393398+00:00",
-  "LastChanged_Achievements": "2024-01-02T21:09:36.5694443+00:00",
+  "LastChanged": "2024-01-02T21:59:02.7368642+00:00",
+  "LastChanged_Achievements": "2024-01-02T22:09:38.4745608+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:51.1279895+00:00",
-  "LastUpdate_Ratings": "2024-01-02T20:59:13.9321383+00:00",
-  "LastUpdate_Achievements": "2024-01-02T21:09:36.5695882+00:00"
+  "LastUpdate_Ratings": "2024-01-02T21:59:02.7368647+00:00",
+  "LastUpdate_Achievements": "2024-01-02T22:09:38.474705+00:00"
 }

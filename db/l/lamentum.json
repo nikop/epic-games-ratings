@@ -2,7 +2,7 @@
   "ID": "ba50f06379bd4ae18bad48d1b2f950ac",
   "Name": "Lamentum",
   "ProductSlug": "lamentum-962e3e",
-  "Ranking_Rating": 888,
+  "Ranking_Rating": 887,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 378,
@@ -544,9 +544,9 @@
       "ID": "achievement_09",
       "SetID": "7881h0d",
       "Name": "Grau Hill",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 263
     },
     {
       "ID": "achievement_10",
@@ -633,8 +633,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-12-19T15:00:52.3248594+00:00",
-  "LastChanged_Achievements": "2024-01-02T21:06:10.1792313+00:00",
+  "LastChanged_Achievements": "2024-01-02T22:06:03.1484948+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:31.5419716+00:00",
-  "LastUpdate_Ratings": "2024-01-02T21:00:27.7963798+00:00",
-  "LastUpdate_Achievements": "2024-01-02T21:06:10.1792453+00:00"
+  "LastUpdate_Ratings": "2024-01-02T22:00:09.4421711+00:00",
+  "LastUpdate_Achievements": "2024-01-02T22:06:03.1485149+00:00"
 }

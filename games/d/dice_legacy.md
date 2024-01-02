@@ -1,7 +1,7 @@
 # Dice Legacy
 [Store](https://store.epicgames.com/en-US/p/dice-legacy)  
 [View Rawdata](../../db/d/dice_legacy.json)  
-Rating: 4.29 (Ranked 878)  
+Rating: 4.29 (Ranked 877)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -12,11 +12,11 @@ Rating: 4.29 (Ranked 878)
 | Burn and Pillage | 7.00% | ~90 |
 | Hear me out | 7.00% | ~90 |
 | Listening to the crowd | 7.00% | ~90 |
-| The Penitent Ones | 5.00% | ~64 |
-| Greedy | 5.00% | ~64 |
-| Hidden Secrets | 5.00% | ~64 |
-| The Stranded King | 5.00% | ~64 |
-| Accepting the Prophecy | 5.00% | ~64 |
+| The Penitent Ones | 5.00% | ~65 |
+| Greedy | 5.00% | ~65 |
+| Hidden Secrets | 5.00% | ~65 |
+| The Stranded King | 5.00% | ~65 |
+| Accepting the Prophecy | 5.00% | ~65 |
 | Just Chilling | 4.00% | ~52 |
 | Ascended | 4.00% | ~52 |
 | Incredible Strength | 4.00% | ~52 |
@@ -51,7 +51,7 @@ Rating: 4.29 (Ranked 878)
 | Purist | 0.00% | ~0 |
 | King of the Dice | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,290 (Ranked 274)  
+Progressed: 1,291 (Ranked 274)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,7 +260,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-30 | 1,282 | 0 |
 | 2023-12-31 | 1,284 | 0 |
 | 2024-01-01 | 1,287 | 0 |
-| 2024-01-02 | 1,290 | 0 |
+| 2024-01-02 | 1,291 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
