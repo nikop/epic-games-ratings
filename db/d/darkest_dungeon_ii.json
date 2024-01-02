@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10354,10 +10354,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 21349,
       "NumberOfAwardsMax": 7927
+    },
+    {
+      "Time": "2024-01-02T18:59:47.6253307+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21350,
+      "NumberOfAwardsMax": 7927
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21349,
+  "NumberOfAwards": 21350,
   "NumberOfAwardsMax": 7927,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10377,7 +10383,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1586
+      "Count": 1587
     },
     {
       "Text": "This game is Extremely Fun",
@@ -10434,9 +10440,9 @@
       "Count": 1076
     }
   ],
-  "EOS_Progressed": 131326,
+  "EOS_Progressed": 131334,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1300,
+  "EOS_NewPlayers": 1302,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38009,6 +38015,11 @@
       "Time": "2024-01-02T18:10:40.2748151+00:00",
       "NumProgressed": 131326,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-02T19:10:41.6180207+00:00",
+      "NumProgressed": 131334,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38028,7 +38039,7 @@
       "Name": "Serenity Now!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6566
+      "UsersEstimate": 6567
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -38180,7 +38191,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6566
+      "UsersEstimate": 6567
     },
     {
       "ID": "combat_kill_fanatics",
@@ -38236,7 +38247,7 @@
       "Name": "Catch and Decease",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6566
+      "UsersEstimate": 6567
     },
     {
       "ID": "combat_kill_librarian",
@@ -38244,7 +38255,7 @@
       "Name": "Overdue Notice",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6566
+      "UsersEstimate": 6567
     },
     {
       "ID": "combat_kill_pillagers",
@@ -38260,7 +38271,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6566
+      "UsersEstimate": 6567
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -38556,7 +38567,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "combat_kill_collector",
@@ -38651,21 +38662,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131326,
+      "Progressed": 131334,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6195,
+      "Progressed": 6203,
       "Completed": 820
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-02T16:59:50.3329673+00:00",
-  "LastChanged_Achievements": "2024-01-02T18:10:40.2748148+00:00",
+  "LastChanged": "2024-01-02T18:59:47.6253305+00:00",
+  "LastChanged_Achievements": "2024-01-02T19:10:41.6180204+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-02T17:59:56.437204+00:00",
-  "LastUpdate_Achievements": "2024-01-02T18:10:40.2749753+00:00"
+  "LastUpdate_Ratings": "2024-01-02T18:59:47.6253311+00:00",
+  "LastUpdate_Achievements": "2024-01-02T19:10:41.6181931+00:00"
 }

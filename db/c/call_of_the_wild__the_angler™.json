@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -1015,9 +1015,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 7880,
+  "EOS_Progressed": 7883,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 292,
+  "EOS_NewPlayers": 291,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13005,6 +13005,11 @@
       "Time": "2024-01-02T18:07:15.1491355+00:00",
       "NumProgressed": 7880,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T19:07:20.79792+00:00",
+      "NumProgressed": 7883,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -13032,7 +13037,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -13064,7 +13069,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1103
+      "UsersEstimate": 1104
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -13335,13 +13340,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7880,
+      "Progressed": 7883,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7252,
+      "Progressed": 7255,
       "Completed": 113
     }
   ],
@@ -13349,8 +13354,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-26T19:00:49.2434236+00:00",
-  "LastChanged_Achievements": "2024-01-02T18:07:15.1491352+00:00",
+  "LastChanged_Achievements": "2024-01-02T19:07:20.7979197+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:09.4029638+00:00",
-  "LastUpdate_Ratings": "2024-01-02T18:01:13.1580589+00:00",
-  "LastUpdate_Achievements": "2024-01-02T18:07:15.1492271+00:00"
+  "LastUpdate_Ratings": "2024-01-02T19:00:58.6126932+00:00",
+  "LastUpdate_Achievements": "2024-01-02T19:07:20.7979895+00:00"
 }

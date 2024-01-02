@@ -4,8 +4,8 @@
   "ProductSlug": "foreclosed",
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 394,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 385,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-08-12T13:00:00+00:00",
     "PcReleaseDate": "2021-08-12T13:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 136,
+  "EOS_Progressed": 137,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.21,
+  "EOS_Completed_Percentage": 2.19,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:36.3929113+00:00",
@@ -369,6 +369,11 @@
       "Time": "2024-01-02T18:05:59.309028+00:00",
       "NumProgressed": 136,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-02T19:06:14.9459333+00:00",
+      "NumProgressed": 137,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 24,
@@ -380,7 +385,7 @@
       "Name": "Full and Final Settlement",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "AutoBullets_0",
@@ -412,7 +417,7 @@
       "Name": "Unstoppable",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "EnemyDefeat_1",
@@ -428,23 +433,23 @@
       "Name": "Tough Decision",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "FirstAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Breaking Through",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 99
     },
     {
       "ID": "FirstSkillBuy",
       "SetID": "9e3d06k",
       "Name": "A.I. Training",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 64
     },
     {
       "ID": "GunUnlock",
@@ -474,9 +479,9 @@
       "ID": "KyklosPlan",
       "SetID": "9e3d06k",
       "Name": "The Red Herring",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 42
     },
     {
       "ID": "LiftEnemies_0",
@@ -506,9 +511,9 @@
       "ID": "SecondAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Silent Overload",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 85
     },
     {
       "ID": "SecretEnding",
@@ -530,9 +535,9 @@
       "ID": "StealthDefeat_1",
       "SetID": "9e3d06k",
       "Name": "Brain-hacker",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "StoryEnd",
@@ -540,7 +545,7 @@
       "Name": "One Click Away",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "TelekinesisThrow_0",
@@ -548,7 +553,7 @@
       "Name": "Mind Over Matter",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "TelekinesisThrow_1",
@@ -564,14 +569,14 @@
       "Name": "Telekinesis",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     }
   ],
   "AchievementSets": [
     {
       "ID": "9e3d06k",
       "IsBase": true,
-      "Progressed": 136,
+      "Progressed": 137,
       "Completed": 3
     }
   ],
@@ -579,8 +584,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
   "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
-  "LastChanged_Achievements": "2024-01-02T18:05:59.3090276+00:00",
+  "LastChanged_Achievements": "2024-01-02T19:06:14.9459329+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:54.8333074+00:00",
-  "LastUpdate_Ratings": "2024-01-02T18:00:21.981324+00:00",
-  "LastUpdate_Achievements": "2024-01-02T18:05:59.3090431+00:00"
+  "LastUpdate_Ratings": "2024-01-02T19:00:09.8863308+00:00",
+  "LastUpdate_Achievements": "2024-01-02T19:06:14.9459472+00:00"
 }

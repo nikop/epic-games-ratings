@@ -6,20 +6,20 @@ Number of Ratings: 48  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Plenty More to Go | 85.00% | ~670 |
-| All Bark, No Bite | 74.00% | ~583 |
-| Hopeful Hunter | 63.00% | ~496 |
+| Plenty More to Go | 85.00% | ~671 |
+| All Bark, No Bite | 74.00% | ~584 |
+| Hopeful Hunter | 63.00% | ~497 |
 | Amateur Adventurer | 61.00% | ~481 |
 | The Road to Recovery | 60.00% | ~473 |
-| Partners? | 58.00% | ~457 |
+| Partners? | 58.00% | ~458 |
 | Magical Mineral Golem | 52.00% | ~410 |
 | On Outlander Lane | 51.00% | ~402 |
-| First Time Fishing | 48.00% | ~378 |
-| A Girl About the Town | 47.00% | ~370 |
-| First Time Hunting | 46.00% | ~362 |
+| First Time Fishing | 48.00% | ~379 |
+| A Girl About the Town | 47.00% | ~371 |
+| First Time Hunting | 46.00% | ~363 |
 | Rune Wall Wreckage | 45.00% | ~355 |
 | ...And Your Tax Money | 44.00% | ~347 |
-| The Lords of the Snowpeak | 38.00% | ~299 |
+| The Lords of the Snowpeak | 38.00% | ~300 |
 | The Lava Mantor Wyrm | 34.00% | ~268 |
 | The Go-To Girl | 34.00% | ~268 |
 | Scavenger's Honor | 34.00% | ~268 |
@@ -28,18 +28,18 @@ Number of Ratings: 48  (23.09.2022)
 | One Mean Merc | 33.00% | ~260 |
 | Adept, for an Acting Mayor | 33.00% | ~260 |
 | Money, Money, Money | 33.00% | ~260 |
-| Rune Wall Master | 31.00% | ~244 |
+| Rune Wall Master | 31.00% | ~245 |
 | The Quarry...On Foot! | 29.00% | ~229 |
 | The Runebarrows...On Foot! | 27.00% | ~213 |
 | The Snowpeak...On Foot! | 25.00% | ~197 |
 | The Lava Ruins...On Foot! | 25.00% | ~197 |
 | Meat Master | 24.00% | ~189 |
 | Fishing Master | 23.00% | ~181 |
-| Armor Master | 22.00% | ~173 |
-| The Pride of the Town | 21.00% | ~165 |
+| Armor Master | 22.00% | ~174 |
+| The Pride of the Town | 21.00% | ~166 |
 | This Treasure I've Found | 19.00% | ~150 |
 | New Nevaeh's Number One Customer | 19.00% | ~150 |
-| Arms Master | 18.00% | ~142 |
+| Arms Master | 17.00% | ~134 |
 | Rune Scholar | 15.00% | ~118 |
 | No Treasure Left Behind | 12.00% | ~95 |
 | Sommelier | 11.00% | ~87 |
@@ -57,8 +57,8 @@ Number of Ratings: 48  (23.09.2022)
 | Full Force - Isha | 7.00% | ~55 |
 | Rising Champion | 6.00% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 788 (Ranked 305)  
-Completed: 60 (7.61%) (Ranked 55)  
+Progressed: 789 (Ranked 305)  
+Completed: 60 (7.60%) (Ranked 55)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -122,6 +122,7 @@ Completed: 60 (7.61%) (Ranked 55)
 | 2023-12-30 | 782 | 60 |
 | 2023-12-31 | 785 | 60 |
 | 2024-01-01 | 788 | 60 |
+| 2024-01-02 | 789 | 60 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

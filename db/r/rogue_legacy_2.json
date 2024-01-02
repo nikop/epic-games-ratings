@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 227,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1554,9 +1554,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 27516,
+  "EOS_Progressed": 27521,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 670,
+  "EOS_NewPlayers": 675,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -12774,6 +12774,11 @@
       "Time": "2024-01-02T18:11:03.3546869+00:00",
       "NumProgressed": 27516,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-02T19:11:05.1595947+00:00",
+      "NumProgressed": 27521,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -12913,7 +12918,7 @@
       "Name": "Harvest and Home",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "BossGardenAdvancedDefeated",
@@ -12945,7 +12950,7 @@
       "Name": "Poise and Poisons",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "BossTowerAdvancedDefeated",
@@ -13096,21 +13101,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 27516,
+      "Progressed": 27521,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 6446,
+      "Progressed": 6451,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2024-01-02T17:58:09.7764275+00:00",
-  "LastChanged_Achievements": "2024-01-02T18:11:03.3546862+00:00",
+  "LastChanged_Achievements": "2024-01-02T19:11:05.1595944+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.0569835+00:00",
-  "LastUpdate_Ratings": "2024-01-02T17:58:09.7764281+00:00",
-  "LastUpdate_Achievements": "2024-01-02T18:11:03.3547511+00:00"
+  "LastUpdate_Ratings": "2024-01-02T18:58:01.7019551+00:00",
+  "LastUpdate_Achievements": "2024-01-02T19:11:05.1596857+00:00"
 }

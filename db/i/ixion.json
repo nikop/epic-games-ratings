@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -329,9 +329,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3904,
+  "EOS_Progressed": 3908,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7709,6 +7709,11 @@
       "Time": "2024-01-02T18:08:16.6817985+00:00",
       "NumProgressed": 3904,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T19:08:21.893537+00:00",
+      "NumProgressed": 3908,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -7720,7 +7725,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1016
     },
     {
       "ID": "ACH_BASE_10",
@@ -7728,7 +7733,7 @@
       "Name": "Man\u0027s Best Friend",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "ACH_BASE_11",
@@ -7784,7 +7789,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1054
+      "UsersEstimate": 1055
     },
     {
       "ID": "ACH_BASE_19",
@@ -7808,7 +7813,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1249
+      "UsersEstimate": 1251
     },
     {
       "ID": "ACH_BASE_22",
@@ -7832,7 +7837,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "ACH_BASE_25",
@@ -7848,7 +7853,7 @@
       "Name": "Sightseeing",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "ACH_BASE_27",
@@ -7856,7 +7861,7 @@
       "Name": "A Hunk of Junk",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "ACH_BASE_28",
@@ -7888,7 +7893,7 @@
       "Name": "Exceeding Capacity",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "ACH_BASE_31",
@@ -7896,7 +7901,7 @@
       "Name": "Power Outage",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "ACH_BASE_32",
@@ -7928,7 +7933,7 @@
       "Name": "Breaking Protocol",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "ACH_BASE_36",
@@ -7944,7 +7949,7 @@
       "Name": "Necessary Enhancement",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "ACH_BASE_38",
@@ -8048,7 +8053,7 @@
       "Name": "Convenient Transport",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "ACH_BASE_52",
@@ -8072,7 +8077,7 @@
       "Name": "Please Make it Stop!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "ACH_BASE_57",
@@ -8152,7 +8157,7 @@
       "Name": "From the Past",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "ACH_BASE_8",
@@ -8175,13 +8180,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 2088,
+      "Progressed": 2092,
       "Completed": 10
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3904,
+      "Progressed": 3908,
       "Completed": 0
     }
   ],
@@ -8189,8 +8194,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2024-01-02T02:20:24.7743828+00:00",
-  "LastChanged_Achievements": "2024-01-02T18:08:16.6817979+00:00",
+  "LastChanged_Achievements": "2024-01-02T19:08:21.8935368+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:27.7465752+00:00",
-  "LastUpdate_Ratings": "2024-01-02T17:58:19.68511+00:00",
-  "LastUpdate_Achievements": "2024-01-02T18:08:16.6818707+00:00"
+  "LastUpdate_Ratings": "2024-01-02T18:58:11.1356432+00:00",
+  "LastUpdate_Achievements": "2024-01-02T19:08:21.8936098+00:00"
 }

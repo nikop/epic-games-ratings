@@ -3737,9 +3737,9 @@
       "Count": 338
     }
   ],
-  "EOS_Progressed": 19970,
+  "EOS_Progressed": 19973,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 651,
+  "EOS_NewPlayers": 649,
   "EOS_NewCompleters": -5,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -18152,6 +18152,11 @@
       "Time": "2024-01-02T18:05:46.1970488+00:00",
       "NumProgressed": 19970,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2024-01-02T19:06:01.8605395+00:00",
+      "NumProgressed": 19973,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -18260,7 +18265,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "WinImpossible",
@@ -18428,7 +18433,7 @@
       "Name": "Coral Forest",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "WinOnCursed",
@@ -18452,7 +18457,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "WinPrestige10",
@@ -18572,7 +18577,7 @@
       "Name": "Frosts",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "WinNearGreed",
@@ -18580,7 +18585,7 @@
       "Name": "Land of Greed",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "WinNearLibrary",
@@ -18604,7 +18609,7 @@
       "Name": "Ominous Presence",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "WinNearStorms",
@@ -18612,7 +18617,7 @@
       "Name": "Gathering Storm",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -18635,15 +18640,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19970,
+      "Progressed": 19973,
       "Completed": 33
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-02T10:58:23.8954365+00:00",
-  "LastChanged_Achievements": "2024-01-02T18:05:46.1970484+00:00",
+  "LastChanged_Achievements": "2024-01-02T19:06:01.8605391+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:03.5085053+00:00",
-  "LastUpdate_Ratings": "2024-01-02T17:59:16.3777151+00:00",
-  "LastUpdate_Achievements": "2024-01-02T18:05:46.1971571+00:00"
+  "LastUpdate_Ratings": "2024-01-02T18:59:08.0773758+00:00",
+  "LastUpdate_Achievements": "2024-01-02T19:06:01.8606314+00:00"
 }

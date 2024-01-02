@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 605,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 474,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-07-19T21:00:00+00:00",
     "PcReleaseDate": "2023-07-19T21:00:00+00:00",
@@ -300,9 +300,9 @@
       "ID": "hundred_passengers",
       "SetID": "5ia1dkp",
       "Name": "Full House",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "hundred_trains_active",
@@ -388,9 +388,9 @@
       "ID": "million_from_freight",
       "SetID": "5ia1dkp",
       "Name": "Cargo King",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "million_from_passengers",
@@ -571,8 +571,8 @@
   ],
   "FirstSeen": "2023-07-21T20:59:26.8070141+00:00",
   "FirstSeenAchievements": "2023-07-14T13:20:01.4168917+00:00",
-  "LastChanged_Achievements": "2024-01-02T18:04:35.361201+00:00",
+  "LastChanged_Achievements": "2024-01-02T19:04:51.4359094+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:23.8148514+00:00",
-  "LastUpdate_Ratings": "2024-01-02T18:03:21.6011517+00:00",
-  "LastUpdate_Achievements": "2024-01-02T18:04:35.3612292+00:00"
+  "LastUpdate_Ratings": "2024-01-02T19:03:38.1165119+00:00",
+  "LastUpdate_Achievements": "2024-01-02T19:04:51.4359466+00:00"
 }

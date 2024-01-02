@@ -7,13 +7,13 @@ Number of Ratings: 90  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rock of the Bay | 81.00% | ~234 |
-| Mash Machine | 74.00% | ~214 |
-| Ducks in a Row, Fish in a Barrel | 54.00% | ~156 |
+| Mash Machine | 75.00% | ~217 |
+| Ducks in a Row, Fish in a Barrel | 55.00% | ~159 |
 | Furon Fashion | 49.00% | ~142 |
-| Shop Til They Drop | 40.00% | ~116 |
+| Shop Til They Drop | 41.00% | ~118 |
 | Bodied Sattva | 38.00% | ~110 |
+| Cult Following | 35.00% | ~101 |
 | Earthly Pleasures | 35.00% | ~101 |
-| Cult Following | 34.00% | ~98 |
 | Lie Back and Think of Albion | 28.00% | ~81 |
 | Upgreatest | 26.00% | ~75 |
 | Pimp My Raid | 25.00% | ~72 |
@@ -28,7 +28,7 @@ Number of Ratings: 90  (23.09.2022)
 | Dusted | 9.00% | ~26 |
 | Scuttled | 7.00% | ~20 |
 | Re-Return of the Clone of the Invasion II-2 | 7.00% | ~20 |
-| Lobster Blisque | 5.00% | ~14 |
+| Lobster Blisque | 6.00% | ~17 |
 | Ultimate Smoothie | 4.00% | ~12 |
 | Yettisoned | 4.00% | ~12 |
 | Deincarnated | 3.00% | ~9 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.30% | ~1 |
 | Trans-Siberian Express | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 289 (Ranked 395)  
+Progressed: 289 (Ranked 396)  
 Completed: 1 (0.35%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |

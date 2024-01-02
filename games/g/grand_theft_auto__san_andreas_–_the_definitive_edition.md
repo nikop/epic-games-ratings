@@ -5,20 +5,20 @@ Rating: 4.54 (Ranked 542)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~14,623 |
-| Pay 'n' Spray | 50.00% | ~9,026 |
-| All Dressed Up for San Fierro | 25.00% | ~4,513 |
-| The American Dream | 19.00% | ~3,430 |
-| School's Out | 18.00% | ~3,250 |
-| Smooth Moves | 17.00% | ~3,069 |
-| Today Was a Good Day | 15.00% | ~2,708 |
-| What happens in Las Venturas... | 14.00% | ~2,527 |
-| Horror of the Santa Maria | 10.00% | ~1,805 |
-| Liberty City State of Mind | 9.00% | ~1,625 |
-| Original Gangster | 8.00% | ~1,444 |
+| Getting Started | 81.00% | ~14,630 |
+| Pay 'n' Spray | 50.00% | ~9,031 |
+| All Dressed Up for San Fierro | 25.00% | ~4,516 |
+| The American Dream | 19.00% | ~3,432 |
+| School's Out | 18.00% | ~3,251 |
+| Smooth Moves | 17.00% | ~3,071 |
+| Today Was a Good Day | 15.00% | ~2,709 |
+| What happens in Las Venturas... | 14.00% | ~2,529 |
+| Horror of the Santa Maria | 10.00% | ~1,806 |
+| Liberty City State of Mind | 9.00% | ~1,626 |
+| Original Gangster | 8.00% | ~1,445 |
 | With Extra Dip | 7.00% | ~1,264 |
 | The End of the Line | 7.00% | ~1,264 |
-| Saviour | 6.00% | ~1,083 |
+| Saviour | 6.00% | ~1,084 |
 | Rescue a Kitten Too? | 5.00% | ~903 |
 | They Can’t Stop All of Us | 4.00% | ~722 |
 | What are the Odds | 4.00% | ~722 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 542)
 | ...Here we go again | 0.50% | ~90 |
 | I Ain't No Buster | 0.40% | ~72 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,053 (Ranked 158)  
+Progressed: 18,062 (Ranked 158)  
 Completed: 70 (0.39%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 70 (0.39%) (Ranked 235)
 | 2023-12-30 | 17,622 | 66 |
 | 2023-12-31 | 17,792 | 67 |
 | 2024-01-01 | 17,956 | 69 |
-| 2024-01-02 | 18,053 | 70 |
+| 2024-01-02 | 18,062 | 70 |
 ## Awards
 Max (Relaxing): 49  (Ranked 457)  
 Sum: 324 (Ranked 373)  

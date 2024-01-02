@@ -4,8 +4,8 @@
   "ProductSlug": "bursthero-dd5a56",
   "Ranking_EOS_Progress": 569,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 288,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-12-29T00:00:00+00:00",
     "PcReleaseDate": "2023-05-14T15:00:00+00:00",
@@ -509,9 +509,9 @@
       "ID": "LEVEL_COMPLETE_1_0",
       "SetID": "1fek4an",
       "Name": "Boneyard",
-      "Percentage": 15,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "LEVEL_COMPLETE_1_12",
@@ -748,8 +748,8 @@
   ],
   "FirstSeen": "2023-12-29T13:57:03.3261861+00:00",
   "FirstSeenAchievements": "2023-12-16T10:03:32.9103598+00:00",
-  "LastChanged_Achievements": "2024-01-02T18:09:00.5855564+00:00",
+  "LastChanged_Achievements": "2024-01-02T19:09:04.7713112+00:00",
   "LastUpdate_AppInfo": "2023-12-27T12:59:42.9426347+00:00",
-  "LastUpdate_Ratings": "2024-01-02T18:00:36.6689089+00:00",
-  "LastUpdate_Achievements": "2024-01-02T18:09:00.585611+00:00"
+  "LastUpdate_Ratings": "2024-01-02T19:00:24.63623+00:00",
+  "LastUpdate_Achievements": "2024-01-02T19:09:04.7713871+00:00"
 }

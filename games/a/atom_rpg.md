@@ -6,19 +6,19 @@ Number of Ratings: 54  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 99.00% | ~1,567 |
-| One HIT wonder | 34.00% | ~538 |
+| Atom Agent | 99.00% | ~1,569 |
+| One HIT wonder | 34.00% | ~539 |
 | Wanderer | 32.00% | ~507 |
 | One shot, one kill | 26.00% | ~412 |
-| Traveler | 23.00% | ~364 |
+| Traveler | 23.00% | ~365 |
 | Grave Robber | 17.00% | ~269 |
 | Head Burst | 17.00% | ~269 |
-| Explorer | 16.00% | ~253 |
-| Double agent | 15.00% | ~237 |
-| Paranoia | 15.00% | ~237 |
-| Kraina Grzybow | 9.00% | ~142 |
-| Love Guru | 9.00% | ~142 |
-| Savant | 9.00% | ~142 |
+| Explorer | 16.00% | ~254 |
+| Double agent | 15.00% | ~238 |
+| Paranoia | 15.00% | ~238 |
+| Kraina Grzybow | 9.00% | ~143 |
+| Love Guru | 9.00% | ~143 |
+| Savant | 9.00% | ~143 |
 | Bustin' nuts | 8.00% | ~127 |
 | Not-so-private Eye | 8.00% | ~127 |
 | Superhuman | 8.00% | ~127 |
@@ -26,13 +26,13 @@ Number of Ratings: 54  (23.09.2022)
 | Protection racket | 5.00% | ~79 |
 | Secret room | 5.00% | ~79 |
 | Sacrifice | 4.00% | ~63 |
-| Indy | 3.00% | ~47 |
-| Wishmaster | 3.00% | ~47 |
+| Indy | 3.00% | ~48 |
+| Wishmaster | 3.00% | ~48 |
 | Career criminal | 2.00% | ~32 |
 | Neanderthal | 1.00% | ~16 |
 | Cosmic Horror | 1.00% | ~16 |
 | It was worth a shot | 0.80% | ~13 |
-| Ghostbuster | 0.60% | ~9 |
+| Ghostbuster | 0.60% | ~10 |
 | Cheeki Breeki | 0.40% | ~6 |
 | It's a classic! | 0.40% | ~6 |
 | Comrade Yogi | 0.40% | ~6 |
@@ -43,7 +43,7 @@ Number of Ratings: 54  (23.09.2022)
 | No Name, No Slogan | 0.10% | ~2 |
 | Pacifist | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,583 (Ranked 261)  
+Progressed: 1,585 (Ranked 260)  
 Completed: 1 (0.06%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 1 (0.06%) (Ranked 327)
 | 2023-12-30 | 1,555 | 1 |
 | 2023-12-31 | 1,566 | 1 |
 | 2024-01-01 | 1,574 | 1 |
-| 2024-01-02 | 1,583 | 1 |
+| 2024-01-02 | 1,585 | 1 |
 ## Awards
 Max (Character Customization): 52  (Ranked 441)  
 Sum: 52 (Ranked 498)  

@@ -4,8 +4,8 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 322,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
     "PcReleaseDate": "2021-10-05T15:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 270,
+  "EOS_Progressed": 272,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1086,6 +1086,11 @@
       "Time": "2024-01-01T20:04:31.2564606+00:00",
       "NumProgressed": 270,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T19:05:08.3569445+00:00",
+      "NumProgressed": 272,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -1329,7 +1334,7 @@
       "Name": "Conquered",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "Vanilla_DeputiesMaxedOut",
@@ -1649,7 +1654,7 @@
       "Name": "Press-ganged",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "Vanilla_Ratharnak",
@@ -1711,9 +1716,9 @@
       "ID": "Vanilla_SecondChance",
       "SetID": "27kik8p",
       "Name": "A Second Chance",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 152
     },
     {
       "ID": "Vanilla_SecretsBelow",
@@ -1888,7 +1893,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 270,
+      "Progressed": 272,
       "Completed": 0
     }
   ],
@@ -1896,8 +1901,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2024-01-02T18:04:52.5524748+00:00",
+  "LastChanged_Achievements": "2024-01-02T19:05:08.3569442+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:41.3005977+00:00",
-  "LastUpdate_Ratings": "2024-01-02T17:59:28.4037736+00:00",
-  "LastUpdate_Achievements": "2024-01-02T18:04:52.5525767+00:00"
+  "LastUpdate_Ratings": "2024-01-02T18:59:19.740262+00:00",
+  "LastUpdate_Achievements": "2024-01-02T19:05:08.3570361+00:00"
 }

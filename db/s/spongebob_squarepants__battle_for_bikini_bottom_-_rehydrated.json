@@ -5,10 +5,10 @@
   "Ranking_Rating": 321,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 526,
-  "Ranking_EOS_Progress": 325,
+  "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 180,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -329,10 +329,10 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 656,
+  "EOS_Progressed": 659,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 250,
-  "EOS_NewCompleters": 4,
+  "EOS_NewPlayers": 251,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
     {
@@ -1779,6 +1779,11 @@
       "Time": "2024-01-02T18:04:31.6371764+00:00",
       "NumProgressed": 656,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-02T19:04:47.6062196+00:00",
+      "NumProgressed": 659,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1831,7 +1836,7 @@
       "Name": "Uptown and Downtown",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_FD_GRAVEYARD",
@@ -1869,9 +1874,9 @@
       "ID": "ACH_JELLYFISH_JAM",
       "SetID": "biiejkc",
       "Name": "Jellyfish Jam",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 112
     },
     {
       "ID": "ACH_KELP_FOREST",
@@ -1887,7 +1892,7 @@
       "Name": "Keep it Rolling",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_PRAWN_BOSS",
@@ -1895,7 +1900,7 @@
       "Name": "Shrimp Catcher",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_ROBO_PATRICK_BOSS",
@@ -1927,15 +1932,15 @@
       "Name": "Hit Rock Bottom",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_SLEEPY_TIME",
       "SetID": "biiejkc",
       "Name": "Sleepy Time",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_SOCK_CONCERT",
@@ -1999,7 +2004,7 @@
       "Name": "Spatula Seeker",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -2015,15 +2020,15 @@
       "Name": "Squirrel Smasher",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_STAT_STAR_SMASHER",
       "SetID": "biiejkc",
       "Name": "Star Smasher",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_SURFS_UP",
@@ -2046,15 +2051,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 656,
+      "Progressed": 659,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-01T20:58:26.8279253+00:00",
-  "LastChanged_Achievements": "2024-01-02T18:04:31.637176+00:00",
+  "LastChanged_Achievements": "2024-01-02T19:04:47.6062192+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:11.8880921+00:00",
-  "LastUpdate_Ratings": "2024-01-02T18:00:07.2113175+00:00",
-  "LastUpdate_Achievements": "2024-01-02T18:04:31.6371973+00:00"
+  "LastUpdate_Ratings": "2024-01-02T18:59:57.180342+00:00",
+  "LastUpdate_Achievements": "2024-01-02T19:04:47.606247+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
   "Ranking_Rating": 233,
-  "Ranking_Popularity": 522,
+  "Ranking_Popularity": 523,
   "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -450,7 +450,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 938,
+  "EOS_Progressed": 939,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 0,
@@ -3365,6 +3365,11 @@
       "Time": "2024-01-02T18:09:53.6060323+00:00",
       "NumProgressed": 938,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T19:09:56.3794858+00:00",
+      "NumProgressed": 939,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3481,15 +3486,15 @@
       "Name": "Critical Hit",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "Deepstrike",
       "SetID": "71c0n9i",
       "Name": "Deepstrike",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 19
     },
     {
       "ID": "DieByTheBow",
@@ -3521,7 +3526,7 @@
       "Name": "Double Kill",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "FlameAttackKillCount",
@@ -3705,7 +3710,7 @@
       "Name": "Adept",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "WielderLevel2",
@@ -3713,7 +3718,7 @@
       "Name": "Veteran",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "WielderLevel3",
@@ -3737,7 +3742,7 @@
       "Name": "Humiliation",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "WinBattleWithOneUnitLeft",
@@ -3808,15 +3813,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 938,
+      "Progressed": 939,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2024-01-02T18:09:53.6060319+00:00",
+  "LastChanged_Achievements": "2024-01-02T19:09:56.3794854+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:53.9356991+00:00",
-  "LastUpdate_Ratings": "2024-01-02T17:57:49.7346664+00:00",
-  "LastUpdate_Achievements": "2024-01-02T18:09:53.606078+00:00"
+  "LastUpdate_Ratings": "2024-01-02T18:57:42.5004256+00:00",
+  "LastUpdate_Achievements": "2024-01-02T19:09:56.3795393+00:00"
 }

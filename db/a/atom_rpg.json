@@ -5,10 +5,10 @@
   "Ranking_Rating": 650,
   "Ranking_Popularity": 441,
   "Ranking_PopularitySum": 498,
-  "Ranking_EOS_Progress": 261,
+  "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 327,
   "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -409,7 +409,7 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1583,
+  "EOS_Progressed": 1585,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
@@ -4069,6 +4069,11 @@
       "Time": "2024-01-02T18:11:09.5828698+00:00",
       "NumProgressed": 1583,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-02T19:11:11.4281474+00:00",
+      "NumProgressed": 1585,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4128,7 +4133,7 @@
       "Name": "Double agent",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "EARLY_ACCESS_1",
@@ -4136,7 +4141,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1567
+      "UsersEstimate": 1569
     },
     {
       "ID": "EXPERT_1",
@@ -4152,7 +4157,7 @@
       "Name": "Explorer",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "GHOSTBUSTER",
@@ -4160,7 +4165,7 @@
       "Name": "Ghostbuster",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "GRAVE_DIGGER_1",
@@ -4184,7 +4189,7 @@
       "Name": "Indy",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "KORALOV",
@@ -4200,7 +4205,7 @@
       "Name": "Kraina Grzybow",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "LOVE_GURU_1",
@@ -4208,7 +4213,7 @@
       "Name": "Love Guru",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "NEANDERTHAL_1",
@@ -4232,7 +4237,7 @@
       "Name": "One HIT wonder",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -4256,7 +4261,7 @@
       "Name": "Paranoia",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "PRIVATE_EYE",
@@ -4304,7 +4309,7 @@
       "Name": "Savant",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "SECRET_ROOM",
@@ -4336,7 +4341,7 @@
       "Name": "Traveler",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "VVE",
@@ -4360,22 +4365,22 @@
       "Name": "Wishmaster",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     }
   ],
   "AchievementSets": [
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1583,
+      "Progressed": 1585,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-12-27T01:41:52.1948259+00:00",
-  "LastChanged_Achievements": "2024-01-02T18:11:09.5828694+00:00",
+  "LastChanged_Achievements": "2024-01-02T19:11:11.4281471+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.8702318+00:00",
-  "LastUpdate_Ratings": "2024-01-02T18:02:53.7167418+00:00",
-  "LastUpdate_Achievements": "2024-01-02T18:11:09.5829119+00:00"
+  "LastUpdate_Ratings": "2024-01-02T19:02:40.0225671+00:00",
+  "LastUpdate_Achievements": "2024-01-02T19:11:11.4281906+00:00"
 }

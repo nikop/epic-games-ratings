@@ -6,51 +6,51 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 79.00% | ~300,790 |
-| good drivers have dead flies on the side windows | 32.00% | ~121,839 |
-| keep it tidy | 26.00% | ~98,994 |
-| brail | 26.00% | ~98,994 |
-| car wash | 23.00% | ~87,572 |
-| the artist | 23.00% | ~87,572 |
-| podium | 20.00% | ~76,149 |
-| medium attack | 17.00% | ~64,727 |
-| bicycle race | 6.00% | ~22,845 |
-| grocery-getter | 5.00% | ~19,037 |
-| autopilot | 4.00% | ~15,230 |
-| where is the stage? | 3.00% | ~11,422 |
-| night ride | 3.00% | ~11,422 |
-| snorkel | 3.00% | ~11,422 |
-| food tour: pasta | 3.00% | ~11,422 |
-| perkele | 2.00% | ~7,615 |
-| rwd only | 2.00% | ~7,615 |
-| if in doubt, flat out! | 2.00% | ~7,615 |
-| you can't treat a car like a human being. a car requires love | 2.00% | ~7,615 |
-| to finish first, first you must finish | 1.00% | ~3,807 |
-| espresso | 1.00% | ~3,807 |
-| turbo | 1.00% | ~3,807 |
-| in like a lamb, out like a lion | 1.00% | ~3,807 |
-| mittens | 1.00% | ~3,807 |
-| food tour: pretzel | 1.00% | ~3,807 |
-| monster | 0.80% | ~3,046 |
-| eurobeat | 0.60% | ~2,284 |
-| viking | 0.60% | ~2,284 |
-| oktoberfest | 0.50% | ~1,904 |
-| parallel universe | 0.50% | ~1,904 |
-| group b | 0.50% | ~1,904 |
-| maximum attack | 0.40% | ~1,523 |
-| samir | 0.40% | ~1,523 |
-| master of rally | 0.30% | ~1,142 |
-| antilag | 0.30% | ~1,142 |
-| real roads, real fast | 0.30% | ~1,142 |
-| parking lot | 0.20% | ~761 |
-| comfy seats | 0.20% | ~761 |
+| light attack | 79.00% | ~300,980 |
+| good drivers have dead flies on the side windows | 32.00% | ~121,916 |
+| keep it tidy | 26.00% | ~99,057 |
+| brail | 26.00% | ~99,057 |
+| car wash | 23.00% | ~87,627 |
+| the artist | 23.00% | ~87,627 |
+| podium | 20.00% | ~76,197 |
+| medium attack | 17.00% | ~64,768 |
+| bicycle race | 6.00% | ~22,859 |
+| grocery-getter | 5.00% | ~19,049 |
+| autopilot | 4.00% | ~15,239 |
+| where is the stage? | 3.00% | ~11,430 |
+| night ride | 3.00% | ~11,430 |
+| snorkel | 3.00% | ~11,430 |
+| food tour: pasta | 3.00% | ~11,430 |
+| perkele | 2.00% | ~7,620 |
+| rwd only | 2.00% | ~7,620 |
+| if in doubt, flat out! | 2.00% | ~7,620 |
+| you can't treat a car like a human being. a car requires love | 2.00% | ~7,620 |
+| to finish first, first you must finish | 1.00% | ~3,810 |
+| espresso | 1.00% | ~3,810 |
+| turbo | 1.00% | ~3,810 |
+| in like a lamb, out like a lion | 1.00% | ~3,810 |
+| mittens | 1.00% | ~3,810 |
+| food tour: pretzel | 1.00% | ~3,810 |
+| monster | 0.80% | ~3,048 |
+| eurobeat | 0.60% | ~2,286 |
+| viking | 0.60% | ~2,286 |
+| oktoberfest | 0.50% | ~1,905 |
+| parallel universe | 0.50% | ~1,905 |
+| group b | 0.50% | ~1,905 |
+| maximum attack | 0.40% | ~1,524 |
+| samir | 0.40% | ~1,524 |
+| master of rally | 0.30% | ~1,143 |
+| antilag | 0.30% | ~1,143 |
+| real roads, real fast | 0.30% | ~1,143 |
+| parking lot | 0.20% | ~762 |
+| comfy seats | 0.20% | ~762 |
 | if everything seems under control, you're not going fast enough | 0.10% | ~381 |
 | absolute drift | 0.10% | ~381 |
 | barely keeping it together | 0.10% | ~381 |
 | you're here for a good time, not a long time | 0.10% | ~381 |
 | simulator | 0.10% | ~381 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 380,747 (Ranked 52)  
+Progressed: 380,987 (Ranked 52)  
 Completed: 12 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,17 +237,17 @@ Completed: 12 (0.00%) (Ranked 390)
 | 2023-12-30 | 363,610 | 11 |
 | 2023-12-31 | 370,810 | 12 |
 | 2024-01-01 | 376,863 | 12 |
-| 2024-01-02 | 380,747 | 12 |
+| 2024-01-02 | 380,987 | 12 |
 ## Awards
 Max (Quickly Understood Controls): 32  (Ranked 511)  
-Sum: 78 (Ranked 478)  
-Diff (max vs sum): 33  
+Sum: 82 (Ranked 476)  
+Diff (max vs sum): 35  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 32 |
 | This game is Great for Beginners | 28 |
+| This game is Highly Recommended | 26 |
 | This game is Relaxing | 24 |
-| This game is Highly Recommended | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

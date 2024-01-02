@@ -13,13 +13,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Abandoned Settlement | 7.00% | ~1,398 |
 | Petrified Necropolis | 7.00% | ~1,398 |
 | The Marshlands | 6.00% | ~1,198 |
-| Overcoming Difficulty | 5.00% | ~998 |
-| Coral Forest | 5.00% | ~998 |
-| The Scarlet Orchard | 5.00% | ~998 |
-| Frosts | 5.00% | ~998 |
-| Land of Greed | 5.00% | ~998 |
-| Ominous Presence | 5.00% | ~998 |
-| Gathering Storm | 5.00% | ~998 |
+| Overcoming Difficulty | 5.00% | ~999 |
+| Coral Forest | 5.00% | ~999 |
+| The Scarlet Orchard | 5.00% | ~999 |
+| Frosts | 5.00% | ~999 |
+| Land of Greed | 5.00% | ~999 |
+| Ominous Presence | 5.00% | ~999 |
+| Gathering Storm | 5.00% | ~999 |
 | Royal Outpost | 4.00% | ~799 |
 | Homesick | 3.00% | ~599 |
 | Ruined Armory | 3.00% | ~599 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,970 (Ranked 152)  
+Progressed: 19,973 (Ranked 152)  
 Completed: 33 (0.17%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 33 (0.17%) (Ranked 281)
 | 2023-12-30 | 19,741 | 35 |
 | 2023-12-31 | 19,834 | 34 |
 | 2024-01-01 | 19,919 | 33 |
-| 2024-01-02 | 19,970 | 33 |
+| 2024-01-02 | 19,973 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 447  (Ranked 230)  
 Sum: 3,320 (Ranked 177)  

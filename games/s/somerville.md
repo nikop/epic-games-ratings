@@ -13,12 +13,12 @@ Rating: 4.22 (Ranked 940)
 | Blues Jam | 0.80% | ~13 |
 | Resignation | 0.80% | ~13 |
 | Family First | 0.70% | ~12 |
+| “Here boy…“ | 0.70% | ~12 |
 | Understanding | 0.70% | ~12 |
-| “Here boy…“ | 0.60% | ~10 |
-| First contact | 0.30% | ~5 |
+| First contact | 0.40% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,685 (Ranked 257)  
-Completed: 32 (1.90%) (Ranked 137)  
+Completed: 33 (1.96%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -131,7 +131,7 @@ Completed: 32 (1.90%) (Ranked 137)
 | 2023-12-26 | 1,680 | 32 |
 | 2023-12-31 | 1,683 | 32 |
 | 2024-01-01 | 1,684 | 32 |
-| 2024-01-02 | 1,685 | 32 |
+| 2024-01-02 | 1,685 | 33 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

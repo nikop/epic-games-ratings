@@ -5,25 +5,25 @@ Rating: 4.81 (Ranked 83)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~3,068 |
-| No more cages! | 90.00% | ~2,907 |
-| Everfrost | 77.00% | ~2,487 |
-| Pentakill | 76.00% | ~2,455 |
-| Dark Forest | 76.00% | ~2,455 |
-| The use of petricite | 73.00% | ~2,358 |
-| You can pet the dog | 60.00% | ~1,938 |
+| For Demacia | 95.00% | ~3,069 |
+| No more cages! | 90.00% | ~2,908 |
+| Everfrost | 77.00% | ~2,488 |
+| Pentakill | 76.00% | ~2,456 |
+| Dark Forest | 76.00% | ~2,456 |
+| The use of petricite | 73.00% | ~2,359 |
+| You can pet the dog | 60.00% | ~1,939 |
 | Thornbarrow | 43.00% | ~1,389 |
 | Big Helmet Bro | 40.00% | ~1,292 |
 | Clarion Cove | 40.00% | ~1,292 |
-| Ternmoat Headquarters | 38.00% | ~1,227 |
+| Ternmoat Headquarters | 38.00% | ~1,228 |
 | Elemental master | 37.00% | ~1,195 |
 | Past trauma | 37.00% | ~1,195 |
-| Cypress Glen Headquarters | 34.00% | ~1,098 |
+| Cypress Glen Headquarters | 34.00% | ~1,099 |
 | Petricite Burst | 33.00% | ~1,066 |
 | Old friend | 32.00% | ~1,034 |
 | Devineur | 32.00% | ~1,034 |
 | Hijack | 30.00% | ~969 |
-| Whispers in the Woods I | 28.00% | ~904 |
+| Whispers in the Woods I | 28.00% | ~905 |
 | I chose my shackles | 27.00% | ~872 |
 | Ancient power | 27.00% | ~872 |
 | Sacred Woods | 26.00% | ~840 |
@@ -35,7 +35,7 @@ Rating: 4.81 (Ranked 83)
 | No more holding back | 19.00% | ~614 |
 | Terbisia | 19.00% | ~614 |
 | Quickmoore Headquarters | 19.00% | ~614 |
-| Whispers in the Woods II | 18.00% | ~581 |
+| Whispers in the Woods II | 18.00% | ~582 |
 | Whispers in the Woods III | 17.00% | ~549 |
 | Friendly fire | 17.00% | ~549 |
 | The Central Headquarters | 17.00% | ~549 |
@@ -59,8 +59,8 @@ Rating: 4.81 (Ranked 83)
 | Silverwing nest | 2.00% | ~65 |
 | The Unshackled | 1.00% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,230 (Ranked 222)  
-Completed: 20 (0.62%) (Ranked 203)  
+Progressed: 3,231 (Ranked 222)  
+Completed: 20 (0.62%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -263,7 +263,7 @@ Completed: 20 (0.62%) (Ranked 203)
 | 2023-12-30 | 3,165 | 17 |
 | 2023-12-31 | 3,186 | 18 |
 | 2024-01-01 | 3,217 | 19 |
-| 2024-01-02 | 3,230 | 20 |
+| 2024-01-02 | 3,231 | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 605,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 526,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-13T14:00:00+00:00",
     "PcReleaseDate": "2023-09-13T14:00:00+00:00",
@@ -67,9 +67,9 @@
       "ID": "A_CLUE_ACH",
       "SetID": "2gpm4c0",
       "Name": "A Clue",
-      "Percentage": 76,
+      "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "A_MOMENT_OF_REST_ACH",
@@ -147,9 +147,9 @@
       "ID": "SURVIVING_THE_NIGHTMARE_ACH",
       "SetID": "2gpm4c0",
       "Name": "Surviving the Nightmare",
-      "Percentage": 76,
+      "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "YOURE_PROBABLY_CHEATING_ACH",
@@ -169,8 +169,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-18T22:15:21.113084+00:00",
-  "LastChanged_Achievements": "2024-01-02T18:04:44.0946651+00:00",
+  "LastChanged_Achievements": "2024-01-02T19:05:00.0757992+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:13.3959131+00:00",
-  "LastUpdate_Ratings": "2024-01-02T18:02:06.9575805+00:00",
-  "LastUpdate_Achievements": "2024-01-02T18:04:44.0946739+00:00"
+  "LastUpdate_Ratings": "2024-01-02T19:01:52.4246587+00:00",
+  "LastUpdate_Achievements": "2024-01-02T19:05:00.0758077+00:00"
 }

@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 97.00% | ~776 |
-| Space Colonization | 81.00% | ~648 |
-| Friendzone | 80.00% | ~640 |
-| Hello World | 75.00% | ~600 |
-| Space Engineer | 65.00% | ~520 |
-| Tinkerer | 63.00% | ~504 |
-| Dust to Dust | 59.00% | ~472 |
+| Don't Panic! | 97.00% | ~777 |
+| Space Colonization | 81.00% | ~649 |
+| Friendzone | 80.00% | ~641 |
+| Hello World | 75.00% | ~601 |
+| Space Engineer | 65.00% | ~521 |
+| Tinkerer | 63.00% | ~505 |
+| Dust to Dust | 59.00% | ~473 |
 | Across The Stars | 49.00% | ~392 |
 | Crafty | 49.00% | ~392 |
 | All Seats Taken | 40.00% | ~320 |
@@ -23,18 +23,18 @@
 | Et tu, Astrocitizen? | 20.00% | ~160 |
 | Space Explorer | 17.00% | ~136 |
 | Hands Full | 14.00% | ~112 |
-| Gold Medalist | 13.00% | ~104 |
+| Gold Medalist | 12.00% | ~96 |
 | Non-Fiction | 12.00% | ~96 |
 | No Man Left Behind | 9.00% | ~72 |
-| First of April | 8.00% | ~64 |
 | Fix-It Felix | 8.00% | ~64 |
 | Intergalactic Breakup | 8.00% | ~64 |
 | Second Life | 8.00% | ~64 |
 | Axel jump in space! | 7.00% | ~56 |
+| First of April | 7.00% | ~56 |
 | Flawless Maegangement | 7.00% | ~56 |
 | Extreme Makeover | 5.00% | ~40 |
 | The Improvinator | 4.00% | ~32 |
-| The Last Supper | 4.00% | ~32 |
+| The Last Supper | 3.00% | ~24 |
 | 2018: A Soup Odyssey | 3.00% | ~24 |
 | Bovine Domain | 2.00% | ~16 |
 | That's No Moon! | 2.00% | ~16 |
@@ -44,12 +44,12 @@
 | Bingpot! | 0.90% | ~7 |
 | Space Selfie | 0.90% | ~7 |
 | Small Step | 0.50% | ~4 |
-| Liberté, Égalité, Félinité | 0.30% | ~2 |
-| Giant Leap | 0.30% | ~2 |
+| Liberté, Égalité, Félinité | 0.20% | ~2 |
+| Giant Leap | 0.20% | ~2 |
 | Unidentified Flying Offspring | 0.10% | ~1 |
 | Man's best comrade | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 800 (Ranked 304)  
+Progressed: 801 (Ranked 304)  
 Completed: 1 (0.12%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,6 +190,7 @@ Completed: 1 (0.12%) (Ranked 299)
 | 2023-12-30 | 797 | 1 |
 | 2023-12-31 | 798 | 1 |
 | 2024-01-01 | 800 | 1 |
+| 2024-01-02 | 801 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

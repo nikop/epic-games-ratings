@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 367,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -571,9 +571,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 46130,
+  "EOS_Progressed": 46134,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 831,
+  "EOS_NewPlayers": 832,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17386,6 +17386,11 @@
       "Time": "2024-01-02T18:06:52.5120361+00:00",
       "NumProgressed": 46130,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-02T19:06:57.8984135+00:00",
+      "NumProgressed": 46134,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -17453,7 +17458,7 @@
       "Name": "Stuck",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2306
+      "UsersEstimate": 2307
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -17549,7 +17554,7 @@
       "Name": "Tinkerer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3690
+      "UsersEstimate": 3691
     },
     {
       "ID": "CUFF_ATTACK",
@@ -17653,7 +17658,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2306
+      "UsersEstimate": 2307
     },
     {
       "ID": "MAGIC_IVY",
@@ -17733,7 +17738,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5074
+      "UsersEstimate": 5075
     },
     {
       "ID": "SPRING_ALL",
@@ -17820,22 +17825,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 46130,
+      "Progressed": 46134,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 10967,
-      "Completed": 10967
+      "Progressed": 10971,
+      "Completed": 10971
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-02T14:03:32.6481765+00:00",
-  "LastChanged_Achievements": "2024-01-02T18:06:52.5120357+00:00",
+  "LastChanged_Achievements": "2024-01-02T19:06:57.8984132+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:48.1998363+00:00",
-  "LastUpdate_Ratings": "2024-01-02T18:03:09.5194545+00:00",
-  "LastUpdate_Achievements": "2024-01-02T18:06:52.5121784+00:00"
+  "LastUpdate_Ratings": "2024-01-02T19:03:24.8720812+00:00",
+  "LastUpdate_Achievements": "2024-01-02T19:06:57.8985084+00:00"
 }

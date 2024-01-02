@@ -4,8 +4,8 @@
   "ProductSlug": "aeon-must-die",
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 3798,
-  "Ranking_EOS_NewPlayers": 370,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-10-27T21:59:00+00:00",
     "PcReleaseDate": "2021-10-27T21:59:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3628,
+  "EOS_Progressed": 3629,
   "EOS_Completed": -28,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": -0.77,
   "EosHistory": [
@@ -854,6 +854,11 @@
       "Time": "2024-01-02T04:09:05.305498+00:00",
       "NumProgressed": 3628,
       "NumCompleted": -28
+    },
+    {
+      "Time": "2024-01-02T19:09:37.0086349+00:00",
+      "NumProgressed": 3629,
+      "NumCompleted": -28
     }
   ],
   "TotalAchievements": 35,
@@ -1001,7 +1006,7 @@
       "Name": "Like Swatting Flies",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "26",
@@ -1073,7 +1078,7 @@
       "Name": "Cheap Tricks",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "34",
@@ -1144,7 +1149,7 @@
     {
       "ID": "5cfan5f",
       "IsBase": true,
-      "Progressed": 3628,
+      "Progressed": 3629,
       "Completed": -28
     }
   ],
@@ -1152,8 +1157,8 @@
   "FirstSeenRating": "2023-03-31T05:57:47.6282552+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:12.6590754+00:00",
   "LastChanged": "2023-03-31T05:57:47.6282553+00:00",
-  "LastChanged_Achievements": "2024-01-02T18:09:34.23349+00:00",
+  "LastChanged_Achievements": "2024-01-02T19:09:37.0086344+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:16.5044228+00:00",
-  "LastUpdate_Ratings": "2024-01-02T18:00:38.1622472+00:00",
-  "LastUpdate_Achievements": "2024-01-02T18:09:34.2335198+00:00"
+  "LastUpdate_Ratings": "2024-01-02T19:00:26.1482307+00:00",
+  "LastUpdate_Achievements": "2024-01-02T19:09:37.0086636+00:00"
 }

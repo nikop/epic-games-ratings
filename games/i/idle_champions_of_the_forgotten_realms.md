@@ -6,14 +6,14 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~7,496 |
+| A Brief Tour of the Realms | 3.00% | ~7,497 |
 | Beast Intentions | 1.00% | ~2,499 |
 | The Cursed Farmer | 1.00% | ~2,499 |
 | The Mad Wizard | 0.90% | ~2,249 |
 | Welcome to Sigil | 0.80% | ~1,729 |
 | The Ring of Regeneration | 0.60% | ~1,499 |
 | Fast Food | 0.60% | ~1,297 |
-| Are Ya Chicken? | 0.50% | ~1,249 |
+| Are Ya Chicken? | 0.50% | ~1,250 |
 | The Overgrown Grove | 0.50% | ~1,081 |
 | Mental Gymnastics | 0.50% | ~1,081 |
 | Were-verpowered | 0.40% | ~1,000 |
@@ -31,9 +31,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Evil | 0.30% | ~750 |
 | The Crumbling Temple | 0.30% | ~750 |
 | Pure Energy | 0.30% | ~750 |
-| Arcane Suppression | 0.30% | ~648 |
-| Welcome to the Vrocks | 0.30% | ~648 |
-| Chaos Theory | 0.30% | ~648 |
+| Arcane Suppression | 0.30% | ~649 |
+| Welcome to the Vrocks | 0.30% | ~649 |
+| Chaos Theory | 0.30% | ~649 |
 | Beast Mode | 0.20% | ~500 |
 | Low Initiative | 0.20% | ~500 |
 | A Mysterious Summons | 0.20% | ~500 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~216 |
 | The Brains of an Illithid's Desire | 0.10% | ~216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,877 (Ranked 70)  
+Progressed: 249,908 (Ranked 70)  
 Completed: 2,585 (1.03%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -810,7 +810,7 @@ Completed: 2,585 (1.03%) (Ranked 169)
 | 2023-12-30 | 247,917 | 2,578 |
 | 2023-12-31 | 248,665 | 2,581 |
 | 2024-01-01 | 249,335 | 2,583 |
-| 2024-01-02 | 249,877 | 2,585 |
+| 2024-01-02 | 249,908 | 2,585 |
 ## Awards
 Max (Great for Beginners): 5,730  (Ranked 71)  
 Sum: 33,268 (Ranked 41)  

@@ -11,7 +11,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not So Fast... | 13.00% | ~483 |
 | Watch Where You Step... | 13.00% | ~483 |
 | An Ill Omen | 13.00% | ~483 |
-| Purging Spree | 9.00% | ~334 |
+| Purging Spree | 9.00% | ~335 |
 | Blood for the Blood God! | 8.00% | ~297 |
 | Bloodless | 7.00% | ~260 |
 | Friendly Fire | 6.00% | ~223 |
@@ -21,8 +21,8 @@ Number of Ratings: 371  (23.09.2022)
 | The Emperor Protects | 4.00% | ~149 |
 | Nemesis Master | 4.00% | ~149 |
 | Gunmaster | 4.00% | ~149 |
-| Hold Your Ground | 3.00% | ~111 |
-| Just a Scratch | 3.00% | ~111 |
+| Hold Your Ground | 3.00% | ~112 |
+| Just a Scratch | 3.00% | ~112 |
 | Daemonkeeper | 2.00% | ~74 |
 | Corruption Cleanser | 2.00% | ~74 |
 | Efficient Killer | 2.00% | ~74 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.10% | ~4 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,716 (Ranked 216)  
+Progressed: 3,717 (Ranked 216)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-30 | 3,663 | 0 |
 | 2023-12-31 | 3,685 | 0 |
 | 2024-01-01 | 3,707 | 0 |
-| 2024-01-02 | 3,716 | 0 |
+| 2024-01-02 | 3,717 | 0 |
 ## Awards
 Max (Character Customization): 232  (Ranked 282)  
 Sum: 494 (Ranked 334)  

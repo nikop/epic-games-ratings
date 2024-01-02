@@ -8,6 +8,8 @@
 | Connection Up | 8.00% | ~2 |
 | Capital Connection | 4.00% | ~1 |
 | Billionaire Club | 4.00% | ~1 |
+| Full House | 4.00% | ~1 |
+| Cargo King | 4.00% | ~1 |
 | Industrial Revolution | 4.00% | ~1 |
 | World Explorer | 0.00% | ~0 |
 | Mass Upgrade | 0.00% | ~0 |
@@ -23,7 +25,6 @@
 | Future Proof | 0.00% | ~0 |
 | Ultra Long Train | 0.00% | ~0 |
 | Money Train | 0.00% | ~0 |
-| Full House | 0.00% | ~0 |
 | Train Tycoon | 0.00% | ~0 |
 | Speed Demon | 0.00% | ~0 |
 | Big Spender | 0.00% | ~0 |
@@ -34,7 +35,6 @@
 | Tunnel Vision | 0.00% | ~0 |
 | Machine Maker | 0.00% | ~0 |
 | Time Traveler | 0.00% | ~0 |
-| Cargo King | 0.00% | ~0 |
 | People Mover | 0.00% | ~0 |
 | Mixed Bag | 0.00% | ~0 |
 | Green Energy | 0.00% | ~0 |

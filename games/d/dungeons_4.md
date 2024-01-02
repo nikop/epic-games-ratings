@@ -5,52 +5,52 @@ Rating: 4.70 (Ranked 215)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 89.00% | ~617 |
-| Thalya – Simply Immortal | 88.00% | ~610 |
-| For the Horde! | 82.00% | ~568 |
-| Hammer Time, Round Two | 81.00% | ~561 |
-| The Hellwoods | 77.00% | ~534 |
-| The Plains of Strothalm | 72.00% | ~499 |
-| Experienced Thalya | 71.00% | ~492 |
-| Thalya's Concentrated Fury | 68.00% | ~471 |
-| Bad Elves Go Everywhere | 68.00% | ~471 |
-| Heroes’ Gorge | 64.00% | ~444 |
-| Master of Magic | 62.00% | ~430 |
-| Unicorn steaks – fresh off the hoof! | 62.00% | ~430 |
-| Magic Accidents | 59.00% | ~409 |
-| The Ascent | 58.00% | ~402 |
-| It's Warm and Cozy at Home | 58.00% | ~402 |
-| Trap Master | 55.00% | ~381 |
-| Minions, Minions! | 55.00% | ~381 |
-| Hard Work | 54.00% | ~374 |
-| The Big Eaty | 54.00% | ~374 |
-| “… like son” | 51.00% | ~353 |
-| YOU SHALL NOT PASS! | 50.00% | ~346 |
-| The Cathedral of Light | 48.00% | ~333 |
-| Shame! Shame! Shame! | 47.00% | ~326 |
-| Tanos' Crusade Against Thalya | 46.00% | ~319 |
-| Pure Dynamite! | 45.00% | ~312 |
-| Dungeonlord Gorgu | 45.00% | ~312 |
-| Mana Cannon | 42.00% | ~291 |
-| All’s Well That Ends Evil | 41.00% | ~284 |
-| The Duel | 38.00% | ~263 |
+| The Last Stand | 89.00% | ~619 |
+| Thalya – Simply Immortal | 88.00% | ~612 |
+| For the Horde! | 82.00% | ~570 |
+| Hammer Time, Round Two | 80.00% | ~556 |
+| The Hellwoods | 76.00% | ~528 |
+| The Plains of Strothalm | 72.00% | ~500 |
+| Experienced Thalya | 71.00% | ~493 |
+| Thalya's Concentrated Fury | 68.00% | ~473 |
+| Bad Elves Go Everywhere | 68.00% | ~473 |
+| Heroes’ Gorge | 64.00% | ~445 |
+| Master of Magic | 62.00% | ~431 |
+| Unicorn steaks – fresh off the hoof! | 62.00% | ~431 |
+| Magic Accidents | 59.00% | ~410 |
+| The Ascent | 58.00% | ~403 |
+| It's Warm and Cozy at Home | 58.00% | ~403 |
+| Trap Master | 55.00% | ~382 |
+| Minions, Minions! | 55.00% | ~382 |
+| Hard Work | 54.00% | ~375 |
+| The Big Eaty | 54.00% | ~375 |
+| “… like son” | 51.00% | ~354 |
+| YOU SHALL NOT PASS! | 50.00% | ~348 |
+| The Cathedral of Light | 47.00% | ~327 |
+| Shame! Shame! Shame! | 47.00% | ~327 |
+| Dungeonlord Gorgu | 45.00% | ~313 |
+| Tanos' Crusade Against Thalya | 45.00% | ~313 |
+| Pure Dynamite! | 44.00% | ~306 |
+| Mana Cannon | 42.00% | ~292 |
+| All’s Well That Ends Evil | 41.00% | ~285 |
+| The Duel | 38.00% | ~264 |
 | Master of the Undead | 35.00% | ~243 |
 | If Looks Could Kill | 35.00% | ~243 |
 | Unstoppable Horde | 34.00% | ~236 |
 | The Finitude Drill | 33.00% | ~229 |
 | Ghost Pirates? Ghost Heroes! | 30.00% | ~208 |
 | Doom Hill | 30.00% | ~208 |
-| Not Even a Tiny Thin Mint Wafer, Thanks! | 28.00% | ~194 |
-| Forbidden Knowledge | 28.00% | ~194 |
-| Brimstone Shaken, Not Stirred | 28.00% | ~194 |
-| Hungry, Hungry Gorgu! | 27.00% | ~187 |
-| Stop Tanos! | 27.00% | ~187 |
-| Sabotage! | 27.00% | ~187 |
-| The Rune Sockets of Finitude (Part 1) | 27.00% | ~187 |
-| Raiders of the Lost Stone | 26.00% | ~180 |
-| Bonus Evilness | 25.00% | ~173 |
-| The Rune Sockets of Finitude (Part 2) | 25.00% | ~173 |
-| The Last Stand - This Time For Real! | 23.00% | ~159 |
+| Not Even a Tiny Thin Mint Wafer, Thanks! | 28.00% | ~195 |
+| Forbidden Knowledge | 28.00% | ~195 |
+| Brimstone Shaken, Not Stirred | 28.00% | ~195 |
+| Hungry, Hungry Gorgu! | 27.00% | ~188 |
+| The Rune Sockets of Finitude (Part 1) | 27.00% | ~188 |
+| Stop Tanos! | 26.00% | ~181 |
+| Sabotage! | 26.00% | ~181 |
+| Raiders of the Lost Stone | 26.00% | ~181 |
+| Bonus Evilness | 25.00% | ~174 |
+| The Rune Sockets of Finitude (Part 2) | 25.00% | ~174 |
+| The Last Stand - This Time For Real! | 23.00% | ~160 |
 | Rubble and Ashes | 21.00% | ~146 |
 | Lavalumps on Ice! | 19.00% | ~132 |
 | To the Max! | 19.00% | ~132 |
@@ -64,11 +64,11 @@ Rating: 4.70 (Ranked 215)
 | Laser Eyes Are So Useless | 14.00% | ~97 |
 | Hands Off My Stones | 13.00% | ~90 |
 | Gorgu is in the Best of Health | 12.00% | ~83 |
-| No Mana, No Cry | 10.00% | ~69 |
-| I Don't Need Any Help | 10.00% | ~69 |
+| No Mana, No Cry | 10.00% | ~70 |
+| I Don't Need Any Help | 10.00% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 693 (Ranked 315)  
-Completed: 27 (3.90%) (Ranked 91)  
+Progressed: 695 (Ranked 314)  
+Completed: 27 (3.88%) (Ranked 91)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -125,7 +125,7 @@ Completed: 27 (3.90%) (Ranked 91)
 | 2023-12-30 | 673 | 25 |
 | 2023-12-31 | 679 | 26 |
 | 2024-01-01 | 689 | 26 |
-| 2024-01-02 | 693 | 27 |
+| 2024-01-02 | 695 | 27 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

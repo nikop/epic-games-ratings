@@ -6,20 +6,20 @@ Rating: 4.62 (Ranked 375)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 13.00% | ~875 |
-| Realm Estate | 12.00% | ~807 |
-| A Wonderful Discovery | 11.00% | ~740 |
-| Walls Cannot Stop Us | 11.00% | ~740 |
+| Realm Estate | 12.00% | ~808 |
+| A Wonderful Discovery | 11.00% | ~741 |
+| Walls Cannot Stop Us | 11.00% | ~741 |
 | From Friends to Family | 9.00% | ~606 |
-| Bone Peddler | 8.00% | ~538 |
+| Bone Peddler | 8.00% | ~539 |
+| Full Ascension | 7.00% | ~471 |
 | Magical Synergy | 7.00% | ~471 |
 | There Can Only Be One! | 6.00% | ~404 |
-| Full Ascension | 6.00% | ~404 |
 | Stronger Together | 6.00% | ~404 |
 | Seat of Power | 6.00% | ~404 |
-| Valley of Wonders | 5.00% | ~336 |
-| In a Liege of Your Own | 5.00% | ~336 |
-| Intimidation Tactics | 5.00% | ~336 |
-| But this one is mine | 5.00% | ~336 |
+| Valley of Wonders | 5.00% | ~337 |
+| In a Liege of Your Own | 5.00% | ~337 |
+| Intimidation Tactics | 5.00% | ~337 |
+| But this one is mine | 5.00% | ~337 |
 | Return of the Wizard King | 4.00% | ~269 |
 | My Final Form | 4.00% | ~269 |
 | Enchanted Archipelago | 3.00% | ~202 |
@@ -55,8 +55,8 @@ Rating: 4.62 (Ranked 375)
 | One for All, All for One | 0.90% | ~61 |
 | Duality | 0.80% | ~54 |
 | Betrayal Most Foul | 0.70% | ~47 |
+| The Magic That Empowers Me! | 0.50% | ~34 |
 | Snap Out of It! | 0.40% | ~27 |
-| The Magic That Empowers Me! | 0.40% | ~27 |
 | Jack of All Tomes | 0.30% | ~20 |
 | A Very Special Ring | 0.30% | ~20 |
 | I Want to Break Free | 0.10% | ~7 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 375)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,728 (Ranked 196)  
+Progressed: 6,733 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,16 +291,16 @@ Completed: 7 (0.10%) (Ranked 304)
 | 2023-12-30 | 6,566 | 7 |
 | 2023-12-31 | 6,624 | 7 |
 | 2024-01-01 | 6,687 | 7 |
-| 2024-01-02 | 6,728 | 7 |
+| 2024-01-02 | 6,733 | 7 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 477)  
-Sum: 206 (Ranked 409)  
+Sum: 207 (Ranked 409)  
 Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 40 |
 | This game has Diverse Characters | 38 |
-| This game is Extremely Fun | 25 |
+| This game is Extremely Fun | 26 |
 | This game is Highly Recommended | 22 |
 | This game has Quickly Understood Controls | 21 |
 | This game has Amazing Storytelling | 20 |
@@ -390,4 +390,4 @@ Diff (max vs sum): 68
 | 2023-12-30 | 4.63 | 39 | 163 |
 | 2023-12-31 | 4.63 | 39 | 184 |
 | 2024-01-01 | 4.62 | 39 | 184 |
-| 2024-01-02 | 4.62 | 40 | 206 |
+| 2024-01-02 | 4.62 | 40 | 207 |

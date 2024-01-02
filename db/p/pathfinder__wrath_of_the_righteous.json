@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 126,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4793,9 +4793,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12967,
+  "EOS_Progressed": 12968,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18733,6 +18733,11 @@
       "Time": "2024-01-02T18:11:22.0351104+00:00",
       "NumProgressed": 12967,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T19:11:23.8530465+00:00",
+      "NumProgressed": 12968,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -18760,7 +18765,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1815
+      "UsersEstimate": 1816
     },
     {
       "ID": "04_FithCrusade",
@@ -19640,7 +19645,7 @@
       "Name": "This Wall Won\u0027t Fall",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "DLC4_27_Not the Last Sarkorian",
@@ -19648,7 +19653,7 @@
       "Name": "Not the Last Sarkorian",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "DLC4_29_The Lady of the Forest",
@@ -19671,21 +19676,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11749,
+      "Progressed": 11750,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12967,
+      "Progressed": 12968,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2024-01-02T16:02:25.9365666+00:00",
-  "LastChanged_Achievements": "2024-01-02T18:11:22.0351099+00:00",
+  "LastChanged_Achievements": "2024-01-02T19:11:23.8530462+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:46.0860245+00:00",
-  "LastUpdate_Ratings": "2024-01-02T18:02:41.6620683+00:00",
-  "LastUpdate_Achievements": "2024-01-02T18:11:22.0353029+00:00"
+  "LastUpdate_Ratings": "2024-01-02T19:02:27.6720593+00:00",
+  "LastUpdate_Achievements": "2024-01-02T19:11:23.8532746+00:00"
 }

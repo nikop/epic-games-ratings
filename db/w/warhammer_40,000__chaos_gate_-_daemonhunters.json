@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 334,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -813,9 +813,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3716,
+  "EOS_Progressed": 3717,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5338,6 +5338,11 @@
       "Time": "2024-01-02T18:06:39.2825641+00:00",
       "NumProgressed": 3716,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T19:06:44.4450684+00:00",
+      "NumProgressed": 3717,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -5509,7 +5514,7 @@
       "Name": "Hold Your Ground",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "Kills_Auto",
@@ -5581,7 +5586,7 @@
       "Name": "Purging Spree",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "Kills_Vakir",
@@ -5709,7 +5714,7 @@
       "Name": "Just a Scratch",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "NexusCompleted",
@@ -5892,21 +5897,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3716,
+      "Progressed": 3717,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3716,
+      "Progressed": 3717,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-01T18:03:40.84636+00:00",
-  "LastChanged_Achievements": "2024-01-02T18:06:39.2825637+00:00",
+  "LastChanged_Achievements": "2024-01-02T19:06:44.4450681+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:30.5390055+00:00",
-  "LastUpdate_Ratings": "2024-01-02T18:03:38.1902917+00:00",
-  "LastUpdate_Achievements": "2024-01-02T18:06:39.2826449+00:00"
+  "LastUpdate_Ratings": "2024-01-02T19:03:53.0324656+00:00",
+  "LastUpdate_Achievements": "2024-01-02T19:06:44.4451361+00:00"
 }

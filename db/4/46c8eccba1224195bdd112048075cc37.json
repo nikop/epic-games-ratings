@@ -4,8 +4,8 @@
   "ProductSlug": "one-more-dungeon-2-532228",
   "Ranking_EOS_Progress": 431,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 495,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 474,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
     "PcReleaseDate": "2022-09-19T02:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 177,
+  "EOS_Progressed": 178,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -839,6 +839,11 @@
       "Time": "2024-01-02T07:06:15.1868808+00:00",
       "NumProgressed": 177,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-02T19:08:23.6834457+00:00",
+      "NumProgressed": 178,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 20,
@@ -864,9 +869,9 @@
       "ID": "ChangeClass",
       "SetID": "7g1kpc8",
       "Name": "Metamorphosis",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 96
+      "UsersEstimate": 94
     },
     {
       "ID": "CollectCurses",
@@ -906,7 +911,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "FirstBoss",
@@ -914,15 +919,15 @@
       "Name": "Scull",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "FirstStep",
       "SetID": "7g1kpc8",
       "Name": "Start of the Path",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 127
+      "UsersEstimate": 126
     },
     {
       "ID": "FourthBoss",
@@ -954,15 +959,15 @@
       "Name": "Leprechaun",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "MonsterSlayer",
       "SetID": "7g1kpc8",
       "Name": "Monster Slayer",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "Persistence",
@@ -970,7 +975,7 @@
       "Name": "Persistence",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ReturnShell",
@@ -1002,21 +1007,21 @@
       "Name": "Flower",
       "Percentage": 11,
       "XP": 70,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     }
   ],
   "AchievementSets": [
     {
       "ID": "7g1kpc8",
       "IsBase": true,
-      "Progressed": 177,
+      "Progressed": 178,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2024-01-02T18:08:18.5195211+00:00",
+  "LastChanged_Achievements": "2024-01-02T19:08:23.6834452+00:00",
   "LastUpdate_AppInfo": "2024-01-01T22:57:07.2915721+00:00",
-  "LastUpdate_Ratings": "2024-01-02T18:00:03.2606724+00:00",
-  "LastUpdate_Achievements": "2024-01-02T18:08:18.5195609+00:00"
+  "LastUpdate_Ratings": "2024-01-02T18:59:53.1409664+00:00",
+  "LastUpdate_Achievements": "2024-01-02T19:08:23.6834676+00:00"
 }
