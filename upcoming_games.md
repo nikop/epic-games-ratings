@@ -166,6 +166,7 @@
 | [NEO BERLIN 2087](games/6/6360997dd9194c40aa70a701791b1819.md) | 2024-12-31 | - |  | - | - |
 | [Nova Roma](games/2/2e8cb86b0e9a4322bd9b57ae31d7e632.md) | 2024-12-31 | - |  | - | - |
 | [Plague: London 1665](games/e/ec77abf71c4b4cc6bdb509ecad14939d.md) | 2024-12-31 | - |  | - | - |
+| [Project Chaos](games/p/project_chaos.md) | 2024-12-31 | - |  | - | - |
 | [Republic of Pirates](games/0/0cf54ee6730540daadb4f3bb7d54d481.md) | 2024-12-31 | - |  | - | - |
 | [RetraceTheLight](games/8/8154a95d8e314c43984ae952dd55e8dd.md) | 2024-12-31 | - |  | - | - |
 | [Robobeat](games/r/robobeat.md) | 2024-12-31 | - |  | - | - |
@@ -406,7 +407,6 @@
 | [POPUCOM](games/2/2ff9b80a92ef4a3fbc506a62f1bc3c59.md) | 2099-01-01 | - |  | - | - |
 | [Power of Ten](games/p/power_of_ten.md) | 2099-01-01 | - |  | - | - |
 | [Primal Survivors](games/5/50d797d4a45a495b94e4abc016ace565.md) | 2099-01-01 | 10 (1,000 XP) | 0 | - | - |
-| [Project Chaos](games/p/project_chaos.md) | 2099-01-01 | - |  | - | - |
 | [Project Vesperi](games/5/55dfac02aaca4e078a868f3b9338b1f0.md) | 2099-01-01 | - |  | - | - |
 | [Prospect](games/c/c55698c1101c4c9e9b1448e08bd29be2.md) | 2099-01-01 | - |  | - | - |
 | [Providence](games/4/46ddbd5e69374a07839e584a4bc8e8b2.md) | 2099-01-01 | - |  | - | - |
