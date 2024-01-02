@@ -290,6 +290,7 @@
 | [ENDLESS™ Dungeon](../games/e/endless™_dungeon.md) | 30 | 1,000 |
 | [Endling - Extinction is Forever](../games/e/endling_-_extinction_is_forever.md) | 28 | 1,000 |
 | [Engine Evolution 2023](../games/6/6a47fb709a8c4f68b7638c29ea628194.md) | 35 | 1,000 |
+| [Entomophobia](../games/7/76e9bc3f4ccd4061b471ee52735daf45.md) | 14 | 1,000 |
 | [Enypnion Redreamed](../games/e/e8f7fa1572fd4c2a9e6cc855878684f9.md) | 10 | 1,000 |
 | [Epic World - Hunt For Quest](../games/2/2f46b1c7a34944f5acf90fe0b0c3368e.md) | 10 | 1,000 |
 | [Eternal Evil](../games/c/c188c5b560174a979ede32563e6e25e5.md) | 31 | 1,000 |

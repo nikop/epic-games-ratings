@@ -739,6 +739,7 @@
 | [Choice Clash: What Would you Rather?](../games/0/0f16806f667f49bba9d15a208ebf639c.md) | 14 | 1,000 |
 | [Crimson Spires](../games/c/crimson_spires.md) | 14 | 1,000 |
 | [Daydream. Forgotten Sorrow](../games/7/7b8963f6857041fd97a4a23845eb113d.md) | 14 | 1,000 |
+| [Entomophobia](../games/7/76e9bc3f4ccd4061b471ee52735daf45.md) | 14 | 1,000 |
 | [Golfing in Aether](../games/4/40f6e4beb45a4bbfb77fdb6774331e83.md) | 14 | 1,000 |
 | [Hello Neighbor 2](../games/h/hello_neighbor_2.md) | 14 | 1,000 |
 | [It's a Wrap!](../games/i/it's_a_wrap!.md) | 14 | 1,000 |
