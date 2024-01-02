@@ -10,13 +10,13 @@
 | That's what cheese said! | 89.00% | ~130 |
 | AHHHHHH.....I'M ON FIRE!!! | 86.00% | ~126 |
 | I like you...but I have to kill you... | 86.00% | ~126 |
-| Not so hip anymore! | 84.00% | ~123 |
+| Not so hip anymore! | 85.00% | ~124 |
+| Blurry depth perception | 82.00% | ~120 |
 | Nerd | 81.00% | ~118 |
-| Blurry depth perception | 81.00% | ~118 |
 | Up and down | 79.00% | ~115 |
 | Rolling, Rolling, Rolling | 75.00% | ~110 |
+| Oh, you're up to no gouda! | 66.00% | ~96 |
 | Fire-fighter! | 66.00% | ~96 |
-| Oh, you're up to no gouda! | 65.00% | ~95 |
 | Make Love not War-Craft a Mistlefoe | 62.00% | ~91 |
 | Meat grinder | 61.00% | ~89 |
 | You're not going to blow me up! | 56.00% | ~82 |

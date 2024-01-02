@@ -4837,9 +4837,9 @@
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 949
+      "UsersEstimate": 963
     },
     {
       "ID": "_03_FinishAct1",
@@ -4989,9 +4989,9 @@
       "ID": "_21_CrewTale_OVT",
       "SetID": "8a1io5d",
       "Name": "Tobacco Travesty",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 153
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -5046,8 +5046,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-27T21:58:17.6269244+00:00",
-  "LastChanged_Achievements": "2024-01-02T01:53:35.679786+00:00",
+  "LastChanged_Achievements": "2024-01-02T02:29:11.9469822+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.1530944+00:00",
-  "LastUpdate_Ratings": "2024-01-02T01:48:18.6456521+00:00",
-  "LastUpdate_Achievements": "2024-01-02T01:53:35.6798194+00:00"
+  "LastUpdate_Ratings": "2024-01-02T02:23:56.2029133+00:00",
+  "LastUpdate_Achievements": "2024-01-02T02:29:11.9470256+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewPlayers": 288,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7714,
+  "EOS_Progressed": 7715,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -6663,6 +6663,11 @@
       "Time": "2024-01-02T01:51:44.5309814+00:00",
       "NumProgressed": 7714,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2024-01-02T02:27:22.4056587+00:00",
+      "NumProgressed": 7715,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 27,
@@ -6706,7 +6711,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 4088
+      "UsersEstimate": 4089
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -6730,7 +6735,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1928
+      "UsersEstimate": 1929
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -6738,7 +6743,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1928
+      "UsersEstimate": 1929
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -6889,15 +6894,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7714,
+      "Progressed": 7715,
       "Completed": 59
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2024-01-02T01:51:44.530981+00:00",
+  "LastChanged_Achievements": "2024-01-02T02:27:22.4056583+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:57:02.2887263+00:00",
-  "LastUpdate_Ratings": "2024-01-02T01:50:56.691281+00:00",
-  "LastUpdate_Achievements": "2024-01-02T01:51:44.5310183+00:00"
+  "LastUpdate_Ratings": "2024-01-02T02:26:33.2244833+00:00",
+  "LastUpdate_Achievements": "2024-01-02T02:27:22.4057101+00:00"
 }

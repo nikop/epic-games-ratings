@@ -4,7 +4,7 @@
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 243,
+  "EOS_Progressed": 244,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1064,6 +1064,11 @@
       "Time": "2024-01-02T00:08:24.0048337+00:00",
       "NumProgressed": 243,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T02:30:03.8614128+00:00",
+      "NumProgressed": 244,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-05T15:06:14.3136114+00:00",
@@ -1076,7 +1081,7 @@
       "Name": "A mystery? No! A trifle for Poirot!",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "10",
@@ -1084,7 +1089,7 @@
       "Name": "Masquerade",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "11",
@@ -1092,7 +1097,7 @@
       "Name": "Final questions",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "12",
@@ -1164,7 +1169,7 @@
       "Name": "I do not like your face, Mr Ratchett",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "20",
@@ -1188,7 +1193,7 @@
       "Name": "I know kung fu",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "23",
@@ -1250,9 +1255,9 @@
       "ID": "5",
       "SetID": "6bgoh8g",
       "Name": "The power of observation",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 27
     },
     {
       "ID": "6",
@@ -1260,7 +1265,7 @@
       "Name": "A true detective",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "7",
@@ -1276,7 +1281,7 @@
       "Name": "You\u0027re probably wondering how I got here...",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "9",
@@ -1291,14 +1296,14 @@
     {
       "ID": "6bgoh8g",
       "IsBase": true,
-      "Progressed": 243,
+      "Progressed": 244,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2024-01-02T01:54:27.1149443+00:00",
+  "LastChanged_Achievements": "2024-01-02T02:30:03.8614124+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:21.3580987+00:00",
-  "LastUpdate_Ratings": "2024-01-02T01:50:45.5294437+00:00",
-  "LastUpdate_Achievements": "2024-01-02T01:54:27.1149712+00:00"
+  "LastUpdate_Ratings": "2024-01-02T02:26:21.8808572+00:00",
+  "LastUpdate_Achievements": "2024-01-02T02:30:03.8614435+00:00"
 }

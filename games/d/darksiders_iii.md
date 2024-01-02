@@ -35,7 +35,7 @@ Number of Ratings: 116  (23.09.2022)
 | Big Spender | 24.00% | ~90 |
 | Can you restore the Balance? | 23.00% | ~86 |
 | Cleanup Crew | 22.00% | ~82 |
-| Crowd Source | 21.00% | ~79 |
+| Crowd Source | 22.00% | ~82 |
 | Maximum Capacity | 20.00% | ~75 |
 | Demon Meddler | 19.00% | ~71 |
 | Seeing Red | 18.00% | ~67 |

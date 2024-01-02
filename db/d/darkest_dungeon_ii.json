@@ -10410,9 +10410,9 @@
       "Count": 1074
     }
   ],
-  "EOS_Progressed": 131220,
+  "EOS_Progressed": 131221,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1342,
+  "EOS_NewPlayers": 1338,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37900,6 +37900,11 @@
       "Time": "2024-01-02T01:57:09.3373532+00:00",
       "NumProgressed": 131220,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-02T02:32:44.8453426+00:00",
+      "NumProgressed": 131221,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37981,9 +37986,9 @@
       "ID": "altar_of_hope_unlock_hero_runaway",
       "SetID": "64l4lke",
       "Name": "Boxcar Kid",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2624
+      "UsersEstimate": 3937
     },
     {
       "ID": "altar_of_hope_unlock_hero_vestal",
@@ -38542,21 +38547,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131220,
+      "Progressed": 131221,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6089,
+      "Progressed": 6090,
       "Completed": 820
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-02T01:45:54.2386436+00:00",
-  "LastChanged_Achievements": "2024-01-02T01:57:09.3373528+00:00",
+  "LastChanged_Achievements": "2024-01-02T02:32:44.8453422+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-02T01:45:54.2386442+00:00",
-  "LastUpdate_Achievements": "2024-01-02T01:57:09.3375507+00:00"
+  "LastUpdate_Ratings": "2024-01-02T02:21:33.8478984+00:00",
+  "LastUpdate_Achievements": "2024-01-02T02:32:44.8455221+00:00"
 }

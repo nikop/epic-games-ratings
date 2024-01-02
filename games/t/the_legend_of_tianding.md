@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hero Arrives | 87.00% | ~54 |
-| Eat the Rich | 61.00% | ~38 |
+| Hero Arrives | 87.00% | ~55 |
+| Eat the Rich | 60.00% | ~38 |
 | Killing Machine | 48.00% | ~30 |
-| Phantom Kunoichi | 47.00% | ~29 |
-| Death Battle | 45.00% | ~28 |
-| Divine Retribution | 44.00% | ~27 |
-| Captain Mustache | 42.00% | ~26 |
-| Dispel Rumors | 39.00% | ~24 |
-| Final Showdown | 34.00% | ~21 |
-| The End of an Outlaw | 34.00% | ~21 |
-| Demon Slayer | 34.00% | ~21 |
+| Phantom Kunoichi | 46.00% | ~29 |
+| Death Battle | 44.00% | ~28 |
+| Divine Retribution | 43.00% | ~27 |
+| Captain Mustache | 41.00% | ~26 |
+| Dispel Rumors | 38.00% | ~24 |
+| Final Showdown | 33.00% | ~21 |
+| The End of an Outlaw | 33.00% | ~21 |
+| Demon Slayer | 33.00% | ~21 |
 | Steal Her Away | 32.00% | ~20 |
-| Sewer Rat | 31.00% | ~19 |
-| Fight Fire With Fire | 31.00% | ~19 |
+| Sewer Rat | 30.00% | ~19 |
+| Fight Fire With Fire | 30.00% | ~19 |
 | Urban Explorer | 29.00% | ~18 |
 | Coward | 27.00% | ~17 |
-| Not Today | 26.00% | ~16 |
+| Not Today | 25.00% | ~16 |
 | Big Eater | 24.00% | ~15 |
 | Tour Guide | 24.00% | ~15 |
-| The Real O.G. | 23.00% | ~14 |
-| Tomb Raider | 23.00% | ~14 |
-| The Hero of the People | 15.00% | ~9 |
-| Talk to the Fist | 15.00% | ~9 |
+| The Real O.G. | 22.00% | ~14 |
+| Tomb Raider | 22.00% | ~14 |
+| The Hero of the People | 14.00% | ~9 |
+| Talk to the Fist | 14.00% | ~9 |
 | Collector | 10.00% | ~6 |
 | Taoist | 8.00% | ~5 |
 | The Legend | 6.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62 (Ranked 527)  
-Completed: 4 (6.45%) (Ranked 63)  
+Progressed: 63 (Ranked 527)  
+Completed: 4 (6.35%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -78,6 +78,7 @@ Completed: 4 (6.45%) (Ranked 63)
 | 2023-12-30 | 56 | 4 |
 | 2023-12-31 | 61 | 4 |
 | 2024-01-01 | 62 | 4 |
+| 2024-01-02 | 63 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

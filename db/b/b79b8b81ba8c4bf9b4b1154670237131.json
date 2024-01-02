@@ -167,9 +167,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16252,
+  "EOS_Progressed": 16253,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 393,
+  "EOS_NewPlayers": 392,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -5597,6 +5597,11 @@
       "Time": "2024-01-02T01:57:00.7971126+00:00",
       "NumProgressed": 16252,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-02T02:32:36.1542163+00:00",
+      "NumProgressed": 16253,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -5641,7 +5646,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 12189
+      "UsersEstimate": 12190
     },
     {
       "ID": "ACH_AE_14",
@@ -5657,7 +5662,7 @@
       "Name": "Right Back At You",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3575
+      "UsersEstimate": 3576
     },
     {
       "ID": "ACH_AE_16",
@@ -5721,7 +5726,7 @@
       "Name": "The High Road",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 3900
+      "UsersEstimate": 3901
     },
     {
       "ID": "ACH_AE_23",
@@ -5888,7 +5893,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16252,
+      "Progressed": 16253,
       "Completed": 15
     }
   ],
@@ -5896,8 +5901,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-27T16:00:31.0909826+00:00",
-  "LastChanged_Achievements": "2024-01-02T01:57:00.7971122+00:00",
+  "LastChanged_Achievements": "2024-01-02T02:32:36.154216+00:00",
   "LastUpdate_AppInfo": "2023-12-26T18:57:07.3435183+00:00",
-  "LastUpdate_Ratings": "2024-01-02T01:45:50.6226836+00:00",
-  "LastUpdate_Achievements": "2024-01-02T01:57:00.7971611+00:00"
+  "LastUpdate_Ratings": "2024-01-02T02:21:30.2347496+00:00",
+  "LastUpdate_Achievements": "2024-01-02T02:32:36.1542914+00:00"
 }

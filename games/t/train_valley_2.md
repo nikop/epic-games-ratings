@@ -6,23 +6,23 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~313,441 |
-| Full garage | 61.00% | ~261,916 |
-| To the eyeballs! | 51.00% | ~218,979 |
-| Individual delivery | 47.00% | ~201,804 |
+| Dealmaker | 73.00% | ~313,442 |
+| Full garage | 61.00% | ~261,917 |
+| To the eyeballs! | 51.00% | ~218,980 |
+| Individual delivery | 47.00% | ~201,805 |
 | Non-Stop | 45.00% | ~193,217 |
 | Juggler | 36.00% | ~154,574 |
 | Forgot something | 35.00% | ~150,280 |
-| Close call! | 30.00% | ~128,811 |
+| Close call! | 30.00% | ~128,812 |
 | Get out my way | 28.00% | ~120,224 |
-| Common cause | 26.00% | ~111,636 |
-| Critical care | 26.00% | ~111,636 |
-| Mega-railroad | 23.00% | ~98,755 |
-| Upgrade complete | 23.00% | ~98,755 |
+| Common cause | 26.00% | ~111,637 |
+| Critical care | 26.00% | ~111,637 |
+| Mega-railroad | 23.00% | ~98,756 |
+| Upgrade complete | 23.00% | ~98,756 |
 | Just in time! | 18.00% | ~77,287 |
 | Builder | 17.00% | ~72,993 |
 | Long Haul | 17.00% | ~72,881 |
-| Steam Age | 16.00% | ~68,699 |
+| Steam Age | 16.00% | ~68,700 |
 | Multilevel road | 15.00% | ~64,406 |
 | Bridgemania | 14.00% | ~60,112 |
 | Need to think | 14.00% | ~60,112 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~429 |
 | World Zapper | 0.10% | ~429 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 429,371 (Ranked 47)  
+Progressed: 429,372 (Ranked 47)  
 Completed: 24 (0.01%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 24 (0.01%) (Ranked 368)
 | 2023-12-30 | 428,633 | 24 |
 | 2023-12-31 | 428,968 | 24 |
 | 2024-01-01 | 429,346 | 24 |
-| 2024-01-02 | 429,371 | 24 |
+| 2024-01-02 | 429,372 | 24 |
 ## Awards
 Max (Challenging Puzzles): 1,011  (Ranked 158)  
 Sum: 2,086 (Ranked 216)  

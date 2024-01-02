@@ -2210,7 +2210,7 @@
   ],
   "EOS_Progressed": 16079,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19285,9 +19285,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_INTREPID",
       "SetID": "9201eeb",
       "Name": "Intrepid",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 145
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INVINCIBLE",
@@ -21675,8 +21675,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-29T16:02:55.9624641+00:00",
-  "LastChanged_Achievements": "2024-01-02T01:57:45.7865411+00:00",
+  "LastChanged_Achievements": "2024-01-02T02:33:21.587331+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:24.5452657+00:00",
-  "LastUpdate_Ratings": "2024-01-02T01:44:28.4971854+00:00",
-  "LastUpdate_Achievements": "2024-01-02T01:57:45.7876071+00:00"
+  "LastUpdate_Ratings": "2024-01-02T02:20:11.694313+00:00",
+  "LastUpdate_Achievements": "2024-01-02T02:33:21.5885363+00:00"
 }

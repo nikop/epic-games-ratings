@@ -52,10 +52,10 @@ Rating: 3.64 (Ranked 1,083)
 | Good Samaritan | 0.50% | ~11 |
 | Scream Team | 0.40% | ~9 |
 | Friendgineering | 0.40% | ~9 |
+| Enemy of My Enemy | 0.40% | ~9 |
 | Monster Hunters Club | 0.30% | ~7 |
 | So Anyway I Started Blasting | 0.30% | ~7 |
 | Under a Bushel | 0.30% | ~7 |
-| Enemy of My Enemy | 0.30% | ~7 |
 | Bob’s Final Hour | 0.20% | ~4 |
 | Faith Healer | 0.10% | ~2 |
 | A Cry in the Dark | 0.10% | ~2 |

@@ -1683,9 +1683,9 @@
       "ID": "PurificationPioneer",
       "SetID": "1jeo1g7",
       "Name": "Purification Pioneer",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 230
     },
     {
       "ID": "ReflexiveMind",
@@ -1947,9 +1947,9 @@
       "ID": "BehenianChampion",
       "SetID": "1jeo1g7",
       "Name": "Behenian Champion",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 44
     },
     {
       "ID": "BehenianHero",
@@ -2050,8 +2050,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-02T01:56:11.1880348+00:00",
+  "LastChanged_Achievements": "2024-01-02T02:31:46.969524+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:34.5642416+00:00",
-  "LastUpdate_Ratings": "2024-01-02T01:47:33.7784363+00:00",
-  "LastUpdate_Achievements": "2024-01-02T01:56:11.1881414+00:00"
+  "LastUpdate_Ratings": "2024-01-02T02:23:12.435304+00:00",
+  "LastUpdate_Achievements": "2024-01-02T02:31:46.9696209+00:00"
 }

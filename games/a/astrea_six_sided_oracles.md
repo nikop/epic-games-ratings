@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meissa's Savior | 82.00% | ~242 |
-| Purification Pioneer | 77.00% | ~227 |
+| Purification Pioneer | 78.00% | ~230 |
 | Mechanical Buddy | 72.00% | ~212 |
 | Dicesmithing Time! | 64.00% | ~189 |
 | Sanctuary Guardian | 55.00% | ~162 |
@@ -24,7 +24,7 @@
 | Apian Champion | 18.00% | ~53 |
 | Unbeatable | 17.00% | ~50 |
 | Sadistic Plan | 16.00% | ~47 |
-| Behenian Champion | 14.00% | ~41 |
+| Behenian Champion | 15.00% | ~44 |
 | Wave Bender | 10.00% | ~30 |
 | Aquarian Champion | 10.00% | ~30 |
 | Astral Seeker | 9.00% | ~27 |

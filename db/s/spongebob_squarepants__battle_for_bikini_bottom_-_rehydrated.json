@@ -6,9 +6,9 @@
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 328,
-  "Ranking_EOS_Completed": 189,
+  "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -330,10 +330,10 @@
     }
   ],
   "EOS_Progressed": 631,
-  "EOS_Completed": 5,
+  "EOS_Completed": 6,
   "EOS_NewPlayers": 250,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 0.79,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 0.95,
   "EosHistory": [
     {
       "Time": "2023-12-18T11:05:17.4237079+00:00",
@@ -1704,6 +1704,11 @@
       "Time": "2024-01-02T01:51:06.5544303+00:00",
       "NumProgressed": 631,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-02T02:26:44.4885897+00:00",
+      "NumProgressed": 631,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1730,9 +1735,9 @@
       "ID": "ACH_CHUM_BUCKET_BRAIN",
       "SetID": "biiejkc",
       "Name": "The Small Does Not Rule",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_COMPLETION",
@@ -1972,14 +1977,14 @@
       "ID": "biiejkc",
       "IsBase": true,
       "Progressed": 631,
-      "Completed": 5
+      "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-01T20:58:26.8279253+00:00",
-  "LastChanged_Achievements": "2024-01-02T01:51:06.5544299+00:00",
+  "LastChanged_Achievements": "2024-01-02T02:26:44.4885892+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:11.8880921+00:00",
-  "LastUpdate_Ratings": "2024-01-02T01:46:01.5947457+00:00",
-  "LastUpdate_Achievements": "2024-01-02T01:51:06.5544561+00:00"
+  "LastUpdate_Ratings": "2024-01-02T02:21:41.8279453+00:00",
+  "LastUpdate_Achievements": "2024-01-02T02:26:44.4886193+00:00"
 }

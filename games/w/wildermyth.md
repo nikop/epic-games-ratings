@@ -8,10 +8,10 @@ Number of Ratings: 45  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Cost of Heroism | 8.00% | ~127 |
 | Me and My Familiar | 7.00% | ~111 |
+| Passing Shadow | 6.00% | ~95 |
 | This Too Shall Pass | 6.00% | ~95 |
 | Cutthroat Competitors | 6.00% | ~95 |
 | Gotta Ca... Must Collect All of Them | 5.00% | ~79 |
-| Passing Shadow | 5.00% | ~79 |
 | How Romantic! | 5.00% | ~79 |
 | Daybreak | 5.00% | ~79 |
 | War Endured | 4.00% | ~63 |
@@ -31,9 +31,9 @@ Number of Ratings: 45  (23.09.2022)
 | Chain Reaction | 0.90% | ~14 |
 | In Soil, In Smoke | 0.80% | ~13 |
 | Some Say I'm Too Flashy | 0.80% | ~13 |
+| No Time for Clawmonsters | 0.80% | ~13 |
 | Plague Doctor | 0.70% | ~11 |
 | Astrology | 0.70% | ~11 |
-| No Time for Clawmonsters | 0.70% | ~11 |
 | Storied Past | 0.60% | ~9 |
 | Worldwalker | 0.60% | ~9 |
 | Bonebreakers | 0.60% | ~9 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Peacemaker | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,582 (Ranked 260)  
+Progressed: 1,583 (Ranked 260)  
 Completed: 7 (0.44%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 7 (0.44%) (Ranked 227)
 | 2023-12-30 | 1,572 | 7 |
 | 2023-12-31 | 1,576 | 7 |
 | 2024-01-01 | 1,580 | 7 |
-| 2024-01-02 | 1,582 | 7 |
+| 2024-01-02 | 1,583 | 7 |
 ## Awards
 Max (Character Customization): 29  (Ranked 520)  
 Sum: 29 (Ranked 539)  

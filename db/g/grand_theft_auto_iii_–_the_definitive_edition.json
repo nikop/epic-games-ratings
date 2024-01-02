@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -673,9 +673,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11332,
+  "EOS_Progressed": 11333,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 691,
+  "EOS_NewPlayers": 688,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -14408,6 +14408,11 @@
       "Time": "2024-01-02T01:53:27.316262+00:00",
       "NumProgressed": 11332,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-02T02:29:03.5422171+00:00",
+      "NumProgressed": 11333,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 29,
@@ -14443,7 +14448,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 4306
+      "UsersEstimate": 4307
     },
     {
       "ID": "ACH05",
@@ -14523,7 +14528,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1926
+      "UsersEstimate": 1927
     },
     {
       "ID": "ACH15",
@@ -14547,7 +14552,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1586
+      "UsersEstimate": 1587
     },
     {
       "ID": "ACH18",
@@ -14650,7 +14655,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 11332,
+      "Progressed": 11333,
       "Completed": 71
     }
   ],
@@ -14658,8 +14663,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-01T19:02:39.7996732+00:00",
-  "LastChanged_Achievements": "2024-01-02T01:53:27.3162616+00:00",
+  "LastChanged_Achievements": "2024-01-02T02:29:03.5422166+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:06.0840087+00:00",
-  "LastUpdate_Ratings": "2024-01-02T01:44:29.2337315+00:00",
-  "LastUpdate_Achievements": "2024-01-02T01:53:27.316331+00:00"
+  "LastUpdate_Ratings": "2024-01-02T02:20:12.3789599+00:00",
+  "LastUpdate_Achievements": "2024-01-02T02:29:03.542312+00:00"
 }

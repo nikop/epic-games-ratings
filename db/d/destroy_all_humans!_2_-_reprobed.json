@@ -5,9 +5,9 @@
   "Ranking_Rating": 560,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 525,
-  "Ranking_EOS_Progress": 397,
+  "Ranking_EOS_Progress": 396,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -288,9 +288,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 280,
+  "EOS_Progressed": 281,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -1373,6 +1373,11 @@
       "Time": "2024-01-02T01:56:38.3654274+00:00",
       "NumProgressed": 280,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-02T02:32:14.198494+00:00",
+      "NumProgressed": 281,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1385,7 +1390,7 @@
       "Name": "Mash Machine",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1399,9 +1404,9 @@
       "ID": "ACH_ANAL_PROBE_TRIPPLE_CRIT",
       "SetID": "4n84pon",
       "Name": "Perfect Probulator",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_BASKETBALL_SLAM",
@@ -1417,7 +1422,7 @@
       "Name": "Furon Fashion",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -1457,7 +1462,7 @@
       "Name": "Cult Following",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -1495,9 +1500,9 @@
       "ID": "ACH_DISLOCATOR_BOWLING",
       "SetID": "4n84pon",
       "Name": "Ducks in a Row, Fish in a Barrel",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 149
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -1513,7 +1518,7 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
@@ -1521,7 +1526,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1585,7 +1590,7 @@
       "Name": "Die Nasty",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACH_KILL_REINCARNATOR",
@@ -1736,7 +1741,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 280,
+      "Progressed": 281,
       "Completed": 1
     }
   ],
@@ -1744,8 +1749,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-31T11:01:39.7283208+00:00",
-  "LastChanged_Achievements": "2024-01-02T01:56:38.365427+00:00",
+  "LastChanged_Achievements": "2024-01-02T02:32:14.1984937+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.261947+00:00",
-  "LastUpdate_Ratings": "2024-01-02T01:45:02.6594902+00:00",
-  "LastUpdate_Achievements": "2024-01-02T01:56:38.3654584+00:00"
+  "LastUpdate_Ratings": "2024-01-02T02:20:44.1123941+00:00",
+  "LastUpdate_Achievements": "2024-01-02T02:32:14.1985276+00:00"
 }

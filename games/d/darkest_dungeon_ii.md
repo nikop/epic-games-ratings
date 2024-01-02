@@ -36,6 +36,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Funny Guy | 3.00% | ~3,937 |
 | Long Live the King | 3.00% | ~3,937 |
 | Wyrdly Reconstructed | 3.00% | ~3,937 |
+| Boxcar Kid | 3.00% | ~3,937 |
 | Unfulfilled Desires | 3.00% | ~3,937 |
 | Dissector | 3.00% | ~3,937 |
 | Banishment | 3.00% | ~3,937 |
@@ -47,7 +48,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Whale | 3.00% | ~3,937 |
 | Unshackled | 3.00% | ~3,937 |
 | Road Trip | 3.00% | ~3,937 |
-| Boxcar Kid | 2.00% | ~2,624 |
 | This Looks Familiar | 2.00% | ~2,624 |
 | Hope Rekindled | 2.00% | ~2,624 |
 | Predator | 2.00% | ~2,624 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,220 (Ranked 90)  
+Progressed: 131,221 (Ranked 90)  
 Completed: 3 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,7 +333,7 @@ Completed: 3 (0.00%) (Ranked 390)
 | 2023-12-30 | 130,838 | 3 |
 | 2023-12-31 | 131,026 | 3 |
 | 2024-01-01 | 131,206 | 3 |
-| 2024-01-02 | 131,220 | 3 |
+| 2024-01-02 | 131,221 | 3 |
 ## Awards
 Max (Character Customization): 7,919  (Ranked 50)  
 Sum: 21,328 (Ranked 58)  

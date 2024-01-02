@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17983,
+  "EOS_Progressed": 17986,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1665,
+  "EOS_NewPlayers": 1664,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10994,6 +10994,11 @@
       "Time": "2024-01-02T01:51:56.4232763+00:00",
       "NumProgressed": 17983,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T02:27:34.11284+00:00",
+      "NumProgressed": 17986,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -11126,7 +11131,7 @@
       "Name": "Poolrooms",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "ACH_WINLEVEL4",
@@ -11166,7 +11171,7 @@
       "Name": "Motion",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "ACH_WINLEVEL9999999",
@@ -11197,14 +11202,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 17983,
+      "Progressed": 17986,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2024-01-02T01:51:56.4232759+00:00",
+  "LastChanged_Achievements": "2024-01-02T02:27:34.112838+00:00",
   "LastUpdate_AppInfo": "2024-01-01T19:57:14.7039433+00:00",
-  "LastUpdate_Ratings": "2024-01-02T01:50:30.7457469+00:00",
-  "LastUpdate_Achievements": "2024-01-02T01:51:56.4233296+00:00"
+  "LastUpdate_Ratings": "2024-01-02T02:26:07.6320494+00:00",
+  "LastUpdate_Achievements": "2024-01-02T02:27:34.1129117+00:00"
 }

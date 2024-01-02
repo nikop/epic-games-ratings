@@ -4,7 +4,7 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewPlayers": 278,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 773,
+  "EOS_Progressed": 774,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.72,
+  "EOS_Completed_Percentage": 2.71,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:48.1616312+00:00",
@@ -1585,6 +1585,11 @@
       "Time": "2024-01-02T01:57:09.0755755+00:00",
       "NumProgressed": 773,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-02T02:32:44.5531147+00:00",
+      "NumProgressed": 774,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 20,
@@ -1594,9 +1599,9 @@
       "ID": "beat_it",
       "SetID": "d4f4pll",
       "Name": "Beat It",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 379
+      "UsersEstimate": 372
     },
     {
       "ID": "blast_from_the_past",
@@ -1660,7 +1665,7 @@
       "Name": "Stalemate",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "ending_7",
@@ -1676,7 +1681,7 @@
       "Name": "MVP - Most Vanishing Person",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "falling_for_you",
@@ -1692,7 +1697,7 @@
       "Name": "Free Champagne",
       "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "kamikaze",
@@ -1700,7 +1705,7 @@
       "Name": "Kamikaze",
       "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "kindar_surprise",
@@ -1708,7 +1713,7 @@
       "Name": "Kindar Surprise",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "not_a_people_person",
@@ -1748,14 +1753,14 @@
       "Name": "Tough Decision",
       "Percentage": 92,
       "XP": 50,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 773,
+      "Progressed": 774,
       "Completed": 21
     }
   ],
@@ -1763,8 +1768,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2024-01-02T01:57:09.0755751+00:00",
+  "LastChanged_Achievements": "2024-01-02T02:32:44.5531142+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:19.0245137+00:00",
-  "LastUpdate_Ratings": "2024-01-02T01:46:42.6009061+00:00",
-  "LastUpdate_Achievements": "2024-01-02T01:57:09.0756044+00:00"
+  "LastUpdate_Ratings": "2024-01-02T02:22:23.1415139+00:00",
+  "LastUpdate_Achievements": "2024-01-02T02:32:44.5531394+00:00"
 }

@@ -2951,9 +2951,9 @@
       "Count": 150
     }
   ],
-  "EOS_Progressed": 677040,
+  "EOS_Progressed": 677045,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 2934,
+  "EOS_NewPlayers": 2922,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32406,6 +32406,11 @@
       "Time": "2024-01-02T01:57:38.7506597+00:00",
       "NumProgressed": 677040,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-02T02:33:14.5755015+00:00",
+      "NumProgressed": 677045,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 52,
@@ -32417,7 +32422,7 @@
       "Name": "Stroller",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 108326
+      "UsersEstimate": 108327
     },
     {
       "ID": "_01_01_DISTANCE_200_EASY",
@@ -32457,7 +32462,7 @@
       "Name": "Advanced Stroller",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 128638
+      "UsersEstimate": 128639
     },
     {
       "ID": "_01_06_DISTANCE_200_MEDIUM",
@@ -32665,7 +32670,7 @@
       "Name": "Incurious",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 121867
+      "UsersEstimate": 121868
     },
     {
       "ID": "_03_01_MOJAVE_COURIER",
@@ -32673,7 +32678,7 @@
       "Name": "Mojave Courier",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 40622
+      "UsersEstimate": 40623
     },
     {
       "ID": "_03_02_NANUK",
@@ -32737,7 +32742,7 @@
       "Name": "Climate Change",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 115097
+      "UsersEstimate": 115098
     },
     {
       "ID": "_11_00_FIRE_FIGHTER",
@@ -32825,22 +32830,22 @@
       "Name": "Saved by Nausica\u00E4",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 40622
+      "UsersEstimate": 40623
     }
   ],
   "AchievementSets": [
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 677040,
+      "Progressed": 677045,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2024-01-01T03:57:11.3630278+00:00",
-  "LastChanged_Achievements": "2024-01-02T01:57:38.7506592+00:00",
+  "LastChanged_Achievements": "2024-01-02T02:33:14.5755013+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:40.955753+00:00",
-  "LastUpdate_Ratings": "2024-01-02T01:44:55.3772299+00:00",
-  "LastUpdate_Achievements": "2024-01-02T01:57:38.7508379+00:00"
+  "LastUpdate_Ratings": "2024-01-02T02:20:37.2478693+00:00",
+  "LastUpdate_Achievements": "2024-01-02T02:33:14.5756572+00:00"
 }

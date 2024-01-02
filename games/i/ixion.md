@@ -1,18 +1,18 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.58 (Ranked 465)  
+Rating: 4.59 (Ranked 446)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 32.00% | ~1,245 |
 | Sputnik 2049 | 28.00% | ~1,089 |
-| Infinite Growth... | 27.00% | ~1,050 |
-| Without Breaking Some Eggs... | 26.00% | ~1,011 |
+| Infinite Growth... | 27.00% | ~1,051 |
+| Without Breaking Some Eggs... | 26.00% | ~1,012 |
 | Space Society | 18.00% | ~700 |
 | A Thousand Strong | 18.00% | ~700 |
 | Ready for a New World | 18.00% | ~700 |
-| Permanent Redesigns | 16.00% | ~622 |
+| Permanent Redesigns | 16.00% | ~623 |
 | The Ship of Theseus | 15.00% | ~584 |
 | Guy de Borderlands | 14.00% | ~545 |
 | Fully Recycled | 14.00% | ~545 |
@@ -30,13 +30,13 @@ Rating: 4.58 (Ranked 465)
 | From the Past | 7.00% | ~272 |
 | Access Granted | 6.00% | ~233 |
 | All in Good Health | 6.00% | ~233 |
-| Oats | 5.00% | ~194 |
-| What They Hide From Us | 5.00% | ~194 |
-| ...  in a finite world | 5.00% | ~194 |
-| In Dolos We Trust | 5.00% | ~194 |
-| BRAWL! | 5.00% | ~194 |
-| Drill-dozer | 5.00% | ~194 |
-| What the Ruins Teach Us | 5.00% | ~194 |
+| Oats | 5.00% | ~195 |
+| What They Hide From Us | 5.00% | ~195 |
+| ...  in a finite world | 5.00% | ~195 |
+| In Dolos We Trust | 5.00% | ~195 |
+| BRAWL! | 5.00% | ~195 |
+| Drill-dozer | 5.00% | ~195 |
+| What the Ruins Teach Us | 5.00% | ~195 |
 | Sustainable Energy | 4.00% | ~156 |
 | Pedal to the Metal | 4.00% | ~156 |
 | Praise the Hull! | 3.00% | ~117 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 465)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,890 (Ranked 213)  
+Progressed: 3,891 (Ranked 213)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-30 | 3,837 | 0 |
 | 2023-12-31 | 3,860 | 0 |
 | 2024-01-01 | 3,888 | 0 |
-| 2024-01-02 | 3,890 | 0 |
+| 2024-01-02 | 3,891 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -370,3 +370,4 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-10 | 4.58 | 0 | 0 |
 | 2023-12-21 | 4.57 | 0 | 0 |
 | 2023-12-22 | 4.58 | 0 | 0 |
+| 2024-01-02 | 4.59 | 0 | 0 |

@@ -8,7 +8,7 @@ Rating: 4.54 (Ranked 543)
 | Getting Started | 81.00% | ~14,557 |
 | Pay 'n' Spray | 50.00% | ~8,986 |
 | All Dressed Up for San Fierro | 25.00% | ~4,493 |
-| The American Dream | 19.00% | ~3,414 |
+| The American Dream | 19.00% | ~3,415 |
 | School's Out | 18.00% | ~3,235 |
 | Smooth Moves | 17.00% | ~3,055 |
 | Today Was a Good Day | 15.00% | ~2,696 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 543)
 | ...Here we go again | 0.50% | ~90 |
 | I Ain't No Buster | 0.40% | ~72 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,971 (Ranked 158)  
+Progressed: 17,972 (Ranked 158)  
 Completed: 69 (0.38%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,10 +298,10 @@ Completed: 69 (0.38%) (Ranked 235)
 | 2023-12-30 | 17,622 | 66 |
 | 2023-12-31 | 17,792 | 67 |
 | 2024-01-01 | 17,956 | 69 |
-| 2024-01-02 | 17,971 | 69 |
+| 2024-01-02 | 17,972 | 69 |
 ## Awards
 Max (Relaxing): 49  (Ranked 456)  
-Sum: 320 (Ranked 373)  
+Sum: 321 (Ranked 373)  
 Diff (max vs sum): 83  
 | Award | Count |
 | ----- | ----- |
@@ -309,7 +309,7 @@ Diff (max vs sum): 83
 | This game is Relaxing | 49 |
 | This game has Amazing Characters | 48 |
 | This game is Great for Beginners | 45 |
-| This game has Amazing Storytelling | 41 |
+| This game has Amazing Storytelling | 42 |
 | This game is Highly Recommended | 41 |
 | This game has Quickly Understood Controls | 33 |
 | This game has Diverse Characters | 32 |
@@ -536,4 +536,4 @@ Diff (max vs sum): 83
 | 2023-12-30 | 4.55 | 557 | 866 |
 | 2023-12-31 | 4.55 | 557 | 871 |
 | 2024-01-01 | 4.55 | 49 | 320 |
-| 2024-01-02 | 4.54 | 49 | 320 |
+| 2024-01-02 | 4.54 | 49 | 321 |

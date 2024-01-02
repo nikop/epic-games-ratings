@@ -163,17 +163,17 @@
       "ID": "beginner",
       "SetID": "d4692al",
       "Name": "Beginner Guide",
-      "Percentage": 52,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "contractor",
       "SetID": "d4692al",
       "Name": "New Contractor",
-      "Percentage": 19,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "crazyCoaster",
@@ -243,9 +243,9 @@
       "ID": "expansion",
       "SetID": "d4692al",
       "Name": "Expansion",
-      "Percentage": 24,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "halls",
@@ -299,9 +299,9 @@
       "ID": "researcher",
       "SetID": "d4692al",
       "Name": "Researcher",
-      "Percentage": 19,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "sandland",
@@ -394,8 +394,8 @@
   ],
   "FirstSeen": "2023-12-24T08:59:07.6239252+00:00",
   "FirstSeenAchievements": "2023-12-14T09:03:47.827813+00:00",
-  "LastChanged_Achievements": "2024-01-02T01:52:22.3491572+00:00",
+  "LastChanged_Achievements": "2024-01-02T02:27:59.767447+00:00",
   "LastUpdate_AppInfo": "2023-12-28T08:57:17.3349077+00:00",
-  "LastUpdate_Ratings": "2024-01-02T01:46:55.8296846+00:00",
-  "LastUpdate_Achievements": "2024-01-02T01:52:22.3491748+00:00"
+  "LastUpdate_Ratings": "2024-01-02T02:22:35.7933331+00:00",
+  "LastUpdate_Achievements": "2024-01-02T02:27:59.7674894+00:00"
 }

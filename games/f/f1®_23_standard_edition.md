@@ -5,28 +5,28 @@ Rating: 4.65 (Ranked 322)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~13,263 |
-| On the Top Step | 82.00% | ~11,952 |
-| Setting up for Success | 69.00% | ~10,057 |
-| Team Orders | 68.00% | ~9,911 |
-| Engineer | 45.00% | ~6,559 |
-| Familiar Faces | 42.00% | ~6,122 |
-| Going the Extra Mile | 36.00% | ~5,247 |
-| Sharing the Love | 33.00% | ~4,810 |
+| Getting on the Step | 91.00% | ~13,266 |
+| On the Top Step | 82.00% | ~11,954 |
+| Setting up for Success | 69.00% | ~10,059 |
+| Team Orders | 68.00% | ~9,913 |
+| Engineer | 45.00% | ~6,560 |
+| Familiar Faces | 42.00% | ~6,123 |
+| Going the Extra Mile | 36.00% | ~5,248 |
+| Sharing the Love | 33.00% | ~4,811 |
 | Hitting a Season | 26.00% | ~3,790 |
 | Making History | 25.00% | ~3,644 |
-| A Dozen Pieces | 24.00% | ~3,498 |
-| Network Success | 23.00% | ~3,352 |
-| Challenge Yourself | 23.00% | ~3,352 |
-| Writing a new Chapter | 19.00% | ~2,769 |
+| A Dozen Pieces | 24.00% | ~3,499 |
+| Network Success | 23.00% | ~3,353 |
+| Challenge Yourself | 23.00% | ~3,353 |
+| Writing a new Chapter | 19.00% | ~2,770 |
 | Spring Cleaning | 18.00% | ~2,624 |
-| Reduce | 15.00% | ~2,186 |
-| Ups and Downs | 15.00% | ~2,186 |
+| Reduce | 15.00% | ~2,187 |
+| Ups and Downs | 15.00% | ~2,187 |
 | Crucial Combo | 13.00% | ~1,895 |
 | Reuse | 12.00% | ~1,749 |
 | Proving Them Wrong | 12.00% | ~1,749 |
-| Gathering Dust | 11.00% | ~1,603 |
-| One for the Book | 11.00% | ~1,603 |
+| Gathering Dust | 11.00% | ~1,604 |
+| One for the Book | 11.00% | ~1,604 |
 | Oil and Water | 10.00% | ~1,458 |
 | Friendly Competition | 10.00% | ~1,458 |
 | Switcheroo | 10.00% | ~1,458 |
@@ -36,8 +36,8 @@ Rating: 4.65 (Ranked 322)
 | Hitting a Bullseye | 9.00% | ~1,312 |
 | Spinning Around | 9.00% | ~1,312 |
 | Recycle | 7.00% | ~1,020 |
-| Undisputed Winner | 6.00% | ~874 |
-| Tinkerer | 6.00% | ~874 |
+| Undisputed Winner | 6.00% | ~875 |
+| Tinkerer | 6.00% | ~875 |
 | For all Those Back at the Factory | 4.00% | ~583 |
 | Living up to Expectations | 4.00% | ~583 |
 | Smooth Operator | 4.00% | ~583 |
@@ -55,7 +55,7 @@ Rating: 4.65 (Ranked 322)
 | Shot in the Dark | 0.10% | ~15 |
 | Elite Racer | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,575 (Ranked 170)  
+Progressed: 14,578 (Ranked 170)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,14 +166,14 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-30 | 13,937 | 0 |
 | 2023-12-31 | 14,268 | 0 |
 | 2024-01-01 | 14,544 | 0 |
-| 2024-01-02 | 14,575 | 0 |
+| 2024-01-02 | 14,578 | 0 |
 ## Awards
-Max (Diverse Characters): 54  (Ranked 437)  
-Sum: 352 (Ranked 365)  
-Diff (max vs sum): 72  
+Max (Diverse Characters): 56  (Ranked 434)  
+Sum: 355 (Ranked 365)  
+Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 54 |
+| This game has Diverse Characters | 56 |
 | This game has a Competitive Community | 45 |
 | This game is Highly Recommended | 38 |
 | This game is Great for Beginners | 36 |
@@ -181,8 +181,8 @@ Diff (max vs sum): 72
 | This game has Quickly Understood Controls | 34 |
 | This game has Amazing Characters | 32 |
 | This game has Challenging Combat | 30 |
+| This game has Amazing Storytelling | 30 |
 | This game is Educational | 30 |
-| This game has Amazing Storytelling | 29 |
 | This game has Competitive Players | 26 |
 | This game is Great for Quick Sessions | 24 |
 ## Ratings History
@@ -300,3 +300,4 @@ Diff (max vs sum): 72
 | 2023-12-30 | 4.66 | 50 | 331 |
 | 2023-12-31 | 4.67 | 54 | 344 |
 | 2024-01-01 | 4.66 | 54 | 352 |
+| 2024-01-02 | 4.65 | 56 | 355 |

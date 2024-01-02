@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 349,
   "Ranking_EOS_NewPlayers": 34,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-06-01T15:00:00+00:00",
     "PcReleaseDate": "2010-10-19T11:26:00+00:00",
@@ -9759,10 +9759,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 19932,
       "NumberOfAwardsMax": 6736
+    },
+    {
+      "Time": "2024-01-02T02:24:00.594963+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 19937,
+      "NumberOfAwardsMax": 6736
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 19932,
+  "NumberOfAwards": 19937,
   "NumberOfAwardsMax": 6736,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9836,13 +9842,13 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1508
+      "Count": 1513
     }
   ],
-  "EOS_Progressed": 878994,
+  "EOS_Progressed": 879006,
   "EOS_Completed": 235,
-  "EOS_NewPlayers": 7785,
-  "EOS_NewCompleters": 7,
+  "EOS_NewPlayers": 7770,
+  "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
     {
@@ -35929,6 +35935,11 @@
       "Time": "2024-01-02T01:56:42.2546598+00:00",
       "NumProgressed": 878994,
       "NumCompleted": 235
+    },
+    {
+      "Time": "2024-01-02T02:32:18.0210133+00:00",
+      "NumProgressed": 879006,
+      "NumCompleted": 235
     }
   ],
   "TotalAchievements": 75,
@@ -35940,7 +35951,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 237328
+      "UsersEstimate": 237332
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -36539,22 +36550,22 @@
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 878994,
+      "Progressed": 879006,
       "Completed": 280
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 878994,
+      "Progressed": 879006,
       "Completed": 235
     }
   ],
   "FirstSeen": "2023-06-01T15:57:19.0339471+00:00",
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
-  "LastChanged": "2024-01-02T01:48:22.4873882+00:00",
-  "LastChanged_Achievements": "2024-01-02T01:56:42.2546595+00:00",
+  "LastChanged": "2024-01-02T02:24:00.5949628+00:00",
+  "LastChanged_Achievements": "2024-01-02T02:32:18.0210129+00:00",
   "LastUpdate_AppInfo": "2023-12-29T11:57:17.1864291+00:00",
-  "LastUpdate_Ratings": "2024-01-02T01:48:22.4873888+00:00",
-  "LastUpdate_Achievements": "2024-01-02T01:56:42.2548412+00:00"
+  "LastUpdate_Ratings": "2024-01-02T02:24:00.5949635+00:00",
+  "LastUpdate_Achievements": "2024-01-02T02:32:18.0211813+00:00"
 }

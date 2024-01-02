@@ -9259,9 +9259,9 @@
       "Count": 3617
     }
   ],
-  "EOS_Progressed": 249424,
+  "EOS_Progressed": 249442,
   "EOS_Completed": 2584,
-  "EOS_NewPlayers": 4742,
+  "EOS_NewPlayers": 4753,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -38294,6 +38294,11 @@
       "Time": "2024-01-02T01:57:46.4867167+00:00",
       "NumProgressed": 249424,
       "NumCompleted": 2584
+    },
+    {
+      "Time": "2024-01-02T02:33:22.5383318+00:00",
+      "NumProgressed": 249442,
+      "NumCompleted": 2584
     }
   ],
   "TotalAchievements": 546,
@@ -42625,7 +42630,7 @@
       "Name": "The Overgrown Grove",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1079
     },
     {
       "ID": "objective_completed_673",
@@ -42649,7 +42654,7 @@
       "Name": "Mental Gymnastics",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1079
     },
     {
       "ID": "objective_completed_860",
@@ -42672,21 +42677,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 215698,
+      "Progressed": 215716,
       "Completed": 4123
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 249424,
+      "Progressed": 249442,
       "Completed": 2584
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-01T16:58:00.6629331+00:00",
-  "LastChanged_Achievements": "2024-01-02T01:57:46.4867162+00:00",
+  "LastChanged_Achievements": "2024-01-02T02:33:22.5383313+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-02T01:45:15.3783457+00:00",
-  "LastUpdate_Achievements": "2024-01-02T01:57:46.4892019+00:00"
+  "LastUpdate_Ratings": "2024-01-02T02:20:57.1261501+00:00",
+  "LastUpdate_Achievements": "2024-01-02T02:33:22.5407905+00:00"
 }

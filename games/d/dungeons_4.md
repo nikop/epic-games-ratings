@@ -52,7 +52,7 @@ Rating: 4.70 (Ranked 217)
 | The Rune Sockets of Finitude (Part 2) | 25.00% | ~173 |
 | The Last Stand - This Time For Real! | 23.00% | ~159 |
 | Rubble and Ashes | 21.00% | ~145 |
-| Lavalumps on Ice! | 19.00% | ~131 |
+| Lavalumps on Ice! | 20.00% | ~138 |
 | To the Max! | 19.00% | ~131 |
 | To Infinity And Beyond! | 19.00% | ~131 |
 | Sacrificial Pit = Garbage Disposal? | 18.00% | ~124 |

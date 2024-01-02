@@ -9,9 +9,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Explorer | 1.00% | ~161 |
 | Settler | 1.00% | ~161 |
 | Play a Single Player Game | 1.00% | ~161 |
+| Intrepid | 0.90% | ~145 |
 | Friendly Family | 0.90% | ~145 |
 | Architect | 0.80% | ~129 |
-| Intrepid | 0.80% | ~129 |
 | Strong | 0.80% | ~129 |
 | Hanging Gardens | 0.80% | ~129 |
 | Able | 0.70% | ~113 |

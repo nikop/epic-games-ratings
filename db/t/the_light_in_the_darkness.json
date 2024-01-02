@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2835,
+  "EOS_Progressed": 2836,
   "EOS_Completed": 261,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 9.21,
+  "EOS_Completed_Percentage": 9.2,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -8151,6 +8151,11 @@
       "Time": "2024-01-01T16:09:09.6142983+00:00",
       "NumProgressed": 2835,
       "NumCompleted": 261
+    },
+    {
+      "Time": "2024-01-02T02:32:13.1076718+00:00",
+      "NumProgressed": 2836,
+      "NumCompleted": 261
     }
   ],
   "TotalAchievements": 12,
@@ -8194,7 +8199,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 38,
       "XP": 40,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1078
     },
     {
       "ID": "Jakob",
@@ -8257,7 +8262,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2835,
+      "Progressed": 2836,
       "Completed": 261
     }
   ],
@@ -8265,8 +8270,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2024-01-02T01:56:37.1890477+00:00",
+  "LastChanged_Achievements": "2024-01-02T02:32:13.1076713+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:43.1784537+00:00",
-  "LastUpdate_Ratings": "2024-01-02T01:45:42.5895568+00:00",
-  "LastUpdate_Achievements": "2024-01-02T01:56:37.1890948+00:00"
+  "LastUpdate_Ratings": "2024-01-02T02:21:22.6523399+00:00",
+  "LastUpdate_Achievements": "2024-01-02T02:32:13.107725+00:00"
 }

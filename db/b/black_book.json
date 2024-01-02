@@ -680,9 +680,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 64313,
+  "EOS_Progressed": 64315,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 1791,
+  "EOS_NewPlayers": 1786,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15390,6 +15390,11 @@
       "Time": "2024-01-02T01:51:13.1709644+00:00",
       "NumProgressed": 64313,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2024-01-02T02:26:51.10486+00:00",
+      "NumProgressed": 64315,
+      "NumCompleted": 63
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -15474,7 +15479,7 @@
       "Name": "Cow Level",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 7074
+      "UsersEstimate": 7075
     },
     {
       "ID": "DEAD_MAN",
@@ -15522,7 +15527,7 @@
       "Name": "Scientist",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 7074
+      "UsersEstimate": 7075
     },
     {
       "ID": "ENCYCLOPEDIA_3",
@@ -15586,7 +15591,7 @@
       "Name": "Herbalist",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6431
+      "UsersEstimate": 6432
     },
     {
       "ID": "HERBS_3",
@@ -15754,7 +15759,7 @@
       "Name": "Water",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6431
+      "UsersEstimate": 6432
     },
     {
       "ID": "WOLF",
@@ -15801,15 +15806,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 64313,
+      "Progressed": 64315,
       "Completed": 63
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-12-26T15:58:19.0277627+00:00",
-  "LastChanged_Achievements": "2024-01-02T01:51:13.170964+00:00",
+  "LastChanged_Achievements": "2024-01-02T02:26:51.1048598+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:18.2621134+00:00",
-  "LastUpdate_Ratings": "2024-01-02T01:45:05.9425485+00:00",
-  "LastUpdate_Achievements": "2024-01-02T01:51:13.1710437+00:00"
+  "LastUpdate_Ratings": "2024-01-02T02:20:47.6281453+00:00",
+  "LastUpdate_Achievements": "2024-01-02T02:26:51.1049692+00:00"
 }
