@@ -325,9 +325,9 @@
       "ID": "GettingItDone",
       "SetID": "4nce15l",
       "Name": "Gettin\u0027 It Done",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 40,
-      "UsersEstimate": 79
+      "UsersEstimate": 81
     },
     {
       "ID": "MasterCrafter",
@@ -430,8 +430,8 @@
   "FirstSeenRating": "2023-03-31T05:58:42.3919584+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.9587587+00:00",
   "LastChanged": "2023-03-31T05:58:42.3919585+00:00",
-  "LastChanged_Achievements": "2024-01-02T19:09:17.5472153+00:00",
+  "LastChanged_Achievements": "2024-01-02T20:08:26.3781929+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:41.5810558+00:00",
-  "LastUpdate_Ratings": "2024-01-02T18:57:26.7413952+00:00",
-  "LastUpdate_Achievements": "2024-01-02T19:09:17.5472331+00:00"
+  "LastUpdate_Ratings": "2024-01-02T19:57:16.2191713+00:00",
+  "LastUpdate_Achievements": "2024-01-02T20:08:26.3782083+00:00"
 }

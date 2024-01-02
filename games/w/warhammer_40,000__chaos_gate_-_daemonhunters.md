@@ -25,6 +25,7 @@ Number of Ratings: 371  (23.09.2022)
 | Just a Scratch | 3.00% | ~112 |
 | Daemonkeeper | 2.00% | ~74 |
 | Corruption Cleanser | 2.00% | ~74 |
+| Mind Like a Fortress | 2.00% | ~74 |
 | Efficient Killer | 2.00% | ~74 |
 | Only in Death | 2.00% | ~74 |
 | A Gift Spurned | 2.00% | ~74 |
@@ -32,7 +33,6 @@ Number of Ratings: 371  (23.09.2022)
 | Hive Exterminator | 2.00% | ~74 |
 | Fleetmaster | 1.00% | ~37 |
 | Exterminator | 1.00% | ~37 |
-| Mind Like a Fortress | 1.00% | ~37 |
 | Preservationist | 1.00% | ~37 |
 | Junk Banishment | 1.00% | ~37 |
 | Long Distance Call | 1.00% | ~37 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.10% | ~4 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,717 (Ranked 216)  
+Progressed: 3,718 (Ranked 216)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-30 | 3,663 | 0 |
 | 2023-12-31 | 3,685 | 0 |
 | 2024-01-01 | 3,707 | 0 |
-| 2024-01-02 | 3,717 | 0 |
+| 2024-01-02 | 3,718 | 0 |
 ## Awards
 Max (Character Customization): 232  (Ranked 282)  
 Sum: 494 (Ranked 334)  

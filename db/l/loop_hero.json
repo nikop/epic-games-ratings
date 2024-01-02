@@ -2,7 +2,7 @@
   "ID": "ff50f85ed609454e80ac46d9496da34d",
   "Name": "Loop Hero",
   "ProductSlug": "loop-hero",
-  "Ranking_Rating": 282,
+  "Ranking_Rating": 283,
   "Ranking_Popularity": 220,
   "Ranking_PopularitySum": 155,
   "Ranking_EOS_Progress": 820,
@@ -5506,11 +5506,17 @@
       "Rating": 4.67,
       "NumberOfAwards": 4282,
       "NumberOfAwardsMax": 494
+    },
+    {
+      "Time": "2024-01-02T19:58:13.5767421+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 4283,
+      "NumberOfAwardsMax": 495
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4282,
-  "NumberOfAwardsMax": 494,
+  "NumberOfAwards": 4283,
+  "NumberOfAwardsMax": 495,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
@@ -5523,7 +5529,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 494
+      "Count": 495
     },
     {
       "Text": "This game is Relaxing",
@@ -5585,8 +5591,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:49.2794881+00:00",
-  "LastChanged": "2024-01-02T17:58:56.5551125+00:00",
+  "LastChanged": "2024-01-02T19:58:13.576742+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:16.1702971+00:00",
-  "LastUpdate_Ratings": "2024-01-02T18:58:50.3766083+00:00",
-  "LastUpdate_Achievements": "2024-01-02T19:06:04.9914778+00:00"
+  "LastUpdate_Ratings": "2024-01-02T19:58:13.5767426+00:00",
+  "LastUpdate_Achievements": "2024-01-02T20:04:42.6975339+00:00"
 }

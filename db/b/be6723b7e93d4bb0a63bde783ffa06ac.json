@@ -4,7 +4,7 @@
   "ProductSlug": "strike-force-kitty-4603e5",
   "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 159,
+  "EOS_Progressed": 160,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -764,6 +764,11 @@
       "Time": "2024-01-02T19:07:35.3740837+00:00",
       "NumProgressed": 159,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T20:05:44.740028+00:00",
+      "NumProgressed": 160,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-23T15:03:22.1103385+00:00",
@@ -926,7 +931,7 @@
       "ID": "ach27",
       "SetID": "baneh2j",
       "Name": "Preparation",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 35,
       "UsersEstimate": 122
     },
@@ -934,9 +939,9 @@
       "ID": "ach28",
       "SetID": "baneh2j",
       "Name": "Start",
-      "Percentage": 91,
+      "Percentage": 90,
       "XP": 35,
-      "UsersEstimate": 145
+      "UsersEstimate": 144
     },
     {
       "ID": "ach29",
@@ -1023,14 +1028,14 @@
     {
       "ID": "baneh2j",
       "IsBase": true,
-      "Progressed": 159,
+      "Progressed": 160,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-28T07:00:19.541662+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6926977+00:00",
-  "LastChanged_Achievements": "2024-01-02T19:07:35.3740833+00:00",
+  "LastChanged_Achievements": "2024-01-02T20:05:44.7400276+00:00",
   "LastUpdate_AppInfo": "2023-12-27T09:57:11.1404081+00:00",
-  "LastUpdate_Ratings": "2024-01-02T19:01:15.6443886+00:00",
-  "LastUpdate_Achievements": "2024-01-02T19:07:35.3741068+00:00"
+  "LastUpdate_Ratings": "2024-01-02T19:59:51.1150816+00:00",
+  "LastUpdate_Achievements": "2024-01-02T20:05:44.7400493+00:00"
 }

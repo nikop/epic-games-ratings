@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -400,7 +400,7 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5207,
+  "EOS_Progressed": 5208,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
@@ -4590,6 +4590,11 @@
       "Time": "2024-01-02T19:05:08.0104062+00:00",
       "NumProgressed": 5207,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-02T20:03:59.7162747+00:00",
+      "NumProgressed": 5208,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -4609,7 +4614,7 @@
       "Name": "Firebug",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1041
+      "UsersEstimate": 1042
     },
     {
       "ID": "ID_ACHIEV_03",
@@ -4649,7 +4654,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4374
+      "UsersEstimate": 4375
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -4657,7 +4662,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4895
+      "UsersEstimate": 4896
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -4665,7 +4670,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3957
+      "UsersEstimate": 3958
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -4793,7 +4798,7 @@
       "Name": "Duty-Bound",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "ID_ACHIEV_26",
@@ -4809,7 +4814,7 @@
       "Name": "Follow the White Rabbit",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "ID_ACHIEV_28",
@@ -4817,7 +4822,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3957
+      "UsersEstimate": 3958
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -4825,7 +4830,7 @@
       "Name": "Liberation",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "ID_ACHIEV_30",
@@ -4881,7 +4886,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1718
+      "UsersEstimate": 1719
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -4937,7 +4942,7 @@
       "Name": "GOLIATH",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "ID_ACHIEV_45",
@@ -4945,7 +4950,7 @@
       "Name": "OPERATOR",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1822
+      "UsersEstimate": 1823
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -5129,22 +5134,22 @@
       "Name": "Risk Assessment",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     }
   ],
   "AchievementSets": [
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5207,
+      "Progressed": 5208,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-31T19:58:10.5906343+00:00",
-  "LastChanged_Achievements": "2024-01-02T19:05:08.0104059+00:00",
+  "LastChanged_Achievements": "2024-01-02T20:03:59.7162743+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:44.5404504+00:00",
-  "LastUpdate_Ratings": "2024-01-02T18:59:35.3692799+00:00",
-  "LastUpdate_Achievements": "2024-01-02T19:05:08.0104883+00:00"
+  "LastUpdate_Ratings": "2024-01-02T19:58:43.6089933+00:00",
+  "LastUpdate_Achievements": "2024-01-02T20:03:59.7163484+00:00"
 }

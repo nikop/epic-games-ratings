@@ -4,7 +4,7 @@
   "ProductSlug": "one-military-camp-8db1f6",
   "Ranking_EOS_Progress": 403,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 267,
+  "EOS_Progressed": 268,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1189,6 +1189,11 @@
       "Time": "2024-01-02T14:07:15.1534042+00:00",
       "NumProgressed": 267,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T20:05:29.6088712+00:00",
+      "NumProgressed": 268,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-17T17:03:41.4004468+00:00",
@@ -1409,7 +1414,7 @@
       "Name": "Capitalism",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACHIEVEMENT_ID_33",
@@ -1552,14 +1557,14 @@
     {
       "ID": "c504de6",
       "IsBase": true,
-      "Progressed": 267,
+      "Progressed": 268,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2024-01-02T19:07:13.5668476+00:00",
+  "LastChanged_Achievements": "2024-01-02T20:05:29.6088708+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.400419+00:00",
-  "LastUpdate_Ratings": "2024-01-02T18:57:49.7927158+00:00",
-  "LastUpdate_Achievements": "2024-01-02T19:07:13.5668857+00:00"
+  "LastUpdate_Ratings": "2024-01-02T19:57:33.0870829+00:00",
+  "LastUpdate_Achievements": "2024-01-02T20:05:29.6089036+00:00"
 }

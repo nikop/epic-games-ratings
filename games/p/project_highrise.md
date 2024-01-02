@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 56.00% | ~268 |
-| Starting Skyward | 49.00% | ~235 |
-| Grime is Not Good | 43.00% | ~206 |
-| Floor Galore | 37.00% | ~177 |
-| Campaign Launch | 37.00% | ~177 |
-| Dinner Dash | 37.00% | ~177 |
-| Need a Consult | 34.00% | ~163 |
-| It's Technical | 34.00% | ~163 |
-| Upgrade Unlock | 33.00% | ~158 |
+| In the Black | 56.00% | ~269 |
+| Starting Skyward | 49.00% | ~236 |
+| Grime is Not Good | 43.00% | ~207 |
+| Floor Galore | 37.00% | ~178 |
+| Dinner Dash | 37.00% | ~178 |
+| Campaign Launch | 36.00% | ~173 |
+| Need a Consult | 34.00% | ~164 |
+| It's Technical | 34.00% | ~164 |
+| Upgrade Unlock | 33.00% | ~159 |
 | Delegate Maintenance | 30.00% | ~144 |
 | Proper Walls | 29.00% | ~139 |
 | Destination Destiny | 29.00% | ~139 |
-| Happy Tenants | 24.00% | ~115 |
-| Potent Potables | 24.00% | ~115 |
-| Smooth Service | 23.00% | ~110 |
-| Your Prestige is Rising | 22.00% | ~105 |
-| Retail Revenue | 22.00% | ~105 |
+| Happy Tenants | 23.00% | ~111 |
+| Potent Potables | 23.00% | ~111 |
+| Smooth Service | 23.00% | ~111 |
+| Your Prestige is Rising | 22.00% | ~106 |
 | Don't Feel a Loan | 21.00% | ~101 |
+| Retail Revenue | 21.00% | ~101 |
 | People Mover | 19.00% | ~91 |
-| Lux Living | 18.00% | ~86 |
-| Artfully Done | 18.00% | ~86 |
-| Emporium Empire | 18.00% | ~86 |
-| Leveled Up Shops | 18.00% | ~86 |
-| We Don't Need No Education | 18.00% | ~86 |
-| Get Electrified | 18.00% | ~86 |
-| Tasty Profits | 17.00% | ~81 |
+| Lux Living | 18.00% | ~87 |
+| Artfully Done | 18.00% | ~87 |
+| Emporium Empire | 18.00% | ~87 |
+| Leveled Up Shops | 18.00% | ~87 |
+| We Don't Need No Education | 18.00% | ~87 |
+| Tasty Profits | 17.00% | ~82 |
+| Get Electrified | 17.00% | ~82 |
 | Rehab Expert | 16.00% | ~77 |
 | Established Fame | 15.00% | ~72 |
 | Under One Roof | 14.00% | ~67 |
 | Cashflow Chief | 14.00% | ~67 |
-| Starred Dining | 13.00% | ~62 |
+| Starred Dining | 13.00% | ~63 |
 | Smooth Operator | 11.00% | ~53 |
 | Boutique Benefits | 11.00% | ~53 |
 | Terrifically Trashed | 11.00% | ~53 |
@@ -65,11 +65,11 @@
 | Sandbagger | 4.00% | ~19 |
 | Decorator's Touch | 3.00% | ~14 |
 | Office Bigwigs | 3.00% | ~14 |
-| Luxury Boutiques | 3.00% | ~14 |
 | Three of a Kind | 3.00% | ~14 |
 | Apartment Awareness | 2.00% | ~10 |
 | Loft Life | 2.00% | ~10 |
 | Glut of Gastronomy | 2.00% | ~10 |
+| Luxury Boutiques | 2.00% | ~10 |
 | Royal Flush | 2.00% | ~10 |
 | The King of Cool | 2.00% | ~10 |
 | Four of a Kind | 2.00% | ~10 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 479 (Ranked 348)  
+Progressed: 481 (Ranked 347)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-30 | 468 | 0 |
 | 2023-12-31 | 474 | 0 |
 | 2024-01-01 | 477 | 0 |
-| 2024-01-02 | 479 | 0 |
+| 2024-01-02 | 481 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

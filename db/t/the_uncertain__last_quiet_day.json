@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewPlayers": 361,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 625,
+  "EOS_Progressed": 626,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.04,
   "EosHistory": [
@@ -1054,6 +1054,11 @@
       "Time": "2024-01-02T13:13:38.0899124+00:00",
       "NumProgressed": 625,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2024-01-02T20:09:47.6746592+00:00",
+      "NumProgressed": 626,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 32,
@@ -1081,7 +1086,7 @@
       "Name": "Blade Runner",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "BUCKLE_UP",
@@ -1089,7 +1094,7 @@
       "Name": "Buckle up",
       "Percentage": 58,
       "XP": 50,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "CONCRETE_PAINTING",
@@ -1105,7 +1110,7 @@
       "Name": "Curious",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "EVERYBODY_LIES",
@@ -1153,7 +1158,7 @@
       "Name": "Hands up!",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "HAPPY_HALLOWEEN",
@@ -1185,7 +1190,7 @@
       "Name": "I can do a thing or two",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "LUCKY_DOG",
@@ -1225,7 +1230,7 @@
       "Name": "Now you know",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "PERFECT_HEARING",
@@ -1257,7 +1262,7 @@
       "Name": "Quick charge",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "SHORT_CIRCUIT",
@@ -1265,7 +1270,7 @@
       "Name": "Short circuit",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "SILENT",
@@ -1305,7 +1310,7 @@
       "Name": "Uncertain",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "WALKING_ROBOT",
@@ -1320,7 +1325,7 @@
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 625,
+      "Progressed": 626,
       "Completed": 19
     }
   ],
@@ -1328,8 +1333,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-12-08T04:01:04.3643054+00:00",
-  "LastChanged_Achievements": "2024-01-02T19:11:11.703045+00:00",
+  "LastChanged_Achievements": "2024-01-02T20:09:47.6746589+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:48.4333912+00:00",
-  "LastUpdate_Ratings": "2024-01-02T18:59:55.5782328+00:00",
-  "LastUpdate_Achievements": "2024-01-02T19:11:11.7030679+00:00"
+  "LastUpdate_Ratings": "2024-01-02T19:58:57.4026234+00:00",
+  "LastUpdate_Achievements": "2024-01-02T20:09:47.67469+00:00"
 }

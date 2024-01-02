@@ -2,7 +2,7 @@
   "ID": "03fd634dc7f24662ac5545277b89a826",
   "Name": "The Uncertain: Light at the End",
   "ProductSlug": "the-uncertain-light-at-the-end",
-  "Ranking_Rating": 1072,
+  "Ranking_Rating": 1065,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 328,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 3.82,
+  "Rating": 3.86,
   "RatingHistory": [
     {
       "Time": "2022-10-10T07:33:50.0588665+00:00",
@@ -77,15 +77,21 @@
       "Rating": 3.82,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-02T20:03:11.8970035+00:00",
+      "Rating": 3.86,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 639,
+  "EOS_Progressed": 640,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.94,
   "EosHistory": [
@@ -1258,6 +1264,11 @@
       "Time": "2024-01-02T19:04:44.1241075+00:00",
       "NumProgressed": 639,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-02T20:03:41.3109043+00:00",
+      "NumProgressed": 640,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -1445,7 +1456,7 @@
       "Name": "A Familiar Face",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "Paparazzi",
@@ -1500,16 +1511,16 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 639,
+      "Progressed": 640,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:32:49.9129709+00:00",
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
-  "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2024-01-02T19:04:44.1241071+00:00",
+  "LastChanged": "2024-01-02T20:03:11.8970033+00:00",
+  "LastChanged_Achievements": "2024-01-02T20:03:41.3109039+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:43.1004855+00:00",
-  "LastUpdate_Ratings": "2024-01-02T19:04:06.6221863+00:00",
-  "LastUpdate_Achievements": "2024-01-02T19:04:44.1241311+00:00"
+  "LastUpdate_Ratings": "2024-01-02T20:03:11.8970038+00:00",
+  "LastUpdate_Achievements": "2024-01-02T20:03:41.310924+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "720cc28ab09b455f8388decfa0ba4796",
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
-  "Ranking_Rating": 661,
+  "Ranking_Rating": 660,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 379,
   "Ranking_EOS_Progress": 198,
@@ -848,9 +848,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6024,
+  "EOS_Progressed": 6025,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -12388,6 +12388,11 @@
       "Time": "2024-01-02T19:08:03.0324688+00:00",
       "NumProgressed": 6024,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-02T20:06:04.2392321+00:00",
+      "NumProgressed": 6025,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -12440,7 +12445,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -12448,7 +12453,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1626
+      "UsersEstimate": 1627
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -12464,7 +12469,7 @@
       "Name": "Flawless Victory",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -12480,7 +12485,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "MF_Ach_HitEmWhereItHurts",
@@ -12528,7 +12533,7 @@
       "Name": "On this Episode!",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "MF_Ach_PerkShardPunchCard",
@@ -12583,15 +12588,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6024,
+      "Progressed": 6025,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-26T21:58:46.0180606+00:00",
-  "LastChanged_Achievements": "2024-01-02T19:08:03.0324684+00:00",
+  "LastChanged_Achievements": "2024-01-02T20:06:04.2392318+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:44.5580896+00:00",
-  "LastUpdate_Ratings": "2024-01-02T18:59:36.996843+00:00",
-  "LastUpdate_Achievements": "2024-01-02T19:08:03.0325272+00:00"
+  "LastUpdate_Ratings": "2024-01-02T19:58:44.6115694+00:00",
+  "LastUpdate_Achievements": "2024-01-02T20:06:04.2393035+00:00"
 }

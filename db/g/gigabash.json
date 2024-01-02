@@ -297,9 +297,9 @@
       "Count": 48
     }
   ],
-  "EOS_Progressed": 115227,
+  "EOS_Progressed": 115246,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8145,
+  "EOS_NewPlayers": 8117,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3132,6 +3132,11 @@
       "Time": "2024-01-02T19:06:35.0059995+00:00",
       "NumProgressed": 115227,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T20:05:03.5463062+00:00",
+      "NumProgressed": 115246,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-10T01:55:31.023863+00:00",
@@ -3208,7 +3213,7 @@
       "Name": "Fists, Fury \u0026 a lot of Rage",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 11523
+      "UsersEstimate": 11525
     },
     {
       "ID": "ACH_GROWNUP",
@@ -3216,7 +3221,7 @@
       "Name": "All Grown Up!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 19589
+      "UsersEstimate": 19592
     },
     {
       "ID": "ACH_JUST_GETTING_WARMED_UP",
@@ -3240,7 +3245,7 @@
       "Name": "I\u0027ve Had Enough!",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 16132
+      "UsersEstimate": 16134
     },
     {
       "ID": "ACH_LET_THEM_FIGHT",
@@ -3296,7 +3301,7 @@
       "Name": "All For One and One For All",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 8066
+      "UsersEstimate": 8067
     },
     {
       "ID": "ACH_RIGHT_BACK_AT_CHA",
@@ -3312,7 +3317,7 @@
       "Name": "Seasoned Fighter",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 9218
+      "UsersEstimate": 9220
     },
     {
       "ID": "ACH_SIGNATURE_LOOK",
@@ -3368,7 +3373,7 @@
       "Name": "A New Age",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 5761
+      "UsersEstimate": 5762
     },
     {
       "ID": "ACH_TOP_OF_THE_FOOD_CHAIN",
@@ -3408,7 +3413,7 @@
       "Name": "Home Sweet Home?",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 5761
+      "UsersEstimate": 5762
     },
     {
       "ID": "ACH_ZERO_SUM_GAME",
@@ -3423,7 +3428,7 @@
     {
       "ID": "3k5ibhn",
       "IsBase": true,
-      "Progressed": 115227,
+      "Progressed": 115246,
       "Completed": 0
     }
   ],
@@ -3431,8 +3436,8 @@
   "FirstSeenRating": "2022-10-02T07:32:08.4274129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:17.2611178+00:00",
   "LastChanged": "2024-01-02T17:03:16.2726926+00:00",
-  "LastChanged_Achievements": "2024-01-02T19:06:35.0059991+00:00",
+  "LastChanged_Achievements": "2024-01-02T20:05:03.5463059+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:23.1582373+00:00",
-  "LastUpdate_Ratings": "2024-01-02T19:03:36.0043231+00:00",
-  "LastUpdate_Achievements": "2024-01-02T19:06:35.0060363+00:00"
+  "LastUpdate_Ratings": "2024-01-02T20:02:52.0521544+00:00",
+  "LastUpdate_Achievements": "2024-01-02T20:05:03.5463369+00:00"
 }

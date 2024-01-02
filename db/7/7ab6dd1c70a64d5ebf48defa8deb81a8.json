@@ -5,8 +5,8 @@
   "Ranking_Rating": 976,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
-  "Ranking_EOS_Progress": 259,
-  "Ranking_EOS_Completed": 278,
+  "Ranking_EOS_Progress": 258,
+  "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
@@ -61,9 +61,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1672,
+  "EOS_Progressed": 1675,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 371,
+  "EOS_NewPlayers": 370,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -3286,6 +3286,11 @@
       "Time": "2024-01-02T19:11:16.6018397+00:00",
       "NumProgressed": 1672,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-02T20:09:51.6220801+00:00",
+      "NumProgressed": 1675,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -3297,7 +3302,7 @@
       "Name": "Break Out",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1003
+      "UsersEstimate": 1005
     },
     {
       "ID": "ACH_02",
@@ -3313,7 +3318,7 @@
       "Name": "Powerful Allies",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "ACH_04",
@@ -3361,15 +3366,15 @@
       "Name": "The Mentor",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ACH_10",
       "SetID": "efe2lj",
       "Name": "Trinity",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 502
+      "UsersEstimate": 486
     },
     {
       "ID": "ACH_11",
@@ -3393,7 +3398,7 @@
       "Name": "Adventurer",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "ACH_14",
@@ -3409,7 +3414,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "ACH_16",
@@ -3433,7 +3438,7 @@
       "Name": "Shatter Them All",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "ACH_19",
@@ -3449,7 +3454,7 @@
       "Name": "Flawless Victory",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_21",
@@ -3457,7 +3462,7 @@
       "Name": "Big Bazar",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACH_22",
@@ -3481,7 +3486,7 @@
       "Name": "All There Is",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_25",
@@ -3489,7 +3494,7 @@
       "Name": "Fashion Victim",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "ACH_26",
@@ -3497,7 +3502,7 @@
       "Name": "Scholar",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "ACH_27",
@@ -3505,7 +3510,7 @@
       "Name": "False God",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_28",
@@ -3551,9 +3556,9 @@
       "ID": "ACH_34",
       "SetID": "efe2lj",
       "Name": "The Collector",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 401
+      "UsersEstimate": 385
     },
     {
       "ID": "ACH_35",
@@ -3584,7 +3589,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1672,
+      "Progressed": 1675,
       "Completed": 3
     }
   ],
@@ -3592,8 +3597,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-02T01:47:19.6899919+00:00",
-  "LastChanged_Achievements": "2024-01-02T19:11:16.6018395+00:00",
+  "LastChanged_Achievements": "2024-01-02T20:09:51.6220797+00:00",
   "LastUpdate_AppInfo": "2024-01-01T22:57:08.0954502+00:00",
-  "LastUpdate_Ratings": "2024-01-02T19:01:42.5121328+00:00",
-  "LastUpdate_Achievements": "2024-01-02T19:11:16.6018731+00:00"
+  "LastUpdate_Ratings": "2024-01-02T20:00:08.4285019+00:00",
+  "LastUpdate_Achievements": "2024-01-02T20:09:51.6221253+00:00"
 }

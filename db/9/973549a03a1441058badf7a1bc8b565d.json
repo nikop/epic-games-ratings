@@ -118,9 +118,9 @@
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "4mjb15",
       "Name": "Ugly Massive Sandbag",
-      "Percentage": 17,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -301,8 +301,8 @@
   ],
   "FirstSeen": "2023-10-07T12:03:46.8255851+00:00",
   "FirstSeenAchievements": "2023-09-15T05:04:55.0336993+00:00",
-  "LastChanged_Achievements": "2024-01-02T19:11:12.2432823+00:00",
+  "LastChanged_Achievements": "2024-01-02T20:09:48.0723875+00:00",
   "LastUpdate_AppInfo": "2023-12-29T21:57:13.1618378+00:00",
-  "LastUpdate_Ratings": "2024-01-02T18:58:59.5198412+00:00",
-  "LastUpdate_Achievements": "2024-01-02T19:11:12.2432942+00:00"
+  "LastUpdate_Ratings": "2024-01-02T19:58:19.7203643+00:00",
+  "LastUpdate_Achievements": "2024-01-02T20:09:48.0724063+00:00"
 }

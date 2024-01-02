@@ -1,21 +1,21 @@
 # Q.U.B.E. 10th Anniversary
 [Store](https://store.epicgames.com/en-US/p/qube-10th-anniversary-59e999)  
 [View Rawdata](../../db/q/q.u.b.e._10th_anniversary.json)  
-Rating: 4.41 (Ranked 747)  
+Rating: 4.42 (Ranked 734)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 31.00% | ~8,700 |
-| Sector 2 | 27.00% | ~7,578 |
-| Crush That Cube! | 23.00% | ~6,455 |
-| Sector 3 | 23.00% | ~6,455 |
+| Sector 1 | 31.00% | ~8,702 |
+| Sector 2 | 27.00% | ~7,579 |
+| Crush That Cube! | 23.00% | ~6,456 |
+| Sector 3 | 23.00% | ~6,456 |
 | Sector 4 | 19.00% | ~5,333 |
-| Crush That Ball! | 18.00% | ~5,052 |
-| Sector 5 | 12.00% | ~3,368 |
+| Crush That Ball! | 18.00% | ~5,053 |
+| Sector 5 | 12.00% | ~3,369 |
 | Sector 6 | 10.00% | ~2,807 |
-| Feeling the Blues | 8.00% | ~2,245 |
-| Finale | 8.00% | ~2,245 |
-| Sector 7 | 8.00% | ~2,245 |
+| Feeling the Blues | 8.00% | ~2,246 |
+| Finale | 8.00% | ~2,246 |
+| Sector 7 | 8.00% | ~2,246 |
 | Squished | 7.00% | ~1,965 |
 | Did That Work? -- No! | 7.00% | ~1,965 |
 | Master Room | 4.00% | ~1,123 |
@@ -30,7 +30,7 @@ Rating: 4.41 (Ranked 747)
 | Maxed Out | 2.00% | ~561 |
 | The Collector | 1.00% | ~281 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,066 (Ranked 142)  
+Progressed: 28,071 (Ranked 142)  
 Completed: 188 (0.67%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,11 +110,11 @@ Completed: 188 (0.67%) (Ranked 198)
 | 2023-12-30 | 27,668 | 181 |
 | 2023-12-31 | 27,802 | 183 |
 | 2024-01-01 | 27,944 | 185 |
-| 2024-01-02 | 28,066 | 188 |
+| 2024-01-02 | 28,071 | 188 |
 ## Awards
-Max (Challenging Puzzles): 23  (Ranked 555)  
+Max (Challenging Puzzles): 23  (Ranked 556)  
 Sum: 23 (Ranked 561)  
-Diff (max vs sum): -6  
+Diff (max vs sum): -5  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 23 |
@@ -165,3 +165,4 @@ Diff (max vs sum): -6
 | 2023-12-25 | 4.40 | 22 | 22 |
 | 2023-12-28 | 4.40 | 23 | 23 |
 | 2023-12-29 | 4.41 | 23 | 23 |
+| 2024-01-02 | 4.42 | 23 | 23 |

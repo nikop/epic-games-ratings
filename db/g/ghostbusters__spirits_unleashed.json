@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 185,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3927,9 +3927,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33137,
+  "EOS_Progressed": 33143,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 385,
+  "EOS_NewPlayers": 388,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -24362,6 +24362,11 @@
       "Time": "2024-01-02T18:09:32.3430419+00:00",
       "NumProgressed": 33137,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-02T20:08:39.4450548+00:00",
+      "NumProgressed": 33143,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -24413,7 +24418,7 @@
       "Name": "Clutch Capture",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1325
+      "UsersEstimate": 1326
     },
     {
       "ID": "Collect_Spores",
@@ -24437,7 +24442,7 @@
       "Name": "Cultured",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1325
+      "UsersEstimate": 1326
     },
     {
       "ID": "Daily_Dose",
@@ -24445,7 +24450,7 @@
       "Name": "Daily Dose",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1325
+      "UsersEstimate": 1326
     },
     {
       "ID": "Diabolical",
@@ -24461,7 +24466,7 @@
       "Name": "Discovery",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1988
+      "UsersEstimate": 1989
     },
     {
       "ID": "Dont_Need_These",
@@ -24517,7 +24522,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1325
+      "UsersEstimate": 1326
     },
     {
       "ID": "Ghost_Expert",
@@ -24661,7 +24666,7 @@
       "Name": "Solo Capture",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1988
+      "UsersEstimate": 1989
     },
     {
       "ID": "Stunner",
@@ -24677,7 +24682,7 @@
       "Name": "Stylish",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3645
+      "UsersEstimate": 3646
     },
     {
       "ID": "Summoner",
@@ -24701,7 +24706,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 1988
+      "UsersEstimate": 1989
     },
     {
       "ID": "Teamwork",
@@ -24733,7 +24738,7 @@
       "Name": "There you are!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1325
+      "UsersEstimate": 1326
     },
     {
       "ID": "Tobins_Prodigy",
@@ -24773,14 +24778,14 @@
       "Name": "Whoopsie",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1325
+      "UsersEstimate": 1326
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33137,
+      "Progressed": 33143,
       "Completed": 71
     }
   ],
@@ -24788,8 +24793,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2024-01-02T09:58:49.6019984+00:00",
-  "LastChanged_Achievements": "2024-01-02T19:09:35.1807549+00:00",
+  "LastChanged_Achievements": "2024-01-02T20:08:39.4450544+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:23.250158+00:00",
-  "LastUpdate_Ratings": "2024-01-02T19:00:08.7320657+00:00",
-  "LastUpdate_Achievements": "2024-01-02T19:09:35.1808701+00:00"
+  "LastUpdate_Ratings": "2024-01-02T19:59:06.2866553+00:00",
+  "LastUpdate_Achievements": "2024-01-02T20:08:39.4451847+00:00"
 }

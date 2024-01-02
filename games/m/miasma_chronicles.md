@@ -1,7 +1,7 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.38 (Ranked 784)  
+Rating: 4.39 (Ranked 775)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -57,7 +57,7 @@ Rating: 4.38 (Ranked 784)
 | Goaaaaal! | 0.80% | ~13 |
 | QA Has Suffered! (Redux) | 0.80% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,673 (Ranked 258)  
+Progressed: 1,673 (Ranked 259)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,3 +265,4 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-10 | 4.41 | 0 | 0 |
 | 2023-12-18 | 4.37 | 0 | 0 |
 | 2023-12-31 | 4.38 | 0 | 0 |
+| 2024-01-02 | 4.39 | 0 | 0 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewPlayers": 361,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1836,
+  "EOS_Progressed": 1837,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4842,6 +4842,11 @@
       "Time": "2024-01-02T01:56:56.8178709+00:00",
       "NumProgressed": 1836,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T20:09:14.3445306+00:00",
+      "NumProgressed": 1837,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4925,7 +4930,7 @@
       "Name": "The Collector",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ACHIEVEMENT_ZERO_WASTE",
@@ -5011,9 +5016,9 @@
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
       "SetID": "l546gc",
       "Name": "DeDust",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 92
     },
     {
       "ID": "NEW_ACHIEVEMENT_DUMB_WAYS",
@@ -5045,7 +5050,7 @@
       "Name": "Gardener",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -5069,7 +5074,7 @@
       "Name": "I am the greatest botanist on this planet.",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -5077,7 +5082,7 @@
       "Name": "Houston we have a problem",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -5101,7 +5106,7 @@
       "Name": "Miner",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -5213,7 +5218,7 @@
       "Name": "Bob The Builder",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -5236,7 +5241,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1836,
+      "Progressed": 1837,
       "Completed": 0
     }
   ],
@@ -5244,8 +5249,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-12-25T15:00:25.6690232+00:00",
-  "LastChanged_Achievements": "2024-01-02T19:10:24.5887718+00:00",
+  "LastChanged_Achievements": "2024-01-02T20:09:14.3445302+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:37.9319914+00:00",
-  "LastUpdate_Ratings": "2024-01-02T18:57:22.1504142+00:00",
-  "LastUpdate_Achievements": "2024-01-02T19:10:24.5888399+00:00"
+  "LastUpdate_Ratings": "2024-01-02T19:57:13.1609896+00:00",
+  "LastUpdate_Achievements": "2024-01-02T20:09:14.344585+00:00"
 }

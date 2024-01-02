@@ -4,7 +4,7 @@
   "ProductSlug": "figment2-creed-valley",
   "Ranking_EOS_Progress": 530,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 415,
+  "Ranking_EOS_NewPlayers": 418,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -370,9 +370,9 @@
       "ID": "fluff_cerebrum_cider_priciple_square",
       "SetID": "7e96e7l",
       "Name": "A heavy thinker",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "fluff_hit_by_coco_bulb",
@@ -458,9 +458,9 @@
       "ID": "story_ethics_maze",
       "SetID": "7e96e7l",
       "Name": "Repair the Mind Validation Machine",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "story_jester_land",
@@ -499,8 +499,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4324402+00:00",
   "FirstSeenAchievements": "2023-05-30T08:03:39.2504029+00:00",
   "LastChanged": "2023-03-31T05:57:26.4324404+00:00",
-  "LastChanged_Achievements": "2024-01-02T19:11:11.5071119+00:00",
+  "LastChanged_Achievements": "2024-01-02T20:09:47.6611467+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:03.3549942+00:00",
-  "LastUpdate_Ratings": "2024-01-02T18:59:08.5525555+00:00",
-  "LastUpdate_Achievements": "2024-01-02T19:11:11.5071273+00:00"
+  "LastUpdate_Ratings": "2024-01-02T19:58:25.4032523+00:00",
+  "LastUpdate_Achievements": "2024-01-02T20:09:47.6611597+00:00"
 }

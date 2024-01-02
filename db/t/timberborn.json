@@ -2,7 +2,7 @@
   "ID": "3a1067df83654812b976101174e1904f",
   "Name": "Timberborn",
   "ProductSlug": "timberborn",
-  "Ranking_Rating": 189,
+  "Ranking_Rating": 177,
   "Ranking_Popularity": 326,
   "Ranking_PopularitySum": 266,
   "Ranking_EOS_Progress": 820,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.72,
+  "Rating": 4.73,
   "NumberOfRatings": 640,
   "RatingHistory": [
     {
@@ -1938,6 +1938,12 @@
       "Rating": 4.72,
       "NumberOfAwards": 1035,
       "NumberOfAwardsMax": 153
+    },
+    {
+      "Time": "2024-01-02T19:57:16.5317836+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 1035,
+      "NumberOfAwardsMax": 153
     }
   ],
   "ReviewsDisabled": false,
@@ -2017,8 +2023,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:12.1167851+00:00",
-  "LastChanged": "2024-01-01T18:01:11.377483+00:00",
+  "LastChanged": "2024-01-02T19:57:16.5317834+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:41.5251105+00:00",
-  "LastUpdate_Ratings": "2024-01-02T18:57:27.1780766+00:00",
-  "LastUpdate_Achievements": "2024-01-02T19:10:09.360821+00:00"
+  "LastUpdate_Ratings": "2024-01-02T19:57:16.531784+00:00",
+  "LastUpdate_Achievements": "2024-01-02T20:09:03.5593699+00:00"
 }

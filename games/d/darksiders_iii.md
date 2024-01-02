@@ -1,53 +1,53 @@
 # Darksiders III
 [Store](https://store.epicgames.com/en-US/p/darksiders3)  
 [View Rawdata](../../db/d/darksiders_iii.json)  
-Rating: 4.47 (Ranked 661)  
+Rating: 4.47 (Ranked 660)  
 Number of Ratings: 116  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 78.00% | ~299 |
-| First of many… | 68.00% | ~260 |
-| Helping Hand | 64.00% | ~245 |
-| Increased Vigor | 60.00% | ~230 |
-| Fight Fire with Fire | 57.00% | ~218 |
-| Increased Capacity | 54.00% | ~207 |
-| Just the start | 49.00% | ~188 |
-| Perfect Storm | 46.00% | ~176 |
-| All That Glitters | 46.00% | ~176 |
-| Enhance! | 42.00% | ~161 |
-| One Of the Chosen | 39.00% | ~149 |
+| Green with Envy | 78.00% | ~300 |
+| First of many… | 68.00% | ~262 |
+| Helping Hand | 64.00% | ~246 |
+| Increased Vigor | 60.00% | ~231 |
+| Fight Fire with Fire | 58.00% | ~223 |
+| Increased Capacity | 54.00% | ~208 |
+| Just the start | 49.00% | ~189 |
+| Perfect Storm | 46.00% | ~177 |
+| All That Glitters | 46.00% | ~177 |
+| Enhance! | 42.00% | ~162 |
+| One Of the Chosen | 39.00% | ~150 |
 | Devil's in the Details | 38.00% | ~146 |
 | Throne Potato | 38.00% | ~146 |
 | Five's a Crowd | 37.00% | ~142 |
 | 25 to Life | 37.00% | ~142 |
-| Soul Harvester | 35.00% | ~134 |
-| Salvation | 35.00% | ~134 |
-| Unshakable Fortitude | 33.00% | ~126 |
+| Soul Harvester | 35.00% | ~135 |
+| Salvation | 35.00% | ~135 |
+| Unshakable Fortitude | 34.00% | ~131 |
+| Delusions of Grandeur | 32.00% | ~123 |
 | I Wanna Rock | 31.00% | ~119 |
-| Delusions of Grandeur | 31.00% | ~119 |
-| Maximum Vigor | 30.00% | ~115 |
-| Love Tap | 30.00% | ~115 |
-| For Whom the Bell Tolls | 27.00% | ~103 |
+| Maximum Vigor | 30.00% | ~116 |
+| Love Tap | 30.00% | ~116 |
+| For Whom the Bell Tolls | 28.00% | ~108 |
 | Freeze Frame | 26.00% | ~100 |
 | Eat Your Heart Out | 26.00% | ~100 |
 | Unyielding Strength | 24.00% | ~92 |
-| Can you restore the Balance? | 23.00% | ~88 |
-| Big Spender | 23.00% | ~88 |
-| Cleanup Crew | 22.00% | ~84 |
-| Crowd Source | 22.00% | ~84 |
+| Big Spender | 24.00% | ~92 |
+| Can you restore the Balance? | 23.00% | ~89 |
+| Cleanup Crew | 22.00% | ~85 |
+| Crowd Source | 22.00% | ~85 |
 | Maximum Capacity | 20.00% | ~77 |
 | Demon Meddler | 19.00% | ~73 |
 | Seeing Red | 19.00% | ~73 |
 | Egomaniac | 17.00% | ~65 |
-| Protector of Humanity | 15.00% | ~57 |
-| Everybody Wants to Rule the World | 15.00% | ~57 |
+| Protector of Humanity | 15.00% | ~58 |
+| Everybody Wants to Rule the World | 15.00% | ~58 |
 | Community Outreach | 13.00% | ~50 |
 | A Parting Gift | 12.00% | ~46 |
 | Unbreakable Will | 11.00% | ~42 |
 | Path of the Horseman | 11.00% | ~42 |
 | Take it to the Limit | 10.00% | ~38 |
-| Holy Keeper | 9.00% | ~34 |
+| Holy Keeper | 9.00% | ~35 |
 | Demon Keeper | 8.00% | ~31 |
 | Soul Reaper | 7.00% | ~27 |
 | Humanitarian | 7.00% | ~27 |
@@ -56,14 +56,14 @@ Number of Ratings: 116  (23.09.2022)
 | Keeper of the Vale | 4.00% | ~15 |
 | Keeper of the Sky | 4.00% | ~15 |
 | Made of Sterner Stuff | 4.00% | ~15 |
-| Purity of Power | 3.00% | ~11 |
-| Balance in all things | 3.00% | ~11 |
-| "Impressive!" | 3.00% | ~11 |
-| "Incredible!" | 3.00% | ~11 |
-| Keeper of Colossal Automata | 3.00% | ~11 |
-| Keeper of the Tempo | 3.00% | ~11 |
-| Keep it 100! | 3.00% | ~11 |
-| BFA | 3.00% | ~11 |
+| Purity of Power | 3.00% | ~12 |
+| Balance in all things | 3.00% | ~12 |
+| "Impressive!" | 3.00% | ~12 |
+| "Incredible!" | 3.00% | ~12 |
+| Keeper of Colossal Automata | 3.00% | ~12 |
+| Keeper of the Tempo | 3.00% | ~12 |
+| Keep it 100! | 3.00% | ~12 |
+| BFA | 3.00% | ~12 |
 | "Apocalyptic!" | 2.00% | ~8 |
 | "Amazing!" | 2.00% | ~8 |
 | Death Incarnate | 2.00% | ~8 |
@@ -71,7 +71,7 @@ Number of Ratings: 116  (23.09.2022)
 | Quite Proper | 0.50% | ~2 |
 | Beast Mode | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 383 (Ranked 365)  
+Progressed: 385 (Ranked 365)  
 Completed: 1 (0.26%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 1 (0.26%) (Ranked 260)
 | 2023-12-30 | 320 | 1 |
 | 2023-12-31 | 345 | 1 |
 | 2024-01-01 | 373 | 1 |
-| 2024-01-02 | 383 | 1 |
+| 2024-01-02 | 385 | 1 |
 ## Awards
 Max (Great Boss Battles): 96  (Ranked 383)  
 Sum: 96 (Ranked 464)  

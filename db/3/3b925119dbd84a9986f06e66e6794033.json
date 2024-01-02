@@ -2,7 +2,7 @@
   "ID": "3b925119dbd84a9986f06e66e6794033",
   "Name": "The Jackbox Party Pack 10",
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
-  "Ranking_EOS_Progress": 324,
+  "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 151,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 657,
+  "EOS_Progressed": 660,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2054,6 +2054,11 @@
       "Time": "2024-01-02T05:09:24.3398568+00:00",
       "NumProgressed": 657,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T20:09:37.6827826+00:00",
+      "NumProgressed": 660,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -2136,9 +2141,9 @@
       "ID": "RISKYTEXT_ONE_WORD_GETS_VOTES_FROM_ALL_VOTING_PLAYERS",
       "SetID": "9j9h72e",
       "Name": "FixyText: Bestseller",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 125
+      "UsersEstimate": 119
     },
     {
       "ID": "RISKYTEXT_PLAY_ALL_CATEGORIES",
@@ -2154,7 +2159,7 @@
       "Name": "FixyText: Co-author",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "TIME_JINX",
@@ -2162,7 +2167,7 @@
       "Name": "Timejinx: Timejinx",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "TIME_ORWELL",
@@ -2178,7 +2183,7 @@
       "Name": "Timejinx: The Perfect Date",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "TIME_PERFECT_GUEST",
@@ -2186,7 +2191,7 @@
       "Name": "Timejinx: The Perfect Guest",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "TKO2_BEACH_LIFE",
@@ -2225,14 +2230,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 657,
+      "Progressed": 660,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2024-01-02T19:10:57.7683076+00:00",
+  "LastChanged_Achievements": "2024-01-02T20:09:37.6827822+00:00",
   "LastUpdate_AppInfo": "2023-12-30T02:16:13.4108208+00:00",
-  "LastUpdate_Ratings": "2024-01-02T18:59:12.6190982+00:00",
-  "LastUpdate_Achievements": "2024-01-02T19:10:57.7683477+00:00"
+  "LastUpdate_Ratings": "2024-01-02T19:58:28.0243522+00:00",
+  "LastUpdate_Achievements": "2024-01-02T20:09:37.6828032+00:00"
 }

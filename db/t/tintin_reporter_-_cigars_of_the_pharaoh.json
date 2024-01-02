@@ -2,9 +2,9 @@
   "ID": "506c2b96b8e3483d9fa335d37ebe9d6b",
   "Name": "Tintin Reporter - Cigars of the Pharaoh",
   "ProductSlug": "tintin-reporter-cigars-of-the-pharaoh-8b32ea",
-  "Ranking_EOS_Progress": 478,
+  "Ranking_EOS_Progress": 476,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-11-13T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 112,
+  "EOS_Progressed": 113,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -529,6 +529,11 @@
       "Time": "2024-01-01T03:06:21.6793269+00:00",
       "NumProgressed": 112,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T20:05:37.2903425+00:00",
+      "NumProgressed": 113,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-13T17:07:46.1878997+00:00",
@@ -541,7 +546,7 @@
       "Name": "My Papyrus!",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "Achievement10",
@@ -715,7 +720,7 @@
       "ID": "Achievement3",
       "SetID": "9fa3l5n",
       "Name": "Abandon Ship!",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
       "UsersEstimate": 31
     },
@@ -725,7 +730,7 @@
       "Name": "Mountain Runner",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Achievement31",
@@ -757,7 +762,7 @@
       "Name": "Cat Lover",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Achievement35",
@@ -765,7 +770,7 @@
       "Name": "Subtlety",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Achievement36",
@@ -795,9 +800,9 @@
       "ID": "Achievement5",
       "SetID": "9fa3l5n",
       "Name": "The Weighing of the Soul",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 21
     },
     {
       "ID": "Achievement6",
@@ -821,7 +826,7 @@
       "Name": "Dynamite, Treason and Coconuts",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Achievement9",
@@ -836,14 +841,14 @@
     {
       "ID": "9fa3l5n",
       "IsBase": true,
-      "Progressed": 112,
+      "Progressed": 113,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2024-01-02T19:07:24.8806495+00:00",
+  "LastChanged_Achievements": "2024-01-02T20:05:37.2903422+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:40.8073713+00:00",
-  "LastUpdate_Ratings": "2024-01-02T19:02:19.6668414+00:00",
-  "LastUpdate_Achievements": "2024-01-02T19:07:24.8806763+00:00"
+  "LastUpdate_Ratings": "2024-01-02T20:00:32.0034+00:00",
+  "LastUpdate_Achievements": "2024-01-02T20:05:37.2903661+00:00"
 }

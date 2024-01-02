@@ -1015,7 +1015,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4289,
+  "EOS_Progressed": 4290,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
@@ -8175,6 +8175,11 @@
       "Time": "2024-01-02T18:07:53.3676646+00:00",
       "NumProgressed": 4289,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T20:06:01.2509799+00:00",
+      "NumProgressed": 4290,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -8195,7 +8200,7 @@
       "Name": "Bragging Rights",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 2359
+      "UsersEstimate": 2360
     },
     {
       "ID": "achievement_11",
@@ -8219,7 +8224,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 2273
+      "UsersEstimate": 2274
     },
     {
       "ID": "achievement_14",
@@ -8233,9 +8238,9 @@
       "ID": "achievement_15",
       "SetID": "c8fif6p",
       "Name": "MVP",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 2316
+      "UsersEstimate": 2274
     },
     {
       "ID": "achievement_16",
@@ -8243,7 +8248,7 @@
       "Name": "ROTY",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1373
     },
     {
       "ID": "achievement_17",
@@ -8354,7 +8359,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 4289,
+      "Progressed": 4290,
       "Completed": 0
     }
   ],
@@ -8362,8 +8367,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2024-01-02T03:00:30.9466773+00:00",
-  "LastChanged_Achievements": "2024-01-02T19:07:58.7908395+00:00",
+  "LastChanged_Achievements": "2024-01-02T20:06:01.2509793+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.7364021+00:00",
-  "LastUpdate_Ratings": "2024-01-02T19:02:39.8418486+00:00",
-  "LastUpdate_Achievements": "2024-01-02T19:07:58.7908855+00:00"
+  "LastUpdate_Ratings": "2024-01-02T20:02:34.9779627+00:00",
+  "LastUpdate_Achievements": "2024-01-02T20:06:01.2510306+00:00"
 }

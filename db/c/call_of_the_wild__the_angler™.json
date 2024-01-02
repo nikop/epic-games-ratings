@@ -1015,7 +1015,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 7883,
+  "EOS_Progressed": 7886,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 291,
   "EOS_NewCompleters": 0,
@@ -13010,6 +13010,11 @@
       "Time": "2024-01-02T19:07:20.79792+00:00",
       "NumProgressed": 7883,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T20:05:34.4814787+00:00",
+      "NumProgressed": 7886,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -13021,7 +13026,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -13045,7 +13050,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -13093,7 +13098,7 @@
       "Name": "License to Gill",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -13141,7 +13146,7 @@
       "Name": "School\u0027s Out for Summer",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "ACHIEVEMENT_017",
@@ -13340,13 +13345,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7883,
+      "Progressed": 7886,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7255,
+      "Progressed": 7258,
       "Completed": 113
     }
   ],
@@ -13354,8 +13359,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-26T19:00:49.2434236+00:00",
-  "LastChanged_Achievements": "2024-01-02T19:07:20.7979197+00:00",
+  "LastChanged_Achievements": "2024-01-02T20:05:34.4814783+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:09.4029638+00:00",
-  "LastUpdate_Ratings": "2024-01-02T19:00:58.6126932+00:00",
-  "LastUpdate_Achievements": "2024-01-02T19:07:20.7979895+00:00"
+  "LastUpdate_Ratings": "2024-01-02T19:59:39.23946+00:00",
+  "LastUpdate_Achievements": "2024-01-02T20:05:34.481582+00:00"
 }

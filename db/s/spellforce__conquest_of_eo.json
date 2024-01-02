@@ -772,9 +772,9 @@
       "ID": "HeroStory_Philo",
       "SetID": "7b9f97e",
       "Name": "Philo\u0027s Tale",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "HeroStory_Yngrid",
@@ -1133,8 +1133,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2024-01-02T19:10:30.7890784+00:00",
+  "LastChanged_Achievements": "2024-01-02T20:09:18.7572674+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:20.4706393+00:00",
-  "LastUpdate_Ratings": "2024-01-02T19:01:14.4173562+00:00",
-  "LastUpdate_Achievements": "2024-01-02T19:10:30.7891399+00:00"
+  "LastUpdate_Ratings": "2024-01-02T19:59:49.5627257+00:00",
+  "LastUpdate_Achievements": "2024-01-02T20:09:18.7573225+00:00"
 }

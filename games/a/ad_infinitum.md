@@ -19,7 +19,7 @@
 | The shining | 16.00% | ~27 |
 | Health | 13.00% | ~22 |
 | Awaiting orders | 12.00% | ~20 |
-| Art critic | 10.00% | ~17 |
+| Art critic | 11.00% | ~19 |
 | Jigsaw | 9.00% | ~15 |
 | Peace | 9.00% | ~15 |
 | Lost | 8.00% | ~14 |

@@ -28,9 +28,9 @@ Rating: 3.95 (Ranked 1,052)
 | Foo Finder | 0.60% | ~557 |
 | Moneybags | 0.60% | ~557 |
 | Ding Dong | 0.60% | ~557 |
-| Imports and Exports | 0.50% | ~464 |
-| Savvy Seeker | 0.50% | ~464 |
-| Olympus Ascended | 0.50% | ~464 |
+| Imports and Exports | 0.50% | ~465 |
+| Savvy Seeker | 0.50% | ~465 |
+| Olympus Ascended | 0.50% | ~465 |
 | All that Glitters | 0.50% | ~106 |
 | Rockay Raider | 0.40% | ~372 |
 | Groundhog Days | 0.40% | ~372 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,052)
 | Full House | 0.10% | ~93 |
 | Geek Out | 0.10% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92,899 (Ranked 101)  
+Progressed: 92,903 (Ranked 101)  
 Completed: 58 (0.06%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,11 +304,11 @@ Completed: 58 (0.06%) (Ranked 327)
 | 2023-12-30 | 92,767 | 58 |
 | 2023-12-31 | 92,813 | 58 |
 | 2024-01-01 | 92,863 | 58 |
-| 2024-01-02 | 92,899 | 58 |
+| 2024-01-02 | 92,903 | 58 |
 ## Awards
 Max (Diverse Characters): 588  (Ranked 209)  
-Sum: 2,775 (Ranked 190)  
-Diff (max vs sum): 19  
+Sum: 2,775 (Ranked 191)  
+Diff (max vs sum): 18  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 588 |

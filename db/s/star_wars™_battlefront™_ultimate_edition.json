@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2510,
+  "EOS_Progressed": 2513,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 303,
   "EOS_NewCompleters": 0,
@@ -6979,6 +6979,11 @@
       "Time": "2024-01-02T19:11:23.1177025+00:00",
       "NumProgressed": 2510,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-02T20:09:56.6775289+00:00",
+      "NumProgressed": 2513,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -7063,7 +7068,7 @@
       "Name": "The power of the Force",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "achievement_19",
@@ -7087,7 +7092,7 @@
       "Name": "Collector",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "achievement_21",
@@ -7103,7 +7108,7 @@
       "Name": "Distinguished",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "achievement_23",
@@ -7127,7 +7132,7 @@
       "Name": "A tremor in the Force",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "achievement_26",
@@ -7135,7 +7140,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "achievement_27",
@@ -7183,7 +7188,7 @@
       "Name": "Scrap collector",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "achievement_32",
@@ -7191,7 +7196,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "achievement_33",
@@ -7215,7 +7220,7 @@
       "Name": "New Recruit",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 2184
+      "UsersEstimate": 2186
     },
     {
       "ID": "achievement_36",
@@ -7231,7 +7236,7 @@
       "Name": "Off to a good start",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1556
+      "UsersEstimate": 1558
     },
     {
       "ID": "achievement_38",
@@ -7263,7 +7268,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1307
     },
     {
       "ID": "achievement_41",
@@ -7343,7 +7348,7 @@
       "Name": "Shoot first",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "achievement_50",
@@ -7399,7 +7404,7 @@
       "Name": "Support the troops",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "achievement_57",
@@ -7494,13 +7499,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2510,
+      "Progressed": 2513,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2510,
+      "Progressed": 2513,
       "Completed": 1
     }
   ],
@@ -7508,8 +7513,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-02T19:11:23.1177023+00:00",
+  "LastChanged_Achievements": "2024-01-02T20:09:56.6775285+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:19.759459+00:00",
-  "LastUpdate_Ratings": "2024-01-02T19:00:23.0350041+00:00",
-  "LastUpdate_Achievements": "2024-01-02T19:11:23.1177827+00:00"
+  "LastUpdate_Ratings": "2024-01-02T19:59:15.0043712+00:00",
+  "LastUpdate_Achievements": "2024-01-02T20:09:56.6776276+00:00"
 }

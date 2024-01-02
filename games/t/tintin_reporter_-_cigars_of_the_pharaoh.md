@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My Papyrus! | 75.00% | ~84 |
+| My Papyrus! | 75.00% | ~85 |
 | A Loyal Friend | 39.00% | ~44 |
-| Abandon Ship! | 28.00% | ~31 |
+| Abandon Ship! | 27.00% | ~31 |
 | The Tomb of Kih-Oskh | 21.00% | ~24 |
-| The Weighing of the Soul | 20.00% | ~22 |
+| The Weighing of the Soul | 19.00% | ~21 |
 | The Curse of Kih-Oskh | 17.00% | ~19 |
 | It's a Deal! | 13.00% | ~15 |
-| Cat Lover | 12.00% | ~13 |
-| Dynamite, Treason and Coconuts | 12.00% | ~13 |
+| Cat Lover | 12.00% | ~14 |
+| Dynamite, Treason and Coconuts | 12.00% | ~14 |
 | In the Name of the Law | 11.00% | ~12 |
 | Au Revoir, Abudin | 11.00% | ~12 |
 | Save a Friend | 11.00% | ~12 |
@@ -27,8 +27,8 @@
 | Tintin, Reporter | 6.00% | ~7 |
 | Eyes Shut | 6.00% | ~7 |
 | Barking Dog | 6.00% | ~7 |
-| Mountain Runner | 4.00% | ~4 |
-| Subtlety | 4.00% | ~4 |
+| Mountain Runner | 4.00% | ~5 |
+| Subtlety | 4.00% | ~5 |
 | The Corporal's Golden Boy | 3.00% | ~3 |
 | A Yummy Detour | 3.00% | ~3 |
 | Threat | 3.00% | ~3 |
@@ -42,7 +42,7 @@
 | Trials of Kih-Oskh | 0.00% | ~0 |
 | Escaping War | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 112 (Ranked 478)  
+Progressed: 113 (Ranked 476)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,3 +86,4 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-29 | 108 | 0 |
 | 2023-12-30 | 111 | 0 |
 | 2024-01-01 | 112 | 0 |
+| 2024-01-02 | 113 | 0 |

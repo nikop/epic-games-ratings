@@ -2,9 +2,9 @@
   "ID": "c909a449941841e790460fbbfbbb7dcd",
   "Name": "Road Defense: Outsiders",
   "ProductSlug": "road-defense-outsiders-22e4ba",
-  "Ranking_EOS_Progress": 419,
+  "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 76,
-  "Ranking_EOS_NewPlayers": 415,
+  "Ranking_EOS_NewPlayers": 407,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 229,
+  "EOS_Progressed": 230,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.8,
+  "EOS_Completed_Percentage": 4.78,
   "EosHistory": [
     {
       "Time": "2023-09-18T15:04:59.5567381+00:00",
@@ -1039,6 +1039,11 @@
       "Time": "2024-01-01T15:03:40.2749296+00:00",
       "NumProgressed": 229,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-02T20:04:10.8496301+00:00",
+      "NumProgressed": 230,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-09-18T15:04:59.5567411+00:00",
@@ -1051,7 +1056,7 @@
       "Name": "Kaboom!",
       "Percentage": 42,
       "XP": 60,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "BUY_LASER_BEAM_LEVEL_1",
@@ -1059,7 +1064,7 @@
       "Name": "Laser Beam",
       "Percentage": 60,
       "XP": 60,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "DEFEATED_10000_ENEMIES",
@@ -1081,9 +1086,9 @@
       "ID": "DEFEATED_100_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Murderer",
-      "Percentage": 83,
+      "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 190
+      "UsersEstimate": 189
     },
     {
       "ID": "DEFEATED_10_ENEMIES",
@@ -1121,9 +1126,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "14g34pl",
       "Name": "Fairfort is safe!",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 60,
-      "UsersEstimate": 48
+      "UsersEstimate": 46
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -1163,7 +1168,7 @@
       "Name": "Powerful",
       "Percentage": 46,
       "XP": 60,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "REACH_LEVEL_15",
@@ -1171,7 +1176,7 @@
       "Name": "Robust",
       "Percentage": 29,
       "XP": 110,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "REACH_LEVEL_5",
@@ -1179,21 +1184,21 @@
       "Name": "Strong",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     }
   ],
   "AchievementSets": [
     {
       "ID": "14g34pl",
       "IsBase": true,
-      "Progressed": 229,
+      "Progressed": 230,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2024-01-02T19:05:20.593419+00:00",
+  "LastChanged_Achievements": "2024-01-02T20:04:10.8496296+00:00",
   "LastUpdate_AppInfo": "2023-12-26T22:57:06.6108745+00:00",
-  "LastUpdate_Ratings": "2024-01-02T18:59:13.7052461+00:00",
-  "LastUpdate_Achievements": "2024-01-02T19:05:20.593434+00:00"
+  "LastUpdate_Ratings": "2024-01-02T19:58:28.6708551+00:00",
+  "LastUpdate_Achievements": "2024-01-02T20:04:10.8496439+00:00"
 }

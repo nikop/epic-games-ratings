@@ -4,7 +4,7 @@
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 1052,
   "Ranking_Popularity": 209,
-  "Ranking_PopularitySum": 190,
+  "Ranking_PopularitySum": 191,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 327,
   "Ranking_EOS_NewPlayers": 173,
@@ -5373,9 +5373,9 @@
       "Count": 531
     }
   ],
-  "EOS_Progressed": 92899,
+  "EOS_Progressed": 92903,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 324,
+  "EOS_NewPlayers": 327,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -30098,6 +30098,11 @@
       "Time": "2024-01-02T19:05:45.4913066+00:00",
       "NumProgressed": 92899,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-02T20:04:29.2471836+00:00",
+      "NumProgressed": 92903,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -30157,7 +30162,7 @@
       "Name": "Imports and Exports",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "ACH_0021",
@@ -30181,7 +30186,7 @@
       "Name": "Savvy Seeker",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "ACH_0040",
@@ -30285,7 +30290,7 @@
       "Name": "Olympus Ascended",
       "Percentage": 0.5,
       "XP": 55,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "ACH_0310",
@@ -30436,13 +30441,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 92899,
+      "Progressed": 92903,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 21246,
+      "Progressed": 21250,
       "Completed": 15594
     }
   ],
@@ -30450,8 +30455,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2024-01-02T18:02:38.0711332+00:00",
-  "LastChanged_Achievements": "2024-01-02T19:05:45.4913063+00:00",
+  "LastChanged_Achievements": "2024-01-02T20:04:29.2471832+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:43.6008036+00:00",
-  "LastUpdate_Ratings": "2024-01-02T19:02:24.0667355+00:00",
-  "LastUpdate_Achievements": "2024-01-02T19:05:45.4914283+00:00"
+  "LastUpdate_Ratings": "2024-01-02T20:00:34.9451455+00:00",
+  "LastUpdate_Achievements": "2024-01-02T20:04:29.2473334+00:00"
 }

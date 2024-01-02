@@ -20,9 +20,9 @@ Rating: 4.55 (Ranked 522)
 | Idiot | 24.00% | ~37 |
 | Beast slayer | 21.00% | ~33 |
 | Death of a legend | 18.00% | ~28 |
+| Ogre friend | 18.00% | ~28 |
 | Family man | 17.00% | ~27 |
 | Archaeologist | 17.00% | ~27 |
-| Ogre friend | 17.00% | ~27 |
 | Fence | 17.00% | ~27 |
 | Sidelined | 17.00% | ~27 |
 | Wise man | 16.00% | ~25 |

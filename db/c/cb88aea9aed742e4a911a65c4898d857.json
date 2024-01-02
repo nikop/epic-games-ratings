@@ -2,9 +2,9 @@
   "ID": "cb88aea9aed742e4a911a65c4898d857",
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
-  "Ranking_Rating": 282,
-  "Ranking_Popularity": 396,
-  "Ranking_PopularitySum": 474,
+  "Ranking_Rating": 260,
+  "Ranking_Popularity": 391,
+  "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 82,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.67,
+  "Rating": 4.68,
   "RatingHistory": [
     {
       "Time": "2023-12-11T06:59:42.897175+00:00",
@@ -237,21 +237,27 @@
       "Rating": 4.67,
       "NumberOfAwards": 84,
       "NumberOfAwardsMax": 84
+    },
+    {
+      "Time": "2024-01-02T20:00:11.0381059+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 90,
+      "NumberOfAwardsMax": 90
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 84,
-  "NumberOfAwardsMax": 84,
+  "NumberOfAwards": 90,
+  "NumberOfAwardsMax": 90,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 84
+      "Count": 90
     }
   ],
-  "EOS_Progressed": 9647,
+  "EOS_Progressed": 9660,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1840,
   "EOS_NewCompleters": 0,
@@ -3391,6 +3397,11 @@
       "Time": "2024-01-02T19:11:03.0475561+00:00",
       "NumProgressed": 9647,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T20:09:41.5067034+00:00",
+      "NumProgressed": 9660,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3401,9 +3412,9 @@
       "ID": "02_TheIntrigue",
       "SetID": "37a94m8",
       "Name": "Conspiracy",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 868
+      "UsersEstimate": 966
     },
     {
       "ID": "03_TheStolenStar",
@@ -3411,7 +3422,7 @@
       "Name": "Stolen Star",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -3419,7 +3430,7 @@
       "Name": "Trade Empire",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "05_TheComorraghSurvivors",
@@ -3491,7 +3502,7 @@
       "Name": "Doom Trader",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "14_TheBreezeOfPain",
@@ -3499,7 +3510,7 @@
       "Name": "Fear Not Obliteration",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "15_Pentakill",
@@ -3515,7 +3526,7 @@
       "Name": "The Rise",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "17_TheExemplar",
@@ -3531,7 +3542,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "19_TheVoidWolf",
@@ -3563,7 +3574,7 @@
       "Name": "Perfect Timing",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "23_DynastyRestored",
@@ -3571,7 +3582,7 @@
       "Name": "The Dynasty Restored",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "24_TheHighrise",
@@ -3611,7 +3622,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -3619,7 +3630,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "30_The GreatestExploration",
@@ -3635,7 +3646,7 @@
       "Name": "Don\u0027t Touch This",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "32_AviationSaviour",
@@ -3659,7 +3670,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -3723,7 +3734,7 @@
       "Name": "Iron Judgement",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -3731,7 +3742,7 @@
       "Name": "No Place Like Home",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -3755,7 +3766,7 @@
       "Name": "A Spark",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "47_AFlame",
@@ -3881,9 +3892,9 @@
       "ID": "62_TheInvisibleBureaucracy",
       "SetID": "37a94m8",
       "Name": "Invisible Bureaucracy",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 39
     },
     {
       "ID": "63_YouShouldGoToAnotherWindow",
@@ -3922,16 +3933,16 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 9647,
+      "Progressed": 9660,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-07T19:57:48.6554999+00:00",
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged": "2024-01-02T11:00:10.8366375+00:00",
-  "LastChanged_Achievements": "2024-01-02T19:11:03.0475558+00:00",
+  "LastChanged": "2024-01-02T20:00:11.0381058+00:00",
+  "LastChanged_Achievements": "2024-01-02T20:09:41.5067029+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2024-01-02T19:01:47.2761852+00:00",
-  "LastUpdate_Achievements": "2024-01-02T19:11:03.0476347+00:00"
+  "LastUpdate_Ratings": "2024-01-02T20:00:11.0381063+00:00",
+  "LastUpdate_Achievements": "2024-01-02T20:09:41.5068078+00:00"
 }

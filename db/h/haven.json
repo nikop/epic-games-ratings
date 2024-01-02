@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1865,
+  "EOS_Progressed": 1866,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -3223,6 +3223,11 @@
       "Time": "2024-01-02T18:04:30.9488871+00:00",
       "NumProgressed": 1865,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-02T20:03:43.2723959+00:00",
+      "NumProgressed": 1866,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3250,7 +3255,7 @@
       "Name": "Strike!",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "12",
@@ -3282,7 +3287,7 @@
       "Name": "Back to rust",
       "Percentage": 10,
       "XP": 70,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "16",
@@ -3298,7 +3303,7 @@
       "Name": "Balding bloot!",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 1343
+      "UsersEstimate": 1344
     },
     {
       "ID": "18",
@@ -3306,7 +3311,7 @@
       "Name": "Like new!",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "19",
@@ -3322,7 +3327,7 @@
       "Name": "Flower Powered",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "20",
@@ -3386,7 +3391,7 @@
       "Name": "A love supreme",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "3",
@@ -3442,7 +3447,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "7",
@@ -3473,15 +3478,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1865,
+      "Progressed": 1866,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2024-01-02T19:04:46.8786232+00:00",
+  "LastChanged_Achievements": "2024-01-02T20:03:43.2723954+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:49.1667896+00:00",
-  "LastUpdate_Ratings": "2024-01-02T19:00:01.3211364+00:00",
-  "LastUpdate_Achievements": "2024-01-02T19:04:46.8786481+00:00"
+  "LastUpdate_Ratings": "2024-01-02T19:59:01.2183315+00:00",
+  "LastUpdate_Achievements": "2024-01-02T20:03:43.2724261+00:00"
 }

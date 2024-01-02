@@ -655,7 +655,7 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 4188,
+  "EOS_Progressed": 4189,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
@@ -9295,6 +9295,11 @@
       "Time": "2024-01-02T16:09:18.4565286+00:00",
       "NumProgressed": 4188,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-02T20:09:13.8190059+00:00",
+      "NumProgressed": 4189,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9386,7 +9391,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1968
+      "UsersEstimate": 1969
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -9514,7 +9519,7 @@
       "Name": "Lord of War",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1298
+      "UsersEstimate": 1299
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -9674,7 +9679,7 @@
       "Name": "Taking it back",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1257
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -9873,13 +9878,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4139,
+      "Progressed": 4140,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4188,
+      "Progressed": 4189,
       "Completed": 11
     }
   ],
@@ -9887,8 +9892,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-31T17:57:21.8483577+00:00",
-  "LastChanged_Achievements": "2024-01-02T19:10:23.4436676+00:00",
+  "LastChanged_Achievements": "2024-01-02T20:09:13.8190057+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:41.6601563+00:00",
-  "LastUpdate_Ratings": "2024-01-02T18:59:11.6037912+00:00",
-  "LastUpdate_Achievements": "2024-01-02T19:10:23.4437934+00:00"
+  "LastUpdate_Ratings": "2024-01-02T19:58:27.2964451+00:00",
+  "LastUpdate_Achievements": "2024-01-02T20:09:13.8190933+00:00"
 }
