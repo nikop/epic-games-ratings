@@ -32,11 +32,11 @@ Rating: 4.55 (Ranked 522)
 | Ghost hunter | 14.00% | ~21 |
 | Master detective | 14.00% | ~21 |
 | Pandora's box | 13.00% | ~20 |
+| Peacekeeper | 13.00% | ~20 |
 | Workaholic | 12.00% | ~18 |
-| Peacekeeper | 12.00% | ~18 |
 | Defender | 11.00% | ~17 |
+| Master thief | 11.00% | ~17 |
 | Safecracker | 10.00% | ~15 |
-| Master thief | 10.00% | ~15 |
 | Freedom fighter | 9.00% | ~14 |
 | Showdown | 9.00% | ~14 |
 | King of the handymen | 8.00% | ~12 |

@@ -23,8 +23,8 @@ Number of Ratings: 32  (23.09.2022)
 | Combo Commando | 24.00% | ~60 |
 | One-Track Mind | 23.00% | ~57 |
 | Stay Winning | 23.00% | ~57 |
+| WIRE Guru | 22.00% | ~55 |
 | Nice Doing Business | 22.00% | ~55 |
-| WIRE Guru | 21.00% | ~52 |
 | The Greater Good | 20.00% | ~50 |
 | Depths of the Heart | 20.00% | ~50 |
 | Lost Souls For Sale | 19.00% | ~47 |

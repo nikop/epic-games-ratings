@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 286,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
@@ -1943,7 +1943,7 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 68256,
+  "EOS_Progressed": 68257,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 773,
   "EOS_NewCompleters": 0,
@@ -30253,6 +30253,11 @@
       "Time": "2024-01-02T02:29:43.0494152+00:00",
       "NumProgressed": 68256,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-02T03:06:13.2032476+00:00",
+      "NumProgressed": 68257,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -30384,7 +30389,7 @@
       "Name": "Developers, Developers, Developers",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 16381
+      "UsersEstimate": 16382
     },
     {
       "ID": "VERDUN_ACH_DOUGHBOYS",
@@ -30552,7 +30557,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 43001
+      "UsersEstimate": 43002
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -30584,7 +30589,7 @@
       "Name": "Battle hardened",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5460
+      "UsersEstimate": 5461
     },
     {
       "ID": "VERDUN_ACH_LEVEL75",
@@ -30640,7 +30645,7 @@
       "Name": "Anker wirf!",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5460
+      "UsersEstimate": 5461
     },
     {
       "ID": "VERDUN_ACH_POILUS",
@@ -30735,15 +30740,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 68256,
+      "Progressed": 68257,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2024-01-01T18:03:00.6625889+00:00",
-  "LastChanged_Achievements": "2024-01-02T02:29:43.0494147+00:00",
+  "LastChanged_Achievements": "2024-01-02T03:06:13.2032467+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:55.7383627+00:00",
-  "LastUpdate_Ratings": "2024-01-02T02:20:12.9497444+00:00",
-  "LastUpdate_Achievements": "2024-01-02T02:29:43.0496014+00:00"
+  "LastUpdate_Ratings": "2024-01-02T02:57:14.7813618+00:00",
+  "LastUpdate_Achievements": "2024-01-02T03:06:13.2034878+00:00"
 }

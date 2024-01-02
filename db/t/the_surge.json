@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -400,9 +400,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5188,
+  "EOS_Progressed": 5189,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -4520,6 +4520,11 @@
       "Time": "2024-01-02T02:26:59.5302282+00:00",
       "NumProgressed": 5188,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-02T03:03:46.8103612+00:00",
+      "NumProgressed": 5189,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -4579,7 +4584,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4358
+      "UsersEstimate": 4359
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -4587,7 +4592,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4877
+      "UsersEstimate": 4878
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -4595,7 +4600,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3995
+      "UsersEstimate": 3996
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -4715,7 +4720,7 @@
       "Name": "Core Power",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "ID_ACHIEV_25",
@@ -4747,7 +4752,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3943
+      "UsersEstimate": 3944
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -4867,7 +4872,7 @@
       "Name": "GOLIATH",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1090
     },
     {
       "ID": "ID_ACHIEV_45",
@@ -5066,15 +5071,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5188,
+      "Progressed": 5189,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-31T19:58:10.5906343+00:00",
-  "LastChanged_Achievements": "2024-01-02T02:26:59.5302277+00:00",
+  "LastChanged_Achievements": "2024-01-02T03:03:46.8103607+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:44.5404504+00:00",
-  "LastUpdate_Ratings": "2024-01-02T02:21:25.1124868+00:00",
-  "LastUpdate_Achievements": "2024-01-02T02:26:59.5303046+00:00"
+  "LastUpdate_Ratings": "2024-01-02T02:58:20.3788441+00:00",
+  "LastUpdate_Achievements": "2024-01-02T03:03:46.8104588+00:00"
 }

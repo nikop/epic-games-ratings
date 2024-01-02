@@ -5,9 +5,9 @@ Rating: 4.65 (Ranked 322)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 43.00% | ~512 |
+| Time Heals All Wounds | 43.00% | ~513 |
 | Rail Rat | 32.00% | ~381 |
-| The Mysterious Stranger | 31.00% | ~369 |
+| The Mysterious Stranger | 31.00% | ~370 |
 | Immaculate Aim | 27.00% | ~322 |
 | The Brass Boss | 26.00% | ~310 |
 | Make Up For Lost Time | 25.00% | ~298 |
@@ -27,9 +27,9 @@ Rating: 4.65 (Ranked 322)
 | Golem Chaser | 21.00% | ~250 |
 | Check Your Pulse | 20.00% | ~238 |
 | The Loose Cannon | 19.00% | ~226 |
-| Street Style | 18.00% | ~214 |
-| The Man Who Shattered Time | 18.00% | ~214 |
-| The Family Fortune | 18.00% | ~214 |
+| Street Style | 18.00% | ~215 |
+| The Man Who Shattered Time | 18.00% | ~215 |
+| The Family Fortune | 18.00% | ~215 |
 | Whiz Kid | 15.00% | ~179 |
 | Good Neighbor | 14.00% | ~167 |
 | Family Memories | 13.00% | ~155 |
@@ -47,8 +47,8 @@ Rating: 4.65 (Ranked 322)
 | Entresol Explorer | 8.00% | ~95 |
 | Sartorialist | 7.00% | ~83 |
 | Golem Hunter | 7.00% | ~83 |
-| Clovemary for Remembering | 6.00% | ~71 |
-| Hexlock for Protection | 6.00% | ~71 |
+| Clovemary for Remembering | 6.00% | ~72 |
+| Hexlock for Protection | 6.00% | ~72 |
 | Rungs Was Right | 5.00% | ~60 |
 | Wunderkind | 2.00% | ~24 |
 | Fitting In | 2.00% | ~24 |
@@ -59,7 +59,7 @@ Rating: 4.65 (Ranked 322)
 | Raw Talent | 0.60% | ~7 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,191 (Ranked 281)  
+Progressed: 1,192 (Ranked 281)  
 Completed: 6 (0.50%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 6 (0.50%) (Ranked 218)
 | 2023-12-30 | 1,165 | 6 |
 | 2023-12-31 | 1,175 | 6 |
 | 2024-01-01 | 1,190 | 6 |
-| 2024-01-02 | 1,191 | 6 |
+| 2024-01-02 | 1,192 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

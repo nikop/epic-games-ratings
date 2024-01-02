@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6683,
+  "EOS_Progressed": 6684,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 571,
+  "EOS_NewPlayers": 572,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
@@ -6914,6 +6914,11 @@
       "Time": "2024-01-02T02:26:53.2597193+00:00",
       "NumProgressed": 6683,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2024-01-02T03:03:41.5388542+00:00",
+      "NumProgressed": 6684,
+      "NumCompleted": 62
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -6966,7 +6971,7 @@
       "Name": "Move the sofa",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 2272
+      "UsersEstimate": 2273
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_TV",
@@ -6974,7 +6979,7 @@
       "Name": "Turn on the TV",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 3809
+      "UsersEstimate": 3810
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_WRONGCODE",
@@ -6990,7 +6995,7 @@
       "Name": "Finish The Hidden Room in Speedrun",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_HIDDENROOM",
@@ -6998,7 +7003,7 @@
       "Name": "Unlock the secret room in Speedrun",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_MASK",
@@ -7053,14 +7058,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 6683,
+      "Progressed": 6684,
       "Completed": 62
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2024-01-02T02:26:53.259719+00:00",
+  "LastChanged_Achievements": "2024-01-02T03:03:41.5388539+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:11.3556672+00:00",
-  "LastUpdate_Ratings": "2024-01-02T02:21:18.8108996+00:00",
-  "LastUpdate_Achievements": "2024-01-02T02:26:53.259763+00:00"
+  "LastUpdate_Ratings": "2024-01-02T02:58:13.6821936+00:00",
+  "LastUpdate_Achievements": "2024-01-02T03:03:41.5389077+00:00"
 }

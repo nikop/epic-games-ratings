@@ -97,11 +97,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2195,
+  "EOS_Progressed": 2196,
   "EOS_Completed": 136,
   "EOS_NewPlayers": 397,
   "EOS_NewCompleters": 31,
-  "EOS_Completed_Percentage": 6.2,
+  "EOS_Completed_Percentage": 6.19,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -6052,6 +6052,11 @@
       "Time": "2024-01-02T02:26:38.8136656+00:00",
       "NumProgressed": 2195,
       "NumCompleted": 136
+    },
+    {
+      "Time": "2024-01-02T03:03:28.1314826+00:00",
+      "NumProgressed": 2196,
+      "NumCompleted": 136
     }
   ],
   "TotalAchievements": 25,
@@ -6101,9 +6106,9 @@
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 527
+      "UsersEstimate": 549
     },
     {
       "ID": "META_RESULT_1-2",
@@ -6207,7 +6212,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1251
+      "UsersEstimate": 1252
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -6215,15 +6220,15 @@
       "Name": "Scholar",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1142
     },
     {
       "ID": "PROGRESS_N2",
@@ -6239,7 +6244,7 @@
       "Name": "A new dawn",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 768
+      "UsersEstimate": 769
     },
     {
       "ID": "PROGRESS_N4",
@@ -6262,7 +6267,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2195,
+      "Progressed": 2196,
       "Completed": 136
     }
   ],
@@ -6270,8 +6275,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-31T07:01:38.7723363+00:00",
-  "LastChanged_Achievements": "2024-01-02T02:26:38.8136647+00:00",
+  "LastChanged_Achievements": "2024-01-02T03:03:28.1314814+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:09.4320521+00:00",
-  "LastUpdate_Ratings": "2024-01-02T02:25:57.8436414+00:00",
-  "LastUpdate_Achievements": "2024-01-02T02:26:38.8153062+00:00"
+  "LastUpdate_Ratings": "2024-01-02T03:02:51.8708431+00:00",
+  "LastUpdate_Achievements": "2024-01-02T03:03:28.1331597+00:00"
 }

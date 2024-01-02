@@ -14,10 +14,10 @@ Number of Ratings: 76  (23.09.2022)
 | Sock Getter | 10.00% | ~63 |
 | Time For Tutorial | 10.00% | ~63 |
 | Super Spatula Seeker | 9.00% | ~57 |
+| Star Smasher | 9.00% | ~57 |
+| Surf's Up! | 9.00% | ~57 |
 | Uptown and Downtown | 8.00% | ~50 |
 | Squirrel Smasher | 8.00% | ~50 |
-| Star Smasher | 8.00% | ~50 |
-| Surf's Up! | 8.00% | ~50 |
 | Toxic Terror | 7.00% | ~44 |
 | Are you ready now? | 6.00% | ~38 |
 | Life's as extreme as you wanna make it! | 6.00% | ~38 |

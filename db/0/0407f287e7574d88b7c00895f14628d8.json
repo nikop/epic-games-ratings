@@ -4,7 +4,7 @@
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 288,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 174,
+  "EOS_Progressed": 175,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -694,6 +694,11 @@
       "Time": "2024-01-01T17:05:46.8901305+00:00",
       "NumProgressed": 174,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T03:04:48.4287818+00:00",
+      "NumProgressed": 175,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-12T07:05:28.2307151+00:00",
@@ -738,7 +743,7 @@
       "Name": "Clear Road",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "dl2",
@@ -786,7 +791,7 @@
       "Name": "City Center",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "fw2",
@@ -808,9 +813,9 @@
       "ID": "g1",
       "SetID": "b1ggf28",
       "Name": "Skilled Workers",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 80
     },
     {
       "ID": "g2",
@@ -826,7 +831,7 @@
       "Name": "Handcart",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "j1",
@@ -842,7 +847,7 @@
       "Name": "Well-Read",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "j3",
@@ -874,7 +879,7 @@
       "Name": "Full Load",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "jk1",
@@ -904,9 +909,9 @@
       "ID": "jz1",
       "SetID": "b1ggf28",
       "Name": "Builder",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 33
     },
     {
       "ID": "jz2",
@@ -938,7 +943,7 @@
       "Name": "Practice Makes Perfect",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "k3",
@@ -946,7 +951,7 @@
       "Name": "Technology Town",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "m1",
@@ -962,7 +967,7 @@
       "Name": "Keep Ordering",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "m3",
@@ -978,7 +983,7 @@
       "Name": "Prosperity",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "r2",
@@ -986,7 +991,7 @@
       "Name": "A Welcoming Settlement",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "r3",
@@ -994,7 +999,7 @@
       "Name": "Carefree Life",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "storya1",
@@ -1010,7 +1015,7 @@
       "Name": "Business Mind",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "w1",
@@ -1018,7 +1023,7 @@
       "Name": "Against the Cold",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "w2",
@@ -1050,7 +1055,7 @@
       "Name": "Hard-Drinking",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "x3",
@@ -1066,7 +1071,7 @@
       "Name": "Cozy Houses",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "zf2",
@@ -1090,7 +1095,7 @@
       "Name": "Snowstorm",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "zn2",
@@ -1113,14 +1118,14 @@
     {
       "ID": "b1ggf28",
       "IsBase": true,
-      "Progressed": 174,
+      "Progressed": 175,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-02T02:28:08.3251985+00:00",
+  "LastChanged_Achievements": "2024-01-02T03:04:48.4287815+00:00",
   "LastUpdate_AppInfo": "2023-12-27T04:56:58.3049887+00:00",
-  "LastUpdate_Ratings": "2024-01-02T02:26:13.798302+00:00",
-  "LastUpdate_Achievements": "2024-01-02T02:28:08.3252433+00:00"
+  "LastUpdate_Ratings": "2024-01-02T03:03:05.6311808+00:00",
+  "LastUpdate_Achievements": "2024-01-02T03:04:48.4288157+00:00"
 }

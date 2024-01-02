@@ -2,9 +2,9 @@
   "ID": "2f85e4b21b8b459fa78a34e59ccac2a2",
   "Name": "KeyWe",
   "ProductSlug": "keywe-c3a70e",
-  "Ranking_EOS_Progress": 471,
+  "Ranking_EOS_Progress": 470,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-04-28T09:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 126,
+  "EOS_Progressed": 127,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -550,6 +550,11 @@
       "Time": "2024-01-01T18:07:53.9195388+00:00",
       "NumProgressed": 126,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T03:06:19.5523055+00:00",
+      "NumProgressed": 127,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:04:51.255408+00:00",
@@ -610,7 +615,7 @@
       "Name": "Practice Makes Postmasters",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "completeFall",
@@ -618,7 +623,7 @@
       "Name": "Pumpkins and Postage Stamps",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "completeGame",
@@ -634,15 +639,15 @@
       "Name": "You\u0027re Hired",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "completeSummer",
       "SetID": "cfe0fhi",
       "Name": "Fun in the Bungalow Basin Sun",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 25,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "completeTheFirstWeek",
@@ -650,7 +655,7 @@
       "Name": "Learn the Ropes",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "findFirstCollectible",
@@ -666,7 +671,7 @@
       "Name": "Working for the Kiweekend",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "goldOnAllLevels",
@@ -721,13 +726,13 @@
     {
       "ID": "cfe0fhi",
       "IsBase": true,
-      "Progressed": 126,
+      "Progressed": 127,
       "Completed": 0
     },
     {
       "ID": "cfj6lld",
       "IsBase": false,
-      "Progressed": 126,
+      "Progressed": 127,
       "Completed": 0
     }
   ],
@@ -735,8 +740,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.8503401+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:23.8514145+00:00",
   "LastChanged": "2023-03-31T05:58:13.8503402+00:00",
-  "LastChanged_Achievements": "2024-01-02T02:29:50.477682+00:00",
+  "LastChanged_Achievements": "2024-01-02T03:06:19.552305+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:20.8360507+00:00",
-  "LastUpdate_Ratings": "2024-01-02T02:21:38.8768298+00:00",
-  "LastUpdate_Achievements": "2024-01-02T02:29:50.4776995+00:00"
+  "LastUpdate_Ratings": "2024-01-02T02:58:33.1774346+00:00",
+  "LastUpdate_Achievements": "2024-01-02T03:06:19.5523278+00:00"
 }

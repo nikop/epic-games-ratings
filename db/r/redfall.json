@@ -3904,9 +3904,9 @@
       "ID": "Achievement_010",
       "SetID": "6b34g18",
       "Name": "Welcome to the Neighborhood",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 177
     },
     {
       "ID": "Achievement_011",
@@ -4048,9 +4048,9 @@
       "ID": "Achievement_028",
       "SetID": "6b34g18",
       "Name": "You Clean It Up",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 66
     },
     {
       "ID": "Achievement_029",
@@ -4080,9 +4080,9 @@
       "ID": "Achievement_032",
       "SetID": "6b34g18",
       "Name": "Faith Healer",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "Achievement_033",
@@ -4377,8 +4377,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-01T12:00:40.1847166+00:00",
-  "LastChanged_Achievements": "2024-01-02T02:29:01.8320803+00:00",
+  "LastChanged_Achievements": "2024-01-02T03:05:37.0168356+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.8280502+00:00",
-  "LastUpdate_Ratings": "2024-01-02T02:23:18.6895522+00:00",
-  "LastUpdate_Achievements": "2024-01-02T02:29:01.8321485+00:00"
+  "LastUpdate_Ratings": "2024-01-02T03:00:00.2242911+00:00",
+  "LastUpdate_Achievements": "2024-01-02T03:05:37.0168952+00:00"
 }

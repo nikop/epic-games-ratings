@@ -6,23 +6,23 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 5.00% | ~56,739 |
-| Skillful | 5.00% | ~56,739 |
-| Zealous | 4.00% | ~45,391 |
-| Not half bad | 4.00% | ~45,391 |
-| Make Some Noise | 4.00% | ~45,391 |
-| No one left behind | 3.00% | ~34,043 |
-| Medic | 3.00% | ~34,043 |
-| Handyman | 3.00% | ~34,043 |
-| Bloody Millionaire | 3.00% | ~34,043 |
-| Apt Survivor | 3.00% | ~34,043 |
-| Survival Treasures | 3.00% | ~34,043 |
-| I | 3.00% | ~34,043 |
-| Sorted | 3.00% | ~34,043 |
-| Healthy Obsession | 3.00% | ~34,043 |
-| Resurgence | 3.00% | ~34,043 |
-| Preemptive Strike | 3.00% | ~34,043 |
-| Humanitarian | 3.00% | ~34,043 |
+| It wakes | 5.00% | ~56,741 |
+| Skillful | 5.00% | ~56,741 |
+| Zealous | 4.00% | ~45,393 |
+| Not half bad | 4.00% | ~45,393 |
+| Make Some Noise | 4.00% | ~45,393 |
+| No one left behind | 3.00% | ~34,045 |
+| Medic | 3.00% | ~34,045 |
+| Handyman | 3.00% | ~34,045 |
+| Bloody Millionaire | 3.00% | ~34,045 |
+| Apt Survivor | 3.00% | ~34,045 |
+| Survival Treasures | 3.00% | ~34,045 |
+| I | 3.00% | ~34,045 |
+| Sorted | 3.00% | ~34,045 |
+| Healthy Obsession | 3.00% | ~34,045 |
+| Resurgence | 3.00% | ~34,045 |
+| Preemptive Strike | 3.00% | ~34,045 |
+| Humanitarian | 3.00% | ~34,045 |
 | The Grand Sacrifice | 2.00% | ~22,696 |
 | Agonizing Escape | 2.00% | ~22,696 |
 | Backdoor Escape | 2.00% | ~22,696 |
@@ -77,20 +77,20 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outrun the Overlap | 0.90% | ~10,213 |
 | Extraterrestrial | 0.90% | ~10,213 |
 | Outta Nowhere | 0.90% | ~10,213 |
-| A bite for the Entity | 0.80% | ~9,078 |
-| Serial Killer | 0.80% | ~9,078 |
-| Devoted Gatekeeping | 0.80% | ~9,078 |
-| Shrine Apparatus | 0.80% | ~9,078 |
-| Selfless Survival | 0.80% | ~9,078 |
-| End of Days | 0.80% | ~9,078 |
-| Insult and Injury | 0.80% | ~9,078 |
-| Rebuilding The Borgo | 0.80% | ~9,078 |
-| Jump Scares | 0.70% | ~7,943 |
-| Hemophobia | 0.70% | ~7,943 |
-| Game Over | 0.70% | ~7,943 |
-| Broken Bodies | 0.70% | ~7,943 |
-| High Speed Pursuit | 0.70% | ~7,943 |
-| Complete the Evolution | 0.70% | ~7,943 |
+| A bite for the Entity | 0.80% | ~9,079 |
+| Hemophobia | 0.80% | ~9,079 |
+| Serial Killer | 0.80% | ~9,079 |
+| Devoted Gatekeeping | 0.80% | ~9,079 |
+| Shrine Apparatus | 0.80% | ~9,079 |
+| Selfless Survival | 0.80% | ~9,079 |
+| End of Days | 0.80% | ~9,079 |
+| Insult and Injury | 0.80% | ~9,079 |
+| Rebuilding The Borgo | 0.80% | ~9,079 |
+| Jump Scares | 0.70% | ~7,944 |
+| Game Over | 0.70% | ~7,944 |
+| Broken Bodies | 0.70% | ~7,944 |
+| High Speed Pursuit | 0.70% | ~7,944 |
+| Complete the Evolution | 0.70% | ~7,944 |
 | Deep Cleansing | 0.60% | ~6,809 |
 | Texas BBQ | 0.60% | ~6,809 |
 | Party Crasher | 0.60% | ~6,809 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,135 |
 | Adept Good Guy | 0.10% | ~1,135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,134,779 (Ranked 13)  
+Progressed: 1,134,825 (Ranked 13)  
 Completed: 65 (0.01%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -496,7 +496,7 @@ Completed: 65 (0.01%) (Ranked 368)
 | 2023-12-30 | 1,130,308 | 65 |
 | 2023-12-31 | 1,132,441 | 65 |
 | 2024-01-01 | 1,134,483 | 65 |
-| 2024-01-02 | 1,134,779 | 65 |
+| 2024-01-02 | 1,134,825 | 65 |
 ## Awards
 Max (Diverse Characters): 38,984  (Ranked 15)  
 Sum: 294,517 (Ranked 12)  

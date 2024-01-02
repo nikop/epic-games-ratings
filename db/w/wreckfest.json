@@ -5,7 +5,7 @@
   "Ranking_Rating": 869,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
-  "Ranking_EOS_Progress": 320,
+  "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 149,
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 672,
+  "EOS_Progressed": 673,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 288,
+  "EOS_NewPlayers": 289,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1777,6 +1777,11 @@
       "Time": "2024-01-02T01:56:18.1274107+00:00",
       "NumProgressed": 672,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T03:08:55.366534+00:00",
+      "NumProgressed": 673,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -1789,7 +1794,7 @@
       "Name": "Look Mom, I Can Fly",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "CareerAllChallenges",
@@ -1845,7 +1850,7 @@
       "Name": "Storm Warning",
       "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "CollectVehiclesA",
@@ -1948,7 +1953,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 672,
+      "Progressed": 673,
       "Completed": 0
     }
   ],
@@ -1956,8 +1961,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-01T13:03:06.5238599+00:00",
-  "LastChanged_Achievements": "2024-01-02T02:31:53.6725408+00:00",
+  "LastChanged_Achievements": "2024-01-02T03:08:55.3665335+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:31.5719432+00:00",
-  "LastUpdate_Ratings": "2024-01-02T02:23:05.4258129+00:00",
-  "LastUpdate_Achievements": "2024-01-02T02:31:53.6725661+00:00"
+  "LastUpdate_Ratings": "2024-01-02T02:59:48.2679524+00:00",
+  "LastUpdate_Achievements": "2024-01-02T03:08:55.3665609+00:00"
 }

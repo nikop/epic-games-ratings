@@ -946,9 +946,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 53091,
+  "EOS_Progressed": 53093,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1179,
+  "EOS_NewPlayers": 1178,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30131,6 +30131,11 @@
       "Time": "2024-01-02T02:29:18.4987141+00:00",
       "NumProgressed": 53091,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-02T03:05:51.8527254+00:00",
+      "NumProgressed": 53093,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -30222,7 +30227,7 @@
       "Name": "Aviator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3185
+      "UsersEstimate": 3186
     },
     {
       "ID": "journeyer",
@@ -30262,7 +30267,7 @@
       "Name": "Nomad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 9025
+      "UsersEstimate": 9026
     },
     {
       "ID": "novice",
@@ -30414,7 +30419,7 @@
       "Name": "Enter Paz",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3716
+      "UsersEstimate": 3717
     },
     {
       "ID": "vandal",
@@ -30453,15 +30458,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 53091,
+      "Progressed": 53093,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2024-01-01T13:02:12.9147657+00:00",
-  "LastChanged_Achievements": "2024-01-02T02:29:18.4987139+00:00",
+  "LastChanged_Achievements": "2024-01-02T03:05:51.852725+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:20.753487+00:00",
-  "LastUpdate_Ratings": "2024-01-02T02:22:11.7784436+00:00",
-  "LastUpdate_Achievements": "2024-01-02T02:29:18.4988547+00:00"
+  "LastUpdate_Ratings": "2024-01-02T02:59:00.1690547+00:00",
+  "LastUpdate_Achievements": "2024-01-02T03:05:51.8528893+00:00"
 }

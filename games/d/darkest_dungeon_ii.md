@@ -6,17 +6,17 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 12.00% | ~731 |
-| Lost and Found | 7.00% | ~426 |
-| This Belongs in a Museum | 6.00% | ~7,873 |
-| Autodidact | 6.00% | ~7,873 |
-| This guy... again? | 6.00% | ~365 |
+| Malpractice Assurance | 12.00% | ~732 |
+| Lost and Found | 7.00% | ~427 |
+| This Belongs in a Museum | 6.00% | ~7,874 |
+| Autodidact | 6.00% | ~7,874 |
+| This guy... again? | 6.00% | ~366 |
 | Serenity Now! | 5.00% | ~6,561 |
 | Creep and Sleep | 5.00% | ~6,561 |
 | Overdue Notice | 5.00% | ~6,561 |
 | Escape from the Black Hole | 5.00% | ~6,561 |
-| Ploughshares to Swords | 5.00% | ~304 |
-| Bloody Graduation | 5.00% | ~304 |
+| Ploughshares to Swords | 5.00% | ~305 |
+| Bloody Graduation | 5.00% | ~305 |
 | Don't Make Me Turn This Coach Around | 4.00% | ~5,249 |
 | It Rings a Bell | 4.00% | ~5,249 |
 | Not Today! | 4.00% | ~5,249 |
@@ -48,17 +48,17 @@ Number of Ratings: 7,767  (23.09.2022)
 | Whale | 3.00% | ~3,937 |
 | Unshackled | 3.00% | ~3,937 |
 | Road Trip | 3.00% | ~3,937 |
-| This Looks Familiar | 2.00% | ~2,624 |
-| Hope Rekindled | 2.00% | ~2,624 |
-| Predator | 2.00% | ~2,624 |
-| Ichthyophobic | 2.00% | ~2,624 |
-| No More Mouths to Feed | 2.00% | ~2,624 |
-| Reverse Banditry | 2.00% | ~2,624 |
-| When You Want Something Done Right | 2.00% | ~2,624 |
-| Worldly Traveller | 2.00% | ~2,624 |
-| Utopia | 2.00% | ~2,624 |
-| Hot Air | 2.00% | ~2,624 |
-| Eyes Up | 2.00% | ~2,624 |
+| This Looks Familiar | 2.00% | ~2,625 |
+| Hope Rekindled | 2.00% | ~2,625 |
+| Predator | 2.00% | ~2,625 |
+| Ichthyophobic | 2.00% | ~2,625 |
+| No More Mouths to Feed | 2.00% | ~2,625 |
+| Reverse Banditry | 2.00% | ~2,625 |
+| When You Want Something Done Right | 2.00% | ~2,625 |
+| Worldly Traveller | 2.00% | ~2,625 |
+| Utopia | 2.00% | ~2,625 |
+| Hot Air | 2.00% | ~2,625 |
+| Eyes Up | 2.00% | ~2,625 |
 | Shrine of Reflection | 1.00% | ~1,312 |
 | Handled | 1.00% | ~1,312 |
 | Body of Work | 1.00% | ~1,312 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,221 (Ranked 90)  
+Progressed: 131,227 (Ranked 90)  
 Completed: 3 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,10 +333,10 @@ Completed: 3 (0.00%) (Ranked 390)
 | 2023-12-30 | 130,838 | 3 |
 | 2023-12-31 | 131,026 | 3 |
 | 2024-01-01 | 131,206 | 3 |
-| 2024-01-02 | 131,221 | 3 |
+| 2024-01-02 | 131,227 | 3 |
 ## Awards
 Max (Character Customization): 7,919  (Ranked 50)  
-Sum: 21,328 (Ranked 58)  
+Sum: 21,332 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -348,7 +348,7 @@ Diff (max vs sum): -8
 | This game is Extremely Fun | 1,508 |
 | This game has Unique Visuals | 1,442 |
 | This game has Amazing Storytelling | 1,431 |
-| This game has Quickly Understood Controls | 1,396 |
+| This game has Quickly Understood Controls | 1,400 |
 | This game has a Creative Community | 1,074 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
@@ -694,4 +694,4 @@ Diff (max vs sum): -8
 | 2023-12-30 | 4.68 | - | 7,905 | 21,274 |
 | 2023-12-31 | 4.68 | - | 7,910 | 21,297 |
 | 2024-01-01 | 4.68 | - | 7,919 | 21,323 |
-| 2024-01-02 | 4.68 | - | 7,919 | 21,328 |
+| 2024-01-02 | 4.68 | - | 7,919 | 21,332 |

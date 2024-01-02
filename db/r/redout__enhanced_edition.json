@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 238509,
+  "EOS_Progressed": 238510,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 600,
+  "EOS_NewPlayers": 599,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -27278,6 +27278,11 @@
       "Time": "2024-01-02T02:29:06.3203394+00:00",
       "NumProgressed": 238509,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2024-01-02T03:05:41.1566318+00:00",
+      "NumProgressed": 238510,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -27481,7 +27486,7 @@
       "Name": "QAREEN",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11925
+      "UsersEstimate": 11926
     },
     {
       "ID": "RESPWND",
@@ -27529,7 +27534,7 @@
       "Name": "TAKATORA",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11925
+      "UsersEstimate": 11926
     },
     {
       "ID": "TRICKUPYOURSLEEVE",
@@ -27560,15 +27565,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 238509,
+      "Progressed": 238510,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-12-24T20:57:53.5122809+00:00",
-  "LastChanged_Achievements": "2024-01-02T02:29:06.3203389+00:00",
+  "LastChanged_Achievements": "2024-01-02T03:05:41.1566314+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:41.2856312+00:00",
-  "LastUpdate_Ratings": "2024-01-02T02:21:07.1514632+00:00",
-  "LastUpdate_Achievements": "2024-01-02T02:29:06.3205122+00:00"
+  "LastUpdate_Ratings": "2024-01-02T02:58:02.8237348+00:00",
+  "LastUpdate_Achievements": "2024-01-02T03:05:41.1567936+00:00"
 }

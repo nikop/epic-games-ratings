@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~7,483 |
+| A Brief Tour of the Realms | 3.00% | ~7,484 |
 | Beast Intentions | 1.00% | ~2,494 |
 | The Cursed Farmer | 1.00% | ~2,494 |
 | The Mad Wizard | 0.90% | ~2,245 |
@@ -24,21 +24,21 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flames of Avernus | 0.40% | ~863 |
 | Don't Lose Your Head | 0.40% | ~863 |
 | Mind Spike | 0.40% | ~863 |
+| Maddening | 0.30% | ~748 |
 | A Persistent Buzzing | 0.30% | ~748 |
 | Terror in the Dark | 0.30% | ~748 |
+| The Crumbling Temple | 0.30% | ~748 |
 | Pure Energy | 0.30% | ~748 |
 | Arcane Suppression | 0.30% | ~647 |
 | Welcome to the Vrocks | 0.30% | ~647 |
 | Misaligned in Sigil | 0.30% | ~647 |
 | Chaos Theory | 0.30% | ~647 |
-| Maddening | 0.20% | ~499 |
 | Beast Mode | 0.20% | ~499 |
 | Low Initiative | 0.20% | ~499 |
 | A Mysterious Summons | 0.20% | ~499 |
 | Building Trust | 0.20% | ~499 |
 | Unearthed Evil | 0.20% | ~499 |
 | No Time To Rest | 0.20% | ~499 |
-| The Crumbling Temple | 0.20% | ~499 |
 | Useless Allies | 0.20% | ~499 |
 | Exploring Port Nyanzaru | 0.20% | ~499 |
 | Running of the Saurs | 0.20% | ~499 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~216 |
 | The Brains of an Illithid's Desire | 0.10% | ~216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,442 (Ranked 70)  
+Progressed: 249,450 (Ranked 70)  
 Completed: 2,584 (1.04%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -810,7 +810,7 @@ Completed: 2,584 (1.04%) (Ranked 170)
 | 2023-12-30 | 247,917 | 2,578 |
 | 2023-12-31 | 248,665 | 2,581 |
 | 2024-01-01 | 249,335 | 2,583 |
-| 2024-01-02 | 249,442 | 2,584 |
+| 2024-01-02 | 249,450 | 2,584 |
 ## Awards
 Max (Great for Beginners): 5,726  (Ranked 71)  
 Sum: 33,249 (Ranked 41)  

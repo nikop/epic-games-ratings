@@ -4,7 +4,7 @@
   "ProductSlug": "super-alloy-ranger-4252cc",
   "Ranking_EOS_Progress": 450,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 418,
+  "Ranking_EOS_NewPlayers": 409,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 147,
+  "EOS_Progressed": 148,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
@@ -721,6 +721,11 @@
       "Time": "2024-01-01T17:08:36.4023874+00:00",
       "NumProgressed": 147,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-02T03:08:29.2624669+00:00",
+      "NumProgressed": 148,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -746,9 +751,9 @@
       "ID": "Achi_03",
       "SetID": "51a97k7",
       "Name": "The Abyss Conqueror",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "Achi_04",
@@ -858,9 +863,9 @@
       "ID": "Achi_17",
       "SetID": "51a97k7",
       "Name": "Space Warrior: Prologue",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "Achi_18",
@@ -898,9 +903,9 @@
       "ID": "Achi_22",
       "SetID": "51a97k7",
       "Name": "Iceberg Theory",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 113
+      "UsersEstimate": 112
     },
     {
       "ID": "Achi_23",
@@ -940,7 +945,7 @@
       "Name": "GG EZ",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "Achi_28",
@@ -994,9 +999,9 @@
       "ID": "Achi_34",
       "SetID": "51a97k7",
       "Name": "Hydrophobia",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 54
+      "UsersEstimate": 53
     },
     {
       "ID": "Achi_35",
@@ -1020,7 +1025,7 @@
       "Name": "Get to the Point",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "Achi_38",
@@ -1131,7 +1136,7 @@
     {
       "ID": "51a97k7",
       "IsBase": true,
-      "Progressed": 147,
+      "Progressed": 148,
       "Completed": 1
     }
   ],
@@ -1139,8 +1144,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2024-01-02T02:30:13.7655365+00:00",
+  "LastChanged_Achievements": "2024-01-02T03:08:29.2624666+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:37.9586675+00:00",
-  "LastUpdate_Ratings": "2024-01-02T02:23:20.8615154+00:00",
-  "LastUpdate_Achievements": "2024-01-02T02:30:13.765573+00:00"
+  "LastUpdate_Ratings": "2024-01-02T03:00:02.0745014+00:00",
+  "LastUpdate_Achievements": "2024-01-02T03:08:29.262519+00:00"
 }

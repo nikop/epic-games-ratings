@@ -15,15 +15,16 @@ Rating: 3.64 (Ranked 1,083)
 | Peek-a-boo | 10.00% | ~221 |
 | Fly Fisher | 9.00% | ~199 |
 | Sucks To Be You | 9.00% | ~199 |
+| Welcome to the Neighborhood | 8.00% | ~177 |
 | Throw The First Stone | 8.00% | ~177 |
 | Enter of Your Own Free Will | 7.00% | ~155 |
-| Welcome to the Neighborhood | 7.00% | ~155 |
 | Heart Attack | 7.00% | ~155 |
 | Grounded | 6.00% | ~133 |
 | Skin of Their Teeth | 6.00% | ~133 |
 | Bad Wiring | 5.00% | ~111 |
 | Neighborhood Revitalization | 4.00% | ~89 |
 | Radio Silence | 4.00% | ~89 |
+| You Clean It Up | 3.00% | ~66 |
 | Helping Hand | 3.00% | ~66 |
 | I Spit On Your Grave | 3.00% | ~66 |
 | Contingency Plans | 2.00% | ~44 |
@@ -32,7 +33,6 @@ Rating: 3.64 (Ranked 1,083)
 | Bell-ringer | 2.00% | ~44 |
 | Silence Is Golden | 2.00% | ~44 |
 | Good Morning | 2.00% | ~44 |
-| You Clean It Up | 2.00% | ~44 |
 | From the Shadows | 2.00% | ~44 |
 | Starve the Beast | 2.00% | ~44 |
 | Harvest’s End | 2.00% | ~44 |
@@ -56,8 +56,8 @@ Rating: 3.64 (Ranked 1,083)
 | Monster Hunters Club | 0.30% | ~7 |
 | So Anyway I Started Blasting | 0.30% | ~7 |
 | Under a Bushel | 0.30% | ~7 |
+| Faith Healer | 0.20% | ~4 |
 | Bob’s Final Hour | 0.20% | ~4 |
-| Faith Healer | 0.10% | ~2 |
 | A Cry in the Dark | 0.10% | ~2 |
 | Someplace to Be | 0.10% | ~2 |
 | Sepsis | 0.10% | ~2 |

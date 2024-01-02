@@ -365,9 +365,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 12727,
+  "EOS_Progressed": 12729,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 1096,
+  "EOS_NewPlayers": 1093,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -8815,6 +8815,11 @@
       "Time": "2024-01-02T02:33:09.5569325+00:00",
       "NumProgressed": 12727,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2024-01-02T03:10:03.0521527+00:00",
+      "NumProgressed": 12729,
+      "NumCompleted": 24
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -8835,7 +8840,7 @@
       "Name": "Baby Steps",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 4709
+      "UsersEstimate": 4710
     },
     {
       "ID": "BeLikeWater",
@@ -8971,7 +8976,7 @@
       "Name": "Nasty!",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 3309
+      "UsersEstimate": 3310
     },
     {
       "ID": "NoMoreTotems",
@@ -8985,9 +8990,9 @@
       "ID": "NotLikeTheOthers",
       "SetID": "acc6ea0",
       "Name": "Not Like The Others",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 76
+      "UsersEstimate": 64
     },
     {
       "ID": "OneStarMan",
@@ -9043,7 +9048,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 2418
+      "UsersEstimate": 2419
     },
     {
       "ID": "UnResurrected",
@@ -9098,7 +9103,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 12727,
+      "Progressed": 12729,
       "Completed": 24
     }
   ],
@@ -9106,8 +9111,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-01T14:03:03.4997534+00:00",
-  "LastChanged_Achievements": "2024-01-02T02:33:09.5569322+00:00",
+  "LastChanged_Achievements": "2024-01-02T03:10:03.052152+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.4946312+00:00",
-  "LastUpdate_Ratings": "2024-01-02T02:26:03.9842433+00:00",
-  "LastUpdate_Achievements": "2024-01-02T02:33:09.5570261+00:00"
+  "LastUpdate_Ratings": "2024-01-02T03:02:57.0823629+00:00",
+  "LastUpdate_Achievements": "2024-01-02T03:10:03.0522388+00:00"
 }

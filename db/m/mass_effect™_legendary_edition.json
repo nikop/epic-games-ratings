@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -18,7 +18,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3555,
+  "EOS_Progressed": 3556,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 508,
   "EOS_NewCompleters": 2,
@@ -6888,6 +6888,11 @@
       "Time": "2024-01-02T02:33:19.8107714+00:00",
       "NumProgressed": 3555,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-02T03:10:12.5066574+00:00",
+      "NumProgressed": 3556,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-09-20T19:07:08.0577567+00:00",
@@ -7092,7 +7097,7 @@
       "Name": "Paramour I",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1067
     },
     {
       "ID": "achievement_121",
@@ -7132,7 +7137,7 @@
       "Name": "Soldier",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 1244
+      "UsersEstimate": 1245
     },
     {
       "ID": "achievement_126",
@@ -7196,7 +7201,7 @@
       "Name": "Meritorious Service Medal",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 1244
+      "UsersEstimate": 1245
     },
     {
       "ID": "achievement_19",
@@ -7212,7 +7217,7 @@
       "Name": "Medal of Heroism",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 1564
+      "UsersEstimate": 1565
     },
     {
       "ID": "achievement_20",
@@ -7228,7 +7233,7 @@
       "Name": "Medal of Exploration I",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 2026
+      "UsersEstimate": 2027
     },
     {
       "ID": "achievement_22",
@@ -7236,7 +7241,7 @@
       "Name": "Medal of Exploration II",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "achievement_23",
@@ -7260,7 +7265,7 @@
       "Name": "Sentinel Ally",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1067
     },
     {
       "ID": "achievement_26",
@@ -7316,7 +7321,7 @@
       "Name": "Spectre Inductee",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 2382
+      "UsersEstimate": 2383
     },
     {
       "ID": "achievement_32",
@@ -7324,7 +7329,7 @@
       "Name": "Charismatic",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 1244
+      "UsersEstimate": 1245
     },
     {
       "ID": "achievement_33",
@@ -7332,7 +7337,7 @@
       "Name": "Search and Rescue",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 1813
+      "UsersEstimate": 1814
     },
     {
       "ID": "achievement_34",
@@ -7348,7 +7353,7 @@
       "Name": "Mission Accomplished",
       "Percentage": 19,
       "XP": 125,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "achievement_36",
@@ -7386,9 +7391,9 @@
       "ID": "achievement_4",
       "SetID": "b9pe172",
       "Name": "Council Legion of Merit",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 25,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1351
     },
     {
       "ID": "achievement_40",
@@ -7396,7 +7401,7 @@
       "Name": "Suicide Mission",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "achievement_41",
@@ -7404,7 +7409,7 @@
       "Name": "Against All Odds",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "achievement_42",
@@ -7420,7 +7425,7 @@
       "Name": "Friend or Foe",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "achievement_44",
@@ -7428,7 +7433,7 @@
       "Name": "The Archangel",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     },
     {
       "ID": "achievement_45",
@@ -7444,7 +7449,7 @@
       "Name": "The Convict",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "achievement_47",
@@ -7476,7 +7481,7 @@
       "Name": "Honorarium of Corporate Service",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 1564
+      "UsersEstimate": 1565
     },
     {
       "ID": "achievement_50",
@@ -7508,7 +7513,7 @@
       "Name": "Cat\u0027s in the Cradle",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "achievement_54",
@@ -7524,7 +7529,7 @@
       "Name": "Doppelganger",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "achievement_56",
@@ -7636,7 +7641,7 @@
       "Name": "Agent",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "achievement_69",
@@ -7692,7 +7697,7 @@
       "Name": "Power Full",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "achievement_75",
@@ -7756,7 +7761,7 @@
       "Name": "Mobilizer",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "achievement_82",
@@ -7764,7 +7769,7 @@
       "Name": "World Shaker",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "achievement_83",
@@ -7860,7 +7865,7 @@
       "Name": "Liberator",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "achievement_94",
@@ -7915,19 +7920,19 @@
     {
       "ID": "b9pe172",
       "IsBase": true,
-      "Progressed": 3555,
+      "Progressed": 3556,
       "Completed": 12
     },
     {
       "ID": "d252ncf",
       "IsBase": false,
-      "Progressed": 3555,
+      "Progressed": 3556,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-02T02:33:19.8107711+00:00",
+  "LastChanged_Achievements": "2024-01-02T03:10:12.5066571+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:34.6542278+00:00",
-  "LastUpdate_Ratings": "2024-01-02T02:26:31.7268537+00:00",
-  "LastUpdate_Achievements": "2024-01-02T02:33:19.8109541+00:00"
+  "LastUpdate_Ratings": "2024-01-02T03:03:21.5506205+00:00",
+  "LastUpdate_Achievements": "2024-01-02T03:10:12.5068674+00:00"
 }

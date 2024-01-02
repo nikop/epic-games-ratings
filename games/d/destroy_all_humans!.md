@@ -11,12 +11,12 @@ Number of Ratings: 85  (23.09.2022)
 | Lie Back and Think of Albion | 63.00% | ~177 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 60.00% | ~169 |
 | I Look Up As I Walk to Takoshima | 59.00% | ~166 |
-| Yettisoned | 57.00% | ~160 |
+| Yettisoned | 58.00% | ~163 |
 | Perfect Probulator | 54.00% | ~152 |
 | Pimp My Raid | 53.00% | ~149 |
 | Lobster Blisque | 51.00% | ~143 |
+| Earthly Pleasures | 48.00% | ~135 |
 | Fly Me to the Moon Base | 47.00% | ~132 |
-| Earthly Pleasures | 47.00% | ~132 |
 | Ducks in a Row, Fish in a Barrel | 44.00% | ~124 |
 | Forbidden Donut | 36.00% | ~101 |
 | Freshly Squeezed | 36.00% | ~101 |

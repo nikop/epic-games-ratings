@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -167,9 +167,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16253,
+  "EOS_Progressed": 16254,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 392,
+  "EOS_NewPlayers": 390,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -5602,6 +5602,11 @@
       "Time": "2024-01-02T02:32:36.1542163+00:00",
       "NumProgressed": 16253,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-02T03:09:33.2551838+00:00",
+      "NumProgressed": 16254,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -5614,7 +5619,7 @@
       "Name": "Revelations",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 6176
+      "UsersEstimate": 6177
     },
     {
       "ID": "ACH_AE_10",
@@ -5694,15 +5699,15 @@
       "Name": "Signature Style",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 2275
+      "UsersEstimate": 2276
     },
     {
       "ID": "ACH_AE_2",
       "SetID": "ck3465",
       "Name": "Back to School",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3738
+      "UsersEstimate": 3901
     },
     {
       "ID": "ACH_AE_20",
@@ -5790,7 +5795,7 @@
       "Name": "Pajama Boy",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 2600
+      "UsersEstimate": 2601
     },
     {
       "ID": "ACH_AE_30",
@@ -5893,7 +5898,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16253,
+      "Progressed": 16254,
       "Completed": 15
     }
   ],
@@ -5901,8 +5906,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-27T16:00:31.0909826+00:00",
-  "LastChanged_Achievements": "2024-01-02T02:32:36.154216+00:00",
+  "LastChanged_Achievements": "2024-01-02T03:09:33.2551824+00:00",
   "LastUpdate_AppInfo": "2023-12-26T18:57:07.3435183+00:00",
-  "LastUpdate_Ratings": "2024-01-02T02:21:30.2347496+00:00",
-  "LastUpdate_Achievements": "2024-01-02T02:32:36.1542914+00:00"
+  "LastUpdate_Ratings": "2024-01-02T02:58:24.9978862+00:00",
+  "LastUpdate_Achievements": "2024-01-02T03:09:33.2552823+00:00"
 }

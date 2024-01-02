@@ -10330,10 +10330,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 21328,
       "NumberOfAwardsMax": 7919
+    },
+    {
+      "Time": "2024-01-02T02:58:28.4202601+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21332,
+      "NumberOfAwardsMax": 7919
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21328,
+  "NumberOfAwards": 21332,
   "NumberOfAwardsMax": 7919,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10371,7 +10377,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1396
+      "Count": 1400
     },
     {
       "Text": "This game has Amazing Characters",
@@ -10410,9 +10416,9 @@
       "Count": 1074
     }
   ],
-  "EOS_Progressed": 131221,
+  "EOS_Progressed": 131227,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1338,
+  "EOS_NewPlayers": 1339,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37905,6 +37911,11 @@
       "Time": "2024-01-02T02:32:44.8453426+00:00",
       "NumProgressed": 131221,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-02T03:09:41.2752765+00:00",
+      "NumProgressed": 131227,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38012,7 +38023,7 @@
       "Name": "This Looks Familiar",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2624
+      "UsersEstimate": 2625
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -38020,7 +38031,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2624
+      "UsersEstimate": 2625
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -38036,7 +38047,7 @@
       "Name": "Predator",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2624
+      "UsersEstimate": 2625
     },
     {
       "ID": "combat_kill_antiquarian",
@@ -38044,7 +38055,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7873
+      "UsersEstimate": 7874
     },
     {
       "ID": "combat_kill_cadavers",
@@ -38092,7 +38103,7 @@
       "Name": "Ichthyophobic",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2624
+      "UsersEstimate": 2625
     },
     {
       "ID": "combat_kill_gaunts",
@@ -38108,7 +38119,7 @@
       "Name": "No More Mouths to Feed",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2624
+      "UsersEstimate": 2625
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -38148,7 +38159,7 @@
       "Name": "Reverse Banditry",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2624
+      "UsersEstimate": 2625
     },
     {
       "ID": "combat_kill_shambler",
@@ -38268,7 +38279,7 @@
       "Name": "Autodidact",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7873
+      "UsersEstimate": 7874
     },
     {
       "ID": "hero_story_complete_all",
@@ -38316,7 +38327,7 @@
       "Name": "When You Want Something Done Right",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2624
+      "UsersEstimate": 2625
     },
     {
       "ID": "inn_replacement_hero_add",
@@ -38332,7 +38343,7 @@
       "Name": "Worldly Traveller",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2624
+      "UsersEstimate": 2625
     },
     {
       "ID": "relationships_all_negative_mountain",
@@ -38348,7 +38359,7 @@
       "Name": "Utopia",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2624
+      "UsersEstimate": 2625
     },
     {
       "ID": "roster_confirm_all_memoried",
@@ -38380,7 +38391,7 @@
       "Name": "Hot Air",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2624
+      "UsersEstimate": 2625
     },
     {
       "ID": "run_victory_act03",
@@ -38388,7 +38399,7 @@
       "Name": "Eyes Up",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2624
+      "UsersEstimate": 2625
     },
     {
       "ID": "run_victory_act04",
@@ -38452,7 +38463,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 731
+      "UsersEstimate": 732
     },
     {
       "ID": "combat_kill_collector",
@@ -38460,7 +38471,7 @@
       "Name": "This guy... again?",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -38500,7 +38511,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -38508,7 +38519,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "quest_complete_crusader",
@@ -38516,7 +38527,7 @@
       "Name": "Lost and Found",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -38547,21 +38558,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131221,
+      "Progressed": 131227,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6090,
+      "Progressed": 6096,
       "Completed": 820
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-02T01:45:54.2386436+00:00",
-  "LastChanged_Achievements": "2024-01-02T02:32:44.8453422+00:00",
+  "LastChanged": "2024-01-02T02:58:28.42026+00:00",
+  "LastChanged_Achievements": "2024-01-02T03:09:41.2752762+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-02T02:21:33.8478984+00:00",
-  "LastUpdate_Achievements": "2024-01-02T02:32:44.8455221+00:00"
+  "LastUpdate_Ratings": "2024-01-02T02:58:28.4202605+00:00",
+  "LastUpdate_Achievements": "2024-01-02T03:09:41.2754518+00:00"
 }
