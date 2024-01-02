@@ -21,8 +21,8 @@
 | Master Firefighter | 7.00% | ~4 |
 | Notorious Pirate | 6.00% | ~3 |
 | Family Reunion | 4.00% | ~2 |
+| Pirate Lord | 2.00% | ~1 |
 | Just Lazy | 2.00% | ~1 |
-| Pirate Lord | 0.00% | ~0 |
 | Big Spender | 0.00% | ~0 |
 | Expert Salvager | 0.00% | ~0 |
 | Master Salvager | 0.00% | ~0 |

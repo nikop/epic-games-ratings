@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 264,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -16088,9 +16088,9 @@
       "ID": "HUNT_WOLF_5",
       "SetID": "5349c2e",
       "Name": "Don\u0027t Cry Wolf",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1000
+      "UsersEstimate": 1077
     },
     {
       "ID": "KILL_RAIDER",
@@ -16240,8 +16240,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-12-30T00:02:42.2423565+00:00",
-  "LastChanged_Achievements": "2024-01-02T05:04:56.467562+00:00",
+  "LastChanged_Achievements": "2024-01-02T06:04:56.9340394+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:26.1002888+00:00",
-  "LastUpdate_Ratings": "2024-01-02T04:57:49.1029461+00:00",
-  "LastUpdate_Achievements": "2024-01-02T05:04:56.4676524+00:00"
+  "LastUpdate_Ratings": "2024-01-02T05:57:58.0223615+00:00",
+  "LastUpdate_Achievements": "2024-01-02T06:04:56.9341044+00:00"
 }

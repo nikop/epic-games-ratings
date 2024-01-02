@@ -1,25 +1,25 @@
 # F1® 23
 [Store](https://store.epicgames.com/en-US/p/f1-23)  
 [View Rawdata](../../db/f/f1®_23_standard_edition.json)  
-Rating: 4.65 (Ranked 322)  
+Rating: 4.65 (Ranked 321)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~13,283 |
-| On the Top Step | 82.00% | ~11,970 |
-| Setting up for Success | 69.00% | ~10,072 |
-| Team Orders | 68.00% | ~9,926 |
-| Engineer | 45.00% | ~6,569 |
-| Familiar Faces | 42.00% | ~6,131 |
-| Going the Extra Mile | 36.00% | ~5,255 |
-| Sharing the Love | 33.00% | ~4,817 |
-| Hitting a Season | 26.00% | ~3,795 |
-| Making History | 25.00% | ~3,649 |
-| A Dozen Pieces | 24.00% | ~3,503 |
-| Network Success | 23.00% | ~3,357 |
-| Challenge Yourself | 23.00% | ~3,357 |
-| Writing a new Chapter | 19.00% | ~2,773 |
-| Spring Cleaning | 18.00% | ~2,627 |
+| Getting on the Step | 91.00% | ~13,287 |
+| On the Top Step | 82.00% | ~11,973 |
+| Setting up for Success | 69.00% | ~10,075 |
+| Team Orders | 68.00% | ~9,929 |
+| Engineer | 45.00% | ~6,570 |
+| Familiar Faces | 42.00% | ~6,132 |
+| Going the Extra Mile | 36.00% | ~5,256 |
+| Sharing the Love | 33.00% | ~4,818 |
+| Hitting a Season | 26.00% | ~3,796 |
+| Making History | 25.00% | ~3,650 |
+| A Dozen Pieces | 24.00% | ~3,504 |
+| Network Success | 23.00% | ~3,358 |
+| Challenge Yourself | 23.00% | ~3,358 |
+| Writing a new Chapter | 19.00% | ~2,774 |
+| Spring Cleaning | 18.00% | ~2,628 |
 | Reduce | 15.00% | ~2,190 |
 | Ups and Downs | 15.00% | ~2,190 |
 | Crucial Combo | 13.00% | ~1,898 |
@@ -55,7 +55,7 @@ Rating: 4.65 (Ranked 322)
 | Shot in the Dark | 0.10% | ~15 |
 | Elite Racer | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,597 (Ranked 170)  
+Progressed: 14,601 (Ranked 170)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-30 | 13,937 | 0 |
 | 2023-12-31 | 14,268 | 0 |
 | 2024-01-01 | 14,544 | 0 |
-| 2024-01-02 | 14,597 | 0 |
+| 2024-01-02 | 14,601 | 0 |
 ## Awards
 Max (Diverse Characters): 56  (Ranked 434)  
 Sum: 355 (Ranked 365)  

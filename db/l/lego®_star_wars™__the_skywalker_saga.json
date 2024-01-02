@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -4031,9 +4031,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 57023,
+  "EOS_Progressed": 57028,
   "EOS_Completed": 256,
-  "EOS_NewPlayers": 1889,
+  "EOS_NewPlayers": 1890,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -16996,6 +16996,11 @@
       "Time": "2024-01-02T05:03:28.55383+00:00",
       "NumProgressed": 57023,
       "NumCompleted": 256
+    },
+    {
+      "Time": "2024-01-02T06:03:29.608454+00:00",
+      "NumProgressed": 57028,
+      "NumCompleted": 256
     }
   ],
   "TotalAchievements": 45,
@@ -17007,7 +17012,7 @@
       "Name": "\u0027\u0027Hello there!\u0027\u0027",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "COLLECT_ALL_KYBERBRICKS",
@@ -17031,7 +17036,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 43908
+      "UsersEstimate": 43912
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -17039,7 +17044,7 @@
       "Name": "Unknown Regions",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "COMPLETE_ALL_GALAXY_CHALLENGES",
@@ -17047,7 +17052,7 @@
       "Name": "\u0027\u0027Do or do not. There is no try\u0027\u0027",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "COMPLETE_ALL_GALAXY_EVENTS",
@@ -17055,7 +17060,7 @@
       "Name": "\u0027\u0027See you around, kid\u0027\u0027",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "COMPLETE_ALL_GNK",
@@ -17071,7 +17076,7 @@
       "Name": "\u0027\u0027The fastest hunk of junk in the galaxy\u0027\u0027",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "COMPLETE_BESPIN_CRAIT_HOTH",
@@ -17079,7 +17084,7 @@
       "Name": "Greater Javin",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "COMPLETE_CANTONICA_YAVIN_AJAN",
@@ -17087,7 +17092,7 @@
       "Name": "New Territories",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "COMPLETE_CORUSCANT_JAKKU_TAKODANA",
@@ -17095,7 +17100,7 @@
       "Name": "The Interior",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "COMPLETE_DAGOBAH_MUSTAFAR_UTAPAU",
@@ -17103,7 +17108,7 @@
       "Name": "Western Reaches",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "COMPLETE_DQAR_NABOO_PASAANA",
@@ -17111,7 +17116,7 @@
       "Name": "Trailing Sectors",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "COMPLETE_EPISODE_1",
@@ -17119,7 +17124,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 32503
+      "UsersEstimate": 32506
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -17127,7 +17132,7 @@
       "Name": "Attack of the Clones",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 25090
+      "UsersEstimate": 25092
     },
     {
       "ID": "COMPLETE_EPISODE_3",
@@ -17135,7 +17140,7 @@
       "Name": "Revenge of the Sith",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 21669
+      "UsersEstimate": 21671
     },
     {
       "ID": "COMPLETE_EPISODE_4",
@@ -17143,7 +17148,7 @@
       "Name": "A New Hope",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 26231
+      "UsersEstimate": 26233
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -17151,7 +17156,7 @@
       "Name": "The Empire Strikes Back",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 20528
+      "UsersEstimate": 20530
     },
     {
       "ID": "COMPLETE_EPISODE_6",
@@ -17159,7 +17164,7 @@
       "Name": "Return of the Jedi",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 17107
+      "UsersEstimate": 17108
     },
     {
       "ID": "COMPLETE_EPISODE_7",
@@ -17167,7 +17172,7 @@
       "Name": "The Force Awakens",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 14256
+      "UsersEstimate": 14257
     },
     {
       "ID": "COMPLETE_EPISODE_8",
@@ -17175,7 +17180,7 @@
       "Name": "The Last Jedi",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 12545
+      "UsersEstimate": 12546
     },
     {
       "ID": "COMPLETE_EPISODE_9",
@@ -17183,7 +17188,7 @@
       "Name": "The Rise of Skywalker",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 10834
+      "UsersEstimate": 10835
     },
     {
       "ID": "COMPLETE_FAULTYDROID_ON_TATOOINE",
@@ -17199,7 +17204,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 31363
+      "UsersEstimate": 31365
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -17207,7 +17212,7 @@
       "Name": "The Arkanis Sector",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "COMPLETE_KAMINO",
@@ -17231,7 +17236,7 @@
       "Name": "\u0027\u0027It\u0027s true... all of it\u0027\u0027",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 10264
+      "UsersEstimate": 10265
     },
     {
       "ID": "CREATE_25_REBEL_DISGUISES",
@@ -17239,7 +17244,7 @@
       "Name": "\u0027\u0027A little short for a Stormtrooper...\u0027\u0027",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "DEFEAT_3_ENEMIES_WITH_ONE_FORCE",
@@ -17247,7 +17252,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 31933
+      "UsersEstimate": 31936
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -17255,7 +17260,7 @@
       "Name": "\u0027\u0027Get the crews to their fighters\u0027\u0027",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 10264
+      "UsersEstimate": 10265
     },
     {
       "ID": "EARN_10B_STUDS",
@@ -17271,7 +17276,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 54742
+      "UsersEstimate": 54747
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -17279,7 +17284,7 @@
       "Name": "\u0027\u0027Power! Unlimited power!\u0027\u0027",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "FULLY_UPGRADE_ONE_CHAR_CLASS",
@@ -17303,7 +17308,7 @@
       "Name": "\u0027\u0027No more training, do you require\u0027\u0027",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "LEVEL_CHALLENGES_ONE_LEVEL",
@@ -17311,7 +17316,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 39346
+      "UsersEstimate": 39349
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -17319,7 +17324,7 @@
       "Name": "\u0027\u0027You needn\u0027t worry about your reward\u0027\u0027",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "MINIKITS_ONE_LEVEL",
@@ -17327,7 +17332,7 @@
       "Name": "\u0027\u0027A fine addition to my collection\u0027\u0027",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 20528
+      "UsersEstimate": 20530
     },
     {
       "ID": "RIDE_ALL_CREATURES",
@@ -17343,7 +17348,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 29082
+      "UsersEstimate": 29084
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -17351,7 +17356,7 @@
       "Name": "\u0027\u0027Now I am the Master\u0027\u0027",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "TRUE_JEDI_ONE_LEVEL",
@@ -17359,22 +17364,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 39346
+      "UsersEstimate": 39349
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 57023,
+      "Progressed": 57028,
       "Completed": 256
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2024-01-01T14:58:53.0434559+00:00",
-  "LastChanged_Achievements": "2024-01-02T05:03:28.5538297+00:00",
+  "LastChanged_Achievements": "2024-01-02T06:03:29.6084535+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:25.9793573+00:00",
-  "LastUpdate_Ratings": "2024-01-02T04:58:57.0503238+00:00",
-  "LastUpdate_Achievements": "2024-01-02T05:03:28.5539123+00:00"
+  "LastUpdate_Ratings": "2024-01-02T05:59:06.0063149+00:00",
+  "LastUpdate_Achievements": "2024-01-02T06:03:29.6085365+00:00"
 }

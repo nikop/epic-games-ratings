@@ -5,7 +5,7 @@ Rating: 4.17 (Ranked 973)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 59.00% | ~969 |
+| Break Out | 60.00% | ~986 |
 | Trinity | 29.00% | ~476 |
 | A Taste of Wrath | 23.00% | ~378 |
 | The Collector | 23.00% | ~378 |
@@ -16,8 +16,8 @@ Rating: 4.17 (Ranked 973)
 | Scholar | 21.00% | ~345 |
 | Adventurer | 20.00% | ~329 |
 | Fashion Victim | 20.00% | ~329 |
+| Stone Collection | 20.00% | ~329 |
 | Tributes of Caladrias | 19.00% | ~312 |
-| Stone Collection | 19.00% | ~312 |
 | Powerful Allies | 18.00% | ~296 |
 | Big Bazar | 13.00% | ~214 |
 | Alchemist | 12.00% | ~197 |

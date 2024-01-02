@@ -2,12 +2,12 @@
   "ID": "e1809e1742cb498080d8849b11a99c5a",
   "Name": "Airborne Kingdom",
   "ProductSlug": "airborne-kingdom",
-  "Ranking_Rating": 322,
+  "Ranking_Rating": 321,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewPlayers": 286,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7716,
+  "EOS_Progressed": 7717,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -6673,6 +6673,11 @@
       "Time": "2024-01-02T04:04:17.8787792+00:00",
       "NumProgressed": 7716,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2024-01-02T06:04:05.7340145+00:00",
+      "NumProgressed": 7717,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 27,
@@ -6684,7 +6689,7 @@
       "Name": "The Cycle Continues",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "AK_DAYLIGHT_FOUND",
@@ -6716,7 +6721,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 4089
+      "UsersEstimate": 4090
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -6780,7 +6785,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2160
+      "UsersEstimate": 2161
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -6836,7 +6841,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4321
+      "UsersEstimate": 4322
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -6852,7 +6857,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2623
+      "UsersEstimate": 2624
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -6884,7 +6889,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 3086
+      "UsersEstimate": 3087
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -6899,15 +6904,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7716,
+      "Progressed": 7717,
       "Completed": 59
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2024-01-02T05:04:04.6328348+00:00",
+  "LastChanged_Achievements": "2024-01-02T06:04:05.7340141+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:57:02.2887263+00:00",
-  "LastUpdate_Ratings": "2024-01-02T05:03:16.4313731+00:00",
-  "LastUpdate_Achievements": "2024-01-02T05:04:04.6328895+00:00"
+  "LastUpdate_Ratings": "2024-01-02T06:03:15.3849718+00:00",
+  "LastUpdate_Achievements": "2024-01-02T06:04:05.7340609+00:00"
 }

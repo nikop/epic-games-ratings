@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -5471,9 +5471,9 @@
       "ID": "HeavyExterminatusUse",
       "SetID": "3jha1np",
       "Name": "Mass Extinction",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 4
     },
     {
       "ID": "KadexCaptured",
@@ -5885,8 +5885,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-01T18:03:40.84636+00:00",
-  "LastChanged_Achievements": "2024-01-02T05:04:51.7194742+00:00",
+  "LastChanged_Achievements": "2024-01-02T06:04:52.344191+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:30.5390055+00:00",
-  "LastUpdate_Ratings": "2024-01-02T05:03:07.7235592+00:00",
-  "LastUpdate_Achievements": "2024-01-02T05:04:51.7195391+00:00"
+  "LastUpdate_Ratings": "2024-01-02T06:03:07.2777752+00:00",
+  "LastUpdate_Achievements": "2024-01-02T06:04:52.3442562+00:00"
 }

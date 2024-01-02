@@ -37,7 +37,7 @@ Number of Ratings: 98  (23.09.2022)
 | A Little Culture | 0.10% | ~2 |
 | Scout | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,922 (Ranked 245)  
+Progressed: 1,922 (Ranked 246)  
 Completed: 2 (0.10%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |

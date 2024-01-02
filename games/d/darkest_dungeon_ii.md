@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,242 (Ranked 90)  
+Progressed: 131,243 (Ranked 90)  
 Completed: 3 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,16 +333,16 @@ Completed: 3 (0.00%) (Ranked 390)
 | 2023-12-30 | 130,838 | 3 |
 | 2023-12-31 | 131,026 | 3 |
 | 2024-01-01 | 131,206 | 3 |
-| 2024-01-02 | 131,242 | 3 |
+| 2024-01-02 | 131,243 | 3 |
 ## Awards
 Max (Character Customization): 7,919  (Ranked 50)  
-Sum: 21,332 (Ranked 58)  
+Sum: 21,334 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,919 |
 | This game has Diverse Characters | 1,802 |
-| This game has Challenging Combat | 1,659 |
+| This game has Challenging Combat | 1,661 |
 | This game is Highly Recommended | 1,586 |
 | This game has Amazing Characters | 1,511 |
 | This game is Extremely Fun | 1,508 |
@@ -694,4 +694,4 @@ Diff (max vs sum): -8
 | 2023-12-30 | 4.68 | - | 7,905 | 21,274 |
 | 2023-12-31 | 4.68 | - | 7,910 | 21,297 |
 | 2024-01-01 | 4.68 | - | 7,919 | 21,323 |
-| 2024-01-02 | 4.68 | - | 7,919 | 21,332 |
+| 2024-01-02 | 4.68 | - | 7,919 | 21,334 |

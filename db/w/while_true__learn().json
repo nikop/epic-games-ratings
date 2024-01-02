@@ -523,9 +523,9 @@
       "Count": 140
     }
   ],
-  "EOS_Progressed": 616769,
+  "EOS_Progressed": 616770,
   "EOS_Completed": 564,
-  "EOS_NewPlayers": 1180,
+  "EOS_NewPlayers": 1179,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -29523,6 +29523,11 @@
       "Time": "2024-01-02T05:08:37.9800957+00:00",
       "NumProgressed": 616769,
       "NumCompleted": 564
+    },
+    {
+      "Time": "2024-01-02T06:08:59.8686853+00:00",
+      "NumProgressed": 616770,
+      "NumCompleted": 564
     }
   ],
   "TotalAchievements": 28,
@@ -29598,7 +29603,7 @@
       "Name": "We need more gold",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 376229
+      "UsersEstimate": 376230
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -29614,7 +29619,7 @@
       "Name": "One more!",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 271378
+      "UsersEstimate": 271379
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -29646,7 +29651,7 @@
       "Name": "Beauty and harmony",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 296049
+      "UsersEstimate": 296050
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -29654,7 +29659,7 @@
       "Name": "More FPS for the FPS god!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 308384
+      "UsersEstimate": 308385
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -29662,7 +29667,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 573595
+      "UsersEstimate": 573596
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -29702,7 +29707,7 @@
       "Name": "RNG is my best friend now",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 111018
+      "UsersEstimate": 111019
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -29757,15 +29762,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 616769,
+      "Progressed": 616770,
       "Completed": 564
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-12-26T11:02:39.9263335+00:00",
-  "LastChanged_Achievements": "2024-01-02T05:08:37.9800954+00:00",
+  "LastChanged_Achievements": "2024-01-02T06:08:59.868685+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:24.9393605+00:00",
-  "LastUpdate_Ratings": "2024-01-02T04:59:26.0945198+00:00",
-  "LastUpdate_Achievements": "2024-01-02T05:08:37.9802662+00:00"
+  "LastUpdate_Ratings": "2024-01-02T05:59:35.3615407+00:00",
+  "LastUpdate_Achievements": "2024-01-02T06:08:59.8688341+00:00"
 }

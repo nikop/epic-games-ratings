@@ -2,9 +2,9 @@
   "ID": "19d61df85a76492f82c4b59fa8f8f9eb",
   "Name": "The House of Da Vinci",
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
-  "Ranking_EOS_Progress": 350,
+  "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 42,
-  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 470,
+  "EOS_Progressed": 471,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 9.79,
+  "EOS_Completed_Percentage": 9.77,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -2214,6 +2214,11 @@
       "Time": "2024-01-02T00:09:19.9015752+00:00",
       "NumProgressed": 470,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2024-01-02T06:09:00.9758778+00:00",
+      "NumProgressed": 471,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 6,
@@ -2225,7 +2230,7 @@
       "Name": "Printing Press",
       "Percentage": 59,
       "XP": 175,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAQ",
@@ -2249,7 +2254,7 @@
       "Name": "Scythed Chariot",
       "Percentage": 29,
       "XP": 165,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBA",
@@ -2272,14 +2277,14 @@
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 470,
+      "Progressed": 471,
       "Completed": 46
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2024-01-02T05:08:38.995033+00:00",
+  "LastChanged_Achievements": "2024-01-02T06:09:00.9758775+00:00",
   "LastUpdate_AppInfo": "2023-12-29T02:57:14.6672707+00:00",
-  "LastUpdate_Ratings": "2024-01-02T04:58:48.3335946+00:00",
-  "LastUpdate_Achievements": "2024-01-02T05:08:38.995051+00:00"
+  "LastUpdate_Ratings": "2024-01-02T05:58:57.1682631+00:00",
+  "LastUpdate_Achievements": "2024-01-02T06:09:00.9758996+00:00"
 }

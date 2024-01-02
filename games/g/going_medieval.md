@@ -31,8 +31,8 @@ Number of Ratings: 706  (23.09.2022)
 | Disassembled | 22.00% | ~1,693 |
 | A Party Now | 22.00% | ~1,693 |
 | All Year Round | 22.00% | ~1,693 |
+| Don't Cry Wolf | 14.00% | ~1,077 |
 | Nothing Wasted | 13.00% | ~1,000 |
-| Don't Cry Wolf | 13.00% | ~1,000 |
 | Deerly Departed | 8.00% | ~616 |
 | Where Wolf? | 5.00% | ~385 |
 | Food Chain | 2.00% | ~154 |

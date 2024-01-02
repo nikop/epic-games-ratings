@@ -3,12 +3,12 @@
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 543,
-  "Ranking_Popularity": 456,
+  "Ranking_Popularity": 457,
   "Ranking_PopularitySum": 373,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -2167,9 +2167,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 17977,
+  "EOS_Progressed": 17980,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 1107,
+  "EOS_NewPlayers": 1102,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -18667,6 +18667,11 @@
       "Time": "2024-01-02T05:09:32.43798+00:00",
       "NumProgressed": 17977,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2024-01-02T06:09:54.6055063+00:00",
+      "NumProgressed": 17980,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 35,
@@ -18678,7 +18683,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 14561
+      "UsersEstimate": 14564
     },
     {
       "ID": "ACH02",
@@ -18686,7 +18691,7 @@
       "Name": "With Extra Dip",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1258
+      "UsersEstimate": 1259
     },
     {
       "ID": "ACH03",
@@ -18694,7 +18699,7 @@
       "Name": "The End of the Line",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1258
+      "UsersEstimate": 1259
     },
     {
       "ID": "ACH04",
@@ -18734,7 +18739,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 8988
+      "UsersEstimate": 8990
     },
     {
       "ID": "ACH09",
@@ -18798,7 +18803,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3056
+      "UsersEstimate": 3057
     },
     {
       "ID": "ACH17",
@@ -18854,7 +18859,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4494
+      "UsersEstimate": 4495
     },
     {
       "ID": "ACH24",
@@ -18957,7 +18962,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 17977,
+      "Progressed": 17980,
       "Completed": 69
     }
   ],
@@ -18965,8 +18970,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-02T04:56:55.1912569+00:00",
-  "LastChanged_Achievements": "2024-01-02T05:09:32.4379797+00:00",
+  "LastChanged_Achievements": "2024-01-02T06:09:54.605506+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.8114387+00:00",
-  "LastUpdate_Ratings": "2024-01-02T04:56:55.1912572+00:00",
-  "LastUpdate_Achievements": "2024-01-02T05:09:32.438097+00:00"
+  "LastUpdate_Ratings": "2024-01-02T05:57:01.625656+00:00",
+  "LastUpdate_Achievements": "2024-01-02T06:09:54.6056107+00:00"
 }

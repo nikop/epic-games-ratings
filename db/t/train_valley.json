@@ -5,10 +5,10 @@
   "Ranking_Rating": 632,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
-  "Ranking_EOS_Progress": 332,
+  "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 300,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -150,9 +150,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 620,
+  "EOS_Progressed": 621,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -1770,6 +1770,11 @@
       "Time": "2024-01-02T03:04:46.556609+00:00",
       "NumProgressed": 620,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-02T06:04:46.4413362+00:00",
+      "NumProgressed": 621,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -1779,9 +1784,9 @@
       "ID": "01_gettingstarted",
       "SetID": "chb1m60",
       "Name": "Getting started",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 477
+      "UsersEstimate": 472
     },
     {
       "ID": "02_collector",
@@ -1829,7 +1834,7 @@
       "Name": "Europe",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "08_america",
@@ -1909,7 +1914,7 @@
       "Name": "Builder",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "18_foreman",
@@ -1925,7 +1930,7 @@
       "Name": "Just in time!",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "20_sabotage",
@@ -1957,7 +1962,7 @@
       "Name": "Close call!",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "24_mega",
@@ -2005,7 +2010,7 @@
       "Name": "Madness!",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "30_completelynuts",
@@ -2013,7 +2018,7 @@
       "Name": "Completely nuts!",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "31_chancellor",
@@ -2045,7 +2050,7 @@
       "Name": "Need to think",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "35_achtung",
@@ -2053,7 +2058,7 @@
       "Name": "Achtung!",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "36_supercrash",
@@ -2092,15 +2097,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 620,
+      "Progressed": 621,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2024-01-01T09:01:13.9555975+00:00",
-  "LastChanged_Achievements": "2024-01-02T05:04:45.7911996+00:00",
+  "LastChanged_Achievements": "2024-01-02T06:04:46.4413356+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:40.4916275+00:00",
-  "LastUpdate_Ratings": "2024-01-02T05:02:30.5842575+00:00",
-  "LastUpdate_Achievements": "2024-01-02T05:04:45.7912265+00:00"
+  "LastUpdate_Ratings": "2024-01-02T06:00:28.945551+00:00",
+  "LastUpdate_Achievements": "2024-01-02T06:04:46.441362+00:00"
 }

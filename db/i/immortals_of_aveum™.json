@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -385,9 +385,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2493,
+  "EOS_Progressed": 2495,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 588,
+  "EOS_NewPlayers": 586,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4075,6 +4075,11 @@
       "Time": "2024-01-02T05:09:26.6599693+00:00",
       "NumProgressed": 2493,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-02T06:09:48.824486+00:00",
+      "NumProgressed": 2495,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -4087,15 +4092,15 @@
       "Name": "Unforeseen",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 2194
+      "UsersEstimate": 2196
     },
     {
       "ID": "achievement_10",
       "SetID": "18al4io",
       "Name": "Control is an Illusion",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 449
+      "UsersEstimate": 474
     },
     {
       "ID": "achievement_11",
@@ -4151,7 +4156,7 @@
       "Name": "Lights Army",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "achievement_18",
@@ -4165,9 +4170,9 @@
       "ID": "achievement_19",
       "SetID": "18al4io",
       "Name": "Socialite",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 598
+      "UsersEstimate": 574
     },
     {
       "ID": "achievement_2",
@@ -4175,7 +4180,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 2019
+      "UsersEstimate": 2021
     },
     {
       "ID": "achievement_20",
@@ -4231,7 +4236,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1695
+      "UsersEstimate": 1697
     },
     {
       "ID": "achievement_36",
@@ -4239,7 +4244,7 @@
       "Name": "Armsman",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "achievement_37",
@@ -4263,7 +4268,7 @@
       "Name": "No More Names",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1272
     },
     {
       "ID": "achievement_41",
@@ -4319,7 +4324,7 @@
       "Name": "Enlisted",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 1845
+      "UsersEstimate": 1846
     },
     {
       "ID": "achievement_49",
@@ -4327,7 +4332,7 @@
       "Name": "Soldier",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "achievement_5",
@@ -4335,7 +4340,7 @@
       "Name": "Initiate",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 922
+      "UsersEstimate": 923
     },
     {
       "ID": "achievement_50",
@@ -4439,7 +4444,7 @@
       "Name": "Gravity-Challenged Rocks",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "achievement_8",
@@ -4447,7 +4452,7 @@
       "Name": "All the Major Food Groups",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "achievement_9",
@@ -4462,7 +4467,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 2493,
+      "Progressed": 2495,
       "Completed": 2
     }
   ],
@@ -4470,8 +4475,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-02T02:58:05.5734129+00:00",
-  "LastChanged_Achievements": "2024-01-02T05:09:26.659969+00:00",
+  "LastChanged_Achievements": "2024-01-02T06:09:48.8244855+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.4007279+00:00",
-  "LastUpdate_Ratings": "2024-01-02T04:57:56.9119069+00:00",
-  "LastUpdate_Achievements": "2024-01-02T05:09:26.6600258+00:00"
+  "LastUpdate_Ratings": "2024-01-02T05:58:04.5781792+00:00",
+  "LastUpdate_Achievements": "2024-01-02T06:09:48.8245395+00:00"
 }

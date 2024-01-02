@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18033,
+  "EOS_Progressed": 18036,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 587,
+  "EOS_NewPlayers": 589,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -15985,6 +15985,11 @@
       "Time": "2024-01-02T05:03:51.7508113+00:00",
       "NumProgressed": 18033,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-02T06:03:52.9182594+00:00",
+      "NumProgressed": 18036,
+      "NumCompleted": 58
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16021,7 +16026,7 @@
       "Name": "Data Archivist",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1262
+      "UsersEstimate": 1263
     },
     {
       "ID": "13",
@@ -16029,7 +16034,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2885
+      "UsersEstimate": 2886
     },
     {
       "ID": "14",
@@ -16045,7 +16050,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1803
+      "UsersEstimate": 1804
     },
     {
       "ID": "16",
@@ -16053,7 +16058,7 @@
       "Name": "Drug Gifter",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1262
+      "UsersEstimate": 1263
     },
     {
       "ID": "17",
@@ -16061,7 +16066,7 @@
       "Name": "Spore Taste",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1803
+      "UsersEstimate": 1804
     },
     {
       "ID": "18",
@@ -16117,7 +16122,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1262
+      "UsersEstimate": 1263
     },
     {
       "ID": "24",
@@ -16173,7 +16178,7 @@
       "Name": "Captain Drummer",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2344
+      "UsersEstimate": 2345
     },
     {
       "ID": "30",
@@ -16276,13 +16281,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18033,
+      "Progressed": 18036,
       "Completed": 58
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3987,
+      "Progressed": 3990,
       "Completed": 1155
     }
   ],
@@ -16290,8 +16295,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T23:58:17.8612142+00:00",
-  "LastChanged_Achievements": "2024-01-02T05:03:51.7508109+00:00",
+  "LastChanged_Achievements": "2024-01-02T06:03:52.918259+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2024-01-02T04:58:48.1192853+00:00",
-  "LastUpdate_Achievements": "2024-01-02T05:03:51.7509197+00:00"
+  "LastUpdate_Ratings": "2024-01-02T05:58:56.9725117+00:00",
+  "LastUpdate_Achievements": "2024-01-02T06:03:52.918337+00:00"
 }

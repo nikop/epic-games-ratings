@@ -9,8 +9,8 @@ Rating: 4.28 (Ranked 885)
 | Grau Hill | 77.00% | ~263 |
 | A forgotten language | 69.00% | ~235 |
 | Lord Wesley | 35.00% | ~119 |
+| One step down | 27.00% | ~92 |
 | My dear Magda | 27.00% | ~92 |
-| One step down | 26.00% | ~89 |
 | Lord Clayton | 22.00% | ~75 |
 | The other side of the mirror | 16.00% | ~55 |
 | Little Mary | 15.00% | ~51 |

@@ -12,20 +12,20 @@
 | Divine Retribution | 43.00% | ~27 |
 | Captain Mustache | 41.00% | ~26 |
 | Dispel Rumors | 38.00% | ~24 |
-| Final Showdown | 33.00% | ~21 |
-| The End of an Outlaw | 33.00% | ~21 |
+| Final Showdown | 35.00% | ~22 |
+| The End of an Outlaw | 35.00% | ~22 |
 | Demon Slayer | 33.00% | ~21 |
 | Steal Her Away | 32.00% | ~20 |
 | Sewer Rat | 30.00% | ~19 |
 | Fight Fire With Fire | 30.00% | ~19 |
 | Urban Explorer | 29.00% | ~18 |
 | Coward | 27.00% | ~17 |
+| Big Eater | 25.00% | ~16 |
 | Not Today | 25.00% | ~16 |
-| Big Eater | 24.00% | ~15 |
 | Tour Guide | 24.00% | ~15 |
 | The Real O.G. | 22.00% | ~14 |
 | Tomb Raider | 22.00% | ~14 |
-| The Hero of the People | 14.00% | ~9 |
+| The Hero of the People | 16.00% | ~10 |
 | Talk to the Fist | 14.00% | ~9 |
 | Collector | 10.00% | ~6 |
 | Taoist | 8.00% | ~5 |

@@ -2964,9 +2964,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 543017,
+  "EOS_Progressed": 543019,
   "EOS_Completed": 1664,
-  "EOS_NewPlayers": 973,
+  "EOS_NewPlayers": 970,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -31424,6 +31424,11 @@
       "Time": "2024-01-02T05:04:17.4248966+00:00",
       "NumProgressed": 543017,
       "NumCompleted": 1664
+    },
+    {
+      "Time": "2024-01-02T06:04:18.5877534+00:00",
+      "NumProgressed": 543019,
+      "NumCompleted": 1664
     }
   ],
   "TotalAchievements": 37,
@@ -31451,7 +31456,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 168335
+      "UsersEstimate": 168336
     },
     {
       "ID": "DEVOTED",
@@ -31491,7 +31496,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 450704
+      "UsersEstimate": 450706
     },
     {
       "ID": "HONED",
@@ -31547,7 +31552,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 217207
+      "UsersEstimate": 217208
     },
     {
       "ID": "THE_CASTLE",
@@ -31563,7 +31568,7 @@
       "Name": "The Cave",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 43441
+      "UsersEstimate": 43442
     },
     {
       "ID": "THE_CONSTRUCT",
@@ -31603,7 +31608,7 @@
       "Name": "The Imposter",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 76022
+      "UsersEstimate": 76023
     },
     {
       "ID": "THE_IRON_ONES",
@@ -31611,7 +31616,7 @@
       "Name": "The Iron Ones",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 103173
+      "UsersEstimate": 103174
     },
     {
       "ID": "THE_KEEP",
@@ -31619,7 +31624,7 @@
       "Name": "The Keep",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 76022
+      "UsersEstimate": 76023
     },
     {
       "ID": "THE_LAKE",
@@ -31691,7 +31696,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 347531
+      "UsersEstimate": 347532
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -31715,7 +31720,7 @@
       "Name": "The Ziggurat",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 43441
+      "UsersEstimate": 43442
     },
     {
       "ID": "WISE_WORDS",
@@ -31730,15 +31735,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 543017,
+      "Progressed": 543019,
       "Completed": 1664
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2024-01-01T18:03:16.1071007+00:00",
-  "LastChanged_Achievements": "2024-01-02T05:04:17.4248961+00:00",
+  "LastChanged_Achievements": "2024-01-02T06:04:18.587753+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:29.3864589+00:00",
-  "LastUpdate_Ratings": "2024-01-02T05:02:51.3822637+00:00",
-  "LastUpdate_Achievements": "2024-01-02T05:04:17.4250146+00:00"
+  "LastUpdate_Ratings": "2024-01-02T06:02:50.9693327+00:00",
+  "LastUpdate_Achievements": "2024-01-02T06:04:18.5879148+00:00"
 }

@@ -10,9 +10,9 @@ Rating: 3.64 (Ranked 1,083)
 | Catch and Release | 13.00% | ~288 |
 | ICU | 12.00% | ~266 |
 | Wounded Whispers | 12.00% | ~266 |
-| Blood Will Have Blood | 10.00% | ~221 |
-| Ne Plus Ultra | 10.00% | ~221 |
-| Peek-a-boo | 10.00% | ~221 |
+| Blood Will Have Blood | 10.00% | ~222 |
+| Ne Plus Ultra | 10.00% | ~222 |
+| Peek-a-boo | 10.00% | ~222 |
 | Fly Fisher | 9.00% | ~199 |
 | Sucks To Be You | 9.00% | ~199 |
 | Welcome to the Neighborhood | 8.00% | ~177 |
@@ -44,8 +44,8 @@ Rating: 3.64 (Ranked 1,083)
 | Curious Finch | 1.00% | ~22 |
 | Empty Nest Syndrome | 0.80% | ~18 |
 | Bloody Initiate | 0.80% | ~18 |
-| What Lies Below | 0.70% | ~15 |
-| Dexterity Save | 0.70% | ~15 |
+| What Lies Below | 0.70% | ~16 |
+| Dexterity Save | 0.70% | ~16 |
 | Neighborhood Watch | 0.60% | ~13 |
 | Blood Brother | 0.60% | ~13 |
 | Sisterhood | 0.50% | ~11 |
@@ -72,7 +72,7 @@ Rating: 3.64 (Ranked 1,083)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,214 (Ranked 239)  
+Progressed: 2,215 (Ranked 239)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-30 | 2,176 | 0 |
 | 2023-12-31 | 2,191 | 0 |
 | 2024-01-01 | 2,212 | 0 |
-| 2024-01-02 | 2,214 | 0 |
+| 2024-01-02 | 2,215 | 0 |
 ## Awards
 Max (Great Boss Battles): 20  (Ranked 572)  
 Sum: 20 (Ranked 573)  

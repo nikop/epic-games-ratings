@@ -68,12 +68,12 @@ Number of Ratings: 371  (23.09.2022)
 | Legend of Titan | 0.10% | ~4 |
 | Dominus | 0.10% | ~4 |
 | Drone Army | 0.10% | ~4 |
+| Mass Extinction | 0.10% | ~4 |
 | Master of the Forge | 0.10% | ~4 |
 | Field Apothecarion | 0.10% | ~4 |
 | Firing Squad | 0.10% | ~4 |
 | Not a Mote of Corruption | 0.10% | ~4 |
 | Standard-Issue Killer | 0.00% | ~0 |
-| Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,711 (Ranked 216)  
 Completed: 0 (0.00%) (Ranked 390)  

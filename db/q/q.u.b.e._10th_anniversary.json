@@ -324,9 +324,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 27978,
+  "EOS_Progressed": 27979,
   "EOS_Completed": 185,
-  "EOS_NewPlayers": 1113,
+  "EOS_NewPlayers": 1112,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -9064,6 +9064,11 @@
       "Time": "2024-01-02T05:09:30.674206+00:00",
       "NumProgressed": 27978,
       "NumCompleted": 185
+    },
+    {
+      "Time": "2024-01-02T06:09:52.7631388+00:00",
+      "NumProgressed": 27979,
+      "NumCompleted": 185
     }
   ],
   "TotalAchievements": 24,
@@ -9091,7 +9096,7 @@
       "Name": "Squished",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 1958
+      "UsersEstimate": 1959
     },
     {
       "ID": "ACH_CrushPhysicsBall",
@@ -9259,14 +9264,14 @@
       "Name": "Did That Work? -- No!",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1958
+      "UsersEstimate": 1959
     }
   ],
   "AchievementSets": [
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 27978,
+      "Progressed": 27979,
       "Completed": 185
     }
   ],
@@ -9274,8 +9279,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2023-12-29T20:00:01.3270851+00:00",
-  "LastChanged_Achievements": "2024-01-02T05:09:30.6742057+00:00",
+  "LastChanged_Achievements": "2024-01-02T06:09:52.7631385+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:24.8723851+00:00",
-  "LastUpdate_Ratings": "2024-01-02T04:57:47.3500505+00:00",
-  "LastUpdate_Achievements": "2024-01-02T05:09:30.6742484+00:00"
+  "LastUpdate_Ratings": "2024-01-02T05:57:56.2546949+00:00",
+  "LastUpdate_Achievements": "2024-01-02T06:09:52.7631815+00:00"
 }

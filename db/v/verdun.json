@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 368,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
     "PcReleaseDate": "2013-09-19T15:00:00+00:00",
@@ -1943,7 +1943,7 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 68261,
+  "EOS_Progressed": 68262,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 772,
   "EOS_NewCompleters": 0,
@@ -30268,6 +30268,11 @@
       "Time": "2024-01-02T05:07:34.0553815+00:00",
       "NumProgressed": 68261,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-02T06:06:16.8257073+00:00",
+      "NumProgressed": 68262,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -30407,7 +30412,7 @@
       "Name": "This We\u0027ll Defend!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 6143
+      "UsersEstimate": 6144
     },
     {
       "ID": "VERDUN_ACH_GOLD100",
@@ -30567,7 +30572,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 43004
+      "UsersEstimate": 43005
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -30623,7 +30628,7 @@
       "Name": "Manual Labour I",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 17065
+      "UsersEstimate": 17066
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS2",
@@ -30719,7 +30724,7 @@
       "Name": "Providentiea Memor",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 6143
+      "UsersEstimate": 6144
     },
     {
       "ID": "VERDUN_ACH_TIRAILLEURS",
@@ -30735,7 +30740,7 @@
       "Name": "For King and Country",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 6143
+      "UsersEstimate": 6144
     },
     {
       "ID": "VERDUN_ACH_TRIPLEEXPL",
@@ -30750,15 +30755,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 68261,
+      "Progressed": 68262,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2024-01-01T18:03:00.6625889+00:00",
-  "LastChanged_Achievements": "2024-01-02T05:07:34.0553811+00:00",
+  "LastChanged_Achievements": "2024-01-02T06:06:16.825707+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:55.7383627+00:00",
-  "LastUpdate_Ratings": "2024-01-02T04:57:05.208137+00:00",
-  "LastUpdate_Achievements": "2024-01-02T05:07:34.0555719+00:00"
+  "LastUpdate_Ratings": "2024-01-02T05:57:12.3263641+00:00",
+  "LastUpdate_Achievements": "2024-01-02T06:06:16.8258445+00:00"
 }
