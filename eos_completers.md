@@ -25,7 +25,7 @@
 | 23 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.34% |
 | 24 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.23% |
 | 25 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
-| 26 | [The Riflemen](games/t/the_riflemen.md) | 18.45% |
+| 26 | [The Riflemen](games/t/the_riflemen.md) | 18.44% |
 | 27 | [Island Cities](games/i/island_cities.md) | 16.74% |
 | 28 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
 | 29 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.30% |
@@ -106,7 +106,7 @@
 | 104 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.33% |
 | 105 | [Bunny Park](games/b/bunny_park.md) | 3.25% |
 | 106 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 3.12% |
-| 107 | [Monster Harvest](games/m/monster_harvest.md) | 3.10% |
+| 107 | [Monster Harvest](games/m/monster_harvest.md) | 3.09% |
 | 108 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.06% |
 | 109 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.04% |
 | 110 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 3.03% |
@@ -140,7 +140,7 @@
 | 138 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.89% |
 | 139 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.83% |
 | 140 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.82% |
-| 141 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.78% |
+| 141 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.77% |
 | 142 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 1.74% |
 | 143 | [Sifu](games/s/sifu.md) | 1.73% |
 | 144 | [Frogun](games/f/frogun.md) | 1.72% |
@@ -154,10 +154,10 @@
 | 152 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.37% |
 | 153 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.36% |
 | 154 | [Chorus](games/c/chorus.md) | 1.31% |
-| 154 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.31% |
-| 156 | [Poosh XL](games/p/poosh_xl.md) | 1.30% |
+| 155 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.30% |
+| 155 | [Poosh XL](games/p/poosh_xl.md) | 1.30% |
 | 157 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.24% |
-| 158 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.22% |
+| 158 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.21% |
 | 159 | [Late Shift](games/l/late_shift.md) | 1.20% |
 | 159 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.20% |
 | 161 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.18% |
@@ -235,9 +235,9 @@
 | 231 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.40% |
 | 234 | [Tchia](games/t/tchia.md) | 0.39% |
 | 235 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.38% |
-| 236 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 0.36% |
-| 236 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.36% |
-| 236 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.36% |
+| 236 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.37% |
+| 237 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 0.36% |
+| 237 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.36% |
 | 239 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
 | 239 | [The Surge](games/t/the_surge.md) | 0.35% |
 | 241 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 0.34% |
@@ -328,21 +328,21 @@
 | 320 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 0.07% |
 | 327 | [ATOM RPG](games/a/atom_rpg.md) | 0.06% |
 | 327 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.06% |
-| 327 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.06% |
 | 327 | [High On Life](games/h/high_on_life.md) | 0.06% |
 | 327 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.06% |
 | 327 | [Session: Skate Sim](games/s/session__skate_sim.md) | 0.06% |
 | 327 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
-| 334 | [Absolute Drift](games/a/absolute_drift.md) | 0.05% |
-| 334 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.05% |
-| 334 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
-| 334 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.05% |
-| 334 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.05% |
-| 334 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.05% |
-| 334 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.05% |
-| 334 | [Operation New Earth](games/o/operation_new_earth.md) | 0.05% |
-| 334 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.05% |
-| 334 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.05% |
+| 333 | [Absolute Drift](games/a/absolute_drift.md) | 0.05% |
+| 333 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.05% |
+| 333 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
+| 333 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.05% |
+| 333 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.05% |
+| 333 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.05% |
+| 333 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.05% |
+| 333 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.05% |
+| 333 | [Operation New Earth](games/o/operation_new_earth.md) | 0.05% |
+| 333 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.05% |
+| 333 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.05% |
 | 344 | [House Party](games/h/house_party.md) | 0.04% |
 | 344 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.04% |
 | 344 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.04% |
@@ -510,6 +510,7 @@
 | 390 | [Enchanted Portals](games/7/78d62c43bcae4a649f87fdb6c0105b9a.md) | 0.00% |
 | 390 | [ENDLESS™ Dungeon](games/e/endless™_dungeon.md) | 0.00% |
 | 390 | [Engine Evolution 2023](games/6/6a47fb709a8c4f68b7638c29ea628194.md) | 0.00% |
+| 390 | [Entomophobia](games/7/76e9bc3f4ccd4061b471ee52735daf45.md) | 0.00% |
 | 390 | [Enypnion Redreamed](games/e/e8f7fa1572fd4c2a9e6cc855878684f9.md) | 0.00% |
 | 390 | [Epic World - Hunt For Quest](games/2/2f46b1c7a34944f5acf90fe0b0c3368e.md) | 0.00% |
 | 390 | [Eternal Evil](games/c/c188c5b560174a979ede32563e6e25e5.md) | 0.00% |
