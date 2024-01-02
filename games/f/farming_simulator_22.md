@@ -1,46 +1,46 @@
 # Farming Simulator 22
 [Store](https://store.epicgames.com/en-US/p/farming-simulator-22)  
 [View Rawdata](../../db/f/farming_simulator_22.json)  
-Rating: 4.68 (Ranked 261)  
+Rating: 4.68 (Ranked 260)  
 Number of Ratings: 7,683  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 72.00% | ~43,423 |
-| I read Shakespeare and stuff | 60.00% | ~36,186 |
-| Just a sprinkle | 58.00% | ~34,980 |
-| I'm stumped | 57.00% | ~34,377 |
-| Plant get enough | 56.00% | ~33,774 |
-| This is just my weekend vehicle | 54.00% | ~32,567 |
-| It's just the beginning | 54.00% | ~32,567 |
-| Hard work pays off | 50.00% | ~30,155 |
-| It's never too late to farm | 46.00% | ~27,743 |
-| All out of Land | 41.00% | ~24,727 |
-| Field Trip | 40.00% | ~24,124 |
-| I like to switch it up | 37.00% | ~22,315 |
-| Help me to help you | 35.00% | ~21,108 |
-| Ultimutt Pawesomeness | 26.00% | ~15,681 |
-| Van Gogh | 23.00% | ~13,871 |
-| Vehicle fleet | 21.00% | ~12,665 |
-| You wood not believe it | 20.00% | ~12,062 |
-| Well-Oiled Machine | 15.00% | ~9,046 |
-| Long haul | 15.00% | ~9,046 |
-| Clucky Streak | 14.00% | ~8,443 |
-| The plot thickens | 14.00% | ~8,443 |
-| Large-scale supplier | 14.00% | ~8,443 |
-| That's a wrap | 14.00% | ~8,443 |
-| Rock on | 11.00% | ~6,634 |
-| Fix me up | 11.00% | ~6,634 |
-| Highly cultivated | 10.00% | ~6,031 |
-| It's sow easy | 10.00% | ~6,031 |
-| Giddy-up! | 9.00% | ~5,428 |
-| Cowherd | 6.00% | ~3,619 |
-| Fluffyness | 6.00% | ~3,619 |
+| Own use | 72.00% | ~43,435 |
+| I read Shakespeare and stuff | 60.00% | ~36,196 |
+| Just a sprinkle | 58.00% | ~34,990 |
+| I'm stumped | 57.00% | ~34,386 |
+| Plant get enough | 56.00% | ~33,783 |
+| This is just my weekend vehicle | 54.00% | ~32,577 |
+| It's just the beginning | 54.00% | ~32,577 |
+| Hard work pays off | 50.00% | ~30,164 |
+| It's never too late to farm | 46.00% | ~27,750 |
+| All out of Land | 41.00% | ~24,734 |
+| Field Trip | 40.00% | ~24,131 |
+| I like to switch it up | 37.00% | ~22,321 |
+| Help me to help you | 35.00% | ~21,114 |
+| Ultimutt Pawesomeness | 26.00% | ~15,685 |
+| Van Gogh | 23.00% | ~13,875 |
+| Vehicle fleet | 21.00% | ~12,669 |
+| You wood not believe it | 20.00% | ~12,065 |
+| Well-Oiled Machine | 15.00% | ~9,049 |
+| Long haul | 15.00% | ~9,049 |
+| Clucky Streak | 14.00% | ~8,446 |
+| The plot thickens | 14.00% | ~8,446 |
+| Large-scale supplier | 14.00% | ~8,446 |
+| That's a wrap | 14.00% | ~8,446 |
+| Rock on | 11.00% | ~6,636 |
+| Fix me up | 11.00% | ~6,636 |
+| Highly cultivated | 10.00% | ~6,033 |
+| It's sow easy | 10.00% | ~6,033 |
+| Giddy-up! | 9.00% | ~5,429 |
+| Cowherd | 6.00% | ~3,620 |
+| Fluffyness | 6.00% | ~3,620 |
 | Road Trip | 5.00% | ~3,016 |
 | Helper A does not stop … ever | 5.00% | ~3,016 |
 | Bringing in the Honey | 5.00% | ~3,016 |
-| Three little piggies… | 4.00% | ~2,412 |
-| Game on | 3.00% | ~1,809 |
+| Three little piggies… | 4.00% | ~2,413 |
+| Game on | 3.00% | ~1,810 |
 | Pretty colourful | 0.70% | ~422 |
 | Original grain | 0.70% | ~422 |
 | Gone but not for cotton | 0.50% | ~302 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~241 |
 | Raisin the stakes | 0.30% | ~181 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,310 (Ranked 118)  
+Progressed: 60,327 (Ranked 118)  
 Completed: 6 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,7 +307,7 @@ Completed: 6 (0.01%) (Ranked 367)
 | 2023-12-30 | 59,733 | 6 |
 | 2023-12-31 | 59,956 | 6 |
 | 2024-01-01 | 60,187 | 6 |
-| 2024-01-02 | 60,310 | 6 |
+| 2024-01-02 | 60,327 | 6 |
 ## Awards
 Max (Great for Beginners): 5,989  (Ranked 67)  
 Sum: 45,075 (Ranked 34)  

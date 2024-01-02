@@ -3,8 +3,8 @@
   "Name": "SPACE WAR - INFINITY",
   "ProductSlug": "space-war-infinity-024a8f",
   "Ranking_EOS_Progress": 491,
-  "Ranking_EOS_Completed": 32,
-  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_Completed": 30,
+  "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-08-15T15:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 99,
-  "EOS_Completed": 14,
+  "EOS_Completed": 15,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 14.14,
+  "EOS_Completed_Percentage": 15.15,
   "EosHistory": [
     {
       "Time": "2023-08-15T16:04:17.9751205+00:00",
@@ -534,6 +534,11 @@
       "Time": "2023-12-17T09:09:22.3851351+00:00",
       "NumProgressed": 99,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-02T18:09:37.110831+00:00",
+      "NumProgressed": 99,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-08-09T13:13:29.9534063+00:00",
@@ -752,9 +757,9 @@
       "ID": "_mothership",
       "SetID": "2d5739o",
       "Name": "Mothership",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 200,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "_orbpack",
@@ -890,13 +895,13 @@
       "ID": "2d5739o",
       "IsBase": true,
       "Progressed": 99,
-      "Completed": 14
+      "Completed": 15
     }
   ],
   "FirstSeen": "2023-08-19T02:04:22.1564483+00:00",
   "FirstSeenAchievements": "2023-08-09T13:13:29.9534062+00:00",
-  "LastChanged_Achievements": "2024-01-02T17:09:44.7142653+00:00",
+  "LastChanged_Achievements": "2024-01-02T18:09:37.1108301+00:00",
   "LastUpdate_AppInfo": "2023-12-28T02:56:54.2498472+00:00",
-  "LastUpdate_Ratings": "2024-01-02T16:59:16.5875614+00:00",
-  "LastUpdate_Achievements": "2024-01-02T17:09:44.7143359+00:00"
+  "LastUpdate_Ratings": "2024-01-02T17:59:25.6948235+00:00",
+  "LastUpdate_Achievements": "2024-01-02T18:09:37.1108796+00:00"
 }

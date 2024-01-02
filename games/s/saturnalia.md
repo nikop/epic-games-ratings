@@ -17,8 +17,8 @@ Rating: 4.26 (Ranked 906)
 | Depression | 1.00% | ~701 |
 | Bless me Father... | 0.90% | ~631 |
 | Phone Bill | 0.80% | ~561 |
-| Power of Friendship | 0.70% | ~490 |
-| Chain Breaker | 0.70% | ~490 |
+| Power of Friendship | 0.70% | ~491 |
+| Chain Breaker | 0.70% | ~491 |
 | Let there be light | 0.50% | ~350 |
 | Silent Advisor | 0.50% | ~350 |
 | Soda addiction | 0.40% | ~280 |
@@ -26,7 +26,7 @@ Rating: 4.26 (Ranked 906)
 | Are you still there? | 0.40% | ~280 |
 | Ear Ringing | 0.10% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 70,069 (Ranked 113)  
+Progressed: 70,072 (Ranked 113)  
 Completed: 18 (0.03%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 18 (0.03%) (Ranked 349)
 | 2023-12-30 | 69,953 | 18 |
 | 2023-12-31 | 70,003 | 18 |
 | 2024-01-01 | 70,046 | 18 |
-| 2024-01-02 | 70,069 | 18 |
+| 2024-01-02 | 70,072 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

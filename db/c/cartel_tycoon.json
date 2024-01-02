@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 916,
+  "EOS_Progressed": 917,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -3246,6 +3246,11 @@
       "Time": "2024-01-02T16:06:42.2957292+00:00",
       "NumProgressed": 916,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-02T18:08:33.4647411+00:00",
+      "NumProgressed": 917,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3305,7 +3310,7 @@
       "Name": "Our Man",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "kill-lieutenants",
@@ -3313,7 +3318,7 @@
       "Name": "Spreading Fear",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "pack-and-sell",
@@ -3321,7 +3326,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "play-at-night",
@@ -3345,7 +3350,7 @@
       "Name": "Bad Trip",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "rename-lieutenant",
@@ -3377,7 +3382,7 @@
       "Name": "Camellos",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "unlock-residences",
@@ -3393,7 +3398,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "use-submarine",
@@ -3408,15 +3413,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 916,
+      "Progressed": 917,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-23T10:57:58.3271618+00:00",
-  "LastChanged_Achievements": "2024-01-02T17:08:40.8011644+00:00",
+  "LastChanged_Achievements": "2024-01-02T18:08:33.4647407+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:28.1140989+00:00",
-  "LastUpdate_Ratings": "2024-01-02T17:03:03.8737602+00:00",
-  "LastUpdate_Achievements": "2024-01-02T17:08:40.8011981+00:00"
+  "LastUpdate_Ratings": "2024-01-02T18:03:08.7255367+00:00",
+  "LastUpdate_Achievements": "2024-01-02T18:08:33.4647617+00:00"
 }

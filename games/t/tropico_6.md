@@ -10,21 +10,21 @@ Number of Ratings: 398  (23.09.2022)
 | Un-Lonely Island | 45.00% | ~3,082 |
 | The Beginning of a Servantship | 44.00% | ~3,014 |
 | Trade Is My Trait | 36.00% | ~2,466 |
-| Number 18 | 23.00% | ~1,575 |
+| Number 18 | 23.00% | ~1,576 |
 | We Don't Have Time For That | 18.00% | ~1,233 |
 | The Legend of Langostino | 16.00% | ~1,096 |
 | The Governator | 16.00% | ~1,096 |
-| Caribbean Comrade | 15.00% | ~1,027 |
-| The Dreamer of Dreams | 15.00% | ~1,027 |
-| Go Sovereigns! | 11.00% | ~753 |
-| For Science! | 11.00% | ~753 |
+| Caribbean Comrade | 15.00% | ~1,028 |
+| The Dreamer of Dreams | 15.00% | ~1,028 |
+| Go Sovereigns! | 11.00% | ~754 |
+| For Science! | 11.00% | ~754 |
 | Happy Ending? | 10.00% | ~685 |
 | Of Seals And Men | 9.00% | ~616 |
 | Shackadelic | 9.00% | ~616 |
 | Double Trouble | 8.00% | ~548 |
 | Firestarter | 8.00% | ~548 |
-| Make Tropico Great Again! | 7.00% | ~479 |
-| French Connection | 7.00% | ~479 |
+| Make Tropico Great Again! | 7.00% | ~480 |
+| French Connection | 7.00% | ~480 |
 | Don't Panic! | 6.00% | ~411 |
 | I Owe You Nothing | 6.00% | ~411 |
 | Viva Tropico! | 5.00% | ~342 |
@@ -32,10 +32,10 @@ Number of Ratings: 398  (23.09.2022)
 | Beware The Betman | 5.00% | ~342 |
 | Watch The World Burn | 5.00% | ~342 |
 | Fairy Tale Come True | 5.00% | ~342 |
-| Been there, Done That | 3.00% | ~205 |
-| Apocalypso | 3.00% | ~205 |
-| Narcissist | 3.00% | ~205 |
-| The Time For Wonders | 3.00% | ~205 |
+| Been there, Done That | 3.00% | ~206 |
+| Apocalypso | 3.00% | ~206 |
+| Narcissist | 3.00% | ~206 |
+| The Time For Wonders | 3.00% | ~206 |
 | One Does Not Simply Stage A Coup | 2.00% | ~137 |
 | Promising Endeavors | 2.00% | ~137 |
 | Sublime Subliminal Supreme | 2.00% | ~137 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~55 |
 | My Ways | 0.20% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,849 (Ranked 194)  
+Progressed: 6,850 (Ranked 194)  
 Completed: 2 (0.03%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 2 (0.03%) (Ranked 349)
 | 2023-12-30 | 6,780 | 2 |
 | 2023-12-31 | 6,808 | 2 |
 | 2024-01-01 | 6,834 | 2 |
-| 2024-01-02 | 6,849 | 2 |
+| 2024-01-02 | 6,850 | 2 |
 ## Awards
 Max (Highly Recommended): 106  (Ranked 368)  
 Sum: 752 (Ranked 300)  

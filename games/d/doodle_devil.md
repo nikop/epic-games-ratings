@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Paradise lost | 96.00% | ~86 |
-| Dark Kingdom Come | 76.00% | ~68 |
+| Paradise lost | 96.00% | ~87 |
+| Dark Kingdom Come | 75.00% | ~68 |
 | Master of Sins | 63.00% | ~57 |
-| Lucky Strike | 60.00% | ~54 |
-| Cardinal Sins | 50.00% | ~45 |
-| Warm and Fuzzy | 50.00% | ~45 |
-| Master of Warfare | 38.00% | ~34 |
-| Vicious Delicious | 28.00% | ~25 |
+| Lucky Strike | 60.00% | ~55 |
+| Cardinal Sins | 49.00% | ~45 |
+| Warm and Fuzzy | 49.00% | ~45 |
+| Master of Warfare | 37.00% | ~34 |
+| Vicious Delicious | 27.00% | ~25 |
 | Hellfire | 24.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90 (Ranked 499)  
-Completed: 19 (21.11%) (Ranked 21)  
+Progressed: 91 (Ranked 498)  
+Completed: 19 (20.88%) (Ranked 21)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -40,6 +40,7 @@ Completed: 19 (21.11%) (Ranked 21)
 | 2023-12-21 | 88 | 19 |
 | 2023-12-26 | 89 | 19 |
 | 2024-01-01 | 90 | 19 |
+| 2024-01-02 | 91 | 19 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

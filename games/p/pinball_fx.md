@@ -10,6 +10,7 @@ Number of Ratings: 756  (23.09.2022)
 | I Found it! | 0.80% | ~2,322 |
 | Ready Steady Score | 0.30% | ~871 |
 | First but not Last | 0.20% | ~580 |
+| Full Loot Madness | 0.20% | ~580 |
 | Contender | 0.10% | ~290 |
 | My Table, my Rules | 0.10% | ~290 |
 | Collect Them All | 0.10% | ~290 |
@@ -21,7 +22,6 @@ Number of Ratings: 756  (23.09.2022)
 | Virtual Pinball Museum | 0.10% | ~290 |
 | Nine Zeroes | 0.10% | ~290 |
 | Challenge Accepted! | 0.10% | ~290 |
-| Full Loot Madness | 0.10% | ~290 |
 | Relic Hunter | 0.10% | ~290 |
 | Interior Designer | 0.10% | ~290 |
 | Show Them | 0.10% | ~290 |
@@ -46,7 +46,7 @@ Number of Ratings: 756  (23.09.2022)
 | The most beautiful Christmas | 0.00% | ~0 |
 | End of Gloom | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,228 (Ranked 63)  
+Progressed: 290,242 (Ranked 63)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,11 +303,11 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-30 | 289,126 | 0 |
 | 2023-12-31 | 289,544 | 0 |
 | 2024-01-01 | 289,963 | 0 |
-| 2024-01-02 | 290,228 | 0 |
+| 2024-01-02 | 290,242 | 0 |
 ## Awards
 Max (Great for Beginners): 213  (Ranked 291)  
-Sum: 1,635 (Ranked 230)  
-Diff (max vs sum): 61  
+Sum: 1,635 (Ranked 231)  
+Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 213 |

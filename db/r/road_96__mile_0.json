@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 274,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 612,
+  "EOS_Progressed": 613,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 1,
@@ -2207,6 +2207,11 @@
       "Time": "2024-01-02T17:11:17.3585693+00:00",
       "NumProgressed": 612,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-02T18:11:08.2133477+00:00",
+      "NumProgressed": 613,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -2216,9 +2221,9 @@
       "ID": "completeact1",
       "SetID": "40n95i5",
       "Name": "BBFF (Best Brigade Friend Forever)",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 60,
-      "UsersEstimate": 294
+      "UsersEstimate": 288
     },
     {
       "ID": "completeact2",
@@ -2290,7 +2295,7 @@
       "Name": "Souvenirs",
       "Percentage": 27,
       "XP": 40,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "scoreminrankrp1",
@@ -2337,7 +2342,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 612,
+      "Progressed": 613,
       "Completed": 3
     }
   ],
@@ -2345,8 +2350,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-02T17:11:17.358569+00:00",
+  "LastChanged_Achievements": "2024-01-02T18:11:08.2133473+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:00.0371084+00:00",
-  "LastUpdate_Ratings": "2024-01-02T17:00:30.8503177+00:00",
-  "LastUpdate_Achievements": "2024-01-02T17:11:17.3585957+00:00"
+  "LastUpdate_Ratings": "2024-01-02T18:00:39.51129+00:00",
+  "LastUpdate_Achievements": "2024-01-02T18:11:08.2133641+00:00"
 }

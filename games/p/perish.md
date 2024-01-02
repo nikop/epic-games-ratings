@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| To Suffer is to Learn | 6.00% | ~234 |
-| Initiate's Resolve | 6.00% | ~234 |
+| To Suffer is to Learn | 6.00% | ~235 |
+| Initiate's Resolve | 6.00% | ~235 |
 | Missilis | 5.00% | ~195 |
 | Modest Earnings | 5.00% | ~195 |
 | Armaments of the Pantheon | 5.00% | ~195 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,908 (Ranked 212)  
+Progressed: 3,909 (Ranked 212)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-30 | 3,891 | 0 |
 | 2023-12-31 | 3,894 | 0 |
 | 2024-01-01 | 3,906 | 0 |
-| 2024-01-02 | 3,908 | 0 |
+| 2024-01-02 | 3,909 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,12 +2,12 @@
   "ID": "eca39884bdf14f65af242a8e3ff5b2d9",
   "Name": "Avatar: Frontiers of Pandora",
   "ProductSlug": "avatar-frontiers-of-pandora",
-  "Ranking_Rating": 591,
+  "Ranking_Rating": 590,
   "Ranking_Popularity": 361,
   "Ranking_PopularitySum": 290,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-12-07T05:00:00+00:00",
@@ -873,10 +873,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 797,
       "NumberOfAwardsMax": 111
+    },
+    {
+      "Time": "2024-01-02T17:57:48.0474611+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 800,
+      "NumberOfAwardsMax": 111
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 797,
+  "NumberOfAwards": 800,
   "NumberOfAwardsMax": 111,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -944,7 +950,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 36
+      "Count": 39
     }
   ],
   "EOS_Progressed": 0,
@@ -959,8 +965,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-07T07:59:53.6089805+00:00",
   "FirstSeenRating": "2023-12-07T19:59:23.1655437+00:00",
-  "LastChanged": "2024-01-02T11:57:10.1357313+00:00",
+  "LastChanged": "2024-01-02T17:57:48.047461+00:00",
   "LastUpdate_AppInfo": "2024-01-01T07:57:22.7847618+00:00",
-  "LastUpdate_Ratings": "2024-01-02T16:57:30.8398063+00:00",
-  "LastUpdate_Achievements": "2024-01-02T17:06:29.4990271+00:00"
+  "LastUpdate_Ratings": "2024-01-02T17:57:48.0474614+00:00",
+  "LastUpdate_Achievements": "2024-01-02T18:06:23.7296167+00:00"
 }

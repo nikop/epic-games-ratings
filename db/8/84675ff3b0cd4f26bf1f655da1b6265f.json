@@ -2,9 +2,9 @@
   "ID": "84675ff3b0cd4f26bf1f655da1b6265f",
   "Name": "Outbreak The Nightmare Chronicles Reinvestigated",
   "ProductSlug": "outbreak-the-nightmare-chronicles-reinvestigated-b631d4",
-  "Ranking_EOS_Progress": 607,
+  "Ranking_EOS_Progress": 605,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewPlayers": 526,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-09-13T14:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 24,
+  "EOS_Progressed": 25,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -52,6 +52,11 @@
       "Time": "2023-12-25T22:03:41.7784866+00:00",
       "NumProgressed": 24,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T18:04:44.0946655+00:00",
+      "NumProgressed": 25,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T22:15:21.1130841+00:00",
@@ -62,7 +67,7 @@
       "ID": "A_CLUE_ACH",
       "SetID": "2gpm4c0",
       "Name": "A Clue",
-      "Percentage": 79,
+      "Percentage": 76,
       "XP": 30,
       "UsersEstimate": 19
     },
@@ -86,7 +91,7 @@
       "ID": "CLEVER_GIRL_ACH",
       "SetID": "2gpm4c0",
       "Name": "Clever Girl",
-      "Percentage": 38,
+      "Percentage": 36,
       "XP": 70,
       "UsersEstimate": 9
     },
@@ -110,7 +115,7 @@
       "ID": "HOLD_THE_LINE_ACH",
       "SetID": "2gpm4c0",
       "Name": "Hold the Line!",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -126,7 +131,7 @@
       "ID": "MEDIC_ACH",
       "SetID": "2gpm4c0",
       "Name": "Medic!",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -134,7 +139,7 @@
       "ID": "QUITE_THE_DETECTIVE_ACH",
       "SetID": "2gpm4c0",
       "Name": "Quite the Detective",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 100,
       "UsersEstimate": 4
     },
@@ -142,7 +147,7 @@
       "ID": "SURVIVING_THE_NIGHTMARE_ACH",
       "SetID": "2gpm4c0",
       "Name": "Surviving the Nightmare",
-      "Percentage": 79,
+      "Percentage": 76,
       "XP": 30,
       "UsersEstimate": 19
     },
@@ -159,13 +164,13 @@
     {
       "ID": "2gpm4c0",
       "IsBase": true,
-      "Progressed": 24,
+      "Progressed": 25,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-18T22:15:21.113084+00:00",
-  "LastChanged_Achievements": "2024-01-02T17:04:59.5644861+00:00",
+  "LastChanged_Achievements": "2024-01-02T18:04:44.0946651+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:13.3959131+00:00",
-  "LastUpdate_Ratings": "2024-01-02T17:01:59.8029107+00:00",
-  "LastUpdate_Achievements": "2024-01-02T17:04:59.5644945+00:00"
+  "LastUpdate_Ratings": "2024-01-02T18:02:06.9575805+00:00",
+  "LastUpdate_Achievements": "2024-01-02T18:04:44.0946739+00:00"
 }

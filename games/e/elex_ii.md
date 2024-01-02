@@ -20,20 +20,20 @@ Number of Ratings: 124  (23.09.2022)
 | Pass A38 | 12.00% | ~20 |
 | Berserker | 9.00% | ~15 |
 | Family Reunion | 9.00% | ~15 |
+| Storyteller | 8.00% | ~13 |
 | Globetrotter | 8.00% | ~13 |
 | Eternal Oblivion | 8.00% | ~13 |
-| Storyteller | 7.00% | ~12 |
 | Alb | 7.00% | ~12 |
 | Hunter | 6.00% | ~10 |
 | Banker | 5.00% | ~8 |
 | Perfectionist | 5.00% | ~8 |
+| Treasure Hunter | 4.00% | ~7 |
 | Beam Me Up | 4.00% | ~7 |
 | Hotshot | 4.00% | ~7 |
 | Free as a Bird | 4.00% | ~7 |
 | Cleric | 4.00% | ~7 |
 | Detective | 4.00% | ~7 |
 | Lover | 4.00% | ~7 |
-| Treasure Hunter | 3.00% | ~5 |
 | Self-Sufficient | 3.00% | ~5 |
 | Unbreakable | 3.00% | ~5 |
 | Weaponsmith | 2.00% | ~3 |

@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2498,
+  "EOS_Progressed": 2504,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 298,
+  "EOS_NewPlayers": 299,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -6969,6 +6969,11 @@
       "Time": "2024-01-02T17:11:30.6942196+00:00",
       "NumProgressed": 2498,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-02T18:11:21.3087911+00:00",
+      "NumProgressed": 2504,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -7021,7 +7026,7 @@
       "Name": "Playing the objective",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_15",
@@ -7173,7 +7178,7 @@
       "Name": "Scrap collector",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "achievement_32",
@@ -7181,7 +7186,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "achievement_33",
@@ -7205,7 +7210,7 @@
       "Name": "New Recruit",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 2173
+      "UsersEstimate": 2178
     },
     {
       "ID": "achievement_36",
@@ -7221,7 +7226,7 @@
       "Name": "Off to a good start",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1549
+      "UsersEstimate": 1552
     },
     {
       "ID": "achievement_38",
@@ -7245,7 +7250,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "achievement_40",
@@ -7253,7 +7258,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1302
     },
     {
       "ID": "achievement_41",
@@ -7285,7 +7290,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 624
+      "UsersEstimate": 626
     },
     {
       "ID": "achievement_45",
@@ -7309,7 +7314,7 @@
       "Name": "Greed can be a very powerful ally",
       "Percentage": 0.3,
       "XP": 60,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement_48",
@@ -7325,7 +7330,7 @@
       "Name": "Do we take prisoners?",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "achievement_5",
@@ -7333,7 +7338,7 @@
       "Name": "Shoot first",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "achievement_50",
@@ -7357,7 +7362,7 @@
       "Name": "When surrounded by war...",
       "Percentage": 0.7,
       "XP": 60,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "achievement_53",
@@ -7365,7 +7370,7 @@
       "Name": "I\u2019ll take that bet",
       "Percentage": 0.5,
       "XP": 90,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "achievement_54",
@@ -7421,7 +7426,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "achievement_60",
@@ -7445,7 +7450,7 @@
       "Name": "I never doubted you!",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "achievement_63",
@@ -7477,20 +7482,20 @@
       "Name": "Crush them with one swift stroke\u2026",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2498,
+      "Progressed": 2504,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2498,
+      "Progressed": 2504,
       "Completed": 1
     }
   ],
@@ -7498,8 +7503,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-02T17:11:30.6942192+00:00",
+  "LastChanged_Achievements": "2024-01-02T18:11:21.3087907+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:19.759459+00:00",
-  "LastUpdate_Ratings": "2024-01-02T17:00:26.5514148+00:00",
-  "LastUpdate_Achievements": "2024-01-02T17:11:30.6943267+00:00"
+  "LastUpdate_Ratings": "2024-01-02T18:00:34.9949291+00:00",
+  "LastUpdate_Achievements": "2024-01-02T18:11:21.3088652+00:00"
 }

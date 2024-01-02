@@ -250,9 +250,9 @@
       "Count": 128
     }
   ],
-  "EOS_Progressed": 43347,
+  "EOS_Progressed": 43350,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 521,
+  "EOS_NewPlayers": 518,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -28170,6 +28170,11 @@
       "Time": "2024-01-02T17:04:49.2968227+00:00",
       "NumProgressed": 43347,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-02T18:04:33.9522242+00:00",
+      "NumProgressed": 43350,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -28189,7 +28194,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 9103
+      "UsersEstimate": 9104
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -28245,7 +28250,7 @@
       "Name": "Enjoy The Silence",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "ACH_11_WOLF_GUARD_CRUSHED",
@@ -28253,7 +28258,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2167
+      "UsersEstimate": 2168
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -28412,7 +28417,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 43347,
+      "Progressed": 43350,
       "Completed": 30
     }
   ],
@@ -28420,8 +28425,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-12-18T19:58:40.3413682+00:00",
-  "LastChanged_Achievements": "2024-01-02T17:04:49.2968224+00:00",
+  "LastChanged_Achievements": "2024-01-02T18:04:33.9522237+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:52.0120838+00:00",
-  "LastUpdate_Ratings": "2024-01-02T17:00:58.6182442+00:00",
-  "LastUpdate_Achievements": "2024-01-02T17:04:49.296948+00:00"
+  "LastUpdate_Ratings": "2024-01-02T18:01:09.1255106+00:00",
+  "LastUpdate_Achievements": "2024-01-02T18:04:33.9523636+00:00"
 }

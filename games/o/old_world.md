@@ -115,6 +115,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legalism | 0.20% | ~32 |
 | Redemption | 0.20% | ~32 |
 | Revelation | 0.20% | ~32 |
+| Veneration | 0.20% | ~32 |
 | Cimmerian Archer | 0.20% | ~32 |
 | Kushite Cavalry | 0.20% | ~32 |
 | Legionary | 0.20% | ~32 |
@@ -233,7 +234,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon in Roma | 0.10% | ~16 |
 | Capturing Cities | 0.10% | ~16 |
 | Ten Crowns | 0.10% | ~16 |
-| Veneration | 0.10% | ~16 |
 | Word of God | 0.10% | ~16 |
 | Cataphract Archer | 0.10% | ~16 |
 | Three Man Chariot | 0.10% | ~16 |

@@ -2,9 +2,9 @@
   "ID": "341b8002fa094d72905999eb8aa900b1",
   "Name": "Doodle Devil",
   "ProductSlug": "doodle-devil-8e65af",
-  "Ranking_EOS_Progress": 499,
+  "Ranking_EOS_Progress": 498,
   "Ranking_EOS_Completed": 21,
-  "Ranking_EOS_NewPlayers": 524,
+  "Ranking_EOS_NewPlayers": 495,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-07-01T17:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 90,
+  "EOS_Progressed": 91,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 21.11,
+  "EOS_Completed_Percentage": 20.88,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:19.0754835+00:00",
@@ -155,6 +155,11 @@
       "Time": "2024-01-01T19:06:47.0622026+00:00",
       "NumProgressed": 90,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2024-01-02T18:07:12.7115424+00:00",
+      "NumProgressed": 91,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 9,
@@ -172,7 +177,7 @@
       "ID": "701322",
       "SetID": "3n3mm3c",
       "Name": "Master of Warfare",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 150,
       "UsersEstimate": 34
     },
@@ -182,7 +187,7 @@
       "Name": "Lucky Strike",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "701382",
@@ -190,13 +195,13 @@
       "Name": "Paradise lost",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "701392",
       "SetID": "3n3mm3c",
       "Name": "Dark Kingdom Come",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 100,
       "UsersEstimate": 68
     },
@@ -204,7 +209,7 @@
       "ID": "701402",
       "SetID": "3n3mm3c",
       "Name": "Cardinal Sins",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 100,
       "UsersEstimate": 45
     },
@@ -220,7 +225,7 @@
       "ID": "701432",
       "SetID": "3n3mm3c",
       "Name": "Vicious Delicious",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 150,
       "UsersEstimate": 25
     },
@@ -228,7 +233,7 @@
       "ID": "701442",
       "SetID": "3n3mm3c",
       "Name": "Warm and Fuzzy",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 150,
       "UsersEstimate": 45
     }
@@ -237,7 +242,7 @@
     {
       "ID": "3n3mm3c",
       "IsBase": true,
-      "Progressed": 90,
+      "Progressed": 91,
       "Completed": 19
     }
   ],
@@ -245,8 +250,8 @@
   "FirstSeenRating": "2023-03-31T05:57:51.0518288+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:19.0754842+00:00",
   "LastChanged": "2023-03-31T05:57:51.0518289+00:00",
-  "LastChanged_Achievements": "2024-01-02T17:07:18.789209+00:00",
+  "LastChanged_Achievements": "2024-01-02T18:07:12.7115421+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:43.5836177+00:00",
-  "LastUpdate_Ratings": "2024-01-02T17:02:32.0515719+00:00",
-  "LastUpdate_Achievements": "2024-01-02T17:07:18.7892187+00:00"
+  "LastUpdate_Ratings": "2024-01-02T18:02:37.8713991+00:00",
+  "LastUpdate_Achievements": "2024-01-02T18:07:12.7115543+00:00"
 }

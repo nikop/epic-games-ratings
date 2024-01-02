@@ -880,9 +880,9 @@
       "ID": "SomervilleFamilyFirst",
       "SetID": "3mk3nll",
       "Name": "Family First",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "SomervilleFraternizingWithEnemy",
@@ -969,8 +969,8 @@
   "FirstSeenRating": "2022-11-25T17:58:18.0029626+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.8533708+00:00",
   "LastChanged": "2023-10-28T10:01:15.5603382+00:00",
-  "LastChanged_Achievements": "2024-01-02T17:10:30.6997499+00:00",
+  "LastChanged_Achievements": "2024-01-02T18:10:21.5473094+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:30.678296+00:00",
-  "LastUpdate_Ratings": "2024-01-02T17:01:37.3855154+00:00",
-  "LastUpdate_Achievements": "2024-01-02T17:10:30.6997682+00:00"
+  "LastUpdate_Ratings": "2024-01-02T18:01:46.3931191+00:00",
+  "LastUpdate_Achievements": "2024-01-02T18:10:21.5473266+00:00"
 }

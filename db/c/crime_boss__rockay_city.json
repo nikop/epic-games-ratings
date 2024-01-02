@@ -2,7 +2,7 @@
   "ID": "af0ea01162704696bebf8633a52a7a6d",
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
-  "Ranking_Rating": 1050,
+  "Ranking_Rating": 1052,
   "Ranking_Popularity": 209,
   "Ranking_PopularitySum": 190,
   "Ranking_EOS_Progress": 101,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 3.96,
+  "Rating": 3.95,
   "RatingHistory": [
     {
       "Time": "2023-03-29T02:58:45.3340124+00:00",
@@ -5305,6 +5305,12 @@
       "Rating": 3.96,
       "NumberOfAwards": 2775,
       "NumberOfAwardsMax": 588
+    },
+    {
+      "Time": "2024-01-02T18:02:38.0711334+00:00",
+      "Rating": 3.95,
+      "NumberOfAwards": 2775,
+      "NumberOfAwardsMax": 588
     }
   ],
   "ReviewsDisabled": true,
@@ -5367,7 +5373,7 @@
       "Count": 531
     }
   ],
-  "EOS_Progressed": 92894,
+  "EOS_Progressed": 92896,
   "EOS_Completed": 58,
   "EOS_NewPlayers": 322,
   "EOS_NewCompleters": 0,
@@ -30082,6 +30088,11 @@
       "Time": "2024-01-02T16:04:38.2670767+00:00",
       "NumProgressed": 92894,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-02T18:05:29.8223266+00:00",
+      "NumProgressed": 92896,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -30420,22 +30431,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 92894,
+      "Progressed": 92896,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 21241,
+      "Progressed": 21243,
       "Completed": 15594
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2024-01-02T11:00:37.2508253+00:00",
-  "LastChanged_Achievements": "2024-01-02T17:05:45.2864228+00:00",
+  "LastChanged": "2024-01-02T18:02:38.0711332+00:00",
+  "LastChanged_Achievements": "2024-01-02T18:05:29.822326+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:43.6008036+00:00",
-  "LastUpdate_Ratings": "2024-01-02T17:02:32.2416754+00:00",
-  "LastUpdate_Achievements": "2024-01-02T17:05:45.2865673+00:00"
+  "LastUpdate_Ratings": "2024-01-02T18:02:38.0711338+00:00",
+  "LastUpdate_Achievements": "2024-01-02T18:05:29.8224348+00:00"
 }

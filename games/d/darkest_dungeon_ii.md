@@ -1,23 +1,23 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 261)  
+Rating: 4.68 (Ranked 260)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 12.00% | ~743 |
-| Lost and Found | 8.00% | ~495 |
-| This Belongs in a Museum | 6.00% | ~7,879 |
-| Autodidact | 6.00% | ~7,879 |
-| This guy... again? | 6.00% | ~371 |
+| Lost and Found | 8.00% | ~496 |
+| This Belongs in a Museum | 6.00% | ~7,880 |
+| Autodidact | 6.00% | ~7,880 |
+| This guy... again? | 6.00% | ~372 |
 | Serenity Now! | 5.00% | ~6,566 |
 | Creep and Sleep | 5.00% | ~6,566 |
 | Catch and Decease | 5.00% | ~6,566 |
 | Overdue Notice | 5.00% | ~6,566 |
 | Escape from the Black Hole | 5.00% | ~6,566 |
-| Ploughshares to Swords | 5.00% | ~309 |
-| Bloody Graduation | 5.00% | ~309 |
+| Ploughshares to Swords | 5.00% | ~310 |
+| Bloody Graduation | 5.00% | ~310 |
 | Don't Make Me Turn This Coach Around | 4.00% | ~5,253 |
 | It Rings a Bell | 4.00% | ~5,253 |
 | Not Today! | 4.00% | ~5,253 |
@@ -48,17 +48,17 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Clear Conscience | 3.00% | ~3,940 |
 | Unshackled | 3.00% | ~3,940 |
 | Road Trip | 3.00% | ~3,940 |
-| This Looks Familiar | 2.00% | ~2,626 |
-| Hope Rekindled | 2.00% | ~2,626 |
-| Predator | 2.00% | ~2,626 |
-| Ichthyophobic | 2.00% | ~2,626 |
-| No More Mouths to Feed | 2.00% | ~2,626 |
-| Reverse Banditry | 2.00% | ~2,626 |
-| When You Want Something Done Right | 2.00% | ~2,626 |
-| Worldly Traveller | 2.00% | ~2,626 |
-| Utopia | 2.00% | ~2,626 |
-| Hot Air | 2.00% | ~2,626 |
-| Eyes Up | 2.00% | ~2,626 |
+| This Looks Familiar | 2.00% | ~2,627 |
+| Hope Rekindled | 2.00% | ~2,627 |
+| Predator | 2.00% | ~2,627 |
+| Ichthyophobic | 2.00% | ~2,627 |
+| No More Mouths to Feed | 2.00% | ~2,627 |
+| Reverse Banditry | 2.00% | ~2,627 |
+| When You Want Something Done Right | 2.00% | ~2,627 |
+| Worldly Traveller | 2.00% | ~2,627 |
+| Utopia | 2.00% | ~2,627 |
+| Hot Air | 2.00% | ~2,627 |
+| Eyes Up | 2.00% | ~2,627 |
 | Shrine of Reflection | 1.00% | ~1,313 |
 | Handled | 1.00% | ~1,313 |
 | Body of Work | 1.00% | ~1,313 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,319 (Ranked 90)  
+Progressed: 131,326 (Ranked 90)  
 Completed: 3 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,7 +333,7 @@ Completed: 3 (0.00%) (Ranked 390)
 | 2023-12-30 | 130,838 | 3 |
 | 2023-12-31 | 131,026 | 3 |
 | 2024-01-01 | 131,206 | 3 |
-| 2024-01-02 | 131,319 | 3 |
+| 2024-01-02 | 131,326 | 3 |
 ## Awards
 Max (Character Customization): 7,927  (Ranked 50)  
 Sum: 21,349 (Ranked 58)  

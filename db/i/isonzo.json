@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 369,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -971,10 +971,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 335,
       "NumberOfAwardsMax": 41
+    },
+    {
+      "Time": "2024-01-02T18:01:12.8196564+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 336,
+      "NumberOfAwardsMax": 41
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 335,
+  "NumberOfAwards": 336,
   "NumberOfAwardsMax": 41,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1024,7 +1030,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 36
+      "Count": 37
     },
     {
       "Text": "This game has Competitive Players",
@@ -1045,7 +1051,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9731,
+  "EOS_Progressed": 9732,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
@@ -10450,6 +10456,11 @@
       "Time": "2024-01-02T17:10:18.1297608+00:00",
       "NumProgressed": 9731,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-02T18:10:09.7262934+00:00",
+      "NumProgressed": 9732,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -10613,7 +10624,7 @@
       "Name": "Machiavelli",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1071
     },
     {
       "ID": "ISONZO_ACH_MALPRACTICE",
@@ -10709,7 +10720,7 @@
       "Name": "Silver Lining",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2627
+      "UsersEstimate": 2628
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -10765,7 +10776,7 @@
       "Name": "The Show Must Go On",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "ISONZO_ACH_THUS_WITH_A_KISS",
@@ -10781,7 +10792,7 @@
       "Name": "Tosca",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "ISONZO_ACH_TUTTI_EROI",
@@ -10820,16 +10831,16 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9731,
+      "Progressed": 9732,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-09-13T17:01:45.3760457+00:00",
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
-  "LastChanged": "2023-12-30T03:57:33.3665427+00:00",
-  "LastChanged_Achievements": "2024-01-02T17:10:18.1297605+00:00",
+  "LastChanged": "2024-01-02T18:01:12.8196563+00:00",
+  "LastChanged_Achievements": "2024-01-02T18:10:09.7262929+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:27.5115536+00:00",
-  "LastUpdate_Ratings": "2024-01-02T17:01:03.1795652+00:00",
-  "LastUpdate_Achievements": "2024-01-02T17:10:18.1298454+00:00"
+  "LastUpdate_Ratings": "2024-01-02T18:01:12.8196568+00:00",
+  "LastUpdate_Achievements": "2024-01-02T18:10:09.7263826+00:00"
 }

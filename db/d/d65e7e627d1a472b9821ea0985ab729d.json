@@ -4,7 +4,7 @@
   "ProductSlug": "blood-rush-c905c8",
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-01T19:57:12.2979284+00:00",
-  "LastUpdate_Ratings": "2024-01-02T16:57:50.2798208+00:00",
-  "LastUpdate_Achievements": "2024-01-02T17:04:47.245263+00:00"
+  "LastUpdate_Ratings": "2024-01-02T17:58:05.0000476+00:00",
+  "LastUpdate_Achievements": "2024-01-02T18:04:32.0753064+00:00"
 }

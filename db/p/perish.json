@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3908,
+  "EOS_Progressed": 3909,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4531,6 +4531,11 @@
       "Time": "2024-01-02T10:08:08.1097343+00:00",
       "NumProgressed": 3908,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T18:08:43.0680012+00:00",
+      "NumProgressed": 3909,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -4670,7 +4675,7 @@
       "Name": "To Suffer is to Learn",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ACH_M_D1",
@@ -4918,7 +4923,7 @@
       "Name": "Initiate\u0027s Resolve",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ACH_R_A",
@@ -5045,7 +5050,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3908,
+      "Progressed": 3909,
       "Completed": 0
     }
   ],
@@ -5053,8 +5058,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2024-01-02T17:08:50.7381794+00:00",
+  "LastChanged_Achievements": "2024-01-02T18:08:43.0680006+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:44.8279496+00:00",
-  "LastUpdate_Ratings": "2024-01-02T16:59:39.8628351+00:00",
-  "LastUpdate_Achievements": "2024-01-02T17:08:50.7382496+00:00"
+  "LastUpdate_Ratings": "2024-01-02T17:59:46.9071341+00:00",
+  "LastUpdate_Achievements": "2024-01-02T18:08:43.0680665+00:00"
 }

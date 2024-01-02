@@ -3,8 +3,8 @@
   "Name": "Forest Grove",
   "ProductSlug": "forest-grove-6b05cf",
   "Ranking_EOS_Progress": 581,
-  "Ranking_EOS_Completed": 110,
-  "Ranking_EOS_NewPlayers": 524,
+  "Ranking_EOS_Completed": 112,
+  "Ranking_EOS_NewPlayers": 495,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-11-28T13:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 33,
+  "EOS_Progressed": 34,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.03,
+  "EOS_Completed_Percentage": 2.94,
   "EosHistory": [
     {
       "Time": "2023-10-10T13:09:13.100464+00:00",
@@ -149,6 +149,11 @@
       "Time": "2023-12-29T23:08:38.2003016+00:00",
       "NumProgressed": 33,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-02T18:09:28.7077634+00:00",
+      "NumProgressed": 34,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-10T13:09:13.1022392+00:00",
@@ -159,7 +164,7 @@
       "ID": "1",
       "SetID": "36pe9e2",
       "Name": "Entered the Nanodeck",
-      "Percentage": 58,
+      "Percentage": 56,
       "XP": 50,
       "UsersEstimate": 19
     },
@@ -256,14 +261,14 @@
     {
       "ID": "36pe9e2",
       "IsBase": true,
-      "Progressed": 33,
+      "Progressed": 34,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-05T14:57:21.3417959+00:00",
   "FirstSeenAchievements": "2023-10-10T13:09:13.1022391+00:00",
-  "LastChanged_Achievements": "2024-01-02T17:09:36.0293335+00:00",
+  "LastChanged_Achievements": "2024-01-02T18:09:28.7077629+00:00",
   "LastUpdate_AppInfo": "2023-12-26T20:57:07.0224393+00:00",
-  "LastUpdate_Ratings": "2024-01-02T16:58:35.032969+00:00",
-  "LastUpdate_Achievements": "2024-01-02T17:09:36.0293461+00:00"
+  "LastUpdate_Ratings": "2024-01-02T17:58:46.1139776+00:00",
+  "LastUpdate_Achievements": "2024-01-02T18:09:28.7077992+00:00"
 }

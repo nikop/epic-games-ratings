@@ -1,7 +1,7 @@
 # Sherlock Holmes The Awakened
 [Store](https://store.epicgames.com/en-US/p/sherlock-holmes-the-awakened)  
 [View Rawdata](../../db/s/sherlock_holmes_the_awakened.json)  
-Rating: 4.50 (Ranked 612)  
+Rating: 4.50 (Ranked 611)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,9 +13,9 @@ Rating: 4.50 (Ranked 612)
 | A Method To His Madness | 48.00% | ~662 |
 | History Check | 47.00% | ~649 |
 | The New World | 45.00% | ~621 |
+| Open Sesame | 44.00% | ~607 |
+| Sticky Fingers | 44.00% | ~607 |
 | Gaze Into The Abyss | 43.00% | ~593 |
-| Open Sesame | 43.00% | ~593 |
-| Sticky Fingers | 43.00% | ~593 |
 | Knives Out | 43.00% | ~593 |
 | Lock, Stock, And Barrel | 42.00% | ~580 |
 | Back In The Saddle | 42.00% | ~580 |
@@ -29,7 +29,7 @@ Rating: 4.50 (Ranked 612)
 | Let Me Be Frank | 34.00% | ~469 |
 | No Stone Unturned | 32.00% | ~442 |
 | Brain Food | 30.00% | ~414 |
-| Read It And Weep | 19.00% | ~262 |
+| Read It And Weep | 20.00% | ~276 |
 | Curiosity Killed The Cat | 18.00% | ~248 |
 | Big Breakthrough | 12.00% | ~166 |
 | Reawakened | 3.00% | ~41 |

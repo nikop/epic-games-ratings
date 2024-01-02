@@ -35,7 +35,7 @@
 | Head Hunter | 29.00% | ~1,038 |
 | Scholar | 29.00% | ~1,038 |
 | The Archangel | 28.00% | ~1,002 |
-| Operative | 27.00% | ~967 |
+| Operative | 28.00% | ~1,002 |
 | The Convict | 26.00% | ~931 |
 | Power Full | 26.00% | ~931 |
 | Colony Defense | 25.00% | ~895 |

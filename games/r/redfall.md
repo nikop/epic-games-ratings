@@ -44,9 +44,9 @@ Rating: 3.64 (Ranked 1,086)
 | Curious Finch | 1.00% | ~22 |
 | Empty Nest Syndrome | 0.80% | ~18 |
 | Bloody Initiate | 0.80% | ~18 |
+| Neighborhood Watch | 0.70% | ~16 |
 | What Lies Below | 0.70% | ~16 |
 | Dexterity Save | 0.70% | ~16 |
-| Neighborhood Watch | 0.60% | ~13 |
 | Blood Brother | 0.60% | ~13 |
 | Sisterhood | 0.50% | ~11 |
 | Good Samaritan | 0.50% | ~11 |

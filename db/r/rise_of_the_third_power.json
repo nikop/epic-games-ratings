@@ -389,9 +389,9 @@
       "ID": "SideJob",
       "SetID": "4nce15l",
       "Name": "Side Job",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "Sparkly",
@@ -430,8 +430,8 @@
   "FirstSeenRating": "2023-03-31T05:58:42.3919584+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.9587587+00:00",
   "LastChanged": "2023-03-31T05:58:42.3919585+00:00",
-  "LastChanged_Achievements": "2024-01-02T17:09:21.6717936+00:00",
+  "LastChanged_Achievements": "2024-01-02T18:09:14.170595+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:41.5810558+00:00",
-  "LastUpdate_Ratings": "2024-01-02T16:57:16.7175527+00:00",
-  "LastUpdate_Achievements": "2024-01-02T17:09:21.6718097+00:00"
+  "LastUpdate_Ratings": "2024-01-02T17:57:32.4095517+00:00",
+  "LastUpdate_Achievements": "2024-01-02T18:09:14.1706141+00:00"
 }

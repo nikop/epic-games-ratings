@@ -3,8 +3,8 @@
   "Name": "FORECLOSED",
   "ProductSlug": "foreclosed",
   "Ranking_EOS_Progress": 459,
-  "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_Completed": 134,
+  "Ranking_EOS_NewPlayers": 394,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-08-12T13:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 135,
+  "EOS_Progressed": 136,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.22,
+  "EOS_Completed_Percentage": 2.21,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:36.3929113+00:00",
@@ -364,6 +364,11 @@
       "Time": "2024-01-01T20:05:40.4511209+00:00",
       "NumProgressed": 135,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-02T18:05:59.309028+00:00",
+      "NumProgressed": 136,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 24,
@@ -399,7 +404,7 @@
       "Name": "Sapper",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "EnemyDefeat_0",
@@ -429,7 +434,7 @@
       "ID": "FirstAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Breaking Through",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 10,
       "UsersEstimate": 97
     },
@@ -445,17 +450,17 @@
       "ID": "GunUnlock",
       "SetID": "9e3d06k",
       "Name": "Symbiotic Weapon",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 75
     },
     {
       "ID": "Headshots_0",
       "SetID": "9e3d06k",
       "Name": "Sniper",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 49
+      "UsersEstimate": 48
     },
     {
       "ID": "Headshots_1",
@@ -471,7 +476,7 @@
       "Name": "The Red Herring",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "LiftEnemies_0",
@@ -503,7 +508,7 @@
       "Name": "Silent Overload",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "SecretEnding",
@@ -517,9 +522,9 @@
       "ID": "StealthDefeat_0",
       "SetID": "9e3d06k",
       "Name": "Flatline",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "StealthDefeat_1",
@@ -527,7 +532,7 @@
       "Name": "Brain-hacker",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "StoryEnd",
@@ -541,9 +546,9 @@
       "ID": "TelekinesisThrow_0",
       "SetID": "9e3d06k",
       "Name": "Mind Over Matter",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 20
     },
     {
       "ID": "TelekinesisThrow_1",
@@ -551,7 +556,7 @@
       "Name": "Gravity Bender",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ThirdAutoSkillUnlock",
@@ -566,7 +571,7 @@
     {
       "ID": "9e3d06k",
       "IsBase": true,
-      "Progressed": 135,
+      "Progressed": 136,
       "Completed": 3
     }
   ],
@@ -574,8 +579,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
   "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
-  "LastChanged_Achievements": "2024-01-02T17:06:15.3681965+00:00",
+  "LastChanged_Achievements": "2024-01-02T18:05:59.3090276+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:54.8333074+00:00",
-  "LastUpdate_Ratings": "2024-01-02T17:00:14.3686481+00:00",
-  "LastUpdate_Achievements": "2024-01-02T17:06:15.3682141+00:00"
+  "LastUpdate_Ratings": "2024-01-02T18:00:21.981324+00:00",
+  "LastUpdate_Achievements": "2024-01-02T18:05:59.3090431+00:00"
 }

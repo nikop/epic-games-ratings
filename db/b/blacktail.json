@@ -2,12 +2,12 @@
   "ID": "a17cc66c3a3c4d75875febf281c73fd2",
   "Name": "BLACKTAIL",
   "ProductSlug": "blacktail",
-  "Ranking_Rating": 261,
+  "Ranking_Rating": 260,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 299,
-  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewPlayers": 304,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 858,
+  "EOS_Progressed": 859,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -2686,6 +2686,11 @@
       "Time": "2024-01-02T15:10:55.4064978+00:00",
       "NumProgressed": 858,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-02T18:11:12.7351313+00:00",
+      "NumProgressed": 859,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -2817,7 +2822,7 @@
       "Name": "Liar Liar",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "LittleHelper",
@@ -2913,7 +2918,7 @@
       "Name": "Tooth fairy",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "Toxic",
@@ -2952,7 +2957,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 858,
+      "Progressed": 859,
       "Completed": 1
     }
   ],
@@ -2960,8 +2965,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-13T20:57:47.9412245+00:00",
-  "LastChanged_Achievements": "2024-01-02T17:11:22.1301688+00:00",
+  "LastChanged_Achievements": "2024-01-02T18:11:12.7351307+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:21.1393886+00:00",
-  "LastUpdate_Ratings": "2024-01-02T17:00:44.3622789+00:00",
-  "LastUpdate_Achievements": "2024-01-02T17:11:22.130223+00:00"
+  "LastUpdate_Ratings": "2024-01-02T18:00:53.6160465+00:00",
+  "LastUpdate_Achievements": "2024-01-02T18:11:12.735162+00:00"
 }

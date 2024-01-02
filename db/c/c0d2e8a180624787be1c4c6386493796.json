@@ -4,7 +4,7 @@
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewPlayers": 304,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -1403,9 +1403,9 @@
       "ID": "KR4_ACHIEVEMENT_ICESCULPTOR",
       "SetID": "caeik3h",
       "Name": "Ice sculptor",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 165
+      "UsersEstimate": 168
     },
     {
       "ID": "KR4_ACHIEVEMENT_INCREDIBLES",
@@ -1768,8 +1768,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2024-01-02T17:04:19.2831995+00:00",
+  "LastChanged_Achievements": "2024-01-02T18:04:04.2167768+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:04.1058747+00:00",
-  "LastUpdate_Ratings": "2024-01-02T17:01:23.2332118+00:00",
-  "LastUpdate_Achievements": "2024-01-02T17:04:19.2832782+00:00"
+  "LastUpdate_Ratings": "2024-01-02T18:01:32.6623092+00:00",
+  "LastUpdate_Achievements": "2024-01-02T18:04:04.2168381+00:00"
 }

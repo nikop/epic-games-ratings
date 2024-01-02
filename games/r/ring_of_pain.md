@@ -22,6 +22,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Not Touching You | 0.90% | ~33 |
 | Nothing To Lose | 0.80% | ~1,938 |
 | Delving Deeper | 0.80% | ~1,938 |
+| R.I.P | 0.80% | ~1,938 |
 | The Bestiary | 0.80% | ~1,938 |
 | Heartless | 0.80% | ~1,938 |
 | What's Yours Is Mine | 0.80% | ~1,938 |
@@ -30,7 +31,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Deflection | 0.80% | ~1,938 |
 | Sneaky | 0.80% | ~1,938 |
 | Ambitious Intent | 0.70% | ~1,696 |
-| R.I.P | 0.70% | ~1,696 |
 | Dig Your Own Grave | 0.70% | ~1,696 |
 | Walk It Off | 0.70% | ~1,696 |
 | Cold Hearted | 0.70% | ~1,696 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,234 (Ranked 72)  
+Progressed: 242,238 (Ranked 72)  
 Completed: 303 (0.13%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -402,7 +402,7 @@ Completed: 303 (0.13%) (Ranked 295)
 | 2023-12-30 | 242,061 | 302 |
 | 2023-12-31 | 242,129 | 302 |
 | 2024-01-01 | 242,196 | 302 |
-| 2024-01-02 | 242,234 | 303 |
+| 2024-01-02 | 242,238 | 303 |
 ## Awards
 Max (Quickly Understood Controls): 1,513  (Ranked 136)  
 Sum: 11,781 (Ranked 88)  

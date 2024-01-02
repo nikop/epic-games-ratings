@@ -2,10 +2,10 @@
   "ID": "7e305f850a5749b3b16599d737e500c8",
   "Name": "Boxville",
   "ProductSlug": "boxville-2b75d3",
-  "Ranking_EOS_Progress": 417,
-  "Ranking_EOS_Completed": 10,
+  "Ranking_EOS_Progress": 418,
+  "Ranking_EOS_Completed": 9,
   "Ranking_EOS_NewPlayers": 474,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
     "PcReleaseDate": "2022-09-30T08:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 230,
-  "EOS_Completed": 89,
+  "EOS_Completed": 90,
   "EOS_NewPlayers": 3,
-  "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 38.7,
+  "EOS_NewCompleters": 5,
+  "EOS_Completed_Percentage": 39.13,
   "EosHistory": [
     {
       "Time": "2023-05-08T15:02:14.2317541+00:00",
@@ -1364,6 +1364,11 @@
       "Time": "2024-01-02T15:08:30.7186245+00:00",
       "NumProgressed": 230,
       "NumCompleted": 89
+    },
+    {
+      "Time": "2024-01-02T18:08:42.1669132+00:00",
+      "NumProgressed": 230,
+      "NumCompleted": 90
     }
   ],
   "TotalAchievements": 18,
@@ -1373,9 +1378,9 @@
       "ID": "Best_friends_forever",
       "SetID": "b7i210",
       "Name": "Best friends forever",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 150,
-      "UsersEstimate": 101
+      "UsersEstimate": 104
     },
     {
       "ID": "Dreamkeeper",
@@ -1469,17 +1474,17 @@
       "ID": "Repair",
       "SetID": "b7i210",
       "Name": "Repair",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 108
+      "UsersEstimate": 110
     },
     {
       "ID": "Rusty",
       "SetID": "b7i210",
       "Name": "Rusty",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 108
+      "UsersEstimate": 110
     },
     {
       "ID": "Samaritan",
@@ -1519,13 +1524,13 @@
       "ID": "b7i210",
       "IsBase": true,
       "Progressed": 230,
-      "Completed": 89
+      "Completed": 90
     }
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2024-01-02T17:08:49.7893746+00:00",
+  "LastChanged_Achievements": "2024-01-02T18:08:42.1669125+00:00",
   "LastUpdate_AppInfo": "2024-01-02T09:56:59.9220991+00:00",
-  "LastUpdate_Ratings": "2024-01-02T16:59:54.8045633+00:00",
-  "LastUpdate_Achievements": "2024-01-02T17:08:49.7894191+00:00"
+  "LastUpdate_Ratings": "2024-01-02T18:00:01.6623283+00:00",
+  "LastUpdate_Achievements": "2024-01-02T18:08:42.1669364+00:00"
 }

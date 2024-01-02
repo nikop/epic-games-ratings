@@ -15,9 +15,9 @@ Number of Ratings: 45  (23.09.2022)
 | Gotta Ca... Must Collect All of Them | 5.00% | ~79 |
 | How Romantic! | 5.00% | ~79 |
 | War Endured | 4.00% | ~63 |
-| Completing the Look | 3.00% | ~47 |
-| Who's Counting? | 3.00% | ~47 |
-| Core Failure | 3.00% | ~47 |
+| Completing the Look | 3.00% | ~48 |
+| Who's Counting? | 3.00% | ~48 |
+| Core Failure | 3.00% | ~48 |
 | A Mythic Menagerie | 2.00% | ~32 |
 | Thematic Divergence | 2.00% | ~32 |
 | Pyrrhic Victory | 2.00% | ~32 |
@@ -34,15 +34,15 @@ Number of Ratings: 45  (23.09.2022)
 | No Time for Clawmonsters | 0.80% | ~13 |
 | Plague Doctor | 0.70% | ~11 |
 | Astrology | 0.70% | ~11 |
-| Storied Past | 0.60% | ~9 |
-| Worldwalker | 0.60% | ~9 |
-| Bonebreakers | 0.60% | ~9 |
-| A Hunger, Sated | 0.60% | ~9 |
-| Wingknight's Prowess | 0.60% | ~9 |
-| All My Birds, Safely Home | 0.60% | ~9 |
-| Bears are Scary | 0.60% | ~9 |
-| Into Mulch | 0.60% | ~9 |
-| Tempest | 0.60% | ~9 |
+| Storied Past | 0.60% | ~10 |
+| Worldwalker | 0.60% | ~10 |
+| Bonebreakers | 0.60% | ~10 |
+| A Hunger, Sated | 0.60% | ~10 |
+| Wingknight's Prowess | 0.60% | ~10 |
+| All My Birds, Safely Home | 0.60% | ~10 |
+| Bears are Scary | 0.60% | ~10 |
+| Into Mulch | 0.60% | ~10 |
+| Tempest | 0.60% | ~10 |
 | We Emerge Changed | 0.50% | ~8 |
 | Empty the Caves | 0.50% | ~8 |
 | No More Nightmares | 0.50% | ~8 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Peacemaker | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,583 (Ranked 260)  
+Progressed: 1,584 (Ranked 260)  
 Completed: 7 (0.44%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 7 (0.44%) (Ranked 229)
 | 2023-12-30 | 1,572 | 7 |
 | 2023-12-31 | 1,576 | 7 |
 | 2024-01-01 | 1,580 | 7 |
-| 2024-01-02 | 1,583 | 7 |
+| 2024-01-02 | 1,584 | 7 |
 ## Awards
 Max (Character Customization): 29  (Ranked 522)  
 Sum: 29 (Ranked 541)  

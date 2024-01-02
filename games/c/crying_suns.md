@@ -1,18 +1,18 @@
 # Crying Suns
 [Store](https://store.epicgames.com/en-US/p/crying-suns)  
 [View Rawdata](../../db/c/crying_suns.json)  
-Rating: 4.50 (Ranked 612)  
+Rating: 4.50 (Ranked 611)  
 Number of Ratings: 1,003  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~312,338 |
-| Jeef Skeejj | 44.00% | ~208,225 |
-| Careful planning | 39.00% | ~184,563 |
-| Second Coming | 34.00% | ~160,901 |
-| Jeef Skagg | 30.00% | ~141,972 |
+| The Shutdown | 66.00% | ~312,340 |
+| Jeef Skeejj | 44.00% | ~208,226 |
+| Careful planning | 39.00% | ~184,564 |
+| Second Coming | 34.00% | ~160,902 |
+| Jeef Skagg | 30.00% | ~141,973 |
 | Mother | 25.00% | ~118,310 |
-| In space, no one can hear you scream | 24.00% | ~113,577 |
+| In space, no one can hear you scream | 24.00% | ~113,578 |
 | Chapter I: Echoes | 22.00% | ~104,113 |
 | Excelsior Rule | 22.00% | ~104,113 |
 | Things persisted in not being what they seemed | 20.00% | ~94,648 |
@@ -21,7 +21,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Chapter II: Fallible Flesh | 15.00% | ~70,986 |
 | Pope Zenon | 15.00% | ~70,986 |
 | Plan for the worst | 12.00% | ~56,789 |
-| Tetsuo | 11.00% | ~52,056 |
+| Tetsuo | 11.00% | ~52,057 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~47,324 |
 | Chapter IV: Through the Looking Glass | 8.00% | ~37,859 |
 | Through the mirror | 8.00% | ~37,859 |
@@ -31,20 +31,20 @@ Number of Ratings: 1,003  (23.09.2022)
 | Admiral Okonkwo | 7.00% | ~33,127 |
 | The Survivalists | 7.00% | ~33,127 |
 | The Tech Specialist | 7.00% | ~33,127 |
-| Chapter V: Memories of None | 6.00% | ~28,394 |
-| Meet your maker | 6.00% | ~28,394 |
-| The Impersonator | 6.00% | ~28,394 |
-| The Kid | 6.00% | ~28,394 |
-| The Evangelist | 6.00% | ~28,394 |
-| The Inquisitor | 6.00% | ~28,394 |
-| The Ace Pilot | 6.00% | ~28,394 |
-| The Tech Med | 6.00% | ~28,394 |
-| The Mech Soldier | 6.00% | ~28,394 |
-| The lucky charm | 6.00% | ~28,394 |
-| The Anonymous | 6.00% | ~28,394 |
-| The Smuggler | 6.00% | ~28,394 |
-| The Crazy Repairman | 6.00% | ~28,394 |
-| The Weasel | 6.00% | ~28,394 |
+| Chapter V: Memories of None | 6.00% | ~28,395 |
+| Meet your maker | 6.00% | ~28,395 |
+| The Impersonator | 6.00% | ~28,395 |
+| The Kid | 6.00% | ~28,395 |
+| The Evangelist | 6.00% | ~28,395 |
+| The Inquisitor | 6.00% | ~28,395 |
+| The Ace Pilot | 6.00% | ~28,395 |
+| The Tech Med | 6.00% | ~28,395 |
+| The Mech Soldier | 6.00% | ~28,395 |
+| The lucky charm | 6.00% | ~28,395 |
+| The Anonymous | 6.00% | ~28,395 |
+| The Smuggler | 6.00% | ~28,395 |
+| The Crazy Repairman | 6.00% | ~28,395 |
+| The Weasel | 6.00% | ~28,395 |
 | Kill the Doctor | 5.00% | ~23,662 |
 | Forsaken | 5.00% | ~23,662 |
 | Mercy | 5.00% | ~23,662 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~17 |
 | Kronos Rule | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 473,239 (Ranked 45)  
+Progressed: 473,242 (Ranked 45)  
 Completed: 21 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -343,7 +343,7 @@ Completed: 21 (0.00%) (Ranked 390)
 | 2023-12-30 | 473,076 | 21 |
 | 2023-12-31 | 473,142 | 21 |
 | 2024-01-01 | 473,201 | 21 |
-| 2024-01-02 | 473,239 | 21 |
+| 2024-01-02 | 473,242 | 21 |
 ## Awards
 Max (Character Customization): 228  (Ranked 284)  
 Sum: 252 (Ranked 397)  

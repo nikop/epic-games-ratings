@@ -2,12 +2,12 @@
   "ID": "impala",
   "Name": "The Division 2 Standard Edition",
   "ProductSlug": "the-division-2",
-  "Ranking_Rating": 634,
+  "Ranking_Rating": 632,
   "Ranking_Popularity": 45,
   "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2019-03-15T15:00:00+00:00",
@@ -14376,6 +14376,6 @@
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
   "LastChanged": "2024-01-02T16:59:10.262268+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:41.6621186+00:00",
-  "LastUpdate_Ratings": "2024-01-02T16:59:10.2622686+00:00",
-  "LastUpdate_Achievements": "2024-01-02T17:04:55.1429904+00:00"
+  "LastUpdate_Ratings": "2024-01-02T17:59:20.7595022+00:00",
+  "LastUpdate_Achievements": "2024-01-02T18:04:39.7667473+00:00"
 }

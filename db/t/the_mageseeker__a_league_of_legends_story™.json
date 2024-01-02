@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -171,7 +171,7 @@
   "Tags": [],
   "EOS_Progressed": 3230,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -5766,9 +5766,9 @@
       "ID": "STB_COLISSEUM_FIRST",
       "SetID": "3pe2bac",
       "Name": "Whispers in the Woods I",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 872
+      "UsersEstimate": 904
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -6030,9 +6030,9 @@
       "ID": "STB_MISSION6_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Terbisia",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 581
+      "UsersEstimate": 614
     },
     {
       "ID": "STB_MISSION7_COMPLETED",
@@ -6191,8 +6191,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-30T20:57:35.994685+00:00",
-  "LastChanged_Achievements": "2024-01-02T17:07:07.973626+00:00",
+  "LastChanged_Achievements": "2024-01-02T18:07:01.7878126+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:16.0545663+00:00",
-  "LastUpdate_Ratings": "2024-01-02T16:59:18.5082758+00:00",
-  "LastUpdate_Achievements": "2024-01-02T17:07:07.9736913+00:00"
+  "LastUpdate_Ratings": "2024-01-02T17:59:27.5834204+00:00",
+  "LastUpdate_Achievements": "2024-01-02T18:07:01.7878724+00:00"
 }

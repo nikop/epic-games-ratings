@@ -4,8 +4,8 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 362,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 508,
+  "EOS_Progressed": 509,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -1437,6 +1437,11 @@
       "Time": "2024-01-02T17:06:12.1809664+00:00",
       "NumProgressed": 508,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-02T18:05:56.129848+00:00",
+      "NumProgressed": 509,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1497,7 +1502,7 @@
       "Name": "Easy Prey",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "FIRST_ACCEL_COMBO",
@@ -1553,15 +1558,15 @@
       "Name": "Unknown Threat",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "FIRST_POWER_BOOST",
       "SetID": "apihg0e",
       "Name": "Speed Demon",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 234
     },
     {
       "ID": "FIRST_S_RANK",
@@ -1569,7 +1574,7 @@
       "Name": "Superior Ranking",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -1585,7 +1590,7 @@
       "Name": "Angler\u0027s Club",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "KODAMA_REACH_NUM",
@@ -1593,7 +1598,7 @@
       "Name": "Koco Leader",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "MAIN_CLEAR_ISLAND1",
@@ -1625,7 +1630,7 @@
       "Name": "Hope Across Ages",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "MAIN_CLEAR_LAST",
@@ -1633,7 +1638,7 @@
       "Name": "A Land at Peace",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "MAIN_CLEAR_TUTORIAL",
@@ -1641,7 +1646,7 @@
       "Name": "The Journey Begins",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -1697,7 +1702,7 @@
       "Name": "Hearty Hedgehog",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "SKILL_ALL_OBTAINED",
@@ -1713,7 +1718,7 @@
       "Name": "Hypersonic Hedgehog",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "SUB_CLEAR_ALL",
@@ -1761,21 +1766,21 @@
       "Name": "Swath of Destruction",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     }
   ],
   "AchievementSets": [
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 508,
+      "Progressed": 509,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2024-01-02T17:06:12.1809661+00:00",
+  "LastChanged_Achievements": "2024-01-02T18:05:56.1298475+00:00",
   "LastUpdate_AppInfo": "2023-12-26T20:57:07.4525805+00:00",
-  "LastUpdate_Ratings": "2024-01-02T17:03:30.3683786+00:00",
-  "LastUpdate_Achievements": "2024-01-02T17:06:12.1809938+00:00"
+  "LastUpdate_Ratings": "2024-01-02T18:03:35.6747376+00:00",
+  "LastUpdate_Achievements": "2024-01-02T18:05:56.12988+00:00"
 }

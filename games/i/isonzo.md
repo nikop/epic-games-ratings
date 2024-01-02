@@ -13,7 +13,7 @@ Number of Ratings: 98  (23.09.2022)
 | Mamma Mia! | 35.00% | ~3,406 |
 | Conrad von Hotzensocks | 32.00% | ~3,114 |
 | Gabriele D'Annunzio | 32.00% | ~3,114 |
-| Silver Lining | 27.00% | ~2,627 |
+| Silver Lining | 27.00% | ~2,628 |
 | Aurelio Baruzzi | 20.00% | ~1,946 |
 | Decimation | 20.00% | ~1,946 |
 | Donatello | 19.00% | ~1,849 |
@@ -27,14 +27,14 @@ Number of Ratings: 98  (23.09.2022)
 | Die Bosniaken Kommen! | 12.00% | ~1,168 |
 | Dirty Dozen | 12.00% | ~1,168 |
 | Shaken, Not Stirred | 12.00% | ~1,168 |
-| Machiavelli | 11.00% | ~1,070 |
+| Machiavelli | 11.00% | ~1,071 |
 | The Devil's Paintbrush | 10.00% | ~973 |
 | Thus With A Kiss | 10.00% | ~973 |
 | Dante's Inferno | 9.00% | ~876 |
 | I Have the High Ground | 9.00% | ~876 |
 | Millenial | 9.00% | ~876 |
-| The Show Must Go On | 8.00% | ~778 |
-| Tosca | 8.00% | ~778 |
+| The Show Must Go On | 8.00% | ~779 |
+| Tosca | 8.00% | ~779 |
 | 12th Bottle of the Isonzo | 6.00% | ~584 |
 | The Enlightment | 6.00% | ~584 |
 | Cercatore d'Oro | 5.00% | ~487 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~39 |
 | Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,731 (Ranked 181)  
+Progressed: 9,732 (Ranked 181)  
 Completed: 10 (0.10%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,17 +303,17 @@ Completed: 10 (0.10%) (Ranked 304)
 | 2023-12-30 | 9,691 | 10 |
 | 2023-12-31 | 9,706 | 10 |
 | 2024-01-01 | 9,726 | 10 |
-| 2024-01-02 | 9,731 | 10 |
+| 2024-01-02 | 9,732 | 10 |
 ## Awards
 Max (Diverse Characters): 41  (Ranked 474)  
-Sum: 335 (Ranked 369)  
+Sum: 336 (Ranked 369)  
 Diff (max vs sum): 105  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 41 |
 | This game is Highly Recommended | 38 |
+| This game has Realistic Visuals | 37 |
 | This game is Extremely Fun | 36 |
-| This game has Realistic Visuals | 36 |
 | This game has Challenging Combat | 34 |
 | This game has Amazing Characters | 34 |
 | This game is Educational | 32 |
@@ -465,3 +465,4 @@ Diff (max vs sum): 105
 | 2023-12-27 | 4.58 | - | 41 | 333 |
 | 2023-12-29 | 4.58 | - | 41 | 334 |
 | 2023-12-30 | 4.58 | - | 41 | 335 |
+| 2024-01-02 | 4.58 | - | 41 | 336 |

@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 87.00% | ~2,173 |
-| Off to a good start | 62.00% | ~1,549 |
-| Do... or do not. There is no try | 52.00% | ~1,299 |
-| A good blaster at your side | 25.00% | ~624 |
-| I suggest a new strategy | 18.00% | ~450 |
-| Great shot, kid! | 16.00% | ~400 |
-| Scrap collector | 15.00% | ~375 |
-| All right, I'll give it a try | 15.00% | ~375 |
-| Shoot first | 13.00% | ~325 |
+| New Recruit | 87.00% | ~2,178 |
+| Off to a good start | 62.00% | ~1,552 |
+| Do... or do not. There is no try | 52.00% | ~1,302 |
+| A good blaster at your side | 25.00% | ~626 |
+| I suggest a new strategy | 18.00% | ~451 |
+| Great shot, kid! | 16.00% | ~401 |
+| Scrap collector | 15.00% | ~376 |
+| All right, I'll give it a try | 15.00% | ~376 |
+| Shoot first | 13.00% | ~326 |
 | The power of the Force | 12.00% | ~300 |
 | Collector | 12.00% | ~300 |
 | Together we can rule the galaxy | 12.00% | ~300 |
@@ -49,26 +49,26 @@
 | Onwards! | 1.00% | ~25 |
 | The circle is now complete | 1.00% | ~25 |
 | Disturbed tranquility | 1.00% | ~25 |
-| Playing the objective | 0.90% | ~22 |
+| Playing the objective | 0.90% | ~23 |
 | Walker defender | 0.80% | ~20 |
 | You have your moments | 0.80% | ~20 |
-| When surrounded by war... | 0.70% | ~17 |
+| When surrounded by war... | 0.70% | ~18 |
 | A New Hope | 0.60% | ~15 |
 | No such thing as luck | 0.60% | ~15 |
 | Stop that Droid | 0.60% | ~15 |
-| Do we take prisoners? | 0.50% | ~12 |
-| I’ll take that bet | 0.50% | ~12 |
+| Do we take prisoners? | 0.50% | ~13 |
+| I’ll take that bet | 0.50% | ~13 |
 | Stay on target | 0.40% | ~10 |
-| Greed can be a very powerful ally | 0.30% | ~7 |
+| Greed can be a very powerful ally | 0.30% | ~8 |
 | That got him! | 0.20% | ~5 |
 | in a galaxy far, far away.... | 0.20% | ~5 |
 | Don't get cocky | 0.20% | ~5 |
 | Master | 0.20% | ~5 |
 | Stay in attack formation | 0.20% | ~5 |
-| I never doubted you! | 0.10% | ~2 |
-| Crush them with one swift stroke… | 0.10% | ~2 |
+| I never doubted you! | 0.10% | ~3 |
+| Crush them with one swift stroke… | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,498 (Ranked 232)  
+Progressed: 2,504 (Ranked 232)  
 Completed: 1 (0.04%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 1 (0.04%) (Ranked 344)
 | 2023-12-30 | 2,388 | 1 |
 | 2023-12-31 | 2,425 | 1 |
 | 2024-01-01 | 2,461 | 1 |
-| 2024-01-02 | 2,498 | 1 |
+| 2024-01-02 | 2,504 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

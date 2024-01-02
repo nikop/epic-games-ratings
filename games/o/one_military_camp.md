@@ -7,21 +7,21 @@
 | First Step | 52.00% | ~139 |
 | The 4 Pillars | 49.00% | ~131 |
 | Capitalism | 20.00% | ~53 |
+| Green Energy | 12.00% | ~32 |
 | There's something in those trees | 11.00% | ~29 |
-| Green Energy | 11.00% | ~29 |
+| Great Producer | 11.00% | ~29 |
 | Desert Power | 10.00% | ~27 |
 | Indebted | 10.00% | ~27 |
-| Great Producer | 10.00% | ~27 |
 | Health Care | 9.00% | ~24 |
 | Perfect Soldier | 8.00% | ~21 |
 | Desert Rat | 8.00% | ~21 |
 | Healing | 7.00% | ~19 |
+| Food Tycoon | 7.00% | ~19 |
+| Fuel Tycoon | 7.00% | ~19 |
 | Ammo Tycoon | 7.00% | ~19 |
 | Good payer | 6.00% | ~16 |
 | Pathfinder | 6.00% | ~16 |
 | Self-sufficient | 6.00% | ~16 |
-| Food Tycoon | 6.00% | ~16 |
-| Fuel Tycoon | 6.00% | ~16 |
 | Jantine: the Misfortunes of Evil | 5.00% | ~13 |
 | Outdoor Decorator | 4.00% | ~11 |
 | Overpopulation | 4.00% | ~11 |

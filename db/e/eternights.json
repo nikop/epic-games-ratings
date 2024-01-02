@@ -2,12 +2,12 @@
   "ID": "0bb1bf6df5784815a0c62120f8a82b25",
   "Name": "Eternights",
   "ProductSlug": "eternights-c2fbca",
-  "Ranking_Rating": 132,
+  "Ranking_Rating": 131,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
-  "Ranking_EOS_Progress": 311,
+  "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -41,7 +41,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 739,
+  "EOS_Progressed": 740,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
@@ -2741,6 +2741,11 @@
       "Time": "2024-01-02T16:08:58.9725127+00:00",
       "NumProgressed": 739,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-02T18:09:53.2999298+00:00",
+      "NumProgressed": 740,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -2753,7 +2758,7 @@
       "Name": "New arm",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -2825,7 +2830,7 @@
       "Name": "Romantic",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ACHIEVEMENT_1_ShelterEscape",
@@ -2833,7 +2838,7 @@
       "Name": "Shelter Escape",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -2889,7 +2894,7 @@
       "Name": "The First Bond",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
@@ -2921,15 +2926,15 @@
       "Name": "Piggyback Expert",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "ACHIEVEMENT_7_SecondWall",
       "SetID": "9bke6f1",
       "Name": "Second wall",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 236
+      "UsersEstimate": 244
     },
     {
       "ID": "ACHIEVEMENT_8_StoneRetriever",
@@ -2952,7 +2957,7 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 739,
+      "Progressed": 740,
       "Completed": 2
     }
   ],
@@ -2960,8 +2965,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2023-12-31T15:57:10.2736309+00:00",
-  "LastChanged_Achievements": "2024-01-02T17:10:01.0757587+00:00",
+  "LastChanged_Achievements": "2024-01-02T18:09:53.2999293+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.2091482+00:00",
-  "LastUpdate_Ratings": "2024-01-02T16:59:14.0559691+00:00",
-  "LastUpdate_Achievements": "2024-01-02T17:10:01.0758246+00:00"
+  "LastUpdate_Ratings": "2024-01-02T17:59:23.7557341+00:00",
+  "LastUpdate_Achievements": "2024-01-02T18:09:53.299983+00:00"
 }

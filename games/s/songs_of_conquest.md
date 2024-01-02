@@ -1,7 +1,7 @@
 # Songs of Conquest
 [Store](https://store.epicgames.com/en-US/p/songs-of-conquest)  
 [View Rawdata](../../db/s/songs_of_conquest.json)  
-Rating: 4.69 (Ranked 234)  
+Rating: 4.69 (Ranked 233)  
 Number of Ratings: 292  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,8 +11,8 @@ Number of Ratings: 292  (23.09.2022)
 | Critical Hit | 22.00% | ~206 |
 | Veteran | 22.00% | ~206 |
 | Dressed For Success | 15.00% | ~141 |
+| Veni, Vidi, Vici | 10.00% | ~94 |
 | Humiliation | 9.00% | ~84 |
-| Veni, Vidi, Vici | 9.00% | ~84 |
 | Multi Kill | 8.00% | ~75 |
 | Sorcerous Spree | 8.00% | ~75 |
 | Landlord Extraordinaire | 7.00% | ~66 |
@@ -20,7 +20,7 @@ Number of Ratings: 292  (23.09.2022)
 | Whoops! | 6.00% | ~56 |
 | The Song of Stoutheart | 5.00% | ~47 |
 | Don't Touch My Stuff | 5.00% | ~47 |
-| Trojan Horse | 4.00% | ~37 |
+| Trojan Horse | 4.00% | ~38 |
 | Expert Essence Employment | 3.00% | ~28 |
 | Venisti, Vidisti, Perdidisti | 3.00% | ~28 |
 | This Spot's Taken | 2.00% | ~19 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 937 (Ranked 291)  
+Progressed: 938 (Ranked 291)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-30 | 871 | 0 |
 | 2023-12-31 | 895 | 0 |
 | 2024-01-01 | 923 | 0 |
-| 2024-01-02 | 937 | 0 |
+| 2024-01-02 | 938 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 29  (Ranked 522)  
 Sum: 251 (Ranked 399)  

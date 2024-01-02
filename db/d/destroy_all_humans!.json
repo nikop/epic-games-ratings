@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 396,
   "Ranking_EOS_Completed": 141,
   "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -305,7 +305,7 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 287,
+  "EOS_Progressed": 288,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 4,
@@ -1270,6 +1270,11 @@
       "Time": "2024-01-02T17:09:03.5220863+00:00",
       "NumProgressed": 287,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-02T18:08:55.9263972+00:00",
+      "NumProgressed": 288,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -1306,7 +1311,7 @@
       "Name": "Deincarnated",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACH_ABILITY_PKBURNINGINTOHUMAN",
@@ -1322,7 +1327,7 @@
       "Name": "Yettisoned",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACH_ABILITY_PKHUMANINTOOCEAN",
@@ -1338,7 +1343,7 @@
       "Name": "Forbidden Donut",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ACH_ABILITY_SCANINHOLOBOB",
@@ -1346,7 +1351,7 @@
       "Name": "I Look Up As I Walk to Takoshima",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACH_ABILITY_SMASHBUTTON",
@@ -1362,7 +1367,7 @@
       "Name": "Freshly Squeezed",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ACH_ABILITY_WITHWEAPON",
@@ -1394,7 +1399,7 @@
       "Name": "To Russia With Love",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_CHALLENGE_RACETHREESTAR",
@@ -1442,7 +1447,7 @@
       "Name": "Kaijuiced",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_COLLECT_PROBE",
@@ -1450,7 +1455,7 @@
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "ACH_COMBAT_EVADEBAZOOKA",
@@ -1482,7 +1487,7 @@
       "Name": "Lobster Blisque",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_ENEMY_SILHOUETTE",
@@ -1514,7 +1519,7 @@
       "Name": "Pimp My Raid",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ACH_INVADE_SANTAMODESTA",
@@ -1552,9 +1557,9 @@
       "ID": "ACH_MENU_FURONIGAMI",
       "SetID": "cefn62b",
       "Name": "Bodied Sattva",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 101
     },
     {
       "ID": "ACH_OBJECTIVES_COMPLETEDALLOPTIONAL",
@@ -1586,7 +1591,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_UPGRADE_TOPTIER",
@@ -1601,15 +1606,15 @@
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 287,
+      "Progressed": 288,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2024-01-02T13:57:49.2378657+00:00",
-  "LastChanged_Achievements": "2024-01-02T17:09:03.522086+00:00",
+  "LastChanged_Achievements": "2024-01-02T18:08:55.9263969+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:06.6677344+00:00",
-  "LastUpdate_Ratings": "2024-01-02T16:57:48.5090114+00:00",
-  "LastUpdate_Achievements": "2024-01-02T17:09:03.5221219+00:00"
+  "LastUpdate_Ratings": "2024-01-02T17:58:02.736945+00:00",
+  "LastUpdate_Achievements": "2024-01-02T18:08:55.9264347+00:00"
 }

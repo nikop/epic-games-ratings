@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 3580,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 484,
+  "EOS_NewPlayers": 478,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -7718,9 +7718,9 @@
       "ID": "achievement_70",
       "SetID": "d252ncf",
       "Name": "Operative",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 967
+      "UsersEstimate": 1002
     },
     {
       "ID": "achievement_71",
@@ -7986,8 +7986,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-02T17:11:32.3228695+00:00",
+  "LastChanged_Achievements": "2024-01-02T18:11:22.8881258+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:34.6542278+00:00",
-  "LastUpdate_Ratings": "2024-01-02T17:03:41.9288219+00:00",
-  "LastUpdate_Achievements": "2024-01-02T17:11:32.3230899+00:00"
+  "LastUpdate_Ratings": "2024-01-02T18:03:47.411733+00:00",
+  "LastUpdate_Achievements": "2024-01-02T18:11:22.8883152+00:00"
 }

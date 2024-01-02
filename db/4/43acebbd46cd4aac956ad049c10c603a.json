@@ -265,9 +265,9 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 1237,
+  "EOS_Progressed": 1238,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3440,6 +3440,11 @@
       "Time": "2024-01-02T17:04:36.8158357+00:00",
       "NumProgressed": 1237,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-02T18:04:21.5936697+00:00",
+      "NumProgressed": 1238,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3476,7 +3481,7 @@
       "Name": "Archaeologist",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "Balance",
@@ -3546,9 +3551,9 @@
       "ID": "Discovery",
       "SetID": "1n308hc",
       "Name": "Discovery",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 297
+      "UsersEstimate": 310
     },
     {
       "ID": "EasternWetlands",
@@ -3604,7 +3609,7 @@
       "Name": "Grasslands Ring",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "HighPlain",
@@ -3620,7 +3625,7 @@
       "Name": "Into the Machine",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "JustOneLap",
@@ -3636,7 +3641,7 @@
       "Name": "Lord of the Files",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "LostMarshes",
@@ -3644,7 +3649,7 @@
       "Name": "Lost Marshes",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "MistressOfRiddles",
@@ -3652,7 +3657,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "Mnemosyne",
@@ -3660,7 +3665,7 @@
       "Name": "Mnemosyne",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "MuseumExplorer",
@@ -3724,7 +3729,7 @@
       "Name": "Prometheus Unbound",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "PuzzleFiend",
@@ -3820,7 +3825,7 @@
       "Name": "The Edge of Forever",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "TheFuture",
@@ -3828,7 +3833,7 @@
       "Name": "The Future",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "TheHardWay",
@@ -3892,7 +3897,7 @@
       "Name": "Wanderers",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "WesternDelta",
@@ -3923,7 +3928,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1237,
+      "Progressed": 1238,
       "Completed": 2
     }
   ],
@@ -3931,8 +3936,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-01T16:59:26.0585046+00:00",
-  "LastChanged_Achievements": "2024-01-02T17:04:36.8158354+00:00",
+  "LastChanged_Achievements": "2024-01-02T18:04:21.5936693+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.9244138+00:00",
-  "LastUpdate_Ratings": "2024-01-02T17:00:24.5608883+00:00",
-  "LastUpdate_Achievements": "2024-01-02T17:04:36.8158903+00:00"
+  "LastUpdate_Ratings": "2024-01-02T18:00:32.9667036+00:00",
+  "LastUpdate_Achievements": "2024-01-02T18:04:21.5937266+00:00"
 }
