@@ -6,8 +6,8 @@ Rating: 4.65 (Ranked 321)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 43.00% | ~513 |
+| Rail Rat | 33.00% | ~394 |
 | The Mysterious Stranger | 32.00% | ~382 |
-| Rail Rat | 32.00% | ~382 |
 | Immaculate Aim | 27.00% | ~322 |
 | The Brass Boss | 26.00% | ~310 |
 | Make Up For Lost Time | 25.00% | ~298 |
@@ -31,8 +31,8 @@ Rating: 4.65 (Ranked 321)
 | The Man Who Shattered Time | 18.00% | ~215 |
 | The Family Fortune | 18.00% | ~215 |
 | Whiz Kid | 15.00% | ~179 |
+| Family Memories | 14.00% | ~167 |
 | Good Neighbor | 14.00% | ~167 |
-| Family Memories | 13.00% | ~155 |
 | Cartographer | 13.00% | ~155 |
 | Ask Questions Later | 13.00% | ~155 |
 | Chaincrawler Explorer | 12.00% | ~143 |

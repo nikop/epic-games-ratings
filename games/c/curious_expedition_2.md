@@ -19,7 +19,7 @@ Number of Ratings: 20  (23.09.2022)
 | Good Mama | 33.00% | ~129 |
 | O Captain My Captain | 32.00% | ~125 |
 | Plunderer | 31.00% | ~122 |
-| Taxonomist | 28.00% | ~110 |
+| Taxonomist | 29.00% | ~114 |
 | Traveller | 26.00% | ~102 |
 | Uncertain Loyalties | 26.00% | ~102 |
 | Nahua Seeker | 24.00% | ~94 |
@@ -68,7 +68,7 @@ Number of Ratings: 20  (23.09.2022)
 | Now I've Seen It All | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 392 (Ranked 363)  
-Completed: 1 (0.26%) (Ranked 261)  
+Completed: 1 (0.26%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

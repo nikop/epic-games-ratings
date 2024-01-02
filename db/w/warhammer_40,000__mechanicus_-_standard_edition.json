@@ -982,10 +982,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 2221,
       "NumberOfAwardsMax": 291
+    },
+    {
+      "Time": "2024-01-02T09:00:26.6320974+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 2222,
+      "NumberOfAwardsMax": 291
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2221,
+  "NumberOfAwards": 2222,
   "NumberOfAwardsMax": 291,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1017,7 +1023,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 275
+      "Count": 276
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1050,9 +1056,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 231145,
+  "EOS_Progressed": 231148,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 654,
+  "EOS_NewPlayers": 656,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29220,6 +29226,11 @@
       "Time": "2024-01-02T08:09:50.5234363+00:00",
       "NumProgressed": 231145,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-02T09:09:57.0224934+00:00",
+      "NumProgressed": 231148,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -29231,7 +29242,7 @@
       "Name": "This is only the beginning",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 46229
+      "UsersEstimate": 46230
     },
     {
       "ID": "ACH_BASE_10",
@@ -29279,7 +29290,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23114
+      "UsersEstimate": 23115
     },
     {
       "ID": "ACH_BASE_17",
@@ -29295,7 +29306,7 @@
       "Name": "Radium Ready",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23114
+      "UsersEstimate": 23115
     },
     {
       "ID": "ACH_BASE_19",
@@ -29502,16 +29513,16 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 231145,
+      "Progressed": 231148,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-08-11T20:31:05.9094892+00:00",
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
-  "LastChanged": "2023-12-28T22:58:51.4033804+00:00",
-  "LastChanged_Achievements": "2024-01-02T08:09:50.5234362+00:00",
+  "LastChanged": "2024-01-02T09:00:26.6320972+00:00",
+  "LastChanged_Achievements": "2024-01-02T09:09:57.0224932+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:45.3371168+00:00",
-  "LastUpdate_Ratings": "2024-01-02T08:00:15.676457+00:00",
-  "LastUpdate_Achievements": "2024-01-02T08:09:50.5235973+00:00"
+  "LastUpdate_Ratings": "2024-01-02T09:00:26.6320978+00:00",
+  "LastUpdate_Achievements": "2024-01-02T09:09:57.022651+00:00"
 }

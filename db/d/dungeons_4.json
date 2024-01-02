@@ -2247,9 +2247,9 @@
       "ID": "ach_main05evil_thalyalevel",
       "SetID": "4hg22ll",
       "Name": "Experienced Thalya",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 491
+      "UsersEstimate": 498
     },
     {
       "ID": "ach_main05evil_unicorn",
@@ -2640,8 +2640,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-01T22:59:34.2453487+00:00",
-  "LastChanged_Achievements": "2024-01-02T08:08:52.7139016+00:00",
+  "LastChanged_Achievements": "2024-01-02T09:09:00.2634611+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:16.0613697+00:00",
-  "LastUpdate_Ratings": "2024-01-02T07:58:51.5691448+00:00",
-  "LastUpdate_Achievements": "2024-01-02T08:08:52.7139671+00:00"
+  "LastUpdate_Ratings": "2024-01-02T08:58:59.6926474+00:00",
+  "LastUpdate_Achievements": "2024-01-02T09:09:00.2635296+00:00"
 }

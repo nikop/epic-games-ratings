@@ -10422,9 +10422,9 @@
       "Count": 1074
     }
   ],
-  "EOS_Progressed": 131253,
+  "EOS_Progressed": 131257,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1337,
+  "EOS_NewPlayers": 1331,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37947,6 +37947,11 @@
       "Time": "2024-01-02T08:09:30.1422252+00:00",
       "NumProgressed": 131253,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-02T09:09:36.3472941+00:00",
+      "NumProgressed": 131257,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38478,7 +38483,7 @@
       "Name": "Battle Hardened",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "altar_of_hope_memory_equip_all_duelist",
@@ -38502,7 +38507,7 @@
       "Name": "This guy... again?",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -38556,9 +38561,9 @@
       "ID": "quest_complete_crusader",
       "SetID": "d3bcpc8",
       "Name": "Lost and Found",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 429
+      "UsersEstimate": 490
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -38589,21 +38594,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131253,
+      "Progressed": 131257,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6122,
+      "Progressed": 6126,
       "Completed": 820
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-02T05:58:27.833708+00:00",
-  "LastChanged_Achievements": "2024-01-02T08:09:30.1422249+00:00",
+  "LastChanged_Achievements": "2024-01-02T09:09:36.3472939+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-02T07:58:26.1933279+00:00",
-  "LastUpdate_Achievements": "2024-01-02T08:09:30.1424445+00:00"
+  "LastUpdate_Ratings": "2024-01-02T08:58:32.923511+00:00",
+  "LastUpdate_Achievements": "2024-01-02T09:09:36.3474543+00:00"
 }

@@ -6,16 +6,16 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~26,807 |
-| A thief's beginning | 11.00% | ~24,573 |
-| Thorough | 11.00% | ~24,573 |
-| Disguised | 9.00% | ~20,106 |
-| Rescue Takuma | 9.00% | ~20,106 |
-| Rollin' | 9.00% | ~20,106 |
-| Tanuki Time | 9.00% | ~20,106 |
-| Ice Ice Yuki | 8.00% | ~17,872 |
-| Stoned Ox | 8.00% | ~17,872 |
-| Yabu | 8.00% | ~17,872 |
+| Genin | 12.00% | ~26,809 |
+| A thief's beginning | 11.00% | ~24,575 |
+| Thorough | 11.00% | ~24,575 |
+| Disguised | 9.00% | ~20,107 |
+| Rescue Takuma | 9.00% | ~20,107 |
+| Rollin' | 9.00% | ~20,107 |
+| Tanuki Time | 9.00% | ~20,107 |
+| Ice Ice Yuki | 8.00% | ~17,873 |
+| Stoned Ox | 8.00% | ~17,873 |
+| Yabu | 8.00% | ~17,873 |
 | Happy Planning | 7.00% | ~15,638 |
 | Jonin | 7.00% | ~15,638 |
 | Mugen Unchained | 7.00% | ~15,638 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~223 |
 | Release the Kraken | 0.10% | ~223 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,395 (Ranked 78)  
+Progressed: 223,407 (Ranked 78)  
 Completed: 102 (0.05%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,15 +308,15 @@ Completed: 102 (0.05%) (Ranked 333)
 | 2023-12-30 | 222,839 | 102 |
 | 2023-12-31 | 223,091 | 102 |
 | 2024-01-01 | 223,336 | 102 |
-| 2024-01-02 | 223,395 | 102 |
+| 2024-01-02 | 223,407 | 102 |
 ## Awards
-Max (Great for Beginners): 591  (Ranked 208)  
-Sum: 4,937 (Ranked 147)  
-Diff (max vs sum): 61  
+Max (Great for Beginners): 592  (Ranked 207)  
+Sum: 4,939 (Ranked 147)  
+Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 591 |
-| This game has Diverse Characters | 549 |
+| This game is Great for Beginners | 592 |
+| This game has Diverse Characters | 550 |
 | This game is Extremely Fun | 541 |
 | This game has Amazing Storytelling | 522 |
 | This game has Amazing Characters | 508 |
@@ -576,3 +576,4 @@ Diff (max vs sum): 61
 | 2023-12-28 | 4.66 | - | 589 | 4,932 |
 | 2023-12-30 | 4.67 | - | 590 | 4,936 |
 | 2023-12-31 | 4.66 | - | 591 | 4,937 |
+| 2024-01-02 | 4.66 | - | 592 | 4,939 |

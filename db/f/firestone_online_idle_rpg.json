@@ -703,9 +703,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4084,
+  "EOS_Progressed": 4085,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 261,
+  "EOS_NewPlayers": 260,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -11523,6 +11523,11 @@
       "Time": "2024-01-02T07:06:25.3005296+00:00",
       "NumProgressed": 4084,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-02T09:06:24.1132979+00:00",
+      "NumProgressed": 4085,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -11652,9 +11657,9 @@
       "ID": "dragonslayer",
       "SetID": "3nl4bcg",
       "Name": "Dragon Slayer",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 245
     },
     {
       "ID": "ebonyjungleliberator",
@@ -11710,7 +11715,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "fellowshippower",
@@ -11718,7 +11723,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1715
+      "UsersEstimate": 1716
     },
     {
       "ID": "fourleafclover",
@@ -11766,7 +11771,7 @@
       "Name": "Guild Power",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     },
     {
       "ID": "herewegoagain",
@@ -11990,7 +11995,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2287
+      "UsersEstimate": 2288
     },
     {
       "ID": "thealchemist",
@@ -12094,7 +12099,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 3798
+      "UsersEstimate": 3799
     },
     {
       "ID": "warmachinesarmy",
@@ -12133,7 +12138,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4084,
+      "Progressed": 4085,
       "Completed": 2
     }
   ],
@@ -12141,8 +12146,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-01T19:02:04.1949352+00:00",
-  "LastChanged_Achievements": "2024-01-02T08:06:05.5328269+00:00",
+  "LastChanged_Achievements": "2024-01-02T09:06:24.1132976+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:50.7213096+00:00",
   "LastUpdate_Ratings": "2024-01-02T08:00:22.9815084+00:00",
-  "LastUpdate_Achievements": "2024-01-02T08:06:05.5329498+00:00"
+  "LastUpdate_Achievements": "2024-01-02T09:06:24.1133962+00:00"
 }

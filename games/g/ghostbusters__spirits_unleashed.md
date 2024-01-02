@@ -5,7 +5,7 @@ Rating: 4.50 (Ranked 612)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 11.00% | ~3,642 |
+| Stylish | 11.00% | ~3,643 |
 | Advancement | 8.00% | ~2,649 |
 | Meticulously Efficient | 8.00% | ~2,649 |
 | Discovery | 6.00% | ~1,987 |
@@ -15,12 +15,12 @@ Rating: 4.50 (Ranked 612)
 | Fully Upgraded | 5.00% | ~1,656 |
 | Teamwork | 5.00% | ~1,656 |
 | Vaporous Expansion | 5.00% | ~1,656 |
-| Clutch Capture | 4.00% | ~1,324 |
-| Cultured | 4.00% | ~1,324 |
-| Daily Dose | 4.00% | ~1,324 |
-| Ghostbuster In Training | 4.00% | ~1,324 |
-| There you are! | 4.00% | ~1,324 |
-| Whoopsie | 4.00% | ~1,324 |
+| Clutch Capture | 4.00% | ~1,325 |
+| Cultured | 4.00% | ~1,325 |
+| Daily Dose | 4.00% | ~1,325 |
+| Ghostbuster In Training | 4.00% | ~1,325 |
+| There you are! | 4.00% | ~1,325 |
+| Whoopsie | 4.00% | ~1,325 |
 | Animated | 3.00% | ~993 |
 | Back Off | 3.00% | ~993 |
 | We have the best insurance | 3.00% | ~993 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 612)
 | Ultimate Defense | 0.20% | ~66 |
 | Line em' up | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,112 (Ranked 135)  
+Progressed: 33,114 (Ranked 135)  
 Completed: 71 (0.21%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,15 +314,15 @@ Completed: 71 (0.21%) (Ranked 269)
 | 2023-12-30 | 32,969 | 71 |
 | 2023-12-31 | 33,028 | 71 |
 | 2024-01-01 | 33,089 | 71 |
-| 2024-01-02 | 33,112 | 71 |
+| 2024-01-02 | 33,114 | 71 |
 ## Awards
-Max (Great for Beginners): 326  (Ranked 254)  
-Sum: 2,945 (Ranked 185)  
+Max (Great for Quick Sessions): 326  (Ranked 254)  
+Sum: 2,946 (Ranked 185)  
 Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 326 |
-| This game is Great for Quick Sessions | 325 |
+| This game is Great for Quick Sessions | 326 |
 | This game has Diverse Characters | 312 |
 | This game has Amazing Storytelling | 293 |
 | This game is Highly Recommended | 292 |
@@ -590,4 +590,4 @@ Diff (max vs sum): 69
 | 2023-12-30 | 4.50 | 326 | 2,939 |
 | 2023-12-31 | 4.50 | 326 | 2,943 |
 | 2024-01-01 | 4.50 | 326 | 2,944 |
-| 2024-01-02 | 4.50 | 326 | 2,945 |
+| 2024-01-02 | 4.50 | 326 | 2,946 |

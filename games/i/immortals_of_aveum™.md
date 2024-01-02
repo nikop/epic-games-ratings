@@ -5,14 +5,14 @@ Rating: 4.20 (Ranked 954)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~2,200 |
-| Battlefields Have Memories | 81.00% | ~2,025 |
-| Enlisted | 74.00% | ~1,850 |
-| Maybe Engage a Little | 68.00% | ~1,700 |
-| No More Names | 51.00% | ~1,275 |
-| Initiate | 37.00% | ~925 |
-| Thrada-Kul | 33.00% | ~825 |
-| Gravity-Challenged Rocks | 27.00% | ~675 |
+| Unforeseen | 88.00% | ~2,202 |
+| Battlefields Have Memories | 81.00% | ~2,027 |
+| Enlisted | 74.00% | ~1,851 |
+| Maybe Engage a Little | 68.00% | ~1,701 |
+| No More Names | 51.00% | ~1,276 |
+| Initiate | 37.00% | ~926 |
+| Thrada-Kul | 33.00% | ~826 |
+| Gravity-Challenged Rocks | 27.00% | ~676 |
 | Socialite | 23.00% | ~575 |
 | Soldier | 22.00% | ~550 |
 | All the Major Food Groups | 22.00% | ~550 |
@@ -44,8 +44,8 @@ Rating: 4.20 (Ranked 954)
 | Shroudfane Surveyor | 0.80% | ~20 |
 | Master of Ultramarine | 0.60% | ~15 |
 | Backtracker | 0.60% | ~15 |
-| Witch-Taker | 0.50% | ~12 |
-| Master of Malachite | 0.50% | ~12 |
+| Witch-Taker | 0.50% | ~13 |
+| Master of Malachite | 0.50% | ~13 |
 | Family Business | 0.40% | ~10 |
 | Diplomat | 0.40% | ~10 |
 | Petite Bourgeoisie | 0.40% | ~10 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 954)
 | Out of Time | 0.20% | ~5 |
 | Fowl Play | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,500 (Ranked 231)  
+Progressed: 2,502 (Ranked 231)  
 Completed: 2 (0.08%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 2 (0.08%) (Ranked 317)
 | 2023-12-30 | 2,327 | 2 |
 | 2023-12-31 | 2,400 | 2 |
 | 2024-01-01 | 2,478 | 2 |
-| 2024-01-02 | 2,500 | 2 |
+| 2024-01-02 | 2,502 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,7 +5,7 @@ Rating: 4.14 (Ranked 996)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 12.00% | ~5,528 |
+| Attachments | 12.00% | ~5,529 |
 | Unlocked Potential | 11.00% | ~5,068 |
 | Tinkerer | 8.00% | ~3,686 |
 | Leapfrogger | 7.00% | ~3,225 |
@@ -15,27 +15,27 @@ Rating: 4.14 (Ranked 996)
 | Call of the Fount: Baptized | 7.00% | ~3,225 |
 | No Mercy | 6.00% | ~2,764 |
 | Explorer: Seeker | 6.00% | ~2,764 |
+| Through the Eyes of Another: Empath | 5.00% | ~2,304 |
 | Stuck | 5.00% | ~2,304 |
 | Help Me Out Here | 5.00% | ~2,304 |
-| Through the Eyes of Another: Empath | 4.00% | ~1,843 |
 | The Interloper | 4.00% | ~1,843 |
 | Outdoorsperson | 3.00% | ~1,382 |
 | Hop, Step, Jump | 3.00% | ~1,382 |
 | Endless Runner | 3.00% | ~1,382 |
-| What Must Be Done | 2.00% | ~921 |
-| Might and Main | 2.00% | ~921 |
-| Damned If You Do... | 2.00% | ~921 |
-| Explorer: Pathfinder | 2.00% | ~921 |
-| Shocker | 2.00% | ~921 |
-| From Every Angle | 2.00% | ~921 |
+| What Must Be Done | 2.00% | ~922 |
+| Might and Main | 2.00% | ~922 |
+| Damned If You Do... | 2.00% | ~922 |
+| Explorer: Pathfinder | 2.00% | ~922 |
+| Shocker | 2.00% | ~922 |
+| From Every Angle | 2.00% | ~922 |
 | The Hue of Blue | 1.00% | ~461 |
 | The Truth Will Out | 1.00% | ~461 |
 | Breaking Point | 1.00% | ~461 |
 | None the Wiser | 1.00% | ~461 |
 | Forspoken | 1.00% | ~461 |
 | Pilgrimage: Novice | 1.00% | ~461 |
-| Wildfire | 0.70% | ~322 |
-| Realized Potential | 0.70% | ~322 |
+| Wildfire | 0.70% | ~323 |
+| Realized Potential | 0.70% | ~323 |
 | Awakening | 0.60% | ~276 |
 | Explorer: Trailblazer | 0.60% | ~276 |
 | Through the Eyes of Another: Seer | 0.50% | ~230 |
@@ -59,7 +59,7 @@ Rating: 4.14 (Ranked 996)
 | Remembrance | 0.10% | ~46 |
 | Cat Person | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,070 (Ranked 125)  
+Progressed: 46,075 (Ranked 125)  
 Completed: 4 (0.01%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 4 (0.01%) (Ranked 368)
 | 2023-12-30 | 45,788 | 3 |
 | 2023-12-31 | 45,906 | 4 |
 | 2024-01-01 | 46,038 | 4 |
-| 2024-01-02 | 46,070 | 4 |
+| 2024-01-02 | 46,075 | 4 |
 ## Awards
 Max (Character Customization): 37  (Ranked 489)  
 Sum: 37 (Ranked 524)  

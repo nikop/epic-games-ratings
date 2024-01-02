@@ -6,18 +6,18 @@ Number of Ratings: 3,313  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Found a Friend | 95.00% | ~408,569 |
-| Haikyo | 80.00% | ~344,058 |
+| Found a Friend | 95.00% | ~408,570 |
+| Haikyo | 80.00% | ~344,059 |
 | Good as New | 72.00% | ~309,653 |
-| Into the Woods | 70.00% | ~301,051 |
+| Into the Woods | 70.00% | ~301,052 |
 | Hunter in the Forest | 60.00% | ~258,044 |
 | Rot Commander | 60.00% | ~258,044 |
 | Taro's Fear | 56.00% | ~240,841 |
-| Between the Eyes | 47.00% | ~202,134 |
+| Between the Eyes | 47.00% | ~202,135 |
 | Taro's Love | 46.00% | ~197,834 |
-| Taro's Regret | 44.00% | ~189,232 |
+| Taro's Regret | 44.00% | ~189,233 |
 | Spirit Guide | 42.00% | ~180,631 |
-| Harness Your Power | 39.00% | ~167,728 |
+| Harness Your Power | 39.00% | ~167,729 |
 | The Open Range | 37.00% | ~159,127 |
 | Adira's Love | 34.00% | ~146,225 |
 | Adira's Fear | 33.00% | ~141,924 |
@@ -26,7 +26,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | A Heavy Hammer | 30.00% | ~129,022 |
 | Quick Draw | 30.00% | ~129,022 |
 | Crossing Over | 29.00% | ~124,721 |
-| Toshi's Fear | 28.00% | ~120,420 |
+| Toshi's Fear | 28.00% | ~120,421 |
 | Toshi's Regret | 27.00% | ~116,120 |
 | Toshi's Love | 27.00% | ~116,120 |
 | A Leader Walks Alone | 26.00% | ~111,819 |
@@ -48,7 +48,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Triple Threat | 0.90% | ~3,871 |
 | Master Spirit Guide | 0.30% | ~1,290 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 430,073 (Ranked 46)  
+Progressed: 430,074 (Ranked 46)  
 Completed: 555 (0.13%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 555 (0.13%) (Ranked 295)
 | 2023-12-30 | 429,997 | 554 |
 | 2023-12-31 | 430,037 | 554 |
 | 2024-01-01 | 430,067 | 555 |
-| 2024-01-02 | 430,073 | 555 |
+| 2024-01-02 | 430,074 | 555 |
 ## Awards
 Max (Great Boss Battles): 1,348  (Ranked 140)  
 Sum: 1,767 (Ranked 223)  

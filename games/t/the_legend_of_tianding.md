@@ -27,7 +27,7 @@
 | The Real O.G. | 22.00% | ~14 |
 | The Hero of the People | 17.00% | ~11 |
 | Talk to the Fist | 14.00% | ~9 |
-| Collector | 10.00% | ~6 |
+| Collector | 11.00% | ~7 |
 | Taoist | 8.00% | ~5 |
 | The Legend | 6.00% | ~4 |
 ## Popularity (Based on EOS Achievements)

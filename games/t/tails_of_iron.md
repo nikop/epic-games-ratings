@@ -27,7 +27,7 @@ Rating: 4.56 (Ranked 503)
 | Defeat Croakhis Khan | 1.00% | ~9 |
 | Shield Maiden Yellow Tongue | 1.00% | ~9 |
 | I Remember My First Beer | 1.00% | ~9 |
-| Defeat Ratnor Rodentson | 0.80% | ~18 |
+| Defeat Ratnor Rodentson | 0.90% | ~21 |
 | Fix the Travellers Wagon | 0.80% | ~18 |
 | Defeat the Grub Buster | 0.80% | ~8 |
 | Return the Statues | 0.70% | ~16 |

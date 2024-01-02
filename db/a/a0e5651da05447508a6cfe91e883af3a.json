@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 575,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2055,9 +2055,9 @@
       "ID": "Wins_10",
       "SetID": "2bonhb9",
       "Name": "10 Wins",
-      "Percentage": 0.7,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Wins_100",
@@ -2142,8 +2142,8 @@
   ],
   "FirstSeen": "2023-11-18T15:00:14.9921948+00:00",
   "FirstSeenAchievements": "2023-08-03T14:01:50.784469+00:00",
-  "LastChanged_Achievements": "2024-01-02T08:09:40.7440376+00:00",
+  "LastChanged_Achievements": "2024-01-02T09:09:47.0903531+00:00",
   "LastUpdate_AppInfo": "2023-12-29T02:57:13.2550009+00:00",
-  "LastUpdate_Ratings": "2024-01-02T07:57:45.6188796+00:00",
-  "LastUpdate_Achievements": "2024-01-02T08:09:40.7440592+00:00"
+  "LastUpdate_Ratings": "2024-01-02T08:57:50.0328751+00:00",
+  "LastUpdate_Achievements": "2024-01-02T09:09:47.0903826+00:00"
 }

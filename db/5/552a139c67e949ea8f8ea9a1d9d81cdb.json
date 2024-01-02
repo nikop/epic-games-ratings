@@ -4757,9 +4757,9 @@
       "ID": "ML_ACHIEVEMENT_36",
       "SetID": "5k00jcd",
       "Name": "Perfectionist",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 72
     },
     {
       "ID": "ML_ACHIEVEMENT_37",
@@ -4858,8 +4858,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-02T08:05:19.9611078+00:00",
+  "LastChanged_Achievements": "2024-01-02T09:05:37.5351379+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:19.4494243+00:00",
-  "LastUpdate_Ratings": "2024-01-02T07:59:19.4010996+00:00",
-  "LastUpdate_Achievements": "2024-01-02T08:05:19.961168+00:00"
+  "LastUpdate_Ratings": "2024-01-02T08:59:28.5803955+00:00",
+  "LastUpdate_Achievements": "2024-01-02T09:05:37.5351958+00:00"
 }

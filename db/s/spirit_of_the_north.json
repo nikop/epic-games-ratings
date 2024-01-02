@@ -2,7 +2,7 @@
   "ID": "6098a8c7375c43458a22163a637c0c2f",
   "Name": "Spirit of the North",
   "ProductSlug": "spirit-of-the-north-f58a66",
-  "Ranking_Rating": 803,
+  "Ranking_Rating": 802,
   "Ranking_Popularity": 535,
   "Ranking_PopularitySum": 456,
   "Ranking_EOS_Progress": 111,
@@ -339,7 +339,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 78783,
+  "EOS_Progressed": 78785,
   "EOS_Completed": 421,
   "EOS_NewPlayers": 841,
   "EOS_NewCompleters": 3,
@@ -28709,6 +28709,11 @@
       "Time": "2024-01-02T08:09:29.6966837+00:00",
       "NumProgressed": 78783,
       "NumCompleted": 421
+    },
+    {
+      "Time": "2024-01-02T09:09:35.8490254+00:00",
+      "NumProgressed": 78785,
+      "NumCompleted": 421
     }
   ],
   "TotalAchievements": 24,
@@ -28720,7 +28725,7 @@
       "Name": "ANCIENT HISTORY",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 2363
+      "UsersEstimate": 2364
     },
     {
       "ID": "AWAKEN",
@@ -28728,7 +28733,7 @@
       "Name": "AWAKEN",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 17332
+      "UsersEstimate": 17333
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -28736,7 +28741,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 54360
+      "UsersEstimate": 54362
     },
     {
       "ID": "BEST_FRIENDS",
@@ -28744,7 +28749,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 17332
+      "UsersEstimate": 17333
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -28760,7 +28765,7 @@
       "Name": "ERADICATE",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16544
+      "UsersEstimate": 16545
     },
     {
       "ID": "FETCH",
@@ -28768,7 +28773,7 @@
       "Name": "FETCH",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 22059
+      "UsersEstimate": 22060
     },
     {
       "ID": "FOXIN_AROUND",
@@ -28776,7 +28781,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 22847
+      "UsersEstimate": 22848
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -28800,7 +28805,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 41755
+      "UsersEstimate": 41756
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -28840,7 +28845,7 @@
       "Name": "OLD COMPANION",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 7090
+      "UsersEstimate": 7091
     },
     {
       "ID": "PLAGUE_DOCTOR",
@@ -28848,7 +28853,7 @@
       "Name": "PLAGUE DOCTOR",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 7090
+      "UsersEstimate": 7091
     },
     {
       "ID": "SPIRITED_AWAY",
@@ -28864,7 +28869,7 @@
       "Name": "SPIRIT BARK",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 17332
+      "UsersEstimate": 17333
     },
     {
       "ID": "SPIRIT_DASH",
@@ -28888,7 +28893,7 @@
       "Name": "UPROOTING DARKNESS",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12605
+      "UsersEstimate": 12606
     },
     {
       "ID": "WEIGHTLESS",
@@ -28904,14 +28909,14 @@
       "Name": "WRITTEN IN STONE",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 12605
+      "UsersEstimate": 12606
     }
   ],
   "AchievementSets": [
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 78783,
+      "Progressed": 78785,
       "Completed": 421
     }
   ],
@@ -28919,8 +28924,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-12-11T01:48:32.7425544+00:00",
-  "LastChanged_Achievements": "2024-01-02T08:09:29.6966833+00:00",
+  "LastChanged_Achievements": "2024-01-02T09:09:35.8490251+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:49.9952919+00:00",
   "LastUpdate_Ratings": "2024-01-02T08:00:22.3642071+00:00",
-  "LastUpdate_Achievements": "2024-01-02T08:09:29.6968567+00:00"
+  "LastUpdate_Achievements": "2024-01-02T09:09:35.8491758+00:00"
 }

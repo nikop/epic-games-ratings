@@ -11,9 +11,9 @@ Number of Ratings: 124  (23.09.2022)
 | Best Buddy | 28.00% | ~46 |
 | Role Model | 23.00% | ~37 |
 | Creator | 20.00% | ~33 |
+| Festival-goer | 20.00% | ~33 |
 | Peddler | 19.00% | ~31 |
 | Military Leader | 19.00% | ~31 |
-| Festival-goer | 19.00% | ~31 |
 | Commander | 15.00% | ~24 |
 | Long-Haul Flyer | 12.00% | ~20 |
 | Irissa's Fate | 12.00% | ~20 |

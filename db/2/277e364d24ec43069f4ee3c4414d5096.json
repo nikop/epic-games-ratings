@@ -371,9 +371,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 118799,
+  "EOS_Progressed": 118803,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 884,
+  "EOS_NewPlayers": 880,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -23446,6 +23446,11 @@
       "Time": "2024-01-02T07:10:04.0603802+00:00",
       "NumProgressed": 118799,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2024-01-02T09:09:59.4970332+00:00",
+      "NumProgressed": 118803,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 49,
@@ -23465,7 +23470,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 91475
+      "UsersEstimate": 91478
     },
     {
       "ID": "EAwards_10",
@@ -23481,7 +23486,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 32076
+      "UsersEstimate": 32077
     },
     {
       "ID": "EAwards_12",
@@ -23529,7 +23534,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 43956
+      "UsersEstimate": 43957
     },
     {
       "ID": "EAwards_18",
@@ -23553,7 +23558,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 58212
+      "UsersEstimate": 58213
     },
     {
       "ID": "EAwards_20",
@@ -23601,7 +23606,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 22572
+      "UsersEstimate": 22573
     },
     {
       "ID": "EAwards_26",
@@ -23641,7 +23646,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 23760
+      "UsersEstimate": 23761
     },
     {
       "ID": "EAwards_30",
@@ -23848,7 +23853,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 118799,
+      "Progressed": 118803,
       "Completed": 55
     }
   ],
@@ -23856,8 +23861,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2024-01-02T01:45:21.9654639+00:00",
-  "LastChanged_Achievements": "2024-01-02T08:09:53.0136287+00:00",
+  "LastChanged_Achievements": "2024-01-02T09:09:59.497033+00:00",
   "LastUpdate_AppInfo": "2023-12-29T08:57:21.6773482+00:00",
-  "LastUpdate_Ratings": "2024-01-02T07:57:56.9861044+00:00",
-  "LastUpdate_Achievements": "2024-01-02T08:09:53.0138101+00:00"
+  "LastUpdate_Ratings": "2024-01-02T08:58:03.0074724+00:00",
+  "LastUpdate_Achievements": "2024-01-02T09:09:59.4971489+00:00"
 }

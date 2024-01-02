@@ -5,9 +5,9 @@
   "Ranking_Rating": 522,
   "Ranking_Popularity": 499,
   "Ranking_PopularitySum": 400,
-  "Ranking_EOS_Progress": 206,
+  "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4413,
+  "EOS_Progressed": 4414,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -7491,6 +7491,11 @@
       "Time": "2024-01-02T07:06:01.4488255+00:00",
       "NumProgressed": 4413,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-02T09:06:00.2082456+00:00",
+      "NumProgressed": 4414,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -7542,7 +7547,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1809
+      "UsersEstimate": 1810
     },
     {
       "ID": "CrowdPleaser",
@@ -7558,7 +7563,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 794
+      "UsersEstimate": 795
     },
     {
       "ID": "Eureka_23",
@@ -7686,7 +7691,7 @@
       "Name": "Ready for Summer",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2162
+      "UsersEstimate": 2163
     },
     {
       "ID": "ReadyforWinter_42",
@@ -7694,7 +7699,7 @@
       "Name": "Ready for Winter",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 2736
+      "UsersEstimate": 2737
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -7718,7 +7723,7 @@
       "Name": "Strange amalgams",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "Tapped_22",
@@ -7822,7 +7827,7 @@
       "Name": "Venture Outward",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3221
+      "UsersEstimate": 3222
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -7837,15 +7842,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4413,
+      "Progressed": 4414,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2024-01-02T08:05:42.4381034+00:00",
+  "LastChanged_Achievements": "2024-01-02T09:06:00.2082454+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:23.571083+00:00",
-  "LastUpdate_Ratings": "2024-01-02T08:02:50.373743+00:00",
-  "LastUpdate_Achievements": "2024-01-02T08:05:42.4381675+00:00"
+  "LastUpdate_Ratings": "2024-01-02T09:03:01.8494035+00:00",
+  "LastUpdate_Achievements": "2024-01-02T09:06:00.2082993+00:00"
 }

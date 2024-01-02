@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -61,9 +61,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1643,
+  "EOS_Progressed": 1644,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 371,
+  "EOS_NewPlayers": 372,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -3231,6 +3231,11 @@
       "Time": "2024-01-02T05:09:38.0993482+00:00",
       "NumProgressed": 1643,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-02T09:10:01.3186508+00:00",
+      "NumProgressed": 1644,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -3266,7 +3271,7 @@
       "Name": "Calm before the Storm",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_05",
@@ -3314,7 +3319,7 @@
       "Name": "Trinity",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "ACH_11",
@@ -3336,9 +3341,9 @@
       "ID": "ACH_13",
       "SetID": "efe2lj",
       "Name": "Adventurer",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 345
+      "UsersEstimate": 329
     },
     {
       "ID": "ACH_14",
@@ -3378,7 +3383,7 @@
       "Name": "Shatter Them All",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "ACH_19",
@@ -3458,7 +3463,7 @@
       "Name": "I Found It",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "ACH_29",
@@ -3529,7 +3534,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1643,
+      "Progressed": 1644,
       "Completed": 3
     }
   ],
@@ -3537,8 +3542,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-02T01:47:19.6899919+00:00",
-  "LastChanged_Achievements": "2024-01-02T08:09:54.6896453+00:00",
+  "LastChanged_Achievements": "2024-01-02T09:10:01.3186506+00:00",
   "LastUpdate_AppInfo": "2024-01-01T22:57:08.0954502+00:00",
-  "LastUpdate_Ratings": "2024-01-02T07:59:43.1872673+00:00",
-  "LastUpdate_Achievements": "2024-01-02T08:09:54.6896996+00:00"
+  "LastUpdate_Ratings": "2024-01-02T08:59:53.4777159+00:00",
+  "LastUpdate_Achievements": "2024-01-02T09:10:01.3186825+00:00"
 }

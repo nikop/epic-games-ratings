@@ -3835,12 +3835,18 @@
       "Rating": 4.5,
       "NumberOfAwards": 2945,
       "NumberOfAwardsMax": 326
+    },
+    {
+      "Time": "2024-01-02T08:58:48.3740359+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2946,
+      "NumberOfAwardsMax": 326
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2945,
+  "NumberOfAwards": 2946,
   "NumberOfAwardsMax": 326,
-  "MaxAwardTitle": "Great for Beginners",
+  "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
@@ -3864,7 +3870,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 325
+      "Count": 326
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3915,7 +3921,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33112,
+  "EOS_Progressed": 33114,
   "EOS_Completed": 71,
   "EOS_NewPlayers": 383,
   "EOS_NewCompleters": 1,
@@ -24300,6 +24306,11 @@
       "Time": "2024-01-02T08:08:41.8526552+00:00",
       "NumProgressed": 33112,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-02T09:08:49.0931161+00:00",
+      "NumProgressed": 33114,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -24351,7 +24362,7 @@
       "Name": "Clutch Capture",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1324
+      "UsersEstimate": 1325
     },
     {
       "ID": "Collect_Spores",
@@ -24375,7 +24386,7 @@
       "Name": "Cultured",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1324
+      "UsersEstimate": 1325
     },
     {
       "ID": "Daily_Dose",
@@ -24383,7 +24394,7 @@
       "Name": "Daily Dose",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1324
+      "UsersEstimate": 1325
     },
     {
       "ID": "Diabolical",
@@ -24455,7 +24466,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1324
+      "UsersEstimate": 1325
     },
     {
       "ID": "Ghost_Expert",
@@ -24615,7 +24626,7 @@
       "Name": "Stylish",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3642
+      "UsersEstimate": 3643
     },
     {
       "ID": "Summoner",
@@ -24671,7 +24682,7 @@
       "Name": "There you are!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1324
+      "UsersEstimate": 1325
     },
     {
       "ID": "Tobins_Prodigy",
@@ -24711,23 +24722,23 @@
       "Name": "Whoopsie",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1324
+      "UsersEstimate": 1325
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33112,
+      "Progressed": 33114,
       "Completed": 71
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2024-01-02T06:58:46.9397232+00:00",
-  "LastChanged_Achievements": "2024-01-02T08:08:41.852655+00:00",
+  "LastChanged": "2024-01-02T08:58:48.3740358+00:00",
+  "LastChanged_Achievements": "2024-01-02T09:08:49.0931159+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:23.250158+00:00",
-  "LastUpdate_Ratings": "2024-01-02T07:58:40.8476662+00:00",
-  "LastUpdate_Achievements": "2024-01-02T08:08:41.8528098+00:00"
+  "LastUpdate_Ratings": "2024-01-02T08:58:48.3740363+00:00",
+  "LastUpdate_Achievements": "2024-01-02T09:08:49.0932217+00:00"
 }

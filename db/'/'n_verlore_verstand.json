@@ -2,9 +2,9 @@
   "ID": "bcabb7efae0c4d0b9f652d6b232449d3",
   "Name": "\u0027n Verlore Verstand",
   "ProductSlug": "n-verlore-verstand-1d7f5b",
-  "Ranking_EOS_Progress": 518,
+  "Ranking_EOS_Progress": 517,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 457,
+  "Ranking_EOS_NewPlayers": 442,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-04-13T22:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 69,
+  "EOS_Progressed": 70,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -349,6 +349,11 @@
       "Time": "2024-01-01T21:09:08.6578648+00:00",
       "NumProgressed": 69,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T09:08:54.9583121+00:00",
+      "NumProgressed": 70,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -360,7 +365,7 @@
       "Name": "Start of a Journey",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "10",
@@ -446,7 +451,7 @@
       "ID": "2",
       "SetID": "6m1k8ai",
       "Name": "Escape the Maze",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 5,
       "UsersEstimate": 40
     },
@@ -512,7 +517,7 @@
       "Name": "A thing of beauty",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "28",
@@ -534,7 +539,7 @@
       "ID": "3",
       "SetID": "6m1k8ai",
       "Name": "Brace the cold",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 5,
       "UsersEstimate": 31
     },
@@ -710,7 +715,7 @@
       "ID": "6",
       "SetID": "6m1k8ai",
       "Name": "City of Puzzles",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -718,7 +723,7 @@
       "ID": "7",
       "SetID": "6m1k8ai",
       "Name": "This field of danger",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -726,7 +731,7 @@
       "ID": "8",
       "SetID": "6m1k8ai",
       "Name": "Labyrinths of the Mind",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -743,14 +748,14 @@
     {
       "ID": "6m1k8ai",
       "IsBase": true,
-      "Progressed": 69,
+      "Progressed": 70,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-02T12:00:06.1215649+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:54.1443777+00:00",
-  "LastChanged_Achievements": "2024-01-02T08:08:47.5913243+00:00",
+  "LastChanged_Achievements": "2024-01-02T09:08:54.9583118+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:29.1653427+00:00",
-  "LastUpdate_Ratings": "2024-01-02T08:02:57.5093462+00:00",
-  "LastUpdate_Achievements": "2024-01-02T08:08:47.5913601+00:00"
+  "LastUpdate_Ratings": "2024-01-02T09:03:09.1399893+00:00",
+  "LastUpdate_Achievements": "2024-01-02T09:08:54.9583515+00:00"
 }

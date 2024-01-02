@@ -311,9 +311,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2600,
+  "EOS_Progressed": 2601,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7516,6 +7516,11 @@
       "Time": "2024-01-02T08:05:28.307944+00:00",
       "NumProgressed": 2600,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T09:05:45.8892317+00:00",
+      "NumProgressed": 2601,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -7607,7 +7612,7 @@
       "Name": "From X to Y",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1924
+      "UsersEstimate": 1925
     },
     {
       "ID": "A11",
@@ -7623,7 +7628,7 @@
       "Name": "Departure",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1924
+      "UsersEstimate": 1925
     },
     {
       "ID": "A13",
@@ -7639,7 +7644,7 @@
       "Name": "A new Journey",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 1976
+      "UsersEstimate": 1977
     },
     {
       "ID": "A15",
@@ -7663,7 +7668,7 @@
       "Name": "Facility Manager",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 1404
+      "UsersEstimate": 1405
     },
     {
       "ID": "A18",
@@ -7677,9 +7682,9 @@
       "ID": "A19",
       "SetID": "9b7p7eo",
       "Name": "Tycoon",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 312
+      "UsersEstimate": 286
     },
     {
       "ID": "A20",
@@ -7687,7 +7692,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 2002
+      "UsersEstimate": 2003
     },
     {
       "ID": "A21",
@@ -7703,7 +7708,7 @@
       "Name": "Brainstorm",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1742
+      "UsersEstimate": 1743
     },
     {
       "ID": "A23",
@@ -7751,7 +7756,7 @@
       "Name": "We brake for nobody",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1794
+      "UsersEstimate": 1795
     },
     {
       "ID": "A29",
@@ -7799,7 +7804,7 @@
       "Name": "Producer",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1326
+      "UsersEstimate": 1327
     },
     {
       "ID": "A35",
@@ -7813,9 +7818,9 @@
       "ID": "A36",
       "SetID": "9b7p7eo",
       "Name": "Way of Iron",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 1872
+      "UsersEstimate": 1847
     },
     {
       "ID": "A37",
@@ -7823,7 +7828,7 @@
       "Name": "All around the World",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 1664
+      "UsersEstimate": 1665
     },
     {
       "ID": "A38",
@@ -7831,7 +7836,7 @@
       "Name": "Poor Devil",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "A39",
@@ -7847,7 +7852,7 @@
       "Name": "Mind the Gap",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1716
+      "UsersEstimate": 1717
     },
     {
       "ID": "A41",
@@ -7855,7 +7860,7 @@
       "Name": "Right through the middle",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 1534
+      "UsersEstimate": 1535
     },
     {
       "ID": "A42",
@@ -7895,7 +7900,7 @@
       "Name": "Mystery Tour",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1820
+      "UsersEstimate": 1821
     },
     {
       "ID": "A47",
@@ -7903,7 +7908,7 @@
       "Name": "Travel Company",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 1716
+      "UsersEstimate": 1717
     },
     {
       "ID": "A48",
@@ -7966,7 +7971,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 2600,
+      "Progressed": 2601,
       "Completed": 0
     }
   ],
@@ -7974,8 +7979,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-12-27T17:00:03.776976+00:00",
-  "LastChanged_Achievements": "2024-01-02T08:05:28.3079437+00:00",
+  "LastChanged_Achievements": "2024-01-02T09:05:45.8892315+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:54.9390802+00:00",
-  "LastUpdate_Ratings": "2024-01-02T07:58:41.7523378+00:00",
-  "LastUpdate_Achievements": "2024-01-02T08:05:28.3080475+00:00"
+  "LastUpdate_Ratings": "2024-01-02T08:58:49.3474188+00:00",
+  "LastUpdate_Achievements": "2024-01-02T09:05:45.8892939+00:00"
 }

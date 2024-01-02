@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1211,
+  "EOS_Progressed": 1213,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
@@ -3022,6 +3022,11 @@
       "Time": "2024-01-02T07:08:34.369862+00:00",
       "NumProgressed": 1211,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-02T09:08:29.9934684+00:00",
+      "NumProgressed": 1213,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -3042,7 +3047,7 @@
       "Name": "Territorial",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "Capture100VictoryPoints",
@@ -3088,9 +3093,9 @@
       "ID": "CompleteChapter1",
       "SetID": "52ail55",
       "Name": "Pathfinder",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 945
+      "UsersEstimate": 934
     },
     {
       "ID": "CompleteChapter10",
@@ -3098,7 +3103,7 @@
       "Name": "You da Boss, Now",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "CompleteChapter11",
@@ -3106,7 +3111,7 @@
       "Name": "The Artefact is Mine",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "CompleteChapter12",
@@ -3162,7 +3167,7 @@
       "Name": "Who Needs Reinforcements?",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "CompleteChapter18",
@@ -3178,7 +3183,7 @@
       "Name": "Met the Enemy",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 714
+      "UsersEstimate": 716
     },
     {
       "ID": "CompleteChapter3",
@@ -3186,7 +3191,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "CompleteChapter4",
@@ -3194,7 +3199,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "CompleteChapter5",
@@ -3210,7 +3215,7 @@
       "Name": "More Waagh, More Problems",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "CompleteChapter7",
@@ -3224,9 +3229,9 @@
       "ID": "CompleteChapter8",
       "SetID": "52ail55",
       "Name": "Troggoff Troubles",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 182
     },
     {
       "ID": "CompleteChapter9",
@@ -3282,7 +3287,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "Win100OnlineMatched",
@@ -3329,14 +3334,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 1211,
+      "Progressed": 1213,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2024-01-02T08:08:22.8071649+00:00",
+  "LastChanged_Achievements": "2024-01-02T09:08:29.9934681+00:00",
   "LastUpdate_AppInfo": "2023-12-29T09:57:13.5043463+00:00",
-  "LastUpdate_Ratings": "2024-01-02T07:58:59.4606363+00:00",
-  "LastUpdate_Achievements": "2024-01-02T08:08:22.8072213+00:00"
+  "LastUpdate_Ratings": "2024-01-02T08:59:08.4891108+00:00",
+  "LastUpdate_Achievements": "2024-01-02T09:08:29.9935052+00:00"
 }

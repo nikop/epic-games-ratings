@@ -12,10 +12,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intrepid | 0.90% | ~145 |
 | Friendly Family | 0.90% | ~145 |
 | Architect | 0.80% | ~129 |
+| Good | 0.80% | ~129 |
 | Strong | 0.80% | ~129 |
 | Hanging Gardens | 0.80% | ~129 |
 | Able | 0.70% | ~113 |
-| Good | 0.70% | ~113 |
 | Learned | 0.70% | ~113 |
 | Mason | 0.70% | ~113 |
 | Noble | 0.70% | ~113 |
@@ -74,6 +74,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Iron | 0.30% | ~48 |
 | Colossus | 0.30% | ~48 |
 | Learn to Play 3 | 0.30% | ~48 |
+| Greece | 0.30% | ~48 |
 | Power to the People | 0.30% | ~48 |
 | Egyptian Paganism | 0.30% | ~48 |
 | Building Wonders | 0.30% | ~48 |
@@ -102,7 +103,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk | 0.20% | ~32 |
 | Babylonia | 0.20% | ~32 |
 | Egypt | 0.20% | ~32 |
-| Greece | 0.20% | ~32 |
 | Assyrian Paganism | 0.20% | ~32 |
 | Persian Paganism | 0.20% | ~32 |
 | Economic Reform | 0.20% | ~32 |

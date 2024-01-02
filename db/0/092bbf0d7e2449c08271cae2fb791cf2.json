@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 403,
+  "EOS_Progressed": 404,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 2,
@@ -1319,6 +1319,11 @@
       "Time": "2024-01-02T05:07:56.8558824+00:00",
       "NumProgressed": 403,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-02T09:03:25.9527279+00:00",
+      "NumProgressed": 404,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -1331,15 +1336,15 @@
       "Name": "Good Morning",
       "Percentage": 16,
       "XP": 145,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ach2",
       "SetID": "796kfpa",
       "Name": "Blabber",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 145,
-      "UsersEstimate": 197
+      "UsersEstimate": 202
     },
     {
       "ID": "ach3",
@@ -1386,14 +1391,14 @@
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 403,
+      "Progressed": 404,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2024-01-02T07:08:25.353984+00:00",
+  "LastChanged_Achievements": "2024-01-02T09:03:25.9527276+00:00",
   "LastUpdate_AppInfo": "2023-12-27T20:57:07.636228+00:00",
-  "LastUpdate_Ratings": "2024-01-02T07:58:27.1926203+00:00",
-  "LastUpdate_Achievements": "2024-01-02T07:08:25.3540122+00:00"
+  "LastUpdate_Ratings": "2024-01-02T08:58:33.7233955+00:00",
+  "LastUpdate_Achievements": "2024-01-02T09:03:25.9527615+00:00"
 }

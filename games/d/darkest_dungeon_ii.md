@@ -7,10 +7,10 @@ Number of Ratings: 7,767  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 12.00% | ~735 |
-| Lost and Found | 7.00% | ~429 |
+| Lost and Found | 8.00% | ~490 |
 | This Belongs in a Museum | 6.00% | ~7,875 |
 | Autodidact | 6.00% | ~7,875 |
-| This guy... again? | 6.00% | ~367 |
+| This guy... again? | 6.00% | ~368 |
 | Serenity Now! | 5.00% | ~6,563 |
 | Creep and Sleep | 5.00% | ~6,563 |
 | Catch and Decease | 5.00% | ~6,563 |
@@ -74,7 +74,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Bacon Bits | 0.50% | ~656 |
 | On This Long Road, We Found Redemption | 0.50% | ~31 |
 | Eidetic | 0.40% | ~525 |
-| Battle Hardened | 0.40% | ~24 |
+| Battle Hardened | 0.40% | ~25 |
 | Tears in the Rain | 0.30% | ~394 |
 | Maître De La Lame | 0.30% | ~18 |
 | Circle of Life | 0.20% | ~263 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,253 (Ranked 90)  
+Progressed: 131,257 (Ranked 90)  
 Completed: 3 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,7 +333,7 @@ Completed: 3 (0.00%) (Ranked 390)
 | 2023-12-30 | 130,838 | 3 |
 | 2023-12-31 | 131,026 | 3 |
 | 2024-01-01 | 131,206 | 3 |
-| 2024-01-02 | 131,253 | 3 |
+| 2024-01-02 | 131,257 | 3 |
 ## Awards
 Max (Character Customization): 7,919  (Ranked 50)  
 Sum: 21,334 (Ranked 58)  

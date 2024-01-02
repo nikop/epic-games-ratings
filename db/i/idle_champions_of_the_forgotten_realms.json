@@ -9259,9 +9259,9 @@
       "Count": 3617
     }
   ],
-  "EOS_Progressed": 249556,
+  "EOS_Progressed": 249575,
   "EOS_Completed": 2585,
-  "EOS_NewPlayers": 4797,
+  "EOS_NewPlayers": 4806,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -38329,6 +38329,11 @@
       "Time": "2024-01-02T08:10:03.613584+00:00",
       "NumProgressed": 249556,
       "NumCompleted": 2585
+    },
+    {
+      "Time": "2024-01-02T09:10:10.4058575+00:00",
+      "NumProgressed": 249575,
+      "NumCompleted": 2585
     }
   ],
   "TotalAchievements": 546,
@@ -42612,7 +42617,7 @@
       "Name": "Arcane Suppression",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "objective_completed_1352",
@@ -42620,7 +42625,7 @@
       "Name": "Welcome to the Vrocks",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "objective_completed_1557",
@@ -42636,7 +42641,7 @@
       "Name": "Misaligned in Sigil",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "objective_completed_1562",
@@ -42652,7 +42657,7 @@
       "Name": "Chaos Theory",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "objective_completed_598",
@@ -42707,21 +42712,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 215830,
-      "Completed": 4124
+      "Progressed": 215849,
+      "Completed": 4125
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 249556,
+      "Progressed": 249575,
       "Completed": 2585
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-01T16:58:00.6629331+00:00",
-  "LastChanged_Achievements": "2024-01-02T08:10:03.6135835+00:00",
+  "LastChanged_Achievements": "2024-01-02T09:10:10.4058573+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-02T07:57:52.4049812+00:00",
-  "LastUpdate_Achievements": "2024-01-02T08:10:03.616033+00:00"
+  "LastUpdate_Ratings": "2024-01-02T08:57:58.4488342+00:00",
+  "LastUpdate_Achievements": "2024-01-02T09:10:10.4082751+00:00"
 }

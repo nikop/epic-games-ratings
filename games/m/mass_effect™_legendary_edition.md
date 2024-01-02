@@ -27,10 +27,10 @@
 | Colonial Savior | 32.00% | ~1,140 |
 | Medal of Exploration III | 31.00% | ~1,105 |
 | Krogan Ally | 31.00% | ~1,105 |
+| Merciless | 31.00% | ~1,105 |
 | Scientist | 31.00% | ~1,105 |
 | Paramour I | 30.00% | ~1,069 |
 | Sentinel Ally | 30.00% | ~1,069 |
-| Merciless | 30.00% | ~1,069 |
 | The Professor | 29.00% | ~1,034 |
 | Head Hunter | 29.00% | ~1,034 |
 | Scholar | 29.00% | ~1,034 |

@@ -6,7 +6,7 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Overgrown Library | 8.00% | ~1,595 |
+| Overgrown Library | 8.00% | ~1,596 |
 | Taking Action | 7.00% | ~1,396 |
 | No Deaths | 7.00% | ~1,396 |
 | Abandoned Settlement | 7.00% | ~1,396 |
@@ -49,8 +49,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Victory Through Prosperity | 1.00% | ~199 |
 | Defying the Crown | 1.00% | ~199 |
 | Into the Forest | 1.00% | ~199 |
-| Dangerous Lands | 0.90% | ~179 |
-| Forbidden Lands | 0.90% | ~179 |
+| Dangerous Lands | 0.90% | ~180 |
+| Forbidden Lands | 0.90% | ~180 |
 | Feeding The People | 0.60% | ~120 |
 | Like a Machine | 0.60% | ~120 |
 | Fox Utopia | 0.50% | ~100 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,943 (Ranked 152)  
+Progressed: 19,946 (Ranked 152)  
 Completed: 33 (0.17%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,10 +323,10 @@ Completed: 33 (0.17%) (Ranked 281)
 | 2023-12-30 | 19,741 | 35 |
 | 2023-12-31 | 19,834 | 34 |
 | 2024-01-01 | 19,919 | 33 |
-| 2024-01-02 | 19,943 | 33 |
+| 2024-01-02 | 19,946 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 447  (Ranked 229)  
-Sum: 3,318 (Ranked 177)  
+Sum: 3,319 (Ranked 177)  
 Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
@@ -334,7 +334,7 @@ Diff (max vs sum): 52
 | This game is Relaxing | 444 |
 | This game is Great for Beginners | 437 |
 | This game is Extremely Fun | 416 |
-| This game is Highly Recommended | 399 |
+| This game is Highly Recommended | 400 |
 | This game has Unique Visuals | 338 |
 | This game has Amazing Storytelling | 329 |
 | This game has Amazing Characters | 292 |
@@ -615,4 +615,4 @@ Diff (max vs sum): 52
 | 2023-12-30 | 4.82 | - | 447 | 3,309 |
 | 2023-12-31 | 4.82 | - | 447 | 3,312 |
 | 2024-01-01 | 4.82 | - | 447 | 3,317 |
-| 2024-01-02 | 4.82 | - | 447 | 3,318 |
+| 2024-01-02 | 4.82 | - | 447 | 3,319 |

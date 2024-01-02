@@ -195,7 +195,7 @@
   "Tags": [],
   "EOS_Progressed": 8199,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 351,
+  "EOS_NewPlayers": 349,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -9169,9 +9169,9 @@
       "ID": "achievement_03_10",
       "SetID": "4f1m94d",
       "Name": "Customization Collector",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 164
+      "UsersEstimate": 246
     },
     {
       "ID": "achievement_03_11",
@@ -9266,8 +9266,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2024-01-01T09:58:42.2285208+00:00",
-  "LastChanged_Achievements": "2024-01-02T08:03:48.5855739+00:00",
+  "LastChanged_Achievements": "2024-01-02T09:04:04.0643563+00:00",
   "LastUpdate_AppInfo": "2023-12-29T01:33:51.636956+00:00",
-  "LastUpdate_Ratings": "2024-01-02T07:59:00.5196595+00:00",
-  "LastUpdate_Achievements": "2024-01-02T08:03:48.585651+00:00"
+  "LastUpdate_Ratings": "2024-01-02T08:59:09.4734179+00:00",
+  "LastUpdate_Achievements": "2024-01-02T09:04:04.0644198+00:00"
 }

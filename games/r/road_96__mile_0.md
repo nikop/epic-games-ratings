@@ -13,7 +13,7 @@
 | Truthseeker | 14.00% | ~85 |
 | Freedom | 8.00% | ~49 |
 | 86's Nightmare | 8.00% | ~49 |
-| Partners in Crime | 7.00% | ~43 |
+| Partners in Crime | 8.00% | ~49 |
 | Friendzone | 7.00% | ~43 |
 | The Eye of the Storm | 6.00% | ~37 |
 | Attack on Tyran | 5.00% | ~30 |

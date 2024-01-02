@@ -29,10 +29,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Terror in the Dark | 0.30% | ~749 |
 | The Crumbling Temple | 0.30% | ~749 |
 | Pure Energy | 0.30% | ~749 |
-| Arcane Suppression | 0.30% | ~647 |
-| Welcome to the Vrocks | 0.30% | ~647 |
-| Misaligned in Sigil | 0.30% | ~647 |
-| Chaos Theory | 0.30% | ~647 |
+| Arcane Suppression | 0.30% | ~648 |
+| Welcome to the Vrocks | 0.30% | ~648 |
+| Misaligned in Sigil | 0.30% | ~648 |
+| Chaos Theory | 0.30% | ~648 |
 | Beast Mode | 0.20% | ~499 |
 | Low Initiative | 0.20% | ~499 |
 | A Mysterious Summons | 0.20% | ~499 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~216 |
 | The Brains of an Illithid's Desire | 0.10% | ~216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,556 (Ranked 70)  
+Progressed: 249,575 (Ranked 70)  
 Completed: 2,585 (1.04%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -810,7 +810,7 @@ Completed: 2,585 (1.04%) (Ranked 170)
 | 2023-12-30 | 247,917 | 2,578 |
 | 2023-12-31 | 248,665 | 2,581 |
 | 2024-01-01 | 249,335 | 2,583 |
-| 2024-01-02 | 249,556 | 2,585 |
+| 2024-01-02 | 249,575 | 2,585 |
 ## Awards
 Max (Great for Beginners): 5,726  (Ranked 71)  
 Sum: 33,249 (Ranked 41)  

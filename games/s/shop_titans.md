@@ -29,25 +29,25 @@ Number of Ratings: 12,664  (23.09.2022)
 | Dungeon Imports | 4.00% | ~5,958 |
 | Through Repetition, Perfection | 4.00% | ~5,958 |
 | Arcane Industries | 4.00% | ~5,958 |
-| On the Path to Greatness | 3.00% | ~4,468 |
-| Ascended | 3.00% | ~4,468 |
-| Tax not Included | 3.00% | ~4,468 |
-| Research & Development | 3.00% | ~4,468 |
-| Vanity, Verily | 3.00% | ~4,468 |
-| Fated Encounters | 3.00% | ~4,468 |
-| Blank Page Syndrome | 3.00% | ~4,468 |
-| Power of Love | 3.00% | ~4,468 |
-| Efficient Floor Space | 3.00% | ~4,468 |
-| Flawless Fusion | 3.00% | ~4,468 |
-| Trash to Treasure | 3.00% | ~4,468 |
-| Gem Expert | 3.00% | ~4,468 |
-| Royal Ransom | 3.00% | ~4,468 |
-| Helping Hand | 3.00% | ~4,468 |
-| Accomplished Merchant | 3.00% | ~4,468 |
-| Natural 20 | 3.00% | ~4,468 |
-| Did we pack lunch? | 3.00% | ~4,468 |
-| Magical Harmony | 3.00% | ~4,468 |
-| Complete Monopoly | 3.00% | ~4,468 |
+| On the Path to Greatness | 3.00% | ~4,469 |
+| Ascended | 3.00% | ~4,469 |
+| Tax not Included | 3.00% | ~4,469 |
+| Research & Development | 3.00% | ~4,469 |
+| Vanity, Verily | 3.00% | ~4,469 |
+| Fated Encounters | 3.00% | ~4,469 |
+| Blank Page Syndrome | 3.00% | ~4,469 |
+| Power of Love | 3.00% | ~4,469 |
+| Efficient Floor Space | 3.00% | ~4,469 |
+| Flawless Fusion | 3.00% | ~4,469 |
+| Trash to Treasure | 3.00% | ~4,469 |
+| Gem Expert | 3.00% | ~4,469 |
+| Royal Ransom | 3.00% | ~4,469 |
+| Helping Hand | 3.00% | ~4,469 |
+| Accomplished Merchant | 3.00% | ~4,469 |
+| Natural 20 | 3.00% | ~4,469 |
+| Did we pack lunch? | 3.00% | ~4,469 |
+| Magical Harmony | 3.00% | ~4,469 |
+| Complete Monopoly | 3.00% | ~4,469 |
 | A Notch Above the Rest | 2.00% | ~2,979 |
 | Cream of the Crop | 2.00% | ~2,979 |
 | Top of the World | 2.00% | ~2,979 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~596 |
 | Capitalist Camaraderie | 0.20% | ~298 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 148,950 (Ranked 86)  
+Progressed: 148,953 (Ranked 86)  
 Completed: 340 (0.23%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -376,7 +376,7 @@ Completed: 340 (0.23%) (Ranked 267)
 | 2023-12-30 | 148,534 | 340 |
 | 2023-12-31 | 148,713 | 340 |
 | 2024-01-01 | 148,903 | 340 |
-| 2024-01-02 | 148,950 | 340 |
+| 2024-01-02 | 148,953 | 340 |
 ## Awards
 Max (Great for Beginners): 4,934  (Ranked 78)  
 Sum: 27,900 (Ranked 52)  

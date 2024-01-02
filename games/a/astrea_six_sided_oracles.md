@@ -9,20 +9,20 @@
 | Mechanical Buddy | 72.00% | ~214 |
 | Dicesmithing Time! | 65.00% | ~193 |
 | Sanctuary Guardian | 55.00% | ~163 |
-| Endless Tricks | 50.00% | ~148 |
+| Endless Tricks | 51.00% | ~151 |
 | Wild's Keeper | 46.00% | ~137 |
 | Mind Illuminator | 44.00% | ~131 |
-| Stellar Dismantler | 36.00% | ~107 |
+| Stellar Dismantler | 37.00% | ~110 |
 | Noctuan Champion | 36.00% | ~107 |
 | Astral Adventurer | 33.00% | ~98 |
 | Anomaly Destroyer | 31.00% | ~92 |
 | Star Killer | 28.00% | ~83 |
 | Eridanian Champion | 25.00% | ~74 |
 | Loyal Partner | 22.00% | ~65 |
-| Lacertian Champion | 20.00% | ~59 |
+| Lacertian Champion | 21.00% | ~62 |
 | Apian Champion | 19.00% | ~56 |
 | Shard Spender | 18.00% | ~53 |
-| Unbeatable | 17.00% | ~50 |
+| Unbeatable | 18.00% | ~53 |
 | Sadistic Plan | 16.00% | ~48 |
 | Behenian Champion | 14.00% | ~42 |
 | Wave Bender | 10.00% | ~30 |

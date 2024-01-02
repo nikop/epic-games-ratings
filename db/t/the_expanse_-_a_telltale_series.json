@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18039,
+  "EOS_Progressed": 18041,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 588,
+  "EOS_NewPlayers": 590,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -16000,6 +16000,11 @@
       "Time": "2024-01-02T08:03:47.4237715+00:00",
       "NumProgressed": 18039,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-02T09:04:02.6910386+00:00",
+      "NumProgressed": 18041,
+      "NumCompleted": 58
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16028,7 +16033,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1984
+      "UsersEstimate": 1985
     },
     {
       "ID": "12",
@@ -16044,7 +16049,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2886
+      "UsersEstimate": 2887
     },
     {
       "ID": "14",
@@ -16092,7 +16097,7 @@
       "Name": "Martian Music",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1984
+      "UsersEstimate": 1985
     },
     {
       "ID": "2",
@@ -16116,7 +16121,7 @@
       "Name": "Drone Dodger",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1984
+      "UsersEstimate": 1985
     },
     {
       "ID": "22",
@@ -16260,7 +16265,7 @@
       "Name": "Safe Cracker",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "33",
@@ -16268,7 +16273,7 @@
       "Name": "Zen Master",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "34",
@@ -16284,20 +16289,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18039,
+      "Progressed": 18041,
       "Completed": 58
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3993,
+      "Progressed": 3995,
       "Completed": 1156
     }
   ],
@@ -16305,8 +16310,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T23:58:17.8612142+00:00",
-  "LastChanged_Achievements": "2024-01-02T08:03:47.4237711+00:00",
+  "LastChanged_Achievements": "2024-01-02T09:04:02.6910385+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2024-01-02T07:58:54.5058575+00:00",
-  "LastUpdate_Achievements": "2024-01-02T08:03:47.4238996+00:00"
+  "LastUpdate_Ratings": "2024-01-02T08:59:03.2749619+00:00",
+  "LastUpdate_Achievements": "2024-01-02T09:04:02.6911084+00:00"
 }

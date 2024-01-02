@@ -4787,9 +4787,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12957,
+  "EOS_Progressed": 12959,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 180,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18697,6 +18697,11 @@
       "Time": "2024-01-02T04:10:28.5136658+00:00",
       "NumProgressed": 12957,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T09:10:07.0082676+00:00",
+      "NumProgressed": 12959,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -18708,7 +18713,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3498
+      "UsersEstimate": 3499
     },
     {
       "ID": "02_BurningCity",
@@ -18716,7 +18721,7 @@
       "Name": "Burning City",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2332
+      "UsersEstimate": 2333
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -18916,7 +18921,7 @@
       "Name": "Great Upstart",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "29_StrategicVictory",
@@ -19060,7 +19065,7 @@
       "Name": "All Paths Open",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -19635,21 +19640,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11739,
+      "Progressed": 11741,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12957,
+      "Progressed": 12959,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2024-01-02T06:00:18.7398493+00:00",
-  "LastChanged_Achievements": "2024-01-02T08:10:00.2764085+00:00",
+  "LastChanged_Achievements": "2024-01-02T09:10:07.0082674+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:46.0860245+00:00",
-  "LastUpdate_Ratings": "2024-01-02T08:00:17.3006161+00:00",
-  "LastUpdate_Achievements": "2024-01-02T08:10:00.2766145+00:00"
+  "LastUpdate_Ratings": "2024-01-02T09:00:28.1508138+00:00",
+  "LastUpdate_Achievements": "2024-01-02T09:10:07.0084445+00:00"
 }
