@@ -13,15 +13,15 @@ Number of Ratings: 8,414  (23.09.2022)
 | Brothers in Arms | 0.30% | ~1,471 |
 | That's a Grand Navy | 0.30% | ~1,471 |
 | Seriously?! | 0.30% | ~1,471 |
-| Cold War | 0.20% | ~980 |
-| Defender of the Faith | 0.20% | ~980 |
-| For the Glory | 0.20% | ~980 |
-| It's all about luck | 0.20% | ~980 |
-| It's all about the money | 0.20% | ~980 |
-| Respected | 0.20% | ~980 |
-| The Princess is in this Castle | 0.20% | ~980 |
-| True Catholic | 0.20% | ~980 |
-| Truly Divine Ruler | 0.20% | ~980 |
+| Cold War | 0.20% | ~981 |
+| Defender of the Faith | 0.20% | ~981 |
+| For the Glory | 0.20% | ~981 |
+| It's all about luck | 0.20% | ~981 |
+| It's all about the money | 0.20% | ~981 |
+| Respected | 0.20% | ~981 |
+| The Princess is in this Castle | 0.20% | ~981 |
+| True Catholic | 0.20% | ~981 |
+| Truly Divine Ruler | 0.20% | ~981 |
 | The 52 Garhs | 0.10% | ~490 |
 | I don't like sand | 0.10% | ~490 |
 | A Blessed Nation | 0.10% | ~490 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 490,210 (Ranked 42)  
+Progressed: 490,256 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -627,10 +627,10 @@ Completed: 1 (0.00%) (Ranked 390)
 | 2023-12-30 | 488,255 | 1 |
 | 2023-12-31 | 489,119 | 1 |
 | 2024-01-01 | 489,961 | 1 |
-| 2024-01-02 | 490,210 | 1 |
+| 2024-01-02 | 490,256 | 1 |
 ## Awards
 Max (Educational): 7,680  (Ranked 54)  
-Sum: 63,271 (Ranked 24)  
+Sum: 63,286 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -638,7 +638,7 @@ Diff (max vs sum): 30
 | This game has Diverse Characters | 7,513 |
 | This game is Highly Recommended | 7,360 |
 | This game has Challenging Combat | 7,299 |
-| This game is Extremely Fun | 7,183 |
+| This game is Extremely Fun | 7,198 |
 | This game is Relaxing | 7,041 |
 | This game has Competitive Players | 6,868 |
 | This game has Amazing Storytelling | 6,402 |
@@ -997,4 +997,4 @@ Diff (max vs sum): 30
 | 2023-12-30 | 4.69 | - | 7,620 | 62,893 |
 | 2023-12-31 | 4.69 | - | 7,645 | 63,014 |
 | 2024-01-01 | 4.69 | - | 7,659 | 63,158 |
-| 2024-01-02 | 4.69 | - | 7,680 | 63,271 |
+| 2024-01-02 | 4.69 | - | 7,680 | 63,286 |

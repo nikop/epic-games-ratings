@@ -2,13 +2,13 @@
   "ID": "1fe9a1a33a8b4df8bd8dd3b9269f8153",
   "Name": "Animation Throwdown: The Quest for Cards",
   "ProductSlug": "animation-throwdown-the-quest-for-cards",
-  "Ranking_Rating": 860,
+  "Ranking_Rating": 861,
   "Ranking_Popularity": 243,
   "Ranking_PopularitySum": 186,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-10-04T17:00:00+00:00",
     "PcReleaseDate": "2017-05-05T11:49:39+00:00",
@@ -2396,10 +2396,16 @@
       "Rating": 4.31,
       "NumberOfAwards": 2851,
       "NumberOfAwardsMax": 376
+    },
+    {
+      "Time": "2024-01-02T13:02:11.3386968+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 2852,
+      "NumberOfAwardsMax": 376
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2851,
+  "NumberOfAwards": 2852,
   "NumberOfAwardsMax": 376,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2437,7 +2443,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 294
+      "Count": 295
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2475,8 +2481,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:50.5721144+00:00",
-  "LastChanged": "2024-01-01T23:58:30.997695+00:00",
+  "LastChanged": "2024-01-02T13:02:11.3386966+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:19.3534558+00:00",
-  "LastUpdate_Ratings": "2024-01-02T11:58:31.0484616+00:00",
-  "LastUpdate_Achievements": "2024-01-02T12:08:40.036558+00:00"
+  "LastUpdate_Ratings": "2024-01-02T13:02:11.3386972+00:00",
+  "LastUpdate_Achievements": "2024-01-02T13:12:18.5088366+00:00"
 }

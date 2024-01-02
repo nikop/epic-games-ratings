@@ -6,18 +6,18 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 12.00% | ~737 |
-| Lost and Found | 8.00% | ~491 |
-| This Belongs in a Museum | 6.00% | ~7,876 |
-| Autodidact | 6.00% | ~7,876 |
-| This guy... again? | 6.00% | ~368 |
+| Malpractice Assurance | 12.00% | ~738 |
+| Lost and Found | 8.00% | ~492 |
+| This Belongs in a Museum | 6.00% | ~7,877 |
+| Autodidact | 6.00% | ~7,877 |
+| This guy... again? | 6.00% | ~369 |
 | Serenity Now! | 5.00% | ~6,564 |
 | Creep and Sleep | 5.00% | ~6,564 |
 | Catch and Decease | 5.00% | ~6,564 |
 | Overdue Notice | 5.00% | ~6,564 |
 | Escape from the Black Hole | 5.00% | ~6,564 |
-| Ploughshares to Swords | 5.00% | ~307 |
-| Bloody Graduation | 5.00% | ~307 |
+| Ploughshares to Swords | 5.00% | ~308 |
+| Bloody Graduation | 5.00% | ~308 |
 | Don't Make Me Turn This Coach Around | 4.00% | ~5,251 |
 | It Rings a Bell | 4.00% | ~5,251 |
 | Not Today! | 4.00% | ~5,251 |
@@ -48,23 +48,23 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Clear Conscience | 3.00% | ~3,938 |
 | Unshackled | 3.00% | ~3,938 |
 | Road Trip | 3.00% | ~3,938 |
-| This Looks Familiar | 2.00% | ~2,625 |
-| Hope Rekindled | 2.00% | ~2,625 |
-| Predator | 2.00% | ~2,625 |
-| Ichthyophobic | 2.00% | ~2,625 |
-| No More Mouths to Feed | 2.00% | ~2,625 |
-| Reverse Banditry | 2.00% | ~2,625 |
-| When You Want Something Done Right | 2.00% | ~2,625 |
-| Worldly Traveller | 2.00% | ~2,625 |
-| Utopia | 2.00% | ~2,625 |
-| Hot Air | 2.00% | ~2,625 |
-| Eyes Up | 2.00% | ~2,625 |
+| This Looks Familiar | 2.00% | ~2,626 |
+| Hope Rekindled | 2.00% | ~2,626 |
+| Predator | 2.00% | ~2,626 |
+| Ichthyophobic | 2.00% | ~2,626 |
+| No More Mouths to Feed | 2.00% | ~2,626 |
+| Reverse Banditry | 2.00% | ~2,626 |
+| When You Want Something Done Right | 2.00% | ~2,626 |
+| Worldly Traveller | 2.00% | ~2,626 |
+| Utopia | 2.00% | ~2,626 |
+| Hot Air | 2.00% | ~2,626 |
+| Eyes Up | 2.00% | ~2,626 |
 | Shrine of Reflection | 1.00% | ~1,313 |
 | Handled | 1.00% | ~1,313 |
 | Body of Work | 1.00% | ~1,313 |
-| Slap on the Wrist | 1.00% | ~61 |
-| For Old Time' Sake | 1.00% | ~61 |
-| Clearing the Ledger | 0.90% | ~1,181 |
+| Slap on the Wrist | 1.00% | ~62 |
+| For Old Time' Sake | 1.00% | ~62 |
+| Clearing the Ledger | 0.90% | ~1,182 |
 | Hat Trick | 0.80% | ~1,050 |
 | Triage | 0.80% | ~1,050 |
 | No Mercy | 0.80% | ~49 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,270 (Ranked 90)  
+Progressed: 131,281 (Ranked 90)  
 Completed: 3 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,7 +333,7 @@ Completed: 3 (0.00%) (Ranked 390)
 | 2023-12-30 | 130,838 | 3 |
 | 2023-12-31 | 131,026 | 3 |
 | 2024-01-01 | 131,206 | 3 |
-| 2024-01-02 | 131,270 | 3 |
+| 2024-01-02 | 131,281 | 3 |
 ## Awards
 Max (Character Customization): 7,927  (Ranked 50)  
 Sum: 21,347 (Ranked 58)  

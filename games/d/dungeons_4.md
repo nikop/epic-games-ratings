@@ -34,9 +34,9 @@ Rating: 4.70 (Ranked 216)
 | Mana Cannon | 42.00% | ~290 |
 | All’s Well That Ends Evil | 41.00% | ~283 |
 | The Duel | 38.00% | ~263 |
+| Master of the Undead | 35.00% | ~242 |
 | If Looks Could Kill | 35.00% | ~242 |
 | Unstoppable Horde | 34.00% | ~235 |
-| Master of the Undead | 34.00% | ~235 |
 | The Finitude Drill | 33.00% | ~228 |
 | Ghost Pirates? Ghost Heroes! | 30.00% | ~207 |
 | Doom Hill | 30.00% | ~207 |
@@ -67,7 +67,7 @@ Rating: 4.70 (Ranked 216)
 | No Mana, No Cry | 10.00% | ~69 |
 | I Don't Need Any Help | 10.00% | ~69 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 691 (Ranked 313)  
+Progressed: 691 (Ranked 314)  
 Completed: 27 (3.91%) (Ranked 91)  
 ## EOS Players History
 | Date | Progressed | Completed |

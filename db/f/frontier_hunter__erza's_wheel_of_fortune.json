@@ -2,9 +2,12 @@
   "ID": "f9af68c0b03e425999c18381eb45e5fb",
   "Name": "Frontier Hunter: Erza\u0027s Wheel of Fortune",
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
+  "Ranking_Rating": 815,
+  "Ranking_Popularity": 577,
+  "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 316,
-  "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_Completed": 228,
+  "Ranking_EOS_NewPlayers": 327,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
@@ -15,10 +18,17 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
+  "Rating": 4.35,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:35.9709384+00:00",
       "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-02T13:03:58.5026074+00:00",
+      "Rating": 4.35,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -2718,9 +2728,9 @@
       "ID": "ACHIEVEMENT_9",
       "SetID": "7pimpda",
       "Name": "Handyman",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 192
+      "UsersEstimate": 199
     }
   ],
   "AchievementSets": [
@@ -2734,9 +2744,9 @@
   "FirstSeen": "2023-02-17T17:57:30.0066126+00:00",
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
-  "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2024-01-02T12:09:17.3239451+00:00",
+  "LastChanged": "2024-01-02T13:03:58.5026072+00:00",
+  "LastChanged_Achievements": "2024-01-02T13:12:57.1119454+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:39.5136135+00:00",
-  "LastUpdate_Ratings": "2024-01-02T12:00:27.382681+00:00",
-  "LastUpdate_Achievements": "2024-01-02T12:09:17.3239896+00:00"
+  "LastUpdate_Ratings": "2024-01-02T13:03:58.5026076+00:00",
+  "LastUpdate_Achievements": "2024-01-02T13:12:57.1119915+00:00"
 }

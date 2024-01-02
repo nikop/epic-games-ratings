@@ -18,10 +18,10 @@
 | Good as Fish | 11.00% | ~74 |
 | Her Eyes | 11.00% | ~74 |
 | Trigger-Happy | 10.00% | ~68 |
+| The Friend | 9.00% | ~61 |
 | Gollum/Sméagol | 9.00% | ~61 |
 | Murderer | 9.00% | ~61 |
 | He's so Annoying | 8.00% | ~54 |
-| The Friend | 8.00% | ~54 |
 | Master of the Old Game | 5.00% | ~34 |
 | Made a Song | 5.00% | ~34 |
 | So Tasty! | 4.00% | ~27 |
@@ -31,9 +31,9 @@
 | And now we wish... | 2.00% | ~14 |
 | Collectibles Part 2 | 1.00% | ~7 |
 | Ss ss ss... | 1.00% | ~7 |
+| We wants it! We needs it | 0.70% | ~5 |
 | Nervous Hands | 0.70% | ~5 |
 | Elf-Friend | 0.60% | ~4 |
-| We wants it! We needs it | 0.60% | ~4 |
 | Scout | 0.60% | ~4 |
 | We Hates Them! | 0.40% | ~3 |
 | Good Sméagol! | 0.40% | ~3 |

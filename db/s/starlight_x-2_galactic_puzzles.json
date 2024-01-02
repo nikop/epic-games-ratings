@@ -2,10 +2,10 @@
   "ID": "8805c35d5be3445883a032fd3efc14d0",
   "Name": "Starlight X-2 Galactic Puzzles",
   "ProductSlug": "starlight-x2-galactic-puzzles-dede7d",
-  "Ranking_EOS_Progress": 507,
+  "Ranking_EOS_Progress": 504,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 493,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-06-07T07:00:00+00:00",
     "PcReleaseDate": "2021-04-15T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 80,
+  "EOS_Progressed": 82,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -409,6 +409,11 @@
       "Time": "2024-01-01T15:09:54.6750426+00:00",
       "NumProgressed": 80,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T13:13:42.5488191+00:00",
+      "NumProgressed": 82,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 43,
@@ -730,7 +735,7 @@
       "ID": "ach_switchoff_00",
       "SetID": "8jkn3bi",
       "Name": "Switch off the light",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -754,7 +759,7 @@
       "ID": "ach_usehints_02",
       "SetID": "8jkn3bi",
       "Name": "Use 50 hints",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 50,
       "UsersEstimate": 2
     }
@@ -763,14 +768,14 @@
     {
       "ID": "8jkn3bi",
       "IsBase": true,
-      "Progressed": 80,
+      "Progressed": 82,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-18T16:58:15.9400848+00:00",
   "FirstSeenAchievements": "2023-04-25T20:54:03.7448556+00:00",
-  "LastChanged_Achievements": "2024-01-02T12:10:02.9402362+00:00",
+  "LastChanged_Achievements": "2024-01-02T13:13:42.5488188+00:00",
   "LastUpdate_AppInfo": "2023-12-30T17:56:59.9780956+00:00",
-  "LastUpdate_Ratings": "2024-01-02T11:58:10.6457578+00:00",
-  "LastUpdate_Achievements": "2024-01-02T12:10:02.940265+00:00"
+  "LastUpdate_Ratings": "2024-01-02T13:01:50.7571126+00:00",
+  "LastUpdate_Achievements": "2024-01-02T13:13:42.5488738+00:00"
 }

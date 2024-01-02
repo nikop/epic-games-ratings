@@ -1,7 +1,7 @@
 # Circus Electrique
 [Store](https://store.epicgames.com/en-US/p/circus-electrique)  
 [View Rawdata](../../db/c/circus_electrique.json)  
-Rating: 4.16 (Ranked 977)  
+Rating: 4.16 (Ranked 978)  
 Number of Ratings: 22  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -17,8 +17,8 @@ Number of Ratings: 22  (23.09.2022)
 | Dirty Dozen | 21.00% | ~105 |
 | Fan Service | 19.00% | ~95 |
 | Lion Tamer | 18.00% | ~90 |
+| King of District 1 | 17.00% | ~85 |
 | Amazing! | 17.00% | ~85 |
-| King of District 1 | 16.00% | ~80 |
 | Lucky Day | 15.00% | ~75 |
 | Bar Brawler | 15.00% | ~75 |
 | Flawless Presentation | 15.00% | ~75 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 185,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3927,9 +3927,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33121,
+  "EOS_Progressed": 33124,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 384,
+  "EOS_NewPlayers": 383,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -24332,6 +24332,11 @@
       "Time": "2024-01-02T12:08:49.4275506+00:00",
       "NumProgressed": 33121,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-02T13:12:27.9377458+00:00",
+      "NumProgressed": 33124,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -24647,7 +24652,7 @@
       "Name": "Stylish",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3643
+      "UsersEstimate": 3644
     },
     {
       "ID": "Summoner",
@@ -24750,7 +24755,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33121,
+      "Progressed": 33124,
       "Completed": 71
     }
   ],
@@ -24758,8 +24763,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2024-01-02T09:58:49.6019984+00:00",
-  "LastChanged_Achievements": "2024-01-02T12:08:49.4275502+00:00",
+  "LastChanged_Achievements": "2024-01-02T13:12:27.9377453+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:23.250158+00:00",
-  "LastUpdate_Ratings": "2024-01-02T11:58:54.0948171+00:00",
-  "LastUpdate_Achievements": "2024-01-02T12:08:49.4276922+00:00"
+  "LastUpdate_Ratings": "2024-01-02T13:02:31.4293303+00:00",
+  "LastUpdate_Achievements": "2024-01-02T13:12:27.9378847+00:00"
 }

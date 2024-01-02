@@ -4,8 +4,8 @@
   "ProductSlug": "the-entropy-centre-40bccd",
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 493,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 495,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2022-11-03T16:00:00+00:00",
@@ -1026,9 +1026,9 @@
       "ID": "ACH_ACT11",
       "SetID": "2310cb1",
       "Name": "Transformers, cubes in disguise",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_ACT12",
@@ -1235,8 +1235,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2024-01-02T12:05:04.8338071+00:00",
+  "LastChanged_Achievements": "2024-01-02T13:08:45.1382329+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:26.9087995+00:00",
-  "LastUpdate_Ratings": "2024-01-02T11:57:07.8843767+00:00",
-  "LastUpdate_Achievements": "2024-01-02T12:05:04.8338343+00:00"
+  "LastUpdate_Ratings": "2024-01-02T13:00:48.6225413+00:00",
+  "LastUpdate_Achievements": "2024-01-02T13:08:45.1382489+00:00"
 }

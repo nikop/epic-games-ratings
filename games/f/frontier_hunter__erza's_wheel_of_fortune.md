@@ -1,6 +1,7 @@
 # Frontier Hunter: Erza's Wheel of Fortune
 [Store](https://store.epicgames.com/en-US/p/frontier-hunter-erzas-wheel-of-fortune)  
 [View Rawdata](../../db/f/frontier_hunter__erza's_wheel_of_fortune.json)  
+Rating: 4.35 (Ranked 815)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -16,7 +17,7 @@
 | Beginner Cook | 38.00% | ~261 |
 | Beginner Artificer | 37.00% | ~254 |
 | Seal Breaker | 32.00% | ~220 |
-| Handyman | 28.00% | ~192 |
+| Handyman | 29.00% | ~199 |
 | Giant Lizard Killer | 27.00% | ~185 |
 | Guardian | 26.00% | ~179 |
 | Nosebleeder | 25.00% | ~172 |
@@ -51,7 +52,7 @@
 | Warden Challenge | 2.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 687 (Ranked 316)  
-Completed: 3 (0.44%) (Ranked 227)  
+Completed: 3 (0.44%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -174,3 +175,4 @@ Completed: 3 (0.44%) (Ranked 227)
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
 | 2023-03-31 | - | 0 | 0 |
+| 2024-01-02 | 4.35 | 0 | 0 |

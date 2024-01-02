@@ -1,30 +1,30 @@
 # The Uncertain: Last Quiet Day
 [Store](https://store.epicgames.com/en-US/p/the-uncertain-last-quiet-day)  
 [View Rawdata](../../db/t/the_uncertain__last_quiet_day.json)  
-Rating: 3.75 (Ranked 1,078)  
+Rating: 3.75 (Ranked 1,079)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I can do a thing or two | 60.00% | ~374 |
+| I can do a thing or two | 60.00% | ~375 |
 | Buckle up | 58.00% | ~362 |
 | Quick charge | 58.00% | ~362 |
-| Hands up! | 52.00% | ~324 |
-| Now you know | 52.00% | ~324 |
-| Short circuit | 52.00% | ~324 |
+| Hands up! | 52.00% | ~325 |
+| Now you know | 52.00% | ~325 |
+| Short circuit | 52.00% | ~325 |
 | Curious | 42.00% | ~262 |
 | Everybody lies | 36.00% | ~225 |
 | Trick or Treat? | 23.00% | ~144 |
-| Sysadmin | 22.00% | ~137 |
-| There is another way | 22.00% | ~137 |
+| Sysadmin | 22.00% | ~138 |
+| There is another way | 22.00% | ~138 |
 | Every little helps | 20.00% | ~125 |
 | Annoying | 19.00% | ~119 |
 | Hacker | 19.00% | ~119 |
 | He is just a child | 19.00% | ~119 |
 | The Walking Robot Among Us | 19.00% | ~119 |
 | Uncertain | 18.00% | ~112 |
-| Ace | 17.00% | ~106 |
 | Goody | 17.00% | ~106 |
 | Not what it seems | 17.00% | ~106 |
+| Ace | 16.00% | ~100 |
 | Concrete painting | 16.00% | ~100 |
 | Found it! | 16.00% | ~100 |
 | Please oh pleeease! | 16.00% | ~100 |
@@ -38,7 +38,7 @@ Rating: 3.75 (Ranked 1,078)
 | Accurate | 5.00% | ~31 |
 | Silent | 4.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 624 (Ranked 330)  
+Progressed: 625 (Ranked 330)  
 Completed: 19 (3.04%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,6 +180,7 @@ Completed: 19 (3.04%) (Ranked 109)
 | 2023-12-29 | 620 | 19 |
 | 2023-12-30 | 621 | 19 |
 | 2023-12-31 | 624 | 19 |
+| 2024-01-02 | 625 | 19 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

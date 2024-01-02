@@ -6,44 +6,44 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 42.00% | ~36,630 |
-| Landlord | 34.00% | ~29,653 |
-| Trained | 29.00% | ~25,292 |
-| Bannerlord | 24.00% | ~20,932 |
-| Lawmaker | 23.00% | ~20,059 |
-| Horde breaker | 21.00% | ~18,315 |
-| The king is pleased | 19.00% | ~16,571 |
-| King Solomon | 17.00% | ~14,827 |
-| Apple of my eye | 16.00% | ~13,954 |
-| I can do it | 15.00% | ~13,082 |
-| This Is Our Land | 15.00% | ~13,082 |
-| Against all odds | 14.00% | ~12,210 |
-| Duelist | 12.00% | ~10,466 |
-| God of the Arena | 12.00% | ~10,466 |
-| Swordbearer | 11.00% | ~9,594 |
-| Dynasty | 10.00% | ~8,722 |
-| What have the Romans ever done for us? | 10.00% | ~8,722 |
-| Butterlord | 9.00% | ~7,849 |
-| I spit on your grave | 9.00% | ~7,849 |
-| Mastery | 7.00% | ~6,105 |
-| Know your enemy | 6.00% | ~5,233 |
-| My way | 5.00% | ~4,361 |
-| Crowdfunded | 4.00% | ~3,489 |
-| Crush your enemies | 4.00% | ~3,489 |
-| Veni vidi vici | 4.00% | ~3,489 |
-| Freedom! | 3.00% | ~2,616 |
-| Long live the Empire! | 3.00% | ~2,616 |
-| Real Estate | 3.00% | ~2,616 |
-| Entrepreneur | 1.00% | ~872 |
-| Supreme Emperor | 1.00% | ~872 |
+| Lawbringer | 42.00% | ~36,649 |
+| Landlord | 34.00% | ~29,668 |
+| Trained | 29.00% | ~25,305 |
+| Bannerlord | 24.00% | ~20,942 |
+| Lawmaker | 23.00% | ~20,070 |
+| Horde breaker | 21.00% | ~18,324 |
+| The king is pleased | 19.00% | ~16,579 |
+| King Solomon | 17.00% | ~14,834 |
+| Apple of my eye | 16.00% | ~13,961 |
+| I can do it | 15.00% | ~13,089 |
+| This Is Our Land | 15.00% | ~13,089 |
+| Against all odds | 14.00% | ~12,216 |
+| Duelist | 12.00% | ~10,471 |
+| God of the Arena | 12.00% | ~10,471 |
+| Swordbearer | 11.00% | ~9,598 |
+| Dynasty | 10.00% | ~8,726 |
+| What have the Romans ever done for us? | 10.00% | ~8,726 |
+| Butterlord | 9.00% | ~7,853 |
+| I spit on your grave | 9.00% | ~7,853 |
+| Mastery | 7.00% | ~6,108 |
+| Know your enemy | 6.00% | ~5,236 |
+| My way | 5.00% | ~4,363 |
+| Crowdfunded | 4.00% | ~3,490 |
+| Crush your enemies | 4.00% | ~3,490 |
+| Veni vidi vici | 4.00% | ~3,490 |
+| Freedom! | 3.00% | ~2,618 |
+| Long live the Empire! | 3.00% | ~2,618 |
+| Real Estate | 3.00% | ~2,618 |
+| Entrepreneur | 1.00% | ~873 |
+| Supreme Emperor | 1.00% | ~873 |
 | Crackshot | 0.80% | ~698 |
 | Undercover | 0.80% | ~698 |
 | Fat Cat | 0.70% | ~611 |
 | Catch | 0.50% | ~436 |
 | Slice 'n dice | 0.40% | ~349 |
 | Ride it like you stole it | 0.30% | ~262 |
-| Mounted Archery | 0.20% | ~174 |
-| Strike! | 0.20% | ~174 |
+| Mounted Archery | 0.20% | ~175 |
+| Strike! | 0.20% | ~175 |
 | Best served cold | 0.10% | ~87 |
 | Butcher of Calradia | 0.10% | ~87 |
 | Explorer | 0.10% | ~87 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,215 (Ranked 104)  
+Progressed: 87,259 (Ranked 104)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,19 +315,19 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-30 | 85,195 | 0 |
 | 2023-12-31 | 86,075 | 0 |
 | 2024-01-01 | 86,974 | 0 |
-| 2024-01-02 | 87,215 | 0 |
+| 2024-01-02 | 87,259 | 0 |
 ## Awards
 Max (Character Customization): 7,826  (Ranked 51)  
-Sum: 16,316 (Ranked 67)  
+Sum: 16,322 (Ranked 67)  
 Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,826 |
-| This game is Great for Beginners | 1,173 |
+| This game is Great for Beginners | 1,176 |
 | This game has Diverse Characters | 1,095 |
 | This game is Highly Recommended | 996 |
 | This game is Extremely Fun | 928 |
-| This game has Amazing Storytelling | 919 |
+| This game has Amazing Storytelling | 922 |
 | This game has Amazing Characters | 915 |
 | This game is Relaxing | 896 |
 | This game has Quickly Understood Controls | 879 |
@@ -689,3 +689,4 @@ Diff (max vs sum): -16
 | 2023-12-30 | 4.74 | - | 7,787 | 16,248 |
 | 2023-12-31 | 4.74 | - | 7,806 | 16,279 |
 | 2024-01-01 | 4.74 | - | 7,826 | 16,316 |
+| 2024-01-02 | 4.74 | - | 7,826 | 16,322 |

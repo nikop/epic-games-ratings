@@ -1,21 +1,21 @@
 # ELEX II
 [Store](https://store.epicgames.com/en-US/p/elex-ii)  
 [View Rawdata](../../db/e/elex_ii.json)  
-Rating: 4.29 (Ranked 876)  
+Rating: 4.29 (Ranked 877)  
 Number of Ratings: 124  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Entrepreneur | 36.00% | ~59 |
-| Best Buddy | 29.00% | ~47 |
-| Civilian | 28.00% | ~46 |
-| Role Model | 23.00% | ~37 |
+| Best Buddy | 29.00% | ~48 |
+| Civilian | 27.00% | ~44 |
+| Role Model | 24.00% | ~39 |
+| Military Leader | 20.00% | ~33 |
 | Creator | 20.00% | ~33 |
 | Festival-goer | 20.00% | ~33 |
 | Peddler | 19.00% | ~31 |
-| Military Leader | 19.00% | ~31 |
-| Commander | 15.00% | ~24 |
-| Long-Haul Flyer | 12.00% | ~20 |
+| Commander | 15.00% | ~25 |
+| Long-Haul Flyer | 13.00% | ~21 |
 | Irissa's Fate | 12.00% | ~20 |
 | Pass A38 | 12.00% | ~20 |
 | Berserker | 9.00% | ~15 |
@@ -24,8 +24,8 @@ Number of Ratings: 124  (23.09.2022)
 | Globetrotter | 8.00% | ~13 |
 | Storyteller | 7.00% | ~11 |
 | Alb | 7.00% | ~11 |
-| Banker | 6.00% | ~10 |
 | Hunter | 6.00% | ~10 |
+| Banker | 5.00% | ~8 |
 | Perfectionist | 5.00% | ~8 |
 | Beam Me Up | 4.00% | ~7 |
 | Hotshot | 4.00% | ~7 |
@@ -36,9 +36,9 @@ Number of Ratings: 124  (23.09.2022)
 | Treasure Hunter | 3.00% | ~5 |
 | Self-Sufficient | 3.00% | ~5 |
 | Unbreakable | 3.00% | ~5 |
+| Weaponsmith | 2.00% | ~3 |
 | Alchemist | 2.00% | ~3 |
 | Idealist | 2.00% | ~3 |
-| Weaponsmith | 1.00% | ~2 |
 | Morkon | 1.00% | ~2 |
 | Legendary | 1.00% | ~2 |
 | Toy Time | 0.60% | ~1 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Enforcer | 0.00% | ~0 |
 | Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 163 (Ranked 441)  
+Progressed: 164 (Ranked 440)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-30 | 141 | 0 |
 | 2023-12-31 | 154 | 0 |
 | 2024-01-01 | 162 | 0 |
-| 2024-01-02 | 163 | 0 |
+| 2024-01-02 | 164 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

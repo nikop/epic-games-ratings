@@ -2,13 +2,13 @@
   "ID": "45a3134e24b3470dbd9ea94d17b3507b",
   "Name": "Townsmen - A Kingdom Rebuilt",
   "ProductSlug": "townsmen-a-kingdom-rebuilt-07c09d",
-  "Ranking_Rating": 894,
+  "Ranking_Rating": 895,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 407,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 397,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
     "PcReleaseDate": "2019-02-26T00:00:00+00:00",
@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4414,
+  "EOS_Progressed": 4415,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1888,6 +1888,11 @@
       "Time": "2024-01-01T17:11:14.2806345+00:00",
       "NumProgressed": 4414,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-02T13:13:49.0990172+00:00",
+      "NumProgressed": 4415,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 101,
@@ -1963,7 +1968,7 @@
       "Name": "I like to build stuff... I",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "ACHIEVEMENT_BUILDINGS2",
@@ -2706,15 +2711,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4414,
+      "Progressed": 4415,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-12-26T18:02:48.4372833+00:00",
-  "LastChanged_Achievements": "2024-01-02T12:10:09.488378+00:00",
+  "LastChanged_Achievements": "2024-01-02T13:13:49.0990169+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:20.4533426+00:00",
-  "LastUpdate_Ratings": "2024-01-02T11:59:11.8672219+00:00",
-  "LastUpdate_Achievements": "2024-01-02T12:10:09.4884803+00:00"
+  "LastUpdate_Ratings": "2024-01-02T13:02:47.5254534+00:00",
+  "LastUpdate_Achievements": "2024-01-02T13:13:49.0991339+00:00"
 }

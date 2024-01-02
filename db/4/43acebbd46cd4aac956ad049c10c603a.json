@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -265,9 +265,9 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 1234,
+  "EOS_Progressed": 1235,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3430,6 +3430,11 @@
       "Time": "2024-01-02T08:03:19.5531742+00:00",
       "NumProgressed": 1234,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-02T13:07:15.2924082+00:00",
+      "NumProgressed": 1235,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3522,7 +3527,7 @@
       "Name": "Circular Oasis",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "DesolateIsland",
@@ -3546,7 +3551,7 @@
       "Name": "Eastern Wetlands",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "EcstaticTruth",
@@ -3610,7 +3615,7 @@
       "Name": "Into the Machine",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "JustOneLap",
@@ -3658,15 +3663,15 @@
       "Name": "Museum Explorer",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "MuseumVisitor",
       "SetID": "1n308hc",
       "Name": "Museum Visitor",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 296
+      "UsersEstimate": 309
     },
     {
       "ID": "NewBeginning",
@@ -3690,7 +3695,7 @@
       "Name": "Not What It Seems",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "Overload",
@@ -3706,7 +3711,7 @@
       "Name": "Persistent",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "PrometheusUnbound",
@@ -3722,7 +3727,7 @@
       "Name": "Puzzle Fiend",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "RemnantsOfThePast",
@@ -3746,7 +3751,7 @@
       "Name": "Scientia Vincere Tenebras",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "Signatory",
@@ -3778,7 +3783,7 @@
       "Name": "Southern Coast",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "TeamSpirit",
@@ -3840,9 +3845,9 @@
       "ID": "TheThiefOfFire",
       "SetID": "1n308hc",
       "Name": "The Thief of Fire",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 271
+      "UsersEstimate": 284
     },
     {
       "ID": "TheWordEndures",
@@ -3866,7 +3871,7 @@
       "Name": "Trevor\u0027s Biographer",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "VerdantCanyon",
@@ -3906,14 +3911,14 @@
       "Name": "Your Biggest Fan",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     }
   ],
   "AchievementSets": [
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1234,
+      "Progressed": 1235,
       "Completed": 2
     }
   ],
@@ -3921,8 +3926,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-01T16:59:26.0585046+00:00",
-  "LastChanged_Achievements": "2024-01-02T12:03:34.9263001+00:00",
+  "LastChanged_Achievements": "2024-01-02T13:07:15.2924079+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.9244138+00:00",
-  "LastUpdate_Ratings": "2024-01-02T11:59:03.151013+00:00",
-  "LastUpdate_Achievements": "2024-01-02T12:03:34.9263618+00:00"
+  "LastUpdate_Ratings": "2024-01-02T13:02:39.3825621+00:00",
+  "LastUpdate_Achievements": "2024-01-02T13:07:15.2924656+00:00"
 }

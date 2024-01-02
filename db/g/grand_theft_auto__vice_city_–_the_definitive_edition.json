@@ -1051,9 +1051,9 @@
       "Count": 172
     }
   ],
-  "EOS_Progressed": 15051,
+  "EOS_Progressed": 15055,
   "EOS_Completed": 85,
-  "EOS_NewPlayers": 950,
+  "EOS_NewPlayers": 947,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -16741,6 +16741,11 @@
       "Time": "2024-01-02T12:09:40.3180051+00:00",
       "NumProgressed": 15051,
       "NumCompleted": 85
+    },
+    {
+      "Time": "2024-01-02T13:13:20.3529755+00:00",
+      "NumProgressed": 15055,
+      "NumCompleted": 85
     }
   ],
   "TotalAchievements": 34,
@@ -16768,7 +16773,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 1505
+      "UsersEstimate": 1506
     },
     {
       "ID": "ACH04",
@@ -16856,7 +16861,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 6321
+      "UsersEstimate": 6323
     },
     {
       "ID": "ACH15",
@@ -16912,7 +16917,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 6923
+      "UsersEstimate": 6925
     },
     {
       "ID": "ACH22",
@@ -16920,7 +16925,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 3010
+      "UsersEstimate": 3011
     },
     {
       "ID": "ACH23",
@@ -16928,7 +16933,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 3913
+      "UsersEstimate": 3914
     },
     {
       "ID": "ACH24",
@@ -17023,7 +17028,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 15051,
+      "Progressed": 15055,
       "Completed": 85
     }
   ],
@@ -17031,8 +17036,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-01T23:57:10.5196761+00:00",
-  "LastChanged_Achievements": "2024-01-02T12:09:40.3180048+00:00",
+  "LastChanged_Achievements": "2024-01-02T13:13:20.352975+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:48.9246276+00:00",
-  "LastUpdate_Ratings": "2024-01-02T11:57:17.8520042+00:00",
-  "LastUpdate_Achievements": "2024-01-02T12:09:40.3181152+00:00"
+  "LastUpdate_Ratings": "2024-01-02T13:00:58.7346413+00:00",
+  "LastUpdate_Achievements": "2024-01-02T13:13:20.3531601+00:00"
 }

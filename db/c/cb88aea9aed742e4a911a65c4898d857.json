@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -251,9 +251,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 9552,
+  "EOS_Progressed": 9559,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1866,
+  "EOS_NewPlayers": 1865,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3356,6 +3356,11 @@
       "Time": "2024-01-02T12:09:51.936733+00:00",
       "NumProgressed": 9552,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T13:13:31.6687072+00:00",
+      "NumProgressed": 9559,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3574,9 +3579,9 @@
       "ID": "28_TheLightOfAstronomicon",
       "SetID": "37a94m8",
       "Name": "Light of the Astronomican",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 382
+      "UsersEstimate": 478
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -3720,7 +3725,7 @@
       "Name": "A Spark",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "47_AFlame",
@@ -3887,7 +3892,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 9552,
+      "Progressed": 9559,
       "Completed": 0
     }
   ],
@@ -3895,8 +3900,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-02T11:00:10.8366375+00:00",
-  "LastChanged_Achievements": "2024-01-02T12:09:51.9367324+00:00",
+  "LastChanged_Achievements": "2024-01-02T13:13:31.6687068+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2024-01-02T12:00:04.2605294+00:00",
-  "LastUpdate_Achievements": "2024-01-02T12:09:51.9367986+00:00"
+  "LastUpdate_Ratings": "2024-01-02T13:03:38.7887035+00:00",
+  "LastUpdate_Achievements": "2024-01-02T13:13:31.6687681+00:00"
 }

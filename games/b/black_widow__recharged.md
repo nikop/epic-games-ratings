@@ -1,27 +1,27 @@
 # Black Widow: Recharged
 [Store](https://store.epicgames.com/en-US/p/black-widow-recharged)  
 [View Rawdata](../../db/b/black_widow__recharged.json)  
-Rating: 4.21 (Ranked 943)  
+Rating: 4.21 (Ranked 944)  
 Number of Ratings: 34  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Across The Border | 77.00% | ~18,712 |
-| I'm Alive | 51.00% | ~12,394 |
-| Look at Me Now | 26.00% | ~6,318 |
-| Danger Ahead | 25.00% | ~6,075 |
-| Don't Bring Me Down | 17.00% | ~4,131 |
-| The Fall | 16.00% | ~3,888 |
-| Everyone's Born to Die | 14.00% | ~3,402 |
-| Wild West Hero | 13.00% | ~3,159 |
-| In My Own Time | 12.00% | ~2,916 |
-| In For The Kill | 11.00% | ~2,673 |
+| Across The Border | 77.00% | ~18,715 |
+| I'm Alive | 51.00% | ~12,396 |
+| Look at Me Now | 26.00% | ~6,319 |
+| Danger Ahead | 25.00% | ~6,076 |
+| Don't Bring Me Down | 17.00% | ~4,132 |
+| The Fall | 16.00% | ~3,889 |
+| Everyone's Born to Die | 14.00% | ~3,403 |
+| Wild West Hero | 13.00% | ~3,160 |
+| In My Own Time | 12.00% | ~2,917 |
+| In For The Kill | 11.00% | ~2,674 |
 | Caught in a Trap | 10.00% | ~2,430 |
 | Hello My Old Friend | 5.00% | ~1,215 |
 | After All | 0.70% | ~170 |
 | Time of Our Life | 0.30% | ~73 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,301 (Ranked 147)  
+Progressed: 24,305 (Ranked 147)  
 Completed: 61 (0.25%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 61 (0.25%) (Ranked 265)
 | 2023-12-30 | 24,133 | 61 |
 | 2023-12-31 | 24,202 | 61 |
 | 2024-01-01 | 24,270 | 61 |
-| 2024-01-02 | 24,301 | 61 |
+| 2024-01-02 | 24,305 | 61 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

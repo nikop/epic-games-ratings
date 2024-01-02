@@ -10,8 +10,8 @@ Number of Ratings: 116  (23.09.2022)
 | First of many… | 68.00% | ~258 |
 | Helping Hand | 65.00% | ~246 |
 | Increased Vigor | 60.00% | ~227 |
-| Fight Fire with Fire | 57.00% | ~216 |
-| Increased Capacity | 53.00% | ~201 |
+| Fight Fire with Fire | 58.00% | ~220 |
+| Increased Capacity | 54.00% | ~205 |
 | Just the start | 48.00% | ~182 |
 | Perfect Storm | 45.00% | ~171 |
 | All That Glitters | 45.00% | ~171 |

@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Act of Kindness | 88.00% | ~98 |
-| Air Fighter | 75.00% | ~83 |
-| Oo-De-Lally | 72.00% | ~80 |
-| Treasure Hunter | 67.00% | ~74 |
-| The Altruist | 66.00% | ~73 |
+| Act of Kindness | 88.00% | ~99 |
+| Air Fighter | 74.00% | ~83 |
+| Oo-De-Lally | 71.00% | ~80 |
+| Treasure Hunter | 66.00% | ~74 |
+| The Altruist | 65.00% | ~73 |
 | Watch your Step! | 54.00% | ~60 |
-| Tap Dancing | 50.00% | ~56 |
 | MAX LEVEL | 50.00% | ~56 |
-| Right between the eyes | 41.00% | ~46 |
-| Spring Board | 39.00% | ~43 |
-| Starry Night | 38.00% | ~42 |
+| Tap Dancing | 49.00% | ~55 |
+| Right between the eyes | 40.00% | ~45 |
+| Starry Night | 38.00% | ~43 |
+| Spring Board | 38.00% | ~43 |
 | Locksley's Tears | 36.00% | ~40 |
 | Rebel Unleashed | 34.00% | ~38 |
 | Merry Co-operation | 32.00% | ~36 |
 | Assault on the Ram | 25.00% | ~28 |
 | Finish Him! | 24.00% | ~27 |
-| First Aid | 23.00% | ~26 |
-| Ultra Rebel Instinct | 22.00% | ~24 |
-| Merry Go Round | 21.00% | ~23 |
+| First Aid | 22.00% | ~25 |
+| Ultra Rebel Instinct | 21.00% | ~24 |
+| Merry Go Round | 21.00% | ~24 |
 | Savior | 17.00% | ~19 |
 | Hidden Experiment | 16.00% | ~18 |
 | Ultra Combo | 15.00% | ~17 |
@@ -33,9 +33,9 @@
 | Haute Couture | 9.00% | ~10 |
 | The Gang prevails | 6.00% | ~7 |
 | Brilliant Executioner | 5.00% | ~6 |
-| Bold and Bossy | 5.00% | ~6 |
-| Power of Friendship! | 5.00% | ~6 |
 | No Mercy | 4.00% | ~4 |
+| Bold and Bossy | 4.00% | ~4 |
+| Power of Friendship! | 4.00% | ~4 |
 | Out of the ring | 4.00% | ~4 |
 | King of the Iron Fist | 3.00% | ~3 |
 | Five of Friends | 2.00% | ~2 |
@@ -58,7 +58,7 @@
 | The Armorer | 0.00% | ~0 |
 | Master of All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 111 (Ranked 479)  
+Progressed: 112 (Ranked 478)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,3 +98,4 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-30 | 108 | 0 |
 | 2023-12-31 | 109 | 0 |
 | 2024-01-01 | 111 | 0 |
+| 2024-01-02 | 112 | 0 |

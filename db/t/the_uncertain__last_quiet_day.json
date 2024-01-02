@@ -2,13 +2,13 @@
   "ID": "2295b951b8f84e86b950bfaf7cadef60",
   "Name": "The Uncertain: Last Quiet Day",
   "ProductSlug": "the-uncertain-last-quiet-day",
-  "Ranking_Rating": 1078,
+  "Ranking_Rating": 1079,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 367,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 362,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
     "PcReleaseDate": "2016-09-22T14:42:57+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 624,
+  "EOS_Progressed": 625,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.04,
   "EosHistory": [
@@ -1049,6 +1049,11 @@
       "Time": "2023-12-31T21:10:35.4495887+00:00",
       "NumProgressed": 624,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2024-01-02T13:13:38.0899124+00:00",
+      "NumProgressed": 625,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 32,
@@ -1058,9 +1063,9 @@
       "ID": "ACE",
       "SetID": "2iigf77",
       "Name": "Ace",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 106
+      "UsersEstimate": 100
     },
     {
       "ID": "ANNOYING",
@@ -1148,7 +1153,7 @@
       "Name": "Hands up!",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "HAPPY_HALLOWEEN",
@@ -1180,7 +1185,7 @@
       "Name": "I can do a thing or two",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "LUCKY_DOG",
@@ -1220,7 +1225,7 @@
       "Name": "Now you know",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "PERFECT_HEARING",
@@ -1260,7 +1265,7 @@
       "Name": "Short circuit",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "SILENT",
@@ -1276,7 +1281,7 @@
       "Name": "Sysadmin",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "THAT_IS_MUCH_BETTER",
@@ -1292,7 +1297,7 @@
       "Name": "There is another way",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "UNCERTAIN",
@@ -1315,7 +1320,7 @@
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 624,
+      "Progressed": 625,
       "Completed": 19
     }
   ],
@@ -1323,8 +1328,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-12-08T04:01:04.3643054+00:00",
-  "LastChanged_Achievements": "2024-01-02T12:09:58.5251841+00:00",
+  "LastChanged_Achievements": "2024-01-02T13:13:38.089912+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:48.4333912+00:00",
-  "LastUpdate_Ratings": "2024-01-02T11:58:42.7220501+00:00",
-  "LastUpdate_Achievements": "2024-01-02T12:09:58.5252138+00:00"
+  "LastUpdate_Ratings": "2024-01-02T13:02:22.4676693+00:00",
+  "LastUpdate_Achievements": "2024-01-02T13:13:38.0899344+00:00"
 }

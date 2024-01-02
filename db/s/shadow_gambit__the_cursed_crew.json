@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -181,7 +181,7 @@
   "Tags": [],
   "EOS_Progressed": 1400,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.5,
   "EosHistory": [
@@ -4902,9 +4902,9 @@
       "ID": "_07_FinishAct3",
       "SetID": "8a1io5d",
       "Name": "All Good Things",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 238
+      "UsersEstimate": 252
     },
     {
       "ID": "_08_Completion_10",
@@ -4998,9 +4998,9 @@
       "ID": "_19_CrewTale_BSP",
       "SetID": "8a1io5d",
       "Name": "Persistent Parasite",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 238
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -5071,8 +5071,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-27T21:58:17.6269244+00:00",
-  "LastChanged_Achievements": "2024-01-02T12:05:59.4247806+00:00",
+  "LastChanged_Achievements": "2024-01-02T13:09:39.5998454+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.1530944+00:00",
-  "LastUpdate_Ratings": "2024-01-02T12:02:40.3238369+00:00",
-  "LastUpdate_Achievements": "2024-01-02T12:05:59.4248129+00:00"
+  "LastUpdate_Ratings": "2024-01-02T13:06:19.1195166+00:00",
+  "LastUpdate_Achievements": "2024-01-02T13:09:39.5998886+00:00"
 }

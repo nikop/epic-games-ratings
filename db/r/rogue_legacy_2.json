@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1548,9 +1548,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 27480,
+  "EOS_Progressed": 27488,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 675,
+  "EOS_NewPlayers": 672,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -12738,6 +12738,11 @@
       "Time": "2024-01-02T12:09:53.6548734+00:00",
       "NumProgressed": 27480,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-02T13:13:33.4409858+00:00",
+      "NumProgressed": 27488,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -12813,7 +12818,7 @@
       "Name": "Captain and Crew",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1099
+      "UsersEstimate": 1100
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -12859,9 +12864,9 @@
       "ID": "BossFinalDefeated",
       "SetID": "3ojhj46",
       "Name": "King and Kin",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 275
+      "UsersEstimate": 550
     },
     {
       "ID": "BossForestAdvancedDefeated",
@@ -12877,7 +12882,7 @@
       "Name": "Harvest and Home",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "BossGardenAdvancedDefeated",
@@ -12909,7 +12914,7 @@
       "Name": "Poise and Poisons",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "BossTowerAdvancedDefeated",
@@ -12941,7 +12946,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1099
+      "UsersEstimate": 1100
     },
     {
       "ID": "EndTimerFail",
@@ -13060,21 +13065,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 27480,
+      "Progressed": 27488,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 6410,
+      "Progressed": 6418,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-12-31T13:02:19.9867054+00:00",
-  "LastChanged_Achievements": "2024-01-02T12:09:53.6548729+00:00",
+  "LastChanged_Achievements": "2024-01-02T13:13:33.4409854+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.0569835+00:00",
-  "LastUpdate_Ratings": "2024-01-02T11:57:24.543885+00:00",
-  "LastUpdate_Achievements": "2024-01-02T12:09:53.6549703+00:00"
+  "LastUpdate_Ratings": "2024-01-02T13:01:05.2553232+00:00",
+  "LastUpdate_Achievements": "2024-01-02T13:13:33.4410561+00:00"
 }

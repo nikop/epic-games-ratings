@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -827,9 +827,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 240973,
+  "EOS_Progressed": 240984,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1316,
+  "EOS_NewPlayers": 1318,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19732,6 +19732,11 @@
       "Time": "2024-01-02T12:09:58.15847+00:00",
       "NumProgressed": 240973,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T13:13:37.7792916+00:00",
+      "NumProgressed": 240984,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -19800,7 +19805,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 50604
+      "UsersEstimate": 50607
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -19808,7 +19813,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21688
+      "UsersEstimate": 21689
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -19832,7 +19837,7 @@
       "Name": "Great Wastelands (part 2) Completed",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4819
+      "UsersEstimate": 4820
     },
     {
       "ID": "HW1_MISSION6_COMPLETE",
@@ -19840,7 +19845,7 @@
       "Name": "Diamond Shoals Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 7229
+      "UsersEstimate": 7230
     },
     {
       "ID": "HW1_MISSION7_COMPLETE",
@@ -19848,7 +19853,7 @@
       "Name": "The Gardens of Kadesh Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 7229
+      "UsersEstimate": 7230
     },
     {
       "ID": "HW1_MISSION8_COMPLETE",
@@ -19856,7 +19861,7 @@
       "Name": "The Cathedral of Kadesh Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4819
+      "UsersEstimate": 4820
     },
     {
       "ID": "HW1_MISSION9_COMPLETE",
@@ -19864,7 +19869,7 @@
       "Name": "Sea of Lost Souls Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4819
+      "UsersEstimate": 4820
     },
     {
       "ID": "HW1_TUTORIAL_COMPLETE",
@@ -19928,7 +19933,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 33736
+      "UsersEstimate": 33738
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -19936,7 +19941,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 16868
+      "UsersEstimate": 16869
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -19944,7 +19949,7 @@
       "Name": "Sarum Completed",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4819
+      "UsersEstimate": 4820
     },
     {
       "ID": "HW2_MISSION4_COMPLETE",
@@ -20000,7 +20005,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 60243
+      "UsersEstimate": 60246
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -20015,7 +20020,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 240973,
+      "Progressed": 240984,
       "Completed": 0
     }
   ],
@@ -20023,8 +20028,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-12-31T17:57:33.2875325+00:00",
-  "LastChanged_Achievements": "2024-01-02T12:09:58.1584698+00:00",
+  "LastChanged_Achievements": "2024-01-02T13:13:37.7792912+00:00",
   "LastUpdate_AppInfo": "2023-12-29T06:57:17.105104+00:00",
-  "LastUpdate_Ratings": "2024-01-02T11:58:21.8094658+00:00",
-  "LastUpdate_Achievements": "2024-01-02T12:09:58.1585834+00:00"
+  "LastUpdate_Ratings": "2024-01-02T13:02:02.3977329+00:00",
+  "LastUpdate_Achievements": "2024-01-02T13:13:37.7794327+00:00"
 }

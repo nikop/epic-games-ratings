@@ -2,13 +2,13 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
-  "Ranking_Rating": 973,
+  "Ranking_Rating": 974,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -61,7 +61,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1652,
+  "EOS_Progressed": 1654,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 371,
   "EOS_NewCompleters": 0,
@@ -3251,6 +3251,11 @@
       "Time": "2024-01-02T12:10:02.449693+00:00",
       "NumProgressed": 1652,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-02T13:13:42.0616669+00:00",
+      "NumProgressed": 1654,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -3262,15 +3267,15 @@
       "Name": "Break Out",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "ACH_02",
       "SetID": "efe2lj",
       "Name": "Find Allies",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 380
+      "UsersEstimate": 364
     },
     {
       "ID": "ACH_03",
@@ -3278,7 +3283,7 @@
       "Name": "Powerful Allies",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "ACH_04",
@@ -3334,7 +3339,7 @@
       "Name": "Trinity",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "ACH_11",
@@ -3356,9 +3361,9 @@
       "ID": "ACH_13",
       "SetID": "efe2lj",
       "Name": "Adventurer",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 347
+      "UsersEstimate": 331
     },
     {
       "ID": "ACH_14",
@@ -3396,9 +3401,9 @@
       "ID": "ACH_18",
       "SetID": "efe2lj",
       "Name": "Shatter Them All",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 347
+      "UsersEstimate": 364
     },
     {
       "ID": "ACH_19",
@@ -3454,7 +3459,7 @@
       "Name": "Fashion Victim",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ACH_26",
@@ -3478,7 +3483,7 @@
       "Name": "I Found It",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "ACH_29",
@@ -3532,9 +3537,9 @@
       "ID": "ACH_36",
       "SetID": "efe2lj",
       "Name": "A Queen\u0027s Tale",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_38",
@@ -3549,7 +3554,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1652,
+      "Progressed": 1654,
       "Completed": 3
     }
   ],
@@ -3557,8 +3562,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-02T01:47:19.6899919+00:00",
-  "LastChanged_Achievements": "2024-01-02T12:10:02.4496925+00:00",
+  "LastChanged_Achievements": "2024-01-02T13:13:42.0616667+00:00",
   "LastUpdate_AppInfo": "2024-01-01T22:57:08.0954502+00:00",
-  "LastUpdate_Ratings": "2024-01-02T12:00:01.598521+00:00",
-  "LastUpdate_Achievements": "2024-01-02T12:10:02.4497401+00:00"
+  "LastUpdate_Ratings": "2024-01-02T13:03:36.0402614+00:00",
+  "LastUpdate_Achievements": "2024-01-02T13:13:42.0617026+00:00"
 }

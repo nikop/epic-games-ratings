@@ -1,27 +1,27 @@
 # Isonzo
 [Store](https://store.epicgames.com/en-US/p/isonzo)  
 [View Rawdata](../../db/i/isonzo.json)  
-Rating: 4.58 (Ranked 466)  
+Rating: 4.58 (Ranked 467)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Shall Not Pass | 51.00% | ~4,961 |
+| You Shall Not Pass | 51.00% | ~4,962 |
 | Tutti Eroi! | 50.00% | ~4,864 |
 | Peak Performance | 45.00% | ~4,378 |
-| Avanti Savoia! | 44.00% | ~4,280 |
+| Avanti Savoia! | 44.00% | ~4,281 |
 | Mamma Mia! | 35.00% | ~3,405 |
 | Conrad von Hotzensocks | 32.00% | ~3,113 |
 | Gabriele D'Annunzio | 32.00% | ~3,113 |
 | Silver Lining | 27.00% | ~2,627 |
 | Aurelio Baruzzi | 20.00% | ~1,946 |
 | Decimation | 20.00% | ~1,946 |
-| Donatello | 19.00% | ~1,848 |
-| Insubordination | 19.00% | ~1,848 |
-| The Italian Job | 19.00% | ~1,848 |
-| Veni Vidi Vici | 19.00% | ~1,848 |
+| Donatello | 19.00% | ~1,849 |
+| Insubordination | 19.00% | ~1,849 |
+| The Italian Job | 19.00% | ~1,849 |
+| Veni Vidi Vici | 19.00% | ~1,849 |
 | Ragazzi del '99 | 17.00% | ~1,654 |
-| Luigi Cadorna | 16.00% | ~1,556 |
+| Luigi Cadorna | 16.00% | ~1,557 |
 | The Lion of the Isonzo | 14.00% | ~1,362 |
 | Uomo Universale | 13.00% | ~1,265 |
 | Die Bosniaken Kommen! | 12.00% | ~1,167 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~39 |
 | Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,728 (Ranked 181)  
+Progressed: 9,729 (Ranked 181)  
 Completed: 10 (0.10%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 10 (0.10%) (Ranked 304)
 | 2023-12-30 | 9,691 | 10 |
 | 2023-12-31 | 9,706 | 10 |
 | 2024-01-01 | 9,726 | 10 |
-| 2024-01-02 | 9,728 | 10 |
+| 2024-01-02 | 9,729 | 10 |
 ## Awards
 Max (Diverse Characters): 41  (Ranked 474)  
 Sum: 335 (Ranked 369)  

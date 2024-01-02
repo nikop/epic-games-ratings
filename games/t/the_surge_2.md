@@ -1,23 +1,23 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.27 (Ranked 894)  
+Rating: 4.27 (Ranked 895)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 79.00% | ~1,930 |
-| Don't I Know You...? | 75.00% | ~1,832 |
-| Jailbreak | 65.00% | ~1,588 |
-| Suited and Booted | 38.00% | ~928 |
+| Rigged And Ready | 79.00% | ~1,931 |
+| Don't I Know You...? | 75.00% | ~1,833 |
+| Jailbreak | 65.00% | ~1,589 |
+| Suited and Booted | 38.00% | ~929 |
 | HEADSHOT! | 37.00% | ~904 |
 | Sleeping With The Fishes | 35.00% | ~855 |
 | Overheated | 30.00% | ~733 |
 | High Performance | 30.00% | ~733 |
 | Powered Up | 28.00% | ~684 |
-| Studied The Blade | 24.00% | ~586 |
+| Studied The Blade | 24.00% | ~587 |
 | Home Invasion | 23.00% | ~562 |
-| Luminary | 22.00% | ~537 |
-| It's a Trap | 22.00% | ~537 |
+| Luminary | 22.00% | ~538 |
+| It's a Trap | 22.00% | ~538 |
 | True Survivor | 21.00% | ~513 |
 | Offensive Defense | 20.00% | ~489 |
 | Shocking | 20.00% | ~489 |
@@ -26,7 +26,7 @@ Rating: 4.27 (Ranked 894)
 | Clean Cut | 18.00% | ~440 |
 | Dead Again | 17.00% | ~415 |
 | Full Arsenal | 17.00% | ~415 |
-| Can't Trust Banks | 15.00% | ~366 |
+| Can't Trust Banks | 15.00% | ~367 |
 | Mommy Dearest | 13.00% | ~318 |
 | Bad Dog | 13.00% | ~318 |
 | Where It All Began | 13.00% | ~318 |
@@ -38,9 +38,9 @@ Rating: 4.27 (Ranked 894)
 | Stimulating The Local Economy | 10.00% | ~244 |
 | Triplets | 10.00% | ~244 |
 | Denying Prophecy | 9.00% | ~220 |
-| A Little Banged Up | 8.00% | ~195 |
-| Following In Their Footsteps | 8.00% | ~195 |
-| Defense in Depth | 8.00% | ~195 |
+| A Little Banged Up | 8.00% | ~196 |
+| Following In Their Footsteps | 8.00% | ~196 |
+| Defense in Depth | 8.00% | ~196 |
 | Reverse Engineering | 7.00% | ~171 |
 | Reborn | 6.00% | ~147 |
 | Remote Surgery | 6.00% | ~147 |
@@ -63,7 +63,7 @@ Rating: 4.27 (Ranked 894)
 | Three Birds With One Stone | 1.00% | ~24 |
 | The Easy Way Out | 1.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,443 (Ranked 233)  
+Progressed: 2,444 (Ranked 233)  
 Completed: 13 (0.53%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 13 (0.53%) (Ranked 214)
 | 2023-12-30 | 2,418 | 13 |
 | 2023-12-31 | 2,428 | 13 |
 | 2024-01-01 | 2,442 | 13 |
-| 2024-01-02 | 2,443 | 13 |
+| 2024-01-02 | 2,444 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

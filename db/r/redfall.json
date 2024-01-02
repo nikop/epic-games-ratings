@@ -2,13 +2,13 @@
   "ID": "48e20c81667c4ff49c85dd79ac3a01b0",
   "Name": "Redfall",
   "ProductSlug": "redfall",
-  "Ranking_Rating": 1083,
+  "Ranking_Rating": 1084,
   "Ranking_Popularity": 572,
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -351,9 +351,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2218,
+  "EOS_Progressed": 2219,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3856,6 +3856,11 @@
       "Time": "2024-01-02T12:05:50.6835229+00:00",
       "NumProgressed": 2218,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T13:09:30.8201271+00:00",
+      "NumProgressed": 2219,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3931,7 +3936,7 @@
       "Name": "Welcome to the Neighborhood",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "Achievement_011",
@@ -4083,7 +4088,7 @@
       "Name": "Throw The First Stone",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "Achievement_030",
@@ -4394,7 +4399,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2218,
+      "Progressed": 2219,
       "Completed": 0
     }
   ],
@@ -4402,8 +4407,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-01T12:00:40.1847166+00:00",
-  "LastChanged_Achievements": "2024-01-02T12:05:50.6835227+00:00",
+  "LastChanged_Achievements": "2024-01-02T13:09:30.8201267+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.8280502+00:00",
-  "LastUpdate_Ratings": "2024-01-02T12:00:23.9825989+00:00",
-  "LastUpdate_Achievements": "2024-01-02T12:05:50.6835984+00:00"
+  "LastUpdate_Ratings": "2024-01-02T13:03:54.7140779+00:00",
+  "LastUpdate_Achievements": "2024-01-02T13:09:30.8201953+00:00"
 }

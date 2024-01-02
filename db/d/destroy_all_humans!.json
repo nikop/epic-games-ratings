@@ -5,7 +5,7 @@
   "Ranking_Rating": 358,
   "Ranking_Popularity": 503,
   "Ranking_PopularitySum": 530,
-  "Ranking_EOS_Progress": 396,
+  "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 141,
   "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 60,
@@ -299,7 +299,7 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 285,
+  "EOS_Progressed": 286,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 4,
@@ -1254,6 +1254,11 @@
       "Time": "2024-01-02T11:06:42.3042208+00:00",
       "NumProgressed": 285,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-02T13:12:03.0135244+00:00",
+      "NumProgressed": 286,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -1282,7 +1287,7 @@
       "Name": "Scuttled",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_ABILITY_ECM",
@@ -1296,9 +1301,9 @@
       "ID": "ACH_ABILITY_PKBURNINGINTOHUMAN",
       "SetID": "cefn62b",
       "Name": "Transmitting From Sol-3",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_ABILITY_PKHUMANINTOHUMAN",
@@ -1306,7 +1311,7 @@
       "Name": "Yettisoned",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ACH_ABILITY_PKHUMANINTOOCEAN",
@@ -1320,17 +1325,17 @@
       "ID": "ACH_ABILITY_PKTHROWANDCATCHHUMAN",
       "SetID": "cefn62b",
       "Name": "Forbidden Donut",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 106
     },
     {
       "ID": "ACH_ABILITY_SCANINHOLOBOB",
       "SetID": "cefn62b",
       "Name": "I Look Up As I Walk to Takoshima",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 169
     },
     {
       "ID": "ACH_ABILITY_SMASHBUTTON",
@@ -1346,7 +1351,7 @@
       "Name": "Freshly Squeezed",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACH_ABILITY_WITHWEAPON",
@@ -1386,7 +1391,7 @@
       "Name": "PK Slam Dunk",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_CHALLENGE_RAMPAGETHREESTAR",
@@ -1394,7 +1399,7 @@
       "Name": "If You Know What I Mean",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_CHALLENGE_THREESTARSEVERYWHERE",
@@ -1432,9 +1437,9 @@
       "ID": "ACH_COLLECT_PROBE",
       "SetID": "cefn62b",
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH_COMBAT_EVADEBAZOOKA",
@@ -1442,15 +1447,15 @@
       "Name": "Die Nasty",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_ENEMY_KILLARMQUIST",
       "SetID": "cefn62b",
       "Name": "Albion Bridge Is for Falling Down",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_ENEMY_KILLROBOPREZ",
@@ -1466,7 +1471,7 @@
       "Name": "Lobster Blisque",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ACH_ENEMY_SILHOUETTE",
@@ -1496,9 +1501,9 @@
       "ID": "ACH_INVADE_ROCKWELL",
       "SetID": "cefn62b",
       "Name": "Pimp My Raid",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 157
     },
     {
       "ID": "ACH_INVADE_SANTAMODESTA",
@@ -1514,7 +1519,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "ACH_INVADE_UNIONTOWN",
@@ -1536,9 +1541,9 @@
       "ID": "ACH_MENU_FURONIGAMI",
       "SetID": "cefn62b",
       "Name": "Bodied Sattva",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 103
     },
     {
       "ID": "ACH_OBJECTIVES_COMPLETEDALLOPTIONAL",
@@ -1560,9 +1565,9 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "cefn62b",
       "Name": "Perfect Probulator",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 160
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1570,7 +1575,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ACH_UPGRADE_TOPTIER",
@@ -1585,15 +1590,15 @@
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 285,
+      "Progressed": 286,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2023-11-09T01:43:19.9714919+00:00",
-  "LastChanged_Achievements": "2024-01-02T12:08:24.5313153+00:00",
+  "LastChanged_Achievements": "2024-01-02T13:12:03.013524+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:06.6677344+00:00",
-  "LastUpdate_Ratings": "2024-01-02T11:57:20.4611182+00:00",
-  "LastUpdate_Achievements": "2024-01-02T12:08:24.5313467+00:00"
+  "LastUpdate_Ratings": "2024-01-02T13:01:01.2929683+00:00",
+  "LastUpdate_Achievements": "2024-01-02T13:12:03.0135829+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 367,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -946,9 +946,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 53126,
+  "EOS_Progressed": 53131,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1164,
+  "EOS_NewPlayers": 1161,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30181,6 +30181,11 @@
       "Time": "2024-01-02T12:06:05.9274231+00:00",
       "NumProgressed": 53126,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-02T13:09:46.1721651+00:00",
+      "NumProgressed": 53131,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -30232,7 +30237,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 14344
+      "UsersEstimate": 14345
     },
     {
       "ID": "goals180",
@@ -30304,7 +30309,7 @@
       "Name": "My Little Friend",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2656
+      "UsersEstimate": 2657
     },
     {
       "ID": "nomad",
@@ -30312,7 +30317,7 @@
       "Name": "Nomad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 9031
+      "UsersEstimate": 9032
     },
     {
       "ID": "novice",
@@ -30320,7 +30325,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 7969
+      "UsersEstimate": 7970
     },
     {
       "ID": "playerFelipe",
@@ -30384,7 +30389,7 @@
       "Name": "One With The Board",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 2656
+      "UsersEstimate": 2657
     },
     {
       "ID": "proximityFly1000",
@@ -30400,7 +30405,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 13282
+      "UsersEstimate": 13283
     },
     {
       "ID": "sandboarder",
@@ -30503,15 +30508,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 53126,
+      "Progressed": 53131,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2024-01-01T13:02:12.9147657+00:00",
-  "LastChanged_Achievements": "2024-01-02T12:06:05.9274226+00:00",
+  "LastChanged_Achievements": "2024-01-02T13:09:46.1721647+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:20.753487+00:00",
-  "LastUpdate_Ratings": "2024-01-02T11:59:14.5617794+00:00",
-  "LastUpdate_Achievements": "2024-01-02T12:06:05.9275757+00:00"
+  "LastUpdate_Ratings": "2024-01-02T13:02:51.3585142+00:00",
+  "LastUpdate_Achievements": "2024-01-02T13:09:46.1722995+00:00"
 }

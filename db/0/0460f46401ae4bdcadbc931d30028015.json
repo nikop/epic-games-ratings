@@ -2,13 +2,13 @@
   "ID": "0460f46401ae4bdcadbc931d30028015",
   "Name": "Madden NFL 24",
   "ProductSlug": "madden-nfl-24",
-  "Ranking_Rating": 986,
+  "Ranking_Rating": 987,
   "Ranking_Popularity": 407,
   "Ranking_PopularitySum": 362,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -1377,9 +1377,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 7975,
+  "EOS_Progressed": 7976,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1728,
+  "EOS_NewPlayers": 1724,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9727,6 +9727,11 @@
       "Time": "2024-01-02T12:05:50.3345673+00:00",
       "NumProgressed": 7975,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T13:09:30.3315446+00:00",
+      "NumProgressed": 7976,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -9851,7 +9856,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "achievement_4",
@@ -9906,7 +9911,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 7975,
+      "Progressed": 7976,
       "Completed": 0
     }
   ],
@@ -9914,8 +9919,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2024-01-02T09:59:33.3461725+00:00",
-  "LastChanged_Achievements": "2024-01-02T12:05:50.3345669+00:00",
+  "LastChanged_Achievements": "2024-01-02T13:09:30.3315442+00:00",
   "LastUpdate_AppInfo": "2023-12-28T08:57:17.7769653+00:00",
-  "LastUpdate_Ratings": "2024-01-02T11:59:39.5770697+00:00",
-  "LastUpdate_Achievements": "2024-01-02T12:05:50.3346294+00:00"
+  "LastUpdate_Ratings": "2024-01-02T13:03:17.5790063+00:00",
+  "LastUpdate_Achievements": "2024-01-02T13:09:30.3316041+00:00"
 }

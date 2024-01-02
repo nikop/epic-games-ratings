@@ -1,24 +1,24 @@
 # Atlas Fallen
 [Store](https://store.epicgames.com/en-US/p/atlas-fallen)  
 [View Rawdata](../../db/7/7ab6dd1c70a64d5ebf48defa8deb81a8.json)  
-Rating: 4.17 (Ranked 973)  
+Rating: 4.17 (Ranked 974)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 60.00% | ~991 |
-| Trinity | 29.00% | ~479 |
-| Find Allies | 23.00% | ~380 |
+| Break Out | 60.00% | ~992 |
+| Trinity | 29.00% | ~480 |
 | A Taste of Wrath | 23.00% | ~380 |
 | The Collector | 23.00% | ~380 |
-| I Found It | 22.00% | ~363 |
-| Adventurer | 21.00% | ~347 |
-| Shatter Them All | 21.00% | ~347 |
+| Find Allies | 22.00% | ~364 |
+| Shatter Them All | 22.00% | ~364 |
+| I Found It | 22.00% | ~364 |
 | Geared Up | 21.00% | ~347 |
 | Scholar | 21.00% | ~347 |
-| Fashion Victim | 20.00% | ~330 |
+| Adventurer | 20.00% | ~331 |
+| Fashion Victim | 20.00% | ~331 |
 | Tributes of Caladrias | 19.00% | ~314 |
 | Stone Collection | 19.00% | ~314 |
-| Powerful Allies | 18.00% | ~297 |
+| Powerful Allies | 18.00% | ~298 |
 | Big Bazar | 13.00% | ~215 |
 | Alchemist | 12.00% | ~198 |
 | Essence Blow | 11.00% | ~182 |
@@ -32,17 +32,17 @@ Rating: 4.17 (Ranked 973)
 | Shatterer | 4.00% | ~66 |
 | Fine Feathers Make Fine Birds | 4.00% | ~66 |
 | Slayer | 3.00% | ~50 |
+| A Queen's Tale | 3.00% | ~50 |
 | Shardbearer | 2.00% | ~33 |
 | Flawless Victory | 2.00% | ~33 |
 | All There Is | 2.00% | ~33 |
 | False God | 2.00% | ~33 |
-| A Queen's Tale | 2.00% | ~33 |
 | Forgemaster | 1.00% | ~17 |
 | Summiter | 1.00% | ~17 |
 | All That Gold | 0.70% | ~12 |
 | Feeling Fancy | 0.40% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,652 (Ranked 259)  
+Progressed: 1,654 (Ranked 259)  
 Completed: 3 (0.18%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 3 (0.18%) (Ranked 278)
 | 2023-12-30 | 1,519 | 3 |
 | 2023-12-31 | 1,577 | 3 |
 | 2024-01-01 | 1,636 | 3 |
-| 2024-01-02 | 1,652 | 3 |
+| 2024-01-02 | 1,654 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

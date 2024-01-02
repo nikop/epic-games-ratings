@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 221,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 349,
-  "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2208,7 +2208,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16080,
+  "EOS_Progressed": 16082,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
@@ -18793,6 +18793,11 @@
       "Time": "2024-01-02T05:09:46.15987+00:00",
       "NumProgressed": 16080,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-02T13:13:50.2324927+00:00",
+      "NumProgressed": 16082,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -19306,17 +19311,17 @@
       "ID": "ACHIEVEMENT_COGNOMEN_JUST",
       "SetID": "7l38kb8",
       "Name": "Just",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 113
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_KEYSTONE",
       "SetID": "9201eeb",
       "Name": "Keystone",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 113
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_LEARNED",
@@ -21667,21 +21672,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16080,
+      "Progressed": 16082,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16080,
+      "Progressed": 16082,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-29T16:02:55.9624641+00:00",
-  "LastChanged_Achievements": "2024-01-02T12:10:10.538967+00:00",
+  "LastChanged_Achievements": "2024-01-02T13:13:50.2324925+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:24.5452657+00:00",
-  "LastUpdate_Ratings": "2024-01-02T11:57:19.3828358+00:00",
-  "LastUpdate_Achievements": "2024-01-02T12:10:10.5401051+00:00"
+  "LastUpdate_Ratings": "2024-01-02T13:01:00.2690137+00:00",
+  "LastUpdate_Achievements": "2024-01-02T13:13:50.2335028+00:00"
 }

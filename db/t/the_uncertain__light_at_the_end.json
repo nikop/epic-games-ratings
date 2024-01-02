@@ -2,13 +2,13 @@
   "ID": "03fd634dc7f24662ac5545277b89a826",
   "Name": "The Uncertain: Light at the End",
   "ProductSlug": "the-uncertain-light-at-the-end",
-  "Ranking_Rating": 1068,
+  "Ranking_Rating": 1069,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 319,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -83,7 +83,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 636,
+  "EOS_Progressed": 637,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
@@ -1243,6 +1243,11 @@
       "Time": "2024-01-02T01:51:03.3293583+00:00",
       "NumProgressed": 636,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-02T13:07:20.0439032+00:00",
+      "NumProgressed": 637,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -1374,7 +1379,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "Leisurely_Strol",
@@ -1470,7 +1475,7 @@
       "Name": "Beat the Heat",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "Unforeseen_Consequences",
@@ -1485,7 +1490,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 636,
+      "Progressed": 637,
       "Completed": 6
     }
   ],
@@ -1493,8 +1498,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2024-01-02T12:03:39.1613054+00:00",
+  "LastChanged_Achievements": "2024-01-02T13:07:20.0439028+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:43.1004855+00:00",
-  "LastUpdate_Ratings": "2024-01-02T12:03:18.1891994+00:00",
-  "LastUpdate_Achievements": "2024-01-02T12:03:39.1613297+00:00"
+  "LastUpdate_Ratings": "2024-01-02T13:06:56.8749577+00:00",
+  "LastUpdate_Achievements": "2024-01-02T13:07:20.0439219+00:00"
 }

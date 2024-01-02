@@ -8,8 +8,8 @@
 | Jalopy Poppy | 69.00% | ~61 |
 | Green-Bodied Monster | 60.00% | ~53 |
 | Chopper Stopper | 50.00% | ~44 |
-| Aerosolized | 44.00% | ~39 |
-| Monstrosity Atrocity | 39.00% | ~34 |
+| Aerosolized | 45.00% | ~40 |
+| Monstrosity Atrocity | 40.00% | ~35 |
 | Test of Faith | 35.00% | ~31 |
 | Reign of Terror | 33.00% | ~29 |
 | Crushing All Cars | 24.00% | ~21 |

@@ -3737,9 +3737,9 @@
       "Count": 338
     }
   ],
-  "EOS_Progressed": 19955,
+  "EOS_Progressed": 19958,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 664,
+  "EOS_NewPlayers": 663,
   "EOS_NewCompleters": -5,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -18122,6 +18122,11 @@
       "Time": "2024-01-02T12:04:34.3217568+00:00",
       "NumProgressed": 19955,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2024-01-02T13:08:14.6061947+00:00",
+      "NumProgressed": 19958,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -18220,9 +18225,9 @@
       "ID": "WinFirstGame",
       "SetID": "cfbk359",
       "Name": "First Real Expedition",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1397
     },
     {
       "ID": "WinHard",
@@ -18558,7 +18563,7 @@
       "Name": "Overgrown Library",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1596
+      "UsersEstimate": 1597
     },
     {
       "ID": "WinNearPetrified",
@@ -18605,15 +18610,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19955,
+      "Progressed": 19958,
       "Completed": 33
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-02T10:58:23.8954365+00:00",
-  "LastChanged_Achievements": "2024-01-02T12:04:34.3217564+00:00",
+  "LastChanged_Achievements": "2024-01-02T13:08:14.6061942+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:03.5085053+00:00",
-  "LastUpdate_Ratings": "2024-01-02T11:58:08.9373139+00:00",
-  "LastUpdate_Achievements": "2024-01-02T12:04:34.3218575+00:00"
+  "LastUpdate_Ratings": "2024-01-02T13:01:49.1108618+00:00",
+  "LastUpdate_Achievements": "2024-01-02T13:08:14.6063117+00:00"
 }

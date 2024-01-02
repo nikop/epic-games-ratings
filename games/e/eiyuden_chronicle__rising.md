@@ -26,8 +26,8 @@ Number of Ratings: 48  (23.09.2022)
 | Natural Born Monster-Killer | 34.00% | ~268 |
 | The Great Forest...On Foot! | 34.00% | ~268 |
 | One Mean Merc | 33.00% | ~260 |
+| Adept, for an Acting Mayor | 33.00% | ~260 |
 | Money, Money, Money | 33.00% | ~260 |
-| Adept, for an Acting Mayor | 32.00% | ~252 |
 | Rune Wall Master | 31.00% | ~244 |
 | The Quarry...On Foot! | 29.00% | ~229 |
 | The Runebarrows...On Foot! | 27.00% | ~213 |

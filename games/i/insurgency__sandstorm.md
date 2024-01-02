@@ -6,23 +6,23 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~25,877 |
-| Exploitative | 4.00% | ~20,701 |
-| Point Shooting | 4.00% | ~20,701 |
-| Wet Feet | 4.00% | ~20,701 |
-| High Speed Low Drag | 3.00% | ~15,526 |
-| Lucky | 3.00% | ~15,526 |
-| Stylin' | 3.00% | ~15,526 |
-| Turf War | 3.00% | ~15,526 |
+| Wallbanger | 5.00% | ~25,878 |
+| Exploitative | 4.00% | ~20,702 |
+| High Speed Low Drag | 4.00% | ~20,702 |
+| Point Shooting | 4.00% | ~20,702 |
+| Wet Feet | 4.00% | ~20,702 |
+| Lucky | 3.00% | ~15,527 |
+| Stylin' | 3.00% | ~15,527 |
+| Turf War | 3.00% | ~15,527 |
 | Banged | 2.00% | ~10,351 |
 | Checkpoint Victory | 2.00% | ~10,351 |
 | First Blood | 2.00% | ~10,351 |
 | Flaccid Paralysis | 2.00% | ~10,351 |
 | Push Victory | 2.00% | ~10,351 |
 | Self-destructive | 2.00% | ~10,351 |
-| Blindfire | 1.00% | ~5,175 |
-| Ruthless | 1.00% | ~5,175 |
-| Semper Paratus | 1.00% | ~5,175 |
+| Blindfire | 1.00% | ~5,176 |
+| Ruthless | 1.00% | ~5,176 |
+| Semper Paratus | 1.00% | ~5,176 |
 | Carrying | 0.90% | ~4,658 |
 | Efficient | 0.90% | ~4,658 |
 | Mount & Gun | 0.90% | ~4,658 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~518 |
 | Road Hazard | 0.10% | ~518 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 517,534 (Ranked 39)  
+Progressed: 517,558 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,10 +299,10 @@ Completed: 2 (0.00%) (Ranked 390)
 | 2023-12-30 | 515,422 | 2 |
 | 2023-12-31 | 516,283 | 2 |
 | 2024-01-01 | 517,132 | 2 |
-| 2024-01-02 | 517,534 | 2 |
+| 2024-01-02 | 517,558 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 415  (Ranked 236)  
-Sum: 3,316 (Ranked 178)  
+Sum: 3,318 (Ranked 178)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -310,7 +310,7 @@ Diff (max vs sum): 58
 | This game has Challenging Combat | 407 |
 | This game is Extremely Fun | 385 |
 | This game has Competitive Players | 382 |
-| This game is Highly Recommended | 366 |
+| This game is Highly Recommended | 368 |
 | This game has Realistic Visuals | 357 |
 | This game has Amazing Characters | 351 |
 | This game has Amazing Storytelling | 340 |
@@ -646,4 +646,4 @@ Diff (max vs sum): 58
 | 2023-12-30 | 4.61 | - | 415 | 3,303 |
 | 2023-12-31 | 4.61 | - | 415 | 3,313 |
 | 2024-01-01 | 4.61 | - | 415 | 3,314 |
-| 2024-01-02 | 4.61 | - | 415 | 3,316 |
+| 2024-01-02 | 4.61 | - | 415 | 3,318 |

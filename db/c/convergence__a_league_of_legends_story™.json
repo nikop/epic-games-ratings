@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 149,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -51,9 +51,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1193,
+  "EOS_Progressed": 1194,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -3461,6 +3461,11 @@
       "Time": "2024-01-02T05:09:39.4046599+00:00",
       "NumProgressed": 1193,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-02T13:13:43.9602422+00:00",
+      "NumProgressed": 1194,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3480,7 +3485,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -3504,7 +3509,7 @@
       "Name": "Right On Time",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "ClockworkCompletion1",
@@ -3512,7 +3517,7 @@
       "Name": "Corin Goes Home",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ClockworkProgress1",
@@ -3560,7 +3565,7 @@
       "Name": "Entresol Explorer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ExamineFamilyPortrait",
@@ -3630,9 +3635,9 @@
       "ID": "GrindingTime1",
       "SetID": "a9e499d",
       "Name": "Rail Rat",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 394
+      "UsersEstimate": 382
     },
     {
       "ID": "HexlockGift",
@@ -3720,7 +3725,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "ParryRepeated1",
@@ -3736,7 +3741,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -3744,7 +3749,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "PidgeDefeated",
@@ -3800,7 +3805,7 @@
       "Name": "Fast Learner",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "SpeedRun",
@@ -3856,7 +3861,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "WatcherFought",
@@ -3895,7 +3900,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1193,
+      "Progressed": 1194,
       "Completed": 6
     }
   ],
@@ -3903,8 +3908,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2024-01-02T12:10:04.0721961+00:00",
+  "LastChanged_Achievements": "2024-01-02T13:13:43.9602419+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:23.9308133+00:00",
-  "LastUpdate_Ratings": "2024-01-02T12:02:46.4400615+00:00",
-  "LastUpdate_Achievements": "2024-01-02T12:10:04.0722532+00:00"
+  "LastUpdate_Ratings": "2024-01-02T13:06:25.2345336+00:00",
+  "LastUpdate_Achievements": "2024-01-02T13:13:43.9603543+00:00"
 }
