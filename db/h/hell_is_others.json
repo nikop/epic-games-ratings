@@ -4,11 +4,11 @@
   "ProductSlug": "hell-is-others-789262",
   "Ranking_Rating": 764,
   "Ranking_Popularity": 438,
-  "Ranking_PopularitySum": 360,
+  "Ranking_PopularitySum": 361,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -26479,8 +26479,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2024-01-02T09:58:19.1468391+00:00",
-  "LastChanged_Achievements": "2024-01-02T11:05:23.7560156+00:00",
+  "LastChanged_Achievements": "2024-01-02T12:05:26.4407383+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:41.7689812+00:00",
-  "LastUpdate_Ratings": "2024-01-02T10:58:34.0074439+00:00",
-  "LastUpdate_Achievements": "2024-01-02T11:05:23.7561797+00:00"
+  "LastUpdate_Ratings": "2024-01-02T11:58:19.6844437+00:00",
+  "LastUpdate_Achievements": "2024-01-02T12:05:26.4408849+00:00"
 }

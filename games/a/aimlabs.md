@@ -3,9 +3,9 @@
 [View Rawdata](../../db/a/aimlabs.json)  
 Rating: 4.62 (Ranked 375)  
 ## Awards
-Max (Great for Beginners): 79  (Ranked 399)  
+Max (Great for Beginners): 79  (Ranked 400)  
 Sum: 583 (Ranked 324)  
-Diff (max vs sum): 75  
+Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 79 |

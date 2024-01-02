@@ -12,7 +12,7 @@ Number of Ratings: 116  (23.09.2022)
 | Increased Vigor | 60.00% | ~227 |
 | Fight Fire with Fire | 57.00% | ~216 |
 | Increased Capacity | 53.00% | ~201 |
-| Just the start | 47.00% | ~178 |
+| Just the start | 48.00% | ~182 |
 | Perfect Storm | 45.00% | ~171 |
 | All That Glitters | 45.00% | ~171 |
 | Enhance! | 41.00% | ~155 |
@@ -27,7 +27,7 @@ Number of Ratings: 116  (23.09.2022)
 | I Wanna Rock | 31.00% | ~117 |
 | Delusions of Grandeur | 31.00% | ~117 |
 | Maximum Vigor | 30.00% | ~114 |
-| Love Tap | 29.00% | ~110 |
+| Love Tap | 30.00% | ~114 |
 | For Whom the Bell Tolls | 27.00% | ~102 |
 | Freeze Frame | 26.00% | ~99 |
 | Eat Your Heart Out | 26.00% | ~99 |

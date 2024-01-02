@@ -6,13 +6,13 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~7,489 |
-| Beast Intentions | 1.00% | ~2,496 |
-| The Cursed Farmer | 1.00% | ~2,496 |
+| A Brief Tour of the Realms | 3.00% | ~7,490 |
+| Beast Intentions | 1.00% | ~2,497 |
+| The Cursed Farmer | 1.00% | ~2,497 |
 | The Mad Wizard | 0.90% | ~2,247 |
 | Welcome to Sigil | 0.80% | ~1,727 |
 | The Ring of Regeneration | 0.60% | ~1,498 |
-| Fast Food | 0.60% | ~1,295 |
+| Fast Food | 0.60% | ~1,296 |
 | Are Ya Chicken? | 0.50% | ~1,248 |
 | The Overgrown Grove | 0.50% | ~1,080 |
 | Mental Gymnastics | 0.50% | ~1,080 |
@@ -37,6 +37,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Low Initiative | 0.20% | ~499 |
 | A Mysterious Summons | 0.20% | ~499 |
 | Building Trust | 0.20% | ~499 |
+| March of the Undead | 0.20% | ~499 |
 | Unearthed Evil | 0.20% | ~499 |
 | No Time To Rest | 0.20% | ~499 |
 | Useless Allies | 0.20% | ~499 |
@@ -190,7 +191,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Street War | 0.10% | ~250 |
 | Force Grey Unleashed | 0.10% | ~250 |
 | Vajra's Guards | 0.10% | ~250 |
-| March of the Undead | 0.10% | ~250 |
 | Wisdom Check | 0.10% | ~250 |
 | Sleuth It Out | 0.10% | ~250 |
 | The Newcomers of Notoriety | 0.10% | ~216 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~216 |
 | The Brains of an Illithid's Desire | 0.10% | ~216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,628 (Ranked 70)  
+Progressed: 249,654 (Ranked 70)  
 Completed: 2,585 (1.04%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -810,7 +810,7 @@ Completed: 2,585 (1.04%) (Ranked 170)
 | 2023-12-30 | 247,917 | 2,578 |
 | 2023-12-31 | 248,665 | 2,581 |
 | 2024-01-01 | 249,335 | 2,583 |
-| 2024-01-02 | 249,628 | 2,585 |
+| 2024-01-02 | 249,654 | 2,585 |
 ## Awards
 Max (Great for Beginners): 5,730  (Ranked 71)  
 Sum: 33,253 (Ranked 41)  

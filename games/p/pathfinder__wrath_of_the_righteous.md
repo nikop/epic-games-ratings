@@ -6,14 +6,14 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 27.00% | ~3,499 |
-| A Spark | 19.00% | ~2,462 |
+| Devoured by Darkness | 27.00% | ~3,500 |
+| A Spark | 19.00% | ~2,463 |
 | Burning City | 18.00% | ~2,333 |
-| Defender's Heart | 16.00% | ~2,073 |
+| Defender's Heart | 16.00% | ~2,074 |
 | Mythic Choices | 15.00% | ~1,944 |
-| Banner over the Citadel | 14.00% | ~1,814 |
-| Queen's Gratitude | 12.00% | ~1,555 |
-| Fifth Crusade | 9.00% | ~1,166 |
+| Banner over the Citadel | 14.00% | ~1,815 |
+| Queen's Gratitude | 12.00% | ~1,556 |
+| Fifth Crusade | 9.00% | ~1,167 |
 | Embrace of the Abyss | 7.00% | ~907 |
 | Path of the Angel | 7.00% | ~907 |
 | Demonic and Divine | 7.00% | ~907 |
@@ -25,11 +25,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | Voice from Your Dreams | 5.00% | ~648 |
 | Next-Door Play | 5.00% | ~648 |
 | Get the Toad | 5.00% | ~648 |
-| Heart of the Fallen Land | 4.00% | ~518 |
-| Divide and Rule | 4.00% | ~518 |
-| Mythic Reinforcements | 4.00% | ~518 |
-| A Flame | 4.00% | ~518 |
-| Hey, I Know You! | 4.00% | ~518 |
+| Heart of the Fallen Land | 4.00% | ~519 |
+| Divide and Rule | 4.00% | ~519 |
+| Mythic Reinforcements | 4.00% | ~519 |
+| A Flame | 4.00% | ~519 |
+| Hey, I Know You! | 4.00% | ~519 |
 | Path of the Trickster | 3.00% | ~389 |
 | Path of the Lich | 3.00% | ~389 |
 | Heroic Victory | 3.00% | ~389 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,959 (Ranked 175)  
+Progressed: 12,963 (Ranked 175)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -380,7 +380,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-30 | 12,899 | 0 |
 | 2023-12-31 | 12,923 | 0 |
 | 2024-01-01 | 12,955 | 0 |
-| 2024-01-02 | 12,959 | 0 |
+| 2024-01-02 | 12,963 | 0 |
 ## Awards
 Max (Character Customization): 1,776  (Ranked 127)  
 Sum: 7,184 (Ranked 126)  

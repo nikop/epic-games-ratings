@@ -8,8 +8,8 @@ Number of Ratings: 292  (23.09.2022)
 | ---- | ---------- | ----- |
 | Adept | 46.00% | ~428 |
 | Double Kill | 39.00% | ~363 |
-| Veteran | 22.00% | ~205 |
-| Critical Hit | 21.00% | ~195 |
+| Critical Hit | 21.00% | ~196 |
+| Veteran | 21.00% | ~196 |
 | Dressed For Success | 15.00% | ~140 |
 | Humiliation | 9.00% | ~84 |
 | Veni, Vidi, Vici | 9.00% | ~84 |
@@ -18,8 +18,8 @@ Number of Ratings: 292  (23.09.2022)
 | Master | 7.00% | ~65 |
 | Whoops! | 6.00% | ~56 |
 | Landlord Extraordinaire | 6.00% | ~56 |
-| The Song of Stoutheart | 5.00% | ~46 |
-| Don't Touch My Stuff | 5.00% | ~46 |
+| The Song of Stoutheart | 5.00% | ~47 |
+| Don't Touch My Stuff | 5.00% | ~47 |
 | Trojan Horse | 4.00% | ~37 |
 | Expert Essence Employment | 3.00% | ~28 |
 | Venisti, Vidisti, Perdidisti | 3.00% | ~28 |
@@ -37,10 +37,10 @@ Number of Ratings: 292  (23.09.2022)
 | Unlimited Power! | 0.50% | ~5 |
 | Get Over Here! | 0.50% | ~5 |
 | Death To Diplomacy | 0.40% | ~4 |
+| Coming Through! | 0.40% | ~4 |
 | Killing Spree | 0.40% | ~4 |
 | Cleave | 0.40% | ~4 |
 | Fully Charged | 0.30% | ~3 |
-| Coming Through! | 0.30% | ~3 |
 | Barbecue | 0.30% | ~3 |
 | Oops! | 0.30% | ~3 |
 | The Marsh Expands | 0.30% | ~3 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 930 (Ranked 292)  
+Progressed: 931 (Ranked 292)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-30 | 871 | 0 |
 | 2023-12-31 | 895 | 0 |
 | 2024-01-01 | 923 | 0 |
-| 2024-01-02 | 930 | 0 |
+| 2024-01-02 | 931 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 29  (Ranked 521)  
 Sum: 251 (Ranked 399)  

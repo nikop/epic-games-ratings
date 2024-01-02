@@ -5,10 +5,10 @@ Rating: 4.21 (Ranked 943)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| May the Torchbearer light our way | 4.00% | ~13,586 |
-| The touch of Chaos | 4.00% | ~13,586 |
-| A powerful aura was here | 3.00% | ~10,190 |
-| Let's raise the stakes!! | 2.00% | ~6,793 |
+| May the Torchbearer light our way | 4.00% | ~13,587 |
+| The touch of Chaos | 4.00% | ~13,587 |
+| A powerful aura was here | 3.00% | ~10,191 |
+| Let's raise the stakes!! | 2.00% | ~6,794 |
 | Rumors are true | 1.00% | ~3,397 |
 | Your wounds… They are healing so fast! | 1.00% | ~3,397 |
 | We'll be careful | 0.90% | ~3,057 |
@@ -18,7 +18,7 @@ Rating: 4.21 (Ranked 943)
 | Bring it on! | 0.70% | ~2,378 |
 | They tricked me | 0.60% | ~2,038 |
 | We need to talk | 0.60% | ~2,038 |
-| I feel drawn to it | 0.50% | ~1,698 |
+| I feel drawn to it | 0.60% | ~2,038 |
 | Here to stay | 0.50% | ~1,698 |
 | Counting on you | 0.50% | ~1,698 |
 | This is the end | 0.50% | ~1,698 |
@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 943)
 | Something... unnatural | 0.10% | ~340 |
 | We strike as one | 0.10% | ~340 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 339,659 (Ranked 58)  
+Progressed: 339,685 (Ranked 58)  
 Completed: 7 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,10 +147,10 @@ Completed: 7 (0.00%) (Ranked 390)
 | 2023-12-30 | 338,211 | 7 |
 | 2023-12-31 | 338,873 | 7 |
 | 2024-01-01 | 339,449 | 7 |
-| 2024-01-02 | 339,659 | 7 |
+| 2024-01-02 | 339,685 | 7 |
 ## Awards
-Max (Great Boss Battles): 77  (Ranked 403)  
-Sum: 77 (Ranked 479)  
+Max (Great Boss Battles): 77  (Ranked 404)  
+Sum: 77 (Ranked 480)  
 Diff (max vs sum): -76  
 | Award | Count |
 | ----- | ----- |

@@ -9265,9 +9265,9 @@
       "Count": 3617
     }
   ],
-  "EOS_Progressed": 249628,
+  "EOS_Progressed": 249654,
   "EOS_Completed": 2585,
-  "EOS_NewPlayers": 4832,
+  "EOS_NewPlayers": 4845,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -38350,6 +38350,11 @@
       "Time": "2024-01-02T11:10:01.3361559+00:00",
       "NumProgressed": 249628,
       "NumCompleted": 2585
+    },
+    {
+      "Time": "2024-01-02T12:10:11.7645412+00:00",
+      "NumProgressed": 249654,
+      "NumCompleted": 2585
     }
   ],
   "TotalAchievements": 546,
@@ -38361,7 +38366,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7489
+      "UsersEstimate": 7490
     },
     {
       "ID": "objective_completed_10",
@@ -38729,7 +38734,7 @@
       "Name": "Beast Intentions",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2496
+      "UsersEstimate": 2497
     },
     {
       "ID": "objective_completed_110",
@@ -39591,9 +39596,9 @@
       "ID": "objective_completed_17",
       "SetID": "cc37lbc",
       "Name": "March of the Undead",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 250
+      "UsersEstimate": 499
     },
     {
       "ID": "objective_completed_170",
@@ -40033,7 +40038,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2496
+      "UsersEstimate": 2497
     },
     {
       "ID": "objective_completed_34",
@@ -42665,7 +42670,7 @@
       "Name": "Fast Food",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1295
+      "UsersEstimate": 1296
     },
     {
       "ID": "objective_completed_1563",
@@ -42728,21 +42733,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 215902,
+      "Progressed": 215928,
       "Completed": 4125
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 249628,
+      "Progressed": 249654,
       "Completed": 2585
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-02T10:58:17.4534856+00:00",
-  "LastChanged_Achievements": "2024-01-02T11:10:01.3361554+00:00",
+  "LastChanged_Achievements": "2024-01-02T12:10:11.7645408+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-02T10:58:17.4534862+00:00",
-  "LastUpdate_Achievements": "2024-01-02T11:10:01.3385562+00:00"
+  "LastUpdate_Ratings": "2024-01-02T11:58:02.2623826+00:00",
+  "LastUpdate_Achievements": "2024-01-02T12:10:11.7671425+00:00"
 }

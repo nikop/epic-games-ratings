@@ -45,8 +45,8 @@ Rating: 4.59 (Ranked 445)
 | IMANOK CODE | 1.00% | ~7 |
 | Intergalactic, planetary, planetary... | 1.00% | ~7 |
 | 1337 HAXXOR | 0.90% | ~7 |
+| True Capitalist | 0.90% | ~7 |
 | Smells like teen spirit | 0.90% | ~7 |
-| True Capitalist | 0.80% | ~6 |
 | Once upon a slime | 0.80% | ~6 |
 | It's a horror game | 0.80% | ~6 |
 | Got 9999 problem but a Zombie ain't one | 0.80% | ~6 |

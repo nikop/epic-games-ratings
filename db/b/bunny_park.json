@@ -4,8 +4,8 @@
   "ProductSlug": "bunny-park-835c4c",
   "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 491,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 475,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-09-30T00:00:00+00:00",
     "PcReleaseDate": "2020-01-14T12:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 308,
+  "EOS_Progressed": 309,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.25,
+  "EOS_Completed_Percentage": 3.24,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:49.4240429+00:00",
@@ -215,6 +215,11 @@
       "Time": "2024-01-01T21:10:06.4049649+00:00",
       "NumProgressed": 308,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-02T12:09:52.4991638+00:00",
+      "NumProgressed": 309,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 18,
@@ -226,7 +231,7 @@
       "Name": "Lonely Bunny",
       "Percentage": 97,
       "XP": 25,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "BP-02",
@@ -248,9 +253,9 @@
       "ID": "BP-04",
       "SetID": "7fc93f2",
       "Name": "Debris Finder",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 25,
-      "UsersEstimate": 259
+      "UsersEstimate": 256
     },
     {
       "ID": "BP-05",
@@ -282,7 +287,7 @@
       "Name": "Stylish Decorator",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "BP-09",
@@ -306,7 +311,7 @@
       "Name": "Tropical Summer",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "BP-12",
@@ -314,7 +319,7 @@
       "Name": "Cozy Autumn",
       "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "BP-13",
@@ -354,7 +359,7 @@
       "Name": "Quack quack",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "BP-18",
@@ -369,7 +374,7 @@
     {
       "ID": "7fc93f2",
       "IsBase": true,
-      "Progressed": 308,
+      "Progressed": 309,
       "Completed": 10
     }
   ],
@@ -377,8 +382,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5432443+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.424044+00:00",
   "LastChanged": "2023-03-31T05:58:48.5432443+00:00",
-  "LastChanged_Achievements": "2024-01-02T11:09:42.4330747+00:00",
+  "LastChanged_Achievements": "2024-01-02T12:09:52.4991634+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:37.2110794+00:00",
-  "LastUpdate_Ratings": "2024-01-02T11:00:27.1445084+00:00",
-  "LastUpdate_Achievements": "2024-01-02T11:09:42.4330853+00:00"
+  "LastUpdate_Ratings": "2024-01-02T12:00:24.0964209+00:00",
+  "LastUpdate_Achievements": "2024-01-02T12:09:52.4991795+00:00"
 }

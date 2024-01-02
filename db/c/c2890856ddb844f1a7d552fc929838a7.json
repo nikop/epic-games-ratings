@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -273,9 +273,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 2089,
+  "EOS_Progressed": 2090,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 316,
+  "EOS_NewPlayers": 313,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4928,6 +4928,11 @@
       "Time": "2024-01-02T11:06:41.8769874+00:00",
       "NumProgressed": 2089,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T12:08:24.1376514+00:00",
+      "NumProgressed": 2090,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -4948,7 +4953,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 1859
+      "UsersEstimate": 1860
     },
     {
       "ID": "AC02",
@@ -4956,7 +4961,7 @@
       "Name": "Blood and Dust",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 1337
+      "UsersEstimate": 1338
     },
     {
       "ID": "AC03",
@@ -4980,7 +4985,7 @@
       "Name": "The Sharpest Tool in the Shed",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 1128
+      "UsersEstimate": 1129
     },
     {
       "ID": "AC06",
@@ -5012,7 +5017,7 @@
       "Name": "Fermosa Fembra",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "AC10",
@@ -5020,7 +5025,7 @@
       "Name": "The Wait is Over",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "AC11",
@@ -5028,7 +5033,7 @@
       "Name": "A Heart of Gold",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "AC12",
@@ -5076,7 +5081,7 @@
       "Name": "Second Pilgrimage",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "AC18",
@@ -5156,7 +5161,7 @@
       "Name": "Twisted is the Path of the Miracle",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "AC28",
@@ -5188,7 +5193,7 @@
       "Name": "The Merciless One",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "AC32",
@@ -5244,7 +5249,7 @@
       "Name": "Edge of Orison",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "AC39",
@@ -5307,7 +5312,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 2089,
+      "Progressed": 2090,
       "Completed": 0
     }
   ],
@@ -5315,8 +5320,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-02T10:59:36.3957369+00:00",
-  "LastChanged_Achievements": "2024-01-02T11:06:41.8769872+00:00",
+  "LastChanged_Achievements": "2024-01-02T12:08:24.1376513+00:00",
   "LastUpdate_AppInfo": "2023-12-27T02:57:24.8809366+00:00",
-  "LastUpdate_Ratings": "2024-01-02T10:59:36.3957374+00:00",
-  "LastUpdate_Achievements": "2024-01-02T11:06:41.8770643+00:00"
+  "LastUpdate_Ratings": "2024-01-02T11:59:26.8911548+00:00",
+  "LastUpdate_Achievements": "2024-01-02T12:08:24.1377182+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1585,10 +1585,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 551,
       "NumberOfAwardsMax": 263
+    },
+    {
+      "Time": "2024-01-02T11:59:43.8042654+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 552,
+      "NumberOfAwardsMax": 263
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 551,
+  "NumberOfAwards": 552,
   "NumberOfAwardsMax": 263,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1614,7 +1620,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 29
+      "Count": 30
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1653,9 +1659,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 246126,
+  "EOS_Progressed": 246133,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1380,
+  "EOS_NewPlayers": 1376,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24638,6 +24644,11 @@
       "Time": "2024-01-02T11:09:53.6642938+00:00",
       "NumProgressed": 246126,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-02T12:10:03.9135435+00:00",
+      "NumProgressed": 246133,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 88,
@@ -24697,7 +24708,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19690
+      "UsersEstimate": 19691
     },
     {
       "ID": "Chapter2",
@@ -24705,7 +24716,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12306
+      "UsersEstimate": 12307
     },
     {
       "ID": "Chapter3",
@@ -25049,7 +25060,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 22151
+      "UsersEstimate": 22152
     },
     {
       "ID": "DwarfElf15Support",
@@ -25097,7 +25108,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 88605
+      "UsersEstimate": 88608
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -25113,7 +25124,7 @@
       "Name": "GG EZ",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12306
+      "UsersEstimate": 12307
     },
     {
       "ID": "EndCombatOneHp",
@@ -25121,7 +25132,7 @@
       "Name": "DM intervention",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12306
+      "UsersEstimate": 12307
     },
     {
       "ID": "EndGameCursed",
@@ -25352,21 +25363,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 246126,
+      "Progressed": 246133,
       "Completed": 8
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 246126,
+      "Progressed": 246133,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2024-01-01T21:59:20.4094917+00:00",
-  "LastChanged_Achievements": "2024-01-02T11:09:53.6642935+00:00",
+  "LastChanged": "2024-01-02T11:59:43.8042652+00:00",
+  "LastChanged_Achievements": "2024-01-02T12:10:03.9135432+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:29.7482382+00:00",
-  "LastUpdate_Ratings": "2024-01-02T10:59:52.8636056+00:00",
-  "LastUpdate_Achievements": "2024-01-02T11:09:53.6644481+00:00"
+  "LastUpdate_Ratings": "2024-01-02T11:59:43.8042657+00:00",
+  "LastUpdate_Achievements": "2024-01-02T12:10:03.913715+00:00"
 }

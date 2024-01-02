@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 407,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 277,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -1337,9 +1337,9 @@
       "ID": "find_one_poster",
       "SetID": "f2im8d",
       "Name": "Debut",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 33
     },
     {
       "ID": "find_one_rat_sketch",
@@ -1393,9 +1393,9 @@
       "ID": "in_one_take",
       "SetID": "f2im8d",
       "Name": "In One Take",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "inheritance",
@@ -1417,9 +1417,9 @@
       "ID": "lights_camera_action",
       "SetID": "f2im8d",
       "Name": "Lights! Camera! Action!",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 31
     },
     {
       "ID": "once_upon_a_time",
@@ -1592,8 +1592,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-02T11:08:30.1687426+00:00",
+  "LastChanged_Achievements": "2024-01-02T12:08:41.5982805+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.7570027+00:00",
-  "LastUpdate_Ratings": "2024-01-02T10:58:18.5993799+00:00",
-  "LastUpdate_Achievements": "2024-01-02T11:08:30.1688106+00:00"
+  "LastUpdate_Ratings": "2024-01-02T11:58:03.3303255+00:00",
+  "LastUpdate_Achievements": "2024-01-02T12:08:41.5983491+00:00"
 }

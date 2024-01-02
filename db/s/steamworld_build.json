@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 280,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -1154,9 +1154,9 @@
       "ID": "UpUpAndAway",
       "SetID": "4bd750m",
       "Name": "Up, Up And Away!",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 70
+      "UsersEstimate": 72
     },
     {
       "ID": "Whoa",
@@ -1185,8 +1185,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2024-01-02T11:03:28.0557973+00:00",
+  "LastChanged_Achievements": "2024-01-02T12:03:31.2574683+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.9245287+00:00",
-  "LastUpdate_Ratings": "2024-01-02T11:03:10.4714011+00:00",
-  "LastUpdate_Achievements": "2024-01-02T11:03:28.0558214+00:00"
+  "LastUpdate_Ratings": "2024-01-02T12:03:12.0475897+00:00",
+  "LastUpdate_Achievements": "2024-01-02T12:03:31.2574949+00:00"
 }

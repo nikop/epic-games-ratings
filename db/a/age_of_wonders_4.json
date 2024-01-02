@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -693,9 +693,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6704,
+  "EOS_Progressed": 6709,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 468,
+  "EOS_NewPlayers": 472,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10088,6 +10088,11 @@
       "Time": "2024-01-02T10:08:10.8610735+00:00",
       "NumProgressed": 6704,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-02T12:08:18.5277325+00:00",
+      "NumProgressed": 6709,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10115,7 +10120,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "12",
@@ -10139,7 +10144,7 @@
       "Name": "Full Ascension",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "15",
@@ -10211,7 +10216,7 @@
       "Name": "Realm Estate",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 804
+      "UsersEstimate": 805
     },
     {
       "ID": "23",
@@ -10219,7 +10224,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "24",
@@ -10235,7 +10240,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "26",
@@ -10243,7 +10248,7 @@
       "Name": "Bone Peddler",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "27",
@@ -10259,7 +10264,7 @@
       "Name": "From Friends to Family",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "29",
@@ -10267,7 +10272,7 @@
       "Name": "Stronger Together",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "3",
@@ -10291,7 +10296,7 @@
       "Name": "Magical Synergy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "32",
@@ -10307,7 +10312,7 @@
       "Name": "Seat of Power",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "34",
@@ -10578,13 +10583,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6704,
+      "Progressed": 6709,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6704,
+      "Progressed": 6709,
       "Completed": 7
     }
   ],
@@ -10592,8 +10597,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-02T07:59:23.676299+00:00",
-  "LastChanged_Achievements": "2024-01-02T11:06:36.1904065+00:00",
+  "LastChanged_Achievements": "2024-01-02T12:08:18.527732+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-02T10:59:48.0110356+00:00",
-  "LastUpdate_Achievements": "2024-01-02T11:06:36.1904898+00:00"
+  "LastUpdate_Ratings": "2024-01-02T11:59:39.4284338+00:00",
+  "LastUpdate_Achievements": "2024-01-02T12:08:18.5278621+00:00"
 }

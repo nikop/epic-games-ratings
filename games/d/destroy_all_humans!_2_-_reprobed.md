@@ -6,33 +6,33 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 81.00% | ~229 |
-| Mash Machine | 75.00% | ~212 |
+| Rock of the Bay | 81.00% | ~230 |
+| Mash Machine | 74.00% | ~210 |
 | Ducks in a Row, Fish in a Barrel | 54.00% | ~153 |
 | Furon Fashion | 49.00% | ~139 |
 | Shop Til They Drop | 41.00% | ~116 |
-| Bodied Sattva | 37.00% | ~105 |
+| Bodied Sattva | 38.00% | ~108 |
 | Earthly Pleasures | 35.00% | ~99 |
-| Cult Following | 34.00% | ~96 |
-| Lie Back and Think of Albion | 28.00% | ~79 |
-| Upgreatest | 27.00% | ~76 |
+| Cult Following | 34.00% | ~97 |
+| Lie Back and Think of Albion | 28.00% | ~80 |
+| Upgreatest | 27.00% | ~77 |
 | Pimp My Raid | 25.00% | ~71 |
-| I Look Up As I Walk to Takoshima | 21.00% | ~59 |
-| Freshly Squeezed | 21.00% | ~59 |
+| I Look Up As I Walk to Takoshima | 21.00% | ~60 |
+| Freshly Squeezed | 21.00% | ~60 |
 | Die Nasty | 19.00% | ~54 |
 | Perfect Probulator | 17.00% | ~48 |
-| Transmitting From Sol-3 | 15.00% | ~42 |
+| Transmitting From Sol-3 | 15.00% | ~43 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 12.00% | ~34 |
-| Fly Me to the Moon Base | 9.00% | ~25 |
-| Kaijuiced | 9.00% | ~25 |
-| Dusted | 9.00% | ~25 |
+| Fly Me to the Moon Base | 9.00% | ~26 |
+| Kaijuiced | 9.00% | ~26 |
+| Dusted | 9.00% | ~26 |
 | Scuttled | 7.00% | ~20 |
 | Re-Return of the Clone of the Invasion II-2 | 7.00% | ~20 |
 | Lobster Blisque | 5.00% | ~14 |
 | Ultimate Smoothie | 4.00% | ~11 |
 | Yettisoned | 4.00% | ~11 |
 | Arkvoodle Doodle | 4.00% | ~11 |
-| Deincarnated | 3.00% | ~8 |
+| Deincarnated | 3.00% | ~9 |
 | Arty Facts | 1.00% | ~3 |
 | Against All Odds | 1.00% | ~3 |
 | Forbidden Donut | 1.00% | ~3 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.40% | ~1 |
 | Trans-Siberian Express | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 283 (Ranked 397)  
+Progressed: 284 (Ranked 397)  
 Completed: 1 (0.35%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 1 (0.35%) (Ranked 238)
 | 2023-12-30 | 259 | 1 |
 | 2023-12-31 | 268 | 1 |
 | 2024-01-01 | 279 | 1 |
-| 2024-01-02 | 283 | 1 |
+| 2024-01-02 | 284 | 1 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 493)  
 Sum: 36 (Ranked 526)  

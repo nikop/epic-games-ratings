@@ -5,10 +5,10 @@
   "Ranking_Rating": 503,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
-  "Ranking_EOS_Progress": 274,
+  "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -61,7 +61,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1287,
+  "EOS_Progressed": 1288,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 269,
   "EOS_NewCompleters": 0,
@@ -3351,6 +3351,11 @@
       "Time": "2024-01-02T11:09:22.0094747+00:00",
       "NumProgressed": 1287,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T12:09:32.4561409+00:00",
+      "NumProgressed": 1288,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -3363,7 +3368,7 @@
       "Name": "The Teleprobe",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "AchvAllMemories",
@@ -3387,7 +3392,7 @@
       "Name": "Fierce fight",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "AchvBombStop",
@@ -3459,7 +3464,7 @@
       "Name": "Krauta is alive",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "AchvLava",
@@ -3491,7 +3496,7 @@
       "Name": "The Necroevolution",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "AchvNest",
@@ -3531,7 +3536,7 @@
       "Name": "The field base",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "AchvReachCamp",
@@ -3539,7 +3544,7 @@
       "Name": "The Camp",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 875
+      "UsersEstimate": 876
     },
     {
       "ID": "AchvReachCity",
@@ -3555,7 +3560,7 @@
       "Name": "The Condor",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "AchvSurvivors",
@@ -3579,7 +3584,7 @@
       "Name": "The End",
       "Percentage": 35,
       "XP": 55,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "AchvUnity",
@@ -3594,7 +3599,7 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1287,
+      "Progressed": 1288,
       "Completed": 0
     }
   ],
@@ -3602,8 +3607,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-01T16:57:32.3594457+00:00",
-  "LastChanged_Achievements": "2024-01-02T11:09:22.0094743+00:00",
+  "LastChanged_Achievements": "2024-01-02T12:09:32.4561352+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:20.4992862+00:00",
-  "LastUpdate_Ratings": "2024-01-02T10:57:56.5303369+00:00",
-  "LastUpdate_Achievements": "2024-01-02T11:09:22.0095091+00:00"
+  "LastUpdate_Ratings": "2024-01-02T11:57:42.9725966+00:00",
+  "LastUpdate_Achievements": "2024-01-02T12:09:32.4561773+00:00"
 }

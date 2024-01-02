@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10342,18 +10342,24 @@
       "Rating": 4.68,
       "NumberOfAwards": 21334,
       "NumberOfAwardsMax": 7919
+    },
+    {
+      "Time": "2024-01-02T11:58:37.3333226+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21347,
+      "NumberOfAwardsMax": 7927
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21334,
-  "NumberOfAwardsMax": 7919,
+  "NumberOfAwards": 21347,
+  "NumberOfAwardsMax": 7927,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7919
+      "Count": 7927
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -10395,7 +10401,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1802
+      "Count": 1807
     },
     {
       "Text": "This game is Relaxing",
@@ -10422,9 +10428,9 @@
       "Count": 1074
     }
   ],
-  "EOS_Progressed": 131267,
+  "EOS_Progressed": 131270,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1327,
+  "EOS_NewPlayers": 1321,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37962,6 +37968,11 @@
       "Time": "2024-01-02T11:09:26.3572354+00:00",
       "NumProgressed": 131267,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-02T12:09:36.8286295+00:00",
+      "NumProgressed": 131270,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37981,7 +37992,7 @@
       "Name": "Serenity Now!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6563
+      "UsersEstimate": 6564
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -38133,7 +38144,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6563
+      "UsersEstimate": 6564
     },
     {
       "ID": "combat_kill_fanatics",
@@ -38189,7 +38200,7 @@
       "Name": "Catch and Decease",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6563
+      "UsersEstimate": 6564
     },
     {
       "ID": "combat_kill_librarian",
@@ -38197,7 +38208,7 @@
       "Name": "Overdue Notice",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6563
+      "UsersEstimate": 6564
     },
     {
       "ID": "combat_kill_pillagers",
@@ -38213,7 +38224,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6563
+      "UsersEstimate": 6564
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -38509,7 +38520,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "combat_kill_collector",
@@ -38581,7 +38592,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -38604,21 +38615,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131267,
+      "Progressed": 131270,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6136,
+      "Progressed": 6139,
       "Completed": 820
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-02T05:58:27.833708+00:00",
-  "LastChanged_Achievements": "2024-01-02T11:09:26.3572352+00:00",
+  "LastChanged": "2024-01-02T11:58:37.3333223+00:00",
+  "LastChanged_Achievements": "2024-01-02T12:09:36.8286293+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-02T10:58:49.9428373+00:00",
-  "LastUpdate_Achievements": "2024-01-02T11:09:26.3573927+00:00"
+  "LastUpdate_Ratings": "2024-01-02T11:58:37.3333232+00:00",
+  "LastUpdate_Achievements": "2024-01-02T12:09:36.8288198+00:00"
 }

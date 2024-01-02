@@ -13,7 +13,7 @@ Number of Ratings: 20  (23.09.2022)
 | Lost & Found & Lost Again | 45.00% | ~176 |
 | From Whence we Came | 44.00% | ~172 |
 | Fire and Flood | 42.00% | ~165 |
-| Spooky! | 38.00% | ~149 |
+| Spooky! | 39.00% | ~153 |
 | Shennong Herbalist | 36.00% | ~141 |
 | Treasure Hunt | 36.00% | ~141 |
 | Good Mama | 34.00% | ~133 |

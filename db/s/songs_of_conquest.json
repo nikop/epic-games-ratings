@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -450,7 +450,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 930,
+  "EOS_Progressed": 931,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 0,
@@ -3335,6 +3335,11 @@
       "Time": "2024-01-02T11:08:53.5651704+00:00",
       "NumProgressed": 930,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T12:09:04.6542542+00:00",
+      "NumProgressed": 931,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3355,7 +3360,7 @@
       "Name": "The Song of Stoutheart",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ArleonCampaignFinaleOnHard",
@@ -3441,9 +3446,9 @@
       "ID": "ComingThrough",
       "SetID": "71c0n9i",
       "Name": "Coming Through!",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "DamageThreshold",
@@ -3451,7 +3456,7 @@
       "Name": "Critical Hit",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "Deepstrike",
@@ -3611,7 +3616,7 @@
       "Name": "Don\u0027t Touch My Stuff",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "RepelIntoExplosiveFungi",
@@ -3681,9 +3686,9 @@
       "ID": "WielderLevel2",
       "SetID": "71c0n9i",
       "Name": "Veteran",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 196
     },
     {
       "ID": "WielderLevel3",
@@ -3778,15 +3783,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 930,
+      "Progressed": 931,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2024-01-02T11:08:53.5651701+00:00",
+  "LastChanged_Achievements": "2024-01-02T12:09:04.6542539+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:53.9356991+00:00",
-  "LastUpdate_Ratings": "2024-01-02T10:57:26.0266618+00:00",
-  "LastUpdate_Achievements": "2024-01-02T11:08:53.5652297+00:00"
+  "LastUpdate_Ratings": "2024-01-02T11:57:11.4146552+00:00",
+  "LastUpdate_Achievements": "2024-01-02T12:09:04.6543091+00:00"
 }

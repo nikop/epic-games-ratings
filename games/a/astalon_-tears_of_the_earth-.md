@@ -9,8 +9,8 @@
 | Orb Gatherer | 37.00% | ~30 |
 | Monster Hunt | 37.00% | ~30 |
 | Space worm! | 37.00% | ~30 |
+| Beast Hunter | 33.00% | ~27 |
 | Loot, loot! | 33.00% | ~27 |
-| Beast Hunter | 32.00% | ~26 |
 | Vanquisher! | 31.00% | ~25 |
 | Orb Collector | 31.00% | ~25 |
 | Snakehead! | 31.00% | ~25 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 303,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -309,9 +309,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1042,
+  "EOS_Progressed": 1043,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2354,6 +2354,11 @@
       "Time": "2024-01-02T01:56:59.7375497+00:00",
       "NumProgressed": 1042,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T12:09:27.6225428+00:00",
+      "NumProgressed": 1043,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -2459,9 +2464,9 @@
       "ID": "ACH_CRITICAL_THINKER",
       "SetID": "108h92c",
       "Name": "Critical Thinker",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 375
+      "UsersEstimate": 365
     },
     {
       "ID": "ACH_DISAGREE_AND_COMMIT",
@@ -2501,7 +2506,7 @@
       "Name": "It\u2019s Heating up!",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
@@ -2517,7 +2522,7 @@
       "Name": "I can fix it!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
@@ -2525,7 +2530,7 @@
       "Name": "Let\u2019s patch things up",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -2580,7 +2585,7 @@
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 1042,
+      "Progressed": 1043,
       "Completed": 0
     }
   ],
@@ -2588,8 +2593,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2024-01-01T13:59:32.897486+00:00",
-  "LastChanged_Achievements": "2024-01-02T11:09:17.2485686+00:00",
+  "LastChanged_Achievements": "2024-01-02T12:09:27.6225424+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:17.6550121+00:00",
-  "LastUpdate_Ratings": "2024-01-02T10:59:29.6174972+00:00",
-  "LastUpdate_Achievements": "2024-01-02T11:09:17.2485989+00:00"
+  "LastUpdate_Ratings": "2024-01-02T11:59:19.9602906+00:00",
+  "LastUpdate_Achievements": "2024-01-02T12:09:27.6225687+00:00"
 }

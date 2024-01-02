@@ -329,9 +329,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 642,
+  "EOS_Progressed": 644,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 246,
+  "EOS_NewPlayers": 247,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
@@ -1744,6 +1744,11 @@
       "Time": "2024-01-02T11:03:39.0800507+00:00",
       "NumProgressed": 642,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-02T12:03:42.1003036+00:00",
+      "NumProgressed": 644,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1796,7 +1801,7 @@
       "Name": "Uptown and Downtown",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_FD_GRAVEYARD",
@@ -1834,9 +1839,9 @@
       "ID": "ACH_JELLYFISH_JAM",
       "SetID": "biiejkc",
       "Name": "Jellyfish Jam",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 103
     },
     {
       "ID": "ACH_KELP_FOREST",
@@ -1980,7 +1985,7 @@
       "Name": "Squirrel Smasher",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_STAT_STAR_SMASHER",
@@ -1988,7 +1993,7 @@
       "Name": "Star Smasher",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_SURFS_UP",
@@ -2002,24 +2007,24 @@
       "ID": "ACH_TIME_FOR_TUTORIAL",
       "SetID": "biiejkc",
       "Name": "Time For Tutorial",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 71
     }
   ],
   "AchievementSets": [
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 642,
+      "Progressed": 644,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-01T20:58:26.8279253+00:00",
-  "LastChanged_Achievements": "2024-01-02T11:03:39.0800503+00:00",
+  "LastChanged_Achievements": "2024-01-02T12:03:42.1003032+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:11.8880921+00:00",
-  "LastUpdate_Ratings": "2024-01-02T10:58:57.1734816+00:00",
-  "LastUpdate_Achievements": "2024-01-02T11:03:39.08008+00:00"
+  "LastUpdate_Ratings": "2024-01-02T11:58:44.2510327+00:00",
+  "LastUpdate_Achievements": "2024-01-02T12:03:42.1003284+00:00"
 }

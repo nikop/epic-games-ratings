@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 367,
   "Ranking_EOS_Completed": 260,
   "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -470,7 +470,7 @@
   ],
   "EOS_Progressed": 379,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -1770,9 +1770,9 @@
       "ID": "Kill_Demon_Kraken",
       "SetID": "7a5k76n",
       "Name": "Love Tap",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 114
     },
     {
       "ID": "Kill_Enemies_666",
@@ -1954,9 +1954,9 @@
       "ID": "Upgrade_Weapon_First",
       "SetID": "7a5k76n",
       "Name": "Just the start",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 178
+      "UsersEstimate": 182
     },
     {
       "ID": "Upgrade_Weapon_Max",
@@ -1978,8 +1978,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-02T05:57:25.472105+00:00",
-  "LastChanged_Achievements": "2024-01-02T11:05:35.9319768+00:00",
+  "LastChanged_Achievements": "2024-01-02T12:05:38.9219328+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.0817876+00:00",
-  "LastUpdate_Ratings": "2024-01-02T10:57:47.0980209+00:00",
-  "LastUpdate_Achievements": "2024-01-02T11:05:35.9320242+00:00"
+  "LastUpdate_Ratings": "2024-01-02T11:57:32.9141078+00:00",
+  "LastUpdate_Achievements": "2024-01-02T12:05:38.9219965+00:00"
 }

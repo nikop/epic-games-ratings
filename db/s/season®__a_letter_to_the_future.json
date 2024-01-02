@@ -4,7 +4,7 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 93,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1907,
+  "EOS_Progressed": 1908,
   "EOS_Completed": 72,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 3.78,
+  "EOS_Completed_Percentage": 3.77,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:27.3083538+00:00",
@@ -4284,6 +4284,11 @@
       "Time": "2024-01-02T10:09:45.4789685+00:00",
       "NumProgressed": 1907,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2024-01-02T12:09:50.7489547+00:00",
+      "NumProgressed": 1908,
+      "NumCompleted": 72
     }
   ],
   "TotalAchievements": 16,
@@ -4383,7 +4388,7 @@
       "Name": "Outside World Seer",
       "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 1163
+      "UsersEstimate": 1164
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -4422,7 +4427,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1907,
+      "Progressed": 1908,
       "Completed": 72
     }
   ],
@@ -4430,8 +4435,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2024-01-02T11:09:40.617042+00:00",
+  "LastChanged_Achievements": "2024-01-02T12:09:50.7489544+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.182252+00:00",
-  "LastUpdate_Ratings": "2024-01-02T11:00:25.1379995+00:00",
-  "LastUpdate_Achievements": "2024-01-02T11:09:40.6170669+00:00"
+  "LastUpdate_Ratings": "2024-01-02T12:00:21.5552521+00:00",
+  "LastUpdate_Achievements": "2024-01-02T12:09:50.7489812+00:00"
 }

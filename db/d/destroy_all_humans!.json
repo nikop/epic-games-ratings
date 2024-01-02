@@ -1264,9 +1264,9 @@
       "ID": "ACH_ABILITY_ABDUCTOBEAMCOLLISION",
       "SetID": "cefn62b",
       "Name": "Fly Me to the Moon Base",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH_ABILITY_ABDUCTOBEAMCOW",
@@ -1336,9 +1336,9 @@
       "ID": "ACH_ABILITY_SMASHBUTTON",
       "SetID": "cefn62b",
       "Name": "Rock of the Bay",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH_ABILITY_TRANSMOG",
@@ -1352,9 +1352,9 @@
       "ID": "ACH_ABILITY_WITHWEAPON",
       "SetID": "cefn62b",
       "Name": "Lie Back and Think of Albion",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 180
     },
     {
       "ID": "ACH_CHALLENGE_ABDUCTIONTHREESTAR",
@@ -1440,9 +1440,9 @@
       "ID": "ACH_COMBAT_EVADEBAZOOKA",
       "SetID": "cefn62b",
       "Name": "Die Nasty",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_ENEMY_KILLARMQUIST",
@@ -1488,9 +1488,9 @@
       "ID": "ACH_INVADE_CAPITOL",
       "SetID": "cefn62b",
       "Name": "Hidden Human Hive Harvest",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_INVADE_ROCKWELL",
@@ -1592,8 +1592,8 @@
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2023-11-09T01:43:19.9714919+00:00",
-  "LastChanged_Achievements": "2024-01-02T11:06:42.3042204+00:00",
+  "LastChanged_Achievements": "2024-01-02T12:08:24.5313153+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:06.6677344+00:00",
-  "LastUpdate_Ratings": "2024-01-02T10:57:34.4513211+00:00",
-  "LastUpdate_Achievements": "2024-01-02T11:06:42.3042585+00:00"
+  "LastUpdate_Ratings": "2024-01-02T11:57:20.4611182+00:00",
+  "LastUpdate_Achievements": "2024-01-02T12:08:24.5313467+00:00"
 }

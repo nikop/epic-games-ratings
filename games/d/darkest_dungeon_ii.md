@@ -6,16 +6,16 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 12.00% | ~736 |
+| Malpractice Assurance | 12.00% | ~737 |
 | Lost and Found | 8.00% | ~491 |
 | This Belongs in a Museum | 6.00% | ~7,876 |
 | Autodidact | 6.00% | ~7,876 |
 | This guy... again? | 6.00% | ~368 |
-| Serenity Now! | 5.00% | ~6,563 |
-| Creep and Sleep | 5.00% | ~6,563 |
-| Catch and Decease | 5.00% | ~6,563 |
-| Overdue Notice | 5.00% | ~6,563 |
-| Escape from the Black Hole | 5.00% | ~6,563 |
+| Serenity Now! | 5.00% | ~6,564 |
+| Creep and Sleep | 5.00% | ~6,564 |
+| Catch and Decease | 5.00% | ~6,564 |
+| Overdue Notice | 5.00% | ~6,564 |
+| Escape from the Black Hole | 5.00% | ~6,564 |
 | Ploughshares to Swords | 5.00% | ~307 |
 | Bloody Graduation | 5.00% | ~307 |
 | Don't Make Me Turn This Coach Around | 4.00% | ~5,251 |
@@ -31,7 +31,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 4.00% | ~5,251 |
 | FNG | 4.00% | ~5,251 |
 | Nope | 4.00% | ~5,251 |
-| Friends 'Til the End | 4.00% | ~245 |
+| Friends 'Til the End | 4.00% | ~246 |
 | Resurrection | 3.00% | ~3,938 |
 | Unleash Hell | 3.00% | ~3,938 |
 | Funny Guy | 3.00% | ~3,938 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,267 (Ranked 90)  
+Progressed: 131,270 (Ranked 90)  
 Completed: 3 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,15 +333,15 @@ Completed: 3 (0.00%) (Ranked 390)
 | 2023-12-30 | 130,838 | 3 |
 | 2023-12-31 | 131,026 | 3 |
 | 2024-01-01 | 131,206 | 3 |
-| 2024-01-02 | 131,267 | 3 |
+| 2024-01-02 | 131,270 | 3 |
 ## Awards
-Max (Character Customization): 7,919  (Ranked 50)  
-Sum: 21,334 (Ranked 58)  
+Max (Character Customization): 7,927  (Ranked 50)  
+Sum: 21,347 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,919 |
-| This game has Diverse Characters | 1,802 |
+| This game has Inclusive Character Customization | 7,927 |
+| This game has Diverse Characters | 1,807 |
 | This game has Challenging Combat | 1,661 |
 | This game is Highly Recommended | 1,586 |
 | This game has Amazing Characters | 1,511 |
@@ -694,4 +694,4 @@ Diff (max vs sum): -8
 | 2023-12-30 | 4.68 | - | 7,905 | 21,274 |
 | 2023-12-31 | 4.68 | - | 7,910 | 21,297 |
 | 2024-01-01 | 4.68 | - | 7,919 | 21,323 |
-| 2024-01-02 | 4.68 | - | 7,919 | 21,334 |
+| 2024-01-02 | 4.68 | - | 7,927 | 21,347 |

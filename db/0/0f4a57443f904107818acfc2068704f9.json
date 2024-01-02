@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 317,
   "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1213,
+  "EOS_Progressed": 1214,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3027,6 +3027,11 @@
       "Time": "2024-01-02T09:08:29.9934684+00:00",
       "NumProgressed": 1213,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-02T12:08:30.0433677+00:00",
+      "NumProgressed": 1214,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -3095,7 +3100,7 @@
       "Name": "Pathfinder",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "CompleteChapter10",
@@ -3119,7 +3124,7 @@
       "Name": "Grumblin\u0027 Bellies",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "CompleteChapter13",
@@ -3127,7 +3132,7 @@
       "Name": "Slaughter and Siege wiv da Squeeze",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "CompleteChapter14",
@@ -3191,15 +3196,15 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "CompleteChapter4",
       "SetID": "52ail55",
       "Name": "Servant of the Blue Raven",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 376
+      "UsersEstimate": 364
     },
     {
       "ID": "CompleteChapter5",
@@ -3223,7 +3228,7 @@
       "Name": "First to be Forged, Never to Fail!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "CompleteChapter8",
@@ -3334,14 +3339,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 1213,
+      "Progressed": 1214,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2024-01-02T11:08:18.7368486+00:00",
+  "LastChanged_Achievements": "2024-01-02T12:08:30.0433671+00:00",
   "LastUpdate_AppInfo": "2023-12-29T09:57:13.5043463+00:00",
-  "LastUpdate_Ratings": "2024-01-02T10:59:24.9683368+00:00",
-  "LastUpdate_Achievements": "2024-01-02T11:08:18.7368829+00:00"
+  "LastUpdate_Ratings": "2024-01-02T11:59:15.3543824+00:00",
+  "LastUpdate_Achievements": "2024-01-02T12:08:30.0434184+00:00"
 }

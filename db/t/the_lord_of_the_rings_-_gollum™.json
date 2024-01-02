@@ -4,8 +4,8 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 343,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -23,9 +23,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 674,
+  "EOS_Progressed": 675,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1958,6 +1958,11 @@
       "Time": "2024-01-01T21:08:42.9682758+00:00",
       "NumProgressed": 674,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-02T12:08:30.8406578+00:00",
+      "NumProgressed": 675,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1977,7 +1982,7 @@
       "Name": "Break a Leg!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "CatchAFish",
@@ -1985,7 +1990,7 @@
       "Name": "And now we wish...",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Chapter1",
@@ -2041,7 +2046,7 @@
       "Name": "The Spider",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "Chapter7",
@@ -2073,7 +2078,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "Collectibles2",
@@ -2121,7 +2126,7 @@
       "Name": "Like Flying...",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "GollumChoices",
@@ -2145,7 +2150,7 @@
       "Name": "Memories",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "Murderer",
@@ -2241,7 +2246,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "WelcomeToMordor",
@@ -2249,21 +2254,21 @@
       "Name": "Welcome to Mordor!",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 674,
+      "Progressed": 675,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2024-01-02T11:08:19.6326293+00:00",
+  "LastChanged_Achievements": "2024-01-02T12:08:30.8406573+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:52.7488707+00:00",
-  "LastUpdate_Ratings": "2024-01-02T10:59:01.7555172+00:00",
-  "LastUpdate_Achievements": "2024-01-02T11:08:19.6326589+00:00"
+  "LastUpdate_Ratings": "2024-01-02T11:58:50.9093554+00:00",
+  "LastUpdate_Achievements": "2024-01-02T12:08:30.8407049+00:00"
 }

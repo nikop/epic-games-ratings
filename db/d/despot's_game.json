@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 362,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 480,
+  "EOS_Progressed": 481,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -673,6 +673,11 @@
       "Time": "2024-01-02T08:03:37.8633229+00:00",
       "NumProgressed": 480,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-02T12:03:53.7552905+00:00",
+      "NumProgressed": 481,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -722,9 +727,9 @@
       "ID": "collect-discounted-items2",
       "SetID": "799afm0",
       "Name": "Shopaholic",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 10
     },
     {
       "ID": "collect-sacrifices",
@@ -732,7 +737,7 @@
       "Name": "No Mercy",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "different-items1",
@@ -818,9 +823,9 @@
       "ID": "finished-quest-sci",
       "SetID": "799afm0",
       "Name": "Knowledge is Power",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 212
     },
     {
       "ID": "finished-quest-secret",
@@ -852,7 +857,7 @@
       "Name": "He\u0027s Seen It All",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "last-hero",
@@ -890,9 +895,9 @@
       "ID": "win-campaign",
       "SetID": "799afm0",
       "Name": "Great Hero",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 139
+      "UsersEstimate": 135
     },
     {
       "ID": "win-first-biom",
@@ -900,15 +905,15 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "win-first-level",
       "SetID": "799afm0",
       "Name": "Good start!",
-      "Percentage": 88,
+      "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 422
+      "UsersEstimate": 418
     },
     {
       "ID": "win-koth-fights1",
@@ -938,9 +943,9 @@
       "ID": "win-second-biom",
       "SetID": "799afm0",
       "Name": "Through the Darkness",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 216
+      "UsersEstimate": 212
     },
     {
       "ID": "win-with-3-cultists",
@@ -948,7 +953,7 @@
       "Name": "Honorary Cultist",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "win-with-mrakus",
@@ -963,7 +968,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 480,
+      "Progressed": 481,
       "Completed": 1
     }
   ],
@@ -971,8 +976,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2024-01-02T11:03:50.895723+00:00",
+  "LastChanged_Achievements": "2024-01-02T12:03:53.7552902+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.2003375+00:00",
-  "LastUpdate_Ratings": "2024-01-02T10:57:20.5318278+00:00",
-  "LastUpdate_Achievements": "2024-01-02T11:03:50.8957508+00:00"
+  "LastUpdate_Ratings": "2024-01-02T11:57:07.0435249+00:00",
+  "LastUpdate_Achievements": "2024-01-02T12:03:53.7553141+00:00"
 }

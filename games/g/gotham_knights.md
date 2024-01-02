@@ -5,23 +5,23 @@ Rating: 4.18 (Ranked 968)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~40,499 |
-| Har, Har, Har, Very Funny | 34.00% | ~27,539 |
-| Loose Ends | 33.00% | ~26,729 |
-| To the Victor Go the Spoils | 27.00% | ~21,869 |
-| Knighthood | 27.00% | ~21,869 |
-| Get ReQ'd | 24.00% | ~19,440 |
-| Whispered Words | 24.00% | ~19,440 |
-| The Batman Family | 22.00% | ~17,820 |
-| Lock and Key | 22.00% | ~17,820 |
-| Something in the Clay | 20.00% | ~16,200 |
-| Quartzer Life Crisis | 20.00% | ~16,200 |
-| Working Hard or Harley Working? | 20.00% | ~16,200 |
-| Unstoppable Force | 20.00% | ~16,200 |
-| Bad Apples in Every Orchard | 20.00% | ~16,200 |
-| Snow Problem | 19.00% | ~15,390 |
-| The Show Mud Go On | 17.00% | ~13,770 |
-| From Inside Gotham's Walls | 17.00% | ~13,770 |
+| First Step Into the Knight | 50.00% | ~40,502 |
+| Har, Har, Har, Very Funny | 34.00% | ~27,541 |
+| Loose Ends | 33.00% | ~26,731 |
+| To the Victor Go the Spoils | 27.00% | ~21,871 |
+| Knighthood | 27.00% | ~21,871 |
+| Get ReQ'd | 24.00% | ~19,441 |
+| Whispered Words | 24.00% | ~19,441 |
+| The Batman Family | 22.00% | ~17,821 |
+| Lock and Key | 22.00% | ~17,821 |
+| Something in the Clay | 20.00% | ~16,201 |
+| Quartzer Life Crisis | 20.00% | ~16,201 |
+| Working Hard or Harley Working? | 20.00% | ~16,201 |
+| Unstoppable Force | 20.00% | ~16,201 |
+| Bad Apples in Every Orchard | 20.00% | ~16,201 |
+| Snow Problem | 19.00% | ~15,391 |
+| The Show Mud Go On | 17.00% | ~13,771 |
+| From Inside Gotham's Walls | 17.00% | ~13,771 |
 | Protector of Gotham | 16.00% | ~12,960 |
 | In Your Element | 15.00% | ~12,150 |
 | Universal Health Scare | 15.00% | ~12,150 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 968)
 | The Cold, the Bad and the Ugly | 0.30% | ~154 |
 | It's Nice to Be Wanted | 0.20% | ~103 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 80,998 (Ranked 110)  
+Progressed: 81,003 (Ranked 110)  
 Completed: 130 (0.16%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 130 (0.16%) (Ranked 283)
 | 2023-12-30 | 80,586 | 129 |
 | 2023-12-31 | 80,757 | 130 |
 | 2024-01-01 | 80,929 | 130 |
-| 2024-01-02 | 80,998 | 130 |
+| 2024-01-02 | 81,003 | 130 |
 ## Awards
 Max (Great Boss Battles): 3,112  (Ranked 100)  
 Sum: 5,319 (Ranked 142)  

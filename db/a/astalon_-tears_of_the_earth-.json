@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 505,
   "Ranking_EOS_Completed": 95,
   "Ranking_EOS_NewPlayers": 443,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-04-01T00:00:00+00:00",
     "PcReleaseDate": "2022-04-01T00:00:00+00:00",
@@ -318,9 +318,9 @@
       "ID": "Complete_Bestiary_50",
       "SetID": "4f0g260",
       "Name": "Beast Hunter",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Complete_Bestiary_80",
@@ -447,8 +447,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6585967+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.3708214+00:00",
   "LastChanged": "2023-03-31T05:57:06.6585968+00:00",
-  "LastChanged_Achievements": "2024-01-02T11:03:24.0119605+00:00",
+  "LastChanged_Achievements": "2024-01-02T12:03:27.3486136+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:11.1356612+00:00",
-  "LastUpdate_Ratings": "2024-01-02T10:59:40.5943476+00:00",
-  "LastUpdate_Achievements": "2024-01-02T11:03:24.0119781+00:00"
+  "LastUpdate_Ratings": "2024-01-02T11:59:31.5026176+00:00",
+  "LastUpdate_Achievements": "2024-01-02T12:03:27.3486359+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1858,
+  "EOS_Progressed": 1859,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -3193,6 +3193,11 @@
       "Time": "2024-01-02T06:03:31.0837179+00:00",
       "NumProgressed": 1858,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-02T12:03:41.3573133+00:00",
+      "NumProgressed": 1859,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3228,15 +3233,15 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "13",
       "SetID": "n50no0",
       "Name": "Unstoppable",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 167
+      "UsersEstimate": 149
     },
     {
       "ID": "14",
@@ -3428,7 +3433,7 @@
       "Name": "Over my dead body",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "9",
@@ -3443,15 +3448,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1858,
+      "Progressed": 1859,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2024-01-02T11:03:38.4948183+00:00",
+  "LastChanged_Achievements": "2024-01-02T12:03:41.3573131+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:49.1667896+00:00",
-  "LastUpdate_Ratings": "2024-01-02T10:58:59.9685589+00:00",
-  "LastUpdate_Achievements": "2024-01-02T11:03:38.494854+00:00"
+  "LastUpdate_Ratings": "2024-01-02T11:58:48.1722041+00:00",
+  "LastUpdate_Achievements": "2024-01-02T12:03:41.3573405+00:00"
 }

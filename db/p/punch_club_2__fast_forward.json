@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 142,
   "Ranking_EOS_NewPlayers": 280,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -2356,9 +2356,9 @@
       "ID": "huey_win",
       "SetID": "69co12a",
       "Name": "No bullying more",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 327
+      "UsersEstimate": 332
     },
     {
       "ID": "intro_dream",
@@ -2659,8 +2659,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2024-01-02T11:09:32.2364205+00:00",
+  "LastChanged_Achievements": "2024-01-02T12:09:42.3555186+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:36.4340723+00:00",
-  "LastUpdate_Ratings": "2024-01-02T11:00:28.6523501+00:00",
-  "LastUpdate_Achievements": "2024-01-02T11:09:32.236478+00:00"
+  "LastUpdate_Ratings": "2024-01-02T12:00:25.5946044+00:00",
+  "LastUpdate_Achievements": "2024-01-02T12:09:42.3555852+00:00"
 }

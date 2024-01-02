@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -133,7 +133,7 @@
   "Tags": [],
   "EOS_Progressed": 1528,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -4296,9 +4296,9 @@
       "ID": "GSS_ACH_01_SHOP_01",
       "SetID": "5fn8ia4",
       "Name": "First Customer!",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 1329
+      "UsersEstimate": 1345
     },
     {
       "ID": "GSS_ACH_02_SHOP_02",
@@ -4320,9 +4320,9 @@
       "ID": "GSS_ACH_04_TIP_02",
       "SetID": "5fn8ia4",
       "Name": "Gaining skill",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1314
     },
     {
       "ID": "GSS_ACH_05_TIP_03",
@@ -4953,8 +4953,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-01T13:58:04.4800406+00:00",
-  "LastChanged_Achievements": "2024-01-02T11:05:31.720544+00:00",
+  "LastChanged_Achievements": "2024-01-02T12:05:34.4531827+00:00",
   "LastUpdate_AppInfo": "2024-01-01T19:57:12.6980533+00:00",
-  "LastUpdate_Ratings": "2024-01-02T10:58:30.0611934+00:00",
-  "LastUpdate_Achievements": "2024-01-02T11:05:31.7206578+00:00"
+  "LastUpdate_Ratings": "2024-01-02T11:58:15.5526395+00:00",
+  "LastUpdate_Achievements": "2024-01-02T12:05:34.4532888+00:00"
 }

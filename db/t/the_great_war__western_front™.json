@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -115,9 +115,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 825,
+  "EOS_Progressed": 826,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3620,6 +3620,11 @@
       "Time": "2024-01-02T10:04:35.0833152+00:00",
       "NumProgressed": 825,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T12:04:33.6112814+00:00",
+      "NumProgressed": 826,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -3663,7 +3668,7 @@
       "Name": "War with Friends",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "DESTROY_100_EMPLACEMENTS_WITH_BOMBERS",
@@ -3695,7 +3700,7 @@
       "Name": "Earth Shattering",
       "Percentage": 45,
       "XP": 90,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -3719,14 +3724,14 @@
       "Name": "Nothing Can Stop Us!",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     }
   ],
   "AchievementSets": [
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 825,
+      "Progressed": 826,
       "Completed": 0
     }
   ],
@@ -3734,8 +3739,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-12-31T09:58:52.6483653+00:00",
-  "LastChanged_Achievements": "2024-01-02T11:04:30.7565872+00:00",
+  "LastChanged_Achievements": "2024-01-02T12:04:33.6112805+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:29.6055115+00:00",
-  "LastUpdate_Ratings": "2024-01-02T11:00:10.6729796+00:00",
-  "LastUpdate_Achievements": "2024-01-02T11:04:30.7566159+00:00"
+  "LastUpdate_Ratings": "2024-01-02T12:00:04.0963962+00:00",
+  "LastUpdate_Achievements": "2024-01-02T12:04:33.6113136+00:00"
 }

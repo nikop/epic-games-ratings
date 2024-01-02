@@ -4,8 +4,8 @@
   "ProductSlug": "knight-vs-giant-the-broken-excalibur-230c5c",
   "Ranking_EOS_Progress": 654,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 476,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 475,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-10-05T16:00:00+00:00",
     "PcReleaseDate": "2023-10-05T16:00:00+00:00",
@@ -89,9 +89,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "4mjb15",
       "Name": "A Fool to the World",
-      "Percentage": 55,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -121,9 +121,9 @@
       "ID": "NEW_ACHIEVEMENT_1_12",
       "SetID": "4mjb15",
       "Name": "Pollinated",
-      "Percentage": 27,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
@@ -185,17 +185,17 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "4mjb15",
       "Name": "Gone Full Circle",
-      "Percentage": 55,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
       "SetID": "4mjb15",
       "Name": "Bedivere of the Perfect Sinew",
-      "Percentage": 45,
+      "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_21",
@@ -225,25 +225,25 @@
       "ID": "NEW_ACHIEVEMENT_1_24",
       "SetID": "4mjb15",
       "Name": "Get a Friend, Get a Sword",
-      "Percentage": 45,
+      "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "4mjb15",
       "Name": "The Rock Is Indeed Moving",
-      "Percentage": 45,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "4mjb15",
       "Name": "Get To Know the Locals",
-      "Percentage": 45,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -257,25 +257,25 @@
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "4mjb15",
       "Name": "Reduced to Rubble",
-      "Percentage": 45,
+      "Percentage": 55,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "4mjb15",
       "Name": "Barking up the Wrong Tree",
-      "Percentage": 45,
+      "Percentage": 55,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "4mjb15",
       "Name": "Fit into the Pocket",
-      "Percentage": 18,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -296,8 +296,8 @@
   ],
   "FirstSeen": "2023-10-07T12:03:46.8255851+00:00",
   "FirstSeenAchievements": "2023-09-15T05:04:55.0336993+00:00",
-  "LastChanged_Achievements": "2024-01-02T11:09:48.93667+00:00",
+  "LastChanged_Achievements": "2024-01-02T12:09:59.0708418+00:00",
   "LastUpdate_AppInfo": "2023-12-29T21:57:13.1618378+00:00",
-  "LastUpdate_Ratings": "2024-01-02T10:58:18.8367173+00:00",
-  "LastUpdate_Achievements": "2024-01-02T11:09:48.936681+00:00"
+  "LastUpdate_Ratings": "2024-01-02T11:58:03.5836869+00:00",
+  "LastUpdate_Achievements": "2024-01-02T12:09:59.0708639+00:00"
 }

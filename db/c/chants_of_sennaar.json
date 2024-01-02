@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -97,11 +97,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2207,
+  "EOS_Progressed": 2208,
   "EOS_Completed": 137,
-  "EOS_NewPlayers": 383,
+  "EOS_NewPlayers": 381,
   "EOS_NewCompleters": 31,
-  "EOS_Completed_Percentage": 6.21,
+  "EOS_Completed_Percentage": 6.2,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -6082,6 +6082,11 @@
       "Time": "2024-01-02T11:03:33.686223+00:00",
       "NumProgressed": 2207,
       "NumCompleted": 137
+    },
+    {
+      "Time": "2024-01-02T12:03:36.619572+00:00",
+      "NumProgressed": 2208,
+      "NumCompleted": 137
     }
   ],
   "TotalAchievements": 25,
@@ -6141,7 +6146,7 @@
       "Name": "Open door",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "META_RESULT_1-3",
@@ -6157,7 +6162,7 @@
       "Name": "Feels like springtime",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "META_RESULT_2-3",
@@ -6189,7 +6194,7 @@
       "Name": "Alchemists Express",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -6237,7 +6242,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1258
+      "UsersEstimate": 1259
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -6259,9 +6264,9 @@
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 949
+      "UsersEstimate": 972
     },
     {
       "ID": "PROGRESS_N3",
@@ -6292,7 +6297,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2207,
+      "Progressed": 2208,
       "Completed": 137
     }
   ],
@@ -6300,8 +6305,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-31T07:01:38.7723363+00:00",
-  "LastChanged_Achievements": "2024-01-02T11:03:33.6862226+00:00",
+  "LastChanged_Achievements": "2024-01-02T12:03:36.6195717+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:09.4320521+00:00",
-  "LastUpdate_Ratings": "2024-01-02T11:01:02.3863865+00:00",
-  "LastUpdate_Achievements": "2024-01-02T11:03:33.6862595+00:00"
+  "LastUpdate_Ratings": "2024-01-02T12:02:44.7209621+00:00",
+  "LastUpdate_Achievements": "2024-01-02T12:03:36.6196253+00:00"
 }

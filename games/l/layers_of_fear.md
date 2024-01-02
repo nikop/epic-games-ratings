@@ -16,12 +16,12 @@
 | Face your fears | 29.00% | ~74 |
 | Finished it | 27.00% | ~69 |
 | Whispers long forgotten | 16.00% | ~41 |
+| Debut | 13.00% | ~33 |
 | Sound Bite | 13.00% | ~33 |
 | The art of movement | 13.00% | ~33 |
 | A Slice of Life | 12.00% | ~31 |
-| Debut | 12.00% | ~31 |
+| Lights! Camera! Action! | 12.00% | ~31 |
 | Another perspective | 11.00% | ~28 |
-| Lights! Camera! Action! | 11.00% | ~28 |
 | Playtime | 11.00% | ~28 |
 | Tough conversation | 11.00% | ~28 |
 | First steps | 10.00% | ~26 |
@@ -42,11 +42,11 @@
 | Body of Work | 2.00% | ~5 |
 | It was worth a try | 2.00% | ~5 |
 | Full Scoop | 2.00% | ~5 |
+| In One Take | 2.00% | ~5 |
 | Preferred Parent | 2.00% | ~5 |
 | Se7en Seas | 2.00% | ~5 |
 | A Mosaic of Misery | 2.00% | ~5 |
 | The Big Picture | 1.00% | ~3 |
-| In One Take | 1.00% | ~3 |
 | Sword of the Serpent | 1.00% | ~3 |
 | Rocket Science | 0.80% | ~2 |
 | You Can’t Handle the Truth | 0.40% | ~1 |
