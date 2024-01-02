@@ -43,7 +43,7 @@
 | 41 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 10.00% |
 | 42 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.79% |
 | 43 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
-| 44 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.21% |
+| 44 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.20% |
 | 45 | [Smelter](games/s/smelter.md) | 8.89% |
 | 46 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 8.51% |
 | 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.48% |
@@ -63,12 +63,12 @@
 | 61 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.69% |
 | 62 | [Time Loader](games/t/time_loader.md) | 6.52% |
 | 63 | [Anna's Quest](games/a/anna's_quest.md) | 6.45% |
-| 63 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.45% |
+| 64 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.35% |
 | 65 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 65 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 6.25% |
 | 65 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 6.25% |
-| 68 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.19% |
-| 69 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.18% |
+| 68 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.20% |
+| 69 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.19% |
 | 70 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.80% |
 | 71 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
 | 71 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 5.56% |
@@ -92,7 +92,7 @@
 | 89 | [The Bunker](games/t/the_bunker.md) | 4.17% |
 | 91 | [Dungeons 4](games/d/dungeons_4.md) | 3.91% |
 | 92 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.82% |
-| 93 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.79% |
+| 93 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.78% |
 | 94 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.74% |
 | 95 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.70% |
 | 95 | [Thunder Ray](games/3/3c59565688c94fa2807baaa19ed62478.md) | 3.70% |
@@ -116,8 +116,8 @@
 | 114 | [Without Escape](games/w/without_escape.md) | 2.86% |
 | 115 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 2.78% |
 | 116 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2.76% |
-| 117 | [The Complex](games/t/the_complex.md) | 2.72% |
-| 118 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.71% |
+| 117 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.71% |
+| 117 | [The Complex](games/t/the_complex.md) | 2.71% |
 | 119 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.68% |
 | 120 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.67% |
 | 121 | [Time on Frog Island](games/t/time_on_frog_island.md) | 2.63% |
@@ -140,7 +140,7 @@
 | 138 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.89% |
 | 139 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.83% |
 | 140 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.82% |
-| 141 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.79% |
+| 141 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.78% |
 | 142 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 1.74% |
 | 143 | [Sifu](games/s/sifu.md) | 1.73% |
 | 144 | [Frogun](games/f/frogun.md) | 1.72% |
@@ -176,19 +176,19 @@
 | 174 | [Colossal Cave](games/c/colossal_cave.md) | 0.96% |
 | 174 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.96% |
 | 174 | [Trifox](games/t/trifox.md) | 0.96% |
-| 177 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.94% |
-| 178 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.93% |
-| 178 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 0.93% |
-| 180 | [Hades](games/h/hades.md) | 0.91% |
-| 181 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.89% |
-| 181 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.89% |
-| 183 | [A Musical Story](games/a/a_musical_story.md) | 0.88% |
-| 184 | [There Is No Game - Wrong Dimension](games/5/5f7c8e78a55f4eb9956329556c44a27a.md) | 0.85% |
-| 185 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 0.82% |
-| 185 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 0.82% |
-| 187 | [Dungeons 3](games/d/dungeons_3.md) | 0.80% |
-| 187 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.80% |
-| 189 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 0.79% |
+| 177 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 0.95% |
+| 178 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.94% |
+| 179 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.93% |
+| 179 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 0.93% |
+| 181 | [Hades](games/h/hades.md) | 0.91% |
+| 182 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.89% |
+| 182 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.89% |
+| 184 | [A Musical Story](games/a/a_musical_story.md) | 0.88% |
+| 185 | [There Is No Game - Wrong Dimension](games/5/5f7c8e78a55f4eb9956329556c44a27a.md) | 0.84% |
+| 186 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 0.82% |
+| 186 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 0.82% |
+| 188 | [Dungeons 3](games/d/dungeons_3.md) | 0.80% |
+| 188 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.80% |
 | 190 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
 | 190 | [Infindustry](games/i/infindustry.md) | 0.76% |
 | 192 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 0.75% |
