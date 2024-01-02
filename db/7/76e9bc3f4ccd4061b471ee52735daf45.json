@@ -28,9 +28,123 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2024-01-02T04:08:27.0225922+00:00",
+  "TotalAchievements": 14,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "10_HOUR",
+      "SetID": "73fploh",
+      "Name": "Wow",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1_HOUR",
+      "SetID": "73fploh",
+      "Name": "A Few Attempts",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DIE_1",
+      "SetID": "73fploh",
+      "Name": "Congrats, you failed :)",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DIE_10",
+      "SetID": "73fploh",
+      "Name": "Bro?",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DIE_100",
+      "SetID": "73fploh",
+      "Name": "You Good?!?",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FIRST_LEVEL",
+      "SetID": "73fploh",
+      "Name": "Might",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FIRST_UPGRADE",
+      "SetID": "73fploh",
+      "Name": "UPGRADE",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KILL_100K",
+      "SetID": "73fploh",
+      "Name": "Bug Butcher",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KILL_10K",
+      "SetID": "73fploh",
+      "Name": "Bug Musher",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KILL_1K",
+      "SetID": "73fploh",
+      "Name": "Bug Smasher",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KILL_1M",
+      "SetID": "73fploh",
+      "Name": "Insect Assassin",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PRESS_ESCAPE",
+      "SetID": "73fploh",
+      "Name": "Take a Breather",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PRESS_SPACE",
+      "SetID": "73fploh",
+      "Name": "Dodge",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TEN_MINUTE_PLAYED",
+      "SetID": "73fploh",
+      "Name": "Congrats!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "73fploh",
@@ -40,8 +154,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-12T05:03:22.9962515+00:00",
-  "LastChanged_Achievements": "2024-01-02T03:06:32.1931575+00:00",
+  "LastChanged_Achievements": "2024-01-02T04:08:27.0225904+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:16.8078597+00:00",
-  "LastUpdate_Ratings": "2024-01-02T02:57:51.2174178+00:00",
-  "LastUpdate_Achievements": "2024-01-02T03:06:32.1931608+00:00"
+  "LastUpdate_Ratings": "2024-01-02T03:57:59.6785665+00:00",
+  "LastUpdate_Achievements": "2024-01-02T04:08:27.0557837+00:00"
 }

@@ -6,17 +6,17 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 88.00% | ~635,539 |
-| Escaped Asphodel | 79.00% | ~570,540 |
-| Arms Collector | 70.00% | ~505,542 |
-| Friends in High Places | 67.00% | ~483,876 |
-| Escaped Elysium | 65.00% | ~469,432 |
+| Escaped Tartarus | 88.00% | ~635,540 |
+| Escaped Asphodel | 79.00% | ~570,541 |
+| Arms Collector | 70.00% | ~505,543 |
+| Friends in High Places | 67.00% | ~483,877 |
+| Escaped Elysium | 65.00% | ~469,433 |
 | Chthonic Colleagues | 62.00% | ~447,766 |
 | Is There No Escape? | 52.00% | ~375,546 |
-| Death Dealer | 45.00% | ~324,991 |
-| Skelly Slayer | 42.00% | ~303,325 |
-| Well Stocked | 40.00% | ~288,881 |
-| Back to Work | 38.00% | ~274,437 |
+| Death Dealer | 45.00% | ~324,992 |
+| Skelly Slayer | 42.00% | ~303,326 |
+| Well Stocked | 40.00% | ~288,882 |
+| Back to Work | 38.00% | ~274,438 |
 | Day-or-Night Trader | 37.00% | ~267,215 |
 | Blessed by the Gods | 37.00% | ~267,215 |
 | Urge to Sing | 36.00% | ~259,993 |
@@ -35,10 +35,10 @@ Number of Ratings: 6,336  (23.09.2022)
 | Something From Everyone | 19.00% | ~137,219 |
 | Hold the Onions | 18.00% | ~129,997 |
 | Well Versed | 17.00% | ~122,775 |
-| War-God's Bloodlust | 15.00% | ~108,330 |
-| Musician and Muse | 14.00% | ~101,108 |
-| The Useless Trinket | 13.00% | ~93,886 |
-| Champion of Elysium | 13.00% | ~93,886 |
+| War-God's Bloodlust | 15.00% | ~108,331 |
+| Musician and Muse | 14.00% | ~101,109 |
+| The Useless Trinket | 13.00% | ~93,887 |
+| Champion of Elysium | 13.00% | ~93,887 |
 | Slashed Benefits | 12.00% | ~86,664 |
 | Haste of Hermes | 11.00% | ~79,442 |
 | Bad Call | 10.00% | ~72,220 |
@@ -56,7 +56,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~28,888 |
 | Friends Forever | 4.00% | ~28,888 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 722,203 (Ranked 26)  
+Progressed: 722,204 (Ranked 26)  
 Completed: 6,584 (0.91%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 6,584 (0.91%) (Ranked 181)
 | 2023-12-30 | 721,766 | 6,579 |
 | 2023-12-31 | 721,986 | 6,581 |
 | 2024-01-01 | 722,189 | 6,584 |
-| 2024-01-02 | 722,203 | 6,584 |
+| 2024-01-02 | 722,204 | 6,584 |
 ## Awards
 Max (Character Customization): 3,490  (Ranked 94)  
 Sum: 8,531 (Ranked 104)  

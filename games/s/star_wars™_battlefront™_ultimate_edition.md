@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 87.00% | ~2,149 |
-| Off to a good start | 62.00% | ~1,531 |
-| Do... or do not. There is no try | 52.00% | ~1,284 |
-| A good blaster at your side | 26.00% | ~642 |
-| I suggest a new strategy | 18.00% | ~445 |
-| Great shot, kid! | 16.00% | ~395 |
-| Scrap collector | 15.00% | ~370 |
-| All right, I'll give it a try | 15.00% | ~370 |
-| Shoot first | 13.00% | ~321 |
-| The power of the Force | 12.00% | ~296 |
-| Collector | 12.00% | ~296 |
-| Together we can rule the galaxy | 12.00% | ~296 |
+| New Recruit | 87.00% | ~2,153 |
+| Off to a good start | 62.00% | ~1,534 |
+| Do... or do not. There is no try | 52.00% | ~1,287 |
+| A good blaster at your side | 26.00% | ~644 |
+| I suggest a new strategy | 18.00% | ~446 |
+| Great shot, kid! | 16.00% | ~396 |
+| Scrap collector | 15.00% | ~371 |
+| All right, I'll give it a try | 15.00% | ~371 |
+| Shoot first | 13.00% | ~322 |
+| The power of the Force | 12.00% | ~297 |
+| Collector | 12.00% | ~297 |
+| Together we can rule the galaxy | 12.00% | ~297 |
 | Tell Jabba that I've got his money | 8.00% | ~198 |
 | Best star-pilot in the galaxy | 8.00% | ~198 |
 | Never tell me the odds! | 7.00% | ~173 |
@@ -33,14 +33,14 @@
 | Not bad for a little furball | 3.00% | ~74 |
 | Patience you must have | 3.00% | ~74 |
 | Don't underestimate the Force | 3.00% | ~74 |
-| The Force is strong with this one | 2.00% | ~49 |
-| I've been waiting for you | 2.00% | ~49 |
-| When 900 years old you reach... | 2.00% | ~49 |
-| Determined | 2.00% | ~49 |
-| Your journey has only started | 2.00% | ~49 |
-| Precision shot | 2.00% | ~49 |
-| That's no moon | 2.00% | ~49 |
-| What will you become? | 2.00% | ~49 |
+| The Force is strong with this one | 2.00% | ~50 |
+| I've been waiting for you | 2.00% | ~50 |
+| When 900 years old you reach... | 2.00% | ~50 |
+| Determined | 2.00% | ~50 |
+| Your journey has only started | 2.00% | ~50 |
+| Precision shot | 2.00% | ~50 |
+| That's no moon | 2.00% | ~50 |
+| What will you become? | 2.00% | ~50 |
 | Hold the line! | 1.00% | ~25 |
 | Ackbar's Elite | 1.00% | ~25 |
 | This is a new day, a new beginning | 1.00% | ~25 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,470 (Ranked 232)  
+Progressed: 2,475 (Ranked 232)  
 Completed: 1 (0.04%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 1 (0.04%) (Ranked 344)
 | 2023-12-30 | 2,388 | 1 |
 | 2023-12-31 | 2,425 | 1 |
 | 2024-01-01 | 2,461 | 1 |
-| 2024-01-02 | 2,470 | 1 |
+| 2024-01-02 | 2,475 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

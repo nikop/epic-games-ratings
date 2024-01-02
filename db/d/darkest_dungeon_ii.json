@@ -10416,9 +10416,9 @@
       "Count": 1074
     }
   ],
-  "EOS_Progressed": 131227,
+  "EOS_Progressed": 131234,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1339,
+  "EOS_NewPlayers": 1342,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37916,6 +37916,11 @@
       "Time": "2024-01-02T03:09:41.2752765+00:00",
       "NumProgressed": 131227,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-02T04:09:55.1762494+00:00",
+      "NumProgressed": 131234,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -37935,7 +37940,7 @@
       "Name": "Serenity Now!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6561
+      "UsersEstimate": 6562
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -38087,7 +38092,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6561
+      "UsersEstimate": 6562
     },
     {
       "ID": "combat_kill_fanatics",
@@ -38151,7 +38156,7 @@
       "Name": "Overdue Notice",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6561
+      "UsersEstimate": 6562
     },
     {
       "ID": "combat_kill_pillagers",
@@ -38167,7 +38172,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6561
+      "UsersEstimate": 6562
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -38551,28 +38556,28 @@
       "Name": "On This Long Road, We Found Redemption",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     }
   ],
   "AchievementSets": [
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131227,
+      "Progressed": 131234,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6096,
+      "Progressed": 6103,
       "Completed": 820
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-02T02:58:28.42026+00:00",
-  "LastChanged_Achievements": "2024-01-02T03:09:41.2752762+00:00",
+  "LastChanged_Achievements": "2024-01-02T04:09:55.1762491+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-02T02:58:28.4202605+00:00",
-  "LastUpdate_Achievements": "2024-01-02T03:09:41.2754518+00:00"
+  "LastUpdate_Ratings": "2024-01-02T03:58:40.0581321+00:00",
+  "LastUpdate_Achievements": "2024-01-02T04:09:55.1764448+00:00"
 }

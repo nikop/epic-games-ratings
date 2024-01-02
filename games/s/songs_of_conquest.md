@@ -38,12 +38,12 @@ Number of Ratings: 292  (23.09.2022)
 | Get Over Here! | 0.50% | ~5 |
 | Death To Diplomacy | 0.40% | ~4 |
 | Killing Spree | 0.40% | ~4 |
+| Cleave | 0.40% | ~4 |
 | Fully Charged | 0.30% | ~3 |
 | Coming Through! | 0.30% | ~3 |
 | Barbecue | 0.30% | ~3 |
 | Oops! | 0.30% | ~3 |
 | The Marsh Expands | 0.30% | ~3 |
-| Cleave | 0.30% | ~3 |
 | Attack Bonanza | 0.20% | ~2 |
 | An Empress's Hope | 0.20% | ~2 |
 | Bringer of Ruin | 0.10% | ~1 |

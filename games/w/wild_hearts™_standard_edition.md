@@ -20,7 +20,7 @@
 | Flawless Crystal | 37.00% | ~395 |
 | Bonds of Enmity | 37.00% | ~395 |
 | Distance Devourer | 34.00% | ~363 |
-| Counter Specialist | 32.00% | ~341 |
+| Counter Specialist | 33.00% | ~352 |
 | Master of the Skies | 31.00% | ~331 |
 | Axer of Auspice | 27.00% | ~288 |
 | Mighty Marmelizer | 26.00% | ~277 |
@@ -37,8 +37,8 @@
 | Human Believer | 16.00% | ~171 |
 | Style Seeker | 15.00% | ~160 |
 | Unrivaled in Arms | 15.00% | ~160 |
+| Quintessence of Form | 15.00% | ~160 |
 | Threaded Harmony | 15.00% | ~160 |
-| Quintessence of Form | 14.00% | ~149 |
 | Karakuri Minato | 14.00% | ~149 |
 | Canyon of Karakuri | 13.00% | ~139 |
 | Jack of All Trades | 12.00% | ~128 |

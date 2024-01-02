@@ -9,7 +9,7 @@ Rating: 4.70 (Ranked 217)
 | Thalya – Simply Immortal | 88.00% | ~608 |
 | For the Horde! | 82.00% | ~567 |
 | Hammer Time, Round Two | 80.00% | ~553 |
-| The Hellwoods | 76.00% | ~525 |
+| The Hellwoods | 77.00% | ~532 |
 | The Plains of Strothalm | 72.00% | ~498 |
 | Experienced Thalya | 71.00% | ~491 |
 | Thalya's Concentrated Fury | 68.00% | ~470 |

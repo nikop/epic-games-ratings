@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fright ✔ | 58.00% | ~180 |
+| Fright ✔ | 58.00% | ~181 |
 | Inventory ✔ | 54.00% | ~168 |
 | Chest ✔ | 54.00% | ~168 |
 | Police officers ✔ | 28.00% | ~87 |
@@ -27,13 +27,13 @@
 | Boss 1 ✔ | 5.00% | ~16 |
 | Brain ✔ | 5.00% | ~16 |
 | Eva ✔ | 5.00% | ~16 |
-| Infected ✔ | 5.00% | ~16 |
 | All secrets revealed ✔ | 5.00% | ~16 |
 | Group Alpha ✔ | 4.00% | ~12 |
 | Mutant fight ✔ | 4.00% | ~12 |
 | Mutant run ✔ | 4.00% | ~12 |
 | Sheriff ✔ | 4.00% | ~12 |
 | City on fire ✔ | 4.00% | ~12 |
+| Infected ✔ | 4.00% | ~12 |
 | Priest ✔ | 4.00% | ~12 |
 | Broadcasting ✔ | 4.00% | ~12 |
 | Crocodile Attack ✔ | 3.00% | ~9 |
@@ -55,7 +55,7 @@
 | Seeker Two ✔ | 0.30% | ~1 |
 | Rank A+ ✔ | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 311 (Ranked 384)  
+Progressed: 312 (Ranked 384)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,6 +161,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-27 | 307 | 0 |
 | 2023-12-31 | 310 | 0 |
 | 2024-01-01 | 311 | 0 |
+| 2024-01-02 | 312 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

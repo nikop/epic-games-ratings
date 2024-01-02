@@ -2,7 +2,7 @@
   "ID": "3b925119dbd84a9986f06e66e6794033",
   "Name": "The Jackbox Party Pack 10",
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
-  "Ranking_EOS_Progress": 324,
+  "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 149,
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 654,
+  "EOS_Progressed": 655,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
@@ -2044,6 +2044,11 @@
       "Time": "2024-01-02T03:09:52.6371869+00:00",
       "NumProgressed": 654,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T04:10:07.7110256+00:00",
+      "NumProgressed": 655,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -2096,7 +2101,7 @@
       "Name": "Hypnotorious: Self Aware",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "HYPNO_OUTLIER_ONLY_ID",
@@ -2126,9 +2131,9 @@
       "ID": "RISKYTEXT_ONE_WORD_GETS_VOTES_FROM_ALL_VOTING_PLAYERS",
       "SetID": "9j9h72e",
       "Name": "FixyText: Bestseller",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 124
+      "UsersEstimate": 118
     },
     {
       "ID": "RISKYTEXT_PLAY_ALL_CATEGORIES",
@@ -2168,7 +2173,7 @@
       "Name": "Timejinx: The Perfect Date",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "TIME_PERFECT_GUEST",
@@ -2184,7 +2189,7 @@
       "Name": "Tee K.O. 2: Life\u0027s A Beach",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "TKO2_DOMINO",
@@ -2215,14 +2220,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 654,
+      "Progressed": 655,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2024-01-02T03:09:52.6371865+00:00",
+  "LastChanged_Achievements": "2024-01-02T04:10:07.7110252+00:00",
   "LastUpdate_AppInfo": "2023-12-30T02:16:13.4108208+00:00",
-  "LastUpdate_Ratings": "2024-01-02T02:58:03.6258806+00:00",
-  "LastUpdate_Achievements": "2024-01-02T03:09:52.6372188+00:00"
+  "LastUpdate_Ratings": "2024-01-02T03:58:15.0978729+00:00",
+  "LastUpdate_Achievements": "2024-01-02T04:10:07.711053+00:00"
 }

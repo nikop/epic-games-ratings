@@ -2,7 +2,7 @@
   "ID": "64543c9227724068970bd85bc4e73e9e",
   "Name": "Farlight 84",
   "ProductSlug": "farlight-84-8e689a",
-  "Ranking_Rating": 903,
+  "Ranking_Rating": 909,
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 819,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.26,
+  "Rating": 4.25,
   "RatingHistory": [
     {
       "Time": "2023-11-02T19:03:18.4376934+00:00",
@@ -563,6 +563,12 @@
       "Rating": 4.26,
       "NumberOfAwards": 93,
       "NumberOfAwardsMax": 26
+    },
+    {
+      "Time": "2024-01-02T03:57:36.4070246+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 93,
+      "NumberOfAwardsMax": 26
     }
   ],
   "ReviewsDisabled": false,
@@ -607,8 +613,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-31T02:58:28.8259872+00:00",
   "FirstSeenRating": "2023-11-02T19:03:18.4376932+00:00",
-  "LastChanged": "2023-12-30T16:00:13.6570956+00:00",
+  "LastChanged": "2024-01-02T03:57:36.4070244+00:00",
   "LastUpdate_AppInfo": "2023-12-26T18:57:06.791987+00:00",
-  "LastUpdate_Ratings": "2024-01-02T02:57:31.1948441+00:00",
-  "LastUpdate_Achievements": "2024-01-02T03:03:34.5758014+00:00"
+  "LastUpdate_Ratings": "2024-01-02T03:57:36.4070248+00:00",
+  "LastUpdate_Achievements": "2024-01-02T04:03:41.8599655+00:00"
 }

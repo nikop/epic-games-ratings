@@ -9157,7 +9157,7 @@
       "Count": 633
     }
   ],
-  "EOS_Progressed": 369295,
+  "EOS_Progressed": 369296,
   "EOS_Completed": 29,
   "EOS_NewPlayers": 1589,
   "EOS_NewCompleters": 0,
@@ -38237,6 +38237,11 @@
       "Time": "2024-01-02T03:10:12.1627752+00:00",
       "NumProgressed": 369295,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2024-01-02T04:10:28.7111237+00:00",
+      "NumProgressed": 369296,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 100,
@@ -38344,7 +38349,7 @@
       "Name": "Team Performance",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 114481
+      "UsersEstimate": 114482
     },
     {
       "ID": "achievement_beat_a_rival",
@@ -38392,7 +38397,7 @@
       "Name": "Clean Sheet",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 199419
+      "UsersEstimate": 199420
     },
     {
       "ID": "achievement_clean_sheet_network",
@@ -38568,7 +38573,7 @@
       "Name": "They\u0027re a Natural",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 118174
+      "UsersEstimate": 118175
     },
     {
       "ID": "achievement_import_to_victory",
@@ -38648,7 +38653,7 @@
       "Name": "One Of Our Own",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 136639
+      "UsersEstimate": 136640
     },
     {
       "ID": "achievement_one_of_us",
@@ -38656,7 +38661,7 @@
       "Name": "One of Us, One of Us!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 228963
+      "UsersEstimate": 228964
     },
     {
       "ID": "achievement_people_pleaser",
@@ -38720,7 +38725,7 @@
       "Name": "Record Signing",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 118174
+      "UsersEstimate": 118175
     },
     {
       "ID": "achievement_red_hot_newgen",
@@ -38752,7 +38757,7 @@
       "Name": "Off the Books",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 192033
+      "UsersEstimate": 192034
     },
     {
       "ID": "achievement_shots_for_days",
@@ -38768,7 +38773,7 @@
       "Name": "#DoneDeal",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 199419
+      "UsersEstimate": 199420
     },
     {
       "ID": "achievement_signed_a_player_from_another_network_user",
@@ -38792,7 +38797,7 @@
       "Name": "Super-Sub",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 192033
+      "UsersEstimate": 192034
     },
     {
       "ID": "achievement_the_only_stat_that_matters",
@@ -38800,7 +38805,7 @@
       "Name": "The Only Stat That Matters",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 110788
+      "UsersEstimate": 110789
     },
     {
       "ID": "achievement_the_peoples_champion",
@@ -38936,7 +38941,7 @@
       "Name": "First Victory",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 203112
+      "UsersEstimate": 203113
     },
     {
       "ID": "achievement_won_international_championship",
@@ -38952,7 +38957,7 @@
       "Name": "You\u0027re Up!",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 44315
+      "UsersEstimate": 44316
     },
     {
       "ID": "achievement_won_top_domestic_cup",
@@ -39000,7 +39005,7 @@
       "Name": "Money, Money, Money",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 40622
+      "UsersEstimate": 40623
     },
     {
       "ID": "fantasy_draft_200_club",
@@ -39047,7 +39052,7 @@
     {
       "ID": "26pcimd",
       "IsBase": true,
-      "Progressed": 369295,
+      "Progressed": 369296,
       "Completed": 29
     }
   ],
@@ -39055,8 +39060,8 @@
   "FirstSeenRating": "2022-11-08T17:57:47.9405885+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.5210365+00:00",
   "LastChanged": "2024-01-02T00:02:44.8613632+00:00",
-  "LastChanged_Achievements": "2024-01-02T03:10:12.1627749+00:00",
+  "LastChanged_Achievements": "2024-01-02T04:10:28.7111233+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:03.7288917+00:00",
-  "LastUpdate_Ratings": "2024-01-02T03:02:47.980367+00:00",
-  "LastUpdate_Achievements": "2024-01-02T03:10:12.163025+00:00"
+  "LastUpdate_Ratings": "2024-01-02T04:02:47.0342948+00:00",
+  "LastUpdate_Achievements": "2024-01-02T04:10:28.7113398+00:00"
 }

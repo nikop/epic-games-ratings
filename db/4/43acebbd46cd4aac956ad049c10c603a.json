@@ -267,7 +267,7 @@
   ],
   "EOS_Progressed": 1233,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3883,9 +3883,9 @@
       "ID": "WesternDelta",
       "SetID": "1n308hc",
       "Name": "Western Delta",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 136
     },
     {
       "ID": "WoodedPlateau",
@@ -3916,8 +3916,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-01T16:59:26.0585046+00:00",
-  "LastChanged_Achievements": "2024-01-02T02:30:07.0222947+00:00",
+  "LastChanged_Achievements": "2024-01-02T04:03:33.0351175+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.9244138+00:00",
-  "LastUpdate_Ratings": "2024-01-02T02:58:49.9604801+00:00",
-  "LastUpdate_Achievements": "2024-01-02T02:30:07.0223626+00:00"
+  "LastUpdate_Ratings": "2024-01-02T03:59:05.1036201+00:00",
+  "LastUpdate_Achievements": "2024-01-02T04:03:33.0357265+00:00"
 }

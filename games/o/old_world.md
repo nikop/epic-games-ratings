@@ -46,6 +46,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate | 0.50% | ~80 |
 | Lighthouse | 0.50% | ~80 |
 | Christianity | 0.50% | ~80 |
+| Carthaginian Paganism | 0.50% | ~80 |
 | Roman Paganism | 0.50% | ~80 |
 | Zoroastrianism | 0.50% | ~80 |
 | Drillmaster | 0.40% | ~64 |
@@ -60,7 +61,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis | 0.40% | ~64 |
 | Learn to Play 2 | 0.40% | ~64 |
 | Manichaeism | 0.40% | ~64 |
-| Carthaginian Paganism | 0.40% | ~64 |
 | Hanging Gardens in Babylon | 0.30% | ~48 |
 | Beloved | 0.30% | ~48 |
 | Mighty | 0.30% | ~48 |

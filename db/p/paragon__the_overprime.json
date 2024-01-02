@@ -2,7 +2,7 @@
   "ID": "7bb9b09415a544f78fadf6390b2e3a80",
   "Name": "Paragon: The Overprime",
   "ProductSlug": "paragon-the-overprime-0bca60",
-  "Ranking_Rating": 910,
+  "Ranking_Rating": 909,
   "Ranking_Popularity": 168,
   "Ranking_PopularitySum": 132,
   "Ranking_EOS_Progress": 819,
@@ -8287,10 +8287,16 @@
       "Rating": 4.25,
       "NumberOfAwards": 6449,
       "NumberOfAwardsMax": 897
+    },
+    {
+      "Time": "2024-01-02T03:59:36.4331321+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 6452,
+      "NumberOfAwardsMax": 897
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6449,
+  "NumberOfAwards": 6452,
   "NumberOfAwardsMax": 897,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -8352,7 +8358,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 509
+      "Count": 512
     },
     {
       "Text": "This game is Relaxing",
@@ -8385,8 +8391,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-07T03:53:37.8993563+00:00",
   "FirstSeenRating": "2022-11-10T14:19:52.8915141+00:00",
-  "LastChanged": "2024-01-02T01:46:49.0017888+00:00",
+  "LastChanged": "2024-01-02T03:59:36.4331319+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:10.8218683+00:00",
-  "LastUpdate_Ratings": "2024-01-02T02:59:16.0891924+00:00",
-  "LastUpdate_Achievements": "2024-01-02T03:09:22.2908195+00:00"
+  "LastUpdate_Ratings": "2024-01-02T03:59:36.4331324+00:00",
+  "LastUpdate_Achievements": "2024-01-02T04:09:34.3136702+00:00"
 }

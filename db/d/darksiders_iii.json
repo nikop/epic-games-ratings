@@ -464,7 +464,7 @@
   ],
   "EOS_Progressed": 375,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -1845,9 +1845,9 @@
       "ID": "Save_Humans_1",
       "SetID": "7a5k76n",
       "Name": "Helping Hand",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 240
+      "UsersEstimate": 244
     },
     {
       "ID": "Save_Humans_10",
@@ -1877,9 +1877,9 @@
       "ID": "Save_Humans_5",
       "SetID": "7a5k76n",
       "Name": "Five\u0027s a Crowd",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 139
     },
     {
       "ID": "Save_Usiel_No_Kill",
@@ -1957,8 +1957,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-01T15:57:13.6479243+00:00",
-  "LastChanged_Achievements": "2024-01-02T03:05:25.0083868+00:00",
+  "LastChanged_Achievements": "2024-01-02T04:05:44.0417112+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.0817876+00:00",
-  "LastUpdate_Ratings": "2024-01-02T02:57:25.9712403+00:00",
-  "LastUpdate_Achievements": "2024-01-02T03:05:25.0084456+00:00"
+  "LastUpdate_Ratings": "2024-01-02T03:57:29.8577196+00:00",
+  "LastUpdate_Achievements": "2024-01-02T04:05:44.0417555+00:00"
 }

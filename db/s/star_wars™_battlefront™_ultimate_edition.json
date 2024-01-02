@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2470,
+  "EOS_Progressed": 2475,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 299,
+  "EOS_NewPlayers": 304,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -6909,6 +6909,11 @@
       "Time": "2024-01-02T02:33:18.6285862+00:00",
       "NumProgressed": 2470,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-02T04:10:27.9072642+00:00",
+      "NumProgressed": 2475,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -6969,7 +6974,7 @@
       "Name": "The Force is strong with this one",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "achievement_16",
@@ -6977,7 +6982,7 @@
       "Name": "I\u0027ve been waiting for you",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "achievement_17",
@@ -6993,7 +6998,7 @@
       "Name": "The power of the Force",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "achievement_19",
@@ -7001,7 +7006,7 @@
       "Name": "When 900 years old you reach...",
       "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "achievement_2",
@@ -7017,7 +7022,7 @@
       "Name": "Collector",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "achievement_21",
@@ -7041,7 +7046,7 @@
       "Name": "Determined",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "achievement_24",
@@ -7065,7 +7070,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "achievement_27",
@@ -7073,7 +7078,7 @@
       "Name": "Your journey has only started",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "achievement_28",
@@ -7105,7 +7110,7 @@
       "Name": "Precision shot",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "achievement_31",
@@ -7113,7 +7118,7 @@
       "Name": "Scrap collector",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "achievement_32",
@@ -7121,7 +7126,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "achievement_33",
@@ -7145,7 +7150,7 @@
       "Name": "New Recruit",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 2149
+      "UsersEstimate": 2153
     },
     {
       "ID": "achievement_36",
@@ -7161,7 +7166,7 @@
       "Name": "Off to a good start",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1531
+      "UsersEstimate": 1534
     },
     {
       "ID": "achievement_38",
@@ -7185,7 +7190,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "achievement_40",
@@ -7193,7 +7198,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1284
+      "UsersEstimate": 1287
     },
     {
       "ID": "achievement_41",
@@ -7225,7 +7230,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 642
+      "UsersEstimate": 644
     },
     {
       "ID": "achievement_45",
@@ -7273,7 +7278,7 @@
       "Name": "Shoot first",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "achievement_50",
@@ -7313,7 +7318,7 @@
       "Name": "That\u0027s no moon",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "achievement_55",
@@ -7361,7 +7366,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "achievement_60",
@@ -7369,7 +7374,7 @@
       "Name": "What will you become?",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "achievement_61",
@@ -7424,13 +7429,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2470,
+      "Progressed": 2475,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2470,
+      "Progressed": 2475,
       "Completed": 1
     }
   ],
@@ -7438,8 +7443,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-02T03:10:11.3960922+00:00",
+  "LastChanged_Achievements": "2024-01-02T04:10:27.907264+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:19.759459+00:00",
-  "LastUpdate_Ratings": "2024-01-02T02:58:51.2583655+00:00",
-  "LastUpdate_Achievements": "2024-01-02T03:10:11.3962141+00:00"
+  "LastUpdate_Ratings": "2024-01-02T03:59:06.4683742+00:00",
+  "LastUpdate_Achievements": "2024-01-02T04:10:27.9073607+00:00"
 }

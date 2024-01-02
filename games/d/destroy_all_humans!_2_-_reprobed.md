@@ -8,18 +8,18 @@ Number of Ratings: 90  (23.09.2022)
 | ---- | ---------- | ----- |
 | Rock of the Bay | 80.00% | ~225 |
 | Mash Machine | 74.00% | ~208 |
-| Ducks in a Row, Fish in a Barrel | 53.00% | ~149 |
+| Ducks in a Row, Fish in a Barrel | 54.00% | ~152 |
 | Furon Fashion | 49.00% | ~138 |
-| Shop Til They Drop | 40.00% | ~112 |
+| Shop Til They Drop | 41.00% | ~115 |
 | Bodied Sattva | 37.00% | ~104 |
+| Cult Following | 35.00% | ~98 |
 | Earthly Pleasures | 35.00% | ~98 |
-| Cult Following | 34.00% | ~96 |
 | Lie Back and Think of Albion | 28.00% | ~79 |
-| Upgreatest | 26.00% | ~73 |
+| Upgreatest | 27.00% | ~76 |
 | Pimp My Raid | 25.00% | ~70 |
 | I Look Up As I Walk to Takoshima | 21.00% | ~59 |
 | Freshly Squeezed | 21.00% | ~59 |
-| Die Nasty | 18.00% | ~51 |
+| Die Nasty | 19.00% | ~53 |
 | Perfect Probulator | 17.00% | ~48 |
 | Transmitting From Sol-3 | 15.00% | ~42 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 12.00% | ~34 |
@@ -41,12 +41,12 @@ Number of Ratings: 90  (23.09.2022)
 | Gotta Catch All the Pop Art | 0.70% | ~2 |
 | This Is Earth Radio | 0.70% | ~2 |
 | Hidden Human Hive Harvest | 0.70% | ~2 |
+| If You Know What I Mean | 0.70% | ~2 |
 | Toilet Break | 0.40% | ~1 |
 | Albion Bridge Is for Falling Down | 0.40% | ~1 |
 | Ouch of Body Experience | 0.40% | ~1 |
 | Higher Than the Futen Zoku | 0.40% | ~1 |
 | To Russia With Love | 0.40% | ~1 |
-| If You Know What I Mean | 0.40% | ~1 |
 | Steezy Down the Spine | 0.40% | ~1 |
 | Path of the Furon | 0.40% | ~1 |
 | Trans-Siberian Express | 0.40% | ~1 |

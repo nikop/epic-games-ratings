@@ -65,6 +65,7 @@
 | Treason | 20.00% | ~711 |
 | Big Game Hunter | 20.00% | ~711 |
 | Digital Exorcist | 20.00% | ~711 |
+| Mobilizer | 20.00% | ~711 |
 | Mission Accomplished | 19.00% | ~676 |
 | Suicide Mission | 19.00% | ~676 |
 | Against All Odds | 19.00% | ~676 |
@@ -72,7 +73,6 @@
 | Cat's in the Cradle | 19.00% | ~676 |
 | Doppelganger | 19.00% | ~676 |
 | Agent | 19.00% | ~676 |
-| Mobilizer | 19.00% | ~676 |
 | Untouchable | 18.00% | ~640 |
 | Eye of the Hurricane | 18.00% | ~640 |
 | Giant Killer | 18.00% | ~640 |

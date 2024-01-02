@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17989,
+  "EOS_Progressed": 17996,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1663,
+  "EOS_NewPlayers": 1662,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11004,6 +11004,11 @@
       "Time": "2024-01-02T03:04:17.5686723+00:00",
       "NumProgressed": 17989,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T04:04:29.39242+00:00",
+      "NumProgressed": 17996,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -11104,7 +11109,7 @@
       "Name": "Electric",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 899
+      "UsersEstimate": 900
     },
     {
       "ID": "ACH_WINLEVEL0",
@@ -11112,7 +11117,7 @@
       "Name": "Level 0",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4497
+      "UsersEstimate": 4499
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -11120,7 +11125,7 @@
       "Name": "Level 1",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2159
+      "UsersEstimate": 2160
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -11128,7 +11133,7 @@
       "Name": "Dreamer!",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1979
+      "UsersEstimate": 1980
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -11207,14 +11212,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 17989,
+      "Progressed": 17996,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2024-01-02T03:04:17.5686719+00:00",
+  "LastChanged_Achievements": "2024-01-02T04:04:29.3924196+00:00",
   "LastUpdate_AppInfo": "2024-01-01T19:57:14.7039433+00:00",
-  "LastUpdate_Ratings": "2024-01-02T03:03:00.2964467+00:00",
-  "LastUpdate_Achievements": "2024-01-02T03:04:17.5687429+00:00"
+  "LastUpdate_Ratings": "2024-01-02T04:03:00.7862336+00:00",
+  "LastUpdate_Achievements": "2024-01-02T04:04:29.3924797+00:00"
 }

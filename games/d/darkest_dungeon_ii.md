@@ -11,10 +11,10 @@ Number of Ratings: 7,767  (23.09.2022)
 | This Belongs in a Museum | 6.00% | ~7,874 |
 | Autodidact | 6.00% | ~7,874 |
 | This guy... again? | 6.00% | ~366 |
-| Serenity Now! | 5.00% | ~6,561 |
-| Creep and Sleep | 5.00% | ~6,561 |
-| Overdue Notice | 5.00% | ~6,561 |
-| Escape from the Black Hole | 5.00% | ~6,561 |
+| Serenity Now! | 5.00% | ~6,562 |
+| Creep and Sleep | 5.00% | ~6,562 |
+| Overdue Notice | 5.00% | ~6,562 |
+| Escape from the Black Hole | 5.00% | ~6,562 |
 | Ploughshares to Swords | 5.00% | ~305 |
 | Bloody Graduation | 5.00% | ~305 |
 | Don't Make Me Turn This Coach Around | 4.00% | ~5,249 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The World As It Was | 0.60% | ~787 |
 | A Life Well Lived | 0.50% | ~656 |
 | Bacon Bits | 0.50% | ~656 |
-| On This Long Road, We Found Redemption | 0.50% | ~30 |
+| On This Long Road, We Found Redemption | 0.50% | ~31 |
 | Eidetic | 0.40% | ~525 |
 | Battle Hardened | 0.40% | ~24 |
 | Tears in the Rain | 0.30% | ~394 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,227 (Ranked 90)  
+Progressed: 131,234 (Ranked 90)  
 Completed: 3 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,7 +333,7 @@ Completed: 3 (0.00%) (Ranked 390)
 | 2023-12-30 | 130,838 | 3 |
 | 2023-12-31 | 131,026 | 3 |
 | 2024-01-01 | 131,206 | 3 |
-| 2024-01-02 | 131,227 | 3 |
+| 2024-01-02 | 131,234 | 3 |
 ## Awards
 Max (Character Customization): 7,919  (Ranked 50)  
 Sum: 21,332 (Ranked 58)  

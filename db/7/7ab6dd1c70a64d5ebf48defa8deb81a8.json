@@ -61,9 +61,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1639,
+  "EOS_Progressed": 1640,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 380,
+  "EOS_NewPlayers": 377,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -3221,6 +3221,11 @@
       "Time": "2024-01-02T02:33:12.8415863+00:00",
       "NumProgressed": 1639,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-02T04:10:22.4788939+00:00",
+      "NumProgressed": 1640,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -3230,9 +3235,9 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break Out",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 967
+      "UsersEstimate": 984
     },
     {
       "ID": "ACH_02",
@@ -3304,7 +3309,7 @@
       "Name": "Trinity",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "ACH_11",
@@ -3344,7 +3349,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "ACH_16",
@@ -3472,7 +3477,7 @@
       "Name": "Stone Collection",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "ACH_33",
@@ -3502,9 +3507,9 @@
       "ID": "ACH_36",
       "SetID": "efe2lj",
       "Name": "A Queen\u0027s Tale",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_38",
@@ -3519,7 +3524,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1639,
+      "Progressed": 1640,
       "Completed": 3
     }
   ],
@@ -3527,8 +3532,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-02T01:47:19.6899919+00:00",
-  "LastChanged_Achievements": "2024-01-02T03:10:06.0808729+00:00",
+  "LastChanged_Achievements": "2024-01-02T04:10:22.4788936+00:00",
   "LastUpdate_AppInfo": "2024-01-01T22:57:08.0954502+00:00",
-  "LastUpdate_Ratings": "2024-01-02T02:59:42.2267971+00:00",
-  "LastUpdate_Achievements": "2024-01-02T03:10:06.0809308+00:00"
+  "LastUpdate_Ratings": "2024-01-02T04:00:05.8852882+00:00",
+  "LastUpdate_Achievements": "2024-01-02T04:10:22.4789294+00:00"
 }

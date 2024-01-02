@@ -99,7 +99,7 @@
   "Tags": [],
   "EOS_Progressed": 2196,
   "EOS_Completed": 136,
-  "EOS_NewPlayers": 397,
+  "EOS_NewPlayers": 395,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 6.19,
   "EosHistory": [
@@ -6186,9 +6186,9 @@
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 900
+      "UsersEstimate": 922
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -6242,9 +6242,9 @@
       "ID": "PROGRESS_N3",
       "SetID": "2gma9an",
       "Name": "A new dawn",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 769
+      "UsersEstimate": 791
     },
     {
       "ID": "PROGRESS_N4",
@@ -6275,8 +6275,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2023-12-31T07:01:38.7723363+00:00",
-  "LastChanged_Achievements": "2024-01-02T03:03:28.1314814+00:00",
+  "LastChanged_Achievements": "2024-01-02T04:03:35.3253341+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:09.4320521+00:00",
-  "LastUpdate_Ratings": "2024-01-02T03:02:51.8708431+00:00",
-  "LastUpdate_Achievements": "2024-01-02T03:03:28.1331597+00:00"
+  "LastUpdate_Ratings": "2024-01-02T04:02:50.0774864+00:00",
+  "LastUpdate_Achievements": "2024-01-02T04:03:35.3253966+00:00"
 }

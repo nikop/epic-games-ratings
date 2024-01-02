@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 3556,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 508,
+  "EOS_NewPlayers": 507,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -7759,9 +7759,9 @@
       "ID": "achievement_81",
       "SetID": "d252ncf",
       "Name": "Mobilizer",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 676
+      "UsersEstimate": 711
     },
     {
       "ID": "achievement_82",
@@ -7931,8 +7931,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-02T03:10:12.5066571+00:00",
+  "LastChanged_Achievements": "2024-01-02T04:10:29.0755118+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:34.6542278+00:00",
-  "LastUpdate_Ratings": "2024-01-02T03:03:21.5506205+00:00",
-  "LastUpdate_Achievements": "2024-01-02T03:10:12.5068674+00:00"
+  "LastUpdate_Ratings": "2024-01-02T04:03:25.8646326+00:00",
+  "LastUpdate_Achievements": "2024-01-02T04:10:29.075703+00:00"
 }

@@ -8,7 +8,7 @@ Number of Ratings: 116  (23.09.2022)
 | ---- | ---------- | ----- |
 | Green with Envy | 78.00% | ~292 |
 | First of many… | 68.00% | ~255 |
-| Helping Hand | 64.00% | ~240 |
+| Helping Hand | 65.00% | ~244 |
 | Increased Vigor | 59.00% | ~221 |
 | Fight Fire with Fire | 57.00% | ~214 |
 | Increased Capacity | 53.00% | ~199 |
@@ -19,7 +19,7 @@ Number of Ratings: 116  (23.09.2022)
 | One Of the Chosen | 39.00% | ~146 |
 | Devil's in the Details | 38.00% | ~142 |
 | Throne Potato | 38.00% | ~142 |
-| Five's a Crowd | 36.00% | ~135 |
+| Five's a Crowd | 37.00% | ~139 |
 | 25 to Life | 36.00% | ~135 |
 | Salvation | 35.00% | ~131 |
 | Soul Harvester | 34.00% | ~128 |

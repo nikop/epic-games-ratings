@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1067,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 178,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -3618,9 +3618,9 @@
       "ID": "achievement_19",
       "SetID": "2cpn27e",
       "Name": "Counter Specialist",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 341
+      "UsersEstimate": 352
     },
     {
       "ID": "achievement_2",
@@ -3826,9 +3826,9 @@
       "ID": "achievement_42",
       "SetID": "2cpn27e",
       "Name": "Quintessence of Form",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 160
     },
     {
       "ID": "achievement_43",
@@ -3928,8 +3928,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-02T03:09:29.1192999+00:00",
+  "LastChanged_Achievements": "2024-01-02T04:09:42.2384449+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:22.7723621+00:00",
-  "LastUpdate_Ratings": "2024-01-02T02:59:38.1691489+00:00",
-  "LastUpdate_Achievements": "2024-01-02T03:09:29.1193548+00:00"
+  "LastUpdate_Ratings": "2024-01-02T04:00:01.1871686+00:00",
+  "LastUpdate_Achievements": "2024-01-02T04:09:42.2385009+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "horse-club-adventures-2-hazelwood-stories-b257d3",
   "Ranking_EOS_Progress": 538,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 496,
+  "Ranking_EOS_NewPlayers": 495,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-07-06T10:00:00+00:00",
@@ -402,25 +402,25 @@
       "ID": "ACH_12_PHOTO_SERIES",
       "SetID": "9loam6m",
       "Name": "Photo series",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_13_WINNER",
       "SetID": "9loam6m",
       "Name": "Winner",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_14_FRIENDS_FOREVER",
       "SetID": "9loam6m",
       "Name": "Friends forever",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_15_SOMETHING_TO_DO",
@@ -657,8 +657,8 @@
   ],
   "FirstSeen": "2023-07-23T11:57:26.6885781+00:00",
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2024-01-02T03:03:55.9182972+00:00",
+  "LastChanged_Achievements": "2024-01-02T04:04:05.6993948+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9207398+00:00",
-  "LastUpdate_Ratings": "2024-01-02T02:59:42.8166689+00:00",
-  "LastUpdate_Achievements": "2024-01-02T03:03:55.9183303+00:00"
+  "LastUpdate_Ratings": "2024-01-02T04:00:06.5775215+00:00",
+  "LastUpdate_Achievements": "2024-01-02T04:04:05.6994271+00:00"
 }

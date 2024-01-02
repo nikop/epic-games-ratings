@@ -7,7 +7,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Blacksmith's Son | 32.00% | ~260,968 |
-| Cavalier | 26.00% | ~212,036 |
+| Cavalier | 26.00% | ~212,037 |
 | Fatso | 23.00% | ~187,571 |
 | Awakening | 21.00% | ~171,260 |
 | Ranger | 20.00% | ~163,105 |
@@ -20,7 +20,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Thief | 12.00% | ~97,863 |
 | Sinner | 11.00% | ~89,708 |
 | Traveller | 11.00% | ~89,708 |
-| Convict | 10.00% | ~81,552 |
+| Convict | 10.00% | ~81,553 |
 | Haggler | 9.00% | ~73,397 |
 | McLovin | 7.00% | ~57,087 |
 | Runt | 7.00% | ~57,087 |
@@ -35,15 +35,15 @@ Number of Ratings: 9,133  (23.09.2022)
 | Conqueror | 3.00% | ~24,466 |
 | Ginger in a Pickle | 3.00% | ~24,466 |
 | Kingdom did not come | 3.00% | ~24,466 |
-| Completionist | 2.00% | ~16,310 |
-| Death by splinter | 2.00% | ~16,310 |
-| King Charming | 2.00% | ~16,310 |
-| Knightrider | 2.00% | ~16,310 |
-| Level Cap | 2.00% | ~16,310 |
-| Arena Master | 2.00% | ~16,310 |
-| Robber Baron | 2.00% | ~16,310 |
-| Talmberger | 2.00% | ~16,310 |
-| The End | 2.00% | ~16,310 |
+| Completionist | 2.00% | ~16,311 |
+| Death by splinter | 2.00% | ~16,311 |
+| King Charming | 2.00% | ~16,311 |
+| Knightrider | 2.00% | ~16,311 |
+| Level Cap | 2.00% | ~16,311 |
+| Arena Master | 2.00% | ~16,311 |
+| Robber Baron | 2.00% | ~16,311 |
+| Talmberger | 2.00% | ~16,311 |
+| The End | 2.00% | ~16,311 |
 | Woman's Lot | 1.00% | ~8,155 |
 | Chivalrous Soul | 1.00% | ~8,155 |
 | Spoilsport | 1.00% | ~8,155 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~816 |
 | Wingman | 0.10% | ~816 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 815,525 (Ranked 19)  
+Progressed: 815,526 (Ranked 19)  
 Completed: 53 (0.01%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -346,7 +346,7 @@ Completed: 53 (0.01%) (Ranked 368)
 | 2023-12-30 | 815,171 | 53 |
 | 2023-12-31 | 815,340 | 53 |
 | 2024-01-01 | 815,507 | 53 |
-| 2024-01-02 | 815,525 | 53 |
+| 2024-01-02 | 815,526 | 53 |
 ## Awards
 Max (Character Customization): 7,734  (Ranked 53)  
 Sum: 28,706 (Ranked 50)  

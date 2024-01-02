@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 396,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -290,7 +290,7 @@
   ],
   "EOS_Progressed": 281,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -1460,9 +1460,9 @@
       "ID": "ACH_COMPLETE_ARK01",
       "SetID": "4n84pon",
       "Name": "Cult Following",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -1500,9 +1500,9 @@
       "ID": "ACH_DISLOCATOR_BOWLING",
       "SetID": "4n84pon",
       "Name": "Ducks in a Row, Fish in a Barrel",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 152
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -1588,9 +1588,9 @@
       "ID": "ACH_KILL_PONSONBY",
       "SetID": "4n84pon",
       "Name": "Die Nasty",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_KILL_REINCARNATOR",
@@ -1644,9 +1644,9 @@
       "ID": "ACH_PURCHASE_CAPSTONE",
       "SetID": "4n84pon",
       "Name": "Upgreatest",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
@@ -1684,9 +1684,9 @@
       "ID": "ACH_SKATE_BAYCITY",
       "SetID": "4n84pon",
       "Name": "If You Know What I Mean",
-      "Percentage": 0.4,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_SKATE_SOLARIS",
@@ -1724,9 +1724,9 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "4n84pon",
       "Name": "Shop Til They Drop",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 115
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1749,8 +1749,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-31T11:01:39.7283208+00:00",
-  "LastChanged_Achievements": "2024-01-02T03:09:13.5485765+00:00",
+  "LastChanged_Achievements": "2024-01-02T04:09:23.9679944+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.261947+00:00",
-  "LastUpdate_Ratings": "2024-01-02T02:57:41.4405358+00:00",
-  "LastUpdate_Achievements": "2024-01-02T03:09:13.5486182+00:00"
+  "LastUpdate_Ratings": "2024-01-02T03:57:48.4035694+00:00",
+  "LastUpdate_Achievements": "2024-01-02T04:09:23.968027+00:00"
 }

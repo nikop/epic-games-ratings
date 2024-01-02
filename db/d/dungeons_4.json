@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -55,7 +55,7 @@
   "Tags": [],
   "EOS_Progressed": 691,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 3.91,
   "EosHistory": [
@@ -2191,9 +2191,9 @@
       "ID": "ach_main03demon_completed",
       "SetID": "4hg22ll",
       "Name": "The Hellwoods",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 525
+      "UsersEstimate": 532
     },
     {
       "ID": "ach_main03demon_doors",
@@ -2640,8 +2640,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-01T22:59:34.2453487+00:00",
-  "LastChanged_Achievements": "2024-01-02T03:09:06.144116+00:00",
+  "LastChanged_Achievements": "2024-01-02T04:09:15.7686565+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:16.0613697+00:00",
-  "LastUpdate_Ratings": "2024-01-02T02:58:53.1914973+00:00",
-  "LastUpdate_Achievements": "2024-01-02T03:09:06.1441935+00:00"
+  "LastUpdate_Ratings": "2024-01-02T03:59:08.7205333+00:00",
+  "LastUpdate_Achievements": "2024-01-02T04:09:15.7687091+00:00"
 }

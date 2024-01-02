@@ -489,9 +489,9 @@
       "ID": "CarryingDoll",
       "SetID": "7m88n8p",
       "Name": "Girl Carrying A Doll",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "DatingAttraction",
@@ -672,8 +672,8 @@
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2024-01-02T03:04:39.6277477+00:00",
+  "LastChanged_Achievements": "2024-01-02T04:04:53.6301477+00:00",
   "LastUpdate_AppInfo": "2024-01-01T14:57:04.940635+00:00",
-  "LastUpdate_Ratings": "2024-01-02T02:57:50.5543792+00:00",
-  "LastUpdate_Achievements": "2024-01-02T03:04:39.627764+00:00"
+  "LastUpdate_Ratings": "2024-01-02T03:57:58.9665325+00:00",
+  "LastUpdate_Achievements": "2024-01-02T04:04:53.6301632+00:00"
 }

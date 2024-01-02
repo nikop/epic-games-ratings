@@ -6,15 +6,15 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 67.00% | ~9,118 |
-| Photographer | 67.00% | ~9,118 |
-| Valley's Helper | 59.00% | ~8,029 |
-| Constructor | 50.00% | ~6,804 |
-| Renovator | 50.00% | ~6,804 |
-| Bestest Friend | 45.00% | ~6,124 |
-| Banker | 38.00% | ~5,171 |
-| Gardener | 31.00% | ~4,219 |
-| Generous | 25.00% | ~3,402 |
+| Goofy's Investor | 67.00% | ~9,120 |
+| Photographer | 67.00% | ~9,120 |
+| Valley's Helper | 59.00% | ~8,031 |
+| Constructor | 50.00% | ~6,806 |
+| Renovator | 50.00% | ~6,806 |
+| Bestest Friend | 45.00% | ~6,125 |
+| Banker | 38.00% | ~5,173 |
+| Gardener | 31.00% | ~4,220 |
+| Generous | 25.00% | ~3,403 |
 | Chef Cook | 19.00% | ~2,586 |
 | Miner | 11.00% | ~1,497 |
 | Duty Bound | 8.00% | ~1,089 |
@@ -22,7 +22,7 @@ Number of Ratings: 1,396  (23.09.2022)
 | Thorn Cleaner | 6.00% | ~817 |
 | Chit Chatter | 3.00% | ~408 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,609 (Ranked 172)  
+Progressed: 13,612 (Ranked 172)  
 Completed: 338 (2.48%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,15 +230,15 @@ Completed: 338 (2.48%) (Ranked 126)
 | 2023-12-30 | 13,499 | 335 |
 | 2023-12-31 | 13,547 | 336 |
 | 2024-01-01 | 13,602 | 337 |
-| 2024-01-02 | 13,609 | 338 |
+| 2024-01-02 | 13,612 | 338 |
 ## Awards
 Max (Great for Beginners): 1,166  (Ranked 147)  
-Sum: 8,321 (Ranked 108)  
+Sum: 8,324 (Ranked 108)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,166 |
-| This game has Diverse Characters | 975 |
+| This game has Diverse Characters | 978 |
 | This game is Highly Recommended | 867 |
 | This game has Amazing Characters | 844 |
 | This game is Relaxing | 825 |
@@ -544,3 +544,4 @@ Diff (max vs sum): 39
 | 2023-12-30 | 4.76 | - | 1,164 | 8,308 |
 | 2023-12-31 | 4.76 | - | 1,164 | 8,314 |
 | 2024-01-01 | 4.76 | - | 1,166 | 8,321 |
+| 2024-01-02 | 4.76 | - | 1,166 | 8,324 |

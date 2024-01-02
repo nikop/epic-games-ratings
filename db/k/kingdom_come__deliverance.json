@@ -9789,9 +9789,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 815525,
+  "EOS_Progressed": 815526,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 1170,
+  "EOS_NewPlayers": 1168,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -38814,6 +38814,11 @@
       "Time": "2024-01-02T02:33:11.7132843+00:00",
       "NumProgressed": 815525,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2024-01-02T04:10:21.4203505+00:00",
+      "NumProgressed": 815526,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 82,
@@ -38937,7 +38942,7 @@
       "Name": "Cavalier",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 212036
+      "UsersEstimate": 212037
     },
     {
       "ID": "Chivalrous",
@@ -38969,7 +38974,7 @@
       "Name": "Completionist",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 16310
+      "UsersEstimate": 16311
     },
     {
       "ID": "Conqueror",
@@ -38985,7 +38990,7 @@
       "Name": "Convict",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 81552
+      "UsersEstimate": 81553
     },
     {
       "ID": "DavidHorak",
@@ -39001,7 +39006,7 @@
       "Name": "Death by splinter",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 16310
+      "UsersEstimate": 16311
     },
     {
       "ID": "EdwardKelly",
@@ -39161,7 +39166,7 @@
       "Name": "King Charming",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 16310
+      "UsersEstimate": 16311
     },
     {
       "ID": "KingdomDidNotCome",
@@ -39177,7 +39182,7 @@
       "Name": "Knightrider",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 16310
+      "UsersEstimate": 16311
     },
     {
       "ID": "LevelCap",
@@ -39185,7 +39190,7 @@
       "Name": "Level Cap",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 16310
+      "UsersEstimate": 16311
     },
     {
       "ID": "LikeGhost",
@@ -39217,7 +39222,7 @@
       "Name": "Arena Master",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 16310
+      "UsersEstimate": 16311
     },
     {
       "ID": "McLovin",
@@ -39321,7 +39326,7 @@
       "Name": "Robber Baron",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 16310
+      "UsersEstimate": 16311
     },
     {
       "ID": "Runt",
@@ -39385,7 +39390,7 @@
       "Name": "Talmberger",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 16310
+      "UsersEstimate": 16311
     },
     {
       "ID": "TheEnd",
@@ -39393,7 +39398,7 @@
       "Name": "The End",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 16310
+      "UsersEstimate": 16311
     },
     {
       "ID": "Thief",
@@ -39480,15 +39485,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 815525,
+      "Progressed": 815526,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2024-01-02T02:58:28.0290679+00:00",
-  "LastChanged_Achievements": "2024-01-02T03:10:05.1646599+00:00",
+  "LastChanged_Achievements": "2024-01-02T04:10:21.4203502+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:46.9804753+00:00",
-  "LastUpdate_Ratings": "2024-01-02T02:58:28.0290684+00:00",
-  "LastUpdate_Achievements": "2024-01-02T03:10:05.1648911+00:00"
+  "LastUpdate_Ratings": "2024-01-02T03:58:39.65445+00:00",
+  "LastUpdate_Achievements": "2024-01-02T04:10:21.4205372+00:00"
 }

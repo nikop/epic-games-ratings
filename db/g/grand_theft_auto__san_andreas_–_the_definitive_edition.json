@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -2161,9 +2161,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 17973,
+  "EOS_Progressed": 17976,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 1119,
+  "EOS_NewPlayers": 1115,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -18651,6 +18651,11 @@
       "Time": "2024-01-02T03:10:00.3773395+00:00",
       "NumProgressed": 17973,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2024-01-02T04:10:16.4154462+00:00",
+      "NumProgressed": 17976,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 35,
@@ -18662,7 +18667,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 14558
+      "UsersEstimate": 14561
     },
     {
       "ID": "ACH02",
@@ -18694,7 +18699,7 @@
       "Name": "A Legitimate Business",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "ACH06",
@@ -18702,7 +18707,7 @@
       "Name": "I\u2019ll Have Two Number 9s",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "ACH07",
@@ -18718,7 +18723,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 8986
+      "UsersEstimate": 8988
     },
     {
       "ID": "ACH09",
@@ -18734,7 +18739,7 @@
       "Name": "Who Needs Directions?",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "ACH11",
@@ -18750,7 +18755,7 @@
       "Name": "Swiss Army Strife",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "ACH13",
@@ -18758,7 +18763,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 3235
+      "UsersEstimate": 3236
     },
     {
       "ID": "ACH14",
@@ -18766,7 +18771,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1797
+      "UsersEstimate": 1798
     },
     {
       "ID": "ACH15",
@@ -18782,7 +18787,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3055
+      "UsersEstimate": 3056
     },
     {
       "ID": "ACH17",
@@ -18798,7 +18803,7 @@
       "Name": "Saviour",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1079
     },
     {
       "ID": "ACH19",
@@ -18814,7 +18819,7 @@
       "Name": "Yes I Speak English",
       "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "ACH21",
@@ -18830,7 +18835,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2516
+      "UsersEstimate": 2517
     },
     {
       "ID": "ACH23",
@@ -18838,7 +18843,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4493
+      "UsersEstimate": 4494
     },
     {
       "ID": "ACH24",
@@ -18862,7 +18867,7 @@
       "Name": "Double or Nothin\u0027",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "ACH27",
@@ -18870,7 +18875,7 @@
       "Name": "Assassin",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "ACH28",
@@ -18894,7 +18899,7 @@
       "Name": "Public Enemy No. 1",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "ACH31",
@@ -18910,7 +18915,7 @@
       "Name": "Ain\u2019t Nothing But a G Thing",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "ACH33",
@@ -18941,7 +18946,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 17973,
+      "Progressed": 17976,
       "Completed": 69
     }
   ],
@@ -18949,8 +18954,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-02T02:23:57.1121224+00:00",
-  "LastChanged_Achievements": "2024-01-02T03:10:00.3773393+00:00",
+  "LastChanged_Achievements": "2024-01-02T04:10:16.4154459+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.8114387+00:00",
   "LastUpdate_Ratings": "2024-01-02T03:00:32.7151094+00:00",
-  "LastUpdate_Achievements": "2024-01-02T03:10:00.3774515+00:00"
+  "LastUpdate_Achievements": "2024-01-02T04:10:16.415554+00:00"
 }

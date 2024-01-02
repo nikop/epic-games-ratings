@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 5.00% | ~37,574 |
-| The Assault | 4.00% | ~30,060 |
-| Life is your teacher | 4.00% | ~30,060 |
-| Lightning Hands | 4.00% | ~30,060 |
+| The Old Grandmaster | 5.00% | ~37,576 |
+| The Assault | 4.00% | ~30,061 |
+| Life is your teacher | 4.00% | ~30,061 |
+| Lightning Hands | 4.00% | ~30,061 |
 | The Hateful Pole Fighter | 2.00% | ~15,030 |
 | A Lady's Blood in the Snow | 2.00% | ~15,030 |
 | Kill Nil | 2.00% | ~15,030 |
@@ -30,25 +30,25 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kung-Fu Tussle | 1.00% | ~7,515 |
 | Take damage to save time | 1.00% | ~7,515 |
 | Project Arena | 1.00% | ~608 |
-| Dance of the Praying Mantis | 0.90% | ~6,763 |
+| Dance of the Praying Mantis | 0.90% | ~6,764 |
 | Fight the way you practice | 0.70% | ~426 |
 | Muk Yan Master | 0.60% | ~4,509 |
 | Martial Hub | 0.60% | ~365 |
-| Tiger on Fire | 0.50% | ~3,757 |
-| Source of Flying Daggers | 0.50% | ~3,757 |
-| Iron Money | 0.50% | ~3,757 |
-| Detective Story | 0.50% | ~3,757 |
-| Sword Stained With Blood | 0.50% | ~3,757 |
+| Tiger on Fire | 0.50% | ~3,758 |
+| Source of Flying Daggers | 0.50% | ~3,758 |
+| Iron Money | 0.50% | ~3,758 |
+| Detective Story | 0.50% | ~3,758 |
+| Sword Stained With Blood | 0.50% | ~3,758 |
 | Bloody Sport | 0.50% | ~304 |
 | Legendary Talismans of Wuxing | 0.40% | ~3,006 |
 | Prodigal Child | 0.40% | ~3,006 |
 | The 36th Chamber of Kung-Fu | 0.40% | ~3,006 |
 | The best strikes are the ones we avoid | 0.40% | ~243 |
-| Drunken Fighter | 0.30% | ~2,254 |
-| Martial Artist | 0.30% | ~2,254 |
-| Knowledge Greed | 0.30% | ~2,254 |
-| The Pit Protector | 0.30% | ~2,254 |
-| Come Snap With Me | 0.30% | ~2,254 |
+| Drunken Fighter | 0.30% | ~2,255 |
+| Martial Artist | 0.30% | ~2,255 |
+| Knowledge Greed | 0.30% | ~2,255 |
+| The Pit Protector | 0.30% | ~2,255 |
+| Come Snap With Me | 0.30% | ~2,255 |
 | Deadly Venom | 0.30% | ~182 |
 | Healing Memory | 0.20% | ~1,503 |
 | Master of the Phoenix Eye Fist | 0.20% | ~1,503 |
@@ -59,7 +59,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Skill and an even stronger will | 0.20% | ~122 |
 | Master of the Flying Assassins | 0.20% | ~122 |
 | Beatmaker | 0.20% | ~122 |
-| Warriors from the Mountain | 0.10% | ~751 |
+| Warriors from the Mountain | 0.10% | ~752 |
 | Secure, Protect, Leave | 0.10% | ~61 |
 | Hidden Dragon | 0.10% | ~61 |
 | Here Cometh the Iceman | 0.10% | ~61 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~61 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 751,489 (Ranked 23)  
+Progressed: 751,514 (Ranked 23)  
 Completed: 12,971 (1.73%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 12,971 (1.73%) (Ranked 143)
 | 2023-12-30 | 749,350 | 12,969 |
 | 2023-12-31 | 750,399 | 12,971 |
 | 2024-01-01 | 751,425 | 12,971 |
-| 2024-01-02 | 751,489 | 12,971 |
+| 2024-01-02 | 751,514 | 12,971 |
 ## Awards
 Max (Great Boss Battles): 7,079  (Ranked 55)  
 Sum: 11,976 (Ranked 87)  

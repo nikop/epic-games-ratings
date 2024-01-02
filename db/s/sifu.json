@@ -8691,9 +8691,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 751489,
+  "EOS_Progressed": 751514,
   "EOS_Completed": 12971,
-  "EOS_NewPlayers": 6925,
+  "EOS_NewPlayers": 6917,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.73,
   "EosHistory": [
@@ -31971,6 +31971,11 @@
       "Time": "2024-01-02T03:09:13.9907464+00:00",
       "NumProgressed": 751489,
       "NumCompleted": 12971
+    },
+    {
+      "Time": "2024-01-02T04:09:24.5080548+00:00",
+      "NumProgressed": 751514,
+      "NumCompleted": 12971
     }
   ],
   "TotalAchievements": 60,
@@ -31982,7 +31987,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 37574
+      "UsersEstimate": 37576
     },
     {
       "ID": "02_Vengeance_H1",
@@ -31990,7 +31995,7 @@
       "Name": "The Assault",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30060
+      "UsersEstimate": 30061
     },
     {
       "ID": "03_Vengeance_H2",
@@ -32038,7 +32043,7 @@
       "Name": "Tiger on Fire",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3757
+      "UsersEstimate": 3758
     },
     {
       "ID": "09_Wude_H3",
@@ -32046,7 +32051,7 @@
       "Name": "Source of Flying Daggers",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3757
+      "UsersEstimate": 3758
     },
     {
       "ID": "10_Wude_H4",
@@ -32054,7 +32059,7 @@
       "Name": "Iron Money",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3757
+      "UsersEstimate": 3758
     },
     {
       "ID": "11_Wude_H5",
@@ -32094,7 +32099,7 @@
       "Name": "Detective Story",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3757
+      "UsersEstimate": 3758
     },
     {
       "ID": "16_Detective_H2",
@@ -32102,7 +32107,7 @@
       "Name": "Drunken Fighter",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2254
+      "UsersEstimate": 2255
     },
     {
       "ID": "17_Detective_H3",
@@ -32110,7 +32115,7 @@
       "Name": "Martial Artist",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2254
+      "UsersEstimate": 2255
     },
     {
       "ID": "18_Detective_H4",
@@ -32118,7 +32123,7 @@
       "Name": "Knowledge Greed",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2254
+      "UsersEstimate": 2255
     },
     {
       "ID": "19_Detective_H5",
@@ -32142,7 +32147,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 6763
+      "UsersEstimate": 6764
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -32158,7 +32163,7 @@
       "Name": "Life is your teacher",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 30060
+      "UsersEstimate": 30061
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -32238,7 +32243,7 @@
       "Name": "Sword Stained With Blood",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3757
+      "UsersEstimate": 3758
     },
     {
       "ID": "34_TimedTakedown",
@@ -32246,7 +32251,7 @@
       "Name": "Lightning Hands",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30060
+      "UsersEstimate": 30061
     },
     {
       "ID": "35_WideStrike",
@@ -32278,7 +32283,7 @@
       "Name": "The Pit Protector",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2254
+      "UsersEstimate": 2255
     },
     {
       "ID": "39_CustomTrophy_H3",
@@ -32302,7 +32307,7 @@
       "Name": "Warriors from the Mountain",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "42_PhotoMode_Trophy",
@@ -32310,7 +32315,7 @@
       "Name": "Come Snap With Me",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 2254
+      "UsersEstimate": 2255
     },
     {
       "ID": "43_Arena_UnlockPack",
@@ -32461,21 +32466,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 60790,
+      "Progressed": 60815,
       "Completed": 10795
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 751489,
+      "Progressed": 751514,
       "Completed": 12971
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-02T03:03:08.7224932+00:00",
-  "LastChanged_Achievements": "2024-01-02T03:09:13.9907458+00:00",
+  "LastChanged_Achievements": "2024-01-02T04:09:24.5080543+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:26.4563062+00:00",
-  "LastUpdate_Ratings": "2024-01-02T03:03:08.7224937+00:00",
-  "LastUpdate_Achievements": "2024-01-02T03:09:13.9909082+00:00"
+  "LastUpdate_Ratings": "2024-01-02T04:03:11.5591298+00:00",
+  "LastUpdate_Achievements": "2024-01-02T04:09:24.5081934+00:00"
 }
