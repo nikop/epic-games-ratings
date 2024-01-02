@@ -41,7 +41,7 @@
 | 39 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
 | 40 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.49% |
 | 41 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 10.00% |
-| 42 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.79% |
+| 42 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.77% |
 | 43 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
 | 44 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.20% |
 | 45 | [Smelter](games/s/smelter.md) | 8.89% |
@@ -67,8 +67,8 @@
 | 65 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 65 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 6.25% |
 | 65 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 6.25% |
-| 68 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.19% |
-| 68 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.19% |
+| 68 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.23% |
+| 69 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.19% |
 | 70 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.80% |
 | 71 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
 | 72 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.52% |
@@ -172,10 +172,10 @@
 | 170 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.04% |
 | 171 | [Sable](games/s/sable.md) | 1.01% |
 | 172 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 0.99% |
-| 173 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.97% |
 | 173 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.97% |
-| 175 | [Colossal Cave](games/c/colossal_cave.md) | 0.96% |
-| 175 | [Trifox](games/t/trifox.md) | 0.96% |
+| 174 | [Colossal Cave](games/c/colossal_cave.md) | 0.96% |
+| 174 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.96% |
+| 174 | [Trifox](games/t/trifox.md) | 0.96% |
 | 177 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 0.95% |
 | 178 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.94% |
 | 179 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.93% |
@@ -203,10 +203,10 @@
 | 201 | [Five Dates](games/f/five_dates.md) | 0.64% |
 | 202 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.63% |
 | 202 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.63% |
-| 204 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.60% |
-| 205 | [Potion Permit](games/p/potion_permit.md) | 0.59% |
-| 205 | [Sonic Frontiers](games/5/50809e4c39674f42b649fa127d6796dd.md) | 0.59% |
-| 205 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.59% |
+| 204 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.62% |
+| 205 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.60% |
+| 206 | [Potion Permit](games/p/potion_permit.md) | 0.59% |
+| 206 | [Sonic Frontiers](games/5/50809e4c39674f42b649fa127d6796dd.md) | 0.59% |
 | 208 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 0.58% |
 | 209 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.57% |
 | 209 | [Grindstone](games/g/grindstone.md) | 0.57% |
