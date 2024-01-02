@@ -63,7 +63,7 @@
   "Tags": [],
   "EOS_Progressed": 1643,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 374,
+  "EOS_NewPlayers": 372,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -3248,9 +3248,9 @@
       "ID": "ACH_02",
       "SetID": "efe2lj",
       "Name": "Find Allies",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 361
+      "UsersEstimate": 378
     },
     {
       "ID": "ACH_03",
@@ -3336,9 +3336,9 @@
       "ID": "ACH_13",
       "SetID": "efe2lj",
       "Name": "Adventurer",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 329
+      "UsersEstimate": 345
     },
     {
       "ID": "ACH_14",
@@ -3376,9 +3376,9 @@
       "ID": "ACH_18",
       "SetID": "efe2lj",
       "Name": "Shatter Them All",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 345
+      "UsersEstimate": 361
     },
     {
       "ID": "ACH_19",
@@ -3537,8 +3537,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-02T01:47:19.6899919+00:00",
-  "LastChanged_Achievements": "2024-01-02T06:10:00.1433676+00:00",
+  "LastChanged_Achievements": "2024-01-02T07:10:05.8065896+00:00",
   "LastUpdate_AppInfo": "2024-01-01T22:57:08.0954502+00:00",
-  "LastUpdate_Ratings": "2024-01-02T05:59:46.4215766+00:00",
-  "LastUpdate_Achievements": "2024-01-02T06:10:00.1434015+00:00"
+  "LastUpdate_Ratings": "2024-01-02T06:59:48.4152975+00:00",
+  "LastUpdate_Achievements": "2024-01-02T07:10:05.8066448+00:00"
 }

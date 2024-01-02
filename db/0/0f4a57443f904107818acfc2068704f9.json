@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1210,
+  "EOS_Progressed": 1211,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3017,6 +3017,11 @@
       "Time": "2024-01-02T05:08:06.8583286+00:00",
       "NumProgressed": 1210,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-02T07:08:34.369862+00:00",
+      "NumProgressed": 1211,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -3085,7 +3090,7 @@
       "Name": "Pathfinder",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 944
+      "UsersEstimate": 945
     },
     {
       "ID": "CompleteChapter10",
@@ -3197,7 +3202,7 @@
       "Name": "Breathing Easy",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "CompleteChapter6",
@@ -3229,7 +3234,7 @@
       "Name": "Ingredients List",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "CompleteConquestKruleboyz",
@@ -3324,14 +3329,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 1210,
+      "Progressed": 1211,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2024-01-02T06:08:28.6423457+00:00",
+  "LastChanged_Achievements": "2024-01-02T07:08:34.3698618+00:00",
   "LastUpdate_AppInfo": "2023-12-29T09:57:13.5043463+00:00",
-  "LastUpdate_Ratings": "2024-01-02T05:59:02.2958911+00:00",
-  "LastUpdate_Achievements": "2024-01-02T06:08:28.6424102+00:00"
+  "LastUpdate_Ratings": "2024-01-02T06:59:07.2385114+00:00",
+  "LastUpdate_Achievements": "2024-01-02T07:08:34.3698977+00:00"
 }

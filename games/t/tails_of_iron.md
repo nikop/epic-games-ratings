@@ -18,15 +18,15 @@ Rating: 4.56 (Ranked 503)
 | Defeat 25 Grubs | 1.00% | ~23 |
 | Defeat 25 Frogs | 1.00% | ~23 |
 | Defeat 25 Mozis | 1.00% | ~23 |
+| Meet the Creatures from the Deep | 1.00% | ~23 |
 | Kitchen Ready To Cook | 1.00% | ~23 |
 | Smithy Ready to Craft | 1.00% | ~23 |
 | Throne Room Fit For A King | 1.00% | ~23 |
 | Rescue Redgi's Brothers | 1.00% | ~23 |
+| Return Power To The Depths | 1.00% | ~23 |
 | Defeat Croakhis Khan | 1.00% | ~9 |
 | Shield Maiden Yellow Tongue | 1.00% | ~9 |
 | I Remember My First Beer | 1.00% | ~9 |
-| Meet the Creatures from the Deep | 0.90% | ~21 |
-| Return Power To The Depths | 0.90% | ~21 |
 | Defeat Ratnor Rodentson | 0.80% | ~18 |
 | Fix the Travellers Wagon | 0.80% | ~18 |
 | Defeat the Grub Buster | 0.80% | ~8 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 185,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3829,10 +3829,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2944,
       "NumberOfAwardsMax": 326
+    },
+    {
+      "Time": "2024-01-02T06:58:46.9397233+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2945,
+      "NumberOfAwardsMax": 326
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2944,
+  "NumberOfAwards": 2945,
   "NumberOfAwardsMax": 326,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3852,7 +3858,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 272
+      "Count": 273
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -3909,7 +3915,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33107,
+  "EOS_Progressed": 33111,
   "EOS_Completed": 71,
   "EOS_NewPlayers": 385,
   "EOS_NewCompleters": 1,
@@ -24284,6 +24290,11 @@
       "Time": "2024-01-02T06:08:47.7330786+00:00",
       "NumProgressed": 33107,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-02T07:08:53.3109241+00:00",
+      "NumProgressed": 33111,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -24343,7 +24354,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1655
+      "UsersEstimate": 1656
     },
     {
       "ID": "Collector",
@@ -24383,7 +24394,7 @@
       "Name": "Discovery",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1986
+      "UsersEstimate": 1987
     },
     {
       "ID": "Dont_Need_These",
@@ -24431,7 +24442,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1655
+      "UsersEstimate": 1656
     },
     {
       "ID": "GB_In_Training",
@@ -24583,7 +24594,7 @@
       "Name": "Solo Capture",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1986
+      "UsersEstimate": 1987
     },
     {
       "ID": "Stunner",
@@ -24597,9 +24608,9 @@
       "ID": "Stylish",
       "SetID": "819popo",
       "Name": "Stylish",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3311
+      "UsersEstimate": 3642
     },
     {
       "ID": "Summoner",
@@ -24623,7 +24634,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 1986
+      "UsersEstimate": 1987
     },
     {
       "ID": "Teamwork",
@@ -24631,7 +24642,7 @@
       "Name": "Teamwork",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1655
+      "UsersEstimate": 1656
     },
     {
       "ID": "Terrifying",
@@ -24679,7 +24690,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1655
+      "UsersEstimate": 1656
     },
     {
       "ID": "Welcome_Crew",
@@ -24702,16 +24713,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33107,
+      "Progressed": 33111,
       "Completed": 71
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2024-01-01T18:59:26.3161864+00:00",
-  "LastChanged_Achievements": "2024-01-02T06:08:47.7330783+00:00",
+  "LastChanged": "2024-01-02T06:58:46.9397232+00:00",
+  "LastChanged_Achievements": "2024-01-02T07:08:53.3109238+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:23.250158+00:00",
-  "LastUpdate_Ratings": "2024-01-02T05:58:42.3695257+00:00",
-  "LastUpdate_Achievements": "2024-01-02T06:08:47.7332072+00:00"
+  "LastUpdate_Ratings": "2024-01-02T06:58:46.9397237+00:00",
+  "LastUpdate_Achievements": "2024-01-02T07:08:53.3110749+00:00"
 }

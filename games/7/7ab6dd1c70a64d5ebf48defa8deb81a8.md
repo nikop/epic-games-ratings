@@ -7,14 +7,14 @@ Rating: 4.17 (Ranked 973)
 | ---- | ---------- | ----- |
 | Break Out | 60.00% | ~986 |
 | Trinity | 29.00% | ~476 |
+| Find Allies | 23.00% | ~378 |
 | A Taste of Wrath | 23.00% | ~378 |
 | The Collector | 23.00% | ~378 |
-| Find Allies | 22.00% | ~361 |
+| Shatter Them All | 22.00% | ~361 |
 | I Found It | 22.00% | ~361 |
-| Shatter Them All | 21.00% | ~345 |
+| Adventurer | 21.00% | ~345 |
 | Geared Up | 21.00% | ~345 |
 | Scholar | 21.00% | ~345 |
-| Adventurer | 20.00% | ~329 |
 | Fashion Victim | 20.00% | ~329 |
 | Stone Collection | 20.00% | ~329 |
 | Tributes of Caladrias | 19.00% | ~312 |

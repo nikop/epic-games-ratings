@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -7927,7 +7927,7 @@
       "Count": 3808
     }
   ],
-  "EOS_Progressed": 148941,
+  "EOS_Progressed": 148945,
   "EOS_Completed": 340,
   "EOS_NewPlayers": 1280,
   "EOS_NewCompleters": 5,
@@ -34967,6 +34967,11 @@
       "Time": "2024-01-02T06:05:43.5906186+00:00",
       "NumProgressed": 148941,
       "NumCompleted": 340
+    },
+    {
+      "Time": "2024-01-02T07:05:50.8008001+00:00",
+      "NumProgressed": 148945,
+      "NumCompleted": 340
     }
   ],
   "TotalAchievements": 112,
@@ -35354,7 +35359,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8936
+      "UsersEstimate": 8937
     },
     {
       "ID": "expansion02",
@@ -35562,7 +35567,7 @@
       "Name": "Budding Merchant",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8936
+      "UsersEstimate": 8937
     },
     {
       "ID": "level02",
@@ -35666,7 +35671,7 @@
       "Name": "The Greatest Grind",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1340
+      "UsersEstimate": 1341
     },
     {
       "ID": "masterpiece",
@@ -35674,7 +35679,7 @@
       "Name": "All or Nothing!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1340
+      "UsersEstimate": 1341
     },
     {
       "ID": "polonia_a",
@@ -35873,15 +35878,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 148941,
+      "Progressed": 148945,
       "Completed": 340
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-01T19:03:59.7393635+00:00",
-  "LastChanged_Achievements": "2024-01-02T06:05:43.5906183+00:00",
+  "LastChanged_Achievements": "2024-01-02T07:05:50.8007994+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.6407181+00:00",
-  "LastUpdate_Ratings": "2024-01-02T06:03:10.3543607+00:00",
-  "LastUpdate_Achievements": "2024-01-02T06:05:43.5908182+00:00"
+  "LastUpdate_Ratings": "2024-01-02T07:03:12.1247508+00:00",
+  "LastUpdate_Achievements": "2024-01-02T07:05:50.8010061+00:00"
 }

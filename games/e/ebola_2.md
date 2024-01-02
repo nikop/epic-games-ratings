@@ -23,7 +23,7 @@
 | Hardcore ✔ | 0.00% | ~0 |
 | King of survival ✔ | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 317 (Ranked 382)  
+Progressed: 318 (Ranked 382)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,4 +125,4 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-29 | 314 | 0 |
 | 2023-12-30 | 315 | 0 |
 | 2024-01-01 | 316 | 0 |
-| 2024-01-02 | 317 | 0 |
+| 2024-01-02 | 318 | 0 |

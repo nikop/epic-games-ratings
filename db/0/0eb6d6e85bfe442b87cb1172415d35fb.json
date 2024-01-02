@@ -4,7 +4,7 @@
   "ProductSlug": "airport-ceo-442ecc",
   "Ranking_EOS_Progress": 525,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 456,
+  "Ranking_EOS_NewPlayers": 455,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-09-01T10:00:00+00:00",
@@ -367,9 +367,9 @@
       "ID": "AndIWouldFly500Miles",
       "SetID": "d11cl5p",
       "Name": "And I would fly 500 miles",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "AvianVeterinarian",
@@ -638,8 +638,8 @@
   ],
   "FirstSeen": "2023-09-02T13:02:28.4911547+00:00",
   "FirstSeenAchievements": "2023-07-27T10:02:52.8790419+00:00",
-  "LastChanged_Achievements": "2024-01-02T06:06:24.9317575+00:00",
+  "LastChanged_Achievements": "2024-01-02T07:06:32.2788672+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:53.8733503+00:00",
-  "LastUpdate_Ratings": "2024-01-02T05:57:20.3169344+00:00",
-  "LastUpdate_Achievements": "2024-01-02T06:06:24.9317791+00:00"
+  "LastUpdate_Ratings": "2024-01-02T06:57:21.6833993+00:00",
+  "LastUpdate_Achievements": "2024-01-02T07:06:32.2788943+00:00"
 }

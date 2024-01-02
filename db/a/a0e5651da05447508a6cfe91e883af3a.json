@@ -2071,9 +2071,9 @@
       "ID": "Wins_20",
       "SetID": "2bonhb9",
       "Name": "20 Wins",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Wins_50",
@@ -2119,9 +2119,9 @@
       "ID": "Wins_Void_17",
       "SetID": "2bonhb9",
       "Name": "Void Origin Player",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Wins_Water_17",
@@ -2142,8 +2142,8 @@
   ],
   "FirstSeen": "2023-11-18T15:00:14.9921948+00:00",
   "FirstSeenAchievements": "2023-08-03T14:01:50.784469+00:00",
-  "LastChanged_Achievements": "2024-01-02T06:09:45.7771716+00:00",
+  "LastChanged_Achievements": "2024-01-02T07:09:51.6185233+00:00",
   "LastUpdate_AppInfo": "2023-12-29T02:57:13.2550009+00:00",
-  "LastUpdate_Ratings": "2024-01-02T05:57:46.8607772+00:00",
-  "LastUpdate_Achievements": "2024-01-02T06:09:45.7772006+00:00"
+  "LastUpdate_Ratings": "2024-01-02T06:57:46.715314+00:00",
+  "LastUpdate_Achievements": "2024-01-02T07:09:51.618547+00:00"
 }

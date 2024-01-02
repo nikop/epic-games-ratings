@@ -21,7 +21,7 @@ Rating: 4.76 (Ranked 131)
 | Min's Promise | 18.00% | ~132 |
 | Truebro | 18.00% | ~132 |
 | Sia's Promise | 17.00% | ~125 |
-| Romantic | 13.00% | ~96 |
+| Romantic | 14.00% | ~103 |
 | TentacleMAN | 8.00% | ~59 |
 | Yohan's Promise | 5.00% | ~37 |
 | Flawless | 5.00% | ~37 |

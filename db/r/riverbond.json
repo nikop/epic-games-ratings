@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
@@ -503,9 +503,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 534630,
+  "EOS_Progressed": 534631,
   "EOS_Completed": 514,
-  "EOS_NewPlayers": 657,
+  "EOS_NewPlayers": 656,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -27803,6 +27803,11 @@
       "Time": "2024-01-02T06:05:31.7257617+00:00",
       "NumProgressed": 534630,
       "NumCompleted": 514
+    },
+    {
+      "Time": "2024-01-02T07:05:38.8306995+00:00",
+      "NumProgressed": 534631,
+      "NumCompleted": 514
     }
   ],
   "TotalAchievements": 57,
@@ -27830,7 +27835,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 374241
+      "UsersEstimate": 374242
     },
     {
       "ID": "12",
@@ -27886,7 +27891,7 @@
       "Name": "To Victory!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 80194
+      "UsersEstimate": 80195
     },
     {
       "ID": "19",
@@ -28038,7 +28043,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 267315
+      "UsersEstimate": 267316
     },
     {
       "ID": "36",
@@ -28070,7 +28075,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 181774
+      "UsersEstimate": 181775
     },
     {
       "ID": "4",
@@ -28158,7 +28163,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 181774
+      "UsersEstimate": 181775
     },
     {
       "ID": "5",
@@ -28269,15 +28274,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 534630,
+      "Progressed": 534631,
       "Completed": 514
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-12-14T14:59:39.4842186+00:00",
-  "LastChanged_Achievements": "2024-01-02T06:05:31.7257614+00:00",
+  "LastChanged_Achievements": "2024-01-02T07:05:38.8306991+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:29.7872424+00:00",
-  "LastUpdate_Ratings": "2024-01-02T05:57:20.0742377+00:00",
-  "LastUpdate_Achievements": "2024-01-02T06:05:31.7258956+00:00"
+  "LastUpdate_Ratings": "2024-01-02T06:57:21.4329252+00:00",
+  "LastUpdate_Achievements": "2024-01-02T07:05:38.8308524+00:00"
 }

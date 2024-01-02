@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 456,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
@@ -339,9 +339,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 78780,
+  "EOS_Progressed": 78782,
   "EOS_Completed": 421,
-  "EOS_NewPlayers": 843,
+  "EOS_NewPlayers": 842,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -28699,6 +28699,11 @@
       "Time": "2024-01-02T04:09:54.9614302+00:00",
       "NumProgressed": 78780,
       "NumCompleted": 421
+    },
+    {
+      "Time": "2024-01-02T07:09:40.4357614+00:00",
+      "NumProgressed": 78782,
+      "NumCompleted": 421
     }
   ],
   "TotalAchievements": 24,
@@ -28726,7 +28731,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 54358
+      "UsersEstimate": 54360
     },
     {
       "ID": "BEST_FRIENDS",
@@ -28758,7 +28763,7 @@
       "Name": "FETCH",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 22058
+      "UsersEstimate": 22059
     },
     {
       "ID": "FOXIN_AROUND",
@@ -28766,7 +28771,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 22846
+      "UsersEstimate": 22847
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -28782,7 +28787,7 @@
       "Name": "GARDEN OF LIGHT",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 14180
+      "UsersEstimate": 14181
     },
     {
       "ID": "INFUSED_WITH_LIGHT",
@@ -28790,7 +28795,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 41753
+      "UsersEstimate": 41754
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -28806,7 +28811,7 @@
       "Name": "MATCH MAKER",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 6302
+      "UsersEstimate": 6303
     },
     {
       "ID": "NONE_FORGOTTEN",
@@ -28822,7 +28827,7 @@
       "Name": "NORTHERN LIGHTS",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 6302
+      "UsersEstimate": 6303
     },
     {
       "ID": "OLD_COMPANION",
@@ -28846,7 +28851,7 @@
       "Name": "SPIRITED AWAY",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 6302
+      "UsersEstimate": 6303
     },
     {
       "ID": "SPIRIT_BARK",
@@ -28901,7 +28906,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 78780,
+      "Progressed": 78782,
       "Completed": 421
     }
   ],
@@ -28909,8 +28914,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-12-11T01:48:32.7425544+00:00",
-  "LastChanged_Achievements": "2024-01-02T06:09:34.5091314+00:00",
+  "LastChanged_Achievements": "2024-01-02T07:09:40.4357611+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:49.9952919+00:00",
-  "LastUpdate_Ratings": "2024-01-02T06:00:24.5146466+00:00",
-  "LastUpdate_Achievements": "2024-01-02T06:09:34.5092583+00:00"
+  "LastUpdate_Ratings": "2024-01-02T07:00:27.8517038+00:00",
+  "LastUpdate_Achievements": "2024-01-02T07:09:40.4359352+00:00"
 }

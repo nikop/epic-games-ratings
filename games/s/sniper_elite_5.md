@@ -8,12 +8,12 @@ Rating: 4.46 (Ranked 675)
 | Meeting Resistance | 47.00% | ~1,966 |
 | Confirming Suspicions | 42.00% | ~1,757 |
 | The Kraken Wakes | 37.00% | ~1,548 |
-| It's Starting to Crack | 34.00% | ~1,422 |
+| It's Starting to Crack | 34.00% | ~1,423 |
 | Change the Channel | 32.00% | ~1,339 |
 | Lord of War | 31.00% | ~1,297 |
 | Taking it back | 30.00% | ~1,255 |
-| Resourceful | 28.00% | ~1,171 |
-| Target America | 27.00% | ~1,129 |
+| Resourceful | 28.00% | ~1,172 |
+| Target America | 27.00% | ~1,130 |
 | The Kraken Sleeps | 25.00% | ~1,046 |
 | As Quiet as a Mouse | 24.00% | ~1,004 |
 | Liberté | 23.00% | ~962 |
@@ -26,9 +26,9 @@ Rating: 4.46 (Ranked 675)
 | Der Geist | 17.00% | ~711 |
 | Close Quarters | 16.00% | ~669 |
 | Snake in the Grass | 16.00% | ~669 |
-| Skirmisher | 15.00% | ~627 |
-| Die Nussknacker Sweet! | 15.00% | ~627 |
-| Brains of the Operation | 15.00% | ~627 |
+| Skirmisher | 15.00% | ~628 |
+| Die Nussknacker Sweet! | 15.00% | ~628 |
+| Brains of the Operation | 15.00% | ~628 |
 | No Stone Unturned | 14.00% | ~586 |
 | Opposing Force | 14.00% | ~586 |
 | Enemy at the Gates | 14.00% | ~586 |
@@ -36,7 +36,7 @@ Rating: 4.46 (Ranked 675)
 | Set Europe Ablaze | 13.00% | ~544 |
 | Precision Is Key | 10.00% | ~418 |
 | My Little Friend | 10.00% | ~418 |
-| Rigged to Blow | 9.00% | ~376 |
+| Rigged to Blow | 9.00% | ~377 |
 | Herr Today, Gone Tomorrow | 7.00% | ~289 |
 | The Long Game | 6.00% | ~251 |
 | Operation Foxley | 6.00% | ~248 |
@@ -49,10 +49,10 @@ Rating: 4.46 (Ranked 675)
 | Siegebreaker | 5.00% | ~207 |
 | Ghost of Falaise | 5.00% | ~207 |
 | Locomotion Commotion | 4.00% | ~167 |
-| From Paris with Love | 3.00% | ~125 |
-| Burn after reading | 3.00% | ~125 |
-| Souvenir hunter | 3.00% | ~125 |
-| Shoot for the Moon | 3.00% | ~125 |
+| From Paris with Love | 3.00% | ~126 |
+| Burn after reading | 3.00% | ~126 |
+| Souvenir hunter | 3.00% | ~126 |
+| Shoot for the Moon | 3.00% | ~126 |
 | If You Go Down To The Woods Today | 3.00% | ~124 |
 | Fight Another Day | 3.00% | ~124 |
 | Shipbreaker | 3.00% | ~124 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 675)
 | Going Overboard | 0.60% | ~25 |
 | Stroll in the Woods | 0.50% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,183 (Ranked 208)  
+Progressed: 4,184 (Ranked 208)  
 Completed: 11 (0.26%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,7 +332,7 @@ Completed: 11 (0.26%) (Ranked 261)
 | 2023-12-30 | 4,160 | 11 |
 | 2023-12-31 | 4,171 | 11 |
 | 2024-01-01 | 4,182 | 11 |
-| 2024-01-02 | 4,183 | 11 |
+| 2024-01-02 | 4,184 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 528)  
 Sum: 28 (Ranked 544)  

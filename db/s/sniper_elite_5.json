@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -655,9 +655,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 4183,
+  "EOS_Progressed": 4184,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -9270,6 +9270,11 @@
       "Time": "2024-01-02T05:09:00.4257339+00:00",
       "NumProgressed": 4183,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-02T07:09:28.1568685+00:00",
+      "NumProgressed": 4184,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9409,7 +9414,7 @@
       "Name": "Skirmisher",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -9465,7 +9470,7 @@
       "Name": "Rigged to Blow",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -9497,7 +9502,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -9505,7 +9510,7 @@
       "Name": "Resourceful",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1172
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -9553,7 +9558,7 @@
       "Name": "From Paris with Love",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "REWARD_43_X_FILES",
@@ -9561,7 +9566,7 @@
       "Name": "Burn after reading",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "REWARD_44_FRIEND_OR_FOE",
@@ -9569,7 +9574,7 @@
       "Name": "Souvenir hunter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "REWARD_45_STONE_CARVING",
@@ -9593,7 +9598,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1422
+      "UsersEstimate": 1423
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -9657,7 +9662,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -9673,7 +9678,7 @@
       "Name": "Target America",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -9681,7 +9686,7 @@
       "Name": "Shoot for the Moon",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "REWARD_8_THE_KRAKEN_SLEEPS",
@@ -9848,13 +9853,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4134,
+      "Progressed": 4135,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4183,
+      "Progressed": 4184,
       "Completed": 11
     }
   ],
@@ -9862,8 +9867,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-31T17:57:21.8483577+00:00",
-  "LastChanged_Achievements": "2024-01-02T06:09:22.4840391+00:00",
+  "LastChanged_Achievements": "2024-01-02T07:09:28.1568679+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:41.6601563+00:00",
-  "LastUpdate_Ratings": "2024-01-02T05:58:02.2721246+00:00",
-  "LastUpdate_Achievements": "2024-01-02T06:09:22.4841295+00:00"
+  "LastUpdate_Ratings": "2024-01-02T06:58:04.1431869+00:00",
+  "LastUpdate_Achievements": "2024-01-02T07:09:28.157008+00:00"
 }

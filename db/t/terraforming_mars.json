@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2018-10-16T00:00:00+00:00",
@@ -3487,9 +3487,9 @@
       "Count": 262
     }
   ],
-  "EOS_Progressed": 88778,
+  "EOS_Progressed": 88779,
   "EOS_Completed": 178,
-  "EOS_NewPlayers": 1192,
+  "EOS_NewPlayers": 1191,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -32207,6 +32207,11 @@
       "Time": "2024-01-02T06:04:58.7849677+00:00",
       "NumProgressed": 88778,
       "NumCompleted": 178
+    },
+    {
+      "Time": "2024-01-02T07:05:02.4831429+00:00",
+      "NumProgressed": 88779,
+      "NumCompleted": 178
     }
   ],
   "TotalAchievements": 30,
@@ -32354,7 +32359,7 @@
       "Name": "Sojourner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 23082
+      "UsersEstimate": 23083
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -32370,7 +32375,7 @@
       "Name": "Winner Winner Terraformer",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 18643
+      "UsersEstimate": 18644
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -32450,22 +32455,22 @@
       "Name": "Determined",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 6214
+      "UsersEstimate": 6215
     }
   ],
   "AchievementSets": [
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 88778,
+      "Progressed": 88779,
       "Completed": 178
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2024-01-01T23:57:12.7290872+00:00",
-  "LastChanged_Achievements": "2024-01-02T06:04:58.7849673+00:00",
+  "LastChanged_Achievements": "2024-01-02T07:05:02.4831424+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:05.7214012+00:00",
-  "LastUpdate_Ratings": "2024-01-02T05:57:11.4047146+00:00",
-  "LastUpdate_Achievements": "2024-01-02T06:04:58.7851015+00:00"
+  "LastUpdate_Ratings": "2024-01-02T06:57:14.1627701+00:00",
+  "LastUpdate_Achievements": "2024-01-02T07:05:02.4833295+00:00"
 }

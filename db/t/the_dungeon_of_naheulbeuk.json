@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1653,9 +1653,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 246112,
+  "EOS_Progressed": 246114,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1393,
+  "EOS_NewPlayers": 1391,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24613,6 +24613,11 @@
       "Time": "2024-01-02T06:10:01.7264982+00:00",
       "NumProgressed": 246112,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-02T07:10:07.3998685+00:00",
+      "NumProgressed": 246114,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 88,
@@ -25072,7 +25077,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 88600
+      "UsersEstimate": 88601
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -25320,28 +25325,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9844
+      "UsersEstimate": 9845
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 246112,
+      "Progressed": 246114,
       "Completed": 8
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 246112,
+      "Progressed": 246114,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-01T21:59:20.4094917+00:00",
-  "LastChanged_Achievements": "2024-01-02T06:10:01.7264979+00:00",
+  "LastChanged_Achievements": "2024-01-02T07:10:07.3998683+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:29.7482382+00:00",
-  "LastUpdate_Ratings": "2024-01-02T05:59:30.5682051+00:00",
-  "LastUpdate_Achievements": "2024-01-02T06:10:01.726664+00:00"
+  "LastUpdate_Ratings": "2024-01-02T06:59:34.5085463+00:00",
+  "LastUpdate_Achievements": "2024-01-02T07:10:07.4000395+00:00"
 }

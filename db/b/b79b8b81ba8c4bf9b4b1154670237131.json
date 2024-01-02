@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -167,9 +167,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16262,
+  "EOS_Progressed": 16263,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 387,
+  "EOS_NewPlayers": 384,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -5622,6 +5622,11 @@
       "Time": "2024-01-02T06:09:26.6962082+00:00",
       "NumProgressed": 16262,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-02T07:09:32.591443+00:00",
+      "NumProgressed": 16263,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -5666,7 +5671,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 12196
+      "UsersEstimate": 12197
     },
     {
       "ID": "ACH_AE_14",
@@ -5706,7 +5711,7 @@
       "Name": "Crime Fighter",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "ACH_AE_19",
@@ -5720,9 +5725,9 @@
       "ID": "ACH_AE_2",
       "SetID": "ck3465",
       "Name": "Back to School",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3740
+      "UsersEstimate": 3903
     },
     {
       "ID": "ACH_AE_20",
@@ -5866,7 +5871,7 @@
       "Name": "The Bomb",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1951
+      "UsersEstimate": 1952
     },
     {
       "ID": "ACH_AE_5",
@@ -5874,7 +5879,7 @@
       "Name": "Bad Chemistry",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1951
+      "UsersEstimate": 1952
     },
     {
       "ID": "ACH_AE_6",
@@ -5913,7 +5918,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16262,
+      "Progressed": 16263,
       "Completed": 15
     }
   ],
@@ -5921,8 +5926,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2023-12-27T16:00:31.0909826+00:00",
-  "LastChanged_Achievements": "2024-01-02T06:09:26.6962079+00:00",
+  "LastChanged_Achievements": "2024-01-02T07:09:32.5914427+00:00",
   "LastUpdate_AppInfo": "2023-12-26T18:57:07.3435183+00:00",
-  "LastUpdate_Ratings": "2024-01-02T05:58:24.5801659+00:00",
-  "LastUpdate_Achievements": "2024-01-02T06:09:26.6962858+00:00"
+  "LastUpdate_Ratings": "2024-01-02T06:58:26.7138317+00:00",
+  "LastUpdate_Achievements": "2024-01-02T07:09:32.5915005+00:00"
 }

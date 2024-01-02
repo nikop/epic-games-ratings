@@ -1624,9 +1624,9 @@
       "ID": "MindIlluminator",
       "SetID": "1jeo1g7",
       "Name": "Mind Illuminator",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 130
     },
     {
       "ID": "NoctuanChampionAchievement",
@@ -2055,8 +2055,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-02T06:08:41.6227336+00:00",
+  "LastChanged_Achievements": "2024-01-02T07:08:47.2249376+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:34.5642416+00:00",
-  "LastUpdate_Ratings": "2024-01-02T05:59:58.4905881+00:00",
-  "LastUpdate_Achievements": "2024-01-02T06:08:41.6228416+00:00"
+  "LastUpdate_Ratings": "2024-01-02T07:00:00.58703+00:00",
+  "LastUpdate_Achievements": "2024-01-02T07:08:47.2250277+00:00"
 }

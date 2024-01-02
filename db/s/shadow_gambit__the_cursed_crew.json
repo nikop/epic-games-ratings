@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 123,
   "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -179,11 +179,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1397,
+  "EOS_Progressed": 1398,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.51,
+  "EOS_Completed_Percentage": 2.5,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -4829,6 +4829,11 @@
       "Time": "2024-01-02T05:05:45.8623612+00:00",
       "NumProgressed": 1397,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-02T07:05:56.792683+00:00",
+      "NumProgressed": 1398,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4849,7 +4854,7 @@
       "Name": "A New Journey",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "_03_FinishAct1",
@@ -4889,7 +4894,7 @@
       "Name": "All Good Things",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "_08_Completion_10",
@@ -4913,7 +4918,7 @@
       "Name": "Buccaneer",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "_11_Completion_40",
@@ -4961,7 +4966,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -4993,7 +4998,7 @@
       "Name": "Fishy Fish",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -5048,7 +5053,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1397,
+      "Progressed": 1398,
       "Completed": 35
     }
   ],
@@ -5056,8 +5061,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-27T21:58:17.6269244+00:00",
-  "LastChanged_Achievements": "2024-01-02T06:05:49.6713956+00:00",
+  "LastChanged_Achievements": "2024-01-02T07:05:56.7926826+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.1530944+00:00",
-  "LastUpdate_Ratings": "2024-01-02T06:02:35.7761794+00:00",
-  "LastUpdate_Achievements": "2024-01-02T06:05:49.671433+00:00"
+  "LastUpdate_Ratings": "2024-01-02T07:02:36.7487133+00:00",
+  "LastUpdate_Achievements": "2024-01-02T07:05:56.7927231+00:00"
 }

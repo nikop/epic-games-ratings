@@ -267,9 +267,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 2084,
+  "EOS_Progressed": 2085,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 318,
+  "EOS_NewPlayers": 319,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4902,6 +4902,11 @@
       "Time": "2024-01-02T05:07:59.4246446+00:00",
       "NumProgressed": 2084,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T07:08:27.5560344+00:00",
+      "NumProgressed": 2085,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -4922,7 +4927,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 1855
+      "UsersEstimate": 1856
     },
     {
       "ID": "AC02",
@@ -4954,7 +4959,7 @@
       "Name": "The Sharpest Tool in the Shed",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "AC06",
@@ -4962,7 +4967,7 @@
       "Name": "The Last Ascension",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 1021
+      "UsersEstimate": 1022
     },
     {
       "ID": "AC07",
@@ -4970,7 +4975,7 @@
       "Name": "The Sea dies on the Shore",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1000
+      "UsersEstimate": 1001
     },
     {
       "ID": "AC08",
@@ -5034,7 +5039,7 @@
       "Name": "Full Devotion",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "AC16",
@@ -5082,7 +5087,7 @@
       "Name": "No Cherub Left Behind",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "AC22",
@@ -5122,7 +5127,7 @@
       "Name": "A Leap of Faith",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "AC27",
@@ -5146,7 +5151,7 @@
       "Name": "The Veteran One",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "AC30",
@@ -5154,7 +5159,7 @@
       "Name": "The Anointed One",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 1021
+      "UsersEstimate": 1022
     },
     {
       "ID": "AC31",
@@ -5178,7 +5183,7 @@
       "Name": "Ultima Ratio",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 979
+      "UsersEstimate": 980
     },
     {
       "ID": "AC34",
@@ -5250,7 +5255,7 @@
       "Name": "Two Old Ones Eating Soup",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "AC43",
@@ -5258,7 +5263,7 @@
       "Name": "The Finest Craftmanship",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 854
+      "UsersEstimate": 855
     },
     {
       "ID": "AC44",
@@ -5281,7 +5286,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 2084,
+      "Progressed": 2085,
       "Completed": 0
     }
   ],
@@ -5289,8 +5294,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-12-31T20:59:17.7127137+00:00",
-  "LastChanged_Achievements": "2024-01-02T06:08:21.3677582+00:00",
+  "LastChanged_Achievements": "2024-01-02T07:08:27.5560343+00:00",
   "LastUpdate_AppInfo": "2023-12-27T02:57:24.8809366+00:00",
-  "LastUpdate_Ratings": "2024-01-02T05:59:12.823027+00:00",
-  "LastUpdate_Achievements": "2024-01-02T06:08:21.3678315+00:00"
+  "LastUpdate_Ratings": "2024-01-02T06:59:19.3867726+00:00",
+  "LastUpdate_Achievements": "2024-01-02T07:08:27.5560832+00:00"
 }

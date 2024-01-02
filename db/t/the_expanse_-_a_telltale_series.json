@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18036,
+  "EOS_Progressed": 18038,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 589,
+  "EOS_NewPlayers": 590,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -15990,6 +15990,11 @@
       "Time": "2024-01-02T06:03:52.9182594+00:00",
       "NumProgressed": 18036,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-02T07:03:56.424397+00:00",
+      "NumProgressed": 18038,
+      "NumCompleted": 58
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16090,7 +16095,7 @@
       "Name": "Data Logger",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "20",
@@ -16130,7 +16135,7 @@
       "Name": "Miraculous Maya",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "25",
@@ -16154,7 +16159,7 @@
       "Name": "Bosmang",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 2164
+      "UsersEstimate": 2165
     },
     {
       "ID": "28",
@@ -16210,7 +16215,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2164
+      "UsersEstimate": 2165
     },
     {
       "ID": "7",
@@ -16234,7 +16239,7 @@
       "Name": "Impossible Objects",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2164
+      "UsersEstimate": 2165
     },
     {
       "ID": "31",
@@ -16266,7 +16271,7 @@
       "Name": "Master Negotiator",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "35",
@@ -16281,22 +16286,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18036,
+      "Progressed": 18038,
       "Completed": 58
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3990,
-      "Completed": 1155
+      "Progressed": 3992,
+      "Completed": 1156
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T23:58:17.8612142+00:00",
-  "LastChanged_Achievements": "2024-01-02T06:03:52.918259+00:00",
+  "LastChanged_Achievements": "2024-01-02T07:03:56.4243966+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2024-01-02T05:58:56.9725117+00:00",
-  "LastUpdate_Achievements": "2024-01-02T06:03:52.918337+00:00"
+  "LastUpdate_Ratings": "2024-01-02T06:59:00.6645696+00:00",
+  "LastUpdate_Achievements": "2024-01-02T07:03:56.4244919+00:00"
 }

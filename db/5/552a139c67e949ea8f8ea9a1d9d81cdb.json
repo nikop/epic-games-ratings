@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1793,
+  "EOS_Progressed": 1794,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4457,6 +4457,11 @@
       "Time": "2024-01-02T05:05:27.344736+00:00",
       "NumProgressed": 1793,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-02T07:05:38.292027+00:00",
+      "NumProgressed": 1794,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4547,9 +4552,9 @@
       "ID": "ML_ACHIEVEMENT_11",
       "SetID": "5k00jcd",
       "Name": "It\u0027s me you have to beat",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 72
     },
     {
       "ID": "ML_ACHIEVEMENT_12",
@@ -4619,9 +4624,9 @@
       "ID": "ML_ACHIEVEMENT_20",
       "SetID": "5k00jcd",
       "Name": "Challenge accepted!",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 72
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -4836,20 +4841,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1793,
+      "Progressed": 1794,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1461,
+      "Progressed": 1462,
       "Completed": 1006
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-02T06:05:31.2287402+00:00",
+  "LastChanged_Achievements": "2024-01-02T07:05:38.2920266+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:19.4494243+00:00",
-  "LastUpdate_Ratings": "2024-01-02T05:59:21.0919065+00:00",
-  "LastUpdate_Achievements": "2024-01-02T06:05:31.2287922+00:00"
+  "LastUpdate_Ratings": "2024-01-02T06:59:26.4931065+00:00",
+  "LastUpdate_Achievements": "2024-01-02T07:05:38.2921056+00:00"
 }

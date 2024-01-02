@@ -5,19 +5,19 @@ Rating: 4.55 (Ranked 522)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 92.00% | ~141 |
-| Map reader | 65.00% | ~99 |
-| Adventurer | 63.00% | ~96 |
+| Beginner | 92.00% | ~142 |
+| Map reader | 64.00% | ~99 |
+| Adventurer | 63.00% | ~97 |
 | Philanthropist | 60.00% | ~92 |
-| Archer | 42.00% | ~64 |
-| The brave little tailor | 41.00% | ~63 |
+| Archer | 42.00% | ~65 |
+| The brave little tailor | 40.00% | ~62 |
 | Field hand | 39.00% | ~60 |
-| Samaritan | 33.00% | ~50 |
-| Well-to-do | 33.00% | ~50 |
-| The merciful one | 29.00% | ~44 |
-| Ladies' man | 29.00% | ~44 |
+| Samaritan | 33.00% | ~51 |
+| Well-to-do | 32.00% | ~49 |
+| The merciful one | 29.00% | ~45 |
+| Ladies' man | 29.00% | ~45 |
 | Ferocious wild boars | 24.00% | ~37 |
-| Idiot | 24.00% | ~37 |
+| Idiot | 23.00% | ~35 |
 | Beast slayer | 21.00% | ~32 |
 | Death of a legend | 18.00% | ~28 |
 | Ogre friend | 18.00% | ~28 |
@@ -25,12 +25,12 @@ Rating: 4.55 (Ranked 522)
 | Sidelined | 18.00% | ~28 |
 | Family man | 17.00% | ~26 |
 | Archaeologist | 17.00% | ~26 |
-| Wise man | 16.00% | ~24 |
-| Little hero | 16.00% | ~24 |
-| The fourth triplet | 16.00% | ~24 |
+| Wise man | 16.00% | ~25 |
+| Little hero | 16.00% | ~25 |
+| The fourth triplet | 16.00% | ~25 |
 | Hard worker | 15.00% | ~23 |
-| Ghost hunter | 14.00% | ~21 |
-| Master detective | 14.00% | ~21 |
+| Ghost hunter | 14.00% | ~22 |
+| Master detective | 14.00% | ~22 |
 | Pandora's box | 13.00% | ~20 |
 | Workaholic | 12.00% | ~18 |
 | Peacekeeper | 12.00% | ~18 |
@@ -41,8 +41,8 @@ Rating: 4.55 (Ranked 522)
 | Freedom fighter | 8.00% | ~12 |
 | King of the handymen | 8.00% | ~12 |
 | Titan Lord | 7.00% | ~11 |
-| Terror of the hens | 7.00% | ~11 |
-| Expert | 7.00% | ~11 |
+| Terror of the hens | 6.00% | ~9 |
+| Expert | 6.00% | ~9 |
 | Moneybags | 6.00% | ~9 |
 | The traveler | 5.00% | ~8 |
 | King Midas | 5.00% | ~8 |
@@ -52,11 +52,11 @@ Rating: 4.55 (Ranked 522)
 | Big game hunter | 2.00% | ~3 |
 | Mage | 2.00% | ~3 |
 | Sharpshooter | 2.00% | ~3 |
-| Gladiator | 0.70% | ~1 |
-| Master of the classes | 0.70% | ~1 |
+| Gladiator | 0.60% | ~1 |
+| Master of the classes | 0.60% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 153 (Ranked 447)  
+Progressed: 154 (Ranked 446)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-30 | 141 | 0 |
 | 2023-12-31 | 148 | 0 |
 | 2024-01-01 | 152 | 0 |
-| 2024-01-02 | 153 | 0 |
+| 2024-01-02 | 154 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

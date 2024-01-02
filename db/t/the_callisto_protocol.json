@@ -1985,9 +1985,9 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 20570,
+  "EOS_Progressed": 20571,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1253,
+  "EOS_NewPlayers": 1249,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -12200,6 +12200,11 @@
       "Time": "2024-01-02T06:09:29.3223061+00:00",
       "NumProgressed": 20570,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-02T07:09:35.2592548+00:00",
+      "NumProgressed": 20571,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -12243,7 +12248,7 @@
       "Name": "Flesh Wound",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 4525
+      "UsersEstimate": 4526
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -12403,7 +12408,7 @@
       "Name": "The Outer Way",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 4525
+      "UsersEstimate": 4526
     },
     {
       "ID": "STORY_ESCAPE",
@@ -12586,13 +12591,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 20570,
+      "Progressed": 20571,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 8496,
+      "Progressed": 8497,
       "Completed": 29
     }
   ],
@@ -12600,8 +12605,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-01T23:03:46.8313112+00:00",
-  "LastChanged_Achievements": "2024-01-02T06:09:29.3223059+00:00",
+  "LastChanged_Achievements": "2024-01-02T07:09:35.2592546+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.412859+00:00",
-  "LastUpdate_Ratings": "2024-01-02T06:03:10.3552587+00:00",
-  "LastUpdate_Achievements": "2024-01-02T06:09:29.322386+00:00"
+  "LastUpdate_Ratings": "2024-01-02T07:03:12.2115477+00:00",
+  "LastUpdate_Achievements": "2024-01-02T07:09:35.2593432+00:00"
 }

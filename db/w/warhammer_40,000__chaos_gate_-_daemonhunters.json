@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 334,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -813,9 +813,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3711,
+  "EOS_Progressed": 3712,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5318,6 +5318,11 @@
       "Time": "2024-01-02T05:04:51.7194746+00:00",
       "NumProgressed": 3711,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T07:04:55.9372967+00:00",
+      "NumProgressed": 3712,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -5345,7 +5350,7 @@
       "Name": "Look Over There!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "BloodAndIron",
@@ -5497,7 +5502,7 @@
       "Name": "Not So Fast...",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "Kills_Bleed",
@@ -5553,7 +5558,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "Kills_Streak",
@@ -5577,7 +5582,7 @@
       "Name": "An Ill Omen",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -5695,9 +5700,9 @@
       "ID": "NexusCompleted",
       "SetID": "3jha1np",
       "Name": "A Foul Creche",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 148
     },
     {
       "ID": "NotAMoteOfCorruption",
@@ -5872,21 +5877,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3711,
+      "Progressed": 3712,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3711,
+      "Progressed": 3712,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-01T18:03:40.84636+00:00",
-  "LastChanged_Achievements": "2024-01-02T06:04:52.344191+00:00",
+  "LastChanged_Achievements": "2024-01-02T07:04:55.9372964+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:30.5390055+00:00",
-  "LastUpdate_Ratings": "2024-01-02T06:03:07.2777752+00:00",
-  "LastUpdate_Achievements": "2024-01-02T06:04:52.3442562+00:00"
+  "LastUpdate_Ratings": "2024-01-02T07:03:09.5489825+00:00",
+  "LastUpdate_Achievements": "2024-01-02T07:04:55.9373627+00:00"
 }

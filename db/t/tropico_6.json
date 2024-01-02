@@ -4,7 +4,7 @@
   "ProductSlug": "tropico-6",
   "Ranking_Rating": 303,
   "Ranking_Popularity": 368,
-  "Ranking_PopularitySum": 299,
+  "Ranking_PopularitySum": 300,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 349,
   "Ranking_EOS_NewPlayers": 203,
@@ -1515,7 +1515,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6841,
+  "EOS_Progressed": 6842,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 0,
@@ -15795,6 +15795,11 @@
       "Time": "2024-01-02T06:06:21.9299021+00:00",
       "NumProgressed": 6841,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-02T07:06:29.0515132+00:00",
+      "NumProgressed": 6842,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -15814,7 +15819,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "ACH_DOUBLEESCALATION",
@@ -15926,7 +15931,7 @@
       "Name": "Number 18",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1573
+      "UsersEstimate": 1574
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -15966,7 +15971,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 4994
+      "UsersEstimate": 4995
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -15990,7 +15995,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 18,
       "XP": 35,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1232
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -15998,7 +16003,7 @@
       "Name": "I Owe You Nothing",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "ACH_MYWAYS",
@@ -16062,7 +16067,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 3078
+      "UsersEstimate": 3079
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -16125,15 +16130,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6841,
+      "Progressed": 6842,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2024-01-01T23:00:51.8324602+00:00",
-  "LastChanged_Achievements": "2024-01-02T06:06:21.9299018+00:00",
+  "LastChanged_Achievements": "2024-01-02T07:06:29.051513+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:30.406474+00:00",
-  "LastUpdate_Ratings": "2024-01-02T05:59:50.5601707+00:00",
-  "LastUpdate_Achievements": "2024-01-02T06:06:21.9300398+00:00"
+  "LastUpdate_Ratings": "2024-01-02T06:59:52.6822522+00:00",
+  "LastUpdate_Achievements": "2024-01-02T07:06:29.0516324+00:00"
 }

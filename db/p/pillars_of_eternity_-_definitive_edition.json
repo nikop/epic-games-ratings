@@ -3549,9 +3549,9 @@
       "Count": 190
     }
   ],
-  "EOS_Progressed": 1081,
+  "EOS_Progressed": 1080,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": -1,
+  "EOS_NewPlayers": -2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -3914,6 +3914,11 @@
       "Time": "2023-12-30T13:09:18.1564268+00:00",
       "NumProgressed": 1081,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-02T07:03:32.2658061+00:00",
+      "NumProgressed": 1080,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -4069,7 +4074,7 @@
       "Name": "The Heir of Caed Nua",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 140
     },
     {
       "ID": "achievement_20",
@@ -4133,7 +4138,7 @@
       "Name": "Make an Adventurer",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 248
     },
     {
       "ID": "achievement_28",
@@ -4205,7 +4210,7 @@
       "Name": "Kickstarter Backer",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 897
+      "UsersEstimate": 896
     },
     {
       "ID": "achievement_37",
@@ -4308,15 +4313,15 @@
     {
       "ID": "70p237j",
       "IsBase": true,
-      "Progressed": 1081,
+      "Progressed": 1080,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:26:19.0250263+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.7524763+00:00",
   "LastChanged": "2024-01-02T01:45:26.7763914+00:00",
-  "LastChanged_Achievements": "2024-01-02T06:03:28.9969424+00:00",
+  "LastChanged_Achievements": "2024-01-02T07:03:32.2658058+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:47.9932878+00:00",
-  "LastUpdate_Ratings": "2024-01-02T05:58:02.7102412+00:00",
-  "LastUpdate_Achievements": "2024-01-02T06:03:28.996985+00:00"
+  "LastUpdate_Ratings": "2024-01-02T06:58:04.5506903+00:00",
+  "LastUpdate_Achievements": "2024-01-02T07:03:32.2658416+00:00"
 }

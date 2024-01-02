@@ -5,28 +5,28 @@ Rating: 4.65 (Ranked 321)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~13,287 |
-| On the Top Step | 82.00% | ~11,973 |
-| Setting up for Success | 69.00% | ~10,075 |
-| Team Orders | 68.00% | ~9,929 |
-| Engineer | 45.00% | ~6,570 |
-| Familiar Faces | 42.00% | ~6,132 |
-| Going the Extra Mile | 36.00% | ~5,256 |
-| Sharing the Love | 33.00% | ~4,818 |
-| Hitting a Season | 26.00% | ~3,796 |
-| Making History | 25.00% | ~3,650 |
-| A Dozen Pieces | 24.00% | ~3,504 |
-| Network Success | 23.00% | ~3,358 |
-| Challenge Yourself | 23.00% | ~3,358 |
-| Writing a new Chapter | 19.00% | ~2,774 |
-| Spring Cleaning | 18.00% | ~2,628 |
-| Reduce | 15.00% | ~2,190 |
-| Ups and Downs | 15.00% | ~2,190 |
-| Crucial Combo | 13.00% | ~1,898 |
-| Reuse | 12.00% | ~1,752 |
-| Proving Them Wrong | 12.00% | ~1,752 |
-| Gathering Dust | 11.00% | ~1,606 |
-| One for the Book | 11.00% | ~1,606 |
+| Getting on the Step | 91.00% | ~13,291 |
+| On the Top Step | 82.00% | ~11,976 |
+| Setting up for Success | 69.00% | ~10,077 |
+| Team Orders | 68.00% | ~9,931 |
+| Engineer | 45.00% | ~6,572 |
+| Familiar Faces | 42.00% | ~6,134 |
+| Going the Extra Mile | 36.00% | ~5,258 |
+| Sharing the Love | 33.00% | ~4,820 |
+| Hitting a Season | 26.00% | ~3,797 |
+| Making History | 25.00% | ~3,651 |
+| A Dozen Pieces | 24.00% | ~3,505 |
+| Network Success | 23.00% | ~3,359 |
+| Challenge Yourself | 23.00% | ~3,359 |
+| Writing a new Chapter | 19.00% | ~2,775 |
+| Spring Cleaning | 18.00% | ~2,629 |
+| Reduce | 15.00% | ~2,191 |
+| Ups and Downs | 15.00% | ~2,191 |
+| Crucial Combo | 13.00% | ~1,899 |
+| Reuse | 12.00% | ~1,753 |
+| Proving Them Wrong | 12.00% | ~1,753 |
+| Gathering Dust | 11.00% | ~1,607 |
+| One for the Book | 11.00% | ~1,607 |
 | Oil and Water | 10.00% | ~1,460 |
 | Friendly Competition | 10.00% | ~1,460 |
 | Switcheroo | 10.00% | ~1,460 |
@@ -55,7 +55,7 @@ Rating: 4.65 (Ranked 321)
 | Shot in the Dark | 0.10% | ~15 |
 | Elite Racer | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,601 (Ranked 170)  
+Progressed: 14,605 (Ranked 170)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-30 | 13,937 | 0 |
 | 2023-12-31 | 14,268 | 0 |
 | 2024-01-01 | 14,544 | 0 |
-| 2024-01-02 | 14,601 | 0 |
+| 2024-01-02 | 14,605 | 0 |
 ## Awards
 Max (Diverse Characters): 56  (Ranked 434)  
 Sum: 355 (Ranked 365)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 143,
   "Ranking_EOS_NewPlayers": 36,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8697,9 +8697,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 751579,
+  "EOS_Progressed": 751608,
   "EOS_Completed": 12971,
-  "EOS_NewPlayers": 6873,
+  "EOS_NewPlayers": 6865,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.73,
   "EosHistory": [
@@ -31992,6 +31992,11 @@
       "Time": "2024-01-02T06:09:07.3492306+00:00",
       "NumProgressed": 751579,
       "NumCompleted": 12971
+    },
+    {
+      "Time": "2024-01-02T07:09:12.89944+00:00",
+      "NumProgressed": 751608,
+      "NumCompleted": 12971
     }
   ],
   "TotalAchievements": 60,
@@ -32003,7 +32008,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 37579
+      "UsersEstimate": 37580
     },
     {
       "ID": "02_Vengeance_H1",
@@ -32011,7 +32016,7 @@
       "Name": "The Assault",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30063
+      "UsersEstimate": 30064
     },
     {
       "ID": "03_Vengeance_H2",
@@ -32051,7 +32056,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 4509
+      "UsersEstimate": 4510
     },
     {
       "ID": "08_Wude_H2",
@@ -32179,7 +32184,7 @@
       "Name": "Life is your teacher",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 30063
+      "UsersEstimate": 30064
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -32267,7 +32272,7 @@
       "Name": "Lightning Hands",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30063
+      "UsersEstimate": 30064
     },
     {
       "ID": "35_WideStrike",
@@ -32355,7 +32360,7 @@
       "Name": "Bloody Sport",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -32482,21 +32487,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 60880,
+      "Progressed": 60909,
       "Completed": 10795
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 751579,
+      "Progressed": 751608,
       "Completed": 12971
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-02T06:02:59.8897047+00:00",
-  "LastChanged_Achievements": "2024-01-02T06:09:07.3492302+00:00",
+  "LastChanged_Achievements": "2024-01-02T07:09:12.8994397+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:26.4563062+00:00",
-  "LastUpdate_Ratings": "2024-01-02T06:02:59.8897053+00:00",
-  "LastUpdate_Achievements": "2024-01-02T06:09:07.3494053+00:00"
+  "LastUpdate_Ratings": "2024-01-02T07:03:01.0048003+00:00",
+  "LastUpdate_Achievements": "2024-01-02T07:09:12.8996276+00:00"
 }

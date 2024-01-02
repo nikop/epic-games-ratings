@@ -4,7 +4,7 @@
   "ProductSlug": "arons-adventure-1e76cd",
   "Ranking_EOS_Progress": 443,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 443,
+  "Ranking_EOS_NewPlayers": 455,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 155,
+  "EOS_Progressed": 156,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -614,6 +614,11 @@
       "Time": "2023-12-31T11:05:38.3021095+00:00",
       "NumProgressed": 155,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T07:05:30.1617201+00:00",
+      "NumProgressed": 156,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-25T20:03:47.3726007+00:00",
@@ -624,9 +629,9 @@
       "ID": "ADVENTURE",
       "SetID": "40o4f14",
       "Name": "Adventure awaits",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 100,
-      "UsersEstimate": 124
+      "UsersEstimate": 123
     },
     {
       "ID": "BARON",
@@ -634,7 +639,7 @@
       "Name": "Baron",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "CHAIR",
@@ -666,7 +671,7 @@
       "Name": "Disciple",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "DRAGON",
@@ -728,9 +733,9 @@
       "ID": "KING",
       "SetID": "40o4f14",
       "Name": "King",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "LIBERATOR",
@@ -784,9 +789,9 @@
       "ID": "MOIST",
       "SetID": "40o4f14",
       "Name": "Moist",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 97
     },
     {
       "ID": "MOUNTAINEER",
@@ -873,14 +878,14 @@
     {
       "ID": "40o4f14",
       "IsBase": true,
-      "Progressed": 155,
+      "Progressed": 156,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2024-01-02T06:05:23.2174582+00:00",
+  "LastChanged_Achievements": "2024-01-02T07:05:30.1617198+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:20.7743892+00:00",
-  "LastUpdate_Ratings": "2024-01-02T05:59:32.9121828+00:00",
-  "LastUpdate_Achievements": "2024-01-02T06:05:23.21748+00:00"
+  "LastUpdate_Ratings": "2024-01-02T06:59:36.3988202+00:00",
+  "LastUpdate_Achievements": "2024-01-02T07:05:30.1617584+00:00"
 }

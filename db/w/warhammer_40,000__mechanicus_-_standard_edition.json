@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 209,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -1050,9 +1050,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 231141,
+  "EOS_Progressed": 231144,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 656,
+  "EOS_NewPlayers": 657,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29210,6 +29210,11 @@
       "Time": "2024-01-02T06:09:55.9926329+00:00",
       "NumProgressed": 231141,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-02T07:10:01.5474+00:00",
+      "NumProgressed": 231144,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -29221,7 +29226,7 @@
       "Name": "This is only the beginning",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 46228
+      "UsersEstimate": 46229
     },
     {
       "ID": "ACH_BASE_10",
@@ -29301,7 +29306,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13868
+      "UsersEstimate": 13869
     },
     {
       "ID": "ACH_BASE_20",
@@ -29469,7 +29474,7 @@
       "Name": "Knowledge is power",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 30048
+      "UsersEstimate": 30049
     },
     {
       "ID": "ACH_BASE_8",
@@ -29492,7 +29497,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 231141,
+      "Progressed": 231144,
       "Completed": 5
     }
   ],
@@ -29500,8 +29505,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-12-28T22:58:51.4033804+00:00",
-  "LastChanged_Achievements": "2024-01-02T06:09:55.9926324+00:00",
+  "LastChanged_Achievements": "2024-01-02T07:10:01.5473997+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:45.3371168+00:00",
-  "LastUpdate_Ratings": "2024-01-02T06:00:17.059767+00:00",
-  "LastUpdate_Achievements": "2024-01-02T06:09:55.9927772+00:00"
+  "LastUpdate_Ratings": "2024-01-02T07:00:20.7388242+00:00",
+  "LastUpdate_Achievements": "2024-01-02T07:10:01.5475732+00:00"
 }
