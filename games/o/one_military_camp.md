@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 52.00% | ~138 |
-| The 4 Pillars | 49.00% | ~130 |
-| Capitalism | 20.00% | ~53 |
+| First Step | 52.00% | ~139 |
+| The 4 Pillars | 49.00% | ~131 |
+| Capitalism | 19.00% | ~51 |
 | There's something in those trees | 11.00% | ~29 |
 | Green Energy | 11.00% | ~29 |
 | Desert Power | 10.00% | ~27 |
@@ -23,9 +23,9 @@
 | Fuel Tycoon | 6.00% | ~16 |
 | Ammo Tycoon | 6.00% | ~16 |
 | Jantine: the Misfortunes of Evil | 5.00% | ~13 |
-| Overpopulation | 5.00% | ~13 |
-| Property Bro | 5.00% | ~13 |
 | Outdoor Decorator | 4.00% | ~11 |
+| Overpopulation | 4.00% | ~11 |
+| Property Bro | 4.00% | ~11 |
 | Medicine Tycoon | 4.00% | ~11 |
 | Tear Down the Wall! | 3.00% | ~8 |
 | Supersoldier | 3.00% | ~8 |
@@ -33,14 +33,14 @@
 | No News is Good News | 3.00% | ~8 |
 | Human Resources | 3.00% | ~8 |
 | Training Camp | 3.00% | ~8 |
-| Economist | 2.00% | ~5 |
-| Snowman | 2.00% | ~5 |
-| Reconquest | 2.00% | ~5 |
 | Winter Soldier | 2.00% | ~5 |
-| Researcher | 2.00% | ~5 |
+| Economist | 1.00% | ~3 |
 | Crisis Committee | 1.00% | ~3 |
+| Snowman | 1.00% | ~3 |
+| Reconquest | 1.00% | ~3 |
 | Against Adversity | 1.00% | ~3 |
-| Counter-espionage | 0.80% | ~2 |
+| Researcher | 1.00% | ~3 |
+| Counter-espionage | 0.70% | ~2 |
 | Conveyor Belt Madness | 0.40% | ~1 |
 | People's Hero | 0.40% | ~1 |
 | Attack of the Drones | 0.00% | ~0 |
@@ -49,7 +49,7 @@
 | First Victory | 0.00% | ~0 |
 | Sandbox Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 266 (Ranked 403)  
+Progressed: 267 (Ranked 403)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,4 +141,4 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-30 | 258 | 0 |
 | 2023-12-31 | 262 | 0 |
 | 2024-01-01 | 265 | 0 |
-| 2024-01-02 | 266 | 0 |
+| 2024-01-02 | 267 | 0 |

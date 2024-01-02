@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -5681,9 +5681,9 @@
       "ID": "MissionVictory_NoWP",
       "SetID": "3jha1np",
       "Name": "Exercise in Restraint",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 22
     },
     {
       "ID": "MissionVictory_Purgators",
@@ -5705,9 +5705,9 @@
       "ID": "NexusCompleted",
       "SetID": "3jha1np",
       "Name": "A Foul Creche",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 186
     },
     {
       "ID": "NotAMoteOfCorruption",
@@ -5895,8 +5895,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-01T18:03:40.84636+00:00",
-  "LastChanged_Achievements": "2024-01-02T13:08:44.937723+00:00",
+  "LastChanged_Achievements": "2024-01-02T14:06:47.1171127+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:30.5390055+00:00",
-  "LastUpdate_Ratings": "2024-01-02T13:06:47.3845852+00:00",
-  "LastUpdate_Achievements": "2024-01-02T13:08:44.9377913+00:00"
+  "LastUpdate_Ratings": "2024-01-02T14:04:00.3030943+00:00",
+  "LastUpdate_Achievements": "2024-01-02T14:06:47.1171829+00:00"
 }

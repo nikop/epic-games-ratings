@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 221,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 349,
-  "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2208,9 +2208,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16082,
+  "EOS_Progressed": 16084,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18798,6 +18798,11 @@
       "Time": "2024-01-02T13:13:50.2324927+00:00",
       "NumProgressed": 16082,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-02T14:11:28.1336179+00:00",
+      "NumProgressed": 16084,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -19145,7 +19150,7 @@
       "Name": "Ambitious",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_ANCIENT",
@@ -19193,7 +19198,7 @@
       "Name": "Brilliant",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_CAPABLE",
@@ -19233,7 +19238,7 @@
       "Name": "Enlightened",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_EXPLORER",
@@ -19257,7 +19262,7 @@
       "Name": "Glorious",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_GOOD",
@@ -19359,9 +19364,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_MASON",
       "SetID": "9201eeb",
       "Name": "Mason",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 129
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MIGHTY",
@@ -19473,7 +19478,7 @@
       "Name": "Warrior",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_WHITE_DEATH",
@@ -19505,7 +19510,7 @@
       "Name": "Developing Cities",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACHIEVEMENT_CULTURE_LEGENDARY",
@@ -19521,7 +19526,7 @@
       "Name": "Strong Cities",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACHIEVEMENT_DAMASCUS_VIA_RECTA_SOUK",
@@ -19543,9 +19548,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_ABLE",
       "SetID": "7l38kb8",
       "Name": "Able Difficulty",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 80
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_GLORIOUS",
@@ -20273,7 +20278,7 @@
       "Name": "Pyramids",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_VIA_RECTA_SOUK",
@@ -20329,7 +20334,7 @@
       "Name": "Learn to Play 1",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_2",
@@ -20593,7 +20598,7 @@
       "Name": "Judaism",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_MANICHAEISM",
@@ -20617,7 +20622,7 @@
       "Name": "Babylonian Paganism",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_CARTHAGE",
@@ -20639,9 +20644,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_GREECE",
       "SetID": "7l38kb8",
       "Name": "Greek Paganism",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 113
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_HITTITE",
@@ -20729,7 +20734,7 @@
       "Name": "Naming Landmarks",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_LEADERS",
@@ -21672,21 +21677,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16082,
+      "Progressed": 16084,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16082,
+      "Progressed": 16084,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-29T16:02:55.9624641+00:00",
-  "LastChanged_Achievements": "2024-01-02T13:13:50.2324925+00:00",
+  "LastChanged_Achievements": "2024-01-02T14:11:28.1336176+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:24.5452657+00:00",
-  "LastUpdate_Ratings": "2024-01-02T13:01:00.2690137+00:00",
-  "LastUpdate_Achievements": "2024-01-02T13:13:50.2335028+00:00"
+  "LastUpdate_Ratings": "2024-01-02T13:57:47.5120383+00:00",
+  "LastUpdate_Achievements": "2024-01-02T14:11:28.1346429+00:00"
 }

@@ -1,15 +1,15 @@
 # Prison Architect
 [Store](https://store.epicgames.com/en-US/p/prison-architect)  
 [View Rawdata](../../db/p/prison_architect.json)  
-Rating: 4.61 (Ranked 399)  
+Rating: 4.61 (Ranked 400)  
 Number of Ratings: 4,491  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~52,747 |
-| Get Busy Living | 16.00% | ~33,758 |
-| Samuel Norton | 9.00% | ~18,989 |
-| Spare The Rod | 4.00% | ~8,439 |
+| Stone Walls | 25.00% | ~52,751 |
+| Get Busy Living | 16.00% | ~33,761 |
+| Samuel Norton | 9.00% | ~18,990 |
+| Spare The Rod | 4.00% | ~8,440 |
 | Don't Put Me In The Dark | 3.00% | ~6,330 |
 | Wait and Hope | 3.00% | ~6,330 |
 | I May Have Found A Way Out Of Here | 3.00% | ~6,330 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~211 |
 | ... It's What You Can Prove | 0.10% | ~211 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,987 (Ranked 79)  
+Progressed: 211,005 (Ranked 79)  
 Completed: 12 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,16 +280,16 @@ Completed: 12 (0.01%) (Ranked 367)
 | 2023-12-30 | 209,993 | 12 |
 | 2023-12-31 | 210,404 | 12 |
 | 2024-01-01 | 210,809 | 12 |
-| 2024-01-02 | 210,987 | 12 |
+| 2024-01-02 | 211,005 | 12 |
 ## Awards
 Max (Great for Beginners): 622  (Ranked 201)  
-Sum: 4,775 (Ranked 151)  
-Diff (max vs sum): 50  
+Sum: 4,777 (Ranked 150)  
+Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 622 |
 | This game is Extremely Fun | 607 |
-| This game is Highly Recommended | 568 |
+| This game is Highly Recommended | 570 |
 | This game has Quickly Understood Controls | 560 |
 | This game is Relaxing | 556 |
 | This game has Diverse Characters | 523 |
@@ -645,4 +645,4 @@ Diff (max vs sum): 50
 | 2023-12-30 | 4.61 | - | 622 | 4,754 |
 | 2023-12-31 | 4.61 | - | 622 | 4,759 |
 | 2024-01-01 | 4.61 | - | 622 | 4,771 |
-| 2024-01-02 | 4.61 | - | 622 | 4,775 |
+| 2024-01-02 | 4.61 | - | 622 | 4,777 |

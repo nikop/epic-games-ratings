@@ -4,8 +4,8 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 377,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 369,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 506,
+  "EOS_Progressed": 507,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -1427,6 +1427,11 @@
       "Time": "2024-01-01T07:04:22.3051939+00:00",
       "NumProgressed": 506,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-02T14:06:14.5539864+00:00",
+      "NumProgressed": 507,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1447,7 +1452,7 @@
       "Name": "Kronos Island Explorer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "CHALLENGE_CLEAR_ISLAND2",
@@ -1511,7 +1516,7 @@
       "Name": "Big Encounter",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "FIRST_KODAMA_ELDER_TALK",
@@ -1527,7 +1532,7 @@
       "Name": "Hermit Koco Encounter",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "FIRST_METEOR_SHOWER",
@@ -1535,7 +1540,7 @@
       "Name": "Celestial Rain",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "FIRST_MINIBOSS_DEFEATED",
@@ -1543,7 +1548,7 @@
       "Name": "Unknown Threat",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -1559,7 +1564,7 @@
       "Name": "Superior Ranking",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -1567,7 +1572,7 @@
       "Name": "Ticket to Tranquility",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "GET_FISH_ALL",
@@ -1589,9 +1594,9 @@
       "ID": "MAIN_CLEAR_ISLAND1",
       "SetID": "apihg0e",
       "Name": "The Beginning",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 116
+      "UsersEstimate": 112
     },
     {
       "ID": "MAIN_CLEAR_ISLAND2",
@@ -1607,7 +1612,7 @@
       "Name": "Futile Resistance",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "MAIN_CLEAR_ISLAND4",
@@ -1631,7 +1636,7 @@
       "Name": "The Journey Begins",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -1693,9 +1698,9 @@
       "ID": "SKILL_ALL_OBTAINED",
       "SetID": "apihg0e",
       "Name": "Unrivaled Aptitude",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 35
     },
     {
       "ID": "SPEED_STATUS_REACH_NUM",
@@ -1758,14 +1763,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 506,
+      "Progressed": 507,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2024-01-02T13:08:21.7116137+00:00",
+  "LastChanged_Achievements": "2024-01-02T14:06:14.5539857+00:00",
   "LastUpdate_AppInfo": "2023-12-26T20:57:07.4525805+00:00",
-  "LastUpdate_Ratings": "2024-01-02T13:06:45.7330492+00:00",
-  "LastUpdate_Achievements": "2024-01-02T13:08:21.7116471+00:00"
+  "LastUpdate_Ratings": "2024-01-02T14:03:57.2328626+00:00",
+  "LastUpdate_Achievements": "2024-01-02T14:06:14.5540301+00:00"
 }

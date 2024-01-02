@@ -4,8 +4,8 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 407,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 255,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1321,9 +1321,9 @@
       "ID": "find_one_memento",
       "SetID": "f2im8d",
       "Name": "Scraps of love",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 122
     },
     {
       "ID": "find_one_photo",
@@ -1505,9 +1505,9 @@
       "ID": "something_important",
       "SetID": "f2im8d",
       "Name": "Something important",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 217
     },
     {
       "ID": "spy_one_item",
@@ -1592,8 +1592,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-02T13:12:20.065619+00:00",
+  "LastChanged_Achievements": "2024-01-02T14:09:26.4303957+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.7570027+00:00",
-  "LastUpdate_Ratings": "2024-01-02T13:01:43.0289705+00:00",
-  "LastUpdate_Achievements": "2024-01-02T13:12:20.0656573+00:00"
+  "LastUpdate_Ratings": "2024-01-02T13:58:50.3865142+00:00",
+  "LastUpdate_Achievements": "2024-01-02T14:09:26.4304471+00:00"
 }

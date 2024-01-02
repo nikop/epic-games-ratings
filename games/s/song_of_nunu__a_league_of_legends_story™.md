@@ -5,42 +5,42 @@ Rating: 4.52 (Ranked 573)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 74.00% | ~1,061 |
-| I Broke It | 73.00% | ~1,047 |
+| Feels Familiar | 74.00% | ~1,062 |
+| I Broke It | 73.00% | ~1,048 |
 | Better On Ice | 67.00% | ~961 |
-| Notai Notes | 66.00% | ~946 |
-| Blue Dreams | 65.00% | ~932 |
-| He's Famous! | 65.00% | ~932 |
+| Notai Notes | 66.00% | ~947 |
+| Blue Dreams | 65.00% | ~933 |
+| He's Famous! | 65.00% | ~933 |
 | Cutie Poro | 64.00% | ~918 |
-| Krugmazing | 63.00% | ~903 |
-| Moneyball | 60.00% | ~860 |
-| The Fire Below the Mountain | 60.00% | ~860 |
-| No Bites | 54.00% | ~774 |
-| Iceborn | 54.00% | ~774 |
+| Krugmazing | 63.00% | ~904 |
+| Moneyball | 60.00% | ~861 |
+| The Fire Below the Mountain | 60.00% | ~861 |
+| No Bites | 54.00% | ~775 |
+| Iceborn | 54.00% | ~775 |
 | Boom Things | 52.00% | ~746 |
-| Tear of Freedom | 51.00% | ~731 |
-| My Darkest Day | 48.00% | ~688 |
+| Tear of Freedom | 51.00% | ~732 |
+| My Darkest Day | 48.00% | ~689 |
 | Rhythm Of Willump | 46.00% | ~660 |
 | The Relentless Storm | 46.00% | ~660 |
 | A Tragic Reminder | 44.00% | ~631 |
 | 3000 Year Blackout | 44.00% | ~631 |
+| The Finisher | 42.00% | ~603 |
 | So Close | 41.00% | ~588 |
-| The Finisher | 41.00% | ~588 |
 | You Get Used To It | 40.00% | ~574 |
-| Family | 39.00% | ~559 |
-| Boosted! | 39.00% | ~559 |
+| Family | 39.00% | ~560 |
+| Boosted! | 39.00% | ~560 |
 | Biggest Snowball Ever | 38.00% | ~545 |
 | Freeze The Ice Witch | 38.00% | ~545 |
 | True Legends | 38.00% | ~545 |
 | Deadliest and Biggest Snowball Ever! | 38.00% | ~545 |
-| Bullseye | 36.00% | ~516 |
+| Bullseye | 36.00% | ~517 |
 | It Is Not Over | 35.00% | ~502 |
-| On The Rocks | 33.00% | ~473 |
+| On The Rocks | 33.00% | ~474 |
 | Snowy Poro | 32.00% | ~459 |
 | Never Gets Old | 31.00% | ~445 |
 | Vertical Power | 26.00% | ~373 |
-| One From The Heart | 13.00% | ~186 |
-| Yummy | 10.00% | ~143 |
+| One From The Heart | 13.00% | ~187 |
+| Yummy | 10.00% | ~144 |
 | Snowball Fightn't | 9.00% | ~129 |
 | It Was Him | 7.00% | ~100 |
 | Handy Yeti | 6.00% | ~86 |
@@ -50,7 +50,7 @@ Rating: 4.52 (Ranked 573)
 | We Are Speed | 2.00% | ~29 |
 | Sneaky Notai | 1.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,434 (Ranked 265)  
+Progressed: 1,435 (Ranked 265)  
 Completed: 9 (0.63%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 9 (0.63%) (Ranked 202)
 | 2023-12-30 | 1,398 | 9 |
 | 2023-12-31 | 1,414 | 9 |
 | 2024-01-01 | 1,425 | 9 |
-| 2024-01-02 | 1,434 | 9 |
+| 2024-01-02 | 1,435 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

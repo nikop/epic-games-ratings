@@ -6,7 +6,7 @@
   "Ranking_Popularity": 147,
   "Ranking_PopularitySum": 108,
   "Ranking_EOS_Progress": 172,
-  "Ranking_EOS_Completed": 126,
+  "Ranking_EOS_Completed": 127,
   "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 23,
   "Store": {
@@ -5635,11 +5635,17 @@
       "Rating": 4.76,
       "NumberOfAwards": 8327,
       "NumberOfAwardsMax": 1166
+    },
+    {
+      "Time": "2024-01-02T14:00:29.1973598+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 8330,
+      "NumberOfAwardsMax": 1169
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8327,
-  "NumberOfAwardsMax": 1166,
+  "NumberOfAwards": 8330,
+  "NumberOfAwardsMax": 1169,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -5652,7 +5658,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1166
+      "Count": 1169
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5709,9 +5715,9 @@
       "Count": 550
     }
   ],
-  "EOS_Progressed": 13620,
+  "EOS_Progressed": 13621,
   "EOS_Completed": 338,
-  "EOS_NewPlayers": 397,
+  "EOS_NewPlayers": 394,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 2.48,
   "EosHistory": [
@@ -23959,6 +23965,11 @@
       "Time": "2024-01-02T13:12:46.7655172+00:00",
       "NumProgressed": 13620,
       "NumCompleted": 338
+    },
+    {
+      "Time": "2024-01-02T14:10:02.6317989+00:00",
+      "NumProgressed": 13621,
+      "NumCompleted": 338
     }
   ],
   "TotalAchievements": 15,
@@ -24026,7 +24037,7 @@
       "Name": "Gardener",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 4222
+      "UsersEstimate": 4223
     },
     {
       "ID": "Generous",
@@ -24042,7 +24053,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 67,
       "XP": 75,
-      "UsersEstimate": 9125
+      "UsersEstimate": 9126
     },
     {
       "ID": "Miner",
@@ -24058,7 +24069,7 @@
       "Name": "Photographer",
       "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 9125
+      "UsersEstimate": 9126
     },
     {
       "ID": "Renovator",
@@ -24089,16 +24100,16 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 13620,
+      "Progressed": 13621,
       "Completed": 338
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2024-01-02T11:59:13.4014846+00:00",
-  "LastChanged_Achievements": "2024-01-02T13:12:46.765516+00:00",
+  "LastChanged": "2024-01-02T14:00:29.1973596+00:00",
+  "LastChanged_Achievements": "2024-01-02T14:10:02.6317985+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:02.6007727+00:00",
-  "LastUpdate_Ratings": "2024-01-02T13:02:49.3622394+00:00",
-  "LastUpdate_Achievements": "2024-01-02T13:12:46.7656098+00:00"
+  "LastUpdate_Ratings": "2024-01-02T14:00:29.1973602+00:00",
+  "LastUpdate_Achievements": "2024-01-02T14:10:02.6319012+00:00"
 }

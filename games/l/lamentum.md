@@ -14,8 +14,8 @@ Rating: 4.28 (Ranked 886)
 | Lord Clayton | 22.00% | ~75 |
 | The other side of the mirror | 16.00% | ~55 |
 | Little Mary | 15.00% | ~51 |
+| Ritual | 11.00% | ~38 |
 | There is freedom in awakening | 11.00% | ~38 |
-| Ritual | 10.00% | ~34 |
 | Cowardice | 9.00% | ~31 |
 | Bloodrush | 8.00% | ~27 |
 | True magic doesn't exist | 7.00% | ~24 |
@@ -23,10 +23,10 @@ Rating: 4.28 (Ranked 886)
 | Moon Cloudiness Sonata by Danloop | 5.00% | ~17 |
 | Redemption | 4.00% | ~14 |
 | Sacrifice | 3.00% | ~10 |
-| Lamentum | 2.00% | ~7 |
+| Lamentum | 3.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 341 (Ranked 378)  
-Completed: 8 (2.35%) (Ranked 131)  
+Completed: 9 (2.64%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -91,6 +91,7 @@ Completed: 8 (2.35%) (Ranked 131)
 | 2023-12-29 | 338 | 8 |
 | 2023-12-30 | 340 | 8 |
 | 2024-01-01 | 341 | 8 |
+| 2024-01-02 | 341 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

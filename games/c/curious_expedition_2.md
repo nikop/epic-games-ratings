@@ -7,25 +7,25 @@ Number of Ratings: 20  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Adventure Begins | 66.00% | ~259 |
-| Cartographer | 58.00% | ~227 |
+| Cartographer | 59.00% | ~232 |
 | A Strange Artefact | 54.00% | ~212 |
-| Insomnia | 51.00% | ~200 |
-| Lost & Found & Lost Again | 45.00% | ~176 |
-| From Whence we Came | 44.00% | ~172 |
+| Insomnia | 50.00% | ~196 |
+| Lost & Found & Lost Again | 45.00% | ~177 |
+| From Whence we Came | 44.00% | ~173 |
 | Fire and Flood | 42.00% | ~165 |
 | Spooky! | 39.00% | ~153 |
 | Shennong Herbalist | 36.00% | ~141 |
 | Treasure Hunt | 36.00% | ~141 |
-| Good Mama | 34.00% | ~133 |
-| O Captain My Captain | 33.00% | ~129 |
+| Good Mama | 34.00% | ~134 |
+| O Captain My Captain | 33.00% | ~130 |
 | Plunderer | 31.00% | ~122 |
-| Taxonomist | 29.00% | ~114 |
+| Taxonomist | 28.00% | ~110 |
 | Traveller | 26.00% | ~102 |
 | Uncertain Loyalties | 26.00% | ~102 |
 | Nahua Seeker | 24.00% | ~94 |
 | Roll to Save | 23.00% | ~90 |
 | Veteran Explorer | 22.00% | ~86 |
-| Red Flag Pirate | 20.00% | ~78 |
+| Red Flag Pirate | 20.00% | ~79 |
 | Iron Man | 17.00% | ~67 |
 | A Gentle Beast | 17.00% | ~67 |
 | Practical Palaeontology | 17.00% | ~67 |
@@ -34,10 +34,10 @@ Number of Ratings: 20  (23.09.2022)
 | For the Club! | 15.00% | ~59 |
 | Dapper | 15.00% | ~59 |
 | The New Director | 14.00% | ~55 |
-| Plays Well With Others | 14.00% | ~55 |
 | The Director is Dead | 13.00% | ~51 |
 | And Here Is Your Statue | 13.00% | ~51 |
 | Discovery | 13.00% | ~51 |
+| Plays Well With Others | 13.00% | ~51 |
 | Very Classy | 13.00% | ~51 |
 | Under the Table | 11.00% | ~43 |
 | It's Complicated | 11.00% | ~43 |
@@ -47,8 +47,8 @@ Number of Ratings: 20  (23.09.2022)
 | No Laughing Matter | 8.00% | ~31 |
 | The Great Library | 8.00% | ~31 |
 | Level Up | 8.00% | ~31 |
-| Zookeeper | 7.00% | ~27 |
-| The Workshop | 7.00% | ~27 |
+| Zookeeper | 7.00% | ~28 |
+| The Workshop | 7.00% | ~28 |
 | Islander Understanding | 6.00% | ~24 |
 | A Paris Sunset | 5.00% | ~20 |
 | The Director Perseveres | 5.00% | ~20 |
@@ -67,8 +67,8 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.80% | ~3 |
 | Now I've Seen It All | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 392 (Ranked 363)  
-Completed: 1 (0.26%) (Ranked 260)  
+Progressed: 393 (Ranked 361)  
+Completed: 1 (0.25%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -135,7 +135,7 @@ Completed: 1 (0.26%) (Ranked 260)
 | 2023-12-30 | 383 | 1 |
 | 2023-12-31 | 388 | 1 |
 | 2024-01-01 | 391 | 1 |
-| 2024-01-02 | 392 | 1 |
+| 2024-01-02 | 393 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

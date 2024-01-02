@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -51,9 +51,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1194,
+  "EOS_Progressed": 1195,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -3466,6 +3466,11 @@
       "Time": "2024-01-02T13:13:43.9602422+00:00",
       "NumProgressed": 1194,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-02T14:11:20.2893205+00:00",
+      "NumProgressed": 1195,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3557,7 +3562,7 @@
       "Name": "Cultivair Explorer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "EntresolChests1",
@@ -3581,7 +3586,7 @@
       "Name": "Factorywood Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "FairgroundsChests1",
@@ -3589,7 +3594,7 @@
       "Name": "Fairgrounds Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -3635,9 +3640,9 @@
       "ID": "GrindingTime1",
       "SetID": "a9e499d",
       "Name": "Rail Rat",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 382
+      "UsersEstimate": 394
     },
     {
       "ID": "HexlockGift",
@@ -3669,7 +3674,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "MapCompletion1",
@@ -3717,7 +3722,7 @@
       "Name": "Time Flies",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "ParryBoss",
@@ -3733,7 +3738,7 @@
       "Name": "No, Thanks!",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "PhaseDiveCounter",
@@ -3757,7 +3762,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "RewindDamage1",
@@ -3765,7 +3770,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "RewindParry",
@@ -3773,7 +3778,7 @@
       "Name": "Honest Mistake",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "ScrambotCompletion1",
@@ -3845,7 +3850,7 @@
       "Name": "Theater Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "TimewinderMultiKill1",
@@ -3853,7 +3858,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "WarwickDefeated",
@@ -3885,7 +3890,7 @@
       "Name": "The Brass Boss",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "Zarkon2Defeated",
@@ -3900,7 +3905,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1194,
+      "Progressed": 1195,
       "Completed": 6
     }
   ],
@@ -3908,8 +3913,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2024-01-02T13:13:43.9602419+00:00",
+  "LastChanged_Achievements": "2024-01-02T14:11:20.2893201+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:23.9308133+00:00",
-  "LastUpdate_Ratings": "2024-01-02T13:06:25.2345336+00:00",
-  "LastUpdate_Achievements": "2024-01-02T13:13:43.9603543+00:00"
+  "LastUpdate_Ratings": "2024-01-02T14:03:27.7767645+00:00",
+  "LastUpdate_Achievements": "2024-01-02T14:11:20.2893844+00:00"
 }

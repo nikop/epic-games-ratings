@@ -5,22 +5,22 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Home Sweet Home | 89.00% | ~97 |
-| Enough rooms to swing a cat | 81.00% | ~88 |
-| First to the post | 80.00% | ~87 |
-| A kind of Magic | 74.00% | ~81 |
-| Connected | 68.00% | ~74 |
-| Expansion | 62.00% | ~68 |
+| Enough rooms to swing a cat | 82.00% | ~89 |
+| First to the post | 81.00% | ~88 |
+| A kind of Magic | 75.00% | ~82 |
+| Connected | 69.00% | ~75 |
+| Expansion | 63.00% | ~69 |
+| Harvest Time | 58.00% | ~63 |
 | Mine! | 58.00% | ~63 |
-| Harvest Time | 57.00% | ~62 |
 | Artificer's Apprentice | 50.00% | ~54 |
 | Fly the friendly Sky | 46.00% | ~50 |
-| Get out of here! | 43.00% | ~47 |
-| Necromancer's Apprentice | 38.00% | ~41 |
+| Get out of here! | 44.00% | ~48 |
+| Necromancer's Apprentice | 39.00% | ~43 |
 | Alchemist's Apprentice | 37.00% | ~40 |
 | Friend of Lyraine | 37.00% | ~40 |
 | Redecorating | 34.00% | ~37 |
 | The Circle | 34.00% | ~37 |
-| Bad JuJu | 25.00% | ~27 |
+| Bad JuJu | 26.00% | ~28 |
 | Friend of Sevenkeeps | 24.00% | ~26 |
 | Slave to the rhythm | 23.00% | ~25 |
 | Castle Meldec | 22.00% | ~24 |
@@ -32,15 +32,15 @@
 | Break Free | 14.00% | ~15 |
 | Stormwatch Faste | 13.00% | ~14 |
 | Silver Drift Hollow Mine | 12.00% | ~13 |
+| A Master of Magic | 12.00% | ~13 |
 | Friend of Orgash | 12.00% | ~13 |
 | Friend of Bastion | 12.00% | ~13 |
+| Magic Academy | 12.00% | ~13 |
 | Philo's Tale | 11.00% | ~12 |
-| A Master of Magic | 11.00% | ~12 |
-| Magic Academy | 11.00% | ~12 |
 | Defeat Gor | 10.00% | ~11 |
+| Mage Teacher | 10.00% | ~11 |
 | Friend of Windholme | 10.00% | ~11 |
 | Yngrid's Tale | 9.00% | ~10 |
-| Mage Teacher | 9.00% | ~10 |
 | A Joke | 9.00% | ~10 |
 | Friend of Uram Gor | 8.00% | ~9 |
 | Defeat Hokan | 7.00% | ~8 |
@@ -48,6 +48,7 @@
 | Defeat Uram | 7.00% | ~8 |
 | The Forge of Regan Gor | 7.00% | ~8 |
 | A Monopoly of Might | 7.00% | ~8 |
+| Balanced | 7.00% | ~8 |
 | Get to the Airship! | 6.00% | ~7 |
 | Defeat Ianna | 6.00% | ~7 |
 | Defeat Undergast | 6.00% | ~7 |
@@ -58,16 +59,15 @@
 | Fireforge | 6.00% | ~7 |
 | Master Artificer | 6.00% | ~7 |
 | Heroes | 6.00% | ~7 |
-| Balanced | 6.00% | ~7 |
+| Master Necromancer | 6.00% | ~7 |
 | Friend of Grey Dusk Vale | 6.00% | ~7 |
 | Defeat Isgrimm | 5.00% | ~5 |
 | Defeat Yria | 5.00% | ~5 |
 | Lytra's Tale | 5.00% | ~5 |
-| Master Necromancer | 5.00% | ~5 |
+| My Friends! | 5.00% | ~5 |
 | Misty Coast Dragonbones | 4.00% | ~4 |
 | Master Alchemist | 4.00% | ~4 |
 | Breaking the circle | 4.00% | ~4 |
-| My Friends! | 4.00% | ~4 |
 | Defeat Rohen | 3.00% | ~3 |
 | Hard Life | 2.00% | ~2 |
 | Impossible Mission | 2.00% | ~2 |

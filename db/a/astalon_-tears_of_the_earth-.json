@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 506,
   "Ranking_EOS_Completed": 95,
   "Ranking_EOS_NewPlayers": 452,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-04-01T00:00:00+00:00",
     "PcReleaseDate": "2022-04-01T00:00:00+00:00",
@@ -302,9 +302,9 @@
       "ID": "Complete_Bestiary_100",
       "SetID": "4f0g260",
       "Name": "Destoy all monsters!",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Complete_Bestiary_20",
@@ -447,8 +447,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6585967+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.3708214+00:00",
   "LastChanged": "2023-03-31T05:57:06.6585968+00:00",
-  "LastChanged_Achievements": "2024-01-02T13:07:07.6305246+00:00",
+  "LastChanged_Achievements": "2024-01-02T14:04:30.7323692+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:11.1356612+00:00",
-  "LastUpdate_Ratings": "2024-01-02T13:03:08.1610271+00:00",
-  "LastUpdate_Achievements": "2024-01-02T13:07:07.6305401+00:00"
+  "LastUpdate_Ratings": "2024-01-02T14:00:55.905892+00:00",
+  "LastUpdate_Achievements": "2024-01-02T14:04:30.7324043+00:00"
 }

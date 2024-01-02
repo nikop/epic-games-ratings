@@ -3,12 +3,12 @@
   "Name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
   "ProductSlug": "spongebob-squarepants-battle-for-bikini-bottom-rehydrated",
   "Ranking_Rating": 321,
-  "Ranking_Popularity": 493,
+  "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 178,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -329,9 +329,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 646,
+  "EOS_Progressed": 647,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 246,
+  "EOS_NewPlayers": 245,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
@@ -1754,6 +1754,11 @@
       "Time": "2024-01-02T13:07:22.8581527+00:00",
       "NumProgressed": 646,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-02T14:04:51.6860758+00:00",
+      "NumProgressed": 647,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1796,9 +1801,9 @@
       "ID": "ACH_DONT_EAT_THE_SAND",
       "SetID": "biiejkc",
       "Name": "Life\u0027s as extreme as you wanna make it!",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_DOWN_TOWN",
@@ -1844,9 +1849,9 @@
       "ID": "ACH_JELLYFISH_JAM",
       "SetID": "biiejkc",
       "Name": "Jellyfish Jam",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH_KELP_FOREST",
@@ -1900,9 +1905,9 @@
       "ID": "ACH_ROCK_BOTTOM",
       "SetID": "biiejkc",
       "Name": "Hit Rock Bottom",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_SLEEPY_TIME",
@@ -2021,15 +2026,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 646,
+      "Progressed": 647,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-01T20:58:26.8279253+00:00",
-  "LastChanged_Achievements": "2024-01-02T13:07:22.8581523+00:00",
+  "LastChanged_Achievements": "2024-01-02T14:04:51.686075+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:11.8880921+00:00",
-  "LastUpdate_Ratings": "2024-01-02T13:02:23.389721+00:00",
-  "LastUpdate_Achievements": "2024-01-02T13:07:22.8581735+00:00"
+  "LastUpdate_Ratings": "2024-01-02T13:59:51.2731627+00:00",
+  "LastUpdate_Achievements": "2024-01-02T14:04:51.6861031+00:00"
 }

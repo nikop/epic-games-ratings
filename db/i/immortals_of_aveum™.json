@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -385,9 +385,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2506,
+  "EOS_Progressed": 2507,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 573,
+  "EOS_NewPlayers": 569,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4110,6 +4110,11 @@
       "Time": "2024-01-02T13:13:30.7044776+00:00",
       "NumProgressed": 2506,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-02T14:11:02.8020229+00:00",
+      "NumProgressed": 2507,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -4122,7 +4127,7 @@
       "Name": "Unforeseen",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 2205
+      "UsersEstimate": 2206
     },
     {
       "ID": "achievement_10",
@@ -4202,7 +4207,7 @@
       "Name": "Socialite",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "achievement_2",
@@ -4210,7 +4215,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 2030
+      "UsersEstimate": 2031
     },
     {
       "ID": "achievement_20",
@@ -4266,7 +4271,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1729
+      "UsersEstimate": 1730
     },
     {
       "ID": "achievement_36",
@@ -4298,7 +4303,7 @@
       "Name": "No More Names",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "achievement_41",
@@ -4354,7 +4359,7 @@
       "Name": "Enlisted",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 1854
+      "UsersEstimate": 1855
     },
     {
       "ID": "achievement_49",
@@ -4362,7 +4367,7 @@
       "Name": "Soldier",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "achievement_5",
@@ -4370,7 +4375,7 @@
       "Name": "Initiate",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "achievement_50",
@@ -4482,7 +4487,7 @@
       "Name": "All the Major Food Groups",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "achievement_9",
@@ -4497,7 +4502,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 2506,
+      "Progressed": 2507,
       "Completed": 2
     }
   ],
@@ -4505,8 +4510,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-02T02:58:05.5734129+00:00",
-  "LastChanged_Achievements": "2024-01-02T13:13:30.7044772+00:00",
+  "LastChanged_Achievements": "2024-01-02T14:11:02.8020223+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.4007279+00:00",
-  "LastUpdate_Ratings": "2024-01-02T13:01:54.7726239+00:00",
-  "LastUpdate_Achievements": "2024-01-02T13:13:30.7045281+00:00"
+  "LastUpdate_Ratings": "2024-01-02T13:59:05.767389+00:00",
+  "LastUpdate_Achievements": "2024-01-02T14:11:02.8020994+00:00"
 }

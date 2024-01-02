@@ -24,7 +24,7 @@
 | God of the Tower! | 23.00% | ~19 |
 | Wizard Mastery | 17.00% | ~14 |
 | Rogue Mastery | 15.00% | ~12 |
-| Destoy all monsters! | 14.00% | ~11 |
+| Destoy all monsters! | 15.00% | ~12 |
 | Slay the Monster! | 14.00% | ~11 |
 | Fighter Mastery | 12.00% | ~10 |
 | Gorgonslayer Mastery | 10.00% | ~8 |

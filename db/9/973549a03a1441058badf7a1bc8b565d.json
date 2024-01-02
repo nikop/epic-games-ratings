@@ -4,8 +4,8 @@
   "ProductSlug": "knight-vs-giant-the-broken-excalibur-230c5c",
   "Ranking_EOS_Progress": 654,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 476,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 475,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-10-05T16:00:00+00:00",
     "PcReleaseDate": "2023-10-05T16:00:00+00:00",
@@ -209,9 +209,9 @@
       "ID": "NEW_ACHIEVEMENT_1_22",
       "SetID": "4mjb15",
       "Name": "Gawain, the Green Gallant",
-      "Percentage": 36,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_23",
@@ -296,8 +296,8 @@
   ],
   "FirstSeen": "2023-10-07T12:03:46.8255851+00:00",
   "FirstSeenAchievements": "2023-09-15T05:04:55.0336993+00:00",
-  "LastChanged_Achievements": "2024-01-02T13:13:38.6715465+00:00",
+  "LastChanged_Achievements": "2024-01-02T14:11:13.742843+00:00",
   "LastUpdate_AppInfo": "2023-12-29T21:57:13.1618378+00:00",
-  "LastUpdate_Ratings": "2024-01-02T13:01:43.3124224+00:00",
-  "LastUpdate_Achievements": "2024-01-02T13:13:38.6715595+00:00"
+  "LastUpdate_Ratings": "2024-01-02T13:58:50.7579214+00:00",
+  "LastUpdate_Achievements": "2024-01-02T14:11:13.7428639+00:00"
 }

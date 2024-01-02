@@ -5,16 +5,16 @@ Rating: 4.65 (Ranked 321)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 43.00% | ~513 |
+| Time Heals All Wounds | 43.00% | ~514 |
+| Rail Rat | 33.00% | ~394 |
 | The Mysterious Stranger | 32.00% | ~382 |
-| Rail Rat | 32.00% | ~382 |
-| Immaculate Aim | 27.00% | ~322 |
-| The Brass Boss | 26.00% | ~310 |
-| Make Up For Lost Time | 25.00% | ~298 |
-| Time Flies | 25.00% | ~298 |
-| No, Thanks! | 25.00% | ~298 |
-| The Prince in Heels | 25.00% | ~298 |
-| Honest Mistake | 25.00% | ~298 |
+| Immaculate Aim | 27.00% | ~323 |
+| The Brass Boss | 26.00% | ~311 |
+| Make Up For Lost Time | 25.00% | ~299 |
+| Time Flies | 25.00% | ~299 |
+| No, Thanks! | 25.00% | ~299 |
+| The Prince in Heels | 25.00% | ~299 |
+| Honest Mistake | 25.00% | ~299 |
 | The Harder They Fall | 24.00% | ~287 |
 | Fast Learner | 24.00% | ~287 |
 | Immaculate Aim | 24.00% | ~287 |
@@ -39,10 +39,10 @@ Rating: 4.65 (Ranked 321)
 | Treasure Trove | 12.00% | ~143 |
 | Syron for Hope | 12.00% | ~143 |
 | Sump Explorer | 11.00% | ~131 |
-| Factorywood Explorer | 10.00% | ~119 |
-| Fairgrounds Explorer | 10.00% | ~119 |
-| Theater Explorer | 10.00% | ~119 |
-| Cultivair Explorer | 9.00% | ~107 |
+| Factorywood Explorer | 10.00% | ~120 |
+| Fairgrounds Explorer | 10.00% | ~120 |
+| Theater Explorer | 10.00% | ~120 |
+| Cultivair Explorer | 9.00% | ~108 |
 | Corin Goes Home | 8.00% | ~96 |
 | Entresol Explorer | 8.00% | ~96 |
 | Sartorialist | 7.00% | ~84 |
@@ -59,7 +59,7 @@ Rating: 4.65 (Ranked 321)
 | Raw Talent | 0.60% | ~7 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,194 (Ranked 281)  
+Progressed: 1,195 (Ranked 281)  
 Completed: 6 (0.50%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 6 (0.50%) (Ranked 218)
 | 2023-12-30 | 1,165 | 6 |
 | 2023-12-31 | 1,175 | 6 |
 | 2024-01-01 | 1,190 | 6 |
-| 2024-01-02 | 1,194 | 6 |
+| 2024-01-02 | 1,195 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

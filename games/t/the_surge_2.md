@@ -51,9 +51,9 @@ Rating: 4.27 (Ranked 895)
 | Shrimp Cocktail | 5.00% | ~122 |
 | Juiced Up | 5.00% | ~122 |
 | Geronimo! | 4.00% | ~98 |
+| Homewrecker | 4.00% | ~98 |
 | Plank of Wood | 4.00% | ~98 |
 | Gotta Craft 'em All | 3.00% | ~73 |
-| Homewrecker | 3.00% | ~73 |
 | Own Medicine | 2.00% | ~49 |
 | It Lives! It Sniffs! It Conquers! | 2.00% | ~49 |
 | Box Office Smash | 2.00% | ~49 |

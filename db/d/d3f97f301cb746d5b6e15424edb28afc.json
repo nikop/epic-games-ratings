@@ -6,9 +6,9 @@
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 262,
-  "Ranking_EOS_Completed": 320,
+  "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -4509,9 +4509,9 @@
       "ID": "GSS_ACH_28_PAINT_02",
       "SetID": "5fn8ia4",
       "Name": "On the Roll",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1269
     },
     {
       "ID": "GSS_ACH_29_PAINT_03",
@@ -4765,9 +4765,9 @@
       "ID": "GSS_ACH_60_UPGRADE_WAREHOUSE_05",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Lvl. 5",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 336
+      "UsersEstimate": 352
     },
     {
       "ID": "GSS_ACH_61_POPULARITY_01",
@@ -4958,8 +4958,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-01T13:58:04.4800406+00:00",
-  "LastChanged_Achievements": "2024-01-02T13:09:14.654117+00:00",
+  "LastChanged_Achievements": "2024-01-02T14:07:28.114053+00:00",
   "LastUpdate_AppInfo": "2024-01-01T19:57:12.6980533+00:00",
-  "LastUpdate_Ratings": "2024-01-02T13:01:56.3392773+00:00",
-  "LastUpdate_Achievements": "2024-01-02T13:09:14.6542216+00:00"
+  "LastUpdate_Ratings": "2024-01-02T13:59:08.161054+00:00",
+  "LastUpdate_Achievements": "2024-01-02T14:07:28.1141852+00:00"
 }

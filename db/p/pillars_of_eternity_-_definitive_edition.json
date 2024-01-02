@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 3794,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2020-12-10T16:00:00+00:00",
     "PcReleaseDate": "2015-03-26T16:00:00+00:00",
@@ -3555,9 +3555,9 @@
       "Count": 190
     }
   ],
-  "EOS_Progressed": 1081,
+  "EOS_Progressed": 1080,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": -1,
+  "EOS_NewPlayers": -2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -3930,6 +3930,11 @@
       "Time": "2024-01-02T13:07:20.3713837+00:00",
       "NumProgressed": 1081,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-02T14:04:48.2795148+00:00",
+      "NumProgressed": 1080,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -4085,7 +4090,7 @@
       "Name": "The Heir of Caed Nua",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 140
     },
     {
       "ID": "achievement_20",
@@ -4149,7 +4154,7 @@
       "Name": "Make an Adventurer",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 248
     },
     {
       "ID": "achievement_28",
@@ -4221,7 +4226,7 @@
       "Name": "Kickstarter Backer",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 897
+      "UsersEstimate": 896
     },
     {
       "ID": "achievement_37",
@@ -4324,15 +4329,15 @@
     {
       "ID": "70p237j",
       "IsBase": true,
-      "Progressed": 1081,
+      "Progressed": 1080,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:26:19.0250263+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.7524763+00:00",
   "LastChanged": "2024-01-02T11:58:11.9360338+00:00",
-  "LastChanged_Achievements": "2024-01-02T13:07:20.3713833+00:00",
+  "LastChanged_Achievements": "2024-01-02T14:04:48.2795143+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:47.9932878+00:00",
-  "LastUpdate_Ratings": "2024-01-02T13:01:52.2929571+00:00",
-  "LastUpdate_Achievements": "2024-01-02T13:07:20.3714137+00:00"
+  "LastUpdate_Ratings": "2024-01-02T13:59:02.7840055+00:00",
+  "LastUpdate_Achievements": "2024-01-02T14:04:48.2795528+00:00"
 }

@@ -8,8 +8,8 @@ Number of Ratings: 292  (23.09.2022)
 | ---- | ---------- | ----- |
 | Adept | 46.00% | ~429 |
 | Double Kill | 39.00% | ~364 |
+| Veteran | 22.00% | ~205 |
 | Critical Hit | 21.00% | ~196 |
-| Veteran | 21.00% | ~196 |
 | Dressed For Success | 15.00% | ~140 |
 | Humiliation | 9.00% | ~84 |
 | Veni, Vidi, Vici | 9.00% | ~84 |
@@ -33,7 +33,7 @@ Number of Ratings: 292  (23.09.2022)
 | Together For Her | 1.00% | ~9 |
 | Such A Fungi | 1.00% | ~9 |
 | Grand Master | 1.00% | ~9 |
-| In The Thick of It | 0.80% | ~7 |
+| In The Thick of It | 0.90% | ~8 |
 | Unlimited Power! | 0.50% | ~5 |
 | Get Over Here! | 0.50% | ~5 |
 | Death To Diplomacy | 0.40% | ~4 |

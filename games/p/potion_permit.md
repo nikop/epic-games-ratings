@@ -5,23 +5,23 @@ Rating: 3.85 (Ranked 1,064)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,821 |
-| The First Step | 87.00% | ~1,616 |
+| Welcome to Moonbury | 98.00% | ~1,822 |
+| The First Step | 87.00% | ~1,617 |
 | Moonbury Traveller | 63.00% | ~1,171 |
 | Rookie Chemist | 60.00% | ~1,115 |
-| Great Doctor | 50.00% | ~929 |
-| Dog Whisperer | 48.00% | ~892 |
+| Great Doctor | 50.00% | ~930 |
+| Dog Whisperer | 47.00% | ~874 |
 | Friendly | 46.00% | ~855 |
 | K.O.! | 43.00% | ~799 |
 | The Capitalist | 43.00% | ~799 |
 | Intermediate Chemist | 39.00% | ~725 |
 | Decorative Mind | 33.00% | ~613 |
 | Lumber Specialist | 31.00% | ~576 |
-| Kind-hearted | 25.00% | ~464 |
-| Catch of the Day | 25.00% | ~464 |
+| Kind-hearted | 25.00% | ~465 |
+| Catch of the Day | 25.00% | ~465 |
 | Amateur Chef | 22.00% | ~409 |
 | Fishing Guru | 20.00% | ~372 |
-| Spark of Love | 18.00% | ~334 |
+| Spark of Love | 18.00% | ~335 |
 | Community Helper | 17.00% | ~316 |
 | Expert Chemist | 14.00% | ~260 |
 | Stone Specialist | 14.00% | ~260 |
@@ -32,8 +32,8 @@ Rating: 3.85 (Ranked 1,064)
 | Good Samaritan | 10.00% | ~186 |
 | Acrobatic Adventurer | 9.00% | ~167 |
 | Animal Exterminator | 9.00% | ~167 |
-| Adolescent Love | 6.00% | ~111 |
-| Mail Carrier | 6.00% | ~111 |
+| Adolescent Love | 6.00% | ~112 |
+| Mail Carrier | 6.00% | ~112 |
 | Plantation Exterminator | 5.00% | ~93 |
 | Sous Chef | 4.00% | ~74 |
 | Grape Supplier | 4.00% | ~74 |
@@ -44,7 +44,7 @@ Rating: 3.85 (Ranked 1,064)
 | Moonbury Navigator | 1.00% | ~19 |
 | Being a donut... | 0.70% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,858 (Ranked 250)  
+Progressed: 1,859 (Ranked 250)  
 Completed: 11 (0.59%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 11 (0.59%) (Ranked 206)
 | 2023-12-30 | 1,839 | 11 |
 | 2023-12-31 | 1,844 | 11 |
 | 2024-01-01 | 1,851 | 11 |
-| 2024-01-02 | 1,858 | 11 |
+| 2024-01-02 | 1,859 | 11 |
 ## Awards
 Max (Character Customization): 70  (Ranked 416)  
 Sum: 70 (Ranked 487)  

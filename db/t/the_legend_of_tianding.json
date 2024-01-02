@@ -3,9 +3,9 @@
   "Name": "The Legend of Tianding",
   "ProductSlug": "the-legend-of-tianding",
   "Ranking_EOS_Progress": 525,
-  "Ranking_EOS_Completed": 64,
-  "Ranking_EOS_NewPlayers": 368,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_Completed": 65,
+  "Ranking_EOS_NewPlayers": 369,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-11-02T01:00:00+00:00",
     "PcReleaseDate": "2021-11-02T01:00:00+00:00",
@@ -415,9 +415,9 @@
       "ID": "BeatBossWang",
       "SetID": "123m9l1",
       "Name": "Eat the Rich",
-      "Percentage": 59,
+      "Percentage": 61,
       "XP": 100,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "BigEater",
@@ -592,8 +592,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2024-01-02T13:09:27.7942483+00:00",
+  "LastChanged_Achievements": "2024-01-02T14:07:46.3278705+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:12.5249807+00:00",
-  "LastUpdate_Ratings": "2024-01-02T13:01:38.9586906+00:00",
-  "LastUpdate_Achievements": "2024-01-02T13:09:27.7942652+00:00"
+  "LastUpdate_Ratings": "2024-01-02T13:58:45.4839004+00:00",
+  "LastUpdate_Achievements": "2024-01-02T14:07:46.3278848+00:00"
 }

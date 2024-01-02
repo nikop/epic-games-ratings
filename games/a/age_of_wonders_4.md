@@ -5,10 +5,10 @@ Rating: 4.62 (Ranked 375)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 13.00% | ~872 |
-| Realm Estate | 12.00% | ~805 |
-| A Wonderful Discovery | 11.00% | ~738 |
-| Walls Cannot Stop Us | 11.00% | ~738 |
+| Secret Technique | 13.00% | ~873 |
+| Realm Estate | 12.00% | ~806 |
+| A Wonderful Discovery | 11.00% | ~739 |
+| Walls Cannot Stop Us | 11.00% | ~739 |
 | From Friends to Family | 9.00% | ~604 |
 | Bone Peddler | 8.00% | ~537 |
 | Magical Synergy | 7.00% | ~470 |
@@ -20,8 +20,8 @@ Rating: 4.62 (Ranked 375)
 | In a Liege of Your Own | 5.00% | ~336 |
 | Intimidation Tactics | 5.00% | ~336 |
 | But this one is mine | 5.00% | ~336 |
-| Return of the Wizard King | 4.00% | ~268 |
-| My Final Form | 4.00% | ~268 |
+| Return of the Wizard King | 4.00% | ~269 |
+| My Final Form | 4.00% | ~269 |
 | Enchanted Archipelago | 3.00% | ~201 |
 | Digging for Treasure | 3.00% | ~201 |
 | Preparation Is Everything | 3.00% | ~201 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 375)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,711 (Ranked 196)  
+Progressed: 6,716 (Ranked 195)  
 Completed: 7 (0.10%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,20 +291,20 @@ Completed: 7 (0.10%) (Ranked 304)
 | 2023-12-30 | 6,566 | 7 |
 | 2023-12-31 | 6,624 | 7 |
 | 2024-01-01 | 6,687 | 7 |
-| 2024-01-02 | 6,711 | 7 |
+| 2024-01-02 | 6,716 | 7 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 477)  
-Sum: 205 (Ranked 411)  
-Diff (max vs sum): 66  
+Sum: 206 (Ranked 409)  
+Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 40 |
 | This game has Diverse Characters | 38 |
 | This game is Extremely Fun | 25 |
 | This game is Highly Recommended | 22 |
+| This game has Quickly Understood Controls | 21 |
 | This game has Amazing Storytelling | 20 |
 | This game has Challenging Combat | 20 |
-| This game has Quickly Understood Controls | 20 |
 | This game has Beautiful Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -390,4 +390,4 @@ Diff (max vs sum): 66
 | 2023-12-30 | 4.63 | 39 | 163 |
 | 2023-12-31 | 4.63 | 39 | 184 |
 | 2024-01-01 | 4.62 | 39 | 184 |
-| 2024-01-02 | 4.62 | 40 | 205 |
+| 2024-01-02 | 4.62 | 40 | 206 |

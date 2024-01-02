@@ -11,17 +11,17 @@ Rating: 4.54 (Ranked 543)
 | Bosmang | 12.00% | ~2,166 |
 | Celebrations are in Order | 12.00% | ~2,166 |
 | Impossible Objects | 12.00% | ~2,166 |
-| The Pit and the Pirates | 11.00% | ~1,985 |
-| Drone Dodger | 11.00% | ~1,985 |
+| The Pit and the Pirates | 11.00% | ~1,986 |
+| Drone Dodger | 11.00% | ~1,986 |
 | Stogie for Fogey | 10.00% | ~1,805 |
 | Spore Taste | 10.00% | ~1,805 |
 | Safe Cracker | 9.00% | ~360 |
 | Zen Master | 9.00% | ~360 |
 | Call it Even | 8.00% | ~1,444 |
 | Madame Undersecretary | 8.00% | ~320 |
-| Data Archivist | 7.00% | ~1,263 |
-| Drug Gifter | 7.00% | ~1,263 |
-| Heal Thy Medic | 7.00% | ~1,263 |
+| Data Archivist | 7.00% | ~1,264 |
+| Drug Gifter | 7.00% | ~1,264 |
+| Heal Thy Medic | 7.00% | ~1,264 |
 | Keep Arjun in Check | 7.00% | ~280 |
 | Thorston Mayer | 6.00% | ~1,083 |
 | Khan's Revenge | 6.00% | ~1,083 |
@@ -30,7 +30,7 @@ Rating: 4.54 (Ranked 543)
 | Bottoms up! | 5.00% | ~902 |
 | Data Logger | 4.00% | ~722 |
 | Miraculous Maya | 4.00% | ~722 |
-| Data Master | 3.00% | ~541 |
+| Data Master | 3.00% | ~542 |
 | Brother's Reaper | 2.00% | ~361 |
 | No Belter Left Behind | 2.00% | ~361 |
 | Debris Spree | 2.00% | ~361 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 543)
 | Scavenger Star | 0.30% | ~54 |
 | Data Collector | 0.20% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,047 (Ranked 156)  
+Progressed: 18,050 (Ranked 156)  
 Completed: 58 (0.32%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 58 (0.32%) (Ranked 246)
 | 2023-12-30 | 17,838 | 57 |
 | 2023-12-31 | 17,926 | 58 |
 | 2024-01-01 | 18,013 | 58 |
-| 2024-01-02 | 18,047 | 58 |
+| 2024-01-02 | 18,050 | 58 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

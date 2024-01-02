@@ -6,14 +6,14 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~7,491 |
+| A Brief Tour of the Realms | 3.00% | ~7,492 |
 | Beast Intentions | 1.00% | ~2,497 |
 | The Cursed Farmer | 1.00% | ~2,497 |
-| The Mad Wizard | 0.90% | ~2,247 |
+| The Mad Wizard | 0.90% | ~2,248 |
 | Welcome to Sigil | 0.80% | ~1,728 |
 | The Ring of Regeneration | 0.60% | ~1,498 |
 | Fast Food | 0.60% | ~1,296 |
-| Are Ya Chicken? | 0.50% | ~1,248 |
+| Are Ya Chicken? | 0.50% | ~1,249 |
 | The Overgrown Grove | 0.50% | ~1,080 |
 | Mental Gymnastics | 0.50% | ~1,080 |
 | Were-verpowered | 0.40% | ~999 |
@@ -27,6 +27,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Maddening | 0.30% | ~749 |
 | A Persistent Buzzing | 0.30% | ~749 |
 | Terror in the Dark | 0.30% | ~749 |
+| Unearthed Evil | 0.30% | ~749 |
 | The Crumbling Temple | 0.30% | ~749 |
 | Pure Energy | 0.30% | ~749 |
 | Arcane Suppression | 0.30% | ~648 |
@@ -38,7 +39,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Mysterious Summons | 0.20% | ~499 |
 | Building Trust | 0.20% | ~499 |
 | March of the Undead | 0.20% | ~499 |
-| Unearthed Evil | 0.20% | ~499 |
 | No Time To Rest | 0.20% | ~499 |
 | Useless Allies | 0.20% | ~499 |
 | Exploring Port Nyanzaru | 0.20% | ~499 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~216 |
 | The Brains of an Illithid's Desire | 0.10% | ~216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,696 (Ranked 70)  
+Progressed: 249,729 (Ranked 70)  
 Completed: 2,585 (1.04%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -810,7 +810,7 @@ Completed: 2,585 (1.04%) (Ranked 169)
 | 2023-12-30 | 247,917 | 2,578 |
 | 2023-12-31 | 248,665 | 2,581 |
 | 2024-01-01 | 249,335 | 2,583 |
-| 2024-01-02 | 249,696 | 2,585 |
+| 2024-01-02 | 249,729 | 2,585 |
 ## Awards
 Max (Great for Beginners): 5,730  (Ranked 71)  
 Sum: 33,253 (Ranked 41)  

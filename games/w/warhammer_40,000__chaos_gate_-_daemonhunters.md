@@ -16,11 +16,11 @@ Number of Ratings: 371  (23.09.2022)
 | Bloodless | 7.00% | ~260 |
 | Friendly Fire | 6.00% | ~223 |
 | Surgical Excision | 5.00% | ~186 |
+| A Foul Creche | 5.00% | ~186 |
 | Honoured Battle-Brother | 4.00% | ~149 |
 | The Emperor Protects | 4.00% | ~149 |
 | Nemesis Master | 4.00% | ~149 |
 | Gunmaster | 4.00% | ~149 |
-| A Foul Creche | 4.00% | ~149 |
 | Hold Your Ground | 3.00% | ~111 |
 | Just a Scratch | 3.00% | ~111 |
 | Daemonkeeper | 2.00% | ~74 |
@@ -45,8 +45,8 @@ Number of Ratings: 371  (23.09.2022)
 | Harvest No More | 0.80% | ~30 |
 | Hands-On Research | 0.70% | ~26 |
 | Strike Force | 0.60% | ~22 |
+| Exercise in Restraint | 0.60% | ~22 |
 | True Mastery | 0.60% | ~22 |
-| Exercise in Restraint | 0.50% | ~19 |
 | Reign of Confusion | 0.40% | ~15 |
 | Suffer Not the Mutant | 0.40% | ~15 |
 | Blood and Iron | 0.30% | ~11 |

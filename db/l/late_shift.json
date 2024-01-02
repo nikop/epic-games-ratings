@@ -4,7 +4,7 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 921,
+  "EOS_Progressed": 922,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 1.19,
   "EosHistory": [
@@ -2530,6 +2530,11 @@
       "Time": "2024-01-02T13:13:11.5209825+00:00",
       "NumProgressed": 921,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-02T14:10:35.8779329+00:00",
+      "NumProgressed": 922,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 20,
@@ -2541,7 +2546,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 875
+      "UsersEstimate": 876
     },
     {
       "ID": "CHOICES_MATTER",
@@ -2589,7 +2594,7 @@
       "Name": "The Delivery",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "ENDING_6",
@@ -2613,7 +2618,7 @@
       "Name": "Even Tempered",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -2629,7 +2634,7 @@
       "Name": "Fair Share",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "GOOD_KARMA",
@@ -2700,7 +2705,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 921,
+      "Progressed": 922,
       "Completed": 11
     }
   ],
@@ -2708,8 +2713,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2024-01-02T13:13:11.5209821+00:00",
+  "LastChanged_Achievements": "2024-01-02T14:10:35.8779325+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:05.9335088+00:00",
-  "LastUpdate_Ratings": "2024-01-02T13:01:00.656721+00:00",
-  "LastUpdate_Achievements": "2024-01-02T13:13:11.5210056+00:00"
+  "LastUpdate_Ratings": "2024-01-02T13:57:48.0890582+00:00",
+  "LastUpdate_Achievements": "2024-01-02T14:10:35.8779582+00:00"
 }

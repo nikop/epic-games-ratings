@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18047,
+  "EOS_Progressed": 18050,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 582,
+  "EOS_NewPlayers": 583,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -16025,6 +16025,11 @@
       "Time": "2024-01-02T13:07:44.228034+00:00",
       "NumProgressed": 18047,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-02T14:05:21.8759164+00:00",
+      "NumProgressed": 18050,
+      "NumCompleted": 58
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16053,7 +16058,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1985
+      "UsersEstimate": 1986
     },
     {
       "ID": "12",
@@ -16061,7 +16066,7 @@
       "Name": "Data Archivist",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1263
+      "UsersEstimate": 1264
     },
     {
       "ID": "13",
@@ -16093,7 +16098,7 @@
       "Name": "Drug Gifter",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1263
+      "UsersEstimate": 1264
     },
     {
       "ID": "17",
@@ -16141,7 +16146,7 @@
       "Name": "Drone Dodger",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1985
+      "UsersEstimate": 1986
     },
     {
       "ID": "22",
@@ -16157,7 +16162,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1263
+      "UsersEstimate": 1264
     },
     {
       "ID": "24",
@@ -16237,7 +16242,7 @@
       "Name": "Data Master",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "6",
@@ -16316,22 +16321,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18047,
+      "Progressed": 18050,
       "Completed": 58
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4001,
-      "Completed": 1157
+      "Progressed": 4004,
+      "Completed": 1158
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T23:58:17.8612142+00:00",
-  "LastChanged_Achievements": "2024-01-02T13:07:44.2280335+00:00",
+  "LastChanged_Achievements": "2024-01-02T14:05:21.8759158+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2024-01-02T13:02:45.7293461+00:00",
-  "LastUpdate_Achievements": "2024-01-02T13:07:44.2281169+00:00"
+  "LastUpdate_Ratings": "2024-01-02T14:00:24.3768865+00:00",
+  "LastUpdate_Achievements": "2024-01-02T14:05:21.8760124+00:00"
 }

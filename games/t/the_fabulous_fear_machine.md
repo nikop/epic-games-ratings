@@ -5,14 +5,14 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Master trainee | 47.00% | ~36 |
-| You have three wishes left | 41.00% | ~31 |
-| Jung's dream | 32.00% | ~24 |
-| The battle of Great Britain | 32.00% | ~24 |
+| You have three wishes left | 40.00% | ~31 |
+| Jung's dream | 31.00% | ~24 |
+| The battle of Great Britain | 31.00% | ~24 |
 | Pulp! Where Monsters Dwell | 26.00% | ~20 |
-| A continent with chemistry | 24.00% | ~18 |
+| A continent with chemistry | 23.00% | ~18 |
 | The happy farmer girl | 22.00% | ~17 |
-| Giant | 20.00% | ~15 |
-| Pulp! Out of this World | 20.00% | ~15 |
+| Giant | 19.00% | ~15 |
+| Pulp! Out of this World | 19.00% | ~15 |
 | A rival with no options | 18.00% | ~14 |
 | Pulp! Terror Tales in the Night | 18.00% | ~14 |
 | Diagnosis: fear | 18.00% | ~14 |
@@ -27,10 +27,10 @@
 | Hate is... addictive | 12.00% | ~9 |
 | Kirlian's best disciple | 12.00% | ~9 |
 | Welcome to Hellville | 12.00% | ~9 |
-| Blood Red Island | 11.00% | ~8 |
-| Bread and bocaua | 11.00% | ~8 |
-| Fanatacism is... poisonous | 11.00% | ~8 |
-| Pulp! The Beyond | 11.00% | ~8 |
+| Blood Red Island | 10.00% | ~8 |
+| Bread and bocaua | 10.00% | ~8 |
+| Fanatacism is... poisonous | 10.00% | ~8 |
+| Pulp! The Beyond | 10.00% | ~8 |
 | Blessed antennas | 9.00% | ~7 |
 | The beast in the Oval Office | 9.00% | ~7 |
 | The bully | 9.00% | ~7 |
@@ -39,7 +39,7 @@
 | The scholar | 8.00% | ~6 |
 | Pulp! True Adventures | 8.00% | ~6 |
 | America had no Faith | 8.00% | ~6 |
-| Vaccine fans | 7.00% | ~5 |
+| Vaccine fans | 6.00% | ~5 |
 | The barbarian invasions | 5.00% | ~4 |
 | A new Hindenburg | 5.00% | ~4 |
 | Pulp! Tales from the Crypt | 4.00% | ~3 |
@@ -52,7 +52,7 @@
 | Pulp! Skeleton Hand | 1.00% | ~1 |
 | Pulp! The Vault of Horror | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76 (Ranked 512)  
+Progressed: 77 (Ranked 511)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,3 +95,4 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-30 | 69 | 0 |
 | 2023-12-31 | 71 | 0 |
 | 2024-01-01 | 76 | 0 |
+| 2024-01-02 | 77 | 0 |

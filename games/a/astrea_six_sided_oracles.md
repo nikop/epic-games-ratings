@@ -22,7 +22,7 @@
 | Lacertian Champion | 21.00% | ~63 |
 | Shard Spender | 19.00% | ~57 |
 | Apian Champion | 19.00% | ~57 |
-| Unbeatable | 17.00% | ~51 |
+| Unbeatable | 18.00% | ~54 |
 | Sadistic Plan | 16.00% | ~48 |
 | Behenian Champion | 15.00% | ~45 |
 | Wave Bender | 10.00% | ~30 |

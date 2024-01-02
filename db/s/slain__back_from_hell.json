@@ -6,9 +6,9 @@
   "Ranking_Popularity": 342,
   "Ranking_PopularitySum": 447,
   "Ranking_EOS_Progress": 131,
-  "Ranking_EOS_Completed": 320,
+  "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -250,9 +250,9 @@
       "Count": 128
     }
   ],
-  "EOS_Progressed": 43332,
+  "EOS_Progressed": 43336,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 519,
+  "EOS_NewPlayers": 520,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -28150,6 +28150,11 @@
       "Time": "2024-01-02T13:07:24.4956706+00:00",
       "NumProgressed": 43332,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-02T14:04:53.8765731+00:00",
+      "NumProgressed": 43336,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -28169,7 +28174,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 9100
+      "UsersEstimate": 9101
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -28279,9 +28284,9 @@
       "ID": "ACH_17_DEFEATED_ICE_BEAST",
       "SetID": "443p4o4",
       "Name": "Ice To See You",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 217
+      "UsersEstimate": 173
     },
     {
       "ID": "ACH_18_DEFEATED_IMP",
@@ -28392,7 +28397,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 43332,
+      "Progressed": 43336,
       "Completed": 30
     }
   ],
@@ -28400,8 +28405,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-12-18T19:58:40.3413682+00:00",
-  "LastChanged_Achievements": "2024-01-02T13:07:24.4956702+00:00",
+  "LastChanged_Achievements": "2024-01-02T14:04:53.8765726+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:52.0120838+00:00",
-  "LastUpdate_Ratings": "2024-01-02T13:03:02.1646043+00:00",
-  "LastUpdate_Achievements": "2024-01-02T13:07:24.4958067+00:00"
+  "LastUpdate_Ratings": "2024-01-02T14:00:46.4537823+00:00",
+  "LastUpdate_Achievements": "2024-01-02T14:04:53.8767267+00:00"
 }

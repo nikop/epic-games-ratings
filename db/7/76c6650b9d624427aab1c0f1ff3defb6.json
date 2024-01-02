@@ -2,10 +2,10 @@
   "ID": "76c6650b9d624427aab1c0f1ff3defb6",
   "Name": "The Repair House: Restoration Sim",
   "ProductSlug": "the-repair-house-349cf9",
-  "Ranking_EOS_Progress": 555,
+  "Ranking_EOS_Progress": 556,
   "Ranking_EOS_Completed": 1,
-  "Ranking_EOS_NewPlayers": 391,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-09-18T09:00:00+00:00",
     "PcReleaseDate": "2023-07-19T13:00:00+00:00",
@@ -26,8 +26,8 @@
   "Tags": [],
   "EOS_Progressed": 46,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 10,
-  "EOS_NewCompleters": 10,
+  "EOS_NewPlayers": 9,
+  "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 100,
   "EosHistory": [
     {
@@ -274,8 +274,8 @@
   ],
   "FirstSeen": "2023-11-06T07:02:40.1582806+00:00",
   "FirstSeenAchievements": "2023-09-12T12:01:01.0703502+00:00",
-  "LastChanged_Achievements": "2024-01-02T13:11:53.9531038+00:00",
+  "LastChanged_Achievements": "2024-01-02T14:08:49.7050341+00:00",
   "LastUpdate_AppInfo": "2023-12-26T20:57:06.5723634+00:00",
-  "LastUpdate_Ratings": "2024-01-02T13:06:17.5532091+00:00",
-  "LastUpdate_Achievements": "2024-01-02T13:11:53.9531106+00:00"
+  "LastUpdate_Ratings": "2024-01-02T14:03:15.3363786+00:00",
+  "LastUpdate_Achievements": "2024-01-02T14:08:49.7050394+00:00"
 }

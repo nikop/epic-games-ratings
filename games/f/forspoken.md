@@ -5,9 +5,9 @@ Rating: 4.14 (Ranked 997)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 12.00% | ~5,531 |
-| Unlocked Potential | 11.00% | ~5,070 |
-| Tinkerer | 8.00% | ~3,687 |
+| Attachments | 12.00% | ~5,532 |
+| Unlocked Potential | 11.00% | ~5,071 |
+| Tinkerer | 8.00% | ~3,688 |
 | Leapfrogger | 7.00% | ~3,227 |
 | Knock 'Em Dead | 7.00% | ~3,227 |
 | Pilgrimage: Initiate | 7.00% | ~3,227 |
@@ -15,9 +15,9 @@ Rating: 4.14 (Ranked 997)
 | Call of the Fount: Baptized | 7.00% | ~3,227 |
 | No Mercy | 6.00% | ~2,766 |
 | Explorer: Seeker | 6.00% | ~2,766 |
+| Through the Eyes of Another: Empath | 5.00% | ~2,305 |
 | Stuck | 5.00% | ~2,305 |
 | Help Me Out Here | 5.00% | ~2,305 |
-| Through the Eyes of Another: Empath | 4.00% | ~1,844 |
 | The Interloper | 4.00% | ~1,844 |
 | Outdoorsperson | 3.00% | ~1,383 |
 | Hop, Step, Jump | 3.00% | ~1,383 |
@@ -38,7 +38,7 @@ Rating: 4.14 (Ranked 997)
 | Realized Potential | 0.70% | ~323 |
 | Awakening | 0.60% | ~277 |
 | Explorer: Trailblazer | 0.60% | ~277 |
-| Through the Eyes of Another: Seer | 0.50% | ~230 |
+| Through the Eyes of Another: Seer | 0.50% | ~231 |
 | Archivist | 0.30% | ~138 |
 | Craftsperson | 0.30% | ~138 |
 | Tit for Tat | 0.30% | ~138 |
@@ -59,7 +59,7 @@ Rating: 4.14 (Ranked 997)
 | Remembrance | 0.10% | ~46 |
 | Cat Person | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,093 (Ranked 125)  
+Progressed: 46,102 (Ranked 125)  
 Completed: 4 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,14 +316,14 @@ Completed: 4 (0.01%) (Ranked 367)
 | 2023-12-30 | 45,788 | 3 |
 | 2023-12-31 | 45,906 | 4 |
 | 2024-01-01 | 46,038 | 4 |
-| 2024-01-02 | 46,093 | 4 |
+| 2024-01-02 | 46,102 | 4 |
 ## Awards
-Max (Character Customization): 37  (Ranked 489)  
-Sum: 37 (Ranked 524)  
-Diff (max vs sum): -35  
+Max (Character Customization): 40  (Ranked 477)  
+Sum: 40 (Ranked 518)  
+Diff (max vs sum): -41  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 37 |
+| This game has Inclusive Character Customization | 40 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -420,3 +420,4 @@ Diff (max vs sum): -35
 | 2023-12-30 | 4.12 | 35 | 35 |
 | 2023-12-31 | 4.13 | 35 | 35 |
 | 2024-01-01 | 4.14 | 37 | 37 |
+| 2024-01-02 | 4.14 | 40 | 40 |

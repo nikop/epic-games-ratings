@@ -3,12 +3,12 @@
   "Name": "Destroy All Humans! 2 - Reprobed",
   "ProductSlug": "destroy-all-humans-2-reprobed",
   "Ranking_Rating": 560,
-  "Ranking_Popularity": 493,
+  "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 526,
-  "Ranking_EOS_Progress": 397,
+  "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -288,9 +288,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 284,
+  "EOS_Progressed": 286,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -1393,6 +1393,11 @@
       "Time": "2024-01-02T12:09:08.3903311+00:00",
       "NumProgressed": 284,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-02T14:10:03.537068+00:00",
+      "NumProgressed": 286,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1403,9 +1408,9 @@
       "ID": "ACH_ACCELERATE_SMASH",
       "SetID": "4n84pon",
       "Name": "Mash Machine",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 213
+      "UsersEstimate": 212
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1421,7 +1426,7 @@
       "Name": "Perfect Probulator",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_BASKETBALL_SLAM",
@@ -1435,9 +1440,9 @@
       "ID": "ACH_CHANGE_SKIN",
       "SetID": "4n84pon",
       "Name": "Furon Fashion",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 140
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -1475,9 +1480,9 @@
       "ID": "ACH_COMPLETE_ARK01",
       "SetID": "4n84pon",
       "Name": "Cult Following",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -1507,7 +1512,7 @@
       "ID": "ACH_DESTROY_LANDMARKS",
       "SetID": "4n84pon",
       "Name": "Toilet Break",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -1517,15 +1522,15 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
       "SetID": "4n84pon",
       "Name": "Albion Bridge Is for Falling Down",
-      "Percentage": 0.4,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_ENTER_ALBION",
@@ -1539,9 +1544,9 @@
       "ID": "ACH_ENTER_BAYCITY",
       "SetID": "4n84pon",
       "Name": "Rock of the Bay",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 230
+      "UsersEstimate": 229
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1571,9 +1576,9 @@
       "ID": "ACH_KILL_BONGWATER",
       "SetID": "4n84pon",
       "Name": "Bodied Sattva",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 106
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -1611,7 +1616,7 @@
       "ID": "ACH_KILL_REINCARNATOR",
       "SetID": "4n84pon",
       "Name": "Ouch of Body Experience",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1653,7 +1658,7 @@
       "Name": "Earthly Pleasures",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
@@ -1667,7 +1672,7 @@
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
       "SetID": "4n84pon",
       "Name": "Higher Than the Futen Zoku",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -1683,9 +1688,9 @@
       "ID": "ACH_SKATE_ALBION",
       "SetID": "4n84pon",
       "Name": "To Russia With Love",
-      "Percentage": 0.4,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_SKATE_AWAY_FROM_SPORE",
@@ -1707,7 +1712,7 @@
       "ID": "ACH_SKATE_SOLARIS",
       "SetID": "4n84pon",
       "Name": "Steezy Down the Spine",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -1715,7 +1720,7 @@
       "ID": "ACH_SKATE_TAKOSHIMA",
       "SetID": "4n84pon",
       "Name": "Path of the Furon",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -1723,7 +1728,7 @@
       "ID": "ACH_SKATE_TUNGUSKA",
       "SetID": "4n84pon",
       "Name": "Trans-Siberian Express",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -1731,9 +1736,9 @@
       "ID": "ACH_UNLOCK_BURROW_BEAST",
       "SetID": "4n84pon",
       "Name": "Arkvoodle Doodle",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_UPGRADE_CRYPTO",
@@ -1741,7 +1746,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1749,14 +1754,14 @@
       "Name": "Pimp My Raid",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 284,
+      "Progressed": 286,
       "Completed": 1
     }
   ],
@@ -1764,8 +1769,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-31T11:01:39.7283208+00:00",
-  "LastChanged_Achievements": "2024-01-02T13:12:47.4646406+00:00",
+  "LastChanged_Achievements": "2024-01-02T14:10:03.5370675+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.261947+00:00",
-  "LastUpdate_Ratings": "2024-01-02T13:01:29.9543285+00:00",
-  "LastUpdate_Achievements": "2024-01-02T13:12:47.4646965+00:00"
+  "LastUpdate_Ratings": "2024-01-02T13:58:32.2492768+00:00",
+  "LastUpdate_Achievements": "2024-01-02T14:10:03.5371001+00:00"
 }

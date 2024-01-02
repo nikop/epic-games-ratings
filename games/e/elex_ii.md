@@ -14,9 +14,9 @@ Number of Ratings: 124  (23.09.2022)
 | Creator | 20.00% | ~33 |
 | Festival-goer | 20.00% | ~33 |
 | Peddler | 19.00% | ~31 |
-| Commander | 15.00% | ~25 |
+| Commander | 16.00% | ~26 |
 | Long-Haul Flyer | 13.00% | ~21 |
-| Irissa's Fate | 12.00% | ~20 |
+| Irissa's Fate | 13.00% | ~21 |
 | Pass A38 | 12.00% | ~20 |
 | Berserker | 9.00% | ~15 |
 | Family Reunion | 9.00% | ~15 |

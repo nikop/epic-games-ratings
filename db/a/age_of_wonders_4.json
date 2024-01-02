@@ -4,11 +4,11 @@
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 375,
   "Ranking_Popularity": 477,
-  "Ranking_PopularitySum": 411,
-  "Ranking_EOS_Progress": 196,
+  "Ranking_PopularitySum": 409,
+  "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -637,10 +637,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 205,
       "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2024-01-02T14:01:07.2869942+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 206,
+      "NumberOfAwardsMax": 40
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 205,
+  "NumberOfAwards": 206,
   "NumberOfAwardsMax": 40,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -684,7 +690,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 20
+      "Count": 21
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -693,9 +699,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6711,
+  "EOS_Progressed": 6716,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 472,
+  "EOS_NewPlayers": 474,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10098,6 +10104,11 @@
       "Time": "2024-01-02T13:11:57.1701133+00:00",
       "NumProgressed": 6711,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-02T14:08:54.3519211+00:00",
+      "NumProgressed": 6716,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10157,7 +10168,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "16",
@@ -10221,7 +10232,7 @@
       "Name": "Realm Estate",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "23",
@@ -10229,7 +10240,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "24",
@@ -10237,7 +10248,7 @@
       "Name": "Secret Technique",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "25",
@@ -10245,7 +10256,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "26",
@@ -10309,7 +10320,7 @@
       "Name": "My Final Form",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "33",
@@ -10588,22 +10599,22 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6711,
+      "Progressed": 6716,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6711,
+      "Progressed": 6716,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-05-02T18:59:30.6410033+00:00",
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
-  "LastChanged": "2024-01-02T07:59:23.676299+00:00",
-  "LastChanged_Achievements": "2024-01-02T13:11:57.170113+00:00",
+  "LastChanged": "2024-01-02T14:01:07.286994+00:00",
+  "LastChanged_Achievements": "2024-01-02T14:08:54.3519206+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-02T13:03:17.4477526+00:00",
-  "LastUpdate_Achievements": "2024-01-02T13:11:57.1702105+00:00"
+  "LastUpdate_Ratings": "2024-01-02T14:01:07.2869946+00:00",
+  "LastUpdate_Achievements": "2024-01-02T14:08:54.3520519+00:00"
 }

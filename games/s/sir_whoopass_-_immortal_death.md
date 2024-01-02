@@ -47,7 +47,7 @@
 | Your daily dose of Vitamin C. | 25.00% | ~36 |
 | I cant stand still! | 23.00% | ~34 |
 | Slimy... yet satisfying | 22.00% | ~32 |
-| Master Butcher | 18.00% | ~26 |
+| Master Butcher | 19.00% | ~28 |
 | Just wing it! | 18.00% | ~26 |
 | Deal with it | 18.00% | ~26 |
 | Yeehaw!!! | 15.00% | ~22 |
