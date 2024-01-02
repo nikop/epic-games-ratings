@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 185,
   "Ranking_EOS_NewPlayers": 308,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
     "PcReleaseDate": "2020-10-15T04:00:00+00:00",
@@ -1213,9 +1213,9 @@
       "ID": "KR4_ACHIEVEMENT_DEFEAT_DWARF_KING",
       "SetID": "caeik3h",
       "Name": "I am Iron Man",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 192
+      "UsersEstimate": 194
     },
     {
       "ID": "KR4_ACHIEVEMENT_DEMOGORGON",
@@ -1653,9 +1653,9 @@
       "ID": "KR4_ACHIEVEMENT_SPIRITMAUSOLEUM",
       "SetID": "caeik3h",
       "Name": "Defenders Of The Night",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 117
     },
     {
       "ID": "KR4_ACHIEVEMENT_SUPREME_DEFENDER",
@@ -1738,8 +1738,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2024-01-02T00:08:37.483104+00:00",
+  "LastChanged_Achievements": "2024-01-02T01:55:50.1977226+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:04.1058747+00:00",
-  "LastUpdate_Ratings": "2024-01-01T23:59:43.833081+00:00",
-  "LastUpdate_Achievements": "2024-01-02T00:08:37.483171+00:00"
+  "LastUpdate_Ratings": "2024-01-02T01:46:59.2626645+00:00",
+  "LastUpdate_Achievements": "2024-01-02T01:55:50.1977955+00:00"
 }

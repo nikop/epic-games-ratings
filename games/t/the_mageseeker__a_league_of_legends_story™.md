@@ -5,16 +5,16 @@ Rating: 4.81 (Ranked 84)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~3,057 |
-| No more cages! | 90.00% | ~2,896 |
-| Everfrost | 77.00% | ~2,478 |
+| For Demacia | 95.00% | ~3,058 |
+| No more cages! | 90.00% | ~2,897 |
+| Everfrost | 77.00% | ~2,479 |
 | Pentakill | 76.00% | ~2,446 |
 | Dark Forest | 76.00% | ~2,446 |
-| The use of petricite | 73.00% | ~2,349 |
+| The use of petricite | 73.00% | ~2,350 |
 | You can pet the dog | 60.00% | ~1,931 |
 | Thornbarrow | 42.00% | ~1,352 |
-| Big Helmet Bro | 40.00% | ~1,287 |
-| Clarion Cove | 40.00% | ~1,287 |
+| Big Helmet Bro | 40.00% | ~1,288 |
+| Clarion Cove | 40.00% | ~1,288 |
 | Ternmoat Headquarters | 38.00% | ~1,223 |
 | Elemental master | 37.00% | ~1,191 |
 | Past trauma | 37.00% | ~1,191 |
@@ -22,8 +22,8 @@ Rating: 4.81 (Ranked 84)
 | Petricite Burst | 33.00% | ~1,062 |
 | Old friend | 32.00% | ~1,030 |
 | Devineur | 32.00% | ~1,030 |
-| Hijack | 30.00% | ~965 |
-| Whispers in the Woods I | 28.00% | ~901 |
+| Hijack | 30.00% | ~966 |
+| Whispers in the Woods I | 27.00% | ~869 |
 | I chose my shackles | 27.00% | ~869 |
 | Ancient power | 27.00% | ~869 |
 | Sacred Woods | 26.00% | ~837 |
@@ -32,8 +32,8 @@ Rating: 4.81 (Ranked 84)
 | Capelworth | 23.00% | ~740 |
 | Full equipped | 23.00% | ~740 |
 | Iffighain Headquarters | 22.00% | ~708 |
-| No more holding back | 19.00% | ~611 |
-| Quickmoore Headquarters | 19.00% | ~611 |
+| No more holding back | 19.00% | ~612 |
+| Quickmoore Headquarters | 19.00% | ~612 |
 | Whispers in the Woods II | 18.00% | ~579 |
 | Terbisia | 18.00% | ~579 |
 | Whispers in the Woods III | 17.00% | ~547 |
@@ -59,7 +59,7 @@ Rating: 4.81 (Ranked 84)
 | Silverwing nest | 2.00% | ~64 |
 | The Unshackled | 1.00% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,218 (Ranked 222)  
+Progressed: 3,219 (Ranked 222)  
 Completed: 19 (0.59%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 19 (0.59%) (Ranked 205)
 | 2023-12-30 | 3,165 | 17 |
 | 2023-12-31 | 3,186 | 18 |
 | 2024-01-01 | 3,217 | 19 |
-| 2024-01-02 | 3,218 | 19 |
+| 2024-01-02 | 3,219 | 19 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

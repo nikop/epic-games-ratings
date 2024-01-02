@@ -20,14 +20,14 @@
 | Merry Co-operation | 32.00% | ~36 |
 | Assault on the Ram | 25.00% | ~28 |
 | Finish Him! | 24.00% | ~27 |
+| First Aid | 23.00% | ~26 |
 | Ultra Rebel Instinct | 22.00% | ~24 |
-| First Aid | 22.00% | ~24 |
 | Merry Go Round | 21.00% | ~23 |
-| Savior | 16.00% | ~18 |
-| Hidden Experiment | 15.00% | ~17 |
+| Savior | 17.00% | ~19 |
+| Hidden Experiment | 16.00% | ~18 |
+| Ultra Combo | 15.00% | ~17 |
 | Take Action! | 15.00% | ~17 |
 | Ascending Will | 14.00% | ~16 |
-| Ultra Combo | 14.00% | ~16 |
 | Into the Lion's Den | 11.00% | ~12 |
 | Sky High Fighter | 10.00% | ~11 |
 | Haute Couture | 9.00% | ~10 |

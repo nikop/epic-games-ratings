@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -166,9 +166,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 1580,
+  "EOS_Progressed": 1582,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -2356,6 +2356,11 @@
       "Time": "2024-01-01T15:09:57.7061022+00:00",
       "NumProgressed": 1580,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-02T01:57:41.0439634+00:00",
+      "NumProgressed": 1582,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 56,
@@ -2509,9 +2514,9 @@
       "ID": "achievement_kill100Monsters",
       "SetID": "95dc8p",
       "Name": "Who\u0027s Counting?",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 47
     },
     {
       "ID": "achievement_kill3EnemiesWithPoisonInOneTurn",
@@ -2543,15 +2548,15 @@
       "Name": "The Cost of Heroism",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "achievement_mythwalker",
       "SetID": "95dc8p",
       "Name": "Legends Never Die",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_rivalStuntAbility5Times",
@@ -2597,17 +2602,17 @@
       "ID": "completedStory_ecthis",
       "SetID": "95dc8p",
       "Name": "Everfading",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "completedStory_enduringWar",
       "SetID": "95dc8p",
       "Name": "War Endured",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 63
     },
     {
       "ID": "completedStory_legacy",
@@ -2645,9 +2650,9 @@
       "ID": "completedStory_vultureLord",
       "SetID": "95dc8p",
       "Name": "A Hunger, Sated",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "cvawn_allDrauvenSurvivedMission",
@@ -2781,9 +2786,9 @@
       "ID": "theme_tree_knockback50Tiles",
       "SetID": "95dc8p",
       "Name": "Thwack!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "theme_vine_poison50Enemies",
@@ -2814,15 +2819,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1580,
+      "Progressed": 1582,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-11-12T17:00:17.2155611+00:00",
-  "LastChanged_Achievements": "2024-01-02T00:10:29.505015+00:00",
+  "LastChanged_Achievements": "2024-01-02T01:57:41.043963+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:43.1423239+00:00",
-  "LastUpdate_Ratings": "2024-01-01T23:57:37.8261673+00:00",
-  "LastUpdate_Achievements": "2024-01-02T00:10:29.5050586+00:00"
+  "LastUpdate_Ratings": "2024-01-02T01:44:53.0843866+00:00",
+  "LastUpdate_Achievements": "2024-01-02T01:57:41.0440156+00:00"
 }

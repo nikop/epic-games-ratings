@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -409,7 +409,7 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1574,
+  "EOS_Progressed": 1575,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
@@ -4034,6 +4034,11 @@
       "Time": "2024-01-01T22:09:44.0357253+00:00",
       "NumProgressed": 1574,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-02T01:57:32.2712445+00:00",
+      "NumProgressed": 1575,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4053,7 +4058,7 @@
       "Name": "Career criminal",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "CHEEKI_BREEKI_1",
@@ -4101,7 +4106,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1558
+      "UsersEstimate": 1559
     },
     {
       "ID": "EXPERT_1",
@@ -4197,7 +4202,7 @@
       "Name": "One HIT wonder",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -4205,7 +4210,7 @@
       "Name": "One shot, one kill",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "PACIFIST",
@@ -4317,7 +4322,7 @@
       "Name": "Wanderer",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "WISHMASTER_1",
@@ -4332,15 +4337,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1574,
+      "Progressed": 1575,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-12-27T01:41:52.1948259+00:00",
-  "LastChanged_Achievements": "2024-01-02T00:10:21.3323961+00:00",
+  "LastChanged_Achievements": "2024-01-02T01:57:32.271244+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.8702318+00:00",
-  "LastUpdate_Ratings": "2024-01-02T00:01:01.4188487+00:00",
-  "LastUpdate_Achievements": "2024-01-02T00:10:21.3324284+00:00"
+  "LastUpdate_Ratings": "2024-01-02T01:48:17.6967813+00:00",
+  "LastUpdate_Achievements": "2024-01-02T01:57:32.271288+00:00"
 }

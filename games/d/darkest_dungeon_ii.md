@@ -1,17 +1,17 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 263)  
+Rating: 4.68 (Ranked 262)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 12.00% | ~730 |
+| Malpractice Assurance | 12.00% | ~731 |
 | Lost and Found | 7.00% | ~426 |
+| This Belongs in a Museum | 6.00% | ~7,873 |
 | Autodidact | 6.00% | ~7,873 |
 | This guy... again? | 6.00% | ~365 |
 | Serenity Now! | 5.00% | ~6,561 |
-| This Belongs in a Museum | 5.00% | ~6,561 |
 | Creep and Sleep | 5.00% | ~6,561 |
 | Overdue Notice | 5.00% | ~6,561 |
 | Escape from the Black Hole | 5.00% | ~6,561 |
@@ -30,23 +30,23 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 4.00% | ~5,249 |
 | FNG | 4.00% | ~5,249 |
 | Nope | 4.00% | ~5,249 |
-| Friends 'Til the End | 4.00% | ~243 |
-| Resurrection | 3.00% | ~3,936 |
-| Unleash Hell | 3.00% | ~3,936 |
-| Funny Guy | 3.00% | ~3,936 |
-| Long Live the King | 3.00% | ~3,936 |
-| Wyrdly Reconstructed | 3.00% | ~3,936 |
-| Unfulfilled Desires | 3.00% | ~3,936 |
-| Dissector | 3.00% | ~3,936 |
-| Banishment | 3.00% | ~3,936 |
-| Deprogramming | 3.00% | ~3,936 |
-| Now Stay Dead | 3.00% | ~3,936 |
-| Spelunker | 3.00% | ~3,936 |
-| Ramble On | 3.00% | ~3,936 |
-| A Clear Conscience | 3.00% | ~3,936 |
-| Whale | 3.00% | ~3,936 |
-| Unshackled | 3.00% | ~3,936 |
-| Road Trip | 3.00% | ~3,936 |
+| Friends 'Til the End | 4.00% | ~244 |
+| Resurrection | 3.00% | ~3,937 |
+| Unleash Hell | 3.00% | ~3,937 |
+| Funny Guy | 3.00% | ~3,937 |
+| Long Live the King | 3.00% | ~3,937 |
+| Wyrdly Reconstructed | 3.00% | ~3,937 |
+| Unfulfilled Desires | 3.00% | ~3,937 |
+| Dissector | 3.00% | ~3,937 |
+| Banishment | 3.00% | ~3,937 |
+| Deprogramming | 3.00% | ~3,937 |
+| Now Stay Dead | 3.00% | ~3,937 |
+| Spelunker | 3.00% | ~3,937 |
+| Ramble On | 3.00% | ~3,937 |
+| A Clear Conscience | 3.00% | ~3,937 |
+| Whale | 3.00% | ~3,937 |
+| Unshackled | 3.00% | ~3,937 |
+| Road Trip | 3.00% | ~3,937 |
 | Boxcar Kid | 2.00% | ~2,624 |
 | This Looks Familiar | 2.00% | ~2,624 |
 | Hope Rekindled | 2.00% | ~2,624 |
@@ -72,9 +72,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | The World As It Was | 0.60% | ~787 |
 | A Life Well Lived | 0.50% | ~656 |
 | Bacon Bits | 0.50% | ~656 |
+| On This Long Road, We Found Redemption | 0.50% | ~30 |
 | Eidetic | 0.40% | ~525 |
 | Battle Hardened | 0.40% | ~24 |
-| On This Long Road, We Found Redemption | 0.40% | ~24 |
 | Tears in the Rain | 0.30% | ~394 |
 | Maître De La Lame | 0.30% | ~18 |
 | Circle of Life | 0.20% | ~262 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,213 (Ranked 90)  
+Progressed: 131,220 (Ranked 90)  
 Completed: 3 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,10 +333,10 @@ Completed: 3 (0.00%) (Ranked 390)
 | 2023-12-30 | 130,838 | 3 |
 | 2023-12-31 | 131,026 | 3 |
 | 2024-01-01 | 131,206 | 3 |
-| 2024-01-02 | 131,213 | 3 |
+| 2024-01-02 | 131,220 | 3 |
 ## Awards
 Max (Character Customization): 7,919  (Ranked 50)  
-Sum: 21,323 (Ranked 58)  
+Sum: 21,328 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -344,8 +344,8 @@ Diff (max vs sum): -8
 | This game has Diverse Characters | 1,802 |
 | This game has Challenging Combat | 1,659 |
 | This game is Highly Recommended | 1,586 |
-| This game has Amazing Characters | 1,508 |
-| This game is Extremely Fun | 1,506 |
+| This game has Amazing Characters | 1,511 |
+| This game is Extremely Fun | 1,508 |
 | This game has Unique Visuals | 1,442 |
 | This game has Amazing Storytelling | 1,431 |
 | This game has Quickly Understood Controls | 1,396 |
@@ -694,3 +694,4 @@ Diff (max vs sum): -8
 | 2023-12-30 | 4.68 | - | 7,905 | 21,274 |
 | 2023-12-31 | 4.68 | - | 7,910 | 21,297 |
 | 2024-01-01 | 4.68 | - | 7,919 | 21,323 |
+| 2024-01-02 | 4.68 | - | 7,919 | 21,328 |

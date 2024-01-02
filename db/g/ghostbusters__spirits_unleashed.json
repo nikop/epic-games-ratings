@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 185,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3909,9 +3909,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33090,
+  "EOS_Progressed": 33095,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 382,
+  "EOS_NewPlayers": 383,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -24254,6 +24254,11 @@
       "Time": "2024-01-02T00:09:05.2866862+00:00",
       "NumProgressed": 33090,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-02T01:56:17.9238858+00:00",
+      "NumProgressed": 33095,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -24265,7 +24270,7 @@
       "Name": "Advancement",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2647
+      "UsersEstimate": 2648
     },
     {
       "ID": "Animated",
@@ -24313,7 +24318,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1654
+      "UsersEstimate": 1655
     },
     {
       "ID": "Collector",
@@ -24353,7 +24358,7 @@
       "Name": "Discovery",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1985
+      "UsersEstimate": 1986
     },
     {
       "ID": "Dont_Need_These",
@@ -24377,7 +24382,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 2647
+      "UsersEstimate": 2648
     },
     {
       "ID": "Escape_Artist",
@@ -24401,7 +24406,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1654
+      "UsersEstimate": 1655
     },
     {
       "ID": "GB_In_Training",
@@ -24553,7 +24558,7 @@
       "Name": "Solo Capture",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1985
+      "UsersEstimate": 1986
     },
     {
       "ID": "Stunner",
@@ -24569,7 +24574,7 @@
       "Name": "Stylish",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 3309
+      "UsersEstimate": 3310
     },
     {
       "ID": "Summoner",
@@ -24593,7 +24598,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 1985
+      "UsersEstimate": 1986
     },
     {
       "ID": "Teamwork",
@@ -24601,7 +24606,7 @@
       "Name": "Teamwork",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1654
+      "UsersEstimate": 1655
     },
     {
       "ID": "Terrifying",
@@ -24649,7 +24654,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1654
+      "UsersEstimate": 1655
     },
     {
       "ID": "Welcome_Crew",
@@ -24672,7 +24677,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33090,
+      "Progressed": 33095,
       "Completed": 71
     }
   ],
@@ -24680,8 +24685,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2024-01-01T18:59:26.3161864+00:00",
-  "LastChanged_Achievements": "2024-01-02T00:09:05.2866856+00:00",
+  "LastChanged_Achievements": "2024-01-02T01:56:17.9238853+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:23.250158+00:00",
-  "LastUpdate_Ratings": "2024-01-01T23:58:53.8210272+00:00",
-  "LastUpdate_Achievements": "2024-01-02T00:09:05.2867984+00:00"
+  "LastUpdate_Ratings": "2024-01-02T01:46:11.1943568+00:00",
+  "LastUpdate_Achievements": "2024-01-02T01:56:17.9240316+00:00"
 }

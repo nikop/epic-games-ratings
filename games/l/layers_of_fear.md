@@ -30,9 +30,9 @@
 | Breaking free | 9.00% | ~23 |
 | True Reflection | 7.00% | ~18 |
 | Heavy Burden | 6.00% | ~15 |
+| Instinct of self-preservation | 6.00% | ~15 |
 | Fisherman | 6.00% | ~15 |
 | Casting Finished | 5.00% | ~13 |
-| Instinct of self-preservation | 5.00% | ~13 |
 | Something to think about | 4.00% | ~10 |
 | I remember It Like Was Yesterday | 4.00% | ~10 |
 | Immortalized in my heart | 4.00% | ~10 |

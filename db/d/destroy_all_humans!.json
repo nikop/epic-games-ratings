@@ -5,7 +5,7 @@
   "Ranking_Rating": 358,
   "Ranking_Popularity": 503,
   "Ranking_PopularitySum": 529,
-  "Ranking_EOS_Progress": 398,
+  "Ranking_EOS_Progress": 397,
   "Ranking_EOS_Completed": 141,
   "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 60,
@@ -299,7 +299,7 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 279,
+  "EOS_Progressed": 280,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 4,
@@ -1229,6 +1229,11 @@
       "Time": "2024-01-01T22:06:29.1705106+00:00",
       "NumProgressed": 279,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-02T01:55:48.7165966+00:00",
+      "NumProgressed": 280,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -1241,7 +1246,7 @@
       "Name": "Fly Me to the Moon Base",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_ABILITY_ABDUCTOBEAMCOW",
@@ -1281,7 +1286,7 @@
       "Name": "Yettisoned",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACH_ABILITY_PKHUMANINTOOCEAN",
@@ -1297,7 +1302,7 @@
       "Name": "Forbidden Donut",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ACH_ABILITY_SCANINHOLOBOB",
@@ -1321,7 +1326,7 @@
       "Name": "Freshly Squeezed",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ACH_ABILITY_WITHWEAPON",
@@ -1329,7 +1334,7 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ACH_CHALLENGE_ABDUCTIONTHREESTAR",
@@ -1369,7 +1374,7 @@
       "Name": "If You Know What I Mean",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_CHALLENGE_THREESTARSEVERYWHERE",
@@ -1393,7 +1398,7 @@
       "Name": "Earthly Pleasures",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_COLLECT_BRAINWHILEDAMAGED",
@@ -1407,9 +1412,9 @@
       "ID": "ACH_COLLECT_PROBE",
       "SetID": "cefn62b",
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 168
     },
     {
       "ID": "ACH_COMBAT_EVADEBAZOOKA",
@@ -1489,7 +1494,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_INVADE_UNIONTOWN",
@@ -1535,9 +1540,9 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "cefn62b",
       "Name": "Perfect Probulator",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1560,15 +1565,15 @@
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 279,
+      "Progressed": 280,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2023-11-09T01:43:19.9714919+00:00",
-  "LastChanged_Achievements": "2024-01-02T00:08:36.0389056+00:00",
+  "LastChanged_Achievements": "2024-01-02T01:55:48.7165961+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:06.6677344+00:00",
-  "LastUpdate_Ratings": "2024-01-01T23:57:14.0780155+00:00",
-  "LastUpdate_Achievements": "2024-01-02T00:08:36.0389377+00:00"
+  "LastUpdate_Ratings": "2024-01-02T01:44:29.8223788+00:00",
+  "LastUpdate_Achievements": "2024-01-02T01:55:48.716647+00:00"
 }

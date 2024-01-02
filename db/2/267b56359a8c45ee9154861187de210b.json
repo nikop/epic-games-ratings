@@ -2,10 +2,10 @@
   "ID": "267b56359a8c45ee9154861187de210b",
   "Name": "Marble It Up! Ultra",
   "ProductSlug": "marble-it-up-ultra-7b5692",
-  "Ranking_EOS_Progress": 482,
+  "Ranking_EOS_Progress": 481,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 348,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
     "PcReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 107,
+  "EOS_Progressed": 108,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -519,6 +519,11 @@
       "Time": "2023-12-31T23:07:24.8606792+00:00",
       "NumProgressed": 107,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T01:54:17.7039426+00:00",
+      "NumProgressed": 108,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T22:03:23.4161887+00:00",
@@ -651,7 +656,7 @@
       "Name": "Venture Time",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "beat_c1_silver",
@@ -659,7 +664,7 @@
       "Name": "Treasured Momentum",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "beat_c1a_bronze",
@@ -779,7 +784,7 @@
       "Name": "Storm the Citadel",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "beat_c3_silver",
@@ -1115,7 +1120,7 @@
       "Name": "Rolling the Competition",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "soccer_hattrick",
@@ -1153,9 +1158,9 @@
       "ID": "trophies_10",
       "SetID": "3448go",
       "Name": "Look What I Found!",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "trophies_117",
@@ -1218,14 +1223,14 @@
     {
       "ID": "3448go",
       "IsBase": true,
-      "Progressed": 107,
+      "Progressed": 108,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2024-01-02T00:08:14.363685+00:00",
+  "LastChanged_Achievements": "2024-01-02T01:54:17.703942+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:18.5941148+00:00",
-  "LastUpdate_Ratings": "2024-01-01T23:58:35.79454+00:00",
-  "LastUpdate_Achievements": "2024-01-02T00:08:14.3637563+00:00"
+  "LastUpdate_Ratings": "2024-01-02T01:45:53.0989478+00:00",
+  "LastUpdate_Achievements": "2024-01-02T01:54:17.7040208+00:00"
 }

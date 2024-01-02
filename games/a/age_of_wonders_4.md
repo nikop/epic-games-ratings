@@ -1,27 +1,27 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.62 (Ranked 376)  
+Rating: 4.62 (Ranked 375)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 13.00% | ~870 |
-| Realm Estate | 12.00% | ~803 |
-| A Wonderful Discovery | 11.00% | ~736 |
-| Walls Cannot Stop Us | 11.00% | ~736 |
-| From Friends to Family | 9.00% | ~602 |
-| Bone Peddler | 8.00% | ~535 |
-| Magical Synergy | 7.00% | ~468 |
-| There Can Only Be One! | 6.00% | ~401 |
-| Full Ascension | 6.00% | ~401 |
-| Stronger Together | 6.00% | ~401 |
-| Seat of Power | 6.00% | ~401 |
-| Valley of Wonders | 5.00% | ~334 |
-| In a Liege of Your Own | 5.00% | ~334 |
-| Intimidation Tactics | 5.00% | ~334 |
-| But this one is mine | 5.00% | ~334 |
+| Realm Estate | 12.00% | ~804 |
+| A Wonderful Discovery | 11.00% | ~737 |
+| Walls Cannot Stop Us | 11.00% | ~737 |
+| From Friends to Family | 9.00% | ~603 |
+| Bone Peddler | 8.00% | ~536 |
+| Magical Synergy | 7.00% | ~469 |
+| There Can Only Be One! | 6.00% | ~402 |
+| Full Ascension | 6.00% | ~402 |
+| Stronger Together | 6.00% | ~402 |
+| Seat of Power | 6.00% | ~402 |
+| Valley of Wonders | 5.00% | ~335 |
+| In a Liege of Your Own | 5.00% | ~335 |
+| Intimidation Tactics | 5.00% | ~335 |
+| But this one is mine | 5.00% | ~335 |
+| Return of the Wizard King | 4.00% | ~268 |
 | My Final Form | 4.00% | ~268 |
-| Return of the Wizard King | 3.00% | ~201 |
 | Enchanted Archipelago | 3.00% | ~201 |
 | Digging for Treasure | 3.00% | ~201 |
 | Preparation Is Everything | 3.00% | ~201 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 376)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,690 (Ranked 195)  
+Progressed: 6,696 (Ranked 195)  
 Completed: 7 (0.10%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,11 +291,11 @@ Completed: 7 (0.10%) (Ranked 304)
 | 2023-12-30 | 6,566 | 7 |
 | 2023-12-31 | 6,624 | 7 |
 | 2024-01-01 | 6,687 | 7 |
-| 2024-01-02 | 6,690 | 7 |
+| 2024-01-02 | 6,696 | 7 |
 ## Awards
-Max (Great for Beginners): 39  (Ranked 480)  
+Max (Great for Beginners): 39  (Ranked 481)  
 Sum: 184 (Ranked 424)  
-Diff (max vs sum): 56  
+Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 39 |

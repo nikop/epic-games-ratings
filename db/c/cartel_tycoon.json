@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -301,7 +301,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 909,
+  "EOS_Progressed": 910,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
@@ -3221,6 +3221,11 @@
       "Time": "2024-01-01T21:06:24.6732757+00:00",
       "NumProgressed": 909,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-02T01:54:10.0655477+00:00",
+      "NumProgressed": 910,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3296,7 +3301,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "play-at-night",
@@ -3320,7 +3325,7 @@
       "Name": "Bad Trip",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "rename-lieutenant",
@@ -3368,7 +3373,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "use-submarine",
@@ -3383,15 +3388,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 909,
+      "Progressed": 910,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-23T10:57:58.3271618+00:00",
-  "LastChanged_Achievements": "2024-01-02T00:08:06.9414723+00:00",
+  "LastChanged_Achievements": "2024-01-02T01:54:10.0655472+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:28.1140989+00:00",
-  "LastUpdate_Ratings": "2024-01-02T00:02:55.2701636+00:00",
-  "LastUpdate_Achievements": "2024-01-02T00:08:06.9414946+00:00"
+  "LastUpdate_Ratings": "2024-01-02T01:50:27.9831861+00:00",
+  "LastUpdate_Achievements": "2024-01-02T01:54:10.0655758+00:00"
 }

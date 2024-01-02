@@ -76,6 +76,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Decisions, Decisions | 0.30% | ~727 |
 | Fragile Mortality | 0.30% | ~727 |
 | Snake Sneak | 0.30% | ~727 |
+| Fire Away! | 0.30% | ~727 |
 | Defuser | 0.30% | ~727 |
 | Obsessed | 0.30% | ~727 |
 | Sentimental Value | 0.30% | ~727 |
@@ -96,7 +97,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Path To Enlightenment | 0.20% | ~484 |
 | No Mercy | 0.20% | ~484 |
 | Just Looking Around | 0.20% | ~484 |
-| Fire Away! | 0.20% | ~484 |
 | Diviner | 0.20% | ~7 |
 | Nuclear | 0.20% | ~7 |
 | Quick Descent | 0.10% | ~242 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,197 (Ranked 72)  
+Progressed: 242,203 (Ranked 72)  
 Completed: 302 (0.12%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -402,7 +402,7 @@ Completed: 302 (0.12%) (Ranked 298)
 | 2023-12-30 | 242,061 | 302 |
 | 2023-12-31 | 242,129 | 302 |
 | 2024-01-01 | 242,196 | 302 |
-| 2024-01-02 | 242,197 | 302 |
+| 2024-01-02 | 242,203 | 302 |
 ## Awards
 Max (Quickly Understood Controls): 1,513  (Ranked 136)  
 Sum: 11,781 (Ranked 88)  

@@ -6,12 +6,12 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 62.00% | ~2,163 |
+| You're free now! | 62.00% | ~2,164 |
 | Keeping it classy | 27.00% | ~942 |
-| Welcome to the family | 21.00% | ~732 |
+| Welcome to the family | 21.00% | ~733 |
 | The finer things in life | 19.00% | ~663 |
-| Backpacker | 13.00% | ~453 |
-| Go with the Flow | 13.00% | ~453 |
+| Backpacker | 13.00% | ~454 |
+| Go with the Flow | 13.00% | ~454 |
 | Plastic Surgeon | 10.00% | ~349 |
 | The flip trick crown jewel | 10.00% | ~349 |
 | The hard way | 10.00% | ~349 |
@@ -30,7 +30,6 @@ Number of Ratings: 111  (23.09.2022)
 | Squad goals | 6.00% | ~209 |
 | Sup widdit big dog! | 6.00% | ~209 |
 | Commence the Hijinx! | 5.00% | ~174 |
-| Cops called! | 5.00% | ~174 |
 | DIY Boss | 5.00% | ~174 |
 | Globetrotter | 5.00% | ~174 |
 | Laid back | 5.00% | ~174 |
@@ -40,6 +39,7 @@ Number of Ratings: 111  (23.09.2022)
 | Tank commander | 5.00% | ~174 |
 | Trick shot marksman | 5.00% | ~174 |
 | We get it, you're good | 5.00% | ~174 |
+| Cops called! | 4.00% | ~140 |
 | G.O.A.T. status | 4.00% | ~140 |
 | Hoarder | 4.00% | ~140 |
 | Prince of Philly | 4.00% | ~140 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,488 (Ranked 220)  
+Progressed: 3,490 (Ranked 220)  
 Completed: 2 (0.06%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 2 (0.06%) (Ranked 327)
 | 2023-12-30 | 3,465 | 2 |
 | 2023-12-31 | 3,477 | 2 |
 | 2024-01-01 | 3,487 | 2 |
-| 2024-01-02 | 3,488 | 2 |
+| 2024-01-02 | 3,490 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 62  (Ranked 422)  
 Sum: 578 (Ranked 325)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
     "PcReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3327,
+  "EOS_Progressed": 3335,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 552,
+  "EOS_NewPlayers": 553,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3609,6 +3609,11 @@
       "Time": "2024-01-02T00:04:32.3263933+00:00",
       "NumProgressed": 3327,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T01:52:06.0537624+00:00",
+      "NumProgressed": 3335,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -3629,7 +3634,7 @@
       "Name": "Done for Today",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -3645,7 +3650,7 @@
       "Name": "Highest Among the Highest",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 998
+      "UsersEstimate": 1000
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -3685,7 +3690,7 @@
       "Name": "Terrible Journey",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -3725,7 +3730,7 @@
       "Name": "Worthy Badge",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 665
+      "UsersEstimate": 667
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -3739,9 +3744,9 @@
       "ID": "ACHIEVEMENT_23",
       "SetID": "c167foo",
       "Name": "Talented Know-how",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 105,
-      "UsersEstimate": 7
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -3795,9 +3800,9 @@
       "ID": "ACHIEVEMENT_31",
       "SetID": "c167foo",
       "Name": "Little Victory",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 70,
-      "UsersEstimate": 7
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -3805,15 +3810,15 @@
       "Name": "Personal Sanctuary",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1164
+      "UsersEstimate": 1167
     },
     {
       "ID": "ACHIEVEMENT_33",
       "SetID": "c167foo",
       "Name": "Lair Expanded",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -3821,15 +3826,15 @@
       "Name": "Unlocked Relic",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 1364
+      "UsersEstimate": 1367
     },
     {
       "ID": "ACHIEVEMENT_35",
       "SetID": "c167foo",
       "Name": "Half Way to Darkness",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_36",
@@ -3996,14 +4001,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 3327,
+      "Progressed": 3335,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2024-01-02T00:04:32.3263928+00:00",
+  "LastChanged_Achievements": "2024-01-02T01:52:06.053762+00:00",
   "LastUpdate_AppInfo": "2023-12-26T12:59:42.4793606+00:00",
-  "LastUpdate_Ratings": "2024-01-02T00:00:23.9479032+00:00",
-  "LastUpdate_Achievements": "2024-01-02T00:04:32.3264417+00:00"
+  "LastUpdate_Ratings": "2024-01-02T01:47:40.9161176+00:00",
+  "LastUpdate_Achievements": "2024-01-02T01:52:06.0538032+00:00"
 }

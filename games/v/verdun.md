@@ -6,55 +6,55 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~53,233 |
-| Worth it | 63.00% | ~42,996 |
-| Eagle Eye | 55.00% | ~37,536 |
-| Corpseman I | 39.00% | ~26,617 |
-| Blast fishing | 37.00% | ~25,252 |
-| Not alone | 32.00% | ~21,839 |
-| Headhunter I | 26.00% | ~17,744 |
-| Manual Labour I | 25.00% | ~17,062 |
-| Developers, Developers, Developers | 24.00% | ~16,380 |
-| Basic Training | 23.00% | ~15,697 |
-| Furchtlos und Treu | 13.00% | ~8,872 |
-| Gott Mit Uns | 12.00% | ~8,190 |
-| This We'll Defend! | 9.00% | ~6,142 |
-| Providentiea Memor | 9.00% | ~6,142 |
-| For King and Country | 9.00% | ~6,142 |
+| Setting an example | 78.00% | ~53,239 |
+| Worth it | 63.00% | ~43,001 |
+| Eagle Eye | 55.00% | ~37,540 |
+| Corpseman I | 39.00% | ~26,619 |
+| Blast fishing | 37.00% | ~25,254 |
+| Not alone | 32.00% | ~21,842 |
+| Headhunter I | 26.00% | ~17,746 |
+| Manual Labour I | 25.00% | ~17,064 |
+| Developers, Developers, Developers | 24.00% | ~16,381 |
+| Basic Training | 23.00% | ~15,699 |
+| Furchtlos und Treu | 13.00% | ~8,873 |
+| Gott Mit Uns | 12.00% | ~8,191 |
+| This We'll Defend! | 9.00% | ~6,143 |
+| Providentiea Memor | 9.00% | ~6,143 |
+| For King and Country | 9.00% | ~6,143 |
 | Battle hardened | 8.00% | ~5,460 |
 | Anker wirf! | 8.00% | ~5,460 |
-| Semper Fidelis! | 7.00% | ~4,777 |
-| Honneur et Patrie | 7.00% | ~4,777 |
-| In Treue Fest | 5.00% | ~3,412 |
-| Voor De Koning | 5.00% | ~3,412 |
-| Extreme Headhunter | 5.00% | ~3,412 |
+| Semper Fidelis! | 7.00% | ~4,778 |
+| Honneur et Patrie | 7.00% | ~4,778 |
+| In Treue Fest | 5.00% | ~3,413 |
+| Voor De Koning | 5.00% | ~3,413 |
+| Extreme Headhunter | 5.00% | ~3,413 |
 | Advance Australia | 4.00% | ~2,730 |
 | We Stand on Guard | 4.00% | ~2,730 |
 | Sidi Brahim | 4.00% | ~2,730 |
 | War is better with friends I | 4.00% | ~2,730 |
 | Let them, come to us | 4.00% | ~2,730 |
 | Corpseman II | 4.00% | ~2,730 |
-| Offense is the best defence | 3.00% | ~2,047 |
-| There is no I in team | 3.00% | ~2,047 |
-| Veteran | 3.00% | ~2,047 |
-| Manual Labour II | 3.00% | ~2,047 |
-| In My Defens God Me Defend | 3.00% | ~2,047 |
-| Silver x100 | 3.00% | ~2,047 |
-| Impavidum Ferient Bella! | 3.00% | ~2,047 |
+| Offense is the best defence | 3.00% | ~2,048 |
+| There is no I in team | 3.00% | ~2,048 |
+| Veteran | 3.00% | ~2,048 |
+| Manual Labour II | 3.00% | ~2,048 |
+| In My Defens God Me Defend | 3.00% | ~2,048 |
+| Silver x100 | 3.00% | ~2,048 |
+| Impavidum Ferient Bella! | 3.00% | ~2,048 |
 | Bronze x100 | 2.00% | ~1,365 |
 | Shoot, Cover, Reload, Repeat | 2.00% | ~1,365 |
-| Gold x100 | 1.00% | ~682 |
-| Hunting the Hun | 1.00% | ~682 |
-| #1 | 1.00% | ~682 |
-| Golden Headhunter | 1.00% | ~682 |
-| That's another one down! | 1.00% | ~682 |
-| Do you even die? | 1.00% | ~682 |
-| Headhunter II | 1.00% | ~682 |
-| Corpseman III | 1.00% | ~682 |
+| Gold x100 | 1.00% | ~683 |
+| Hunting the Hun | 1.00% | ~683 |
+| #1 | 1.00% | ~683 |
+| Golden Headhunter | 1.00% | ~683 |
+| That's another one down! | 1.00% | ~683 |
+| Do you even die? | 1.00% | ~683 |
+| Headhunter II | 1.00% | ~683 |
+| Corpseman III | 1.00% | ~683 |
 | Elite Player | 0.80% | ~546 |
 | Manual Labour III | 0.40% | ~273 |
 | Buddy | 0.30% | ~205 |
-| War is better with friends II | 0.20% | ~136 |
+| War is better with friends II | 0.20% | ~137 |
 | Gold Collector | 0.10% | ~68 |
 | Gold Hoarder | 0.10% | ~68 |
 | Silver Collector | 0.10% | ~68 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~68 |
 | Blood Brother | 0.10% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,248 (Ranked 114)  
+Progressed: 68,255 (Ranked 114)  
 Completed: 4 (0.01%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,11 +323,11 @@ Completed: 4 (0.01%) (Ranked 368)
 | 2023-12-30 | 68,042 | 4 |
 | 2023-12-31 | 68,140 | 4 |
 | 2024-01-01 | 68,244 | 4 |
-| 2024-01-02 | 68,248 | 4 |
+| 2024-01-02 | 68,255 | 4 |
 ## Awards
-Max (Highly Recommended): 105  (Ranked 368)  
+Max (Highly Recommended): 105  (Ranked 369)  
 Sum: 830 (Ranked 286)  
-Diff (max vs sum): 82  
+Diff (max vs sum): 83  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 106 |

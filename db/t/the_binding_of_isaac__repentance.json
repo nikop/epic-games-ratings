@@ -3,12 +3,12 @@
   "Name": "The Binding of Isaac: Repentance",
   "ProductSlug": "the-binding-of-isaac-repentance",
   "Ranking_Rating": 7,
-  "Ranking_Popularity": 118,
+  "Ranking_Popularity": 119,
   "Ranking_PopularitySum": 98,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 573,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 572,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-03-31T07:00:00+00:00",
     "PcReleaseDate": "2021-03-31T07:00:00+00:00",
@@ -5746,10 +5746,16 @@
       "Rating": 4.9,
       "NumberOfAwards": 9263,
       "NumberOfAwardsMax": 1978
+    },
+    {
+      "Time": "2024-01-02T01:48:00.7704443+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 9266,
+      "NumberOfAwardsMax": 1978
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9263,
+  "NumberOfAwards": 9266,
   "NumberOfAwardsMax": 1978,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5775,7 +5781,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 588
+      "Count": 590
     },
     {
       "Text": "This game has Challenging Combat",
@@ -5799,7 +5805,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 580
+      "Count": 581
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5843,8 +5849,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:34.9311333+00:00",
-  "LastChanged": "2024-01-02T00:00:42.5609136+00:00",
+  "LastChanged": "2024-01-02T01:48:00.7704438+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:46.7235935+00:00",
-  "LastUpdate_Ratings": "2024-01-02T00:00:42.5609144+00:00",
-  "LastUpdate_Achievements": "2024-01-02T00:04:16.2499594+00:00"
+  "LastUpdate_Ratings": "2024-01-02T01:48:00.7704447+00:00",
+  "LastUpdate_Achievements": "2024-01-02T01:51:49.9219491+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
   "Ranking_Rating": 303,
-  "Ranking_Popularity": 367,
-  "Ranking_PopularitySum": 298,
+  "Ranking_Popularity": 368,
+  "Ranking_PopularitySum": 299,
   "Ranking_EOS_Progress": 194,
-  "Ranking_EOS_Completed": 350,
+  "Ranking_EOS_Completed": 349,
   "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1515,9 +1515,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6836,
+  "EOS_Progressed": 6838,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15780,6 +15780,11 @@
       "Time": "2024-01-02T00:08:09.0765921+00:00",
       "NumProgressed": 6836,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-02T01:54:12.4236594+00:00",
+      "NumProgressed": 6838,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -15847,7 +15852,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1026
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -15863,7 +15868,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1026
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -15877,9 +15882,9 @@
       "ID": "ACH_EP_ONEPERCENTERS",
       "SetID": "1p8ab95",
       "Name": "Beware The Betman",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 410
+      "UsersEstimate": 342
     },
     {
       "ID": "ACH_EP_PENULTIMOOFTHECARIBBEAN",
@@ -15887,7 +15892,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3008
+      "UsersEstimate": 3009
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -15911,7 +15916,7 @@
       "Name": "Number 18",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1572
+      "UsersEstimate": 1573
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -15941,9 +15946,9 @@
       "ID": "ACH_GOVERNATOR",
       "SetID": "1p8ab95",
       "Name": "The Governator",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1162
+      "UsersEstimate": 1094
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -15951,7 +15956,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 4990
+      "UsersEstimate": 4992
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -15975,7 +15980,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 18,
       "XP": 35,
-      "UsersEstimate": 1230
+      "UsersEstimate": 1231
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -16047,7 +16052,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 3076
+      "UsersEstimate": 3077
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -16063,7 +16068,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2461
+      "UsersEstimate": 2462
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -16110,15 +16115,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6836,
+      "Progressed": 6838,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2024-01-01T23:00:51.8324602+00:00",
-  "LastChanged_Achievements": "2024-01-02T00:08:09.0765917+00:00",
+  "LastChanged_Achievements": "2024-01-02T01:54:12.4236591+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:30.406474+00:00",
-  "LastUpdate_Ratings": "2024-01-02T00:00:06.7921642+00:00",
-  "LastUpdate_Achievements": "2024-01-02T00:08:09.0766869+00:00"
+  "LastUpdate_Ratings": "2024-01-02T01:47:24.8476661+00:00",
+  "LastUpdate_Achievements": "2024-01-02T01:54:12.4237587+00:00"
 }

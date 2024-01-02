@@ -4,8 +4,8 @@
   "ProductSlug": "ebola-2-b61221",
   "Ranking_EOS_Progress": 382,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 417,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 418,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
     "PcReleaseDate": "2020-12-20T03:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 316,
+  "EOS_Progressed": 317,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
@@ -1279,6 +1279,11 @@
       "Time": "2024-01-01T12:10:29.1442052+00:00",
       "NumProgressed": 316,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T01:57:27.0096609+00:00",
+      "NumProgressed": 317,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 18,
@@ -1330,7 +1335,7 @@
       "Name": "Survival \u2714",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "achEye",
@@ -1410,7 +1415,7 @@
       "Name": "Statue \u2714",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "achVirus",
@@ -1433,14 +1438,14 @@
     {
       "ID": "1al1mjg",
       "IsBase": true,
-      "Progressed": 316,
+      "Progressed": 317,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2024-01-02T00:10:15.9581373+00:00",
+  "LastChanged_Achievements": "2024-01-02T01:57:27.0096605+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:31.1448183+00:00",
-  "LastUpdate_Ratings": "2024-01-02T00:02:54.9812128+00:00",
-  "LastUpdate_Achievements": "2024-01-02T00:10:15.9581516+00:00"
+  "LastUpdate_Ratings": "2024-01-02T01:50:27.6802535+00:00",
+  "LastUpdate_Achievements": "2024-01-02T01:57:27.0096757+00:00"
 }

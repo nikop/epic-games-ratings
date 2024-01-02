@@ -5,10 +5,10 @@
   "Ranking_Rating": 560,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 525,
-  "Ranking_EOS_Progress": 398,
+  "Ranking_EOS_Progress": 397,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -288,9 +288,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 279,
+  "EOS_Progressed": 280,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -1368,6 +1368,11 @@
       "Time": "2024-01-01T22:08:54.6386705+00:00",
       "NumProgressed": 279,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-02T01:56:38.3654274+00:00",
+      "NumProgressed": 280,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1380,7 +1385,7 @@
       "Name": "Mash Machine",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1394,9 +1399,9 @@
       "ID": "ACH_ANAL_PROBE_TRIPPLE_CRIT",
       "SetID": "4n84pon",
       "Name": "Perfect Probulator",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_BASKETBALL_SLAM",
@@ -1490,9 +1495,9 @@
       "ID": "ACH_DISLOCATOR_BOWLING",
       "SetID": "4n84pon",
       "Name": "Ducks in a Row, Fish in a Barrel",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -1516,7 +1521,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1540,7 +1545,7 @@
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_KILL_BONGWATER",
@@ -1548,7 +1553,7 @@
       "Name": "Bodied Sattva",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -1666,9 +1671,9 @@
       "ID": "ACH_SKATE_AWAY_FROM_SPORE",
       "SetID": "4n84pon",
       "Name": "Dusted",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_SKATE_BAYCITY",
@@ -1731,7 +1736,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 279,
+      "Progressed": 280,
       "Completed": 1
     }
   ],
@@ -1739,8 +1744,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-31T11:01:39.7283208+00:00",
-  "LastChanged_Achievements": "2024-01-02T00:09:26.2977649+00:00",
+  "LastChanged_Achievements": "2024-01-02T01:56:38.365427+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.261947+00:00",
-  "LastUpdate_Ratings": "2024-01-01T23:57:47.0176334+00:00",
-  "LastUpdate_Achievements": "2024-01-02T00:09:26.2978064+00:00"
+  "LastUpdate_Ratings": "2024-01-02T01:45:02.6594902+00:00",
+  "LastUpdate_Achievements": "2024-01-02T01:56:38.3654584+00:00"
 }

@@ -6,61 +6,61 @@ Number of Ratings: 209  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good Morning | 99.00% | ~2,383 |
-| Hit Rock Bottom | 97.00% | ~2,335 |
-| High Jump | 97.00% | ~2,335 |
-| Rocket Launched | 97.00% | ~2,335 |
-| Speed | 97.00% | ~2,335 |
-| Knee bending | 96.00% | ~2,311 |
-| Pickaxe | 94.00% | ~2,263 |
-| Cage Town | 94.00% | ~2,263 |
+| Good Morning | 99.00% | ~2,384 |
+| Hit Rock Bottom | 97.00% | ~2,336 |
+| Rocket Launched | 97.00% | ~2,336 |
+| Speed | 97.00% | ~2,336 |
+| High Jump | 96.00% | ~2,312 |
+| Knee bending | 96.00% | ~2,312 |
+| Pickaxe | 94.00% | ~2,264 |
+| Cage Town | 94.00% | ~2,264 |
 | Force Beam | 93.00% | ~2,239 |
 | Entered Cage Town | 93.00% | ~2,239 |
 | Stone Pickaxe | 93.00% | ~2,239 |
 | Revenge | 93.00% | ~2,239 |
 | Surprise | 93.00% | ~2,239 |
-| Magnet | 90.00% | ~2,166 |
-| Industrial Area | 89.00% | ~2,142 |
-| Magnet Repel | 88.00% | ~2,118 |
-| You feel middle classy | 87.00% | ~2,094 |
-| Boomeraxe | 87.00% | ~2,094 |
-| Iron Pickaxe | 87.00% | ~2,094 |
-| Banking District | 86.00% | ~2,070 |
-| Mission Unlikely | 86.00% | ~2,070 |
-| Arrested | 85.00% | ~2,046 |
-| Zappy Gun | 85.00% | ~2,046 |
-| Got your own one now | 85.00% | ~2,046 |
-| Don't draw dicks pls | 85.00% | ~2,046 |
-| Ripped | 84.00% | ~2,022 |
-| Beat the big arena | 83.00% | ~1,998 |
-| Force Cube | 82.00% | ~1,974 |
+| Magnet | 90.00% | ~2,167 |
+| Industrial Area | 89.00% | ~2,143 |
+| Magnet Repel | 88.00% | ~2,119 |
+| You feel middle classy | 87.00% | ~2,095 |
+| Boomeraxe | 87.00% | ~2,095 |
+| Iron Pickaxe | 87.00% | ~2,095 |
+| Banking District | 86.00% | ~2,071 |
+| Mission Unlikely | 86.00% | ~2,071 |
+| Arrested | 85.00% | ~2,047 |
+| Zappy Gun | 85.00% | ~2,047 |
+| Got your own one now | 85.00% | ~2,047 |
+| Don't draw dicks pls | 85.00% | ~2,047 |
+| Ripped | 84.00% | ~2,023 |
+| Beat the big arena | 83.00% | ~1,999 |
+| Force Cube | 82.00% | ~1,975 |
 | Got Battery | 81.00% | ~1,950 |
-| Guard Distracted | 81.00% | ~1,950 |
+| Guard Distracted | 80.00% | ~1,926 |
 | Translocator | 80.00% | ~1,926 |
-| Inner Peace | 78.00% | ~1,877 |
-| Diamond Pickaxe | 77.00% | ~1,853 |
-| Trickle Down Economy | 77.00% | ~1,853 |
-| Killed them all | 76.00% | ~1,829 |
-| Win | 76.00% | ~1,829 |
-| Greenhouse | 72.00% | ~1,733 |
-| Played with fire | 70.00% | ~1,685 |
-| You feel very sorry | 70.00% | ~1,685 |
+| Inner Peace | 78.00% | ~1,878 |
+| Diamond Pickaxe | 77.00% | ~1,854 |
+| Trickle Down Economy | 77.00% | ~1,854 |
+| Killed them all | 76.00% | ~1,830 |
+| Win | 76.00% | ~1,830 |
+| Greenhouse | 72.00% | ~1,734 |
+| Played with fire | 70.00% | ~1,686 |
+| You feel very sorry | 70.00% | ~1,686 |
 | No Match for you | 65.00% | ~1,565 |
-| Bouncy | 62.00% | ~1,492 |
-| Plumbster | 60.00% | ~1,444 |
-| Faster | 60.00% | ~1,444 |
-| Much Magic | 58.00% | ~1,396 |
+| Bouncy | 62.00% | ~1,493 |
+| Plumbster | 60.00% | ~1,445 |
+| Faster | 60.00% | ~1,445 |
+| Much Magic | 58.00% | ~1,397 |
 | Chest Detector | 56.00% | ~1,348 |
 | Flames | 53.00% | ~1,276 |
-| Momentum | 46.00% | ~1,107 |
+| Momentum | 46.00% | ~1,108 |
 | You're unsure if you broke the game or not | 43.00% | ~1,035 |
 | But wait... ...There's more... | 40.00% | ~963 |
-| So much force | 35.00% | ~842 |
+| So much force | 35.00% | ~843 |
 | You feel fully engaged | 24.00% | ~578 |
-| Too hot | 20.00% | ~481 |
-| All the chests | 14.00% | ~337 |
+| Too hot | 20.00% | ~482 |
+| All the chests | 13.00% | ~313 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,407 (Ranked 234)  
+Progressed: 2,408 (Ranked 234)  
 Completed: 292 (12.13%) (Ranked 37)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,10 +285,11 @@ Completed: 292 (12.13%) (Ranked 37)
 | 2023-12-30 | 2,400 | 291 |
 | 2023-12-31 | 2,402 | 292 |
 | 2024-01-01 | 2,407 | 292 |
+| 2024-01-02 | 2,408 | 292 |
 ## Awards
-Max (Challenging Puzzles): 109  (Ranked 362)  
+Max (Challenging Puzzles): 109  (Ranked 363)  
 Sum: 109 (Ranked 461)  
-Diff (max vs sum): -99  
+Diff (max vs sum): -98  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 109 |

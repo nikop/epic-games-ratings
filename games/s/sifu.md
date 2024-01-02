@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 5.00% | ~37,572 |
-| The Assault | 4.00% | ~30,057 |
-| Life is your teacher | 4.00% | ~30,057 |
-| Lightning Hands | 4.00% | ~30,057 |
+| The Old Grandmaster | 5.00% | ~37,573 |
+| The Assault | 4.00% | ~30,059 |
+| Life is your teacher | 4.00% | ~30,059 |
+| Lightning Hands | 4.00% | ~30,059 |
 | The Hateful Pole Fighter | 2.00% | ~15,029 |
 | A Lady's Blood in the Snow | 2.00% | ~15,029 |
 | Kill Nil | 2.00% | ~15,029 |
@@ -22,18 +22,18 @@ Number of Ratings: 9,492  (23.09.2022)
 | Path of the Prospect | 2.00% | ~15,029 |
 | Rumble in the Hangar | 2.00% | ~15,029 |
 | Diligence as a goal | 2.00% | ~1,215 |
-| Lady Wing Chun | 1.00% | ~7,514 |
-| Furious Fists | 1.00% | ~7,514 |
-| Scareless | 1.00% | ~7,514 |
-| Qi Gong: Mind | 1.00% | ~7,514 |
-| I know Kung-Fu | 1.00% | ~7,514 |
-| Kung-Fu Tussle | 1.00% | ~7,514 |
-| Take damage to save time | 1.00% | ~7,514 |
-| Project Arena | 1.00% | ~607 |
+| Lady Wing Chun | 1.00% | ~7,515 |
+| Furious Fists | 1.00% | ~7,515 |
+| Scareless | 1.00% | ~7,515 |
+| Qi Gong: Mind | 1.00% | ~7,515 |
+| I know Kung-Fu | 1.00% | ~7,515 |
+| Kung-Fu Tussle | 1.00% | ~7,515 |
+| Take damage to save time | 1.00% | ~7,515 |
+| Project Arena | 1.00% | ~608 |
 | Dance of the Praying Mantis | 0.90% | ~6,763 |
 | Fight the way you practice | 0.70% | ~425 |
 | Muk Yan Master | 0.60% | ~4,509 |
-| Martial Hub | 0.60% | ~364 |
+| Martial Hub | 0.60% | ~365 |
 | Tiger on Fire | 0.50% | ~3,757 |
 | Source of Flying Daggers | 0.50% | ~3,757 |
 | Iron Money | 0.50% | ~3,757 |
@@ -54,11 +54,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Master of the Phoenix Eye Fist | 0.20% | ~1,503 |
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,503 |
 | Be like water my friend | 0.20% | ~1,503 |
-| A Touch of Acumen | 0.20% | ~121 |
-| Crouching Tiger | 0.20% | ~121 |
-| Skill and an even stronger will | 0.20% | ~121 |
-| Master of the Flying Assassins | 0.20% | ~121 |
-| Beatmaker | 0.20% | ~121 |
+| A Touch of Acumen | 0.20% | ~122 |
+| Crouching Tiger | 0.20% | ~122 |
+| Skill and an even stronger will | 0.20% | ~122 |
+| Master of the Flying Assassins | 0.20% | ~122 |
+| Beatmaker | 0.20% | ~122 |
 | Warriors from the Mountain | 0.10% | ~751 |
 | Secure, Protect, Leave | 0.10% | ~61 |
 | Hidden Dragon | 0.10% | ~61 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~61 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 751,435 (Ranked 23)  
+Progressed: 751,463 (Ranked 23)  
 Completed: 12,971 (1.73%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 12,971 (1.73%) (Ranked 143)
 | 2023-12-30 | 749,350 | 12,969 |
 | 2023-12-31 | 750,399 | 12,971 |
 | 2024-01-01 | 751,425 | 12,971 |
-| 2024-01-02 | 751,435 | 12,971 |
+| 2024-01-02 | 751,463 | 12,971 |
 ## Awards
 Max (Great Boss Battles): 7,070  (Ranked 55)  
 Sum: 11,967 (Ranked 87)  

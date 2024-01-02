@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 11,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-06-01T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -2203,10 +2203,16 @@
       "Rating": 4.35,
       "NumberOfAwards": 641,
       "NumberOfAwardsMax": 92
+    },
+    {
+      "Time": "2024-01-02T01:44:51.6748194+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 643,
+      "NumberOfAwardsMax": 92
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 641,
+  "NumberOfAwards": 643,
   "NumberOfAwardsMax": 92,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2238,7 +2244,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 55
+      "Count": 57
     },
     {
       "Text": "This game is Relaxing",
@@ -2283,9 +2289,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 1298257,
+  "EOS_Progressed": 1298280,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1972,
+  "EOS_NewPlayers": 1976,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27403,6 +27409,11 @@
       "Time": "2024-01-02T00:05:34.7003758+00:00",
       "NumProgressed": 1298257,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T01:53:09.4792855+00:00",
+      "NumProgressed": 1298280,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -27526,7 +27537,7 @@
       "Name": "10 Kills as a Ghost!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 142808
+      "UsersEstimate": 142811
     },
     {
       "ID": "10_ghost_wins",
@@ -27534,7 +27545,7 @@
       "Name": "10 Ghost Wins!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 103861
+      "UsersEstimate": 103862
     },
     {
       "ID": "10_hero_prop_kills",
@@ -27550,7 +27561,7 @@
       "Name": "10 Kills as a Hunter!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 207721
+      "UsersEstimate": 207725
     },
     {
       "ID": "10_hunter_wins",
@@ -27558,7 +27569,7 @@
       "Name": "10 Hunter Wins!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 77895
+      "UsersEstimate": 77897
     },
     {
       "ID": "10_prop_headshots",
@@ -27566,7 +27577,7 @@
       "Name": "10 Headshots as A Prop!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 25965
+      "UsersEstimate": 25966
     },
     {
       "ID": "250_c4_kills",
@@ -27678,7 +27689,7 @@
       "Name": "25 Taunts In One Game!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 51930
+      "UsersEstimate": 51931
     },
     {
       "ID": "50_riot_shield_kills",
@@ -27702,7 +27713,7 @@
       "Name": "ACE!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 129826
+      "UsersEstimate": 129828
     },
     {
       "ID": "ghost_win",
@@ -27710,7 +27721,7 @@
       "Name": "Ghost Victory!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 765972
+      "UsersEstimate": 765985
     },
     {
       "ID": "hunter_win",
@@ -27718,7 +27729,7 @@
       "Name": "Hunter Victory!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 701059
+      "UsersEstimate": 701071
     },
     {
       "ID": "master_of_loadouts",
@@ -27742,23 +27753,23 @@
       "Name": "Unlock Any Cosmetic",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 285617
+      "UsersEstimate": 285622
     }
   ],
   "AchievementSets": [
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1298257,
+      "Progressed": 1298280,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-01T17:56:58.3739755+00:00",
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
-  "LastChanged": "2023-12-31T20:02:54.3760963+00:00",
-  "LastChanged_Achievements": "2024-01-02T00:05:34.7003755+00:00",
+  "LastChanged": "2024-01-02T01:44:51.6748193+00:00",
+  "LastChanged_Achievements": "2024-01-02T01:53:09.4792852+00:00",
   "LastUpdate_AppInfo": "2023-12-29T11:57:17.553463+00:00",
-  "LastUpdate_Ratings": "2024-01-01T23:57:36.538056+00:00",
-  "LastUpdate_Achievements": "2024-01-02T00:05:34.7005231+00:00"
+  "LastUpdate_Ratings": "2024-01-02T01:44:51.6748197+00:00",
+  "LastUpdate_Achievements": "2024-01-02T01:53:09.479451+00:00"
 }

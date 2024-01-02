@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 452,
+  "EOS_Progressed": 453,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -1914,6 +1914,11 @@
       "Time": "2024-01-02T00:04:02.3181211+00:00",
       "NumProgressed": 452,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-02T01:51:36.1645362+00:00",
+      "NumProgressed": 453,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -1926,7 +1931,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 90,
       "XP": 50,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -1950,7 +1955,7 @@
       "Name": "Amusement Park",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
@@ -1958,7 +1963,7 @@
       "Name": "Empty Shelves",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "CATCH_30_FISH",
@@ -1990,7 +1995,7 @@
       "Name": "Farmer",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "HOUSEWARMING",
@@ -1998,7 +2003,7 @@
       "Name": "A Party to Remember!",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "LUNCH_LEECH",
@@ -2006,7 +2011,7 @@
       "Name": "Leech Lunch",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
@@ -2022,7 +2027,7 @@
       "Name": "Tough Guy",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "PREPARE_10_COFFEE",
@@ -2046,7 +2051,7 @@
       "Name": "Bridge Builder",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "SLEEP_50_HOURS",
@@ -2068,9 +2073,9 @@
       "ID": "TAKE_LEECH",
       "SetID": "aniflfk",
       "Name": "Uppies!",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 50,
-      "UsersEstimate": 330
+      "UsersEstimate": 335
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -2078,21 +2083,21 @@
       "Name": "Strong Signal",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     }
   ],
   "AchievementSets": [
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 452,
+      "Progressed": 453,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2024-01-02T00:04:02.3181208+00:00",
+  "LastChanged_Achievements": "2024-01-02T01:51:36.1645357+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:54.5394751+00:00",
-  "LastUpdate_Ratings": "2024-01-02T00:02:51.8017365+00:00",
-  "LastUpdate_Achievements": "2024-01-02T00:04:02.3181407+00:00"
+  "LastUpdate_Ratings": "2024-01-02T01:50:24.8358757+00:00",
+  "LastUpdate_Achievements": "2024-01-02T01:51:36.1645576+00:00"
 }

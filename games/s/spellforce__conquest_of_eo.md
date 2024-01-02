@@ -70,12 +70,12 @@
 | Breaking the circle | 3.00% | ~3 |
 | My Friends! | 3.00% | ~3 |
 | Hard Life | 2.00% | ~2 |
-| Impossible Mission | 0.90% | ~1 |
+| Impossible Mission | 2.00% | ~2 |
 | Potion Master | 0.00% | ~0 |
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 107 (Ranked 482)  
+Progressed: 107 (Ranked 483)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |

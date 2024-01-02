@@ -6,10 +6,10 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 10.00% | ~14,891 |
-| Titan's First Steps | 10.00% | ~14,891 |
-| Basic in Bulk | 9.00% | ~13,402 |
-| Tinkle of Coins | 9.00% | ~13,402 |
+| Sponsored by Argon | 10.00% | ~14,892 |
+| Titan's First Steps | 10.00% | ~14,892 |
+| Basic in Bulk | 9.00% | ~13,403 |
+| Tinkle of Coins | 9.00% | ~13,403 |
 | Disintermediation | 7.00% | ~10,424 |
 | Capitalism Ho! | 7.00% | ~10,424 |
 | It's Free Real Estate | 6.00% | ~8,935 |
@@ -19,35 +19,35 @@ Number of Ratings: 12,664  (23.09.2022)
 | Another Satisfied Customer | 5.00% | ~7,446 |
 | Pretty Penny | 5.00% | ~7,446 |
 | Own the Means of Production | 5.00% | ~7,446 |
-| The Daily Grind | 4.00% | ~5,956 |
-| Bounty Hunters | 4.00% | ~5,956 |
-| Demand for Supplies | 4.00% | ~5,956 |
-| Flooding the Market | 4.00% | ~5,956 |
-| Where it Hurts | 4.00% | ~5,956 |
-| Gild-Gotten Goods | 4.00% | ~5,956 |
-| One-Armed Bandit | 4.00% | ~5,956 |
-| Dungeon Imports | 4.00% | ~5,956 |
-| Through Repetition, Perfection | 4.00% | ~5,956 |
-| Arcane Industries | 4.00% | ~5,956 |
-| On the Path to Greatness | 3.00% | ~4,467 |
-| Ascended | 3.00% | ~4,467 |
-| Tax not Included | 3.00% | ~4,467 |
-| Research & Development | 3.00% | ~4,467 |
-| Vanity, Verily | 3.00% | ~4,467 |
-| Fated Encounters | 3.00% | ~4,467 |
-| Blank Page Syndrome | 3.00% | ~4,467 |
-| Power of Love | 3.00% | ~4,467 |
-| Efficient Floor Space | 3.00% | ~4,467 |
-| Flawless Fusion | 3.00% | ~4,467 |
-| Trash to Treasure | 3.00% | ~4,467 |
-| Gem Expert | 3.00% | ~4,467 |
-| Royal Ransom | 3.00% | ~4,467 |
-| Helping Hand | 3.00% | ~4,467 |
-| Accomplished Merchant | 3.00% | ~4,467 |
-| Natural 20 | 3.00% | ~4,467 |
-| Did we pack lunch? | 3.00% | ~4,467 |
-| Magical Harmony | 3.00% | ~4,467 |
-| Complete Monopoly | 3.00% | ~4,467 |
+| The Daily Grind | 4.00% | ~5,957 |
+| Bounty Hunters | 4.00% | ~5,957 |
+| Demand for Supplies | 4.00% | ~5,957 |
+| Flooding the Market | 4.00% | ~5,957 |
+| Where it Hurts | 4.00% | ~5,957 |
+| Gild-Gotten Goods | 4.00% | ~5,957 |
+| One-Armed Bandit | 4.00% | ~5,957 |
+| Dungeon Imports | 4.00% | ~5,957 |
+| Through Repetition, Perfection | 4.00% | ~5,957 |
+| Arcane Industries | 4.00% | ~5,957 |
+| On the Path to Greatness | 3.00% | ~4,468 |
+| Ascended | 3.00% | ~4,468 |
+| Tax not Included | 3.00% | ~4,468 |
+| Research & Development | 3.00% | ~4,468 |
+| Vanity, Verily | 3.00% | ~4,468 |
+| Fated Encounters | 3.00% | ~4,468 |
+| Blank Page Syndrome | 3.00% | ~4,468 |
+| Power of Love | 3.00% | ~4,468 |
+| Efficient Floor Space | 3.00% | ~4,468 |
+| Flawless Fusion | 3.00% | ~4,468 |
+| Trash to Treasure | 3.00% | ~4,468 |
+| Gem Expert | 3.00% | ~4,468 |
+| Royal Ransom | 3.00% | ~4,468 |
+| Helping Hand | 3.00% | ~4,468 |
+| Accomplished Merchant | 3.00% | ~4,468 |
+| Natural 20 | 3.00% | ~4,468 |
+| Did we pack lunch? | 3.00% | ~4,468 |
+| Magical Harmony | 3.00% | ~4,468 |
+| Complete Monopoly | 3.00% | ~4,468 |
 | A Notch Above the Rest | 2.00% | ~2,978 |
 | Cream of the Crop | 2.00% | ~2,978 |
 | Top of the World | 2.00% | ~2,978 |
@@ -111,15 +111,15 @@ Number of Ratings: 12,664  (23.09.2022)
 | Anything not Nailed Down | 0.80% | ~1,191 |
 | Marvels from the World Over | 0.80% | ~1,191 |
 | Unleashed Potential | 0.70% | ~1,042 |
-| Ultimate Collector | 0.60% | ~893 |
-| JACKPOT!!! | 0.60% | ~893 |
+| Ultimate Collector | 0.60% | ~894 |
+| JACKPOT!!! | 0.60% | ~894 |
 | Oligarch Monarch | 0.50% | ~745 |
 | Merchant Extraordinaire | 0.50% | ~745 |
 | To Hell and Back | 0.40% | ~596 |
 | Cash Only Please | 0.40% | ~596 |
 | Capitalist Camaraderie | 0.20% | ~298 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 148,911 (Ranked 86)  
+Progressed: 148,918 (Ranked 86)  
 Completed: 340 (0.23%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -376,7 +376,7 @@ Completed: 340 (0.23%) (Ranked 267)
 | 2023-12-30 | 148,534 | 340 |
 | 2023-12-31 | 148,713 | 340 |
 | 2024-01-01 | 148,903 | 340 |
-| 2024-01-02 | 148,911 | 340 |
+| 2024-01-02 | 148,918 | 340 |
 ## Awards
 Max (Great for Beginners): 4,934  (Ranked 78)  
 Sum: 27,894 (Ranked 51)  

@@ -6,45 +6,45 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~312,315 |
-| Jeef Skeejj | 44.00% | ~208,210 |
-| Careful planning | 39.00% | ~184,550 |
-| Second Coming | 34.00% | ~160,889 |
-| Jeef Skagg | 30.00% | ~141,961 |
-| Mother | 25.00% | ~118,301 |
-| In space, no one can hear you scream | 24.00% | ~113,569 |
-| Chapter I: Echoes | 22.00% | ~104,105 |
-| Excelsior Rule | 22.00% | ~104,105 |
-| Things persisted in not being what they seemed | 20.00% | ~94,641 |
-| Knightmare Frames | 15.00% | ~70,981 |
-| May His passing cleanse the world | 15.00% | ~70,981 |
-| Chapter II: Fallible Flesh | 15.00% | ~70,981 |
-| Pope Zenon | 15.00% | ~70,981 |
-| Plan for the worst | 12.00% | ~56,784 |
-| Tetsuo | 11.00% | ~52,052 |
-| Chapter III: The Man Who Sold the World | 10.00% | ~47,320 |
-| Chapter IV: Through the Looking Glass | 8.00% | ~37,856 |
-| Through the mirror | 8.00% | ~37,856 |
-| General Vivar | 8.00% | ~37,856 |
-| Back to Ganyma | 8.00% | ~37,856 |
-| Kaos Rule | 8.00% | ~37,856 |
-| Admiral Okonkwo | 7.00% | ~33,124 |
-| The Survivalists | 7.00% | ~33,124 |
-| The Tech Specialist | 7.00% | ~33,124 |
-| Chapter V: Memories of None | 6.00% | ~28,392 |
-| Meet your maker | 6.00% | ~28,392 |
-| The Impersonator | 6.00% | ~28,392 |
-| The Kid | 6.00% | ~28,392 |
-| The Evangelist | 6.00% | ~28,392 |
-| The Inquisitor | 6.00% | ~28,392 |
-| The Ace Pilot | 6.00% | ~28,392 |
-| The Tech Med | 6.00% | ~28,392 |
-| The Mech Soldier | 6.00% | ~28,392 |
-| The lucky charm | 6.00% | ~28,392 |
-| The Anonymous | 6.00% | ~28,392 |
-| The Smuggler | 6.00% | ~28,392 |
-| The Crazy Repairman | 6.00% | ~28,392 |
-| The Weasel | 6.00% | ~28,392 |
+| The Shutdown | 66.00% | ~312,319 |
+| Jeef Skeejj | 44.00% | ~208,212 |
+| Careful planning | 39.00% | ~184,552 |
+| Second Coming | 34.00% | ~160,891 |
+| Jeef Skagg | 30.00% | ~141,963 |
+| Mother | 25.00% | ~118,302 |
+| In space, no one can hear you scream | 24.00% | ~113,570 |
+| Chapter I: Echoes | 22.00% | ~104,106 |
+| Excelsior Rule | 22.00% | ~104,106 |
+| Things persisted in not being what they seemed | 20.00% | ~94,642 |
+| Knightmare Frames | 15.00% | ~70,982 |
+| May His passing cleanse the world | 15.00% | ~70,982 |
+| Chapter II: Fallible Flesh | 15.00% | ~70,982 |
+| Pope Zenon | 15.00% | ~70,982 |
+| Plan for the worst | 12.00% | ~56,785 |
+| Tetsuo | 11.00% | ~52,053 |
+| Chapter III: The Man Who Sold the World | 10.00% | ~47,321 |
+| Chapter IV: Through the Looking Glass | 8.00% | ~37,857 |
+| Through the mirror | 8.00% | ~37,857 |
+| General Vivar | 8.00% | ~37,857 |
+| Back to Ganyma | 8.00% | ~37,857 |
+| Kaos Rule | 8.00% | ~37,857 |
+| Admiral Okonkwo | 7.00% | ~33,125 |
+| The Survivalists | 7.00% | ~33,125 |
+| The Tech Specialist | 7.00% | ~33,125 |
+| Chapter V: Memories of None | 6.00% | ~28,393 |
+| Meet your maker | 6.00% | ~28,393 |
+| The Impersonator | 6.00% | ~28,393 |
+| The Kid | 6.00% | ~28,393 |
+| The Evangelist | 6.00% | ~28,393 |
+| The Inquisitor | 6.00% | ~28,393 |
+| The Ace Pilot | 6.00% | ~28,393 |
+| The Tech Med | 6.00% | ~28,393 |
+| The Mech Soldier | 6.00% | ~28,393 |
+| The lucky charm | 6.00% | ~28,393 |
+| The Anonymous | 6.00% | ~28,393 |
+| The Smuggler | 6.00% | ~28,393 |
+| The Crazy Repairman | 6.00% | ~28,393 |
+| The Weasel | 6.00% | ~28,393 |
 | Kill the Doctor | 5.00% | ~23,660 |
 | Forsaken | 5.00% | ~23,660 |
 | Mercy | 5.00% | ~23,660 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~17 |
 | Kronos Rule | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 473,204 (Ranked 45)  
+Progressed: 473,210 (Ranked 45)  
 Completed: 21 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -343,7 +343,7 @@ Completed: 21 (0.00%) (Ranked 390)
 | 2023-12-30 | 473,076 | 21 |
 | 2023-12-31 | 473,142 | 21 |
 | 2024-01-01 | 473,201 | 21 |
-| 2024-01-02 | 473,204 | 21 |
+| 2024-01-02 | 473,210 | 21 |
 ## Awards
 Max (Character Customization): 228  (Ranked 284)  
 Sum: 252 (Ranked 397)  

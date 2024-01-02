@@ -5,35 +5,35 @@ Rating: 4.55 (Ranked 522)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 107.00% | ~19,220 |
-| Before the Downfall | 101.00% | ~18,143 |
-| Money like Water | 99.00% | ~17,783 |
-| Minimalist | 98.00% | ~17,604 |
-| Builder | 90.00% | ~16,167 |
-| Eraser | 76.00% | ~13,652 |
-| Pocket of Trains | 71.00% | ~12,754 |
+| Trevithick's Legacy | 107.00% | ~19,219 |
+| Before the Downfall | 101.00% | ~18,142 |
+| Money like Water | 99.00% | ~17,782 |
+| Minimalist | 98.00% | ~17,603 |
+| Builder | 90.00% | ~16,166 |
+| Eraser | 76.00% | ~13,651 |
+| Pocket of Trains | 71.00% | ~12,753 |
 | Inspector | 64.00% | ~11,496 |
 | Going the Distance | 59.00% | ~10,598 |
 | Oil Baron | 46.00% | ~8,263 |
 | Loads-a-Money | 46.00% | ~8,263 |
 | Helper of the People | 43.00% | ~7,724 |
 | Simplification | 37.00% | ~6,646 |
-| Box of Trains | 36.00% | ~6,467 |
+| Box of Trains | 36.00% | ~6,466 |
 | Let There be Light | 35.00% | ~6,287 |
 | Hot Water | 34.00% | ~6,107 |
 | Indecisive | 32.00% | ~5,748 |
 | The scenic route | 30.00% | ~5,389 |
 | Industrialist | 27.00% | ~4,850 |
 | Perfectionist | 26.00% | ~4,670 |
-| 8K is Enough for Everyone | 25.00% | ~4,491 |
-| Trains over Pipes | 25.00% | ~4,491 |
+| 8K is Enough for Everyone | 25.00% | ~4,490 |
+| Trains over Pipes | 25.00% | ~4,490 |
 | Man of Steel | 18.00% | ~3,233 |
 | Room Full of Trains | 14.00% | ~2,515 |
 | Investor | 11.00% | ~1,976 |
 | Multiverse | 8.00% | ~1,437 |
 | The poor groundwater levels | 8.00% | ~1,437 |
 | Metropolis | 8.00% | ~1,437 |
-| High Flier | 4.00% | ~719 |
+| High Flier | 4.00% | ~718 |
 | To infinity, and beyond! | 3.00% | ~539 |
 | Space industrialization | 2.00% | ~359 |
 | Deertastic | 1.00% | ~180 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 522)
 | Overdeer | 0.60% | ~108 |
 | Cloud Services | 0.30% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,963 (Ranked 158)  
+Progressed: 17,962 (Ranked 159)  
 Completed: 26 (0.14%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,6 +297,7 @@ Completed: 26 (0.14%) (Ranked 294)
 | 2023-12-30 | 18,004 | 26 |
 | 2023-12-31 | 17,992 | 26 |
 | 2024-01-01 | 17,978 | 26 |
+| 2024-01-02 | 17,962 | 26 |
 ## Awards
 Max (Quickly Understood Controls): 93  (Ranked 387)  
 Sum: 681 (Ranked 313)  

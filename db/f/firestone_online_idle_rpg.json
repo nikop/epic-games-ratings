@@ -3,12 +3,12 @@
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
   "Ranking_Rating": 1020,
-  "Ranking_Popularity": 476,
+  "Ranking_Popularity": 477,
   "Ranking_PopularitySum": 444,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -703,9 +703,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4082,
+  "EOS_Progressed": 4083,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 274,
+  "EOS_NewPlayers": 273,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -11513,6 +11513,11 @@
       "Time": "2024-01-02T00:08:04.8813927+00:00",
       "NumProgressed": 4082,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-02T01:54:08.0690139+00:00",
+      "NumProgressed": 4083,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -11658,9 +11663,9 @@
       "ID": "enchantingskill",
       "SetID": "3nl4bcg",
       "Name": "Enchanting skill",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 245
     },
     {
       "ID": "enchantingskillx5",
@@ -11708,7 +11713,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1714
+      "UsersEstimate": 1715
     },
     {
       "ID": "fourleafclover",
@@ -11796,7 +11801,7 @@
       "Name": "Inspection",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "jewelenchanting",
@@ -11924,7 +11929,7 @@
       "Name": "Prestigious x10",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "relicofthepast",
@@ -12084,7 +12089,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 3796
+      "UsersEstimate": 3797
     },
     {
       "ID": "warmachinesarmy",
@@ -12116,14 +12121,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3184
+      "UsersEstimate": 3185
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4082,
+      "Progressed": 4083,
       "Completed": 2
     }
   ],
@@ -12131,8 +12136,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-01T19:02:04.1949352+00:00",
-  "LastChanged_Achievements": "2024-01-02T00:08:04.8813925+00:00",
+  "LastChanged_Achievements": "2024-01-02T01:54:08.0690136+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:50.7213096+00:00",
-  "LastUpdate_Ratings": "2024-01-02T00:00:50.3030601+00:00",
-  "LastUpdate_Achievements": "2024-01-02T00:08:04.8815215+00:00"
+  "LastUpdate_Ratings": "2024-01-02T01:48:07.5458164+00:00",
+  "LastUpdate_Achievements": "2024-01-02T01:54:08.0691255+00:00"
 }

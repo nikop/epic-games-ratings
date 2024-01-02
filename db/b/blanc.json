@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3896,
+  "EOS_Progressed": 3898,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6446,6 +6446,11 @@
       "Time": "2024-01-02T00:08:24.8354859+00:00",
       "NumProgressed": 3896,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-02T01:54:27.8748838+00:00",
+      "NumProgressed": 3898,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -6521,7 +6526,7 @@
       "Name": "Starting as a duo",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -6529,7 +6534,7 @@
       "Name": "Stronger together",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "THE_END",
@@ -6553,14 +6558,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3896,
+      "Progressed": 3898,
       "Completed": 6
     }
   ],
@@ -6568,8 +6573,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2024-01-02T00:08:24.8354857+00:00",
+  "LastChanged_Achievements": "2024-01-02T01:54:27.8748834+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:59.0797821+00:00",
-  "LastUpdate_Ratings": "2024-01-01T23:59:02.5018565+00:00",
-  "LastUpdate_Achievements": "2024-01-02T00:08:24.8355185+00:00"
+  "LastUpdate_Ratings": "2024-01-02T01:46:19.1051713+00:00",
+  "LastUpdate_Achievements": "2024-01-02T01:54:27.8749285+00:00"
 }

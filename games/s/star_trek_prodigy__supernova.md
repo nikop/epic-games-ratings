@@ -21,6 +21,7 @@
 | Playing with Time | 11.00% | ~2 |
 | Escape from Mirios | 11.00% | ~2 |
 | Coming in from the Cold | 11.00% | ~2 |
+| Searching for Al'Shams | 11.00% | ~2 |
 | The Crew is Back! | 11.00% | ~2 |
 | Not Too Long | 11.00% | ~2 |
 | Welcome back | 11.00% | ~2 |
@@ -29,7 +30,6 @@
 | Priceless Collection | 6.00% | ~1 |
 | Quest for Loot | 6.00% | ~1 |
 | Proto Menagerie | 6.00% | ~1 |
-| Searching for Al'Shams | 6.00% | ~1 |
 | Seeking Discovery | 6.00% | ~1 |
 | Open Sesame | 6.00% | ~1 |
 | Trekkie | 6.00% | ~1 |

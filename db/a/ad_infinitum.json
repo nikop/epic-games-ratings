@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 437,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 297,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
     "PcReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -852,9 +852,9 @@
       "ID": "ACH_ALLKNOWING",
       "SetID": "88d7anj",
       "Name": "All knowing",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_ARTCRITIC",
@@ -868,9 +868,9 @@
       "ID": "ACH_AWAITINGORDERS",
       "SetID": "88d7anj",
       "Name": "Awaiting orders",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_AWAKEN",
@@ -940,9 +940,9 @@
       "ID": "ACH_LOST",
       "SetID": "88d7anj",
       "Name": "Lost",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_MAYHEM",
@@ -1028,9 +1028,9 @@
       "ID": "ACH_REFLECTIONS",
       "SetID": "88d7anj",
       "Name": "Reflections",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_THEIRNAMES",
@@ -1044,9 +1044,9 @@
       "ID": "ACH_THESHINING",
       "SetID": "88d7anj",
       "Name": "The shining",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     }
   ],
   "AchievementSets": [
@@ -1059,8 +1059,8 @@
   ],
   "FirstSeen": "2023-09-16T22:59:49.7725195+00:00",
   "FirstSeenAchievements": "2023-07-25T11:06:40.9201069+00:00",
-  "LastChanged_Achievements": "2024-01-02T00:04:15.0235472+00:00",
+  "LastChanged_Achievements": "2024-01-02T01:51:48.6878053+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:20.8016212+00:00",
-  "LastUpdate_Ratings": "2024-01-01T23:59:16.6854363+00:00",
-  "LastUpdate_Achievements": "2024-01-02T00:04:15.0235683+00:00"
+  "LastUpdate_Ratings": "2024-01-02T01:46:32.097682+00:00",
+  "LastUpdate_Achievements": "2024-01-02T01:51:48.6878239+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "darksiders3",
   "Ranking_Rating": 661,
   "Ranking_Popularity": 386,
-  "Ranking_PopularitySum": 468,
+  "Ranking_PopularitySum": 469,
   "Ranking_EOS_Progress": 367,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -462,7 +462,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 373,
+  "EOS_Progressed": 374,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
@@ -1417,6 +1417,11 @@
       "Time": "2024-01-01T23:06:35.8523792+00:00",
       "NumProgressed": 373,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-02T01:53:13.208084+00:00",
+      "NumProgressed": 374,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-13T09:04:44.5703562+00:00",
@@ -1477,7 +1482,7 @@
       "Name": "One Of the Chosen",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_1",
@@ -1499,9 +1504,9 @@
       "ID": "Collect_HealthStone_HealUpgrade_1",
       "SetID": "7a5k76n",
       "Name": "Increased Vigor",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 221
     },
     {
       "ID": "Collect_HealthStone_HealUpgrade_4",
@@ -1523,9 +1528,9 @@
       "ID": "Collect_Hollow_Force",
       "SetID": "7a5k76n",
       "Name": "I Wanna Rock",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 112
     },
     {
       "ID": "Collect_Hollow_Stasis",
@@ -1547,9 +1552,9 @@
       "ID": "Collect_Lurchers_100000",
       "SetID": "7a5k76n",
       "Name": "Soul Harvester",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 127
     },
     {
       "ID": "Collect_Lurchers_1000000",
@@ -1603,9 +1608,9 @@
       "ID": "Craft_Enhancement_First",
       "SetID": "7a5k76n",
       "Name": "Enhance!",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 153
     },
     {
       "ID": "Crucible_Kill_WickedK",
@@ -1741,7 +1746,7 @@
       "Name": "Love Tap",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "Kill_Enemies_666",
@@ -1789,7 +1794,7 @@
       "Name": "Eat Your Heart Out",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "Kill_Sin_Lust",
@@ -1835,9 +1840,9 @@
       "ID": "Save_Humans_1",
       "SetID": "7a5k76n",
       "Name": "Helping Hand",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 242
+      "UsersEstimate": 239
     },
     {
       "ID": "Save_Humans_10",
@@ -1845,7 +1850,7 @@
       "Name": "Crowd Source",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "Save_Humans_15",
@@ -1853,7 +1858,7 @@
       "Name": "Community Outreach",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "Save_Humans_20",
@@ -1869,15 +1874,15 @@
       "Name": "Five\u0027s a Crowd",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "Save_Usiel_No_Kill",
       "SetID": "7a5k76n",
       "Name": "For Whom the Bell Tolls",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 97
     },
     {
       "ID": "Spend_AttributePoint_1",
@@ -1893,7 +1898,7 @@
       "Name": "25 to Life",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "Spend_AttributePoint_50",
@@ -1925,7 +1930,7 @@
       "Name": "Just the start",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "Upgrade_Weapon_Max",
@@ -1940,15 +1945,15 @@
     {
       "ID": "7a5k76n",
       "IsBase": true,
-      "Progressed": 373,
+      "Progressed": 374,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-01T15:57:13.6479243+00:00",
-  "LastChanged_Achievements": "2024-01-02T00:05:38.6582563+00:00",
+  "LastChanged_Achievements": "2024-01-02T01:53:13.2080835+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.0817876+00:00",
-  "LastUpdate_Ratings": "2024-01-01T23:57:27.6238415+00:00",
-  "LastUpdate_Achievements": "2024-01-02T00:05:38.6583035+00:00"
+  "LastUpdate_Ratings": "2024-01-02T01:44:44.4552001+00:00",
+  "LastUpdate_Achievements": "2024-01-02T01:53:13.2081481+00:00"
 }

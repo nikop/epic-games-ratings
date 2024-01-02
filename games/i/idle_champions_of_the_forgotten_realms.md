@@ -6,20 +6,20 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~7,481 |
+| A Brief Tour of the Realms | 3.00% | ~7,483 |
+| Beast Intentions | 1.00% | ~2,494 |
 | The Cursed Farmer | 1.00% | ~2,494 |
-| Beast Intentions | 0.90% | ~2,244 |
-| The Mad Wizard | 0.80% | ~1,995 |
-| Welcome to Sigil | 0.80% | ~1,725 |
+| The Mad Wizard | 0.90% | ~2,245 |
+| Welcome to Sigil | 0.80% | ~1,726 |
 | Fast Food | 0.60% | ~1,294 |
 | The Ring of Regeneration | 0.50% | ~1,247 |
 | Are Ya Chicken? | 0.50% | ~1,247 |
 | The Overgrown Grove | 0.50% | ~1,078 |
 | Mental Gymnastics | 0.50% | ~1,078 |
-| Were-verpowered | 0.40% | ~997 |
-| Seeking Allies | 0.40% | ~997 |
-| Mad Cow Disease | 0.40% | ~997 |
-| Friendly Imps | 0.40% | ~997 |
+| Were-verpowered | 0.40% | ~998 |
+| Seeking Allies | 0.40% | ~998 |
+| Mad Cow Disease | 0.40% | ~998 |
+| Friendly Imps | 0.40% | ~998 |
 | When Tentacles Attack | 0.40% | ~863 |
 | Flames of Avernus | 0.40% | ~863 |
 | Don't Lose Your Head | 0.40% | ~863 |
@@ -553,8 +553,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~216 |
 | The Brains of an Illithid's Desire | 0.10% | ~216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,373 (Ranked 70)  
-Completed: 2,583 (1.04%) (Ranked 170)  
+Progressed: 249,424 (Ranked 70)  
+Completed: 2,584 (1.04%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -810,7 +810,7 @@ Completed: 2,583 (1.04%) (Ranked 170)
 | 2023-12-30 | 247,917 | 2,578 |
 | 2023-12-31 | 248,665 | 2,581 |
 | 2024-01-01 | 249,335 | 2,583 |
-| 2024-01-02 | 249,373 | 2,583 |
+| 2024-01-02 | 249,424 | 2,584 |
 ## Awards
 Max (Great for Beginners): 5,726  (Ranked 71)  
 Sum: 33,249 (Ranked 41)  

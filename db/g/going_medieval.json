@@ -2,13 +2,13 @@
   "ID": "d469e82d91fe4516a00d6566c3d2f8f7",
   "Name": "Going Medieval",
   "ProductSlug": "going-medieval",
-  "Ranking_Rating": 427,
+  "Ranking_Rating": 426,
   "Ranking_Popularity": 337,
   "Ranking_PopularitySum": 264,
   "Ranking_EOS_Progress": 191,
-  "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_Completed": 278,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1655,9 +1655,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 7693,
+  "EOS_Progressed": 7694,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -15965,6 +15965,11 @@
       "Time": "2024-01-02T00:05:07.2000636+00:00",
       "NumProgressed": 7693,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-02T01:52:41.2298319+00:00",
+      "NumProgressed": 7694,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -15984,7 +15989,7 @@
       "Name": "Beam Me Up",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 4000
+      "UsersEstimate": 4001
     },
     {
       "ID": "DISMANTLE_ITEMS_5",
@@ -15992,7 +15997,7 @@
       "Name": "Disassembled",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1692
+      "UsersEstimate": 1693
     },
     {
       "ID": "DISMANTLE_ITEMS_50",
@@ -16008,7 +16013,7 @@
       "Name": "Green Thumb",
       "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 5154
+      "UsersEstimate": 5155
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -16024,7 +16029,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 5616
+      "UsersEstimate": 5617
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -16032,7 +16037,7 @@
       "Name": "A Party Now",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 1692
+      "UsersEstimate": 1693
     },
     {
       "ID": "HUNT_DEER_20",
@@ -16040,7 +16045,7 @@
       "Name": "Deerly Departed",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "HUNT_DEER_5",
@@ -16048,7 +16053,7 @@
       "Name": "Oh Deer!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1769
+      "UsersEstimate": 1770
     },
     {
       "ID": "HUNT_RABBIT_20",
@@ -16136,7 +16141,7 @@
       "Name": "The First Day",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 5385
+      "UsersEstimate": 5386
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -16168,7 +16173,7 @@
       "Name": "All Year Round",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 1692
+      "UsersEstimate": 1693
     },
     {
       "ID": "SURVIVE_SEVEN_DAY",
@@ -16176,7 +16181,7 @@
       "Name": "The First Week",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4308
+      "UsersEstimate": 4309
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -16184,7 +16189,7 @@
       "Name": "Novice Researcher",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 5231
+      "UsersEstimate": 5232
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -16208,7 +16213,7 @@
       "Name": "Onward",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 4462
+      "UsersEstimate": 4463
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -16216,22 +16221,22 @@
       "Name": "Studious Researcher",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 4077
+      "UsersEstimate": 4078
     }
   ],
   "AchievementSets": [
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 7693,
+      "Progressed": 7694,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-12-30T00:02:42.2423565+00:00",
-  "LastChanged_Achievements": "2024-01-02T00:05:07.2000633+00:00",
+  "LastChanged_Achievements": "2024-01-02T01:52:41.2298313+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:26.1002888+00:00",
-  "LastUpdate_Ratings": "2024-01-01T23:58:04.496661+00:00",
-  "LastUpdate_Achievements": "2024-01-02T00:05:07.2001513+00:00"
+  "LastUpdate_Ratings": "2024-01-02T01:45:21.5564695+00:00",
+  "LastUpdate_Achievements": "2024-01-02T01:52:41.2299125+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -383,9 +383,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7035,
+  "EOS_Progressed": 7037,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8128,6 +8128,11 @@
       "Time": "2024-01-02T00:09:06.4762655+00:00",
       "NumProgressed": 7035,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-02T01:56:19.1559692+00:00",
+      "NumProgressed": 7037,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -8177,9 +8182,9 @@
       "ID": "BeBack",
       "SetID": "bmkn7o4",
       "Name": "I\u0027ll Be Back",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 42
     },
     {
       "ID": "BeyondTheCall",
@@ -8690,21 +8695,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 4074,
+      "Progressed": 4076,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 7035,
+      "Progressed": 7037,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-12-30T21:02:21.4914587+00:00",
-  "LastChanged_Achievements": "2024-01-02T00:09:06.4762653+00:00",
+  "LastChanged_Achievements": "2024-01-02T01:56:19.1559687+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:40.2112681+00:00",
-  "LastUpdate_Ratings": "2024-01-01T23:57:51.4712826+00:00",
-  "LastUpdate_Achievements": "2024-01-02T00:09:06.4763491+00:00"
+  "LastUpdate_Ratings": "2024-01-02T01:45:06.6528332+00:00",
+  "LastUpdate_Achievements": "2024-01-02T01:56:19.1560677+00:00"
 }

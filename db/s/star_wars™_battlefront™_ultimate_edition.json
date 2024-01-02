@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2464,
+  "EOS_Progressed": 2467,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 298,
   "EOS_NewCompleters": 0,
@@ -6899,6 +6899,11 @@
       "Time": "2024-01-02T00:10:31.1968843+00:00",
       "NumProgressed": 2464,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-02T01:57:42.878201+00:00",
+      "NumProgressed": 2467,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -7087,7 +7092,7 @@
       "Name": "Never tell me the odds!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "achievement_30",
@@ -7135,7 +7140,7 @@
       "Name": "New Recruit",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 2144
+      "UsersEstimate": 2146
     },
     {
       "ID": "achievement_36",
@@ -7151,7 +7156,7 @@
       "Name": "Off to a good start",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1528
+      "UsersEstimate": 1530
     },
     {
       "ID": "achievement_38",
@@ -7159,7 +7164,7 @@
       "Name": "Survivor",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "achievement_39",
@@ -7183,7 +7188,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1281
+      "UsersEstimate": 1283
     },
     {
       "ID": "achievement_41",
@@ -7263,7 +7268,7 @@
       "Name": "Shoot first",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "achievement_50",
@@ -7351,7 +7356,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "achievement_60",
@@ -7381,9 +7386,9 @@
       "ID": "achievement_63",
       "SetID": "cemm4l8",
       "Name": "Disturbed tranquility",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 25
     },
     {
       "ID": "achievement_7",
@@ -7391,7 +7396,7 @@
       "Name": "A cunning warrior",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "achievement_8",
@@ -7414,13 +7419,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2464,
+      "Progressed": 2467,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2464,
+      "Progressed": 2467,
       "Completed": 1
     }
   ],
@@ -7428,8 +7433,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-02T00:10:31.1968838+00:00",
+  "LastChanged_Achievements": "2024-01-02T01:57:42.8782006+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:19.759459+00:00",
-  "LastUpdate_Ratings": "2024-01-01T23:59:04.1078555+00:00",
-  "LastUpdate_Achievements": "2024-01-02T00:10:31.196956+00:00"
+  "LastUpdate_Ratings": "2024-01-02T01:46:20.6308934+00:00",
+  "LastUpdate_Achievements": "2024-01-02T01:57:42.8782883+00:00"
 }

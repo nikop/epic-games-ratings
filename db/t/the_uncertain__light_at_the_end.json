@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 323,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 321,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 635,
+  "EOS_Progressed": 636,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.94,
   "EosHistory": [
@@ -1238,6 +1238,11 @@
       "Time": "2024-01-01T15:05:59.7762874+00:00",
       "NumProgressed": 635,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-02T01:51:03.3293583+00:00",
+      "NumProgressed": 636,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -1273,7 +1278,7 @@
       "Name": "Bosom Buddies",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "Doors_Closing",
@@ -1441,7 +1446,7 @@
       "Name": "Catch You Later",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Party",
@@ -1480,7 +1485,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 635,
+      "Progressed": 636,
       "Completed": 6
     }
   ],
@@ -1488,8 +1493,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2024-01-02T00:03:29.8816852+00:00",
+  "LastChanged_Achievements": "2024-01-02T01:51:03.3293577+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:43.1004855+00:00",
-  "LastUpdate_Ratings": "2024-01-02T00:03:26.1437866+00:00",
-  "LastUpdate_Achievements": "2024-01-02T00:03:29.8817276+00:00"
+  "LastUpdate_Ratings": "2024-01-02T01:50:57.8412184+00:00",
+  "LastUpdate_Achievements": "2024-01-02T01:51:03.3293873+00:00"
 }

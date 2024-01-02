@@ -4,7 +4,7 @@
   "ProductSlug": "mystery-in-the-office-f629ad",
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1268,
+  "EOS_Progressed": 1269,
   "EOS_Completed": 54,
   "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 1,
@@ -2989,6 +2989,11 @@
       "Time": "2024-01-01T18:10:23.5787263+00:00",
       "NumProgressed": 1268,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2024-01-02T01:57:18.0665051+00:00",
+      "NumProgressed": 1269,
+      "NumCompleted": 54
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -2999,9 +3004,9 @@
       "ID": "ACH_CLOCK",
       "SetID": "6f5dahd",
       "Name": "Time traveller",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 140,
-      "UsersEstimate": 266
+      "UsersEstimate": 254
     },
     {
       "ID": "ACH_CUBES",
@@ -3023,9 +3028,9 @@
       "ID": "ACH_FRUIT_BOWLS",
       "SetID": "6f5dahd",
       "Name": "An apple a day",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 75,
-      "UsersEstimate": 710
+      "UsersEstimate": 698
     },
     {
       "ID": "ACH_GET_BACK_TO_WORK",
@@ -3049,7 +3054,7 @@
       "Name": "Good listener",
       "Percentage": 61,
       "XP": 85,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "ACH_SANDWICHES",
@@ -3080,14 +3085,14 @@
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 1268,
+      "Progressed": 1269,
       "Completed": 54
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2024-01-02T00:10:06.8174509+00:00",
+  "LastChanged_Achievements": "2024-01-02T01:57:18.0665046+00:00",
   "LastUpdate_AppInfo": "2023-12-29T19:57:02.4539688+00:00",
-  "LastUpdate_Ratings": "2024-01-01T23:59:49.1937903+00:00",
-  "LastUpdate_Achievements": "2024-01-02T00:10:06.8174666+00:00"
+  "LastUpdate_Ratings": "2024-01-02T01:47:04.3576475+00:00",
+  "LastUpdate_Achievements": "2024-01-02T01:57:18.0665317+00:00"
 }

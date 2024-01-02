@@ -3,12 +3,12 @@
   "Name": "Pillars of Eternity - Definitive Edition",
   "ProductSlug": "pillars-of-eternity",
   "Ranking_Rating": 303,
-  "Ranking_Popularity": 119,
+  "Ranking_Popularity": 120,
   "Ranking_PopularitySum": 148,
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 3794,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2020-12-10T16:00:00+00:00",
     "PcReleaseDate": "2015-03-26T16:00:00+00:00",
@@ -3469,10 +3469,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 4813,
       "NumberOfAwardsMax": 1956
+    },
+    {
+      "Time": "2024-01-02T01:45:26.7763916+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4814,
+      "NumberOfAwardsMax": 1956
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4813,
+  "NumberOfAwards": 4814,
   "NumberOfAwardsMax": 1956,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3510,7 +3516,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 322
+      "Count": 323
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4308,9 +4314,9 @@
   ],
   "FirstSeen": "2022-07-22T20:26:19.0250263+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.7524763+00:00",
-  "LastChanged": "2024-01-01T22:58:23.9489589+00:00",
-  "LastChanged_Achievements": "2024-01-02T00:03:30.4457495+00:00",
+  "LastChanged": "2024-01-02T01:45:26.7763914+00:00",
+  "LastChanged_Achievements": "2024-01-02T01:51:03.8190998+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:47.9932878+00:00",
-  "LastUpdate_Ratings": "2024-01-01T23:58:10.4420735+00:00",
-  "LastUpdate_Achievements": "2024-01-02T00:03:30.4458151+00:00"
+  "LastUpdate_Ratings": "2024-01-02T01:45:26.7763921+00:00",
+  "LastUpdate_Achievements": "2024-01-02T01:51:03.819137+00:00"
 }

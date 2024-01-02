@@ -1,25 +1,25 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.61 (Ranked 397)  
+Rating: 4.61 (Ranked 398)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~25,858 |
-| Exploitative | 4.00% | ~20,687 |
-| Point Shooting | 4.00% | ~20,687 |
-| Wet Feet | 4.00% | ~20,687 |
-| High Speed Low Drag | 3.00% | ~15,515 |
-| Lucky | 3.00% | ~15,515 |
-| Stylin' | 3.00% | ~15,515 |
-| Turf War | 3.00% | ~15,515 |
-| Banged | 2.00% | ~10,343 |
-| Checkpoint Victory | 2.00% | ~10,343 |
-| First Blood | 2.00% | ~10,343 |
-| Flaccid Paralysis | 2.00% | ~10,343 |
-| Push Victory | 2.00% | ~10,343 |
-| Self-destructive | 2.00% | ~10,343 |
+| Wallbanger | 5.00% | ~25,862 |
+| Exploitative | 4.00% | ~20,690 |
+| Point Shooting | 4.00% | ~20,690 |
+| Wet Feet | 4.00% | ~20,690 |
+| High Speed Low Drag | 3.00% | ~15,517 |
+| Lucky | 3.00% | ~15,517 |
+| Stylin' | 3.00% | ~15,517 |
+| Turf War | 3.00% | ~15,517 |
+| Banged | 2.00% | ~10,345 |
+| Checkpoint Victory | 2.00% | ~10,345 |
+| First Blood | 2.00% | ~10,345 |
+| Flaccid Paralysis | 2.00% | ~10,345 |
+| Push Victory | 2.00% | ~10,345 |
+| Self-destructive | 2.00% | ~10,345 |
 | Blindfire | 1.00% | ~5,172 |
 | Ruthless | 1.00% | ~5,172 |
 | Semper Paratus | 1.00% | ~5,172 |
@@ -27,9 +27,9 @@ Number of Ratings: 1,316  (23.09.2022)
 | Efficient | 0.90% | ~4,655 |
 | Mount & Gun | 0.90% | ~4,655 |
 | Personal | 0.90% | ~4,655 |
-| Grounded | 0.80% | ~4,137 |
-| Play to Win | 0.80% | ~4,137 |
-| Special Delivery | 0.70% | ~3,620 |
+| Grounded | 0.80% | ~4,138 |
+| Play to Win | 0.80% | ~4,138 |
+| Special Delivery | 0.70% | ~3,621 |
 | Firefight Victory | 0.60% | ~3,103 |
 | #1 | 0.60% | ~3,103 |
 | Cinematic | 0.50% | ~2,586 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~517 |
 | Road Hazard | 0.10% | ~517 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 517,169 (Ranked 39)  
+Progressed: 517,240 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,15 +299,15 @@ Completed: 2 (0.00%) (Ranked 390)
 | 2023-12-30 | 515,422 | 2 |
 | 2023-12-31 | 516,283 | 2 |
 | 2024-01-01 | 517,132 | 2 |
-| 2024-01-02 | 517,169 | 2 |
+| 2024-01-02 | 517,240 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 415  (Ranked 236)  
-Sum: 3,314 (Ranked 178)  
+Sum: 3,315 (Ranked 178)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 415 |
-| This game has Challenging Combat | 406 |
+| This game has Challenging Combat | 407 |
 | This game is Extremely Fun | 385 |
 | This game has Competitive Players | 382 |
 | This game is Highly Recommended | 366 |
@@ -646,3 +646,4 @@ Diff (max vs sum): 58
 | 2023-12-30 | 4.61 | - | 415 | 3,303 |
 | 2023-12-31 | 4.61 | - | 415 | 3,313 |
 | 2024-01-01 | 4.61 | - | 415 | 3,314 |
+| 2024-01-02 | 4.61 | - | 415 | 3,315 |

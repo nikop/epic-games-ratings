@@ -5,24 +5,24 @@ Rating: 3.47 (Ranked 1,085)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 22.00% | ~18,125 |
-| Master, Commander | 21.00% | ~17,301 |
-| Hard Worker | 20.00% | ~16,477 |
-| Adios, Friendo | 19.00% | ~15,653 |
-| Mechanic | 19.00% | ~15,653 |
-| Bottom's Up | 18.00% | ~14,829 |
-| Nice Try | 16.00% | ~13,182 |
-| Right On Target | 14.00% | ~11,534 |
-| Piano Man | 11.00% | ~9,062 |
-| Lazy Bones | 9.00% | ~7,415 |
-| Vinyl Vibes | 8.00% | ~6,591 |
-| Nothing Left to Say | 7.00% | ~5,767 |
-| Sniper | 7.00% | ~5,767 |
-| Cut Call | 6.00% | ~4,943 |
-| Magnetic Miracles | 5.00% | ~4,119 |
-| Butcher | 4.00% | ~3,295 |
-| Fair's Fair | 4.00% | ~3,295 |
-| Spicy | 4.00% | ~3,295 |
+| Be Seeing You | 22.00% | ~18,128 |
+| Master, Commander | 21.00% | ~17,304 |
+| Hard Worker | 20.00% | ~16,480 |
+| Adios, Friendo | 19.00% | ~15,656 |
+| Mechanic | 19.00% | ~15,656 |
+| Bottom's Up | 18.00% | ~14,832 |
+| Nice Try | 16.00% | ~13,184 |
+| Right On Target | 14.00% | ~11,536 |
+| Piano Man | 11.00% | ~9,064 |
+| Lazy Bones | 9.00% | ~7,416 |
+| Vinyl Vibes | 8.00% | ~6,592 |
+| Nothing Left to Say | 7.00% | ~5,768 |
+| Sniper | 7.00% | ~5,768 |
+| Cut Call | 6.00% | ~4,944 |
+| Magnetic Miracles | 5.00% | ~4,120 |
+| Butcher | 4.00% | ~3,296 |
+| Fair's Fair | 4.00% | ~3,296 |
+| Spicy | 4.00% | ~3,296 |
 | A Man Of Taste | 3.00% | ~2,472 |
 | Ace in the Hole | 3.00% | ~2,472 |
 | Hearty | 3.00% | ~2,472 |
@@ -31,7 +31,7 @@ Rating: 3.47 (Ranked 1,085)
 | Audiophile | 2.00% | ~1,648 |
 | Tape Head | 2.00% | ~1,648 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,386 (Ranked 106)  
+Progressed: 82,398 (Ranked 106)  
 Completed: 908 (1.10%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 908 (1.10%) (Ranked 167)
 | 2023-12-30 | 82,163 | 905 |
 | 2023-12-31 | 82,272 | 906 |
 | 2024-01-01 | 82,385 | 908 |
-| 2024-01-02 | 82,386 | 908 |
+| 2024-01-02 | 82,398 | 908 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Declawing | 65.00% | ~94 |
-| Target Practice | 43.00% | ~62 |
-| The Bigger They Are | 32.00% | ~46 |
+| Declawing | 64.00% | ~93 |
+| Target Practice | 44.00% | ~64 |
+| The Bigger They Are | 32.00% | ~47 |
 | Enemies of Fate | 30.00% | ~44 |
 | Your Training Continues | 29.00% | ~42 |
 | Over the Moon | 29.00% | ~42 |
 | Armored | 26.00% | ~38 |
 | Amokuali Tower | 24.00% | ~35 |
-| Freedom | 23.00% | ~33 |
-| Winner | 21.00% | ~30 |
+| Freedom | 23.00% | ~34 |
+| Winner | 21.00% | ~31 |
 | The Pride of Moozhaw | 20.00% | ~29 |
 | Omnia Vincit Amor | 19.00% | ~28 |
 | Stilt House | 13.00% | ~19 |
-| Corwid Hill | 12.00% | ~17 |
+| Corwid Hill | 12.00% | ~18 |
 | Armor Collector | 11.00% | ~16 |
 | Dreamwalker | 9.00% | ~13 |
 | Total Eclipse | 8.00% | ~12 |
-| Red in Tooth and Claw | 6.00% | ~9 |
 | Your Training Is Complete | 5.00% | ~7 |
+| Red in Tooth and Claw | 5.00% | ~7 |
 | Vivid Dreams | 2.00% | ~3 |
 | Broken Reflection | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 145 (Ranked 452)  
-Completed: 1 (0.69%) (Ranked 196)  
+Progressed: 146 (Ranked 452)  
+Completed: 1 (0.68%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -93,6 +93,7 @@ Completed: 1 (0.69%) (Ranked 196)
 | 2023-12-28 | 141 | 1 |
 | 2023-12-29 | 142 | 1 |
 | 2023-12-30 | 145 | 1 |
+| 2024-01-02 | 146 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

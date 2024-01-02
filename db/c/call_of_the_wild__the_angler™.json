@@ -5,10 +5,10 @@
   "Ranking_Rating": 954,
   "Ranking_Popularity": 474,
   "Ranking_PopularitySum": 408,
-  "Ranking_EOS_Progress": 188,
+  "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -1015,9 +1015,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 7849,
+  "EOS_Progressed": 7853,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 297,
+  "EOS_NewPlayers": 298,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12935,6 +12935,11 @@
       "Time": "2024-01-02T00:05:29.3420074+00:00",
       "NumProgressed": 7849,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T01:53:04.0268827+00:00",
+      "NumProgressed": 7853,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -12962,7 +12967,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1020
+      "UsersEstimate": 1021
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -12970,7 +12975,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -12986,7 +12991,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -13018,7 +13023,7 @@
       "Name": "License to Gill",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -13050,7 +13055,7 @@
       "Name": "Goldfish?",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -13066,7 +13071,7 @@
       "Name": "School\u0027s Out for Summer",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "ACHIEVEMENT_017",
@@ -13098,7 +13103,7 @@
       "Name": "Marathon",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ACHIEVEMENT_021",
@@ -13114,7 +13119,7 @@
       "Name": "Diamond in the Rough",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ACHIEVEMENT_023",
@@ -13265,13 +13270,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7849,
+      "Progressed": 7853,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7221,
+      "Progressed": 7225,
       "Completed": 113
     }
   ],
@@ -13279,8 +13284,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-26T19:00:49.2434236+00:00",
-  "LastChanged_Achievements": "2024-01-02T00:05:29.3420071+00:00",
+  "LastChanged_Achievements": "2024-01-02T01:53:04.0268823+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:09.4029638+00:00",
-  "LastUpdate_Ratings": "2024-01-01T23:59:30.3283681+00:00",
-  "LastUpdate_Achievements": "2024-01-02T00:05:29.342117+00:00"
+  "LastUpdate_Ratings": "2024-01-02T01:46:45.6036397+00:00",
+  "LastUpdate_Achievements": "2024-01-02T01:53:04.0269643+00:00"
 }

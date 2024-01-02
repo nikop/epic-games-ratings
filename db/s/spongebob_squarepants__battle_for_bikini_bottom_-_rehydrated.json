@@ -6,9 +6,9 @@
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 328,
-  "Ranking_EOS_Completed": 187,
+  "Ranking_EOS_Completed": 189,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -329,11 +329,11 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 627,
+  "EOS_Progressed": 631,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 247,
-  "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 0.8,
+  "EOS_NewPlayers": 250,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 0.79,
   "EosHistory": [
     {
       "Time": "2023-12-18T11:05:17.4237079+00:00",
@@ -1699,6 +1699,11 @@
       "Time": "2024-01-02T00:03:33.2966393+00:00",
       "NumProgressed": 627,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-02T01:51:06.5544303+00:00",
+      "NumProgressed": 631,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1711,7 +1716,7 @@
       "Name": "Robot encyclopedia",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_ARE_YOU_READY_NOW",
@@ -1749,9 +1754,9 @@
       "ID": "ACH_DOWN_TOWN",
       "SetID": "biiejkc",
       "Name": "Uptown and Downtown",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_FD_GRAVEYARD",
@@ -1767,15 +1772,15 @@
       "Name": "Hello, Bikini Bottom",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_FLYING_DUTCHMAN_BOSS",
       "SetID": "biiejkc",
       "Name": "Shanghaied",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_JELLYFISHING",
@@ -1783,7 +1788,7 @@
       "Name": "Jellyfishing",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH_JELLYFISH_JAM",
@@ -1791,7 +1796,7 @@
       "Name": "Jellyfish Jam",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ACH_KELP_FOREST",
@@ -1845,9 +1850,9 @@
       "ID": "ACH_ROCK_BOTTOM",
       "SetID": "biiejkc",
       "Name": "Hit Rock Bottom",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_SLEEPY_TIME",
@@ -1887,7 +1892,7 @@
       "Name": "Super Spatula Seeker",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_STAT_50_SPATULA_SEEKER",
@@ -1895,7 +1900,7 @@
       "Name": "Ultra Spatula Seeker",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_STAT_75_SPATULA_SEEKER",
@@ -1909,9 +1914,9 @@
       "ID": "ACH_STAT_COLLECT_SOCKS",
       "SetID": "biiejkc",
       "Name": "Sock Getter",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_STAT_SPATULA_SEEKER",
@@ -1919,7 +1924,7 @@
       "Name": "Spatula Seeker",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -1927,7 +1932,7 @@
       "Name": "Sponge Smasher",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
@@ -1966,15 +1971,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 627,
+      "Progressed": 631,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-01T20:58:26.8279253+00:00",
-  "LastChanged_Achievements": "2024-01-02T00:03:33.296639+00:00",
+  "LastChanged_Achievements": "2024-01-02T01:51:06.5544299+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:11.8880921+00:00",
-  "LastUpdate_Ratings": "2024-01-01T23:58:45.4450689+00:00",
-  "LastUpdate_Achievements": "2024-01-02T00:03:33.2966691+00:00"
+  "LastUpdate_Ratings": "2024-01-02T01:46:01.5947457+00:00",
+  "LastUpdate_Achievements": "2024-01-02T01:51:06.5544561+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "2d6693ed985e4774a19d77291f8593db",
   "Name": "Bratz\u2122: Flaunt Your Fashion",
   "ProductSlug": "bratz-flaunt-your-fashion-95d529",
-  "Ranking_EOS_Progress": 458,
+  "Ranking_EOS_Progress": 456,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-01-24T09:30:00+00:00",
     "PcReleaseDate": "2022-11-04T00:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 137,
+  "EOS_Progressed": 138,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -546,6 +546,11 @@
       "Time": "2024-01-02T00:06:08.8596626+00:00",
       "NumProgressed": 137,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T01:53:43.4248975+00:00",
+      "NumProgressed": 138,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 19,
@@ -565,7 +570,7 @@
       "Name": "Born to Win",
       "Percentage": 36,
       "XP": 70,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "11",
@@ -581,7 +586,7 @@
       "Name": "Stilesville Hidden Style",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "13",
@@ -635,9 +640,9 @@
       "ID": "19",
       "SetID": "41h3j82",
       "Name": "Best Gala Ever",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 70,
-      "UsersEstimate": 36
+      "UsersEstimate": 34
     },
     {
       "ID": "2",
@@ -659,9 +664,9 @@
       "ID": "4",
       "SetID": "41h3j82",
       "Name": "Welcome to the The Stylin\u0027 Soiree",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 70,
-      "UsersEstimate": 36
+      "UsersEstimate": 34
     },
     {
       "ID": "5",
@@ -669,7 +674,7 @@
       "Name": "We will need a bigger wardrobe",
       "Percentage": 39,
       "XP": 70,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "6",
@@ -685,7 +690,7 @@
       "Name": "Roller Race",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "8",
@@ -701,14 +706,14 @@
       "Name": "Talented Performer",
       "Percentage": 54,
       "XP": 70,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     }
   ],
   "AchievementSets": [
     {
       "ID": "41h3j82",
       "IsBase": true,
-      "Progressed": 137,
+      "Progressed": 138,
       "Completed": 0
     }
   ],
@@ -716,8 +721,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2024-01-02T00:06:08.8596622+00:00",
+  "LastChanged_Achievements": "2024-01-02T01:53:43.4248969+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:52.6103683+00:00",
-  "LastUpdate_Ratings": "2024-01-02T00:00:52.7916014+00:00",
-  "LastUpdate_Achievements": "2024-01-02T00:06:08.8596732+00:00"
+  "LastUpdate_Ratings": "2024-01-02T01:48:10.1965505+00:00",
+  "LastUpdate_Achievements": "2024-01-02T01:53:43.4249109+00:00"
 }

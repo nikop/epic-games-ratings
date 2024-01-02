@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3856,9 +3856,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242197,
+  "EOS_Progressed": 242203,
   "EOS_Completed": 302,
-  "EOS_NewPlayers": 500,
+  "EOS_NewPlayers": 502,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -30386,6 +30386,11 @@
       "Time": "2024-01-02T00:10:33.2846678+00:00",
       "NumProgressed": 242197,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2024-01-02T01:57:44.7803498+00:00",
+      "NumProgressed": 242203,
+      "NumCompleted": 302
     }
   ],
   "TotalAchievements": 138,
@@ -31187,9 +31192,9 @@
       "ID": "TELEPORTKNOCKBACKEXPLOSIVE50",
       "SetID": "5l8oe0h",
       "Name": "Fire Away!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 484
+      "UsersEstimate": 727
     },
     {
       "ID": "TRANSFORM20TIMES",
@@ -31500,13 +31505,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242197,
+      "Progressed": 242203,
       "Completed": 302
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3677,
+      "Progressed": 3683,
       "Completed": 417
     }
   ],
@@ -31514,8 +31519,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-01T19:58:02.265715+00:00",
-  "LastChanged_Achievements": "2024-01-02T00:10:33.2846676+00:00",
+  "LastChanged_Achievements": "2024-01-02T01:57:44.7803493+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:01.848225+00:00",
-  "LastUpdate_Ratings": "2024-01-01T23:57:52.339244+00:00",
-  "LastUpdate_Achievements": "2024-01-02T00:10:33.2849401+00:00"
+  "LastUpdate_Ratings": "2024-01-02T01:45:07.6537161+00:00",
+  "LastUpdate_Achievements": "2024-01-02T01:57:44.7806143+00:00"
 }

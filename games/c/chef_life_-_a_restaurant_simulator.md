@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Big Day | 62.00% | ~578 |
-| You're the Expert! | 28.00% | ~261 |
+| The Big Day | 62.00% | ~579 |
+| You're the Expert! | 28.00% | ~262 |
 | Home Cook | 24.00% | ~224 |
 | So Clean You Can Eat Off the Floor | 16.00% | ~149 |
 | S is for Scrumptious | 15.00% | ~140 |
@@ -45,7 +45,7 @@
 | A Star is Born | 0.00% | ~0 |
 | Holy Cow! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 933 (Ranked 291)  
+Progressed: 934 (Ranked 291)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-30 | 912 | 0 |
 | 2023-12-31 | 920 | 0 |
 | 2024-01-01 | 932 | 0 |
-| 2024-01-02 | 933 | 0 |
+| 2024-01-02 | 934 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

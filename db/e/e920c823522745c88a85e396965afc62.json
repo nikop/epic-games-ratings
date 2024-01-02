@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 616,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-12-17T23:00:00+00:00",
     "PcReleaseDate": "2022-10-13T23:00:00+00:00",
@@ -355,9 +355,9 @@
       "ID": "vip",
       "SetID": "d4692al",
       "Name": "VIP",
-      "Percentage": 52,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "visitorLife",
@@ -394,8 +394,8 @@
   ],
   "FirstSeen": "2023-12-24T08:59:07.6239252+00:00",
   "FirstSeenAchievements": "2023-12-14T09:03:47.827813+00:00",
-  "LastChanged_Achievements": "2024-01-02T00:04:48.5378203+00:00",
+  "LastChanged_Achievements": "2024-01-02T01:52:22.3491572+00:00",
   "LastUpdate_AppInfo": "2023-12-28T08:57:17.3349077+00:00",
-  "LastUpdate_Ratings": "2024-01-01T23:59:40.5666981+00:00",
-  "LastUpdate_Achievements": "2024-01-02T00:04:48.5378388+00:00"
+  "LastUpdate_Ratings": "2024-01-02T01:46:55.8296846+00:00",
+  "LastUpdate_Achievements": "2024-01-02T01:52:22.3491748+00:00"
 }
