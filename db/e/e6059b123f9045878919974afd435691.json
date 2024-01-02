@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 1296,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3850,9 +3850,9 @@
       "ID": "MEAT_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Night Snack",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 376
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -3890,9 +3890,9 @@
       "ID": "OUT_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "The Last of Us",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 402
+      "UsersEstimate": 415
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -3993,8 +3993,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-02T09:10:06.1940992+00:00",
+  "LastChanged_Achievements": "2024-01-02T10:10:02.1365372+00:00",
   "LastUpdate_AppInfo": "2023-12-29T02:57:14.6537743+00:00",
-  "LastUpdate_Ratings": "2024-01-02T08:59:13.8689255+00:00",
-  "LastUpdate_Achievements": "2024-01-02T09:10:06.1941822+00:00"
+  "LastUpdate_Ratings": "2024-01-02T09:59:14.7571496+00:00",
+  "LastUpdate_Achievements": "2024-01-02T10:10:02.1366137+00:00"
 }

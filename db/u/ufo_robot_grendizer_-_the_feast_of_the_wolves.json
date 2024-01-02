@@ -2,9 +2,9 @@
   "ID": "3a077bc4fa864985b8c0b343176226d2",
   "Name": "UFO ROBOT GRENDIZER - The Feast of the Wolves",
   "ProductSlug": "goldorak-d90cf1",
-  "Ranking_EOS_Progress": 538,
+  "Ranking_EOS_Progress": 536,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewPlayers": 328,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-11-14T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57,
+  "EOS_Progressed": 58,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -304,6 +304,11 @@
       "Time": "2023-12-31T23:06:19.248047+00:00",
       "NumProgressed": 57,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T10:05:49.415682+00:00",
+      "NumProgressed": 58,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-14T10:09:31.9139151+00:00",
@@ -322,7 +327,7 @@
       "ID": "ACH_ALLMEDITATION",
       "SetID": "ch874lb",
       "Name": "A Land of Peace",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -346,7 +351,7 @@
       "ID": "ACH_FIRSTCONTACT",
       "SetID": "ch874lb",
       "Name": "First Contact",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 35,
       "UsersEstimate": 21
     },
@@ -354,7 +359,7 @@
       "ID": "ACH_FIRSTDEATH",
       "SetID": "ch874lb",
       "Name": "Strength in Defeat",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 35,
       "UsersEstimate": 24
     },
@@ -362,7 +367,7 @@
       "ID": "ACH_FIRSTLEGENDARYLOOT",
       "SetID": "ch874lb",
       "Name": "The Remains of Fleed",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 30,
       "UsersEstimate": 30
     },
@@ -370,7 +375,7 @@
       "ID": "ACH_FIRSTMEDITATION",
       "SetID": "ch874lb",
       "Name": "Life of Pi",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 35,
       "UsersEstimate": 32
     },
@@ -378,7 +383,7 @@
       "ID": "ACH_FIRSTSKINCHANGE",
       "SetID": "ch874lb",
       "Name": "A Good Paint Job",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -434,7 +439,7 @@
       "ID": "ACH_LEGENDARYMATERIAL",
       "SetID": "ch874lb",
       "Name": "The Legend",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 35,
       "UsersEstimate": 29
     },
@@ -442,7 +447,7 @@
       "ID": "ACH_PERFECTDODGE",
       "SetID": "ch874lb",
       "Name": "You can\u0027t fool me!",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 35,
       "UsersEstimate": 2
     },
@@ -450,7 +455,7 @@
       "ID": "ACH_RESOURCES",
       "SetID": "ch874lb",
       "Name": "The Collector",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -498,7 +503,7 @@
       "ID": "ACH_THEFLYINGOCTOPUS",
       "SetID": "ch874lb",
       "Name": "The Flying Octopus",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -514,7 +519,7 @@
       "ID": "ACH_THEROYALGUARD",
       "SetID": "ch874lb",
       "Name": "The Royal Guard",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 35,
       "UsersEstimate": 2
     },
@@ -555,14 +560,14 @@
     {
       "ID": "ch874lb",
       "IsBase": true,
-      "Progressed": 57,
+      "Progressed": 58,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-15T14:59:58.3542509+00:00",
   "FirstSeenAchievements": "2023-10-23T10:08:08.2725119+00:00",
-  "LastChanged_Achievements": "2024-01-02T09:05:44.8597517+00:00",
+  "LastChanged_Achievements": "2024-01-02T10:05:49.4156815+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:57:00.0286827+00:00",
-  "LastUpdate_Ratings": "2024-01-02T08:57:24.033909+00:00",
-  "LastUpdate_Achievements": "2024-01-02T09:05:44.8597751+00:00"
+  "LastUpdate_Ratings": "2024-01-02T09:57:26.9857063+00:00",
+  "LastUpdate_Achievements": "2024-01-02T10:05:49.4157046+00:00"
 }

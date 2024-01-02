@@ -5,25 +5,25 @@ Rating: 4.69 (Ranked 235)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 33.00% | ~216,662 |
-| 50 HEADSHOTS | 31.00% | ~203,531 |
-| SCIENCE AND INDUSTRY | 29.00% | ~190,400 |
-| FINISHED CHAPTER 1 | 28.00% | ~183,835 |
-| FINISHED CHAPTER 2 | 21.00% | ~137,876 |
-| 200 HEADSHOTS | 19.00% | ~124,745 |
-| FINISHED CHAPTER 3 | 17.00% | ~111,614 |
-| FINISHED CHAPTER 4 | 15.00% | ~98,483 |
-| FINISH CHAPTER 5 | 13.00% | ~85,352 |
-| FINISH CHAPTER 6 | 11.00% | ~72,221 |
-| CATHARTIC ESCAPISM | 11.00% | ~72,221 |
-| 1000 KILLS | 10.00% | ~65,655 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~26,262 |
-| FIREFIGHT LEVEL 20 | 2.00% | ~13,131 |
-| FIRST BLOOD | 2.00% | ~13,131 |
-| FIREFIGHT LEVEL 30 | 1.00% | ~6,566 |
-| OUT OF ORDER | 1.00% | ~6,566 |
-| PACEMAKER | 1.00% | ~6,566 |
-| TIME PARADOX | 1.00% | ~6,566 |
+| 100 KILLS | 33.00% | ~216,646 |
+| 50 HEADSHOTS | 31.00% | ~203,516 |
+| SCIENCE AND INDUSTRY | 29.00% | ~190,386 |
+| FINISHED CHAPTER 1 | 28.00% | ~183,821 |
+| FINISHED CHAPTER 2 | 21.00% | ~137,865 |
+| 200 HEADSHOTS | 19.00% | ~124,735 |
+| FINISHED CHAPTER 3 | 17.00% | ~111,605 |
+| FINISHED CHAPTER 4 | 15.00% | ~98,475 |
+| FINISH CHAPTER 5 | 13.00% | ~85,345 |
+| FINISH CHAPTER 6 | 11.00% | ~72,215 |
+| CATHARTIC ESCAPISM | 11.00% | ~72,215 |
+| 1000 KILLS | 10.00% | ~65,650 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~26,260 |
+| FIREFIGHT LEVEL 20 | 2.00% | ~13,130 |
+| FIRST BLOOD | 2.00% | ~13,130 |
+| FIREFIGHT LEVEL 30 | 1.00% | ~6,565 |
+| OUT OF ORDER | 1.00% | ~6,565 |
+| PACEMAKER | 1.00% | ~6,565 |
+| TIME PARADOX | 1.00% | ~6,565 |
 | PARTYHARD | 0.80% | ~5,252 |
 | NEW GAME PLUS | 0.70% | ~4,596 |
 | FIREFIGHT LEVEL 40 | 0.50% | ~3,283 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 235)
 | THE GAMBLER | 0.10% | ~657 |
 | WARRIOR IN A GARDEN | 0.10% | ~657 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 656,553 (Ranked 31)  
+Progressed: 656,502 (Ranked 31)  
 Completed: 59 (0.01%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |

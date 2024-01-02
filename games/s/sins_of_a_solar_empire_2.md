@@ -4,13 +4,13 @@
 Rating: 4.56 (Ranked 503)  
 ## Awards
 Max (Great for Beginners): 31  (Ranked 515)  
-Sum: 95 (Ranked 468)  
-Diff (max vs sum): 47  
+Sum: 96 (Ranked 465)  
+Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 31 |
 | This game is Highly Recommended | 24 |
-| This game is Relaxing | 20 |
+| This game is Relaxing | 21 |
 | This game is Extremely Fun | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -74,3 +74,4 @@ Diff (max vs sum): 47
 | 2023-12-24 | 4.56 | 30 | 74 |
 | 2023-12-31 | 4.56 | 30 | 94 |
 | 2024-01-01 | 4.56 | 31 | 95 |
+| 2024-01-02 | 4.56 | 31 | 96 |

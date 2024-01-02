@@ -7,19 +7,19 @@ Number of Ratings: 1,845  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Overgrown Library | 8.00% | ~1,596 |
-| Taking Action | 7.00% | ~1,396 |
-| No Deaths | 7.00% | ~1,396 |
-| Abandoned Settlement | 7.00% | ~1,396 |
-| Petrified Necropolis | 7.00% | ~1,396 |
+| Taking Action | 7.00% | ~1,397 |
+| No Deaths | 7.00% | ~1,397 |
+| Abandoned Settlement | 7.00% | ~1,397 |
+| Petrified Necropolis | 7.00% | ~1,397 |
 | First Real Expedition | 6.00% | ~1,197 |
 | The Marshlands | 6.00% | ~1,197 |
-| Overcoming Difficulty | 5.00% | ~997 |
-| Coral Forest | 5.00% | ~997 |
-| The Scarlet Orchard | 5.00% | ~997 |
-| Frosts | 5.00% | ~997 |
-| Land of Greed | 5.00% | ~997 |
-| Ominous Presence | 5.00% | ~997 |
-| Gathering Storm | 5.00% | ~997 |
+| Overcoming Difficulty | 5.00% | ~998 |
+| Coral Forest | 5.00% | ~998 |
+| The Scarlet Orchard | 5.00% | ~998 |
+| Frosts | 5.00% | ~998 |
+| Land of Greed | 5.00% | ~998 |
+| Ominous Presence | 5.00% | ~998 |
+| Gathering Storm | 5.00% | ~998 |
 | Homesick | 3.00% | ~598 |
 | Ruined Armory | 3.00% | ~598 |
 | Fertile Meadows | 3.00% | ~598 |
@@ -41,17 +41,17 @@ Number of Ratings: 1,845  (23.09.2022)
 | Corrosive Torrent | 2.00% | ~399 |
 | Cursed Lands | 2.00% | ~399 |
 | Trade Baron | 2.00% | ~399 |
-| Serving Ale | 1.00% | ~199 |
-| Efficient Explorer | 1.00% | ~199 |
-| Refinery | 1.00% | ~199 |
-| Fishmen Ritual Site | 1.00% | ~199 |
-| Forsaken Gods Temple | 1.00% | ~199 |
-| Victory Through Prosperity | 1.00% | ~199 |
-| Defying the Crown | 1.00% | ~199 |
-| Into the Forest | 1.00% | ~199 |
-| Dangerous Lands | 0.90% | ~180 |
+| Serving Ale | 1.00% | ~200 |
+| Efficient Explorer | 1.00% | ~200 |
+| Refinery | 1.00% | ~200 |
+| Dangerous Lands | 1.00% | ~200 |
+| Fishmen Ritual Site | 1.00% | ~200 |
+| Forsaken Gods Temple | 1.00% | ~200 |
+| Victory Through Prosperity | 1.00% | ~200 |
+| Defying the Crown | 1.00% | ~200 |
+| Into the Forest | 1.00% | ~200 |
 | Forbidden Lands | 0.90% | ~180 |
-| Feeding The People | 0.60% | ~120 |
+| Feeding The People | 0.70% | ~140 |
 | Like a Machine | 0.60% | ~120 |
 | Fox Utopia | 0.50% | ~100 |
 | Prestigious Expedition | 0.40% | ~80 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,946 (Ranked 152)  
+Progressed: 19,950 (Ranked 152)  
 Completed: 33 (0.17%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 33 (0.17%) (Ranked 281)
 | 2023-12-30 | 19,741 | 35 |
 | 2023-12-31 | 19,834 | 34 |
 | 2024-01-01 | 19,919 | 33 |
-| 2024-01-02 | 19,946 | 33 |
+| 2024-01-02 | 19,950 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 447  (Ranked 229)  
 Sum: 3,319 (Ranked 177)  

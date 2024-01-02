@@ -977,9 +977,9 @@
       "ID": "ach-raiseDino",
       "SetID": "17ih7ma",
       "Name": "Good Mama",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 133
     },
     {
       "ID": "ach-redElk",
@@ -1033,9 +1033,9 @@
       "ID": "ach-treasureFameInExpedition",
       "SetID": "17ih7ma",
       "Name": "Treasure Hunt",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 141
     },
     {
       "ID": "ach-unlockAllLeaders",
@@ -1074,8 +1074,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2024-01-01T02:59:19.0992943+00:00",
-  "LastChanged_Achievements": "2024-01-02T09:10:05.6696206+00:00",
+  "LastChanged_Achievements": "2024-01-02T10:10:01.5522482+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:12.3485961+00:00",
-  "LastUpdate_Ratings": "2024-01-02T08:59:06.5843455+00:00",
-  "LastUpdate_Achievements": "2024-01-02T09:10:05.6696639+00:00"
+  "LastUpdate_Ratings": "2024-01-02T09:59:07.1607185+00:00",
+  "LastUpdate_Achievements": "2024-01-02T10:10:01.5522944+00:00"
 }

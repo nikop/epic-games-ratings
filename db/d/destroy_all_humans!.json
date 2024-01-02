@@ -299,9 +299,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 282,
+  "EOS_Progressed": 283,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.77,
   "EosHistory": [
@@ -1244,6 +1244,11 @@
       "Time": "2024-01-02T08:08:15.6359125+00:00",
       "NumProgressed": 282,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-02T10:08:17.0642918+00:00",
+      "NumProgressed": 283,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -1254,9 +1259,9 @@
       "ID": "ACH_ABILITY_ABDUCTOBEAMCOLLISION",
       "SetID": "cefn62b",
       "Name": "Fly Me to the Moon Base",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 133
     },
     {
       "ID": "ACH_ABILITY_ABDUCTOBEAMCOW",
@@ -1310,9 +1315,9 @@
       "ID": "ACH_ABILITY_PKTHROWANDCATCHHUMAN",
       "SetID": "cefn62b",
       "Name": "Forbidden Donut",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 102
     },
     {
       "ID": "ACH_ABILITY_SCANINHOLOBOB",
@@ -1320,7 +1325,7 @@
       "Name": "I Look Up As I Walk to Takoshima",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACH_ABILITY_SMASHBUTTON",
@@ -1328,7 +1333,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_ABILITY_TRANSMOG",
@@ -1336,7 +1341,7 @@
       "Name": "Freshly Squeezed",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ACH_ABILITY_WITHWEAPON",
@@ -1358,9 +1363,9 @@
       "ID": "ACH_CHALLENGE_ANY",
       "SetID": "cefn62b",
       "Name": "Furon Fashion",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_CHALLENGE_ARMAGEDDONTHREESTAR",
@@ -1408,15 +1413,15 @@
       "Name": "Earthly Pleasures",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ACH_COLLECT_BRAINWHILEDAMAGED",
       "SetID": "cefn62b",
       "Name": "Kaijuiced",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 195
     },
     {
       "ID": "ACH_COLLECT_PROBE",
@@ -1424,15 +1429,15 @@
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ACH_COMBAT_EVADEBAZOOKA",
       "SetID": "cefn62b",
       "Name": "Die Nasty",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_ENEMY_KILLARMQUIST",
@@ -1454,9 +1459,9 @@
       "ID": "ACH_ENEMY_KILLSWITHEXPLOSIVE",
       "SetID": "cefn62b",
       "Name": "Lobster Blisque",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 147
     },
     {
       "ID": "ACH_ENEMY_SILHOUETTE",
@@ -1478,9 +1483,9 @@
       "ID": "ACH_INVADE_CAPITOL",
       "SetID": "cefn62b",
       "Name": "Hidden Human Hive Harvest",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_INVADE_ROCKWELL",
@@ -1488,7 +1493,7 @@
       "Name": "Pimp My Raid",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACH_INVADE_SANTAMODESTA",
@@ -1504,7 +1509,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ACH_INVADE_UNIONTOWN",
@@ -1552,7 +1557,7 @@
       "Name": "Perfect Probulator",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1568,22 +1573,22 @@
       "Name": "Trans-Siberian Express",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     }
   ],
   "AchievementSets": [
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 282,
+      "Progressed": 283,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2023-11-09T01:43:19.9714919+00:00",
-  "LastChanged_Achievements": "2024-01-02T09:08:23.0541992+00:00",
+  "LastChanged_Achievements": "2024-01-02T10:08:17.0642915+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:06.6677344+00:00",
-  "LastUpdate_Ratings": "2024-01-02T08:57:15.9780493+00:00",
-  "LastUpdate_Achievements": "2024-01-02T09:08:23.0542378+00:00"
+  "LastUpdate_Ratings": "2024-01-02T09:57:19.2895658+00:00",
+  "LastUpdate_Achievements": "2024-01-02T10:08:17.0643413+00:00"
 }

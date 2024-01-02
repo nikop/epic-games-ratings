@@ -329,7 +329,7 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 640,
+  "EOS_Progressed": 641,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 248,
   "EOS_NewCompleters": 4,
@@ -1734,6 +1734,11 @@
       "Time": "2024-01-02T09:03:41.2873455+00:00",
       "NumProgressed": 640,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-02T10:03:44.1821093+00:00",
+      "NumProgressed": 641,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1896,9 +1901,9 @@
       "ID": "ACH_SOCK_CONCERT",
       "SetID": "biiejkc",
       "Name": "Sock Concert",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_SOCK_OPERA",
@@ -2001,15 +2006,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 640,
+      "Progressed": 641,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-01T20:58:26.8279253+00:00",
-  "LastChanged_Achievements": "2024-01-02T09:03:41.2873452+00:00",
+  "LastChanged_Achievements": "2024-01-02T10:03:44.1821088+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:11.8880921+00:00",
-  "LastUpdate_Ratings": "2024-01-02T08:58:39.3904396+00:00",
-  "LastUpdate_Achievements": "2024-01-02T09:03:41.2873718+00:00"
+  "LastUpdate_Ratings": "2024-01-02T09:58:41.7825997+00:00",
+  "LastUpdate_Achievements": "2024-01-02T10:03:44.1821473+00:00"
 }

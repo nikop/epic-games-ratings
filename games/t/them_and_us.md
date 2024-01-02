@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alone with Them | 70.00% | ~260 |
-| Forced to Kill | 67.00% | ~249 |
+| Alone with Them | 69.00% | ~257 |
+| Forced to Kill | 67.00% | ~250 |
 | A Night To Remember | 39.00% | ~145 |
-| Safe...For now? | 33.00% | ~122 |
+| Safe...For now? | 32.00% | ~119 |
 | Open Sesame | 28.00% | ~104 |
-| Them and Us | 18.00% | ~67 |
-| OUTRAGE | 18.00% | ~67 |
 | What have I done!? | 18.00% | ~67 |
-| This Coffin Has Your Name On It! | 15.00% | ~56 |
+| Them and Us | 17.00% | ~63 |
+| OUTRAGE | 17.00% | ~63 |
 | Alone In The Dark | 14.00% | ~52 |
 | The Cultists | 14.00% | ~52 |
+| This Coffin Has Your Name On It! | 14.00% | ~52 |
 | Parasite Exterminated | 13.00% | ~48 |
 | The Forgotten Tower | 13.00% | ~48 |
 | Trapped | 12.00% | ~45 |
 | Modern Player | 11.00% | ~41 |
 | The Curse Is Real | 10.00% | ~37 |
-| Lover of classics | 9.00% | ~33 |
-| Rest In Peace | 9.00% | ~33 |
+| Lover of classics | 9.00% | ~34 |
+| Rest In Peace | 9.00% | ~34 |
 | What A Mansion | 8.00% | ~30 |
 | I Am The Gate Keeper! | 7.00% | ~26 |
 | Researcher | 6.00% | ~22 |
@@ -45,7 +45,7 @@
 | Nightmare Over | 0.30% | ~1 |
 | Survival Horror | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 371 (Ranked 369)  
+Progressed: 373 (Ranked 368)  
 Completed: 1 (0.27%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 1 (0.27%) (Ranked 256)
 | 2023-12-30 | 362 | 1 |
 | 2023-12-31 | 367 | 1 |
 | 2024-01-01 | 370 | 1 |
-| 2024-01-02 | 371 | 1 |
+| 2024-01-02 | 373 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

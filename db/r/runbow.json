@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 252983,
+  "EOS_Progressed": 252984,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 392,
+  "EOS_NewPlayers": 393,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23017,6 +23017,11 @@
       "Time": "2024-01-02T09:09:52.9681425+00:00",
       "NumProgressed": 252983,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-02T10:09:48.7019278+00:00",
+      "NumProgressed": 252984,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -23052,7 +23057,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 53126
+      "UsersEstimate": 53127
     },
     {
       "ID": "blotbuster",
@@ -23100,7 +23105,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37947
+      "UsersEstimate": 37948
     },
     {
       "ID": "clearCut",
@@ -23180,7 +23185,7 @@
       "Name": "He Who Laughs Last",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7589
+      "UsersEstimate": 7590
     },
     {
       "ID": "hereWeGo",
@@ -23204,7 +23209,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 134081
+      "UsersEstimate": 134082
     },
     {
       "ID": "indegestible",
@@ -23316,7 +23321,7 @@
       "Name": "Shoo, Cat!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7589
+      "UsersEstimate": 7590
     },
     {
       "ID": "talentScout",
@@ -23395,7 +23400,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 252983,
+      "Progressed": 252984,
       "Completed": 6
     }
   ],
@@ -23403,8 +23408,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-02T09:09:52.9681423+00:00",
+  "LastChanged_Achievements": "2024-01-02T10:09:48.7019273+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.9407923+00:00",
-  "LastUpdate_Ratings": "2024-01-02T08:58:12.6934351+00:00",
-  "LastUpdate_Achievements": "2024-01-02T09:09:52.9682577+00:00"
+  "LastUpdate_Ratings": "2024-01-02T09:58:16.9384894+00:00",
+  "LastUpdate_Achievements": "2024-01-02T10:09:48.7020382+00:00"
 }

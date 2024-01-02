@@ -4,7 +4,7 @@
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 404,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 397,
+  "Ranking_EOS_NewPlayers": 398,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
@@ -696,9 +696,9 @@
       "ID": "good_job_nerd",
       "SetID": "84ad177",
       "Name": "Good job, nerd",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 84
     },
     {
       "ID": "leader_you_are_not",
@@ -809,8 +809,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2024-01-02T09:08:21.8901917+00:00",
+  "LastChanged_Achievements": "2024-01-02T10:08:15.8727574+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:34.3380666+00:00",
-  "LastUpdate_Ratings": "2024-01-02T09:03:18.6486976+00:00",
-  "LastUpdate_Achievements": "2024-01-02T09:08:21.8902034+00:00"
+  "LastUpdate_Ratings": "2024-01-02T10:03:20.2461231+00:00",
+  "LastUpdate_Achievements": "2024-01-02T10:08:15.8727715+00:00"
 }

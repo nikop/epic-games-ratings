@@ -5,21 +5,21 @@ Rating: 4.81 (Ranked 83)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~3,061 |
-| No more cages! | 90.00% | ~2,900 |
-| Everfrost | 77.00% | ~2,481 |
+| For Demacia | 95.00% | ~3,062 |
+| No more cages! | 90.00% | ~2,901 |
+| Everfrost | 77.00% | ~2,482 |
 | Pentakill | 76.00% | ~2,449 |
 | Dark Forest | 76.00% | ~2,449 |
-| The use of petricite | 73.00% | ~2,352 |
-| You can pet the dog | 60.00% | ~1,933 |
-| Thornbarrow | 42.00% | ~1,353 |
+| The use of petricite | 73.00% | ~2,353 |
+| You can pet the dog | 60.00% | ~1,934 |
+| Thornbarrow | 42.00% | ~1,354 |
 | Big Helmet Bro | 40.00% | ~1,289 |
 | Clarion Cove | 40.00% | ~1,289 |
-| Ternmoat Headquarters | 38.00% | ~1,224 |
-| Elemental master | 37.00% | ~1,192 |
-| Past trauma | 37.00% | ~1,192 |
-| Cypress Glen Headquarters | 34.00% | ~1,095 |
-| Petricite Burst | 33.00% | ~1,063 |
+| Ternmoat Headquarters | 38.00% | ~1,225 |
+| Elemental master | 37.00% | ~1,193 |
+| Past trauma | 37.00% | ~1,193 |
+| Cypress Glen Headquarters | 34.00% | ~1,096 |
+| Petricite Burst | 33.00% | ~1,064 |
 | Old friend | 32.00% | ~1,031 |
 | Devineur | 32.00% | ~1,031 |
 | Hijack | 30.00% | ~967 |
@@ -52,14 +52,14 @@ Rating: 4.81 (Ranked 83)
 | Call it 'redistribution of magic | 13.00% | ~419 |
 | Do you trust me? | 12.00% | ~387 |
 | Back to sleep, then... | 12.00% | ~387 |
-| Chains master | 11.00% | ~354 |
-| The great mage rebellion starts now | 11.00% | ~354 |
-| You can pet the... horse | 11.00% | ~354 |
+| Chains master | 11.00% | ~355 |
+| The great mage rebellion starts now | 11.00% | ~355 |
+| You can pet the... horse | 11.00% | ~355 |
 | Spellcrafting | 10.00% | ~322 |
 | Silverwing nest | 2.00% | ~64 |
 | The Unshackled | 1.00% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,222 (Ranked 222)  
+Progressed: 3,223 (Ranked 222)  
 Completed: 20 (0.62%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 20 (0.62%) (Ranked 204)
 | 2023-12-30 | 3,165 | 17 |
 | 2023-12-31 | 3,186 | 18 |
 | 2024-01-01 | 3,217 | 19 |
-| 2024-01-02 | 3,222 | 20 |
+| 2024-01-02 | 3,223 | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

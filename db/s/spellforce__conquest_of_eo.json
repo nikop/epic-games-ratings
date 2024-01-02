@@ -4,7 +4,7 @@
   "ProductSlug": "spellforce-conquest-of-eo",
   "Ranking_EOS_Progress": 483,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 312,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -687,9 +687,9 @@
       "ID": "Defeat_Undergast",
       "SetID": "7b9f97e",
       "Name": "Defeat Undergast",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Defeat_Uram",
@@ -1128,8 +1128,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2024-01-02T09:09:28.7166016+00:00",
+  "LastChanged_Achievements": "2024-01-02T10:09:23.9000386+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:20.4706393+00:00",
-  "LastUpdate_Ratings": "2024-01-02T08:59:33.3848467+00:00",
-  "LastUpdate_Achievements": "2024-01-02T09:09:28.7166555+00:00"
+  "LastUpdate_Ratings": "2024-01-02T09:59:33.2261516+00:00",
+  "LastUpdate_Achievements": "2024-01-02T10:09:23.9000962+00:00"
 }

@@ -5,32 +5,32 @@ Rating: 4.42 (Ranked 734)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 13.00% | ~49,456 |
-| IT MAKES BOOM! | 8.00% | ~30,435 |
-| EXTRA BOOST | 6.00% | ~22,826 |
-| PROTECTED | 5.00% | ~19,022 |
-| HERE ARE SOME BARE NECESSITIES | 4.00% | ~15,217 |
-| PRO | 4.00% | ~15,217 |
-| AGGRESSIVE RACER | 3.00% | ~11,413 |
+| ROOKIE | 13.00% | ~49,461 |
+| IT MAKES BOOM! | 8.00% | ~30,437 |
+| EXTRA BOOST | 6.00% | ~22,828 |
+| PROTECTED | 5.00% | ~19,023 |
+| HERE ARE SOME BARE NECESSITIES | 4.00% | ~15,219 |
+| PRO | 4.00% | ~15,219 |
+| AGGRESSIVE RACER | 3.00% | ~11,414 |
 | IT'S A LONG WAY TO THE TOP | 2.00% | ~7,609 |
 | TRAINING HARD | 2.00% | ~7,609 |
 | ACE SPEEDSTER | 2.00% | ~7,609 |
 | A TIGER'S FEAR | 2.00% | ~7,609 |
-| RELEASE THE KRAKEN | 1.00% | ~3,804 |
-| BE OUR GUEST | 1.00% | ~3,804 |
-| DEFEAT OUR CHAMPION | 1.00% | ~3,804 |
-| ACE DEFENDER | 1.00% | ~3,804 |
-| FRIENDLY | 1.00% | ~3,804 |
-| MASTER | 1.00% | ~3,804 |
-| LEGENDARY HERO | 1.00% | ~3,804 |
+| RELEASE THE KRAKEN | 1.00% | ~3,805 |
+| BE OUR GUEST | 1.00% | ~3,805 |
+| DEFEAT OUR CHAMPION | 1.00% | ~3,805 |
+| ACE DEFENDER | 1.00% | ~3,805 |
+| FRIENDLY | 1.00% | ~3,805 |
+| MASTER | 1.00% | ~3,805 |
+| LEGENDARY HERO | 1.00% | ~3,805 |
 | ACE BRAWLER | 0.90% | ~3,424 |
 | THE EYE OF THE HUNTER | 0.90% | ~3,424 |
-| EXPERIENCED CREW | 0.80% | ~3,043 |
+| EXPERIENCED CREW | 0.80% | ~3,044 |
 | FRAMED! | 0.70% | ~2,663 |
 | PERFECTLY POISED | 0.60% | ~2,283 |
 | ACE TRICKSTER | 0.60% | ~2,283 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 380,432 (Ranked 51)  
+Progressed: 380,466 (Ranked 51)  
 Completed: 1,393 (0.37%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 1,393 (0.37%) (Ranked 236)
 | 2023-12-30 | 376,176 | 1,325 |
 | 2023-12-31 | 378,169 | 1,353 |
 | 2024-01-01 | 379,893 | 1,380 |
-| 2024-01-02 | 380,432 | 1,393 |
+| 2024-01-02 | 380,466 | 1,393 |
 ## Awards
 Max (Great for Beginners): 165  (Ranked 320)  
 Sum: 1,084 (Ranked 262)  

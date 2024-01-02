@@ -5,43 +5,43 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Dash Crash | 75.00% | ~500 |
-| Snake Eyes | 61.00% | ~406 |
-| Be water, my friend | 58.00% | ~386 |
-| Fireball | 46.00% | ~306 |
+| Snake Eyes | 61.00% | ~407 |
+| Be water, my friend | 58.00% | ~387 |
+| Fireball | 46.00% | ~307 |
 | The King of Flat | 45.00% | ~300 |
 | Hit That Ball | 35.00% | ~233 |
 | Air Slash | 33.00% | ~220 |
-| Eat That Apple | 25.00% | ~166 |
+| Eat That Apple | 25.00% | ~167 |
 | Tornado Chaser | 15.00% | ~100 |
 | Bomberman | 11.00% | ~73 |
 | Bubble Party | 9.00% | ~60 |
 | The Colossus | 8.00% | ~53 |
 | Floor is Lava | 6.00% | ~40 |
 | Pim Pam Pum | 6.00% | ~40 |
-| Dash Crash - Hero Edition | 5.00% | ~33 |
+| Dash Crash - Hero Edition | 4.00% | ~27 |
 | Ambush | 4.00% | ~27 |
 | Black Belt | 3.00% | ~20 |
 | Snake Eyes - Hero Edition | 2.00% | ~13 |
 | The King of Flat - Hero Edition | 2.00% | ~13 |
-| Snakecharmer | 2.00% | ~13 |
 | Quite The Hero | 2.00% | ~13 |
 | Rogue | 2.00% | ~13 |
 | Path of the Hero | 1.00% | ~7 |
 | Hit That Ball - Hero Edition | 1.00% | ~7 |
 | Eat That Apple - Hero Edition | 1.00% | ~7 |
+| Snakecharmer | 1.00% | ~7 |
 | Oh, no | 1.00% | ~7 |
 | Apprentice | 1.00% | ~7 |
 | Vertigo | 1.00% | ~7 |
 | Bomberman - Hero Edition | 0.90% | ~6 |
-| Tornado Chaser - Hero Edition | 0.80% | ~5 |
+| Tornado Chaser - Hero Edition | 0.70% | ~5 |
 | The Colossus - Hero Edition | 0.60% | ~4 |
-| Pim Pam Pum - Hero Edition | 0.50% | ~3 |
-| Killing Spree | 0.50% | ~3 |
+| Pim Pam Pum - Hero Edition | 0.40% | ~3 |
+| Killing Spree | 0.40% | ~3 |
 | Rogue - Hero Edition | 0.30% | ~2 |
-| Dear Diary | 0.20% | ~1 |
-| Lone Wolf | 0.20% | ~1 |
-| Warrior Trials | 0.20% | ~1 |
-| Explorer | 0.20% | ~1 |
+| Dear Diary | 0.10% | ~1 |
+| Lone Wolf | 0.10% | ~1 |
+| Warrior Trials | 0.10% | ~1 |
+| Explorer | 0.10% | ~1 |
 | Flat Hero | 0.00% | ~0 |
 | Pacifist | 0.00% | ~0 |
 | Shepherd | 0.00% | ~0 |
@@ -49,7 +49,7 @@
 | Persistence | 0.00% | ~0 |
 | Colorful | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666 (Ranked 322)  
+Progressed: 667 (Ranked 322)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,6 +146,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-30 | 662 | 0 |
 | 2023-12-31 | 664 | 0 |
 | 2024-01-01 | 666 | 0 |
+| 2024-01-02 | 667 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

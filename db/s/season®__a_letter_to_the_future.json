@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1906,
+  "EOS_Progressed": 1907,
   "EOS_Completed": 72,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 3.78,
   "EosHistory": [
@@ -4279,6 +4279,11 @@
       "Time": "2024-01-02T07:09:54.239127+00:00",
       "NumProgressed": 1906,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2024-01-02T10:09:45.4789685+00:00",
+      "NumProgressed": 1907,
+      "NumCompleted": 72
     }
   ],
   "TotalAchievements": 16,
@@ -4298,7 +4303,7 @@
       "Name": "Deep Listener",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "ACH_DREAMLISTENER",
@@ -4330,7 +4335,7 @@
       "Name": "Graffiti Artist",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACH_GREYHANDSPRAXI101",
@@ -4344,9 +4349,9 @@
       "ID": "ACH_HOMELEAVER",
       "SetID": "7pam6gn",
       "Name": "Home Leaver",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1525
+      "UsersEstimate": 1507
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -4354,7 +4359,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1506
+      "UsersEstimate": 1507
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -4394,7 +4399,7 @@
       "Name": "Stranger Encounterer",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "ACH_THEEND",
@@ -4417,7 +4422,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1906,
+      "Progressed": 1907,
       "Completed": 72
     }
   ],
@@ -4425,8 +4430,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2024-01-02T09:09:49.7225125+00:00",
+  "LastChanged_Achievements": "2024-01-02T10:09:45.4789681+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.182252+00:00",
-  "LastUpdate_Ratings": "2024-01-02T09:00:10.1240058+00:00",
-  "LastUpdate_Achievements": "2024-01-02T09:09:49.7225405+00:00"
+  "LastUpdate_Ratings": "2024-01-02T10:00:12.5058823+00:00",
+  "LastUpdate_Achievements": "2024-01-02T10:09:45.4790019+00:00"
 }

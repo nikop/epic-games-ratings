@@ -9259,9 +9259,9 @@
       "Count": 3617
     }
   ],
-  "EOS_Progressed": 249575,
+  "EOS_Progressed": 249604,
   "EOS_Completed": 2585,
-  "EOS_NewPlayers": 4806,
+  "EOS_NewPlayers": 4819,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -38334,6 +38334,11 @@
       "Time": "2024-01-02T09:10:10.4058575+00:00",
       "NumProgressed": 249575,
       "NumCompleted": 2585
+    },
+    {
+      "Time": "2024-01-02T10:10:06.2885495+00:00",
+      "NumProgressed": 249604,
+      "NumCompleted": 2585
     }
   ],
   "TotalAchievements": 546,
@@ -38345,7 +38350,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7487
+      "UsersEstimate": 7488
     },
     {
       "ID": "objective_completed_10",
@@ -40025,7 +40030,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1497
+      "UsersEstimate": 1498
     },
     {
       "ID": "objective_completed_35",
@@ -42673,7 +42678,7 @@
       "Name": "When Tentacles Attack",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "objective_completed_678",
@@ -42681,7 +42686,7 @@
       "Name": "Flames of Avernus",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "objective_completed_683",
@@ -42697,7 +42702,7 @@
       "Name": "Don\u0027t Lose Your Head",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "objective_completed_865",
@@ -42705,28 +42710,28 @@
       "Name": "Mind Spike",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 215849,
+      "Progressed": 215878,
       "Completed": 4125
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 249575,
+      "Progressed": 249604,
       "Completed": 2585
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-01T16:58:00.6629331+00:00",
-  "LastChanged_Achievements": "2024-01-02T09:10:10.4058573+00:00",
+  "LastChanged_Achievements": "2024-01-02T10:10:06.2885491+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-02T08:57:58.4488342+00:00",
-  "LastUpdate_Achievements": "2024-01-02T09:10:10.4082751+00:00"
+  "LastUpdate_Ratings": "2024-01-02T09:58:01.4305186+00:00",
+  "LastUpdate_Achievements": "2024-01-02T10:10:06.2910049+00:00"
 }

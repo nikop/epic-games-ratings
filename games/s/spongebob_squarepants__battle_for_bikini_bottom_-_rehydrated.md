@@ -33,13 +33,13 @@ Number of Ratings: 76  (23.09.2022)
 | SpongeBob vs SpongeBob! | 4.00% | ~26 |
 | Kelp Forest of Fear | 3.00% | ~19 |
 | Sleepy Time | 3.00% | ~19 |
-| Sock Concert | 3.00% | ~19 |
+| Sock Concert | 2.00% | ~13 |
 | Mega Spatula Seeker | 2.00% | ~13 |
 | 100% SpongeBob | 1.00% | ~6 |
 | Sock Opera | 1.00% | ~6 |
 | Super Ultra Mega Spatula Seeker | 1.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 640 (Ranked 327)  
+Progressed: 641 (Ranked 327)  
 Completed: 6 (0.94%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,7 +59,7 @@ Completed: 6 (0.94%) (Ranked 177)
 | 2023-12-30 | 551 | 5 |
 | 2023-12-31 | 592 | 5 |
 | 2024-01-01 | 626 | 5 |
-| 2024-01-02 | 640 | 6 |
+| 2024-01-02 | 641 | 6 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 493)  
 Sum: 36 (Ranked 526)  

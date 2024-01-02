@@ -4,7 +4,7 @@
   "ProductSlug": "sins-of-a-solar-empire-ii",
   "Ranking_Rating": 503,
   "Ranking_Popularity": 515,
-  "Ranking_PopularitySum": 468,
+  "Ranking_PopularitySum": 465,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 569,
@@ -355,10 +355,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 95,
       "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2024-01-02T09:57:04.540367+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 96,
+      "NumberOfAwardsMax": 31
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 95,
+  "NumberOfAwards": 96,
   "NumberOfAwardsMax": 31,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -378,7 +384,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 20
+      "Count": 21
     },
     {
       "Text": "This game is Extremely Fun",
@@ -399,8 +405,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-27T20:00:58.3635967+00:00",
   "FirstSeenRating": "2022-10-28T20:01:29.0144781+00:00",
-  "LastChanged": "2024-01-01T21:00:25.5594939+00:00",
+  "LastChanged": "2024-01-02T09:57:04.5403668+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:54.1375396+00:00",
-  "LastUpdate_Ratings": "2024-01-02T08:57:01.1077305+00:00",
-  "LastUpdate_Achievements": "2024-01-02T09:04:25.9154191+00:00"
+  "LastUpdate_Ratings": "2024-01-02T09:57:04.5403673+00:00",
+  "LastUpdate_Achievements": "2024-01-02T10:04:28.7356316+00:00"
 }

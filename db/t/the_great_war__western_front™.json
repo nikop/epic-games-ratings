@@ -5,7 +5,7 @@
   "Ranking_Rating": 1056,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
-  "Ranking_EOS_Progress": 302,
+  "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 150,
@@ -115,9 +115,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 824,
+  "EOS_Progressed": 825,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3615,6 +3615,11 @@
       "Time": "2024-01-01T19:05:26.8181936+00:00",
       "NumProgressed": 824,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T10:04:35.0833152+00:00",
+      "NumProgressed": 825,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -3698,7 +3703,7 @@
       "Name": "La Der des Ders",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
@@ -3706,7 +3711,7 @@
       "Name": "Das Ist Endg\u00FCltig!",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
@@ -3721,7 +3726,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 824,
+      "Progressed": 825,
       "Completed": 0
     }
   ],
@@ -3729,8 +3734,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-12-31T09:58:52.6483653+00:00",
-  "LastChanged_Achievements": "2024-01-02T09:04:32.1927856+00:00",
+  "LastChanged_Achievements": "2024-01-02T10:04:35.0833148+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:29.6055115+00:00",
-  "LastUpdate_Ratings": "2024-01-02T08:59:55.960208+00:00",
-  "LastUpdate_Achievements": "2024-01-02T09:04:32.1928131+00:00"
+  "LastUpdate_Ratings": "2024-01-02T09:59:54.7731487+00:00",
+  "LastUpdate_Achievements": "2024-01-02T10:04:35.0833436+00:00"
 }

@@ -6,54 +6,54 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 29.00% | ~194,681 |
-| Sword Runner | 16.00% | ~107,410 |
-| Running out of breath | 10.00% | ~67,132 |
-| I call it luck | 8.00% | ~53,705 |
-| Wallrunner | 8.00% | ~53,705 |
-| Homerunner | 5.00% | ~33,566 |
-| Out of order | 5.00% | ~33,566 |
-| Running Wild | 5.00% | ~33,566 |
-| Sword to a gunfight | 4.00% | ~26,853 |
-| Back to hell | 3.00% | ~20,139 |
-| Artificial selection | 2.00% | ~13,426 |
-| Dead in the air | 2.00% | ~13,426 |
-| Control freak | 2.00% | ~13,426 |
-| Perfection | 2.00% | ~13,426 |
-| Upgrades not mandatory | 2.00% | ~13,426 |
-| Where are my Keys? | 2.00% | ~13,426 |
-| Why not both | 2.00% | ~13,426 |
-| Can't Run Can't Hide | 1.00% | ~6,713 |
-| Finish line | 1.00% | ~6,713 |
-| R is for Running | 1.00% | ~6,713 |
-| Unstoppable force | 1.00% | ~6,713 |
-| Wave of mutilation | 1.00% | ~6,713 |
-| Pre-empative strike | 0.80% | ~5,371 |
-| Improvise, adapt, overrun | 0.70% | ~4,699 |
-| Strike | 0.70% | ~4,699 |
-| More than human | 0.60% | ~4,028 |
-| Triple A | 0.60% | ~4,028 |
-| Fine addition | 0.30% | ~2,014 |
-| One Of Those Days | 0.30% | ~2,014 |
-| About Adam | 0.20% | ~1,343 |
-| Push it to the limit | 0.20% | ~1,343 |
-| Scrapped | 0.20% | ~1,343 |
-| Where He Stood | 0.20% | ~1,343 |
-| A Grade | 0.10% | ~671 |
-| Everyone Needs A Hobby | 0.10% | ~671 |
-| GR Project Complete | 0.10% | ~671 |
-| Hit me if you can | 0.10% | ~671 |
-| Junkrunner | 0.10% | ~671 |
-| Just A Man | 0.10% | ~671 |
-| Legacy Drivers | 0.10% | ~671 |
-| Obedient Machine | 0.10% | ~671 |
-| One man's trash | 0.10% | ~671 |
-| Sticks And Stones | 0.10% | ~671 |
-| Strafing Run | 0.10% | ~671 |
-| Up Close And Personal | 0.10% | ~671 |
+| Longrunner | 29.00% | ~197,281 |
+| Sword Runner | 17.00% | ~115,648 |
+| Running out of breath | 10.00% | ~68,028 |
+| I call it luck | 8.00% | ~54,422 |
+| Wallrunner | 8.00% | ~54,422 |
+| Homerunner | 5.00% | ~34,014 |
+| Out of order | 5.00% | ~34,014 |
+| Running Wild | 5.00% | ~34,014 |
+| Sword to a gunfight | 4.00% | ~27,211 |
+| Back to hell | 3.00% | ~20,408 |
+| Where are my Keys? | 3.00% | ~20,408 |
+| Artificial selection | 2.00% | ~13,606 |
+| Can't Run Can't Hide | 2.00% | ~13,606 |
+| Dead in the air | 2.00% | ~13,606 |
+| Control freak | 2.00% | ~13,606 |
+| Perfection | 2.00% | ~13,606 |
+| Unstoppable force | 2.00% | ~13,606 |
+| Upgrades not mandatory | 2.00% | ~13,606 |
+| Why not both | 2.00% | ~13,606 |
+| Finish line | 1.00% | ~6,803 |
+| R is for Running | 1.00% | ~6,803 |
+| Wave of mutilation | 1.00% | ~6,803 |
+| Pre-empative strike | 0.80% | ~5,442 |
+| Improvise, adapt, overrun | 0.70% | ~4,762 |
+| Strike | 0.70% | ~4,762 |
+| Triple A | 0.70% | ~4,762 |
+| More than human | 0.60% | ~4,082 |
+| Fine addition | 0.30% | ~2,041 |
+| One Of Those Days | 0.30% | ~2,041 |
+| About Adam | 0.20% | ~1,361 |
+| Push it to the limit | 0.20% | ~1,361 |
+| Scrapped | 0.20% | ~1,361 |
+| Where He Stood | 0.20% | ~1,361 |
+| A Grade | 0.10% | ~680 |
+| Everyone Needs A Hobby | 0.10% | ~680 |
+| GR Project Complete | 0.10% | ~680 |
+| Hit me if you can | 0.10% | ~680 |
+| Junkrunner | 0.10% | ~680 |
+| Just A Man | 0.10% | ~680 |
+| Legacy Drivers | 0.10% | ~680 |
+| Obedient Machine | 0.10% | ~680 |
+| One man's trash | 0.10% | ~680 |
+| Sticks And Stones | 0.10% | ~680 |
+| Strafing Run | 0.10% | ~680 |
+| Up Close And Personal | 0.10% | ~680 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 671,315 (Ranked 29)  
-Completed: 103 (0.02%) (Ranked 357)  
+Progressed: 680,281 (Ranked 28)  
+Completed: 104 (0.02%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -309,7 +309,7 @@ Completed: 103 (0.02%) (Ranked 357)
 | 2023-12-30 | 25,463 | 98 |
 | 2023-12-31 | 152,862 | 100 |
 | 2024-01-01 | 603,951 | 102 |
-| 2024-01-02 | 671,315 | 103 |
+| 2024-01-02 | 680,281 | 104 |
 ## Awards
 Max (Great Boss Battles): 562  (Ranked 214)  
 Sum: 713 (Ranked 309)  

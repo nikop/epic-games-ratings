@@ -9,9 +9,9 @@
 | Capitalism | 20.00% | ~53 |
 | There's something in those trees | 11.00% | ~29 |
 | Green Energy | 11.00% | ~29 |
-| Desert Power | 10.00% | ~26 |
-| Indebted | 10.00% | ~26 |
-| Great Producer | 10.00% | ~26 |
+| Desert Power | 10.00% | ~27 |
+| Indebted | 10.00% | ~27 |
+| Great Producer | 10.00% | ~27 |
 | Health Care | 9.00% | ~24 |
 | Perfect Soldier | 8.00% | ~21 |
 | Desert Rat | 8.00% | ~21 |
@@ -49,7 +49,7 @@
 | First Victory | 0.00% | ~0 |
 | Sandbox Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 265 (Ranked 403)  
+Progressed: 266 (Ranked 403)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,3 +141,4 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-30 | 258 | 0 |
 | 2023-12-31 | 262 | 0 |
 | 2024-01-01 | 265 | 0 |
+| 2024-01-02 | 266 | 0 |

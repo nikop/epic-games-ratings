@@ -2,7 +2,7 @@
   "ID": "a940fa38f001486a9884640924119576",
   "Name": "Astrea Six Sided Oracles",
   "ProductSlug": "astrea-six-sided-oracles-33c949",
-  "Ranking_EOS_Progress": 390,
+  "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 150,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 297,
+  "EOS_Progressed": 298,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1259,6 +1259,11 @@
       "Time": "2024-01-02T08:08:35.807812+00:00",
       "NumProgressed": 297,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T10:08:37.2225739+00:00",
+      "NumProgressed": 298,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-22T01:45:20.357802+00:00",
@@ -1493,17 +1498,17 @@
       "ID": "DicesmithingTime",
       "SetID": "1jeo1g7",
       "Name": "Dicesmithing Time!",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 193
+      "UsersEstimate": 191
     },
     {
       "ID": "EndlessTricks",
       "SetID": "1jeo1g7",
       "Name": "Endless Tricks",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 149
     },
     {
       "ID": "EridanianChampionAchievement",
@@ -1599,7 +1604,7 @@
       "Name": "Loyal Partner",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "MechanicIntegration",
@@ -1615,7 +1620,7 @@
       "Name": "Mechanical Buddy",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "MeissasSavior",
@@ -1727,7 +1732,7 @@
       "Name": "Sanctuary Guardian",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "Sentinelphobic",
@@ -1743,7 +1748,7 @@
       "Name": "Shard Spender",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "SixSidedMastery",
@@ -1869,9 +1874,9 @@
       "ID": "Unbeatable",
       "SetID": "1jeo1g7",
       "Name": "Unbeatable",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 51
     },
     {
       "ID": "UnepicHero",
@@ -1911,7 +1916,7 @@
       "Name": "Apian Champion",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ApianHero",
@@ -2005,9 +2010,9 @@
       "ID": "LacertianChampion",
       "SetID": "1jeo1g7",
       "Name": "Lacertian Champion",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 60
     },
     {
       "ID": "LacertianHero",
@@ -2054,14 +2059,14 @@
     {
       "ID": "1jeo1g7",
       "IsBase": true,
-      "Progressed": 297,
+      "Progressed": 298,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-02T09:08:43.1404671+00:00",
+  "LastChanged_Achievements": "2024-01-02T10:08:37.2225734+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:34.5642416+00:00",
-  "LastUpdate_Ratings": "2024-01-02T09:00:06.3767084+00:00",
-  "LastUpdate_Achievements": "2024-01-02T09:08:43.1405776+00:00"
+  "LastUpdate_Ratings": "2024-01-02T10:00:07.3382472+00:00",
+  "LastUpdate_Achievements": "2024-01-02T10:08:37.2226619+00:00"
 }

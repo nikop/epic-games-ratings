@@ -2,7 +2,7 @@
   "ID": "springbok",
   "Name": "Darksiders III",
   "ProductSlug": "darksiders3",
-  "Ranking_Rating": 661,
+  "Ranking_Rating": 662,
   "Ranking_Popularity": 383,
   "Ranking_PopularitySum": 465,
   "Ranking_EOS_Progress": 367,
@@ -468,7 +468,7 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 378,
+  "EOS_Progressed": 379,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 0,
@@ -1443,6 +1443,11 @@
       "Time": "2024-01-02T09:05:35.4579252+00:00",
       "NumProgressed": 378,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-02T10:05:39.9953433+00:00",
+      "NumProgressed": 379,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-13T09:04:44.5703562+00:00",
@@ -1503,7 +1508,7 @@
       "Name": "One Of the Chosen",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_1",
@@ -1511,7 +1516,7 @@
       "Name": "Increased Capacity",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_4",
@@ -1535,7 +1540,7 @@
       "Name": "Maximum Vigor",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "Collect_Hollow_Flame",
@@ -1543,7 +1548,7 @@
       "Name": "Fight Fire with Fire",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "Collect_Hollow_Force",
@@ -1559,7 +1564,7 @@
       "Name": "Freeze Frame",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "Collect_Hollow_Storm",
@@ -1567,7 +1572,7 @@
       "Name": "Perfect Storm",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "Collect_Lurchers_100000",
@@ -1583,7 +1588,7 @@
       "Name": "Soul Reaper",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Collect_PickUp_500",
@@ -1607,7 +1612,7 @@
       "Name": "Salvation",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "Craft_Enhancement_Balanced_1",
@@ -1757,17 +1762,17 @@
       "ID": "Kill_Demon_Abraxis",
       "SetID": "7a5k76n",
       "Name": "Demon Meddler",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 76
     },
     {
       "ID": "Kill_Demon_Kraken",
       "SetID": "7a5k76n",
       "Name": "Love Tap",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 106
     },
     {
       "ID": "Kill_Enemies_666",
@@ -1791,7 +1796,7 @@
       "Name": "All That Glitters",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "Kill_Sin_BigBad",
@@ -1815,7 +1820,7 @@
       "Name": "Eat Your Heart Out",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "Kill_Sin_Lust",
@@ -1829,9 +1834,9 @@
       "ID": "Kill_Sin_Pride",
       "SetID": "7a5k76n",
       "Name": "Egomaniac",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 64
     },
     {
       "ID": "Kill_Sin_Sloth",
@@ -1887,7 +1892,7 @@
       "Name": "Humanitarian",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Save_Humans_5",
@@ -1903,7 +1908,7 @@
       "Name": "For Whom the Bell Tolls",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "Spend_AttributePoint_1",
@@ -1911,7 +1916,7 @@
       "Name": "First of many\u2026",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "Spend_AttributePoint_25",
@@ -1949,32 +1954,32 @@
       "ID": "Upgrade_Weapon_First",
       "SetID": "7a5k76n",
       "Name": "Just the start",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 178
     },
     {
       "ID": "Upgrade_Weapon_Max",
       "SetID": "7a5k76n",
       "Name": "Take it to the Limit",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 34
     }
   ],
   "AchievementSets": [
     {
       "ID": "7a5k76n",
       "IsBase": true,
-      "Progressed": 378,
+      "Progressed": 379,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-02T05:57:25.472105+00:00",
-  "LastChanged_Achievements": "2024-01-02T09:05:35.4579249+00:00",
+  "LastChanged_Achievements": "2024-01-02T10:05:39.9953428+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.0817876+00:00",
-  "LastUpdate_Ratings": "2024-01-02T08:57:28.5345853+00:00",
-  "LastUpdate_Achievements": "2024-01-02T09:05:35.4579733+00:00"
+  "LastUpdate_Ratings": "2024-01-02T09:57:31.5031456+00:00",
+  "LastUpdate_Achievements": "2024-01-02T10:05:39.9953889+00:00"
 }

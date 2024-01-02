@@ -13,8 +13,8 @@ Rating: 3.64 (Ranked 1,083)
 | Blood Will Have Blood | 10.00% | ~222 |
 | Ne Plus Ultra | 10.00% | ~222 |
 | Peek-a-boo | 10.00% | ~222 |
-| Fly Fisher | 9.00% | ~199 |
-| Sucks To Be You | 9.00% | ~199 |
+| Fly Fisher | 9.00% | ~200 |
+| Sucks To Be You | 9.00% | ~200 |
 | Welcome to the Neighborhood | 8.00% | ~177 |
 | Throw The First Stone | 8.00% | ~177 |
 | Enter of Your Own Free Will | 7.00% | ~155 |
@@ -24,9 +24,9 @@ Rating: 3.64 (Ranked 1,083)
 | Bad Wiring | 5.00% | ~111 |
 | Neighborhood Revitalization | 4.00% | ~89 |
 | Radio Silence | 4.00% | ~89 |
-| You Clean It Up | 3.00% | ~66 |
-| Helping Hand | 3.00% | ~66 |
-| I Spit On Your Grave | 3.00% | ~66 |
+| You Clean It Up | 3.00% | ~67 |
+| Helping Hand | 3.00% | ~67 |
+| I Spit On Your Grave | 3.00% | ~67 |
 | Contingency Plans | 2.00% | ~44 |
 | Block Party | 2.00% | ~44 |
 | Sic Transit Umbra | 2.00% | ~44 |
@@ -72,7 +72,7 @@ Rating: 3.64 (Ranked 1,083)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,216 (Ranked 239)  
+Progressed: 2,217 (Ranked 239)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-30 | 2,176 | 0 |
 | 2023-12-31 | 2,191 | 0 |
 | 2024-01-01 | 2,212 | 0 |
-| 2024-01-02 | 2,216 | 0 |
+| 2024-01-02 | 2,217 | 0 |
 ## Awards
 Max (Great Boss Battles): 20  (Ranked 572)  
 Sum: 20 (Ranked 573)  

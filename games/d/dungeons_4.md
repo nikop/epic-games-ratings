@@ -8,12 +8,12 @@ Rating: 4.70 (Ranked 216)
 | The Last Stand | 89.00% | ~615 |
 | Thalya – Simply Immortal | 88.00% | ~608 |
 | For the Horde! | 82.00% | ~567 |
-| Hammer Time, Round Two | 80.00% | ~553 |
+| Hammer Time, Round Two | 81.00% | ~560 |
 | The Hellwoods | 77.00% | ~532 |
 | The Plains of Strothalm | 72.00% | ~498 |
 | Experienced Thalya | 72.00% | ~498 |
+| Bad Elves Go Everywhere | 69.00% | ~477 |
 | Thalya's Concentrated Fury | 68.00% | ~470 |
-| Bad Elves Go Everywhere | 68.00% | ~470 |
 | Heroes’ Gorge | 64.00% | ~442 |
 | Master of Magic | 62.00% | ~428 |
 | Unicorn steaks – fresh off the hoof! | 62.00% | ~428 |

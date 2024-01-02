@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 143,
   "Ranking_EOS_NewPlayers": 36,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8697,9 +8697,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 751675,
+  "EOS_Progressed": 751719,
   "EOS_Completed": 12971,
-  "EOS_NewPlayers": 6823,
+  "EOS_NewPlayers": 6812,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.73,
   "EosHistory": [
@@ -32007,6 +32007,11 @@
       "Time": "2024-01-02T09:09:08.2426767+00:00",
       "NumProgressed": 751675,
       "NumCompleted": 12971
+    },
+    {
+      "Time": "2024-01-02T10:09:03.2855444+00:00",
+      "NumProgressed": 751719,
+      "NumCompleted": 12971
     }
   ],
   "TotalAchievements": 60,
@@ -32018,7 +32023,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 37584
+      "UsersEstimate": 37586
     },
     {
       "ID": "02_Vengeance_H1",
@@ -32026,7 +32031,7 @@
       "Name": "The Assault",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30067
+      "UsersEstimate": 30069
     },
     {
       "ID": "03_Vengeance_H2",
@@ -32074,7 +32079,7 @@
       "Name": "Tiger on Fire",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3758
+      "UsersEstimate": 3759
     },
     {
       "ID": "09_Wude_H3",
@@ -32082,7 +32087,7 @@
       "Name": "Source of Flying Daggers",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3758
+      "UsersEstimate": 3759
     },
     {
       "ID": "10_Wude_H4",
@@ -32090,7 +32095,7 @@
       "Name": "Iron Money",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3758
+      "UsersEstimate": 3759
     },
     {
       "ID": "11_Wude_H5",
@@ -32130,7 +32135,7 @@
       "Name": "Detective Story",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3758
+      "UsersEstimate": 3759
     },
     {
       "ID": "16_Detective_H2",
@@ -32194,7 +32199,7 @@
       "Name": "Life is your teacher",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 30067
+      "UsersEstimate": 30069
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -32274,7 +32279,7 @@
       "Name": "Sword Stained With Blood",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3758
+      "UsersEstimate": 3759
     },
     {
       "ID": "34_TimedTakedown",
@@ -32282,7 +32287,7 @@
       "Name": "Lightning Hands",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30067
+      "UsersEstimate": 30069
     },
     {
       "ID": "35_WideStrike",
@@ -32497,21 +32502,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 60976,
+      "Progressed": 61020,
       "Completed": 10795
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 751675,
+      "Progressed": 751719,
       "Completed": 12971
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-02T06:02:59.8897047+00:00",
-  "LastChanged_Achievements": "2024-01-02T09:09:08.2426765+00:00",
+  "LastChanged_Achievements": "2024-01-02T10:09:03.2855439+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:26.4563062+00:00",
-  "LastUpdate_Ratings": "2024-01-02T09:03:04.8376974+00:00",
-  "LastUpdate_Achievements": "2024-01-02T09:09:08.2428311+00:00"
+  "LastUpdate_Ratings": "2024-01-02T10:03:07.0332397+00:00",
+  "LastUpdate_Achievements": "2024-01-02T10:09:03.2857024+00:00"
 }

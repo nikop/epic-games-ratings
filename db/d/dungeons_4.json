@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -55,7 +55,7 @@
   "Tags": [],
   "EOS_Progressed": 691,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 3.91,
   "EosHistory": [
@@ -2167,9 +2167,9 @@
       "ID": "ach_main02horde_completed",
       "SetID": "4hg22ll",
       "Name": "Hammer Time, Round Two",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 553
+      "UsersEstimate": 560
     },
     {
       "ID": "ach_main02horde_creatures",
@@ -2239,9 +2239,9 @@
       "ID": "ach_main05evil_completed",
       "SetID": "4hg22ll",
       "Name": "Bad Elves Go Everywhere",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 470
+      "UsersEstimate": 477
     },
     {
       "ID": "ach_main05evil_thalyalevel",
@@ -2640,8 +2640,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-01T22:59:34.2453487+00:00",
-  "LastChanged_Achievements": "2024-01-02T09:09:00.2634611+00:00",
+  "LastChanged_Achievements": "2024-01-02T10:08:55.0866151+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:16.0613697+00:00",
-  "LastUpdate_Ratings": "2024-01-02T08:58:59.6926474+00:00",
-  "LastUpdate_Achievements": "2024-01-02T09:09:00.2635296+00:00"
+  "LastUpdate_Ratings": "2024-01-02T09:59:00.6083452+00:00",
+  "LastUpdate_Achievements": "2024-01-02T10:08:55.0866734+00:00"
 }

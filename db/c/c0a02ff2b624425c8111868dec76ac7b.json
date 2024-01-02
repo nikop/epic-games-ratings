@@ -817,9 +817,9 @@
       "ID": "ACH_DETERMINATION",
       "SetID": "cagp2pi",
       "Name": "Determination",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_FINAL_TRIAL",
@@ -928,8 +928,8 @@
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2024-01-02T09:05:40.2080774+00:00",
+  "LastChanged_Achievements": "2024-01-02T10:05:44.6941072+00:00",
   "LastUpdate_AppInfo": "2023-12-29T15:57:01.7614135+00:00",
-  "LastUpdate_Ratings": "2024-01-02T08:59:22.0162972+00:00",
-  "LastUpdate_Achievements": "2024-01-02T09:05:40.2080984+00:00"
+  "LastUpdate_Ratings": "2024-01-02T09:59:22.0589742+00:00",
+  "LastUpdate_Achievements": "2024-01-02T10:05:44.6941238+00:00"
 }

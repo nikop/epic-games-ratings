@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18041,
+  "EOS_Progressed": 18043,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 590,
+  "EOS_NewPlayers": 587,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -16005,6 +16005,11 @@
       "Time": "2024-01-02T09:04:02.6910386+00:00",
       "NumProgressed": 18041,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-02T10:04:05.4614199+00:00",
+      "NumProgressed": 18043,
+      "NumCompleted": 58
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16113,7 +16118,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1082
+      "UsersEstimate": 1083
     },
     {
       "ID": "21",
@@ -16153,7 +16158,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1082
+      "UsersEstimate": 1083
     },
     {
       "ID": "26",
@@ -16193,7 +16198,7 @@
       "Name": "Captain Drummer",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2345
+      "UsersEstimate": 2346
     },
     {
       "ID": "30",
@@ -16296,22 +16301,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18041,
+      "Progressed": 18043,
       "Completed": 58
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3995,
-      "Completed": 1156
+      "Progressed": 3997,
+      "Completed": 1157
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T23:58:17.8612142+00:00",
-  "LastChanged_Achievements": "2024-01-02T09:04:02.6910385+00:00",
+  "LastChanged_Achievements": "2024-01-02T10:04:05.4614195+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2024-01-02T08:59:03.2749619+00:00",
-  "LastUpdate_Achievements": "2024-01-02T09:04:02.6911084+00:00"
+  "LastUpdate_Ratings": "2024-01-02T09:59:03.781904+00:00",
+  "LastUpdate_Achievements": "2024-01-02T10:04:05.4614921+00:00"
 }

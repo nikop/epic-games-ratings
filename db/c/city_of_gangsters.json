@@ -1030,9 +1030,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 359925,
+  "EOS_Progressed": 359927,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1368,
+  "EOS_NewPlayers": 1360,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30350,6 +30350,11 @@
       "Time": "2024-01-02T09:08:22.3008013+00:00",
       "NumProgressed": 359925,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-02T10:08:16.2942088+00:00",
+      "NumProgressed": 359927,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -30385,7 +30390,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 7198
+      "UsersEstimate": 7199
     },
     {
       "ID": "ach005",
@@ -30457,7 +30462,7 @@
       "Name": "Baker\u2019s Dozen",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7198
+      "UsersEstimate": 7199
     },
     {
       "ID": "ach014",
@@ -30489,7 +30494,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 46790
+      "UsersEstimate": 46791
     },
     {
       "ID": "ach018",
@@ -30593,7 +30598,7 @@
       "Name": "Dropping the Dime",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7198
+      "UsersEstimate": 7199
     },
     {
       "ID": "ach031",
@@ -30665,7 +30670,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 35992
+      "UsersEstimate": 35993
     },
     {
       "ID": "ach040",
@@ -30713,7 +30718,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 46790
+      "UsersEstimate": 46791
     },
     {
       "ID": "ach046",
@@ -30793,7 +30798,7 @@
       "Name": "Spiffy Speakeasies",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 7198
+      "UsersEstimate": 7199
     },
     {
       "ID": "ach056",
@@ -30825,7 +30830,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 35992
+      "UsersEstimate": 35993
     },
     {
       "ID": "ach060",
@@ -30841,7 +30846,7 @@
       "Name": "Keeping Your Word",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7198
+      "UsersEstimate": 7199
     },
     {
       "ID": "ach062",
@@ -31000,7 +31005,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 359925,
+      "Progressed": 359927,
       "Completed": 7
     }
   ],
@@ -31008,8 +31013,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-12-31T21:58:48.4985633+00:00",
-  "LastChanged_Achievements": "2024-01-02T09:08:22.3008011+00:00",
+  "LastChanged_Achievements": "2024-01-02T10:08:16.2942085+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:16.170494+00:00",
-  "LastUpdate_Ratings": "2024-01-02T08:59:39.180151+00:00",
-  "LastUpdate_Achievements": "2024-01-02T09:08:22.3009769+00:00"
+  "LastUpdate_Ratings": "2024-01-02T09:59:39.1837688+00:00",
+  "LastUpdate_Achievements": "2024-01-02T10:08:16.2943851+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -329,9 +329,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3893,
+  "EOS_Progressed": 3894,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7679,6 +7679,11 @@
       "Time": "2024-01-02T09:06:11.9311281+00:00",
       "NumProgressed": 3893,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T10:07:46.8831136+00:00",
+      "NumProgressed": 3894,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -8018,7 +8023,7 @@
       "Name": "Convenient Transport",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "ACH_BASE_52",
@@ -8042,7 +8047,7 @@
       "Name": "Please Make it Stop!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "ACH_BASE_57",
@@ -8145,13 +8150,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 2077,
+      "Progressed": 2078,
       "Completed": 10
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3893,
+      "Progressed": 3894,
       "Completed": 0
     }
   ],
@@ -8159,8 +8164,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2024-01-02T02:20:24.7743828+00:00",
-  "LastChanged_Achievements": "2024-01-02T09:06:11.9311279+00:00",
+  "LastChanged_Achievements": "2024-01-02T10:07:46.8831132+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:27.7465752+00:00",
-  "LastUpdate_Ratings": "2024-01-02T08:57:27.0225076+00:00",
-  "LastUpdate_Achievements": "2024-01-02T09:06:11.931197+00:00"
+  "LastUpdate_Ratings": "2024-01-02T09:57:29.9873175+00:00",
+  "LastUpdate_Achievements": "2024-01-02T10:07:46.8831844+00:00"
 }

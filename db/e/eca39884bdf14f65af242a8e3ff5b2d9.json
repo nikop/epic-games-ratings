@@ -4,7 +4,7 @@
   "ProductSlug": "avatar-frontiers-of-pandora",
   "Ranking_Rating": 591,
   "Ranking_Popularity": 361,
-  "Ranking_PopularitySum": 292,
+  "Ranking_PopularitySum": 290,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 569,
@@ -855,10 +855,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 786,
       "NumberOfAwardsMax": 111
+    },
+    {
+      "Time": "2024-01-02T09:57:08.4807486+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 792,
+      "NumberOfAwardsMax": 111
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 786,
+  "NumberOfAwards": 792,
   "NumberOfAwardsMax": 111,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -908,7 +914,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 75
+      "Count": 81
     },
     {
       "Text": "This game has Challenging Combat",
@@ -941,8 +947,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-07T07:59:53.6089805+00:00",
   "FirstSeenRating": "2023-12-07T19:59:23.1655437+00:00",
-  "LastChanged": "2024-01-02T08:57:05.120408+00:00",
+  "LastChanged": "2024-01-02T09:57:08.4807485+00:00",
   "LastUpdate_AppInfo": "2024-01-01T07:57:22.7847618+00:00",
-  "LastUpdate_Ratings": "2024-01-02T08:57:05.1204085+00:00",
-  "LastUpdate_Achievements": "2024-01-02T09:04:52.1240668+00:00"
+  "LastUpdate_Ratings": "2024-01-02T09:57:08.4807489+00:00",
+  "LastUpdate_Achievements": "2024-01-02T10:04:55.2899367+00:00"
 }

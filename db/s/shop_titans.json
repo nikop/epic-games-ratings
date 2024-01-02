@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -7933,9 +7933,9 @@
       "Count": 3810
     }
   ],
-  "EOS_Progressed": 148953,
+  "EOS_Progressed": 148955,
   "EOS_Completed": 340,
-  "EOS_NewPlayers": 1283,
+  "EOS_NewPlayers": 1277,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -34988,6 +34988,11 @@
       "Time": "2024-01-02T09:05:49.997757+00:00",
       "NumProgressed": 148953,
       "NumCompleted": 340
+    },
+    {
+      "Time": "2024-01-02T10:05:54.7536921+00:00",
+      "NumProgressed": 148955,
+      "NumCompleted": 340
     }
   ],
   "TotalAchievements": 112,
@@ -35167,7 +35172,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 14895
+      "UsersEstimate": 14896
     },
     {
       "ID": "chest02",
@@ -35815,7 +35820,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 14895
+      "UsersEstimate": 14896
     },
     {
       "ID": "twinenchant01",
@@ -35894,15 +35899,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 148953,
+      "Progressed": 148955,
       "Completed": 340
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-02T08:03:03.8667269+00:00",
-  "LastChanged_Achievements": "2024-01-02T09:05:49.9977568+00:00",
+  "LastChanged_Achievements": "2024-01-02T10:05:54.7536917+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.6407181+00:00",
-  "LastUpdate_Ratings": "2024-01-02T09:03:15.032661+00:00",
-  "LastUpdate_Achievements": "2024-01-02T09:05:49.9979838+00:00"
+  "LastUpdate_Ratings": "2024-01-02T10:03:17.0082526+00:00",
+  "LastUpdate_Achievements": "2024-01-02T10:05:54.7538976+00:00"
 }

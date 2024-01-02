@@ -2,9 +2,9 @@
   "ID": "713cf66874564881adc4f5bb9ade5ceb",
   "Name": "Them and Us",
   "ProductSlug": "them-and-us-7c9c73",
-  "Ranking_EOS_Progress": 369,
+  "Ranking_EOS_Progress": 368,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 371,
+  "EOS_Progressed": 373,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -1641,6 +1641,11 @@
       "Time": "2024-01-02T08:08:27.7704772+00:00",
       "NumProgressed": 371,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-02T10:08:29.0140895+00:00",
+      "NumProgressed": 373,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1652,7 +1657,7 @@
       "Name": "Lover of classics",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ETUA_AloneInTheDark",
@@ -1666,9 +1671,9 @@
       "ID": "ETUA_AlonewithThem",
       "SetID": "65jc0ap",
       "Name": "Alone with Them",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 257
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -1748,15 +1753,15 @@
       "Name": "Forced to Kill",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "ETUA_IsThemAndUs",
       "SetID": "65jc0ap",
       "Name": "Them and Us",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 63
     },
     {
       "ID": "ETUA_LifeOfTheThousandGods",
@@ -1810,9 +1815,9 @@
       "ID": "ETUA_OutRage",
       "SetID": "65jc0ap",
       "Name": "OUTRAGE",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 63
     },
     {
       "ID": "ETUA_PTD",
@@ -1844,7 +1849,7 @@
       "Name": "Rest In Peace",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ETUA_SUPER",
@@ -1858,9 +1863,9 @@
       "ID": "ETUA_SafeFornow",
       "SetID": "65jc0ap",
       "Name": "Safe...For now?",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 119
     },
     {
       "ID": "ETUA_StayDead",
@@ -1922,9 +1927,9 @@
       "ID": "ETUA_ThisCoffin",
       "SetID": "65jc0ap",
       "Name": "This Coffin Has Your Name On It!",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 52
     },
     {
       "ID": "ETUA_ThisMansionIsClean",
@@ -1971,7 +1976,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 371,
+      "Progressed": 373,
       "Completed": 1
     }
   ],
@@ -1979,8 +1984,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2024-01-02T09:08:34.9679294+00:00",
+  "LastChanged_Achievements": "2024-01-02T10:08:29.0140891+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:30.0285391+00:00",
-  "LastUpdate_Ratings": "2024-01-02T08:57:48.6593423+00:00",
-  "LastUpdate_Achievements": "2024-01-02T09:08:34.9679862+00:00"
+  "LastUpdate_Ratings": "2024-01-02T09:57:52.1480644+00:00",
+  "LastUpdate_Achievements": "2024-01-02T10:08:29.014154+00:00"
 }

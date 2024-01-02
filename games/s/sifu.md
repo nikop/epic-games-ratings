@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 5.00% | ~37,584 |
-| The Assault | 4.00% | ~30,067 |
-| Life is your teacher | 4.00% | ~30,067 |
-| Lightning Hands | 4.00% | ~30,067 |
+| The Old Grandmaster | 5.00% | ~37,586 |
+| The Assault | 4.00% | ~30,069 |
+| Life is your teacher | 4.00% | ~30,069 |
+| Lightning Hands | 4.00% | ~30,069 |
 | The Hateful Pole Fighter | 2.00% | ~15,034 |
 | A Lady's Blood in the Snow | 2.00% | ~15,034 |
 | Kill Nil | 2.00% | ~15,034 |
@@ -34,11 +34,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Fight the way you practice | 0.70% | ~427 |
 | Muk Yan Master | 0.60% | ~4,510 |
 | Martial Hub | 0.60% | ~366 |
-| Tiger on Fire | 0.50% | ~3,758 |
-| Source of Flying Daggers | 0.50% | ~3,758 |
-| Iron Money | 0.50% | ~3,758 |
-| Detective Story | 0.50% | ~3,758 |
-| Sword Stained With Blood | 0.50% | ~3,758 |
+| Tiger on Fire | 0.50% | ~3,759 |
+| Source of Flying Daggers | 0.50% | ~3,759 |
+| Iron Money | 0.50% | ~3,759 |
+| Detective Story | 0.50% | ~3,759 |
+| Sword Stained With Blood | 0.50% | ~3,759 |
 | Bloody Sport | 0.50% | ~305 |
 | Legendary Talismans of Wuxing | 0.40% | ~3,007 |
 | Prodigal Child | 0.40% | ~3,007 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~61 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 751,675 (Ranked 23)  
+Progressed: 751,719 (Ranked 23)  
 Completed: 12,971 (1.73%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 12,971 (1.73%) (Ranked 143)
 | 2023-12-30 | 749,350 | 12,969 |
 | 2023-12-31 | 750,399 | 12,971 |
 | 2024-01-01 | 751,425 | 12,971 |
-| 2024-01-02 | 751,675 | 12,971 |
+| 2024-01-02 | 751,719 | 12,971 |
 ## Awards
 Max (Great Boss Battles): 7,079  (Ranked 55)  
 Sum: 11,978 (Ranked 87)  

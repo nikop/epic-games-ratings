@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Life of Pi | 56.00% | ~32 |
-| The Remains of Fleed | 53.00% | ~30 |
-| The Legend | 51.00% | ~29 |
-| Strength in Defeat | 42.00% | ~24 |
+| Life of Pi | 55.00% | ~32 |
+| The Remains of Fleed | 52.00% | ~30 |
+| The Legend | 50.00% | ~29 |
+| Strength in Defeat | 41.00% | ~24 |
 | Escape from Fleed | 40.00% | ~23 |
-| First Contact | 37.00% | ~21 |
+| First Contact | 36.00% | ~21 |
 | Technology first! | 19.00% | ~11 |
 | The Exterminator | 19.00% | ~11 |
 | Earth's Savior | 16.00% | ~9 |
 | The Keeper of Fleed | 14.00% | ~8 |
-| The Collector | 11.00% | ~6 |
+| The Collector | 10.00% | ~6 |
 | The Broken Guard | 7.00% | ~4 |
 | The Vega Turtle | 7.00% | ~4 |
 | Gold Seeker | 5.00% | ~3 |
 | The Planner | 5.00% | ~3 |
 | Iron Fist | 5.00% | ~3 |
 | The Space Hydra | 5.00% | ~3 |
-| A Land of Peace | 4.00% | ~2 |
-| A Good Paint Job | 4.00% | ~2 |
-| You can't fool me! | 4.00% | ~2 |
-| The Flying Octopus | 4.00% | ~2 |
-| The Royal Guard | 4.00% | ~2 |
+| A Land of Peace | 3.00% | ~2 |
+| A Good Paint Job | 3.00% | ~2 |
+| You can't fool me! | 3.00% | ~2 |
+| The Flying Octopus | 3.00% | ~2 |
+| The Royal Guard | 3.00% | ~2 |
 | The Power of Friendship | 2.00% | ~1 |
 | Saucer Beast Unchained | 2.00% | ~1 |
 | The Completionist | 2.00% | ~1 |
@@ -35,7 +35,7 @@
 | Vengeance of the Wolf | 2.00% | ~1 |
 | The Fire Cannons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57 (Ranked 538)  
+Progressed: 58 (Ranked 536)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,3 +60,4 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-29 | 51 | 0 |
 | 2023-12-30 | 55 | 0 |
 | 2023-12-31 | 57 | 0 |
+| 2024-01-02 | 58 | 0 |

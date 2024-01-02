@@ -461,7 +461,7 @@
       "Count": 77
     }
   ],
-  "EOS_Progressed": 339618,
+  "EOS_Progressed": 339636,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 4203,
   "EOS_NewCompleters": 1,
@@ -11871,6 +11871,11 @@
       "Time": "2024-01-02T09:08:47.7113201+00:00",
       "NumProgressed": 339618,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-02T10:08:41.8671453+00:00",
+      "NumProgressed": 339636,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -12187,7 +12192,7 @@
       "Name": "I took a risk",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1359
     },
     {
       "ID": "S40_BONUS",
@@ -12195,14 +12200,14 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6792
+      "UsersEstimate": 6793
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 339618,
+      "Progressed": 339636,
       "Completed": 7
     }
   ],
@@ -12210,8 +12215,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2024-01-01T23:01:20.9565561+00:00",
-  "LastChanged_Achievements": "2024-01-02T09:08:47.7113199+00:00",
+  "LastChanged_Achievements": "2024-01-02T10:08:41.8671447+00:00",
   "LastUpdate_AppInfo": "2023-12-28T22:56:57.7073923+00:00",
-  "LastUpdate_Ratings": "2024-01-02T09:00:17.7475943+00:00",
-  "LastUpdate_Achievements": "2024-01-02T09:08:47.7113859+00:00"
+  "LastUpdate_Ratings": "2024-01-02T10:00:21.4918027+00:00",
+  "LastUpdate_Achievements": "2024-01-02T10:08:41.8672234+00:00"
 }

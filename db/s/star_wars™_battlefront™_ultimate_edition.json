@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2482,
+  "EOS_Progressed": 2483,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 300,
   "EOS_NewCompleters": 0,
@@ -6934,6 +6934,11 @@
       "Time": "2024-01-02T09:10:06.394922+00:00",
       "NumProgressed": 2482,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-02T10:10:02.2322096+00:00",
+      "NumProgressed": 2483,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -7170,7 +7175,7 @@
       "Name": "New Recruit",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 2159
+      "UsersEstimate": 2160
     },
     {
       "ID": "achievement_36",
@@ -7250,7 +7255,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "achievement_45",
@@ -7449,13 +7454,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2482,
+      "Progressed": 2483,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2482,
+      "Progressed": 2483,
       "Completed": 1
     }
   ],
@@ -7463,8 +7468,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-02T09:10:06.3949218+00:00",
+  "LastChanged_Achievements": "2024-01-02T10:10:02.2322092+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:19.759459+00:00",
-  "LastUpdate_Ratings": "2024-01-02T08:58:57.5456705+00:00",
-  "LastUpdate_Achievements": "2024-01-02T09:10:06.3949954+00:00"
+  "LastUpdate_Ratings": "2024-01-02T09:58:58.6741708+00:00",
+  "LastUpdate_Achievements": "2024-01-02T10:10:02.2322839+00:00"
 }

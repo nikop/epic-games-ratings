@@ -44,6 +44,7 @@
 | A Joke | 9.00% | ~10 |
 | Defeat Hokan | 7.00% | ~7 |
 | Defeat Raith | 7.00% | ~7 |
+| Defeat Undergast | 7.00% | ~7 |
 | Defeat Uram | 7.00% | ~7 |
 | Elynn's Tale | 7.00% | ~7 |
 | Lore's Tale | 7.00% | ~7 |
@@ -57,7 +58,6 @@
 | Balanced | 7.00% | ~7 |
 | Friend of Uram Gor | 7.00% | ~7 |
 | Defeat Ianna | 6.00% | ~6 |
-| Defeat Undergast | 6.00% | ~6 |
 | Get to the Airship! | 5.00% | ~5 |
 | Defeat Isgrimm | 5.00% | ~5 |
 | Defeat Yria | 5.00% | ~5 |

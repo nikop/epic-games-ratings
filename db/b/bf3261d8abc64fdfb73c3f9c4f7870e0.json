@@ -510,9 +510,9 @@
       "ID": "achievement_berserk",
       "SetID": "bngbnfb",
       "Name": "Berserker",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_blance_is_my_choise",
@@ -861,8 +861,8 @@
   ],
   "FirstSeen": "2023-10-20T21:02:41.8286211+00:00",
   "FirstSeenAchievements": "2023-10-11T10:03:42.0552864+00:00",
-  "LastChanged_Achievements": "2024-01-02T09:09:15.7487374+00:00",
+  "LastChanged_Achievements": "2024-01-02T10:09:10.4148724+00:00",
   "LastUpdate_AppInfo": "2023-12-27T14:57:14.899745+00:00",
-  "LastUpdate_Ratings": "2024-01-02T08:57:20.4710558+00:00",
-  "LastUpdate_Achievements": "2024-01-02T09:09:15.7487681+00:00"
+  "LastUpdate_Ratings": "2024-01-02T09:57:23.433834+00:00",
+  "LastUpdate_Achievements": "2024-01-02T10:09:10.4149089+00:00"
 }
