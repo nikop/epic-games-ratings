@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 82.00% | ~247 |
-| Purification Pioneer | 78.00% | ~235 |
-| Mechanical Buddy | 72.00% | ~217 |
-| Dicesmithing Time! | 65.00% | ~196 |
-| Sanctuary Guardian | 55.00% | ~166 |
-| Endless Tricks | 51.00% | ~154 |
-| Wild's Keeper | 47.00% | ~141 |
-| Mind Illuminator | 44.00% | ~132 |
-| Stellar Dismantler | 38.00% | ~114 |
-| Noctuan Champion | 35.00% | ~105 |
-| Astral Adventurer | 33.00% | ~99 |
-| Anomaly Destroyer | 31.00% | ~93 |
-| Star Killer | 28.00% | ~84 |
-| Eridanian Champion | 25.00% | ~75 |
-| Loyal Partner | 22.00% | ~66 |
-| Lacertian Champion | 21.00% | ~63 |
-| Shard Spender | 19.00% | ~57 |
-| Apian Champion | 19.00% | ~57 |
-| Unbeatable | 18.00% | ~54 |
+| Meissa's Savior | 82.00% | ~248 |
+| Purification Pioneer | 78.00% | ~236 |
+| Mechanical Buddy | 72.00% | ~218 |
+| Dicesmithing Time! | 64.00% | ~194 |
+| Sanctuary Guardian | 55.00% | ~167 |
+| Endless Tricks | 50.00% | ~152 |
+| Wild's Keeper | 47.00% | ~142 |
+| Mind Illuminator | 44.00% | ~133 |
+| Stellar Dismantler | 37.00% | ~112 |
+| Noctuan Champion | 35.00% | ~106 |
+| Astral Adventurer | 33.00% | ~100 |
+| Anomaly Destroyer | 31.00% | ~94 |
+| Star Killer | 28.00% | ~85 |
+| Eridanian Champion | 25.00% | ~76 |
+| Loyal Partner | 21.00% | ~64 |
+| Lacertian Champion | 21.00% | ~64 |
+| Shard Spender | 19.00% | ~58 |
+| Apian Champion | 19.00% | ~58 |
+| Unbeatable | 17.00% | ~52 |
 | Sadistic Plan | 16.00% | ~48 |
 | Behenian Champion | 15.00% | ~45 |
 | Wave Bender | 10.00% | ~30 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 301 (Ranked 389)  
+Progressed: 303 (Ranked 388)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,4 +171,4 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-30 | 277 | 0 |
 | 2023-12-31 | 285 | 0 |
 | 2024-01-01 | 294 | 0 |
-| 2024-01-02 | 301 | 0 |
+| 2024-01-02 | 303 | 0 |

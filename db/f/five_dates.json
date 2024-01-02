@@ -4,7 +4,7 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1891,
+  "EOS_Progressed": 1892,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 295,
+  "EOS_NewPlayers": 294,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -3525,6 +3525,11 @@
       "Time": "2024-01-02T16:09:48.7419566+00:00",
       "NumProgressed": 1891,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-02T17:11:12.6892973+00:00",
+      "NumProgressed": 1892,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 15,
@@ -3536,7 +3541,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 1853
+      "UsersEstimate": 1854
     },
     {
       "ID": "booty_call",
@@ -3560,7 +3565,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 1815
+      "UsersEstimate": 1816
     },
     {
       "ID": "hold_my_beer",
@@ -3608,7 +3613,7 @@
       "Name": "Nueva Beginnings",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "only_thyme_will_tell",
@@ -3632,7 +3637,7 @@
       "Name": "Smooth Criminal",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "sore_loser",
@@ -3655,7 +3660,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 1891,
+      "Progressed": 1892,
       "Completed": 12
     }
   ],
@@ -3663,8 +3668,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2024-01-02T16:09:48.7419551+00:00",
+  "LastChanged_Achievements": "2024-01-02T17:11:12.6892969+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:27.9788979+00:00",
-  "LastUpdate_Ratings": "2024-01-02T15:59:49.8904779+00:00",
-  "LastUpdate_Achievements": "2024-01-02T16:09:48.7419978+00:00"
+  "LastUpdate_Ratings": "2024-01-02T17:01:47.3056994+00:00",
+  "LastUpdate_Achievements": "2024-01-02T17:11:12.6893276+00:00"
 }

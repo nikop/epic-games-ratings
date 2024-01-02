@@ -2,13 +2,13 @@
   "ID": "80d3aeb1d7c3434981e0bcbc47700a83",
   "Name": "Europa Universalis IV",
   "ProductSlug": "europa-universalis-iv",
-  "Ranking_Rating": 235,
+  "Ranking_Rating": 234,
   "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 24,
-  "Ranking_EOS_Progress": 42,
+  "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -13983,9 +13983,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 490383,
+  "EOS_Progressed": 490424,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5768,
+  "EOS_NewPlayers": 5743,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -43628,6 +43628,11 @@
       "Time": "2024-01-02T16:09:19.8275742+00:00",
       "NumProgressed": 490383,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-02T17:10:32.2843383+00:00",
+      "NumProgressed": 490424,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -46293,9 +46298,9 @@
       "ID": "achievement_ultimate_military",
       "SetID": "8p2n7he",
       "Name": "Ultimate Military",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 490
     },
     {
       "ID": "achievement_until_death_do_us_apart",
@@ -46542,21 +46547,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 490383,
+      "Progressed": 490424,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 490383,
+      "Progressed": 490424,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2024-01-02T16:02:27.0956627+00:00",
-  "LastChanged_Achievements": "2024-01-02T16:09:19.8275734+00:00",
+  "LastChanged_Achievements": "2024-01-02T17:10:32.2843379+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:39.2428149+00:00",
-  "LastUpdate_Ratings": "2024-01-02T16:02:27.0956633+00:00",
-  "LastUpdate_Achievements": "2024-01-02T16:09:19.8288803+00:00"
+  "LastUpdate_Ratings": "2024-01-02T17:02:37.699427+00:00",
+  "LastUpdate_Achievements": "2024-01-02T17:10:32.2854414+00:00"
 }

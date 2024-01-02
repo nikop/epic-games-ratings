@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3214,
+  "EOS_Progressed": 3216,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 210,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7914,6 +7914,11 @@
       "Time": "2024-01-02T15:05:43.3059996+00:00",
       "NumProgressed": 3214,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T17:05:58.3393046+00:00",
+      "NumProgressed": 3216,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -7926,7 +7931,7 @@
       "Name": "First Love",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1446
+      "UsersEstimate": 1447
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -7934,7 +7939,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1318
+      "UsersEstimate": 1319
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -7942,7 +7947,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -8030,7 +8035,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -8118,7 +8123,7 @@
       "Name": "Exhausted but Happy",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ML_ACHIEVEMENT_26",
@@ -8134,7 +8139,7 @@
       "Name": "Clean Race",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1414
+      "UsersEstimate": 1415
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -8214,7 +8219,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -8222,7 +8227,7 @@
       "Name": "Eat My Dust",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1543
+      "UsersEstimate": 1544
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -8254,7 +8259,7 @@
       "Name": "In Search of Perfection",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ML_ACHIEVEMENT_43",
@@ -8278,7 +8283,7 @@
       "Name": "Rivals to the End",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -8317,7 +8322,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3214,
+      "Progressed": 3216,
       "Completed": 0
     }
   ],
@@ -8325,8 +8330,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-01T17:57:32.3895094+00:00",
-  "LastChanged_Achievements": "2024-01-02T16:04:47.345592+00:00",
+  "LastChanged_Achievements": "2024-01-02T17:05:58.3393044+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:59.7599271+00:00",
-  "LastUpdate_Ratings": "2024-01-02T15:57:43.0135251+00:00",
-  "LastUpdate_Achievements": "2024-01-02T16:04:47.3456553+00:00"
+  "LastUpdate_Ratings": "2024-01-02T16:58:22.0425656+00:00",
+  "LastUpdate_Achievements": "2024-01-02T17:05:58.3393795+00:00"
 }

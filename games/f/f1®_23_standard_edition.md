@@ -5,39 +5,39 @@ Rating: 4.65 (Ranked 321)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~13,370 |
-| On the Top Step | 82.00% | ~12,047 |
-| Setting up for Success | 69.00% | ~10,137 |
-| Team Orders | 68.00% | ~9,991 |
-| Engineer | 45.00% | ~6,611 |
-| Familiar Faces | 42.00% | ~6,171 |
-| Going the Extra Mile | 36.00% | ~5,289 |
-| Sharing the Love | 33.00% | ~4,848 |
-| Hitting a Season | 26.00% | ~3,820 |
-| Making History | 25.00% | ~3,673 |
-| A Dozen Pieces | 24.00% | ~3,526 |
-| Network Success | 23.00% | ~3,379 |
-| Challenge Yourself | 23.00% | ~3,379 |
-| Writing a new Chapter | 19.00% | ~2,791 |
-| Spring Cleaning | 18.00% | ~2,645 |
-| Reduce | 15.00% | ~2,204 |
-| Ups and Downs | 15.00% | ~2,204 |
-| Crucial Combo | 13.00% | ~1,910 |
-| Reuse | 12.00% | ~1,763 |
-| Proving Them Wrong | 12.00% | ~1,763 |
-| Gathering Dust | 11.00% | ~1,616 |
-| One for the Book | 11.00% | ~1,616 |
-| Oil and Water | 10.00% | ~1,469 |
-| Friendly Competition | 10.00% | ~1,469 |
-| Switcheroo | 10.00% | ~1,469 |
-| Eagle Eye | 9.00% | ~1,322 |
-| All in a Weekend's Work | 9.00% | ~1,322 |
-| Lightning Round the World | 9.00% | ~1,322 |
-| Hitting a Bullseye | 9.00% | ~1,322 |
-| Spinning Around | 9.00% | ~1,322 |
-| Recycle | 7.00% | ~1,028 |
-| Undisputed Winner | 6.00% | ~882 |
-| Tinkerer | 6.00% | ~882 |
+| Getting on the Step | 91.00% | ~13,388 |
+| On the Top Step | 82.00% | ~12,064 |
+| Setting up for Success | 69.00% | ~10,151 |
+| Team Orders | 68.00% | ~10,004 |
+| Engineer | 45.00% | ~6,620 |
+| Familiar Faces | 42.00% | ~6,179 |
+| Going the Extra Mile | 36.00% | ~5,296 |
+| Sharing the Love | 33.00% | ~4,855 |
+| Hitting a Season | 26.00% | ~3,825 |
+| Making History | 25.00% | ~3,678 |
+| A Dozen Pieces | 24.00% | ~3,531 |
+| Network Success | 23.00% | ~3,384 |
+| Challenge Yourself | 23.00% | ~3,384 |
+| Writing a new Chapter | 19.00% | ~2,795 |
+| Spring Cleaning | 18.00% | ~2,648 |
+| Reduce | 15.00% | ~2,207 |
+| Ups and Downs | 15.00% | ~2,207 |
+| Crucial Combo | 13.00% | ~1,913 |
+| Reuse | 12.00% | ~1,765 |
+| Proving Them Wrong | 12.00% | ~1,765 |
+| Gathering Dust | 11.00% | ~1,618 |
+| One for the Book | 11.00% | ~1,618 |
+| Oil and Water | 10.00% | ~1,471 |
+| Friendly Competition | 10.00% | ~1,471 |
+| Switcheroo | 10.00% | ~1,471 |
+| Eagle Eye | 9.00% | ~1,324 |
+| All in a Weekend's Work | 9.00% | ~1,324 |
+| Lightning Round the World | 9.00% | ~1,324 |
+| Hitting a Bullseye | 9.00% | ~1,324 |
+| Spinning Around | 9.00% | ~1,324 |
+| Recycle | 7.00% | ~1,030 |
+| Undisputed Winner | 6.00% | ~883 |
+| Tinkerer | 6.00% | ~883 |
 | For all Those Back at the Factory | 4.00% | ~588 |
 | Living up to Expectations | 4.00% | ~588 |
 | Smooth Operator | 4.00% | ~588 |
@@ -55,7 +55,7 @@ Rating: 4.65 (Ranked 321)
 | Shot in the Dark | 0.10% | ~15 |
 | Elite Racer | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,692 (Ranked 171)  
+Progressed: 14,712 (Ranked 171)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,19 +166,19 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-30 | 13,937 | 0 |
 | 2023-12-31 | 14,268 | 0 |
 | 2024-01-01 | 14,544 | 0 |
-| 2024-01-02 | 14,692 | 0 |
+| 2024-01-02 | 14,712 | 0 |
 ## Awards
 Max (Diverse Characters): 56  (Ranked 434)  
-Sum: 355 (Ranked 365)  
-Diff (max vs sum): 69  
+Sum: 356 (Ranked 364)  
+Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 56 |
 | This game has a Competitive Community | 45 |
 | This game is Highly Recommended | 38 |
 | This game is Great for Beginners | 36 |
+| This game has Quickly Understood Controls | 35 |
 | This game is Extremely Fun | 34 |
-| This game has Quickly Understood Controls | 34 |
 | This game has Amazing Characters | 32 |
 | This game has Challenging Combat | 30 |
 | This game has Amazing Storytelling | 30 |
@@ -300,4 +300,4 @@ Diff (max vs sum): 69
 | 2023-12-30 | 4.66 | 50 | 331 |
 | 2023-12-31 | 4.67 | 54 | 344 |
 | 2024-01-01 | 4.66 | 54 | 352 |
-| 2024-01-02 | 4.65 | 56 | 355 |
+| 2024-01-02 | 4.65 | 56 | 356 |

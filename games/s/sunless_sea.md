@@ -9,7 +9,7 @@ Number of Ratings: 401  (23.09.2022)
 | Sink Beneath the Waves | 36.00% | ~15,630 |
 | Sweet Sorrow | 18.00% | ~7,815 |
 | Rules the Waves | 17.00% | ~7,381 |
-| Thou, All-Shaking Thunder | 15.00% | ~6,512 |
+| Thou, All-Shaking Thunder | 15.00% | ~6,513 |
 | Rival | 14.00% | ~6,078 |
 | Correspondent | 12.00% | ~5,210 |
 | Lose Your Mind | 12.00% | ~5,210 |
@@ -26,9 +26,9 @@ Number of Ratings: 401  (23.09.2022)
 | Zee Fever | 5.00% | ~2,171 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,737 |
 | Sink Beneath the Waves. Again. | 4.00% | ~1,737 |
-| Storm's Curse | 3.00% | ~1,302 |
-| We're Gonna Need a Bigger Boat | 3.00% | ~1,302 |
-| Come Closer | 3.00% | ~1,302 |
+| Storm's Curse | 3.00% | ~1,303 |
+| We're Gonna Need a Bigger Boat | 3.00% | ~1,303 |
+| Come Closer | 3.00% | ~1,303 |
 | Roaring Rise | 2.00% | ~868 |
 | I am the Captain of my Soul | 2.00% | ~868 |
 | A buoyant escape | 1.00% | ~434 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~43 |
 | Ten Years at Zee | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,416 (Ranked 130)  
+Progressed: 43,417 (Ranked 130)  
 Completed: 4 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 4 (0.01%) (Ranked 367)
 | 2023-12-30 | 43,235 | 4 |
 | 2023-12-31 | 43,307 | 4 |
 | 2024-01-01 | 43,379 | 4 |
-| 2024-01-02 | 43,416 | 4 |
+| 2024-01-02 | 43,417 | 4 |
 ## Awards
 Max (Character Customization): 221  (Ranked 289)  
 Sum: 315 (Ranked 375)  

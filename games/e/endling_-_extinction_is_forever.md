@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 95.00% | ~550 |
-| A Friend in Need | 61.00% | ~353 |
-| Surviving | 43.00% | ~249 |
-| Detox diet | 41.00% | ~237 |
-| Never Give Up | 39.00% | ~226 |
-| Tasty | 37.00% | ~214 |
-| You Can Pet The Fox | 30.00% | ~174 |
+| Home Sweet Home | 95.00% | ~552 |
+| A Friend in Need | 61.00% | ~354 |
+| Surviving | 43.00% | ~250 |
+| Detox diet | 41.00% | ~238 |
+| Never Give Up | 39.00% | ~227 |
+| Tasty | 37.00% | ~215 |
 | Lullaby | 30.00% | ~174 |
+| You Can Pet The Fox | 29.00% | ~168 |
 | Hard Fox Life | 24.00% | ~139 |
-| Never Let Down | 23.00% | ~133 |
+| Never Let Down | 23.00% | ~134 |
 | A Barking Fox Doesn't Bite | 21.00% | ~122 |
 | Chicken Dinner | 21.00% | ~122 |
-| Peaceful Instinct | 18.00% | ~104 |
-| Maternity | 17.00% | ~98 |
+| Peaceful Instinct | 18.00% | ~105 |
+| Maternity | 17.00% | ~99 |
 | Barking in The Rain | 15.00% | ~87 |
 | Family Reunion | 14.00% | ~81 |
 | Beyond Words | 14.00% | ~81 |
-| Never Run Around | 13.00% | ~75 |
-| Three Little Foxes | 11.00% | ~64 |
+| Never Run Around | 13.00% | ~76 |
 | Two Peas in a Pod | 11.00% | ~64 |
 | All For One | 11.00% | ~64 |
 | Extinction is Forever | 11.00% | ~64 |
+| Three Little Foxes | 10.00% | ~58 |
 | We Are a Family | 9.00% | ~52 |
 | Mother Love | 4.00% | ~23 |
 | For a Better Tomorrow | 3.00% | ~17 |
@@ -33,7 +33,7 @@
 | Omnivore | 1.00% | ~6 |
 | Endling | 0.90% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 579 (Ranked 338)  
+Progressed: 581 (Ranked 338)  
 Completed: 3 (0.52%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,6 +169,7 @@ Completed: 3 (0.52%) (Ranked 216)
 | 2023-12-30 | 575 | 3 |
 | 2023-12-31 | 577 | 3 |
 | 2024-01-01 | 579 | 3 |
+| 2024-01-02 | 581 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

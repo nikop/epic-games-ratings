@@ -8697,7 +8697,7 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 752038,
+  "EOS_Progressed": 752071,
   "EOS_Completed": 12971,
   "EOS_NewPlayers": 6659,
   "EOS_NewCompleters": 5,
@@ -32042,6 +32042,11 @@
       "Time": "2024-01-02T16:09:03.3437139+00:00",
       "NumProgressed": 752038,
       "NumCompleted": 12971
+    },
+    {
+      "Time": "2024-01-02T17:10:07.4558368+00:00",
+      "NumProgressed": 752071,
+      "NumCompleted": 12971
     }
   ],
   "TotalAchievements": 60,
@@ -32053,7 +32058,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 37602
+      "UsersEstimate": 37604
     },
     {
       "ID": "02_Vengeance_H1",
@@ -32061,7 +32066,7 @@
       "Name": "The Assault",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30082
+      "UsersEstimate": 30083
     },
     {
       "ID": "03_Vengeance_H2",
@@ -32085,7 +32090,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7520
+      "UsersEstimate": 7521
     },
     {
       "ID": "06_Vengeance_H5",
@@ -32093,7 +32098,7 @@
       "Name": "Furious Fists",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 7520
+      "UsersEstimate": 7521
     },
     {
       "ID": "07_Wude_H1",
@@ -32141,7 +32146,7 @@
       "Name": "Scareless",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7520
+      "UsersEstimate": 7521
     },
     {
       "ID": "13_LowAge",
@@ -32213,7 +32218,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 6768
+      "UsersEstimate": 6769
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -32229,7 +32234,7 @@
       "Name": "Life is your teacher",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 30082
+      "UsersEstimate": 30083
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -32245,7 +32250,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7520
+      "UsersEstimate": 7521
     },
     {
       "ID": "26_ShrineSpirit",
@@ -32285,7 +32290,7 @@
       "Name": "I know Kung-Fu",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7520
+      "UsersEstimate": 7521
     },
     {
       "ID": "31_ComboHigh",
@@ -32317,7 +32322,7 @@
       "Name": "Lightning Hands",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30082
+      "UsersEstimate": 30083
     },
     {
       "ID": "35_WideStrike",
@@ -32325,7 +32330,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7520
+      "UsersEstimate": 7521
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -32365,7 +32370,7 @@
       "Name": "Take damage to save time",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7520
+      "UsersEstimate": 7521
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -32389,7 +32394,7 @@
       "Name": "Project Arena",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -32532,21 +32537,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 61339,
-      "Completed": 10795
+      "Progressed": 61372,
+      "Completed": 10796
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 752038,
+      "Progressed": 752071,
       "Completed": 12971
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-02T06:02:59.8897047+00:00",
-  "LastChanged_Achievements": "2024-01-02T16:09:03.3437133+00:00",
+  "LastChanged_Achievements": "2024-01-02T17:10:07.4558365+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:26.4563062+00:00",
-  "LastUpdate_Ratings": "2024-01-02T16:03:04.4217258+00:00",
-  "LastUpdate_Achievements": "2024-01-02T16:09:03.3438593+00:00"
+  "LastUpdate_Ratings": "2024-01-02T17:03:22.16564+00:00",
+  "LastUpdate_Achievements": "2024-01-02T17:10:07.4559864+00:00"
 }

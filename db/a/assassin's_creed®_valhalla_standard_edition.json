@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2020-11-17T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -13969,10 +13969,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 38464,
       "NumberOfAwardsMax": 15720
+    },
+    {
+      "Time": "2024-01-02T16:59:24.2816185+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 38506,
+      "NumberOfAwardsMax": 15720
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 38464,
+  "NumberOfAwards": 38506,
   "NumberOfAwardsMax": 15720,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -13986,7 +13992,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 10210
+      "Count": 10240
     },
     {
       "Text": "This game is Highly Recommended",
@@ -14022,7 +14028,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1487
+      "Count": 1495
     },
     {
       "Text": "This game is Extremely Fun",
@@ -14040,7 +14046,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 788
+      "Count": 792
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -14060,8 +14066,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:17.7160409+00:00",
-  "LastChanged": "2024-01-02T14:59:15.9050917+00:00",
+  "LastChanged": "2024-01-02T16:59:24.2816184+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:17.8620092+00:00",
-  "LastUpdate_Ratings": "2024-01-02T15:58:19.4603939+00:00",
-  "LastUpdate_Achievements": "2024-01-02T16:04:40.5515642+00:00"
+  "LastUpdate_Ratings": "2024-01-02T16:59:24.281619+00:00",
+  "LastUpdate_Achievements": "2024-01-02T17:05:48.500179+00:00"
 }

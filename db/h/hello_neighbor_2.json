@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 94,
   "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -495,7 +495,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3811,
+  "EOS_Progressed": 3812,
   "EOS_Completed": 142,
   "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 2,
@@ -6625,6 +6625,11 @@
       "Time": "2024-01-02T16:08:25.8576934+00:00",
       "NumProgressed": 3811,
       "NumCompleted": 142
+    },
+    {
+      "Time": "2024-01-02T17:09:13.5511656+00:00",
+      "NumProgressed": 3812,
+      "NumCompleted": 142
     }
   ],
   "TotalAchievements": 14,
@@ -6700,7 +6705,7 @@
       "Name": "Imprisonment",
       "Percentage": 22,
       "XP": 80,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "ACH_MAD_SCIENTIST",
@@ -6747,7 +6752,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3811,
+      "Progressed": 3812,
       "Completed": 142
     }
   ],
@@ -6755,8 +6760,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-12-29T23:00:02.814442+00:00",
-  "LastChanged_Achievements": "2024-01-02T16:08:25.857693+00:00",
+  "LastChanged_Achievements": "2024-01-02T17:09:13.5511653+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:02.885587+00:00",
-  "LastUpdate_Ratings": "2024-01-02T16:02:51.124437+00:00",
-  "LastUpdate_Achievements": "2024-01-02T16:08:25.8577288+00:00"
+  "LastUpdate_Ratings": "2024-01-02T17:03:02.2593724+00:00",
+  "LastUpdate_Achievements": "2024-01-02T17:09:13.5512068+00:00"
 }

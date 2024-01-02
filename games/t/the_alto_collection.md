@@ -1,26 +1,26 @@
 # The Alto Collection
 [Store](https://store.epicgames.com/en-US/p/the-alto-collection)  
 [View Rawdata](../../db/t/the_alto_collection.json)  
-Rating: 4.70 (Ranked 216)  
+Rating: 4.70 (Ranked 215)  
 Number of Ratings: 332  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~14,352 |
-| Finding Your Footing | 25.00% | ~13,289 |
-| Nomad | 17.00% | ~9,037 |
-| Picking Up Speed | 15.00% | ~7,974 |
-| Welcome Maya | 14.00% | ~7,442 |
-| Scout | 11.00% | ~5,847 |
-| Sightseer | 11.00% | ~5,847 |
-| Amateur | 10.00% | ~5,316 |
-| Unlock Maya | 8.00% | ~4,253 |
-| Wanderer | 8.00% | ~4,253 |
-| Enter Paz | 7.00% | ~3,721 |
-| Aviator | 6.00% | ~3,189 |
-| My Little Friend | 5.00% | ~2,658 |
-| One With The Board | 5.00% | ~2,658 |
-| Voyager | 4.00% | ~2,126 |
+| Rookie | 27.00% | ~14,356 |
+| Finding Your Footing | 25.00% | ~13,293 |
+| Nomad | 17.00% | ~9,039 |
+| Picking Up Speed | 15.00% | ~7,976 |
+| Welcome Maya | 14.00% | ~7,444 |
+| Scout | 11.00% | ~5,849 |
+| Sightseer | 11.00% | ~5,849 |
+| Amateur | 10.00% | ~5,317 |
+| Unlock Maya | 8.00% | ~4,254 |
+| Wanderer | 8.00% | ~4,254 |
+| Enter Paz | 7.00% | ~3,722 |
+| Aviator | 6.00% | ~3,190 |
+| My Little Friend | 5.00% | ~2,659 |
+| One With The Board | 5.00% | ~2,659 |
+| Voyager | 4.00% | ~2,127 |
 | Junkie | 3.00% | ~1,595 |
 | Traveler | 3.00% | ~1,595 |
 | Unlock Paz | 3.00% | ~1,595 |
@@ -36,17 +36,17 @@ Number of Ratings: 332  (23.09.2022)
 | Daredevil | 1.00% | ~532 |
 | Introducing Sumara | 1.00% | ~532 |
 | Vandal | 1.00% | ~532 |
-| Unlock Felipe | 0.90% | ~478 |
+| Unlock Felipe | 0.90% | ~479 |
 | Adventurer | 0.80% | ~425 |
 | Unlock Tupa | 0.50% | ~266 |
-| Master Of The Sands | 0.30% | ~159 |
+| Master Of The Sands | 0.30% | ~160 |
 | Master | 0.20% | ~106 |
 | Survivalist | 0.20% | ~106 |
 | Life Aquatic | 0.10% | ~53 |
 | The Ultimate Challenge | 0.10% | ~53 |
 | Windswept | 0.10% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,157 (Ranked 121)  
+Progressed: 53,171 (Ranked 121)  
 Completed: 5 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 5 (0.01%) (Ranked 367)
 | 2023-12-30 | 52,709 | 5 |
 | 2023-12-31 | 52,900 | 5 |
 | 2024-01-01 | 53,060 | 5 |
-| 2024-01-02 | 53,157 | 5 |
+| 2024-01-02 | 53,171 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 50  (Ranked 451)  
 Sum: 392 (Ranked 352)  

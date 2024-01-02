@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 293,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
     "PcReleaseDate": "2022-10-24T16:00:00+00:00",
@@ -890,9 +890,9 @@
       "ID": "jk1",
       "SetID": "b1ggf28",
       "Name": "Treatment of plague",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 51
     },
     {
       "ID": "jk2",
@@ -1129,8 +1129,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-02T16:05:16.6281715+00:00",
+  "LastChanged_Achievements": "2024-01-02T17:06:39.1384706+00:00",
   "LastUpdate_AppInfo": "2023-12-27T04:56:58.3049887+00:00",
-  "LastUpdate_Ratings": "2024-01-02T16:03:00.637011+00:00",
-  "LastUpdate_Achievements": "2024-01-02T16:05:16.6282153+00:00"
+  "LastUpdate_Ratings": "2024-01-02T17:03:17.233343+00:00",
+  "LastUpdate_Achievements": "2024-01-02T17:06:39.1385201+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 221,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 349,
-  "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2208,9 +2208,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16086,
+  "EOS_Progressed": 16088,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18808,6 +18808,11 @@
       "Time": "2024-01-02T15:11:07.0245175+00:00",
       "NumProgressed": 16086,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-02T17:11:34.3613629+00:00",
+      "NumProgressed": 16088,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -19385,9 +19390,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_NOBLE",
       "SetID": "7l38kb8",
       "Name": "Noble",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 113
+      "UsersEstimate": 129
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_OLD",
@@ -19465,9 +19470,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_VALIANT",
       "SetID": "9201eeb",
       "Name": "Valiant",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 64
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_VICTORIOUS",
@@ -19513,9 +19518,9 @@
       "ID": "ACHIEVEMENT_CULTURE_DEVELOPING",
       "SetID": "9201eeb",
       "Name": "Developing Cities",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 113
     },
     {
       "ID": "ACHIEVEMENT_CULTURE_LEGENDARY",
@@ -19673,9 +19678,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_HUNTERS",
       "SetID": "7l38kb8",
       "Name": "Hunters",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_LANDOWNERS",
@@ -20929,9 +20934,9 @@
       "ID": "ACHIEVEMENT_VICTORY_ALL_NATIONS",
       "SetID": "7l38kb8",
       "Name": "All Nations",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_AMBITION",
@@ -21682,21 +21687,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16086,
+      "Progressed": 16088,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16086,
+      "Progressed": 16088,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-29T16:02:55.9624641+00:00",
-  "LastChanged_Achievements": "2024-01-02T16:10:05.3701317+00:00",
+  "LastChanged_Achievements": "2024-01-02T17:11:34.3613626+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:24.5452657+00:00",
-  "LastUpdate_Ratings": "2024-01-02T15:57:20.7328409+00:00",
-  "LastUpdate_Achievements": "2024-01-02T16:10:05.3711654+00:00"
+  "LastUpdate_Ratings": "2024-01-02T16:57:46.5311988+00:00",
+  "LastUpdate_Achievements": "2024-01-02T17:11:34.3624111+00:00"
 }

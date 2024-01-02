@@ -6,27 +6,27 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My New Home | 60.00% | ~361 |
-| Mushroom Picker | 55.00% | ~331 |
-| Scrap Gatherer | 54.00% | ~325 |
-| Scrapper | 44.00% | ~265 |
-| Cook | 43.00% | ~259 |
-| Teleport | 43.00% | ~259 |
+| My New Home | 60.00% | ~362 |
+| Mushroom Picker | 55.00% | ~332 |
+| Scrap Gatherer | 54.00% | ~326 |
+| Scrapper | 44.00% | ~266 |
+| Cook | 43.00% | ~260 |
+| Teleport | 43.00% | ~260 |
 | Scrap Master | 36.00% | ~217 |
 | Smelter | 34.00% | ~205 |
-| Digger | 31.00% | ~187 |
-| Electro-Scrap Gatherer | 31.00% | ~187 |
+| Digger | 30.00% | ~181 |
+| Electro-Scrap Gatherer | 30.00% | ~181 |
 | Survivor | 29.00% | ~175 |
 | Herbalist | 28.00% | ~169 |
 | Lumberjack | 28.00% | ~169 |
 | Robot Destroyer | 28.00% | ~169 |
-| Prepper | 25.00% | ~150 |
-| Electro-Scrap Master | 23.00% | ~138 |
-| Robot Hunter | 20.00% | ~120 |
-| Advanced Survivalist | 18.00% | ~108 |
-| Master Of Technology | 16.00% | ~96 |
-| Treasure Hunter | 16.00% | ~96 |
-| Mythical Smelter | 14.00% | ~84 |
+| Prepper | 25.00% | ~151 |
+| Electro-Scrap Master | 23.00% | ~139 |
+| Robot Hunter | 20.00% | ~121 |
+| Advanced Survivalist | 18.00% | ~109 |
+| Master Of Technology | 16.00% | ~97 |
+| Treasure Hunter | 16.00% | ~97 |
+| Mythical Smelter | 14.00% | ~85 |
 | Blacksmith | 11.00% | ~66 |
 | Forest Lord | 10.00% | ~60 |
 | Fuel | 10.00% | ~60 |
@@ -38,8 +38,8 @@ Number of Ratings: 38  (23.09.2022)
 | Forest Killer | 2.00% | ~12 |
 | Invincible | 0.50% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 602 (Ranked 334)  
-Completed: 4 (0.66%) (Ranked 198)  
+Progressed: 604 (Ranked 334)  
+Completed: 4 (0.66%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -210,7 +210,7 @@ Completed: 4 (0.66%) (Ranked 198)
 | 2023-12-30 | 586 | 4 |
 | 2023-12-31 | 590 | 4 |
 | 2024-01-01 | 599 | 4 |
-| 2024-01-02 | 602 | 4 |
+| 2024-01-02 | 604 | 4 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

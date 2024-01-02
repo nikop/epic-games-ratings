@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 611,
+  "EOS_Progressed": 612,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -2202,6 +2202,11 @@
       "Time": "2024-01-02T16:09:52.0017634+00:00",
       "NumProgressed": 611,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-02T17:11:17.3585693+00:00",
+      "NumProgressed": 612,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -2213,7 +2218,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 48,
       "XP": 60,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "completeact2",
@@ -2221,7 +2226,7 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 40,
       "XP": 80,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "completeact3",
@@ -2229,7 +2234,7 @@
       "Name": "On the Road",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "findalltapes",
@@ -2315,9 +2320,9 @@
       "ID": "scoreminrankrv1",
       "SetID": "40n95i5",
       "Name": "Welcome to the Garage",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 110
+      "UsersEstimate": 104
     },
     {
       "ID": "scoreminrankrv2",
@@ -2332,7 +2337,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 611,
+      "Progressed": 612,
       "Completed": 3
     }
   ],
@@ -2340,8 +2345,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-02T16:09:52.0017626+00:00",
+  "LastChanged_Achievements": "2024-01-02T17:11:17.358569+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:00.0371084+00:00",
-  "LastUpdate_Ratings": "2024-01-02T15:59:02.2952936+00:00",
-  "LastUpdate_Achievements": "2024-01-02T16:09:52.001786+00:00"
+  "LastUpdate_Ratings": "2024-01-02T17:00:30.8503177+00:00",
+  "LastUpdate_Achievements": "2024-01-02T17:11:17.3585957+00:00"
 }

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 71,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 70,
-  "Ranking_EOS_Completed": 170,
+  "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 48,
   "Ranking_EOS_NewCompleters": 20,
   "Store": {
@@ -9221,10 +9221,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 33256,
       "NumberOfAwardsMax": 5730
+    },
+    {
+      "Time": "2024-01-02T16:58:54.1554788+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33261,
+      "NumberOfAwardsMax": 5730
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33256,
+  "NumberOfAwards": 33261,
   "NumberOfAwardsMax": 5730,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9244,7 +9250,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4882
+      "Count": 4887
     },
     {
       "Text": "This game is Relaxing",
@@ -9271,9 +9277,9 @@
       "Count": 3617
     }
   ],
-  "EOS_Progressed": 249802,
+  "EOS_Progressed": 249834,
   "EOS_Completed": 2585,
-  "EOS_NewPlayers": 4906,
+  "EOS_NewPlayers": 4913,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -38381,6 +38387,11 @@
       "Time": "2024-01-02T16:10:06.5199542+00:00",
       "NumProgressed": 249802,
       "NumCompleted": 2585
+    },
+    {
+      "Time": "2024-01-02T17:11:34.8709031+00:00",
+      "NumProgressed": 249834,
+      "NumCompleted": 2585
     }
   ],
   "TotalAchievements": 546,
@@ -38392,7 +38403,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7494
+      "UsersEstimate": 7495
     },
     {
       "ID": "objective_completed_10",
@@ -38400,7 +38411,7 @@
       "Name": "Maddening",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "objective_completed_100",
@@ -39368,7 +39379,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "objective_completed_130",
@@ -39512,7 +39523,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "objective_completed_150",
@@ -39720,7 +39731,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "objective_completed_20",
@@ -40080,7 +40091,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "objective_completed_36",
@@ -41536,7 +41547,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2248
+      "UsersEstimate": 2249
     },
     {
       "ID": "objective_completed_70",
@@ -42136,7 +42147,7 @@
       "Name": "Pure Energy",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "objective_completed_902",
@@ -42696,7 +42707,7 @@
       "Name": "Fast Food",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     },
     {
       "ID": "objective_completed_1563",
@@ -42712,7 +42723,7 @@
       "Name": "The Overgrown Grove",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1081
     },
     {
       "ID": "objective_completed_673",
@@ -42736,7 +42747,7 @@
       "Name": "Mental Gymnastics",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1081
     },
     {
       "ID": "objective_completed_860",
@@ -42759,21 +42770,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 216076,
+      "Progressed": 216108,
       "Completed": 4128
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 249802,
+      "Progressed": 249834,
       "Completed": 2585
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-02T15:58:02.5137914+00:00",
-  "LastChanged_Achievements": "2024-01-02T16:10:06.5199538+00:00",
+  "LastChanged": "2024-01-02T16:58:54.1554786+00:00",
+  "LastChanged_Achievements": "2024-01-02T17:11:34.8709028+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-02T15:58:02.513792+00:00",
-  "LastUpdate_Achievements": "2024-01-02T16:10:06.5225033+00:00"
+  "LastUpdate_Ratings": "2024-01-02T16:58:54.1554793+00:00",
+  "LastUpdate_Achievements": "2024-01-02T17:11:34.8733821+00:00"
 }

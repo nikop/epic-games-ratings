@@ -1,20 +1,20 @@
 # Unrailed!
 [Store](https://store.epicgames.com/en-US/p/unrailed-e19729)  
 [View Rawdata](../../db/u/unrailed!.json)  
-Rating: 4.64 (Ranked 344)  
+Rating: 4.64 (Ranked 345)  
 Number of Ratings: 21,990  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 19.00% | ~128,667 |
-| Incurious | 18.00% | ~121,895 |
-| Climate Change | 17.00% | ~115,123 |
-| Stroller | 16.00% | ~108,352 |
-| Advanced Hiker | 14.00% | ~94,808 |
-| Toy Train | 14.00% | ~94,808 |
-| Hiker | 12.00% | ~81,264 |
-| Mojave Courier | 6.00% | ~40,632 |
-| Saved by Nausicaä | 6.00% | ~40,632 |
+| Advanced Stroller | 19.00% | ~128,670 |
+| Incurious | 18.00% | ~121,898 |
+| Climate Change | 17.00% | ~115,126 |
+| Stroller | 16.00% | ~108,354 |
+| Advanced Hiker | 14.00% | ~94,810 |
+| Toy Train | 14.00% | ~94,810 |
+| Hiker | 12.00% | ~81,265 |
+| Mojave Courier | 6.00% | ~40,633 |
+| Saved by Nausicaä | 6.00% | ~40,633 |
 | Advanced Voyager | 4.00% | ~27,088 |
 | Expert Stroller | 4.00% | ~27,088 |
 | Orient Express | 4.00% | ~27,088 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~677 |
 | 20 Miles under the Sea | 0.10% | ~677 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 677,197 (Ranked 29)  
+Progressed: 677,211 (Ranked 29)  
 Completed: 13 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,17 +316,17 @@ Completed: 13 (0.00%) (Ranked 390)
 | 2023-12-30 | 676,071 | 12 |
 | 2023-12-31 | 676,580 | 12 |
 | 2024-01-01 | 676,999 | 13 |
-| 2024-01-02 | 677,197 | 13 |
+| 2024-01-02 | 677,211 | 13 |
 ## Awards
 Max (Great for Beginners): 208  (Ranked 292)  
-Sum: 1,624 (Ranked 232)  
+Sum: 1,625 (Ranked 232)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 208 |
 | This game has Diverse Characters | 203 |
 | This game has Quickly Understood Controls | 194 |
-| This game is Extremely Fun | 188 |
+| This game is Extremely Fun | 189 |
 | This game is Relaxing | 181 |
 | This game has Amazing Characters | 172 |
 | This game has Playful Visuals | 166 |
@@ -498,3 +498,4 @@ Diff (max vs sum): 60
 | 2023-12-29 | 4.64 | - | 207 | 1,622 |
 | 2023-12-30 | 4.64 | - | 207 | 1,623 |
 | 2024-01-01 | 4.64 | - | 208 | 1,624 |
+| 2024-01-02 | 4.64 | - | 208 | 1,625 |

@@ -2,10 +2,10 @@
   "ID": "713cf66874564881adc4f5bb9ade5ceb",
   "Name": "Them and Us",
   "ProductSlug": "them-and-us-7c9c73",
-  "Ranking_EOS_Progress": 369,
+  "Ranking_EOS_Progress": 368,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 329,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
     "PcReleaseDate": "2021-09-28T16:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 374,
+  "EOS_Progressed": 375,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
@@ -1651,6 +1651,11 @@
       "Time": "2024-01-02T12:08:35.1740551+00:00",
       "NumProgressed": 374,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-02T17:09:18.7866458+00:00",
+      "NumProgressed": 375,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1670,15 +1675,15 @@
       "Name": "Alone In The Dark",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ETUA_AlonewithThem",
       "SetID": "65jc0ap",
       "Name": "Alone with Them",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 262
+      "UsersEstimate": 259
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -1694,7 +1699,7 @@
       "Name": "Back In Time",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ETUA_BeforeTheEclipse",
@@ -1750,7 +1755,7 @@
       "Name": "Spiritual essence well spent",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ETUA_ForcedtoKill",
@@ -1766,7 +1771,7 @@
       "Name": "Them and Us",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ETUA_LifeOfTheThousandGods",
@@ -1782,7 +1787,7 @@
       "Name": "Run and Gun",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ETUA_ModernPlayer",
@@ -1822,7 +1827,7 @@
       "Name": "OUTRAGE",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ETUA_PTD",
@@ -1830,7 +1835,7 @@
       "Name": "Pet The Dog",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ETUA_ParasiteExterminated",
@@ -1894,7 +1899,7 @@
       "Name": "The 5th Element",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ETUA_TheBusStop",
@@ -1910,7 +1915,7 @@
       "Name": "The Cultists",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ETUA_TheCurseIsReal",
@@ -1918,7 +1923,7 @@
       "Name": "The Curse Is Real",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ETUA_TheForgottenTower",
@@ -1934,7 +1939,7 @@
       "Name": "This Coffin Has Your Name On It!",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ETUA_ThisMansionIsClean",
@@ -1974,14 +1979,14 @@
       "Name": "What have I done!?",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     }
   ],
   "AchievementSets": [
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 374,
+      "Progressed": 375,
       "Completed": 1
     }
   ],
@@ -1989,8 +1994,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2024-01-02T16:08:29.6926812+00:00",
+  "LastChanged_Achievements": "2024-01-02T17:09:18.7866455+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:30.0285391+00:00",
-  "LastUpdate_Ratings": "2024-01-02T15:57:54.1997496+00:00",
-  "LastUpdate_Achievements": "2024-01-02T16:08:29.6927144+00:00"
+  "LastUpdate_Ratings": "2024-01-02T16:58:40.2948249+00:00",
+  "LastUpdate_Achievements": "2024-01-02T17:09:18.7866926+00:00"
 }

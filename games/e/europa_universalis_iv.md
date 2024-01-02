@@ -1,7 +1,7 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 235)  
+Rating: 4.69 (Ranked 234)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -300,6 +300,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Turn the Table | 0.10% | ~490 |
 | Turning the Tide | 0.10% | ~490 |
 | Turtles all the way down | 0.10% | ~490 |
+| Ultimate Military | 0.10% | ~490 |
 | Vasa or Wettin? | 0.10% | ~490 |
 | Venetian Sea | 0.10% | ~490 |
 | Victorian Three | 0.10% | ~490 |
@@ -364,13 +365,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Three Mountains | 0.00% | ~0 |
 | To the Bone | 0.00% | ~0 |
 | Turkish Delight | 0.00% | ~0 |
-| Ultimate Military | 0.00% | ~0 |
 | Where Am I? | 0.00% | ~0 |
 | Where are the penguins? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 490,383 (Ranked 42)  
+Progressed: 490,424 (Ranked 43)  
 Completed: 1 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -627,7 +627,7 @@ Completed: 1 (0.00%) (Ranked 390)
 | 2023-12-30 | 488,255 | 1 |
 | 2023-12-31 | 489,119 | 1 |
 | 2024-01-01 | 489,961 | 1 |
-| 2024-01-02 | 490,383 | 1 |
+| 2024-01-02 | 490,424 | 1 |
 ## Awards
 Max (Educational): 7,680  (Ranked 54)  
 Sum: 63,302 (Ranked 24)  

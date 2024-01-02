@@ -4,8 +4,8 @@
   "ProductSlug": "party-monsterzz-f42535",
   "Ranking_EOS_Progress": 448,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 393,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-10-20T17:00:00+00:00",
     "PcReleaseDate": "2023-10-20T17:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 149,
+  "EOS_Progressed": 150,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.34,
+  "EOS_Completed_Percentage": 1.33,
   "EosHistory": [
     {
       "Time": "2023-10-24T09:04:07.3513375+00:00",
@@ -694,6 +694,11 @@
       "Time": "2024-01-02T16:08:30.2765479+00:00",
       "NumProgressed": 149,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-02T17:09:19.6826962+00:00",
+      "NumProgressed": 150,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-24T09:04:07.3513415+00:00",
@@ -706,7 +711,7 @@
       "Name": "One of Us! One of Us!",
       "Percentage": 25,
       "XP": 200,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "Achievement_1",
@@ -714,7 +719,7 @@
       "Name": "Party Craze",
       "Percentage": 1,
       "XP": 200,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Achievement_2",
@@ -722,7 +727,7 @@
       "Name": "Party Inferno!",
       "Percentage": 1,
       "XP": 200,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Achievement_3",
@@ -738,21 +743,21 @@
       "Name": "Social Monster",
       "Percentage": 9,
       "XP": 200,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     }
   ],
   "AchievementSets": [
     {
       "ID": "8556mdl",
       "IsBase": true,
-      "Progressed": 149,
+      "Progressed": 150,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-10-21T19:01:49.5181483+00:00",
   "FirstSeenAchievements": "2023-10-23T18:03:45.1377273+00:00",
-  "LastChanged_Achievements": "2024-01-02T16:08:30.2765473+00:00",
+  "LastChanged_Achievements": "2024-01-02T17:09:19.6826958+00:00",
   "LastUpdate_AppInfo": "2023-12-29T19:57:03.1666911+00:00",
-  "LastUpdate_Ratings": "2024-01-02T15:57:54.3249343+00:00",
-  "LastUpdate_Achievements": "2024-01-02T16:08:30.2765582+00:00"
+  "LastUpdate_Ratings": "2024-01-02T16:58:40.5482881+00:00",
+  "LastUpdate_Achievements": "2024-01-02T17:09:19.6827062+00:00"
 }

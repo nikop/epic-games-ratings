@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 369,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1045,9 +1045,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9730,
+  "EOS_Progressed": 9731,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10445,6 +10445,11 @@
       "Time": "2024-01-02T16:09:10.2616247+00:00",
       "NumProgressed": 9730,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-02T17:10:18.1297608+00:00",
+      "NumProgressed": 9731,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -10472,7 +10477,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4281
+      "UsersEstimate": 4282
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -10488,7 +10493,7 @@
       "Name": "Cercatore d\u0027Oro",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "ISONZO_ACH_COMPAGNIA_DELLA_MORTE",
@@ -10648,7 +10653,7 @@
       "Name": "Peak Performance",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4378
+      "UsersEstimate": 4379
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -10784,7 +10789,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4865
+      "UsersEstimate": 4866
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -10808,14 +10813,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 4962
+      "UsersEstimate": 4963
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9730,
+      "Progressed": 9731,
       "Completed": 10
     }
   ],
@@ -10823,8 +10828,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-12-30T03:57:33.3665427+00:00",
-  "LastChanged_Achievements": "2024-01-02T16:09:10.2616241+00:00",
+  "LastChanged_Achievements": "2024-01-02T17:10:18.1297605+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:27.5115536+00:00",
-  "LastUpdate_Ratings": "2024-01-02T15:59:22.7099725+00:00",
-  "LastUpdate_Achievements": "2024-01-02T16:09:10.2617435+00:00"
+  "LastUpdate_Ratings": "2024-01-02T17:01:03.1795652+00:00",
+  "LastUpdate_Achievements": "2024-01-02T17:10:18.1298454+00:00"
 }

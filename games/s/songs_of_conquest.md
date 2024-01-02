@@ -1,22 +1,22 @@
 # Songs of Conquest
 [Store](https://store.epicgames.com/en-US/p/songs-of-conquest)  
 [View Rawdata](../../db/s/songs_of_conquest.json)  
-Rating: 4.69 (Ranked 235)  
+Rating: 4.69 (Ranked 234)  
 Number of Ratings: 292  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 46.00% | ~430 |
-| Double Kill | 39.00% | ~365 |
+| Adept | 46.00% | ~431 |
+| Double Kill | 40.00% | ~375 |
+| Critical Hit | 22.00% | ~206 |
 | Veteran | 22.00% | ~206 |
-| Critical Hit | 21.00% | ~196 |
-| Dressed For Success | 15.00% | ~140 |
-| Veni, Vidi, Vici | 10.00% | ~94 |
+| Dressed For Success | 15.00% | ~141 |
 | Humiliation | 9.00% | ~84 |
+| Veni, Vidi, Vici | 9.00% | ~84 |
 | Multi Kill | 8.00% | ~75 |
 | Sorcerous Spree | 8.00% | ~75 |
-| Landlord Extraordinaire | 7.00% | ~65 |
-| Master | 7.00% | ~65 |
+| Landlord Extraordinaire | 7.00% | ~66 |
+| Master | 7.00% | ~66 |
 | Whoops! | 6.00% | ~56 |
 | The Song of Stoutheart | 5.00% | ~47 |
 | Don't Touch My Stuff | 5.00% | ~47 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 935 (Ranked 292)  
+Progressed: 937 (Ranked 291)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,11 +114,11 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-30 | 871 | 0 |
 | 2023-12-31 | 895 | 0 |
 | 2024-01-01 | 923 | 0 |
-| 2024-01-02 | 935 | 0 |
+| 2024-01-02 | 937 | 0 |
 ## Awards
-Max (Quickly Understood Controls): 29  (Ranked 521)  
+Max (Quickly Understood Controls): 29  (Ranked 522)  
 Sum: 251 (Ranked 399)  
-Diff (max vs sum): 122  
+Diff (max vs sum): 123  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 29 |

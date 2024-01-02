@@ -2,10 +2,10 @@
   "ID": "c609e63aa7f44e55835f51df979ee6b8",
   "Name": "Batora: Lost Haven",
   "ProductSlug": "batora-lost-haven-1773c3",
-  "Ranking_EOS_Progress": 597,
+  "Ranking_EOS_Progress": 593,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 453,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 441,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-09-12T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 27,
+  "EOS_Progressed": 28,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -158,6 +158,11 @@
     {
       "Time": "2024-01-02T13:13:39.7246921+00:00",
       "NumProgressed": 27,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T17:11:20.6867745+00:00",
+      "NumProgressed": 28,
       "NumCompleted": 0
     }
   ],
@@ -297,9 +302,9 @@
       "ID": "ACH_KEEPER_OF_BALANCE",
       "SetID": "715gm5d",
       "Name": "Keeper of Balance",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_LADY_OF_THE_NIGHT",
@@ -393,7 +398,7 @@
       "ID": "ACH_UNUSUAL_ENCOUNTER",
       "SetID": "715gm5d",
       "Name": "Unusual Encounter",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -410,14 +415,14 @@
     {
       "ID": "715gm5d",
       "IsBase": true,
-      "Progressed": 27,
+      "Progressed": 28,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-26T15:57:45.8918317+00:00",
   "FirstSeenAchievements": "2023-09-12T17:03:09.6040714+00:00",
-  "LastChanged_Achievements": "2024-01-02T16:09:54.7739513+00:00",
+  "LastChanged_Achievements": "2024-01-02T17:11:20.6867742+00:00",
   "LastUpdate_AppInfo": "2023-12-26T22:57:07.709981+00:00",
-  "LastUpdate_Ratings": "2024-01-02T16:00:01.9850335+00:00",
-  "LastUpdate_Achievements": "2024-01-02T16:09:54.773969+00:00"
+  "LastUpdate_Ratings": "2024-01-02T17:02:05.3025631+00:00",
+  "LastUpdate_Achievements": "2024-01-02T17:11:20.6867971+00:00"
 }

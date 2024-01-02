@@ -4,8 +4,8 @@
   "ProductSlug": "samorost-2-1b9bb1",
   "Ranking_EOS_Progress": 421,
   "Ranking_EOS_Completed": 8,
-  "Ranking_EOS_NewPlayers": 333,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2005-12-08T12:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 215,
-  "EOS_Completed": 90,
-  "EOS_NewPlayers": 21,
-  "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 41.86,
+  "EOS_Completed": 91,
+  "EOS_NewPlayers": 20,
+  "EOS_NewCompleters": 7,
+  "EOS_Completed_Percentage": 42.33,
   "EosHistory": [
     {
       "Time": "2023-06-30T19:02:26.4579198+00:00",
@@ -1434,6 +1434,11 @@
       "Time": "2024-01-02T04:05:26.6024176+00:00",
       "NumProgressed": 215,
       "NumCompleted": 90
+    },
+    {
+      "Time": "2024-01-02T17:07:10.0384026+00:00",
+      "NumProgressed": 215,
+      "NumCompleted": 91
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.1574321+00:00",
@@ -1550,13 +1555,13 @@
       "ID": "823jm6g",
       "IsBase": true,
       "Progressed": 215,
-      "Completed": 90
+      "Completed": 91
     }
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2024-01-02T16:05:38.7797637+00:00",
+  "LastChanged_Achievements": "2024-01-02T17:07:10.0384021+00:00",
   "LastUpdate_AppInfo": "2023-12-30T07:56:58.6269869+00:00",
-  "LastUpdate_Ratings": "2024-01-02T15:58:07.7757898+00:00",
-  "LastUpdate_Achievements": "2024-01-02T16:05:38.7797818+00:00"
+  "LastUpdate_Ratings": "2024-01-02T16:59:03.5401042+00:00",
+  "LastUpdate_Achievements": "2024-01-02T17:07:10.0384212+00:00"
 }

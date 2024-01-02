@@ -2,13 +2,13 @@
   "ID": "b04882669b2e495e9f747c8560488c93",
   "Name": "Trackmania",
   "ProductSlug": "trackmania",
-  "Ranking_Rating": 302,
+  "Ranking_Rating": 301,
   "Ranking_Popularity": 85,
   "Ranking_PopularitySum": 40,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2020-07-01T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -15276,10 +15276,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 34504,
       "NumberOfAwardsMax": 4269
+    },
+    {
+      "Time": "2024-01-02T16:59:59.2466481+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 34508,
+      "NumberOfAwardsMax": 4269
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 34504,
+  "NumberOfAwards": 34508,
   "NumberOfAwardsMax": 4269,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -15335,7 +15341,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 2813
+      "Count": 2817
     },
     {
       "Text": "This game has Challenging Combat",
@@ -15367,8 +15373,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2024-01-02T13:02:22.6145103+00:00",
+  "LastChanged": "2024-01-02T16:59:59.246648+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:20.9854807+00:00",
-  "LastUpdate_Ratings": "2024-01-02T15:58:42.7593316+00:00",
-  "LastUpdate_Achievements": "2024-01-02T16:09:34.0524257+00:00"
+  "LastUpdate_Ratings": "2024-01-02T16:59:59.2466492+00:00",
+  "LastUpdate_Achievements": "2024-01-02T17:10:51.9660325+00:00"
 }

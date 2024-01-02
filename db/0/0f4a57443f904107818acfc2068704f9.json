@@ -4,8 +4,8 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1216,
+  "EOS_Progressed": 1217,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3042,6 +3042,11 @@
       "Time": "2024-01-02T16:08:24.2992838+00:00",
       "NumProgressed": 1216,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-02T17:09:11.2929906+00:00",
+      "NumProgressed": 1217,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -3102,7 +3107,7 @@
       "Name": "Knight-Vexillor",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "CompleteChapter1",
@@ -3110,7 +3115,7 @@
       "Name": "Pathfinder",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "CompleteChapter10",
@@ -3150,7 +3155,7 @@
       "Name": "For Harkanibus!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "CompleteChapter15",
@@ -3206,7 +3211,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "CompleteChapter4",
@@ -3349,14 +3354,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 1216,
+      "Progressed": 1217,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2024-01-02T16:08:24.2992832+00:00",
+  "LastChanged_Achievements": "2024-01-02T17:09:11.2929903+00:00",
   "LastUpdate_AppInfo": "2023-12-29T09:57:13.5043463+00:00",
-  "LastUpdate_Ratings": "2024-01-02T15:59:10.8624934+00:00",
-  "LastUpdate_Achievements": "2024-01-02T16:08:24.2993319+00:00"
+  "LastUpdate_Ratings": "2024-01-02T17:00:43.7745757+00:00",
+  "LastUpdate_Achievements": "2024-01-02T17:09:11.2930636+00:00"
 }

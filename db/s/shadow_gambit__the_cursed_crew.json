@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1403,
+  "EOS_Progressed": 1406,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.49,
   "EosHistory": [
@@ -4854,6 +4854,11 @@
       "Time": "2024-01-02T15:07:44.5959951+00:00",
       "NumProgressed": 1403,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-02T17:08:03.6541068+00:00",
+      "NumProgressed": 1406,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4866,15 +4871,15 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 968
+      "UsersEstimate": 956
     },
     {
       "ID": "_03_FinishAct1",
@@ -4882,7 +4887,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 687
+      "UsersEstimate": 689
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -4890,7 +4895,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "_05_FinishAct2",
@@ -4898,7 +4903,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -4906,7 +4911,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "_07_FinishAct3",
@@ -4922,7 +4927,7 @@
       "Name": "Swabbie",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "_09_Completion_20",
@@ -4930,7 +4935,7 @@
       "Name": "Powder Monkey",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "_10_Completion_30",
@@ -4946,7 +4951,7 @@
       "Name": "Seadog",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "_12_Completion_50",
@@ -4954,7 +4959,7 @@
       "Name": "Privateer",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "_13_Completion_60",
@@ -4994,7 +4999,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -5026,7 +5031,7 @@
       "Name": "Tobacco Travesty",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -5034,7 +5039,7 @@
       "Name": "Accursed Artifacts",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -5042,7 +5047,7 @@
       "Name": "Lyrical Longing",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "_24_CrewTale_SNP",
@@ -5050,7 +5055,7 @@
       "Name": "Jaded Judge",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -5058,7 +5063,7 @@
       "Name": "Rustic Recipe",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -5073,7 +5078,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1403,
+      "Progressed": 1406,
       "Completed": 35
     }
   ],
@@ -5081,8 +5086,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-27T21:58:17.6269244+00:00",
-  "LastChanged_Achievements": "2024-01-02T16:06:16.0850845+00:00",
+  "LastChanged_Achievements": "2024-01-02T17:08:03.6541064+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.1530944+00:00",
-  "LastUpdate_Ratings": "2024-01-02T16:02:39.837967+00:00",
-  "LastUpdate_Achievements": "2024-01-02T16:06:16.085129+00:00"
+  "LastUpdate_Ratings": "2024-01-02T17:02:49.9306491+00:00",
+  "LastUpdate_Achievements": "2024-01-02T17:08:03.6541541+00:00"
 }

@@ -1,13 +1,13 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 262)  
+Rating: 4.68 (Ranked 261)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 12.00% | ~742 |
-| Lost and Found | 8.00% | ~494 |
+| Malpractice Assurance | 12.00% | ~743 |
+| Lost and Found | 8.00% | ~495 |
 | This Belongs in a Museum | 6.00% | ~7,879 |
 | Autodidact | 6.00% | ~7,879 |
 | This guy... again? | 6.00% | ~371 |
@@ -18,36 +18,36 @@ Number of Ratings: 7,767  (23.09.2022)
 | Escape from the Black Hole | 5.00% | ~6,566 |
 | Ploughshares to Swords | 5.00% | ~309 |
 | Bloody Graduation | 5.00% | ~309 |
-| Don't Make Me Turn This Coach Around | 4.00% | ~5,252 |
-| It Rings a Bell | 4.00% | ~5,252 |
-| Not Today! | 4.00% | ~5,252 |
-| Meat and Greet | 4.00% | ~5,252 |
-| It Happens | 4.00% | ~5,252 |
-| Rush Hour | 4.00% | ~5,252 |
-| Merry Time | 4.00% | ~5,252 |
-| Harvest Festival | 4.00% | ~5,252 |
-| To Grandmother's House | 4.00% | ~5,252 |
-| Whale | 4.00% | ~5,252 |
-| A Place to Lay Your Head | 4.00% | ~5,252 |
-| FNG | 4.00% | ~5,252 |
-| Nope | 4.00% | ~5,252 |
-| Friends 'Til the End | 4.00% | ~247 |
-| Resurrection | 3.00% | ~3,939 |
-| Unleash Hell | 3.00% | ~3,939 |
-| Funny Guy | 3.00% | ~3,939 |
-| Long Live the King | 3.00% | ~3,939 |
-| Wyrdly Reconstructed | 3.00% | ~3,939 |
-| Boxcar Kid | 3.00% | ~3,939 |
-| Unfulfilled Desires | 3.00% | ~3,939 |
-| Dissector | 3.00% | ~3,939 |
-| Banishment | 3.00% | ~3,939 |
-| Deprogramming | 3.00% | ~3,939 |
-| Now Stay Dead | 3.00% | ~3,939 |
-| Spelunker | 3.00% | ~3,939 |
-| Ramble On | 3.00% | ~3,939 |
-| A Clear Conscience | 3.00% | ~3,939 |
-| Unshackled | 3.00% | ~3,939 |
-| Road Trip | 3.00% | ~3,939 |
+| Don't Make Me Turn This Coach Around | 4.00% | ~5,253 |
+| It Rings a Bell | 4.00% | ~5,253 |
+| Not Today! | 4.00% | ~5,253 |
+| Meat and Greet | 4.00% | ~5,253 |
+| It Happens | 4.00% | ~5,253 |
+| Rush Hour | 4.00% | ~5,253 |
+| Merry Time | 4.00% | ~5,253 |
+| Harvest Festival | 4.00% | ~5,253 |
+| To Grandmother's House | 4.00% | ~5,253 |
+| Whale | 4.00% | ~5,253 |
+| A Place to Lay Your Head | 4.00% | ~5,253 |
+| FNG | 4.00% | ~5,253 |
+| Nope | 4.00% | ~5,253 |
+| Friends 'Til the End | 4.00% | ~248 |
+| Resurrection | 3.00% | ~3,940 |
+| Unleash Hell | 3.00% | ~3,940 |
+| Funny Guy | 3.00% | ~3,940 |
+| Long Live the King | 3.00% | ~3,940 |
+| Wyrdly Reconstructed | 3.00% | ~3,940 |
+| Boxcar Kid | 3.00% | ~3,940 |
+| Unfulfilled Desires | 3.00% | ~3,940 |
+| Dissector | 3.00% | ~3,940 |
+| Banishment | 3.00% | ~3,940 |
+| Deprogramming | 3.00% | ~3,940 |
+| Now Stay Dead | 3.00% | ~3,940 |
+| Spelunker | 3.00% | ~3,940 |
+| Ramble On | 3.00% | ~3,940 |
+| A Clear Conscience | 3.00% | ~3,940 |
+| Unshackled | 3.00% | ~3,940 |
+| Road Trip | 3.00% | ~3,940 |
 | This Looks Familiar | 2.00% | ~2,626 |
 | Hope Rekindled | 2.00% | ~2,626 |
 | Predator | 2.00% | ~2,626 |
@@ -65,10 +65,10 @@ Number of Ratings: 7,767  (23.09.2022)
 | Slap on the Wrist | 1.00% | ~62 |
 | For Old Time' Sake | 1.00% | ~62 |
 | Clearing the Ledger | 0.90% | ~1,182 |
-| Hat Trick | 0.80% | ~1,050 |
-| Triage | 0.80% | ~1,050 |
-| No Mercy | 0.80% | ~49 |
-| Et Tu, Riposte? | 0.80% | ~49 |
+| Hat Trick | 0.80% | ~1,051 |
+| Triage | 0.80% | ~1,051 |
+| No Mercy | 0.80% | ~50 |
+| Et Tu, Riposte? | 0.80% | ~50 |
 | The World As It Was | 0.60% | ~788 |
 | A Life Well Lived | 0.50% | ~657 |
 | Bacon Bits | 0.50% | ~657 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,311 (Ranked 90)  
+Progressed: 131,319 (Ranked 90)  
 Completed: 3 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,10 +333,10 @@ Completed: 3 (0.00%) (Ranked 390)
 | 2023-12-30 | 130,838 | 3 |
 | 2023-12-31 | 131,026 | 3 |
 | 2024-01-01 | 131,206 | 3 |
-| 2024-01-02 | 131,311 | 3 |
+| 2024-01-02 | 131,319 | 3 |
 ## Awards
 Max (Character Customization): 7,927  (Ranked 50)  
-Sum: 21,347 (Ranked 58)  
+Sum: 21,349 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -349,7 +349,7 @@ Diff (max vs sum): -8
 | This game has Unique Visuals | 1,442 |
 | This game has Amazing Storytelling | 1,431 |
 | This game has Quickly Understood Controls | 1,400 |
-| This game has a Creative Community | 1,074 |
+| This game has a Creative Community | 1,076 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
 ## Ratings History
@@ -694,4 +694,4 @@ Diff (max vs sum): -8
 | 2023-12-30 | 4.68 | - | 7,905 | 21,274 |
 | 2023-12-31 | 4.68 | - | 7,910 | 21,297 |
 | 2024-01-01 | 4.68 | - | 7,919 | 21,323 |
-| 2024-01-02 | 4.68 | - | 7,927 | 21,347 |
+| 2024-01-02 | 4.68 | - | 7,927 | 21,349 |

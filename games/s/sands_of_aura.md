@@ -9,7 +9,7 @@
 | Advanced Armaments | 14.00% | ~18 |
 | A Small Thirsty Thing | 13.00% | ~17 |
 | Bladesmith | 11.00% | ~14 |
-| Spirit Within | 10.00% | ~13 |
+| Spirit Within | 11.00% | ~14 |
 | Rain Must Fall | 9.00% | ~12 |
 | Overboard | 9.00% | ~12 |
 | The Guardian of Fire | 9.00% | ~12 |

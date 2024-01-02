@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 518,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 367,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -571,9 +571,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 46113,
+  "EOS_Progressed": 46123,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 826,
+  "EOS_NewPlayers": 828,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17376,6 +17376,11 @@
       "Time": "2024-01-02T16:05:30.5015355+00:00",
       "NumProgressed": 46113,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-02T17:06:58.5724437+00:00",
+      "NumProgressed": 46123,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -17403,7 +17408,7 @@
       "Name": "Outdoorsperson",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1383
+      "UsersEstimate": 1384
     },
     {
       "ID": "CHALLENGE_ALL",
@@ -17435,7 +17440,7 @@
       "Name": "Attachments",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5534
+      "UsersEstimate": 5535
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -17539,7 +17544,7 @@
       "Name": "Tinkerer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3689
+      "UsersEstimate": 3690
     },
     {
       "ID": "CUFF_ATTACK",
@@ -17563,7 +17568,7 @@
       "Name": "Hop, Step, Jump",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1383
+      "UsersEstimate": 1384
     },
     {
       "ID": "JUSTCOUNTER",
@@ -17579,7 +17584,7 @@
       "Name": "Leapfrogger",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3228
+      "UsersEstimate": 3229
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -17627,7 +17632,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3228
+      "UsersEstimate": 3229
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -17675,7 +17680,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3228
+      "UsersEstimate": 3229
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -17691,7 +17696,7 @@
       "Name": "Endless Runner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1383
+      "UsersEstimate": 1384
     },
     {
       "ID": "PARKOUR_TIME",
@@ -17699,7 +17704,7 @@
       "Name": "Hell of a Run",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3228
+      "UsersEstimate": 3229
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -17723,7 +17728,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5072
+      "UsersEstimate": 5074
     },
     {
       "ID": "SPRING_ALL",
@@ -17739,7 +17744,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3228
+      "UsersEstimate": 3229
     },
     {
       "ID": "STAYING_AIR",
@@ -17810,22 +17815,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 46113,
+      "Progressed": 46123,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 10950,
-      "Completed": 10950
+      "Progressed": 10960,
+      "Completed": 10960
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-02T14:03:32.6481765+00:00",
-  "LastChanged_Achievements": "2024-01-02T16:05:30.5015349+00:00",
+  "LastChanged_Achievements": "2024-01-02T17:06:58.5724434+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:48.1998363+00:00",
-  "LastUpdate_Ratings": "2024-01-02T16:02:52.6049775+00:00",
-  "LastUpdate_Achievements": "2024-01-02T16:05:30.5016697+00:00"
+  "LastUpdate_Ratings": "2024-01-02T17:03:04.2772676+00:00",
+  "LastUpdate_Achievements": "2024-01-02T17:06:58.5725921+00:00"
 }

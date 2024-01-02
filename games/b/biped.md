@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 34.00% | ~3,228 |
+| First Step | 34.00% | ~3,229 |
 | Dense Forest | 27.00% | ~2,564 |
 | Cactus Vally | 20.00% | ~1,899 |
-| Rainy Ruins | 11.00% | ~1,044 |
+| Rainy Ruins | 11.00% | ~1,045 |
 | Telepathic | 8.00% | ~760 |
 | Snowy Peak | 7.00% | ~665 |
 | High Treetops | 6.00% | ~570 |
@@ -20,7 +20,7 @@
 | Reaching for the stars | 0.10% | ~9 |
 | Master biped | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,495 (Ranked 183)  
+Progressed: 9,497 (Ranked 183)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-30 | 9,250 | 0 |
 | 2023-12-31 | 9,343 | 0 |
 | 2024-01-01 | 9,442 | 0 |
-| 2024-01-02 | 9,495 | 0 |
+| 2024-01-02 | 9,497 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

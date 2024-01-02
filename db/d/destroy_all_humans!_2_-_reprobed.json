@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -288,9 +288,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 287,
+  "EOS_Progressed": 288,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -1403,6 +1403,11 @@
       "Time": "2024-01-02T15:09:43.9330938+00:00",
       "NumProgressed": 287,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-02T17:10:06.4328154+00:00",
+      "NumProgressed": 288,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1415,7 +1420,7 @@
       "Name": "Mash Machine",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1423,7 +1428,7 @@
       "Name": "Ultimate Smoothie",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_ANAL_PROBE_TRIPPLE_CRIT",
@@ -1543,15 +1548,15 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
       "SetID": "4n84pon",
       "Name": "Rock of the Bay",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 230
+      "UsersEstimate": 233
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1647,7 +1652,7 @@
       "Name": "Yettisoned",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_OBJECTIVES_COMPLETEDALLOPTIONAL",
@@ -1661,9 +1666,9 @@
       "ID": "ACH_OPEN_FLUFF_MENU",
       "SetID": "4n84pon",
       "Name": "Earthly Pleasures",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 103
+      "UsersEstimate": 101
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
@@ -1677,9 +1682,9 @@
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
       "SetID": "4n84pon",
       "Name": "Higher Than the Futen Zoku",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_REVISIT_MISSION",
@@ -1766,7 +1771,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 287,
+      "Progressed": 288,
       "Completed": 1
     }
   ],
@@ -1774,8 +1779,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-31T11:01:39.7283208+00:00",
-  "LastChanged_Achievements": "2024-01-02T16:09:02.6060664+00:00",
+  "LastChanged_Achievements": "2024-01-02T17:10:06.4328151+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.261947+00:00",
-  "LastUpdate_Ratings": "2024-01-02T15:57:50.6573852+00:00",
-  "LastUpdate_Achievements": "2024-01-02T16:09:02.6061077+00:00"
+  "LastUpdate_Ratings": "2024-01-02T16:58:35.2214429+00:00",
+  "LastUpdate_Achievements": "2024-01-02T17:10:06.43286+00:00"
 }

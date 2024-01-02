@@ -16,9 +16,10 @@
 | First Flight | 0.00% | ~0 |
 | Light as a Feather | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 753)  
+Progressed: 2 (Ranked 725)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-09-26 | 1 | 0 |
+| 2024-01-02 | 2 | 0 |

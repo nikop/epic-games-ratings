@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -848,9 +848,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6017,
+  "EOS_Progressed": 6018,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 183,
+  "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -12373,6 +12373,11 @@
       "Time": "2024-01-02T16:06:16.5756285+00:00",
       "NumProgressed": 6017,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-02T17:08:04.5296981+00:00",
+      "NumProgressed": 6018,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -12425,7 +12430,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 842
+      "UsersEstimate": 843
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -12473,7 +12478,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1564
+      "UsersEstimate": 1565
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -12568,15 +12573,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6017,
+      "Progressed": 6018,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-26T21:58:46.0180606+00:00",
-  "LastChanged_Achievements": "2024-01-02T16:06:16.5756279+00:00",
+  "LastChanged_Achievements": "2024-01-02T17:08:04.5296976+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:44.5580896+00:00",
-  "LastUpdate_Ratings": "2024-01-02T15:58:29.0014039+00:00",
-  "LastUpdate_Achievements": "2024-01-02T16:06:16.5757053+00:00"
+  "LastUpdate_Ratings": "2024-01-02T16:59:37.6562675+00:00",
+  "LastUpdate_Achievements": "2024-01-02T17:08:04.5298286+00:00"
 }

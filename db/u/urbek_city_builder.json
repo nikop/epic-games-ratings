@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 343,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -1857,9 +1857,9 @@
       "ID": "CRISIS_1",
       "SetID": "44dlcg0",
       "Name": "City crisis",
-      "Percentage": 0.6,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "CRISIS_2",
@@ -2370,8 +2370,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2024-01-02T16:10:01.3481504+00:00",
+  "LastChanged_Achievements": "2024-01-02T17:11:29.2927982+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:29.1030987+00:00",
-  "LastUpdate_Ratings": "2024-01-02T16:02:54.6699482+00:00",
-  "LastUpdate_Achievements": "2024-01-02T16:10:01.3482319+00:00"
+  "LastUpdate_Ratings": "2024-01-02T17:03:06.8821447+00:00",
+  "LastUpdate_Achievements": "2024-01-02T17:11:29.2928934+00:00"
 }

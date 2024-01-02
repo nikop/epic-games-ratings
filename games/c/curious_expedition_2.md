@@ -19,7 +19,7 @@ Number of Ratings: 20  (23.09.2022)
 | Good Mama | 34.00% | ~134 |
 | O Captain My Captain | 32.00% | ~126 |
 | Plunderer | 30.00% | ~118 |
-| Taxonomist | 28.00% | ~110 |
+| Taxonomist | 29.00% | ~114 |
 | Traveller | 26.00% | ~102 |
 | Uncertain Loyalties | 26.00% | ~102 |
 | Nahua Seeker | 24.00% | ~95 |

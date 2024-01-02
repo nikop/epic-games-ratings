@@ -1,56 +1,56 @@
 # Farming Simulator 22
 [Store](https://store.epicgames.com/en-US/p/farming-simulator-22)  
 [View Rawdata](../../db/f/farming_simulator_22.json)  
-Rating: 4.68 (Ranked 262)  
+Rating: 4.68 (Ranked 261)  
 Number of Ratings: 7,683  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 72.00% | ~43,412 |
-| I read Shakespeare and stuff | 60.00% | ~36,176 |
-| Just a sprinkle | 58.00% | ~34,971 |
-| I'm stumped | 57.00% | ~34,368 |
-| Plant get enough | 56.00% | ~33,765 |
-| This is just my weekend vehicle | 54.00% | ~32,559 |
-| It's just the beginning | 54.00% | ~32,559 |
-| Hard work pays off | 50.00% | ~30,147 |
-| It's never too late to farm | 46.00% | ~27,735 |
-| All out of Land | 41.00% | ~24,721 |
-| Field Trip | 40.00% | ~24,118 |
-| I like to switch it up | 37.00% | ~22,309 |
-| Help me to help you | 36.00% | ~21,706 |
-| Ultimutt Pawesomeness | 26.00% | ~15,676 |
-| Van Gogh | 23.00% | ~13,868 |
-| Vehicle fleet | 21.00% | ~12,662 |
-| You wood not believe it | 20.00% | ~12,059 |
-| Well-Oiled Machine | 15.00% | ~9,044 |
-| Long haul | 15.00% | ~9,044 |
-| Clucky Streak | 14.00% | ~8,441 |
-| The plot thickens | 14.00% | ~8,441 |
-| Large-scale supplier | 14.00% | ~8,441 |
-| That's a wrap | 14.00% | ~8,441 |
-| Rock on | 11.00% | ~6,632 |
-| Fix me up | 11.00% | ~6,632 |
-| Highly cultivated | 10.00% | ~6,029 |
-| It's sow easy | 10.00% | ~6,029 |
-| Giddy-up! | 9.00% | ~5,426 |
-| Cowherd | 6.00% | ~3,618 |
-| Fluffyness | 6.00% | ~3,618 |
-| Road Trip | 5.00% | ~3,015 |
-| Helper A does not stop … ever | 5.00% | ~3,015 |
-| Bringing in the Honey | 5.00% | ~3,015 |
+| Own use | 72.00% | ~43,423 |
+| I read Shakespeare and stuff | 60.00% | ~36,186 |
+| Just a sprinkle | 58.00% | ~34,980 |
+| I'm stumped | 57.00% | ~34,377 |
+| Plant get enough | 56.00% | ~33,774 |
+| This is just my weekend vehicle | 54.00% | ~32,567 |
+| It's just the beginning | 54.00% | ~32,567 |
+| Hard work pays off | 50.00% | ~30,155 |
+| It's never too late to farm | 46.00% | ~27,743 |
+| All out of Land | 41.00% | ~24,727 |
+| Field Trip | 40.00% | ~24,124 |
+| I like to switch it up | 37.00% | ~22,315 |
+| Help me to help you | 35.00% | ~21,108 |
+| Ultimutt Pawesomeness | 26.00% | ~15,681 |
+| Van Gogh | 23.00% | ~13,871 |
+| Vehicle fleet | 21.00% | ~12,665 |
+| You wood not believe it | 20.00% | ~12,062 |
+| Well-Oiled Machine | 15.00% | ~9,046 |
+| Long haul | 15.00% | ~9,046 |
+| Clucky Streak | 14.00% | ~8,443 |
+| The plot thickens | 14.00% | ~8,443 |
+| Large-scale supplier | 14.00% | ~8,443 |
+| That's a wrap | 14.00% | ~8,443 |
+| Rock on | 11.00% | ~6,634 |
+| Fix me up | 11.00% | ~6,634 |
+| Highly cultivated | 10.00% | ~6,031 |
+| It's sow easy | 10.00% | ~6,031 |
+| Giddy-up! | 9.00% | ~5,428 |
+| Cowherd | 6.00% | ~3,619 |
+| Fluffyness | 6.00% | ~3,619 |
+| Road Trip | 5.00% | ~3,016 |
+| Helper A does not stop … ever | 5.00% | ~3,016 |
+| Bringing in the Honey | 5.00% | ~3,016 |
 | Three little piggies… | 4.00% | ~2,412 |
 | Game on | 3.00% | ~1,809 |
 | Pretty colourful | 0.70% | ~422 |
 | Original grain | 0.70% | ~422 |
-| Gone but not for cotton | 0.50% | ~301 |
-| Thoroughbred! | 0.50% | ~301 |
+| Gone but not for cotton | 0.50% | ~302 |
+| Thoroughbred! | 0.50% | ~302 |
 | Cheese it | 0.40% | ~241 |
 | Olea europaea | 0.40% | ~241 |
 | You are not a kangaroo | 0.40% | ~241 |
 | Raisin the stakes | 0.30% | ~181 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,294 (Ranked 118)  
+Progressed: 60,310 (Ranked 118)  
 Completed: 6 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,15 +307,15 @@ Completed: 6 (0.01%) (Ranked 367)
 | 2023-12-30 | 59,733 | 6 |
 | 2023-12-31 | 59,956 | 6 |
 | 2024-01-01 | 60,187 | 6 |
-| 2024-01-02 | 60,294 | 6 |
+| 2024-01-02 | 60,310 | 6 |
 ## Awards
 Max (Great for Beginners): 5,989  (Ranked 67)  
-Sum: 45,071 (Ranked 34)  
+Sum: 45,075 (Ranked 34)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,989 |
-| This game has Diverse Characters | 4,851 |
+| This game has Diverse Characters | 4,855 |
 | This game is Educational | 4,515 |
 | This game is Highly Recommended | 4,492 |
 | This game is Relaxing | 4,415 |
@@ -679,4 +679,4 @@ Diff (max vs sum): 33
 | 2023-12-30 | 4.68 | - | 5,956 | 44,952 |
 | 2023-12-31 | 4.68 | - | 5,966 | 44,996 |
 | 2024-01-01 | 4.68 | - | 5,976 | 45,052 |
-| 2024-01-02 | 4.68 | - | 5,989 | 45,071 |
+| 2024-01-02 | 4.68 | - | 5,989 | 45,075 |

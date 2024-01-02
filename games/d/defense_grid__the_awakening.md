@@ -6,47 +6,47 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~399,464 |
-| Happy Returns | 78.00% | ~384,669 |
-| Hey! That's mine! | 78.00% | ~384,669 |
-| Field Promotion | 74.00% | ~364,942 |
-| Leadhead | 71.00% | ~350,147 |
-| Eradicator | 67.00% | ~330,421 |
-| Surplus | 66.00% | ~325,489 |
-| I Spy | 64.00% | ~315,626 |
-| Burn Baby Burn | 59.00% | ~290,967 |
-| Yellow Beats Green | 56.00% | ~276,172 |
-| Salvage Rights | 53.00% | ~261,377 |
-| What IS that? | 51.00% | ~251,514 |
-| Close Call | 50.00% | ~246,582 |
-| Pew Pew | 50.00% | ~246,582 |
-| Penny Pincher | 49.00% | ~241,651 |
-| Arsenal | 46.00% | ~226,856 |
-| Boot Camp | 45.00% | ~221,924 |
-| Flawless Victory | 42.00% | ~207,129 |
-| Confident | 41.00% | ~202,198 |
-| Exterminator | 36.00% | ~177,539 |
-| Sharpshooter | 34.00% | ~167,676 |
-| Not So Fast | 33.00% | ~162,744 |
-| Great Ball of Fire | 32.00% | ~157,813 |
-| No Sale | 31.00% | ~152,881 |
-| Kaboom! | 30.00% | ~147,950 |
-| Liquidator | 29.00% | ~143,018 |
-| High Voltage | 24.00% | ~118,360 |
-| Filthy Rich | 20.00% | ~98,633 |
-| Pyrrhic Victory | 18.00% | ~88,770 |
-| The Not-So-Friendly Skies | 18.00% | ~88,770 |
-| Power Builder | 17.00% | ~83,838 |
-| Death From Above | 16.00% | ~78,906 |
-| Retry | 16.00% | ~78,906 |
-| Head Trauma | 12.00% | ~59,180 |
-| Full Defense | 10.00% | ~49,316 |
-| Overseer | 9.00% | ~44,385 |
-| Annihilator | 8.00% | ~39,453 |
-| If At First You Don't Succeed, Retry Again | 8.00% | ~39,453 |
+| First Blood | 81.00% | ~399,470 |
+| Happy Returns | 78.00% | ~384,675 |
+| Hey! That's mine! | 78.00% | ~384,675 |
+| Field Promotion | 74.00% | ~364,948 |
+| Leadhead | 71.00% | ~350,153 |
+| Eradicator | 67.00% | ~330,426 |
+| Surplus | 66.00% | ~325,494 |
+| I Spy | 64.00% | ~315,631 |
+| Burn Baby Burn | 59.00% | ~290,972 |
+| Yellow Beats Green | 56.00% | ~276,177 |
+| Salvage Rights | 53.00% | ~261,382 |
+| What IS that? | 51.00% | ~251,518 |
+| Close Call | 50.00% | ~246,586 |
+| Pew Pew | 50.00% | ~246,586 |
+| Penny Pincher | 49.00% | ~241,655 |
+| Arsenal | 46.00% | ~226,860 |
+| Boot Camp | 45.00% | ~221,928 |
+| Flawless Victory | 42.00% | ~207,133 |
+| Confident | 41.00% | ~202,201 |
+| Exterminator | 36.00% | ~177,542 |
+| Sharpshooter | 34.00% | ~167,679 |
+| Not So Fast | 33.00% | ~162,747 |
+| Great Ball of Fire | 32.00% | ~157,815 |
+| No Sale | 31.00% | ~152,884 |
+| Kaboom! | 30.00% | ~147,952 |
+| Liquidator | 29.00% | ~143,020 |
+| High Voltage | 24.00% | ~118,362 |
+| Filthy Rich | 20.00% | ~98,635 |
+| Pyrrhic Victory | 18.00% | ~88,771 |
+| The Not-So-Friendly Skies | 18.00% | ~88,771 |
+| Power Builder | 17.00% | ~83,839 |
+| Death From Above | 16.00% | ~78,908 |
+| Retry | 16.00% | ~78,908 |
+| Head Trauma | 12.00% | ~59,181 |
+| Full Defense | 10.00% | ~49,317 |
+| Overseer | 9.00% | ~44,386 |
+| Annihilator | 8.00% | ~39,454 |
+| If At First You Don't Succeed, Retry Again | 8.00% | ~39,454 |
 | Indecisive | 6.00% | ~29,590 |
-| Base Defender | 5.00% | ~24,658 |
-| Relay Race | 5.00% | ~24,658 |
+| Base Defender | 5.00% | ~24,659 |
+| Relay Race | 5.00% | ~24,659 |
 | Tower Expert | 4.00% | ~19,727 |
 | Diversity | 3.00% | ~14,795 |
 | Full Potential | 3.00% | ~14,795 |
@@ -59,15 +59,15 @@ Number of Ratings: 1,225  (23.09.2022)
 | Gun Crazy | 1.00% | ~4,932 |
 | Well Invested | 1.00% | ~4,932 |
 | Xenocide | 1.00% | ~4,932 |
-| Planet Defender | 0.90% | ~4,438 |
+| Planet Defender | 0.90% | ~4,439 |
 | Master Siege Breaker | 0.80% | ~3,945 |
 | Few and Proud | 0.80% | ~3,945 |
 | Shell-shocked | 0.70% | ~3,452 |
 | Alien Tears | 0.50% | ~2,466 |
 | Full House | 0.50% | ~2,466 |
-| Kickstarter | 0.30% | ~1,479 |
-| Out of Bullets | 0.30% | ~1,479 |
-| The Container | 0.30% | ~1,479 |
+| Kickstarter | 0.30% | ~1,480 |
+| Out of Bullets | 0.30% | ~1,480 |
+| The Container | 0.30% | ~1,480 |
 | Foresight is 20/20 | 0.20% | ~986 |
 | Majestic Pony | 0.20% | ~986 |
 | Savant Genius | 0.20% | ~986 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~493 |
 | You Monster | 0.10% | ~493 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 493,165 (Ranked 41)  
+Progressed: 493,173 (Ranked 41)  
 Completed: 5 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -351,7 +351,7 @@ Completed: 5 (0.00%) (Ranked 390)
 | 2023-12-30 | 492,909 | 5 |
 | 2023-12-31 | 493,010 | 5 |
 | 2024-01-01 | 493,110 | 5 |
-| 2024-01-02 | 493,165 | 5 |
+| 2024-01-02 | 493,173 | 5 |
 ## Awards
 Max (Great for Beginners): 263  (Ranked 275)  
 Sum: 1,738 (Ranked 224)  

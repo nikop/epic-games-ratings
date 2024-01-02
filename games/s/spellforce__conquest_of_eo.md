@@ -47,6 +47,7 @@
 | Defeat Hokan | 7.00% | ~8 |
 | Defeat Raith | 7.00% | ~8 |
 | Defeat Uram | 7.00% | ~8 |
+| Fireforge | 7.00% | ~8 |
 | A Monopoly of Might | 7.00% | ~8 |
 | Balanced | 7.00% | ~8 |
 | Get to the Airship! | 6.00% | ~7 |
@@ -56,7 +57,6 @@
 | Lore's Tale | 6.00% | ~7 |
 | Crypt of the Revenant | 6.00% | ~7 |
 | Tuscari Sea Portal | 6.00% | ~7 |
-| Fireforge | 6.00% | ~7 |
 | Master Artificer | 6.00% | ~7 |
 | Heroes | 6.00% | ~7 |
 | Master Necromancer | 6.00% | ~7 |

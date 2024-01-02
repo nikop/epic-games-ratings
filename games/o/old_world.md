@@ -14,14 +14,15 @@ Number of Ratings: 1,307  (23.09.2022)
 | Architect | 0.80% | ~129 |
 | Good | 0.80% | ~129 |
 | Mason | 0.80% | ~129 |
+| Noble | 0.80% | ~129 |
 | Strong | 0.80% | ~129 |
 | Hanging Gardens | 0.80% | ~129 |
 | Able | 0.70% | ~113 |
 | Just | 0.70% | ~113 |
 | Keystone | 0.70% | ~113 |
 | Learned | 0.70% | ~113 |
-| Noble | 0.70% | ~113 |
 | Pioneer | 0.70% | ~113 |
+| Developing Cities | 0.70% | ~113 |
 | Oracle | 0.70% | ~113 |
 | Judaism | 0.70% | ~113 |
 | Greek Paganism | 0.70% | ~113 |
@@ -31,7 +32,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightened | 0.60% | ~97 |
 | Glorious | 0.60% | ~97 |
 | Warrior | 0.60% | ~97 |
-| Developing Cities | 0.60% | ~97 |
 | Strong Cities | 0.60% | ~97 |
 | Pyramids | 0.60% | ~97 |
 | Learn to Play 1 | 0.60% | ~97 |
@@ -54,6 +54,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Drillmaster | 0.40% | ~64 |
 | Great | 0.40% | ~64 |
 | Intercessor | 0.40% | ~64 |
+| Valiant | 0.40% | ~64 |
 | Legendary Cities | 0.40% | ~64 |
 | Acropolis | 0.40% | ~64 |
 | Mausoleum | 0.40% | ~64 |
@@ -64,7 +65,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens in Babylon | 0.30% | ~48 |
 | Beloved | 0.30% | ~48 |
 | Mighty | 0.30% | ~48 |
-| Valiant | 0.30% | ~48 |
 | Good Difficulty | 0.30% | ~48 |
 | Just Difficulty | 0.30% | ~48 |
 | Artisans | 0.30% | ~48 |
@@ -91,6 +91,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Subjugator | 0.20% | ~32 |
 | Victorious | 0.20% | ~32 |
 | Strong Difficulty | 0.20% | ~32 |
+| Hunters | 0.20% | ~32 |
 | Landowners | 0.20% | ~32 |
 | Riders | 0.20% | ~32 |
 | Statesmen | 0.20% | ~32 |
@@ -119,6 +120,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legionary | 0.20% | ~32 |
 | Phalangite | 0.20% | ~32 |
 | Turreted Elephant | 0.20% | ~32 |
+| All Nations | 0.20% | ~32 |
 | Ambition Victory | 0.20% | ~32 |
 | Double Victory | 0.20% | ~32 |
 | The Clergy | 0.20% | ~32 |
@@ -173,7 +175,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Et tu Brutus? | 0.10% | ~16 |
 | Event Level High | 0.10% | ~16 |
 | Clerics | 0.10% | ~16 |
-| Hunters | 0.10% | ~16 |
 | Battle of the Fertile Crescent | 0.10% | ~16 |
 | The Eternal Treaty | 0.10% | ~16 |
 | Five Routs | 0.10% | ~16 |
@@ -238,7 +239,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Three Man Chariot | 0.10% | ~16 |
 | Siege Tower | 0.10% | ~16 |
 | Great Ziggurat in Ur | 0.10% | ~16 |
-| All Nations | 0.10% | ~16 |
 | Conquest Victory | 0.10% | ~16 |
 | No Characters | 0.10% | ~16 |
 | No Undo | 0.10% | ~16 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,086 (Ranked 166)  
+Progressed: 16,088 (Ranked 166)  
 Completed: 5 (0.03%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -622,7 +622,7 @@ Completed: 5 (0.03%) (Ranked 349)
 | 2023-12-30 | 16,036 | 5 |
 | 2023-12-31 | 16,053 | 5 |
 | 2024-01-01 | 16,077 | 5 |
-| 2024-01-02 | 16,086 | 5 |
+| 2024-01-02 | 16,088 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 283)  
 Sum: 1,912 (Ranked 221)  

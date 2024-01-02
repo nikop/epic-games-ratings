@@ -6,16 +6,16 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~7,494 |
+| A Brief Tour of the Realms | 3.00% | ~7,495 |
 | Beast Intentions | 1.00% | ~2,498 |
 | The Cursed Farmer | 1.00% | ~2,498 |
-| The Mad Wizard | 0.90% | ~2,248 |
+| The Mad Wizard | 0.90% | ~2,249 |
 | Welcome to Sigil | 0.80% | ~1,729 |
 | The Ring of Regeneration | 0.60% | ~1,499 |
-| Fast Food | 0.60% | ~1,296 |
+| Fast Food | 0.60% | ~1,297 |
 | Are Ya Chicken? | 0.50% | ~1,249 |
-| The Overgrown Grove | 0.50% | ~1,080 |
-| Mental Gymnastics | 0.50% | ~1,080 |
+| The Overgrown Grove | 0.50% | ~1,081 |
+| Mental Gymnastics | 0.50% | ~1,081 |
 | Were-verpowered | 0.40% | ~999 |
 | Seeking Allies | 0.40% | ~999 |
 | Mad Cow Disease | 0.40% | ~999 |
@@ -24,12 +24,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flames of Avernus | 0.40% | ~864 |
 | Don't Lose Your Head | 0.40% | ~864 |
 | Mind Spike | 0.40% | ~864 |
-| Maddening | 0.30% | ~749 |
-| A Persistent Buzzing | 0.30% | ~749 |
-| Terror in the Dark | 0.30% | ~749 |
-| Unearthed Evil | 0.30% | ~749 |
-| The Crumbling Temple | 0.30% | ~749 |
-| Pure Energy | 0.30% | ~749 |
+| Maddening | 0.30% | ~750 |
+| A Persistent Buzzing | 0.30% | ~750 |
+| Terror in the Dark | 0.30% | ~750 |
+| Unearthed Evil | 0.30% | ~750 |
+| The Crumbling Temple | 0.30% | ~750 |
+| Pure Energy | 0.30% | ~750 |
 | Arcane Suppression | 0.30% | ~648 |
 | Welcome to the Vrocks | 0.30% | ~648 |
 | Misaligned in Sigil | 0.30% | ~648 |
@@ -553,8 +553,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~216 |
 | The Brains of an Illithid's Desire | 0.10% | ~216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,802 (Ranked 70)  
-Completed: 2,585 (1.03%) (Ranked 170)  
+Progressed: 249,834 (Ranked 70)  
+Completed: 2,585 (1.03%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -810,16 +810,16 @@ Completed: 2,585 (1.03%) (Ranked 170)
 | 2023-12-30 | 247,917 | 2,578 |
 | 2023-12-31 | 248,665 | 2,581 |
 | 2024-01-01 | 249,335 | 2,583 |
-| 2024-01-02 | 249,802 | 2,585 |
+| 2024-01-02 | 249,834 | 2,585 |
 ## Awards
 Max (Great for Beginners): 5,730  (Ranked 71)  
-Sum: 33,256 (Ranked 41)  
+Sum: 33,261 (Ranked 41)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,730 |
 | This game has Diverse Characters | 5,672 |
-| This game has Quickly Understood Controls | 4,882 |
+| This game has Quickly Understood Controls | 4,887 |
 | This game is Relaxing | 4,757 |
 | This game has Amazing Characters | 4,309 |
 | This game is Highly Recommended | 4,289 |
@@ -1168,4 +1168,4 @@ Diff (max vs sum): 30
 | 2023-12-30 | 4.06 | - | 5,720 | 33,198 |
 | 2023-12-31 | 4.06 | - | 5,720 | 33,212 |
 | 2024-01-01 | 4.06 | - | 5,726 | 33,249 |
-| 2024-01-02 | 4.06 | - | 5,730 | 33,256 |
+| 2024-01-02 | 4.06 | - | 5,730 | 33,261 |

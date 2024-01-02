@@ -3,12 +3,12 @@
   "Name": "Marvel\u0027s Midnight Suns",
   "ProductSlug": "marvels-midnight-suns",
   "Ranking_Rating": 522,
-  "Ranking_Popularity": 129,
-  "Ranking_PopularitySum": 165,
+  "Ranking_Popularity": 128,
+  "Ranking_PopularitySum": 164,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-12-02T05:00:00+00:00",
     "PcReleaseDate": "2022-12-02T05:00:00+00:00",
@@ -5475,24 +5475,30 @@
       "Rating": 4.55,
       "NumberOfAwards": 3865,
       "NumberOfAwardsMax": 1729
+    },
+    {
+      "Time": "2024-01-02T16:58:09.9046421+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 3897,
+      "NumberOfAwardsMax": 1755
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3865,
-  "NumberOfAwardsMax": 1729,
+  "NumberOfAwards": 3897,
+  "NumberOfAwardsMax": 1755,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1729
+      "Count": 1755
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 267
+      "Count": 271
     },
     {
       "Text": "This game is Relaxing",
@@ -5516,7 +5522,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 237
+      "Count": 239
     },
     {
       "Text": "This game has Challenging Combat",
@@ -5561,8 +5567,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-02T09:57:07.4463087+00:00",
   "FirstSeenRating": "2022-12-03T17:57:10.4344427+00:00",
-  "LastChanged": "2024-01-02T15:57:36.097819+00:00",
+  "LastChanged": "2024-01-02T16:58:09.9046419+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:59.0337678+00:00",
-  "LastUpdate_Ratings": "2024-01-02T15:57:36.0978198+00:00",
-  "LastUpdate_Achievements": "2024-01-02T16:06:20.9569698+00:00"
+  "LastUpdate_Ratings": "2024-01-02T16:58:09.9046432+00:00",
+  "LastUpdate_Achievements": "2024-01-02T17:08:10.3775654+00:00"
 }

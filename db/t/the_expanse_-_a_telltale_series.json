@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18054,
+  "EOS_Progressed": 18058,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 583,
+  "EOS_NewPlayers": 582,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -16040,6 +16040,11 @@
       "Time": "2024-01-02T16:04:18.2106346+00:00",
       "NumProgressed": 18054,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-02T17:05:17.9445853+00:00",
+      "NumProgressed": 18058,
+      "NumCompleted": 58
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16082,9 +16087,9 @@
       "ID": "13",
       "SetID": "458bbdk",
       "Name": "Oyedang, Kopengs",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2889
+      "UsersEstimate": 3070
     },
     {
       "ID": "14",
@@ -16100,7 +16105,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1805
+      "UsersEstimate": 1806
     },
     {
       "ID": "16",
@@ -16116,7 +16121,7 @@
       "Name": "Spore Taste",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1805
+      "UsersEstimate": 1806
     },
     {
       "ID": "18",
@@ -16132,7 +16137,7 @@
       "Name": "Martian Music",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2166
+      "UsersEstimate": 2167
     },
     {
       "ID": "2",
@@ -16196,7 +16201,7 @@
       "Name": "Call it Even",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 1444
+      "UsersEstimate": 1445
     },
     {
       "ID": "27",
@@ -16204,7 +16209,7 @@
       "Name": "Bosmang",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 2166
+      "UsersEstimate": 2167
     },
     {
       "ID": "28",
@@ -16228,7 +16233,7 @@
       "Name": "Captain Drummer",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2347
+      "UsersEstimate": 2348
     },
     {
       "ID": "30",
@@ -16260,7 +16265,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2166
+      "UsersEstimate": 2167
     },
     {
       "ID": "7",
@@ -16284,7 +16289,7 @@
       "Name": "Impossible Objects",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2166
+      "UsersEstimate": 2167
     },
     {
       "ID": "31",
@@ -16316,7 +16321,7 @@
       "Name": "Master Negotiator",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "35",
@@ -16331,22 +16336,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18054,
+      "Progressed": 18058,
       "Completed": 58
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4008,
-      "Completed": 1158
+      "Progressed": 4012,
+      "Completed": 1159
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T23:58:17.8612142+00:00",
-  "LastChanged_Achievements": "2024-01-02T16:04:18.2106337+00:00",
+  "LastChanged_Achievements": "2024-01-02T17:05:17.944585+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2024-01-02T15:59:04.9849358+00:00",
-  "LastUpdate_Achievements": "2024-01-02T16:04:18.2107534+00:00"
+  "LastUpdate_Ratings": "2024-01-02T17:00:34.7784028+00:00",
+  "LastUpdate_Achievements": "2024-01-02T17:05:17.9447023+00:00"
 }

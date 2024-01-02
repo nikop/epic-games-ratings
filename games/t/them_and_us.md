@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alone with Them | 70.00% | ~262 |
+| Alone with Them | 69.00% | ~259 |
 | Forced to Kill | 67.00% | ~251 |
 | A Night To Remember | 39.00% | ~146 |
 | Safe...For now? | 32.00% | ~120 |
 | Open Sesame | 28.00% | ~105 |
-| Them and Us | 18.00% | ~67 |
-| OUTRAGE | 18.00% | ~67 |
-| What have I done!? | 18.00% | ~67 |
-| Alone In The Dark | 14.00% | ~52 |
-| The Cultists | 14.00% | ~52 |
-| This Coffin Has Your Name On It! | 14.00% | ~52 |
+| Them and Us | 18.00% | ~68 |
+| OUTRAGE | 18.00% | ~68 |
+| What have I done!? | 18.00% | ~68 |
+| Alone In The Dark | 14.00% | ~53 |
+| The Cultists | 14.00% | ~53 |
+| This Coffin Has Your Name On It! | 14.00% | ~53 |
 | Parasite Exterminated | 13.00% | ~49 |
 | The Forgotten Tower | 13.00% | ~49 |
 | Trapped | 12.00% | ~45 |
 | Modern Player | 11.00% | ~41 |
-| The Curse Is Real | 10.00% | ~37 |
+| The Curse Is Real | 10.00% | ~38 |
 | Lover of classics | 9.00% | ~34 |
 | Rest In Peace | 9.00% | ~34 |
 | What A Mansion | 8.00% | ~30 |
@@ -28,11 +28,11 @@
 | Armed To The Teeth | 5.00% | ~19 |
 | This Mansion Is Clean | 4.00% | ~15 |
 | The bus stop | 3.00% | ~11 |
-| Back In Time | 2.00% | ~7 |
-| Spiritual essence well spent | 2.00% | ~7 |
-| Run and Gun | 2.00% | ~7 |
-| Pet The Dog | 2.00% | ~7 |
-| The 5th Element | 2.00% | ~7 |
+| Back In Time | 2.00% | ~8 |
+| Spiritual essence well spent | 2.00% | ~8 |
+| Run and Gun | 2.00% | ~8 |
+| Pet The Dog | 2.00% | ~8 |
+| The 5th Element | 2.00% | ~8 |
 | Retro Player | 1.00% | ~4 |
 | Before The Eclipse | 0.80% | ~3 |
 | Box Of Ploutus | 0.50% | ~2 |
@@ -45,7 +45,7 @@
 | Nightmare Over | 0.30% | ~1 |
 | Survival Horror | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 374 (Ranked 369)  
+Progressed: 375 (Ranked 368)  
 Completed: 1 (0.27%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 1 (0.27%) (Ranked 256)
 | 2023-12-30 | 362 | 1 |
 | 2023-12-31 | 367 | 1 |
 | 2024-01-01 | 370 | 1 |
-| 2024-01-02 | 374 | 1 |
+| 2024-01-02 | 375 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

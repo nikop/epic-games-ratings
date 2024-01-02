@@ -4,8 +4,8 @@
   "ProductSlug": "aerial-platforms-119f15",
   "Ranking_EOS_Progress": 645,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 522,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 524,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
     "PcReleaseDate": "2023-05-18T17:00:00+00:00",
@@ -113,9 +113,9 @@
       "ID": "CompleteFirstLevel",
       "SetID": "dab3ahb",
       "Name": "Getting Started",
-      "Percentage": 58,
+      "Percentage": 67,
       "XP": 70,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "DoubleJump",
@@ -191,8 +191,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-16T19:01:22.6123387+00:00",
-  "LastChanged_Achievements": "2024-01-02T16:08:51.4250625+00:00",
+  "LastChanged_Achievements": "2024-01-02T17:09:50.5599031+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:54.8062389+00:00",
-  "LastUpdate_Ratings": "2024-01-02T15:58:20.3623058+00:00",
-  "LastUpdate_Achievements": "2024-01-02T16:08:51.4250777+00:00"
+  "LastUpdate_Ratings": "2024-01-02T16:59:26.2453784+00:00",
+  "LastUpdate_Achievements": "2024-01-02T17:09:50.5599168+00:00"
 }

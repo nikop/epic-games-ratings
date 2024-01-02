@@ -6,15 +6,15 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 80.00% | ~230 |
-| Mash Machine | 75.00% | ~215 |
+| Rock of the Bay | 81.00% | ~233 |
+| Mash Machine | 75.00% | ~216 |
 | Ducks in a Row, Fish in a Barrel | 55.00% | ~158 |
 | Furon Fashion | 49.00% | ~141 |
 | Shop Til They Drop | 40.00% | ~115 |
 | Bodied Sattva | 38.00% | ~109 |
-| Earthly Pleasures | 36.00% | ~103 |
+| Earthly Pleasures | 35.00% | ~101 |
 | Cult Following | 34.00% | ~98 |
-| Lie Back and Think of Albion | 28.00% | ~80 |
+| Lie Back and Think of Albion | 28.00% | ~81 |
 | Upgreatest | 26.00% | ~75 |
 | Pimp My Raid | 25.00% | ~72 |
 | I Look Up As I Walk to Takoshima | 21.00% | ~60 |
@@ -29,21 +29,21 @@ Number of Ratings: 90  (23.09.2022)
 | Scuttled | 7.00% | ~20 |
 | Re-Return of the Clone of the Invasion II-2 | 7.00% | ~20 |
 | Lobster Blisque | 5.00% | ~14 |
-| Ultimate Smoothie | 4.00% | ~11 |
-| Yettisoned | 4.00% | ~11 |
+| Ultimate Smoothie | 4.00% | ~12 |
+| Yettisoned | 4.00% | ~12 |
 | Deincarnated | 3.00% | ~9 |
 | Arkvoodle Doodle | 3.00% | ~9 |
 | Arty Facts | 1.00% | ~3 |
 | Against All Odds | 1.00% | ~3 |
 | Forbidden Donut | 1.00% | ~3 |
 | The Optional Mandate | 1.00% | ~3 |
+| Higher Than the Futen Zoku | 1.00% | ~3 |
 | If You Know What I Mean | 1.00% | ~3 |
 | PK Slam Dunk | 0.70% | ~2 |
 | Gotta Catch All the Pop Art | 0.70% | ~2 |
 | This Is Earth Radio | 0.70% | ~2 |
 | Hidden Human Hive Harvest | 0.70% | ~2 |
 | Albion Bridge Is for Falling Down | 0.70% | ~2 |
-| Higher Than the Futen Zoku | 0.70% | ~2 |
 | To Russia With Love | 0.70% | ~2 |
 | Toilet Break | 0.30% | ~1 |
 | Ouch of Body Experience | 0.30% | ~1 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.30% | ~1 |
 | Trans-Siberian Express | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 287 (Ranked 395)  
+Progressed: 288 (Ranked 395)  
 Completed: 1 (0.35%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 1 (0.35%) (Ranked 239)
 | 2023-12-30 | 259 | 1 |
 | 2023-12-31 | 268 | 1 |
 | 2024-01-01 | 279 | 1 |
-| 2024-01-02 | 287 | 1 |
+| 2024-01-02 | 288 | 1 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 494)  
 Sum: 36 (Ranked 526)  

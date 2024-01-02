@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 303,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
     "PcReleaseDate": "2020-10-15T04:00:00+00:00",
@@ -1715,9 +1715,9 @@
       "ID": "KR4_ACHIEVEMENT_THE_THING",
       "SetID": "caeik3h",
       "Name": "Get Away From That!",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 88
     },
     {
       "ID": "KR4_ACHIEVEMENT_TROLL",
@@ -1768,8 +1768,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2024-01-02T16:03:35.7568988+00:00",
+  "LastChanged_Achievements": "2024-01-02T17:04:19.2831995+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:04.1058747+00:00",
-  "LastUpdate_Ratings": "2024-01-02T15:59:35.2484889+00:00",
-  "LastUpdate_Achievements": "2024-01-02T16:03:35.7569623+00:00"
+  "LastUpdate_Ratings": "2024-01-02T17:01:23.2332118+00:00",
+  "LastUpdate_Achievements": "2024-01-02T17:04:19.2832782+00:00"
 }

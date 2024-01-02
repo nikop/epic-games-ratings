@@ -2,13 +2,13 @@
   "ID": "3a18db06dff0465b8a58308aa29020a0",
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
-  "Ranking_Rating": 235,
-  "Ranking_Popularity": 521,
+  "Ranking_Rating": 234,
+  "Ranking_Popularity": 522,
   "Ranking_PopularitySum": 399,
-  "Ranking_EOS_Progress": 292,
+  "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -450,7 +450,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 935,
+  "EOS_Progressed": 937,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 0,
@@ -3355,6 +3355,11 @@
       "Time": "2024-01-02T16:08:59.2200142+00:00",
       "NumProgressed": 935,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T17:10:01.4203254+00:00",
+      "NumProgressed": 937,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3391,7 +3396,7 @@
       "Name": "Dressed For Success",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "AttackCount",
@@ -3469,9 +3474,9 @@
       "ID": "DamageThreshold",
       "SetID": "71c0n9i",
       "Name": "Critical Hit",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 206
     },
     {
       "ID": "Deepstrike",
@@ -3509,9 +3514,9 @@
       "ID": "DoubleKill",
       "SetID": "71c0n9i",
       "Name": "Double Kill",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 365
+      "UsersEstimate": 375
     },
     {
       "ID": "FlameAttackKillCount",
@@ -3671,7 +3676,7 @@
       "Name": "Landlord Extraordinaire",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "TrojanHorse",
@@ -3695,7 +3700,7 @@
       "Name": "Adept",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "WielderLevel2",
@@ -3711,7 +3716,7 @@
       "Name": "Master",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "WielderLevel4",
@@ -3749,9 +3754,9 @@
       "ID": "WinSiegeAsAttacker",
       "SetID": "71c0n9i",
       "Name": "Veni, Vidi, Vici",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 84
     },
     {
       "ID": "WinSiegeAsDefender",
@@ -3798,15 +3803,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 935,
+      "Progressed": 937,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2024-01-02T16:08:59.2200136+00:00",
+  "LastChanged_Achievements": "2024-01-02T17:10:01.4203251+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:53.9356991+00:00",
-  "LastUpdate_Ratings": "2024-01-02T15:57:13.0306966+00:00",
-  "LastUpdate_Achievements": "2024-01-02T16:08:59.2200669+00:00"
+  "LastUpdate_Ratings": "2024-01-02T16:57:32.7368839+00:00",
+  "LastUpdate_Achievements": "2024-01-02T17:10:01.420377+00:00"
 }

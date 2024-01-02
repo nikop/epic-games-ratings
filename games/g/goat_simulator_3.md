@@ -5,47 +5,47 @@ Rating: 4.83 (Ranked 56)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~240,342 |
-| Private Club | 73.00% | ~192,802 |
-| Rogue Guild | 64.00% | ~169,032 |
-| I Watched the Intro | 57.00% | ~150,544 |
-| Covert Consortium | 54.00% | ~142,620 |
-| Goat Queen | 52.00% | ~137,338 |
-| Reach the Stratosphere | 50.00% | ~132,056 |
-| Synchronization Complete | 47.00% | ~124,133 |
-| Secret Society | 44.00% | ~116,209 |
-| Shadow Syndicate | 37.00% | ~97,721 |
-| What a Waste of Money | 33.00% | ~87,157 |
-| New Goat Order | 30.00% | ~79,234 |
-| Don't touch the servers | 28.00% | ~73,951 |
-| Real Buoy | 27.00% | ~71,310 |
-| San Angora: Become Human | 26.00% | ~68,669 |
-| Raider of the Lost Parking Garage | 26.00% | ~68,669 |
-| Welcome to Earth | 25.00% | ~66,028 |
-| Egg Simulator | 19.00% | ~50,181 |
-| Into the Matrix | 19.00% | ~50,181 |
-| Where is It? | 17.00% | ~44,899 |
-| Beauty, Mindfulness and Meditation | 15.00% | ~39,617 |
-| 401(K.O.) | 15.00% | ~39,617 |
-| Black Market | 14.00% | ~36,976 |
-| Car Cave | 12.00% | ~31,693 |
-| Club Mohair | 8.00% | ~21,129 |
-| A Center for Ants? | 8.00% | ~21,129 |
-| French Fika | 7.00% | ~18,488 |
+| Forgotten Sorority | 91.00% | ~240,357 |
+| Private Club | 73.00% | ~192,814 |
+| Rogue Guild | 64.00% | ~169,043 |
+| I Watched the Intro | 57.00% | ~150,554 |
+| Covert Consortium | 54.00% | ~142,630 |
+| Goat Queen | 52.00% | ~137,347 |
+| Reach the Stratosphere | 50.00% | ~132,064 |
+| Synchronization Complete | 47.00% | ~124,141 |
+| Secret Society | 44.00% | ~116,217 |
+| Shadow Syndicate | 37.00% | ~97,728 |
+| What a Waste of Money | 33.00% | ~87,163 |
+| New Goat Order | 30.00% | ~79,239 |
+| Don't touch the servers | 28.00% | ~73,956 |
+| Real Buoy | 27.00% | ~71,315 |
+| San Angora: Become Human | 26.00% | ~68,674 |
+| Raider of the Lost Parking Garage | 26.00% | ~68,674 |
+| Welcome to Earth | 25.00% | ~66,032 |
+| Egg Simulator | 19.00% | ~50,185 |
+| Into the Matrix | 19.00% | ~50,185 |
+| Where is It? | 17.00% | ~44,902 |
+| Beauty, Mindfulness and Meditation | 15.00% | ~39,619 |
+| 401(K.O.) | 15.00% | ~39,619 |
+| Black Market | 14.00% | ~36,978 |
+| Car Cave | 12.00% | ~31,695 |
+| Club Mohair | 8.00% | ~21,130 |
+| A Center for Ants? | 8.00% | ~21,130 |
+| French Fika | 7.00% | ~18,489 |
 | Nasty! | 5.00% | ~13,206 |
-| Who Baywatches the Baywatch? | 4.00% | ~10,564 |
-| [REDACTED] | 4.00% | ~10,564 |
-| Cannibanana | 2.00% | ~5,282 |
-| Daredevil | 2.00% | ~5,282 |
+| Who Baywatches the Baywatch? | 4.00% | ~10,565 |
+| [REDACTED] | 4.00% | ~10,565 |
+| Cannibanana | 2.00% | ~5,283 |
+| Daredevil | 2.00% | ~5,283 |
 | Crocsquatch | 1.00% | ~2,641 |
 | You Trusted Your Instincts | 1.00% | ~2,641 |
 | Certified Fresh | 1.00% | ~2,641 |
 | Streaking | 1.00% | ~2,641 |
 | Try Hard 2 | 1.00% | ~2,641 |
 | Move! That! Bus! | 0.60% | ~1,585 |
-| G.O.A.T | 0.40% | ~1,056 |
+| G.O.A.T | 0.40% | ~1,057 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 264,112 (Ranked 65)  
+Progressed: 264,129 (Ranked 65)  
 Completed: 926 (0.35%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,16 +302,16 @@ Completed: 926 (0.35%) (Ranked 239)
 | 2023-12-30 | 263,008 | 924 |
 | 2023-12-31 | 263,423 | 924 |
 | 2024-01-01 | 263,861 | 925 |
-| 2024-01-02 | 264,112 | 926 |
+| 2024-01-02 | 264,129 | 926 |
 ## Awards
 Max (Great for Beginners): 531  (Ranked 216)  
-Sum: 4,266 (Ranked 156)  
+Sum: 4,267 (Ranked 156)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 531 |
 | This game has Diverse Characters | 484 |
-| This game is Highly Recommended | 454 |
+| This game is Highly Recommended | 455 |
 | This game has Amazing Characters | 426 |
 | This game is Extremely Fun | 410 |
 | This game has Amazing Storytelling | 401 |
@@ -602,4 +602,4 @@ Diff (max vs sum): 60
 | 2023-12-29 | 4.83 | 524 | 4,237 |
 | 2023-12-30 | 4.83 | 526 | 4,247 |
 | 2023-12-31 | 4.83 | 528 | 4,262 |
-| 2024-01-02 | 4.83 | 531 | 4,266 |
+| 2024-01-02 | 4.83 | 531 | 4,267 |

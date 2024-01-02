@@ -1,45 +1,45 @@
 # Transport Fever 2
 [Store](https://store.epicgames.com/en-US/p/transport-fever-2)  
 [View Rawdata](../../db/t/transport_fever_2.json)  
-Rating: 4.68 (Ranked 262)  
+Rating: 4.68 (Ranked 261)  
 Number of Ratings: 180  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First line | 74.00% | ~1,692 |
-| First cargo item on board | 68.00% | ~1,555 |
-| First cargo item waiting | 68.00% | ~1,555 |
-| First bus stop | 67.00% | ~1,532 |
-| First passenger waiting | 64.00% | ~1,464 |
-| First passenger on board | 63.00% | ~1,441 |
-| First bus arrived | 62.00% | ~1,418 |
-| First train station | 60.00% | ~1,372 |
-| First steam train arrived | 57.00% | ~1,304 |
-| Cadet | 53.00% | ~1,212 |
-| First industry upgraded | 53.00% | ~1,212 |
-| Transport millionaire | 51.00% | ~1,166 |
-| Transport master | 49.00% | ~1,121 |
-| Cargo hub | 49.00% | ~1,121 |
-| Sculpturer | 46.00% | ~1,052 |
-| Settled down | 45.00% | ~1,029 |
-| First electric train arrived | 43.00% | ~983 |
-| First ship arrived | 43.00% | ~983 |
-| Now what? | 43.00% | ~983 |
+| First line | 74.00% | ~1,694 |
+| First cargo item on board | 68.00% | ~1,557 |
+| First cargo item waiting | 68.00% | ~1,557 |
+| First bus stop | 67.00% | ~1,534 |
+| First passenger waiting | 64.00% | ~1,465 |
+| First passenger on board | 63.00% | ~1,442 |
+| First bus arrived | 62.00% | ~1,419 |
+| First train station | 60.00% | ~1,373 |
+| First steam train arrived | 57.00% | ~1,305 |
+| Cadet | 53.00% | ~1,213 |
+| First industry upgraded | 53.00% | ~1,213 |
+| Transport millionaire | 51.00% | ~1,167 |
+| Transport master | 49.00% | ~1,122 |
+| Cargo hub | 49.00% | ~1,122 |
+| Sculpturer | 46.00% | ~1,053 |
+| Settled down | 45.00% | ~1,030 |
+| First electric train arrived | 43.00% | ~984 |
+| First ship arrived | 43.00% | ~984 |
+| Now what? | 43.00% | ~984 |
 | Exemplary student | 41.00% | ~938 |
-| High speed | 39.00% | ~892 |
-| Transport shark | 38.00% | ~869 |
-| First aircraft arrived | 38.00% | ~869 |
+| High speed | 39.00% | ~893 |
+| First aircraft arrived | 38.00% | ~870 |
+| Transport shark | 37.00% | ~847 |
 | Mass production | 33.00% | ~755 |
-| Aircraft entrepreneur | 31.00% | ~709 |
-| The future is now, old man | 29.00% | ~663 |
-| Crowd in a train | 28.00% | ~640 |
-| Not in my backyard | 28.00% | ~640 |
+| Aircraft entrepreneur | 31.00% | ~710 |
+| The future is now, old man | 29.00% | ~664 |
+| Crowd in a train | 28.00% | ~641 |
+| Not in my backyard | 28.00% | ~641 |
 | City | 26.00% | ~595 |
 | The king of the sea | 26.00% | ~595 |
-| Transport tycoon | 22.00% | ~503 |
-| Old timer | 21.00% | ~480 |
-| The ugly smell of success | 21.00% | ~480 |
-| Climate change | 20.00% | ~457 |
+| Transport tycoon | 22.00% | ~504 |
+| Old timer | 21.00% | ~481 |
+| Climate change | 20.00% | ~458 |
+| The ugly smell of success | 20.00% | ~458 |
 | Heavily loaded | 19.00% | ~435 |
 | Bob Ross | 14.00% | ~320 |
 | Campaign expert | 10.00% | ~229 |
@@ -50,9 +50,9 @@ Number of Ratings: 180  (23.09.2022)
 | Penny pincher | 8.00% | ~183 |
 | Campaign shark | 5.00% | ~114 |
 | E.P.E.C. | 5.00% | ~114 |
-| Transport shark (Hard mode) | 4.00% | ~91 |
-| Antique | 4.00% | ~91 |
-| Transport corporation | 4.00% | ~91 |
+| Transport shark (Hard mode) | 4.00% | ~92 |
+| Antique | 4.00% | ~92 |
+| Transport corporation | 4.00% | ~92 |
 | Cannot get enough | 3.00% | ~69 |
 | Transport tycoon (Hard mode) | 2.00% | ~46 |
 | Charles Alton Ellis | 2.00% | ~46 |
@@ -68,7 +68,7 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.20% | ~5 |
 | Museum line | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,287 (Ranked 238)  
+Progressed: 2,289 (Ranked 238)  
 Completed: 1 (0.04%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 1 (0.04%) (Ranked 344)
 | 2023-12-30 | 2,249 | 1 |
 | 2023-12-31 | 2,263 | 1 |
 | 2024-01-01 | 2,280 | 1 |
-| 2024-01-02 | 2,287 | 1 |
+| 2024-01-02 | 2,289 | 1 |
 ## Awards
 Max (Great for Beginners): 50  (Ranked 451)  
 Sum: 331 (Ranked 372)  
