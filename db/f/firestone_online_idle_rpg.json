@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -711,7 +711,7 @@
   ],
   "EOS_Progressed": 4105,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 256,
+  "EOS_NewPlayers": 253,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -11743,9 +11743,9 @@
       "ID": "enhancedwarmachines",
       "SetID": "3nl4bcg",
       "Name": "Enhanced War Machines",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 41
     },
     {
       "ID": "enlightenment",
@@ -12192,8 +12192,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-02T09:57:01.626986+00:00",
-  "LastChanged_Achievements": "2024-01-02T20:07:57.2306574+00:00",
+  "LastChanged_Achievements": "2024-01-02T21:06:56.7797989+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:50.7213096+00:00",
-  "LastUpdate_Ratings": "2024-01-02T19:57:18.6730747+00:00",
-  "LastUpdate_Achievements": "2024-01-02T20:07:57.2308052+00:00"
+  "LastUpdate_Ratings": "2024-01-02T20:57:17.5148789+00:00",
+  "LastUpdate_Achievements": "2024-01-02T21:06:56.7799015+00:00"
 }

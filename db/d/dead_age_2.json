@@ -2,13 +2,13 @@
   "ID": "7da54ef55b9b4f098c14e4e2b4ac1128",
   "Name": "Dead Age 2",
   "ProductSlug": "dead-age-2",
-  "Ranking_Rating": 989,
+  "Ranking_Rating": 990,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 570,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-09-02T15:00:00+00:00",
     "PcReleaseDate": "2021-03-12T12:00:00+00:00",
@@ -80,6 +80,6 @@
   "FirstSeenRating": "2022-09-08T02:01:53.0200092+00:00",
   "LastChanged": "2023-08-12T00:02:38.5349808+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:44.0942112+00:00",
-  "LastUpdate_Ratings": "2024-01-02T19:58:39.7887651+00:00",
-  "LastUpdate_Achievements": "2024-01-02T20:04:47.76428+00:00"
+  "LastUpdate_Ratings": "2024-01-02T20:58:48.7652657+00:00",
+  "LastUpdate_Achievements": "2024-01-02T21:05:09.0305144+00:00"
 }

@@ -1,20 +1,20 @@
 # ELEX II
 [Store](https://store.epicgames.com/en-US/p/elex-ii)  
 [View Rawdata](../../db/e/elex_ii.json)  
-Rating: 4.29 (Ranked 879)  
+Rating: 4.29 (Ranked 878)  
 Number of Ratings: 124  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 38.00% | ~63 |
+| Entrepreneur | 39.00% | ~64 |
 | Best Buddy | 30.00% | ~50 |
 | Civilian | 29.00% | ~48 |
 | Role Model | 24.00% | ~40 |
 | Festival-goer | 21.00% | ~35 |
-| Peddler | 19.00% | ~31 |
+| Peddler | 20.00% | ~33 |
 | Military Leader | 19.00% | ~31 |
 | Creator | 19.00% | ~31 |
-| Commander | 16.00% | ~26 |
+| Commander | 17.00% | ~28 |
 | Long-Haul Flyer | 13.00% | ~21 |
 | Irissa's Fate | 13.00% | ~21 |
 | Pass A38 | 13.00% | ~21 |

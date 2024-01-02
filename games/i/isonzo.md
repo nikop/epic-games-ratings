@@ -6,9 +6,9 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Shall Not Pass | 51.00% | ~4,965 |
+| You Shall Not Pass | 51.00% | ~4,966 |
 | Tutti Eroi! | 50.00% | ~4,868 |
-| Peak Performance | 45.00% | ~4,381 |
+| Peak Performance | 45.00% | ~4,382 |
 | Avanti Savoia! | 44.00% | ~4,284 |
 | Mamma Mia! | 35.00% | ~3,408 |
 | Conrad von Hotzensocks | 32.00% | ~3,116 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~39 |
 | Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,736 (Ranked 181)  
+Progressed: 9,737 (Ranked 181)  
 Completed: 10 (0.10%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,11 +303,11 @@ Completed: 10 (0.10%) (Ranked 304)
 | 2023-12-30 | 9,691 | 10 |
 | 2023-12-31 | 9,706 | 10 |
 | 2024-01-01 | 9,726 | 10 |
-| 2024-01-02 | 9,736 | 10 |
+| 2024-01-02 | 9,737 | 10 |
 ## Awards
 Max (Diverse Characters): 41  (Ranked 474)  
-Sum: 336 (Ranked 369)  
-Diff (max vs sum): 105  
+Sum: 337 (Ranked 368)  
+Diff (max vs sum): 106  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 41 |
@@ -316,7 +316,7 @@ Diff (max vs sum): 105
 | This game is Extremely Fun | 36 |
 | This game has Challenging Combat | 34 |
 | This game has Amazing Characters | 34 |
-| This game is Educational | 32 |
+| This game is Educational | 33 |
 | This game has Quickly Understood Controls | 31 |
 | This game has Competitive Players | 28 |
 | This game has Amazing Storytelling | 25 |
@@ -465,4 +465,4 @@ Diff (max vs sum): 105
 | 2023-12-27 | 4.58 | - | 41 | 333 |
 | 2023-12-29 | 4.58 | - | 41 | 334 |
 | 2023-12-30 | 4.58 | - | 41 | 335 |
-| 2024-01-02 | 4.58 | - | 41 | 336 |
+| 2024-01-02 | 4.58 | - | 41 | 337 |

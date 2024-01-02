@@ -11,7 +11,7 @@ Number of Ratings: 90  (23.09.2022)
 | Ducks in a Row, Fish in a Barrel | 55.00% | ~160 |
 | Furon Fashion | 49.00% | ~143 |
 | Shop Til They Drop | 41.00% | ~119 |
-| Bodied Sattva | 37.00% | ~108 |
+| Bodied Sattva | 38.00% | ~111 |
 | Earthly Pleasures | 35.00% | ~102 |
 | Cult Following | 34.00% | ~99 |
 | Lie Back and Think of Albion | 28.00% | ~81 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.30% | ~1 |
 | Trans-Siberian Express | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 291 (Ranked 394)  
+Progressed: 291 (Ranked 395)  
 Completed: 1 (0.34%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |

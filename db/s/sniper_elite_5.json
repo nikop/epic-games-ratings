@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -655,9 +655,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 4189,
+  "EOS_Progressed": 4190,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -9300,6 +9300,11 @@
       "Time": "2024-01-02T20:09:13.8190059+00:00",
       "NumProgressed": 4189,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-02T21:09:39.0577961+00:00",
+      "NumProgressed": 4190,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9319,7 +9324,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -9335,7 +9340,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -9343,7 +9348,7 @@
       "Name": "Opposing Force",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -9351,7 +9356,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -9359,7 +9364,7 @@
       "Name": "Fields of Glory",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -9375,7 +9380,7 @@
       "Name": "Organ Grinder",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -9383,7 +9388,7 @@
       "Name": "Strategist",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "REWARD_1_MEETING_RESISTANCE",
@@ -9447,7 +9452,7 @@
       "Name": "Sharpshooter",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -9463,7 +9468,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -9479,7 +9484,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1759
+      "UsersEstimate": 1760
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -9551,7 +9556,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -9615,7 +9620,7 @@
       "Name": "Tinkerer",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
@@ -9623,7 +9628,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1424
+      "UsersEstimate": 1425
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -9631,7 +9636,7 @@
       "Name": "It\u0027ll Buff Right Out",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "REWARD_56_SMOOTH_OPERATOR",
@@ -9647,7 +9652,7 @@
       "Name": "Change the Channel",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1340
+      "UsersEstimate": 1341
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -9663,7 +9668,7 @@
       "Name": "Road Rage",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "REWARD_67_NO_ASSISTANCE",
@@ -9671,7 +9676,7 @@
       "Name": "Don\u0027t hold your breath",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "REWARD_6_BIG_GAME_HUNTER",
@@ -9719,7 +9724,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1047
+      "UsersEstimate": 1048
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -9878,13 +9883,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4140,
+      "Progressed": 4141,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4189,
+      "Progressed": 4190,
       "Completed": 11
     }
   ],
@@ -9892,8 +9897,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-31T17:57:21.8483577+00:00",
-  "LastChanged_Achievements": "2024-01-02T20:09:13.8190057+00:00",
+  "LastChanged_Achievements": "2024-01-02T21:09:39.0577959+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:41.6601563+00:00",
-  "LastUpdate_Ratings": "2024-01-02T19:58:27.2964451+00:00",
-  "LastUpdate_Achievements": "2024-01-02T20:09:13.8190933+00:00"
+  "LastUpdate_Ratings": "2024-01-02T20:58:35.6819169+00:00",
+  "LastUpdate_Achievements": "2024-01-02T21:09:39.0578928+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18067,
+  "EOS_Progressed": 18072,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 574,
+  "EOS_NewPlayers": 571,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -16060,6 +16060,11 @@
       "Time": "2024-01-02T20:04:08.4372268+00:00",
       "NumProgressed": 18067,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-02T21:04:28.2704288+00:00",
+      "NumProgressed": 18072,
+      "NumCompleted": 58
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16088,7 +16093,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1987
+      "UsersEstimate": 1988
     },
     {
       "ID": "12",
@@ -16104,7 +16109,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3071
+      "UsersEstimate": 3072
     },
     {
       "ID": "14",
@@ -16112,7 +16117,7 @@
       "Name": "Doctor Approved",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "15",
@@ -16144,7 +16149,7 @@
       "Name": "Bottoms up!",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "19",
@@ -16152,7 +16157,7 @@
       "Name": "Martian Music",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2168
+      "UsersEstimate": 2169
     },
     {
       "ID": "2",
@@ -16176,7 +16181,7 @@
       "Name": "Drone Dodger",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1987
+      "UsersEstimate": 1988
     },
     {
       "ID": "22",
@@ -16216,7 +16221,7 @@
       "Name": "Call it Even",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 1445
+      "UsersEstimate": 1446
     },
     {
       "ID": "27",
@@ -16224,7 +16229,7 @@
       "Name": "Bosmang",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 2168
+      "UsersEstimate": 2169
     },
     {
       "ID": "28",
@@ -16280,7 +16285,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2168
+      "UsersEstimate": 2169
     },
     {
       "ID": "7",
@@ -16288,7 +16293,7 @@
       "Name": "Grave Robber",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "8",
@@ -16304,7 +16309,7 @@
       "Name": "Impossible Objects",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2168
+      "UsersEstimate": 2169
     },
     {
       "ID": "31",
@@ -16312,7 +16317,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "32",
@@ -16336,7 +16341,7 @@
       "Name": "Master Negotiator",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "35",
@@ -16351,13 +16356,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18067,
+      "Progressed": 18072,
       "Completed": 58
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4021,
+      "Progressed": 4026,
       "Completed": 1160
     }
   ],
@@ -16365,8 +16370,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T23:58:17.8612142+00:00",
-  "LastChanged_Achievements": "2024-01-02T20:04:08.4372263+00:00",
+  "LastChanged_Achievements": "2024-01-02T21:04:28.2704285+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2024-01-02T19:59:20.0040162+00:00",
-  "LastUpdate_Achievements": "2024-01-02T20:04:08.4373368+00:00"
+  "LastUpdate_Ratings": "2024-01-02T20:59:37.0587489+00:00",
+  "LastUpdate_Achievements": "2024-01-02T21:04:28.2705316+00:00"
 }

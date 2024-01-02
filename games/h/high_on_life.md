@@ -33,8 +33,8 @@ Rating: 4.65 (Ranked 321)
 | Mux Ado About Shipping | 0.90% | ~21 |
 | Fall In Love With A Parasite | 0.60% | ~14 |
 | Sequel-Bait | 0.50% | ~125 |
+| Carried Stan's Load To Completion | 0.50% | ~125 |
 | Playing Favorites | 0.40% | ~100 |
-| Carried Stan's Load To Completion | 0.40% | ~100 |
 | A Starfish Is Born | 0.30% | ~75 |
 | Meet Frasier from Frasier | 0.30% | ~7 |
 | Epic Legendary Prize | 0.20% | ~50 |

@@ -8,9 +8,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | ---- | ---------- | ----- |
 | Explorer | 1.00% | ~161 |
 | Settler | 1.00% | ~161 |
+| Friendly Family | 1.00% | ~161 |
 | Play a Single Player Game | 1.00% | ~161 |
 | Intrepid | 0.90% | ~145 |
-| Friendly Family | 0.90% | ~145 |
 | Architect | 0.80% | ~129 |
 | Good | 0.80% | ~129 |
 | Mason | 0.80% | ~129 |
@@ -51,6 +51,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthaginian Paganism | 0.50% | ~80 |
 | Roman Paganism | 0.50% | ~80 |
 | Zoroastrianism | 0.50% | ~80 |
+| Beloved | 0.40% | ~64 |
 | Drillmaster | 0.40% | ~64 |
 | Great | 0.40% | ~64 |
 | Intercessor | 0.40% | ~64 |
@@ -63,7 +64,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 2 | 0.40% | ~64 |
 | Manichaeism | 0.40% | ~64 |
 | Hanging Gardens in Babylon | 0.30% | ~48 |
-| Beloved | 0.30% | ~48 |
 | Mighty | 0.30% | ~48 |
 | Good Difficulty | 0.30% | ~48 |
 | Just Difficulty | 0.30% | ~48 |

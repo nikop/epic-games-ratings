@@ -5,29 +5,29 @@ Rating: 4.54 (Ranked 542)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 17.00% | ~3,071 |
+| Oyedang, Kopengs | 17.00% | ~3,072 |
 | Captain Drummer | 13.00% | ~2,349 |
-| Martian Music | 12.00% | ~2,168 |
-| Bosmang | 12.00% | ~2,168 |
-| Celebrations are in Order | 12.00% | ~2,168 |
-| Impossible Objects | 12.00% | ~2,168 |
-| The Pit and the Pirates | 11.00% | ~1,987 |
-| Drone Dodger | 11.00% | ~1,987 |
+| Martian Music | 12.00% | ~2,169 |
+| Bosmang | 12.00% | ~2,169 |
+| Celebrations are in Order | 12.00% | ~2,169 |
+| Impossible Objects | 12.00% | ~2,169 |
+| The Pit and the Pirates | 11.00% | ~1,988 |
+| Drone Dodger | 11.00% | ~1,988 |
 | Stogie for Fogey | 10.00% | ~1,807 |
 | Spore Taste | 10.00% | ~1,807 |
 | Safe Cracker | 9.00% | ~362 |
 | Zen Master | 9.00% | ~362 |
-| Call it Even | 8.00% | ~1,445 |
+| Call it Even | 8.00% | ~1,446 |
 | Madame Undersecretary | 8.00% | ~322 |
 | Data Archivist | 7.00% | ~1,265 |
 | Drug Gifter | 7.00% | ~1,265 |
 | Heal Thy Medic | 7.00% | ~1,265 |
-| Keep Arjun in Check | 7.00% | ~281 |
+| Keep Arjun in Check | 7.00% | ~282 |
 | Thorston Mayer | 6.00% | ~1,084 |
 | Khan's Revenge | 6.00% | ~1,084 |
-| Master Negotiator | 6.00% | ~241 |
-| Doctor Approved | 5.00% | ~903 |
-| Bottoms up! | 5.00% | ~903 |
+| Master Negotiator | 6.00% | ~242 |
+| Doctor Approved | 5.00% | ~904 |
+| Bottoms up! | 5.00% | ~904 |
 | Data Logger | 4.00% | ~723 |
 | Miraculous Maya | 4.00% | ~723 |
 | Data Master | 3.00% | ~542 |
@@ -36,12 +36,12 @@ Rating: 4.54 (Ranked 542)
 | Debris Spree | 2.00% | ~361 |
 | Data Recoverer | 2.00% | ~361 |
 | Urshanabi Hoarder | 1.00% | ~181 |
-| Grave Robber | 0.70% | ~126 |
+| Grave Robber | 0.70% | ~127 |
 | Data Miner | 0.60% | ~108 |
 | Scavenger Star | 0.30% | ~54 |
 | Data Collector | 0.20% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,067 (Ranked 158)  
+Progressed: 18,072 (Ranked 158)  
 Completed: 58 (0.32%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 58 (0.32%) (Ranked 246)
 | 2023-12-30 | 17,838 | 57 |
 | 2023-12-31 | 17,926 | 58 |
 | 2024-01-01 | 18,013 | 58 |
-| 2024-01-02 | 18,067 | 58 |
+| 2024-01-02 | 18,072 | 58 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

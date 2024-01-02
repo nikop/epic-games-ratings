@@ -2,13 +2,13 @@
   "ID": "24b9b5e323bc40eea252a10cdd3b2f10",
   "Name": "League of Legends",
   "ProductSlug": "league-of-legends",
-  "Ranking_Rating": 957,
+  "Ranking_Rating": 956,
   "Ranking_Popularity": 77,
   "Ranking_PopularitySum": 57,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 570,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-11-04T16:30:00+00:00",
     "PcReleaseDate": "2009-10-27T16:30:00+00:00",
@@ -12049,11 +12049,17 @@
       "Rating": 4.2,
       "NumberOfAwards": 23239,
       "NumberOfAwardsMax": 4987
+    },
+    {
+      "Time": "2024-01-02T20:57:57.6250886+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 23266,
+      "NumberOfAwardsMax": 5005
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 23239,
-  "NumberOfAwardsMax": 4987,
+  "NumberOfAwards": 23266,
+  "NumberOfAwardsMax": 5005,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -12066,7 +12072,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 4987
+      "Count": 5005
     },
     {
       "Text": "This game has Challenging Combat",
@@ -12096,7 +12102,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 3400
+      "Count": 3409
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -12122,8 +12128,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:19.1268612+00:00",
-  "LastChanged": "2024-01-02T18:58:20.9106163+00:00",
+  "LastChanged": "2024-01-02T20:57:57.6250884+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:58.6549205+00:00",
-  "LastUpdate_Ratings": "2024-01-02T19:57:54.8148416+00:00",
-  "LastUpdate_Achievements": "2024-01-02T20:03:44.7899916+00:00"
+  "LastUpdate_Ratings": "2024-01-02T20:57:57.625089+00:00",
+  "LastUpdate_Achievements": "2024-01-02T21:04:05.7384965+00:00"
 }

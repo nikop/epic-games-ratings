@@ -22,10 +22,10 @@
 | Let Me Solo Them | 5.00% | ~6 |
 | Sovereignty of Irons | 5.00% | ~6 |
 | Frigid Winds | 4.00% | ~5 |
+| Pommelsmith | 2.00% | ~3 |
 | Missing Melodies | 2.00% | ~3 |
 | Smotherly Love | 2.00% | ~3 |
 | Transformative Nature | 2.00% | ~3 |
-| Pommelsmith | 0.80% | ~1 |
 | Redeemer | 0.80% | ~1 |
 | Champion of Starspire | 0.80% | ~1 |
 | No Salvation | 0.00% | ~0 |

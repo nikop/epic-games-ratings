@@ -2,10 +2,10 @@
   "ID": "3319fe5042ab4392a2b11c6938c0cda1",
   "Name": "Thief",
   "ProductSlug": "thief-5bb95f",
-  "Ranking_EOS_Progress": 463,
+  "Ranking_EOS_Progress": 462,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 300,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
     "PcReleaseDate": "2014-02-25T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 132,
+  "EOS_Progressed": 133,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -579,6 +579,11 @@
       "Time": "2024-01-02T13:08:10.8996333+00:00",
       "NumProgressed": 132,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T21:04:57.0429088+00:00",
+      "NumProgressed": 133,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-13T17:03:37.6694863+00:00",
@@ -767,7 +772,7 @@
       "Name": "Dust to Dust",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -886,14 +891,14 @@
     {
       "ID": "ae95dh3",
       "IsBase": true,
-      "Progressed": 132,
+      "Progressed": 133,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2024-01-02T20:04:36.7720726+00:00",
+  "LastChanged_Achievements": "2024-01-02T21:04:57.0429031+00:00",
   "LastUpdate_AppInfo": "2023-12-27T16:57:17.5447439+00:00",
-  "LastUpdate_Ratings": "2024-01-02T20:00:12.180578+00:00",
-  "LastUpdate_Achievements": "2024-01-02T20:04:36.7720943+00:00"
+  "LastUpdate_Ratings": "2024-01-02T21:00:34.2526338+00:00",
+  "LastUpdate_Achievements": "2024-01-02T21:04:57.0429706+00:00"
 }

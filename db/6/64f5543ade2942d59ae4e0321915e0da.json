@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 373,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 356,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -1486,9 +1486,9 @@
       "ID": "AC_BOSS_00",
       "SetID": "16i2akc",
       "Name": "Hunger",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 196
     },
     {
       "ID": "AC_BOSS_01",
@@ -1757,8 +1757,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-02T20:04:35.3428456+00:00",
+  "LastChanged_Achievements": "2024-01-02T21:04:55.5315443+00:00",
   "LastUpdate_AppInfo": "2023-12-26T21:56:54.1541826+00:00",
-  "LastUpdate_Ratings": "2024-01-02T19:59:30.8199968+00:00",
-  "LastUpdate_Achievements": "2024-01-02T20:04:35.3428739+00:00"
+  "LastUpdate_Ratings": "2024-01-02T20:59:50.2674665+00:00",
+  "LastUpdate_Achievements": "2024-01-02T21:04:55.5315751+00:00"
 }

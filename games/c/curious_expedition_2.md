@@ -22,8 +22,8 @@ Number of Ratings: 20  (23.09.2022)
 | Taxonomist | 29.00% | ~114 |
 | Traveller | 26.00% | ~102 |
 | Uncertain Loyalties | 26.00% | ~102 |
+| Roll to Save | 24.00% | ~95 |
 | Nahua Seeker | 24.00% | ~95 |
-| Roll to Save | 23.00% | ~91 |
 | Veteran Explorer | 22.00% | ~87 |
 | Red Flag Pirate | 20.00% | ~79 |
 | Iron Man | 17.00% | ~67 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 161,
   "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 856,
+  "EOS_Progressed": 857,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.17,
   "EosHistory": [
@@ -2945,6 +2945,11 @@
       "Time": "2024-01-02T19:09:34.8974376+00:00",
       "NumProgressed": 856,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-02T21:09:01.5984274+00:00",
+      "NumProgressed": 857,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -2965,7 +2970,7 @@
       "Name": "Establish Communications",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "ACH_eou2",
@@ -2973,7 +2978,7 @@
       "Name": "Destroy Strogg Logistical Train",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ACH_eou3",
@@ -2989,7 +2994,7 @@
       "Name": "Navigate the Mines",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_eou5",
@@ -3053,21 +3058,21 @@
       "Name": "Destroy the Moon Base",
       "Percentage": 8,
       "XP": 120,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     }
   ],
   "AchievementSets": [
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 856,
+      "Progressed": 857,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2024-01-02T20:08:39.2053831+00:00",
+  "LastChanged_Achievements": "2024-01-02T21:09:01.598427+00:00",
   "LastUpdate_AppInfo": "2023-12-29T06:57:16.3144275+00:00",
-  "LastUpdate_Ratings": "2024-01-02T19:59:43.7384015+00:00",
-  "LastUpdate_Achievements": "2024-01-02T20:08:39.2054151+00:00"
+  "LastUpdate_Ratings": "2024-01-02T21:00:02.2395734+00:00",
+  "LastUpdate_Achievements": "2024-01-02T21:09:01.5984499+00:00"
 }

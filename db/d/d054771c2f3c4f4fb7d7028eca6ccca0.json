@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
     "PcReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3382,
+  "EOS_Progressed": 3385,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 539,
+  "EOS_NewPlayers": 537,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3699,6 +3699,11 @@
       "Time": "2024-01-02T20:04:42.688038+00:00",
       "NumProgressed": 3382,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T21:05:03.3363613+00:00",
+      "NumProgressed": 3385,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -3735,7 +3740,7 @@
       "Name": "Highest Among the Highest",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -3749,9 +3754,9 @@
       "ID": "ACHIEVEMENT_13",
       "SetID": "c167foo",
       "Name": "Monster Power",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 20
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -3815,15 +3820,15 @@
       "Name": "Worthy Badge",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "ACHIEVEMENT_22",
       "SetID": "c167foo",
       "Name": "High Level Mastery",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 20
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -3895,7 +3900,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1184
+      "UsersEstimate": 1185
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -3911,7 +3916,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 1387
+      "UsersEstimate": 1388
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -4086,14 +4091,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 3382,
+      "Progressed": 3385,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2024-01-02T20:04:42.6880375+00:00",
+  "LastChanged_Achievements": "2024-01-02T21:05:03.3363609+00:00",
   "LastUpdate_AppInfo": "2024-01-02T13:00:37.2315097+00:00",
-  "LastUpdate_Ratings": "2024-01-02T20:00:27.882237+00:00",
-  "LastUpdate_Achievements": "2024-01-02T20:04:42.6880776+00:00"
+  "LastUpdate_Ratings": "2024-01-02T21:00:51.2975282+00:00",
+  "LastUpdate_Achievements": "2024-01-02T21:05:03.3364148+00:00"
 }

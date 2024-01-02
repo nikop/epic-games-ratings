@@ -571,9 +571,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 46137,
+  "EOS_Progressed": 46143,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 828,
+  "EOS_NewPlayers": 831,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17396,6 +17396,11 @@
       "Time": "2024-01-02T20:05:18.9890251+00:00",
       "NumProgressed": 46137,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-02T21:05:43.5070543+00:00",
+      "NumProgressed": 46143,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -17439,7 +17444,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1845
+      "UsersEstimate": 1846
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -17455,7 +17460,7 @@
       "Name": "Attachments",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5536
+      "UsersEstimate": 5537
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -17471,7 +17476,7 @@
       "Name": "The Interloper",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1845
+      "UsersEstimate": 1846
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -17567,7 +17572,7 @@
       "Name": "No Mercy",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2768
+      "UsersEstimate": 2769
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -17623,7 +17628,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2768
+      "UsersEstimate": 2769
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -17743,7 +17748,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5075
+      "UsersEstimate": 5076
     },
     {
       "ID": "SPRING_ALL",
@@ -17830,22 +17835,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 46137,
+      "Progressed": 46143,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 10974,
-      "Completed": 10974
+      "Progressed": 10980,
+      "Completed": 10980
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-02T14:03:32.6481765+00:00",
-  "LastChanged_Achievements": "2024-01-02T20:05:18.9890246+00:00",
+  "LastChanged_Achievements": "2024-01-02T21:05:43.507054+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:48.1998363+00:00",
-  "LastUpdate_Ratings": "2024-01-02T20:02:45.5757717+00:00",
-  "LastUpdate_Achievements": "2024-01-02T20:05:18.9891149+00:00"
+  "LastUpdate_Ratings": "2024-01-02T21:03:01.5759058+00:00",
+  "LastUpdate_Achievements": "2024-01-02T21:05:43.5071548+00:00"
 }

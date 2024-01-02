@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -4361,9 +4361,9 @@
       "ID": "GSS_ACH_04_TIP_02",
       "SetID": "5fn8ia4",
       "Name": "Gaining skill",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1323
     },
     {
       "ID": "GSS_ACH_05_TIP_03",
@@ -4673,9 +4673,9 @@
       "ID": "GSS_ACH_44_CARAVAN_03",
       "SetID": "5fn8ia4",
       "Name": "Business is Thriving",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 292
+      "UsersEstimate": 308
     },
     {
       "ID": "GSS_ACH_45_ORDER_PRODUCTS",
@@ -4905,9 +4905,9 @@
       "ID": "GSS_ACH_73_MEETING_THE_UNCLE",
       "SetID": "5fn8ia4",
       "Name": "The Uncle",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1353
     },
     {
       "ID": "GSS_ACH_74_SANDSTORM",
@@ -4994,8 +4994,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-02T14:59:08.1835676+00:00",
-  "LastChanged_Achievements": "2024-01-02T20:05:38.8832147+00:00",
+  "LastChanged_Achievements": "2024-01-02T21:06:05.2555738+00:00",
   "LastUpdate_AppInfo": "2024-01-01T19:57:12.6980533+00:00",
-  "LastUpdate_Ratings": "2024-01-02T19:58:31.1786977+00:00",
-  "LastUpdate_Achievements": "2024-01-02T20:05:38.8833143+00:00"
+  "LastUpdate_Ratings": "2024-01-02T20:58:39.8665098+00:00",
+  "LastUpdate_Achievements": "2024-01-02T21:06:05.2556775+00:00"
 }

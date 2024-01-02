@@ -4,8 +4,8 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3917,
+  "EOS_Progressed": 3919,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 180,
   "EOS_NewCompleters": 0,
@@ -6511,6 +6511,11 @@
       "Time": "2024-01-02T20:08:07.8935328+00:00",
       "NumProgressed": 3917,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-02T21:08:27.8540225+00:00",
+      "NumProgressed": 3919,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -6586,7 +6591,7 @@
       "Name": "Starting as a duo",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -6610,7 +6615,7 @@
       "Name": "Transmission",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "UNEXPECTED_ENCOUNTER",
@@ -6625,7 +6630,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3917,
+      "Progressed": 3919,
       "Completed": 6
     }
   ],
@@ -6633,8 +6638,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2024-01-02T20:08:07.8935324+00:00",
+  "LastChanged_Achievements": "2024-01-02T21:08:27.8540221+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:59.0797821+00:00",
-  "LastUpdate_Ratings": "2024-01-02T19:59:13.3093196+00:00",
-  "LastUpdate_Achievements": "2024-01-02T20:08:07.893587+00:00"
+  "LastUpdate_Ratings": "2024-01-02T20:59:29.8121522+00:00",
+  "LastUpdate_Achievements": "2024-01-02T21:08:27.8540717+00:00"
 }

@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 614,
+  "EOS_Progressed": 616,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 1,
@@ -2217,6 +2217,11 @@
       "Time": "2024-01-02T20:09:46.5023855+00:00",
       "NumProgressed": 614,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-02T21:10:15.0690437+00:00",
+      "NumProgressed": 616,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -2228,7 +2233,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 47,
       "XP": 60,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "completeact2",
@@ -2244,7 +2249,7 @@
       "Name": "On the Road",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "findalltapes",
@@ -2332,7 +2337,7 @@
       "Name": "Welcome to the Garage",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "scoreminrankrv2",
@@ -2347,7 +2352,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 614,
+      "Progressed": 616,
       "Completed": 3
     }
   ],
@@ -2355,8 +2360,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-02T20:09:46.502385+00:00",
+  "LastChanged_Achievements": "2024-01-02T21:10:15.0690433+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:00.0371084+00:00",
-  "LastUpdate_Ratings": "2024-01-02T19:59:17.9270595+00:00",
-  "LastUpdate_Achievements": "2024-01-02T20:09:46.5024273+00:00"
+  "LastUpdate_Ratings": "2024-01-02T20:59:34.7945759+00:00",
+  "LastUpdate_Achievements": "2024-01-02T21:10:15.0690693+00:00"
 }

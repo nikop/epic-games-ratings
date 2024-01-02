@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -1281,10 +1281,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 983,
       "NumberOfAwardsMax": 147
+    },
+    {
+      "Time": "2024-01-02T21:00:29.3169255+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 984,
+      "NumberOfAwardsMax": 147
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 983,
+  "NumberOfAwards": 984,
   "NumberOfAwardsMax": 147,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1304,7 +1310,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 143
+      "Count": 144
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1355,7 +1361,7 @@
       "Count": 147
     }
   ],
-  "EOS_Progressed": 13593,
+  "EOS_Progressed": 13594,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 961,
   "EOS_NewCompleters": 2,
@@ -8500,6 +8506,11 @@
       "Time": "2024-01-02T20:08:57.6058553+00:00",
       "NumProgressed": 13593,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2024-01-02T21:09:21.5188906+00:00",
+      "NumProgressed": 13594,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 24,
@@ -8559,7 +8570,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 5301
+      "UsersEstimate": 5302
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -8599,7 +8610,7 @@
       "Name": "The Hero Killer",
       "Percentage": 24,
       "XP": 90,
-      "UsersEstimate": 3262
+      "UsersEstimate": 3263
     },
     {
       "ID": "LeoniasFall",
@@ -8623,7 +8634,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 5029
+      "UsersEstimate": 5030
     },
     {
       "ID": "RookieWelcome",
@@ -8671,7 +8682,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 12641
+      "UsersEstimate": 12642
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -8695,22 +8706,22 @@
       "Name": "What should I buy?",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 11010
+      "UsersEstimate": 11011
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 13593,
+      "Progressed": 13594,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
-  "LastChanged": "2024-01-02T13:03:35.1534956+00:00",
-  "LastChanged_Achievements": "2024-01-02T20:08:57.6058549+00:00",
+  "LastChanged": "2024-01-02T21:00:29.3169253+00:00",
+  "LastChanged_Achievements": "2024-01-02T21:09:21.5188904+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:27.9431294+00:00",
-  "LastUpdate_Ratings": "2024-01-02T20:00:07.8348327+00:00",
-  "LastUpdate_Achievements": "2024-01-02T20:08:57.6059029+00:00"
+  "LastUpdate_Ratings": "2024-01-02T21:00:29.3169258+00:00",
+  "LastUpdate_Achievements": "2024-01-02T21:09:21.5189493+00:00"
 }

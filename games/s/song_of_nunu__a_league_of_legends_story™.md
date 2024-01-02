@@ -26,7 +26,7 @@ Rating: 4.52 (Ranked 574)
 | 3000 Year Blackout | 44.00% | ~634 |
 | The Finisher | 42.00% | ~605 |
 | So Close | 41.00% | ~590 |
-| You Get Used To It | 40.00% | ~576 |
+| You Get Used To It | 41.00% | ~590 |
 | Family | 39.00% | ~562 |
 | Boosted! | 39.00% | ~562 |
 | Biggest Snowball Ever | 38.00% | ~547 |

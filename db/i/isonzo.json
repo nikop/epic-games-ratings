@@ -4,11 +4,11 @@
   "ProductSlug": "isonzo",
   "Ranking_Rating": 468,
   "Ranking_Popularity": 474,
-  "Ranking_PopularitySum": 369,
+  "Ranking_PopularitySum": 368,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -977,10 +977,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 336,
       "NumberOfAwardsMax": 41
+    },
+    {
+      "Time": "2024-01-02T20:59:57.5573347+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 337,
+      "NumberOfAwardsMax": 41
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 336,
+  "NumberOfAwards": 337,
   "NumberOfAwardsMax": 41,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1024,7 +1030,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -1051,7 +1057,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9736,
+  "EOS_Progressed": 9737,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
@@ -10471,6 +10477,11 @@
       "Time": "2024-01-02T20:09:05.5076212+00:00",
       "NumProgressed": 9736,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-02T21:09:30.2568953+00:00",
+      "NumProgressed": 9737,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -10674,7 +10685,7 @@
       "Name": "Peak Performance",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4381
+      "UsersEstimate": 4382
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -10834,23 +10845,23 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 4965
+      "UsersEstimate": 4966
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9736,
+      "Progressed": 9737,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-09-13T17:01:45.3760457+00:00",
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
-  "LastChanged": "2024-01-02T18:01:12.8196563+00:00",
-  "LastChanged_Achievements": "2024-01-02T20:09:05.5076209+00:00",
+  "LastChanged": "2024-01-02T20:59:57.5573345+00:00",
+  "LastChanged_Achievements": "2024-01-02T21:09:30.256895+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:27.5115536+00:00",
-  "LastUpdate_Ratings": "2024-01-02T19:59:37.9382225+00:00",
-  "LastUpdate_Achievements": "2024-01-02T20:09:05.5076888+00:00"
+  "LastUpdate_Ratings": "2024-01-02T20:59:57.5573349+00:00",
+  "LastUpdate_Achievements": "2024-01-02T21:09:30.2569687+00:00"
 }

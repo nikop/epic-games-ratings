@@ -1,33 +1,33 @@
 # Madden NFL 23
 [Store](https://store.epicgames.com/en-US/p/madden-nfl-23)  
 [View Rawdata](../../db/m/madden_nfl_23.json)  
-Rating: 4.30 (Ranked 872)  
+Rating: 4.29 (Ranked 878)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bragging Rights | 55.00% | ~2,360 |
-| Big Spender | 53.00% | ~2,274 |
-| MVP | 53.00% | ~2,274 |
-| Stud Finder | 40.00% | ~1,716 |
-| Dealmaker | 38.00% | ~1,630 |
+| Bragging Rights | 55.00% | ~2,361 |
+| Big Spender | 53.00% | ~2,275 |
+| MVP | 53.00% | ~2,275 |
+| Stud Finder | 40.00% | ~1,717 |
+| Dealmaker | 38.00% | ~1,631 |
 | ROTY | 32.00% | ~1,373 |
-| Roster Reshuffle | 31.00% | ~1,330 |
+| Roster Reshuffle | 31.00% | ~1,331 |
 | Future of the Franchise | 19.00% | ~815 |
-| Throwin’ Dots | 17.00% | ~729 |
-| Already in Progress | 17.00% | ~729 |
-| Primetime | 16.00% | ~686 |
-| Change of Scenery | 16.00% | ~686 |
-| Pro Bowler | 16.00% | ~686 |
+| Throwin’ Dots | 17.00% | ~730 |
+| Already in Progress | 17.00% | ~730 |
+| Primetime | 16.00% | ~687 |
+| Change of Scenery | 16.00% | ~687 |
+| Pro Bowler | 16.00% | ~687 |
 | Unblockable | 9.00% | ~386 |
-| Pocket Ace | 5.00% | ~214 |
-| Lockdown Corner | 5.00% | ~214 |
-| Head-to-Head | 5.00% | ~214 |
+| Pocket Ace | 5.00% | ~215 |
+| Lockdown Corner | 5.00% | ~215 |
+| Head-to-Head | 5.00% | ~215 |
 | Gain Train | 0.90% | ~39 |
 | Ol' Reliable | 0.80% | ~34 |
 | Lockdown Leader | 0.50% | ~21 |
 | The Fortress | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,290 (Ranked 207)  
+Progressed: 4,292 (Ranked 207)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,10 +136,10 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-30 | 4,250 | 0 |
 | 2023-12-31 | 4,261 | 0 |
 | 2024-01-01 | 4,277 | 0 |
-| 2024-01-02 | 4,290 | 0 |
+| 2024-01-02 | 4,292 | 0 |
 ## Awards
 Max (Diverse Characters): 47  (Ranked 462)  
-Sum: 174 (Ranked 428)  
+Sum: 175 (Ranked 428)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
@@ -147,7 +147,7 @@ Diff (max vs sum): 34
 | This game has a Competitive Community | 34 |
 | This game is Highly Recommended | 28 |
 | This game is Extremely Fun | 24 |
-| This game has Amazing Characters | 21 |
+| This game has Amazing Characters | 22 |
 | This game has Realistic Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -304,4 +304,4 @@ Diff (max vs sum): 34
 | 2023-12-27 | 4.30 | 46 | 150 |
 | 2023-12-28 | 4.30 | 46 | 171 |
 | 2023-12-31 | 4.30 | 47 | 173 |
-| 2024-01-02 | 4.30 | 47 | 174 |
+| 2024-01-02 | 4.30 | 47 | 175 |

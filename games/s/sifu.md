@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 5.00% | ~37,607 |
+| The Old Grandmaster | 5.00% | ~37,608 |
 | The Assault | 4.00% | ~30,086 |
 | Life is your teacher | 4.00% | ~30,086 |
 | Lightning Hands | 4.00% | ~30,086 |
@@ -22,14 +22,14 @@ Number of Ratings: 9,492  (23.09.2022)
 | Path of the Prospect | 2.00% | ~15,043 |
 | Rumble in the Hangar | 2.00% | ~15,043 |
 | Diligence as a goal | 2.00% | ~1,229 |
-| Lady Wing Chun | 1.00% | ~7,521 |
-| Furious Fists | 1.00% | ~7,521 |
-| Scareless | 1.00% | ~7,521 |
-| Qi Gong: Mind | 1.00% | ~7,521 |
-| I know Kung-Fu | 1.00% | ~7,521 |
-| Kung-Fu Tussle | 1.00% | ~7,521 |
-| Take damage to save time | 1.00% | ~7,521 |
-| Project Arena | 1.00% | ~614 |
+| Lady Wing Chun | 1.00% | ~7,522 |
+| Furious Fists | 1.00% | ~7,522 |
+| Scareless | 1.00% | ~7,522 |
+| Qi Gong: Mind | 1.00% | ~7,522 |
+| I know Kung-Fu | 1.00% | ~7,522 |
+| Kung-Fu Tussle | 1.00% | ~7,522 |
+| Take damage to save time | 1.00% | ~7,522 |
+| Project Arena | 1.00% | ~615 |
 | Dance of the Praying Mantis | 0.90% | ~6,769 |
 | Fight the way you practice | 0.80% | ~492 |
 | Muk Yan Master | 0.60% | ~4,513 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~61 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 752,138 (Ranked 24)  
+Progressed: 752,155 (Ranked 24)  
 Completed: 12,971 (1.72%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 12,971 (1.72%) (Ranked 141)
 | 2023-12-30 | 749,350 | 12,969 |
 | 2023-12-31 | 750,399 | 12,971 |
 | 2024-01-01 | 751,425 | 12,971 |
-| 2024-01-02 | 752,138 | 12,971 |
+| 2024-01-02 | 752,155 | 12,971 |
 ## Awards
 Max (Great Boss Battles): 7,079  (Ranked 55)  
 Sum: 11,978 (Ranked 87)  

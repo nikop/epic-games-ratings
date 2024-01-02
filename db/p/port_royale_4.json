@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 286,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1168,
+  "EOS_Progressed": 1169,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3316,6 +3316,11 @@
       "Time": "2024-01-02T18:08:33.0297201+00:00",
       "NumProgressed": 1168,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-02T21:06:58.1216039+00:00",
+      "NumProgressed": 1169,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -3327,7 +3332,7 @@
       "Name": "Cabin boy",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "ACH001",
@@ -3381,9 +3386,9 @@
       "ID": "ACH007",
       "SetID": "69nfp41",
       "Name": "My little farm",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 748
+      "UsersEstimate": 736
     },
     {
       "ID": "ACH008",
@@ -3423,7 +3428,7 @@
       "Name": "3, 2, 1, mine",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "ACH013",
@@ -3439,7 +3444,7 @@
       "Name": "Christening",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "ACH015",
@@ -3511,7 +3516,7 @@
       "Name": "Gofer",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "ACH024",
@@ -3559,7 +3564,7 @@
       "Name": "Licence to Kill",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "ACH030",
@@ -3599,7 +3604,7 @@
       "Name": "Panic buying",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ACH035",
@@ -3615,7 +3620,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "ACH037",
@@ -3623,7 +3628,7 @@
       "Name": "Paths of Glory",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH038",
@@ -3639,7 +3644,7 @@
       "Name": "Panel of experts",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH040",
@@ -3679,7 +3684,7 @@
       "Name": "Greed for gold",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "ACH045",
@@ -3726,15 +3731,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 1168,
+      "Progressed": 1169,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-11-01T22:59:02.448108+00:00",
-  "LastChanged_Achievements": "2024-01-02T20:07:58.3955819+00:00",
+  "LastChanged_Achievements": "2024-01-02T21:06:58.1216035+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:13.936517+00:00",
-  "LastUpdate_Ratings": "2024-01-02T19:57:56.7918794+00:00",
-  "LastUpdate_Achievements": "2024-01-02T20:07:58.3956351+00:00"
+  "LastUpdate_Ratings": "2024-01-02T20:57:59.91001+00:00",
+  "LastUpdate_Achievements": "2024-01-02T21:06:58.1216631+00:00"
 }

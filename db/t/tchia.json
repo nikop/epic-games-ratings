@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -275,9 +275,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8660,
+  "EOS_Progressed": 8661,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 300,
+  "EOS_NewPlayers": 299,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -10710,6 +10710,11 @@
       "Time": "2024-01-02T20:08:30.6783413+00:00",
       "NumProgressed": 8660,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-02T21:08:52.2924177+00:00",
+      "NumProgressed": 8661,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -10767,9 +10772,9 @@
       "ID": "ENERGY_SAVER",
       "SetID": "3cck1g6",
       "Name": "Energy Saver",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 69
+      "UsersEstimate": 78
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -10888,7 +10893,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 8660,
+      "Progressed": 8661,
       "Completed": 34
     }
   ],
@@ -10896,8 +10901,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2024-01-02T06:58:15.4214976+00:00",
-  "LastChanged_Achievements": "2024-01-02T20:08:30.6783409+00:00",
+  "LastChanged_Achievements": "2024-01-02T21:08:52.2924174+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:18.6099916+00:00",
-  "LastUpdate_Ratings": "2024-01-02T19:58:37.593344+00:00",
-  "LastUpdate_Achievements": "2024-01-02T20:08:30.6784173+00:00"
+  "LastUpdate_Ratings": "2024-01-02T20:58:46.0435162+00:00",
+  "LastUpdate_Achievements": "2024-01-02T21:08:52.2924841+00:00"
 }

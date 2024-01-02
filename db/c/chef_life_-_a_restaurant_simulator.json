@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 937,
+  "EOS_Progressed": 938,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4042,6 +4042,11 @@
       "Time": "2024-01-02T20:09:27.5127778+00:00",
       "NumProgressed": 937,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T21:09:54.2044599+00:00",
+      "NumProgressed": 938,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -4189,7 +4194,7 @@
       "Name": "Sous-Chef",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "Level20",
@@ -4221,7 +4226,7 @@
       "Name": "Rolling in Dough",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "OpenRestaurant",
@@ -4229,7 +4234,7 @@
       "Name": "The Big Day",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "Packing20",
@@ -4309,7 +4314,7 @@
       "Name": "You\u0027re the Expert!",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "TrattoriaSet",
@@ -4365,14 +4370,14 @@
       "Name": "Well-Stocked Kitchen",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     }
   ],
   "AchievementSets": [
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 937,
+      "Progressed": 938,
       "Completed": 0
     }
   ],
@@ -4380,8 +4385,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2024-01-02T20:09:27.5127774+00:00",
+  "LastChanged_Achievements": "2024-01-02T21:09:54.2044595+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.9361067+00:00",
-  "LastUpdate_Ratings": "2024-01-02T19:57:51.3611505+00:00",
-  "LastUpdate_Achievements": "2024-01-02T20:09:27.5128225+00:00"
+  "LastUpdate_Ratings": "2024-01-02T20:57:53.6697379+00:00",
+  "LastUpdate_Achievements": "2024-01-02T21:09:54.2045004+00:00"
 }

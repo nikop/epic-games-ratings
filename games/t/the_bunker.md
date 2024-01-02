@@ -24,7 +24,7 @@
 | Engineer | 49.00% | ~82 |
 | Doctor | 47.00% | ~79 |
 | Press Play | 36.00% | ~60 |
-| General | 28.00% | ~47 |
+| General | 29.00% | ~49 |
 | Bookworm | 26.00% | ~44 |
 | Floppy Disk Finder | 16.00% | ~27 |
 | Stay | 13.00% | ~22 |

@@ -1051,9 +1051,9 @@
       "Count": 172
     }
   ],
-  "EOS_Progressed": 15107,
+  "EOS_Progressed": 15114,
   "EOS_Completed": 85,
-  "EOS_NewPlayers": 938,
+  "EOS_NewPlayers": 940,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -16781,6 +16781,11 @@
       "Time": "2024-01-02T20:09:29.7932491+00:00",
       "NumProgressed": 15107,
       "NumCompleted": 85
+    },
+    {
+      "Time": "2024-01-02T21:09:56.6916604+00:00",
+      "NumProgressed": 15114,
+      "NumCompleted": 85
     }
   ],
   "TotalAchievements": 34,
@@ -16816,7 +16821,7 @@
       "Name": "Not my First Time",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "ACH05",
@@ -16848,7 +16853,7 @@
       "Name": "Pie Guy",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "ACH09",
@@ -16864,7 +16869,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 1057
+      "UsersEstimate": 1058
     },
     {
       "ID": "ACH11",
@@ -16872,7 +16877,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     },
     {
       "ID": "ACH12",
@@ -16880,7 +16885,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 906
+      "UsersEstimate": 907
     },
     {
       "ID": "ACH13",
@@ -16896,7 +16901,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 6345
+      "UsersEstimate": 6348
     },
     {
       "ID": "ACH15",
@@ -16952,7 +16957,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 6949
+      "UsersEstimate": 6952
     },
     {
       "ID": "ACH22",
@@ -16960,7 +16965,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 3021
+      "UsersEstimate": 3023
     },
     {
       "ID": "ACH23",
@@ -16968,7 +16973,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 3928
+      "UsersEstimate": 3930
     },
     {
       "ID": "ACH24",
@@ -16976,7 +16981,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2266
+      "UsersEstimate": 2267
     },
     {
       "ID": "ACH25",
@@ -16984,7 +16989,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2266
+      "UsersEstimate": 2267
     },
     {
       "ID": "ACH26",
@@ -16992,7 +16997,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2266
+      "UsersEstimate": 2267
     },
     {
       "ID": "ACH27",
@@ -17000,7 +17005,7 @@
       "Name": "Grand Theft Auto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "ACH28",
@@ -17008,7 +17013,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 906
+      "UsersEstimate": 907
     },
     {
       "ID": "ACH29",
@@ -17063,7 +17068,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 15107,
+      "Progressed": 15114,
       "Completed": 85
     }
   ],
@@ -17071,8 +17076,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-01T23:57:10.5196761+00:00",
-  "LastChanged_Achievements": "2024-01-02T20:09:29.7932487+00:00",
+  "LastChanged_Achievements": "2024-01-02T21:09:56.6916601+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:48.9246276+00:00",
-  "LastUpdate_Ratings": "2024-01-02T19:57:34.3111947+00:00",
-  "LastUpdate_Achievements": "2024-01-02T20:09:29.7933364+00:00"
+  "LastUpdate_Ratings": "2024-01-02T20:57:35.8253656+00:00",
+  "LastUpdate_Achievements": "2024-01-02T21:09:56.6917347+00:00"
 }

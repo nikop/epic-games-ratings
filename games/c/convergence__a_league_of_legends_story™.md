@@ -33,10 +33,10 @@ Rating: 4.65 (Ranked 321)
 | Whiz Kid | 15.00% | ~180 |
 | Family Memories | 14.00% | ~168 |
 | Good Neighbor | 14.00% | ~168 |
+| Treasure Trove | 13.00% | ~156 |
 | Cartographer | 13.00% | ~156 |
 | Ask Questions Later | 13.00% | ~156 |
 | Chaincrawler Explorer | 12.00% | ~144 |
-| Treasure Trove | 12.00% | ~144 |
 | Syron for Hope | 12.00% | ~144 |
 | Sump Explorer | 11.00% | ~132 |
 | Factorywood Explorer | 10.00% | ~120 |
@@ -54,8 +54,8 @@ Rating: 4.65 (Ranked 321)
 | Fitting In | 2.00% | ~24 |
 | Thinking Two Steps Ahead | 1.00% | ~12 |
 | No Time to Waste | 1.00% | ~12 |
+| Wildlife Protection | 0.80% | ~10 |
 | A Lesson in Precision | 0.80% | ~10 |
-| Wildlife Protection | 0.70% | ~8 |
 | Raw Talent | 0.60% | ~7 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)

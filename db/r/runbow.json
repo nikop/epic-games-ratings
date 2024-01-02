@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -182,7 +182,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253001,
+  "EOS_Progressed": 253002,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 393,
   "EOS_NewCompleters": 0,
@@ -23052,6 +23052,11 @@
       "Time": "2024-01-02T20:09:43.2762156+00:00",
       "NumProgressed": 253001,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-02T21:10:11.6624475+00:00",
+      "NumProgressed": 253002,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -23263,7 +23268,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 65780
+      "UsersEstimate": 65781
     },
     {
       "ID": "justABit",
@@ -23303,7 +23308,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126500
+      "UsersEstimate": 126501
     },
     {
       "ID": "notScared",
@@ -23430,7 +23435,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253001,
+      "Progressed": 253002,
       "Completed": 6
     }
   ],
@@ -23438,8 +23443,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-02T20:09:43.2762152+00:00",
+  "LastChanged_Achievements": "2024-01-02T21:10:11.6624472+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.9407923+00:00",
-  "LastUpdate_Ratings": "2024-01-02T19:58:33.1887191+00:00",
-  "LastUpdate_Achievements": "2024-01-02T20:09:43.2763511+00:00"
+  "LastUpdate_Ratings": "2024-01-02T20:58:41.9944517+00:00",
+  "LastUpdate_Achievements": "2024-01-02T21:10:11.6625882+00:00"
 }

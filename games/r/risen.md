@@ -19,15 +19,15 @@ Rating: 4.55 (Ranked 522)
 | Ferocious wild boars | 24.00% | ~37 |
 | Idiot | 24.00% | ~37 |
 | Beast slayer | 21.00% | ~33 |
-| Death of a legend | 18.00% | ~28 |
+| Death of a legend | 19.00% | ~30 |
 | Ogre friend | 18.00% | ~28 |
 | Family man | 17.00% | ~27 |
 | Archaeologist | 17.00% | ~27 |
+| Little hero | 17.00% | ~27 |
+| The fourth triplet | 17.00% | ~27 |
 | Fence | 17.00% | ~27 |
 | Sidelined | 17.00% | ~27 |
 | Wise man | 16.00% | ~25 |
-| Little hero | 16.00% | ~25 |
-| The fourth triplet | 16.00% | ~25 |
 | Hard worker | 15.00% | ~23 |
 | Master detective | 14.00% | ~22 |
 | Pandora's box | 13.00% | ~20 |

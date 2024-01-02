@@ -5,23 +5,23 @@ Rating: 4.52 (Ranked 574)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~6,949 |
-| Greasy Palms | 42.00% | ~6,345 |
-| South American Connection | 26.00% | ~3,928 |
-| Life of the Party | 20.00% | ~3,021 |
-| Big Heat from Little Havana | 15.00% | ~2,266 |
-| Chauffeur | 15.00% | ~2,266 |
-| Tommy Two-Wheels | 15.00% | ~2,266 |
-| Salutations My Little Friend | 11.00% | ~1,662 |
+| Legal Counsel | 46.00% | ~6,952 |
+| Greasy Palms | 42.00% | ~6,348 |
+| South American Connection | 26.00% | ~3,930 |
+| Life of the Party | 20.00% | ~3,023 |
+| Big Heat from Little Havana | 15.00% | ~2,267 |
+| Chauffeur | 15.00% | ~2,267 |
+| Tommy Two-Wheels | 15.00% | ~2,267 |
+| Salutations My Little Friend | 11.00% | ~1,663 |
 | Iron-y | 10.00% | ~1,511 |
 | Gun for Hire | 9.00% | ~1,360 |
 | Mischief Managed | 8.00% | ~1,209 |
-| Vice City Mogul | 7.00% | ~1,057 |
-| Catch Me if You Can | 6.00% | ~906 |
-| Bloodstained Hands | 6.00% | ~906 |
-| Not my First Time | 5.00% | ~755 |
-| Grand Theft Auto | 5.00% | ~755 |
-| Pie Guy | 4.00% | ~604 |
+| Vice City Mogul | 7.00% | ~1,058 |
+| Catch Me if You Can | 6.00% | ~907 |
+| Bloodstained Hands | 6.00% | ~907 |
+| Not my First Time | 5.00% | ~756 |
+| Grand Theft Auto | 5.00% | ~756 |
+| Pie Guy | 4.00% | ~605 |
 | Point A to Point B | 3.00% | ~453 |
 | High Quality H2O | 3.00% | ~453 |
 | Bull in a China Shop | 3.00% | ~453 |
@@ -40,7 +40,7 @@ Rating: 4.52 (Ranked 574)
 | Done it All | 0.90% | ~136 |
 | Kingpin | 0.60% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,107 (Ranked 169)  
+Progressed: 15,114 (Ranked 169)  
 Completed: 85 (0.56%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 85 (0.56%) (Ranked 209)
 | 2023-12-30 | 14,716 | 83 |
 | 2023-12-31 | 14,859 | 83 |
 | 2024-01-01 | 15,003 | 84 |
-| 2024-01-02 | 15,107 | 85 |
+| 2024-01-02 | 15,114 | 85 |
 ## Awards
 Max (Great Boss Battles): 172  (Ranked 316)  
 Sum: 172 (Ranked 430)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -45,9 +45,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3221,
+  "EOS_Progressed": 3222,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 209,
+  "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7935,6 +7935,11 @@
       "Time": "2024-01-02T19:05:58.0892653+00:00",
       "NumProgressed": 3221,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T21:04:58.2797896+00:00",
+      "NumProgressed": 3222,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -7947,7 +7952,7 @@
       "Name": "First Love",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1449
+      "UsersEstimate": 1450
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -8017,9 +8022,9 @@
       "ID": "ML_ACHIEVEMENT_10",
       "SetID": "c7hf6a4",
       "Name": "We\u0027re Going to Need a Bigger Garage",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 837
+      "UsersEstimate": 870
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -8147,7 +8152,7 @@
       "Name": "Evangelist",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ML_ACHIEVEMENT_27",
@@ -8155,7 +8160,7 @@
       "Name": "Clean Race",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1417
+      "UsersEstimate": 1418
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -8235,7 +8240,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -8243,7 +8248,7 @@
       "Name": "Eat My Dust",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1546
+      "UsersEstimate": 1547
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -8299,7 +8304,7 @@
       "Name": "Rivals to the End",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -8338,7 +8343,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3221,
+      "Progressed": 3222,
       "Completed": 0
     }
   ],
@@ -8346,8 +8351,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-02T17:58:34.6110096+00:00",
-  "LastChanged_Achievements": "2024-01-02T20:04:37.8923717+00:00",
+  "LastChanged_Achievements": "2024-01-02T21:04:58.2797893+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:59.7599271+00:00",
-  "LastUpdate_Ratings": "2024-01-02T19:57:58.0509984+00:00",
-  "LastUpdate_Achievements": "2024-01-02T20:04:37.892441+00:00"
+  "LastUpdate_Ratings": "2024-01-02T20:58:01.6946598+00:00",
+  "LastUpdate_Achievements": "2024-01-02T21:04:58.2798642+00:00"
 }

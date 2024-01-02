@@ -2,10 +2,10 @@
   "ID": "6a50e1ce4d1a4666ba51e31a351b0947",
   "Name": "Breakout: Recharged",
   "ProductSlug": "breakout-recharged",
-  "Ranking_EOS_Progress": 460,
+  "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 418,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
     "PcReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 136,
+  "EOS_Progressed": 137,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.21,
+  "EOS_Completed_Percentage": 2.19,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:23.2577147+00:00",
@@ -379,6 +379,11 @@
       "Time": "2024-01-02T20:09:29.5944813+00:00",
       "NumProgressed": 136,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-02T21:09:56.4555068+00:00",
+      "NumProgressed": 137,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -414,7 +419,7 @@
       "Name": "Is There Anybody Out There?",
       "Percentage": 93,
       "XP": 100,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ACH_BIDING_MY_TIME",
@@ -430,13 +435,13 @@
       "Name": "Burning Bridges",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_CLUSTER_ONE",
       "SetID": "5kae3ip",
       "Name": "Cluster One",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 40,
       "UsersEstimate": 114
     },
@@ -444,17 +449,17 @@
       "ID": "ACH_COMFORTABLY_NUMB",
       "SetID": "5kae3ip",
       "Name": "Comfortably Numb",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH_DOGS_OF_WAR",
       "SetID": "5kae3ip",
       "Name": "The Dogs of War",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 75,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_ECHOES",
@@ -476,7 +481,7 @@
       "ID": "ACH_HIGH_HOPES",
       "SetID": "5kae3ip",
       "Name": "High Hopes",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 10,
       "UsersEstimate": 73
     },
@@ -492,9 +497,9 @@
       "ID": "ACH_LAST_FEW_BRICK",
       "SetID": "5kae3ip",
       "Name": "The Last Few Bricks",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 75,
-      "UsersEstimate": 33
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_WHAT_DO",
@@ -509,7 +514,7 @@
     {
       "ID": "5kae3ip",
       "IsBase": true,
-      "Progressed": 136,
+      "Progressed": 137,
       "Completed": 3
     }
   ],
@@ -517,8 +522,8 @@
   "FirstSeenRating": "2023-03-31T05:58:34.1207634+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:23.2577155+00:00",
   "LastChanged": "2023-03-31T05:58:34.1207635+00:00",
-  "LastChanged_Achievements": "2024-01-02T20:09:29.5944808+00:00",
+  "LastChanged_Achievements": "2024-01-02T21:09:56.4555063+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:21.6934861+00:00",
-  "LastUpdate_Ratings": "2024-01-02T19:59:59.6506399+00:00",
-  "LastUpdate_Achievements": "2024-01-02T20:09:29.5945059+00:00"
+  "LastUpdate_Ratings": "2024-01-02T21:00:19.5020392+00:00",
+  "LastUpdate_Achievements": "2024-01-02T21:09:56.4555187+00:00"
 }

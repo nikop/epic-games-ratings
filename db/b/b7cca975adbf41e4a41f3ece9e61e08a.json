@@ -2,10 +2,10 @@
   "ID": "b7cca975adbf41e4a41f3ece9e61e08a",
   "Name": "Love Is All Around",
   "ProductSlug": "love-is-all-around-3a8046",
-  "Ranking_Rating": 147,
+  "Ranking_Rating": 146,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 531,
-  "Ranking_EOS_Progress": 162,
+  "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 145,
   "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 15,
@@ -277,7 +277,7 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 17296,
+  "EOS_Progressed": 17297,
   "EOS_Completed": 288,
   "EOS_NewPlayers": 1219,
   "EOS_NewCompleters": 25,
@@ -8607,6 +8607,11 @@
       "Time": "2024-01-02T20:09:19.9988723+00:00",
       "NumProgressed": 17296,
       "NumCompleted": 288
+    },
+    {
+      "Time": "2024-01-02T21:09:45.9901998+00:00",
+      "NumProgressed": 17297,
+      "NumCompleted": 288
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -8619,15 +8624,15 @@
       "Name": "Last Night...Did We...",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 15220
+      "UsersEstimate": 15221
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "7opfcp",
       "Name": "I Challenge You To Save More Money!",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 13837
+      "UsersEstimate": 14011
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -8651,7 +8656,7 @@
       "Name": "Off We Sail Tonight",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2594
+      "UsersEstimate": 2595
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
@@ -8715,7 +8720,7 @@
       "Name": "I Love How Tough You Are",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 11242
+      "UsersEstimate": 11243
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -8739,7 +8744,7 @@
       "Name": "Love You Three Thousand",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2248
+      "UsersEstimate": 2249
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_23",
@@ -8755,7 +8760,7 @@
       "Name": "Love Actually",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 7091
+      "UsersEstimate": 7092
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_25",
@@ -8795,7 +8800,7 @@
       "Name": "Can You Do This Or Not?",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2248
+      "UsersEstimate": 2249
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -8875,7 +8880,7 @@
       "Name": "Are You Alright?",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 8129
+      "UsersEstimate": 8130
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_1",
@@ -8954,7 +8959,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 17296,
+      "Progressed": 17297,
       "Completed": 288
     }
   ],
@@ -8962,8 +8967,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2024-01-02T17:58:12.9772324+00:00",
-  "LastChanged_Achievements": "2024-01-02T20:09:19.9988719+00:00",
+  "LastChanged_Achievements": "2024-01-02T21:09:45.9901995+00:00",
   "LastUpdate_AppInfo": "2023-12-30T03:56:51.5051317+00:00",
-  "LastUpdate_Ratings": "2024-01-02T19:57:44.3266433+00:00",
-  "LastUpdate_Achievements": "2024-01-02T20:09:19.9989436+00:00"
+  "LastUpdate_Ratings": "2024-01-02T20:57:45.652504+00:00",
+  "LastUpdate_Achievements": "2024-01-02T21:09:45.9902719+00:00"
 }
