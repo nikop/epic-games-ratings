@@ -2,10 +2,10 @@
   "ID": "4e9703c510444252886ee033a7c01ad6",
   "Name": "NEW Joe and Mac Caveman Ninja",
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
-  "Ranking_EOS_Progress": 399,
-  "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 396,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_Progress": 398,
+  "Ranking_EOS_Completed": 127,
+  "Ranking_EOS_NewPlayers": 383,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
     "PcReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 280,
+  "EOS_Progressed": 282,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.5,
+  "EOS_Completed_Percentage": 2.48,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:18.1728843+00:00",
@@ -671,6 +671,11 @@
       "Time": "2024-01-01T20:04:47.9456249+00:00",
       "NumProgressed": 280,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-02T15:05:11.0257977+00:00",
+      "NumProgressed": 282,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 15,
@@ -682,7 +687,7 @@
       "Name": "The T-Rex plain.",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "02",
@@ -714,7 +719,7 @@
       "Name": "A turbulent river.",
       "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "06",
@@ -730,7 +735,7 @@
       "Name": "Swimming on a dino\u0027s back.",
       "Percentage": 8,
       "XP": 60,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "08",
@@ -801,7 +806,7 @@
     {
       "ID": "6glb5g1",
       "IsBase": true,
-      "Progressed": 280,
+      "Progressed": 282,
       "Completed": 7
     }
   ],
@@ -809,8 +814,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2024-01-02T14:05:28.3728335+00:00",
+  "LastChanged_Achievements": "2024-01-02T15:05:11.0257971+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:56:57.5978328+00:00",
-  "LastUpdate_Ratings": "2024-01-02T13:57:29.1974566+00:00",
-  "LastUpdate_Achievements": "2024-01-02T14:05:28.3728466+00:00"
+  "LastUpdate_Ratings": "2024-01-02T14:57:29.3109375+00:00",
+  "LastUpdate_Achievements": "2024-01-02T15:05:11.0258073+00:00"
 }

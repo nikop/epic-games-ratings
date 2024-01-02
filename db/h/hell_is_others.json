@@ -4,11 +4,11 @@
   "ProductSlug": "hell-is-others-789262",
   "Ranking_Rating": 764,
   "Ranking_Popularity": 438,
-  "Ranking_PopularitySum": 361,
+  "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -1355,10 +1355,16 @@
       "Rating": 4.4,
       "NumberOfAwards": 369,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2024-01-02T14:59:14.4258183+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 370,
+      "NumberOfAwardsMax": 54
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 369,
+  "NumberOfAwards": 370,
   "NumberOfAwardsMax": 54,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1384,7 +1390,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1423,7 +1429,7 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 260119,
+  "EOS_Progressed": 260121,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 315,
   "EOS_NewCompleters": 0,
@@ -26023,6 +26029,11 @@
       "Time": "2024-01-02T14:07:17.1930671+00:00",
       "NumProgressed": 260119,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-02T15:06:59.1034293+00:00",
+      "NumProgressed": 260121,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -26082,7 +26093,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80637
+      "UsersEstimate": 80638
     },
     {
       "ID": "BackHomeNTimes",
@@ -26322,7 +26333,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59827
+      "UsersEstimate": 59828
     },
     {
       "ID": "KillOthers2",
@@ -26481,16 +26492,16 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 260119,
+      "Progressed": 260121,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2024-01-02T09:58:19.1468391+00:00",
-  "LastChanged_Achievements": "2024-01-02T14:07:17.1930666+00:00",
+  "LastChanged": "2024-01-02T14:59:14.4258182+00:00",
+  "LastChanged_Achievements": "2024-01-02T15:06:59.1034291+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:41.7689812+00:00",
-  "LastUpdate_Ratings": "2024-01-02T13:59:14.0248732+00:00",
-  "LastUpdate_Achievements": "2024-01-02T14:07:17.1932462+00:00"
+  "LastUpdate_Ratings": "2024-01-02T14:59:14.4258187+00:00",
+  "LastUpdate_Achievements": "2024-01-02T15:06:59.103559+00:00"
 }

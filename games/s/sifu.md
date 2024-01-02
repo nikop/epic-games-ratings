@@ -1,40 +1,40 @@
 # Sifu
 [Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
-Rating: 4.82 (Ranked 69)  
+Rating: 4.82 (Ranked 68)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 5.00% | ~37,596 |
-| The Assault | 4.00% | ~30,077 |
-| Life is your teacher | 4.00% | ~30,077 |
-| Lightning Hands | 4.00% | ~30,077 |
-| The Hateful Pole Fighter | 2.00% | ~15,039 |
-| A Lady's Blood in the Snow | 2.00% | ~15,039 |
-| Kill Nil | 2.00% | ~15,039 |
-| Stuntmaster | 2.00% | ~15,039 |
-| Street Fighting | 2.00% | ~15,039 |
-| State of constant learning | 2.00% | ~15,039 |
-| Qi Gong: Breath | 2.00% | ~15,039 |
-| Qi Gong: Essence | 2.00% | ~15,039 |
-| Old Child | 2.00% | ~15,039 |
-| Path of the Prospect | 2.00% | ~15,039 |
-| Rumble in the Hangar | 2.00% | ~15,039 |
-| Diligence as a goal | 2.00% | ~1,225 |
-| Lady Wing Chun | 1.00% | ~7,519 |
-| Furious Fists | 1.00% | ~7,519 |
-| Scareless | 1.00% | ~7,519 |
-| Qi Gong: Mind | 1.00% | ~7,519 |
-| I know Kung-Fu | 1.00% | ~7,519 |
-| Kung-Fu Tussle | 1.00% | ~7,519 |
-| Take damage to save time | 1.00% | ~7,519 |
-| Project Arena | 1.00% | ~612 |
-| Dance of the Praying Mantis | 0.90% | ~6,767 |
-| Fight the way you practice | 0.70% | ~429 |
+| The Old Grandmaster | 5.00% | ~37,600 |
+| The Assault | 4.00% | ~30,080 |
+| Life is your teacher | 4.00% | ~30,080 |
+| Lightning Hands | 4.00% | ~30,080 |
+| The Hateful Pole Fighter | 2.00% | ~15,040 |
+| A Lady's Blood in the Snow | 2.00% | ~15,040 |
+| Kill Nil | 2.00% | ~15,040 |
+| Stuntmaster | 2.00% | ~15,040 |
+| Street Fighting | 2.00% | ~15,040 |
+| State of constant learning | 2.00% | ~15,040 |
+| Qi Gong: Breath | 2.00% | ~15,040 |
+| Qi Gong: Essence | 2.00% | ~15,040 |
+| Old Child | 2.00% | ~15,040 |
+| Path of the Prospect | 2.00% | ~15,040 |
+| Rumble in the Hangar | 2.00% | ~15,040 |
+| Diligence as a goal | 2.00% | ~1,226 |
+| Lady Wing Chun | 1.00% | ~7,520 |
+| Furious Fists | 1.00% | ~7,520 |
+| Scareless | 1.00% | ~7,520 |
+| Qi Gong: Mind | 1.00% | ~7,520 |
+| I know Kung-Fu | 1.00% | ~7,520 |
+| Kung-Fu Tussle | 1.00% | ~7,520 |
+| Take damage to save time | 1.00% | ~7,520 |
+| Project Arena | 1.00% | ~613 |
+| Dance of the Praying Mantis | 0.90% | ~6,768 |
+| Fight the way you practice | 0.80% | ~490 |
 | Muk Yan Master | 0.60% | ~4,512 |
 | Detective Story | 0.60% | ~4,512 |
-| Martial Hub | 0.60% | ~367 |
+| Martial Hub | 0.60% | ~368 |
 | Tiger on Fire | 0.50% | ~3,760 |
 | Source of Flying Daggers | 0.50% | ~3,760 |
 | Iron Money | 0.50% | ~3,760 |
@@ -54,11 +54,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Master of the Phoenix Eye Fist | 0.20% | ~1,504 |
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,504 |
 | Be like water my friend | 0.20% | ~1,504 |
-| A Touch of Acumen | 0.20% | ~122 |
-| Crouching Tiger | 0.20% | ~122 |
-| Skill and an even stronger will | 0.20% | ~122 |
-| Master of the Flying Assassins | 0.20% | ~122 |
-| Beatmaker | 0.20% | ~122 |
+| A Touch of Acumen | 0.20% | ~123 |
+| Crouching Tiger | 0.20% | ~123 |
+| Skill and an even stronger will | 0.20% | ~123 |
+| Master of the Flying Assassins | 0.20% | ~123 |
+| Beatmaker | 0.20% | ~123 |
 | Warriors from the Mountain | 0.10% | ~752 |
 | Secure, Protect, Leave | 0.10% | ~61 |
 | Hidden Dragon | 0.10% | ~61 |
@@ -67,8 +67,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~61 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 751,929 (Ranked 23)  
-Completed: 12,971 (1.73%) (Ranked 142)  
+Progressed: 751,993 (Ranked 23)  
+Completed: 12,971 (1.72%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -324,7 +324,7 @@ Completed: 12,971 (1.73%) (Ranked 142)
 | 2023-12-30 | 749,350 | 12,969 |
 | 2023-12-31 | 750,399 | 12,971 |
 | 2024-01-01 | 751,425 | 12,971 |
-| 2024-01-02 | 751,929 | 12,971 |
+| 2024-01-02 | 751,993 | 12,971 |
 ## Awards
 Max (Great Boss Battles): 7,079  (Ranked 55)  
 Sum: 11,978 (Ranked 87)  

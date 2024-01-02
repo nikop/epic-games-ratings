@@ -1,22 +1,22 @@
 # RIDE 5
 [Store](https://store.epicgames.com/en-US/p/ride-5)  
 [View Rawdata](../../db/r/ride_5.json)  
-Rating: 4.52 (Ranked 573)  
+Rating: 4.52 (Ranked 574)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 48.00% | ~1,541 |
-| First Love | 45.00% | ~1,445 |
-| Clean Race | 44.00% | ~1,413 |
-| Hear That Roar! | 41.00% | ~1,317 |
-| Bitter Rivalry | 30.00% | ~963 |
-| Rivals to the End | 30.00% | ~963 |
-| Champagne Spray | 28.00% | ~899 |
-| We're Going to Need a Bigger Garage | 26.00% | ~835 |
-| Quick Pit Stop | 22.00% | ~706 |
-| Restored and Ready | 20.00% | ~642 |
-| I Want One Too! | 20.00% | ~642 |
-| Legendary!!! | 20.00% | ~642 |
+| Eat My Dust | 48.00% | ~1,543 |
+| First Love | 45.00% | ~1,446 |
+| Clean Race | 44.00% | ~1,414 |
+| Hear That Roar! | 41.00% | ~1,318 |
+| Bitter Rivalry | 30.00% | ~964 |
+| Rivals to the End | 30.00% | ~964 |
+| Champagne Spray | 28.00% | ~900 |
+| We're Going to Need a Bigger Garage | 26.00% | ~836 |
+| Quick Pit Stop | 22.00% | ~707 |
+| Restored and Ready | 20.00% | ~643 |
+| I Want One Too! | 20.00% | ~643 |
+| Legendary!!! | 20.00% | ~643 |
 | Go-Faster Stripes | 17.00% | ~546 |
 | I'm Here Too! | 15.00% | ~482 |
 | We've Just Begun | 14.00% | ~450 |
@@ -24,8 +24,8 @@ Rating: 4.52 (Ranked 573)
 | Stamina Star | 8.00% | ~257 |
 | Evangelist | 7.00% | ~225 |
 | Make It Your Own! | 5.00% | ~161 |
-| Cherry Blossom and Temples | 4.00% | ~128 |
-| The Road to Liberty | 4.00% | ~128 |
+| Cherry Blossom and Temples | 4.00% | ~129 |
+| The Road to Liberty | 4.00% | ~129 |
 | Spoilt for Choice | 3.00% | ~96 |
 | La Dolce Vita | 3.00% | ~96 |
 | Romantic Races | 3.00% | ~96 |
@@ -55,7 +55,7 @@ Rating: 4.52 (Ranked 573)
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,211 (Ranked 223)  
+Progressed: 3,214 (Ranked 223)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-30 | 3,132 | 0 |
 | 2023-12-31 | 3,170 | 0 |
 | 2024-01-01 | 3,195 | 0 |
-| 2024-01-02 | 3,211 | 0 |
+| 2024-01-02 | 3,214 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

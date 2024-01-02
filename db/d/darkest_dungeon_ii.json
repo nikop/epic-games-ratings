@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10428,7 +10428,7 @@
       "Count": 1074
     }
   ],
-  "EOS_Progressed": 131289,
+  "EOS_Progressed": 131300,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 1316,
   "EOS_NewCompleters": 0,
@@ -37983,6 +37983,11 @@
       "Time": "2024-01-02T14:10:43.2344806+00:00",
       "NumProgressed": 131289,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-02T15:10:23.1810177+00:00",
+      "NumProgressed": 131300,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38002,7 +38007,7 @@
       "Name": "Serenity Now!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6564
+      "UsersEstimate": 6565
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -38122,7 +38127,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7877
+      "UsersEstimate": 7878
     },
     {
       "ID": "combat_kill_cadavers",
@@ -38154,7 +38159,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6564
+      "UsersEstimate": 6565
     },
     {
       "ID": "combat_kill_fanatics",
@@ -38210,7 +38215,7 @@
       "Name": "Catch and Decease",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6564
+      "UsersEstimate": 6565
     },
     {
       "ID": "combat_kill_librarian",
@@ -38218,7 +38223,7 @@
       "Name": "Overdue Notice",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6564
+      "UsersEstimate": 6565
     },
     {
       "ID": "combat_kill_pillagers",
@@ -38234,7 +38239,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6564
+      "UsersEstimate": 6565
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -38346,7 +38351,7 @@
       "Name": "Autodidact",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7877
+      "UsersEstimate": 7878
     },
     {
       "ID": "hero_story_complete_all",
@@ -38522,7 +38527,7 @@
       "Name": "Ma\u00EEtre De La Lame",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "combat_kill_chirurgeon",
@@ -38530,7 +38535,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "combat_kill_collector",
@@ -38538,7 +38543,7 @@
       "Name": "This guy... again?",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -38594,7 +38599,7 @@
       "Name": "Lost and Found",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -38602,7 +38607,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -38625,21 +38630,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131289,
+      "Progressed": 131300,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6158,
+      "Progressed": 6169,
       "Completed": 820
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-02T11:58:37.3333223+00:00",
-  "LastChanged_Achievements": "2024-01-02T14:10:43.2344802+00:00",
+  "LastChanged_Achievements": "2024-01-02T15:10:23.1810175+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-02T13:59:40.4276778+00:00",
-  "LastUpdate_Achievements": "2024-01-02T14:10:43.2346634+00:00"
+  "LastUpdate_Ratings": "2024-01-02T14:59:39.6326227+00:00",
+  "LastUpdate_Achievements": "2024-01-02T15:10:23.1811937+00:00"
 }

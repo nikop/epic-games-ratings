@@ -10,8 +10,8 @@
 | A kind of Magic | 75.00% | ~82 |
 | Connected | 69.00% | ~75 |
 | Expansion | 63.00% | ~69 |
+| Mine! | 59.00% | ~64 |
 | Harvest Time | 58.00% | ~63 |
-| Mine! | 58.00% | ~63 |
 | Artificer's Apprentice | 50.00% | ~54 |
 | Fly the friendly Sky | 46.00% | ~50 |
 | Get out of here! | 44.00% | ~48 |
@@ -42,11 +42,11 @@
 | Friend of Windholme | 10.00% | ~11 |
 | Yngrid's Tale | 9.00% | ~10 |
 | A Joke | 9.00% | ~10 |
+| The Forge of Regan Gor | 8.00% | ~9 |
 | Friend of Uram Gor | 8.00% | ~9 |
 | Defeat Hokan | 7.00% | ~8 |
 | Defeat Raith | 7.00% | ~8 |
 | Defeat Uram | 7.00% | ~8 |
-| The Forge of Regan Gor | 7.00% | ~8 |
 | A Monopoly of Might | 7.00% | ~8 |
 | Balanced | 7.00% | ~8 |
 | Get to the Airship! | 6.00% | ~7 |

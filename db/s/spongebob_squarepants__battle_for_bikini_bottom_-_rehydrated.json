@@ -5,8 +5,8 @@
   "Ranking_Rating": 321,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 526,
-  "Ranking_EOS_Progress": 327,
-  "Ranking_EOS_Completed": 178,
+  "Ranking_EOS_Progress": 326,
+  "Ranking_EOS_Completed": 179,
   "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
@@ -329,11 +329,11 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 647,
+  "EOS_Progressed": 650,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 245,
+  "EOS_NewPlayers": 247,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 0.93,
+  "EOS_Completed_Percentage": 0.92,
   "EosHistory": [
     {
       "Time": "2023-12-18T11:05:17.4237079+00:00",
@@ -1759,6 +1759,11 @@
       "Time": "2024-01-02T14:04:51.6860758+00:00",
       "NumProgressed": 647,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-02T15:04:35.5418329+00:00",
+      "NumProgressed": 650,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1849,9 +1854,9 @@
       "ID": "ACH_JELLYFISH_JAM",
       "SetID": "biiejkc",
       "Name": "Jellyfish Jam",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 104
     },
     {
       "ID": "ACH_KELP_FOREST",
@@ -1859,7 +1864,7 @@
       "Name": "Kelp Forest of Fear",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_MERMALAIR",
@@ -1883,7 +1888,7 @@
       "Name": "Toxic Terror",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_ROBO_SANDY_BOSS",
@@ -1915,7 +1920,7 @@
       "Name": "Sleepy Time",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_SOCK_CONCERT",
@@ -1979,7 +1984,7 @@
       "Name": "Spatula Seeker",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -1987,7 +1992,7 @@
       "Name": "Sponge Smasher",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
@@ -2017,24 +2022,24 @@
       "ID": "ACH_TIME_FOR_TUTORIAL",
       "SetID": "biiejkc",
       "Name": "Time For Tutorial",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 65
     }
   ],
   "AchievementSets": [
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 647,
+      "Progressed": 650,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-01T20:58:26.8279253+00:00",
-  "LastChanged_Achievements": "2024-01-02T14:04:51.686075+00:00",
+  "LastChanged_Achievements": "2024-01-02T15:04:35.5418326+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:11.8880921+00:00",
-  "LastUpdate_Ratings": "2024-01-02T13:59:51.2731627+00:00",
-  "LastUpdate_Achievements": "2024-01-02T14:04:51.6861031+00:00"
+  "LastUpdate_Ratings": "2024-01-02T14:59:49.8915638+00:00",
+  "LastUpdate_Achievements": "2024-01-02T15:04:35.5418606+00:00"
 }

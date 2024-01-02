@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -400,7 +400,7 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5200,
+  "EOS_Progressed": 5202,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
@@ -4565,6 +4565,11 @@
       "Time": "2024-01-02T14:05:11.7024538+00:00",
       "NumProgressed": 5200,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-02T15:04:55.1456655+00:00",
+      "NumProgressed": 5202,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -4576,7 +4581,7 @@
       "Name": "P.A.X",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1924
+      "UsersEstimate": 1925
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -4624,7 +4629,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4368
+      "UsersEstimate": 4370
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -4632,7 +4637,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4888
+      "UsersEstimate": 4890
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -4640,7 +4645,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3952
+      "UsersEstimate": 3954
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -4648,7 +4653,7 @@
       "Name": "Hey Listen",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1872
+      "UsersEstimate": 1873
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -4792,7 +4797,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3952
+      "UsersEstimate": 3954
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -4824,7 +4829,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 2808
+      "UsersEstimate": 2809
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -4840,7 +4845,7 @@
       "Name": "Most Wanted",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1352
+      "UsersEstimate": 1353
     },
     {
       "ID": "ID_ACHIEV_36",
@@ -4856,7 +4861,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1716
+      "UsersEstimate": 1717
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -4920,7 +4925,7 @@
       "Name": "OPERATOR",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1820
+      "UsersEstimate": 1821
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -5054,17 +5059,17 @@
       "ID": "ID_ACHIEV_62",
       "SetID": "98bke8c",
       "Name": "Suited and Booted",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 36
     },
     {
       "ID": "ID_ACHIEV_63",
       "SetID": "98bke8c",
       "Name": "Tools of War",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 36
     },
     {
       "ID": "ID_ACHIEV_64",
@@ -5111,15 +5116,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5200,
+      "Progressed": 5202,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-31T19:58:10.5906343+00:00",
-  "LastChanged_Achievements": "2024-01-02T14:05:11.702453+00:00",
+  "LastChanged_Achievements": "2024-01-02T15:04:55.1456652+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:44.5404504+00:00",
-  "LastUpdate_Ratings": "2024-01-02T13:59:27.3459412+00:00",
-  "LastUpdate_Achievements": "2024-01-02T14:05:11.7025374+00:00"
+  "LastUpdate_Ratings": "2024-01-02T14:59:27.2018227+00:00",
+  "LastUpdate_Achievements": "2024-01-02T15:04:55.145727+00:00"
 }

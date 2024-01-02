@@ -6,16 +6,16 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 12.00% | ~739 |
-| Lost and Found | 8.00% | ~493 |
-| This Belongs in a Museum | 6.00% | ~7,877 |
-| Autodidact | 6.00% | ~7,877 |
-| This guy... again? | 6.00% | ~369 |
-| Serenity Now! | 5.00% | ~6,564 |
-| Creep and Sleep | 5.00% | ~6,564 |
-| Catch and Decease | 5.00% | ~6,564 |
-| Overdue Notice | 5.00% | ~6,564 |
-| Escape from the Black Hole | 5.00% | ~6,564 |
+| Malpractice Assurance | 12.00% | ~740 |
+| Lost and Found | 8.00% | ~494 |
+| This Belongs in a Museum | 6.00% | ~7,878 |
+| Autodidact | 6.00% | ~7,878 |
+| This guy... again? | 6.00% | ~370 |
+| Serenity Now! | 5.00% | ~6,565 |
+| Creep and Sleep | 5.00% | ~6,565 |
+| Catch and Decease | 5.00% | ~6,565 |
+| Overdue Notice | 5.00% | ~6,565 |
+| Escape from the Black Hole | 5.00% | ~6,565 |
 | Ploughshares to Swords | 5.00% | ~308 |
 | Bloody Graduation | 5.00% | ~308 |
 | Don't Make Me Turn This Coach Around | 4.00% | ~5,252 |
@@ -31,7 +31,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 4.00% | ~5,252 |
 | FNG | 4.00% | ~5,252 |
 | Nope | 4.00% | ~5,252 |
-| Friends 'Til the End | 4.00% | ~246 |
+| Friends 'Til the End | 4.00% | ~247 |
 | Resurrection | 3.00% | ~3,939 |
 | Unleash Hell | 3.00% | ~3,939 |
 | Funny Guy | 3.00% | ~3,939 |
@@ -76,7 +76,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Eidetic | 0.40% | ~525 |
 | Battle Hardened | 0.40% | ~25 |
 | Tears in the Rain | 0.30% | ~394 |
-| Maître De La Lame | 0.30% | ~18 |
+| Maître De La Lame | 0.30% | ~19 |
 | Circle of Life | 0.20% | ~263 |
 | Grand Slam | 0.20% | ~263 |
 | Loop Year | 0.10% | ~131 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,289 (Ranked 90)  
+Progressed: 131,300 (Ranked 90)  
 Completed: 3 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,7 +333,7 @@ Completed: 3 (0.00%) (Ranked 390)
 | 2023-12-30 | 130,838 | 3 |
 | 2023-12-31 | 131,026 | 3 |
 | 2024-01-01 | 131,206 | 3 |
-| 2024-01-02 | 131,289 | 3 |
+| 2024-01-02 | 131,300 | 3 |
 ## Awards
 Max (Character Customization): 7,927  (Ranked 50)  
 Sum: 21,347 (Ranked 58)  

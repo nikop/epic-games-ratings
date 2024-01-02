@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -450,7 +450,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 933,
+  "EOS_Progressed": 934,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 0,
@@ -3345,6 +3345,11 @@
       "Time": "2024-01-02T13:12:43.7719614+00:00",
       "NumProgressed": 933,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T15:09:39.0281751+00:00",
+      "NumProgressed": 934,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3459,17 +3464,17 @@
       "ID": "DamageThreshold",
       "SetID": "71c0n9i",
       "Name": "Critical Hit",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 205
     },
     {
       "ID": "Deepstrike",
       "SetID": "71c0n9i",
       "Name": "Deepstrike",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 9
     },
     {
       "ID": "DieByTheBow",
@@ -3603,9 +3608,9 @@
       "ID": "RanaCampaign",
       "SetID": "71c0n9i",
       "Name": "From the Ashes",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 9
     },
     {
       "ID": "RanaCampaignFinaleOnHard",
@@ -3659,9 +3664,9 @@
       "ID": "TownCompletion",
       "SetID": "71c0n9i",
       "Name": "Landlord Extraordinaire",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 65
     },
     {
       "ID": "TrojanHorse",
@@ -3685,7 +3690,7 @@
       "Name": "Adept",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "WielderLevel2",
@@ -3788,15 +3793,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 933,
+      "Progressed": 934,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2024-01-02T14:09:58.5165694+00:00",
+  "LastChanged_Achievements": "2024-01-02T15:09:39.0281747+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:53.9356991+00:00",
-  "LastUpdate_Ratings": "2024-01-02T13:57:36.3822035+00:00",
-  "LastUpdate_Achievements": "2024-01-02T14:09:58.5166174+00:00"
+  "LastUpdate_Ratings": "2024-01-02T14:57:35.8893032+00:00",
+  "LastUpdate_Achievements": "2024-01-02T15:09:39.0282581+00:00"
 }

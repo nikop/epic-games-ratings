@@ -495,7 +495,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3809,
+  "EOS_Progressed": 3810,
   "EOS_Completed": 142,
   "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 2,
@@ -6615,6 +6615,11 @@
       "Time": "2024-01-02T14:09:12.8727674+00:00",
       "NumProgressed": 3809,
       "NumCompleted": 142
+    },
+    {
+      "Time": "2024-01-02T15:08:53.147989+00:00",
+      "NumProgressed": 3810,
+      "NumCompleted": 142
     }
   ],
   "TotalAchievements": 14,
@@ -6626,7 +6631,7 @@
       "Name": "Ancient Curse",
       "Percentage": 27,
       "XP": 80,
-      "UsersEstimate": 1028
+      "UsersEstimate": 1029
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -6634,7 +6639,7 @@
       "Name": "Case Closed",
       "Percentage": 35,
       "XP": 55,
-      "UsersEstimate": 1333
+      "UsersEstimate": 1334
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -6714,7 +6719,7 @@
       "Name": "Shovel Night",
       "Percentage": 36,
       "XP": 55,
-      "UsersEstimate": 1371
+      "UsersEstimate": 1372
     },
     {
       "ID": "ACH_TREASURE_HUNT",
@@ -6730,14 +6735,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 79,
       "XP": 35,
-      "UsersEstimate": 3009
+      "UsersEstimate": 3010
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3809,
+      "Progressed": 3810,
       "Completed": 142
     }
   ],
@@ -6745,8 +6750,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-12-29T23:00:02.814442+00:00",
-  "LastChanged_Achievements": "2024-01-02T14:09:12.8727669+00:00",
+  "LastChanged_Achievements": "2024-01-02T15:08:53.1479886+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:02.885587+00:00",
-  "LastUpdate_Ratings": "2024-01-02T14:03:30.7498502+00:00",
-  "LastUpdate_Achievements": "2024-01-02T14:09:12.8728194+00:00"
+  "LastUpdate_Ratings": "2024-01-02T15:03:15.6192127+00:00",
+  "LastUpdate_Achievements": "2024-01-02T15:08:53.1480335+00:00"
 }

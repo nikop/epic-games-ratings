@@ -14,7 +14,7 @@
 | Dispel Rumors | 38.00% | ~24 |
 | Final Showdown | 36.00% | ~23 |
 | The End of an Outlaw | 36.00% | ~23 |
-| Demon Slayer | 33.00% | ~21 |
+| Demon Slayer | 34.00% | ~22 |
 | Steal Her Away | 31.00% | ~20 |
 | Sewer Rat | 30.00% | ~19 |
 | Fight Fire With Fire | 30.00% | ~19 |
@@ -28,11 +28,11 @@
 | The Hero of the People | 17.00% | ~11 |
 | Talk to the Fist | 14.00% | ~9 |
 | Collector | 11.00% | ~7 |
-| Taoist | 8.00% | ~5 |
-| The Legend | 6.00% | ~4 |
+| Taoist | 9.00% | ~6 |
+| The Legend | 8.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 64 (Ranked 525)  
-Completed: 4 (6.25%) (Ranked 65)  
+Completed: 5 (7.81%) (Ranked 50)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -78,7 +78,7 @@ Completed: 4 (6.25%) (Ranked 65)
 | 2023-12-30 | 56 | 4 |
 | 2023-12-31 | 61 | 4 |
 | 2024-01-01 | 62 | 4 |
-| 2024-01-02 | 64 | 4 |
+| 2024-01-02 | 64 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

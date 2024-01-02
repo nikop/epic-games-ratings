@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 10,
   "Ranking_EOS_NewPlayers": 475,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
     "PcReleaseDate": "2022-09-30T08:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 230,
-  "EOS_Completed": 88,
+  "EOS_Completed": 89,
   "EOS_NewPlayers": 3,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 38.26,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 38.7,
   "EosHistory": [
     {
       "Time": "2023-05-08T15:02:14.2317541+00:00",
@@ -1359,6 +1359,11 @@
       "Time": "2024-01-02T13:11:54.1420632+00:00",
       "NumProgressed": 230,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2024-01-02T15:08:30.7186245+00:00",
+      "NumProgressed": 230,
+      "NumCompleted": 89
     }
   ],
   "TotalAchievements": 18,
@@ -1448,9 +1453,9 @@
       "ID": "Liberator",
       "SetID": "b7i210",
       "Name": "Liberator",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 113
+      "UsersEstimate": 115
     },
     {
       "ID": "Peacemaker",
@@ -1514,13 +1519,13 @@
       "ID": "b7i210",
       "IsBase": true,
       "Progressed": 230,
-      "Completed": 88
+      "Completed": 89
     }
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2024-01-02T14:08:49.9471697+00:00",
+  "LastChanged_Achievements": "2024-01-02T15:08:30.7186243+00:00",
   "LastUpdate_AppInfo": "2024-01-02T09:56:59.9220991+00:00",
-  "LastUpdate_Ratings": "2024-01-02T13:59:45.0900652+00:00",
-  "LastUpdate_Achievements": "2024-01-02T14:08:49.947185+00:00"
+  "LastUpdate_Ratings": "2024-01-02T14:59:43.9898978+00:00",
+  "LastUpdate_Achievements": "2024-01-02T15:08:30.7186411+00:00"
 }

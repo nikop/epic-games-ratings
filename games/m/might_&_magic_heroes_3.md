@@ -1,12 +1,12 @@
 # Might & Magic Heroes 3
 [Store](https://store.epicgames.com/en-US/p/might-and-magic-heroes-3)  
 [View Rawdata](../../db/m/might_&_magic_heroes_3.json)  
-Rating: 4.82 (Ranked 69)  
+Rating: 4.82 (Ranked 68)  
 Number of Ratings: 165  (23.09.2022)  
 ## Awards
-Max (Character Customization): 249  (Ranked 278)  
+Max (Character Customization): 249  (Ranked 279)  
 Sum: 955 (Ranked 276)  
-Diff (max vs sum): 2  
+Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 249 |

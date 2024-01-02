@@ -61,13 +61,13 @@ Rating: 4.70 (Ranked 216)
 | Mirror, Mirror | 16.00% | ~111 |
 | Untouchable | 16.00% | ~111 |
 | Heal Heal Blessing | 16.00% | ~111 |
-| Laser Eyes Are So Useless | 13.00% | ~90 |
+| Laser Eyes Are So Useless | 14.00% | ~97 |
 | Hands Off My Stones | 13.00% | ~90 |
 | Gorgu is in the Best of Health | 12.00% | ~83 |
 | No Mana, No Cry | 10.00% | ~69 |
 | I Don't Need Any Help | 10.00% | ~69 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 691 (Ranked 314)  
+Progressed: 691 (Ranked 315)  
 Completed: 27 (3.91%) (Ranked 91)  
 ## EOS Players History
 | Date | Progressed | Completed |

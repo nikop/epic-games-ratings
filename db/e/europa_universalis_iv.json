@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -13977,9 +13977,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 490295,
+  "EOS_Progressed": 490349,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5782,
+  "EOS_NewPlayers": 5784,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -43612,6 +43612,11 @@
       "Time": "2024-01-02T14:10:27.124388+00:00",
       "NumProgressed": 490295,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-02T15:10:07.4360647+00:00",
+      "NumProgressed": 490349,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -44623,7 +44628,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2451
+      "UsersEstimate": 2452
     },
     {
       "ID": "achievement_grand_coalition",
@@ -46287,7 +46292,7 @@
       "Name": "Until death do us apart",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2451
+      "UsersEstimate": 2452
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -46526,21 +46531,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 490295,
+      "Progressed": 490349,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 490295,
+      "Progressed": 490349,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2024-01-02T13:04:09.475129+00:00",
-  "LastChanged_Achievements": "2024-01-02T14:10:27.1243877+00:00",
+  "LastChanged_Achievements": "2024-01-02T15:10:07.4360644+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:39.2428149+00:00",
-  "LastUpdate_Ratings": "2024-01-02T14:02:25.4910727+00:00",
-  "LastUpdate_Achievements": "2024-01-02T14:10:27.1257+00:00"
+  "LastUpdate_Ratings": "2024-01-02T15:02:48.922308+00:00",
+  "LastUpdate_Achievements": "2024-01-02T15:10:07.4371663+00:00"
 }

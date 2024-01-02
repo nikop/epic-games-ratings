@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
     "PcReleaseDate": "2020-11-17T18:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1888,
+  "EOS_Progressed": 1889,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 298,
+  "EOS_NewPlayers": 294,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -3515,6 +3515,11 @@
       "Time": "2024-01-02T14:11:06.8036992+00:00",
       "NumProgressed": 1888,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-02T15:10:46.4017304+00:00",
+      "NumProgressed": 1889,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 15,
@@ -3526,7 +3531,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 1850
+      "UsersEstimate": 1851
     },
     {
       "ID": "booty_call",
@@ -3534,7 +3539,7 @@
       "Name": "Booty Call",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "crash_and_burn",
@@ -3550,7 +3555,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 1812
+      "UsersEstimate": 1813
     },
     {
       "ID": "hold_my_beer",
@@ -3566,7 +3571,7 @@
       "Name": "In Contempt of Duvet",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "interrogation",
@@ -3590,7 +3595,7 @@
       "Name": "Not Alone",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "nueva_beginnings",
@@ -3645,7 +3650,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 1888,
+      "Progressed": 1889,
       "Completed": 12
     }
   ],
@@ -3653,8 +3658,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2024-01-02T14:11:06.8036987+00:00",
+  "LastChanged_Achievements": "2024-01-02T15:10:46.4017298+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:27.9788979+00:00",
-  "LastUpdate_Ratings": "2024-01-02T14:01:34.1331441+00:00",
-  "LastUpdate_Achievements": "2024-01-02T14:11:06.8037275+00:00"
+  "LastUpdate_Ratings": "2024-01-02T15:01:29.7765675+00:00",
+  "LastUpdate_Achievements": "2024-01-02T15:10:46.4017609+00:00"
 }

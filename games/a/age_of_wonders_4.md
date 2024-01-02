@@ -9,7 +9,7 @@ Rating: 4.62 (Ranked 375)
 | Realm Estate | 12.00% | ~806 |
 | A Wonderful Discovery | 11.00% | ~739 |
 | Walls Cannot Stop Us | 11.00% | ~739 |
-| From Friends to Family | 9.00% | ~604 |
+| From Friends to Family | 9.00% | ~605 |
 | Bone Peddler | 8.00% | ~537 |
 | Magical Synergy | 7.00% | ~470 |
 | There Can Only Be One! | 6.00% | ~403 |
@@ -22,13 +22,13 @@ Rating: 4.62 (Ranked 375)
 | But this one is mine | 5.00% | ~336 |
 | Return of the Wizard King | 4.00% | ~269 |
 | My Final Form | 4.00% | ~269 |
-| Enchanted Archipelago | 3.00% | ~201 |
-| Digging for Treasure | 3.00% | ~201 |
-| Preparation Is Everything | 3.00% | ~201 |
-| Fiery Friend | 3.00% | ~201 |
-| Against the Odds | 3.00% | ~201 |
-| Impenetrable Fortress | 3.00% | ~201 |
-| Freed Lands of Manuhari | 3.00% | ~201 |
+| Enchanted Archipelago | 3.00% | ~202 |
+| Digging for Treasure | 3.00% | ~202 |
+| Preparation Is Everything | 3.00% | ~202 |
+| Fiery Friend | 3.00% | ~202 |
+| Against the Odds | 3.00% | ~202 |
+| Impenetrable Fortress | 3.00% | ~202 |
+| Freed Lands of Manuhari | 3.00% | ~202 |
 | Arch Mage | 2.00% | ~134 |
 | The Creator | 2.00% | ~134 |
 | Crimson Caldera | 2.00% | ~134 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 375)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,716 (Ranked 195)  
+Progressed: 6,718 (Ranked 195)  
 Completed: 7 (0.10%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 7 (0.10%) (Ranked 304)
 | 2023-12-30 | 6,566 | 7 |
 | 2023-12-31 | 6,624 | 7 |
 | 2024-01-01 | 6,687 | 7 |
-| 2024-01-02 | 6,716 | 7 |
+| 2024-01-02 | 6,718 | 7 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 477)  
 Sum: 206 (Ranked 409)  

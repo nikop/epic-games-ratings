@@ -6,16 +6,16 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,888 |
-| I'll Be Back | 84.00% | ~4,368 |
-| Sorry, I Dropped This | 76.00% | ~3,952 |
-| First Day on the Job | 76.00% | ~3,952 |
-| Butcher's Bill | 54.00% | ~2,808 |
-| P.A.X | 37.00% | ~1,924 |
-| Hey Listen | 36.00% | ~1,872 |
-| OPERATOR | 35.00% | ~1,820 |
-| It's Blue Light | 33.00% | ~1,716 |
-| Most Wanted | 26.00% | ~1,352 |
+| On My Own Two Feet | 94.00% | ~4,890 |
+| I'll Be Back | 84.00% | ~4,370 |
+| Sorry, I Dropped This | 76.00% | ~3,954 |
+| First Day on the Job | 76.00% | ~3,954 |
+| Butcher's Bill | 54.00% | ~2,809 |
+| P.A.X | 37.00% | ~1,925 |
+| Hey Listen | 36.00% | ~1,873 |
+| OPERATOR | 35.00% | ~1,821 |
+| It's Blue Light | 33.00% | ~1,717 |
+| Most Wanted | 26.00% | ~1,353 |
 | Infidel | 23.00% | ~1,196 |
 | GOLIATH | 21.00% | ~1,092 |
 | Firebug | 20.00% | ~1,040 |
@@ -68,13 +68,13 @@ Number of Ratings: 62  (23.09.2022)
 | Gramophone Enthusiast | 2.00% | ~104 |
 | Bling-Bling | 1.00% | ~52 |
 | Sniffing Around | 0.80% | ~42 |
-| Suited and Booted | 0.80% | ~42 |
-| Tools of War | 0.80% | ~42 |
 | Modus Operandi | 0.70% | ~36 |
+| Suited and Booted | 0.70% | ~36 |
+| Tools of War | 0.70% | ~36 |
 | Brave New World | 0.60% | ~31 |
 | The Surge | 0.40% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,200 (Ranked 203)  
+Progressed: 5,202 (Ranked 203)  
 Completed: 18 (0.35%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 18 (0.35%) (Ranked 239)
 | 2023-12-30 | 5,146 | 18 |
 | 2023-12-31 | 5,169 | 18 |
 | 2024-01-01 | 5,186 | 18 |
-| 2024-01-02 | 5,200 | 18 |
+| 2024-01-02 | 5,202 | 18 |
 ## Awards
 Max (Great Boss Battles): 30  (Ranked 517)  
 Sum: 30 (Ranked 537)  

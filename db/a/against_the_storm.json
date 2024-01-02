@@ -2,7 +2,7 @@
   "ID": "93eeeab14a3d45b8bf5586a900137733",
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
-  "Ranking_Rating": 69,
+  "Ranking_Rating": 68,
   "Ranking_Popularity": 229,
   "Ranking_PopularitySum": 177,
   "Ranking_EOS_Progress": 152,
@@ -3737,9 +3737,9 @@
       "Count": 338
     }
   ],
-  "EOS_Progressed": 19960,
+  "EOS_Progressed": 19963,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 663,
+  "EOS_NewPlayers": 662,
   "EOS_NewCompleters": -5,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -18132,6 +18132,11 @@
       "Time": "2024-01-02T14:06:04.7433522+00:00",
       "NumProgressed": 19960,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2024-01-02T15:05:47.0423925+00:00",
+      "NumProgressed": 19963,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -18360,7 +18365,7 @@
       "Name": "Royal Outpost",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     },
     {
       "ID": "WinNearRuins",
@@ -18615,15 +18620,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19960,
+      "Progressed": 19963,
       "Completed": 33
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-02T10:58:23.8954365+00:00",
-  "LastChanged_Achievements": "2024-01-02T14:06:04.7433517+00:00",
+  "LastChanged_Achievements": "2024-01-02T15:05:47.0423921+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:03.5085053+00:00",
-  "LastUpdate_Ratings": "2024-01-02T13:58:58.8083383+00:00",
-  "LastUpdate_Achievements": "2024-01-02T14:06:04.7434867+00:00"
+  "LastUpdate_Ratings": "2024-01-02T14:58:58.1870111+00:00",
+  "LastUpdate_Achievements": "2024-01-02T15:05:47.0424824+00:00"
 }

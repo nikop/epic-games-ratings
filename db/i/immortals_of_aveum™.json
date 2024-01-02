@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -385,7 +385,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2507,
+  "EOS_Progressed": 2509,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 569,
   "EOS_NewCompleters": 0,
@@ -4115,6 +4115,11 @@
       "Time": "2024-01-02T14:11:02.8020229+00:00",
       "NumProgressed": 2507,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-02T15:10:42.5100586+00:00",
+      "NumProgressed": 2509,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -4127,7 +4132,7 @@
       "Name": "Unforeseen",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 2206
+      "UsersEstimate": 2208
     },
     {
       "ID": "achievement_10",
@@ -4135,7 +4140,7 @@
       "Name": "Control is an Illusion",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "achievement_11",
@@ -4215,7 +4220,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 2031
+      "UsersEstimate": 2032
     },
     {
       "ID": "achievement_20",
@@ -4271,7 +4276,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1730
+      "UsersEstimate": 1731
     },
     {
       "ID": "achievement_36",
@@ -4303,7 +4308,7 @@
       "Name": "No More Names",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1279
+      "UsersEstimate": 1280
     },
     {
       "ID": "achievement_41",
@@ -4335,7 +4340,7 @@
       "Name": "Periapt Cerulean",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "achievement_45",
@@ -4351,7 +4356,7 @@
       "Name": "Periapt Viridian",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "achievement_48",
@@ -4359,7 +4364,7 @@
       "Name": "Enlisted",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 1855
+      "UsersEstimate": 1857
     },
     {
       "ID": "achievement_49",
@@ -4423,7 +4428,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "achievement_60",
@@ -4461,9 +4466,9 @@
       "ID": "achievement_66",
       "SetID": "18al4io",
       "Name": "Backtracker",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "achievement_67",
@@ -4471,7 +4476,7 @@
       "Name": "Good Boy",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "achievement_7",
@@ -4495,14 +4500,14 @@
       "Name": "Beggars Would Ride",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 2507,
+      "Progressed": 2509,
       "Completed": 2
     }
   ],
@@ -4510,8 +4515,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-02T02:58:05.5734129+00:00",
-  "LastChanged_Achievements": "2024-01-02T14:11:02.8020223+00:00",
+  "LastChanged_Achievements": "2024-01-02T15:10:42.5100582+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.4007279+00:00",
-  "LastUpdate_Ratings": "2024-01-02T13:59:05.767389+00:00",
-  "LastUpdate_Achievements": "2024-01-02T14:11:02.8020994+00:00"
+  "LastUpdate_Ratings": "2024-01-02T14:59:05.0762602+00:00",
+  "LastUpdate_Achievements": "2024-01-02T15:10:42.5101216+00:00"
 }

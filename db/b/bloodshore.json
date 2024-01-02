@@ -4,8 +4,8 @@
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 404,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 396,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
     "PcReleaseDate": "2021-11-03T17:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 261,
+  "EOS_Progressed": 262,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.3,
+  "EOS_Completed_Percentage": 2.29,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:37.2601776+00:00",
@@ -655,6 +655,11 @@
       "Time": "2024-01-02T09:08:21.890192+00:00",
       "NumProgressed": 261,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-02T15:08:41.7090322+00:00",
+      "NumProgressed": 262,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 17,
@@ -682,7 +687,7 @@
       "Name": "Congratulations, you are a sadist",
       "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "deathlooper",
@@ -728,9 +733,9 @@
       "ID": "mikey_lizard",
       "SetID": "84ad177",
       "Name": "Mikey Lizard",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "mission_complete",
@@ -792,16 +797,16 @@
       "ID": "used_to_think_i_was_indecisive",
       "SetID": "84ad177",
       "Name": "I used to think I was indecisive...",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     }
   ],
   "AchievementSets": [
     {
       "ID": "84ad177",
       "IsBase": true,
-      "Progressed": 261,
+      "Progressed": 262,
       "Completed": 6
     }
   ],
@@ -809,8 +814,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2024-01-02T14:09:01.1540937+00:00",
+  "LastChanged_Achievements": "2024-01-02T15:08:41.7090317+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:34.3380666+00:00",
-  "LastUpdate_Ratings": "2024-01-02T14:04:07.9051652+00:00",
-  "LastUpdate_Achievements": "2024-01-02T14:09:01.1541242+00:00"
+  "LastUpdate_Ratings": "2024-01-02T15:03:52.8147704+00:00",
+  "LastUpdate_Achievements": "2024-01-02T15:08:41.7090441+00:00"
 }

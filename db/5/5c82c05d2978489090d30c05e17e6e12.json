@@ -2,7 +2,7 @@
   "ID": "5c82c05d2978489090d30c05e17e6e12",
   "Name": "EARTHLOCK",
   "ProductSlug": "earthlock-e7d979",
-  "Ranking_Rating": 997,
+  "Ranking_Rating": 987,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 112,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.14,
+  "Rating": 4.15,
   "RatingHistory": [
     {
       "Time": "2023-11-20T03:59:04.4319756+00:00",
@@ -239,15 +239,21 @@
       "Rating": 4.14,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-02T15:03:36.0297935+00:00",
+      "Rating": 4.15,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 72500,
+  "EOS_Progressed": 72509,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 2052,
+  "EOS_NewPlayers": 2042,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -5835,6 +5841,11 @@
       "Time": "2024-01-02T14:08:08.9429457+00:00",
       "NumProgressed": 72500,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2024-01-02T15:07:50.3407383+00:00",
+      "NumProgressed": 72509,
+      "NumCompleted": 107
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -5847,7 +5858,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 26825
+      "UsersEstimate": 26828
     },
     {
       "ID": "Achievement_10",
@@ -5919,7 +5930,7 @@
       "Name": "Champions of Umbra",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "Achievement_19",
@@ -5935,7 +5946,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 19575
+      "UsersEstimate": 19577
     },
     {
       "ID": "Achievement_20",
@@ -5967,7 +5978,7 @@
       "Name": "Festival Masters",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "Achievement_24",
@@ -6023,7 +6034,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8700
+      "UsersEstimate": 8701
     },
     {
       "ID": "Achievement_30",
@@ -6063,7 +6074,7 @@
       "Name": "Warden",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "Achievement_4",
@@ -6071,7 +6082,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6525
+      "UsersEstimate": 6526
     },
     {
       "ID": "Achievement_5",
@@ -6079,7 +6090,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 5075
+      "UsersEstimate": 5076
     },
     {
       "ID": "Achievement_6",
@@ -6118,16 +6129,16 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 72500,
+      "Progressed": 72509,
       "Completed": 107
     }
   ],
   "FirstSeen": "2023-11-16T18:57:39.5657505+00:00",
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
-  "LastChanged": "2024-01-01T15:03:04.2338836+00:00",
-  "LastChanged_Achievements": "2024-01-02T14:08:08.9429452+00:00",
+  "LastChanged": "2024-01-02T15:03:36.0297933+00:00",
+  "LastChanged_Achievements": "2024-01-02T15:07:50.3407379+00:00",
   "LastUpdate_AppInfo": "2023-12-28T16:57:09.138646+00:00",
-  "LastUpdate_Ratings": "2024-01-02T14:03:51.26703+00:00",
-  "LastUpdate_Achievements": "2024-01-02T14:08:08.9429952+00:00"
+  "LastUpdate_Ratings": "2024-01-02T15:03:36.0297938+00:00",
+  "LastUpdate_Achievements": "2024-01-02T15:07:50.3407953+00:00"
 }

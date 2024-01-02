@@ -3,9 +3,9 @@
   "Name": "The Legend of Tianding",
   "ProductSlug": "the-legend-of-tianding",
   "Ranking_EOS_Progress": 525,
-  "Ranking_EOS_Completed": 65,
+  "Ranking_EOS_Completed": 50,
   "Ranking_EOS_NewPlayers": 369,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-11-02T01:00:00+00:00",
     "PcReleaseDate": "2021-11-02T01:00:00+00:00",
@@ -31,10 +31,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 64,
-  "EOS_Completed": 4,
+  "EOS_Completed": 5,
   "EOS_NewPlayers": 13,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.25,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 7.81,
   "EosHistory": [
     {
       "Time": "2023-09-28T09:07:03.7102413+00:00",
@@ -365,6 +365,11 @@
       "Time": "2024-01-02T13:09:27.794249+00:00",
       "NumProgressed": 64,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-02T15:07:28.1412817+00:00",
+      "NumProgressed": 64,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-28T03:06:31.4397832+00:00",
@@ -487,17 +492,17 @@
       "ID": "Legendary",
       "SetID": "123m9l1",
       "Name": "The Legend",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 110,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "MightySword",
       "SetID": "123m9l1",
       "Name": "Demon Slayer",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "MilitaryFactoryExplorer",
@@ -511,9 +516,9 @@
       "ID": "OmamoriExpert",
       "SetID": "123m9l1",
       "Name": "Taoist",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "RescueAKuai",
@@ -585,15 +590,15 @@
       "ID": "123m9l1",
       "IsBase": true,
       "Progressed": 64,
-      "Completed": 4
+      "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:21:28.7680549+00:00",
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2024-01-02T14:07:46.3278705+00:00",
+  "LastChanged_Achievements": "2024-01-02T15:07:28.1412815+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:12.5249807+00:00",
-  "LastUpdate_Ratings": "2024-01-02T13:58:45.4839004+00:00",
-  "LastUpdate_Achievements": "2024-01-02T14:07:46.3278848+00:00"
+  "LastUpdate_Ratings": "2024-01-02T14:58:44.2648196+00:00",
+  "LastUpdate_Achievements": "2024-01-02T15:07:28.1412971+00:00"
 }

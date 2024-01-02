@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 87,
   "Ranking_EOS_NewPlayers": 308,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
     "PcReleaseDate": "2023-04-26T16:00:00+00:00",
@@ -3043,9 +3043,9 @@
       "ID": "ACH_FRUIT_BOWLS",
       "SetID": "6f5dahd",
       "Name": "An apple a day",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 75,
-      "UsersEstimate": 700
+      "UsersEstimate": 712
     },
     {
       "ID": "ACH_GET_BACK_TO_WORK",
@@ -3091,9 +3091,9 @@
       "ID": "ACH_THE_END",
       "SetID": "6f5dahd",
       "Name": "Exit",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 65,
-      "UsersEstimate": 712
+      "UsersEstimate": 725
     }
   ],
   "AchievementSets": [
@@ -3106,8 +3106,8 @@
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2024-01-02T14:10:53.5907758+00:00",
+  "LastChanged_Achievements": "2024-01-02T15:10:33.4408017+00:00",
   "LastUpdate_AppInfo": "2023-12-29T19:57:02.4539688+00:00",
-  "LastUpdate_Ratings": "2024-01-02T14:01:17.860585+00:00",
-  "LastUpdate_Achievements": "2024-01-02T14:10:53.5908018+00:00"
+  "LastUpdate_Ratings": "2024-01-02T15:01:14.2409441+00:00",
+  "LastUpdate_Achievements": "2024-01-02T15:10:33.4408301+00:00"
 }

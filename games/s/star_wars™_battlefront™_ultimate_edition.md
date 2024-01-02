@@ -12,7 +12,7 @@
 | Great shot, kid! | 16.00% | ~398 |
 | Scrap collector | 15.00% | ~373 |
 | All right, I'll give it a try | 15.00% | ~373 |
-| Shoot first | 13.00% | ~323 |
+| Shoot first | 13.00% | ~324 |
 | The power of the Force | 12.00% | ~299 |
 | Collector | 12.00% | ~299 |
 | Together we can rule the galaxy | 12.00% | ~299 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,488 (Ranked 232)  
+Progressed: 2,489 (Ranked 232)  
 Completed: 1 (0.04%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 1 (0.04%) (Ranked 344)
 | 2023-12-30 | 2,388 | 1 |
 | 2023-12-31 | 2,425 | 1 |
 | 2024-01-01 | 2,461 | 1 |
-| 2024-01-02 | 2,488 | 1 |
+| 2024-01-02 | 2,489 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

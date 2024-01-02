@@ -16,37 +16,37 @@ Number of Ratings: 1,331  (23.09.2022)
 | Progenitor and Protégé | 2.00% | ~550 |
 | Suns and Soldiers | 2.00% | ~550 |
 | Prequel to the Sequel | 1.00% | ~275 |
-| For Glory | 0.90% | ~247 |
-| Truly Blessed | 0.70% | ~192 |
-| Pillow Investments | 0.70% | ~192 |
-| Looks Familiar | 0.70% | ~192 |
+| For Glory | 0.90% | ~248 |
+| Truly Blessed | 0.70% | ~193 |
+| Pillow Investments | 0.70% | ~193 |
+| Looks Familiar | 0.70% | ~193 |
 | For Justice | 0.60% | ~165 |
 | Good Boy! | 0.60% | ~165 |
-| For Survival | 0.50% | ~137 |
+| For Survival | 0.50% | ~138 |
 | K.O. | 0.40% | ~110 |
 | Jack of all Trades | 0.40% | ~110 |
-| For Wrath | 0.30% | ~82 |
-| For Love | 0.30% | ~82 |
-| For Pride | 0.30% | ~82 |
-| Just the Beginning | 0.30% | ~82 |
-| Wasted Betrayal | 0.30% | ~82 |
-| Color Coordination | 0.30% | ~82 |
+| For Wrath | 0.30% | ~83 |
+| For Love | 0.30% | ~83 |
+| For Pride | 0.30% | ~83 |
+| Just the Beginning | 0.30% | ~83 |
+| Wasted Betrayal | 0.30% | ~83 |
+| Color Coordination | 0.30% | ~83 |
 | Black-shoppe | 0.20% | ~55 |
 | For Greed | 0.20% | ~55 |
 | For Penance | 0.20% | ~55 |
 | Good Practice | 0.20% | ~55 |
 | Maybe Wax Doesn't Melt | 0.20% | ~55 |
 | A Glimpse of the Future | 0.20% | ~55 |
-| Full House | 0.10% | ~27 |
-| Erebus Purified | 0.10% | ~27 |
-| It Was Just an Estimate | 0.10% | ~27 |
-| Had to Do It | 0.10% | ~27 |
+| Full House | 0.10% | ~28 |
+| Erebus Purified | 0.10% | ~28 |
+| It Was Just an Estimate | 0.10% | ~28 |
+| Had to Do It | 0.10% | ~28 |
 | Rogue's Legacy | 0.00% | ~0 |
 | Thanatophobia | 0.00% | ~0 |
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,497 (Ranked 144)  
+Progressed: 27,503 (Ranked 144)  
 Completed: 35 (0.13%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 35 (0.13%) (Ranked 295)
 | 2023-12-30 | 27,260 | 35 |
 | 2023-12-31 | 27,356 | 35 |
 | 2024-01-01 | 27,441 | 35 |
-| 2024-01-02 | 27,497 | 35 |
+| 2024-01-02 | 27,503 | 35 |
 ## Awards
 Max (Extremely Fun): 226  (Ranked 286)  
 Sum: 1,555 (Ranked 238)  

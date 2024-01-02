@@ -5,19 +5,19 @@ Rating: 4.20 (Ranked 955)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~2,206 |
-| Battlefields Have Memories | 81.00% | ~2,031 |
-| Enlisted | 74.00% | ~1,855 |
-| Maybe Engage a Little | 69.00% | ~1,730 |
-| No More Names | 51.00% | ~1,279 |
+| Unforeseen | 88.00% | ~2,208 |
+| Battlefields Have Memories | 81.00% | ~2,032 |
+| Enlisted | 74.00% | ~1,857 |
+| Maybe Engage a Little | 69.00% | ~1,731 |
+| No More Names | 51.00% | ~1,280 |
 | Initiate | 37.00% | ~928 |
-| Thrada-Kul | 33.00% | ~827 |
+| Thrada-Kul | 33.00% | ~828 |
 | Gravity-Challenged Rocks | 27.00% | ~677 |
 | Socialite | 24.00% | ~602 |
 | Soldier | 23.00% | ~577 |
 | All the Major Food Groups | 22.00% | ~552 |
-| Beggars Would Ride | 20.00% | ~501 |
-| Control is an Illusion | 19.00% | ~476 |
+| Beggars Would Ride | 20.00% | ~502 |
+| Control is an Illusion | 19.00% | ~477 |
 | The Means to Save It | 16.00% | ~401 |
 | Resilience to Sin | 15.00% | ~376 |
 | A Familiar Nest | 14.00% | ~351 |
@@ -27,9 +27,9 @@ Rating: 4.20 (Ranked 955)
 | Recruit | 12.00% | ~301 |
 | Armsman | 10.00% | ~251 |
 | Lights Army | 9.00% | ~226 |
-| Periapt Cerulean | 7.00% | ~175 |
-| Good Boy | 7.00% | ~175 |
-| Periapt Viridian | 6.00% | ~150 |
+| Periapt Cerulean | 7.00% | ~176 |
+| Good Boy | 7.00% | ~176 |
+| Periapt Viridian | 6.00% | ~151 |
 | Best Dressed | 5.00% | ~125 |
 | Shroudfane Explorer | 5.00% | ~125 |
 | Kitted Out | 4.00% | ~100 |
@@ -42,8 +42,8 @@ Rating: 4.20 (Ranked 955)
 | Master of Carmine | 1.00% | ~25 |
 | Tip of the Spear | 0.90% | ~23 |
 | Shroudfane Surveyor | 0.80% | ~20 |
+| Backtracker | 0.70% | ~18 |
 | Master of Ultramarine | 0.60% | ~15 |
-| Backtracker | 0.60% | ~15 |
 | Witch-Taker | 0.50% | ~13 |
 | Master of Malachite | 0.50% | ~13 |
 | Family Business | 0.40% | ~10 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 955)
 | Out of Time | 0.20% | ~5 |
 | Fowl Play | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,507 (Ranked 231)  
+Progressed: 2,509 (Ranked 231)  
 Completed: 2 (0.08%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 2 (0.08%) (Ranked 317)
 | 2023-12-30 | 2,327 | 2 |
 | 2023-12-31 | 2,400 | 2 |
 | 2024-01-01 | 2,478 | 2 |
-| 2024-01-02 | 2,507 | 2 |
+| 2024-01-02 | 2,509 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,10 +2,10 @@
   "ID": "ab4adb59faed46819e63d82b57197b2b",
   "Name": "The Crackpet Show: Happy Tree Friends Edition",
   "ProductSlug": "the-crackpet-show-0bf5c4",
-  "Ranking_EOS_Progress": 611,
+  "Ranking_EOS_Progress": 607,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 522,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-09-27T15:00:00+00:00",
     "PcReleaseDate": "2023-09-27T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23,
+  "EOS_Progressed": 24,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -144,6 +144,11 @@
       "Time": "2023-12-28T06:08:29.1906563+00:00",
       "NumProgressed": 23,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T15:09:31.7431193+00:00",
+      "NumProgressed": 24,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-22T07:08:28.6826338+00:00",
@@ -210,7 +215,7 @@
       "ID": "DESTROY_N_BARRELS",
       "SetID": "dcng643",
       "Name": "Uselessness",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -226,7 +231,7 @@
       "ID": "DIE_WHILE_TRYING_TO_REVIVE",
       "SetID": "dcng643",
       "Name": "At least you tried",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -242,7 +247,7 @@
       "ID": "DO_NOT_GET_HEALED",
       "SetID": "dcng643",
       "Name": "Stray heart",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -258,7 +263,7 @@
       "ID": "DO_N_RUNS_0",
       "SetID": "dcng643",
       "Name": "Newbie",
-      "Percentage": 87,
+      "Percentage": 83,
       "XP": 10,
       "UsersEstimate": 20
     },
@@ -266,7 +271,7 @@
       "ID": "DO_N_RUNS_1",
       "SetID": "dcng643",
       "Name": "Rookie",
-      "Percentage": 35,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -316,13 +321,13 @@
       "Name": "Good Student",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "FLAWLESS_BOSS_KILL",
       "SetID": "dcng643",
       "Name": "Flawless",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -402,7 +407,7 @@
       "ID": "KILL_BOSS_1",
       "SetID": "dcng643",
       "Name": "Toad Slayer",
-      "Percentage": 48,
+      "Percentage": 46,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -474,7 +479,7 @@
       "ID": "KILL_BOSS_2",
       "SetID": "dcng643",
       "Name": "Sludge Cleaner",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -490,7 +495,7 @@
       "ID": "KILL_BOSS_4",
       "SetID": "dcng643",
       "Name": "Holy Moly",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -690,7 +695,7 @@
       "ID": "SELL_WEAPON",
       "SetID": "dcng643",
       "Name": "Free Marketer",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -786,7 +791,7 @@
       "ID": "USE_N_SPECIALS",
       "SetID": "dcng643",
       "Name": "MacGyver",
-      "Percentage": 35,
+      "Percentage": 33,
       "XP": 105,
       "UsersEstimate": 8
     },
@@ -802,7 +807,7 @@
       "ID": "WIN_EPISODE_WITH_HALF_HEART",
       "SetID": "dcng643",
       "Name": "Close call",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 5
     }
@@ -811,14 +816,14 @@
     {
       "ID": "dcng643",
       "IsBase": true,
-      "Progressed": 23,
+      "Progressed": 24,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-28T16:00:28.1613796+00:00",
   "FirstSeenAchievements": "2023-09-19T08:09:12.2865196+00:00",
-  "LastChanged_Achievements": "2024-01-02T14:09:51.3980062+00:00",
+  "LastChanged_Achievements": "2024-01-02T15:09:31.7431191+00:00",
   "LastUpdate_AppInfo": "2023-12-29T02:57:12.8778075+00:00",
-  "LastUpdate_Ratings": "2024-01-02T13:57:51.207819+00:00",
-  "LastUpdate_Achievements": "2024-01-02T14:09:51.3980965+00:00"
+  "LastUpdate_Ratings": "2024-01-02T14:57:51.4224969+00:00",
+  "LastUpdate_Achievements": "2024-01-02T15:09:31.7431859+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 516,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 383,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -390,9 +390,9 @@
       "ID": "creepytale3_ach_11",
       "SetID": "7idcjbn",
       "Name": "Dexterity",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "creepytale3_ach_12",
@@ -414,9 +414,9 @@
       "ID": "creepytale3_ach_15",
       "SetID": "7idcjbn",
       "Name": "Bathing time!",
-      "Percentage": 45,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "creepytale3_ach_17",
@@ -574,9 +574,9 @@
       "ID": "creepytale3_ach_38",
       "SetID": "7idcjbn",
       "Name": "Paranoia",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "creepytale3_ach_39",
@@ -645,8 +645,8 @@
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2024-01-02T14:05:16.4607718+00:00",
+  "LastChanged_Achievements": "2024-01-02T15:04:59.6405401+00:00",
   "LastUpdate_AppInfo": "2023-12-27T07:56:53.6623876+00:00",
-  "LastUpdate_Ratings": "2024-01-02T14:00:23.2152382+00:00",
-  "LastUpdate_Achievements": "2024-01-02T14:05:16.4607961+00:00"
+  "LastUpdate_Ratings": "2024-01-02T15:00:22.0031481+00:00",
+  "LastUpdate_Achievements": "2024-01-02T15:04:59.6405599+00:00"
 }

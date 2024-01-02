@@ -4,8 +4,8 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1797,
+  "EOS_Progressed": 1798,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4477,6 +4477,11 @@
       "Time": "2024-01-02T12:05:40.9297167+00:00",
       "NumProgressed": 1797,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-02T15:07:18.6727832+00:00",
+      "NumProgressed": 1798,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4495,9 +4500,9 @@
       "ID": "ML_ACHIEVEMENT_02",
       "SetID": "5k00jcd",
       "Name": "Acrobat",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 108
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -4751,9 +4756,9 @@
       "ID": "ML_ACHIEVEMENT_34",
       "SetID": "5k00jcd",
       "Name": "Beyond the limit",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 90
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -4856,20 +4861,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1797,
+      "Progressed": 1798,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1465,
+      "Progressed": 1466,
       "Completed": 1006
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-02T14:07:36.9632139+00:00",
+  "LastChanged_Achievements": "2024-01-02T15:07:18.6727828+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:19.4494243+00:00",
-  "LastUpdate_Ratings": "2024-01-02T14:00:59.6616781+00:00",
-  "LastUpdate_Achievements": "2024-01-02T14:07:36.9632674+00:00"
+  "LastUpdate_Ratings": "2024-01-02T15:00:57.9042117+00:00",
+  "LastUpdate_Achievements": "2024-01-02T15:07:18.6728293+00:00"
 }

@@ -23,10 +23,10 @@
 | Cartographer | 25.00% | ~20 |
 | God of the Tower! | 23.00% | ~19 |
 | Wizard Mastery | 17.00% | ~14 |
-| Rogue Mastery | 15.00% | ~12 |
+| Rogue Mastery | 16.00% | ~13 |
 | Destoy all monsters! | 15.00% | ~12 |
+| Fighter Mastery | 14.00% | ~11 |
 | Slay the Monster! | 14.00% | ~11 |
-| Fighter Mastery | 12.00% | ~10 |
 | Gorgonslayer Mastery | 10.00% | ~8 |
 | Built for adventure | 10.00% | ~8 |
 | Collector Mastery | 10.00% | ~8 |

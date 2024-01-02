@@ -1,12 +1,12 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.54 (Ranked 543)  
+Rating: 4.54 (Ranked 542)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 16.00% | ~2,888 |
-| Captain Drummer | 13.00% | ~2,346 |
+| Captain Drummer | 13.00% | ~2,347 |
 | Martian Music | 12.00% | ~2,166 |
 | Bosmang | 12.00% | ~2,166 |
 | Celebrations are in Order | 12.00% | ~2,166 |
@@ -26,8 +26,8 @@ Rating: 4.54 (Ranked 543)
 | Thorston Mayer | 6.00% | ~1,083 |
 | Khan's Revenge | 6.00% | ~1,083 |
 | Master Negotiator | 6.00% | ~240 |
-| Doctor Approved | 5.00% | ~902 |
-| Bottoms up! | 5.00% | ~902 |
+| Doctor Approved | 5.00% | ~903 |
+| Bottoms up! | 5.00% | ~903 |
 | Data Logger | 4.00% | ~722 |
 | Miraculous Maya | 4.00% | ~722 |
 | Data Master | 3.00% | ~542 |
@@ -35,13 +35,13 @@ Rating: 4.54 (Ranked 543)
 | No Belter Left Behind | 2.00% | ~361 |
 | Debris Spree | 2.00% | ~361 |
 | Data Recoverer | 2.00% | ~361 |
-| Urshanabi Hoarder | 1.00% | ~180 |
+| Urshanabi Hoarder | 1.00% | ~181 |
 | Grave Robber | 0.70% | ~126 |
 | Data Miner | 0.60% | ~108 |
 | Scavenger Star | 0.30% | ~54 |
 | Data Collector | 0.20% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,050 (Ranked 156)  
+Progressed: 18,051 (Ranked 157)  
 Completed: 58 (0.32%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 58 (0.32%) (Ranked 246)
 | 2023-12-30 | 17,838 | 57 |
 | 2023-12-31 | 17,926 | 58 |
 | 2024-01-01 | 18,013 | 58 |
-| 2024-01-02 | 18,050 | 58 |
+| 2024-01-02 | 18,051 | 58 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

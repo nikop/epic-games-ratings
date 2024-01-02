@@ -6,9 +6,9 @@
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 233,
-  "Ranking_EOS_Completed": 214,
+  "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2444,
+  "EOS_Progressed": 2445,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -4179,6 +4179,11 @@
       "Time": "2024-01-02T13:08:17.0248234+00:00",
       "NumProgressed": 2444,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-02T15:05:50.4342707+00:00",
+      "NumProgressed": 2445,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4206,7 +4211,7 @@
       "Name": "Dead Again",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACHV_04",
@@ -4214,7 +4219,7 @@
       "Name": "Overheated",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "ACHV_05",
@@ -4238,7 +4243,7 @@
       "Name": "Court Martial",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "ACHV_08",
@@ -4366,7 +4371,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 904
+      "UsersEstimate": 905
     },
     {
       "ID": "ACHV_24",
@@ -4382,7 +4387,7 @@
       "Name": "Full Arsenal",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACHV_26",
@@ -4390,7 +4395,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1931
+      "UsersEstimate": 1932
     },
     {
       "ID": "ACHV_27",
@@ -4398,7 +4403,7 @@
       "Name": "High Performance",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "ACHV_28",
@@ -4422,7 +4427,7 @@
       "Name": "Powered Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "ACHV_31",
@@ -4462,7 +4467,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 855
+      "UsersEstimate": 856
     },
     {
       "ID": "ACHV_36",
@@ -4494,7 +4499,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 1833
+      "UsersEstimate": 1834
     },
     {
       "ID": "ACHV_40",
@@ -4550,7 +4555,7 @@
       "Name": "Unforeseeable Consequences",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "ACHV_47",
@@ -4596,9 +4601,9 @@
       "ID": "ACHV_52",
       "SetID": "8p5mlmc",
       "Name": "Juiced Up",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 147
     },
     {
       "ID": "ACHV_53",
@@ -4645,7 +4650,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2444,
+      "Progressed": 2445,
       "Completed": 13
     }
   ],
@@ -4653,8 +4658,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-29T03:00:05.8444174+00:00",
-  "LastChanged_Achievements": "2024-01-02T14:06:08.1051837+00:00",
+  "LastChanged_Achievements": "2024-01-02T15:05:50.4342704+00:00",
   "LastUpdate_AppInfo": "2023-12-30T17:56:59.176771+00:00",
-  "LastUpdate_Ratings": "2024-01-02T13:59:52.6363655+00:00",
-  "LastUpdate_Achievements": "2024-01-02T14:06:08.1052457+00:00"
+  "LastUpdate_Ratings": "2024-01-02T14:59:51.0296108+00:00",
+  "LastUpdate_Achievements": "2024-01-02T15:05:50.4343203+00:00"
 }

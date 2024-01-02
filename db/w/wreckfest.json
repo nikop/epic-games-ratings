@@ -5,10 +5,10 @@
   "Ranking_Rating": 870,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
-  "Ranking_EOS_Progress": 316,
+  "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 687,
+  "EOS_Progressed": 692,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 291,
+  "EOS_NewPlayers": 292,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1817,6 +1817,11 @@
       "Time": "2024-01-02T14:09:37.1610988+00:00",
       "NumProgressed": 687,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T15:09:17.6177153+00:00",
+      "NumProgressed": 692,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -1827,17 +1832,17 @@
       "ID": "AirborneTime",
       "SetID": "5hd282c",
       "Name": "Look Mom, I Can Fly",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 165
+      "UsersEstimate": 159
     },
     {
       "ID": "CareerAllChallenges",
       "SetID": "5hd282c",
       "Name": "Highballer",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 90,
-      "UsersEstimate": 323
+      "UsersEstimate": 332
     },
     {
       "ID": "CareerChamp1",
@@ -1845,7 +1850,7 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "CareerChamp2",
@@ -1853,7 +1858,7 @@
       "Name": "National Amateurs Champion",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "CareerChamp3",
@@ -1885,7 +1890,7 @@
       "Name": "Storm Warning",
       "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 460
+      "UsersEstimate": 464
     },
     {
       "ID": "CollectVehiclesA",
@@ -1893,7 +1898,7 @@
       "Name": "Wheeler Dealer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "CollectVehiclesB",
@@ -1901,7 +1906,7 @@
       "Name": "Junk Collector",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "CreditsEarnedA",
@@ -1941,7 +1946,7 @@
       "Name": "Dirty Roller",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "PlayerRankB",
@@ -1949,7 +1954,7 @@
       "Name": "Trashing Around",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "PlayerRankC",
@@ -1973,7 +1978,7 @@
       "Name": "Hating Them Tin Cans",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "WreckOpponentsBus",
@@ -1981,14 +1986,14 @@
       "Name": "Maniac Driver",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     }
   ],
   "AchievementSets": [
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 687,
+      "Progressed": 692,
       "Completed": 0
     }
   ],
@@ -1996,8 +2001,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-01T13:03:06.5238599+00:00",
-  "LastChanged_Achievements": "2024-01-02T14:09:37.1610983+00:00",
+  "LastChanged_Achievements": "2024-01-02T15:09:17.617715+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:31.5719432+00:00",
-  "LastUpdate_Ratings": "2024-01-02T14:01:45.8753723+00:00",
-  "LastUpdate_Achievements": "2024-01-02T14:09:37.1611221+00:00"
+  "LastUpdate_Ratings": "2024-01-02T15:01:41.2504381+00:00",
+  "LastUpdate_Achievements": "2024-01-02T15:09:17.6177397+00:00"
 }

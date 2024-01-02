@@ -51,6 +51,7 @@ Number of Ratings: 177  (23.09.2022)
 | A Striking Resemblance | 0.30% | ~21 |
 | The Muse: Derek | 0.30% | ~21 |
 | Derezzed | 0.30% | ~21 |
+| Congrats, A Celebrity Hates You | 0.20% | ~8 |
 | Doja's Dope-Ass Dinolicious Danceapalooza | 0.20% | ~8 |
 | Duck n' Weave | 0.20% | ~14 |
 | I Know Grump-Fu | 0.20% | ~14 |
@@ -60,7 +61,6 @@ Number of Ratings: 177  (23.09.2022)
 | Snapped | 0.20% | ~14 |
 | Against All Odds | 0.10% | ~7 |
 | Casabrova | 0.10% | ~7 |
-| Congrats, A Celebrity Hates You | 0.10% | ~4 |
 | D-Club Certified | 0.10% | ~7 |
 | Good Riddance! | 0.10% | ~7 |
 | Hijinks Averted | 0.10% | ~7 |

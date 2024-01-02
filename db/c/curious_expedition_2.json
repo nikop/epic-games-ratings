@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 361,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 355,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
     "PcReleaseDate": "2021-01-28T00:00:00+00:00",
@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 393,
+  "EOS_Progressed": 394,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -581,6 +581,11 @@
       "Time": "2024-01-02T14:11:23.3900826+00:00",
       "NumProgressed": 393,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-02T15:11:02.5294298+00:00",
+      "NumProgressed": 394,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -664,7 +669,7 @@
       "Name": "SCHMETTERLING",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ach-campaign-allEndings",
@@ -728,7 +733,7 @@
       "Name": "A Strange Artefact",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ach-campaign-story2",
@@ -742,9 +747,9 @@
       "ID": "ach-campaign-story3",
       "SetID": "17ih7ma",
       "Name": "O Captain My Captain",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 126
     },
     {
       "ID": "ach-cartography-complete",
@@ -760,15 +765,15 @@
       "Name": "Roll to Save",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ach-discover-locations",
       "SetID": "17ih7ma",
       "Name": "Cartographer",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 229
     },
     {
       "ID": "ach-discover-locations-high",
@@ -816,7 +821,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ach-hardExpeditions",
@@ -864,7 +869,7 @@
       "Name": "No Laughing Matter",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ach-kill-sandworm",
@@ -880,7 +885,7 @@
       "Name": "Shennong Herbalist",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ach-maxClubLevel-american",
@@ -904,7 +909,7 @@
       "Name": "The Great Library",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ach-maxLevelCharacter",
@@ -912,7 +917,7 @@
       "Name": "Veteran Explorer",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ach-meetGhost",
@@ -920,7 +925,7 @@
       "Name": "Spooky!",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ach-noEquipment",
@@ -936,7 +941,7 @@
       "Name": "Insomnia",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ach-pacifist-goals",
@@ -944,7 +949,7 @@
       "Name": "Nahua Seeker",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ach-paleMask-cure",
@@ -976,7 +981,7 @@
       "Name": "Level Up",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ach-raiseDino",
@@ -998,17 +1003,17 @@
       "ID": "ach-rideDinosaur",
       "SetID": "17ih7ma",
       "Name": "Practical Palaeontology",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 63
     },
     {
       "ID": "ach-rob-shrines",
       "SetID": "17ih7ma",
       "Name": "Plunderer",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 118
     },
     {
       "ID": "ach-salamanderPrince",
@@ -1040,7 +1045,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ach-unlockAllLeaders",
@@ -1071,7 +1076,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 393,
+      "Progressed": 394,
       "Completed": 1
     }
   ],
@@ -1079,8 +1084,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2024-01-01T02:59:19.0992943+00:00",
-  "LastChanged_Achievements": "2024-01-02T14:11:23.3900817+00:00",
+  "LastChanged_Achievements": "2024-01-02T15:11:02.5294294+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:12.3485961+00:00",
-  "LastUpdate_Ratings": "2024-01-02T14:00:29.3770474+00:00",
-  "LastUpdate_Achievements": "2024-01-02T14:11:23.3901512+00:00"
+  "LastUpdate_Ratings": "2024-01-02T15:00:28.7551489+00:00",
+  "LastUpdate_Achievements": "2024-01-02T15:11:02.5294856+00:00"
 }

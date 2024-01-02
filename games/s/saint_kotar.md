@@ -9,9 +9,9 @@
 | A Map for Nikolay | 54.00% | ~13 |
 | The Wall of Laments | 46.00% | ~11 |
 | Death Whistle | 38.00% | ~9 |
+| Burial Mound | 38.00% | ~9 |
 | Make the Prophet Your Ally | 33.00% | ~8 |
 | Become a Half-Child | 33.00% | ~8 |
-| Burial Mound | 33.00% | ~8 |
 | The Dreaded Klek | 29.00% | ~7 |
 | Find the Road of Cadavers | 29.00% | ~7 |
 | A Catacomb | 29.00% | ~7 |

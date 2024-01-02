@@ -2,9 +2,9 @@
   "ID": "5f3452bade6849f4981ca2bcaaec5505",
   "Name": "Who Pressed Mute on Uncle Marcus?",
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
-  "Ranking_EOS_Progress": 395,
+  "Ranking_EOS_Progress": 396,
   "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 362,
+  "Ranking_EOS_NewPlayers": 364,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
@@ -911,9 +911,9 @@
       "ID": "the_whole_truth",
       "SetID": "202dmm8",
       "Name": "The whole truth",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 43
+      "UsersEstimate": 46
     },
     {
       "ID": "toby_foolery",
@@ -944,8 +944,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2024-01-02T14:10:53.0927951+00:00",
+  "LastChanged_Achievements": "2024-01-02T15:10:33.0080599+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:45.8627972+00:00",
-  "LastUpdate_Ratings": "2024-01-02T13:59:35.2639329+00:00",
-  "LastUpdate_Achievements": "2024-01-02T14:10:53.0928175+00:00"
+  "LastUpdate_Ratings": "2024-01-02T14:59:35.5331025+00:00",
+  "LastUpdate_Achievements": "2024-01-02T15:10:33.0080724+00:00"
 }

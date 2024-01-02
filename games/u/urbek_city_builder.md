@@ -15,9 +15,9 @@
 | Clean energy | 6.00% | ~29 |
 | Soviet town | 6.00% | ~29 |
 | Bucolic city | 5.00% | ~24 |
-| I love parks | 3.00% | ~14 |
 | Food producer | 2.00% | ~10 |
 | I love books! | 2.00% | ~10 |
+| I love parks | 2.00% | ~10 |
 | King of fish | 1.00% | ~5 |
 | What would we do if we can't go out with friends? | 1.00% | ~5 |
 | Rebel city | 1.00% | ~5 |
@@ -84,7 +84,7 @@
 | Rainforest master | 0.00% | ~0 |
 | Welfare state | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 480 (Ranked 347)  
+Progressed: 481 (Ranked 347)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,6 +254,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-30 | 471 | 0 |
 | 2023-12-31 | 477 | 0 |
 | 2024-01-01 | 480 | 0 |
+| 2024-01-02 | 481 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

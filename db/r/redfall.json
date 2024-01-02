@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -351,7 +351,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2219,
+  "EOS_Progressed": 2220,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
@@ -3861,6 +3861,11 @@
       "Time": "2024-01-02T13:09:30.8201271+00:00",
       "NumProgressed": 2219,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T15:07:32.3763627+00:00",
+      "NumProgressed": 2220,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3888,7 +3893,7 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "Achievement_004",
@@ -4008,7 +4013,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "Achievement_020",
@@ -4399,7 +4404,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2219,
+      "Progressed": 2220,
       "Completed": 0
     }
   ],
@@ -4407,8 +4412,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-01T12:00:40.1847166+00:00",
-  "LastChanged_Achievements": "2024-01-02T14:07:50.7169003+00:00",
+  "LastChanged_Achievements": "2024-01-02T15:07:32.3763623+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.8280502+00:00",
-  "LastUpdate_Ratings": "2024-01-02T14:02:04.3006978+00:00",
-  "LastUpdate_Achievements": "2024-01-02T14:07:50.7169739+00:00"
+  "LastUpdate_Ratings": "2024-01-02T15:01:59.0206919+00:00",
+  "LastUpdate_Achievements": "2024-01-02T15:07:32.3764649+00:00"
 }
