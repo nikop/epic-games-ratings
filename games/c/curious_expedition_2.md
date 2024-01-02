@@ -17,7 +17,7 @@ Number of Ratings: 20  (23.09.2022)
 | Shennong Herbalist | 36.00% | ~141 |
 | Treasure Hunt | 36.00% | ~141 |
 | Good Mama | 34.00% | ~133 |
-| O Captain My Captain | 32.00% | ~125 |
+| O Captain My Captain | 33.00% | ~129 |
 | Plunderer | 31.00% | ~122 |
 | Taxonomist | 29.00% | ~114 |
 | Traveller | 26.00% | ~102 |
@@ -28,8 +28,8 @@ Number of Ratings: 20  (23.09.2022)
 | Red Flag Pirate | 20.00% | ~78 |
 | Iron Man | 17.00% | ~67 |
 | A Gentle Beast | 17.00% | ~67 |
+| Practical Palaeontology | 17.00% | ~67 |
 | Shortening of the Way | 16.00% | ~63 |
-| Practical Palaeontology | 16.00% | ~63 |
 | Adventurer | 15.00% | ~59 |
 | For the Club! | 15.00% | ~59 |
 | Dapper | 15.00% | ~59 |

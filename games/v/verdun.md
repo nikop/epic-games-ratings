@@ -6,28 +6,28 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~53,249 |
-| Worth it | 63.00% | ~43,009 |
-| Eagle Eye | 55.00% | ~37,547 |
-| Corpseman I | 39.00% | ~26,625 |
-| Blast fishing | 37.00% | ~25,259 |
-| Not alone | 32.00% | ~21,846 |
+| Setting an example | 78.00% | ~53,251 |
+| Worth it | 63.00% | ~43,011 |
+| Eagle Eye | 55.00% | ~37,549 |
+| Corpseman I | 39.00% | ~26,626 |
+| Blast fishing | 37.00% | ~25,260 |
+| Not alone | 32.00% | ~21,847 |
 | Headhunter I | 26.00% | ~17,750 |
-| Manual Labour I | 25.00% | ~17,067 |
-| Developers, Developers, Developers | 24.00% | ~16,384 |
+| Manual Labour I | 25.00% | ~17,068 |
+| Developers, Developers, Developers | 24.00% | ~16,385 |
 | Basic Training | 23.00% | ~15,702 |
 | Furchtlos und Treu | 13.00% | ~8,875 |
-| Gott Mit Uns | 12.00% | ~8,192 |
+| Gott Mit Uns | 12.00% | ~8,193 |
 | This We'll Defend! | 9.00% | ~6,144 |
 | Providentiea Memor | 9.00% | ~6,144 |
 | For King and Country | 9.00% | ~6,144 |
-| Battle hardened | 8.00% | ~5,461 |
-| Anker wirf! | 8.00% | ~5,461 |
+| Battle hardened | 8.00% | ~5,462 |
+| Anker wirf! | 8.00% | ~5,462 |
 | Semper Fidelis! | 7.00% | ~4,779 |
 | Honneur et Patrie | 7.00% | ~4,779 |
-| In Treue Fest | 5.00% | ~3,413 |
-| Voor De Koning | 5.00% | ~3,413 |
-| Extreme Headhunter | 5.00% | ~3,413 |
+| In Treue Fest | 5.00% | ~3,414 |
+| Voor De Koning | 5.00% | ~3,414 |
+| Extreme Headhunter | 5.00% | ~3,414 |
 | Advance Australia | 4.00% | ~2,731 |
 | We Stand on Guard | 4.00% | ~2,731 |
 | Sidi Brahim | 4.00% | ~2,731 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~68 |
 | Blood Brother | 0.10% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,268 (Ranked 114)  
+Progressed: 68,271 (Ranked 114)  
 Completed: 4 (0.01%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 4 (0.01%) (Ranked 368)
 | 2023-12-30 | 68,042 | 4 |
 | 2023-12-31 | 68,140 | 4 |
 | 2024-01-01 | 68,244 | 4 |
-| 2024-01-02 | 68,268 | 4 |
+| 2024-01-02 | 68,271 | 4 |
 ## Awards
 Max (Highly Recommended): 105  (Ranked 369)  
 Sum: 830 (Ranked 286)  

@@ -4,7 +4,7 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 850,
+  "EOS_Progressed": 851,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.18,
   "EosHistory": [
@@ -2925,6 +2925,11 @@
       "Time": "2024-01-02T00:09:06.1009654+00:00",
       "NumProgressed": 850,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-02T11:08:38.2812594+00:00",
+      "NumProgressed": 851,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -2945,7 +2950,7 @@
       "Name": "Establish Communications",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "ACH_eou2",
@@ -2953,7 +2958,7 @@
       "Name": "Destroy Strogg Logistical Train",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "ACH_eou3",
@@ -3040,14 +3045,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 850,
+      "Progressed": 851,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2024-01-02T10:08:43.6245557+00:00",
+  "LastChanged_Achievements": "2024-01-02T11:08:38.2812592+00:00",
   "LastUpdate_AppInfo": "2023-12-29T06:57:16.3144275+00:00",
-  "LastUpdate_Ratings": "2024-01-02T09:59:27.2909991+00:00",
-  "LastUpdate_Achievements": "2024-01-02T10:08:43.6245833+00:00"
+  "LastUpdate_Ratings": "2024-01-02T10:59:41.6684549+00:00",
+  "LastUpdate_Achievements": "2024-01-02T11:08:38.2812873+00:00"
 }

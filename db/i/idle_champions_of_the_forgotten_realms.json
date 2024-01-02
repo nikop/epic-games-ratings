@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 49,
-  "Ranking_EOS_NewCompleters": 17,
+  "Ranking_EOS_NewPlayers": 48,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9209,18 +9209,24 @@
       "Rating": 4.06,
       "NumberOfAwards": 33249,
       "NumberOfAwardsMax": 5726
+    },
+    {
+      "Time": "2024-01-02T10:58:17.4534858+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33253,
+      "NumberOfAwardsMax": 5730
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33249,
-  "NumberOfAwardsMax": 5726,
+  "NumberOfAwards": 33253,
+  "NumberOfAwardsMax": 5730,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 5726
+      "Count": 5730
     },
     {
       "Text": "This game has Diverse Characters",
@@ -9259,10 +9265,10 @@
       "Count": 3617
     }
   ],
-  "EOS_Progressed": 249604,
+  "EOS_Progressed": 249628,
   "EOS_Completed": 2585,
-  "EOS_NewPlayers": 4819,
-  "EOS_NewCompleters": 21,
+  "EOS_NewPlayers": 4832,
+  "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
@@ -38339,6 +38345,11 @@
       "Time": "2024-01-02T10:10:06.2885495+00:00",
       "NumProgressed": 249604,
       "NumCompleted": 2585
+    },
+    {
+      "Time": "2024-01-02T11:10:01.3361559+00:00",
+      "NumProgressed": 249628,
+      "NumCompleted": 2585
     }
   ],
   "TotalAchievements": 546,
@@ -38350,7 +38361,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7488
+      "UsersEstimate": 7489
     },
     {
       "ID": "objective_completed_10",
@@ -39214,7 +39225,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "objective_completed_1203",
@@ -40142,7 +40153,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "objective_completed_390",
@@ -40486,7 +40497,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "objective_completed_54",
@@ -41494,7 +41505,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2246
+      "UsersEstimate": 2247
     },
     {
       "ID": "objective_completed_70",
@@ -41566,7 +41577,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "objective_completed_80",
@@ -42670,7 +42681,7 @@
       "Name": "The Overgrown Grove",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1079
+      "UsersEstimate": 1080
     },
     {
       "ID": "objective_completed_673",
@@ -42694,7 +42705,7 @@
       "Name": "Mental Gymnastics",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1079
+      "UsersEstimate": 1080
     },
     {
       "ID": "objective_completed_860",
@@ -42717,21 +42728,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 215878,
+      "Progressed": 215902,
       "Completed": 4125
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 249604,
+      "Progressed": 249628,
       "Completed": 2585
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-01T16:58:00.6629331+00:00",
-  "LastChanged_Achievements": "2024-01-02T10:10:06.2885491+00:00",
+  "LastChanged": "2024-01-02T10:58:17.4534856+00:00",
+  "LastChanged_Achievements": "2024-01-02T11:10:01.3361554+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-02T09:58:01.4305186+00:00",
-  "LastUpdate_Achievements": "2024-01-02T10:10:06.2910049+00:00"
+  "LastUpdate_Ratings": "2024-01-02T10:58:17.4534862+00:00",
+  "LastUpdate_Achievements": "2024-01-02T11:10:01.3385562+00:00"
 }

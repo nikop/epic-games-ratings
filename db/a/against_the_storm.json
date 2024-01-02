@@ -3663,10 +3663,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3319,
       "NumberOfAwardsMax": 447
+    },
+    {
+      "Time": "2024-01-02T10:58:23.8954367+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3320,
+      "NumberOfAwardsMax": 447
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3319,
+  "NumberOfAwards": 3320,
   "NumberOfAwardsMax": 447,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3722,7 +3728,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 216
+      "Count": 217
     },
     {
       "Text": "This game has Unique Visuals",
@@ -3731,9 +3737,9 @@
       "Count": 338
     }
   ],
-  "EOS_Progressed": 19950,
+  "EOS_Progressed": 19954,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 670,
+  "EOS_NewPlayers": 667,
   "EOS_NewCompleters": -5,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -18106,6 +18112,11 @@
       "Time": "2024-01-02T10:04:35.6844995+00:00",
       "NumProgressed": 19950,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2024-01-02T11:04:31.4254979+00:00",
+      "NumProgressed": 19954,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -18198,7 +18209,7 @@
       "Name": "Homesick",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "WinFirstGame",
@@ -18230,7 +18241,7 @@
       "Name": "Ruined Armory",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "WinNearBandit",
@@ -18278,7 +18289,7 @@
       "Name": "Fertile Meadows",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "WinNearFishmen",
@@ -18308,9 +18319,9 @@
       "ID": "WinNearLevitating",
       "SetID": "cfbk359",
       "Name": "Levitating Monument",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 399
+      "UsersEstimate": 599
     },
     {
       "ID": "WinNearMines",
@@ -18326,7 +18337,7 @@
       "Name": "Monastery of the Holy Flame",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "WinNearOutpost",
@@ -18334,7 +18345,7 @@
       "Name": "Royal Outpost",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "WinNearRuins",
@@ -18374,7 +18385,7 @@
       "Name": "Watchtower",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "WinOnCoral",
@@ -18430,7 +18441,7 @@
       "Name": "A Real Challenge",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "WinWIthCaches",
@@ -18574,7 +18585,7 @@
       "Name": "Untamed Wilds",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "WinWithFoxes",
@@ -18589,15 +18600,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 19950,
+      "Progressed": 19954,
       "Completed": 33
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2024-01-02T08:58:04.8751789+00:00",
-  "LastChanged_Achievements": "2024-01-02T10:04:35.6844992+00:00",
+  "LastChanged": "2024-01-02T10:58:23.8954365+00:00",
+  "LastChanged_Achievements": "2024-01-02T11:04:31.4254975+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:03.5085053+00:00",
-  "LastUpdate_Ratings": "2024-01-02T09:58:07.9794867+00:00",
-  "LastUpdate_Achievements": "2024-01-02T10:04:35.6845892+00:00"
+  "LastUpdate_Ratings": "2024-01-02T10:58:23.8954371+00:00",
+  "LastUpdate_Achievements": "2024-01-02T11:04:31.4256003+00:00"
 }

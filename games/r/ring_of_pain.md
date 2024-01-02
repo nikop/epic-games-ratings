@@ -28,16 +28,16 @@ Number of Ratings: 15,086  (23.09.2022)
 | C-C-Combo | 0.80% | ~1,938 |
 | Deflection | 0.80% | ~1,938 |
 | Sneaky | 0.80% | ~1,938 |
-| Ambitious Intent | 0.70% | ~1,695 |
-| R.I.P | 0.70% | ~1,695 |
-| Dig Your Own Grave | 0.70% | ~1,695 |
-| Walk It Off | 0.70% | ~1,695 |
-| Cold Hearted | 0.70% | ~1,695 |
-| I Am Overburdened | 0.70% | ~1,695 |
-| The Bestiary | 0.70% | ~1,695 |
-| Shootout | 0.70% | ~1,695 |
-| Stone Touch | 0.70% | ~1,695 |
-| Toxic | 0.70% | ~1,695 |
+| Ambitious Intent | 0.70% | ~1,696 |
+| R.I.P | 0.70% | ~1,696 |
+| Dig Your Own Grave | 0.70% | ~1,696 |
+| Walk It Off | 0.70% | ~1,696 |
+| Cold Hearted | 0.70% | ~1,696 |
+| I Am Overburdened | 0.70% | ~1,696 |
+| The Bestiary | 0.70% | ~1,696 |
+| Shootout | 0.70% | ~1,696 |
+| Stone Touch | 0.70% | ~1,696 |
+| Toxic | 0.70% | ~1,696 |
 | Consecutive Curses | 0.60% | ~1,453 |
 | Who To Trust? | 0.60% | ~1,453 |
 | Destroy Your Fears | 0.60% | ~1,453 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,214 (Ranked 72)  
+Progressed: 242,216 (Ranked 72)  
 Completed: 302 (0.12%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -402,7 +402,7 @@ Completed: 302 (0.12%) (Ranked 298)
 | 2023-12-30 | 242,061 | 302 |
 | 2023-12-31 | 242,129 | 302 |
 | 2024-01-01 | 242,196 | 302 |
-| 2024-01-02 | 242,214 | 302 |
+| 2024-01-02 | 242,216 | 302 |
 ## Awards
 Max (Quickly Understood Controls): 1,513  (Ranked 136)  
 Sum: 11,781 (Ranked 88)  

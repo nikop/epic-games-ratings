@@ -21,16 +21,16 @@ Number of Ratings: 116  (23.09.2022)
 | Throne Potato | 38.00% | ~144 |
 | Five's a Crowd | 37.00% | ~140 |
 | 25 to Life | 37.00% | ~140 |
+| Soul Harvester | 35.00% | ~133 |
 | Salvation | 35.00% | ~133 |
 | Unshakable Fortitude | 34.00% | ~129 |
-| Soul Harvester | 34.00% | ~129 |
 | I Wanna Rock | 31.00% | ~117 |
 | Delusions of Grandeur | 31.00% | ~117 |
 | Maximum Vigor | 30.00% | ~114 |
-| Love Tap | 28.00% | ~106 |
+| Love Tap | 29.00% | ~110 |
+| For Whom the Bell Tolls | 27.00% | ~102 |
 | Freeze Frame | 26.00% | ~99 |
 | Eat Your Heart Out | 26.00% | ~99 |
-| For Whom the Bell Tolls | 26.00% | ~99 |
 | Unyielding Strength | 24.00% | ~91 |
 | Big Spender | 24.00% | ~91 |
 | Can you restore the Balance? | 23.00% | ~87 |
@@ -46,8 +46,8 @@ Number of Ratings: 116  (23.09.2022)
 | A Parting Gift | 12.00% | ~45 |
 | Unbreakable Will | 11.00% | ~42 |
 | Path of the Horseman | 11.00% | ~42 |
+| Take it to the Limit | 10.00% | ~38 |
 | Holy Keeper | 9.00% | ~34 |
-| Take it to the Limit | 9.00% | ~34 |
 | Demon Keeper | 8.00% | ~30 |
 | Soul Reaper | 7.00% | ~27 |
 | Humanitarian | 7.00% | ~27 |
@@ -92,8 +92,8 @@ Completed: 1 (0.26%) (Ranked 260)
 | 2024-01-02 | 379 | 1 |
 ## Awards
 Max (Great Boss Battles): 96  (Ranked 383)  
-Sum: 96 (Ranked 465)  
-Diff (max vs sum): -82  
+Sum: 96 (Ranked 464)  
+Diff (max vs sum): -81  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 96 |

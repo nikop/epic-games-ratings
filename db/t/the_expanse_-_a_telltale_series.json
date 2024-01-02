@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -325,10 +325,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18043,
+  "EOS_Progressed": 18044,
   "EOS_Completed": 58,
   "EOS_NewPlayers": 587,
-  "EOS_NewCompleters": 6,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
     {
@@ -16010,6 +16010,11 @@
       "Time": "2024-01-02T10:04:05.4614199+00:00",
       "NumProgressed": 18043,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-02T11:04:00.7697317+00:00",
+      "NumProgressed": 18044,
+      "NumCompleted": 58
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16166,7 +16171,7 @@
       "Name": "Call it Even",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 1443
+      "UsersEstimate": 1444
     },
     {
       "ID": "27",
@@ -16301,13 +16306,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18043,
+      "Progressed": 18044,
       "Completed": 58
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3997,
+      "Progressed": 3998,
       "Completed": 1157
     }
   ],
@@ -16315,8 +16320,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T23:58:17.8612142+00:00",
-  "LastChanged_Achievements": "2024-01-02T10:04:05.4614195+00:00",
+  "LastChanged_Achievements": "2024-01-02T11:04:00.7697315+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2024-01-02T09:59:03.781904+00:00",
-  "LastUpdate_Achievements": "2024-01-02T10:04:05.4614921+00:00"
+  "LastUpdate_Ratings": "2024-01-02T10:59:19.1261577+00:00",
+  "LastUpdate_Achievements": "2024-01-02T11:04:00.7698111+00:00"
 }

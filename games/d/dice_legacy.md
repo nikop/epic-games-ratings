@@ -17,10 +17,10 @@ Rating: 4.29 (Ranked 876)
 | Hidden Secrets | 5.00% | ~64 |
 | The Stranded King | 5.00% | ~64 |
 | Accepting the Prophecy | 5.00% | ~64 |
-| Just Chilling | 4.00% | ~51 |
-| Ascended | 4.00% | ~51 |
-| Incredible Strength | 4.00% | ~51 |
-| Prophecy Fulfilled | 4.00% | ~51 |
+| Just Chilling | 4.00% | ~52 |
+| Ascended | 4.00% | ~52 |
+| Incredible Strength | 4.00% | ~52 |
+| Prophecy Fulfilled | 4.00% | ~52 |
 | The Greedy Ones | 3.00% | ~39 |
 | The First King | 2.00% | ~26 |
 | The great fire | 2.00% | ~26 |
@@ -51,7 +51,7 @@ Rating: 4.29 (Ranked 876)
 | Purist | 0.00% | ~0 |
 | King of the Dice | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,287 (Ranked 273)  
+Progressed: 1,288 (Ranked 273)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,6 +260,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-30 | 1,282 | 0 |
 | 2023-12-31 | 1,284 | 0 |
 | 2024-01-01 | 1,287 | 0 |
+| 2024-01-02 | 1,288 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

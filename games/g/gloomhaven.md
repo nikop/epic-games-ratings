@@ -6,25 +6,25 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 39.00% | ~11,912 |
-| Overkill | 33.00% | ~10,079 |
-| Vaccine Incoming | 32.00% | ~9,774 |
-| A normal day in Gloomhaven | 29.00% | ~8,857 |
-| Spread the plague | 27.00% | ~8,247 |
-| Get over here! | 24.00% | ~7,330 |
-| Just when I thought I was out... | 19.00% | ~5,803 |
-| Precious! | 16.00% | ~4,887 |
-| Mine... All Mine... | 16.00% | ~4,887 |
-| Grizzled veteran | 15.00% | ~4,581 |
-| Anatomy Lesson | 14.00% | ~4,276 |
+| I'm not dead yet | 39.00% | ~11,914 |
+| Overkill | 33.00% | ~10,081 |
+| Vaccine Incoming | 32.00% | ~9,775 |
+| A normal day in Gloomhaven | 29.00% | ~8,859 |
+| Spread the plague | 27.00% | ~8,248 |
+| Get over here! | 24.00% | ~7,332 |
+| Just when I thought I was out... | 19.00% | ~5,804 |
+| Precious! | 16.00% | ~4,888 |
+| Mine... All Mine... | 16.00% | ~4,888 |
+| Grizzled veteran | 15.00% | ~4,582 |
+| Anatomy Lesson | 14.00% | ~4,277 |
 | Light of my life | 13.00% | ~3,971 |
-| Who's the Boss? | 12.00% | ~3,665 |
-| You activated my trap card! | 12.00% | ~3,665 |
-| Obstacle race | 12.00% | ~3,665 |
+| Who's the Boss? | 12.00% | ~3,666 |
+| You activated my trap card! | 12.00% | ~3,666 |
+| Obstacle race | 12.00% | ~3,666 |
 | Augmented rat | 11.00% | ~3,360 |
-| Doom and gloom | 10.00% | ~3,054 |
-| Dungeon Veteran | 8.00% | ~2,443 |
-| Pain is your friend | 8.00% | ~2,443 |
+| Doom and gloom | 10.00% | ~3,055 |
+| Dungeon Veteran | 8.00% | ~2,444 |
+| Pain is your friend | 8.00% | ~2,444 |
 | Pack leader | 7.00% | ~2,138 |
 | Black death | 7.00% | ~2,138 |
 | Play it again, Sam | 7.00% | ~2,138 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~31 |
 | Murder Death Kill | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,543 (Ranked 140)  
+Progressed: 30,548 (Ranked 140)  
 Completed: 1 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 1 (0.00%) (Ranked 390)
 | 2023-12-30 | 29,956 | 1 |
 | 2023-12-31 | 30,197 | 1 |
 | 2024-01-01 | 30,444 | 1 |
-| 2024-01-02 | 30,543 | 1 |
+| 2024-01-02 | 30,548 | 1 |
 ## Awards
 Max (Character Customization): 3,608  (Ranked 93)  
 Sum: 8,449 (Ranked 106)  

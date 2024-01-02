@@ -3,7 +3,7 @@
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
   "Ranking_Rating": 235,
-  "Ranking_Popularity": 520,
+  "Ranking_Popularity": 521,
   "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 390,
@@ -450,9 +450,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 929,
+  "EOS_Progressed": 930,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3330,6 +3330,11 @@
       "Time": "2024-01-02T08:08:56.3619484+00:00",
       "NumProgressed": 929,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T11:08:53.5651704+00:00",
+      "NumProgressed": 930,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3366,7 +3371,7 @@
       "Name": "Dressed For Success",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "AttackCount",
@@ -3484,9 +3489,9 @@
       "ID": "DoubleKill",
       "SetID": "71c0n9i",
       "Name": "Double Kill",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 372
+      "UsersEstimate": 363
     },
     {
       "ID": "FlameAttackKillCount",
@@ -3670,7 +3675,7 @@
       "Name": "Adept",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "WielderLevel2",
@@ -3678,7 +3683,7 @@
       "Name": "Veteran",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "WielderLevel3",
@@ -3773,15 +3778,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 929,
+      "Progressed": 930,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2024-01-02T10:08:58.8143038+00:00",
+  "LastChanged_Achievements": "2024-01-02T11:08:53.5651701+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:53.9356991+00:00",
-  "LastUpdate_Ratings": "2024-01-02T09:57:09.7368307+00:00",
-  "LastUpdate_Achievements": "2024-01-02T10:08:58.8143904+00:00"
+  "LastUpdate_Ratings": "2024-01-02T10:57:26.0266618+00:00",
+  "LastUpdate_Achievements": "2024-01-02T11:08:53.5652297+00:00"
 }

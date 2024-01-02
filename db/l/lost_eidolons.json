@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1127,
+  "EOS_Progressed": 1128,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": -10,
+  "EOS_NewPlayers": -9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2281,6 +2281,11 @@
       "Time": "2024-01-02T10:06:04.1701242+00:00",
       "NumProgressed": 1127,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-02T11:06:00.3901263+00:00",
+      "NumProgressed": 1128,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -2324,23 +2329,23 @@
       "Name": "The First Step",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "06",
       "SetID": "73ikgfc",
       "Name": "First Blood",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 778
+      "UsersEstimate": 767
     },
     {
       "ID": "07",
       "SetID": "73ikgfc",
       "Name": "Monster Hunter",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 631
+      "UsersEstimate": 620
     },
     {
       "ID": "08",
@@ -2348,7 +2353,7 @@
       "Name": "Monster Slayer",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "09",
@@ -2356,7 +2361,7 @@
       "Name": "Awakening",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "10",
@@ -2428,7 +2433,7 @@
       "Name": "Earning Trust",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "19",
@@ -2436,7 +2441,7 @@
       "Name": "Broken Oath",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "20",
@@ -2475,7 +2480,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1127,
+      "Progressed": 1128,
       "Completed": 1
     }
   ],
@@ -2483,8 +2488,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-12-04T18:59:06.5793648+00:00",
-  "LastChanged_Achievements": "2024-01-02T10:06:04.1701238+00:00",
+  "LastChanged_Achievements": "2024-01-02T11:06:00.3901261+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:47.6931487+00:00",
-  "LastUpdate_Ratings": "2024-01-02T10:02:54.2750388+00:00",
-  "LastUpdate_Achievements": "2024-01-02T10:06:04.1701509+00:00"
+  "LastUpdate_Ratings": "2024-01-02T11:02:48.0451367+00:00",
+  "LastUpdate_Achievements": "2024-01-02T11:06:00.3901541+00:00"
 }

@@ -8,27 +8,27 @@ Number of Ratings: 12,664  (23.09.2022)
 | ---- | ---------- | ----- |
 | Sponsored by Argon | 10.00% | ~14,896 |
 | Titan's First Steps | 10.00% | ~14,896 |
-| Basic in Bulk | 9.00% | ~13,406 |
-| Tinkle of Coins | 9.00% | ~13,406 |
+| Basic in Bulk | 9.00% | ~13,407 |
+| Tinkle of Coins | 9.00% | ~13,407 |
 | Disintermediation | 7.00% | ~10,427 |
 | Capitalism Ho! | 7.00% | ~10,427 |
-| It's Free Real Estate | 6.00% | ~8,937 |
-| Budding Merchant | 6.00% | ~8,937 |
+| It's Free Real Estate | 6.00% | ~8,938 |
+| Budding Merchant | 6.00% | ~8,938 |
 | One Easy Payment | 5.00% | ~7,448 |
 | Some Assembly Required | 5.00% | ~7,448 |
 | Another Satisfied Customer | 5.00% | ~7,448 |
 | Pretty Penny | 5.00% | ~7,448 |
 | Own the Means of Production | 5.00% | ~7,448 |
-| The Daily Grind | 4.00% | ~5,958 |
-| Bounty Hunters | 4.00% | ~5,958 |
-| Demand for Supplies | 4.00% | ~5,958 |
-| Flooding the Market | 4.00% | ~5,958 |
-| Where it Hurts | 4.00% | ~5,958 |
-| Gild-Gotten Goods | 4.00% | ~5,958 |
-| One-Armed Bandit | 4.00% | ~5,958 |
-| Dungeon Imports | 4.00% | ~5,958 |
-| Through Repetition, Perfection | 4.00% | ~5,958 |
-| Arcane Industries | 4.00% | ~5,958 |
+| The Daily Grind | 4.00% | ~5,959 |
+| Bounty Hunters | 4.00% | ~5,959 |
+| Demand for Supplies | 4.00% | ~5,959 |
+| Flooding the Market | 4.00% | ~5,959 |
+| Where it Hurts | 4.00% | ~5,959 |
+| Gild-Gotten Goods | 4.00% | ~5,959 |
+| One-Armed Bandit | 4.00% | ~5,959 |
+| Dungeon Imports | 4.00% | ~5,959 |
+| Through Repetition, Perfection | 4.00% | ~5,959 |
+| Arcane Industries | 4.00% | ~5,959 |
 | On the Path to Greatness | 3.00% | ~4,469 |
 | Ascended | 3.00% | ~4,469 |
 | Tax not Included | 3.00% | ~4,469 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~596 |
 | Capitalist Camaraderie | 0.20% | ~298 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 148,955 (Ranked 86)  
+Progressed: 148,963 (Ranked 86)  
 Completed: 340 (0.23%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -376,17 +376,17 @@ Completed: 340 (0.23%) (Ranked 267)
 | 2023-12-30 | 148,534 | 340 |
 | 2023-12-31 | 148,713 | 340 |
 | 2024-01-01 | 148,903 | 340 |
-| 2024-01-02 | 148,955 | 340 |
+| 2024-01-02 | 148,963 | 340 |
 ## Awards
 Max (Great for Beginners): 4,934  (Ranked 78)  
-Sum: 27,900 (Ranked 52)  
+Sum: 27,902 (Ranked 52)  
 Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,934 |
 | This game is Relaxing | 4,072 |
 | This game has Quickly Understood Controls | 4,065 |
-| This game has Diverse Characters | 4,013 |
+| This game has Diverse Characters | 4,015 |
 | This game is Highly Recommended | 3,810 |
 | This game has Easy Combat | 3,765 |
 | This game has Playful Visuals | 3,241 |
@@ -730,4 +730,4 @@ Diff (max vs sum): 26
 | 2023-12-30 | 3.99 | - | 4,931 | 27,871 |
 | 2023-12-31 | 3.99 | - | 4,934 | 27,878 |
 | 2024-01-01 | 3.99 | - | 4,934 | 27,894 |
-| 2024-01-02 | 3.99 | - | 4,934 | 27,900 |
+| 2024-01-02 | 3.99 | - | 4,934 | 27,902 |

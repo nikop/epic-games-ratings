@@ -20,21 +20,21 @@ Number of Ratings: 1,845  (23.09.2022)
 | Land of Greed | 5.00% | ~998 |
 | Ominous Presence | 5.00% | ~998 |
 | Gathering Storm | 5.00% | ~998 |
-| Homesick | 3.00% | ~598 |
-| Ruined Armory | 3.00% | ~598 |
-| Fertile Meadows | 3.00% | ~598 |
-| Monastery of the Holy Flame | 3.00% | ~598 |
-| Royal Outpost | 3.00% | ~598 |
-| Watchtower | 3.00% | ~598 |
-| A Real Challenge | 3.00% | ~598 |
-| Untamed Wilds | 3.00% | ~598 |
+| Homesick | 3.00% | ~599 |
+| Ruined Armory | 3.00% | ~599 |
+| Fertile Meadows | 3.00% | ~599 |
+| Levitating Monument | 3.00% | ~599 |
+| Monastery of the Holy Flame | 3.00% | ~599 |
+| Royal Outpost | 3.00% | ~599 |
+| Watchtower | 3.00% | ~599 |
+| A Real Challenge | 3.00% | ~599 |
+| Untamed Wilds | 3.00% | ~599 |
 | Against All Odds | 2.00% | ~399 |
 | Bandit Camp | 2.00% | ~399 |
 | Barren Lands | 2.00% | ~399 |
 | Ancient Battleground | 2.00% | ~399 |
 | Sparkdew Crystals | 2.00% | ~399 |
 | Haunted Forest | 2.00% | ~399 |
-| Levitating Monument | 2.00% | ~399 |
 | Flooded Mines | 2.00% | ~399 |
 | Lost Colonies | 2.00% | ~399 |
 | Statue of the Forefathers | 2.00% | ~399 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,950 (Ranked 152)  
+Progressed: 19,954 (Ranked 152)  
 Completed: 33 (0.17%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,10 +323,10 @@ Completed: 33 (0.17%) (Ranked 281)
 | 2023-12-30 | 19,741 | 35 |
 | 2023-12-31 | 19,834 | 34 |
 | 2024-01-01 | 19,919 | 33 |
-| 2024-01-02 | 19,950 | 33 |
+| 2024-01-02 | 19,954 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 447  (Ranked 229)  
-Sum: 3,319 (Ranked 177)  
+Sum: 3,320 (Ranked 177)  
 Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
@@ -339,7 +339,7 @@ Diff (max vs sum): 52
 | This game has Amazing Storytelling | 329 |
 | This game has Amazing Characters | 292 |
 | This game has Obsessive Gameplay | 254 |
-| This game has a Creative Community | 216 |
+| This game has a Creative Community | 217 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -615,4 +615,4 @@ Diff (max vs sum): 52
 | 2023-12-30 | 4.82 | - | 447 | 3,309 |
 | 2023-12-31 | 4.82 | - | 447 | 3,312 |
 | 2024-01-01 | 4.82 | - | 447 | 3,317 |
-| 2024-01-02 | 4.82 | - | 447 | 3,319 |
+| 2024-01-02 | 4.82 | - | 447 | 3,320 |

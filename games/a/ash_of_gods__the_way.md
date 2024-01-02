@@ -13,9 +13,9 @@
 | All for one! | 22.00% | ~13 |
 | Blood and sand | 22.00% | ~13 |
 | A hidden snake | 20.00% | ~12 |
+| Crimson rivers | 17.00% | ~10 |
 | Power of Inquisition | 17.00% | ~10 |
 | Surpass the teacher | 17.00% | ~10 |
-| Crimson rivers | 15.00% | ~9 |
 | Vene, vidi, vici | 15.00% | ~9 |
 | Help of the Gell | 15.00% | ~9 |
 | She-Wolf | 15.00% | ~9 |
@@ -54,7 +54,7 @@
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59 (Ranked 533)  
+Progressed: 59 (Ranked 534)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |

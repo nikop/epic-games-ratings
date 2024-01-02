@@ -4,7 +4,7 @@
   "ProductSlug": "return-of-red-riding-hood-enhanced-edition-3598e4",
   "Ranking_EOS_Progress": 636,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 417,
+  "Ranking_EOS_NewPlayers": 430,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-12-22T09:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 14,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -516,8 +516,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-20T18:03:33.8802078+00:00",
-  "LastChanged_Achievements": "2024-01-02T10:05:43.3090511+00:00",
+  "LastChanged_Achievements": "2024-01-02T11:05:39.1777456+00:00",
   "LastUpdate_AppInfo": "2023-12-27T18:57:22.1287218+00:00",
-  "LastUpdate_Ratings": "2024-01-02T09:59:57.4399178+00:00",
-  "LastUpdate_Achievements": "2024-01-02T10:05:43.3090847+00:00"
+  "LastUpdate_Ratings": "2024-01-02T11:00:13.2504488+00:00",
+  "LastUpdate_Achievements": "2024-01-02T11:05:39.1777781+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -387,7 +387,7 @@
   "Tags": [],
   "EOS_Progressed": 2503,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 583,
+  "EOS_NewPlayers": 581,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4118,9 +4118,9 @@
       "ID": "achievement_10",
       "SetID": "18al4io",
       "Name": "Control is an Illusion",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 451
+      "UsersEstimate": 476
     },
     {
       "ID": "achievement_11",
@@ -4254,9 +4254,9 @@
       "ID": "achievement_3",
       "SetID": "18al4io",
       "Name": "Maybe Engage a Little",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1702
+      "UsersEstimate": 1727
     },
     {
       "ID": "achievement_36",
@@ -4495,8 +4495,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-02T02:58:05.5734129+00:00",
-  "LastChanged_Achievements": "2024-01-02T10:09:45.7001657+00:00",
+  "LastChanged_Achievements": "2024-01-02T11:09:40.867799+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.4007279+00:00",
-  "LastUpdate_Ratings": "2024-01-02T09:58:12.7346243+00:00",
-  "LastUpdate_Achievements": "2024-01-02T10:09:45.7002291+00:00"
+  "LastUpdate_Ratings": "2024-01-02T10:58:28.5259858+00:00",
+  "LastUpdate_Achievements": "2024-01-02T11:09:40.8678741+00:00"
 }

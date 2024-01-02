@@ -461,9 +461,9 @@
       "Count": 77
     }
   ],
-  "EOS_Progressed": 339636,
+  "EOS_Progressed": 339659,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 4203,
+  "EOS_NewPlayers": 4205,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11876,6 +11876,11 @@
       "Time": "2024-01-02T10:08:41.8671453+00:00",
       "NumProgressed": 339636,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-02T11:08:36.6269097+00:00",
+      "NumProgressed": 339659,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -11888,7 +11893,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13585
+      "UsersEstimate": 13586
     },
     {
       "ID": "S02_BRDA",
@@ -11896,7 +11901,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 10189
+      "UsersEstimate": 10190
     },
     {
       "ID": "S03_OTWA",
@@ -11904,7 +11909,7 @@
       "Name": "Rumors are true",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3396
+      "UsersEstimate": 3397
     },
     {
       "ID": "S04_BRDC",
@@ -11920,7 +11925,7 @@
       "Name": "Back to your senses",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 2377
+      "UsersEstimate": 2378
     },
     {
       "ID": "S06_LWTC",
@@ -12024,7 +12029,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13585
+      "UsersEstimate": 13586
     },
     {
       "ID": "S19_CHALLENGES",
@@ -12056,7 +12061,7 @@
       "Name": "They won\u0027t last long",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 2377
+      "UsersEstimate": 2378
     },
     {
       "ID": "S23_ETHEREAL",
@@ -12112,7 +12117,7 @@
       "Name": "Your wounds\u2026 They are healing so fast!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3396
+      "UsersEstimate": 3397
     },
     {
       "ID": "S30_DIAMOND",
@@ -12120,7 +12125,7 @@
       "Name": "Bring it on!",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 2377
+      "UsersEstimate": 2378
     },
     {
       "ID": "S31_CHNG_DIAMOND",
@@ -12207,7 +12212,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 339636,
+      "Progressed": 339659,
       "Completed": 7
     }
   ],
@@ -12215,8 +12220,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2024-01-01T23:01:20.9565561+00:00",
-  "LastChanged_Achievements": "2024-01-02T10:08:41.8671447+00:00",
+  "LastChanged_Achievements": "2024-01-02T11:08:36.6269093+00:00",
   "LastUpdate_AppInfo": "2023-12-28T22:56:57.7073923+00:00",
-  "LastUpdate_Ratings": "2024-01-02T10:00:21.4918027+00:00",
-  "LastUpdate_Achievements": "2024-01-02T10:08:41.8672234+00:00"
+  "LastUpdate_Ratings": "2024-01-02T11:00:34.0559682+00:00",
+  "LastUpdate_Achievements": "2024-01-02T11:08:36.6269797+00:00"
 }

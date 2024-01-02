@@ -5,60 +5,60 @@ Rating: 4.69 (Ranked 235)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 33.00% | ~216,646 |
-| 50 HEADSHOTS | 31.00% | ~203,516 |
-| SCIENCE AND INDUSTRY | 29.00% | ~190,386 |
-| FINISHED CHAPTER 1 | 28.00% | ~183,821 |
-| FINISHED CHAPTER 2 | 21.00% | ~137,865 |
-| 200 HEADSHOTS | 19.00% | ~124,735 |
-| FINISHED CHAPTER 3 | 17.00% | ~111,605 |
-| FINISHED CHAPTER 4 | 15.00% | ~98,475 |
-| FINISH CHAPTER 5 | 13.00% | ~85,345 |
-| FINISH CHAPTER 6 | 11.00% | ~72,215 |
-| CATHARTIC ESCAPISM | 11.00% | ~72,215 |
-| 1000 KILLS | 10.00% | ~65,650 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~26,260 |
-| FIREFIGHT LEVEL 20 | 2.00% | ~13,130 |
-| FIRST BLOOD | 2.00% | ~13,130 |
+| 100 KILLS | 33.00% | ~216,630 |
+| 50 HEADSHOTS | 31.00% | ~203,501 |
+| SCIENCE AND INDUSTRY | 29.00% | ~190,372 |
+| FINISHED CHAPTER 1 | 28.00% | ~183,807 |
+| FINISHED CHAPTER 2 | 21.00% | ~137,855 |
+| 200 HEADSHOTS | 19.00% | ~124,726 |
+| FINISHED CHAPTER 3 | 17.00% | ~111,597 |
+| FINISHED CHAPTER 4 | 15.00% | ~98,468 |
+| FINISH CHAPTER 5 | 13.00% | ~85,339 |
+| FINISH CHAPTER 6 | 11.00% | ~72,210 |
+| CATHARTIC ESCAPISM | 11.00% | ~72,210 |
+| 1000 KILLS | 10.00% | ~65,645 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~26,258 |
+| FIREFIGHT LEVEL 20 | 2.00% | ~13,129 |
+| FIRST BLOOD | 2.00% | ~13,129 |
 | FIREFIGHT LEVEL 30 | 1.00% | ~6,565 |
 | OUT OF ORDER | 1.00% | ~6,565 |
 | PACEMAKER | 1.00% | ~6,565 |
 | TIME PARADOX | 1.00% | ~6,565 |
 | PARTYHARD | 0.80% | ~5,252 |
-| NEW GAME PLUS | 0.70% | ~4,596 |
-| FIREFIGHT LEVEL 40 | 0.50% | ~3,283 |
+| NEW GAME PLUS | 0.70% | ~4,595 |
+| FIREFIGHT LEVEL 40 | 0.50% | ~3,282 |
 | CHURCH | 0.40% | ~2,626 |
-| FIREFIGHT LEVEL 50 | 0.30% | ~1,970 |
-| REMEMBER THE ARMORY | 0.30% | ~1,970 |
-| 5 RUNS | 0.30% | ~1,970 |
+| FIREFIGHT LEVEL 50 | 0.30% | ~1,969 |
+| REMEMBER THE ARMORY | 0.30% | ~1,969 |
+| 5 RUNS | 0.30% | ~1,969 |
 | CHALET | 0.20% | ~1,313 |
 | FIREFIGHT LEVEL 60 | 0.20% | ~1,313 |
 | FIREFIGHT LEVEL 70 | 0.20% | ~1,313 |
 | SOUL - HORIZONS | 0.20% | ~1,313 |
-| HEY THATS CHEATING | 0.10% | ~657 |
-| COMPLIMENTS TO THE CHEF | 0.10% | ~657 |
-| BUT WHY? | 0.10% | ~657 |
-| COMMAND - [EXIST] | 0.10% | ~657 |
-| FIREFIGHT LEVEL 80 | 0.10% | ~657 |
-| FIRE IN THE HOLE | 0.10% | ~657 |
-| FRESH | 0.10% | ~657 |
-| HUGE SUCCESS | 0.10% | ~657 |
-| ICARUS | 0.10% | ~657 |
-| INPUT - [QUERY] | 0.10% | ~657 |
-| KITTED OUT | 0.10% | ~657 |
-| HOLOGRAM SUMMER | 0.10% | ~657 |
-| OFF THE HINGES | 0.10% | ~657 |
-| ON THE EDGE | 0.10% | ~657 |
-| OVERCLOCKED | 0.10% | ~657 |
-| PAIN TRAIN | 0.10% | ~657 |
-| 10 RUNS | 0.10% | ~657 |
-| 20 RUNS | 0.10% | ~657 |
-| SAVOR THE MOMENT | 0.10% | ~657 |
-| THE COLLECTOR | 0.10% | ~657 |
-| THE GAMBLER | 0.10% | ~657 |
-| WARRIOR IN A GARDEN | 0.10% | ~657 |
+| HEY THATS CHEATING | 0.10% | ~656 |
+| COMPLIMENTS TO THE CHEF | 0.10% | ~656 |
+| BUT WHY? | 0.10% | ~656 |
+| COMMAND - [EXIST] | 0.10% | ~656 |
+| FIREFIGHT LEVEL 80 | 0.10% | ~656 |
+| FIRE IN THE HOLE | 0.10% | ~656 |
+| FRESH | 0.10% | ~656 |
+| HUGE SUCCESS | 0.10% | ~656 |
+| ICARUS | 0.10% | ~656 |
+| INPUT - [QUERY] | 0.10% | ~656 |
+| KITTED OUT | 0.10% | ~656 |
+| HOLOGRAM SUMMER | 0.10% | ~656 |
+| OFF THE HINGES | 0.10% | ~656 |
+| ON THE EDGE | 0.10% | ~656 |
+| OVERCLOCKED | 0.10% | ~656 |
+| PAIN TRAIN | 0.10% | ~656 |
+| 10 RUNS | 0.10% | ~656 |
+| 20 RUNS | 0.10% | ~656 |
+| SAVOR THE MOMENT | 0.10% | ~656 |
+| THE COLLECTOR | 0.10% | ~656 |
+| THE GAMBLER | 0.10% | ~656 |
+| WARRIOR IN A GARDEN | 0.10% | ~656 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 656,502 (Ranked 31)  
+Progressed: 656,454 (Ranked 31)  
 Completed: 59 (0.01%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 59 (0.01%) (Ranked 368)
 | 2024-01-02 | 656,963 | 59 |
 ## Awards
 Max (Great Boss Battles): 479  (Ranked 223)  
-Sum: 523 (Ranked 331)  
+Sum: 543 (Ranked 331)  
 Diff (max vs sum): -108  
 | Award | Count |
 | ----- | ----- |
@@ -326,6 +326,7 @@ Diff (max vs sum): -108
 | This game is Great for Beginners | 24 |
 | This game is Great for Quick Sessions | 24 |
 | This game has Competitive Players | 20 |
+| This game is Highly Recommended | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -481,3 +482,4 @@ Diff (max vs sum): -108
 | 2023-12-27 | 4.69 | 473 | 517 |
 | 2023-12-30 | 4.69 | 477 | 521 |
 | 2024-01-01 | 4.69 | 479 | 523 |
+| 2024-01-02 | 4.69 | 479 | 543 |

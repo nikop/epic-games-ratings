@@ -21,9 +21,9 @@
 | The More the Merrier | 6.00% | ~16 |
 | Deputized | 6.00% | ~16 |
 | Harbinger | 6.00% | ~16 |
+| Pilgrimage's End | 6.00% | ~16 |
 | Strategist | 5.00% | ~14 |
 | Courier | 5.00% | ~14 |
-| Pilgrimage's End | 5.00% | ~14 |
 | Merchant | 5.00% | ~14 |
 | Trouble at Fort Larius | 5.00% | ~14 |
 | Quartermaster | 4.00% | ~11 |

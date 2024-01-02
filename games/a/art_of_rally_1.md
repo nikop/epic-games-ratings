@@ -1,56 +1,56 @@
 # Art of Rally
 [Store](https://store.epicgames.com/en-US/p/art-of-rally)  
 [View Rawdata](../../db/a/art_of_rally_1.json)  
-Rating: 4.67 (Ranked 285)  
+Rating: 4.67 (Ranked 284)  
 Number of Ratings: 56  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 79.00% | ~299,112 |
-| good drivers have dead flies on the side windows | 32.00% | ~121,159 |
-| keep it tidy | 26.00% | ~98,442 |
-| brail | 26.00% | ~98,442 |
-| car wash | 23.00% | ~87,083 |
-| the artist | 23.00% | ~87,083 |
-| podium | 20.00% | ~75,725 |
-| medium attack | 17.00% | ~64,366 |
-| bicycle race | 6.00% | ~22,717 |
-| grocery-getter | 5.00% | ~18,931 |
-| autopilot | 4.00% | ~15,145 |
-| where is the stage? | 3.00% | ~11,359 |
-| night ride | 3.00% | ~11,359 |
-| snorkel | 3.00% | ~11,359 |
-| food tour: pasta | 3.00% | ~11,359 |
-| perkele | 2.00% | ~7,572 |
-| rwd only | 2.00% | ~7,572 |
-| if in doubt, flat out! | 2.00% | ~7,572 |
-| you can't treat a car like a human being. a car requires love | 2.00% | ~7,572 |
-| to finish first, first you must finish | 1.00% | ~3,786 |
-| espresso | 1.00% | ~3,786 |
-| turbo | 1.00% | ~3,786 |
-| in like a lamb, out like a lion | 1.00% | ~3,786 |
-| mittens | 1.00% | ~3,786 |
-| food tour: pretzel | 1.00% | ~3,786 |
-| monster | 0.80% | ~3,029 |
-| eurobeat | 0.60% | ~2,272 |
-| viking | 0.60% | ~2,272 |
-| oktoberfest | 0.50% | ~1,893 |
-| parallel universe | 0.50% | ~1,893 |
-| group b | 0.50% | ~1,893 |
-| maximum attack | 0.40% | ~1,514 |
-| samir | 0.40% | ~1,514 |
+| light attack | 79.00% | ~299,273 |
+| good drivers have dead flies on the side windows | 32.00% | ~121,225 |
+| keep it tidy | 26.00% | ~98,495 |
+| brail | 26.00% | ~98,495 |
+| car wash | 23.00% | ~87,130 |
+| the artist | 23.00% | ~87,130 |
+| podium | 20.00% | ~75,765 |
+| medium attack | 17.00% | ~64,401 |
+| bicycle race | 6.00% | ~22,730 |
+| grocery-getter | 5.00% | ~18,941 |
+| autopilot | 4.00% | ~15,153 |
+| where is the stage? | 3.00% | ~11,365 |
+| night ride | 3.00% | ~11,365 |
+| snorkel | 3.00% | ~11,365 |
+| food tour: pasta | 3.00% | ~11,365 |
+| perkele | 2.00% | ~7,577 |
+| rwd only | 2.00% | ~7,577 |
+| if in doubt, flat out! | 2.00% | ~7,577 |
+| you can't treat a car like a human being. a car requires love | 2.00% | ~7,577 |
+| to finish first, first you must finish | 1.00% | ~3,788 |
+| espresso | 1.00% | ~3,788 |
+| turbo | 1.00% | ~3,788 |
+| in like a lamb, out like a lion | 1.00% | ~3,788 |
+| mittens | 1.00% | ~3,788 |
+| food tour: pretzel | 1.00% | ~3,788 |
+| monster | 0.80% | ~3,031 |
+| eurobeat | 0.60% | ~2,273 |
+| viking | 0.60% | ~2,273 |
+| oktoberfest | 0.50% | ~1,894 |
+| parallel universe | 0.50% | ~1,894 |
+| group b | 0.50% | ~1,894 |
+| maximum attack | 0.40% | ~1,515 |
+| samir | 0.40% | ~1,515 |
 | master of rally | 0.30% | ~1,136 |
 | antilag | 0.30% | ~1,136 |
 | real roads, real fast | 0.30% | ~1,136 |
-| parking lot | 0.20% | ~757 |
-| comfy seats | 0.20% | ~757 |
+| parking lot | 0.20% | ~758 |
+| comfy seats | 0.20% | ~758 |
 | if everything seems under control, you're not going fast enough | 0.10% | ~379 |
 | absolute drift | 0.10% | ~379 |
 | barely keeping it together | 0.10% | ~379 |
 | you're here for a good time, not a long time | 0.10% | ~379 |
 | simulator | 0.10% | ~379 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 378,623 (Ranked 52)  
+Progressed: 378,827 (Ranked 52)  
 Completed: 12 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,11 +237,11 @@ Completed: 12 (0.00%) (Ranked 390)
 | 2023-12-30 | 363,610 | 11 |
 | 2023-12-31 | 370,810 | 12 |
 | 2024-01-01 | 376,863 | 12 |
-| 2024-01-02 | 378,623 | 12 |
+| 2024-01-02 | 378,827 | 12 |
 ## Awards
 Max (Quickly Understood Controls): 32  (Ranked 511)  
-Sum: 106 (Ranked 462)  
-Diff (max vs sum): 49  
+Sum: 78 (Ranked 477)  
+Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 32 |

@@ -4,7 +4,7 @@
   "ProductSlug": "darksiders3",
   "Ranking_Rating": 662,
   "Ranking_Popularity": 383,
-  "Ranking_PopularitySum": 465,
+  "Ranking_PopularitySum": 464,
   "Ranking_EOS_Progress": 367,
   "Ranking_EOS_Completed": 260,
   "Ranking_EOS_NewPlayers": 189,
@@ -470,7 +470,7 @@
   ],
   "EOS_Progressed": 379,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -1578,9 +1578,9 @@
       "ID": "Collect_Lurchers_100000",
       "SetID": "7a5k76n",
       "Name": "Soul Harvester",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 133
     },
     {
       "ID": "Collect_Lurchers_1000000",
@@ -1770,9 +1770,9 @@
       "ID": "Kill_Demon_Kraken",
       "SetID": "7a5k76n",
       "Name": "Love Tap",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 110
     },
     {
       "ID": "Kill_Enemies_666",
@@ -1906,9 +1906,9 @@
       "ID": "Save_Usiel_No_Kill",
       "SetID": "7a5k76n",
       "Name": "For Whom the Bell Tolls",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 102
     },
     {
       "ID": "Spend_AttributePoint_1",
@@ -1962,9 +1962,9 @@
       "ID": "Upgrade_Weapon_Max",
       "SetID": "7a5k76n",
       "Name": "Take it to the Limit",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 38
     }
   ],
   "AchievementSets": [
@@ -1978,8 +1978,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-02T05:57:25.472105+00:00",
-  "LastChanged_Achievements": "2024-01-02T10:05:39.9953428+00:00",
+  "LastChanged_Achievements": "2024-01-02T11:05:35.9319768+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.0817876+00:00",
-  "LastUpdate_Ratings": "2024-01-02T09:57:31.5031456+00:00",
-  "LastUpdate_Achievements": "2024-01-02T10:05:39.9953889+00:00"
+  "LastUpdate_Ratings": "2024-01-02T10:57:47.0980209+00:00",
+  "LastUpdate_Achievements": "2024-01-02T11:05:35.9320242+00:00"
 }

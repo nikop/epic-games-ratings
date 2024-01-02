@@ -3856,9 +3856,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242214,
+  "EOS_Progressed": 242216,
   "EOS_Completed": 302,
-  "EOS_NewPlayers": 488,
+  "EOS_NewPlayers": 489,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -30421,6 +30421,11 @@
       "Time": "2024-01-02T10:10:04.3691181+00:00",
       "NumProgressed": 242214,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2024-01-02T11:09:59.3707678+00:00",
+      "NumProgressed": 242216,
+      "NumCompleted": 302
     }
   ],
   "TotalAchievements": 138,
@@ -30448,7 +30453,7 @@
       "Name": "Ambitious Intent",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1695
+      "UsersEstimate": 1696
     },
     {
       "ID": "BOSSPIT",
@@ -30584,7 +30589,7 @@
       "Name": "R.I.P",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1695
+      "UsersEstimate": 1696
     },
     {
       "ID": "DIEBOSS",
@@ -30624,7 +30629,7 @@
       "Name": "Dig Your Own Grave",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1695
+      "UsersEstimate": 1696
     },
     {
       "ID": "DONTATTACKRATSDEPTH10",
@@ -30664,7 +30669,7 @@
       "Name": "Walk It Off",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1695
+      "UsersEstimate": 1696
     },
     {
       "ID": "FIREBEAD20EXPLOSIONS",
@@ -30696,7 +30701,7 @@
       "Name": "Cold Hearted",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1695
+      "UsersEstimate": 1696
     },
     {
       "ID": "FULLINVENTORY",
@@ -30704,7 +30709,7 @@
       "Name": "I Am Overburdened",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1695
+      "UsersEstimate": 1696
     },
     {
       "ID": "FULLYPRESTIGESPOON",
@@ -30864,7 +30869,7 @@
       "Name": "The Bestiary",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1695
+      "UsersEstimate": 1696
     },
     {
       "ID": "KILLABOMINATIONHIGHDEF",
@@ -30968,7 +30973,7 @@
       "Name": "Shootout",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1695
+      "UsersEstimate": 1696
     },
     {
       "ID": "KILLSTONESHIFTERHARD",
@@ -31088,7 +31093,7 @@
       "Name": "Stone Touch",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1695
+      "UsersEstimate": 1696
     },
     {
       "ID": "PLAY10HOURS",
@@ -31112,7 +31117,7 @@
       "Name": "Toxic",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1695
+      "UsersEstimate": 1696
     },
     {
       "ID": "POISONEDTWICEIN1TURN",
@@ -31535,13 +31540,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242214,
+      "Progressed": 242216,
       "Completed": 302
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3694,
+      "Progressed": 3696,
       "Completed": 417
     }
   ],
@@ -31549,8 +31554,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-01T19:58:02.265715+00:00",
-  "LastChanged_Achievements": "2024-01-02T10:10:04.3691178+00:00",
+  "LastChanged_Achievements": "2024-01-02T11:09:59.3707675+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:01.848225+00:00",
-  "LastUpdate_Ratings": "2024-01-02T09:57:53.5610086+00:00",
-  "LastUpdate_Achievements": "2024-01-02T10:10:04.3693836+00:00"
+  "LastUpdate_Ratings": "2024-01-02T10:58:10.5190437+00:00",
+  "LastUpdate_Achievements": "2024-01-02T11:09:59.3710369+00:00"
 }

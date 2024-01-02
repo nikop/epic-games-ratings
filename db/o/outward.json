@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4414,
+  "EOS_Progressed": 4415,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -7496,6 +7496,11 @@
       "Time": "2024-01-02T09:06:00.2082456+00:00",
       "NumProgressed": 4414,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-02T11:06:01.6226973+00:00",
+      "NumProgressed": 4415,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -7715,7 +7720,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1060
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -7827,7 +7832,7 @@
       "Name": "Venture Outward",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3222
+      "UsersEstimate": 3223
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -7842,15 +7847,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4414,
+      "Progressed": 4415,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2024-01-02T10:06:05.3375028+00:00",
+  "LastChanged_Achievements": "2024-01-02T11:06:01.6226969+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:23.571083+00:00",
-  "LastUpdate_Ratings": "2024-01-02T10:03:03.8921482+00:00",
-  "LastUpdate_Achievements": "2024-01-02T10:06:05.3375518+00:00"
+  "LastUpdate_Ratings": "2024-01-02T11:02:56.8133435+00:00",
+  "LastUpdate_Achievements": "2024-01-02T11:06:01.6227528+00:00"
 }

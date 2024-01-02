@@ -118,6 +118,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Cavalry | 0.20% | ~32 |
 | Legionary | 0.20% | ~32 |
 | Phalangite | 0.20% | ~32 |
+| Turreted Elephant | 0.20% | ~32 |
 | Ambition Victory | 0.20% | ~32 |
 | Double Victory | 0.20% | ~32 |
 | The Clergy | 0.20% | ~32 |
@@ -236,7 +237,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cataphract Archer | 0.10% | ~16 |
 | Three Man Chariot | 0.10% | ~16 |
 | Siege Tower | 0.10% | ~16 |
-| Turreted Elephant | 0.10% | ~16 |
 | Great Ziggurat in Ur | 0.10% | ~16 |
 | All Nations | 0.10% | ~16 |
 | Conquest Victory | 0.10% | ~16 |

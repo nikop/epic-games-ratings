@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 405,
+  "EOS_Progressed": 406,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -1329,6 +1329,11 @@
       "Time": "2024-01-02T10:03:28.5435023+00:00",
       "NumProgressed": 405,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-02T11:03:23.1743612+00:00",
+      "NumProgressed": 406,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -1349,7 +1354,7 @@
       "Name": "Blabber",
       "Percentage": 49,
       "XP": 145,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ach3",
@@ -1389,21 +1394,21 @@
       "Name": "Snail Racing Champion",
       "Percentage": 10,
       "XP": 145,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     }
   ],
   "AchievementSets": [
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 405,
+      "Progressed": 406,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2024-01-02T10:03:28.5435018+00:00",
+  "LastChanged_Achievements": "2024-01-02T11:03:23.1743607+00:00",
   "LastUpdate_AppInfo": "2023-12-27T20:57:07.636228+00:00",
-  "LastUpdate_Ratings": "2024-01-02T09:58:36.0553614+00:00",
-  "LastUpdate_Achievements": "2024-01-02T10:03:28.54354+00:00"
+  "LastUpdate_Ratings": "2024-01-02T10:58:50.8221243+00:00",
+  "LastUpdate_Achievements": "2024-01-02T11:03:23.1743762+00:00"
 }

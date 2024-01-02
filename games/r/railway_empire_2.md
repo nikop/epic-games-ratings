@@ -47,8 +47,8 @@ Rating: 4.42 (Ranked 734)
 | Go West | 14.00% | ~364 |
 | Max Power | 14.00% | ~364 |
 | Locusts | 14.00% | ~364 |
+| Tycoon | 12.00% | ~312 |
 | A new Hope | 11.00% | ~286 |
-| Tycoon | 11.00% | ~286 |
 | Call of Duty | 10.00% | ~260 |
 | Unstoppable | 9.00% | ~234 |
 | Track to the Future | 9.00% | ~234 |

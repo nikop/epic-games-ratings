@@ -16,8 +16,8 @@
 | Lab Rat | 24.00% | ~186 |
 | Stalemate | 21.00% | ~163 |
 | Kindar Surprise | 17.00% | ~132 |
+| Deadly Secret | 13.00% | ~101 |
 | MVP - Most Vanishing Person | 13.00% | ~101 |
-| Deadly Secret | 12.00% | ~93 |
 | Get Out Of This Alive | 9.00% | ~70 |
 | The Promise | 8.00% | ~62 |
 | People Pleaser | 8.00% | ~62 |
@@ -25,7 +25,7 @@
 | Second Chances | 7.00% | ~54 |
 | Not A People Person | 4.00% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 774 (Ranked 308)  
+Progressed: 774 (Ranked 307)  
 Completed: 21 (2.71%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |

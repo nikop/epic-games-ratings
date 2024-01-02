@@ -6,20 +6,20 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~7,488 |
+| A Brief Tour of the Realms | 3.00% | ~7,489 |
 | Beast Intentions | 1.00% | ~2,496 |
 | The Cursed Farmer | 1.00% | ~2,496 |
-| The Mad Wizard | 0.90% | ~2,246 |
+| The Mad Wizard | 0.90% | ~2,247 |
 | Welcome to Sigil | 0.80% | ~1,727 |
 | The Ring of Regeneration | 0.60% | ~1,498 |
 | Fast Food | 0.60% | ~1,295 |
 | Are Ya Chicken? | 0.50% | ~1,248 |
-| The Overgrown Grove | 0.50% | ~1,079 |
-| Mental Gymnastics | 0.50% | ~1,079 |
-| Were-verpowered | 0.40% | ~998 |
-| Seeking Allies | 0.40% | ~998 |
-| Mad Cow Disease | 0.40% | ~998 |
-| Friendly Imps | 0.40% | ~998 |
+| The Overgrown Grove | 0.50% | ~1,080 |
+| Mental Gymnastics | 0.50% | ~1,080 |
+| Were-verpowered | 0.40% | ~999 |
+| Seeking Allies | 0.40% | ~999 |
+| Mad Cow Disease | 0.40% | ~999 |
+| Friendly Imps | 0.40% | ~999 |
 | When Tentacles Attack | 0.40% | ~864 |
 | Flames of Avernus | 0.40% | ~864 |
 | Don't Lose Your Head | 0.40% | ~864 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~216 |
 | The Brains of an Illithid's Desire | 0.10% | ~216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,604 (Ranked 70)  
+Progressed: 249,628 (Ranked 70)  
 Completed: 2,585 (1.04%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -810,14 +810,14 @@ Completed: 2,585 (1.04%) (Ranked 170)
 | 2023-12-30 | 247,917 | 2,578 |
 | 2023-12-31 | 248,665 | 2,581 |
 | 2024-01-01 | 249,335 | 2,583 |
-| 2024-01-02 | 249,604 | 2,585 |
+| 2024-01-02 | 249,628 | 2,585 |
 ## Awards
-Max (Great for Beginners): 5,726  (Ranked 71)  
-Sum: 33,249 (Ranked 41)  
+Max (Great for Beginners): 5,730  (Ranked 71)  
+Sum: 33,253 (Ranked 41)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 5,726 |
+| This game is Great for Beginners | 5,730 |
 | This game has Diverse Characters | 5,672 |
 | This game has Quickly Understood Controls | 4,882 |
 | This game is Relaxing | 4,757 |
@@ -1168,3 +1168,4 @@ Diff (max vs sum): 30
 | 2023-12-30 | 4.06 | - | 5,720 | 33,198 |
 | 2023-12-31 | 4.06 | - | 5,720 | 33,212 |
 | 2024-01-01 | 4.06 | - | 5,726 | 33,249 |
+| 2024-01-02 | 4.06 | - | 5,730 | 33,253 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -171,7 +171,7 @@
   "Tags": [],
   "EOS_Progressed": 3223,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -5866,9 +5866,9 @@
       "ID": "STB_DEFEAT_NIGHTMARE_II",
       "SetID": "3pe2bac",
       "Name": "Little light",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 741
+      "UsersEstimate": 774
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_I",
@@ -6171,8 +6171,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-30T20:57:35.994685+00:00",
-  "LastChanged_Achievements": "2024-01-02T10:05:21.8644327+00:00",
+  "LastChanged_Achievements": "2024-01-02T11:05:17.742628+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:16.0545663+00:00",
-  "LastUpdate_Ratings": "2024-01-02T09:58:16.0826111+00:00",
-  "LastUpdate_Achievements": "2024-01-02T10:05:21.8644846+00:00"
+  "LastUpdate_Ratings": "2024-01-02T10:58:31.0460361+00:00",
+  "LastUpdate_Achievements": "2024-01-02T11:05:17.7426936+00:00"
 }

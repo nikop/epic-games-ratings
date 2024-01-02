@@ -4336,9 +4336,9 @@
       "ID": "GSS_ACH_06_FUEL_01",
       "SetID": "5fn8ia4",
       "Name": "Fueled it good!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1390
+      "UsersEstimate": 1406
     },
     {
       "ID": "GSS_ACH_07_FUEL_02",
@@ -4392,9 +4392,9 @@
       "ID": "GSS_ACH_13_FUEL_SERVE_01",
       "SetID": "5fn8ia4",
       "Name": "So it begins",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1406
+      "UsersEstimate": 1421
     },
     {
       "ID": "GSS_ACH_14_FUEL_SERVE_02",
@@ -4864,9 +4864,9 @@
       "ID": "GSS_ACH_73_MEETING_THE_UNCLE",
       "SetID": "5fn8ia4",
       "Name": "The Uncle",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 1329
+      "UsersEstimate": 1345
     },
     {
       "ID": "GSS_ACH_74_SANDSTORM",
@@ -4953,8 +4953,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-01T13:58:04.4800406+00:00",
-  "LastChanged_Achievements": "2024-01-02T10:05:35.6500507+00:00",
+  "LastChanged_Achievements": "2024-01-02T11:05:31.720544+00:00",
   "LastUpdate_AppInfo": "2024-01-01T19:57:12.6980533+00:00",
-  "LastUpdate_Ratings": "2024-01-02T09:58:14.3101757+00:00",
-  "LastUpdate_Achievements": "2024-01-02T10:05:35.6501427+00:00"
+  "LastUpdate_Ratings": "2024-01-02T10:58:30.0611934+00:00",
+  "LastUpdate_Achievements": "2024-01-02T11:05:31.7206578+00:00"
 }

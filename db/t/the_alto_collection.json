@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 352,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -946,9 +946,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 53119,
+  "EOS_Progressed": 53121,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1171,
+  "EOS_NewPlayers": 1164,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30171,6 +30171,11 @@
       "Time": "2024-01-02T10:06:06.8435588+00:00",
       "NumProgressed": 53119,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-02T11:06:03.2430162+00:00",
+      "NumProgressed": 53121,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -30222,7 +30227,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 14342
+      "UsersEstimate": 14343
     },
     {
       "ID": "goals180",
@@ -30302,7 +30307,7 @@
       "Name": "Nomad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 9030
+      "UsersEstimate": 9031
     },
     {
       "ID": "novice",
@@ -30493,15 +30498,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 53119,
+      "Progressed": 53121,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2024-01-01T13:02:12.9147657+00:00",
-  "LastChanged_Achievements": "2024-01-02T10:06:06.8435583+00:00",
+  "LastChanged_Achievements": "2024-01-02T11:06:03.2430158+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:20.753487+00:00",
-  "LastUpdate_Ratings": "2024-01-02T09:59:08.2939478+00:00",
-  "LastUpdate_Achievements": "2024-01-02T10:06:06.8437126+00:00"
+  "LastUpdate_Ratings": "2024-01-02T10:59:24.2752223+00:00",
+  "LastUpdate_Achievements": "2024-01-02T11:06:03.2431664+00:00"
 }

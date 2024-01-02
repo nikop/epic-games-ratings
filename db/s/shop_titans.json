@@ -7877,10 +7877,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27900,
       "NumberOfAwardsMax": 4934
+    },
+    {
+      "Time": "2024-01-02T11:03:10.1150413+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27902,
+      "NumberOfAwardsMax": 4934
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27900,
+  "NumberOfAwards": 27902,
   "NumberOfAwardsMax": 4934,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7894,7 +7900,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 4013
+      "Count": 4015
     },
     {
       "Text": "This game is Great for Beginners",
@@ -7933,9 +7939,9 @@
       "Count": 3810
     }
   ],
-  "EOS_Progressed": 148955,
+  "EOS_Progressed": 148963,
   "EOS_Completed": 340,
-  "EOS_NewPlayers": 1277,
+  "EOS_NewPlayers": 1279,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -34993,6 +34999,11 @@
       "Time": "2024-01-02T10:05:54.7536921+00:00",
       "NumProgressed": 148955,
       "NumCompleted": 340
+    },
+    {
+      "Time": "2024-01-02T11:05:51.1189711+00:00",
+      "NumProgressed": 148963,
+      "NumCompleted": 340
     }
   ],
   "TotalAchievements": 112,
@@ -35004,7 +35015,7 @@
       "Name": "The Daily Grind",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5958
+      "UsersEstimate": 5959
     },
     {
       "ID": "advlevel02",
@@ -35140,7 +35151,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5958
+      "UsersEstimate": 5959
     },
     {
       "ID": "boss02",
@@ -35236,7 +35247,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13406
+      "UsersEstimate": 13407
     },
     {
       "ID": "commonres02",
@@ -35244,7 +35255,7 @@
       "Name": "Demand for Supplies",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5958
+      "UsersEstimate": 5959
     },
     {
       "ID": "commonres03",
@@ -35276,7 +35287,7 @@
       "Name": "Flooding the Market",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5958
+      "UsersEstimate": 5959
     },
     {
       "ID": "craft03",
@@ -35308,7 +35319,7 @@
       "Name": "Where it Hurts",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5958
+      "UsersEstimate": 5959
     },
     {
       "ID": "damage02",
@@ -35380,7 +35391,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8937
+      "UsersEstimate": 8938
     },
     {
       "ID": "expansion02",
@@ -35476,7 +35487,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13406
+      "UsersEstimate": 13407
     },
     {
       "ID": "gold02",
@@ -35492,7 +35503,7 @@
       "Name": "Gild-Gotten Goods",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5958
+      "UsersEstimate": 5959
     },
     {
       "ID": "gold04",
@@ -35556,7 +35567,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5958
+      "UsersEstimate": 5959
     },
     {
       "ID": "jackslot02",
@@ -35588,7 +35599,7 @@
       "Name": "Budding Merchant",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8937
+      "UsersEstimate": 8938
     },
     {
       "ID": "level02",
@@ -35628,7 +35639,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5958
+      "UsersEstimate": 5959
     },
     {
       "ID": "loot02",
@@ -35660,7 +35671,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5958
+      "UsersEstimate": 5959
     },
     {
       "ID": "master02",
@@ -35876,7 +35887,7 @@
       "Name": "Arcane Industries",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5958
+      "UsersEstimate": 5959
     },
     {
       "ID": "workers03",
@@ -35899,15 +35910,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 148955,
+      "Progressed": 148963,
       "Completed": 340
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2024-01-02T08:03:03.8667269+00:00",
-  "LastChanged_Achievements": "2024-01-02T10:05:54.7536917+00:00",
+  "LastChanged": "2024-01-02T11:03:10.1150411+00:00",
+  "LastChanged_Achievements": "2024-01-02T11:05:51.1189707+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.6407181+00:00",
-  "LastUpdate_Ratings": "2024-01-02T10:03:17.0082526+00:00",
-  "LastUpdate_Achievements": "2024-01-02T10:05:54.7538976+00:00"
+  "LastUpdate_Ratings": "2024-01-02T11:03:10.1150502+00:00",
+  "LastUpdate_Achievements": "2024-01-02T11:05:51.1191751+00:00"
 }

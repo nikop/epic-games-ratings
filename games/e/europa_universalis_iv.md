@@ -10,9 +10,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | Until death do us apart | 0.50% | ~2,451 |
 | That is mine! | 0.40% | ~1,961 |
 | Victorious! | 0.40% | ~1,961 |
-| Brothers in Arms | 0.30% | ~1,470 |
-| That's a Grand Navy | 0.30% | ~1,470 |
-| Seriously?! | 0.30% | ~1,470 |
+| Brothers in Arms | 0.30% | ~1,471 |
+| That's a Grand Navy | 0.30% | ~1,471 |
+| Seriously?! | 0.30% | ~1,471 |
 | Cold War | 0.20% | ~980 |
 | Defender of the Faith | 0.20% | ~980 |
 | For the Glory | 0.20% | ~980 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 490,151 (Ranked 42)  
+Progressed: 490,177 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -627,15 +627,15 @@ Completed: 1 (0.00%) (Ranked 390)
 | 2023-12-30 | 488,255 | 1 |
 | 2023-12-31 | 489,119 | 1 |
 | 2024-01-01 | 489,961 | 1 |
-| 2024-01-02 | 490,151 | 1 |
+| 2024-01-02 | 490,177 | 1 |
 ## Awards
-Max (Educational): 7,659  (Ranked 54)  
-Sum: 63,187 (Ranked 24)  
+Max (Educational): 7,680  (Ranked 54)  
+Sum: 63,214 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 7,659 |
-| This game has Diverse Characters | 7,507 |
+| This game is Educational | 7,680 |
+| This game has Diverse Characters | 7,513 |
 | This game is Highly Recommended | 7,360 |
 | This game has Challenging Combat | 7,280 |
 | This game is Extremely Fun | 7,183 |
@@ -997,4 +997,4 @@ Diff (max vs sum): 30
 | 2023-12-30 | 4.69 | - | 7,620 | 62,893 |
 | 2023-12-31 | 4.69 | - | 7,645 | 63,014 |
 | 2024-01-01 | 4.69 | - | 7,659 | 63,158 |
-| 2024-01-02 | 4.69 | - | 7,659 | 63,187 |
+| 2024-01-02 | 4.69 | - | 7,680 | 63,214 |

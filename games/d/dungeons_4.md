@@ -18,8 +18,8 @@ Rating: 4.70 (Ranked 216)
 | Master of Magic | 62.00% | ~428 |
 | Unicorn steaks – fresh off the hoof! | 62.00% | ~428 |
 | Magic Accidents | 59.00% | ~408 |
-| The Ascent | 58.00% | ~401 |
-| It's Warm and Cozy at Home | 58.00% | ~401 |
+| The Ascent | 59.00% | ~408 |
+| It's Warm and Cozy at Home | 59.00% | ~408 |
 | Trap Master | 55.00% | ~380 |
 | Minions, Minions! | 55.00% | ~380 |
 | Hard Work | 54.00% | ~373 |

@@ -4,7 +4,7 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 357,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 430,
+  "Ranking_EOS_NewPlayers": 417,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 429,
+  "EOS_Progressed": 430,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -704,6 +704,11 @@
       "Time": "2024-01-02T06:08:58.3103666+00:00",
       "NumProgressed": 429,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-02T11:08:49.0584819+00:00",
+      "NumProgressed": 430,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -731,7 +736,7 @@
       "Name": "Fore!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "CATAPULT_THROW",
@@ -747,7 +752,7 @@
       "Name": "The Collector",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "COLLECT_1_CAR",
@@ -787,7 +792,7 @@
       "Name": "Special Forces",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "CUSTOMIZATION_BANANA",
@@ -923,7 +928,7 @@
       "Name": "Insurance fraud",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "HIT_FLYING_UFO",
@@ -971,7 +976,7 @@
       "Name": "The Wild West",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "LOADED_LVL_FOREST",
@@ -987,7 +992,7 @@
       "Name": "Snow Fun!",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "LOADED_LVL_TANK",
@@ -1003,7 +1008,7 @@
       "Name": "Multiply that!",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ONE_MILLION_CASH",
@@ -1035,7 +1040,7 @@
       "Name": "Bag of Tricks",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "STUNT_SCORE_DOUBLE",
@@ -1139,7 +1144,7 @@
       "Name": "You\u0027re it",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "WIN_TANK_BATTLES",
@@ -1154,7 +1159,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 429,
+      "Progressed": 430,
       "Completed": 2
     }
   ],
@@ -1162,8 +1167,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2024-01-02T10:08:53.8088482+00:00",
+  "LastChanged_Achievements": "2024-01-02T11:08:49.0584817+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:00.1799692+00:00",
-  "LastUpdate_Ratings": "2024-01-02T09:58:08.5995035+00:00",
-  "LastUpdate_Achievements": "2024-01-02T10:08:53.8088996+00:00"
+  "LastUpdate_Ratings": "2024-01-02T10:58:24.5320547+00:00",
+  "LastUpdate_Achievements": "2024-01-02T11:08:49.0585398+00:00"
 }

@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 87.00% | ~2,160 |
-| Off to a good start | 62.00% | ~1,539 |
-| Do... or do not. There is no try | 52.00% | ~1,291 |
+| New Recruit | 87.00% | ~2,161 |
+| Off to a good start | 62.00% | ~1,540 |
+| Do... or do not. There is no try | 52.00% | ~1,292 |
 | A good blaster at your side | 26.00% | ~646 |
 | I suggest a new strategy | 18.00% | ~447 |
 | Great shot, kid! | 16.00% | ~397 |
-| Scrap collector | 15.00% | ~372 |
-| All right, I'll give it a try | 15.00% | ~372 |
+| Scrap collector | 15.00% | ~373 |
+| All right, I'll give it a try | 15.00% | ~373 |
 | Shoot first | 13.00% | ~323 |
 | The power of the Force | 12.00% | ~298 |
 | Collector | 12.00% | ~298 |
@@ -28,11 +28,11 @@
 | Distinguished | 4.00% | ~99 |
 | A tremor in the Force | 4.00% | ~99 |
 | Support the troops | 4.00% | ~99 |
-| On the ball | 3.00% | ~74 |
-| Safety ain't the point of a joyride | 3.00% | ~74 |
-| Not bad for a little furball | 3.00% | ~74 |
-| Patience you must have | 3.00% | ~74 |
-| Don't underestimate the Force | 3.00% | ~74 |
+| On the ball | 3.00% | ~75 |
+| Safety ain't the point of a joyride | 3.00% | ~75 |
+| Not bad for a little furball | 3.00% | ~75 |
+| Patience you must have | 3.00% | ~75 |
+| Don't underestimate the Force | 3.00% | ~75 |
 | The Force is strong with this one | 2.00% | ~50 |
 | I've been waiting for you | 2.00% | ~50 |
 | When 900 years old you reach... | 2.00% | ~50 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,483 (Ranked 232)  
+Progressed: 2,484 (Ranked 232)  
 Completed: 1 (0.04%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 1 (0.04%) (Ranked 344)
 | 2023-12-30 | 2,388 | 1 |
 | 2023-12-31 | 2,425 | 1 |
 | 2024-01-01 | 2,461 | 1 |
-| 2024-01-02 | 2,483 | 1 |
+| 2024-01-02 | 2,484 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

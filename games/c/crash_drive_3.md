@@ -9,15 +9,15 @@
 | A Forest Walk | 28.00% | ~120 |
 | Amateur Mechanic | 27.00% | ~116 |
 | Pushover | 27.00% | ~116 |
-| Multiply that! | 25.00% | ~107 |
+| Multiply that! | 25.00% | ~108 |
 | C-C-C-Combo! | 24.00% | ~103 |
-| Fore! | 22.00% | ~94 |
-| The Collector | 22.00% | ~94 |
-| Insurance fraud | 22.00% | ~94 |
-| The Wild West | 22.00% | ~94 |
-| Snow Fun! | 22.00% | ~94 |
-| Bag of Tricks | 22.00% | ~94 |
-| You're it | 22.00% | ~94 |
+| Fore! | 22.00% | ~95 |
+| The Collector | 22.00% | ~95 |
+| Insurance fraud | 22.00% | ~95 |
+| The Wild West | 22.00% | ~95 |
+| Snow Fun! | 22.00% | ~95 |
+| Bag of Tricks | 22.00% | ~95 |
+| You're it | 22.00% | ~95 |
 | To and Fro | 21.00% | ~90 |
 | I see the light! | 21.00% | ~90 |
 | In the Bag! | 21.00% | ~90 |
@@ -37,7 +37,7 @@
 | Assert Dominance | 16.00% | ~69 |
 | Speed of light | 16.00% | ~69 |
 | Out of this League | 13.00% | ~56 |
-| Special Forces | 12.00% | ~51 |
+| Special Forces | 12.00% | ~52 |
 | Toot Toot! | 11.00% | ~47 |
 | Blasting away! | 11.00% | ~47 |
 | High Roller | 10.00% | ~43 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 0.90% | ~4 |
 | Crashed and Driven | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 429 (Ranked 357)  
+Progressed: 430 (Ranked 357)  
 Completed: 2 (0.47%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 2 (0.47%) (Ranked 223)
 | 2023-12-29 | 426 | 2 |
 | 2023-12-30 | 427 | 2 |
 | 2024-01-01 | 428 | 2 |
-| 2024-01-02 | 429 | 2 |
+| 2024-01-02 | 430 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
