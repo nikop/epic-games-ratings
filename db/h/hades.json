@@ -6244,9 +6244,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 722189,
+  "EOS_Progressed": 722190,
   "EOS_Completed": 6584,
-  "EOS_NewPlayers": 1309,
+  "EOS_NewPlayers": 1304,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
@@ -34324,6 +34324,11 @@
       "Time": "2024-01-01T23:11:15.5386886+00:00",
       "NumProgressed": 722189,
       "NumCompleted": 6584
+    },
+    {
+      "Time": "2024-01-02T00:10:24.8476272+00:00",
+      "NumProgressed": 722190,
+      "NumCompleted": 6584
     }
   ],
   "TotalAchievements": 49,
@@ -34391,7 +34396,7 @@
       "Name": "Is There No Escape?",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 375538
+      "UsersEstimate": 375539
     },
     {
       "ID": "AchClearAsphodel",
@@ -34399,7 +34404,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 570529
+      "UsersEstimate": 570530
     },
     {
       "ID": "AchClearElysium",
@@ -34407,7 +34412,7 @@
       "Name": "Escaped Elysium",
       "Percentage": 65,
       "XP": 25,
-      "UsersEstimate": 469423
+      "UsersEstimate": 469424
     },
     {
       "ID": "AchClearElysiumEM",
@@ -34439,7 +34444,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 88,
       "XP": 25,
-      "UsersEstimate": 635526
+      "UsersEstimate": 635527
     },
     {
       "ID": "AchCrushedThanatos",
@@ -34447,7 +34452,7 @@
       "Name": "Death Dealer",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 324985
+      "UsersEstimate": 324986
     },
     {
       "ID": "AchEliteAttributeKills",
@@ -34543,7 +34548,7 @@
       "Name": "Had to Happen",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 180547
+      "UsersEstimate": 180548
     },
     {
       "ID": "AchMaxedAnyAspect",
@@ -34559,7 +34564,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 447757
+      "UsersEstimate": 447758
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -34631,7 +34636,7 @@
       "Name": "Tools of the Architect",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 166103
+      "UsersEstimate": 166104
     },
     {
       "ID": "AchPurgedLegendBoon",
@@ -34647,7 +34652,7 @@
       "Name": "The Family Secret",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 180547
+      "UsersEstimate": 180548
     },
     {
       "ID": "AchReachedEpilogue",
@@ -34671,7 +34676,7 @@
       "Name": "Musician and Muse",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 101106
+      "UsersEstimate": 101107
     },
     {
       "ID": "AchSisyphusLiberation",
@@ -34687,7 +34692,7 @@
       "Name": "Skelly Slayer",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 303319
+      "UsersEstimate": 303320
     },
     {
       "ID": "AchUnlockedAllWeapons",
@@ -34695,7 +34700,7 @@
       "Name": "Arms Collector",
       "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 505532
+      "UsersEstimate": 505533
     },
     {
       "ID": "AchWeaponClears",
@@ -34703,7 +34708,7 @@
       "Name": "Master of Arms",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 166103
+      "UsersEstimate": 166104
     },
     {
       "ID": "AchWellShopItems",
@@ -34726,15 +34731,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 722189,
+      "Progressed": 722190,
       "Completed": 6584
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2024-01-01T20:57:24.8379595+00:00",
-  "LastChanged_Achievements": "2024-01-01T23:11:15.5386883+00:00",
+  "LastChanged_Achievements": "2024-01-02T00:10:24.847627+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:04.5764624+00:00",
-  "LastUpdate_Ratings": "2024-01-01T22:57:42.1420052+00:00",
-  "LastUpdate_Achievements": "2024-01-01T23:11:15.5388317+00:00"
+  "LastUpdate_Ratings": "2024-01-01T23:57:37.9772535+00:00",
+  "LastUpdate_Achievements": "2024-01-02T00:10:24.8477575+00:00"
 }

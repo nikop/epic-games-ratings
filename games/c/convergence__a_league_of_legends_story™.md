@@ -6,10 +6,10 @@ Rating: 4.65 (Ranked 322)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 43.00% | ~512 |
-| The Mysterious Stranger | 32.00% | ~381 |
 | Rail Rat | 32.00% | ~381 |
-| Immaculate Aim | 27.00% | ~321 |
-| The Brass Boss | 26.00% | ~309 |
+| The Mysterious Stranger | 31.00% | ~369 |
+| Immaculate Aim | 27.00% | ~322 |
+| The Brass Boss | 26.00% | ~310 |
 | Make Up For Lost Time | 25.00% | ~298 |
 | Time Flies | 25.00% | ~298 |
 | No, Thanks! | 25.00% | ~298 |
@@ -30,7 +30,7 @@ Rating: 4.65 (Ranked 322)
 | Street Style | 18.00% | ~214 |
 | The Man Who Shattered Time | 18.00% | ~214 |
 | The Family Fortune | 18.00% | ~214 |
-| Whiz Kid | 15.00% | ~178 |
+| Whiz Kid | 15.00% | ~179 |
 | Good Neighbor | 14.00% | ~167 |
 | Family Memories | 13.00% | ~155 |
 | Cartographer | 13.00% | ~155 |
@@ -59,7 +59,7 @@ Rating: 4.65 (Ranked 322)
 | Raw Talent | 0.60% | ~7 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,190 (Ranked 281)  
+Progressed: 1,191 (Ranked 281)  
 Completed: 6 (0.50%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,6 +222,7 @@ Completed: 6 (0.50%) (Ranked 218)
 | 2023-12-30 | 1,165 | 6 |
 | 2023-12-31 | 1,175 | 6 |
 | 2024-01-01 | 1,190 | 6 |
+| 2024-01-02 | 1,191 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

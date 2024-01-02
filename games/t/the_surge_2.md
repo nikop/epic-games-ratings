@@ -5,9 +5,9 @@ Rating: 4.27 (Ranked 894)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 79.00% | ~1,929 |
-| Don't I Know You...? | 76.00% | ~1,856 |
-| Jailbreak | 65.00% | ~1,587 |
+| Rigged And Ready | 79.00% | ~1,930 |
+| Don't I Know You...? | 75.00% | ~1,832 |
+| Jailbreak | 65.00% | ~1,588 |
 | Suited and Booted | 38.00% | ~928 |
 | HEADSHOT! | 37.00% | ~904 |
 | Sleeping With The Fishes | 35.00% | ~855 |
@@ -19,19 +19,19 @@ Rating: 4.27 (Ranked 894)
 | Luminary | 22.00% | ~537 |
 | It's a Trap | 22.00% | ~537 |
 | True Survivor | 21.00% | ~513 |
-| Offensive Defense | 20.00% | ~488 |
-| Shocking | 20.00% | ~488 |
+| Offensive Defense | 20.00% | ~489 |
+| Shocking | 20.00% | ~489 |
 | Court Martial | 19.00% | ~464 |
 | Unforeseeable Consequences | 19.00% | ~464 |
 | Clean Cut | 18.00% | ~440 |
 | Dead Again | 17.00% | ~415 |
 | Full Arsenal | 17.00% | ~415 |
 | Can't Trust Banks | 15.00% | ~366 |
-| Mommy Dearest | 13.00% | ~317 |
-| Bad Dog | 13.00% | ~317 |
-| Where It All Began | 13.00% | ~317 |
-| Risk Tolerant | 13.00% | ~317 |
-| What A Catchy Song | 13.00% | ~317 |
+| Mommy Dearest | 13.00% | ~318 |
+| Bad Dog | 13.00% | ~318 |
+| Where It All Began | 13.00% | ~318 |
+| Risk Tolerant | 13.00% | ~318 |
+| What A Catchy Song | 13.00% | ~318 |
 | Corrupted Beauty | 12.00% | ~293 |
 | Marked For Success | 12.00% | ~293 |
 | Sorry, Didn't See You There | 12.00% | ~293 |
@@ -63,7 +63,7 @@ Rating: 4.27 (Ranked 894)
 | Three Birds With One Stone | 1.00% | ~24 |
 | The Easy Way Out | 1.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,442 (Ranked 233)  
+Progressed: 2,443 (Ranked 233)  
 Completed: 13 (0.53%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,6 +257,7 @@ Completed: 13 (0.53%) (Ranked 214)
 | 2023-12-30 | 2,418 | 13 |
 | 2023-12-31 | 2,428 | 13 |
 | 2024-01-01 | 2,442 | 13 |
+| 2024-01-02 | 2,443 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

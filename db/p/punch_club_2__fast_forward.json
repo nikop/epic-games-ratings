@@ -4,7 +4,7 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -2154,9 +2154,9 @@
       "ID": "all_promotion_6",
       "SetID": "69co12a",
       "Name": "Trap disarmed",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 145
     },
     {
       "ID": "another_world",
@@ -2649,8 +2649,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2024-01-01T23:10:49.9591497+00:00",
+  "LastChanged_Achievements": "2024-01-02T00:10:03.5137265+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:36.4340723+00:00",
-  "LastUpdate_Ratings": "2024-01-01T23:01:15.8833007+00:00",
-  "LastUpdate_Achievements": "2024-01-01T23:10:49.9592331+00:00"
+  "LastUpdate_Ratings": "2024-01-02T00:00:26.0394899+00:00",
+  "LastUpdate_Achievements": "2024-01-02T00:10:03.5137886+00:00"
 }

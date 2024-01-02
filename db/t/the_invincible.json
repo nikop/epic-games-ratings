@@ -63,7 +63,7 @@
   "Tags": [],
   "EOS_Progressed": 1273,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 271,
+  "EOS_NewPlayers": 270,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3497,9 +3497,9 @@
       "ID": "AchvReachCamp",
       "SetID": "1hj060c",
       "Name": "The Camp",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 853
+      "UsersEstimate": 866
     },
     {
       "ID": "AchvReachCity",
@@ -3513,9 +3513,9 @@
       "ID": "AchvReachCondor",
       "SetID": "1hj060c",
       "Name": "The Condor",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 446
+      "UsersEstimate": 458
     },
     {
       "ID": "AchvSurvivors",
@@ -3562,8 +3562,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-01T16:57:32.3594457+00:00",
-  "LastChanged_Achievements": "2024-01-01T23:10:38.2162554+00:00",
+  "LastChanged_Achievements": "2024-01-02T00:09:53.5790923+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:20.4992862+00:00",
-  "LastUpdate_Ratings": "2024-01-01T22:57:43.8561693+00:00",
-  "LastUpdate_Achievements": "2024-01-01T23:10:38.2163+00:00"
+  "LastUpdate_Ratings": "2024-01-01T23:57:39.1827793+00:00",
+  "LastUpdate_Achievements": "2024-01-02T00:09:53.5791324+00:00"
 }

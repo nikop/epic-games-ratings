@@ -51,7 +51,7 @@ Rating: 4.55 (Ranked 522)
 | Jester | 3.00% | ~5 |
 | Big game hunter | 2.00% | ~3 |
 | Mage | 2.00% | ~3 |
-| Sharpshooter | 1.00% | ~2 |
+| Sharpshooter | 2.00% | ~3 |
 | Gladiator | 0.70% | ~1 |
 | Master of the classes | 0.70% | ~1 |
 | Weaponsmith | 0.00% | ~0 |

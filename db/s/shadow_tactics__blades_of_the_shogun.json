@@ -2440,9 +2440,9 @@
       "Count": 259
     }
   ],
-  "EOS_Progressed": 223336,
+  "EOS_Progressed": 223342,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 1676,
+  "EOS_NewPlayers": 1675,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -31935,6 +31935,11 @@
       "Time": "2024-01-01T23:04:12.6185012+00:00",
       "NumProgressed": 223336,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2024-01-02T00:03:41.1420557+00:00",
+      "NumProgressed": 223342,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 44,
@@ -31946,7 +31951,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 24567
+      "UsersEstimate": 24568
     },
     {
       "ID": "AtheistOx",
@@ -31970,7 +31975,7 @@
       "Name": "Chunin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 13400
+      "UsersEstimate": 13401
     },
     {
       "ID": "CompleteMastery",
@@ -31986,7 +31991,7 @@
       "Name": "Disguised",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 20100
+      "UsersEstimate": 20101
     },
     {
       "ID": "FiveShadows",
@@ -32002,7 +32007,7 @@
       "Name": "Flying Rocks",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 13400
+      "UsersEstimate": 13401
     },
     {
       "ID": "GearUp",
@@ -32010,7 +32015,7 @@
       "Name": "Gear up",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8933
+      "UsersEstimate": 8934
     },
     {
       "ID": "Genin",
@@ -32018,7 +32023,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 26800
+      "UsersEstimate": 26801
     },
     {
       "ID": "HappyLittleAccidents",
@@ -32114,7 +32119,7 @@
       "Name": "Noboru",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 8933
+      "UsersEstimate": 8934
     },
     {
       "ID": "Okkoto",
@@ -32162,7 +32167,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 20100
+      "UsersEstimate": 20101
     },
     {
       "ID": "Rollin",
@@ -32170,7 +32175,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 20100
+      "UsersEstimate": 20101
     },
     {
       "ID": "StillRollin",
@@ -32178,7 +32183,7 @@
       "Name": "Still Rollin\u0027",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8933
+      "UsersEstimate": 8934
     },
     {
       "ID": "Stoned",
@@ -32186,7 +32191,7 @@
       "Name": "Stoned",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8933
+      "UsersEstimate": 8934
     },
     {
       "ID": "StonedOx",
@@ -32202,7 +32207,7 @@
       "Name": "Tanuki Time",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 20100
+      "UsersEstimate": 20101
     },
     {
       "ID": "TheCave",
@@ -32234,7 +32239,7 @@
       "Name": "Thorough",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 24567
+      "UsersEstimate": 24568
     },
     {
       "ID": "TimeParadox",
@@ -32266,7 +32271,7 @@
       "Name": "Warzone",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 13400
+      "UsersEstimate": 13401
     },
     {
       "ID": "WhenCutAcrossTheNeck",
@@ -32297,15 +32302,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 223336,
+      "Progressed": 223342,
       "Completed": 102
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-12-31T16:57:47.3077048+00:00",
-  "LastChanged_Achievements": "2024-01-01T23:04:12.6185008+00:00",
+  "LastChanged_Achievements": "2024-01-02T00:03:41.1420555+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:46.5494566+00:00",
-  "LastUpdate_Ratings": "2024-01-01T22:58:55.5826323+00:00",
-  "LastUpdate_Achievements": "2024-01-01T23:04:12.6186565+00:00"
+  "LastUpdate_Ratings": "2024-01-01T23:58:35.326175+00:00",
+  "LastUpdate_Achievements": "2024-01-02T00:03:41.1422011+00:00"
 }

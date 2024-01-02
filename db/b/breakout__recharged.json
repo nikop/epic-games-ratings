@@ -4,7 +4,7 @@
   "ProductSlug": "breakout-recharged",
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 430,
+  "Ranking_EOS_NewPlayers": 431,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -471,9 +471,9 @@
       "ID": "ACH_HIGH_HOPES",
       "SetID": "5kae3ip",
       "Name": "High Hopes",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_KING_BEE",
@@ -512,8 +512,8 @@
   "FirstSeenRating": "2023-03-31T05:58:34.1207634+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:23.2577155+00:00",
   "LastChanged": "2023-03-31T05:58:34.1207635+00:00",
-  "LastChanged_Achievements": "2024-01-01T23:10:48.4847655+00:00",
+  "LastChanged_Achievements": "2024-01-02T00:10:02.2198175+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:21.6934861+00:00",
-  "LastUpdate_Ratings": "2024-01-01T23:00:31.3744594+00:00",
-  "LastUpdate_Achievements": "2024-01-01T23:10:48.4847758+00:00"
+  "LastUpdate_Ratings": "2024-01-01T23:59:52.4136147+00:00",
+  "LastUpdate_Achievements": "2024-01-02T00:10:02.2198273+00:00"
 }

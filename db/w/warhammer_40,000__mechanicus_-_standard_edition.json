@@ -2,7 +2,7 @@
   "ID": "144f9e231e2846d1a4381d9bb678f69d",
   "Name": "Warhammer 40,000: Mechanicus - Standard Edition",
   "ProductSlug": "warhammer-mechanicus-0e4b71",
-  "Ranking_Rating": 718,
+  "Ranking_Rating": 717,
   "Ranking_Popularity": 263,
   "Ranking_PopularitySum": 209,
   "Ranking_EOS_Progress": 76,
@@ -1050,7 +1050,7 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 231120,
+  "EOS_Progressed": 231124,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 664,
   "EOS_NewCompleters": 0,
@@ -29185,6 +29185,11 @@
       "Time": "2024-01-01T23:11:11.2829651+00:00",
       "NumProgressed": 231120,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-02T00:10:21.3128695+00:00",
+      "NumProgressed": 231124,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -29196,7 +29201,7 @@
       "Name": "This is only the beginning",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 46224
+      "UsersEstimate": 46225
     },
     {
       "ID": "ACH_BASE_10",
@@ -29204,7 +29209,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 60091
+      "UsersEstimate": 60092
     },
     {
       "ID": "ACH_BASE_11",
@@ -29467,7 +29472,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 231120,
+      "Progressed": 231124,
       "Completed": 5
     }
   ],
@@ -29475,8 +29480,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-12-28T22:58:51.4033804+00:00",
-  "LastChanged_Achievements": "2024-01-01T23:11:11.2829649+00:00",
+  "LastChanged_Achievements": "2024-01-02T00:10:21.3128693+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:45.3371168+00:00",
-  "LastUpdate_Ratings": "2024-01-01T23:01:32.8694182+00:00",
-  "LastUpdate_Achievements": "2024-01-01T23:11:11.2830861+00:00"
+  "LastUpdate_Ratings": "2024-01-02T00:00:39.1985225+00:00",
+  "LastUpdate_Achievements": "2024-01-02T00:10:21.3129893+00:00"
 }

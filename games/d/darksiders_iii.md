@@ -1,21 +1,21 @@
 # Darksiders III
 [Store](https://store.epicgames.com/en-US/p/darksiders3)  
 [View Rawdata](../../db/d/darksiders_iii.json)  
-Rating: 4.47 (Ranked 662)  
+Rating: 4.47 (Ranked 661)  
 Number of Ratings: 116  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Green with Envy | 79.00% | ~295 |
 | First of many… | 68.00% | ~254 |
-| Helping Hand | 64.00% | ~239 |
-| Increased Vigor | 59.00% | ~220 |
+| Helping Hand | 65.00% | ~242 |
+| Increased Vigor | 60.00% | ~224 |
 | Fight Fire with Fire | 57.00% | ~213 |
 | Increased Capacity | 53.00% | ~198 |
 | Just the start | 48.00% | ~179 |
 | Perfect Storm | 45.00% | ~168 |
 | All That Glitters | 45.00% | ~168 |
-| Enhance! | 41.00% | ~153 |
+| Enhance! | 42.00% | ~157 |
 | One Of the Chosen | 39.00% | ~145 |
 | Devil's in the Details | 38.00% | ~142 |
 | Throne Potato | 38.00% | ~142 |
@@ -29,11 +29,11 @@ Number of Ratings: 116  (23.09.2022)
 | Maximum Vigor | 29.00% | ~108 |
 | Love Tap | 28.00% | ~104 |
 | For Whom the Bell Tolls | 27.00% | ~101 |
-| Freeze Frame | 25.00% | ~93 |
+| Freeze Frame | 26.00% | ~97 |
 | Eat Your Heart Out | 25.00% | ~93 |
 | Unyielding Strength | 24.00% | ~90 |
+| Big Spender | 24.00% | ~90 |
 | Can you restore the Balance? | 23.00% | ~86 |
-| Big Spender | 23.00% | ~86 |
 | Cleanup Crew | 22.00% | ~82 |
 | Crowd Source | 21.00% | ~78 |
 | Maximum Capacity | 20.00% | ~75 |

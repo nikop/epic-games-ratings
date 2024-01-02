@@ -55,13 +55,13 @@
 | Friend of Uram Gor | 7.00% | ~7 |
 | Defeat Ianna | 6.00% | ~6 |
 | Defeat Undergast | 6.00% | ~6 |
+| Fireforge | 6.00% | ~6 |
 | Heroes | 6.00% | ~6 |
 | Balanced | 6.00% | ~6 |
 | Get to the Airship! | 5.00% | ~5 |
 | Defeat Isgrimm | 5.00% | ~5 |
 | Defeat Yria | 5.00% | ~5 |
 | Lytra's Tale | 5.00% | ~5 |
-| Fireforge | 5.00% | ~5 |
 | Friend of Grey Dusk Vale | 5.00% | ~5 |
 | Misty Coast Dragonbones | 4.00% | ~4 |
 | Master Alchemist | 4.00% | ~4 |

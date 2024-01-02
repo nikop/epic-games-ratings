@@ -6,8 +6,8 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~7,480 |
-| The Cursed Farmer | 1.00% | ~2,493 |
+| A Brief Tour of the Realms | 3.00% | ~7,481 |
+| The Cursed Farmer | 1.00% | ~2,494 |
 | Beast Intentions | 0.90% | ~2,244 |
 | The Mad Wizard | 0.80% | ~1,995 |
 | Welcome to Sigil | 0.80% | ~1,725 |
@@ -20,10 +20,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeking Allies | 0.40% | ~997 |
 | Mad Cow Disease | 0.40% | ~997 |
 | Friendly Imps | 0.40% | ~997 |
-| When Tentacles Attack | 0.40% | ~862 |
-| Flames of Avernus | 0.40% | ~862 |
-| Don't Lose Your Head | 0.40% | ~862 |
-| Mind Spike | 0.40% | ~862 |
+| When Tentacles Attack | 0.40% | ~863 |
+| Flames of Avernus | 0.40% | ~863 |
+| Don't Lose Your Head | 0.40% | ~863 |
+| Mind Spike | 0.40% | ~863 |
 | A Persistent Buzzing | 0.30% | ~748 |
 | Terror in the Dark | 0.30% | ~748 |
 | Pure Energy | 0.30% | ~748 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~216 |
 | The Brains of an Illithid's Desire | 0.10% | ~216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,335 (Ranked 70)  
+Progressed: 249,373 (Ranked 70)  
 Completed: 2,583 (1.04%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -810,6 +810,7 @@ Completed: 2,583 (1.04%) (Ranked 170)
 | 2023-12-30 | 247,917 | 2,578 |
 | 2023-12-31 | 248,665 | 2,581 |
 | 2024-01-01 | 249,335 | 2,583 |
+| 2024-01-02 | 249,373 | 2,583 |
 ## Awards
 Max (Great for Beginners): 5,726  (Ranked 71)  
 Sum: 33,249 (Ranked 41)  

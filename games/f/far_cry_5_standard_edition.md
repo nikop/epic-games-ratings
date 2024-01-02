@@ -1,11 +1,11 @@
 # Far Cry 5 Standard Edition
 [Store](https://store.epicgames.com/en-US/p/far-cry-5)  
 [View Rawdata](../../db/f/far_cry_5_standard_edition.json)  
-Rating: 4.62 (Ranked 377)  
+Rating: 4.62 (Ranked 376)  
 Number of Ratings: 1,848  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 1,747  (Ranked 127)  
-Sum: 2,774 (Ranked 190)  
+Sum: 2,775 (Ranked 190)  
 Diff (max vs sum): -63  
 | Award | Count |
 | ----- | ----- |
@@ -18,7 +18,7 @@ Diff (max vs sum): -63
 | This game is Highly Recommended | 116 |
 | This game is Extremely Fun | 104 |
 | This game has Diverse Characters | 102 |
-| This game has Competitive Players | 88 |
+| This game has Competitive Players | 89 |
 | This game has Realistic Visuals | 58 |
 | This game has a Creative Community | 36 |
 ## Ratings History
@@ -357,4 +357,4 @@ Diff (max vs sum): -63
 | 2023-12-29 | 4.63 | - | 1,738 | 2,758 |
 | 2023-12-30 | 4.63 | - | 1,740 | 2,763 |
 | 2023-12-31 | 4.63 | - | 1,742 | 2,766 |
-| 2024-01-01 | 4.62 | - | 1,747 | 2,774 |
+| 2024-01-01 | 4.62 | - | 1,747 | 2,775 |

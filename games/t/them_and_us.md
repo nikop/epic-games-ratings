@@ -25,7 +25,7 @@
 | What A Mansion | 8.00% | ~30 |
 | I Am The Gate Keeper! | 7.00% | ~26 |
 | Researcher | 6.00% | ~22 |
-| Armed To The Teeth | 4.00% | ~15 |
+| Armed To The Teeth | 5.00% | ~18 |
 | This Mansion Is Clean | 4.00% | ~15 |
 | The bus stop | 3.00% | ~11 |
 | Back In Time | 2.00% | ~7 |

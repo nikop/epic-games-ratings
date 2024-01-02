@@ -4,7 +4,7 @@
   "ProductSlug": "bursthero-dd5a56",
   "Ranking_EOS_Progress": 581,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewPlayers": 297,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-12-29T00:00:00+00:00",
@@ -183,9 +183,9 @@
       "ID": "COMBO_BULLETSIZE",
       "SetID": "1fek4an",
       "Name": "Hands Up",
-      "Percentage": 19,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "COMBO_CRIT",
@@ -479,9 +479,9 @@
       "ID": "LEVEL_COMPLETE_1_0",
       "SetID": "1fek4an",
       "Name": "Boneyard",
-      "Percentage": 13,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "LEVEL_COMPLETE_1_12",
@@ -679,9 +679,9 @@
       "ID": "SHOP_LEVEL_UP_COMBO_MAX",
       "SetID": "1fek4an",
       "Name": "One Step",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SHOW_ALL",
@@ -718,8 +718,8 @@
   ],
   "FirstSeen": "2023-12-29T13:57:03.3261861+00:00",
   "FirstSeenAchievements": "2023-12-16T10:03:32.9103598+00:00",
-  "LastChanged_Achievements": "2024-01-01T23:09:10.0851062+00:00",
+  "LastChanged_Achievements": "2024-01-02T00:08:41.1691365+00:00",
   "LastUpdate_AppInfo": "2023-12-27T12:59:42.9426347+00:00",
-  "LastUpdate_Ratings": "2024-01-01T22:59:32.0826081+00:00",
-  "LastUpdate_Achievements": "2024-01-01T23:09:10.0851737+00:00"
+  "LastUpdate_Ratings": "2024-01-01T23:59:05.1511352+00:00",
+  "LastUpdate_Achievements": "2024-01-02T00:08:41.1691894+00:00"
 }

@@ -1,16 +1,16 @@
 # Despot's Game
 [Store](https://store.epicgames.com/en-US/p/despots-game-f61a0a)  
 [View Rawdata](../../db/d/despot's_game.json)  
-Rating: 4.50 (Ranked 613)  
+Rating: 4.50 (Ranked 612)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start! | 87.00% | ~416 |
-| Vanquisher of Robots | 78.00% | ~373 |
+| Good start! | 87.00% | ~417 |
+| Vanquisher of Robots | 78.00% | ~374 |
 | Party | 51.00% | ~244 |
 | Impossible Cube | 46.00% | ~220 |
-| Knowledge is Power | 45.00% | ~215 |
-| Through the Darkness | 45.00% | ~215 |
+| Knowledge is Power | 45.00% | ~216 |
+| Through the Darkness | 45.00% | ~216 |
 | No Mercy | 43.00% | ~206 |
 | The Return of a Rat | 41.00% | ~196 |
 | Fat of the Earth | 36.00% | ~172 |
@@ -19,19 +19,19 @@ Rating: 4.50 (Ranked 613)
 | He's Seen It All | 28.00% | ~134 |
 | Campaigning | 27.00% | ~129 |
 | Rookie | 27.00% | ~129 |
-| Catch Jonathan_tostar | 26.00% | ~124 |
+| Catch Jonathan_tostar | 26.00% | ~125 |
 | Assemble a Meganewbie | 25.00% | ~120 |
 | Frugal | 22.00% | ~105 |
-| Feed a God | 21.00% | ~100 |
+| Feed a God | 21.00% | ~101 |
 | To the Moon and Back | 20.00% | ~96 |
 | Great Flight | 19.00% | ~91 |
 | Holy Vengeance | 17.00% | ~81 |
 | Honorary Cultist | 13.00% | ~62 |
-| Brain and Brawn | 12.00% | ~57 |
 | Strength and Sorcery | 11.00% | ~53 |
+| Brain and Brawn | 11.00% | ~53 |
 | Omae Wa Mou Shindeiru | 8.00% | ~38 |
-| Experimentalist | 7.00% | ~33 |
-| Soldier | 7.00% | ~33 |
+| Experimentalist | 7.00% | ~34 |
+| Soldier | 7.00% | ~34 |
 | Wide Selection | 6.00% | ~29 |
 | Android Power | 5.00% | ~24 |
 | Shopaholic | 3.00% | ~14 |
@@ -41,7 +41,7 @@ Rating: 4.50 (Ranked 613)
 | Vet | 0.80% | ~4 |
 | Real Achiever | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 478 (Ranked 347)  
+Progressed: 479 (Ranked 347)  
 Completed: 1 (0.21%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,6 +124,7 @@ Completed: 1 (0.21%) (Ranked 269)
 | 2023-12-29 | 474 | 1 |
 | 2023-12-30 | 476 | 1 |
 | 2023-12-31 | 478 | 1 |
+| 2024-01-02 | 479 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

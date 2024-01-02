@@ -265,9 +265,9 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 1231,
+  "EOS_Progressed": 1232,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3415,6 +3415,11 @@
       "Time": "2024-01-01T23:08:53.3418113+00:00",
       "NumProgressed": 1231,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-02T00:08:27.0352312+00:00",
+      "NumProgressed": 1232,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3465,9 +3470,9 @@
       "ID": "BecomingSmarter",
       "SetID": "1n308hc",
       "Name": "Becoming Smarter",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 394
+      "UsersEstimate": 382
     },
     {
       "ID": "BreakTheLoop",
@@ -3515,7 +3520,7 @@
       "Name": "Desolate Island",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "Discovery",
@@ -3523,7 +3528,7 @@
       "Name": "Discovery",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "EasternWetlands",
@@ -3555,7 +3560,7 @@
       "Name": "Flooded Valley",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "GnothiSeauton",
@@ -3579,7 +3584,7 @@
       "Name": "Grasslands Ring",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "HighPlain",
@@ -3603,7 +3608,7 @@
       "Name": "Just One Lap",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "LordOfTheFiles",
@@ -3651,7 +3656,7 @@
       "Name": "Museum Visitor",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "NewBeginning",
@@ -3683,7 +3688,7 @@
       "Name": "Overload",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "Persistent",
@@ -3715,7 +3720,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "RenaissanceRobot",
@@ -3898,7 +3903,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1231,
+      "Progressed": 1232,
       "Completed": 2
     }
   ],
@@ -3906,8 +3911,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-01T16:59:26.0585046+00:00",
-  "LastChanged_Achievements": "2024-01-01T23:08:53.341811+00:00",
+  "LastChanged_Achievements": "2024-01-02T00:08:27.035231+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.9244138+00:00",
-  "LastUpdate_Ratings": "2024-01-01T22:59:28.9152235+00:00",
-  "LastUpdate_Achievements": "2024-01-01T23:08:53.3418818+00:00"
+  "LastUpdate_Ratings": "2024-01-01T23:59:02.7489206+00:00",
+  "LastUpdate_Achievements": "2024-01-02T00:08:27.0352784+00:00"
 }

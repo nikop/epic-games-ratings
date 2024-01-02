@@ -1015,9 +1015,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 7846,
+  "EOS_Progressed": 7849,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 294,
+  "EOS_NewPlayers": 297,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12930,6 +12930,11 @@
       "Time": "2024-01-01T23:06:24.9587644+00:00",
       "NumProgressed": 7846,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T00:05:29.3420074+00:00",
+      "NumProgressed": 7849,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -12941,7 +12946,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1255
+      "UsersEstimate": 1256
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -12989,7 +12994,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1098
+      "UsersEstimate": 1099
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -13260,13 +13265,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7846,
+      "Progressed": 7849,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7218,
+      "Progressed": 7221,
       "Completed": 113
     }
   ],
@@ -13274,8 +13279,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-26T19:00:49.2434236+00:00",
-  "LastChanged_Achievements": "2024-01-01T23:06:24.9587641+00:00",
+  "LastChanged_Achievements": "2024-01-02T00:05:29.3420071+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:09.4029638+00:00",
-  "LastUpdate_Ratings": "2024-01-01T23:00:02.8979177+00:00",
-  "LastUpdate_Achievements": "2024-01-01T23:06:24.9588325+00:00"
+  "LastUpdate_Ratings": "2024-01-01T23:59:30.3283681+00:00",
+  "LastUpdate_Achievements": "2024-01-02T00:05:29.342117+00:00"
 }

@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 252969,
+  "EOS_Progressed": 252970,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 395,
+  "EOS_NewPlayers": 393,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22982,6 +22982,11 @@
       "Time": "2024-01-01T23:11:06.0889603+00:00",
       "NumProgressed": 252969,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-02T00:10:16.7497181+00:00",
+      "NumProgressed": 252970,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -23017,7 +23022,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 53123
+      "UsersEstimate": 53124
     },
     {
       "ID": "blotbuster",
@@ -23065,7 +23070,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37945
+      "UsersEstimate": 37946
     },
     {
       "ID": "clearCut",
@@ -23089,7 +23094,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45534
+      "UsersEstimate": 45535
     },
     {
       "ID": "curator",
@@ -23233,7 +23238,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126484
+      "UsersEstimate": 126485
     },
     {
       "ID": "notScared",
@@ -23360,7 +23365,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 252969,
+      "Progressed": 252970,
       "Completed": 6
     }
   ],
@@ -23368,8 +23373,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-01T23:11:06.08896+00:00",
+  "LastChanged_Achievements": "2024-01-02T00:10:16.7497177+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.9407923+00:00",
-  "LastUpdate_Ratings": "2024-01-01T22:58:31.3386817+00:00",
-  "LastUpdate_Achievements": "2024-01-01T23:11:06.0891076+00:00"
+  "LastUpdate_Ratings": "2024-01-01T23:58:16.1838325+00:00",
+  "LastUpdate_Achievements": "2024-01-02T00:10:16.7498459+00:00"
 }

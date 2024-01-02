@@ -8685,9 +8685,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 751425,
+  "EOS_Progressed": 751435,
   "EOS_Completed": 12971,
-  "EOS_NewPlayers": 6963,
+  "EOS_NewPlayers": 6956,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.73,
   "EosHistory": [
@@ -31945,6 +31945,11 @@
       "Time": "2024-01-01T23:10:06.37058+00:00",
       "NumProgressed": 751425,
       "NumCompleted": 12971
+    },
+    {
+      "Time": "2024-01-02T00:09:26.7650979+00:00",
+      "NumProgressed": 751435,
+      "NumCompleted": 12971
     }
   ],
   "TotalAchievements": 60,
@@ -31956,7 +31961,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 37571
+      "UsersEstimate": 37572
     },
     {
       "ID": "02_Vengeance_H1",
@@ -31972,7 +31977,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 15028
+      "UsersEstimate": 15029
     },
     {
       "ID": "04_Vengeance_H3",
@@ -31980,7 +31985,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 15028
+      "UsersEstimate": 15029
     },
     {
       "ID": "05_Vengeance_H4",
@@ -32060,7 +32065,7 @@
       "Name": "Kill Nil",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 15028
+      "UsersEstimate": 15029
     },
     {
       "ID": "15_Detective_H1",
@@ -32108,7 +32113,7 @@
       "Name": "Stuntmaster",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 15028
+      "UsersEstimate": 15029
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -32124,7 +32129,7 @@
       "Name": "Street Fighting",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 15028
+      "UsersEstimate": 15029
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -32140,7 +32145,7 @@
       "Name": "State of constant learning",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 15028
+      "UsersEstimate": 15029
     },
     {
       "ID": "25_ShrineMind",
@@ -32156,7 +32161,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 15028
+      "UsersEstimate": 15029
     },
     {
       "ID": "27_ShrineBody",
@@ -32164,7 +32169,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 15028
+      "UsersEstimate": 15029
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -32204,7 +32209,7 @@
       "Name": "Old Child",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 15028
+      "UsersEstimate": 15029
     },
     {
       "ID": "33_BladeOneShot",
@@ -32236,7 +32241,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 15028
+      "UsersEstimate": 15029
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -32244,7 +32249,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 15028
+      "UsersEstimate": 15029
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -32435,21 +32440,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 60726,
+      "Progressed": 60736,
       "Completed": 10795
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 751425,
+      "Progressed": 751435,
       "Completed": 12971
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-01T22:02:56.0386827+00:00",
-  "LastChanged_Achievements": "2024-01-01T23:10:06.3705796+00:00",
+  "LastChanged_Achievements": "2024-01-02T00:09:26.7650976+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:26.4563062+00:00",
-  "LastUpdate_Ratings": "2024-01-01T23:03:33.4674875+00:00",
-  "LastUpdate_Achievements": "2024-01-01T23:10:06.3707606+00:00"
+  "LastUpdate_Ratings": "2024-01-02T00:03:08.1095509+00:00",
+  "LastUpdate_Achievements": "2024-01-02T00:09:26.7652439+00:00"
 }

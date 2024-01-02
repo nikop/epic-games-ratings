@@ -450,9 +450,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 923,
+  "EOS_Progressed": 924,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3305,6 +3305,11 @@
       "Time": "2024-01-01T23:10:00.7475113+00:00",
       "NumProgressed": 923,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T00:09:22.2763091+00:00",
+      "NumProgressed": 924,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3341,7 +3346,7 @@
       "Name": "Dressed For Success",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "AttackCount",
@@ -3459,9 +3464,9 @@
       "ID": "DoubleKill",
       "SetID": "71c0n9i",
       "Name": "Double Kill",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 360
+      "UsersEstimate": 370
     },
     {
       "ID": "FlameAttackKillCount",
@@ -3475,7 +3480,7 @@
       "ID": "FrontlineFighterCount",
       "SetID": "71c0n9i",
       "Name": "In The Thick of It",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -3651,9 +3656,9 @@
       "ID": "WielderLevel2",
       "SetID": "71c0n9i",
       "Name": "Veteran",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 203
     },
     {
       "ID": "WielderLevel3",
@@ -3748,15 +3753,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 923,
+      "Progressed": 924,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2024-01-01T23:10:00.7475109+00:00",
+  "LastChanged_Achievements": "2024-01-02T00:09:22.2763088+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:53.9356991+00:00",
-  "LastUpdate_Ratings": "2024-01-01T23:02:53.7212695+00:00",
-  "LastUpdate_Achievements": "2024-01-01T23:10:00.7475617+00:00"
+  "LastUpdate_Ratings": "2024-01-02T00:02:34.7364095+00:00",
+  "LastUpdate_Achievements": "2024-01-02T00:09:22.2763566+00:00"
 }

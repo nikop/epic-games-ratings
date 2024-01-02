@@ -24,9 +24,9 @@
 | Mummy Nightmare | 8.00% | ~9 |
 | Under the Hood | 7.00% | ~8 |
 | Long Live Gaipajama! | 7.00% | ~8 |
+| Tintin, Reporter | 6.00% | ~7 |
 | Eyes Shut | 6.00% | ~7 |
 | Barking Dog | 6.00% | ~7 |
-| Tintin, Reporter | 5.00% | ~6 |
 | Mountain Runner | 4.00% | ~4 |
 | Subtlety | 4.00% | ~4 |
 | The Corporal's Golden Boy | 3.00% | ~3 |

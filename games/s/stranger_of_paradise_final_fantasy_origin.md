@@ -6,54 +6,54 @@ Number of Ratings: 1,919  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Manifestation of the Soul | 97.00% | ~79,368 |
-| No Escape | 86.00% | ~70,368 |
-| Seeker of Power | 84.00% | ~68,731 |
-| Hopes and Dreams | 82.00% | ~67,095 |
-| Lantern Smasher | 78.00% | ~63,822 |
-| The Pirate's Way | 73.00% | ~59,731 |
-| Dark Crystal, Warrior's Heart | 71.00% | ~58,094 |
-| The King of the Dark Elves | 68.00% | ~55,640 |
-| Memories of the Distant Past | 66.00% | ~54,003 |
-| Distortion's Progeny | 63.00% | ~51,548 |
-| Savant | 62.00% | ~50,730 |
-| A Landscape of Memory | 58.00% | ~47,457 |
-| The Wind's Light | 54.00% | ~44,184 |
-| Vague Remembrances | 49.00% | ~40,093 |
-| The Fire's Light | 47.00% | ~38,457 |
-| Phantom Memories | 47.00% | ~38,457 |
-| Imbued Memories | 46.00% | ~37,639 |
-| The Earth's Light | 45.00% | ~36,820 |
+| Manifestation of the Soul | 97.00% | ~79,370 |
+| No Escape | 86.00% | ~70,370 |
+| Seeker of Power | 84.00% | ~68,733 |
+| Hopes and Dreams | 82.00% | ~67,096 |
+| Lantern Smasher | 78.00% | ~63,824 |
+| The Pirate's Way | 73.00% | ~59,732 |
+| Dark Crystal, Warrior's Heart | 71.00% | ~58,096 |
+| The King of the Dark Elves | 68.00% | ~55,641 |
+| Memories of the Distant Past | 66.00% | ~54,004 |
+| Distortion's Progeny | 63.00% | ~51,550 |
+| Savant | 62.00% | ~50,732 |
+| A Landscape of Memory | 58.00% | ~47,458 |
+| The Wind's Light | 54.00% | ~44,186 |
+| Vague Remembrances | 49.00% | ~40,094 |
+| The Fire's Light | 47.00% | ~38,458 |
+| Phantom Memories | 47.00% | ~38,458 |
+| Imbued Memories | 46.00% | ~37,640 |
+| The Earth's Light | 45.00% | ~36,821 |
 | Shared Recollections | 42.00% | ~34,366 |
-| The Water's Light | 40.00% | ~32,729 |
-| Path of the Sage | 39.00% | ~31,911 |
+| The Water's Light | 40.00% | ~32,730 |
+| Path of the Sage | 39.00% | ~31,912 |
 | Malice Takes Root | 37.00% | ~30,275 |
 | Path of the Dark Knight | 37.00% | ~30,275 |
 | Path of the Breaker | 37.00% | ~30,275 |
-| Duty's Course | 36.00% | ~29,456 |
-| Path of the Paladin | 36.00% | ~29,456 |
-| Path of the Liberator | 35.00% | ~28,638 |
-| Led by the Nose | 34.00% | ~27,820 |
-| Path of the Void Knight | 34.00% | ~27,820 |
-| Path of the Tyrant | 34.00% | ~27,820 |
+| Duty's Course | 36.00% | ~29,457 |
+| Path of the Paladin | 36.00% | ~29,457 |
+| Path of the Liberator | 35.00% | ~28,639 |
+| Led by the Nose | 34.00% | ~27,821 |
+| Path of the Void Knight | 34.00% | ~27,821 |
+| Path of the Tyrant | 34.00% | ~27,821 |
 | Terminus of Fate | 33.00% | ~27,002 |
 | Path of the Ninja | 33.00% | ~27,002 |
 | His Name Is Garland | 33.00% | ~27,002 |
-| Path of the Assassin | 31.00% | ~25,365 |
-| Seeker of Ultimate Power | 23.00% | ~18,819 |
-| Artifact Collector | 22.00% | ~18,001 |
-| Polymath | 22.00% | ~18,001 |
+| Path of the Assassin | 31.00% | ~25,366 |
+| Seeker of Ultimate Power | 23.00% | ~18,820 |
+| Artifact Collector | 22.00% | ~18,002 |
+| Polymath | 22.00% | ~18,002 |
 | True Potential | 21.00% | ~17,183 |
 | Origin of True Chaos | 20.00% | ~16,365 |
-| Master's Awakening | 19.00% | ~15,546 |
-| Jack-of-All-Trades | 19.00% | ~15,546 |
+| Master's Awakening | 19.00% | ~15,547 |
+| Jack-of-All-Trades | 19.00% | ~15,547 |
 | Cycle of Darkness | 16.00% | ~13,092 |
 | Job Master | 8.00% | ~6,546 |
 | Crest Bearer | 7.00% | ~5,728 |
 | Strangers' Memories | 3.00% | ~2,455 |
 | A Tale of Origins and Endings | 2.00% | ~1,636 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 81,823 (Ranked 107)  
+Progressed: 81,825 (Ranked 107)  
 Completed: 2,216 (2.71%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,10 +309,11 @@ Completed: 2,216 (2.71%) (Ranked 118)
 | 2023-12-30 | 81,685 | 2,214 |
 | 2023-12-31 | 81,753 | 2,216 |
 | 2024-01-01 | 81,823 | 2,216 |
+| 2024-01-02 | 81,825 | 2,216 |
 ## Awards
-Max (Great Boss Battles): 776  (Ranked 184)  
+Max (Great Boss Battles): 776  (Ranked 185)  
 Sum: 1,601 (Ranked 236)  
-Diff (max vs sum): -52  
+Diff (max vs sum): -51  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,024 |

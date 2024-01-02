@@ -1,17 +1,17 @@
 # Redout: Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/redout-enhanced-edition)  
 [View Rawdata](../../db/r/redout__enhanced_edition.json)  
-Rating: 4.49 (Ranked 633)  
+Rating: 4.49 (Ranked 632)  
 Number of Ratings: 274  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| VANGUARD | 41.00% | ~97,783 |
-| NATURAL BORN WINNER | 33.00% | ~78,704 |
-| CALLING HOUSTON | 28.00% | ~66,779 |
-| SNEAKY SNEAKY | 22.00% | ~52,469 |
-| TRICK UP YOUR SLEEVE | 22.00% | ~52,469 |
-| GT9STRADALE | 20.00% | ~47,699 |
+| VANGUARD | 41.00% | ~97,785 |
+| NATURAL BORN WINNER | 33.00% | ~78,705 |
+| CALLING HOUSTON | 28.00% | ~66,780 |
+| SNEAKY SNEAKY | 22.00% | ~52,470 |
+| TRICK UP YOUR SLEEVE | 22.00% | ~52,470 |
+| GT9STRADALE | 20.00% | ~47,700 |
 | CHALLENGER | 11.00% | ~26,235 |
 | ON A ROLL | 9.00% | ~21,465 |
 | CENTAUR | 8.00% | ~19,080 |
@@ -28,20 +28,20 @@ Number of Ratings: 274  (23.09.2022)
 | HARDCORE | 1.00% | ~2,385 |
 | ACE | 0.80% | ~1,908 |
 | TACTICIAN | 0.60% | ~1,431 |
-| GTX COMPETIZIONE | 0.50% | ~1,192 |
-| HIDDEN POWER | 0.50% | ~1,192 |
-| TUNING MANIAC | 0.50% | ~1,192 |
+| GTX COMPETIZIONE | 0.50% | ~1,193 |
+| HIDDEN POWER | 0.50% | ~1,193 |
+| TUNING MANIAC | 0.50% | ~1,193 |
 | DRAGOON | 0.40% | ~954 |
 | FLAWLESS | 0.40% | ~954 |
-| MARID | 0.30% | ~715 |
+| MARID | 0.30% | ~716 |
 | BETTER THAN EVER | 0.20% | ~477 |
 | IINI | 0.20% | ~477 |
 | NOBUNAGA | 0.20% | ~477 |
 | ODIN | 0.20% | ~477 |
 | PILE UP TROPHIES | 0.20% | ~477 |
-| ENLIGHTENED | 0.10% | ~238 |
+| ENLIGHTENED | 0.10% | ~239 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,496 (Ranked 74)  
+Progressed: 238,501 (Ranked 74)  
 Completed: 49 (0.02%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,6 +298,7 @@ Completed: 49 (0.02%) (Ranked 357)
 | 2023-12-30 | 238,311 | 49 |
 | 2023-12-31 | 238,406 | 49 |
 | 2024-01-01 | 238,496 | 49 |
+| 2024-01-02 | 238,501 | 49 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

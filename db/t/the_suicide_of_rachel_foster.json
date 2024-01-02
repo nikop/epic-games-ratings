@@ -2,12 +2,12 @@
   "ID": "67eb392889234b4d99a6562c5e60c825",
   "Name": "The Suicide of Rachel Foster",
   "ProductSlug": "the-suicide-of-rachel-foster-1dc01b",
-  "Ranking_Rating": 962,
+  "Ranking_Rating": 961,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 88,
-  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1814,
+  "EOS_Progressed": 1815,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 4.24,
   "EosHistory": [
@@ -4153,6 +4153,11 @@
       "Time": "2024-01-01T22:03:23.8090439+00:00",
       "NumProgressed": 1814,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2024-01-02T00:03:41.8868558+00:00",
+      "NumProgressed": 1815,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 11,
@@ -4162,9 +4167,9 @@
       "ID": "ACH_Appuntamento",
       "SetID": "7a9m7mj",
       "Name": "Cutepie",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 744
+      "UsersEstimate": 726
     },
     {
       "ID": "ACH_BloccatoInGhiacciaia",
@@ -4180,7 +4185,7 @@
       "Name": "Screwdriver",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     },
     {
       "ID": "ACH_DialogoAspettoFisico",
@@ -4196,7 +4201,7 @@
       "Name": "Is she really dead?",
       "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "ACH_FineEV9",
@@ -4204,7 +4209,7 @@
       "Name": "Alone",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "ACH_FineGioco",
@@ -4220,7 +4225,7 @@
       "Name": "Pack Rat",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "ACH_PrimoContattoIrving",
@@ -4251,15 +4256,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1814,
+      "Progressed": 1815,
       "Completed": 77
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-11-07T11:59:02.4644389+00:00",
-  "LastChanged_Achievements": "2024-01-01T23:04:13.5652992+00:00",
+  "LastChanged_Achievements": "2024-01-02T00:03:41.8868555+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:08.0184284+00:00",
-  "LastUpdate_Ratings": "2024-01-01T22:59:57.4943678+00:00",
-  "LastUpdate_Achievements": "2024-01-01T23:04:13.5653255+00:00"
+  "LastUpdate_Ratings": "2024-01-01T23:59:25.6917659+00:00",
+  "LastUpdate_Achievements": "2024-01-02T00:03:41.8868803+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "4046b000e6b0477ea639ee07e28db3d0",
   "Name": "Hello Neighbor 2",
   "ProductSlug": "hello-neighbor-2",
-  "Ranking_Rating": 718,
+  "Ranking_Rating": 717,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 214,
@@ -495,7 +495,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3799,
+  "EOS_Progressed": 3800,
   "EOS_Completed": 142,
   "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 2,
@@ -6585,6 +6585,11 @@
       "Time": "2024-01-01T22:08:19.6730725+00:00",
       "NumProgressed": 3799,
       "NumCompleted": 142
+    },
+    {
+      "Time": "2024-01-02T00:08:46.636103+00:00",
+      "NumProgressed": 3800,
+      "NumCompleted": 142
     }
   ],
   "TotalAchievements": 14,
@@ -6700,14 +6705,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 79,
       "XP": 35,
-      "UsersEstimate": 3001
+      "UsersEstimate": 3002
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3799,
+      "Progressed": 3800,
       "Completed": 142
     }
   ],
@@ -6715,8 +6720,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-12-29T23:00:02.814442+00:00",
-  "LastChanged_Achievements": "2024-01-01T23:09:16.8341347+00:00",
+  "LastChanged_Achievements": "2024-01-02T00:08:46.6361026+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:02.885587+00:00",
-  "LastUpdate_Ratings": "2024-01-01T23:03:15.6831099+00:00",
-  "LastUpdate_Achievements": "2024-01-01T23:09:16.8341787+00:00"
+  "LastUpdate_Ratings": "2024-01-02T00:02:53.4353391+00:00",
+  "LastUpdate_Achievements": "2024-01-02T00:08:46.6361546+00:00"
 }

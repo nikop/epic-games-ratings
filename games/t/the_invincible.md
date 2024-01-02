@@ -5,13 +5,13 @@ Rating: 4.56 (Ranked 503)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 67.00% | ~853 |
+| The Camp | 68.00% | ~866 |
 | The Teleprobe | 53.00% | ~675 |
 | The City | 48.00% | ~611 |
 | The field base | 44.00% | ~560 |
 | The Alliance | 39.00% | ~496 |
 | Survivors | 38.00% | ~484 |
-| The Condor | 35.00% | ~446 |
+| The Condor | 36.00% | ~458 |
 | The End | 35.00% | ~446 |
 | The Necroevolution | 28.00% | ~356 |
 | Krauta is alive | 27.00% | ~344 |

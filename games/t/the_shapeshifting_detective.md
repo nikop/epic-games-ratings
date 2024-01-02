@@ -8,7 +8,7 @@
 | Play It Again Sam | 90.00% | ~277 |
 | Play Me By The Hour | 69.00% | ~213 |
 | Patient Listener | 46.00% | ~142 |
-| Video Saved The Radio Star | 38.00% | ~117 |
+| Video Saved The Radio Star | 39.00% | ~120 |
 | Hashtag Winning | 37.00% | ~114 |
 | A Woman Scorned | 28.00% | ~86 |
 | Look Mum I'm A Detective | 20.00% | ~62 |

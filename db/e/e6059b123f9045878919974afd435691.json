@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1292,
+  "EOS_Progressed": 1293,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3439,6 +3439,11 @@
       "Time": "2024-01-01T19:11:33.650281+00:00",
       "NumProgressed": 1292,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T00:10:30.8916063+00:00",
+      "NumProgressed": 1293,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3450,7 +3455,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -3466,7 +3471,7 @@
       "Name": "FULLCLIP",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "AMMO_ACHIEVEMENT_4",
@@ -3490,7 +3495,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -3586,7 +3591,7 @@
       "Name": "He\u0027s Getting Crazier",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "BURN_ACHIEVEMENT_4",
@@ -3698,7 +3703,7 @@
       "Name": "I\u0027ll Save You!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "FREE_ACHIEVEMENT_2",
@@ -3722,7 +3727,7 @@
       "Name": "Pest Control or Taxonomist?",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "KILLR_ACHIEVEMENT_1",
@@ -3730,7 +3735,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -3746,7 +3751,7 @@
       "Name": "Decakill!",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -3762,7 +3767,7 @@
       "Name": "Do This In Silence",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_1",
@@ -3770,7 +3775,7 @@
       "Name": "And There We Go",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -3802,7 +3807,7 @@
       "Name": "Leecher Hunting Season",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "LEECHER_ACHIEVEMENT_1",
@@ -3882,7 +3887,7 @@
       "Name": "The Last of Us",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -3977,14 +3982,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1292,
+      "Progressed": 1293,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-01T23:11:22.670672+00:00",
+  "LastChanged_Achievements": "2024-01-02T00:10:30.8916061+00:00",
   "LastUpdate_AppInfo": "2023-12-29T02:57:14.6537743+00:00",
-  "LastUpdate_Ratings": "2024-01-01T22:59:53.6309108+00:00",
-  "LastUpdate_Achievements": "2024-01-01T23:11:22.6707523+00:00"
+  "LastUpdate_Ratings": "2024-01-01T23:59:22.6207975+00:00",
+  "LastUpdate_Achievements": "2024-01-02T00:10:30.891666+00:00"
 }

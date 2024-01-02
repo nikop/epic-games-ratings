@@ -7,10 +7,10 @@ Number of Ratings: 292  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Adept | 46.00% | ~425 |
-| Double Kill | 39.00% | ~360 |
+| Double Kill | 40.00% | ~370 |
+| Veteran | 22.00% | ~203 |
 | Critical Hit | 21.00% | ~194 |
-| Veteran | 21.00% | ~194 |
-| Dressed For Success | 15.00% | ~138 |
+| Dressed For Success | 15.00% | ~139 |
 | Humiliation | 9.00% | ~83 |
 | Veni, Vidi, Vici | 9.00% | ~83 |
 | Multi Kill | 8.00% | ~74 |
@@ -33,7 +33,7 @@ Number of Ratings: 292  (23.09.2022)
 | Together For Her | 1.00% | ~9 |
 | Such A Fungi | 1.00% | ~9 |
 | Grand Master | 1.00% | ~9 |
-| In The Thick of It | 0.70% | ~6 |
+| In The Thick of It | 0.60% | ~6 |
 | Unlimited Power! | 0.50% | ~5 |
 | Get Over Here! | 0.50% | ~5 |
 | Death To Diplomacy | 0.40% | ~4 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 923 (Ranked 292)  
+Progressed: 924 (Ranked 292)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,6 +114,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-30 | 871 | 0 |
 | 2023-12-31 | 895 | 0 |
 | 2024-01-01 | 923 | 0 |
+| 2024-01-02 | 924 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 29  (Ranked 520)  
 Sum: 251 (Ranked 399)  

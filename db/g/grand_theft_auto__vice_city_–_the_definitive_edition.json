@@ -2,13 +2,13 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 591,
+  "Ranking_Rating": 573,
   "Ranking_Popularity": 316,
   "Ranking_PopularitySum": 430,
   "Ranking_EOS_Progress": 169,
-  "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_Completed": 209,
+  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.51,
+  "Rating": 4.52,
   "RatingHistory": [
     {
       "Time": "2023-02-21T16:57:02.7003964+00:00",
@@ -1031,6 +1031,12 @@
       "Rating": 4.51,
       "NumberOfAwards": 172,
       "NumberOfAwardsMax": 172
+    },
+    {
+      "Time": "2024-01-01T23:57:10.5196763+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 172,
+      "NumberOfAwardsMax": 172
     }
   ],
   "ReviewsDisabled": false,
@@ -1045,11 +1051,11 @@
       "Count": 172
     }
   ],
-  "EOS_Progressed": 15003,
-  "EOS_Completed": 84,
-  "EOS_NewPlayers": 973,
-  "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 0.56,
+  "EOS_Progressed": 15005,
+  "EOS_Completed": 85,
+  "EOS_NewPlayers": 968,
+  "EOS_NewCompleters": 9,
+  "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.1062688+00:00",
@@ -16670,6 +16676,11 @@
       "Time": "2024-01-01T23:10:47.8118231+00:00",
       "NumProgressed": 15003,
       "NumCompleted": 84
+    },
+    {
+      "Time": "2024-01-02T00:10:01.6199202+00:00",
+      "NumProgressed": 15005,
+      "NumCompleted": 85
     }
   ],
   "TotalAchievements": 34,
@@ -16751,9 +16762,9 @@
       "ID": "ACH10",
       "SetID": "9llo822",
       "Name": "Vice City Mogul",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 900
+      "UsersEstimate": 1050
     },
     {
       "ID": "ACH11",
@@ -16761,7 +16772,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1650
+      "UsersEstimate": 1651
     },
     {
       "ID": "ACH12",
@@ -16785,7 +16796,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 6301
+      "UsersEstimate": 6302
     },
     {
       "ID": "ACH15",
@@ -16841,7 +16852,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 6901
+      "UsersEstimate": 6902
     },
     {
       "ID": "ACH22",
@@ -16865,7 +16876,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2250
+      "UsersEstimate": 2251
     },
     {
       "ID": "ACH25",
@@ -16873,7 +16884,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2250
+      "UsersEstimate": 2251
     },
     {
       "ID": "ACH26",
@@ -16881,7 +16892,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2250
+      "UsersEstimate": 2251
     },
     {
       "ID": "ACH27",
@@ -16952,16 +16963,16 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 15003,
-      "Completed": 84
+      "Progressed": 15005,
+      "Completed": 85
     }
   ],
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
-  "LastChanged": "2024-01-01T13:03:44.2901272+00:00",
-  "LastChanged_Achievements": "2024-01-01T23:10:47.8118227+00:00",
+  "LastChanged": "2024-01-01T23:57:10.5196761+00:00",
+  "LastChanged_Achievements": "2024-01-02T00:10:01.6199199+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:48.9246276+00:00",
-  "LastUpdate_Ratings": "2024-01-01T22:00:13.2895526+00:00",
-  "LastUpdate_Achievements": "2024-01-01T23:10:47.8119238+00:00"
+  "LastUpdate_Ratings": "2024-01-01T23:57:10.5196764+00:00",
+  "LastUpdate_Achievements": "2024-01-02T00:10:01.6200228+00:00"
 }

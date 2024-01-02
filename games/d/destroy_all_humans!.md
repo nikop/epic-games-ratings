@@ -26,7 +26,7 @@ Number of Ratings: 85  (23.09.2022)
 | Deincarnated | 28.00% | ~78 |
 | Rock of the Bay | 25.00% | ~70 |
 | Trans-Siberian Express | 25.00% | ~70 |
-| Re-Return of the Clone of the Invasion II-2 | 20.00% | ~56 |
+| Re-Return of the Clone of the Invasion II-2 | 21.00% | ~59 |
 | Arkvoodle Doodle | 19.00% | ~53 |
 | If You Know What I Mean | 17.00% | ~47 |
 | Ouch of Body Experience | 16.00% | ~45 |

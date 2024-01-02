@@ -2,7 +2,7 @@
   "ID": "a3100205e194489088c7625c8c5c1596",
   "Name": "The Forest Quartet",
   "ProductSlug": "forest-quartet-5d03e3",
-  "Ranking_Rating": 969,
+  "Ranking_Rating": 968,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 98,
@@ -161,9 +161,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 104228,
+  "EOS_Progressed": 104230,
   "EOS_Completed": 335,
-  "EOS_NewPlayers": 1694,
+  "EOS_NewPlayers": 1685,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -12331,6 +12331,11 @@
       "Time": "2024-01-01T23:08:35.19356+00:00",
       "NumProgressed": 104228,
       "NumCompleted": 335
+    },
+    {
+      "Time": "2024-01-02T00:08:11.8954511+00:00",
+      "NumProgressed": 104230,
+      "NumCompleted": 335
     }
   ],
   "AchievementsAdded": "2023-09-15T07:03:16.7096023+00:00",
@@ -12343,7 +12348,7 @@
       "Name": "Forest Stage Discovered",
       "Percentage": 90,
       "XP": 100,
-      "UsersEstimate": 93805
+      "UsersEstimate": 93807
     },
     {
       "ID": "JB_is_Playing",
@@ -12351,7 +12356,7 @@
       "Name": "JB is Playing",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 22930
+      "UsersEstimate": 22931
     },
     {
       "ID": "JBs_House_Discovered",
@@ -12359,7 +12364,7 @@
       "Name": "JB\u2019s House Discovered",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 27099
+      "UsersEstimate": 27100
     },
     {
       "ID": "Kirk_is_Playing",
@@ -12367,7 +12372,7 @@
       "Name": "Kirk is Playing",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 43776
+      "UsersEstimate": 43777
     },
     {
       "ID": "Kirks_House_Discovered",
@@ -12375,7 +12380,7 @@
       "Name": "Kirk\u2019s House Discovered",
       "Percentage": 67,
       "XP": 100,
-      "UsersEstimate": 69833
+      "UsersEstimate": 69834
     },
     {
       "ID": "Lamp_Post_Illuminated",
@@ -12383,7 +12388,7 @@
       "Name": "Lamp Post Illuminated",
       "Percentage": 91,
       "XP": 100,
-      "UsersEstimate": 94847
+      "UsersEstimate": 94849
     },
     {
       "ID": "Lights_On",
@@ -12414,7 +12419,7 @@
     {
       "ID": "8a67465",
       "IsBase": true,
-      "Progressed": 104228,
+      "Progressed": 104230,
       "Completed": 335
     }
   ],
@@ -12422,8 +12427,8 @@
   "FirstSeenRating": "2023-09-27T18:00:22.5093748+00:00",
   "FirstSeenAchievements": "2023-09-14T15:02:30.0133191+00:00",
   "LastChanged": "2023-12-31T15:00:36.380565+00:00",
-  "LastChanged_Achievements": "2024-01-01T23:08:35.1935597+00:00",
+  "LastChanged_Achievements": "2024-01-02T00:08:11.8954508+00:00",
   "LastUpdate_AppInfo": "2023-12-28T22:56:57.700255+00:00",
-  "LastUpdate_Ratings": "2024-01-01T23:01:34.7924806+00:00",
-  "LastUpdate_Achievements": "2024-01-01T23:08:35.1936403+00:00"
+  "LastUpdate_Ratings": "2024-01-02T00:00:40.8480986+00:00",
+  "LastUpdate_Achievements": "2024-01-02T00:08:11.8955136+00:00"
 }

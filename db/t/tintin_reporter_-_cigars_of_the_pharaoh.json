@@ -619,9 +619,9 @@
       "ID": "Achievement19",
       "SetID": "9fa3l5n",
       "Name": "Tintin, Reporter",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 85,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Achievement2",
@@ -842,8 +842,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2024-01-01T23:06:28.6180348+00:00",
+  "LastChanged_Achievements": "2024-01-02T00:05:32.4378025+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:40.8073713+00:00",
-  "LastUpdate_Ratings": "2024-01-01T23:01:21.125312+00:00",
-  "LastUpdate_Achievements": "2024-01-01T23:06:28.6180608+00:00"
+  "LastUpdate_Ratings": "2024-01-02T00:00:30.2446032+00:00",
+  "LastUpdate_Achievements": "2024-01-02T00:05:32.4378296+00:00"
 }

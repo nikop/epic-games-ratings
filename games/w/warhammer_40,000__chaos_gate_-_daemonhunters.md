@@ -9,18 +9,18 @@ Number of Ratings: 371  (23.09.2022)
 | Executioner | 17.00% | ~630 |
 | Look Over There! | 13.00% | ~482 |
 | Watch Where You Step... | 13.00% | ~482 |
+| An Ill Omen | 13.00% | ~482 |
 | Not So Fast... | 12.00% | ~445 |
-| An Ill Omen | 12.00% | ~445 |
 | Purging Spree | 9.00% | ~334 |
 | Blood for the Blood God! | 8.00% | ~297 |
-| Bloodless | 7.00% | ~259 |
+| Bloodless | 7.00% | ~260 |
 | Friendly Fire | 6.00% | ~222 |
 | Surgical Excision | 5.00% | ~185 |
+| A Foul Creche | 5.00% | ~185 |
 | Honoured Battle-Brother | 4.00% | ~148 |
 | The Emperor Protects | 4.00% | ~148 |
 | Nemesis Master | 4.00% | ~148 |
 | Gunmaster | 4.00% | ~148 |
-| A Foul Creche | 4.00% | ~148 |
 | Hold Your Ground | 3.00% | ~111 |
 | Just a Scratch | 3.00% | ~111 |
 | Daemonkeeper | 2.00% | ~74 |
@@ -58,6 +58,7 @@ Number of Ratings: 371  (23.09.2022)
 | Deadshot | 0.30% | ~11 |
 | The Flesh is Weak | 0.20% | ~7 |
 | Opportunist | 0.20% | ~7 |
+| Brothers in Arms | 0.20% | ~7 |
 | Phalanx | 0.20% | ~7 |
 | Strategic Command | 0.20% | ~7 |
 | Terminal Meltdown | 0.20% | ~7 |
@@ -69,13 +70,12 @@ Number of Ratings: 371  (23.09.2022)
 | Drone Army | 0.10% | ~4 |
 | Master of the Forge | 0.10% | ~4 |
 | Field Apothecarion | 0.10% | ~4 |
-| Brothers in Arms | 0.10% | ~4 |
 | Firing Squad | 0.10% | ~4 |
 | Not a Mote of Corruption | 0.10% | ~4 |
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,707 (Ranked 216)  
+Progressed: 3,708 (Ranked 216)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,10 +301,11 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-30 | 3,663 | 0 |
 | 2023-12-31 | 3,685 | 0 |
 | 2024-01-01 | 3,707 | 0 |
+| 2024-01-02 | 3,708 | 0 |
 ## Awards
 Max (Character Customization): 232  (Ranked 282)  
-Sum: 494 (Ranked 335)  
-Diff (max vs sum): -53  
+Sum: 494 (Ranked 334)  
+Diff (max vs sum): -52  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 232 |

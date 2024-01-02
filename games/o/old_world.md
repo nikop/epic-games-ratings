@@ -19,14 +19,15 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learned | 0.70% | ~113 |
 | Mason | 0.70% | ~113 |
 | Noble | 0.70% | ~113 |
+| Pioneer | 0.70% | ~113 |
 | Oracle | 0.70% | ~113 |
 | Trade Caravan | 0.70% | ~113 |
 | Ambitious | 0.60% | ~96 |
+| Brilliant | 0.60% | ~96 |
 | Enlightened | 0.60% | ~96 |
 | Glorious | 0.60% | ~96 |
 | Just | 0.60% | ~96 |
 | Keystone | 0.60% | ~96 |
-| Pioneer | 0.60% | ~96 |
 | Warrior | 0.60% | ~96 |
 | Developing Cities | 0.60% | ~96 |
 | Strong Cities | 0.60% | ~96 |
@@ -37,10 +38,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greek Paganism | 0.60% | ~96 |
 | Naming Landmarks | 0.60% | ~96 |
 | Regicide | 0.50% | ~80 |
-| Brilliant | 0.50% | ~80 |
 | Fountainhead | 0.50% | ~80 |
 | Magnificent | 0.50% | ~80 |
 | Wise | 0.50% | ~80 |
+| Apadana | 0.50% | ~80 |
 | Great Ziggurat | 0.50% | ~80 |
 | Ishtar Gate | 0.50% | ~80 |
 | Lighthouse | 0.50% | ~80 |
@@ -54,7 +55,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able Difficulty | 0.40% | ~64 |
 | Furious Family | 0.40% | ~64 |
 | Acropolis | 0.40% | ~64 |
-| Apadana | 0.40% | ~64 |
 | Mausoleum | 0.40% | ~64 |
 | Musaeum | 0.40% | ~64 |
 | Necropolis | 0.40% | ~64 |
@@ -65,6 +65,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Beloved | 0.30% | ~48 |
 | Mighty | 0.30% | ~48 |
 | Valiant | 0.30% | ~48 |
+| Good Difficulty | 0.30% | ~48 |
 | Just Difficulty | 0.30% | ~48 |
 | Artisans | 0.30% | ~48 |
 | Champions | 0.30% | ~48 |
@@ -88,7 +89,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ready | 0.20% | ~32 |
 | Subjugator | 0.20% | ~32 |
 | Victorious | 0.20% | ~32 |
-| Good Difficulty | 0.20% | ~32 |
 | Strong Difficulty | 0.20% | ~32 |
 | Landowners | 0.20% | ~32 |
 | Riders | 0.20% | ~32 |
@@ -101,6 +101,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 0.20% | ~32 |
 | Via Recta Souk | 0.20% | ~32 |
 | Babylonia | 0.20% | ~32 |
+| Egypt | 0.20% | ~32 |
 | Greece | 0.20% | ~32 |
 | Assyrian Paganism | 0.20% | ~32 |
 | Persian Paganism | 0.20% | ~32 |
@@ -117,6 +118,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Cavalry | 0.20% | ~32 |
 | Legionary | 0.20% | ~32 |
 | Phalangite | 0.20% | ~32 |
+| Ambition Victory | 0.20% | ~32 |
 | Double Victory | 0.20% | ~32 |
 | The Clergy | 0.20% | ~32 |
 | Centenarian | 0.10% | ~16 |
@@ -207,7 +209,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Realistic Mortality | 0.10% | ~16 |
 | Assyria | 0.10% | ~16 |
 | Carthage | 0.10% | ~16 |
-| Egypt | 0.10% | ~16 |
 | Hatti | 0.10% | ~16 |
 | Persia | 0.10% | ~16 |
 | Rome | 0.10% | ~16 |
@@ -237,7 +238,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Turreted Elephant | 0.10% | ~16 |
 | Great Ziggurat in Ur | 0.10% | ~16 |
 | All Nations | 0.10% | ~16 |
-| Ambition Victory | 0.10% | ~16 |
 | Conquest Victory | 0.10% | ~16 |
 | No Characters | 0.10% | ~16 |
 | No Undo | 0.10% | ~16 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,077 (Ranked 166)  
+Progressed: 16,078 (Ranked 166)  
 Completed: 5 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -622,6 +622,7 @@ Completed: 5 (0.03%) (Ranked 350)
 | 2023-12-30 | 16,036 | 5 |
 | 2023-12-31 | 16,053 | 5 |
 | 2024-01-01 | 16,077 | 5 |
+| 2024-01-02 | 16,078 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 283)  
 Sum: 1,912 (Ranked 220)  

@@ -4,7 +4,7 @@
   "ProductSlug": "bratz-flaunt-your-fashion-95d529",
   "Ranking_EOS_Progress": 458,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-01-24T09:30:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 136,
+  "EOS_Progressed": 137,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -541,6 +541,11 @@
       "Time": "2024-01-01T23:07:13.3765956+00:00",
       "NumProgressed": 136,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T00:06:08.8596626+00:00",
+      "NumProgressed": 137,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 19,
@@ -552,7 +557,7 @@
       "Name": "Welcome to Stilesville",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "10",
@@ -568,7 +573,7 @@
       "Name": "Creating New Trends",
       "Percentage": 26,
       "XP": 70,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "12",
@@ -584,7 +589,7 @@
       "Name": "Barcelona Hidden Style",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "14",
@@ -632,7 +637,7 @@
       "Name": "Best Gala Ever",
       "Percentage": 26,
       "XP": 70,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "2",
@@ -640,7 +645,7 @@
       "Name": "Welcome to Barcelona",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "3",
@@ -656,15 +661,15 @@
       "Name": "Welcome to the The Stylin\u0027 Soiree",
       "Percentage": 26,
       "XP": 70,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "5",
       "SetID": "41h3j82",
       "Name": "We will need a bigger wardrobe",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 70,
-      "UsersEstimate": 54
+      "UsersEstimate": 53
     },
     {
       "ID": "6",
@@ -696,14 +701,14 @@
       "Name": "Talented Performer",
       "Percentage": 54,
       "XP": 70,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     }
   ],
   "AchievementSets": [
     {
       "ID": "41h3j82",
       "IsBase": true,
-      "Progressed": 136,
+      "Progressed": 137,
       "Completed": 0
     }
   ],
@@ -711,8 +716,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2024-01-01T23:07:13.3765951+00:00",
+  "LastChanged_Achievements": "2024-01-02T00:06:08.8596622+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:52.6103683+00:00",
-  "LastUpdate_Ratings": "2024-01-01T23:02:39.4856881+00:00",
-  "LastUpdate_Achievements": "2024-01-01T23:07:13.376617+00:00"
+  "LastUpdate_Ratings": "2024-01-02T00:00:52.7916014+00:00",
+  "LastUpdate_Achievements": "2024-01-02T00:06:08.8596732+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 49,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9259,9 +9259,9 @@
       "Count": 3617
     }
   ],
-  "EOS_Progressed": 249335,
+  "EOS_Progressed": 249373,
   "EOS_Completed": 2583,
-  "EOS_NewPlayers": 4697,
+  "EOS_NewPlayers": 4719,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -38284,6 +38284,11 @@
       "Time": "2024-01-01T23:11:27.3709764+00:00",
       "NumProgressed": 249335,
       "NumCompleted": 2583
+    },
+    {
+      "Time": "2024-01-02T00:10:34.8218062+00:00",
+      "NumProgressed": 249373,
+      "NumCompleted": 2583
     }
   ],
   "TotalAchievements": 546,
@@ -38295,7 +38300,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7480
+      "UsersEstimate": 7481
     },
     {
       "ID": "objective_completed_10",
@@ -39967,7 +39972,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2493
+      "UsersEstimate": 2494
     },
     {
       "ID": "objective_completed_34",
@@ -42623,7 +42628,7 @@
       "Name": "When Tentacles Attack",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "objective_completed_678",
@@ -42631,7 +42636,7 @@
       "Name": "Flames of Avernus",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "objective_completed_683",
@@ -42647,7 +42652,7 @@
       "Name": "Don\u0027t Lose Your Head",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "objective_completed_865",
@@ -42655,28 +42660,28 @@
       "Name": "Mind Spike",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 215609,
+      "Progressed": 215647,
       "Completed": 4121
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 249335,
+      "Progressed": 249373,
       "Completed": 2583
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-01T16:58:00.6629331+00:00",
-  "LastChanged_Achievements": "2024-01-01T23:11:27.370976+00:00",
+  "LastChanged_Achievements": "2024-01-02T00:10:34.821806+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-01T22:58:10.5080142+00:00",
-  "LastUpdate_Achievements": "2024-01-01T23:11:27.3735071+00:00"
+  "LastUpdate_Ratings": "2024-01-01T23:58:00.0361443+00:00",
+  "LastUpdate_Achievements": "2024-01-02T00:10:34.8242264+00:00"
 }

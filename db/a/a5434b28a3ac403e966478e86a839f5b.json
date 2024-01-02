@@ -4,8 +4,8 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 849,
+  "EOS_Progressed": 850,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.18,
   "EosHistory": [
@@ -2920,6 +2920,11 @@
       "Time": "2024-01-01T21:09:03.6281618+00:00",
       "NumProgressed": 849,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-02T00:09:06.1009654+00:00",
+      "NumProgressed": 850,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -2938,9 +2943,9 @@
       "ID": "ACH_eou1",
       "SetID": "51of0eo",
       "Name": "Establish Communications",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 467
+      "UsersEstimate": 459
     },
     {
       "ID": "ACH_eou2",
@@ -2956,7 +2961,7 @@
       "Name": "Destroy Security Grid",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ACH_eou4",
@@ -3035,14 +3040,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 849,
+      "Progressed": 850,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2024-01-01T23:09:41.9558969+00:00",
+  "LastChanged_Achievements": "2024-01-02T00:09:06.1009651+00:00",
   "LastUpdate_AppInfo": "2023-12-29T06:57:16.3144275+00:00",
-  "LastUpdate_Ratings": "2024-01-01T23:00:08.6831713+00:00",
-  "LastUpdate_Achievements": "2024-01-01T23:09:41.9559191+00:00"
+  "LastUpdate_Ratings": "2024-01-01T23:59:35.2301171+00:00",
+  "LastUpdate_Achievements": "2024-01-02T00:09:06.100992+00:00"
 }

@@ -5,9 +5,9 @@
   "Ranking_Rating": 1083,
   "Ranking_Popularity": 572,
   "Ranking_PopularitySum": 573,
-  "Ranking_EOS_Progress": 238,
+  "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -353,7 +353,7 @@
   ],
   "EOS_Progressed": 2212,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4123,9 +4123,9 @@
       "ID": "Achievement_038",
       "SetID": "6b34g18",
       "Name": "What Lies Below",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "Achievement_039",
@@ -4372,8 +4372,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-01T12:00:40.1847166+00:00",
-  "LastChanged_Achievements": "2024-01-01T23:06:50.853761+00:00",
+  "LastChanged_Achievements": "2024-01-02T00:05:51.1131924+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.8280502+00:00",
-  "LastUpdate_Ratings": "2024-01-01T23:01:13.2638184+00:00",
-  "LastUpdate_Achievements": "2024-01-01T23:06:50.8538216+00:00"
+  "LastUpdate_Ratings": "2024-01-02T00:00:24.1211641+00:00",
+  "LastUpdate_Achievements": "2024-01-02T00:05:51.1132719+00:00"
 }

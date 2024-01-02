@@ -1,22 +1,22 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.51 (Ranked 591)  
+Rating: 4.52 (Ranked 573)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~6,901 |
-| Greasy Palms | 42.00% | ~6,301 |
+| Legal Counsel | 46.00% | ~6,902 |
+| Greasy Palms | 42.00% | ~6,302 |
 | South American Connection | 26.00% | ~3,901 |
 | Life of the Party | 20.00% | ~3,001 |
-| Big Heat from Little Havana | 15.00% | ~2,250 |
-| Chauffeur | 15.00% | ~2,250 |
-| Tommy Two-Wheels | 15.00% | ~2,250 |
-| Salutations My Little Friend | 11.00% | ~1,650 |
+| Big Heat from Little Havana | 15.00% | ~2,251 |
+| Chauffeur | 15.00% | ~2,251 |
+| Tommy Two-Wheels | 15.00% | ~2,251 |
+| Salutations My Little Friend | 11.00% | ~1,651 |
 | Iron-y | 10.00% | ~1,500 |
 | Gun for Hire | 9.00% | ~1,350 |
 | Mischief Managed | 8.00% | ~1,200 |
-| Vice City Mogul | 6.00% | ~900 |
+| Vice City Mogul | 7.00% | ~1,050 |
 | Catch Me if You Can | 6.00% | ~900 |
 | Bloodstained Hands | 6.00% | ~900 |
 | Not my First Time | 5.00% | ~750 |
@@ -40,8 +40,8 @@ Rating: 4.51 (Ranked 591)
 | Done it All | 0.90% | ~135 |
 | Kingpin | 0.60% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,003 (Ranked 169)  
-Completed: 84 (0.56%) (Ranked 211)  
+Progressed: 15,005 (Ranked 169)  
+Completed: 85 (0.57%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -297,6 +297,7 @@ Completed: 84 (0.56%) (Ranked 211)
 | 2023-12-30 | 14,716 | 83 |
 | 2023-12-31 | 14,859 | 83 |
 | 2024-01-01 | 15,003 | 84 |
+| 2024-01-02 | 15,005 | 85 |
 ## Awards
 Max (Great Boss Battles): 172  (Ranked 316)  
 Sum: 172 (Ranked 430)  
@@ -467,4 +468,4 @@ Diff (max vs sum): -114
 | 2023-12-28 | 4.52 | 159 | 159 |
 | 2023-12-29 | 4.52 | 164 | 164 |
 | 2023-12-31 | 4.52 | 168 | 168 |
-| 2024-01-01 | 4.51 | 172 | 172 |
+| 2024-01-01 | 4.52 | 172 | 172 |

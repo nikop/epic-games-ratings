@@ -1,12 +1,12 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.63 (Ranked 358)  
+Rating: 4.62 (Ranked 376)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 13.00% | ~869 |
-| Realm Estate | 12.00% | ~802 |
+| Secret Technique | 13.00% | ~870 |
+| Realm Estate | 12.00% | ~803 |
 | A Wonderful Discovery | 11.00% | ~736 |
 | Walls Cannot Stop Us | 11.00% | ~736 |
 | From Friends to Family | 9.00% | ~602 |
@@ -20,7 +20,7 @@ Rating: 4.63 (Ranked 358)
 | In a Liege of Your Own | 5.00% | ~334 |
 | Intimidation Tactics | 5.00% | ~334 |
 | But this one is mine | 5.00% | ~334 |
-| My Final Form | 4.00% | ~267 |
+| My Final Form | 4.00% | ~268 |
 | Return of the Wizard King | 3.00% | ~201 |
 | Enchanted Archipelago | 3.00% | ~201 |
 | Digging for Treasure | 3.00% | ~201 |
@@ -53,7 +53,7 @@ Rating: 4.63 (Ranked 358)
 | Dawn of the Dread | 1.00% | ~67 |
 | Grexolis | 0.90% | ~60 |
 | One for All, All for One | 0.90% | ~60 |
-| Duality | 0.80% | ~53 |
+| Duality | 0.80% | ~54 |
 | Betrayal Most Foul | 0.70% | ~47 |
 | Snap Out of It! | 0.40% | ~27 |
 | The Magic That Empowers Me! | 0.40% | ~27 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 358)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,687 (Ranked 195)  
+Progressed: 6,690 (Ranked 195)  
 Completed: 7 (0.10%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,6 +291,7 @@ Completed: 7 (0.10%) (Ranked 304)
 | 2023-12-30 | 6,566 | 7 |
 | 2023-12-31 | 6,624 | 7 |
 | 2024-01-01 | 6,687 | 7 |
+| 2024-01-02 | 6,690 | 7 |
 ## Awards
 Max (Great for Beginners): 39  (Ranked 480)  
 Sum: 184 (Ranked 424)  
@@ -387,3 +388,4 @@ Diff (max vs sum): 56
 | 2023-12-29 | 4.63 | 38 | 161 |
 | 2023-12-30 | 4.63 | 39 | 163 |
 | 2023-12-31 | 4.63 | 39 | 184 |
+| 2024-01-01 | 4.62 | 39 | 184 |

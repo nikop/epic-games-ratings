@@ -1,29 +1,29 @@
 # Railway Empire 2
 [Store](https://store.epicgames.com/en-US/p/railway-empire-2-46840c)  
 [View Rawdata](../../db/r/railway_empire_2.json)  
-Rating: 4.42 (Ranked 737)  
+Rating: 4.42 (Ranked 736)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Country Bumpkin | 77.00% | ~2,000 |
 | A new Journey | 75.00% | ~1,948 |
-| From X to Y | 74.00% | ~1,922 |
-| Departure | 74.00% | ~1,922 |
-| Way of Iron | 71.00% | ~1,844 |
-| Mystery Tour | 70.00% | ~1,818 |
-| We brake for nobody | 69.00% | ~1,792 |
-| Brainstorm | 67.00% | ~1,740 |
-| Mind the Gap | 66.00% | ~1,714 |
-| Travel Company | 66.00% | ~1,714 |
-| All around the World | 64.00% | ~1,662 |
-| Right through the middle | 59.00% | ~1,532 |
-| Poor Devil | 55.00% | ~1,428 |
-| Facility Manager | 54.00% | ~1,402 |
-| Producer | 51.00% | ~1,324 |
+| From X to Y | 74.00% | ~1,923 |
+| Departure | 74.00% | ~1,923 |
+| Way of Iron | 71.00% | ~1,845 |
+| Mystery Tour | 70.00% | ~1,819 |
+| We brake for nobody | 69.00% | ~1,793 |
+| Brainstorm | 67.00% | ~1,741 |
+| Mind the Gap | 66.00% | ~1,715 |
+| Travel Company | 66.00% | ~1,715 |
+| All around the World | 64.00% | ~1,663 |
+| Right through the middle | 59.00% | ~1,533 |
+| Poor Devil | 55.00% | ~1,429 |
+| Facility Manager | 54.00% | ~1,403 |
+| Producer | 51.00% | ~1,325 |
 | Bridge Builder | 43.00% | ~1,117 |
 | Apprentice | 42.00% | ~1,091 |
-| Going once, going twice, sold | 37.00% | ~961 |
 | Access granted | 36.00% | ~935 |
+| Going once, going twice, sold | 36.00% | ~935 |
 | Bull and bear | 35.00% | ~909 |
 | Stoker | 34.00% | ~883 |
 | Full Steam ahead | 33.00% | ~857 |
@@ -33,14 +33,14 @@ Rating: 4.42 (Ranked 737)
 | General Manager | 29.00% | ~753 |
 | Country Life | 29.00% | ~753 |
 | Socializer | 29.00% | ~753 |
-| Seven at one stroke | 25.00% | ~649 |
-| Hostile Takeover | 25.00% | ~649 |
-| Trailblazer | 22.00% | ~571 |
-| Traffic Junction | 22.00% | ~571 |
-| Breaking Ground | 22.00% | ~571 |
-| Traffic Jam | 20.00% | ~519 |
-| Resistance is futile | 18.00% | ~467 |
-| Networker | 17.00% | ~441 |
+| Seven at one stroke | 25.00% | ~650 |
+| Hostile Takeover | 25.00% | ~650 |
+| Trailblazer | 22.00% | ~572 |
+| Traffic Junction | 22.00% | ~572 |
+| Breaking Ground | 22.00% | ~572 |
+| Traffic Jam | 20.00% | ~520 |
+| Resistance is futile | 18.00% | ~468 |
+| Networker | 17.00% | ~442 |
 | Bold and beautiful | 16.00% | ~416 |
 | Settler | 16.00% | ~416 |
 | Assimilated | 15.00% | ~390 |
@@ -61,7 +61,7 @@ Rating: 4.42 (Ranked 737)
 | United States | 0.60% | ~16 |
 | Together we stand | 0.50% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,597 (Ranked 229)  
+Progressed: 2,598 (Ranked 229)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,6 +290,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-30 | 2,582 | 0 |
 | 2023-12-31 | 2,589 | 0 |
 | 2024-01-01 | 2,597 | 0 |
+| 2024-01-02 | 2,598 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

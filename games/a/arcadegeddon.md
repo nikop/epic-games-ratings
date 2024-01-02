@@ -1,39 +1,39 @@
 # Arcadegeddon
 [Store](https://store.epicgames.com/en-US/p/arcadegeddon)  
 [View Rawdata](../../db/a/arcadegeddon.json)  
-Rating: 4.49 (Ranked 633)  
+Rating: 4.49 (Ranked 632)  
 Number of Ratings: 801  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 86.00% | ~8,790 |
-| Photogenic | 82.00% | ~8,381 |
-| Plug It In | 79.00% | ~8,075 |
-| Surge Gauntlet Jockey | 79.00% | ~8,075 |
-| Adventure Time | 75.00% | ~7,666 |
-| Playing With Power | 72.00% | ~7,359 |
-| Coup d'Etat | 55.00% | ~5,622 |
-| You're Fired | 54.00% | ~5,519 |
-| Get Furious | 53.00% | ~5,417 |
-| Hacks In Stacks | 53.00% | ~5,417 |
-| Gunplay And Cosplay | 51.00% | ~5,213 |
-| Meching Enemies | 46.00% | ~4,702 |
-| Ticket Toddler | 42.00% | ~4,293 |
+| Let's Get This Party Started | 86.00% | ~8,792 |
+| Photogenic | 82.00% | ~8,383 |
+| Plug It In | 79.00% | ~8,076 |
+| Surge Gauntlet Jockey | 79.00% | ~8,076 |
+| Adventure Time | 75.00% | ~7,667 |
+| Playing With Power | 72.00% | ~7,361 |
+| Coup d'Etat | 55.00% | ~5,623 |
+| You're Fired | 54.00% | ~5,520 |
+| Get Furious | 53.00% | ~5,418 |
+| Hacks In Stacks | 53.00% | ~5,418 |
+| Gunplay And Cosplay | 51.00% | ~5,214 |
+| Meching Enemies | 46.00% | ~4,703 |
+| Ticket Toddler | 42.00% | ~4,294 |
 | Booty Bashing | 36.00% | ~3,680 |
 | Field Medic | 36.00% | ~3,680 |
-| Here Comes a New Challenger | 35.00% | ~3,577 |
+| Here Comes a New Challenger | 35.00% | ~3,578 |
 | Rapid Response | 32.00% | ~3,271 |
-| Surge Ahead | 29.00% | ~2,964 |
-| The Full Monty | 29.00% | ~2,964 |
-| Guardian Angel | 26.00% | ~2,657 |
+| Surge Ahead | 29.00% | ~2,965 |
+| The Full Monty | 29.00% | ~2,965 |
+| Guardian Angel | 26.00% | ~2,658 |
 | Poppin Noggins | 23.00% | ~2,351 |
 | Clips and Crits | 18.00% | ~1,840 |
-| Grey Goo | 16.00% | ~1,635 |
+| Grey Goo | 16.00% | ~1,636 |
 | Boss of Bosses | 14.00% | ~1,431 |
 | The Final Blow | 14.00% | ~1,431 |
 | To Be Continued | 13.00% | ~1,329 |
-| Light My Fire | 11.00% | ~1,124 |
-| Seasoned Adventurer | 11.00% | ~1,124 |
+| Light My Fire | 11.00% | ~1,125 |
+| Seasoned Adventurer | 11.00% | ~1,125 |
 | Get In The Ring! | 9.00% | ~920 |
 | 1.21 Gigawatts | 9.00% | ~920 |
 | This Is My Boomstick! | 9.00% | ~920 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~41 |
 | Pyrotechnical | 0.20% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,221 (Ranked 178)  
+Progressed: 10,223 (Ranked 178)  
 Completed: 2 (0.02%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,10 +314,11 @@ Completed: 2 (0.02%) (Ranked 357)
 | 2023-12-30 | 10,197 | 2 |
 | 2023-12-31 | 10,207 | 2 |
 | 2024-01-01 | 10,221 | 2 |
+| 2024-01-02 | 10,223 | 2 |
 ## Awards
 Max (Great for Beginners): 65  (Ranked 418)  
-Sum: 465 (Ranked 339)  
-Diff (max vs sum): 79  
+Sum: 465 (Ranked 338)  
+Diff (max vs sum): 80  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 65 |

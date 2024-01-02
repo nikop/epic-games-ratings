@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -323,9 +323,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3888,
+  "EOS_Progressed": 3889,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7648,6 +7648,11 @@
       "Time": "2024-01-01T22:05:46.0132723+00:00",
       "NumProgressed": 3888,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T00:06:19.1978249+00:00",
+      "NumProgressed": 3889,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -8043,7 +8048,7 @@
       "Name": "Hope Seeker",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "ACH_BASE_60",
@@ -8114,13 +8119,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 2072,
+      "Progressed": 2073,
       "Completed": 10
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3888,
+      "Progressed": 3889,
       "Completed": 0
     }
   ],
@@ -8128,8 +8133,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-12-22T13:57:44.9340377+00:00",
-  "LastChanged_Achievements": "2024-01-01T23:07:25.9937807+00:00",
+  "LastChanged_Achievements": "2024-01-02T00:06:19.1978244+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:27.7465752+00:00",
-  "LastUpdate_Ratings": "2024-01-01T22:57:28.4276329+00:00",
-  "LastUpdate_Achievements": "2024-01-01T23:07:25.993847+00:00"
+  "LastUpdate_Ratings": "2024-01-01T23:57:25.4123851+00:00",
+  "LastUpdate_Achievements": "2024-01-02T00:06:19.1978947+00:00"
 }

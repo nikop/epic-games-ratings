@@ -820,9 +820,9 @@
       "ID": "ACH_FAILED_MESSENGER",
       "SetID": "8h8m55b",
       "Name": "Failed Messenger",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_FELLOW_INFLUENCER",
@@ -876,9 +876,9 @@
       "ID": "ACH_GOOD_REVIEW",
       "SetID": "8h8m55b",
       "Name": "Good Review",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_GUEST_OF_HONOR",
@@ -1139,8 +1139,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2024-01-01T23:04:02.9098675+00:00",
+  "LastChanged_Achievements": "2024-01-02T00:03:33.0602459+00:00",
   "LastUpdate_AppInfo": "2023-12-26T21:56:53.6877972+00:00",
-  "LastUpdate_Ratings": "2024-01-01T22:59:04.9780305+00:00",
-  "LastUpdate_Achievements": "2024-01-01T23:04:02.9099109+00:00"
+  "LastUpdate_Ratings": "2024-01-01T23:58:42.9061217+00:00",
+  "LastUpdate_Achievements": "2024-01-02T00:03:33.0602869+00:00"
 }

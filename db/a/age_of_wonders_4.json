@@ -2,7 +2,7 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 358,
+  "Ranking_Rating": 376,
   "Ranking_Popularity": 480,
   "Ranking_PopularitySum": 424,
   "Ranking_EOS_Progress": 195,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.63,
+  "Rating": 4.62,
   "RatingHistory": [
     {
       "Time": "2023-05-02T18:59:30.6410122+00:00",
@@ -619,6 +619,12 @@
       "Rating": 4.63,
       "NumberOfAwards": 184,
       "NumberOfAwardsMax": 39
+    },
+    {
+      "Time": "2024-01-01T23:59:41.6388781+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 184,
+      "NumberOfAwardsMax": 39
     }
   ],
   "ReviewsDisabled": false,
@@ -669,7 +675,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6687,
+  "EOS_Progressed": 6690,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 474,
   "EOS_NewCompleters": 0,
@@ -10034,6 +10040,11 @@
       "Time": "2024-01-01T21:06:39.6035532+00:00",
       "NumProgressed": 6687,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-02T00:08:22.3856108+00:00",
+      "NumProgressed": 6690,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10157,7 +10168,7 @@
       "Name": "Realm Estate",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "23",
@@ -10173,7 +10184,7 @@
       "Name": "Secret Technique",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "25",
@@ -10245,7 +10256,7 @@
       "Name": "My Final Form",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "33",
@@ -10413,7 +10424,7 @@
       "Name": "Duality",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "48",
@@ -10524,22 +10535,22 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6687,
+      "Progressed": 6690,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6687,
+      "Progressed": 6690,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-05-02T18:59:30.6410033+00:00",
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
-  "LastChanged": "2023-12-31T18:58:53.0277501+00:00",
-  "LastChanged_Achievements": "2024-01-01T23:08:47.6320425+00:00",
+  "LastChanged": "2024-01-01T23:59:41.638878+00:00",
+  "LastChanged_Achievements": "2024-01-02T00:08:22.3856106+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-01T23:00:17.5013652+00:00",
-  "LastUpdate_Achievements": "2024-01-01T23:08:47.6321583+00:00"
+  "LastUpdate_Ratings": "2024-01-01T23:59:41.6388784+00:00",
+  "LastUpdate_Achievements": "2024-01-02T00:08:22.3856865+00:00"
 }

@@ -13,18 +13,18 @@
 | All for one! | 22.00% | ~13 |
 | Blood and sand | 22.00% | ~13 |
 | A hidden snake | 20.00% | ~12 |
+| Power of Inquisition | 17.00% | ~10 |
 | Surpass the teacher | 17.00% | ~10 |
 | Crimson rivers | 15.00% | ~9 |
-| Power of Inquisition | 15.00% | ~9 |
 | Vene, vidi, vici | 15.00% | ~9 |
 | Help of the Gell | 15.00% | ~9 |
 | She-Wolf | 15.00% | ~9 |
 | Rage | 14.00% | ~8 |
 | Berkanan Borgia | 12.00% | ~7 |
 | Trial by cold | 12.00% | ~7 |
+| Overplay the rogue | 10.00% | ~6 |
 | The champion of the arena | 10.00% | ~6 |
 | For the greater good | 8.00% | ~5 |
-| Overplay the rogue | 8.00% | ~5 |
 | Stronger than Gellian steel | 8.00% | ~5 |
 | Protect the Healer! | 8.00% | ~5 |
 | Collector | 7.00% | ~4 |
