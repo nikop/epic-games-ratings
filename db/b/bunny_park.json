@@ -272,9 +272,9 @@
       "ID": "BP-07",
       "SetID": "7fc93f2",
       "Name": "Beginner Decorator",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 151
+      "UsersEstimate": 154
     },
     {
       "ID": "BP-08",
@@ -377,8 +377,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5432443+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.424044+00:00",
   "LastChanged": "2023-03-31T05:58:48.5432443+00:00",
-  "LastChanged_Achievements": "2024-01-02T04:10:12.1761109+00:00",
+  "LastChanged_Achievements": "2024-01-02T05:09:28.4436876+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:37.2110794+00:00",
-  "LastUpdate_Ratings": "2024-01-02T04:00:26.6693493+00:00",
-  "LastUpdate_Achievements": "2024-01-02T04:10:12.1761322+00:00"
+  "LastUpdate_Ratings": "2024-01-02T04:59:54.958173+00:00",
+  "LastUpdate_Achievements": "2024-01-02T05:09:28.4437048+00:00"
 }

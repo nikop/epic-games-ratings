@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 469,
   "Ranking_EOS_Progress": 367,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
@@ -464,7 +464,7 @@
   ],
   "EOS_Progressed": 375,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -1437,9 +1437,9 @@
       "ID": "Collect_AdamantineLarge_30",
       "SetID": "7a5k76n",
       "Name": "Unbreakable Will",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 41
     },
     {
       "ID": "Collect_AdamantineMedium_30",
@@ -1957,8 +1957,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-01T15:57:13.6479243+00:00",
-  "LastChanged_Achievements": "2024-01-02T04:05:44.0417112+00:00",
+  "LastChanged_Achievements": "2024-01-02T05:05:25.2261003+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.0817876+00:00",
-  "LastUpdate_Ratings": "2024-01-02T03:57:29.8577196+00:00",
-  "LastUpdate_Achievements": "2024-01-02T04:05:44.0417555+00:00"
+  "LastUpdate_Ratings": "2024-01-02T04:57:16.825706+00:00",
+  "LastUpdate_Achievements": "2024-01-02T05:05:25.2261549+00:00"
 }

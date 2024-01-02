@@ -7,7 +7,7 @@
 | Lonely Bunny | 97.00% | ~299 |
 | Debris Finder | 84.00% | ~259 |
 | Debris Gatherer | 60.00% | ~185 |
-| Beginner Decorator | 49.00% | ~151 |
+| Beginner Decorator | 50.00% | ~154 |
 | Helpful Bot-terfly | 46.00% | ~142 |
 | Cozy Autumn | 39.00% | ~120 |
 | Bunny Party | 35.00% | ~108 |

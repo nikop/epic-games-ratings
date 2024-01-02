@@ -37,15 +37,15 @@ Number of Ratings: 401  (23.09.2022)
 | Knife, Cup and Bone | 1.00% | ~434 |
 | Rosewater sailor | 1.00% | ~434 |
 | A current under zee | 1.00% | ~434 |
-| Never Stop Sinking... | 0.90% | ~390 |
-| His bones in whispers | 0.90% | ~390 |
-| The beauty of the deep | 0.90% | ~390 |
-| The dragon in the zee | 0.90% | ~390 |
-| Thanks for all the fish | 0.90% | ~390 |
-| Those are pearls that were his eyes | 0.90% | ~390 |
-| No regrets | 0.90% | ~390 |
-| Under the zee | 0.90% | ~390 |
-| Depth charge | 0.90% | ~390 |
+| Never Stop Sinking... | 0.90% | ~391 |
+| His bones in whispers | 0.90% | ~391 |
+| The beauty of the deep | 0.90% | ~391 |
+| The dragon in the zee | 0.90% | ~391 |
+| Thanks for all the fish | 0.90% | ~391 |
+| Those are pearls that were his eyes | 0.90% | ~391 |
+| No regrets | 0.90% | ~391 |
+| Under the zee | 0.90% | ~391 |
+| Depth charge | 0.90% | ~391 |
 | A zee-change | 0.80% | ~347 |
 | Leviathan | 0.80% | ~347 |
 | What lies beneath | 0.70% | ~304 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~43 |
 | Ten Years at Zee | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,388 (Ranked 130)  
+Progressed: 43,389 (Ranked 130)  
 Completed: 4 (0.01%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 4 (0.01%) (Ranked 368)
 | 2023-12-30 | 43,235 | 4 |
 | 2023-12-31 | 43,307 | 4 |
 | 2024-01-01 | 43,379 | 4 |
-| 2024-01-02 | 43,388 | 4 |
+| 2024-01-02 | 43,389 | 4 |
 ## Awards
 Max (Character Customization): 221  (Ranked 289)  
 Sum: 315 (Ranked 375)  

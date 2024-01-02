@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5770,
+  "EOS_Progressed": 5771,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -5134,6 +5134,11 @@
       "Time": "2024-01-01T20:04:53.7060245+00:00",
       "NumProgressed": 5770,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-02T05:04:00.2581669+00:00",
+      "NumProgressed": 5771,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -5201,7 +5206,7 @@
       "Name": "Level: Charlie\u0027s Circuits",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1270
     },
     {
       "ID": "ach_campaign_progress10",
@@ -5257,7 +5262,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2827
+      "UsersEstimate": 2828
     },
     {
       "ID": "ach_campaign_progress6",
@@ -5577,7 +5582,7 @@
       "Name": "Data Churn Type II",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "ach_frp_researchdata3",
@@ -5737,7 +5742,7 @@
       "Name": "Speedy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "ach_trait_overload",
@@ -5752,15 +5757,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5770,
+      "Progressed": 5771,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-12-29T23:58:32.3539857+00:00",
-  "LastChanged_Achievements": "2024-01-02T04:04:13.1723736+00:00",
+  "LastChanged_Achievements": "2024-01-02T05:04:00.2581664+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:45.6175263+00:00",
-  "LastUpdate_Ratings": "2024-01-02T04:00:42.7201668+00:00",
-  "LastUpdate_Achievements": "2024-01-02T04:04:13.1724549+00:00"
+  "LastUpdate_Ratings": "2024-01-02T05:00:09.3989249+00:00",
+  "LastUpdate_Achievements": "2024-01-02T05:04:00.2582405+00:00"
 }

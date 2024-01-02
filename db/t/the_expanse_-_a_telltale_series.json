@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18031,
+  "EOS_Progressed": 18033,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 586,
+  "EOS_NewPlayers": 587,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -15980,6 +15980,11 @@
       "Time": "2024-01-02T04:04:04.068742+00:00",
       "NumProgressed": 18031,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-02T05:03:51.7508113+00:00",
+      "NumProgressed": 18033,
+      "NumCompleted": 58
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16008,7 +16013,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1983
+      "UsersEstimate": 1984
     },
     {
       "ID": "12",
@@ -16072,7 +16077,7 @@
       "Name": "Martian Music",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1983
+      "UsersEstimate": 1984
     },
     {
       "ID": "2",
@@ -16096,7 +16101,7 @@
       "Name": "Drone Dodger",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1983
+      "UsersEstimate": 1984
     },
     {
       "ID": "22",
@@ -16136,7 +16141,7 @@
       "Name": "Call it Even",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 1442
+      "UsersEstimate": 1443
     },
     {
       "ID": "27",
@@ -16271,13 +16276,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18031,
+      "Progressed": 18033,
       "Completed": 58
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 3985,
+      "Progressed": 3987,
       "Completed": 1155
     }
   ],
@@ -16285,8 +16290,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T23:58:17.8612142+00:00",
-  "LastChanged_Achievements": "2024-01-02T04:04:04.0687416+00:00",
+  "LastChanged_Achievements": "2024-01-02T05:03:51.7508109+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2024-01-02T03:59:11.8567181+00:00",
-  "LastUpdate_Achievements": "2024-01-02T04:04:04.0688295+00:00"
+  "LastUpdate_Ratings": "2024-01-02T04:58:48.1192853+00:00",
+  "LastUpdate_Achievements": "2024-01-02T05:03:51.7509197+00:00"
 }

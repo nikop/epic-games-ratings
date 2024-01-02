@@ -576,9 +576,9 @@
       "ID": "11",
       "SetID": "41h3j82",
       "Name": "Creating New Trends",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 70,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "12",
@@ -640,9 +640,9 @@
       "ID": "19",
       "SetID": "41h3j82",
       "Name": "Best Gala Ever",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 70,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "2",
@@ -664,9 +664,9 @@
       "ID": "4",
       "SetID": "41h3j82",
       "Name": "Welcome to the The Stylin\u0027 Soiree",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 70,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "5",
@@ -721,8 +721,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2024-01-02T04:06:13.4468773+00:00",
+  "LastChanged_Achievements": "2024-01-02T05:05:52.7101479+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:52.6103683+00:00",
-  "LastUpdate_Ratings": "2024-01-02T04:00:54.2550104+00:00",
-  "LastUpdate_Achievements": "2024-01-02T04:06:13.4468915+00:00"
+  "LastUpdate_Ratings": "2024-01-02T05:02:29.5758348+00:00",
+  "LastUpdate_Achievements": "2024-01-02T05:05:52.7101618+00:00"
 }

@@ -6,19 +6,19 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Overgrown Library | 8.00% | ~1,594 |
-| Taking Action | 7.00% | ~1,395 |
-| No Deaths | 7.00% | ~1,395 |
-| Abandoned Settlement | 7.00% | ~1,395 |
-| Petrified Necropolis | 7.00% | ~1,395 |
+| Overgrown Library | 8.00% | ~1,595 |
+| Taking Action | 7.00% | ~1,396 |
+| No Deaths | 7.00% | ~1,396 |
+| Abandoned Settlement | 7.00% | ~1,396 |
+| Petrified Necropolis | 7.00% | ~1,396 |
 | First Real Expedition | 6.00% | ~1,196 |
 | The Marshlands | 6.00% | ~1,196 |
-| Overcoming Difficulty | 5.00% | ~996 |
-| Coral Forest | 5.00% | ~996 |
-| The Scarlet Orchard | 5.00% | ~996 |
-| Frosts | 5.00% | ~996 |
-| Ominous Presence | 5.00% | ~996 |
-| Gathering Storm | 5.00% | ~996 |
+| Overcoming Difficulty | 5.00% | ~997 |
+| Coral Forest | 5.00% | ~997 |
+| The Scarlet Orchard | 5.00% | ~997 |
+| Frosts | 5.00% | ~997 |
+| Ominous Presence | 5.00% | ~997 |
+| Gathering Storm | 5.00% | ~997 |
 | Land of Greed | 4.00% | ~797 |
 | Homesick | 3.00% | ~598 |
 | Ruined Armory | 3.00% | ~598 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,930 (Ranked 152)  
+Progressed: 19,936 (Ranked 152)  
 Completed: 33 (0.17%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 33 (0.17%) (Ranked 281)
 | 2023-12-30 | 19,741 | 35 |
 | 2023-12-31 | 19,834 | 34 |
 | 2024-01-01 | 19,919 | 33 |
-| 2024-01-02 | 19,930 | 33 |
+| 2024-01-02 | 19,936 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 447  (Ranked 229)  
 Sum: 3,317 (Ranked 177)  

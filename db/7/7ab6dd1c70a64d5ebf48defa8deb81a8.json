@@ -61,9 +61,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1640,
+  "EOS_Progressed": 1643,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 377,
+  "EOS_NewPlayers": 376,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -3226,6 +3226,11 @@
       "Time": "2024-01-02T04:10:22.4788939+00:00",
       "NumProgressed": 1640,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-02T05:09:38.0993482+00:00",
+      "NumProgressed": 1643,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -3235,9 +3240,9 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break Out",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 984
+      "UsersEstimate": 969
     },
     {
       "ID": "ACH_02",
@@ -3253,7 +3258,7 @@
       "Name": "Powerful Allies",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "ACH_04",
@@ -3293,7 +3298,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "ACH_09",
@@ -3333,7 +3338,7 @@
       "Name": "Adventurer",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "ACH_14",
@@ -3357,7 +3362,7 @@
       "Name": "Essence Blow",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ACH_17",
@@ -3373,7 +3378,7 @@
       "Name": "Shatter Them All",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ACH_19",
@@ -3397,7 +3402,7 @@
       "Name": "Big Bazar",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ACH_22",
@@ -3413,7 +3418,7 @@
       "Name": "Geared Up",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ACH_24",
@@ -3429,7 +3434,7 @@
       "Name": "Fashion Victim",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "ACH_26",
@@ -3437,7 +3442,7 @@
       "Name": "Scholar",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ACH_27",
@@ -3461,7 +3466,7 @@
       "Name": "All That Gold",
       "Percentage": 0.7,
       "XP": 60,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_30",
@@ -3493,7 +3498,7 @@
       "Name": "The Collector",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "ACH_35",
@@ -3507,9 +3512,9 @@
       "ID": "ACH_36",
       "SetID": "efe2lj",
       "Name": "A Queen\u0027s Tale",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_38",
@@ -3524,7 +3529,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1640,
+      "Progressed": 1643,
       "Completed": 3
     }
   ],
@@ -3532,8 +3537,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-02T01:47:19.6899919+00:00",
-  "LastChanged_Achievements": "2024-01-02T04:10:22.4788936+00:00",
+  "LastChanged_Achievements": "2024-01-02T05:09:38.0993478+00:00",
   "LastUpdate_AppInfo": "2024-01-01T22:57:08.0954502+00:00",
-  "LastUpdate_Ratings": "2024-01-02T04:00:05.8852882+00:00",
-  "LastUpdate_Achievements": "2024-01-02T04:10:22.4789294+00:00"
+  "LastUpdate_Ratings": "2024-01-02T04:59:36.0242598+00:00",
+  "LastUpdate_Achievements": "2024-01-02T05:09:38.0993904+00:00"
 }

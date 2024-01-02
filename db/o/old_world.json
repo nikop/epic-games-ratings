@@ -2208,9 +2208,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16079,
+  "EOS_Progressed": 16080,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18788,6 +18788,11 @@
       "Time": "2024-01-02T01:57:45.7865415+00:00",
       "NumProgressed": 16079,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-02T05:09:46.15987+00:00",
+      "NumProgressed": 16080,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -18941,9 +18946,9 @@
       "ID": "ACHIEVEMENT_BYZANTIUM_HAGIA_SOPHIA",
       "SetID": "9201eeb",
       "Name": "Hagia Sophia in Byzantion",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_1",
@@ -21662,21 +21667,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16079,
+      "Progressed": 16080,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16079,
+      "Progressed": 16080,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-29T16:02:55.9624641+00:00",
-  "LastChanged_Achievements": "2024-01-02T04:10:30.9251359+00:00",
+  "LastChanged_Achievements": "2024-01-02T05:09:46.1598695+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:24.5452657+00:00",
-  "LastUpdate_Ratings": "2024-01-02T03:57:15.0495822+00:00",
-  "LastUpdate_Achievements": "2024-01-02T04:10:30.9265947+00:00"
+  "LastUpdate_Ratings": "2024-01-02T04:57:04.1331256+00:00",
+  "LastUpdate_Achievements": "2024-01-02T05:09:46.1609548+00:00"
 }

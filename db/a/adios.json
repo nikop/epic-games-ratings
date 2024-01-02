@@ -135,9 +135,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 82412,
+  "EOS_Progressed": 82414,
   "EOS_Completed": 908,
-  "EOS_NewPlayers": 752,
+  "EOS_NewPlayers": 749,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.1,
   "EosHistory": [
@@ -28755,6 +28755,11 @@
       "Time": "2024-01-02T04:03:53.5043711+00:00",
       "NumProgressed": 82412,
       "NumCompleted": 908
+    },
+    {
+      "Time": "2024-01-02T05:03:41.9562091+00:00",
+      "NumProgressed": 82414,
+      "NumCompleted": 908
     }
   ],
   "TotalAchievements": 25,
@@ -28782,7 +28787,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 19,
       "XP": 150,
-      "UsersEstimate": 15658
+      "UsersEstimate": 15659
     },
     {
       "ID": "Audiophile",
@@ -28806,7 +28811,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 14834
+      "UsersEstimate": 14835
     },
     {
       "ID": "Butcher",
@@ -28814,7 +28819,7 @@
       "Name": "Butcher",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 3296
+      "UsersEstimate": 3297
     },
     {
       "ID": "Cut Call",
@@ -28830,7 +28835,7 @@
       "Name": "Fair\u0027s Fair",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 3296
+      "UsersEstimate": 3297
     },
     {
       "ID": "HardWorker",
@@ -28838,7 +28843,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 16482
+      "UsersEstimate": 16483
     },
     {
       "ID": "Hearty",
@@ -28886,7 +28891,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 15658
+      "UsersEstimate": 15659
     },
     {
       "ID": "Nice Try",
@@ -28910,7 +28915,7 @@
       "Name": "Piano Man",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 9065
+      "UsersEstimate": 9066
     },
     {
       "ID": "Right On Target",
@@ -28934,7 +28939,7 @@
       "Name": "Spicy",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 3296
+      "UsersEstimate": 3297
     },
     {
       "ID": "Taco Toto",
@@ -28965,7 +28970,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 82412,
+      "Progressed": 82414,
       "Completed": 908
     }
   ],
@@ -28973,8 +28978,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-12-24T03:59:19.0038141+00:00",
-  "LastChanged_Achievements": "2024-01-02T04:03:53.5043707+00:00",
+  "LastChanged_Achievements": "2024-01-02T05:03:41.9562087+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:29.0198367+00:00",
-  "LastUpdate_Ratings": "2024-01-02T04:03:00.4486972+00:00",
-  "LastUpdate_Achievements": "2024-01-02T04:03:53.5045275+00:00"
+  "LastUpdate_Ratings": "2024-01-02T05:02:51.2549239+00:00",
+  "LastUpdate_Achievements": "2024-01-02T05:03:41.956349+00:00"
 }

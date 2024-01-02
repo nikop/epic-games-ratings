@@ -18,9 +18,9 @@ Rating: 4.88 (Ranked 17)
 | Cable guy | 25.00% | ~549 |
 | Half the way | 25.00% | ~549 |
 | I did it | 24.00% | ~527 |
+| Peace walker | 24.00% | ~527 |
 | Rascal | 24.00% | ~527 |
 | In this together | 23.00% | ~505 |
-| Peace walker | 23.00% | ~505 |
 | Champollion | 23.00% | ~505 |
 | Open door | 20.00% | ~439 |
 | Feels like springtime | 20.00% | ~439 |

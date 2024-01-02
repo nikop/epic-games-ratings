@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 373,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -2093,10 +2093,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 321,
       "NumberOfAwardsMax": 49
+    },
+    {
+      "Time": "2024-01-02T04:56:55.191257+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 322,
+      "NumberOfAwardsMax": 49
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 321,
+  "NumberOfAwards": 322,
   "NumberOfAwardsMax": 49,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2128,7 +2134,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 41
+      "Count": 42
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2161,9 +2167,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 17976,
+  "EOS_Progressed": 17977,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 1115,
+  "EOS_NewPlayers": 1107,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -18656,6 +18662,11 @@
       "Time": "2024-01-02T04:10:16.4154462+00:00",
       "NumProgressed": 17976,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2024-01-02T05:09:32.43798+00:00",
+      "NumProgressed": 17977,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 35,
@@ -18715,7 +18726,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3415
+      "UsersEstimate": 3416
     },
     {
       "ID": "ACH08",
@@ -18891,7 +18902,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 2696
+      "UsersEstimate": 2697
     },
     {
       "ID": "ACH30",
@@ -18946,16 +18957,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 17976,
+      "Progressed": 17977,
       "Completed": 69
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2024-01-02T02:23:57.1121224+00:00",
-  "LastChanged_Achievements": "2024-01-02T04:10:16.4154459+00:00",
+  "LastChanged": "2024-01-02T04:56:55.1912569+00:00",
+  "LastChanged_Achievements": "2024-01-02T05:09:32.4379797+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.8114387+00:00",
-  "LastUpdate_Ratings": "2024-01-02T03:00:32.7151094+00:00",
-  "LastUpdate_Achievements": "2024-01-02T04:10:16.415554+00:00"
+  "LastUpdate_Ratings": "2024-01-02T04:56:55.1912572+00:00",
+  "LastUpdate_Achievements": "2024-01-02T05:09:32.438097+00:00"
 }

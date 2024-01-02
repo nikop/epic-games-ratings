@@ -12,14 +12,14 @@
 | Artifact Collector | 18.00% | ~116 |
 | Trap Master | 18.00% | ~116 |
 | Reincarnation | 15.00% | ~97 |
-| Ghost Buster | 14.00% | ~90 |
-| Iconoclasm | 14.00% | ~90 |
+| Ghost Buster | 14.00% | ~91 |
+| Iconoclasm | 14.00% | ~91 |
 | Librarian | 12.00% | ~78 |
 | Orcs Must Die! | 12.00% | ~78 |
 | The End | 12.00% | ~78 |
 | Gladiator | 11.00% | ~71 |
 | Lumberjack | 11.00% | ~71 |
-| Troubleshooter | 10.00% | ~65 |
+| Troubleshooter | 11.00% | ~71 |
 | Money Swag | 8.00% | ~52 |
 | Oops | 7.00% | ~45 |
 | Shield Crusher | 7.00% | ~45 |
@@ -45,7 +45,7 @@
 | Cryomancer | 0.30% | ~2 |
 | Hardboiled | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 646 (Ranked 326)  
+Progressed: 647 (Ranked 326)  
 Completed: 1 (0.15%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,6 +177,7 @@ Completed: 1 (0.15%) (Ranked 286)
 | 2023-12-30 | 636 | 1 |
 | 2023-12-31 | 641 | 1 |
 | 2024-01-01 | 646 | 1 |
+| 2024-01-02 | 647 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

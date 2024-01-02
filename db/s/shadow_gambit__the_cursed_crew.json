@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 123,
   "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1396,
+  "EOS_Progressed": 1397,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.51,
   "EosHistory": [
@@ -4824,6 +4824,11 @@
       "Time": "2024-01-02T04:06:06.0421231+00:00",
       "NumProgressed": 1396,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-02T05:05:45.8623612+00:00",
+      "NumProgressed": 1397,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4844,7 +4849,7 @@
       "Name": "A New Journey",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "_03_FinishAct1",
@@ -4852,7 +4857,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -4898,9 +4903,9 @@
       "ID": "_09_Completion_20",
       "SetID": "8a1io5d",
       "Name": "Powder Monkey",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 377
+      "UsersEstimate": 363
     },
     {
       "ID": "_10_Completion_30",
@@ -4916,7 +4921,7 @@
       "Name": "Seadog",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "_12_Completion_50",
@@ -4980,7 +4985,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -5043,7 +5048,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1396,
+      "Progressed": 1397,
       "Completed": 35
     }
   ],
@@ -5051,8 +5056,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-27T21:58:17.6269244+00:00",
-  "LastChanged_Achievements": "2024-01-02T04:06:06.0421226+00:00",
+  "LastChanged_Achievements": "2024-01-02T05:05:45.8623609+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.1530944+00:00",
-  "LastUpdate_Ratings": "2024-01-02T04:01:02.5662857+00:00",
-  "LastUpdate_Achievements": "2024-01-02T04:06:06.0421639+00:00"
+  "LastUpdate_Ratings": "2024-01-02T05:02:37.124949+00:00",
+  "LastUpdate_Achievements": "2024-01-02T05:05:45.8624012+00:00"
 }

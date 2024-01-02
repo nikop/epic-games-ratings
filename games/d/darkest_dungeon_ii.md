@@ -6,30 +6,31 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 12.00% | ~732 |
-| Lost and Found | 7.00% | ~427 |
-| This Belongs in a Museum | 6.00% | ~7,874 |
-| Autodidact | 6.00% | ~7,874 |
-| This guy... again? | 6.00% | ~366 |
+| Malpractice Assurance | 12.00% | ~733 |
+| Lost and Found | 7.00% | ~428 |
+| This Belongs in a Museum | 6.00% | ~7,875 |
+| Autodidact | 6.00% | ~7,875 |
+| This guy... again? | 6.00% | ~367 |
 | Serenity Now! | 5.00% | ~6,562 |
 | Creep and Sleep | 5.00% | ~6,562 |
 | Overdue Notice | 5.00% | ~6,562 |
 | Escape from the Black Hole | 5.00% | ~6,562 |
-| Ploughshares to Swords | 5.00% | ~305 |
-| Bloody Graduation | 5.00% | ~305 |
-| Don't Make Me Turn This Coach Around | 4.00% | ~5,249 |
-| It Rings a Bell | 4.00% | ~5,249 |
-| Not Today! | 4.00% | ~5,249 |
-| Meat and Greet | 4.00% | ~5,249 |
-| Catch and Decease | 4.00% | ~5,249 |
-| It Happens | 4.00% | ~5,249 |
-| Rush Hour | 4.00% | ~5,249 |
-| Merry Time | 4.00% | ~5,249 |
-| Harvest Festival | 4.00% | ~5,249 |
-| To Grandmother's House | 4.00% | ~5,249 |
-| A Place to Lay Your Head | 4.00% | ~5,249 |
-| FNG | 4.00% | ~5,249 |
-| Nope | 4.00% | ~5,249 |
+| Ploughshares to Swords | 5.00% | ~306 |
+| Bloody Graduation | 5.00% | ~306 |
+| Don't Make Me Turn This Coach Around | 4.00% | ~5,250 |
+| It Rings a Bell | 4.00% | ~5,250 |
+| Not Today! | 4.00% | ~5,250 |
+| Meat and Greet | 4.00% | ~5,250 |
+| Catch and Decease | 4.00% | ~5,250 |
+| It Happens | 4.00% | ~5,250 |
+| Rush Hour | 4.00% | ~5,250 |
+| Merry Time | 4.00% | ~5,250 |
+| Harvest Festival | 4.00% | ~5,250 |
+| To Grandmother's House | 4.00% | ~5,250 |
+| Whale | 4.00% | ~5,250 |
+| A Place to Lay Your Head | 4.00% | ~5,250 |
+| FNG | 4.00% | ~5,250 |
+| Nope | 4.00% | ~5,250 |
 | Friends 'Til the End | 4.00% | ~244 |
 | Resurrection | 3.00% | ~3,937 |
 | Unleash Hell | 3.00% | ~3,937 |
@@ -45,7 +46,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Spelunker | 3.00% | ~3,937 |
 | Ramble On | 3.00% | ~3,937 |
 | A Clear Conscience | 3.00% | ~3,937 |
-| Whale | 3.00% | ~3,937 |
 | Unshackled | 3.00% | ~3,937 |
 | Road Trip | 3.00% | ~3,937 |
 | This Looks Familiar | 2.00% | ~2,625 |
@@ -64,7 +64,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Body of Work | 1.00% | ~1,312 |
 | Slap on the Wrist | 1.00% | ~61 |
 | For Old Time' Sake | 1.00% | ~61 |
-| Clearing the Ledger | 0.80% | ~1,050 |
+| Clearing the Ledger | 0.90% | ~1,181 |
 | Hat Trick | 0.80% | ~1,050 |
 | Triage | 0.80% | ~1,050 |
 | No Mercy | 0.80% | ~49 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,234 (Ranked 90)  
+Progressed: 131,242 (Ranked 90)  
 Completed: 3 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,7 +333,7 @@ Completed: 3 (0.00%) (Ranked 390)
 | 2023-12-30 | 130,838 | 3 |
 | 2023-12-31 | 131,026 | 3 |
 | 2024-01-01 | 131,206 | 3 |
-| 2024-01-02 | 131,234 | 3 |
+| 2024-01-02 | 131,242 | 3 |
 ## Awards
 Max (Character Customization): 7,919  (Ranked 50)  
 Sum: 21,332 (Ranked 58)  

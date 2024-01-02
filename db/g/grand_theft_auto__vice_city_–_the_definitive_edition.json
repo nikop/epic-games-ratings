@@ -1051,9 +1051,9 @@
       "Count": 172
     }
   ],
-  "EOS_Progressed": 15018,
+  "EOS_Progressed": 15020,
   "EOS_Completed": 85,
-  "EOS_NewPlayers": 956,
+  "EOS_NewPlayers": 955,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -16701,6 +16701,11 @@
       "Time": "2024-01-02T04:09:58.7320057+00:00",
       "NumProgressed": 15018,
       "NumCompleted": 85
+    },
+    {
+      "Time": "2024-01-02T05:09:16.2237261+00:00",
+      "NumProgressed": 15020,
+      "NumCompleted": 85
     }
   ],
   "TotalAchievements": 34,
@@ -16872,7 +16877,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 6908
+      "UsersEstimate": 6909
     },
     {
       "ID": "ACH22",
@@ -16944,7 +16949,7 @@
       "Name": "Mischief Managed",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1201
+      "UsersEstimate": 1202
     },
     {
       "ID": "ACH31",
@@ -16983,7 +16988,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 15018,
+      "Progressed": 15020,
       "Completed": 85
     }
   ],
@@ -16991,8 +16996,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-01T23:57:10.5196761+00:00",
-  "LastChanged_Achievements": "2024-01-02T04:09:58.7320054+00:00",
+  "LastChanged_Achievements": "2024-01-02T05:09:16.2237259+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:48.9246276+00:00",
-  "LastUpdate_Ratings": "2024-01-02T03:57:13.1609005+00:00",
-  "LastUpdate_Achievements": "2024-01-02T04:09:58.7321201+00:00"
+  "LastUpdate_Ratings": "2024-01-02T04:57:02.496453+00:00",
+  "LastUpdate_Achievements": "2024-01-02T05:09:16.2238327+00:00"
 }

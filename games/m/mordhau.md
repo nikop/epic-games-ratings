@@ -5,19 +5,19 @@ Rating: 4.38 (Ranked 784)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~775,567 |
-| The ABCs | 43.00% | ~680,600 |
-| Home Run | 41.00% | ~648,944 |
-| Keeps Coming Off | 41.00% | ~648,944 |
-| Guts | 19.00% | ~300,730 |
-| Meat Grinder | 19.00% | ~300,730 |
-| Burning Man | 16.00% | ~253,246 |
-| Lived to Tell the Tale | 12.00% | ~189,935 |
-| Highlander | 10.00% | ~158,279 |
-| Unstoppable | 10.00% | ~158,279 |
-| Just a Scratch | 9.00% | ~142,451 |
-| Tough Nut to Crack | 6.00% | ~94,967 |
-| Yoink | 6.00% | ~94,967 |
+| Justice from the Grave | 49.00% | ~775,573 |
+| The ABCs | 43.00% | ~680,605 |
+| Home Run | 41.00% | ~648,949 |
+| Keeps Coming Off | 41.00% | ~648,949 |
+| Guts | 19.00% | ~300,733 |
+| Meat Grinder | 19.00% | ~300,733 |
+| Burning Man | 16.00% | ~253,248 |
+| Lived to Tell the Tale | 12.00% | ~189,936 |
+| Highlander | 10.00% | ~158,280 |
+| Unstoppable | 10.00% | ~158,280 |
+| Just a Scratch | 9.00% | ~142,452 |
+| Tough Nut to Crack | 6.00% | ~94,968 |
+| Yoink | 6.00% | ~94,968 |
 | Long List of Names | 4.00% | ~63,312 |
 | Pyromaniac | 4.00% | ~63,312 |
 | The Queen of Weapons | 4.00% | ~63,312 |
@@ -44,7 +44,7 @@ Rating: 4.38 (Ranked 784)
 | That’s No Ordinary Cold | 0.10% | ~1,583 |
 | Stairway to Hell | 0.10% | ~1,583 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,582,790 (Ranked 7)  
+Progressed: 1,582,803 (Ranked 7)  
 Completed: 76 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,16 +301,16 @@ Completed: 76 (0.00%) (Ranked 390)
 | 2023-12-30 | 1,581,357 | 73 |
 | 2023-12-31 | 1,582,032 | 73 |
 | 2024-01-01 | 1,582,697 | 76 |
-| 2024-01-02 | 1,582,790 | 76 |
+| 2024-01-02 | 1,582,803 | 76 |
 ## Awards
 Max (Diverse Characters): 1,153  (Ranked 148)  
-Sum: 6,008 (Ranked 135)  
+Sum: 6,012 (Ranked 135)  
 Diff (max vs sum): 13  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 1,153 |
 | This game has Challenging Combat | 993 |
-| This game is Highly Recommended | 928 |
+| This game is Highly Recommended | 932 |
 | This game has Amazing Characters | 779 |
 | This game is Extremely Fun | 771 |
 | This game has Competitive Players | 741 |
@@ -582,3 +582,4 @@ Diff (max vs sum): 13
 | 2023-12-30 | 4.38 | 1,138 | 5,951 |
 | 2023-12-31 | 4.38 | 1,144 | 5,986 |
 | 2024-01-01 | 4.38 | 1,153 | 6,008 |
+| 2024-01-02 | 4.38 | 1,153 | 6,012 |

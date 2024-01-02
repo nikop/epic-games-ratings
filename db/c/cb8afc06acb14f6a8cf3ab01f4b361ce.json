@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -461,9 +461,9 @@
       "Count": 77
     }
   ],
-  "EOS_Progressed": 339546,
+  "EOS_Progressed": 339558,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 4213,
+  "EOS_NewPlayers": 4206,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11846,6 +11846,11 @@
       "Time": "2024-01-02T04:09:01.730862+00:00",
       "NumProgressed": 339546,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-02T05:08:24.5242906+00:00",
+      "NumProgressed": 339558,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -11866,7 +11871,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 10186
+      "UsersEstimate": 10187
     },
     {
       "ID": "S03_OTWA",
@@ -11874,7 +11879,7 @@
       "Name": "Rumors are true",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3395
+      "UsersEstimate": 3396
     },
     {
       "ID": "S04_BRDC",
@@ -12082,7 +12087,7 @@
       "Name": "Your wounds\u2026 They are healing so fast!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3395
+      "UsersEstimate": 3396
     },
     {
       "ID": "S30_DIAMOND",
@@ -12177,7 +12182,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 339546,
+      "Progressed": 339558,
       "Completed": 7
     }
   ],
@@ -12185,8 +12190,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2024-01-01T23:01:20.9565561+00:00",
-  "LastChanged_Achievements": "2024-01-02T04:09:01.7308617+00:00",
+  "LastChanged_Achievements": "2024-01-02T05:08:24.52429+00:00",
   "LastUpdate_AppInfo": "2023-12-28T22:56:57.7073923+00:00",
-  "LastUpdate_Ratings": "2024-01-02T04:00:32.7338861+00:00",
-  "LastUpdate_Achievements": "2024-01-02T04:09:01.7309352+00:00"
+  "LastUpdate_Ratings": "2024-01-02T05:00:00.6091613+00:00",
+  "LastUpdate_Achievements": "2024-01-02T05:08:24.5243735+00:00"
 }

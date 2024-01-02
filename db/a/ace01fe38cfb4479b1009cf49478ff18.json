@@ -4,7 +4,7 @@
   "ProductSlug": "boltgun-b1cb36",
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 687,
+  "EOS_Progressed": 688,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2284,6 +2284,11 @@
       "Time": "2024-01-02T04:08:47.9057479+00:00",
       "NumProgressed": 687,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-02T05:08:12.4709621+00:00",
+      "NumProgressed": 688,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -2296,7 +2301,7 @@
       "Name": "Chapter I - Complete",
       "Percentage": 20,
       "XP": 45,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ach_chapter_complete_2",
@@ -2391,14 +2396,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 687,
+      "Progressed": 688,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2024-01-02T04:08:47.9057477+00:00",
+  "LastChanged_Achievements": "2024-01-02T05:08:12.4709619+00:00",
   "LastUpdate_AppInfo": "2023-12-29T15:57:01.9014557+00:00",
-  "LastUpdate_Ratings": "2024-01-02T04:00:07.9545405+00:00",
-  "LastUpdate_Achievements": "2024-01-02T04:08:47.9057648+00:00"
+  "LastUpdate_Ratings": "2024-01-02T04:59:37.9087533+00:00",
+  "LastUpdate_Achievements": "2024-01-02T05:08:12.4709827+00:00"
 }

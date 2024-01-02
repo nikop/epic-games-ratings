@@ -4,7 +4,7 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1067,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -3594,9 +3594,9 @@
       "ID": "achievement_16",
       "SetID": "2cpn27e",
       "Name": "Distance Devourer",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 363
+      "UsersEstimate": 373
     },
     {
       "ID": "achievement_17",
@@ -3818,9 +3818,9 @@
       "ID": "achievement_41",
       "SetID": "2cpn27e",
       "Name": "Tsukumo Whisperer",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 21
+      "UsersEstimate": 32
     },
     {
       "ID": "achievement_42",
@@ -3928,8 +3928,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-02T04:09:42.2384449+00:00",
+  "LastChanged_Achievements": "2024-01-02T05:09:00.7799666+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:22.7723621+00:00",
-  "LastUpdate_Ratings": "2024-01-02T04:00:01.1871686+00:00",
-  "LastUpdate_Achievements": "2024-01-02T04:09:42.2385009+00:00"
+  "LastUpdate_Ratings": "2024-01-02T04:59:31.6844689+00:00",
+  "LastUpdate_Achievements": "2024-01-02T05:09:00.7800304+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1407,18 +1407,24 @@
       "Rating": 4.7,
       "NumberOfAwards": 1765,
       "NumberOfAwardsMax": 1346
+    },
+    {
+      "Time": "2024-01-02T04:57:27.7589771+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 1767,
+      "NumberOfAwardsMax": 1348
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1765,
-  "NumberOfAwardsMax": 1346,
+  "NumberOfAwards": 1767,
+  "NumberOfAwardsMax": 1348,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1346
+      "Count": 1348
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1499,9 +1505,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 430071,
+  "EOS_Progressed": 430072,
   "EOS_Completed": 555,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -18474,6 +18480,11 @@
       "Time": "2024-01-02T04:05:23.8879248+00:00",
       "NumProgressed": 430071,
       "NumCompleted": 555
+    },
+    {
+      "Time": "2024-01-02T05:05:06.6415135+00:00",
+      "NumProgressed": 430072,
+      "NumCompleted": 555
     }
   ],
   "TotalAchievements": 41,
@@ -18533,7 +18544,7 @@
       "Name": "A Leader Walks Alone",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 111818
+      "UsersEstimate": 111819
     },
     {
       "ID": "ACH_BOSS_WOODSMITH",
@@ -18541,7 +18552,7 @@
       "Name": "A Heavy Hammer",
       "Percentage": 30,
       "XP": 60,
-      "UsersEstimate": 129021
+      "UsersEstimate": 129022
     },
     {
       "ID": "ACH_CHALLENGE_ARROW",
@@ -18573,7 +18584,7 @@
       "Name": "Quick Draw",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 129021
+      "UsersEstimate": 129022
     },
     {
       "ID": "ACH_CHALLENGE_DASH_KILL",
@@ -18605,7 +18616,7 @@
       "Name": "Bow Master",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 111818
+      "UsersEstimate": 111819
     },
     {
       "ID": "ACH_CHALLENGE_PARRY_KILL",
@@ -18621,7 +18632,7 @@
       "Name": "Between the Eyes",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 202133
+      "UsersEstimate": 202134
     },
     {
       "ID": "ACH_CHESTS_ALL",
@@ -18653,7 +18664,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 408567
+      "UsersEstimate": 408568
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -18669,7 +18680,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 309651
+      "UsersEstimate": 309652
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -18677,7 +18688,7 @@
       "Name": "The Open Range",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 159126
+      "UsersEstimate": 159127
     },
     {
       "ID": "ACH_LOCATION_FOREST",
@@ -18693,7 +18704,7 @@
       "Name": "The Lonely Path",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 111818
+      "UsersEstimate": 111819
     },
     {
       "ID": "ACH_LOCATION_VILLAGE",
@@ -18701,7 +18712,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 344057
+      "UsersEstimate": 344058
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -18725,7 +18736,7 @@
       "Name": "Say Cheese",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 68811
+      "UsersEstimate": 68812
     },
     {
       "ID": "ACH_RELIC_FOOD_OFFERING",
@@ -18741,7 +18752,7 @@
       "Name": "Adira\u0027s Fear",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 141923
+      "UsersEstimate": 141924
     },
     {
       "ID": "ACH_RELIC_HARPOON",
@@ -18773,7 +18784,7 @@
       "Name": "Taro\u0027s Regret",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 189231
+      "UsersEstimate": 189232
     },
     {
       "ID": "ACH_RELIC_OX",
@@ -18812,15 +18823,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 430071,
+      "Progressed": 430072,
       "Completed": 555
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
-  "LastChanged": "2023-12-29T18:00:19.5277245+00:00",
-  "LastChanged_Achievements": "2024-01-02T04:05:23.8879244+00:00",
+  "LastChanged": "2024-01-02T04:57:27.7589769+00:00",
+  "LastChanged_Achievements": "2024-01-02T05:05:06.6415131+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:06.4551903+00:00",
-  "LastUpdate_Ratings": "2024-01-02T03:57:42.6002821+00:00",
-  "LastUpdate_Achievements": "2024-01-02T04:05:23.8880207+00:00"
+  "LastUpdate_Ratings": "2024-01-02T04:57:27.7589774+00:00",
+  "LastUpdate_Achievements": "2024-01-02T05:05:06.6416087+00:00"
 }

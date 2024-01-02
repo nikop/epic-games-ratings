@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 334,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -813,9 +813,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3709,
+  "EOS_Progressed": 3711,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5313,6 +5313,11 @@
       "Time": "2024-01-02T02:28:12.8423627+00:00",
       "NumProgressed": 3709,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T05:04:51.7194746+00:00",
+      "NumProgressed": 3711,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -5420,7 +5425,7 @@
       "Name": "Surgical Excision",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -5490,9 +5495,9 @@
       "ID": "Kills_Auto",
       "SetID": "3jha1np",
       "Name": "Not So Fast...",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 445
+      "UsersEstimate": 482
     },
     {
       "ID": "Kills_Bleed",
@@ -5692,7 +5697,7 @@
       "Name": "A Foul Creche",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "NotAMoteOfCorruption",
@@ -5867,21 +5872,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3709,
+      "Progressed": 3711,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3709,
+      "Progressed": 3711,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-01T18:03:40.84636+00:00",
-  "LastChanged_Achievements": "2024-01-02T04:05:07.7416814+00:00",
+  "LastChanged_Achievements": "2024-01-02T05:04:51.7194742+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:30.5390055+00:00",
-  "LastUpdate_Ratings": "2024-01-02T04:03:19.4812215+00:00",
-  "LastUpdate_Achievements": "2024-01-02T04:05:07.7417422+00:00"
+  "LastUpdate_Ratings": "2024-01-02T05:03:07.7235592+00:00",
+  "LastUpdate_Achievements": "2024-01-02T05:04:51.7195391+00:00"
 }

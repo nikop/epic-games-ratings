@@ -5,9 +5,9 @@ Rating: 4.50 (Ranked 612)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 62.00% | ~854 |
+| Read Between The Lines | 63.00% | ~868 |
 | To Hell In A Handcart | 61.00% | ~840 |
-| High Profile | 54.00% | ~744 |
+| High Profile | 55.00% | ~757 |
 | Whispers In The Dark | 52.00% | ~716 |
 | Fond Memories | 50.00% | ~688 |
 | A Method To His Madness | 48.00% | ~661 |
@@ -28,7 +28,7 @@ Rating: 4.50 (Ranked 612)
 | Going Once... | 36.00% | ~496 |
 | Let Me Be Frank | 34.00% | ~468 |
 | No Stone Unturned | 32.00% | ~441 |
-| Brain Food | 30.00% | ~413 |
+| Brain Food | 31.00% | ~427 |
 | Read It And Weep | 19.00% | ~262 |
 | Curiosity Killed The Cat | 18.00% | ~248 |
 | Big Breakthrough | 12.00% | ~165 |

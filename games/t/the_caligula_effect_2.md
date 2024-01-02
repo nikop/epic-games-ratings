@@ -28,10 +28,10 @@ Number of Ratings: 32  (23.09.2022)
 | The Greater Good | 20.00% | ~50 |
 | Depths of the Heart | 20.00% | ~50 |
 | Lost Souls For Sale | 19.00% | ~47 |
+| Trigger Finger | 19.00% | ~47 |
 | Selfish Decisions | 18.00% | ~45 |
 | Pulling Heartstrings | 18.00% | ~45 |
 | Extracurricular Affair | 18.00% | ~45 |
-| Trigger Finger | 18.00% | ~45 |
 | Guarding Guru | 17.00% | ~42 |
 | Hopes Rewarded | 16.00% | ~40 |
 | Eat Your Heart Out | 11.00% | ~27 |

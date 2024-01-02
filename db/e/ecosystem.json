@@ -4,7 +4,7 @@
   "ProductSlug": "ecosystem-27eefe",
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-12-07T15:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:34.0866043+00:00",
   "LastChanged": "2023-03-31T05:58:34.0866044+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:18.1943244+00:00",
-  "LastUpdate_Ratings": "2024-01-02T03:58:23.3017606+00:00",
-  "LastUpdate_Achievements": "2024-01-02T04:04:25.1957703+00:00"
+  "LastUpdate_Ratings": "2024-01-02T04:58:03.0753417+00:00",
+  "LastUpdate_Achievements": "2024-01-02T05:04:11.3489987+00:00"
 }

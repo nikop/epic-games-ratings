@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -51,9 +51,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1192,
+  "EOS_Progressed": 1193,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -3456,6 +3456,11 @@
       "Time": "2024-01-02T03:10:07.4859599+00:00",
       "NumProgressed": 1192,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-02T05:09:39.4046599+00:00",
+      "NumProgressed": 1193,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3499,7 +3504,7 @@
       "Name": "Right On Time",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ClockworkCompletion1",
@@ -3515,7 +3520,7 @@
       "Name": "Like Clockwork",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ClovemaryGift",
@@ -3531,7 +3536,7 @@
       "Name": "Sartorialist",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "CosmeticProgress1",
@@ -3577,17 +3582,17 @@
       "ID": "FairgroundsChests1",
       "SetID": "a9e499d",
       "Name": "Fairgrounds Explorer",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 119
     },
     {
       "ID": "FutureEkko1Defeated",
       "SetID": "a9e499d",
       "Name": "The Mysterious Stranger",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 370
+      "UsersEstimate": 382
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -3595,7 +3600,7 @@
       "Name": "The Betrayer",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -3627,7 +3632,7 @@
       "Name": "Rail Rat",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "HexlockGift",
@@ -3651,7 +3656,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "LacunaCompleted",
@@ -3771,7 +3776,7 @@
       "Name": "Golem Hunter",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ScrambotProgress1",
@@ -3779,7 +3784,7 @@
       "Name": "Golem Chaser",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "SkillCompletion1",
@@ -3827,7 +3832,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "TheaterChests1",
@@ -3890,7 +3895,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1192,
+      "Progressed": 1193,
       "Completed": 6
     }
   ],
@@ -3898,8 +3903,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2024-01-02T04:10:23.8805829+00:00",
+  "LastChanged_Achievements": "2024-01-02T05:09:39.4046597+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:23.9308133+00:00",
-  "LastUpdate_Ratings": "2024-01-02T04:02:54.3511723+00:00",
-  "LastUpdate_Achievements": "2024-01-02T04:10:23.8806349+00:00"
+  "LastUpdate_Ratings": "2024-01-02T05:02:46.5360835+00:00",
+  "LastUpdate_Achievements": "2024-01-02T05:09:39.404726+00:00"
 }

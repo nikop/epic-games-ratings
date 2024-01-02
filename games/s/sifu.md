@@ -6,22 +6,22 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 5.00% | ~37,576 |
-| The Assault | 4.00% | ~30,061 |
-| Life is your teacher | 4.00% | ~30,061 |
-| Lightning Hands | 4.00% | ~30,061 |
-| The Hateful Pole Fighter | 2.00% | ~15,030 |
-| A Lady's Blood in the Snow | 2.00% | ~15,030 |
-| Kill Nil | 2.00% | ~15,030 |
-| Stuntmaster | 2.00% | ~15,030 |
-| Street Fighting | 2.00% | ~15,030 |
-| State of constant learning | 2.00% | ~15,030 |
-| Qi Gong: Breath | 2.00% | ~15,030 |
-| Qi Gong: Essence | 2.00% | ~15,030 |
-| Old Child | 2.00% | ~15,030 |
-| Path of the Prospect | 2.00% | ~15,030 |
-| Rumble in the Hangar | 2.00% | ~15,030 |
-| Diligence as a goal | 2.00% | ~1,216 |
+| The Old Grandmaster | 5.00% | ~37,577 |
+| The Assault | 4.00% | ~30,062 |
+| Life is your teacher | 4.00% | ~30,062 |
+| Lightning Hands | 4.00% | ~30,062 |
+| The Hateful Pole Fighter | 2.00% | ~15,031 |
+| A Lady's Blood in the Snow | 2.00% | ~15,031 |
+| Kill Nil | 2.00% | ~15,031 |
+| Stuntmaster | 2.00% | ~15,031 |
+| Street Fighting | 2.00% | ~15,031 |
+| State of constant learning | 2.00% | ~15,031 |
+| Qi Gong: Breath | 2.00% | ~15,031 |
+| Qi Gong: Essence | 2.00% | ~15,031 |
+| Old Child | 2.00% | ~15,031 |
+| Path of the Prospect | 2.00% | ~15,031 |
+| Rumble in the Hangar | 2.00% | ~15,031 |
+| Diligence as a goal | 2.00% | ~1,217 |
 | Lady Wing Chun | 1.00% | ~7,515 |
 | Furious Fists | 1.00% | ~7,515 |
 | Scareless | 1.00% | ~7,515 |
@@ -49,7 +49,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Knowledge Greed | 0.30% | ~2,255 |
 | The Pit Protector | 0.30% | ~2,255 |
 | Come Snap With Me | 0.30% | ~2,255 |
-| Deadly Venom | 0.30% | ~182 |
+| Deadly Venom | 0.30% | ~183 |
 | Healing Memory | 0.20% | ~1,503 |
 | Master of the Phoenix Eye Fist | 0.20% | ~1,503 |
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,503 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~61 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 751,514 (Ranked 23)  
+Progressed: 751,546 (Ranked 23)  
 Completed: 12,971 (1.73%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 12,971 (1.73%) (Ranked 143)
 | 2023-12-30 | 749,350 | 12,969 |
 | 2023-12-31 | 750,399 | 12,971 |
 | 2024-01-01 | 751,425 | 12,971 |
-| 2024-01-02 | 751,514 | 12,971 |
+| 2024-01-02 | 751,546 | 12,971 |
 ## Awards
 Max (Great Boss Battles): 7,079  (Ranked 55)  
 Sum: 11,976 (Ranked 87)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1380,7 +1380,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 32187,
+  "EOS_Progressed": 32189,
   "EOS_Completed": 86,
   "EOS_NewPlayers": 774,
   "EOS_NewCompleters": 1,
@@ -28970,6 +28970,11 @@
       "Time": "2024-01-02T04:10:06.1170346+00:00",
       "NumProgressed": 32187,
       "NumCompleted": 86
+    },
+    {
+      "Time": "2024-01-02T05:09:22.8790767+00:00",
+      "NumProgressed": 32189,
+      "NumCompleted": 86
     }
   ],
   "TotalAchievements": 22,
@@ -29109,7 +29114,7 @@
       "Name": "Well Stocked",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 4184
+      "UsersEstimate": 4185
     },
     {
       "ID": "1032",
@@ -29117,7 +29122,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 12875
+      "UsersEstimate": 12876
     },
     {
       "ID": "1033",
@@ -29141,7 +29146,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 4184
+      "UsersEstimate": 4185
     },
     {
       "ID": "1036",
@@ -29156,15 +29161,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 32187,
+      "Progressed": 32189,
       "Completed": 86
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-12-30T03:00:21.8203894+00:00",
-  "LastChanged_Achievements": "2024-01-02T04:10:06.1170344+00:00",
+  "LastChanged_Achievements": "2024-01-02T05:09:22.8790763+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:55.7773957+00:00",
-  "LastUpdate_Ratings": "2024-01-02T03:57:42.941383+00:00",
-  "LastUpdate_Achievements": "2024-01-02T04:10:06.1171522+00:00"
+  "LastUpdate_Ratings": "2024-01-02T04:57:28.0636909+00:00",
+  "LastUpdate_Achievements": "2024-01-02T05:09:22.8792096+00:00"
 }

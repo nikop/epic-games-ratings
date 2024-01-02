@@ -44,8 +44,8 @@ Number of Ratings: 116  (23.09.2022)
 | Everybody Wants to Rule the World | 14.00% | ~53 |
 | Community Outreach | 13.00% | ~49 |
 | A Parting Gift | 12.00% | ~45 |
+| Unbreakable Will | 11.00% | ~41 |
 | Path of the Horseman | 11.00% | ~41 |
-| Unbreakable Will | 10.00% | ~38 |
 | Holy Keeper | 9.00% | ~34 |
 | Take it to the Limit | 9.00% | ~34 |
 | Demon Keeper | 8.00% | ~30 |

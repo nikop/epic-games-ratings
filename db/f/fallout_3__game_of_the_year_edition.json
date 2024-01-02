@@ -4,10 +4,10 @@
   "ProductSlug": "fallout-3-game-of-the-year-edition",
   "Ranking_Rating": 426,
   "Ranking_Popularity": 28,
-  "Ranking_PopularitySum": 49,
+  "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-10-20T17:50:00+00:00",
@@ -6731,10 +6731,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 29716,
       "NumberOfAwardsMax": 14440
+    },
+    {
+      "Time": "2024-01-02T04:59:43.0214426+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 29725,
+      "NumberOfAwardsMax": 14440
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29716,
+  "NumberOfAwards": 29725,
   "NumberOfAwardsMax": 14440,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6784,7 +6790,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1603
+      "Count": 1608
     },
     {
       "Text": "This game has Amazing Characters",
@@ -6796,7 +6802,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 1413
+      "Count": 1417
     },
     {
       "Text": "This game has a Creative Community",
@@ -6823,8 +6829,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-20T18:02:29.378678+00:00",
   "FirstSeenRating": "2022-10-21T00:33:04.5526796+00:00",
-  "LastChanged": "2024-01-02T04:00:13.0838741+00:00",
+  "LastChanged": "2024-01-02T04:59:43.0214424+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:31.7164037+00:00",
-  "LastUpdate_Ratings": "2024-01-02T04:00:13.0838747+00:00",
-  "LastUpdate_Achievements": "2024-01-02T04:04:40.6195029+00:00"
+  "LastUpdate_Ratings": "2024-01-02T04:59:43.0214429+00:00",
+  "LastUpdate_Achievements": "2024-01-02T05:04:26.236084+00:00"
 }

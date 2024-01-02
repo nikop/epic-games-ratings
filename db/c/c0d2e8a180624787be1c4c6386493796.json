@@ -1570,9 +1570,9 @@
       "ID": "KR4_ACHIEVEMENT_POLYX",
       "SetID": "caeik3h",
       "Name": "Much To Learn",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 95
+      "UsersEstimate": 98
     },
     {
       "ID": "KR4_ACHIEVEMENT_PUMPKIN",
@@ -1722,9 +1722,9 @@
       "ID": "KR4_ACHIEVEMENT_WINTER_QUEEN",
       "SetID": "caeik3h",
       "Name": "More Than A Legend",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 95
+      "UsersEstimate": 98
     }
   ],
   "AchievementSets": [
@@ -1743,8 +1743,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2024-01-02T04:08:36.333157+00:00",
+  "LastChanged_Achievements": "2024-01-02T05:08:01.1774722+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:04.1058747+00:00",
-  "LastUpdate_Ratings": "2024-01-02T03:59:46.841405+00:00",
-  "LastUpdate_Achievements": "2024-01-02T04:08:36.3332375+00:00"
+  "LastUpdate_Ratings": "2024-01-02T04:59:19.4322172+00:00",
+  "LastUpdate_Achievements": "2024-01-02T05:08:01.1775623+00:00"
 }

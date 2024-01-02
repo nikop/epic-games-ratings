@@ -19,7 +19,7 @@
 | Helpful Heart | 38.00% | ~405 |
 | Flawless Crystal | 37.00% | ~395 |
 | Bonds of Enmity | 37.00% | ~395 |
-| Distance Devourer | 34.00% | ~363 |
+| Distance Devourer | 35.00% | ~373 |
 | Counter Specialist | 33.00% | ~352 |
 | Master of the Skies | 31.00% | ~331 |
 | Axer of Auspice | 27.00% | ~288 |
@@ -51,7 +51,7 @@
 | Vanquisher of the Volatile | 6.00% | ~64 |
 | Big Spender | 5.00% | ~53 |
 | Bewitched by Bathing | 4.00% | ~43 |
-| Tsukumo Whisperer | 2.00% | ~21 |
+| Tsukumo Whisperer | 3.00% | ~32 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,067 (Ranked 287)  
 Completed: 8 (0.75%) (Ranked 192)  

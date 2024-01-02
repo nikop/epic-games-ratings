@@ -134,6 +134,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Battle of Opis | 0.10% | ~16 |
 | Before the Mongol Horde | 0.10% | ~16 |
 | Blade of the Monkey | 0.10% | ~16 |
+| Hagia Sophia in Byzantion | 0.10% | ~16 |
 | Carthage - Ox Hide | 0.10% | ~16 |
 | Bronze Victory (Carthage 1) | 0.10% | ~16 |
 | Epic Victory (Carthage 1) | 0.10% | ~16 |
@@ -288,7 +289,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colosseum in Roma | 0.10% | ~16 |
 | Alexander the who? | 0.00% | ~0 |
 | The Great Raging Horde | 0.00% | ~0 |
-| Hagia Sophia in Byzantion | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
 | Rebuilder | 0.00% | ~0 |
 | Restorer | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,079 (Ranked 166)  
+Progressed: 16,080 (Ranked 166)  
 Completed: 5 (0.03%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -622,7 +622,7 @@ Completed: 5 (0.03%) (Ranked 349)
 | 2023-12-30 | 16,036 | 5 |
 | 2023-12-31 | 16,053 | 5 |
 | 2024-01-01 | 16,077 | 5 |
-| 2024-01-02 | 16,079 | 5 |
+| 2024-01-02 | 16,080 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 283)  
 Sum: 1,912 (Ranked 221)  

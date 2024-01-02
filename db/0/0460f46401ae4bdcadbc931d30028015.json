@@ -1371,9 +1371,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 7907,
+  "EOS_Progressed": 7927,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1744,
+  "EOS_NewPlayers": 1742,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9681,6 +9681,11 @@
       "Time": "2024-01-02T04:05:56.5029015+00:00",
       "NumProgressed": 7907,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T05:05:37.2141996+00:00",
+      "NumProgressed": 7927,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -9693,7 +9698,7 @@
       "Name": "Primetime",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "achievement_10",
@@ -9701,7 +9706,7 @@
       "Name": "Stud Finder",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 2609
+      "UsersEstimate": 2616
     },
     {
       "ID": "achievement_11",
@@ -9709,7 +9714,7 @@
       "Name": "Big Spender",
       "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 1344
+      "UsersEstimate": 1348
     },
     {
       "ID": "achievement_12",
@@ -9717,7 +9722,7 @@
       "Name": "Dealmaker",
       "Percentage": 25,
       "XP": 60,
-      "UsersEstimate": 1977
+      "UsersEstimate": 1982
     },
     {
       "ID": "achievement_13",
@@ -9725,7 +9730,7 @@
       "Name": "MVP",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 2214
+      "UsersEstimate": 2220
     },
     {
       "ID": "achievement_14",
@@ -9733,7 +9738,7 @@
       "Name": "ROTY",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 2609
+      "UsersEstimate": 2616
     },
     {
       "ID": "achievement_15",
@@ -9781,7 +9786,7 @@
       "Name": "Unblockable",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "achievement_20",
@@ -9789,7 +9794,7 @@
       "Name": "Saw It Coming",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 4507
+      "UsersEstimate": 4518
     },
     {
       "ID": "achievement_21",
@@ -9797,7 +9802,7 @@
       "Name": "Clean The Pile",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "achievement_3",
@@ -9805,7 +9810,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 474
+      "UsersEstimate": 476
     },
     {
       "ID": "achievement_4",
@@ -9813,7 +9818,7 @@
       "Name": "Lockdown Corner",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "achievement_5",
@@ -9821,7 +9826,7 @@
       "Name": "Change of Scenery",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1268
     },
     {
       "ID": "achievement_6",
@@ -9829,7 +9834,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1898
+      "UsersEstimate": 1902
     },
     {
       "ID": "achievement_7",
@@ -9837,7 +9842,7 @@
       "Name": "Head-to-Head",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "achievement_8",
@@ -9845,7 +9850,7 @@
       "Name": "Bragging Rights",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 1977
+      "UsersEstimate": 1982
     },
     {
       "ID": "achievement_9",
@@ -9853,14 +9858,14 @@
       "Name": "Future of the Franchise",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1028
+      "UsersEstimate": 1031
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 7907,
+      "Progressed": 7927,
       "Completed": 0
     }
   ],
@@ -9868,8 +9873,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2024-01-02T01:46:57.2826409+00:00",
-  "LastChanged_Achievements": "2024-01-02T04:05:56.5029011+00:00",
+  "LastChanged_Achievements": "2024-01-02T05:05:37.2141994+00:00",
   "LastUpdate_AppInfo": "2023-12-28T08:57:17.7769653+00:00",
-  "LastUpdate_Ratings": "2024-01-02T03:59:44.8527196+00:00",
-  "LastUpdate_Achievements": "2024-01-02T04:05:56.5029493+00:00"
+  "LastUpdate_Ratings": "2024-01-02T04:59:17.5520659+00:00",
+  "LastUpdate_Achievements": "2024-01-02T05:05:37.2142397+00:00"
 }

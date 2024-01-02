@@ -3,9 +3,9 @@
   "Name": "Creepy Tale",
   "ProductSlug": "creepy-tale-058ebd",
   "Ranking_EOS_Progress": 419,
-  "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 281,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_Completed": 83,
+  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2021-02-21T17:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 226,
+  "EOS_Progressed": 227,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.42,
+  "EOS_Completed_Percentage": 4.41,
   "EosHistory": [
     {
       "Time": "2023-10-22T10:08:20.3379882+00:00",
@@ -1009,6 +1009,11 @@
       "Time": "2024-01-02T04:10:15.5302112+00:00",
       "NumProgressed": 226,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-02T05:09:31.4811879+00:00",
+      "NumProgressed": 227,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-10-22T10:08:20.3379913+00:00",
@@ -1029,7 +1034,7 @@
       "Name": "Intuition",
       "Percentage": 17,
       "XP": 75,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "creepytaleach11",
@@ -1037,7 +1042,7 @@
       "Name": "Alchemist",
       "Percentage": 58,
       "XP": 75,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "creepytaleach12",
@@ -1069,7 +1074,7 @@
       "Name": "Happy end",
       "Percentage": 43,
       "XP": 75,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "creepytaleach4",
@@ -1101,7 +1106,7 @@
       "Name": "Crazy chef",
       "Percentage": 21,
       "XP": 80,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "creepytaleach8",
@@ -1124,14 +1129,14 @@
     {
       "ID": "bnif31p",
       "IsBase": true,
-      "Progressed": 226,
+      "Progressed": 227,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2024-01-02T04:10:15.5302108+00:00",
+  "LastChanged_Achievements": "2024-01-02T05:09:31.4811876+00:00",
   "LastUpdate_AppInfo": "2023-12-27T07:56:54.2023855+00:00",
-  "LastUpdate_Ratings": "2024-01-02T03:59:30.5695418+00:00",
-  "LastUpdate_Achievements": "2024-01-02T04:10:15.5302242+00:00"
+  "LastUpdate_Ratings": "2024-01-02T04:59:03.9518936+00:00",
+  "LastUpdate_Achievements": "2024-01-02T05:09:31.4812017+00:00"
 }

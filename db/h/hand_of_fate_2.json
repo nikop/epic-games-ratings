@@ -943,9 +943,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 666676,
+  "EOS_Progressed": 666679,
   "EOS_Completed": 174,
-  "EOS_NewPlayers": 373,
+  "EOS_NewPlayers": 375,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -25353,6 +25353,11 @@
       "Time": "2024-01-02T03:09:22.3634369+00:00",
       "NumProgressed": 666676,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2024-01-02T05:08:53.9502648+00:00",
+      "NumProgressed": 666679,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 48,
@@ -25364,7 +25369,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 480007
+      "UsersEstimate": 480009
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -25372,7 +25377,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 386672
+      "UsersEstimate": 386674
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -25380,7 +25385,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 153335
+      "UsersEstimate": 153336
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -25436,7 +25441,7 @@
       "Name": "Long Shot",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46667
+      "UsersEstimate": 46668
     },
     {
       "ID": "Achievement_11_Grifter",
@@ -25500,7 +25505,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 153335
+      "UsersEstimate": 153336
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -25596,7 +25601,7 @@
       "Name": "Devil Dice",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46667
+      "UsersEstimate": 46668
     },
     {
       "ID": "Achievement_31_Master_of_Arms",
@@ -25628,7 +25633,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 166669
+      "UsersEstimate": 166670
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -25676,7 +25681,7 @@
       "Name": "Broken Heart",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46667
+      "UsersEstimate": 46668
     },
     {
       "ID": "Achievement_41_Draknars_Bane",
@@ -25747,15 +25752,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 666676,
+      "Progressed": 666679,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-11-24T17:58:48.2867936+00:00",
-  "LastChanged_Achievements": "2024-01-02T04:09:34.4741466+00:00",
+  "LastChanged_Achievements": "2024-01-02T05:08:53.9502645+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:45.4290677+00:00",
-  "LastUpdate_Ratings": "2024-01-02T03:57:31.4586693+00:00",
-  "LastUpdate_Achievements": "2024-01-02T04:09:34.4743006+00:00"
+  "LastUpdate_Ratings": "2024-01-02T04:57:18.5456066+00:00",
+  "LastUpdate_Achievements": "2024-01-02T05:08:53.9503984+00:00"
 }

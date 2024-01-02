@@ -4,7 +4,7 @@
   "ProductSlug": "grim-nights-fa4c5a",
   "Ranking_EOS_Progress": 528,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-04-24T23:00:00+00:00",
@@ -422,17 +422,17 @@
       "ID": "ach_level2",
       "SetID": "c2c0fb6",
       "Name": "Getting somewhere",
-      "Percentage": 61,
+      "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ach_level3",
       "SetID": "c2c0fb6",
       "Name": "Top notch!",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 70,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ach_lose",
@@ -479,8 +479,8 @@
   "FirstSeenRating": "2023-04-28T10:59:29.2849969+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:04.6857767+00:00",
   "LastChanged": "2023-04-28T10:59:29.284997+00:00",
-  "LastChanged_Achievements": "2024-01-02T04:05:30.3671047+00:00",
+  "LastChanged_Achievements": "2024-01-02T05:05:12.6858058+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:21.0062602+00:00",
-  "LastUpdate_Ratings": "2024-01-02T03:58:44.9972492+00:00",
-  "LastUpdate_Achievements": "2024-01-02T04:05:30.3671156+00:00"
+  "LastUpdate_Ratings": "2024-01-02T04:58:23.5239747+00:00",
+  "LastUpdate_Achievements": "2024-01-02T05:05:12.6858173+00:00"
 }

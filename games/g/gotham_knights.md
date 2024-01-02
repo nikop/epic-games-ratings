@@ -5,40 +5,40 @@ Rating: 4.18 (Ranked 968)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~40,482 |
-| Har, Har, Har, Very Funny | 34.00% | ~27,528 |
-| Loose Ends | 33.00% | ~26,718 |
-| To the Victor Go the Spoils | 27.00% | ~21,860 |
-| Knighthood | 27.00% | ~21,860 |
-| Get ReQ'd | 24.00% | ~19,431 |
-| Whispered Words | 24.00% | ~19,431 |
-| The Batman Family | 22.00% | ~17,812 |
-| Lock and Key | 22.00% | ~17,812 |
-| Something in the Clay | 20.00% | ~16,193 |
-| Quartzer Life Crisis | 20.00% | ~16,193 |
-| Working Hard or Harley Working? | 20.00% | ~16,193 |
-| Unstoppable Force | 20.00% | ~16,193 |
-| Bad Apples in Every Orchard | 20.00% | ~16,193 |
-| Snow Problem | 19.00% | ~15,383 |
-| The Show Mud Go On | 17.00% | ~13,764 |
-| From Inside Gotham's Walls | 17.00% | ~13,764 |
-| Protector of Gotham | 16.00% | ~12,954 |
-| In Your Element | 15.00% | ~12,145 |
-| Universal Health Scare | 15.00% | ~12,145 |
-| Rock and a Hard Place | 14.00% | ~11,335 |
-| Cooldown | 14.00% | ~11,335 |
-| Voiceless | 14.00% | ~11,335 |
-| Shock Til They Drop | 13.00% | ~10,525 |
-| Seeking Asylum | 13.00% | ~10,525 |
+| First Step Into the Knight | 50.00% | ~40,485 |
+| Har, Har, Har, Very Funny | 34.00% | ~27,530 |
+| Loose Ends | 33.00% | ~26,720 |
+| To the Victor Go the Spoils | 27.00% | ~21,862 |
+| Knighthood | 27.00% | ~21,862 |
+| Get ReQ'd | 24.00% | ~19,433 |
+| Whispered Words | 24.00% | ~19,433 |
+| The Batman Family | 22.00% | ~17,813 |
+| Lock and Key | 22.00% | ~17,813 |
+| Something in the Clay | 20.00% | ~16,194 |
+| Quartzer Life Crisis | 20.00% | ~16,194 |
+| Working Hard or Harley Working? | 20.00% | ~16,194 |
+| Unstoppable Force | 20.00% | ~16,194 |
+| Bad Apples in Every Orchard | 20.00% | ~16,194 |
+| Snow Problem | 19.00% | ~15,384 |
+| The Show Mud Go On | 17.00% | ~13,765 |
+| From Inside Gotham's Walls | 17.00% | ~13,765 |
+| Protector of Gotham | 16.00% | ~12,955 |
+| In Your Element | 15.00% | ~12,146 |
+| Universal Health Scare | 15.00% | ~12,146 |
+| Rock and a Hard Place | 14.00% | ~11,336 |
+| Cooldown | 14.00% | ~11,336 |
+| Voiceless | 14.00% | ~11,336 |
+| Shock Til They Drop | 13.00% | ~10,526 |
+| Seeking Asylum | 13.00% | ~10,526 |
 | End of an Era | 12.00% | ~9,716 |
 | Not On My Watch | 12.00% | ~9,716 |
 | Bulldozed | 12.00% | ~9,716 |
 | Gotham Knight | 12.00% | ~9,716 |
-| Gotham City Confidential | 11.00% | ~8,906 |
-| Drone You Out | 10.00% | ~8,096 |
+| Gotham City Confidential | 11.00% | ~8,907 |
+| Drone You Out | 10.00% | ~8,097 |
 | Out of Their League | 9.00% | ~7,287 |
-| Solid Alibi | 8.00% | ~6,477 |
-| Fusion Expert | 7.00% | ~5,667 |
+| Solid Alibi | 8.00% | ~6,478 |
+| Fusion Expert | 7.00% | ~5,668 |
 | Family Meeting | 6.00% | ~4,858 |
 | A Worthy Successor | 6.00% | ~4,858 |
 | Expert Crime Fighter | 5.00% | ~4,048 |
@@ -55,8 +55,8 @@ Rating: 4.18 (Ranked 968)
 | History Major | 0.80% | ~648 |
 | A Sophisticated Mallet | 0.80% | ~410 |
 | Read Owl About It | 0.70% | ~567 |
-| Don't Mecha Big Deal About It | 0.60% | ~307 |
-| Confronting Your Demon | 0.60% | ~307 |
+| Don't Mecha Big Deal About It | 0.60% | ~308 |
+| Confronting Your Demon | 0.60% | ~308 |
 | Gotham's Greatest Depths | 0.50% | ~256 |
 | That's Showbiz, Clayby | 0.50% | ~256 |
 | Hammer and Icicle | 0.40% | ~205 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 968)
 | The Cold, the Bad and the Ugly | 0.30% | ~154 |
 | It's Nice to Be Wanted | 0.20% | ~102 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 80,964 (Ranked 110)  
+Progressed: 80,970 (Ranked 110)  
 Completed: 130 (0.16%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 130 (0.16%) (Ranked 283)
 | 2023-12-30 | 80,586 | 129 |
 | 2023-12-31 | 80,757 | 130 |
 | 2024-01-01 | 80,929 | 130 |
-| 2024-01-02 | 80,964 | 130 |
+| 2024-01-02 | 80,970 | 130 |
 ## Awards
 Max (Great Boss Battles): 3,112  (Ranked 100)  
 Sum: 5,319 (Ranked 142)  

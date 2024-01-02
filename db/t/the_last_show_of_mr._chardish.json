@@ -4,7 +4,7 @@
   "ProductSlug": "the-last-show-of-mr-chardish",
   "Ranking_EOS_Progress": 819,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-08-12T13:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:46.2513359+00:00",
   "LastChanged": "2023-03-31T05:58:46.251336+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:21.2019017+00:00",
-  "LastUpdate_Ratings": "2024-01-02T03:59:47.9273738+00:00",
-  "LastUpdate_Achievements": "2024-01-02T04:06:42.3546632+00:00"
+  "LastUpdate_Ratings": "2024-01-02T04:59:20.0603692+00:00",
+  "LastUpdate_Achievements": "2024-01-02T05:07:39.6653185+00:00"
 }
