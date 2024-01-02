@@ -60,7 +60,7 @@
 | 58 | [Sonic Origins](games/s/sonic_origins.md) | 7.15% |
 | 59 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 7.14% |
 | 60 | [Scorn](games/s/scorn.md) | 6.93% |
-| 61 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.69% |
+| 61 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.68% |
 | 62 | [Time Loader](games/t/time_loader.md) | 6.52% |
 | 63 | [Anna's Quest](games/a/anna's_quest.md) | 6.45% |
 | 64 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.35% |
@@ -88,8 +88,8 @@
 | 86 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.26% |
 | 87 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.25% |
 | 88 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.24% |
-| 89 | [Nova Strike](games/b/b1555bed500048b79f6fad321d5a7202.md) | 4.17% |
 | 89 | [The Bunker](games/t/the_bunker.md) | 4.17% |
+| 90 | [Nova Strike](games/b/b1555bed500048b79f6fad321d5a7202.md) | 4.00% |
 | 91 | [Dungeons 4](games/d/dungeons_4.md) | 3.91% |
 | 92 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.82% |
 | 93 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.78% |
@@ -185,8 +185,8 @@
 | 182 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.89% |
 | 184 | [A Musical Story](games/a/a_musical_story.md) | 0.88% |
 | 185 | [There Is No Game - Wrong Dimension](games/5/5f7c8e78a55f4eb9956329556c44a27a.md) | 0.84% |
-| 186 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 0.82% |
 | 186 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 0.82% |
+| 187 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 0.81% |
 | 188 | [Dungeons 3](games/d/dungeons_3.md) | 0.80% |
 | 188 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.80% |
 | 190 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
@@ -236,10 +236,10 @@
 | 234 | [Tchia](games/t/tchia.md) | 0.39% |
 | 235 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.38% |
 | 236 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.37% |
-| 237 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 0.36% |
 | 237 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.36% |
-| 239 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
-| 239 | [The Surge](games/t/the_surge.md) | 0.35% |
+| 238 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 0.35% |
+| 238 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
+| 238 | [The Surge](games/t/the_surge.md) | 0.35% |
 | 241 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 0.34% |
 | 241 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.34% |
 | 241 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.34% |
