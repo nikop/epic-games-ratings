@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 420,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 288,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -1100,9 +1100,9 @@
       "ID": "SG_GODOFTHESUN",
       "SetID": "bj5g0n4",
       "Name": "God Of The Sun",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "SG_HEARTBREAKER",
@@ -1140,9 +1140,9 @@
       "ID": "SG_MEANTTOBE",
       "SetID": "bj5g0n4",
       "Name": "Meant To Be",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 44
     },
     {
       "ID": "SG_MYTIMETOSHINE",
@@ -1220,17 +1220,17 @@
       "ID": "SG_THECHOICEISYOURS",
       "SetID": "bj5g0n4",
       "Name": "The Choice Is Yours",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 29
     },
     {
       "ID": "SG_THEDEEPEND",
       "SetID": "bj5g0n4",
       "Name": "The Deep End",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "SG_THEHIGHROAD",
@@ -1307,8 +1307,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-02T22:09:16.019782+00:00",
+  "LastChanged_Achievements": "2024-01-02T23:09:21.9421903+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:04.3127204+00:00",
-  "LastUpdate_Ratings": "2024-01-02T21:59:55.3469206+00:00",
-  "LastUpdate_Achievements": "2024-01-02T22:09:16.0198193+00:00"
+  "LastUpdate_Ratings": "2024-01-02T23:01:04.7353596+00:00",
+  "LastUpdate_Achievements": "2024-01-02T23:09:21.942247+00:00"
 }

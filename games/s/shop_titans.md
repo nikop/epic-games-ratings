@@ -6,14 +6,14 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 10.00% | ~14,907 |
-| Titan's First Steps | 10.00% | ~14,907 |
-| Basic in Bulk | 9.00% | ~13,416 |
-| Tinkle of Coins | 9.00% | ~13,416 |
+| Sponsored by Argon | 10.00% | ~14,908 |
+| Titan's First Steps | 10.00% | ~14,908 |
+| Basic in Bulk | 9.00% | ~13,417 |
+| Tinkle of Coins | 9.00% | ~13,417 |
 | Disintermediation | 7.00% | ~10,435 |
 | Capitalism Ho! | 7.00% | ~10,435 |
-| It's Free Real Estate | 6.00% | ~8,944 |
-| Budding Merchant | 6.00% | ~8,944 |
+| It's Free Real Estate | 6.00% | ~8,945 |
+| Budding Merchant | 6.00% | ~8,945 |
 | One Easy Payment | 5.00% | ~7,454 |
 | Some Assembly Required | 5.00% | ~7,454 |
 | Another Satisfied Customer | 5.00% | ~7,454 |
@@ -48,59 +48,59 @@ Number of Ratings: 12,664  (23.09.2022)
 | Did we pack lunch? | 3.00% | ~4,472 |
 | Magical Harmony | 3.00% | ~4,472 |
 | Complete Monopoly | 3.00% | ~4,472 |
-| A Notch Above the Rest | 2.00% | ~2,981 |
-| Cream of the Crop | 2.00% | ~2,981 |
-| Top of the World | 2.00% | ~2,981 |
-| Proud Paladin | 2.00% | ~2,981 |
-| Above the Norm | 2.00% | ~2,981 |
-| Constellated | 2.00% | ~2,981 |
-| A Ronin Reborn | 2.00% | ~2,981 |
-| The King's Caprice | 2.00% | ~2,981 |
-| Thirst for Knowledge | 2.00% | ~2,981 |
-| Big Game Hunting | 2.00% | ~2,981 |
-| For the Hoard! | 2.00% | ~2,981 |
-| Booty by the Boatload | 2.00% | ~2,981 |
-| Scrapbooker | 2.00% | ~2,981 |
-| Archivist | 2.00% | ~2,981 |
-| Locally Sourced | 2.00% | ~2,981 |
-| Fillin' the Bin | 2.00% | ~2,981 |
-| Flying off the Shelves | 2.00% | ~2,981 |
-| Industrial Evolution | 2.00% | ~2,981 |
-| This Power Level...! | 2.00% | ~2,981 |
-| Omae wa Mou Shindeiru | 2.00% | ~2,981 |
-| Master of Transmutation | 2.00% | ~2,981 |
-| Hidden Potential | 2.00% | ~2,981 |
-| Supercharged | 2.00% | ~2,981 |
-| Expansion in Session | 2.00% | ~2,981 |
-| Ritualist | 2.00% | ~2,981 |
-| Cranked up to 11 | 2.00% | ~2,981 |
-| Fit for a King | 2.00% | ~2,981 |
-| By Your Powers Combined... | 2.00% | ~2,981 |
-| A Legend is Born | 2.00% | ~2,981 |
-| Mammonite | 2.00% | ~2,981 |
-| Wealth Beyond Measure | 2.00% | ~2,981 |
-| Fat Cat Tag Team | 2.00% | ~2,981 |
-| Necromancer Queen | 2.00% | ~2,981 |
-| Item of Renown | 2.00% | ~2,981 |
-| Master Merchant | 2.00% | ~2,981 |
-| Miracle Alchemist | 2.00% | ~2,981 |
-| Laden with Loot | 2.00% | ~2,981 |
-| Bountiful Harvest | 2.00% | ~2,981 |
-| Seasoned Journeyman | 2.00% | ~2,981 |
-| Precision Engineering | 2.00% | ~2,981 |
-| Scourge of the Seas | 2.00% | ~2,981 |
-| Attrition Mission | 2.00% | ~2,981 |
-| Glittering Collection | 2.00% | ~2,981 |
-| Treasure Trove | 2.00% | ~2,981 |
-| Moment of Respite | 2.00% | ~2,981 |
-| Black Friday Special | 2.00% | ~2,981 |
-| King's Shadow | 2.00% | ~2,981 |
-| Master Recycler | 2.00% | ~2,981 |
-| All Accounted For | 2.00% | ~2,981 |
-| Special Ingredient | 2.00% | ~2,981 |
-| Exotic Commodities | 2.00% | ~2,981 |
-| Economy of Scarce | 2.00% | ~2,981 |
-| King's Blade | 2.00% | ~2,981 |
+| A Notch Above the Rest | 2.00% | ~2,982 |
+| Cream of the Crop | 2.00% | ~2,982 |
+| Top of the World | 2.00% | ~2,982 |
+| Proud Paladin | 2.00% | ~2,982 |
+| Above the Norm | 2.00% | ~2,982 |
+| Constellated | 2.00% | ~2,982 |
+| A Ronin Reborn | 2.00% | ~2,982 |
+| The King's Caprice | 2.00% | ~2,982 |
+| Thirst for Knowledge | 2.00% | ~2,982 |
+| Big Game Hunting | 2.00% | ~2,982 |
+| For the Hoard! | 2.00% | ~2,982 |
+| Booty by the Boatload | 2.00% | ~2,982 |
+| Scrapbooker | 2.00% | ~2,982 |
+| Archivist | 2.00% | ~2,982 |
+| Locally Sourced | 2.00% | ~2,982 |
+| Fillin' the Bin | 2.00% | ~2,982 |
+| Flying off the Shelves | 2.00% | ~2,982 |
+| Industrial Evolution | 2.00% | ~2,982 |
+| This Power Level...! | 2.00% | ~2,982 |
+| Omae wa Mou Shindeiru | 2.00% | ~2,982 |
+| Master of Transmutation | 2.00% | ~2,982 |
+| Hidden Potential | 2.00% | ~2,982 |
+| Supercharged | 2.00% | ~2,982 |
+| Expansion in Session | 2.00% | ~2,982 |
+| Ritualist | 2.00% | ~2,982 |
+| Cranked up to 11 | 2.00% | ~2,982 |
+| Fit for a King | 2.00% | ~2,982 |
+| By Your Powers Combined... | 2.00% | ~2,982 |
+| A Legend is Born | 2.00% | ~2,982 |
+| Mammonite | 2.00% | ~2,982 |
+| Wealth Beyond Measure | 2.00% | ~2,982 |
+| Fat Cat Tag Team | 2.00% | ~2,982 |
+| Necromancer Queen | 2.00% | ~2,982 |
+| Item of Renown | 2.00% | ~2,982 |
+| Master Merchant | 2.00% | ~2,982 |
+| Miracle Alchemist | 2.00% | ~2,982 |
+| Laden with Loot | 2.00% | ~2,982 |
+| Bountiful Harvest | 2.00% | ~2,982 |
+| Seasoned Journeyman | 2.00% | ~2,982 |
+| Precision Engineering | 2.00% | ~2,982 |
+| Scourge of the Seas | 2.00% | ~2,982 |
+| Attrition Mission | 2.00% | ~2,982 |
+| Glittering Collection | 2.00% | ~2,982 |
+| Treasure Trove | 2.00% | ~2,982 |
+| Moment of Respite | 2.00% | ~2,982 |
+| Black Friday Special | 2.00% | ~2,982 |
+| King's Shadow | 2.00% | ~2,982 |
+| Master Recycler | 2.00% | ~2,982 |
+| All Accounted For | 2.00% | ~2,982 |
+| Special Ingredient | 2.00% | ~2,982 |
+| Exotic Commodities | 2.00% | ~2,982 |
+| Economy of Scarce | 2.00% | ~2,982 |
+| King's Blade | 2.00% | ~2,982 |
 | The Free Encyclopedia | 1.00% | ~1,491 |
 | Thank You Tom Nook | 1.00% | ~1,491 |
 | Jackpot! | 1.00% | ~1,491 |
@@ -110,7 +110,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Bane of Legends | 0.80% | ~1,193 |
 | Anything not Nailed Down | 0.80% | ~1,193 |
 | Marvels from the World Over | 0.80% | ~1,193 |
-| Unleashed Potential | 0.70% | ~1,043 |
+| Unleashed Potential | 0.70% | ~1,044 |
 | Ultimate Collector | 0.60% | ~894 |
 | JACKPOT!!! | 0.60% | ~894 |
 | Oligarch Monarch | 0.50% | ~745 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~596 |
 | Capitalist Camaraderie | 0.20% | ~298 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 149,071 (Ranked 86)  
+Progressed: 149,077 (Ranked 86)  
 Completed: 341 (0.23%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -376,7 +376,7 @@ Completed: 341 (0.23%) (Ranked 267)
 | 2023-12-30 | 148,534 | 340 |
 | 2023-12-31 | 148,713 | 340 |
 | 2024-01-01 | 148,903 | 340 |
-| 2024-01-02 | 149,071 | 341 |
+| 2024-01-02 | 149,077 | 341 |
 ## Awards
 Max (Great for Beginners): 4,937  (Ranked 78)  
 Sum: 27,905 (Ranked 52)  

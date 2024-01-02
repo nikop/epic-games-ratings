@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 33,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-08-04T15:00:00+00:00",
     "PcReleaseDate": "2022-08-04T15:00:00+00:00",
@@ -297,7 +297,7 @@
       "Count": 48
     }
   ],
-  "EOS_Progressed": 115279,
+  "EOS_Progressed": 115313,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 8055,
   "EOS_NewCompleters": 0,
@@ -3147,6 +3147,11 @@
       "Time": "2024-01-02T22:05:22.234611+00:00",
       "NumProgressed": 115279,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T23:06:19.2205022+00:00",
+      "NumProgressed": 115313,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-10T01:55:31.023863+00:00",
@@ -3159,7 +3164,7 @@
       "Name": "Oh Baby, A Triple",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 3458
+      "UsersEstimate": 3459
     },
     {
       "ID": "ACH_5_STAGES_OF_GRIEF",
@@ -3223,7 +3228,7 @@
       "Name": "Fists, Fury \u0026 a lot of Rage",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 11528
+      "UsersEstimate": 11531
     },
     {
       "ID": "ACH_GROWNUP",
@@ -3231,7 +3236,7 @@
       "Name": "All Grown Up!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 19597
+      "UsersEstimate": 19603
     },
     {
       "ID": "ACH_JUST_GETTING_WARMED_UP",
@@ -3255,7 +3260,7 @@
       "Name": "I\u0027ve Had Enough!",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 16139
+      "UsersEstimate": 16144
     },
     {
       "ID": "ACH_LET_THEM_FIGHT",
@@ -3295,7 +3300,7 @@
       "Name": "Ninja Reflex",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 922
+      "UsersEstimate": 923
     },
     {
       "ID": "ACH_ONLINE",
@@ -3303,7 +3308,7 @@
       "Name": "This is GigaBash!",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "ACH_PIPIJURAS_STORY",
@@ -3311,7 +3316,7 @@
       "Name": "All For One and One For All",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 8070
+      "UsersEstimate": 8072
     },
     {
       "ID": "ACH_RIGHT_BACK_AT_CHA",
@@ -3327,7 +3332,7 @@
       "Name": "Seasoned Fighter",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 9222
+      "UsersEstimate": 9225
     },
     {
       "ID": "ACH_SIGNATURE_LOOK",
@@ -3367,7 +3372,7 @@
       "Name": "Symbiotic",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 3458
+      "UsersEstimate": 3459
     },
     {
       "ID": "ACH_TASTE_YOUR_OWN_MEDICINE",
@@ -3383,7 +3388,7 @@
       "Name": "A New Age",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 5764
+      "UsersEstimate": 5766
     },
     {
       "ID": "ACH_TOP_OF_THE_FOOD_CHAIN",
@@ -3423,7 +3428,7 @@
       "Name": "Home Sweet Home?",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 5764
+      "UsersEstimate": 5766
     },
     {
       "ID": "ACH_ZERO_SUM_GAME",
@@ -3431,14 +3436,14 @@
       "Name": "Zero-sum Game",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 922
+      "UsersEstimate": 923
     }
   ],
   "AchievementSets": [
     {
       "ID": "3k5ibhn",
       "IsBase": true,
-      "Progressed": 115279,
+      "Progressed": 115313,
       "Completed": 0
     }
   ],
@@ -3446,8 +3451,8 @@
   "FirstSeenRating": "2022-10-02T07:32:08.4274129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:17.2611178+00:00",
   "LastChanged": "2024-01-02T17:03:16.2726926+00:00",
-  "LastChanged_Achievements": "2024-01-02T22:05:22.2346106+00:00",
+  "LastChanged_Achievements": "2024-01-02T23:06:19.2205018+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:23.1582373+00:00",
-  "LastUpdate_Ratings": "2024-01-02T22:03:15.2232022+00:00",
-  "LastUpdate_Achievements": "2024-01-02T22:05:22.2346484+00:00"
+  "LastUpdate_Ratings": "2024-01-02T23:03:19.8476815+00:00",
+  "LastUpdate_Achievements": "2024-01-02T23:06:19.2205413+00:00"
 }

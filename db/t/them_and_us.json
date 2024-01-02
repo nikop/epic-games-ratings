@@ -4,8 +4,8 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 368,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 320,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
     "PcReleaseDate": "2021-09-28T16:00:00+00:00",
@@ -1766,9 +1766,9 @@
       "ID": "ETUA_ForcedtoKill",
       "SetID": "65jc0ap",
       "Name": "Forced to Kill",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 253
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -1999,8 +1999,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2024-01-02T22:08:51.7252165+00:00",
+  "LastChanged_Achievements": "2024-01-02T23:08:48.9907251+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:30.0285391+00:00",
-  "LastUpdate_Ratings": "2024-01-02T21:58:11.6920209+00:00",
-  "LastUpdate_Achievements": "2024-01-02T22:08:51.7252704+00:00"
+  "LastUpdate_Ratings": "2024-01-02T22:58:32.3952303+00:00",
+  "LastUpdate_Achievements": "2024-01-02T23:08:48.9907739+00:00"
 }

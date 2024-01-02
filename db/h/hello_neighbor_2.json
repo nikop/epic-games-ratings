@@ -495,7 +495,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3819,
+  "EOS_Progressed": 3820,
   "EOS_Completed": 142,
   "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 2,
@@ -6650,6 +6650,11 @@
       "Time": "2024-01-02T21:08:41.6294298+00:00",
       "NumProgressed": 3819,
       "NumCompleted": 142
+    },
+    {
+      "Time": "2024-01-02T23:08:43.6348301+00:00",
+      "NumProgressed": 3820,
+      "NumCompleted": 142
     }
   ],
   "TotalAchievements": 14,
@@ -6693,7 +6698,7 @@
       "Name": "Dog Person",
       "Percentage": 18,
       "XP": 80,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "ACH_EASY_AS_PIE",
@@ -6701,7 +6706,7 @@
       "Name": "Easy As Pie",
       "Percentage": 33,
       "XP": 55,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -6733,7 +6738,7 @@
       "Name": "Mad Scientist",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "ACH_REUNION",
@@ -6741,7 +6746,7 @@
       "Name": "Reunion",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "ACH_SHOVEL_NIGHT",
@@ -6765,14 +6770,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 79,
       "XP": 35,
-      "UsersEstimate": 3017
+      "UsersEstimate": 3018
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3819,
+      "Progressed": 3820,
       "Completed": 142
     }
   ],
@@ -6780,8 +6785,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-12-29T23:00:02.814442+00:00",
-  "LastChanged_Achievements": "2024-01-02T22:08:47.8435437+00:00",
+  "LastChanged_Achievements": "2024-01-02T23:08:43.6348297+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:02.885587+00:00",
-  "LastUpdate_Ratings": "2024-01-02T22:03:06.7850527+00:00",
-  "LastUpdate_Achievements": "2024-01-02T22:08:47.8435831+00:00"
+  "LastUpdate_Ratings": "2024-01-02T23:03:08.058785+00:00",
+  "LastUpdate_Achievements": "2024-01-02T23:08:43.6348674+00:00"
 }

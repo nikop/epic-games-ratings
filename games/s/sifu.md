@@ -1,32 +1,32 @@
 # Sifu
 [Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
-Rating: 4.82 (Ranked 68)  
+Rating: 4.82 (Ranked 69)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Old Grandmaster | 5.00% | ~37,609 |
-| The Assault | 4.00% | ~30,087 |
-| Life is your teacher | 4.00% | ~30,087 |
-| Lightning Hands | 4.00% | ~30,087 |
-| The Hateful Pole Fighter | 2.00% | ~15,043 |
-| A Lady's Blood in the Snow | 2.00% | ~15,043 |
-| Kill Nil | 2.00% | ~15,043 |
-| Stuntmaster | 2.00% | ~15,043 |
-| Street Fighting | 2.00% | ~15,043 |
-| State of constant learning | 2.00% | ~15,043 |
-| Qi Gong: Breath | 2.00% | ~15,043 |
-| Qi Gong: Essence | 2.00% | ~15,043 |
-| Old Child | 2.00% | ~15,043 |
-| Path of the Prospect | 2.00% | ~15,043 |
-| Rumble in the Hangar | 2.00% | ~15,043 |
-| Diligence as a goal | 2.00% | ~1,229 |
+| The Assault | 4.00% | ~30,088 |
+| Life is your teacher | 4.00% | ~30,088 |
+| Lightning Hands | 4.00% | ~30,088 |
+| The Hateful Pole Fighter | 2.00% | ~15,044 |
+| A Lady's Blood in the Snow | 2.00% | ~15,044 |
+| Kill Nil | 2.00% | ~15,044 |
+| Stuntmaster | 2.00% | ~15,044 |
+| Street Fighting | 2.00% | ~15,044 |
+| State of constant learning | 2.00% | ~15,044 |
+| Qi Gong: Breath | 2.00% | ~15,044 |
+| Qi Gong: Essence | 2.00% | ~15,044 |
+| I know Kung-Fu | 2.00% | ~15,044 |
+| Old Child | 2.00% | ~15,044 |
+| Path of the Prospect | 2.00% | ~15,044 |
+| Rumble in the Hangar | 2.00% | ~15,044 |
+| Diligence as a goal | 2.00% | ~1,230 |
 | Lady Wing Chun | 1.00% | ~7,522 |
 | Furious Fists | 1.00% | ~7,522 |
 | Scareless | 1.00% | ~7,522 |
 | Qi Gong: Mind | 1.00% | ~7,522 |
-| I know Kung-Fu | 1.00% | ~7,522 |
 | Kung-Fu Tussle | 1.00% | ~7,522 |
 | Take damage to save time | 1.00% | ~7,522 |
 | Project Arena | 1.00% | ~615 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~61 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 752,172 (Ranked 24)  
+Progressed: 752,188 (Ranked 24)  
 Completed: 12,971 (1.72%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 12,971 (1.72%) (Ranked 141)
 | 2023-12-30 | 749,350 | 12,969 |
 | 2023-12-31 | 750,399 | 12,971 |
 | 2024-01-01 | 751,425 | 12,971 |
-| 2024-01-02 | 752,172 | 12,971 |
+| 2024-01-02 | 752,188 | 12,971 |
 ## Awards
 Max (Great Boss Battles): 7,079  (Ranked 55)  
 Sum: 11,978 (Ranked 87)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -2187,9 +2187,9 @@
       "ID": "ach_main02horde_completed",
       "SetID": "4hg22ll",
       "Name": "Hammer Time, Round Two",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 561
+      "UsersEstimate": 568
     },
     {
       "ID": "ach_main02horde_creatures",
@@ -2660,8 +2660,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-01T22:59:34.2453487+00:00",
-  "LastChanged_Achievements": "2024-01-02T22:09:18.0335828+00:00",
+  "LastChanged_Achievements": "2024-01-02T23:09:24.7270808+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:16.0613697+00:00",
-  "LastUpdate_Ratings": "2024-01-02T21:59:19.9273012+00:00",
-  "LastUpdate_Achievements": "2024-01-02T22:09:18.0336331+00:00"
+  "LastUpdate_Ratings": "2024-01-02T23:00:12.2974699+00:00",
+  "LastUpdate_Achievements": "2024-01-02T23:09:24.7271339+00:00"
 }

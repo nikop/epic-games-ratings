@@ -1,23 +1,23 @@
 # ELEX II
 [Store](https://store.epicgames.com/en-US/p/elex-ii)  
 [View Rawdata](../../db/e/elex_ii.json)  
-Rating: 4.29 (Ranked 877)  
+Rating: 4.29 (Ranked 876)  
 Number of Ratings: 124  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 39.00% | ~64 |
+| Entrepreneur | 38.00% | ~63 |
 | Best Buddy | 30.00% | ~50 |
 | Civilian | 29.00% | ~48 |
 | Role Model | 24.00% | ~40 |
 | Festival-goer | 21.00% | ~35 |
 | Peddler | 20.00% | ~33 |
-| Military Leader | 19.00% | ~31 |
-| Creator | 19.00% | ~31 |
+| Military Leader | 19.00% | ~32 |
+| Creator | 19.00% | ~32 |
 | Commander | 17.00% | ~28 |
-| Long-Haul Flyer | 13.00% | ~21 |
-| Irissa's Fate | 13.00% | ~21 |
-| Pass A38 | 13.00% | ~21 |
+| Long-Haul Flyer | 13.00% | ~22 |
+| Irissa's Fate | 13.00% | ~22 |
+| Pass A38 | 13.00% | ~22 |
 | Berserker | 9.00% | ~15 |
 | Family Reunion | 9.00% | ~15 |
 | Storyteller | 8.00% | ~13 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Enforcer | 0.00% | ~0 |
 | Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 165 (Ranked 439)  
+Progressed: 167 (Ranked 438)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-30 | 141 | 0 |
 | 2023-12-31 | 154 | 0 |
 | 2024-01-01 | 162 | 0 |
-| 2024-01-02 | 165 | 0 |
+| 2024-01-02 | 167 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

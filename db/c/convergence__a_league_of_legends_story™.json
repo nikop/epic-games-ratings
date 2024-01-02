@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -51,7 +51,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1200,
+  "EOS_Progressed": 1201,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
@@ -3486,6 +3486,11 @@
       "Time": "2024-01-02T20:09:53.3302972+00:00",
       "NumProgressed": 1200,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-02T23:10:50.5875228+00:00",
+      "NumProgressed": 1201,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3519,9 +3524,9 @@
       "ID": "ChestCompletion1",
       "SetID": "a9e499d",
       "Name": "Treasure Trove",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 75,
-      "UsersEstimate": 156
+      "UsersEstimate": 144
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -3559,9 +3564,9 @@
       "ID": "CosmeticCompletion1",
       "SetID": "a9e499d",
       "Name": "Sartorialist",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 96
+      "UsersEstimate": 84
     },
     {
       "ID": "CosmeticProgress1",
@@ -3703,9 +3708,9 @@
       "ID": "NoCritterSump",
       "SetID": "a9e499d",
       "Name": "Wildlife Protection",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "NoDeathRun",
@@ -3879,9 +3884,9 @@
       "ID": "WarwickDefeated",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 300
+      "UsersEstimate": 288
     },
     {
       "ID": "WatcherFought",
@@ -3920,7 +3925,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1200,
+      "Progressed": 1201,
       "Completed": 6
     }
   ],
@@ -3928,8 +3933,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2024-01-02T22:10:20.8970406+00:00",
+  "LastChanged_Achievements": "2024-01-02T23:10:50.5875225+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:23.9308133+00:00",
-  "LastUpdate_Ratings": "2024-01-02T22:03:05.5237025+00:00",
-  "LastUpdate_Achievements": "2024-01-02T22:10:20.8971162+00:00"
+  "LastUpdate_Ratings": "2024-01-02T23:03:06.1447565+00:00",
+  "LastUpdate_Achievements": "2024-01-02T23:10:50.5875701+00:00"
 }

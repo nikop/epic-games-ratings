@@ -6,19 +6,19 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 27.00% | ~3,503 |
+| Devoured by Darkness | 27.00% | ~3,504 |
 | Burning City | 19.00% | ~2,465 |
 | A Spark | 19.00% | ~2,465 |
 | Defender's Heart | 16.00% | ~2,076 |
 | Mythic Choices | 15.00% | ~1,946 |
-| Banner over the Citadel | 14.00% | ~1,816 |
+| Banner over the Citadel | 14.00% | ~1,817 |
 | Queen's Gratitude | 12.00% | ~1,557 |
 | Fifth Crusade | 9.00% | ~1,168 |
 | Embrace of the Abyss | 7.00% | ~908 |
 | Path of the Angel | 7.00% | ~908 |
 | Demonic and Divine | 7.00% | ~908 |
-| Great Upstart | 6.00% | ~778 |
-| All Paths Open | 6.00% | ~778 |
+| Great Upstart | 6.00% | ~779 |
+| All Paths Open | 6.00% | ~779 |
 | Path of the Azata | 5.00% | ~649 |
 | Transformation | 5.00% | ~649 |
 | The Legacy | 5.00% | ~649 |
@@ -38,11 +38,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | Sarkoris Will Be Green | 3.00% | ~353 |
 | The Lady of the Forest | 3.00% | ~353 |
 | Beware Still Water | 3.00% | ~353 |
-| Path of the Demon | 2.00% | ~259 |
-| Path of the Aeon | 2.00% | ~259 |
-| Capitulation Is Now Moot | 2.00% | ~259 |
-| Your First Big Enemy | 2.00% | ~259 |
-| Truly Important Deed | 2.00% | ~259 |
+| Path of the Demon | 2.00% | ~260 |
+| Path of the Aeon | 2.00% | ~260 |
+| Capitulation Is Now Moot | 2.00% | ~260 |
+| Your First Big Enemy | 2.00% | ~260 |
+| Truly Important Deed | 2.00% | ~260 |
 | Stay Underground | 2.00% | ~235 |
 | The Final Threshold | 1.00% | ~130 |
 | Path of the Dragon | 1.00% | ~130 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,974 (Ranked 175)  
+Progressed: 12,976 (Ranked 175)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -380,10 +380,10 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-30 | 12,899 | 0 |
 | 2023-12-31 | 12,923 | 0 |
 | 2024-01-01 | 12,955 | 0 |
-| 2024-01-02 | 12,974 | 0 |
+| 2024-01-02 | 12,976 | 0 |
 ## Awards
 Max (Character Customization): 1,776  (Ranked 127)  
-Sum: 7,185 (Ranked 126)  
+Sum: 7,186 (Ranked 126)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
@@ -391,7 +391,7 @@ Diff (max vs sum): 1
 | This game is Extremely Fun | 663 |
 | This game is Highly Recommended | 656 |
 | This game has Diverse Characters | 653 |
-| This game has Amazing Characters | 650 |
+| This game has Amazing Characters | 651 |
 | This game has Amazing Storytelling | 631 |
 | This game has Challenging Combat | 599 |
 | This game has Quickly Understood Controls | 587 |
@@ -709,4 +709,4 @@ Diff (max vs sum): 1
 | 2023-12-30 | 4.76 | - | 1,774 | 7,179 |
 | 2023-12-31 | 4.76 | - | 1,775 | 7,182 |
 | 2024-01-01 | 4.76 | - | 1,775 | 7,183 |
-| 2024-01-02 | 4.76 | - | 1,776 | 7,185 |
+| 2024-01-02 | 4.76 | - | 1,776 | 7,186 |

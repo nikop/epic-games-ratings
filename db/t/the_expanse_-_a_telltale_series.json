@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18076,
+  "EOS_Progressed": 18077,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 569,
+  "EOS_NewPlayers": 564,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -16070,6 +16070,11 @@
       "Time": "2024-01-02T22:04:28.3488253+00:00",
       "NumProgressed": 18076,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-02T23:05:04.9262011+00:00",
+      "NumProgressed": 18077,
+      "NumCompleted": 58
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16096,9 +16101,9 @@
       "ID": "11",
       "SetID": "458bbdk",
       "Name": "The Pit and the Pirates",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1988
+      "UsersEstimate": 2169
     },
     {
       "ID": "12",
@@ -16361,13 +16366,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18076,
+      "Progressed": 18077,
       "Completed": 58
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4030,
+      "Progressed": 4031,
       "Completed": 1160
     }
   ],
@@ -16375,8 +16380,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T23:58:17.8612142+00:00",
-  "LastChanged_Achievements": "2024-01-02T22:04:28.348825+00:00",
+  "LastChanged_Achievements": "2024-01-02T23:05:04.9262006+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2024-01-02T21:59:22.8735911+00:00",
-  "LastUpdate_Achievements": "2024-01-02T22:04:28.3489187+00:00"
+  "LastUpdate_Ratings": "2024-01-02T23:00:16.7014417+00:00",
+  "LastUpdate_Achievements": "2024-01-02T23:05:04.9263015+00:00"
 }

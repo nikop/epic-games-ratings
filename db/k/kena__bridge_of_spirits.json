@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
     "PcReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1505,7 +1505,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 430092,
+  "EOS_Progressed": 430093,
   "EOS_Completed": 555,
   "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 1,
@@ -18545,6 +18545,11 @@
       "Time": "2024-01-02T22:05:43.4870759+00:00",
       "NumProgressed": 430092,
       "NumCompleted": 555
+    },
+    {
+      "Time": "2024-01-02T23:06:48.3449001+00:00",
+      "NumProgressed": 430093,
+      "NumCompleted": 555
     }
   ],
   "TotalAchievements": 41,
@@ -18572,7 +18577,7 @@
       "Name": "Hunter in the Forest",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 258055
+      "UsersEstimate": 258056
     },
     {
       "ID": "ACH_ABILITY_DASH",
@@ -18636,7 +18641,7 @@
       "Name": "Rot Commander",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 258055
+      "UsersEstimate": 258056
     },
     {
       "ID": "ACH_CHALLENGE_CRIT",
@@ -18692,7 +18697,7 @@
       "Name": "Between the Eyes",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 202143
+      "UsersEstimate": 202144
     },
     {
       "ID": "ACH_CHESTS_ALL",
@@ -18700,7 +18705,7 @@
       "Name": "Curse Collector",
       "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 30106
+      "UsersEstimate": 30107
     },
     {
       "ID": "ACH_DIFFICULTY_MASTER",
@@ -18724,7 +18729,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 408587
+      "UsersEstimate": 408588
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -18740,7 +18745,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 309666
+      "UsersEstimate": 309667
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -18756,7 +18761,7 @@
       "Name": "Into the Woods",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 301064
+      "UsersEstimate": 301065
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -18780,7 +18785,7 @@
       "Name": "The Last Stop",
       "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 30106
+      "UsersEstimate": 30107
     },
     {
       "ID": "ACH_MEDITATION_ALL",
@@ -18804,7 +18809,7 @@
       "Name": "Taro\u0027s Love",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 197842
+      "UsersEstimate": 197843
     },
     {
       "ID": "ACH_RELIC_HAMMER",
@@ -18812,7 +18817,7 @@
       "Name": "Adira\u0027s Fear",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 141930
+      "UsersEstimate": 141931
     },
     {
       "ID": "ACH_RELIC_HARPOON",
@@ -18844,7 +18849,7 @@
       "Name": "Taro\u0027s Regret",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 189240
+      "UsersEstimate": 189241
     },
     {
       "ID": "ACH_RELIC_OX",
@@ -18852,7 +18857,7 @@
       "Name": "Adira\u0027s Love",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 146231
+      "UsersEstimate": 146232
     },
     {
       "ID": "ACH_RELIC_VILLAGE_CREST",
@@ -18883,15 +18888,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 430092,
+      "Progressed": 430093,
       "Completed": 555
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2024-01-02T04:57:27.7589769+00:00",
-  "LastChanged_Achievements": "2024-01-02T22:05:43.4870756+00:00",
+  "LastChanged_Achievements": "2024-01-02T23:06:48.3448997+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:06.4551903+00:00",
-  "LastUpdate_Ratings": "2024-01-02T21:58:03.4496886+00:00",
-  "LastUpdate_Achievements": "2024-01-02T22:05:43.4871847+00:00"
+  "LastUpdate_Ratings": "2024-01-02T22:58:20.3378734+00:00",
+  "LastUpdate_Achievements": "2024-01-02T23:06:48.3449852+00:00"
 }

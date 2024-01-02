@@ -23,9 +23,9 @@ Rating: 4.70 (Ranked 215)
 | Liberator | 0.10% | ~9 |
 | Live Wire | 0.10% | ~9 |
 | Snip Snip | 0.10% | ~9 |
+| Thing | 0.10% | ~9 |
 | Arrr! | 0.00% | ~0 |
 | Ça de Wizz! | 0.00% | ~0 |
-| Thing | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 8,661 (Ranked 186)  
 Completed: 34 (0.39%) (Ranked 235)  

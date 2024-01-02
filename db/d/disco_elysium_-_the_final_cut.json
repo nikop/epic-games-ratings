@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1646,9 +1646,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 137050,
+  "EOS_Progressed": 137052,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 1401,
+  "EOS_NewPlayers": 1397,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -27101,6 +27101,11 @@
       "Time": "2024-01-02T22:08:43.3034869+00:00",
       "NumProgressed": 137050,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2024-01-02T23:08:37.4196838+00:00",
+      "NumProgressed": 137052,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -27160,7 +27165,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 12334
+      "UsersEstimate": 12335
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -27184,7 +27189,7 @@
       "Name": "Massive Torque Dork",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1370
+      "UsersEstimate": 1371
     },
     {
       "ID": "ACH_COP_GOOD",
@@ -27192,7 +27197,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 38374
+      "UsersEstimate": 38375
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -27240,7 +27245,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 17816
+      "UsersEstimate": 17817
     },
     {
       "ID": "ACH_COP_STAR",
@@ -27272,7 +27277,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 12334
+      "UsersEstimate": 12335
     },
     {
       "ID": "ACH_GLUTEN",
@@ -27320,7 +27325,7 @@
       "Name": "Avowed Inframaterialist",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1370
+      "UsersEstimate": 1371
     },
     {
       "ID": "ACH_KIM",
@@ -27431,15 +27436,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 137050,
+      "Progressed": 137052,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2024-01-01T19:59:14.1592304+00:00",
-  "LastChanged_Achievements": "2024-01-02T22:08:43.3034867+00:00",
+  "LastChanged_Achievements": "2024-01-02T23:08:37.4196833+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:48.6922273+00:00",
-  "LastUpdate_Ratings": "2024-01-02T21:59:00.8336464+00:00",
-  "LastUpdate_Achievements": "2024-01-02T22:08:43.3036427+00:00"
+  "LastUpdate_Ratings": "2024-01-02T22:59:42.9037209+00:00",
+  "LastUpdate_Achievements": "2024-01-02T23:08:37.4198461+00:00"
 }

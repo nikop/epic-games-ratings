@@ -4,8 +4,8 @@
   "ProductSlug": "dark-table-ccg-abe8b6",
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-18T02:00:00+00:00",
     "PcReleaseDate": "2023-11-18T02:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 588,
+  "EOS_Progressed": 591,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1954,6 +1954,11 @@
       "Time": "2024-01-02T22:10:04.7253586+00:00",
       "NumProgressed": 588,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T23:10:29.4542736+00:00",
+      "NumProgressed": 591,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-03T19:09:22.7139112+00:00",
@@ -2070,7 +2075,7 @@
       "Name": "First Login",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 588
+      "UsersEstimate": 591
     },
     {
       "ID": "Losses_100",
@@ -2100,9 +2105,9 @@
       "ID": "Wins_10",
       "SetID": "2bonhb9",
       "Name": "10 Wins",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Wins_100",
@@ -2181,14 +2186,14 @@
     {
       "ID": "2bonhb9",
       "IsBase": true,
-      "Progressed": 588,
+      "Progressed": 591,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-18T15:00:14.9921948+00:00",
   "FirstSeenAchievements": "2023-08-03T14:01:50.784469+00:00",
-  "LastChanged_Achievements": "2024-01-02T22:10:04.7253583+00:00",
+  "LastChanged_Achievements": "2024-01-02T23:10:29.4542731+00:00",
   "LastUpdate_AppInfo": "2023-12-29T02:57:13.2550009+00:00",
-  "LastUpdate_Ratings": "2024-01-02T21:58:13.2976643+00:00",
-  "LastUpdate_Achievements": "2024-01-02T22:10:04.7253842+00:00"
+  "LastUpdate_Ratings": "2024-01-02T22:58:34.6480801+00:00",
+  "LastUpdate_Achievements": "2024-01-02T23:10:29.4543029+00:00"
 }

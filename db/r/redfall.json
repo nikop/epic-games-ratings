@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -351,9 +351,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2225,
+  "EOS_Progressed": 2228,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3886,6 +3886,11 @@
       "Time": "2024-01-02T21:06:22.9193679+00:00",
       "NumProgressed": 2225,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T23:07:31.9486814+00:00",
+      "NumProgressed": 2228,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3905,7 +3910,7 @@
       "Name": "Revelations",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Achievement_003",
@@ -3913,7 +3918,7 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "Achievement_004",
@@ -3929,7 +3934,7 @@
       "Name": "Contingency Plans",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Achievement_007",
@@ -3945,7 +3950,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "Achievement_009",
@@ -3953,7 +3958,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "Achievement_010",
@@ -3969,7 +3974,7 @@
       "Name": "Block Party",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Achievement_012",
@@ -4033,7 +4038,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "Achievement_020",
@@ -4041,7 +4046,7 @@
       "Name": "Sic Transit Umbra",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Achievement_021",
@@ -4057,7 +4062,7 @@
       "Name": "Bell-ringer",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Achievement_023",
@@ -4065,7 +4070,7 @@
       "Name": "Silence Is Golden",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Achievement_024",
@@ -4073,7 +4078,7 @@
       "Name": "Good Morning",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Achievement_025",
@@ -4089,7 +4094,7 @@
       "Name": "Fly Fisher",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "Achievement_027",
@@ -4097,7 +4102,7 @@
       "Name": "Peek-a-boo",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "Achievement_028",
@@ -4129,7 +4134,7 @@
       "Name": "Sucks To Be You",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "Achievement_032",
@@ -4161,7 +4166,7 @@
       "Name": "From the Shadows",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Achievement_036",
@@ -4193,7 +4198,7 @@
       "Name": "Check, Please!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Achievement_040",
@@ -4217,7 +4222,7 @@
       "Name": "Starve the Beast",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Achievement_044",
@@ -4289,7 +4294,7 @@
       "Name": "Harvest\u2019s End",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Achievement_055",
@@ -4424,7 +4429,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2225,
+      "Progressed": 2228,
       "Completed": 0
     }
   ],
@@ -4432,8 +4437,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-01T12:00:40.1847166+00:00",
-  "LastChanged_Achievements": "2024-01-02T22:06:15.0366018+00:00",
+  "LastChanged_Achievements": "2024-01-02T23:07:31.948681+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.8280502+00:00",
-  "LastUpdate_Ratings": "2024-01-02T22:00:31.7211547+00:00",
-  "LastUpdate_Achievements": "2024-01-02T22:06:15.0367008+00:00"
+  "LastUpdate_Ratings": "2024-01-02T23:02:33.6256435+00:00",
+  "LastUpdate_Achievements": "2024-01-02T23:07:31.9487688+00:00"
 }

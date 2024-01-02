@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 317,
   "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 1222,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3264,9 +3264,9 @@
       "ID": "CompleteChapter8",
       "SetID": "52ail55",
       "Name": "Troggoff Troubles",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 196
     },
     {
       "ID": "CompleteChapter9",
@@ -3375,8 +3375,8 @@
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2024-01-02T22:08:46.4623852+00:00",
+  "LastChanged_Achievements": "2024-01-02T23:08:41.8037747+00:00",
   "LastUpdate_AppInfo": "2023-12-29T09:57:13.5043463+00:00",
-  "LastUpdate_Ratings": "2024-01-02T21:59:28.0833768+00:00",
-  "LastUpdate_Achievements": "2024-01-02T22:08:46.4624295+00:00"
+  "LastUpdate_Ratings": "2024-01-02T23:00:24.9323424+00:00",
+  "LastUpdate_Achievements": "2024-01-02T23:08:41.8038089+00:00"
 }

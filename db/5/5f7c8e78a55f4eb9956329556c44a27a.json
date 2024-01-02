@@ -4,8 +4,8 @@
   "ProductSlug": "there-is-no-game-wrong-dimension-d2782b",
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 368,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
     "PcReleaseDate": "2020-08-06T17:00:00+00:00",
@@ -1158,9 +1158,9 @@
       "ID": "TINGWD_OUTBOX",
       "SetID": "c0imaa6",
       "Name": "Outside the box",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "TINGWD_PERPETUITY",
@@ -1253,8 +1253,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2024-01-02T22:04:20.586476+00:00",
+  "LastChanged_Achievements": "2024-01-02T23:04:54.1788043+00:00",
   "LastUpdate_AppInfo": "2024-01-01T22:57:08.3171345+00:00",
-  "LastUpdate_Ratings": "2024-01-02T22:00:12.4693869+00:00",
-  "LastUpdate_Achievements": "2024-01-02T22:04:20.5865061+00:00"
+  "LastUpdate_Ratings": "2024-01-02T23:01:28.3268187+00:00",
+  "LastUpdate_Achievements": "2024-01-02T23:04:54.1788286+00:00"
 }

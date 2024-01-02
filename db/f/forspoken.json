@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 367,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -571,9 +571,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 46148,
+  "EOS_Progressed": 46154,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 828,
+  "EOS_NewPlayers": 825,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17406,6 +17406,11 @@
       "Time": "2024-01-02T22:05:38.4041323+00:00",
       "NumProgressed": 46148,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-02T23:06:41.2572399+00:00",
+      "NumProgressed": 46154,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -17433,7 +17438,7 @@
       "Name": "Outdoorsperson",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1384
+      "UsersEstimate": 1385
     },
     {
       "ID": "CHALLENGE_ALL",
@@ -17449,7 +17454,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2307
+      "UsersEstimate": 2308
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -17473,7 +17478,7 @@
       "Name": "Stuck",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2307
+      "UsersEstimate": 2308
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -17513,7 +17518,7 @@
       "Name": "The Hue of Blue",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "CHAPTER_08_CLEAR",
@@ -17521,7 +17526,7 @@
       "Name": "The Truth Will Out",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "CHAPTER_09_CLEAR",
@@ -17529,7 +17534,7 @@
       "Name": "Breaking Point",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "CHAPTER_10_CLEAR",
@@ -17537,7 +17542,7 @@
       "Name": "None the Wiser",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "CHAPTER_11_CLEAR",
@@ -17545,7 +17550,7 @@
       "Name": "Forspoken",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "CHAPTER_12_CLEAR",
@@ -17593,7 +17598,7 @@
       "Name": "Hop, Step, Jump",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1384
+      "UsersEstimate": 1385
     },
     {
       "ID": "JUSTCOUNTER",
@@ -17609,7 +17614,7 @@
       "Name": "Leapfrogger",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3230
+      "UsersEstimate": 3231
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -17657,7 +17662,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3230
+      "UsersEstimate": 3231
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -17673,7 +17678,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2307
+      "UsersEstimate": 2308
     },
     {
       "ID": "MAGIC_IVY",
@@ -17705,7 +17710,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3230
+      "UsersEstimate": 3231
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -17713,7 +17718,7 @@
       "Name": "Pilgrimage: Novice",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "PARKOUR_DISTANCE",
@@ -17721,7 +17726,7 @@
       "Name": "Endless Runner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1384
+      "UsersEstimate": 1385
     },
     {
       "ID": "PARKOUR_TIME",
@@ -17729,7 +17734,7 @@
       "Name": "Hell of a Run",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3230
+      "UsersEstimate": 3231
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -17753,7 +17758,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5076
+      "UsersEstimate": 5077
     },
     {
       "ID": "SPRING_ALL",
@@ -17769,7 +17774,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3230
+      "UsersEstimate": 3231
     },
     {
       "ID": "STAYING_AIR",
@@ -17840,22 +17845,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 46148,
+      "Progressed": 46154,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 10985,
-      "Completed": 10985
+      "Progressed": 10991,
+      "Completed": 10991
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-02T14:03:32.6481765+00:00",
-  "LastChanged_Achievements": "2024-01-02T22:05:38.4041322+00:00",
+  "LastChanged_Achievements": "2024-01-02T23:06:41.2572396+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:48.1998363+00:00",
-  "LastUpdate_Ratings": "2024-01-02T22:03:08.0035724+00:00",
-  "LastUpdate_Achievements": "2024-01-02T22:05:38.4042195+00:00"
+  "LastUpdate_Ratings": "2024-01-02T23:03:09.8307931+00:00",
+  "LastUpdate_Achievements": "2024-01-02T23:06:41.2573489+00:00"
 }

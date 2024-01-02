@@ -2,13 +2,13 @@
   "ID": "fa702d34a37248ba98fb17f680c085e3",
   "Name": "Fallout 3: Game of the Year Edition",
   "ProductSlug": "fallout-3-game-of-the-year-edition",
-  "Ranking_Rating": 426,
+  "Ranking_Rating": 445,
   "Ranking_Popularity": 28,
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-10-20T17:50:00+00:00",
     "PcReleaseDate": "2009-10-13T13:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.59,
   "RatingHistory": [
     {
       "Time": "2022-10-21T00:33:04.5526799+00:00",
@@ -6755,10 +6755,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 29760,
       "NumberOfAwardsMax": 14469
+    },
+    {
+      "Time": "2024-01-02T23:01:37.2160598+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 29765,
+      "NumberOfAwardsMax": 14469
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29760,
+  "NumberOfAwards": 29765,
   "NumberOfAwardsMax": 14469,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6832,7 +6838,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1703
+      "Count": 1708
     }
   ],
   "EOS_Progressed": 0,
@@ -6847,8 +6853,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-20T18:02:29.378678+00:00",
   "FirstSeenRating": "2022-10-21T00:33:04.5526796+00:00",
-  "LastChanged": "2024-01-02T15:59:58.942227+00:00",
+  "LastChanged": "2024-01-02T23:01:37.2160597+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:31.7164037+00:00",
-  "LastUpdate_Ratings": "2024-01-02T22:00:19.0431578+00:00",
-  "LastUpdate_Achievements": "2024-01-02T22:05:02.505724+00:00"
+  "LastUpdate_Ratings": "2024-01-02T23:01:37.2160602+00:00",
+  "LastUpdate_Achievements": "2024-01-02T23:05:51.8466142+00:00"
 }

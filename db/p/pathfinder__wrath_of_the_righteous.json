@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 126,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4719,10 +4719,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7185,
       "NumberOfAwardsMax": 1776
+    },
+    {
+      "Time": "2024-01-02T22:57:00.0776568+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7186,
+      "NumberOfAwardsMax": 1776
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7185,
+  "NumberOfAwards": 7186,
   "NumberOfAwardsMax": 1776,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4748,7 +4754,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 650
+      "Count": 651
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4793,9 +4799,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12974,
+  "EOS_Progressed": 12976,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18753,6 +18759,11 @@
       "Time": "2024-01-02T22:10:24.898276+00:00",
       "NumProgressed": 12974,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T23:10:55.3554832+00:00",
+      "NumProgressed": 12976,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -18764,7 +18775,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3503
+      "UsersEstimate": 3504
     },
     {
       "ID": "02_BurningCity",
@@ -18780,7 +18791,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1816
+      "UsersEstimate": 1817
     },
     {
       "ID": "04_FithCrusade",
@@ -18828,7 +18839,7 @@
       "Name": "Path of the Demon",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "10_PathOfAzata",
@@ -18844,7 +18855,7 @@
       "Name": "Path of the Aeon",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "12_PathOfTrickster",
@@ -18972,7 +18983,7 @@
       "Name": "Great Upstart",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "29_StrategicVictory",
@@ -19020,7 +19031,7 @@
       "Name": "Capitulation Is Now Moot",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "35_AbyssalConspiracy",
@@ -19044,7 +19055,7 @@
       "Name": "Your First Big Enemy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "38_PrelatesNemesis",
@@ -19116,7 +19127,7 @@
       "Name": "All Paths Open",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -19164,7 +19175,7 @@
       "Name": "Truly Important Deed",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "53_TrulyProfaneGift",
@@ -19691,21 +19702,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11756,
+      "Progressed": 11758,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12974,
+      "Progressed": 12976,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2024-01-02T16:02:25.9365666+00:00",
-  "LastChanged_Achievements": "2024-01-02T22:10:24.8982758+00:00",
+  "LastChanged": "2024-01-02T22:57:00.0776566+00:00",
+  "LastChanged_Achievements": "2024-01-02T23:10:55.3554827+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:46.0860245+00:00",
-  "LastUpdate_Ratings": "2024-01-02T21:57:08.040389+00:00",
-  "LastUpdate_Achievements": "2024-01-02T22:10:24.8984586+00:00"
+  "LastUpdate_Ratings": "2024-01-02T22:57:00.0776572+00:00",
+  "LastUpdate_Achievements": "2024-01-02T23:10:55.3556657+00:00"
 }

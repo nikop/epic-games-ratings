@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 48,
+  "Ranking_EOS_NewPlayers": 47,
   "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9289,9 +9289,9 @@
       "Count": 3622
     }
   ],
-  "EOS_Progressed": 249999,
+  "EOS_Progressed": 250032,
   "EOS_Completed": 2585,
-  "EOS_NewPlayers": 4980,
+  "EOS_NewPlayers": 5001,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -38429,6 +38429,11 @@
       "Time": "2024-01-02T22:10:28.2898415+00:00",
       "NumProgressed": 249999,
       "NumCompleted": 2585
+    },
+    {
+      "Time": "2024-01-02T23:10:59.0239191+00:00",
+      "NumProgressed": 250032,
+      "NumCompleted": 2585
     }
   ],
   "TotalAchievements": 546,
@@ -38440,7 +38445,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7500
+      "UsersEstimate": 7501
     },
     {
       "ID": "objective_completed_10",
@@ -42760,7 +42765,7 @@
       "Name": "The Overgrown Grove",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "objective_completed_673",
@@ -42784,7 +42789,7 @@
       "Name": "Mental Gymnastics",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "objective_completed_860",
@@ -42807,21 +42812,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 216273,
+      "Progressed": 216306,
       "Completed": 4128
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 249999,
+      "Progressed": 250032,
       "Completed": 2585
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-02T20:58:24.5866544+00:00",
-  "LastChanged_Achievements": "2024-01-02T22:10:28.2898413+00:00",
+  "LastChanged_Achievements": "2024-01-02T23:10:59.0239186+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-02T21:58:20.4369821+00:00",
-  "LastUpdate_Achievements": "2024-01-02T22:10:28.2922815+00:00"
+  "LastUpdate_Ratings": "2024-01-02T22:58:44.3214261+00:00",
+  "LastUpdate_Achievements": "2024-01-02T23:10:59.0263431+00:00"
 }

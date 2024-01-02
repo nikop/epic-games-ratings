@@ -2,10 +2,10 @@
   "ID": "aa192fc2c63f4db5b9faf193acc807e1",
   "Name": "Creepy Tale",
   "ProductSlug": "creepy-tale-058ebd",
-  "Ranking_EOS_Progress": 414,
-  "Ranking_EOS_Completed": 85,
+  "Ranking_EOS_Progress": 413,
+  "Ranking_EOS_Completed": 87,
   "Ranking_EOS_NewPlayers": 274,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2021-02-21T17:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 235,
+  "EOS_Progressed": 236,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.26,
+  "EOS_Completed_Percentage": 4.24,
   "EosHistory": [
     {
       "Time": "2023-10-22T10:08:20.3379882+00:00",
@@ -1039,6 +1039,11 @@
       "Time": "2024-01-02T21:10:13.5245187+00:00",
       "NumProgressed": 235,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-02T23:10:39.7888615+00:00",
+      "NumProgressed": 236,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-10-22T10:08:20.3379913+00:00",
@@ -1067,7 +1072,7 @@
       "Name": "Alchemist",
       "Percentage": 58,
       "XP": 75,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "creepytaleach12",
@@ -1115,7 +1120,7 @@
       "Name": "Incorrigible researcher",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "creepytaleach6",
@@ -1137,9 +1142,9 @@
       "ID": "creepytaleach8",
       "SetID": "bnif31p",
       "Name": "Fake tune",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 108
+      "UsersEstimate": 106
     },
     {
       "ID": "creepytaleach9",
@@ -1154,14 +1159,14 @@
     {
       "ID": "bnif31p",
       "IsBase": true,
-      "Progressed": 235,
+      "Progressed": 236,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2024-01-02T22:10:12.5307829+00:00",
+  "LastChanged_Achievements": "2024-01-02T23:10:39.7888611+00:00",
   "LastUpdate_AppInfo": "2023-12-27T07:56:54.2023855+00:00",
-  "LastUpdate_Ratings": "2024-01-02T21:59:39.1785598+00:00",
-  "LastUpdate_Achievements": "2024-01-02T22:10:12.5308002+00:00"
+  "LastUpdate_Ratings": "2024-01-02T23:00:41.7786896+00:00",
+  "LastUpdate_Achievements": "2024-01-02T23:10:39.7888748+00:00"
 }

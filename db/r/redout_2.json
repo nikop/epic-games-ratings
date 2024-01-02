@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 431,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 416,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1198,
+  "EOS_Progressed": 1199,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1265,6 +1265,11 @@
       "Time": "2024-01-01T04:05:07.5911702+00:00",
       "NumProgressed": 1198,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-02T23:06:06.5005722+00:00",
+      "NumProgressed": 1199,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -1404,7 +1409,7 @@
       "Name": "Rookie No More",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "CAREERADVANCED",
@@ -1588,7 +1593,7 @@
       "Name": "Increasing your Power Level",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "ONEPAINT",
@@ -1691,7 +1696,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1198,
+      "Progressed": 1199,
       "Completed": 0
     }
   ],
@@ -1699,8 +1704,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-12-19T23:02:44.1554509+00:00",
-  "LastChanged_Achievements": "2024-01-02T22:05:13.0459218+00:00",
+  "LastChanged_Achievements": "2024-01-02T23:06:06.5005718+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:29.4677395+00:00",
-  "LastUpdate_Ratings": "2024-01-02T22:03:23.4971081+00:00",
-  "LastUpdate_Achievements": "2024-01-02T22:05:13.0459746+00:00"
+  "LastUpdate_Ratings": "2024-01-02T23:03:32.7122837+00:00",
+  "LastUpdate_Achievements": "2024-01-02T23:06:06.5006065+00:00"
 }

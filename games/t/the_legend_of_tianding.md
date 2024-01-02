@@ -15,7 +15,7 @@
 | Final Showdown | 36.00% | ~23 |
 | The End of an Outlaw | 36.00% | ~23 |
 | Demon Slayer | 34.00% | ~22 |
-| Steal Her Away | 31.00% | ~20 |
+| Steal Her Away | 33.00% | ~21 |
 | Sewer Rat | 30.00% | ~19 |
 | Fight Fire With Fire | 30.00% | ~19 |
 | Urban Explorer | 28.00% | ~18 |

@@ -56,7 +56,7 @@ Number of Ratings: 111  (23.09.2022)
 | Ultimate skate nerd | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,506 (Ranked 220)  
-Completed: 2 (0.06%) (Ranked 327)  
+Completed: 2 (0.06%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -290,7 +290,7 @@ Completed: 2 (0.06%) (Ranked 327)
 | 2024-01-02 | 3,506 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 62  (Ranked 423)  
-Sum: 578 (Ranked 324)  
+Sum: 579 (Ranked 324)  
 Diff (max vs sum): 99  
 | Award | Count |
 | ----- | ----- |
@@ -303,7 +303,7 @@ Diff (max vs sum): 99
 | This game is Extremely Fun | 47 |
 | This game is Relaxing | 46 |
 | This game has Amazing Storytelling | 46 |
-| This game has Quickly Understood Controls | 40 |
+| This game has Quickly Understood Controls | 41 |
 | This game is Educational | 39 |
 | This game has Challenging Combat | 32 |
 ## Ratings History
@@ -502,3 +502,4 @@ Diff (max vs sum): 99
 | 2023-12-27 | 4.69 | - | 62 | 576 |
 | 2023-12-29 | 4.69 | - | 62 | 577 |
 | 2023-12-30 | 4.69 | - | 62 | 578 |
+| 2024-01-02 | 4.69 | - | 62 | 579 |

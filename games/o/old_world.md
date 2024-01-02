@@ -58,6 +58,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Valiant | 0.40% | ~64 |
 | Legendary Cities | 0.40% | ~64 |
 | Acropolis | 0.40% | ~64 |
+| Colossus | 0.40% | ~64 |
 | Mausoleum | 0.40% | ~64 |
 | Musaeum | 0.40% | ~64 |
 | Necropolis | 0.40% | ~64 |
@@ -72,7 +73,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Patrons | 0.30% | ~48 |
 | Sages | 0.30% | ~48 |
 | Hittite Iron | 0.30% | ~48 |
-| Colossus | 0.30% | ~48 |
 | Learn to Play 3 | 0.30% | ~48 |
 | Greece | 0.30% | ~48 |
 | Power to the People | 0.30% | ~48 |

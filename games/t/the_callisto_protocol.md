@@ -5,27 +5,27 @@ Rating: 4.21 (Ranked 946)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 22.00% | ~4,552 |
-| The Outer Way | 22.00% | ~4,552 |
-| Desperate Times | 21.00% | ~4,345 |
-| Get a Grip | 19.00% | ~3,931 |
-| Paper Jams | 19.00% | ~3,931 |
+| Flesh Wound | 22.00% | ~4,553 |
+| The Outer Way | 22.00% | ~4,553 |
+| Desperate Times | 21.00% | ~4,346 |
+| Get a Grip | 19.00% | ~3,932 |
+| Paper Jams | 19.00% | ~3,932 |
 | Chew 'Em Up | 17.00% | ~3,518 |
 | Reforged | 16.00% | ~3,311 |
 | Float Like A Butterfly | 15.00% | ~3,104 |
 | If the SHU Fits... | 14.00% | ~2,897 |
 | Workplace Hazard | 13.00% | ~2,690 |
 | Without A Paddle | 12.00% | ~2,483 |
-| Two Heads Are Better Than One | 10.00% | ~2,069 |
-| In the Pipe, Five by Five | 10.00% | ~2,069 |
-| Crash Site | 10.00% | ~2,069 |
-| Terminated | 9.00% | ~1,862 |
-| Power Up | 9.00% | ~1,862 |
-| Giving Back | 8.00% | ~1,655 |
-| You Need a Gun | 8.00% | ~1,655 |
-| What Lies Beneath | 8.00% | ~1,655 |
-| Full Circle | 8.00% | ~1,655 |
-| I Do Belong Here | 7.00% | ~1,448 |
+| Two Heads Are Better Than One | 10.00% | ~2,070 |
+| In the Pipe, Five by Five | 10.00% | ~2,070 |
+| Crash Site | 10.00% | ~2,070 |
+| Terminated | 9.00% | ~1,863 |
+| Power Up | 9.00% | ~1,863 |
+| Giving Back | 8.00% | ~1,656 |
+| You Need a Gun | 8.00% | ~1,656 |
+| What Lies Beneath | 8.00% | ~1,656 |
+| Full Circle | 8.00% | ~1,656 |
+| I Do Belong Here | 7.00% | ~1,449 |
 | Keep Fighting | 7.00% | ~603 |
 | It's Time | 5.00% | ~431 |
 | In Striking Distance | 4.00% | ~828 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 946)
 | Big Game Hunter | 0.10% | ~9 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,692 (Ranked 150)  
+Progressed: 20,695 (Ranked 150)  
 Completed: 82 (0.40%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,18 +302,18 @@ Completed: 82 (0.40%) (Ranked 232)
 | 2023-12-30 | 20,137 | 82 |
 | 2023-12-31 | 20,337 | 82 |
 | 2024-01-01 | 20,521 | 82 |
-| 2024-01-02 | 20,692 | 82 |
+| 2024-01-02 | 20,695 | 82 |
 ## Awards
 Max (Amazing Characters): 109  (Ranked 363)  
-Sum: 551 (Ranked 328)  
-Diff (max vs sum): 35  
+Sum: 554 (Ranked 327)  
+Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 109 |
-| This game is Highly Recommended | 102 |
+| This game is Highly Recommended | 104 |
 | This game has Amazing Storytelling | 101 |
+| This game has Quickly Understood Controls | 100 |
 | This game is Extremely Fun | 99 |
-| This game has Quickly Understood Controls | 99 |
 | This game has Challenging Combat | 68 |
 | This game has a Creative Community | 41 |
 ## Ratings History
@@ -508,3 +508,4 @@ Diff (max vs sum): 35
 | 2023-12-30 | 4.21 | 107 | 536 |
 | 2023-12-31 | 4.21 | 107 | 541 |
 | 2024-01-01 | 4.21 | 109 | 551 |
+| 2024-01-02 | 4.21 | 109 | 554 |

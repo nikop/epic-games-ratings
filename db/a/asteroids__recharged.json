@@ -2,10 +2,10 @@
   "ID": "16c882e1ebdc4212b75b9d59c30b08f0",
   "Name": "Asteroids: Recharged",
   "ProductSlug": "asteroids-recharged",
-  "Ranking_EOS_Progress": 223,
+  "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 349,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-12-14T16:00:00+00:00",
     "PcReleaseDate": "2021-12-14T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3225,
+  "EOS_Progressed": 3254,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3097,
+  "EOS_NewPlayers": 3126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -984,6 +984,11 @@
       "Time": "2024-01-02T22:06:20.8718057+00:00",
       "NumProgressed": 3225,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-02T23:07:40.1511445+00:00",
+      "NumProgressed": 3254,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 16,
@@ -995,7 +1000,7 @@
       "Name": "All Dead, All Dead",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 580
+      "UsersEstimate": 586
     },
     {
       "ID": "ACH_COOL_CAT",
@@ -1011,7 +1016,7 @@
       "Name": "Friends Will Be Friends",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_GOOD_COMPANY",
@@ -1027,7 +1032,7 @@
       "Name": "Keep Yourself Alive",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 871
+      "UsersEstimate": 879
     },
     {
       "ID": "ACH_KILLER_QUEEN",
@@ -1043,7 +1048,7 @@
       "Name": "Machines",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_MISFIRE",
@@ -1051,7 +1056,7 @@
       "Name": "Misfire",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 548
+      "UsersEstimate": 553
     },
     {
       "ID": "ACH_NOW_IM_HERE",
@@ -1059,7 +1064,7 @@
       "Name": "Now I\u0027m Here",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 1516
+      "UsersEstimate": 1529
     },
     {
       "ID": "ACH_PUT_OUT_THE_FIRE",
@@ -1067,7 +1072,7 @@
       "Name": "Put Out the Fire",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_ROCK_IT",
@@ -1075,7 +1080,7 @@
       "Name": "Rock It",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_THE_HERO",
@@ -1083,7 +1088,7 @@
       "Name": "The Hero",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 1677
+      "UsersEstimate": 1692
     },
     {
       "ID": "ACH_THE_HITMAN",
@@ -1091,7 +1096,7 @@
       "Name": "The Hitman",
       "Percentage": 28,
       "XP": 75,
-      "UsersEstimate": 903
+      "UsersEstimate": 911
     },
     {
       "ID": "ACH_THE_INVISIBLE",
@@ -1099,7 +1104,7 @@
       "Name": "The Invisible Man",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 516
+      "UsersEstimate": 521
     },
     {
       "ID": "ACH_THE_MIRACLE",
@@ -1107,7 +1112,7 @@
       "Name": "The Miracle",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 322
+      "UsersEstimate": 325
     },
     {
       "ID": "ACH_WE_WILL_ROCK_YOU",
@@ -1115,14 +1120,14 @@
       "Name": "We Will Rock You",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 290
+      "UsersEstimate": 293
     }
   ],
   "AchievementSets": [
     {
       "ID": "ca3jj1k",
       "IsBase": true,
-      "Progressed": 3225,
+      "Progressed": 3254,
       "Completed": 1
     }
   ],
@@ -1130,8 +1135,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.8457032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.0797767+00:00",
   "LastChanged": "2023-03-31T05:58:41.8457033+00:00",
-  "LastChanged_Achievements": "2024-01-02T22:06:20.8718055+00:00",
+  "LastChanged_Achievements": "2024-01-02T23:07:40.1511439+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:17.9460283+00:00",
-  "LastUpdate_Ratings": "2024-01-02T22:00:07.6828925+00:00",
-  "LastUpdate_Achievements": "2024-01-02T22:06:20.8718361+00:00"
+  "LastUpdate_Ratings": "2024-01-02T23:01:20.7741992+00:00",
+  "LastUpdate_Achievements": "2024-01-02T23:07:40.1511581+00:00"
 }

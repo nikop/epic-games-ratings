@@ -15,9 +15,9 @@ Rating: 4.65 (Ranked 321)
 | No, Thanks! | 25.00% | ~300 |
 | The Prince in Heels | 25.00% | ~300 |
 | Honest Mistake | 25.00% | ~300 |
-| Immaculate Aim | 25.00% | ~300 |
 | The Harder They Fall | 24.00% | ~288 |
 | Fast Learner | 24.00% | ~288 |
+| Immaculate Aim | 24.00% | ~288 |
 | The Steel Shadow | 23.00% | ~276 |
 | Breaking Down Barriers | 23.00% | ~276 |
 | Right On Time | 22.00% | ~264 |
@@ -33,10 +33,10 @@ Rating: 4.65 (Ranked 321)
 | Whiz Kid | 15.00% | ~180 |
 | Family Memories | 14.00% | ~168 |
 | Good Neighbor | 14.00% | ~168 |
-| Treasure Trove | 13.00% | ~156 |
 | Cartographer | 13.00% | ~156 |
 | Ask Questions Later | 13.00% | ~156 |
 | Chaincrawler Explorer | 12.00% | ~144 |
+| Treasure Trove | 12.00% | ~144 |
 | Syron for Hope | 12.00% | ~144 |
 | Sump Explorer | 11.00% | ~132 |
 | Factorywood Explorer | 10.00% | ~120 |
@@ -44,8 +44,8 @@ Rating: 4.65 (Ranked 321)
 | Theater Explorer | 10.00% | ~120 |
 | Cultivair Explorer | 9.00% | ~108 |
 | Corin Goes Home | 8.00% | ~96 |
-| Sartorialist | 8.00% | ~96 |
 | Entresol Explorer | 8.00% | ~96 |
+| Sartorialist | 7.00% | ~84 |
 | Golem Hunter | 7.00% | ~84 |
 | Clovemary for Remembering | 6.00% | ~72 |
 | Hexlock for Protection | 6.00% | ~72 |
@@ -54,12 +54,12 @@ Rating: 4.65 (Ranked 321)
 | Fitting In | 2.00% | ~24 |
 | Thinking Two Steps Ahead | 1.00% | ~12 |
 | No Time to Waste | 1.00% | ~12 |
-| Wildlife Protection | 0.80% | ~10 |
 | A Lesson in Precision | 0.80% | ~10 |
+| Wildlife Protection | 0.70% | ~8 |
 | Raw Talent | 0.60% | ~7 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,200 (Ranked 280)  
+Progressed: 1,201 (Ranked 280)  
 Completed: 6 (0.50%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 6 (0.50%) (Ranked 219)
 | 2023-12-30 | 1,165 | 6 |
 | 2023-12-31 | 1,175 | 6 |
 | 2024-01-01 | 1,190 | 6 |
-| 2024-01-02 | 1,200 | 6 |
+| 2024-01-02 | 1,201 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

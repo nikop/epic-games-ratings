@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4427,
+  "EOS_Progressed": 4428,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -7531,6 +7531,11 @@
       "Time": "2024-01-02T20:06:08.3920617+00:00",
       "NumProgressed": 4427,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-02T23:07:49.9762968+00:00",
+      "NumProgressed": 4428,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -7646,7 +7651,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "HouseofCards_19",
@@ -7726,7 +7731,7 @@
       "Name": "Ready for Summer",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2169
+      "UsersEstimate": 2170
     },
     {
       "ID": "ReadyforWinter_42",
@@ -7750,7 +7755,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1063
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -7766,7 +7771,7 @@
       "Name": "Tapped!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1549
+      "UsersEstimate": 1550
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -7814,7 +7819,7 @@
       "Name": "The Power of Freedom",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "TheStuffOfLegends",
@@ -7877,15 +7882,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4427,
+      "Progressed": 4428,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2024-01-02T22:06:27.9459626+00:00",
+  "LastChanged_Achievements": "2024-01-02T23:07:49.9762963+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:23.571083+00:00",
-  "LastUpdate_Ratings": "2024-01-02T22:03:15.9901192+00:00",
-  "LastUpdate_Achievements": "2024-01-02T22:06:27.946034+00:00"
+  "LastUpdate_Ratings": "2024-01-02T23:03:21.0550158+00:00",
+  "LastUpdate_Achievements": "2024-01-02T23:07:49.9763724+00:00"
 }

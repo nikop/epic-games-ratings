@@ -1,7 +1,7 @@
 # Against the Storm
 [Store](https://store.epicgames.com/en-US/p/against-the-storm)  
 [View Rawdata](../../db/a/against_the_storm.json)  
-Rating: 4.82 (Ranked 68)  
+Rating: 4.82 (Ranked 69)  
 Number of Ratings: 1,845  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -13,13 +13,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Abandoned Settlement | 7.00% | ~1,399 |
 | Petrified Necropolis | 7.00% | ~1,399 |
 | The Marshlands | 6.00% | ~1,199 |
-| Overcoming Difficulty | 5.00% | ~999 |
-| Coral Forest | 5.00% | ~999 |
-| The Scarlet Orchard | 5.00% | ~999 |
-| Frosts | 5.00% | ~999 |
-| Land of Greed | 5.00% | ~999 |
-| Ominous Presence | 5.00% | ~999 |
-| Gathering Storm | 5.00% | ~999 |
+| Overcoming Difficulty | 5.00% | ~1,000 |
+| Coral Forest | 5.00% | ~1,000 |
+| The Scarlet Orchard | 5.00% | ~1,000 |
+| Frosts | 5.00% | ~1,000 |
+| Land of Greed | 5.00% | ~1,000 |
+| Ominous Presence | 5.00% | ~1,000 |
+| Gathering Storm | 5.00% | ~1,000 |
 | Royal Outpost | 4.00% | ~800 |
 | Watchtower | 4.00% | ~800 |
 | Homesick | 3.00% | ~600 |
@@ -27,6 +27,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Fertile Meadows | 3.00% | ~600 |
 | Levitating Monument | 3.00% | ~600 |
 | Monastery of the Holy Flame | 3.00% | ~600 |
+| Lost Colonies | 3.00% | ~600 |
 | A Real Challenge | 3.00% | ~600 |
 | Trade Baron | 3.00% | ~600 |
 | Untamed Wilds | 3.00% | ~600 |
@@ -37,7 +38,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Sparkdew Crystals | 2.00% | ~400 |
 | Haunted Forest | 2.00% | ~400 |
 | Flooded Mines | 2.00% | ~400 |
-| Lost Colonies | 2.00% | ~400 |
 | Statue of the Forefathers | 2.00% | ~400 |
 | Corrosive Torrent | 2.00% | ~400 |
 | Cursed Lands | 2.00% | ~400 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,988 (Ranked 152)  
+Progressed: 19,991 (Ranked 152)  
 Completed: 33 (0.17%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 33 (0.17%) (Ranked 281)
 | 2023-12-30 | 19,741 | 35 |
 | 2023-12-31 | 19,834 | 34 |
 | 2024-01-01 | 19,919 | 33 |
-| 2024-01-02 | 19,988 | 33 |
+| 2024-01-02 | 19,991 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 447  (Ranked 230)  
 Sum: 3,320 (Ranked 177)  

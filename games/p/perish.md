@@ -53,7 +53,7 @@
 | Rites at Sea | 1.00% | ~39 |
 | Close Shut the Doors | 1.00% | ~39 |
 | Scrap Metal | 1.00% | ~39 |
-| Athenian Treasury | 0.80% | ~31 |
+| Athenian Treasury | 0.90% | ~35 |
 | Invicta | 0.80% | ~31 |
 | Olympian | 0.60% | ~23 |
 | Hipparchia's Labour | 0.40% | ~16 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -343,7 +343,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 234790,
+  "EOS_Progressed": 234792,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 488,
   "EOS_NewCompleters": 0,
@@ -26538,6 +26538,11 @@
       "Time": "2024-01-02T22:09:38.474561+00:00",
       "NumProgressed": 234790,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-02T23:09:52.563998+00:00",
+      "NumProgressed": 234792,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 28,
@@ -26613,7 +26618,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 84524
+      "UsersEstimate": 84525
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -26757,7 +26762,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 39914
+      "UsersEstimate": 39915
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -26772,7 +26777,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 234790,
+      "Progressed": 234792,
       "Completed": 6
     }
   ],
@@ -26780,8 +26785,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2024-01-02T21:59:02.7368642+00:00",
-  "LastChanged_Achievements": "2024-01-02T22:09:38.4745608+00:00",
+  "LastChanged_Achievements": "2024-01-02T23:09:52.5639976+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:51.1279895+00:00",
-  "LastUpdate_Ratings": "2024-01-02T21:59:02.7368647+00:00",
-  "LastUpdate_Achievements": "2024-01-02T22:09:38.474705+00:00"
+  "LastUpdate_Ratings": "2024-01-02T22:59:45.7178471+00:00",
+  "LastUpdate_Achievements": "2024-01-02T23:09:52.5641281+00:00"
 }

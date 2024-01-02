@@ -2,13 +2,13 @@
   "ID": "4158b699dd70447a981fee752d970a3e",
   "Name": "KINGDOM HEARTS HD 1.5\u002B2.5 ReMIX",
   "ProductSlug": "kingdom-hearts-hd-1-5-2-5-remix",
-  "Ranking_Rating": 68,
+  "Ranking_Rating": 56,
   "Ranking_Popularity": 153,
   "Ranking_PopularitySum": 114,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-03-30T13:00:00+00:00",
     "PcReleaseDate": "2021-03-30T13:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "TW"
     }
   },
-  "Rating": 4.82,
+  "Rating": 4.83,
   "NumberOfRatings": 4283,
   "RatingHistory": [
     {
@@ -10209,6 +10209,12 @@
       "Rating": 4.82,
       "NumberOfAwards": 8168,
       "NumberOfAwardsMax": 1070
+    },
+    {
+      "Time": "2024-01-02T22:58:03.8874981+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 8168,
+      "NumberOfAwardsMax": 1070
     }
   ],
   "ReviewsDisabled": false,
@@ -10300,8 +10306,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:56.8065488+00:00",
-  "LastChanged": "2024-01-02T19:57:50.4419192+00:00",
+  "LastChanged": "2024-01-02T22:58:03.8874979+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.5367859+00:00",
-  "LastUpdate_Ratings": "2024-01-02T21:57:52.4361544+00:00",
-  "LastUpdate_Achievements": "2024-01-02T22:08:31.9014854+00:00"
+  "LastUpdate_Ratings": "2024-01-02T22:58:03.8874985+00:00",
+  "LastUpdate_Achievements": "2024-01-02T23:08:21.0518444+00:00"
 }

@@ -5,16 +5,16 @@ Rating: 3.64 (Ranked 1,086)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 18.00% | ~400 |
+| I Like My Stakes Rare! | 18.00% | ~401 |
 | Catch and Release | 14.00% | ~312 |
-| Home Is Where the Heart Is | 13.00% | ~289 |
+| Home Is Where the Heart Is | 13.00% | ~290 |
 | ICU | 12.00% | ~267 |
 | Wounded Whispers | 12.00% | ~267 |
-| Blood Will Have Blood | 10.00% | ~222 |
-| Ne Plus Ultra | 10.00% | ~222 |
-| Peek-a-boo | 10.00% | ~222 |
-| Fly Fisher | 9.00% | ~200 |
-| Sucks To Be You | 9.00% | ~200 |
+| Blood Will Have Blood | 10.00% | ~223 |
+| Ne Plus Ultra | 10.00% | ~223 |
+| Peek-a-boo | 10.00% | ~223 |
+| Fly Fisher | 9.00% | ~201 |
+| Sucks To Be You | 9.00% | ~201 |
 | Welcome to the Neighborhood | 8.00% | ~178 |
 | Throw The First Stone | 8.00% | ~178 |
 | Enter of Your Own Free Will | 7.00% | ~156 |
@@ -27,17 +27,17 @@ Rating: 3.64 (Ranked 1,086)
 | You Clean It Up | 3.00% | ~67 |
 | Helping Hand | 3.00% | ~67 |
 | I Spit On Your Grave | 3.00% | ~67 |
-| Revelations | 2.00% | ~44 |
-| Contingency Plans | 2.00% | ~44 |
-| Block Party | 2.00% | ~44 |
-| Sic Transit Umbra | 2.00% | ~44 |
-| Bell-ringer | 2.00% | ~44 |
-| Silence Is Golden | 2.00% | ~44 |
-| Good Morning | 2.00% | ~44 |
-| From the Shadows | 2.00% | ~44 |
-| Check, Please! | 2.00% | ~44 |
-| Starve the Beast | 2.00% | ~44 |
-| Harvest’s End | 2.00% | ~44 |
+| Revelations | 2.00% | ~45 |
+| Contingency Plans | 2.00% | ~45 |
+| Block Party | 2.00% | ~45 |
+| Sic Transit Umbra | 2.00% | ~45 |
+| Bell-ringer | 2.00% | ~45 |
+| Silence Is Golden | 2.00% | ~45 |
+| Good Morning | 2.00% | ~45 |
+| From the Shadows | 2.00% | ~45 |
+| Check, Please! | 2.00% | ~45 |
+| Starve the Beast | 2.00% | ~45 |
+| Harvest’s End | 2.00% | ~45 |
 | Right This Way | 1.00% | ~22 |
 | Nice Try | 1.00% | ~22 |
 | Blacklight Down | 1.00% | ~22 |
@@ -72,7 +72,7 @@ Rating: 3.64 (Ranked 1,086)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,225 (Ranked 240)  
+Progressed: 2,228 (Ranked 240)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-30 | 2,176 | 0 |
 | 2023-12-31 | 2,191 | 0 |
 | 2024-01-01 | 2,212 | 0 |
-| 2024-01-02 | 2,225 | 0 |
+| 2024-01-02 | 2,228 | 0 |
 ## Awards
 Max (Great Boss Battles): 20  (Ranked 572)  
 Sum: 20 (Ranked 573)  

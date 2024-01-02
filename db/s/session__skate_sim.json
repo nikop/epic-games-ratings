@@ -6,9 +6,9 @@
   "Ranking_Popularity": 423,
   "Ranking_PopularitySum": 324,
   "Ranking_EOS_Progress": 220,
-  "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_Completed": 326,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2022-09-22T12:00:00+00:00",
@@ -1253,10 +1253,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 578,
       "NumberOfAwardsMax": 62
+    },
+    {
+      "Time": "2024-01-02T22:58:37.3277291+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 579,
+      "NumberOfAwardsMax": 62
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 578,
+  "NumberOfAwards": 579,
   "NumberOfAwardsMax": 62,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1318,7 +1324,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 40
+      "Count": 41
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1335,7 +1341,7 @@
   ],
   "EOS_Progressed": 3506,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -7773,9 +7779,9 @@
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
-  "LastChanged": "2023-12-30T23:02:26.643085+00:00",
-  "LastChanged_Achievements": "2024-01-02T22:05:32.988971+00:00",
+  "LastChanged": "2024-01-02T22:58:37.327729+00:00",
+  "LastChanged_Achievements": "2024-01-02T23:06:33.7547214+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:58.5643959+00:00",
-  "LastUpdate_Ratings": "2024-01-02T21:58:15.1321442+00:00",
-  "LastUpdate_Achievements": "2024-01-02T22:05:32.9890174+00:00"
+  "LastUpdate_Ratings": "2024-01-02T22:58:37.3277294+00:00",
+  "LastUpdate_Achievements": "2024-01-02T23:06:33.7547948+00:00"
 }

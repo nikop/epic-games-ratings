@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -265,9 +265,9 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 1239,
+  "EOS_Progressed": 1241,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3450,6 +3450,11 @@
       "Time": "2024-01-02T22:03:59.9378678+00:00",
       "NumProgressed": 1239,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-02T23:04:25.1023031+00:00",
+      "NumProgressed": 1241,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3470,7 +3475,7 @@
       "Name": "Ab Initio",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "AnthropicHills",
@@ -3502,15 +3507,15 @@
       "Name": "Becoming Smarter",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "BreakTheLoop",
       "SetID": "1n308hc",
       "Name": "Break the Loop",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 99
+      "UsersEstimate": 87
     },
     {
       "ID": "BridgeBuilder",
@@ -3518,7 +3523,7 @@
       "Name": "Bridge Builder",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "ChasingTheLight",
@@ -3566,15 +3571,15 @@
       "Name": "Eastern Wetlands",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "EcstaticTruth",
       "SetID": "1n308hc",
       "Name": "Ecstatic Truth",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 99
+      "UsersEstimate": 87
     },
     {
       "ID": "Excellent",
@@ -3590,7 +3595,7 @@
       "Name": "Flooded Valley",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "GnothiSeauton",
@@ -3646,7 +3651,7 @@
       "Name": "Lord of the Files",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "LostMarshes",
@@ -3678,15 +3683,15 @@
       "Name": "Museum Explorer",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "MuseumVisitor",
       "SetID": "1n308hc",
       "Name": "Museum Visitor",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 310
+      "UsersEstimate": 298
     },
     {
       "ID": "NewBeginning",
@@ -3726,7 +3731,7 @@
       "Name": "Persistent",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "PrometheusUnbound",
@@ -3764,9 +3769,9 @@
       "ID": "ScientiaVincereTenebras",
       "SetID": "1n308hc",
       "Name": "Scientia Vincere Tenebras",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 124
+      "UsersEstimate": 137
     },
     {
       "ID": "Signatory",
@@ -3822,7 +3827,7 @@
       "Name": "The All-Gifted",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "TheEdgeOfForever",
@@ -3854,7 +3859,7 @@
       "Name": "The Spark",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "TheThiefOfFire",
@@ -3894,7 +3899,7 @@
       "Name": "Verdant Canyon",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "Wanderers",
@@ -3910,7 +3915,7 @@
       "Name": "Western Delta",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "WoodedPlateau",
@@ -3918,7 +3923,7 @@
       "Name": "Wooded Plateau",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "YourBiggestFan",
@@ -3933,7 +3938,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1239,
+      "Progressed": 1241,
       "Completed": 2
     }
   ],
@@ -3941,8 +3946,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-01T16:59:26.0585046+00:00",
-  "LastChanged_Achievements": "2024-01-02T22:03:59.9378676+00:00",
+  "LastChanged_Achievements": "2024-01-02T23:04:25.1023026+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.9244138+00:00",
-  "LastUpdate_Ratings": "2024-01-02T21:59:16.9189695+00:00",
-  "LastUpdate_Achievements": "2024-01-02T22:03:59.9379289+00:00"
+  "LastUpdate_Ratings": "2024-01-02T23:00:07.6614567+00:00",
+  "LastUpdate_Achievements": "2024-01-02T23:04:25.1023522+00:00"
 }

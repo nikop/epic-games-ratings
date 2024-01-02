@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 260,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2158,
+  "EOS_Progressed": 2160,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -8300,6 +8300,11 @@
       "Time": "2024-01-02T22:06:32.4713011+00:00",
       "NumProgressed": 2158,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-02T23:07:56.3898084+00:00",
+      "NumProgressed": 2160,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8311,7 +8316,7 @@
       "Name": "Know The Enemy",
       "Percentage": 6,
       "XP": 75,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -8383,7 +8388,7 @@
       "Name": "Silver Achiever",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "objective_headquarters_10",
@@ -8399,7 +8404,7 @@
       "Name": "Moving On Up",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "objective_headquarters_20",
@@ -8431,7 +8436,7 @@
       "Name": "Sergeant",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -8479,7 +8484,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -8517,9 +8522,9 @@
       "ID": "objective_key_gather_resources_from_tiles_3",
       "SetID": "bm61c2p",
       "Name": "Stocking Up",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 216
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -8614,7 +8619,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2158,
+      "Progressed": 2160,
       "Completed": 1
     }
   ],
@@ -8622,8 +8627,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-25T23:58:10.3014256+00:00",
-  "LastChanged_Achievements": "2024-01-02T22:06:32.4713008+00:00",
+  "LastChanged_Achievements": "2024-01-02T23:07:56.3898081+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:25.9392392+00:00",
-  "LastUpdate_Ratings": "2024-01-02T21:58:27.0814024+00:00",
-  "LastUpdate_Achievements": "2024-01-02T22:06:32.4713559+00:00"
+  "LastUpdate_Ratings": "2024-01-02T22:58:52.6724051+00:00",
+  "LastUpdate_Achievements": "2024-01-02T23:07:56.3898639+00:00"
 }

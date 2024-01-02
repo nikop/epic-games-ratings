@@ -17,10 +17,10 @@
 | Explorer | 8.00% | ~10 |
 | Twin Thorns | 8.00% | ~10 |
 | The River Styx | 7.00% | ~9 |
+| Sovereignty of Irons | 6.00% | ~8 |
 | A Sandwyrm's Hoard | 6.00% | ~8 |
 | Sommelier | 5.00% | ~6 |
 | Let Me Solo Them | 5.00% | ~6 |
-| Sovereignty of Irons | 5.00% | ~6 |
 | Frigid Winds | 4.00% | ~5 |
 | Pommelsmith | 2.00% | ~3 |
 | Missing Melodies | 2.00% | ~3 |

@@ -17,8 +17,8 @@ Number of Ratings: 90  (23.09.2022)
 | Lie Back and Think of Albion | 28.00% | ~81 |
 | Upgreatest | 26.00% | ~76 |
 | Pimp My Raid | 25.00% | ~73 |
+| Freshly Squeezed | 22.00% | ~64 |
 | I Look Up As I Walk to Takoshima | 21.00% | ~61 |
-| Freshly Squeezed | 21.00% | ~61 |
 | Perfect Probulator | 18.00% | ~52 |
 | Die Nasty | 18.00% | ~52 |
 | Transmitting From Sol-3 | 15.00% | ~44 |
