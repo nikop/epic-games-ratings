@@ -67,9 +67,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1325,
+  "EOS_Progressed": 1326,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 266,
+  "EOS_NewPlayers": 264,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3457,6 +3457,11 @@
       "Time": "2024-01-03T14:09:44.3657564+00:00",
       "NumProgressed": 1325,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T15:10:34.8360049+00:00",
+      "NumProgressed": 1326,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -3469,7 +3474,7 @@
       "Name": "The Teleprobe",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "AchvAllMemories",
@@ -3589,7 +3594,7 @@
       "Name": "I leave no man behind (no exceptions)",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "AchvNecro",
@@ -3645,7 +3650,7 @@
       "Name": "The Camp",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 901
+      "UsersEstimate": 902
     },
     {
       "ID": "AchvReachCity",
@@ -3675,9 +3680,9 @@
       "ID": "AchvTeleprobeOperator",
       "SetID": "1hj060c",
       "Name": "Flying Objects Operator",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 225
     },
     {
       "ID": "AchvTheEnd",
@@ -3700,7 +3705,7 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1325,
+      "Progressed": 1326,
       "Completed": 0
     }
   ],
@@ -3708,8 +3713,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-03T13:02:33.844766+00:00",
-  "LastChanged_Achievements": "2024-01-03T14:09:44.3657559+00:00",
+  "LastChanged_Achievements": "2024-01-03T15:10:34.8360044+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:20.4992862+00:00",
-  "LastUpdate_Ratings": "2024-01-03T13:58:38.9554566+00:00",
-  "LastUpdate_Achievements": "2024-01-03T14:09:44.3658114+00:00"
+  "LastUpdate_Ratings": "2024-01-03T14:58:55.34439+00:00",
+  "LastUpdate_Achievements": "2024-01-03T15:10:34.8360421+00:00"
 }

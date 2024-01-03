@@ -1,14 +1,14 @@
 # Dungeons 4
 [Store](https://store.epicgames.com/en-US/p/dungeons-4-595454)  
 [View Rawdata](../../db/d/dungeons_4.json)  
-Rating: 4.70 (Ranked 215)  
+Rating: 4.71 (Ranked 202)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Last Stand | 88.00% | ~620 |
 | Thalya – Simply Immortal | 88.00% | ~620 |
 | For the Horde! | 82.00% | ~578 |
-| Hammer Time, Round Two | 80.00% | ~564 |
+| Hammer Time, Round Two | 81.00% | ~571 |
 | The Hellwoods | 76.00% | ~536 |
 | The Plains of Strothalm | 72.00% | ~508 |
 | Experienced Thalya | 71.00% | ~501 |
@@ -22,7 +22,7 @@ Rating: 4.70 (Ranked 215)
 | It's Warm and Cozy at Home | 58.00% | ~409 |
 | Trap Master | 55.00% | ~388 |
 | Minions, Minions! | 55.00% | ~388 |
-| Hard Work | 53.00% | ~374 |
+| Hard Work | 54.00% | ~381 |
 | The Big Eaty | 53.00% | ~374 |
 | “… like son” | 51.00% | ~360 |
 | YOU SHALL NOT PASS! | 50.00% | ~352 |
@@ -133,3 +133,4 @@ Completed: 27 (3.83%) (Ranked 92)
 | 2023-12-28 | 4.65 | 0 | 0 |
 | 2023-12-31 | 4.67 | 0 | 0 |
 | 2024-01-01 | 4.70 | 0 | 0 |
+| 2024-01-03 | 4.71 | 0 | 0 |

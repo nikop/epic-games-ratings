@@ -20,9 +20,9 @@ Number of Ratings: 285  (23.09.2022)
 | Everything Must Go! | 14.00% | ~846 |
 | Cold-Blooded Critters | 11.00% | ~665 |
 | Death Becomes You | 8.00% | ~484 |
+| On this Episode! | 7.00% | ~423 |
 | Flawless Victory | 6.00% | ~363 |
 | The Harder They Fall | 6.00% | ~363 |
-| On this Episode! | 6.00% | ~363 |
 | Deadication | 4.00% | ~242 |
 | Season Finale | 4.00% | ~242 |
 | We've Got a Kaiju on the Field | 3.00% | ~181 |

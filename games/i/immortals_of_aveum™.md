@@ -6,34 +6,34 @@ Rating: 4.21 (Ranked 948)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Unforeseen | 88.00% | ~2,277 |
-| Battlefields Have Memories | 81.00% | ~2,095 |
-| Enlisted | 74.00% | ~1,914 |
-| Maybe Engage a Little | 69.00% | ~1,785 |
-| No More Names | 51.00% | ~1,319 |
-| Initiate | 37.00% | ~957 |
+| Battlefields Have Memories | 81.00% | ~2,096 |
+| Enlisted | 74.00% | ~1,915 |
+| Maybe Engage a Little | 69.00% | ~1,786 |
+| No More Names | 51.00% | ~1,320 |
+| Initiate | 37.00% | ~958 |
 | Thrada-Kul | 33.00% | ~854 |
-| Gravity-Challenged Rocks | 27.00% | ~698 |
+| Gravity-Challenged Rocks | 27.00% | ~699 |
 | Socialite | 24.00% | ~621 |
 | Soldier | 23.00% | ~595 |
 | All the Major Food Groups | 22.00% | ~569 |
-| Beggars Would Ride | 20.00% | ~517 |
+| Beggars Would Ride | 20.00% | ~518 |
 | Control is an Illusion | 19.00% | ~492 |
 | The Means to Save It | 16.00% | ~414 |
 | Resilience to Sin | 15.00% | ~388 |
 | A Familiar Nest | 14.00% | ~362 |
 | Periapt Alizarin | 14.00% | ~362 |
 | Geas Aristeya | 13.00% | ~336 |
-| A Perfect Cycle | 12.00% | ~310 |
-| Recruit | 12.00% | ~310 |
-| Armsman | 10.00% | ~259 |
+| A Perfect Cycle | 13.00% | ~336 |
+| Recruit | 12.00% | ~311 |
+| Armsman | 11.00% | ~285 |
 | Lights Army | 9.00% | ~233 |
 | Periapt Cerulean | 7.00% | ~181 |
 | Good Boy | 7.00% | ~181 |
 | Periapt Viridian | 6.00% | ~155 |
 | Best Dressed | 5.00% | ~129 |
 | Shroudfane Explorer | 5.00% | ~129 |
-| Kitted Out | 4.00% | ~103 |
-| Armaments Gules | 4.00% | ~103 |
+| Kitted Out | 4.00% | ~104 |
+| Armaments Gules | 4.00% | ~104 |
 | Scholar | 3.00% | ~78 |
 | Armaments Azure | 3.00% | ~78 |
 | Armaments Vert | 3.00% | ~78 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 948)
 | Out of Time | 0.20% | ~5 |
 | Fowl Play | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,587 (Ranked 231)  
+Progressed: 2,588 (Ranked 231)  
 Completed: 2 (0.08%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 2 (0.08%) (Ranked 318)
 | 2023-12-31 | 2,400 | 2 |
 | 2024-01-01 | 2,478 | 2 |
 | 2024-01-02 | 2,542 | 2 |
-| 2024-01-03 | 2,587 | 2 |
+| 2024-01-03 | 2,588 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

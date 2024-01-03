@@ -4,7 +4,7 @@
   "ProductSlug": "night-book-77f2c7",
   "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 374,
+  "Ranking_EOS_NewPlayers": 370,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 299,
+  "EOS_Progressed": 300,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.34,
+  "EOS_Completed_Percentage": 2.33,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:54.2644177+00:00",
@@ -651,6 +651,11 @@
       "Time": "2024-01-02T23:07:24.929333+00:00",
       "NumProgressed": 299,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-03T15:07:49.8803633+00:00",
+      "NumProgressed": 300,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 17,
@@ -670,7 +675,7 @@
       "Name": "Career Woman",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "deal_or_no_deal",
@@ -718,15 +723,15 @@
       "Name": "No One Is Safe",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "off_his_meds",
       "SetID": "a3kkelb",
       "Name": "He\u0027s Off His Meds",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 162
     },
     {
       "ID": "on_your_bike",
@@ -748,9 +753,9 @@
       "ID": "personal_life",
       "SetID": "a3kkelb",
       "Name": "Personal Life",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 141
     },
     {
       "ID": "save_dad",
@@ -790,14 +795,14 @@
       "Name": "Will This Help?",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     }
   ],
   "AchievementSets": [
     {
       "ID": "a3kkelb",
       "IsBase": true,
-      "Progressed": 299,
+      "Progressed": 300,
       "Completed": 7
     }
   ],
@@ -805,8 +810,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2024-01-03T14:06:32.6618699+00:00",
+  "LastChanged_Achievements": "2024-01-03T15:07:49.8803629+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:35.4264884+00:00",
-  "LastUpdate_Ratings": "2024-01-03T13:59:39.4503613+00:00",
-  "LastUpdate_Achievements": "2024-01-03T14:06:32.6618831+00:00"
+  "LastUpdate_Ratings": "2024-01-03T15:00:12.6722176+00:00",
+  "LastUpdate_Achievements": "2024-01-03T15:07:49.8803768+00:00"
 }

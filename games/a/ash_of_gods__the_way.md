@@ -17,9 +17,9 @@
 | Power of Inquisition | 17.00% | ~10 |
 | Surpass the teacher | 17.00% | ~10 |
 | Vene, vidi, vici | 17.00% | ~10 |
+| Help of the Gell | 17.00% | ~10 |
 | She-Wolf | 17.00% | ~10 |
 | Rage | 15.00% | ~9 |
-| Help of the Gell | 15.00% | ~9 |
 | Berkanan Borgia | 12.00% | ~7 |
 | Trial by cold | 12.00% | ~7 |
 | Overplay the rogue | 10.00% | ~6 |
@@ -29,6 +29,7 @@
 | Protect the Healer! | 8.00% | ~5 |
 | Collector | 7.00% | ~4 |
 | Punish the Punisher | 7.00% | ~4 |
+| Cunning plan | 7.00% | ~4 |
 | The End | 7.00% | ~4 |
 | Supplier | 5.00% | ~3 |
 | The best apprentice | 5.00% | ~3 |
@@ -36,7 +37,6 @@
 | Defeat the bear | 5.00% | ~3 |
 | By own strength | 5.00% | ~3 |
 | Deadly strike | 5.00% | ~3 |
-| Cunning plan | 5.00% | ~3 |
 | All's fair in love and war | 5.00% | ~3 |
 | Nothing is settled | 5.00% | ~3 |
 | The power of persuasion | 3.00% | ~2 |

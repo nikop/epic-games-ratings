@@ -2315,9 +2315,9 @@
       "ID": "scoreminrankrf2",
       "SetID": "40n95i5",
       "Name": "Partners in Crime",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 43
+      "UsersEstimate": 50
     },
     {
       "ID": "scoreminrankrh1",
@@ -2380,8 +2380,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-03T14:10:10.5191791+00:00",
+  "LastChanged_Achievements": "2024-01-03T15:11:06.8434097+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:00.0371084+00:00",
-  "LastUpdate_Ratings": "2024-01-03T14:00:08.3879424+00:00",
-  "LastUpdate_Achievements": "2024-01-03T14:10:10.5192079+00:00"
+  "LastUpdate_Ratings": "2024-01-03T15:00:50.0244544+00:00",
+  "LastUpdate_Achievements": "2024-01-03T15:11:06.8434337+00:00"
 }

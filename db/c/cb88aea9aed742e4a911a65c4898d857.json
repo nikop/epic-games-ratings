@@ -263,9 +263,9 @@
       "Count": 90
     }
   ],
-  "EOS_Progressed": 9793,
+  "EOS_Progressed": 9807,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1783,
+  "EOS_NewPlayers": 1788,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3498,6 +3498,11 @@
       "Time": "2024-01-03T14:10:06.2433245+00:00",
       "NumProgressed": 9793,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-03T15:11:01.8843002+00:00",
+      "NumProgressed": 9807,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3510,7 +3515,7 @@
       "Name": "Conspiracy",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1079
     },
     {
       "ID": "03_TheStolenStar",
@@ -3708,9 +3713,9 @@
       "ID": "27_UncoverTheIce",
       "SetID": "37a94m8",
       "Name": "Uncover the Ice",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 78
     },
     {
       "ID": "28_TheLightOfAstronomicon",
@@ -3932,9 +3937,9 @@
       "ID": "55_ReturningTheBoots",
       "SetID": "37a94m8",
       "Name": "Returning the Boots",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 88
     },
     {
       "ID": "56_ThoroughInvestigation",
@@ -4029,7 +4034,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 9793,
+      "Progressed": 9807,
       "Completed": 1
     }
   ],
@@ -4037,8 +4042,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-03T03:00:34.4543831+00:00",
-  "LastChanged_Achievements": "2024-01-03T14:10:06.2433243+00:00",
+  "LastChanged_Achievements": "2024-01-03T15:11:01.8842997+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2024-01-03T14:01:10.2430186+00:00",
-  "LastUpdate_Achievements": "2024-01-03T14:10:06.2434117+00:00"
+  "LastUpdate_Ratings": "2024-01-03T15:02:43.0591603+00:00",
+  "LastUpdate_Achievements": "2024-01-03T15:11:01.8843748+00:00"
 }

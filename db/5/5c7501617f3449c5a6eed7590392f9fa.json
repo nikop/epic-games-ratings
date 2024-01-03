@@ -1010,9 +1010,9 @@
       "ID": "Ach-03-skakavec",
       "SetID": "2pjo9pi",
       "Name": "Skakavec",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 45
     },
     {
       "ID": "Ach-03-svolavac",
@@ -1090,9 +1090,9 @@
       "ID": "Ach-04-snek",
       "SetID": "2pjo9pi",
       "Name": "Snek",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "Ach-04-tucnak",
@@ -1258,9 +1258,9 @@
       "ID": "Ach-level-3",
       "SetID": "2pjo9pi",
       "Name": "Level 3",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 43
     },
     {
       "ID": "Ach-level-4",
@@ -1305,8 +1305,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2024-01-03T14:09:10.192315+00:00",
+  "LastChanged_Achievements": "2024-01-03T15:09:53.4522888+00:00",
   "LastUpdate_AppInfo": "2023-12-27T20:57:05.6352108+00:00",
-  "LastUpdate_Ratings": "2024-01-03T13:57:35.133331+00:00",
-  "LastUpdate_Achievements": "2024-01-03T14:09:10.1923597+00:00"
+  "LastUpdate_Ratings": "2024-01-03T14:57:32.2504295+00:00",
+  "LastUpdate_Achievements": "2024-01-03T15:09:53.45234+00:00"
 }

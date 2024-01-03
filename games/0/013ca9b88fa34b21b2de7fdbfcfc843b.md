@@ -18,10 +18,10 @@ Rating: 4.62 (Ranked 375)
 | Lumberjack | 1.00% | ~88 |
 | Mist Walker | 1.00% | ~88 |
 | Oui, Chef! | 1.00% | ~88 |
+| Botanical Breakthrough | 1.00% | ~88 |
 | Exit Through The Gift Shop | 1.00% | ~15 |
 | Search for the Hairy Grell | 0.90% | ~80 |
 | Higher Tax Bracket | 0.90% | ~80 |
-| Botanical Breakthrough | 0.90% | ~80 |
 | Beach Comber | 0.80% | ~71 |
 | Flaming Hot Completos | 0.70% | ~62 |
 | Azorian Anniversary | 0.70% | ~62 |
@@ -34,10 +34,10 @@ Rating: 4.62 (Ranked 375)
 | Azorian Hat Dance | 0.50% | ~7 |
 | Chatty Neighbor | 0.40% | ~35 |
 | Right Tool For the Job | 0.40% | ~35 |
+| House Proud | 0.40% | ~35 |
 | Going Down | 0.40% | ~6 |
 | I Now Pronounce You... | 0.30% | ~27 |
 | Captain of Cozy | 0.30% | ~27 |
-| House Proud | 0.30% | ~27 |
 | Angling Authority | 0.20% | ~18 |
 | Polyglot | 0.20% | ~3 |
 | Cloverfield Island | 0.10% | ~9 |
@@ -49,7 +49,7 @@ Rating: 4.62 (Ranked 375)
 | Splish-Splash | 0.10% | ~1 |
 | Archi-Pal-igo Aficionado | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,835 (Ranked 184)  
+Progressed: 8,837 (Ranked 184)  
 Completed: 1 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 1 (0.01%) (Ranked 367)
 | 2023-12-31 | 8,793 | 1 |
 | 2024-01-01 | 8,805 | 1 |
 | 2024-01-02 | 8,830 | 1 |
-| 2024-01-03 | 8,835 | 1 |
+| 2024-01-03 | 8,837 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

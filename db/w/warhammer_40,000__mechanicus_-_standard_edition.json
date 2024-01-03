@@ -988,10 +988,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 2222,
       "NumberOfAwardsMax": 291
+    },
+    {
+      "Time": "2024-01-03T14:57:45.5951778+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 2223,
+      "NumberOfAwardsMax": 291
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2222,
+  "NumberOfAwards": 2223,
   "NumberOfAwardsMax": 291,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1041,7 +1047,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 286
+      "Count": 287
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1056,9 +1062,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 231245,
+  "EOS_Progressed": 231250,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 645,
+  "EOS_NewPlayers": 644,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29366,6 +29372,11 @@
       "Time": "2024-01-03T14:10:11.3858565+00:00",
       "NumProgressed": 231245,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-03T15:11:07.8271795+00:00",
+      "NumProgressed": 231250,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -29377,7 +29388,7 @@
       "Name": "This is only the beginning",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 46249
+      "UsersEstimate": 46250
     },
     {
       "ID": "ACH_BASE_10",
@@ -29385,7 +29396,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 60124
+      "UsersEstimate": 60125
     },
     {
       "ID": "ACH_BASE_11",
@@ -29425,7 +29436,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23124
+      "UsersEstimate": 23125
     },
     {
       "ID": "ACH_BASE_17",
@@ -29441,7 +29452,7 @@
       "Name": "Radium Ready",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23124
+      "UsersEstimate": 23125
     },
     {
       "ID": "ACH_BASE_19",
@@ -29465,7 +29476,7 @@
       "Name": "Legio Cybernetica",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 6937
+      "UsersEstimate": 6938
     },
     {
       "ID": "ACH_BASE_21",
@@ -29601,7 +29612,7 @@
       "Name": "Fleshy Disposal",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 6937
+      "UsersEstimate": 6938
     },
     {
       "ID": "ACH_BASE_5",
@@ -29648,16 +29659,16 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 231245,
+      "Progressed": 231250,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-08-11T20:31:05.9094892+00:00",
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
-  "LastChanged": "2024-01-02T09:00:26.6320972+00:00",
-  "LastChanged_Achievements": "2024-01-03T14:10:11.3858563+00:00",
+  "LastChanged": "2024-01-03T14:57:45.5951776+00:00",
+  "LastChanged_Achievements": "2024-01-03T15:11:07.827179+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:45.3371168+00:00",
-  "LastUpdate_Ratings": "2024-01-03T13:57:44.9222351+00:00",
-  "LastUpdate_Achievements": "2024-01-03T14:10:11.3860046+00:00"
+  "LastUpdate_Ratings": "2024-01-03T14:57:45.595178+00:00",
+  "LastUpdate_Achievements": "2024-01-03T15:11:07.8273594+00:00"
 }

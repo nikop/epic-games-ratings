@@ -18,23 +18,23 @@ Number of Ratings: 85  (23.09.2022)
 | Earthly Pleasures | 47.00% | ~143 |
 | Fly Me to the Moon Base | 46.00% | ~140 |
 | Ducks in a Row, Fish in a Barrel | 44.00% | ~134 |
-| Forbidden Donut | 36.00% | ~110 |
+| Forbidden Donut | 37.00% | ~113 |
 | Freshly Squeezed | 36.00% | ~110 |
 | Bodied Sattva | 35.00% | ~107 |
 | Upgreatest | 33.00% | ~101 |
 | Furon Fashion | 29.00% | ~88 |
 | Deincarnated | 28.00% | ~85 |
 | Rock of the Bay | 26.00% | ~79 |
-| Trans-Siberian Express | 24.00% | ~73 |
+| Trans-Siberian Express | 25.00% | ~76 |
 | Re-Return of the Clone of the Invasion II-2 | 20.00% | ~61 |
-| Arkvoodle Doodle | 18.00% | ~55 |
-| If You Know What I Mean | 16.00% | ~49 |
+| Arkvoodle Doodle | 19.00% | ~58 |
+| If You Know What I Mean | 17.00% | ~52 |
 | Die Nasty | 16.00% | ~49 |
 | Ouch of Body Experience | 15.00% | ~46 |
 | Hidden Human Hive Harvest | 15.00% | ~46 |
 | Mash Machine | 15.00% | ~46 |
+| Dusted | 14.00% | ~43 |
 | Albion Bridge Is for Falling Down | 13.00% | ~40 |
-| Dusted | 13.00% | ~40 |
 | Scuttled | 10.00% | ~30 |
 | Higher Than the Futen Zoku | 10.00% | ~30 |
 | PK Slam Dunk | 9.00% | ~27 |

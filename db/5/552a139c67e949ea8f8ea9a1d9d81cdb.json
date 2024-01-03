@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1812,
+  "EOS_Progressed": 1813,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4532,6 +4532,11 @@
       "Time": "2024-01-03T14:06:27.7710988+00:00",
       "NumProgressed": 1812,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-03T15:07:43.7488051+00:00",
+      "NumProgressed": 1813,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4624,7 +4629,7 @@
       "Name": "It\u0027s me you have to beat",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ML_ACHIEVEMENT_12",
@@ -4696,7 +4701,7 @@
       "Name": "Challenge accepted!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -4704,7 +4709,7 @@
       "Name": "I\u0027m in charge here!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ML_ACHIEVEMENT_22",
@@ -4712,7 +4717,7 @@
       "Name": "The Octopus",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ML_ACHIEVEMENT_23",
@@ -4760,7 +4765,7 @@
       "Name": "Can you keep a secret?",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ML_ACHIEVEMENT_29",
@@ -4816,7 +4821,7 @@
       "Name": "Extra gear",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ML_ACHIEVEMENT_36",
@@ -4824,15 +4829,15 @@
       "Name": "Perfectionist",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ML_ACHIEVEMENT_37",
       "SetID": "5k00jcd",
       "Name": "Better too much",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -4911,20 +4916,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1812,
+      "Progressed": 1813,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1480,
+      "Progressed": 1481,
       "Completed": 1006
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-03T14:06:27.7710985+00:00",
+  "LastChanged_Achievements": "2024-01-03T15:07:43.7488045+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:19.4494243+00:00",
-  "LastUpdate_Ratings": "2024-01-03T14:00:39.8333845+00:00",
-  "LastUpdate_Achievements": "2024-01-03T14:06:27.7711582+00:00"
+  "LastUpdate_Ratings": "2024-01-03T15:01:26.9535473+00:00",
+  "LastUpdate_Achievements": "2024-01-03T15:07:43.7488752+00:00"
 }

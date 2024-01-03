@@ -2,12 +2,12 @@
   "ID": "63afbcc46a714796af53032c2b3ed4b3",
   "Name": "Dungeons 4",
   "ProductSlug": "dungeons-4-595454",
-  "Ranking_Rating": 215,
+  "Ranking_Rating": 202,
   "Ranking_Popularity": 578,
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.7,
+  "Rating": 4.71,
   "RatingHistory": [
     {
       "Time": "2023-12-28T14:01:53.0382273+00:00",
@@ -47,6 +47,12 @@
       "Rating": 4.7,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-03T15:00:48.7802367+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -55,7 +61,7 @@
   "Tags": [],
   "EOS_Progressed": 705,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 3.83,
   "EosHistory": [
@@ -2207,9 +2213,9 @@
       "ID": "ach_main02horde_completed",
       "SetID": "4hg22ll",
       "Name": "Hammer Time, Round Two",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 564
+      "UsersEstimate": 571
     },
     {
       "ID": "ach_main02horde_creatures",
@@ -2327,9 +2333,9 @@
       "ID": "ach_main07storm_classified",
       "SetID": "4hg22ll",
       "Name": "Hard Work",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 374
+      "UsersEstimate": 381
     },
     {
       "ID": "ach_main07storm_completed",
@@ -2679,9 +2685,9 @@
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged": "2024-01-01T22:59:34.2453487+00:00",
-  "LastChanged_Achievements": "2024-01-03T14:09:10.1798688+00:00",
+  "LastChanged": "2024-01-03T15:00:48.7802365+00:00",
+  "LastChanged_Achievements": "2024-01-03T15:09:53.3677614+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:16.0613697+00:00",
-  "LastUpdate_Ratings": "2024-01-03T14:00:07.3986659+00:00",
-  "LastUpdate_Achievements": "2024-01-03T14:09:10.1799221+00:00"
+  "LastUpdate_Ratings": "2024-01-03T15:00:48.7802377+00:00",
+  "LastUpdate_Achievements": "2024-01-03T15:09:53.3678218+00:00"
 }

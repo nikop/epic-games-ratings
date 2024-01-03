@@ -4,10 +4,10 @@
   "ProductSlug": "back-4-blood",
   "Ranking_Rating": 672,
   "Ranking_Popularity": 90,
-  "Ranking_PopularitySum": 103,
+  "Ranking_PopularitySum": 102,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewPlayers": 569,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-10-12T15:00:00+00:00",
@@ -6810,10 +6810,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 8714,
       "NumberOfAwardsMax": 3959
+    },
+    {
+      "Time": "2024-01-03T15:03:28.3375489+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 8717,
+      "NumberOfAwardsMax": 3959
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8714,
+  "NumberOfAwards": 8717,
   "NumberOfAwardsMax": 3959,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6833,7 +6839,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 650
+      "Count": 651
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6863,7 +6869,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 614
+      "Count": 616
     }
   ],
   "EOS_Progressed": 0,
@@ -6877,8 +6883,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:46.310125+00:00",
-  "LastChanged": "2024-01-03T12:03:14.4600054+00:00",
+  "LastChanged": "2024-01-03T15:03:28.3375487+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:25.2322065+00:00",
-  "LastUpdate_Ratings": "2024-01-03T14:03:06.8360622+00:00",
-  "LastUpdate_Achievements": "2024-01-03T14:04:24.2041787+00:00"
+  "LastUpdate_Ratings": "2024-01-03T15:03:28.3375494+00:00",
+  "LastUpdate_Achievements": "2024-01-03T15:05:09.4227449+00:00"
 }

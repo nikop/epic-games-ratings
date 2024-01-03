@@ -397,9 +397,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2587,
+  "EOS_Progressed": 2588,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 579,
+  "EOS_NewPlayers": 575,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4247,6 +4247,11 @@
       "Time": "2024-01-03T14:10:04.7194566+00:00",
       "NumProgressed": 2587,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-03T15:11:00.0144469+00:00",
+      "NumProgressed": 2588,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -4305,9 +4310,9 @@
       "ID": "achievement_15",
       "SetID": "18al4io",
       "Name": "A Perfect Cycle",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 336
     },
     {
       "ID": "achievement_16",
@@ -4315,7 +4320,7 @@
       "Name": "Recruit",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "achievement_17",
@@ -4347,7 +4352,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 2095
+      "UsersEstimate": 2096
     },
     {
       "ID": "achievement_20",
@@ -4403,15 +4408,15 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1785
+      "UsersEstimate": 1786
     },
     {
       "ID": "achievement_36",
       "SetID": "18al4io",
       "Name": "Armsman",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 285
     },
     {
       "ID": "achievement_37",
@@ -4419,7 +4424,7 @@
       "Name": "Kitted Out",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "achievement_38",
@@ -4435,7 +4440,7 @@
       "Name": "No More Names",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1319
+      "UsersEstimate": 1320
     },
     {
       "ID": "achievement_41",
@@ -4451,7 +4456,7 @@
       "Name": "Armaments Gules",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "achievement_43",
@@ -4491,7 +4496,7 @@
       "Name": "Enlisted",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 1914
+      "UsersEstimate": 1915
     },
     {
       "ID": "achievement_49",
@@ -4507,7 +4512,7 @@
       "Name": "Initiate",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "achievement_50",
@@ -4611,7 +4616,7 @@
       "Name": "Gravity-Challenged Rocks",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "achievement_8",
@@ -4627,14 +4632,14 @@
       "Name": "Beggars Would Ride",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 2587,
+      "Progressed": 2588,
       "Completed": 2
     }
   ],
@@ -4642,8 +4647,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-03T13:03:04.6353121+00:00",
-  "LastChanged_Achievements": "2024-01-03T14:10:04.7194562+00:00",
+  "LastChanged_Achievements": "2024-01-03T15:11:00.0144464+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.4007279+00:00",
-  "LastUpdate_Ratings": "2024-01-03T13:59:12.2674078+00:00",
-  "LastUpdate_Achievements": "2024-01-03T14:10:04.7195045+00:00"
+  "LastUpdate_Ratings": "2024-01-03T14:59:39.4262506+00:00",
+  "LastUpdate_Achievements": "2024-01-03T15:11:00.0145245+00:00"
 }

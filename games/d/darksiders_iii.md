@@ -6,31 +6,31 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 78.00% | ~312 |
-| First of many… | 67.00% | ~268 |
-| Helping Hand | 64.00% | ~256 |
-| Increased Vigor | 59.00% | ~236 |
-| Fight Fire with Fire | 57.00% | ~228 |
-| Increased Capacity | 53.00% | ~212 |
-| Just the start | 48.00% | ~192 |
-| Perfect Storm | 46.00% | ~184 |
-| All That Glitters | 46.00% | ~184 |
-| Enhance! | 41.00% | ~164 |
-| One Of the Chosen | 39.00% | ~156 |
-| Devil's in the Details | 38.00% | ~152 |
-| Throne Potato | 38.00% | ~152 |
-| Five's a Crowd | 37.00% | ~148 |
-| 25 to Life | 37.00% | ~148 |
-| Salvation | 36.00% | ~144 |
-| Soul Harvester | 35.00% | ~140 |
-| Unshakable Fortitude | 34.00% | ~136 |
-| I Wanna Rock | 32.00% | ~128 |
-| Delusions of Grandeur | 32.00% | ~128 |
-| Maximum Vigor | 30.00% | ~120 |
-| Love Tap | 30.00% | ~120 |
-| For Whom the Bell Tolls | 28.00% | ~112 |
-| Freeze Frame | 27.00% | ~108 |
-| Eat Your Heart Out | 27.00% | ~108 |
+| Green with Envy | 78.00% | ~314 |
+| First of many… | 67.00% | ~269 |
+| Helping Hand | 64.00% | ~257 |
+| Increased Vigor | 59.00% | ~237 |
+| Fight Fire with Fire | 57.00% | ~229 |
+| Increased Capacity | 53.00% | ~213 |
+| Just the start | 48.00% | ~193 |
+| Perfect Storm | 46.00% | ~185 |
+| All That Glitters | 46.00% | ~185 |
+| Enhance! | 41.00% | ~165 |
+| One Of the Chosen | 39.00% | ~157 |
+| Throne Potato | 38.00% | ~153 |
+| Devil's in the Details | 37.00% | ~149 |
+| Five's a Crowd | 37.00% | ~149 |
+| 25 to Life | 37.00% | ~149 |
+| Soul Harvester | 35.00% | ~141 |
+| Salvation | 35.00% | ~141 |
+| Unshakable Fortitude | 34.00% | ~137 |
+| I Wanna Rock | 32.00% | ~129 |
+| Delusions of Grandeur | 32.00% | ~129 |
+| Maximum Vigor | 30.00% | ~121 |
+| Love Tap | 30.00% | ~121 |
+| Freeze Frame | 27.00% | ~109 |
+| Eat Your Heart Out | 27.00% | ~109 |
+| For Whom the Bell Tolls | 27.00% | ~109 |
 | Unyielding Strength | 24.00% | ~96 |
 | Can you restore the Balance? | 24.00% | ~96 |
 | Big Spender | 24.00% | ~96 |
@@ -44,34 +44,34 @@ Number of Ratings: 116  (23.09.2022)
 | Everybody Wants to Rule the World | 15.00% | ~60 |
 | Community Outreach | 14.00% | ~56 |
 | A Parting Gift | 13.00% | ~52 |
-| Unbreakable Will | 12.00% | ~48 |
+| Unbreakable Will | 11.00% | ~44 |
 | Path of the Horseman | 11.00% | ~44 |
 | Take it to the Limit | 11.00% | ~44 |
 | Holy Keeper | 10.00% | ~40 |
-| Demon Keeper | 10.00% | ~40 |
-| Soul Reaper | 8.00% | ~32 |
+| Demon Keeper | 9.00% | ~36 |
+| Soul Reaper | 7.00% | ~28 |
 | Humanitarian | 7.00% | ~28 |
 | My Evil Twin | 6.00% | ~24 |
-| Keeper of the Bonfire | 5.00% | ~20 |
-| Keeper of the Sky | 5.00% | ~20 |
-| Made of Sterner Stuff | 5.00% | ~20 |
-| Purity of Power | 4.00% | ~16 |
 | "Impressive!" | 4.00% | ~16 |
+| Keeper of the Bonfire | 4.00% | ~16 |
 | Keeper of the Vale | 4.00% | ~16 |
-| Keep it 100! | 4.00% | ~16 |
-| BFA | 4.00% | ~16 |
+| Keeper of the Sky | 4.00% | ~16 |
+| Made of Sterner Stuff | 4.00% | ~16 |
+| Purity of Power | 3.00% | ~12 |
 | Balance in all things | 3.00% | ~12 |
 | "Incredible!" | 3.00% | ~12 |
-| Proceed on your way to Armageddon | 3.00% | ~12 |
 | Keeper of Colossal Automata | 3.00% | ~12 |
 | Keeper of the Tempo | 3.00% | ~12 |
+| Keep it 100! | 3.00% | ~12 |
+| BFA | 3.00% | ~12 |
 | "Apocalyptic!" | 2.00% | ~8 |
 | "Amazing!" | 2.00% | ~8 |
-| Death Incarnate | 2.00% | ~8 |
-| Quite Proper | 0.80% | ~3 |
+| Proceed on your way to Armageddon | 2.00% | ~8 |
+| Death Incarnate | 1.00% | ~4 |
+| Quite Proper | 0.70% | ~3 |
 | Beast Mode | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 400 (Ranked 360)  
+Progressed: 402 (Ranked 360)  
 Completed: 1 (0.25%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 1 (0.25%) (Ranked 263)
 | 2023-12-31 | 345 | 1 |
 | 2024-01-01 | 373 | 1 |
 | 2024-01-02 | 388 | 1 |
-| 2024-01-03 | 400 | 1 |
+| 2024-01-03 | 402 | 1 |
 ## Awards
 Max (Great Boss Battles): 96  (Ranked 383)  
 Sum: 96 (Ranked 465)  

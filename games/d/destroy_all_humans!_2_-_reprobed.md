@@ -8,13 +8,13 @@ Number of Ratings: 90  (23.09.2022)
 | ---- | ---------- | ----- |
 | Rock of the Bay | 81.00% | ~242 |
 | Mash Machine | 75.00% | ~224 |
-| Ducks in a Row, Fish in a Barrel | 53.00% | ~158 |
+| Ducks in a Row, Fish in a Barrel | 54.00% | ~161 |
 | Furon Fashion | 49.00% | ~147 |
 | Shop Til They Drop | 40.00% | ~120 |
 | Bodied Sattva | 37.00% | ~111 |
+| Cult Following | 35.00% | ~105 |
 | Earthly Pleasures | 35.00% | ~105 |
-| Cult Following | 34.00% | ~102 |
-| Lie Back and Think of Albion | 27.00% | ~81 |
+| Lie Back and Think of Albion | 28.00% | ~84 |
 | Upgreatest | 26.00% | ~78 |
 | Pimp My Raid | 25.00% | ~75 |
 | I Look Up As I Walk to Takoshima | 21.00% | ~63 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.30% | ~1 |
 | Trans-Siberian Express | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 299 (Ranked 391)  
+Progressed: 299 (Ranked 392)  
 Completed: 1 (0.33%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |

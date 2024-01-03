@@ -250,9 +250,9 @@
       "Count": 128
     }
   ],
-  "EOS_Progressed": 43401,
+  "EOS_Progressed": 43406,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 506,
+  "EOS_NewPlayers": 508,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -28275,6 +28275,11 @@
       "Time": "2024-01-03T14:04:21.5412322+00:00",
       "NumProgressed": 43401,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-03T15:05:06.0849679+00:00",
+      "NumProgressed": 43406,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -28286,7 +28291,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 6510
+      "UsersEstimate": 6511
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -28294,7 +28299,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 9114
+      "UsersEstimate": 9115
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -28517,7 +28522,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 43401,
+      "Progressed": 43406,
       "Completed": 30
     }
   ],
@@ -28525,8 +28530,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-12-18T19:58:40.3413682+00:00",
-  "LastChanged_Achievements": "2024-01-03T14:04:21.5412318+00:00",
+  "LastChanged_Achievements": "2024-01-03T15:05:06.0849674+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:52.0120838+00:00",
-  "LastUpdate_Ratings": "2024-01-03T14:00:28.5904498+00:00",
-  "LastUpdate_Achievements": "2024-01-03T14:04:21.5413881+00:00"
+  "LastUpdate_Ratings": "2024-01-03T15:01:14.6908276+00:00",
+  "LastUpdate_Achievements": "2024-01-03T15:05:06.0851219+00:00"
 }

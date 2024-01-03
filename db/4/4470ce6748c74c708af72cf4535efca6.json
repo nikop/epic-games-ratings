@@ -3,8 +3,8 @@
   "Name": "Warstone TD",
   "ProductSlug": "warstone-td-8fe138",
   "Ranking_EOS_Progress": 519,
-  "Ranking_EOS_Completed": 84,
-  "Ranking_EOS_NewPlayers": 498,
+  "Ranking_EOS_Completed": 85,
+  "Ranking_EOS_NewPlayers": 476,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 69,
+  "EOS_Progressed": 70,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.35,
+  "EOS_Completed_Percentage": 4.29,
   "EosHistory": [
     {
       "Time": "2023-08-18T13:08:19.6700946+00:00",
@@ -329,6 +329,11 @@
       "Time": "2023-12-31T12:06:09.2621462+00:00",
       "NumProgressed": 69,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-03T15:08:49.6399068+00:00",
+      "NumProgressed": 70,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-09T18:03:07.1500331+00:00",
@@ -341,13 +346,13 @@
       "Name": "Adventurer",
       "Percentage": 103,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "10",
       "SetID": "5e3maia",
       "Name": "Astronomer",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -371,7 +376,7 @@
       "ID": "13",
       "SetID": "5e3maia",
       "Name": "Stalker",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 10,
       "UsersEstimate": 28
     },
@@ -403,7 +408,7 @@
       "ID": "17",
       "SetID": "5e3maia",
       "Name": "Abbot",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
       "UsersEstimate": 19
     },
@@ -419,7 +424,7 @@
       "ID": "19",
       "SetID": "5e3maia",
       "Name": "Strong Alliance",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 15
     },
@@ -429,7 +434,7 @@
       "Name": "Clairvoyant",
       "Percentage": 106,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "20",
@@ -483,7 +488,7 @@
       "ID": "26",
       "SetID": "5e3maia",
       "Name": "Tycoon",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
       "UsersEstimate": 17
     },
@@ -491,7 +496,7 @@
       "ID": "27",
       "SetID": "5e3maia",
       "Name": "Madly in love",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
       "UsersEstimate": 17
     },
@@ -507,7 +512,7 @@
       "ID": "29",
       "SetID": "5e3maia",
       "Name": "Park ranger",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 10,
       "UsersEstimate": 38
     },
@@ -515,15 +520,15 @@
       "ID": "3",
       "SetID": "5e3maia",
       "Name": "Feudal lord",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "32",
       "SetID": "5e3maia",
       "Name": "Lionheart",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
       "UsersEstimate": 17
     },
@@ -579,7 +584,7 @@
       "ID": "39",
       "SetID": "5e3maia",
       "Name": "Occultist",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -589,7 +594,7 @@
       "Name": "Epic Alliance",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "40",
@@ -677,7 +682,7 @@
       "Name": "Tax official",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "50",
@@ -715,7 +720,7 @@
       "ID": "54",
       "SetID": "5e3maia",
       "Name": "Dominator",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -755,7 +760,7 @@
       "ID": "59",
       "SetID": "5e3maia",
       "Name": "Pioneer",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -765,7 +770,7 @@
       "Name": "Blacksmith",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "60",
@@ -827,7 +832,7 @@
       "ID": "67",
       "SetID": "5e3maia",
       "Name": "Genius",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -853,7 +858,7 @@
       "Name": "Shamanslayer",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "70",
@@ -884,14 +889,14 @@
     {
       "ID": "5e3maia",
       "IsBase": true,
-      "Progressed": 69,
+      "Progressed": 70,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2024-01-03T14:08:18.3987131+00:00",
+  "LastChanged_Achievements": "2024-01-03T15:08:49.6399063+00:00",
   "LastUpdate_AppInfo": "2023-12-30T07:56:55.8803817+00:00",
-  "LastUpdate_Ratings": "2024-01-03T13:59:36.1261479+00:00",
-  "LastUpdate_Achievements": "2024-01-03T14:08:18.3987718+00:00"
+  "LastUpdate_Ratings": "2024-01-03T15:00:08.3582652+00:00",
+  "LastUpdate_Achievements": "2024-01-03T15:08:49.6399842+00:00"
 }

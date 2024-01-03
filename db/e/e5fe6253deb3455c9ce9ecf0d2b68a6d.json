@@ -4,7 +4,7 @@
   "ProductSlug": "bus-world-5de29e",
   "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewPlayers": 284,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-08-10T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 483,
+  "EOS_Progressed": 484,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1864,6 +1864,11 @@
       "Time": "2024-01-03T14:06:18.5662191+00:00",
       "NumProgressed": 483,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T15:07:32.062882+00:00",
+      "NumProgressed": 484,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-07T18:00:21.0046811+00:00",
@@ -1876,7 +1881,7 @@
       "Name": "Collector",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Dangerous_dose",
@@ -1987,14 +1992,14 @@
     {
       "ID": "cjfnji1",
       "IsBase": true,
-      "Progressed": 483,
+      "Progressed": 484,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2024-01-03T14:06:18.5662188+00:00",
+  "LastChanged_Achievements": "2024-01-03T15:07:32.0628815+00:00",
   "LastUpdate_AppInfo": "2024-01-02T04:56:54.2525361+00:00",
-  "LastUpdate_Ratings": "2024-01-03T13:59:45.5444315+00:00",
-  "LastUpdate_Achievements": "2024-01-03T14:06:18.5662372+00:00"
+  "LastUpdate_Ratings": "2024-01-03T15:00:21.0938893+00:00",
+  "LastUpdate_Achievements": "2024-01-03T15:07:32.0629048+00:00"
 }

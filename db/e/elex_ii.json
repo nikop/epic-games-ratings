@@ -5,9 +5,9 @@
   "Ranking_Rating": 877,
   "Ranking_Popularity": 578,
   "Ranking_PopularitySum": 578,
-  "Ranking_EOS_Progress": 439,
+  "Ranking_EOS_Progress": 437,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -571,7 +571,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 167,
+  "EOS_Progressed": 168,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
@@ -1211,6 +1211,11 @@
       "Time": "2024-01-02T23:07:26.1250772+00:00",
       "NumProgressed": 167,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T15:03:58.2112726+00:00",
+      "NumProgressed": 168,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:41.4600068+00:00",
@@ -1239,7 +1244,7 @@
       "Name": "Entrepreneur",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "100HEALS",
@@ -1269,9 +1274,9 @@
       "ID": "20AUDIOLOGS",
       "SetID": "a1angca",
       "Name": "Storyteller",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "20TELEPORTS",
@@ -1349,9 +1354,9 @@
       "ID": "5CREWMEMBER",
       "SetID": "a1angca",
       "Name": "Military Leader",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "ALLCOMBAT",
@@ -1463,7 +1468,7 @@
       "Name": "Creator",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "DESTRUCTION",
@@ -1487,7 +1492,7 @@
       "Name": "Commander",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "FINDBILLY",
@@ -1495,7 +1500,7 @@
       "Name": "Festival-goer",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "FINDCITY",
@@ -1503,7 +1508,7 @@
       "Name": "Civilian",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "FINDCRONY",
@@ -1551,7 +1556,7 @@
       "Name": "Pass A38",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "KILL200MONSTER",
@@ -1622,15 +1627,15 @@
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 167,
+      "Progressed": 168,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2024-01-03T13:10:32.069111+00:00",
+  "LastChanged_Achievements": "2024-01-03T15:03:58.211272+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:16.9599546+00:00",
-  "LastUpdate_Ratings": "2024-01-03T14:00:56.7421498+00:00",
-  "LastUpdate_Achievements": "2024-01-03T13:10:32.069178+00:00"
+  "LastUpdate_Ratings": "2024-01-03T15:01:47.9862272+00:00",
+  "LastUpdate_Achievements": "2024-01-03T15:03:58.2113406+00:00"
 }

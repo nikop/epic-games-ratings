@@ -5,11 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Something important | 84.00% | ~222 |
-| A piece of the story | 61.00% | ~161 |
-| It's covered up for a reason | 54.00% | ~143 |
-| Wanderer | 51.00% | ~135 |
-| Scraps of love | 46.00% | ~121 |
-| The artist’s impression | 45.00% | ~119 |
+| A piece of the story | 62.00% | ~164 |
+| It's covered up for a reason | 55.00% | ~145 |
+| Wanderer | 52.00% | ~137 |
+| Scraps of love | 47.00% | ~124 |
+| The artist’s impression | 46.00% | ~121 |
 | Do what you have to | 41.00% | ~108 |
 | Sign of weakness | 38.00% | ~100 |
 | Refuse to look | 34.00% | ~90 |

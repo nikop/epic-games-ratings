@@ -5,8 +5,8 @@ Rating: 4.57 (Ranked 491)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 68.00% | ~901 |
-| The Teleprobe | 53.00% | ~702 |
+| The Camp | 68.00% | ~902 |
+| The Teleprobe | 53.00% | ~703 |
 | The City | 48.00% | ~636 |
 | The field base | 44.00% | ~583 |
 | The Alliance | 39.00% | ~517 |
@@ -20,8 +20,8 @@ Rating: 4.57 (Ranked 491)
 | Volcanologist | 21.00% | ~278 |
 | Fierce fight | 20.00% | ~265 |
 | Evacuation | 19.00% | ~252 |
+| Flying Objects Operator | 17.00% | ~225 |
 | Beyond divisions | 17.00% | ~225 |
-| Flying Objects Operator | 16.00% | ~212 |
 | I remember everything! | 14.00% | ~186 |
 | Another giant | 13.00% | ~172 |
 | Violent solution | 9.00% | ~119 |
@@ -31,11 +31,11 @@ Rating: 4.57 (Ranked 491)
 | The Invincible | 6.00% | ~80 |
 | Strong objection | 6.00% | ~80 |
 | Got lost again | 5.00% | ~66 |
-| I leave no man behind (no exceptions) | 2.00% | ~26 |
+| I leave no man behind (no exceptions) | 2.00% | ~27 |
 | Convoy list | 0.80% | ~11 |
 | No more mistakes | 0.50% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,325 (Ranked 272)  
+Progressed: 1,326 (Ranked 272)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-31 | 1,236 | 0 |
 | 2024-01-01 | 1,273 | 0 |
 | 2024-01-02 | 1,309 | 0 |
-| 2024-01-03 | 1,325 | 0 |
+| 2024-01-03 | 1,326 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

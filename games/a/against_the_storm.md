@@ -1,7 +1,7 @@
 # Against the Storm
 [Store](https://store.epicgames.com/en-US/p/against-the-storm)  
 [View Rawdata](../../db/a/against_the_storm.json)  
-Rating: 4.82 (Ranked 69)  
+Rating: 4.82 (Ranked 70)  
 Number of Ratings: 1,845  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -31,16 +31,16 @@ Number of Ratings: 1,845  (23.09.2022)
 | A Real Challenge | 3.00% | ~601 |
 | Trade Baron | 3.00% | ~601 |
 | Untamed Wilds | 3.00% | ~601 |
-| Against All Odds | 2.00% | ~400 |
-| Bandit Camp | 2.00% | ~400 |
-| Barren Lands | 2.00% | ~400 |
-| Ancient Battleground | 2.00% | ~400 |
-| Sparkdew Crystals | 2.00% | ~400 |
-| Haunted Forest | 2.00% | ~400 |
-| Flooded Mines | 2.00% | ~400 |
-| Statue of the Forefathers | 2.00% | ~400 |
-| Corrosive Torrent | 2.00% | ~400 |
-| Cursed Lands | 2.00% | ~400 |
+| Against All Odds | 2.00% | ~401 |
+| Bandit Camp | 2.00% | ~401 |
+| Barren Lands | 2.00% | ~401 |
+| Ancient Battleground | 2.00% | ~401 |
+| Sparkdew Crystals | 2.00% | ~401 |
+| Haunted Forest | 2.00% | ~401 |
+| Flooded Mines | 2.00% | ~401 |
+| Statue of the Forefathers | 2.00% | ~401 |
+| Corrosive Torrent | 2.00% | ~401 |
+| Cursed Lands | 2.00% | ~401 |
 | Serving Ale | 1.00% | ~200 |
 | Efficient Explorer | 1.00% | ~200 |
 | Refinery | 1.00% | ~200 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,025 (Ranked 152)  
+Progressed: 20,028 (Ranked 152)  
 Completed: 33 (0.16%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,15 +324,15 @@ Completed: 33 (0.16%) (Ranked 282)
 | 2023-12-31 | 19,834 | 34 |
 | 2024-01-01 | 19,919 | 33 |
 | 2024-01-02 | 19,991 | 33 |
-| 2024-01-03 | 20,025 | 33 |
+| 2024-01-03 | 20,028 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 447  (Ranked 230)  
-Sum: 3,320 (Ranked 178)  
-Diff (max vs sum): 52  
+Sum: 3,322 (Ranked 176)  
+Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 447 |
-| This game is Relaxing | 444 |
+| This game is Relaxing | 446 |
 | This game is Great for Beginners | 437 |
 | This game is Extremely Fun | 416 |
 | This game is Highly Recommended | 400 |
@@ -617,3 +617,4 @@ Diff (max vs sum): 52
 | 2023-12-31 | 4.82 | - | 447 | 3,312 |
 | 2024-01-01 | 4.82 | - | 447 | 3,317 |
 | 2024-01-02 | 4.82 | - | 447 | 3,320 |
+| 2024-01-03 | 4.82 | - | 447 | 3,322 |

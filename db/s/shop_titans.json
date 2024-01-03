@@ -7963,9 +7963,9 @@
       "Count": 3810
     }
   ],
-  "EOS_Progressed": 149163,
+  "EOS_Progressed": 149169,
   "EOS_Completed": 341,
-  "EOS_NewPlayers": 1228,
+  "EOS_NewPlayers": 1220,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -35163,6 +35163,11 @@
       "Time": "2024-01-03T14:08:01.7042961+00:00",
       "NumProgressed": 149163,
       "NumCompleted": 341
+    },
+    {
+      "Time": "2024-01-03T15:08:29.5759192+00:00",
+      "NumProgressed": 149169,
+      "NumCompleted": 341
     }
   ],
   "TotalAchievements": 112,
@@ -35342,7 +35347,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 14916
+      "UsersEstimate": 14917
     },
     {
       "ID": "chest02",
@@ -35438,7 +35443,7 @@
       "Name": "Disintermediation",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10441
+      "UsersEstimate": 10442
     },
     {
       "ID": "craft02",
@@ -35862,7 +35867,7 @@
       "Name": "The Greatest Grind",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1342
+      "UsersEstimate": 1343
     },
     {
       "ID": "masterpiece",
@@ -35870,7 +35875,7 @@
       "Name": "All or Nothing!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1342
+      "UsersEstimate": 1343
     },
     {
       "ID": "polonia_a",
@@ -35950,7 +35955,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10441
+      "UsersEstimate": 10442
     },
     {
       "ID": "sell02",
@@ -35990,7 +35995,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 14916
+      "UsersEstimate": 14917
     },
     {
       "ID": "twinenchant01",
@@ -36069,15 +36074,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 149163,
+      "Progressed": 149169,
       "Completed": 341
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-03T13:07:31.7393109+00:00",
-  "LastChanged_Achievements": "2024-01-03T14:08:01.7042957+00:00",
+  "LastChanged_Achievements": "2024-01-03T15:08:29.5759187+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.6407181+00:00",
-  "LastUpdate_Ratings": "2024-01-03T14:03:18.3903335+00:00",
-  "LastUpdate_Achievements": "2024-01-03T14:08:01.7045196+00:00"
+  "LastUpdate_Ratings": "2024-01-03T15:03:43.8480825+00:00",
+  "LastUpdate_Achievements": "2024-01-03T15:08:29.5761877+00:00"
 }

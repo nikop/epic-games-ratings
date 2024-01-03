@@ -21,6 +21,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens | 0.80% | ~129 |
 | Oracle | 0.80% | ~129 |
 | Trade Caravan | 0.80% | ~129 |
+| Ambitious | 0.70% | ~113 |
 | Glorious | 0.70% | ~113 |
 | Just | 0.70% | ~113 |
 | Keystone | 0.70% | ~113 |
@@ -29,28 +30,27 @@ Number of Ratings: 1,307  (23.09.2022)
 | Judaism | 0.70% | ~113 |
 | Greek Paganism | 0.70% | ~113 |
 | Naming Landmarks | 0.70% | ~113 |
-| Ambitious | 0.60% | ~97 |
 | Brilliant | 0.60% | ~97 |
 | Enlightened | 0.60% | ~97 |
 | Fountainhead | 0.60% | ~97 |
+| Magnificent | 0.60% | ~97 |
 | Warrior | 0.60% | ~97 |
 | Strong Cities | 0.60% | ~97 |
+| Ishtar Gate | 0.60% | ~97 |
 | Pyramids | 0.60% | ~97 |
 | Learn to Play 1 | 0.60% | ~97 |
 | Christianity | 0.60% | ~97 |
 | Babylonian Paganism | 0.60% | ~97 |
-| Regicide | 0.50% | ~80 |
-| Magnificent | 0.50% | ~80 |
-| Wise | 0.50% | ~80 |
-| Able Difficulty | 0.50% | ~80 |
-| Furious Family | 0.50% | ~80 |
-| Apadana | 0.50% | ~80 |
-| Great Ziggurat | 0.50% | ~80 |
-| Ishtar Gate | 0.50% | ~80 |
-| Lighthouse | 0.50% | ~80 |
-| Carthaginian Paganism | 0.50% | ~80 |
-| Roman Paganism | 0.50% | ~80 |
-| Zoroastrianism | 0.50% | ~80 |
+| Roman Paganism | 0.60% | ~97 |
+| Regicide | 0.50% | ~81 |
+| Wise | 0.50% | ~81 |
+| Able Difficulty | 0.50% | ~81 |
+| Furious Family | 0.50% | ~81 |
+| Apadana | 0.50% | ~81 |
+| Great Ziggurat | 0.50% | ~81 |
+| Lighthouse | 0.50% | ~81 |
+| Carthaginian Paganism | 0.50% | ~81 |
+| Zoroastrianism | 0.50% | ~81 |
 | Beloved | 0.40% | ~64 |
 | Drillmaster | 0.40% | ~64 |
 | Great | 0.40% | ~64 |
@@ -81,6 +81,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persian Paganism | 0.30% | ~48 |
 | Building Wonders | 0.30% | ~48 |
 | Economic Reform | 0.30% | ~48 |
+| Military Prestige | 0.30% | ~48 |
 | Mythology | 0.30% | ~48 |
 | Points Victory | 0.30% | ~48 |
 | Win a Single Player Game | 0.30% | ~48 |
@@ -109,7 +110,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt | 0.20% | ~32 |
 | Assyrian Paganism | 0.20% | ~32 |
 | Industrial Progress | 0.20% | ~32 |
-| Military Prestige | 0.20% | ~32 |
 | Dualism | 0.20% | ~32 |
 | Enlightenment | 0.20% | ~32 |
 | Gnosticism | 0.20% | ~32 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,100 (Ranked 166)  
+Progressed: 16,102 (Ranked 166)  
 Completed: 5 (0.03%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -623,7 +623,7 @@ Completed: 5 (0.03%) (Ranked 349)
 | 2023-12-31 | 16,053 | 5 |
 | 2024-01-01 | 16,077 | 5 |
 | 2024-01-02 | 16,090 | 5 |
-| 2024-01-03 | 16,100 | 5 |
+| 2024-01-03 | 16,102 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 283)  
 Sum: 1,912 (Ranked 221)  

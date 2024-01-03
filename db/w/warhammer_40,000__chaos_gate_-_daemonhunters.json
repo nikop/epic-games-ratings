@@ -813,9 +813,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3730,
+  "EOS_Progressed": 3731,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5403,6 +5403,11 @@
       "Time": "2024-01-03T13:09:50.4588365+00:00",
       "NumProgressed": 3730,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T15:06:55.3502403+00:00",
+      "NumProgressed": 3731,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -5510,7 +5515,7 @@
       "Name": "Surgical Excision",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -5606,7 +5611,7 @@
       "Name": "Executioner",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "Kills_Exterminator",
@@ -5782,7 +5787,7 @@
       "Name": "A Foul Creche",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "NotAMoteOfCorruption",
@@ -5900,9 +5905,9 @@
       "ID": "ExperiencedCulexus",
       "SetID": "2im8phi",
       "Name": "Abomination",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 15
     },
     {
       "ID": "ExperiencedEversor",
@@ -5957,21 +5962,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3730,
+      "Progressed": 3731,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3730,
+      "Progressed": 3731,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-01T18:03:40.84636+00:00",
-  "LastChanged_Achievements": "2024-01-03T14:05:49.3997184+00:00",
+  "LastChanged_Achievements": "2024-01-03T15:06:55.3502398+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:30.5390055+00:00",
-  "LastUpdate_Ratings": "2024-01-03T14:03:15.450929+00:00",
-  "LastUpdate_Achievements": "2024-01-03T14:05:49.3997999+00:00"
+  "LastUpdate_Ratings": "2024-01-03T15:03:39.6144444+00:00",
+  "LastUpdate_Achievements": "2024-01-03T15:06:55.3503396+00:00"
 }

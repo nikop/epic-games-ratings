@@ -5,7 +5,7 @@
   "Ranking_Rating": 545,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 526,
-  "Ranking_EOS_Progress": 391,
+  "Ranking_EOS_Progress": 392,
   "Ranking_EOS_Completed": 243,
   "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 150,
@@ -1546,9 +1546,9 @@
       "ID": "ACH_COMPLETE_ARK01",
       "SetID": "4n84pon",
       "Name": "Cult Following",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 105
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -1586,9 +1586,9 @@
       "ID": "ACH_DISLOCATOR_BOWLING",
       "SetID": "4n84pon",
       "Name": "Ducks in a Row, Fish in a Barrel",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 161
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -1602,9 +1602,9 @@
       "ID": "ACH_ENTER_ALBION",
       "SetID": "4n84pon",
       "Name": "Lie Back and Think of Albion",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 81
+      "UsersEstimate": 84
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
@@ -1835,8 +1835,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-03T11:58:36.9448322+00:00",
-  "LastChanged_Achievements": "2024-01-03T14:09:17.3271774+00:00",
+  "LastChanged_Achievements": "2024-01-03T15:10:01.8607458+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.261947+00:00",
-  "LastUpdate_Ratings": "2024-01-03T13:58:47.0915475+00:00",
-  "LastUpdate_Achievements": "2024-01-03T14:09:17.3272296+00:00"
+  "LastUpdate_Ratings": "2024-01-03T14:59:05.7533742+00:00",
+  "LastUpdate_Achievements": "2024-01-03T15:10:01.8608105+00:00"
 }

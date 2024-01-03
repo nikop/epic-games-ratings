@@ -881,7 +881,7 @@
   ],
   "EOS_Progressed": 2305,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -6589,9 +6589,9 @@
       "ID": "achFirstCargoTransported",
       "SetID": "dgl390n",
       "Name": "First cargo item on board",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 1544
+      "UsersEstimate": 1567
     },
     {
       "ID": "achFirstCargoWaiting",
@@ -6869,8 +6869,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-12-31T16:02:45.7007143+00:00",
-  "LastChanged_Achievements": "2024-01-03T14:09:04.7175038+00:00",
+  "LastChanged_Achievements": "2024-01-03T15:09:46.8181168+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:27.72637+00:00",
-  "LastUpdate_Ratings": "2024-01-03T14:02:56.0468865+00:00",
-  "LastUpdate_Achievements": "2024-01-03T14:09:04.7175718+00:00"
+  "LastUpdate_Ratings": "2024-01-03T15:03:14.0474317+00:00",
+  "LastUpdate_Achievements": "2024-01-03T15:09:46.8181911+00:00"
 }

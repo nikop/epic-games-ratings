@@ -6,7 +6,7 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 18.00% | ~671 |
+| Executioner | 18.00% | ~672 |
 | Look Over There! | 13.00% | ~485 |
 | Not So Fast... | 13.00% | ~485 |
 | Watch Where You Step... | 13.00% | ~485 |
@@ -15,8 +15,8 @@ Number of Ratings: 371  (23.09.2022)
 | Blood for the Blood God! | 8.00% | ~298 |
 | Bloodless | 7.00% | ~261 |
 | Friendly Fire | 6.00% | ~224 |
-| Surgical Excision | 5.00% | ~186 |
-| A Foul Creche | 5.00% | ~186 |
+| Surgical Excision | 5.00% | ~187 |
+| A Foul Creche | 5.00% | ~187 |
 | Honoured Battle-Brother | 4.00% | ~149 |
 | The Emperor Protects | 4.00% | ~149 |
 | Nemesis Master | 4.00% | ~149 |
@@ -48,12 +48,12 @@ Number of Ratings: 371  (23.09.2022)
 | Exercise in Restraint | 0.60% | ~22 |
 | True Mastery | 0.60% | ~22 |
 | Reign of Confusion | 0.50% | ~19 |
+| Abomination | 0.40% | ~15 |
 | Suffer Not the Mutant | 0.40% | ~15 |
 | Blood and Iron | 0.30% | ~11 |
 | Clean Slate | 0.30% | ~11 |
 | Unstable Immaterium | 0.30% | ~11 |
 | Warp Flickers | 0.30% | ~11 |
-| Abomination | 0.30% | ~11 |
 | Killing Rampage | 0.30% | ~11 |
 | Deadshot | 0.30% | ~11 |
 | The Flesh is Weak | 0.20% | ~7 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.10% | ~4 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,730 (Ranked 216)  
+Progressed: 3,731 (Ranked 216)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-31 | 3,685 | 0 |
 | 2024-01-01 | 3,707 | 0 |
 | 2024-01-02 | 3,720 | 0 |
-| 2024-01-03 | 3,730 | 0 |
+| 2024-01-03 | 3,731 | 0 |
 ## Awards
 Max (Character Customization): 232  (Ranked 282)  
 Sum: 494 (Ranked 335)  

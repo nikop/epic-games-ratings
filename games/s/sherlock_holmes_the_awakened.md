@@ -17,9 +17,9 @@ Rating: 4.50 (Ranked 612)
 | Sticky Fingers | 44.00% | ~610 |
 | Gaze Into The Abyss | 43.00% | ~596 |
 | Knives Out | 43.00% | ~596 |
+| Land, Ho! | 43.00% | ~596 |
 | Lock, Stock, And Barrel | 42.00% | ~582 |
 | Back In The Saddle | 42.00% | ~582 |
-| Land, Ho! | 42.00% | ~582 |
 | No Man Is An Island | 41.00% | ~568 |
 | At Wits' End | 40.00% | ~554 |
 | Fhtagn! | 39.00% | ~541 |

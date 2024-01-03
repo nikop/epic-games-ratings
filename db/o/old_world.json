@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 221,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 349,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2208,9 +2208,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16100,
+  "EOS_Progressed": 16102,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18858,6 +18858,11 @@
       "Time": "2024-01-03T13:14:30.3819607+00:00",
       "NumProgressed": 16100,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-03T15:11:22.5137799+00:00",
+      "NumProgressed": 16102,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -18917,7 +18922,7 @@
       "Name": "Regicide",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ACHIEVEMENT_ASSASSINATED_BY_HEIR",
@@ -19203,9 +19208,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_AMBITIOUS",
       "SetID": "9201eeb",
       "Name": "Ambitious",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 113
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_ANCIENT",
@@ -19411,9 +19416,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_MAGNIFICENT",
       "SetID": "7l38kb8",
       "Name": "Magnificent",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 80
+      "UsersEstimate": 97
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MASON",
@@ -19549,7 +19554,7 @@
       "Name": "Wise",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ACHIEVEMENT_COUNCIL_OF_MADNESS",
@@ -19605,7 +19610,7 @@
       "Name": "Able Difficulty",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_GLORIOUS",
@@ -19789,7 +19794,7 @@
       "Name": "Furious Family",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ACHIEVEMENT_FERTILE_CRESCENT",
@@ -20197,7 +20202,7 @@
       "Name": "Apadana",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_CIRCUS_MAXIMUS",
@@ -20221,7 +20226,7 @@
       "Name": "Great Ziggurat",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HAGIA_SOPHIA",
@@ -20275,9 +20280,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_ISHTAR_GATE",
       "SetID": "9201eeb",
       "Name": "Ishtar Gate",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 97
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_LIGHTHOUSE",
@@ -20285,7 +20290,7 @@
       "Name": "Lighthouse",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_MAUSOLEUM",
@@ -20685,7 +20690,7 @@
       "Name": "Carthaginian Paganism",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_EGYPT",
@@ -20723,9 +20728,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_ROME",
       "SetID": "7l38kb8",
       "Name": "Roman Paganism",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 97
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_ZOROASTRIANISM",
@@ -20733,7 +20738,7 @@
       "Name": "Zoroastrianism",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ACHIEVEMENT_RHODES_COLOSSUS",
@@ -20819,9 +20824,9 @@
       "ID": "ACHIEVEMENT_TECH_MILITARY_PRESTIGE",
       "SetID": "9201eeb",
       "Name": "Military Prestige",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_DUALISM",
@@ -21732,21 +21737,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16100,
+      "Progressed": 16102,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16100,
+      "Progressed": 16102,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-29T16:02:55.9624641+00:00",
-  "LastChanged_Achievements": "2024-01-03T14:10:24.5617162+00:00",
+  "LastChanged_Achievements": "2024-01-03T15:11:22.5137795+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:24.5452657+00:00",
-  "LastUpdate_Ratings": "2024-01-03T13:58:14.3257446+00:00",
-  "LastUpdate_Achievements": "2024-01-03T14:10:24.5627267+00:00"
+  "LastUpdate_Ratings": "2024-01-03T14:58:22.7916981+00:00",
+  "LastUpdate_Achievements": "2024-01-03T15:11:22.5148341+00:00"
 }

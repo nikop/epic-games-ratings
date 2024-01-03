@@ -717,9 +717,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6768,
+  "EOS_Progressed": 6773,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 447,
+  "EOS_NewPlayers": 446,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10232,6 +10232,11 @@
       "Time": "2024-01-03T14:08:24.8972876+00:00",
       "NumProgressed": 6768,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-03T15:08:57.7395081+00:00",
+      "NumProgressed": 6773,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10243,7 +10248,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "10",
@@ -10355,7 +10360,7 @@
       "Name": "Realm Estate",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 812
+      "UsersEstimate": 813
     },
     {
       "ID": "23",
@@ -10363,7 +10368,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "24",
@@ -10379,7 +10384,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "26",
@@ -10387,7 +10392,7 @@
       "Name": "Bone Peddler",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "27",
@@ -10459,7 +10464,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "35",
@@ -10515,7 +10520,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "41",
@@ -10707,7 +10712,7 @@
       "Name": "But this one is mine",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "60",
@@ -10722,13 +10727,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6768,
+      "Progressed": 6773,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6768,
+      "Progressed": 6773,
       "Completed": 7
     }
   ],
@@ -10736,8 +10741,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-03T13:04:27.6429549+00:00",
-  "LastChanged_Achievements": "2024-01-03T14:08:24.8972872+00:00",
+  "LastChanged_Achievements": "2024-01-03T15:08:57.7395076+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-03T14:00:45.4541563+00:00",
-  "LastUpdate_Achievements": "2024-01-03T14:08:24.8973752+00:00"
+  "LastUpdate_Ratings": "2024-01-03T15:01:33.499714+00:00",
+  "LastUpdate_Achievements": "2024-01-03T15:08:57.7396103+00:00"
 }

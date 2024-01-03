@@ -7,28 +7,28 @@ Number of Ratings: 756  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Ball Launched | 2.00% | ~5,810 |
-| I Found it! | 0.90% | ~2,614 |
+| I Found it! | 0.90% | ~2,615 |
 | Ready Steady Score | 0.40% | ~1,162 |
 | First but not Last | 0.20% | ~581 |
 | Full Loot Madness | 0.20% | ~581 |
-| Contender | 0.10% | ~290 |
-| My Table, my Rules | 0.10% | ~290 |
-| Collect Them All | 0.10% | ~290 |
-| Shiny Memento | 0.10% | ~290 |
-| Table Mastered, part 10 | 0.10% | ~290 |
-| Medal Hunter | 0.10% | ~290 |
-| Medal Wizard | 0.10% | ~290 |
-| Pinball Hoarder | 0.10% | ~290 |
-| Virtual Pinball Museum | 0.10% | ~290 |
-| Nine Zeroes | 0.10% | ~290 |
-| Challenge Accepted! | 0.10% | ~290 |
-| Relic Hunter | 0.10% | ~290 |
-| Interior Designer | 0.10% | ~290 |
-| Show Them | 0.10% | ~290 |
-| Totally Furnished | 0.10% | ~290 |
-| Dress Code | 0.10% | ~290 |
-| Customizer | 0.10% | ~290 |
-| I know the Rules | 0.10% | ~290 |
+| Contender | 0.10% | ~291 |
+| My Table, my Rules | 0.10% | ~291 |
+| Collect Them All | 0.10% | ~291 |
+| Shiny Memento | 0.10% | ~291 |
+| Table Mastered, part 10 | 0.10% | ~291 |
+| Medal Hunter | 0.10% | ~291 |
+| Medal Wizard | 0.10% | ~291 |
+| Pinball Hoarder | 0.10% | ~291 |
+| Virtual Pinball Museum | 0.10% | ~291 |
+| Nine Zeroes | 0.10% | ~291 |
+| Challenge Accepted! | 0.10% | ~291 |
+| Relic Hunter | 0.10% | ~291 |
+| Interior Designer | 0.10% | ~291 |
+| Show Them | 0.10% | ~291 |
+| Totally Furnished | 0.10% | ~291 |
+| Dress Code | 0.10% | ~291 |
+| Customizer | 0.10% | ~291 |
+| I know the Rules | 0.10% | ~291 |
 | Catomic Bomb | 0.10% | ~9 |
 | Terraformer | 0.10% | ~9 |
 | The Captain | 0.10% | ~9 |
@@ -46,7 +46,7 @@ Number of Ratings: 756  (23.09.2022)
 | The most beautiful Christmas | 0.00% | ~0 |
 | End of Gloom | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,495 (Ranked 63)  
+Progressed: 290,520 (Ranked 63)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-31 | 289,544 | 0 |
 | 2024-01-01 | 289,963 | 0 |
 | 2024-01-02 | 290,342 | 0 |
-| 2024-01-03 | 290,495 | 0 |
+| 2024-01-03 | 290,520 | 0 |
 ## Awards
 Max (Great for Beginners): 213  (Ranked 291)  
 Sum: 1,635 (Ranked 231)  

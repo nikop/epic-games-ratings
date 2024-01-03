@@ -3,11 +3,11 @@
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
   "Ranking_Rating": 17,
-  "Ranking_Popularity": 389,
-  "Ranking_PopularitySum": 472,
+  "Ranking_Popularity": 388,
+  "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -257,18 +257,24 @@
       "Rating": 4.88,
       "NumberOfAwards": 92,
       "NumberOfAwardsMax": 92
+    },
+    {
+      "Time": "2024-01-03T15:00:44.4057347+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 93,
+      "NumberOfAwardsMax": 93
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 92,
-  "NumberOfAwardsMax": 92,
+  "NumberOfAwards": 93,
+  "NumberOfAwardsMax": 93,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 92
+      "Count": 93
     }
   ],
   "EOS_Progressed": 1246,
@@ -3750,9 +3756,9 @@
       "ID": "Persistent",
       "SetID": "1n308hc",
       "Name": "Persistent",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 199
+      "UsersEstimate": 212
     },
     {
       "ID": "PrometheusUnbound",
@@ -3774,9 +3780,9 @@
       "ID": "RemnantsOfThePast",
       "SetID": "1n308hc",
       "Name": "Remnants of the Past",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 374
+      "UsersEstimate": 386
     },
     {
       "ID": "RenaissanceRobot",
@@ -3966,9 +3972,9 @@
   "FirstSeen": "2023-11-03T01:41:58.8670455+00:00",
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
-  "LastChanged": "2024-01-03T01:45:19.9316925+00:00",
-  "LastChanged_Achievements": "2024-01-03T14:04:12.0185598+00:00",
+  "LastChanged": "2024-01-03T15:00:44.4057345+00:00",
+  "LastChanged_Achievements": "2024-01-03T15:04:53.979305+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.9244138+00:00",
-  "LastUpdate_Ratings": "2024-01-03T14:00:04.123407+00:00",
-  "LastUpdate_Achievements": "2024-01-03T14:04:12.0186391+00:00"
+  "LastUpdate_Ratings": "2024-01-03T15:00:44.405735+00:00",
+  "LastUpdate_Achievements": "2024-01-03T15:04:53.9793582+00:00"
 }

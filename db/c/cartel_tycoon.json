@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -301,7 +301,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 922,
+  "EOS_Progressed": 923,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
@@ -3276,6 +3276,11 @@
       "Time": "2024-01-03T14:03:42.1259493+00:00",
       "NumProgressed": 922,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-03T15:04:16.7039688+00:00",
+      "NumProgressed": 923,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3303,7 +3308,7 @@
       "Name": "Architect of Fortunes",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "dont-miss-calls",
@@ -3311,7 +3316,7 @@
       "Name": "Didn\u0027t Miss A Single One",
       "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "female-conqueror",
@@ -3327,7 +3332,7 @@
       "Name": "That was base",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "hire-lieutenant",
@@ -3335,7 +3340,7 @@
       "Name": "Our Man",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "kill-lieutenants",
@@ -3351,7 +3356,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "play-at-night",
@@ -3399,7 +3404,7 @@
       "Name": "Spread",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "send-smuggling",
@@ -3421,9 +3426,9 @@
       "ID": "upgrade-building",
       "SetID": "bed33dd",
       "Name": "Take-Off",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 738
+      "UsersEstimate": 729
     },
     {
       "ID": "use-submarine",
@@ -3438,15 +3443,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 922,
+      "Progressed": 923,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-23T10:57:58.3271618+00:00",
-  "LastChanged_Achievements": "2024-01-03T14:03:42.1259488+00:00",
+  "LastChanged_Achievements": "2024-01-03T15:04:16.7039683+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:28.1140989+00:00",
-  "LastUpdate_Ratings": "2024-01-03T14:02:54.8965212+00:00",
-  "LastUpdate_Achievements": "2024-01-03T14:03:42.1259745+00:00"
+  "LastUpdate_Ratings": "2024-01-03T15:03:12.6206981+00:00",
+  "LastUpdate_Achievements": "2024-01-03T15:04:16.7039976+00:00"
 }

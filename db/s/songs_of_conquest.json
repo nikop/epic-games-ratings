@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -450,7 +450,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 952,
+  "EOS_Progressed": 955,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
@@ -3410,6 +3410,11 @@
       "Time": "2024-01-03T13:13:25.9131319+00:00",
       "NumProgressed": 952,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T15:09:57.8908435+00:00",
+      "NumProgressed": 955,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3526,7 +3531,7 @@
       "Name": "Critical Hit",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "Deepstrike",
@@ -3564,9 +3569,9 @@
       "ID": "DoubleKill",
       "SetID": "71c0n9i",
       "Name": "Double Kill",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 381
+      "UsersEstimate": 372
     },
     {
       "ID": "FlameAttackKillCount",
@@ -3724,9 +3729,9 @@
       "ID": "TownCompletion",
       "SetID": "71c0n9i",
       "Name": "Landlord Extraordinaire",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 57
     },
     {
       "ID": "TrojanHorse",
@@ -3750,7 +3755,7 @@
       "Name": "Adept",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "WielderLevel2",
@@ -3758,7 +3763,7 @@
       "Name": "Veteran",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "WielderLevel3",
@@ -3806,7 +3811,7 @@
       "Name": "Veni, Vidi, Vici",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "WinSiegeAsDefender",
@@ -3853,15 +3858,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 952,
+      "Progressed": 955,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2024-01-03T14:09:13.7549517+00:00",
+  "LastChanged_Achievements": "2024-01-03T15:09:57.8908426+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:53.9356991+00:00",
-  "LastUpdate_Ratings": "2024-01-03T13:58:06.0320182+00:00",
-  "LastUpdate_Achievements": "2024-01-03T14:09:13.7550132+00:00"
+  "LastUpdate_Ratings": "2024-01-03T14:58:11.2305929+00:00",
+  "LastUpdate_Achievements": "2024-01-03T15:09:57.8909338+00:00"
 }

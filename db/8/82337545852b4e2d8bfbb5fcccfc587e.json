@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 145,
+  "EOS_Progressed": 146,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.28,
+  "EOS_Completed_Percentage": 8.22,
   "EosHistory": [
     {
       "Time": "2023-08-23T04:02:11.6245776+00:00",
@@ -774,6 +774,11 @@
       "Time": "2024-01-03T12:09:17.7615936+00:00",
       "NumProgressed": 145,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-03T15:09:49.7654036+00:00",
+      "NumProgressed": 146,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-08-23T04:02:11.6262951+00:00",
@@ -794,7 +799,7 @@
       "Name": "Counting Sheep",
       "Percentage": 86,
       "XP": 70,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "EpicACHV_11",
@@ -802,7 +807,7 @@
       "Name": "Dead or Deer",
       "Percentage": 43,
       "XP": 70,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "EpicACHV_12",
@@ -810,7 +815,7 @@
       "Name": "God Disguised as a Cow",
       "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "EpicACHV_13",
@@ -818,7 +823,7 @@
       "Name": "Kept You Waiting?",
       "Percentage": 72,
       "XP": 70,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "EpicACHV_14",
@@ -832,25 +837,25 @@
       "ID": "EpicACHV_15",
       "SetID": "acn799d",
       "Name": "The Divine Move",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "EpicACHV_16",
       "SetID": "acn799d",
       "Name": "Genius",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "EpicACHV_17",
       "SetID": "acn799d",
       "Name": "100% BEEF",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "EpicACHV_2",
@@ -858,7 +863,7 @@
       "Name": "Self-sacrifice",
       "Percentage": 99,
       "XP": 30,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "EpicACHV_3",
@@ -880,9 +885,9 @@
       "ID": "EpicACHV_5",
       "SetID": "acn799d",
       "Name": "Like a Truck",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 70,
-      "UsersEstimate": 88
+      "UsersEstimate": 91
     },
     {
       "ID": "EpicACHV_6",
@@ -921,14 +926,14 @@
     {
       "ID": "acn799d",
       "IsBase": true,
-      "Progressed": 145,
+      "Progressed": 146,
       "Completed": 12
     }
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2024-01-03T14:09:07.2586098+00:00",
+  "LastChanged_Achievements": "2024-01-03T15:09:49.7654031+00:00",
   "LastUpdate_AppInfo": "2023-12-27T14:57:15.2228488+00:00",
-  "LastUpdate_Ratings": "2024-01-03T13:58:58.7723127+00:00",
-  "LastUpdate_Achievements": "2024-01-03T14:09:07.2586292+00:00"
+  "LastUpdate_Ratings": "2024-01-03T14:59:20.5346034+00:00",
+  "LastUpdate_Achievements": "2024-01-03T15:09:49.7654207+00:00"
 }

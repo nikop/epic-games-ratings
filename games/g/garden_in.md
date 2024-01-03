@@ -6,21 +6,21 @@
 | ---- | ---------- | ----- |
 | A Greener Day | 0.50% | ~1 |
 | A Sad Moment | 0.50% | ~1 |
+| Hands in the Dirt | 0.50% | ~1 |
+| Master Gardener | 0.50% | ~1 |
+| #NewFilter | 0.50% | ~1 |
 | Taking Notes | 0.50% | ~1 |
 | Balcony Optimizer | 0.00% | ~0 |
 | Budding Scientist | 0.00% | ~0 |
 | Dry No More | 0.00% | ~0 |
 | Feet in the Water | 0.00% | ~0 |
 | Food for Insects | 0.00% | ~0 |
-| Hands in the Dirt | 0.00% | ~0 |
 | Head in the Clouds | 0.00% | ~0 |
 | Lab-Room | 0.00% | ~0 |
 | Landlord | 0.00% | ~0 |
 | Leave My Baby Alone! | 0.00% | ~0 |
 | Let's Go for a Walk | 0.00% | ~0 |
 | Love and Science | 0.00% | ~0 |
-| Master Gardener | 0.00% | ~0 |
-| #NewFilter | 0.00% | ~0 |
 | Perfectionist | 0.00% | ~0 |
 | Pet Pet Pet | 0.00% | ~0 |
 | Pottery Connoisseur | 0.00% | ~0 |

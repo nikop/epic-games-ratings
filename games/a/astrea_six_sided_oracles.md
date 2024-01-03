@@ -5,35 +5,35 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meissa's Savior | 83.00% | ~256 |
-| Purification Pioneer | 79.00% | ~243 |
-| Mechanical Buddy | 73.00% | ~225 |
-| Dicesmithing Time! | 65.00% | ~200 |
-| Sanctuary Guardian | 56.00% | ~172 |
-| Endless Tricks | 51.00% | ~157 |
+| Purification Pioneer | 79.00% | ~244 |
+| Mechanical Buddy | 73.00% | ~226 |
+| Dicesmithing Time! | 65.00% | ~201 |
+| Sanctuary Guardian | 56.00% | ~173 |
+| Endless Tricks | 51.00% | ~158 |
 | Wild's Keeper | 47.00% | ~145 |
 | Mind Illuminator | 44.00% | ~136 |
 | Stellar Dismantler | 37.00% | ~114 |
 | Noctuan Champion | 35.00% | ~108 |
 | Astral Adventurer | 33.00% | ~102 |
-| Anomaly Destroyer | 31.00% | ~95 |
-| Star Killer | 29.00% | ~89 |
-| Eridanian Champion | 24.00% | ~74 |
+| Anomaly Destroyer | 31.00% | ~96 |
+| Star Killer | 29.00% | ~90 |
+| Eridanian Champion | 25.00% | ~77 |
 | Loyal Partner | 21.00% | ~65 |
 | Lacertian Champion | 21.00% | ~65 |
-| Shard Spender | 19.00% | ~59 |
 | Apian Champion | 19.00% | ~59 |
-| Unbeatable | 18.00% | ~55 |
+| Shard Spender | 18.00% | ~56 |
+| Unbeatable | 18.00% | ~56 |
 | Sadistic Plan | 16.00% | ~49 |
 | Behenian Champion | 14.00% | ~43 |
 | Wave Bender | 10.00% | ~31 |
+| Aquarian Champion | 10.00% | ~31 |
 | Astral Seeker | 9.00% | ~28 |
 | Heavy Purger | 9.00% | ~28 |
-| Aquarian Champion | 9.00% | ~28 |
 | Heart Gate | 8.00% | ~25 |
 | Stellar Haste | 8.00% | ~25 |
 | The Corruption Goddess | 7.00% | ~22 |
 | The Goddes Avatar | 7.00% | ~22 |
-| Favored by the Cosmos | 6.00% | ~18 |
+| Favored by the Cosmos | 6.00% | ~19 |
 | Anomaly Control | 5.00% | ~15 |
 | Artificer | 5.00% | ~15 |
 | Can't touch this | 5.00% | ~15 |
@@ -73,11 +73,11 @@
 | Astrium Specialist | 0.60% | ~2 |
 | Plague Doctor | 0.60% | ~2 |
 | Six-Sided Mastery | 0.60% | ~2 |
+| The world goes round... | 0.60% | ~2 |
 | This is Fine | 0.60% | ~2 |
 | Arch-Oracle | 0.30% | ~1 |
 | Dice Specialist | 0.30% | ~1 |
 | Gotta tinker'em all! | 0.30% | ~1 |
-| The world goes round... | 0.30% | ~1 |
 | Virtuous Warrior | 0.30% | ~1 |
 | Apian Champion | 0.00% | ~0 |
 | Apian Hero | 0.00% | ~0 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 308 (Ranked 388)  
+Progressed: 309 (Ranked 387)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,4 +172,4 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-31 | 285 | 0 |
 | 2024-01-01 | 294 | 0 |
 | 2024-01-02 | 303 | 0 |
-| 2024-01-03 | 308 | 0 |
+| 2024-01-03 | 309 | 0 |

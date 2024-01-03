@@ -4,7 +4,7 @@
   "ProductSlug": "filthy-animals-f6c65c",
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-04-04T17:30:00+00:00",
@@ -33,7 +33,7 @@
   "Tags": [],
   "EOS_Progressed": 8786,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7688,8 +7688,8 @@
   "FirstSeenRating": "2023-04-05T14:58:37.7953176+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.1467348+00:00",
   "LastChanged": "2023-04-05T14:58:37.7953178+00:00",
-  "LastChanged_Achievements": "2024-01-03T14:08:06.360389+00:00",
+  "LastChanged_Achievements": "2024-01-03T15:08:35.113206+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:21.8940717+00:00",
-  "LastUpdate_Ratings": "2024-01-03T13:58:51.0077025+00:00",
-  "LastUpdate_Achievements": "2024-01-03T14:08:06.3604447+00:00"
+  "LastUpdate_Ratings": "2024-01-03T14:59:10.8596485+00:00",
+  "LastUpdate_Achievements": "2024-01-03T15:08:35.1132578+00:00"
 }
