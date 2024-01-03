@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 483,
+  "EOS_Progressed": 484,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
@@ -1550,6 +1550,11 @@
       "Time": "2024-01-02T22:05:41.6610718+00:00",
       "NumProgressed": 483,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T06:05:38.3771871+00:00",
+      "NumProgressed": 484,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1641,7 +1646,7 @@
       "Name": "Decorator\u0027s Touch",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ach_buzz",
@@ -1697,7 +1702,7 @@
       "Name": "Need a Consult",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ach_consultant_1",
@@ -1705,7 +1710,7 @@
       "Name": "Upgrade Unlock",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ach_consultants_a",
@@ -1713,7 +1718,7 @@
       "Name": "Aestheticly Pleased",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ach_consultants_b",
@@ -1737,7 +1742,7 @@
       "Name": "Office Bigwigs",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ach_contracts_2",
@@ -1833,7 +1838,7 @@
       "Name": "Three of a Kind",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ach_ep1_reviews_2",
@@ -1929,7 +1934,7 @@
       "Name": "Don\u0027t Feel a Loan",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ach_mod_1",
@@ -1961,7 +1966,7 @@
       "Name": "It\u0027s Technical",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ach_office_2",
@@ -2009,7 +2014,7 @@
       "Name": "Established Fame",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ach_prestige_3",
@@ -2025,7 +2030,7 @@
       "Name": "In the Black",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ach_profit_1",
@@ -2033,7 +2038,7 @@
       "Name": "Swimming in Surplus",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ach_profit_2",
@@ -2065,7 +2070,7 @@
       "Name": "Refined Palates",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ach_restaurants_2",
@@ -2105,7 +2110,7 @@
       "Name": "Retail Revenue",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ach_retail_2",
@@ -2264,7 +2269,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 483,
+      "Progressed": 484,
       "Completed": 0
     }
   ],
@@ -2272,8 +2277,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2024-01-03T05:05:38.8871335+00:00",
+  "LastChanged_Achievements": "2024-01-03T06:05:38.3771867+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.6325323+00:00",
-  "LastUpdate_Ratings": "2024-01-03T04:58:38.6066487+00:00",
-  "LastUpdate_Achievements": "2024-01-03T05:05:38.8872053+00:00"
+  "LastUpdate_Ratings": "2024-01-03T05:58:35.1671966+00:00",
+  "LastUpdate_Achievements": "2024-01-03T06:05:38.3772659+00:00"
 }

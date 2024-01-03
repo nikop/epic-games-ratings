@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 82.00% | ~251 |
+| Meissa's Savior | 83.00% | ~254 |
 | Purification Pioneer | 78.00% | ~239 |
 | Mechanical Buddy | 73.00% | ~223 |
-| Dicesmithing Time! | 64.00% | ~196 |
-| Sanctuary Guardian | 55.00% | ~168 |
-| Endless Tricks | 50.00% | ~153 |
+| Dicesmithing Time! | 65.00% | ~199 |
+| Sanctuary Guardian | 56.00% | ~171 |
+| Endless Tricks | 51.00% | ~156 |
 | Wild's Keeper | 47.00% | ~144 |
-| Mind Illuminator | 43.00% | ~132 |
+| Mind Illuminator | 44.00% | ~135 |
 | Stellar Dismantler | 37.00% | ~113 |
 | Noctuan Champion | 35.00% | ~107 |
 | Astral Adventurer | 33.00% | ~101 |
@@ -37,12 +37,12 @@
 | Anomaly Control | 5.00% | ~15 |
 | Artificer | 5.00% | ~15 |
 | Can't touch this | 5.00% | ~15 |
+| Prestidigitation | 5.00% | ~15 |
 | The Dark Moon | 5.00% | ~15 |
 | Apian Hero | 5.00% | ~15 |
 | Astrarium of Holding | 4.00% | ~12 |
 | Denying Destiny | 4.00% | ~12 |
 | If I Had Failed... | 4.00% | ~12 |
-| Prestidigitation | 4.00% | ~12 |
 | The Chaos Artisan | 4.00% | ~12 |
 | Behenian Hero | 4.00% | ~12 |
 | Lacertian Hero | 4.00% | ~12 |

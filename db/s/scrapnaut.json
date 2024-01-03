@@ -3,11 +3,11 @@
   "Name": "Scrapnaut",
   "ProductSlug": "scrapnaut",
   "Ranking_Rating": 876,
-  "Ranking_Popularity": 577,
-  "Ranking_PopularitySum": 577,
+  "Ranking_Popularity": 578,
+  "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewPlayers": 292,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -2178,9 +2178,9 @@
       "ID": "ACH_COLLECT_50_SCRAP",
       "SetID": "7c4cldc",
       "Name": "Scrap Gatherer",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 328
+      "UsersEstimate": 334
     },
     {
       "ID": "ACH_COOK",
@@ -2347,8 +2347,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2024-01-03T05:09:13.6819493+00:00",
+  "LastChanged_Achievements": "2024-01-03T06:09:20.4273145+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:09.8569887+00:00",
-  "LastUpdate_Ratings": "2024-01-03T04:57:53.9694141+00:00",
-  "LastUpdate_Achievements": "2024-01-03T05:09:13.6819806+00:00"
+  "LastUpdate_Ratings": "2024-01-03T05:57:54.0578385+00:00",
+  "LastUpdate_Achievements": "2024-01-03T06:09:20.4273615+00:00"
 }

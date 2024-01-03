@@ -3,8 +3,8 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_Rating": 30,
-  "Ranking_Popularity": 577,
-  "Ranking_PopularitySum": 577,
+  "Ranking_Popularity": 578,
+  "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 65,
   "Ranking_EOS_NewPlayers": 164,
@@ -103,11 +103,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2253,
-  "EOS_Completed": 141,
-  "EOS_NewPlayers": 393,
-  "EOS_NewCompleters": 30,
-  "EOS_Completed_Percentage": 6.26,
+  "EOS_Progressed": 2254,
+  "EOS_Completed": 142,
+  "EOS_NewPlayers": 391,
+  "EOS_NewCompleters": 31,
+  "EOS_Completed_Percentage": 6.3,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -6168,6 +6168,11 @@
       "Time": "2024-01-03T03:04:13.3896645+00:00",
       "NumProgressed": 2253,
       "NumCompleted": 141
+    },
+    {
+      "Time": "2024-01-03T06:03:52.2961702+00:00",
+      "NumProgressed": 2254,
+      "NumCompleted": 142
     }
   ],
   "TotalAchievements": 25,
@@ -6179,7 +6184,7 @@
       "Name": "I did it",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "END_GOOD",
@@ -6203,15 +6208,15 @@
       "Name": "Cable guy",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 631
+      "UsersEstimate": 654
     },
     {
       "ID": "META_HALF_LINK",
@@ -6219,7 +6224,7 @@
       "Name": "Half the way",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "META_RESULT_1-2",
@@ -6233,9 +6238,9 @@
       "ID": "META_RESULT_1-3",
       "SetID": "2gma9an",
       "Name": "Free at last",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 383
+      "UsersEstimate": 406
     },
     {
       "ID": "META_RESULT_1-4",
@@ -6283,7 +6288,7 @@
       "Name": "Rascal",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -6291,7 +6296,7 @@
       "Name": "True G3M4R",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -6299,7 +6304,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -6313,9 +6318,9 @@
       "ID": "PROGRESS_ALL_RUNES",
       "SetID": "2gma9an",
       "Name": "Champollion",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 518
+      "UsersEstimate": 541
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -6331,7 +6336,7 @@
       "Name": "Scholar",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "PROGRESS_N1",
@@ -6347,7 +6352,7 @@
       "Name": "The great escape",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "PROGRESS_N3",
@@ -6378,16 +6383,16 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2253,
-      "Completed": 141
+      "Progressed": 2254,
+      "Completed": 142
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-02T16:02:46.9551572+00:00",
-  "LastChanged_Achievements": "2024-01-03T05:03:50.1342518+00:00",
+  "LastChanged_Achievements": "2024-01-03T06:03:52.2961698+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:09.4320521+00:00",
-  "LastUpdate_Ratings": "2024-01-03T05:02:37.1104718+00:00",
-  "LastUpdate_Achievements": "2024-01-03T05:03:50.1343325+00:00"
+  "LastUpdate_Ratings": "2024-01-03T06:02:44.5182303+00:00",
+  "LastUpdate_Achievements": "2024-01-03T06:03:52.2962112+00:00"
 }

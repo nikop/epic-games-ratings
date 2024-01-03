@@ -273,9 +273,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 2125,
+  "EOS_Progressed": 2126,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 298,
+  "EOS_NewPlayers": 297,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5008,6 +5008,11 @@
       "Time": "2024-01-03T05:08:15.79202+00:00",
       "NumProgressed": 2125,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T06:08:26.9365926+00:00",
+      "NumProgressed": 2126,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -5028,7 +5033,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 1891
+      "UsersEstimate": 1892
     },
     {
       "ID": "AC02",
@@ -5036,7 +5041,7 @@
       "Name": "Blood and Dust",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 1360
+      "UsersEstimate": 1361
     },
     {
       "ID": "AC03",
@@ -5052,7 +5057,7 @@
       "Name": "Blood and Iron",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 1232
+      "UsersEstimate": 1233
     },
     {
       "ID": "AC05",
@@ -5068,7 +5073,7 @@
       "Name": "The Last Ascension",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 1041
+      "UsersEstimate": 1042
     },
     {
       "ID": "AC07",
@@ -5100,7 +5105,7 @@
       "Name": "The Wait is Over",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "AC11",
@@ -5188,7 +5193,7 @@
       "Name": "No Cherub Left Behind",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "AC22",
@@ -5260,7 +5265,7 @@
       "Name": "The Anointed One",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 1041
+      "UsersEstimate": 1042
     },
     {
       "ID": "AC31",
@@ -5292,7 +5297,7 @@
       "Name": "A Sharp Rendezvous",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "AC35",
@@ -5308,7 +5313,7 @@
       "Name": "Blessed Incense",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "AC37",
@@ -5324,7 +5329,7 @@
       "Name": "Edge of Orison",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "AC39",
@@ -5340,7 +5345,7 @@
       "Name": "Welcome Back!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1636
+      "UsersEstimate": 1637
     },
     {
       "ID": "AC41",
@@ -5348,7 +5353,7 @@
       "Name": "Happy New Year!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "AC42",
@@ -5372,7 +5377,7 @@
       "Name": "This is Blasphemy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "AC45",
@@ -5387,7 +5392,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 2125,
+      "Progressed": 2126,
       "Completed": 0
     }
   ],
@@ -5395,8 +5400,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-02T10:59:36.3957369+00:00",
-  "LastChanged_Achievements": "2024-01-03T05:08:15.7920199+00:00",
+  "LastChanged_Achievements": "2024-01-03T06:08:26.9365921+00:00",
   "LastUpdate_AppInfo": "2024-01-03T03:57:04.3699674+00:00",
-  "LastUpdate_Ratings": "2024-01-03T04:59:50.1002815+00:00",
-  "LastUpdate_Achievements": "2024-01-03T05:08:15.7920708+00:00"
+  "LastUpdate_Ratings": "2024-01-03T05:59:43.8076111+00:00",
+  "LastUpdate_Achievements": "2024-01-03T06:08:26.9366466+00:00"
 }

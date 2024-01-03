@@ -3,10 +3,10 @@
   "Name": "Tchia",
   "ProductSlug": "tchia",
   "Ranking_Rating": 215,
-  "Ranking_Popularity": 577,
-  "Ranking_PopularitySum": 577,
+  "Ranking_Popularity": 578,
+  "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 186,
-  "Ranking_EOS_Completed": 235,
+  "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
@@ -10921,8 +10921,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2024-01-02T06:58:15.4214976+00:00",
-  "LastChanged_Achievements": "2024-01-03T05:08:33.0482159+00:00",
+  "LastChanged_Achievements": "2024-01-03T06:08:43.1809248+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:18.6099916+00:00",
-  "LastUpdate_Ratings": "2024-01-03T04:58:45.9097684+00:00",
-  "LastUpdate_Achievements": "2024-01-03T05:08:33.0482894+00:00"
+  "LastUpdate_Ratings": "2024-01-03T05:58:41.6395472+00:00",
+  "LastUpdate_Achievements": "2024-01-03T06:08:43.1809863+00:00"
 }

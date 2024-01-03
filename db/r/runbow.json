@@ -2,9 +2,9 @@
   "ID": "aa7c3e6b5a2a4ca8962270c15bddb861",
   "Name": "Runbow",
   "ProductSlug": "runbow-fc9fa4",
-  "Ranking_Rating": 673,
-  "Ranking_Popularity": 577,
-  "Ranking_PopularitySum": 577,
+  "Ranking_Rating": 672,
+  "Ranking_Popularity": 578,
+  "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 163,
@@ -182,7 +182,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253015,
+  "EOS_Progressed": 253016,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 395,
   "EOS_NewCompleters": 0,
@@ -23087,6 +23087,11 @@
       "Time": "2024-01-03T05:09:51.0416627+00:00",
       "NumProgressed": 253015,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-03T06:09:55.269352+00:00",
+      "NumProgressed": 253016,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -23402,7 +23407,7 @@
       "Name": "The Stunner",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 58193
+      "UsersEstimate": 58194
     },
     {
       "ID": "thunderstruck",
@@ -23458,14 +23463,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 40482
+      "UsersEstimate": 40483
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253015,
+      "Progressed": 253016,
       "Completed": 6
     }
   ],
@@ -23473,8 +23478,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-03T05:09:51.0416624+00:00",
+  "LastChanged_Achievements": "2024-01-03T06:09:55.2693516+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.9407923+00:00",
-  "LastUpdate_Ratings": "2024-01-03T04:58:41.675246+00:00",
-  "LastUpdate_Achievements": "2024-01-03T05:09:51.0418154+00:00"
+  "LastUpdate_Ratings": "2024-01-03T05:58:37.9069034+00:00",
+  "LastUpdate_Achievements": "2024-01-03T06:09:55.269505+00:00"
 }

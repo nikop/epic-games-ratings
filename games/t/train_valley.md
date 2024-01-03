@@ -1,7 +1,7 @@
 # Train Valley
 [Store](https://store.epicgames.com/en-US/p/train-valley-ead642)  
 [View Rawdata](../../db/t/train_valley.json)  
-Rating: 4.49 (Ranked 633)  
+Rating: 4.49 (Ranked 632)  
 Number of Ratings: 28  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -32,7 +32,7 @@ Number of Ratings: 28  (23.09.2022)
 | Woodcutter | 10.00% | ~62 |
 | Engineer | 10.00% | ~62 |
 | Tycoon | 9.00% | ~56 |
-| Germany | 6.00% | ~37 |
+| Germany | 7.00% | ~44 |
 | Chuck Norris | 5.00% | ~31 |
 | Сhancellor | 4.00% | ~25 |
 | Peacemaker | 4.00% | ~25 |

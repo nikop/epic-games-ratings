@@ -6,20 +6,20 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 71.00% | ~42,915 |
-| I read Shakespeare and stuff | 60.00% | ~36,266 |
+| Own use | 71.00% | ~42,916 |
+| I read Shakespeare and stuff | 60.00% | ~36,267 |
 | Just a sprinkle | 58.00% | ~35,058 |
-| I'm stumped | 57.00% | ~34,453 |
+| I'm stumped | 57.00% | ~34,454 |
 | Plant get enough | 56.00% | ~33,849 |
 | This is just my weekend vehicle | 54.00% | ~32,640 |
 | It's just the beginning | 54.00% | ~32,640 |
 | Hard work pays off | 50.00% | ~30,222 |
-| It's never too late to farm | 46.00% | ~27,804 |
+| It's never too late to farm | 46.00% | ~27,805 |
 | All out of Land | 41.00% | ~24,782 |
 | Field Trip | 40.00% | ~24,178 |
-| I like to switch it up | 37.00% | ~22,364 |
-| Help me to help you | 35.00% | ~21,155 |
-| Ultimutt Pawesomeness | 26.00% | ~15,715 |
+| I like to switch it up | 37.00% | ~22,365 |
+| Help me to help you | 35.00% | ~21,156 |
+| Ultimutt Pawesomeness | 26.00% | ~15,716 |
 | Van Gogh | 23.00% | ~13,902 |
 | Vehicle fleet | 21.00% | ~12,693 |
 | You wood not believe it | 20.00% | ~12,089 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~242 |
 | Raisin the stakes | 0.30% | ~181 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,444 (Ranked 118)  
+Progressed: 60,445 (Ranked 118)  
 Completed: 6 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 6 (0.01%) (Ranked 367)
 | 2023-12-31 | 59,956 | 6 |
 | 2024-01-01 | 60,187 | 6 |
 | 2024-01-02 | 60,416 | 6 |
-| 2024-01-03 | 60,444 | 6 |
+| 2024-01-03 | 60,445 | 6 |
 ## Awards
 Max (Great for Beginners): 5,989  (Ranked 67)  
 Sum: 45,097 (Ranked 34)  

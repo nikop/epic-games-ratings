@@ -1,20 +1,20 @@
 # Destroy All Humans!
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans)  
 [View Rawdata](../../db/d/destroy_all_humans!.json)  
-Rating: 4.63 (Ranked 357)  
+Rating: 4.63 (Ranked 358)  
 Number of Ratings: 85  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shop Til They Drop | 72.00% | ~215 |
-| Kaijuiced | 69.00% | ~206 |
-| Lie Back and Think of Albion | 63.00% | ~188 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 61.00% | ~182 |
-| I Look Up As I Walk to Takoshima | 59.00% | ~176 |
-| Yettisoned | 58.00% | ~173 |
-| Perfect Probulator | 55.00% | ~164 |
-| Pimp My Raid | 54.00% | ~161 |
-| Lobster Blisque | 51.00% | ~152 |
+| Shop Til They Drop | 72.00% | ~216 |
+| Kaijuiced | 69.00% | ~207 |
+| Lie Back and Think of Albion | 62.00% | ~186 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 61.00% | ~183 |
+| Yettisoned | 58.00% | ~174 |
+| I Look Up As I Walk to Takoshima | 58.00% | ~174 |
+| Perfect Probulator | 55.00% | ~165 |
+| Pimp My Raid | 53.00% | ~159 |
+| Lobster Blisque | 50.00% | ~150 |
 | Earthly Pleasures | 47.00% | ~141 |
 | Fly Me to the Moon Base | 46.00% | ~138 |
 | Ducks in a Row, Fish in a Barrel | 44.00% | ~132 |
@@ -47,7 +47,7 @@ Number of Ratings: 85  (23.09.2022)
 | Steezy Down the Spine | 2.00% | ~6 |
 | Against All Odds | 2.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 299 (Ranked 390)  
+Progressed: 300 (Ranked 390)  
 Completed: 5 (1.67%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,7 +68,7 @@ Completed: 5 (1.67%) (Ranked 144)
 | 2023-12-31 | 264 | 5 |
 | 2024-01-01 | 279 | 5 |
 | 2024-01-02 | 296 | 5 |
-| 2024-01-03 | 299 | 5 |
+| 2024-01-03 | 300 | 5 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 499)  
 Sum: 35 (Ranked 529)  

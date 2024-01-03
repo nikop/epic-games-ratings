@@ -6,16 +6,16 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 3.00% | ~4,986 |
-| Imprint | 3.00% | ~4,986 |
+| Taste | 3.00% | ~4,987 |
+| Imprint | 3.00% | ~4,987 |
 | The Hunt | 2.00% | ~3,324 |
 | Weeper | 2.00% | ~3,324 |
 | Ravenous | 2.00% | ~3,324 |
 | Devourer | 0.90% | ~1,496 |
 | Harmless | 0.80% | ~1,330 |
 | Silenced Whispers | 0.80% | ~1,330 |
-| Yank | 0.70% | ~1,163 |
-| Sharpened Vessel | 0.70% | ~1,163 |
+| Yank | 0.70% | ~1,164 |
+| Sharpened Vessel | 0.70% | ~1,164 |
 | Scion | 0.60% | ~995 |
 | Jawcrab | 0.60% | ~997 |
 | Jawstag | 0.60% | ~997 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~166 |
 | Intensify | 0.10% | ~166 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 166,213 (Ranked 84)  
+Progressed: 166,218 (Ranked 84)  
 Completed: 441 (0.27%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,10 +288,10 @@ Completed: 441 (0.27%) (Ranked 256)
 | 2023-12-31 | 165,805 | 431 |
 | 2024-01-01 | 166,011 | 436 |
 | 2024-01-02 | 166,178 | 440 |
-| 2024-01-03 | 166,213 | 441 |
+| 2024-01-03 | 166,218 | 441 |
 ## Awards
 Max (Unique Visuals): 61  (Ranked 426)  
-Sum: 438 (Ranked 343)  
+Sum: 440 (Ranked 343)  
 Diff (max vs sum): 83  
 | Award | Count |
 | ----- | ----- |
@@ -300,7 +300,7 @@ Diff (max vs sum): 83
 | This game has Quickly Understood Controls | 58 |
 | This game has Amazing Storytelling | 58 |
 | This game has Challenging Combat | 56 |
-| This game is Extremely Fun | 54 |
+| This game is Extremely Fun | 56 |
 | This game has Amazing Characters | 52 |
 | This game has a Creative Community | 40 |
 | This game has Diverse Characters | 20 |
@@ -479,3 +479,4 @@ Diff (max vs sum): 83
 | 2023-12-30 | 4.59 | - | 61 | 433 |
 | 2023-12-31 | 4.59 | - | 61 | 434 |
 | 2024-01-01 | 4.60 | - | 61 | 438 |
+| 2024-01-03 | 4.60 | - | 61 | 440 |

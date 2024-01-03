@@ -1,14 +1,14 @@
 # RIDE 5
 [Store](https://store.epicgames.com/en-US/p/ride-5)  
 [View Rawdata](../../db/r/ride_5.json)  
-Rating: 4.46 (Ranked 673)  
+Rating: 4.46 (Ranked 672)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eat My Dust | 48.00% | ~1,549 |
 | First Love | 45.00% | ~1,452 |
 | Clean Race | 44.00% | ~1,420 |
-| Hear That Roar! | 41.00% | ~1,323 |
+| Hear That Roar! | 42.00% | ~1,355 |
 | Bitter Rivalry | 30.00% | ~968 |
 | Rivals to the End | 30.00% | ~968 |
 | Champagne Spray | 28.00% | ~904 |

@@ -4,7 +4,7 @@
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewPlayers": 306,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -1208,9 +1208,9 @@
       "ID": "KR4_ACHIEVEMENT_BUILD_TOWERS_EASY",
       "SetID": "caeik3h",
       "Name": "We Can Build It!",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 203
+      "UsersEstimate": 206
     },
     {
       "ID": "KR4_ACHIEVEMENT_CALL_EARLY_WAVES",
@@ -1440,9 +1440,9 @@
       "ID": "KR4_ACHIEVEMENT_JOKULL",
       "SetID": "caeik3h",
       "Name": "How To Tame Your Dragon",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 50,
-      "UsersEstimate": 158
+      "UsersEstimate": 161
     },
     {
       "ID": "KR4_ACHIEVEMENT_KERMIT",
@@ -1704,9 +1704,9 @@
       "ID": "KR4_ACHIEVEMENT_T800",
       "SetID": "caeik3h",
       "Name": "I\u0027ll Be Back",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 151
     },
     {
       "ID": "KR4_ACHIEVEMENT_THE_GILLMAN",
@@ -1773,8 +1773,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2024-01-03T05:03:35.9127796+00:00",
+  "LastChanged_Achievements": "2024-01-03T06:03:39.0102924+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:04.1058747+00:00",
-  "LastUpdate_Ratings": "2024-01-03T05:00:06.7631188+00:00",
-  "LastUpdate_Achievements": "2024-01-03T05:03:35.912846+00:00"
+  "LastUpdate_Ratings": "2024-01-03T05:59:58.6213444+00:00",
+  "LastUpdate_Achievements": "2024-01-03T06:03:39.0103641+00:00"
 }

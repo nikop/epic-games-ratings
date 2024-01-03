@@ -3,8 +3,8 @@
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_Rating": 1089,
-  "Ranking_Popularity": 577,
-  "Ranking_PopularitySum": 577,
+  "Ranking_Popularity": 578,
+  "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 258,
@@ -8490,9 +8490,9 @@
       "ID": "objective_key_alliance_join_1",
       "SetID": "bm61c2p",
       "Name": "It\u0027s Good to have Allies",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 583
+      "UsersEstimate": 605
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -8627,8 +8627,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-25T23:58:10.3014256+00:00",
-  "LastChanged_Achievements": "2024-01-03T04:06:20.9298336+00:00",
+  "LastChanged_Achievements": "2024-01-03T06:03:20.513432+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:25.9392392+00:00",
-  "LastUpdate_Ratings": "2024-01-03T04:58:31.6344531+00:00",
-  "LastUpdate_Achievements": "2024-01-03T04:06:20.929894+00:00"
+  "LastUpdate_Ratings": "2024-01-03T05:58:29.1239204+00:00",
+  "LastUpdate_Achievements": "2024-01-03T06:03:20.5135321+00:00"
 }

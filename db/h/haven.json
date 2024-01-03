@@ -3,8 +3,8 @@
   "Name": "Haven",
   "ProductSlug": "haven",
   "Ranking_Rating": 146,
-  "Ranking_Popularity": 577,
-  "Ranking_PopularitySum": 577,
+  "Ranking_Popularity": 578,
+  "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 242,
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1867,
+  "EOS_Progressed": 1868,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -3233,6 +3233,11 @@
       "Time": "2024-01-02T22:04:06.3704086+00:00",
       "NumProgressed": 1867,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-03T06:03:56.8693225+00:00",
+      "NumProgressed": 1868,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3300,7 +3305,7 @@
       "Name": "My little pony",
       "Percentage": 17,
       "XP": 70,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "17",
@@ -3308,7 +3313,7 @@
       "Name": "Balding bloot!",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 1344
+      "UsersEstimate": 1345
     },
     {
       "ID": "18",
@@ -3404,7 +3409,7 @@
       "Name": "Hug therapy",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "30",
@@ -3452,7 +3457,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "7",
@@ -3468,7 +3473,7 @@
       "Name": "Over my dead body",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "9",
@@ -3483,15 +3488,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1867,
+      "Progressed": 1868,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2024-01-03T05:03:55.2070149+00:00",
+  "LastChanged_Achievements": "2024-01-03T06:03:56.8693221+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:49.1667896+00:00",
-  "LastUpdate_Ratings": "2024-01-03T04:59:12.1927545+00:00",
-  "LastUpdate_Achievements": "2024-01-03T05:03:55.2070438+00:00"
+  "LastUpdate_Ratings": "2024-01-03T05:59:06.6544365+00:00",
+  "LastUpdate_Achievements": "2024-01-03T06:03:56.8693537+00:00"
 }

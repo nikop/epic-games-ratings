@@ -263,9 +263,9 @@
       "Count": 90
     }
   ],
-  "EOS_Progressed": 9735,
+  "EOS_Progressed": 9741,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1803,
+  "EOS_NewPlayers": 1806,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3453,6 +3453,11 @@
       "Time": "2024-01-03T05:09:49.5492611+00:00",
       "NumProgressed": 9735,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T06:09:53.8469628+00:00",
+      "NumProgressed": 9741,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3569,7 +3574,7 @@
       "Name": "Pentakill",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "16_TheRise",
@@ -3601,7 +3606,7 @@
       "Name": "Void Wolf",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -3721,7 +3726,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -3785,7 +3790,7 @@
       "Name": "Iron Judgement",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -3984,7 +3989,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 9735,
+      "Progressed": 9741,
       "Completed": 0
     }
   ],
@@ -3992,8 +3997,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-03T03:00:34.4543831+00:00",
-  "LastChanged_Achievements": "2024-01-03T05:09:49.5492608+00:00",
+  "LastChanged_Achievements": "2024-01-03T06:09:53.8469623+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2024-01-03T05:00:27.0749783+00:00",
-  "LastUpdate_Achievements": "2024-01-03T05:09:49.5493404+00:00"
+  "LastUpdate_Ratings": "2024-01-03T06:00:18.681384+00:00",
+  "LastUpdate_Achievements": "2024-01-03T06:09:53.847052+00:00"
 }

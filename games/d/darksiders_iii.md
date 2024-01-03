@@ -1,21 +1,21 @@
 # Darksiders III
 [Store](https://store.epicgames.com/en-US/p/darksiders3)  
 [View Rawdata](../../db/d/darksiders_iii.json)  
-Rating: 4.47 (Ranked 658)  
+Rating: 4.48 (Ranked 648)  
 Number of Ratings: 116  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 77.00% | ~303 |
-| First of many… | 67.00% | ~264 |
-| Helping Hand | 64.00% | ~252 |
-| Increased Vigor | 59.00% | ~232 |
+| Green with Envy | 77.00% | ~304 |
+| First of many… | 67.00% | ~265 |
+| Helping Hand | 64.00% | ~253 |
+| Increased Vigor | 59.00% | ~233 |
 | Fight Fire with Fire | 57.00% | ~225 |
 | Increased Capacity | 53.00% | ~209 |
-| Just the start | 48.00% | ~189 |
-| Perfect Storm | 46.00% | ~181 |
-| All That Glitters | 46.00% | ~181 |
-| Enhance! | 41.00% | ~162 |
+| Just the start | 48.00% | ~190 |
+| Perfect Storm | 46.00% | ~182 |
+| All That Glitters | 46.00% | ~182 |
+| Enhance! | 42.00% | ~166 |
 | One Of the Chosen | 39.00% | ~154 |
 | Devil's in the Details | 38.00% | ~150 |
 | Throne Potato | 38.00% | ~150 |
@@ -28,12 +28,12 @@ Number of Ratings: 116  (23.09.2022)
 | Delusions of Grandeur | 32.00% | ~126 |
 | Maximum Vigor | 30.00% | ~118 |
 | Love Tap | 30.00% | ~118 |
-| For Whom the Bell Tolls | 27.00% | ~106 |
-| Freeze Frame | 26.00% | ~102 |
-| Eat Your Heart Out | 26.00% | ~102 |
+| For Whom the Bell Tolls | 28.00% | ~111 |
+| Freeze Frame | 27.00% | ~107 |
+| Eat Your Heart Out | 26.00% | ~103 |
 | Unyielding Strength | 24.00% | ~95 |
+| Big Spender | 24.00% | ~95 |
 | Can you restore the Balance? | 23.00% | ~91 |
-| Big Spender | 23.00% | ~91 |
 | Cleanup Crew | 22.00% | ~87 |
 | Crowd Source | 22.00% | ~87 |
 | Maximum Capacity | 20.00% | ~79 |
@@ -42,36 +42,36 @@ Number of Ratings: 116  (23.09.2022)
 | Egomaniac | 17.00% | ~67 |
 | Protector of Humanity | 15.00% | ~59 |
 | Everybody Wants to Rule the World | 15.00% | ~59 |
-| Community Outreach | 14.00% | ~55 |
-| A Parting Gift | 12.00% | ~47 |
-| Unbreakable Will | 11.00% | ~43 |
+| Community Outreach | 15.00% | ~59 |
+| A Parting Gift | 13.00% | ~51 |
+| Unbreakable Will | 12.00% | ~47 |
 | Path of the Horseman | 11.00% | ~43 |
 | Take it to the Limit | 11.00% | ~43 |
-| Holy Keeper | 9.00% | ~35 |
-| Demon Keeper | 8.00% | ~32 |
-| Soul Reaper | 7.00% | ~28 |
+| Holy Keeper | 10.00% | ~40 |
+| Demon Keeper | 9.00% | ~36 |
+| Soul Reaper | 8.00% | ~32 |
 | Humanitarian | 7.00% | ~28 |
 | My Evil Twin | 6.00% | ~24 |
+| Keeper of the Bonfire | 5.00% | ~20 |
+| Keeper of the Sky | 5.00% | ~20 |
+| Made of Sterner Stuff | 5.00% | ~20 |
+| Purity of Power | 4.00% | ~16 |
 | "Impressive!" | 4.00% | ~16 |
-| Keeper of the Bonfire | 4.00% | ~16 |
 | Keeper of the Vale | 4.00% | ~16 |
-| Keeper of the Sky | 4.00% | ~16 |
-| Made of Sterner Stuff | 4.00% | ~16 |
-| Purity of Power | 3.00% | ~12 |
+| Keep it 100! | 4.00% | ~16 |
+| BFA | 4.00% | ~16 |
 | Balance in all things | 3.00% | ~12 |
 | "Incredible!" | 3.00% | ~12 |
+| Proceed on your way to Armageddon | 3.00% | ~12 |
 | Keeper of Colossal Automata | 3.00% | ~12 |
 | Keeper of the Tempo | 3.00% | ~12 |
-| Keep it 100! | 3.00% | ~12 |
-| BFA | 3.00% | ~12 |
 | "Apocalyptic!" | 2.00% | ~8 |
 | "Amazing!" | 2.00% | ~8 |
 | Death Incarnate | 2.00% | ~8 |
-| Proceed on your way to Armageddon | 2.00% | ~8 |
-| Quite Proper | 0.50% | ~2 |
-| Beast Mode | 0.30% | ~1 |
+| Quite Proper | 0.80% | ~3 |
+| Beast Mode | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 394 (Ranked 362)  
+Progressed: 395 (Ranked 361)  
 Completed: 1 (0.25%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 1 (0.25%) (Ranked 263)
 | 2023-12-31 | 345 | 1 |
 | 2024-01-01 | 373 | 1 |
 | 2024-01-02 | 388 | 1 |
-| 2024-01-03 | 394 | 1 |
+| 2024-01-03 | 395 | 1 |
 ## Awards
 Max (Great Boss Battles): 96  (Ranked 383)  
 Sum: 96 (Ranked 465)  
@@ -184,3 +184,4 @@ Diff (max vs sum): -82
 | 2023-12-29 | 4.49 | - | 94 | 94 |
 | 2024-01-01 | 4.47 | - | 94 | 94 |
 | 2024-01-02 | 4.47 | - | 96 | 96 |
+| 2024-01-03 | 4.48 | - | 96 | 96 |

@@ -633,9 +633,9 @@
       "ID": "Craft_First_Potion",
       "SetID": "7b9f97e",
       "Name": "Alchemist\u0027s Apprentice",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Craft_First_Undead",
@@ -1138,8 +1138,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2024-01-03T05:09:25.1405771+00:00",
+  "LastChanged_Achievements": "2024-01-03T06:09:31.1572374+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:20.4706393+00:00",
-  "LastUpdate_Ratings": "2024-01-03T05:00:03.9762898+00:00",
-  "LastUpdate_Achievements": "2024-01-03T05:09:25.1406606+00:00"
+  "LastUpdate_Ratings": "2024-01-03T05:59:56.2361742+00:00",
+  "LastUpdate_Achievements": "2024-01-03T06:09:31.1572947+00:00"
 }

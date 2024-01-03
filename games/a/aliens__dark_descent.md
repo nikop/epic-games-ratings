@@ -6,32 +6,32 @@ Rating: 4.54 (Ranked 543)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | This Is Hayes, Pioneer Station, Signing Off | 77.00% | ~4,407 |
-| Keep 'Em Coming | 66.00% | ~3,777 |
-| Snatched Out | 65.00% | ~3,720 |
-| Cleaning Lethe, One Nest At A Time | 58.00% | ~3,319 |
-| Call Me Snake | 54.00% | ~3,090 |
-| Something Lurks Under The Hills | 53.00% | ~3,033 |
+| Keep 'Em Coming | 66.00% | ~3,778 |
+| Snatched Out | 65.00% | ~3,721 |
+| Cleaning Lethe, One Nest At A Time | 58.00% | ~3,320 |
+| Call Me Snake | 54.00% | ~3,091 |
+| Something Lurks Under The Hills | 53.00% | ~3,034 |
 | This Was No Papercut | 51.00% | ~2,919 |
-| The Shrink Hates Me | 49.00% | ~2,804 |
-| People Person | 48.00% | ~2,747 |
-| Use The Bumper, That's What It's For | 45.00% | ~2,575 |
-| First Steps Into Madness | 45.00% | ~2,575 |
+| The Shrink Hates Me | 49.00% | ~2,805 |
+| People Person | 48.00% | ~2,748 |
+| Use The Bumper, That's What It's For | 45.00% | ~2,576 |
+| First Steps Into Madness | 45.00% | ~2,576 |
 | Colonial Barrels | 43.00% | ~2,461 |
 | Harper's Hell | 39.00% | ~2,232 |
 | Making a Stand | 37.00% | ~2,118 |
-| Damn Dude, You Gotta Lose Some Weight! | 36.00% | ~2,060 |
+| Damn Dude, You Gotta Lose Some Weight! | 36.00% | ~2,061 |
 | Where It All Begun | 34.00% | ~1,946 |
-| Recouped Investment | 32.00% | ~1,831 |
-| Living Nightmare | 28.00% | ~1,602 |
-| The More The Merrier | 28.00% | ~1,602 |
+| Recouped Investment | 32.00% | ~1,832 |
+| Living Nightmare | 28.00% | ~1,603 |
+| The More The Merrier | 28.00% | ~1,603 |
 | Omelette Du Fromage | 27.00% | ~1,545 |
 | The Darwin Era Was Here | 25.00% | ~1,431 |
-| Deep Into Insanity | 23.00% | ~1,316 |
-| The Passenger | 23.00% | ~1,316 |
+| Deep Into Insanity | 23.00% | ~1,317 |
+| The Passenger | 23.00% | ~1,317 |
 | Come on, You Wanna Live Forever? | 22.00% | ~1,259 |
 | The Spire | 21.00% | ~1,202 |
 | El Riesgo Siempre Vive | 20.00% | ~1,145 |
-| Stuff Of Nightmares | 19.00% | ~1,087 |
+| Stuff Of Nightmares | 19.00% | ~1,088 |
 | Frontliner | 18.00% | ~1,030 |
 | Excavating The Truth | 18.00% | ~1,030 |
 | Abysmal Horrors | 18.00% | ~1,030 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 543)
 | Chalk It Up To Experience | 0.60% | ~34 |
 | This Ain't No Picnic | 0.50% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,723 (Ranked 201)  
+Progressed: 5,724 (Ranked 201)  
 Completed: 3 (0.05%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,7 +242,7 @@ Completed: 3 (0.05%) (Ranked 333)
 | 2023-12-31 | 5,578 | 3 |
 | 2024-01-01 | 5,639 | 3 |
 | 2024-01-02 | 5,712 | 3 |
-| 2024-01-03 | 5,723 | 3 |
+| 2024-01-03 | 5,724 | 3 |
 ## Awards
 Max (Great Boss Battles): 58  (Ranked 430)  
 Sum: 58 (Ranked 494)  

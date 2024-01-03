@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~7,505 |
+| A Brief Tour of the Realms | 3.00% | ~7,506 |
 | Beast Intentions | 1.00% | ~2,502 |
 | The Cursed Farmer | 1.00% | ~2,502 |
 | The Mad Wizard | 1.00% | ~2,502 |
@@ -20,17 +20,18 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeking Allies | 0.40% | ~1,001 |
 | Mad Cow Disease | 0.40% | ~1,001 |
 | Friendly Imps | 0.40% | ~1,001 |
+| Pure Energy | 0.40% | ~1,001 |
 | Misaligned in Sigil | 0.40% | ~866 |
 | When Tentacles Attack | 0.40% | ~866 |
 | Flames of Avernus | 0.40% | ~866 |
 | Don't Lose Your Head | 0.40% | ~866 |
 | Mind Spike | 0.40% | ~866 |
-| Maddening | 0.30% | ~750 |
-| A Persistent Buzzing | 0.30% | ~750 |
-| Terror in the Dark | 0.30% | ~750 |
-| Unearthed Evil | 0.30% | ~750 |
-| The Crumbling Temple | 0.30% | ~750 |
-| Pure Energy | 0.30% | ~750 |
+| Maddening | 0.30% | ~751 |
+| A Persistent Buzzing | 0.30% | ~751 |
+| Terror in the Dark | 0.30% | ~751 |
+| Unearthed Evil | 0.30% | ~751 |
+| The Crumbling Temple | 0.30% | ~751 |
+| The Contagious Curse | 0.30% | ~751 |
 | Arcane Suppression | 0.30% | ~649 |
 | Welcome to the Vrocks | 0.30% | ~649 |
 | Chaos Theory | 0.30% | ~649 |
@@ -44,10 +45,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Useless Allies | 0.20% | ~500 |
 | Exploring Port Nyanzaru | 0.20% | ~500 |
 | Running of the Saurs | 0.20% | ~500 |
-| The Contagious Curse | 0.20% | ~500 |
 | Escort to Waterdeep | 0.20% | ~500 |
 | Waterdeep Detours | 0.20% | ~500 |
 | Underdeep Cartography | 0.20% | ~500 |
+| The Templar's Camp | 0.20% | ~500 |
 | Pros and CONs | 0.10% | ~250 |
 | Upholding the Law | 0.10% | ~250 |
 | Starving in the Jungle | 0.10% | ~250 |
@@ -502,7 +503,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Netherese Necropolis | 0.10% | ~216 |
 | Ineffectual Intellectuals | 0.10% | ~216 |
 | The Archaeologist and the Sailor | 0.10% | ~216 |
-| The Templar's Camp | 0.10% | ~250 |
 | The Haunted Jungle | 0.10% | ~250 |
 | Poor Guidance | 0.10% | ~250 |
 | Overwhelming Force | 0.10% | ~250 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~216 |
 | The Brains of an Illithid's Desire | 0.10% | ~216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,166 (Ranked 70)  
+Progressed: 250,184 (Ranked 70)  
 Completed: 2,586 (1.03%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -811,7 +811,7 @@ Completed: 2,586 (1.03%) (Ranked 170)
 | 2023-12-31 | 248,665 | 2,581 |
 | 2024-01-01 | 249,335 | 2,583 |
 | 2024-01-02 | 250,032 | 2,585 |
-| 2024-01-03 | 250,166 | 2,586 |
+| 2024-01-03 | 250,184 | 2,586 |
 ## Awards
 Max (Great for Beginners): 5,730  (Ranked 71)  
 Sum: 33,274 (Ranked 41)  

@@ -4,7 +4,7 @@
   "ProductSlug": "bursthero-dd5a56",
   "Ranking_EOS_Progress": 566,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewPlayers": 286,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-12-29T00:00:00+00:00",
@@ -199,9 +199,9 @@
       "ID": "ACED",
       "SetID": "1fek4an",
       "Name": "ACED!",
-      "Percentage": 68,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "CHALLENGER",
@@ -295,9 +295,9 @@
       "ID": "FROG_KILLER",
       "SetID": "1fek4an",
       "Name": "Frog Killer",
-      "Percentage": 2,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "GOLDENWEAPON_1",
@@ -735,9 +735,9 @@
       "ID": "TEAMWORK",
       "SetID": "1fek4an",
       "Name": "Teamwork",
-      "Percentage": 51,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "UPGRADE_DONE",
@@ -758,8 +758,8 @@
   ],
   "FirstSeen": "2023-12-29T13:57:03.3261861+00:00",
   "FirstSeenAchievements": "2023-12-16T10:03:32.9103598+00:00",
-  "LastChanged_Achievements": "2024-01-03T05:08:20.1211597+00:00",
+  "LastChanged_Achievements": "2024-01-03T06:08:30.9471351+00:00",
   "LastUpdate_AppInfo": "2023-12-27T12:59:42.9426347+00:00",
-  "LastUpdate_Ratings": "2024-01-03T04:59:28.470778+00:00",
-  "LastUpdate_Achievements": "2024-01-03T05:08:20.1212241+00:00"
+  "LastUpdate_Ratings": "2024-01-03T05:59:23.1702146+00:00",
+  "LastUpdate_Achievements": "2024-01-03T06:08:30.9471912+00:00"
 }

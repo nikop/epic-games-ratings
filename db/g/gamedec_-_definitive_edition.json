@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 465,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
@@ -519,7 +519,7 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 256639,
+  "EOS_Progressed": 256642,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 802,
   "EOS_NewCompleters": 0,
@@ -29409,6 +29409,11 @@
       "Time": "2024-01-03T05:03:36.0675252+00:00",
       "NumProgressed": 256639,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-03T06:03:39.0873371+00:00",
+      "NumProgressed": 256642,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 52,
@@ -29564,7 +29569,7 @@
       "Name": "I will finish what you started",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 74425
+      "UsersEstimate": 74426
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -29700,7 +29705,7 @@
       "Name": "Me smart",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 15398
+      "UsersEstimate": 15399
     },
     {
       "ID": "ACH_MEMORY5",
@@ -29788,7 +29793,7 @@
       "Name": "Trash compactor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15398
+      "UsersEstimate": 15399
     },
     {
       "ID": "ACH_TROLLKING",
@@ -29804,7 +29809,7 @@
       "Name": "Valedictorian",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 15398
+      "UsersEstimate": 15399
     },
     {
       "ID": "ACH_WAKEUP",
@@ -29835,7 +29840,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 256639,
+      "Progressed": 256642,
       "Completed": 8
     }
   ],
@@ -29843,8 +29848,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-12-30T22:03:09.2237596+00:00",
-  "LastChanged_Achievements": "2024-01-03T05:03:36.0675248+00:00",
+  "LastChanged_Achievements": "2024-01-03T06:03:39.0873366+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:57:01.0065032+00:00",
-  "LastUpdate_Ratings": "2024-01-03T04:57:37.958694+00:00",
-  "LastUpdate_Achievements": "2024-01-03T05:03:36.0676819+00:00"
+  "LastUpdate_Ratings": "2024-01-03T05:57:39.3448071+00:00",
+  "LastUpdate_Achievements": "2024-01-03T06:03:39.0874819+00:00"
 }

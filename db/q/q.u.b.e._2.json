@@ -3,8 +3,8 @@
   "Name": "Q.U.B.E. 2",
   "ProductSlug": "q-u-b-e-2",
   "Ranking_Rating": 702,
-  "Ranking_Popularity": 577,
-  "Ranking_PopularitySum": 577,
+  "Ranking_Popularity": 578,
+  "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 121,
@@ -587,9 +587,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 46215,
+  "EOS_Progressed": 46217,
   "EOS_Completed": 234,
-  "EOS_NewPlayers": 962,
+  "EOS_NewPlayers": 960,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -12847,6 +12847,11 @@
       "Time": "2024-01-03T05:09:16.6891982+00:00",
       "NumProgressed": 46215,
       "NumCompleted": 234
+    },
+    {
+      "Time": "2024-01-03T06:09:23.0379614+00:00",
+      "NumProgressed": 46217,
+      "NumCompleted": 234
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -12859,7 +12864,7 @@
       "Name": "Descendants",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 6932
+      "UsersEstimate": 6933
     },
     {
       "ID": "ACH_BLUEEND",
@@ -12987,7 +12992,7 @@
       "Name": "Laser Sharp",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "ACH_EXSITE",
@@ -13003,7 +13008,7 @@
       "Name": "Mission Success",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 10629
+      "UsersEstimate": 10630
     },
     {
       "ID": "ACH_HUB2",
@@ -13019,7 +13024,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 24032
+      "UsersEstimate": 24033
     },
     {
       "ID": "ACH_PEAK",
@@ -13027,7 +13032,7 @@
       "Name": "There\u0027s No Place Like Home",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 10629
+      "UsersEstimate": 10630
     },
     {
       "ID": "ACH_PROPELL",
@@ -13051,7 +13056,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 31426
+      "UsersEstimate": 31428
     },
     {
       "ID": "ACH_S4",
@@ -13075,7 +13080,7 @@
       "Name": "Lost in Space",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 34661
+      "UsersEstimate": 34663
     },
     {
       "ID": "ACH_STATUE",
@@ -13083,22 +13088,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 19872
+      "UsersEstimate": 19873
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 46215,
+      "Progressed": 46217,
       "Completed": 234
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-12-17T06:58:25.2845688+00:00",
-  "LastChanged_Achievements": "2024-01-03T05:09:16.6891979+00:00",
+  "LastChanged_Achievements": "2024-01-03T06:09:23.0379608+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:18.3640051+00:00",
-  "LastUpdate_Ratings": "2024-01-03T04:59:45.2963495+00:00",
-  "LastUpdate_Achievements": "2024-01-03T05:09:16.6892542+00:00"
+  "LastUpdate_Ratings": "2024-01-03T05:59:39.4182782+00:00",
+  "LastUpdate_Achievements": "2024-01-03T06:09:23.038042+00:00"
 }

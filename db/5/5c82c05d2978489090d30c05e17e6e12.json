@@ -3,8 +3,8 @@
   "Name": "EARTHLOCK",
   "ProductSlug": "earthlock-e7d979",
   "Ranking_Rating": 990,
-  "Ranking_Popularity": 577,
-  "Ranking_PopularitySum": 577,
+  "Ranking_Popularity": 578,
+  "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 78,
@@ -251,9 +251,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 72650,
+  "EOS_Progressed": 72653,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 1977,
+  "EOS_NewPlayers": 1972,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -5916,6 +5916,11 @@
       "Time": "2024-01-03T05:06:28.0977936+00:00",
       "NumProgressed": 72650,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2024-01-03T06:06:22.9221565+00:00",
+      "NumProgressed": 72653,
+      "NumCompleted": 107
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -5928,7 +5933,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 26880
+      "UsersEstimate": 26882
     },
     {
       "ID": "Achievement_10",
@@ -5936,7 +5941,7 @@
       "Name": "Inside Ma\u00E1to\u0027s Mind",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "Achievement_11",
@@ -5984,7 +5989,7 @@
       "Name": "Diligent Hogbunny",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "Achievement_17",
@@ -6016,7 +6021,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 20342
+      "UsersEstimate": 20343
     },
     {
       "ID": "Achievement_20",
@@ -6032,7 +6037,7 @@
       "Name": "Heroic Hoarder",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "Achievement_22",
@@ -6072,7 +6077,7 @@
       "Name": "Fruits of Labour",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "Achievement_27",
@@ -6136,7 +6141,7 @@
       "Name": "Family Ties",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "Achievement_34",
@@ -6152,7 +6157,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6538
+      "UsersEstimate": 6539
     },
     {
       "ID": "Achievement_5",
@@ -6192,14 +6197,14 @@
       "Name": "Shielded by L\u00FFs",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     }
   ],
   "AchievementSets": [
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 72650,
+      "Progressed": 72653,
       "Completed": 107
     }
   ],
@@ -6207,8 +6212,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-02T15:03:36.0297933+00:00",
-  "LastChanged_Achievements": "2024-01-03T05:06:28.0977933+00:00",
+  "LastChanged_Achievements": "2024-01-03T06:06:22.9221562+00:00",
   "LastUpdate_AppInfo": "2023-12-28T16:57:09.138646+00:00",
-  "LastUpdate_Ratings": "2024-01-03T05:02:56.8811114+00:00",
-  "LastUpdate_Achievements": "2024-01-03T05:06:28.0978549+00:00"
+  "LastUpdate_Ratings": "2024-01-03T06:03:01.7128126+00:00",
+  "LastUpdate_Achievements": "2024-01-03T06:06:22.9222152+00:00"
 }

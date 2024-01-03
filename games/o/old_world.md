@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 321)  
+Rating: 4.65 (Ranked 320)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -68,6 +68,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egyptian Paganism | 0.40% | ~64 |
 | Hanging Gardens in Babylon | 0.30% | ~48 |
 | Mighty | 0.30% | ~48 |
+| Ready | 0.30% | ~48 |
 | Good Difficulty | 0.30% | ~48 |
 | Just Difficulty | 0.30% | ~48 |
 | Artisans | 0.30% | ~48 |
@@ -89,7 +90,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Devout | 0.20% | ~32 |
 | Invincible | 0.20% | ~32 |
 | Lion | 0.20% | ~32 |
-| Ready | 0.20% | ~32 |
 | Subjugator | 0.20% | ~32 |
 | Victorious | 0.20% | ~32 |
 | Strong Difficulty | 0.20% | ~32 |

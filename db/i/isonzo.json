@@ -1057,9 +1057,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9741,
+  "EOS_Progressed": 9742,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10492,6 +10492,11 @@
       "Time": "2024-01-02T23:09:44.6697553+00:00",
       "NumProgressed": 9741,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-03T06:09:18.0025979+00:00",
+      "NumProgressed": 9742,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -10503,7 +10508,7 @@
       "Name": "12th Bottle of the Isonzo",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "ISONZO_ACH_AURELIO_BARUZZI",
@@ -10671,7 +10676,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 3409
+      "UsersEstimate": 3410
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -10695,7 +10700,7 @@
       "Name": "Peak Performance",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4383
+      "UsersEstimate": 4384
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -10783,7 +10788,7 @@
       "Name": "The Enlightment",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "ISONZO_ACH_THE_ITALIAN_JOB",
@@ -10831,7 +10836,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4870
+      "UsersEstimate": 4871
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -10862,7 +10867,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9741,
+      "Progressed": 9742,
       "Completed": 10
     }
   ],
@@ -10870,8 +10875,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-02T20:59:57.5573345+00:00",
-  "LastChanged_Achievements": "2024-01-03T05:09:10.8258602+00:00",
+  "LastChanged_Achievements": "2024-01-03T06:09:18.0025975+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:27.5115536+00:00",
-  "LastUpdate_Ratings": "2024-01-03T04:59:51.1570882+00:00",
-  "LastUpdate_Achievements": "2024-01-03T05:09:10.8259254+00:00"
+  "LastUpdate_Ratings": "2024-01-03T05:59:44.7428106+00:00",
+  "LastUpdate_Achievements": "2024-01-03T06:09:18.0026617+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
   "Ranking_Rating": 543,
-  "Ranking_Popularity": 577,
-  "Ranking_PopularitySum": 577,
+  "Ranking_Popularity": 578,
+  "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 147,
@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18089,
+  "EOS_Progressed": 18090,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 554,
+  "EOS_NewPlayers": 550,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -16095,6 +16095,11 @@
       "Time": "2024-01-03T05:04:19.4751664+00:00",
       "NumProgressed": 18089,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-03T06:04:18.9072833+00:00",
+      "NumProgressed": 18090,
+      "NumCompleted": 58
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16379,20 +16384,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18089,
+      "Progressed": 18090,
       "Completed": 58
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4043,
+      "Progressed": 4044,
       "Completed": 1164
     }
   ],
@@ -16400,8 +16405,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T23:58:17.8612142+00:00",
-  "LastChanged_Achievements": "2024-01-03T05:04:19.4751661+00:00",
+  "LastChanged_Achievements": "2024-01-03T06:04:18.9072826+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2024-01-03T04:59:32.8163804+00:00",
-  "LastUpdate_Achievements": "2024-01-03T05:04:19.4752559+00:00"
+  "LastUpdate_Ratings": "2024-01-03T05:59:28.0452291+00:00",
+  "LastUpdate_Achievements": "2024-01-03T06:04:18.9073787+00:00"
 }

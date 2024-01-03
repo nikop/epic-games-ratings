@@ -3,8 +3,8 @@
   "Name": "Eternights",
   "ProductSlug": "eternights-c2fbca",
   "Ranking_Rating": 131,
-  "Ranking_Popularity": 577,
-  "Ranking_PopularitySum": 577,
+  "Ranking_Popularity": 578,
+  "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 237,
@@ -43,7 +43,7 @@
   "Tags": [],
   "EOS_Progressed": 745,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -2990,8 +2990,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2023-12-31T15:57:10.2736309+00:00",
-  "LastChanged_Achievements": "2024-01-03T05:08:58.5307314+00:00",
+  "LastChanged_Achievements": "2024-01-03T06:09:06.6403705+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.2091482+00:00",
-  "LastUpdate_Ratings": "2024-01-03T04:58:38.0640611+00:00",
-  "LastUpdate_Achievements": "2024-01-03T05:08:58.5307634+00:00"
+  "LastUpdate_Ratings": "2024-01-03T05:58:34.6023616+00:00",
+  "LastUpdate_Achievements": "2024-01-03T06:09:06.640405+00:00"
 }

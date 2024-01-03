@@ -7951,9 +7951,9 @@
       "Count": 3810
     }
   ],
-  "EOS_Progressed": 149115,
+  "EOS_Progressed": 149119,
   "EOS_Completed": 341,
-  "EOS_NewPlayers": 1241,
+  "EOS_NewPlayers": 1240,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -35106,6 +35106,11 @@
       "Time": "2024-01-03T05:06:19.6059222+00:00",
       "NumProgressed": 149115,
       "NumCompleted": 341
+    },
+    {
+      "Time": "2024-01-03T06:06:14.8402314+00:00",
+      "NumProgressed": 149119,
+      "NumCompleted": 341
     }
   ],
   "TotalAchievements": 112,
@@ -35125,7 +35130,7 @@
       "Name": "On the Path to Greatness",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4473
+      "UsersEstimate": 4474
     },
     {
       "ID": "advlevel03",
@@ -35165,7 +35170,7 @@
       "Name": "Ascended",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4473
+      "UsersEstimate": 4474
     },
     {
       "ID": "ascend02",
@@ -35205,7 +35210,7 @@
       "Name": "Tax not Included",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4473
+      "UsersEstimate": 4474
     },
     {
       "ID": "bigsale03",
@@ -35229,7 +35234,7 @@
       "Name": "Research \u0026 Development",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4473
+      "UsersEstimate": 4474
     },
     {
       "ID": "blueprint03",
@@ -35245,7 +35250,7 @@
       "Name": "Vanity, Verily",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4473
+      "UsersEstimate": 4474
     },
     {
       "ID": "boss01",
@@ -35277,7 +35282,7 @@
       "Name": "Fated Encounters",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4473
+      "UsersEstimate": 4474
     },
     {
       "ID": "chest01",
@@ -35309,7 +35314,7 @@
       "Name": "Blank Page Syndrome",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4473
+      "UsersEstimate": 4474
     },
     {
       "ID": "collection02",
@@ -35349,7 +35354,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13420
+      "UsersEstimate": 13421
     },
     {
       "ID": "commonres02",
@@ -35477,7 +35482,7 @@
       "Name": "Power of Love",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4473
+      "UsersEstimate": 4474
     },
     {
       "ID": "energy03",
@@ -35525,7 +35530,7 @@
       "Name": "Efficient Floor Space",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4473
+      "UsersEstimate": 4474
     },
     {
       "ID": "furniture02",
@@ -35557,7 +35562,7 @@
       "Name": "Flawless Fusion",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4473
+      "UsersEstimate": 4474
     },
     {
       "ID": "fuselegendary",
@@ -35573,7 +35578,7 @@
       "Name": "Trash to Treasure",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4473
+      "UsersEstimate": 4474
     },
     {
       "ID": "gemsspent",
@@ -35581,7 +35586,7 @@
       "Name": "Gem Expert",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4473
+      "UsersEstimate": 4474
     },
     {
       "ID": "gold01",
@@ -35589,7 +35594,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13420
+      "UsersEstimate": 13421
     },
     {
       "ID": "gold02",
@@ -35613,7 +35618,7 @@
       "Name": "Royal Ransom",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4473
+      "UsersEstimate": 4474
     },
     {
       "ID": "gold05",
@@ -35637,7 +35642,7 @@
       "Name": "Helping Hand",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4473
+      "UsersEstimate": 4474
     },
     {
       "ID": "help02",
@@ -35709,7 +35714,7 @@
       "Name": "Accomplished Merchant",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4473
+      "UsersEstimate": 4474
     },
     {
       "ID": "level03",
@@ -35781,7 +35786,7 @@
       "Name": "Natural 20",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4473
+      "UsersEstimate": 4474
     },
     {
       "ID": "master03",
@@ -35829,7 +35834,7 @@
       "Name": "Did we pack lunch?",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4473
+      "UsersEstimate": 4474
     },
     {
       "ID": "quest02",
@@ -35941,7 +35946,7 @@
       "Name": "Magical Harmony",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4473
+      "UsersEstimate": 4474
     },
     {
       "ID": "typeunlock01",
@@ -35997,7 +36002,7 @@
       "Name": "Complete Monopoly",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4473
+      "UsersEstimate": 4474
     },
     {
       "ID": "yami_a",
@@ -36012,15 +36017,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 149115,
+      "Progressed": 149119,
       "Completed": 341
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-03T01:49:07.3826497+00:00",
-  "LastChanged_Achievements": "2024-01-03T05:06:19.6059221+00:00",
+  "LastChanged_Achievements": "2024-01-03T06:06:14.840231+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.6407181+00:00",
-  "LastUpdate_Ratings": "2024-01-03T05:03:06.4618387+00:00",
-  "LastUpdate_Achievements": "2024-01-03T05:06:19.6061559+00:00"
+  "LastUpdate_Ratings": "2024-01-03T06:03:10.5784899+00:00",
+  "LastUpdate_Achievements": "2024-01-03T06:06:14.8404589+00:00"
 }

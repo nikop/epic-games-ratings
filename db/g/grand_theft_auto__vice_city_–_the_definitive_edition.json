@@ -1059,7 +1059,7 @@
   ],
   "EOS_Progressed": 15149,
   "EOS_Completed": 85,
-  "EOS_NewPlayers": 926,
+  "EOS_NewPlayers": 923,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -17068,9 +17068,9 @@
       "ID": "ACH30",
       "SetID": "9llo822",
       "Name": "Mischief Managed",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1212
+      "UsersEstimate": 1363
     },
     {
       "ID": "ACH31",
@@ -17117,8 +17117,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-03T02:18:34.6735113+00:00",
-  "LastChanged_Achievements": "2024-01-03T05:09:36.8130598+00:00",
+  "LastChanged_Achievements": "2024-01-03T06:09:41.9881414+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:48.9246276+00:00",
-  "LastUpdate_Ratings": "2024-01-03T04:57:37.5146154+00:00",
-  "LastUpdate_Achievements": "2024-01-03T05:09:36.8131634+00:00"
+  "LastUpdate_Ratings": "2024-01-03T05:57:38.9415348+00:00",
+  "LastUpdate_Achievements": "2024-01-03T06:09:41.988242+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 18.00% | ~670 |
+| Executioner | 18.00% | ~671 |
 | Look Over There! | 13.00% | ~484 |
 | Not So Fast... | 13.00% | ~484 |
 | Watch Where You Step... | 13.00% | ~484 |
@@ -23,14 +23,14 @@ Number of Ratings: 371  (23.09.2022)
 | Gunmaster | 4.00% | ~149 |
 | Hold Your Ground | 3.00% | ~112 |
 | Just a Scratch | 3.00% | ~112 |
-| Daemonkeeper | 2.00% | ~74 |
-| Corruption Cleanser | 2.00% | ~74 |
-| Mind Like a Fortress | 2.00% | ~74 |
-| Efficient Killer | 2.00% | ~74 |
-| Only in Death | 2.00% | ~74 |
-| A Gift Spurned | 2.00% | ~74 |
-| Execution Force | 2.00% | ~74 |
-| Hive Exterminator | 2.00% | ~74 |
+| Daemonkeeper | 2.00% | ~75 |
+| Corruption Cleanser | 2.00% | ~75 |
+| Mind Like a Fortress | 2.00% | ~75 |
+| Efficient Killer | 2.00% | ~75 |
+| Only in Death | 2.00% | ~75 |
+| A Gift Spurned | 2.00% | ~75 |
+| Execution Force | 2.00% | ~75 |
+| Hive Exterminator | 2.00% | ~75 |
 | Fleetmaster | 1.00% | ~37 |
 | Exterminator | 1.00% | ~37 |
 | Preservationist | 1.00% | ~37 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.10% | ~4 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,725 (Ranked 216)  
+Progressed: 3,726 (Ranked 216)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-31 | 3,685 | 0 |
 | 2024-01-01 | 3,707 | 0 |
 | 2024-01-02 | 3,720 | 0 |
-| 2024-01-03 | 3,725 | 0 |
+| 2024-01-03 | 3,726 | 0 |
 ## Awards
 Max (Character Customization): 232  (Ranked 282)  
 Sum: 494 (Ranked 335)  

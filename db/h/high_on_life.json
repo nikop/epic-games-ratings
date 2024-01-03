@@ -2,12 +2,12 @@
   "ID": "28eda6de701c47dfbbe6255fcee8aa65",
   "Name": "High On Life",
   "ProductSlug": "high-on-life-3a855b",
-  "Ranking_Rating": 321,
-  "Ranking_Popularity": 577,
-  "Ranking_PopularitySum": 577,
+  "Ranking_Rating": 320,
+  "Ranking_Popularity": 578,
+  "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -331,9 +331,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25002,
+  "EOS_Progressed": 25003,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -8621,6 +8621,11 @@
       "Time": "2024-01-03T04:08:44.9494699+00:00",
       "NumProgressed": 25002,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-03T06:08:40.6204257+00:00",
+      "NumProgressed": 25003,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -8983,13 +8988,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 25002,
+      "Progressed": 25003,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 2295,
+      "Progressed": 2296,
       "Completed": 1376
     }
   ],
@@ -8997,8 +9002,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-12-27T23:03:01.2851601+00:00",
-  "LastChanged_Achievements": "2024-01-03T05:08:30.520438+00:00",
+  "LastChanged_Achievements": "2024-01-03T06:08:40.6204251+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:22.3334267+00:00",
-  "LastUpdate_Ratings": "2024-01-03T05:02:48.2738097+00:00",
-  "LastUpdate_Achievements": "2024-01-03T05:08:30.52053+00:00"
+  "LastUpdate_Ratings": "2024-01-03T06:02:54.1371121+00:00",
+  "LastUpdate_Achievements": "2024-01-03T06:08:40.6205006+00:00"
 }

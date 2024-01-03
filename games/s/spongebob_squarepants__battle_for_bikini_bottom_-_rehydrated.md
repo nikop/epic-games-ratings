@@ -1,7 +1,7 @@
 # SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated
 [Store](https://store.epicgames.com/en-US/p/spongebob-squarepants-battle-for-bikini-bottom-rehydrated)  
 [View Rawdata](../../db/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.json)  
-Rating: 4.65 (Ranked 321)  
+Rating: 4.65 (Ranked 320)  
 Number of Ratings: 76  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -30,9 +30,9 @@ Number of Ratings: 76  (23.09.2022)
 | The Small Does Not Rule | 4.00% | ~27 |
 | Ship Shape | 4.00% | ~27 |
 | Shanghaied | 4.00% | ~27 |
+| Kelp Forest of Fear | 4.00% | ~27 |
 | SpongeBob vs SpongeBob! | 4.00% | ~27 |
 | Sleepy Time | 4.00% | ~27 |
-| Kelp Forest of Fear | 3.00% | ~20 |
 | Sock Concert | 3.00% | ~20 |
 | Mega Spatula Seeker | 2.00% | ~13 |
 | 100% SpongeBob | 1.00% | ~7 |
