@@ -5,10 +5,10 @@
   "Ranking_Rating": 544,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 526,
-  "Ranking_EOS_Progress": 394,
-  "Ranking_EOS_Completed": 242,
+  "Ranking_EOS_Progress": 391,
+  "Ranking_EOS_Completed": 243,
   "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -294,11 +294,11 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 298,
+  "EOS_Progressed": 299,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.34,
+  "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
       "Time": "2023-12-01T10:05:16.7894965+00:00",
@@ -1459,6 +1459,11 @@
       "Time": "2024-01-03T11:08:55.378353+00:00",
       "NumProgressed": 298,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-03T13:13:29.1160597+00:00",
+      "NumProgressed": 299,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1503,7 +1508,7 @@
       "Name": "Furon Fashion",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -1541,9 +1546,9 @@
       "ID": "ACH_COMPLETE_ARK01",
       "SetID": "4n84pon",
       "Name": "Cult Following",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 102
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -1597,9 +1602,9 @@
       "ID": "ACH_ENTER_ALBION",
       "SetID": "4n84pon",
       "Name": "Lie Back and Think of Albion",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 83
+      "UsersEstimate": 81
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
@@ -1607,7 +1612,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1639,7 +1644,7 @@
       "Name": "Bodied Sattva",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -1719,7 +1724,7 @@
       "Name": "Earthly Pleasures",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
@@ -1727,7 +1732,7 @@
       "Name": "Upgreatest",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
@@ -1807,7 +1812,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1815,14 +1820,14 @@
       "Name": "Pimp My Raid",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 298,
+      "Progressed": 299,
       "Completed": 1
     }
   ],
@@ -1830,8 +1835,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-03T11:58:36.9448322+00:00",
-  "LastChanged_Achievements": "2024-01-03T12:09:27.7044064+00:00",
+  "LastChanged_Achievements": "2024-01-03T13:13:29.1160591+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.261947+00:00",
-  "LastUpdate_Ratings": "2024-01-03T11:58:36.9448329+00:00",
-  "LastUpdate_Achievements": "2024-01-03T12:09:27.7044389+00:00"
+  "LastUpdate_Ratings": "2024-01-03T13:02:40.9663139+00:00",
+  "LastUpdate_Achievements": "2024-01-03T13:13:29.1160926+00:00"
 }

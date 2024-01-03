@@ -11,7 +11,7 @@ Number of Ratings: 124  (23.09.2022)
 | Civilian | 29.00% | ~48 |
 | Role Model | 24.00% | ~40 |
 | Festival-goer | 23.00% | ~38 |
-| Peddler | 20.00% | ~33 |
+| Peddler | 21.00% | ~35 |
 | Creator | 20.00% | ~33 |
 | Military Leader | 19.00% | ~32 |
 | Commander | 17.00% | ~28 |
@@ -26,11 +26,11 @@ Number of Ratings: 124  (23.09.2022)
 | Alb | 8.00% | ~13 |
 | Hunter | 6.00% | ~10 |
 | Banker | 5.00% | ~8 |
+| Treasure Hunter | 5.00% | ~8 |
 | Hotshot | 5.00% | ~8 |
 | Perfectionist | 5.00% | ~8 |
 | Detective | 5.00% | ~8 |
 | Lover | 5.00% | ~8 |
-| Treasure Hunter | 4.00% | ~7 |
 | Beam Me Up | 4.00% | ~7 |
 | Free as a Bird | 4.00% | ~7 |
 | Cleric | 4.00% | ~7 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Enforcer | 0.00% | ~0 |
 | Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 167 (Ranked 438)  
+Progressed: 167 (Ranked 439)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -4,8 +4,8 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1092,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
@@ -3831,9 +3831,9 @@
       "ID": "achievement_33",
       "SetID": "2cpn27e",
       "Name": "Human Believer",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 186
     },
     {
       "ID": "achievement_34",
@@ -3967,9 +3967,9 @@
       "ID": "achievement_5",
       "SetID": "2cpn27e",
       "Name": "Reincarnation Cycle Stopper",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 197
+      "UsersEstimate": 207
     },
     {
       "ID": "achievement_6",
@@ -4013,8 +4013,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-03T12:09:45.508802+00:00",
+  "LastChanged_Achievements": "2024-01-03T13:13:44.955644+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:22.7723621+00:00",
-  "LastUpdate_Ratings": "2024-01-03T12:00:47.9041224+00:00",
-  "LastUpdate_Achievements": "2024-01-03T12:09:45.5088731+00:00"
+  "LastUpdate_Ratings": "2024-01-03T13:04:41.7580446+00:00",
+  "LastUpdate_Achievements": "2024-01-03T13:13:44.9556906+00:00"
 }

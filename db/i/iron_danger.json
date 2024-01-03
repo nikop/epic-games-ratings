@@ -3,9 +3,9 @@
   "Name": "Iron Danger",
   "ProductSlug": "iron-danger-b4320c",
   "Ranking_EOS_Progress": 375,
-  "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 441,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_Completed": 161,
+  "Ranking_EOS_NewPlayers": 432,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
     "PcReleaseDate": "2020-03-25T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 345,
+  "EOS_Progressed": 346,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.16,
   "EosHistory": [
@@ -934,6 +934,11 @@
       "Time": "2024-01-03T11:08:38.359056+00:00",
       "NumProgressed": 345,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-03T13:13:12.1165532+00:00",
+      "NumProgressed": 346,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 23,
@@ -1065,7 +1070,7 @@
       "Name": "First Shard",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "ACH_SHARD_2",
@@ -1087,9 +1092,9 @@
       "ID": "ACH_SHARD_4",
       "SetID": "ao59f0i",
       "Name": "Fourth Shard",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 21
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_SHARD_5",
@@ -1128,7 +1133,7 @@
     {
       "ID": "ao59f0i",
       "IsBase": true,
-      "Progressed": 345,
+      "Progressed": 346,
       "Completed": 4
     }
   ],
@@ -1136,8 +1141,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2024-01-03T12:09:08.8571776+00:00",
+  "LastChanged_Achievements": "2024-01-03T13:13:12.1165528+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:11.427684+00:00",
-  "LastUpdate_Ratings": "2024-01-03T12:00:26.8337731+00:00",
-  "LastUpdate_Achievements": "2024-01-03T12:09:08.8571928+00:00"
+  "LastUpdate_Ratings": "2024-01-03T13:04:20.7586425+00:00",
+  "LastUpdate_Achievements": "2024-01-03T13:13:12.1165805+00:00"
 }

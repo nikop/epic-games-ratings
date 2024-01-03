@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -655,10 +655,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 208,
       "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2024-01-03T13:04:27.6429551+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 209,
+      "NumberOfAwardsMax": 40
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 208,
+  "NumberOfAwards": 209,
   "NumberOfAwardsMax": 40,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -672,7 +678,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 38
+      "Count": 39
     },
     {
       "Text": "This game is Extremely Fun",
@@ -711,9 +717,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6760,
+  "EOS_Progressed": 6766,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 443,
+  "EOS_NewPlayers": 447,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10216,6 +10222,11 @@
       "Time": "2024-01-03T11:08:08.0606444+00:00",
       "NumProgressed": 6760,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-03T13:12:41.2547921+00:00",
+      "NumProgressed": 6766,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10267,7 +10278,7 @@
       "Name": "Full Ascension",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "15",
@@ -10275,7 +10286,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "16",
@@ -10339,7 +10350,7 @@
       "Name": "Realm Estate",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "23",
@@ -10355,7 +10366,7 @@
       "Name": "Secret Technique",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "25",
@@ -10379,7 +10390,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "28",
@@ -10387,7 +10398,7 @@
       "Name": "From Friends to Family",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "29",
@@ -10419,7 +10430,7 @@
       "Name": "Magical Synergy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "32",
@@ -10427,7 +10438,7 @@
       "Name": "My Final Form",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "33",
@@ -10706,22 +10717,22 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6760,
+      "Progressed": 6766,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6760,
+      "Progressed": 6766,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-05-02T18:59:30.6410033+00:00",
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
-  "LastChanged": "2024-01-03T03:59:51.7263846+00:00",
-  "LastChanged_Achievements": "2024-01-03T12:08:35.914776+00:00",
+  "LastChanged": "2024-01-03T13:04:27.6429549+00:00",
+  "LastChanged_Achievements": "2024-01-03T13:12:41.2547914+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-03T12:00:33.1531807+00:00",
-  "LastUpdate_Achievements": "2024-01-03T12:08:35.9149035+00:00"
+  "LastUpdate_Ratings": "2024-01-03T13:04:27.6429553+00:00",
+  "LastUpdate_Achievements": "2024-01-03T13:12:41.2549055+00:00"
 }

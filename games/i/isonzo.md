@@ -7,14 +7,14 @@ Number of Ratings: 98  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You Shall Not Pass | 51.00% | ~4,970 |
-| Tutti Eroi! | 50.00% | ~4,872 |
-| Peak Performance | 45.00% | ~4,385 |
+| Tutti Eroi! | 50.00% | ~4,873 |
+| Peak Performance | 45.00% | ~4,386 |
 | Avanti Savoia! | 44.00% | ~4,288 |
 | Mamma Mia! | 35.00% | ~3,411 |
-| Conrad von Hotzensocks | 32.00% | ~3,118 |
-| Gabriele D'Annunzio | 32.00% | ~3,118 |
+| Conrad von Hotzensocks | 32.00% | ~3,119 |
+| Gabriele D'Annunzio | 32.00% | ~3,119 |
 | Silver Lining | 27.00% | ~2,631 |
-| Aurelio Baruzzi | 21.00% | ~2,046 |
+| Aurelio Baruzzi | 21.00% | ~2,047 |
 | Decimation | 20.00% | ~1,949 |
 | Donatello | 19.00% | ~1,852 |
 | Insubordination | 19.00% | ~1,852 |
@@ -24,12 +24,12 @@ Number of Ratings: 98  (23.09.2022)
 | Luigi Cadorna | 16.00% | ~1,559 |
 | The Lion of the Isonzo | 14.00% | ~1,364 |
 | Uomo Universale | 13.00% | ~1,267 |
-| Die Bosniaken Kommen! | 12.00% | ~1,169 |
-| Dirty Dozen | 12.00% | ~1,169 |
-| Shaken, Not Stirred | 12.00% | ~1,169 |
+| Die Bosniaken Kommen! | 12.00% | ~1,170 |
+| Dirty Dozen | 12.00% | ~1,170 |
+| Shaken, Not Stirred | 12.00% | ~1,170 |
 | Machiavelli | 11.00% | ~1,072 |
-| The Devil's Paintbrush | 10.00% | ~974 |
-| Thus With A Kiss | 10.00% | ~974 |
+| The Devil's Paintbrush | 10.00% | ~975 |
+| Thus With A Kiss | 10.00% | ~975 |
 | Dante's Inferno | 9.00% | ~877 |
 | I Have the High Ground | 9.00% | ~877 |
 | Millenial | 9.00% | ~877 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~39 |
 | Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,745 (Ranked 182)  
+Progressed: 9,746 (Ranked 182)  
 Completed: 10 (0.10%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,11 +304,11 @@ Completed: 10 (0.10%) (Ranked 304)
 | 2023-12-31 | 9,706 | 10 |
 | 2024-01-01 | 9,726 | 10 |
 | 2024-01-02 | 9,741 | 10 |
-| 2024-01-03 | 9,745 | 10 |
+| 2024-01-03 | 9,746 | 10 |
 ## Awards
 Max (Diverse Characters): 41  (Ranked 475)  
-Sum: 337 (Ranked 369)  
-Diff (max vs sum): 106  
+Sum: 337 (Ranked 370)  
+Diff (max vs sum): 105  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 41 |

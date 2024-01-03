@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
     "PcReleaseDate": "2022-03-17T09:00:00+00:00",
@@ -1361,9 +1361,9 @@
       "ID": "Omnipotence",
       "SetID": "gl7plp",
       "Name": "Omnipotence",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 75,
-      "UsersEstimate": 157
+      "UsersEstimate": 165
     },
     {
       "ID": "SERENITY_NOW",
@@ -1530,8 +1530,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-12-25T11:02:42.8909676+00:00",
-  "LastChanged_Achievements": "2024-01-03T12:04:40.5959055+00:00",
+  "LastChanged_Achievements": "2024-01-03T13:08:42.2065774+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:48.7904746+00:00",
-  "LastUpdate_Ratings": "2024-01-03T12:03:07.313915+00:00",
-  "LastUpdate_Achievements": "2024-01-03T12:04:40.5959316+00:00"
+  "LastUpdate_Ratings": "2024-01-03T13:07:14.4898957+00:00",
+  "LastUpdate_Achievements": "2024-01-03T13:08:42.2066032+00:00"
 }

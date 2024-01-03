@@ -3,9 +3,9 @@
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
   "Ranking_Rating": 285,
-  "Ranking_Popularity": 391,
-  "Ranking_PopularitySum": 472,
-  "Ranking_EOS_Progress": 181,
+  "Ranking_Popularity": 392,
+  "Ranking_PopularitySum": 473,
+  "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 367,
   "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 107,
@@ -263,9 +263,9 @@
       "Count": 90
     }
   ],
-  "EOS_Progressed": 9774,
+  "EOS_Progressed": 9785,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1795,
+  "EOS_NewPlayers": 1789,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3488,6 +3488,11 @@
       "Time": "2024-01-03T12:10:15.7551053+00:00",
       "NumProgressed": 9774,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-03T13:14:13.4127933+00:00",
+      "NumProgressed": 9785,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3500,15 +3505,15 @@
       "Name": "Conspiracy",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1075
+      "UsersEstimate": 1076
     },
     {
       "ID": "03_TheStolenStar",
       "SetID": "37a94m8",
       "Name": "Stolen Star",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 586
+      "UsersEstimate": 685
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -3516,7 +3521,7 @@
       "Name": "Trade Empire",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "05_TheComorraghSurvivors",
@@ -3524,7 +3529,7 @@
       "Name": "Commorragh Survivors",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "06_TheExpanseCalamity",
@@ -3596,7 +3601,7 @@
       "Name": "Fear Not Obliteration",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "15_Pentakill",
@@ -3612,7 +3617,7 @@
       "Name": "The Rise",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "17_TheExemplar",
@@ -3620,7 +3625,7 @@
       "Name": "Exemplar",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "18_TheRookieSkipper",
@@ -3628,7 +3633,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "19_TheVoidWolf",
@@ -3668,7 +3673,7 @@
       "Name": "The Dynasty Restored",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "24_TheHighrise",
@@ -3676,7 +3681,7 @@
       "Name": "Highrise",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "25_DynastyProspers",
@@ -3724,7 +3729,7 @@
       "Name": "Greatest Exploration",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "31_DontTouchThis",
@@ -3828,7 +3833,7 @@
       "Name": "No Place Like Home",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -3852,7 +3857,7 @@
       "Name": "A Spark",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "47_AFlame",
@@ -3884,7 +3889,7 @@
       "Name": "Whodunit?",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "51_AmendsToTheDead",
@@ -4019,7 +4024,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 9774,
+      "Progressed": 9785,
       "Completed": 1
     }
   ],
@@ -4027,8 +4032,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-03T03:00:34.4543831+00:00",
-  "LastChanged_Achievements": "2024-01-03T12:10:15.7551047+00:00",
+  "LastChanged_Achievements": "2024-01-03T13:14:13.4127927+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2024-01-03T12:00:55.5416776+00:00",
-  "LastUpdate_Achievements": "2024-01-03T12:10:15.7551666+00:00"
+  "LastUpdate_Ratings": "2024-01-03T13:04:48.9453219+00:00",
+  "LastUpdate_Achievements": "2024-01-03T13:14:13.4128529+00:00"
 }

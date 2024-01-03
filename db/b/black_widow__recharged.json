@@ -2,7 +2,7 @@
   "ID": "a25444fc25e9498781983b58ceba30c5",
   "Name": "Black Widow: Recharged",
   "ProductSlug": "black-widow-recharged",
-  "Ranking_Rating": 947,
+  "Ranking_Rating": 948,
   "Ranking_Popularity": 578,
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 147,
@@ -173,7 +173,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24358,
+  "EOS_Progressed": 24360,
   "EOS_Completed": 61,
   "EOS_NewPlayers": 475,
   "EOS_NewCompleters": 1,
@@ -22288,6 +22288,11 @@
       "Time": "2024-01-03T12:04:20.4304388+00:00",
       "NumProgressed": 24358,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2024-01-03T13:08:23.305504+00:00",
+      "NumProgressed": 24360,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 14,
@@ -22299,7 +22304,7 @@
       "Name": "Across The Border",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 18756
+      "UsersEstimate": 18757
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -22355,7 +22360,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 12423
+      "UsersEstimate": 12424
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -22363,7 +22368,7 @@
       "Name": "In For The Kill",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 2679
+      "UsersEstimate": 2680
     },
     {
       "ID": "ACH_IN_MY_OWN_TIME",
@@ -22379,7 +22384,7 @@
       "Name": "Look at Me Now",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 6333
+      "UsersEstimate": 6334
     },
     {
       "ID": "ACH_THE_FALL",
@@ -22387,7 +22392,7 @@
       "Name": "The Fall",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 3897
+      "UsersEstimate": 3898
     },
     {
       "ID": "ACH_TIME_OF_OUR_LIFE",
@@ -22410,15 +22415,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 24358,
+      "Progressed": 24360,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-11-02T20:58:32.2795394+00:00",
-  "LastChanged_Achievements": "2024-01-03T12:04:20.4304384+00:00",
+  "LastChanged_Achievements": "2024-01-03T13:08:23.3055035+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:21.7307915+00:00",
-  "LastUpdate_Ratings": "2024-01-03T12:03:07.8891146+00:00",
-  "LastUpdate_Achievements": "2024-01-03T12:04:20.4305504+00:00"
+  "LastUpdate_Ratings": "2024-01-03T13:07:14.9751217+00:00",
+  "LastUpdate_Achievements": "2024-01-03T13:08:23.3056226+00:00"
 }

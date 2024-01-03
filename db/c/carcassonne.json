@@ -3,12 +3,12 @@
   "Name": "Carcassonne",
   "ProductSlug": "carcassonne",
   "Ranking_Rating": 301,
-  "Ranking_Popularity": 396,
+  "Ranking_Popularity": 397,
   "Ranking_PopularitySum": 327,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 570,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2020-02-06T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -933,6 +933,6 @@
   "FirstSeen": "2022-07-22T20:18:17.016066+00:00",
   "LastChanged": "2023-12-29T13:02:45.8073992+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:58.990263+00:00",
-  "LastUpdate_Ratings": "2024-01-03T11:58:19.4099542+00:00",
-  "LastUpdate_Achievements": "2024-01-03T12:04:46.8584071+00:00"
+  "LastUpdate_Ratings": "2024-01-03T13:02:25.6939413+00:00",
+  "LastUpdate_Achievements": "2024-01-03T13:08:48.2426959+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 323,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -177,9 +177,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3786,
+  "EOS_Progressed": 3787,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2187,6 +2187,11 @@
       "Time": "2024-01-03T01:50:57.8184342+00:00",
       "NumProgressed": 3786,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T13:09:41.8429659+00:00",
+      "NumProgressed": 3787,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -2254,7 +2259,7 @@
       "Name": "Shard Snatchers",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "FINISH_EPISODE_3",
@@ -2278,7 +2283,7 @@
       "Name": "...To Heroes",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "FINISH_GAME_W_GOOD_SKATE_RAT",
@@ -2310,7 +2315,7 @@
       "Name": "We\u0027re In",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1249
+      "UsersEstimate": 1250
     },
     {
       "ID": "HOTWIRE_FIRST_OBJECT",
@@ -2366,7 +2371,7 @@
       "Name": "Those Were the Days...",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "WIN_EVERY_VAULTLANDER_IN_MAIN",
@@ -2398,14 +2403,14 @@
       "Name": "Mas, Por Favor",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     }
   ],
   "AchievementSets": [
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3786,
+      "Progressed": 3787,
       "Completed": 0
     }
   ],
@@ -2413,8 +2418,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2024-01-03T12:05:45.2403033+00:00",
+  "LastChanged_Achievements": "2024-01-03T13:09:41.8429653+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:14.9604799+00:00",
-  "LastUpdate_Ratings": "2024-01-03T11:58:42.9511616+00:00",
-  "LastUpdate_Achievements": "2024-01-03T12:05:45.2403309+00:00"
+  "LastUpdate_Ratings": "2024-01-03T13:02:46.5366897+00:00",
+  "LastUpdate_Achievements": "2024-01-03T13:09:41.8429913+00:00"
 }

@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 490,925 (Ranked 43)  
+Progressed: 490,971 (Ranked 43)  
 Completed: 1 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -628,21 +628,21 @@ Completed: 1 (0.00%) (Ranked 391)
 | 2023-12-31 | 489,119 | 1 |
 | 2024-01-01 | 489,961 | 1 |
 | 2024-01-02 | 490,643 | 1 |
-| 2024-01-03 | 490,925 | 1 |
+| 2024-01-03 | 490,971 | 1 |
 ## Awards
 Max (Educational): 7,696  (Ranked 54)  
-Sum: 63,359 (Ranked 24)  
+Sum: 63,407 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 7,696 |
 | This game has Diverse Characters | 7,531 |
 | This game is Highly Recommended | 7,376 |
-| This game has Challenging Combat | 7,299 |
-| This game is Extremely Fun | 7,198 |
+| This game has Challenging Combat | 7,317 |
+| This game is Extremely Fun | 7,215 |
 | This game is Relaxing | 7,041 |
 | This game has Competitive Players | 6,882 |
-| This game has Amazing Storytelling | 6,402 |
+| This game has Amazing Storytelling | 6,415 |
 | This game has Amazing Characters | 5,934 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -999,4 +999,4 @@ Diff (max vs sum): 30
 | 2023-12-31 | 4.69 | - | 7,645 | 63,014 |
 | 2024-01-01 | 4.69 | - | 7,659 | 63,158 |
 | 2024-01-02 | 4.69 | - | 7,680 | 63,302 |
-| 2024-01-03 | 4.69 | - | 7,696 | 63,359 |
+| 2024-01-03 | 4.69 | - | 7,696 | 63,407 |

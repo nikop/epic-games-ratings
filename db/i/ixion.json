@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -329,7 +329,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3919,
+  "EOS_Progressed": 3921,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 0,
@@ -7764,6 +7764,11 @@
       "Time": "2024-01-03T12:08:24.8627956+00:00",
       "NumProgressed": 3919,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T13:12:32.1236878+00:00",
+      "NumProgressed": 3921,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -7839,7 +7844,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1059
     },
     {
       "ID": "ACH_BASE_19",
@@ -7863,7 +7868,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "ACH_BASE_22",
@@ -7879,7 +7884,7 @@
       "Name": "Space Society",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "ACH_BASE_24",
@@ -7887,7 +7892,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "ACH_BASE_25",
@@ -7911,7 +7916,7 @@
       "Name": "A Hunk of Junk",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "ACH_BASE_28",
@@ -7927,7 +7932,7 @@
       "Name": "A Thousand Strong",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "ACH_BASE_3",
@@ -7943,7 +7948,7 @@
       "Name": "Exceeding Capacity",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "ACH_BASE_31",
@@ -7975,7 +7980,7 @@
       "Name": "Ready for a New World",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "ACH_BASE_35",
@@ -7983,7 +7988,7 @@
       "Name": "Breaking Protocol",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "ACH_BASE_36",
@@ -8159,7 +8164,7 @@
       "Name": "Hope Seeker",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "ACH_BASE_60",
@@ -8181,9 +8186,9 @@
       "ID": "ACH_BASE_62",
       "SetID": "92iocjf",
       "Name": "Soylent Green",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_BASE_63",
@@ -8230,13 +8235,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 2103,
+      "Progressed": 2105,
       "Completed": 10
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3919,
+      "Progressed": 3921,
       "Completed": 0
     }
   ],
@@ -8244,8 +8249,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2024-01-02T02:20:24.7743828+00:00",
-  "LastChanged_Achievements": "2024-01-03T12:08:24.8627953+00:00",
+  "LastChanged_Achievements": "2024-01-03T13:12:32.1236873+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:27.7465752+00:00",
-  "LastUpdate_Ratings": "2024-01-03T11:58:15.5689531+00:00",
-  "LastUpdate_Achievements": "2024-01-03T12:08:24.8628785+00:00"
+  "LastUpdate_Ratings": "2024-01-03T13:02:22.080694+00:00",
+  "LastUpdate_Achievements": "2024-01-03T13:12:32.1237858+00:00"
 }

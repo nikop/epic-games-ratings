@@ -6,8 +6,8 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 3.00% | ~4,987 |
-| Imprint | 3.00% | ~4,987 |
+| Taste | 3.00% | ~4,988 |
+| Imprint | 3.00% | ~4,988 |
 | The Hunt | 2.00% | ~3,325 |
 | Weeper | 2.00% | ~3,325 |
 | Ravenous | 2.00% | ~3,325 |
@@ -17,9 +17,9 @@ Number of Ratings: 46  (23.09.2022)
 | Yank | 0.70% | ~1,164 |
 | Sharpened Vessel | 0.70% | ~1,164 |
 | Scion | 0.60% | ~995 |
-| Jawcrab | 0.60% | ~997 |
-| Jawstag | 0.60% | ~997 |
-| Feast | 0.60% | ~997 |
+| Jawcrab | 0.60% | ~998 |
+| Jawstag | 0.60% | ~998 |
+| Feast | 0.60% | ~998 |
 | Shapely | 0.50% | ~831 |
 | Glare | 0.50% | ~829 |
 | Watcher | 0.50% | ~831 |
@@ -33,17 +33,17 @@ Number of Ratings: 46  (23.09.2022)
 | Inevitable | 0.30% | ~499 |
 | All-Seeing | 0.30% | ~499 |
 | Breathsmith | 0.30% | ~499 |
-| Dream | 0.30% | ~497 |
-| Bloodhunter | 0.20% | ~332 |
-| Breath | 0.20% | ~332 |
-| Unwrap the Gift | 0.20% | ~332 |
-| Passage | 0.20% | ~332 |
-| Proportions | 0.20% | ~332 |
+| Dream | 0.30% | ~498 |
+| Bloodhunter | 0.20% | ~333 |
+| Breath | 0.20% | ~333 |
+| Kinship | 0.20% | ~333 |
+| Unwrap the Gift | 0.20% | ~333 |
+| Passage | 0.20% | ~333 |
+| Proportions | 0.20% | ~333 |
 | Spiral Heart | 0.10% | ~161 |
 | Skinmaker | 0.10% | ~166 |
 | Instruments | 0.10% | ~166 |
 | Zygote | 0.10% | ~166 |
-| Kinship | 0.10% | ~166 |
 | Weakness | 0.10% | ~166 |
 | Generous | 0.10% | ~166 |
 | Kin | 0.10% | ~166 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~166 |
 | Intensify | 0.10% | ~166 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 166,245 (Ranked 84)  
+Progressed: 166,251 (Ranked 84)  
 Completed: 441 (0.27%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 441 (0.27%) (Ranked 256)
 | 2023-12-31 | 165,805 | 431 |
 | 2024-01-01 | 166,011 | 436 |
 | 2024-01-02 | 166,178 | 440 |
-| 2024-01-03 | 166,245 | 441 |
+| 2024-01-03 | 166,251 | 441 |
 ## Awards
 Max (Unique Visuals): 61  (Ranked 426)  
 Sum: 440 (Ranked 343)  

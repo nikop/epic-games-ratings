@@ -3,12 +3,12 @@
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
   "Ranking_Rating": 17,
-  "Ranking_Popularity": 388,
-  "Ranking_PopularitySum": 471,
+  "Ranking_Popularity": 389,
+  "Ranking_PopularitySum": 472,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -273,7 +273,7 @@
   ],
   "EOS_Progressed": 1245,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3537,9 +3537,9 @@
       "ID": "BridgeBuilder",
       "SetID": "1n308hc",
       "Name": "Bridge Builder",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 398
+      "UsersEstimate": 411
     },
     {
       "ID": "ChasingTheLight",
@@ -3962,8 +3962,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-03T01:45:19.9316925+00:00",
-  "LastChanged_Achievements": "2024-01-03T12:04:16.3659551+00:00",
+  "LastChanged_Achievements": "2024-01-03T13:08:19.6617993+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.9244138+00:00",
-  "LastUpdate_Ratings": "2024-01-03T11:59:53.4752788+00:00",
-  "LastUpdate_Achievements": "2024-01-03T12:04:16.3660149+00:00"
+  "LastUpdate_Ratings": "2024-01-03T13:03:51.7796681+00:00",
+  "LastUpdate_Achievements": "2024-01-03T13:08:19.661861+00:00"
 }

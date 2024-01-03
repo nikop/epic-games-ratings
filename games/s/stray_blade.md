@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 17.00% | ~25 |
+| Self-Defence | 17.00% | ~26 |
 | Tinkerer | 11.00% | ~16 |
-| Welcome to the Club | 9.00% | ~13 |
-| A new World ahead | 9.00% | ~13 |
+| Welcome to the Club | 9.00% | ~14 |
+| A new World ahead | 9.00% | ~14 |
 | Don't Cry Wolf | 8.00% | ~12 |
-| Apprentice | 5.00% | ~7 |
+| Apprentice | 5.00% | ~8 |
 | Craftsmen | 3.00% | ~4 |
 | Defeat Tezuth | 3.00% | ~4 |
 | Freezing Cold | 3.00% | ~4 |
@@ -18,11 +18,11 @@
 | Witch | 2.00% | ~3 |
 | The A-Team | 2.00% | ~3 |
 | Expert | 2.00% | ~3 |
-| Can't touch this | 1.00% | ~1 |
-| A Deceiving Gift | 1.00% | ~1 |
-| The Golden Flash | 1.00% | ~1 |
-| The Power of the Mountains | 1.00% | ~1 |
-| Changing the World | 1.00% | ~1 |
+| Can't touch this | 1.00% | ~2 |
+| A Deceiving Gift | 1.00% | ~2 |
+| The Golden Flash | 1.00% | ~2 |
+| The Power of the Mountains | 1.00% | ~2 |
+| Changing the World | 1.00% | ~2 |
 | Sponsor | 0.70% | ~1 |
 | Defeat Uskol | 0.70% | ~1 |
 | Nothing but the Truth | 0.70% | ~1 |
@@ -57,7 +57,7 @@
 | Whispers of the Sand | 0.00% | ~0 |
 | Lost and Found | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 149 (Ranked 449)  
+Progressed: 150 (Ranked 449)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,6 +159,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-29 | 147 | 0 |
 | 2023-12-30 | 148 | 0 |
 | 2023-12-31 | 149 | 0 |
+| 2024-01-03 | 150 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

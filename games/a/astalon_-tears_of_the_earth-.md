@@ -11,13 +11,13 @@
 | Space worm! | 37.00% | ~30 |
 | Beast Hunter | 33.00% | ~27 |
 | Loot, loot! | 33.00% | ~27 |
+| Vanquisher! | 32.00% | ~26 |
+| Orb Collector | 32.00% | ~26 |
+| Snakehead! | 32.00% | ~26 |
 | Unmasked! | 32.00% | ~26 |
-| Vanquisher! | 30.00% | ~25 |
-| Orb Collector | 30.00% | ~25 |
 | Twin slayer! | 30.00% | ~25 |
-| Snakehead! | 30.00% | ~25 |
 | Fly, you fool! | 30.00% | ~25 |
-| Mercenary! | 29.00% | ~24 |
+| Mercenary! | 30.00% | ~25 |
 | Beast Knight | 28.00% | ~23 |
 | Relic Collector | 26.00% | ~21 |
 | God of the Tower! | 24.00% | ~20 |

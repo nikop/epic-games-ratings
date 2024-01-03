@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 161,
   "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 858,
+  "EOS_Progressed": 859,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.17,
+  "EOS_Completed_Percentage": 1.16,
   "EosHistory": [
     {
       "Time": "2023-09-22T21:07:10.6425492+00:00",
@@ -2955,6 +2955,11 @@
       "Time": "2024-01-03T06:08:51.5239798+00:00",
       "NumProgressed": 858,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-03T13:13:09.6677588+00:00",
+      "NumProgressed": 859,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -2975,15 +2980,15 @@
       "Name": "Establish Communications",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "ACH_eou2",
       "SetID": "51of0eo",
       "Name": "Destroy Strogg Logistical Train",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 283
+      "UsersEstimate": 275
     },
     {
       "ID": "ACH_eou3",
@@ -2991,7 +2996,7 @@
       "Name": "Destroy Security Grid",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ACH_eou4",
@@ -3005,9 +3010,9 @@
       "ID": "ACH_eou5",
       "SetID": "51of0eo",
       "Name": "Shut Down Processing Plant",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 180
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_eou6",
@@ -3039,7 +3044,7 @@
       "Name": "Disc Collector",
       "Percentage": 6,
       "XP": 120,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_n64",
@@ -3047,7 +3052,7 @@
       "Name": "Shut Down the Core",
       "Percentage": 6,
       "XP": 120,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_rogue",
@@ -3055,7 +3060,7 @@
       "Name": "Anti-Gravity",
       "Percentage": 6,
       "XP": 120,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_xatrix",
@@ -3070,14 +3075,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 858,
+      "Progressed": 859,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2024-01-03T12:09:06.430877+00:00",
+  "LastChanged_Achievements": "2024-01-03T13:13:09.6677583+00:00",
   "LastUpdate_AppInfo": "2023-12-29T06:57:16.3144275+00:00",
-  "LastUpdate_Ratings": "2024-01-03T12:00:26.2954026+00:00",
-  "LastUpdate_Achievements": "2024-01-03T12:09:06.4308964+00:00"
+  "LastUpdate_Ratings": "2024-01-03T13:04:20.3577054+00:00",
+  "LastUpdate_Achievements": "2024-01-03T13:13:09.6677958+00:00"
 }

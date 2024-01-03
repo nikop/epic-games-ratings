@@ -23,7 +23,7 @@
 | Pal of your father? | 61.00% | ~320 |
 | Spirit of the past | 59.00% | ~310 |
 | Employee of the month | 59.00% | ~310 |
-| Law student | 56.00% | ~294 |
+| Law student | 57.00% | ~299 |
 | Workout professional | 54.00% | ~284 |
 | Handyman | 54.00% | ~284 |
 | Fight for life | 53.00% | ~278 |
@@ -42,14 +42,14 @@
 | Mysterious voice | 40.00% | ~210 |
 | No blades in the gym | 38.00% | ~200 |
 | Champion – no way back | 37.00% | ~194 |
+| Responsible approach | 37.00% | ~194 |
 | Underground dwellers | 36.00% | ~189 |
-| Responsible approach | 36.00% | ~189 |
 | Mom got better | 34.00% | ~178 |
 | Deal with life | 34.00% | ~178 |
 | GYM professional | 34.00% | ~178 |
+| The die is cast | 34.00% | ~178 |
 | Poisoned fighter | 33.00% | ~173 |
 | Get out of my apartment! | 33.00% | ~173 |
-| The die is cast | 33.00% | ~173 |
 | Gang wrangler | 31.00% | ~163 |
 | Seashell hunter | 31.00% | ~163 |
 | Undercover robot | 31.00% | ~163 |

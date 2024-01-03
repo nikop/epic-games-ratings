@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 221,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 349,
-  "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2208,9 +2208,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16098,
+  "EOS_Progressed": 16100,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18853,6 +18853,11 @@
       "Time": "2024-01-03T12:10:33.8589946+00:00",
       "NumProgressed": 16098,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-03T13:14:30.3819607+00:00",
+      "NumProgressed": 16100,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -21638,9 +21643,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_COTHON",
       "SetID": "9201eeb",
       "Name": "Cothon",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HELIOPOLIS",
@@ -21727,21 +21732,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16098,
+      "Progressed": 16100,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16098,
+      "Progressed": 16100,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-29T16:02:55.9624641+00:00",
-  "LastChanged_Achievements": "2024-01-03T12:10:33.8589942+00:00",
+  "LastChanged_Achievements": "2024-01-03T13:14:30.3819603+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:24.5452657+00:00",
-  "LastUpdate_Ratings": "2024-01-03T11:58:02.9309033+00:00",
-  "LastUpdate_Achievements": "2024-01-03T12:10:33.8600948+00:00"
+  "LastUpdate_Ratings": "2024-01-03T13:02:10.0053995+00:00",
+  "LastUpdate_Achievements": "2024-01-03T13:14:30.3830093+00:00"
 }

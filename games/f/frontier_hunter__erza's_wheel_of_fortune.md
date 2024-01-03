@@ -5,18 +5,18 @@ Rating: 4.35 (Ranked 820)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 93.00% | ~641 |
-| Training Simulation | 79.00% | ~544 |
+| Travel Streamer | 93.00% | ~642 |
+| Training Simulation | 79.00% | ~545 |
 | Kuku Bird Hunter | 65.00% | ~448 |
-| Storm Traveller | 60.00% | ~413 |
-| Wolf King Killer | 55.00% | ~379 |
-| Fashion Connoisseur | 52.00% | ~358 |
+| Storm Traveller | 60.00% | ~414 |
+| Wolf King Killer | 55.00% | ~380 |
+| Fashion Connoisseur | 52.00% | ~359 |
 | Arms Mechanic | 49.00% | ~338 |
-| Flower Thief | 44.00% | ~303 |
+| Flower Thief | 44.00% | ~304 |
 | Apostle of Flame | 39.00% | ~269 |
 | Beginner Cook | 38.00% | ~262 |
 | Beginner Artificer | 37.00% | ~255 |
-| Seal Breaker | 32.00% | ~220 |
+| Seal Breaker | 32.00% | ~221 |
 | Handyman | 28.00% | ~193 |
 | Giant Lizard Killer | 27.00% | ~186 |
 | Guardian | 26.00% | ~179 |
@@ -29,10 +29,10 @@ Rating: 4.35 (Ranked 820)
 | Lethal Blade Mantis Killer | 17.00% | ~117 |
 | Master Artificer | 17.00% | ~117 |
 | Squeaky Clean | 16.00% | ~110 |
-| Kind Adventurer | 15.00% | ~103 |
-| Mermaid Killer | 15.00% | ~103 |
-| Cave Master | 15.00% | ~103 |
-| Face Slapper | 15.00% | ~103 |
+| Kind Adventurer | 15.00% | ~104 |
+| Mermaid Killer | 15.00% | ~104 |
+| Face Slapper | 15.00% | ~104 |
+| Cave Master | 14.00% | ~97 |
 | Boss challenge | 11.00% | ~76 |
 | Berserker Slayer | 11.00% | ~76 |
 | Giantess Slayer | 10.00% | ~69 |
@@ -51,8 +51,8 @@ Rating: 4.35 (Ranked 820)
 | Giantess Challenge | 2.00% | ~14 |
 | Warden Challenge | 2.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 689 (Ranked 317)  
-Completed: 3 (0.44%) (Ranked 229)  
+Progressed: 690 (Ranked 317)  
+Completed: 3 (0.43%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -171,7 +171,7 @@ Completed: 3 (0.44%) (Ranked 229)
 | 2023-12-31 | 678 | 2 |
 | 2024-01-01 | 682 | 3 |
 | 2024-01-02 | 687 | 3 |
-| 2024-01-03 | 689 | 3 |
+| 2024-01-03 | 690 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

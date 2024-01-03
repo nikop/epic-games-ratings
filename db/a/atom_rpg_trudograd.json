@@ -2,13 +2,13 @@
   "ID": "41591febb4a74d7faa39819d5788f7d0",
   "Name": "ATOM RPG Trudograd",
   "ProductSlug": "atom-rpg-trudograd-a97244",
-  "Ranking_Rating": 502,
+  "Ranking_Rating": 503,
   "Ranking_Popularity": 540,
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-11-07T12:00:00+00:00",
     "PcReleaseDate": "2022-11-07T12:00:00+00:00",
@@ -252,9 +252,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 1366,
+  "EOS_Progressed": 1367,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2052,6 +2052,11 @@
       "Time": "2024-01-03T11:09:19.4074731+00:00",
       "NumProgressed": 1366,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T13:13:53.2898057+00:00",
+      "NumProgressed": 1367,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -2311,14 +2316,14 @@
       "Name": "Fresh Prince of Trudograd",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     }
   ],
   "AchievementSets": [
     {
       "ID": "62d2oh4",
       "IsBase": true,
-      "Progressed": 1366,
+      "Progressed": 1367,
       "Completed": 0
     }
   ],
@@ -2326,8 +2331,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2023-12-29T02:14:41.7987751+00:00",
-  "LastChanged_Achievements": "2024-01-03T12:09:54.3938823+00:00",
+  "LastChanged_Achievements": "2024-01-03T13:13:53.2898047+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:57:00.3334195+00:00",
-  "LastUpdate_Ratings": "2024-01-03T11:58:54.7260083+00:00",
-  "LastUpdate_Achievements": "2024-01-03T12:09:54.3939131+00:00"
+  "LastUpdate_Ratings": "2024-01-03T13:02:57.3828137+00:00",
+  "LastUpdate_Achievements": "2024-01-03T13:13:53.2898434+00:00"
 }

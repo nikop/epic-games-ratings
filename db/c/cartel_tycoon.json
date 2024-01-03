@@ -6,9 +6,9 @@
   "Ranking_Popularity": 578,
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 294,
-  "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_Completed": 243,
+  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 920,
+  "EOS_Progressed": 921,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -3266,6 +3266,11 @@
       "Time": "2024-01-03T12:03:46.6393902+00:00",
       "NumProgressed": 920,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-03T13:07:51.7155809+00:00",
+      "NumProgressed": 921,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3317,7 +3322,7 @@
       "Name": "That was base",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "hire-lieutenant",
@@ -3325,7 +3330,7 @@
       "Name": "Our Man",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "kill-lieutenants",
@@ -3379,17 +3384,17 @@
       "ID": "rob-village",
       "SetID": "bed33dd",
       "Name": "Bite the Blow",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 203
     },
     {
       "ID": "sell-variety",
       "SetID": "bed33dd",
       "Name": "Spread",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 396
+      "UsersEstimate": 387
     },
     {
       "ID": "send-smuggling",
@@ -3405,15 +3410,15 @@
       "Name": "Pampered Life",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "upgrade-building",
       "SetID": "bed33dd",
       "Name": "Take-Off",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 736
+      "UsersEstimate": 728
     },
     {
       "ID": "use-submarine",
@@ -3428,15 +3433,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 920,
+      "Progressed": 921,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-23T10:57:58.3271618+00:00",
-  "LastChanged_Achievements": "2024-01-03T12:03:46.6393895+00:00",
+  "LastChanged_Achievements": "2024-01-03T13:07:51.7155804+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:28.1140989+00:00",
-  "LastUpdate_Ratings": "2024-01-03T12:03:02.0225195+00:00",
-  "LastUpdate_Achievements": "2024-01-03T12:03:46.6394211+00:00"
+  "LastUpdate_Ratings": "2024-01-03T13:07:10.6946135+00:00",
+  "LastUpdate_Achievements": "2024-01-03T13:07:51.7158145+00:00"
 }

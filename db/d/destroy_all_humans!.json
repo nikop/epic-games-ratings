@@ -1527,9 +1527,9 @@
       "ID": "ACH_ENEMY_KILLROBOPREZ",
       "SetID": "cefn62b",
       "Name": "Higher Than the Futen Zoku",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_ENEMY_KILLSWITHEXPLOSIVE",
@@ -1543,9 +1543,9 @@
       "ID": "ACH_ENEMY_SILHOUETTE",
       "SetID": "cefn62b",
       "Name": "Arty Facts",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 24
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_INVADE_AREA42",
@@ -1663,8 +1663,8 @@
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2024-01-02T13:57:49.2378657+00:00",
-  "LastChanged_Achievements": "2024-01-03T12:08:40.3072154+00:00",
+  "LastChanged_Achievements": "2024-01-03T13:12:45.3870252+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:06.6677344+00:00",
-  "LastUpdate_Ratings": "2024-01-03T11:58:04.0557338+00:00",
-  "LastUpdate_Achievements": "2024-01-03T12:08:40.3072438+00:00"
+  "LastUpdate_Ratings": "2024-01-03T13:02:11.2733583+00:00",
+  "LastUpdate_Achievements": "2024-01-03T13:12:45.3870661+00:00"
 }

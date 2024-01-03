@@ -51,13 +51,13 @@ Rating: 4.06 (Ranked 1,025)
 | Crystal Mining | 5.00% | ~206 |
 | Engineer Mastery | 5.00% | ~206 |
 | How Do You Turn This On? | 5.00% | ~206 |
+| Lock And Load | 5.00% | ~206 |
 | Missions Dedication | 5.00% | ~206 |
 | Sailor | 5.00% | ~206 |
 | Active Member | 4.00% | ~165 |
 | Ancient Knowledge | 4.00% | ~165 |
 | Background Story | 4.00% | ~165 |
 | Legendary | 4.00% | ~165 |
-| Lock And Load | 4.00% | ~165 |
 | The Alchemist | 4.00% | ~165 |
 | Arena Challenger | 3.00% | ~124 |
 | Ebony Jungle Liberator | 3.00% | ~124 |

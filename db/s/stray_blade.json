@@ -4,8 +4,8 @@
   "ProductSlug": "stray-blade",
   "Ranking_EOS_Progress": 449,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 475,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 460,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 149,
+  "EOS_Progressed": 150,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -734,6 +734,11 @@
       "Time": "2023-12-31T16:10:10.6167039+00:00",
       "NumProgressed": 149,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T13:14:22.3138361+00:00",
+      "NumProgressed": 150,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -825,7 +830,7 @@
       "Name": "Self-Defence",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_ENTER_REGION_BEAR",
@@ -993,7 +998,7 @@
       "Name": "Welcome to the Club",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_FINISH_GAME",
@@ -1017,7 +1022,7 @@
       "Name": "A new World ahead",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_PERFORM_MANY_PARRIES",
@@ -1025,7 +1030,7 @@
       "Name": "Can\u0027t touch this",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_REUNITE_WITH_BOJI",
@@ -1049,7 +1054,7 @@
       "Name": "A Deceiving Gift",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_REVEAL_MIRAGE_ILLUSION",
@@ -1065,7 +1070,7 @@
       "Name": "Apprentice",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_SKILLTREE_PROGRESSION_100",
@@ -1089,7 +1094,7 @@
       "Name": "The Golden Flash",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_UNLOCK_ABILITY_MANNINITE",
@@ -1097,7 +1102,7 @@
       "Name": "The Power of the Mountains",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_UNLOCK_ABILITY_XHINNON",
@@ -1105,7 +1110,7 @@
       "Name": "Changing the World",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_DLC_DEFEAT_BOSS_SCIENTIST",
@@ -1160,13 +1165,13 @@
     {
       "ID": "7i20me3",
       "IsBase": true,
-      "Progressed": 149,
+      "Progressed": 150,
       "Completed": 0
     },
     {
       "ID": "doc1i1",
       "IsBase": false,
-      "Progressed": 147,
+      "Progressed": 148,
       "Completed": 117
     }
   ],
@@ -1174,8 +1179,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2024-01-03T12:10:25.5411664+00:00",
+  "LastChanged_Achievements": "2024-01-03T13:14:22.3138353+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:22.2596584+00:00",
-  "LastUpdate_Ratings": "2024-01-03T12:00:31.909137+00:00",
-  "LastUpdate_Achievements": "2024-01-03T12:10:25.541219+00:00"
+  "LastUpdate_Ratings": "2024-01-03T13:04:26.4418795+00:00",
+  "LastUpdate_Achievements": "2024-01-03T13:14:22.3139092+00:00"
 }

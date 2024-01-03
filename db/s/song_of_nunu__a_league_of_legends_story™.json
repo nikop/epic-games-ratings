@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
     "PcReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -71,7 +71,7 @@
   "Tags": [],
   "EOS_Progressed": 1445,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -4074,9 +4074,9 @@
       "ID": "EV_ACH36",
       "SetID": "6jeac23",
       "Name": "The Relentless Storm",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 665
+      "UsersEstimate": 679
     },
     {
       "ID": "EV_ACH37",
@@ -4155,8 +4155,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2023-12-25T19:59:38.6529887+00:00",
-  "LastChanged_Achievements": "2024-01-03T12:10:28.8103747+00:00",
+  "LastChanged_Achievements": "2024-01-03T13:14:25.4533079+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:31.1823177+00:00",
-  "LastUpdate_Ratings": "2024-01-03T12:00:57.3966603+00:00",
-  "LastUpdate_Achievements": "2024-01-03T12:10:28.8104263+00:00"
+  "LastUpdate_Ratings": "2024-01-03T13:04:50.6454073+00:00",
+  "LastUpdate_Achievements": "2024-01-03T13:14:25.4533592+00:00"
 }

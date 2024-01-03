@@ -1,32 +1,32 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.19 (Ranked 965)  
+Rating: 4.21 (Ranked 948)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~2,272 |
-| Battlefields Have Memories | 81.00% | ~2,091 |
-| Enlisted | 74.00% | ~1,911 |
-| Maybe Engage a Little | 69.00% | ~1,782 |
-| No More Names | 51.00% | ~1,317 |
-| Initiate | 37.00% | ~955 |
-| Thrada-Kul | 33.00% | ~852 |
-| Gravity-Challenged Rocks | 26.00% | ~671 |
+| Unforeseen | 88.00% | ~2,274 |
+| Battlefields Have Memories | 81.00% | ~2,093 |
+| Enlisted | 74.00% | ~1,912 |
+| Maybe Engage a Little | 69.00% | ~1,783 |
+| No More Names | 51.00% | ~1,318 |
+| Initiate | 37.00% | ~956 |
+| Thrada-Kul | 33.00% | ~853 |
+| Gravity-Challenged Rocks | 27.00% | ~698 |
 | Socialite | 24.00% | ~620 |
 | Soldier | 23.00% | ~594 |
 | All the Major Food Groups | 22.00% | ~568 |
-| Beggars Would Ride | 20.00% | ~516 |
+| Beggars Would Ride | 20.00% | ~517 |
 | Control is an Illusion | 19.00% | ~491 |
 | The Means to Save It | 16.00% | ~413 |
-| Resilience to Sin | 15.00% | ~387 |
-| A Familiar Nest | 14.00% | ~361 |
-| Periapt Alizarin | 14.00% | ~361 |
+| Resilience to Sin | 15.00% | ~388 |
+| A Familiar Nest | 14.00% | ~362 |
+| Periapt Alizarin | 14.00% | ~362 |
 | Geas Aristeya | 13.00% | ~336 |
 | A Perfect Cycle | 13.00% | ~336 |
 | Recruit | 12.00% | ~310 |
 | Armsman | 10.00% | ~258 |
-| Lights Army | 9.00% | ~232 |
+| Lights Army | 9.00% | ~233 |
 | Periapt Cerulean | 7.00% | ~181 |
 | Good Boy | 7.00% | ~181 |
 | Periapt Viridian | 6.00% | ~155 |
@@ -34,16 +34,16 @@ Rating: 4.19 (Ranked 965)
 | Shroudfane Explorer | 5.00% | ~129 |
 | Kitted Out | 4.00% | ~103 |
 | Armaments Gules | 4.00% | ~103 |
-| Scholar | 3.00% | ~77 |
-| Armaments Azure | 3.00% | ~77 |
-| Armaments Vert | 3.00% | ~77 |
+| Scholar | 3.00% | ~78 |
+| Armaments Azure | 3.00% | ~78 |
+| Armaments Vert | 3.00% | ~78 |
 | Veteran | 2.00% | ~52 |
 | Grand Magnus | 1.00% | ~26 |
 | Master of Carmine | 1.00% | ~26 |
-| Tip of the Spear | 0.90% | ~23 |
+| Tip of the Spear | 1.00% | ~26 |
 | Shroudfane Surveyor | 0.80% | ~21 |
 | Backtracker | 0.70% | ~18 |
-| Master of Ultramarine | 0.60% | ~15 |
+| Master of Ultramarine | 0.60% | ~16 |
 | Witch-Taker | 0.50% | ~13 |
 | Master of Malachite | 0.50% | ~13 |
 | Family Business | 0.40% | ~10 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 965)
 | Out of Time | 0.20% | ~5 |
 | Fowl Play | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,582 (Ranked 231)  
+Progressed: 2,584 (Ranked 231)  
 Completed: 2 (0.08%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 2 (0.08%) (Ranked 318)
 | 2023-12-31 | 2,400 | 2 |
 | 2024-01-01 | 2,478 | 2 |
 | 2024-01-02 | 2,542 | 2 |
-| 2024-01-03 | 2,582 | 2 |
+| 2024-01-03 | 2,584 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -197,3 +197,4 @@ Completed: 2 (0.08%) (Ranked 318)
 | 2023-12-31 | 4.19 | 0 | 0 |
 | 2024-01-01 | 4.20 | 0 | 0 |
 | 2024-01-02 | 4.20 | 0 | 0 |
+| 2024-01-03 | 4.21 | 0 | 0 |

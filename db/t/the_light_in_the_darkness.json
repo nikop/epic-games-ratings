@@ -4,8 +4,8 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 44,
-  "Ranking_EOS_NewPlayers": 297,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2839,
+  "EOS_Progressed": 2840,
   "EOS_Completed": 261,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 9.19,
   "EosHistory": [
@@ -8171,6 +8171,11 @@
       "Time": "2024-01-02T22:09:23.0404514+00:00",
       "NumProgressed": 2839,
       "NumCompleted": 261
+    },
+    {
+      "Time": "2024-01-03T13:13:26.6776184+00:00",
+      "NumProgressed": 2840,
+      "NumCompleted": 261
     }
   ],
   "TotalAchievements": 12,
@@ -8206,7 +8211,7 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "Jacques a Dit",
@@ -8230,7 +8235,7 @@
       "Name": "Jude",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "Le Juif et la France",
@@ -8238,7 +8243,7 @@
       "Name": "Le Juif et la France",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "Little Helper",
@@ -8277,7 +8282,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2839,
+      "Progressed": 2840,
       "Completed": 261
     }
   ],
@@ -8285,8 +8290,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2024-01-03T12:09:24.9453516+00:00",
+  "LastChanged_Achievements": "2024-01-03T13:13:26.6776177+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:43.1784537+00:00",
-  "LastUpdate_Ratings": "2024-01-03T11:59:16.5829389+00:00",
-  "LastUpdate_Achievements": "2024-01-03T12:09:24.9453991+00:00"
+  "LastUpdate_Ratings": "2024-01-03T13:03:17.1676539+00:00",
+  "LastUpdate_Achievements": "2024-01-03T13:13:26.6776715+00:00"
 }

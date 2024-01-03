@@ -2,7 +2,7 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed Ecto Edition",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 613,
+  "Ranking_Rating": 612,
   "Ranking_Popularity": 254,
   "Ranking_PopularitySum": 185,
   "Ranking_EOS_Progress": 136,
@@ -3927,9 +3927,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33174,
+  "EOS_Progressed": 33177,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 383,
+  "EOS_NewPlayers": 382,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -24437,6 +24437,11 @@
       "Time": "2024-01-03T12:09:07.2582733+00:00",
       "NumProgressed": 33174,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-03T13:13:10.4504191+00:00",
+      "NumProgressed": 33177,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -24504,7 +24509,7 @@
       "Name": "Collector",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "Cultured",
@@ -24536,7 +24541,7 @@
       "Name": "Discovery",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1990
+      "UsersEstimate": 1991
     },
     {
       "ID": "Dont_Need_These",
@@ -24568,7 +24573,7 @@
       "Name": "Escape Artist",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "Fragile_Panes",
@@ -24672,7 +24677,7 @@
       "Name": "Reckless",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "Rift_Destroyer",
@@ -24680,7 +24685,7 @@
       "Name": "Rift Destroyer",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "Rift_Seeker",
@@ -24728,7 +24733,7 @@
       "Name": "Skilled",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "Solo_Capture",
@@ -24736,7 +24741,7 @@
       "Name": "Solo Capture",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1990
+      "UsersEstimate": 1991
     },
     {
       "ID": "Stunner",
@@ -24744,7 +24749,7 @@
       "Name": "Stunner",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "Stylish",
@@ -24776,7 +24781,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 1990
+      "UsersEstimate": 1991
     },
     {
       "ID": "Teamwork",
@@ -24816,7 +24821,7 @@
       "Name": "Tobin\u0027s Prodigy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "Ultimate_Defense",
@@ -24840,7 +24845,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "Whoopsie",
@@ -24855,7 +24860,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33174,
+      "Progressed": 33177,
       "Completed": 71
     }
   ],
@@ -24863,8 +24868,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2024-01-02T09:58:49.6019984+00:00",
-  "LastChanged_Achievements": "2024-01-03T12:09:07.2582729+00:00",
+  "LastChanged_Achievements": "2024-01-03T13:13:10.4504186+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:23.250158+00:00",
-  "LastUpdate_Ratings": "2024-01-03T11:59:44.4791976+00:00",
-  "LastUpdate_Achievements": "2024-01-03T12:09:07.2584002+00:00"
+  "LastUpdate_Ratings": "2024-01-03T13:03:43.6233312+00:00",
+  "LastUpdate_Achievements": "2024-01-03T13:13:10.4505895+00:00"
 }

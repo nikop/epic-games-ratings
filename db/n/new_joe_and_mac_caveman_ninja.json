@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 127,
   "Ranking_EOS_NewPlayers": 375,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
     "PcReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -695,9 +695,9 @@
       "ID": "01",
       "SetID": "6glb5g1",
       "Name": "The T-Rex plain.",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 136
+      "UsersEstimate": 139
     },
     {
       "ID": "02",
@@ -824,8 +824,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2024-01-03T12:04:52.4782264+00:00",
+  "LastChanged_Achievements": "2024-01-03T13:08:53.638084+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:56:57.5978328+00:00",
-  "LastUpdate_Ratings": "2024-01-03T11:57:49.2038125+00:00",
-  "LastUpdate_Achievements": "2024-01-03T12:04:52.478246+00:00"
+  "LastUpdate_Ratings": "2024-01-03T13:01:57.4040355+00:00",
+  "LastUpdate_Achievements": "2024-01-03T13:08:53.6380971+00:00"
 }

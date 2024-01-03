@@ -1,16 +1,16 @@
 # Ghostbusters: Spirits Unleashed Ecto Edition
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 613)  
+Rating: 4.50 (Ranked 612)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 11.00% | ~3,649 |
 | Advancement | 8.00% | ~2,654 |
 | Meticulously Efficient | 8.00% | ~2,654 |
-| Discovery | 6.00% | ~1,990 |
-| Solo Capture | 6.00% | ~1,990 |
-| Swift Rift Removers | 6.00% | ~1,990 |
+| Discovery | 6.00% | ~1,991 |
+| Solo Capture | 6.00% | ~1,991 |
+| Swift Rift Removers | 6.00% | ~1,991 |
 | I collect Spores, Molds, and Fungi | 5.00% | ~1,659 |
 | Fully Upgraded | 5.00% | ~1,659 |
 | Teamwork | 5.00% | ~1,659 |
@@ -32,14 +32,14 @@ Rating: 4.50 (Ranked 613)
 | Seasoned | 3.00% | ~995 |
 | Side Hustle | 3.00% | ~995 |
 | Summoner | 3.00% | ~995 |
-| Collector | 2.00% | ~663 |
-| Escape Artist | 2.00% | ~663 |
-| Reckless | 2.00% | ~663 |
-| Rift Destroyer | 2.00% | ~663 |
-| Skilled | 2.00% | ~663 |
-| Stunner | 2.00% | ~663 |
-| Tobin's Prodigy | 2.00% | ~663 |
-| Welcome to the Crew | 2.00% | ~663 |
+| Collector | 2.00% | ~664 |
+| Escape Artist | 2.00% | ~664 |
+| Reckless | 2.00% | ~664 |
+| Rift Destroyer | 2.00% | ~664 |
+| Skilled | 2.00% | ~664 |
+| Stunner | 2.00% | ~664 |
+| Tobin's Prodigy | 2.00% | ~664 |
+| Welcome to the Crew | 2.00% | ~664 |
 | Diabolical | 1.00% | ~332 |
 | Fragile Panes | 1.00% | ~332 |
 | Liability | 1.00% | ~332 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 613)
 | Ultimate Defense | 0.20% | ~66 |
 | Line em' up | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,174 (Ranked 136)  
+Progressed: 33,177 (Ranked 136)  
 Completed: 71 (0.21%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 71 (0.21%) (Ranked 269)
 | 2023-12-31 | 33,028 | 71 |
 | 2024-01-01 | 33,089 | 71 |
 | 2024-01-02 | 33,151 | 71 |
-| 2024-01-03 | 33,174 | 71 |
+| 2024-01-03 | 33,177 | 71 |
 ## Awards
 Max (Great for Quick Sessions): 326  (Ranked 254)  
 Sum: 2,947 (Ranked 185)  
