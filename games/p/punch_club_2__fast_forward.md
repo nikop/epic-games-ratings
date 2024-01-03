@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Such a strange dream… | 89.00% | ~466 |
 | Your first fight | 85.00% | ~445 |
-| Good Person Chip | 82.00% | ~430 |
+| Good Person Chip | 83.00% | ~435 |
 | First winning | 81.00% | ~424 |
 | Your first job | 80.00% | ~419 |
 | Depressed visitor | 74.00% | ~388 |
@@ -24,12 +24,12 @@
 | Spirit of the past | 59.00% | ~309 |
 | Employee of the month | 59.00% | ~309 |
 | Law student | 56.00% | ~293 |
+| Workout professional | 54.00% | ~283 |
 | Handyman | 54.00% | ~283 |
-| Workout professional | 53.00% | ~278 |
+| Fight for life | 53.00% | ~278 |
 | Little hacker | 53.00% | ~278 |
 | Champion – starter pack | 53.00% | ~278 |
 | It's good to be alive | 53.00% | ~278 |
-| Fight for life | 52.00% | ~272 |
 | Own four walls | 52.00% | ~272 |
 | Intriguing candies | 52.00% | ~272 |
 | Employee of the year | 52.00% | ~272 |

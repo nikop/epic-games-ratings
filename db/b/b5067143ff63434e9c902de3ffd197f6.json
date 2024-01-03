@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18216,
+  "EOS_Progressed": 18224,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1637,
+  "EOS_NewPlayers": 1639,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11114,6 +11114,11 @@
       "Time": "2024-01-03T01:50:29.6391332+00:00",
       "NumProgressed": 18216,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T02:25:38.2873334+00:00",
+      "NumProgressed": 18224,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -11222,7 +11227,7 @@
       "Name": "Level 0",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4554
+      "UsersEstimate": 4556
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -11230,7 +11235,7 @@
       "Name": "Level 1",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2186
+      "UsersEstimate": 2187
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -11238,7 +11243,7 @@
       "Name": "Dreamer!",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2004
+      "UsersEstimate": 2005
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -11246,7 +11251,7 @@
       "Name": "Poolrooms",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "ACH_WINLEVEL4",
@@ -11286,7 +11291,7 @@
       "Name": "Motion",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "ACH_WINLEVEL9999999",
@@ -11317,14 +11322,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 18216,
+      "Progressed": 18224,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2024-01-03T01:50:29.6391326+00:00",
+  "LastChanged_Achievements": "2024-01-03T02:25:38.287333+00:00",
   "LastUpdate_AppInfo": "2024-01-01T19:57:14.7039433+00:00",
-  "LastUpdate_Ratings": "2024-01-03T01:48:47.5480939+00:00",
-  "LastUpdate_Achievements": "2024-01-03T01:50:29.6391841+00:00"
+  "LastUpdate_Ratings": "2024-01-03T02:23:53.1192149+00:00",
+  "LastUpdate_Achievements": "2024-01-03T02:25:38.2874159+00:00"
 }

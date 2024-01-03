@@ -587,9 +587,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 46203,
+  "EOS_Progressed": 46204,
   "EOS_Completed": 234,
-  "EOS_NewPlayers": 956,
+  "EOS_NewPlayers": 957,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -12827,6 +12827,11 @@
       "Time": "2024-01-03T01:55:19.0862924+00:00",
       "NumProgressed": 46203,
       "NumCompleted": 234
+    },
+    {
+      "Time": "2024-01-03T02:30:28.7253251+00:00",
+      "NumProgressed": 46204,
+      "NumCompleted": 234
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -12839,7 +12844,7 @@
       "Name": "Descendants",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 6930
+      "UsersEstimate": 6931
     },
     {
       "ID": "ACH_BLUEEND",
@@ -13031,7 +13036,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 31418
+      "UsersEstimate": 31419
     },
     {
       "ID": "ACH_S4",
@@ -13055,7 +13060,7 @@
       "Name": "Lost in Space",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 34652
+      "UsersEstimate": 34653
     },
     {
       "ID": "ACH_STATUE",
@@ -13063,22 +13068,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 19867
+      "UsersEstimate": 19868
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 46203,
+      "Progressed": 46204,
       "Completed": 234
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-12-17T06:58:25.2845688+00:00",
-  "LastChanged_Achievements": "2024-01-03T01:55:19.0862918+00:00",
+  "LastChanged_Achievements": "2024-01-03T02:30:28.7253247+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:18.3640051+00:00",
-  "LastUpdate_Ratings": "2024-01-03T01:45:39.263201+00:00",
-  "LastUpdate_Achievements": "2024-01-03T01:55:19.0863731+00:00"
+  "LastUpdate_Ratings": "2024-01-03T02:20:34.4050568+00:00",
+  "LastUpdate_Achievements": "2024-01-03T02:30:28.7254036+00:00"
 }

@@ -391,9 +391,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2556,
+  "EOS_Progressed": 2558,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 582,
+  "EOS_NewPlayers": 580,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4176,6 +4176,11 @@
       "Time": "2024-01-03T01:55:47.5804018+00:00",
       "NumProgressed": 2556,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-03T02:30:57.9355148+00:00",
+      "NumProgressed": 2558,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -4188,7 +4193,7 @@
       "Name": "Unforeseen",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 2249
+      "UsersEstimate": 2251
     },
     {
       "ID": "achievement_10",
@@ -4212,7 +4217,7 @@
       "Name": "Resilience to Sin",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "achievement_13",
@@ -4228,7 +4233,7 @@
       "Name": "Geas Aristeya",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "achievement_15",
@@ -4276,7 +4281,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 2070
+      "UsersEstimate": 2072
     },
     {
       "ID": "achievement_20",
@@ -4332,7 +4337,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1764
+      "UsersEstimate": 1765
     },
     {
       "ID": "achievement_36",
@@ -4364,7 +4369,7 @@
       "Name": "No More Names",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1304
+      "UsersEstimate": 1305
     },
     {
       "ID": "achievement_41",
@@ -4420,7 +4425,7 @@
       "Name": "Enlisted",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 1891
+      "UsersEstimate": 1893
     },
     {
       "ID": "achievement_49",
@@ -4484,7 +4489,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "achievement_60",
@@ -4540,7 +4545,7 @@
       "Name": "Gravity-Challenged Rocks",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "achievement_8",
@@ -4548,7 +4553,7 @@
       "Name": "All the Major Food Groups",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "achievement_9",
@@ -4556,14 +4561,14 @@
       "Name": "Beggars Would Ride",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 2556,
+      "Progressed": 2558,
       "Completed": 2
     }
   ],
@@ -4571,8 +4576,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-02T16:59:14.2447676+00:00",
-  "LastChanged_Achievements": "2024-01-03T01:55:47.5804013+00:00",
+  "LastChanged_Achievements": "2024-01-03T02:30:57.9355146+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.4007279+00:00",
-  "LastUpdate_Ratings": "2024-01-03T01:44:36.2255521+00:00",
-  "LastUpdate_Achievements": "2024-01-03T01:55:47.5804651+00:00"
+  "LastUpdate_Ratings": "2024-01-03T02:19:30.7409154+00:00",
+  "LastUpdate_Achievements": "2024-01-03T02:30:57.9355545+00:00"
 }

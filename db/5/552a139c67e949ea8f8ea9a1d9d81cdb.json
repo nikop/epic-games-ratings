@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1803,
+  "EOS_Progressed": 1804,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4497,6 +4497,11 @@
       "Time": "2024-01-03T01:51:40.4495986+00:00",
       "NumProgressed": 1803,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-03T02:26:50.9242623+00:00",
+      "NumProgressed": 1804,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4667,9 +4672,9 @@
       "ID": "ML_ACHIEVEMENT_21",
       "SetID": "5k00jcd",
       "Name": "I\u0027m in charge here!",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 72
     },
     {
       "ID": "ML_ACHIEVEMENT_22",
@@ -4876,20 +4881,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1803,
+      "Progressed": 1804,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1471,
+      "Progressed": 1472,
       "Completed": 1006
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-03T01:51:40.4495982+00:00",
+  "LastChanged_Achievements": "2024-01-03T02:26:50.9242616+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:19.4494243+00:00",
-  "LastUpdate_Ratings": "2024-01-03T01:45:52.890496+00:00",
-  "LastUpdate_Achievements": "2024-01-03T01:51:40.4496603+00:00"
+  "LastUpdate_Ratings": "2024-01-03T02:20:46.3465663+00:00",
+  "LastUpdate_Achievements": "2024-01-03T02:26:50.9243247+00:00"
 }

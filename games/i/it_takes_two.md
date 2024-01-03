@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fried Friendship | 84.00% | ~79,423 |
-| Struck A Pose | 82.00% | ~77,532 |
-| Look At Him Go | 68.00% | ~64,295 |
-| On Rails Experience | 44.00% | ~41,602 |
-| A Daring Devil | 43.00% | ~40,657 |
-| Break the Bank | 33.00% | ~31,202 |
-| It Took Two | 29.00% | ~27,420 |
-| Bug Sized Relaxation | 13.00% | ~12,292 |
-| Plastic Prison Breakers | 13.00% | ~12,292 |
-| Terror Of The Seven Seas | 10.00% | ~9,455 |
-| Realize Your Art | 8.00% | ~7,564 |
-| Force Triangulated | 8.00% | ~7,564 |
-| Meditation Maestro | 7.00% | ~6,619 |
-| Snackosaurus | 6.00% | ~5,673 |
-| Platforming Prodigy | 6.00% | ~5,673 |
-| Lost And Found | 6.00% | ~5,673 |
-| Something Fishy | 6.00% | ~5,673 |
-| Mood Swing | 4.00% | ~3,782 |
+| Fried Friendship | 84.00% | ~79,439 |
+| Struck A Pose | 82.00% | ~77,547 |
+| Look At Him Go | 68.00% | ~64,308 |
+| On Rails Experience | 44.00% | ~41,611 |
+| A Daring Devil | 43.00% | ~40,665 |
+| Break the Bank | 33.00% | ~31,208 |
+| It Took Two | 29.00% | ~27,425 |
+| Bug Sized Relaxation | 13.00% | ~12,294 |
+| Plastic Prison Breakers | 13.00% | ~12,294 |
+| Terror Of The Seven Seas | 10.00% | ~9,457 |
+| Realize Your Art | 8.00% | ~7,566 |
+| Force Triangulated | 8.00% | ~7,566 |
+| Meditation Maestro | 7.00% | ~6,620 |
+| Snackosaurus | 6.00% | ~5,674 |
+| Platforming Prodigy | 6.00% | ~5,674 |
+| Lost And Found | 6.00% | ~5,674 |
+| Something Fishy | 6.00% | ~5,674 |
+| Mood Swing | 4.00% | ~3,783 |
 | Faraway Frequencies | 3.00% | ~2,837 |
 | Minigame Megalomania | 2.00% | ~1,891 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 94,551 (Ranked 100)  
+Progressed: 94,570 (Ranked 100)  
 Completed: 202 (0.21%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,4 +135,4 @@ Completed: 202 (0.21%) (Ranked 269)
 | 2023-12-31 | 90,187 | 189 |
 | 2024-01-01 | 92,751 | 196 |
 | 2024-01-02 | 94,529 | 200 |
-| 2024-01-03 | 94,551 | 202 |
+| 2024-01-03 | 94,570 | 202 |

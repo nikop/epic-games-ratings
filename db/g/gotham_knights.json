@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -5027,9 +5027,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 81122,
+  "EOS_Progressed": 81123,
   "EOS_Completed": 130,
-  "EOS_NewPlayers": 1207,
+  "EOS_NewPlayers": 1201,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -28642,6 +28642,11 @@
       "Time": "2024-01-03T01:51:20.071274+00:00",
       "NumProgressed": 81122,
       "NumCompleted": 130
+    },
+    {
+      "Time": "2024-01-03T02:26:30.2507177+00:00",
+      "NumProgressed": 81123,
+      "NumCompleted": 130
     }
   ],
   "TotalAchievements": 61,
@@ -28757,7 +28762,7 @@
       "Name": "Something in the Clay",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 16224
+      "UsersEstimate": 16225
     },
     {
       "ID": "CLAYFACE_2",
@@ -28885,7 +28890,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 16224
+      "UsersEstimate": 16225
     },
     {
       "ID": "FREEZE_2",
@@ -28957,7 +28962,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 27581
+      "UsersEstimate": 27582
     },
     {
       "ID": "HARLEY_2",
@@ -28965,7 +28970,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 19469
+      "UsersEstimate": 19470
     },
     {
       "ID": "HARLEY_3",
@@ -28973,7 +28978,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 16224
+      "UsersEstimate": 16225
     },
     {
       "ID": "HARLEY_4",
@@ -28997,7 +29002,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 40561
+      "UsersEstimate": 40562
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -29021,7 +29026,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 16224
+      "UsersEstimate": 16225
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -29045,7 +29050,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 26770
+      "UsersEstimate": 26771
     },
     {
       "ID": "MYSTERY_02",
@@ -29053,7 +29058,7 @@
       "Name": "Whispered Words",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 19469
+      "UsersEstimate": 19470
     },
     {
       "ID": "MYSTERY_03",
@@ -29069,7 +29074,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 16224
+      "UsersEstimate": 16225
     },
     {
       "ID": "MYSTERY_05",
@@ -29109,7 +29114,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 8923
+      "UsersEstimate": 8924
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -29140,13 +29145,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 81122,
+      "Progressed": 81123,
       "Completed": 130
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 51402,
+      "Progressed": 51403,
       "Completed": 2679
     }
   ],
@@ -29154,8 +29159,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-03T01:48:41.9933438+00:00",
-  "LastChanged_Achievements": "2024-01-03T01:51:20.0712736+00:00",
+  "LastChanged_Achievements": "2024-01-03T02:26:30.2507174+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:01.2163004+00:00",
-  "LastUpdate_Ratings": "2024-01-03T01:48:41.9933455+00:00",
-  "LastUpdate_Achievements": "2024-01-03T01:51:20.0713935+00:00"
+  "LastUpdate_Ratings": "2024-01-03T02:23:47.066764+00:00",
+  "LastUpdate_Achievements": "2024-01-03T02:26:30.2508481+00:00"
 }

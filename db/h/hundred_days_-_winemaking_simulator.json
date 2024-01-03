@@ -1111,7 +1111,7 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 18883,
+  "EOS_Progressed": 18884,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 1111,
   "EOS_NewCompleters": 0,
@@ -15901,6 +15901,11 @@
       "Time": "2024-01-03T01:55:34.4492821+00:00",
       "NumProgressed": 18883,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-03T02:30:44.3679965+00:00",
+      "NumProgressed": 18884,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -15945,7 +15950,7 @@
       "Name": "Big Money",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "a_16",
@@ -16033,7 +16038,7 @@
       "Name": "Keep the doctor away",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "a_28",
@@ -16049,7 +16054,7 @@
       "Name": "Surprise of Langhe",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "a_30",
@@ -16145,7 +16150,7 @@
       "Name": "Famous",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "a_9",
@@ -16160,7 +16165,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 18883,
+      "Progressed": 18884,
       "Completed": 13
     }
   ],
@@ -16168,8 +16173,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2024-01-01T19:03:20.2476808+00:00",
-  "LastChanged_Achievements": "2024-01-03T01:55:34.4492817+00:00",
+  "LastChanged_Achievements": "2024-01-03T02:30:44.3679959+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:46.499135+00:00",
-  "LastUpdate_Ratings": "2024-01-03T01:48:42.6056367+00:00",
-  "LastUpdate_Achievements": "2024-01-03T01:55:34.4493747+00:00"
+  "LastUpdate_Ratings": "2024-01-03T02:23:47.7233257+00:00",
+  "LastUpdate_Achievements": "2024-01-03T02:30:44.3681297+00:00"
 }

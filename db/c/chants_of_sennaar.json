@@ -103,9 +103,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2251,
+  "EOS_Progressed": 2252,
   "EOS_Completed": 141,
-  "EOS_NewPlayers": 394,
+  "EOS_NewPlayers": 395,
   "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 6.26,
   "EosHistory": [
@@ -6158,6 +6158,11 @@
       "Time": "2024-01-03T01:49:40.1325716+00:00",
       "NumProgressed": 2251,
       "NumCompleted": 141
+    },
+    {
+      "Time": "2024-01-03T02:24:47.5943744+00:00",
+      "NumProgressed": 2252,
+      "NumCompleted": 141
     }
   ],
   "TotalAchievements": 25,
@@ -6201,7 +6206,7 @@
       "Name": "A good beginning",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "META_HALF_LINK",
@@ -6289,7 +6294,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -6337,7 +6342,7 @@
       "Name": "The great escape",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 990
+      "UsersEstimate": 991
     },
     {
       "ID": "PROGRESS_N3",
@@ -6345,7 +6350,7 @@
       "Name": "A new dawn",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "PROGRESS_N4",
@@ -6361,14 +6366,14 @@
       "Name": "One last step",
       "Percentage": 26,
       "XP": 80,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2251,
+      "Progressed": 2252,
       "Completed": 141
     }
   ],
@@ -6376,8 +6381,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-02T16:02:46.9551572+00:00",
-  "LastChanged_Achievements": "2024-01-03T01:49:40.1325712+00:00",
+  "LastChanged_Achievements": "2024-01-03T02:24:47.5943739+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:09.4320521+00:00",
-  "LastUpdate_Ratings": "2024-01-03T01:48:41.3750631+00:00",
-  "LastUpdate_Achievements": "2024-01-03T01:49:40.1326166+00:00"
+  "LastUpdate_Ratings": "2024-01-03T02:23:46.4790983+00:00",
+  "LastUpdate_Achievements": "2024-01-03T02:24:47.5944189+00:00"
 }

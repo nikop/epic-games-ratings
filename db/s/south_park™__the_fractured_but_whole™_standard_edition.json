@@ -2,7 +2,7 @@
   "ID": "764eb429792649e4a606413cd649de2c",
   "Name": "South Park\u2122: The Fractured But Whole\u2122 Standard Edition",
   "ProductSlug": "south-park-the-fractured-but-whole",
-  "Ranking_Rating": 40,
+  "Ranking_Rating": 39,
   "Ranking_Popularity": 308,
   "Ranking_PopularitySum": 425,
   "Ranking_EOS_Progress": 820,
@@ -826,18 +826,24 @@
       "Rating": 4.85,
       "NumberOfAwards": 183,
       "NumberOfAwardsMax": 183
+    },
+    {
+      "Time": "2024-01-03T02:20:28.5069878+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 184,
+      "NumberOfAwardsMax": 184
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 183,
-  "NumberOfAwardsMax": 183,
+  "NumberOfAwards": 184,
+  "NumberOfAwardsMax": 184,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 183
+      "Count": 184
     }
   ],
   "EOS_Progressed": 0,
@@ -851,8 +857,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:01.7638488+00:00",
-  "LastChanged": "2023-12-31T03:58:29.6772805+00:00",
+  "LastChanged": "2024-01-03T02:20:28.5069876+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:20.9820619+00:00",
-  "LastUpdate_Ratings": "2024-01-03T01:45:32.8463215+00:00",
-  "LastUpdate_Achievements": "2024-01-03T01:49:39.3768189+00:00"
+  "LastUpdate_Ratings": "2024-01-03T02:20:28.5069881+00:00",
+  "LastUpdate_Achievements": "2024-01-03T02:24:46.8396291+00:00"
 }

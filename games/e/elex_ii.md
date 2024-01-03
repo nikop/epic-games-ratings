@@ -12,8 +12,8 @@ Number of Ratings: 124  (23.09.2022)
 | Role Model | 24.00% | ~40 |
 | Festival-goer | 22.00% | ~37 |
 | Peddler | 20.00% | ~33 |
+| Creator | 20.00% | ~33 |
 | Military Leader | 19.00% | ~32 |
-| Creator | 19.00% | ~32 |
 | Commander | 17.00% | ~28 |
 | Irissa's Fate | 14.00% | ~23 |
 | Long-Haul Flyer | 13.00% | ~22 |

@@ -5,7 +5,7 @@
   "Ranking_Rating": 871,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
-  "Ranking_EOS_Progress": 313,
+  "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 151,
@@ -337,7 +337,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 710,
+  "EOS_Progressed": 711,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 292,
   "EOS_NewCompleters": 0,
@@ -1847,6 +1847,11 @@
       "Time": "2024-01-02T22:09:05.9514935+00:00",
       "NumProgressed": 710,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T02:29:56.6381839+00:00",
+      "NumProgressed": 711,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -1859,7 +1864,7 @@
       "Name": "Look Mom, I Can Fly",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "CareerAllChallenges",
@@ -1875,7 +1880,7 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "CareerChamp2",
@@ -1931,7 +1936,7 @@
       "Name": "Junk Collector",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "CreditsEarnedA",
@@ -1971,7 +1976,7 @@
       "Name": "Dirty Roller",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "PlayerRankB",
@@ -1979,7 +1984,7 @@
       "Name": "Trashing Around",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "PlayerRankC",
@@ -2003,7 +2008,7 @@
       "Name": "Hating Them Tin Cans",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "WreckOpponentsBus",
@@ -2018,7 +2023,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 710,
+      "Progressed": 711,
       "Completed": 0
     }
   ],
@@ -2026,8 +2031,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-01T13:03:06.5238599+00:00",
-  "LastChanged_Achievements": "2024-01-03T01:54:47.4822469+00:00",
+  "LastChanged_Achievements": "2024-01-03T02:29:56.6381837+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:31.5719432+00:00",
-  "LastUpdate_Ratings": "2024-01-03T01:46:20.5360724+00:00",
-  "LastUpdate_Achievements": "2024-01-03T01:54:47.4822927+00:00"
+  "LastUpdate_Ratings": "2024-01-03T02:21:16.1806745+00:00",
+  "LastUpdate_Achievements": "2024-01-03T02:29:56.6381984+00:00"
 }

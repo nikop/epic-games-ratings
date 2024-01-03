@@ -5,14 +5,14 @@ Rating: 4.28 (Ranked 887)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Man 'O War | 21.00% | ~9,108 |
+| Man 'O War | 21.00% | ~9,109 |
 | A Good Day To Die | 15.00% | ~6,506 |
-| Guard! Turn! Parry! Dodge! Spin! Ha! | 6.00% | ~2,602 |
-| Right Back Atcha | 6.00% | ~2,602 |
+| Guard! Turn! Parry! Dodge! Spin! Ha! | 6.00% | ~2,603 |
+| Right Back Atcha | 6.00% | ~2,603 |
 | Killed by Death | 5.00% | ~2,169 |
 | Kill 'Em All | 4.00% | ~1,735 |
-| Down Boy! | 2.00% | ~867 |
-| A Snowball's Chance in Hell | 2.00% | ~867 |
+| Down Boy! | 2.00% | ~868 |
+| A Snowball's Chance in Hell | 2.00% | ~868 |
 | Enjoy The Silence | 1.00% | ~434 |
 | Sure Footed As A Goat | 0.90% | ~390 |
 | Backdoor Man | 0.90% | ~390 |
@@ -27,7 +27,7 @@ Rating: 4.28 (Ranked 887)
 | Four Legged Friend | 0.50% | ~217 |
 | Oh God, Mother! Blood! Blood! | 0.50% | ~217 |
 | Smack My Imp Up | 0.50% | ~217 |
-| Ice To See You | 0.40% | ~173 |
+| Ice To See You | 0.40% | ~174 |
 | Vroll With It | 0.30% | ~130 |
 | Swift of Foot, Keen of Blade | 0.30% | ~130 |
 | Flame Retardant | 0.20% | ~87 |
@@ -35,7 +35,7 @@ Rating: 4.28 (Ranked 887)
 | Heart Of Steel | 0.10% | ~43 |
 | Death or Glory | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,373 (Ranked 131)  
+Progressed: 43,376 (Ranked 131)  
 Completed: 30 (0.07%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 30 (0.07%) (Ranked 321)
 | 2023-12-31 | 43,232 | 30 |
 | 2024-01-01 | 43,298 | 30 |
 | 2024-01-02 | 43,368 | 30 |
-| 2024-01-03 | 43,373 | 30 |
+| 2024-01-03 | 43,376 | 30 |
 ## Awards
 Max (Great Boss Battles): 128  (Ranked 342)  
 Sum: 128 (Ranked 446)  

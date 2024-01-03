@@ -1,24 +1,24 @@
 # Hi-Fi RUSH
 [Store](https://store.epicgames.com/en-US/p/hi-fi-rush)  
 [View Rawdata](../../db/h/hi-fi_rush.json)  
-Rating: 4.85 (Ranked 40)  
+Rating: 4.85 (Ranked 39)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 52.00% | ~7,694 |
-| Feeling the beat! | 52.00% | ~7,694 |
-| You can pet the cat! | 47.00% | ~6,955 |
-| Who put gears in there? | 38.00% | ~5,623 |
-| Cream of the Crop | 33.00% | ~4,883 |
-| Thanks for the free chip, Peppermint! | 32.00% | ~4,735 |
-| You got this, Peppermint? | 28.00% | ~4,143 |
-| Perfect Parry | 26.00% | ~3,847 |
-| Alright, that felt AWESOME! | 25.00% | ~3,699 |
-| I play my own way! | 22.00% | ~3,255 |
-| This will cost you big time | 20.00% | ~2,959 |
-| Uh, they were broken when I got here | 20.00% | ~2,959 |
-| Z-shielding's got nothing on us! | 18.00% | ~2,663 |
-| Kissing the sky! | 18.00% | ~2,663 |
+| Start with a bang! | 52.00% | ~7,696 |
+| Feeling the beat! | 52.00% | ~7,696 |
+| You can pet the cat! | 47.00% | ~6,956 |
+| Who put gears in there? | 38.00% | ~5,624 |
+| Cream of the Crop | 33.00% | ~4,884 |
+| Thanks for the free chip, Peppermint! | 32.00% | ~4,736 |
+| You got this, Peppermint? | 28.00% | ~4,144 |
+| Perfect Parry | 26.00% | ~3,848 |
+| Alright, that felt AWESOME! | 25.00% | ~3,700 |
+| I play my own way! | 22.00% | ~3,256 |
+| This will cost you big time | 20.00% | ~2,960 |
+| Uh, they were broken when I got here | 20.00% | ~2,960 |
+| Z-shielding's got nothing on us! | 18.00% | ~2,664 |
+| Kissing the sky! | 18.00% | ~2,664 |
 | Does that say weakpoint? | 16.00% | ~2,368 |
 | Whoa! There's ANOTHER health bar!? | 15.00% | ~2,220 |
 | The Negotiator | 14.00% | ~2,072 |
@@ -77,7 +77,7 @@ Rating: 4.85 (Ranked 40)
 | Voices from within | 0.10% | ~13 |
 | Low budget finish | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,797 (Ranked 171)  
+Progressed: 14,800 (Ranked 171)  
 Completed: 8 (0.05%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 8 (0.05%) (Ranked 333)
 | 2023-12-31 | 14,116 | 8 |
 | 2024-01-01 | 14,485 | 8 |
 | 2024-01-02 | 14,784 | 8 |
-| 2024-01-03 | 14,797 | 8 |
+| 2024-01-03 | 14,800 | 8 |
 ## Awards
 Max (Great Boss Battles): 26  (Ranked 540)  
 Sum: 26 (Ranked 551)  

@@ -6,25 +6,25 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~7,503 |
+| A Brief Tour of the Realms | 3.00% | ~7,504 |
 | Beast Intentions | 1.00% | ~2,501 |
 | The Cursed Farmer | 1.00% | ~2,501 |
 | The Mad Wizard | 0.90% | ~2,251 |
 | Welcome to Sigil | 0.80% | ~1,731 |
 | The Ring of Regeneration | 0.60% | ~1,501 |
 | Fast Food | 0.60% | ~1,298 |
-| Were-verpowered | 0.50% | ~1,250 |
-| Are Ya Chicken? | 0.50% | ~1,250 |
+| Were-verpowered | 0.50% | ~1,251 |
+| Are Ya Chicken? | 0.50% | ~1,251 |
 | The Overgrown Grove | 0.50% | ~1,082 |
 | Mental Gymnastics | 0.50% | ~1,082 |
 | Seeking Allies | 0.40% | ~1,000 |
 | Mad Cow Disease | 0.40% | ~1,000 |
 | Friendly Imps | 0.40% | ~1,000 |
-| Misaligned in Sigil | 0.40% | ~865 |
-| When Tentacles Attack | 0.40% | ~865 |
-| Flames of Avernus | 0.40% | ~865 |
-| Don't Lose Your Head | 0.40% | ~865 |
-| Mind Spike | 0.40% | ~865 |
+| Misaligned in Sigil | 0.40% | ~866 |
+| When Tentacles Attack | 0.40% | ~866 |
+| Flames of Avernus | 0.40% | ~866 |
+| Don't Lose Your Head | 0.40% | ~866 |
+| Mind Spike | 0.40% | ~866 |
 | Maddening | 0.30% | ~750 |
 | A Persistent Buzzing | 0.30% | ~750 |
 | Terror in the Dark | 0.30% | ~750 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~216 |
 | The Brains of an Illithid's Desire | 0.10% | ~216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,100 (Ranked 70)  
+Progressed: 250,117 (Ranked 70)  
 Completed: 2,585 (1.03%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -811,7 +811,7 @@ Completed: 2,585 (1.03%) (Ranked 170)
 | 2023-12-31 | 248,665 | 2,581 |
 | 2024-01-01 | 249,335 | 2,583 |
 | 2024-01-02 | 250,032 | 2,585 |
-| 2024-01-03 | 250,100 | 2,585 |
+| 2024-01-03 | 250,117 | 2,585 |
 ## Awards
 Max (Great for Beginners): 5,730  (Ranked 71)  
 Sum: 33,274 (Ranked 41)  

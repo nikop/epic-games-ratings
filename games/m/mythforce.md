@@ -1,18 +1,18 @@
 # MythForce
 [Store](https://store.epicgames.com/en-US/p/mythforce-d2710b)  
 [View Rawdata](../../db/m/mythforce.json)  
-Rating: 4.47 (Ranked 659)  
+Rating: 4.47 (Ranked 658)  
 Number of Ratings: 285  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Faceroll the Bones | 27.00% | ~1,629 |
+| Faceroll the Bones | 27.00% | ~1,630 |
 | Hit 'Em Where It Hurts | 26.00% | ~1,569 |
 | Perk Shard Punch Card | 25.00% | ~1,509 |
 | That'll Leave a Mark | 25.00% | ~1,509 |
-| Debuff Dogpile | 24.00% | ~1,448 |
+| Debuff Dogpile | 24.00% | ~1,449 |
 | Mushroom Madness! | 23.00% | ~1,388 |
-| First Strike | 21.00% | ~1,267 |
+| First Strike | 21.00% | ~1,268 |
 | Spending Spree | 19.00% | ~1,147 |
 | Horder Better Faster Stronger | 17.00% | ~1,026 |
 | Next Time on MythForce... | 15.00% | ~905 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.40% | ~24 |
 | Deadalus and Loving It | 0.20% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,035 (Ranked 199)  
+Progressed: 6,036 (Ranked 199)  
 Completed: 4 (0.07%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 4 (0.07%) (Ranked 321)
 | 2023-12-31 | 5,968 | 4 |
 | 2024-01-01 | 6,002 | 4 |
 | 2024-01-02 | 6,030 | 4 |
-| 2024-01-03 | 6,035 | 4 |
+| 2024-01-03 | 6,036 | 4 |
 ## Awards
 Max (Great for Beginners): 36  (Ranked 494)  
 Sum: 295 (Ranked 379)  

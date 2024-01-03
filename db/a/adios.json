@@ -135,7 +135,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 82494,
+  "EOS_Progressed": 82495,
   "EOS_Completed": 909,
   "EOS_NewPlayers": 720,
   "EOS_NewCompleters": 9,
@@ -28850,6 +28850,11 @@
       "Time": "2024-01-03T01:49:56.5056671+00:00",
       "NumProgressed": 82494,
       "NumCompleted": 909
+    },
+    {
+      "Time": "2024-01-03T02:25:04.5846443+00:00",
+      "NumProgressed": 82495,
+      "NumCompleted": 909
     }
   ],
   "TotalAchievements": 25,
@@ -28949,7 +28954,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 7424
+      "UsersEstimate": 7425
     },
     {
       "ID": "Magnetic Miracles",
@@ -29060,7 +29065,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 82494,
+      "Progressed": 82495,
       "Completed": 909
     }
   ],
@@ -29068,8 +29073,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-12-24T03:59:19.0038141+00:00",
-  "LastChanged_Achievements": "2024-01-03T01:49:56.5056668+00:00",
+  "LastChanged_Achievements": "2024-01-03T02:25:04.5846436+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:29.0198367+00:00",
-  "LastUpdate_Ratings": "2024-01-03T01:48:47.3537954+00:00",
-  "LastUpdate_Achievements": "2024-01-03T01:49:56.5057936+00:00"
+  "LastUpdate_Ratings": "2024-01-03T02:23:52.8631767+00:00",
+  "LastUpdate_Achievements": "2024-01-03T02:25:04.5847939+00:00"
 }

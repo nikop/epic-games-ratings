@@ -6,14 +6,14 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~15,637 |
-| Sweet Sorrow | 18.00% | ~7,818 |
-| Rules the Waves | 17.00% | ~7,384 |
-| Thou, All-Shaking Thunder | 15.00% | ~6,515 |
+| Sink Beneath the Waves | 36.00% | ~15,638 |
+| Sweet Sorrow | 18.00% | ~7,819 |
+| Rules the Waves | 17.00% | ~7,385 |
+| Thou, All-Shaking Thunder | 15.00% | ~6,516 |
 | Rival | 14.00% | ~6,081 |
-| Correspondent | 12.00% | ~5,212 |
-| Lose Your Mind | 12.00% | ~5,212 |
-| Sound Mind? | 12.00% | ~5,212 |
+| Correspondent | 12.00% | ~5,213 |
+| Lose Your Mind | 12.00% | ~5,213 |
+| Sound Mind? | 12.00% | ~5,213 |
 | Salt's Curse | 11.00% | ~4,778 |
 | HE SUN THE SUN THE SUN T | 11.00% | ~4,778 |
 | The Fall of the House | 11.00% | ~4,778 |
@@ -24,8 +24,8 @@ Number of Ratings: 401  (23.09.2022)
 | Open Your Ears | 7.00% | ~3,041 |
 | The Ascent of Man | 7.00% | ~3,041 |
 | Zee Fever | 5.00% | ~2,172 |
-| Old Unhappy Far-Off Things | 4.00% | ~1,737 |
-| Sink Beneath the Waves. Again. | 4.00% | ~1,737 |
+| Old Unhappy Far-Off Things | 4.00% | ~1,738 |
+| Sink Beneath the Waves. Again. | 4.00% | ~1,738 |
 | Storm's Curse | 3.00% | ~1,303 |
 | We're Gonna Need a Bigger Boat | 3.00% | ~1,303 |
 | Come Closer | 3.00% | ~1,303 |
@@ -46,8 +46,8 @@ Number of Ratings: 401  (23.09.2022)
 | No regrets | 0.90% | ~391 |
 | Under the zee | 0.90% | ~391 |
 | Depth charge | 0.90% | ~391 |
-| A zee-change | 0.80% | ~347 |
-| Leviathan | 0.80% | ~347 |
+| A zee-change | 0.80% | ~348 |
+| Leviathan | 0.80% | ~348 |
 | What lies beneath | 0.70% | ~304 |
 | Stone's Curse | 0.70% | ~304 |
 | Five Years at Zee | 0.50% | ~217 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~43 |
 | Ten Years at Zee | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,436 (Ranked 130)  
+Progressed: 43,439 (Ranked 130)  
 Completed: 4 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 4 (0.01%) (Ranked 367)
 | 2023-12-31 | 43,307 | 4 |
 | 2024-01-01 | 43,379 | 4 |
 | 2024-01-02 | 43,431 | 4 |
-| 2024-01-03 | 43,436 | 4 |
+| 2024-01-03 | 43,439 | 4 |
 ## Awards
 Max (Character Customization): 221  (Ranked 289)  
 Sum: 315 (Ranked 375)  

@@ -5038,9 +5038,9 @@
       "ID": "_19_CrewTale_BSP",
       "SetID": "8a1io5d",
       "Name": "Persistent Parasite",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 240
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -5111,8 +5111,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-27T21:58:17.6269244+00:00",
-  "LastChanged_Achievements": "2024-01-03T01:51:58.5088387+00:00",
+  "LastChanged_Achievements": "2024-01-03T02:27:08.8399282+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.1530944+00:00",
-  "LastUpdate_Ratings": "2024-01-03T01:48:36.855553+00:00",
-  "LastUpdate_Achievements": "2024-01-03T01:51:58.5088745+00:00"
+  "LastUpdate_Ratings": "2024-01-03T02:23:41.394158+00:00",
+  "LastUpdate_Achievements": "2024-01-03T02:27:08.8399639+00:00"
 }

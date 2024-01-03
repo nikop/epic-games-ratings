@@ -6,20 +6,20 @@ Rating: 4.75 (Ranked 146)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Last Night...Did We... | 88.00% | ~15,228 |
-| I Challenge You To Save More Money! | 80.00% | ~13,843 |
+| I Challenge You To Save More Money! | 80.00% | ~13,844 |
 | I Love How Tough You Are | 65.00% | ~11,248 |
-| Wanna Come To My Place For Dinner? | 58.00% | ~10,036 |
-| What I Want Is You | 53.00% | ~9,171 |
+| Wanna Come To My Place For Dinner? | 58.00% | ~10,037 |
+| What I Want Is You | 53.00% | ~9,172 |
 | To Be Or Not To Be | 50.00% | ~8,652 |
 | Are You Alright? | 47.00% | ~8,133 |
 | Love Actually | 41.00% | ~7,095 |
-| Drama King | 36.00% | ~6,229 |
-| Go Clean up In Your Own Way | 33.00% | ~5,710 |
-| You're Really Something Else | 32.00% | ~5,537 |
-| Drama CP: Reel to Real | 31.00% | ~5,364 |
-| Happy Family | 30.00% | ~5,191 |
-| FIRST LOVE | 30.00% | ~5,191 |
-| Worthless Speech | 30.00% | ~5,191 |
+| Drama King | 36.00% | ~6,230 |
+| Go Clean up In Your Own Way | 33.00% | ~5,711 |
+| You're Really Something Else | 32.00% | ~5,538 |
+| Drama CP: Reel to Real | 31.00% | ~5,365 |
+| Happy Family | 30.00% | ~5,192 |
+| FIRST LOVE | 30.00% | ~5,192 |
+| Worthless Speech | 30.00% | ~5,192 |
 | Absolutely Elegant | 28.00% | ~4,845 |
 | ONE PUNCH | 28.00% | ~4,845 |
 | Still Single | 27.00% | ~4,672 |
@@ -35,7 +35,7 @@ Rating: 4.75 (Ranked 146)
 | Off We Sail Tonight | 15.00% | ~2,596 |
 | Love You Three Thousand | 13.00% | ~2,250 |
 | Can You Do This Or Not? | 13.00% | ~2,250 |
-| Doesn't Matter I'll Handle It | 11.00% | ~1,903 |
+| Doesn't Matter I'll Handle It | 11.00% | ~1,904 |
 | The Flash | 10.00% | ~1,730 |
 | New Yoga Pose Unlocked | 10.00% | ~1,730 |
 | My Dear Love! | 8.00% | ~1,384 |
@@ -48,7 +48,7 @@ Rating: 4.75 (Ranked 146)
 | Tall; Grande; Venti | 2.00% | ~346 |
 | Limerence | 2.00% | ~346 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,304 (Ranked 163)  
+Progressed: 17,305 (Ranked 163)  
 Completed: 288 (1.66%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 288 (1.66%) (Ranked 145)
 | 2023-12-31 | 16,987 | 281 |
 | 2024-01-01 | 17,170 | 287 |
 | 2024-01-02 | 17,300 | 288 |
-| 2024-01-03 | 17,304 | 288 |
+| 2024-01-03 | 17,305 | 288 |
 ## Awards
 Max (Impact the Story): 34  (Ranked 504)  
 Sum: 34 (Ranked 531)  

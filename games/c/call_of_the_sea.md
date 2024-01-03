@@ -9,11 +9,11 @@ Rating: 4.40 (Ranked 764)
 | 74 miles East of Otaheité | 56.00% | ~77,091 |
 | Interesting... | 42.00% | ~57,818 |
 | The Everhart Expedition | 40.00% | ~55,065 |
-| Seaside Serenade | 31.00% | ~42,675 |
+| Seaside Serenade | 31.00% | ~42,676 |
 | Halfway there | 30.00% | ~41,299 |
 | The Vanishing of the Lady Shannon | 30.00% | ~41,299 |
-| A brigantine, a brig and a barque | 28.00% | ~38,545 |
-| 506 East Hampden Avenue | 28.00% | ~38,545 |
+| A brigantine, a brig and a barque | 28.00% | ~38,546 |
+| 506 East Hampden Avenue | 28.00% | ~38,546 |
 | Weekend at Walakea's | 27.00% | ~37,169 |
 | Quite a Show | 27.00% | ~37,169 |
 | Dark Water Ride | 25.00% | ~34,416 |
@@ -32,7 +32,7 @@ Rating: 4.40 (Ranked 764)
 | Underwater Royalty | 7.00% | ~9,636 |
 | Fawning Developers | 5.00% | ~6,883 |
 | Candid Photo | 5.00% | ~6,883 |
-| The Amazing Adventures of Norah Everhart | 4.00% | ~5,506 |
+| The Amazing Adventures of Norah Everhart | 4.00% | ~5,507 |
 | You looked that up in a guide! | 3.00% | ~4,130 |
 | The Lady Shannon Recording | 3.00% | ~4,130 |
 | Otherwordly Portal | 3.00% | ~4,130 |
@@ -40,7 +40,7 @@ Rating: 4.40 (Ranked 764)
 | Gently down the stream... | 1.00% | ~1,377 |
 | Meta-reference | 1.00% | ~1,377 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,662 (Ranked 88)  
+Progressed: 137,663 (Ranked 88)  
 Completed: 1,226 (0.89%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 1,226 (0.89%) (Ranked 182)
 | 2023-12-31 | 137,187 | 1,220 |
 | 2024-01-01 | 137,415 | 1,224 |
 | 2024-01-02 | 137,640 | 1,225 |
-| 2024-01-03 | 137,662 | 1,226 |
+| 2024-01-03 | 137,663 | 1,226 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

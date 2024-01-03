@@ -13,8 +13,8 @@ Number of Ratings: 71  (23.09.2022)
 | Cutepie | 41.00% | ~746 |
 | Someone was here | 40.00% | ~728 |
 | Ghost Hunters | 40.00% | ~728 |
+| Alone | 39.00% | ~709 |
 | Pack Rat | 39.00% | ~709 |
-| Alone | 38.00% | ~691 |
 | All together, again | 33.00% | ~600 |
 | Spicy | 5.00% | ~91 |
 ## Popularity (Based on EOS Achievements)

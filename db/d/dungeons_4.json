@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -2232,9 +2232,9 @@
       "ID": "ach_main03demon_spells",
       "SetID": "4hg22ll",
       "Name": "Magic Accidents",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 407
+      "UsersEstimate": 414
     },
     {
       "ID": "ach_main04undead_completed",
@@ -2665,8 +2665,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-01T22:59:34.2453487+00:00",
-  "LastChanged_Achievements": "2024-01-03T01:54:59.398356+00:00",
+  "LastChanged_Achievements": "2024-01-03T02:30:08.8111105+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:16.0613697+00:00",
-  "LastUpdate_Ratings": "2024-01-03T01:45:23.6627481+00:00",
-  "LastUpdate_Achievements": "2024-01-03T01:54:59.3984415+00:00"
+  "LastUpdate_Ratings": "2024-01-03T02:20:20.0412041+00:00",
+  "LastUpdate_Achievements": "2024-01-03T02:30:08.8111573+00:00"
 }

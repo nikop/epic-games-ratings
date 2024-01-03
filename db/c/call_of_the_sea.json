@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 137662,
+  "EOS_Progressed": 137663,
   "EOS_Completed": 1226,
-  "EOS_NewPlayers": 1405,
+  "EOS_NewPlayers": 1403,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.89,
   "EosHistory": [
@@ -29763,6 +29763,11 @@
       "Time": "2024-01-03T01:49:54.4009391+00:00",
       "NumProgressed": 137662,
       "NumCompleted": 1226
+    },
+    {
+      "Time": "2024-01-03T02:25:02.3130701+00:00",
+      "NumProgressed": 137663,
+      "NumCompleted": 1226
     }
   ],
   "TotalAchievements": 34,
@@ -29806,7 +29811,7 @@
       "Name": "The Amazing Adventures of Norah Everhart",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 5506
+      "UsersEstimate": 5507
     },
     {
       "ID": "ACH_GAME_NOTES",
@@ -29854,7 +29859,7 @@
       "Name": "A brigantine, a brig and a barque",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 38545
+      "UsersEstimate": 38546
     },
     {
       "ID": "ACH_L02_BASECAMP_END",
@@ -29902,7 +29907,7 @@
       "Name": "Seaside Serenade",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 42675
+      "UsersEstimate": 42676
     },
     {
       "ID": "ACH_L03_PIANO",
@@ -29950,7 +29955,7 @@
       "Name": "506 East Hampden Avenue",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 38545
+      "UsersEstimate": 38546
     },
     {
       "ID": "ACH_L04B_DESERT_OBJ",
@@ -30045,7 +30050,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 137662,
+      "Progressed": 137663,
       "Completed": 1226
     }
   ],
@@ -30053,8 +30058,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-11-24T21:59:26.7035134+00:00",
-  "LastChanged_Achievements": "2024-01-03T01:49:54.4009388+00:00",
+  "LastChanged_Achievements": "2024-01-03T02:25:02.3130697+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:11.4349106+00:00",
-  "LastUpdate_Ratings": "2024-01-03T01:44:11.0222445+00:00",
-  "LastUpdate_Achievements": "2024-01-03T01:49:54.4010735+00:00"
+  "LastUpdate_Ratings": "2024-01-03T02:19:06.8365574+00:00",
+  "LastUpdate_Achievements": "2024-01-03T02:25:02.3132597+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 933,
+  "EOS_Progressed": 934,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 1.18,
   "EosHistory": [
@@ -2565,6 +2565,11 @@
       "Time": "2024-01-03T00:10:44.046885+00:00",
       "NumProgressed": 933,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-03T02:30:38.8257897+00:00",
+      "NumProgressed": 934,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 20,
@@ -2576,7 +2581,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "CHOICES_MATTER",
@@ -2664,15 +2669,15 @@
       "Name": "Fair Share",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "GOOD_KARMA",
       "SetID": "8eejhlh",
       "Name": "Good Karma",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 271
+      "UsersEstimate": 262
     },
     {
       "ID": "INTERROGATION",
@@ -2735,7 +2740,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 933,
+      "Progressed": 934,
       "Completed": 11
     }
   ],
@@ -2743,8 +2748,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2024-01-03T01:55:29.0758711+00:00",
+  "LastChanged_Achievements": "2024-01-03T02:30:38.8257891+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:05.9335088+00:00",
-  "LastUpdate_Ratings": "2024-01-03T01:43:41.9357238+00:00",
-  "LastUpdate_Achievements": "2024-01-03T01:55:29.0758982+00:00"
+  "LastUpdate_Ratings": "2024-01-03T02:18:36.4227969+00:00",
+  "LastUpdate_Achievements": "2024-01-03T02:30:38.8258127+00:00"
 }

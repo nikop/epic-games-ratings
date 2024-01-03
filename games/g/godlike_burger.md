@@ -5,20 +5,20 @@ Rating: 4.51 (Ranked 591)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~178,385 |
-| FIRST BLOOD | 40.00% | ~158,565 |
-| KEVIN! | 30.00% | ~118,924 |
-| JACK OF ALL TRADES | 23.00% | ~91,175 |
-| CRIMINAL | 20.00% | ~79,282 |
-| GRANDMA WOULD BE PROUD | 11.00% | ~43,605 |
-| WITHOUT BREAKING A SWEAT | 9.00% | ~35,677 |
-| HONORS STUDENT | 8.00% | ~31,713 |
+| MASTER CHEF | 45.00% | ~178,389 |
+| FIRST BLOOD | 40.00% | ~158,568 |
+| KEVIN! | 30.00% | ~118,926 |
+| JACK OF ALL TRADES | 23.00% | ~91,177 |
+| CRIMINAL | 20.00% | ~79,284 |
+| GRANDMA WOULD BE PROUD | 11.00% | ~43,606 |
+| WITHOUT BREAKING A SWEAT | 9.00% | ~35,678 |
+| HONORS STUDENT | 8.00% | ~31,714 |
 | BUTCHER | 6.00% | ~23,785 |
 | INDIVIDUAL APPROACH | 5.00% | ~19,821 |
 | RAMBO | 5.00% | ~19,821 |
-| HELL'S KITCHEN | 4.00% | ~15,856 |
-| CELEBRITY | 3.00% | ~11,892 |
-| MARTYR | 3.00% | ~11,892 |
+| HELL'S KITCHEN | 4.00% | ~15,857 |
+| CELEBRITY | 3.00% | ~11,893 |
+| MARTYR | 3.00% | ~11,893 |
 | GRATITUDE | 2.00% | ~7,928 |
 | PATTY-KILLER | 2.00% | ~7,928 |
 | EXPERIMENTALIST | 1.00% | ~3,964 |
@@ -27,14 +27,14 @@ Rating: 4.51 (Ranked 591)
 | PRUDENT | 1.00% | ~3,964 |
 | SCATTERBRAIN | 0.80% | ~3,171 |
 | HIGH TECHNOLOGIES | 0.70% | ~2,775 |
-| TASTE UNTASTY | 0.60% | ~2,378 |
+| TASTE UNTASTY | 0.60% | ~2,379 |
 | DEBTOR | 0.20% | ~793 |
 | I'VE SEEN SOME… | 0.20% | ~793 |
 | CORRUPTIONIST | 0.10% | ~396 |
 | MISTER ALL THUMBS | 0.10% | ~396 |
 | TRAVELER | 0.10% | ~396 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 396,412 (Ranked 49)  
+Progressed: 396,421 (Ranked 49)  
 Completed: 56 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 56 (0.01%) (Ranked 367)
 | 2023-12-31 | 395,149 | 56 |
 | 2024-01-01 | 395,798 | 56 |
 | 2024-01-02 | 396,363 | 56 |
-| 2024-01-03 | 396,412 | 56 |
+| 2024-01-03 | 396,421 | 56 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

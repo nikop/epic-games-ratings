@@ -3,8 +3,8 @@
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
   "Ranking_Rating": 574,
-  "Ranking_Popularity": 317,
-  "Ranking_PopularitySum": 430,
+  "Ranking_Popularity": 311,
+  "Ranking_PopularitySum": 426,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 124,
@@ -1037,23 +1037,29 @@
       "Rating": 4.52,
       "NumberOfAwards": 172,
       "NumberOfAwardsMax": 172
+    },
+    {
+      "Time": "2024-01-03T02:18:34.6735115+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 177,
+      "NumberOfAwardsMax": 177
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 172,
-  "NumberOfAwardsMax": 172,
+  "NumberOfAwards": 177,
+  "NumberOfAwardsMax": 177,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 172
+      "Count": 177
     }
   ],
-  "EOS_Progressed": 15142,
+  "EOS_Progressed": 15143,
   "EOS_Completed": 85,
-  "EOS_NewPlayers": 934,
+  "EOS_NewPlayers": 931,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -16806,6 +16812,11 @@
       "Time": "2024-01-03T01:55:37.4375214+00:00",
       "NumProgressed": 15142,
       "NumCompleted": 85
+    },
+    {
+      "Time": "2024-01-03T02:30:47.5722517+00:00",
+      "NumProgressed": 15143,
+      "NumCompleted": 85
     }
   ],
   "TotalAchievements": 34,
@@ -16977,7 +16988,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 6965
+      "UsersEstimate": 6966
     },
     {
       "ID": "ACH22",
@@ -16985,7 +16996,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 3028
+      "UsersEstimate": 3029
     },
     {
       "ID": "ACH23",
@@ -17088,16 +17099,16 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 15142,
+      "Progressed": 15143,
       "Completed": 85
     }
   ],
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
-  "LastChanged": "2024-01-01T23:57:10.5196761+00:00",
-  "LastChanged_Achievements": "2024-01-03T01:55:37.437521+00:00",
+  "LastChanged": "2024-01-03T02:18:34.6735113+00:00",
+  "LastChanged_Achievements": "2024-01-03T02:30:47.5722509+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:48.9246276+00:00",
-  "LastUpdate_Ratings": "2024-01-03T01:43:40.137164+00:00",
-  "LastUpdate_Achievements": "2024-01-03T01:55:37.4376205+00:00"
+  "LastUpdate_Ratings": "2024-01-03T02:18:34.6735118+00:00",
+  "LastUpdate_Achievements": "2024-01-03T02:30:47.5723378+00:00"
 }

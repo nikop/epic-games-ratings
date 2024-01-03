@@ -6,9 +6,9 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~26,833 |
-| A thief's beginning | 11.00% | ~24,597 |
-| Thorough | 11.00% | ~24,597 |
+| Genin | 12.00% | ~26,834 |
+| A thief's beginning | 11.00% | ~24,598 |
+| Thorough | 11.00% | ~24,598 |
 | Disguised | 9.00% | ~20,125 |
 | Rescue Takuma | 9.00% | ~20,125 |
 | Rollin' | 9.00% | ~20,125 |
@@ -22,14 +22,14 @@ Number of Ratings: 495  (23.09.2022)
 | Chunin | 6.00% | ~13,417 |
 | Flying Rocks | 6.00% | ~13,417 |
 | Warzone | 6.00% | ~13,417 |
-| Happy little accidents | 5.00% | ~11,180 |
-| Okkoto | 5.00% | ~11,180 |
-| Prisoners | 5.00% | ~11,180 |
-| Too Early | 5.00% | ~11,180 |
-| Gear up | 4.00% | ~8,944 |
-| Noboru | 4.00% | ~8,944 |
-| Still Rollin' | 4.00% | ~8,944 |
-| Stoned | 4.00% | ~8,944 |
+| Happy little accidents | 5.00% | ~11,181 |
+| Okkoto | 5.00% | ~11,181 |
+| Prisoners | 5.00% | ~11,181 |
+| Too Early | 5.00% | ~11,181 |
+| Gear up | 4.00% | ~8,945 |
+| Noboru | 4.00% | ~8,945 |
+| Still Rollin' | 4.00% | ~8,945 |
+| Stoned | 4.00% | ~8,945 |
 | It's raining men | 3.00% | ~6,708 |
 | The Old Way | 3.00% | ~6,708 |
 | Atheist Ox | 2.00% | ~4,472 |
@@ -39,9 +39,9 @@ Number of Ratings: 495  (23.09.2022)
 | Winner Winner | 2.00% | ~4,472 |
 | Meticulous | 1.00% | ~2,236 |
 | Undeserved Honor | 1.00% | ~2,236 |
-| High Five the Moon | 0.90% | ~2,012 |
-| The Cave | 0.90% | ~2,012 |
-| When Cut Across the Neck | 0.90% | ~2,012 |
+| High Five the Moon | 0.90% | ~2,013 |
+| The Cave | 0.90% | ~2,013 |
+| When Cut Across the Neck | 0.90% | ~2,013 |
 | Time Paradox | 0.60% | ~1,342 |
 | Merciful | 0.50% | ~1,118 |
 | Five Shadows | 0.40% | ~894 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~224 |
 | Release the Kraken | 0.10% | ~224 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,609 (Ranked 78)  
+Progressed: 223,615 (Ranked 78)  
 Completed: 102 (0.05%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 102 (0.05%) (Ranked 333)
 | 2023-12-31 | 223,091 | 102 |
 | 2024-01-01 | 223,336 | 102 |
 | 2024-01-02 | 223,591 | 102 |
-| 2024-01-03 | 223,609 | 102 |
+| 2024-01-03 | 223,615 | 102 |
 ## Awards
 Max (Great for Beginners): 592  (Ranked 207)  
 Sum: 4,940 (Ranked 147)  

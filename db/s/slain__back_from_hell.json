@@ -250,7 +250,7 @@
       "Count": 128
     }
   ],
-  "EOS_Progressed": 43373,
+  "EOS_Progressed": 43376,
   "EOS_Completed": 30,
   "EOS_NewPlayers": 514,
   "EOS_NewCompleters": 0,
@@ -28210,6 +28210,11 @@
       "Time": "2024-01-03T01:49:46.9592903+00:00",
       "NumProgressed": 43373,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-03T02:24:54.4757352+00:00",
+      "NumProgressed": 43376,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -28229,7 +28234,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 9108
+      "UsersEstimate": 9109
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -28261,7 +28266,7 @@
       "Name": "Down Boy!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "ACH_08_HIGHLANDS_SECRET_PASSAGE",
@@ -28333,7 +28338,7 @@
       "Name": "A Snowball\u0027s Chance in Hell",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "ACH_17_DEFEATED_ICE_BEAST",
@@ -28341,7 +28346,7 @@
       "Name": "Ice To See You",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ACH_18_DEFEATED_IMP",
@@ -28373,7 +28378,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2602
+      "UsersEstimate": 2603
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -28381,7 +28386,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2602
+      "UsersEstimate": 2603
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -28452,7 +28457,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 43373,
+      "Progressed": 43376,
       "Completed": 30
     }
   ],
@@ -28460,8 +28465,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-12-18T19:58:40.3413682+00:00",
-  "LastChanged_Achievements": "2024-01-03T01:49:46.9592899+00:00",
+  "LastChanged_Achievements": "2024-01-03T02:24:54.4757345+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:52.0120838+00:00",
-  "LastUpdate_Ratings": "2024-01-03T01:45:41.9802562+00:00",
-  "LastUpdate_Achievements": "2024-01-03T01:49:46.9594261+00:00"
+  "LastUpdate_Ratings": "2024-01-03T02:20:37.1642368+00:00",
+  "LastUpdate_Achievements": "2024-01-03T02:24:54.475872+00:00"
 }

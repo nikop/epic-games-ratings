@@ -187,6 +187,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Turning Point | 0.10% | ~16 |
 | A Good Start | 0.10% | ~16 |
 | Like a Lion | 0.10% | ~16 |
+| Still Fighting | 0.10% | ~16 |
+| They Shall Not Pass | 0.10% | ~16 |
+| THIS IS SPARTA!! | 0.10% | ~16 |
 | Tell the Spartans | 0.10% | ~16 |
 | Shape of Things to Come | 0.10% | ~16 |
 | I am the Archon Now | 0.10% | ~16 |
@@ -299,9 +302,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | That Also Works | 0.00% | ~0 |
 | Defend Where? | 0.00% | ~0 |
 | Not a Chance | 0.00% | ~0 |
-| Still Fighting | 0.00% | ~0 |
-| They Shall Not Pass | 0.00% | ~0 |
-| THIS IS SPARTA!! | 0.00% | ~0 |
 | If? Then! | 0.00% | ~0 |
 | Queen of Politics | 0.00% | ~0 |
 | Queen of Intrigue | 0.00% | ~0 |
