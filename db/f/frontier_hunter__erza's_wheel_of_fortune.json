@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -2758,9 +2758,9 @@
       "ID": "ACHIEVEMENT_9",
       "SetID": "7pimpda",
       "Name": "Handyman",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 194
+      "UsersEstimate": 201
     }
   ],
   "AchievementSets": [
@@ -2775,8 +2775,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2024-01-02T13:03:58.5026072+00:00",
-  "LastChanged_Achievements": "2024-01-03T18:10:05.5651684+00:00",
+  "LastChanged_Achievements": "2024-01-03T19:10:13.924595+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:39.5136135+00:00",
-  "LastUpdate_Ratings": "2024-01-03T17:57:33.4138991+00:00",
-  "LastUpdate_Achievements": "2024-01-03T18:10:05.5652103+00:00"
+  "LastUpdate_Ratings": "2024-01-03T18:57:46.878934+00:00",
+  "LastUpdate_Achievements": "2024-01-03T19:10:13.9246379+00:00"
 }

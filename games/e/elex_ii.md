@@ -6,25 +6,25 @@ Number of Ratings: 124  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 38.00% | ~64 |
-| Best Buddy | 31.00% | ~52 |
+| Entrepreneur | 38.00% | ~65 |
+| Best Buddy | 31.00% | ~53 |
 | Civilian | 29.00% | ~49 |
-| Role Model | 24.00% | ~41 |
+| Role Model | 25.00% | ~42 |
 | Festival-goer | 23.00% | ~39 |
-| Peddler | 21.00% | ~35 |
-| Military Leader | 21.00% | ~35 |
-| Creator | 21.00% | ~35 |
-| Commander | 17.00% | ~29 |
-| Irissa's Fate | 15.00% | ~25 |
+| Peddler | 21.00% | ~36 |
+| Military Leader | 21.00% | ~36 |
+| Creator | 21.00% | ~36 |
+| Commander | 18.00% | ~31 |
+| Irissa's Fate | 15.00% | ~26 |
 | Pass A38 | 14.00% | ~24 |
 | Long-Haul Flyer | 13.00% | ~22 |
+| Eternal Oblivion | 10.00% | ~17 |
 | Storyteller | 9.00% | ~15 |
 | Globetrotter | 9.00% | ~15 |
 | Berserker | 9.00% | ~15 |
 | Family Reunion | 9.00% | ~15 |
-| Eternal Oblivion | 9.00% | ~15 |
 | Alb | 8.00% | ~14 |
-| Hunter | 7.00% | ~12 |
+| Hunter | 6.00% | ~10 |
 | Banker | 5.00% | ~8 |
 | Treasure Hunter | 5.00% | ~8 |
 | Hotshot | 5.00% | ~8 |
@@ -43,10 +43,10 @@ Number of Ratings: 124  (23.09.2022)
 | Morkon | 2.00% | ~3 |
 | Destroyer | 1.00% | ~2 |
 | Legendary | 1.00% | ~2 |
+| Pack Rat | 0.60% | ~1 |
 | Defector | 0.60% | ~1 |
 | Outlaw | 0.60% | ~1 |
 | Ruthless | 0.60% | ~1 |
-| Pack Rat | 0.00% | ~0 |
 | Drinker | 0.00% | ~0 |
 | Key Master | 0.00% | ~0 |
 | Socializer | 0.00% | ~0 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Enforcer | 0.00% | ~0 |
 | Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 169 (Ranked 437)  
+Progressed: 170 (Ranked 437)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2023-12-31 | 154 | 0 |
 | 2024-01-01 | 162 | 0 |
 | 2024-01-02 | 167 | 0 |
-| 2024-01-03 | 169 | 0 |
+| 2024-01-03 | 170 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

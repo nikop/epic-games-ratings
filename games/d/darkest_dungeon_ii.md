@@ -6,19 +6,19 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 12.00% | ~764 |
+| Malpractice Assurance | 12.00% | ~765 |
 | Lost and Found | 8.00% | ~510 |
 | This Belongs in a Museum | 6.00% | ~7,890 |
 | Autodidact | 6.00% | ~7,890 |
-| This guy... again? | 6.00% | ~382 |
+| This guy... again? | 6.00% | ~383 |
 | Serenity Now! | 5.00% | ~6,575 |
 | Creep and Sleep | 5.00% | ~6,575 |
 | Meat and Greet | 5.00% | ~6,575 |
 | Catch and Decease | 5.00% | ~6,575 |
 | Overdue Notice | 5.00% | ~6,575 |
 | Escape from the Black Hole | 5.00% | ~6,575 |
-| Ploughshares to Swords | 5.00% | ~318 |
-| Bloody Graduation | 5.00% | ~318 |
+| Ploughshares to Swords | 5.00% | ~319 |
+| Bloody Graduation | 5.00% | ~319 |
 | Don't Make Me Turn This Coach Around | 4.00% | ~5,260 |
 | It Rings a Bell | 4.00% | ~5,260 |
 | Not Today! | 4.00% | ~5,260 |
@@ -74,8 +74,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Bacon Bits | 0.50% | ~658 |
 | On This Long Road, We Found Redemption | 0.50% | ~32 |
 | Eidetic | 0.40% | ~526 |
-| Battle Hardened | 0.40% | ~25 |
-| Tears in the Rain | 0.30% | ~394 |
+| Battle Hardened | 0.40% | ~26 |
+| Tears in the Rain | 0.30% | ~395 |
 | Maître De La Lame | 0.30% | ~19 |
 | Circle of Life | 0.20% | ~263 |
 | Grand Slam | 0.20% | ~263 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,500 (Ranked 91)  
+Progressed: 131,508 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,10 +334,10 @@ Completed: 3 (0.00%) (Ranked 392)
 | 2023-12-31 | 131,026 | 3 |
 | 2024-01-01 | 131,206 | 3 |
 | 2024-01-02 | 131,365 | 3 |
-| 2024-01-03 | 131,500 | 3 |
+| 2024-01-03 | 131,508 | 3 |
 ## Awards
 Max (Character Customization): 7,940  (Ranked 50)  
-Sum: 21,372 (Ranked 58)  
+Sum: 21,375 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -350,7 +350,7 @@ Diff (max vs sum): -8
 | This game has Unique Visuals | 1,445 |
 | This game has Amazing Storytelling | 1,431 |
 | This game has Quickly Understood Controls | 1,400 |
-| This game has a Creative Community | 1,076 |
+| This game has a Creative Community | 1,079 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
 ## Ratings History
@@ -696,4 +696,4 @@ Diff (max vs sum): -8
 | 2023-12-31 | 4.68 | - | 7,910 | 21,297 |
 | 2024-01-01 | 4.68 | - | 7,919 | 21,323 |
 | 2024-01-02 | 4.68 | - | 7,927 | 21,353 |
-| 2024-01-03 | 4.68 | - | 7,940 | 21,372 |
+| 2024-01-03 | 4.68 | - | 7,940 | 21,375 |

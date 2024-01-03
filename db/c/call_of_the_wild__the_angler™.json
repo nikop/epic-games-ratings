@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -1015,9 +1015,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 7914,
+  "EOS_Progressed": 7919,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 268,
+  "EOS_NewPlayers": 272,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13090,6 +13090,11 @@
       "Time": "2024-01-03T17:06:42.0191944+00:00",
       "NumProgressed": 7914,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T19:07:45.4280014+00:00",
+      "NumProgressed": 7919,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -13101,7 +13106,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1345
+      "UsersEstimate": 1346
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -13117,7 +13122,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 1108
+      "UsersEstimate": 1109
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -13125,7 +13130,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -13149,7 +13154,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1108
+      "UsersEstimate": 1109
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -13173,7 +13178,7 @@
       "Name": "License to Gill",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -13261,7 +13266,7 @@
       "Name": "I\u0027m Hooked!",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -13333,7 +13338,7 @@
       "Name": "Gonna Need a Bigger Boat",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_032",
@@ -13420,13 +13425,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7914,
+      "Progressed": 7919,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7286,
+      "Progressed": 7291,
       "Completed": 113
     }
   ],
@@ -13434,8 +13439,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-12-26T19:00:49.2434236+00:00",
-  "LastChanged_Achievements": "2024-01-03T18:07:48.8544133+00:00",
+  "LastChanged_Achievements": "2024-01-03T19:07:45.4280011+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:09.4029638+00:00",
-  "LastUpdate_Ratings": "2024-01-03T18:01:40.8693657+00:00",
-  "LastUpdate_Achievements": "2024-01-03T18:07:48.8545003+00:00"
+  "LastUpdate_Ratings": "2024-01-03T19:01:38.8490096+00:00",
+  "LastUpdate_Achievements": "2024-01-03T19:07:45.4280793+00:00"
 }

@@ -12,7 +12,7 @@ Rating: 4.52 (Ranked 574)
 | Blue Dreams | 65.00% | ~942 |
 | He's Famous! | 65.00% | ~942 |
 | Cutie Poro | 65.00% | ~942 |
-| Krugmazing | 63.00% | ~913 |
+| Krugmazing | 64.00% | ~927 |
 | Moneyball | 60.00% | ~869 |
 | The Fire Below the Mountain | 60.00% | ~869 |
 | No Bites | 54.00% | ~782 |

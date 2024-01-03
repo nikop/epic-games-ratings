@@ -244,6 +244,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Spanish Fly | 0.10% | ~491 |
 | Spice Girls | 0.10% | ~491 |
 | The Spice Must Flow | 0.10% | ~491 |
+| Stardust Crusaders | 0.10% | ~491 |
 | Stern des Südens | 0.10% | ~491 |
 | Stiff Upper Lippe | 0.10% | ~491 |
 | Strait Talk | 0.10% | ~491 |
@@ -357,7 +358,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Sailor Mon | 0.00% | ~0 |
 | Foremost Servitor of Jagannath | 0.00% | ~0 |
 | Spaghetti Western | 0.00% | ~0 |
-| Stardust Crusaders | 0.00% | ~0 |
 | Sworn Fealty | 0.00% | ~0 |
 | Tatarstan | 0.00% | ~0 |
 | The Freest Man in the World | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 491,196 (Ranked 43)  
+Progressed: 491,239 (Ranked 43)  
 Completed: 1 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -628,7 +628,7 @@ Completed: 1 (0.00%) (Ranked 392)
 | 2023-12-31 | 489,119 | 1 |
 | 2024-01-01 | 489,961 | 1 |
 | 2024-01-02 | 490,643 | 1 |
-| 2024-01-03 | 491,196 | 1 |
+| 2024-01-03 | 491,239 | 1 |
 ## Awards
 Max (Educational): 7,696  (Ranked 54)  
 Sum: 63,439 (Ranked 24)  

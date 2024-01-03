@@ -50,8 +50,8 @@ Number of Ratings: 53  (23.09.2022)
 | Gold fever | 2.00% | ~23 |
 | Fill it up, please! | 2.00% | ~23 |
 | Administrator | 1.00% | ~12 |
+| Raiders of the Lost Ark | 1.00% | ~12 |
 | Capitalist | 0.90% | ~11 |
-| Raiders of the Lost Ark | 0.90% | ~11 |
 | Parlay? | 0.90% | ~11 |
 | Fleet Admiral | 0.80% | ~9 |
 | Traffic chaos | 0.80% | ~9 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 733,
+  "EOS_Progressed": 735,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 283,
+  "EOS_NewPlayers": 280,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1897,6 +1897,11 @@
       "Time": "2024-01-03T18:09:25.2595277+00:00",
       "NumProgressed": 733,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T19:09:35.1999376+00:00",
+      "NumProgressed": 735,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -1917,7 +1922,7 @@
       "Name": "Highballer",
       "Percentage": 49,
       "XP": 90,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "CareerChamp1",
@@ -1931,9 +1936,9 @@
       "ID": "CareerChamp2",
       "SetID": "5hd282c",
       "Name": "National Amateurs Champion",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 132
+      "UsersEstimate": 140
     },
     {
       "ID": "CareerChamp3",
@@ -1965,7 +1970,7 @@
       "Name": "Storm Warning",
       "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 498
+      "UsersEstimate": 500
     },
     {
       "ID": "CollectVehiclesA",
@@ -1973,7 +1978,7 @@
       "Name": "Wheeler Dealer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "CollectVehiclesB",
@@ -2003,9 +2008,9 @@
       "ID": "LawnMowerTime",
       "SetID": "5hd282c",
       "Name": "Garden Variety",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 7
     },
     {
       "ID": "MultiplayerEventsWonA",
@@ -2021,15 +2026,15 @@
       "Name": "Dirty Roller",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "PlayerRankB",
       "SetID": "5hd282c",
       "Name": "Trashing Around",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 103
+      "UsersEstimate": 110
     },
     {
       "ID": "PlayerRankC",
@@ -2068,7 +2073,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 733,
+      "Progressed": 735,
       "Completed": 0
     }
   ],
@@ -2076,8 +2081,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-01T13:03:06.5238599+00:00",
-  "LastChanged_Achievements": "2024-01-03T18:09:25.2595273+00:00",
+  "LastChanged_Achievements": "2024-01-03T19:09:35.1999372+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:31.5719432+00:00",
-  "LastUpdate_Ratings": "2024-01-03T17:57:10.213626+00:00",
-  "LastUpdate_Achievements": "2024-01-03T18:09:25.2595511+00:00"
+  "LastUpdate_Ratings": "2024-01-03T18:57:23.353775+00:00",
+  "LastUpdate_Achievements": "2024-01-03T19:09:35.1999591+00:00"
 }

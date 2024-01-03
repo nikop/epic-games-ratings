@@ -54,6 +54,7 @@ Number of Ratings: 177  (23.09.2022)
 | Congrats, A Celebrity Hates You | 0.20% | ~8 |
 | Doja's Dope-Ass Dinolicious Danceapalooza | 0.20% | ~8 |
 | Duck n' Weave | 0.20% | ~14 |
+| Good Riddance! | 0.20% | ~14 |
 | I Know Grump-Fu | 0.20% | ~14 |
 | Ronin | 0.20% | ~14 |
 | Howz It Goin Dood | 0.20% | ~14 |
@@ -62,7 +63,6 @@ Number of Ratings: 177  (23.09.2022)
 | Against All Odds | 0.10% | ~7 |
 | Casabrova | 0.10% | ~7 |
 | D-Club Certified | 0.10% | ~7 |
-| Good Riddance! | 0.10% | ~7 |
 | Hijinks Averted | 0.10% | ~7 |
 | Host Hijinks | 0.10% | ~7 |
 | Hungry Hungry Hot Tubs | 0.10% | ~4 |

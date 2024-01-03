@@ -1,16 +1,16 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.62 (Ranked 375)  
+Rating: 4.62 (Ranked 374)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 14.00% | ~949 |
-| Realm Estate | 12.00% | ~813 |
+| Secret Technique | 14.00% | ~950 |
+| Realm Estate | 12.00% | ~814 |
 | A Wonderful Discovery | 11.00% | ~746 |
 | Walls Cannot Stop Us | 11.00% | ~746 |
 | From Friends to Family | 10.00% | ~678 |
-| Bone Peddler | 8.00% | ~542 |
+| Bone Peddler | 8.00% | ~543 |
 | Full Ascension | 7.00% | ~475 |
 | Magical Synergy | 7.00% | ~475 |
 | There Can Only Be One! | 6.00% | ~407 |
@@ -23,12 +23,12 @@ Rating: 4.62 (Ranked 375)
 | Return of the Wizard King | 4.00% | ~271 |
 | Digging for Treasure | 4.00% | ~271 |
 | My Final Form | 4.00% | ~271 |
-| Enchanted Archipelago | 3.00% | ~203 |
-| Preparation Is Everything | 3.00% | ~203 |
-| Fiery Friend | 3.00% | ~203 |
-| Against the Odds | 3.00% | ~203 |
-| Impenetrable Fortress | 3.00% | ~203 |
-| Freed Lands of Manuhari | 3.00% | ~203 |
+| Enchanted Archipelago | 3.00% | ~204 |
+| Preparation Is Everything | 3.00% | ~204 |
+| Fiery Friend | 3.00% | ~204 |
+| Against the Odds | 3.00% | ~204 |
+| Impenetrable Fortress | 3.00% | ~204 |
+| Freed Lands of Manuhari | 3.00% | ~204 |
 | Arch Mage | 2.00% | ~136 |
 | The Creator | 2.00% | ~136 |
 | Crimson Caldera | 2.00% | ~136 |
@@ -53,8 +53,8 @@ Rating: 4.62 (Ranked 375)
 | Dawn of the Dread | 1.00% | ~68 |
 | Grexolis | 0.90% | ~61 |
 | One for All, All for One | 0.90% | ~61 |
+| Betrayal Most Foul | 0.80% | ~54 |
 | Duality | 0.80% | ~54 |
-| Betrayal Most Foul | 0.70% | ~47 |
 | Snap Out of It! | 0.50% | ~34 |
 | The Magic That Empowers Me! | 0.50% | ~34 |
 | A Very Special Ring | 0.40% | ~27 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 375)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,779 (Ranked 196)  
+Progressed: 6,784 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 7 (0.10%) (Ranked 305)
 | 2023-12-31 | 6,624 | 7 |
 | 2024-01-01 | 6,687 | 7 |
 | 2024-01-02 | 6,742 | 7 |
-| 2024-01-03 | 6,779 | 7 |
+| 2024-01-03 | 6,784 | 7 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 479)  
 Sum: 209 (Ranked 409)  

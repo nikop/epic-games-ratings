@@ -6,33 +6,33 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 96.00% | ~55,052 |
-| ''I don't like you either!'' | 77.00% | ~44,156 |
-| ''Impressive, most impressive'' | 69.00% | ~39,569 |
-| ''You think you're some kind of Jedi?'' | 69.00% | ~39,569 |
-| The Phantom Menace | 57.00% | ~32,687 |
-| ''Aggressive Negotiations'' | 56.00% | ~32,114 |
-| ''I can fly anything'' | 55.00% | ~31,540 |
-| ''And who gave you permission...?'' | 51.00% | ~29,246 |
-| A New Hope | 46.00% | ~26,379 |
-| Attack of the Clones | 44.00% | ~25,232 |
-| Revenge of the Sith | 38.00% | ~21,791 |
-| The Empire Strikes Back | 36.00% | ~20,645 |
-| ''A fine addition to my collection'' | 36.00% | ~20,645 |
-| Return of the Jedi | 30.00% | ~17,204 |
-| The Force Awakens | 25.00% | ~14,336 |
-| The Last Jedi | 22.00% | ~12,616 |
-| The Rise of Skywalker | 19.00% | ~10,896 |
-| ''It's true... all of it'' | 18.00% | ~10,322 |
-| ''Get the crews to their fighters'' | 18.00% | ~10,322 |
+| ''You guys got yourself a ship!'' | 96.00% | ~55,062 |
+| ''I don't like you either!'' | 77.00% | ~44,164 |
+| ''Impressive, most impressive'' | 69.00% | ~39,576 |
+| ''You think you're some kind of Jedi?'' | 69.00% | ~39,576 |
+| The Phantom Menace | 57.00% | ~32,693 |
+| ''Aggressive Negotiations'' | 56.00% | ~32,119 |
+| ''I can fly anything'' | 55.00% | ~31,546 |
+| ''And who gave you permission...?'' | 51.00% | ~29,252 |
+| A New Hope | 46.00% | ~26,384 |
+| Attack of the Clones | 44.00% | ~25,237 |
+| Revenge of the Sith | 38.00% | ~21,795 |
+| The Empire Strikes Back | 36.00% | ~20,648 |
+| ''A fine addition to my collection'' | 36.00% | ~20,648 |
+| Return of the Jedi | 30.00% | ~17,207 |
+| The Force Awakens | 25.00% | ~14,339 |
+| The Last Jedi | 22.00% | ~12,618 |
+| The Rise of Skywalker | 19.00% | ~10,898 |
+| ''It's true... all of it'' | 18.00% | ~10,324 |
+| ''Get the crews to their fighters'' | 18.00% | ~10,324 |
 | ''Raw, untamed power'' | 8.00% | ~4,588 |
-| Rishi Maze | 5.00% | ~2,867 |
+| Rishi Maze | 5.00% | ~2,868 |
 | ''Only one business in the Galaxy...'' | 4.00% | ~2,294 |
-| ''You may fire when ready'' | 3.00% | ~1,720 |
-| ''What have you done with those plans?'' | 3.00% | ~1,720 |
-| ''GONK!'' | 3.00% | ~1,720 |
-| ''Hey, what are you trying to push on us?'' | 3.00% | ~1,720 |
-| The Slice | 3.00% | ~1,720 |
+| ''You may fire when ready'' | 3.00% | ~1,721 |
+| ''What have you done with those plans?'' | 3.00% | ~1,721 |
+| ''GONK!'' | 3.00% | ~1,721 |
+| ''Hey, what are you trying to push on us?'' | 3.00% | ~1,721 |
+| The Slice | 3.00% | ~1,721 |
 | ''Hello there!'' | 2.00% | ~1,147 |
 | Unknown Regions | 2.00% | ~1,147 |
 | ''Do or do not. There is no try'' | 2.00% | ~1,147 |
@@ -49,10 +49,10 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''No more training, do you require'' | 2.00% | ~1,147 |
 | ''You needn't worry about your reward'' | 2.00% | ~1,147 |
 | ''Now I am the Master'' | 2.00% | ~1,147 |
-| ''Jedi Business'' | 1.00% | ~573 |
+| ''Jedi Business'' | 1.00% | ~574 |
 | ''I've never seen a real one!'' | 0.90% | ~516 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,346 (Ranked 120)  
+Progressed: 57,356 (Ranked 120)  
 Completed: 256 (0.45%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,10 +309,10 @@ Completed: 256 (0.45%) (Ranked 229)
 | 2023-12-31 | 56,744 | 256 |
 | 2024-01-01 | 56,979 | 256 |
 | 2024-01-02 | 57,195 | 256 |
-| 2024-01-03 | 57,346 | 256 |
+| 2024-01-03 | 57,356 | 256 |
 ## Awards
 Max (Great Boss Battles): 2,481  (Ranked 108)  
-Sum: 6,798 (Ranked 129)  
+Sum: 6,799 (Ranked 129)  
 Diff (max vs sum): -21  
 | Award | Count |
 | ----- | ----- |
@@ -320,8 +320,8 @@ Diff (max vs sum): -21
 | This game is Great for Beginners | 525 |
 | This game has Diverse Characters | 520 |
 | This game has Amazing Characters | 497 |
+| This game is Highly Recommended | 477 |
 | This game has Easy Combat | 477 |
-| This game is Highly Recommended | 476 |
 | This game has Amazing Storytelling | 472 |
 | This game is Extremely Fun | 460 |
 | This game has Quickly Understood Controls | 448 |
@@ -616,4 +616,4 @@ Diff (max vs sum): -21
 | 2023-12-31 | 4.78 | - | 2,474 | 6,787 |
 | 2024-01-01 | 4.77 | - | 2,479 | 6,794 |
 | 2024-01-02 | 4.77 | - | 2,481 | 6,797 |
-| 2024-01-03 | 4.77 | - | 2,481 | 6,798 |
+| 2024-01-03 | 4.77 | - | 2,481 | 6,799 |

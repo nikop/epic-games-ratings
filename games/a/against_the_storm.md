@@ -12,16 +12,16 @@ Number of Ratings: 1,845  (23.09.2022)
 | Taking Action | 7.00% | ~1,403 |
 | No Deaths | 7.00% | ~1,403 |
 | Petrified Necropolis | 7.00% | ~1,403 |
-| The Marshlands | 6.00% | ~1,202 |
-| Gathering Storm | 6.00% | ~1,202 |
+| The Marshlands | 6.00% | ~1,203 |
+| Gathering Storm | 6.00% | ~1,203 |
 | Overcoming Difficulty | 5.00% | ~1,002 |
 | Coral Forest | 5.00% | ~1,002 |
 | The Scarlet Orchard | 5.00% | ~1,002 |
 | Frosts | 5.00% | ~1,002 |
 | Land of Greed | 5.00% | ~1,002 |
 | Ominous Presence | 5.00% | ~1,002 |
-| Royal Outpost | 4.00% | ~801 |
-| Watchtower | 4.00% | ~801 |
+| Royal Outpost | 4.00% | ~802 |
+| Watchtower | 4.00% | ~802 |
 | Homesick | 3.00% | ~601 |
 | Ruined Armory | 3.00% | ~601 |
 | Fertile Meadows | 3.00% | ~601 |
@@ -66,8 +66,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,037 (Ranked 152)  
-Completed: 33 (0.16%) (Ranked 283)  
+Progressed: 20,043 (Ranked 152)  
+Completed: 33 (0.16%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -324,10 +324,10 @@ Completed: 33 (0.16%) (Ranked 283)
 | 2023-12-31 | 19,834 | 34 |
 | 2024-01-01 | 19,919 | 33 |
 | 2024-01-02 | 19,991 | 33 |
-| 2024-01-03 | 20,037 | 33 |
+| 2024-01-03 | 20,043 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 447  (Ranked 230)  
-Sum: 3,322 (Ranked 176)  
+Sum: 3,324 (Ranked 176)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
@@ -335,12 +335,12 @@ Diff (max vs sum): 54
 | This game is Relaxing | 446 |
 | This game is Great for Beginners | 437 |
 | This game is Extremely Fun | 416 |
-| This game is Highly Recommended | 400 |
+| This game is Highly Recommended | 401 |
 | This game has Unique Visuals | 338 |
 | This game has Amazing Storytelling | 329 |
 | This game has Amazing Characters | 292 |
 | This game has Obsessive Gameplay | 254 |
-| This game has a Creative Community | 217 |
+| This game has a Creative Community | 218 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -617,4 +617,4 @@ Diff (max vs sum): 54
 | 2023-12-31 | 4.82 | - | 447 | 3,312 |
 | 2024-01-01 | 4.82 | - | 447 | 3,317 |
 | 2024-01-02 | 4.82 | - | 447 | 3,320 |
-| 2024-01-03 | 4.82 | - | 447 | 3,322 |
+| 2024-01-03 | 4.82 | - | 447 | 3,324 |

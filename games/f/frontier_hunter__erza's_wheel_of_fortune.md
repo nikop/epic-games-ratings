@@ -17,7 +17,7 @@ Rating: 4.35 (Ranked 820)
 | Beginner Cook | 38.00% | ~263 |
 | Beginner Artificer | 37.00% | ~256 |
 | Seal Breaker | 32.00% | ~222 |
-| Handyman | 28.00% | ~194 |
+| Handyman | 29.00% | ~201 |
 | Giant Lizard Killer | 27.00% | ~187 |
 | Guardian | 26.00% | ~180 |
 | Nosebleeder | 26.00% | ~180 |

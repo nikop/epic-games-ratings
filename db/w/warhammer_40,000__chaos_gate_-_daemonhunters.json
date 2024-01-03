@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -813,9 +813,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3731,
+  "EOS_Progressed": 3732,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5408,6 +5408,11 @@
       "Time": "2024-01-03T15:06:55.3502403+00:00",
       "NumProgressed": 3731,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T19:07:12.1455726+00:00",
+      "NumProgressed": 3732,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -5595,7 +5600,7 @@
       "Name": "Blood for the Blood God!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -5962,21 +5967,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3731,
+      "Progressed": 3732,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3731,
+      "Progressed": 3732,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-01T18:03:40.84636+00:00",
-  "LastChanged_Achievements": "2024-01-03T18:07:13.5127223+00:00",
+  "LastChanged_Achievements": "2024-01-03T19:07:12.1455723+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:30.5390055+00:00",
-  "LastUpdate_Ratings": "2024-01-03T18:03:41.7215816+00:00",
-  "LastUpdate_Achievements": "2024-01-03T18:07:13.5128064+00:00"
+  "LastUpdate_Ratings": "2024-01-03T19:03:54.2399032+00:00",
+  "LastUpdate_Achievements": "2024-01-03T19:07:12.1456594+00:00"
 }

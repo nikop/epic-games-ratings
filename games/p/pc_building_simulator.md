@@ -6,38 +6,38 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,765,443 |
-| Easy to forget | 46.00% | ~1,657,355 |
-| Back in the black | 39.00% | ~1,405,149 |
-| That's what I'm talking about | 29.00% | ~1,044,854 |
-| The Best of Both Worlds | 25.00% | ~900,736 |
-| Get your wings | 20.00% | ~720,589 |
-| Double trouble | 16.00% | ~576,471 |
-| Smashing it | 11.00% | ~396,324 |
-| But can it run Crysis? | 9.00% | ~324,265 |
-| My favourite feature... | 9.00% | ~324,265 |
-| From humble beginnings... | 7.00% | ~252,206 |
-| Customer satisfaction | 7.00% | ~252,206 |
-| Keeping things neat | 4.00% | ~144,118 |
-| Seems you're pretty good at this | 4.00% | ~144,118 |
-| Bending over backwards | 4.00% | ~144,118 |
-| I'm broke, Uncle! | 3.00% | ~108,088 |
-| Triple threat | 3.00% | ~108,088 |
-| You rock at this! | 3.00% | ~108,088 |
-| Perfection | 3.00% | ~108,088 |
-| Your music sucks | 3.00% | ~108,088 |
-| Maybe you should try something else? | 2.00% | ~72,059 |
-| Taking care of business | 2.00% | ~72,059 |
-| Things are under control | 2.00% | ~72,059 |
-| Calling in Sick | 2.00% | ~72,059 |
-| Overvolted | 1.00% | ~36,029 |
-| If you fail the first time... | 1.00% | ~36,029 |
-| Amazonian | 1.00% | ~36,029 |
-| Show off | 1.00% | ~36,029 |
-| The Stuart Morton Award for Purpleness | 1.00% | ~36,029 |
-| Building isn't cheap! | 1.00% | ~36,029 |
-| Majority Shareholder | 1.00% | ~36,029 |
-| Owner | 1.00% | ~36,029 |
+| You need to plug it in... | 49.00% | ~1,765,460 |
+| Easy to forget | 46.00% | ~1,657,371 |
+| Back in the black | 39.00% | ~1,405,162 |
+| That's what I'm talking about | 29.00% | ~1,044,864 |
+| The Best of Both Worlds | 25.00% | ~900,745 |
+| Get your wings | 20.00% | ~720,596 |
+| Double trouble | 16.00% | ~576,477 |
+| Smashing it | 11.00% | ~396,328 |
+| But can it run Crysis? | 9.00% | ~324,268 |
+| My favourite feature... | 9.00% | ~324,268 |
+| From humble beginnings... | 7.00% | ~252,209 |
+| Customer satisfaction | 7.00% | ~252,209 |
+| Keeping things neat | 4.00% | ~144,119 |
+| Seems you're pretty good at this | 4.00% | ~144,119 |
+| Bending over backwards | 4.00% | ~144,119 |
+| I'm broke, Uncle! | 3.00% | ~108,089 |
+| Triple threat | 3.00% | ~108,089 |
+| You rock at this! | 3.00% | ~108,089 |
+| Perfection | 3.00% | ~108,089 |
+| Your music sucks | 3.00% | ~108,089 |
+| Maybe you should try something else? | 2.00% | ~72,060 |
+| Taking care of business | 2.00% | ~72,060 |
+| Things are under control | 2.00% | ~72,060 |
+| Calling in Sick | 2.00% | ~72,060 |
+| Overvolted | 1.00% | ~36,030 |
+| If you fail the first time... | 1.00% | ~36,030 |
+| Amazonian | 1.00% | ~36,030 |
+| Show off | 1.00% | ~36,030 |
+| The Stuart Morton Award for Purpleness | 1.00% | ~36,030 |
+| Building isn't cheap! | 1.00% | ~36,030 |
+| Majority Shareholder | 1.00% | ~36,030 |
+| Owner | 1.00% | ~36,030 |
 | Work ethic 101 | 0.70% | ~25,221 |
 | Building momentum | 0.60% | ~21,618 |
 | Lead by example | 0.60% | ~21,618 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,603 |
 | Treat yourself - GPU | 0.10% | ~3,603 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,602,945 (Ranked 5)  
+Progressed: 3,602,980 (Ranked 5)  
 Completed: 41 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,11 +317,11 @@ Completed: 41 (0.00%) (Ranked 392)
 | 2023-12-31 | 3,601,247 | 41 |
 | 2024-01-01 | 3,601,910 | 41 |
 | 2024-01-02 | 3,602,513 | 41 |
-| 2024-01-03 | 3,602,945 | 41 |
+| 2024-01-03 | 3,602,980 | 41 |
 ## Awards
 Max (Great for Beginners): 1,127  (Ranked 149)  
-Sum: 8,262 (Ranked 110)  
-Diff (max vs sum): 39  
+Sum: 8,262 (Ranked 111)  
+Diff (max vs sum): 38  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,127 |

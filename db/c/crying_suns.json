@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 397,
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -709,9 +709,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 473296,
+  "EOS_Progressed": 473298,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 393,
+  "EOS_NewPlayers": 390,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27399,6 +27399,11 @@
       "Time": "2024-01-03T18:11:12.5781529+00:00",
       "NumProgressed": 473296,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-03T19:11:17.7491104+00:00",
+      "NumProgressed": 473298,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 79,
@@ -27410,7 +27415,7 @@
       "Name": "Knightmare Frames",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70994
+      "UsersEstimate": 70995
     },
     {
       "ID": "achievement_expedition_overcome_sandworm",
@@ -27418,7 +27423,7 @@
       "Name": "May His passing cleanse the world",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70994
+      "UsersEstimate": 70995
     },
     {
       "ID": "achievement_first_death",
@@ -27426,7 +27431,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 113591
+      "UsersEstimate": 113592
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -27434,7 +27439,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 104125
+      "UsersEstimate": 104126
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -27442,7 +27447,7 @@
       "Name": "Chapter II: Fallible Flesh",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 70994
+      "UsersEstimate": 70995
     },
     {
       "ID": "achievement_story_complete_chapter_3",
@@ -27498,7 +27503,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 312375
+      "UsersEstimate": 312377
     },
     {
       "ID": "achievement_story_landa",
@@ -27578,7 +27583,7 @@
       "Name": "Pope Zenon",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70994
+      "UsersEstimate": 70995
     },
     {
       "ID": "achievement_story_neon_child",
@@ -27586,7 +27591,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 94659
+      "UsersEstimate": 94660
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -27834,7 +27839,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 208250
+      "UsersEstimate": 208251
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -27866,7 +27871,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 184585
+      "UsersEstimate": 184586
     },
     {
       "ID": "achievement_win_run_hard",
@@ -27922,7 +27927,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 104125
+      "UsersEstimate": 104126
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -28041,21 +28046,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 17230,
+      "Progressed": 17232,
       "Completed": 2362
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 473296,
+      "Progressed": 473298,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2024-01-03T17:03:08.8869206+00:00",
-  "LastChanged_Achievements": "2024-01-03T18:11:12.5781526+00:00",
+  "LastChanged_Achievements": "2024-01-03T19:11:17.7491101+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:35.1454991+00:00",
-  "LastUpdate_Ratings": "2024-01-03T18:02:35.7911181+00:00",
-  "LastUpdate_Achievements": "2024-01-03T18:11:12.578325+00:00"
+  "LastUpdate_Ratings": "2024-01-03T19:02:30.8291854+00:00",
+  "LastUpdate_Achievements": "2024-01-03T19:11:17.7492926+00:00"
 }

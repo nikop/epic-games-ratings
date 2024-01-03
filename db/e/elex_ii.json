@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 437,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 272,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
     "PcReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -571,7 +571,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 169,
+  "EOS_Progressed": 170,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
@@ -1221,6 +1221,11 @@
       "Time": "2024-01-03T16:03:12.3442935+00:00",
       "NumProgressed": 169,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T19:04:15.7541505+00:00",
+      "NumProgressed": 170,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:41.4600068+00:00",
@@ -1231,9 +1236,9 @@
       "ID": "100000ITEMS",
       "SetID": "a1angca",
       "Name": "Pack Rat",
-      "Percentage": 0,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "10000ELEXIT",
@@ -1249,7 +1254,7 @@
       "Name": "Entrepreneur",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "100HEALS",
@@ -1297,7 +1302,7 @@
       "Name": "Peddler",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "20WEAPONSCRAFTED",
@@ -1361,7 +1366,7 @@
       "Name": "Military Leader",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ALLCOMBAT",
@@ -1407,9 +1412,9 @@
       "ID": "ALLXP",
       "SetID": "a1angca",
       "Name": "Role Model",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "BRINGTOYS",
@@ -1473,7 +1478,7 @@
       "Name": "Creator",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "DESTRUCTION",
@@ -1495,9 +1500,9 @@
       "ID": "FINDALLIES",
       "SetID": "a1angca",
       "Name": "Commander",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "FINDBILLY",
@@ -1521,7 +1526,7 @@
       "Name": "Best Buddy",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "FINDMAP",
@@ -1545,7 +1550,7 @@
       "Name": "Irissa\u0027s Fate",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "HELPCHILDREN",
@@ -1575,9 +1580,9 @@
       "ID": "KILL20MONSTER",
       "SetID": "a1angca",
       "Name": "Hunter",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "KILL20SKYANDS",
@@ -1615,9 +1620,9 @@
       "ID": "KILLKAHN",
       "SetID": "a1angca",
       "Name": "Eternal Oblivion",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "LOVECAJA",
@@ -1632,15 +1637,15 @@
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 169,
+      "Progressed": 170,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2024-01-03T18:04:05.5002877+00:00",
+  "LastChanged_Achievements": "2024-01-03T19:04:15.7541501+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:16.9599546+00:00",
-  "LastUpdate_Ratings": "2024-01-03T18:02:12.5258599+00:00",
-  "LastUpdate_Achievements": "2024-01-03T18:04:05.5003381+00:00"
+  "LastUpdate_Ratings": "2024-01-03T19:02:07.3194251+00:00",
+  "LastUpdate_Achievements": "2024-01-03T19:04:15.7542021+00:00"
 }

@@ -1,22 +1,22 @@
 # Outward Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/outward)  
 [View Rawdata](../../db/o/outward.json)  
-Rating: 4.55 (Ranked 522)  
+Rating: 4.54 (Ranked 543)  
 Number of Ratings: 266  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 73.00% | ~3,246 |
-| Ready for Winter | 61.00% | ~2,713 |
-| Ready for Summer | 49.00% | ~2,179 |
-| Cordon Bleu | 41.00% | ~1,823 |
-| Tapped! | 35.00% | ~1,556 |
-| Eureka | 30.00% | ~1,334 |
-| Scourge Slayer | 24.00% | ~1,067 |
-| Science, Troglodyte! | 22.00% | ~978 |
+| Venture Outward | 73.00% | ~3,248 |
+| Ready for Winter | 61.00% | ~2,714 |
+| Ready for Summer | 49.00% | ~2,180 |
+| Cordon Bleu | 41.00% | ~1,824 |
+| Tapped! | 35.00% | ~1,557 |
+| Eureka | 30.00% | ~1,335 |
+| Scourge Slayer | 24.00% | ~1,068 |
+| Science, Troglodyte! | 22.00% | ~979 |
 | Exceptional Skill | 21.00% | ~934 |
-| Home Sweet Home | 20.00% | ~889 |
-| Encyclopedic! | 18.00% | ~800 |
+| Home Sweet Home | 20.00% | ~890 |
+| Encyclopedic! | 18.00% | ~801 |
 | A Fortress Toppled! | 15.00% | ~667 |
 | The Power of Family | 15.00% | ~667 |
 | Apex Predator | 14.00% | ~623 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~13 |
 | The Absolute Pinnacle. | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,447 (Ranked 205)  
+Progressed: 4,449 (Ranked 205)  
 Completed: 5 (0.11%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 5 (0.11%) (Ranked 303)
 | 2023-12-31 | 4,379 | 5 |
 | 2024-01-01 | 4,404 | 5 |
 | 2024-01-02 | 4,428 | 5 |
-| 2024-01-03 | 4,447 | 5 |
+| 2024-01-03 | 4,449 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 499)  
 Sum: 246 (Ranked 400)  
@@ -381,3 +381,4 @@ Diff (max vs sum): 99
 | 2023-11-28 | 4.56 | - | 35 | 245 |
 | 2023-12-01 | 4.56 | - | 35 | 246 |
 | 2023-12-16 | 4.55 | - | 35 | 246 |
+| 2024-01-03 | 4.54 | - | 35 | 246 |

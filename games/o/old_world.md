@@ -23,6 +23,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Oracle | 0.80% | ~129 |
 | Trade Caravan | 0.80% | ~129 |
 | Ambitious | 0.70% | ~113 |
+| Enlightened | 0.70% | ~113 |
 | Glorious | 0.70% | ~113 |
 | Just | 0.70% | ~113 |
 | Keystone | 0.70% | ~113 |
@@ -33,7 +34,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greek Paganism | 0.70% | ~113 |
 | Naming Landmarks | 0.70% | ~113 |
 | Brilliant | 0.60% | ~97 |
-| Enlightened | 0.60% | ~97 |
 | Fountainhead | 0.60% | ~97 |
 | Magnificent | 0.60% | ~97 |
 | Warrior | 0.60% | ~97 |
@@ -77,6 +77,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Artisans | 0.30% | ~48 |
 | Champions | 0.30% | ~48 |
 | Patrons | 0.30% | ~48 |
+| Riders | 0.30% | ~48 |
 | Traders | 0.30% | ~48 |
 | Hittite Iron | 0.30% | ~48 |
 | Learn to Play 3 | 0.30% | ~48 |
@@ -86,6 +87,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Economic Reform | 0.30% | ~48 |
 | Military Prestige | 0.30% | ~48 |
 | Mythology | 0.30% | ~48 |
+| Legionary | 0.30% | ~48 |
 | Points Victory | 0.30% | ~48 |
 | Bad Heir Day | 0.20% | ~32 |
 | Capable | 0.20% | ~32 |
@@ -97,7 +99,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Difficulty | 0.20% | ~32 |
 | Hunters | 0.20% | ~32 |
 | Landowners | 0.20% | ~32 |
-| Riders | 0.20% | ~32 |
 | Statesmen | 0.20% | ~32 |
 | Circus Maximus | 0.20% | ~32 |
 | Hagia Sophia | 0.20% | ~32 |
@@ -120,7 +121,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Veneration | 0.20% | ~32 |
 | Cimmerian Archer | 0.20% | ~32 |
 | Kushite Cavalry | 0.20% | ~32 |
-| Legionary | 0.20% | ~32 |
 | Phalangite | 0.20% | ~32 |
 | Turreted Elephant | 0.20% | ~32 |
 | All Nations | 0.20% | ~32 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,104 (Ranked 166)  
+Progressed: 16,105 (Ranked 166)  
 Completed: 5 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -623,7 +623,7 @@ Completed: 5 (0.03%) (Ranked 350)
 | 2023-12-31 | 16,053 | 5 |
 | 2024-01-01 | 16,077 | 5 |
 | 2024-01-02 | 16,090 | 5 |
-| 2024-01-03 | 16,104 | 5 |
+| 2024-01-03 | 16,105 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 283)  
 Sum: 1,912 (Ranked 221)  

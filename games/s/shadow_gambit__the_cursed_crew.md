@@ -1,7 +1,7 @@
 # Shadow Gambit: The Cursed Crew
 [Store](https://store.epicgames.com/en-US/p/shadow-gambit-the-cursed-crew-0bca60)  
 [View Rawdata](../../db/s/shadow_gambit__the_cursed_crew.json)  
-Rating: 4.80 (Ranked 91)  
+Rating: 4.80 (Ranked 92)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -17,7 +17,7 @@ Rating: 4.80 (Ranked 91)
 | Pirates Assemble! | 24.00% | ~341 |
 | Buccaneer | 20.00% | ~284 |
 | Fishy Fish | 20.00% | ~284 |
-| All Good Things | 17.00% | ~241 |
+| All Good Things | 18.00% | ~255 |
 | Persistent Parasite | 17.00% | ~241 |
 | Seadog | 14.00% | ~199 |
 | Tobacco Travesty | 11.00% | ~156 |

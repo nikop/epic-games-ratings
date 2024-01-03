@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
     "PcReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -173,9 +173,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16315,
+  "EOS_Progressed": 16316,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 354,
+  "EOS_NewPlayers": 351,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -5753,6 +5753,11 @@
       "Time": "2024-01-03T18:10:20.6355776+00:00",
       "NumProgressed": 16315,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-03T19:10:28.2426644+00:00",
+      "NumProgressed": 16316,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -5797,15 +5802,15 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 12236
+      "UsersEstimate": 12237
     },
     {
       "ID": "ACH_AE_14",
       "SetID": "ck3465",
       "Name": "Sticky Situation",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 3100
+      "UsersEstimate": 3263
     },
     {
       "ID": "ACH_AE_15",
@@ -5813,7 +5818,7 @@
       "Name": "Right Back At You",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3589
+      "UsersEstimate": 3590
     },
     {
       "ID": "ACH_AE_16",
@@ -5941,7 +5946,7 @@
       "Name": "Pajama Boy",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 2610
+      "UsersEstimate": 2611
     },
     {
       "ID": "ACH_AE_30",
@@ -6044,7 +6049,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16315,
+      "Progressed": 16316,
       "Completed": 15
     }
   ],
@@ -6052,8 +6057,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2024-01-03T15:58:59.1983822+00:00",
-  "LastChanged_Achievements": "2024-01-03T18:10:20.6355772+00:00",
+  "LastChanged_Achievements": "2024-01-03T19:10:28.242664+00:00",
   "LastUpdate_AppInfo": "2024-01-02T18:57:14.4864444+00:00",
-  "LastUpdate_Ratings": "2024-01-03T18:00:19.8309584+00:00",
-  "LastUpdate_Achievements": "2024-01-03T18:10:20.6356575+00:00"
+  "LastUpdate_Ratings": "2024-01-03T19:00:24.0940802+00:00",
+  "LastUpdate_Achievements": "2024-01-03T19:10:28.2427186+00:00"
 }

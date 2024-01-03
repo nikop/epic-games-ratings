@@ -8,7 +8,7 @@ Rating: 4.71 (Ranked 202)
 | The Last Stand | 88.00% | ~621 |
 | Thalya – Simply Immortal | 88.00% | ~621 |
 | For the Horde! | 82.00% | ~579 |
-| Hammer Time, Round Two | 80.00% | ~565 |
+| Hammer Time, Round Two | 81.00% | ~572 |
 | The Hellwoods | 76.00% | ~537 |
 | The Plains of Strothalm | 72.00% | ~508 |
 | Experienced Thalya | 71.00% | ~501 |
@@ -52,12 +52,12 @@ Rating: 4.71 (Ranked 202)
 | The Rune Sockets of Finitude (Part 2) | 25.00% | ~176 |
 | The Last Stand - This Time For Real! | 23.00% | ~162 |
 | Rubble and Ashes | 21.00% | ~148 |
-| Lavalumps on Ice! | 19.00% | ~134 |
+| Lavalumps on Ice! | 20.00% | ~141 |
 | To Infinity And Beyond! | 19.00% | ~134 |
+| Sacrificial Pit = Garbage Disposal? | 18.00% | ~127 |
 | My Little Torture Chamber | 18.00% | ~127 |
 | To the Max! | 18.00% | ~127 |
 | Evilification | 18.00% | ~127 |
-| Sacrificial Pit = Garbage Disposal? | 17.00% | ~120 |
 | Mirror, Mirror | 16.00% | ~113 |
 | Untouchable | 16.00% | ~113 |
 | Heal Heal Blessing | 16.00% | ~113 |

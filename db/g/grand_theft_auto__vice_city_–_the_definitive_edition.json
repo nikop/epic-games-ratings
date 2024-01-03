@@ -1057,9 +1057,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 15206,
+  "EOS_Progressed": 15215,
   "EOS_Completed": 85,
-  "EOS_NewPlayers": 919,
+  "EOS_NewPlayers": 922,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -16887,6 +16887,11 @@
       "Time": "2024-01-03T18:10:38.9093706+00:00",
       "NumProgressed": 15206,
       "NumCompleted": 85
+    },
+    {
+      "Time": "2024-01-03T19:10:45.1368047+00:00",
+      "NumProgressed": 15215,
+      "NumCompleted": 85
     }
   ],
   "TotalAchievements": 34,
@@ -16914,7 +16919,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 1521
+      "UsersEstimate": 1522
     },
     {
       "ID": "ACH04",
@@ -16922,7 +16927,7 @@
       "Name": "Not my First Time",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "ACH05",
@@ -16954,7 +16959,7 @@
       "Name": "Pie Guy",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "ACH09",
@@ -16970,7 +16975,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 1064
+      "UsersEstimate": 1065
     },
     {
       "ID": "ACH11",
@@ -16978,7 +16983,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1673
+      "UsersEstimate": 1674
     },
     {
       "ID": "ACH12",
@@ -16986,7 +16991,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "ACH13",
@@ -17002,7 +17007,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 6387
+      "UsersEstimate": 6390
     },
     {
       "ID": "ACH15",
@@ -17058,7 +17063,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 6995
+      "UsersEstimate": 6999
     },
     {
       "ID": "ACH22",
@@ -17066,7 +17071,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 3041
+      "UsersEstimate": 3043
     },
     {
       "ID": "ACH23",
@@ -17074,7 +17079,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 3954
+      "UsersEstimate": 3956
     },
     {
       "ID": "ACH24",
@@ -17082,7 +17087,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2281
+      "UsersEstimate": 2282
     },
     {
       "ID": "ACH25",
@@ -17090,7 +17095,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2281
+      "UsersEstimate": 2282
     },
     {
       "ID": "ACH26",
@@ -17098,7 +17103,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2281
+      "UsersEstimate": 2282
     },
     {
       "ID": "ACH27",
@@ -17106,7 +17111,7 @@
       "Name": "Grand Theft Auto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "ACH28",
@@ -17114,7 +17119,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "ACH29",
@@ -17130,7 +17135,7 @@
       "Name": "Mischief Managed",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1216
+      "UsersEstimate": 1217
     },
     {
       "ID": "ACH31",
@@ -17169,7 +17174,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 15206,
+      "Progressed": 15215,
       "Completed": 85
     }
   ],
@@ -17177,8 +17182,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-03T02:18:34.6735113+00:00",
-  "LastChanged_Achievements": "2024-01-03T18:10:38.9093703+00:00",
+  "LastChanged_Achievements": "2024-01-03T19:10:45.1368043+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:48.9246276+00:00",
-  "LastUpdate_Ratings": "2024-01-03T17:58:26.7699046+00:00",
-  "LastUpdate_Achievements": "2024-01-03T18:10:38.9094873+00:00"
+  "LastUpdate_Ratings": "2024-01-03T18:58:38.6725942+00:00",
+  "LastUpdate_Achievements": "2024-01-03T19:10:45.1368873+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -329,7 +329,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3930,
+  "EOS_Progressed": 3931,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
@@ -7789,6 +7789,11 @@
       "Time": "2024-01-03T17:07:17.8052646+00:00",
       "NumProgressed": 3930,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T19:08:30.4757951+00:00",
+      "NumProgressed": 3931,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -7832,7 +7837,7 @@
       "Name": "Oats",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ACH_BASE_15",
@@ -7856,7 +7861,7 @@
       "Name": "What They Hide From Us",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ACH_BASE_18",
@@ -7872,7 +7877,7 @@
       "Name": "...  in a finite world",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ACH_BASE_2",
@@ -7904,7 +7909,7 @@
       "Name": "Space Society",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "ACH_BASE_24",
@@ -7912,7 +7917,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1100
+      "UsersEstimate": 1101
     },
     {
       "ID": "ACH_BASE_25",
@@ -7944,7 +7949,7 @@
       "Name": "In Dolos We Trust",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ACH_BASE_29",
@@ -7952,7 +7957,7 @@
       "Name": "A Thousand Strong",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "ACH_BASE_3",
@@ -8000,7 +8005,7 @@
       "Name": "Ready for a New World",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "ACH_BASE_35",
@@ -8136,7 +8141,7 @@
       "Name": "BRAWL!",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ACH_BASE_53",
@@ -8240,7 +8245,7 @@
       "Name": "What the Ruins Teach Us",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ACH_BASE_9",
@@ -8255,13 +8260,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 2114,
+      "Progressed": 2115,
       "Completed": 10
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3930,
+      "Progressed": 3931,
       "Completed": 0
     }
   ],
@@ -8269,8 +8274,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2024-01-02T02:20:24.7743828+00:00",
-  "LastChanged_Achievements": "2024-01-03T18:08:37.090224+00:00",
+  "LastChanged_Achievements": "2024-01-03T19:08:30.4757947+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:27.7465752+00:00",
-  "LastUpdate_Ratings": "2024-01-03T17:58:45.8596052+00:00",
-  "LastUpdate_Achievements": "2024-01-03T18:08:37.0903232+00:00"
+  "LastUpdate_Ratings": "2024-01-03T18:58:56.8508945+00:00",
+  "LastUpdate_Achievements": "2024-01-03T19:08:30.4758875+00:00"
 }

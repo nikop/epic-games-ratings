@@ -9,24 +9,24 @@
 | Grilled Mouse | 85.00% | ~70 |
 | Lightbulbs Collector | 78.00% | ~64 |
 | Energy Collector | 76.00% | ~62 |
-| East Street Energy | 51.00% | ~42 |
+| East Street Energy | 52.00% | ~43 |
 | Energy Expert | 45.00% | ~37 |
 | Lightbulbs Expert | 45.00% | ~37 |
-| That's one way to travel | 41.00% | ~34 |
+| That's one way to travel | 43.00% | ~35 |
 | The Old Man and the Café | 40.00% | ~33 |
 | South Town Energy | 33.00% | ~27 |
 | North Town Energy | 30.00% | ~25 |
 | Photogenic | 29.00% | ~24 |
+| OK, I heard you!! | 29.00% | ~24 |
 | The Girl and the Homework | 28.00% | ~23 |
-| OK, I heard you!! | 28.00% | ~23 |
 | Unlimited Power!! | 26.00% | ~21 |
 | Lightbulb Detective | 26.00% | ~21 |
 | Cartographer | 22.00% | ~18 |
 | The Quiche and the Hair Dryer | 21.00% | ~17 |
 | South Square Lightbulbs | 20.00% | ~16 |
-| The Ghost and the Lamps | 18.00% | ~15 |
+| The Ghost and the Lamps | 20.00% | ~16 |
+| The Woman and the Pizzeria | 18.00% | ~15 |
 | West Residence Energy | 17.00% | ~14 |
-| The Woman and the Pizzeria | 17.00% | ~14 |
 | West Residence Lightbulbs | 15.00% | ~12 |
 | The Painter and the Lights | 15.00% | ~12 |
 | Riddle Master | 13.00% | ~11 |

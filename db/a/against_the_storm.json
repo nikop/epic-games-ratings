@@ -6,7 +6,7 @@
   "Ranking_Popularity": 230,
   "Ranking_PopularitySum": 176,
   "Ranking_EOS_Progress": 152,
-  "Ranking_EOS_Completed": 283,
+  "Ranking_EOS_Completed": 282,
   "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 3802,
   "Store": {
@@ -3675,10 +3675,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3322,
       "NumberOfAwardsMax": 447
+    },
+    {
+      "Time": "2024-01-03T18:59:48.2752361+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3324,
+      "NumberOfAwardsMax": 447
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3322,
+  "NumberOfAwards": 3324,
   "NumberOfAwardsMax": 447,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3698,7 +3704,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 400
+      "Count": 401
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3734,7 +3740,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 217
+      "Count": 218
     },
     {
       "Text": "This game has Unique Visuals",
@@ -3743,9 +3749,9 @@
       "Count": 338
     }
   ],
-  "EOS_Progressed": 20037,
+  "EOS_Progressed": 20043,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 608,
+  "EOS_NewPlayers": 609,
   "EOS_NewCompleters": -4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -18273,6 +18279,11 @@
       "Time": "2024-01-03T18:06:30.7212428+00:00",
       "NumProgressed": 20037,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2024-01-03T19:06:31.6239365+00:00",
+      "NumProgressed": 20043,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -18501,7 +18512,7 @@
       "Name": "Royal Outpost",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "WinNearRuins",
@@ -18541,7 +18552,7 @@
       "Name": "Watchtower",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "WinOnCoral",
@@ -18565,7 +18576,7 @@
       "Name": "The Marshlands",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1202
+      "UsersEstimate": 1203
     },
     {
       "ID": "WinOnMoorlands",
@@ -18733,7 +18744,7 @@
       "Name": "Gathering Storm",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1202
+      "UsersEstimate": 1203
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -18756,15 +18767,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20037,
+      "Progressed": 20043,
       "Completed": 33
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2024-01-03T14:59:32.859477+00:00",
-  "LastChanged_Achievements": "2024-01-03T18:06:30.7212424+00:00",
+  "LastChanged": "2024-01-03T18:59:48.2752359+00:00",
+  "LastChanged_Achievements": "2024-01-03T19:06:31.6239362+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:03.5085053+00:00",
-  "LastUpdate_Ratings": "2024-01-03T17:59:42.4739723+00:00",
-  "LastUpdate_Achievements": "2024-01-03T18:06:30.7213304+00:00"
+  "LastUpdate_Ratings": "2024-01-03T18:59:48.2752369+00:00",
+  "LastUpdate_Achievements": "2024-01-03T19:06:31.6240359+00:00"
 }

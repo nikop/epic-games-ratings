@@ -1,14 +1,14 @@
 # Destroy All Humans! 2 - Reprobed
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans-2-reprobed)  
 [View Rawdata](../../db/d/destroy_all_humans!_2_-_reprobed.json)  
-Rating: 4.54 (Ranked 544)  
+Rating: 4.54 (Ranked 543)  
 Number of Ratings: 90  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 81.00% | ~243 |
-| Mash Machine | 75.00% | ~225 |
-| Ducks in a Row, Fish in a Barrel | 54.00% | ~162 |
+| Rock of the Bay | 81.00% | ~244 |
+| Mash Machine | 75.00% | ~226 |
+| Ducks in a Row, Fish in a Barrel | 54.00% | ~163 |
 | Furon Fashion | 49.00% | ~147 |
 | Shop Til They Drop | 41.00% | ~123 |
 | Bodied Sattva | 38.00% | ~114 |
@@ -19,8 +19,8 @@ Number of Ratings: 90  (23.09.2022)
 | Pimp My Raid | 25.00% | ~75 |
 | I Look Up As I Walk to Takoshima | 21.00% | ~63 |
 | Freshly Squeezed | 21.00% | ~63 |
+| Perfect Probulator | 18.00% | ~54 |
 | Die Nasty | 18.00% | ~54 |
-| Perfect Probulator | 17.00% | ~51 |
 | Transmitting From Sol-3 | 15.00% | ~45 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 12.00% | ~36 |
 | Fly Me to the Moon Base | 9.00% | ~27 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Steezy Down the Spine | 0.30% | ~1 |
 | Trans-Siberian Express | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 300 (Ranked 391)  
+Progressed: 301 (Ranked 391)  
 Completed: 1 (0.33%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 1 (0.33%) (Ranked 244)
 | 2023-12-31 | 268 | 1 |
 | 2024-01-01 | 279 | 1 |
 | 2024-01-02 | 291 | 1 |
-| 2024-01-03 | 300 | 1 |
+| 2024-01-03 | 301 | 1 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 494)  
 Sum: 36 (Ranked 526)  

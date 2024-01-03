@@ -4,11 +4,11 @@
   "ProductSlug": "kerbal-space-program-2",
   "Ranking_Rating": 941,
   "Ranking_Popularity": 475,
-  "Ranking_PopularitySum": 376,
+  "Ranking_PopularitySum": 375,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 568,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-02-24T14:00:00+00:00",
     "PcReleaseDate": "2023-02-24T14:00:00+00:00",
@@ -1019,10 +1019,16 @@
       "Rating": 4.22,
       "NumberOfAwards": 314,
       "NumberOfAwardsMax": 42
+    },
+    {
+      "Time": "2024-01-03T19:04:09.1189178+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 316,
+      "NumberOfAwardsMax": 42
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 314,
+  "NumberOfAwards": 316,
   "NumberOfAwardsMax": 42,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -1036,7 +1042,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 36
+      "Count": 37
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1048,7 +1054,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1099,8 +1105,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-24T16:58:34.691796+00:00",
   "FirstSeenRating": "2023-02-27T02:15:09.7091148+00:00",
-  "LastChanged": "2024-01-03T17:03:54.0762411+00:00",
+  "LastChanged": "2024-01-03T19:04:09.1189176+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:57:02.5659121+00:00",
-  "LastUpdate_Ratings": "2024-01-03T18:03:58.5122936+00:00",
-  "LastUpdate_Achievements": "2024-01-03T18:05:54.1668577+00:00"
+  "LastUpdate_Ratings": "2024-01-03T19:04:09.1189181+00:00",
+  "LastUpdate_Achievements": "2024-01-03T19:05:57.2833805+00:00"
 }

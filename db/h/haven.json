@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1873,
+  "EOS_Progressed": 1874,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -3258,6 +3258,11 @@
       "Time": "2024-01-03T18:05:13.6397944+00:00",
       "NumProgressed": 1873,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-03T19:05:19.1109418+00:00",
+      "NumProgressed": 1874,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3269,7 +3274,7 @@
       "Name": "Lovebirds",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "10",
@@ -3325,7 +3330,7 @@
       "Name": "My little pony",
       "Percentage": 17,
       "XP": 70,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "17",
@@ -3341,7 +3346,7 @@
       "Name": "Like new!",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "19",
@@ -3477,7 +3482,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "7",
@@ -3508,15 +3513,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1873,
+      "Progressed": 1874,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2024-01-03T18:05:13.639794+00:00",
+  "LastChanged_Achievements": "2024-01-03T19:05:19.1109414+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:49.1667896+00:00",
-  "LastUpdate_Ratings": "2024-01-03T18:00:41.4504205+00:00",
-  "LastUpdate_Achievements": "2024-01-03T18:05:13.6398233+00:00"
+  "LastUpdate_Ratings": "2024-01-03T19:00:45.3853676+00:00",
+  "LastUpdate_Achievements": "2024-01-03T19:05:19.1109776+00:00"
 }

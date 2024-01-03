@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 327,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -5397,7 +5397,7 @@
       "Count": 531
     }
   ],
-  "EOS_Progressed": 92936,
+  "EOS_Progressed": 92938,
   "EOS_Completed": 58,
   "EOS_NewPlayers": 336,
   "EOS_NewCompleters": 0,
@@ -30202,6 +30202,11 @@
       "Time": "2024-01-03T18:06:12.6568651+00:00",
       "NumProgressed": 92936,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-03T19:06:14.9791003+00:00",
+      "NumProgressed": 92938,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -30213,7 +30218,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3717
+      "UsersEstimate": 3718
     },
     {
       "ID": "ACH_0011",
@@ -30293,7 +30298,7 @@
       "Name": "I Like Trains",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "ACH_0050",
@@ -30309,7 +30314,7 @@
       "Name": "Freebooter",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "ACH_0061",
@@ -30357,7 +30362,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3717
+      "UsersEstimate": 3718
     },
     {
       "ID": "ACH_0210",
@@ -30365,7 +30370,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3717
+      "UsersEstimate": 3718
     },
     {
       "ID": "ACH_0211",
@@ -30540,13 +30545,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 92936,
+      "Progressed": 92938,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 21283,
+      "Progressed": 21285,
       "Completed": 15595
     }
   ],
@@ -30554,8 +30559,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2024-01-03T14:57:19.1540535+00:00",
-  "LastChanged_Achievements": "2024-01-03T18:06:12.6568647+00:00",
+  "LastChanged_Achievements": "2024-01-03T19:06:14.9790999+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:43.6008036+00:00",
-  "LastUpdate_Ratings": "2024-01-03T17:57:20.5451949+00:00",
-  "LastUpdate_Achievements": "2024-01-03T18:06:12.6570094+00:00"
+  "LastUpdate_Ratings": "2024-01-03T18:57:35.0084907+00:00",
+  "LastUpdate_Achievements": "2024-01-03T19:06:14.9792493+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -14019,9 +14019,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 491196,
+  "EOS_Progressed": 491239,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5627,
+  "EOS_NewPlayers": 5623,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -43794,6 +43794,11 @@
       "Time": "2024-01-03T18:10:24.9639202+00:00",
       "NumProgressed": 491196,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-03T19:10:32.6185116+00:00",
+      "NumProgressed": 491239,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -45915,9 +45920,9 @@
       "ID": "achievement_stardust_crusaders",
       "SetID": "8p2n7he",
       "Name": "Stardust Crusaders",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 491
     },
     {
       "ID": "achievement_stern_des_sudens",
@@ -46708,21 +46713,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 491196,
+      "Progressed": 491239,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 491196,
+      "Progressed": 491239,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2024-01-03T17:57:44.1599698+00:00",
-  "LastChanged_Achievements": "2024-01-03T18:10:24.96392+00:00",
+  "LastChanged_Achievements": "2024-01-03T19:10:32.6185109+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:39.2428149+00:00",
-  "LastUpdate_Ratings": "2024-01-03T17:57:44.1599704+00:00",
-  "LastUpdate_Achievements": "2024-01-03T18:10:24.9650206+00:00"
+  "LastUpdate_Ratings": "2024-01-03T18:57:58.6478009+00:00",
+  "LastUpdate_Achievements": "2024-01-03T19:10:32.6196032+00:00"
 }

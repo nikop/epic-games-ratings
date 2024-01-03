@@ -1,23 +1,23 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.21 (Ranked 948)  
+Rating: 4.21 (Ranked 949)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~2,285 |
-| Battlefields Have Memories | 81.00% | ~2,104 |
-| Enlisted | 74.00% | ~1,922 |
-| Maybe Engage a Little | 69.00% | ~1,792 |
-| No More Names | 51.00% | ~1,324 |
-| Initiate | 37.00% | ~961 |
-| Thrada-Kul | 33.00% | ~857 |
-| Gravity-Challenged Rocks | 27.00% | ~701 |
-| Socialite | 24.00% | ~623 |
-| Soldier | 23.00% | ~597 |
-| All the Major Food Groups | 22.00% | ~571 |
-| Beggars Would Ride | 20.00% | ~519 |
-| Control is an Illusion | 19.00% | ~493 |
+| Unforeseen | 88.00% | ~2,291 |
+| Battlefields Have Memories | 81.00% | ~2,108 |
+| Enlisted | 74.00% | ~1,926 |
+| Maybe Engage a Little | 68.00% | ~1,770 |
+| No More Names | 51.00% | ~1,328 |
+| Initiate | 37.00% | ~963 |
+| Thrada-Kul | 33.00% | ~859 |
+| Gravity-Challenged Rocks | 27.00% | ~703 |
+| Socialite | 24.00% | ~625 |
+| Soldier | 23.00% | ~599 |
+| All the Major Food Groups | 22.00% | ~573 |
+| Beggars Would Ride | 20.00% | ~521 |
+| Control is an Illusion | 19.00% | ~495 |
 | The Means to Save It | 16.00% | ~416 |
 | Resilience to Sin | 15.00% | ~390 |
 | A Familiar Nest | 14.00% | ~364 |
@@ -25,7 +25,7 @@ Rating: 4.21 (Ranked 948)
 | Geas Aristeya | 13.00% | ~338 |
 | A Perfect Cycle | 13.00% | ~338 |
 | Recruit | 12.00% | ~312 |
-| Armsman | 11.00% | ~286 |
+| Armsman | 10.00% | ~260 |
 | Lights Army | 9.00% | ~234 |
 | Periapt Cerulean | 7.00% | ~182 |
 | Good Boy | 7.00% | ~182 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 948)
 | Out of Time | 0.20% | ~5 |
 | Fowl Play | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,597 (Ranked 231)  
+Progressed: 2,603 (Ranked 230)  
 Completed: 2 (0.08%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 2 (0.08%) (Ranked 319)
 | 2023-12-31 | 2,400 | 2 |
 | 2024-01-01 | 2,478 | 2 |
 | 2024-01-02 | 2,542 | 2 |
-| 2024-01-03 | 2,597 | 2 |
+| 2024-01-03 | 2,603 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,7 +5,7 @@ Rating: 4.34 (Ranked 834)
 Number of Ratings: 464  (23.09.2022)  
 ## Awards
 Max (Highly Recommended): 107  (Ranked 366)  
-Sum: 773 (Ranked 296)  
+Sum: 774 (Ranked 296)  
 Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
@@ -14,8 +14,8 @@ Diff (max vs sum): 70
 | This game has Amazing Characters | 91 |
 | This game has Quickly Understood Controls | 90 |
 | This game is Relaxing | 87 |
+| This game is Extremely Fun | 85 |
 | This game has Competitive Players | 84 |
-| This game is Extremely Fun | 84 |
 | This game has Challenging Combat | 73 |
 | This game has a Competitive Community | 70 |
 | This game is Great for Quick Sessions | 67 |
@@ -191,3 +191,4 @@ Diff (max vs sum): 70
 | 2023-12-16 | 4.34 | - | 106 | 681 |
 | 2023-12-17 | 4.34 | - | 107 | 682 |
 | 2023-12-29 | 4.34 | - | 107 | 773 |
+| 2024-01-03 | 4.34 | - | 107 | 774 |

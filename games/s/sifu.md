@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 5.00% | ~37,644 |
-| The Assault | 4.00% | ~30,115 |
-| Life is your teacher | 4.00% | ~30,115 |
-| Lightning Hands | 4.00% | ~30,115 |
+| The Old Grandmaster | 5.00% | ~37,646 |
+| The Assault | 4.00% | ~30,116 |
+| Life is your teacher | 4.00% | ~30,116 |
+| Lightning Hands | 4.00% | ~30,116 |
 | The Hateful Pole Fighter | 2.00% | ~15,058 |
 | A Lady's Blood in the Snow | 2.00% | ~15,058 |
 | Lady Wing Chun | 2.00% | ~15,058 |
@@ -31,14 +31,14 @@ Number of Ratings: 9,492  (23.09.2022)
 | Take damage to save time | 1.00% | ~7,529 |
 | Project Arena | 1.00% | ~622 |
 | Dance of the Praying Mantis | 0.90% | ~6,776 |
-| Fight the way you practice | 0.80% | ~497 |
+| Fight the way you practice | 0.80% | ~498 |
 | Muk Yan Master | 0.60% | ~4,517 |
 | Tiger on Fire | 0.60% | ~4,517 |
 | Detective Story | 0.60% | ~4,517 |
 | Martial Hub | 0.60% | ~373 |
-| Source of Flying Daggers | 0.50% | ~3,764 |
-| Iron Money | 0.50% | ~3,764 |
-| Sword Stained With Blood | 0.50% | ~3,764 |
+| Source of Flying Daggers | 0.50% | ~3,765 |
+| Iron Money | 0.50% | ~3,765 |
+| Sword Stained With Blood | 0.50% | ~3,765 |
 | Bloody Sport | 0.50% | ~311 |
 | Legendary Talismans of Wuxing | 0.40% | ~3,012 |
 | Prodigal Child | 0.40% | ~3,012 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~62 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 752,884 (Ranked 24)  
+Progressed: 752,912 (Ranked 24)  
 Completed: 12,972 (1.72%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 12,972 (1.72%) (Ranked 141)
 | 2023-12-31 | 750,399 | 12,971 |
 | 2024-01-01 | 751,425 | 12,971 |
 | 2024-01-02 | 752,188 | 12,971 |
-| 2024-01-03 | 752,884 | 12,972 |
+| 2024-01-03 | 752,912 | 12,972 |
 ## Awards
 Max (Great Boss Battles): 7,088  (Ranked 55)  
 Sum: 11,987 (Ranked 87)  

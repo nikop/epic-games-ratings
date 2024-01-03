@@ -67,9 +67,9 @@
 | The last bell ring | 27.00% | ~142 |
 | Careerist | 27.00% | ~142 |
 | Anyone can resist | 27.00% | ~142 |
+| The only right decision | 26.00% | ~136 |
 | Silver’s past | 25.00% | ~131 |
 | Better cooking at home | 25.00% | ~131 |
-| The only right decision | 25.00% | ~131 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 525 (Ranked 340)  
 Completed: 9 (1.71%) (Ranked 142)  

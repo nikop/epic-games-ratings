@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-10-14T10:00:00+00:00",
     "PcReleaseDate": "2022-10-14T10:00:00+00:00",
@@ -221,11 +221,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2866,
+  "EOS_Progressed": 2868,
   "EOS_Completed": 198,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 6.91,
+  "EOS_Completed_Percentage": 6.9,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.2661107+00:00",
@@ -4781,6 +4781,11 @@
       "Time": "2024-01-03T14:05:21.6356056+00:00",
       "NumProgressed": 2866,
       "NumCompleted": 198
+    },
+    {
+      "Time": "2024-01-03T19:06:36.6667852+00:00",
+      "NumProgressed": 2868,
+      "NumCompleted": 198
     }
   ],
   "TotalAchievements": 12,
@@ -4816,7 +4821,7 @@
       "Name": "004",
       "Percentage": 17,
       "XP": 80,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "005",
@@ -4887,7 +4892,7 @@
     {
       "ID": "94k0mj8",
       "IsBase": true,
-      "Progressed": 2866,
+      "Progressed": 2868,
       "Completed": 198
     }
   ],
@@ -4895,8 +4900,8 @@
   "FirstSeenRating": "2022-10-15T14:30:48.7901656+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.2661117+00:00",
   "LastChanged": "2023-12-26T13:00:53.8529115+00:00",
-  "LastChanged_Achievements": "2024-01-03T18:06:36.3999122+00:00",
+  "LastChanged_Achievements": "2024-01-03T19:06:36.6667791+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:59.8154186+00:00",
-  "LastUpdate_Ratings": "2024-01-03T17:59:03.7561279+00:00",
-  "LastUpdate_Achievements": "2024-01-03T18:06:36.3999512+00:00"
+  "LastUpdate_Ratings": "2024-01-03T18:59:12.6811832+00:00",
+  "LastUpdate_Achievements": "2024-01-03T19:06:36.6668456+00:00"
 }

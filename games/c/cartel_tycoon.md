@@ -1,32 +1,32 @@
 # Cartel Tycoon
 [Store](https://store.epicgames.com/en-US/p/cartel-tycoon)  
 [View Rawdata](../../db/c/cartel_tycoon.json)  
-Rating: 4.36 (Ranked 807)  
+Rating: 4.36 (Ranked 808)  
 Number of Ratings: 101  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Our Man | 84.00% | ~776 |
-| Take-Off | 79.00% | ~730 |
-| Hokey-Pokey | 68.00% | ~628 |
-| Camellos | 53.00% | ~490 |
-| Bad Trip | 45.00% | ~416 |
-| Didn't Miss A Single One | 43.00% | ~397 |
-| That was base | 42.00% | ~388 |
-| Spread | 42.00% | ~388 |
-| Safe Pair of Hands | 35.00% | ~323 |
-| Don't Let Mom Know You're A Druglord | 30.00% | ~277 |
+| Our Man | 83.00% | ~769 |
+| Take-Off | 79.00% | ~732 |
+| Hokey-Pokey | 68.00% | ~630 |
+| Camellos | 53.00% | ~491 |
+| Bad Trip | 45.00% | ~417 |
+| Didn't Miss A Single One | 43.00% | ~399 |
+| That was base | 42.00% | ~389 |
+| Spread | 42.00% | ~389 |
+| Safe Pair of Hands | 35.00% | ~324 |
+| Don't Let Mom Know You're A Druglord | 30.00% | ~278 |
 | Architect of Fortunes | 24.00% | ~222 |
-| Bite the Blow | 22.00% | ~203 |
-| Pampered Life | 22.00% | ~203 |
+| Bite the Blow | 22.00% | ~204 |
+| Pampered Life | 22.00% | ~204 |
 | Spreading Fear | 9.00% | ~83 |
 | Follow the Money | 7.00% | ~65 |
-| I'm Going To Call You Kitty | 6.00% | ~55 |
+| I'm Going To Call You Kitty | 6.00% | ~56 |
 | Operation Odessa | 1.00% | ~9 |
 | Iron Lady | 0.60% | ~6 |
 | Sense Of Style | 0.40% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 924 (Ranked 294)  
+Progressed: 927 (Ranked 294)  
 Completed: 3 (0.32%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 3 (0.32%) (Ranked 246)
 | 2023-12-31 | 900 | 3 |
 | 2024-01-01 | 909 | 3 |
 | 2024-01-02 | 918 | 3 |
-| 2024-01-03 | 924 | 3 |
+| 2024-01-03 | 927 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

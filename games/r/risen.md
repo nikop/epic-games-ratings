@@ -5,22 +5,22 @@ Rating: 4.55 (Ranked 522)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 92.00% | ~145 |
-| Map reader | 64.00% | ~101 |
-| Adventurer | 63.00% | ~100 |
-| Philanthropist | 59.00% | ~93 |
-| Archer | 42.00% | ~66 |
-| The brave little tailor | 40.00% | ~63 |
+| Beginner | 92.00% | ~146 |
+| Map reader | 64.00% | ~102 |
+| Adventurer | 62.00% | ~99 |
+| Philanthropist | 59.00% | ~94 |
+| Archer | 42.00% | ~67 |
+| The brave little tailor | 40.00% | ~64 |
 | Field hand | 39.00% | ~62 |
 | Samaritan | 32.00% | ~51 |
 | Well-to-do | 32.00% | ~51 |
-| The merciful one | 30.00% | ~47 |
-| Ladies' man | 30.00% | ~47 |
+| The merciful one | 30.00% | ~48 |
+| Ladies' man | 30.00% | ~48 |
 | Ferocious wild boars | 24.00% | ~38 |
 | Idiot | 24.00% | ~38 |
-| Beast slayer | 22.00% | ~35 |
-| Death of a legend | 18.00% | ~28 |
-| Ogre friend | 18.00% | ~28 |
+| Beast slayer | 21.00% | ~33 |
+| Death of a legend | 18.00% | ~29 |
+| Ogre friend | 18.00% | ~29 |
 | Family man | 17.00% | ~27 |
 | Archaeologist | 17.00% | ~27 |
 | Fence | 17.00% | ~27 |
@@ -41,9 +41,9 @@ Rating: 4.55 (Ranked 522)
 | Showdown | 9.00% | ~14 |
 | Titan Lord | 8.00% | ~13 |
 | King of the handymen | 8.00% | ~13 |
-| Terror of the hens | 6.00% | ~9 |
-| Expert | 6.00% | ~9 |
-| Moneybags | 6.00% | ~9 |
+| Terror of the hens | 6.00% | ~10 |
+| Expert | 6.00% | ~10 |
+| Moneybags | 6.00% | ~10 |
 | The traveler | 4.00% | ~6 |
 | King Midas | 4.00% | ~6 |
 | Rune master | 3.00% | ~5 |
@@ -56,7 +56,7 @@ Rating: 4.55 (Ranked 522)
 | Master of the classes | 0.60% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158 (Ranked 443)  
+Progressed: 159 (Ranked 443)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2023-12-31 | 148 | 0 |
 | 2024-01-01 | 152 | 0 |
 | 2024-01-02 | 156 | 0 |
-| 2024-01-03 | 158 | 0 |
+| 2024-01-03 | 159 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

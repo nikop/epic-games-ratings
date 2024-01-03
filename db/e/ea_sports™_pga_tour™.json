@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 160,
   "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 840,
+  "EOS_Progressed": 841,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.19,
   "EosHistory": [
@@ -3025,6 +3025,11 @@
       "Time": "2024-01-03T17:10:00.6312718+00:00",
       "NumProgressed": 840,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-03T19:10:47.3634807+00:00",
+      "NumProgressed": 841,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -3043,9 +3048,9 @@
       "ID": "achievement_10",
       "SetID": "7ldgi7j",
       "Name": "Holey Moley",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 378
+      "UsersEstimate": 370
     },
     {
       "ID": "achievement_11",
@@ -3061,7 +3066,7 @@
       "Name": "From Way Downtown",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "achievement_13",
@@ -3077,7 +3082,7 @@
       "Name": "Golfer Versus Golfer",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "achievement_15",
@@ -3109,7 +3114,7 @@
       "Name": "Perfect Round",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "achievement_2",
@@ -3157,7 +3162,7 @@
       "Name": "Makin\u0027 the Cut",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "achievement_8",
@@ -3165,7 +3170,7 @@
       "Name": "Winner\u0027s Circle",
       "Percentage": 46,
       "XP": 35,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "achievement_9",
@@ -3180,13 +3185,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 840,
+      "Progressed": 841,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2024-01-03T18:10:41.4836737+00:00",
+  "LastChanged_Achievements": "2024-01-03T19:10:47.3634803+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:46.6527826+00:00",
-  "LastUpdate_Ratings": "2024-01-03T17:59:19.4798292+00:00",
-  "LastUpdate_Achievements": "2024-01-03T18:10:41.483703+00:00"
+  "LastUpdate_Ratings": "2024-01-03T18:59:27.7811237+00:00",
+  "LastUpdate_Achievements": "2024-01-03T19:10:47.3635023+00:00"
 }

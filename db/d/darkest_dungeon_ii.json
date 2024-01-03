@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10384,10 +10384,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 21372,
       "NumberOfAwardsMax": 7940
+    },
+    {
+      "Time": "2024-01-03T19:00:31.6050263+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21375,
+      "NumberOfAwardsMax": 7940
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21372,
+  "NumberOfAwards": 21375,
   "NumberOfAwardsMax": 7940,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10461,10 +10467,10 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 1076
+      "Count": 1079
     }
   ],
-  "EOS_Progressed": 131500,
+  "EOS_Progressed": 131508,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 1283,
   "EOS_NewCompleters": 0,
@@ -38159,6 +38165,11 @@
       "Time": "2024-01-03T18:10:33.576968+00:00",
       "NumProgressed": 131500,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-03T19:10:40.8054877+00:00",
+      "NumProgressed": 131508,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38514,7 +38525,7 @@
       "Name": "Tears in the Rain",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "hero_skill_mastery_five",
@@ -38690,7 +38701,7 @@
       "Name": "Battle Hardened",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "altar_of_hope_memory_equip_all_duelist",
@@ -38706,7 +38717,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "combat_kill_collector",
@@ -38714,7 +38725,7 @@
       "Name": "This guy... again?",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -38754,7 +38765,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -38762,7 +38773,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "quest_complete_crusader",
@@ -38801,21 +38812,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131500,
+      "Progressed": 131508,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6369,
+      "Progressed": 6377,
       "Completed": 820
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-03T15:00:11.6268102+00:00",
-  "LastChanged_Achievements": "2024-01-03T18:10:33.5769678+00:00",
+  "LastChanged": "2024-01-03T19:00:31.6050261+00:00",
+  "LastChanged_Achievements": "2024-01-03T19:10:40.8054875+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-03T18:00:26.0170466+00:00",
-  "LastUpdate_Achievements": "2024-01-03T18:10:33.5771384+00:00"
+  "LastUpdate_Ratings": "2024-01-03T19:00:31.6050268+00:00",
+  "LastUpdate_Achievements": "2024-01-03T19:10:40.8056436+00:00"
 }
