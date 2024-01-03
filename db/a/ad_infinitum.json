@@ -2,10 +2,10 @@
   "ID": "9862908ffff747abb145c54ded5164d0",
   "Name": "Ad Infinitum",
   "ProductSlug": "ad-infinitum",
-  "Ranking_EOS_Progress": 435,
+  "Ranking_EOS_Progress": 434,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 295,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
     "PcReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 173,
+  "EOS_Progressed": 174,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -840,6 +840,11 @@
       "Time": "2024-01-03T19:06:12.2067485+00:00",
       "NumProgressed": 173,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T22:04:49.1329803+00:00",
+      "NumProgressed": 174,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-26T17:06:03.7591+00:00",
@@ -858,9 +863,9 @@
       "ID": "ACH_ACTOFCOURAGE",
       "SetID": "88d7anj",
       "Name": "An act of courage",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_ACTOFMERCY",
@@ -890,9 +895,9 @@
       "ID": "ACH_ARTCRITIC",
       "SetID": "88d7anj",
       "Name": "Art critic",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_AWAITINGORDERS",
@@ -908,7 +913,7 @@
       "Name": "Awaken",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_CLARITY",
@@ -916,7 +921,7 @@
       "Name": "Clarity",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_CORRUPTION",
@@ -956,7 +961,7 @@
       "Name": "Hunger",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACH_JIGSAW",
@@ -988,7 +993,7 @@
       "Name": "Morgengrauen",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_NOONELEFTBEHIND",
@@ -1018,9 +1023,9 @@
       "ID": "ACH_PATHOFCORRUPTION",
       "SetID": "88d7anj",
       "Name": "Path of Corruption",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_PATHOFDESPAIR",
@@ -1028,7 +1033,7 @@
       "Name": "Path of Despair",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_PATHOFPAIN",
@@ -1083,14 +1088,14 @@
     {
       "ID": "88d7anj",
       "IsBase": true,
-      "Progressed": 173,
+      "Progressed": 174,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-16T22:59:49.7725195+00:00",
   "FirstSeenAchievements": "2023-07-25T11:06:40.9201069+00:00",
-  "LastChanged_Achievements": "2024-01-03T21:06:03.6220877+00:00",
+  "LastChanged_Achievements": "2024-01-03T22:04:49.13298+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:20.8016212+00:00",
-  "LastUpdate_Ratings": "2024-01-03T21:01:12.7624859+00:00",
-  "LastUpdate_Achievements": "2024-01-03T21:06:03.6221182+00:00"
+  "LastUpdate_Ratings": "2024-01-03T21:59:55.0623421+00:00",
+  "LastUpdate_Achievements": "2024-01-03T22:04:49.1330253+00:00"
 }

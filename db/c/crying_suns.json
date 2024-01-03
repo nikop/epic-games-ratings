@@ -709,9 +709,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 473305,
+  "EOS_Progressed": 473306,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 394,
+  "EOS_NewPlayers": 391,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27414,6 +27414,11 @@
       "Time": "2024-01-03T21:11:07.2509794+00:00",
       "NumProgressed": 473305,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-03T22:09:54.6714646+00:00",
+      "NumProgressed": 473306,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 79,
@@ -27465,7 +27470,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 47330
+      "UsersEstimate": 47331
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -27513,7 +27518,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 312381
+      "UsersEstimate": 312382
     },
     {
       "ID": "achievement_story_landa",
@@ -27849,7 +27854,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 208254
+      "UsersEstimate": 208255
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -28056,21 +28061,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 17239,
+      "Progressed": 17240,
       "Completed": 2362
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 473305,
+      "Progressed": 473306,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2024-01-03T17:03:08.8869206+00:00",
-  "LastChanged_Achievements": "2024-01-03T21:11:07.2509791+00:00",
+  "LastChanged_Achievements": "2024-01-03T22:09:54.6714642+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:35.1454991+00:00",
-  "LastUpdate_Ratings": "2024-01-03T20:57:18.8217753+00:00",
-  "LastUpdate_Achievements": "2024-01-03T21:11:07.2511882+00:00"
+  "LastUpdate_Ratings": "2024-01-03T21:57:01.8800541+00:00",
+  "LastUpdate_Achievements": "2024-01-03T22:09:54.6716369+00:00"
 }

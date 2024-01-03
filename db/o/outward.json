@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 303,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -547,9 +547,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4450,
+  "EOS_Progressed": 4452,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -7612,6 +7612,11 @@
       "Time": "2024-01-03T21:08:15.5336548+00:00",
       "NumProgressed": 4450,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-03T22:07:58.204347+00:00",
+      "NumProgressed": 4452,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -7655,7 +7660,7 @@
       "Name": "Blood and justice",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "CordonBleu_28",
@@ -7663,7 +7668,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1824
+      "UsersEstimate": 1825
     },
     {
       "ID": "CrowdPleaser",
@@ -7687,7 +7692,7 @@
       "Name": "Eureka",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1335
+      "UsersEstimate": 1336
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -7695,7 +7700,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "ForAllAurai_8",
@@ -7807,7 +7812,7 @@
       "Name": "Ready for Summer",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2180
+      "UsersEstimate": 2181
     },
     {
       "ID": "ReadyforWinter_42",
@@ -7815,7 +7820,7 @@
       "Name": "Ready for Winter",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 2714
+      "UsersEstimate": 2716
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -7863,7 +7868,7 @@
       "Name": "The blood is life",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ThePowerOfAmbition_45",
@@ -7895,7 +7900,7 @@
       "Name": "The Power of Freedom",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "TheStuffOfLegends",
@@ -7935,7 +7940,7 @@
       "Name": "Vanquisher of nightmares",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "VentureOutward_21",
@@ -7943,7 +7948,7 @@
       "Name": "Venture Outward",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3248
+      "UsersEstimate": 3250
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -7958,15 +7963,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4450,
+      "Progressed": 4452,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2024-01-03T19:03:38.0112146+00:00",
-  "LastChanged_Achievements": "2024-01-03T21:08:15.5336543+00:00",
+  "LastChanged_Achievements": "2024-01-03T22:07:58.2043466+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:23.571083+00:00",
-  "LastUpdate_Ratings": "2024-01-03T21:03:24.9240187+00:00",
-  "LastUpdate_Achievements": "2024-01-03T21:08:15.5337495+00:00"
+  "LastUpdate_Ratings": "2024-01-03T22:02:51.2904248+00:00",
+  "LastUpdate_Achievements": "2024-01-03T22:07:58.2044193+00:00"
 }

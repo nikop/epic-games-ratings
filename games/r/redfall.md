@@ -8,8 +8,8 @@ Rating: 3.64 (Ranked 1,087)
 | I Like My Stakes Rare! | 19.00% | ~425 |
 | Catch and Release | 14.00% | ~313 |
 | Home Is Where the Heart Is | 13.00% | ~291 |
-| ICU | 12.00% | ~268 |
-| Wounded Whispers | 12.00% | ~268 |
+| ICU | 12.00% | ~269 |
+| Wounded Whispers | 12.00% | ~269 |
 | Blood Will Have Blood | 10.00% | ~224 |
 | Ne Plus Ultra | 10.00% | ~224 |
 | Peek-a-boo | 10.00% | ~224 |
@@ -22,8 +22,8 @@ Rating: 3.64 (Ranked 1,087)
 | Bad Wiring | 6.00% | ~134 |
 | Grounded | 6.00% | ~134 |
 | Skin of Their Teeth | 6.00% | ~134 |
-| Neighborhood Revitalization | 4.00% | ~89 |
-| Radio Silence | 4.00% | ~89 |
+| Neighborhood Revitalization | 4.00% | ~90 |
+| Radio Silence | 4.00% | ~90 |
 | You Clean It Up | 3.00% | ~67 |
 | Helping Hand | 3.00% | ~67 |
 | I Spit On Your Grave | 3.00% | ~67 |
@@ -72,7 +72,7 @@ Rating: 3.64 (Ranked 1,087)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,237 (Ranked 240)  
+Progressed: 2,238 (Ranked 240)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2023-12-31 | 2,191 | 0 |
 | 2024-01-01 | 2,212 | 0 |
 | 2024-01-02 | 2,228 | 0 |
-| 2024-01-03 | 2,237 | 0 |
+| 2024-01-03 | 2,238 | 0 |
 ## Awards
 Max (Great Boss Battles): 20  (Ranked 572)  
 Sum: 20 (Ranked 573)  

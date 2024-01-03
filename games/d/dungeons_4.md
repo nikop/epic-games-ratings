@@ -18,8 +18,8 @@ Rating: 4.71 (Ranked 202)
 | Master of Magic | 62.00% | ~440 |
 | Unicorn steaks – fresh off the hoof! | 62.00% | ~440 |
 | Magic Accidents | 59.00% | ~418 |
-| The Ascent | 58.00% | ~411 |
-| It's Warm and Cozy at Home | 58.00% | ~411 |
+| The Ascent | 59.00% | ~418 |
+| It's Warm and Cozy at Home | 59.00% | ~418 |
 | Trap Master | 55.00% | ~390 |
 | Minions, Minions! | 55.00% | ~390 |
 | Hard Work | 54.00% | ~383 |
@@ -28,9 +28,9 @@ Rating: 4.71 (Ranked 202)
 | “… like son” | 50.00% | ~354 |
 | The Cathedral of Light | 47.00% | ~333 |
 | Shame! Shame! Shame! | 47.00% | ~333 |
+| Dungeonlord Gorgu | 45.00% | ~319 |
 | Tanos' Crusade Against Thalya | 45.00% | ~319 |
 | Pure Dynamite! | 44.00% | ~312 |
-| Dungeonlord Gorgu | 44.00% | ~312 |
 | Mana Cannon | 41.00% | ~291 |
 | All’s Well That Ends Evil | 40.00% | ~284 |
 | The Duel | 38.00% | ~269 |

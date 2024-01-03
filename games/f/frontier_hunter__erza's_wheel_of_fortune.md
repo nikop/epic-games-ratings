@@ -15,7 +15,7 @@ Rating: 4.35 (Ranked 820)
 | Flower Thief | 44.00% | ~305 |
 | Apostle of Flame | 39.00% | ~270 |
 | Beginner Cook | 38.00% | ~263 |
-| Beginner Artificer | 37.00% | ~256 |
+| Beginner Artificer | 38.00% | ~263 |
 | Seal Breaker | 32.00% | ~222 |
 | Handyman | 29.00% | ~201 |
 | Giant Lizard Killer | 27.00% | ~187 |

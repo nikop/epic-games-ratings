@@ -6,14 +6,14 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Abandoned Settlement | 8.00% | ~1,604 |
-| Overgrown Library | 8.00% | ~1,604 |
+| Abandoned Settlement | 8.00% | ~1,605 |
+| Overgrown Library | 8.00% | ~1,605 |
 | First Real Expedition | 7.00% | ~1,404 |
 | Taking Action | 7.00% | ~1,404 |
 | No Deaths | 7.00% | ~1,404 |
 | Petrified Necropolis | 7.00% | ~1,404 |
-| The Marshlands | 6.00% | ~1,203 |
-| Gathering Storm | 6.00% | ~1,203 |
+| The Marshlands | 6.00% | ~1,204 |
+| Gathering Storm | 6.00% | ~1,204 |
 | Overcoming Difficulty | 5.00% | ~1,003 |
 | Coral Forest | 5.00% | ~1,003 |
 | The Scarlet Orchard | 5.00% | ~1,003 |
@@ -46,11 +46,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Refinery | 1.00% | ~201 |
 | Dangerous Lands | 1.00% | ~201 |
 | Fishmen Ritual Site | 1.00% | ~201 |
+| Forbidden Lands | 1.00% | ~201 |
 | Forsaken Gods Temple | 1.00% | ~201 |
 | Victory Through Prosperity | 1.00% | ~201 |
 | Defying the Crown | 1.00% | ~201 |
 | Into the Forest | 1.00% | ~201 |
-| Forbidden Lands | 0.90% | ~180 |
 | Feeding The People | 0.70% | ~140 |
 | Like a Machine | 0.60% | ~120 |
 | Fox Utopia | 0.50% | ~100 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,052 (Ranked 152)  
+Progressed: 20,059 (Ranked 152)  
 Completed: 33 (0.16%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 33 (0.16%) (Ranked 282)
 | 2023-12-31 | 19,834 | 34 |
 | 2024-01-01 | 19,919 | 33 |
 | 2024-01-02 | 19,991 | 33 |
-| 2024-01-03 | 20,052 | 33 |
+| 2024-01-03 | 20,059 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 447  (Ranked 230)  
 Sum: 3,324 (Ranked 176)  

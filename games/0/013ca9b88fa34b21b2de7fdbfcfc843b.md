@@ -16,11 +16,11 @@ Rating: 4.62 (Ranked 374)
 | Mist Walker | 2.00% | ~177 |
 | Bramble Breaker | 2.00% | ~177 |
 | Clear the Air | 1.00% | ~88 |
+| Search for the Hairy Grell | 1.00% | ~88 |
 | Lumberjack | 1.00% | ~88 |
 | Oui, Chef! | 1.00% | ~88 |
 | Botanical Breakthrough | 1.00% | ~88 |
 | Exit Through The Gift Shop | 1.00% | ~15 |
-| Search for the Hairy Grell | 0.90% | ~80 |
 | Higher Tax Bracket | 0.90% | ~80 |
 | Beach Comber | 0.80% | ~71 |
 | Flaming Hot Completos | 0.70% | ~62 |

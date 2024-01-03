@@ -5,25 +5,25 @@ Rating: 4.46 (Ranked 672)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 48.00% | ~1,560 |
-| First Love | 45.00% | ~1,462 |
-| Clean Race | 44.00% | ~1,430 |
-| Hear That Roar! | 41.00% | ~1,332 |
-| Bitter Rivalry | 30.00% | ~975 |
-| Rivals to the End | 30.00% | ~975 |
-| Champagne Spray | 28.00% | ~910 |
-| We're Going to Need a Bigger Garage | 26.00% | ~845 |
-| Quick Pit Stop | 22.00% | ~715 |
-| I Want One Too! | 21.00% | ~682 |
-| Restored and Ready | 20.00% | ~650 |
-| Legendary!!! | 20.00% | ~650 |
-| Go-Faster Stripes | 17.00% | ~552 |
+| Eat My Dust | 48.00% | ~1,563 |
+| First Love | 45.00% | ~1,465 |
+| Clean Race | 44.00% | ~1,433 |
+| Hear That Roar! | 41.00% | ~1,335 |
+| Bitter Rivalry | 30.00% | ~977 |
+| Rivals to the End | 30.00% | ~977 |
+| Champagne Spray | 28.00% | ~912 |
+| We're Going to Need a Bigger Garage | 26.00% | ~847 |
+| Quick Pit Stop | 22.00% | ~716 |
+| Restored and Ready | 20.00% | ~651 |
+| I Want One Too! | 20.00% | ~651 |
+| Legendary!!! | 20.00% | ~651 |
+| Go-Faster Stripes | 17.00% | ~554 |
 | I'm Here Too! | 15.00% | ~488 |
-| We've Just Begun | 14.00% | ~455 |
-| Stamina Star | 9.00% | ~292 |
-| Is It the Right Size? | 9.00% | ~292 |
+| We've Just Begun | 14.00% | ~456 |
+| Stamina Star | 9.00% | ~293 |
+| Is It the Right Size? | 9.00% | ~293 |
 | Evangelist | 7.00% | ~228 |
-| Make It Your Own! | 5.00% | ~162 |
+| Make It Your Own! | 5.00% | ~163 |
 | Cherry Blossom and Temples | 4.00% | ~130 |
 | The Road to Liberty | 4.00% | ~130 |
 | Spoilt for Choice | 3.00% | ~98 |
@@ -37,16 +37,16 @@ Rating: 4.46 (Ranked 672)
 | Back in Blighty | 2.00% | ~65 |
 | Still Here | 2.00% | ~65 |
 | Overtaking the Master | 2.00% | ~65 |
-| Next Level | 1.00% | ~32 |
-| I Don't Stop | 1.00% | ~32 |
+| Next Level | 1.00% | ~33 |
+| I Don't Stop | 1.00% | ~33 |
 | Exhausted but Happy | 0.70% | ~23 |
 | In Search of Perfection | 0.70% | ~23 |
 | Globe-trotter | 0.40% | ~13 |
-| Maximum Endurance | 0.20% | ~6 |
-| Breathtaking Views | 0.20% | ~6 |
-| Beyond the Limiter | 0.20% | ~6 |
-| All My Own Toys | 0.20% | ~6 |
-| Full Power | 0.20% | ~6 |
+| Maximum Endurance | 0.20% | ~7 |
+| Breathtaking Views | 0.20% | ~7 |
+| Beyond the Limiter | 0.20% | ~7 |
+| All My Own Toys | 0.20% | ~7 |
+| Full Power | 0.20% | ~7 |
 | Endless | 0.10% | ~3 |
 | At the Top | 0.10% | ~3 |
 | There's a Great View up Here | 0.10% | ~3 |
@@ -55,7 +55,7 @@ Rating: 4.46 (Ranked 672)
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,250 (Ranked 224)  
+Progressed: 3,256 (Ranked 223)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2023-12-31 | 3,170 | 0 |
 | 2024-01-01 | 3,195 | 0 |
 | 2024-01-02 | 3,224 | 0 |
-| 2024-01-03 | 3,250 | 0 |
+| 2024-01-03 | 3,256 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

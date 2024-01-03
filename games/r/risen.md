@@ -27,8 +27,8 @@ Rating: 4.55 (Ranked 522)
 | Sidelined | 17.00% | ~27 |
 | Wise man | 16.00% | ~25 |
 | Little hero | 16.00% | ~25 |
+| Hard worker | 16.00% | ~25 |
 | The fourth triplet | 16.00% | ~25 |
-| Hard worker | 15.00% | ~24 |
 | Master detective | 14.00% | ~22 |
 | Pandora's box | 13.00% | ~21 |
 | Ghost hunter | 13.00% | ~21 |

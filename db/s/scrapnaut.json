@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 290,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -156,9 +156,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 609,
+  "EOS_Progressed": 610,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -2091,6 +2091,11 @@
       "Time": "2024-01-03T21:10:06.3010424+00:00",
       "NumProgressed": 609,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-03T22:09:06.2919892+00:00",
+      "NumProgressed": 610,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 31,
@@ -2134,7 +2139,7 @@
       "Name": "Scrap Master",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "ACH_COLLECT_10_HERBS",
@@ -2150,7 +2155,7 @@
       "Name": "Mushroom Picker",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "ACH_COLLECT_20_RED_BOOKS",
@@ -2158,7 +2163,7 @@
       "Name": "Master Of Technology",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_COLLECT_20_YELLOW_BOOKS",
@@ -2180,17 +2185,17 @@
       "ID": "ACH_COLLECT_50_ELECTROSCRAP",
       "SetID": "7c4cldc",
       "Name": "Electro-Scrap Gatherer",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 189
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH_COLLECT_50_SCRAP",
       "SetID": "7c4cldc",
       "Name": "Scrap Gatherer",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 335
+      "UsersEstimate": 329
     },
     {
       "ID": "ACH_COOK",
@@ -2230,7 +2235,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_FIRST_BASE",
@@ -2238,7 +2243,7 @@
       "Name": "My New Home",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "ACH_KILL_100",
@@ -2340,16 +2345,16 @@
       "ID": "ACH_TELEPORT",
       "SetID": "7c4cldc",
       "Name": "Teleport",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 268
+      "UsersEstimate": 262
     }
   ],
   "AchievementSets": [
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 609,
+      "Progressed": 610,
       "Completed": 4
     }
   ],
@@ -2357,8 +2362,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2024-01-03T21:10:06.3010419+00:00",
+  "LastChanged_Achievements": "2024-01-03T22:09:06.2919887+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:09.8569887+00:00",
-  "LastUpdate_Ratings": "2024-01-03T20:58:57.3373663+00:00",
-  "LastUpdate_Achievements": "2024-01-03T21:10:06.3010759+00:00"
+  "LastUpdate_Ratings": "2024-01-03T21:58:12.2066869+00:00",
+  "LastUpdate_Achievements": "2024-01-03T22:09:06.2920273+00:00"
 }

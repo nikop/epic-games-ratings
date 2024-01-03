@@ -28,16 +28,16 @@
 | Nathaniel Dryden | 27.00% | ~24 |
 | A rude awakening | 26.00% | ~23 |
 | Bartholomew | 26.00% | ~23 |
+| Well-acquainted | 25.00% | ~22 |
+| Anastasia Babanin | 25.00% | ~22 |
 | The Scheme | 25.00% | ~22 |
-| Well-acquainted | 24.00% | ~21 |
-| Anastasia Babanin | 24.00% | ~21 |
-| Zakariya Demir | 23.00% | ~20 |
-| Truth from within | 22.00% | ~19 |
-| A curious phrase | 18.00% | ~16 |
-| The Suspects | 18.00% | ~16 |
-| Evelyn Lakshmi Warbeck | 17.00% | ~15 |
+| Zakariya Demir | 24.00% | ~21 |
+| Truth from within | 23.00% | ~20 |
+| A curious phrase | 19.00% | ~17 |
+| The Suspects | 19.00% | ~17 |
+| Evelyn Lakshmi Warbeck | 18.00% | ~16 |
+| Johan Kristiansen | 17.00% | ~15 |
 | Horace Mountjoy | 16.00% | ~14 |
-| Johan Kristiansen | 16.00% | ~14 |
 | The Secrets | 16.00% | ~14 |
 | Well-travelled | 15.00% | ~13 |
 | A peculiar fellow | 15.00% | ~13 |

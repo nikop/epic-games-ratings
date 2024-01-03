@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 46,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9301,9 +9301,9 @@
       "Count": 3622
     }
   ],
-  "EOS_Progressed": 250553,
+  "EOS_Progressed": 250569,
   "EOS_Completed": 2588,
-  "EOS_NewPlayers": 5106,
+  "EOS_NewPlayers": 5080,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -38556,6 +38556,11 @@
       "Time": "2024-01-03T21:11:12.4624077+00:00",
       "NumProgressed": 250553,
       "NumCompleted": 2588
+    },
+    {
+      "Time": "2024-01-03T22:09:59.2063466+00:00",
+      "NumProgressed": 250569,
+      "NumCompleted": 2588
     }
   ],
   "TotalAchievements": 546,
@@ -40701,9 +40706,9 @@
       "ID": "objective_completed_5",
       "SetID": "cc37lbc",
       "Name": "Mad Cow Disease",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1002
+      "UsersEstimate": 1253
     },
     {
       "ID": "objective_completed_54",
@@ -42839,7 +42844,7 @@
       "Name": "Arcane Suppression",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "objective_completed_1352",
@@ -42847,7 +42852,7 @@
       "Name": "Welcome to the Vrocks",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "objective_completed_1557",
@@ -42934,21 +42939,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 216827,
+      "Progressed": 216843,
       "Completed": 4131
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 250553,
+      "Progressed": 250569,
       "Completed": 2588
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-03T20:59:36.4428074+00:00",
-  "LastChanged_Achievements": "2024-01-03T21:11:12.4624072+00:00",
+  "LastChanged_Achievements": "2024-01-03T22:09:59.2063462+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-03T20:59:36.442808+00:00",
-  "LastUpdate_Achievements": "2024-01-03T21:11:12.4649737+00:00"
+  "LastUpdate_Ratings": "2024-01-03T21:58:43.2958687+00:00",
+  "LastUpdate_Achievements": "2024-01-03T22:09:59.2089367+00:00"
 }

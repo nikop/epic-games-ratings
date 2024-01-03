@@ -6,21 +6,21 @@ Rating: 4.59 (Ranked 445)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 32.00% | ~1,260 |
-| Sputnik 2049 | 28.00% | ~1,102 |
+| Sputnik 2049 | 28.00% | ~1,103 |
 | Infinite Growth... | 27.00% | ~1,063 |
-| Without Breaking Some Eggs... | 26.00% | ~1,023 |
-| Space Society | 18.00% | ~708 |
-| A Thousand Strong | 18.00% | ~708 |
-| Ready for a New World | 18.00% | ~708 |
+| Without Breaking Some Eggs... | 26.00% | ~1,024 |
+| Space Society | 18.00% | ~709 |
+| A Thousand Strong | 18.00% | ~709 |
+| Ready for a New World | 18.00% | ~709 |
 | Permanent Redesigns | 16.00% | ~630 |
-| Fully Recycled | 15.00% | ~590 |
-| The Ship of Theseus | 15.00% | ~590 |
+| Fully Recycled | 15.00% | ~591 |
+| The Ship of Theseus | 15.00% | ~591 |
 | Guy de Borderlands | 14.00% | ~551 |
 | Ain't Nobody Got Time for That | 14.00% | ~551 |
 | Hope Seeker | 13.00% | ~512 |
-| A Hunk of Junk | 12.00% | ~472 |
-| Exceeding Capacity | 12.00% | ~472 |
-| Breaking Protocol | 12.00% | ~472 |
+| A Hunk of Junk | 12.00% | ~473 |
+| Exceeding Capacity | 12.00% | ~473 |
+| Breaking Protocol | 12.00% | ~473 |
 | Man's Best Friend | 9.00% | ~354 |
 | Power Outage | 9.00% | ~354 |
 | Please Make it Stop! | 9.00% | ~354 |
@@ -37,8 +37,8 @@ Rating: 4.59 (Ranked 445)
 | In Dolos We Trust | 5.00% | ~197 |
 | BRAWL! | 5.00% | ~197 |
 | What the Ruins Teach Us | 5.00% | ~197 |
-| Sustainable Energy | 4.00% | ~157 |
-| Pedal to the Metal | 4.00% | ~157 |
+| Sustainable Energy | 4.00% | ~158 |
+| Pedal to the Metal | 4.00% | ~158 |
 | Praise the Hull! | 3.00% | ~118 |
 | Delivery! | 3.00% | ~118 |
 | Help of the Forgotten Member | 3.00% | ~118 |
@@ -63,7 +63,7 @@ Rating: 4.59 (Ranked 445)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,936 (Ranked 212)  
+Progressed: 3,938 (Ranked 212)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2023-12-31 | 3,860 | 0 |
 | 2024-01-01 | 3,888 | 0 |
 | 2024-01-02 | 3,912 | 0 |
-| 2024-01-03 | 3,936 | 0 |
+| 2024-01-03 | 3,938 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

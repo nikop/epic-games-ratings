@@ -2,13 +2,13 @@
   "ID": "de554cff12704db4a900032bbd194d7e",
   "Name": "EVE Online",
   "ProductSlug": "eve-online",
-  "Ranking_Rating": 921,
+  "Ranking_Rating": 922,
   "Ranking_Popularity": 146,
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-09-23T13:00:00+00:00",
     "PcReleaseDate": "2003-05-06T15:00:00+00:00",
@@ -3382,10 +3382,16 @@
       "Rating": 4.24,
       "NumberOfAwards": 2796,
       "NumberOfAwardsMax": 1175
+    },
+    {
+      "Time": "2024-01-03T21:58:18.1568402+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 2799,
+      "NumberOfAwardsMax": 1175
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2796,
+  "NumberOfAwards": 2799,
   "NumberOfAwardsMax": 1175,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3423,7 +3429,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 209
+      "Count": 210
     },
     {
       "Text": "This game has Competitive Players",
@@ -3441,7 +3447,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 232
+      "Count": 234
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3467,8 +3473,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:38.4001765+00:00",
-  "LastChanged": "2024-01-03T20:59:02.6165767+00:00",
+  "LastChanged": "2024-01-03T21:58:18.15684+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:43.4251625+00:00",
-  "LastUpdate_Ratings": "2024-01-03T20:59:02.6165773+00:00",
-  "LastUpdate_Achievements": "2024-01-03T21:09:40.9699945+00:00"
+  "LastUpdate_Ratings": "2024-01-03T21:58:18.1568406+00:00",
+  "LastUpdate_Achievements": "2024-01-03T22:08:47.0774967+00:00"
 }

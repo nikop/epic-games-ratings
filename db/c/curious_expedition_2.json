@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
     "PcReleaseDate": "2021-01-28T00:00:00+00:00",
@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 396,
+  "EOS_Progressed": 397,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -596,6 +596,11 @@
       "Time": "2024-01-03T11:09:52.280236+00:00",
       "NumProgressed": 396,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-03T22:09:53.9870456+00:00",
+      "NumProgressed": 397,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -647,7 +652,7 @@
       "Name": "The New Director",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ach-ascension-complete-years",
@@ -663,7 +668,7 @@
       "Name": "The Director is Dead",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ach-ascension-inspector-return",
@@ -695,7 +700,7 @@
       "Name": "And Here Is Your Statue",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ach-campaign-finish-easy",
@@ -719,7 +724,7 @@
       "Name": "Adventurer",
       "Percentage": 15,
       "XP": 80,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ach-campaign-noDeath",
@@ -741,9 +746,9 @@
       "ID": "ach-campaign-story1",
       "SetID": "17ih7ma",
       "Name": "A Strange Artefact",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 218
+      "UsersEstimate": 214
     },
     {
       "ID": "ach-campaign-story2",
@@ -751,15 +756,15 @@
       "Name": "Lost \u0026 Found \u0026 Lost Again",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ach-campaign-story3",
       "SetID": "17ih7ma",
       "Name": "O Captain My Captain",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 127
     },
     {
       "ID": "ach-cartography-complete",
@@ -781,9 +786,9 @@
       "ID": "ach-discover-locations",
       "SetID": "17ih7ma",
       "Name": "Cartographer",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 230
     },
     {
       "ID": "ach-discover-locations-high",
@@ -791,7 +796,7 @@
       "Name": "Discovery",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ach-drinkingContest",
@@ -807,7 +812,7 @@
       "Name": "Fire and Flood",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ach-find-treasure",
@@ -831,7 +836,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ach-hardExpeditions",
@@ -855,7 +860,7 @@
       "Name": "For the Club!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ach-keepHighStanding",
@@ -863,15 +868,15 @@
       "Name": "Plays Well With Others",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ach-kill-animal-groups",
       "SetID": "17ih7ma",
       "Name": "Taxonomist",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 111
     },
     {
       "ID": "ach-kill-hyenas",
@@ -887,7 +892,7 @@
       "Name": "Shortening of the Way",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ach-learn-traits",
@@ -935,7 +940,7 @@
       "Name": "Spooky!",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ach-noEquipment",
@@ -983,7 +988,7 @@
       "Name": "From Whence we Came",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ach-promotion",
@@ -1063,7 +1068,7 @@
       "Name": "Very Classy",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ach-villageQuests",
@@ -1079,14 +1084,14 @@
       "Name": "Dapper",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     }
   ],
   "AchievementSets": [
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 396,
+      "Progressed": 397,
       "Completed": 1
     }
   ],
@@ -1094,8 +1099,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2024-01-01T02:59:19.0992943+00:00",
-  "LastChanged_Achievements": "2024-01-03T21:11:06.3717869+00:00",
+  "LastChanged_Achievements": "2024-01-03T22:09:53.9870451+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:12.3485961+00:00",
-  "LastUpdate_Ratings": "2024-01-03T21:01:09.196243+00:00",
-  "LastUpdate_Achievements": "2024-01-03T21:11:06.371848+00:00"
+  "LastUpdate_Ratings": "2024-01-03T21:59:52.4693845+00:00",
+  "LastUpdate_Achievements": "2024-01-03T22:09:53.9871042+00:00"
 }

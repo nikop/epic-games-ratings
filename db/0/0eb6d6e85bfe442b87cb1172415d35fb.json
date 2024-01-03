@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 526,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 477,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-01T10:00:00+00:00",
     "PcReleaseDate": "2021-03-04T18:00:00+00:00",
@@ -495,9 +495,9 @@
       "ID": "Over9000",
       "SetID": "d11cl5p",
       "Name": "Over 9000!!!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "QueenOfTheSkies",
@@ -638,8 +638,8 @@
   ],
   "FirstSeen": "2023-09-02T13:02:28.4911547+00:00",
   "FirstSeenAchievements": "2023-07-27T10:02:52.8790419+00:00",
-  "LastChanged_Achievements": "2024-01-03T21:04:30.2690619+00:00",
+  "LastChanged_Achievements": "2024-01-03T22:03:38.603498+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:53.8733503+00:00",
-  "LastUpdate_Ratings": "2024-01-03T20:58:49.5952948+00:00",
-  "LastUpdate_Achievements": "2024-01-03T21:04:30.2690875+00:00"
+  "LastUpdate_Ratings": "2024-01-03T21:58:06.6282901+00:00",
+  "LastUpdate_Achievements": "2024-01-03T22:03:38.603516+00:00"
 }

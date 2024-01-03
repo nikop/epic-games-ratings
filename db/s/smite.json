@@ -4,11 +4,11 @@
   "ProductSlug": "smite",
   "Ranking_Rating": 719,
   "Ranking_Popularity": 79,
-  "Ranking_PopularitySum": 45,
+  "Ranking_PopularitySum": 52,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2020-04-28T15:00:00+00:00",
     "PcReleaseDate": "2020-04-28T15:00:00+00:00",
@@ -11434,10 +11434,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 31277,
       "NumberOfAwardsMax": 4871
+    },
+    {
+      "Time": "2024-01-03T21:59:34.9361689+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 27907,
+      "NumberOfAwardsMax": 4871
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31277,
+  "NumberOfAwards": 27907,
   "NumberOfAwardsMax": 4871,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -11513,8 +11519,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:32.4644513+00:00",
-  "LastChanged": "2024-01-03T21:00:44.9641488+00:00",
+  "LastChanged": "2024-01-03T21:59:34.9361687+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:49.9981164+00:00",
-  "LastUpdate_Ratings": "2024-01-03T21:00:44.9641499+00:00",
-  "LastUpdate_Achievements": "2024-01-03T21:05:32.3194543+00:00"
+  "LastUpdate_Ratings": "2024-01-03T21:59:34.9361695+00:00",
+  "LastUpdate_Achievements": "2024-01-03T22:04:24.8698723+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -277,7 +277,7 @@
       "Count": 93
     }
   ],
-  "EOS_Progressed": 1248,
+  "EOS_Progressed": 1249,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
@@ -3492,6 +3492,11 @@
       "Time": "2024-01-03T21:05:01.2208342+00:00",
       "NumProgressed": 1248,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-03T22:04:01.5508757+00:00",
+      "NumProgressed": 1249,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3510,9 +3515,9 @@
       "ID": "AbInitio",
       "SetID": "1n308hc",
       "Name": "Ab Initio",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 362
+      "UsersEstimate": 375
     },
     {
       "ID": "AnthropicHills",
@@ -3672,7 +3677,7 @@
       "Name": "Into the Machine",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "JustOneLap",
@@ -3760,7 +3765,7 @@
       "Name": "Overload",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "Persistent",
@@ -3912,7 +3917,7 @@
       "Name": "The Word Endures",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "TouchGrass",
@@ -3975,7 +3980,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1248,
+      "Progressed": 1249,
       "Completed": 2
     }
   ],
@@ -3983,8 +3988,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-03T15:00:44.4057345+00:00",
-  "LastChanged_Achievements": "2024-01-03T21:05:01.2208339+00:00",
+  "LastChanged_Achievements": "2024-01-03T22:04:01.5508753+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.9244138+00:00",
-  "LastUpdate_Ratings": "2024-01-03T21:00:56.2642336+00:00",
-  "LastUpdate_Achievements": "2024-01-03T21:05:01.2209014+00:00"
+  "LastUpdate_Ratings": "2024-01-03T21:59:43.0948688+00:00",
+  "LastUpdate_Achievements": "2024-01-03T22:04:01.5509368+00:00"
 }

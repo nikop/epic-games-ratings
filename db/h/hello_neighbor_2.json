@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 94,
-  "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -495,7 +495,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3840,
+  "EOS_Progressed": 3841,
   "EOS_Completed": 143,
   "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 3,
@@ -6705,6 +6705,11 @@
       "Time": "2024-01-03T21:08:42.8064035+00:00",
       "NumProgressed": 3840,
       "NumCompleted": 143
+    },
+    {
+      "Time": "2024-01-03T22:08:18.4103428+00:00",
+      "NumProgressed": 3841,
+      "NumCompleted": 143
     }
   ],
   "TotalAchievements": 14,
@@ -6756,7 +6761,7 @@
       "Name": "Easy As Pie",
       "Percentage": 33,
       "XP": 55,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -6764,7 +6769,7 @@
       "Name": "Family Lost",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 1190
+      "UsersEstimate": 1191
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -6804,7 +6809,7 @@
       "Name": "Shovel Night",
       "Percentage": 36,
       "XP": 55,
-      "UsersEstimate": 1382
+      "UsersEstimate": 1383
     },
     {
       "ID": "ACH_TREASURE_HUNT",
@@ -6827,7 +6832,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3840,
+      "Progressed": 3841,
       "Completed": 143
     }
   ],
@@ -6835,8 +6840,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-12-29T23:00:02.814442+00:00",
-  "LastChanged_Achievements": "2024-01-03T21:08:42.806403+00:00",
+  "LastChanged_Achievements": "2024-01-03T22:08:18.4103423+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:02.885587+00:00",
-  "LastUpdate_Ratings": "2024-01-03T20:02:34.1619794+00:00",
-  "LastUpdate_Achievements": "2024-01-03T21:08:42.8064871+00:00"
+  "LastUpdate_Ratings": "2024-01-03T21:56:59.5138761+00:00",
+  "LastUpdate_Achievements": "2024-01-03T22:08:18.4103864+00:00"
 }

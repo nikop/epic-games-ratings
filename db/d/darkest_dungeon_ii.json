@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10396,10 +10396,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 21377,
       "NumberOfAwardsMax": 7940
+    },
+    {
+      "Time": "2024-01-03T21:59:18.4017226+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21384,
+      "NumberOfAwardsMax": 7940
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21377,
+  "NumberOfAwards": 21384,
   "NumberOfAwardsMax": 7940,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10461,7 +10467,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 1445
+      "Count": 1452
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -10476,9 +10482,9 @@
       "Count": 1079
     }
   ],
-  "EOS_Progressed": 131527,
+  "EOS_Progressed": 131534,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1290,
+  "EOS_NewPlayers": 1281,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38186,6 +38192,11 @@
       "Time": "2024-01-03T21:10:31.373706+00:00",
       "NumProgressed": 131527,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-03T22:09:25.7291567+00:00",
+      "NumProgressed": 131534,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38205,7 +38216,7 @@
       "Name": "Serenity Now!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6576
+      "UsersEstimate": 6577
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -38357,7 +38368,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6576
+      "UsersEstimate": 6577
     },
     {
       "ID": "combat_kill_fanatics",
@@ -38397,7 +38408,7 @@
       "Name": "Meat and Greet",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6576
+      "UsersEstimate": 6577
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -38413,7 +38424,7 @@
       "Name": "Catch and Decease",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6576
+      "UsersEstimate": 6577
     },
     {
       "ID": "combat_kill_librarian",
@@ -38421,7 +38432,7 @@
       "Name": "Overdue Notice",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6576
+      "UsersEstimate": 6577
     },
     {
       "ID": "combat_kill_pillagers",
@@ -38437,7 +38448,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6576
+      "UsersEstimate": 6577
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -38828,21 +38839,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131527,
+      "Progressed": 131534,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6396,
+      "Progressed": 6403,
       "Completed": 821
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-03T21:00:25.2984644+00:00",
-  "LastChanged_Achievements": "2024-01-03T21:10:31.3737057+00:00",
+  "LastChanged": "2024-01-03T21:59:18.4017224+00:00",
+  "LastChanged_Achievements": "2024-01-03T22:09:25.7291562+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-03T21:00:25.2984649+00:00",
-  "LastUpdate_Achievements": "2024-01-03T21:10:31.3739719+00:00"
+  "LastUpdate_Ratings": "2024-01-03T21:59:18.401723+00:00",
+  "LastUpdate_Achievements": "2024-01-03T22:09:25.7293588+00:00"
 }

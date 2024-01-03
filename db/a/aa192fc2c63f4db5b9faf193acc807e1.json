@@ -1124,9 +1124,9 @@
       "ID": "creepytaleach2",
       "SetID": "bnif31p",
       "Name": "Naivety",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 75,
-      "UsersEstimate": 83
+      "UsersEstimate": 85
     },
     {
       "ID": "creepytaleach3",
@@ -1195,8 +1195,8 @@
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2024-01-03T21:10:53.2175661+00:00",
+  "LastChanged_Achievements": "2024-01-03T22:09:42.3863455+00:00",
   "LastUpdate_AppInfo": "2024-01-03T07:57:06.3288119+00:00",
-  "LastUpdate_Ratings": "2024-01-03T21:01:28.7921867+00:00",
-  "LastUpdate_Achievements": "2024-01-03T21:10:53.2175881+00:00"
+  "LastUpdate_Ratings": "2024-01-03T22:00:05.6267419+00:00",
+  "LastUpdate_Achievements": "2024-01-03T22:09:42.3863652+00:00"
 }

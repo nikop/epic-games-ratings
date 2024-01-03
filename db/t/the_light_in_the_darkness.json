@@ -4,8 +4,8 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 44,
-  "Ranking_EOS_NewPlayers": 298,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2841,
+  "EOS_Progressed": 2842,
   "EOS_Completed": 261,
   "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 9.19,
+  "EOS_Completed_Percentage": 9.18,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -8181,6 +8181,11 @@
       "Time": "2024-01-03T18:09:49.4549789+00:00",
       "NumProgressed": 2841,
       "NumCompleted": 261
+    },
+    {
+      "Time": "2024-01-03T22:08:52.9122017+00:00",
+      "NumProgressed": 2842,
+      "NumCompleted": 261
     }
   ],
   "TotalAchievements": 12,
@@ -8254,9 +8259,9 @@
       "ID": "Little Helper",
       "SetID": "b40dflc",
       "Name": "Little Helper",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 966
+      "UsersEstimate": 938
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -8287,7 +8292,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2841,
+      "Progressed": 2842,
       "Completed": 261
     }
   ],
@@ -8295,8 +8300,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2024-01-03T21:09:48.6693893+00:00",
+  "LastChanged_Achievements": "2024-01-03T22:08:52.9122013+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:43.1784537+00:00",
-  "LastUpdate_Ratings": "2024-01-03T21:00:09.7335641+00:00",
-  "LastUpdate_Achievements": "2024-01-03T21:09:48.6694602+00:00"
+  "LastUpdate_Ratings": "2024-01-03T21:59:07.009521+00:00",
+  "LastUpdate_Achievements": "2024-01-03T22:08:52.912251+00:00"
 }

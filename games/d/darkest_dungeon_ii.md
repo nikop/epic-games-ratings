@@ -11,12 +11,12 @@ Number of Ratings: 7,767  (23.09.2022)
 | This Belongs in a Museum | 6.00% | ~7,892 |
 | Autodidact | 6.00% | ~7,892 |
 | This guy... again? | 6.00% | ~384 |
-| Serenity Now! | 5.00% | ~6,576 |
-| Creep and Sleep | 5.00% | ~6,576 |
-| Meat and Greet | 5.00% | ~6,576 |
-| Catch and Decease | 5.00% | ~6,576 |
-| Overdue Notice | 5.00% | ~6,576 |
-| Escape from the Black Hole | 5.00% | ~6,576 |
+| Serenity Now! | 5.00% | ~6,577 |
+| Creep and Sleep | 5.00% | ~6,577 |
+| Meat and Greet | 5.00% | ~6,577 |
+| Catch and Decease | 5.00% | ~6,577 |
+| Overdue Notice | 5.00% | ~6,577 |
+| Escape from the Black Hole | 5.00% | ~6,577 |
 | Ploughshares to Swords | 5.00% | ~320 |
 | Bloody Graduation | 5.00% | ~320 |
 | Don't Make Me Turn This Coach Around | 4.00% | ~5,261 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,527 (Ranked 91)  
+Progressed: 131,534 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,10 +334,10 @@ Completed: 3 (0.00%) (Ranked 392)
 | 2023-12-31 | 131,026 | 3 |
 | 2024-01-01 | 131,206 | 3 |
 | 2024-01-02 | 131,365 | 3 |
-| 2024-01-03 | 131,527 | 3 |
+| 2024-01-03 | 131,534 | 3 |
 ## Awards
 Max (Character Customization): 7,940  (Ranked 50)  
-Sum: 21,377 (Ranked 58)  
+Sum: 21,384 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -347,7 +347,7 @@ Diff (max vs sum): -8
 | This game is Highly Recommended | 1,587 |
 | This game has Amazing Characters | 1,513 |
 | This game is Extremely Fun | 1,508 |
-| This game has Unique Visuals | 1,445 |
+| This game has Unique Visuals | 1,452 |
 | This game has Amazing Storytelling | 1,431 |
 | This game has Quickly Understood Controls | 1,400 |
 | This game has a Creative Community | 1,079 |
@@ -696,4 +696,4 @@ Diff (max vs sum): -8
 | 2023-12-31 | 4.68 | - | 7,910 | 21,297 |
 | 2024-01-01 | 4.68 | - | 7,919 | 21,323 |
 | 2024-01-02 | 4.68 | - | 7,927 | 21,353 |
-| 2024-01-03 | 4.68 | - | 7,940 | 21,377 |
+| 2024-01-03 | 4.68 | - | 7,940 | 21,384 |

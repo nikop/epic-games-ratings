@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2009,9 +2009,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 20821,
+  "EOS_Progressed": 20824,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1200,
+  "EOS_NewPlayers": 1198,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -12414,6 +12414,11 @@
       "Time": "2024-01-03T21:10:22.3871671+00:00",
       "NumProgressed": 20821,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-03T22:09:18.8255964+00:00",
+      "NumProgressed": 20824,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -12433,7 +12438,7 @@
       "Name": "Armed to the Teeth",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "BACKSTAB_BLIND",
@@ -12489,7 +12494,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -12505,7 +12510,7 @@
       "Name": "Recidivist",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "FINISH_GAME_HARDCORE_PLUS",
@@ -12529,7 +12534,7 @@
       "Name": "Get a Grip",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 3956
+      "UsersEstimate": 3957
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -12585,7 +12590,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3123
+      "UsersEstimate": 3124
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -12593,7 +12598,7 @@
       "Name": "Reforged",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3331
+      "UsersEstimate": 3332
     },
     {
       "ID": "PRINT_WEAPON",
@@ -12601,7 +12606,7 @@
       "Name": "Paper Jams",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4164
+      "UsersEstimate": 4165
     },
     {
       "ID": "SHARE_PHOTO",
@@ -12617,7 +12622,7 @@
       "Name": "The Outer Way",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 4789
+      "UsersEstimate": 4790
     },
     {
       "ID": "STORY_ESCAPE",
@@ -12657,7 +12662,7 @@
       "Name": "Desperate Times",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 4372
+      "UsersEstimate": 4373
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -12697,7 +12702,7 @@
       "Name": "Instigator",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -12713,7 +12718,7 @@
       "Name": "Bear Trap",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "NOSPEND_2ROUNDS",
@@ -12759,9 +12764,9 @@
       "ID": "FIND_ESCAPE_POD",
       "SetID": "6j5ggkc",
       "Name": "This Isn\u0027t About Escape",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 175
     },
     {
       "ID": "FINISH_DLC4",
@@ -12777,7 +12782,7 @@
       "Name": "Keep Fighting",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -12785,7 +12790,7 @@
       "Name": "It\u0027s Time",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "LOCK_UNDER_7SEC",
@@ -12800,13 +12805,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 20821,
+      "Progressed": 20824,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 8747,
+      "Progressed": 8750,
       "Completed": 29
     }
   ],
@@ -12814,8 +12819,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-03T10:03:43.3755961+00:00",
-  "LastChanged_Achievements": "2024-01-03T21:10:22.3871663+00:00",
+  "LastChanged_Achievements": "2024-01-03T22:09:18.825596+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.412859+00:00",
-  "LastUpdate_Ratings": "2024-01-03T21:03:47.4591603+00:00",
-  "LastUpdate_Achievements": "2024-01-03T21:10:22.3872612+00:00"
+  "LastUpdate_Ratings": "2024-01-03T22:03:06.4368618+00:00",
+  "LastUpdate_Achievements": "2024-01-03T22:09:18.8256846+00:00"
 }

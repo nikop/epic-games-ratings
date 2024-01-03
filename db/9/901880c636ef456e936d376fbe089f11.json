@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 456,
   "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 390,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
     "PcReleaseDate": "2023-04-20T13:00:00+00:00",
@@ -915,9 +915,9 @@
       "ID": "ACH_HOW_I_MET_YOUR_ANCESTOR",
       "SetID": "8h8m55b",
       "Name": "How I Met Your Ancestor",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_HYDE_LEIBOVITZ",
@@ -1099,9 +1099,9 @@
       "ID": "ACH_UNSOLICITED_BOUNCER",
       "SetID": "8h8m55b",
       "Name": "Unsolicited Bouncer",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_VAMPIRES_DONT_CHANGE",
@@ -1154,8 +1154,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2024-01-03T21:05:12.0716352+00:00",
+  "LastChanged_Achievements": "2024-01-03T22:04:09.5435743+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:05.1404315+00:00",
-  "LastUpdate_Ratings": "2024-01-03T21:00:31.2959764+00:00",
-  "LastUpdate_Achievements": "2024-01-03T21:05:12.0716773+00:00"
+  "LastUpdate_Ratings": "2024-01-03T21:59:23.1041456+00:00",
+  "LastUpdate_Achievements": "2024-01-03T22:04:09.54362+00:00"
 }

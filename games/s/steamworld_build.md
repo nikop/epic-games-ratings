@@ -7,7 +7,7 @@
 | Mathematic | 86.00% | ~204 |
 | Digging a Hole | 78.00% | ~185 |
 | It's Yours, My Friend | 74.00% | ~175 |
-| Conducted Trade | 67.00% | ~159 |
+| Conducted Trade | 68.00% | ~161 |
 | Going Places | 66.00% | ~156 |
 | Aristocratic | 63.00% | ~149 |
 | Tutti Frutti | 57.00% | ~135 |
@@ -17,8 +17,8 @@
 | Mine Sweeper | 40.00% | ~95 |
 | Roll Out | 38.00% | ~90 |
 | Dopa-Miner | 32.00% | ~76 |
-| Up, Up And Away! | 31.00% | ~73 |
-| Whoa! | 29.00% | ~69 |
+| Up, Up And Away! | 32.00% | ~76 |
+| Whoa! | 30.00% | ~71 |
 | Botropolis | 24.00% | ~57 |
 | Steam Powered | 20.00% | ~47 |
 | Steaming Rich | 19.00% | ~45 |

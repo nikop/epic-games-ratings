@@ -16,11 +16,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fast Food | 0.60% | ~1,301 |
 | Were-verpowered | 0.50% | ~1,253 |
 | Seeking Allies | 0.50% | ~1,253 |
+| Mad Cow Disease | 0.50% | ~1,253 |
 | Friendly Imps | 0.50% | ~1,253 |
 | The Overgrown Grove | 0.50% | ~1,084 |
 | Mental Gymnastics | 0.50% | ~1,084 |
 | A Persistent Buzzing | 0.40% | ~1,002 |
-| Mad Cow Disease | 0.40% | ~1,002 |
 | Pure Energy | 0.40% | ~1,002 |
 | Misaligned in Sigil | 0.40% | ~867 |
 | Chaos Theory | 0.40% | ~867 |
@@ -35,8 +35,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Crumbling Temple | 0.30% | ~752 |
 | Exploring Port Nyanzaru | 0.30% | ~752 |
 | The Contagious Curse | 0.30% | ~752 |
-| Arcane Suppression | 0.30% | ~650 |
-| Welcome to the Vrocks | 0.30% | ~650 |
+| Arcane Suppression | 0.30% | ~651 |
+| Welcome to the Vrocks | 0.30% | ~651 |
 | The Silken Swamp | 0.20% | ~501 |
 | Low Initiative | 0.20% | ~501 |
 | A Mysterious Summons | 0.20% | ~501 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~217 |
 | The Brains of an Illithid's Desire | 0.10% | ~217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,553 (Ranked 70)  
+Progressed: 250,569 (Ranked 70)  
 Completed: 2,588 (1.03%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -811,7 +811,7 @@ Completed: 2,588 (1.03%) (Ranked 169)
 | 2023-12-31 | 248,665 | 2,581 |
 | 2024-01-01 | 249,335 | 2,583 |
 | 2024-01-02 | 250,032 | 2,585 |
-| 2024-01-03 | 250,553 | 2,588 |
+| 2024-01-03 | 250,569 | 2,588 |
 ## Awards
 Max (Great for Beginners): 5,730  (Ranked 72)  
 Sum: 33,292 (Ranked 41)  

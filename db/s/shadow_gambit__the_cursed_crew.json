@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -185,10 +185,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1422,
+  "EOS_Progressed": 1423,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 103,
-  "EOS_NewCompleters": 1,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.46,
   "EosHistory": [
     {
@@ -4915,6 +4915,11 @@
       "Time": "2024-01-03T20:03:09.8193751+00:00",
       "NumProgressed": 1422,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-03T22:03:20.904898+00:00",
+      "NumProgressed": 1423,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4935,7 +4940,7 @@
       "Name": "A New Journey",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "_03_FinishAct1",
@@ -4951,7 +4956,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "_05_FinishAct2",
@@ -4973,9 +4978,9 @@
       "ID": "_07_FinishAct3",
       "SetID": "8a1io5d",
       "Name": "All Good Things",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 256
+      "UsersEstimate": 242
     },
     {
       "ID": "_08_Completion_10",
@@ -4999,7 +5004,7 @@
       "Name": "Buccaneer",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "_11_Completion_40",
@@ -5047,7 +5052,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -5079,7 +5084,7 @@
       "Name": "Fishy Fish",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -5087,7 +5092,7 @@
       "Name": "Tobacco Travesty",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -5111,7 +5116,7 @@
       "Name": "Jaded Judge",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -5119,7 +5124,7 @@
       "Name": "Rustic Recipe",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -5134,7 +5139,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1422,
+      "Progressed": 1423,
       "Completed": 35
     }
   ],
@@ -5142,8 +5147,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-03T10:02:59.9033308+00:00",
-  "LastChanged_Achievements": "2024-01-03T21:04:06.5330067+00:00",
+  "LastChanged_Achievements": "2024-01-03T22:03:20.9048977+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.1530944+00:00",
-  "LastUpdate_Ratings": "2024-01-03T20:57:23.1170057+00:00",
-  "LastUpdate_Achievements": "2024-01-03T21:04:06.5330417+00:00"
+  "LastUpdate_Ratings": "2024-01-03T21:57:05.0095651+00:00",
+  "LastUpdate_Achievements": "2024-01-03T22:03:20.9049449+00:00"
 }

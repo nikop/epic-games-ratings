@@ -22,23 +22,23 @@
 | Rage | 15.00% | ~9 |
 | Trial by cold | 13.00% | ~8 |
 | Berkanan Borgia | 11.00% | ~7 |
+| For the greater good | 10.00% | ~6 |
 | Overplay the rogue | 10.00% | ~6 |
 | The champion of the arena | 10.00% | ~6 |
-| For the greater good | 8.00% | ~5 |
 | Stronger than Gellian steel | 8.00% | ~5 |
 | Protect the Healer! | 8.00% | ~5 |
 | Collector | 7.00% | ~4 |
+| First among Frisians | 7.00% | ~4 |
 | Punish the Punisher | 7.00% | ~4 |
 | Cunning plan | 7.00% | ~4 |
 | The End | 7.00% | ~4 |
+| Nothing is settled | 7.00% | ~4 |
 | Supplier | 5.00% | ~3 |
 | The best apprentice | 5.00% | ~3 |
-| First among Frisians | 5.00% | ~3 |
 | Defeat the bear | 5.00% | ~3 |
 | By own strength | 5.00% | ~3 |
 | Deadly strike | 5.00% | ~3 |
 | All's fair in love and war | 5.00% | ~3 |
-| Nothing is settled | 5.00% | ~3 |
 | The power of persuasion | 3.00% | ~2 |
 | A solo player | 3.00% | ~2 |
 | Do it yourself | 3.00% | ~2 |
@@ -54,7 +54,7 @@
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61 (Ranked 531)  
+Progressed: 61 (Ranked 532)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |

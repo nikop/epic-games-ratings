@@ -4,11 +4,11 @@
   "ProductSlug": "spirit-of-the-north-f58a66",
   "Ranking_Rating": 808,
   "Ranking_Popularity": 535,
-  "Ranking_PopularitySum": 456,
+  "Ranking_PopularitySum": 457,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -339,9 +339,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 78961,
+  "EOS_Progressed": 78963,
   "EOS_Completed": 424,
-  "EOS_NewPlayers": 808,
+  "EOS_NewPlayers": 804,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -28884,6 +28884,11 @@
       "Time": "2024-01-03T21:10:28.2943554+00:00",
       "NumProgressed": 78961,
       "NumCompleted": 424
+    },
+    {
+      "Time": "2024-01-03T22:09:23.3555325+00:00",
+      "NumProgressed": 78963,
+      "NumCompleted": 424
     }
   ],
   "TotalAchievements": 24,
@@ -28903,7 +28908,7 @@
       "Name": "AWAKEN",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 17371
+      "UsersEstimate": 17372
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -28911,7 +28916,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 54483
+      "UsersEstimate": 54484
     },
     {
       "ID": "BEST_FRIENDS",
@@ -28919,7 +28924,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 17371
+      "UsersEstimate": 17372
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -28943,7 +28948,7 @@
       "Name": "FETCH",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 22109
+      "UsersEstimate": 22110
     },
     {
       "ID": "FOXIN_AROUND",
@@ -28959,7 +28964,7 @@
       "Name": "FOX? OR FLYING SQUIRREL?",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 3158
+      "UsersEstimate": 3159
     },
     {
       "ID": "GARDEN_OF_LIGHT",
@@ -28975,7 +28980,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 41849
+      "UsersEstimate": 41850
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -29015,7 +29020,7 @@
       "Name": "OLD COMPANION",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 7106
+      "UsersEstimate": 7107
     },
     {
       "ID": "PLAGUE_DOCTOR",
@@ -29023,7 +29028,7 @@
       "Name": "PLAGUE DOCTOR",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 7106
+      "UsersEstimate": 7107
     },
     {
       "ID": "SPIRITED_AWAY",
@@ -29039,7 +29044,7 @@
       "Name": "SPIRIT BARK",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 17371
+      "UsersEstimate": 17372
     },
     {
       "ID": "SPIRIT_DASH",
@@ -29055,7 +29060,7 @@
       "Name": "SPIRIT FORM",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 13423
+      "UsersEstimate": 13424
     },
     {
       "ID": "UPROOTING_DARKNESS",
@@ -29071,7 +29076,7 @@
       "Name": "WEIGHTLESS",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 9475
+      "UsersEstimate": 9476
     },
     {
       "ID": "WRITTEN_IN_STONE",
@@ -29086,7 +29091,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 78961,
+      "Progressed": 78963,
       "Completed": 424
     }
   ],
@@ -29094,8 +29099,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-12-11T01:48:32.7425544+00:00",
-  "LastChanged_Achievements": "2024-01-03T21:10:28.2943548+00:00",
+  "LastChanged_Achievements": "2024-01-03T22:09:23.3555322+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:49.9952919+00:00",
-  "LastUpdate_Ratings": "2024-01-03T20:58:15.2720216+00:00",
-  "LastUpdate_Achievements": "2024-01-03T21:10:28.2945464+00:00"
+  "LastUpdate_Ratings": "2024-01-03T21:57:40.5296704+00:00",
+  "LastUpdate_Achievements": "2024-01-03T22:09:23.3556753+00:00"
 }

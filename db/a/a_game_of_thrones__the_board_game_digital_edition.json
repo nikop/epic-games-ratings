@@ -1380,9 +1380,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 32375,
+  "EOS_Progressed": 32377,
   "EOS_Completed": 86,
-  "EOS_NewPlayers": 766,
+  "EOS_NewPlayers": 761,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -29175,6 +29175,11 @@
       "Time": "2024-01-03T21:10:42.7547143+00:00",
       "NumProgressed": 32375,
       "NumCompleted": 86
+    },
+    {
+      "Time": "2024-01-03T22:09:34.4710102+00:00",
+      "NumProgressed": 32377,
+      "NumCompleted": 86
     }
   ],
   "TotalAchievements": 22,
@@ -29194,7 +29199,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1942
+      "UsersEstimate": 1943
     },
     {
       "ID": "1017",
@@ -29202,7 +29207,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1942
+      "UsersEstimate": 1943
     },
     {
       "ID": "1018",
@@ -29242,7 +29247,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1942
+      "UsersEstimate": 1943
     },
     {
       "ID": "1023",
@@ -29306,7 +29311,7 @@
       "Name": "Battering Crew",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 6151
+      "UsersEstimate": 6152
     },
     {
       "ID": "1031",
@@ -29322,7 +29327,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 12950
+      "UsersEstimate": 12951
     },
     {
       "ID": "1033",
@@ -29361,15 +29366,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 32375,
+      "Progressed": 32377,
       "Completed": 86
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-12-30T03:00:21.8203894+00:00",
-  "LastChanged_Achievements": "2024-01-03T21:10:42.7547138+00:00",
+  "LastChanged_Achievements": "2024-01-03T22:09:34.4710099+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:55.7773957+00:00",
-  "LastUpdate_Ratings": "2024-01-03T20:59:12.4963221+00:00",
-  "LastUpdate_Achievements": "2024-01-03T21:10:42.7549119+00:00"
+  "LastUpdate_Ratings": "2024-01-03T21:58:25.6651826+00:00",
+  "LastUpdate_Achievements": "2024-01-03T22:09:34.4711462+00:00"
 }

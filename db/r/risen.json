@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 443,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
     "PcReleaseDate": "2009-10-30T16:00:00+00:00",
@@ -1047,9 +1047,9 @@
       "ID": "id_43",
       "SetID": "bk9jib6",
       "Name": "Hard worker",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "id_44",
@@ -1264,8 +1264,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-12-28T07:02:46.0007261+00:00",
-  "LastChanged_Achievements": "2024-01-03T21:11:00.9976356+00:00",
+  "LastChanged_Achievements": "2024-01-03T22:09:49.4194856+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:11.6693375+00:00",
-  "LastUpdate_Ratings": "2024-01-03T21:00:08.4997338+00:00",
-  "LastUpdate_Achievements": "2024-01-03T21:11:00.9976895+00:00"
+  "LastUpdate_Ratings": "2024-01-03T21:59:06.0817593+00:00",
+  "LastUpdate_Achievements": "2024-01-03T22:09:49.4195358+00:00"
 }
