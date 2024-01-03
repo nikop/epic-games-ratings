@@ -8,7 +8,7 @@
 | 6 | [greensheen Production](games/g/greensheen_production.md) | 43.75% |
 | 7 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 42.86% |
 | 8 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 42.40% |
-| 9 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 39.13% |
+| 9 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 38.96% |
 | 10 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 38.93% |
 | 11 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 33.33% |
 | 12 | [Volley Pals](games/v/volley_pals.md) | 31.78% |
@@ -54,17 +54,17 @@
 | 52 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 52 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.69% |
 | 54 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.63% |
-| 55 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.60% |
+| 55 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.59% |
 | 56 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.47% |
 | 56 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
 | 58 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.25% |
 | 59 | [Sonic Origins](games/s/sonic_origins.md) | 7.13% |
 | 60 | [Scorn](games/s/scorn.md) | 6.91% |
 | 61 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 6.90% |
-| 62 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.55% |
+| 62 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.54% |
 | 63 | [Time Loader](games/t/time_loader.md) | 6.52% |
 | 64 | [Anna's Quest](games/a/anna's_quest.md) | 6.45% |
-| 65 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.30% |
+| 65 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.34% |
 | 66 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 66 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 6.25% |
 | 68 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 6.20% |
@@ -72,8 +72,8 @@
 | 70 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.80% |
 | 71 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
 | 72 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.46% |
-| 73 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 5.00% |
 | 73 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 5.00% |
+| 74 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 4.92% |
 | 75 | [Bugsnax](games/b/bugsnax.md) | 4.90% |
 | 76 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.85% |
 | 77 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.78% |
@@ -143,8 +143,8 @@
 | 141 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 1.72% |
 | 141 | [Sifu](games/s/sifu.md) | 1.72% |
 | 143 | [Frogun](games/f/frogun.md) | 1.71% |
-| 144 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.67% |
-| 145 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.66% |
+| 144 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.66% |
+| 145 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.65% |
 | 146 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.57% |
 | 147 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.54% |
 | 148 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.52% |
@@ -168,7 +168,7 @@
 | 165 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 1.10% |
 | 167 | [Ten Dates](games/t/ten_dates.md) | 1.09% |
 | 168 | [Lemon Cake](games/l/lemon_cake.md) | 1.06% |
-| 169 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 1.05% |
+| 169 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 1.04% |
 | 170 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.03% |
 | 171 | [Sable](games/s/sable.md) | 1.02% |
 | 172 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 0.99% |
@@ -187,8 +187,8 @@
 | 185 | [There Is No Game - Wrong Dimension](games/5/5f7c8e78a55f4eb9956329556c44a27a.md) | 0.83% |
 | 186 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 0.82% |
 | 187 | [Dungeons 3](games/d/dungeons_3.md) | 0.80% |
-| 187 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 0.80% |
 | 187 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.80% |
+| 189 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 0.79% |
 | 190 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
 | 191 | [Infindustry](games/i/infindustry.md) | 0.75% |
 | 192 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 0.74% |
