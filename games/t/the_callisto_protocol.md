@@ -1,7 +1,7 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.21 (Ranked 946)  
+Rating: 4.21 (Ranked 947)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

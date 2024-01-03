@@ -1,7 +1,7 @@
 # Potion Permit
 [Store](https://store.epicgames.com/en-US/p/potion-permit)  
 [View Rawdata](../../db/p/potion_permit.json)  
-Rating: 3.85 (Ranked 1,067)  
+Rating: 3.85 (Ranked 1,068)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -45,7 +45,7 @@ Rating: 3.85 (Ranked 1,067)
 | Being a donut... | 0.70% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,868 (Ranked 249)  
-Completed: 11 (0.59%) (Ranked 206)  
+Completed: 11 (0.59%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

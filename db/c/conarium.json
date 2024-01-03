@@ -2,7 +2,7 @@
   "ID": "6ac9ddab8e604e3ba2d4ea01e8f9fa7d",
   "Name": "Conarium",
   "ProductSlug": "conarium",
-  "Ranking_Rating": 1056,
+  "Ranking_Rating": 1057,
   "Ranking_Popularity": 578,
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 820,
@@ -252,6 +252,6 @@
   "FirstSeen": "2022-07-22T20:26:30.4733415+00:00",
   "LastChanged": "2023-12-17T19:59:13.0553621+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:18.1604891+00:00",
-  "LastUpdate_Ratings": "2024-01-03T10:59:00.3358559+00:00",
-  "LastUpdate_Achievements": "2024-01-03T11:05:04.6466012+00:00"
+  "LastUpdate_Ratings": "2024-01-03T11:59:16.4338875+00:00",
+  "LastUpdate_Achievements": "2024-01-03T12:05:34.6379275+00:00"
 }

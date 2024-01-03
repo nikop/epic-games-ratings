@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3413,
+  "EOS_Progressed": 3417,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 525,
+  "EOS_NewPlayers": 527,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3769,6 +3769,11 @@
       "Time": "2024-01-03T11:04:54.6852207+00:00",
       "NumProgressed": 3413,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T12:05:23.826044+00:00",
+      "NumProgressed": 3417,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -3805,7 +3810,7 @@
       "Name": "Highest Among the Highest",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1059
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -3821,7 +3826,7 @@
       "Name": "Monster Power",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -3829,7 +3834,7 @@
       "Name": "Power Overwhelming",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -3893,7 +3898,7 @@
       "Name": "High Level Mastery",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -3965,7 +3970,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1229
+      "UsersEstimate": 1230
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -3981,15 +3986,15 @@
       "Name": "Unlocked Relic",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 1399
+      "UsersEstimate": 1401
     },
     {
       "ID": "ACHIEVEMENT_35",
       "SetID": "c167foo",
       "Name": "Half Way to Darkness",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_36",
@@ -4101,7 +4106,7 @@
       "Name": "I\u0027m your friend to the end",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACHIEVEMENT_50",
@@ -4156,14 +4161,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 3413,
+      "Progressed": 3417,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2024-01-03T11:04:54.6852204+00:00",
+  "LastChanged_Achievements": "2024-01-03T12:05:23.8260435+00:00",
   "LastUpdate_AppInfo": "2024-01-02T13:00:37.2315097+00:00",
-  "LastUpdate_Ratings": "2024-01-03T11:02:34.0672802+00:00",
-  "LastUpdate_Achievements": "2024-01-03T11:04:54.6852633+00:00"
+  "LastUpdate_Ratings": "2024-01-03T12:02:48.9870717+00:00",
+  "LastUpdate_Achievements": "2024-01-03T12:05:23.8261432+00:00"
 }

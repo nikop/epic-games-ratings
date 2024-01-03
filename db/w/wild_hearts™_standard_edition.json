@@ -4,7 +4,7 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -3623,9 +3623,9 @@
       "ID": "achievement_1",
       "SetID": "2cpn27e",
       "Name": "Land of the Rising Sun",
-      "Percentage": 99,
+      "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1092
     },
     {
       "ID": "achievement_10",
@@ -4013,8 +4013,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-03T11:09:11.1392763+00:00",
+  "LastChanged_Achievements": "2024-01-03T12:09:45.508802+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:22.7723621+00:00",
-  "LastUpdate_Ratings": "2024-01-03T11:00:23.9933944+00:00",
-  "LastUpdate_Achievements": "2024-01-03T11:09:11.1393241+00:00"
+  "LastUpdate_Ratings": "2024-01-03T12:00:47.9041224+00:00",
+  "LastUpdate_Achievements": "2024-01-03T12:09:45.5088731+00:00"
 }

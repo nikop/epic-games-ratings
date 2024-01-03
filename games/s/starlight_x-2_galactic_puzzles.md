@@ -9,6 +9,7 @@
 | Use 20 hints | 6.00% | ~5 |
 | Fast 6x6 | 5.00% | ~4 |
 | Complete 50 levels | 4.00% | ~3 |
+| By Yourself 5x5 | 2.00% | ~2 |
 | Switch off the light | 2.00% | ~2 |
 | Use 50 hints | 2.00% | ~2 |
 | Fast 7x7 | 1.00% | ~1 |
@@ -17,7 +18,6 @@
 | Fast 13x13 | 1.00% | ~1 |
 | Complete 100 levels | 1.00% | ~1 |
 | Complete 25 6x6 levels | 1.00% | ~1 |
-| By Yourself 5x5 | 1.00% | ~1 |
 | By Yourself 6x6 | 1.00% | ~1 |
 | By Yourself 7x7 | 1.00% | ~1 |
 | By Yourself 13x13 | 1.00% | ~1 |

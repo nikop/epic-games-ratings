@@ -4,7 +4,7 @@
   "ProductSlug": "the-bridge-curse-road-to-salvation-c29320",
   "Ranking_EOS_Progress": 493,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 354,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-08-30T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 95,
+  "EOS_Progressed": 96,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -479,6 +479,11 @@
       "Time": "2024-01-01T09:05:05.5789934+00:00",
       "NumProgressed": 95,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T12:05:39.6339668+00:00",
+      "NumProgressed": 96,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-29T03:07:11.2910815+00:00",
@@ -491,7 +496,7 @@
       "Name": "Girl Carrying A Doll",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "DatingAttraction",
@@ -505,7 +510,7 @@
       "ID": "FirstTry",
       "SetID": "7m88n8p",
       "Name": "Getting It on the First Try",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 25,
       "UsersEstimate": 51
     },
@@ -513,7 +518,7 @@
       "ID": "HauntingSpecter",
       "SetID": "7m88n8p",
       "Name": "Haunting Specter",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 25,
       "UsersEstimate": 30
     },
@@ -521,15 +526,15 @@
       "ID": "HeartHurt",
       "SetID": "7m88n8p",
       "Name": "Whose Heart was Never Hurt",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "HideAndSeek",
       "SetID": "7m88n8p",
       "Name": "Hide-and-Seek Expert",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 65,
       "UsersEstimate": 30
     },
@@ -569,7 +574,7 @@
       "ID": "LoveCrawler",
       "SetID": "7m88n8p",
       "Name": "Love Crawler",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 25,
       "UsersEstimate": 29
     },
@@ -601,7 +606,7 @@
       "ID": "Professions",
       "SetID": "7m88n8p",
       "Name": "Different People Specialize in Different Professions",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 25,
       "UsersEstimate": 33
     },
@@ -611,7 +616,7 @@
       "Name": "Protected by Divine Power",
       "Percentage": 91,
       "XP": 25,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "RoadToSalvation",
@@ -625,7 +630,7 @@
       "ID": "SeeNoEvil",
       "SetID": "7m88n8p",
       "Name": "See No Evil",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 25,
       "UsersEstimate": 32
     },
@@ -633,7 +638,7 @@
       "ID": "SeeingThrough",
       "SetID": "7m88n8p",
       "Name": "Seeing through Vanity",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 65,
       "UsersEstimate": 33
     },
@@ -641,7 +646,7 @@
       "ID": "TimeManagement",
       "SetID": "7m88n8p",
       "Name": "Master of Time Management",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 25,
       "UsersEstimate": 34
     },
@@ -666,14 +671,14 @@
     {
       "ID": "7m88n8p",
       "IsBase": true,
-      "Progressed": 95,
+      "Progressed": 96,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2024-01-03T11:05:09.6015599+00:00",
+  "LastChanged_Achievements": "2024-01-03T12:05:39.6339665+00:00",
   "LastUpdate_AppInfo": "2024-01-01T14:57:04.940635+00:00",
-  "LastUpdate_Ratings": "2024-01-03T10:58:31.2851751+00:00",
-  "LastUpdate_Achievements": "2024-01-03T11:05:09.601573+00:00"
+  "LastUpdate_Ratings": "2024-01-03T11:58:46.268923+00:00",
+  "LastUpdate_Achievements": "2024-01-03T12:05:39.6339855+00:00"
 }

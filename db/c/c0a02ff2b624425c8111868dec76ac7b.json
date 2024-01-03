@@ -777,9 +777,9 @@
       "ID": "ACH_AVEN_UNLOCKED",
       "SetID": "cagp2pi",
       "Name": "Together",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_BIPOLAR_ABSORBED",
@@ -928,8 +928,8 @@
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2024-01-03T11:06:02.2819483+00:00",
+  "LastChanged_Achievements": "2024-01-03T12:06:36.1504583+00:00",
   "LastUpdate_AppInfo": "2023-12-29T15:57:01.7614135+00:00",
-  "LastUpdate_Ratings": "2024-01-03T10:59:57.3579843+00:00",
-  "LastUpdate_Achievements": "2024-01-03T11:06:02.2819673+00:00"
+  "LastUpdate_Ratings": "2024-01-03T12:00:20.8910791+00:00",
+  "LastUpdate_Achievements": "2024-01-03T12:06:36.1504841+00:00"
 }

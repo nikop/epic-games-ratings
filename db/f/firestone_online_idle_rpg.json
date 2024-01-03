@@ -2,12 +2,12 @@
   "ID": "bda8d2133655435982b9118972792328",
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
-  "Ranking_Rating": 1024,
+  "Ranking_Rating": 1025,
   "Ranking_Popularity": 477,
   "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -709,9 +709,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4116,
+  "EOS_Progressed": 4119,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 248,
+  "EOS_NewPlayers": 250,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -11599,6 +11599,11 @@
       "Time": "2024-01-03T11:06:31.9648725+00:00",
       "NumProgressed": 4116,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-03T12:08:30.265763+00:00",
+      "NumProgressed": 4119,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -11634,7 +11639,7 @@
       "Name": "Arena Challenger",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "backgroundstory",
@@ -11674,7 +11679,7 @@
       "Name": "Challenger",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "conqueror",
@@ -11698,7 +11703,7 @@
       "Name": "Daily Quest Completionist",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "doingmypart",
@@ -11706,7 +11711,7 @@
       "Name": "Doing My Part",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "dragonclicker",
@@ -11714,7 +11719,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "dragonmaster",
@@ -11738,7 +11743,7 @@
       "Name": "Ebony Jungle Liberator",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "enchantingskill",
@@ -11776,9 +11781,9 @@
       "ID": "enlightenment",
       "SetID": "3nl4bcg",
       "Name": "Enlightenment",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 576
+      "UsersEstimate": 535
     },
     {
       "ID": "exoticmerchant",
@@ -11794,7 +11799,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1729
+      "UsersEstimate": 1730
     },
     {
       "ID": "fourleafclover",
@@ -11810,7 +11815,7 @@
       "Name": "Frostfire Liberator",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "fullparty",
@@ -11818,7 +11823,7 @@
       "Name": "Full Party",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1111
+      "UsersEstimate": 1112
     },
     {
       "ID": "gearenchanting",
@@ -11874,7 +11879,7 @@
       "Name": "Hunter",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "inspection",
@@ -11882,7 +11887,7 @@
       "Name": "Inspection",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "jewelenchanting",
@@ -11930,7 +11935,7 @@
       "Name": "Mastery",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "milestonecollector",
@@ -11946,7 +11951,7 @@
       "Name": "Miner Clicker",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "missionsdedication",
@@ -11962,7 +11967,7 @@
       "Name": "Moving Up The Ladder",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "mysteriousrock",
@@ -11978,7 +11983,7 @@
       "Name": "Mythic Power",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "naturaltalent",
@@ -12002,7 +12007,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 2140
+      "UsersEstimate": 2142
     },
     {
       "ID": "prestigiousx10",
@@ -12010,7 +12015,7 @@
       "Name": "Prestigious x10",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "relicofthepast",
@@ -12018,7 +12023,7 @@
       "Name": "Relic Of The Past",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "sailor",
@@ -12034,7 +12039,7 @@
       "Name": "Scientist",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "scrollmaster",
@@ -12042,7 +12047,7 @@
       "Name": "Scroll Master",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "silverwoodliberator",
@@ -12066,7 +12071,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2305
+      "UsersEstimate": 2307
     },
     {
       "ID": "thealchemist",
@@ -12106,7 +12111,7 @@
       "Name": "The power of Awakening",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "theunstoppable",
@@ -12170,7 +12175,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 3828
+      "UsersEstimate": 3831
     },
     {
       "ID": "warmachinesarmy",
@@ -12202,14 +12207,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3210
+      "UsersEstimate": 3213
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4116,
+      "Progressed": 4119,
       "Completed": 2
     }
   ],
@@ -12217,8 +12222,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-02T09:57:01.626986+00:00",
-  "LastChanged_Achievements": "2024-01-03T11:06:31.9648717+00:00",
+  "LastChanged_Achievements": "2024-01-03T12:08:30.2657625+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:50.7213096+00:00",
-  "LastUpdate_Ratings": "2024-01-03T10:57:36.1542758+00:00",
-  "LastUpdate_Achievements": "2024-01-03T11:06:31.9650235+00:00"
+  "LastUpdate_Ratings": "2024-01-03T11:57:45.0993466+00:00",
+  "LastUpdate_Achievements": "2024-01-03T12:08:30.2658685+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 397,
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -703,7 +703,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 473277,
+  "EOS_Progressed": 473278,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 393,
   "EOS_NewCompleters": 1,
@@ -27358,6 +27358,11 @@
       "Time": "2024-01-03T10:10:52.2459655+00:00",
       "NumProgressed": 473277,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-03T12:10:30.2061237+00:00",
+      "NumProgressed": 473278,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 79,
@@ -27385,7 +27390,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 113586
+      "UsersEstimate": 113587
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -27489,7 +27494,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 118319
+      "UsersEstimate": 118320
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -27521,7 +27526,7 @@
       "Name": "Tetsuo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 52060
+      "UsersEstimate": 52061
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -27545,7 +27550,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 94655
+      "UsersEstimate": 94656
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -27553,7 +27558,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160914
+      "UsersEstimate": 160915
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -27777,7 +27782,7 @@
       "Name": "Excelsior Mastery",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 4259
+      "UsersEstimate": 4260
     },
     {
       "ID": "achievement_win_all_chapers_with_starter_hard",
@@ -28000,21 +28005,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 17211,
+      "Progressed": 17212,
       "Completed": 2362
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 473277,
+      "Progressed": 473278,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2024-01-02T22:00:26.0871985+00:00",
-  "LastChanged_Achievements": "2024-01-03T11:09:52.8245827+00:00",
+  "LastChanged_Achievements": "2024-01-03T12:10:30.2061232+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:35.1454991+00:00",
-  "LastUpdate_Ratings": "2024-01-03T11:00:41.1634488+00:00",
-  "LastUpdate_Achievements": "2024-01-03T11:09:52.8247552+00:00"
+  "LastUpdate_Ratings": "2024-01-03T12:02:46.6901804+00:00",
+  "LastUpdate_Achievements": "2024-01-03T12:10:30.2062911+00:00"
 }

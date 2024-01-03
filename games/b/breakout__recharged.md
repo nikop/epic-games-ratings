@@ -20,7 +20,7 @@
 | I'm a King Bee | 7.00% | ~10 |
 | What Shall We Do Now? | 2.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137 (Ranked 459)  
+Progressed: 137 (Ranked 460)  
 Completed: 3 (2.19%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |

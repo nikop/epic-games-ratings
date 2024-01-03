@@ -2,7 +2,7 @@
   "ID": "a47cb01bef994749ac731aa3366796e8",
   "Name": "Windbound",
   "ProductSlug": "windbound",
-  "Ranking_Rating": 964,
+  "Ranking_Rating": 965,
   "Ranking_Popularity": 578,
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 820,
@@ -706,6 +706,6 @@
   "FirstSeen": "2022-07-22T20:20:10.910936+00:00",
   "LastChanged": "2023-12-23T11:59:56.7198471+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:59.0319035+00:00",
-  "LastUpdate_Ratings": "2024-01-03T10:57:47.832394+00:00",
-  "LastUpdate_Achievements": "2024-01-03T11:09:21.0135558+00:00"
+  "LastUpdate_Ratings": "2024-01-03T11:57:57.8642741+00:00",
+  "LastUpdate_Achievements": "2024-01-03T12:09:56.1336202+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "the-spirit-and-the-mouse-42390b",
   "Ranking_EOS_Progress": 505,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 526,
+  "Ranking_EOS_NewPlayers": 525,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-09-26T13:00:00+00:00",
@@ -141,9 +141,9 @@
       "ID": "energy250",
       "SetID": "bbgli2k",
       "Name": "Energy Collector",
-      "Percentage": 74,
+      "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "energy800",
@@ -301,9 +301,9 @@
       "ID": "quest002",
       "SetID": "bbgli2k",
       "Name": "The Old Man and the Caf\u00E9",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "quest003",
@@ -438,8 +438,8 @@
   "FirstSeenRating": "2023-03-31T05:58:29.0586638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.5925841+00:00",
   "LastChanged": "2023-03-31T05:58:29.0586639+00:00",
-  "LastChanged_Achievements": "2024-01-03T11:04:00.7597319+00:00",
+  "LastChanged_Achievements": "2024-01-03T12:04:25.4524678+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:45.8472603+00:00",
-  "LastUpdate_Ratings": "2024-01-03T10:58:18.8502688+00:00",
-  "LastUpdate_Achievements": "2024-01-03T11:04:00.7597548+00:00"
+  "LastUpdate_Ratings": "2024-01-03T11:58:33.2223293+00:00",
+  "LastUpdate_Achievements": "2024-01-03T12:04:25.452494+00:00"
 }

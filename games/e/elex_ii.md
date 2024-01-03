@@ -1,7 +1,7 @@
 # ELEX II
 [Store](https://store.epicgames.com/en-US/p/elex-ii)  
 [View Rawdata](../../db/e/elex_ii.json)  
-Rating: 4.29 (Ranked 876)  
+Rating: 4.29 (Ranked 877)  
 Number of Ratings: 124  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -19,27 +19,27 @@ Number of Ratings: 124  (23.09.2022)
 | Pass A38 | 14.00% | ~23 |
 | Long-Haul Flyer | 13.00% | ~22 |
 | Berserker | 10.00% | ~17 |
+| Globetrotter | 9.00% | ~15 |
 | Family Reunion | 9.00% | ~15 |
 | Eternal Oblivion | 9.00% | ~15 |
 | Storyteller | 8.00% | ~13 |
-| Globetrotter | 8.00% | ~13 |
 | Alb | 8.00% | ~13 |
 | Hunter | 6.00% | ~10 |
 | Banker | 5.00% | ~8 |
 | Hotshot | 5.00% | ~8 |
 | Perfectionist | 5.00% | ~8 |
 | Detective | 5.00% | ~8 |
+| Lover | 5.00% | ~8 |
 | Treasure Hunter | 4.00% | ~7 |
 | Beam Me Up | 4.00% | ~7 |
 | Free as a Bird | 4.00% | ~7 |
 | Cleric | 4.00% | ~7 |
-| Lover | 4.00% | ~7 |
 | Alchemist | 3.00% | ~5 |
 | Self-Sufficient | 3.00% | ~5 |
 | Unbreakable | 3.00% | ~5 |
 | Weaponsmith | 2.00% | ~3 |
 | Idealist | 2.00% | ~3 |
-| Toy Time | 1.00% | ~2 |
+| Toy Time | 2.00% | ~3 |
 | Morkon | 1.00% | ~2 |
 | Legendary | 1.00% | ~2 |
 | Defector | 0.60% | ~1 |

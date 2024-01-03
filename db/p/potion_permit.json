@@ -2,11 +2,11 @@
   "ID": "c4395ba88061417a8ac6bd3fdc7fba79",
   "Name": "Potion Permit",
   "ProductSlug": "potion-permit",
-  "Ranking_Rating": 1067,
+  "Ranking_Rating": 1068,
   "Ranking_Popularity": 416,
   "Ranking_PopularitySum": 488,
   "Ranking_EOS_Progress": 249,
-  "Ranking_EOS_Completed": 206,
+  "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
@@ -3634,8 +3634,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-12-28T09:03:17.5303608+00:00",
-  "LastChanged_Achievements": "2024-01-03T11:05:45.6497513+00:00",
+  "LastChanged_Achievements": "2024-01-03T12:06:18.5223141+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:18.8535407+00:00",
-  "LastUpdate_Ratings": "2024-01-03T10:58:57.8446074+00:00",
-  "LastUpdate_Achievements": "2024-01-03T11:05:45.6498102+00:00"
+  "LastUpdate_Ratings": "2024-01-03T11:59:13.1163033+00:00",
+  "LastUpdate_Achievements": "2024-01-03T12:06:18.5223603+00:00"
 }

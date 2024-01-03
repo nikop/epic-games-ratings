@@ -1,17 +1,17 @@
 # Disney Speedstorm
 [Store](https://store.epicgames.com/en-US/p/disney-speedstorm)  
 [View Rawdata](../../db/d/disney_speedstorm.json)  
-Rating: 4.42 (Ranked 734)  
+Rating: 4.42 (Ranked 735)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 13.00% | ~49,657 |
-| IT MAKES BOOM! | 8.00% | ~30,558 |
-| EXTRA BOOST | 6.00% | ~22,919 |
-| PROTECTED | 5.00% | ~19,099 |
-| HERE ARE SOME BARE NECESSITIES | 4.00% | ~15,279 |
-| PRO | 4.00% | ~15,279 |
-| AGGRESSIVE RACER | 3.00% | ~11,459 |
+| ROOKIE | 13.00% | ~49,662 |
+| IT MAKES BOOM! | 8.00% | ~30,561 |
+| EXTRA BOOST | 6.00% | ~22,921 |
+| PROTECTED | 5.00% | ~19,101 |
+| HERE ARE SOME BARE NECESSITIES | 4.00% | ~15,281 |
+| PRO | 4.00% | ~15,281 |
+| AGGRESSIVE RACER | 3.00% | ~11,460 |
 | IT'S A LONG WAY TO THE TOP | 2.00% | ~7,640 |
 | TRAINING HARD | 2.00% | ~7,640 |
 | ACE SPEEDSTER | 2.00% | ~7,640 |
@@ -30,7 +30,7 @@ Rating: 4.42 (Ranked 734)
 | PERFECTLY POISED | 0.60% | ~2,292 |
 | ACE TRICKSTER | 0.60% | ~2,292 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 381,978 (Ranked 52)  
+Progressed: 382,015 (Ranked 52)  
 Completed: 1,408 (0.37%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,14 +284,14 @@ Completed: 1,408 (0.37%) (Ranked 237)
 | 2023-12-31 | 378,169 | 1,353 |
 | 2024-01-01 | 379,893 | 1,380 |
 | 2024-01-02 | 381,442 | 1,405 |
-| 2024-01-03 | 381,978 | 1,408 |
+| 2024-01-03 | 382,015 | 1,408 |
 ## Awards
-Max (Great for Beginners): 165  (Ranked 321)  
-Sum: 1,092 (Ranked 263)  
-Diff (max vs sum): 58  
+Max (Great for Beginners): 167  (Ranked 320)  
+Sum: 1,094 (Ranked 263)  
+Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 165 |
+| This game is Great for Beginners | 167 |
 | This game is Great for Quick Sessions | 151 |
 | This game has Diverse Characters | 121 |
 | This game has a Competitive Community | 97 |
@@ -400,3 +400,4 @@ Diff (max vs sum): 58
 | 2023-12-31 | 4.42 | 164 | 1,076 |
 | 2024-01-01 | 4.42 | 165 | 1,083 |
 | 2024-01-02 | 4.42 | 165 | 1,092 |
+| 2024-01-03 | 4.42 | 167 | 1,094 |

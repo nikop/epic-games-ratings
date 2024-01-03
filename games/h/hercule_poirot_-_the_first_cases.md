@@ -1,59 +1,59 @@
 # Hercule Poirot - The First Cases
 [Store](https://store.epicgames.com/en-US/p/hercule-poirot-the-first-cases-584238)  
 [View Rawdata](../../db/h/hercule_poirot_-_the_first_cases.json)  
-Rating: 4.38 (Ranked 785)  
+Rating: 4.38 (Ranked 786)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It Wasn’t a Burglary | 88.00% | ~427 |
-| Luc Piette | 74.00% | ~359 |
-| Angeline Van den Bosch | 73.00% | ~354 |
-| Elizabeth Padget | 69.00% | ~335 |
-| Little Grey Cells | 68.00% | ~330 |
-| The Bracelet | 65.00% | ~315 |
-| The Blackmail | 54.00% | ~262 |
-| Florette Duval | 54.00% | ~262 |
-| Major Felix Hagen | 54.00% | ~262 |
-| Fine-toothed Comb | 53.00% | ~257 |
-| Order and Method | 52.00% | ~252 |
-| The Altercation | 49.00% | ~238 |
-| Truth from Within | 48.00% | ~233 |
-| The Major | 46.00% | ~223 |
-| Curious and Beautiful | 44.00% | ~213 |
-| Comtesse Margaux de Vos | 44.00% | ~213 |
+| It Wasn’t a Burglary | 88.00% | ~429 |
+| Luc Piette | 74.00% | ~360 |
+| Angeline Van den Bosch | 72.00% | ~351 |
+| Elizabeth Padget | 69.00% | ~336 |
+| Little Grey Cells | 67.00% | ~326 |
+| The Bracelet | 64.00% | ~312 |
+| The Blackmail | 54.00% | ~263 |
+| Major Felix Hagen | 54.00% | ~263 |
+| Florette Duval | 53.00% | ~258 |
+| Order and Method | 52.00% | ~253 |
+| Fine-toothed Comb | 52.00% | ~253 |
+| The Altercation | 49.00% | ~239 |
+| Truth from Within | 48.00% | ~234 |
+| The Major | 46.00% | ~224 |
+| Curious and Beautiful | 44.00% | ~214 |
+| Comtesse Margaux de Vos | 44.00% | ~214 |
 | Jacqueline “Jackie” Conrad | 43.00% | ~209 |
 | The Interrogations | 43.00% | ~209 |
-| Well-acquainted | 41.00% | ~199 |
-| Zakariya Demir | 41.00% | ~199 |
-| Well-read | 39.00% | ~189 |
-| Cassandra Van den Bosch | 38.00% | ~184 |
-| The Secret | 37.00% | ~179 |
+| Well-acquainted | 41.00% | ~200 |
+| Zakariya Demir | 40.00% | ~195 |
+| Well-read | 39.00% | ~190 |
+| Cassandra Van den Bosch | 37.00% | ~180 |
+| The Secret | 37.00% | ~180 |
 | Gedeon Demir | 35.00% | ~170 |
-| Rehana Piette | 34.00% | ~165 |
-| Instinct is Marvellous | 33.00% | ~160 |
-| Ernesto da Silva | 33.00% | ~160 |
-| Inge Frank | 31.00% | ~150 |
-| The Search | 31.00% | ~150 |
+| Rehana Piette | 34.00% | ~166 |
+| Instinct is Marvellous | 33.00% | ~161 |
+| Ernesto da Silva | 33.00% | ~161 |
+| Inge Frank | 31.00% | ~151 |
+| The Search | 31.00% | ~151 |
 | Hugo Beckers | 30.00% | ~146 |
 | The Family | 28.00% | ~136 |
 | Well-travelled | 27.00% | ~131 |
 | Thinking of Everything | 27.00% | ~131 |
-| Archibald Sterling | 26.00% | ~126 |
-| Viscount Edwin Van den Bosch | 26.00% | ~126 |
-| Exquisite Artwork | 25.00% | ~121 |
+| Archibald Sterling | 26.00% | ~127 |
+| Viscount Edwin Van den Bosch | 26.00% | ~127 |
+| Exquisite Artwork | 25.00% | ~122 |
 | Well-prepared | 22.00% | ~107 |
 | The Truth | 21.00% | ~102 |
-| I Like an Audience | 19.00% | ~92 |
-| The Denouement | 18.00% | ~87 |
-| Sunken Secrets | 18.00% | ~87 |
-| What Else Did I Miss? | 18.00% | ~87 |
+| I Like an Audience | 19.00% | ~93 |
+| The Denouement | 18.00% | ~88 |
+| Sunken Secrets | 18.00% | ~88 |
+| What Else Did I Miss? | 18.00% | ~88 |
 | Probably the Greatest Detective in the World | 13.00% | ~63 |
-| Take a Break | 11.00% | ~53 |
+| Take a Break | 11.00% | ~54 |
 | Room with a View | 7.00% | ~34 |
 | Work-life Balance | 2.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 485 (Ranked 346)  
-Completed: 6 (1.24%) (Ranked 158)  
+Progressed: 487 (Ranked 345)  
+Completed: 6 (1.23%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -152,6 +152,7 @@ Completed: 6 (1.24%) (Ranked 158)
 | 2023-12-31 | 482 | 6 |
 | 2024-01-01 | 484 | 6 |
 | 2024-01-02 | 485 | 6 |
+| 2024-01-03 | 487 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

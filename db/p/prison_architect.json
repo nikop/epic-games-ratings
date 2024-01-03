@@ -5,7 +5,7 @@
   "Ranking_Rating": 400,
   "Ranking_Popularity": 202,
   "Ranking_PopularitySum": 151,
-  "Ranking_EOS_Progress": 79,
+  "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 367,
   "Ranking_EOS_NewPlayers": 58,
   "Ranking_EOS_NewCompleters": 152,
@@ -8007,9 +8007,9 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 211337,
+  "EOS_Progressed": 211345,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 2962,
+  "EOS_NewPlayers": 2951,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -37622,6 +37622,11 @@
       "Time": "2024-01-03T11:09:25.2855916+00:00",
       "NumProgressed": 211337,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-03T12:10:00.8690484+00:00",
+      "NumProgressed": 211345,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 16,
@@ -37665,7 +37670,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 33814
+      "UsersEstimate": 33815
     },
     {
       "ID": "Achievement_13",
@@ -37713,7 +37718,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 52834
+      "UsersEstimate": 52836
     },
     {
       "ID": "Achievement_5",
@@ -37745,7 +37750,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 19020
+      "UsersEstimate": 19021
     },
     {
       "ID": "Achievement_9",
@@ -37753,22 +37758,22 @@
       "Name": "Spare The Rod",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 8453
+      "UsersEstimate": 8454
     }
   ],
   "AchievementSets": [
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 211337,
+      "Progressed": 211345,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2024-01-03T04:58:47.3321539+00:00",
-  "LastChanged_Achievements": "2024-01-03T11:09:25.2855911+00:00",
+  "LastChanged_Achievements": "2024-01-03T12:10:00.8690479+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:17.0553999+00:00",
-  "LastUpdate_Ratings": "2024-01-03T10:58:57.6037052+00:00",
-  "LastUpdate_Achievements": "2024-01-03T11:09:25.2857678+00:00"
+  "LastUpdate_Ratings": "2024-01-03T11:59:12.9810219+00:00",
+  "LastUpdate_Achievements": "2024-01-03T12:10:00.869196+00:00"
 }

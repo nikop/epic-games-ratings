@@ -4,7 +4,7 @@
   "ProductSlug": "total-war-warhammer-3",
   "Ranking_Rating": 202,
   "Ranking_Popularity": 113,
-  "Ranking_PopularitySum": 107,
+  "Ranking_PopularitySum": 106,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 570,
@@ -9680,10 +9680,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 8361,
       "NumberOfAwardsMax": 2234
+    },
+    {
+      "Time": "2024-01-03T11:58:53.9134276+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 8362,
+      "NumberOfAwardsMax": 2234
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8361,
+  "NumberOfAwards": 8362,
   "NumberOfAwardsMax": 2234,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -9721,7 +9727,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 517
+      "Count": 518
     },
     {
       "Text": "This game is Highly Recommended",
@@ -9777,8 +9783,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:31.8340221+00:00",
-  "LastChanged": "2024-01-03T08:59:05.8704321+00:00",
+  "LastChanged": "2024-01-03T11:58:53.9134274+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:26.1260099+00:00",
-  "LastUpdate_Ratings": "2024-01-03T10:58:38.7416864+00:00",
-  "LastUpdate_Achievements": "2024-01-03T11:06:28.7549912+00:00"
+  "LastUpdate_Ratings": "2024-01-03T11:58:53.9134292+00:00",
+  "LastUpdate_Achievements": "2024-01-03T12:08:26.0343491+00:00"
 }

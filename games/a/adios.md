@@ -1,24 +1,24 @@
 # Adios
 [Store](https://store.epicgames.com/en-US/p/adios-b378b4)  
 [View Rawdata](../../db/a/adios.json)  
-Rating: 3.47 (Ranked 1,088)  
+Rating: 3.47 (Ranked 1,089)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 22.00% | ~18,155 |
+| Be Seeing You | 22.00% | ~18,156 |
 | Master, Commander | 21.00% | ~17,330 |
-| Hard Worker | 20.00% | ~16,504 |
-| Adios, Friendo | 19.00% | ~15,679 |
-| Mechanic | 19.00% | ~15,679 |
-| Bottom's Up | 18.00% | ~14,854 |
+| Hard Worker | 20.00% | ~16,505 |
+| Adios, Friendo | 19.00% | ~15,680 |
+| Mechanic | 19.00% | ~15,680 |
+| Bottom's Up | 18.00% | ~14,855 |
 | Nice Try | 16.00% | ~13,204 |
-| Right On Target | 14.00% | ~11,553 |
-| Piano Man | 11.00% | ~9,077 |
+| Right On Target | 14.00% | ~11,554 |
+| Piano Man | 11.00% | ~9,078 |
 | Lazy Bones | 9.00% | ~7,427 |
 | Vinyl Vibes | 8.00% | ~6,602 |
 | Nothing Left to Say | 7.00% | ~5,777 |
 | Sniper | 7.00% | ~5,777 |
-| Cut Call | 6.00% | ~4,951 |
+| Cut Call | 6.00% | ~4,952 |
 | Magnetic Miracles | 5.00% | ~4,126 |
 | Butcher | 4.00% | ~3,301 |
 | Fair's Fair | 4.00% | ~3,301 |
@@ -28,10 +28,10 @@ Rating: 3.47 (Ranked 1,088)
 | Hearty | 3.00% | ~2,476 |
 | Meaty | 3.00% | ~2,476 |
 | Taco Toto | 3.00% | ~2,476 |
-| Audiophile | 2.00% | ~1,650 |
-| Tape Head | 2.00% | ~1,650 |
+| Audiophile | 2.00% | ~1,651 |
+| Tape Head | 2.00% | ~1,651 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,522 (Ranked 106)  
+Progressed: 82,526 (Ranked 106)  
 Completed: 910 (1.10%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 910 (1.10%) (Ranked 165)
 | 2023-12-31 | 82,272 | 906 |
 | 2024-01-01 | 82,385 | 908 |
 | 2024-01-02 | 82,485 | 909 |
-| 2024-01-03 | 82,522 | 910 |
+| 2024-01-03 | 82,526 | 910 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

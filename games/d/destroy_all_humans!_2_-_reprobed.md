@@ -1,7 +1,7 @@
 # Destroy All Humans! 2 - Reprobed
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans-2-reprobed)  
 [View Rawdata](../../db/d/destroy_all_humans!_2_-_reprobed.json)  
-Rating: 4.53 (Ranked 560)  
+Rating: 4.54 (Ranked 544)  
 Number of Ratings: 90  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -145,3 +145,4 @@ Diff (max vs sum): -32
 | 2023-12-12 | 4.53 | - | 36 | 36 |
 | 2023-12-28 | 4.54 | - | 36 | 36 |
 | 2023-12-31 | 4.53 | - | 36 | 36 |
+| 2024-01-03 | 4.54 | - | 36 | 36 |

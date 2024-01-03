@@ -2,7 +2,7 @@
   "ID": "ddce4dcb2dee4a3693e902573c77b146",
   "Name": "Life Makeover Global",
   "ProductSlug": "lifemakeoverglobal-1aa05a",
-  "Ranking_Rating": 818,
+  "Ranking_Rating": 800,
   "Ranking_Popularity": 578,
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 820,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.35,
+  "Rating": 4.37,
   "RatingHistory": [
     {
       "Time": "2023-12-13T01:50:49.5895067+00:00",
@@ -119,6 +119,12 @@
       "Rating": 4.35,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-03T12:00:48.0956489+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -137,8 +143,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-15T14:58:09.2692979+00:00",
   "FirstSeenRating": "2023-12-13T01:50:49.5895065+00:00",
-  "LastChanged": "2024-01-01T23:00:38.8128829+00:00",
+  "LastChanged": "2024-01-03T12:00:48.0956487+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:06.2744297+00:00",
-  "LastUpdate_Ratings": "2024-01-03T11:00:24.1539944+00:00",
-  "LastUpdate_Achievements": "2024-01-03T11:08:36.6628876+00:00"
+  "LastUpdate_Ratings": "2024-01-03T12:00:48.0956498+00:00",
+  "LastUpdate_Achievements": "2024-01-03T12:09:06.8979748+00:00"
 }

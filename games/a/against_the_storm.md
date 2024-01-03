@@ -6,11 +6,11 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Abandoned Settlement | 8.00% | ~1,601 |
 | Overgrown Library | 8.00% | ~1,601 |
 | First Real Expedition | 7.00% | ~1,401 |
 | Taking Action | 7.00% | ~1,401 |
 | No Deaths | 7.00% | ~1,401 |
-| Abandoned Settlement | 7.00% | ~1,401 |
 | Petrified Necropolis | 7.00% | ~1,401 |
 | The Marshlands | 6.00% | ~1,201 |
 | Overcoming Difficulty | 5.00% | ~1,001 |
@@ -22,15 +22,15 @@ Number of Ratings: 1,845  (23.09.2022)
 | Gathering Storm | 5.00% | ~1,001 |
 | Royal Outpost | 4.00% | ~801 |
 | Watchtower | 4.00% | ~801 |
-| Homesick | 3.00% | ~600 |
-| Ruined Armory | 3.00% | ~600 |
-| Fertile Meadows | 3.00% | ~600 |
-| Levitating Monument | 3.00% | ~600 |
-| Monastery of the Holy Flame | 3.00% | ~600 |
-| Lost Colonies | 3.00% | ~600 |
-| A Real Challenge | 3.00% | ~600 |
-| Trade Baron | 3.00% | ~600 |
-| Untamed Wilds | 3.00% | ~600 |
+| Homesick | 3.00% | ~601 |
+| Ruined Armory | 3.00% | ~601 |
+| Fertile Meadows | 3.00% | ~601 |
+| Levitating Monument | 3.00% | ~601 |
+| Monastery of the Holy Flame | 3.00% | ~601 |
+| Lost Colonies | 3.00% | ~601 |
+| A Real Challenge | 3.00% | ~601 |
+| Trade Baron | 3.00% | ~601 |
+| Untamed Wilds | 3.00% | ~601 |
 | Against All Odds | 2.00% | ~400 |
 | Bandit Camp | 2.00% | ~400 |
 | Barren Lands | 2.00% | ~400 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,015 (Ranked 152)  
+Progressed: 20,018 (Ranked 152)  
 Completed: 33 (0.16%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 33 (0.16%) (Ranked 282)
 | 2023-12-31 | 19,834 | 34 |
 | 2024-01-01 | 19,919 | 33 |
 | 2024-01-02 | 19,991 | 33 |
-| 2024-01-03 | 20,015 | 33 |
+| 2024-01-03 | 20,018 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 447  (Ranked 230)  
 Sum: 3,320 (Ranked 178)  

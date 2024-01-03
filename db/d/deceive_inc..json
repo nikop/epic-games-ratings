@@ -2,12 +2,12 @@
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
-  "Ranking_Rating": 445,
+  "Ranking_Rating": 446,
   "Ranking_Popularity": 578,
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19243,
+  "EOS_Progressed": 19244,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -14370,6 +14370,11 @@
       "Time": "2024-01-03T09:06:07.8921621+00:00",
       "NumProgressed": 19243,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-03T12:05:45.7239202+00:00",
+      "NumProgressed": 19244,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -14565,7 +14570,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4233
+      "UsersEstimate": 4234
     },
     {
       "ID": "0025",
@@ -14668,7 +14673,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19243,
+      "Progressed": 19244,
       "Completed": 4
     }
   ],
@@ -14676,8 +14681,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-12-30T02:18:11.77416+00:00",
-  "LastChanged_Achievements": "2024-01-03T11:05:15.4501553+00:00",
+  "LastChanged_Achievements": "2024-01-03T12:05:45.7239188+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:48.2583913+00:00",
-  "LastUpdate_Ratings": "2024-01-03T10:57:19.344281+00:00",
-  "LastUpdate_Achievements": "2024-01-03T11:05:15.4502319+00:00"
+  "LastUpdate_Ratings": "2024-01-03T11:57:26.9255664+00:00",
+  "LastUpdate_Achievements": "2024-01-03T12:05:45.7240245+00:00"
 }

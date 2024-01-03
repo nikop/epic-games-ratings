@@ -6,30 +6,30 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 5.00% | ~37,627 |
-| The Assault | 4.00% | ~30,101 |
-| Life is your teacher | 4.00% | ~30,101 |
-| Lightning Hands | 4.00% | ~30,101 |
-| The Hateful Pole Fighter | 2.00% | ~15,051 |
-| A Lady's Blood in the Snow | 2.00% | ~15,051 |
-| Lady Wing Chun | 2.00% | ~15,051 |
-| Kill Nil | 2.00% | ~15,051 |
-| Stuntmaster | 2.00% | ~15,051 |
-| Street Fighting | 2.00% | ~15,051 |
-| State of constant learning | 2.00% | ~15,051 |
-| Qi Gong: Breath | 2.00% | ~15,051 |
-| Qi Gong: Essence | 2.00% | ~15,051 |
-| I know Kung-Fu | 2.00% | ~15,051 |
-| Old Child | 2.00% | ~15,051 |
-| Path of the Prospect | 2.00% | ~15,051 |
-| Rumble in the Hangar | 2.00% | ~15,051 |
-| Diligence as a goal | 2.00% | ~1,237 |
-| Furious Fists | 1.00% | ~7,525 |
-| Scareless | 1.00% | ~7,525 |
-| Qi Gong: Mind | 1.00% | ~7,525 |
-| Kung-Fu Tussle | 1.00% | ~7,525 |
-| Take damage to save time | 1.00% | ~7,525 |
-| Project Arena | 1.00% | ~618 |
+| The Old Grandmaster | 5.00% | ~37,629 |
+| The Assault | 4.00% | ~30,103 |
+| Life is your teacher | 4.00% | ~30,103 |
+| Lightning Hands | 4.00% | ~30,103 |
+| The Hateful Pole Fighter | 2.00% | ~15,052 |
+| A Lady's Blood in the Snow | 2.00% | ~15,052 |
+| Lady Wing Chun | 2.00% | ~15,052 |
+| Kill Nil | 2.00% | ~15,052 |
+| Stuntmaster | 2.00% | ~15,052 |
+| Street Fighting | 2.00% | ~15,052 |
+| State of constant learning | 2.00% | ~15,052 |
+| Qi Gong: Breath | 2.00% | ~15,052 |
+| Qi Gong: Essence | 2.00% | ~15,052 |
+| I know Kung-Fu | 2.00% | ~15,052 |
+| Old Child | 2.00% | ~15,052 |
+| Path of the Prospect | 2.00% | ~15,052 |
+| Rumble in the Hangar | 2.00% | ~15,052 |
+| Diligence as a goal | 2.00% | ~1,238 |
+| Furious Fists | 1.00% | ~7,526 |
+| Scareless | 1.00% | ~7,526 |
+| Qi Gong: Mind | 1.00% | ~7,526 |
+| Kung-Fu Tussle | 1.00% | ~7,526 |
+| Take damage to save time | 1.00% | ~7,526 |
+| Project Arena | 1.00% | ~619 |
 | Dance of the Praying Mantis | 0.90% | ~6,773 |
 | Fight the way you practice | 0.80% | ~495 |
 | Muk Yan Master | 0.60% | ~4,515 |
@@ -43,7 +43,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Legendary Talismans of Wuxing | 0.40% | ~3,010 |
 | Prodigal Child | 0.40% | ~3,010 |
 | The 36th Chamber of Kung-Fu | 0.40% | ~3,010 |
-| The best strikes are the ones we avoid | 0.40% | ~247 |
+| The best strikes are the ones we avoid | 0.40% | ~248 |
 | Drunken Fighter | 0.30% | ~2,258 |
 | Martial Artist | 0.30% | ~2,258 |
 | Knowledge Greed | 0.30% | ~2,258 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~62 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 752,535 (Ranked 24)  
+Progressed: 752,581 (Ranked 24)  
 Completed: 12,972 (1.72%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,14 +325,14 @@ Completed: 12,972 (1.72%) (Ranked 141)
 | 2023-12-31 | 750,399 | 12,971 |
 | 2024-01-01 | 751,425 | 12,971 |
 | 2024-01-02 | 752,188 | 12,971 |
-| 2024-01-03 | 752,535 | 12,972 |
+| 2024-01-03 | 752,581 | 12,972 |
 ## Awards
-Max (Great Boss Battles): 7,079  (Ranked 55)  
-Sum: 11,978 (Ranked 87)  
+Max (Great Boss Battles): 7,088  (Ranked 55)  
+Sum: 11,987 (Ranked 87)  
 Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 7,079 |
+| This game has Great Boss Battles | 7,088 |
 | This game has Diverse Characters | 693 |
 | This game has Challenging Combat | 637 |
 | This game has Amazing Storytelling | 613 |
@@ -697,3 +697,4 @@ Diff (max vs sum): -32
 | 2023-12-31 | 4.82 | - | 7,061 | 12,502 |
 | 2024-01-01 | 4.82 | - | 7,070 | 11,967 |
 | 2024-01-02 | 4.82 | - | 7,079 | 11,978 |
+| 2024-01-03 | 4.82 | - | 7,088 | 11,987 |

@@ -2,9 +2,9 @@
   "ID": "9070f19d29354e45abf338e566da7ced",
   "Name": "FORECLOSED",
   "ProductSlug": "foreclosed",
-  "Ranking_EOS_Progress": 459,
-  "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 386,
+  "Ranking_EOS_Progress": 458,
+  "Ranking_EOS_Completed": 134,
+  "Ranking_EOS_NewPlayers": 385,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-08-12T13:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 137,
+  "EOS_Progressed": 138,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.19,
+  "EOS_Completed_Percentage": 2.17,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:36.3929113+00:00",
@@ -374,6 +374,11 @@
       "Time": "2024-01-02T19:06:14.9459333+00:00",
       "NumProgressed": 137,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-03T12:05:31.3314084+00:00",
+      "NumProgressed": 138,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 24,
@@ -383,9 +388,9 @@
       "ID": "AllCreditorsComplete",
       "SetID": "9e3d06k",
       "Name": "Full and Final Settlement",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "AutoBullets_0",
@@ -393,7 +398,7 @@
       "Name": "Hunter",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "AutoBullets_1",
@@ -439,9 +444,9 @@
       "ID": "FirstAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Breaking Through",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 98
     },
     {
       "ID": "FirstSkillBuy",
@@ -449,13 +454,13 @@
       "Name": "A.I. Training",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "GunUnlock",
       "SetID": "9e3d06k",
       "Name": "Symbiotic Weapon",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 5,
       "UsersEstimate": 75
     },
@@ -481,7 +486,7 @@
       "Name": "The Red Herring",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "LiftEnemies_0",
@@ -497,7 +502,7 @@
       "Name": "Zero Gravity",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Neuroconnector",
@@ -513,7 +518,7 @@
       "Name": "Silent Overload",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "SecretEnding",
@@ -543,9 +548,9 @@
       "ID": "StoryEnd",
       "SetID": "9e3d06k",
       "Name": "One Click Away",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "TelekinesisThrow_0",
@@ -576,7 +581,7 @@
     {
       "ID": "9e3d06k",
       "IsBase": true,
-      "Progressed": 137,
+      "Progressed": 138,
       "Completed": 3
     }
   ],
@@ -584,8 +589,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
   "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
-  "LastChanged_Achievements": "2024-01-03T11:05:01.6157724+00:00",
+  "LastChanged_Achievements": "2024-01-03T12:05:31.3314079+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:54.8333074+00:00",
-  "LastUpdate_Ratings": "2024-01-03T10:59:26.8207184+00:00",
-  "LastUpdate_Achievements": "2024-01-03T11:05:01.6157863+00:00"
+  "LastUpdate_Ratings": "2024-01-03T11:59:45.9963944+00:00",
+  "LastUpdate_Achievements": "2024-01-03T12:05:31.3314233+00:00"
 }

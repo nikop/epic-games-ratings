@@ -2,12 +2,12 @@
   "ID": "fa9a00f7f82846b4b820e6152b69aa55",
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
-  "Ranking_Rating": 1089,
+  "Ranking_Rating": 1090,
   "Ranking_Popularity": 578,
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2164,
+  "EOS_Progressed": 2165,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -8325,6 +8325,11 @@
       "Time": "2024-01-03T11:03:22.2842698+00:00",
       "NumProgressed": 2164,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-03T12:03:43.5335494+00:00",
+      "NumProgressed": 2165,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8344,7 +8349,7 @@
       "Name": "Exterminator",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ach_defeat_players_10",
@@ -8639,7 +8644,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2164,
+      "Progressed": 2165,
       "Completed": 1
     }
   ],
@@ -8647,8 +8652,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-25T23:58:10.3014256+00:00",
-  "LastChanged_Achievements": "2024-01-03T11:03:22.2842693+00:00",
+  "LastChanged_Achievements": "2024-01-03T12:03:43.5335491+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:25.9392392+00:00",
-  "LastUpdate_Ratings": "2024-01-03T10:58:40.7320666+00:00",
-  "LastUpdate_Achievements": "2024-01-03T11:03:22.2843257+00:00"
+  "LastUpdate_Ratings": "2024-01-03T11:58:56.4967783+00:00",
+  "LastUpdate_Achievements": "2024-01-03T12:03:43.5336132+00:00"
 }

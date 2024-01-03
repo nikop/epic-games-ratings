@@ -2,12 +2,12 @@
   "ID": "1696ef78f67c411ea67d2c2b8e9bc5a6",
   "Name": "Cartel Tycoon",
   "ProductSlug": "cartel-tycoon",
-  "Ranking_Rating": 805,
+  "Ranking_Rating": 807,
   "Ranking_Popularity": 578,
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 919,
+  "EOS_Progressed": 920,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -3261,6 +3261,11 @@
       "Time": "2024-01-03T01:52:20.6255096+00:00",
       "NumProgressed": 919,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-03T12:03:46.6393902+00:00",
+      "NumProgressed": 920,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3296,7 +3301,7 @@
       "Name": "Didn\u0027t Miss A Single One",
       "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "female-conqueror",
@@ -3320,7 +3325,7 @@
       "Name": "Our Man",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "kill-lieutenants",
@@ -3336,7 +3341,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "play-at-night",
@@ -3376,7 +3381,7 @@
       "Name": "Bite the Blow",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "sell-variety",
@@ -3384,7 +3389,7 @@
       "Name": "Spread",
       "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "send-smuggling",
@@ -3392,7 +3397,7 @@
       "Name": "Camellos",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "unlock-residences",
@@ -3408,7 +3413,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 735
+      "UsersEstimate": 736
     },
     {
       "ID": "use-submarine",
@@ -3423,15 +3428,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 919,
+      "Progressed": 920,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-23T10:57:58.3271618+00:00",
-  "LastChanged_Achievements": "2024-01-03T11:03:24.8517255+00:00",
+  "LastChanged_Achievements": "2024-01-03T12:03:46.6393895+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:28.1140989+00:00",
-  "LastUpdate_Ratings": "2024-01-03T11:02:47.1911854+00:00",
-  "LastUpdate_Achievements": "2024-01-03T11:03:24.8517526+00:00"
+  "LastUpdate_Ratings": "2024-01-03T12:03:02.0225195+00:00",
+  "LastUpdate_Achievements": "2024-01-03T12:03:46.6394211+00:00"
 }

@@ -450,9 +450,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 948,
+  "EOS_Progressed": 951,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3400,6 +3400,11 @@
       "Time": "2024-01-03T11:08:52.0829115+00:00",
       "NumProgressed": 948,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T12:09:24.1959401+00:00",
+      "NumProgressed": 951,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3420,7 +3425,7 @@
       "Name": "The Song of Stoutheart",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ArleonCampaignFinaleOnHard",
@@ -3436,7 +3441,7 @@
       "Name": "Dressed For Success",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "AttackCount",
@@ -3484,7 +3489,7 @@
       "Name": "Versatile Wielder",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ChainLightningKills",
@@ -3556,7 +3561,7 @@
       "Name": "Double Kill",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "FlameAttackKillCount",
@@ -3604,7 +3609,7 @@
       "Name": "Together For Her",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "LothCampaignFinaleOnHard",
@@ -3620,7 +3625,7 @@
       "Name": "Multi Kill",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "MultiplayerWins",
@@ -3676,7 +3681,7 @@
       "Name": "Don\u0027t Touch My Stuff",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "RepelIntoExplosiveFungi",
@@ -3684,7 +3689,7 @@
       "Name": "Such A Fungi",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "SorcerousSpree",
@@ -3716,7 +3721,7 @@
       "Name": "Landlord Extraordinaire",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "TrojanHorse",
@@ -3740,7 +3745,7 @@
       "Name": "Adept",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "WielderLevel2",
@@ -3756,7 +3761,7 @@
       "Name": "Master",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "WielderLevel4",
@@ -3764,7 +3769,7 @@
       "Name": "Grand Master",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "WinBattleBeforeEnemyTurn",
@@ -3772,7 +3777,7 @@
       "Name": "Humiliation",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "WinBattleWithOneUnitLeft",
@@ -3788,7 +3793,7 @@
       "Name": "Expert Essence Employment",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "WinSiegeAsAttacker",
@@ -3804,7 +3809,7 @@
       "Name": "Venisti, Vidisti, Perdidisti",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "WinsWithFactionArleon",
@@ -3843,15 +3848,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 948,
+      "Progressed": 951,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2024-01-03T11:08:52.082911+00:00",
+  "LastChanged_Achievements": "2024-01-03T12:09:24.1959396+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:53.9356991+00:00",
-  "LastUpdate_Ratings": "2024-01-03T10:57:44.3404385+00:00",
-  "LastUpdate_Achievements": "2024-01-03T11:08:52.0829764+00:00"
+  "LastUpdate_Ratings": "2024-01-03T11:57:54.0997856+00:00",
+  "LastUpdate_Achievements": "2024-01-03T12:09:24.1959974+00:00"
 }

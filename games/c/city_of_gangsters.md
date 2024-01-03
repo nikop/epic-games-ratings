@@ -1,34 +1,34 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.29 (Ranked 876)  
+Rating: 4.29 (Ranked 877)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~165,654 |
-| Copacetic Coordination | 16.00% | ~57,619 |
-| Fronting the Money | 15.00% | ~54,018 |
-| The Dawn of Automation | 14.00% | ~50,417 |
-| Extraordinary Logistics | 14.00% | ~50,417 |
-| Dirty Money | 13.00% | ~46,815 |
-| Family First | 13.00% | ~46,815 |
-| Cleaning House | 12.00% | ~43,214 |
-| Room in the Back | 12.00% | ~43,214 |
-| Beating the Heat | 11.00% | ~39,613 |
-| Booze Baron | 11.00% | ~39,613 |
-| Friends on the Force | 10.00% | ~36,012 |
-| Neighborhood Watch | 10.00% | ~36,012 |
-| Core Corps | 8.00% | ~28,809 |
-| Sizeable Stash | 8.00% | ~28,809 |
-| Street Fighter | 7.00% | ~25,208 |
-| Friendly Gestures | 7.00% | ~25,208 |
-| People Person | 7.00% | ~25,208 |
-| Liquor Lord | 6.00% | ~21,607 |
-| Safety in Numbers | 6.00% | ~21,607 |
-| Moving Experiences | 6.00% | ~21,607 |
-| Wise Head | 6.00% | ~21,607 |
-| Show ‘em the Sugar | 6.00% | ~21,607 |
-| Killing Them Softly | 6.00% | ~21,607 |
+| Corner Clout | 46.00% | ~165,659 |
+| Copacetic Coordination | 16.00% | ~57,620 |
+| Fronting the Money | 15.00% | ~54,019 |
+| The Dawn of Automation | 14.00% | ~50,418 |
+| Extraordinary Logistics | 14.00% | ~50,418 |
+| Dirty Money | 13.00% | ~46,817 |
+| Family First | 13.00% | ~46,817 |
+| Cleaning House | 12.00% | ~43,215 |
+| Room in the Back | 12.00% | ~43,215 |
+| Beating the Heat | 11.00% | ~39,614 |
+| Booze Baron | 11.00% | ~39,614 |
+| Friends on the Force | 10.00% | ~36,013 |
+| Neighborhood Watch | 10.00% | ~36,013 |
+| Core Corps | 8.00% | ~28,810 |
+| Sizeable Stash | 8.00% | ~28,810 |
+| Street Fighter | 7.00% | ~25,209 |
+| Friendly Gestures | 7.00% | ~25,209 |
+| People Person | 7.00% | ~25,209 |
+| Liquor Lord | 6.00% | ~21,608 |
+| Safety in Numbers | 6.00% | ~21,608 |
+| Moving Experiences | 6.00% | ~21,608 |
+| Wise Head | 6.00% | ~21,608 |
+| Show ‘em the Sugar | 6.00% | ~21,608 |
+| Killing Them Softly | 6.00% | ~21,608 |
 | Street Knowledge | 5.00% | ~18,006 |
 | Oh Captain | 5.00% | ~18,006 |
 | Branching Out | 5.00% | ~18,006 |
@@ -48,11 +48,11 @@ Rating: 4.29 (Ranked 876)
 | Sockdolager | 3.00% | ~10,804 |
 | Still Stalwart | 3.00% | ~10,804 |
 | Tighten the Screws | 3.00% | ~10,804 |
-| One of Us | 2.00% | ~7,202 |
-| Baker’s Dozen | 2.00% | ~7,202 |
-| Dropping the Dime | 2.00% | ~7,202 |
-| Spiffy Speakeasies | 2.00% | ~7,202 |
-| Keeping Your Word | 2.00% | ~7,202 |
+| One of Us | 2.00% | ~7,203 |
+| Baker’s Dozen | 2.00% | ~7,203 |
+| Dropping the Dime | 2.00% | ~7,203 |
+| Spiffy Speakeasies | 2.00% | ~7,203 |
+| Keeping Your Word | 2.00% | ~7,203 |
 | Boxing Them In | 1.00% | ~3,601 |
 | Backroom Empire | 1.00% | ~3,601 |
 | Corner Control | 1.00% | ~3,601 |
@@ -67,9 +67,9 @@ Rating: 4.29 (Ranked 876)
 | Still Dreaming | 0.50% | ~1,801 |
 | Working on the Railroad | 0.50% | ~1,801 |
 | Social Butterfly | 0.50% | ~1,801 |
-| Homemade Hooch | 0.40% | ~1,440 |
-| High End Booze | 0.40% | ~1,440 |
-| In-House Maintenance | 0.40% | ~1,440 |
+| Homemade Hooch | 0.40% | ~1,441 |
+| High End Booze | 0.40% | ~1,441 |
+| In-House Maintenance | 0.40% | ~1,441 |
 | Dirty Work | 0.30% | ~1,080 |
 | Bottled Up | 0.30% | ~1,080 |
 | Streetwise | 0.30% | ~1,080 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 876)
 | High Pillow | 0.10% | ~360 |
 | Station Master | 0.10% | ~360 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 360,118 (Ranked 56)  
+Progressed: 360,128 (Ranked 56)  
 Completed: 7 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -344,7 +344,7 @@ Completed: 7 (0.00%) (Ranked 391)
 | 2023-12-31 | 359,687 | 7 |
 | 2024-01-01 | 359,873 | 7 |
 | 2024-01-02 | 360,046 | 7 |
-| 2024-01-03 | 360,118 | 7 |
+| 2024-01-03 | 360,128 | 7 |
 ## Awards
 Max (Great for Beginners): 58  (Ranked 430)  
 Sum: 267 (Ranked 393)  

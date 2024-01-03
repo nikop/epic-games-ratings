@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4437,
+  "EOS_Progressed": 4440,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -7571,6 +7571,11 @@
       "Time": "2024-01-03T08:07:46.7094065+00:00",
       "NumProgressed": 4437,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-03T12:08:17.6568138+00:00",
+      "NumProgressed": 4440,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -7598,7 +7603,7 @@
       "Name": "Ancestor\u0027s Pride",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ApexPredator_27",
@@ -7606,7 +7611,7 @@
       "Name": "Apex Predator",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "BloodAndJustice_50",
@@ -7622,7 +7627,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1819
+      "UsersEstimate": 1820
     },
     {
       "ID": "CrowdPleaser",
@@ -7646,7 +7651,7 @@
       "Name": "Eureka",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1331
+      "UsersEstimate": 1332
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -7662,7 +7667,7 @@
       "Name": "For All Aurai",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "GiftfromtheAncestors_34",
@@ -7686,7 +7691,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "HouseofCards_19",
@@ -7742,7 +7747,7 @@
       "Name": "Memory of a legend",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "PerfectDefense_31",
@@ -7766,7 +7771,7 @@
       "Name": "Ready for Summer",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2174
+      "UsersEstimate": 2176
     },
     {
       "ID": "ReadyforWinter_42",
@@ -7774,7 +7779,7 @@
       "Name": "Ready for Winter",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 2751
+      "UsersEstimate": 2753
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -7782,7 +7787,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -7790,7 +7795,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 1065
+      "UsersEstimate": 1066
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -7806,7 +7811,7 @@
       "Name": "Tapped!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1553
+      "UsersEstimate": 1554
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -7838,7 +7843,7 @@
       "Name": "The Power of Faith",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "ThePowerofFamily_2",
@@ -7854,7 +7859,7 @@
       "Name": "The Power of Freedom",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "TheStuffOfLegends",
@@ -7902,7 +7907,7 @@
       "Name": "Venture Outward",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3239
+      "UsersEstimate": 3241
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -7917,15 +7922,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4437,
+      "Progressed": 4440,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2024-01-03T11:06:23.1946482+00:00",
+  "LastChanged_Achievements": "2024-01-03T12:08:17.6568133+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:23.571083+00:00",
-  "LastUpdate_Ratings": "2024-01-03T11:02:54.8755773+00:00",
-  "LastUpdate_Achievements": "2024-01-03T11:06:23.1947038+00:00"
+  "LastUpdate_Ratings": "2024-01-03T12:03:11.6456437+00:00",
+  "LastUpdate_Achievements": "2024-01-03T12:08:17.6568731+00:00"
 }

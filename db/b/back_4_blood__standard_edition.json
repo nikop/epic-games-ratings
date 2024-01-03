@@ -4,7 +4,7 @@
   "ProductSlug": "back-4-blood",
   "Ranking_Rating": 672,
   "Ranking_Popularity": 90,
-  "Ranking_PopularitySum": 104,
+  "Ranking_PopularitySum": 103,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 570,
@@ -6804,10 +6804,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 8712,
       "NumberOfAwardsMax": 3959
+    },
+    {
+      "Time": "2024-01-03T12:03:14.4600055+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 8714,
+      "NumberOfAwardsMax": 3959
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8712,
+  "NumberOfAwards": 8714,
   "NumberOfAwardsMax": 3959,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6833,7 +6839,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 778
+      "Count": 780
     },
     {
       "Text": "This game is Extremely Fun",
@@ -6871,8 +6877,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:46.310125+00:00",
-  "LastChanged": "2024-01-03T03:03:24.9610111+00:00",
+  "LastChanged": "2024-01-03T12:03:14.4600054+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:25.2322065+00:00",
-  "LastUpdate_Ratings": "2024-01-03T11:02:57.3974814+00:00",
-  "LastUpdate_Achievements": "2024-01-03T11:04:03.9818616+00:00"
+  "LastUpdate_Ratings": "2024-01-03T12:03:14.460006+00:00",
+  "LastUpdate_Achievements": "2024-01-03T12:04:28.7654831+00:00"
 }

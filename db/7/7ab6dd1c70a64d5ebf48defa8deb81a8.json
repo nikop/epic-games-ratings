@@ -2,11 +2,11 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
-  "Ranking_Rating": 976,
+  "Ranking_Rating": 977,
   "Ranking_Popularity": 578,
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 256,
-  "Ranking_EOS_Completed": 277,
+  "Ranking_EOS_Completed": 276,
   "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
@@ -61,9 +61,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1709,
+  "EOS_Progressed": 1711,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 377,
+  "EOS_NewPlayers": 379,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -3356,6 +3356,11 @@
       "Time": "2024-01-03T11:09:47.9657147+00:00",
       "NumProgressed": 1709,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-03T12:10:25.1323057+00:00",
+      "NumProgressed": 1711,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -3367,7 +3372,7 @@
       "Name": "Break Out",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1027
     },
     {
       "ID": "ACH_02",
@@ -3375,7 +3380,7 @@
       "Name": "Find Allies",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "ACH_03",
@@ -3423,7 +3428,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "ACH_09",
@@ -3583,7 +3588,7 @@
       "Name": "I Found It",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "ACH_29",
@@ -3623,7 +3628,7 @@
       "Name": "The Collector",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "ACH_35",
@@ -3654,7 +3659,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1709,
+      "Progressed": 1711,
       "Completed": 3
     }
   ],
@@ -3662,8 +3667,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-02T01:47:19.6899919+00:00",
-  "LastChanged_Achievements": "2024-01-03T11:09:47.9657143+00:00",
+  "LastChanged_Achievements": "2024-01-03T12:10:25.1323049+00:00",
   "LastUpdate_AppInfo": "2024-01-01T22:57:08.0954502+00:00",
-  "LastUpdate_Ratings": "2024-01-03T11:00:28.209644+00:00",
-  "LastUpdate_Achievements": "2024-01-03T11:09:47.9657499+00:00"
+  "LastUpdate_Ratings": "2024-01-03T12:00:52.5006496+00:00",
+  "LastUpdate_Achievements": "2024-01-03T12:10:25.1323685+00:00"
 }

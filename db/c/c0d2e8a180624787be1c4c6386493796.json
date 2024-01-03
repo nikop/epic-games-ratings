@@ -1466,9 +1466,9 @@
       "ID": "KR4_ACHIEVEMENT_KILL_DWARF_ENGINEERS",
       "SetID": "caeik3h",
       "Name": "Can\u0027t Touch This",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 210
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_EASY",
@@ -1682,9 +1682,9 @@
       "ID": "KR4_ACHIEVEMENT_SPAWN_REINFORCEMENTS",
       "SetID": "caeik3h",
       "Name": "We Are Legion!",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 139
     },
     {
       "ID": "KR4_ACHIEVEMENT_SPIDERS",
@@ -1783,8 +1783,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2024-01-03T11:03:40.8780553+00:00",
+  "LastChanged_Achievements": "2024-01-03T12:04:03.8904233+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:04.1058747+00:00",
-  "LastUpdate_Ratings": "2024-01-03T11:00:11.16851+00:00",
-  "LastUpdate_Achievements": "2024-01-03T11:03:40.8781246+00:00"
+  "LastUpdate_Ratings": "2024-01-03T12:00:35.6622802+00:00",
+  "LastUpdate_Achievements": "2024-01-03T12:04:03.8904931+00:00"
 }

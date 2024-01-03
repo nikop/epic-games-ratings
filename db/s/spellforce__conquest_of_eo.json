@@ -4,7 +4,7 @@
   "ProductSlug": "spellforce-conquest-of-eo",
   "Ranking_EOS_Progress": 481,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewPlayers": 318,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 110,
+  "EOS_Progressed": 111,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -559,6 +559,11 @@
       "Time": "2024-01-02T23:10:02.7227139+00:00",
       "NumProgressed": 110,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T12:09:50.7702877+00:00",
+      "NumProgressed": 111,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-25T16:04:46.0994968+00:00",
@@ -577,7 +582,7 @@
       "ID": "Build_First_Lodge",
       "SetID": "7b9f97e",
       "Name": "Expansion",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 15,
       "UsersEstimate": 69
     },
@@ -585,7 +590,7 @@
       "ID": "Build_First_Room",
       "SetID": "7b9f97e",
       "Name": "Enough rooms to swing a cat",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 15,
       "UsersEstimate": 89
     },
@@ -593,7 +598,7 @@
       "ID": "Build_First_Room_Extension",
       "SetID": "7b9f97e",
       "Name": "Redecorating",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
       "UsersEstimate": 37
     },
@@ -603,13 +608,13 @@
       "Name": "Home Sweet Home",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "Cast_First_Spell",
       "SetID": "7b9f97e",
       "Name": "A kind of Magic",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 15,
       "UsersEstimate": 82
     },
@@ -617,7 +622,7 @@
       "ID": "Circle_Page",
       "SetID": "7b9f97e",
       "Name": "The Circle",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
       "UsersEstimate": 37
     },
@@ -723,13 +728,13 @@
       "Name": "Slave to the rhythm",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "First_LevelUp",
       "SetID": "7b9f97e",
       "Name": "First to the post",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 15,
       "UsersEstimate": 88
     },
@@ -977,7 +982,7 @@
       "ID": "Max_Reputation_Gillyshire",
       "SetID": "7b9f97e",
       "Name": "Friend of Gillyshire",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
       "UsersEstimate": 16
     },
@@ -1001,7 +1006,7 @@
       "ID": "Max_Reputation_Sevenkeeps",
       "SetID": "7b9f97e",
       "Name": "Friend of Sevenkeeps",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
       "UsersEstimate": 26
     },
@@ -1011,7 +1016,7 @@
       "Name": "Friend of Silver Drift Hollow",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Max_Reputation_Southwatch",
@@ -1019,7 +1024,7 @@
       "Name": "Friend of Connach",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Max_Reputation_UramGor",
@@ -1091,13 +1096,13 @@
       "Name": "Break Free",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Remove_Raider_From_Tower",
       "SetID": "7b9f97e",
       "Name": "Get out of here!",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 5,
       "UsersEstimate": 48
     },
@@ -1130,7 +1135,7 @@
     {
       "ID": "7b9f97e",
       "IsBase": true,
-      "Progressed": 110,
+      "Progressed": 111,
       "Completed": 0
     }
   ],
@@ -1138,8 +1143,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2024-01-03T11:09:15.8918213+00:00",
+  "LastChanged_Achievements": "2024-01-03T12:09:50.7702872+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:20.4706393+00:00",
-  "LastUpdate_Ratings": "2024-01-03T11:00:08.5733939+00:00",
-  "LastUpdate_Achievements": "2024-01-03T11:09:15.8918907+00:00"
+  "LastUpdate_Ratings": "2024-01-03T12:00:33.0267913+00:00",
+  "LastUpdate_Achievements": "2024-01-03T12:09:50.7703555+00:00"
 }

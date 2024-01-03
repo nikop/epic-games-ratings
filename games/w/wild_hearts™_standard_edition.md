@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Land of the Rising Sun | 99.00% | ~1,081 |
+| Land of the Rising Sun | 100.00% | ~1,092 |
 | Hidden History | 72.00% | ~786 |
 | Commencing of Quests | 61.00% | ~666 |
 | Budding Conjuror | 59.00% | ~644 |

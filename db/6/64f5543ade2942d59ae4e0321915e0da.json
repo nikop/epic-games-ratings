@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 372,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -1719,9 +1719,9 @@
       "ID": "AC_RECIPES_DONE_1",
       "SetID": "16i2akc",
       "Name": "Cook",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 51
     },
     {
       "ID": "AC_RECIPES_DONE_2",
@@ -1782,8 +1782,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-03T11:04:47.3768097+00:00",
+  "LastChanged_Achievements": "2024-01-03T12:05:15.5088607+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:05.7124829+00:00",
-  "LastUpdate_Ratings": "2024-01-03T10:59:50.8331969+00:00",
-  "LastUpdate_Achievements": "2024-01-03T11:04:47.3768414+00:00"
+  "LastUpdate_Ratings": "2024-01-03T12:00:12.7020642+00:00",
+  "LastUpdate_Achievements": "2024-01-03T12:05:15.508915+00:00"
 }

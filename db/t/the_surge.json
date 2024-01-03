@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -400,9 +400,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5215,
+  "EOS_Progressed": 5216,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -4620,6 +4620,11 @@
       "Time": "2024-01-03T11:04:13.8757773+00:00",
       "NumProgressed": 5215,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-03T12:04:39.6199822+00:00",
+      "NumProgressed": 5216,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -4687,7 +4692,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4902
+      "UsersEstimate": 4903
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -4695,7 +4700,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3963
+      "UsersEstimate": 3964
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -4703,7 +4708,7 @@
       "Name": "Hey Listen",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1877
+      "UsersEstimate": 1878
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -4847,7 +4852,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3963
+      "UsersEstimate": 3964
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -4879,7 +4884,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 2816
+      "UsersEstimate": 2817
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -4903,7 +4908,7 @@
       "Name": "Infidel",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1199
+      "UsersEstimate": 1200
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -4975,7 +4980,7 @@
       "Name": "OPERATOR",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1825
+      "UsersEstimate": 1826
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -5166,15 +5171,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5215,
+      "Progressed": 5216,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-31T19:58:10.5906343+00:00",
-  "LastChanged_Achievements": "2024-01-03T11:04:13.8757769+00:00",
+  "LastChanged_Achievements": "2024-01-03T12:04:39.619982+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:44.5404504+00:00",
-  "LastUpdate_Ratings": "2024-01-03T10:59:02.6530208+00:00",
-  "LastUpdate_Achievements": "2024-01-03T11:04:13.8758385+00:00"
+  "LastUpdate_Ratings": "2024-01-03T11:59:19.1593465+00:00",
+  "LastUpdate_Achievements": "2024-01-03T12:04:39.6200504+00:00"
 }

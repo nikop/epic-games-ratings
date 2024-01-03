@@ -2,7 +2,7 @@
   "ID": "144f9e231e2846d1a4381d9bb678f69d",
   "Name": "Warhammer 40,000: Mechanicus - Standard Edition",
   "ProductSlug": "warhammer-mechanicus-0e4b71",
-  "Ranking_Rating": 718,
+  "Ranking_Rating": 719,
   "Ranking_Popularity": 263,
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 76,
@@ -1056,9 +1056,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 231235,
+  "EOS_Progressed": 231238,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 646,
+  "EOS_NewPlayers": 644,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29351,6 +29351,11 @@
       "Time": "2024-01-03T11:09:43.9093542+00:00",
       "NumProgressed": 231235,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-03T12:10:20.9386449+00:00",
+      "NumProgressed": 231238,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -29362,7 +29367,7 @@
       "Name": "This is only the beginning",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 46247
+      "UsersEstimate": 46248
     },
     {
       "ID": "ACH_BASE_10",
@@ -29370,7 +29375,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 60121
+      "UsersEstimate": 60122
     },
     {
       "ID": "ACH_BASE_11",
@@ -29386,7 +29391,7 @@
       "Name": "Competent Cohort",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 9249
+      "UsersEstimate": 9250
     },
     {
       "ID": "ACH_BASE_13",
@@ -29530,7 +29535,7 @@
       "Name": "Celestial Cartography Catastrophe",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9249
+      "UsersEstimate": 9250
     },
     {
       "ID": "ACH_BASE_30",
@@ -29618,7 +29623,7 @@
       "Name": "One with the Machine",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9249
+      "UsersEstimate": 9250
     },
     {
       "ID": "ACH_BASE_9",
@@ -29633,7 +29638,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 231235,
+      "Progressed": 231238,
       "Completed": 5
     }
   ],
@@ -29641,8 +29646,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2024-01-02T09:00:26.6320972+00:00",
-  "LastChanged_Achievements": "2024-01-03T11:09:43.9093537+00:00",
+  "LastChanged_Achievements": "2024-01-03T12:10:20.9386443+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:45.3371168+00:00",
-  "LastUpdate_Ratings": "2024-01-03T10:57:27.2159797+00:00",
-  "LastUpdate_Achievements": "2024-01-03T11:09:43.9094855+00:00"
+  "LastUpdate_Ratings": "2024-01-03T11:57:35.1737624+00:00",
+  "LastUpdate_Achievements": "2024-01-03T12:10:20.938848+00:00"
 }

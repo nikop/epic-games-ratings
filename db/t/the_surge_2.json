@@ -2,12 +2,12 @@
   "ID": "effee7c2775148e9a99f5685d29751d2",
   "Name": "The Surge 2",
   "ProductSlug": "the-surge-2-e7df70",
-  "Ranking_Rating": 896,
+  "Ranking_Rating": 897,
   "Ranking_Popularity": 578,
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2450,
+  "EOS_Progressed": 2451,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -4209,6 +4209,11 @@
       "Time": "2024-01-03T10:06:09.7668386+00:00",
       "NumProgressed": 2450,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-03T12:05:24.7060917+00:00",
+      "NumProgressed": 2451,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4228,7 +4233,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1592
+      "UsersEstimate": 1593
     },
     {
       "ID": "ACHV_03",
@@ -4276,7 +4281,7 @@
       "Name": "Mommy Dearest",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "ACHV_09",
@@ -4284,7 +4289,7 @@
       "Name": "Bad Dog",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "ACHV_10",
@@ -4300,7 +4305,7 @@
       "Name": "Denying Prophecy",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ACHV_12",
@@ -4332,7 +4337,7 @@
       "Name": "Hello Darkness My Old Friend",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACHV_16",
@@ -4356,7 +4361,7 @@
       "Name": "True Survivor",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "ACHV_19",
@@ -4396,7 +4401,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 906
+      "UsersEstimate": 907
     },
     {
       "ID": "ACHV_24",
@@ -4460,7 +4465,7 @@
       "Name": "Where It All Began",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "ACHV_32",
@@ -4476,7 +4481,7 @@
       "Name": "Swiss Army Drone",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACHV_34",
@@ -4516,7 +4521,7 @@
       "Name": "Risk Tolerant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "ACHV_39",
@@ -4532,7 +4537,7 @@
       "Name": "Three Birds With One Stone",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACHV_41",
@@ -4556,7 +4561,7 @@
       "Name": "What A Catchy Song",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "ACHV_44",
@@ -4564,7 +4569,7 @@
       "Name": "Counter-Sniper",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACHV_45",
@@ -4612,7 +4617,7 @@
       "Name": "Shrimp Cocktail",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACHV_51",
@@ -4644,7 +4649,7 @@
       "Name": "The Easy Way Out",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACHV_55",
@@ -4675,7 +4680,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2450,
+      "Progressed": 2451,
       "Completed": 13
     }
   ],
@@ -4683,8 +4688,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-29T03:00:05.8444174+00:00",
-  "LastChanged_Achievements": "2024-01-03T11:04:55.3855141+00:00",
+  "LastChanged_Achievements": "2024-01-03T12:05:24.7060914+00:00",
   "LastUpdate_AppInfo": "2023-12-30T17:56:59.176771+00:00",
-  "LastUpdate_Ratings": "2024-01-03T10:59:18.5204406+00:00",
-  "LastUpdate_Achievements": "2024-01-03T11:04:55.3855763+00:00"
+  "LastUpdate_Ratings": "2024-01-03T11:59:36.8340043+00:00",
+  "LastUpdate_Achievements": "2024-01-03T12:05:24.7061745+00:00"
 }

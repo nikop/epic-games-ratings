@@ -46,8 +46,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Destroy Your Fears | 0.60% | ~1,454 |
 | New Perspectives | 0.60% | ~1,454 |
 | Shapeshifting | 0.60% | ~1,454 |
-| Expensive Look | 0.60% | ~22 |
-| What Doesn't Kill You | 0.60% | ~22 |
+| Expensive Look | 0.60% | ~23 |
+| What Doesn't Kill You | 0.60% | ~23 |
 | To The Death! | 0.50% | ~1,211 |
 | Well Prepared | 0.50% | ~1,211 |
 | Just Chilling | 0.50% | ~1,211 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,270 (Ranked 72)  
+Progressed: 242,272 (Ranked 72)  
 Completed: 303 (0.13%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -403,7 +403,7 @@ Completed: 303 (0.13%) (Ranked 295)
 | 2023-12-31 | 242,129 | 302 |
 | 2024-01-01 | 242,196 | 302 |
 | 2024-01-02 | 242,247 | 303 |
-| 2024-01-03 | 242,270 | 303 |
+| 2024-01-03 | 242,272 | 303 |
 ## Awards
 Max (Quickly Understood Controls): 1,513  (Ranked 136)  
 Sum: 11,781 (Ranked 88)  

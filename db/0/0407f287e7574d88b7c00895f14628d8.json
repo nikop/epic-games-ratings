@@ -815,9 +815,9 @@
       "ID": "fw3",
       "SetID": "b1ggf28",
       "Name": "The Sacrifice",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "g1",
@@ -1134,8 +1134,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-03T11:05:19.1490864+00:00",
+  "LastChanged_Achievements": "2024-01-03T12:05:49.7534432+00:00",
   "LastUpdate_AppInfo": "2024-01-03T05:57:01.0489301+00:00",
-  "LastUpdate_Ratings": "2024-01-03T11:02:54.7535518+00:00",
-  "LastUpdate_Achievements": "2024-01-03T11:05:19.149125+00:00"
+  "LastUpdate_Ratings": "2024-01-03T12:03:11.5074944+00:00",
+  "LastUpdate_Achievements": "2024-01-03T12:05:49.7534775+00:00"
 }

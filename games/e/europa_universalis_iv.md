@@ -6,9 +6,9 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 0.50% | ~2,454 |
-| Until death do us apart | 0.50% | ~2,454 |
-| Victorious! | 0.50% | ~2,454 |
+| That's a Grand Army | 0.50% | ~2,455 |
+| Until death do us apart | 0.50% | ~2,455 |
+| Victorious! | 0.50% | ~2,455 |
 | That is mine! | 0.40% | ~1,964 |
 | Brothers in Arms | 0.30% | ~1,473 |
 | That's a Grand Navy | 0.30% | ~1,473 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 490,895 (Ranked 43)  
+Progressed: 490,925 (Ranked 43)  
 Completed: 1 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -628,14 +628,14 @@ Completed: 1 (0.00%) (Ranked 391)
 | 2023-12-31 | 489,119 | 1 |
 | 2024-01-01 | 489,961 | 1 |
 | 2024-01-02 | 490,643 | 1 |
-| 2024-01-03 | 490,895 | 1 |
+| 2024-01-03 | 490,925 | 1 |
 ## Awards
-Max (Educational): 7,680  (Ranked 54)  
-Sum: 63,334 (Ranked 24)  
+Max (Educational): 7,696  (Ranked 54)  
+Sum: 63,359 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 7,680 |
+| This game is Educational | 7,696 |
 | This game has Diverse Characters | 7,531 |
 | This game is Highly Recommended | 7,376 |
 | This game has Challenging Combat | 7,299 |
@@ -643,7 +643,7 @@ Diff (max vs sum): 30
 | This game is Relaxing | 7,041 |
 | This game has Competitive Players | 6,882 |
 | This game has Amazing Storytelling | 6,402 |
-| This game has Amazing Characters | 5,925 |
+| This game has Amazing Characters | 5,934 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -999,4 +999,4 @@ Diff (max vs sum): 30
 | 2023-12-31 | 4.69 | - | 7,645 | 63,014 |
 | 2024-01-01 | 4.69 | - | 7,659 | 63,158 |
 | 2024-01-02 | 4.69 | - | 7,680 | 63,302 |
-| 2024-01-03 | 4.69 | - | 7,680 | 63,334 |
+| 2024-01-03 | 4.69 | - | 7,696 | 63,359 |

@@ -8,7 +8,7 @@ Rating: 4.76 (Ranked 131)
 | New arm | 77.00% | ~577 |
 | Shelter Escape | 75.00% | ~562 |
 | The First Bond | 64.00% | ~479 |
-| Novice Scavenger | 57.00% | ~427 |
+| Novice Scavenger | 58.00% | ~434 |
 | Master Craftsman | 46.00% | ~345 |
 | First wall | 45.00% | ~337 |
 | Piggyback Expert | 44.00% | ~330 |
@@ -17,11 +17,11 @@ Rating: 4.76 (Ranked 131)
 | Their Rock | 27.00% | ~202 |
 | Yuna's Promise | 26.00% | ~195 |
 | Stone Retriever | 26.00% | ~195 |
-| Find myself | 24.00% | ~180 |
+| Find myself | 25.00% | ~187 |
 | Min's Promise | 18.00% | ~135 |
 | Sia's Promise | 17.00% | ~127 |
 | Truebro | 17.00% | ~127 |
-| Romantic | 13.00% | ~97 |
+| Romantic | 14.00% | ~105 |
 | TentacleMAN | 8.00% | ~60 |
 | Yohan's Promise | 5.00% | ~37 |
 | Flawless | 5.00% | ~37 |

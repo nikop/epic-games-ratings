@@ -1,7 +1,7 @@
 # Scrapnaut
 [Store](https://store.epicgames.com/en-US/p/scrapnaut)  
 [View Rawdata](../../db/s/scrapnaut.json)  
-Rating: 4.29 (Ranked 876)  
+Rating: 4.29 (Ranked 877)  
 Number of Ratings: 38  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -15,13 +15,13 @@ Number of Ratings: 38  (23.09.2022)
 | Scrap Master | 36.00% | ~219 |
 | Smelter | 34.00% | ~206 |
 | Digger | 31.00% | ~188 |
-| Electro-Scrap Gatherer | 30.00% | ~182 |
+| Electro-Scrap Gatherer | 31.00% | ~188 |
 | Survivor | 29.00% | ~176 |
 | Herbalist | 28.00% | ~170 |
 | Lumberjack | 28.00% | ~170 |
 | Robot Destroyer | 28.00% | ~170 |
 | Prepper | 25.00% | ~152 |
-| Electro-Scrap Master | 22.00% | ~134 |
+| Electro-Scrap Master | 23.00% | ~140 |
 | Robot Hunter | 20.00% | ~121 |
 | Advanced Survivalist | 18.00% | ~109 |
 | Master Of Technology | 16.00% | ~97 |

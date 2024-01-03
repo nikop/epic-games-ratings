@@ -1,31 +1,31 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.19 (Ranked 964)  
+Rating: 4.19 (Ranked 965)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~2,270 |
-| Battlefields Have Memories | 81.00% | ~2,089 |
-| Enlisted | 74.00% | ~1,908 |
-| Maybe Engage a Little | 69.00% | ~1,780 |
-| No More Names | 51.00% | ~1,315 |
-| Initiate | 37.00% | ~954 |
-| Thrada-Kul | 33.00% | ~851 |
-| Gravity-Challenged Rocks | 27.00% | ~696 |
-| Socialite | 24.00% | ~619 |
-| Soldier | 23.00% | ~593 |
-| All the Major Food Groups | 22.00% | ~567 |
+| Unforeseen | 88.00% | ~2,272 |
+| Battlefields Have Memories | 81.00% | ~2,091 |
+| Enlisted | 74.00% | ~1,911 |
+| Maybe Engage a Little | 69.00% | ~1,782 |
+| No More Names | 51.00% | ~1,317 |
+| Initiate | 37.00% | ~955 |
+| Thrada-Kul | 33.00% | ~852 |
+| Gravity-Challenged Rocks | 26.00% | ~671 |
+| Socialite | 24.00% | ~620 |
+| Soldier | 23.00% | ~594 |
+| All the Major Food Groups | 22.00% | ~568 |
 | Beggars Would Ride | 20.00% | ~516 |
-| Control is an Illusion | 19.00% | ~490 |
+| Control is an Illusion | 19.00% | ~491 |
 | The Means to Save It | 16.00% | ~413 |
 | Resilience to Sin | 15.00% | ~387 |
 | A Familiar Nest | 14.00% | ~361 |
 | Periapt Alizarin | 14.00% | ~361 |
-| Geas Aristeya | 13.00% | ~335 |
-| A Perfect Cycle | 13.00% | ~335 |
-| Recruit | 12.00% | ~309 |
-| Armsman | 11.00% | ~284 |
+| Geas Aristeya | 13.00% | ~336 |
+| A Perfect Cycle | 13.00% | ~336 |
+| Recruit | 12.00% | ~310 |
+| Armsman | 10.00% | ~258 |
 | Lights Army | 9.00% | ~232 |
 | Periapt Cerulean | 7.00% | ~181 |
 | Good Boy | 7.00% | ~181 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 964)
 | Out of Time | 0.20% | ~5 |
 | Fowl Play | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,579 (Ranked 231)  
+Progressed: 2,582 (Ranked 231)  
 Completed: 2 (0.08%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 2 (0.08%) (Ranked 318)
 | 2023-12-31 | 2,400 | 2 |
 | 2024-01-01 | 2,478 | 2 |
 | 2024-01-02 | 2,542 | 2 |
-| 2024-01-03 | 2,579 | 2 |
+| 2024-01-03 | 2,582 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

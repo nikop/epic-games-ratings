@@ -1,15 +1,15 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.27 (Ranked 896)  
+Rating: 4.27 (Ranked 897)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rigged And Ready | 79.00% | ~1,936 |
 | Don't I Know You...? | 75.00% | ~1,838 |
-| Jailbreak | 65.00% | ~1,592 |
+| Jailbreak | 65.00% | ~1,593 |
 | Suited and Booted | 38.00% | ~931 |
-| HEADSHOT! | 37.00% | ~906 |
+| HEADSHOT! | 37.00% | ~907 |
 | Sleeping With The Fishes | 35.00% | ~858 |
 | Overheated | 30.00% | ~735 |
 | High Performance | 30.00% | ~735 |
@@ -18,7 +18,7 @@ Rating: 4.27 (Ranked 896)
 | Home Invasion | 23.00% | ~564 |
 | Luminary | 22.00% | ~539 |
 | It's a Trap | 22.00% | ~539 |
-| True Survivor | 21.00% | ~514 |
+| True Survivor | 21.00% | ~515 |
 | Offensive Defense | 20.00% | ~490 |
 | Shocking | 20.00% | ~490 |
 | Court Martial | 19.00% | ~466 |
@@ -27,17 +27,17 @@ Rating: 4.27 (Ranked 896)
 | Dead Again | 17.00% | ~417 |
 | Full Arsenal | 17.00% | ~417 |
 | Can't Trust Banks | 15.00% | ~368 |
-| Mommy Dearest | 13.00% | ~318 |
-| Bad Dog | 13.00% | ~318 |
-| Where It All Began | 13.00% | ~318 |
-| Risk Tolerant | 13.00% | ~318 |
-| What A Catchy Song | 13.00% | ~318 |
+| Mommy Dearest | 13.00% | ~319 |
+| Bad Dog | 13.00% | ~319 |
+| Where It All Began | 13.00% | ~319 |
+| Risk Tolerant | 13.00% | ~319 |
+| What A Catchy Song | 13.00% | ~319 |
 | Corrupted Beauty | 12.00% | ~294 |
 | Marked For Success | 12.00% | ~294 |
 | Sorry, Didn't See You There | 12.00% | ~294 |
 | Stimulating The Local Economy | 10.00% | ~245 |
 | Triplets | 10.00% | ~245 |
-| Denying Prophecy | 9.00% | ~220 |
+| Denying Prophecy | 9.00% | ~221 |
 | A Little Banged Up | 8.00% | ~196 |
 | Following In Their Footsteps | 8.00% | ~196 |
 | Defense in Depth | 8.00% | ~196 |
@@ -47,9 +47,9 @@ Rating: 4.27 (Ranked 896)
 | Turbo Booster | 6.00% | ~147 |
 | Juiced Up | 6.00% | ~147 |
 | Squid Pro Quo | 6.00% | ~147 |
-| Hello Darkness My Old Friend | 5.00% | ~122 |
-| Counter-Sniper | 5.00% | ~122 |
-| Shrimp Cocktail | 5.00% | ~122 |
+| Hello Darkness My Old Friend | 5.00% | ~123 |
+| Counter-Sniper | 5.00% | ~123 |
+| Shrimp Cocktail | 5.00% | ~123 |
 | Geronimo! | 4.00% | ~98 |
 | Homewrecker | 4.00% | ~98 |
 | Plank of Wood | 4.00% | ~98 |
@@ -59,11 +59,11 @@ Rating: 4.27 (Ranked 896)
 | Box Office Smash | 2.00% | ~49 |
 | Going Postal | 2.00% | ~49 |
 | Loot, Pillage & Craft | 2.00% | ~49 |
-| Swiss Army Drone | 1.00% | ~24 |
-| Three Birds With One Stone | 1.00% | ~24 |
-| The Easy Way Out | 1.00% | ~24 |
+| Swiss Army Drone | 1.00% | ~25 |
+| Three Birds With One Stone | 1.00% | ~25 |
+| The Easy Way Out | 1.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,450 (Ranked 234)  
+Progressed: 2,451 (Ranked 234)  
 Completed: 13 (0.53%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 13 (0.53%) (Ranked 215)
 | 2023-12-31 | 2,428 | 13 |
 | 2024-01-01 | 2,442 | 13 |
 | 2024-01-02 | 2,447 | 13 |
-| 2024-01-03 | 2,450 | 13 |
+| 2024-01-03 | 2,451 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

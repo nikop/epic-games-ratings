@@ -5,24 +5,24 @@ Rating: 4.55 (Ranked 522)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tell me your story | 75.00% | ~619 |
-| Don't judge a manhole by its cover | 60.00% | ~495 |
-| I just love stuff! | 41.00% | ~338 |
-| Keep 'em coming! | 41.00% | ~338 |
+| Tell me your story | 75.00% | ~620 |
+| Don't judge a manhole by its cover | 60.00% | ~496 |
+| I just love stuff! | 41.00% | ~339 |
+| Keep 'em coming! | 41.00% | ~339 |
 | The things they print nowadays | 39.00% | ~322 |
 | Big Spender | 38.00% | ~314 |
 | That's gotta hurt | 36.00% | ~297 |
-| I think it's broke | 26.00% | ~214 |
-| The Ann Flores Combo Experience | 26.00% | ~214 |
+| I think it's broke | 26.00% | ~215 |
+| The Ann Flores Combo Experience | 26.00% | ~215 |
 | Club Star | 24.00% | ~198 |
 | Fire in the hole! | 20.00% | ~165 |
-| Omnipotence | 20.00% | ~165 |
-| The Warlord | 20.00% | ~165 |
+| Omnipotence | 19.00% | ~157 |
+| The Warlord | 19.00% | ~157 |
 | You are the One | 19.00% | ~157 |
-| Deadly Kombationem | 18.00% | ~148 |
+| Deadly Kombationem | 18.00% | ~149 |
 | The truth is out there | 16.00% | ~132 |
 | Annakin Skyscroller | 13.00% | ~107 |
-| In the smacker...I think | 10.00% | ~82 |
+| In the smacker...I think | 10.00% | ~83 |
 | Arm Wrestlin' | 9.00% | ~74 |
 | 1+1>2 | 9.00% | ~74 |
 | Supreme Bartender Ann | 8.00% | ~66 |
@@ -37,12 +37,12 @@ Rating: 4.55 (Ranked 522)
 | Woman on a (side) mission | 5.00% | ~41 |
 | Ann ULTRA | 3.00% | ~25 |
 | Lady Luck is a cool cat | 3.00% | ~25 |
-| SERENITY NOW | 2.00% | ~16 |
-| I just got real good | 2.00% | ~16 |
+| SERENITY NOW | 2.00% | ~17 |
+| I just got real good | 2.00% | ~17 |
 | Love me like I love my posters | 1.00% | ~8 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 825 (Ranked 303)  
+Progressed: 826 (Ranked 303)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-31 | 815 | 0 |
 | 2024-01-01 | 818 | 0 |
 | 2024-01-02 | 821 | 0 |
-| 2024-01-03 | 825 | 0 |
+| 2024-01-03 | 826 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

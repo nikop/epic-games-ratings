@@ -4,7 +4,7 @@
   "ProductSlug": "horse-club-adventures-19e7a0",
   "Ranking_EOS_Progress": 508,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 430,
+  "Ranking_EOS_NewPlayers": 429,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-06-28T22:00:00+00:00",
@@ -577,9 +577,9 @@
       "ID": "ACH_24_STONECIRCLE",
       "SetID": "9dl0ei6",
       "Name": "Stonehenge",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_25_BEACH",
@@ -616,8 +616,8 @@
   ],
   "FirstSeen": "2023-07-12T17:57:50.452035+00:00",
   "FirstSeenAchievements": "2023-06-18T14:01:38.8947903+00:00",
-  "LastChanged_Achievements": "2024-01-03T11:09:44.8790955+00:00",
+  "LastChanged_Achievements": "2024-01-03T12:10:21.9289175+00:00",
   "LastUpdate_AppInfo": "2024-01-01T02:57:07.1307099+00:00",
-  "LastUpdate_Ratings": "2024-01-03T10:58:52.79359+00:00",
-  "LastUpdate_Achievements": "2024-01-03T11:09:44.8791167+00:00"
+  "LastUpdate_Ratings": "2024-01-03T11:59:07.8722643+00:00",
+  "LastUpdate_Achievements": "2024-01-03T12:10:21.928937+00:00"
 }

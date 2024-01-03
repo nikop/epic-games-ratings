@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 367,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -263,9 +263,9 @@
       "Count": 90
     }
   ],
-  "EOS_Progressed": 9770,
+  "EOS_Progressed": 9774,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1798,
+  "EOS_NewPlayers": 1795,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3483,6 +3483,11 @@
       "Time": "2024-01-03T11:09:39.040166+00:00",
       "NumProgressed": 9770,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-03T12:10:15.7551053+00:00",
+      "NumProgressed": 9774,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3493,9 +3498,9 @@
       "ID": "02_TheIntrigue",
       "SetID": "37a94m8",
       "Name": "Conspiracy",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 977
+      "UsersEstimate": 1075
     },
     {
       "ID": "03_TheStolenStar",
@@ -3599,7 +3604,7 @@
       "Name": "Pentakill",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "16_TheRise",
@@ -3655,7 +3660,7 @@
       "Name": "Perfect Timing",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "23_DynastyRestored",
@@ -3703,7 +3708,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -3743,7 +3748,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -3807,7 +3812,7 @@
       "Name": "Jungle Heat",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "42_TheIronJudgement",
@@ -3925,9 +3930,9 @@
       "ID": "56_ThoroughInvestigation",
       "SetID": "37a94m8",
       "Name": "Thorough Investigation",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 20
     },
     {
       "ID": "57_TheBurningHeritage",
@@ -4014,7 +4019,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 9770,
+      "Progressed": 9774,
       "Completed": 1
     }
   ],
@@ -4022,8 +4027,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-03T03:00:34.4543831+00:00",
-  "LastChanged_Achievements": "2024-01-03T11:09:39.0401656+00:00",
+  "LastChanged_Achievements": "2024-01-03T12:10:15.7551047+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2024-01-03T11:00:31.1186346+00:00",
-  "LastUpdate_Achievements": "2024-01-03T11:09:39.0402264+00:00"
+  "LastUpdate_Ratings": "2024-01-03T12:00:55.5416776+00:00",
+  "LastUpdate_Achievements": "2024-01-03T12:10:15.7551666+00:00"
 }

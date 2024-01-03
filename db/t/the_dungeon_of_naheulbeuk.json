@@ -2,7 +2,7 @@
   "ID": "456d95ca54814c8d98db2f52346ff5de",
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
-  "Ranking_Rating": 445,
+  "Ranking_Rating": 446,
   "Ranking_Popularity": 275,
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 71,
@@ -1665,7 +1665,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 246314,
+  "EOS_Progressed": 246322,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 1348,
   "EOS_NewCompleters": 0,
@@ -24770,6 +24770,11 @@
       "Time": "2024-01-03T11:09:50.0161211+00:00",
       "NumProgressed": 246314,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-03T12:10:27.3225297+00:00",
+      "NumProgressed": 246322,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 88,
@@ -24781,7 +24786,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7389
+      "UsersEstimate": 7390
     },
     {
       "ID": "100Fail",
@@ -24813,7 +24818,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7389
+      "UsersEstimate": 7390
     },
     {
       "ID": "BookCollection",
@@ -24829,7 +24834,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19705
+      "UsersEstimate": 19706
     },
     {
       "ID": "Chapter2",
@@ -24853,7 +24858,7 @@
       "Name": "The demons\u0027 feast",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7389
+      "UsersEstimate": 7390
     },
     {
       "ID": "Chapter5",
@@ -24861,7 +24866,7 @@
       "Name": "The Great Library",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7389
+      "UsersEstimate": 7390
     },
     {
       "ID": "Chapter6",
@@ -24869,7 +24874,7 @@
       "Name": "Torture and Sensibility",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7389
+      "UsersEstimate": 7390
     },
     {
       "ID": "Chapter7",
@@ -24933,7 +24938,7 @@
       "Name": "The Woman in the High Castle",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7389
+      "UsersEstimate": 7390
     },
     {
       "ID": "DLC1ChooseNecro",
@@ -25181,7 +25186,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 22168
+      "UsersEstimate": 22169
     },
     {
       "ID": "DwarfElf15Support",
@@ -25229,7 +25234,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 88673
+      "UsersEstimate": 88676
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -25277,7 +25282,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 24631
+      "UsersEstimate": 24632
     },
     {
       "ID": "FollowBraztok",
@@ -25437,7 +25442,7 @@
       "Name": "Team Building Exercise",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7389
+      "UsersEstimate": 7390
     },
     {
       "ID": "SystematicallyStupid",
@@ -25461,7 +25466,7 @@
       "Name": "Oh, when I\u0027ll be level 10...",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7389
+      "UsersEstimate": 7390
     },
     {
       "ID": "WizardEpic",
@@ -25484,21 +25489,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 246314,
+      "Progressed": 246322,
       "Completed": 8
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 246314,
+      "Progressed": 246322,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-02T19:59:53.8993733+00:00",
-  "LastChanged_Achievements": "2024-01-03T11:09:50.0161207+00:00",
+  "LastChanged_Achievements": "2024-01-03T12:10:27.3225293+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:29.7482382+00:00",
-  "LastUpdate_Ratings": "2024-01-03T11:00:12.6641443+00:00",
-  "LastUpdate_Achievements": "2024-01-03T11:09:50.0162946+00:00"
+  "LastUpdate_Ratings": "2024-01-03T12:00:37.0678545+00:00",
+  "LastUpdate_Achievements": "2024-01-03T12:10:27.3227047+00:00"
 }

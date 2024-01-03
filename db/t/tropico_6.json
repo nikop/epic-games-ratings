@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 302,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 349,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1517,7 +1517,7 @@
   ],
   "EOS_Progressed": 6861,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16036,9 +16036,9 @@
       "ID": "ACH_GOVERNATOR",
       "SetID": "1p8ab95",
       "Name": "The Governator",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1098
+      "UsersEstimate": 1166
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -16212,8 +16212,8 @@
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2024-01-01T23:00:51.8324602+00:00",
-  "LastChanged_Achievements": "2024-01-03T10:08:22.077387+00:00",
+  "LastChanged_Achievements": "2024-01-03T12:03:36.0036134+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:30.406474+00:00",
-  "LastUpdate_Ratings": "2024-01-03T11:00:32.5114798+00:00",
-  "LastUpdate_Achievements": "2024-01-03T10:08:22.0775008+00:00"
+  "LastUpdate_Ratings": "2024-01-03T12:00:57.0328881+00:00",
+  "LastUpdate_Achievements": "2024-01-03T12:03:36.0053988+00:00"
 }

@@ -1,7 +1,7 @@
 # A Game Of Thrones: The Board Game Digital Edition
 [Store](https://store.epicgames.com/en-US/p/a-game-of-thrones-5858a3)  
 [View Rawdata](../../db/a/a_game_of_thrones__the_board_game_digital_edition.json)  
-Rating: 4.21 (Ranked 946)  
+Rating: 4.21 (Ranked 947)  
 Number of Ratings: 2,500  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -29,7 +29,7 @@ Number of Ratings: 2,500  (23.09.2022)
 | The Swift | 2.00% | ~646 |
 | War of the Five Kings | 1.00% | ~323 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,317 (Ranked 137)  
+Progressed: 32,318 (Ranked 137)  
 Completed: 86 (0.27%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 86 (0.27%) (Ranked 256)
 | 2023-12-31 | 32,057 | 86 |
 | 2024-01-01 | 32,170 | 86 |
 | 2024-01-02 | 32,279 | 86 |
-| 2024-01-03 | 32,317 | 86 |
+| 2024-01-03 | 32,318 | 86 |
 ## Awards
 Max (Quickly Understood Controls): 127  (Ranked 344)  
 Sum: 807 (Ranked 291)  
