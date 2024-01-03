@@ -29,8 +29,8 @@ Number of Ratings: 209  (23.09.2022)
 | Arrested | 85.00% | ~2,054 |
 | Zappy Gun | 85.00% | ~2,054 |
 | Got your own one now | 85.00% | ~2,054 |
+| Don't draw dicks pls | 85.00% | ~2,054 |
 | Mission Unlikely | 85.00% | ~2,054 |
-| Don't draw dicks pls | 84.00% | ~2,029 |
 | Ripped | 84.00% | ~2,029 |
 | Beat the big arena | 82.00% | ~1,981 |
 | Force Cube | 82.00% | ~1,981 |
@@ -61,7 +61,7 @@ Number of Ratings: 209  (23.09.2022)
 | All the chests | 13.00% | ~314 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,416 (Ranked 235)  
-Completed: 292 (12.09%) (Ranked 36)  
+Completed: 293 (12.13%) (Ranked 36)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -286,7 +286,7 @@ Completed: 292 (12.09%) (Ranked 36)
 | 2023-12-31 | 2,402 | 292 |
 | 2024-01-01 | 2,407 | 292 |
 | 2024-01-02 | 2,410 | 292 |
-| 2024-01-03 | 2,416 | 292 |
+| 2024-01-03 | 2,416 | 293 |
 ## Awards
 Max (Challenging Puzzles): 109  (Ranked 364)  
 Sum: 109 (Ranked 461)  

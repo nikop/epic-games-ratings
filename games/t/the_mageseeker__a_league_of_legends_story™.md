@@ -5,28 +5,28 @@ Rating: 4.81 (Ranked 85)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~3,086 |
-| No more cages! | 90.00% | ~2,923 |
-| Everfrost | 77.00% | ~2,501 |
-| Pentakill | 76.00% | ~2,468 |
-| Dark Forest | 76.00% | ~2,468 |
-| The use of petricite | 73.00% | ~2,371 |
+| For Demacia | 95.00% | ~3,087 |
+| No more cages! | 90.00% | ~2,924 |
+| Everfrost | 77.00% | ~2,502 |
+| Pentakill | 76.00% | ~2,469 |
+| Dark Forest | 76.00% | ~2,469 |
+| The use of petricite | 73.00% | ~2,372 |
 | You can pet the dog | 60.00% | ~1,949 |
 | Thornbarrow | 43.00% | ~1,397 |
 | Big Helmet Bro | 41.00% | ~1,332 |
 | Clarion Cove | 41.00% | ~1,332 |
 | Ternmoat Headquarters | 39.00% | ~1,267 |
-| Past trauma | 38.00% | ~1,234 |
+| Past trauma | 38.00% | ~1,235 |
 | Elemental master | 37.00% | ~1,202 |
-| Cypress Glen Headquarters | 34.00% | ~1,104 |
+| Cypress Glen Headquarters | 34.00% | ~1,105 |
 | Old friend | 33.00% | ~1,072 |
 | Petricite Burst | 33.00% | ~1,072 |
-| Devineur | 32.00% | ~1,039 |
+| Devineur | 32.00% | ~1,040 |
 | Hijack | 31.00% | ~1,007 |
-| Whispers in the Woods I | 28.00% | ~909 |
-| Ancient power | 28.00% | ~909 |
+| Whispers in the Woods I | 28.00% | ~910 |
+| Ancient power | 28.00% | ~910 |
 | I chose my shackles | 27.00% | ~877 |
-| Sacred Woods | 26.00% | ~844 |
+| Sacred Woods | 26.00% | ~845 |
 | Little light | 24.00% | ~780 |
 | Glyndemere | 23.00% | ~747 |
 | Capelworth | 23.00% | ~747 |
@@ -59,7 +59,7 @@ Rating: 4.81 (Ranked 85)
 | Silverwing nest | 2.00% | ~65 |
 | The Unshackled | 1.00% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,248 (Ranked 223)  
+Progressed: 3,249 (Ranked 223)  
 Completed: 20 (0.62%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 20 (0.62%) (Ranked 202)
 | 2023-12-31 | 3,186 | 18 |
 | 2024-01-01 | 3,217 | 19 |
 | 2024-01-02 | 3,235 | 20 |
-| 2024-01-03 | 3,248 | 20 |
+| 2024-01-03 | 3,249 | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

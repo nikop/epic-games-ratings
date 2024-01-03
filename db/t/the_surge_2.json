@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -294,7 +294,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2454,
+  "EOS_Progressed": 2455,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
@@ -4229,6 +4229,11 @@
       "Time": "2024-01-03T19:06:35.3598524+00:00",
       "NumProgressed": 2454,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-03T20:04:52.2526227+00:00",
+      "NumProgressed": 2455,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4248,7 +4253,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1595
+      "UsersEstimate": 1596
     },
     {
       "ID": "ACHV_03",
@@ -4280,7 +4285,7 @@
       "Name": "Home Invasion",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "ACHV_07",
@@ -4312,7 +4317,7 @@
       "Name": "Corrupted Beauty",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACHV_11",
@@ -4342,9 +4347,9 @@
       "ID": "ACHV_14",
       "SetID": "8p5mlmc",
       "Name": "Reborn",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 123
     },
     {
       "ID": "ACHV_15",
@@ -4376,7 +4381,7 @@
       "Name": "True Survivor",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "ACHV_19",
@@ -4392,7 +4397,7 @@
       "Name": "Marked For Success",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACHV_21",
@@ -4400,7 +4405,7 @@
       "Name": "Stimulating The Local Economy",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "ACHV_22",
@@ -4464,7 +4469,7 @@
       "Name": "Triplets",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "ACHV_30",
@@ -4544,7 +4549,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 1840
+      "UsersEstimate": 1841
     },
     {
       "ID": "ACHV_40",
@@ -4568,7 +4573,7 @@
       "Name": "Sorry, Didn\u0027t See You There",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACHV_43",
@@ -4646,9 +4651,9 @@
       "ID": "ACHV_52",
       "SetID": "8p5mlmc",
       "Name": "Juiced Up",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 123
     },
     {
       "ID": "ACHV_53",
@@ -4695,7 +4700,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2454,
+      "Progressed": 2455,
       "Completed": 13
     }
   ],
@@ -4703,8 +4708,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-29T03:00:05.8444174+00:00",
-  "LastChanged_Achievements": "2024-01-03T19:06:35.3598521+00:00",
+  "LastChanged_Achievements": "2024-01-03T20:04:52.2526222+00:00",
   "LastUpdate_AppInfo": "2023-12-30T17:56:59.176771+00:00",
-  "LastUpdate_Ratings": "2024-01-03T19:00:42.4841827+00:00",
-  "LastUpdate_Achievements": "2024-01-03T19:06:35.3599056+00:00"
+  "LastUpdate_Ratings": "2024-01-03T19:59:18.2110901+00:00",
+  "LastUpdate_Achievements": "2024-01-03T20:04:52.2526809+00:00"
 }

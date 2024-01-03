@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 323,
   "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -848,9 +848,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6053,
+  "EOS_Progressed": 6054,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 196,
+  "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -12468,6 +12468,11 @@
       "Time": "2024-01-03T19:04:17.250427+00:00",
       "NumProgressed": 6053,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-03T20:03:10.3251738+00:00",
+      "NumProgressed": 6054,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -12520,7 +12525,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 847
+      "UsersEstimate": 848
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -12528,7 +12533,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1634
+      "UsersEstimate": 1635
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -12606,9 +12611,9 @@
       "ID": "MF_Ach_OnThisEpisode",
       "SetID": "9b9n573",
       "Name": "On this Episode!",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 363
+      "UsersEstimate": 424
     },
     {
       "ID": "MF_Ach_PerkShardPunchCard",
@@ -12616,7 +12621,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1513
+      "UsersEstimate": 1514
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -12648,7 +12653,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 1513
+      "UsersEstimate": 1514
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -12663,15 +12668,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6053,
+      "Progressed": 6054,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-26T21:58:46.0180606+00:00",
-  "LastChanged_Achievements": "2024-01-03T19:04:17.2504265+00:00",
+  "LastChanged_Achievements": "2024-01-03T20:03:10.3251734+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:44.5580896+00:00",
-  "LastUpdate_Ratings": "2024-01-03T19:00:19.7911811+00:00",
-  "LastUpdate_Achievements": "2024-01-03T19:04:17.2505002+00:00"
+  "LastUpdate_Ratings": "2024-01-03T19:59:03.5347189+00:00",
+  "LastUpdate_Achievements": "2024-01-03T20:03:10.3252489+00:00"
 }

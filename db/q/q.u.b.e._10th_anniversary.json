@@ -336,9 +336,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 28186,
+  "EOS_Progressed": 28195,
   "EOS_Completed": 190,
-  "EOS_NewPlayers": 1066,
+  "EOS_NewPlayers": 1064,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.67,
   "EosHistory": [
@@ -9266,6 +9266,11 @@
       "Time": "2024-01-03T19:11:02.2715194+00:00",
       "NumProgressed": 28186,
       "NumCompleted": 190
+    },
+    {
+      "Time": "2024-01-03T20:09:16.9670288+00:00",
+      "NumProgressed": 28195,
+      "NumCompleted": 190
     }
   ],
   "TotalAchievements": 24,
@@ -9277,7 +9282,7 @@
       "Name": "Feeling the Blues",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 2255
+      "UsersEstimate": 2256
     },
     {
       "ID": "ACH_CollectAll",
@@ -9293,7 +9298,7 @@
       "Name": "Squished",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 2255
+      "UsersEstimate": 2256
     },
     {
       "ID": "ACH_CrushPhysicsBall",
@@ -9301,7 +9306,7 @@
       "Name": "Crush That Ball!",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 5073
+      "UsersEstimate": 5075
     },
     {
       "ID": "ACH_CrushPhysicsCube",
@@ -9309,7 +9314,7 @@
       "Name": "Crush That Cube!",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 6483
+      "UsersEstimate": 6485
     },
     {
       "ID": "ACH_Finale",
@@ -9317,7 +9322,7 @@
       "Name": "Finale",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 2255
+      "UsersEstimate": 2256
     },
     {
       "ID": "ACH_S8AllBronze",
@@ -9389,7 +9394,7 @@
       "Name": "Master Room",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "ACH_S8MaxPoints",
@@ -9405,7 +9410,7 @@
       "Name": "Sector 1",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 8738
+      "UsersEstimate": 8740
     },
     {
       "ID": "ACH_Sector2",
@@ -9413,7 +9418,7 @@
       "Name": "Sector 2",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 7892
+      "UsersEstimate": 7895
     },
     {
       "ID": "ACH_Sector3",
@@ -9421,7 +9426,7 @@
       "Name": "Sector 3",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 6483
+      "UsersEstimate": 6485
     },
     {
       "ID": "ACH_Sector4",
@@ -9429,7 +9434,7 @@
       "Name": "Sector 4",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 5355
+      "UsersEstimate": 5357
     },
     {
       "ID": "ACH_Sector5",
@@ -9437,7 +9442,7 @@
       "Name": "Sector 5",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 3382
+      "UsersEstimate": 3383
     },
     {
       "ID": "ACH_Sector6",
@@ -9445,7 +9450,7 @@
       "Name": "Sector 6",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 3100
+      "UsersEstimate": 3101
     },
     {
       "ID": "ACH_Sector7",
@@ -9453,7 +9458,7 @@
       "Name": "Sector 7",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2255
+      "UsersEstimate": 2256
     },
     {
       "ID": "ACH_TurnBallBlack",
@@ -9461,14 +9466,14 @@
       "Name": "Did That Work? -- No!",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1973
+      "UsersEstimate": 1974
     }
   ],
   "AchievementSets": [
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 28186,
+      "Progressed": 28195,
       "Completed": 190
     }
   ],
@@ -9476,8 +9481,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2024-01-03T01:44:26.451727+00:00",
-  "LastChanged_Achievements": "2024-01-03T19:11:02.2715189+00:00",
+  "LastChanged_Achievements": "2024-01-03T20:09:16.9670285+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:24.8723851+00:00",
-  "LastUpdate_Ratings": "2024-01-03T18:59:42.0752288+00:00",
-  "LastUpdate_Achievements": "2024-01-03T19:11:02.2715795+00:00"
+  "LastUpdate_Ratings": "2024-01-03T19:58:37.4088458+00:00",
+  "LastUpdate_Achievements": "2024-01-03T20:09:16.9670936+00:00"
 }

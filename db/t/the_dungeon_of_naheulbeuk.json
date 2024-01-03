@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1665,9 +1665,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 246382,
+  "EOS_Progressed": 246386,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1340,
+  "EOS_NewPlayers": 1339,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24810,6 +24810,11 @@
       "Time": "2024-01-03T19:11:14.6769321+00:00",
       "NumProgressed": 246382,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-03T20:09:26.6790109+00:00",
+      "NumProgressed": 246386,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 88,
@@ -24821,7 +24826,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7391
+      "UsersEstimate": 7392
     },
     {
       "ID": "100Fail",
@@ -24853,7 +24858,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7391
+      "UsersEstimate": 7392
     },
     {
       "ID": "BookCollection",
@@ -24893,7 +24898,7 @@
       "Name": "The demons\u0027 feast",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7391
+      "UsersEstimate": 7392
     },
     {
       "ID": "Chapter5",
@@ -24901,7 +24906,7 @@
       "Name": "The Great Library",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7391
+      "UsersEstimate": 7392
     },
     {
       "ID": "Chapter6",
@@ -24909,7 +24914,7 @@
       "Name": "Torture and Sensibility",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7391
+      "UsersEstimate": 7392
     },
     {
       "ID": "Chapter7",
@@ -24973,7 +24978,7 @@
       "Name": "The Woman in the High Castle",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7391
+      "UsersEstimate": 7392
     },
     {
       "ID": "DLC1ChooseNecro",
@@ -25221,7 +25226,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 22174
+      "UsersEstimate": 22175
     },
     {
       "ID": "DwarfElf15Support",
@@ -25269,7 +25274,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 88698
+      "UsersEstimate": 88699
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -25317,7 +25322,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 24638
+      "UsersEstimate": 24639
     },
     {
       "ID": "FollowBraztok",
@@ -25477,7 +25482,7 @@
       "Name": "Team Building Exercise",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7391
+      "UsersEstimate": 7392
     },
     {
       "ID": "SystematicallyStupid",
@@ -25501,7 +25506,7 @@
       "Name": "Oh, when I\u0027ll be level 10...",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7391
+      "UsersEstimate": 7392
     },
     {
       "ID": "WizardEpic",
@@ -25524,21 +25529,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 246382,
+      "Progressed": 246386,
       "Completed": 8
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 246382,
+      "Progressed": 246386,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-02T19:59:53.8993733+00:00",
-  "LastChanged_Achievements": "2024-01-03T19:11:14.6769317+00:00",
+  "LastChanged_Achievements": "2024-01-03T20:09:26.6790107+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:29.7482382+00:00",
-  "LastUpdate_Ratings": "2024-01-03T19:01:58.4955238+00:00",
-  "LastUpdate_Achievements": "2024-01-03T19:11:14.6771115+00:00"
+  "LastUpdate_Ratings": "2024-01-03T20:00:11.8542297+00:00",
+  "LastUpdate_Achievements": "2024-01-03T20:09:26.6791801+00:00"
 }

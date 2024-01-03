@@ -2,13 +2,13 @@
   "ID": "5f2fcf280d11455f8eab5c1e2a4d0392",
   "Name": "House Party",
   "ProductSlug": "house-party-ae8b27",
-  "Ranking_Rating": 855,
+  "Ranking_Rating": 854,
   "Ranking_Popularity": 578,
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -383,7 +383,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7065,
+  "EOS_Progressed": 7067,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 0,
@@ -8228,6 +8228,11 @@
       "Time": "2024-01-03T18:09:27.5444606+00:00",
       "NumProgressed": 7065,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-03T20:08:12.985622+00:00",
+      "NumProgressed": 7067,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -8493,9 +8498,9 @@
       "ID": "ItSmellsLikeRoses",
       "SetID": "5f3a6d9",
       "Name": "It Smells Like Roses",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 29
     },
     {
       "ID": "Katherine",
@@ -8790,21 +8795,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 4104,
+      "Progressed": 4106,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 7065,
+      "Progressed": 7067,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-12-30T21:02:21.4914587+00:00",
-  "LastChanged_Achievements": "2024-01-03T19:09:37.5278272+00:00",
+  "LastChanged_Achievements": "2024-01-03T20:08:12.9856215+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:40.2112681+00:00",
-  "LastUpdate_Ratings": "2024-01-03T18:59:28.5205778+00:00",
-  "LastUpdate_Achievements": "2024-01-03T19:09:37.5279569+00:00"
+  "LastUpdate_Ratings": "2024-01-03T19:58:28.2304788+00:00",
+  "LastUpdate_Achievements": "2024-01-03T20:08:12.985726+00:00"
 }

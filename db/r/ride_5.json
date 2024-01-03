@@ -5,10 +5,10 @@
   "Ranking_Rating": 671,
   "Ranking_Popularity": 578,
   "Ranking_PopularitySum": 578,
-  "Ranking_EOS_Progress": 224,
+  "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -45,9 +45,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3247,
+  "EOS_Progressed": 3249,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 210,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8010,6 +8010,11 @@
       "Time": "2024-01-03T19:06:27.7657441+00:00",
       "NumProgressed": 3247,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T20:04:46.625991+00:00",
+      "NumProgressed": 3249,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -8022,7 +8027,7 @@
       "Name": "First Love",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1462
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -8030,7 +8035,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1331
+      "UsersEstimate": 1332
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -8044,9 +8049,9 @@
       "ID": "ML_ACHIEVEMENT_04",
       "SetID": "c7hf6a4",
       "Name": "Stamina Star",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 292
+      "UsersEstimate": 260
     },
     {
       "ID": "ML_ACHIEVEMENT_05",
@@ -8054,7 +8059,7 @@
       "Name": "Restored and Ready",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -8094,7 +8099,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 844
+      "UsersEstimate": 845
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -8110,7 +8115,7 @@
       "Name": "Legendary!!!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -8126,7 +8131,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 714
+      "UsersEstimate": 715
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -8230,7 +8235,7 @@
       "Name": "Clean Race",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1429
+      "UsersEstimate": 1430
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -8310,7 +8315,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -8318,7 +8323,7 @@
       "Name": "Eat My Dust",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1559
+      "UsersEstimate": 1560
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -8326,7 +8331,7 @@
       "Name": "Champagne Spray",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 909
+      "UsersEstimate": 910
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -8374,7 +8379,7 @@
       "Name": "Rivals to the End",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -8413,7 +8418,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3247,
+      "Progressed": 3249,
       "Completed": 0
     }
   ],
@@ -8421,8 +8426,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-02T17:58:34.6110096+00:00",
-  "LastChanged_Achievements": "2024-01-03T19:06:27.7657437+00:00",
+  "LastChanged_Achievements": "2024-01-03T20:04:46.6259904+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:59.7599271+00:00",
-  "LastUpdate_Ratings": "2024-01-03T18:59:11.4457171+00:00",
-  "LastUpdate_Achievements": "2024-01-03T19:06:27.7658135+00:00"
+  "LastUpdate_Ratings": "2024-01-03T19:58:17.1614518+00:00",
+  "LastUpdate_Achievements": "2024-01-03T20:04:46.626078+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 479,
   "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 209,
-  "Ranking_EOS_Completed": 334,
+  "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -709,7 +709,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4131,
+  "EOS_Progressed": 4134,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 254,
   "EOS_NewCompleters": 0,
@@ -11629,6 +11629,11 @@
       "Time": "2024-01-03T19:08:35.2471158+00:00",
       "NumProgressed": 4131,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-03T20:06:21.5530584+00:00",
+      "NumProgressed": 4134,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -11678,9 +11683,9 @@
       "ID": "beastwarmachines",
       "SetID": "3nl4bcg",
       "Name": "Beast War Machines",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 29
     },
     {
       "ID": "blueprintupgrades",
@@ -11704,7 +11709,7 @@
       "Name": "Challenger",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "conqueror",
@@ -11728,7 +11733,7 @@
       "Name": "Daily Quest Completionist",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "doingmypart",
@@ -11824,7 +11829,7 @@
       "Name": "Fellowship Power",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1695
     },
     {
       "ID": "fourleafclover",
@@ -11840,7 +11845,7 @@
       "Name": "Frostfire Liberator",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "fullparty",
@@ -11848,7 +11853,7 @@
       "Name": "Full Party",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1116
     },
     {
       "ID": "gearenchanting",
@@ -11872,7 +11877,7 @@
       "Name": "Guild Power",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "herewegoagain",
@@ -11912,7 +11917,7 @@
       "Name": "Inspection",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "jewelenchanting",
@@ -11960,7 +11965,7 @@
       "Name": "Mastery",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "milestonecollector",
@@ -11968,7 +11973,7 @@
       "Name": "Milestone collector",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "minerclicker",
@@ -11992,7 +11997,7 @@
       "Name": "Moving Up The Ladder",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "mysteriousrock",
@@ -12000,7 +12005,7 @@
       "Name": "Mysterious Rock",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "mythicpower",
@@ -12016,7 +12021,7 @@
       "Name": "Natural Talent",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "pokerface",
@@ -12032,7 +12037,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 2148
+      "UsersEstimate": 2150
     },
     {
       "ID": "prestigiousx10",
@@ -12040,7 +12045,7 @@
       "Name": "Prestigious x10",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 826
+      "UsersEstimate": 827
     },
     {
       "ID": "relicofthepast",
@@ -12048,7 +12053,7 @@
       "Name": "Relic Of The Past",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "sailor",
@@ -12072,7 +12077,7 @@
       "Name": "Scroll Master",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "silverwoodliberator",
@@ -12088,7 +12093,7 @@
       "Name": "Superior",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "templeofeternals",
@@ -12096,7 +12101,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2313
+      "UsersEstimate": 2315
     },
     {
       "ID": "thealchemist",
@@ -12144,7 +12149,7 @@
       "Name": "The Unstoppable",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "titanpower",
@@ -12200,7 +12205,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 3842
+      "UsersEstimate": 3845
     },
     {
       "ID": "warmachinesarmy",
@@ -12232,14 +12237,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3222
+      "UsersEstimate": 3225
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4131,
+      "Progressed": 4134,
       "Completed": 2
     }
   ],
@@ -12247,8 +12252,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-02T09:57:01.626986+00:00",
-  "LastChanged_Achievements": "2024-01-03T19:08:35.2471155+00:00",
+  "LastChanged_Achievements": "2024-01-03T20:06:21.5530581+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:50.7213096+00:00",
-  "LastUpdate_Ratings": "2024-01-03T18:58:17.1949461+00:00",
-  "LastUpdate_Achievements": "2024-01-03T19:08:35.2472089+00:00"
+  "LastUpdate_Ratings": "2024-01-03T19:57:39.1252905+00:00",
+  "LastUpdate_Achievements": "2024-01-03T20:06:21.5531574+00:00"
 }

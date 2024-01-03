@@ -2,10 +2,10 @@
   "ID": "563ac8b0b7d44761a068c0e23d32b7f6",
   "Name": "Party Monsterzz",
   "ProductSlug": "party-monsterzz-f42535",
-  "Ranking_EOS_Progress": 447,
-  "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 389,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_Progress": 446,
+  "Ranking_EOS_Completed": 157,
+  "Ranking_EOS_NewPlayers": 366,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-10-20T17:00:00+00:00",
     "PcReleaseDate": "2023-10-20T17:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 154,
+  "EOS_Progressed": 157,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.3,
+  "EOS_Completed_Percentage": 1.27,
   "EosHistory": [
     {
       "Time": "2023-10-24T09:04:07.3513375+00:00",
@@ -714,6 +714,11 @@
       "Time": "2024-01-03T19:09:17.3000007+00:00",
       "NumProgressed": 154,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-03T20:07:57.4716373+00:00",
+      "NumProgressed": 157,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-24T09:04:07.3513415+00:00",
@@ -724,9 +729,9 @@
       "ID": "Achievement_0",
       "SetID": "8556mdl",
       "Name": "One of Us! One of Us!",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 200,
-      "UsersEstimate": 40
+      "UsersEstimate": 39
     },
     {
       "ID": "Achievement_1",
@@ -750,7 +755,7 @@
       "Name": "Welcome to the party!",
       "Percentage": 92,
       "XP": 200,
-      "UsersEstimate": 142
+      "UsersEstimate": 144
     },
     {
       "ID": "Achievement_4",
@@ -758,21 +763,21 @@
       "Name": "Social Monster",
       "Percentage": 8,
       "XP": 200,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     }
   ],
   "AchievementSets": [
     {
       "ID": "8556mdl",
       "IsBase": true,
-      "Progressed": 154,
+      "Progressed": 157,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-10-21T19:01:49.5181483+00:00",
   "FirstSeenAchievements": "2023-10-23T18:03:45.1377273+00:00",
-  "LastChanged_Achievements": "2024-01-03T19:09:17.3000004+00:00",
+  "LastChanged_Achievements": "2024-01-03T20:07:57.471637+00:00",
   "LastUpdate_AppInfo": "2023-12-29T19:57:03.1666911+00:00",
-  "LastUpdate_Ratings": "2024-01-03T18:59:28.325139+00:00",
-  "LastUpdate_Achievements": "2024-01-03T19:09:17.3000099+00:00"
+  "LastUpdate_Ratings": "2024-01-03T19:58:28.0262285+00:00",
+  "LastUpdate_Achievements": "2024-01-03T20:07:57.4716452+00:00"
 }

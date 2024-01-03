@@ -31,7 +31,7 @@ Rating: 3.75 (Ranked 1,081)
 | That's much better! | 16.00% | ~100 |
 | Hipster | 15.00% | ~94 |
 | Not as clumsy or random | 13.00% | ~82 |
-| Blade Runner | 10.00% | ~63 |
+| Blade Runner | 11.00% | ~69 |
 | Perfect hearing | 9.00% | ~56 |
 | Meticulous | 7.00% | ~44 |
 | Lucky dog | 5.00% | ~31 |

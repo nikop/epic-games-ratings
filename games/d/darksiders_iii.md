@@ -24,27 +24,27 @@ Number of Ratings: 116  (23.09.2022)
 | Salvation | 36.00% | ~145 |
 | Soul Harvester | 35.00% | ~141 |
 | Unshakable Fortitude | 34.00% | ~137 |
+| I Wanna Rock | 32.00% | ~129 |
 | Delusions of Grandeur | 32.00% | ~129 |
-| I Wanna Rock | 31.00% | ~125 |
 | Maximum Vigor | 30.00% | ~121 |
 | Love Tap | 30.00% | ~121 |
 | Freeze Frame | 27.00% | ~109 |
 | Eat Your Heart Out | 27.00% | ~109 |
 | For Whom the Bell Tolls | 27.00% | ~109 |
-| Unyielding Strength | 24.00% | ~97 |
+| Unyielding Strength | 25.00% | ~101 |
 | Can you restore the Balance? | 24.00% | ~97 |
 | Big Spender | 24.00% | ~97 |
 | Cleanup Crew | 22.00% | ~89 |
 | Crowd Source | 22.00% | ~89 |
 | Maximum Capacity | 20.00% | ~81 |
 | Demon Meddler | 20.00% | ~81 |
-| Seeing Red | 19.00% | ~77 |
-| Egomaniac | 17.00% | ~69 |
+| Seeing Red | 20.00% | ~81 |
+| Egomaniac | 18.00% | ~73 |
 | Protector of Humanity | 16.00% | ~65 |
 | Everybody Wants to Rule the World | 16.00% | ~65 |
 | Community Outreach | 15.00% | ~61 |
 | A Parting Gift | 13.00% | ~53 |
-| Unbreakable Will | 11.00% | ~44 |
+| Unbreakable Will | 12.00% | ~48 |
 | Path of the Horseman | 11.00% | ~44 |
 | Take it to the Limit | 11.00% | ~44 |
 | Holy Keeper | 10.00% | ~40 |

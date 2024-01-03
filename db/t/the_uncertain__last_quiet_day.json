@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 367,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 366,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
     "PcReleaseDate": "2016-09-22T14:42:57+00:00",
@@ -1089,9 +1089,9 @@
       "ID": "BLADE_RUNNER",
       "SetID": "2iigf77",
       "Name": "Blade Runner",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 69
     },
     {
       "ID": "BUCKLE_UP",
@@ -1338,8 +1338,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-12-08T04:01:04.3643054+00:00",
-  "LastChanged_Achievements": "2024-01-03T19:11:07.4531943+00:00",
+  "LastChanged_Achievements": "2024-01-03T20:09:21.1613677+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:48.4333912+00:00",
-  "LastUpdate_Ratings": "2024-01-03T19:00:40.1858661+00:00",
-  "LastUpdate_Achievements": "2024-01-03T19:11:07.4532165+00:00"
+  "LastUpdate_Ratings": "2024-01-03T19:59:16.6435363+00:00",
+  "LastUpdate_Achievements": "2024-01-03T20:09:21.1613964+00:00"
 }

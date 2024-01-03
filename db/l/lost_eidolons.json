@@ -2,13 +2,13 @@
   "ID": "de3677b7bac547128656ac18c5b2f298",
   "Name": "Lost Eidolons",
   "ProductSlug": "lost-eidolons",
-  "Ranking_Rating": 834,
+  "Ranking_Rating": 820,
   "Ranking_Popularity": 578,
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 3800,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.34,
+  "Rating": 4.35,
   "RatingHistory": [
     {
       "Time": "2022-10-20T13:00:36.1264313+00:00",
@@ -183,6 +183,12 @@
     {
       "Time": "2023-12-04T18:59:06.579365+00:00",
       "Rating": 4.34,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-03T20:02:34.5349744+00:00",
+      "Rating": 4.35,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -2547,9 +2553,9 @@
   "FirstSeen": "2022-10-14T09:31:01.0806081+00:00",
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
-  "LastChanged": "2023-12-04T18:59:06.5793648+00:00",
-  "LastChanged_Achievements": "2024-01-03T19:08:21.4924133+00:00",
+  "LastChanged": "2024-01-03T20:02:34.5349742+00:00",
+  "LastChanged_Achievements": "2024-01-03T20:06:11.461229+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:47.6931487+00:00",
-  "LastUpdate_Ratings": "2024-01-03T19:03:26.6115825+00:00",
-  "LastUpdate_Achievements": "2024-01-03T19:08:21.4924401+00:00"
+  "LastUpdate_Ratings": "2024-01-03T20:02:34.5349749+00:00",
+  "LastUpdate_Achievements": "2024-01-03T20:06:11.461258+00:00"
 }

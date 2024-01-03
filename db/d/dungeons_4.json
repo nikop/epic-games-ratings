@@ -2247,9 +2247,9 @@
       "ID": "ach_main03demon_completed",
       "SetID": "4hg22ll",
       "Name": "The Hellwoods",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 537
+      "UsersEstimate": 544
     },
     {
       "ID": "ach_main03demon_doors",
@@ -2303,9 +2303,9 @@
       "ID": "ach_main05evil_thalyalevel",
       "SetID": "4hg22ll",
       "Name": "Experienced Thalya",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 501
+      "UsersEstimate": 508
     },
     {
       "ID": "ach_main05evil_unicorn",
@@ -2327,9 +2327,9 @@
       "ID": "ach_main06transporter_towers",
       "SetID": "4hg22ll",
       "Name": "Mana Cannon",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 289
+      "UsersEstimate": 297
     },
     {
       "ID": "ach_main06transporter_transport",
@@ -2407,9 +2407,9 @@
       "ID": "ach_main09journey_killheroes",
       "SetID": "4hg22ll",
       "Name": "Dungeonlord Gorgu",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 311
+      "UsersEstimate": 318
     },
     {
       "ID": "ach_main09journey_nospells",
@@ -2696,8 +2696,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-03T15:00:48.7802365+00:00",
-  "LastChanged_Achievements": "2024-01-03T19:09:53.4763308+00:00",
+  "LastChanged_Achievements": "2024-01-03T20:08:24.5186512+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:16.0613697+00:00",
-  "LastUpdate_Ratings": "2024-01-03T19:01:07.2101341+00:00",
-  "LastUpdate_Achievements": "2024-01-03T19:09:53.4763791+00:00"
+  "LastUpdate_Ratings": "2024-01-03T19:59:37.9935146+00:00",
+  "LastUpdate_Achievements": "2024-01-03T20:08:24.5187038+00:00"
 }

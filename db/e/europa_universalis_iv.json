@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -14019,9 +14019,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 491239,
+  "EOS_Progressed": 491273,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5623,
+  "EOS_NewPlayers": 5600,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -43799,6 +43799,11 @@
       "Time": "2024-01-03T19:10:32.6185116+00:00",
       "NumProgressed": 491239,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-03T20:08:55.206799+00:00",
+      "NumProgressed": 491273,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -44202,7 +44207,7 @@
       "Name": "Blockader",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "achievement_blood_for_the_sky_god",
@@ -44330,7 +44335,7 @@
       "Name": "Cold War",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "achievement_colonial_management",
@@ -44426,7 +44431,7 @@
       "Name": "Defender of the Faith",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "achievement_definitely_the_sultan_of_rum",
@@ -44642,7 +44647,7 @@
       "Name": "For the Glory",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "achievement_forever_golden",
@@ -45018,7 +45023,7 @@
       "Name": "It\u0027s all about luck",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "achievement_its_all_about_the_money",
@@ -45026,7 +45031,7 @@
       "Name": "It\u0027s all about the money",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "achievement_its_all_greek_to_me",
@@ -45746,7 +45751,7 @@
       "Name": "Respected",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "achievement_rise_of_the_white_sheep",
@@ -46234,7 +46239,7 @@
       "Name": "The Princess is in this Castle",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "achievement_the_re_reconquista",
@@ -46402,7 +46407,7 @@
       "Name": "True Catholic",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -46418,7 +46423,7 @@
       "Name": "Truly Divine Ruler",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "achievement_trustworthy",
@@ -46713,21 +46718,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 491239,
+      "Progressed": 491273,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 491239,
+      "Progressed": 491273,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2024-01-03T17:57:44.1599698+00:00",
-  "LastChanged_Achievements": "2024-01-03T19:10:32.6185109+00:00",
+  "LastChanged_Achievements": "2024-01-03T20:08:55.2067983+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:39.2428149+00:00",
-  "LastUpdate_Ratings": "2024-01-03T18:57:58.6478009+00:00",
-  "LastUpdate_Achievements": "2024-01-03T19:10:32.6196032+00:00"
+  "LastUpdate_Ratings": "2024-01-03T19:57:25.8847529+00:00",
+  "LastUpdate_Achievements": "2024-01-03T20:08:55.2078872+00:00"
 }

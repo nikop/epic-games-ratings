@@ -17,7 +17,7 @@ Number of Ratings: 34  (23.09.2022)
 | Treasure Hunter | 36.00% | ~273 |
 | The Motivation | 36.00% | ~273 |
 | Heroism | 34.00% | ~257 |
-| Collectibles of Chapter I | 32.00% | ~242 |
+| Collectibles of Chapter I | 33.00% | ~250 |
 | Missing in Action | 32.00% | ~242 |
 | Consequences | 31.00% | ~235 |
 | King of Knives | 31.00% | ~235 |

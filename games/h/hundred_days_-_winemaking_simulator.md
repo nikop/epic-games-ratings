@@ -6,27 +6,27 @@ Number of Ratings: 7,669  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 43.00% | ~8,157 |
-| It's a good start | 10.00% | ~1,897 |
+| Bye Bye | 43.00% | ~8,161 |
+| It's a good start | 10.00% | ~1,898 |
 | Bonjour! | 8.00% | ~1,518 |
 | Quack | 8.00% | ~1,518 |
-| The Assistant | 6.00% | ~1,138 |
-| The Blue Marl | 6.00% | ~1,138 |
-| Ostinata | 5.00% | ~948 |
-| Better than nothing? | 5.00% | ~948 |
+| The Assistant | 6.00% | ~1,139 |
+| The Blue Marl | 6.00% | ~1,139 |
+| Ostinata | 5.00% | ~949 |
+| Better than nothing? | 5.00% | ~949 |
 | A long journey | 4.00% | ~759 |
 | Big Money | 3.00% | ~569 |
 | Keep the doctor away | 3.00% | ~569 |
 | Surprise of Langhe | 3.00% | ~569 |
 | Famous | 3.00% | ~569 |
-| What is that? A castle? | 2.00% | ~379 |
-| A lot of space | 2.00% | ~379 |
-| A big garage | 2.00% | ~379 |
-| Millionaire | 2.00% | ~379 |
-| Exotic | 2.00% | ~379 |
-| Pastry Chef | 2.00% | ~379 |
-| Welcome to the club | 2.00% | ~379 |
-| Very Important Winemaker | 2.00% | ~379 |
+| What is that? A castle? | 2.00% | ~380 |
+| A lot of space | 2.00% | ~380 |
+| A big garage | 2.00% | ~380 |
+| Millionaire | 2.00% | ~380 |
+| Exotic | 2.00% | ~380 |
+| Pastry Chef | 2.00% | ~380 |
+| Welcome to the club | 2.00% | ~380 |
+| Very Important Winemaker | 2.00% | ~380 |
 | King of Langhe | 1.00% | ~190 |
 | Gem of Monferrato | 1.00% | ~190 |
 | Treasure of Roero | 0.70% | ~133 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Master Winemaker | 0.10% | ~19 |
 | Unsuitable Terroir | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,970 (Ranked 155)  
+Progressed: 18,980 (Ranked 155)  
 Completed: 13 (0.07%) (Ranked 323)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 13 (0.07%) (Ranked 323)
 | 2023-12-31 | 18,558 | 13 |
 | 2024-01-01 | 18,717 | 13 |
 | 2024-01-02 | 18,874 | 13 |
-| 2024-01-03 | 18,970 | 13 |
+| 2024-01-03 | 18,980 | 13 |
 ## Awards
 Max (Relaxing): 208  (Ranked 293)  
 Sum: 1,737 (Ranked 226)  

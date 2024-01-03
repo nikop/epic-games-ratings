@@ -18,7 +18,7 @@ Rating: 3.64 (Ranked 1,087)
 | Enter of Your Own Free Will | 8.00% | ~179 |
 | Welcome to the Neighborhood | 8.00% | ~179 |
 | Throw The First Stone | 8.00% | ~179 |
-| Heart Attack | 7.00% | ~156 |
+| Heart Attack | 7.00% | ~157 |
 | Bad Wiring | 6.00% | ~134 |
 | Grounded | 6.00% | ~134 |
 | Skin of Their Teeth | 6.00% | ~134 |
@@ -72,7 +72,7 @@ Rating: 3.64 (Ranked 1,087)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,235 (Ranked 240)  
+Progressed: 2,236 (Ranked 240)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2023-12-31 | 2,191 | 0 |
 | 2024-01-01 | 2,212 | 0 |
 | 2024-01-02 | 2,228 | 0 |
-| 2024-01-03 | 2,235 | 0 |
+| 2024-01-03 | 2,236 | 0 |
 ## Awards
 Max (Great Boss Battles): 20  (Ranked 572)  
 Sum: 20 (Ranked 573)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 409,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -717,9 +717,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6784,
+  "EOS_Progressed": 6787,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 439,
+  "EOS_NewPlayers": 438,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10252,6 +10252,11 @@
       "Time": "2024-01-03T19:08:38.7366049+00:00",
       "NumProgressed": 6784,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-03T20:07:43.777713+00:00",
+      "NumProgressed": 6787,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10381,9 +10386,9 @@
       "ID": "23",
       "SetID": "3aa2279",
       "Name": "A Wonderful Discovery",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 746
+      "UsersEstimate": 814
     },
     {
       "ID": "24",
@@ -10399,7 +10404,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "26",
@@ -10423,7 +10428,7 @@
       "Name": "From Friends to Family",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "29",
@@ -10742,13 +10747,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6784,
+      "Progressed": 6787,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6784,
+      "Progressed": 6787,
       "Completed": 7
     }
   ],
@@ -10756,8 +10761,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-03T13:04:27.6429549+00:00",
-  "LastChanged_Achievements": "2024-01-03T19:08:38.7366045+00:00",
+  "LastChanged_Achievements": "2024-01-03T20:07:43.7777125+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-03T19:01:53.2721149+00:00",
-  "LastUpdate_Achievements": "2024-01-03T19:08:38.7366845+00:00"
+  "LastUpdate_Ratings": "2024-01-03T20:00:08.0136809+00:00",
+  "LastUpdate_Achievements": "2024-01-03T20:07:43.7778419+00:00"
 }

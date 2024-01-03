@@ -9,9 +9,9 @@ Rating: 4.71 (Ranked 202)
 | Thalya – Simply Immortal | 88.00% | ~621 |
 | For the Horde! | 82.00% | ~579 |
 | Hammer Time, Round Two | 81.00% | ~572 |
-| The Hellwoods | 76.00% | ~537 |
+| The Hellwoods | 77.00% | ~544 |
 | The Plains of Strothalm | 72.00% | ~508 |
-| Experienced Thalya | 71.00% | ~501 |
+| Experienced Thalya | 72.00% | ~508 |
 | Thalya's Concentrated Fury | 68.00% | ~480 |
 | Bad Elves Go Everywhere | 68.00% | ~480 |
 | Heroes’ Gorge | 64.00% | ~452 |
@@ -28,10 +28,10 @@ Rating: 4.71 (Ranked 202)
 | YOU SHALL NOT PASS! | 50.00% | ~353 |
 | The Cathedral of Light | 47.00% | ~332 |
 | Shame! Shame! Shame! | 47.00% | ~332 |
+| Dungeonlord Gorgu | 45.00% | ~318 |
 | Tanos' Crusade Against Thalya | 45.00% | ~318 |
 | Pure Dynamite! | 44.00% | ~311 |
-| Dungeonlord Gorgu | 44.00% | ~311 |
-| Mana Cannon | 41.00% | ~289 |
+| Mana Cannon | 42.00% | ~297 |
 | All’s Well That Ends Evil | 41.00% | ~289 |
 | The Duel | 38.00% | ~268 |
 | If Looks Could Kill | 35.00% | ~247 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 461,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 305,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
     "PcReleaseDate": "2014-02-25T05:00:00+00:00",
@@ -705,9 +705,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "ae95dh3",
       "Name": "Quickly Pick a Lucky Lock",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -785,9 +785,9 @@
       "ID": "NEW_ACHIEVEMENT_1_29",
       "SetID": "ae95dh3",
       "Name": "Dust to Dust",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -912,8 +912,8 @@
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2024-01-03T19:06:26.0870665+00:00",
+  "LastChanged_Achievements": "2024-01-03T20:04:45.3449453+00:00",
   "LastUpdate_AppInfo": "2024-01-03T16:57:23.9346853+00:00",
-  "LastUpdate_Ratings": "2024-01-03T19:02:23.4596707+00:00",
-  "LastUpdate_Achievements": "2024-01-03T19:06:26.0870971+00:00"
+  "LastUpdate_Ratings": "2024-01-03T20:00:29.5241064+00:00",
+  "LastUpdate_Achievements": "2024-01-03T20:04:45.3449681+00:00"
 }

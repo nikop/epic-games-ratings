@@ -3,9 +3,9 @@
   "Name": "Coffee Talk Episode 2 - Hibiscus and Butterfly",
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
   "Ranking_EOS_Progress": 456,
-  "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 389,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_Completed": 193,
+  "Ranking_EOS_NewPlayers": 390,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
     "PcReleaseDate": "2023-04-20T13:00:00+00:00",
@@ -891,9 +891,9 @@
       "ID": "ACH_GOOD_REVIEW",
       "SetID": "8h8m55b",
       "Name": "Good Review",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_GUEST_OF_HONOR",
@@ -1075,9 +1075,9 @@
       "ID": "ACH_UNLOCK_ALL_CHARACTER",
       "SetID": "8h8m55b",
       "Name": "We are all friends",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_UNLOCK_ALL_DRINK",
@@ -1154,8 +1154,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2024-01-03T19:05:20.7236277+00:00",
+  "LastChanged_Achievements": "2024-01-03T20:03:56.9210137+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:05.1404315+00:00",
-  "LastUpdate_Ratings": "2024-01-03T19:00:38.9348024+00:00",
-  "LastUpdate_Achievements": "2024-01-03T19:05:20.7236783+00:00"
+  "LastUpdate_Ratings": "2024-01-03T19:59:15.8164077+00:00",
+  "LastUpdate_Achievements": "2024-01-03T20:03:56.921049+00:00"
 }

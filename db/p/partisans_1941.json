@@ -5,10 +5,10 @@
   "Ranking_Rating": 374,
   "Ranking_Popularity": 578,
   "Ranking_PopularitySum": 578,
-  "Ranking_EOS_Progress": 247,
+  "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -306,7 +306,7 @@
   "Tags": [],
   "EOS_Progressed": 1927,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -4790,9 +4790,9 @@
       "ID": "Boy",
       "SetID": "85nb4h3",
       "Name": "You\u0027re Gonna Go Far, Kid",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 501
+      "UsersEstimate": 520
     },
     {
       "ID": "Commandos",
@@ -5006,8 +5006,8 @@
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2024-01-03T19:10:40.2611813+00:00",
+  "LastChanged_Achievements": "2024-01-03T20:09:00.4631717+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:23.7315333+00:00",
-  "LastUpdate_Ratings": "2024-01-03T19:03:38.7637804+00:00",
-  "LastUpdate_Achievements": "2024-01-03T19:10:40.2612263+00:00"
+  "LastUpdate_Ratings": "2024-01-03T20:02:43.3934241+00:00",
+  "LastUpdate_Achievements": "2024-01-03T20:09:00.4632081+00:00"
 }

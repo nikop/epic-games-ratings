@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 167,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
     "PcReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 463,
+  "EOS_Progressed": 464,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
@@ -1301,6 +1301,11 @@
       "Time": "2024-01-03T16:09:29.1518555+00:00",
       "NumProgressed": 463,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-03T20:08:59.4612253+00:00",
+      "NumProgressed": 464,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 19,
@@ -1352,7 +1357,7 @@
       "Name": "That wasn\u0027t so bad",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "ryan_date2_all",
@@ -1374,9 +1379,9 @@
       "ID": "success_azalea",
       "SetID": "6h5h9ho",
       "Name": "The activist",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 90,
-      "UsersEstimate": 97
+      "UsersEstimate": 93
     },
     {
       "ID": "success_bash",
@@ -1440,7 +1445,7 @@
       "Name": "The athlete",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "success_ty",
@@ -1463,7 +1468,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 463,
+      "Progressed": 464,
       "Completed": 5
     }
   ],
@@ -1471,8 +1476,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2024-01-03T19:10:39.0570456+00:00",
+  "LastChanged_Achievements": "2024-01-03T20:08:59.4612248+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:31.6181665+00:00",
-  "LastUpdate_Ratings": "2024-01-03T19:03:28.9827523+00:00",
-  "LastUpdate_Achievements": "2024-01-03T19:10:39.057063+00:00"
+  "LastUpdate_Ratings": "2024-01-03T20:02:36.2401444+00:00",
+  "LastUpdate_Achievements": "2024-01-03T20:08:59.4612433+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 466,
   "Ranking_EOS_Progress": 360,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -476,7 +476,7 @@
   ],
   "EOS_Progressed": 404,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -1549,17 +1549,17 @@
       "ID": "Collect_AdamantineLarge_30",
       "SetID": "7a5k76n",
       "Name": "Unbreakable Will",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 48
     },
     {
       "ID": "Collect_AdamantineMedium_30",
       "SetID": "7a5k76n",
       "Name": "Unyielding Strength",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 101
     },
     {
       "ID": "Collect_AdamantinePure_3",
@@ -1645,9 +1645,9 @@
       "ID": "Collect_Hollow_Force",
       "SetID": "7a5k76n",
       "Name": "I Wanna Rock",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 129
     },
     {
       "ID": "Collect_Hollow_Stasis",
@@ -1925,9 +1925,9 @@
       "ID": "Kill_Sin_Pride",
       "SetID": "7a5k76n",
       "Name": "Egomaniac",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 73
     },
     {
       "ID": "Kill_Sin_Sloth",
@@ -1941,9 +1941,9 @@
       "ID": "Kill_Sin_Wrath",
       "SetID": "7a5k76n",
       "Name": "Seeing Red",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 81
     },
     {
       "ID": "Level_Up_100",
@@ -2069,8 +2069,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-03T05:57:54.1795117+00:00",
-  "LastChanged_Achievements": "2024-01-03T19:07:57.892524+00:00",
+  "LastChanged_Achievements": "2024-01-03T20:05:53.5028321+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.0817876+00:00",
-  "LastUpdate_Ratings": "2024-01-03T18:59:00.5409148+00:00",
-  "LastUpdate_Achievements": "2024-01-03T19:07:57.892583+00:00"
+  "LastUpdate_Ratings": "2024-01-03T19:58:09.9535524+00:00",
+  "LastUpdate_Achievements": "2024-01-03T20:05:53.5029028+00:00"
 }

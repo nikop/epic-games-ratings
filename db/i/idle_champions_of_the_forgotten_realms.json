@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 46,
-  "Ranking_EOS_NewCompleters": 17,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9239,10 +9239,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 33274,
       "NumberOfAwardsMax": 5730
+    },
+    {
+      "Time": "2024-01-03T19:58:35.0803853+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33283,
+      "NumberOfAwardsMax": 5730
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33274,
+  "NumberOfAwards": 33283,
   "NumberOfAwardsMax": 5730,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9262,25 +9268,25 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4887
+      "Count": 4888
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4757
+      "Count": 4760
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 4291
+      "Count": 4293
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4309
+      "Count": 4312
     },
     {
       "Text": "This game has Playful Visuals",
@@ -9289,9 +9295,9 @@
       "Count": 3622
     }
   ],
-  "EOS_Progressed": 250513,
+  "EOS_Progressed": 250531,
   "EOS_Completed": 2588,
-  "EOS_NewPlayers": 5147,
+  "EOS_NewPlayers": 5128,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -38534,6 +38540,11 @@
       "Time": "2024-01-03T19:11:22.8608125+00:00",
       "NumProgressed": 250513,
       "NumCompleted": 2588
+    },
+    {
+      "Time": "2024-01-03T20:09:33.6841229+00:00",
+      "NumProgressed": 250531,
+      "NumCompleted": 2588
     }
   ],
   "TotalAchievements": 546,
@@ -38545,7 +38556,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7515
+      "UsersEstimate": 7516
     },
     {
       "ID": "objective_completed_10",
@@ -40687,9 +40698,9 @@
       "ID": "objective_completed_54",
       "SetID": "cc37lbc",
       "Name": "Exploring Port Nyanzaru",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 501
+      "UsersEstimate": 752
     },
     {
       "ID": "objective_completed_540",
@@ -42912,21 +42923,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 216787,
-      "Completed": 4129
+      "Progressed": 216805,
+      "Completed": 4130
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 250513,
+      "Progressed": 250531,
       "Completed": 2588
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-02T20:58:24.5866544+00:00",
-  "LastChanged_Achievements": "2024-01-03T19:11:22.8608119+00:00",
+  "LastChanged": "2024-01-03T19:58:35.0803852+00:00",
+  "LastChanged_Achievements": "2024-01-03T20:09:33.6841225+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-03T18:59:38.6930127+00:00",
-  "LastUpdate_Achievements": "2024-01-03T19:11:22.8631827+00:00"
+  "LastUpdate_Ratings": "2024-01-03T19:58:35.0803857+00:00",
+  "LastUpdate_Achievements": "2024-01-03T20:09:33.6864716+00:00"
 }

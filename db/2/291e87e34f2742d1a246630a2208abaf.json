@@ -2,13 +2,13 @@
   "ID": "291e87e34f2742d1a246630a2208abaf",
   "Name": "Dragonheir: Silent Gods",
   "ProductSlug": "dragonheir-silent-gods-559a4c",
-  "Ranking_Rating": 941,
+  "Ranking_Rating": 948,
   "Ranking_Popularity": 474,
-  "Ranking_PopularitySum": 417,
+  "Ranking_PopularitySum": 416,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-18T00:00:00+00:00",
     "PcReleaseDate": "2023-09-18T00:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.22,
+  "Rating": 4.21,
   "RatingHistory": [
     {
       "Time": "2023-09-23T08:59:11.6504535+00:00",
@@ -857,10 +857,16 @@
       "Rating": 4.22,
       "NumberOfAwards": 200,
       "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2024-01-03T19:59:09.0775026+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 201,
+      "NumberOfAwardsMax": 43
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 200,
+  "NumberOfAwards": 201,
   "NumberOfAwardsMax": 43,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -874,7 +880,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 35
+      "Count": 36
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -919,8 +925,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-18T10:02:38.3470906+00:00",
   "FirstSeenRating": "2023-09-23T08:59:11.6504531+00:00",
-  "LastChanged": "2024-01-03T10:59:09.1926117+00:00",
+  "LastChanged": "2024-01-03T19:59:09.0775024+00:00",
   "LastUpdate_AppInfo": "2024-01-01T11:57:03.2797487+00:00",
-  "LastUpdate_Ratings": "2024-01-03T19:00:26.2649986+00:00",
-  "LastUpdate_Achievements": "2024-01-03T19:04:50.6118189+00:00"
+  "LastUpdate_Ratings": "2024-01-03T19:59:09.0775029+00:00",
+  "LastUpdate_Achievements": "2024-01-03T20:03:34.8089586+00:00"
 }

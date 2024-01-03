@@ -8,12 +8,12 @@
 | Path of Despair | 84.00% | ~145 |
 | Not alone | 57.00% | ~99 |
 | Hunger | 48.00% | ~83 |
-| Awaken | 38.00% | ~66 |
+| Awaken | 39.00% | ~67 |
 | Path of Corruption | 34.00% | ~59 |
 | Hope | 29.00% | ~50 |
 | Rage | 29.00% | ~50 |
 | Path of Pain | 24.00% | ~42 |
-| Mayhem | 18.00% | ~31 |
+| Mayhem | 19.00% | ~33 |
 | Clarity | 17.00% | ~29 |
 | Reflections | 17.00% | ~29 |
 | The shining | 17.00% | ~29 |

@@ -23,7 +23,7 @@
 | Animal Sighting | 29.00% | ~17 |
 | Adventure Bay’s Citizen | 28.00% | ~16 |
 | The Fastest | 26.00% | ~15 |
-| Don’t Miss Any | 24.00% | ~14 |
+| Don’t Miss Any | 26.00% | ~15 |
 | Mountain and Ice | 22.00% | ~13 |
 | You Have Been Everywhere | 21.00% | ~12 |
 | Everything Under Control | 17.00% | ~10 |

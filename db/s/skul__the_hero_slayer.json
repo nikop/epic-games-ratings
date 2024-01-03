@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -1379,9 +1379,9 @@
       "Count": 147
     }
   ],
-  "EOS_Progressed": 13698,
+  "EOS_Progressed": 13700,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 932,
+  "EOS_NewPlayers": 934,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -8629,6 +8629,11 @@
       "Time": "2024-01-03T19:10:01.2699308+00:00",
       "NumProgressed": 13698,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2024-01-03T20:08:30.5925251+00:00",
+      "NumProgressed": 13700,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 24,
@@ -8664,7 +8669,7 @@
       "Name": "Focus!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 8219
+      "UsersEstimate": 8220
     },
     {
       "ID": "DemonCastleRestoration",
@@ -8688,7 +8693,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 5342
+      "UsersEstimate": 5343
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -8704,7 +8709,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 3561
+      "UsersEstimate": 3562
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -8720,7 +8725,7 @@
       "Name": "Go Home...",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 3698
+      "UsersEstimate": 3699
     },
     {
       "ID": "HeroSlayer",
@@ -8736,7 +8741,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 4109
+      "UsersEstimate": 4110
     },
     {
       "ID": "LeoniasFall_2",
@@ -8752,7 +8757,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 5068
+      "UsersEstimate": 5069
     },
     {
       "ID": "RookieWelcome",
@@ -8768,7 +8773,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 8356
+      "UsersEstimate": 8357
     },
     {
       "ID": "SavedElderEnt_2",
@@ -8776,7 +8781,7 @@
       "Name": "Quick Movements",
       "Percentage": 30,
       "XP": 90,
-      "UsersEstimate": 4109
+      "UsersEstimate": 4110
     },
     {
       "ID": "SkeletonKing",
@@ -8792,7 +8797,7 @@
       "Name": "Inventory Management",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 4383
+      "UsersEstimate": 4384
     },
     {
       "ID": "TheLegendBegins",
@@ -8800,7 +8805,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 12739
+      "UsersEstimate": 12741
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -8808,7 +8813,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 6438
+      "UsersEstimate": 6439
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -8824,22 +8829,22 @@
       "Name": "What should I buy?",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 11095
+      "UsersEstimate": 11097
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 13698,
+      "Progressed": 13700,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2024-01-03T15:02:38.6020397+00:00",
-  "LastChanged_Achievements": "2024-01-03T19:10:01.2699305+00:00",
+  "LastChanged_Achievements": "2024-01-03T20:08:30.5925247+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:27.9431294+00:00",
-  "LastUpdate_Ratings": "2024-01-03T19:02:17.3477442+00:00",
-  "LastUpdate_Achievements": "2024-01-03T19:10:01.2699757+00:00"
+  "LastUpdate_Ratings": "2024-01-03T20:00:25.807642+00:00",
+  "LastUpdate_Achievements": "2024-01-03T20:08:30.5925806+00:00"
 }

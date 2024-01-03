@@ -6,40 +6,40 @@ Number of Ratings: 180  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First line | 74.00% | ~1,710 |
-| First cargo item waiting | 68.00% | ~1,571 |
-| First bus stop | 67.00% | ~1,548 |
-| First cargo item on board | 67.00% | ~1,548 |
-| First passenger on board | 63.00% | ~1,456 |
-| First passenger waiting | 63.00% | ~1,456 |
-| First bus arrived | 62.00% | ~1,433 |
-| First train station | 60.00% | ~1,387 |
-| First steam train arrived | 56.00% | ~1,294 |
-| Cadet | 53.00% | ~1,225 |
-| First industry upgraded | 53.00% | ~1,225 |
-| Transport millionaire | 51.00% | ~1,179 |
-| Transport master | 49.00% | ~1,132 |
-| Cargo hub | 49.00% | ~1,132 |
-| Sculpturer | 46.00% | ~1,063 |
-| Settled down | 45.00% | ~1,040 |
-| First electric train arrived | 43.00% | ~994 |
-| Now what? | 43.00% | ~994 |
+| First line | 74.00% | ~1,712 |
+| First cargo item waiting | 68.00% | ~1,573 |
+| First cargo item on board | 67.00% | ~1,550 |
+| First bus stop | 66.00% | ~1,527 |
+| First passenger on board | 63.00% | ~1,457 |
+| First passenger waiting | 63.00% | ~1,457 |
+| First bus arrived | 62.00% | ~1,434 |
+| First train station | 60.00% | ~1,388 |
+| First steam train arrived | 56.00% | ~1,295 |
+| Cadet | 53.00% | ~1,226 |
+| First industry upgraded | 53.00% | ~1,226 |
+| Transport millionaire | 51.00% | ~1,180 |
+| Transport master | 49.00% | ~1,133 |
+| Cargo hub | 49.00% | ~1,133 |
+| Sculpturer | 46.00% | ~1,064 |
+| Settled down | 45.00% | ~1,041 |
+| First electric train arrived | 43.00% | ~995 |
+| Now what? | 43.00% | ~995 |
 | First ship arrived | 42.00% | ~971 |
 | Exemplary student | 41.00% | ~948 |
-| High speed | 39.00% | ~901 |
-| First aircraft arrived | 38.00% | ~878 |
-| Transport shark | 37.00% | ~855 |
+| High speed | 39.00% | ~902 |
+| First aircraft arrived | 38.00% | ~879 |
+| Transport shark | 37.00% | ~856 |
 | Mass production | 32.00% | ~740 |
-| Aircraft entrepreneur | 31.00% | ~716 |
-| Crowd in a train | 28.00% | ~647 |
-| The future is now, old man | 28.00% | ~647 |
-| Not in my backyard | 27.00% | ~624 |
+| Aircraft entrepreneur | 30.00% | ~694 |
+| Crowd in a train | 28.00% | ~648 |
+| The future is now, old man | 28.00% | ~648 |
+| Not in my backyard | 27.00% | ~625 |
 | City | 26.00% | ~601 |
 | The king of the sea | 26.00% | ~601 |
-| Transport tycoon | 21.00% | ~485 |
-| Old timer | 21.00% | ~485 |
-| Climate change | 20.00% | ~462 |
-| The ugly smell of success | 20.00% | ~462 |
+| Transport tycoon | 21.00% | ~486 |
+| Old timer | 21.00% | ~486 |
+| Climate change | 20.00% | ~463 |
+| The ugly smell of success | 20.00% | ~463 |
 | Heavily loaded | 19.00% | ~439 |
 | Bob Ross | 14.00% | ~324 |
 | Campaign expert | 10.00% | ~231 |
@@ -50,9 +50,9 @@ Number of Ratings: 180  (23.09.2022)
 | Penny pincher | 8.00% | ~185 |
 | Campaign shark | 5.00% | ~116 |
 | E.P.E.C. | 5.00% | ~116 |
-| Transport shark (Hard mode) | 4.00% | ~92 |
-| Antique | 4.00% | ~92 |
-| Transport corporation | 4.00% | ~92 |
+| Transport shark (Hard mode) | 4.00% | ~93 |
+| Antique | 4.00% | ~93 |
+| Transport corporation | 4.00% | ~93 |
 | Cannot get enough | 3.00% | ~69 |
 | Transport tycoon (Hard mode) | 2.00% | ~46 |
 | Charles Alton Ellis | 2.00% | ~46 |
@@ -62,13 +62,13 @@ Number of Ratings: 180  (23.09.2022)
 | No country for old trains | 1.00% | ~23 |
 | Campaign tycoon | 1.00% | ~23 |
 | Trans-Siberian Railway | 1.00% | ~23 |
-| Train Fever | 0.80% | ~18 |
-| Louis Favre | 0.80% | ~18 |
+| Train Fever | 0.80% | ~19 |
+| Louis Favre | 0.80% | ~19 |
 | Big spender | 0.60% | ~14 |
 | Glacier express | 0.20% | ~5 |
 | Museum line | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,311 (Ranked 237)  
+Progressed: 2,313 (Ranked 237)  
 Completed: 1 (0.04%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 1 (0.04%) (Ranked 345)
 | 2023-12-31 | 2,263 | 1 |
 | 2024-01-01 | 2,280 | 1 |
 | 2024-01-02 | 2,299 | 1 |
-| 2024-01-03 | 2,311 | 1 |
+| 2024-01-03 | 2,313 | 1 |
 ## Awards
 Max (Great for Beginners): 50  (Ranked 452)  
 Sum: 331 (Ranked 372)  

@@ -6,24 +6,24 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 5.00% | ~37,646 |
-| The Assault | 4.00% | ~30,116 |
-| Life is your teacher | 4.00% | ~30,116 |
-| Lightning Hands | 4.00% | ~30,116 |
-| The Hateful Pole Fighter | 2.00% | ~15,058 |
-| A Lady's Blood in the Snow | 2.00% | ~15,058 |
-| Lady Wing Chun | 2.00% | ~15,058 |
-| Kill Nil | 2.00% | ~15,058 |
-| Stuntmaster | 2.00% | ~15,058 |
-| Street Fighting | 2.00% | ~15,058 |
-| State of constant learning | 2.00% | ~15,058 |
-| Qi Gong: Breath | 2.00% | ~15,058 |
-| Qi Gong: Essence | 2.00% | ~15,058 |
-| I know Kung-Fu | 2.00% | ~15,058 |
-| Old Child | 2.00% | ~15,058 |
-| Path of the Prospect | 2.00% | ~15,058 |
-| Rumble in the Hangar | 2.00% | ~15,058 |
-| Diligence as a goal | 2.00% | ~1,244 |
+| The Old Grandmaster | 5.00% | ~37,647 |
+| The Assault | 4.00% | ~30,118 |
+| Life is your teacher | 4.00% | ~30,118 |
+| Lightning Hands | 4.00% | ~30,118 |
+| The Hateful Pole Fighter | 2.00% | ~15,059 |
+| A Lady's Blood in the Snow | 2.00% | ~15,059 |
+| Lady Wing Chun | 2.00% | ~15,059 |
+| Kill Nil | 2.00% | ~15,059 |
+| Stuntmaster | 2.00% | ~15,059 |
+| Street Fighting | 2.00% | ~15,059 |
+| State of constant learning | 2.00% | ~15,059 |
+| Qi Gong: Breath | 2.00% | ~15,059 |
+| Qi Gong: Essence | 2.00% | ~15,059 |
+| I know Kung-Fu | 2.00% | ~15,059 |
+| Old Child | 2.00% | ~15,059 |
+| Path of the Prospect | 2.00% | ~15,059 |
+| Rumble in the Hangar | 2.00% | ~15,059 |
+| Diligence as a goal | 2.00% | ~1,245 |
 | Furious Fists | 1.00% | ~7,529 |
 | Scareless | 1.00% | ~7,529 |
 | Qi Gong: Mind | 1.00% | ~7,529 |
@@ -32,9 +32,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Project Arena | 1.00% | ~622 |
 | Dance of the Praying Mantis | 0.90% | ~6,776 |
 | Fight the way you practice | 0.80% | ~498 |
-| Muk Yan Master | 0.60% | ~4,517 |
-| Tiger on Fire | 0.60% | ~4,517 |
-| Detective Story | 0.60% | ~4,517 |
+| Muk Yan Master | 0.60% | ~4,518 |
+| Tiger on Fire | 0.60% | ~4,518 |
+| Detective Story | 0.60% | ~4,518 |
 | Martial Hub | 0.60% | ~373 |
 | Source of Flying Daggers | 0.50% | ~3,765 |
 | Iron Money | 0.50% | ~3,765 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~62 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 752,912 (Ranked 24)  
+Progressed: 752,941 (Ranked 24)  
 Completed: 12,972 (1.72%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 12,972 (1.72%) (Ranked 141)
 | 2023-12-31 | 750,399 | 12,971 |
 | 2024-01-01 | 751,425 | 12,971 |
 | 2024-01-02 | 752,188 | 12,971 |
-| 2024-01-03 | 752,912 | 12,972 |
+| 2024-01-03 | 752,941 | 12,972 |
 ## Awards
 Max (Great Boss Battles): 7,088  (Ranked 55)  
 Sum: 11,987 (Ranked 87)  

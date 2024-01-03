@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1237,
+  "EOS_Progressed": 1238,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 0,
@@ -3117,6 +3117,11 @@
       "Time": "2024-01-03T19:08:50.8225706+00:00",
       "NumProgressed": 1237,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-03T20:07:53.0055352+00:00",
+      "NumProgressed": 1238,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -3137,7 +3142,7 @@
       "Name": "Territorial",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "Capture100VictoryPoints",
@@ -3185,7 +3190,7 @@
       "Name": "Pathfinder",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "CompleteChapter10",
@@ -3201,7 +3206,7 @@
       "Name": "The Artefact is Mine",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "CompleteChapter12",
@@ -3209,7 +3214,7 @@
       "Name": "Grumblin\u0027 Bellies",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "CompleteChapter13",
@@ -3257,7 +3262,7 @@
       "Name": "Who Needs Reinforcements?",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "CompleteChapter18",
@@ -3273,7 +3278,7 @@
       "Name": "Met the Enemy",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "CompleteChapter3",
@@ -3289,7 +3294,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "CompleteChapter5",
@@ -3305,7 +3310,7 @@
       "Name": "More Waagh, More Problems",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "CompleteChapter7",
@@ -3424,14 +3429,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 1237,
+      "Progressed": 1238,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2024-01-03T19:08:50.8225704+00:00",
+  "LastChanged_Achievements": "2024-01-03T20:07:53.0055347+00:00",
   "LastUpdate_AppInfo": "2023-12-29T09:57:13.5043463+00:00",
-  "LastUpdate_Ratings": "2024-01-03T19:01:20.1111731+00:00",
-  "LastUpdate_Achievements": "2024-01-03T19:08:50.8225991+00:00"
+  "LastUpdate_Ratings": "2024-01-03T19:59:46.6847255+00:00",
+  "LastUpdate_Achievements": "2024-01-03T20:07:53.0055775+00:00"
 }

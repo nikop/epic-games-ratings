@@ -3,9 +3,9 @@
   "Name": "HOT WHEELS UNLEASHED\u2122 2 - Turbocharged",
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 254,
-  "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_Completed": 333,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,11 +22,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1816,
+  "EOS_Progressed": 1819,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.06,
+  "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
     {
       "Time": "2023-10-04T08:05:55.5813903+00:00",
@@ -4547,6 +4547,11 @@
       "Time": "2024-01-03T19:08:00.0216856+00:00",
       "NumProgressed": 1816,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-03T20:05:55.1206765+00:00",
+      "NumProgressed": 1819,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4615,7 +4620,7 @@
       "Name": "Versatile riding",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -4735,7 +4740,7 @@
       "Name": "The Scorpion",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -4861,9 +4866,9 @@
       "ID": "ML_ACHIEVEMENT_39",
       "SetID": "5k00jcd",
       "Name": "Tools of the trade",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -4895,7 +4900,7 @@
       "Name": "Mission complete",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ML_ACHIEVEMENT_44",
@@ -4926,20 +4931,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1816,
+      "Progressed": 1819,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1484,
+      "Progressed": 1487,
       "Completed": 1006
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-03T19:08:00.0216849+00:00",
+  "LastChanged_Achievements": "2024-01-03T20:05:55.120676+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:19.4494243+00:00",
-  "LastUpdate_Ratings": "2024-01-03T19:01:47.0689012+00:00",
-  "LastUpdate_Achievements": "2024-01-03T19:08:00.0217557+00:00"
+  "LastUpdate_Ratings": "2024-01-03T20:00:03.9458703+00:00",
+  "LastUpdate_Achievements": "2024-01-03T20:05:55.1207474+00:00"
 }

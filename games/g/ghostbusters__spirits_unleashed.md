@@ -5,9 +5,9 @@ Rating: 4.50 (Ranked 613)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 11.00% | ~3,651 |
-| Advancement | 8.00% | ~2,655 |
-| Meticulously Efficient | 8.00% | ~2,655 |
+| Stylish | 11.00% | ~3,652 |
+| Advancement | 8.00% | ~2,656 |
+| Meticulously Efficient | 8.00% | ~2,656 |
 | Discovery | 6.00% | ~1,992 |
 | Solo Capture | 6.00% | ~1,992 |
 | Swift Rift Removers | 6.00% | ~1,992 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 613)
 | Ultimate Defense | 0.20% | ~66 |
 | Line em' up | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,193 (Ranked 136)  
+Progressed: 33,197 (Ranked 136)  
 Completed: 71 (0.21%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,15 +315,15 @@ Completed: 71 (0.21%) (Ranked 270)
 | 2023-12-31 | 33,028 | 71 |
 | 2024-01-01 | 33,089 | 71 |
 | 2024-01-02 | 33,151 | 71 |
-| 2024-01-03 | 33,193 | 71 |
+| 2024-01-03 | 33,197 | 71 |
 ## Awards
-Max (Great for Quick Sessions): 326  (Ranked 254)  
-Sum: 2,947 (Ranked 185)  
+Max (Great for Quick Sessions): 327  (Ranked 254)  
+Sum: 2,948 (Ranked 185)  
 Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
+| This game is Great for Quick Sessions | 327 |
 | This game is Great for Beginners | 326 |
-| This game is Great for Quick Sessions | 326 |
 | This game has Diverse Characters | 312 |
 | This game has Amazing Storytelling | 293 |
 | This game is Highly Recommended | 292 |
@@ -592,3 +592,4 @@ Diff (max vs sum): 69
 | 2023-12-31 | 4.50 | 326 | 2,943 |
 | 2024-01-01 | 4.50 | 326 | 2,944 |
 | 2024-01-02 | 4.50 | 326 | 2,947 |
+| 2024-01-03 | 4.50 | 327 | 2,948 |

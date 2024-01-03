@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~35,474 |
-| Safety in the Storm | 23.00% | ~8,588 |
-| A Better Idea | 23.00% | ~8,588 |
-| Begin the Ceremony | 19.00% | ~7,095 |
-| Mission Accomplished | 18.00% | ~6,721 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~5,601 |
-| A Starfighter of Your Own | 13.00% | ~4,854 |
-| Asset Secured | 12.00% | ~4,481 |
-| Unkillable | 7.00% | ~2,614 |
-| Together, Vanguard | 7.00% | ~2,614 |
-| The Galaxy's Finest (Pilot) | 6.00% | ~2,240 |
-| Sound Strategy | 6.00% | ~2,240 |
-| Stomped | 5.00% | ~1,867 |
+| Fracture at Fostar Haven | 95.00% | ~35,487 |
+| Safety in the Storm | 23.00% | ~8,592 |
+| A Better Idea | 23.00% | ~8,592 |
+| Begin the Ceremony | 19.00% | ~7,097 |
+| Mission Accomplished | 18.00% | ~6,724 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~5,603 |
+| A Starfighter of Your Own | 13.00% | ~4,856 |
+| Asset Secured | 12.00% | ~4,483 |
+| Unkillable | 7.00% | ~2,615 |
+| Together, Vanguard | 7.00% | ~2,615 |
+| The Galaxy's Finest (Pilot) | 6.00% | ~2,241 |
+| Sound Strategy | 6.00% | ~2,241 |
+| Stomped | 5.00% | ~1,868 |
 | Fearless | 4.00% | ~1,494 |
 | Back From the Brink | 4.00% | ~1,494 |
 | Flames Over Mon Cala | 4.00% | ~1,494 |
 | A Promising Career | 4.00% | ~1,494 |
-| Great Shot, Kid | 3.00% | ~1,120 |
-| Stronger Together | 3.00% | ~1,120 |
-| Temporary Guardian | 3.00% | ~1,120 |
-| Baited | 3.00% | ~1,120 |
-| Punch It | 3.00% | ~1,120 |
+| Great Shot, Kid | 3.00% | ~1,121 |
+| Stronger Together | 3.00% | ~1,121 |
+| Temporary Guardian | 3.00% | ~1,121 |
+| Baited | 3.00% | ~1,121 |
+| Punch It | 3.00% | ~1,121 |
 | Stun 'Em | 2.00% | ~747 |
 | Squadron Hunter | 2.00% | ~747 |
 | Combat Pilot | 2.00% | ~747 |
 | Dressed for the Job You Want | 2.00% | ~747 |
-| I Have You Now | 1.00% | ~373 |
+| I Have You Now | 1.00% | ~374 |
 | Against the Current | 0.80% | ~299 |
 | Denied | 0.70% | ~261 |
 | Found Your Place | 0.60% | ~224 |
@@ -52,7 +52,7 @@
 | The Galaxy's Finest (Ace) | 0.10% | ~37 |
 | Ultimate Weapon | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37,341 (Ranked 133)  
+Progressed: 37,355 (Ranked 133)  
 Completed: 3 (0.01%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 3 (0.01%) (Ranked 368)
 | 2023-12-31 | 36,244 | 3 |
 | 2024-01-01 | 36,677 | 3 |
 | 2024-01-02 | 37,047 | 3 |
-| 2024-01-03 | 37,341 | 3 |
+| 2024-01-03 | 37,355 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

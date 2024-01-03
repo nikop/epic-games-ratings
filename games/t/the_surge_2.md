@@ -6,8 +6,8 @@ Rating: 4.27 (Ranked 897)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rigged And Ready | 79.00% | ~1,939 |
-| Don't I Know You...? | 75.00% | ~1,840 |
-| Jailbreak | 65.00% | ~1,595 |
+| Don't I Know You...? | 75.00% | ~1,841 |
+| Jailbreak | 65.00% | ~1,596 |
 | Suited and Booted | 38.00% | ~933 |
 | HEADSHOT! | 37.00% | ~908 |
 | Sleeping With The Fishes | 35.00% | ~859 |
@@ -15,10 +15,10 @@ Rating: 4.27 (Ranked 897)
 | High Performance | 30.00% | ~736 |
 | Powered Up | 28.00% | ~687 |
 | Studied The Blade | 24.00% | ~589 |
-| Home Invasion | 23.00% | ~564 |
+| Home Invasion | 23.00% | ~565 |
 | Luminary | 22.00% | ~540 |
 | It's a Trap | 22.00% | ~540 |
-| True Survivor | 21.00% | ~515 |
+| True Survivor | 21.00% | ~516 |
 | Offensive Defense | 20.00% | ~491 |
 | Shocking | 20.00% | ~491 |
 | Court Martial | 19.00% | ~466 |
@@ -32,24 +32,24 @@ Rating: 4.27 (Ranked 897)
 | Where It All Began | 13.00% | ~319 |
 | Risk Tolerant | 13.00% | ~319 |
 | What A Catchy Song | 13.00% | ~319 |
-| Corrupted Beauty | 12.00% | ~294 |
-| Marked For Success | 12.00% | ~294 |
-| Sorry, Didn't See You There | 12.00% | ~294 |
-| Stimulating The Local Economy | 10.00% | ~245 |
-| Triplets | 10.00% | ~245 |
+| Corrupted Beauty | 12.00% | ~295 |
+| Marked For Success | 12.00% | ~295 |
+| Sorry, Didn't See You There | 12.00% | ~295 |
+| Stimulating The Local Economy | 10.00% | ~246 |
+| Triplets | 10.00% | ~246 |
 | Denying Prophecy | 9.00% | ~221 |
 | A Little Banged Up | 8.00% | ~196 |
 | Following In Their Footsteps | 8.00% | ~196 |
 | Defense in Depth | 8.00% | ~196 |
 | Reverse Engineering | 7.00% | ~172 |
-| Reborn | 6.00% | ~147 |
 | Remote Surgery | 6.00% | ~147 |
 | Turbo Booster | 6.00% | ~147 |
-| Juiced Up | 6.00% | ~147 |
 | Squid Pro Quo | 6.00% | ~147 |
+| Reborn | 5.00% | ~123 |
 | Hello Darkness My Old Friend | 5.00% | ~123 |
 | Counter-Sniper | 5.00% | ~123 |
 | Shrimp Cocktail | 5.00% | ~123 |
+| Juiced Up | 5.00% | ~123 |
 | Geronimo! | 4.00% | ~98 |
 | Homewrecker | 4.00% | ~98 |
 | Plank of Wood | 4.00% | ~98 |
@@ -63,7 +63,7 @@ Rating: 4.27 (Ranked 897)
 | Three Birds With One Stone | 1.00% | ~25 |
 | The Easy Way Out | 1.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,454 (Ranked 234)  
+Progressed: 2,455 (Ranked 234)  
 Completed: 13 (0.53%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 13 (0.53%) (Ranked 214)
 | 2023-12-31 | 2,428 | 13 |
 | 2024-01-01 | 2,442 | 13 |
 | 2024-01-02 | 2,447 | 13 |
-| 2024-01-03 | 2,454 | 13 |
+| 2024-01-03 | 2,455 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

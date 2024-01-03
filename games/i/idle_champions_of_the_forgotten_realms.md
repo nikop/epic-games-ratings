@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~7,515 |
+| A Brief Tour of the Realms | 3.00% | ~7,516 |
 | Beast Intentions | 1.00% | ~2,505 |
 | The Cursed Farmer | 1.00% | ~2,505 |
 | The Mad Wizard | 1.00% | ~2,505 |
@@ -32,6 +32,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Terror in the Dark | 0.30% | ~752 |
 | Unearthed Evil | 0.30% | ~752 |
 | The Crumbling Temple | 0.30% | ~752 |
+| Exploring Port Nyanzaru | 0.30% | ~752 |
 | The Contagious Curse | 0.30% | ~752 |
 | Arcane Suppression | 0.30% | ~650 |
 | Welcome to the Vrocks | 0.30% | ~650 |
@@ -43,7 +44,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | March of the Undead | 0.20% | ~501 |
 | No Time To Rest | 0.20% | ~501 |
 | Useless Allies | 0.20% | ~501 |
-| Exploring Port Nyanzaru | 0.20% | ~501 |
 | Running of the Saurs | 0.20% | ~501 |
 | Escort to Waterdeep | 0.20% | ~501 |
 | Waterdeep Detours | 0.20% | ~501 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~217 |
 | The Brains of an Illithid's Desire | 0.10% | ~217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,513 (Ranked 70)  
+Progressed: 250,531 (Ranked 70)  
 Completed: 2,588 (1.03%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -811,19 +811,19 @@ Completed: 2,588 (1.03%) (Ranked 169)
 | 2023-12-31 | 248,665 | 2,581 |
 | 2024-01-01 | 249,335 | 2,583 |
 | 2024-01-02 | 250,032 | 2,585 |
-| 2024-01-03 | 250,513 | 2,588 |
+| 2024-01-03 | 250,531 | 2,588 |
 ## Awards
 Max (Great for Beginners): 5,730  (Ranked 72)  
-Sum: 33,274 (Ranked 41)  
+Sum: 33,283 (Ranked 41)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,730 |
 | This game has Diverse Characters | 5,678 |
-| This game has Quickly Understood Controls | 4,887 |
-| This game is Relaxing | 4,757 |
-| This game has Amazing Characters | 4,309 |
-| This game is Highly Recommended | 4,291 |
+| This game has Quickly Understood Controls | 4,888 |
+| This game is Relaxing | 4,760 |
+| This game has Amazing Characters | 4,312 |
+| This game is Highly Recommended | 4,293 |
 | This game has Playful Visuals | 3,622 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -1170,3 +1170,4 @@ Diff (max vs sum): 31
 | 2023-12-31 | 4.06 | - | 5,720 | 33,212 |
 | 2024-01-01 | 4.06 | - | 5,726 | 33,249 |
 | 2024-01-02 | 4.06 | - | 5,730 | 33,274 |
+| 2024-01-03 | 4.06 | - | 5,730 | 33,283 |

@@ -1,11 +1,11 @@
 # Genshin Impact
 [Store](https://store.epicgames.com/en-US/p/genshin-impact)  
 [View Rawdata](../../db/g/genshin_impact.json)  
-Rating: 4.68 (Ranked 260)  
+Rating: 4.68 (Ranked 259)  
 Number of Ratings: 219,180  (23.09.2022)  
 ## Awards
 Max (Character Customization): 322,973  (Ranked 3)  
-Sum: 1,475,021 (Ranked 4)  
+Sum: 1,475,060 (Ranked 4)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -18,7 +18,7 @@ Diff (max vs sum): -1
 | This game is Extremely Fun | 120,180 |
 | This game has Beautiful Visuals | 118,515 |
 | This game is Relaxing | 116,121 |
-| This game has Quickly Understood Controls | 115,759 |
+| This game has Quickly Understood Controls | 115,798 |
 | This game has Obsessive Gameplay | 53,865 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -366,4 +366,4 @@ Diff (max vs sum): -1
 | 2023-12-31 | 4.68 | - | 322,553 | 1,472,906 |
 | 2024-01-01 | 4.68 | - | 322,679 | 1,473,663 |
 | 2024-01-02 | 4.68 | - | 322,838 | 1,474,439 |
-| 2024-01-03 | 4.68 | - | 322,973 | 1,475,021 |
+| 2024-01-03 | 4.68 | - | 322,973 | 1,475,060 |

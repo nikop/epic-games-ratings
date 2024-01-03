@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 461,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 36,
-  "Ranking_EOS_NewPlayers": 325,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
     "PcReleaseDate": "2022-01-14T10:00:00+00:00",
@@ -431,10 +431,10 @@
     }
   ],
   "EOS_Progressed": 2416,
-  "EOS_Completed": 292,
+  "EOS_Completed": 293,
   "EOS_NewPlayers": 23,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 12.09,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 12.13,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:47.4001279+00:00",
@@ -2795,6 +2795,11 @@
       "Time": "2024-01-03T18:04:34.7433986+00:00",
       "NumProgressed": 2416,
       "NumCompleted": 292
+    },
+    {
+      "Time": "2024-01-03T20:03:29.3678593+00:00",
+      "NumProgressed": 2416,
+      "NumCompleted": 293
     }
   ],
   "TotalAchievements": 53,
@@ -3044,9 +3049,9 @@
       "ID": "Map",
       "SetID": "5lok9mm",
       "Name": "Don\u0027t draw dicks pls",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 20,
-      "UsersEstimate": 2029
+      "UsersEstimate": 2054
     },
     {
       "ID": "MissionUnlikely",
@@ -3230,14 +3235,14 @@
       "ID": "5lok9mm",
       "IsBase": true,
       "Progressed": 2416,
-      "Completed": 292
+      "Completed": 293
     }
   ],
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-12-30T23:58:48.7600595+00:00",
-  "LastChanged_Achievements": "2024-01-03T19:04:42.9835561+00:00",
+  "LastChanged_Achievements": "2024-01-03T20:03:29.3678587+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:33.9994226+00:00",
-  "LastUpdate_Ratings": "2024-01-03T18:57:29.5207335+00:00",
-  "LastUpdate_Achievements": "2024-01-03T19:04:42.9836056+00:00"
+  "LastUpdate_Ratings": "2024-01-03T19:57:06.3167395+00:00",
+  "LastUpdate_Achievements": "2024-01-03T20:03:29.3678999+00:00"
 }

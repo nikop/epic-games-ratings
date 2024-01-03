@@ -5,20 +5,20 @@ Rating: 4.80 (Ranked 92)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 68.00% | ~965 |
-| The Adventure Begins | 49.00% | ~695 |
-| Swabbie | 36.00% | ~511 |
-| With Great Power… | 36.00% | ~511 |
-| This Belongs in a Museum | 33.00% | ~468 |
-| The Gambit Has Begun | 30.00% | ~426 |
-| Somewhere Deep in the Lost Caribbean | 26.00% | ~369 |
-| Mirror Mirror on the Wall | 26.00% | ~369 |
-| Powder Monkey | 26.00% | ~369 |
+| A New Journey | 68.00% | ~967 |
+| The Adventure Begins | 49.00% | ~697 |
+| Swabbie | 36.00% | ~512 |
+| With Great Power… | 36.00% | ~512 |
+| This Belongs in a Museum | 33.00% | ~469 |
+| The Gambit Has Begun | 30.00% | ~427 |
+| Somewhere Deep in the Lost Caribbean | 26.00% | ~370 |
+| Mirror Mirror on the Wall | 26.00% | ~370 |
+| Powder Monkey | 26.00% | ~370 |
 | Pirates Assemble! | 24.00% | ~341 |
 | Buccaneer | 20.00% | ~284 |
 | Fishy Fish | 20.00% | ~284 |
-| All Good Things | 18.00% | ~255 |
-| Persistent Parasite | 17.00% | ~241 |
+| All Good Things | 18.00% | ~256 |
+| Persistent Parasite | 17.00% | ~242 |
 | Seadog | 14.00% | ~199 |
 | Tobacco Travesty | 11.00% | ~156 |
 | Jaded Judge | 11.00% | ~156 |
@@ -26,14 +26,14 @@ Rating: 4.80 (Ranked 92)
 | Privateer | 9.00% | ~128 |
 | Accursed Artifacts | 9.00% | ~128 |
 | Lyrical Longing | 9.00% | ~128 |
-| Fully Decked | 7.00% | ~99 |
+| Fully Decked | 7.00% | ~100 |
 | Corsair | 5.00% | ~71 |
 | Freebooter | 4.00% | ~57 |
 | Marauder | 3.00% | ~43 |
 | Welcome Back Jester | 3.00% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,419 (Ranked 266)  
-Completed: 35 (2.47%) (Ranked 126)  
+Progressed: 1,422 (Ranked 266)  
+Completed: 35 (2.46%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -178,7 +178,7 @@ Completed: 35 (2.47%) (Ranked 126)
 | 2023-12-31 | 1,384 | 35 |
 | 2024-01-01 | 1,393 | 35 |
 | 2024-01-02 | 1,413 | 35 |
-| 2024-01-03 | 1,419 | 35 |
+| 2024-01-03 | 1,422 | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

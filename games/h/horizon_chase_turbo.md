@@ -6,17 +6,17 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~989,547 |
-| I Need a Bigger Garage | 63.00% | ~692,683 |
-| Pump my Ride | 47.00% | ~516,764 |
-| Ghostbuster | 34.00% | ~373,829 |
-| Call Roadside Assistance | 18.00% | ~197,909 |
-| That Was Close | 18.00% | ~197,909 |
-| Quickie | 11.00% | ~120,945 |
-| California Dreamer | 7.00% | ~76,965 |
-| Can't Touch This | 5.00% | ~54,975 |
-| Carménère Taster | 4.00% | ~43,980 |
-| Comeback | 4.00% | ~43,980 |
+| The First of Many | 90.00% | ~989,564 |
+| I Need a Bigger Garage | 63.00% | ~692,695 |
+| Pump my Ride | 47.00% | ~516,773 |
+| Ghostbuster | 34.00% | ~373,835 |
+| Call Roadside Assistance | 18.00% | ~197,913 |
+| That Was Close | 18.00% | ~197,913 |
+| Quickie | 11.00% | ~120,947 |
+| California Dreamer | 7.00% | ~76,966 |
+| Can't Touch This | 5.00% | ~54,976 |
+| Carménère Taster | 4.00% | ~43,981 |
+| Comeback | 4.00% | ~43,981 |
 | Driver from Ipanema | 3.00% | ~32,985 |
 | Supersonic | 3.00% | ~32,985 |
 | Marathonist | 3.00% | ~32,985 |
@@ -34,18 +34,18 @@ Number of Ratings: 1,343  (23.09.2022)
 | Oil Tycoon | 1.00% | ~10,995 |
 | Golden Passport | 1.00% | ~10,995 |
 | Brave and Bold | 1.00% | ~10,995 |
-| Volcano Surfer | 0.90% | ~9,895 |
-| Otaku | 0.90% | ~9,895 |
+| Volcano Surfer | 0.90% | ~9,896 |
+| Otaku | 0.90% | ~9,896 |
 | Survivor | 0.60% | ~6,597 |
 | King of the World | 0.60% | ~6,597 |
-| Getting Famous | 0.50% | ~5,497 |
-| Now Go Play Outside | 0.30% | ~3,298 |
+| Getting Famous | 0.50% | ~5,498 |
+| Now Go Play Outside | 0.30% | ~3,299 |
 | Master of the Racetrack | 0.20% | ~2,199 |
 | Look Mom, No Hands! | 0.20% | ~2,199 |
-| Transporter | 0.10% | ~1,099 |
+| Transporter | 0.10% | ~1,100 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,099,497 (Ranked 14)  
-Completed: 528 (0.05%) (Ranked 334)  
+Progressed: 1,099,516 (Ranked 14)  
+Completed: 528 (0.05%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -302,7 +302,7 @@ Completed: 528 (0.05%) (Ranked 334)
 | 2023-12-31 | 1,097,779 | 528 |
 | 2024-01-01 | 1,098,467 | 528 |
 | 2024-01-02 | 1,099,049 | 528 |
-| 2024-01-03 | 1,099,497 | 528 |
+| 2024-01-03 | 1,099,516 | 528 |
 ## Awards
 Max (Great for Beginners): 183  (Ranked 309)  
 Sum: 1,626 (Ranked 233)  

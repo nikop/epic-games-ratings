@@ -29,8 +29,8 @@ Number of Ratings: 90  (23.09.2022)
 | Dusted | 8.00% | ~24 |
 | Scuttled | 7.00% | ~21 |
 | Lobster Blisque | 5.00% | ~15 |
+| Yettisoned | 5.00% | ~15 |
 | Ultimate Smoothie | 4.00% | ~12 |
-| Yettisoned | 4.00% | ~12 |
 | Arkvoodle Doodle | 4.00% | ~12 |
 | Deincarnated | 3.00% | ~9 |
 | Arty Facts | 1.00% | ~3 |
