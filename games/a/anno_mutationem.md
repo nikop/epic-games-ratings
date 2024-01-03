@@ -5,12 +5,12 @@ Rating: 4.55 (Ranked 522)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tell me your story | 75.00% | ~618 |
-| Don't judge a manhole by its cover | 60.00% | ~494 |
+| Tell me your story | 75.00% | ~619 |
+| Don't judge a manhole by its cover | 60.00% | ~495 |
 | I just love stuff! | 41.00% | ~338 |
 | Keep 'em coming! | 41.00% | ~338 |
-| The things they print nowadays | 39.00% | ~321 |
-| Big Spender | 38.00% | ~313 |
+| The things they print nowadays | 39.00% | ~322 |
+| Big Spender | 38.00% | ~314 |
 | That's gotta hurt | 36.00% | ~297 |
 | I think it's broke | 26.00% | ~214 |
 | The Ann Flores Combo Experience | 26.00% | ~214 |
@@ -30,10 +30,10 @@ Rating: 4.55 (Ranked 522)
 | Welcome home, 06 | 8.00% | ~66 |
 | I'm walking here! | 7.00% | ~58 |
 | So Fresh and So clean clean | 7.00% | ~58 |
-| Clarity of Mind | 6.00% | ~49 |
-| I feel secure, contained & protected | 6.00% | ~49 |
-| Science, it works! | 6.00% | ~49 |
-| The Traveler | 6.00% | ~49 |
+| Clarity of Mind | 6.00% | ~50 |
+| I feel secure, contained & protected | 6.00% | ~50 |
+| Science, it works! | 6.00% | ~50 |
+| The Traveler | 6.00% | ~50 |
 | Woman on a (side) mission | 5.00% | ~41 |
 | Ann ULTRA | 3.00% | ~25 |
 | Lady Luck is a cool cat | 3.00% | ~25 |
@@ -42,8 +42,8 @@ Rating: 4.55 (Ranked 522)
 | Love me like I love my posters | 1.00% | ~8 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 824 (Ranked 303)  
-Completed: 0 (0.00%) (Ranked 390)  
+Progressed: 825 (Ranked 303)  
+Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -162,7 +162,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-31 | 815 | 0 |
 | 2024-01-01 | 818 | 0 |
 | 2024-01-02 | 821 | 0 |
-| 2024-01-03 | 824 | 0 |
+| 2024-01-03 | 825 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,26 +5,26 @@ Rating: 4.59 (Ranked 445)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 32.00% | ~1,253 |
-| Sputnik 2049 | 28.00% | ~1,096 |
-| Infinite Growth... | 27.00% | ~1,057 |
-| Without Breaking Some Eggs... | 26.00% | ~1,018 |
+| Wakey Wakey | 32.00% | ~1,254 |
+| Sputnik 2049 | 28.00% | ~1,097 |
+| Infinite Growth... | 27.00% | ~1,058 |
+| Without Breaking Some Eggs... | 26.00% | ~1,019 |
 | Space Society | 18.00% | ~705 |
 | A Thousand Strong | 18.00% | ~705 |
 | Ready for a New World | 18.00% | ~705 |
 | Permanent Redesigns | 16.00% | ~627 |
-| Fully Recycled | 15.00% | ~587 |
-| The Ship of Theseus | 15.00% | ~587 |
-| Guy de Borderlands | 14.00% | ~548 |
-| Ain't Nobody Got Time for That | 14.00% | ~548 |
+| Fully Recycled | 15.00% | ~588 |
+| The Ship of Theseus | 15.00% | ~588 |
+| Guy de Borderlands | 14.00% | ~549 |
+| Ain't Nobody Got Time for That | 14.00% | ~549 |
 | Hope Seeker | 13.00% | ~509 |
 | A Hunk of Junk | 12.00% | ~470 |
 | Exceeding Capacity | 12.00% | ~470 |
 | Breaking Protocol | 12.00% | ~470 |
-| Man's Best Friend | 9.00% | ~352 |
-| Power Outage | 9.00% | ~352 |
-| Please Make it Stop! | 9.00% | ~352 |
+| Man's Best Friend | 9.00% | ~353 |
+| Power Outage | 9.00% | ~353 |
 | Convenient Transport | 8.00% | ~313 |
+| Please Make it Stop! | 8.00% | ~313 |
 | Sightseeing | 7.00% | ~274 |
 | Necessary Enhancement | 7.00% | ~274 |
 | From the Past | 7.00% | ~274 |
@@ -39,10 +39,10 @@ Rating: 4.59 (Ranked 445)
 | What the Ruins Teach Us | 5.00% | ~196 |
 | Sustainable Energy | 4.00% | ~157 |
 | Pedal to the Metal | 4.00% | ~157 |
-| Praise the Hull! | 3.00% | ~117 |
-| Delivery! | 3.00% | ~117 |
-| Help of the Forgotten Member | 3.00% | ~117 |
-| Pulsar Disciple | 3.00% | ~117 |
+| Praise the Hull! | 3.00% | ~118 |
+| Delivery! | 3.00% | ~118 |
+| Help of the Forgotten Member | 3.00% | ~118 |
+| Pulsar Disciple | 3.00% | ~118 |
 | Mutual Loyalty | 2.00% | ~78 |
 | Tiqqun Contender | 2.00% | ~78 |
 | Catastrophe Avoided | 2.00% | ~78 |
@@ -53,7 +53,7 @@ Rating: 4.59 (Ranked 445)
 | Remember the Dead | 1.00% | ~39 |
 | Gregor Spinoza | 1.00% | ~39 |
 | Scientifically Accurate | 1.00% | ~39 |
-| Work Harder | 0.60% | ~23 |
+| Work Harder | 0.60% | ~24 |
 | Crunch Culture | 0.40% | ~16 |
 | Soylent Green | 0.40% | ~16 |
 | A Junker's Dream | 0.30% | ~12 |
@@ -63,8 +63,8 @@ Rating: 4.59 (Ranked 445)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,916 (Ranked 212)  
-Completed: 0 (0.00%) (Ranked 390)  
+Progressed: 3,918 (Ranked 212)  
+Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -311,7 +311,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-31 | 3,860 | 0 |
 | 2024-01-01 | 3,888 | 0 |
 | 2024-01-02 | 3,912 | 0 |
-| 2024-01-03 | 3,916 | 0 |
+| 2024-01-03 | 3,918 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

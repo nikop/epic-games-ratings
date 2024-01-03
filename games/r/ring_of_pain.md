@@ -11,7 +11,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | A Quick Escape | 1.00% | ~2,423 |
 | Uncharted Territory | 1.00% | ~2,423 |
 | An Offering | 1.00% | ~2,423 |
-| Matching | 1.00% | ~37 |
+| Matching | 1.00% | ~38 |
 | Nothing To Lose | 0.90% | ~2,180 |
 | Heavy Hitter | 0.90% | ~2,180 |
 | That Was Quick | 0.90% | ~2,180 |
@@ -98,8 +98,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Path To Enlightenment | 0.20% | ~485 |
 | No Mercy | 0.20% | ~485 |
 | Just Looking Around | 0.20% | ~485 |
-| Diviner | 0.20% | ~7 |
-| Nuclear | 0.20% | ~7 |
+| Diviner | 0.20% | ~8 |
+| Nuclear | 0.20% | ~8 |
 | Quick Descent | 0.10% | ~242 |
 | A Week Attempt | 0.10% | ~242 |
 | Hydrophobe | 0.10% | ~242 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,269 (Ranked 72)  
+Progressed: 242,270 (Ranked 72)  
 Completed: 303 (0.13%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -403,7 +403,7 @@ Completed: 303 (0.13%) (Ranked 295)
 | 2023-12-31 | 242,129 | 302 |
 | 2024-01-01 | 242,196 | 302 |
 | 2024-01-02 | 242,247 | 303 |
-| 2024-01-03 | 242,269 | 303 |
+| 2024-01-03 | 242,270 | 303 |
 ## Awards
 Max (Quickly Understood Controls): 1,513  (Ranked 136)  
 Sum: 11,781 (Ranked 88)  

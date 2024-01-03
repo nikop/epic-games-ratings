@@ -173,9 +173,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24354,
+  "EOS_Progressed": 24355,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 477,
+  "EOS_NewPlayers": 475,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -22278,6 +22278,11 @@
       "Time": "2024-01-03T09:04:42.7504944+00:00",
       "NumProgressed": 24354,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2024-01-03T11:03:56.0117605+00:00",
+      "NumProgressed": 24355,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 14,
@@ -22305,7 +22310,7 @@
       "Name": "Caught in a Trap",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 2435
+      "UsersEstimate": 2436
     },
     {
       "ID": "ACH_DANGER_AHEAD",
@@ -22313,7 +22318,7 @@
       "Name": "Danger Ahead",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 6088
+      "UsersEstimate": 6089
     },
     {
       "ID": "ACH_DONT_BRING_ME_DOWN",
@@ -22361,7 +22366,7 @@
       "Name": "In My Own Time",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 2922
+      "UsersEstimate": 2923
     },
     {
       "ID": "ACH_LOOK_AT_ME_NOW",
@@ -22400,15 +22405,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 24354,
+      "Progressed": 24355,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-11-02T20:58:32.2795394+00:00",
-  "LastChanged_Achievements": "2024-01-03T10:04:48.586631+00:00",
+  "LastChanged_Achievements": "2024-01-03T11:03:56.0117601+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:21.7307915+00:00",
-  "LastUpdate_Ratings": "2024-01-03T10:03:17.0193368+00:00",
-  "LastUpdate_Achievements": "2024-01-03T10:04:48.5867769+00:00"
+  "LastUpdate_Ratings": "2024-01-03T11:02:51.5164826+00:00",
+  "LastUpdate_Achievements": "2024-01-03T11:03:56.0118763+00:00"
 }

@@ -1,7 +1,7 @@
 # Darksiders III
 [Store](https://store.epicgames.com/en-US/p/darksiders3)  
 [View Rawdata](../../db/d/darksiders_iii.json)  
-Rating: 4.48 (Ranked 648)  
+Rating: 4.48 (Ranked 649)  
 Number of Ratings: 116  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -32,8 +32,8 @@ Number of Ratings: 116  (23.09.2022)
 | Freeze Frame | 27.00% | ~107 |
 | Eat Your Heart Out | 27.00% | ~107 |
 | Unyielding Strength | 24.00% | ~95 |
-| Can you restore the Balance? | 23.00% | ~91 |
-| Big Spender | 23.00% | ~91 |
+| Can you restore the Balance? | 24.00% | ~95 |
+| Big Spender | 24.00% | ~95 |
 | Cleanup Crew | 22.00% | ~87 |
 | Crowd Source | 22.00% | ~87 |
 | Maximum Capacity | 20.00% | ~79 |

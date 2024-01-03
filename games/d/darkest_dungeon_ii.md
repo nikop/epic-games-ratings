@@ -6,10 +6,10 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 12.00% | ~755 |
-| Lost and Found | 8.00% | ~503 |
-| This Belongs in a Museum | 6.00% | ~7,885 |
-| Autodidact | 6.00% | ~7,885 |
+| Malpractice Assurance | 12.00% | ~756 |
+| Lost and Found | 8.00% | ~504 |
+| This Belongs in a Museum | 6.00% | ~7,886 |
+| Autodidact | 6.00% | ~7,886 |
 | This guy... again? | 6.00% | ~378 |
 | Serenity Now! | 5.00% | ~6,571 |
 | Creep and Sleep | 5.00% | ~6,571 |
@@ -48,17 +48,17 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Clear Conscience | 3.00% | ~3,943 |
 | Unshackled | 3.00% | ~3,943 |
 | Road Trip | 3.00% | ~3,943 |
-| This Looks Familiar | 2.00% | ~2,628 |
-| Hope Rekindled | 2.00% | ~2,628 |
-| Predator | 2.00% | ~2,628 |
-| Ichthyophobic | 2.00% | ~2,628 |
-| No More Mouths to Feed | 2.00% | ~2,628 |
-| Reverse Banditry | 2.00% | ~2,628 |
-| When You Want Something Done Right | 2.00% | ~2,628 |
-| Worldly Traveller | 2.00% | ~2,628 |
-| Utopia | 2.00% | ~2,628 |
-| Hot Air | 2.00% | ~2,628 |
-| Eyes Up | 2.00% | ~2,628 |
+| This Looks Familiar | 2.00% | ~2,629 |
+| Hope Rekindled | 2.00% | ~2,629 |
+| Predator | 2.00% | ~2,629 |
+| Ichthyophobic | 2.00% | ~2,629 |
+| No More Mouths to Feed | 2.00% | ~2,629 |
+| Reverse Banditry | 2.00% | ~2,629 |
+| When You Want Something Done Right | 2.00% | ~2,629 |
+| Worldly Traveller | 2.00% | ~2,629 |
+| Utopia | 2.00% | ~2,629 |
+| Hot Air | 2.00% | ~2,629 |
+| Eyes Up | 2.00% | ~2,629 |
 | Shrine of Reflection | 1.00% | ~1,314 |
 | Handled | 1.00% | ~1,314 |
 | Body of Work | 1.00% | ~1,314 |
@@ -86,8 +86,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,424 (Ranked 90)  
-Completed: 3 (0.00%) (Ranked 390)  
+Progressed: 131,429 (Ranked 90)  
+Completed: 3 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -334,7 +334,7 @@ Completed: 3 (0.00%) (Ranked 390)
 | 2023-12-31 | 131,026 | 3 |
 | 2024-01-01 | 131,206 | 3 |
 | 2024-01-02 | 131,365 | 3 |
-| 2024-01-03 | 131,424 | 3 |
+| 2024-01-03 | 131,429 | 3 |
 ## Awards
 Max (Character Customization): 7,927  (Ranked 50)  
 Sum: 21,355 (Ranked 58)  

@@ -38,7 +38,7 @@
 | Well of science | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 28 (Ranked 594)  
-Completed: 0 (0.00%) (Ranked 390)  
+Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

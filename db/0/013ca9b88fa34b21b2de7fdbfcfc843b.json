@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 367,
   "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -241,9 +241,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8833,
+  "EOS_Progressed": 8834,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9611,6 +9611,11 @@
       "Time": "2024-01-03T09:10:50.0909065+00:00",
       "NumProgressed": 8833,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-03T11:09:50.7390898+00:00",
+      "NumProgressed": 8834,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -9663,7 +9668,7 @@
       "Name": "Search for the Hairy Grell",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "CHAPTER_7_COMPLETE",
@@ -9807,7 +9812,7 @@
       "Name": "Higher Tax Bracket",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "HARVEST_VEGETABLES_1",
@@ -9823,7 +9828,7 @@
       "Name": "I Now Pronounce You...",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "MAKE_FRIENDS_1",
@@ -9847,7 +9852,7 @@
       "Name": "Botanical Breakthrough",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "SPEND_FIRSTYEAR",
@@ -9879,7 +9884,7 @@
       "Name": "Captain of Cozy",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "UPGRADE_HOUSEMAX",
@@ -9887,7 +9892,7 @@
       "Name": "House Proud",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "UPGRADE_ONESKILLMAX",
@@ -9959,20 +9964,20 @@
       "Name": "Exit Through The Gift Shop",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     }
   ],
   "AchievementSets": [
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8833,
+      "Progressed": 8834,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1450,
+      "Progressed": 1451,
       "Completed": 1050
     }
   ],
@@ -9980,8 +9985,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2024-01-02T01:50:53.954414+00:00",
-  "LastChanged_Achievements": "2024-01-03T10:10:49.8016349+00:00",
+  "LastChanged_Achievements": "2024-01-03T11:09:50.7390895+00:00",
   "LastUpdate_AppInfo": "2023-12-29T11:57:18.9799571+00:00",
-  "LastUpdate_Ratings": "2024-01-03T10:03:45.4541056+00:00",
-  "LastUpdate_Achievements": "2024-01-03T10:10:49.8017127+00:00"
+  "LastUpdate_Ratings": "2024-01-03T11:03:10.392231+00:00",
+  "LastUpdate_Achievements": "2024-01-03T11:09:50.739153+00:00"
 }

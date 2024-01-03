@@ -52,7 +52,7 @@ Rating: 4.29 (Ranked 876)
 | King of the Dice | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,293 (Ranked 275)  
-Completed: 0 (0.00%) (Ranked 390)  
+Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

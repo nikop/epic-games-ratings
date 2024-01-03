@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -288,9 +288,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 297,
+  "EOS_Progressed": 298,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -1448,6 +1448,11 @@
       "Time": "2024-01-03T10:09:34.3363501+00:00",
       "NumProgressed": 297,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-03T11:08:55.378353+00:00",
+      "NumProgressed": 298,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1460,7 +1465,7 @@
       "Name": "Mash Machine",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1474,9 +1479,9 @@
       "ID": "ACH_ANAL_PROBE_TRIPPLE_CRIT",
       "SetID": "4n84pon",
       "Name": "Perfect Probulator",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 51
     },
     {
       "ID": "ACH_BASKETBALL_SLAM",
@@ -1570,9 +1575,9 @@
       "ID": "ACH_DISLOCATOR_BOWLING",
       "SetID": "4n84pon",
       "Name": "Ducks in a Row, Fish in a Barrel",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -1612,7 +1617,7 @@
       "Name": "I Look Up As I Walk to Takoshima",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_ENTER_TUNGUSKA",
@@ -1652,7 +1657,7 @@
       "Name": "Freshly Squeezed",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_KILL_PONSONBY",
@@ -1660,7 +1665,7 @@
       "Name": "Die Nasty",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_KILL_REINCARNATOR",
@@ -1811,7 +1816,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 297,
+      "Progressed": 298,
       "Completed": 1
     }
   ],
@@ -1819,8 +1824,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-31T11:01:39.7283208+00:00",
-  "LastChanged_Achievements": "2024-01-03T10:09:34.3363496+00:00",
+  "LastChanged_Achievements": "2024-01-03T11:08:55.3783526+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.261947+00:00",
-  "LastUpdate_Ratings": "2024-01-03T09:58:47.9016678+00:00",
-  "LastUpdate_Achievements": "2024-01-03T10:09:34.3364004+00:00"
+  "LastUpdate_Ratings": "2024-01-03T10:58:22.2816806+00:00",
+  "LastUpdate_Achievements": "2024-01-03T11:08:55.3783857+00:00"
 }

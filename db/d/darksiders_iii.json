@@ -2,13 +2,13 @@
   "ID": "springbok",
   "Name": "Darksiders III",
   "ProductSlug": "darksiders3",
-  "Ranking_Rating": 648,
+  "Ranking_Rating": 649,
   "Ranking_Popularity": 383,
   "Ranking_PopularitySum": 465,
   "Ranking_EOS_Progress": 361,
   "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1684,9 +1684,9 @@
       "ID": "Craft_Enhancement_Balanced_1",
       "SetID": "7a5k76n",
       "Name": "Can you restore the Balance?",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 95
     },
     {
       "ID": "Craft_Enhancement_Balanced_5",
@@ -1996,9 +1996,9 @@
       "ID": "Spend_AttributePoint_50",
       "SetID": "7a5k76n",
       "Name": "Big Spender",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 95
     },
     {
       "ID": "Unlocked_49_Achievements",
@@ -2044,8 +2044,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-03T05:57:54.1795117+00:00",
-  "LastChanged_Achievements": "2024-01-03T10:07:34.870353+00:00",
+  "LastChanged_Achievements": "2024-01-03T11:05:58.2307856+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.0817876+00:00",
-  "LastUpdate_Ratings": "2024-01-03T09:58:25.5041687+00:00",
-  "LastUpdate_Achievements": "2024-01-03T10:07:34.8704045+00:00"
+  "LastUpdate_Ratings": "2024-01-03T10:58:05.3015204+00:00",
+  "LastUpdate_Achievements": "2024-01-03T11:05:58.230836+00:00"
 }

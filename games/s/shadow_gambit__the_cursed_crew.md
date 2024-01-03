@@ -14,11 +14,11 @@ Rating: 4.80 (Ranked 91)
 | Somewhere Deep in the Lost Caribbean | 26.00% | ~368 |
 | Mirror Mirror on the Wall | 26.00% | ~368 |
 | Powder Monkey | 26.00% | ~368 |
-| Pirates Assemble! | 24.00% | ~339 |
+| Pirates Assemble! | 24.00% | ~340 |
 | Buccaneer | 20.00% | ~283 |
 | Fishy Fish | 20.00% | ~283 |
-| All Good Things | 17.00% | ~240 |
-| Persistent Parasite | 17.00% | ~240 |
+| All Good Things | 17.00% | ~241 |
+| Persistent Parasite | 17.00% | ~241 |
 | Seadog | 14.00% | ~198 |
 | Tobacco Travesty | 11.00% | ~156 |
 | Jaded Judge | 11.00% | ~156 |
@@ -32,8 +32,8 @@ Rating: 4.80 (Ranked 91)
 | Marauder | 3.00% | ~42 |
 | Welcome Back Jester | 3.00% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,414 (Ranked 266)  
-Completed: 35 (2.48%) (Ranked 125)  
+Progressed: 1,415 (Ranked 266)  
+Completed: 35 (2.47%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -178,7 +178,7 @@ Completed: 35 (2.48%) (Ranked 125)
 | 2023-12-31 | 1,384 | 35 |
 | 2024-01-01 | 1,393 | 35 |
 | 2024-01-02 | 1,413 | 35 |
-| 2024-01-03 | 1,414 | 35 |
+| 2024-01-03 | 1,415 | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

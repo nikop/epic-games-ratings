@@ -4,8 +4,8 @@
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 383,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 375,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
     "PcReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 283,
+  "EOS_Progressed": 284,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.47,
+  "EOS_Completed_Percentage": 2.46,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:18.1728843+00:00",
@@ -681,6 +681,11 @@
       "Time": "2024-01-03T04:04:24.4724325+00:00",
       "NumProgressed": 283,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-03T11:04:26.081011+00:00",
+      "NumProgressed": 284,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 15,
@@ -748,7 +753,7 @@
       "Name": "Aggressive rocks.",
       "Percentage": 15,
       "XP": 80,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "09",
@@ -811,7 +816,7 @@
     {
       "ID": "6glb5g1",
       "IsBase": true,
-      "Progressed": 283,
+      "Progressed": 284,
       "Completed": 7
     }
   ],
@@ -819,8 +824,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2024-01-03T10:05:29.619044+00:00",
+  "LastChanged_Achievements": "2024-01-03T11:04:26.0810105+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:56:57.5978328+00:00",
-  "LastUpdate_Ratings": "2024-01-03T09:57:47.4750376+00:00",
-  "LastUpdate_Achievements": "2024-01-03T10:05:29.6190574+00:00"
+  "LastUpdate_Ratings": "2024-01-03T10:57:39.7012926+00:00",
+  "LastUpdate_Achievements": "2024-01-03T11:04:26.0810233+00:00"
 }

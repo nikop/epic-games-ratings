@@ -3,9 +3,9 @@
   "Name": "Mayhem in Single Valley",
   "ProductSlug": "mayhem-in-single-valley",
   "Ranking_EOS_Progress": 820,
-  "Ranking_EOS_Completed": 390,
+  "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 570,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-05-20T17:00:00+00:00",
     "PcReleaseDate": "2021-05-20T17:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:03.6428705+00:00",
   "LastChanged": "2023-03-31T05:58:03.6428706+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:21.7976636+00:00",
-  "LastUpdate_Ratings": "2024-01-03T10:03:05.5871162+00:00",
-  "LastUpdate_Achievements": "2024-01-03T10:10:10.4057136+00:00"
+  "LastUpdate_Ratings": "2024-01-03T11:02:43.7391435+00:00",
+  "LastUpdate_Achievements": "2024-01-03T11:09:21.3118225+00:00"
 }

@@ -23,20 +23,20 @@
 | Animal Sighting | 29.00% | ~17 |
 | Adventure Bay’s Citizen | 28.00% | ~16 |
 | The Fastest | 26.00% | ~15 |
-| Don’t Miss Any | 22.00% | ~13 |
+| Don’t Miss Any | 24.00% | ~14 |
 | Mountain and Ice | 22.00% | ~13 |
 | You Have Been Everywhere | 21.00% | ~12 |
 | Everything Under Control | 17.00% | ~10 |
 | Nothing Can Stop You | 10.00% | ~6 |
-| A Great Explorer | 7.00% | ~4 |
-| King of the Mountain | 3.00% | ~2 |
+| A Great Explorer | 9.00% | ~5 |
+| King of the Mountain | 5.00% | ~3 |
 | Air Ace | 0.00% | ~0 |
 | You Know Them All | 0.00% | ~0 |
 | The Collector | 0.00% | ~0 |
 | Pup Treat Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 58 (Ranked 538)  
-Completed: 0 (0.00%) (Ranked 390)  
+Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

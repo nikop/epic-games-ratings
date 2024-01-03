@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -400,9 +400,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5213,
+  "EOS_Progressed": 5215,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -4615,6 +4615,11 @@
       "Time": "2024-01-03T10:05:13.0522143+00:00",
       "NumProgressed": 5213,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-03T11:04:13.8757773+00:00",
+      "NumProgressed": 5215,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -4626,7 +4631,7 @@
       "Name": "P.A.X",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1929
+      "UsersEstimate": 1930
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -4674,7 +4679,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4379
+      "UsersEstimate": 4381
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -4682,7 +4687,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4900
+      "UsersEstimate": 4902
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -4690,7 +4695,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3962
+      "UsersEstimate": 3963
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -4706,7 +4711,7 @@
       "Name": "CREO Killed the Video Star",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "ID_ACHIEV_12",
@@ -4730,7 +4735,7 @@
       "Name": "Who\u0027s in Charge Here?",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "ID_ACHIEV_15",
@@ -4786,7 +4791,7 @@
       "Name": "Shall Not Pass",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "ID_ACHIEV_22",
@@ -4794,7 +4799,7 @@
       "Name": "Right Tool for the Job",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "ID_ACHIEV_23",
@@ -4842,7 +4847,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3962
+      "UsersEstimate": 3963
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -4874,7 +4879,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 2815
+      "UsersEstimate": 2816
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -4890,7 +4895,7 @@
       "Name": "Most Wanted",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1355
+      "UsersEstimate": 1356
     },
     {
       "ID": "ID_ACHIEV_36",
@@ -4906,7 +4911,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1720
+      "UsersEstimate": 1721
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -4914,7 +4919,7 @@
       "Name": "I Choose You",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "ID_ACHIEV_39",
@@ -4946,7 +4951,7 @@
       "Name": "Nothing to Lose",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "ID_ACHIEV_43",
@@ -5090,7 +5095,7 @@
       "Name": "Modus Operandi",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ID_ACHIEV_61",
@@ -5106,7 +5111,7 @@
       "Name": "Suited and Booted",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ID_ACHIEV_63",
@@ -5114,7 +5119,7 @@
       "Name": "Tools of War",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ID_ACHIEV_64",
@@ -5161,15 +5166,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5213,
+      "Progressed": 5215,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-31T19:58:10.5906343+00:00",
-  "LastChanged_Achievements": "2024-01-03T10:05:13.052214+00:00",
+  "LastChanged_Achievements": "2024-01-03T11:04:13.8757769+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:44.5404504+00:00",
-  "LastUpdate_Ratings": "2024-01-03T09:59:43.3690193+00:00",
-  "LastUpdate_Achievements": "2024-01-03T10:05:13.0522761+00:00"
+  "LastUpdate_Ratings": "2024-01-03T10:59:02.6530208+00:00",
+  "LastUpdate_Achievements": "2024-01-03T11:04:13.8758385+00:00"
 }

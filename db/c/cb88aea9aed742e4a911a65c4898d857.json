@@ -6,9 +6,9 @@
   "Ranking_Popularity": 391,
   "Ranking_PopularitySum": 472,
   "Ranking_EOS_Progress": 181,
-  "Ranking_EOS_Completed": 390,
+  "Ranking_EOS_Completed": 367,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -263,11 +263,11 @@
       "Count": 90
     }
   ],
-  "EOS_Progressed": 9762,
-  "EOS_Completed": 0,
-  "EOS_NewPlayers": 1801,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_Progressed": 9770,
+  "EOS_Completed": 1,
+  "EOS_NewPlayers": 1798,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
     {
       "Time": "2023-12-05T13:15:42.2392005+00:00",
@@ -3478,6 +3478,11 @@
       "Time": "2024-01-03T10:10:34.6039315+00:00",
       "NumProgressed": 9762,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T11:09:39.040166+00:00",
+      "NumProgressed": 9770,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3490,7 +3495,7 @@
       "Name": "Conspiracy",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "03_TheStolenStar",
@@ -3520,9 +3525,9 @@
       "ID": "06_TheExpanseCalamity",
       "SetID": "37a94m8",
       "Name": "Expanse Calamity",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 98
     },
     {
       "ID": "07_TheGrandFinale",
@@ -3552,9 +3557,9 @@
       "ID": "10_TheChaosIncarnate",
       "SetID": "37a94m8",
       "Name": "Chaos Incarnate",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 10
     },
     {
       "ID": "11_OvercomeAndOverpower",
@@ -3626,7 +3631,7 @@
       "Name": "Void Wolf",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -3640,9 +3645,9 @@
       "ID": "21_PreciseDefense",
       "SetID": "37a94m8",
       "Name": "Precise Defence",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 10
     },
     {
       "ID": "22_PerfectTiming",
@@ -3680,9 +3685,9 @@
       "ID": "26_MasterOfTheTrade",
       "SetID": "37a94m8",
       "Name": "Master of Trade",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 10
     },
     {
       "ID": "27_UncoverTheIce",
@@ -3746,7 +3751,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -3760,9 +3765,9 @@
       "ID": "36_TheAdventurousArchaelogist",
       "SetID": "37a94m8",
       "Name": "Adventurous Archaeologist",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 59
     },
     {
       "ID": "37_TheSirenicalDiplomat",
@@ -3810,7 +3815,7 @@
       "Name": "Iron Judgement",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -3896,9 +3901,9 @@
       "ID": "53_GardensOfMadness",
       "SetID": "37a94m8",
       "Name": "Enraged Dragon",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 68
     },
     {
       "ID": "54_ThisIsAJobForLordCaptain",
@@ -3928,9 +3933,9 @@
       "ID": "57_TheBurningHeritage",
       "SetID": "37a94m8",
       "Name": "Burning Inheritance",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 59
     },
     {
       "ID": "58_KneeDeepInChaos",
@@ -4009,16 +4014,16 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 9762,
-      "Completed": 0
+      "Progressed": 9770,
+      "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-07T19:57:48.6554999+00:00",
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-03T03:00:34.4543831+00:00",
-  "LastChanged_Achievements": "2024-01-03T10:10:34.603931+00:00",
+  "LastChanged_Achievements": "2024-01-03T11:09:39.0401656+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2024-01-03T10:01:52.2721601+00:00",
-  "LastUpdate_Achievements": "2024-01-03T10:10:34.6039922+00:00"
+  "LastUpdate_Ratings": "2024-01-03T11:00:31.1186346+00:00",
+  "LastUpdate_Achievements": "2024-01-03T11:09:39.0402264+00:00"
 }

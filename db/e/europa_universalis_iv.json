@@ -6,9 +6,9 @@
   "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 43,
-  "Ranking_EOS_Completed": 390,
+  "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -13915,10 +13915,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 63316,
       "NumberOfAwardsMax": 7680
+    },
+    {
+      "Time": "2024-01-03T10:57:24.0164758+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 63334,
+      "NumberOfAwardsMax": 7680
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 63316,
+  "NumberOfAwards": 63334,
   "NumberOfAwardsMax": 7680,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -13938,7 +13944,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 7513
+      "Count": 7531
     },
     {
       "Text": "This game is Extremely Fun",
@@ -13989,9 +13995,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 490871,
+  "EOS_Progressed": 490895,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5669,
+  "EOS_NewPlayers": 5663,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -43724,6 +43730,11 @@
       "Time": "2024-01-03T10:10:03.367596+00:00",
       "NumProgressed": 490871,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-03T11:09:16.5309689+00:00",
+      "NumProgressed": 490895,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -46015,7 +46026,7 @@
       "Name": "That is mine!",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1963
+      "UsersEstimate": 1964
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -46638,21 +46649,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 490871,
+      "Progressed": 490895,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 490871,
+      "Progressed": 490895,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-01-03T08:57:44.567342+00:00",
-  "LastChanged_Achievements": "2024-01-03T10:10:03.3675954+00:00",
+  "LastChanged": "2024-01-03T10:57:24.0164757+00:00",
+  "LastChanged_Achievements": "2024-01-03T11:09:16.5309682+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:39.2428149+00:00",
-  "LastUpdate_Ratings": "2024-01-03T09:57:23.4110912+00:00",
-  "LastUpdate_Achievements": "2024-01-03T10:10:03.3686872+00:00"
+  "LastUpdate_Ratings": "2024-01-03T10:57:24.0164763+00:00",
+  "LastUpdate_Achievements": "2024-01-03T11:09:16.5321212+00:00"
 }

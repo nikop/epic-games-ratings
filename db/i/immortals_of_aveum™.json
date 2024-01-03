@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -391,9 +391,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2578,
+  "EOS_Progressed": 2579,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 578,
+  "EOS_NewPlayers": 579,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4221,6 +4221,11 @@
       "Time": "2024-01-03T10:10:32.7749823+00:00",
       "NumProgressed": 2578,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-03T11:09:37.6962868+00:00",
+      "NumProgressed": 2579,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -4233,7 +4238,7 @@
       "Name": "Unforeseen",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 2269
+      "UsersEstimate": 2270
     },
     {
       "ID": "achievement_10",
@@ -4249,7 +4254,7 @@
       "Name": "The Means to Save It",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "achievement_12",
@@ -4321,7 +4326,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 2088
+      "UsersEstimate": 2089
     },
     {
       "ID": "achievement_20",
@@ -4377,7 +4382,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1779
+      "UsersEstimate": 1780
     },
     {
       "ID": "achievement_36",
@@ -4441,7 +4446,7 @@
       "Name": "Periapt Cerulean",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "achievement_45",
@@ -4577,7 +4582,7 @@
       "Name": "Good Boy",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "achievement_7",
@@ -4608,7 +4613,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 2578,
+      "Progressed": 2579,
       "Completed": 2
     }
   ],
@@ -4616,8 +4621,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-02T16:59:14.2447676+00:00",
-  "LastChanged_Achievements": "2024-01-03T10:10:32.7749818+00:00",
+  "LastChanged_Achievements": "2024-01-03T11:09:37.6962863+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.4007279+00:00",
-  "LastUpdate_Ratings": "2024-01-03T09:59:23.9468899+00:00",
-  "LastUpdate_Achievements": "2024-01-03T10:10:32.7750464+00:00"
+  "LastUpdate_Ratings": "2024-01-03T10:58:46.7204377+00:00",
+  "LastUpdate_Achievements": "2024-01-03T11:09:37.6963348+00:00"
 }

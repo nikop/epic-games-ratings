@@ -27,9 +27,9 @@ Rating: 4.65 (Ranked 321)
 | Golem Chaser | 21.00% | ~254 |
 | Check Your Pulse | 20.00% | ~242 |
 | The Loose Cannon | 19.00% | ~230 |
-| Street Style | 18.00% | ~217 |
-| The Man Who Shattered Time | 18.00% | ~217 |
-| The Family Fortune | 18.00% | ~217 |
+| Street Style | 18.00% | ~218 |
+| The Man Who Shattered Time | 18.00% | ~218 |
+| The Family Fortune | 18.00% | ~218 |
 | Whiz Kid | 15.00% | ~181 |
 | Family Memories | 14.00% | ~169 |
 | Good Neighbor | 14.00% | ~169 |
@@ -47,8 +47,8 @@ Rating: 4.65 (Ranked 321)
 | Entresol Explorer | 8.00% | ~97 |
 | Sartorialist | 7.00% | ~85 |
 | Golem Hunter | 7.00% | ~85 |
-| Clovemary for Remembering | 6.00% | ~72 |
-| Hexlock for Protection | 6.00% | ~72 |
+| Clovemary for Remembering | 6.00% | ~73 |
+| Hexlock for Protection | 6.00% | ~73 |
 | Rungs Was Right | 5.00% | ~60 |
 | Wunderkind | 2.00% | ~24 |
 | Fitting In | 2.00% | ~24 |
@@ -59,7 +59,7 @@ Rating: 4.65 (Ranked 321)
 | Raw Talent | 0.60% | ~7 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,208 (Ranked 280)  
+Progressed: 1,209 (Ranked 280)  
 Completed: 6 (0.50%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 6 (0.50%) (Ranked 219)
 | 2023-12-31 | 1,175 | 6 |
 | 2024-01-01 | 1,190 | 6 |
 | 2024-01-02 | 1,201 | 6 |
-| 2024-01-03 | 1,208 | 6 |
+| 2024-01-03 | 1,209 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

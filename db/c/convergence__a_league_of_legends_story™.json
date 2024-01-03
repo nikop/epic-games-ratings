@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 219,
   "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -51,9 +51,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1208,
+  "EOS_Progressed": 1209,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -3521,6 +3521,11 @@
       "Time": "2024-01-03T10:10:49.2016404+00:00",
       "NumProgressed": 1208,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-03T11:09:50.4907312+00:00",
+      "NumProgressed": 1209,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3588,7 +3593,7 @@
       "Name": "Clovemary for Remembering",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "CosmeticCompletion1",
@@ -3604,7 +3609,7 @@
       "Name": "Street Style",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "CultivairChests1",
@@ -3668,7 +3673,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "GadgetCompletion1",
@@ -3700,7 +3705,7 @@
       "Name": "Hexlock for Protection",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "InxChromaInTheatre",
@@ -3948,14 +3953,14 @@
       "Name": "The Family Fortune",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1208,
+      "Progressed": 1209,
       "Completed": 6
     }
   ],
@@ -3963,8 +3968,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2024-01-03T10:10:49.2016402+00:00",
+  "LastChanged_Achievements": "2024-01-03T11:09:50.4907307+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:23.9308133+00:00",
-  "LastUpdate_Ratings": "2024-01-03T10:03:07.2583493+00:00",
-  "LastUpdate_Achievements": "2024-01-03T10:10:49.2016937+00:00"
+  "LastUpdate_Ratings": "2024-01-03T11:02:44.87683+00:00",
+  "LastUpdate_Achievements": "2024-01-03T11:09:50.49079+00:00"
 }

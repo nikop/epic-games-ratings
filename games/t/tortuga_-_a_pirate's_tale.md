@@ -5,16 +5,16 @@ Rating: 3.80 (Ranked 1,077)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eeligally Ambitious | 95.00% | ~16,531 |
-| No Half Measures | 87.00% | ~15,139 |
-| Personal Matter | 86.00% | ~14,965 |
-| But You Have Heard of Me | 72.00% | ~12,529 |
-| Double the Barrels, double the Fun | 54.00% | ~9,397 |
-| Pimp My Glide | 49.00% | ~8,526 |
-| ... And Where Do the Stories Come From? | 40.00% | ~6,960 |
-| House Party! | 35.00% | ~6,090 |
-| Make It Rain | 23.00% | ~4,002 |
-| Curse of the Seven Seas | 22.00% | ~3,828 |
+| Eeligally Ambitious | 95.00% | ~16,533 |
+| No Half Measures | 87.00% | ~15,141 |
+| Personal Matter | 86.00% | ~14,967 |
+| But You Have Heard of Me | 72.00% | ~12,530 |
+| Double the Barrels, double the Fun | 54.00% | ~9,398 |
+| Pimp My Glide | 49.00% | ~8,527 |
+| ... And Where Do the Stories Come From? | 40.00% | ~6,961 |
+| House Party! | 35.00% | ~6,091 |
+| Make It Rain | 23.00% | ~4,003 |
+| Curse of the Seven Seas | 22.00% | ~3,829 |
 | Head First | 16.00% | ~2,784 |
 | To the World's End | 12.00% | ~2,088 |
 | Table for Six | 11.00% | ~1,914 |
@@ -32,7 +32,7 @@ Rating: 3.80 (Ranked 1,077)
 | Heavy Tunaing | 0.10% | ~17 |
 | Pufferfish | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,401 (Ranked 162)  
+Progressed: 17,403 (Ranked 162)  
 Completed: 1 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 1 (0.01%) (Ranked 367)
 | 2023-12-31 | 17,378 | 1 |
 | 2024-01-01 | 17,393 | 1 |
 | 2024-01-02 | 17,400 | 1 |
-| 2024-01-03 | 17,401 | 1 |
+| 2024-01-03 | 17,403 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

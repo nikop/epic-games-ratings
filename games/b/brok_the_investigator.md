@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Introduction completed | 76.00% | ~28 |
+| Introduction completed | 78.00% | ~29 |
 | Chapter 1 | 43.00% | ~16 |
 | Chapter 2 | 41.00% | ~15 |
 | Chapter 3 | 38.00% | ~14 |
@@ -35,7 +35,7 @@
 | Worst. Investigator. Ever. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 37 (Ranked 574)  
-Completed: 0 (0.00%) (Ranked 390)  
+Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

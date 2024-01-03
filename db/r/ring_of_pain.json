@@ -3856,9 +3856,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242269,
+  "EOS_Progressed": 242270,
   "EOS_Completed": 303,
-  "EOS_NewPlayers": 462,
+  "EOS_NewPlayers": 459,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -30531,6 +30531,11 @@
       "Time": "2024-01-03T10:10:54.9841023+00:00",
       "NumProgressed": 242269,
       "NumCompleted": 303
+    },
+    {
+      "Time": "2024-01-03T11:09:55.1745769+00:00",
+      "NumProgressed": 242270,
+      "NumCompleted": 303
     }
   ],
   "TotalAchievements": 138,
@@ -31550,7 +31555,7 @@
       "Name": "Diviner",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "FINISHRUNALLMAGE",
@@ -31590,7 +31595,7 @@
       "Name": "Nuclear",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "KILLBOSSINDIRECTLY",
@@ -31638,20 +31643,20 @@
       "Name": "Matching",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     }
   ],
   "AchievementSets": [
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242269,
+      "Progressed": 242270,
       "Completed": 303
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3749,
+      "Progressed": 3750,
       "Completed": 419
     }
   ],
@@ -31659,8 +31664,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-01T19:58:02.265715+00:00",
-  "LastChanged_Achievements": "2024-01-03T10:10:54.9841019+00:00",
+  "LastChanged_Achievements": "2024-01-03T11:09:55.1745762+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:01.848225+00:00",
-  "LastUpdate_Ratings": "2024-01-03T09:58:55.6944243+00:00",
-  "LastUpdate_Achievements": "2024-01-03T10:10:54.9844977+00:00"
+  "LastUpdate_Ratings": "2024-01-03T10:58:27.4082881+00:00",
+  "LastUpdate_Achievements": "2024-01-03T11:09:55.1748542+00:00"
 }

@@ -18,24 +18,24 @@ Number of Ratings: 180  (23.09.2022)
 | Cadet | 53.00% | ~1,220 |
 | First industry upgraded | 53.00% | ~1,220 |
 | Transport millionaire | 51.00% | ~1,174 |
-| Transport master | 49.00% | ~1,127 |
-| Cargo hub | 49.00% | ~1,127 |
-| Sculpturer | 46.00% | ~1,058 |
-| Settled down | 45.00% | ~1,035 |
-| First electric train arrived | 43.00% | ~989 |
-| Now what? | 43.00% | ~989 |
-| First ship arrived | 42.00% | ~966 |
-| Exemplary student | 41.00% | ~943 |
-| High speed | 39.00% | ~897 |
-| First aircraft arrived | 38.00% | ~874 |
-| Transport shark | 37.00% | ~851 |
-| Mass production | 32.00% | ~736 |
-| Aircraft entrepreneur | 31.00% | ~713 |
-| Crowd in a train | 28.00% | ~644 |
-| The future is now, old man | 28.00% | ~644 |
-| Not in my backyard | 27.00% | ~621 |
-| City | 26.00% | ~598 |
-| The king of the sea | 26.00% | ~598 |
+| Transport master | 49.00% | ~1,128 |
+| Cargo hub | 49.00% | ~1,128 |
+| Sculpturer | 46.00% | ~1,059 |
+| Settled down | 45.00% | ~1,036 |
+| First electric train arrived | 43.00% | ~990 |
+| Now what? | 43.00% | ~990 |
+| First ship arrived | 42.00% | ~967 |
+| Exemplary student | 41.00% | ~944 |
+| High speed | 39.00% | ~898 |
+| First aircraft arrived | 38.00% | ~875 |
+| Transport shark | 37.00% | ~852 |
+| Mass production | 32.00% | ~737 |
+| Aircraft entrepreneur | 31.00% | ~714 |
+| Crowd in a train | 28.00% | ~645 |
+| The future is now, old man | 28.00% | ~645 |
+| Not in my backyard | 27.00% | ~622 |
+| City | 26.00% | ~599 |
+| The king of the sea | 26.00% | ~599 |
 | Transport tycoon | 22.00% | ~506 |
 | Old timer | 21.00% | ~483 |
 | Climate change | 20.00% | ~460 |
@@ -68,7 +68,7 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.20% | ~5 |
 | Museum line | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,301 (Ranked 238)  
+Progressed: 2,302 (Ranked 238)  
 Completed: 1 (0.04%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 1 (0.04%) (Ranked 344)
 | 2023-12-31 | 2,263 | 1 |
 | 2024-01-01 | 2,280 | 1 |
 | 2024-01-02 | 2,299 | 1 |
-| 2024-01-03 | 2,301 | 1 |
+| 2024-01-03 | 2,302 | 1 |
 ## Awards
 Max (Great for Beginners): 50  (Ranked 452)  
 Sum: 331 (Ranked 372)  

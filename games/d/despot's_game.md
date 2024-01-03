@@ -1,31 +1,31 @@
 # Despot's Game
 [Store](https://store.epicgames.com/en-US/p/despots-game-f61a0a)  
 [View Rawdata](../../db/d/despot's_game.json)  
-Rating: 4.50 (Ranked 612)  
+Rating: 4.50 (Ranked 613)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start! | 88.00% | ~427 |
-| Vanquisher of Robots | 78.00% | ~378 |
-| Party | 51.00% | ~247 |
-| Impossible Cube | 45.00% | ~218 |
-| Through the Darkness | 45.00% | ~218 |
-| Knowledge is Power | 44.00% | ~213 |
+| Good start! | 88.00% | ~428 |
+| Vanquisher of Robots | 78.00% | ~379 |
+| Party | 50.00% | ~243 |
+| Impossible Cube | 45.00% | ~219 |
+| Knowledge is Power | 44.00% | ~214 |
+| Through the Darkness | 44.00% | ~214 |
 | No Mercy | 43.00% | ~209 |
 | The Return of a Rat | 41.00% | ~199 |
 | Fat of the Earth | 36.00% | ~175 |
-| Last Man Standing | 31.00% | ~150 |
+| Last Man Standing | 31.00% | ~151 |
 | He's Seen It All | 28.00% | ~136 |
 | Great Hero | 28.00% | ~136 |
 | Campaigning | 27.00% | ~131 |
 | Rookie | 27.00% | ~131 |
 | Catch Jonathan_tostar | 26.00% | ~126 |
-| Assemble a Meganewbie | 25.00% | ~121 |
+| Assemble a Meganewbie | 24.00% | ~117 |
 | Frugal | 22.00% | ~107 |
 | Feed a God | 21.00% | ~102 |
 | To the Moon and Back | 20.00% | ~97 |
 | Great Flight | 19.00% | ~92 |
-| Holy Vengeance | 17.00% | ~82 |
+| Holy Vengeance | 17.00% | ~83 |
 | Honorary Cultist | 13.00% | ~63 |
 | Strength and Sorcery | 11.00% | ~53 |
 | Brain and Brawn | 11.00% | ~53 |
@@ -41,7 +41,7 @@ Rating: 4.50 (Ranked 612)
 | Vet | 0.80% | ~4 |
 | Real Achiever | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 485 (Ranked 345)  
+Progressed: 486 (Ranked 345)  
 Completed: 1 (0.21%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 1 (0.21%) (Ranked 269)
 | 2023-12-30 | 476 | 1 |
 | 2023-12-31 | 478 | 1 |
 | 2024-01-02 | 484 | 1 |
-| 2024-01-03 | 485 | 1 |
+| 2024-01-03 | 486 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

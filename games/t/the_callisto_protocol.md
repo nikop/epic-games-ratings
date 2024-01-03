@@ -5,31 +5,31 @@ Rating: 4.21 (Ranked 946)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 22.00% | ~4,561 |
-| The Outer Way | 22.00% | ~4,561 |
-| Desperate Times | 21.00% | ~4,354 |
-| Get a Grip | 19.00% | ~3,939 |
-| Paper Jams | 19.00% | ~3,939 |
-| Chew 'Em Up | 17.00% | ~3,525 |
-| Reforged | 16.00% | ~3,317 |
-| Float Like A Butterfly | 15.00% | ~3,110 |
+| Flesh Wound | 22.00% | ~4,563 |
+| The Outer Way | 22.00% | ~4,563 |
+| Desperate Times | 21.00% | ~4,355 |
+| Get a Grip | 19.00% | ~3,940 |
+| Paper Jams | 19.00% | ~3,940 |
+| Chew 'Em Up | 17.00% | ~3,526 |
+| Reforged | 16.00% | ~3,318 |
+| Float Like A Butterfly | 15.00% | ~3,111 |
 | Workplace Hazard | 14.00% | ~2,903 |
 | If the SHU Fits... | 14.00% | ~2,903 |
-| Without A Paddle | 12.00% | ~2,488 |
-| Two Heads Are Better Than One | 10.00% | ~2,073 |
-| In the Pipe, Five by Five | 10.00% | ~2,073 |
-| Crash Site | 10.00% | ~2,073 |
-| Terminated | 9.00% | ~1,866 |
-| Full Circle | 9.00% | ~1,866 |
-| Power Up | 9.00% | ~1,866 |
+| Without A Paddle | 12.00% | ~2,489 |
+| Two Heads Are Better Than One | 10.00% | ~2,074 |
+| In the Pipe, Five by Five | 10.00% | ~2,074 |
+| Crash Site | 10.00% | ~2,074 |
+| Terminated | 9.00% | ~1,867 |
+| Full Circle | 9.00% | ~1,867 |
+| Power Up | 9.00% | ~1,867 |
 | Giving Back | 8.00% | ~1,659 |
 | You Need a Gun | 8.00% | ~1,659 |
 | What Lies Beneath | 8.00% | ~1,659 |
-| I Do Belong Here | 7.00% | ~1,451 |
-| Keep Fighting | 7.00% | ~606 |
+| I Do Belong Here | 7.00% | ~1,452 |
+| Keep Fighting | 7.00% | ~607 |
 | The Commonality | 5.00% | ~1,037 |
 | It's Time | 5.00% | ~433 |
-| In Striking Distance | 4.00% | ~829 |
+| In Striking Distance | 4.00% | ~830 |
 | One Last Job | 3.00% | ~260 |
 | Armed to the Teeth | 1.00% | ~87 |
 | Mugshot | 1.00% | ~207 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 946)
 | Big Game Hunter | 0.10% | ~9 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,734 (Ranked 150)  
+Progressed: 20,739 (Ranked 150)  
 Completed: 82 (0.40%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 82 (0.40%) (Ranked 232)
 | 2023-12-31 | 20,337 | 82 |
 | 2024-01-01 | 20,521 | 82 |
 | 2024-01-02 | 20,695 | 82 |
-| 2024-01-03 | 20,734 | 82 |
+| 2024-01-03 | 20,739 | 82 |
 ## Awards
 Max (Amazing Characters): 111  (Ranked 361)  
 Sum: 561 (Ranked 326)  

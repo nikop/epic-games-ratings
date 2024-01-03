@@ -6,7 +6,7 @@
   "Ranking_Popularity": 578,
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 266,
-  "Ranking_EOS_Completed": 125,
+  "Ranking_EOS_Completed": 126,
   "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
@@ -185,11 +185,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1414,
+  "EOS_Progressed": 1415,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.48,
+  "EOS_Completed_Percentage": 2.47,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -4890,6 +4890,11 @@
       "Time": "2024-01-03T01:51:58.508839+00:00",
       "NumProgressed": 1414,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-03T11:06:18.0492571+00:00",
+      "NumProgressed": 1415,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4950,7 +4955,7 @@
       "Name": "All Good Things",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "_08_Completion_10",
@@ -5022,7 +5027,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -5046,7 +5051,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -5109,7 +5114,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1414,
+      "Progressed": 1415,
       "Completed": 35
     }
   ],
@@ -5117,8 +5122,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-03T10:02:59.9033308+00:00",
-  "LastChanged_Achievements": "2024-01-03T10:08:01.2932229+00:00",
+  "LastChanged_Achievements": "2024-01-03T11:06:18.0492567+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.1530944+00:00",
-  "LastUpdate_Ratings": "2024-01-03T10:02:59.9033314+00:00",
-  "LastUpdate_Achievements": "2024-01-03T10:08:01.2932869+00:00"
+  "LastUpdate_Ratings": "2024-01-03T11:02:39.3489792+00:00",
+  "LastUpdate_Achievements": "2024-01-03T11:06:18.0492977+00:00"
 }

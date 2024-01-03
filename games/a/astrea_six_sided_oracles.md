@@ -8,7 +8,7 @@
 | Purification Pioneer | 79.00% | ~243 |
 | Mechanical Buddy | 73.00% | ~224 |
 | Dicesmithing Time! | 65.00% | ~200 |
-| Sanctuary Guardian | 55.00% | ~169 |
+| Sanctuary Guardian | 56.00% | ~172 |
 | Endless Tricks | 51.00% | ~157 |
 | Wild's Keeper | 47.00% | ~144 |
 | Mind Illuminator | 44.00% | ~135 |
@@ -104,7 +104,7 @@
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 307 (Ranked 388)  
-Completed: 0 (0.00%) (Ranked 390)  
+Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -61,9 +61,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1707,
+  "EOS_Progressed": 1709,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 376,
+  "EOS_NewPlayers": 377,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -3351,6 +3351,11 @@
       "Time": "2024-01-03T10:10:46.1247346+00:00",
       "NumProgressed": 1707,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-03T11:09:47.9657147+00:00",
+      "NumProgressed": 1709,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -3362,7 +3367,7 @@
       "Name": "Break Out",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "ACH_02",
@@ -3378,7 +3383,7 @@
       "Name": "Powerful Allies",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "ACH_04",
@@ -3394,7 +3399,7 @@
       "Name": "To Battle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ACH_06",
@@ -3402,7 +3407,7 @@
       "Name": "Godslayer",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ACH_07",
@@ -3434,7 +3439,7 @@
       "Name": "Trinity",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "ACH_11",
@@ -3458,23 +3463,23 @@
       "Name": "Adventurer",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "ACH_14",
       "SetID": "efe2lj",
       "Name": "Airborne",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 119
+      "UsersEstimate": 103
     },
     {
       "ID": "ACH_15",
       "SetID": "efe2lj",
       "Name": "Tributes of Caladrias",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 324
+      "UsersEstimate": 342
     },
     {
       "ID": "ACH_16",
@@ -3498,7 +3503,7 @@
       "Name": "Shatter Them All",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "ACH_19",
@@ -3554,7 +3559,7 @@
       "Name": "Fashion Victim",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "ACH_26",
@@ -3562,7 +3567,7 @@
       "Name": "Scholar",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "ACH_27",
@@ -3602,7 +3607,7 @@
       "Name": "Stone Collection",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "ACH_33",
@@ -3610,7 +3615,7 @@
       "Name": "Miner",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ACH_34",
@@ -3649,7 +3654,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1707,
+      "Progressed": 1709,
       "Completed": 3
     }
   ],
@@ -3657,8 +3662,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-02T01:47:19.6899919+00:00",
-  "LastChanged_Achievements": "2024-01-03T10:10:46.1247343+00:00",
+  "LastChanged_Achievements": "2024-01-03T11:09:47.9657143+00:00",
   "LastUpdate_AppInfo": "2024-01-01T22:57:08.0954502+00:00",
-  "LastUpdate_Ratings": "2024-01-03T10:01:48.3175881+00:00",
-  "LastUpdate_Achievements": "2024-01-03T10:10:46.1247868+00:00"
+  "LastUpdate_Ratings": "2024-01-03T11:00:28.209644+00:00",
+  "LastUpdate_Achievements": "2024-01-03T11:09:47.9657499+00:00"
 }

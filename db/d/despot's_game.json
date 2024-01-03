@@ -2,13 +2,13 @@
   "ID": "7a0f0e0bef6a45249e9d476d08bc9739",
   "Name": "Despot\u0027s Game",
   "ProductSlug": "despots-game-f61a0a",
-  "Ranking_Rating": 612,
+  "Ranking_Rating": 613,
   "Ranking_Popularity": 578,
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 485,
+  "EOS_Progressed": 486,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -698,6 +698,11 @@
       "Time": "2024-01-03T02:25:05.0675996+00:00",
       "NumProgressed": 485,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-03T11:04:11.9211245+00:00",
+      "NumProgressed": 486,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -763,9 +768,9 @@
       "ID": "different-items1",
       "SetID": "799afm0",
       "Name": "Party",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 243
     },
     {
       "ID": "different-items2",
@@ -789,7 +794,7 @@
       "Name": "Impossible Cube",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "finished-quest-flight",
@@ -819,9 +824,9 @@
       "ID": "finished-quest-pit",
       "SetID": "799afm0",
       "Name": "Assemble a Meganewbie",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 117
     },
     {
       "ID": "finished-quest-rat",
@@ -845,7 +850,7 @@
       "Name": "Knowledge is Power",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "finished-quest-secret",
@@ -861,7 +866,7 @@
       "Name": "Holy Vengeance",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "get-all",
@@ -885,7 +890,7 @@
       "Name": "Last Man Standing",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "save-zombie",
@@ -925,7 +930,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "win-first-level",
@@ -933,7 +938,7 @@
       "Name": "Good start!",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "win-koth-fights1",
@@ -963,9 +968,9 @@
       "ID": "win-second-biom",
       "SetID": "799afm0",
       "Name": "Through the Darkness",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 218
+      "UsersEstimate": 214
     },
     {
       "ID": "win-with-3-cultists",
@@ -988,7 +993,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 485,
+      "Progressed": 486,
       "Completed": 1
     }
   ],
@@ -996,8 +1001,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2024-01-03T10:05:10.3377685+00:00",
+  "LastChanged_Achievements": "2024-01-03T11:04:11.9211241+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.2003375+00:00",
-  "LastUpdate_Ratings": "2024-01-03T09:57:47.8609136+00:00",
-  "LastUpdate_Achievements": "2024-01-03T10:05:10.3377906+00:00"
+  "LastUpdate_Ratings": "2024-01-03T10:57:39.9433887+00:00",
+  "LastUpdate_Achievements": "2024-01-03T11:04:11.9211492+00:00"
 }

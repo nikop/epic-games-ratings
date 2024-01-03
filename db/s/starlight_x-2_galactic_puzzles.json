@@ -3,9 +3,9 @@
   "Name": "Starlight X-2 Galactic Puzzles",
   "ProductSlug": "starlight-x2-galactic-puzzles-dede7d",
   "Ranking_EOS_Progress": 505,
-  "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 459,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_Completed": 391,
+  "Ranking_EOS_NewPlayers": 460,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-06-07T07:00:00+00:00",
     "PcReleaseDate": "2021-04-15T10:00:00+00:00",
@@ -479,9 +479,9 @@
       "ID": "ach_fast_02",
       "SetID": "8jkn3bi",
       "Name": "Fast 8x8",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_fast_03",
@@ -527,9 +527,9 @@
       "ID": "ach_levels_00",
       "SetID": "8jkn3bi",
       "Name": "Complete 25 levels",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_levels_01",
@@ -647,9 +647,9 @@
       "ID": "ach_nohints_01",
       "SetID": "8jkn3bi",
       "Name": "By Yourself 6x6",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_nohints_02",
@@ -743,17 +743,17 @@
       "ID": "ach_usehints_00",
       "SetID": "8jkn3bi",
       "Name": "Use 10 hints",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_usehints_01",
       "SetID": "8jkn3bi",
       "Name": "Use 20 hints",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_usehints_02",
@@ -774,8 +774,8 @@
   ],
   "FirstSeen": "2023-11-18T16:58:15.9400848+00:00",
   "FirstSeenAchievements": "2023-04-25T20:54:03.7448556+00:00",
-  "LastChanged_Achievements": "2024-01-03T10:10:47.0507618+00:00",
+  "LastChanged_Achievements": "2024-01-03T11:09:48.6595891+00:00",
   "LastUpdate_AppInfo": "2023-12-30T17:56:59.9780956+00:00",
-  "LastUpdate_Ratings": "2024-01-03T09:59:19.3402452+00:00",
-  "LastUpdate_Achievements": "2024-01-03T10:10:47.0508082+00:00"
+  "LastUpdate_Ratings": "2024-01-03T10:58:43.6326281+00:00",
+  "LastUpdate_Achievements": "2024-01-03T11:09:48.6596174+00:00"
 }

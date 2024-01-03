@@ -3,9 +3,9 @@
   "Name": "Figment 2: Creed Valley",
   "ProductSlug": "figment2-creed-valley",
   "Ranking_EOS_Progress": 531,
-  "Ranking_EOS_Completed": 390,
+  "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 419,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-03-09T17:00:00+00:00",
     "PcReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -354,9 +354,9 @@
       "ID": "combat_thought_block_friendly_fire",
       "SetID": "7e96e7l",
       "Name": "Heavy Thoughts",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "fluff_arguing_opinions_conviction_lane",
@@ -370,9 +370,9 @@
       "ID": "fluff_cerebrum_cider_priciple_square",
       "SetID": "7e96e7l",
       "Name": "A heavy thinker",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "fluff_hit_by_coco_bulb",
@@ -482,9 +482,9 @@
       "ID": "story_principle_square",
       "SetID": "7e96e7l",
       "Name": "Elementary, My Dear Dusty",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     }
   ],
   "AchievementSets": [
@@ -499,8 +499,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4324402+00:00",
   "FirstSeenAchievements": "2023-05-30T08:03:39.2504029+00:00",
   "LastChanged": "2023-03-31T05:57:26.4324404+00:00",
-  "LastChanged_Achievements": "2024-01-03T10:10:41.1097272+00:00",
+  "LastChanged_Achievements": "2024-01-03T11:09:44.0950138+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:03.3549942+00:00",
-  "LastUpdate_Ratings": "2024-01-03T09:59:16.0630273+00:00",
-  "LastUpdate_Achievements": "2024-01-03T10:10:41.1097459+00:00"
+  "LastUpdate_Ratings": "2024-01-03T10:58:42.3913798+00:00",
+  "LastUpdate_Achievements": "2024-01-03T11:09:44.0950265+00:00"
 }

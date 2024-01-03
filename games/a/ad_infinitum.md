@@ -7,8 +7,8 @@
 | Morgengrauen | 84.00% | ~144 |
 | Path of Despair | 84.00% | ~144 |
 | Not alone | 57.00% | ~97 |
-| Hunger | 48.00% | ~82 |
-| Awaken | 38.00% | ~65 |
+| Hunger | 49.00% | ~84 |
+| Awaken | 39.00% | ~67 |
 | Path of Corruption | 33.00% | ~56 |
 | Hope | 29.00% | ~50 |
 | Rage | 29.00% | ~50 |
@@ -35,7 +35,7 @@
 | Their names | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 171 (Ranked 436)  
-Completed: 0 (0.00%) (Ranked 390)  
+Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

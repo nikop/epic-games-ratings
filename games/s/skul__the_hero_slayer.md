@@ -6,32 +6,32 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~12,680 |
-| What should I buy? | 81.00% | ~11,044 |
-| Rescued Elder Ent | 61.00% | ~8,317 |
-| Focus! | 60.00% | ~8,180 |
-| The End of the Gold Mane Knights | 47.00% | ~6,408 |
-| False Goddess, Disappear | 39.00% | ~5,317 |
-| Rules of Etiquette | 37.00% | ~5,045 |
+| The Legend Begins | 93.00% | ~12,682 |
+| What should I buy? | 81.00% | ~11,046 |
+| Rescued Elder Ent | 61.00% | ~8,319 |
+| Focus! | 60.00% | ~8,182 |
+| The End of the Gold Mane Knights | 47.00% | ~6,409 |
+| False Goddess, Disappear | 39.00% | ~5,318 |
+| Rules of Etiquette | 37.00% | ~5,046 |
 | Inventory Management | 31.00% | ~4,227 |
-| The Fall of the Leonia Order | 30.00% | ~4,090 |
-| Quick Movements | 30.00% | ~4,090 |
-| Go Home... | 27.00% | ~3,681 |
-| The Final Battle of the First Hero | 26.00% | ~3,545 |
-| The Hero Killer | 24.00% | ~3,272 |
+| The Fall of the Leonia Order | 30.00% | ~4,091 |
+| Quick Movements | 30.00% | ~4,091 |
+| Go Home... | 27.00% | ~3,682 |
+| The Final Battle of the First Hero | 26.00% | ~3,546 |
+| The Hero Killer | 24.00% | ~3,273 |
 | Brain at Full Throttle | 20.00% | ~2,727 |
-| Rookies Welcome | 18.00% | ~2,454 |
-| Deadly Power | 15.00% | ~2,045 |
-| Castle Restoration Plans | 13.00% | ~1,772 |
-| The Dwarven Chandelier | 10.00% | ~1,363 |
+| Rookies Welcome | 18.00% | ~2,455 |
+| Deadly Power | 15.00% | ~2,046 |
+| Castle Restoration Plans | 13.00% | ~1,773 |
+| The Dwarven Chandelier | 10.00% | ~1,364 |
 | Master of Speed | 9.00% | ~1,227 |
-| The Levitator | 7.00% | ~954 |
+| The Levitator | 8.00% | ~1,091 |
 | The God of Battle | 4.00% | ~545 |
 | Too Much of a Talker | 1.00% | ~136 |
 | The Skeleton King | 1.00% | ~136 |
 | Cold-Blooded | 0.60% | ~82 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,634 (Ranked 174)  
+Progressed: 13,637 (Ranked 174)  
 Completed: 20 (0.15%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,16 +268,16 @@ Completed: 20 (0.15%) (Ranked 286)
 | 2023-12-31 | 13,333 | 19 |
 | 2024-01-01 | 13,477 | 20 |
 | 2024-01-02 | 13,596 | 20 |
-| 2024-01-03 | 13,634 | 20 |
+| 2024-01-03 | 13,637 | 20 |
 ## Awards
 Max (Great for Beginners): 147  (Ranked 328)  
-Sum: 986 (Ranked 270)  
+Sum: 987 (Ranked 270)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 147 |
 | This game has Diverse Characters | 144 |
-| This game is Highly Recommended | 118 |
+| This game is Highly Recommended | 119 |
 | This game is Extremely Fun | 114 |
 | This game has Quickly Understood Controls | 112 |
 | This game is Relaxing | 110 |
@@ -454,4 +454,4 @@ Diff (max vs sum): 58
 | 2023-12-31 | 4.74 | - | 147 | 979 |
 | 2024-01-01 | 4.74 | - | 147 | 981 |
 | 2024-01-02 | 4.74 | - | 147 | 984 |
-| 2024-01-03 | 4.75 | - | 147 | 986 |
+| 2024-01-03 | 4.75 | - | 147 | 987 |

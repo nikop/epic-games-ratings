@@ -35,7 +35,7 @@ Number of Ratings: 85  (23.09.2022)
 | Mash Machine | 15.00% | ~46 |
 | Albion Bridge Is for Falling Down | 13.00% | ~40 |
 | Dusted | 13.00% | ~40 |
-| Scuttled | 9.00% | ~27 |
+| Scuttled | 10.00% | ~30 |
 | PK Slam Dunk | 9.00% | ~27 |
 | Higher Than the Futen Zoku | 9.00% | ~27 |
 | Arty Facts | 8.00% | ~24 |

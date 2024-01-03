@@ -3,9 +3,9 @@
   "Name": "Astrea Six Sided Oracles",
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 388,
-  "Ranking_EOS_Completed": 390,
+  "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -1760,9 +1760,9 @@
       "ID": "SanctuaryGuardian",
       "SetID": "1jeo1g7",
       "Name": "Sanctuary Guardian",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 172
     },
     {
       "ID": "Sentinelphobic",
@@ -2095,8 +2095,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-03T10:09:00.1337149+00:00",
+  "LastChanged_Achievements": "2024-01-03T11:08:30.634696+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:34.5642416+00:00",
-  "LastUpdate_Ratings": "2024-01-03T10:02:46.4978108+00:00",
-  "LastUpdate_Achievements": "2024-01-03T10:09:00.1338094+00:00"
+  "LastUpdate_Ratings": "2024-01-03T11:00:40.3004847+00:00",
+  "LastUpdate_Achievements": "2024-01-03T11:08:30.6347877+00:00"
 }
