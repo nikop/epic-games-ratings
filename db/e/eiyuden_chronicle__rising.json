@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 55,
-  "Ranking_EOS_NewPlayers": 343,
+  "Ranking_EOS_NewPlayers": 339,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -191,11 +191,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 789,
+  "EOS_Progressed": 790,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.6,
+  "EOS_Completed_Percentage": 7.59,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:45.6416158+00:00",
@@ -776,6 +776,11 @@
       "Time": "2024-01-02T19:09:37.8089364+00:00",
       "NumProgressed": 789,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2024-01-03T07:08:51.1974878+00:00",
+      "NumProgressed": 790,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 50,
@@ -787,7 +792,7 @@
       "Name": "Plenty More to Go",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "ACHIEVEMENT002",
@@ -803,7 +808,7 @@
       "Name": "...And Your Tax Money",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "ACHIEVEMENT004",
@@ -811,7 +816,7 @@
       "Name": "All Bark, No Bite",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "ACHIEVEMENT005",
@@ -819,7 +824,7 @@
       "Name": "Magical Mineral Golem",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "ACHIEVEMENT006",
@@ -835,7 +840,7 @@
       "Name": "The Lava Mantor Wyrm",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "ACHIEVEMENT008",
@@ -851,7 +856,7 @@
       "Name": "The Road to Recovery",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "ACHIEVEMENT010",
@@ -875,7 +880,7 @@
       "Name": "The Go-To Girl",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "ACHIEVEMENT013",
@@ -899,7 +904,7 @@
       "Name": "Scavenger\u0027s Honor",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "ACHIEVEMENT016",
@@ -907,7 +912,7 @@
       "Name": "One Mean Merc",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ACHIEVEMENT017",
@@ -915,7 +920,7 @@
       "Name": "Adept, for an Acting Mayor",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ACHIEVEMENT018",
@@ -971,7 +976,7 @@
       "Name": "Amateur Adventurer",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "ACHIEVEMENT025",
@@ -979,7 +984,7 @@
       "Name": "Hopeful Hunter",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "ACHIEVEMENT026",
@@ -995,7 +1000,7 @@
       "Name": "Natural Born Monster-Killer",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "ACHIEVEMENT028",
@@ -1003,7 +1008,7 @@
       "Name": "On Outlander Lane",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "ACHIEVEMENT029",
@@ -1051,7 +1056,7 @@
       "Name": "Money, Money, Money",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ACHIEVEMENT035",
@@ -1075,7 +1080,7 @@
       "Name": "Rune Wall Wreckage",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "ACHIEVEMENT038",
@@ -1083,7 +1088,7 @@
       "Name": "Fishing Master",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ACHIEVEMENT039",
@@ -1091,7 +1096,7 @@
       "Name": "Meat Master",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ACHIEVEMENT040",
@@ -1107,15 +1112,15 @@
       "Name": "The Great Forest...On Foot!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "ACHIEVEMENT042",
       "SetID": "dejhjd5",
       "Name": "The Quarry...On Foot!",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 221
     },
     {
       "ID": "ACHIEVEMENT043",
@@ -1123,7 +1128,7 @@
       "Name": "The Snowpeak...On Foot!",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ACHIEVEMENT044",
@@ -1131,7 +1136,7 @@
       "Name": "The Lava Ruins...On Foot!",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ACHIEVEMENT045",
@@ -1186,15 +1191,15 @@
     {
       "ID": "dejhjd5",
       "IsBase": true,
-      "Progressed": 789,
+      "Progressed": 790,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-12-03T09:59:31.596296+00:00",
-  "LastChanged_Achievements": "2024-01-03T06:08:54.1481213+00:00",
+  "LastChanged_Achievements": "2024-01-03T07:08:51.1974876+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:02.3357194+00:00",
-  "LastUpdate_Ratings": "2024-01-03T06:02:41.4773181+00:00",
-  "LastUpdate_Achievements": "2024-01-03T06:08:54.1481769+00:00"
+  "LastUpdate_Ratings": "2024-01-03T07:00:52.262227+00:00",
+  "LastUpdate_Achievements": "2024-01-03T07:08:51.1975334+00:00"
 }

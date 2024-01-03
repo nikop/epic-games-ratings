@@ -1453,9 +1453,9 @@
       "ID": "ACH_ACCELERATE_SMASH",
       "SetID": "4n84pon",
       "Name": "Mash Machine",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 219
+      "UsersEstimate": 222
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1814,8 +1814,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-31T11:01:39.7283208+00:00",
-  "LastChanged_Achievements": "2024-01-03T06:09:10.4671354+00:00",
+  "LastChanged_Achievements": "2024-01-03T07:09:07.3121441+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.261947+00:00",
-  "LastUpdate_Ratings": "2024-01-03T05:58:09.777098+00:00",
-  "LastUpdate_Achievements": "2024-01-03T06:09:10.4671987+00:00"
+  "LastUpdate_Ratings": "2024-01-03T06:58:24.8700059+00:00",
+  "LastUpdate_Achievements": "2024-01-03T07:09:07.3121802+00:00"
 }

@@ -6,12 +6,12 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~261,021 |
+| Blacksmith's Son | 32.00% | ~261,022 |
 | Cavalier | 26.00% | ~212,080 |
-| Fatso | 23.00% | ~187,609 |
-| Awakening | 21.00% | ~171,295 |
-| Ranger | 20.00% | ~163,138 |
-| Scrooge | 20.00% | ~163,138 |
+| Fatso | 23.00% | ~187,610 |
+| Awakening | 21.00% | ~171,296 |
+| Ranger | 20.00% | ~163,139 |
+| Scrooge | 20.00% | ~163,139 |
 | Anorectic | 16.00% | ~130,511 |
 | Firestarter | 16.00% | ~130,511 |
 | Bookworm | 15.00% | ~122,354 |
@@ -22,9 +22,9 @@ Number of Ratings: 9,133  (23.09.2022)
 | Traveller | 11.00% | ~89,726 |
 | Convict | 10.00% | ~81,569 |
 | Haggler | 9.00% | ~73,412 |
-| McLovin | 7.00% | ~57,098 |
-| Runt | 7.00% | ~57,098 |
-| Casanova | 6.00% | ~48,941 |
+| McLovin | 7.00% | ~57,099 |
+| Runt | 7.00% | ~57,099 |
+| Casanova | 6.00% | ~48,942 |
 | Bad Trip | 5.00% | ~40,785 |
 | Monk | 5.00% | ~40,785 |
 | Serial Killer | 5.00% | ~40,785 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~816 |
 | Wingman | 0.10% | ~816 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 815,691 (Ranked 19)  
+Progressed: 815,694 (Ranked 19)  
 Completed: 53 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,14 +347,14 @@ Completed: 53 (0.01%) (Ranked 367)
 | 2023-12-31 | 815,340 | 53 |
 | 2024-01-01 | 815,507 | 53 |
 | 2024-01-02 | 815,668 | 53 |
-| 2024-01-03 | 815,691 | 53 |
+| 2024-01-03 | 815,694 | 53 |
 ## Awards
-Max (Character Customization): 7,734  (Ranked 53)  
-Sum: 28,714 (Ranked 51)  
+Max (Character Customization): 7,739  (Ranked 53)  
+Sum: 28,719 (Ranked 51)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,734 |
+| This game has Inclusive Character Customization | 7,739 |
 | This game has Great Boss Battles | 5,648 |
 | This game has Challenging Combat | 1,799 |
 | This game has Diverse Characters | 1,767 |
@@ -710,3 +710,4 @@ Diff (max vs sum): 2
 | 2023-12-31 | 4.71 | - | 7,732 | 28,700 |
 | 2024-01-01 | 4.71 | - | 7,732 | 28,704 |
 | 2024-01-02 | 4.71 | - | 7,734 | 28,714 |
+| 2024-01-03 | 4.71 | - | 7,739 | 28,719 |

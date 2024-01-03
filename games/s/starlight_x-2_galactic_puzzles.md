@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Complete 25 levels | 6.00% | ~5 |
 | Use 10 hints | 6.00% | ~5 |
+| Fast 6x6 | 5.00% | ~4 |
 | Use 20 hints | 5.00% | ~4 |
-| Fast 6x6 | 4.00% | ~3 |
 | Complete 50 levels | 4.00% | ~3 |
 | Switch off the light | 2.00% | ~2 |
 | Use 50 hints | 2.00% | ~2 |
@@ -18,6 +18,7 @@
 | Complete 25 6x6 levels | 1.00% | ~1 |
 | By Yourself 5x5 | 1.00% | ~1 |
 | By Yourself 7x7 | 1.00% | ~1 |
+| By Yourself 13x13 | 1.00% | ~1 |
 | Play for 5 hours | 1.00% | ~1 |
 | Addicted for 3 Days | 0.00% | ~0 |
 | Addicted for 7 Days | 0.00% | ~0 |
@@ -44,7 +45,6 @@
 | By Yourself 10x10 | 0.00% | ~0 |
 | By Yourself 11x11 | 0.00% | ~0 |
 | By Yourself 12x12 | 0.00% | ~0 |
-| By Yourself 13x13 | 0.00% | ~0 |
 | Play for 10 hours | 0.00% | ~0 |
 | Play for 24 hours | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

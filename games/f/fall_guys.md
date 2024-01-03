@@ -6,43 +6,43 @@ Number of Ratings: 1,046,587  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One small trip | 15.00% | ~5,612,709 |
-| Snowflake | 15.00% | ~5,612,709 |
-| Fall Throttle | 13.00% | ~4,864,348 |
-| Big Bully | 11.00% | ~4,115,986 |
-| Face First | 11.00% | ~4,115,986 |
-| One to Watch | 10.00% | ~3,741,806 |
-| Style Points | 10.00% | ~3,741,806 |
-| Troublemaker | 10.00% | ~3,741,806 |
-| Flawless Victory | 8.00% | ~2,993,445 |
-| Fall Bae | 8.00% | ~2,993,445 |
-| Ahead of the Pack | 8.00% | ~2,993,445 |
-| Stumble Chums | 8.00% | ~2,993,445 |
-| Victory! | 7.00% | ~2,619,264 |
-| Bargain Bucket | 5.00% | ~1,870,903 |
-| Household Name | 4.00% | ~1,496,722 |
-| One giant leap | 4.00% | ~1,496,722 |
-| Big Air | 3.00% | ~1,122,542 |
-| Catwalk Model | 3.00% | ~1,122,542 |
-| Down to the Wire | 3.00% | ~1,122,542 |
-| Head Turner | 3.00% | ~1,122,542 |
-| Quite Dashing | 3.00% | ~1,122,542 |
-| Squad Goals | 3.00% | ~1,122,542 |
-| Star of the Show | 2.00% | ~748,361 |
-| Shopping Spree | 2.00% | ~748,361 |
-| Top Tier | 2.00% | ~748,361 |
-| Low Baller | 1.00% | ~374,181 |
-| Mad Trendy | 1.00% | ~374,181 |
-| Veteran Status | 1.00% | ~374,181 |
-| Show Off | 1.00% | ~374,181 |
-| Golden Guy | 0.80% | ~299,344 |
-| Track Star | 0.70% | ~261,926 |
-| Big Tease | 0.50% | ~187,090 |
-| Fall Guy Fashionista | 0.40% | ~149,672 |
-| Infallible | 0.30% | ~112,254 |
+| One small trip | 15.00% | ~5,612,784 |
+| Snowflake | 15.00% | ~5,612,784 |
+| Fall Throttle | 13.00% | ~4,864,413 |
+| Big Bully | 11.00% | ~4,116,041 |
+| Face First | 11.00% | ~4,116,041 |
+| One to Watch | 10.00% | ~3,741,856 |
+| Style Points | 10.00% | ~3,741,856 |
+| Troublemaker | 10.00% | ~3,741,856 |
+| Flawless Victory | 8.00% | ~2,993,485 |
+| Fall Bae | 8.00% | ~2,993,485 |
+| Ahead of the Pack | 8.00% | ~2,993,485 |
+| Stumble Chums | 8.00% | ~2,993,485 |
+| Victory! | 7.00% | ~2,619,299 |
+| Bargain Bucket | 5.00% | ~1,870,928 |
+| Household Name | 4.00% | ~1,496,742 |
+| One giant leap | 4.00% | ~1,496,742 |
+| Big Air | 3.00% | ~1,122,557 |
+| Catwalk Model | 3.00% | ~1,122,557 |
+| Down to the Wire | 3.00% | ~1,122,557 |
+| Head Turner | 3.00% | ~1,122,557 |
+| Quite Dashing | 3.00% | ~1,122,557 |
+| Squad Goals | 3.00% | ~1,122,557 |
+| Star of the Show | 2.00% | ~748,371 |
+| Shopping Spree | 2.00% | ~748,371 |
+| Top Tier | 2.00% | ~748,371 |
+| Low Baller | 1.00% | ~374,186 |
+| Mad Trendy | 1.00% | ~374,186 |
+| Veteran Status | 1.00% | ~374,186 |
+| Show Off | 1.00% | ~374,186 |
+| Track Star | 0.80% | ~299,348 |
+| Golden Guy | 0.80% | ~299,348 |
+| Big Tease | 0.50% | ~187,093 |
+| Fall Guy Fashionista | 0.40% | ~149,674 |
+| Infallible | 0.30% | ~112,256 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37,418,058 (Ranked 1)  
-Completed: 49,376 (0.13%) (Ranked 295)  
+Progressed: 37,418,558 (Ranked 1)  
+Completed: 49,378 (0.13%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -299,17 +299,17 @@ Completed: 49,376 (0.13%) (Ranked 295)
 | 2023-12-31 | 37,369,989 | 49,200 |
 | 2024-01-01 | 37,392,670 | 49,258 |
 | 2024-01-02 | 37,412,847 | 49,342 |
-| 2024-01-03 | 37,418,058 | 49,376 |
+| 2024-01-03 | 37,418,558 | 49,378 |
 ## Awards
 Max (Great for Beginners): 154,228  (Ranked 7)  
-Sum: 1,399,940 (Ranked 5)  
+Sum: 1,399,953 (Ranked 5)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 154,228 |
 | This game is Relaxing | 137,761 |
 | This game is Great for Quick Sessions | 136,117 |
-| This game has Competitive Players | 135,223 |
+| This game has Competitive Players | 135,236 |
 | This game has Quickly Understood Controls | 134,929 |
 | This game has Diverse Characters | 132,016 |
 | This game is Extremely Fun | 123,614 |
@@ -663,3 +663,4 @@ Diff (max vs sum): 2
 | 2023-12-31 | 4.51 | - | 154,128 | 1,399,326 |
 | 2024-01-01 | 4.51 | - | 154,180 | 1,399,649 |
 | 2024-01-02 | 4.51 | - | 154,228 | 1,399,940 |
+| 2024-01-03 | 4.51 | - | 154,228 | 1,399,953 |

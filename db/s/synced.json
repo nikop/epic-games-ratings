@@ -4,7 +4,7 @@
   "ProductSlug": "synced",
   "Ranking_Rating": 990,
   "Ranking_Popularity": 342,
-  "Ranking_PopularitySum": 333,
+  "Ranking_PopularitySum": 331,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 44,
@@ -1531,10 +1531,16 @@
       "Rating": 4.15,
       "NumberOfAwards": 497,
       "NumberOfAwardsMax": 128
+    },
+    {
+      "Time": "2024-01-03T06:58:09.5080225+00:00",
+      "Rating": 4.15,
+      "NumberOfAwards": 541,
+      "NumberOfAwardsMax": 128
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 497,
+  "NumberOfAwards": 541,
   "NumberOfAwardsMax": 128,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1590,7 +1596,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 40
+      "Count": 44
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1599,9 +1605,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 82221,
+  "EOS_Progressed": 82237,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 5437,
+  "EOS_NewPlayers": 5434,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -15184,6 +15190,11 @@
       "Time": "2024-01-03T06:06:23.080519+00:00",
       "NumProgressed": 82221,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2024-01-03T07:06:23.0287456+00:00",
+      "NumProgressed": 82237,
+      "NumCompleted": 61
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -15194,9 +15205,9 @@
       "ID": "1",
       "SetID": "2cfdi92",
       "Name": "Your Lucky Day",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 35355
+      "UsersEstimate": 36184
     },
     {
       "ID": "10",
@@ -15236,7 +15247,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 7,
       "XP": 80,
-      "UsersEstimate": 5755
+      "UsersEstimate": 5757
     },
     {
       "ID": "15",
@@ -15260,7 +15271,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 16444
+      "UsersEstimate": 16447
     },
     {
       "ID": "3",
@@ -15268,7 +15279,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 11511
+      "UsersEstimate": 11513
     },
     {
       "ID": "4",
@@ -15276,7 +15287,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 7400
+      "UsersEstimate": 7401
     },
     {
       "ID": "5",
@@ -15284,7 +15295,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 6578
+      "UsersEstimate": 6579
     },
     {
       "ID": "6",
@@ -15292,7 +15303,7 @@
       "Name": "In Two Places At Once",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 4933
+      "UsersEstimate": 4934
     },
     {
       "ID": "7",
@@ -15300,7 +15311,7 @@
       "Name": "More Power to You",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 15622
+      "UsersEstimate": 15625
     },
     {
       "ID": "8",
@@ -15323,16 +15334,16 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 82221,
+      "Progressed": 82237,
       "Completed": 61
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2024-01-03T02:58:14.7970154+00:00",
-  "LastChanged_Achievements": "2024-01-03T06:06:23.0805187+00:00",
+  "LastChanged": "2024-01-03T06:58:09.5080223+00:00",
+  "LastChanged_Achievements": "2024-01-03T07:06:23.0287454+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:56:59.5524948+00:00",
-  "LastUpdate_Ratings": "2024-01-03T05:57:54.5455698+00:00",
-  "LastUpdate_Achievements": "2024-01-03T06:06:23.0805891+00:00"
+  "LastUpdate_Ratings": "2024-01-03T06:58:09.5080227+00:00",
+  "LastUpdate_Achievements": "2024-01-03T07:06:23.0288294+00:00"
 }

@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 235,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1012,9 +1012,9 @@
       "ID": "DopaMiner",
       "SetID": "4bd750m",
       "Name": "Dopa-Miner",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 73
     },
     {
       "ID": "GoingPlaces",
@@ -1132,9 +1132,9 @@
       "ID": "SteamPowered",
       "SetID": "4bd750m",
       "Name": "Steam Powered",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 90,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "SteamingRich",
@@ -1195,8 +1195,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2024-01-03T06:03:47.4156866+00:00",
+  "LastChanged_Achievements": "2024-01-03T07:03:58.0786477+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.9245287+00:00",
-  "LastUpdate_Ratings": "2024-01-03T06:03:10.833968+00:00",
-  "LastUpdate_Achievements": "2024-01-03T06:03:47.4157076+00:00"
+  "LastUpdate_Ratings": "2024-01-03T07:03:20.7454706+00:00",
+  "LastUpdate_Achievements": "2024-01-03T07:03:58.0786698+00:00"
 }

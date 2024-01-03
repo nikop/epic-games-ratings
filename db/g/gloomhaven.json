@@ -2861,7 +2861,7 @@
       "Count": 221
     }
   ],
-  "EOS_Progressed": 30760,
+  "EOS_Progressed": 30763,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 1723,
   "EOS_NewCompleters": 0,
@@ -15526,6 +15526,11 @@
       "Time": "2024-01-03T06:09:29.3415315+00:00",
       "NumProgressed": 30760,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-03T07:09:26.1003838+00:00",
+      "NumProgressed": 30763,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -15578,7 +15583,7 @@
       "Name": "Who\u0027s the Boss?",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 3691
+      "UsersEstimate": 3692
     },
     {
       "ID": "Achievement_Trophy07",
@@ -15722,7 +15727,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 11996
+      "UsersEstimate": 11998
     },
     {
       "ID": "Achievement_Trophy25",
@@ -15730,7 +15735,7 @@
       "Name": "You activated my trap card!",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 3691
+      "UsersEstimate": 3692
     },
     {
       "ID": "Achievement_Trophy26",
@@ -15738,7 +15743,7 @@
       "Name": "Overkill",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 10151
+      "UsersEstimate": 10152
     },
     {
       "ID": "Achievement_Trophy27",
@@ -15754,7 +15759,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 9843
+      "UsersEstimate": 9844
     },
     {
       "ID": "Achievement_Trophy29",
@@ -15770,7 +15775,7 @@
       "Name": "Spread the plague",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 8305
+      "UsersEstimate": 8306
     },
     {
       "ID": "Achievement_Trophy31",
@@ -15778,7 +15783,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 8920
+      "UsersEstimate": 8921
     },
     {
       "ID": "Achievement_Trophy32",
@@ -15810,7 +15815,7 @@
       "Name": "The Pro from Dover",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1230
+      "UsersEstimate": 1231
     },
     {
       "ID": "Achievement_Trophy36",
@@ -15818,7 +15823,7 @@
       "Name": "Pretty lights!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1230
+      "UsersEstimate": 1231
     },
     {
       "ID": "Achievement_Trophy37",
@@ -15826,7 +15831,7 @@
       "Name": "Get over here!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 7382
+      "UsersEstimate": 7383
     },
     {
       "ID": "Achievement_Trophy38",
@@ -15842,7 +15847,7 @@
       "Name": "Just when I thought I was out...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 5844
+      "UsersEstimate": 5845
     },
     {
       "ID": "Achievement_Trophy40",
@@ -15858,7 +15863,7 @@
       "Name": "Obstacle race",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 3691
+      "UsersEstimate": 3692
     },
     {
       "ID": "Achievement_Trophy42",
@@ -15922,7 +15927,7 @@
       "Name": "Anatomy Lesson",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 4306
+      "UsersEstimate": 4307
     },
     {
       "ID": "Achievement_Trophy50",
@@ -16025,7 +16030,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 30760,
+      "Progressed": 30763,
       "Completed": 1
     }
   ],
@@ -16033,8 +16038,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2024-01-03T00:00:48.6412636+00:00",
-  "LastChanged_Achievements": "2024-01-03T06:09:29.341531+00:00",
+  "LastChanged_Achievements": "2024-01-03T07:09:26.1003833+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:05.9428761+00:00",
-  "LastUpdate_Ratings": "2024-01-03T05:59:38.5571693+00:00",
-  "LastUpdate_Achievements": "2024-01-03T06:09:29.3416634+00:00"
+  "LastUpdate_Ratings": "2024-01-03T06:59:50.8993846+00:00",
+  "LastUpdate_Achievements": "2024-01-03T07:09:26.1005211+00:00"
 }

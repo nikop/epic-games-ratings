@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2160,
+  "EOS_Progressed": 2161,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -8305,6 +8305,11 @@
       "Time": "2024-01-02T23:07:56.3898084+00:00",
       "NumProgressed": 2160,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-03T07:03:31.7736433+00:00",
+      "NumProgressed": 2161,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8490,9 +8495,9 @@
       "ID": "objective_key_alliance_join_1",
       "SetID": "bm61c2p",
       "Name": "It\u0027s Good to have Allies",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 605
+      "UsersEstimate": 583
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -8546,9 +8551,9 @@
       "ID": "objective_key_objectives_completed_4",
       "SetID": "bm61c2p",
       "Name": "Battle Ready",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 43
     },
     {
       "ID": "objective_multiple_barracks_1",
@@ -8619,7 +8624,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2160,
+      "Progressed": 2161,
       "Completed": 1
     }
   ],
@@ -8627,8 +8632,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-25T23:58:10.3014256+00:00",
-  "LastChanged_Achievements": "2024-01-03T06:03:20.513432+00:00",
+  "LastChanged_Achievements": "2024-01-03T07:03:31.7736429+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:25.9392392+00:00",
-  "LastUpdate_Ratings": "2024-01-03T05:58:29.1239204+00:00",
-  "LastUpdate_Achievements": "2024-01-03T06:03:20.5135321+00:00"
+  "LastUpdate_Ratings": "2024-01-03T06:58:41.0457208+00:00",
+  "LastUpdate_Achievements": "2024-01-03T07:03:31.7737018+00:00"
 }

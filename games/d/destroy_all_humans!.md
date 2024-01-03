@@ -6,29 +6,29 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shop Til They Drop | 72.00% | ~216 |
-| Kaijuiced | 69.00% | ~207 |
-| Lie Back and Think of Albion | 62.00% | ~186 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 61.00% | ~183 |
-| Yettisoned | 58.00% | ~174 |
-| I Look Up As I Walk to Takoshima | 58.00% | ~174 |
-| Perfect Probulator | 55.00% | ~165 |
-| Pimp My Raid | 53.00% | ~159 |
-| Lobster Blisque | 50.00% | ~150 |
-| Earthly Pleasures | 47.00% | ~141 |
-| Fly Me to the Moon Base | 46.00% | ~138 |
-| Ducks in a Row, Fish in a Barrel | 44.00% | ~132 |
-| Forbidden Donut | 37.00% | ~111 |
-| Freshly Squeezed | 36.00% | ~108 |
-| Bodied Sattva | 35.00% | ~105 |
-| Upgreatest | 33.00% | ~99 |
-| Furon Fashion | 29.00% | ~87 |
-| Deincarnated | 28.00% | ~84 |
-| Rock of the Bay | 26.00% | ~78 |
-| Trans-Siberian Express | 25.00% | ~75 |
-| Re-Return of the Clone of the Invasion II-2 | 20.00% | ~60 |
-| Arkvoodle Doodle | 19.00% | ~57 |
-| If You Know What I Mean | 17.00% | ~51 |
+| Shop Til They Drop | 72.00% | ~218 |
+| Kaijuiced | 68.00% | ~206 |
+| Lie Back and Think of Albion | 62.00% | ~188 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 61.00% | ~185 |
+| I Look Up As I Walk to Takoshima | 58.00% | ~176 |
+| Yettisoned | 57.00% | ~173 |
+| Perfect Probulator | 54.00% | ~164 |
+| Pimp My Raid | 53.00% | ~161 |
+| Lobster Blisque | 50.00% | ~152 |
+| Earthly Pleasures | 47.00% | ~142 |
+| Fly Me to the Moon Base | 46.00% | ~139 |
+| Ducks in a Row, Fish in a Barrel | 44.00% | ~133 |
+| Forbidden Donut | 36.00% | ~109 |
+| Freshly Squeezed | 36.00% | ~109 |
+| Bodied Sattva | 35.00% | ~106 |
+| Upgreatest | 33.00% | ~100 |
+| Furon Fashion | 29.00% | ~88 |
+| Deincarnated | 28.00% | ~85 |
+| Rock of the Bay | 26.00% | ~79 |
+| Trans-Siberian Express | 24.00% | ~73 |
+| Re-Return of the Clone of the Invasion II-2 | 20.00% | ~61 |
+| Arkvoodle Doodle | 18.00% | ~55 |
+| If You Know What I Mean | 17.00% | ~52 |
 | Die Nasty | 16.00% | ~48 |
 | Ouch of Body Experience | 15.00% | ~45 |
 | Hidden Human Hive Harvest | 15.00% | ~45 |
@@ -47,8 +47,8 @@ Number of Ratings: 85  (23.09.2022)
 | Steezy Down the Spine | 2.00% | ~6 |
 | Against All Odds | 2.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 300 (Ranked 390)  
-Completed: 5 (1.67%) (Ranked 144)  
+Progressed: 303 (Ranked 389)  
+Completed: 5 (1.65%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -68,7 +68,7 @@ Completed: 5 (1.67%) (Ranked 144)
 | 2023-12-31 | 264 | 5 |
 | 2024-01-01 | 279 | 5 |
 | 2024-01-02 | 296 | 5 |
-| 2024-01-03 | 300 | 5 |
+| 2024-01-03 | 303 | 5 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 499)  
 Sum: 35 (Ranked 529)  

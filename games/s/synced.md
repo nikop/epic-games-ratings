@@ -5,14 +5,14 @@ Rating: 4.15 (Ranked 990)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 43.00% | ~35,355 |
-| As Far Away As Possible | 20.00% | ~16,444 |
-| More Power to You | 19.00% | ~15,622 |
-| A Most Unstable Organism | 14.00% | ~11,511 |
-| No Time to Follow Protocol | 9.00% | ~7,400 |
-| Float Like a Butterfly... | 8.00% | ~6,578 |
-| Nano Connoisseur | 7.00% | ~5,755 |
-| In Two Places At Once | 6.00% | ~4,933 |
+| Your Lucky Day | 44.00% | ~36,184 |
+| As Far Away As Possible | 20.00% | ~16,447 |
+| More Power to You | 19.00% | ~15,625 |
+| A Most Unstable Organism | 14.00% | ~11,513 |
+| No Time to Follow Protocol | 9.00% | ~7,401 |
+| Float Like a Butterfly... | 8.00% | ~6,579 |
+| Nano Connoisseur | 7.00% | ~5,757 |
+| In Two Places At Once | 6.00% | ~4,934 |
 | Pulling Your Weight | 3.00% | ~2,467 |
 | Reaping Rivals | 3.00% | ~2,467 |
 | fifteenth Time's the Charm | 1.00% | ~822 |
@@ -22,7 +22,7 @@ Rating: 4.15 (Ranked 990)
 | Runs for Your Money | 0.30% | ~247 |
 | Past Master | 0.30% | ~247 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,221 (Ranked 107)  
+Progressed: 82,237 (Ranked 107)  
 Completed: 61 (0.07%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,11 +151,11 @@ Completed: 61 (0.07%) (Ranked 321)
 | 2023-12-31 | 80,629 | 61 |
 | 2024-01-01 | 81,346 | 61 |
 | 2024-01-02 | 82,048 | 61 |
-| 2024-01-03 | 82,221 | 61 |
+| 2024-01-03 | 82,237 | 61 |
 ## Awards
 Max (Great for Beginners): 128  (Ranked 342)  
-Sum: 497 (Ranked 333)  
-Diff (max vs sum): 9  
+Sum: 541 (Ranked 331)  
+Diff (max vs sum): 11  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 128 |
@@ -166,7 +166,7 @@ Diff (max vs sum): 9
 | This game has a Competitive Community | 54 |
 | This game has Amazing Storytelling | 52 |
 | This game has Quickly Understood Controls | 48 |
-| This game is Relaxing | 40 |
+| This game is Relaxing | 44 |
 | This game has Unique Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -278,4 +278,4 @@ Diff (max vs sum): 9
 | 2023-12-31 | 4.15 | 125 | 488 |
 | 2024-01-01 | 4.15 | 126 | 490 |
 | 2024-01-02 | 4.15 | 126 | 491 |
-| 2024-01-03 | 4.15 | 128 | 497 |
+| 2024-01-03 | 4.15 | 128 | 541 |

@@ -169,25 +169,25 @@
       "ID": "OOPS",
       "SetID": "7ae64fg",
       "Name": "Oops",
-      "Percentage": 95,
+      "Percentage": 100,
       "XP": 110,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "SMALL_BUSINESS",
       "SetID": "7ae64fg",
       "Name": "Small business",
-      "Percentage": 35,
+      "Percentage": 40,
       "XP": 110,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "SPECIAL_DELIVERY",
       "SetID": "7ae64fg",
       "Name": "Special delivery",
-      "Percentage": 60,
+      "Percentage": 65,
       "XP": 110,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "STEP_BY_STEP",
@@ -215,8 +215,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-26T15:04:27.1843787+00:00",
-  "LastChanged_Achievements": "2024-01-03T06:04:41.5331357+00:00",
+  "LastChanged_Achievements": "2024-01-03T07:04:51.0563242+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:05.43868+00:00",
-  "LastUpdate_Ratings": "2024-01-03T06:02:35.095465+00:00",
-  "LastUpdate_Achievements": "2024-01-03T06:04:41.5331455+00:00"
+  "LastUpdate_Ratings": "2024-01-03T07:00:46.0105134+00:00",
+  "LastUpdate_Achievements": "2024-01-03T07:04:51.0563369+00:00"
 }

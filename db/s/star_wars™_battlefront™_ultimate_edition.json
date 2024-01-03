@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2528,
+  "EOS_Progressed": 2529,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 302,
+  "EOS_NewPlayers": 303,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7024,6 +7024,11 @@
       "Time": "2024-01-03T05:10:05.184221+00:00",
       "NumProgressed": 2528,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-03T07:10:04.21987+00:00",
+      "NumProgressed": 2529,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -7260,7 +7265,7 @@
       "Name": "New Recruit",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 2199
+      "UsersEstimate": 2200
     },
     {
       "ID": "achievement_36",
@@ -7276,7 +7281,7 @@
       "Name": "Off to a good start",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1567
+      "UsersEstimate": 1568
     },
     {
       "ID": "achievement_38",
@@ -7476,7 +7481,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "achievement_60",
@@ -7539,13 +7544,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2528,
+      "Progressed": 2529,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2528,
+      "Progressed": 2529,
       "Completed": 1
     }
   ],
@@ -7553,8 +7558,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-03T06:10:08.8589755+00:00",
+  "LastChanged_Achievements": "2024-01-03T07:10:04.2198697+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:19.759459+00:00",
-  "LastUpdate_Ratings": "2024-01-03T05:59:21.6465325+00:00",
-  "LastUpdate_Achievements": "2024-01-03T06:10:08.8590643+00:00"
+  "LastUpdate_Ratings": "2024-01-03T06:59:33.9422544+00:00",
+  "LastUpdate_Achievements": "2024-01-03T07:10:04.219947+00:00"
 }

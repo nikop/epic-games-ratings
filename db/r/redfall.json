@@ -351,9 +351,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2231,
+  "EOS_Progressed": 2232,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3906,6 +3906,11 @@
       "Time": "2024-01-03T05:06:15.4934679+00:00",
       "NumProgressed": 2231,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T07:06:11.7089506+00:00",
+      "NumProgressed": 2232,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3939,9 +3944,9 @@
       "ID": "Achievement_004",
       "SetID": "6b34g18",
       "Name": "Enter of Your Own Free Will",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 179
     },
     {
       "ID": "Achievement_006",
@@ -3981,7 +3986,7 @@
       "Name": "Welcome to the Neighborhood",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "Achievement_011",
@@ -4035,9 +4040,9 @@
       "ID": "Achievement_017",
       "SetID": "6b34g18",
       "Name": "Bad Wiring",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 134
     },
     {
       "ID": "Achievement_018",
@@ -4133,7 +4138,7 @@
       "Name": "Throw The First Stone",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "Achievement_030",
@@ -4444,7 +4449,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2231,
+      "Progressed": 2232,
       "Completed": 0
     }
   ],
@@ -4452,8 +4457,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-01T12:00:40.1847166+00:00",
-  "LastChanged_Achievements": "2024-01-03T06:06:11.0227688+00:00",
+  "LastChanged_Achievements": "2024-01-03T07:06:11.7089503+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.8280502+00:00",
-  "LastUpdate_Ratings": "2024-01-03T06:00:30.9122261+00:00",
-  "LastUpdate_Achievements": "2024-01-03T06:06:11.0228487+00:00"
+  "LastUpdate_Ratings": "2024-01-03T07:00:42.7339804+00:00",
+  "LastUpdate_Achievements": "2024-01-03T07:06:11.7090204+00:00"
 }

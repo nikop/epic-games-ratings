@@ -7,7 +7,7 @@ Rating: 4.14 (Ranked 999)
 | ---- | ---------- | ----- |
 | Attachments | 12.00% | ~5,542 |
 | Unlocked Potential | 11.00% | ~5,080 |
-| Tinkerer | 8.00% | ~3,694 |
+| Tinkerer | 8.00% | ~3,695 |
 | Leapfrogger | 7.00% | ~3,233 |
 | Knock 'Em Dead | 7.00% | ~3,233 |
 | Pilgrimage: Initiate | 7.00% | ~3,233 |
@@ -19,9 +19,9 @@ Rating: 4.14 (Ranked 999)
 | Stuck | 5.00% | ~2,309 |
 | Help Me Out Here | 5.00% | ~2,309 |
 | The Interloper | 4.00% | ~1,847 |
-| Outdoorsperson | 3.00% | ~1,385 |
-| Hop, Step, Jump | 3.00% | ~1,385 |
-| Endless Runner | 3.00% | ~1,385 |
+| Outdoorsperson | 3.00% | ~1,386 |
+| Hop, Step, Jump | 3.00% | ~1,386 |
+| Endless Runner | 3.00% | ~1,386 |
 | What Must Be Done | 2.00% | ~924 |
 | Might and Main | 2.00% | ~924 |
 | Damned If You Do... | 2.00% | ~924 |
@@ -59,7 +59,7 @@ Rating: 4.14 (Ranked 999)
 | Remembrance | 0.10% | ~46 |
 | Cat Person | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,181 (Ranked 125)  
+Progressed: 46,186 (Ranked 125)  
 Completed: 4 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 4 (0.01%) (Ranked 367)
 | 2023-12-31 | 45,906 | 4 |
 | 2024-01-01 | 46,038 | 4 |
 | 2024-01-02 | 46,154 | 4 |
-| 2024-01-03 | 46,181 | 4 |
+| 2024-01-03 | 46,186 | 4 |
 ## Awards
 Max (Character Customization): 40  (Ranked 477)  
 Sum: 40 (Ranked 518)  

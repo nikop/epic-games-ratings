@@ -185,7 +185,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 111421,
+  "EOS_Progressed": 111422,
   "EOS_Completed": 5400,
   "EOS_NewPlayers": 1562,
   "EOS_NewCompleters": 141,
@@ -12985,6 +12985,11 @@
       "Time": "2024-01-03T06:05:35.2758419+00:00",
       "NumProgressed": 111421,
       "NumCompleted": 5400
+    },
+    {
+      "Time": "2024-01-03T07:05:36.9282565+00:00",
+      "NumProgressed": 111422,
+      "NumCompleted": 5400
     }
   ],
   "AchievementsAdded": "2023-09-14T13:08:14.9328162+00:00",
@@ -12997,7 +13002,7 @@
       "Name": "Assemble a Crew!",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 70195
+      "UsersEstimate": 70196
     },
     {
       "ID": "GoldMedalCrewmates",
@@ -13029,7 +13034,7 @@
       "Name": "Pelagic Perils",
       "Percentage": 57,
       "XP": 75,
-      "UsersEstimate": 63510
+      "UsersEstimate": 63511
     },
     {
       "ID": "ShipDip",
@@ -13037,7 +13042,7 @@
       "Name": "Ship Dip!",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 59053
+      "UsersEstimate": 59054
     },
     {
       "ID": "TheArtOfParley",
@@ -13045,7 +13050,7 @@
       "Name": "The Art of Parley",
       "Percentage": 76,
       "XP": 75,
-      "UsersEstimate": 84680
+      "UsersEstimate": 84681
     },
     {
       "ID": "TheGoldenRatio",
@@ -13069,7 +13074,7 @@
       "Name": "We Can Do Better!",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 86908
+      "UsersEstimate": 86909
     },
     {
       "ID": "WeighAnchorSetSail",
@@ -13092,7 +13097,7 @@
     {
       "ID": "bcl47p5",
       "IsBase": true,
-      "Progressed": 111421,
+      "Progressed": 111422,
       "Completed": 5400
     }
   ],
@@ -13100,8 +13105,8 @@
   "FirstSeenRating": "2023-09-22T19:59:25.5945535+00:00",
   "FirstSeenAchievements": "2023-09-14T13:08:14.9328161+00:00",
   "LastChanged": "2023-12-06T21:57:26.986764+00:00",
-  "LastChanged_Achievements": "2024-01-03T06:05:35.2758414+00:00",
+  "LastChanged_Achievements": "2024-01-03T07:05:36.9282562+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:04.5269617+00:00",
-  "LastUpdate_Ratings": "2024-01-03T06:00:07.6957723+00:00",
-  "LastUpdate_Achievements": "2024-01-03T06:05:35.2759143+00:00"
+  "LastUpdate_Ratings": "2024-01-03T07:00:18.9011135+00:00",
+  "LastUpdate_Achievements": "2024-01-03T07:05:36.9283289+00:00"
 }

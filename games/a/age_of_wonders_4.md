@@ -7,28 +7,28 @@ Rating: 4.62 (Ranked 375)
 | ---- | ---------- | ----- |
 | Secret Technique | 14.00% | ~945 |
 | Realm Estate | 12.00% | ~810 |
-| A Wonderful Discovery | 11.00% | ~742 |
-| Walls Cannot Stop Us | 11.00% | ~742 |
+| A Wonderful Discovery | 11.00% | ~743 |
+| Walls Cannot Stop Us | 11.00% | ~743 |
 | From Friends to Family | 10.00% | ~675 |
 | Bone Peddler | 8.00% | ~540 |
-| Full Ascension | 7.00% | ~472 |
-| Magical Synergy | 7.00% | ~472 |
+| Full Ascension | 7.00% | ~473 |
+| Magical Synergy | 7.00% | ~473 |
 | There Can Only Be One! | 6.00% | ~405 |
 | Stronger Together | 6.00% | ~405 |
 | Seat of Power | 6.00% | ~405 |
-| Valley of Wonders | 5.00% | ~337 |
-| In a Liege of Your Own | 5.00% | ~337 |
-| Intimidation Tactics | 5.00% | ~337 |
-| But this one is mine | 5.00% | ~337 |
+| Valley of Wonders | 5.00% | ~338 |
+| In a Liege of Your Own | 5.00% | ~338 |
+| Intimidation Tactics | 5.00% | ~338 |
+| But this one is mine | 5.00% | ~338 |
 | Return of the Wizard King | 4.00% | ~270 |
 | Digging for Treasure | 4.00% | ~270 |
 | My Final Form | 4.00% | ~270 |
-| Enchanted Archipelago | 3.00% | ~202 |
-| Preparation Is Everything | 3.00% | ~202 |
-| Fiery Friend | 3.00% | ~202 |
-| Against the Odds | 3.00% | ~202 |
-| Impenetrable Fortress | 3.00% | ~202 |
-| Freed Lands of Manuhari | 3.00% | ~202 |
+| Enchanted Archipelago | 3.00% | ~203 |
+| Preparation Is Everything | 3.00% | ~203 |
+| Fiery Friend | 3.00% | ~203 |
+| Against the Odds | 3.00% | ~203 |
+| Impenetrable Fortress | 3.00% | ~203 |
+| Freed Lands of Manuhari | 3.00% | ~203 |
 | Arch Mage | 2.00% | ~135 |
 | The Creator | 2.00% | ~135 |
 | Crimson Caldera | 2.00% | ~135 |
@@ -39,18 +39,18 @@ Rating: 4.62 (Ranked 375)
 | Sehiran Oasis | 2.00% | ~135 |
 | Chaos Surge | 2.00% | ~135 |
 | Spoils of War | 2.00% | ~135 |
-| I've Got Everything I Need Right Here | 1.00% | ~67 |
-| God Emperor | 1.00% | ~67 |
-| Lord of Chaos | 1.00% | ~67 |
-| The Goddess of Nature | 1.00% | ~67 |
-| Eternal Lord | 1.00% | ~67 |
-| Manufactured War | 1.00% | ~67 |
-| The Eternal Court | 1.00% | ~67 |
-| Pruning for Progress | 1.00% | ~67 |
-| Prometheus Avenged | 1.00% | ~67 |
-| Seal the Deal | 1.00% | ~67 |
-| A Conqueror's Cohort | 1.00% | ~67 |
-| Dawn of the Dread | 1.00% | ~67 |
+| I've Got Everything I Need Right Here | 1.00% | ~68 |
+| God Emperor | 1.00% | ~68 |
+| Lord of Chaos | 1.00% | ~68 |
+| The Goddess of Nature | 1.00% | ~68 |
+| Eternal Lord | 1.00% | ~68 |
+| Manufactured War | 1.00% | ~68 |
+| The Eternal Court | 1.00% | ~68 |
+| Pruning for Progress | 1.00% | ~68 |
+| Prometheus Avenged | 1.00% | ~68 |
+| Seal the Deal | 1.00% | ~68 |
+| A Conqueror's Cohort | 1.00% | ~68 |
+| Dawn of the Dread | 1.00% | ~68 |
 | Grexolis | 0.90% | ~61 |
 | One for All, All for One | 0.90% | ~61 |
 | Duality | 0.80% | ~54 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 375)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,749 (Ranked 196)  
+Progressed: 6,751 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 7 (0.10%) (Ranked 304)
 | 2023-12-31 | 6,624 | 7 |
 | 2024-01-01 | 6,687 | 7 |
 | 2024-01-02 | 6,742 | 7 |
-| 2024-01-03 | 6,749 | 7 |
+| 2024-01-03 | 6,751 | 7 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 477)  
 Sum: 208 (Ranked 409)  

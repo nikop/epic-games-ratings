@@ -5,17 +5,17 @@ Rating: 4.51 (Ranked 591)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~178,420 |
-| FIRST BLOOD | 40.00% | ~158,596 |
-| KEVIN! | 30.00% | ~118,947 |
-| JACK OF ALL TRADES | 23.00% | ~91,192 |
-| CRIMINAL | 20.00% | ~79,298 |
-| GRANDMA WOULD BE PROUD | 11.00% | ~43,614 |
-| WITHOUT BREAKING A SWEAT | 9.00% | ~35,684 |
-| HONORS STUDENT | 8.00% | ~31,719 |
-| BUTCHER | 6.00% | ~23,789 |
-| INDIVIDUAL APPROACH | 5.00% | ~19,824 |
-| RAMBO | 5.00% | ~19,824 |
+| MASTER CHEF | 45.00% | ~178,427 |
+| FIRST BLOOD | 40.00% | ~158,602 |
+| KEVIN! | 30.00% | ~118,952 |
+| JACK OF ALL TRADES | 23.00% | ~91,196 |
+| CRIMINAL | 20.00% | ~79,301 |
+| GRANDMA WOULD BE PROUD | 11.00% | ~43,616 |
+| WITHOUT BREAKING A SWEAT | 9.00% | ~35,685 |
+| HONORS STUDENT | 8.00% | ~31,720 |
+| BUTCHER | 6.00% | ~23,790 |
+| INDIVIDUAL APPROACH | 5.00% | ~19,825 |
+| RAMBO | 5.00% | ~19,825 |
 | HELL'S KITCHEN | 4.00% | ~15,860 |
 | CELEBRITY | 3.00% | ~11,895 |
 | MARTYR | 3.00% | ~11,895 |
@@ -26,15 +26,15 @@ Rating: 4.51 (Ranked 591)
 | LAW-ABIDING CITIZEN | 1.00% | ~3,965 |
 | PRUDENT | 1.00% | ~3,965 |
 | SCATTERBRAIN | 0.80% | ~3,172 |
-| HIGH TECHNOLOGIES | 0.70% | ~2,775 |
+| HIGH TECHNOLOGIES | 0.70% | ~2,776 |
 | TASTE UNTASTY | 0.60% | ~2,379 |
 | DEBTOR | 0.20% | ~793 |
 | I'VE SEEN SOME… | 0.20% | ~793 |
-| CORRUPTIONIST | 0.10% | ~396 |
-| MISTER ALL THUMBS | 0.10% | ~396 |
-| TRAVELER | 0.10% | ~396 |
+| CORRUPTIONIST | 0.10% | ~397 |
+| MISTER ALL THUMBS | 0.10% | ~397 |
+| TRAVELER | 0.10% | ~397 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 396,489 (Ranked 50)  
+Progressed: 396,505 (Ranked 50)  
 Completed: 56 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 56 (0.01%) (Ranked 367)
 | 2023-12-31 | 395,149 | 56 |
 | 2024-01-01 | 395,798 | 56 |
 | 2024-01-02 | 396,363 | 56 |
-| 2024-01-03 | 396,489 | 56 |
+| 2024-01-03 | 396,505 | 56 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

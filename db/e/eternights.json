@@ -41,9 +41,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 745,
+  "EOS_Progressed": 746,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -2771,6 +2771,11 @@
       "Time": "2024-01-03T02:30:11.9470968+00:00",
       "NumProgressed": 745,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-03T07:09:03.5695485+00:00",
+      "NumProgressed": 746,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -2863,7 +2868,7 @@
       "Name": "Shelter Escape",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -2927,7 +2932,7 @@
       "Name": "Novice Scavenger",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -2943,7 +2948,7 @@
       "Name": "First wall",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
@@ -2982,7 +2987,7 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 745,
+      "Progressed": 746,
       "Completed": 2
     }
   ],
@@ -2990,8 +2995,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2023-12-31T15:57:10.2736309+00:00",
-  "LastChanged_Achievements": "2024-01-03T06:09:06.6403705+00:00",
+  "LastChanged_Achievements": "2024-01-03T07:09:03.5695483+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.2091482+00:00",
-  "LastUpdate_Ratings": "2024-01-03T05:58:34.6023616+00:00",
-  "LastUpdate_Achievements": "2024-01-03T06:09:06.640405+00:00"
+  "LastUpdate_Ratings": "2024-01-03T06:58:46.5185252+00:00",
+  "LastUpdate_Achievements": "2024-01-03T07:09:03.5695725+00:00"
 }

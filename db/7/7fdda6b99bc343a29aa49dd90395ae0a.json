@@ -4,7 +4,7 @@
   "ProductSlug": "master-of-music-b8e0ea",
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-11-22T09:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-29T02:19:25.0774826+00:00",
   "LastUpdate_AppInfo": "2023-12-27T12:59:42.8054567+00:00",
-  "LastUpdate_Ratings": "2024-01-03T05:59:25.6722033+00:00",
-  "LastUpdate_Achievements": "2024-01-03T06:06:04.4730144+00:00"
+  "LastUpdate_Ratings": "2024-01-03T06:59:37.2675746+00:00",
+  "LastUpdate_Achievements": "2024-01-03T07:06:05.2661624+00:00"
 }

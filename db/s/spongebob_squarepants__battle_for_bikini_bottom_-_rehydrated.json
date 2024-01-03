@@ -329,11 +329,11 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 669,
+  "EOS_Progressed": 671,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 254,
+  "EOS_NewPlayers": 255,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 1.05,
+  "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
       "Time": "2023-12-18T11:05:17.4237079+00:00",
@@ -1819,6 +1819,11 @@
       "Time": "2024-01-03T05:03:55.5950304+00:00",
       "NumProgressed": 669,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-03T07:04:07.5576221+00:00",
+      "NumProgressed": 671,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1831,7 +1836,7 @@
       "Name": "Robot encyclopedia",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_ARE_YOU_READY_NOW",
@@ -1887,7 +1892,7 @@
       "Name": "Hello, Bikini Bottom",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_FLYING_DUTCHMAN_BOSS",
@@ -2015,7 +2020,7 @@
       "Name": "Ultra Spatula Seeker",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_STAT_75_SPATULA_SEEKER",
@@ -2037,9 +2042,9 @@
       "ID": "ACH_STAT_SPATULA_SEEKER",
       "SetID": "biiejkc",
       "Name": "Spatula Seeker",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -2061,9 +2066,9 @@
       "ID": "ACH_STAT_STAR_SMASHER",
       "SetID": "biiejkc",
       "Name": "Star Smasher",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_SURFS_UP",
@@ -2086,15 +2091,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 669,
+      "Progressed": 671,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-01T20:58:26.8279253+00:00",
-  "LastChanged_Achievements": "2024-01-03T06:03:57.2073282+00:00",
+  "LastChanged_Achievements": "2024-01-03T07:04:07.5576218+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:11.8880921+00:00",
-  "LastUpdate_Ratings": "2024-01-03T05:59:03.9644706+00:00",
-  "LastUpdate_Achievements": "2024-01-03T06:03:57.2073542+00:00"
+  "LastUpdate_Ratings": "2024-01-03T06:59:15.8187621+00:00",
+  "LastUpdate_Achievements": "2024-01-03T07:04:07.5576442+00:00"
 }

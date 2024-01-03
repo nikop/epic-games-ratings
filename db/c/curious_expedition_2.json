@@ -5,7 +5,7 @@
   "Ranking_Rating": 162,
   "Ranking_Popularity": 578,
   "Ranking_PopularitySum": 578,
-  "Ranking_EOS_Progress": 363,
+  "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 350,
   "Ranking_EOS_NewCompleters": 151,
@@ -76,7 +76,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 394,
+  "EOS_Progressed": 395,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
@@ -586,6 +586,11 @@
       "Time": "2024-01-02T15:11:02.5294298+00:00",
       "NumProgressed": 394,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-03T07:10:03.0836309+00:00",
+      "NumProgressed": 395,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -693,7 +698,7 @@
       "Name": "Traveller",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ach-campaign-finish-hard",
@@ -741,7 +746,7 @@
       "Name": "Lost \u0026 Found \u0026 Lost Again",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ach-campaign-story3",
@@ -797,7 +802,7 @@
       "Name": "Fire and Flood",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ach-find-treasure",
@@ -821,7 +826,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ach-hardExpeditions",
@@ -861,7 +866,7 @@
       "Name": "Taxonomist",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ach-kill-hyenas",
@@ -941,7 +946,7 @@
       "Name": "Insomnia",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ach-pacifist-goals",
@@ -965,7 +970,7 @@
       "Name": "Uncertain Loyalties",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ach-portal-return",
@@ -973,7 +978,7 @@
       "Name": "From Whence we Came",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ach-promotion",
@@ -1021,7 +1026,7 @@
       "Name": "Cold Blood, Warm Heart",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ach-spendNoMoney",
@@ -1061,7 +1066,7 @@
       "Name": "Errand Runner",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ach-wearHat",
@@ -1076,7 +1081,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 394,
+      "Progressed": 395,
       "Completed": 1
     }
   ],
@@ -1084,8 +1089,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2024-01-01T02:59:19.0992943+00:00",
-  "LastChanged_Achievements": "2024-01-03T06:10:07.6835633+00:00",
+  "LastChanged_Achievements": "2024-01-03T07:10:03.0836306+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:12.3485961+00:00",
-  "LastUpdate_Ratings": "2024-01-03T05:59:31.2459719+00:00",
-  "LastUpdate_Achievements": "2024-01-03T06:10:07.68361+00:00"
+  "LastUpdate_Ratings": "2024-01-03T06:59:43.7551534+00:00",
+  "LastUpdate_Achievements": "2024-01-03T07:10:03.0836842+00:00"
 }

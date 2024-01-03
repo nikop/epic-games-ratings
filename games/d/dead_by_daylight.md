@@ -6,41 +6,41 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 6.00% | ~68,232 |
-| Zealous | 5.00% | ~56,860 |
-| Skillful | 5.00% | ~56,860 |
-| Not half bad | 4.00% | ~45,488 |
-| Apt Survivor | 4.00% | ~45,488 |
-| Make Some Noise | 4.00% | ~45,488 |
-| The Grand Sacrifice | 3.00% | ~34,116 |
-| No one left behind | 3.00% | ~34,116 |
-| Medic | 3.00% | ~34,116 |
-| Handyman | 3.00% | ~34,116 |
-| Bloody Millionaire | 3.00% | ~34,116 |
-| Survival Treasures | 3.00% | ~34,116 |
-| I | 3.00% | ~34,116 |
-| Sorted | 3.00% | ~34,116 |
-| Healthy Obsession | 3.00% | ~34,116 |
-| Resurgence | 3.00% | ~34,116 |
-| Preemptive Strike | 3.00% | ~34,116 |
-| Humanitarian | 3.00% | ~34,116 |
-| Escape Artist | 2.00% | ~22,744 |
-| Agonizing Escape | 2.00% | ~22,744 |
-| Backdoor Escape | 2.00% | ~22,744 |
-| I've got your back | 2.00% | ~22,744 |
-| Perfect Escape | 2.00% | ~22,744 |
-| Perfect Killing | 2.00% | ~22,744 |
-| Apt Killer | 2.00% | ~22,744 |
-| Risk it all | 2.00% | ~22,744 |
-| Vulture | 2.00% | ~22,744 |
-| II | 2.00% | ~22,744 |
-| III | 2.00% | ~22,744 |
-| Engineer | 2.00% | ~22,744 |
-| Wounded Healer | 2.00% | ~22,744 |
-| Close Shave | 2.00% | ~22,744 |
-| With Scars to Show | 2.00% | ~22,744 |
-| Lifting The Fog | 2.00% | ~22,744 |
-| Second Act | 2.00% | ~22,744 |
+| It wakes | 6.00% | ~68,234 |
+| Zealous | 5.00% | ~56,862 |
+| Skillful | 5.00% | ~56,862 |
+| Not half bad | 4.00% | ~45,490 |
+| Apt Survivor | 4.00% | ~45,490 |
+| Make Some Noise | 4.00% | ~45,490 |
+| The Grand Sacrifice | 3.00% | ~34,117 |
+| No one left behind | 3.00% | ~34,117 |
+| Medic | 3.00% | ~34,117 |
+| Handyman | 3.00% | ~34,117 |
+| Bloody Millionaire | 3.00% | ~34,117 |
+| Survival Treasures | 3.00% | ~34,117 |
+| I | 3.00% | ~34,117 |
+| Sorted | 3.00% | ~34,117 |
+| Healthy Obsession | 3.00% | ~34,117 |
+| Resurgence | 3.00% | ~34,117 |
+| Preemptive Strike | 3.00% | ~34,117 |
+| Humanitarian | 3.00% | ~34,117 |
+| Escape Artist | 2.00% | ~22,745 |
+| Agonizing Escape | 2.00% | ~22,745 |
+| Backdoor Escape | 2.00% | ~22,745 |
+| I've got your back | 2.00% | ~22,745 |
+| Perfect Escape | 2.00% | ~22,745 |
+| Perfect Killing | 2.00% | ~22,745 |
+| Apt Killer | 2.00% | ~22,745 |
+| Risk it all | 2.00% | ~22,745 |
+| Vulture | 2.00% | ~22,745 |
+| II | 2.00% | ~22,745 |
+| III | 2.00% | ~22,745 |
+| Engineer | 2.00% | ~22,745 |
+| Wounded Healer | 2.00% | ~22,745 |
+| Close Shave | 2.00% | ~22,745 |
+| With Scars to Show | 2.00% | ~22,745 |
+| Lifting The Fog | 2.00% | ~22,745 |
+| Second Act | 2.00% | ~22,745 |
 | Blood on your hands | 1.00% | ~11,372 |
 | Made it out alive! | 1.00% | ~11,372 |
 | Nerves of steel | 1.00% | ~11,372 |
@@ -86,12 +86,12 @@ Number of Ratings: 70,340  (23.09.2022)
 | End of Days | 0.80% | ~9,098 |
 | Insult and Injury | 0.80% | ~9,098 |
 | Rebuilding The Borgo | 0.80% | ~9,098 |
-| Jump Scares | 0.70% | ~7,960 |
-| Game Over | 0.70% | ~7,960 |
-| Party Crasher | 0.70% | ~7,960 |
-| Broken Bodies | 0.70% | ~7,960 |
-| High Speed Pursuit | 0.70% | ~7,960 |
-| Complete the Evolution | 0.70% | ~7,960 |
+| Jump Scares | 0.70% | ~7,961 |
+| Game Over | 0.70% | ~7,961 |
+| Party Crasher | 0.70% | ~7,961 |
+| Broken Bodies | 0.70% | ~7,961 |
+| High Speed Pursuit | 0.70% | ~7,961 |
+| Complete the Evolution | 0.70% | ~7,961 |
 | Deep Cleansing | 0.60% | ~6,823 |
 | Texas BBQ | 0.60% | ~6,823 |
 | Outrage | 0.60% | ~6,823 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,137 |
 | Adept Good Guy | 0.10% | ~1,137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,137,193 (Ranked 13)  
+Progressed: 1,137,241 (Ranked 13)  
 Completed: 66 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -497,7 +497,7 @@ Completed: 66 (0.01%) (Ranked 367)
 | 2023-12-31 | 1,132,441 | 65 |
 | 2024-01-01 | 1,134,483 | 65 |
 | 2024-01-02 | 1,136,652 | 66 |
-| 2024-01-03 | 1,137,193 | 66 |
+| 2024-01-03 | 1,137,241 | 66 |
 ## Awards
 Max (Diverse Characters): 39,039  (Ranked 15)  
 Sum: 294,932 (Ranked 12)  

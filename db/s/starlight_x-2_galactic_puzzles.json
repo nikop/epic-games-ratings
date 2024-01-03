@@ -463,9 +463,9 @@
       "ID": "ach_fast_00",
       "SetID": "8jkn3bi",
       "Name": "Fast 6x6",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_fast_01",
@@ -703,9 +703,9 @@
       "ID": "ach_nohints_08",
       "SetID": "8jkn3bi",
       "Name": "By Yourself 13x13",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_playtime_00",
@@ -774,8 +774,8 @@
   ],
   "FirstSeen": "2023-11-18T16:58:15.9400848+00:00",
   "FirstSeenAchievements": "2023-04-25T20:54:03.7448556+00:00",
-  "LastChanged_Achievements": "2024-01-03T06:10:03.9643273+00:00",
+  "LastChanged_Achievements": "2024-01-03T07:09:59.667854+00:00",
   "LastUpdate_AppInfo": "2023-12-30T17:56:59.9780956+00:00",
-  "LastUpdate_Ratings": "2024-01-03T05:58:31.5063635+00:00",
-  "LastUpdate_Achievements": "2024-01-03T06:10:03.9643561+00:00"
+  "LastUpdate_Ratings": "2024-01-03T06:58:43.4647441+00:00",
+  "LastUpdate_Achievements": "2024-01-03T07:09:59.6678854+00:00"
 }

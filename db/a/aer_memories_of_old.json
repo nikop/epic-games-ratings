@@ -419,9 +419,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 27796,
+  "EOS_Progressed": 27801,
   "EOS_Completed": 506,
-  "EOS_NewPlayers": 609,
+  "EOS_NewPlayers": 614,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 1.82,
   "EosHistory": [
@@ -28184,6 +28184,11 @@
       "Time": "2024-01-03T06:03:59.9852192+00:00",
       "NumProgressed": 27796,
       "NumCompleted": 506
+    },
+    {
+      "Time": "2024-01-03T07:04:10.4620963+00:00",
+      "NumProgressed": 27801,
+      "NumCompleted": 506
     }
   ],
   "TotalAchievements": 20,
@@ -28195,7 +28200,7 @@
       "Name": "Cartographer",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 4447
+      "UsersEstimate": 4448
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -28211,7 +28216,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3891
+      "UsersEstimate": 3892
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -28259,7 +28264,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3891
+      "UsersEstimate": 3892
     },
     {
       "ID": "FOUND_ERIN",
@@ -28291,7 +28296,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3613
+      "UsersEstimate": 3614
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -28315,7 +28320,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 21125
+      "UsersEstimate": 21129
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -28323,7 +28328,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 7505
+      "UsersEstimate": 7506
     },
     {
       "ID": "NORTH_FINISHED",
@@ -28331,7 +28336,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3613
+      "UsersEstimate": 3614
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -28347,22 +28352,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 5003
+      "UsersEstimate": 5004
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 27796,
+      "Progressed": 27801,
       "Completed": 506
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2024-01-03T06:03:59.9852187+00:00",
+  "LastChanged_Achievements": "2024-01-03T07:04:10.4620956+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:39.3353951+00:00",
-  "LastUpdate_Ratings": "2024-01-03T05:57:05.2452315+00:00",
-  "LastUpdate_Achievements": "2024-01-03T06:03:59.9853342+00:00"
+  "LastUpdate_Ratings": "2024-01-03T06:57:17.9399561+00:00",
+  "LastUpdate_Achievements": "2024-01-03T07:04:10.4622305+00:00"
 }
