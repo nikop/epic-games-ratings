@@ -87,9 +87,9 @@
 | 85 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.31% |
 | 86 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.26% |
 | 87 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 4.24% |
-| 88 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 4.23% |
 | 88 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.23% |
-| 90 | [The Bunker](games/t/the_bunker.md) | 4.17% |
+| 89 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 4.17% |
+| 89 | [The Bunker](games/t/the_bunker.md) | 4.17% |
 | 91 | [Nova Strike](games/b/b1555bed500048b79f6fad321d5a7202.md) | 4.00% |
 | 92 | [Dungeons 4](games/d/dungeons_4.md) | 3.85% |
 | 93 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.80% |
@@ -818,4 +818,4 @@
 | 390 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 390 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 390 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,799 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |
+| 3,800 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |
