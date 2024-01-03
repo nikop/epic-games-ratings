@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1126,
+  "EOS_Progressed": 1125,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": -11,
+  "EOS_NewPlayers": -12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2316,6 +2316,11 @@
       "Time": "2024-01-02T23:07:48.1818624+00:00",
       "NumProgressed": 1126,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-03T01:52:01.8499874+00:00",
+      "NumProgressed": 1125,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -2351,7 +2356,7 @@
       "Name": "The Unvanquished",
       "Percentage": 2,
       "XP": 150,
-      "UsersEstimate": 23
+      "UsersEstimate": 22
     },
     {
       "ID": "05",
@@ -2359,7 +2364,7 @@
       "Name": "The First Step",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 811
+      "UsersEstimate": 810
     },
     {
       "ID": "06",
@@ -2367,7 +2372,7 @@
       "Name": "First Blood",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 777
+      "UsersEstimate": 776
     },
     {
       "ID": "07",
@@ -2375,7 +2380,7 @@
       "Name": "Monster Hunter",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 631
+      "UsersEstimate": 630
     },
     {
       "ID": "08",
@@ -2423,7 +2428,7 @@
       "Name": "Let Us Cling Together",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 22
     },
     {
       "ID": "14",
@@ -2447,7 +2452,7 @@
       "Name": "A Promised Voyage",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 22
     },
     {
       "ID": "17",
@@ -2455,7 +2460,7 @@
       "Name": "Ready to Learn",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 743
+      "UsersEstimate": 742
     },
     {
       "ID": "18",
@@ -2463,7 +2468,7 @@
       "Name": "Earning Trust",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 597
+      "UsersEstimate": 596
     },
     {
       "ID": "19",
@@ -2510,7 +2515,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1126,
+      "Progressed": 1125,
       "Completed": 1
     }
   ],
@@ -2518,8 +2523,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-12-04T18:59:06.5793648+00:00",
-  "LastChanged_Achievements": "2024-01-03T00:08:25.0405632+00:00",
+  "LastChanged_Achievements": "2024-01-03T01:52:01.849987+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:47.6931487+00:00",
-  "LastUpdate_Ratings": "2024-01-03T00:03:24.6332877+00:00",
-  "LastUpdate_Achievements": "2024-01-03T00:08:25.0405841+00:00"
+  "LastUpdate_Ratings": "2024-01-03T01:48:45.0347962+00:00",
+  "LastUpdate_Achievements": "2024-01-03T01:52:01.8500108+00:00"
 }

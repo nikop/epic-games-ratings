@@ -5,17 +5,17 @@ Rating: 4.21 (Ranked 946)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 22.00% | ~4,554 |
-| The Outer Way | 22.00% | ~4,554 |
-| Desperate Times | 21.00% | ~4,347 |
-| Get a Grip | 19.00% | ~3,933 |
-| Paper Jams | 19.00% | ~3,933 |
-| Chew 'Em Up | 17.00% | ~3,519 |
-| Reforged | 16.00% | ~3,312 |
-| Float Like A Butterfly | 15.00% | ~3,105 |
-| If the SHU Fits... | 14.00% | ~2,898 |
-| Workplace Hazard | 13.00% | ~2,691 |
-| Without A Paddle | 12.00% | ~2,484 |
+| Flesh Wound | 22.00% | ~4,555 |
+| The Outer Way | 22.00% | ~4,555 |
+| Desperate Times | 21.00% | ~4,348 |
+| Get a Grip | 19.00% | ~3,934 |
+| Paper Jams | 19.00% | ~3,934 |
+| Chew 'Em Up | 17.00% | ~3,520 |
+| Reforged | 16.00% | ~3,313 |
+| Float Like A Butterfly | 15.00% | ~3,106 |
+| If the SHU Fits... | 14.00% | ~2,899 |
+| Workplace Hazard | 13.00% | ~2,692 |
+| Without A Paddle | 12.00% | ~2,485 |
 | Two Heads Are Better Than One | 10.00% | ~2,070 |
 | In the Pipe, Five by Five | 10.00% | ~2,070 |
 | Crash Site | 10.00% | ~2,070 |
@@ -27,7 +27,7 @@ Rating: 4.21 (Ranked 946)
 | Full Circle | 8.00% | ~1,656 |
 | I Do Belong Here | 7.00% | ~1,449 |
 | Keep Fighting | 7.00% | ~604 |
-| It's Time | 5.00% | ~431 |
+| It's Time | 5.00% | ~432 |
 | In Striking Distance | 4.00% | ~828 |
 | The Commonality | 4.00% | ~828 |
 | One Last Job | 3.00% | ~259 |
@@ -40,7 +40,7 @@ Rating: 4.21 (Ranked 946)
 | Parole Denied | 0.80% | ~69 |
 | Information Overload | 0.80% | ~69 |
 | Quick Pick | 0.70% | ~60 |
-| Subject Alpha | 0.50% | ~43 |
+| Subject Alpha | 0.60% | ~52 |
 | The Protocol is About Life | 0.30% | ~62 |
 | Hoard Mode | 0.30% | ~26 |
 | Don't Let It Mellow | 0.30% | ~26 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 946)
 | Big Game Hunter | 0.10% | ~9 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,699 (Ranked 150)  
+Progressed: 20,705 (Ranked 150)  
 Completed: 82 (0.40%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,14 +303,14 @@ Completed: 82 (0.40%) (Ranked 232)
 | 2023-12-31 | 20,337 | 82 |
 | 2024-01-01 | 20,521 | 82 |
 | 2024-01-02 | 20,695 | 82 |
-| 2024-01-03 | 20,699 | 82 |
+| 2024-01-03 | 20,705 | 82 |
 ## Awards
-Max (Amazing Characters): 109  (Ranked 363)  
-Sum: 554 (Ranked 327)  
-Diff (max vs sum): 36  
+Max (Amazing Characters): 111  (Ranked 361)  
+Sum: 556 (Ranked 326)  
+Diff (max vs sum): 35  
 | Award | Count |
 | ----- | ----- |
-| This game has Amazing Characters | 109 |
+| This game has Amazing Characters | 111 |
 | This game is Highly Recommended | 104 |
 | This game has Amazing Storytelling | 101 |
 | This game has Quickly Understood Controls | 100 |
@@ -510,3 +510,4 @@ Diff (max vs sum): 36
 | 2023-12-31 | 4.21 | 107 | 541 |
 | 2024-01-01 | 4.21 | 109 | 551 |
 | 2024-01-02 | 4.21 | 109 | 554 |
+| 2024-01-03 | 4.21 | 111 | 556 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -400,7 +400,7 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5210,
+  "EOS_Progressed": 5211,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
@@ -4600,6 +4600,11 @@
       "Time": "2024-01-02T22:04:21.1176774+00:00",
       "NumProgressed": 5210,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-03T01:49:59.3705466+00:00",
+      "NumProgressed": 5211,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -4659,7 +4664,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4376
+      "UsersEstimate": 4377
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -4667,7 +4672,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4897
+      "UsersEstimate": 4898
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -4731,7 +4736,7 @@
       "Name": "It Lives! It Sniffs! It Conquers!",
       "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ID_ACHIEV_17",
@@ -4787,7 +4792,7 @@
       "Name": "Man of Steel",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ID_ACHIEV_24",
@@ -4859,7 +4864,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 2813
+      "UsersEstimate": 2814
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -4867,7 +4872,7 @@
       "Name": "Jack of All Trades",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ID_ACHIEV_35",
@@ -4883,7 +4888,7 @@
       "Name": "Infidel",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1198
+      "UsersEstimate": 1199
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -4891,7 +4896,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1719
+      "UsersEstimate": 1720
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -4955,7 +4960,7 @@
       "Name": "OPERATOR",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1823
+      "UsersEstimate": 1824
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -5051,7 +5056,7 @@
       "Name": "3-2-1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ID_ACHIEV_58",
@@ -5146,15 +5151,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5210,
+      "Progressed": 5211,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-31T19:58:10.5906343+00:00",
-  "LastChanged_Achievements": "2024-01-03T00:05:10.4705171+00:00",
+  "LastChanged_Achievements": "2024-01-03T01:49:59.3705464+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:44.5404504+00:00",
-  "LastUpdate_Ratings": "2024-01-02T23:59:35.9891896+00:00",
-  "LastUpdate_Achievements": "2024-01-03T00:05:10.4705769+00:00"
+  "LastUpdate_Ratings": "2024-01-03T01:44:50.267349+00:00",
+  "LastUpdate_Achievements": "2024-01-03T01:49:59.3706106+00:00"
 }

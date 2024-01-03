@@ -13,7 +13,7 @@ Number of Ratings: 371  (23.09.2022)
 | An Ill Omen | 13.00% | ~484 |
 | Purging Spree | 9.00% | ~335 |
 | Blood for the Blood God! | 8.00% | ~298 |
-| Bloodless | 7.00% | ~260 |
+| Bloodless | 7.00% | ~261 |
 | Friendly Fire | 6.00% | ~223 |
 | Surgical Excision | 5.00% | ~186 |
 | A Foul Creche | 5.00% | ~186 |
@@ -38,10 +38,10 @@ Number of Ratings: 371  (23.09.2022)
 | Long Distance Call | 1.00% | ~37 |
 | Tactical Flexibility | 1.00% | ~37 |
 | Tactical Sabotage | 1.00% | ~37 |
-| Patron of Deimos | 0.90% | ~33 |
-| For the Machine God | 0.90% | ~33 |
-| Engine Kill | 0.90% | ~33 |
-| Death Comes For All | 0.90% | ~33 |
+| Patron of Deimos | 0.90% | ~34 |
+| For the Machine God | 0.90% | ~34 |
+| Engine Kill | 0.90% | ~34 |
+| Death Comes For All | 0.90% | ~34 |
 | Harvest No More | 0.80% | ~30 |
 | Hands-On Research | 0.70% | ~26 |
 | Strike Force | 0.60% | ~22 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.10% | ~4 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,721 (Ranked 216)  
+Progressed: 3,723 (Ranked 216)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-31 | 3,685 | 0 |
 | 2024-01-01 | 3,707 | 0 |
 | 2024-01-02 | 3,720 | 0 |
-| 2024-01-03 | 3,721 | 0 |
+| 2024-01-03 | 3,723 | 0 |
 ## Awards
 Max (Character Customization): 232  (Ranked 282)  
 Sum: 494 (Ranked 334)  

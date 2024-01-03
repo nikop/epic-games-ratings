@@ -1,22 +1,22 @@
 # while True: learn()
 [Store](https://store.epicgames.com/en-US/p/while-true-learn)  
 [View Rawdata](../../db/w/while_true__learn().json)  
-Rating: 4.51 (Ranked 590)  
+Rating: 4.51 (Ranked 591)  
 Number of Ratings: 896  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~573,715 |
-| Error: Stack Overflow | 66.00% | ~407,153 |
-| We need more gold | 61.00% | ~376,308 |
-| The dawn of civilization | 53.00% | ~326,956 |
-| More FPS for the FPS god! | 50.00% | ~308,449 |
-| Beauty and harmony | 48.00% | ~296,111 |
-| One more! | 44.00% | ~271,435 |
-| Overmind | 24.00% | ~148,056 |
-| RNG is my best friend now | 18.00% | ~111,042 |
-| Cosplay | 14.00% | ~86,366 |
-| Evolution in progress... | 13.00% | ~80,197 |
+| First.. Bit? | 93.00% | ~573,722 |
+| Error: Stack Overflow | 66.00% | ~407,157 |
+| We need more gold | 61.00% | ~376,312 |
+| The dawn of civilization | 53.00% | ~326,960 |
+| More FPS for the FPS god! | 50.00% | ~308,452 |
+| Beauty and harmony | 48.00% | ~296,114 |
+| One more! | 44.00% | ~271,438 |
+| Overmind | 24.00% | ~148,057 |
+| RNG is my best friend now | 18.00% | ~111,043 |
+| Cosplay | 14.00% | ~86,367 |
+| Evolution in progress... | 13.00% | ~80,198 |
 | Step by step | 8.00% | ~49,352 |
 | README reader | 4.00% | ~24,676 |
 | Data scientist | 3.00% | ~18,507 |
@@ -29,13 +29,13 @@ Number of Ratings: 896  (23.09.2022)
 | The hoarder | 1.00% | ~6,169 |
 | Ping | 1.00% | ~6,169 |
 | Magna cum laude | 1.00% | ~6,169 |
-| Deal with it! | 0.50% | ~3,084 |
+| Deal with it! | 0.50% | ~3,085 |
 | Gold rush | 0.40% | ~2,468 |
 | Cat-o-holic | 0.40% | ~2,468 |
 | Elements will destroy you! | 0.40% | ~2,468 |
 | The Scrooge | 0.10% | ~617 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 616,898 (Ranked 33)  
+Progressed: 616,905 (Ranked 33)  
 Completed: 564 (0.09%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 564 (0.09%) (Ranked 311)
 | 2023-12-31 | 616,556 | 564 |
 | 2024-01-01 | 616,725 | 564 |
 | 2024-01-02 | 616,887 | 564 |
-| 2024-01-03 | 616,898 | 564 |
+| 2024-01-03 | 616,905 | 564 |
 ## Awards
 Max (Challenging Puzzles): 140  (Ranked 332)  
 Sum: 140 (Ranked 440)  

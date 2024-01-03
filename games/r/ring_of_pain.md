@@ -6,10 +6,11 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 1.00% | ~2,422 |
-| Getting A Glimpse | 1.00% | ~2,422 |
-| A Quick Escape | 1.00% | ~2,422 |
-| Uncharted Territory | 1.00% | ~2,422 |
+| First Steps | 1.00% | ~2,423 |
+| Getting A Glimpse | 1.00% | ~2,423 |
+| A Quick Escape | 1.00% | ~2,423 |
+| Uncharted Territory | 1.00% | ~2,423 |
+| An Offering | 1.00% | ~2,423 |
 | Matching | 1.00% | ~37 |
 | Heavy Hitter | 0.90% | ~2,180 |
 | That Was Quick | 0.90% | ~2,180 |
@@ -18,7 +19,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Goodbye, Frog Friend | 0.90% | ~2,180 |
 | A Donation | 0.90% | ~2,180 |
 | Explorer | 0.90% | ~2,180 |
-| An Offering | 0.90% | ~2,180 |
 | Not Touching You | 0.90% | ~34 |
 | Nothing To Lose | 0.80% | ~1,938 |
 | Delving Deeper | 0.80% | ~1,938 |
@@ -38,13 +38,13 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shootout | 0.70% | ~1,696 |
 | Stone Touch | 0.70% | ~1,696 |
 | Toxic | 0.70% | ~1,696 |
+| Shadow Walker | 0.70% | ~1,696 |
 | Flesh Wound | 0.70% | ~1,696 |
-| Consecutive Curses | 0.60% | ~1,453 |
-| Who To Trust? | 0.60% | ~1,453 |
-| Destroy Your Fears | 0.60% | ~1,453 |
-| New Perspectives | 0.60% | ~1,453 |
-| Shadow Walker | 0.60% | ~1,453 |
-| Shapeshifting | 0.60% | ~1,453 |
+| Consecutive Curses | 0.60% | ~1,454 |
+| Who To Trust? | 0.60% | ~1,454 |
+| Destroy Your Fears | 0.60% | ~1,454 |
+| New Perspectives | 0.60% | ~1,454 |
+| Shapeshifting | 0.60% | ~1,454 |
 | Expensive Look | 0.60% | ~22 |
 | What Doesn't Kill You | 0.60% | ~22 |
 | To The Death! | 0.50% | ~1,211 |
@@ -82,21 +82,21 @@ Number of Ratings: 15,086  (23.09.2022)
 | Sentimental Value | 0.30% | ~727 |
 | Precious | 0.30% | ~727 |
 | Raw Power | 0.30% | ~11 |
-| A Long Climb | 0.20% | ~484 |
-| Dead Revels | 0.20% | ~484 |
-| Friend of Vermin | 0.20% | ~484 |
-| Explosive Betrayal | 0.20% | ~484 |
-| Grave Digger | 0.20% | ~484 |
-| Soul Stash | 0.20% | ~484 |
-| Willing the World | 0.20% | ~484 |
-| Gigantic | 0.20% | ~484 |
-| Predator | 0.20% | ~484 |
-| Resourceful | 0.20% | ~484 |
-| Become The Nightmare | 0.20% | ~484 |
-| Trail Of Death | 0.20% | ~484 |
-| Path To Enlightenment | 0.20% | ~484 |
-| No Mercy | 0.20% | ~484 |
-| Just Looking Around | 0.20% | ~484 |
+| A Long Climb | 0.20% | ~485 |
+| Dead Revels | 0.20% | ~485 |
+| Friend of Vermin | 0.20% | ~485 |
+| Explosive Betrayal | 0.20% | ~485 |
+| Grave Digger | 0.20% | ~485 |
+| Soul Stash | 0.20% | ~485 |
+| Willing the World | 0.20% | ~485 |
+| Gigantic | 0.20% | ~485 |
+| Predator | 0.20% | ~485 |
+| Resourceful | 0.20% | ~485 |
+| Become The Nightmare | 0.20% | ~485 |
+| Trail Of Death | 0.20% | ~485 |
+| Path To Enlightenment | 0.20% | ~485 |
+| No Mercy | 0.20% | ~485 |
+| Just Looking Around | 0.20% | ~485 |
 | Diviner | 0.20% | ~7 |
 | Nuclear | 0.20% | ~7 |
 | Quick Descent | 0.10% | ~242 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,248 (Ranked 72)  
+Progressed: 242,251 (Ranked 72)  
 Completed: 303 (0.13%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -403,7 +403,7 @@ Completed: 303 (0.13%) (Ranked 295)
 | 2023-12-31 | 242,129 | 302 |
 | 2024-01-01 | 242,196 | 302 |
 | 2024-01-02 | 242,247 | 303 |
-| 2024-01-03 | 242,248 | 303 |
+| 2024-01-03 | 242,251 | 303 |
 ## Awards
 Max (Quickly Understood Controls): 1,513  (Ranked 136)  
 Sum: 11,781 (Ranked 88)  

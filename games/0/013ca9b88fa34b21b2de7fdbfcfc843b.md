@@ -30,9 +30,9 @@ Rating: 4.62 (Ranked 375)
 | Got to Catch Them All | 0.50% | ~44 |
 | Rumble in the Jumble | 0.50% | ~44 |
 | Fanatical Farmer | 0.50% | ~44 |
+| Azorian Hat Dance | 0.50% | ~7 |
 | Scattered Scroll Scrounger | 0.40% | ~35 |
 | Right Tool For the Job | 0.40% | ~35 |
-| Azorian Hat Dance | 0.40% | ~6 |
 | I Now Pronounce You... | 0.30% | ~26 |
 | Chatty Neighbor | 0.30% | ~26 |
 | Captain of Cozy | 0.30% | ~26 |

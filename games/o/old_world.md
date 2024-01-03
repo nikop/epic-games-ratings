@@ -19,11 +19,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 0.80% | ~129 |
 | Strong | 0.80% | ~129 |
 | Hanging Gardens | 0.80% | ~129 |
+| Oracle | 0.80% | ~129 |
 | Just | 0.70% | ~113 |
 | Keystone | 0.70% | ~113 |
 | Pioneer | 0.70% | ~113 |
 | Developing Cities | 0.70% | ~113 |
-| Oracle | 0.70% | ~113 |
 | Judaism | 0.70% | ~113 |
 | Greek Paganism | 0.70% | ~113 |
 | Trade Caravan | 0.70% | ~113 |

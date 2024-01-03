@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewPlayers": 293,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 649,
+  "EOS_Progressed": 650,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1744,6 +1744,11 @@
       "Time": "2024-01-02T16:09:58.0172501+00:00",
       "NumProgressed": 649,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-03T01:55:59.1093445+00:00",
+      "NumProgressed": 650,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1755,7 +1760,7 @@
       "Name": "Arrive Home",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ArtCollector",
@@ -1795,7 +1800,7 @@
       "Name": "Bug Hunter",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "Cryomancer",
@@ -1827,15 +1832,15 @@
       "Name": "Gladiator",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "GoblinTales",
       "SetID": "82505mn",
       "Name": "Goblin Tales",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 188
+      "UsersEstimate": 182
     },
     {
       "ID": "Hardboiled",
@@ -1851,7 +1856,7 @@
       "Name": "Holy Knight",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Horder",
@@ -1891,7 +1896,7 @@
       "Name": "Lumberjack",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "Marksman",
@@ -1931,7 +1936,7 @@
       "Name": "Oops",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "OrcMustDie",
@@ -1955,7 +1960,7 @@
       "Name": "Reincarnation",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "Roughneck",
@@ -1979,7 +1984,7 @@
       "Name": "Shield Crusher",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "SlingOfDavid",
@@ -1995,7 +2000,7 @@
       "Name": "Spell Master",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "SwordMaster",
@@ -2074,7 +2079,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 649,
+      "Progressed": 650,
       "Completed": 1
     }
   ],
@@ -2082,8 +2087,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2024-01-03T00:11:26.7358915+00:00",
+  "LastChanged_Achievements": "2024-01-03T01:55:59.1093443+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:03.2604081+00:00",
-  "LastUpdate_Ratings": "2024-01-02T23:57:50.29968+00:00",
-  "LastUpdate_Achievements": "2024-01-03T00:11:26.7359302+00:00"
+  "LastUpdate_Ratings": "2024-01-03T01:43:36.1090648+00:00",
+  "LastUpdate_Achievements": "2024-01-03T01:55:59.1093855+00:00"
 }

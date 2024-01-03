@@ -1,7 +1,7 @@
 # Call of the Wild: The Angler™
 [Store](https://store.epicgames.com/en-US/p/call-of-the-wild-the-angler)  
 [View Rawdata](../../db/c/call_of_the_wild__the_angler™.json)  
-Rating: 4.20 (Ranked 957)  
+Rating: 4.20 (Ranked 956)  
 Number of Ratings: 281  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -15,10 +15,10 @@ Number of Ratings: 281  (23.09.2022)
 | Ready to Rod and Roll | 9.00% | ~710 |
 | Fish Out of Water | 6.00% | ~473 |
 | Things that go Splash in the Night | 6.00% | ~473 |
-| Goldfish? | 5.00% | ~394 |
+| Goldfish? | 5.00% | ~395 |
 | Going for Gold | 4.00% | ~316 |
+| School's Out for Summer | 4.00% | ~316 |
 | License to Gill | 3.00% | ~237 |
-| School's Out for Summer | 3.00% | ~237 |
 | I'm Hooked! | 2.00% | ~158 |
 | Marathon | 1.00% | ~79 |
 | Diamond in the Rough | 1.00% | ~79 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,890 (Ranked 189)  
+Progressed: 7,891 (Ranked 189)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,6 +305,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-31 | 7,816 | 0 |
 | 2024-01-01 | 7,846 | 0 |
 | 2024-01-02 | 7,890 | 0 |
+| 2024-01-03 | 7,891 | 0 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 474)  
 Sum: 212 (Ranked 408)  

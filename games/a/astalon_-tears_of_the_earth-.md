@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Horn prize! | 50.00% | ~41 |
+| Horn prize! | 51.00% | ~42 |
 | Beast Quest | 38.00% | ~31 |
 | Orb Gatherer | 37.00% | ~30 |
 | Monster Hunt | 37.00% | ~30 |
@@ -36,7 +36,7 @@
 | True Titan | 4.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 82 (Ranked 505)  
-Completed: 3 (3.66%) (Ranked 96)  
+Completed: 3 (3.66%) (Ranked 97)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

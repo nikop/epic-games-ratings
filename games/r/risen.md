@@ -7,19 +7,19 @@ Rating: 4.55 (Ranked 522)
 | ---- | ---------- | ----- |
 | Beginner | 92.00% | ~144 |
 | Map reader | 64.00% | ~100 |
-| Adventurer | 63.00% | ~98 |
-| Philanthropist | 60.00% | ~94 |
+| Adventurer | 62.00% | ~97 |
+| Philanthropist | 59.00% | ~93 |
 | Archer | 42.00% | ~66 |
-| The brave little tailor | 40.00% | ~62 |
+| The brave little tailor | 40.00% | ~63 |
 | Field hand | 39.00% | ~61 |
-| Samaritan | 33.00% | ~51 |
-| Well-to-do | 33.00% | ~51 |
+| Samaritan | 32.00% | ~50 |
+| Well-to-do | 32.00% | ~50 |
 | The merciful one | 30.00% | ~47 |
 | Ladies' man | 30.00% | ~47 |
-| Ferocious wild boars | 24.00% | ~37 |
-| Idiot | 24.00% | ~37 |
-| Beast slayer | 21.00% | ~33 |
-| Death of a legend | 19.00% | ~30 |
+| Ferocious wild boars | 24.00% | ~38 |
+| Idiot | 24.00% | ~38 |
+| Beast slayer | 20.00% | ~31 |
+| Death of a legend | 18.00% | ~28 |
 | Ogre friend | 18.00% | ~28 |
 | Family man | 17.00% | ~27 |
 | Archaeologist | 17.00% | ~27 |
@@ -28,7 +28,7 @@ Rating: 4.55 (Ranked 522)
 | Fence | 17.00% | ~27 |
 | Sidelined | 17.00% | ~27 |
 | Wise man | 16.00% | ~25 |
-| Hard worker | 15.00% | ~23 |
+| Hard worker | 15.00% | ~24 |
 | Master detective | 14.00% | ~22 |
 | Pandora's box | 13.00% | ~20 |
 | Ghost hunter | 13.00% | ~20 |
@@ -39,7 +39,7 @@ Rating: 4.55 (Ranked 522)
 | Master thief | 10.00% | ~16 |
 | Freedom fighter | 9.00% | ~14 |
 | Showdown | 9.00% | ~14 |
-| King of the handymen | 8.00% | ~12 |
+| King of the handymen | 8.00% | ~13 |
 | Titan Lord | 7.00% | ~11 |
 | Terror of the hens | 6.00% | ~9 |
 | Expert | 6.00% | ~9 |
@@ -56,7 +56,7 @@ Rating: 4.55 (Ranked 522)
 | Master of the classes | 0.60% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 156 (Ranked 445)  
+Progressed: 157 (Ranked 444)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,6 +122,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-31 | 148 | 0 |
 | 2024-01-01 | 152 | 0 |
 | 2024-01-02 | 156 | 0 |
+| 2024-01-03 | 157 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

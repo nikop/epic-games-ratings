@@ -2,12 +2,12 @@
   "ID": "a3100205e194489088c7625c8c5c1596",
   "Name": "The Forest Quartet",
   "ProductSlug": "forest-quartet-5d03e3",
-  "Ranking_Rating": 972,
+  "Ranking_Rating": 971,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-09-21T15:00:00+00:00",
@@ -12549,6 +12549,6 @@
   "LastChanged": "2023-12-31T15:00:36.380565+00:00",
   "LastChanged_Achievements": "2024-01-03T00:08:56.7054214+00:00",
   "LastUpdate_AppInfo": "2023-12-28T22:56:57.700255+00:00",
-  "LastUpdate_Ratings": "2024-01-02T23:57:20.6610594+00:00",
+  "LastUpdate_Ratings": "2024-01-03T01:43:17.8142988+00:00",
   "LastUpdate_Achievements": "2024-01-03T00:08:56.7055092+00:00"
 }

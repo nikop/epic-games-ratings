@@ -2,12 +2,12 @@
   "ID": "43acebbd46cd4aac956ad049c10c603a",
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
-  "Ranking_Rating": 23,
+  "Ranking_Rating": 17,
   "Ranking_Popularity": 388,
   "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.87,
+  "Rating": 4.88,
   "RatingHistory": [
     {
       "Time": "2023-11-08T20:00:37.8164591+00:00",
@@ -251,6 +251,12 @@
       "Rating": 4.87,
       "NumberOfAwards": 92,
       "NumberOfAwardsMax": 92
+    },
+    {
+      "Time": "2024-01-03T01:45:19.9316927+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 92,
+      "NumberOfAwardsMax": 92
     }
   ],
   "ReviewsDisabled": false,
@@ -267,7 +273,7 @@
   ],
   "EOS_Progressed": 1244,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3630,9 +3636,9 @@
       "ID": "HighPlain",
       "SetID": "1n308hc",
       "Name": "High Plain",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 100
     },
     {
       "ID": "IntoTheMachine",
@@ -3710,9 +3716,9 @@
       "ID": "NewMorality",
       "SetID": "1n308hc",
       "Name": "A New Morality",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "NotWhatItSeems",
@@ -3950,9 +3956,9 @@
   "FirstSeen": "2023-11-03T01:41:58.8670455+00:00",
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
-  "LastChanged": "2024-01-01T16:59:26.0585046+00:00",
-  "LastChanged_Achievements": "2024-01-03T00:04:40.6034153+00:00",
+  "LastChanged": "2024-01-03T01:45:19.9316925+00:00",
+  "LastChanged_Achievements": "2024-01-03T01:49:38.4228581+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.9244138+00:00",
-  "LastUpdate_Ratings": "2024-01-03T00:00:22.7064631+00:00",
-  "LastUpdate_Achievements": "2024-01-03T00:04:40.6034653+00:00"
+  "LastUpdate_Ratings": "2024-01-03T01:45:19.9316929+00:00",
+  "LastUpdate_Achievements": "2024-01-03T01:49:38.4229249+00:00"
 }

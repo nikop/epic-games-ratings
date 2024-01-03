@@ -1,17 +1,17 @@
 # The Mageseeker: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/the-mageseeker-a-league-of-legends-story)  
 [View Rawdata](../../db/t/the_mageseeker__a_league_of_legends_story™.json)  
-Rating: 4.81 (Ranked 83)  
+Rating: 4.81 (Ranked 82)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~3,073 |
+| For Demacia | 95.00% | ~3,074 |
 | No more cages! | 90.00% | ~2,912 |
-| Everfrost | 77.00% | ~2,491 |
+| Everfrost | 77.00% | ~2,492 |
 | Pentakill | 76.00% | ~2,459 |
 | Dark Forest | 76.00% | ~2,459 |
 | The use of petricite | 73.00% | ~2,362 |
-| You can pet the dog | 60.00% | ~1,941 |
+| You can pet the dog | 60.00% | ~1,942 |
 | Thornbarrow | 43.00% | ~1,391 |
 | Big Helmet Bro | 40.00% | ~1,294 |
 | Clarion Cove | 40.00% | ~1,294 |
@@ -20,14 +20,14 @@ Rating: 4.81 (Ranked 83)
 | Past trauma | 37.00% | ~1,197 |
 | Cypress Glen Headquarters | 34.00% | ~1,100 |
 | Petricite Burst | 33.00% | ~1,068 |
-| Old friend | 32.00% | ~1,035 |
-| Devineur | 32.00% | ~1,035 |
+| Old friend | 32.00% | ~1,036 |
+| Devineur | 32.00% | ~1,036 |
 | Hijack | 31.00% | ~1,003 |
 | Whispers in the Woods I | 28.00% | ~906 |
-| I chose my shackles | 27.00% | ~873 |
-| Ancient power | 27.00% | ~873 |
+| Ancient power | 28.00% | ~906 |
+| I chose my shackles | 27.00% | ~874 |
 | Sacred Woods | 26.00% | ~841 |
-| Little light | 24.00% | ~776 |
+| Little light | 24.00% | ~777 |
 | Glyndemere | 23.00% | ~744 |
 | Capelworth | 23.00% | ~744 |
 | Full equipped | 23.00% | ~744 |
@@ -59,7 +59,7 @@ Rating: 4.81 (Ranked 83)
 | Silverwing nest | 2.00% | ~65 |
 | The Unshackled | 1.00% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,235 (Ranked 223)  
+Progressed: 3,236 (Ranked 223)  
 Completed: 20 (0.62%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,6 +264,7 @@ Completed: 20 (0.62%) (Ranked 203)
 | 2023-12-31 | 3,186 | 18 |
 | 2024-01-01 | 3,217 | 19 |
 | 2024-01-02 | 3,235 | 20 |
+| 2024-01-03 | 3,236 | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

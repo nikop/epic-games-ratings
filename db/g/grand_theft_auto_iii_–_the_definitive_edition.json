@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -679,9 +679,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11403,
+  "EOS_Progressed": 11406,
   "EOS_Completed": 72,
-  "EOS_NewPlayers": 671,
+  "EOS_NewPlayers": 666,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -14519,6 +14519,11 @@
       "Time": "2024-01-03T00:07:50.4331093+00:00",
       "NumProgressed": 11403,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2024-01-03T01:51:51.6843179+00:00",
+      "NumProgressed": 11406,
+      "NumCompleted": 72
     }
   ],
   "TotalAchievements": 29,
@@ -14530,7 +14535,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 9464
+      "UsersEstimate": 9467
     },
     {
       "ID": "ACH02",
@@ -14538,7 +14543,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 3877
+      "UsersEstimate": 3878
     },
     {
       "ID": "ACH03",
@@ -14554,7 +14559,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 4333
+      "UsersEstimate": 4334
     },
     {
       "ID": "ACH05",
@@ -14594,7 +14599,7 @@
       "Name": "By a Mile",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "ACH10",
@@ -14602,7 +14607,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 3193
+      "UsersEstimate": 3194
     },
     {
       "ID": "ACH11",
@@ -14650,7 +14655,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2851
+      "UsersEstimate": 2852
     },
     {
       "ID": "ACH17",
@@ -14658,7 +14663,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1596
+      "UsersEstimate": 1597
     },
     {
       "ID": "ACH18",
@@ -14666,7 +14671,7 @@
       "Name": "Not So Fast",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "ACH19",
@@ -14714,7 +14719,7 @@
       "Name": "Dirty Money",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1368
+      "UsersEstimate": 1369
     },
     {
       "ID": "ACH25",
@@ -14722,7 +14727,7 @@
       "Name": "Right-hand Man",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "ACH26",
@@ -14761,7 +14766,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 11403,
+      "Progressed": 11406,
       "Completed": 72
     }
   ],
@@ -14769,8 +14774,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-02T18:57:54.9669165+00:00",
-  "LastChanged_Achievements": "2024-01-03T00:07:50.4331088+00:00",
+  "LastChanged_Achievements": "2024-01-03T01:51:51.6843176+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:06.0840087+00:00",
-  "LastUpdate_Ratings": "2024-01-02T23:57:59.4573864+00:00",
-  "LastUpdate_Achievements": "2024-01-03T00:07:50.4331948+00:00"
+  "LastUpdate_Ratings": "2024-01-03T01:43:42.077482+00:00",
+  "LastUpdate_Achievements": "2024-01-03T01:51:51.6844036+00:00"
 }

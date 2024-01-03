@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4430,
+  "EOS_Progressed": 4431,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -7541,6 +7541,11 @@
       "Time": "2024-01-03T00:08:27.0226164+00:00",
       "NumProgressed": 4430,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-03T01:52:03.2073159+00:00",
+      "NumProgressed": 4431,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -7552,7 +7557,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "AceDetective_9",
@@ -7592,7 +7597,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1816
+      "UsersEstimate": 1817
     },
     {
       "ID": "CrowdPleaser",
@@ -7608,7 +7613,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "Eureka_23",
@@ -7624,7 +7629,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "ForAllAurai_8",
@@ -7776,7 +7781,7 @@
       "Name": "Tapped!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1550
+      "UsersEstimate": 1551
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -7816,7 +7821,7 @@
       "Name": "The Power of Family",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -7872,7 +7877,7 @@
       "Name": "Venture Outward",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3234
+      "UsersEstimate": 3235
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -7887,15 +7892,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4430,
+      "Progressed": 4431,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2024-01-03T00:08:27.0226161+00:00",
+  "LastChanged_Achievements": "2024-01-03T01:52:03.2073155+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:23.571083+00:00",
-  "LastUpdate_Ratings": "2024-01-03T00:03:37.0364803+00:00",
-  "LastUpdate_Achievements": "2024-01-03T00:08:27.0226674+00:00"
+  "LastUpdate_Ratings": "2024-01-03T01:48:54.0553428+00:00",
+  "LastUpdate_Achievements": "2024-01-03T01:52:03.2073706+00:00"
 }

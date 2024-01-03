@@ -1429,9 +1429,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 260132,
+  "EOS_Progressed": 260136,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 311,
+  "EOS_NewPlayers": 314,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26074,6 +26074,11 @@
       "Time": "2024-01-02T23:06:58.6744152+00:00",
       "NumProgressed": 260132,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-03T01:51:26.660253+00:00",
+      "NumProgressed": 260136,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -26085,7 +26090,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 18209
+      "UsersEstimate": 18210
     },
     {
       "ID": "Act2",
@@ -26133,7 +26138,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80641
+      "UsersEstimate": 80642
     },
     {
       "ID": "BackHomeNTimes",
@@ -26189,7 +26194,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 26013
+      "UsersEstimate": 26014
     },
     {
       "ID": "CreditLevel2",
@@ -26373,7 +26378,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59830
+      "UsersEstimate": 59831
     },
     {
       "ID": "KillOthers2",
@@ -26477,7 +26482,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 26013
+      "UsersEstimate": 26014
     },
     {
       "ID": "ReachNDays2",
@@ -26532,7 +26537,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 260132,
+      "Progressed": 260136,
       "Completed": 3
     }
   ],
@@ -26540,8 +26545,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2024-01-02T14:59:14.4258182+00:00",
-  "LastChanged_Achievements": "2024-01-03T00:07:15.8712435+00:00",
+  "LastChanged_Achievements": "2024-01-03T01:51:26.6602527+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:41.7689812+00:00",
-  "LastUpdate_Ratings": "2024-01-02T23:59:23.6444784+00:00",
-  "LastUpdate_Achievements": "2024-01-03T00:07:15.8713659+00:00"
+  "LastUpdate_Ratings": "2024-01-03T01:44:42.5364909+00:00",
+  "LastUpdate_Achievements": "2024-01-03T01:51:26.6603715+00:00"
 }

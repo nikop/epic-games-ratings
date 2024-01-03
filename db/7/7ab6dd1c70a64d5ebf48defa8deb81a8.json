@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -61,9 +61,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1686,
+  "EOS_Progressed": 1688,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 372,
+  "EOS_NewPlayers": 370,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -3311,6 +3311,11 @@
       "Time": "2024-01-03T00:11:25.4231048+00:00",
       "NumProgressed": 1686,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-03T01:55:58.0499161+00:00",
+      "NumProgressed": 1688,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -3322,7 +3327,7 @@
       "Name": "Break Out",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1013
     },
     {
       "ID": "ACH_02",
@@ -3338,7 +3343,7 @@
       "Name": "Powerful Allies",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "ACH_04",
@@ -3370,7 +3375,7 @@
       "Name": "Clear Sight",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_08",
@@ -3434,7 +3439,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "ACH_16",
@@ -3442,7 +3447,7 @@
       "Name": "Essence Blow",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ACH_17",
@@ -3450,15 +3455,15 @@
       "Name": "Shatterer",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_18",
       "SetID": "efe2lj",
       "Name": "Shatter Them All",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 354
+      "UsersEstimate": 371
     },
     {
       "ID": "ACH_19",
@@ -3490,7 +3495,7 @@
       "Name": "Fine Feathers Make Fine Birds",
       "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_23",
@@ -3514,7 +3519,7 @@
       "Name": "Fashion Victim",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "ACH_26",
@@ -3536,9 +3541,9 @@
       "ID": "ACH_28",
       "SetID": "efe2lj",
       "Name": "I Found It",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 371
+      "UsersEstimate": 388
     },
     {
       "ID": "ACH_29",
@@ -3554,7 +3559,7 @@
       "Name": "Alchemist",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ACH_31",
@@ -3562,7 +3567,7 @@
       "Name": "Stone Collection",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "ACH_33",
@@ -3609,7 +3614,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1686,
+      "Progressed": 1688,
       "Completed": 3
     }
   ],
@@ -3617,8 +3622,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-02T01:47:19.6899919+00:00",
-  "LastChanged_Achievements": "2024-01-03T00:11:25.4231045+00:00",
+  "LastChanged_Achievements": "2024-01-03T01:55:58.0499157+00:00",
   "LastUpdate_AppInfo": "2024-01-01T22:57:08.0954502+00:00",
-  "LastUpdate_Ratings": "2024-01-03T00:01:40.8638998+00:00",
-  "LastUpdate_Achievements": "2024-01-03T00:11:25.4231442+00:00"
+  "LastUpdate_Ratings": "2024-01-03T01:46:14.5347461+00:00",
+  "LastUpdate_Achievements": "2024-01-03T01:55:58.0499514+00:00"
 }

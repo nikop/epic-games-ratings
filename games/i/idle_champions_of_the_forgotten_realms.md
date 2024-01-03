@@ -6,12 +6,12 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~7,502 |
+| A Brief Tour of the Realms | 3.00% | ~7,503 |
 | Beast Intentions | 1.00% | ~2,501 |
 | The Cursed Farmer | 1.00% | ~2,501 |
-| The Mad Wizard | 0.90% | ~2,250 |
+| The Mad Wizard | 0.90% | ~2,251 |
 | Welcome to Sigil | 0.80% | ~1,731 |
-| The Ring of Regeneration | 0.60% | ~1,500 |
+| The Ring of Regeneration | 0.60% | ~1,501 |
 | Fast Food | 0.60% | ~1,298 |
 | Were-verpowered | 0.50% | ~1,250 |
 | Are Ya Chicken? | 0.50% | ~1,250 |
@@ -34,6 +34,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Arcane Suppression | 0.30% | ~649 |
 | Welcome to the Vrocks | 0.30% | ~649 |
 | Chaos Theory | 0.30% | ~649 |
+| The Silken Swamp | 0.20% | ~500 |
 | Beast Mode | 0.20% | ~500 |
 | Low Initiative | 0.20% | ~500 |
 | A Mysterious Summons | 0.20% | ~500 |
@@ -83,7 +84,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | First Third Out | 0.10% | ~216 |
 | Second Third Out | 0.10% | ~216 |
 | Third Third Out | 0.10% | ~216 |
-| The Silken Swamp | 0.10% | ~250 |
 | Slack-jawed Lorna | 0.10% | ~216 |
 | I'm Sure I Saw It Move! | 0.10% | ~216 |
 | End of the Line | 0.10% | ~216 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~216 |
 | The Brains of an Illithid's Desire | 0.10% | ~216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,051 (Ranked 70)  
+Progressed: 250,100 (Ranked 70)  
 Completed: 2,585 (1.03%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -811,7 +811,7 @@ Completed: 2,585 (1.03%) (Ranked 170)
 | 2023-12-31 | 248,665 | 2,581 |
 | 2024-01-01 | 249,335 | 2,583 |
 | 2024-01-02 | 250,032 | 2,585 |
-| 2024-01-03 | 250,051 | 2,585 |
+| 2024-01-03 | 250,100 | 2,585 |
 ## Awards
 Max (Great for Beginners): 5,730  (Ranked 71)  
 Sum: 33,274 (Ranked 41)  

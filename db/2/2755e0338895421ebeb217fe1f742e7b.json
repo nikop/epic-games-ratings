@@ -3,9 +3,9 @@
   "Name": "Nocturnal",
   "ProductSlug": "nocturnal-ef3fa0",
   "Ranking_EOS_Progress": 533,
-  "Ranking_EOS_Completed": 104,
+  "Ranking_EOS_Completed": 73,
   "Ranking_EOS_NewPlayers": 384,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-06-07T15:00:00+00:00",
     "PcReleaseDate": "2023-06-07T15:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 60,
-  "EOS_Completed": 2,
+  "EOS_Completed": 3,
   "EOS_NewPlayers": 11,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.33,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 5,
   "EosHistory": [
     {
       "Time": "2023-06-12T20:01:31.4959965+00:00",
@@ -339,6 +339,11 @@
       "Time": "2024-01-01T21:10:10.528942+00:00",
       "NumProgressed": 60,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-03T01:55:52.7510266+00:00",
+      "NumProgressed": 60,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 11,
@@ -356,9 +361,9 @@
       "ID": "Nocturnal_Achivement_11_FireShrine",
       "SetID": "329ifed",
       "Name": "No Stone Unturned",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 150,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Nocturnal_Achivement_1_Flame",
@@ -380,49 +385,49 @@
       "ID": "Nocturnal_Achivement_3_Azita",
       "SetID": "329ifed",
       "Name": "Unfortunate Enemies",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 75,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Nocturnal_Achivement_4_Avatar",
       "SetID": "329ifed",
       "Name": "Avatar Ascendant",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Nocturnal_Achivement_5_Berserker",
       "SetID": "329ifed",
       "Name": "Stand Your Ground",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 75,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Nocturnal_Achivement_6_Arsia",
       "SetID": "329ifed",
       "Name": "Baleful Shadow",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Nocturnal_Achivement_7_Letter",
       "SetID": "329ifed",
       "Name": "Words Unspoken",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Nocturnal_Achivement_8_End",
       "SetID": "329ifed",
       "Name": "A Grim Farewell",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 200,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Nocturnal_Achivement_9_Torches",
@@ -438,13 +443,13 @@
       "ID": "329ifed",
       "IsBase": true,
       "Progressed": 60,
-      "Completed": 2
+      "Completed": 3
     }
   ],
   "FirstSeen": "2023-07-26T23:57:21.2236192+00:00",
   "FirstSeenAchievements": "2023-06-12T15:00:06.5838251+00:00",
-  "LastChanged_Achievements": "2024-01-03T00:11:18.2603459+00:00",
+  "LastChanged_Achievements": "2024-01-03T01:55:52.7510264+00:00",
   "LastUpdate_AppInfo": "2024-01-02T06:57:00.4530497+00:00",
-  "LastUpdate_Ratings": "2024-01-03T00:00:19.7548556+00:00",
-  "LastUpdate_Achievements": "2024-01-03T00:11:18.2603529+00:00"
+  "LastUpdate_Ratings": "2024-01-03T01:45:17.9567727+00:00",
+  "LastUpdate_Achievements": "2024-01-03T01:55:52.7510526+00:00"
 }

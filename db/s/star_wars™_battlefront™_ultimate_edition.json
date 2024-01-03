@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2522,
+  "EOS_Progressed": 2523,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 302,
+  "EOS_NewPlayers": 300,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7004,6 +7004,11 @@
       "Time": "2024-01-03T00:11:32.1197527+00:00",
       "NumProgressed": 2522,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-03T01:56:03.3740203+00:00",
+      "NumProgressed": 2523,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -7240,7 +7245,7 @@
       "Name": "New Recruit",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 2194
+      "UsersEstimate": 2195
     },
     {
       "ID": "achievement_36",
@@ -7288,7 +7293,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1312
     },
     {
       "ID": "achievement_41",
@@ -7320,7 +7325,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "achievement_45",
@@ -7494,9 +7499,9 @@
       "ID": "achievement_7",
       "SetID": "271ol84",
       "Name": "A cunning warrior",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 151
+      "UsersEstimate": 177
     },
     {
       "ID": "achievement_8",
@@ -7519,13 +7524,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2522,
+      "Progressed": 2523,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2522,
+      "Progressed": 2523,
       "Completed": 1
     }
   ],
@@ -7533,8 +7538,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-03T00:11:32.1197524+00:00",
+  "LastChanged_Achievements": "2024-01-03T01:56:03.37402+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:19.759459+00:00",
-  "LastUpdate_Ratings": "2024-01-03T00:00:23.7362023+00:00",
-  "LastUpdate_Achievements": "2024-01-03T00:11:32.1198877+00:00"
+  "LastUpdate_Ratings": "2024-01-03T01:45:21.6813307+00:00",
+  "LastUpdate_Achievements": "2024-01-03T01:56:03.374095+00:00"
 }

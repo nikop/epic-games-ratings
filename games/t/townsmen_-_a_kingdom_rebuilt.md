@@ -33,13 +33,13 @@ Number of Ratings: 37  (23.09.2022)
 | Builder II | 5.00% | ~221 |
 | An honorable Governor II | 5.00% | ~221 |
 | Tax-man IV | 5.00% | ~221 |
+| A time consuming game III | 5.00% | ~221 |
 | Conflicting parties | 5.00% | ~221 |
 | Another one bites the dust | 4.00% | ~177 |
 | I like to build stuff... IV | 4.00% | ~177 |
 | Experienced decorator | 4.00% | ~177 |
 | My precious... I | 4.00% | ~177 |
 | Full-time job III | 4.00% | ~177 |
-| A time consuming game III | 4.00% | ~177 |
 | Tools of the trade II | 4.00% | ~177 |
 | Bread for the people III | 3.00% | ~132 |
 | Five brews are a schnitzel | 3.00% | ~132 |

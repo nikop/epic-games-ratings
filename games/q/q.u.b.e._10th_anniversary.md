@@ -5,19 +5,19 @@ Rating: 4.42 (Ranked 734)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 31.00% | ~8,708 |
-| Sector 2 | 27.00% | ~7,584 |
-| Crush That Cube! | 23.00% | ~6,461 |
-| Sector 3 | 23.00% | ~6,461 |
-| Sector 4 | 19.00% | ~5,337 |
-| Crush That Ball! | 18.00% | ~5,056 |
-| Sector 5 | 12.00% | ~3,371 |
-| Sector 6 | 10.00% | ~2,809 |
-| Feeling the Blues | 8.00% | ~2,247 |
-| Finale | 8.00% | ~2,247 |
-| Sector 7 | 8.00% | ~2,247 |
-| Squished | 7.00% | ~1,966 |
-| Did That Work? -- No! | 7.00% | ~1,966 |
+| Sector 1 | 31.00% | ~8,711 |
+| Sector 2 | 27.00% | ~7,587 |
+| Crush That Cube! | 23.00% | ~6,463 |
+| Sector 3 | 23.00% | ~6,463 |
+| Sector 4 | 19.00% | ~5,339 |
+| Crush That Ball! | 18.00% | ~5,058 |
+| Sector 5 | 12.00% | ~3,372 |
+| Sector 6 | 10.00% | ~2,810 |
+| Feeling the Blues | 8.00% | ~2,248 |
+| Finale | 8.00% | ~2,248 |
+| Sector 7 | 8.00% | ~2,248 |
+| Squished | 7.00% | ~1,967 |
+| Did That Work? -- No! | 7.00% | ~1,967 |
 | Master Room | 4.00% | ~1,124 |
 | Bronze Trophy | 2.00% | ~562 |
 | Master Of The Collectables | 2.00% | ~562 |
@@ -30,8 +30,8 @@ Rating: 4.42 (Ranked 734)
 | Maxed Out | 2.00% | ~562 |
 | The Collector | 1.00% | ~281 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,090 (Ranked 142)  
-Completed: 188 (0.67%) (Ranked 198)  
+Progressed: 28,100 (Ranked 142)  
+Completed: 189 (0.67%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -111,14 +111,14 @@ Completed: 188 (0.67%) (Ranked 198)
 | 2023-12-31 | 27,802 | 183 |
 | 2024-01-01 | 27,944 | 185 |
 | 2024-01-02 | 28,087 | 188 |
-| 2024-01-03 | 28,090 | 188 |
+| 2024-01-03 | 28,100 | 189 |
 ## Awards
-Max (Challenging Puzzles): 23  (Ranked 556)  
-Sum: 23 (Ranked 561)  
-Diff (max vs sum): -5  
+Max (Challenging Puzzles): 24  (Ranked 549)  
+Sum: 24 (Ranked 556)  
+Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 23 |
+| This game features Challenging Puzzles | 24 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -167,3 +167,4 @@ Diff (max vs sum): -5
 | 2023-12-28 | 4.40 | 23 | 23 |
 | 2023-12-29 | 4.41 | 23 | 23 |
 | 2024-01-02 | 4.42 | 23 | 23 |
+| 2024-01-03 | 4.42 | 24 | 24 |

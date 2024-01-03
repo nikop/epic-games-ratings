@@ -6,13 +6,13 @@ Rating: 4.46 (Ranked 673)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eat My Dust | 48.00% | ~1,548 |
-| First Love | 45.00% | ~1,451 |
+| First Love | 45.00% | ~1,452 |
 | Clean Race | 44.00% | ~1,419 |
-| Hear That Roar! | 41.00% | ~1,322 |
+| Hear That Roar! | 41.00% | ~1,323 |
+| Rivals to the End | 31.00% | ~1,000 |
 | Bitter Rivalry | 30.00% | ~968 |
-| Rivals to the End | 30.00% | ~968 |
 | Champagne Spray | 28.00% | ~903 |
-| We're Going to Need a Bigger Garage | 26.00% | ~838 |
+| We're Going to Need a Bigger Garage | 26.00% | ~839 |
 | Quick Pit Stop | 22.00% | ~710 |
 | Restored and Ready | 20.00% | ~645 |
 | I Want One Too! | 20.00% | ~645 |
@@ -32,11 +32,11 @@ Rating: 4.46 (Ranked 673)
 | I Make the Rules! | 3.00% | ~97 |
 | Rounding Off | 3.00% | ~97 |
 | My Work Here Is Done | 3.00% | ~97 |
-| Iconic! | 2.00% | ~64 |
-| I'll Be the Best! | 2.00% | ~64 |
-| Back in Blighty | 2.00% | ~64 |
-| Still Here | 2.00% | ~64 |
-| Overtaking the Master | 2.00% | ~64 |
+| Iconic! | 2.00% | ~65 |
+| I'll Be the Best! | 2.00% | ~65 |
+| Back in Blighty | 2.00% | ~65 |
+| Still Here | 2.00% | ~65 |
+| Overtaking the Master | 2.00% | ~65 |
 | Next Level | 1.00% | ~32 |
 | I Don't Stop | 1.00% | ~32 |
 | Exhausted but Happy | 0.70% | ~23 |
@@ -55,7 +55,7 @@ Rating: 4.46 (Ranked 673)
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,225 (Ranked 224)  
+Progressed: 3,226 (Ranked 224)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-31 | 3,170 | 0 |
 | 2024-01-01 | 3,195 | 0 |
 | 2024-01-02 | 3,224 | 0 |
-| 2024-01-03 | 3,225 | 0 |
+| 2024-01-03 | 3,226 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

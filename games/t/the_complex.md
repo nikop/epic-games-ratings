@@ -7,7 +7,7 @@
 | Tough Decision | 92.00% | ~716 |
 | Blast From The Past | 83.00% | ~646 |
 | Kamikaze | 63.00% | ~490 |
-| The Rebel And The Doctor | 56.00% | ~436 |
+| The Rebel And The Doctor | 57.00% | ~443 |
 | Beat It | 49.00% | ~381 |
 | Free Champagne | 48.00% | ~373 |
 | Storage Hunter | 46.00% | ~358 |
@@ -25,8 +25,8 @@
 | Second Chances | 7.00% | ~54 |
 | Not A People Person | 4.00% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 778 (Ranked 307)  
-Completed: 22 (2.83%) (Ranked 115)  
+Progressed: 778 (Ranked 308)  
+Completed: 22 (2.83%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

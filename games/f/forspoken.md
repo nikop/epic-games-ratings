@@ -6,7 +6,7 @@ Rating: 4.14 (Ranked 999)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Attachments | 12.00% | ~5,539 |
-| Unlocked Potential | 11.00% | ~5,077 |
+| Unlocked Potential | 11.00% | ~5,078 |
 | Tinkerer | 8.00% | ~3,693 |
 | Leapfrogger | 7.00% | ~3,231 |
 | Knock 'Em Dead | 7.00% | ~3,231 |
@@ -44,11 +44,11 @@ Rating: 4.14 (Ranked 999)
 | Tit for Tat | 0.30% | ~138 |
 | A Roaring Trade | 0.30% | ~138 |
 | Promises | 0.30% | ~138 |
+| Rebirth | 0.30% | ~138 |
 | Paragon | 0.20% | ~92 |
 | Pilgrimage: Adept | 0.20% | ~92 |
 | Call of the Fount: Beatified | 0.20% | ~92 |
 | I Can Fly! | 0.20% | ~92 |
-| Rebirth | 0.20% | ~92 |
 | Abominizer | 0.10% | ~46 |
 | Through the Eyes of Another: Visionary | 0.10% | ~46 |
 | Kit and Caboodle | 0.10% | ~46 |
@@ -59,7 +59,7 @@ Rating: 4.14 (Ranked 999)
 | Remembrance | 0.10% | ~46 |
 | Cat Person | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,159 (Ranked 125)  
+Progressed: 46,161 (Ranked 125)  
 Completed: 4 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 4 (0.01%) (Ranked 367)
 | 2023-12-31 | 45,906 | 4 |
 | 2024-01-01 | 46,038 | 4 |
 | 2024-01-02 | 46,154 | 4 |
-| 2024-01-03 | 46,159 | 4 |
+| 2024-01-03 | 46,161 | 4 |
 ## Awards
 Max (Character Customization): 40  (Ranked 477)  
 Sum: 40 (Ranked 518)  

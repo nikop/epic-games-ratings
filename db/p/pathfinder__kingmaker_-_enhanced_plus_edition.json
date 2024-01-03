@@ -3,11 +3,11 @@
   "Name": "Pathfinder: Kingmaker - Enhanced Plus Edition",
   "ProductSlug": "pathfinder-kingmaker",
   "Ranking_Rating": 491,
-  "Ranking_Popularity": 96,
+  "Ranking_Popularity": 97,
   "Ranking_PopularitySum": 99,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-05-13T19:30:00+00:00",
@@ -6834,10 +6834,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 9262,
       "NumberOfAwardsMax": 3423
+    },
+    {
+      "Time": "2024-01-03T01:45:08.7593981+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 9265,
+      "NumberOfAwardsMax": 3423
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9262,
+  "NumberOfAwards": 9265,
   "NumberOfAwardsMax": 3423,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6875,13 +6881,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 432
+      "Count": 433
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 408
+      "Count": 409
     },
     {
       "Text": "This game is Relaxing",
@@ -6893,7 +6899,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 400
+      "Count": 401
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6931,8 +6937,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:35.6101884+00:00",
-  "LastChanged": "2024-01-02T18:00:14.96303+00:00",
+  "LastChanged": "2024-01-03T01:45:08.7593979+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:52.5476229+00:00",
-  "LastUpdate_Ratings": "2024-01-03T00:00:05.613458+00:00",
-  "LastUpdate_Achievements": "2024-01-03T00:04:25.7639667+00:00"
+  "LastUpdate_Ratings": "2024-01-03T01:45:08.7593985+00:00",
+  "LastUpdate_Achievements": "2024-01-03T01:49:28.1179776+00:00"
 }

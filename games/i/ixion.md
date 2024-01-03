@@ -8,10 +8,10 @@ Rating: 4.59 (Ranked 445)
 | Wakey Wakey | 32.00% | ~1,252 |
 | Sputnik 2049 | 28.00% | ~1,096 |
 | Infinite Growth... | 27.00% | ~1,057 |
-| Without Breaking Some Eggs... | 26.00% | ~1,017 |
-| Space Society | 18.00% | ~704 |
-| A Thousand Strong | 18.00% | ~704 |
-| Ready for a New World | 18.00% | ~704 |
+| Without Breaking Some Eggs... | 26.00% | ~1,018 |
+| Space Society | 18.00% | ~705 |
+| A Thousand Strong | 18.00% | ~705 |
+| Ready for a New World | 18.00% | ~705 |
 | Permanent Redesigns | 16.00% | ~626 |
 | Fully Recycled | 15.00% | ~587 |
 | The Ship of Theseus | 15.00% | ~587 |
@@ -63,7 +63,7 @@ Rating: 4.59 (Ranked 445)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,913 (Ranked 212)  
+Progressed: 3,914 (Ranked 212)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-31 | 3,860 | 0 |
 | 2024-01-01 | 3,888 | 0 |
 | 2024-01-02 | 3,912 | 0 |
-| 2024-01-03 | 3,913 | 0 |
+| 2024-01-03 | 3,914 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,13 +1,13 @@
 # Crime Boss: Rockay City
 [Store](https://store.epicgames.com/en-US/p/crime-boss)  
 [View Rawdata](../../db/c/crime_boss__rockay_city.json)  
-Rating: 3.95 (Ranked 1,052)  
+Rating: 3.96 (Ranked 1,051)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Neophyte Ninja | 4.00% | ~3,716 |
-| First One’s Free | 4.00% | ~3,716 |
-| Downed but Not Outed | 4.00% | ~3,716 |
+| Neophyte Ninja | 4.00% | ~3,717 |
+| First One’s Free | 4.00% | ~3,717 |
+| Downed but Not Outed | 4.00% | ~3,717 |
 | Too Old for This | 3.00% | ~2,787 |
 | Fancy Pants | 3.00% | ~2,787 |
 | Underworld Initiate | 2.00% | ~1,858 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,052)
 | Full House | 0.10% | ~93 |
 | Geek Out | 0.10% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92,912 (Ranked 101)  
+Progressed: 92,913 (Ranked 101)  
 Completed: 58 (0.06%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 58 (0.06%) (Ranked 326)
 | 2023-12-31 | 92,813 | 58 |
 | 2024-01-01 | 92,863 | 58 |
 | 2024-01-02 | 92,910 | 58 |
-| 2024-01-03 | 92,912 | 58 |
+| 2024-01-03 | 92,913 | 58 |
 ## Awards
 Max (Diverse Characters): 588  (Ranked 209)  
 Sum: 2,775 (Ranked 191)  
@@ -599,3 +599,4 @@ Diff (max vs sum): 18
 | 2023-12-31 | 3.95 | 585 | 2,768 |
 | 2024-01-01 | 3.96 | 585 | 2,770 |
 | 2024-01-02 | 3.96 | 588 | 2,775 |
+| 2024-01-03 | 3.96 | 588 | 2,775 |

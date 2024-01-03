@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Morgengrauen | 83.00% | ~142 |
-| Path of Despair | 83.00% | ~142 |
+| Morgengrauen | 84.00% | ~144 |
+| Path of Despair | 84.00% | ~144 |
 | Not alone | 57.00% | ~97 |
 | Hunger | 48.00% | ~82 |
 | Awaken | 38.00% | ~65 |
@@ -14,11 +14,11 @@
 | Rage | 29.00% | ~50 |
 | Path of Pain | 23.00% | ~39 |
 | Mayhem | 18.00% | ~31 |
+| Reflections | 17.00% | ~29 |
 | The shining | 17.00% | ~29 |
 | Clarity | 16.00% | ~27 |
-| Reflections | 16.00% | ~27 |
+| Awaiting orders | 13.00% | ~22 |
 | Health | 13.00% | ~22 |
-| Awaiting orders | 12.00% | ~21 |
 | Art critic | 11.00% | ~19 |
 | Jigsaw | 9.00% | ~15 |
 | Peace | 9.00% | ~15 |

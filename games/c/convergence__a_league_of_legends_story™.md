@@ -5,36 +5,36 @@ Rating: 4.65 (Ranked 321)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 43.00% | ~517 |
+| Time Heals All Wounds | 43.00% | ~518 |
 | Rail Rat | 33.00% | ~397 |
 | The Mysterious Stranger | 32.00% | ~385 |
 | Immaculate Aim | 27.00% | ~325 |
 | The Brass Boss | 26.00% | ~313 |
-| Make Up For Lost Time | 25.00% | ~300 |
-| Time Flies | 25.00% | ~300 |
-| No, Thanks! | 25.00% | ~300 |
-| The Prince in Heels | 25.00% | ~300 |
-| Honest Mistake | 25.00% | ~300 |
-| The Harder They Fall | 24.00% | ~288 |
-| Fast Learner | 24.00% | ~288 |
-| Immaculate Aim | 24.00% | ~288 |
-| The Steel Shadow | 23.00% | ~276 |
-| Breaking Down Barriers | 23.00% | ~276 |
-| Right On Time | 22.00% | ~264 |
-| The Wicked Twins | 22.00% | ~264 |
-| Like Clockwork | 21.00% | ~252 |
-| The Betrayer | 21.00% | ~252 |
-| Golem Chaser | 21.00% | ~252 |
-| Check Your Pulse | 20.00% | ~240 |
-| The Loose Cannon | 19.00% | ~228 |
-| Street Style | 18.00% | ~216 |
-| The Man Who Shattered Time | 18.00% | ~216 |
-| The Family Fortune | 18.00% | ~216 |
-| Whiz Kid | 15.00% | ~180 |
-| Family Memories | 14.00% | ~168 |
-| Good Neighbor | 14.00% | ~168 |
-| Cartographer | 13.00% | ~156 |
-| Ask Questions Later | 13.00% | ~156 |
+| Make Up For Lost Time | 25.00% | ~301 |
+| Time Flies | 25.00% | ~301 |
+| No, Thanks! | 25.00% | ~301 |
+| The Prince in Heels | 25.00% | ~301 |
+| Honest Mistake | 25.00% | ~301 |
+| The Harder They Fall | 24.00% | ~289 |
+| Fast Learner | 24.00% | ~289 |
+| Immaculate Aim | 24.00% | ~289 |
+| The Steel Shadow | 23.00% | ~277 |
+| Breaking Down Barriers | 23.00% | ~277 |
+| Right On Time | 22.00% | ~265 |
+| The Wicked Twins | 22.00% | ~265 |
+| Like Clockwork | 21.00% | ~253 |
+| The Betrayer | 21.00% | ~253 |
+| Golem Chaser | 21.00% | ~253 |
+| Check Your Pulse | 20.00% | ~241 |
+| The Loose Cannon | 19.00% | ~229 |
+| Street Style | 18.00% | ~217 |
+| The Man Who Shattered Time | 18.00% | ~217 |
+| The Family Fortune | 18.00% | ~217 |
+| Whiz Kid | 15.00% | ~181 |
+| Family Memories | 14.00% | ~169 |
+| Good Neighbor | 14.00% | ~169 |
+| Cartographer | 13.00% | ~157 |
+| Ask Questions Later | 13.00% | ~157 |
 | Chaincrawler Explorer | 12.00% | ~144 |
 | Treasure Trove | 12.00% | ~144 |
 | Syron for Hope | 12.00% | ~144 |
@@ -59,7 +59,7 @@ Rating: 4.65 (Ranked 321)
 | Raw Talent | 0.60% | ~7 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,202 (Ranked 280)  
+Progressed: 1,204 (Ranked 280)  
 Completed: 6 (0.50%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 6 (0.50%) (Ranked 219)
 | 2023-12-31 | 1,175 | 6 |
 | 2024-01-01 | 1,190 | 6 |
 | 2024-01-02 | 1,201 | 6 |
-| 2024-01-03 | 1,202 | 6 |
+| 2024-01-03 | 1,204 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

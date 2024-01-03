@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewPlayers": 362,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -219,9 +219,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5224,
+  "EOS_Progressed": 5225,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -1104,6 +1104,11 @@
       "Time": "2024-01-03T00:08:19.5001334+00:00",
       "NumProgressed": 5224,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-03T01:51:57.854364+00:00",
+      "NumProgressed": 5225,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 49,
@@ -1139,7 +1144,7 @@
       "Name": "Bone Collector",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1828
+      "UsersEstimate": 1829
     },
     {
       "ID": "ACHIEVE_50_CROWNS",
@@ -1171,7 +1176,7 @@
       "Name": "Jerk-Slayer",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2246
+      "UsersEstimate": 2247
     },
     {
       "ID": "ACHIEVE_50_ICE",
@@ -1187,7 +1192,7 @@
       "Name": "Fe-Festival",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1828
+      "UsersEstimate": 1829
     },
     {
       "ID": "ACHIEVE_50_MAGMA",
@@ -1203,7 +1208,7 @@
       "Name": "Collected 50 mushrooms",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 731
+      "UsersEstimate": 732
     },
     {
       "ID": "ACHIEVE_50_SEEDS",
@@ -1211,7 +1216,7 @@
       "Name": "Budding Gardener",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 731
+      "UsersEstimate": 732
     },
     {
       "ID": "ACHIEVE_50_WOOD",
@@ -1251,7 +1256,7 @@
       "Name": "Fun, Flirty, and Thirty",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 3291
+      "UsersEstimate": 3292
     },
     {
       "ID": "ACHIEVE_CREATE_45_GRINDSTONE",
@@ -1307,7 +1312,7 @@
       "Name": "Stop Hitting Each Other",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 731
+      "UsersEstimate": 732
     },
     {
       "ID": "ACHIEVE_JERK_POISON_DEATH",
@@ -1323,7 +1328,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4075
+      "UsersEstimate": 4076
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -1339,7 +1344,7 @@
       "Name": "Killed 20 Jerks",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 2821
+      "UsersEstimate": 2822
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_200",
@@ -1355,7 +1360,7 @@
       "Name": "Royal Flush",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3239
+      "UsersEstimate": 3240
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_50",
@@ -1371,7 +1376,7 @@
       "Name": "You\u0027re In a Cult, Call Your Dad",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "ACHIEVE_LVL_150_COMPLETE",
@@ -1387,7 +1392,7 @@
       "Name": "Survive the Bombsequences",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3082
+      "UsersEstimate": 3083
     },
     {
       "ID": "ACHIEVE_LVL_180_COMPLETE",
@@ -1459,7 +1464,7 @@
       "Name": "Death Defied",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 2821
+      "UsersEstimate": 2822
     },
     {
       "ID": "ACHIEVE_PLATINUM",
@@ -1499,22 +1504,22 @@
       "Name": "There is No Escape",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 3709
+      "UsersEstimate": 3710
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5224,
+      "Progressed": 5225,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-12-26T18:58:09.3460811+00:00",
-  "LastChanged_Achievements": "2024-01-03T00:08:19.500133+00:00",
+  "LastChanged_Achievements": "2024-01-03T01:51:57.8543637+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:55.5067997+00:00",
-  "LastUpdate_Ratings": "2024-01-03T00:03:17.3251995+00:00",
-  "LastUpdate_Achievements": "2024-01-03T00:08:19.5001818+00:00"
+  "LastUpdate_Ratings": "2024-01-03T01:48:40.0954127+00:00",
+  "LastUpdate_Achievements": "2024-01-03T01:51:57.8544088+00:00"
 }

@@ -9289,9 +9289,9 @@
       "Count": 3622
     }
   ],
-  "EOS_Progressed": 250051,
+  "EOS_Progressed": 250100,
   "EOS_Completed": 2585,
-  "EOS_NewPlayers": 5001,
+  "EOS_NewPlayers": 5024,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -38439,6 +38439,11 @@
       "Time": "2024-01-03T00:11:36.404817+00:00",
       "NumProgressed": 250051,
       "NumCompleted": 2585
+    },
+    {
+      "Time": "2024-01-03T01:56:07.0884509+00:00",
+      "NumProgressed": 250100,
+      "NumCompleted": 2585
     }
   ],
   "TotalAchievements": 546,
@@ -38450,7 +38455,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7502
+      "UsersEstimate": 7503
     },
     {
       "ID": "objective_completed_10",
@@ -38752,9 +38757,9 @@
       "ID": "objective_completed_109",
       "SetID": "cc37lbc",
       "Name": "The Silken Swamp",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 250
+      "UsersEstimate": 500
     },
     {
       "ID": "objective_completed_1090",
@@ -40130,7 +40135,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1500
+      "UsersEstimate": 1501
     },
     {
       "ID": "objective_completed_35",
@@ -41594,7 +41599,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2250
+      "UsersEstimate": 2251
     },
     {
       "ID": "objective_completed_70",
@@ -42817,21 +42822,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 216325,
+      "Progressed": 216374,
       "Completed": 4128
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 250051,
+      "Progressed": 250100,
       "Completed": 2585
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-02T20:58:24.5866544+00:00",
-  "LastChanged_Achievements": "2024-01-03T00:11:36.4048166+00:00",
+  "LastChanged_Achievements": "2024-01-03T01:56:07.0884506+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-02T23:58:58.9856406+00:00",
-  "LastUpdate_Achievements": "2024-01-03T00:11:36.4072267+00:00"
+  "LastUpdate_Ratings": "2024-01-03T01:44:24.1396776+00:00",
+  "LastUpdate_Achievements": "2024-01-03T01:56:07.0908874+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "1e1d639f7fa045f08a1378885ec7080c",
   "Name": "The Mageseeker: A League of Legends Story\u2122",
   "ProductSlug": "the-mageseeker-a-league-of-legends-story",
-  "Ranking_Rating": 83,
+  "Ranking_Rating": 82,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 223,
@@ -169,7 +169,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3235,
+  "EOS_Progressed": 3236,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 3,
@@ -5769,6 +5769,11 @@
       "Time": "2024-01-02T23:06:50.5364304+00:00",
       "NumProgressed": 3235,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2024-01-03T01:51:20.8205917+00:00",
+      "NumProgressed": 3236,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 53,
@@ -5844,7 +5849,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 3073
+      "UsersEstimate": 3074
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -5860,7 +5865,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2491
+      "UsersEstimate": 2492
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -5892,7 +5897,7 @@
       "Name": "I chose my shackles",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
@@ -5908,7 +5913,7 @@
       "Name": "Little light",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_I",
@@ -5916,7 +5921,7 @@
       "Name": "Old friend",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1035
+      "UsersEstimate": 1036
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -6020,7 +6025,7 @@
       "Name": "Devineur",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1035
+      "UsersEstimate": 1036
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -6084,7 +6089,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1941
+      "UsersEstimate": 1942
     },
     {
       "ID": "STB_PET_HORSE",
@@ -6186,9 +6191,9 @@
       "ID": "STB_UNLOCK_ULTIMATE",
       "SetID": "3pe2bac",
       "Name": "Ancient power",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 873
+      "UsersEstimate": 906
     },
     {
       "ID": "STB_WHIRL_ENEMIES",
@@ -6203,7 +6208,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 3235,
+      "Progressed": 3236,
       "Completed": 20
     }
   ],
@@ -6211,8 +6216,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-30T20:57:35.994685+00:00",
-  "LastChanged_Achievements": "2024-01-03T00:07:07.701088+00:00",
+  "LastChanged_Achievements": "2024-01-03T01:51:20.8205913+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:16.0545663+00:00",
-  "LastUpdate_Ratings": "2024-01-02T23:59:19.2777359+00:00",
-  "LastUpdate_Achievements": "2024-01-03T00:07:07.7011449+00:00"
+  "LastUpdate_Ratings": "2024-01-03T01:44:38.7001145+00:00",
+  "LastUpdate_Achievements": "2024-01-03T01:51:20.8206437+00:00"
 }

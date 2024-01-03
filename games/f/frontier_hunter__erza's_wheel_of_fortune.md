@@ -5,20 +5,20 @@ Rating: 4.35 (Ranked 816)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 93.00% | ~639 |
-| Training Simulation | 79.00% | ~543 |
+| Travel Streamer | 93.00% | ~640 |
+| Training Simulation | 79.00% | ~544 |
 | Kuku Bird Hunter | 65.00% | ~447 |
-| Storm Traveller | 60.00% | ~412 |
+| Storm Traveller | 60.00% | ~413 |
 | Wolf King Killer | 55.00% | ~378 |
-| Fashion Connoisseur | 53.00% | ~364 |
+| Fashion Connoisseur | 52.00% | ~358 |
 | Arms Mechanic | 49.00% | ~337 |
-| Flower Thief | 44.00% | ~302 |
+| Flower Thief | 44.00% | ~303 |
 | Apostle of Flame | 39.00% | ~268 |
 | Beginner Cook | 38.00% | ~261 |
-| Beginner Artificer | 37.00% | ~254 |
+| Beginner Artificer | 37.00% | ~255 |
 | Seal Breaker | 32.00% | ~220 |
-| Handyman | 29.00% | ~199 |
-| Giant Lizard Killer | 27.00% | ~185 |
+| Handyman | 28.00% | ~193 |
+| Giant Lizard Killer | 27.00% | ~186 |
 | Guardian | 26.00% | ~179 |
 | Nosebleeder | 26.00% | ~179 |
 | Trader | 22.00% | ~151 |
@@ -38,7 +38,7 @@ Rating: 4.35 (Ranked 816)
 | Giantess Slayer | 10.00% | ~69 |
 | Warden Slayer | 10.00% | ~69 |
 | Master Cook | 9.00% | ~62 |
-| Silver Moon Wolf King Challenge | 4.00% | ~27 |
+| Silver Moon Wolf King Challenge | 4.00% | ~28 |
 | Blade Mantis Challenge | 3.00% | ~21 |
 | Flying Kobold Challenge | 3.00% | ~21 |
 | Furious Scorpion Challenge | 3.00% | ~21 |
@@ -51,7 +51,7 @@ Rating: 4.35 (Ranked 816)
 | Giantess Challenge | 2.00% | ~14 |
 | Warden Challenge | 2.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 687 (Ranked 318)  
+Progressed: 688 (Ranked 318)  
 Completed: 3 (0.44%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,6 +171,7 @@ Completed: 3 (0.44%) (Ranked 229)
 | 2023-12-31 | 678 | 2 |
 | 2024-01-01 | 682 | 3 |
 | 2024-01-02 | 687 | 3 |
+| 2024-01-03 | 688 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

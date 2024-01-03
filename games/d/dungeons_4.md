@@ -39,7 +39,7 @@ Rating: 4.70 (Ranked 215)
 | Master of the Undead | 34.00% | ~239 |
 | The Finitude Drill | 33.00% | ~232 |
 | Ghost Pirates? Ghost Heroes! | 30.00% | ~211 |
-| Doom Hill | 29.00% | ~204 |
+| Doom Hill | 30.00% | ~211 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 28.00% | ~197 |
 | Forbidden Knowledge | 28.00% | ~197 |
 | Brimstone Shaken, Not Stirred | 28.00% | ~197 |
@@ -68,7 +68,7 @@ Rating: 4.70 (Ranked 215)
 | I Don't Need Any Help | 10.00% | ~70 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 702 (Ranked 314)  
-Completed: 27 (3.85%) (Ranked 91)  
+Completed: 27 (3.85%) (Ranked 92)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

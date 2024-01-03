@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 301,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 349,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1515,9 +1515,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6856,
+  "EOS_Progressed": 6857,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15855,6 +15855,11 @@
       "Time": "2024-01-02T23:08:16.5960064+00:00",
       "NumProgressed": 6856,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-03T01:52:21.9610897+00:00",
+      "NumProgressed": 6857,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -15882,7 +15887,7 @@
       "Name": "Double Trouble",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -15922,7 +15927,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 1028
+      "UsersEstimate": 1029
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -15938,7 +15943,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1028
+      "UsersEstimate": 1029
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -15994,7 +15999,7 @@
       "Name": "Firestarter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "ACH_EP_THEREFERENDUM",
@@ -16026,7 +16031,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 5005
+      "UsersEstimate": 5006
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -16122,7 +16127,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 3085
+      "UsersEstimate": 3086
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -16138,7 +16143,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2468
+      "UsersEstimate": 2469
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -16185,15 +16190,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6856,
+      "Progressed": 6857,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2024-01-01T23:00:51.8324602+00:00",
-  "LastChanged_Achievements": "2024-01-03T00:08:54.0680928+00:00",
+  "LastChanged_Achievements": "2024-01-03T01:52:21.9610894+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:30.406474+00:00",
-  "LastUpdate_Ratings": "2024-01-03T00:01:47.6001664+00:00",
-  "LastUpdate_Achievements": "2024-01-03T00:08:54.0681712+00:00"
+  "LastUpdate_Ratings": "2024-01-03T01:46:19.0502039+00:00",
+  "LastUpdate_Achievements": "2024-01-03T01:52:21.961168+00:00"
 }

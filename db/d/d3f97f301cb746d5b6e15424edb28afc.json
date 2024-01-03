@@ -4454,9 +4454,9 @@
       "ID": "GSS_ACH_15_FUEL_SERVE_03",
       "SetID": "5fn8ia4",
       "Name": "Skills to Pay the Bills",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 1108
+      "UsersEstimate": 1123
     },
     {
       "ID": "GSS_ACH_16_ORDER_FUEL",
@@ -4999,8 +4999,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-02T14:59:08.1835676+00:00",
-  "LastChanged_Achievements": "2024-01-03T00:07:26.7311564+00:00",
+  "LastChanged_Achievements": "2024-01-03T01:51:34.3667659+00:00",
   "LastUpdate_AppInfo": "2024-01-01T19:57:12.6980533+00:00",
-  "LastUpdate_Ratings": "2024-01-02T23:59:17.9854017+00:00",
-  "LastUpdate_Achievements": "2024-01-03T00:07:26.7312806+00:00"
+  "LastUpdate_Ratings": "2024-01-03T01:44:37.731698+00:00",
+  "LastUpdate_Achievements": "2024-01-03T01:51:34.3668972+00:00"
 }

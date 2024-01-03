@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1801,
+  "EOS_Progressed": 1803,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4492,6 +4492,11 @@
       "Time": "2024-01-02T23:07:18.1450767+00:00",
       "NumProgressed": 1801,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-03T01:51:40.4495986+00:00",
+      "NumProgressed": 1803,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4542,9 +4547,9 @@
       "ID": "ML_ACHIEVEMENT_06",
       "SetID": "5k00jcd",
       "Name": "Now try online",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ML_ACHIEVEMENT_07",
@@ -4871,20 +4876,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1801,
+      "Progressed": 1803,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1469,
+      "Progressed": 1471,
       "Completed": 1006
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-03T00:07:35.6553845+00:00",
+  "LastChanged_Achievements": "2024-01-03T01:51:40.4495982+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:19.4494243+00:00",
-  "LastUpdate_Ratings": "2024-01-03T00:01:07.1243678+00:00",
-  "LastUpdate_Achievements": "2024-01-03T00:07:35.6554329+00:00"
+  "LastUpdate_Ratings": "2024-01-03T01:45:52.890496+00:00",
+  "LastUpdate_Achievements": "2024-01-03T01:51:40.4496603+00:00"
 }

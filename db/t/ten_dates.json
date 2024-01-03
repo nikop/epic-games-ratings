@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 458,
+  "EOS_Progressed": 459,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.09,
   "EosHistory": [
@@ -1281,6 +1281,11 @@
       "Time": "2024-01-02T23:10:13.4906342+00:00",
       "NumProgressed": 458,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-03T01:55:33.6686697+00:00",
+      "NumProgressed": 459,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 19,
@@ -1332,7 +1337,7 @@
       "Name": "That wasn\u0027t so bad",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "ryan_date2_all",
@@ -1354,17 +1359,17 @@
       "ID": "success_azalea",
       "SetID": "6h5h9ho",
       "Name": "The activist",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 90,
-      "UsersEstimate": 96
+      "UsersEstimate": 92
     },
     {
       "ID": "success_bash",
       "SetID": "6h5h9ho",
       "Name": "The lad",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 41
+      "UsersEstimate": 37
     },
     {
       "ID": "success_brandy",
@@ -1443,7 +1448,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 458,
+      "Progressed": 459,
       "Completed": 5
     }
   ],
@@ -1451,8 +1456,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2024-01-03T00:10:50.9779307+00:00",
+  "LastChanged_Achievements": "2024-01-03T01:55:33.6686695+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:31.6181665+00:00",
-  "LastUpdate_Ratings": "2024-01-03T00:03:27.012665+00:00",
-  "LastUpdate_Achievements": "2024-01-03T00:10:50.9779527+00:00"
+  "LastUpdate_Ratings": "2024-01-03T01:48:46.6031148+00:00",
+  "LastUpdate_Achievements": "2024-01-03T01:55:33.6686824+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "af0ea01162704696bebf8633a52a7a6d",
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
-  "Ranking_Rating": 1052,
+  "Ranking_Rating": 1051,
   "Ranking_Popularity": 209,
   "Ranking_PopularitySum": 191,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 3.95,
+  "Rating": 3.96,
   "RatingHistory": [
     {
       "Time": "2023-03-29T02:58:45.3340124+00:00",
@@ -5311,6 +5311,12 @@
       "Rating": 3.95,
       "NumberOfAwards": 2775,
       "NumberOfAwardsMax": 588
+    },
+    {
+      "Time": "2024-01-03T01:46:40.1082257+00:00",
+      "Rating": 3.96,
+      "NumberOfAwards": 2775,
+      "NumberOfAwardsMax": 588
     }
   ],
   "ReviewsDisabled": true,
@@ -5373,9 +5379,9 @@
       "Count": 531
     }
   ],
-  "EOS_Progressed": 92912,
+  "EOS_Progressed": 92913,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 330,
+  "EOS_NewPlayers": 327,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -30123,6 +30129,11 @@
       "Time": "2024-01-03T00:05:47.4458056+00:00",
       "NumProgressed": 92912,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-03T01:50:25.2232029+00:00",
+      "NumProgressed": 92913,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -30134,7 +30145,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3716
+      "UsersEstimate": 3717
     },
     {
       "ID": "ACH_0011",
@@ -30278,7 +30289,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3716
+      "UsersEstimate": 3717
     },
     {
       "ID": "ACH_0210",
@@ -30286,7 +30297,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3716
+      "UsersEstimate": 3717
     },
     {
       "ID": "ACH_0211",
@@ -30461,22 +30472,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 92912,
+      "Progressed": 92913,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 21259,
+      "Progressed": 21260,
       "Completed": 15594
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2024-01-02T18:02:38.0711332+00:00",
-  "LastChanged_Achievements": "2024-01-03T00:05:47.4458054+00:00",
+  "LastChanged": "2024-01-03T01:46:40.1082255+00:00",
+  "LastChanged_Achievements": "2024-01-03T01:50:25.2232027+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:43.6008036+00:00",
-  "LastUpdate_Ratings": "2024-01-03T00:03:00.8213814+00:00",
-  "LastUpdate_Achievements": "2024-01-03T00:05:47.4459114+00:00"
+  "LastUpdate_Ratings": "2024-01-03T01:46:40.1082261+00:00",
+  "LastUpdate_Achievements": "2024-01-03T01:50:25.2233217+00:00"
 }

@@ -6,20 +6,20 @@ Rating: 4.06 (Ranked 1,023)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Victor | 93.00% | ~3,820 |
-| World Map | 78.00% | ~3,203 |
+| World Map | 78.00% | ~3,204 |
 | Temple of Eternals | 56.00% | ~2,300 |
 | Prestigious | 52.00% | ~2,136 |
 | Fellowship Power | 41.00% | ~1,684 |
 | Full Party | 27.00% | ~1,109 |
 | Guild Power | 23.00% | ~945 |
-| Prestigious x10 | 20.00% | ~821 |
+| Prestigious x10 | 20.00% | ~822 |
 | The game is on | 18.00% | ~739 |
 | Exotic Merchant | 16.00% | ~657 |
 | Dragon Clicker | 15.00% | ~616 |
 | Miner Clicker | 15.00% | ~616 |
+| Enlightenment | 14.00% | ~575 |
 | Inspection | 14.00% | ~575 |
 | Dragon Master | 13.00% | ~534 |
-| Enlightenment | 13.00% | ~534 |
 | Hero inspection | 13.00% | ~534 |
 | Lieutenant | 12.00% | ~493 |
 | Milestone collector | 11.00% | ~452 |
@@ -38,11 +38,11 @@ Rating: 4.06 (Ranked 1,023)
 | Moving Up The Ladder | 8.00% | ~329 |
 | Relic Of The Past | 8.00% | ~329 |
 | Scroll Master | 8.00% | ~329 |
-| Four Leaf Clover | 7.00% | ~287 |
-| Here We Go Again | 7.00% | ~287 |
-| Master Enchanter | 7.00% | ~287 |
-| The father of Dragons | 7.00% | ~287 |
-| Trader | 7.00% | ~287 |
+| Four Leaf Clover | 7.00% | ~288 |
+| Here We Go Again | 7.00% | ~288 |
+| Master Enchanter | 7.00% | ~288 |
+| The father of Dragons | 7.00% | ~288 |
+| Trader | 7.00% | ~288 |
 | Dragon Slayer | 6.00% | ~246 |
 | Enchanting skill | 6.00% | ~246 |
 | The Expeditioner | 6.00% | ~246 |
@@ -81,7 +81,7 @@ Rating: 4.06 (Ranked 1,023)
 | Jewel Enchanting | 0.10% | ~4 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,107 (Ranked 209)  
+Progressed: 4,108 (Ranked 209)  
 Completed: 2 (0.05%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,6 +334,7 @@ Completed: 2 (0.05%) (Ranked 333)
 | 2023-12-31 | 4,033 | 2 |
 | 2024-01-01 | 4,079 | 2 |
 | 2024-01-02 | 4,107 | 2 |
+| 2024-01-03 | 4,108 | 2 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 477)  
 Sum: 154 (Ranked 438)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 16,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-04-26T00:30:00+00:00",
@@ -9703,10 +9703,16 @@
       "Rating": 4.73,
       "NumberOfAwards": 110230,
       "NumberOfAwardsMax": 27205
+    },
+    {
+      "Time": "2024-01-03T01:45:11.4793622+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 110431,
+      "NumberOfAwardsMax": 27205
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 110230,
+  "NumberOfAwards": 110431,
   "NumberOfAwardsMax": 27205,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9726,7 +9732,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 7417
+      "Count": 7476
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -9744,7 +9750,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 7798
+      "Count": 7850
     },
     {
       "Text": "This game is Extremely Fun",
@@ -9756,7 +9762,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 10990
+      "Count": 11080
     },
     {
       "Text": "This game is Relaxing",
@@ -9795,8 +9801,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-04-26T04:02:27.1386143+00:00",
   "FirstSeenRating": "2023-04-26T04:02:27.1386204+00:00",
-  "LastChanged": "2024-01-02T21:59:08.3356207+00:00",
+  "LastChanged": "2024-01-03T01:45:11.479362+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:50.4660177+00:00",
-  "LastUpdate_Ratings": "2024-01-03T00:00:09.7080226+00:00",
-  "LastUpdate_Achievements": "2024-01-03T00:04:22.4138332+00:00"
+  "LastUpdate_Ratings": "2024-01-03T01:45:11.4793626+00:00",
+  "LastUpdate_Achievements": "2024-01-03T01:49:25.6386905+00:00"
 }
