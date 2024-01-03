@@ -20,8 +20,8 @@
 | Help of the Gell | 17.00% | ~10 |
 | She-Wolf | 17.00% | ~10 |
 | Rage | 15.00% | ~9 |
+| Trial by cold | 13.00% | ~8 |
 | Berkanan Borgia | 12.00% | ~7 |
-| Trial by cold | 12.00% | ~7 |
 | Overplay the rogue | 10.00% | ~6 |
 | The champion of the arena | 10.00% | ~6 |
 | For the greater good | 8.00% | ~5 |
@@ -55,7 +55,7 @@
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 60 (Ranked 534)  
-Completed: 0 (0.00%) (Ranked 391)  
+Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -5,25 +5,25 @@ Rating: 4.17 (Ranked 977)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 60.00% | ~1,031 |
-| Trinity | 30.00% | ~515 |
-| The Collector | 24.00% | ~412 |
-| Find Allies | 23.00% | ~395 |
-| A Taste of Wrath | 23.00% | ~395 |
-| I Found It | 23.00% | ~395 |
-| Geared Up | 22.00% | ~378 |
+| Break Out | 60.00% | ~1,033 |
+| Trinity | 30.00% | ~516 |
+| The Collector | 24.00% | ~413 |
+| Find Allies | 23.00% | ~396 |
+| A Taste of Wrath | 23.00% | ~396 |
+| I Found It | 23.00% | ~396 |
+| Geared Up | 22.00% | ~379 |
 | Adventurer | 21.00% | ~361 |
 | Shatter Them All | 21.00% | ~361 |
 | Scholar | 21.00% | ~361 |
 | Fashion Victim | 20.00% | ~344 |
-| Tributes of Caladrias | 19.00% | ~326 |
-| Stone Collection | 19.00% | ~326 |
-| Powerful Allies | 18.00% | ~309 |
-| Big Bazar | 13.00% | ~223 |
-| Essence Blow | 12.00% | ~206 |
-| Alchemist | 12.00% | ~206 |
+| Stone Collection | 20.00% | ~344 |
+| Tributes of Caladrias | 19.00% | ~327 |
+| Powerful Allies | 18.00% | ~310 |
+| Big Bazar | 13.00% | ~224 |
+| Essence Blow | 12.00% | ~207 |
+| Alchemist | 12.00% | ~207 |
 | The Mentor | 10.00% | ~172 |
-| Calm before the Storm | 8.00% | ~137 |
+| Calm before the Storm | 8.00% | ~138 |
 | To Battle | 7.00% | ~120 |
 | Godslayer | 7.00% | ~120 |
 | Miner | 7.00% | ~120 |
@@ -31,8 +31,8 @@ Rating: 4.17 (Ranked 977)
 | Clear Sight | 4.00% | ~69 |
 | Shatterer | 4.00% | ~69 |
 | Fine Feathers Make Fine Birds | 4.00% | ~69 |
-| Slayer | 3.00% | ~52 |
 | A Queen's Tale | 3.00% | ~52 |
+| Slayer | 2.00% | ~34 |
 | Flawless Victory | 2.00% | ~34 |
 | All There Is | 2.00% | ~34 |
 | False God | 2.00% | ~34 |
@@ -42,7 +42,7 @@ Rating: 4.17 (Ranked 977)
 | All That Gold | 0.70% | ~12 |
 | Feeling Fancy | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,718 (Ranked 256)  
+Progressed: 1,721 (Ranked 256)  
 Completed: 3 (0.17%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 3 (0.17%) (Ranked 280)
 | 2023-12-31 | 1,577 | 3 |
 | 2024-01-01 | 1,636 | 3 |
 | 2024-01-02 | 1,683 | 3 |
-| 2024-01-03 | 1,718 | 3 |
+| 2024-01-03 | 1,721 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

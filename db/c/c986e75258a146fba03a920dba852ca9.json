@@ -6,7 +6,7 @@
   "Ranking_Popularity": 387,
   "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 79,
-  "Ranking_EOS_Completed": 311,
+  "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 4,
   "Store": {
@@ -109,11 +109,11 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 214147,
-  "EOS_Completed": 203,
-  "EOS_NewPlayers": 203509,
-  "EOS_NewCompleters": 203,
-  "EOS_Completed_Percentage": 0.09,
+  "EOS_Progressed": 214501,
+  "EOS_Completed": 206,
+  "EOS_NewPlayers": 203863,
+  "EOS_NewCompleters": 206,
+  "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
     {
       "Time": "2023-12-28T17:03:50.5199873+00:00",
@@ -829,6 +829,11 @@
       "Time": "2024-01-03T16:05:41.3790158+00:00",
       "NumProgressed": 214147,
       "NumCompleted": 203
+    },
+    {
+      "Time": "2024-01-03T17:06:31.0652083+00:00",
+      "NumProgressed": 214501,
+      "NumCompleted": 206
     }
   ],
   "AchievementsAdded": "2023-12-28T17:03:50.5211758+00:00",
@@ -841,7 +846,7 @@
       "Name": "Dungeon Master",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 6424
+      "UsersEstimate": 6435
     },
     {
       "ID": "com.thegentlebros.catquest.equipment_01",
@@ -849,7 +854,7 @@
       "Name": "Fashionista Lion",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 12849
+      "UsersEstimate": 12870
     },
     {
       "ID": "com.thegentlebros.catquest.level_03",
@@ -857,7 +862,7 @@
       "Name": "Super Catventurer",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 4283
+      "UsersEstimate": 4290
     },
     {
       "ID": "com.thegentlebros.catquest.mainquest_02",
@@ -865,7 +870,7 @@
       "Name": "Felingard Loremaster",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 42829
+      "UsersEstimate": 42900
     },
     {
       "ID": "com.thegentlebros.catquest.mew_00",
@@ -873,7 +878,7 @@
       "Name": "Furry Armored",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 857
+      "UsersEstimate": 858
     },
     {
       "ID": "com.thegentlebros.catquest.mew_01",
@@ -881,7 +886,7 @@
       "Name": "Level One",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 642
+      "UsersEstimate": 644
     },
     {
       "ID": "com.thegentlebros.catquest.mew_02",
@@ -889,7 +894,7 @@
       "Name": "Naked Cat",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "com.thegentlebros.catquest.mew_03",
@@ -897,7 +902,7 @@
       "Name": "Nine Lives",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 857
+      "UsersEstimate": 858
     },
     {
       "ID": "com.thegentlebros.catquest.mew_04",
@@ -905,7 +910,7 @@
       "Name": "Stronger Enemies",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1073
     },
     {
       "ID": "com.thegentlebros.catquest.mew_05",
@@ -913,7 +918,7 @@
       "Name": "The Old Master",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "com.thegentlebros.catquest.sidequest_03",
@@ -921,7 +926,7 @@
       "Name": "Saviour of the Cats",
       "Percentage": 11,
       "XP": 200,
-      "UsersEstimate": 23556
+      "UsersEstimate": 23595
     },
     {
       "ID": "com.thegentlebros.catquest.skill_01",
@@ -929,23 +934,23 @@
       "Name": "Power of the Arcane",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 38546
+      "UsersEstimate": 38610
     }
   ],
   "AchievementSets": [
     {
       "ID": "8g22406",
       "IsBase": true,
-      "Progressed": 214147,
-      "Completed": 203
+      "Progressed": 214501,
+      "Completed": 206
     }
   ],
   "FirstSeen": "2023-12-28T18:57:14.4261716+00:00",
   "FirstSeenRating": "2023-12-29T10:57:23.2583361+00:00",
   "FirstSeenAchievements": "2023-12-28T17:03:50.5211757+00:00",
   "LastChanged": "2024-01-03T13:04:22.7751349+00:00",
-  "LastChanged_Achievements": "2024-01-03T16:05:41.3790154+00:00",
+  "LastChanged_Achievements": "2024-01-03T17:06:31.0652078+00:00",
   "LastUpdate_AppInfo": "2023-12-28T16:57:08.7273878+00:00",
-  "LastUpdate_Ratings": "2024-01-03T15:59:55.7280519+00:00",
-  "LastUpdate_Achievements": "2024-01-03T16:05:41.3790252+00:00"
+  "LastUpdate_Ratings": "2024-01-03T17:00:44.666448+00:00",
+  "LastUpdate_Achievements": "2024-01-03T17:06:31.0652219+00:00"
 }

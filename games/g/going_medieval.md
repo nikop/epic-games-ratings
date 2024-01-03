@@ -6,23 +6,23 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 76.00% | ~5,864 |
-| Having A Field Day | 76.00% | ~5,864 |
+| Get A Room | 76.00% | ~5,865 |
+| Having A Field Day | 76.00% | ~5,865 |
 | Reap What You Sow | 73.00% | ~5,633 |
-| The First Day | 70.00% | ~5,401 |
-| Novice Researcher | 68.00% | ~5,247 |
+| The First Day | 70.00% | ~5,402 |
+| Novice Researcher | 68.00% | ~5,248 |
 | Green Thumb | 67.00% | ~5,170 |
-| Home Cooked Meal | 62.00% | ~4,784 |
-| Onward | 58.00% | ~4,475 |
-| The First Week | 56.00% | ~4,321 |
-| Studious Researcher | 53.00% | ~4,089 |
-| Beam Me Up | 52.00% | ~4,012 |
-| Adept Researcher | 45.00% | ~3,472 |
+| Home Cooked Meal | 62.00% | ~4,785 |
+| Onward | 58.00% | ~4,476 |
+| The First Week | 56.00% | ~4,322 |
+| Studious Researcher | 53.00% | ~4,090 |
+| Beam Me Up | 52.00% | ~4,013 |
+| Adept Researcher | 45.00% | ~3,473 |
 | Putting Food on the Table | 44.00% | ~3,395 |
 | Retribution | 43.00% | ~3,318 |
 | ...And Don’t Come Back! | 43.00% | ~3,318 |
 | Feast or Famine | 35.00% | ~2,701 |
-| Heating Up | 33.00% | ~2,546 |
+| Heating Up | 33.00% | ~2,547 |
 | Luminary Researcher | 30.00% | ~2,315 |
 | Winter Is Coming | 29.00% | ~2,238 |
 | Fit For A King | 26.00% | ~2,006 |
@@ -38,8 +38,8 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~154 |
 | Wabbit Season | 0.50% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,716 (Ranked 191)  
-Completed: 14 (0.18%) (Ranked 277)  
+Progressed: 7,717 (Ranked 191)  
+Completed: 14 (0.18%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -275,18 +275,18 @@ Completed: 14 (0.18%) (Ranked 277)
 | 2023-12-31 | 7,657 | 14 |
 | 2024-01-01 | 7,691 | 14 |
 | 2024-01-02 | 7,712 | 14 |
-| 2024-01-03 | 7,716 | 14 |
+| 2024-01-03 | 7,717 | 14 |
 ## Awards
 Max (Great for Beginners): 133  (Ranked 337)  
-Sum: 1,056 (Ranked 265)  
+Sum: 1,057 (Ranked 265)  
 Diff (max vs sum): 72  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 133 |
 | This game is Relaxing | 124 |
 | This game has Diverse Characters | 118 |
+| This game is Extremely Fun | 110 |
 | This game has Quickly Understood Controls | 109 |
-| This game is Extremely Fun | 109 |
 | This game is Highly Recommended | 106 |
 | This game has Amazing Characters | 102 |
 | This game has Amazing Storytelling | 89 |
@@ -470,4 +470,4 @@ Diff (max vs sum): 72
 | 2023-12-21 | 4.60 | - | 133 | 1,052 |
 | 2023-12-29 | 4.60 | - | 133 | 1,053 |
 | 2023-12-30 | 4.60 | - | 133 | 1,054 |
-| 2024-01-03 | 4.60 | - | 133 | 1,056 |
+| 2024-01-03 | 4.60 | - | 133 | 1,057 |

@@ -39,7 +39,7 @@ Rating: 4.56 (Ranked 503)
 | Escalation of Conflict | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,369 (Ranked 270)  
-Completed: 0 (0.00%) (Ranked 391)  
+Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -217,8 +217,8 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2024-01-02 | 1,363 | 0 |
 | 2024-01-03 | 1,369 | 0 |
 ## Awards
-Max (Character Customization): 26  (Ranked 540)  
-Sum: 26 (Ranked 551)  
+Max (Character Customization): 26  (Ranked 541)  
+Sum: 26 (Ranked 552)  
 Diff (max vs sum): -11  
 | Award | Count |
 | ----- | ----- |

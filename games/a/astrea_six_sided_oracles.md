@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 83.00% | ~256 |
-| Purification Pioneer | 79.00% | ~244 |
+| Meissa's Savior | 83.00% | ~257 |
+| Purification Pioneer | 79.00% | ~245 |
 | Mechanical Buddy | 73.00% | ~226 |
-| Dicesmithing Time! | 65.00% | ~201 |
-| Sanctuary Guardian | 56.00% | ~173 |
+| Dicesmithing Time! | 65.00% | ~202 |
+| Sanctuary Guardian | 56.00% | ~174 |
 | Endless Tricks | 51.00% | ~158 |
-| Wild's Keeper | 47.00% | ~145 |
-| Mind Illuminator | 45.00% | ~139 |
-| Stellar Dismantler | 37.00% | ~114 |
-| Noctuan Champion | 36.00% | ~111 |
+| Wild's Keeper | 47.00% | ~146 |
+| Mind Illuminator | 45.00% | ~140 |
+| Stellar Dismantler | 38.00% | ~118 |
+| Noctuan Champion | 35.00% | ~108 |
 | Astral Adventurer | 34.00% | ~105 |
 | Anomaly Destroyer | 32.00% | ~99 |
 | Star Killer | 29.00% | ~90 |
-| Eridanian Champion | 25.00% | ~77 |
+| Eridanian Champion | 25.00% | ~78 |
 | Loyal Partner | 21.00% | ~65 |
 | Lacertian Champion | 21.00% | ~65 |
+| Shard Spender | 19.00% | ~59 |
 | Apian Champion | 19.00% | ~59 |
-| Shard Spender | 18.00% | ~56 |
 | Unbeatable | 18.00% | ~56 |
-| Sadistic Plan | 16.00% | ~49 |
+| Sadistic Plan | 16.00% | ~50 |
 | Behenian Champion | 14.00% | ~43 |
 | Wave Bender | 10.00% | ~31 |
 | Aquarian Champion | 10.00% | ~31 |
@@ -34,12 +34,12 @@
 | The Corruption Goddess | 7.00% | ~22 |
 | The Goddes Avatar | 7.00% | ~22 |
 | Favored by the Cosmos | 6.00% | ~19 |
-| Anomaly Control | 5.00% | ~15 |
-| Artificer | 5.00% | ~15 |
-| Can't touch this | 5.00% | ~15 |
-| Prestidigitation | 5.00% | ~15 |
-| The Dark Moon | 5.00% | ~15 |
-| Apian Hero | 5.00% | ~15 |
+| Anomaly Control | 5.00% | ~16 |
+| Artificer | 5.00% | ~16 |
+| Can't touch this | 5.00% | ~16 |
+| Prestidigitation | 5.00% | ~16 |
+| The Dark Moon | 5.00% | ~16 |
+| Apian Hero | 5.00% | ~16 |
 | Astrarium of Holding | 4.00% | ~12 |
 | Denying Destiny | 4.00% | ~12 |
 | If I Had Failed... | 4.00% | ~12 |
@@ -103,8 +103,8 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 309 (Ranked 387)  
-Completed: 0 (0.00%) (Ranked 391)  
+Progressed: 310 (Ranked 387)  
+Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -172,4 +172,4 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-31 | 285 | 0 |
 | 2024-01-01 | 294 | 0 |
 | 2024-01-02 | 303 | 0 |
-| 2024-01-03 | 309 | 0 |
+| 2024-01-03 | 310 | 0 |

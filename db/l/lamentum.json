@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 409,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-05-12T16:00:00+00:00",
     "PcReleaseDate": "2021-08-28T00:00:00+00:00",
@@ -78,9 +78,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 343,
+  "EOS_Progressed": 344,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.62,
   "EosHistory": [
@@ -468,6 +468,11 @@
       "Time": "2024-01-03T00:07:32.8840403+00:00",
       "NumProgressed": 343,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-03T17:06:51.311045+00:00",
+      "NumProgressed": 344,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 19,
@@ -519,7 +524,7 @@
       "Name": "Bloodrush",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "achievement_06",
@@ -549,9 +554,9 @@
       "ID": "achievement_09",
       "SetID": "7881h0d",
       "Name": "Grau Hill",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 264
+      "UsersEstimate": 261
     },
     {
       "ID": "achievement_10",
@@ -559,7 +564,7 @@
       "Name": "The creature",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "achievement_11",
@@ -581,9 +586,9 @@
       "ID": "achievement_13",
       "SetID": "7881h0d",
       "Name": "One step down",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 89
     },
     {
       "ID": "achievement_14",
@@ -591,7 +596,7 @@
       "Name": "Lord Clayton",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "achievement_15",
@@ -615,7 +620,7 @@
       "Name": "Little Mary",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "achievement_18",
@@ -630,7 +635,7 @@
     {
       "ID": "7881h0d",
       "IsBase": true,
-      "Progressed": 343,
+      "Progressed": 344,
       "Completed": 9
     }
   ],
@@ -638,8 +643,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-12-19T15:00:52.3248594+00:00",
-  "LastChanged_Achievements": "2024-01-03T16:06:01.0126912+00:00",
+  "LastChanged_Achievements": "2024-01-03T17:06:51.3110444+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:31.5419716+00:00",
-  "LastUpdate_Ratings": "2024-01-03T16:00:15.516493+00:00",
-  "LastUpdate_Achievements": "2024-01-03T16:06:01.0127039+00:00"
+  "LastUpdate_Ratings": "2024-01-03T17:01:07.0576615+00:00",
+  "LastUpdate_Achievements": "2024-01-03T17:06:51.3110584+00:00"
 }

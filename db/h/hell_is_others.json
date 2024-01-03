@@ -6,9 +6,9 @@
   "Ranking_Popularity": 440,
   "Ranking_PopularitySum": 361,
   "Ranking_EOS_Progress": 67,
-  "Ranking_EOS_Completed": 391,
+  "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -1435,9 +1435,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 260166,
+  "EOS_Progressed": 260167,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 332,
+  "EOS_NewPlayers": 330,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26155,6 +26155,11 @@
       "Time": "2024-01-03T16:05:48.3502097+00:00",
       "NumProgressed": 260166,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-03T17:06:38.5216844+00:00",
+      "NumProgressed": 260167,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -26214,7 +26219,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80651
+      "UsersEstimate": 80652
     },
     {
       "ID": "BackHomeNTimes",
@@ -26254,7 +26259,7 @@
       "Name": "Arms dealer",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "CompleteBestiary",
@@ -26286,7 +26291,7 @@
       "Name": "Fixer III",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "CreedsInBank1",
@@ -26582,7 +26587,7 @@
       "Name": "AML questionnaire",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "TakeHomeNHearts",
@@ -26590,7 +26595,7 @@
       "Name": "Heartbreaker",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "UnlockAllAchievements",
@@ -26613,7 +26618,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 260166,
+      "Progressed": 260167,
       "Completed": 3
     }
   ],
@@ -26621,8 +26626,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2024-01-03T10:58:53.9365914+00:00",
-  "LastChanged_Achievements": "2024-01-03T16:05:48.3502094+00:00",
+  "LastChanged_Achievements": "2024-01-03T17:06:38.5216838+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:41.7689812+00:00",
-  "LastUpdate_Ratings": "2024-01-03T15:58:45.6601624+00:00",
-  "LastUpdate_Achievements": "2024-01-03T16:05:48.350376+00:00"
+  "LastUpdate_Ratings": "2024-01-03T16:59:29.9327164+00:00",
+  "LastUpdate_Achievements": "2024-01-03T17:06:38.5218624+00:00"
 }

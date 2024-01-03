@@ -7,12 +7,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Explorer | 1.00% | ~161 |
+| Intrepid | 1.00% | ~161 |
 | Settler | 1.00% | ~161 |
 | Friendly Family | 1.00% | ~161 |
 | Play a Single Player Game | 1.00% | ~161 |
-| Intrepid | 0.90% | ~145 |
+| Architect | 0.90% | ~145 |
 | Able | 0.80% | ~129 |
-| Architect | 0.80% | ~129 |
 | Good | 0.80% | ~129 |
 | Learned | 0.80% | ~129 |
 | Mason | 0.80% | ~129 |
@@ -27,6 +27,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Keystone | 0.70% | ~113 |
 | Pioneer | 0.70% | ~113 |
 | Developing Cities | 0.70% | ~113 |
+| Pyramids | 0.70% | ~113 |
 | Judaism | 0.70% | ~113 |
 | Greek Paganism | 0.70% | ~113 |
 | Naming Landmarks | 0.70% | ~113 |
@@ -37,7 +38,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Warrior | 0.60% | ~97 |
 | Strong Cities | 0.60% | ~97 |
 | Ishtar Gate | 0.60% | ~97 |
-| Pyramids | 0.60% | ~97 |
 | Learn to Play 1 | 0.60% | ~97 |
 | Christianity | 0.60% | ~97 |
 | Babylonian Paganism | 0.60% | ~97 |
@@ -66,6 +66,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 2 | 0.40% | ~64 |
 | Manichaeism | 0.40% | ~64 |
 | Egyptian Paganism | 0.40% | ~64 |
+| Building Wonders | 0.40% | ~64 |
 | Win a Single Player Game | 0.40% | ~64 |
 | Hanging Gardens in Babylon | 0.30% | ~48 |
 | Mighty | 0.30% | ~48 |
@@ -81,7 +82,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greece | 0.30% | ~48 |
 | Power to the People | 0.30% | ~48 |
 | Persian Paganism | 0.30% | ~48 |
-| Building Wonders | 0.30% | ~48 |
 | Economic Reform | 0.30% | ~48 |
 | Military Prestige | 0.30% | ~48 |
 | Mythology | 0.30% | ~48 |
@@ -107,6 +107,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 0.20% | ~32 |
 | Via Recta Souk | 0.20% | ~32 |
 | Babylonia | 0.20% | ~32 |
+| Carthage | 0.20% | ~32 |
 | Egypt | 0.20% | ~32 |
 | Assyrian Paganism | 0.20% | ~32 |
 | Industrial Progress | 0.20% | ~32 |
@@ -216,7 +217,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Merchants of the Levant | 0.10% | ~16 |
 | Realistic Mortality | 0.10% | ~16 |
 | Assyria | 0.10% | ~16 |
-| Carthage | 0.10% | ~16 |
 | Hatti | 0.10% | ~16 |
 | Persia | 0.10% | ~16 |
 | Rome | 0.10% | ~16 |
@@ -365,8 +365,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,103 (Ranked 166)  
-Completed: 5 (0.03%) (Ranked 349)  
+Progressed: 16,104 (Ranked 166)  
+Completed: 5 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -623,7 +623,7 @@ Completed: 5 (0.03%) (Ranked 349)
 | 2023-12-31 | 16,053 | 5 |
 | 2024-01-01 | 16,077 | 5 |
 | 2024-01-02 | 16,090 | 5 |
-| 2024-01-03 | 16,103 | 5 |
+| 2024-01-03 | 16,104 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 283)  
 Sum: 1,912 (Ranked 221)  

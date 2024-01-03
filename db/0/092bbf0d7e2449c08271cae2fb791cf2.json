@@ -4,8 +4,8 @@
   "ProductSlug": "chuchel-203808",
   "Ranking_EOS_Progress": 358,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
     "PcReleaseDate": "2018-03-07T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 415,
+  "EOS_Progressed": 417,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -1374,6 +1374,11 @@
       "Time": "2024-01-03T15:04:42.0359459+00:00",
       "NumProgressed": 415,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-03T17:04:31.3960414+00:00",
+      "NumProgressed": 417,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -1386,7 +1391,7 @@
       "Name": "Good Morning",
       "Percentage": 16,
       "XP": 145,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ach2",
@@ -1394,7 +1399,7 @@
       "Name": "Blabber",
       "Percentage": 49,
       "XP": 145,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "ach3",
@@ -1441,14 +1446,14 @@
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 415,
+      "Progressed": 417,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2024-01-03T16:03:45.1976478+00:00",
+  "LastChanged_Achievements": "2024-01-03T17:04:31.3960409+00:00",
   "LastUpdate_AppInfo": "2023-12-27T20:57:07.636228+00:00",
-  "LastUpdate_Ratings": "2024-01-03T15:59:03.5507265+00:00",
-  "LastUpdate_Achievements": "2024-01-03T16:03:45.1976635+00:00"
+  "LastUpdate_Ratings": "2024-01-03T16:59:48.6740345+00:00",
+  "LastUpdate_Achievements": "2024-01-03T17:04:31.3960564+00:00"
 }

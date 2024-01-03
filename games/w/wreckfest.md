@@ -9,7 +9,7 @@ Rating: 4.30 (Ranked 871)
 | Highballer | 49.00% | ~355 |
 | Dirty Roller | 34.00% | ~247 |
 | Regional Juniors Champion | 32.00% | ~232 |
-| Wheeler Dealer | 25.00% | ~181 |
+| Wheeler Dealer | 26.00% | ~188 |
 | Look Mom, I Can Fly | 24.00% | ~174 |
 | National Amateurs Champion | 18.00% | ~130 |
 | Junk Collector | 15.00% | ~109 |
@@ -27,7 +27,7 @@ Rating: 4.30 (Ranked 871)
 | Rocketeer | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 725 (Ranked 312)  
-Completed: 0 (0.00%) (Ranked 391)  
+Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

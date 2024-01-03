@@ -6,9 +6,9 @@
   "Ranking_Popularity": 283,
   "Ranking_PopularitySum": 221,
   "Ranking_EOS_Progress": 166,
-  "Ranking_EOS_Completed": 349,
-  "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_Completed": 350,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2208,9 +2208,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16103,
+  "EOS_Progressed": 16104,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18868,6 +18868,11 @@
       "Time": "2024-01-03T16:10:02.2665371+00:00",
       "NumProgressed": 16103,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-03T17:10:27.6690625+00:00",
+      "NumProgressed": 16104,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -19229,9 +19234,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_ARCHITECT",
       "SetID": "9201eeb",
       "Name": "Architect",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 145
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AVENGER",
@@ -19365,9 +19370,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_INTREPID",
       "SetID": "9201eeb",
       "Name": "Intrepid",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 145
+      "UsersEstimate": 161
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INVINCIBLE",
@@ -20341,9 +20346,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_PYRAMIDS",
       "SetID": "9201eeb",
       "Name": "Pyramids",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 113
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_VIA_RECTA_SOUK",
@@ -20493,9 +20498,9 @@
       "ID": "ACHIEVEMENT_NATION_CARTHAGE",
       "SetID": "7l38kb8",
       "Name": "Carthage",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_NATION_EGYPT",
@@ -20781,9 +20786,9 @@
       "ID": "ACHIEVEMENT_STAT_SEVEN_WONDERS",
       "SetID": "9201eeb",
       "Name": "Building Wonders",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 64
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_CITIES_CAPTURED",
@@ -21742,21 +21747,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16103,
+      "Progressed": 16104,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16103,
+      "Progressed": 16104,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-29T16:02:55.9624641+00:00",
-  "LastChanged_Achievements": "2024-01-03T16:10:02.2665367+00:00",
+  "LastChanged_Achievements": "2024-01-03T17:10:27.6690622+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:24.5452657+00:00",
-  "LastUpdate_Ratings": "2024-01-03T15:57:47.5875173+00:00",
-  "LastUpdate_Achievements": "2024-01-03T16:10:02.2675723+00:00"
+  "LastUpdate_Ratings": "2024-01-03T16:58:23.7340484+00:00",
+  "LastUpdate_Achievements": "2024-01-03T17:10:27.6701052+00:00"
 }

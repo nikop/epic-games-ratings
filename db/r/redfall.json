@@ -6,9 +6,9 @@
   "Ranking_Popularity": 572,
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 240,
-  "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_Completed": 392,
+  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -351,9 +351,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2234,
+  "EOS_Progressed": 2235,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3921,6 +3921,11 @@
       "Time": "2024-01-03T11:06:10.5786277+00:00",
       "NumProgressed": 2234,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T17:07:00.959968+00:00",
+      "NumProgressed": 2235,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3948,7 +3953,7 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "Achievement_004",
@@ -3980,7 +3985,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "Achievement_009",
@@ -3988,7 +3993,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "Achievement_010",
@@ -4068,7 +4073,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "Achievement_020",
@@ -4132,7 +4137,7 @@
       "Name": "Peek-a-boo",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "Achievement_028",
@@ -4459,7 +4464,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2234,
+      "Progressed": 2235,
       "Completed": 0
     }
   ],
@@ -4467,8 +4472,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-01T12:00:40.1847166+00:00",
-  "LastChanged_Achievements": "2024-01-03T16:06:09.9026605+00:00",
+  "LastChanged_Achievements": "2024-01-03T17:07:00.9599676+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.8280502+00:00",
-  "LastUpdate_Ratings": "2024-01-03T15:57:00.0830207+00:00",
-  "LastUpdate_Achievements": "2024-01-03T16:06:09.9027404+00:00"
+  "LastUpdate_Ratings": "2024-01-03T16:57:30.6413533+00:00",
+  "LastUpdate_Achievements": "2024-01-03T17:07:00.9600338+00:00"
 }

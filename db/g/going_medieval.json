@@ -6,9 +6,9 @@
   "Ranking_Popularity": 337,
   "Ranking_PopularitySum": 265,
   "Ranking_EOS_Progress": 191,
-  "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_Completed": 278,
+  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1581,10 +1581,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 1056,
       "NumberOfAwardsMax": 133
+    },
+    {
+      "Time": "2024-01-03T16:59:16.5112552+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 1057,
+      "NumberOfAwardsMax": 133
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1056,
+  "NumberOfAwards": 1057,
   "NumberOfAwardsMax": 133,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1610,7 +1616,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 109
+      "Count": 110
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1661,9 +1667,9 @@
       "Count": 78
     }
   ],
-  "EOS_Progressed": 7716,
+  "EOS_Progressed": 7717,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -16046,6 +16052,11 @@
       "Time": "2024-01-03T12:05:58.9445833+00:00",
       "NumProgressed": 7716,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-03T17:06:19.3765186+00:00",
+      "NumProgressed": 7717,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -16057,7 +16068,7 @@
       "Name": "Get A Room",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 5864
+      "UsersEstimate": 5865
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -16065,7 +16076,7 @@
       "Name": "Beam Me Up",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 4012
+      "UsersEstimate": 4013
     },
     {
       "ID": "DISMANTLE_ITEMS_5",
@@ -16097,7 +16108,7 @@
       "Name": "Having A Field Day",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 5864
+      "UsersEstimate": 5865
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -16177,7 +16188,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 62,
       "XP": 25,
-      "UsersEstimate": 4784
+      "UsersEstimate": 4785
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -16217,7 +16228,7 @@
       "Name": "The First Day",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 5401
+      "UsersEstimate": 5402
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -16233,7 +16244,7 @@
       "Name": "Heating Up",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2546
+      "UsersEstimate": 2547
     },
     {
       "ID": "SURVIVE_FIRST_WINTER",
@@ -16257,7 +16268,7 @@
       "Name": "The First Week",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4321
+      "UsersEstimate": 4322
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -16265,7 +16276,7 @@
       "Name": "Novice Researcher",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 5247
+      "UsersEstimate": 5248
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -16273,7 +16284,7 @@
       "Name": "Adept Researcher",
       "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 3472
+      "UsersEstimate": 3473
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -16289,7 +16300,7 @@
       "Name": "Onward",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 4475
+      "UsersEstimate": 4476
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -16297,22 +16308,22 @@
       "Name": "Studious Researcher",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 4089
+      "UsersEstimate": 4090
     }
   ],
   "AchievementSets": [
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 7716,
+      "Progressed": 7717,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
-  "LastChanged": "2024-01-03T14:59:28.5971989+00:00",
-  "LastChanged_Achievements": "2024-01-03T16:05:30.8018672+00:00",
+  "LastChanged": "2024-01-03T16:59:16.511255+00:00",
+  "LastChanged_Achievements": "2024-01-03T17:06:19.3765178+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:26.1002888+00:00",
-  "LastUpdate_Ratings": "2024-01-03T15:58:34.4576226+00:00",
-  "LastUpdate_Achievements": "2024-01-03T16:05:30.8019495+00:00"
+  "LastUpdate_Ratings": "2024-01-03T16:59:16.5112558+00:00",
+  "LastUpdate_Achievements": "2024-01-03T17:06:19.3765992+00:00"
 }

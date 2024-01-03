@@ -21,8 +21,8 @@ Number of Ratings: 116  (23.09.2022)
 | Devil's in the Details | 37.00% | ~149 |
 | Five's a Crowd | 37.00% | ~149 |
 | 25 to Life | 37.00% | ~149 |
+| Salvation | 36.00% | ~145 |
 | Soul Harvester | 35.00% | ~141 |
-| Salvation | 35.00% | ~141 |
 | Unshakable Fortitude | 34.00% | ~137 |
 | I Wanna Rock | 32.00% | ~129 |
 | Delusions of Grandeur | 32.00% | ~129 |
@@ -40,8 +40,8 @@ Number of Ratings: 116  (23.09.2022)
 | Demon Meddler | 20.00% | ~80 |
 | Seeing Red | 19.00% | ~76 |
 | Egomaniac | 17.00% | ~68 |
-| Protector of Humanity | 15.00% | ~60 |
-| Everybody Wants to Rule the World | 15.00% | ~60 |
+| Protector of Humanity | 16.00% | ~64 |
+| Everybody Wants to Rule the World | 16.00% | ~64 |
 | Community Outreach | 14.00% | ~56 |
 | A Parting Gift | 13.00% | ~52 |
 | Unbreakable Will | 11.00% | ~44 |
@@ -72,7 +72,7 @@ Number of Ratings: 116  (23.09.2022)
 | Beast Mode | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 402 (Ranked 360)  
-Completed: 1 (0.25%) (Ranked 263)  
+Completed: 1 (0.25%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

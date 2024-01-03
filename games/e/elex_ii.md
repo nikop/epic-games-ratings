@@ -12,8 +12,8 @@ Number of Ratings: 124  (23.09.2022)
 | Role Model | 24.00% | ~41 |
 | Festival-goer | 23.00% | ~39 |
 | Peddler | 21.00% | ~35 |
+| Creator | 21.00% | ~35 |
 | Military Leader | 20.00% | ~34 |
-| Creator | 20.00% | ~34 |
 | Commander | 17.00% | ~29 |
 | Irissa's Fate | 15.00% | ~25 |
 | Pass A38 | 14.00% | ~24 |
@@ -24,7 +24,7 @@ Number of Ratings: 124  (23.09.2022)
 | Family Reunion | 9.00% | ~15 |
 | Eternal Oblivion | 9.00% | ~15 |
 | Alb | 8.00% | ~14 |
-| Hunter | 6.00% | ~10 |
+| Hunter | 7.00% | ~12 |
 | Banker | 5.00% | ~8 |
 | Treasure Hunter | 5.00% | ~8 |
 | Hotshot | 5.00% | ~8 |
@@ -40,11 +40,11 @@ Number of Ratings: 124  (23.09.2022)
 | Weaponsmith | 2.00% | ~3 |
 | Idealist | 2.00% | ~3 |
 | Toy Time | 2.00% | ~3 |
-| Morkon | 1.00% | ~2 |
+| Morkon | 2.00% | ~3 |
+| Destroyer | 1.00% | ~2 |
 | Legendary | 1.00% | ~2 |
 | Defector | 0.60% | ~1 |
 | Outlaw | 0.60% | ~1 |
-| Destroyer | 0.60% | ~1 |
 | Ruthless | 0.60% | ~1 |
 | Pack Rat | 0.00% | ~0 |
 | Drinker | 0.00% | ~0 |
@@ -58,7 +58,7 @@ Number of Ratings: 124  (23.09.2022)
 | Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 169 (Ranked 437)  
-Completed: 0 (0.00%) (Ranked 391)  
+Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

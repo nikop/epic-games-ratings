@@ -3,9 +3,9 @@
   "Name": "Layers of Fear",
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 404,
-  "Ranking_EOS_Completed": 391,
+  "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -1361,9 +1361,9 @@
       "ID": "find_one_memento",
       "SetID": "f2im8d",
       "Name": "Scraps of love",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 127
     },
     {
       "ID": "find_one_photo",
@@ -1481,9 +1481,9 @@
       "ID": "piece_of_story",
       "SetID": "f2im8d",
       "Name": "A piece of the story",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 167
     },
     {
       "ID": "playtime",
@@ -1632,8 +1632,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-03T16:08:34.5867579+00:00",
+  "LastChanged_Achievements": "2024-01-03T17:08:56.1918262+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.7570027+00:00",
-  "LastUpdate_Ratings": "2024-01-03T15:58:29.9004863+00:00",
-  "LastUpdate_Achievements": "2024-01-03T16:08:34.5867994+00:00"
+  "LastUpdate_Ratings": "2024-01-03T16:59:12.5022442+00:00",
+  "LastUpdate_Achievements": "2024-01-03T17:08:56.1918928+00:00"
 }

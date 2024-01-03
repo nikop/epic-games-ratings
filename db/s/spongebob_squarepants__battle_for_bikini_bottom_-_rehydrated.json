@@ -5,10 +5,10 @@
   "Ranking_Rating": 321,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 526,
-  "Ranking_EOS_Progress": 320,
+  "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -329,11 +329,11 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 676,
+  "EOS_Progressed": 679,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 250,
+  "EOS_NewPlayers": 252,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 1.04,
+  "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
       "Time": "2023-12-18T11:05:17.4237079+00:00",
@@ -1844,6 +1844,11 @@
       "Time": "2024-01-03T16:04:01.6332985+00:00",
       "NumProgressed": 676,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-03T17:04:47.7442624+00:00",
+      "NumProgressed": 679,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1888,7 +1893,7 @@
       "Name": "Life\u0027s as extreme as you wanna make it!",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_DOWN_TOWN",
@@ -1934,9 +1939,9 @@
       "ID": "ACH_JELLYFISH_JAM",
       "SetID": "biiejkc",
       "Name": "Jellyfish Jam",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH_KELP_FOREST",
@@ -1960,7 +1965,7 @@
       "Name": "Shrimp Catcher",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_ROBO_PATRICK_BOSS",
@@ -1968,7 +1973,7 @@
       "Name": "Toxic Terror",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_ROBO_SANDY_BOSS",
@@ -1992,7 +1997,7 @@
       "Name": "Hit Rock Bottom",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_SLEEPY_TIME",
@@ -2062,9 +2067,9 @@
       "ID": "ACH_STAT_SPATULA_SEEKER",
       "SetID": "biiejkc",
       "Name": "Spatula Seeker",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 129
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -2072,7 +2077,7 @@
       "Name": "Sponge Smasher",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
@@ -2104,22 +2109,22 @@
       "Name": "Time For Tutorial",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     }
   ],
   "AchievementSets": [
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 676,
+      "Progressed": 679,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-01T20:58:26.8279253+00:00",
-  "LastChanged_Achievements": "2024-01-03T16:04:01.6332981+00:00",
+  "LastChanged_Achievements": "2024-01-03T17:04:47.744262+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:11.8880921+00:00",
-  "LastUpdate_Ratings": "2024-01-03T15:59:10.2733642+00:00",
-  "LastUpdate_Achievements": "2024-01-03T16:04:01.6333242+00:00"
+  "LastUpdate_Ratings": "2024-01-03T16:59:55.0125248+00:00",
+  "LastUpdate_Achievements": "2024-01-03T17:04:47.7442875+00:00"
 }

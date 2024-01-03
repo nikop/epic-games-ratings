@@ -34,8 +34,8 @@ Number of Ratings: 190  (23.09.2022)
 | Welcome to the land of vamp… chamois! | 0.00% | ~0 |
 | Worth the View | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,829 (Ranked 252)  
-Completed: 0 (0.00%) (Ranked 391)  
+Progressed: 1,832 (Ranked 252)  
+Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -60,7 +60,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-31 | 1,664 | 0 |
 | 2024-01-01 | 1,738 | 0 |
 | 2024-01-02 | 1,793 | 0 |
-| 2024-01-03 | 1,829 | 0 |
+| 2024-01-03 | 1,832 | 0 |
 ## Awards
 Max (Highly Recommended): 62  (Ranked 423)  
 Sum: 368 (Ranked 363)  

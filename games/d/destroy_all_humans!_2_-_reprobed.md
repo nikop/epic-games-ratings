@@ -6,11 +6,11 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 81.00% | ~242 |
-| Mash Machine | 75.00% | ~224 |
-| Ducks in a Row, Fish in a Barrel | 54.00% | ~161 |
+| Rock of the Bay | 81.00% | ~243 |
+| Mash Machine | 75.00% | ~225 |
+| Ducks in a Row, Fish in a Barrel | 54.00% | ~162 |
 | Furon Fashion | 49.00% | ~147 |
-| Shop Til They Drop | 40.00% | ~120 |
+| Shop Til They Drop | 41.00% | ~123 |
 | Bodied Sattva | 38.00% | ~114 |
 | Cult Following | 35.00% | ~105 |
 | Earthly Pleasures | 35.00% | ~105 |
@@ -22,7 +22,7 @@ Number of Ratings: 90  (23.09.2022)
 | Die Nasty | 18.00% | ~54 |
 | Perfect Probulator | 17.00% | ~51 |
 | Transmitting From Sol-3 | 15.00% | ~45 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 11.00% | ~33 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 12.00% | ~36 |
 | Fly Me to the Moon Base | 9.00% | ~27 |
 | Kaijuiced | 9.00% | ~27 |
 | Dusted | 8.00% | ~24 |
@@ -45,14 +45,14 @@ Number of Ratings: 90  (23.09.2022)
 | Hidden Human Hive Harvest | 0.70% | ~2 |
 | Albion Bridge Is for Falling Down | 0.70% | ~2 |
 | To Russia With Love | 0.70% | ~2 |
+| Path of the Furon | 0.70% | ~2 |
 | Toilet Break | 0.30% | ~1 |
 | Ouch of Body Experience | 0.30% | ~1 |
 | Steezy Down the Spine | 0.30% | ~1 |
-| Path of the Furon | 0.30% | ~1 |
 | Trans-Siberian Express | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 299 (Ranked 392)  
-Completed: 1 (0.33%) (Ranked 243)  
+Progressed: 300 (Ranked 391)  
+Completed: 1 (0.33%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -89,7 +89,7 @@ Completed: 1 (0.33%) (Ranked 243)
 | 2023-12-31 | 268 | 1 |
 | 2024-01-01 | 279 | 1 |
 | 2024-01-02 | 291 | 1 |
-| 2024-01-03 | 299 | 1 |
+| 2024-01-03 | 300 | 1 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 494)  
 Sum: 36 (Ranked 526)  

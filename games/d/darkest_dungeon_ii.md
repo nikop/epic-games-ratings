@@ -6,8 +6,8 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 12.00% | ~762 |
-| Lost and Found | 8.00% | ~508 |
+| Malpractice Assurance | 12.00% | ~763 |
+| Lost and Found | 8.00% | ~509 |
 | This Belongs in a Museum | 6.00% | ~7,889 |
 | Autodidact | 6.00% | ~7,889 |
 | This guy... again? | 6.00% | ~381 |
@@ -17,37 +17,37 @@ Number of Ratings: 7,767  (23.09.2022)
 | Catch and Decease | 5.00% | ~6,574 |
 | Overdue Notice | 5.00% | ~6,574 |
 | Escape from the Black Hole | 5.00% | ~6,574 |
-| Ploughshares to Swords | 5.00% | ~317 |
-| Bloody Graduation | 5.00% | ~317 |
-| Don't Make Me Turn This Coach Around | 4.00% | ~5,259 |
-| It Rings a Bell | 4.00% | ~5,259 |
-| Not Today! | 4.00% | ~5,259 |
-| It Happens | 4.00% | ~5,259 |
-| Rush Hour | 4.00% | ~5,259 |
-| Merry Time | 4.00% | ~5,259 |
-| Harvest Festival | 4.00% | ~5,259 |
-| To Grandmother's House | 4.00% | ~5,259 |
-| Whale | 4.00% | ~5,259 |
-| A Place to Lay Your Head | 4.00% | ~5,259 |
-| FNG | 4.00% | ~5,259 |
-| Nope | 4.00% | ~5,259 |
+| Ploughshares to Swords | 5.00% | ~318 |
+| Bloody Graduation | 5.00% | ~318 |
+| Don't Make Me Turn This Coach Around | 4.00% | ~5,260 |
+| It Rings a Bell | 4.00% | ~5,260 |
+| Not Today! | 4.00% | ~5,260 |
+| It Happens | 4.00% | ~5,260 |
+| Rush Hour | 4.00% | ~5,260 |
+| Merry Time | 4.00% | ~5,260 |
+| Harvest Festival | 4.00% | ~5,260 |
+| To Grandmother's House | 4.00% | ~5,260 |
+| Whale | 4.00% | ~5,260 |
+| A Place to Lay Your Head | 4.00% | ~5,260 |
+| FNG | 4.00% | ~5,260 |
+| Nope | 4.00% | ~5,260 |
 | Friends 'Til the End | 4.00% | ~254 |
-| Resurrection | 3.00% | ~3,944 |
-| Unleash Hell | 3.00% | ~3,944 |
-| Funny Guy | 3.00% | ~3,944 |
-| Long Live the King | 3.00% | ~3,944 |
-| Wyrdly Reconstructed | 3.00% | ~3,944 |
-| Boxcar Kid | 3.00% | ~3,944 |
-| Unfulfilled Desires | 3.00% | ~3,944 |
-| Dissector | 3.00% | ~3,944 |
-| Banishment | 3.00% | ~3,944 |
-| Deprogramming | 3.00% | ~3,944 |
-| Now Stay Dead | 3.00% | ~3,944 |
-| Spelunker | 3.00% | ~3,944 |
-| Ramble On | 3.00% | ~3,944 |
-| A Clear Conscience | 3.00% | ~3,944 |
-| Unshackled | 3.00% | ~3,944 |
-| Road Trip | 3.00% | ~3,944 |
+| Resurrection | 3.00% | ~3,945 |
+| Unleash Hell | 3.00% | ~3,945 |
+| Funny Guy | 3.00% | ~3,945 |
+| Long Live the King | 3.00% | ~3,945 |
+| Wyrdly Reconstructed | 3.00% | ~3,945 |
+| Boxcar Kid | 3.00% | ~3,945 |
+| Unfulfilled Desires | 3.00% | ~3,945 |
+| Dissector | 3.00% | ~3,945 |
+| Banishment | 3.00% | ~3,945 |
+| Deprogramming | 3.00% | ~3,945 |
+| Now Stay Dead | 3.00% | ~3,945 |
+| Spelunker | 3.00% | ~3,945 |
+| Ramble On | 3.00% | ~3,945 |
+| A Clear Conscience | 3.00% | ~3,945 |
+| Unshackled | 3.00% | ~3,945 |
+| Road Trip | 3.00% | ~3,945 |
 | This Looks Familiar | 2.00% | ~2,630 |
 | Hope Rekindled | 2.00% | ~2,630 |
 | Predator | 2.00% | ~2,630 |
@@ -62,8 +62,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Shrine of Reflection | 1.00% | ~1,315 |
 | Handled | 1.00% | ~1,315 |
 | Body of Work | 1.00% | ~1,315 |
-| Slap on the Wrist | 1.00% | ~63 |
-| For Old Time' Sake | 1.00% | ~63 |
+| Slap on the Wrist | 1.00% | ~64 |
+| For Old Time' Sake | 1.00% | ~64 |
 | Clearing the Ledger | 0.90% | ~1,183 |
 | Hat Trick | 0.80% | ~1,052 |
 | Triage | 0.80% | ~1,052 |
@@ -86,8 +86,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,480 (Ranked 90)  
-Completed: 3 (0.00%) (Ranked 391)  
+Progressed: 131,488 (Ranked 91)  
+Completed: 3 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -334,7 +334,7 @@ Completed: 3 (0.00%) (Ranked 391)
 | 2023-12-31 | 131,026 | 3 |
 | 2024-01-01 | 131,206 | 3 |
 | 2024-01-02 | 131,365 | 3 |
-| 2024-01-03 | 131,480 | 3 |
+| 2024-01-03 | 131,488 | 3 |
 ## Awards
 Max (Character Customization): 7,940  (Ranked 50)  
 Sum: 21,372 (Ranked 58)  

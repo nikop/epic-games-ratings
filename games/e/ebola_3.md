@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fright ✔ | 58.00% | ~183 |
+| Fright ✔ | 58.00% | ~184 |
 | Chest ✔ | 54.00% | ~171 |
-| Inventory ✔ | 53.00% | ~167 |
-| Police officers ✔ | 28.00% | ~88 |
+| Inventory ✔ | 53.00% | ~168 |
+| Police officers ✔ | 28.00% | ~89 |
 | Mutation ✔ | 26.00% | ~82 |
-| Doberman ✔ | 15.00% | ~47 |
+| Doberman ✔ | 15.00% | ~48 |
 | Weapon ✔ | 11.00% | ~35 |
 | Chess ✔ | 10.00% | ~32 |
-| Master of Unlocking ✔ | 9.00% | ~28 |
+| Master of Unlocking ✔ | 9.00% | ~29 |
 | Survival ✔ | 8.00% | ~25 |
 | Hospital ✔ | 8.00% | ~25 |
 | Thirst ✔ | 8.00% | ~25 |
@@ -35,14 +35,14 @@
 | City on fire ✔ | 4.00% | ~13 |
 | Infected ✔ | 4.00% | ~13 |
 | Broadcasting ✔ | 4.00% | ~13 |
-| Crocodile Attack ✔ | 3.00% | ~9 |
-| Secret ✔ | 3.00% | ~9 |
-| Boss 2 ✔ | 3.00% | ~9 |
-| Osipov's video message ✔ | 3.00% | ~9 |
-| Priest ✔ | 3.00% | ~9 |
-| Rank B+ ✔ | 3.00% | ~9 |
-| Rank A ✔ | 3.00% | ~9 |
-| Boss 3 ✔ | 3.00% | ~9 |
+| Crocodile Attack ✔ | 3.00% | ~10 |
+| Secret ✔ | 3.00% | ~10 |
+| Boss 2 ✔ | 3.00% | ~10 |
+| Osipov's video message ✔ | 3.00% | ~10 |
+| Priest ✔ | 3.00% | ~10 |
+| Rank B+ ✔ | 3.00% | ~10 |
+| Rank A ✔ | 3.00% | ~10 |
+| Boss 3 ✔ | 3.00% | ~10 |
 | Car ✔ | 2.00% | ~6 |
 | Seeker One ✔ | 2.00% | ~6 |
 | Seeker Three ✔ | 2.00% | ~6 |
@@ -55,8 +55,8 @@
 | Seeker Two ✔ | 0.30% | ~1 |
 | Rank A+ ✔ | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 316 (Ranked 383)  
-Completed: 0 (0.00%) (Ranked 391)  
+Progressed: 317 (Ranked 383)  
+Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -162,7 +162,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-31 | 310 | 0 |
 | 2024-01-01 | 311 | 0 |
 | 2024-01-02 | 312 | 0 |
-| 2024-01-03 | 316 | 0 |
+| 2024-01-03 | 317 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

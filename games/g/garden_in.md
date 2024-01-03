@@ -4,40 +4,40 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Greener Day | 0.90% | ~2 |
-| A Sad Moment | 0.90% | ~2 |
-| Hands in the Dirt | 0.90% | ~2 |
-| Master Gardener | 0.90% | ~2 |
-| #NewFilter | 0.90% | ~2 |
-| Taking Notes | 0.90% | ~2 |
-| Balcony Optimizer | 0.50% | ~1 |
-| Budding Scientist | 0.50% | ~1 |
-| Dry No More | 0.50% | ~1 |
-| Feet in the Water | 0.50% | ~1 |
-| Food for Insects | 0.50% | ~1 |
-| Head in the Clouds | 0.50% | ~1 |
-| Lab-Room | 0.50% | ~1 |
-| Landlord | 0.50% | ~1 |
-| Leave My Baby Alone! | 0.50% | ~1 |
-| Let's Go for a Walk | 0.50% | ~1 |
-| Pet Pet Pet | 0.50% | ~1 |
-| Pottery Connoisseur | 0.50% | ~1 |
-| Research Complete | 0.50% | ~1 |
-| Room Revealer | 0.50% | ~1 |
-| Seed of Love | 0.50% | ~1 |
-| Spray Spray Spray | 0.50% | ~1 |
-| The Best One | 0.50% | ~1 |
-| The Mendel Experiment | 0.50% | ~1 |
-| Time for Renovations | 0.50% | ~1 |
-| Water Water Water | 0.50% | ~1 |
-| Weeds Have Feelings Too | 0.50% | ~1 |
-| Who's a Good Plant? | 0.50% | ~1 |
-| Love and Science | 0.00% | ~0 |
-| Perfectionist | 0.00% | ~0 |
-| Say Cheese! | 0.00% | ~0 |
+| A Greener Day | 2.00% | ~4 |
+| A Sad Moment | 2.00% | ~4 |
+| Hands in the Dirt | 2.00% | ~4 |
+| Master Gardener | 2.00% | ~4 |
+| #NewFilter | 2.00% | ~4 |
+| Taking Notes | 2.00% | ~4 |
+| Balcony Optimizer | 1.00% | ~2 |
+| Budding Scientist | 1.00% | ~2 |
+| Dry No More | 1.00% | ~2 |
+| Feet in the Water | 1.00% | ~2 |
+| Food for Insects | 1.00% | ~2 |
+| Head in the Clouds | 1.00% | ~2 |
+| Lab-Room | 1.00% | ~2 |
+| Landlord | 1.00% | ~2 |
+| Leave My Baby Alone! | 1.00% | ~2 |
+| Let's Go for a Walk | 1.00% | ~2 |
+| Pet Pet Pet | 1.00% | ~2 |
+| Pottery Connoisseur | 1.00% | ~2 |
+| Research Complete | 1.00% | ~2 |
+| Room Revealer | 1.00% | ~2 |
+| Seed of Love | 1.00% | ~2 |
+| Spray Spray Spray | 1.00% | ~2 |
+| The Best One | 1.00% | ~2 |
+| The Mendel Experiment | 1.00% | ~2 |
+| Time for Renovations | 1.00% | ~2 |
+| Water Water Water | 1.00% | ~2 |
+| Weeds Have Feelings Too | 1.00% | ~2 |
+| Who's a Good Plant? | 1.00% | ~2 |
+| Love and Science | 0.90% | ~2 |
+| Perfectionist | 0.90% | ~2 |
+| Say Cheese! | 0.90% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 212 (Ranked 423)  
-Completed: 0 (0.00%) (Ranked 391)  
+Completed: 1 (0.47%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -100,6 +100,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-21 | 209 | 0 |
 | 2023-12-22 | 210 | 0 |
 | 2023-12-25 | 212 | 0 |
+| 2024-01-03 | 212 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

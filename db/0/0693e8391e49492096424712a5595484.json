@@ -4,7 +4,7 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 695,
+  "EOS_Progressed": 696,
   "EOS_Completed": 53,
   "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 7.63,
+  "EOS_Completed_Percentage": 7.61,
   "EosHistory": [
     {
       "Time": "2023-06-13T12:01:22.5999936+00:00",
@@ -2834,6 +2834,11 @@
       "Time": "2024-01-02T21:03:41.512359+00:00",
       "NumProgressed": 695,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2024-01-03T17:04:26.6828874+00:00",
+      "NumProgressed": 696,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 45,
@@ -2877,7 +2882,7 @@
       "Name": "Ouch!",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "BearPoppiesBroth",
@@ -2917,7 +2922,7 @@
       "Name": "Tasty Alms",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "BeggarWomanHut",
@@ -2925,7 +2930,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "BroomAmanita",
@@ -2949,15 +2954,15 @@
       "Name": "Deal with the Devil",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "DevilRope",
       "SetID": "db30heh",
       "Name": "The Devil is My Friend",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 500
+      "UsersEstimate": 494
     },
     {
       "ID": "Drunkard",
@@ -2989,7 +2994,7 @@
       "Name": "Funny Hobo",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "FerrymanBird",
@@ -3005,7 +3010,7 @@
       "Name": "Do Not Disturb",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "HastrmanAmanita",
@@ -3037,7 +3042,7 @@
       "Name": "Flower",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "KingDiamond",
@@ -3077,7 +3082,7 @@
       "Name": "Zonked",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "PriestRogue",
@@ -3093,7 +3098,7 @@
       "Name": "Rummy",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "Priestess",
@@ -3101,7 +3106,7 @@
       "Name": "Blessed",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "PrincessThrone",
@@ -3117,7 +3122,7 @@
       "Name": "Treasure Chest",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "RogueEat",
@@ -3125,7 +3130,7 @@
       "Name": "Debt Free",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "RogueKing",
@@ -3133,7 +3138,7 @@
       "Name": "Long Live The King",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "RogueNaked",
@@ -3149,7 +3154,7 @@
       "Name": "In Good Spirits",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "SleepingBasiliskAmanita",
@@ -3181,7 +3186,7 @@
       "Name": "Precious Barter",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "SwordMoneyBag",
@@ -3204,14 +3209,14 @@
     {
       "ID": "db30heh",
       "IsBase": true,
-      "Progressed": 695,
+      "Progressed": 696,
       "Completed": 53
     }
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2024-01-03T16:03:40.3148224+00:00",
+  "LastChanged_Achievements": "2024-01-03T17:04:26.6828869+00:00",
   "LastUpdate_AppInfo": "2024-01-03T02:57:24.0507598+00:00",
-  "LastUpdate_Ratings": "2024-01-03T15:58:14.4030952+00:00",
-  "LastUpdate_Achievements": "2024-01-03T16:03:40.314865+00:00"
+  "LastUpdate_Ratings": "2024-01-03T16:58:55.1870843+00:00",
+  "LastUpdate_Achievements": "2024-01-03T17:04:26.6829271+00:00"
 }

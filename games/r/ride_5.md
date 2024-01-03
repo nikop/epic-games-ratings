@@ -1,22 +1,22 @@
 # RIDE 5
 [Store](https://store.epicgames.com/en-US/p/ride-5)  
 [View Rawdata](../../db/r/ride_5.json)  
-Rating: 4.46 (Ranked 672)  
+Rating: 4.46 (Ranked 671)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 48.00% | ~1,555 |
-| First Love | 45.00% | ~1,458 |
-| Clean Race | 44.00% | ~1,426 |
-| Hear That Roar! | 41.00% | ~1,328 |
-| Bitter Rivalry | 30.00% | ~972 |
-| Rivals to the End | 30.00% | ~972 |
-| Champagne Spray | 28.00% | ~907 |
-| We're Going to Need a Bigger Garage | 26.00% | ~842 |
+| Eat My Dust | 48.00% | ~1,557 |
+| First Love | 45.00% | ~1,459 |
+| Clean Race | 44.00% | ~1,427 |
+| Hear That Roar! | 41.00% | ~1,330 |
+| Bitter Rivalry | 30.00% | ~973 |
+| Rivals to the End | 30.00% | ~973 |
+| Champagne Spray | 28.00% | ~908 |
+| We're Going to Need a Bigger Garage | 26.00% | ~843 |
 | Quick Pit Stop | 22.00% | ~713 |
-| I Want One Too! | 21.00% | ~680 |
-| Restored and Ready | 20.00% | ~648 |
-| Legendary!!! | 20.00% | ~648 |
+| I Want One Too! | 21.00% | ~681 |
+| Restored and Ready | 20.00% | ~649 |
+| Legendary!!! | 20.00% | ~649 |
 | Go-Faster Stripes | 17.00% | ~551 |
 | I'm Here Too! | 15.00% | ~486 |
 | We've Just Begun | 14.00% | ~454 |
@@ -55,8 +55,8 @@ Rating: 4.46 (Ranked 672)
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,240 (Ranked 224)  
-Completed: 0 (0.00%) (Ranked 391)  
+Progressed: 3,243 (Ranked 224)  
+Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -179,7 +179,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-31 | 3,170 | 0 |
 | 2024-01-01 | 3,195 | 0 |
 | 2024-01-02 | 3,224 | 0 |
-| 2024-01-03 | 3,240 | 0 |
+| 2024-01-03 | 3,243 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

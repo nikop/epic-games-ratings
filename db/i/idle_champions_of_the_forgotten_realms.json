@@ -6,8 +6,8 @@
   "Ranking_Popularity": 72,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 70,
-  "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 45,
+  "Ranking_EOS_Completed": 169,
+  "Ranking_EOS_NewPlayers": 46,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9289,10 +9289,10 @@
       "Count": 3622
     }
   ],
-  "EOS_Progressed": 250424,
+  "EOS_Progressed": 250460,
   "EOS_Completed": 2588,
-  "EOS_NewPlayers": 5180,
-  "EOS_NewCompleters": 22,
+  "EOS_NewPlayers": 5168,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -38519,6 +38519,11 @@
       "Time": "2024-01-03T16:10:03.4981619+00:00",
       "NumProgressed": 250424,
       "NumCompleted": 2588
+    },
+    {
+      "Time": "2024-01-03T17:10:28.9390016+00:00",
+      "NumProgressed": 250460,
+      "NumCompleted": 2588
     }
   ],
   "TotalAchievements": 546,
@@ -38530,7 +38535,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7513
+      "UsersEstimate": 7514
     },
     {
       "ID": "objective_completed_10",
@@ -38898,7 +38903,7 @@
       "Name": "Beast Intentions",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2504
+      "UsersEstimate": 2505
     },
     {
       "ID": "objective_completed_110",
@@ -40202,7 +40207,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2504
+      "UsersEstimate": 2505
     },
     {
       "ID": "objective_completed_34",
@@ -41674,7 +41679,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2504
+      "UsersEstimate": 2505
     },
     {
       "ID": "objective_completed_70",
@@ -42850,7 +42855,7 @@
       "Name": "The Overgrown Grove",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1083
+      "UsersEstimate": 1084
     },
     {
       "ID": "objective_completed_673",
@@ -42874,7 +42879,7 @@
       "Name": "Mental Gymnastics",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1083
+      "UsersEstimate": 1084
     },
     {
       "ID": "objective_completed_860",
@@ -42897,21 +42902,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 216698,
+      "Progressed": 216734,
       "Completed": 4129
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 250424,
+      "Progressed": 250460,
       "Completed": 2588
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-02T20:58:24.5866544+00:00",
-  "LastChanged_Achievements": "2024-01-03T16:10:03.4981614+00:00",
+  "LastChanged_Achievements": "2024-01-03T17:10:28.939001+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-03T15:58:28.4995428+00:00",
-  "LastUpdate_Achievements": "2024-01-03T16:10:03.5006209+00:00"
+  "LastUpdate_Ratings": "2024-01-03T16:59:11.0547553+00:00",
+  "LastUpdate_Achievements": "2024-01-03T17:10:28.9414044+00:00"
 }

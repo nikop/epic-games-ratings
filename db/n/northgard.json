@@ -4,11 +4,11 @@
   "ProductSlug": "northgard",
   "Ranking_Rating": 260,
   "Ranking_Popularity": 491,
-  "Ranking_PopularitySum": 422,
+  "Ranking_PopularitySum": 421,
   "Ranking_EOS_Progress": 820,
-  "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_Completed": 392,
+  "Ranking_EOS_NewPlayers": 568,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-07-21T14:00:00+00:00",
     "PcReleaseDate": "2021-07-21T14:00:00+00:00",
@@ -556,10 +556,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 189,
       "NumberOfAwardsMax": 37
+    },
+    {
+      "Time": "2024-01-03T17:03:29.6529554+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 190,
+      "NumberOfAwardsMax": 37
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 189,
+  "NumberOfAwards": 190,
   "NumberOfAwardsMax": 37,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -609,7 +615,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 20
+      "Count": 21
     }
   ],
   "EOS_Progressed": 0,
@@ -623,8 +629,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:06.911042+00:00",
-  "LastChanged": "2023-12-30T09:03:05.7826468+00:00",
+  "LastChanged": "2024-01-03T17:03:29.6529552+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:23.0053942+00:00",
-  "LastUpdate_Ratings": "2024-01-03T16:02:48.2902279+00:00",
-  "LastUpdate_Achievements": "2024-01-03T16:06:03.6306458+00:00"
+  "LastUpdate_Ratings": "2024-01-03T17:03:29.6529558+00:00",
+  "LastUpdate_Achievements": "2024-01-03T17:06:54.0586329+00:00"
 }

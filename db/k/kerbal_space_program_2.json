@@ -3,12 +3,12 @@
   "Name": "Kerbal Space Program 2",
   "ProductSlug": "kerbal-space-program-2",
   "Ranking_Rating": 941,
-  "Ranking_Popularity": 477,
+  "Ranking_Popularity": 475,
   "Ranking_PopularitySum": 376,
   "Ranking_EOS_Progress": 820,
-  "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_Completed": 392,
+  "Ranking_EOS_NewPlayers": 568,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-02-24T14:00:00+00:00",
     "PcReleaseDate": "2023-02-24T14:00:00+00:00",
@@ -1013,11 +1013,17 @@
       "Rating": 4.22,
       "NumberOfAwards": 312,
       "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2024-01-03T17:03:54.0762413+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 314,
+      "NumberOfAwardsMax": 42
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 312,
-  "NumberOfAwardsMax": 40,
+  "NumberOfAwards": 314,
+  "NumberOfAwardsMax": 42,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
@@ -1054,7 +1060,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 40
+      "Count": 42
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1093,8 +1099,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-24T16:58:34.691796+00:00",
   "FirstSeenRating": "2023-02-27T02:15:09.7091148+00:00",
-  "LastChanged": "2024-01-03T15:03:55.9872971+00:00",
+  "LastChanged": "2024-01-03T17:03:54.0762411+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:57:02.5659121+00:00",
-  "LastUpdate_Ratings": "2024-01-03T16:03:10.1760732+00:00",
-  "LastUpdate_Achievements": "2024-01-03T16:04:30.4023286+00:00"
+  "LastUpdate_Ratings": "2024-01-03T17:03:54.0762416+00:00",
+  "LastUpdate_Achievements": "2024-01-03T17:05:17.7593043+00:00"
 }

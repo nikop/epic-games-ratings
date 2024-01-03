@@ -5,23 +5,23 @@ Rating: 4.54 (Ranked 544)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~14,710 |
-| Pay 'n' Spray | 50.00% | ~9,080 |
-| All Dressed Up for San Fierro | 25.00% | ~4,540 |
+| Getting Started | 81.00% | ~14,714 |
+| Pay 'n' Spray | 50.00% | ~9,082 |
+| All Dressed Up for San Fierro | 25.00% | ~4,541 |
 | The American Dream | 19.00% | ~3,451 |
-| School's Out | 18.00% | ~3,269 |
-| Smooth Moves | 17.00% | ~3,087 |
-| Today Was a Good Day | 15.00% | ~2,724 |
+| School's Out | 18.00% | ~3,270 |
+| Smooth Moves | 17.00% | ~3,088 |
+| Today Was a Good Day | 15.00% | ~2,725 |
 | What happens in Las Venturas... | 14.00% | ~2,543 |
 | Horror of the Santa Maria | 10.00% | ~1,816 |
-| Liberty City State of Mind | 9.00% | ~1,634 |
+| Liberty City State of Mind | 9.00% | ~1,635 |
 | Original Gangster | 8.00% | ~1,453 |
-| With Extra Dip | 7.00% | ~1,271 |
-| The End of the Line | 7.00% | ~1,271 |
+| With Extra Dip | 7.00% | ~1,272 |
+| The End of the Line | 7.00% | ~1,272 |
 | Saviour | 6.00% | ~1,090 |
 | Rescue a Kitten Too? | 5.00% | ~908 |
-| They Can’t Stop All of Us | 4.00% | ~726 |
-| What are the Odds | 4.00% | ~726 |
+| They Can’t Stop All of Us | 4.00% | ~727 |
+| What are the Odds | 4.00% | ~727 |
 | Bike or Biker | 3.00% | ~545 |
 | What the City Needs | 3.00% | ~545 |
 | A Legitimate Business | 2.00% | ~363 |
@@ -41,8 +41,8 @@ Rating: 4.54 (Ranked 544)
 | ...Here we go again | 0.50% | ~91 |
 | I Ain't No Buster | 0.40% | ~73 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,161 (Ranked 157)  
-Completed: 70 (0.39%) (Ranked 233)  
+Progressed: 18,165 (Ranked 157)  
+Completed: 70 (0.39%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -299,10 +299,10 @@ Completed: 70 (0.39%) (Ranked 233)
 | 2023-12-31 | 17,792 | 67 |
 | 2024-01-01 | 17,956 | 69 |
 | 2024-01-02 | 18,093 | 70 |
-| 2024-01-03 | 18,161 | 70 |
+| 2024-01-03 | 18,165 | 70 |
 ## Awards
 Max (Amazing Characters): 50  (Ranked 452)  
-Sum: 328 (Ranked 373)  
+Sum: 330 (Ranked 373)  
 Diff (max vs sum): 79  
 | Award | Count |
 | ----- | ----- |
@@ -314,7 +314,7 @@ Diff (max vs sum): 79
 | This game is Highly Recommended | 42 |
 | This game has Quickly Understood Controls | 35 |
 | This game has Diverse Characters | 34 |
-| This game is Extremely Fun | 31 |
+| This game is Extremely Fun | 33 |
 | This game has a Creative Community | 29 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -538,4 +538,4 @@ Diff (max vs sum): 79
 | 2023-12-31 | 4.55 | 557 | 871 |
 | 2024-01-01 | 4.55 | 49 | 320 |
 | 2024-01-02 | 4.55 | 49 | 324 |
-| 2024-01-03 | 4.55 | 50 | 328 |
+| 2024-01-03 | 4.55 | 50 | 330 |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 578,
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 231,
-  "Ranking_EOS_Completed": 318,
+  "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -397,7 +397,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2589,
+  "EOS_Progressed": 2591,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 573,
   "EOS_NewCompleters": 0,
@@ -4257,6 +4257,11 @@
       "Time": "2024-01-03T16:09:44.0896466+00:00",
       "NumProgressed": 2589,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-03T17:10:09.1323359+00:00",
+      "NumProgressed": 2591,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -4269,7 +4274,7 @@
       "Name": "Unforeseen",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 2278
+      "UsersEstimate": 2280
     },
     {
       "ID": "achievement_10",
@@ -4283,9 +4288,9 @@
       "ID": "achievement_11",
       "SetID": "18al4io",
       "Name": "The Means to Save It",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 414
+      "UsersEstimate": 440
     },
     {
       "ID": "achievement_12",
@@ -4293,7 +4298,7 @@
       "Name": "Resilience to Sin",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "achievement_13",
@@ -4301,7 +4306,7 @@
       "Name": "A Familiar Nest",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "achievement_14",
@@ -4349,7 +4354,7 @@
       "Name": "Socialite",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "achievement_2",
@@ -4357,7 +4362,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 2097
+      "UsersEstimate": 2099
     },
     {
       "ID": "achievement_20",
@@ -4413,7 +4418,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1786
+      "UsersEstimate": 1788
     },
     {
       "ID": "achievement_36",
@@ -4437,7 +4442,7 @@
       "Name": "Best Dressed",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "achievement_4",
@@ -4445,7 +4450,7 @@
       "Name": "No More Names",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1321
     },
     {
       "ID": "achievement_41",
@@ -4485,7 +4490,7 @@
       "Name": "Periapt Alizarin",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "achievement_46",
@@ -4501,7 +4506,7 @@
       "Name": "Enlisted",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 1916
+      "UsersEstimate": 1917
     },
     {
       "ID": "achievement_49",
@@ -4509,7 +4514,7 @@
       "Name": "Soldier",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "achievement_5",
@@ -4517,7 +4522,7 @@
       "Name": "Initiate",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "achievement_50",
@@ -4557,7 +4562,7 @@
       "Name": "Shroudfane Explorer",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "achievement_6",
@@ -4565,7 +4570,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 854
+      "UsersEstimate": 855
     },
     {
       "ID": "achievement_60",
@@ -4603,9 +4608,9 @@
       "ID": "achievement_66",
       "SetID": "18al4io",
       "Name": "Backtracker",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "achievement_67",
@@ -4621,7 +4626,7 @@
       "Name": "Gravity-Challenged Rocks",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "achievement_8",
@@ -4644,7 +4649,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 2589,
+      "Progressed": 2591,
       "Completed": 2
     }
   ],
@@ -4652,8 +4657,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-03T13:03:04.6353121+00:00",
-  "LastChanged_Achievements": "2024-01-03T16:09:44.0896463+00:00",
+  "LastChanged_Achievements": "2024-01-03T17:10:09.1323354+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.4007279+00:00",
-  "LastUpdate_Ratings": "2024-01-03T15:58:40.7786024+00:00",
-  "LastUpdate_Achievements": "2024-01-03T16:09:44.0896957+00:00"
+  "LastUpdate_Ratings": "2024-01-03T16:59:24.6826216+00:00",
+  "LastUpdate_Achievements": "2024-01-03T17:10:09.1323841+00:00"
 }

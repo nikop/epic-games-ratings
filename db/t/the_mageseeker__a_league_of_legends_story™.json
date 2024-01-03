@@ -169,9 +169,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3245,
+  "EOS_Progressed": 3246,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -5809,6 +5809,11 @@
       "Time": "2024-01-03T16:05:42.6881626+00:00",
       "NumProgressed": 3245,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2024-01-03T17:06:32.6032781+00:00",
+      "NumProgressed": 3246,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 53,
@@ -5884,7 +5889,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 3083
+      "UsersEstimate": 3084
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -5924,7 +5929,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1330
+      "UsersEstimate": 1331
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -5972,7 +5977,7 @@
       "Name": "Do you trust me?",
       "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "STB_FIND_ALL_SILVERWINGS",
@@ -5996,7 +6001,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 2466
+      "UsersEstimate": 2467
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -6004,7 +6009,7 @@
       "Name": "No more cages!",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 2920
+      "UsersEstimate": 2921
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -6036,7 +6041,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 2466
+      "UsersEstimate": 2467
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -6044,7 +6049,7 @@
       "Name": "Thornbarrow",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 1395
+      "UsersEstimate": 1396
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -6052,7 +6057,7 @@
       "Name": "Clarion Cove",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1330
+      "UsersEstimate": 1331
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -6060,7 +6065,7 @@
       "Name": "Devineur",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1038
+      "UsersEstimate": 1039
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -6076,7 +6081,7 @@
       "Name": "Glyndemere",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "STB_MISSION5B_COMPLETED",
@@ -6084,7 +6089,7 @@
       "Name": "Capelworth",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "STB_MISSION6_COMPLETED",
@@ -6124,7 +6129,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1947
+      "UsersEstimate": 1948
     },
     {
       "ID": "STB_PET_HORSE",
@@ -6148,7 +6153,7 @@
       "Name": "Back to sleep, then...",
       "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_I",
@@ -6164,7 +6169,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1103
+      "UsersEstimate": 1104
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -6196,7 +6201,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2369
+      "UsersEstimate": 2370
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -6204,7 +6209,7 @@
       "Name": "Spellcrafting",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "STB_UNLOCK_ALL_SLOTS_IMPROVEMENTS",
@@ -6212,7 +6217,7 @@
       "Name": "Full equipped",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "STB_UNLOCK_ALL_ULTIMATES",
@@ -6243,7 +6248,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 3245,
+      "Progressed": 3246,
       "Completed": 20
     }
   ],
@@ -6251,8 +6256,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-30T20:57:35.994685+00:00",
-  "LastChanged_Achievements": "2024-01-03T16:05:42.6881622+00:00",
+  "LastChanged_Achievements": "2024-01-03T17:06:32.6032777+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:16.0545663+00:00",
-  "LastUpdate_Ratings": "2024-01-03T15:58:42.9543164+00:00",
-  "LastUpdate_Achievements": "2024-01-03T16:05:42.688226+00:00"
+  "LastUpdate_Ratings": "2024-01-03T16:59:27.0507015+00:00",
+  "LastUpdate_Achievements": "2024-01-03T17:06:32.6033633+00:00"
 }

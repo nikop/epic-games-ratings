@@ -3,12 +3,12 @@
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
   "Ranking_Rating": 1025,
-  "Ranking_Popularity": 477,
+  "Ranking_Popularity": 479,
   "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 209,
-  "Ranking_EOS_Completed": 333,
+  "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -709,9 +709,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4125,
+  "EOS_Progressed": 4128,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 251,
+  "EOS_NewPlayers": 254,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -11619,6 +11619,11 @@
       "Time": "2024-01-03T16:06:29.5715684+00:00",
       "NumProgressed": 4125,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-03T17:07:21.635934+00:00",
+      "NumProgressed": 4128,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -11686,7 +11691,7 @@
       "Name": "Cauldron Liberator",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "challenger",
@@ -11726,7 +11731,7 @@
       "Name": "Doing My Part",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "dragonclicker",
@@ -11742,7 +11747,7 @@
       "Name": "Dragon Master",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "dragonslayer",
@@ -11764,9 +11769,9 @@
       "ID": "enchantingskill",
       "SetID": "3nl4bcg",
       "Name": "Enchanting skill",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 206
     },
     {
       "ID": "enchantingskillx5",
@@ -11774,7 +11779,7 @@
       "Name": "Enchanting skill x5",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "engineermastery",
@@ -11796,9 +11801,9 @@
       "ID": "enlightenment",
       "SetID": "3nl4bcg",
       "Name": "Enlightenment",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 578
+      "UsersEstimate": 537
     },
     {
       "ID": "exoticmerchant",
@@ -11814,7 +11819,7 @@
       "Name": "Fellowship Power",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1691
+      "UsersEstimate": 1692
     },
     {
       "ID": "fourleafclover",
@@ -11838,7 +11843,7 @@
       "Name": "Full Party",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1115
     },
     {
       "ID": "gearenchanting",
@@ -11846,7 +11851,7 @@
       "Name": "Gear Enchanting",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "guardianmaster",
@@ -11854,7 +11859,7 @@
       "Name": "Guardian Master",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "guildpower",
@@ -11878,7 +11883,7 @@
       "Name": "Hero inspection",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "howdoyouturnthison",
@@ -11894,7 +11899,7 @@
       "Name": "Hunter",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "inspection",
@@ -12014,7 +12019,7 @@
       "Name": "Pokerface",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "prestigious",
@@ -12022,7 +12027,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 2145
+      "UsersEstimate": 2147
     },
     {
       "ID": "prestigiousx10",
@@ -12030,7 +12035,7 @@
       "Name": "Prestigious x10",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "relicofthepast",
@@ -12054,7 +12059,7 @@
       "Name": "Scientist",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "scrollmaster",
@@ -12086,7 +12091,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2310
+      "UsersEstimate": 2312
     },
     {
       "ID": "thealchemist",
@@ -12118,7 +12123,7 @@
       "Name": "The game is on",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "thepowerofawakening",
@@ -12126,7 +12131,7 @@
       "Name": "The power of Awakening",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "theunstoppable",
@@ -12190,7 +12195,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 3836
+      "UsersEstimate": 3839
     },
     {
       "ID": "warmachinesarmy",
@@ -12214,7 +12219,7 @@
       "Name": "What lies behind the bush",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "worldmap",
@@ -12222,14 +12227,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3218
+      "UsersEstimate": 3220
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4125,
+      "Progressed": 4128,
       "Completed": 2
     }
   ],
@@ -12237,8 +12242,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-02T09:57:01.626986+00:00",
-  "LastChanged_Achievements": "2024-01-03T16:06:29.571568+00:00",
+  "LastChanged_Achievements": "2024-01-03T17:07:21.6359335+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:50.7213096+00:00",
-  "LastUpdate_Ratings": "2024-01-03T15:57:31.186542+00:00",
-  "LastUpdate_Achievements": "2024-01-03T16:06:29.5717357+00:00"
+  "LastUpdate_Ratings": "2024-01-03T16:58:04.975641+00:00",
+  "LastUpdate_Achievements": "2024-01-03T17:07:21.6360599+00:00"
 }

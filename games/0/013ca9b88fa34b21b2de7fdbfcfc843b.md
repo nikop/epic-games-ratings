@@ -13,10 +13,10 @@ Rating: 4.62 (Ranked 375)
 | Miner 49er | 2.00% | ~177 |
 | Break-Net Speed | 2.00% | ~177 |
 | Humble Collector | 2.00% | ~177 |
+| Mist Walker | 2.00% | ~177 |
 | Bramble Breaker | 2.00% | ~177 |
 | Clear the Air | 1.00% | ~88 |
 | Lumberjack | 1.00% | ~88 |
-| Mist Walker | 1.00% | ~88 |
 | Oui, Chef! | 1.00% | ~88 |
 | Botanical Breakthrough | 1.00% | ~88 |
 | Exit Through The Gift Shop | 1.00% | ~15 |
@@ -50,7 +50,7 @@ Rating: 4.62 (Ranked 375)
 | Archi-Pal-igo Aficionado | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 8,838 (Ranked 184)  
-Completed: 1 (0.01%) (Ranked 367)  
+Completed: 1 (0.01%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

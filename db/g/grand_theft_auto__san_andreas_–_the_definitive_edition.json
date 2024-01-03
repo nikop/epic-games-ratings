@@ -6,9 +6,9 @@
   "Ranking_Popularity": 452,
   "Ranking_PopularitySum": 373,
   "Ranking_EOS_Progress": 157,
-  "Ranking_EOS_Completed": 233,
+  "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -2129,10 +2129,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 328,
       "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2024-01-03T16:58:13.7873128+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 330,
+      "NumberOfAwardsMax": 50
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 328,
+  "NumberOfAwards": 330,
   "NumberOfAwardsMax": 50,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -2170,7 +2176,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 31
+      "Count": 33
     },
     {
       "Text": "This game has a Creative Community",
@@ -2197,9 +2203,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 18161,
+  "EOS_Progressed": 18165,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 1072,
+  "EOS_NewPlayers": 1070,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -18867,6 +18873,11 @@
       "Time": "2024-01-03T16:09:48.9017643+00:00",
       "NumProgressed": 18161,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2024-01-03T17:10:14.2279794+00:00",
+      "NumProgressed": 18165,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 35,
@@ -18878,7 +18889,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 14710
+      "UsersEstimate": 14714
     },
     {
       "ID": "ACH02",
@@ -18886,7 +18897,7 @@
       "Name": "With Extra Dip",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1272
     },
     {
       "ID": "ACH03",
@@ -18894,7 +18905,7 @@
       "Name": "The End of the Line",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1272
     },
     {
       "ID": "ACH04",
@@ -18934,7 +18945,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 9080
+      "UsersEstimate": 9082
     },
     {
       "ID": "ACH09",
@@ -18958,7 +18969,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1634
+      "UsersEstimate": 1635
     },
     {
       "ID": "ACH12",
@@ -18974,7 +18985,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 3269
+      "UsersEstimate": 3270
     },
     {
       "ID": "ACH14",
@@ -18990,7 +19001,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "ACH16",
@@ -18998,7 +19009,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3087
+      "UsersEstimate": 3088
     },
     {
       "ID": "ACH17",
@@ -19054,7 +19065,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4540
+      "UsersEstimate": 4541
     },
     {
       "ID": "ACH24",
@@ -19070,7 +19081,7 @@
       "Name": "What are the Odds",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "ACH26",
@@ -19102,7 +19113,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 2724
+      "UsersEstimate": 2725
     },
     {
       "ID": "ACH30",
@@ -19157,16 +19168,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 18161,
+      "Progressed": 18165,
       "Completed": 70
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2024-01-03T15:57:39.3348528+00:00",
-  "LastChanged_Achievements": "2024-01-03T16:09:48.901764+00:00",
+  "LastChanged": "2024-01-03T16:58:13.7873125+00:00",
+  "LastChanged_Achievements": "2024-01-03T17:10:14.2279787+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.8114387+00:00",
-  "LastUpdate_Ratings": "2024-01-03T15:57:39.3348533+00:00",
-  "LastUpdate_Achievements": "2024-01-03T16:09:48.9018729+00:00"
+  "LastUpdate_Ratings": "2024-01-03T16:58:13.7873134+00:00",
+  "LastUpdate_Achievements": "2024-01-03T17:10:14.2280852+00:00"
 }

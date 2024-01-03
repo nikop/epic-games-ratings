@@ -6,7 +6,7 @@ Rating: 4.13 (Ranked 1,002)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Attachments | 12.00% | ~5,547 |
-| Unlocked Potential | 11.00% | ~5,084 |
+| Unlocked Potential | 11.00% | ~5,085 |
 | Tinkerer | 8.00% | ~3,698 |
 | Leapfrogger | 7.00% | ~3,236 |
 | Knock 'Em Dead | 7.00% | ~3,236 |
@@ -59,8 +59,8 @@ Rating: 4.13 (Ranked 1,002)
 | Remembrance | 0.10% | ~46 |
 | Cat Person | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,222 (Ranked 125)  
-Completed: 4 (0.01%) (Ranked 367)  
+Progressed: 46,224 (Ranked 125)  
+Completed: 4 (0.01%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -317,14 +317,14 @@ Completed: 4 (0.01%) (Ranked 367)
 | 2023-12-31 | 45,906 | 4 |
 | 2024-01-01 | 46,038 | 4 |
 | 2024-01-02 | 46,154 | 4 |
-| 2024-01-03 | 46,222 | 4 |
+| 2024-01-03 | 46,224 | 4 |
 ## Awards
-Max (Character Customization): 40  (Ranked 477)  
-Sum: 40 (Ranked 518)  
-Diff (max vs sum): -41  
+Max (Character Customization): 45  (Ranked 467)  
+Sum: 45 (Ranked 514)  
+Diff (max vs sum): -47  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 40 |
+| This game has Inclusive Character Customization | 45 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -422,4 +422,4 @@ Diff (max vs sum): -41
 | 2023-12-31 | 4.13 | 35 | 35 |
 | 2024-01-01 | 4.14 | 37 | 37 |
 | 2024-01-02 | 4.14 | 40 | 40 |
-| 2024-01-03 | 4.13 | 40 | 40 |
+| 2024-01-03 | 4.13 | 45 | 45 |

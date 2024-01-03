@@ -4,8 +4,8 @@
   "ProductSlug": "lost-abroad-cafe-a-language-learning-management-sim-bfc28c",
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-05-26T17:00:00+00:00",
     "PcReleaseDate": "2022-12-31T01:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 677,
+  "EOS_Progressed": 679,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.48,
+  "EOS_Completed_Percentage": 1.47,
   "EosHistory": [
     {
       "Time": "2023-05-22T02:10:23.0997287+00:00",
@@ -3119,6 +3119,11 @@
       "Time": "2024-01-03T13:10:17.0713349+00:00",
       "NumProgressed": 677,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-03T17:06:43.4558158+00:00",
+      "NumProgressed": 679,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 8,
@@ -3130,7 +3135,7 @@
       "Name": "Barista",
       "Percentage": 52,
       "XP": 75,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "coffee_100",
@@ -3162,7 +3167,7 @@
       "Name": "Get Lost!",
       "Percentage": 90,
       "XP": 50,
-      "UsersEstimate": 609
+      "UsersEstimate": 611
     },
     {
       "ID": "tea_10",
@@ -3170,7 +3175,7 @@
       "Name": "Tea-ser",
       "Percentage": 39,
       "XP": 75,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "tea_100",
@@ -3186,21 +3191,21 @@
       "Name": "Tea Master",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     }
   ],
   "AchievementSets": [
     {
       "ID": "56hff7o",
       "IsBase": true,
-      "Progressed": 677,
+      "Progressed": 679,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-06-23T10:58:45.2753016+00:00",
   "FirstSeenAchievements": "2023-05-18T05:04:21.5286003+00:00",
-  "LastChanged_Achievements": "2024-01-03T16:05:53.1323033+00:00",
+  "LastChanged_Achievements": "2024-01-03T17:06:43.4558155+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:48.8560762+00:00",
-  "LastUpdate_Ratings": "2024-01-03T15:59:07.0071875+00:00",
-  "LastUpdate_Achievements": "2024-01-03T16:05:53.1323312+00:00"
+  "LastUpdate_Ratings": "2024-01-03T16:59:51.3963319+00:00",
+  "LastUpdate_Achievements": "2024-01-03T17:06:43.4558323+00:00"
 }

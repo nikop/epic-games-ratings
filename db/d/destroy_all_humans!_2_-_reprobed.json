@@ -5,10 +5,10 @@
   "Ranking_Rating": 544,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 526,
-  "Ranking_EOS_Progress": 392,
-  "Ranking_EOS_Completed": 243,
+  "Ranking_EOS_Progress": 391,
+  "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -294,9 +294,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 299,
+  "EOS_Progressed": 300,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1464,6 +1464,11 @@
       "Time": "2024-01-03T13:13:29.1160597+00:00",
       "NumProgressed": 299,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-03T17:09:24.7310209+00:00",
+      "NumProgressed": 300,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1476,7 +1481,7 @@
       "Name": "Mash Machine",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1588,7 +1593,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -1612,7 +1617,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1634,9 +1639,9 @@
       "ID": "ACH_ENTER_TUNGUSKA",
       "SetID": "4n84pon",
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_KILL_BONGWATER",
@@ -1786,9 +1791,9 @@
       "ID": "ACH_SKATE_TAKOSHIMA",
       "SetID": "4n84pon",
       "Name": "Path of the Furon",
-      "Percentage": 0.3,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_SKATE_TUNGUSKA",
@@ -1810,9 +1815,9 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "4n84pon",
       "Name": "Shop Til They Drop",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 123
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1827,7 +1832,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 299,
+      "Progressed": 300,
       "Completed": 1
     }
   ],
@@ -1835,8 +1840,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-03T11:58:36.9448322+00:00",
-  "LastChanged_Achievements": "2024-01-03T16:09:01.0820251+00:00",
+  "LastChanged_Achievements": "2024-01-03T17:09:24.7310206+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.261947+00:00",
-  "LastUpdate_Ratings": "2024-01-03T15:58:16.0419687+00:00",
-  "LastUpdate_Achievements": "2024-01-03T16:09:01.0820594+00:00"
+  "LastUpdate_Ratings": "2024-01-03T16:58:57.1074173+00:00",
+  "LastUpdate_Achievements": "2024-01-03T17:09:24.7310567+00:00"
 }
