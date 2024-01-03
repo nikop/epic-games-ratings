@@ -3,9 +3,9 @@
   "Name": "The Hidden Room",
   "ProductSlug": "the-hidden-room-1a63ec",
   "Ranking_EOS_Progress": 195,
-  "Ranking_EOS_Completed": 178,
+  "Ranking_EOS_Completed": 179,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-10-31T14:00:00+00:00",
     "PcReleaseDate": "2021-10-14T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6758,
+  "EOS_Progressed": 6760,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 566,
+  "EOS_NewPlayers": 564,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
@@ -7014,6 +7014,11 @@
       "Time": "2024-01-02T23:04:45.3036999+00:00",
       "NumProgressed": 6758,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2024-01-03T00:05:00.6929952+00:00",
+      "NumProgressed": 6760,
+      "NumCompleted": 63
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -7026,7 +7031,7 @@
       "Name": "Finish The Hidden Room",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 1554
+      "UsersEstimate": 1555
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_HIDDENROOM",
@@ -7034,7 +7039,7 @@
       "Name": "Unlock the secret room",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 1554
+      "UsersEstimate": 1555
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_MASK",
@@ -7058,7 +7063,7 @@
       "Name": "Unlock the PC",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 2500
+      "UsersEstimate": 2501
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_SOFA",
@@ -7074,7 +7079,7 @@
       "Name": "Turn on the TV",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 3852
+      "UsersEstimate": 3853
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_WRONGCODE",
@@ -7082,7 +7087,7 @@
       "Name": "Wrong passcode",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 5339
+      "UsersEstimate": 5340
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -7146,21 +7151,21 @@
       "Name": "Turn on the TV in Speedrun",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     }
   ],
   "AchievementSets": [
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 6758,
+      "Progressed": 6760,
       "Completed": 63
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2024-01-02T23:04:45.3036997+00:00",
+  "LastChanged_Achievements": "2024-01-03T00:05:00.692995+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:11.3556672+00:00",
-  "LastUpdate_Ratings": "2024-01-02T22:59:13.1908064+00:00",
-  "LastUpdate_Achievements": "2024-01-02T23:04:45.3037332+00:00"
+  "LastUpdate_Ratings": "2024-01-02T23:59:28.1267534+00:00",
+  "LastUpdate_Achievements": "2024-01-03T00:05:00.6930366+00:00"
 }

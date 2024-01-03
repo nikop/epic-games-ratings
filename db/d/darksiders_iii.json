@@ -2,13 +2,13 @@
   "ID": "springbok",
   "Name": "Darksiders III",
   "ProductSlug": "darksiders3",
-  "Ranking_Rating": 660,
+  "Ranking_Rating": 659,
   "Ranking_Popularity": 383,
   "Ranking_PopularitySum": 465,
   "Ranking_EOS_Progress": 365,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -468,9 +468,9 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 388,
+  "EOS_Progressed": 389,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -1478,6 +1478,11 @@
       "Time": "2024-01-02T23:07:15.8361957+00:00",
       "NumProgressed": 388,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-03T00:07:33.2167856+00:00",
+      "NumProgressed": 389,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-13T09:04:44.5703562+00:00",
@@ -1512,9 +1517,9 @@
       "ID": "Collect_AdamantineSmall_30",
       "SetID": "7a5k76n",
       "Name": "Unshakable Fortitude",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 132
     },
     {
       "ID": "Collect_Artifact_Angel_50",
@@ -1528,9 +1533,9 @@
       "ID": "Collect_Artifact_Demon_50",
       "SetID": "7a5k76n",
       "Name": "Demon Keeper",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 31
     },
     {
       "ID": "Collect_Artifact_EpicShard",
@@ -1538,7 +1543,7 @@
       "Name": "One Of the Chosen",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_1",
@@ -1560,9 +1565,9 @@
       "ID": "Collect_HealthStone_HealUpgrade_1",
       "SetID": "7a5k76n",
       "Name": "Increased Vigor",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 233
+      "UsersEstimate": 230
     },
     {
       "ID": "Collect_HealthStone_HealUpgrade_4",
@@ -1570,7 +1575,7 @@
       "Name": "Maximum Vigor",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "Collect_Hollow_Flame",
@@ -1578,7 +1583,7 @@
       "Name": "Fight Fire with Fire",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "Collect_Hollow_Force",
@@ -1602,7 +1607,7 @@
       "Name": "Perfect Storm",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "Collect_Lurchers_100000",
@@ -1626,15 +1631,15 @@
       "Name": "Cleanup Crew",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "Collect_Soulmulet",
       "SetID": "7a5k76n",
       "Name": "A Parting Gift",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 51
     },
     {
       "ID": "Collect_Weapon_Crossblade",
@@ -1802,7 +1807,7 @@
       "Name": "Love Tap",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "Kill_Enemies_666",
@@ -1810,7 +1815,7 @@
       "Name": "Devil\u0027s in the Details",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "Kill_Enemies_HavocForm_666",
@@ -1826,7 +1831,7 @@
       "Name": "All That Glitters",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "Kill_Sin_BigBad",
@@ -1848,9 +1853,9 @@
       "ID": "Kill_Sin_Gluttony",
       "SetID": "7a5k76n",
       "Name": "Eat Your Heart Out",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 101
     },
     {
       "ID": "Kill_Sin_Lust",
@@ -1874,7 +1879,7 @@
       "Name": "Throne Potato",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "Kill_Sin_Wrath",
@@ -1898,7 +1903,7 @@
       "Name": "Helping Hand",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "Save_Humans_10",
@@ -1906,7 +1911,7 @@
       "Name": "Crowd Source",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "Save_Humans_15",
@@ -1930,7 +1935,7 @@
       "Name": "Five\u0027s a Crowd",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "Save_Usiel_No_Kill",
@@ -1946,7 +1951,7 @@
       "Name": "First of many\u2026",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "Spend_AttributePoint_25",
@@ -1986,7 +1991,7 @@
       "Name": "Just the start",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "Upgrade_Weapon_Max",
@@ -2001,15 +2006,15 @@
     {
       "ID": "7a5k76n",
       "IsBase": true,
-      "Progressed": 388,
+      "Progressed": 389,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-02T05:57:25.472105+00:00",
-  "LastChanged_Achievements": "2024-01-02T23:07:15.8361951+00:00",
+  "LastChanged_Achievements": "2024-01-03T00:07:33.2167854+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.0817876+00:00",
-  "LastUpdate_Ratings": "2024-01-02T22:58:04.6708297+00:00",
-  "LastUpdate_Achievements": "2024-01-02T23:07:15.8362464+00:00"
+  "LastUpdate_Ratings": "2024-01-02T23:58:19.2285162+00:00",
+  "LastUpdate_Achievements": "2024-01-03T00:07:33.2168345+00:00"
 }

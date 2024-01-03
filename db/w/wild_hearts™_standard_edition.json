@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -18,7 +18,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1084,
+  "EOS_Progressed": 1085,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
@@ -3588,6 +3588,11 @@
       "Time": "2024-01-02T22:09:40.6251433+00:00",
       "NumProgressed": 1084,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-03T00:10:33.559474+00:00",
+      "NumProgressed": 1085,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -3600,7 +3605,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "achievement_10",
@@ -3608,7 +3613,7 @@
       "Name": "Karakuri Trail",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "achievement_11",
@@ -3656,7 +3661,7 @@
       "Name": "Distance Devourer",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "achievement_17",
@@ -3672,7 +3677,7 @@
       "Name": "Man-Machine Master",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "achievement_19",
@@ -3688,7 +3693,7 @@
       "Name": "Mountain Splitter",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "achievement_20",
@@ -3696,7 +3701,7 @@
       "Name": "Subsistence Skills",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "achievement_21",
@@ -3712,7 +3717,7 @@
       "Name": "Kemono Hunter",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "achievement_23",
@@ -3792,7 +3797,7 @@
       "Name": "Snare Specialist",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "achievement_32",
@@ -3808,7 +3813,7 @@
       "Name": "Human Believer",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "achievement_34",
@@ -3920,7 +3925,7 @@
       "Name": "Charmed by the Hunt",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "achievement_47",
@@ -3952,7 +3957,7 @@
       "Name": "Commencing of Quests",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "achievement_7",
@@ -3983,13 +3988,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 1084,
+      "Progressed": 1085,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-02T23:09:55.5885523+00:00",
+  "LastChanged_Achievements": "2024-01-03T00:10:33.5594736+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:22.7723621+00:00",
-  "LastUpdate_Ratings": "2024-01-02T23:01:20.2840951+00:00",
-  "LastUpdate_Achievements": "2024-01-02T23:09:55.5885985+00:00"
+  "LastUpdate_Ratings": "2024-01-03T00:01:34.2968931+00:00",
+  "LastUpdate_Achievements": "2024-01-03T00:10:33.5595179+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 887,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
-  "Ranking_EOS_Progress": 378,
-  "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 416,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_Progress": 377,
+  "Ranking_EOS_Completed": 122,
+  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-05-12T16:00:00+00:00",
     "PcReleaseDate": "2021-08-28T00:00:00+00:00",
@@ -78,11 +78,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 342,
+  "EOS_Progressed": 343,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.63,
+  "EOS_Completed_Percentage": 2.62,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:34.4947976+00:00",
@@ -463,6 +463,11 @@
       "Time": "2024-01-02T21:06:10.1792316+00:00",
       "NumProgressed": 342,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-03T00:07:32.8840403+00:00",
+      "NumProgressed": 343,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 19,
@@ -488,9 +493,9 @@
       "ID": "achievement_02",
       "SetID": "7881h0d",
       "Name": "Ritual",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 38
+      "UsersEstimate": 34
     },
     {
       "ID": "achievement_03",
@@ -546,7 +551,7 @@
       "Name": "Grau Hill",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "achievement_10",
@@ -562,15 +567,15 @@
       "Name": "A forgotten language",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "achievement_12",
       "SetID": "7881h0d",
       "Name": "Lord Wesley",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 117
     },
     {
       "ID": "achievement_13",
@@ -578,7 +583,7 @@
       "Name": "One step down",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "achievement_14",
@@ -594,7 +599,7 @@
       "Name": "My dear Magda",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "achievement_16",
@@ -625,7 +630,7 @@
     {
       "ID": "7881h0d",
       "IsBase": true,
-      "Progressed": 342,
+      "Progressed": 343,
       "Completed": 9
     }
   ],
@@ -633,8 +638,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-12-19T15:00:52.3248594+00:00",
-  "LastChanged_Achievements": "2024-01-02T23:07:15.5210609+00:00",
+  "LastChanged_Achievements": "2024-01-03T00:07:32.8840399+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:31.5419716+00:00",
-  "LastUpdate_Ratings": "2024-01-02T23:01:23.3849986+00:00",
-  "LastUpdate_Achievements": "2024-01-02T23:07:15.5211024+00:00"
+  "LastUpdate_Ratings": "2024-01-03T00:01:37.5290244+00:00",
+  "LastUpdate_Achievements": "2024-01-03T00:07:32.8840582+00:00"
 }

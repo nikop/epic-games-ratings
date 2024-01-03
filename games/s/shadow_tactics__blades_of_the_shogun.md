@@ -1,27 +1,27 @@
 # Shadow Tactics: Blades of the Shogun
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics)  
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
-Rating: 4.66 (Ranked 301)  
+Rating: 4.66 (Ranked 302)  
 Number of Ratings: 495  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~26,831 |
-| A thief's beginning | 11.00% | ~24,595 |
-| Thorough | 11.00% | ~24,595 |
-| Disguised | 9.00% | ~20,123 |
-| Rescue Takuma | 9.00% | ~20,123 |
-| Rollin' | 9.00% | ~20,123 |
-| Tanuki Time | 9.00% | ~20,123 |
-| Ice Ice Yuki | 8.00% | ~17,887 |
-| Stoned Ox | 8.00% | ~17,887 |
-| Yabu | 8.00% | ~17,887 |
-| Happy Planning | 7.00% | ~15,651 |
-| Jonin | 7.00% | ~15,651 |
-| Mugen Unchained | 7.00% | ~15,651 |
-| Chunin | 6.00% | ~13,415 |
-| Flying Rocks | 6.00% | ~13,415 |
-| Warzone | 6.00% | ~13,415 |
+| Genin | 12.00% | ~26,832 |
+| A thief's beginning | 11.00% | ~24,596 |
+| Thorough | 11.00% | ~24,596 |
+| Disguised | 9.00% | ~20,124 |
+| Rescue Takuma | 9.00% | ~20,124 |
+| Rollin' | 9.00% | ~20,124 |
+| Tanuki Time | 9.00% | ~20,124 |
+| Ice Ice Yuki | 8.00% | ~17,888 |
+| Stoned Ox | 8.00% | ~17,888 |
+| Yabu | 8.00% | ~17,888 |
+| Happy Planning | 7.00% | ~15,652 |
+| Jonin | 7.00% | ~15,652 |
+| Mugen Unchained | 7.00% | ~15,652 |
+| Chunin | 6.00% | ~13,416 |
+| Flying Rocks | 6.00% | ~13,416 |
+| Warzone | 6.00% | ~13,416 |
 | Happy little accidents | 5.00% | ~11,180 |
 | Okkoto | 5.00% | ~11,180 |
 | Prisoners | 5.00% | ~11,180 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~224 |
 | Release the Kraken | 0.10% | ~224 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,591 (Ranked 78)  
+Progressed: 223,601 (Ranked 78)  
 Completed: 102 (0.05%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,6 +309,7 @@ Completed: 102 (0.05%) (Ranked 333)
 | 2023-12-31 | 223,091 | 102 |
 | 2024-01-01 | 223,336 | 102 |
 | 2024-01-02 | 223,591 | 102 |
+| 2024-01-03 | 223,601 | 102 |
 ## Awards
 Max (Great for Beginners): 592  (Ranked 207)  
 Sum: 4,940 (Ranked 147)  

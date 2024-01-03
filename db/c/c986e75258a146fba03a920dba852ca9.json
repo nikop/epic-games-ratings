@@ -2,7 +2,7 @@
   "ID": "c986e75258a146fba03a920dba852ca9",
   "Name": "Cat Quest",
   "ProductSlug": "cat-quest-8373e0",
-  "Ranking_Rating": 284,
+  "Ranking_Rating": 285,
   "Ranking_Popularity": 398,
   "Ranking_PopularitySum": 477,
   "Ranking_EOS_Progress": 82,
@@ -103,9 +103,9 @@
       "Count": 80
     }
   ],
-  "EOS_Progressed": 206314,
+  "EOS_Progressed": 206507,
   "EOS_Completed": 175,
-  "EOS_NewPlayers": 195676,
+  "EOS_NewPlayers": 195869,
   "EOS_NewCompleters": 175,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -738,6 +738,11 @@
       "Time": "2024-01-02T23:06:49.8293879+00:00",
       "NumProgressed": 206314,
       "NumCompleted": 175
+    },
+    {
+      "Time": "2024-01-03T00:07:06.9530645+00:00",
+      "NumProgressed": 206507,
+      "NumCompleted": 175
     }
   ],
   "AchievementsAdded": "2023-12-28T17:03:50.5211758+00:00",
@@ -750,7 +755,7 @@
       "Name": "Dungeon Master",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 6189
+      "UsersEstimate": 6195
     },
     {
       "ID": "com.thegentlebros.catquest.equipment_01",
@@ -758,7 +763,7 @@
       "Name": "Fashionista Lion",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 12379
+      "UsersEstimate": 12390
     },
     {
       "ID": "com.thegentlebros.catquest.level_03",
@@ -766,7 +771,7 @@
       "Name": "Super Catventurer",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 4126
+      "UsersEstimate": 4130
     },
     {
       "ID": "com.thegentlebros.catquest.mainquest_02",
@@ -774,7 +779,7 @@
       "Name": "Felingard Loremaster",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 41263
+      "UsersEstimate": 41301
     },
     {
       "ID": "com.thegentlebros.catquest.mew_00",
@@ -782,7 +787,7 @@
       "Name": "Furry Armored",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "com.thegentlebros.catquest.mew_01",
@@ -790,7 +795,7 @@
       "Name": "Level One",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "com.thegentlebros.catquest.mew_02",
@@ -806,7 +811,7 @@
       "Name": "Nine Lives",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "com.thegentlebros.catquest.mew_04",
@@ -814,7 +819,7 @@
       "Name": "Stronger Enemies",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "com.thegentlebros.catquest.mew_05",
@@ -822,7 +827,7 @@
       "Name": "The Old Master",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "com.thegentlebros.catquest.sidequest_03",
@@ -830,7 +835,7 @@
       "Name": "Saviour of the Cats",
       "Percentage": 10,
       "XP": 200,
-      "UsersEstimate": 20631
+      "UsersEstimate": 20651
     },
     {
       "ID": "com.thegentlebros.catquest.skill_01",
@@ -838,14 +843,14 @@
       "Name": "Power of the Arcane",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 35073
+      "UsersEstimate": 35106
     }
   ],
   "AchievementSets": [
     {
       "ID": "8g22406",
       "IsBase": true,
-      "Progressed": 206314,
+      "Progressed": 206507,
       "Completed": 175
     }
   ],
@@ -853,8 +858,8 @@
   "FirstSeenRating": "2023-12-29T10:57:23.2583361+00:00",
   "FirstSeenAchievements": "2023-12-28T17:03:50.5211757+00:00",
   "LastChanged": "2024-01-02T11:59:34.6442038+00:00",
-  "LastChanged_Achievements": "2024-01-02T23:06:49.8293873+00:00",
+  "LastChanged_Achievements": "2024-01-03T00:07:06.9530643+00:00",
   "LastUpdate_AppInfo": "2023-12-28T16:57:08.7273878+00:00",
-  "LastUpdate_Ratings": "2024-01-02T23:00:52.5260004+00:00",
-  "LastUpdate_Achievements": "2024-01-02T23:06:49.8293985+00:00"
+  "LastUpdate_Ratings": "2024-01-03T00:01:07.4853846+00:00",
+  "LastUpdate_Achievements": "2024-01-03T00:07:06.9530903+00:00"
 }

@@ -30,6 +30,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambitious | 0.60% | ~97 |
 | Brilliant | 0.60% | ~97 |
 | Enlightened | 0.60% | ~97 |
+| Fountainhead | 0.60% | ~97 |
 | Glorious | 0.60% | ~97 |
 | Warrior | 0.60% | ~97 |
 | Strong Cities | 0.60% | ~97 |
@@ -38,7 +39,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonian Paganism | 0.60% | ~97 |
 | Naming Landmarks | 0.60% | ~97 |
 | Regicide | 0.50% | ~80 |
-| Fountainhead | 0.50% | ~80 |
 | Magnificent | 0.50% | ~80 |
 | Wise | 0.50% | ~80 |
 | Able Difficulty | 0.50% | ~80 |

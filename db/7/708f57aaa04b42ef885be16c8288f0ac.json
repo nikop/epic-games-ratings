@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -371,9 +371,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 12894,
+  "EOS_Progressed": 12896,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 1120,
+  "EOS_NewPlayers": 1121,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -8926,6 +8926,11 @@
       "Time": "2024-01-02T23:10:44.1397188+00:00",
       "NumProgressed": 12894,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2024-01-03T00:11:21.3478449+00:00",
+      "NumProgressed": 12896,
+      "NumCompleted": 24
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -8946,7 +8951,7 @@
       "Name": "Baby Steps",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 4771
+      "UsersEstimate": 4772
     },
     {
       "ID": "BeLikeWater",
@@ -9010,7 +9015,7 @@
       "Name": "First Time?",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 6576
+      "UsersEstimate": 6577
     },
     {
       "ID": "FuneralForTheDeath",
@@ -9082,7 +9087,7 @@
       "Name": "Nasty!",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 3352
+      "UsersEstimate": 3353
     },
     {
       "ID": "NoMoreTotems",
@@ -9090,7 +9095,7 @@
       "Name": "No More Totems",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1418
+      "UsersEstimate": 1419
     },
     {
       "ID": "NotLikeTheOthers",
@@ -9162,7 +9167,7 @@
       "Name": "Un-Resurrected",
       "Percentage": 11,
       "XP": 45,
-      "UsersEstimate": 1418
+      "UsersEstimate": 1419
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -9194,7 +9199,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1160
+      "UsersEstimate": 1161
     },
     {
       "ID": "k01101110",
@@ -9209,7 +9214,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 12894,
+      "Progressed": 12896,
       "Completed": 24
     }
   ],
@@ -9217,8 +9222,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-02T20:02:44.2880456+00:00",
-  "LastChanged_Achievements": "2024-01-02T23:10:44.1397183+00:00",
+  "LastChanged_Achievements": "2024-01-03T00:11:21.3478445+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.4946312+00:00",
-  "LastUpdate_Ratings": "2024-01-02T23:03:07.8752082+00:00",
-  "LastUpdate_Achievements": "2024-01-02T23:10:44.1397931+00:00"
+  "LastUpdate_Ratings": "2024-01-03T00:03:23.6915627+00:00",
+  "LastUpdate_Achievements": "2024-01-03T00:11:21.3479251+00:00"
 }

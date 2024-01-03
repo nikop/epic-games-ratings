@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 456,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -339,9 +339,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 78864,
+  "EOS_Progressed": 78865,
   "EOS_Completed": 424,
-  "EOS_NewPlayers": 819,
+  "EOS_NewPlayers": 816,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -28779,6 +28779,11 @@
       "Time": "2024-01-02T23:10:13.2118152+00:00",
       "NumProgressed": 78864,
       "NumCompleted": 424
+    },
+    {
+      "Time": "2024-01-03T00:10:50.7065652+00:00",
+      "NumProgressed": 78865,
+      "NumCompleted": 424
     }
   ],
   "TotalAchievements": 24,
@@ -28806,7 +28811,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 54416
+      "UsersEstimate": 54417
     },
     {
       "ID": "BEST_FRIENDS",
@@ -28830,7 +28835,7 @@
       "Name": "ERADICATE",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16561
+      "UsersEstimate": 16562
     },
     {
       "ID": "FETCH",
@@ -28981,7 +28986,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 78864,
+      "Progressed": 78865,
       "Completed": 424
     }
   ],
@@ -28989,8 +28994,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-12-11T01:48:32.7425544+00:00",
-  "LastChanged_Achievements": "2024-01-02T23:10:13.2118147+00:00",
+  "LastChanged_Achievements": "2024-01-03T00:10:50.7065649+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:49.9952919+00:00",
-  "LastUpdate_Ratings": "2024-01-02T22:57:18.6397923+00:00",
-  "LastUpdate_Achievements": "2024-01-02T23:10:13.2119951+00:00"
+  "LastUpdate_Ratings": "2024-01-02T23:57:33.673252+00:00",
+  "LastUpdate_Achievements": "2024-01-03T00:10:50.7067187+00:00"
 }

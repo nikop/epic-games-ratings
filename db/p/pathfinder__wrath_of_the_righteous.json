@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 126,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4799,9 +4799,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 12976,
+  "EOS_Progressed": 12977,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18764,6 +18764,11 @@
       "Time": "2024-01-02T23:10:55.3554832+00:00",
       "NumProgressed": 12976,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T00:11:32.8647075+00:00",
+      "NumProgressed": 12977,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -18783,7 +18788,7 @@
       "Name": "Burning City",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2465
+      "UsersEstimate": 2466
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -18911,7 +18916,7 @@
       "Name": "Mythic Choices",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1946
+      "UsersEstimate": 1947
     },
     {
       "ID": "19_EqualToAroden",
@@ -19143,7 +19148,7 @@
       "Name": "A Spark",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2465
+      "UsersEstimate": 2466
     },
     {
       "ID": "49_Flame",
@@ -19702,21 +19707,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11758,
+      "Progressed": 11759,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12976,
+      "Progressed": 12977,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2024-01-02T22:57:00.0776566+00:00",
-  "LastChanged_Achievements": "2024-01-02T23:10:55.3554827+00:00",
+  "LastChanged_Achievements": "2024-01-03T00:11:32.8647073+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:46.0860245+00:00",
-  "LastUpdate_Ratings": "2024-01-02T22:57:00.0776572+00:00",
-  "LastUpdate_Achievements": "2024-01-02T23:10:55.3556657+00:00"
+  "LastUpdate_Ratings": "2024-01-02T23:57:13.6273971+00:00",
+  "LastUpdate_Achievements": "2024-01-03T00:11:32.8648777+00:00"
 }

@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 81.00% | ~296 |
+| Seeds of War | 81.00% | ~297 |
 | First Blood | 63.00% | ~231 |
-| Triple Kill | 62.00% | ~227 |
+| Triple Kill | 62.00% | ~228 |
 | Aspairagus | 60.00% | ~190 |
-| No Asperascope | 58.00% | ~212 |
-| Survivor | 56.00% | ~177 |
+| No Asperascope | 58.00% | ~213 |
+| Survivor | 56.00% | ~178 |
 | Cornivore | 54.00% | ~198 |
-| I Believe I Can Fly | 49.00% | ~179 |
-| No Diggity | 45.00% | ~142 |
-| Early Survivor | 40.00% | ~126 |
+| I Believe I Can Fly | 49.00% | ~180 |
+| No Diggity | 45.00% | ~143 |
+| Early Survivor | 40.00% | ~127 |
 | Bouncemato | 31.00% | ~98 |
 | 10K | 29.00% | ~106 |
 | Amateur Survivor | 29.00% | ~92 |
@@ -41,8 +41,8 @@
 | I Have The High Ground | 5.00% | ~18 |
 | Pyromaniac | 5.00% | ~16 |
 | Honk Honk | 3.00% | ~11 |
-| Master Survivor | 3.00% | ~9 |
-| Heart Breaker | 3.00% | ~9 |
+| Master Survivor | 3.00% | ~10 |
+| Heart Breaker | 3.00% | ~10 |
 | 15 Days | 2.00% | ~7 |
 | Easy Peasy | 2.00% | ~6 |
 | Pro Shotgunner | 1.00% | ~4 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 366 (Ranked 371)  
+Progressed: 367 (Ranked 371)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,6 +238,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-30 | 363 | 0 |
 | 2023-12-31 | 365 | 0 |
 | 2024-01-01 | 366 | 0 |
+| 2024-01-03 | 367 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

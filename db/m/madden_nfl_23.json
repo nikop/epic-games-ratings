@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 428,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -1021,9 +1021,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4295,
+  "EOS_Progressed": 4296,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8201,6 +8201,11 @@
       "Time": "2024-01-02T23:07:39.8458017+00:00",
       "NumProgressed": 4295,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T00:08:16.8603487+00:00",
+      "NumProgressed": 4296,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -8221,7 +8226,7 @@
       "Name": "Bragging Rights",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 2362
+      "UsersEstimate": 2363
     },
     {
       "ID": "achievement_11",
@@ -8245,7 +8250,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 2276
+      "UsersEstimate": 2277
     },
     {
       "ID": "achievement_14",
@@ -8261,7 +8266,7 @@
       "Name": "MVP",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 2276
+      "UsersEstimate": 2277
     },
     {
       "ID": "achievement_16",
@@ -8269,7 +8274,7 @@
       "Name": "ROTY",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 1374
+      "UsersEstimate": 1375
     },
     {
       "ID": "achievement_17",
@@ -8357,7 +8362,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 1331
+      "UsersEstimate": 1332
     },
     {
       "ID": "achievement_8",
@@ -8380,7 +8385,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 4295,
+      "Progressed": 4296,
       "Completed": 0
     }
   ],
@@ -8388,8 +8393,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2024-01-02T21:02:50.1835455+00:00",
-  "LastChanged_Achievements": "2024-01-02T23:07:39.8458011+00:00",
+  "LastChanged_Achievements": "2024-01-03T00:08:16.8603484+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.7364021+00:00",
-  "LastUpdate_Ratings": "2024-01-02T23:02:54.5363052+00:00",
-  "LastUpdate_Achievements": "2024-01-02T23:07:39.8458565+00:00"
+  "LastUpdate_Ratings": "2024-01-03T00:03:10.6542787+00:00",
+  "LastUpdate_Achievements": "2024-01-03T00:08:16.860397+00:00"
 }

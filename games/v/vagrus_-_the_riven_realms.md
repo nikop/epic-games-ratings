@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 56.00% | ~152 |
-| Press-ganged | 42.00% | ~114 |
-| The Package | 28.00% | ~76 |
+| A Second Chance | 56.00% | ~154 |
+| Press-ganged | 42.00% | ~116 |
+| The Package | 27.00% | ~74 |
 | Conquered | 19.00% | ~52 |
-| Randomized | 18.00% | ~49 |
+| Randomized | 18.00% | ~50 |
 | Scribe | 11.00% | ~30 |
 | Breached | 11.00% | ~30 |
-| Conciliator | 9.00% | ~24 |
-| Tactician | 9.00% | ~24 |
-| Fight Another Day | 9.00% | ~24 |
+| Conciliator | 9.00% | ~25 |
+| Tactician | 9.00% | ~25 |
+| Fight Another Day | 9.00% | ~25 |
 | Taskmaster | 8.00% | ~22 |
 | Acquaintance | 7.00% | ~19 |
 | Tail-wind | 7.00% | ~19 |
 | Scholar | 6.00% | ~16 |
 | The More the Merrier | 6.00% | ~16 |
-| Deputized | 6.00% | ~16 |
 | Harbinger | 6.00% | ~16 |
 | Pilgrimage's End | 6.00% | ~16 |
 | Strategist | 5.00% | ~14 |
+| Deputized | 5.00% | ~14 |
 | Courier | 5.00% | ~14 |
 | Merchant | 5.00% | ~14 |
 | Trouble at Fort Larius | 5.00% | ~14 |
@@ -38,14 +38,14 @@
 | A Terrible Will | 3.00% | ~8 |
 | Inquisitions of Discord | 3.00% | ~8 |
 | Unseen Patterns | 3.00% | ~8 |
-| Supercargo | 2.00% | ~5 |
-| Business As Usual | 2.00% | ~5 |
-| Legacy of a Mercenary | 2.00% | ~5 |
-| Delayed | 2.00% | ~5 |
-| A Real Battle | 2.00% | ~5 |
-| Life... Finds a Way | 2.00% | ~5 |
-| Merchant Lord | 2.00% | ~5 |
-| Insectoid Propagator | 2.00% | ~5 |
+| Supercargo | 2.00% | ~6 |
+| Business As Usual | 2.00% | ~6 |
+| Legacy of a Mercenary | 2.00% | ~6 |
+| Delayed | 2.00% | ~6 |
+| A Real Battle | 2.00% | ~6 |
+| Life... Finds a Way | 2.00% | ~6 |
+| Merchant Lord | 2.00% | ~6 |
+| Insectoid Propagator | 2.00% | ~6 |
 | Making Contact | 1.00% | ~3 |
 | Watcher | 1.00% | ~3 |
 | Executor | 1.00% | ~3 |
@@ -104,7 +104,7 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 272 (Ranked 401)  
+Progressed: 275 (Ranked 400)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,6 +209,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-31 | 267 | 0 |
 | 2024-01-01 | 270 | 0 |
 | 2024-01-02 | 272 | 0 |
+| 2024-01-03 | 275 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

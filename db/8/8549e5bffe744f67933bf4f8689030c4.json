@@ -2,10 +2,10 @@
   "ID": "8549e5bffe744f67933bf4f8689030c4",
   "Name": "Godzilla Voxel Wars",
   "ProductSlug": "godzillawars-2c30e4",
-  "Ranking_EOS_Progress": 577,
+  "Ranking_EOS_Progress": 573,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 473,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 457,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-11-08T03:00:00+00:00",
     "PcReleaseDate": "2023-11-04T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 36,
+  "EOS_Progressed": 37,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -194,6 +194,11 @@
       "Time": "2023-12-31T17:03:54.6758398+00:00",
       "NumProgressed": 36,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T00:06:01.984772+00:00",
+      "NumProgressed": 37,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T04:02:54.7866363+00:00",
@@ -220,7 +225,7 @@
       "ID": "AcquireReportFirst",
       "SetID": "59jf8f5",
       "Name": "Reveal the Secret!",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
       "UsersEstimate": 15
     },
@@ -284,7 +289,7 @@
       "ID": "ClearAllStagesWithBestScore",
       "SetID": "59jf8f5",
       "Name": "Legendary Figure",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -300,7 +305,7 @@
       "ID": "ClearBackAll",
       "SetID": "59jf8f5",
       "Name": "Space-Time Traveler",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -340,7 +345,7 @@
       "ID": "ClearStageAll",
       "SetID": "59jf8f5",
       "Name": "World Master",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -350,7 +355,7 @@
       "Name": "The First Mushroom Hunt",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ClearStory",
@@ -364,7 +369,7 @@
       "ID": "CrossMagmaWithAnguirus",
       "SetID": "59jf8f5",
       "Name": "Fearless",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -388,7 +393,7 @@
       "ID": "DestroyNestsWithMashuras",
       "SetID": "59jf8f5",
       "Name": "A Private Issue?",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
       "UsersEstimate": 18
     },
@@ -428,7 +433,7 @@
       "ID": "EnterBackFirst",
       "SetID": "59jf8f5",
       "Name": "Parallel World",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -444,7 +449,7 @@
       "ID": "KillBoss1",
       "SetID": "59jf8f5",
       "Name": "Giant Mushroom Hunter",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -484,7 +489,7 @@
       "ID": "KillBossAll",
       "SetID": "59jf8f5",
       "Name": "King Mushroom Hunter",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -500,7 +505,7 @@
       "ID": "KillEnemyByContainerPopping",
       "SetID": "59jf8f5",
       "Name": "Beware of Container Storage",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -508,7 +513,7 @@
       "ID": "KillEnemyByEnemyAttack",
       "SetID": "59jf8f5",
       "Name": "Battlefield Tactician",
-      "Percentage": 53,
+      "Percentage": 51,
       "XP": 10,
       "UsersEstimate": 19
     },
@@ -516,7 +521,7 @@
       "ID": "KillEnemyByFailedGrow",
       "SetID": "59jf8f5",
       "Name": "Empty Fort Strategy",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -532,7 +537,7 @@
       "ID": "KillEnemyByPlayerKnockback",
       "SetID": "59jf8f5",
       "Name": "Earned Through Sacrifice",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 10,
       "UsersEstimate": 17
     },
@@ -620,7 +625,7 @@
       "ID": "ObtainMonsterFirst",
       "SetID": "59jf8f5",
       "Name": "Rookie Monster Collector",
-      "Percentage": 72,
+      "Percentage": 70,
       "XP": 10,
       "UsersEstimate": 26
     },
@@ -652,7 +657,7 @@
       "ID": "ObtainStar3OnStageAll",
       "SetID": "59jf8f5",
       "Name": "Godzilla Voxel Wars Champion",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 70,
       "UsersEstimate": 2
     },
@@ -660,7 +665,7 @@
       "ID": "PlayEveryoneStage",
       "SetID": "59jf8f5",
       "Name": "Battle in Another Universe",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -684,7 +689,7 @@
       "ID": "SummonMonster6InTurn1",
       "SetID": "59jf8f5",
       "Name": "Summoning Festival",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -700,7 +705,7 @@
       "ID": "UnlockAllEditActor",
       "SetID": "59jf8f5",
       "Name": "The Alpha and Omega",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 30,
       "UsersEstimate": 11
     }
@@ -709,14 +714,14 @@
     {
       "ID": "59jf8f5",
       "IsBase": true,
-      "Progressed": 36,
+      "Progressed": 37,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-24T21:58:03.1577897+00:00",
   "FirstSeenAchievements": "2023-11-07T04:02:54.7866362+00:00",
-  "LastChanged_Achievements": "2024-01-02T23:05:45.7724227+00:00",
+  "LastChanged_Achievements": "2024-01-03T00:06:01.9847717+00:00",
   "LastUpdate_AppInfo": "2024-01-02T07:56:58.0394449+00:00",
-  "LastUpdate_Ratings": "2024-01-02T23:00:12.6994863+00:00",
-  "LastUpdate_Achievements": "2024-01-02T23:05:45.7724686+00:00"
+  "LastUpdate_Ratings": "2024-01-03T00:00:27.6995374+00:00",
+  "LastUpdate_Achievements": "2024-01-03T00:06:01.984813+00:00"
 }

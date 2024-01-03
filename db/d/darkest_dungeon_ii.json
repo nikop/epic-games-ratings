@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10446,9 +10446,9 @@
       "Count": 1076
     }
   ],
-  "EOS_Progressed": 131365,
+  "EOS_Progressed": 131371,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1297,
+  "EOS_NewPlayers": 1294,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38046,6 +38046,11 @@
       "Time": "2024-01-02T23:10:14.2294734+00:00",
       "NumProgressed": 131365,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-03T00:10:51.7510374+00:00",
+      "NumProgressed": 131371,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38065,7 +38070,7 @@
       "Name": "Serenity Now!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6568
+      "UsersEstimate": 6569
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -38217,7 +38222,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6568
+      "UsersEstimate": 6569
     },
     {
       "ID": "combat_kill_fanatics",
@@ -38273,7 +38278,7 @@
       "Name": "Catch and Decease",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6568
+      "UsersEstimate": 6569
     },
     {
       "ID": "combat_kill_librarian",
@@ -38281,7 +38286,7 @@
       "Name": "Overdue Notice",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6568
+      "UsersEstimate": 6569
     },
     {
       "ID": "combat_kill_pillagers",
@@ -38297,7 +38302,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6568
+      "UsersEstimate": 6569
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -38593,7 +38598,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "combat_kill_collector",
@@ -38665,7 +38670,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -38688,21 +38693,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131365,
+      "Progressed": 131371,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6234,
+      "Progressed": 6240,
       "Completed": 820
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-02T19:58:51.8552101+00:00",
-  "LastChanged_Achievements": "2024-01-02T23:10:14.2294729+00:00",
+  "LastChanged_Achievements": "2024-01-03T00:10:51.7510372+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-02T22:59:33.4020434+00:00",
-  "LastUpdate_Achievements": "2024-01-02T23:10:14.2296664+00:00"
+  "LastUpdate_Ratings": "2024-01-02T23:59:49.0456198+00:00",
+  "LastUpdate_Achievements": "2024-01-03T00:10:51.7512+00:00"
 }

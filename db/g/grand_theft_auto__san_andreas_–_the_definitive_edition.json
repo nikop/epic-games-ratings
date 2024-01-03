@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -2179,9 +2179,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 18093,
+  "EOS_Progressed": 18096,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 1092,
+  "EOS_NewPlayers": 1093,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -18769,6 +18769,11 @@
       "Time": "2024-01-02T23:10:41.4289251+00:00",
       "NumProgressed": 18093,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2024-01-03T00:11:18.6450983+00:00",
+      "NumProgressed": 18096,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 35,
@@ -18780,7 +18785,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 14655
+      "UsersEstimate": 14658
     },
     {
       "ID": "ACH02",
@@ -18836,7 +18841,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 9046
+      "UsersEstimate": 9048
     },
     {
       "ID": "ACH09",
@@ -18860,7 +18865,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1628
+      "UsersEstimate": 1629
     },
     {
       "ID": "ACH12",
@@ -18884,7 +18889,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1809
+      "UsersEstimate": 1810
     },
     {
       "ID": "ACH15",
@@ -18956,7 +18961,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4523
+      "UsersEstimate": 4524
     },
     {
       "ID": "ACH24",
@@ -18996,7 +19001,7 @@
       "Name": "Original Gangster",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 1447
+      "UsersEstimate": 1448
     },
     {
       "ID": "ACH29",
@@ -19059,7 +19064,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 18093,
+      "Progressed": 18096,
       "Completed": 70
     }
   ],
@@ -19067,8 +19072,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-02T21:57:30.6005372+00:00",
-  "LastChanged_Achievements": "2024-01-02T23:10:41.4289248+00:00",
+  "LastChanged_Achievements": "2024-01-03T00:11:18.6450979+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.8114387+00:00",
-  "LastUpdate_Ratings": "2024-01-02T22:57:30.8345476+00:00",
-  "LastUpdate_Achievements": "2024-01-02T23:10:41.429012+00:00"
+  "LastUpdate_Ratings": "2024-01-02T23:57:46.0085756+00:00",
+  "LastUpdate_Achievements": "2024-01-03T00:11:18.6452046+00:00"
 }

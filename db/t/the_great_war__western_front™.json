@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 260,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -115,9 +115,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 830,
+  "EOS_Progressed": 831,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3645,6 +3645,11 @@
       "Time": "2024-01-02T22:04:58.0126207+00:00",
       "NumProgressed": 830,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T00:06:01.7283417+00:00",
+      "NumProgressed": 831,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -3726,9 +3731,9 @@
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
       "SetID": "6kcl14p",
       "Name": "La Der des Ders",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 116
+      "UsersEstimate": 125
     },
     {
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
@@ -3751,7 +3756,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 830,
+      "Progressed": 831,
       "Completed": 0
     }
   ],
@@ -3759,8 +3764,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-12-31T09:58:52.6483653+00:00",
-  "LastChanged_Achievements": "2024-01-02T23:05:45.7262792+00:00",
+  "LastChanged_Achievements": "2024-01-03T00:06:01.7283413+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:29.6055115+00:00",
-  "LastUpdate_Ratings": "2024-01-02T23:01:31.1396132+00:00",
-  "LastUpdate_Achievements": "2024-01-02T23:05:45.7263059+00:00"
+  "LastUpdate_Ratings": "2024-01-03T00:01:44.7481469+00:00",
+  "LastUpdate_Achievements": "2024-01-03T00:06:01.7283657+00:00"
 }

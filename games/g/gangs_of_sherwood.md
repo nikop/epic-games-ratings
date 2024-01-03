@@ -28,19 +28,19 @@
 | Ultra Combo | 15.00% | ~17 |
 | Take Action! | 15.00% | ~17 |
 | Ascending Will | 14.00% | ~16 |
-| Into the Lion's Den | 11.00% | ~12 |
+| Into the Lion's Den | 12.00% | ~13 |
 | Sky High Fighter | 10.00% | ~11 |
 | Haute Couture | 9.00% | ~10 |
-| The Gang prevails | 6.00% | ~7 |
+| The Gang prevails | 7.00% | ~8 |
 | Brilliant Executioner | 5.00% | ~6 |
 | No Mercy | 4.00% | ~4 |
 | Bold and Bossy | 4.00% | ~4 |
 | Power of Friendship! | 4.00% | ~4 |
 | Out of the ring | 4.00% | ~4 |
 | King of the Iron Fist | 3.00% | ~3 |
+| Only Child | 3.00% | ~3 |
 | Five of Friends | 2.00% | ~2 |
 | A Gest of Robyn Hode | 2.00% | ~2 |
-| Only Child | 2.00% | ~2 |
 | The Arsenal | 2.00% | ~2 |
 | Master of One | 2.00% | ~2 |
 | Sherwood Moment 37 | 0.90% | ~1 |

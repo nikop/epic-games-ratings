@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 125,
   "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -4897,9 +4897,9 @@
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 961
+      "UsersEstimate": 975
     },
     {
       "ID": "_03_FinishAct1",
@@ -5106,8 +5106,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-12-27T21:58:17.6269244+00:00",
-  "LastChanged_Achievements": "2024-01-02T23:07:43.4178359+00:00",
+  "LastChanged_Achievements": "2024-01-03T00:08:20.4774252+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.1530944+00:00",
-  "LastUpdate_Ratings": "2024-01-02T23:02:55.8355373+00:00",
-  "LastUpdate_Achievements": "2024-01-02T23:07:43.4178694+00:00"
+  "LastUpdate_Ratings": "2024-01-03T00:03:11.4968475+00:00",
+  "LastUpdate_Achievements": "2024-01-03T00:08:20.4774771+00:00"
 }

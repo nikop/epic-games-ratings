@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Land of the Rising Sun | 100.00% | ~1,084 |
+| Land of the Rising Sun | 100.00% | ~1,085 |
 | Hidden History | 71.00% | ~770 |
-| Commencing of Quests | 61.00% | ~661 |
+| Commencing of Quests | 61.00% | ~662 |
 | Budding Conjuror | 59.00% | ~640 |
-| Man-Machine Master | 48.00% | ~520 |
-| Mountain Splitter | 48.00% | ~520 |
-| Charmed by the Hunt | 48.00% | ~520 |
-| Subsistence Skills | 47.00% | ~509 |
+| Man-Machine Master | 48.00% | ~521 |
+| Mountain Splitter | 48.00% | ~521 |
+| Charmed by the Hunt | 48.00% | ~521 |
+| Subsistence Skills | 47.00% | ~510 |
 | Memory Rouser | 46.00% | ~499 |
 | Fusion Conjuror | 45.00% | ~488 |
-| Kemono Hunter | 41.00% | ~444 |
+| Kemono Hunter | 41.00% | ~445 |
 | Expert Conjuror | 39.00% | ~423 |
 | Helpful Heart | 38.00% | ~412 |
 | Flawless Crystal | 37.00% | ~401 |
 | Bonds of Enmity | 37.00% | ~401 |
-| Distance Devourer | 35.00% | ~379 |
+| Distance Devourer | 35.00% | ~380 |
 | Counter Specialist | 33.00% | ~358 |
 | Master of the Skies | 31.00% | ~336 |
 | Axer of Auspice | 27.00% | ~293 |
@@ -27,13 +27,13 @@
 | Fair Means or Foul | 26.00% | ~282 |
 | Kemono at Heart | 26.00% | ~282 |
 | Single Minded | 24.00% | ~260 |
-| Karakuri Trail | 22.00% | ~238 |
-| Snare Specialist | 22.00% | ~238 |
+| Karakuri Trail | 22.00% | ~239 |
+| Snare Specialist | 22.00% | ~239 |
 | Artful Assister | 21.00% | ~228 |
 | Team Hunter | 19.00% | ~206 |
 | Reincarnation Cycle Stopper | 19.00% | ~206 |
 | Karakuri Isle | 18.00% | ~195 |
-| Human Believer | 16.00% | ~173 |
+| Human Believer | 16.00% | ~174 |
 | Left Arm Leverager | 15.00% | ~163 |
 | Style Seeker | 15.00% | ~163 |
 | Unrivaled in Arms | 15.00% | ~163 |
@@ -53,7 +53,7 @@
 | Big Spender | 5.00% | ~54 |
 | Tsukumo Whisperer | 3.00% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,084 (Ranked 285)  
+Progressed: 1,085 (Ranked 285)  
 Completed: 8 (0.74%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,3 +163,4 @@ Completed: 8 (0.74%) (Ranked 192)
 | 2023-12-31 | 1,042 | 8 |
 | 2024-01-01 | 1,065 | 8 |
 | 2024-01-02 | 1,084 | 8 |
+| 2024-01-03 | 1,085 | 8 |

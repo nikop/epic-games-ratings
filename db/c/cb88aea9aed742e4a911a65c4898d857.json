@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -257,7 +257,7 @@
       "Count": 90
     }
   ],
-  "EOS_Progressed": 9691,
+  "EOS_Progressed": 9700,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1824,
   "EOS_NewCompleters": 0,
@@ -3417,6 +3417,11 @@
       "Time": "2024-01-02T23:10:35.5315543+00:00",
       "NumProgressed": 9691,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T00:11:12.7882221+00:00",
+      "NumProgressed": 9700,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3429,7 +3434,7 @@
       "Name": "Conspiracy",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "03_TheStolenStar",
@@ -3437,7 +3442,7 @@
       "Name": "Stolen Star",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -3541,7 +3546,7 @@
       "Name": "The Rise",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "17_TheExemplar",
@@ -3557,7 +3562,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "19_TheVoidWolf",
@@ -3739,9 +3744,9 @@
       "ID": "41_TheJungleHeat",
       "SetID": "37a94m8",
       "Name": "Jungle Heat",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 388
+      "UsersEstimate": 485
     },
     {
       "ID": "42_TheIronJudgement",
@@ -3781,7 +3786,7 @@
       "Name": "A Spark",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "47_AFlame",
@@ -3883,9 +3888,9 @@
       "ID": "59_ThePossessedShip",
       "SetID": "37a94m8",
       "Name": "The Possessed Ship",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 48
     },
     {
       "ID": "60_NotSoBottomlessPit",
@@ -3948,7 +3953,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 9691,
+      "Progressed": 9700,
       "Completed": 0
     }
   ],
@@ -3956,8 +3961,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-02T20:00:11.0381058+00:00",
-  "LastChanged_Achievements": "2024-01-02T23:10:35.5315538+00:00",
+  "LastChanged_Achievements": "2024-01-03T00:11:12.7882218+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2024-01-02T23:01:31.3236124+00:00",
-  "LastUpdate_Achievements": "2024-01-02T23:10:35.5316339+00:00"
+  "LastUpdate_Ratings": "2024-01-03T00:01:44.9422355+00:00",
+  "LastUpdate_Achievements": "2024-01-03T00:11:12.7882825+00:00"
 }

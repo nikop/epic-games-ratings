@@ -10,15 +10,15 @@
 | Under cover | 31.00% | ~18 |
 | First blood | 31.00% | ~18 |
 | Royal blessing | 24.00% | ~14 |
+| Blood and sand | 24.00% | ~14 |
 | All for one! | 22.00% | ~13 |
 | A hidden snake | 22.00% | ~13 |
-| Blood and sand | 22.00% | ~13 |
 | Crimson rivers | 17.00% | ~10 |
 | Power of Inquisition | 17.00% | ~10 |
 | Surpass the teacher | 17.00% | ~10 |
-| Vene, vidi, vici | 15.00% | ~9 |
+| Vene, vidi, vici | 17.00% | ~10 |
+| She-Wolf | 17.00% | ~10 |
 | Help of the Gell | 15.00% | ~9 |
-| She-Wolf | 15.00% | ~9 |
 | Rage | 14.00% | ~8 |
 | Berkanan Borgia | 12.00% | ~7 |
 | Trial by cold | 12.00% | ~7 |

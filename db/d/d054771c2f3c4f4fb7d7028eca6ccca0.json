@@ -4,8 +4,8 @@
   "ProductSlug": "pinball-m-755276",
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
     "PcReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3393,
+  "EOS_Progressed": 3395,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 533,
+  "EOS_NewPlayers": 526,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3714,6 +3714,11 @@
       "Time": "2024-01-02T23:05:50.0580329+00:00",
       "NumProgressed": 3393,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T00:06:06.3656861+00:00",
+      "NumProgressed": 3395,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -3790,7 +3795,7 @@
       "Name": "Terrible Journey",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -3926,7 +3931,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 1391
+      "UsersEstimate": 1392
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -4101,14 +4106,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 3393,
+      "Progressed": 3395,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2024-01-02T23:05:50.0580325+00:00",
+  "LastChanged_Achievements": "2024-01-03T00:06:06.3656852+00:00",
   "LastUpdate_AppInfo": "2024-01-02T13:00:37.2315097+00:00",
-  "LastUpdate_Ratings": "2024-01-02T23:02:34.5366191+00:00",
-  "LastUpdate_Achievements": "2024-01-02T23:05:50.0581071+00:00"
+  "LastUpdate_Ratings": "2024-01-03T00:02:49.3120713+00:00",
+  "LastUpdate_Achievements": "2024-01-03T00:06:06.365734+00:00"
 }

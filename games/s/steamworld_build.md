@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Mathematic | 86.00% | ~202 |
 | Digging a Hole | 77.00% | ~181 |
-| It's Yours, My Friend | 72.00% | ~169 |
-| Conducted Trade | 65.00% | ~153 |
+| It's Yours, My Friend | 73.00% | ~172 |
+| Conducted Trade | 66.00% | ~155 |
 | Going Places | 65.00% | ~153 |
 | Aristocratic | 62.00% | ~146 |
 | Tutti Frutti | 57.00% | ~134 |

@@ -6,21 +6,21 @@ Rating: 4.59 (Ranked 445)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 32.00% | ~1,252 |
-| Sputnik 2049 | 28.00% | ~1,095 |
-| Infinite Growth... | 27.00% | ~1,056 |
+| Sputnik 2049 | 28.00% | ~1,096 |
+| Infinite Growth... | 27.00% | ~1,057 |
 | Without Breaking Some Eggs... | 26.00% | ~1,017 |
 | Space Society | 18.00% | ~704 |
 | A Thousand Strong | 18.00% | ~704 |
 | Ready for a New World | 18.00% | ~704 |
 | Permanent Redesigns | 16.00% | ~626 |
+| Fully Recycled | 15.00% | ~587 |
 | The Ship of Theseus | 15.00% | ~587 |
 | Guy de Borderlands | 14.00% | ~548 |
-| Fully Recycled | 14.00% | ~548 |
 | Ain't Nobody Got Time for That | 14.00% | ~548 |
 | Hope Seeker | 13.00% | ~509 |
-| A Hunk of Junk | 12.00% | ~469 |
-| Exceeding Capacity | 12.00% | ~469 |
-| Breaking Protocol | 12.00% | ~469 |
+| A Hunk of Junk | 12.00% | ~470 |
+| Exceeding Capacity | 12.00% | ~470 |
+| Breaking Protocol | 12.00% | ~470 |
 | Man's Best Friend | 9.00% | ~352 |
 | Power Outage | 9.00% | ~352 |
 | Convenient Transport | 8.00% | ~313 |
@@ -37,8 +37,8 @@ Rating: 4.59 (Ranked 445)
 | BRAWL! | 5.00% | ~196 |
 | Drill-dozer | 5.00% | ~196 |
 | What the Ruins Teach Us | 5.00% | ~196 |
-| Sustainable Energy | 4.00% | ~156 |
-| Pedal to the Metal | 4.00% | ~156 |
+| Sustainable Energy | 4.00% | ~157 |
+| Pedal to the Metal | 4.00% | ~157 |
 | Praise the Hull! | 3.00% | ~117 |
 | Delivery! | 3.00% | ~117 |
 | Help of the Forgotten Member | 3.00% | ~117 |
@@ -63,7 +63,7 @@ Rating: 4.59 (Ranked 445)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,912 (Ranked 212)  
+Progressed: 3,913 (Ranked 212)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,6 +311,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-31 | 3,860 | 0 |
 | 2024-01-01 | 3,888 | 0 |
 | 2024-01-02 | 3,912 | 0 |
+| 2024-01-03 | 3,913 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

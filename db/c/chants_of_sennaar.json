@@ -6,8 +6,8 @@
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 239,
-  "Ranking_EOS_Completed": 65,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_Completed": 68,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -103,11 +103,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2241,
+  "EOS_Progressed": 2242,
   "EOS_Completed": 140,
-  "EOS_NewPlayers": 387,
-  "EOS_NewCompleters": 30,
-  "EOS_Completed_Percentage": 6.25,
+  "EOS_NewPlayers": 388,
+  "EOS_NewCompleters": 29,
+  "EOS_Completed_Percentage": 6.24,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -6148,6 +6148,11 @@
       "Time": "2024-01-02T23:04:27.6074694+00:00",
       "NumProgressed": 2241,
       "NumCompleted": 140
+    },
+    {
+      "Time": "2024-01-03T00:04:43.0732829+00:00",
+      "NumProgressed": 2242,
+      "NumCompleted": 140
     }
   ],
   "TotalAchievements": 25,
@@ -6167,7 +6172,7 @@
       "Name": "In this together",
       "Percentage": 23,
       "XP": 200,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "META_ALL_LINK",
@@ -6191,7 +6196,7 @@
       "Name": "A good beginning",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "META_HALF_LINK",
@@ -6279,7 +6284,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 941
+      "UsersEstimate": 942
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -6295,7 +6300,7 @@
       "Name": "Champollion",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -6303,7 +6308,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1277
+      "UsersEstimate": 1278
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -6319,7 +6324,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1165
+      "UsersEstimate": 1166
     },
     {
       "ID": "PROGRESS_N2",
@@ -6358,7 +6363,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2241,
+      "Progressed": 2242,
       "Completed": 140
     }
   ],
@@ -6366,8 +6371,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-02T16:02:46.9551572+00:00",
-  "LastChanged_Achievements": "2024-01-02T23:04:27.6074689+00:00",
+  "LastChanged_Achievements": "2024-01-03T00:04:43.0732825+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:09.4320521+00:00",
-  "LastUpdate_Ratings": "2024-01-02T23:03:03.2756837+00:00",
-  "LastUpdate_Achievements": "2024-01-02T23:04:27.6075146+00:00"
+  "LastUpdate_Ratings": "2024-01-03T00:03:19.2836207+00:00",
+  "LastUpdate_Achievements": "2024-01-03T00:04:43.0733167+00:00"
 }

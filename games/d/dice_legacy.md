@@ -30,8 +30,8 @@ Rating: 4.29 (Ranked 876)
 | Like the dream | 1.00% | ~13 |
 | Metropolis | 0.90% | ~12 |
 | Charismatic Leader | 0.80% | ~10 |
+| Knowledge is Power | 0.70% | ~9 |
 | Red Tape | 0.60% | ~8 |
-| Knowledge is Power | 0.60% | ~8 |
 | Six Faces | 0.50% | ~6 |
 | The Great Winter | 0.50% | ~6 |
 | Ice and Fire | 0.30% | ~4 |

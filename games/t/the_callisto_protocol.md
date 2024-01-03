@@ -5,17 +5,17 @@ Rating: 4.21 (Ranked 946)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 22.00% | ~4,553 |
-| The Outer Way | 22.00% | ~4,553 |
-| Desperate Times | 21.00% | ~4,346 |
-| Get a Grip | 19.00% | ~3,932 |
-| Paper Jams | 19.00% | ~3,932 |
-| Chew 'Em Up | 17.00% | ~3,518 |
-| Reforged | 16.00% | ~3,311 |
-| Float Like A Butterfly | 15.00% | ~3,104 |
-| If the SHU Fits... | 14.00% | ~2,897 |
-| Workplace Hazard | 13.00% | ~2,690 |
-| Without A Paddle | 12.00% | ~2,483 |
+| Flesh Wound | 22.00% | ~4,554 |
+| The Outer Way | 22.00% | ~4,554 |
+| Desperate Times | 21.00% | ~4,347 |
+| Get a Grip | 19.00% | ~3,933 |
+| Paper Jams | 19.00% | ~3,933 |
+| Chew 'Em Up | 17.00% | ~3,519 |
+| Reforged | 16.00% | ~3,312 |
+| Float Like A Butterfly | 15.00% | ~3,105 |
+| If the SHU Fits... | 14.00% | ~2,898 |
+| Workplace Hazard | 13.00% | ~2,691 |
+| Without A Paddle | 12.00% | ~2,484 |
 | Two Heads Are Better Than One | 10.00% | ~2,070 |
 | In the Pipe, Five by Five | 10.00% | ~2,070 |
 | Crash Site | 10.00% | ~2,070 |
@@ -26,7 +26,7 @@ Rating: 4.21 (Ranked 946)
 | What Lies Beneath | 8.00% | ~1,656 |
 | Full Circle | 8.00% | ~1,656 |
 | I Do Belong Here | 7.00% | ~1,449 |
-| Keep Fighting | 7.00% | ~603 |
+| Keep Fighting | 7.00% | ~604 |
 | It's Time | 5.00% | ~431 |
 | In Striking Distance | 4.00% | ~828 |
 | The Commonality | 4.00% | ~828 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 946)
 | Big Game Hunter | 0.10% | ~9 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,695 (Ranked 150)  
+Progressed: 20,699 (Ranked 150)  
 Completed: 82 (0.40%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,6 +303,7 @@ Completed: 82 (0.40%) (Ranked 232)
 | 2023-12-31 | 20,337 | 82 |
 | 2024-01-01 | 20,521 | 82 |
 | 2024-01-02 | 20,695 | 82 |
+| 2024-01-03 | 20,699 | 82 |
 ## Awards
 Max (Amazing Characters): 109  (Ranked 363)  
 Sum: 554 (Ranked 327)  

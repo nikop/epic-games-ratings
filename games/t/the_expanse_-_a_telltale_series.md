@@ -12,16 +12,16 @@ Rating: 4.54 (Ranked 543)
 | Bosmang | 12.00% | ~2,169 |
 | Celebrations are in Order | 12.00% | ~2,169 |
 | Impossible Objects | 12.00% | ~2,169 |
-| Drone Dodger | 11.00% | ~1,988 |
+| Drone Dodger | 11.00% | ~1,989 |
 | Stogie for Fogey | 10.00% | ~1,808 |
 | Spore Taste | 10.00% | ~1,808 |
 | Safe Cracker | 9.00% | ~363 |
 | Zen Master | 9.00% | ~363 |
 | Call it Even | 8.00% | ~1,446 |
-| Madame Undersecretary | 8.00% | ~322 |
-| Data Archivist | 7.00% | ~1,265 |
-| Drug Gifter | 7.00% | ~1,265 |
-| Heal Thy Medic | 7.00% | ~1,265 |
+| Madame Undersecretary | 8.00% | ~323 |
+| Data Archivist | 7.00% | ~1,266 |
+| Drug Gifter | 7.00% | ~1,266 |
+| Heal Thy Medic | 7.00% | ~1,266 |
 | Keep Arjun in Check | 7.00% | ~282 |
 | Thorston Mayer | 6.00% | ~1,085 |
 | Khan's Revenge | 6.00% | ~1,085 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 543)
 | Scavenger Star | 0.30% | ~54 |
 | Data Collector | 0.20% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,077 (Ranked 158)  
+Progressed: 18,079 (Ranked 158)  
 Completed: 58 (0.32%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,6 +206,7 @@ Completed: 58 (0.32%) (Ranked 246)
 | 2023-12-31 | 17,926 | 58 |
 | 2024-01-01 | 18,013 | 58 |
 | 2024-01-02 | 18,077 | 58 |
+| 2024-01-03 | 18,079 | 58 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

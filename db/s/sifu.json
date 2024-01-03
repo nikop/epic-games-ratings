@@ -2,13 +2,13 @@
   "ID": "b7b42e2078524ab386a8b2a9856ef557",
   "Name": "Sifu",
   "ProductSlug": "sifu",
-  "Ranking_Rating": 69,
+  "Ranking_Rating": 68,
   "Ranking_Popularity": 55,
   "Ranking_PopularitySum": 87,
   "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 141,
   "Ranking_EOS_NewPlayers": 36,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8697,9 +8697,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 752188,
+  "EOS_Progressed": 752204,
   "EOS_Completed": 12971,
-  "EOS_NewPlayers": 6633,
+  "EOS_NewPlayers": 6639,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.72,
   "EosHistory": [
@@ -32077,6 +32077,11 @@
       "Time": "2024-01-02T23:09:35.3458997+00:00",
       "NumProgressed": 752188,
       "NumCompleted": 12971
+    },
+    {
+      "Time": "2024-01-03T00:10:13.2981911+00:00",
+      "NumProgressed": 752204,
+      "NumCompleted": 12971
     }
   ],
   "TotalAchievements": 60,
@@ -32088,7 +32093,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 37609
+      "UsersEstimate": 37610
     },
     {
       "ID": "02_Vengeance_H1",
@@ -32440,7 +32445,7 @@
       "Name": "Bloody Sport",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -32456,7 +32461,7 @@
       "Name": "Deadly Venom",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "48_Arena_GoldCapture",
@@ -32464,7 +32469,7 @@
       "Name": "Secure, Protect, Leave",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "49_Arena_GoldSurvival",
@@ -32496,7 +32501,7 @@
       "Name": "Hidden Dragon",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "53_Arena_HighStamps",
@@ -32520,7 +32525,7 @@
       "Name": "Here Cometh the Iceman",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "56_Arena_LakeKill",
@@ -32528,7 +32533,7 @@
       "Name": "Fighter in the Pond",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "57_Arena_Car",
@@ -32536,7 +32541,7 @@
       "Name": "Bonus Stage",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "58_Arena_Music",
@@ -32560,28 +32565,28 @@
       "Name": "A Bit Of Everything, Simultaneously",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     }
   ],
   "AchievementSets": [
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 61489,
+      "Progressed": 61505,
       "Completed": 10796
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 752188,
+      "Progressed": 752204,
       "Completed": 12971
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-02T06:02:59.8897047+00:00",
-  "LastChanged_Achievements": "2024-01-02T23:09:35.3458993+00:00",
+  "LastChanged_Achievements": "2024-01-03T00:10:13.2981908+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:26.4563062+00:00",
-  "LastUpdate_Ratings": "2024-01-02T23:03:26.2425458+00:00",
-  "LastUpdate_Achievements": "2024-01-02T23:09:35.3460433+00:00"
+  "LastUpdate_Ratings": "2024-01-03T00:03:41.7016577+00:00",
+  "LastUpdate_Achievements": "2024-01-03T00:10:13.2983475+00:00"
 }

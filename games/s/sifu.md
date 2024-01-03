@@ -1,12 +1,12 @@
 # Sifu
 [Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
-Rating: 4.82 (Ranked 69)  
+Rating: 4.82 (Ranked 68)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 5.00% | ~37,609 |
+| The Old Grandmaster | 5.00% | ~37,610 |
 | The Assault | 4.00% | ~30,088 |
 | Life is your teacher | 4.00% | ~30,088 |
 | Lightning Hands | 4.00% | ~30,088 |
@@ -39,7 +39,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Source of Flying Daggers | 0.50% | ~3,761 |
 | Iron Money | 0.50% | ~3,761 |
 | Sword Stained With Blood | 0.50% | ~3,761 |
-| Bloody Sport | 0.50% | ~307 |
+| Bloody Sport | 0.50% | ~308 |
 | Legendary Talismans of Wuxing | 0.40% | ~3,009 |
 | Prodigal Child | 0.40% | ~3,009 |
 | The 36th Chamber of Kung-Fu | 0.40% | ~3,009 |
@@ -49,7 +49,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Knowledge Greed | 0.30% | ~2,257 |
 | The Pit Protector | 0.30% | ~2,257 |
 | Come Snap With Me | 0.30% | ~2,257 |
-| Deadly Venom | 0.30% | ~184 |
+| Deadly Venom | 0.30% | ~185 |
 | Healing Memory | 0.20% | ~1,504 |
 | Master of the Phoenix Eye Fist | 0.20% | ~1,504 |
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,504 |
@@ -60,14 +60,14 @@ Number of Ratings: 9,492  (23.09.2022)
 | Master of the Flying Assassins | 0.20% | ~123 |
 | Beatmaker | 0.20% | ~123 |
 | Warriors from the Mountain | 0.10% | ~752 |
-| Secure, Protect, Leave | 0.10% | ~61 |
-| Hidden Dragon | 0.10% | ~61 |
-| Here Cometh the Iceman | 0.10% | ~61 |
-| Fighter in the Pond | 0.10% | ~61 |
-| Bonus Stage | 0.10% | ~61 |
-| A Bit Of Everything, Simultaneously | 0.10% | ~61 |
+| Secure, Protect, Leave | 0.10% | ~62 |
+| Hidden Dragon | 0.10% | ~62 |
+| Here Cometh the Iceman | 0.10% | ~62 |
+| Fighter in the Pond | 0.10% | ~62 |
+| Bonus Stage | 0.10% | ~62 |
+| A Bit Of Everything, Simultaneously | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 752,188 (Ranked 24)  
+Progressed: 752,204 (Ranked 24)  
 Completed: 12,971 (1.72%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,6 +325,7 @@ Completed: 12,971 (1.72%) (Ranked 141)
 | 2023-12-31 | 750,399 | 12,971 |
 | 2024-01-01 | 751,425 | 12,971 |
 | 2024-01-02 | 752,188 | 12,971 |
+| 2024-01-03 | 752,204 | 12,971 |
 ## Awards
 Max (Great Boss Battles): 7,079  (Ranked 55)  
 Sum: 11,978 (Ranked 87)  

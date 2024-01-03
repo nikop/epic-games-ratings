@@ -13,7 +13,7 @@
 | Heavy Thoughts | 20.00% | ~12 |
 | Repair the Mind Validation Machine | 20.00% | ~12 |
 | Flee like an idiot | 18.00% | ~11 |
-| Elementary, My Dear Dusty | 15.00% | ~9 |
+| Elementary, My Dear Dusty | 16.00% | ~10 |
 | Come full circle | 11.00% | ~7 |
 | Dance like an idiot | 11.00% | ~7 |
 | I'm Back at the Surface now | 10.00% | ~6 |

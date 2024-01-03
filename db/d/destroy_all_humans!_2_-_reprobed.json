@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -288,7 +288,7 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 291,
+  "EOS_Progressed": 292,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
@@ -1418,6 +1418,11 @@
       "Time": "2024-01-02T20:08:57.6761632+00:00",
       "NumProgressed": 291,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-03T00:10:12.0640703+00:00",
+      "NumProgressed": 292,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1430,7 +1435,7 @@
       "Name": "Mash Machine",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1446,7 +1451,7 @@
       "Name": "Perfect Probulator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_BASKETBALL_SLAM",
@@ -1540,9 +1545,9 @@
       "ID": "ACH_DISLOCATOR_BOWLING",
       "SetID": "4n84pon",
       "Name": "Ducks in a Row, Fish in a Barrel",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -1558,15 +1563,15 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
       "SetID": "4n84pon",
       "Name": "Rock of the Bay",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 236
+      "UsersEstimate": 234
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1630,7 +1635,7 @@
       "Name": "Die Nasty",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_KILL_REINCARNATOR",
@@ -1764,9 +1769,9 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "4n84pon",
       "Name": "Shop Til They Drop",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 117
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1781,7 +1786,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 291,
+      "Progressed": 292,
       "Completed": 1
     }
   ],
@@ -1789,8 +1794,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-31T11:01:39.7283208+00:00",
-  "LastChanged_Achievements": "2024-01-02T23:09:34.0835102+00:00",
+  "LastChanged_Achievements": "2024-01-03T00:10:12.06407+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.261947+00:00",
-  "LastUpdate_Ratings": "2024-01-02T22:58:27.9711739+00:00",
-  "LastUpdate_Achievements": "2024-01-02T23:09:34.0835574+00:00"
+  "LastUpdate_Ratings": "2024-01-02T23:58:42.3171133+00:00",
+  "LastUpdate_Achievements": "2024-01-03T00:10:12.0641001+00:00"
 }

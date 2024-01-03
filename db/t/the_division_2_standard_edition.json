@@ -2,13 +2,13 @@
   "ID": "impala",
   "Name": "The Division 2 Standard Edition",
   "ProductSlug": "the-division-2",
-  "Ranking_Rating": 633,
+  "Ranking_Rating": 632,
   "Ranking_Popularity": 45,
   "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2019-03-15T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -14289,10 +14289,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 30026,
       "NumberOfAwardsMax": 8818
+    },
+    {
+      "Time": "2024-01-02T23:59:13.1989634+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 30027,
+      "NumberOfAwardsMax": 8818
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30026,
+  "NumberOfAwards": 30027,
   "NumberOfAwardsMax": 8818,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -14318,7 +14324,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1586
+      "Count": 1587
     },
     {
       "Text": "This game is Highly Recommended",
@@ -14380,8 +14386,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2024-01-02T18:59:12.5668277+00:00",
+  "LastChanged": "2024-01-02T23:59:13.1989632+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:41.6621186+00:00",
-  "LastUpdate_Ratings": "2024-01-02T22:58:58.1837636+00:00",
-  "LastUpdate_Achievements": "2024-01-02T23:04:42.9894996+00:00"
+  "LastUpdate_Ratings": "2024-01-02T23:59:13.1989638+00:00",
+  "LastUpdate_Achievements": "2024-01-03T00:04:58.1459462+00:00"
 }

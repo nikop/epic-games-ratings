@@ -6,7 +6,7 @@
   "Ranking_Popularity": 71,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 70,
-  "Ranking_EOS_Completed": 169,
+  "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 47,
   "Ranking_EOS_NewCompleters": 20,
   "Store": {
@@ -9289,7 +9289,7 @@
       "Count": 3622
     }
   ],
-  "EOS_Progressed": 250032,
+  "EOS_Progressed": 250051,
   "EOS_Completed": 2585,
   "EOS_NewPlayers": 5001,
   "EOS_NewCompleters": 19,
@@ -38434,6 +38434,11 @@
       "Time": "2024-01-02T23:10:59.0239191+00:00",
       "NumProgressed": 250032,
       "NumCompleted": 2585
+    },
+    {
+      "Time": "2024-01-03T00:11:36.404817+00:00",
+      "NumProgressed": 250051,
+      "NumCompleted": 2585
     }
   ],
   "TotalAchievements": 546,
@@ -38445,7 +38450,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7501
+      "UsersEstimate": 7502
     },
     {
       "ID": "objective_completed_10",
@@ -38813,7 +38818,7 @@
       "Name": "Beast Intentions",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2500
+      "UsersEstimate": 2501
     },
     {
       "ID": "objective_completed_110",
@@ -40117,7 +40122,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2500
+      "UsersEstimate": 2501
     },
     {
       "ID": "objective_completed_34",
@@ -42733,7 +42738,7 @@
       "Name": "Welcome to Sigil",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1730
+      "UsersEstimate": 1731
     },
     {
       "ID": "objective_completed_1558",
@@ -42812,21 +42817,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 216306,
+      "Progressed": 216325,
       "Completed": 4128
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 250032,
+      "Progressed": 250051,
       "Completed": 2585
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-02T20:58:24.5866544+00:00",
-  "LastChanged_Achievements": "2024-01-02T23:10:59.0239186+00:00",
+  "LastChanged_Achievements": "2024-01-03T00:11:36.4048166+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-02T22:58:44.3214261+00:00",
-  "LastUpdate_Achievements": "2024-01-02T23:10:59.0263431+00:00"
+  "LastUpdate_Ratings": "2024-01-02T23:58:58.9856406+00:00",
+  "LastUpdate_Achievements": "2024-01-03T00:11:36.4072267+00:00"
 }

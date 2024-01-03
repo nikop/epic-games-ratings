@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -703,7 +703,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 473262,
+  "EOS_Progressed": 473264,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 391,
   "EOS_NewCompleters": 1,
@@ -27313,6 +27313,11 @@
       "Time": "2024-01-02T23:10:53.965054+00:00",
       "NumProgressed": 473262,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-03T00:11:31.3894694+00:00",
+      "NumProgressed": 473264,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 79,
@@ -27324,7 +27329,7 @@
       "Name": "Knightmare Frames",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70989
+      "UsersEstimate": 70990
     },
     {
       "ID": "achievement_expedition_overcome_sandworm",
@@ -27332,7 +27337,7 @@
       "Name": "May His passing cleanse the world",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70989
+      "UsersEstimate": 70990
     },
     {
       "ID": "achievement_first_death",
@@ -27356,7 +27361,7 @@
       "Name": "Chapter II: Fallible Flesh",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 70989
+      "UsersEstimate": 70990
     },
     {
       "ID": "achievement_story_complete_chapter_3",
@@ -27412,7 +27417,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 312353
+      "UsersEstimate": 312354
     },
     {
       "ID": "achievement_story_landa",
@@ -27492,7 +27497,7 @@
       "Name": "Pope Zenon",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70989
+      "UsersEstimate": 70990
     },
     {
       "ID": "achievement_story_neon_child",
@@ -27500,7 +27505,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 94652
+      "UsersEstimate": 94653
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -27508,7 +27513,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160909
+      "UsersEstimate": 160910
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -27748,7 +27753,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 208235
+      "UsersEstimate": 208236
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -27772,7 +27777,7 @@
       "Name": "Plan for the worst",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 56791
+      "UsersEstimate": 56792
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -27780,7 +27785,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 184572
+      "UsersEstimate": 184573
     },
     {
       "ID": "achievement_win_run_hard",
@@ -27955,21 +27960,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 17196,
+      "Progressed": 17198,
       "Completed": 2362
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 473262,
+      "Progressed": 473264,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2024-01-02T22:00:26.0871985+00:00",
-  "LastChanged_Achievements": "2024-01-02T23:10:53.9650534+00:00",
+  "LastChanged_Achievements": "2024-01-03T00:11:31.389469+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:35.1454991+00:00",
-  "LastUpdate_Ratings": "2024-01-02T23:01:46.3580049+00:00",
-  "LastUpdate_Achievements": "2024-01-02T23:10:53.9652459+00:00"
+  "LastUpdate_Ratings": "2024-01-03T00:02:01.9046452+00:00",
+  "LastUpdate_Achievements": "2024-01-03T00:11:31.3896723+00:00"
 }

@@ -1,7 +1,7 @@
 # HYPERCHARGE: Unboxed
 [Store](https://store.epicgames.com/en-US/p/hypercharge-unboxed)  
 [View Rawdata](../../db/h/hypercharge__unboxed.json)  
-Rating: 4.67 (Ranked 284)  
+Rating: 4.68 (Ranked 260)  
 Number of Ratings: 20  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -18,3 +18,4 @@ Number of Ratings: 20  (23.09.2022)
 | 2023-05-25 | 4.64 | - | 0 | 0 |
 | 2023-06-12 | 4.66 | - | 0 | 0 |
 | 2023-12-31 | 4.67 | - | 0 | 0 |
+| 2024-01-03 | 4.68 | - | 0 | 0 |

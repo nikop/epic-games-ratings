@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 349,
-  "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -273,9 +273,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 70083,
+  "EOS_Progressed": 70086,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 303,
+  "EOS_NewPlayers": 305,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19378,6 +19378,11 @@
       "Time": "2024-01-02T23:06:57.5609225+00:00",
       "NumProgressed": 70083,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-03T00:07:14.7686637+00:00",
+      "NumProgressed": 70086,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 20,
@@ -19397,7 +19402,7 @@
       "Name": "Bonfire Lit",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 2102
+      "UsersEstimate": 2103
     },
     {
       "ID": "ACH_CHURCHCANDLES",
@@ -19541,14 +19546,14 @@
       "Name": "Survival Expert",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 2102
+      "UsersEstimate": 2103
     }
   ],
   "AchievementSets": [
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 70083,
+      "Progressed": 70086,
       "Completed": 18
     }
   ],
@@ -19556,8 +19561,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-11-04T14:58:39.1316469+00:00",
-  "LastChanged_Achievements": "2024-01-02T23:06:57.5609222+00:00",
+  "LastChanged_Achievements": "2024-01-03T00:07:14.7686634+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:27.5821372+00:00",
-  "LastUpdate_Ratings": "2024-01-02T22:57:31.4596675+00:00",
-  "LastUpdate_Achievements": "2024-01-02T23:06:57.5610102+00:00"
+  "LastUpdate_Ratings": "2024-01-02T23:57:46.6222067+00:00",
+  "LastUpdate_Achievements": "2024-01-03T00:07:14.7687617+00:00"
 }

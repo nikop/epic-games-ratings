@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 131,
   "Ranking_EOS_NewPlayers": 367,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
     "PcReleaseDate": "2021-07-27T17:00:00+00:00",
@@ -700,9 +700,9 @@
       "ID": "impress_theron",
       "SetID": "a3kkelb",
       "Name": "Impress Theron",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 141
+      "UsersEstimate": 144
     },
     {
       "ID": "marriage_is_off",
@@ -805,8 +805,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2024-01-02T23:07:24.9293326+00:00",
+  "LastChanged_Achievements": "2024-01-03T00:07:42.183121+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:35.4264884+00:00",
-  "LastUpdate_Ratings": "2024-01-02T22:59:34.5193996+00:00",
-  "LastUpdate_Achievements": "2024-01-02T23:07:24.9293516+00:00"
+  "LastUpdate_Ratings": "2024-01-02T23:59:50.1158215+00:00",
+  "LastUpdate_Achievements": "2024-01-03T00:07:42.1831346+00:00"
 }

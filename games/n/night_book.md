@@ -9,7 +9,7 @@
 | No One Is Safe | 66.00% | ~197 |
 | He's Off His Meds | 55.00% | ~164 |
 | Deal Or No Deal | 49.00% | ~147 |
-| Impress Theron | 47.00% | ~141 |
+| Impress Theron | 48.00% | ~144 |
 | Personal Life | 46.00% | ~138 |
 | On Your Bike | 29.00% | ~87 |
 | Save Dad | 23.00% | ~69 |

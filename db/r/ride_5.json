@@ -2,13 +2,13 @@
   "ID": "82aa77fde0b14916a86b66b1e6345c30",
   "Name": "RIDE 5",
   "ProductSlug": "ride-5",
-  "Ranking_Rating": 674,
+  "Ranking_Rating": 673,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -45,7 +45,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3224,
+  "EOS_Progressed": 3225,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 0,
@@ -7945,6 +7945,11 @@
       "Time": "2024-01-02T22:04:56.4183484+00:00",
       "NumProgressed": 3224,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T00:05:59.8995082+00:00",
+      "NumProgressed": 3225,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -8061,7 +8066,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -8213,7 +8218,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -8245,7 +8250,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -8309,7 +8314,7 @@
       "Name": "Rivals to the End",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -8348,7 +8353,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3224,
+      "Progressed": 3225,
       "Completed": 0
     }
   ],
@@ -8356,8 +8361,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-02T17:58:34.6110096+00:00",
-  "LastChanged_Achievements": "2024-01-02T23:05:43.7260978+00:00",
+  "LastChanged_Achievements": "2024-01-03T00:05:59.899508+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:59.7599271+00:00",
-  "LastUpdate_Ratings": "2024-01-02T22:58:16.1380385+00:00",
-  "LastUpdate_Achievements": "2024-01-02T23:05:43.72616+00:00"
+  "LastUpdate_Ratings": "2024-01-02T23:58:30.9905327+00:00",
+  "LastUpdate_Achievements": "2024-01-03T00:05:59.8995823+00:00"
 }

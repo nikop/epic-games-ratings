@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18077,
+  "EOS_Progressed": 18079,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 564,
+  "EOS_NewPlayers": 556,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -16075,6 +16075,11 @@
       "Time": "2024-01-02T23:05:04.9262011+00:00",
       "NumProgressed": 18077,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-03T00:05:20.5540532+00:00",
+      "NumProgressed": 18079,
+      "NumCompleted": 58
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16111,7 +16116,7 @@
       "Name": "Data Archivist",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "13",
@@ -16143,7 +16148,7 @@
       "Name": "Drug Gifter",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "17",
@@ -16191,7 +16196,7 @@
       "Name": "Drone Dodger",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1988
+      "UsersEstimate": 1989
     },
     {
       "ID": "22",
@@ -16207,7 +16212,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "24",
@@ -16359,29 +16364,29 @@
       "Name": "Madame Undersecretary",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18077,
+      "Progressed": 18079,
       "Completed": 58
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4031,
-      "Completed": 1160
+      "Progressed": 4033,
+      "Completed": 1162
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T23:58:17.8612142+00:00",
-  "LastChanged_Achievements": "2024-01-02T23:05:04.9262006+00:00",
+  "LastChanged_Achievements": "2024-01-03T00:05:20.5540527+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2024-01-02T23:00:16.7014417+00:00",
-  "LastUpdate_Achievements": "2024-01-02T23:05:04.9263015+00:00"
+  "LastUpdate_Ratings": "2024-01-03T00:00:31.8886774+00:00",
+  "LastUpdate_Achievements": "2024-01-03T00:05:20.5541263+00:00"
 }

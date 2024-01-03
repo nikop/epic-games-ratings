@@ -5,10 +5,10 @@
   "Ranking_Rating": 976,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
-  "Ranking_EOS_Progress": 258,
+  "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -61,9 +61,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1683,
+  "EOS_Progressed": 1686,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 375,
+  "EOS_NewPlayers": 372,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -3306,6 +3306,11 @@
       "Time": "2024-01-02T23:10:48.2861528+00:00",
       "NumProgressed": 1683,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-03T00:11:25.4231048+00:00",
+      "NumProgressed": 1686,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -3317,7 +3322,7 @@
       "Name": "Break Out",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1012
     },
     {
       "ID": "ACH_02",
@@ -3325,7 +3330,7 @@
       "Name": "Find Allies",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "ACH_03",
@@ -3373,7 +3378,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "ACH_09",
@@ -3381,7 +3386,7 @@
       "Name": "The Mentor",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ACH_10",
@@ -3389,7 +3394,7 @@
       "Name": "Trinity",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "ACH_11",
@@ -3413,7 +3418,7 @@
       "Name": "Adventurer",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ACH_14",
@@ -3453,7 +3458,7 @@
       "Name": "Shatter Them All",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ACH_19",
@@ -3461,7 +3466,7 @@
       "Name": "Slayer",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACH_20",
@@ -3493,7 +3498,7 @@
       "Name": "Geared Up",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "ACH_24",
@@ -3517,7 +3522,7 @@
       "Name": "Scholar",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ACH_27",
@@ -3533,7 +3538,7 @@
       "Name": "I Found It",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "ACH_29",
@@ -3573,7 +3578,7 @@
       "Name": "The Collector",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "ACH_35",
@@ -3589,7 +3594,7 @@
       "Name": "A Queen\u0027s Tale",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACH_38",
@@ -3604,7 +3609,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1683,
+      "Progressed": 1686,
       "Completed": 3
     }
   ],
@@ -3612,8 +3617,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-02T01:47:19.6899919+00:00",
-  "LastChanged_Achievements": "2024-01-02T23:10:48.2861524+00:00",
+  "LastChanged_Achievements": "2024-01-03T00:11:25.4231045+00:00",
   "LastUpdate_AppInfo": "2024-01-01T22:57:08.0954502+00:00",
-  "LastUpdate_Ratings": "2024-01-02T23:01:26.8703843+00:00",
-  "LastUpdate_Achievements": "2024-01-02T23:10:48.2861968+00:00"
+  "LastUpdate_Ratings": "2024-01-03T00:01:40.8638998+00:00",
+  "LastUpdate_Achievements": "2024-01-03T00:11:25.4231442+00:00"
 }

@@ -5,11 +5,11 @@ Rating: 4.70 (Ranked 215)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 89.00% | ~624 |
-| Thalya – Simply Immortal | 88.00% | ~617 |
-| For the Horde! | 82.00% | ~575 |
-| Hammer Time, Round Two | 81.00% | ~568 |
-| The Hellwoods | 76.00% | ~533 |
+| The Last Stand | 88.00% | ~618 |
+| Thalya – Simply Immortal | 88.00% | ~618 |
+| For the Horde! | 82.00% | ~576 |
+| Hammer Time, Round Two | 80.00% | ~562 |
+| The Hellwoods | 76.00% | ~534 |
 | The Plains of Strothalm | 72.00% | ~505 |
 | Experienced Thalya | 71.00% | ~498 |
 | Thalya's Concentrated Fury | 68.00% | ~477 |
@@ -25,31 +25,31 @@ Rating: 4.70 (Ranked 215)
 | Hard Work | 54.00% | ~379 |
 | The Big Eaty | 53.00% | ~372 |
 | “… like son” | 51.00% | ~358 |
-| YOU SHALL NOT PASS! | 50.00% | ~350 |
-| The Cathedral of Light | 47.00% | ~329 |
-| Shame! Shame! Shame! | 47.00% | ~329 |
-| Dungeonlord Gorgu | 45.00% | ~315 |
-| Tanos' Crusade Against Thalya | 45.00% | ~315 |
-| Pure Dynamite! | 44.00% | ~308 |
-| Mana Cannon | 41.00% | ~287 |
-| All’s Well That Ends Evil | 41.00% | ~287 |
-| The Duel | 38.00% | ~266 |
-| If Looks Could Kill | 35.00% | ~245 |
-| Unstoppable Horde | 34.00% | ~238 |
-| Master of the Undead | 34.00% | ~238 |
-| The Finitude Drill | 33.00% | ~231 |
-| Ghost Pirates? Ghost Heroes! | 30.00% | ~210 |
-| Doom Hill | 30.00% | ~210 |
-| Not Even a Tiny Thin Mint Wafer, Thanks! | 28.00% | ~196 |
-| Forbidden Knowledge | 28.00% | ~196 |
-| Brimstone Shaken, Not Stirred | 28.00% | ~196 |
-| Hungry, Hungry Gorgu! | 27.00% | ~189 |
-| Sabotage! | 27.00% | ~189 |
-| The Rune Sockets of Finitude (Part 1) | 27.00% | ~189 |
-| Stop Tanos! | 26.00% | ~182 |
-| Raiders of the Lost Stone | 26.00% | ~182 |
-| Bonus Evilness | 25.00% | ~175 |
-| The Rune Sockets of Finitude (Part 2) | 25.00% | ~175 |
+| YOU SHALL NOT PASS! | 50.00% | ~351 |
+| The Cathedral of Light | 47.00% | ~330 |
+| Shame! Shame! Shame! | 47.00% | ~330 |
+| Dungeonlord Gorgu | 45.00% | ~316 |
+| Tanos' Crusade Against Thalya | 45.00% | ~316 |
+| Pure Dynamite! | 44.00% | ~309 |
+| Mana Cannon | 41.00% | ~288 |
+| All’s Well That Ends Evil | 41.00% | ~288 |
+| The Duel | 38.00% | ~267 |
+| If Looks Could Kill | 35.00% | ~246 |
+| Unstoppable Horde | 34.00% | ~239 |
+| Master of the Undead | 34.00% | ~239 |
+| The Finitude Drill | 33.00% | ~232 |
+| Ghost Pirates? Ghost Heroes! | 30.00% | ~211 |
+| Doom Hill | 29.00% | ~204 |
+| Not Even a Tiny Thin Mint Wafer, Thanks! | 28.00% | ~197 |
+| Forbidden Knowledge | 28.00% | ~197 |
+| Brimstone Shaken, Not Stirred | 28.00% | ~197 |
+| Hungry, Hungry Gorgu! | 27.00% | ~190 |
+| Stop Tanos! | 26.00% | ~183 |
+| Sabotage! | 26.00% | ~183 |
+| Raiders of the Lost Stone | 26.00% | ~183 |
+| The Rune Sockets of Finitude (Part 1) | 26.00% | ~183 |
+| Bonus Evilness | 25.00% | ~176 |
+| The Rune Sockets of Finitude (Part 2) | 25.00% | ~176 |
 | The Last Stand - This Time For Real! | 23.00% | ~161 |
 | Rubble and Ashes | 21.00% | ~147 |
 | Lavalumps on Ice! | 19.00% | ~133 |
@@ -67,7 +67,7 @@ Rating: 4.70 (Ranked 215)
 | No Mana, No Cry | 10.00% | ~70 |
 | I Don't Need Any Help | 10.00% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 701 (Ranked 314)  
+Progressed: 702 (Ranked 314)  
 Completed: 27 (3.85%) (Ranked 91)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,6 +126,7 @@ Completed: 27 (3.85%) (Ranked 91)
 | 2023-12-31 | 679 | 26 |
 | 2024-01-01 | 689 | 26 |
 | 2024-01-02 | 701 | 27 |
+| 2024-01-03 | 702 | 27 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

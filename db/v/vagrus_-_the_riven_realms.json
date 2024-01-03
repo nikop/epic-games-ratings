@@ -2,10 +2,10 @@
   "ID": "9de65f6db18c4757a84e639d9a3e5a97",
   "Name": "Vagrus - The Riven Realms",
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
-  "Ranking_EOS_Progress": 401,
+  "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 319,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
     "PcReleaseDate": "2021-10-05T15:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 272,
+  "EOS_Progressed": 275,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1091,6 +1091,11 @@
       "Time": "2024-01-02T19:05:08.3569445+00:00",
       "NumProgressed": 272,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T00:05:11.0764389+00:00",
+      "NumProgressed": 275,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -1102,7 +1107,7 @@
       "Name": "Randomized",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "Vanilla_Abolitionists",
@@ -1158,7 +1163,7 @@
       "Name": "Conciliator",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Vanilla_AutoSavesOnly",
@@ -1190,7 +1195,7 @@
       "Name": "Supercargo",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Vanilla_Carpenters",
@@ -1246,7 +1251,7 @@
       "Name": "Tactician",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Vanilla_CombatStrenghtTier2",
@@ -1340,9 +1345,9 @@
       "ID": "Vanilla_DeputiesMaxedOut",
       "SetID": "27kik8p",
       "Name": "Deputized",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "Vanilla_DiscoverAllLocations",
@@ -1462,7 +1467,7 @@
       "Name": "Fight Another Day",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Vanilla_Forager",
@@ -1494,7 +1499,7 @@
       "Name": "Business As Usual",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Vanilla_GearCollection",
@@ -1518,7 +1523,7 @@
       "Name": "Legacy of a Mercenary",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Vanilla_HouseDarius",
@@ -1646,7 +1651,7 @@
       "Name": "Delayed",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Vanilla_PressGanged",
@@ -1654,7 +1659,7 @@
       "Name": "Press-ganged",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 116
     },
     {
       "ID": "Vanilla_Ratharnak",
@@ -1670,7 +1675,7 @@
       "Name": "A Real Battle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Vanilla_Renkailon",
@@ -1718,7 +1723,7 @@
       "Name": "A Second Chance",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 154
     },
     {
       "ID": "Vanilla_SecretsBelow",
@@ -1750,7 +1755,7 @@
       "Name": "Life... Finds a Way",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Vanilla_TasksCompleted",
@@ -1780,9 +1785,9 @@
       "ID": "Vanilla_ThePackage",
       "SetID": "27kik8p",
       "Name": "The Package",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 74
     },
     {
       "ID": "Vanilla_ThePilgrimageEnds",
@@ -1838,7 +1843,7 @@
       "Name": "Merchant Lord",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Vanilla_TroubleAtFortLarius",
@@ -1886,14 +1891,14 @@
       "Name": "Insectoid Propagator",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 272,
+      "Progressed": 275,
       "Completed": 0
     }
   ],
@@ -1901,8 +1906,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2024-01-02T23:04:55.4102629+00:00",
+  "LastChanged_Achievements": "2024-01-03T00:05:11.0764386+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:41.3005977+00:00",
-  "LastUpdate_Ratings": "2024-01-02T22:59:05.6258598+00:00",
-  "LastUpdate_Achievements": "2024-01-02T23:04:55.4103508+00:00"
+  "LastUpdate_Ratings": "2024-01-02T23:59:20.2072536+00:00",
+  "LastUpdate_Achievements": "2024-01-03T00:05:11.0765235+00:00"
 }

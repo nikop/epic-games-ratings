@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_NewPlayers": 285,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7722,
+  "EOS_Progressed": 7723,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -6703,6 +6703,11 @@
       "Time": "2024-01-02T22:04:41.7291979+00:00",
       "NumProgressed": 7722,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2024-01-03T00:05:38.8462151+00:00",
+      "NumProgressed": 7723,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 27,
@@ -6770,7 +6775,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1930
+      "UsersEstimate": 1931
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -6778,7 +6783,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1930
+      "UsersEstimate": 1931
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -6794,7 +6799,7 @@
       "Name": "Knowledge Shared",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 1544
+      "UsersEstimate": 1545
     },
     {
       "ID": "AK_LEARNED_SCHOLAR",
@@ -6842,7 +6847,7 @@
       "Name": "Relic Finder",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1544
+      "UsersEstimate": 1545
     },
     {
       "ID": "AK_SEEKERS_FOUND",
@@ -6866,7 +6871,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4324
+      "UsersEstimate": 4325
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -6882,7 +6887,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2625
+      "UsersEstimate": 2626
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -6906,7 +6911,7 @@
       "Name": "A Wanderer\u2019s Guide",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "AK_WIND_POWERED",
@@ -6929,15 +6934,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7722,
+      "Progressed": 7723,
       "Completed": 59
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2024-01-02T23:05:23.0952107+00:00",
+  "LastChanged_Achievements": "2024-01-03T00:05:38.8462147+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:57:02.2887263+00:00",
-  "LastUpdate_Ratings": "2024-01-02T23:03:47.8780668+00:00",
-  "LastUpdate_Achievements": "2024-01-02T23:05:23.0952597+00:00"
+  "LastUpdate_Ratings": "2024-01-03T00:04:02.567913+00:00",
+  "LastUpdate_Achievements": "2024-01-03T00:05:38.8462616+00:00"
 }

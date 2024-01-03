@@ -2,13 +2,13 @@
   "ID": "f76d927e6a344026a1cdd6b44b52c055",
   "Name": "The Riflemen",
   "ProductSlug": "the-riflemen-8be608",
-  "Ranking_Rating": 718,
+  "Ranking_Rating": 717,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 26,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-28T03:00:00+00:00",
     "PcReleaseDate": "2023-09-01T11:00:00+00:00",
@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 64002,
+  "EOS_Progressed": 64016,
   "EOS_Completed": 11760,
-  "EOS_NewPlayers": 2520,
+  "EOS_NewPlayers": 2521,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 18.37,
   "EosHistory": [
@@ -15202,6 +15202,11 @@
       "Time": "2024-01-02T23:09:53.7969734+00:00",
       "NumProgressed": 64002,
       "NumCompleted": 11760
+    },
+    {
+      "Time": "2024-01-03T00:10:31.908179+00:00",
+      "NumProgressed": 64016,
+      "NumCompleted": 11760
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -15222,7 +15227,7 @@
       "Name": "First blood",
       "Percentage": 74,
       "XP": 25,
-      "UsersEstimate": 47361
+      "UsersEstimate": 47372
     },
     {
       "ID": "grenadeKills",
@@ -15238,7 +15243,7 @@
       "Name": "Head popping I",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 2560
+      "UsersEstimate": 2561
     },
     {
       "ID": "headshots1000",
@@ -15325,7 +15330,7 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 64002,
+      "Progressed": 64016,
       "Completed": 11760
     }
   ],
@@ -15333,8 +15338,8 @@
   "FirstSeenRating": "2023-10-20T10:59:47.6628885+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
   "LastChanged": "2023-12-31T23:00:30.1537658+00:00",
-  "LastChanged_Achievements": "2024-01-02T23:09:53.796973+00:00",
+  "LastChanged_Achievements": "2024-01-03T00:10:31.9081786+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:37.3811971+00:00",
-  "LastUpdate_Ratings": "2024-01-02T23:02:38.3253446+00:00",
-  "LastUpdate_Achievements": "2024-01-02T23:09:53.7970549+00:00"
+  "LastUpdate_Ratings": "2024-01-03T00:02:53.8343348+00:00",
+  "LastUpdate_Achievements": "2024-01-03T00:10:31.9082595+00:00"
 }

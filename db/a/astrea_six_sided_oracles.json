@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 388,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 303,
+  "EOS_Progressed": 304,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
@@ -1274,6 +1274,11 @@
       "Time": "2024-01-02T17:09:30.6971829+00:00",
       "NumProgressed": 303,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T00:09:37.6448152+00:00",
+      "NumProgressed": 304,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-22T01:45:20.357802+00:00",
@@ -1510,7 +1515,7 @@
       "Name": "Dicesmithing Time!",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "EndlessTricks",
@@ -1630,7 +1635,7 @@
       "Name": "Mechanical Buddy",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "MeissasSavior",
@@ -1638,7 +1643,7 @@
       "Name": "Meissa\u0027s Savior",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "MindIlluminator",
@@ -1646,7 +1651,7 @@
       "Name": "Mind Illuminator",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "NoctuanChampionAchievement",
@@ -1710,7 +1715,7 @@
       "Name": "Purification Pioneer",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "ReflexiveMind",
@@ -1732,9 +1737,9 @@
       "ID": "SadisticPlan",
       "SetID": "1jeo1g7",
       "Name": "Sadistic Plan",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 46
     },
     {
       "ID": "SanctuaryGuardian",
@@ -1918,7 +1923,7 @@
       "Name": "Wild\u0027s Keeper",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ApianChampion",
@@ -1972,9 +1977,9 @@
       "ID": "BehenianChampion",
       "SetID": "1jeo1g7",
       "Name": "Behenian Champion",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 43
     },
     {
       "ID": "BehenianHero",
@@ -2069,14 +2074,14 @@
     {
       "ID": "1jeo1g7",
       "IsBase": true,
-      "Progressed": 303,
+      "Progressed": 304,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-02T23:09:00.5141655+00:00",
+  "LastChanged_Achievements": "2024-01-03T00:09:37.644815+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:34.5642416+00:00",
-  "LastUpdate_Ratings": "2024-01-02T23:01:45.4250899+00:00",
-  "LastUpdate_Achievements": "2024-01-02T23:09:00.5142952+00:00"
+  "LastUpdate_Ratings": "2024-01-03T00:02:00.9508044+00:00",
+  "LastUpdate_Achievements": "2024-01-03T00:09:37.6449029+00:00"
 }

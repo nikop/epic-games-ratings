@@ -5,16 +5,16 @@ Rating: 4.17 (Ranked 976)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 60.00% | ~1,010 |
-| Trinity | 30.00% | ~505 |
-| The Collector | 24.00% | ~404 |
-| Find Allies | 23.00% | ~387 |
-| A Taste of Wrath | 23.00% | ~387 |
-| Geared Up | 22.00% | ~370 |
-| I Found It | 22.00% | ~370 |
-| Adventurer | 21.00% | ~353 |
-| Shatter Them All | 21.00% | ~353 |
-| Scholar | 21.00% | ~353 |
+| Break Out | 60.00% | ~1,012 |
+| Trinity | 30.00% | ~506 |
+| The Collector | 24.00% | ~405 |
+| Find Allies | 23.00% | ~388 |
+| A Taste of Wrath | 23.00% | ~388 |
+| Geared Up | 22.00% | ~371 |
+| I Found It | 22.00% | ~371 |
+| Adventurer | 21.00% | ~354 |
+| Shatter Them All | 21.00% | ~354 |
+| Scholar | 21.00% | ~354 |
 | Tributes of Caladrias | 20.00% | ~337 |
 | Fashion Victim | 20.00% | ~337 |
 | Stone Collection | 19.00% | ~320 |
@@ -22,7 +22,7 @@ Rating: 4.17 (Ranked 976)
 | Big Bazar | 13.00% | ~219 |
 | Essence Blow | 12.00% | ~202 |
 | Alchemist | 12.00% | ~202 |
-| The Mentor | 10.00% | ~168 |
+| The Mentor | 10.00% | ~169 |
 | Calm before the Storm | 8.00% | ~135 |
 | To Battle | 7.00% | ~118 |
 | Godslayer | 7.00% | ~118 |
@@ -31,8 +31,8 @@ Rating: 4.17 (Ranked 976)
 | Clear Sight | 4.00% | ~67 |
 | Shatterer | 4.00% | ~67 |
 | Fine Feathers Make Fine Birds | 4.00% | ~67 |
-| Slayer | 3.00% | ~50 |
-| A Queen's Tale | 3.00% | ~50 |
+| Slayer | 3.00% | ~51 |
+| A Queen's Tale | 3.00% | ~51 |
 | Flawless Victory | 2.00% | ~34 |
 | All There Is | 2.00% | ~34 |
 | False God | 2.00% | ~34 |
@@ -42,7 +42,7 @@ Rating: 4.17 (Ranked 976)
 | All That Gold | 0.70% | ~12 |
 | Feeling Fancy | 0.40% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,683 (Ranked 258)  
+Progressed: 1,686 (Ranked 257)  
 Completed: 3 (0.18%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,6 +125,7 @@ Completed: 3 (0.18%) (Ranked 277)
 | 2023-12-31 | 1,577 | 3 |
 | 2024-01-01 | 1,636 | 3 |
 | 2024-01-02 | 1,683 | 3 |
+| 2024-01-03 | 1,686 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

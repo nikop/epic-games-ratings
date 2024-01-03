@@ -4,8 +4,8 @@
   "ProductSlug": "keywe-c3a70e",
   "Ranking_EOS_Progress": 465,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-04-28T09:00:00+00:00",
     "PcReleaseDate": "2021-08-31T00:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 129,
+  "EOS_Progressed": 130,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -565,6 +565,11 @@
       "Time": "2024-01-02T20:08:01.219359+00:00",
       "NumProgressed": 129,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T00:08:55.8684111+00:00",
+      "NumProgressed": 130,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:04:51.255408+00:00",
@@ -647,7 +652,7 @@
       "ID": "completeOnboarding",
       "SetID": "cfe0fhi",
       "Name": "You\u0027re Hired",
-      "Percentage": 97,
+      "Percentage": 96,
       "XP": 5,
       "UsersEstimate": 125
     },
@@ -665,23 +670,23 @@
       "Name": "Learn the Ropes",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "findFirstCollectible",
       "SetID": "cfe0fhi",
       "Name": "A Startling Discovery",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 42
     },
     {
       "ID": "getABonusReward",
       "SetID": "cfe0fhi",
       "Name": "Working for the Kiweekend",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 49
     },
     {
       "ID": "goldOnAllLevels",
@@ -736,13 +741,13 @@
     {
       "ID": "cfe0fhi",
       "IsBase": true,
-      "Progressed": 129,
+      "Progressed": 130,
       "Completed": 0
     },
     {
       "ID": "cfj6lld",
       "IsBase": false,
-      "Progressed": 129,
+      "Progressed": 130,
       "Completed": 0
     }
   ],
@@ -750,8 +755,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.8503401+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:23.8514145+00:00",
   "LastChanged": "2023-03-31T05:58:13.8503402+00:00",
-  "LastChanged_Achievements": "2024-01-02T23:08:18.319799+00:00",
+  "LastChanged_Achievements": "2024-01-03T00:08:55.8684107+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:20.8360507+00:00",
-  "LastUpdate_Ratings": "2024-01-02T22:59:40.4757263+00:00",
-  "LastUpdate_Achievements": "2024-01-02T23:08:18.3198312+00:00"
+  "LastUpdate_Ratings": "2024-01-02T23:59:55.9800135+00:00",
+  "LastUpdate_Achievements": "2024-01-03T00:08:55.8684262+00:00"
 }
