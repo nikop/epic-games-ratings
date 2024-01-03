@@ -1,41 +1,41 @@
 # Poker Club
 [Store](https://store.epicgames.com/en-US/p/poker-club-6e18ee)  
 [View Rawdata](../../db/p/poker_club.json)  
-Rating: 3.84 (Ranked 1,070)  
+Rating: 3.85 (Ranked 1,068)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~416,963 |
-| Handy | 42.00% | ~230,427 |
-| Cold Caller | 40.00% | ~219,454 |
-| A Bit On The Side | 27.00% | ~148,132 |
-| Backdoor | 26.00% | ~142,645 |
-| Rank Amateur | 22.00% | ~120,700 |
-| Three Way | 19.00% | ~104,241 |
-| Deadly Assassin | 16.00% | ~87,782 |
-| Gutshot | 14.00% | ~76,809 |
-| Risk It For A Biscuit | 14.00% | ~76,809 |
-| Showoff | 13.00% | ~71,323 |
-| W.H.I.P. | 12.00% | ~65,836 |
-| Bet Bet Bet | 10.00% | ~54,864 |
-| Blindman's Bluff | 9.00% | ~49,377 |
-| Poker Joker | 9.00% | ~49,377 |
-| Never Give Up | 8.00% | ~43,891 |
-| The Bigger They Are | 8.00% | ~43,891 |
-| Total Knock Out | 8.00% | ~43,891 |
-| Dog Eat Dog | 7.00% | ~38,405 |
-| Quack Quack | 7.00% | ~38,405 |
-| Give Your Regards To Broadway | 6.00% | ~32,918 |
-| Check Yourself | 4.00% | ~21,945 |
-| Moneymaker | 4.00% | ~21,945 |
-| In The Gang | 3.00% | ~16,459 |
-| On The Button | 3.00% | ~16,459 |
+| Pro Creation | 76.00% | ~416,974 |
+| Handy | 42.00% | ~230,433 |
+| Cold Caller | 40.00% | ~219,460 |
+| A Bit On The Side | 27.00% | ~148,136 |
+| Backdoor | 26.00% | ~142,649 |
+| Rank Amateur | 22.00% | ~120,703 |
+| Three Way | 19.00% | ~104,244 |
+| Deadly Assassin | 16.00% | ~87,784 |
+| Gutshot | 14.00% | ~76,811 |
+| Risk It For A Biscuit | 14.00% | ~76,811 |
+| Showoff | 13.00% | ~71,324 |
+| W.H.I.P. | 12.00% | ~65,838 |
+| Bet Bet Bet | 10.00% | ~54,865 |
+| Blindman's Bluff | 9.00% | ~49,378 |
+| Poker Joker | 9.00% | ~49,378 |
+| Never Give Up | 8.00% | ~43,892 |
+| The Bigger They Are | 8.00% | ~43,892 |
+| Total Knock Out | 8.00% | ~43,892 |
+| Dog Eat Dog | 7.00% | ~38,406 |
+| Quack Quack | 7.00% | ~38,406 |
+| Give Your Regards To Broadway | 6.00% | ~32,919 |
+| Check Yourself | 4.00% | ~21,946 |
+| Moneymaker | 4.00% | ~21,946 |
+| In The Gang | 3.00% | ~16,460 |
+| On The Button | 3.00% | ~16,460 |
 | Before You Wreck Yourself | 2.00% | ~10,973 |
 | Holding Your Own | 2.00% | ~10,973 |
 | Keep Your Heads Up | 2.00% | ~10,973 |
 | Bluffing Eh? | 1.00% | ~5,486 |
 | Go For It | 1.00% | ~5,486 |
-| Regular Punter | 0.70% | ~3,840 |
+| Regular Punter | 0.70% | ~3,841 |
 | How I Roll | 0.60% | ~3,292 |
 | Club Legend | 0.50% | ~2,743 |
 | Bring It On | 0.20% | ~1,097 |
@@ -51,7 +51,7 @@ Rating: 3.84 (Ranked 1,070)
 | Rounder | 0.10% | ~549 |
 | Top Dog | 0.10% | ~549 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 548,636 (Ranked 35)  
+Progressed: 548,650 (Ranked 35)  
 Completed: 2 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,11 +308,11 @@ Completed: 2 (0.00%) (Ranked 392)
 | 2023-12-31 | 547,750 | 2 |
 | 2024-01-01 | 548,059 | 2 |
 | 2024-01-02 | 548,372 | 2 |
-| 2024-01-03 | 548,636 | 2 |
+| 2024-01-03 | 548,650 | 2 |
 ## Awards
 Max (Great for Beginners): 64  (Ranked 420)  
-Sum: 205 (Ranked 413)  
-Diff (max vs sum): 7  
+Sum: 205 (Ranked 412)  
+Diff (max vs sum): 8  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 64 |
@@ -449,4 +449,4 @@ Diff (max vs sum): 7
 | 2023-12-27 | 3.84 | 63 | 199 |
 | 2023-12-28 | 3.84 | 64 | 203 |
 | 2023-12-29 | 3.84 | 64 | 204 |
-| 2024-01-03 | 3.84 | 64 | 205 |
+| 2024-01-03 | 3.85 | 64 | 205 |

@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18131,
+  "EOS_Progressed": 18134,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 542,
+  "EOS_NewPlayers": 541,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -16170,6 +16170,11 @@
       "Time": "2024-01-03T20:04:18.0782232+00:00",
       "NumProgressed": 18131,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-03T21:05:40.4660401+00:00",
+      "NumProgressed": 18134,
+      "NumCompleted": 58
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16214,7 +16219,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3082
+      "UsersEstimate": 3083
     },
     {
       "ID": "14",
@@ -16286,7 +16291,7 @@
       "Name": "Drone Dodger",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1994
+      "UsersEstimate": 1995
     },
     {
       "ID": "22",
@@ -16326,7 +16331,7 @@
       "Name": "Call it Even",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 1450
+      "UsersEstimate": 1451
     },
     {
       "ID": "27",
@@ -16388,9 +16393,9 @@
       "ID": "6",
       "SetID": "458bbdk",
       "Name": "Celebrations are in Order",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2176
+      "UsersEstimate": 2357
     },
     {
       "ID": "7",
@@ -16461,22 +16466,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18131,
+      "Progressed": 18134,
       "Completed": 58
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4085,
-      "Completed": 1169
+      "Progressed": 4088,
+      "Completed": 1170
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T23:58:17.8612142+00:00",
-  "LastChanged_Achievements": "2024-01-03T20:04:18.0782226+00:00",
+  "LastChanged_Achievements": "2024-01-03T21:05:40.4660397+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2024-01-03T19:59:41.6942883+00:00",
-  "LastUpdate_Achievements": "2024-01-03T20:04:18.0783385+00:00"
+  "LastUpdate_Ratings": "2024-01-03T21:01:04.7614844+00:00",
+  "LastUpdate_Achievements": "2024-01-03T21:05:40.4661832+00:00"
 }

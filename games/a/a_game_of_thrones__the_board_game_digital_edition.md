@@ -1,17 +1,17 @@
 # A Game Of Thrones: The Board Game Digital Edition
 [Store](https://store.epicgames.com/en-US/p/a-game-of-thrones-5858a3)  
 [View Rawdata](../../db/a/a_game_of_thrones__the_board_game_digital_edition.json)  
-Rating: 4.21 (Ranked 948)  
+Rating: 4.21 (Ranked 947)  
 Number of Ratings: 2,500  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~12,948 |
-| Battering Crew | 19.00% | ~6,150 |
-| The Kingsroad | 18.00% | ~5,826 |
-| Well Stocked | 13.00% | ~4,208 |
-| Royal Fleet | 13.00% | ~4,208 |
-| The Kraken’s Grasp | 9.00% | ~2,913 |
+| Conqueror | 40.00% | ~12,950 |
+| Battering Crew | 19.00% | ~6,151 |
+| The Kingsroad | 18.00% | ~5,828 |
+| Well Stocked | 13.00% | ~4,209 |
+| Royal Fleet | 13.00% | ~4,209 |
+| The Kraken’s Grasp | 9.00% | ~2,914 |
 | Daggers in the Dark | 8.00% | ~2,590 |
 | Alliance | 8.00% | ~2,590 |
 | Winter is Coming | 7.00% | ~2,266 |
@@ -21,15 +21,15 @@ Number of Ratings: 2,500  (23.09.2022)
 | Ours is the Fury | 6.00% | ~1,942 |
 | We Do Not Sow | 6.00% | ~1,942 |
 | Defender of the Wall | 6.00% | ~1,942 |
-| Unbowed, Unbent, Unbroken | 5.00% | ~1,618 |
-| Growing Strong | 5.00% | ~1,618 |
-| Hear me Roar! | 5.00% | ~1,618 |
+| Unbowed, Unbent, Unbroken | 5.00% | ~1,619 |
+| Growing Strong | 5.00% | ~1,619 |
+| Hear me Roar! | 5.00% | ~1,619 |
 | What is Dead may Never Die | 3.00% | ~971 |
-| King in the North | 2.00% | ~647 |
-| The Swift | 2.00% | ~647 |
+| King in the North | 2.00% | ~648 |
+| The Swift | 2.00% | ~648 |
 | War of the Five Kings | 1.00% | ~324 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,369 (Ranked 137)  
+Progressed: 32,375 (Ranked 137)  
 Completed: 86 (0.27%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 86 (0.27%) (Ranked 257)
 | 2023-12-31 | 32,057 | 86 |
 | 2024-01-01 | 32,170 | 86 |
 | 2024-01-02 | 32,279 | 86 |
-| 2024-01-03 | 32,369 | 86 |
+| 2024-01-03 | 32,375 | 86 |
 ## Awards
 Max (Quickly Understood Controls): 127  (Ranked 344)  
 Sum: 807 (Ranked 291)  

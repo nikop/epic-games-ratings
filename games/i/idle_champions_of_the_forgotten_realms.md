@@ -6,11 +6,11 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~7,516 |
-| Beast Intentions | 1.00% | ~2,505 |
-| The Cursed Farmer | 1.00% | ~2,505 |
-| The Mad Wizard | 1.00% | ~2,505 |
-| Welcome to Sigil | 0.80% | ~1,734 |
+| A Brief Tour of the Realms | 3.00% | ~7,517 |
+| Beast Intentions | 1.00% | ~2,506 |
+| The Cursed Farmer | 1.00% | ~2,506 |
+| The Mad Wizard | 1.00% | ~2,506 |
+| Welcome to Sigil | 0.80% | ~1,735 |
 | The Ring of Regeneration | 0.60% | ~1,503 |
 | Are Ya Chicken? | 0.60% | ~1,503 |
 | Fast Food | 0.60% | ~1,301 |
@@ -29,6 +29,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Don't Lose Your Head | 0.40% | ~867 |
 | Mind Spike | 0.40% | ~867 |
 | Maddening | 0.30% | ~752 |
+| Beast Mode | 0.30% | ~752 |
 | Terror in the Dark | 0.30% | ~752 |
 | Unearthed Evil | 0.30% | ~752 |
 | The Crumbling Temple | 0.30% | ~752 |
@@ -37,17 +38,18 @@ Number of Ratings: 9,041  (23.09.2022)
 | Arcane Suppression | 0.30% | ~650 |
 | Welcome to the Vrocks | 0.30% | ~650 |
 | The Silken Swamp | 0.20% | ~501 |
-| Beast Mode | 0.20% | ~501 |
 | Low Initiative | 0.20% | ~501 |
 | A Mysterious Summons | 0.20% | ~501 |
 | Building Trust | 0.20% | ~501 |
 | March of the Undead | 0.20% | ~501 |
 | No Time To Rest | 0.20% | ~501 |
+| Invisible Shadows | 0.20% | ~501 |
 | Useless Allies | 0.20% | ~501 |
 | Running of the Saurs | 0.20% | ~501 |
 | Escort to Waterdeep | 0.20% | ~501 |
 | Waterdeep Detours | 0.20% | ~501 |
 | Underdeep Cartography | 0.20% | ~501 |
+| Overdue Rendezvous | 0.20% | ~501 |
 | The Templar's Camp | 0.20% | ~501 |
 | Pros and CONs | 0.10% | ~251 |
 | Upholding the Law | 0.10% | ~251 |
@@ -205,7 +207,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Acererak's Puzzle | 0.10% | ~217 |
 | The Mists of Ravenloft | 0.10% | ~251 |
 | The Hunt for Owl-y | 0.10% | ~251 |
-| Invisible Shadows | 0.10% | ~251 |
 | Werewolves in the Mist | 0.10% | ~251 |
 | We're not in Faerûn Anymore | 0.10% | ~251 |
 | Family Entanglements | 0.10% | ~251 |
@@ -423,7 +424,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lost in the Deep | 0.10% | ~251 |
 | Easily Distracted | 0.10% | ~251 |
 | Rude Welcome | 0.10% | ~251 |
-| Overdue Rendezvous | 0.10% | ~251 |
 | Moose Tracks | 0.10% | ~217 |
 | An Awakened Axe | 0.10% | ~217 |
 | CONtagious Cold | 0.10% | ~217 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~217 |
 | The Brains of an Illithid's Desire | 0.10% | ~217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,531 (Ranked 70)  
+Progressed: 250,553 (Ranked 70)  
 Completed: 2,588 (1.03%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -811,15 +811,15 @@ Completed: 2,588 (1.03%) (Ranked 169)
 | 2023-12-31 | 248,665 | 2,581 |
 | 2024-01-01 | 249,335 | 2,583 |
 | 2024-01-02 | 250,032 | 2,585 |
-| 2024-01-03 | 250,531 | 2,588 |
+| 2024-01-03 | 250,553 | 2,588 |
 ## Awards
 Max (Great for Beginners): 5,730  (Ranked 72)  
-Sum: 33,283 (Ranked 41)  
+Sum: 33,292 (Ranked 41)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,730 |
-| This game has Diverse Characters | 5,678 |
+| This game has Diverse Characters | 5,687 |
 | This game has Quickly Understood Controls | 4,888 |
 | This game is Relaxing | 4,760 |
 | This game has Amazing Characters | 4,312 |
@@ -1170,4 +1170,4 @@ Diff (max vs sum): 31
 | 2023-12-31 | 4.06 | - | 5,720 | 33,212 |
 | 2024-01-01 | 4.06 | - | 5,726 | 33,249 |
 | 2024-01-02 | 4.06 | - | 5,730 | 33,274 |
-| 2024-01-03 | 4.06 | - | 5,730 | 33,283 |
+| 2024-01-03 | 4.06 | - | 5,730 | 33,292 |

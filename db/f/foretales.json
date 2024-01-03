@@ -4,7 +4,7 @@
   "ProductSlug": "foretales-d6c5bd",
   "Ranking_EOS_Progress": 396,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 460,
+  "Ranking_EOS_NewPlayers": 459,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-09-15T13:00:00+00:00",
@@ -531,9 +531,9 @@
       "ID": "thePirate",
       "SetID": "5bkacmp",
       "Name": "Pieces of eight!",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 123
     },
     {
       "ID": "thePolitician",
@@ -596,8 +596,8 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
   "LastChanged": "2023-03-31T05:57:28.024543+00:00",
-  "LastChanged_Achievements": "2024-01-03T20:04:56.2876577+00:00",
+  "LastChanged_Achievements": "2024-01-03T21:06:32.2629934+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:47.02679+00:00",
-  "LastUpdate_Ratings": "2024-01-03T19:59:09.9917609+00:00",
-  "LastUpdate_Achievements": "2024-01-03T20:04:56.2876807+00:00"
+  "LastUpdate_Ratings": "2024-01-03T21:00:23.1775689+00:00",
+  "LastUpdate_Achievements": "2024-01-03T21:06:32.263022+00:00"
 }

@@ -1,12 +1,12 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.46 (Ranked 671)  
+Rating: 4.46 (Ranked 672)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,972 |
-| Confirming Suspicions | 42.00% | ~1,762 |
+| Meeting Resistance | 47.00% | ~1,973 |
+| Confirming Suspicions | 42.00% | ~1,763 |
 | The Kraken Wakes | 37.00% | ~1,553 |
 | It's Starting to Crack | 34.00% | ~1,427 |
 | Change the Channel | 32.00% | ~1,343 |
@@ -24,16 +24,16 @@ Rating: 4.46 (Ranked 671)
 | Climbing the Ladder | 17.00% | ~713 |
 | Just a Flesh Wound | 17.00% | ~713 |
 | Der Geist | 17.00% | ~713 |
-| Close Quarters | 16.00% | ~671 |
-| Snake in the Grass | 16.00% | ~671 |
-| Skirmisher | 15.00% | ~629 |
-| Die Nussknacker Sweet! | 15.00% | ~629 |
-| Brains of the Operation | 15.00% | ~629 |
-| No Stone Unturned | 14.00% | ~587 |
-| Opposing Force | 14.00% | ~587 |
-| Enemy at the Gates | 14.00% | ~587 |
-| Fields of Glory | 14.00% | ~587 |
-| Set Europe Ablaze | 14.00% | ~587 |
+| Close Quarters | 16.00% | ~672 |
+| Snake in the Grass | 16.00% | ~672 |
+| Skirmisher | 15.00% | ~630 |
+| Die Nussknacker Sweet! | 15.00% | ~630 |
+| Brains of the Operation | 15.00% | ~630 |
+| No Stone Unturned | 14.00% | ~588 |
+| Opposing Force | 14.00% | ~588 |
+| Enemy at the Gates | 14.00% | ~588 |
+| Fields of Glory | 14.00% | ~588 |
+| Set Europe Ablaze | 14.00% | ~588 |
 | Precision Is Key | 10.00% | ~420 |
 | My Little Friend | 10.00% | ~420 |
 | Rigged to Blow | 9.00% | ~378 |
@@ -77,8 +77,8 @@ Rating: 4.46 (Ranked 671)
 | Going Overboard | 0.60% | ~25 |
 | Stroll in the Woods | 0.50% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,196 (Ranked 208)  
-Completed: 11 (0.26%) (Ranked 262)  
+Progressed: 4,197 (Ranked 208)  
+Completed: 11 (0.26%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -333,7 +333,7 @@ Completed: 11 (0.26%) (Ranked 262)
 | 2023-12-31 | 4,171 | 11 |
 | 2024-01-01 | 4,182 | 11 |
 | 2024-01-02 | 4,190 | 11 |
-| 2024-01-03 | 4,196 | 11 |
+| 2024-01-03 | 4,197 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 529)  
 Sum: 28 (Ranked 545)  

@@ -263,9 +263,9 @@
       "Count": 90
     }
   ],
-  "EOS_Progressed": 9865,
+  "EOS_Progressed": 9878,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1758,
+  "EOS_NewPlayers": 1753,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3528,6 +3528,11 @@
       "Time": "2024-01-03T20:09:15.9554276+00:00",
       "NumProgressed": 9865,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-03T21:10:50.9694807+00:00",
+      "NumProgressed": 9878,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3540,7 +3545,7 @@
       "Name": "Conspiracy",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1087
     },
     {
       "ID": "03_TheStolenStar",
@@ -3644,15 +3649,15 @@
       "Name": "Pentakill",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "16_TheRise",
       "SetID": "37a94m8",
       "Name": "The Rise",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 592
+      "UsersEstimate": 691
     },
     {
       "ID": "17_TheExemplar",
@@ -3660,7 +3665,7 @@
       "Name": "Exemplar",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "18_TheRookieSkipper",
@@ -3700,7 +3705,7 @@
       "Name": "Perfect Timing",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "23_DynastyRestored",
@@ -3716,7 +3721,7 @@
       "Name": "Highrise",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "25_DynastyProspers",
@@ -3748,7 +3753,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -3764,7 +3769,7 @@
       "Name": "Greatest Exploration",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "31_DontTouchThis",
@@ -3788,7 +3793,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -3852,7 +3857,7 @@
       "Name": "Jungle Heat",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "42_TheIronJudgement",
@@ -3962,9 +3967,9 @@
       "ID": "55_ReturningTheBoots",
       "SetID": "37a94m8",
       "Name": "Returning the Boots",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 99
     },
     {
       "ID": "56_ThoroughInvestigation",
@@ -3994,9 +3999,9 @@
       "ID": "59_ThePossessedShip",
       "SetID": "37a94m8",
       "Name": "The Possessed Ship",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 59
     },
     {
       "ID": "60_NotSoBottomlessPit",
@@ -4004,7 +4009,7 @@
       "Name": "The Not-So-Bottomless Pit",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "61_TheScourge",
@@ -4059,7 +4064,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 9865,
+      "Progressed": 9878,
       "Completed": 1
     }
   ],
@@ -4067,8 +4072,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-03T03:00:34.4543831+00:00",
-  "LastChanged_Achievements": "2024-01-03T20:09:15.9554273+00:00",
+  "LastChanged_Achievements": "2024-01-03T21:10:50.9694803+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2024-01-03T20:00:28.8784773+00:00",
-  "LastUpdate_Achievements": "2024-01-03T20:09:15.9554986+00:00"
+  "LastUpdate_Ratings": "2024-01-03T21:02:13.885897+00:00",
+  "LastUpdate_Achievements": "2024-01-03T21:10:50.9695512+00:00"
 }

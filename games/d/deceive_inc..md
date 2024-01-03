@@ -36,8 +36,8 @@ Rating: 4.59 (Ranked 445)
 | PHD in VIP | 2.00% | ~385 |
 | The terminals are not enough | 1.00% | ~192 |
 | Lose Another Day | 1.00% | ~192 |
+| Chief Information Officer | 0.90% | ~173 |
 | Chairman of Deceive Inc. | 0.90% | ~173 |
-| Chief Information Officer | 0.80% | ~154 |
 | Masteries Are Forever | 0.50% | ~96 |
 | Extraction Confusion | 0.20% | ~38 |
 | Spyfall | 0.10% | ~19 |

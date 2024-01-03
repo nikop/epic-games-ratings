@@ -7,11 +7,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Explorer | 1.00% | ~161 |
+| Intrepid | 1.00% | ~161 |
 | Settler | 1.00% | ~161 |
 | Friendly Family | 1.00% | ~161 |
 | Play a Single Player Game | 1.00% | ~161 |
 | Architect | 0.90% | ~145 |
-| Intrepid | 0.90% | ~145 |
 | Able | 0.80% | ~129 |
 | Good | 0.80% | ~129 |
 | Learned | 0.80% | ~129 |
@@ -42,6 +42,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Christianity | 0.60% | ~97 |
 | Babylonian Paganism | 0.60% | ~97 |
 | Roman Paganism | 0.60% | ~97 |
+| Zoroastrianism | 0.60% | ~97 |
 | Regicide | 0.50% | ~81 |
 | Wise | 0.50% | ~81 |
 | Able Difficulty | 0.50% | ~81 |
@@ -50,7 +51,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Ziggurat | 0.50% | ~81 |
 | Lighthouse | 0.50% | ~81 |
 | Carthaginian Paganism | 0.50% | ~81 |
-| Zoroastrianism | 0.50% | ~81 |
 | Beloved | 0.40% | ~64 |
 | Drillmaster | 0.40% | ~64 |
 | Great | 0.40% | ~64 |
@@ -78,6 +78,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Champions | 0.30% | ~48 |
 | Patrons | 0.30% | ~48 |
 | Riders | 0.30% | ~48 |
+| Statesmen | 0.30% | ~48 |
 | Traders | 0.30% | ~48 |
 | Hittite Iron | 0.30% | ~48 |
 | Learn to Play 3 | 0.30% | ~48 |
@@ -99,7 +100,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Difficulty | 0.20% | ~32 |
 | Hunters | 0.20% | ~32 |
 | Landowners | 0.20% | ~32 |
-| Statesmen | 0.20% | ~32 |
 | Circus Maximus | 0.20% | ~32 |
 | Hagia Sophia | 0.20% | ~32 |
 | Church of the Holy Sepulchre | 0.20% | ~32 |
@@ -110,6 +110,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonia | 0.20% | ~32 |
 | Carthage | 0.20% | ~32 |
 | Egypt | 0.20% | ~32 |
+| Rome | 0.20% | ~32 |
 | Assyrian Paganism | 0.20% | ~32 |
 | Industrial Progress | 0.20% | ~32 |
 | Dualism | 0.20% | ~32 |
@@ -219,7 +220,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Assyria | 0.10% | ~16 |
 | Hatti | 0.10% | ~16 |
 | Persia | 0.10% | ~16 |
-| Rome | 0.10% | ~16 |
 | Old World Order | 0.10% | ~16 |
 | One True Faith | 0.10% | ~16 |
 | Pantheon of Gods | 0.10% | ~16 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,106 (Ranked 166)  
+Progressed: 16,107 (Ranked 166)  
 Completed: 5 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -623,7 +623,7 @@ Completed: 5 (0.03%) (Ranked 350)
 | 2023-12-31 | 16,053 | 5 |
 | 2024-01-01 | 16,077 | 5 |
 | 2024-01-02 | 16,090 | 5 |
-| 2024-01-03 | 16,106 | 5 |
+| 2024-01-03 | 16,107 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 283)  
 Sum: 1,912 (Ranked 221)  

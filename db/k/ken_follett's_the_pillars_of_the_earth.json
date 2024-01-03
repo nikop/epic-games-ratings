@@ -4,10 +4,10 @@
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
   "Ranking_Rating": 591,
   "Ranking_Popularity": 324,
-  "Ranking_PopularitySum": 418,
+  "Ranking_PopularitySum": 417,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17596,
+  "EOS_Progressed": 17597,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -17615,6 +17615,11 @@
       "Time": "2024-01-03T20:05:46.6396206+00:00",
       "NumProgressed": 17596,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2024-01-03T21:07:40.0808831+00:00",
+      "NumProgressed": 17597,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 41,
@@ -17682,7 +17687,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2463
+      "UsersEstimate": 2464
     },
     {
       "ID": "tpote_achievement_17",
@@ -17690,7 +17695,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2815
+      "UsersEstimate": 2816
     },
     {
       "ID": "tpote_achievement_18",
@@ -17770,7 +17775,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2287
+      "UsersEstimate": 2288
     },
     {
       "ID": "tpote_achievement_27",
@@ -17826,7 +17831,7 @@
       "Name": "Jack was here!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2463
+      "UsersEstimate": 2464
     },
     {
       "ID": "tpote_achievement_33",
@@ -17890,7 +17895,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 7038
+      "UsersEstimate": 7039
     },
     {
       "ID": "tpote_achievement_40",
@@ -17953,15 +17958,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17596,
+      "Progressed": 17597,
       "Completed": 123
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-03T20:05:46.63962+00:00",
+  "LastChanged_Achievements": "2024-01-03T21:07:40.0808827+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:24.3361109+00:00",
-  "LastUpdate_Ratings": "2024-01-03T20:02:33.3530575+00:00",
-  "LastUpdate_Achievements": "2024-01-03T20:05:46.6397156+00:00"
+  "LastUpdate_Ratings": "2024-01-03T21:02:32.0017689+00:00",
+  "LastUpdate_Achievements": "2024-01-03T21:07:40.0810805+00:00"
 }

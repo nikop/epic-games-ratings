@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -773,9 +773,9 @@
       "ID": "different-items1",
       "SetID": "799afm0",
       "Name": "Party",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 244
+      "UsersEstimate": 248
     },
     {
       "ID": "different-items2",
@@ -813,9 +813,9 @@
       "ID": "finished-quest-monster",
       "SetID": "799afm0",
       "Name": "Campaigning",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 131
     },
     {
       "ID": "finished-quest-nurgle",
@@ -893,9 +893,9 @@
       "ID": "last-hero",
       "SetID": "799afm0",
       "Name": "Last Man Standing",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 156
     },
     {
       "ID": "save-zombie",
@@ -973,9 +973,9 @@
       "ID": "win-second-biom",
       "SetID": "799afm0",
       "Name": "Through the Darkness",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 214
+      "UsersEstimate": 219
     },
     {
       "ID": "win-with-3-cultists",
@@ -1006,8 +1006,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2024-01-03T20:04:09.0349409+00:00",
+  "LastChanged_Achievements": "2024-01-03T21:05:28.1140788+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.2003375+00:00",
-  "LastUpdate_Ratings": "2024-01-03T19:57:43.458075+00:00",
-  "LastUpdate_Achievements": "2024-01-03T20:04:09.0349657+00:00"
+  "LastUpdate_Ratings": "2024-01-03T20:58:21.7456183+00:00",
+  "LastUpdate_Achievements": "2024-01-03T21:05:28.1141181+00:00"
 }

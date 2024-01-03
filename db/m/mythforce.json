@@ -848,9 +848,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6054,
+  "EOS_Progressed": 6055,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -12473,6 +12473,11 @@
       "Time": "2024-01-03T20:03:10.3251738+00:00",
       "NumProgressed": 6054,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-03T21:04:07.2982661+00:00",
+      "NumProgressed": 6055,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -12541,7 +12546,7 @@
       "Name": "First Strike",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1272
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -12597,7 +12602,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1392
+      "UsersEstimate": 1393
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -12668,15 +12673,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6054,
+      "Progressed": 6055,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-26T21:58:46.0180606+00:00",
-  "LastChanged_Achievements": "2024-01-03T20:03:10.3251734+00:00",
+  "LastChanged_Achievements": "2024-01-03T21:04:07.2982655+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:44.5580896+00:00",
-  "LastUpdate_Ratings": "2024-01-03T19:59:03.5347189+00:00",
-  "LastUpdate_Achievements": "2024-01-03T20:03:10.3252489+00:00"
+  "LastUpdate_Ratings": "2024-01-03T21:00:15.0206779+00:00",
+  "LastUpdate_Achievements": "2024-01-03T21:04:07.2983662+00:00"
 }

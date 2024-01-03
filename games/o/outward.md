@@ -10,24 +10,24 @@ Number of Ratings: 266  (23.09.2022)
 | Ready for Winter | 61.00% | ~2,714 |
 | Ready for Summer | 49.00% | ~2,180 |
 | Cordon Bleu | 41.00% | ~1,824 |
-| Tapped! | 35.00% | ~1,557 |
+| Tapped! | 35.00% | ~1,558 |
 | Eureka | 30.00% | ~1,335 |
 | Scourge Slayer | 24.00% | ~1,068 |
 | Science, Troglodyte! | 22.00% | ~979 |
 | Exceptional Skill | 21.00% | ~934 |
 | Home Sweet Home | 20.00% | ~890 |
 | Encyclopedic! | 18.00% | ~801 |
-| A Fortress Toppled! | 15.00% | ~667 |
-| The Power of Family | 15.00% | ~667 |
+| A Fortress Toppled! | 15.00% | ~668 |
+| The Power of Family | 15.00% | ~668 |
 | Apex Predator | 14.00% | ~623 |
 | The Power of Faith | 12.00% | ~534 |
-| Strange amalgams | 11.00% | ~489 |
+| Strange amalgams | 11.00% | ~490 |
 | The Power of Freedom | 9.00% | ~400 |
-| Ace Detective | 7.00% | ~311 |
-| Gift from the Ancestors | 7.00% | ~311 |
-| House of Cards | 7.00% | ~311 |
-| Let ‘em eat magma! | 7.00% | ~311 |
-| Magic is a science | 7.00% | ~311 |
+| Ace Detective | 7.00% | ~312 |
+| Gift from the Ancestors | 7.00% | ~312 |
+| House of Cards | 7.00% | ~312 |
+| Let ‘em eat magma! | 7.00% | ~312 |
+| Magic is a science | 7.00% | ~312 |
 | Hold my Mead and Watch This | 6.00% | ~267 |
 | The power of ambition | 6.00% | ~267 |
 | The stuff of legends. | 6.00% | ~267 |
@@ -35,8 +35,8 @@ Number of Ratings: 266  (23.09.2022)
 | Ancestor's Pride | 4.00% | ~178 |
 | For All Aurai | 4.00% | ~178 |
 | Memory of a legend | 4.00% | ~178 |
-| Light of Levant | 3.00% | ~133 |
-| This was a mistake... | 3.00% | ~133 |
+| Light of Levant | 3.00% | ~134 |
+| This was a mistake... | 3.00% | ~134 |
 | Crowd Pleaser. | 2.00% | ~89 |
 | Perfect Defense | 2.00% | ~89 |
 | Power! To! The People! | 2.00% | ~89 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~13 |
 | The Absolute Pinnacle. | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,449 (Ranked 205)  
+Progressed: 4,450 (Ranked 205)  
 Completed: 5 (0.11%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 5 (0.11%) (Ranked 303)
 | 2023-12-31 | 4,379 | 5 |
 | 2024-01-01 | 4,404 | 5 |
 | 2024-01-02 | 4,428 | 5 |
-| 2024-01-03 | 4,449 | 5 |
+| 2024-01-03 | 4,450 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 499)  
 Sum: 246 (Ranked 400)  

@@ -23,7 +23,7 @@
 | Bad JuJu | 25.00% | ~28 |
 | Friend of Sevenkeeps | 23.00% | ~26 |
 | Slave to the rhythm | 22.00% | ~25 |
-| Castle Meldec | 21.00% | ~24 |
+| Castle Meldec | 22.00% | ~25 |
 | Sevenkeeps Seat of Kings | 21.00% | ~24 |
 | Friend of Alluvyan | 16.00% | ~18 |
 | Friend of Connach | 15.00% | ~17 |

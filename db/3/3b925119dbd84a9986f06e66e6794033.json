@@ -4,7 +4,7 @@
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 666,
+  "EOS_Progressed": 667,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2084,6 +2084,11 @@
       "Time": "2024-01-03T17:10:05.9148844+00:00",
       "NumProgressed": 666,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T21:10:45.2331389+00:00",
+      "NumProgressed": 667,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -2094,7 +2099,7 @@
       "ID": "DODO_RE_MI_NOON_LIGHT",
       "SetID": "9j9h72e",
       "Name": "Dodo Re Mi: Noonlight Sonata",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -2110,7 +2115,7 @@
       "ID": "DODO_RE_MI_SAX_FAMILY",
       "SetID": "9j9h72e",
       "Name": "Dodo Re Mi: It\u0027s About Family",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -2150,17 +2155,17 @@
       "ID": "HYPNO_UNANIMOUS_OUTLIER",
       "SetID": "9j9h72e",
       "Name": "Hypnotorious: Masterminds",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 27
     },
     {
       "ID": "RISKYTEXT_BOOST_VOTE",
       "SetID": "9j9h72e",
       "Name": "FixyText: Pump It Up",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 133
+      "UsersEstimate": 127
     },
     {
       "ID": "RISKYTEXT_ONE_WORD_GETS_VOTES_FROM_ALL_VOTING_PLAYERS",
@@ -2198,7 +2203,7 @@
       "ID": "TIME_ORWELL",
       "SetID": "9j9h72e",
       "Name": "Timejinx: Did You Even Read the Book?!",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -2208,7 +2213,7 @@
       "Name": "Timejinx: The Perfect Date",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "TIME_PERFECT_GUEST",
@@ -2255,14 +2260,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 666,
+      "Progressed": 667,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2024-01-03T20:09:11.4775715+00:00",
+  "LastChanged_Achievements": "2024-01-03T21:10:45.2331386+00:00",
   "LastUpdate_AppInfo": "2023-12-30T02:16:13.4108208+00:00",
-  "LastUpdate_Ratings": "2024-01-03T19:58:44.4630158+00:00",
-  "LastUpdate_Achievements": "2024-01-03T20:09:11.4776036+00:00"
+  "LastUpdate_Ratings": "2024-01-03T20:59:49.6540185+00:00",
+  "LastUpdate_Achievements": "2024-01-03T21:10:45.2331624+00:00"
 }

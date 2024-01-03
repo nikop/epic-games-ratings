@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 141,
   "Ranking_EOS_NewPlayers": 36,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8703,9 +8703,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 752941,
+  "EOS_Progressed": 752958,
   "EOS_Completed": 12972,
-  "EOS_NewPlayers": 6588,
+  "EOS_NewPlayers": 6582,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.72,
   "EosHistory": [
@@ -32188,6 +32188,11 @@
       "Time": "2024-01-03T20:08:32.4399273+00:00",
       "NumProgressed": 752941,
       "NumCompleted": 12972
+    },
+    {
+      "Time": "2024-01-03T21:09:54.1316674+00:00",
+      "NumProgressed": 752958,
+      "NumCompleted": 12972
     }
   ],
   "TotalAchievements": 60,
@@ -32199,7 +32204,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 37647
+      "UsersEstimate": 37648
     },
     {
       "ID": "02_Vengeance_H1",
@@ -32239,7 +32244,7 @@
       "Name": "Furious Fists",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 7529
+      "UsersEstimate": 7530
     },
     {
       "ID": "07_Wude_H1",
@@ -32287,7 +32292,7 @@
       "Name": "Scareless",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7529
+      "UsersEstimate": 7530
     },
     {
       "ID": "13_LowAge",
@@ -32359,7 +32364,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 6776
+      "UsersEstimate": 6777
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -32391,7 +32396,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7529
+      "UsersEstimate": 7530
     },
     {
       "ID": "26_ShrineSpirit",
@@ -32471,7 +32476,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7529
+      "UsersEstimate": 7530
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -32511,7 +32516,7 @@
       "Name": "Take damage to save time",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7529
+      "UsersEstimate": 7530
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -32535,7 +32540,7 @@
       "Name": "Project Arena",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -32559,7 +32564,7 @@
       "Name": "Martial Hub",
       "Percentage": 0.6,
       "XP": 80,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "47_Arena_GoldManhunt",
@@ -32575,7 +32580,7 @@
       "Name": "Secure, Protect, Leave",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "49_Arena_GoldSurvival",
@@ -32591,7 +32596,7 @@
       "Name": "A Touch of Acumen",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "51_Arena_TigerAll",
@@ -32599,7 +32604,7 @@
       "Name": "Crouching Tiger",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "52_Arena_DragonAll",
@@ -32615,7 +32620,7 @@
       "Name": "Skill and an even stronger will",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "54_Arena_HeliportAllOut",
@@ -32623,7 +32628,7 @@
       "Name": "Master of the Flying Assassins",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "55_Arena_SnowballKill",
@@ -32655,7 +32660,7 @@
       "Name": "Beatmaker",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "59_Arena_CustomMode",
@@ -32678,21 +32683,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 62242,
+      "Progressed": 62259,
       "Completed": 10797
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 752941,
+      "Progressed": 752958,
       "Completed": 12972
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-03T12:03:15.1642267+00:00",
-  "LastChanged_Achievements": "2024-01-03T20:08:32.4399269+00:00",
+  "LastChanged_Achievements": "2024-01-03T21:09:54.131667+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:26.4563062+00:00",
-  "LastUpdate_Ratings": "2024-01-03T20:02:46.4661725+00:00",
-  "LastUpdate_Achievements": "2024-01-03T20:08:32.4400812+00:00"
+  "LastUpdate_Ratings": "2024-01-03T21:03:29.296517+00:00",
+  "LastUpdate_Achievements": "2024-01-03T21:09:54.1318368+00:00"
 }

@@ -1,7 +1,7 @@
 # RIDE 5
 [Store](https://store.epicgames.com/en-US/p/ride-5)  
 [View Rawdata](../../db/r/ride_5.json)  
-Rating: 4.46 (Ranked 671)  
+Rating: 4.46 (Ranked 672)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -18,20 +18,20 @@ Rating: 4.46 (Ranked 671)
 | Restored and Ready | 20.00% | ~650 |
 | Legendary!!! | 20.00% | ~650 |
 | Go-Faster Stripes | 17.00% | ~552 |
-| I'm Here Too! | 15.00% | ~487 |
+| I'm Here Too! | 15.00% | ~488 |
 | We've Just Begun | 14.00% | ~455 |
+| Stamina Star | 9.00% | ~292 |
 | Is It the Right Size? | 9.00% | ~292 |
-| Stamina Star | 8.00% | ~260 |
-| Evangelist | 7.00% | ~227 |
+| Evangelist | 7.00% | ~228 |
 | Make It Your Own! | 5.00% | ~162 |
 | Cherry Blossom and Temples | 4.00% | ~130 |
 | The Road to Liberty | 4.00% | ~130 |
-| Spoilt for Choice | 3.00% | ~97 |
-| La Dolce Vita | 3.00% | ~97 |
-| Romantic Races | 3.00% | ~97 |
-| I Make the Rules! | 3.00% | ~97 |
-| Rounding Off | 3.00% | ~97 |
-| My Work Here Is Done | 3.00% | ~97 |
+| Spoilt for Choice | 3.00% | ~98 |
+| La Dolce Vita | 3.00% | ~98 |
+| Romantic Races | 3.00% | ~98 |
+| I Make the Rules! | 3.00% | ~98 |
+| Rounding Off | 3.00% | ~98 |
+| My Work Here Is Done | 3.00% | ~98 |
 | Iconic! | 2.00% | ~65 |
 | I'll Be the Best! | 2.00% | ~65 |
 | Back in Blighty | 2.00% | ~65 |
@@ -55,7 +55,7 @@ Rating: 4.46 (Ranked 671)
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,249 (Ranked 223)  
+Progressed: 3,250 (Ranked 224)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2023-12-31 | 3,170 | 0 |
 | 2024-01-01 | 3,195 | 0 |
 | 2024-01-02 | 3,224 | 0 |
-| 2024-01-03 | 3,249 | 0 |
+| 2024-01-03 | 3,250 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

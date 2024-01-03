@@ -91,9 +91,9 @@
       "ID": "Chapter_Priest",
       "SetID": "9onb7g0",
       "Name": "The Taste of Prayer",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 60,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Chapter_Shaman",
@@ -202,8 +202,8 @@
   ],
   "FirstSeen": "2023-12-06T11:00:07.1470992+00:00",
   "FirstSeenAchievements": "2023-08-27T17:02:13.4628733+00:00",
-  "LastChanged_Achievements": "2024-01-03T20:09:03.856434+00:00",
+  "LastChanged_Achievements": "2024-01-03T21:10:35.2372636+00:00",
   "LastUpdate_AppInfo": "2024-01-01T02:57:07.5085315+00:00",
-  "LastUpdate_Ratings": "2024-01-03T19:59:03.0303715+00:00",
-  "LastUpdate_Achievements": "2024-01-03T20:09:03.8564443+00:00"
+  "LastUpdate_Ratings": "2024-01-03T21:00:14.3226836+00:00",
+  "LastUpdate_Achievements": "2024-01-03T21:10:35.2372832+00:00"
 }

@@ -955,9 +955,9 @@
       "ID": "ACH_MASTER_PURLOINER",
       "SetID": "8h8m55b",
       "Name": "Master Purloiner",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_NEW_GAME_FIRST_TIME",
@@ -1003,9 +1003,9 @@
       "ID": "ACH_SAVED100",
       "SetID": "8h8m55b",
       "Name": "Saved $100",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_STAR_CROSSED_SIBLINGS",
@@ -1154,8 +1154,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2024-01-03T20:03:56.9210137+00:00",
+  "LastChanged_Achievements": "2024-01-03T21:05:12.0716352+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:05.1404315+00:00",
-  "LastUpdate_Ratings": "2024-01-03T19:59:15.8164077+00:00",
-  "LastUpdate_Achievements": "2024-01-03T20:03:56.921049+00:00"
+  "LastUpdate_Ratings": "2024-01-03T21:00:31.2959764+00:00",
+  "LastUpdate_Achievements": "2024-01-03T21:05:12.0716773+00:00"
 }

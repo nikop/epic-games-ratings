@@ -250,7 +250,7 @@
       "Count": 128
     }
   ],
-  "EOS_Progressed": 43422,
+  "EOS_Progressed": 43425,
   "EOS_Completed": 30,
   "EOS_NewPlayers": 499,
   "EOS_NewCompleters": 0,
@@ -28305,6 +28305,11 @@
       "Time": "2024-01-03T20:03:57.9821167+00:00",
       "NumProgressed": 43422,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-03T21:05:13.5843633+00:00",
+      "NumProgressed": 43425,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -28314,9 +28319,9 @@
       "ID": "ACH_01_DIED_MANY_TIMES",
       "SetID": "443p4o4",
       "Name": "A Good Day To Die",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 6513
+      "UsersEstimate": 6948
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -28468,7 +28473,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2605
+      "UsersEstimate": 2606
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -28476,7 +28481,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2605
+      "UsersEstimate": 2606
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -28547,7 +28552,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 43422,
+      "Progressed": 43425,
       "Completed": 30
     }
   ],
@@ -28555,8 +28560,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-12-18T19:58:40.3413682+00:00",
-  "LastChanged_Achievements": "2024-01-03T20:03:57.9821163+00:00",
+  "LastChanged_Achievements": "2024-01-03T21:05:13.5843625+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:52.0120838+00:00",
-  "LastUpdate_Ratings": "2024-01-03T19:59:55.8468911+00:00",
-  "LastUpdate_Achievements": "2024-01-03T20:03:57.98223+00:00"
+  "LastUpdate_Ratings": "2024-01-03T21:01:26.1089144+00:00",
+  "LastUpdate_Achievements": "2024-01-03T21:05:13.5845528+00:00"
 }

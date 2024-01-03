@@ -1,37 +1,37 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.21 (Ranked 948)  
+Rating: 4.21 (Ranked 947)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~2,295 |
-| Battlefields Have Memories | 81.00% | ~2,112 |
-| Enlisted | 74.00% | ~1,930 |
-| Maybe Engage a Little | 69.00% | ~1,800 |
-| No More Names | 51.00% | ~1,330 |
-| Initiate | 37.00% | ~965 |
-| Thrada-Kul | 33.00% | ~861 |
-| Gravity-Challenged Rocks | 27.00% | ~704 |
-| Socialite | 24.00% | ~626 |
-| Soldier | 23.00% | ~600 |
-| All the Major Food Groups | 22.00% | ~574 |
+| Unforeseen | 88.00% | ~2,299 |
+| Battlefields Have Memories | 81.00% | ~2,116 |
+| Enlisted | 74.00% | ~1,933 |
+| Maybe Engage a Little | 69.00% | ~1,802 |
+| No More Names | 51.00% | ~1,332 |
+| Initiate | 37.00% | ~966 |
+| Thrada-Kul | 33.00% | ~862 |
+| Gravity-Challenged Rocks | 27.00% | ~705 |
+| Socialite | 24.00% | ~627 |
+| Soldier | 23.00% | ~601 |
+| All the Major Food Groups | 22.00% | ~575 |
 | Beggars Would Ride | 20.00% | ~522 |
 | Control is an Illusion | 19.00% | ~496 |
-| The Means to Save It | 16.00% | ~417 |
-| Resilience to Sin | 15.00% | ~391 |
-| A Familiar Nest | 14.00% | ~365 |
-| Periapt Alizarin | 14.00% | ~365 |
-| Geas Aristeya | 13.00% | ~339 |
-| A Perfect Cycle | 13.00% | ~339 |
+| The Means to Save It | 16.00% | ~418 |
+| Resilience to Sin | 15.00% | ~392 |
+| A Familiar Nest | 14.00% | ~366 |
+| Periapt Alizarin | 14.00% | ~366 |
+| Geas Aristeya | 13.00% | ~340 |
+| A Perfect Cycle | 13.00% | ~340 |
 | Recruit | 12.00% | ~313 |
 | Armsman | 11.00% | ~287 |
 | Lights Army | 9.00% | ~235 |
-| Periapt Cerulean | 7.00% | ~183 |
+| Periapt Cerulean | 8.00% | ~209 |
 | Good Boy | 7.00% | ~183 |
-| Periapt Viridian | 6.00% | ~156 |
-| Best Dressed | 5.00% | ~130 |
-| Shroudfane Explorer | 5.00% | ~130 |
+| Periapt Viridian | 6.00% | ~157 |
+| Best Dressed | 5.00% | ~131 |
+| Shroudfane Explorer | 5.00% | ~131 |
 | Kitted Out | 4.00% | ~104 |
 | Armaments Gules | 4.00% | ~104 |
 | Scholar | 3.00% | ~78 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 948)
 | Out of Time | 0.20% | ~5 |
 | Fowl Play | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,608 (Ranked 230)  
+Progressed: 2,612 (Ranked 231)  
 Completed: 2 (0.08%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 2 (0.08%) (Ranked 319)
 | 2023-12-31 | 2,400 | 2 |
 | 2024-01-01 | 2,478 | 2 |
 | 2024-01-02 | 2,542 | 2 |
-| 2024-01-03 | 2,608 | 2 |
+| 2024-01-03 | 2,612 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

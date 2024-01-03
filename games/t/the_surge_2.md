@@ -5,15 +5,15 @@ Rating: 4.27 (Ranked 897)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 79.00% | ~1,939 |
-| Don't I Know You...? | 75.00% | ~1,841 |
+| Rigged And Ready | 79.00% | ~1,940 |
+| Don't I Know You...? | 75.00% | ~1,842 |
 | Jailbreak | 65.00% | ~1,596 |
 | Suited and Booted | 38.00% | ~933 |
-| HEADSHOT! | 37.00% | ~908 |
-| Sleeping With The Fishes | 35.00% | ~859 |
-| Overheated | 30.00% | ~736 |
-| High Performance | 30.00% | ~736 |
-| Powered Up | 28.00% | ~687 |
+| HEADSHOT! | 37.00% | ~909 |
+| Sleeping With The Fishes | 35.00% | ~860 |
+| Overheated | 30.00% | ~737 |
+| High Performance | 30.00% | ~737 |
+| Powered Up | 28.00% | ~688 |
 | Studied The Blade | 24.00% | ~589 |
 | Home Invasion | 23.00% | ~565 |
 | Luminary | 22.00% | ~540 |
@@ -21,11 +21,11 @@ Rating: 4.27 (Ranked 897)
 | True Survivor | 21.00% | ~516 |
 | Offensive Defense | 20.00% | ~491 |
 | Shocking | 20.00% | ~491 |
-| Court Martial | 19.00% | ~466 |
-| Unforeseeable Consequences | 19.00% | ~466 |
+| Court Martial | 19.00% | ~467 |
+| Unforeseeable Consequences | 19.00% | ~467 |
 | Clean Cut | 18.00% | ~442 |
-| Dead Again | 17.00% | ~417 |
-| Full Arsenal | 17.00% | ~417 |
+| Dead Again | 17.00% | ~418 |
+| Full Arsenal | 17.00% | ~418 |
 | Can't Trust Banks | 15.00% | ~368 |
 | Mommy Dearest | 13.00% | ~319 |
 | Bad Dog | 13.00% | ~319 |
@@ -63,7 +63,7 @@ Rating: 4.27 (Ranked 897)
 | Three Birds With One Stone | 1.00% | ~25 |
 | The Easy Way Out | 1.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,455 (Ranked 234)  
+Progressed: 2,456 (Ranked 234)  
 Completed: 13 (0.53%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 13 (0.53%) (Ranked 214)
 | 2023-12-31 | 2,428 | 13 |
 | 2024-01-01 | 2,442 | 13 |
 | 2024-01-02 | 2,447 | 13 |
-| 2024-01-03 | 2,455 | 13 |
+| 2024-01-03 | 2,456 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

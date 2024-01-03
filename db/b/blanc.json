@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3935,
+  "EOS_Progressed": 3939,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 179,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6561,6 +6561,11 @@
       "Time": "2024-01-03T20:03:06.8554188+00:00",
       "NumProgressed": 3935,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-03T21:04:02.4372198+00:00",
+      "NumProgressed": 3939,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -6604,7 +6609,7 @@
       "Name": "The will to move on",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "REUNION",
@@ -6612,7 +6617,7 @@
       "Name": "Reunion",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "SLIDERS",
@@ -6675,7 +6680,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3935,
+      "Progressed": 3939,
       "Completed": 6
     }
   ],
@@ -6683,8 +6688,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2024-01-03T20:03:06.8554182+00:00",
+  "LastChanged_Achievements": "2024-01-03T21:04:02.4372189+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:59.0797821+00:00",
-  "LastUpdate_Ratings": "2024-01-03T19:59:33.5145238+00:00",
-  "LastUpdate_Achievements": "2024-01-03T20:03:06.8554688+00:00"
+  "LastUpdate_Ratings": "2024-01-03T21:00:55.5175205+00:00",
+  "LastUpdate_Achievements": "2024-01-03T21:04:02.4372831+00:00"
 }

@@ -4858,9 +4858,9 @@
       "ID": "ML_ACHIEVEMENT_38",
       "SetID": "5k00jcd",
       "Name": "Spoiled for choice",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -4943,8 +4943,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-03T20:05:55.120676+00:00",
+  "LastChanged_Achievements": "2024-01-03T21:07:51.5463717+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:19.4494243+00:00",
-  "LastUpdate_Ratings": "2024-01-03T20:00:03.9458703+00:00",
-  "LastUpdate_Achievements": "2024-01-03T20:05:55.1207474+00:00"
+  "LastUpdate_Ratings": "2024-01-03T21:01:38.3151915+00:00",
+  "LastUpdate_Achievements": "2024-01-03T21:07:51.546455+00:00"
 }

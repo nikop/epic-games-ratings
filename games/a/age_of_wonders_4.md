@@ -5,9 +5,9 @@ Rating: 4.62 (Ranked 374)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 14.00% | ~950 |
-| Realm Estate | 12.00% | ~814 |
-| A Wonderful Discovery | 12.00% | ~814 |
+| Secret Technique | 14.00% | ~951 |
+| Realm Estate | 12.00% | ~815 |
+| A Wonderful Discovery | 12.00% | ~815 |
 | Walls Cannot Stop Us | 11.00% | ~747 |
 | From Friends to Family | 10.00% | ~679 |
 | Bone Peddler | 8.00% | ~543 |
@@ -16,13 +16,13 @@ Rating: 4.62 (Ranked 374)
 | There Can Only Be One! | 6.00% | ~407 |
 | Stronger Together | 6.00% | ~407 |
 | Seat of Power | 6.00% | ~407 |
-| Valley of Wonders | 5.00% | ~339 |
-| In a Liege of Your Own | 5.00% | ~339 |
-| Intimidation Tactics | 5.00% | ~339 |
-| But this one is mine | 5.00% | ~339 |
-| Return of the Wizard King | 4.00% | ~271 |
-| Digging for Treasure | 4.00% | ~271 |
-| My Final Form | 4.00% | ~271 |
+| Valley of Wonders | 5.00% | ~340 |
+| In a Liege of Your Own | 5.00% | ~340 |
+| Intimidation Tactics | 5.00% | ~340 |
+| But this one is mine | 5.00% | ~340 |
+| Return of the Wizard King | 4.00% | ~272 |
+| Digging for Treasure | 4.00% | ~272 |
+| My Final Form | 4.00% | ~272 |
 | Enchanted Archipelago | 3.00% | ~204 |
 | Preparation Is Everything | 3.00% | ~204 |
 | Fiery Friend | 3.00% | ~204 |
@@ -47,11 +47,11 @@ Rating: 4.62 (Ranked 374)
 | Manufactured War | 1.00% | ~68 |
 | The Eternal Court | 1.00% | ~68 |
 | Pruning for Progress | 1.00% | ~68 |
+| Grexolis | 1.00% | ~68 |
 | Prometheus Avenged | 1.00% | ~68 |
 | Seal the Deal | 1.00% | ~68 |
 | A Conqueror's Cohort | 1.00% | ~68 |
 | Dawn of the Dread | 1.00% | ~68 |
-| Grexolis | 0.90% | ~61 |
 | One for All, All for One | 0.90% | ~61 |
 | Betrayal Most Foul | 0.80% | ~54 |
 | Duality | 0.80% | ~54 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 374)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,787 (Ranked 196)  
+Progressed: 6,790 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 7 (0.10%) (Ranked 305)
 | 2023-12-31 | 6,624 | 7 |
 | 2024-01-01 | 6,687 | 7 |
 | 2024-01-02 | 6,742 | 7 |
-| 2024-01-03 | 6,787 | 7 |
+| 2024-01-03 | 6,790 | 7 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 479)  
 Sum: 209 (Ranked 409)  

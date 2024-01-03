@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My Papyrus! | 75.00% | ~86 |
-| A Loyal Friend | 38.00% | ~44 |
+| My Papyrus! | 76.00% | ~88 |
+| A Loyal Friend | 39.00% | ~45 |
 | Abandon Ship! | 27.00% | ~31 |
 | The Tomb of Kih-Oskh | 21.00% | ~24 |
 | The Weighing of the Soul | 19.00% | ~22 |
-| The Curse of Kih-Oskh | 17.00% | ~20 |
+| The Curse of Kih-Oskh | 16.00% | ~19 |
 | It's a Deal! | 13.00% | ~15 |
 | Cat Lover | 11.00% | ~13 |
 | Dynamite, Treason and Coconuts | 11.00% | ~13 |
@@ -42,7 +42,7 @@
 | Trials of Kih-Oskh | 0.00% | ~0 |
 | Escaping War | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 115 (Ranked 476)  
+Progressed: 116 (Ranked 476)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,4 +87,4 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2023-12-30 | 111 | 0 |
 | 2024-01-01 | 112 | 0 |
 | 2024-01-02 | 113 | 0 |
-| 2024-01-03 | 115 | 0 |
+| 2024-01-03 | 116 | 0 |

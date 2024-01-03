@@ -4,7 +4,7 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -3535,9 +3535,9 @@
       "ID": "BoxingClever",
       "SetID": "3ai6ml8",
       "Name": "Boxing Clever",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 640
+      "UsersEstimate": 652
     },
     {
       "ID": "Cartographer",
@@ -3686,8 +3686,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2024-01-03T20:09:13.993582+00:00",
+  "LastChanged_Achievements": "2024-01-03T21:10:48.6413385+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:55.6682443+00:00",
-  "LastUpdate_Ratings": "2024-01-03T19:59:37.8141967+00:00",
-  "LastUpdate_Achievements": "2024-01-03T20:09:13.9936121+00:00"
+  "LastUpdate_Ratings": "2024-01-03T21:00:59.9500203+00:00",
+  "LastUpdate_Achievements": "2024-01-03T21:10:48.6413723+00:00"
 }

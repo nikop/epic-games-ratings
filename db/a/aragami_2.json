@@ -257,7 +257,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44790,
+  "EOS_Progressed": 44791,
   "EOS_Completed": 248,
   "EOS_NewPlayers": 223,
   "EOS_NewCompleters": 1,
@@ -20242,6 +20242,11 @@
       "Time": "2024-01-03T20:04:58.8530423+00:00",
       "NumProgressed": 44790,
       "NumCompleted": 248
+    },
+    {
+      "Time": "2024-01-03T21:06:35.5882503+00:00",
+      "NumProgressed": 44791,
+      "NumCompleted": 248
     }
   ],
   "TotalAchievements": 44,
@@ -20253,7 +20258,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25530
+      "UsersEstimate": 25531
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -20373,7 +20378,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 35832
+      "UsersEstimate": 35833
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -20437,7 +20442,7 @@
       "Name": "Sleeping on the Job",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 7166
+      "UsersEstimate": 7167
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -20445,7 +20450,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 16572
+      "UsersEstimate": 16573
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -20501,7 +20506,7 @@
       "Name": "Fashionable Assassin",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 12093
+      "UsersEstimate": 12094
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -20517,7 +20522,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 26874
+      "UsersEstimate": 26875
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -20525,7 +20530,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 30009
+      "UsersEstimate": 30010
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -20589,7 +20594,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 41655
+      "UsersEstimate": 41656
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -20604,7 +20609,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 44790,
+      "Progressed": 44791,
       "Completed": 248
     }
   ],
@@ -20612,8 +20617,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-25T15:03:11.7209746+00:00",
-  "LastChanged_Achievements": "2024-01-03T20:04:58.8530414+00:00",
+  "LastChanged_Achievements": "2024-01-03T21:06:35.5882499+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:30.3527303+00:00",
-  "LastUpdate_Ratings": "2024-01-03T20:02:52.5692364+00:00",
-  "LastUpdate_Achievements": "2024-01-03T20:04:58.8531774+00:00"
+  "LastUpdate_Ratings": "2024-01-03T21:03:39.4471933+00:00",
+  "LastUpdate_Achievements": "2024-01-03T21:06:35.5883747+00:00"
 }

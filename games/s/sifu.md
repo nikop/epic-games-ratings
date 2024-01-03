@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 5.00% | ~37,647 |
+| The Old Grandmaster | 5.00% | ~37,648 |
 | The Assault | 4.00% | ~30,118 |
 | Life is your teacher | 4.00% | ~30,118 |
 | Lightning Hands | 4.00% | ~30,118 |
@@ -24,18 +24,18 @@ Number of Ratings: 9,492  (23.09.2022)
 | Path of the Prospect | 2.00% | ~15,059 |
 | Rumble in the Hangar | 2.00% | ~15,059 |
 | Diligence as a goal | 2.00% | ~1,245 |
-| Furious Fists | 1.00% | ~7,529 |
-| Scareless | 1.00% | ~7,529 |
-| Qi Gong: Mind | 1.00% | ~7,529 |
-| Kung-Fu Tussle | 1.00% | ~7,529 |
-| Take damage to save time | 1.00% | ~7,529 |
-| Project Arena | 1.00% | ~622 |
-| Dance of the Praying Mantis | 0.90% | ~6,776 |
+| Furious Fists | 1.00% | ~7,530 |
+| Scareless | 1.00% | ~7,530 |
+| Qi Gong: Mind | 1.00% | ~7,530 |
+| Kung-Fu Tussle | 1.00% | ~7,530 |
+| Take damage to save time | 1.00% | ~7,530 |
+| Project Arena | 1.00% | ~623 |
+| Dance of the Praying Mantis | 0.90% | ~6,777 |
 | Fight the way you practice | 0.80% | ~498 |
 | Muk Yan Master | 0.60% | ~4,518 |
 | Tiger on Fire | 0.60% | ~4,518 |
 | Detective Story | 0.60% | ~4,518 |
-| Martial Hub | 0.60% | ~373 |
+| Martial Hub | 0.60% | ~374 |
 | Source of Flying Daggers | 0.50% | ~3,765 |
 | Iron Money | 0.50% | ~3,765 |
 | Sword Stained With Blood | 0.50% | ~3,765 |
@@ -54,12 +54,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | Master of the Phoenix Eye Fist | 0.20% | ~1,506 |
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,506 |
 | Be like water my friend | 0.20% | ~1,506 |
-| Secure, Protect, Leave | 0.20% | ~124 |
-| A Touch of Acumen | 0.20% | ~124 |
-| Crouching Tiger | 0.20% | ~124 |
-| Skill and an even stronger will | 0.20% | ~124 |
-| Master of the Flying Assassins | 0.20% | ~124 |
-| Beatmaker | 0.20% | ~124 |
+| Secure, Protect, Leave | 0.20% | ~125 |
+| A Touch of Acumen | 0.20% | ~125 |
+| Crouching Tiger | 0.20% | ~125 |
+| Skill and an even stronger will | 0.20% | ~125 |
+| Master of the Flying Assassins | 0.20% | ~125 |
+| Beatmaker | 0.20% | ~125 |
 | Warriors from the Mountain | 0.10% | ~753 |
 | Hidden Dragon | 0.10% | ~62 |
 | Here Cometh the Iceman | 0.10% | ~62 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~62 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 752,941 (Ranked 24)  
+Progressed: 752,958 (Ranked 24)  
 Completed: 12,972 (1.72%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 12,972 (1.72%) (Ranked 141)
 | 2023-12-31 | 750,399 | 12,971 |
 | 2024-01-01 | 751,425 | 12,971 |
 | 2024-01-02 | 752,188 | 12,971 |
-| 2024-01-03 | 752,941 | 12,972 |
+| 2024-01-03 | 752,958 | 12,972 |
 ## Awards
 Max (Great Boss Battles): 7,088  (Ranked 55)  
 Sum: 11,987 (Ranked 87)  

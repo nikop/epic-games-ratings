@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 725,
+  "EOS_Progressed": 728,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -2404,6 +2404,11 @@
       "Time": "2024-01-03T20:07:57.4614556+00:00",
       "NumProgressed": 725,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-03T21:08:47.5539257+00:00",
+      "NumProgressed": 728,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -2472,7 +2477,7 @@
       "Name": "Defeat a Great Unclean One",
       "Percentage": 10,
       "XP": 45,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ach_defeat_lord_of_change",
@@ -2511,14 +2516,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 725,
+      "Progressed": 728,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2024-01-03T20:07:57.4614552+00:00",
+  "LastChanged_Achievements": "2024-01-03T21:08:47.553925+00:00",
   "LastUpdate_AppInfo": "2023-12-29T15:57:01.9014557+00:00",
-  "LastUpdate_Ratings": "2024-01-03T20:00:28.3975194+00:00",
-  "LastUpdate_Achievements": "2024-01-03T20:07:57.4614761+00:00"
+  "LastUpdate_Ratings": "2024-01-03T21:02:13.1748322+00:00",
+  "LastUpdate_Achievements": "2024-01-03T21:08:47.5539503+00:00"
 }

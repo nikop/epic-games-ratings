@@ -887,9 +887,9 @@
       "ID": "id_15",
       "SetID": "bk9jib6",
       "Name": "Archaeologist",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 29
     },
     {
       "ID": "id_16",
@@ -1264,8 +1264,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-12-28T07:02:46.0007261+00:00",
-  "LastChanged_Achievements": "2024-01-03T20:09:23.9621921+00:00",
+  "LastChanged_Achievements": "2024-01-03T21:11:00.9976356+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:11.6693375+00:00",
-  "LastUpdate_Ratings": "2024-01-03T19:58:57.6458132+00:00",
-  "LastUpdate_Achievements": "2024-01-03T20:09:23.9622257+00:00"
+  "LastUpdate_Ratings": "2024-01-03T21:00:08.4997338+00:00",
+  "LastUpdate_Achievements": "2024-01-03T21:11:00.9976895+00:00"
 }

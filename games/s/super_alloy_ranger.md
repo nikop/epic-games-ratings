@@ -10,9 +10,9 @@
 | Freshen Up | 55.00% | ~82 |
 | GG EZ | 52.00% | ~77 |
 | Hydrophobia | 36.00% | ~54 |
-| Ka-Ching! | 29.00% | ~43 |
+| Ka-Ching! | 30.00% | ~45 |
 | Stop Right There | 27.00% | ~40 |
-| Get to the Point | 24.00% | ~36 |
+| Get to the Point | 25.00% | ~37 |
 | Phew! | 14.00% | ~21 |
 | The Hidden Secret | 13.00% | ~19 |
 | Mr. Want It All | 13.00% | ~19 |
@@ -56,7 +56,7 @@
 | Super Alloy Ranger! | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 149 (Ranked 450)  
-Completed: 1 (0.67%) (Ranked 197)  
+Completed: 1 (0.67%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

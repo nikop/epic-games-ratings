@@ -2,7 +2,7 @@
   "ID": "d354bf1a92ac4546aa20c74c8e7f70e1",
   "Name": "Project Highrise",
   "ProductSlug": "project-highrise-a567e8",
-  "Ranking_EOS_Progress": 347,
+  "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 290,
   "Ranking_EOS_NewCompleters": 153,
@@ -32,7 +32,7 @@
   "Tags": [],
   "EOS_Progressed": 486,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1718,9 +1718,9 @@
       "ID": "ach_consultant_1",
       "SetID": "b8gh1fi",
       "Name": "Upgrade Unlock",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 165
     },
     {
       "ID": "ach_consultants_a",
@@ -2287,8 +2287,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2024-01-03T20:05:32.1372631+00:00",
+  "LastChanged_Achievements": "2024-01-03T21:07:21.1393272+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.6325323+00:00",
-  "LastUpdate_Ratings": "2024-01-03T19:58:46.846503+00:00",
-  "LastUpdate_Achievements": "2024-01-03T20:05:32.1373444+00:00"
+  "LastUpdate_Ratings": "2024-01-03T20:59:52.8595663+00:00",
+  "LastUpdate_Achievements": "2024-01-03T21:07:21.139412+00:00"
 }

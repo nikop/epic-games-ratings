@@ -45,8 +45,8 @@
 | Driven | 24.00% | ~874 |
 | Ghost Ship | 23.00% | ~838 |
 | The Assassin | 23.00% | ~838 |
+| The Justicar | 23.00% | ~838 |
 | The Quarian | 23.00% | ~838 |
-| The Justicar | 22.00% | ~801 |
 | The Prodigal | 22.00% | ~801 |
 | Galactic Explorer | 22.00% | ~801 |
 | Revenge! | 22.00% | ~801 |
@@ -64,6 +64,7 @@
 | Bringer of War | 21.00% | ~765 |
 | Focused | 20.00% | ~728 |
 | Completionist | 20.00% | ~728 |
+| Friend or Foe | 20.00% | ~728 |
 | Cat's in the Cradle | 20.00% | ~728 |
 | Doppelganger | 20.00% | ~728 |
 | Treason | 20.00% | ~728 |
@@ -72,7 +73,6 @@
 | Mission Accomplished | 19.00% | ~692 |
 | Suicide Mission | 19.00% | ~692 |
 | Against All Odds | 19.00% | ~692 |
-| Friend or Foe | 19.00% | ~692 |
 | Untouchable | 18.00% | ~656 |
 | Eye of the Hurricane | 18.00% | ~656 |
 | Giant Killer | 18.00% | ~656 |
@@ -80,11 +80,11 @@
 | A House Divided | 18.00% | ~656 |
 | World Shaker | 18.00% | ~656 |
 | Liberator | 17.00% | ~619 |
+| Savior | 16.00% | ~583 |
 | Weapon Specialist | 16.00% | ~583 |
 | Pathfinder | 16.00% | ~583 |
 | Tunnel Rat | 16.00% | ~583 |
 | Arbiter | 16.00% | ~583 |
-| Savior | 15.00% | ~546 |
 | Lost and Found | 15.00% | ~546 |
 | Paramour II | 14.00% | ~510 |
 | Party Crasher | 14.00% | ~510 |
@@ -108,12 +108,12 @@
 | Mail Slot | 10.00% | ~364 |
 | Long Service Medal | 10.00% | ~364 |
 | Combined Arms | 9.00% | ~328 |
+| Warp Mastery | 8.00% | ~291 |
 | Barrier Mastery | 7.00% | ~255 |
 | Always Prepared | 7.00% | ~255 |
 | Bruiser | 7.00% | ~255 |
 | Lift Mastery | 7.00% | ~255 |
 | Overload Specialist | 7.00% | ~255 |
-| Warp Mastery | 7.00% | ~255 |
 | Sky High | 6.00% | ~219 |
 | Hijacker | 6.00% | ~219 |
 | Paramour III | 6.00% | ~219 |
@@ -132,7 +132,7 @@
 | Neural Shock Specialist | 1.00% | ~36 |
 | The One and Only | 0.50% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,642 (Ranked 217)  
+Progressed: 3,642 (Ranked 218)  
 Completed: 13 (0.36%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |

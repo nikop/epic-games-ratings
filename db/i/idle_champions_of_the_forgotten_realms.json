@@ -9245,10 +9245,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 33283,
       "NumberOfAwardsMax": 5730
+    },
+    {
+      "Time": "2024-01-03T20:59:36.4428076+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33292,
+      "NumberOfAwardsMax": 5730
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33283,
+  "NumberOfAwards": 33292,
   "NumberOfAwardsMax": 5730,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9262,7 +9268,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5678
+      "Count": 5687
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -9295,9 +9301,9 @@
       "Count": 3622
     }
   ],
-  "EOS_Progressed": 250531,
+  "EOS_Progressed": 250553,
   "EOS_Completed": 2588,
-  "EOS_NewPlayers": 5128,
+  "EOS_NewPlayers": 5106,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -38545,6 +38551,11 @@
       "Time": "2024-01-03T20:09:33.6841229+00:00",
       "NumProgressed": 250531,
       "NumCompleted": 2588
+    },
+    {
+      "Time": "2024-01-03T21:11:12.4624077+00:00",
+      "NumProgressed": 250553,
+      "NumCompleted": 2588
     }
   ],
   "TotalAchievements": 546,
@@ -38556,7 +38567,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7516
+      "UsersEstimate": 7517
     },
     {
       "ID": "objective_completed_10",
@@ -38924,7 +38935,7 @@
       "Name": "Beast Intentions",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2505
+      "UsersEstimate": 2506
     },
     {
       "ID": "objective_completed_110",
@@ -39658,9 +39669,9 @@
       "ID": "objective_completed_14",
       "SetID": "cc37lbc",
       "Name": "Beast Mode",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 501
+      "UsersEstimate": 752
     },
     {
       "ID": "objective_completed_149",
@@ -39914,9 +39925,9 @@
       "ID": "objective_completed_21",
       "SetID": "cc37lbc",
       "Name": "Invisible Shadows",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 251
+      "UsersEstimate": 501
     },
     {
       "ID": "objective_completed_210",
@@ -40228,7 +40239,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2505
+      "UsersEstimate": 2506
     },
     {
       "ID": "objective_completed_34",
@@ -41700,7 +41711,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2505
+      "UsersEstimate": 2506
     },
     {
       "ID": "objective_completed_70",
@@ -41778,9 +41789,9 @@
       "ID": "objective_completed_80",
       "SetID": "cc37lbc",
       "Name": "Overdue Rendezvous",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 251
+      "UsersEstimate": 501
     },
     {
       "ID": "objective_completed_802",
@@ -42844,7 +42855,7 @@
       "Name": "Welcome to Sigil",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1734
+      "UsersEstimate": 1735
     },
     {
       "ID": "objective_completed_1558",
@@ -42923,21 +42934,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 216805,
-      "Completed": 4130
+      "Progressed": 216827,
+      "Completed": 4131
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 250531,
+      "Progressed": 250553,
       "Completed": 2588
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-03T19:58:35.0803852+00:00",
-  "LastChanged_Achievements": "2024-01-03T20:09:33.6841225+00:00",
+  "LastChanged": "2024-01-03T20:59:36.4428074+00:00",
+  "LastChanged_Achievements": "2024-01-03T21:11:12.4624072+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-03T19:58:35.0803857+00:00",
-  "LastUpdate_Achievements": "2024-01-03T20:09:33.6864716+00:00"
+  "LastUpdate_Ratings": "2024-01-03T20:59:36.442808+00:00",
+  "LastUpdate_Achievements": "2024-01-03T21:11:12.4649737+00:00"
 }

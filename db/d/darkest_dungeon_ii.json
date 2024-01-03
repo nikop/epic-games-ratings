@@ -10390,10 +10390,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 21375,
       "NumberOfAwardsMax": 7940
+    },
+    {
+      "Time": "2024-01-03T21:00:25.2984645+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21377,
+      "NumberOfAwardsMax": 7940
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21375,
+  "NumberOfAwards": 21377,
   "NumberOfAwardsMax": 7940,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10425,7 +10431,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1661
+      "Count": 1663
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -10470,7 +10476,7 @@
       "Count": 1079
     }
   ],
-  "EOS_Progressed": 131521,
+  "EOS_Progressed": 131527,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 1290,
   "EOS_NewCompleters": 0,
@@ -38175,6 +38181,11 @@
       "Time": "2024-01-03T20:09:00.9700512+00:00",
       "NumProgressed": 131521,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-03T21:10:31.373706+00:00",
+      "NumProgressed": 131527,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38282,7 +38293,7 @@
       "Name": "This Looks Familiar",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2630
+      "UsersEstimate": 2631
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -38290,7 +38301,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2630
+      "UsersEstimate": 2631
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -38306,7 +38317,7 @@
       "Name": "Predator",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2630
+      "UsersEstimate": 2631
     },
     {
       "ID": "combat_kill_antiquarian",
@@ -38314,7 +38325,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7891
+      "UsersEstimate": 7892
     },
     {
       "ID": "combat_kill_cadavers",
@@ -38362,7 +38373,7 @@
       "Name": "Ichthyophobic",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2630
+      "UsersEstimate": 2631
     },
     {
       "ID": "combat_kill_gaunts",
@@ -38378,7 +38389,7 @@
       "Name": "No More Mouths to Feed",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2630
+      "UsersEstimate": 2631
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -38538,7 +38549,7 @@
       "Name": "Autodidact",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7891
+      "UsersEstimate": 7892
     },
     {
       "ID": "hero_story_complete_all",
@@ -38586,7 +38597,7 @@
       "Name": "When You Want Something Done Right",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2630
+      "UsersEstimate": 2631
     },
     {
       "ID": "inn_replacement_hero_add",
@@ -38602,7 +38613,7 @@
       "Name": "Worldly Traveller",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2630
+      "UsersEstimate": 2631
     },
     {
       "ID": "relationships_all_negative_mountain",
@@ -38618,7 +38629,7 @@
       "Name": "Utopia",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2630
+      "UsersEstimate": 2631
     },
     {
       "ID": "roster_confirm_all_memoried",
@@ -38650,7 +38661,7 @@
       "Name": "Hot Air",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2630
+      "UsersEstimate": 2631
     },
     {
       "ID": "run_victory_act03",
@@ -38658,7 +38669,7 @@
       "Name": "Eyes Up",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2630
+      "UsersEstimate": 2631
     },
     {
       "ID": "run_victory_act04",
@@ -38722,7 +38733,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 767
+      "UsersEstimate": 768
     },
     {
       "ID": "combat_kill_collector",
@@ -38730,7 +38741,7 @@
       "Name": "This guy... again?",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -38786,7 +38797,7 @@
       "Name": "Lost and Found",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -38817,21 +38828,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131521,
+      "Progressed": 131527,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6390,
+      "Progressed": 6396,
       "Completed": 821
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-03T19:00:31.6050261+00:00",
-  "LastChanged_Achievements": "2024-01-03T20:09:00.9700508+00:00",
+  "LastChanged": "2024-01-03T21:00:25.2984644+00:00",
+  "LastChanged_Achievements": "2024-01-03T21:10:31.3737057+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-03T19:59:11.5075398+00:00",
-  "LastUpdate_Achievements": "2024-01-03T20:09:00.9702167+00:00"
+  "LastUpdate_Ratings": "2024-01-03T21:00:25.2984649+00:00",
+  "LastUpdate_Achievements": "2024-01-03T21:10:31.3739719+00:00"
 }

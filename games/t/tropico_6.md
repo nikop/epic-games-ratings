@@ -6,12 +6,12 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 73.00% | ~5,014 |
-| Un-Lonely Island | 45.00% | ~3,091 |
-| The Beginning of a Servantship | 44.00% | ~3,022 |
+| Just One...More...Term... | 73.00% | ~5,015 |
+| Un-Lonely Island | 45.00% | ~3,092 |
+| The Beginning of a Servantship | 44.00% | ~3,023 |
 | Trade Is My Trait | 36.00% | ~2,473 |
 | Number 18 | 23.00% | ~1,580 |
-| We Don't Have Time For That | 18.00% | ~1,236 |
+| We Don't Have Time For That | 18.00% | ~1,237 |
 | The Governator | 17.00% | ~1,168 |
 | The Legend of Langostino | 16.00% | ~1,099 |
 | Caribbean Comrade | 15.00% | ~1,030 |
@@ -27,11 +27,11 @@ Number of Ratings: 398  (23.09.2022)
 | French Connection | 7.00% | ~481 |
 | Don't Panic! | 6.00% | ~412 |
 | I Owe You Nothing | 6.00% | ~412 |
-| Viva Tropico! | 5.00% | ~343 |
-| Computer Says "No" | 5.00% | ~343 |
-| Beware The Betman | 5.00% | ~343 |
-| Watch The World Burn | 5.00% | ~343 |
-| Fairy Tale Come True | 5.00% | ~343 |
+| Viva Tropico! | 5.00% | ~344 |
+| Computer Says "No" | 5.00% | ~344 |
+| Beware The Betman | 5.00% | ~344 |
+| Watch The World Burn | 5.00% | ~344 |
+| Fairy Tale Come True | 5.00% | ~344 |
 | Been there, Done That | 3.00% | ~206 |
 | Apocalypso | 3.00% | ~206 |
 | Narcissist | 3.00% | ~206 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~55 |
 | My Ways | 0.20% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,869 (Ranked 194)  
+Progressed: 6,870 (Ranked 194)  
 Completed: 2 (0.03%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,11 +305,11 @@ Completed: 2 (0.03%) (Ranked 350)
 | 2023-12-31 | 6,808 | 2 |
 | 2024-01-01 | 6,834 | 2 |
 | 2024-01-02 | 6,856 | 2 |
-| 2024-01-03 | 6,869 | 2 |
+| 2024-01-03 | 6,870 | 2 |
 ## Awards
 Max (Highly Recommended): 106  (Ranked 368)  
-Sum: 752 (Ranked 302)  
-Diff (max vs sum): 66  
+Sum: 752 (Ranked 303)  
+Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 106 |

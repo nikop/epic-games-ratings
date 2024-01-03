@@ -6,11 +6,11 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 12.00% | ~767 |
-| Lost and Found | 8.00% | ~511 |
-| This Belongs in a Museum | 6.00% | ~7,891 |
-| Autodidact | 6.00% | ~7,891 |
-| This guy... again? | 6.00% | ~383 |
+| Malpractice Assurance | 12.00% | ~768 |
+| Lost and Found | 8.00% | ~512 |
+| This Belongs in a Museum | 6.00% | ~7,892 |
+| Autodidact | 6.00% | ~7,892 |
+| This guy... again? | 6.00% | ~384 |
 | Serenity Now! | 5.00% | ~6,576 |
 | Creep and Sleep | 5.00% | ~6,576 |
 | Meat and Greet | 5.00% | ~6,576 |
@@ -49,16 +49,16 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Clear Conscience | 3.00% | ~3,946 |
 | Unshackled | 3.00% | ~3,946 |
 | Road Trip | 3.00% | ~3,946 |
-| This Looks Familiar | 2.00% | ~2,630 |
-| Hope Rekindled | 2.00% | ~2,630 |
-| Predator | 2.00% | ~2,630 |
-| Ichthyophobic | 2.00% | ~2,630 |
-| No More Mouths to Feed | 2.00% | ~2,630 |
-| When You Want Something Done Right | 2.00% | ~2,630 |
-| Worldly Traveller | 2.00% | ~2,630 |
-| Utopia | 2.00% | ~2,630 |
-| Hot Air | 2.00% | ~2,630 |
-| Eyes Up | 2.00% | ~2,630 |
+| This Looks Familiar | 2.00% | ~2,631 |
+| Hope Rekindled | 2.00% | ~2,631 |
+| Predator | 2.00% | ~2,631 |
+| Ichthyophobic | 2.00% | ~2,631 |
+| No More Mouths to Feed | 2.00% | ~2,631 |
+| When You Want Something Done Right | 2.00% | ~2,631 |
+| Worldly Traveller | 2.00% | ~2,631 |
+| Utopia | 2.00% | ~2,631 |
+| Hot Air | 2.00% | ~2,631 |
+| Eyes Up | 2.00% | ~2,631 |
 | Shrine of Reflection | 1.00% | ~1,315 |
 | Handled | 1.00% | ~1,315 |
 | Body of Work | 1.00% | ~1,315 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,521 (Ranked 91)  
+Progressed: 131,527 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,16 +334,16 @@ Completed: 3 (0.00%) (Ranked 392)
 | 2023-12-31 | 131,026 | 3 |
 | 2024-01-01 | 131,206 | 3 |
 | 2024-01-02 | 131,365 | 3 |
-| 2024-01-03 | 131,521 | 3 |
+| 2024-01-03 | 131,527 | 3 |
 ## Awards
 Max (Character Customization): 7,940  (Ranked 50)  
-Sum: 21,375 (Ranked 58)  
+Sum: 21,377 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,940 |
 | This game has Diverse Characters | 1,811 |
-| This game has Challenging Combat | 1,661 |
+| This game has Challenging Combat | 1,663 |
 | This game is Highly Recommended | 1,587 |
 | This game has Amazing Characters | 1,513 |
 | This game is Extremely Fun | 1,508 |
@@ -696,4 +696,4 @@ Diff (max vs sum): -8
 | 2023-12-31 | 4.68 | - | 7,910 | 21,297 |
 | 2024-01-01 | 4.68 | - | 7,919 | 21,323 |
 | 2024-01-02 | 4.68 | - | 7,927 | 21,353 |
-| 2024-01-03 | 4.68 | - | 7,940 | 21,375 |
+| 2024-01-03 | 4.68 | - | 7,940 | 21,377 |

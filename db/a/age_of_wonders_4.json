@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 409,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -717,9 +717,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6787,
+  "EOS_Progressed": 6790,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 438,
+  "EOS_NewPlayers": 440,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10257,6 +10257,11 @@
       "Time": "2024-01-03T20:07:43.777713+00:00",
       "NumProgressed": 6787,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-03T21:08:29.0435494+00:00",
+      "NumProgressed": 6790,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10268,7 +10273,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "10",
@@ -10316,7 +10321,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "16",
@@ -10380,7 +10385,7 @@
       "Name": "Realm Estate",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "23",
@@ -10388,7 +10393,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "24",
@@ -10396,7 +10401,7 @@
       "Name": "Secret Technique",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "25",
@@ -10420,7 +10425,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "28",
@@ -10468,7 +10473,7 @@
       "Name": "My Final Form",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "33",
@@ -10484,7 +10489,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "35",
@@ -10540,7 +10545,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "41",
@@ -10578,9 +10583,9 @@
       "ID": "5",
       "SetID": "3aa2279",
       "Name": "Grexolis",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 61
+      "UsersEstimate": 68
     },
     {
       "ID": "6",
@@ -10732,7 +10737,7 @@
       "Name": "But this one is mine",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "60",
@@ -10747,13 +10752,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6787,
+      "Progressed": 6790,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6787,
+      "Progressed": 6790,
       "Completed": 7
     }
   ],
@@ -10761,8 +10766,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-03T13:04:27.6429549+00:00",
-  "LastChanged_Achievements": "2024-01-03T20:07:43.7777125+00:00",
+  "LastChanged_Achievements": "2024-01-03T21:08:29.043549+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-03T20:00:08.0136809+00:00",
-  "LastUpdate_Achievements": "2024-01-03T20:07:43.7778419+00:00"
+  "LastUpdate_Ratings": "2024-01-03T21:01:44.8407677+00:00",
+  "LastUpdate_Achievements": "2024-01-03T21:08:29.0436424+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "sands-of-aura",
   "Ranking_EOS_Progress": 466,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 429,
+  "Ranking_EOS_NewPlayers": 416,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 129,
+  "EOS_Progressed": 130,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -645,6 +645,11 @@
       "Time": "2024-01-03T05:04:36.8077164+00:00",
       "NumProgressed": 129,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T21:06:02.9084397+00:00",
+      "NumProgressed": 130,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-14T11:03:32.7947841+00:00",
@@ -919,9 +924,9 @@
       "ID": "FLARE_KNIGHT_DEFEAT",
       "SetID": "cm0d613",
       "Name": "The Guardian of Fire",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "FLARE_KNIGHT_MASTER",
@@ -1055,7 +1060,7 @@
       "ID": "START_GAME",
       "SetID": "cm0d613",
       "Name": "Setting Sail",
-      "Percentage": 91,
+      "Percentage": 90,
       "XP": 10,
       "UsersEstimate": 117
     },
@@ -1120,7 +1125,7 @@
     {
       "ID": "cm0d613",
       "IsBase": true,
-      "Progressed": 129,
+      "Progressed": 130,
       "Completed": 0
     }
   ],
@@ -1128,8 +1133,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2024-01-03T20:04:34.7664856+00:00",
+  "LastChanged_Achievements": "2024-01-03T21:06:02.9084392+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:22.6338315+00:00",
-  "LastUpdate_Ratings": "2024-01-03T20:02:40.7452499+00:00",
-  "LastUpdate_Achievements": "2024-01-03T20:04:34.7665238+00:00"
+  "LastUpdate_Ratings": "2024-01-03T21:03:22.6060276+00:00",
+  "LastUpdate_Achievements": "2024-01-03T21:06:02.9084918+00:00"
 }

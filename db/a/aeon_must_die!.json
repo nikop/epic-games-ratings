@@ -4,7 +4,7 @@
   "ProductSlug": "aeon-must-die",
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 3802,
-  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-10-27T21:59:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3632,
+  "EOS_Progressed": 3633,
   "EOS_Completed": -28,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": -0.77,
   "EosHistory": [
@@ -874,6 +874,11 @@
       "Time": "2024-01-03T20:08:13.6365939+00:00",
       "NumProgressed": 3632,
       "NumCompleted": -28
+    },
+    {
+      "Time": "2024-01-03T21:09:28.9984977+00:00",
+      "NumProgressed": 3633,
+      "NumCompleted": -28
     }
   ],
   "TotalAchievements": 35,
@@ -885,7 +890,7 @@
       "Name": "The Purpose Of Betrayal",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "10",
@@ -957,7 +962,7 @@
       "Name": "Rightfully Yours",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "19",
@@ -1093,7 +1098,7 @@
       "Name": "Cheap Tricks",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "34",
@@ -1164,7 +1169,7 @@
     {
       "ID": "5cfan5f",
       "IsBase": true,
-      "Progressed": 3632,
+      "Progressed": 3633,
       "Completed": -28
     }
   ],
@@ -1172,8 +1177,8 @@
   "FirstSeenRating": "2023-03-31T05:57:47.6282552+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:12.6590754+00:00",
   "LastChanged": "2023-03-31T05:57:47.6282553+00:00",
-  "LastChanged_Achievements": "2024-01-03T20:08:13.6365934+00:00",
+  "LastChanged_Achievements": "2024-01-03T21:09:28.9984972+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:16.5044228+00:00",
-  "LastUpdate_Ratings": "2024-01-03T19:59:38.2987286+00:00",
-  "LastUpdate_Achievements": "2024-01-03T20:08:13.6366238+00:00"
+  "LastUpdate_Ratings": "2024-01-03T21:01:00.4751245+00:00",
+  "LastUpdate_Achievements": "2024-01-03T21:09:28.9985277+00:00"
 }

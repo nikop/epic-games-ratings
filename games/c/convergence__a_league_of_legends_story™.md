@@ -5,19 +5,19 @@ Rating: 4.65 (Ranked 321)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 44.00% | ~534 |
-| Rail Rat | 33.00% | ~400 |
-| The Mysterious Stranger | 32.00% | ~388 |
-| Immaculate Aim | 28.00% | ~340 |
+| Time Heals All Wounds | 44.00% | ~535 |
+| Rail Rat | 33.00% | ~401 |
+| The Mysterious Stranger | 32.00% | ~389 |
+| Immaculate Aim | 27.00% | ~328 |
 | The Brass Boss | 27.00% | ~328 |
-| Make Up For Lost Time | 25.00% | ~303 |
-| Time Flies | 25.00% | ~303 |
-| No, Thanks! | 25.00% | ~303 |
-| The Prince in Heels | 25.00% | ~303 |
-| Honest Mistake | 25.00% | ~303 |
-| The Harder They Fall | 24.00% | ~291 |
-| Fast Learner | 24.00% | ~291 |
-| Immaculate Aim | 24.00% | ~291 |
+| Make Up For Lost Time | 25.00% | ~304 |
+| Time Flies | 25.00% | ~304 |
+| No, Thanks! | 25.00% | ~304 |
+| The Prince in Heels | 25.00% | ~304 |
+| Honest Mistake | 25.00% | ~304 |
+| The Harder They Fall | 24.00% | ~292 |
+| Fast Learner | 24.00% | ~292 |
+| Immaculate Aim | 24.00% | ~292 |
 | The Steel Shadow | 23.00% | ~279 |
 | Breaking Down Barriers | 23.00% | ~279 |
 | The Wicked Twins | 22.00% | ~267 |
@@ -26,22 +26,22 @@ Rating: 4.65 (Ranked 321)
 | The Betrayer | 21.00% | ~255 |
 | Golem Chaser | 21.00% | ~255 |
 | Check Your Pulse | 20.00% | ~243 |
-| The Loose Cannon | 19.00% | ~230 |
-| Street Style | 18.00% | ~218 |
-| The Man Who Shattered Time | 18.00% | ~218 |
-| The Family Fortune | 18.00% | ~218 |
+| The Loose Cannon | 19.00% | ~231 |
+| Street Style | 18.00% | ~219 |
+| The Man Who Shattered Time | 18.00% | ~219 |
+| The Family Fortune | 18.00% | ~219 |
 | Whiz Kid | 15.00% | ~182 |
-| Family Memories | 14.00% | ~170 |
 | Good Neighbor | 14.00% | ~170 |
+| Family Memories | 13.00% | ~158 |
 | Cartographer | 13.00% | ~158 |
 | Ask Questions Later | 13.00% | ~158 |
 | Chaincrawler Explorer | 12.00% | ~146 |
 | Treasure Trove | 12.00% | ~146 |
 | Syron for Hope | 12.00% | ~146 |
-| Sump Explorer | 11.00% | ~133 |
-| Factorywood Explorer | 10.00% | ~121 |
-| Fairgrounds Explorer | 10.00% | ~121 |
-| Theater Explorer | 10.00% | ~121 |
+| Sump Explorer | 11.00% | ~134 |
+| Factorywood Explorer | 10.00% | ~122 |
+| Fairgrounds Explorer | 10.00% | ~122 |
+| Theater Explorer | 10.00% | ~122 |
 | Cultivair Explorer | 9.00% | ~109 |
 | Corin Goes Home | 8.00% | ~97 |
 | Entresol Explorer | 8.00% | ~97 |
@@ -55,11 +55,11 @@ Rating: 4.65 (Ranked 321)
 | Thinking Two Steps Ahead | 1.00% | ~12 |
 | No Time to Waste | 1.00% | ~12 |
 | A Lesson in Precision | 0.90% | ~11 |
-| Wildlife Protection | 0.70% | ~8 |
-| Raw Talent | 0.70% | ~8 |
+| Wildlife Protection | 0.70% | ~9 |
+| Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,213 (Ranked 280)  
+Progressed: 1,215 (Ranked 280)  
 Completed: 6 (0.49%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 6 (0.49%) (Ranked 220)
 | 2023-12-31 | 1,175 | 6 |
 | 2024-01-01 | 1,190 | 6 |
 | 2024-01-02 | 1,201 | 6 |
-| 2024-01-03 | 1,213 | 6 |
+| 2024-01-03 | 1,215 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

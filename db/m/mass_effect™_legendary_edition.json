@@ -2,10 +2,10 @@
   "ID": "2a535f0e7c754dbe9157bf96adc62d56",
   "Name": "Mass Effect\u2122 Legendary Edition",
   "ProductSlug": "mass-effect-legendary-edition",
-  "Ranking_EOS_Progress": 217,
+  "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 3642,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 449,
+  "EOS_NewPlayers": 443,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -7214,9 +7214,9 @@
       "ID": "achievement_114",
       "SetID": "d252ncf",
       "Name": "Savior",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 546
+      "UsersEstimate": 583
     },
     {
       "ID": "achievement_115",
@@ -7598,9 +7598,9 @@
       "ID": "achievement_43",
       "SetID": "d252ncf",
       "Name": "Friend or Foe",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 692
+      "UsersEstimate": 728
     },
     {
       "ID": "achievement_44",
@@ -7630,9 +7630,9 @@
       "ID": "achievement_47",
       "SetID": "d252ncf",
       "Name": "The Justicar",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 801
+      "UsersEstimate": 838
     },
     {
       "ID": "achievement_48",
@@ -7918,9 +7918,9 @@
       "ID": "achievement_8",
       "SetID": "b9pe172",
       "Name": "Warp Mastery",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 255
+      "UsersEstimate": 291
     },
     {
       "ID": "achievement_80",
@@ -8106,8 +8106,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-03T20:09:31.0856908+00:00",
+  "LastChanged_Achievements": "2024-01-03T21:11:09.3413805+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:34.6542278+00:00",
-  "LastUpdate_Ratings": "2024-01-03T20:03:00.1409894+00:00",
-  "LastUpdate_Achievements": "2024-01-03T20:09:31.0858737+00:00"
+  "LastUpdate_Ratings": "2024-01-03T21:03:50.8387117+00:00",
+  "LastUpdate_Achievements": "2024-01-03T21:11:09.3415709+00:00"
 }

@@ -8,7 +8,7 @@ Number of Ratings: 90  (23.09.2022)
 | ---- | ---------- | ----- |
 | Rock of the Bay | 81.00% | ~244 |
 | Mash Machine | 75.00% | ~226 |
-| Ducks in a Row, Fish in a Barrel | 54.00% | ~163 |
+| Ducks in a Row, Fish in a Barrel | 55.00% | ~166 |
 | Furon Fashion | 49.00% | ~147 |
 | Shop Til They Drop | 41.00% | ~123 |
 | Bodied Sattva | 38.00% | ~114 |
@@ -23,8 +23,8 @@ Number of Ratings: 90  (23.09.2022)
 | Die Nasty | 18.00% | ~54 |
 | Transmitting From Sol-3 | 15.00% | ~45 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 12.00% | ~36 |
+| Kaijuiced | 10.00% | ~30 |
 | Fly Me to the Moon Base | 9.00% | ~27 |
-| Kaijuiced | 9.00% | ~27 |
 | Re-Return of the Clone of the Invasion II-2 | 8.00% | ~24 |
 | Dusted | 8.00% | ~24 |
 | Scuttled | 7.00% | ~21 |

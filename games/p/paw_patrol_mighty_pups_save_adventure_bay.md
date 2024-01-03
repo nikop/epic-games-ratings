@@ -24,7 +24,7 @@
 | Adventure Bay’s Citizen | 28.00% | ~16 |
 | The Fastest | 26.00% | ~15 |
 | Don’t Miss Any | 26.00% | ~15 |
-| Mountain and Ice | 22.00% | ~13 |
+| Mountain and Ice | 24.00% | ~14 |
 | You Have Been Everywhere | 21.00% | ~12 |
 | Everything Under Control | 17.00% | ~10 |
 | Nothing Can Stop You | 10.00% | ~6 |

@@ -2,7 +2,7 @@
   "ID": "24b9b5e323bc40eea252a10cdd3b2f10",
   "Name": "League of Legends",
   "ProductSlug": "league-of-legends",
-  "Ranking_Rating": 958,
+  "Ranking_Rating": 959,
   "Ranking_Popularity": 77,
   "Ranking_PopularitySum": 57,
   "Ranking_EOS_Progress": 820,
@@ -12091,11 +12091,17 @@
       "Rating": 4.2,
       "NumberOfAwards": 23293,
       "NumberOfAwardsMax": 5005
+    },
+    {
+      "Time": "2024-01-03T20:59:03.8396398+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 23307,
+      "NumberOfAwardsMax": 5019
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 23293,
-  "NumberOfAwardsMax": 5005,
+  "NumberOfAwards": 23307,
+  "NumberOfAwardsMax": 5019,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -12108,7 +12114,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5005
+      "Count": 5019
     },
     {
       "Text": "This game has Challenging Combat",
@@ -12164,8 +12170,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:19.1268612+00:00",
-  "LastChanged": "2024-01-03T16:58:44.9365214+00:00",
+  "LastChanged": "2024-01-03T20:59:03.8396396+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:58.6549205+00:00",
-  "LastUpdate_Ratings": "2024-01-03T19:58:13.7033496+00:00",
-  "LastUpdate_Achievements": "2024-01-03T20:03:56.5610366+00:00"
+  "LastUpdate_Ratings": "2024-01-03T20:59:03.8396402+00:00",
+  "LastUpdate_Achievements": "2024-01-03T21:05:11.5582859+00:00"
 }

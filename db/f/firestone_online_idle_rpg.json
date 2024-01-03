@@ -709,7 +709,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4134,
+  "EOS_Progressed": 4135,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 254,
   "EOS_NewCompleters": 0,
@@ -11634,6 +11634,11 @@
       "Time": "2024-01-03T20:06:21.5530584+00:00",
       "NumProgressed": 4134,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-03T21:08:27.1246697+00:00",
+      "NumProgressed": 4135,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -11757,7 +11762,7 @@
       "Name": "Dragon Master",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "dragonslayer",
@@ -11803,9 +11808,9 @@
       "ID": "enhancedwarmachines",
       "SetID": "3nl4bcg",
       "Name": "Enhanced War Machines",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 41
     },
     {
       "ID": "enlightenment",
@@ -11813,7 +11818,7 @@
       "Name": "Enlightenment",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "exoticmerchant",
@@ -11821,7 +11826,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "fellowshippower",
@@ -11893,7 +11898,7 @@
       "Name": "Hero inspection",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "howdoyouturnthison",
@@ -12101,7 +12106,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2315
+      "UsersEstimate": 2316
     },
     {
       "ID": "thealchemist",
@@ -12205,7 +12210,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 3845
+      "UsersEstimate": 3846
     },
     {
       "ID": "warmachinesarmy",
@@ -12244,7 +12249,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4134,
+      "Progressed": 4135,
       "Completed": 2
     }
   ],
@@ -12252,8 +12257,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-02T09:57:01.626986+00:00",
-  "LastChanged_Achievements": "2024-01-03T20:06:21.5530581+00:00",
+  "LastChanged_Achievements": "2024-01-03T21:08:27.1246693+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:50.7213096+00:00",
-  "LastUpdate_Ratings": "2024-01-03T19:57:39.1252905+00:00",
-  "LastUpdate_Achievements": "2024-01-03T20:06:21.5531574+00:00"
+  "LastUpdate_Ratings": "2024-01-03T20:58:16.1459389+00:00",
+  "LastUpdate_Achievements": "2024-01-03T21:08:27.1247716+00:00"
 }

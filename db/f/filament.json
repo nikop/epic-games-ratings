@@ -402,9 +402,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 208454,
+  "EOS_Progressed": 208458,
   "EOS_Completed": 554,
-  "EOS_NewPlayers": 525,
+  "EOS_NewPlayers": 528,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -28032,6 +28032,11 @@
       "Time": "2024-01-03T20:03:09.6821234+00:00",
       "NumProgressed": 208454,
       "NumCompleted": 554
+    },
+    {
+      "Time": "2024-01-03T21:04:06.4539385+00:00",
+      "NumProgressed": 208458,
+      "NumCompleted": 554
     }
   ],
   "TotalAchievements": 29,
@@ -28067,7 +28072,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 195947
+      "UsersEstimate": 195951
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -28227,7 +28232,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20845
+      "UsersEstimate": 20846
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -28243,7 +28248,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16676
+      "UsersEstimate": 16677
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -28274,7 +28279,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 208454,
+      "Progressed": 208458,
       "Completed": 554
     }
   ],
@@ -28282,8 +28287,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2024-01-01T02:58:07.3780611+00:00",
-  "LastChanged_Achievements": "2024-01-03T20:03:09.6821226+00:00",
+  "LastChanged_Achievements": "2024-01-03T21:04:06.453938+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:16.5074852+00:00",
-  "LastUpdate_Ratings": "2024-01-03T19:58:54.1394862+00:00",
-  "LastUpdate_Achievements": "2024-01-03T20:03:09.6823472+00:00"
+  "LastUpdate_Ratings": "2024-01-03T21:00:02.5514154+00:00",
+  "LastUpdate_Achievements": "2024-01-03T21:04:06.4541352+00:00"
 }

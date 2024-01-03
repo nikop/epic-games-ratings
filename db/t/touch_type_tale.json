@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3971,
+  "EOS_Progressed": 3972,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
@@ -5382,6 +5382,11 @@
       "Time": "2024-01-03T19:05:43.3148107+00:00",
       "NumProgressed": 3971,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-03T21:05:34.8984606+00:00",
+      "NumProgressed": 3972,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -5441,7 +5446,7 @@
       "Name": "You and what Army?",
       "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 3455
+      "UsersEstimate": 3456
     },
     {
       "ID": "campaign10",
@@ -5529,7 +5534,7 @@
       "Name": "Flanked!",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 2978
+      "UsersEstimate": 2979
     },
     {
       "ID": "campaign20",
@@ -5553,7 +5558,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1628
+      "UsersEstimate": 1629
     },
     {
       "ID": "campaign5",
@@ -5561,7 +5566,7 @@
       "Name": "Clay Fighter",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "campaign6",
@@ -5601,7 +5606,7 @@
       "Name": "Do the Splits",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1469
+      "UsersEstimate": 1470
     },
     {
       "ID": "scenario2",
@@ -5656,7 +5661,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3971,
+      "Progressed": 3972,
       "Completed": 11
     }
   ],
@@ -5664,8 +5669,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2024-01-03T20:04:14.146885+00:00",
+  "LastChanged_Achievements": "2024-01-03T21:05:34.8984602+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.1228513+00:00",
-  "LastUpdate_Ratings": "2024-01-03T19:57:43.6437952+00:00",
-  "LastUpdate_Achievements": "2024-01-03T20:04:14.1469333+00:00"
+  "LastUpdate_Ratings": "2024-01-03T20:58:21.9243071+00:00",
+  "LastUpdate_Achievements": "2024-01-03T21:05:34.898512+00:00"
 }

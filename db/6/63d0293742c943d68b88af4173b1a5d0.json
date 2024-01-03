@@ -4,7 +4,7 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 617,
+  "EOS_Progressed": 619,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2004,6 +2004,11 @@
       "Time": "2024-01-03T20:03:55.2429957+00:00",
       "NumProgressed": 617,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T21:05:09.6006177+00:00",
+      "NumProgressed": 619,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -2056,7 +2061,7 @@
       "Name": "Baby\u0027s On Fire",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "9",
@@ -2072,15 +2077,15 @@
       "Name": "Turn a Rat into a Snack",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "REMAKE_002",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s First...",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 450
+      "UsersEstimate": 458
     },
     {
       "ID": "REMAKE_004",
@@ -2088,7 +2093,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "Remake_005",
@@ -2112,7 +2117,7 @@
       "Name": "Deez Buffs Make Me Go Nuts",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "Remake_008",
@@ -2239,14 +2244,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 617,
+      "Progressed": 619,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-03T20:03:55.2429954+00:00",
+  "LastChanged_Achievements": "2024-01-03T21:05:09.6006173+00:00",
   "LastUpdate_AppInfo": "2024-01-02T02:20:04.0332654+00:00",
-  "LastUpdate_Ratings": "2024-01-03T19:58:14.5786302+00:00",
-  "LastUpdate_Achievements": "2024-01-03T20:03:55.2430223+00:00"
+  "LastUpdate_Ratings": "2024-01-03T20:59:05.2260808+00:00",
+  "LastUpdate_Achievements": "2024-01-03T21:05:09.6006508+00:00"
 }

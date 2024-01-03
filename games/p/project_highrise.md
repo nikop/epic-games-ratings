@@ -11,7 +11,7 @@
 | Campaign Launch | 36.00% | ~175 |
 | Dinner Dash | 36.00% | ~175 |
 | Need a Consult | 34.00% | ~165 |
-| Upgrade Unlock | 33.00% | ~160 |
+| Upgrade Unlock | 34.00% | ~165 |
 | It's Technical | 33.00% | ~160 |
 | Proper Walls | 30.00% | ~146 |
 | Delegate Maintenance | 29.00% | ~141 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 486 (Ranked 347)  
+Progressed: 486 (Ranked 348)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
