@@ -5,7 +5,7 @@
   "Ranking_Rating": 876,
   "Ranking_Popularity": 430,
   "Ranking_PopularitySum": 393,
-  "Ranking_EOS_Progress": 55,
+  "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 151,
@@ -1030,9 +1030,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 360063,
+  "EOS_Progressed": 360064,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1347,
+  "EOS_NewPlayers": 1344,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30435,6 +30435,11 @@
       "Time": "2024-01-03T02:29:32.3040421+00:00",
       "NumProgressed": 360063,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-03T03:08:45.7114388+00:00",
+      "NumProgressed": 360064,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -30550,7 +30555,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 54009
+      "UsersEstimate": 54010
     },
     {
       "ID": "ach015",
@@ -31085,7 +31090,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 360063,
+      "Progressed": 360064,
       "Completed": 7
     }
   ],
@@ -31093,8 +31098,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-12-31T21:58:48.4985633+00:00",
-  "LastChanged_Achievements": "2024-01-03T02:29:32.3040415+00:00",
+  "LastChanged_Achievements": "2024-01-03T03:08:45.7114385+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:16.170494+00:00",
-  "LastUpdate_Ratings": "2024-01-03T02:20:55.6868166+00:00",
-  "LastUpdate_Achievements": "2024-01-03T02:29:32.304225+00:00"
+  "LastUpdate_Ratings": "2024-01-03T03:00:18.1923428+00:00",
+  "LastUpdate_Achievements": "2024-01-03T03:08:45.7116515+00:00"
 }

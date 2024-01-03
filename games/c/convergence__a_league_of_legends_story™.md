@@ -9,7 +9,7 @@ Rating: 4.65 (Ranked 321)
 | Rail Rat | 33.00% | ~398 |
 | The Mysterious Stranger | 32.00% | ~386 |
 | Immaculate Aim | 27.00% | ~325 |
-| The Brass Boss | 26.00% | ~313 |
+| The Brass Boss | 27.00% | ~325 |
 | Make Up For Lost Time | 25.00% | ~301 |
 | Time Flies | 25.00% | ~301 |
 | No, Thanks! | 25.00% | ~301 |

@@ -6,7 +6,7 @@ Rating: 4.55 (Ranked 522)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Huzza, he's back. | 86.00% | ~439 |
-| And again, and again, and... | 63.00% | ~322 |
+| And again, and again, and... | 64.00% | ~327 |
 | Burn, Elysium, burn! | 62.00% | ~317 |
 | Kuvaq Minigame-Master | 61.00% | ~312 |
 | FunScore | 55.00% | ~281 |
@@ -35,11 +35,11 @@ Rating: 4.55 (Ranked 522)
 | Weapons 101 | 8.00% | ~41 |
 | Sadist | 7.00% | ~36 |
 | The customer is always right | 6.00% | ~31 |
+| Pacifist | 6.00% | ~31 |
 | Apoca...huh? | 6.00% | ~31 |
 | Against better judgement | 6.00% | ~31 |
 | Distraction | 5.00% | ~26 |
 | Every man for himself! | 5.00% | ~26 |
-| Pacifist | 5.00% | ~26 |
 | 1001 Jackalopes | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 511 (Ranked 342)  

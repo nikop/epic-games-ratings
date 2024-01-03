@@ -1646,9 +1646,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 137069,
+  "EOS_Progressed": 137072,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 1401,
+  "EOS_NewPlayers": 1400,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -27121,6 +27121,11 @@
       "Time": "2024-01-03T02:29:34.7118326+00:00",
       "NumProgressed": 137069,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2024-01-03T03:08:48.1357419+00:00",
+      "NumProgressed": 137072,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -27164,7 +27169,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 24672
+      "UsersEstimate": 24673
     },
     {
       "ID": "ACH_COP_BAD",
@@ -27188,7 +27193,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 31526
+      "UsersEstimate": 31527
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -27212,7 +27217,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 38379
+      "UsersEstimate": 38380
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -27236,7 +27241,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 21931
+      "UsersEstimate": 21932
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -27268,7 +27273,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 20560
+      "UsersEstimate": 20561
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -27396,7 +27401,7 @@
       "Name": "Networthy Individual",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 959
+      "UsersEstimate": 960
     },
     {
       "ID": "ACH_PALERUNNER",
@@ -27451,15 +27456,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 137069,
+      "Progressed": 137072,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2024-01-01T19:59:14.1592304+00:00",
-  "LastChanged_Achievements": "2024-01-03T02:29:34.7118323+00:00",
+  "LastChanged_Achievements": "2024-01-03T03:08:48.1357418+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:48.6922273+00:00",
-  "LastUpdate_Ratings": "2024-01-03T02:20:00.1752375+00:00",
-  "LastUpdate_Achievements": "2024-01-03T02:29:34.7119697+00:00"
+  "LastUpdate_Ratings": "2024-01-03T02:59:23.372145+00:00",
+  "LastUpdate_Achievements": "2024-01-03T03:08:48.1358892+00:00"
 }

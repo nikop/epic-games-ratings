@@ -103,7 +103,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2252,
+  "EOS_Progressed": 2253,
   "EOS_Completed": 141,
   "EOS_NewPlayers": 395,
   "EOS_NewCompleters": 30,
@@ -6163,6 +6163,11 @@
       "Time": "2024-01-03T02:24:47.5943744+00:00",
       "NumProgressed": 2252,
       "NumCompleted": 141
+    },
+    {
+      "Time": "2024-01-03T03:04:13.3896645+00:00",
+      "NumProgressed": 2253,
+      "NumCompleted": 141
     }
   ],
   "TotalAchievements": 25,
@@ -6190,7 +6195,7 @@
       "Name": "Peace walker",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -6238,7 +6243,7 @@
       "Name": "Feels like springtime",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "META_RESULT_2-3",
@@ -6270,7 +6275,7 @@
       "Name": "Alchemists Express",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -6318,7 +6323,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1306
+      "UsersEstimate": 1307
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -6334,7 +6339,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1172
     },
     {
       "ID": "PROGRESS_N2",
@@ -6373,7 +6378,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2252,
+      "Progressed": 2253,
       "Completed": 141
     }
   ],
@@ -6381,8 +6386,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-02T16:02:46.9551572+00:00",
-  "LastChanged_Achievements": "2024-01-03T02:24:47.5943739+00:00",
+  "LastChanged_Achievements": "2024-01-03T03:04:13.3896643+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:09.4320521+00:00",
-  "LastUpdate_Ratings": "2024-01-03T02:23:46.4790983+00:00",
-  "LastUpdate_Achievements": "2024-01-03T02:24:47.5944189+00:00"
+  "LastUpdate_Ratings": "2024-01-03T03:03:08.1182298+00:00",
+  "LastUpdate_Achievements": "2024-01-03T03:04:13.3897025+00:00"
 }

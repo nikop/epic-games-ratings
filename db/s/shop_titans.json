@@ -7951,7 +7951,7 @@
       "Count": 3810
     }
   ],
-  "EOS_Progressed": 149103,
+  "EOS_Progressed": 149108,
   "EOS_Completed": 341,
   "EOS_NewPlayers": 1250,
   "EOS_NewCompleters": 5,
@@ -35091,6 +35091,11 @@
       "Time": "2024-01-03T02:27:04.4711273+00:00",
       "NumProgressed": 149103,
       "NumCompleted": 341
+    },
+    {
+      "Time": "2024-01-03T03:06:28.6030181+00:00",
+      "NumProgressed": 149108,
+      "NumCompleted": 341
     }
   ],
   "TotalAchievements": 112,
@@ -35270,7 +35275,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 14910
+      "UsersEstimate": 14911
     },
     {
       "ID": "chest02",
@@ -35334,7 +35339,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13419
+      "UsersEstimate": 13420
     },
     {
       "ID": "commonres02",
@@ -35366,7 +35371,7 @@
       "Name": "Disintermediation",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10437
+      "UsersEstimate": 10438
     },
     {
       "ID": "craft02",
@@ -35574,7 +35579,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13419
+      "UsersEstimate": 13420
     },
     {
       "ID": "gold02",
@@ -35652,9 +35657,9 @@
       "ID": "jackslot01",
       "SetID": "anfd17p",
       "Name": "One-Armed Bandit",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5964
+      "UsersEstimate": 7455
     },
     {
       "ID": "jackslot02",
@@ -35878,7 +35883,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10437
+      "UsersEstimate": 10438
     },
     {
       "ID": "sell02",
@@ -35918,7 +35923,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 14910
+      "UsersEstimate": 14911
     },
     {
       "ID": "twinenchant01",
@@ -35997,15 +36002,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 149103,
+      "Progressed": 149108,
       "Completed": 341
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-03T01:49:07.3826497+00:00",
-  "LastChanged_Achievements": "2024-01-03T02:27:04.4711268+00:00",
+  "LastChanged_Achievements": "2024-01-03T03:06:28.603018+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.6407181+00:00",
-  "LastUpdate_Ratings": "2024-01-03T02:24:11.8050815+00:00",
-  "LastUpdate_Achievements": "2024-01-03T02:27:04.4713591+00:00"
+  "LastUpdate_Ratings": "2024-01-03T03:03:36.7296677+00:00",
+  "LastUpdate_Achievements": "2024-01-03T03:06:28.603265+00:00"
 }

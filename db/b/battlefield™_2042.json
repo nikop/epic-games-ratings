@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 114314,
+  "EOS_Progressed": 114322,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 6487,
+  "EOS_NewPlayers": 6481,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12342,6 +12342,11 @@
       "Time": "2024-01-03T02:24:34.8770477+00:00",
       "NumProgressed": 114314,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-03T03:04:00.6301685+00:00",
+      "NumProgressed": 114322,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-20T19:08:07.8580208+00:00",
@@ -12354,7 +12359,7 @@
       "Name": "Adapt and Overcome",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 113171
+      "UsersEstimate": 113179
     },
     {
       "ID": "achievement_10",
@@ -12362,7 +12367,7 @@
       "Name": "Gun Master",
       "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 13718
+      "UsersEstimate": 13719
     },
     {
       "ID": "achievement_11",
@@ -12394,7 +12399,7 @@
       "Name": "A bird?  A plane?",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 18290
+      "UsersEstimate": 18292
     },
     {
       "ID": "achievement_15",
@@ -12402,7 +12407,7 @@
       "Name": "Going Places",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 53728
+      "UsersEstimate": 53731
     },
     {
       "ID": "achievement_16",
@@ -12434,7 +12439,7 @@
       "Name": "Happy birthday",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 13718
+      "UsersEstimate": 13719
     },
     {
       "ID": "achievement_2",
@@ -12442,7 +12447,7 @@
       "Name": "Making Dunn Proud",
       "Percentage": 84,
       "XP": 35,
-      "UsersEstimate": 96024
+      "UsersEstimate": 96030
     },
     {
       "ID": "achievement_20",
@@ -12450,7 +12455,7 @@
       "Name": "Squad Wiper",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 80020
+      "UsersEstimate": 80025
     },
     {
       "ID": "achievement_21",
@@ -12458,7 +12463,7 @@
       "Name": "War machine",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 69732
+      "UsersEstimate": 69736
     },
     {
       "ID": "achievement_22",
@@ -12466,7 +12471,7 @@
       "Name": "I\u0027m Five by Five, B",
       "Percentage": 33,
       "XP": 80,
-      "UsersEstimate": 37724
+      "UsersEstimate": 37726
     },
     {
       "ID": "achievement_23",
@@ -12482,7 +12487,7 @@
       "Name": "Wrecking Crew",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 48012
+      "UsersEstimate": 48015
     },
     {
       "ID": "achievement_25",
@@ -12490,7 +12495,7 @@
       "Name": "No-one gets left behind",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 56014
+      "UsersEstimate": 56018
     },
     {
       "ID": "achievement_26",
@@ -12498,7 +12503,7 @@
       "Name": "Thank you, Santa",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 64016
+      "UsersEstimate": 64020
     },
     {
       "ID": "achievement_27",
@@ -12514,7 +12519,7 @@
       "Name": "Foot Soldier",
       "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 97167
+      "UsersEstimate": 97174
     },
     {
       "ID": "achievement_29",
@@ -12522,7 +12527,7 @@
       "Name": "CQC Specialist",
       "Percentage": 13,
       "XP": 80,
-      "UsersEstimate": 14861
+      "UsersEstimate": 14862
     },
     {
       "ID": "achievement_3",
@@ -12530,7 +12535,7 @@
       "Name": "Luck of the Irish",
       "Percentage": 70,
       "XP": 80,
-      "UsersEstimate": 80020
+      "UsersEstimate": 80025
     },
     {
       "ID": "achievement_30",
@@ -12538,7 +12543,7 @@
       "Name": "Deadshot",
       "Percentage": 61,
       "XP": 45,
-      "UsersEstimate": 69732
+      "UsersEstimate": 69736
     },
     {
       "ID": "achievement_31",
@@ -12546,7 +12551,7 @@
       "Name": "One Careful Owner",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 17147
+      "UsersEstimate": 17148
     },
     {
       "ID": "achievement_32",
@@ -12554,7 +12559,7 @@
       "Name": "Good Company",
       "Percentage": 82,
       "XP": 35,
-      "UsersEstimate": 93737
+      "UsersEstimate": 93744
     },
     {
       "ID": "achievement_33",
@@ -12562,7 +12567,7 @@
       "Name": "Showoff",
       "Percentage": 80,
       "XP": 35,
-      "UsersEstimate": 91451
+      "UsersEstimate": 91458
     },
     {
       "ID": "achievement_34",
@@ -12570,7 +12575,7 @@
       "Name": "Burnout",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 75447
+      "UsersEstimate": 75453
     },
     {
       "ID": "achievement_4",
@@ -12578,7 +12583,7 @@
       "Name": "Dead in their tracks!",
       "Percentage": 48,
       "XP": 35,
-      "UsersEstimate": 54871
+      "UsersEstimate": 54875
     },
     {
       "ID": "achievement_5",
@@ -12586,7 +12591,7 @@
       "Name": "Command and Conquest",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 33151
+      "UsersEstimate": 33153
     },
     {
       "ID": "achievement_6",
@@ -12610,7 +12615,7 @@
       "Name": "The Winner Takes It All",
       "Percentage": 49,
       "XP": 35,
-      "UsersEstimate": 56014
+      "UsersEstimate": 56018
     },
     {
       "ID": "achievement_9",
@@ -12625,7 +12630,7 @@
     {
       "ID": "6l7mn2m",
       "IsBase": true,
-      "Progressed": 114314,
+      "Progressed": 114322,
       "Completed": 5
     }
   ],
@@ -12633,8 +12638,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.4915207+00:00",
   "FirstSeenAchievements": "2023-07-26T19:04:03.7783313+00:00",
   "LastChanged": "2023-03-31T05:58:10.4915208+00:00",
-  "LastChanged_Achievements": "2024-01-03T02:24:34.8770472+00:00",
+  "LastChanged_Achievements": "2024-01-03T03:04:00.6301682+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:19.3593958+00:00",
-  "LastUpdate_Ratings": "2024-01-03T02:19:48.0277951+00:00",
-  "LastUpdate_Achievements": "2024-01-03T02:24:34.8771133+00:00"
+  "LastUpdate_Ratings": "2024-01-03T02:59:11.726444+00:00",
+  "LastUpdate_Achievements": "2024-01-03T03:04:00.6302649+00:00"
 }

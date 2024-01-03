@@ -8021,9 +8021,9 @@
       "ID": "ML_ACHIEVEMENT_08",
       "SetID": "c7hf6a4",
       "Name": "I Want One Too!",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 645
+      "UsersEstimate": 677
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -8366,8 +8366,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-02T17:58:34.6110096+00:00",
-  "LastChanged_Achievements": "2024-01-03T02:25:42.5523507+00:00",
+  "LastChanged_Achievements": "2024-01-03T03:05:07.8829533+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:59.7599271+00:00",
-  "LastUpdate_Ratings": "2024-01-03T02:18:59.357629+00:00",
-  "LastUpdate_Achievements": "2024-01-03T02:25:42.5524199+00:00"
+  "LastUpdate_Ratings": "2024-01-03T02:58:22.5432596+00:00",
+  "LastUpdate_Achievements": "2024-01-03T03:05:07.8830452+00:00"
 }

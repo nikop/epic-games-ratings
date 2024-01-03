@@ -173,9 +173,9 @@
       "ID": "beginner",
       "SetID": "d4692al",
       "Name": "Beginner Guide",
-      "Percentage": 57,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "contractor",
@@ -404,8 +404,8 @@
   ],
   "FirstSeen": "2023-12-24T08:59:07.6239252+00:00",
   "FirstSeenAchievements": "2023-12-14T09:03:47.827813+00:00",
-  "LastChanged_Achievements": "2024-01-03T02:26:01.8540911+00:00",
+  "LastChanged_Achievements": "2024-01-03T03:05:26.6900475+00:00",
   "LastUpdate_AppInfo": "2023-12-28T08:57:17.3349077+00:00",
-  "LastUpdate_Ratings": "2024-01-03T02:20:49.3270239+00:00",
-  "LastUpdate_Achievements": "2024-01-03T02:26:01.8541114+00:00"
+  "LastUpdate_Ratings": "2024-01-03T03:00:12.0768167+00:00",
+  "LastUpdate_Achievements": "2024-01-03T03:05:26.6900678+00:00"
 }

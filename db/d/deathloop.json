@@ -3,7 +3,7 @@
   "Name": "DEATHLOOP",
   "ProductSlug": "deathloop",
   "Ranking_Rating": 658,
-  "Ranking_Popularity": 451,
+  "Ranking_Popularity": 448,
   "Ranking_PopularitySum": 368,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 390,
@@ -1261,11 +1261,17 @@
       "Rating": 4.47,
       "NumberOfAwards": 339,
       "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2024-01-03T02:58:02.0861155+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 340,
+      "NumberOfAwardsMax": 51
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 339,
-  "NumberOfAwardsMax": 50,
+  "NumberOfAwards": 340,
+  "NumberOfAwardsMax": 51,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
     {
@@ -1290,7 +1296,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 50
+      "Count": 51
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1334,8 +1340,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:46.7837121+00:00",
-  "LastChanged": "2024-01-03T02:18:37.2777043+00:00",
+  "LastChanged": "2024-01-03T02:58:02.0861154+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:13.6175889+00:00",
-  "LastUpdate_Ratings": "2024-01-03T02:18:37.2777048+00:00",
-  "LastUpdate_Achievements": "2024-01-03T02:30:15.3949149+00:00"
+  "LastUpdate_Ratings": "2024-01-03T02:58:02.0861158+00:00",
+  "LastUpdate_Achievements": "2024-01-03T03:09:29.1779746+00:00"
 }

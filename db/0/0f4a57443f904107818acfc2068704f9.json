@@ -3229,9 +3229,9 @@
       "ID": "CompleteChapter3",
       "SetID": "52ail55",
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 489
+      "UsersEstimate": 501
     },
     {
       "ID": "CompleteChapter4",
@@ -3261,9 +3261,9 @@
       "ID": "CompleteChapter7",
       "SetID": "52ail55",
       "Name": "First to be Forged, Never to Fail!",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 232
     },
     {
       "ID": "CompleteChapter8",
@@ -3380,8 +3380,8 @@
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2024-01-03T02:29:37.7971562+00:00",
+  "LastChanged_Achievements": "2024-01-03T03:08:51.2513051+00:00",
   "LastUpdate_AppInfo": "2023-12-29T09:57:13.5043463+00:00",
-  "LastUpdate_Ratings": "2024-01-03T02:20:28.304236+00:00",
-  "LastUpdate_Achievements": "2024-01-03T02:29:37.7971953+00:00"
+  "LastUpdate_Ratings": "2024-01-03T02:59:50.9321874+00:00",
+  "LastUpdate_Achievements": "2024-01-03T03:08:51.2513512+00:00"
 }

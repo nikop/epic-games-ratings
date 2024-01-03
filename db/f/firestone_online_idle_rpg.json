@@ -12054,9 +12054,9 @@
       "ID": "templeofeternals",
       "SetID": "3nl4bcg",
       "Name": "Temple of Eternals",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2261
+      "UsersEstimate": 2302
     },
     {
       "ID": "thealchemist",
@@ -12207,8 +12207,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-02T09:57:01.626986+00:00",
-  "LastChanged_Achievements": "2024-01-03T02:29:19.1581391+00:00",
+  "LastChanged_Achievements": "2024-01-03T03:06:52.4348513+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:50.7213096+00:00",
-  "LastUpdate_Ratings": "2024-01-03T02:18:20.1684328+00:00",
-  "LastUpdate_Achievements": "2024-01-03T02:29:19.1582506+00:00"
+  "LastUpdate_Ratings": "2024-01-03T02:57:45.2398284+00:00",
+  "LastUpdate_Achievements": "2024-01-03T03:06:52.4349742+00:00"
 }

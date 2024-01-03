@@ -15,7 +15,7 @@
 | Fitness professional | 72.00% | ~377 |
 | Employee of the week | 71.00% | ~372 |
 | Your own amateur gym | 67.00% | ~351 |
-| First defeat | 65.00% | ~341 |
+| First defeat | 66.00% | ~346 |
 | Run K, run! | 65.00% | ~341 |
 | Hello, world! | 64.00% | ~335 |
 | Fighting is cool | 63.00% | ~330 |
@@ -30,8 +30,8 @@
 | Little hacker | 53.00% | ~278 |
 | Champion – starter pack | 53.00% | ~278 |
 | It's good to be alive | 53.00% | ~278 |
+| Intriguing candies | 53.00% | ~278 |
 | Own four walls | 52.00% | ~272 |
-| Intriguing candies | 52.00% | ~272 |
 | Employee of the year | 52.00% | ~272 |
 | Legal courier | 48.00% | ~252 |
 | Extreme neuropower! | 48.00% | ~252 |

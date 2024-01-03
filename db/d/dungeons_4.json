@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -2584,9 +2584,9 @@
       "ID": "ach_main18unholy_completed",
       "SetID": "4hg22ll",
       "Name": "The Rune Sockets of Finitude (Part 1)",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 190
     },
     {
       "ID": "ach_main18unholy_researches",
@@ -2665,8 +2665,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-01T22:59:34.2453487+00:00",
-  "LastChanged_Achievements": "2024-01-03T02:30:08.8111105+00:00",
+  "LastChanged_Achievements": "2024-01-03T03:09:22.4014366+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:16.0613697+00:00",
-  "LastUpdate_Ratings": "2024-01-03T02:20:20.0412041+00:00",
-  "LastUpdate_Achievements": "2024-01-03T02:30:08.8111573+00:00"
+  "LastUpdate_Ratings": "2024-01-03T02:59:42.7467986+00:00",
+  "LastUpdate_Achievements": "2024-01-03T03:09:22.4014951+00:00"
 }

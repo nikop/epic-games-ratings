@@ -2,7 +2,7 @@
   "ID": "cb88aea9aed742e4a911a65c4898d857",
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
-  "Ranking_Rating": 260,
+  "Ranking_Rating": 285,
   "Ranking_Popularity": 391,
   "Ranking_PopularitySum": 472,
   "Ranking_EOS_Progress": 182,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.68,
+  "Rating": 4.67,
   "RatingHistory": [
     {
       "Time": "2023-12-11T06:59:42.897175+00:00",
@@ -243,6 +243,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 90,
       "NumberOfAwardsMax": 90
+    },
+    {
+      "Time": "2024-01-03T03:00:34.4543833+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 90,
+      "NumberOfAwardsMax": 90
     }
   ],
   "ReviewsDisabled": false,
@@ -257,9 +263,9 @@
       "Count": 90
     }
   ],
-  "EOS_Progressed": 9717,
+  "EOS_Progressed": 9724,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1814,
+  "EOS_NewPlayers": 1813,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3432,6 +3438,11 @@
       "Time": "2024-01-03T02:30:59.0917781+00:00",
       "NumProgressed": 9717,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T03:10:13.438254+00:00",
+      "NumProgressed": 9724,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3476,7 +3487,7 @@
       "Name": "Expanse Calamity",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "07_TheGrandFinale",
@@ -3860,7 +3871,7 @@
       "Name": "This Is a Job for the Lord Captain!",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "55_ReturningTheBoots",
@@ -3963,16 +3974,16 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 9717,
+      "Progressed": 9724,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-07T19:57:48.6554999+00:00",
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged": "2024-01-02T20:00:11.0381058+00:00",
-  "LastChanged_Achievements": "2024-01-03T02:30:59.0917775+00:00",
+  "LastChanged": "2024-01-03T03:00:34.4543831+00:00",
+  "LastChanged_Achievements": "2024-01-03T03:10:13.4382538+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2024-01-03T02:21:12.7869004+00:00",
-  "LastUpdate_Achievements": "2024-01-03T02:30:59.0918353+00:00"
+  "LastUpdate_Ratings": "2024-01-03T03:00:34.4543836+00:00",
+  "LastUpdate_Achievements": "2024-01-03T03:10:13.4383183+00:00"
 }

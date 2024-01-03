@@ -27,8 +27,8 @@
 | Fair Means or Foul | 26.00% | ~283 |
 | Kemono at Heart | 26.00% | ~283 |
 | Single Minded | 24.00% | ~261 |
+| Snare Specialist | 23.00% | ~250 |
 | Karakuri Trail | 22.00% | ~239 |
-| Snare Specialist | 22.00% | ~239 |
 | Artful Assister | 21.00% | ~228 |
 | Team Hunter | 19.00% | ~207 |
 | Reincarnation Cycle Stopper | 19.00% | ~207 |

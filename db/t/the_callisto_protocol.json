@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 326,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1997,9 +1997,9 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 20708,
+  "EOS_Progressed": 20710,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1218,
+  "EOS_NewPlayers": 1212,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -12312,6 +12312,11 @@
       "Time": "2024-01-03T02:30:38.4592027+00:00",
       "NumProgressed": 20708,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-03T03:09:52.7334598+00:00",
+      "NumProgressed": 20710,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -12451,7 +12456,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 3520
+      "UsersEstimate": 3521
     },
     {
       "ID": "KILL_ROBOT",
@@ -12475,7 +12480,7 @@
       "Name": "The Commonality",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1035
+      "UsersEstimate": 1036
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -12491,7 +12496,7 @@
       "Name": "Reforged",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3313
+      "UsersEstimate": 3314
     },
     {
       "ID": "PRINT_WEAPON",
@@ -12675,7 +12680,7 @@
       "Name": "Keep Fighting",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -12698,13 +12703,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 20708,
+      "Progressed": 20710,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 8634,
+      "Progressed": 8636,
       "Completed": 29
     }
   ],
@@ -12712,8 +12717,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-03T01:49:08.600412+00:00",
-  "LastChanged_Achievements": "2024-01-03T02:30:38.4592021+00:00",
+  "LastChanged_Achievements": "2024-01-03T03:09:52.7334596+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.412859+00:00",
-  "LastUpdate_Ratings": "2024-01-03T02:24:12.8373856+00:00",
-  "LastUpdate_Achievements": "2024-01-03T02:30:38.4592806+00:00"
+  "LastUpdate_Ratings": "2024-01-03T03:03:37.7161613+00:00",
+  "LastUpdate_Achievements": "2024-01-03T03:09:52.7335382+00:00"
 }

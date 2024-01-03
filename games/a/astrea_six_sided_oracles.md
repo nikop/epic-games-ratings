@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 82.00% | ~249 |
-| Purification Pioneer | 78.00% | ~237 |
-| Mechanical Buddy | 72.00% | ~219 |
+| Meissa's Savior | 82.00% | ~250 |
+| Purification Pioneer | 78.00% | ~238 |
+| Mechanical Buddy | 72.00% | ~220 |
 | Dicesmithing Time! | 64.00% | ~195 |
-| Sanctuary Guardian | 55.00% | ~167 |
-| Endless Tricks | 51.00% | ~155 |
+| Sanctuary Guardian | 55.00% | ~168 |
+| Endless Tricks | 50.00% | ~152 |
 | Wild's Keeper | 47.00% | ~143 |
 | Mind Illuminator | 44.00% | ~134 |
-| Stellar Dismantler | 37.00% | ~112 |
-| Noctuan Champion | 35.00% | ~106 |
-| Astral Adventurer | 33.00% | ~100 |
-| Anomaly Destroyer | 31.00% | ~94 |
+| Stellar Dismantler | 37.00% | ~113 |
+| Noctuan Champion | 35.00% | ~107 |
+| Astral Adventurer | 33.00% | ~101 |
+| Anomaly Destroyer | 31.00% | ~95 |
 | Star Killer | 28.00% | ~85 |
 | Eridanian Champion | 25.00% | ~76 |
 | Loyal Partner | 21.00% | ~64 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 304 (Ranked 388)  
+Progressed: 305 (Ranked 388)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,4 +172,4 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-31 | 285 | 0 |
 | 2024-01-01 | 294 | 0 |
 | 2024-01-02 | 303 | 0 |
-| 2024-01-03 | 304 | 0 |
+| 2024-01-03 | 305 | 0 |

@@ -961,9 +961,9 @@
       "ID": "ACH_027",
       "SetID": "72imik0",
       "Name": "Well-prepared",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 102
+      "UsersEstimate": 107
     },
     {
       "ID": "ACH_028",
@@ -1186,8 +1186,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-07-07T15:57:52.1284059+00:00",
-  "LastChanged_Achievements": "2024-01-03T02:25:27.9467122+00:00",
+  "LastChanged_Achievements": "2024-01-03T03:04:53.2910697+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:27.1756948+00:00",
-  "LastUpdate_Ratings": "2024-01-03T02:24:02.4980308+00:00",
-  "LastUpdate_Achievements": "2024-01-03T02:25:27.9467534+00:00"
+  "LastUpdate_Ratings": "2024-01-03T03:03:26.7880129+00:00",
+  "LastUpdate_Achievements": "2024-01-03T03:04:53.2910971+00:00"
 }

@@ -16,8 +16,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Catch and Decease | 5.00% | ~6,569 |
 | Overdue Notice | 5.00% | ~6,569 |
 | Escape from the Black Hole | 5.00% | ~6,569 |
-| Ploughshares to Swords | 5.00% | ~312 |
-| Bloody Graduation | 5.00% | ~312 |
+| Ploughshares to Swords | 5.00% | ~313 |
+| Bloody Graduation | 5.00% | ~313 |
 | Don't Make Me Turn This Coach Around | 4.00% | ~5,255 |
 | It Rings a Bell | 4.00% | ~5,255 |
 | Not Today! | 4.00% | ~5,255 |
@@ -62,8 +62,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Shrine of Reflection | 1.00% | ~1,314 |
 | Handled | 1.00% | ~1,314 |
 | Body of Work | 1.00% | ~1,314 |
-| Slap on the Wrist | 1.00% | ~62 |
-| For Old Time' Sake | 1.00% | ~62 |
+| Slap on the Wrist | 1.00% | ~63 |
+| For Old Time' Sake | 1.00% | ~63 |
 | Clearing the Ledger | 0.90% | ~1,182 |
 | Hat Trick | 0.80% | ~1,051 |
 | Triage | 0.80% | ~1,051 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,381 (Ranked 90)  
+Progressed: 131,383 (Ranked 90)  
 Completed: 3 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,10 +334,10 @@ Completed: 3 (0.00%) (Ranked 390)
 | 2023-12-31 | 131,026 | 3 |
 | 2024-01-01 | 131,206 | 3 |
 | 2024-01-02 | 131,365 | 3 |
-| 2024-01-03 | 131,381 | 3 |
+| 2024-01-03 | 131,383 | 3 |
 ## Awards
 Max (Character Customization): 7,927  (Ranked 50)  
-Sum: 21,353 (Ranked 58)  
+Sum: 21,355 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -345,7 +345,7 @@ Diff (max vs sum): -8
 | This game has Diverse Characters | 1,807 |
 | This game has Challenging Combat | 1,661 |
 | This game is Highly Recommended | 1,587 |
-| This game has Amazing Characters | 1,511 |
+| This game has Amazing Characters | 1,513 |
 | This game is Extremely Fun | 1,508 |
 | This game has Unique Visuals | 1,445 |
 | This game has Amazing Storytelling | 1,431 |
@@ -696,3 +696,4 @@ Diff (max vs sum): -8
 | 2023-12-31 | 4.68 | - | 7,910 | 21,297 |
 | 2024-01-01 | 4.68 | - | 7,919 | 21,323 |
 | 2024-01-02 | 4.68 | - | 7,927 | 21,353 |
+| 2024-01-03 | 4.68 | - | 7,927 | 21,355 |

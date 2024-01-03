@@ -10366,10 +10366,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 21353,
       "NumberOfAwardsMax": 7927
+    },
+    {
+      "Time": "2024-01-03T02:59:17.6563501+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21355,
+      "NumberOfAwardsMax": 7927
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21353,
+  "NumberOfAwards": 21355,
   "NumberOfAwardsMax": 7927,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10413,7 +10419,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1511
+      "Count": 1513
     },
     {
       "Text": "This game has Diverse Characters",
@@ -10446,9 +10452,9 @@
       "Count": 1076
     }
   ],
-  "EOS_Progressed": 131381,
+  "EOS_Progressed": 131383,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1288,
+  "EOS_NewPlayers": 1283,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38061,6 +38067,11 @@
       "Time": "2024-01-03T02:30:44.2269822+00:00",
       "NumProgressed": 131381,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-03T03:09:58.5847303+00:00",
+      "NumProgressed": 131383,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38640,7 +38651,7 @@
       "Name": "Slap on the Wrist",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "combat_land_riposte_maa_hwy_dul",
@@ -38656,7 +38667,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -38664,7 +38675,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "quest_complete_crusader",
@@ -38688,7 +38699,7 @@
       "Name": "For Old Time\u0027 Sake",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "run_victory_final_boss_hwy_cru",
@@ -38703,21 +38714,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131381,
+      "Progressed": 131383,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6250,
+      "Progressed": 6252,
       "Completed": 820
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-02T19:58:51.8552101+00:00",
-  "LastChanged_Achievements": "2024-01-03T02:30:44.2269819+00:00",
+  "LastChanged": "2024-01-03T02:59:17.6563499+00:00",
+  "LastChanged_Achievements": "2024-01-03T03:09:58.5847301+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-03T02:19:54.3072715+00:00",
-  "LastUpdate_Achievements": "2024-01-03T02:30:44.2271631+00:00"
+  "LastUpdate_Ratings": "2024-01-03T02:59:17.6563508+00:00",
+  "LastUpdate_Achievements": "2024-01-03T03:09:58.5849336+00:00"
 }

@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253009,
+  "EOS_Progressed": 253010,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 390,
+  "EOS_NewPlayers": 391,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23072,6 +23072,11 @@
       "Time": "2024-01-03T01:55:50.4824865+00:00",
       "NumProgressed": 253009,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-03T03:10:15.0815061+00:00",
+      "NumProgressed": 253010,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -23155,7 +23160,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37951
+      "UsersEstimate": 37952
     },
     {
       "ID": "clearCut",
@@ -23283,7 +23288,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 65782
+      "UsersEstimate": 65783
     },
     {
       "ID": "justABit",
@@ -23323,7 +23328,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126504
+      "UsersEstimate": 126505
     },
     {
       "ID": "notScared",
@@ -23443,14 +23448,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 40481
+      "UsersEstimate": 40482
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253009,
+      "Progressed": 253010,
       "Completed": 6
     }
   ],
@@ -23458,8 +23463,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-03T02:31:00.6323663+00:00",
+  "LastChanged_Achievements": "2024-01-03T03:10:15.0815059+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.9407923+00:00",
-  "LastUpdate_Ratings": "2024-01-03T02:19:34.0912449+00:00",
-  "LastUpdate_Achievements": "2024-01-03T02:31:00.6324762+00:00"
+  "LastUpdate_Ratings": "2024-01-03T02:58:57.3658493+00:00",
+  "LastUpdate_Achievements": "2024-01-03T03:10:15.0816604+00:00"
 }

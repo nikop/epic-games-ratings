@@ -3553,9 +3553,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 45721,
+  "EOS_Progressed": 45722,
   "EOS_Completed": 365,
-  "EOS_NewPlayers": 812,
+  "EOS_NewPlayers": 810,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
@@ -32268,6 +32268,11 @@
       "Time": "2024-01-03T01:54:23.2128702+00:00",
       "NumProgressed": 45721,
       "NumCompleted": 365
+    },
+    {
+      "Time": "2024-01-03T03:08:45.5097898+00:00",
+      "NumProgressed": 45722,
+      "NumCompleted": 365
     }
   ],
   "TotalAchievements": 60,
@@ -32279,7 +32284,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 26975
+      "UsersEstimate": 26976
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -32295,7 +32300,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 26518
+      "UsersEstimate": 26519
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -32391,7 +32396,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 22860
+      "UsersEstimate": 22861
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -32487,7 +32492,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 20117
+      "UsersEstimate": 20118
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -32495,7 +32500,7 @@
       "Name": "The One-Huge-Army-Building Evil",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 18288
+      "UsersEstimate": 18289
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_2",
@@ -32559,7 +32564,7 @@
       "Name": "Destroy the thing",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 11887
+      "UsersEstimate": 11888
     },
     {
       "ID": "ACH_D3_Campaign_Pain_1",
@@ -32631,7 +32636,7 @@
       "Name": "The Force disturbed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 9601
+      "UsersEstimate": 9602
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_1",
@@ -32671,7 +32676,7 @@
       "Name": "Shadow hunter",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 13716
+      "UsersEstimate": 13717
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_Completed",
@@ -32719,7 +32724,7 @@
       "Name": "Hearts are trump",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 3200
+      "UsersEstimate": 3201
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_Completed",
@@ -32751,22 +32756,22 @@
       "Name": "Tide Master",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 11887
+      "UsersEstimate": 11888
     }
   ],
   "AchievementSets": [
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 45721,
+      "Progressed": 45722,
       "Completed": 365
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2024-01-02T13:58:01.0219132+00:00",
-  "LastChanged_Achievements": "2024-01-03T02:29:32.0482682+00:00",
+  "LastChanged_Achievements": "2024-01-03T03:08:45.5097896+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:59.5366803+00:00",
-  "LastUpdate_Ratings": "2024-01-03T02:18:45.0789301+00:00",
-  "LastUpdate_Achievements": "2024-01-03T02:29:32.0484115+00:00"
+  "LastUpdate_Ratings": "2024-01-03T02:58:09.8130834+00:00",
+  "LastUpdate_Achievements": "2024-01-03T03:08:45.5099879+00:00"
 }

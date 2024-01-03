@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 5.00% | ~37,612 |
+| The Old Grandmaster | 5.00% | ~37,613 |
 | The Assault | 4.00% | ~30,090 |
 | Life is your teacher | 4.00% | ~30,090 |
 | Lightning Hands | 4.00% | ~30,090 |
@@ -23,17 +23,17 @@ Number of Ratings: 9,492  (23.09.2022)
 | Path of the Prospect | 2.00% | ~15,045 |
 | Rumble in the Hangar | 2.00% | ~15,045 |
 | Diligence as a goal | 2.00% | ~1,231 |
-| Lady Wing Chun | 1.00% | ~7,522 |
-| Furious Fists | 1.00% | ~7,522 |
-| Scareless | 1.00% | ~7,522 |
-| Qi Gong: Mind | 1.00% | ~7,522 |
-| Kung-Fu Tussle | 1.00% | ~7,522 |
-| Take damage to save time | 1.00% | ~7,522 |
-| Project Arena | 1.00% | ~615 |
+| Lady Wing Chun | 1.00% | ~7,523 |
+| Furious Fists | 1.00% | ~7,523 |
+| Scareless | 1.00% | ~7,523 |
+| Qi Gong: Mind | 1.00% | ~7,523 |
+| Kung-Fu Tussle | 1.00% | ~7,523 |
+| Take damage to save time | 1.00% | ~7,523 |
+| Project Arena | 1.00% | ~616 |
 | Dance of the Praying Mantis | 0.90% | ~6,770 |
 | Fight the way you practice | 0.80% | ~492 |
-| Muk Yan Master | 0.60% | ~4,513 |
-| Detective Story | 0.60% | ~4,513 |
+| Muk Yan Master | 0.60% | ~4,514 |
+| Detective Story | 0.60% | ~4,514 |
 | Martial Hub | 0.60% | ~369 |
 | Tiger on Fire | 0.50% | ~3,761 |
 | Source of Flying Daggers | 0.50% | ~3,761 |
@@ -50,10 +50,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Pit Protector | 0.30% | ~2,257 |
 | Come Snap With Me | 0.30% | ~2,257 |
 | Deadly Venom | 0.30% | ~185 |
-| Healing Memory | 0.20% | ~1,504 |
-| Master of the Phoenix Eye Fist | 0.20% | ~1,504 |
-| Ferocity, speed, strength, accuracy | 0.20% | ~1,504 |
-| Be like water my friend | 0.20% | ~1,504 |
+| Healing Memory | 0.20% | ~1,505 |
+| Master of the Phoenix Eye Fist | 0.20% | ~1,505 |
+| Ferocity, speed, strength, accuracy | 0.20% | ~1,505 |
+| Be like water my friend | 0.20% | ~1,505 |
 | A Touch of Acumen | 0.20% | ~123 |
 | Crouching Tiger | 0.20% | ~123 |
 | Skill and an even stronger will | 0.20% | ~123 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~62 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 752,246 (Ranked 24)  
+Progressed: 752,256 (Ranked 24)  
 Completed: 12,971 (1.72%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 12,971 (1.72%) (Ranked 141)
 | 2023-12-31 | 750,399 | 12,971 |
 | 2024-01-01 | 751,425 | 12,971 |
 | 2024-01-02 | 752,188 | 12,971 |
-| 2024-01-03 | 752,246 | 12,971 |
+| 2024-01-03 | 752,256 | 12,971 |
 ## Awards
 Max (Great Boss Battles): 7,079  (Ranked 55)  
 Sum: 11,978 (Ranked 87)  

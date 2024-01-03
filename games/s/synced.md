@@ -5,14 +5,14 @@ Rating: 4.15 (Ranked 990)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 43.00% | ~35,316 |
-| As Far Away As Possible | 20.00% | ~16,426 |
-| More Power to You | 19.00% | ~15,605 |
-| A Most Unstable Organism | 14.00% | ~11,498 |
-| No Time to Follow Protocol | 9.00% | ~7,392 |
-| Float Like a Butterfly... | 8.00% | ~6,570 |
-| Nano Connoisseur | 7.00% | ~5,749 |
-| In Two Places At Once | 6.00% | ~4,928 |
+| Your Lucky Day | 43.00% | ~35,324 |
+| As Far Away As Possible | 20.00% | ~16,430 |
+| More Power to You | 19.00% | ~15,608 |
+| A Most Unstable Organism | 14.00% | ~11,501 |
+| No Time to Follow Protocol | 9.00% | ~7,393 |
+| Float Like a Butterfly... | 8.00% | ~6,572 |
+| Nano Connoisseur | 7.00% | ~5,750 |
+| In Two Places At Once | 6.00% | ~4,929 |
 | Pulling Your Weight | 3.00% | ~2,464 |
 | Reaping Rivals | 3.00% | ~2,464 |
 | fifteenth Time's the Charm | 1.00% | ~821 |
@@ -22,7 +22,7 @@ Rating: 4.15 (Ranked 990)
 | Runs for Your Money | 0.30% | ~246 |
 | Past Master | 0.30% | ~246 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,130 (Ranked 107)  
+Progressed: 82,148 (Ranked 107)  
 Completed: 61 (0.07%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,15 +151,15 @@ Completed: 61 (0.07%) (Ranked 321)
 | 2023-12-31 | 80,629 | 61 |
 | 2024-01-01 | 81,346 | 61 |
 | 2024-01-02 | 82,048 | 61 |
-| 2024-01-03 | 82,130 | 61 |
+| 2024-01-03 | 82,148 | 61 |
 ## Awards
-Max (Great for Beginners): 126  (Ranked 346)  
-Sum: 492 (Ranked 335)  
-Diff (max vs sum): 11  
+Max (Great for Beginners): 128  (Ranked 342)  
+Sum: 497 (Ranked 333)  
+Diff (max vs sum): 9  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 126 |
-| This game has Diverse Characters | 84 |
+| This game is Great for Beginners | 128 |
+| This game has Diverse Characters | 87 |
 | This game is Highly Recommended | 64 |
 | This game is Extremely Fun | 59 |
 | This game has Amazing Characters | 59 |
@@ -278,4 +278,4 @@ Diff (max vs sum): 11
 | 2023-12-31 | 4.15 | 125 | 488 |
 | 2024-01-01 | 4.15 | 126 | 490 |
 | 2024-01-02 | 4.15 | 126 | 491 |
-| 2024-01-03 | 4.15 | 126 | 492 |
+| 2024-01-03 | 4.15 | 128 | 497 |

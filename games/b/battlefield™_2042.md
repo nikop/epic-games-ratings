@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adapt and Overcome | 99.00% | ~113,171 |
-| Foot Soldier | 85.00% | ~97,167 |
-| Making Dunn Proud | 84.00% | ~96,024 |
-| Good Company | 82.00% | ~93,737 |
-| Showoff | 80.00% | ~91,451 |
-| Squad Wiper | 70.00% | ~80,020 |
-| Luck of the Irish | 70.00% | ~80,020 |
-| Burnout | 66.00% | ~75,447 |
-| War machine | 61.00% | ~69,732 |
-| Deadshot | 61.00% | ~69,732 |
-| Thank you, Santa | 56.00% | ~64,016 |
-| No-one gets left behind | 49.00% | ~56,014 |
-| The Winner Takes It All | 49.00% | ~56,014 |
-| Dead in their tracks! | 48.00% | ~54,871 |
-| Going Places | 47.00% | ~53,728 |
-| Wrecking Crew | 42.00% | ~48,012 |
-| I'm Five by Five, B | 33.00% | ~37,724 |
-| Command and Conquest | 29.00% | ~33,151 |
-| A bird?  A plane? | 16.00% | ~18,290 |
-| One Careful Owner | 15.00% | ~17,147 |
-| CQC Specialist | 13.00% | ~14,861 |
-| Gun Master | 12.00% | ~13,718 |
-| Happy birthday | 12.00% | ~13,718 |
+| Adapt and Overcome | 99.00% | ~113,179 |
+| Foot Soldier | 85.00% | ~97,174 |
+| Making Dunn Proud | 84.00% | ~96,030 |
+| Good Company | 82.00% | ~93,744 |
+| Showoff | 80.00% | ~91,458 |
+| Squad Wiper | 70.00% | ~80,025 |
+| Luck of the Irish | 70.00% | ~80,025 |
+| Burnout | 66.00% | ~75,453 |
+| War machine | 61.00% | ~69,736 |
+| Deadshot | 61.00% | ~69,736 |
+| Thank you, Santa | 56.00% | ~64,020 |
+| No-one gets left behind | 49.00% | ~56,018 |
+| The Winner Takes It All | 49.00% | ~56,018 |
+| Dead in their tracks! | 48.00% | ~54,875 |
+| Going Places | 47.00% | ~53,731 |
+| Wrecking Crew | 42.00% | ~48,015 |
+| I'm Five by Five, B | 33.00% | ~37,726 |
+| Command and Conquest | 29.00% | ~33,153 |
+| A bird?  A plane? | 16.00% | ~18,292 |
+| One Careful Owner | 15.00% | ~17,148 |
+| CQC Specialist | 13.00% | ~14,862 |
+| Gun Master | 12.00% | ~13,719 |
+| Happy birthday | 12.00% | ~13,719 |
 | Jack of all Trades | 11.00% | ~12,575 |
 | Doze this | 11.00% | ~12,575 |
 | Universal Soldier | 11.00% | ~12,575 |
@@ -39,7 +39,7 @@
 | Pack Rat | 0.30% | ~343 |
 | Escape Artist | 0.10% | ~114 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 114,314 (Ranked 94)  
+Progressed: 114,322 (Ranked 94)  
 Completed: 5 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 5 (0.00%) (Ranked 390)
 | 2023-12-31 | 112,607 | 5 |
 | 2024-01-01 | 113,567 | 5 |
 | 2024-01-02 | 114,266 | 5 |
-| 2024-01-03 | 114,314 | 5 |
+| 2024-01-03 | 114,322 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

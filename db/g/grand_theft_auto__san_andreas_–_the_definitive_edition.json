@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -2179,9 +2179,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 18107,
+  "EOS_Progressed": 18109,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 1096,
+  "EOS_NewPlayers": 1097,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -18784,6 +18784,11 @@
       "Time": "2024-01-03T02:31:03.949975+00:00",
       "NumProgressed": 18107,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2024-01-03T03:10:17.7272039+00:00",
+      "NumProgressed": 18109,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 35,
@@ -18795,7 +18800,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 14667
+      "UsersEstimate": 14668
     },
     {
       "ID": "ACH02",
@@ -18803,7 +18808,7 @@
       "Name": "With Extra Dip",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "ACH03",
@@ -18811,7 +18816,7 @@
       "Name": "The End of the Line",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "ACH04",
@@ -18843,7 +18848,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3440
+      "UsersEstimate": 3441
     },
     {
       "ID": "ACH08",
@@ -18891,7 +18896,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 3259
+      "UsersEstimate": 3260
     },
     {
       "ID": "ACH14",
@@ -18915,7 +18920,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3078
+      "UsersEstimate": 3079
     },
     {
       "ID": "ACH17",
@@ -18931,7 +18936,7 @@
       "Name": "Saviour",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 1086
+      "UsersEstimate": 1087
     },
     {
       "ID": "ACH19",
@@ -19074,7 +19079,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 18107,
+      "Progressed": 18109,
       "Completed": 70
     }
   ],
@@ -19082,8 +19087,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-02T21:57:30.6005372+00:00",
-  "LastChanged_Achievements": "2024-01-03T02:31:03.9499745+00:00",
+  "LastChanged_Achievements": "2024-01-03T03:10:17.7272037+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.8114387+00:00",
-  "LastUpdate_Ratings": "2024-01-03T02:18:27.5348351+00:00",
-  "LastUpdate_Achievements": "2024-01-03T02:31:03.9500568+00:00"
+  "LastUpdate_Ratings": "2024-01-03T02:57:52.6532122+00:00",
+  "LastUpdate_Achievements": "2024-01-03T03:10:17.727353+00:00"
 }

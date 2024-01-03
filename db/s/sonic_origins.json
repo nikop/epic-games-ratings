@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 444,
   "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewPlayers": 406,
   "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -3142,9 +3142,9 @@
       "ID": "ID_11_SONIC3K_DEFEAT_RHINOBOT",
       "SetID": "7o8nc5m",
       "Name": "Beware Rhinobots!",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 101
     },
     {
       "ID": "ID_12_SONIC3K_GET_ALL_BARRIERS",
@@ -3350,8 +3350,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-12-13T19:57:46.4026225+00:00",
-  "LastChanged_Achievements": "2024-01-03T02:31:11.1500292+00:00",
+  "LastChanged_Achievements": "2024-01-03T03:10:22.9677636+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:39.4774601+00:00",
-  "LastUpdate_Ratings": "2024-01-03T02:18:25.9980079+00:00",
-  "LastUpdate_Achievements": "2024-01-03T02:31:11.1500579+00:00"
+  "LastUpdate_Ratings": "2024-01-03T02:57:51.0125097+00:00",
+  "LastUpdate_Achievements": "2024-01-03T03:10:22.9677989+00:00"
 }

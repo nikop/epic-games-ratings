@@ -28,8 +28,8 @@ Rating: 4.52 (Ranked 574)
 | So Close | 41.00% | ~592 |
 | You Get Used To It | 41.00% | ~592 |
 | Family | 39.00% | ~563 |
+| Biggest Snowball Ever | 39.00% | ~563 |
 | Boosted! | 39.00% | ~563 |
-| Biggest Snowball Ever | 38.00% | ~549 |
 | Freeze The Ice Witch | 38.00% | ~549 |
 | True Legends | 38.00% | ~549 |
 | Deadliest and Biggest Snowball Ever! | 38.00% | ~549 |

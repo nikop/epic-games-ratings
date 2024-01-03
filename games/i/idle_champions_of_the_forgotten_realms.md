@@ -17,9 +17,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Are Ya Chicken? | 0.50% | ~1,251 |
 | The Overgrown Grove | 0.50% | ~1,082 |
 | Mental Gymnastics | 0.50% | ~1,082 |
-| Seeking Allies | 0.40% | ~1,000 |
-| Mad Cow Disease | 0.40% | ~1,000 |
-| Friendly Imps | 0.40% | ~1,000 |
+| Seeking Allies | 0.40% | ~1,001 |
+| Mad Cow Disease | 0.40% | ~1,001 |
+| Friendly Imps | 0.40% | ~1,001 |
 | Misaligned in Sigil | 0.40% | ~866 |
 | When Tentacles Attack | 0.40% | ~866 |
 | Flames of Avernus | 0.40% | ~866 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~216 |
 | The Brains of an Illithid's Desire | 0.10% | ~216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,117 (Ranked 70)  
+Progressed: 250,134 (Ranked 70)  
 Completed: 2,585 (1.03%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -811,7 +811,7 @@ Completed: 2,585 (1.03%) (Ranked 170)
 | 2023-12-31 | 248,665 | 2,581 |
 | 2024-01-01 | 249,335 | 2,583 |
 | 2024-01-02 | 250,032 | 2,585 |
-| 2024-01-03 | 250,117 | 2,585 |
+| 2024-01-03 | 250,134 | 2,585 |
 ## Awards
 Max (Great for Beginners): 5,730  (Ranked 71)  
 Sum: 33,274 (Ranked 41)  
