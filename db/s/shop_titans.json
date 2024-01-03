@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -7951,9 +7951,9 @@
       "Count": 3810
     }
   ],
-  "EOS_Progressed": 149108,
+  "EOS_Progressed": 149112,
   "EOS_Completed": 341,
-  "EOS_NewPlayers": 1250,
+  "EOS_NewPlayers": 1245,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -35096,6 +35096,11 @@
       "Time": "2024-01-03T03:06:28.6030181+00:00",
       "NumProgressed": 149108,
       "NumCompleted": 341
+    },
+    {
+      "Time": "2024-01-03T04:06:07.8052498+00:00",
+      "NumProgressed": 149112,
+      "NumCompleted": 341
     }
   ],
   "TotalAchievements": 112,
@@ -35187,7 +35192,7 @@
       "Name": "One Easy Payment",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7455
+      "UsersEstimate": 7456
     },
     {
       "ID": "bigsale02",
@@ -35211,7 +35216,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7455
+      "UsersEstimate": 7456
     },
     {
       "ID": "blueprint02",
@@ -35459,7 +35464,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7455
+      "UsersEstimate": 7456
     },
     {
       "ID": "energy02",
@@ -35483,7 +35488,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8946
+      "UsersEstimate": 8947
     },
     {
       "ID": "expansion02",
@@ -35587,7 +35592,7 @@
       "Name": "Pretty Penny",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 7455
+      "UsersEstimate": 7456
     },
     {
       "ID": "gold03",
@@ -35659,7 +35664,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7455
+      "UsersEstimate": 7456
     },
     {
       "ID": "jackslot02",
@@ -35691,7 +35696,7 @@
       "Name": "Budding Merchant",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8946
+      "UsersEstimate": 8947
     },
     {
       "ID": "level02",
@@ -35971,7 +35976,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7455
+      "UsersEstimate": 7456
     },
     {
       "ID": "workers02",
@@ -36002,15 +36007,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 149108,
+      "Progressed": 149112,
       "Completed": 341
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-03T01:49:07.3826497+00:00",
-  "LastChanged_Achievements": "2024-01-03T03:06:28.603018+00:00",
+  "LastChanged_Achievements": "2024-01-03T04:06:07.8052493+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.6407181+00:00",
-  "LastUpdate_Ratings": "2024-01-03T03:03:36.7296677+00:00",
-  "LastUpdate_Achievements": "2024-01-03T03:06:28.603265+00:00"
+  "LastUpdate_Ratings": "2024-01-03T04:03:16.7511446+00:00",
+  "LastUpdate_Achievements": "2024-01-03T04:06:07.8054728+00:00"
 }

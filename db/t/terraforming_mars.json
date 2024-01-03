@@ -3487,9 +3487,9 @@
       "Count": 262
     }
   ],
-  "EOS_Progressed": 88898,
+  "EOS_Progressed": 88901,
   "EOS_Completed": 179,
-  "EOS_NewPlayers": 1162,
+  "EOS_NewPlayers": 1157,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -32312,6 +32312,11 @@
       "Time": "2024-01-03T03:05:45.7282826+00:00",
       "NumProgressed": 88898,
       "NumCompleted": 179
+    },
+    {
+      "Time": "2024-01-03T04:05:25.0039631+00:00",
+      "NumProgressed": 88901,
+      "NumCompleted": 179
     }
   ],
   "TotalAchievements": 30,
@@ -32403,7 +32408,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 32892
+      "UsersEstimate": 32893
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -32411,7 +32416,7 @@
       "Name": "Changing the Planet",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 24891
+      "UsersEstimate": 24892
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -32419,7 +32424,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 28447
+      "UsersEstimate": 28448
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -32459,7 +32464,7 @@
       "Name": "Sojourner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 23113
+      "UsersEstimate": 23114
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -32499,7 +32504,7 @@
       "Name": "Final touch",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 30225
+      "UsersEstimate": 30226
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -32562,15 +32567,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 88898,
+      "Progressed": 88901,
       "Completed": 179
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2024-01-01T23:57:12.7290872+00:00",
-  "LastChanged_Achievements": "2024-01-03T03:05:45.7282824+00:00",
+  "LastChanged_Achievements": "2024-01-03T04:05:25.0039628+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:05.7214012+00:00",
-  "LastUpdate_Ratings": "2024-01-03T02:58:01.2430973+00:00",
-  "LastUpdate_Achievements": "2024-01-03T03:05:45.7284718+00:00"
+  "LastUpdate_Ratings": "2024-01-03T03:57:42.6150575+00:00",
+  "LastUpdate_Achievements": "2024-01-03T04:05:25.0040959+00:00"
 }

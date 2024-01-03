@@ -6,7 +6,7 @@
   "Ranking_Popularity": 426,
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 84,
-  "Ranking_EOS_Completed": 260,
+  "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
@@ -1801,11 +1801,11 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 166200,
-  "EOS_Completed": 440,
-  "EOS_NewPlayers": 1419,
-  "EOS_NewCompleters": 27,
-  "EOS_Completed_Percentage": 0.26,
+  "EOS_Progressed": 166208,
+  "EOS_Completed": 441,
+  "EOS_NewPlayers": 1422,
+  "EOS_NewCompleters": 28,
+  "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:06.2765882+00:00",
@@ -21631,6 +21631,11 @@
       "Time": "2024-01-03T03:05:25.5271874+00:00",
       "NumProgressed": 166200,
       "NumCompleted": 440
+    },
+    {
+      "Time": "2024-01-03T04:05:04.8792401+00:00",
+      "NumProgressed": 166208,
+      "NumCompleted": 441
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -21769,9 +21774,9 @@
       "ID": "DEFEAT_GRIEVINGROCKGIANT",
       "SetID": "ccc0dlh",
       "Name": "Hush",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 332
+      "UsersEstimate": 499
     },
     {
       "ID": "DEFEAT_HARMLESSROCKGIANT",
@@ -22010,21 +22015,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 165783,
+      "Progressed": 165791,
       "Completed": 1254
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 166200,
-      "Completed": 440
+      "Progressed": 166208,
+      "Completed": 441
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-01T17:59:08.0457364+00:00",
-  "LastChanged_Achievements": "2024-01-03T03:05:25.5271872+00:00",
+  "LastChanged_Achievements": "2024-01-03T04:05:04.8792397+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:50.3299145+00:00",
-  "LastUpdate_Ratings": "2024-01-03T02:59:31.7583209+00:00",
-  "LastUpdate_Achievements": "2024-01-03T03:05:25.5273085+00:00"
+  "LastUpdate_Ratings": "2024-01-03T03:59:11.0988157+00:00",
+  "LastUpdate_Achievements": "2024-01-03T04:05:04.8793799+00:00"
 }

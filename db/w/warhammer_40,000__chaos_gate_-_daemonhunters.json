@@ -813,9 +813,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3724,
+  "EOS_Progressed": 3725,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5373,6 +5373,11 @@
       "Time": "2024-01-03T02:26:15.1697336+00:00",
       "NumProgressed": 3724,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T04:05:19.3780948+00:00",
+      "NumProgressed": 3725,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -5592,7 +5597,7 @@
       "Name": "Friendly Fire",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "Kills_Interactable",
@@ -5927,21 +5932,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3724,
+      "Progressed": 3725,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3724,
+      "Progressed": 3725,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-01T18:03:40.84636+00:00",
-  "LastChanged_Achievements": "2024-01-03T03:05:40.0219961+00:00",
+  "LastChanged_Achievements": "2024-01-03T04:05:19.3780944+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:30.5390055+00:00",
-  "LastUpdate_Ratings": "2024-01-03T03:03:33.2043301+00:00",
-  "LastUpdate_Achievements": "2024-01-03T03:05:40.0220786+00:00"
+  "LastUpdate_Ratings": "2024-01-03T04:03:14.3142879+00:00",
+  "LastUpdate_Achievements": "2024-01-03T04:05:19.3781628+00:00"
 }

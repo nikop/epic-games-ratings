@@ -34,12 +34,12 @@ Number of Ratings: 96  (23.09.2022)
 | 100 Friends | 7.00% | ~4,519 |
 | Researcher | 7.00% | ~4,519 |
 | Savvy | 7.00% | ~4,519 |
-| Encyclopedist | 6.00% | ~3,873 |
-| Witch | 6.00% | ~3,873 |
-| Old Spirits | 6.00% | ~3,873 |
-| Sinner | 6.00% | ~3,873 |
-| Folklorist | 6.00% | ~3,873 |
-| Keeper of Knowledge | 6.00% | ~3,873 |
+| Encyclopedist | 6.00% | ~3,874 |
+| Witch | 6.00% | ~3,874 |
+| Old Spirits | 6.00% | ~3,874 |
+| Sinner | 6.00% | ~3,874 |
+| Folklorist | 6.00% | ~3,874 |
+| Keeper of Knowledge | 6.00% | ~3,874 |
 | Vorsa | 5.00% | ~3,228 |
 | Susanin | 5.00% | ~3,228 |
 | Traveller | 5.00% | ~3,228 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,291 |
 | Word Master | 0.20% | ~129 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,558 (Ranked 116)  
+Progressed: 64,559 (Ranked 116)  
 Completed: 63 (0.10%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 63 (0.10%) (Ranked 304)
 | 2023-12-31 | 64,022 | 63 |
 | 2024-01-01 | 64,294 | 63 |
 | 2024-01-02 | 64,531 | 63 |
-| 2024-01-03 | 64,558 | 63 |
+| 2024-01-03 | 64,559 | 63 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

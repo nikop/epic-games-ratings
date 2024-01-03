@@ -51,9 +51,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1205,
+  "EOS_Progressed": 1206,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -3506,6 +3506,11 @@
       "Time": "2024-01-03T02:31:13.4907903+00:00",
       "NumProgressed": 1205,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-03T04:10:09.2724395+00:00",
+      "NumProgressed": 1206,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3597,7 +3602,7 @@
       "Name": "Cultivair Explorer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "EntresolChests1",
@@ -3621,7 +3626,7 @@
       "Name": "Factorywood Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "FairgroundsChests1",
@@ -3629,7 +3634,7 @@
       "Name": "Fairgrounds Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -3709,7 +3714,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "MapCompletion1",
@@ -3757,7 +3762,7 @@
       "Name": "Time Flies",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "ParryBoss",
@@ -3773,7 +3778,7 @@
       "Name": "No, Thanks!",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "PhaseDiveCounter",
@@ -3797,7 +3802,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "RewindDamage1",
@@ -3805,7 +3810,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "RewindParry",
@@ -3813,7 +3818,7 @@
       "Name": "Honest Mistake",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "ScrambotCompletion1",
@@ -3885,15 +3890,15 @@
       "Name": "Theater Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "TimewinderMultiKill1",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 325
+      "UsersEstimate": 338
     },
     {
       "ID": "WarwickDefeated",
@@ -3925,7 +3930,7 @@
       "Name": "The Brass Boss",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "Zarkon2Defeated",
@@ -3940,7 +3945,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1205,
+      "Progressed": 1206,
       "Completed": 6
     }
   ],
@@ -3948,8 +3953,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2024-01-03T03:10:25.4919733+00:00",
+  "LastChanged_Achievements": "2024-01-03T04:10:09.2724392+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:23.9308133+00:00",
-  "LastUpdate_Ratings": "2024-01-03T03:03:11.348237+00:00",
-  "LastUpdate_Achievements": "2024-01-03T03:10:25.4920335+00:00"
+  "LastUpdate_Ratings": "2024-01-03T04:02:53.740688+00:00",
+  "LastUpdate_Achievements": "2024-01-03T04:10:09.2724892+00:00"
 }

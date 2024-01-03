@@ -1,7 +1,7 @@
 # Arcadegeddon
 [Store](https://store.epicgames.com/en-US/p/arcadegeddon)  
 [View Rawdata](../../db/a/arcadegeddon.json)  
-Rating: 4.49 (Ranked 632)  
+Rating: 4.49 (Ranked 633)  
 Number of Ratings: 801  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -15,7 +15,7 @@ Number of Ratings: 801  (23.09.2022)
 | Coup d'Etat | 55.00% | ~5,628 |
 | You're Fired | 54.00% | ~5,526 |
 | Get Furious | 53.00% | ~5,423 |
-| Hacks In Stacks | 52.00% | ~5,321 |
+| Hacks In Stacks | 53.00% | ~5,423 |
 | Gunplay And Cosplay | 51.00% | ~5,219 |
 | Meching Enemies | 46.00% | ~4,707 |
 | Ticket Toddler | 42.00% | ~4,298 |

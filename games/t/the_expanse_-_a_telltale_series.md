@@ -7,12 +7,12 @@ Rating: 4.54 (Ranked 543)
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 17.00% | ~3,075 |
 | Captain Drummer | 13.00% | ~2,351 |
-| The Pit and the Pirates | 12.00% | ~2,170 |
-| Martian Music | 12.00% | ~2,170 |
-| Bosmang | 12.00% | ~2,170 |
-| Celebrations are in Order | 12.00% | ~2,170 |
-| Impossible Objects | 12.00% | ~2,170 |
-| Drone Dodger | 11.00% | ~1,989 |
+| The Pit and the Pirates | 12.00% | ~2,171 |
+| Martian Music | 12.00% | ~2,171 |
+| Bosmang | 12.00% | ~2,171 |
+| Celebrations are in Order | 12.00% | ~2,171 |
+| Impossible Objects | 12.00% | ~2,171 |
+| Drone Dodger | 11.00% | ~1,990 |
 | Stogie for Fogey | 10.00% | ~1,809 |
 | Spore Taste | 10.00% | ~1,809 |
 | Safe Cracker | 9.00% | ~364 |
@@ -25,11 +25,11 @@ Rating: 4.54 (Ranked 543)
 | Keep Arjun in Check | 7.00% | ~283 |
 | Thorston Mayer | 6.00% | ~1,085 |
 | Khan's Revenge | 6.00% | ~1,085 |
-| Master Negotiator | 6.00% | ~242 |
+| Master Negotiator | 6.00% | ~243 |
 | Doctor Approved | 5.00% | ~904 |
 | Bottoms up! | 5.00% | ~904 |
-| Data Logger | 4.00% | ~723 |
-| Miraculous Maya | 4.00% | ~723 |
+| Data Logger | 4.00% | ~724 |
+| Miraculous Maya | 4.00% | ~724 |
 | Data Master | 3.00% | ~543 |
 | Brother's Reaper | 2.00% | ~362 |
 | No Belter Left Behind | 2.00% | ~362 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 543)
 | Scavenger Star | 0.30% | ~54 |
 | Data Collector | 0.20% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,086 (Ranked 158)  
+Progressed: 18,088 (Ranked 158)  
 Completed: 58 (0.32%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 58 (0.32%) (Ranked 246)
 | 2023-12-31 | 17,926 | 58 |
 | 2024-01-01 | 18,013 | 58 |
 | 2024-01-02 | 18,077 | 58 |
-| 2024-01-03 | 18,086 | 58 |
+| 2024-01-03 | 18,088 | 58 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

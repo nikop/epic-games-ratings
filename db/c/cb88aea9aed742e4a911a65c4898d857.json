@@ -263,9 +263,9 @@
       "Count": 90
     }
   ],
-  "EOS_Progressed": 9724,
+  "EOS_Progressed": 9731,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1813,
+  "EOS_NewPlayers": 1808,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3443,6 +3443,11 @@
       "Time": "2024-01-03T03:10:13.438254+00:00",
       "NumProgressed": 9724,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T04:09:57.6247262+00:00",
+      "NumProgressed": 9731,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3455,7 +3460,7 @@
       "Name": "Conspiracy",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "03_TheStolenStar",
@@ -3463,7 +3468,7 @@
       "Name": "Stolen Star",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -3479,7 +3484,7 @@
       "Name": "Commorragh Survivors",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "06_TheExpanseCalamity",
@@ -3567,7 +3572,7 @@
       "Name": "The Rise",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "17_TheExemplar",
@@ -3575,7 +3580,7 @@
       "Name": "Exemplar",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "18_TheRookieSkipper",
@@ -3583,7 +3588,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "19_TheVoidWolf",
@@ -3615,7 +3620,7 @@
       "Name": "Perfect Timing",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "23_DynastyRestored",
@@ -3631,7 +3636,7 @@
       "Name": "Highrise",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "25_DynastyProspers",
@@ -3663,7 +3668,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -3679,7 +3684,7 @@
       "Name": "Greatest Exploration",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "31_DontTouchThis",
@@ -3703,7 +3708,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -3767,7 +3772,7 @@
       "Name": "Jungle Heat",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "42_TheIronJudgement",
@@ -3807,7 +3812,7 @@
       "Name": "A Spark",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "47_AFlame",
@@ -3839,7 +3844,7 @@
       "Name": "Whodunit?",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "51_AmendsToTheDead",
@@ -3974,7 +3979,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 9724,
+      "Progressed": 9731,
       "Completed": 0
     }
   ],
@@ -3982,8 +3987,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-03T03:00:34.4543831+00:00",
-  "LastChanged_Achievements": "2024-01-03T03:10:13.4382538+00:00",
+  "LastChanged_Achievements": "2024-01-03T04:09:57.6247256+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2024-01-03T03:00:34.4543836+00:00",
-  "LastUpdate_Achievements": "2024-01-03T03:10:13.4383183+00:00"
+  "LastUpdate_Ratings": "2024-01-03T04:00:11.9333335+00:00",
+  "LastUpdate_Achievements": "2024-01-03T04:09:57.6248257+00:00"
 }

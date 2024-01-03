@@ -541,9 +541,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4433,
+  "EOS_Progressed": 4434,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -7551,6 +7551,11 @@
       "Time": "2024-01-03T03:06:37.5436638+00:00",
       "NumProgressed": 4433,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-03T04:06:16.6310369+00:00",
+      "NumProgressed": 4434,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -7746,7 +7751,7 @@
       "Name": "Ready for Summer",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2172
+      "UsersEstimate": 2173
     },
     {
       "ID": "ReadyforWinter_42",
@@ -7754,7 +7759,7 @@
       "Name": "Ready for Winter",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 2748
+      "UsersEstimate": 2749
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -7882,7 +7887,7 @@
       "Name": "Venture Outward",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3236
+      "UsersEstimate": 3237
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -7897,15 +7902,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4433,
+      "Progressed": 4434,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-12-16T20:03:08.7311596+00:00",
-  "LastChanged_Achievements": "2024-01-03T03:06:37.5436636+00:00",
+  "LastChanged_Achievements": "2024-01-03T04:06:16.6310364+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:23.571083+00:00",
-  "LastUpdate_Ratings": "2024-01-03T03:03:22.145947+00:00",
-  "LastUpdate_Achievements": "2024-01-03T03:06:37.5437212+00:00"
+  "LastUpdate_Ratings": "2024-01-03T04:03:04.028949+00:00",
+  "LastUpdate_Achievements": "2024-01-03T04:06:16.6311106+00:00"
 }

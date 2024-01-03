@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58605,
+  "EOS_Progressed": 58607,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15281,6 +15281,11 @@
       "Time": "2024-01-03T03:06:26.1769819+00:00",
       "NumProgressed": 58605,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-03T04:06:05.3531381+00:00",
+      "NumProgressed": 58607,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -15356,7 +15361,7 @@
       "Name": "Fall Fest",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 4688
+      "UsersEstimate": 4689
     },
     {
       "ID": "FlyingPresent",
@@ -15380,7 +15385,7 @@
       "Name": "Food Taster",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 5860
+      "UsersEstimate": 5861
     },
     {
       "ID": "FoolMeTwice",
@@ -15683,7 +15688,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58605,
+      "Progressed": 58607,
       "Completed": 6
     }
   ],
@@ -15691,8 +15696,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2024-01-03T03:06:26.1769818+00:00",
+  "LastChanged_Achievements": "2024-01-03T04:06:05.3531377+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:00.2032486+00:00",
-  "LastUpdate_Ratings": "2024-01-03T02:59:43.7249864+00:00",
-  "LastUpdate_Achievements": "2024-01-03T03:06:26.1770849+00:00"
+  "LastUpdate_Ratings": "2024-01-03T03:59:22.3029879+00:00",
+  "LastUpdate_Achievements": "2024-01-03T04:06:05.3532677+00:00"
 }

@@ -1054,9 +1054,9 @@
       "ID": "creepytaleach1",
       "SetID": "bnif31p",
       "Name": "Follow to the brother",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 75,
-      "UsersEstimate": 33
+      "UsersEstimate": 35
     },
     {
       "ID": "creepytaleach10",
@@ -1165,8 +1165,8 @@
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2024-01-03T03:10:16.6853189+00:00",
+  "LastChanged_Achievements": "2024-01-03T04:10:00.6150608+00:00",
   "LastUpdate_AppInfo": "2023-12-27T07:56:54.2023855+00:00",
-  "LastUpdate_Ratings": "2024-01-03T03:00:02.2591268+00:00",
-  "LastUpdate_Achievements": "2024-01-03T03:10:16.6853327+00:00"
+  "LastUpdate_Ratings": "2024-01-03T03:59:40.2021758+00:00",
+  "LastUpdate_Achievements": "2024-01-03T04:10:00.6150796+00:00"
 }

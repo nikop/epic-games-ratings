@@ -571,9 +571,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 46166,
+  "EOS_Progressed": 46171,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 824,
+  "EOS_NewPlayers": 825,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17426,6 +17426,11 @@
       "Time": "2024-01-03T03:05:49.092297+00:00",
       "NumProgressed": 46166,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-03T04:05:28.6574387+00:00",
+      "NumProgressed": 46171,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -17445,7 +17450,7 @@
       "Name": "Archivist",
       "Percentage": 0.3,
       "XP": 105,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "CAMP",
@@ -17469,7 +17474,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2308
+      "UsersEstimate": 2309
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -17485,7 +17490,7 @@
       "Name": "Attachments",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5540
+      "UsersEstimate": 5541
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -17493,7 +17498,7 @@
       "Name": "Stuck",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2308
+      "UsersEstimate": 2309
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -17581,7 +17586,7 @@
       "Name": "Craftsperson",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "CRAFT_FIRST",
@@ -17589,7 +17594,7 @@
       "Name": "Tinkerer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3693
+      "UsersEstimate": 3694
     },
     {
       "ID": "CUFF_ATTACK",
@@ -17621,7 +17626,7 @@
       "Name": "Tit for Tat",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "LEAPFROG",
@@ -17693,7 +17698,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2308
+      "UsersEstimate": 2309
     },
     {
       "ID": "MAGIC_IVY",
@@ -17773,7 +17778,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5078
+      "UsersEstimate": 5079
     },
     {
       "ID": "SPRING_ALL",
@@ -17829,7 +17834,7 @@
       "Name": "A Roaring Trade",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "SUBQUEST_CINTA",
@@ -17837,7 +17842,7 @@
       "Name": "Promises",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "SUBQUEST_CIPAL",
@@ -17845,7 +17850,7 @@
       "Name": "Rebirth",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "TANTACAT_ALL",
@@ -17860,22 +17865,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 46166,
+      "Progressed": 46171,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 11003,
-      "Completed": 11003
+      "Progressed": 11008,
+      "Completed": 11008
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-02T14:03:32.6481765+00:00",
-  "LastChanged_Achievements": "2024-01-03T03:05:49.0922966+00:00",
+  "LastChanged_Achievements": "2024-01-03T04:05:28.6574382+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:48.1998363+00:00",
-  "LastUpdate_Ratings": "2024-01-03T03:03:13.8932477+00:00",
-  "LastUpdate_Achievements": "2024-01-03T03:05:49.0924529+00:00"
+  "LastUpdate_Ratings": "2024-01-03T04:02:56.19504+00:00",
+  "LastUpdate_Achievements": "2024-01-03T04:05:28.6575513+00:00"
 }

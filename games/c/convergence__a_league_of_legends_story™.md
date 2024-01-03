@@ -5,16 +5,16 @@ Rating: 4.65 (Ranked 321)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 44.00% | ~530 |
+| Time Heals All Wounds | 44.00% | ~531 |
 | Rail Rat | 33.00% | ~398 |
 | The Mysterious Stranger | 32.00% | ~386 |
-| Immaculate Aim | 27.00% | ~325 |
-| The Brass Boss | 27.00% | ~325 |
-| Make Up For Lost Time | 25.00% | ~301 |
-| Time Flies | 25.00% | ~301 |
-| No, Thanks! | 25.00% | ~301 |
-| The Prince in Heels | 25.00% | ~301 |
-| Honest Mistake | 25.00% | ~301 |
+| Immaculate Aim | 28.00% | ~338 |
+| The Brass Boss | 27.00% | ~326 |
+| Make Up For Lost Time | 25.00% | ~302 |
+| Time Flies | 25.00% | ~302 |
+| No, Thanks! | 25.00% | ~302 |
+| The Prince in Heels | 25.00% | ~302 |
+| Honest Mistake | 25.00% | ~302 |
 | The Harder They Fall | 24.00% | ~289 |
 | Fast Learner | 24.00% | ~289 |
 | Immaculate Aim | 24.00% | ~289 |
@@ -39,10 +39,10 @@ Rating: 4.65 (Ranked 321)
 | Treasure Trove | 12.00% | ~145 |
 | Syron for Hope | 12.00% | ~145 |
 | Sump Explorer | 11.00% | ~133 |
-| Factorywood Explorer | 10.00% | ~120 |
-| Fairgrounds Explorer | 10.00% | ~120 |
-| Theater Explorer | 10.00% | ~120 |
-| Cultivair Explorer | 9.00% | ~108 |
+| Factorywood Explorer | 10.00% | ~121 |
+| Fairgrounds Explorer | 10.00% | ~121 |
+| Theater Explorer | 10.00% | ~121 |
+| Cultivair Explorer | 9.00% | ~109 |
 | Corin Goes Home | 8.00% | ~96 |
 | Entresol Explorer | 8.00% | ~96 |
 | Sartorialist | 7.00% | ~84 |
@@ -59,7 +59,7 @@ Rating: 4.65 (Ranked 321)
 | Raw Talent | 0.60% | ~7 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,205 (Ranked 280)  
+Progressed: 1,206 (Ranked 280)  
 Completed: 6 (0.50%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 6 (0.50%) (Ranked 219)
 | 2023-12-31 | 1,175 | 6 |
 | 2024-01-01 | 1,190 | 6 |
 | 2024-01-02 | 1,201 | 6 |
-| 2024-01-03 | 1,205 | 6 |
+| 2024-01-03 | 1,206 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

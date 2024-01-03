@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 87.00% | ~2,197 |
+| New Recruit | 87.00% | ~2,198 |
 | Off to a good start | 62.00% | ~1,566 |
-| Do... or do not. There is no try | 52.00% | ~1,313 |
-| A good blaster at your side | 25.00% | ~631 |
-| I suggest a new strategy | 18.00% | ~454 |
+| Do... or do not. There is no try | 52.00% | ~1,314 |
+| A good blaster at your side | 25.00% | ~632 |
+| I suggest a new strategy | 18.00% | ~455 |
 | Great shot, kid! | 16.00% | ~404 |
 | Scrap collector | 15.00% | ~379 |
 | All right, I'll give it a try | 15.00% | ~379 |
@@ -33,14 +33,14 @@
 | Not bad for a little furball | 3.00% | ~76 |
 | Patience you must have | 3.00% | ~76 |
 | Don't underestimate the Force | 3.00% | ~76 |
-| The Force is strong with this one | 2.00% | ~50 |
-| I've been waiting for you | 2.00% | ~50 |
-| When 900 years old you reach... | 2.00% | ~50 |
-| Determined | 2.00% | ~50 |
-| Your journey has only started | 2.00% | ~50 |
-| Precision shot | 2.00% | ~50 |
-| That's no moon | 2.00% | ~50 |
-| What will you become? | 2.00% | ~50 |
+| The Force is strong with this one | 2.00% | ~51 |
+| I've been waiting for you | 2.00% | ~51 |
+| When 900 years old you reach... | 2.00% | ~51 |
+| Determined | 2.00% | ~51 |
+| Your journey has only started | 2.00% | ~51 |
+| Precision shot | 2.00% | ~51 |
+| That's no moon | 2.00% | ~51 |
+| What will you become? | 2.00% | ~51 |
 | Hold the line! | 1.00% | ~25 |
 | Ackbar's Elite | 1.00% | ~25 |
 | This is a new day, a new beginning | 1.00% | ~25 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,525 (Ranked 232)  
+Progressed: 2,526 (Ranked 232)  
 Completed: 1 (0.04%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 1 (0.04%) (Ranked 344)
 | 2023-12-31 | 2,425 | 1 |
 | 2024-01-01 | 2,461 | 1 |
 | 2024-01-02 | 2,520 | 1 |
-| 2024-01-03 | 2,525 | 1 |
+| 2024-01-03 | 2,526 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -14,7 +14,7 @@ Rating: 4.59 (Ranked 445)
 | Existential dread | 26.00% | ~192 |
 | Bug Fixer | 25.00% | ~185 |
 | Gerald of Riviera | 25.00% | ~185 |
-| Goal | 21.00% | ~155 |
+| Goal | 22.00% | ~163 |
 | I ran the numbers | 15.00% | ~111 |
 | Taking the plunge | 13.00% | ~96 |
 | Hidden Packages | 11.00% | ~81 |

@@ -16,6 +16,7 @@
 | Fast 13x13 | 1.00% | ~1 |
 | Complete 100 levels | 1.00% | ~1 |
 | Complete 25 6x6 levels | 1.00% | ~1 |
+| By Yourself 5x5 | 1.00% | ~1 |
 | By Yourself 7x7 | 1.00% | ~1 |
 | Play for 5 hours | 1.00% | ~1 |
 | Addicted for 3 Days | 0.00% | ~0 |
@@ -37,7 +38,6 @@
 | Complete 25 11x11 levels | 0.00% | ~0 |
 | Complete 25 12x12 levels | 0.00% | ~0 |
 | Complete 25 13x13 levels | 0.00% | ~0 |
-| By Yourself 5x5 | 0.00% | ~0 |
 | By Yourself 6x6 | 0.00% | ~0 |
 | By Yourself 8x8 | 0.00% | ~0 |
 | By Yourself 9x9 | 0.00% | ~0 |

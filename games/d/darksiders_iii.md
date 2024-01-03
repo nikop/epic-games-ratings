@@ -42,7 +42,7 @@ Number of Ratings: 116  (23.09.2022)
 | Egomaniac | 17.00% | ~67 |
 | Protector of Humanity | 15.00% | ~59 |
 | Everybody Wants to Rule the World | 15.00% | ~59 |
-| Community Outreach | 14.00% | ~55 |
+| Community Outreach | 15.00% | ~59 |
 | A Parting Gift | 13.00% | ~51 |
 | Unbreakable Will | 11.00% | ~43 |
 | Path of the Horseman | 11.00% | ~43 |
@@ -72,7 +72,7 @@ Number of Ratings: 116  (23.09.2022)
 | Beast Mode | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 392 (Ranked 364)  
-Completed: 1 (0.26%) (Ranked 260)  
+Completed: 1 (0.26%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

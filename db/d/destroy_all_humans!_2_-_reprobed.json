@@ -288,9 +288,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 294,
+  "EOS_Progressed": 295,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -1433,6 +1433,11 @@
       "Time": "2024-01-03T03:09:29.7534103+00:00",
       "NumProgressed": 294,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-03T04:09:14.960071+00:00",
+      "NumProgressed": 295,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1445,7 +1450,7 @@
       "Name": "Mash Machine",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1477,7 +1482,7 @@
       "Name": "Furon Fashion",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -1523,9 +1528,9 @@
       "ID": "ACH_COMPLETE_OJ01",
       "SetID": "4n84pon",
       "Name": "Transmitting From Sol-3",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_COP_THROUGH_DONUT",
@@ -1573,7 +1578,7 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
@@ -1581,7 +1586,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1589,7 +1594,7 @@
       "Name": "Fly Me to the Moon Base",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_ENTER_TAKOSHIMA",
@@ -1619,9 +1624,9 @@
       "ID": "ACH_KILL_KOJIRA",
       "SetID": "4n84pon",
       "Name": "Kaijuiced",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_KILL_MILENKOV",
@@ -1701,7 +1706,7 @@
       "Name": "Upgreatest",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
@@ -1731,9 +1736,9 @@
       "ID": "ACH_SKATE_AWAY_FROM_SPORE",
       "SetID": "4n84pon",
       "Name": "Dusted",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_SKATE_BAYCITY",
@@ -1796,7 +1801,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 294,
+      "Progressed": 295,
       "Completed": 1
     }
   ],
@@ -1804,8 +1809,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-12-31T11:01:39.7283208+00:00",
-  "LastChanged_Achievements": "2024-01-03T03:09:29.7534101+00:00",
+  "LastChanged_Achievements": "2024-01-03T04:09:14.9600705+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.261947+00:00",
-  "LastUpdate_Ratings": "2024-01-03T02:58:30.0633759+00:00",
-  "LastUpdate_Achievements": "2024-01-03T03:09:29.7534441+00:00"
+  "LastUpdate_Ratings": "2024-01-03T03:58:10.7924235+00:00",
+  "LastUpdate_Achievements": "2024-01-03T04:09:14.9601029+00:00"
 }

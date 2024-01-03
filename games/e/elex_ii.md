@@ -18,7 +18,7 @@ Number of Ratings: 124  (23.09.2022)
 | Irissa's Fate | 14.00% | ~23 |
 | Long-Haul Flyer | 13.00% | ~22 |
 | Pass A38 | 13.00% | ~22 |
-| Berserker | 9.00% | ~15 |
+| Berserker | 10.00% | ~17 |
 | Family Reunion | 9.00% | ~15 |
 | Storyteller | 8.00% | ~13 |
 | Globetrotter | 8.00% | ~13 |

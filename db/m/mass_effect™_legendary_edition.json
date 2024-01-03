@@ -7619,9 +7619,9 @@
       "ID": "achievement_54",
       "SetID": "d252ncf",
       "Name": "Catharsis",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 756
+      "UsersEstimate": 792
     },
     {
       "ID": "achievement_55",
@@ -7763,9 +7763,9 @@
       "ID": "achievement_70",
       "SetID": "d252ncf",
       "Name": "Operative",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 971
+      "UsersEstimate": 1007
     },
     {
       "ID": "achievement_71",
@@ -7835,9 +7835,9 @@
       "ID": "achievement_79",
       "SetID": "d252ncf",
       "Name": "Driven",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 828
+      "UsersEstimate": 864
     },
     {
       "ID": "achievement_8",
@@ -8031,8 +8031,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-03T03:10:29.9474112+00:00",
+  "LastChanged_Achievements": "2024-01-03T04:10:13.463397+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:34.6542278+00:00",
-  "LastUpdate_Ratings": "2024-01-03T03:03:39.8306614+00:00",
-  "LastUpdate_Achievements": "2024-01-03T03:10:29.9476111+00:00"
+  "LastUpdate_Ratings": "2024-01-03T04:03:19.8949371+00:00",
+  "LastUpdate_Achievements": "2024-01-03T04:10:13.4635974+00:00"
 }

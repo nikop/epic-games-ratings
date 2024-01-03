@@ -193,9 +193,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8230,
+  "EOS_Progressed": 8231,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 333,
+  "EOS_NewPlayers": 331,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -9008,6 +9008,11 @@
       "Time": "2024-01-03T02:25:16.3594673+00:00",
       "NumProgressed": 8230,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2024-01-03T04:04:21.6377815+00:00",
+      "NumProgressed": 8231,
+      "NumCompleted": 49
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -9020,7 +9025,7 @@
       "Name": "First of Many",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 7242
+      "UsersEstimate": 7243
     },
     {
       "ID": "achievement_01_02",
@@ -9044,7 +9049,7 @@
       "Name": "Bzzzt",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 6172
+      "UsersEstimate": 6173
     },
     {
       "ID": "achievement_01_05",
@@ -9060,7 +9065,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4938
+      "UsersEstimate": 4939
     },
     {
       "ID": "achievement_01_07",
@@ -9076,7 +9081,7 @@
       "Name": "Trophy Collector",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 6172
+      "UsersEstimate": 6173
     },
     {
       "ID": "achievement_01_09",
@@ -9156,7 +9161,7 @@
       "Name": "Car Specialist",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1234
+      "UsersEstimate": 1235
     },
     {
       "ID": "achievement_03_01",
@@ -9172,7 +9177,7 @@
       "Name": "Brazil - Check!",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 1481
+      "UsersEstimate": 1482
     },
     {
       "ID": "achievement_03_03",
@@ -9180,7 +9185,7 @@
       "Name": "Morocco - Check!",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1234
+      "UsersEstimate": 1235
     },
     {
       "ID": "achievement_03_04",
@@ -9260,15 +9265,15 @@
       "Name": "Gotta go Fast",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 3950
+      "UsersEstimate": 3951
     },
     {
       "ID": "achievement_04_03",
       "SetID": "4f1m94d",
       "Name": "Consolation Trophy",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 4362
+      "UsersEstimate": 4445
     },
     {
       "ID": "achievement_04_04",
@@ -9276,7 +9281,7 @@
       "Name": "Flawless Racer",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 1481
+      "UsersEstimate": 1482
     },
     {
       "ID": "achievement_04_05",
@@ -9284,7 +9289,7 @@
       "Name": "That was a Close Call!",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 2798
+      "UsersEstimate": 2799
     },
     {
       "ID": "achievement_04_06",
@@ -9300,7 +9305,7 @@
       "Name": "Nitro Saver",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 4197
+      "UsersEstimate": 4198
     },
     {
       "ID": "achievement_04_08",
@@ -9308,7 +9313,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 7160
+      "UsersEstimate": 7161
     },
     {
       "ID": "achievement_04_09",
@@ -9323,7 +9328,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 8230,
+      "Progressed": 8231,
       "Completed": 49
     }
   ],
@@ -9331,8 +9336,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2024-01-01T09:58:42.2285208+00:00",
-  "LastChanged_Achievements": "2024-01-03T03:04:41.5458611+00:00",
+  "LastChanged_Achievements": "2024-01-03T04:04:21.6377812+00:00",
   "LastUpdate_AppInfo": "2023-12-29T01:33:51.636956+00:00",
-  "LastUpdate_Ratings": "2024-01-03T02:59:52.0487135+00:00",
-  "LastUpdate_Achievements": "2024-01-03T03:04:41.545922+00:00"
+  "LastUpdate_Ratings": "2024-01-03T03:59:31.0242179+00:00",
+  "LastUpdate_Achievements": "2024-01-03T04:04:21.6378366+00:00"
 }

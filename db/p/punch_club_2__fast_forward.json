@@ -2221,9 +2221,9 @@
       "ID": "any_stat_5",
       "SetID": "69co12a",
       "Name": "Fitness professional",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 377
+      "UsersEstimate": 383
     },
     {
       "ID": "buy_trainer",
@@ -2445,9 +2445,9 @@
       "ID": "met_k",
       "SetID": "69co12a",
       "Name": "Depressed visitor",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 388
+      "UsersEstimate": 393
     },
     {
       "ID": "mick_house",
@@ -2684,8 +2684,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2024-01-03T03:10:04.4290306+00:00",
+  "LastChanged_Achievements": "2024-01-03T04:09:48.7952717+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:36.4340723+00:00",
-  "LastUpdate_Ratings": "2024-01-03T03:00:52.6958984+00:00",
-  "LastUpdate_Achievements": "2024-01-03T03:10:04.4291075+00:00"
+  "LastUpdate_Ratings": "2024-01-03T04:02:37.4287727+00:00",
+  "LastUpdate_Achievements": "2024-01-03T04:09:48.7953477+00:00"
 }

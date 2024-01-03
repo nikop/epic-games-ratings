@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 942,
+  "EOS_Progressed": 943,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
@@ -4057,6 +4057,11 @@
       "Time": "2024-01-03T00:10:53.283319+00:00",
       "NumProgressed": 942,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T04:09:43.9595065+00:00",
+      "NumProgressed": 943,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -4082,9 +4087,9 @@
       "ID": "5CustomDishesMenus",
       "SetID": "d1bm05f",
       "Name": "Culinary Arts",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 28
     },
     {
       "ID": "5OvenDishesMenu",
@@ -4244,7 +4249,7 @@
       "Name": "The Big Day",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "Packing20",
@@ -4324,7 +4329,7 @@
       "Name": "You\u0027re the Expert!",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "TrattoriaSet",
@@ -4387,7 +4392,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 942,
+      "Progressed": 943,
       "Completed": 0
     }
   ],
@@ -4395,8 +4400,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2024-01-03T03:09:59.3722771+00:00",
+  "LastChanged_Achievements": "2024-01-03T04:09:43.9595061+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.9361067+00:00",
-  "LastUpdate_Ratings": "2024-01-03T02:58:14.9463262+00:00",
-  "LastUpdate_Achievements": "2024-01-03T03:09:59.3723188+00:00"
+  "LastUpdate_Ratings": "2024-01-03T03:57:56.2865933+00:00",
+  "LastUpdate_Achievements": "2024-01-03T04:09:43.9595644+00:00"
 }

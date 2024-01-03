@@ -35,18 +35,19 @@
 | The Professor | 29.00% | ~1,043 |
 | Head Hunter | 29.00% | ~1,043 |
 | The Archangel | 28.00% | ~1,007 |
-| Operative | 27.00% | ~971 |
+| Operative | 28.00% | ~1,007 |
 | The Convict | 26.00% | ~935 |
 | The Krogan | 26.00% | ~935 |
 | Power Full | 26.00% | ~935 |
 | Colony Defense | 25.00% | ~900 |
 | Broke, Blind, and Bedlam | 25.00% | ~900 |
 | Veteran | 24.00% | ~864 |
+| Driven | 24.00% | ~864 |
 | Ghost Ship | 23.00% | ~828 |
 | The Assassin | 23.00% | ~828 |
-| Driven | 23.00% | ~828 |
 | The Justicar | 22.00% | ~792 |
 | The Quarian | 22.00% | ~792 |
+| Catharsis | 22.00% | ~792 |
 | The Prodigal | 22.00% | ~792 |
 | Galactic Explorer | 22.00% | ~792 |
 | Revenge! | 22.00% | ~792 |
@@ -54,7 +55,6 @@
 | A Personal Touch | 21.00% | ~756 |
 | Archivist | 21.00% | ~756 |
 | Battlemaster | 21.00% | ~756 |
-| Catharsis | 21.00% | ~756 |
 | Fade Away | 21.00% | ~756 |
 | Ghost of the Father | 21.00% | ~756 |
 | The Cure | 21.00% | ~756 |

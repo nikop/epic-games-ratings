@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2525,
+  "EOS_Progressed": 2526,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 301,
+  "EOS_NewPlayers": 302,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7014,6 +7014,11 @@
       "Time": "2024-01-03T02:31:16.8322079+00:00",
       "NumProgressed": 2525,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-03T04:10:12.3023781+00:00",
+      "NumProgressed": 2526,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -7074,7 +7079,7 @@
       "Name": "The Force is strong with this one",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "achievement_16",
@@ -7082,7 +7087,7 @@
       "Name": "I\u0027ve been waiting for you",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "achievement_17",
@@ -7106,7 +7111,7 @@
       "Name": "When 900 years old you reach...",
       "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "achievement_2",
@@ -7146,7 +7151,7 @@
       "Name": "Determined",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "achievement_24",
@@ -7178,7 +7183,7 @@
       "Name": "Your journey has only started",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "achievement_28",
@@ -7210,7 +7215,7 @@
       "Name": "Precision shot",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "achievement_31",
@@ -7250,7 +7255,7 @@
       "Name": "New Recruit",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 2197
+      "UsersEstimate": 2198
     },
     {
       "ID": "achievement_36",
@@ -7290,7 +7295,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_40",
@@ -7298,7 +7303,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1313
+      "UsersEstimate": 1314
     },
     {
       "ID": "achievement_41",
@@ -7330,7 +7335,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "achievement_45",
@@ -7418,7 +7423,7 @@
       "Name": "That\u0027s no moon",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "achievement_55",
@@ -7474,7 +7479,7 @@
       "Name": "What will you become?",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "achievement_61",
@@ -7529,13 +7534,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2525,
+      "Progressed": 2526,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2525,
+      "Progressed": 2526,
       "Completed": 1
     }
   ],
@@ -7543,8 +7548,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-03T03:10:28.7762755+00:00",
+  "LastChanged_Achievements": "2024-01-03T04:10:12.3023778+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:19.759459+00:00",
-  "LastUpdate_Ratings": "2024-01-03T02:59:40.8259075+00:00",
-  "LastUpdate_Achievements": "2024-01-03T03:10:28.7763532+00:00"
+  "LastUpdate_Ratings": "2024-01-03T03:59:19.275773+00:00",
+  "LastUpdate_Achievements": "2024-01-03T04:10:12.3024565+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "043ffc92cbd64a9fbc350ea68f415937",
   "Name": "Arcadegeddon",
   "ProductSlug": "arcadegeddon",
-  "Ranking_Rating": 632,
+  "Ranking_Rating": 633,
   "Ranking_Popularity": 419,
   "Ranking_PopularitySum": 338,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
@@ -834,7 +834,7 @@
   ],
   "EOS_Progressed": 10233,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13853,9 +13853,9 @@
       "ID": "ACH_HACKS_IN_STACKS",
       "SetID": "97mcd7i",
       "Name": "Hacks In Stacks",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 5321
+      "UsersEstimate": 5423
     },
     {
       "ID": "ACH_HERE_COMES_A_NEW_CHALLENGER",
@@ -14149,8 +14149,8 @@
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-12-06T04:01:07.9880717+00:00",
-  "LastChanged_Achievements": "2024-01-03T03:05:07.6570438+00:00",
+  "LastChanged_Achievements": "2024-01-03T04:04:47.2777079+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:28.3971436+00:00",
-  "LastUpdate_Ratings": "2024-01-03T03:03:14.0187231+00:00",
-  "LastUpdate_Achievements": "2024-01-03T03:05:07.6571478+00:00"
+  "LastUpdate_Ratings": "2024-01-03T04:02:56.3211938+00:00",
+  "LastUpdate_Achievements": "2024-01-03T04:04:47.2778235+00:00"
 }

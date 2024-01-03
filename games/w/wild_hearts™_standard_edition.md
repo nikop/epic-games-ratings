@@ -8,7 +8,7 @@
 | Hidden History | 71.00% | ~772 |
 | Commencing of Quests | 61.00% | ~663 |
 | Budding Conjuror | 59.00% | ~641 |
-| Man-Machine Master | 48.00% | ~522 |
+| Man-Machine Master | 49.00% | ~533 |
 | Mountain Splitter | 48.00% | ~522 |
 | Charmed by the Hunt | 48.00% | ~522 |
 | Subsistence Skills | 47.00% | ~511 |
@@ -42,7 +42,7 @@
 | Karakuri Minato | 14.00% | ~152 |
 | Canyon of Karakuri | 13.00% | ~141 |
 | Jack of All Trades | 12.00% | ~130 |
-| Karakuri Fortress | 10.00% | ~109 |
+| Karakuri Fortress | 11.00% | ~120 |
 | Haven Hunter | 10.00% | ~109 |
 | Volatile Vocation | 9.00% | ~98 |
 | Tender Touch | 9.00% | ~98 |

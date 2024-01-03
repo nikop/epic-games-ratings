@@ -680,9 +680,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 64558,
+  "EOS_Progressed": 64559,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 1740,
+  "EOS_NewPlayers": 1729,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -15520,6 +15520,11 @@
       "Time": "2024-01-03T03:04:24.640167+00:00",
       "NumProgressed": 64558,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2024-01-03T04:04:05.1770613+00:00",
+      "NumProgressed": 64559,
+      "NumCompleted": 63
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -15660,7 +15665,7 @@
       "Name": "Encyclopedist",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3873
+      "UsersEstimate": 3874
     },
     {
       "ID": "FERN",
@@ -15724,7 +15729,7 @@
       "Name": "Witch",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3873
+      "UsersEstimate": 3874
     },
     {
       "ID": "INITIATION",
@@ -15796,7 +15801,7 @@
       "Name": "Old Spirits",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3873
+      "UsersEstimate": 3874
     },
     {
       "ID": "ONOMASTIKON_ITEMS",
@@ -15836,7 +15841,7 @@
       "Name": "Sinner",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3873
+      "UsersEstimate": 3874
     },
     {
       "ID": "SUSANIN",
@@ -15868,7 +15873,7 @@
       "Name": "Folklorist",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3873
+      "UsersEstimate": 3874
     },
     {
       "ID": "TRAVELLER",
@@ -15924,22 +15929,22 @@
       "Name": "Keeper of Knowledge",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3873
+      "UsersEstimate": 3874
     }
   ],
   "AchievementSets": [
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 64558,
+      "Progressed": 64559,
       "Completed": 63
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-12-26T15:58:19.0277627+00:00",
-  "LastChanged_Achievements": "2024-01-03T03:04:24.6401665+00:00",
+  "LastChanged_Achievements": "2024-01-03T04:04:05.177061+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:18.2621134+00:00",
-  "LastUpdate_Ratings": "2024-01-03T02:58:33.5674126+00:00",
-  "LastUpdate_Achievements": "2024-01-03T03:04:24.6402929+00:00"
+  "LastUpdate_Ratings": "2024-01-03T03:58:15.4428455+00:00",
+  "LastUpdate_Achievements": "2024-01-03T04:04:05.1771559+00:00"
 }

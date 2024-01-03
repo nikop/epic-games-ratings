@@ -4,7 +4,7 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 460,
+  "EOS_Progressed": 461,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -1949,6 +1949,11 @@
       "Time": "2024-01-02T23:05:12.0217482+00:00",
       "NumProgressed": 460,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-03T04:04:24.8954124+00:00",
+      "NumProgressed": 461,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -1961,7 +1966,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 90,
       "XP": 50,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -1969,7 +1974,7 @@
       "Name": "Design Engineer",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "BRING_MARY",
@@ -2001,7 +2006,7 @@
       "Name": "Fisherman",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -2017,7 +2022,7 @@
       "Name": "Off on an Expedition!",
       "Percentage": 64,
       "XP": 50,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -2081,7 +2086,7 @@
       "Name": "Bridge Builder",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "SLEEP_50_HOURS",
@@ -2105,7 +2110,7 @@
       "Name": "Uppies!",
       "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -2113,21 +2118,21 @@
       "Name": "Strong Signal",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     }
   ],
   "AchievementSets": [
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 460,
+      "Progressed": 461,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2024-01-03T03:04:44.7867911+00:00",
+  "LastChanged_Achievements": "2024-01-03T04:04:24.8954121+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:54.5394751+00:00",
-  "LastUpdate_Ratings": "2024-01-03T03:03:10.7259883+00:00",
-  "LastUpdate_Achievements": "2024-01-03T03:04:44.7868127+00:00"
+  "LastUpdate_Ratings": "2024-01-03T04:02:52.5346957+00:00",
+  "LastUpdate_Achievements": "2024-01-03T04:04:24.895439+00:00"
 }

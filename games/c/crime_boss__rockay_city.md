@@ -8,8 +8,8 @@ Rating: 3.96 (Ranked 1,051)
 | Neophyte Ninja | 4.00% | ~3,717 |
 | First One’s Free | 4.00% | ~3,717 |
 | Downed but Not Outed | 4.00% | ~3,717 |
-| Too Old for This | 3.00% | ~2,787 |
-| Fancy Pants | 3.00% | ~2,787 |
+| Too Old for This | 3.00% | ~2,788 |
+| Fancy Pants | 3.00% | ~2,788 |
 | Underworld Initiate | 2.00% | ~1,858 |
 | Roid Ranger | 2.00% | ~1,858 |
 | Case Closed | 2.00% | ~1,858 |
@@ -24,10 +24,10 @@ Rating: 3.96 (Ranked 1,051)
 | Headhunter | 0.90% | ~836 |
 | I Like Trains | 0.80% | ~743 |
 | Freebooter | 0.80% | ~743 |
-| Legend Looter | 0.60% | ~557 |
-| Foo Finder | 0.60% | ~557 |
-| Moneybags | 0.60% | ~557 |
-| Ding Dong | 0.60% | ~557 |
+| Legend Looter | 0.60% | ~558 |
+| Foo Finder | 0.60% | ~558 |
+| Moneybags | 0.60% | ~558 |
+| Ding Dong | 0.60% | ~558 |
 | Imports and Exports | 0.50% | ~465 |
 | Savvy Seeker | 0.50% | ~465 |
 | Olympus Ascended | 0.50% | ~465 |
@@ -47,7 +47,7 @@ Rating: 3.96 (Ranked 1,051)
 | Full House | 0.10% | ~93 |
 | Geek Out | 0.10% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92,915 (Ranked 101)  
+Progressed: 92,918 (Ranked 101)  
 Completed: 58 (0.06%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 58 (0.06%) (Ranked 326)
 | 2023-12-31 | 92,813 | 58 |
 | 2024-01-01 | 92,863 | 58 |
 | 2024-01-02 | 92,910 | 58 |
-| 2024-01-03 | 92,915 | 58 |
+| 2024-01-03 | 92,918 | 58 |
 ## Awards
 Max (Diverse Characters): 588  (Ranked 209)  
 Sum: 2,775 (Ranked 191)  

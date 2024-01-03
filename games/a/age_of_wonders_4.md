@@ -5,7 +5,7 @@ Rating: 4.62 (Ranked 375)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 14.00% | ~944 |
+| Secret Technique | 14.00% | ~945 |
 | Realm Estate | 12.00% | ~810 |
 | A Wonderful Discovery | 11.00% | ~742 |
 | Walls Cannot Stop Us | 11.00% | ~742 |
@@ -21,9 +21,9 @@ Rating: 4.62 (Ranked 375)
 | Intimidation Tactics | 5.00% | ~337 |
 | But this one is mine | 5.00% | ~337 |
 | Return of the Wizard King | 4.00% | ~270 |
+| Digging for Treasure | 4.00% | ~270 |
 | My Final Form | 4.00% | ~270 |
 | Enchanted Archipelago | 3.00% | ~202 |
-| Digging for Treasure | 3.00% | ~202 |
 | Preparation Is Everything | 3.00% | ~202 |
 | Fiery Friend | 3.00% | ~202 |
 | Against the Odds | 3.00% | ~202 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 375)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,746 (Ranked 196)  
+Progressed: 6,747 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,10 +292,10 @@ Completed: 7 (0.10%) (Ranked 304)
 | 2023-12-31 | 6,624 | 7 |
 | 2024-01-01 | 6,687 | 7 |
 | 2024-01-02 | 6,742 | 7 |
-| 2024-01-03 | 6,746 | 7 |
+| 2024-01-03 | 6,747 | 7 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 477)  
-Sum: 207 (Ranked 409)  
+Sum: 208 (Ranked 409)  
 Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
@@ -303,8 +303,8 @@ Diff (max vs sum): 68
 | This game has Diverse Characters | 38 |
 | This game is Extremely Fun | 26 |
 | This game is Highly Recommended | 22 |
+| This game has Amazing Storytelling | 21 |
 | This game has Quickly Understood Controls | 21 |
-| This game has Amazing Storytelling | 20 |
 | This game has Challenging Combat | 20 |
 | This game has Beautiful Visuals | 20 |
 ## Ratings History
@@ -392,3 +392,4 @@ Diff (max vs sum): 68
 | 2023-12-31 | 4.63 | 39 | 184 |
 | 2024-01-01 | 4.62 | 39 | 184 |
 | 2024-01-02 | 4.62 | 40 | 207 |
+| 2024-01-03 | 4.62 | 40 | 208 |
