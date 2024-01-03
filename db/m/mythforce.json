@@ -6,9 +6,9 @@
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 379,
   "Ranking_EOS_Progress": 199,
-  "Ranking_EOS_Completed": 321,
+  "Ranking_EOS_Completed": 322,
   "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -848,7 +848,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6045,
+  "EOS_Progressed": 6046,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
@@ -12448,6 +12448,11 @@
       "Time": "2024-01-03T11:06:18.8108878+00:00",
       "NumProgressed": 6045,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-03T16:03:13.4972824+00:00",
+      "NumProgressed": 6046,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -12516,7 +12521,7 @@
       "Name": "First Strike",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1270
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -12572,7 +12577,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1390
+      "UsersEstimate": 1391
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -12596,7 +12601,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1511
+      "UsersEstimate": 1512
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -12628,7 +12633,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 1511
+      "UsersEstimate": 1512
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -12643,15 +12648,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6045,
+      "Progressed": 6046,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-26T21:58:46.0180606+00:00",
-  "LastChanged_Achievements": "2024-01-03T15:03:59.7427002+00:00",
+  "LastChanged_Achievements": "2024-01-03T16:03:13.497282+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:44.5580896+00:00",
-  "LastUpdate_Ratings": "2024-01-03T15:00:01.9333487+00:00",
-  "LastUpdate_Achievements": "2024-01-03T15:03:59.742793+00:00"
+  "LastUpdate_Ratings": "2024-01-03T15:58:55.5268656+00:00",
+  "LastUpdate_Achievements": "2024-01-03T16:03:13.4973657+00:00"
 }

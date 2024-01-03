@@ -193,9 +193,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8237,
+  "EOS_Progressed": 8238,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 324,
+  "EOS_NewPlayers": 323,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -9043,6 +9043,11 @@
       "Time": "2024-01-03T14:04:45.347928+00:00",
       "NumProgressed": 8237,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2024-01-03T16:04:25.9217598+00:00",
+      "NumProgressed": 8238,
+      "NumCompleted": 49
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -9063,7 +9068,7 @@
       "Name": "Tournament Star",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 1647
+      "UsersEstimate": 1648
     },
     {
       "ID": "achievement_01_03",
@@ -9071,7 +9076,7 @@
       "Name": "Brand New Ride",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 5354
+      "UsersEstimate": 5355
     },
     {
       "ID": "achievement_01_04",
@@ -9087,7 +9092,7 @@
       "Name": "Automotive Stylist",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 4036
+      "UsersEstimate": 4037
     },
     {
       "ID": "achievement_01_06",
@@ -9095,7 +9100,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4942
+      "UsersEstimate": 4943
     },
     {
       "ID": "achievement_01_07",
@@ -9159,7 +9164,7 @@
       "Name": "Master Champion",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "achievement_02_05",
@@ -9183,7 +9188,7 @@
       "Name": "Whale of a Time",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 4036
+      "UsersEstimate": 4037
     },
     {
       "ID": "achievement_02_08",
@@ -9231,7 +9236,7 @@
       "Name": "Thailand - Check!",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "achievement_03_06",
@@ -9263,7 +9268,7 @@
       "Name": "Golden Master Champion",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "achievement_03_10",
@@ -9279,7 +9284,7 @@
       "Name": "Japan - Check!",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "achievement_04_01",
@@ -9303,7 +9308,7 @@
       "Name": "Consolation Trophy",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 4448
+      "UsersEstimate": 4449
     },
     {
       "ID": "achievement_04_04",
@@ -9343,7 +9348,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 7166
+      "UsersEstimate": 7167
     },
     {
       "ID": "achievement_04_09",
@@ -9358,7 +9363,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 8237,
+      "Progressed": 8238,
       "Completed": 49
     }
   ],
@@ -9366,8 +9371,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2024-01-01T09:58:42.2285208+00:00",
-  "LastChanged_Achievements": "2024-01-03T15:05:35.1614598+00:00",
+  "LastChanged_Achievements": "2024-01-03T16:04:25.9217596+00:00",
   "LastUpdate_AppInfo": "2023-12-29T01:33:51.636956+00:00",
-  "LastUpdate_Ratings": "2024-01-03T15:01:02.8408964+00:00",
-  "LastUpdate_Achievements": "2024-01-03T15:05:35.1615355+00:00"
+  "LastUpdate_Ratings": "2024-01-03T15:59:38.0886229+00:00",
+  "LastUpdate_Achievements": "2024-01-03T16:04:25.921822+00:00"
 }

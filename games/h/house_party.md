@@ -23,8 +23,8 @@ Number of Ratings: 177  (23.09.2022)
 | Social Butterfly | 1.00% | ~71 |
 | The Muse: Madison | 1.00% | ~71 |
 | It Smells Like Roses | 0.80% | ~33 |
-| Smooth Operator: Ashley | 0.80% | ~56 |
-| The Crush | 0.80% | ~56 |
+| Smooth Operator: Ashley | 0.80% | ~57 |
+| The Crush | 0.80% | ~57 |
 | Amy: Scavenger Hunt | 0.70% | ~49 |
 | Casanova | 0.70% | ~49 |
 | Deck the Balls | 0.70% | ~29 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Most Wonderful Time of the Year | 0.10% | ~4 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,062 (Ranked 193)  
+Progressed: 7,063 (Ranked 193)  
 Completed: 3 (0.04%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 3 (0.04%) (Ranked 344)
 | 2023-12-31 | 7,008 | 3 |
 | 2024-01-01 | 7,031 | 3 |
 | 2024-01-02 | 7,052 | 3 |
-| 2024-01-03 | 7,062 | 3 |
+| 2024-01-03 | 7,063 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -11,9 +11,9 @@
 | Watched a movie | 21.00% | ~3 |
 | Skiing Pro | 14.00% | ~2 |
 | Darts Pro | 7.00% | ~1 |
+| Crown | 7.00% | ~1 |
 | Diving Pro | 0.00% | ~0 |
 | Trampolining Pro | 0.00% | ~0 |
-| Crown | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 14 (Ranked 637)  
 Completed: 0 (0.00%) (Ranked 391)  

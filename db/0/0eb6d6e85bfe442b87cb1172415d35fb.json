@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 525,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 476,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-01T10:00:00+00:00",
     "PcReleaseDate": "2021-03-04T18:00:00+00:00",
@@ -407,9 +407,9 @@
       "ID": "FiveThousand",
       "SetID": "d11cl5p",
       "Name": "0.005 million",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Hedda",
@@ -638,8 +638,8 @@
   ],
   "FirstSeen": "2023-09-02T13:02:28.4911547+00:00",
   "FirstSeenAchievements": "2023-07-27T10:02:52.8790419+00:00",
-  "LastChanged_Achievements": "2024-01-03T15:04:23.148834+00:00",
+  "LastChanged_Achievements": "2024-01-03T16:03:31.1062708+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:53.8733503+00:00",
-  "LastUpdate_Ratings": "2024-01-03T14:58:33.7512708+00:00",
-  "LastUpdate_Achievements": "2024-01-03T15:04:23.1488573+00:00"
+  "LastUpdate_Ratings": "2024-01-03T15:57:54.5560651+00:00",
+  "LastUpdate_Achievements": "2024-01-03T16:03:31.1062928+00:00"
 }

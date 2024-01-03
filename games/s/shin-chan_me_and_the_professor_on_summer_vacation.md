@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Greengrocer | 29.00% | ~12 |
-| Cabbage in the Baggage | 27.00% | ~11 |
-| Seven Days of Endless Adventure | 22.00% | ~9 |
+| Cabbage in the Baggage | 26.00% | ~11 |
+| Seven Days of Endless Adventure | 21.00% | ~9 |
 | Masu-ter Angler | 17.00% | ~7 |
 | Go-Getter | 17.00% | ~7 |
 | River Cleaner | 17.00% | ~7 |
-| Handyman Extraordinaire | 15.00% | ~6 |
+| Handyman Extraordinaire | 14.00% | ~6 |
 | Seven Days of Endless Adventure - Déjà Vu | 12.00% | ~5 |
 | Just Hoverin' Along | 12.00% | ~5 |
 | What's That Smell? | 12.00% | ~5 |
@@ -51,7 +51,7 @@
 | Did Someone Order Katsu Curry? | 0.00% | ~0 |
 | Dinosaur Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41 (Ranked 567)  
+Progressed: 42 (Ranked 566)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,6 +74,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-10-10 | 39 | 0 |
 | 2023-12-01 | 40 | 0 |
 | 2023-12-27 | 41 | 0 |
+| 2024-01-03 | 42 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

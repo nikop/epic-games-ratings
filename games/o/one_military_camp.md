@@ -10,8 +10,8 @@
 | Green Energy | 12.00% | ~33 |
 | There's something in those trees | 11.00% | ~30 |
 | Great Producer | 11.00% | ~30 |
-| Desert Power | 10.00% | ~27 |
-| Indebted | 10.00% | ~27 |
+| Desert Power | 10.00% | ~28 |
+| Indebted | 10.00% | ~28 |
 | Health Care | 9.00% | ~25 |
 | Perfect Soldier | 8.00% | ~22 |
 | Desert Rat | 8.00% | ~22 |
@@ -33,7 +33,7 @@
 | No News is Good News | 3.00% | ~8 |
 | Human Resources | 3.00% | ~8 |
 | Training Camp | 3.00% | ~8 |
-| Winter Soldier | 2.00% | ~5 |
+| Winter Soldier | 2.00% | ~6 |
 | Economist | 1.00% | ~3 |
 | Crisis Committee | 1.00% | ~3 |
 | Snowman | 1.00% | ~3 |
@@ -49,7 +49,7 @@
 | First Victory | 0.00% | ~0 |
 | Sandbox Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 274 (Ranked 401)  
+Progressed: 275 (Ranked 401)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,4 +142,4 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-31 | 262 | 0 |
 | 2024-01-01 | 265 | 0 |
 | 2024-01-02 | 269 | 0 |
-| 2024-01-03 | 274 | 0 |
+| 2024-01-03 | 275 | 0 |

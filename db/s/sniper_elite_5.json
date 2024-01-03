@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 260,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -655,9 +655,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 4195,
+  "EOS_Progressed": 4196,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -9325,6 +9325,11 @@
       "Time": "2024-01-03T13:13:45.4226347+00:00",
       "NumProgressed": 4195,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-03T16:09:17.3402844+00:00",
+      "NumProgressed": 4196,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9544,7 +9549,7 @@
       "Name": "Lord of War",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1300
+      "UsersEstimate": 1301
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -9584,7 +9589,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1552
+      "UsersEstimate": 1553
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -9648,7 +9653,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1426
+      "UsersEstimate": 1427
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -9672,7 +9677,7 @@
       "Name": "Change the Channel",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1342
+      "UsersEstimate": 1343
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -9704,7 +9709,7 @@
       "Name": "Taking it back",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1258
+      "UsersEstimate": 1259
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -9903,13 +9908,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4146,
+      "Progressed": 4147,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4195,
+      "Progressed": 4196,
       "Completed": 11
     }
   ],
@@ -9917,8 +9922,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-31T17:57:21.8483577+00:00",
-  "LastChanged_Achievements": "2024-01-03T15:10:24.2470765+00:00",
+  "LastChanged_Achievements": "2024-01-03T16:09:17.3402841+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:41.6601563+00:00",
-  "LastUpdate_Ratings": "2024-01-03T14:59:35.9413115+00:00",
-  "LastUpdate_Achievements": "2024-01-03T15:10:24.2472103+00:00"
+  "LastUpdate_Ratings": "2024-01-03T15:58:38.4357161+00:00",
+  "LastUpdate_Achievements": "2024-01-03T16:09:17.3403982+00:00"
 }

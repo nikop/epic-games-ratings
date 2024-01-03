@@ -5,20 +5,20 @@ Rating: 4.06 (Ranked 1,025)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,834 |
-| World Map | 78.00% | ~3,216 |
-| Temple of Eternals | 56.00% | ~2,309 |
-| Prestigious | 52.00% | ~2,144 |
-| Fellowship Power | 41.00% | ~1,690 |
-| Full Party | 27.00% | ~1,113 |
-| Guild Power | 23.00% | ~948 |
+| Victor | 93.00% | ~3,836 |
+| World Map | 78.00% | ~3,218 |
+| Temple of Eternals | 56.00% | ~2,310 |
+| Prestigious | 52.00% | ~2,145 |
+| Fellowship Power | 41.00% | ~1,691 |
+| Full Party | 27.00% | ~1,114 |
+| Guild Power | 23.00% | ~949 |
 | Prestigious x10 | 20.00% | ~825 |
 | The game is on | 18.00% | ~742 |
 | Exotic Merchant | 16.00% | ~660 |
-| Dragon Clicker | 15.00% | ~618 |
-| Miner Clicker | 15.00% | ~618 |
-| Enlightenment | 14.00% | ~577 |
-| Inspection | 14.00% | ~577 |
+| Dragon Clicker | 15.00% | ~619 |
+| Miner Clicker | 15.00% | ~619 |
+| Enlightenment | 14.00% | ~578 |
+| Inspection | 14.00% | ~578 |
 | Dragon Master | 13.00% | ~536 |
 | Hero inspection | 13.00% | ~536 |
 | Lieutenant | 12.00% | ~495 |
@@ -43,10 +43,10 @@ Rating: 4.06 (Ranked 1,025)
 | Master Enchanter | 7.00% | ~289 |
 | The father of Dragons | 7.00% | ~289 |
 | Trader | 7.00% | ~289 |
-| Dragon Slayer | 6.00% | ~247 |
-| Enchanting skill | 6.00% | ~247 |
-| The Expeditioner | 6.00% | ~247 |
-| Weekly Quest Completionist | 6.00% | ~247 |
+| Dragon Slayer | 6.00% | ~248 |
+| Enchanting skill | 6.00% | ~248 |
+| The Expeditioner | 6.00% | ~248 |
+| Weekly Quest Completionist | 6.00% | ~248 |
 | Blueprint Upgrades | 5.00% | ~206 |
 | Crystal Mining | 5.00% | ~206 |
 | Engineer Mastery | 5.00% | ~206 |
@@ -81,7 +81,7 @@ Rating: 4.06 (Ranked 1,025)
 | Jewel Enchanting | 0.10% | ~4 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,123 (Ranked 209)  
+Progressed: 4,125 (Ranked 209)  
 Completed: 2 (0.05%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,7 +334,7 @@ Completed: 2 (0.05%) (Ranked 333)
 | 2023-12-31 | 4,033 | 2 |
 | 2024-01-01 | 4,079 | 2 |
 | 2024-01-02 | 4,107 | 2 |
-| 2024-01-03 | 4,123 | 2 |
+| 2024-01-03 | 4,125 | 2 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 477)  
 Sum: 154 (Ranked 438)  

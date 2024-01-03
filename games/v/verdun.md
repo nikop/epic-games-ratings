@@ -6,25 +6,25 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~53,366 |
-| Worth it | 63.00% | ~43,103 |
-| Eagle Eye | 55.00% | ~37,630 |
-| Corpseman I | 39.00% | ~26,683 |
-| Blast fishing | 37.00% | ~25,315 |
-| Not alone | 32.00% | ~21,894 |
-| Headhunter I | 26.00% | ~17,789 |
-| Manual Labour I | 25.00% | ~17,104 |
-| Developers, Developers, Developers | 24.00% | ~16,420 |
-| Basic Training | 23.00% | ~15,736 |
-| Furchtlos und Treu | 13.00% | ~8,894 |
-| Gott Mit Uns | 12.00% | ~8,210 |
+| Setting an example | 78.00% | ~53,372 |
+| Worth it | 63.00% | ~43,108 |
+| Eagle Eye | 55.00% | ~37,634 |
+| Corpseman I | 39.00% | ~26,686 |
+| Blast fishing | 37.00% | ~25,317 |
+| Not alone | 32.00% | ~21,896 |
+| Headhunter I | 26.00% | ~17,790 |
+| Manual Labour I | 25.00% | ~17,106 |
+| Developers, Developers, Developers | 24.00% | ~16,422 |
+| Basic Training | 23.00% | ~15,738 |
+| Furchtlos und Treu | 13.00% | ~8,895 |
+| Gott Mit Uns | 12.00% | ~8,211 |
 | This We'll Defend! | 9.00% | ~6,158 |
 | Providentiea Memor | 9.00% | ~6,158 |
 | For King and Country | 9.00% | ~6,158 |
-| Battle hardened | 8.00% | ~5,473 |
-| Anker wirf! | 8.00% | ~5,473 |
-| Semper Fidelis! | 7.00% | ~4,789 |
-| Honneur et Patrie | 7.00% | ~4,789 |
+| Battle hardened | 8.00% | ~5,474 |
+| Anker wirf! | 8.00% | ~5,474 |
+| Semper Fidelis! | 7.00% | ~4,790 |
+| Honneur et Patrie | 7.00% | ~4,790 |
 | In Treue Fest | 5.00% | ~3,421 |
 | Voor De Koning | 5.00% | ~3,421 |
 | Extreme Headhunter | 5.00% | ~3,421 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~68 |
 | Blood Brother | 0.10% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,418 (Ranked 114)  
+Progressed: 68,425 (Ranked 114)  
 Completed: 4 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,11 +324,11 @@ Completed: 4 (0.01%) (Ranked 367)
 | 2023-12-31 | 68,140 | 4 |
 | 2024-01-01 | 68,244 | 4 |
 | 2024-01-02 | 68,362 | 4 |
-| 2024-01-03 | 68,418 | 4 |
+| 2024-01-03 | 68,425 | 4 |
 ## Awards
 Max (Highly Recommended): 105  (Ranked 369)  
-Sum: 830 (Ranked 286)  
-Diff (max vs sum): 83  
+Sum: 830 (Ranked 287)  
+Diff (max vs sum): 82  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 106 |

@@ -2,7 +2,7 @@
   "ID": "b9c7474c6bdf4e9ab8ca5a5da60059d4",
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
-  "Ranking_Rating": 468,
+  "Ranking_Rating": 467,
   "Ranking_Popularity": 136,
   "Ranking_PopularitySum": 88,
   "Ranking_EOS_Progress": 72,
@@ -3862,9 +3862,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242285,
+  "EOS_Progressed": 242286,
   "EOS_Completed": 303,
-  "EOS_NewPlayers": 457,
+  "EOS_NewPlayers": 452,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -30562,6 +30562,11 @@
       "Time": "2024-01-03T15:11:21.3065833+00:00",
       "NumProgressed": 242285,
       "NumCompleted": 303
+    },
+    {
+      "Time": "2024-01-03T16:10:01.2391207+00:00",
+      "NumProgressed": 242286,
+      "NumCompleted": 303
     }
   ],
   "TotalAchievements": 138,
@@ -30827,9 +30832,9 @@
       "ID": "FREEZE200",
       "SetID": "5l8oe0h",
       "Name": "Just Chilling",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1211
+      "UsersEstimate": 1454
     },
     {
       "ID": "FREEZE20TIMES",
@@ -31676,13 +31681,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242285,
+      "Progressed": 242286,
       "Completed": 303
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3765,
+      "Progressed": 3766,
       "Completed": 420
     }
   ],
@@ -31690,8 +31695,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-03T13:58:52.5435288+00:00",
-  "LastChanged_Achievements": "2024-01-03T15:11:21.3065829+00:00",
+  "LastChanged_Achievements": "2024-01-03T16:10:01.2391203+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:01.848225+00:00",
-  "LastUpdate_Ratings": "2024-01-03T14:59:12.8298366+00:00",
-  "LastUpdate_Achievements": "2024-01-03T15:11:21.3069051+00:00"
+  "LastUpdate_Ratings": "2024-01-03T15:58:22.2473022+00:00",
+  "LastUpdate_Achievements": "2024-01-03T16:10:01.2394124+00:00"
 }

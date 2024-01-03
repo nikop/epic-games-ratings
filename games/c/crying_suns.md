@@ -6,23 +6,23 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~312,368 |
-| Jeef Skeejj | 44.00% | ~208,245 |
-| Careful planning | 39.00% | ~184,581 |
-| Second Coming | 34.00% | ~160,917 |
+| The Shutdown | 66.00% | ~312,370 |
+| Jeef Skeejj | 44.00% | ~208,247 |
+| Careful planning | 39.00% | ~184,582 |
+| Second Coming | 34.00% | ~160,918 |
 | Jeef Skagg | 30.00% | ~141,986 |
-| Mother | 25.00% | ~118,321 |
-| In space, no one can hear you scream | 24.00% | ~113,588 |
+| Mother | 25.00% | ~118,322 |
+| In space, no one can hear you scream | 24.00% | ~113,589 |
 | Chapter I: Echoes | 22.00% | ~104,123 |
 | Excelsior Rule | 22.00% | ~104,123 |
-| Things persisted in not being what they seemed | 20.00% | ~94,657 |
+| Things persisted in not being what they seemed | 20.00% | ~94,658 |
 | Knightmare Frames | 15.00% | ~70,993 |
 | May His passing cleanse the world | 15.00% | ~70,993 |
 | Chapter II: Fallible Flesh | 15.00% | ~70,993 |
 | Pope Zenon | 15.00% | ~70,993 |
-| Plan for the worst | 12.00% | ~56,794 |
-| Tetsuo | 11.00% | ~52,061 |
-| Chapter III: The Man Who Sold the World | 10.00% | ~47,328 |
+| Plan for the worst | 12.00% | ~56,795 |
+| Tetsuo | 11.00% | ~52,062 |
+| Chapter III: The Man Who Sold the World | 10.00% | ~47,329 |
 | Chapter IV: Through the Looking Glass | 8.00% | ~37,863 |
 | Through the mirror | 8.00% | ~37,863 |
 | General Vivar | 8.00% | ~37,863 |
@@ -31,6 +31,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Admiral Okonkwo | 7.00% | ~33,130 |
 | The Survivalists | 7.00% | ~33,130 |
 | The Tech Specialist | 7.00% | ~33,130 |
+| The Mech Soldier | 7.00% | ~33,130 |
 | Chapter V: Memories of None | 6.00% | ~28,397 |
 | Meet your maker | 6.00% | ~28,397 |
 | The Impersonator | 6.00% | ~28,397 |
@@ -39,7 +40,6 @@ Number of Ratings: 1,003  (23.09.2022)
 | The Inquisitor | 6.00% | ~28,397 |
 | The Ace Pilot | 6.00% | ~28,397 |
 | The Tech Med | 6.00% | ~28,397 |
-| The Mech Soldier | 6.00% | ~28,397 |
 | The lucky charm | 6.00% | ~28,397 |
 | The Anonymous | 6.00% | ~28,397 |
 | The Smuggler | 6.00% | ~28,397 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~17 |
 | Kronos Rule | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 473,285 (Ranked 45)  
+Progressed: 473,288 (Ranked 45)  
 Completed: 21 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -344,7 +344,7 @@ Completed: 21 (0.00%) (Ranked 391)
 | 2023-12-31 | 473,142 | 21 |
 | 2024-01-01 | 473,201 | 21 |
 | 2024-01-02 | 473,262 | 21 |
-| 2024-01-03 | 473,285 | 21 |
+| 2024-01-03 | 473,288 | 21 |
 ## Awards
 Max (Character Customization): 228  (Ranked 284)  
 Sum: 252 (Ranked 397)  

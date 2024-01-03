@@ -5,14 +5,14 @@ Rating: 4.43 (Ranked 719)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~60,125 |
-| This is only the beginning | 20.00% | ~46,250 |
-| Knowledge is power | 13.00% | ~30,062 |
-| Galvanic Rifle | 10.00% | ~23,125 |
-| Radium Ready | 10.00% | ~23,125 |
-| Power Ranger | 9.00% | ~20,812 |
-| Taser Goad | 9.00% | ~20,812 |
-| Half a cog | 9.00% | ~20,812 |
+| No aid from the Omnissiah | 26.00% | ~60,127 |
+| This is only the beginning | 20.00% | ~46,251 |
+| Knowledge is power | 13.00% | ~30,063 |
+| Galvanic Rifle | 10.00% | ~23,126 |
+| Radium Ready | 10.00% | ~23,126 |
+| Power Ranger | 9.00% | ~20,813 |
+| Taser Goad | 9.00% | ~20,813 |
+| Half a cog | 9.00% | ~20,813 |
 | Watch them crumble | 6.00% | ~13,875 |
 | Competent Cohort | 4.00% | ~9,250 |
 | Celestial Cartography Catastrophe | 4.00% | ~9,250 |
@@ -27,10 +27,10 @@ Rating: 4.43 (Ranked 719)
 | Cohortus Maximus | 0.80% | ~1,850 |
 | Mother of Xenarites | 0.40% | ~925 |
 | False God | 0.30% | ~694 |
-| Hard | 0.20% | ~462 |
-| Sensory overload | 0.20% | ~462 |
-| Transonic Blur | 0.20% | ~462 |
-| Not the Men-of-Iron | 0.20% | ~462 |
+| Hard | 0.20% | ~463 |
+| Sensory overload | 0.20% | ~463 |
+| Transonic Blur | 0.20% | ~463 |
+| Not the Men-of-Iron | 0.20% | ~463 |
 | Sterile Perfection | 0.10% | ~231 |
 | Impossible | 0.10% | ~231 |
 | Melee Machine | 0.10% | ~231 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 719)
 | Perma-live | 0.10% | ~231 |
 | Purge the Heretek | 0.10% | ~231 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,250 (Ranked 76)  
+Progressed: 231,256 (Ranked 76)  
 Completed: 5 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 5 (0.00%) (Ranked 391)
 | 2023-12-31 | 231,013 | 5 |
 | 2024-01-01 | 231,120 | 5 |
 | 2024-01-02 | 231,204 | 5 |
-| 2024-01-03 | 231,250 | 5 |
+| 2024-01-03 | 231,256 | 5 |
 ## Awards
 Max (Highly Recommended): 291  (Ranked 264)  
 Sum: 2,223 (Ranked 210)  

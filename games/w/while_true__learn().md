@@ -6,21 +6,21 @@ Number of Ratings: 896  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~573,794 |
-| Error: Stack Overflow | 66.00% | ~407,209 |
-| We need more gold | 61.00% | ~376,360 |
-| The dawn of civilization | 53.00% | ~327,001 |
-| More FPS for the FPS god! | 50.00% | ~308,492 |
-| Beauty and harmony | 48.00% | ~296,152 |
-| One more! | 44.00% | ~271,473 |
-| Overmind | 24.00% | ~148,076 |
-| RNG is my best friend now | 18.00% | ~111,057 |
+| First.. Bit? | 93.00% | ~573,799 |
+| Error: Stack Overflow | 66.00% | ~407,212 |
+| We need more gold | 61.00% | ~376,363 |
+| The dawn of civilization | 53.00% | ~327,004 |
+| More FPS for the FPS god! | 50.00% | ~308,494 |
+| Beauty and harmony | 48.00% | ~296,154 |
+| One more! | 44.00% | ~271,475 |
+| Overmind | 24.00% | ~148,077 |
+| RNG is my best friend now | 18.00% | ~111,058 |
 | Cosplay | 14.00% | ~86,378 |
 | Evolution in progress... | 13.00% | ~80,208 |
 | Step by step | 8.00% | ~49,359 |
-| README reader | 4.00% | ~24,679 |
-| Data scientist | 3.00% | ~18,509 |
-| One small step for a man... | 3.00% | ~18,509 |
+| README reader | 4.00% | ~24,680 |
+| Data scientist | 3.00% | ~18,510 |
+| One small step for a man... | 3.00% | ~18,510 |
 | To see it all, to learn it all | 2.00% | ~12,340 |
 | Evolution complete | 2.00% | ~12,340 |
 | Best deal on the market | 2.00% | ~12,340 |
@@ -35,7 +35,7 @@ Number of Ratings: 896  (23.09.2022)
 | Elements will destroy you! | 0.40% | ~2,468 |
 | The Scrooge | 0.10% | ~617 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 616,983 (Ranked 33)  
+Progressed: 616,988 (Ranked 33)  
 Completed: 564 (0.09%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 564 (0.09%) (Ranked 311)
 | 2023-12-31 | 616,556 | 564 |
 | 2024-01-01 | 616,725 | 564 |
 | 2024-01-02 | 616,887 | 564 |
-| 2024-01-03 | 616,983 | 564 |
+| 2024-01-03 | 616,988 | 564 |
 ## Awards
 Max (Challenging Puzzles): 140  (Ranked 332)  
 Sum: 140 (Ranked 440)  

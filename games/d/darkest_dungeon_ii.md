@@ -6,22 +6,22 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 12.00% | ~760 |
-| Lost and Found | 8.00% | ~507 |
-| This Belongs in a Museum | 6.00% | ~7,888 |
-| Autodidact | 6.00% | ~7,888 |
-| This guy... again? | 6.00% | ~380 |
-| Serenity Now! | 5.00% | ~6,573 |
-| Creep and Sleep | 5.00% | ~6,573 |
-| Catch and Decease | 5.00% | ~6,573 |
-| Overdue Notice | 5.00% | ~6,573 |
-| Escape from the Black Hole | 5.00% | ~6,573 |
+| Malpractice Assurance | 12.00% | ~762 |
+| Lost and Found | 8.00% | ~508 |
+| This Belongs in a Museum | 6.00% | ~7,889 |
+| Autodidact | 6.00% | ~7,889 |
+| This guy... again? | 6.00% | ~381 |
+| Serenity Now! | 5.00% | ~6,574 |
+| Creep and Sleep | 5.00% | ~6,574 |
+| Meat and Greet | 5.00% | ~6,574 |
+| Catch and Decease | 5.00% | ~6,574 |
+| Overdue Notice | 5.00% | ~6,574 |
+| Escape from the Black Hole | 5.00% | ~6,574 |
 | Ploughshares to Swords | 5.00% | ~317 |
 | Bloody Graduation | 5.00% | ~317 |
 | Don't Make Me Turn This Coach Around | 4.00% | ~5,259 |
 | It Rings a Bell | 4.00% | ~5,259 |
 | Not Today! | 4.00% | ~5,259 |
-| Meat and Greet | 4.00% | ~5,259 |
 | It Happens | 4.00% | ~5,259 |
 | Rush Hour | 4.00% | ~5,259 |
 | Merry Time | 4.00% | ~5,259 |
@@ -31,7 +31,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 4.00% | ~5,259 |
 | FNG | 4.00% | ~5,259 |
 | Nope | 4.00% | ~5,259 |
-| Friends 'Til the End | 4.00% | ~253 |
+| Friends 'Til the End | 4.00% | ~254 |
 | Resurrection | 3.00% | ~3,944 |
 | Unleash Hell | 3.00% | ~3,944 |
 | Funny Guy | 3.00% | ~3,944 |
@@ -48,17 +48,17 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Clear Conscience | 3.00% | ~3,944 |
 | Unshackled | 3.00% | ~3,944 |
 | Road Trip | 3.00% | ~3,944 |
-| This Looks Familiar | 2.00% | ~2,629 |
-| Hope Rekindled | 2.00% | ~2,629 |
-| Predator | 2.00% | ~2,629 |
-| Ichthyophobic | 2.00% | ~2,629 |
-| No More Mouths to Feed | 2.00% | ~2,629 |
-| Reverse Banditry | 2.00% | ~2,629 |
-| When You Want Something Done Right | 2.00% | ~2,629 |
-| Worldly Traveller | 2.00% | ~2,629 |
-| Utopia | 2.00% | ~2,629 |
-| Hot Air | 2.00% | ~2,629 |
-| Eyes Up | 2.00% | ~2,629 |
+| This Looks Familiar | 2.00% | ~2,630 |
+| Hope Rekindled | 2.00% | ~2,630 |
+| Predator | 2.00% | ~2,630 |
+| Ichthyophobic | 2.00% | ~2,630 |
+| No More Mouths to Feed | 2.00% | ~2,630 |
+| Reverse Banditry | 2.00% | ~2,630 |
+| When You Want Something Done Right | 2.00% | ~2,630 |
+| Worldly Traveller | 2.00% | ~2,630 |
+| Utopia | 2.00% | ~2,630 |
+| Hot Air | 2.00% | ~2,630 |
+| Eyes Up | 2.00% | ~2,630 |
 | Shrine of Reflection | 1.00% | ~1,315 |
 | Handled | 1.00% | ~1,315 |
 | Body of Work | 1.00% | ~1,315 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,467 (Ranked 90)  
+Progressed: 131,480 (Ranked 90)  
 Completed: 3 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,7 +334,7 @@ Completed: 3 (0.00%) (Ranked 391)
 | 2023-12-31 | 131,026 | 3 |
 | 2024-01-01 | 131,206 | 3 |
 | 2024-01-02 | 131,365 | 3 |
-| 2024-01-03 | 131,467 | 3 |
+| 2024-01-03 | 131,480 | 3 |
 ## Awards
 Max (Character Customization): 7,940  (Ranked 50)  
 Sum: 21,372 (Ranked 58)  

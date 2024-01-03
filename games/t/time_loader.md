@@ -15,10 +15,10 @@
 | Soldering iron | 28.00% | ~39 |
 | Robot Bros | 22.00% | ~30 |
 | Act 2 | 22.00% | ~30 |
+| Act 3 | 20.00% | ~28 |
 | Cassette | 19.00% | ~26 |
 | Harpoon | 19.00% | ~26 |
-| Act 3 | 19.00% | ~26 |
-| Here we go again | 17.00% | ~23 |
+| Here we go again | 18.00% | ~25 |
 | Flyer | 16.00% | ~22 |
 | It’s in the Vault | 14.00% | ~19 |
 | Dr. Antivirus | 14.00% | ~19 |

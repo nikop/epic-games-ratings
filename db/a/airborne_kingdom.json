@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewPlayers": 290,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7724,
+  "EOS_Progressed": 7725,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -6713,6 +6713,11 @@
       "Time": "2024-01-03T15:05:50.746253+00:00",
       "NumProgressed": 7724,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2024-01-03T16:04:37.3156914+00:00",
+      "NumProgressed": 7725,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 27,
@@ -6772,7 +6777,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1699
+      "UsersEstimate": 1700
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -6796,7 +6801,7 @@
       "Name": "Knowledge Seeker",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "AK_KNOWLEDGE_SHARED",
@@ -6828,7 +6833,7 @@
       "Name": "A Peaceful Respite",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "AK_PROPHECY_FULFILLED",
@@ -6876,7 +6881,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4325
+      "UsersEstimate": 4326
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -6939,15 +6944,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7724,
+      "Progressed": 7725,
       "Completed": 59
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2024-01-03T15:05:50.7462527+00:00",
+  "LastChanged_Achievements": "2024-01-03T16:04:37.315691+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:57:02.2887263+00:00",
-  "LastUpdate_Ratings": "2024-01-03T15:03:50.1014626+00:00",
-  "LastUpdate_Achievements": "2024-01-03T15:05:50.7462889+00:00"
+  "LastUpdate_Ratings": "2024-01-03T16:03:05.778449+00:00",
+  "LastUpdate_Achievements": "2024-01-03T16:04:37.3157501+00:00"
 }

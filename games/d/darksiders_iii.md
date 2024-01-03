@@ -52,11 +52,11 @@ Number of Ratings: 116  (23.09.2022)
 | Soul Reaper | 7.00% | ~28 |
 | Humanitarian | 7.00% | ~28 |
 | My Evil Twin | 6.00% | ~24 |
+| Made of Sterner Stuff | 5.00% | ~20 |
 | "Impressive!" | 4.00% | ~16 |
 | Keeper of the Bonfire | 4.00% | ~16 |
 | Keeper of the Vale | 4.00% | ~16 |
 | Keeper of the Sky | 4.00% | ~16 |
-| Made of Sterner Stuff | 4.00% | ~16 |
 | Purity of Power | 3.00% | ~12 |
 | Balance in all things | 3.00% | ~12 |
 | "Incredible!" | 3.00% | ~12 |

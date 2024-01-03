@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1233,
+  "EOS_Progressed": 1235,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 0,
@@ -3102,6 +3102,11 @@
       "Time": "2024-01-03T15:09:09.9168209+00:00",
       "NumProgressed": 1233,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-03T16:08:23.079122+00:00",
+      "NumProgressed": 1235,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -3170,7 +3175,7 @@
       "Name": "Pathfinder",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "CompleteChapter10",
@@ -3192,9 +3197,9 @@
       "ID": "CompleteChapter12",
       "SetID": "52ail55",
       "Name": "Grumblin\u0027 Bellies",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 136
     },
     {
       "ID": "CompleteChapter13",
@@ -3258,7 +3263,7 @@
       "Name": "Met the Enemy",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "CompleteChapter3",
@@ -3266,7 +3271,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "CompleteChapter4",
@@ -3274,7 +3279,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "CompleteChapter5",
@@ -3306,7 +3311,7 @@
       "Name": "Troggoff Troubles",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "CompleteChapter9",
@@ -3362,7 +3367,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "Win100OnlineMatched",
@@ -3409,14 +3414,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 1233,
+      "Progressed": 1235,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2024-01-03T15:09:09.9168204+00:00",
+  "LastChanged_Achievements": "2024-01-03T16:08:23.0791216+00:00",
   "LastUpdate_AppInfo": "2023-12-29T09:57:13.5043463+00:00",
-  "LastUpdate_Ratings": "2024-01-03T15:01:01.3038042+00:00",
-  "LastUpdate_Achievements": "2024-01-03T15:09:09.9168636+00:00"
+  "LastUpdate_Ratings": "2024-01-03T15:59:37.0698707+00:00",
+  "LastUpdate_Achievements": "2024-01-03T16:08:23.0791718+00:00"
 }

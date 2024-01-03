@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Introduction completed | 78.00% | ~29 |
 | Chapter 1 | 46.00% | ~17 |
-| Chapter 2 | 41.00% | ~15 |
+| Chapter 2 | 43.00% | ~16 |
 | Chapter 3 | 38.00% | ~14 |
 | It's In My Nature | 38.00% | ~14 |
 | Chapter 4 | 35.00% | ~13 |

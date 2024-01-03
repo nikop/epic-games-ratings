@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -277,7 +277,7 @@
       "Count": 93
     }
   ],
-  "EOS_Progressed": 1246,
+  "EOS_Progressed": 1247,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
@@ -3482,6 +3482,11 @@
       "Time": "2024-01-03T14:04:12.0185601+00:00",
       "NumProgressed": 1246,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-03T16:03:54.8127198+00:00",
+      "NumProgressed": 1247,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3502,7 +3507,7 @@
       "Name": "Ab Initio",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "AnthropicHills",
@@ -3550,7 +3555,7 @@
       "Name": "Bridge Builder",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "ChasingTheLight",
@@ -3598,15 +3603,15 @@
       "Name": "Eastern Wetlands",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "EcstaticTruth",
       "SetID": "1n308hc",
       "Name": "Ecstatic Truth",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 87
+      "UsersEstimate": 100
     },
     {
       "ID": "Excellent",
@@ -3678,7 +3683,7 @@
       "Name": "Lord of the Files",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "LostMarshes",
@@ -3710,7 +3715,7 @@
       "Name": "Museum Explorer",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "MuseumVisitor",
@@ -3782,7 +3787,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "RenaissanceRobot",
@@ -3852,9 +3857,9 @@
       "ID": "TheAllGifted",
       "SetID": "1n308hc",
       "Name": "The All-Gifted",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 224
+      "UsersEstimate": 237
     },
     {
       "ID": "TheEdgeOfForever",
@@ -3950,7 +3955,7 @@
       "Name": "Wooded Plateau",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "YourBiggestFan",
@@ -3965,7 +3970,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1246,
+      "Progressed": 1247,
       "Completed": 2
     }
   ],
@@ -3973,8 +3978,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-03T15:00:44.4057345+00:00",
-  "LastChanged_Achievements": "2024-01-03T15:04:53.979305+00:00",
+  "LastChanged_Achievements": "2024-01-03T16:03:54.8127195+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.9244138+00:00",
-  "LastUpdate_Ratings": "2024-01-03T15:00:44.405735+00:00",
-  "LastUpdate_Achievements": "2024-01-03T15:04:53.9793582+00:00"
+  "LastUpdate_Ratings": "2024-01-03T15:59:26.1208662+00:00",
+  "LastUpdate_Achievements": "2024-01-03T16:03:54.8127698+00:00"
 }

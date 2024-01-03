@@ -30,8 +30,8 @@ Number of Ratings: 892  (23.09.2022)
 | Panda-kin | 73.00% | ~577 |
 | Can We Keep It? | 73.00% | ~577 |
 | What Plants Crave | 73.00% | ~577 |
+| First Love | 73.00% | ~577 |
 | Chatterbox | 72.00% | ~570 |
-| First Love | 72.00% | ~570 |
 | Builder of the Month | 68.00% | ~538 |
 | Elementary, My Dear | 67.00% | ~530 |
 | Waste Not Want Not | 64.00% | ~506 |
@@ -40,7 +40,7 @@ Number of Ratings: 892  (23.09.2022)
 | Commissions, commissions...! | 60.00% | ~475 |
 | Got the Flow Back | 59.00% | ~467 |
 | Martle's Dream | 58.00% | ~459 |
-| Happier-est Place on Earth | 56.00% | ~443 |
+| Happier-est Place on Earth | 57.00% | ~451 |
 | Anti-Santa | 55.00% | ~435 |
 | You Don't Win Friends With Salad | 55.00% | ~435 |
 | Finishing Touches | 53.00% | ~419 |

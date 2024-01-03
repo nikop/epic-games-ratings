@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -51,7 +51,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1210,
+  "EOS_Progressed": 1211,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
@@ -3531,6 +3531,11 @@
       "Time": "2024-01-03T14:10:18.3936561+00:00",
       "NumProgressed": 1210,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-03T16:09:56.4060624+00:00",
+      "NumProgressed": 1211,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3550,7 +3555,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -3638,7 +3643,7 @@
       "Name": "Family Memories",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "FactorywoodChests1",
@@ -3662,7 +3667,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -3702,7 +3707,7 @@
       "Name": "Rail Rat",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "HexlockGift",
@@ -3734,7 +3739,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "MapCompletion1",
@@ -3782,7 +3787,7 @@
       "Name": "Time Flies",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "ParryBoss",
@@ -3790,7 +3795,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "ParryRepeated1",
@@ -3798,7 +3803,7 @@
       "Name": "No, Thanks!",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "PhaseDiveCounter",
@@ -3806,7 +3811,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -3822,7 +3827,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "RewindDamage1",
@@ -3830,7 +3835,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "RewindParry",
@@ -3838,7 +3843,7 @@
       "Name": "Honest Mistake",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "ScrambotCompletion1",
@@ -3862,7 +3867,7 @@
       "Name": "Rungs Was Right",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "SkillProgress1",
@@ -3870,7 +3875,7 @@
       "Name": "Fast Learner",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "SpeedRun",
@@ -3926,7 +3931,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "WatcherFought",
@@ -3942,7 +3947,7 @@
       "Name": "Good Neighbor",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "Zarkon1Defeated",
@@ -3965,7 +3970,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1210,
+      "Progressed": 1211,
       "Completed": 6
     }
   ],
@@ -3973,8 +3978,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2024-01-03T15:11:15.6388596+00:00",
+  "LastChanged_Achievements": "2024-01-03T16:09:56.4060622+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:23.9308133+00:00",
-  "LastUpdate_Ratings": "2024-01-03T15:03:09.352549+00:00",
-  "LastUpdate_Achievements": "2024-01-03T15:11:15.6389237+00:00"
+  "LastUpdate_Ratings": "2024-01-03T16:02:38.5978075+00:00",
+  "LastUpdate_Achievements": "2024-01-03T16:09:56.4061153+00:00"
 }

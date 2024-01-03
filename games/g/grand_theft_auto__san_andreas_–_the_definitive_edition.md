@@ -1,24 +1,24 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.55 (Ranked 522)  
+Rating: 4.54 (Ranked 544)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~14,705 |
-| Pay 'n' Spray | 50.00% | ~9,077 |
-| All Dressed Up for San Fierro | 25.00% | ~4,538 |
-| The American Dream | 19.00% | ~3,449 |
-| School's Out | 18.00% | ~3,268 |
-| Smooth Moves | 17.00% | ~3,086 |
-| Today Was a Good Day | 15.00% | ~2,723 |
-| What happens in Las Venturas... | 14.00% | ~2,542 |
-| Horror of the Santa Maria | 10.00% | ~1,815 |
+| Getting Started | 81.00% | ~14,710 |
+| Pay 'n' Spray | 50.00% | ~9,080 |
+| All Dressed Up for San Fierro | 25.00% | ~4,540 |
+| The American Dream | 19.00% | ~3,451 |
+| School's Out | 18.00% | ~3,269 |
+| Smooth Moves | 17.00% | ~3,087 |
+| Today Was a Good Day | 15.00% | ~2,724 |
+| What happens in Las Venturas... | 14.00% | ~2,543 |
+| Horror of the Santa Maria | 10.00% | ~1,816 |
 | Liberty City State of Mind | 9.00% | ~1,634 |
-| Original Gangster | 8.00% | ~1,452 |
+| Original Gangster | 8.00% | ~1,453 |
 | With Extra Dip | 7.00% | ~1,271 |
 | The End of the Line | 7.00% | ~1,271 |
-| Saviour | 6.00% | ~1,089 |
+| Saviour | 6.00% | ~1,090 |
 | Rescue a Kitten Too? | 5.00% | ~908 |
 | They Can’t Stop All of Us | 4.00% | ~726 |
 | What are the Odds | 4.00% | ~726 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 522)
 | ...Here we go again | 0.50% | ~91 |
 | I Ain't No Buster | 0.40% | ~73 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,154 (Ranked 157)  
+Progressed: 18,161 (Ranked 157)  
 Completed: 70 (0.39%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 70 (0.39%) (Ranked 233)
 | 2023-12-31 | 17,792 | 67 |
 | 2024-01-01 | 17,956 | 69 |
 | 2024-01-02 | 18,093 | 70 |
-| 2024-01-03 | 18,154 | 70 |
+| 2024-01-03 | 18,161 | 70 |
 ## Awards
 Max (Amazing Characters): 50  (Ranked 452)  
 Sum: 328 (Ranked 373)  

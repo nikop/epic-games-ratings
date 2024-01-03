@@ -4,8 +4,8 @@
   "ProductSlug": "time-loader",
   "Ranking_EOS_Progress": 458,
   "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 498,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 499,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-11-03T16:00:00+00:00",
     "PcReleaseDate": "2021-11-03T16:00:00+00:00",
@@ -452,9 +452,9 @@
       "ID": "24_HereWeGoAgain",
       "SetID": "681m9fa",
       "Name": "Here we go again",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "25_LeaveMeAlone",
@@ -492,9 +492,9 @@
       "ID": "29_Act3",
       "SetID": "681m9fa",
       "Name": "Act 3",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     }
   ],
   "AchievementSets": [
@@ -509,8 +509,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.0272628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.4088384+00:00",
   "LastChanged": "2023-03-31T05:58:23.0272628+00:00",
-  "LastChanged_Achievements": "2024-01-03T15:10:46.8313771+00:00",
+  "LastChanged_Achievements": "2024-01-03T16:09:34.2123508+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:07.4748893+00:00",
-  "LastUpdate_Ratings": "2024-01-03T15:01:12.8216144+00:00",
-  "LastUpdate_Achievements": "2024-01-03T15:10:46.8314307+00:00"
+  "LastUpdate_Ratings": "2024-01-03T15:59:44.6544637+00:00",
+  "LastUpdate_Achievements": "2024-01-03T16:09:34.2123741+00:00"
 }

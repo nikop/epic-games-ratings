@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 360,
   "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -2027,9 +2027,9 @@
       "ID": "Upgrade_Armor_First",
       "SetID": "7a5k76n",
       "Name": "Made of Sterner Stuff",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 20
     },
     {
       "ID": "Upgrade_Weapon_First",
@@ -2059,8 +2059,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-03T05:57:54.1795117+00:00",
-  "LastChanged_Achievements": "2024-01-03T15:07:41.5539773+00:00",
+  "LastChanged_Achievements": "2024-01-03T16:06:01.0867849+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.0817876+00:00",
-  "LastUpdate_Ratings": "2024-01-03T14:58:41.9149419+00:00",
-  "LastUpdate_Achievements": "2024-01-03T15:07:41.554033+00:00"
+  "LastUpdate_Ratings": "2024-01-03T15:58:01.354186+00:00",
+  "LastUpdate_Achievements": "2024-01-03T16:06:01.0868394+00:00"
 }

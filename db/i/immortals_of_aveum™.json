@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -397,9 +397,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2588,
+  "EOS_Progressed": 2589,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 575,
+  "EOS_NewPlayers": 573,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4252,6 +4252,11 @@
       "Time": "2024-01-03T15:11:00.0144469+00:00",
       "NumProgressed": 2588,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-03T16:09:44.0896466+00:00",
+      "NumProgressed": 2589,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -4264,7 +4269,7 @@
       "Name": "Unforeseen",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 2277
+      "UsersEstimate": 2278
     },
     {
       "ID": "achievement_10",
@@ -4304,7 +4309,7 @@
       "Name": "Geas Aristeya",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "achievement_15",
@@ -4312,7 +4317,7 @@
       "Name": "A Perfect Cycle",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "achievement_16",
@@ -4352,7 +4357,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 2096
+      "UsersEstimate": 2097
     },
     {
       "ID": "achievement_20",
@@ -4496,7 +4501,7 @@
       "Name": "Enlisted",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 1915
+      "UsersEstimate": 1916
     },
     {
       "ID": "achievement_49",
@@ -4624,7 +4629,7 @@
       "Name": "All the Major Food Groups",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "achievement_9",
@@ -4639,7 +4644,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 2588,
+      "Progressed": 2589,
       "Completed": 2
     }
   ],
@@ -4647,8 +4652,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-03T13:03:04.6353121+00:00",
-  "LastChanged_Achievements": "2024-01-03T15:11:00.0144464+00:00",
+  "LastChanged_Achievements": "2024-01-03T16:09:44.0896463+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.4007279+00:00",
-  "LastUpdate_Ratings": "2024-01-03T14:59:39.4262506+00:00",
-  "LastUpdate_Achievements": "2024-01-03T15:11:00.0145245+00:00"
+  "LastUpdate_Ratings": "2024-01-03T15:58:40.7786024+00:00",
+  "LastUpdate_Achievements": "2024-01-03T16:09:44.0896957+00:00"
 }

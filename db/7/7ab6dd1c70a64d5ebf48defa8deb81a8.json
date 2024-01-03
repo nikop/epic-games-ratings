@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -61,9 +61,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1716,
+  "EOS_Progressed": 1718,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 375,
+  "EOS_NewPlayers": 373,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -3376,6 +3376,11 @@
       "Time": "2024-01-03T15:11:12.8228208+00:00",
       "NumProgressed": 1716,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-03T16:09:53.8483648+00:00",
+      "NumProgressed": 1718,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -3387,7 +3392,7 @@
       "Name": "Break Out",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1031
     },
     {
       "ID": "ACH_02",
@@ -3483,7 +3488,7 @@
       "Name": "Adventurer",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "ACH_14",
@@ -3497,9 +3502,9 @@
       "ID": "ACH_15",
       "SetID": "efe2lj",
       "Name": "Tributes of Caladrias",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 343
+      "UsersEstimate": 326
     },
     {
       "ID": "ACH_16",
@@ -3523,7 +3528,7 @@
       "Name": "Shatter Them All",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "ACH_19",
@@ -3531,7 +3536,7 @@
       "Name": "Slayer",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_20",
@@ -3579,7 +3584,7 @@
       "Name": "Fashion Victim",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "ACH_26",
@@ -3587,7 +3592,7 @@
       "Name": "Scholar",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "ACH_27",
@@ -3659,7 +3664,7 @@
       "Name": "A Queen\u0027s Tale",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_38",
@@ -3674,7 +3679,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1716,
+      "Progressed": 1718,
       "Completed": 3
     }
   ],
@@ -3682,8 +3687,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-02T01:47:19.6899919+00:00",
-  "LastChanged_Achievements": "2024-01-03T15:11:12.8228202+00:00",
+  "LastChanged_Achievements": "2024-01-03T16:09:53.8483644+00:00",
   "LastUpdate_AppInfo": "2024-01-01T22:57:08.0954502+00:00",
-  "LastUpdate_Ratings": "2024-01-03T15:02:39.433438+00:00",
-  "LastUpdate_Achievements": "2024-01-03T15:11:12.8228615+00:00"
+  "LastUpdate_Ratings": "2024-01-03T16:00:18.2869323+00:00",
+  "LastUpdate_Achievements": "2024-01-03T16:09:53.8483987+00:00"
 }

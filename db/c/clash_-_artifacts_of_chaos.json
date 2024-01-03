@@ -2,10 +2,10 @@
   "ID": "a4b249bd941143158a5f428d2b98d2e9",
   "Name": "Clash - Artifacts of Chaos",
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
-  "Ranking_EOS_Progress": 453,
+  "Ranking_EOS_Progress": 452,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 409,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
     "PcReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 147,
+  "EOS_Progressed": 148,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
@@ -476,6 +476,11 @@
       "Time": "2024-01-03T12:10:22.3306137+00:00",
       "NumProgressed": 147,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-03T16:09:51.0606932+00:00",
+      "NumProgressed": 148,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 21,
@@ -487,7 +492,7 @@
       "Name": "Freedom",
       "Percentage": 22,
       "XP": 35,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "Achievement10",
@@ -495,7 +500,7 @@
       "Name": "The Pride of Moozhaw",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Achievement11",
@@ -549,9 +554,9 @@
       "ID": "Achievement17",
       "SetID": "jf6ho5",
       "Name": "Declawing",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 35,
-      "UsersEstimate": 96
+      "UsersEstimate": 95
     },
     {
       "ID": "Achievement18",
@@ -565,9 +570,9 @@
       "ID": "Achievement19",
       "SetID": "jf6ho5",
       "Name": "Corwid Hill",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "Achievement2",
@@ -575,7 +580,7 @@
       "Name": "Winner",
       "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Achievement20",
@@ -637,9 +642,9 @@
       "ID": "Achievement8",
       "SetID": "jf6ho5",
       "Name": "Armored",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 35,
-      "UsersEstimate": 40
+      "UsersEstimate": 38
     },
     {
       "ID": "Achievement9",
@@ -654,7 +659,7 @@
     {
       "ID": "jf6ho5",
       "IsBase": true,
-      "Progressed": 147,
+      "Progressed": 148,
       "Completed": 1
     }
   ],
@@ -662,8 +667,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2024-01-03T15:11:09.5921414+00:00",
+  "LastChanged_Achievements": "2024-01-03T16:09:51.0606929+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:54.3943326+00:00",
-  "LastUpdate_Ratings": "2024-01-03T14:57:43.5365223+00:00",
-  "LastUpdate_Achievements": "2024-01-03T15:11:09.5921604+00:00"
+  "LastUpdate_Ratings": "2024-01-03T15:57:20.7679131+00:00",
+  "LastUpdate_Achievements": "2024-01-03T16:09:51.060707+00:00"
 }

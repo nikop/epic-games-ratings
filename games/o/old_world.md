@@ -66,9 +66,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 2 | 0.40% | ~64 |
 | Manichaeism | 0.40% | ~64 |
 | Egyptian Paganism | 0.40% | ~64 |
+| Win a Single Player Game | 0.40% | ~64 |
 | Hanging Gardens in Babylon | 0.30% | ~48 |
 | Mighty | 0.30% | ~48 |
 | Ready | 0.30% | ~48 |
+| Victorious | 0.30% | ~48 |
 | Good Difficulty | 0.30% | ~48 |
 | Just Difficulty | 0.30% | ~48 |
 | Artisans | 0.30% | ~48 |
@@ -84,7 +86,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Military Prestige | 0.30% | ~48 |
 | Mythology | 0.30% | ~48 |
 | Points Victory | 0.30% | ~48 |
-| Win a Single Player Game | 0.30% | ~48 |
 | Bad Heir Day | 0.20% | ~32 |
 | Capable | 0.20% | ~32 |
 | Conqueror | 0.20% | ~32 |
@@ -92,7 +93,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Invincible | 0.20% | ~32 |
 | Lion | 0.20% | ~32 |
 | Subjugator | 0.20% | ~32 |
-| Victorious | 0.20% | ~32 |
 | Strong Difficulty | 0.20% | ~32 |
 | Hunters | 0.20% | ~32 |
 | Landowners | 0.20% | ~32 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,102 (Ranked 166)  
+Progressed: 16,103 (Ranked 166)  
 Completed: 5 (0.03%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -623,7 +623,7 @@ Completed: 5 (0.03%) (Ranked 349)
 | 2023-12-31 | 16,053 | 5 |
 | 2024-01-01 | 16,077 | 5 |
 | 2024-01-02 | 16,090 | 5 |
-| 2024-01-03 | 16,102 | 5 |
+| 2024-01-03 | 16,103 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 283)  
 Sum: 1,912 (Ranked 221)  

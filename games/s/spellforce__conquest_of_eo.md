@@ -37,9 +37,9 @@
 | Friend of Orgash | 12.00% | ~13 |
 | Friend of Bastion | 12.00% | ~13 |
 | Magic Academy | 12.00% | ~13 |
+| Friend of Windholme | 11.00% | ~12 |
 | Defeat Gor | 10.00% | ~11 |
 | Mage Teacher | 10.00% | ~11 |
-| Friend of Windholme | 10.00% | ~11 |
 | Yngrid's Tale | 9.00% | ~10 |
 | A Joke | 9.00% | ~10 |
 | Defeat Uram | 8.00% | ~9 |

@@ -1,7 +1,7 @@
 # Transport Fever 2
 [Store](https://store.epicgames.com/en-US/p/transport-fever-2)  
 [View Rawdata](../../db/t/transport_fever_2.json)  
-Rating: 4.68 (Ranked 260)  
+Rating: 4.67 (Ranked 284)  
 Number of Ratings: 180  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -68,7 +68,7 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.20% | ~5 |
 | Museum line | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,305 (Ranked 237)  
+Progressed: 2,305 (Ranked 238)  
 Completed: 1 (0.04%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -451,3 +451,4 @@ Diff (max vs sum): 80
 | 2023-12-29 | 4.69 | - | 49 | 330 |
 | 2023-12-30 | 4.68 | - | 49 | 330 |
 | 2023-12-31 | 4.68 | - | 50 | 331 |
+| 2024-01-03 | 4.67 | - | 50 | 331 |

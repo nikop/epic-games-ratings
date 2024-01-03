@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -45,9 +45,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3239,
+  "EOS_Progressed": 3240,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 206,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7990,6 +7990,11 @@
       "Time": "2024-01-03T15:06:11.1562284+00:00",
       "NumProgressed": 3239,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T16:04:52.4242147+00:00",
+      "NumProgressed": 3240,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -8210,7 +8215,7 @@
       "Name": "Clean Race",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1425
+      "UsersEstimate": 1426
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -8258,7 +8263,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -8393,7 +8398,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3239,
+      "Progressed": 3240,
       "Completed": 0
     }
   ],
@@ -8401,8 +8406,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-02T17:58:34.6110096+00:00",
-  "LastChanged_Achievements": "2024-01-03T15:06:11.156228+00:00",
+  "LastChanged_Achievements": "2024-01-03T16:04:52.424214+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:59.7599271+00:00",
-  "LastUpdate_Ratings": "2024-01-03T14:58:54.4602635+00:00",
-  "LastUpdate_Achievements": "2024-01-03T15:06:11.1563028+00:00"
+  "LastUpdate_Ratings": "2024-01-03T15:58:09.0090537+00:00",
+  "LastUpdate_Achievements": "2024-01-03T16:04:52.4242913+00:00"
 }

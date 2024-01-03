@@ -2,7 +2,7 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 1000,
+  "Ranking_Rating": 1002,
   "Ranking_Popularity": 477,
   "Ranking_PopularitySum": 518,
   "Ranking_EOS_Progress": 125,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "SA"
     }
   },
-  "Rating": 4.14,
+  "Rating": 4.13,
   "RatingHistory": [
     {
       "Time": "2023-01-28T02:09:06.4755934+00:00",
@@ -557,6 +557,12 @@
       "Rating": 4.14,
       "NumberOfAwards": 40,
       "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2024-01-03T16:02:41.4956747+00:00",
+      "Rating": 4.13,
+      "NumberOfAwards": 40,
+      "NumberOfAwardsMax": 40
     }
   ],
   "ReviewsDisabled": false,
@@ -571,7 +577,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 46216,
+  "EOS_Progressed": 46222,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 819,
   "EOS_NewCompleters": 1,
@@ -17486,6 +17492,11 @@
       "Time": "2024-01-03T15:07:07.9840416+00:00",
       "NumProgressed": 46216,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-03T16:05:36.090877+00:00",
+      "NumProgressed": 46222,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -17513,7 +17524,7 @@
       "Name": "Outdoorsperson",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "CHALLENGE_ALL",
@@ -17545,7 +17556,7 @@
       "Name": "Attachments",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5546
+      "UsersEstimate": 5547
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -17639,9 +17650,9 @@
       "ID": "CRAFT_ALL",
       "SetID": "6d0g7k8",
       "Name": "Craftsperson",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 185
     },
     {
       "ID": "CRAFT_FIRST",
@@ -17649,7 +17660,7 @@
       "Name": "Tinkerer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3697
+      "UsersEstimate": 3698
     },
     {
       "ID": "CUFF_ATTACK",
@@ -17673,7 +17684,7 @@
       "Name": "Hop, Step, Jump",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "JUSTCOUNTER",
@@ -17689,7 +17700,7 @@
       "Name": "Leapfrogger",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3235
+      "UsersEstimate": 3236
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -17737,7 +17748,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3235
+      "UsersEstimate": 3236
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -17785,7 +17796,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3235
+      "UsersEstimate": 3236
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -17801,7 +17812,7 @@
       "Name": "Endless Runner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "PARKOUR_TIME",
@@ -17809,7 +17820,7 @@
       "Name": "Hell of a Run",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3235
+      "UsersEstimate": 3236
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -17849,7 +17860,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3235
+      "UsersEstimate": 3236
     },
     {
       "ID": "STAYING_AIR",
@@ -17920,22 +17931,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 46216,
+      "Progressed": 46222,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 11053,
-      "Completed": 11053
+      "Progressed": 11059,
+      "Completed": 11059
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
-  "LastChanged": "2024-01-02T14:03:32.6481765+00:00",
-  "LastChanged_Achievements": "2024-01-03T15:07:07.9840411+00:00",
+  "LastChanged": "2024-01-03T16:02:41.4956745+00:00",
+  "LastChanged_Achievements": "2024-01-03T16:05:36.0908765+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:48.1998363+00:00",
-  "LastUpdate_Ratings": "2024-01-03T15:03:13.1751812+00:00",
-  "LastUpdate_Achievements": "2024-01-03T15:07:07.9841614+00:00"
+  "LastUpdate_Ratings": "2024-01-03T16:02:41.4956751+00:00",
+  "LastUpdate_Achievements": "2024-01-03T16:05:36.0911431+00:00"
 }

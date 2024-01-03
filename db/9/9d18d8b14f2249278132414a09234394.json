@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-11-09T10:00:00+00:00",
     "PcReleaseDate": "2022-08-18T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3002,
+  "EOS_Progressed": 3003,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 204,
+  "EOS_NewPlayers": 203,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4674,6 +4674,11 @@
       "Time": "2024-01-03T14:06:02.0984337+00:00",
       "NumProgressed": 3002,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T16:05:38.716041+00:00",
+      "NumProgressed": 3003,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T10:03:34.0451585+00:00",
@@ -4948,9 +4953,9 @@
       "ID": "ACH_TheHeroWeDeserve",
       "SetID": "ai9gp4m",
       "Name": "The Hero We Deserve",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_ToolsOfTheTrade",
@@ -4973,14 +4978,14 @@
     {
       "ID": "ai9gp4m",
       "IsBase": true,
-      "Progressed": 3002,
+      "Progressed": 3003,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T17:12:11.6441417+00:00",
   "FirstSeenAchievements": "2023-11-07T10:03:34.0451584+00:00",
-  "LastChanged_Achievements": "2024-01-03T15:07:11.4336954+00:00",
+  "LastChanged_Achievements": "2024-01-03T16:05:38.7160407+00:00",
   "LastUpdate_AppInfo": "2024-01-02T13:00:36.8357629+00:00",
-  "LastUpdate_Ratings": "2024-01-03T14:57:51.8466802+00:00",
-  "LastUpdate_Achievements": "2024-01-03T15:07:11.4337532+00:00"
+  "LastUpdate_Ratings": "2024-01-03T15:57:26.486388+00:00",
+  "LastUpdate_Achievements": "2024-01-03T16:05:38.716091+00:00"
 }

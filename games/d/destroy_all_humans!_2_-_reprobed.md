@@ -1,7 +1,7 @@
 # Destroy All Humans! 2 - Reprobed
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans-2-reprobed)  
 [View Rawdata](../../db/d/destroy_all_humans!_2_-_reprobed.json)  
-Rating: 4.54 (Ranked 545)  
+Rating: 4.54 (Ranked 544)  
 Number of Ratings: 90  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,7 +11,7 @@ Number of Ratings: 90  (23.09.2022)
 | Ducks in a Row, Fish in a Barrel | 54.00% | ~161 |
 | Furon Fashion | 49.00% | ~147 |
 | Shop Til They Drop | 40.00% | ~120 |
-| Bodied Sattva | 37.00% | ~111 |
+| Bodied Sattva | 38.00% | ~114 |
 | Cult Following | 35.00% | ~105 |
 | Earthly Pleasures | 35.00% | ~105 |
 | Lie Back and Think of Albion | 28.00% | ~84 |

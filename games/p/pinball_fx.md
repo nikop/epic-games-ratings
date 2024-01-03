@@ -6,7 +6,7 @@ Number of Ratings: 756  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 2.00% | ~5,810 |
+| Ball Launched | 2.00% | ~5,811 |
 | I Found it! | 0.90% | ~2,615 |
 | Ready Steady Score | 0.40% | ~1,162 |
 | First but not Last | 0.20% | ~581 |
@@ -46,7 +46,7 @@ Number of Ratings: 756  (23.09.2022)
 | The most beautiful Christmas | 0.00% | ~0 |
 | End of Gloom | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,520 (Ranked 63)  
+Progressed: 290,539 (Ranked 63)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,17 +304,17 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-31 | 289,544 | 0 |
 | 2024-01-01 | 289,963 | 0 |
 | 2024-01-02 | 290,342 | 0 |
-| 2024-01-03 | 290,520 | 0 |
+| 2024-01-03 | 290,539 | 0 |
 ## Awards
 Max (Great for Beginners): 213  (Ranked 291)  
-Sum: 1,635 (Ranked 231)  
+Sum: 1,636 (Ranked 231)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 213 |
 | This game is Great for Quick Sessions | 196 |
 | This game has Quickly Understood Controls | 168 |
-| This game is Relaxing | 167 |
+| This game is Relaxing | 168 |
 | This game is Extremely Fun | 160 |
 | This game is Highly Recommended | 159 |
 | This game has Competitive Players | 157 |
@@ -536,3 +536,4 @@ Diff (max vs sum): 60
 | 2023-12-29 | 4.07 | - | 211 | 1,631 |
 | 2023-12-30 | 4.07 | - | 212 | 1,633 |
 | 2024-01-01 | 4.07 | - | 213 | 1,635 |
+| 2024-01-03 | 4.07 | - | 213 | 1,636 |

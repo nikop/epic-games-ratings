@@ -2,13 +2,13 @@
   "ID": "4bc43145bb8245a5b5cc9ea262ffbe0e",
   "Name": "Marvel\u0027s Spider-Man Remastered",
   "ProductSlug": "marvels-spider-man-remastered",
-  "Ranking_Rating": 39,
+  "Ranking_Rating": 40,
   "Ranking_Popularity": 31,
   "Ranking_PopularitySum": 56,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 391,
   "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-08-12T15:00:00+00:00",
     "PcReleaseDate": "2022-08-12T15:00:00+00:00",
@@ -8867,10 +8867,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 23295,
       "NumberOfAwardsMax": 13781
+    },
+    {
+      "Time": "2024-01-03T15:57:32.3122995+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 23300,
+      "NumberOfAwardsMax": 13781
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 23295,
+  "NumberOfAwards": 23300,
   "NumberOfAwardsMax": 13781,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -8884,7 +8890,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1096
+      "Count": 1098
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -8914,7 +8920,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1058
+      "Count": 1061
     },
     {
       "Text": "This game is Extremely Fun",
@@ -8959,8 +8965,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-12T18:01:31.1852692+00:00",
   "FirstSeenRating": "2022-08-12T21:01:33.6251933+00:00",
-  "LastChanged": "2024-01-03T05:57:26.0796161+00:00",
+  "LastChanged": "2024-01-03T15:57:32.3122993+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:56:58.1871661+00:00",
-  "LastUpdate_Ratings": "2024-01-03T14:58:01.1781659+00:00",
-  "LastUpdate_Achievements": "2024-01-03T15:06:16.2205075+00:00"
+  "LastUpdate_Ratings": "2024-01-03T15:57:32.3123001+00:00",
+  "LastUpdate_Achievements": "2024-01-03T16:04:56.1366555+00:00"
 }

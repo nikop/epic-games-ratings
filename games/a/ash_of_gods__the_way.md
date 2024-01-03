@@ -13,7 +13,7 @@
 | Blood and sand | 23.00% | ~14 |
 | All for one! | 22.00% | ~13 |
 | A hidden snake | 22.00% | ~13 |
-| Crimson rivers | 17.00% | ~10 |
+| Crimson rivers | 18.00% | ~11 |
 | Power of Inquisition | 17.00% | ~10 |
 | Surpass the teacher | 17.00% | ~10 |
 | Vene, vidi, vici | 17.00% | ~10 |

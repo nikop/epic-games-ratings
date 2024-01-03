@@ -9289,9 +9289,9 @@
       "Count": 3622
     }
   ],
-  "EOS_Progressed": 250401,
+  "EOS_Progressed": 250424,
   "EOS_Completed": 2588,
-  "EOS_NewPlayers": 5174,
+  "EOS_NewPlayers": 5180,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -38514,6 +38514,11 @@
       "Time": "2024-01-03T15:11:23.6705512+00:00",
       "NumProgressed": 250401,
       "NumCompleted": 2588
+    },
+    {
+      "Time": "2024-01-03T16:10:03.4981619+00:00",
+      "NumProgressed": 250424,
+      "NumCompleted": 2588
     }
   ],
   "TotalAchievements": 546,
@@ -38525,7 +38530,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7512
+      "UsersEstimate": 7513
     },
     {
       "ID": "objective_completed_10",
@@ -40205,7 +40210,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1502
+      "UsersEstimate": 1503
     },
     {
       "ID": "objective_completed_35",
@@ -40315,9 +40320,9 @@
       "ID": "objective_completed_39",
       "SetID": "cc37lbc",
       "Name": "Seeking Allies",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1002
+      "UsersEstimate": 1252
     },
     {
       "ID": "objective_completed_390",
@@ -40389,7 +40394,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1502
+      "UsersEstimate": 1503
     },
     {
       "ID": "objective_completed_40",
@@ -42813,7 +42818,7 @@
       "Name": "Welcome to Sigil",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1733
+      "UsersEstimate": 1734
     },
     {
       "ID": "objective_completed_1558",
@@ -42892,21 +42897,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 216675,
+      "Progressed": 216698,
       "Completed": 4129
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 250401,
+      "Progressed": 250424,
       "Completed": 2588
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-02T20:58:24.5866544+00:00",
-  "LastChanged_Achievements": "2024-01-03T15:11:23.6705505+00:00",
+  "LastChanged_Achievements": "2024-01-03T16:10:03.4981614+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-03T14:59:21.7971705+00:00",
-  "LastUpdate_Achievements": "2024-01-03T15:11:23.6729801+00:00"
+  "LastUpdate_Ratings": "2024-01-03T15:58:28.4995428+00:00",
+  "LastUpdate_Achievements": "2024-01-03T16:10:03.5006209+00:00"
 }

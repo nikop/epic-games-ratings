@@ -48,8 +48,8 @@ Rating: 3.64 (Ranked 1,087)
 | What Lies Below | 0.70% | ~16 |
 | Dexterity Save | 0.70% | ~16 |
 | Blood Brother | 0.60% | ~13 |
+| Sisterhood | 0.60% | ~13 |
 | Good Samaritan | 0.60% | ~13 |
-| Sisterhood | 0.50% | ~11 |
 | Scream Team | 0.40% | ~9 |
 | Friendgineering | 0.40% | ~9 |
 | Under a Bushel | 0.40% | ~9 |

@@ -1,28 +1,28 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.29 (Ranked 877)  
+Rating: 4.29 (Ranked 876)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~165,675 |
+| Corner Clout | 46.00% | ~165,676 |
 | Copacetic Coordination | 16.00% | ~57,626 |
-| Fronting the Money | 15.00% | ~54,024 |
+| Fronting the Money | 15.00% | ~54,025 |
 | The Dawn of Automation | 14.00% | ~50,423 |
 | Extraordinary Logistics | 14.00% | ~50,423 |
 | Dirty Money | 13.00% | ~46,821 |
 | Family First | 13.00% | ~46,821 |
-| Cleaning House | 12.00% | ~43,219 |
-| Room in the Back | 12.00% | ~43,219 |
+| Cleaning House | 12.00% | ~43,220 |
+| Room in the Back | 12.00% | ~43,220 |
 | Beating the Heat | 11.00% | ~39,618 |
 | Booze Baron | 11.00% | ~39,618 |
 | Friends on the Force | 10.00% | ~36,016 |
 | Neighborhood Watch | 10.00% | ~36,016 |
 | Core Corps | 8.00% | ~28,813 |
 | Sizeable Stash | 8.00% | ~28,813 |
-| Street Fighter | 7.00% | ~25,211 |
-| Friendly Gestures | 7.00% | ~25,211 |
-| People Person | 7.00% | ~25,211 |
+| Street Fighter | 7.00% | ~25,212 |
+| Friendly Gestures | 7.00% | ~25,212 |
+| People Person | 7.00% | ~25,212 |
 | Liquor Lord | 6.00% | ~21,610 |
 | Safety in Numbers | 6.00% | ~21,610 |
 | Moving Experiences | 6.00% | ~21,610 |
@@ -36,12 +36,12 @@ Rating: 4.29 (Ranked 877)
 | Opportunity Knocked | 5.00% | ~18,008 |
 | City of Big Shoulders | 5.00% | ~18,008 |
 | Mission Mastery | 5.00% | ~18,008 |
-| Considerable Clams | 4.00% | ~14,406 |
-| Gin Joint | 4.00% | ~14,406 |
-| An Affront to the Enemy | 4.00% | ~14,406 |
-| Friends from Back Home | 4.00% | ~14,406 |
-| Bees Knees Bootlegger | 4.00% | ~14,406 |
-| Half Century Mark | 4.00% | ~14,406 |
+| Considerable Clams | 4.00% | ~14,407 |
+| Gin Joint | 4.00% | ~14,407 |
+| An Affront to the Enemy | 4.00% | ~14,407 |
+| Friends from Back Home | 4.00% | ~14,407 |
+| Bees Knees Bootlegger | 4.00% | ~14,407 |
+| Half Century Mark | 4.00% | ~14,407 |
 | Corner Opportunities | 3.00% | ~10,805 |
 | 2122 North Clark Street | 3.00% | ~10,805 |
 | Copious Cabbage | 3.00% | ~10,805 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 877)
 | High Pillow | 0.10% | ~360 |
 | Station Master | 0.10% | ~360 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 360,162 (Ranked 56)  
+Progressed: 360,165 (Ranked 56)  
 Completed: 7 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -344,7 +344,7 @@ Completed: 7 (0.00%) (Ranked 391)
 | 2023-12-31 | 359,687 | 7 |
 | 2024-01-01 | 359,873 | 7 |
 | 2024-01-02 | 360,046 | 7 |
-| 2024-01-03 | 360,162 | 7 |
+| 2024-01-03 | 360,165 | 7 |
 ## Awards
 Max (Great for Beginners): 58  (Ranked 430)  
 Sum: 267 (Ranked 393)  

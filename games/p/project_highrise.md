@@ -7,7 +7,7 @@
 | In the Black | 55.00% | ~267 |
 | Starting Skyward | 49.00% | ~238 |
 | Grime is Not Good | 43.00% | ~209 |
-| Floor Galore | 37.00% | ~179 |
+| Floor Galore | 37.00% | ~180 |
 | Campaign Launch | 36.00% | ~175 |
 | Dinner Dash | 36.00% | ~175 |
 | Need a Consult | 34.00% | ~165 |
@@ -23,13 +23,13 @@
 | Don't Feel a Loan | 21.00% | ~102 |
 | Retail Revenue | 21.00% | ~102 |
 | People Mover | 19.00% | ~92 |
-| Lux Living | 18.00% | ~87 |
 | Artfully Done | 18.00% | ~87 |
 | Emporium Empire | 18.00% | ~87 |
 | Leveled Up Shops | 18.00% | ~87 |
 | We Don't Need No Education | 18.00% | ~87 |
-| Tasty Profits | 17.00% | ~82 |
-| Get Electrified | 17.00% | ~82 |
+| Lux Living | 17.00% | ~83 |
+| Tasty Profits | 17.00% | ~83 |
+| Get Electrified | 17.00% | ~83 |
 | Rehab Expert | 16.00% | ~78 |
 | Established Fame | 15.00% | ~73 |
 | Under One Roof | 14.00% | ~68 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 485 (Ranked 347)  
+Progressed: 486 (Ranked 346)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-31 | 474 | 0 |
 | 2024-01-01 | 477 | 0 |
 | 2024-01-02 | 483 | 0 |
-| 2024-01-03 | 485 | 0 |
+| 2024-01-03 | 486 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

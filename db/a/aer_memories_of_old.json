@@ -419,9 +419,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 27826,
+  "EOS_Progressed": 27830,
   "EOS_Completed": 507,
-  "EOS_NewPlayers": 625,
+  "EOS_NewPlayers": 619,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 1.82,
   "EosHistory": [
@@ -28229,6 +28229,11 @@
       "Time": "2024-01-03T15:05:07.3504864+00:00",
       "NumProgressed": 27826,
       "NumCompleted": 507
+    },
+    {
+      "Time": "2024-01-03T16:04:04.669109+00:00",
+      "NumProgressed": 27830,
+      "NumCompleted": 507
     }
   ],
   "TotalAchievements": 20,
@@ -28240,7 +28245,7 @@
       "Name": "Cartographer",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 4452
+      "UsersEstimate": 4453
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -28248,7 +28253,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1391
+      "UsersEstimate": 1392
     },
     {
       "ID": "EAST_FINISHED",
@@ -28264,7 +28269,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2504
+      "UsersEstimate": 2505
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -28296,7 +28301,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3339
+      "UsersEstimate": 3340
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -28336,7 +28341,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3617
+      "UsersEstimate": 3618
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -28352,7 +28357,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3339
+      "UsersEstimate": 3340
     },
     {
       "ID": "INTRO_FINISHED",
@@ -28360,7 +28365,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 21148
+      "UsersEstimate": 21151
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -28368,7 +28373,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 7513
+      "UsersEstimate": 7514
     },
     {
       "ID": "NORTH_FINISHED",
@@ -28376,7 +28381,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3617
+      "UsersEstimate": 3618
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -28399,15 +28404,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 27826,
+      "Progressed": 27830,
       "Completed": 507
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2024-01-03T15:05:07.3504859+00:00",
+  "LastChanged_Achievements": "2024-01-03T16:04:04.6691086+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:39.3353951+00:00",
-  "LastUpdate_Ratings": "2024-01-03T14:57:30.4193071+00:00",
-  "LastUpdate_Achievements": "2024-01-03T15:05:07.3505948+00:00"
+  "LastUpdate_Ratings": "2024-01-03T15:57:10.9116147+00:00",
+  "LastUpdate_Achievements": "2024-01-03T16:04:04.6692166+00:00"
 }
