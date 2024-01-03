@@ -19,7 +19,7 @@
 | Meet Your Makers | 2.00% | ~3 |
 | Mise-en-scènester | 2.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132 (Ranked 464)  
+Progressed: 132 (Ranked 465)  
 Completed: 2 (1.52%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |

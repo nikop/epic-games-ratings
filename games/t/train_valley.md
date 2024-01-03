@@ -1,36 +1,36 @@
 # Train Valley
 [Store](https://store.epicgames.com/en-US/p/train-valley-ead642)  
 [View Rawdata](../../db/t/train_valley.json)  
-Rating: 4.49 (Ranked 632)  
+Rating: 4.49 (Ranked 633)  
 Number of Ratings: 28  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 76.00% | ~475 |
+| Getting started | 76.00% | ~476 |
 | Close call! | 70.00% | ~438 |
-| Builder | 51.00% | ~319 |
+| Builder | 50.00% | ~313 |
 | Living it large! | 44.00% | ~275 |
 | Collector | 43.00% | ~269 |
 | Pangs of conscience | 43.00% | ~269 |
-| Completely nuts! | 41.00% | ~256 |
-| Need to think | 41.00% | ~256 |
+| Completely nuts! | 41.00% | ~257 |
+| Need to think | 41.00% | ~257 |
 | Europe | 32.00% | ~200 |
 | Just in time! | 32.00% | ~200 |
 | Madness! | 31.00% | ~194 |
 | It's no coincidence. | 28.00% | ~175 |
-| Philatelist | 26.00% | ~162 |
+| Philatelist | 26.00% | ~163 |
 | Let's roll! | 25.00% | ~156 |
 | Ouroboros | 24.00% | ~150 |
 | Non Stop! | 24.00% | ~150 |
 | Foreman | 21.00% | ~131 |
 | Russia | 19.00% | ~119 |
-| America | 18.00% | ~112 |
-| Missed it! | 18.00% | ~112 |
-| Sabotage | 16.00% | ~100 |
+| America | 18.00% | ~113 |
+| Missed it! | 18.00% | ~113 |
+| Sabotage | 15.00% | ~94 |
 | Achtung! | 12.00% | ~75 |
 | Japan | 11.00% | ~69 |
-| Woodcutter | 10.00% | ~62 |
-| Engineer | 10.00% | ~62 |
+| Woodcutter | 10.00% | ~63 |
+| Engineer | 10.00% | ~63 |
 | Tycoon | 9.00% | ~56 |
 | Germany | 7.00% | ~44 |
 | Chuck Norris | 5.00% | ~31 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Mega-railroad | 0.50% | ~3 |
 | Vandal | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 625 (Ranked 331)  
+Progressed: 626 (Ranked 331)  
 Completed: 2 (0.32%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 2 (0.32%) (Ranked 246)
 | 2023-12-31 | 613 | 2 |
 | 2024-01-01 | 618 | 2 |
 | 2024-01-02 | 623 | 2 |
-| 2024-01-03 | 625 | 2 |
+| 2024-01-03 | 626 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

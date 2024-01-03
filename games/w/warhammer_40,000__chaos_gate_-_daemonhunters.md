@@ -23,6 +23,7 @@ Number of Ratings: 371  (23.09.2022)
 | Gunmaster | 4.00% | ~149 |
 | Hold Your Ground | 3.00% | ~112 |
 | Just a Scratch | 3.00% | ~112 |
+| Hive Exterminator | 3.00% | ~112 |
 | Daemonkeeper | 2.00% | ~75 |
 | Corruption Cleanser | 2.00% | ~75 |
 | Mind Like a Fortress | 2.00% | ~75 |
@@ -30,7 +31,6 @@ Number of Ratings: 371  (23.09.2022)
 | Only in Death | 2.00% | ~75 |
 | A Gift Spurned | 2.00% | ~75 |
 | Execution Force | 2.00% | ~75 |
-| Hive Exterminator | 2.00% | ~75 |
 | Fleetmaster | 1.00% | ~37 |
 | For the Machine God | 1.00% | ~37 |
 | Exterminator | 1.00% | ~37 |

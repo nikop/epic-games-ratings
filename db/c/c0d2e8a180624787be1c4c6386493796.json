@@ -4,8 +4,8 @@
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 297,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
     "PcReleaseDate": "2020-10-15T04:00:00+00:00",
@@ -1268,9 +1268,9 @@
       "ID": "KR4_ACHIEVEMENT_DEFEAT_DWARF_KING",
       "SetID": "caeik3h",
       "Name": "I am Iron Man",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 201
+      "UsersEstimate": 204
     },
     {
       "ID": "KR4_ACHIEVEMENT_DEMOGORGON",
@@ -1604,9 +1604,9 @@
       "ID": "KR4_ACHIEVEMENT_ORCSHAMAN",
       "SetID": "caeik3h",
       "Name": "Thunderstruck",
-      "Percentage": 40,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 107
     },
     {
       "ID": "KR4_ACHIEVEMENT_PEERLESS_DEFENDER",
@@ -1793,8 +1793,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2024-01-03T17:04:29.0281851+00:00",
+  "LastChanged_Achievements": "2024-01-03T18:04:48.3142106+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:04.1058747+00:00",
-  "LastUpdate_Ratings": "2024-01-03T17:00:52.4906472+00:00",
-  "LastUpdate_Achievements": "2024-01-03T17:04:29.0282433+00:00"
+  "LastUpdate_Ratings": "2024-01-03T18:01:59.1436235+00:00",
+  "LastUpdate_Achievements": "2024-01-03T18:04:48.3142834+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 368,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -583,9 +583,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 46224,
+  "EOS_Progressed": 46232,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 813,
+  "EOS_NewPlayers": 820,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17508,6 +17508,11 @@
       "Time": "2024-01-03T17:06:25.64634+00:00",
       "NumProgressed": 46224,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-03T18:07:26.5560281+00:00",
+      "NumProgressed": 46232,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -17551,7 +17556,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2311
+      "UsersEstimate": 2312
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -17567,7 +17572,7 @@
       "Name": "Attachments",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5547
+      "UsersEstimate": 5548
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -17575,7 +17580,7 @@
       "Name": "Stuck",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2311
+      "UsersEstimate": 2312
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -17591,7 +17596,7 @@
       "Name": "What Must Be Done",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "CHAPTER_05_CLEAR",
@@ -17599,7 +17604,7 @@
       "Name": "Might and Main",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "CHAPTER_06_CLEAR",
@@ -17607,7 +17612,7 @@
       "Name": "Damned If You Do...",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "CHAPTER_07_CLEAR",
@@ -17671,7 +17676,7 @@
       "Name": "Tinkerer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3698
+      "UsersEstimate": 3699
     },
     {
       "ID": "CUFF_ATTACK",
@@ -17679,7 +17684,7 @@
       "Name": "No Mercy",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2773
+      "UsersEstimate": 2774
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -17719,7 +17724,7 @@
       "Name": "Explorer: Pathfinder",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "LOCATION_HUNDRED",
@@ -17735,7 +17740,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2773
+      "UsersEstimate": 2774
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -17767,7 +17772,7 @@
       "Name": "Shocker",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "MAGIC_FLOWER",
@@ -17775,7 +17780,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2311
+      "UsersEstimate": 2312
     },
     {
       "ID": "MAGIC_IVY",
@@ -17791,7 +17796,7 @@
       "Name": "From Every Angle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "MONUMENT_ALL",
@@ -17855,7 +17860,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5085
+      "UsersEstimate": 5086
     },
     {
       "ID": "SPRING_ALL",
@@ -17942,22 +17947,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 46224,
+      "Progressed": 46232,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 11061,
-      "Completed": 11061
+      "Progressed": 11069,
+      "Completed": 11069
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-03T17:03:22.02257+00:00",
-  "LastChanged_Achievements": "2024-01-03T17:06:25.6463395+00:00",
+  "LastChanged_Achievements": "2024-01-03T18:07:26.5560278+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:48.1998363+00:00",
-  "LastUpdate_Ratings": "2024-01-03T17:03:22.0225705+00:00",
-  "LastUpdate_Achievements": "2024-01-03T17:06:25.6464808+00:00"
+  "LastUpdate_Ratings": "2024-01-03T18:02:54.1535299+00:00",
+  "LastUpdate_Achievements": "2024-01-03T18:07:26.5561212+00:00"
 }

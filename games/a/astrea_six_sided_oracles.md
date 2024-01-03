@@ -29,8 +29,8 @@
 | Aquarian Champion | 10.00% | ~31 |
 | Astral Seeker | 9.00% | ~28 |
 | Heavy Purger | 9.00% | ~28 |
+| Stellar Haste | 9.00% | ~28 |
 | Heart Gate | 8.00% | ~25 |
-| Stellar Haste | 8.00% | ~25 |
 | The Corruption Goddess | 7.00% | ~22 |
 | The Goddes Avatar | 7.00% | ~22 |
 | Favored by the Cosmos | 6.00% | ~19 |

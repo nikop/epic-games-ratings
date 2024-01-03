@@ -5,32 +5,32 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | My Papyrus! | 75.00% | ~86 |
-| A Loyal Friend | 39.00% | ~44 |
+| A Loyal Friend | 38.00% | ~44 |
 | Abandon Ship! | 27.00% | ~31 |
 | The Tomb of Kih-Oskh | 21.00% | ~24 |
 | The Weighing of the Soul | 19.00% | ~22 |
-| The Curse of Kih-Oskh | 17.00% | ~19 |
+| The Curse of Kih-Oskh | 17.00% | ~20 |
 | It's a Deal! | 13.00% | ~15 |
-| In the Name of the Law | 11.00% | ~13 |
-| Au Revoir, Abudin | 11.00% | ~13 |
 | Cat Lover | 11.00% | ~13 |
 | Dynamite, Treason and Coconuts | 11.00% | ~13 |
-| Save a Friend | 11.00% | ~13 |
+| In the Name of the Law | 10.00% | ~12 |
+| Au Revoir, Abudin | 10.00% | ~12 |
+| Save a Friend | 10.00% | ~12 |
 | Mysterious Bungalow | 9.00% | ~10 |
 | The Eyes! | 8.00% | ~9 |
 | Keep the Doctor Away | 8.00% | ~9 |
 | Just a Palm Tree | 8.00% | ~9 |
+| Under the Hood | 8.00% | ~9 |
 | Punctual | 8.00% | ~9 |
 | Mummy Nightmare | 8.00% | ~9 |
-| Under the Hood | 7.00% | ~8 |
 | Long Live Gaipajama! | 7.00% | ~8 |
 | Tintin, Reporter | 6.00% | ~7 |
 | Eyes Shut | 6.00% | ~7 |
 | Barking Dog | 6.00% | ~7 |
 | Mountain Runner | 4.00% | ~5 |
-| Subtlety | 4.00% | ~5 |
 | The Corporal's Golden Boy | 3.00% | ~3 |
 | A Yummy Detour | 3.00% | ~3 |
+| Subtlety | 3.00% | ~3 |
 | Threat | 3.00% | ~3 |
 | A Diagnosis | 2.00% | ~2 |
 | Jungle Runner | 2.00% | ~2 |
@@ -42,7 +42,7 @@
 | Trials of Kih-Oskh | 0.00% | ~0 |
 | Escaping War | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 114 (Ranked 476)  
+Progressed: 115 (Ranked 476)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,4 +87,4 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2023-12-30 | 111 | 0 |
 | 2024-01-01 | 112 | 0 |
 | 2024-01-02 | 113 | 0 |
-| 2024-01-03 | 114 | 0 |
+| 2024-01-03 | 115 | 0 |

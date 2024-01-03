@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10464,9 +10464,9 @@
       "Count": 1076
     }
   ],
-  "EOS_Progressed": 131488,
+  "EOS_Progressed": 131500,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1284,
+  "EOS_NewPlayers": 1283,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38154,6 +38154,11 @@
       "Time": "2024-01-03T17:09:55.3266817+00:00",
       "NumProgressed": 131488,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-03T18:10:33.576968+00:00",
+      "NumProgressed": 131500,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38173,7 +38178,7 @@
       "Name": "Serenity Now!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6574
+      "UsersEstimate": 6575
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -38189,7 +38194,7 @@
       "Name": "A Life Well Lived",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "altar_of_hope_unlock_hero_flagellant",
@@ -38277,7 +38282,7 @@
       "Name": "Loop Year",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "combat_kill_animal",
@@ -38293,7 +38298,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7889
+      "UsersEstimate": 7890
     },
     {
       "ID": "combat_kill_cadavers",
@@ -38325,7 +38330,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6574
+      "UsersEstimate": 6575
     },
     {
       "ID": "combat_kill_fanatics",
@@ -38365,7 +38370,7 @@
       "Name": "Meat and Greet",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6574
+      "UsersEstimate": 6575
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -38373,7 +38378,7 @@
       "Name": "Clearing the Ledger",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1184
     },
     {
       "ID": "combat_kill_leviathan",
@@ -38381,7 +38386,7 @@
       "Name": "Catch and Decease",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6574
+      "UsersEstimate": 6575
     },
     {
       "ID": "combat_kill_librarian",
@@ -38389,7 +38394,7 @@
       "Name": "Overdue Notice",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6574
+      "UsersEstimate": 6575
     },
     {
       "ID": "combat_kill_pillagers",
@@ -38405,7 +38410,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6574
+      "UsersEstimate": 6575
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -38421,7 +38426,7 @@
       "Name": "Bacon Bits",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "combat_party_wipe_all_run_bosses",
@@ -38429,7 +38434,7 @@
       "Name": "No Gravestone Left Unturned",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "combat_party_wipe_any_run_boss",
@@ -38501,7 +38506,7 @@
       "Name": "20,000 Leagues Above the Sea",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "hero_loss_memoried",
@@ -38517,7 +38522,7 @@
       "Name": "Autodidact",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7889
+      "UsersEstimate": 7890
     },
     {
       "ID": "hero_story_complete_all",
@@ -38589,7 +38594,7 @@
       "Name": "The Clash",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "relationships_all_positive_mountain",
@@ -38669,7 +38674,7 @@
       "Name": "Hard Mode",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "stagecoach_upgrade_equip_all",
@@ -38701,7 +38706,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "combat_kill_collector",
@@ -38709,7 +38714,7 @@
       "Name": "This guy... again?",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -38765,7 +38770,7 @@
       "Name": "Lost and Found",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -38773,7 +38778,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -38796,21 +38801,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131488,
+      "Progressed": 131500,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6357,
+      "Progressed": 6369,
       "Completed": 820
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-03T15:00:11.6268102+00:00",
-  "LastChanged_Achievements": "2024-01-03T17:09:55.3266812+00:00",
+  "LastChanged_Achievements": "2024-01-03T18:10:33.5769678+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-03T16:59:48.4077846+00:00",
-  "LastUpdate_Achievements": "2024-01-03T17:09:55.3268797+00:00"
+  "LastUpdate_Ratings": "2024-01-03T18:00:26.0170466+00:00",
+  "LastUpdate_Achievements": "2024-01-03T18:10:33.5771384+00:00"
 }

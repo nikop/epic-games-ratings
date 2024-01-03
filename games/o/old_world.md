@@ -17,6 +17,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learned | 0.80% | ~129 |
 | Mason | 0.80% | ~129 |
 | Noble | 0.80% | ~129 |
+| Pioneer | 0.80% | ~129 |
 | Strong | 0.80% | ~129 |
 | Hanging Gardens | 0.80% | ~129 |
 | Oracle | 0.80% | ~129 |
@@ -25,8 +26,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious | 0.70% | ~113 |
 | Just | 0.70% | ~113 |
 | Keystone | 0.70% | ~113 |
-| Pioneer | 0.70% | ~113 |
 | Developing Cities | 0.70% | ~113 |
+| Strong Cities | 0.70% | ~113 |
 | Pyramids | 0.70% | ~113 |
 | Judaism | 0.70% | ~113 |
 | Greek Paganism | 0.70% | ~113 |
@@ -36,7 +37,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Fountainhead | 0.60% | ~97 |
 | Magnificent | 0.60% | ~97 |
 | Warrior | 0.60% | ~97 |
-| Strong Cities | 0.60% | ~97 |
 | Ishtar Gate | 0.60% | ~97 |
 | Learn to Play 1 | 0.60% | ~97 |
 | Christianity | 0.60% | ~97 |
@@ -77,6 +77,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Artisans | 0.30% | ~48 |
 | Champions | 0.30% | ~48 |
 | Patrons | 0.30% | ~48 |
+| Traders | 0.30% | ~48 |
 | Hittite Iron | 0.30% | ~48 |
 | Learn to Play 3 | 0.30% | ~48 |
 | Greece | 0.30% | ~48 |
@@ -98,7 +99,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Landowners | 0.20% | ~32 |
 | Riders | 0.20% | ~32 |
 | Statesmen | 0.20% | ~32 |
-| Traders | 0.20% | ~32 |
 | Circus Maximus | 0.20% | ~32 |
 | Hagia Sophia | 0.20% | ~32 |
 | Church of the Holy Sepulchre | 0.20% | ~32 |

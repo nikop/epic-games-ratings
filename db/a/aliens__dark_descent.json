@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -519,9 +519,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 5757,
+  "EOS_Progressed": 5758,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 484,
+  "EOS_NewPlayers": 479,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -8699,6 +8699,11 @@
       "Time": "2024-01-03T17:06:43.6421949+00:00",
       "NumProgressed": 5757,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-03T18:07:51.1302551+00:00",
+      "NumProgressed": 5758,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -8758,7 +8763,7 @@
       "Name": "Omelette Du Fromage",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1554
+      "UsersEstimate": 1555
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -8814,7 +8819,7 @@
       "Name": "Regicide",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "ACH_KILL_UNDETECTED",
@@ -8830,7 +8835,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 3339
+      "UsersEstimate": 3340
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -8844,9 +8849,9 @@
       "ID": "ACH_MARINE_PROSTHESIS",
       "SetID": "816efe",
       "Name": "Chalk It Up To Experience",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_MAX_ALL_CLASSES",
@@ -8862,7 +8867,7 @@
       "Name": "El Riesgo Siempre Vive",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 1151
+      "UsersEstimate": 1152
     },
     {
       "ID": "ACH_MAX_MEDIC",
@@ -8902,7 +8907,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 3051
+      "UsersEstimate": 3052
     },
     {
       "ID": "ACH_MISSION_02",
@@ -8918,7 +8923,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2245
+      "UsersEstimate": 2246
     },
     {
       "ID": "ACH_MISSION_04",
@@ -8934,7 +8939,7 @@
       "Name": "Where It All Begun",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 1957
+      "UsersEstimate": 1958
     },
     {
       "ID": "ACH_MISSION_06",
@@ -8950,7 +8955,7 @@
       "Name": "The Darwin Era Was Here",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 1439
+      "UsersEstimate": 1440
     },
     {
       "ID": "ACH_MISSION_08",
@@ -9006,7 +9011,7 @@
       "Name": "Snatched Out",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 3742
+      "UsersEstimate": 3743
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -9014,7 +9019,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 4433
+      "UsersEstimate": 4434
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -9022,7 +9027,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 2936
+      "UsersEstimate": 2937
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -9030,7 +9035,7 @@
       "Name": "People Person",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 2763
+      "UsersEstimate": 2764
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -9046,7 +9051,7 @@
       "Name": "Recouped Investment",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 1842
+      "UsersEstimate": 1843
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -9069,7 +9074,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 5757,
+      "Progressed": 5758,
       "Completed": 3
     }
   ],
@@ -9077,8 +9082,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-01T15:58:28.7492695+00:00",
-  "LastChanged_Achievements": "2024-01-03T17:06:43.6421944+00:00",
+  "LastChanged_Achievements": "2024-01-03T18:07:51.1302548+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:52.952602+00:00",
-  "LastUpdate_Ratings": "2024-01-03T17:00:01.3302479+00:00",
-  "LastUpdate_Achievements": "2024-01-03T17:06:43.6422641+00:00"
+  "LastUpdate_Ratings": "2024-01-03T18:00:45.3336803+00:00",
+  "LastUpdate_Achievements": "2024-01-03T18:07:51.1303239+00:00"
 }

@@ -34,9 +34,9 @@ Number of Ratings: 292  (23.09.2022)
 | Such A Fungi | 1.00% | ~10 |
 | Grand Master | 1.00% | ~10 |
 | In The Thick of It | 0.80% | ~8 |
+| Death To Diplomacy | 0.50% | ~5 |
 | Unlimited Power! | 0.50% | ~5 |
 | Get Over Here! | 0.50% | ~5 |
-| Death To Diplomacy | 0.40% | ~4 |
 | Coming Through! | 0.40% | ~4 |
 | Killing Spree | 0.40% | ~4 |
 | Cleave | 0.40% | ~4 |

@@ -6,20 +6,20 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 10.00% | ~14,919 |
-| Titan's First Steps | 10.00% | ~14,919 |
-| Basic in Bulk | 9.00% | ~13,427 |
-| Tinkle of Coins | 9.00% | ~13,427 |
-| Disintermediation | 7.00% | ~10,443 |
-| Capitalism Ho! | 7.00% | ~10,443 |
-| It's Free Real Estate | 6.00% | ~8,951 |
-| Budding Merchant | 6.00% | ~8,951 |
-| One Easy Payment | 5.00% | ~7,459 |
-| Some Assembly Required | 5.00% | ~7,459 |
-| Another Satisfied Customer | 5.00% | ~7,459 |
-| Pretty Penny | 5.00% | ~7,459 |
-| One-Armed Bandit | 5.00% | ~7,459 |
-| Own the Means of Production | 5.00% | ~7,459 |
+| Sponsored by Argon | 10.00% | ~14,920 |
+| Titan's First Steps | 10.00% | ~14,920 |
+| Basic in Bulk | 9.00% | ~13,428 |
+| Tinkle of Coins | 9.00% | ~13,428 |
+| Disintermediation | 7.00% | ~10,444 |
+| Capitalism Ho! | 7.00% | ~10,444 |
+| It's Free Real Estate | 6.00% | ~8,952 |
+| Budding Merchant | 6.00% | ~8,952 |
+| One Easy Payment | 5.00% | ~7,460 |
+| Some Assembly Required | 5.00% | ~7,460 |
+| Another Satisfied Customer | 5.00% | ~7,460 |
+| Pretty Penny | 5.00% | ~7,460 |
+| One-Armed Bandit | 5.00% | ~7,460 |
+| Own the Means of Production | 5.00% | ~7,460 |
 | The Daily Grind | 4.00% | ~5,968 |
 | Bounty Hunters | 4.00% | ~5,968 |
 | Demand for Supplies | 4.00% | ~5,968 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~597 |
 | Capitalist Camaraderie | 0.20% | ~298 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 149,188 (Ranked 86)  
+Progressed: 149,195 (Ranked 86)  
 Completed: 341 (0.23%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -377,14 +377,14 @@ Completed: 341 (0.23%) (Ranked 268)
 | 2023-12-31 | 148,713 | 340 |
 | 2024-01-01 | 148,903 | 340 |
 | 2024-01-02 | 149,077 | 341 |
-| 2024-01-03 | 149,188 | 341 |
+| 2024-01-03 | 149,195 | 341 |
 ## Awards
-Max (Great for Beginners): 4,937  (Ranked 78)  
-Sum: 27,912 (Ranked 52)  
+Max (Great for Beginners): 4,940  (Ranked 78)  
+Sum: 27,915 (Ranked 52)  
 Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,937 |
+| This game is Great for Beginners | 4,940 |
 | This game is Relaxing | 4,072 |
 | This game has Quickly Understood Controls | 4,066 |
 | This game has Diverse Characters | 4,020 |
@@ -732,4 +732,4 @@ Diff (max vs sum): 26
 | 2023-12-31 | 3.99 | - | 4,934 | 27,878 |
 | 2024-01-01 | 3.99 | - | 4,934 | 27,894 |
 | 2024-01-02 | 3.99 | - | 4,937 | 27,905 |
-| 2024-01-03 | 3.99 | - | 4,937 | 27,912 |
+| 2024-01-03 | 3.99 | - | 4,940 | 27,915 |

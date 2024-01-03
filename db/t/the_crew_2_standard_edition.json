@@ -4,11 +4,11 @@
   "ProductSlug": "the-crew-2",
   "Ranking_Rating": 284,
   "Ranking_Popularity": 186,
-  "Ranking_PopularitySum": 144,
+  "Ranking_PopularitySum": 145,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 568,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2019-12-04T11:00:00+00:00",
     "PcReleaseDate": "2018-05-31T15:00:00+00:00",
@@ -8449,6 +8449,6 @@
   "FirstSeen": "2022-07-22T20:24:02.2131047+00:00",
   "LastChanged": "2024-01-03T10:58:06.3711161+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:59.1108587+00:00",
-  "LastUpdate_Ratings": "2024-01-03T16:58:41.1624861+00:00",
-  "LastUpdate_Achievements": "2024-01-03T17:04:39.7535435+00:00"
+  "LastUpdate_Ratings": "2024-01-03T17:58:50.7215739+00:00",
+  "LastUpdate_Achievements": "2024-01-03T18:05:03.0305391+00:00"
 }

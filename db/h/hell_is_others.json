@@ -2,13 +2,13 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 765,
+  "Ranking_Rating": 766,
   "Ranking_Popularity": 440,
-  "Ranking_PopularitySum": 361,
+  "Ranking_PopularitySum": 359,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -1367,10 +1367,16 @@
       "Rating": 4.4,
       "NumberOfAwards": 371,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2024-01-03T17:59:58.7102863+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 372,
+      "NumberOfAwardsMax": 54
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 371,
+  "NumberOfAwards": 372,
   "NumberOfAwardsMax": 54,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1420,7 +1426,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1437,7 +1443,7 @@
   ],
   "EOS_Progressed": 260167,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 330,
+  "EOS_NewPlayers": 327,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26625,9 +26631,9 @@
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2024-01-03T10:58:53.9365914+00:00",
-  "LastChanged_Achievements": "2024-01-03T17:06:38.5216838+00:00",
+  "LastChanged": "2024-01-03T17:59:58.7102862+00:00",
+  "LastChanged_Achievements": "2024-01-03T18:07:44.2787932+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:41.7689812+00:00",
-  "LastUpdate_Ratings": "2024-01-03T16:59:29.9327164+00:00",
-  "LastUpdate_Achievements": "2024-01-03T17:06:38.5218624+00:00"
+  "LastUpdate_Ratings": "2024-01-03T17:59:58.7102866+00:00",
+  "LastUpdate_Achievements": "2024-01-03T18:07:44.2789556+00:00"
 }

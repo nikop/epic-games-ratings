@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -1751,9 +1751,9 @@
       "ID": "ACH_REVISIT_MISSION",
       "SetID": "4n84pon",
       "Name": "Re-Return of the Clone of the Invasion II-2",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_SKATE_ALBION",
@@ -1840,8 +1840,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-03T11:58:36.9448322+00:00",
-  "LastChanged_Achievements": "2024-01-03T17:09:24.7310206+00:00",
+  "LastChanged_Achievements": "2024-01-03T18:09:52.711427+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.261947+00:00",
-  "LastUpdate_Ratings": "2024-01-03T16:58:57.1074173+00:00",
-  "LastUpdate_Achievements": "2024-01-03T17:09:24.7310567+00:00"
+  "LastUpdate_Ratings": "2024-01-03T17:59:14.0950764+00:00",
+  "LastUpdate_Achievements": "2024-01-03T18:09:52.7114593+00:00"
 }

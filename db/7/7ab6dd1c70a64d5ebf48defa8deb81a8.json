@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -61,9 +61,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1721,
+  "EOS_Progressed": 1722,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 371,
+  "EOS_NewPlayers": 370,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -3386,6 +3386,11 @@
       "Time": "2024-01-03T17:10:19.5828099+00:00",
       "NumProgressed": 1721,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-03T18:11:06.340394+00:00",
+      "NumProgressed": 1722,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -3429,7 +3434,7 @@
       "Name": "To Battle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_06",
@@ -3437,7 +3442,7 @@
       "Name": "Godslayer",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_07",
@@ -3469,7 +3474,7 @@
       "Name": "Trinity",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "ACH_11",
@@ -3493,7 +3498,7 @@
       "Name": "Adventurer",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "ACH_14",
@@ -3507,9 +3512,9 @@
       "ID": "ACH_15",
       "SetID": "efe2lj",
       "Name": "Tributes of Caladrias",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 327
+      "UsersEstimate": 344
     },
     {
       "ID": "ACH_16",
@@ -3533,7 +3538,7 @@
       "Name": "Shatter Them All",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "ACH_19",
@@ -3597,7 +3602,7 @@
       "Name": "Scholar",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "ACH_27",
@@ -3645,7 +3650,7 @@
       "Name": "Miner",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_34",
@@ -3684,7 +3689,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1721,
+      "Progressed": 1722,
       "Completed": 3
     }
   ],
@@ -3692,8 +3697,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-02T01:47:19.6899919+00:00",
-  "LastChanged_Achievements": "2024-01-03T17:10:19.5828093+00:00",
+  "LastChanged_Achievements": "2024-01-03T18:11:06.3403938+00:00",
   "LastUpdate_AppInfo": "2024-01-01T22:57:08.0954502+00:00",
-  "LastUpdate_Ratings": "2024-01-03T17:01:09.3931415+00:00",
-  "LastUpdate_Achievements": "2024-01-03T17:10:19.5828575+00:00"
+  "LastUpdate_Ratings": "2024-01-03T18:02:24.1883511+00:00",
+  "LastUpdate_Achievements": "2024-01-03T18:11:06.3404491+00:00"
 }

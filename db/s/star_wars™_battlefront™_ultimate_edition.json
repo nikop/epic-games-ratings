@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2548,
+  "EOS_Progressed": 2550,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 305,
+  "EOS_NewPlayers": 306,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7079,6 +7079,11 @@
       "Time": "2024-01-03T17:10:24.9198808+00:00",
       "NumProgressed": 2548,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-03T18:11:13.2269024+00:00",
+      "NumProgressed": 2550,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -7107,7 +7112,7 @@
       "Name": "Hold the line!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_12",
@@ -7155,7 +7160,7 @@
       "Name": "\u0022Gonk? Gonk!\u0022",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "achievement_18",
@@ -7267,7 +7272,7 @@
       "Name": "Never tell me the odds!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "achievement_30",
@@ -7315,7 +7320,7 @@
       "Name": "New Recruit",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 2217
+      "UsersEstimate": 2218
     },
     {
       "ID": "achievement_36",
@@ -7323,7 +7328,7 @@
       "Name": "Impressive. Most impressive.",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "achievement_37",
@@ -7331,7 +7336,7 @@
       "Name": "Off to a good start",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1580
+      "UsersEstimate": 1581
     },
     {
       "ID": "achievement_38",
@@ -7339,7 +7344,7 @@
       "Name": "Survivor",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "achievement_39",
@@ -7347,7 +7352,7 @@
       "Name": "Ackbar\u0027s Elite",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_4",
@@ -7363,7 +7368,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     },
     {
       "ID": "achievement_41",
@@ -7371,7 +7376,7 @@
       "Name": "Judge me by my size, do you?",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "achievement_42",
@@ -7395,7 +7400,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "achievement_45",
@@ -7403,7 +7408,7 @@
       "Name": "This is a new day, a new beginning",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_46",
@@ -7443,7 +7448,7 @@
       "Name": "Shoot first",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "achievement_50",
@@ -7451,7 +7456,7 @@
       "Name": "City in the Clouds",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_51",
@@ -7515,7 +7520,7 @@
       "Name": "Alternative solution",
       "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_59",
@@ -7523,7 +7528,7 @@
       "Name": "Onwards!",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_6",
@@ -7547,7 +7552,7 @@
       "Name": "The circle is now complete",
       "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_62",
@@ -7563,7 +7568,7 @@
       "Name": "Disturbed tranquility",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_7",
@@ -7594,13 +7599,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2548,
+      "Progressed": 2550,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2548,
+      "Progressed": 2550,
       "Completed": 1
     }
   ],
@@ -7608,8 +7613,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-03T17:10:24.9198803+00:00",
+  "LastChanged_Achievements": "2024-01-03T18:11:13.2269021+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:19.759459+00:00",
-  "LastUpdate_Ratings": "2024-01-03T17:00:13.8459266+00:00",
-  "LastUpdate_Achievements": "2024-01-03T17:10:24.9199639+00:00"
+  "LastUpdate_Ratings": "2024-01-03T18:01:04.486371+00:00",
+  "LastUpdate_Achievements": "2024-01-03T18:11:13.2269879+00:00"
 }

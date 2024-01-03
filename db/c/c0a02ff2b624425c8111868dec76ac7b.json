@@ -4,8 +4,8 @@
   "ProductSlug": "worldless-49eae3",
   "Ranking_EOS_Progress": 440,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 476,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 461,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-11-21T14:00:00+00:00",
     "PcReleaseDate": "2023-11-21T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 165,
+  "EOS_Progressed": 166,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -724,6 +724,11 @@
       "Time": "2024-01-03T17:06:55.3544704+00:00",
       "NumProgressed": 165,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T18:08:07.712242+00:00",
+      "NumProgressed": 166,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-17T13:09:54.2114838+00:00",
@@ -800,7 +805,7 @@
       "Name": "All clean",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_DARK_PALADIN_ABSORBED",
@@ -808,7 +813,7 @@
       "Name": "Dark Paladin",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_DEMON_ABSORBED",
@@ -840,7 +845,7 @@
       "Name": "Edda and Aven",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_FIRST_ABSORPTION",
@@ -927,14 +932,14 @@
     {
       "ID": "cagp2pi",
       "IsBase": true,
-      "Progressed": 165,
+      "Progressed": 166,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2024-01-03T17:06:55.35447+00:00",
+  "LastChanged_Achievements": "2024-01-03T18:08:07.7122416+00:00",
   "LastUpdate_AppInfo": "2023-12-29T15:57:01.7614135+00:00",
-  "LastUpdate_Ratings": "2024-01-03T17:00:37.02073+00:00",
-  "LastUpdate_Achievements": "2024-01-03T17:06:55.3544933+00:00"
+  "LastUpdate_Ratings": "2024-01-03T18:01:39.1802825+00:00",
+  "LastUpdate_Achievements": "2024-01-03T18:08:07.7122576+00:00"
 }

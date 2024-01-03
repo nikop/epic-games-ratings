@@ -3,12 +3,12 @@
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
   "Ranking_Rating": 284,
-  "Ranking_Popularity": 392,
+  "Ranking_Popularity": 391,
   "Ranking_PopularitySum": 473,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 368,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -263,9 +263,9 @@
       "Count": 90
     }
   ],
-  "EOS_Progressed": 9832,
+  "EOS_Progressed": 9841,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1784,
+  "EOS_NewPlayers": 1764,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3513,6 +3513,11 @@
       "Time": "2024-01-03T17:10:10.7018445+00:00",
       "NumProgressed": 9832,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-03T18:10:55.0900209+00:00",
+      "NumProgressed": 9841,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3525,7 +3530,7 @@
       "Name": "Conspiracy",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1082
+      "UsersEstimate": 1083
     },
     {
       "ID": "03_TheStolenStar",
@@ -3533,7 +3538,7 @@
       "Name": "Stolen Star",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -3653,7 +3658,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "19_TheVoidWolf",
@@ -3661,7 +3666,7 @@
       "Name": "Void Wolf",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -3669,7 +3674,7 @@
       "Name": "Purge the Unclean",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "21_PreciseDefense",
@@ -3763,9 +3768,9 @@
       "ID": "32_AviationSaviour",
       "SetID": "37a94m8",
       "Name": "Aviation Saviour",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 59
     },
     {
       "ID": "33_TzeentchCleaning",
@@ -3781,7 +3786,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -3845,15 +3850,15 @@
       "Name": "Iron Judgement",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
       "SetID": "37a94m8",
       "Name": "No Place Like Home",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 295
+      "UsersEstimate": 394
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -3877,7 +3882,7 @@
       "Name": "A Spark",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "47_AFlame",
@@ -3885,7 +3890,7 @@
       "Name": "A Flame",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "48_TheUnexpectedCompany",
@@ -3925,15 +3930,15 @@
       "Name": "Frog Trader",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "53_GardensOfMadness",
       "SetID": "37a94m8",
       "Name": "Enraged Dragon",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 79
     },
     {
       "ID": "54_ThisIsAJobForLordCaptain",
@@ -3949,7 +3954,7 @@
       "Name": "Returning the Boots",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "56_ThoroughInvestigation",
@@ -4044,7 +4049,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 9832,
+      "Progressed": 9841,
       "Completed": 1
     }
   ],
@@ -4052,8 +4057,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-03T03:00:34.4543831+00:00",
-  "LastChanged_Achievements": "2024-01-03T17:10:10.7018441+00:00",
+  "LastChanged_Achievements": "2024-01-03T18:10:55.0900206+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2024-01-03T17:01:11.9927255+00:00",
-  "LastUpdate_Achievements": "2024-01-03T17:10:10.7019054+00:00"
+  "LastUpdate_Ratings": "2024-01-03T18:02:28.0316792+00:00",
+  "LastUpdate_Achievements": "2024-01-03T18:10:55.0900822+00:00"
 }

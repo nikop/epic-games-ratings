@@ -18,14 +18,14 @@ Rating: 4.55 (Ranked 522)
 | Ladies' man | 30.00% | ~47 |
 | Ferocious wild boars | 24.00% | ~38 |
 | Idiot | 24.00% | ~38 |
-| Beast slayer | 21.00% | ~33 |
+| Beast slayer | 22.00% | ~35 |
 | Death of a legend | 18.00% | ~28 |
 | Ogre friend | 18.00% | ~28 |
+| Family man | 17.00% | ~27 |
 | Archaeologist | 17.00% | ~27 |
 | Fence | 17.00% | ~27 |
 | Sidelined | 17.00% | ~27 |
 | Wise man | 16.00% | ~25 |
-| Family man | 16.00% | ~25 |
 | Little hero | 16.00% | ~25 |
 | The fourth triplet | 16.00% | ~25 |
 | Hard worker | 15.00% | ~24 |

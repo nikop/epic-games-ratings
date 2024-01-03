@@ -2,10 +2,10 @@
   "ID": "947753e35eda434f9eafba17afa8f570",
   "Name": "Alekon",
   "ProductSlug": "alekon-b2faec",
-  "Ranking_EOS_Progress": 660,
+  "Ranking_EOS_Progress": 661,
   "Ranking_EOS_Completed": 37,
   "Ranking_EOS_NewPlayers": 568,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
     "PcReleaseDate": "2021-06-12T17:00:00+00:00",
@@ -415,8 +415,8 @@
   ],
   "FirstSeen": "2023-06-01T17:57:13.1793768+00:00",
   "FirstSeenAchievements": "2023-05-06T12:01:39.7571986+00:00",
-  "LastChanged_Achievements": "2024-01-03T17:04:31.5926357+00:00",
+  "LastChanged_Achievements": "2024-01-03T18:04:51.9257062+00:00",
   "LastUpdate_AppInfo": "2023-12-31T09:56:57.7879437+00:00",
-  "LastUpdate_Ratings": "2024-01-03T16:59:21.4061495+00:00",
-  "LastUpdate_Achievements": "2024-01-03T17:04:31.5926592+00:00"
+  "LastUpdate_Ratings": "2024-01-03T17:59:46.6611585+00:00",
+  "LastUpdate_Achievements": "2024-01-03T18:04:51.9257277+00:00"
 }

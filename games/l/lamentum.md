@@ -18,8 +18,8 @@ Rating: 4.28 (Ranked 888)
 | Ritual | 10.00% | ~34 |
 | Cowardice | 10.00% | ~34 |
 | Bloodrush | 8.00% | ~28 |
+| The moth and the flame | 7.00% | ~24 |
 | True magic doesn't exist | 7.00% | ~24 |
-| The moth and the flame | 6.00% | ~21 |
 | Moon Cloudiness Sonata by Danloop | 5.00% | ~17 |
 | Redemption | 4.00% | ~14 |
 | Sacrifice | 3.00% | ~10 |

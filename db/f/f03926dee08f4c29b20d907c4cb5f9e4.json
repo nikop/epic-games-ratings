@@ -4,8 +4,8 @@
   "ProductSlug": "horse-club-adventures-2-hazelwood-stories-b257d3",
   "Ranking_EOS_Progress": 539,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 525,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 526,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-07-06T10:00:00+00:00",
     "PcReleaseDate": "2022-10-27T11:00:00+00:00",
@@ -346,9 +346,9 @@
       "ID": "ACH_05_HERDS_OF_HORSES",
       "SetID": "9loam6m",
       "Name": "Herds of horses",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_06_CAT_RESCUE",
@@ -562,9 +562,9 @@
       "ID": "ACH_32_HEART_FOR_ANIMALS",
       "SetID": "9loam6m",
       "Name": "A heart for animals",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_33_LOVELY_VIEW",
@@ -610,9 +610,9 @@
       "ID": "ACH_38_WELL_HIDDEN",
       "SetID": "9loam6m",
       "Name": "Well hidden!",
-      "Percentage": 47,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_39_TENS_AT_THE_LAKE",
@@ -657,8 +657,8 @@
   ],
   "FirstSeen": "2023-07-23T11:57:26.6885781+00:00",
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2024-01-03T17:05:12.8590193+00:00",
+  "LastChanged_Achievements": "2024-01-03T18:05:47.7063907+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9207398+00:00",
-  "LastUpdate_Ratings": "2024-01-03T17:01:10.1785834+00:00",
-  "LastUpdate_Achievements": "2024-01-03T17:05:12.8590581+00:00"
+  "LastUpdate_Ratings": "2024-01-03T18:02:25.3920833+00:00",
+  "LastUpdate_Achievements": "2024-01-03T18:05:47.7064159+00:00"
 }

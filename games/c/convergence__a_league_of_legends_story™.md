@@ -20,11 +20,11 @@ Rating: 4.65 (Ranked 321)
 | Fast Learner | 24.00% | ~291 |
 | The Steel Shadow | 23.00% | ~279 |
 | Breaking Down Barriers | 23.00% | ~279 |
-| The Wicked Twins | 22.00% | ~266 |
-| Right On Time | 21.00% | ~254 |
-| Like Clockwork | 21.00% | ~254 |
-| The Betrayer | 21.00% | ~254 |
-| Golem Chaser | 21.00% | ~254 |
+| The Wicked Twins | 22.00% | ~267 |
+| Right On Time | 21.00% | ~255 |
+| Like Clockwork | 21.00% | ~255 |
+| The Betrayer | 21.00% | ~255 |
+| Golem Chaser | 21.00% | ~255 |
 | Check Your Pulse | 20.00% | ~242 |
 | The Loose Cannon | 19.00% | ~230 |
 | Street Style | 18.00% | ~218 |
@@ -33,8 +33,8 @@ Rating: 4.65 (Ranked 321)
 | Whiz Kid | 15.00% | ~182 |
 | Family Memories | 14.00% | ~170 |
 | Good Neighbor | 14.00% | ~170 |
-| Cartographer | 13.00% | ~157 |
-| Ask Questions Later | 13.00% | ~157 |
+| Cartographer | 13.00% | ~158 |
+| Ask Questions Later | 13.00% | ~158 |
 | Chaincrawler Explorer | 12.00% | ~145 |
 | Treasure Trove | 12.00% | ~145 |
 | Syron for Hope | 12.00% | ~145 |
@@ -59,7 +59,7 @@ Rating: 4.65 (Ranked 321)
 | Raw Talent | 0.60% | ~7 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,211 (Ranked 280)  
+Progressed: 1,212 (Ranked 280)  
 Completed: 6 (0.50%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 6 (0.50%) (Ranked 219)
 | 2023-12-31 | 1,175 | 6 |
 | 2024-01-01 | 1,190 | 6 |
 | 2024-01-02 | 1,201 | 6 |
-| 2024-01-03 | 1,211 | 6 |
+| 2024-01-03 | 1,212 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

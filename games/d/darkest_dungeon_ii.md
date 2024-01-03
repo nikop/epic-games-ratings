@@ -6,17 +6,17 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 12.00% | ~763 |
-| Lost and Found | 8.00% | ~509 |
-| This Belongs in a Museum | 6.00% | ~7,889 |
-| Autodidact | 6.00% | ~7,889 |
-| This guy... again? | 6.00% | ~381 |
-| Serenity Now! | 5.00% | ~6,574 |
-| Creep and Sleep | 5.00% | ~6,574 |
-| Meat and Greet | 5.00% | ~6,574 |
-| Catch and Decease | 5.00% | ~6,574 |
-| Overdue Notice | 5.00% | ~6,574 |
-| Escape from the Black Hole | 5.00% | ~6,574 |
+| Malpractice Assurance | 12.00% | ~764 |
+| Lost and Found | 8.00% | ~510 |
+| This Belongs in a Museum | 6.00% | ~7,890 |
+| Autodidact | 6.00% | ~7,890 |
+| This guy... again? | 6.00% | ~382 |
+| Serenity Now! | 5.00% | ~6,575 |
+| Creep and Sleep | 5.00% | ~6,575 |
+| Meat and Greet | 5.00% | ~6,575 |
+| Catch and Decease | 5.00% | ~6,575 |
+| Overdue Notice | 5.00% | ~6,575 |
+| Escape from the Black Hole | 5.00% | ~6,575 |
 | Ploughshares to Swords | 5.00% | ~318 |
 | Bloody Graduation | 5.00% | ~318 |
 | Don't Make Me Turn This Coach Around | 4.00% | ~5,260 |
@@ -31,7 +31,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 4.00% | ~5,260 |
 | FNG | 4.00% | ~5,260 |
 | Nope | 4.00% | ~5,260 |
-| Friends 'Til the End | 4.00% | ~254 |
+| Friends 'Til the End | 4.00% | ~255 |
 | Resurrection | 3.00% | ~3,945 |
 | Unleash Hell | 3.00% | ~3,945 |
 | Funny Guy | 3.00% | ~3,945 |
@@ -64,14 +64,14 @@ Number of Ratings: 7,767  (23.09.2022)
 | Body of Work | 1.00% | ~1,315 |
 | Slap on the Wrist | 1.00% | ~64 |
 | For Old Time' Sake | 1.00% | ~64 |
-| Clearing the Ledger | 0.90% | ~1,183 |
+| Clearing the Ledger | 0.90% | ~1,184 |
 | Hat Trick | 0.80% | ~1,052 |
 | Triage | 0.80% | ~1,052 |
 | No Mercy | 0.80% | ~51 |
 | Et Tu, Riposte? | 0.80% | ~51 |
 | The World As It Was | 0.60% | ~789 |
-| A Life Well Lived | 0.50% | ~657 |
-| Bacon Bits | 0.50% | ~657 |
+| A Life Well Lived | 0.50% | ~658 |
+| Bacon Bits | 0.50% | ~658 |
 | On This Long Road, We Found Redemption | 0.50% | ~32 |
 | Eidetic | 0.40% | ~526 |
 | Battle Hardened | 0.40% | ~25 |
@@ -79,14 +79,14 @@ Number of Ratings: 7,767  (23.09.2022)
 | Maître De La Lame | 0.30% | ~19 |
 | Circle of Life | 0.20% | ~263 |
 | Grand Slam | 0.20% | ~263 |
-| Loop Year | 0.10% | ~131 |
-| No Gravestone Left Unturned | 0.10% | ~131 |
-| 20,000 Leagues Above the Sea | 0.10% | ~131 |
-| The Clash | 0.10% | ~131 |
-| Hard Mode | 0.10% | ~131 |
+| Loop Year | 0.10% | ~132 |
+| No Gravestone Left Unturned | 0.10% | ~132 |
+| 20,000 Leagues Above the Sea | 0.10% | ~132 |
+| The Clash | 0.10% | ~132 |
+| Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,488 (Ranked 91)  
+Progressed: 131,500 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,7 +334,7 @@ Completed: 3 (0.00%) (Ranked 392)
 | 2023-12-31 | 131,026 | 3 |
 | 2024-01-01 | 131,206 | 3 |
 | 2024-01-02 | 131,365 | 3 |
-| 2024-01-03 | 131,488 | 3 |
+| 2024-01-03 | 131,500 | 3 |
 ## Awards
 Max (Character Customization): 7,940  (Ranked 50)  
 Sum: 21,372 (Ranked 58)  

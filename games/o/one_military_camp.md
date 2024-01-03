@@ -22,9 +22,9 @@
 | Good payer | 6.00% | ~16 |
 | Pathfinder | 6.00% | ~16 |
 | Jantine: the Misfortunes of Evil | 5.00% | ~14 |
+| Overpopulation | 5.00% | ~14 |
 | Self-sufficient | 5.00% | ~14 |
 | Outdoor Decorator | 4.00% | ~11 |
-| Overpopulation | 4.00% | ~11 |
 | Property Bro | 4.00% | ~11 |
 | Medicine Tycoon | 4.00% | ~11 |
 | Tear Down the Wall! | 3.00% | ~8 |

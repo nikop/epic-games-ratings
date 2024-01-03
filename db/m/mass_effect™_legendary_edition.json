@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3633,
+  "EOS_Progressed": 3634,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 450,
+  "EOS_NewPlayers": 447,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -7053,6 +7053,11 @@
       "Time": "2024-01-03T17:10:26.1648918+00:00",
       "NumProgressed": 3633,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-03T18:11:14.5777531+00:00",
+      "NumProgressed": 3634,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-09-20T19:07:08.0577567+00:00",
@@ -7087,9 +7092,9 @@
       "ID": "achievement_101",
       "SetID": "d252ncf",
       "Name": "Combined Arms",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 291
+      "UsersEstimate": 327
     },
     {
       "ID": "achievement_102",
@@ -7143,9 +7148,9 @@
       "ID": "achievement_108",
       "SetID": "d252ncf",
       "Name": "Mail Slot",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 327
+      "UsersEstimate": 363
     },
     {
       "ID": "achievement_109",
@@ -7289,7 +7294,7 @@
       "Name": "Recruit",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1889
+      "UsersEstimate": 1890
     },
     {
       "ID": "achievement_125",
@@ -7303,9 +7308,9 @@
       "ID": "achievement_126",
       "SetID": "d252ncf",
       "Name": "Veteran",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 872
+      "UsersEstimate": 908
     },
     {
       "ID": "achievement_127",
@@ -7409,7 +7414,7 @@
       "Name": "Medal of Exploration III",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 1126
+      "UsersEstimate": 1127
     },
     {
       "ID": "achievement_24",
@@ -7433,15 +7438,15 @@
       "Name": "Krogan Ally",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1126
+      "UsersEstimate": 1127
     },
     {
       "ID": "achievement_27",
       "SetID": "b9pe172",
       "Name": "Turian Ally",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 1453
+      "UsersEstimate": 1490
     },
     {
       "ID": "achievement_28",
@@ -7449,7 +7454,7 @@
       "Name": "Quarian Ally",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 1780
+      "UsersEstimate": 1781
     },
     {
       "ID": "achievement_29",
@@ -7457,7 +7462,7 @@
       "Name": "Asari Ally",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1236
     },
     {
       "ID": "achievement_3",
@@ -7465,7 +7470,7 @@
       "Name": "Distinguished Service Medal",
       "Percentage": 90,
       "XP": 25,
-      "UsersEstimate": 3270
+      "UsersEstimate": 3271
     },
     {
       "ID": "achievement_30",
@@ -7481,7 +7486,7 @@
       "Name": "Spectre Inductee",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 2434
+      "UsersEstimate": 2435
     },
     {
       "ID": "achievement_32",
@@ -7497,7 +7502,7 @@
       "Name": "Search and Rescue",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 1889
+      "UsersEstimate": 1890
     },
     {
       "ID": "achievement_34",
@@ -7593,7 +7598,7 @@
       "Name": "The Archangel",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1018
     },
     {
       "ID": "achievement_45",
@@ -7647,9 +7652,9 @@
       "ID": "achievement_50",
       "SetID": "d252ncf",
       "Name": "The Quarian",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 799
+      "UsersEstimate": 836
     },
     {
       "ID": "achievement_51",
@@ -7769,7 +7774,7 @@
       "Name": "Merciless",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1126
+      "UsersEstimate": 1127
     },
     {
       "ID": "achievement_65",
@@ -7823,9 +7828,9 @@
       "ID": "achievement_70",
       "SetID": "d252ncf",
       "Name": "Operative",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 981
+      "UsersEstimate": 1018
     },
     {
       "ID": "achievement_71",
@@ -7833,7 +7838,7 @@
       "Name": "Scientist",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1126
+      "UsersEstimate": 1127
     },
     {
       "ID": "achievement_72",
@@ -7855,9 +7860,9 @@
       "ID": "achievement_74",
       "SetID": "d252ncf",
       "Name": "Power Full",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 945
+      "UsersEstimate": 981
     },
     {
       "ID": "achievement_75",
@@ -8080,19 +8085,19 @@
     {
       "ID": "b9pe172",
       "IsBase": true,
-      "Progressed": 3633,
+      "Progressed": 3634,
       "Completed": 13
     },
     {
       "ID": "d252ncf",
       "IsBase": false,
-      "Progressed": 3633,
-      "Completed": 8
+      "Progressed": 3634,
+      "Completed": 9
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-03T17:10:26.1648912+00:00",
+  "LastChanged_Achievements": "2024-01-03T18:11:14.5777529+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:34.6542278+00:00",
-  "LastUpdate_Ratings": "2024-01-03T17:03:49.8106876+00:00",
-  "LastUpdate_Achievements": "2024-01-03T17:10:26.1650817+00:00"
+  "LastUpdate_Ratings": "2024-01-03T18:03:52.1364943+00:00",
+  "LastUpdate_Achievements": "2024-01-03T18:11:14.5779765+00:00"
 }

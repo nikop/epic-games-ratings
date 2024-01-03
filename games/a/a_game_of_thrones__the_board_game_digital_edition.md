@@ -6,30 +6,30 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~12,938 |
-| Battering Crew | 19.00% | ~6,145 |
-| The Kingsroad | 18.00% | ~5,822 |
-| Well Stocked | 13.00% | ~4,205 |
-| Royal Fleet | 13.00% | ~4,205 |
-| The Kraken’s Grasp | 9.00% | ~2,911 |
+| Conqueror | 40.00% | ~12,941 |
+| Battering Crew | 19.00% | ~6,147 |
+| The Kingsroad | 18.00% | ~5,824 |
+| Well Stocked | 13.00% | ~4,206 |
+| Royal Fleet | 13.00% | ~4,206 |
+| The Kraken’s Grasp | 9.00% | ~2,912 |
 | Daggers in the Dark | 8.00% | ~2,588 |
 | Alliance | 8.00% | ~2,588 |
-| Winter is Coming | 7.00% | ~2,264 |
-| Oathkeeper | 7.00% | ~2,264 |
-| Influential | 7.00% | ~2,264 |
-| A Long Journey | 7.00% | ~2,264 |
+| Winter is Coming | 7.00% | ~2,265 |
+| Oathkeeper | 7.00% | ~2,265 |
+| Influential | 7.00% | ~2,265 |
+| A Long Journey | 7.00% | ~2,265 |
 | Ours is the Fury | 6.00% | ~1,941 |
 | We Do Not Sow | 6.00% | ~1,941 |
 | Defender of the Wall | 6.00% | ~1,941 |
-| Unbowed, Unbent, Unbroken | 5.00% | ~1,617 |
-| Growing Strong | 5.00% | ~1,617 |
-| Hear me Roar! | 5.00% | ~1,617 |
-| What is Dead may Never Die | 3.00% | ~970 |
+| Unbowed, Unbent, Unbroken | 5.00% | ~1,618 |
+| Growing Strong | 5.00% | ~1,618 |
+| Hear me Roar! | 5.00% | ~1,618 |
+| What is Dead may Never Die | 3.00% | ~971 |
 | King in the North | 2.00% | ~647 |
 | The Swift | 2.00% | ~647 |
-| War of the Five Kings | 1.00% | ~323 |
+| War of the Five Kings | 1.00% | ~324 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,344 (Ranked 137)  
+Progressed: 32,353 (Ranked 137)  
 Completed: 86 (0.27%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 86 (0.27%) (Ranked 257)
 | 2023-12-31 | 32,057 | 86 |
 | 2024-01-01 | 32,170 | 86 |
 | 2024-01-02 | 32,279 | 86 |
-| 2024-01-03 | 32,344 | 86 |
+| 2024-01-03 | 32,353 | 86 |
 ## Awards
 Max (Quickly Understood Controls): 127  (Ranked 344)  
 Sum: 807 (Ranked 291)  

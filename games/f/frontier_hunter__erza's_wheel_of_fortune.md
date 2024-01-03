@@ -20,7 +20,7 @@ Rating: 4.35 (Ranked 820)
 | Handyman | 28.00% | ~194 |
 | Giant Lizard Killer | 27.00% | ~187 |
 | Guardian | 26.00% | ~180 |
-| Nosebleeder | 25.00% | ~173 |
+| Nosebleeder | 26.00% | ~180 |
 | Trader | 22.00% | ~152 |
 | Weapon Boost | 21.00% | ~146 |
 | Flying Kobold Killer | 19.00% | ~132 |

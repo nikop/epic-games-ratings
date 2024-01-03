@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 417,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 416,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-03-01T17:00:00+00:00",
@@ -883,9 +883,9 @@
       "ID": "dep4_achievement_12",
       "SetID": "5d32b60",
       "Name": "Masseltov",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 102
     },
     {
       "ID": "dep4_achievement_13",
@@ -1019,9 +1019,9 @@
       "ID": "dep4_achievement_28",
       "SetID": "5d32b60",
       "Name": "Kuvaq Minigame-Master",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 312
+      "UsersEstimate": 317
     },
     {
       "ID": "dep4_achievement_29",
@@ -1156,8 +1156,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-09-28T09:59:33.6365228+00:00",
-  "LastChanged_Achievements": "2024-01-03T17:06:44.3263073+00:00",
+  "LastChanged_Achievements": "2024-01-03T18:07:51.8474268+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:30.0571081+00:00",
-  "LastUpdate_Ratings": "2024-01-03T17:03:40.4680497+00:00",
-  "LastUpdate_Achievements": "2024-01-03T17:06:44.3263328+00:00"
+  "LastUpdate_Ratings": "2024-01-03T18:03:39.6475488+00:00",
+  "LastUpdate_Achievements": "2024-01-03T18:07:51.8474518+00:00"
 }

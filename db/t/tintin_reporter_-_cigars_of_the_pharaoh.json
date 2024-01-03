@@ -4,8 +4,8 @@
   "ProductSlug": "tintin-reporter-cigars-of-the-pharaoh-8b32ea",
   "Ranking_EOS_Progress": 476,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 398,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 389,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-11-13T17:00:00+00:00",
     "PcReleaseDate": "2023-11-07T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 114,
+  "EOS_Progressed": 115,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -539,6 +539,11 @@
       "Time": "2024-01-03T17:06:45.1698643+00:00",
       "NumProgressed": 114,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T18:07:53.1528406+00:00",
+      "NumProgressed": 115,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-13T17:07:46.1878997+00:00",
@@ -557,17 +562,17 @@
       "ID": "Achievement10",
       "SetID": "9fa3l5n",
       "Name": "In the Name of the Law",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 12
     },
     {
       "ID": "Achievement11",
       "SetID": "9fa3l5n",
       "Name": "Au Revoir, Abudin",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 12
     },
     {
       "ID": "Achievement12",
@@ -605,9 +610,9 @@
       "ID": "Achievement16",
       "SetID": "9fa3l5n",
       "Name": "Under the Hood",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Achievement17",
@@ -637,7 +642,7 @@
       "ID": "Achievement2",
       "SetID": "9fa3l5n",
       "Name": "A Loyal Friend",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 15,
       "UsersEstimate": 44
     },
@@ -773,9 +778,9 @@
       "ID": "Achievement35",
       "SetID": "9fa3l5n",
       "Name": "Subtlety",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "Achievement36",
@@ -815,7 +820,7 @@
       "Name": "The Curse of Kih-Oskh",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Achievement7",
@@ -837,23 +842,23 @@
       "ID": "Achievement9",
       "SetID": "9fa3l5n",
       "Name": "Save a Friend",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 12
     }
   ],
   "AchievementSets": [
     {
       "ID": "9fa3l5n",
       "IsBase": true,
-      "Progressed": 114,
+      "Progressed": 115,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2024-01-03T17:06:45.1698639+00:00",
+  "LastChanged_Achievements": "2024-01-03T18:07:53.1528402+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:40.8073713+00:00",
-  "LastUpdate_Ratings": "2024-01-03T16:57:43.3843554+00:00",
-  "LastUpdate_Achievements": "2024-01-03T17:06:45.1698899+00:00"
+  "LastUpdate_Ratings": "2024-01-03T17:57:33.5961573+00:00",
+  "LastUpdate_Achievements": "2024-01-03T18:07:53.1528693+00:00"
 }

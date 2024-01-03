@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -13939,10 +13939,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 63420,
       "NumberOfAwardsMax": 7696
+    },
+    {
+      "Time": "2024-01-03T17:57:44.1599699+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 63439,
+      "NumberOfAwardsMax": 7696
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 63420,
+  "NumberOfAwards": 63439,
   "NumberOfAwardsMax": 7696,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -13950,7 +13956,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 7376
+      "Count": 7395
     },
     {
       "Text": "This game has Challenging Combat",
@@ -14013,9 +14019,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 491145,
+  "EOS_Progressed": 491196,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5628,
+  "EOS_NewPlayers": 5627,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -43783,6 +43789,11 @@
       "Time": "2024-01-03T17:09:48.8427228+00:00",
       "NumProgressed": 491145,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-03T18:10:24.9639202+00:00",
+      "NumProgressed": 491196,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -44234,7 +44245,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1473
+      "UsersEstimate": 1474
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -44818,7 +44829,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1473
+      "UsersEstimate": 1474
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -46697,21 +46708,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 491145,
+      "Progressed": 491196,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 491145,
+      "Progressed": 491196,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-01-03T14:57:41.5210793+00:00",
-  "LastChanged_Achievements": "2024-01-03T17:09:48.8427223+00:00",
+  "LastChanged": "2024-01-03T17:57:44.1599698+00:00",
+  "LastChanged_Achievements": "2024-01-03T18:10:24.96392+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:39.2428149+00:00",
-  "LastUpdate_Ratings": "2024-01-03T16:57:52.0797729+00:00",
-  "LastUpdate_Achievements": "2024-01-03T17:09:48.8440435+00:00"
+  "LastUpdate_Ratings": "2024-01-03T17:57:44.1599704+00:00",
+  "LastUpdate_Achievements": "2024-01-03T18:10:24.9650206+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 145,
   "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -307,7 +307,7 @@
   ],
   "EOS_Progressed": 305,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 1.64,
   "EosHistory": [
@@ -1460,9 +1460,9 @@
       "ID": "ACH_CHALLENGE_RACETHREESTAR",
       "SetID": "cefn62b",
       "Name": "PK Slam Dunk",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_CHALLENGE_RAMPAGETHREESTAR",
@@ -1668,8 +1668,8 @@
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2024-01-02T13:57:49.2378657+00:00",
-  "LastChanged_Achievements": "2024-01-03T17:08:39.2169802+00:00",
+  "LastChanged_Achievements": "2024-01-03T18:08:51.6623604+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:06.6677344+00:00",
-  "LastUpdate_Ratings": "2024-01-03T16:58:24.8052368+00:00",
-  "LastUpdate_Achievements": "2024-01-03T17:08:39.2170154+00:00"
+  "LastUpdate_Ratings": "2024-01-03T17:58:29.1837447+00:00",
+  "LastUpdate_Achievements": "2024-01-03T18:08:51.6623924+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -311,7 +311,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2613,
+  "EOS_Progressed": 2614,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
@@ -7571,6 +7571,11 @@
       "Time": "2024-01-03T17:04:00.5668872+00:00",
       "NumProgressed": 2613,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T18:04:09.4748554+00:00",
+      "NumProgressed": 2614,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -7582,7 +7587,7 @@
       "Name": "Apprentice",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "A01",
@@ -7590,7 +7595,7 @@
       "Name": "Stoker",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "A02",
@@ -7606,7 +7611,7 @@
       "Name": "Resistance is futile",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "A04",
@@ -7622,7 +7627,7 @@
       "Name": "A new Hope",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "A06",
@@ -7686,7 +7691,7 @@
       "Name": "Seven at one stroke",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "A14",
@@ -7702,7 +7707,7 @@
       "Name": "Full Steam ahead",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "A16",
@@ -7718,7 +7723,7 @@
       "Name": "Facility Manager",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 1411
+      "UsersEstimate": 1412
     },
     {
       "ID": "A18",
@@ -7742,7 +7747,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 1986
+      "UsersEstimate": 1987
     },
     {
       "ID": "A21",
@@ -7806,7 +7811,7 @@
       "Name": "We brake for nobody",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1803
+      "UsersEstimate": 1804
     },
     {
       "ID": "A29",
@@ -7830,7 +7835,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "A32",
@@ -7870,7 +7875,7 @@
       "Name": "Way of Iron",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 1855
+      "UsersEstimate": 1856
     },
     {
       "ID": "A37",
@@ -7878,7 +7883,7 @@
       "Name": "All around the World",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 1672
+      "UsersEstimate": 1673
     },
     {
       "ID": "A38",
@@ -7886,7 +7891,7 @@
       "Name": "Poor Devil",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 1411
+      "UsersEstimate": 1412
     },
     {
       "ID": "A39",
@@ -7932,9 +7937,9 @@
       "ID": "A44",
       "SetID": "9b7p7eo",
       "Name": "Breaking Ground",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 601
+      "UsersEstimate": 575
     },
     {
       "ID": "A45",
@@ -7950,7 +7955,7 @@
       "Name": "Mystery Tour",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1829
+      "UsersEstimate": 1830
     },
     {
       "ID": "A47",
@@ -8021,7 +8026,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 2613,
+      "Progressed": 2614,
       "Completed": 0
     }
   ],
@@ -8029,8 +8034,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-12-27T17:00:03.776976+00:00",
-  "LastChanged_Achievements": "2024-01-03T17:04:00.5668868+00:00",
+  "LastChanged_Achievements": "2024-01-03T18:04:09.474855+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:54.9390802+00:00",
-  "LastUpdate_Ratings": "2024-01-03T17:00:04.5709167+00:00",
-  "LastUpdate_Achievements": "2024-01-03T17:04:00.5669707+00:00"
+  "LastUpdate_Ratings": "2024-01-03T18:00:50.9804633+00:00",
+  "LastUpdate_Achievements": "2024-01-03T18:04:09.4749187+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 54,
   "Ranking_EOS_NewPlayers": 279,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 696,
+  "EOS_Progressed": 697,
   "EOS_Completed": 53,
   "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 7.61,
+  "EOS_Completed_Percentage": 7.6,
   "EosHistory": [
     {
       "Time": "2023-06-13T12:01:22.5999936+00:00",
@@ -2839,6 +2839,11 @@
       "Time": "2024-01-03T17:04:26.6828874+00:00",
       "NumProgressed": 696,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2024-01-03T18:04:45.0907261+00:00",
+      "NumProgressed": 697,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 45,
@@ -2850,7 +2855,7 @@
       "Name": "Wild Run",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "BasiliskBroom",
@@ -2874,7 +2879,7 @@
       "Name": "Dusted",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "BearPistol",
@@ -2914,7 +2919,7 @@
       "Name": "Alms",
       "Percentage": 88,
       "XP": 25,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "BeggarWomanFishGrilled",
@@ -2930,15 +2935,15 @@
       "Name": "Home Sweet Home",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "BroomAmanita",
       "SetID": "db30heh",
       "Name": "Gone Cooking",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 327
+      "UsersEstimate": 321
     },
     {
       "ID": "BroomPistol",
@@ -2954,15 +2959,15 @@
       "Name": "Deal with the Devil",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "DevilRope",
       "SetID": "db30heh",
       "Name": "The Devil is My Friend",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 494
+      "UsersEstimate": 502
     },
     {
       "ID": "Drunkard",
@@ -2986,7 +2991,7 @@
       "Name": "Funny Granny",
       "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "DwarfHobo",
@@ -3002,7 +3007,7 @@
       "Name": "Happy Reunion",
       "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "HastrmanAcorn",
@@ -3018,7 +3023,7 @@
       "Name": "Tastes Funny",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "HastrmanHappy",
@@ -3026,7 +3031,7 @@
       "Name": "Regular Diet",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "HastrmanRum",
@@ -3050,7 +3055,7 @@
       "Name": "King\u0027s Jewel",
       "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "PitSoul",
@@ -3058,7 +3063,7 @@
       "Name": "Your Soul Is Mine",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "PriestBroom",
@@ -3130,7 +3135,7 @@
       "Name": "Debt Free",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "RogueKing",
@@ -3154,7 +3159,7 @@
       "Name": "In Good Spirits",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "SleepingBasiliskAmanita",
@@ -3194,7 +3199,7 @@
       "Name": "Expensive Deal",
       "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "WormGrilled",
@@ -3202,21 +3207,21 @@
       "Name": "Bratwurm",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     }
   ],
   "AchievementSets": [
     {
       "ID": "db30heh",
       "IsBase": true,
-      "Progressed": 696,
+      "Progressed": 697,
       "Completed": 53
     }
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2024-01-03T17:04:26.6828869+00:00",
+  "LastChanged_Achievements": "2024-01-03T18:04:45.0907258+00:00",
   "LastUpdate_AppInfo": "2024-01-03T02:57:24.0507598+00:00",
-  "LastUpdate_Ratings": "2024-01-03T16:58:55.1870843+00:00",
-  "LastUpdate_Achievements": "2024-01-03T17:04:26.6829271+00:00"
+  "LastUpdate_Ratings": "2024-01-03T17:59:11.5361956+00:00",
+  "LastUpdate_Achievements": "2024-01-03T18:04:45.0907654+00:00"
 }

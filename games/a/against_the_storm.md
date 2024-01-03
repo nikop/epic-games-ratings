@@ -13,13 +13,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | No Deaths | 7.00% | ~1,403 |
 | Petrified Necropolis | 7.00% | ~1,403 |
 | The Marshlands | 6.00% | ~1,202 |
+| Gathering Storm | 6.00% | ~1,202 |
 | Overcoming Difficulty | 5.00% | ~1,002 |
 | Coral Forest | 5.00% | ~1,002 |
 | The Scarlet Orchard | 5.00% | ~1,002 |
 | Frosts | 5.00% | ~1,002 |
 | Land of Greed | 5.00% | ~1,002 |
 | Ominous Presence | 5.00% | ~1,002 |
-| Gathering Storm | 5.00% | ~1,002 |
 | Royal Outpost | 4.00% | ~801 |
 | Watchtower | 4.00% | ~801 |
 | Homesick | 3.00% | ~601 |
@@ -56,8 +56,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Fox Utopia | 0.50% | ~100 |
 | Prestigious Expedition | 0.40% | ~80 |
 | Blood Flower Farmer | 0.40% | ~80 |
+| Human Utopia | 0.30% | ~60 |
 | Beaver Utopia | 0.20% | ~40 |
-| Human Utopia | 0.20% | ~40 |
 | Lizard Utopia | 0.20% | ~40 |
 | Paradise | 0.10% | ~20 |
 | Higher Needs | 0.10% | ~20 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,036 (Ranked 152)  
+Progressed: 20,037 (Ranked 152)  
 Completed: 33 (0.16%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 33 (0.16%) (Ranked 283)
 | 2023-12-31 | 19,834 | 34 |
 | 2024-01-01 | 19,919 | 33 |
 | 2024-01-02 | 19,991 | 33 |
-| 2024-01-03 | 20,036 | 33 |
+| 2024-01-03 | 20,037 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 447  (Ranked 230)  
 Sum: 3,322 (Ranked 176)  
