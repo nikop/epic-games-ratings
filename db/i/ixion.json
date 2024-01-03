@@ -329,9 +329,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3915,
+  "EOS_Progressed": 3916,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7749,6 +7749,11 @@
       "Time": "2024-01-03T04:08:14.9253184+00:00",
       "NumProgressed": 3915,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T05:07:56.9407519+00:00",
+      "NumProgressed": 3916,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -8056,7 +8061,7 @@
       "Name": "Permanent Redesigns",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "ACH_BASE_49",
@@ -8126,9 +8131,9 @@
       "ID": "ACH_BASE_58",
       "SetID": "92iocjf",
       "Name": "Drill-dozer",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 196
+      "UsersEstimate": 235
     },
     {
       "ID": "ACH_BASE_59",
@@ -8215,13 +8220,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 2099,
+      "Progressed": 2100,
       "Completed": 10
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3915,
+      "Progressed": 3916,
       "Completed": 0
     }
   ],
@@ -8229,8 +8234,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2024-01-02T02:20:24.7743828+00:00",
-  "LastChanged_Achievements": "2024-01-03T04:08:14.9253181+00:00",
+  "LastChanged_Achievements": "2024-01-03T05:07:56.9407516+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:27.7465752+00:00",
-  "LastUpdate_Ratings": "2024-01-03T03:57:53.7863491+00:00",
-  "LastUpdate_Achievements": "2024-01-03T04:08:14.925386+00:00"
+  "LastUpdate_Ratings": "2024-01-03T04:57:51.5544253+00:00",
+  "LastUpdate_Achievements": "2024-01-03T05:07:56.9408396+00:00"
 }

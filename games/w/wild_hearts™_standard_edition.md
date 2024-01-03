@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Land of the Rising Sun | 100.00% | ~1,087 |
+| Land of the Rising Sun | 100.00% | ~1,088 |
 | Hidden History | 71.00% | ~772 |
-| Commencing of Quests | 61.00% | ~663 |
-| Budding Conjuror | 59.00% | ~641 |
+| Commencing of Quests | 61.00% | ~664 |
+| Budding Conjuror | 59.00% | ~642 |
 | Man-Machine Master | 49.00% | ~533 |
 | Mountain Splitter | 48.00% | ~522 |
 | Charmed by the Hunt | 48.00% | ~522 |
 | Subsistence Skills | 47.00% | ~511 |
 | Memory Rouser | 46.00% | ~500 |
-| Fusion Conjuror | 45.00% | ~489 |
+| Fusion Conjuror | 45.00% | ~490 |
 | Kemono Hunter | 41.00% | ~446 |
 | Expert Conjuror | 39.00% | ~424 |
 | Helpful Heart | 38.00% | ~413 |
-| Flawless Crystal | 37.00% | ~402 |
-| Bonds of Enmity | 37.00% | ~402 |
-| Distance Devourer | 35.00% | ~380 |
+| Flawless Crystal | 37.00% | ~403 |
+| Bonds of Enmity | 37.00% | ~403 |
+| Distance Devourer | 35.00% | ~381 |
 | Counter Specialist | 33.00% | ~359 |
 | Master of the Skies | 31.00% | ~337 |
-| Axer of Auspice | 27.00% | ~293 |
+| Axer of Auspice | 27.00% | ~294 |
 | Mighty Marmelizer | 26.00% | ~283 |
 | Fair Means or Foul | 26.00% | ~283 |
 | Kemono at Heart | 26.00% | ~283 |
@@ -41,7 +41,7 @@
 | Threaded Harmony | 15.00% | ~163 |
 | Karakuri Minato | 14.00% | ~152 |
 | Canyon of Karakuri | 13.00% | ~141 |
-| Jack of All Trades | 12.00% | ~130 |
+| Jack of All Trades | 12.00% | ~131 |
 | Karakuri Fortress | 11.00% | ~120 |
 | Haven Hunter | 10.00% | ~109 |
 | Volatile Vocation | 9.00% | ~98 |
@@ -53,7 +53,7 @@
 | Big Spender | 5.00% | ~54 |
 | Tsukumo Whisperer | 3.00% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,087 (Ranked 285)  
+Progressed: 1,088 (Ranked 285)  
 Completed: 8 (0.74%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,4 +163,4 @@ Completed: 8 (0.74%) (Ranked 192)
 | 2023-12-31 | 1,042 | 8 |
 | 2024-01-01 | 1,065 | 8 |
 | 2024-01-02 | 1,084 | 8 |
-| 2024-01-03 | 1,087 | 8 |
+| 2024-01-03 | 1,088 | 8 |

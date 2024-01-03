@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3402,
+  "EOS_Progressed": 3404,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 524,
+  "EOS_NewPlayers": 523,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3739,6 +3739,11 @@
       "Time": "2024-01-03T04:04:52.0073832+00:00",
       "NumProgressed": 3402,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T05:04:54.8349705+00:00",
+      "NumProgressed": 3404,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -3855,7 +3860,7 @@
       "Name": "Worthy Badge",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -3951,7 +3956,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 1395
+      "UsersEstimate": 1396
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -4117,23 +4122,23 @@
       "ID": "ACHIEVEMENT_55",
       "SetID": "c167foo",
       "Name": "Hundred below",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     }
   ],
   "AchievementSets": [
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 3402,
+      "Progressed": 3404,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2024-01-03T04:04:52.0073828+00:00",
+  "LastChanged_Achievements": "2024-01-03T05:04:54.8349702+00:00",
   "LastUpdate_AppInfo": "2024-01-02T13:00:37.2315097+00:00",
-  "LastUpdate_Ratings": "2024-01-03T04:02:36.4435975+00:00",
-  "LastUpdate_Achievements": "2024-01-03T04:04:52.0074318+00:00"
+  "LastUpdate_Ratings": "2024-01-03T05:00:41.8060743+00:00",
+  "LastUpdate_Achievements": "2024-01-03T05:04:54.8350286+00:00"
 }

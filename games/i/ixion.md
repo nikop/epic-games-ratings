@@ -12,7 +12,7 @@ Rating: 4.59 (Ranked 445)
 | Space Society | 18.00% | ~705 |
 | A Thousand Strong | 18.00% | ~705 |
 | Ready for a New World | 18.00% | ~705 |
-| Permanent Redesigns | 16.00% | ~626 |
+| Permanent Redesigns | 16.00% | ~627 |
 | Fully Recycled | 15.00% | ~587 |
 | The Ship of Theseus | 15.00% | ~587 |
 | Guy de Borderlands | 14.00% | ~548 |
@@ -30,12 +30,12 @@ Rating: 4.59 (Ranked 445)
 | From the Past | 7.00% | ~274 |
 | Access Granted | 6.00% | ~235 |
 | All in Good Health | 6.00% | ~235 |
+| Drill-dozer | 6.00% | ~235 |
 | Oats | 5.00% | ~196 |
 | What They Hide From Us | 5.00% | ~196 |
 | ...  in a finite world | 5.00% | ~196 |
 | In Dolos We Trust | 5.00% | ~196 |
 | BRAWL! | 5.00% | ~196 |
-| Drill-dozer | 5.00% | ~196 |
 | What the Ruins Teach Us | 5.00% | ~196 |
 | Sustainable Energy | 4.00% | ~157 |
 | Pedal to the Metal | 4.00% | ~157 |
@@ -63,7 +63,7 @@ Rating: 4.59 (Ranked 445)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,915 (Ranked 212)  
+Progressed: 3,916 (Ranked 212)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-31 | 3,860 | 0 |
 | 2024-01-01 | 3,888 | 0 |
 | 2024-01-02 | 3,912 | 0 |
-| 2024-01-03 | 3,915 | 0 |
+| 2024-01-03 | 3,916 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

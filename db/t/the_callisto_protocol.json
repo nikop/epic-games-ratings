@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 326,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1947,10 +1947,16 @@
       "Rating": 4.21,
       "NumberOfAwards": 556,
       "NumberOfAwardsMax": 111
+    },
+    {
+      "Time": "2024-01-03T05:03:07.6789968+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 559,
+      "NumberOfAwardsMax": 111
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 556,
+  "NumberOfAwards": 559,
   "NumberOfAwardsMax": 111,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -1964,7 +1970,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 99
+      "Count": 102
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1997,9 +2003,9 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 20715,
+  "EOS_Progressed": 20716,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1211,
+  "EOS_NewPlayers": 1206,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -12322,6 +12328,11 @@
       "Time": "2024-01-03T04:09:37.5738238+00:00",
       "NumProgressed": 20715,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-03T05:09:27.0258677+00:00",
+      "NumProgressed": 20716,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -12365,7 +12376,7 @@
       "Name": "Flesh Wound",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 4557
+      "UsersEstimate": 4558
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -12501,7 +12512,7 @@
       "Name": "Reforged",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3314
+      "UsersEstimate": 3315
     },
     {
       "ID": "PRINT_WEAPON",
@@ -12525,7 +12536,7 @@
       "Name": "The Outer Way",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 4557
+      "UsersEstimate": 4558
     },
     {
       "ID": "STORY_ESCAPE",
@@ -12708,22 +12719,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 20715,
+      "Progressed": 20716,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 8641,
+      "Progressed": 8642,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2024-01-03T01:49:08.600412+00:00",
-  "LastChanged_Achievements": "2024-01-03T04:09:37.5738235+00:00",
+  "LastChanged": "2024-01-03T05:03:07.6789966+00:00",
+  "LastChanged_Achievements": "2024-01-03T05:09:27.0258674+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.412859+00:00",
-  "LastUpdate_Ratings": "2024-01-03T04:03:17.7718279+00:00",
-  "LastUpdate_Achievements": "2024-01-03T04:09:37.5739034+00:00"
+  "LastUpdate_Ratings": "2024-01-03T05:03:07.6789971+00:00",
+  "LastUpdate_Achievements": "2024-01-03T05:09:27.0259522+00:00"
 }

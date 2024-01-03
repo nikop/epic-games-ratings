@@ -5,24 +5,24 @@ Rating: 4.15 (Ranked 990)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 43.00% | ~35,333 |
-| As Far Away As Possible | 20.00% | ~16,434 |
-| More Power to You | 19.00% | ~15,612 |
-| A Most Unstable Organism | 14.00% | ~11,504 |
-| No Time to Follow Protocol | 9.00% | ~7,395 |
-| Float Like a Butterfly... | 8.00% | ~6,574 |
-| Nano Connoisseur | 7.00% | ~5,752 |
-| In Two Places At Once | 6.00% | ~4,930 |
-| Pulling Your Weight | 3.00% | ~2,465 |
-| Reaping Rivals | 3.00% | ~2,465 |
+| Your Lucky Day | 43.00% | ~35,345 |
+| As Far Away As Possible | 20.00% | ~16,440 |
+| More Power to You | 19.00% | ~15,618 |
+| A Most Unstable Organism | 14.00% | ~11,508 |
+| No Time to Follow Protocol | 9.00% | ~7,398 |
+| Float Like a Butterfly... | 8.00% | ~6,576 |
+| Nano Connoisseur | 7.00% | ~5,754 |
+| In Two Places At Once | 6.00% | ~4,932 |
+| Pulling Your Weight | 3.00% | ~2,466 |
+| Reaping Rivals | 3.00% | ~2,466 |
 | fifteenth Time's the Charm | 1.00% | ~822 |
-| Gone Rogue | 0.80% | ~657 |
+| Gone Rogue | 0.80% | ~658 |
 | Memory Keeper | 0.40% | ~329 |
 | Completely Customizable | 0.40% | ~329 |
 | Runs for Your Money | 0.30% | ~247 |
 | Past Master | 0.30% | ~247 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,170 (Ranked 107)  
+Progressed: 82,198 (Ranked 107)  
 Completed: 61 (0.07%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 61 (0.07%) (Ranked 321)
 | 2023-12-31 | 80,629 | 61 |
 | 2024-01-01 | 81,346 | 61 |
 | 2024-01-02 | 82,048 | 61 |
-| 2024-01-03 | 82,170 | 61 |
+| 2024-01-03 | 82,198 | 61 |
 ## Awards
 Max (Great for Beginners): 128  (Ranked 342)  
 Sum: 497 (Ranked 333)  

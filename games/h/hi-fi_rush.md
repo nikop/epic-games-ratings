@@ -5,45 +5,45 @@ Rating: 4.85 (Ranked 39)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 52.00% | ~7,702 |
-| Feeling the beat! | 52.00% | ~7,702 |
-| You can pet the cat! | 47.00% | ~6,962 |
-| Who put gears in there? | 38.00% | ~5,629 |
-| Cream of the Crop | 33.00% | ~4,888 |
-| Thanks for the free chip, Peppermint! | 32.00% | ~4,740 |
-| You got this, Peppermint? | 28.00% | ~4,147 |
-| Perfect Parry | 26.00% | ~3,851 |
-| Alright, that felt AWESOME! | 25.00% | ~3,703 |
-| I play my own way! | 22.00% | ~3,259 |
-| This will cost you big time | 20.00% | ~2,962 |
-| Uh, they were broken when I got here | 20.00% | ~2,962 |
-| Z-shielding's got nothing on us! | 18.00% | ~2,666 |
-| Kissing the sky! | 18.00% | ~2,666 |
-| Does that say weakpoint? | 16.00% | ~2,370 |
-| Whoa! There's ANOTHER health bar!? | 15.00% | ~2,222 |
-| The Negotiator | 14.00% | ~2,074 |
-| You must like calling me in, Chai | 13.00% | ~1,926 |
-| Out in a puff of smoke | 12.00% | ~1,777 |
-| I look cool. But I can look COOLER. | 12.00% | ~1,777 |
-| Headliner | 11.00% | ~1,629 |
-| Perfecter Parry-er! | 11.00% | ~1,629 |
-| Time to pay up! | 10.00% | ~1,481 |
-| Who's the boss now? | 10.00% | ~1,481 |
-| I have to read these things? | 10.00% | ~1,481 |
-| There's such a thing as TOO helpful | 7.00% | ~1,037 |
-| NOW we got a kickass hideout! | 7.00% | ~933 |
-| Well that was a rush! | 6.00% | ~889 |
-| That's a lot of junk metal… | 6.00% | ~889 |
+| Start with a bang! | 52.00% | ~7,711 |
+| Feeling the beat! | 52.00% | ~7,711 |
+| You can pet the cat! | 47.00% | ~6,969 |
+| Who put gears in there? | 38.00% | ~5,635 |
+| Cream of the Crop | 33.00% | ~4,893 |
+| Thanks for the free chip, Peppermint! | 32.00% | ~4,745 |
+| You got this, Peppermint? | 28.00% | ~4,152 |
+| Perfect Parry | 26.00% | ~3,855 |
+| Alright, that felt AWESOME! | 25.00% | ~3,707 |
+| I play my own way! | 22.00% | ~3,262 |
+| This will cost you big time | 20.00% | ~2,966 |
+| Uh, they were broken when I got here | 20.00% | ~2,966 |
+| Z-shielding's got nothing on us! | 18.00% | ~2,669 |
+| Kissing the sky! | 18.00% | ~2,669 |
+| Does that say weakpoint? | 16.00% | ~2,372 |
+| Whoa! There's ANOTHER health bar!? | 15.00% | ~2,224 |
+| The Negotiator | 14.00% | ~2,076 |
+| You must like calling me in, Chai | 13.00% | ~1,928 |
+| Out in a puff of smoke | 12.00% | ~1,779 |
+| I look cool. But I can look COOLER. | 12.00% | ~1,779 |
+| Headliner | 11.00% | ~1,631 |
+| Perfecter Parry-er! | 11.00% | ~1,631 |
+| Time to pay up! | 10.00% | ~1,483 |
+| Who's the boss now? | 10.00% | ~1,483 |
+| I have to read these things? | 10.00% | ~1,483 |
+| There's such a thing as TOO helpful | 7.00% | ~1,038 |
+| NOW we got a kickass hideout! | 7.00% | ~934 |
+| Well that was a rush! | 6.00% | ~890 |
+| That's a lot of junk metal… | 6.00% | ~890 |
 | Beat-hit mania | 5.00% | ~741 |
-| Chip-tuned | 4.00% | ~592 |
-| I told you I'd be fine, Peppermint! | 4.00% | ~592 |
-| Wanna hear my playlist? | 3.00% | ~444 |
-| Check out my moves! | 3.00% | ~444 |
-| I think I found your calling, Macaron | 2.00% | ~296 |
-| We're Jammin' | 2.00% | ~296 |
-| First we parry, then we counter | 2.00% | ~296 |
-| I hit things with a guitar really well. | 2.00% | ~296 |
-| You ever parry a volcano? | 2.00% | ~296 |
+| Chip-tuned | 4.00% | ~593 |
+| I told you I'd be fine, Peppermint! | 4.00% | ~593 |
+| Wanna hear my playlist? | 3.00% | ~445 |
+| Check out my moves! | 3.00% | ~445 |
+| I think I found your calling, Macaron | 2.00% | ~297 |
+| We're Jammin' | 2.00% | ~297 |
+| First we parry, then we counter | 2.00% | ~297 |
+| I hit things with a guitar really well. | 2.00% | ~297 |
+| You ever parry a volcano? | 2.00% | ~297 |
 | Easy Listening | 1.00% | ~148 |
 | I think I deserve some praise, here! | 1.00% | ~148 |
 | This is a breeze! | 1.00% | ~148 |
@@ -77,7 +77,7 @@ Rating: 4.85 (Ranked 39)
 | Voices from within | 0.10% | ~13 |
 | Low budget finish | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,812 (Ranked 171)  
+Progressed: 14,828 (Ranked 171)  
 Completed: 8 (0.05%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 8 (0.05%) (Ranked 333)
 | 2023-12-31 | 14,116 | 8 |
 | 2024-01-01 | 14,485 | 8 |
 | 2024-01-02 | 14,784 | 8 |
-| 2024-01-03 | 14,812 | 8 |
+| 2024-01-03 | 14,828 | 8 |
 ## Awards
 Max (Great Boss Battles): 26  (Ranked 540)  
 Sum: 26 (Ranked 551)  

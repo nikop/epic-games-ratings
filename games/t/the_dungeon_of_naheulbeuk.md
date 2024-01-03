@@ -6,9 +6,9 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~88,662 |
-| Alt+F4 | 10.00% | ~24,628 |
-| Where's that freaking Dwarf? | 9.00% | ~22,165 |
+| Sowwy! | 36.00% | ~88,663 |
+| Alt+F4 | 10.00% | ~24,629 |
+| Where's that freaking Dwarf? | 9.00% | ~22,166 |
 | Déjà vu | 8.00% | ~19,703 |
 | Sock! SOCK! | 6.00% | ~14,777 |
 | Speedrun | 6.00% | ~14,777 |
@@ -17,14 +17,14 @@ Number of Ratings: 118  (23.09.2022)
 | DM intervention | 5.00% | ~12,314 |
 | The plot thickens... At the tavern | 4.00% | ~9,851 |
 | Fireproof Wizardess | 4.00% | ~9,851 |
-| Livin' in a dwarven paradise | 3.00% | ~7,388 |
-| Way of the Wimp | 3.00% | ~7,388 |
-| The demons' feast | 3.00% | ~7,388 |
-| The Great Library | 3.00% | ~7,388 |
-| Torture and Sensibility | 3.00% | ~7,388 |
-| The Woman in the High Castle | 3.00% | ~7,388 |
-| Team Building Exercise | 3.00% | ~7,388 |
-| Oh, when I'll be level 10... | 3.00% | ~7,388 |
+| Livin' in a dwarven paradise | 3.00% | ~7,389 |
+| Way of the Wimp | 3.00% | ~7,389 |
+| The demons' feast | 3.00% | ~7,389 |
+| The Great Library | 3.00% | ~7,389 |
+| Torture and Sensibility | 3.00% | ~7,389 |
+| The Woman in the High Castle | 3.00% | ~7,389 |
+| Team Building Exercise | 3.00% | ~7,389 |
+| Oh, when I'll be level 10... | 3.00% | ~7,389 |
 | Shiny and Crôm | 2.00% | ~4,926 |
 | Urik's Depths | 2.00% | ~4,926 |
 | The Dungeon Master | 2.00% | ~4,926 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~246 |
 | Dwarf Candy | 0.10% | ~246 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246,282 (Ranked 71)  
+Progressed: 246,286 (Ranked 71)  
 Completed: 8 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 8 (0.00%) (Ranked 390)
 | 2023-12-31 | 245,835 | 8 |
 | 2024-01-01 | 246,069 | 8 |
 | 2024-01-02 | 246,255 | 8 |
-| 2024-01-03 | 246,282 | 8 |
+| 2024-01-03 | 246,286 | 8 |
 ## Awards
 Max (Character Customization): 263  (Ranked 275)  
 Sum: 553 (Ranked 328)  

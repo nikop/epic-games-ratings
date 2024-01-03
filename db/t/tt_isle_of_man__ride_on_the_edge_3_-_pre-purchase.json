@@ -4,7 +4,7 @@
   "ProductSlug": "tt-isle-of-man-ride-on-the-edge-3",
   "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 343,
+  "Ranking_EOS_NewPlayers": 340,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 243,
+  "EOS_Progressed": 244,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -1165,6 +1165,11 @@
       "Time": "2024-01-01T17:04:41.6851836+00:00",
       "NumProgressed": 243,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-03T05:04:31.8630086+00:00",
+      "NumProgressed": 244,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -1438,9 +1443,9 @@
       "ID": "ACHIEVEMENT_34",
       "SetID": "gagif7",
       "Name": "You\u0027re Going Down!",
-      "Percentage": 93,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 226
+      "UsersEstimate": 224
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -1472,7 +1477,7 @@
       "Name": "Lone Wolf",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -1487,14 +1492,14 @@
     {
       "ID": "gagif7",
       "IsBase": true,
-      "Progressed": 243,
+      "Progressed": 244,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2024-01-03T04:04:31.4027464+00:00",
+  "LastChanged_Achievements": "2024-01-03T05:04:31.8630083+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:15.8225499+00:00",
-  "LastUpdate_Ratings": "2024-01-03T03:58:35.0609983+00:00",
-  "LastUpdate_Achievements": "2024-01-03T04:04:31.4027754+00:00"
+  "LastUpdate_Ratings": "2024-01-03T04:58:38.8863054+00:00",
+  "LastUpdate_Achievements": "2024-01-03T05:04:31.8630419+00:00"
 }

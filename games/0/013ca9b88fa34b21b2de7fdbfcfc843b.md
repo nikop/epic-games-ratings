@@ -32,12 +32,12 @@ Rating: 4.62 (Ranked 375)
 | Fanatical Farmer | 0.50% | ~44 |
 | Azorian Hat Dance | 0.50% | ~7 |
 | Scattered Scroll Scrounger | 0.40% | ~35 |
+| Chatty Neighbor | 0.40% | ~35 |
 | Right Tool For the Job | 0.40% | ~35 |
+| Going Down | 0.40% | ~6 |
 | I Now Pronounce You... | 0.30% | ~26 |
-| Chatty Neighbor | 0.30% | ~26 |
 | Captain of Cozy | 0.30% | ~26 |
 | House Proud | 0.30% | ~26 |
-| Going Down | 0.30% | ~4 |
 | Angling Authority | 0.20% | ~18 |
 | Polyglot | 0.20% | ~3 |
 | Cloverfield Island | 0.10% | ~9 |

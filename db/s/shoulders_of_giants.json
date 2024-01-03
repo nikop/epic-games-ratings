@@ -2,12 +2,12 @@
   "ID": "fa7346c113ff48d8b9a1b48f44a3a48e",
   "Name": "Shoulders of Giants",
   "ProductSlug": "shoulders-of-giants-61381f",
-  "Ranking_Rating": 816,
+  "Ranking_Rating": 817,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 499,
+  "Ranking_EOS_NewPlayers": 476,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -99,9 +99,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2321,
+  "EOS_Progressed": 2322,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -1984,6 +1984,11 @@
       "Time": "2023-12-29T11:04:01.3234602+00:00",
       "NumProgressed": 2321,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-03T05:06:11.0209168+00:00",
+      "NumProgressed": 2322,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 19,
@@ -2035,7 +2040,7 @@
       "Name": "On the Shoulders of Giants",
       "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 2019
+      "UsersEstimate": 2020
     },
     {
       "ID": "deal_damage",
@@ -2043,7 +2048,7 @@
       "Name": "Ouch",
       "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 1253
+      "UsersEstimate": 1254
     },
     {
       "ID": "defeat_enemies",
@@ -2051,7 +2056,7 @@
       "Name": "A Ribbiting Performance",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 1764
+      "UsersEstimate": 1765
     },
     {
       "ID": "defeat_tree_dummy",
@@ -2099,7 +2104,7 @@
       "Name": "Frogbot",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1671
+      "UsersEstimate": 1672
     },
     {
       "ID": "save_planet_bestfriend",
@@ -2115,7 +2120,7 @@
       "Name": "The Interdimensional Power of Friendship",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 1021
+      "UsersEstimate": 1022
     },
     {
       "ID": "stick_decoy",
@@ -2131,7 +2136,7 @@
       "Name": "Fun in the Stun",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 1230
+      "UsersEstimate": 1231
     },
     {
       "ID": "trash_truck",
@@ -2146,7 +2151,7 @@
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 2321,
+      "Progressed": 2322,
       "Completed": 10
     }
   ],
@@ -2154,8 +2159,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-12-04T09:57:32.2251724+00:00",
-  "LastChanged_Achievements": "2024-01-03T04:06:00.4741939+00:00",
+  "LastChanged_Achievements": "2024-01-03T05:06:11.0209165+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:45.2374287+00:00",
-  "LastUpdate_Ratings": "2024-01-03T03:58:51.139269+00:00",
-  "LastUpdate_Achievements": "2024-01-03T04:06:00.4742202+00:00"
+  "LastUpdate_Ratings": "2024-01-03T04:58:55.5121017+00:00",
+  "LastUpdate_Achievements": "2024-01-03T05:06:11.0209363+00:00"
 }

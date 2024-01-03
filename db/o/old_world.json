@@ -2208,9 +2208,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16091,
+  "EOS_Progressed": 16093,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18828,6 +18828,11 @@
       "Time": "2024-01-03T04:10:14.8637379+00:00",
       "NumProgressed": 16091,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-03T05:10:07.7642762+00:00",
+      "NumProgressed": 16093,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -19285,9 +19290,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_GLORIOUS",
       "SetID": "7l38kb8",
       "Name": "Glorious",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 97
+      "UsersEstimate": 113
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_GOOD",
@@ -19725,9 +19730,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_SAGES",
       "SetID": "7l38kb8",
       "Name": "Sages",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 64
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_STATESMEN",
@@ -20213,9 +20218,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY",
       "SetID": "9201eeb",
       "Name": "Church of the Holy Sepulchre",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_JUDAISM",
@@ -20613,9 +20618,9 @@
       "ID": "ACHIEVEMENT_RELIGION_CHRISTIANITY",
       "SetID": "7l38kb8",
       "Name": "Christianity",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 97
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_JUDAISM",
@@ -20661,9 +20666,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_EGYPT",
       "SetID": "7l38kb8",
       "Name": "Egyptian Paganism",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 64
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_GREECE",
@@ -20757,9 +20762,9 @@
       "ID": "ACHIEVEMENT_STAT_TEN_LANDMARKS_NAME",
       "SetID": "9201eeb",
       "Name": "Naming Landmarks",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 97
+      "UsersEstimate": 113
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_LEADERS",
@@ -20773,9 +20778,9 @@
       "ID": "ACHIEVEMENT_TECH_ECONOMIC_REFORM",
       "SetID": "9201eeb",
       "Name": "Economic Reform",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_TECH_INDUSTRIAL_PROGRESS",
@@ -21702,21 +21707,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16091,
+      "Progressed": 16093,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16091,
+      "Progressed": 16093,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-12-29T16:02:55.9624641+00:00",
-  "LastChanged_Achievements": "2024-01-03T04:10:14.8637375+00:00",
+  "LastChanged_Achievements": "2024-01-03T05:10:07.7642758+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:24.5452657+00:00",
-  "LastUpdate_Ratings": "2024-01-03T03:57:42.3013105+00:00",
-  "LastUpdate_Achievements": "2024-01-03T04:10:14.8647778+00:00"
+  "LastUpdate_Ratings": "2024-01-03T04:57:39.2155087+00:00",
+  "LastUpdate_Achievements": "2024-01-03T05:10:07.7652681+00:00"
 }

@@ -20,24 +20,25 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong | 0.80% | ~129 |
 | Hanging Gardens | 0.80% | ~129 |
 | Oracle | 0.80% | ~129 |
+| Glorious | 0.70% | ~113 |
 | Just | 0.70% | ~113 |
 | Keystone | 0.70% | ~113 |
 | Pioneer | 0.70% | ~113 |
 | Developing Cities | 0.70% | ~113 |
 | Judaism | 0.70% | ~113 |
 | Greek Paganism | 0.70% | ~113 |
+| Naming Landmarks | 0.70% | ~113 |
 | Trade Caravan | 0.70% | ~113 |
 | Ambitious | 0.60% | ~97 |
 | Brilliant | 0.60% | ~97 |
 | Enlightened | 0.60% | ~97 |
 | Fountainhead | 0.60% | ~97 |
-| Glorious | 0.60% | ~97 |
 | Warrior | 0.60% | ~97 |
 | Strong Cities | 0.60% | ~97 |
 | Pyramids | 0.60% | ~97 |
 | Learn to Play 1 | 0.60% | ~97 |
+| Christianity | 0.60% | ~97 |
 | Babylonian Paganism | 0.60% | ~97 |
-| Naming Landmarks | 0.60% | ~97 |
 | Regicide | 0.50% | ~80 |
 | Magnificent | 0.50% | ~80 |
 | Wise | 0.50% | ~80 |
@@ -47,7 +48,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Ziggurat | 0.50% | ~80 |
 | Ishtar Gate | 0.50% | ~80 |
 | Lighthouse | 0.50% | ~80 |
-| Christianity | 0.50% | ~80 |
 | Carthaginian Paganism | 0.50% | ~80 |
 | Roman Paganism | 0.50% | ~80 |
 | Zoroastrianism | 0.50% | ~80 |
@@ -57,6 +57,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intercessor | 0.40% | ~64 |
 | Valiant | 0.40% | ~64 |
 | Legendary Cities | 0.40% | ~64 |
+| Sages | 0.40% | ~64 |
 | Acropolis | 0.40% | ~64 |
 | Colossus | 0.40% | ~64 |
 | Mausoleum | 0.40% | ~64 |
@@ -64,6 +65,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis | 0.40% | ~64 |
 | Learn to Play 2 | 0.40% | ~64 |
 | Manichaeism | 0.40% | ~64 |
+| Egyptian Paganism | 0.40% | ~64 |
 | Hanging Gardens in Babylon | 0.30% | ~48 |
 | Mighty | 0.30% | ~48 |
 | Good Difficulty | 0.30% | ~48 |
@@ -71,14 +73,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Artisans | 0.30% | ~48 |
 | Champions | 0.30% | ~48 |
 | Patrons | 0.30% | ~48 |
-| Sages | 0.30% | ~48 |
 | Hittite Iron | 0.30% | ~48 |
 | Learn to Play 3 | 0.30% | ~48 |
 | Greece | 0.30% | ~48 |
 | Power to the People | 0.30% | ~48 |
-| Egyptian Paganism | 0.30% | ~48 |
 | Persian Paganism | 0.30% | ~48 |
 | Building Wonders | 0.30% | ~48 |
+| Economic Reform | 0.30% | ~48 |
 | Mythology | 0.30% | ~48 |
 | Points Victory | 0.30% | ~48 |
 | Win a Single Player Game | 0.30% | ~48 |
@@ -99,6 +100,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Traders | 0.20% | ~32 |
 | Circus Maximus | 0.20% | ~32 |
 | Hagia Sophia | 0.20% | ~32 |
+| Church of the Holy Sepulchre | 0.20% | ~32 |
 | Temple of Solomon | 0.20% | ~32 |
 | Adur Burzen-Mihr | 0.20% | ~32 |
 | Pantheon | 0.20% | ~32 |
@@ -106,7 +108,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonia | 0.20% | ~32 |
 | Egypt | 0.20% | ~32 |
 | Assyrian Paganism | 0.20% | ~32 |
-| Economic Reform | 0.20% | ~32 |
 | Industrial Progress | 0.20% | ~32 |
 | Military Prestige | 0.20% | ~32 |
 | Dualism | 0.20% | ~32 |
@@ -204,7 +205,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Philip's Silver Crown | 0.10% | ~16 |
 | Mausoleum in Halicarnassus | 0.10% | ~16 |
 | Hardcore | 0.10% | ~16 |
-| Church of the Holy Sepulchre | 0.10% | ~16 |
 | Cao'an | 0.10% | ~16 |
 | Learn By Playing 1 - Able | 0.10% | ~16 |
 | Learn By Playing 2 - Just | 0.10% | ~16 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,091 (Ranked 166)  
+Progressed: 16,093 (Ranked 166)  
 Completed: 5 (0.03%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -623,7 +623,7 @@ Completed: 5 (0.03%) (Ranked 349)
 | 2023-12-31 | 16,053 | 5 |
 | 2024-01-01 | 16,077 | 5 |
 | 2024-01-02 | 16,090 | 5 |
-| 2024-01-03 | 16,091 | 5 |
+| 2024-01-03 | 16,093 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 283)  
 Sum: 1,912 (Ranked 221)  

@@ -15,17 +15,17 @@ Number of Ratings: 85  (23.09.2022)
 | Perfect Probulator | 55.00% | ~164 |
 | Pimp My Raid | 54.00% | ~161 |
 | Lobster Blisque | 51.00% | ~152 |
-| Fly Me to the Moon Base | 47.00% | ~140 |
-| Earthly Pleasures | 47.00% | ~140 |
-| Ducks in a Row, Fish in a Barrel | 45.00% | ~134 |
-| Forbidden Donut | 37.00% | ~110 |
-| Freshly Squeezed | 36.00% | ~107 |
-| Bodied Sattva | 36.00% | ~107 |
-| Upgreatest | 34.00% | ~101 |
-| Deincarnated | 29.00% | ~86 |
-| Furon Fashion | 29.00% | ~86 |
-| Rock of the Bay | 26.00% | ~77 |
-| Trans-Siberian Express | 25.00% | ~74 |
+| Earthly Pleasures | 47.00% | ~141 |
+| Fly Me to the Moon Base | 46.00% | ~138 |
+| Ducks in a Row, Fish in a Barrel | 44.00% | ~132 |
+| Forbidden Donut | 37.00% | ~111 |
+| Freshly Squeezed | 36.00% | ~108 |
+| Bodied Sattva | 35.00% | ~105 |
+| Upgreatest | 33.00% | ~99 |
+| Furon Fashion | 29.00% | ~87 |
+| Deincarnated | 28.00% | ~84 |
+| Rock of the Bay | 26.00% | ~78 |
+| Trans-Siberian Express | 25.00% | ~75 |
 | Re-Return of the Clone of the Invasion II-2 | 20.00% | ~60 |
 | Arkvoodle Doodle | 19.00% | ~57 |
 | If You Know What I Mean | 17.00% | ~51 |
@@ -47,8 +47,8 @@ Number of Ratings: 85  (23.09.2022)
 | Steezy Down the Spine | 2.00% | ~6 |
 | Against All Odds | 2.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298 (Ranked 393)  
-Completed: 5 (1.68%) (Ranked 144)  
+Progressed: 299 (Ranked 390)  
+Completed: 5 (1.67%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -68,7 +68,7 @@ Completed: 5 (1.68%) (Ranked 144)
 | 2023-12-31 | 264 | 5 |
 | 2024-01-01 | 279 | 5 |
 | 2024-01-02 | 296 | 5 |
-| 2024-01-03 | 298 | 5 |
+| 2024-01-03 | 299 | 5 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 499)  
 Sum: 35 (Ranked 529)  

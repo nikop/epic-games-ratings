@@ -2,7 +2,7 @@
   "ID": "d0230ef21b1f4ef29aec0d49946912fc",
   "Name": "Torchlight",
   "ProductSlug": "torchlight",
-  "Ranking_Rating": 816,
+  "Ranking_Rating": 817,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 562,
   "Ranking_EOS_Progress": 820,
@@ -451,6 +451,6 @@
   "FirstSeen": "2022-07-22T20:23:57.2645224+00:00",
   "LastChanged": "2023-12-26T17:57:18.5413272+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:13.4876077+00:00",
-  "LastUpdate_Ratings": "2024-01-03T03:57:14.6558165+00:00",
-  "LastUpdate_Achievements": "2024-01-03T04:05:21.1174236+00:00"
+  "LastUpdate_Ratings": "2024-01-03T04:57:07.5114418+00:00",
+  "LastUpdate_Achievements": "2024-01-03T05:05:26.7447592+00:00"
 }

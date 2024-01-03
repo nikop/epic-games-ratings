@@ -5,13 +5,13 @@ Rating: 4.21 (Ranked 946)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 22.00% | ~4,557 |
-| The Outer Way | 22.00% | ~4,557 |
+| Flesh Wound | 22.00% | ~4,558 |
+| The Outer Way | 22.00% | ~4,558 |
 | Desperate Times | 21.00% | ~4,350 |
 | Get a Grip | 19.00% | ~3,936 |
 | Paper Jams | 19.00% | ~3,936 |
 | Chew 'Em Up | 17.00% | ~3,522 |
-| Reforged | 16.00% | ~3,314 |
+| Reforged | 16.00% | ~3,315 |
 | Float Like A Butterfly | 15.00% | ~3,107 |
 | Workplace Hazard | 14.00% | ~2,900 |
 | If the SHU Fits... | 14.00% | ~2,900 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 946)
 | Big Game Hunter | 0.10% | ~9 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,715 (Ranked 150)  
+Progressed: 20,716 (Ranked 150)  
 Completed: 82 (0.40%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,18 +303,18 @@ Completed: 82 (0.40%) (Ranked 232)
 | 2023-12-31 | 20,337 | 82 |
 | 2024-01-01 | 20,521 | 82 |
 | 2024-01-02 | 20,695 | 82 |
-| 2024-01-03 | 20,715 | 82 |
+| 2024-01-03 | 20,716 | 82 |
 ## Awards
 Max (Amazing Characters): 111  (Ranked 361)  
-Sum: 556 (Ranked 326)  
+Sum: 559 (Ranked 326)  
 Diff (max vs sum): 35  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 111 |
 | This game is Highly Recommended | 104 |
+| This game is Extremely Fun | 102 |
 | This game has Amazing Storytelling | 101 |
 | This game has Quickly Understood Controls | 100 |
-| This game is Extremely Fun | 99 |
 | This game has Challenging Combat | 68 |
 | This game has a Creative Community | 41 |
 ## Ratings History
@@ -510,4 +510,4 @@ Diff (max vs sum): 35
 | 2023-12-31 | 4.21 | 107 | 541 |
 | 2024-01-01 | 4.21 | 109 | 551 |
 | 2024-01-02 | 4.21 | 109 | 554 |
-| 2024-01-03 | 4.21 | 111 | 556 |
+| 2024-01-03 | 4.21 | 111 | 559 |

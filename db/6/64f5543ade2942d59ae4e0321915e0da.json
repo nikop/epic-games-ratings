@@ -1602,9 +1602,9 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 192
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -1634,9 +1634,9 @@
       "ID": "AC_DISTANCE_2",
       "SetID": "16i2akc",
       "Name": "Journey",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 163
+      "UsersEstimate": 167
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -1650,9 +1650,9 @@
       "ID": "AC_FIRST_BLACKJACK",
       "SetID": "16i2akc",
       "Name": "Player",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 105
     },
     {
       "ID": "AC_FLASHBACK_01",
@@ -1738,9 +1738,9 @@
       "ID": "AC_ROSCOBOSS",
       "SetID": "16i2akc",
       "Name": "Loss",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 149
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -1777,8 +1777,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-03T04:04:44.9373108+00:00",
+  "LastChanged_Achievements": "2024-01-03T05:04:47.034417+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:05.7124829+00:00",
-  "LastUpdate_Ratings": "2024-01-03T03:59:34.8049553+00:00",
-  "LastUpdate_Achievements": "2024-01-03T04:04:44.9373518+00:00"
+  "LastUpdate_Ratings": "2024-01-03T04:59:44.0205884+00:00",
+  "LastUpdate_Achievements": "2024-01-03T05:04:47.0344458+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "4bd54a4fed074c488e0bb7428f29d2f4",
   "Name": "1428: Shadows over Silesia",
   "ProductSlug": "1428-shadows-over-silesia-266e5f",
-  "Ranking_EOS_Progress": 542,
+  "Ranking_EOS_Progress": 541,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 475,
+  "Ranking_EOS_NewPlayers": 458,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 53,
+  "EOS_Progressed": 54,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -249,6 +249,11 @@
       "Time": "2024-01-02T17:04:29.1636938+00:00",
       "NumProgressed": 53,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T05:03:42.5811788+00:00",
+      "NumProgressed": 54,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-05T18:06:01.4667778+00:00",
@@ -331,9 +336,9 @@
       "ID": "SOS_BURN_HENNERSDORF",
       "SetID": "6ci4lm2",
       "Name": "Red rooster",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "SOS_DEAD_END",
@@ -411,9 +416,9 @@
       "ID": "SOS_FIRST_BLOOD",
       "SetID": "6ci4lm2",
       "Name": "First blood",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "SOS_FISH",
@@ -459,7 +464,7 @@
       "ID": "SOS_HEADACHE",
       "SetID": "6ci4lm2",
       "Name": "By fire and blood",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 35,
       "UsersEstimate": 13
     },
@@ -491,7 +496,7 @@
       "ID": "SOS_HE_WILL_REMEMBER",
       "SetID": "6ci4lm2",
       "Name": "He will remember that",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
       "UsersEstimate": 19
     },
@@ -523,7 +528,7 @@
       "ID": "SOS_LAST_LETTER",
       "SetID": "6ci4lm2",
       "Name": "The last letter",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -531,7 +536,7 @@
       "ID": "SOS_LAST_MINUTE",
       "SetID": "6ci4lm2",
       "Name": "Welcome home",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 35,
       "UsersEstimate": 4
     },
@@ -555,7 +560,7 @@
       "ID": "SOS_MARATHON_RUNNER",
       "SetID": "6ci4lm2",
       "Name": "Legs of iron",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -651,7 +656,7 @@
       "ID": "SOS_RED_MINE",
       "SetID": "6ci4lm2",
       "Name": "Red mine",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -659,7 +664,7 @@
       "ID": "SOS_RETURN_TO_GRAVE",
       "SetID": "6ci4lm2",
       "Name": "Ready for the grave",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -756,14 +761,14 @@
     {
       "ID": "6ci4lm2",
       "IsBase": true,
-      "Progressed": 53,
+      "Progressed": 54,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-02T04:57:46.0113451+00:00",
   "FirstSeenAchievements": "2023-10-30T14:03:47.4515139+00:00",
-  "LastChanged_Achievements": "2024-01-03T04:03:47.0759745+00:00",
+  "LastChanged_Achievements": "2024-01-03T05:03:42.5811784+00:00",
   "LastUpdate_AppInfo": "2024-01-01T18:57:10.2127516+00:00",
-  "LastUpdate_Ratings": "2024-01-03T03:58:38.7649172+00:00",
-  "LastUpdate_Achievements": "2024-01-03T04:03:47.0760184+00:00"
+  "LastUpdate_Ratings": "2024-01-03T04:58:43.3661387+00:00",
+  "LastUpdate_Achievements": "2024-01-03T05:03:42.5812192+00:00"
 }

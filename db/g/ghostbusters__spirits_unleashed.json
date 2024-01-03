@@ -3927,7 +3927,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33162,
+  "EOS_Progressed": 33163,
   "EOS_Completed": 71,
   "EOS_NewPlayers": 380,
   "EOS_NewCompleters": 1,
@@ -24402,6 +24402,11 @@
       "Time": "2024-01-03T04:08:56.7582913+00:00",
       "NumProgressed": 33162,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-03T05:08:42.9022363+00:00",
+      "NumProgressed": 33163,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -24453,7 +24458,7 @@
       "Name": "Clutch Capture",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1326
+      "UsersEstimate": 1327
     },
     {
       "ID": "Collect_Spores",
@@ -24477,7 +24482,7 @@
       "Name": "Cultured",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1326
+      "UsersEstimate": 1327
     },
     {
       "ID": "Daily_Dose",
@@ -24485,7 +24490,7 @@
       "Name": "Daily Dose",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1326
+      "UsersEstimate": 1327
     },
     {
       "ID": "Diabolical",
@@ -24557,7 +24562,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1326
+      "UsersEstimate": 1327
     },
     {
       "ID": "Ghost_Expert",
@@ -24773,7 +24778,7 @@
       "Name": "There you are!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1326
+      "UsersEstimate": 1327
     },
     {
       "ID": "Tobins_Prodigy",
@@ -24813,14 +24818,14 @@
       "Name": "Whoopsie",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1326
+      "UsersEstimate": 1327
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33162,
+      "Progressed": 33163,
       "Completed": 71
     }
   ],
@@ -24828,8 +24833,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2024-01-02T09:58:49.6019984+00:00",
-  "LastChanged_Achievements": "2024-01-03T04:08:56.758291+00:00",
+  "LastChanged_Achievements": "2024-01-03T05:08:42.9022361+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:23.250158+00:00",
-  "LastUpdate_Ratings": "2024-01-03T03:59:10.9790836+00:00",
-  "LastUpdate_Achievements": "2024-01-03T04:08:56.7584111+00:00"
+  "LastUpdate_Ratings": "2024-01-03T04:59:17.5403674+00:00",
+  "LastUpdate_Achievements": "2024-01-03T05:08:42.9023712+00:00"
 }

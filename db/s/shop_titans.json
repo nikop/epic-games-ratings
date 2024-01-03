@@ -7951,9 +7951,9 @@
       "Count": 3810
     }
   ],
-  "EOS_Progressed": 149112,
+  "EOS_Progressed": 149115,
   "EOS_Completed": 341,
-  "EOS_NewPlayers": 1245,
+  "EOS_NewPlayers": 1241,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -35101,6 +35101,11 @@
       "Time": "2024-01-03T04:06:07.8052498+00:00",
       "NumProgressed": 149112,
       "NumCompleted": 341
+    },
+    {
+      "Time": "2024-01-03T05:06:19.6059222+00:00",
+      "NumProgressed": 149115,
+      "NumCompleted": 341
     }
   ],
   "TotalAchievements": 112,
@@ -35112,7 +35117,7 @@
       "Name": "The Daily Grind",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5964
+      "UsersEstimate": 5965
     },
     {
       "ID": "advlevel02",
@@ -35248,7 +35253,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5964
+      "UsersEstimate": 5965
     },
     {
       "ID": "boss02",
@@ -35280,7 +35285,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 14911
+      "UsersEstimate": 14912
     },
     {
       "ID": "chest02",
@@ -35352,7 +35357,7 @@
       "Name": "Demand for Supplies",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5964
+      "UsersEstimate": 5965
     },
     {
       "ID": "commonres03",
@@ -35384,7 +35389,7 @@
       "Name": "Flooding the Market",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5964
+      "UsersEstimate": 5965
     },
     {
       "ID": "craft03",
@@ -35416,7 +35421,7 @@
       "Name": "Where it Hurts",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5964
+      "UsersEstimate": 5965
     },
     {
       "ID": "damage02",
@@ -35600,7 +35605,7 @@
       "Name": "Gild-Gotten Goods",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5964
+      "UsersEstimate": 5965
     },
     {
       "ID": "gold04",
@@ -35678,9 +35683,9 @@
       "ID": "jackslot03",
       "SetID": "anfd17p",
       "Name": "JACKPOT!!!",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 895
+      "UsersEstimate": 1044
     },
     {
       "ID": "legenchant01",
@@ -35736,7 +35741,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5964
+      "UsersEstimate": 5965
     },
     {
       "ID": "loot02",
@@ -35768,7 +35773,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5964
+      "UsersEstimate": 5965
     },
     {
       "ID": "master02",
@@ -35928,7 +35933,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 14911
+      "UsersEstimate": 14912
     },
     {
       "ID": "twinenchant01",
@@ -35984,7 +35989,7 @@
       "Name": "Arcane Industries",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5964
+      "UsersEstimate": 5965
     },
     {
       "ID": "workers03",
@@ -36007,15 +36012,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 149112,
+      "Progressed": 149115,
       "Completed": 341
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-03T01:49:07.3826497+00:00",
-  "LastChanged_Achievements": "2024-01-03T04:06:07.8052493+00:00",
+  "LastChanged_Achievements": "2024-01-03T05:06:19.6059221+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.6407181+00:00",
-  "LastUpdate_Ratings": "2024-01-03T04:03:16.7511446+00:00",
-  "LastUpdate_Achievements": "2024-01-03T04:06:07.8054728+00:00"
+  "LastUpdate_Ratings": "2024-01-03T05:03:06.4618387+00:00",
+  "LastUpdate_Achievements": "2024-01-03T05:06:19.6061559+00:00"
 }

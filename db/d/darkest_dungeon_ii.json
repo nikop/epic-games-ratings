@@ -10452,9 +10452,9 @@
       "Count": 1076
     }
   ],
-  "EOS_Progressed": 131392,
+  "EOS_Progressed": 131396,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1287,
+  "EOS_NewPlayers": 1286,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38077,6 +38077,11 @@
       "Time": "2024-01-03T04:09:43.1988031+00:00",
       "NumProgressed": 131392,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-03T05:09:33.3453295+00:00",
+      "NumProgressed": 131396,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38624,7 +38629,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "combat_kill_collector",
@@ -38696,7 +38701,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -38719,21 +38724,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131392,
+      "Progressed": 131396,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6261,
+      "Progressed": 6265,
       "Completed": 820
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-03T02:59:17.6563499+00:00",
-  "LastChanged_Achievements": "2024-01-03T04:09:43.1988027+00:00",
+  "LastChanged_Achievements": "2024-01-03T05:09:33.3453293+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-03T03:58:57.0432401+00:00",
-  "LastUpdate_Achievements": "2024-01-03T04:09:43.1989679+00:00"
+  "LastUpdate_Ratings": "2024-01-03T04:59:02.0897527+00:00",
+  "LastUpdate_Achievements": "2024-01-03T05:09:33.3455186+00:00"
 }

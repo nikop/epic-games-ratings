@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 46,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9289,9 +9289,9 @@
       "Count": 3622
     }
   ],
-  "EOS_Progressed": 250154,
+  "EOS_Progressed": 250166,
   "EOS_Completed": 2586,
-  "EOS_NewPlayers": 5048,
+  "EOS_NewPlayers": 5044,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -38459,6 +38459,11 @@
       "Time": "2024-01-03T04:10:16.0607983+00:00",
       "NumProgressed": 250154,
       "NumCompleted": 2586
+    },
+    {
+      "Time": "2024-01-03T05:10:09.0146881+00:00",
+      "NumProgressed": 250166,
+      "NumCompleted": 2586
     }
   ],
   "TotalAchievements": 546,
@@ -42758,7 +42763,7 @@
       "Name": "Welcome to Sigil",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1731
+      "UsersEstimate": 1732
     },
     {
       "ID": "objective_completed_1558",
@@ -42837,21 +42842,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 216428,
+      "Progressed": 216440,
       "Completed": 4128
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 250154,
+      "Progressed": 250166,
       "Completed": 2586
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-02T20:58:24.5866544+00:00",
-  "LastChanged_Achievements": "2024-01-03T04:10:16.0607978+00:00",
+  "LastChanged_Achievements": "2024-01-03T05:10:09.0146878+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-03T03:58:23.1267688+00:00",
-  "LastUpdate_Achievements": "2024-01-03T04:10:16.0633313+00:00"
+  "LastUpdate_Ratings": "2024-01-03T04:58:25.3943836+00:00",
+  "LastUpdate_Achievements": "2024-01-03T05:10:09.0171127+00:00"
 }

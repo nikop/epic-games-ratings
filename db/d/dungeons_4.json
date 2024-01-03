@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 92,
   "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -2272,9 +2272,9 @@
       "ID": "ach_main05evil_thalyalevel",
       "SetID": "4hg22ll",
       "Name": "Experienced Thalya",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 498
+      "UsersEstimate": 505
     },
     {
       "ID": "ach_main05evil_unicorn",
@@ -2665,8 +2665,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-01T22:59:34.2453487+00:00",
-  "LastChanged_Achievements": "2024-01-03T04:09:08.4795415+00:00",
+  "LastChanged_Achievements": "2024-01-03T05:08:55.5714537+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:16.0613697+00:00",
-  "LastUpdate_Ratings": "2024-01-03T03:59:21.4544784+00:00",
-  "LastUpdate_Achievements": "2024-01-03T04:09:08.4795972+00:00"
+  "LastUpdate_Ratings": "2024-01-03T04:59:29.5835142+00:00",
+  "LastUpdate_Achievements": "2024-01-03T05:08:55.5715214+00:00"
 }

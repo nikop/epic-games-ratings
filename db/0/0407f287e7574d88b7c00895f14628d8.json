@@ -919,17 +919,17 @@
       "ID": "jz1",
       "SetID": "b1ggf28",
       "Name": "Builder",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "jz2",
       "SetID": "b1ggf28",
       "Name": "Architect",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "jz3",
@@ -991,9 +991,9 @@
       "ID": "r1",
       "SetID": "b1ggf28",
       "Name": "Prosperity",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "r2",
@@ -1134,8 +1134,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-03T04:05:15.3270112+00:00",
+  "LastChanged_Achievements": "2024-01-03T05:05:20.3754157+00:00",
   "LastUpdate_AppInfo": "2023-12-27T04:56:58.3049887+00:00",
-  "LastUpdate_Ratings": "2024-01-03T04:03:03.9013821+00:00",
-  "LastUpdate_Achievements": "2024-01-03T04:05:15.3270511+00:00"
+  "LastUpdate_Ratings": "2024-01-03T05:02:51.0616676+00:00",
+  "LastUpdate_Achievements": "2024-01-03T05:05:20.3754518+00:00"
 }

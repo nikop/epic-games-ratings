@@ -1264,9 +1264,9 @@
       "ID": "KR4_ACHIEVEMENT_DESTROY_MINE_CARTS",
       "SetID": "caeik3h",
       "Name": "Final Destination",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 131
     },
     {
       "ID": "KR4_ACHIEVEMENT_DWARVES_KINGDOM_FULL",
@@ -1464,9 +1464,9 @@
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_EASY",
       "SetID": "caeik3h",
       "Name": "No Survivors I",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 231
+      "UsersEstimate": 233
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_HARD",
@@ -1773,8 +1773,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2024-01-03T04:03:41.001137+00:00",
+  "LastChanged_Achievements": "2024-01-03T05:03:35.9127796+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:04.1058747+00:00",
-  "LastUpdate_Ratings": "2024-01-03T03:59:53.7921082+00:00",
-  "LastUpdate_Achievements": "2024-01-03T04:03:41.0011985+00:00"
+  "LastUpdate_Ratings": "2024-01-03T05:00:06.7631188+00:00",
+  "LastUpdate_Achievements": "2024-01-03T05:03:35.912846+00:00"
 }

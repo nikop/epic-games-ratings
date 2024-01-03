@@ -251,9 +251,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 72647,
+  "EOS_Progressed": 72650,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 1984,
+  "EOS_NewPlayers": 1977,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -5911,6 +5911,11 @@
       "Time": "2024-01-03T04:06:15.7686209+00:00",
       "NumProgressed": 72647,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2024-01-03T05:06:28.0977936+00:00",
+      "NumProgressed": 72650,
+      "NumCompleted": 107
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -5923,7 +5928,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 26879
+      "UsersEstimate": 26880
     },
     {
       "ID": "Achievement_10",
@@ -6011,7 +6016,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 20341
+      "UsersEstimate": 20342
     },
     {
       "ID": "Achievement_20",
@@ -6155,7 +6160,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 5085
+      "UsersEstimate": 5086
     },
     {
       "ID": "Achievement_6",
@@ -6171,7 +6176,7 @@
       "Name": "Ancient Sentient Support",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2179
+      "UsersEstimate": 2180
     },
     {
       "ID": "Achievement_8",
@@ -6179,7 +6184,7 @@
       "Name": "House In Order",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2179
+      "UsersEstimate": 2180
     },
     {
       "ID": "Achievement_9",
@@ -6194,7 +6199,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 72647,
+      "Progressed": 72650,
       "Completed": 107
     }
   ],
@@ -6202,8 +6207,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-02T15:03:36.0297933+00:00",
-  "LastChanged_Achievements": "2024-01-03T04:06:15.7686206+00:00",
+  "LastChanged_Achievements": "2024-01-03T05:06:28.0977933+00:00",
   "LastUpdate_AppInfo": "2023-12-28T16:57:09.138646+00:00",
-  "LastUpdate_Ratings": "2024-01-03T04:03:08.3682712+00:00",
-  "LastUpdate_Achievements": "2024-01-03T04:06:15.7686668+00:00"
+  "LastUpdate_Ratings": "2024-01-03T05:02:56.8811114+00:00",
+  "LastUpdate_Achievements": "2024-01-03T05:06:28.0978549+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "ef02301060454cfd8345fae625743294",
   "Name": "Sands of Aura",
   "ProductSlug": "sands-of-aura",
-  "Ranking_EOS_Progress": 468,
+  "Ranking_EOS_Progress": 466,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 440,
+  "Ranking_EOS_NewPlayers": 434,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 128,
+  "EOS_Progressed": 129,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -640,6 +640,11 @@
       "Time": "2024-01-01T20:05:05.369594+00:00",
       "NumProgressed": 128,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T05:04:36.8077164+00:00",
+      "NumProgressed": 129,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-14T11:03:32.7947841+00:00",
@@ -1052,7 +1057,7 @@
       "Name": "Setting Sail",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "UBAANI_DEFEAT",
@@ -1115,7 +1120,7 @@
     {
       "ID": "cm0d613",
       "IsBase": true,
-      "Progressed": 128,
+      "Progressed": 129,
       "Completed": 0
     }
   ],
@@ -1123,8 +1128,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2024-01-03T04:04:35.8844248+00:00",
+  "LastChanged_Achievements": "2024-01-03T05:04:36.8077162+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:22.6338315+00:00",
-  "LastUpdate_Ratings": "2024-01-03T04:03:02.1805044+00:00",
-  "LastUpdate_Achievements": "2024-01-03T04:04:35.8844842+00:00"
+  "LastUpdate_Ratings": "2024-01-03T05:02:49.3804493+00:00",
+  "LastUpdate_Achievements": "2024-01-03T05:04:36.8077533+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "phantasy-star-online-2",
   "Ranking_Rating": 543,
   "Ranking_Popularity": 160,
-  "Ranking_PopularitySum": 153,
+  "Ranking_PopularitySum": 154,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 571,
@@ -5220,18 +5220,24 @@
       "Rating": 4.54,
       "NumberOfAwards": 4468,
       "NumberOfAwardsMax": 1007
+    },
+    {
+      "Time": "2024-01-03T05:00:13.3420632+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 4470,
+      "NumberOfAwardsMax": 1009
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4468,
-  "NumberOfAwardsMax": 1007,
+  "NumberOfAwards": 4470,
+  "NumberOfAwardsMax": 1009,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1007
+      "Count": 1009
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -5311,8 +5317,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:27.1466753+00:00",
-  "LastChanged": "2024-01-03T03:00:21.9657261+00:00",
+  "LastChanged": "2024-01-03T05:00:13.342063+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:24.6711446+00:00",
-  "LastUpdate_Ratings": "2024-01-03T04:00:00.2101402+00:00",
-  "LastUpdate_Achievements": "2024-01-03T04:04:31.076105+00:00"
+  "LastUpdate_Ratings": "2024-01-03T05:00:13.3420635+00:00",
+  "LastUpdate_Achievements": "2024-01-03T05:04:31.4401536+00:00"
 }
