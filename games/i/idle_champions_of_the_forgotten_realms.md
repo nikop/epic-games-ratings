@@ -1,12 +1,12 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 1,023)  
+Rating: 4.06 (Ranked 1,024)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~7,506 |
+| A Brief Tour of the Realms | 3.00% | ~7,507 |
 | Beast Intentions | 1.00% | ~2,502 |
 | The Cursed Farmer | 1.00% | ~2,502 |
 | The Mad Wizard | 1.00% | ~2,502 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~216 |
 | The Brains of an Illithid's Desire | 0.10% | ~216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,198 (Ranked 70)  
+Progressed: 250,217 (Ranked 70)  
 Completed: 2,587 (1.03%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -811,7 +811,7 @@ Completed: 2,587 (1.03%) (Ranked 170)
 | 2023-12-31 | 248,665 | 2,581 |
 | 2024-01-01 | 249,335 | 2,583 |
 | 2024-01-02 | 250,032 | 2,585 |
-| 2024-01-03 | 250,198 | 2,587 |
+| 2024-01-03 | 250,217 | 2,587 |
 ## Awards
 Max (Great for Beginners): 5,730  (Ranked 72)  
 Sum: 33,274 (Ranked 41)  

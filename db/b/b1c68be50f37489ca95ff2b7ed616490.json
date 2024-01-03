@@ -2,9 +2,9 @@
   "ID": "b1c68be50f37489ca95ff2b7ed616490",
   "Name": "Agatha Christie - Murder on the Orient Express",
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
-  "Ranking_EOS_Progress": 409,
+  "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 251,
+  "EOS_Progressed": 252,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1099,6 +1099,11 @@
       "Time": "2024-01-02T20:03:32.0535468+00:00",
       "NumProgressed": 251,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T08:04:22.7489315+00:00",
+      "NumProgressed": 252,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-05T15:06:14.3136114+00:00",
@@ -1109,9 +1114,9 @@
       "ID": "1",
       "SetID": "6bgoh8g",
       "Name": "A mystery? No! A trifle for Poirot!",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 158
+      "UsersEstimate": 156
     },
     {
       "ID": "10",
@@ -1221,9 +1226,9 @@
       "ID": "22",
       "SetID": "6bgoh8g",
       "Name": "I know kung fu",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 20
+      "UsersEstimate": 23
     },
     {
       "ID": "23",
@@ -1253,9 +1258,9 @@
       "ID": "26",
       "SetID": "6bgoh8g",
       "Name": "The only useful pigeon is a stool pigeon",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "27",
@@ -1269,9 +1274,9 @@
       "ID": "3",
       "SetID": "6bgoh8g",
       "Name": "It was not in the book",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 38
     },
     {
       "ID": "4",
@@ -1326,14 +1331,14 @@
     {
       "ID": "6bgoh8g",
       "IsBase": true,
-      "Progressed": 251,
+      "Progressed": 252,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2024-01-03T07:03:57.0295223+00:00",
+  "LastChanged_Achievements": "2024-01-03T08:04:22.7489311+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:21.3580987+00:00",
-  "LastUpdate_Ratings": "2024-01-03T07:03:13.7324907+00:00",
-  "LastUpdate_Achievements": "2024-01-03T07:03:57.0295396+00:00"
+  "LastUpdate_Ratings": "2024-01-03T08:03:21.8478151+00:00",
+  "LastUpdate_Achievements": "2024-01-03T08:04:22.7489535+00:00"
 }

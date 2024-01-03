@@ -7951,9 +7951,9 @@
       "Count": 3810
     }
   ],
-  "EOS_Progressed": 149123,
+  "EOS_Progressed": 149125,
   "EOS_Completed": 341,
-  "EOS_NewPlayers": 1239,
+  "EOS_NewPlayers": 1238,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -35116,6 +35116,11 @@
       "Time": "2024-01-03T07:06:15.3860284+00:00",
       "NumProgressed": 149123,
       "NumCompleted": 341
+    },
+    {
+      "Time": "2024-01-03T08:07:35.3521866+00:00",
+      "NumProgressed": 149125,
+      "NumCompleted": 341
     }
   ],
   "TotalAchievements": 112,
@@ -35503,7 +35508,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8947
+      "UsersEstimate": 8948
     },
     {
       "ID": "expansion02",
@@ -35711,7 +35716,7 @@
       "Name": "Budding Merchant",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8947
+      "UsersEstimate": 8948
     },
     {
       "ID": "level02",
@@ -36022,15 +36027,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 149123,
+      "Progressed": 149125,
       "Completed": 341
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-03T01:49:07.3826497+00:00",
-  "LastChanged_Achievements": "2024-01-03T07:06:15.3860281+00:00",
+  "LastChanged_Achievements": "2024-01-03T08:07:35.3521858+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.6407181+00:00",
-  "LastUpdate_Ratings": "2024-01-03T07:03:20.506122+00:00",
-  "LastUpdate_Achievements": "2024-01-03T07:06:15.3862356+00:00"
+  "LastUpdate_Ratings": "2024-01-03T08:03:30.5538481+00:00",
+  "LastUpdate_Achievements": "2024-01-03T08:07:35.3524303+00:00"
 }

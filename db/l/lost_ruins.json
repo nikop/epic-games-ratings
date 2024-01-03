@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 650,
+  "EOS_Progressed": 651,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1749,6 +1749,11 @@
       "Time": "2024-01-03T01:55:59.1093445+00:00",
       "NumProgressed": 650,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-03T08:10:50.4906014+00:00",
+      "NumProgressed": 651,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1816,7 +1821,7 @@
       "Name": "Explorer",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "GhostBuster",
@@ -1968,7 +1973,7 @@
       "Name": "Roughneck",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "RuneMaster",
@@ -1976,7 +1981,7 @@
       "Name": "Rune Master",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ShieldCrusher",
@@ -2008,7 +2013,7 @@
       "Name": "Sword Master",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TheEnd",
@@ -2032,7 +2037,7 @@
       "Name": "Trio",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "TrapMaster",
@@ -2072,14 +2077,14 @@
       "Name": "Witch",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 650,
+      "Progressed": 651,
       "Completed": 1
     }
   ],
@@ -2087,8 +2092,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2024-01-03T07:10:00.3054066+00:00",
+  "LastChanged_Achievements": "2024-01-03T08:10:50.4906008+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:03.2604081+00:00",
-  "LastUpdate_Ratings": "2024-01-03T06:57:47.1267558+00:00",
-  "LastUpdate_Achievements": "2024-01-03T07:10:00.3054539+00:00"
+  "LastUpdate_Ratings": "2024-01-03T07:57:59.4307747+00:00",
+  "LastUpdate_Achievements": "2024-01-03T08:10:50.4906644+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
@@ -385,7 +385,7 @@
   "Tags": [],
   "EOS_Progressed": 7054,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8458,9 +8458,9 @@
       "ID": "ItSmellsLikeRoses",
       "SetID": "5f3a6d9",
       "Name": "It Smells Like Roses",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 33
     },
     {
       "ID": "Katherine",
@@ -8768,8 +8768,8 @@
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-12-30T21:02:21.4914587+00:00",
-  "LastChanged_Achievements": "2024-01-03T07:08:49.8485021+00:00",
+  "LastChanged_Achievements": "2024-01-03T08:09:17.6414948+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:40.2112681+00:00",
-  "LastUpdate_Ratings": "2024-01-03T06:58:28.7000273+00:00",
-  "LastUpdate_Achievements": "2024-01-03T07:08:49.8485915+00:00"
+  "LastUpdate_Ratings": "2024-01-03T07:58:54.3005161+00:00",
+  "LastUpdate_Achievements": "2024-01-03T08:09:17.6415868+00:00"
 }

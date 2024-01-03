@@ -5,7 +5,7 @@ Rating: 3.28 (Ranked 1,089)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Good to have Allies | 27.00% | ~583 |
+| It's Good to have Allies | 28.00% | ~605 |
 | Defenses Online | 25.00% | ~540 |
 | Facility Online | 20.00% | ~432 |
 | Corporal | 15.00% | ~324 |
@@ -15,8 +15,8 @@ Rating: 3.28 (Ranked 1,089)
 | Getting Deployment | 10.00% | ~216 |
 | Stocking Up | 10.00% | ~216 |
 | On Target | 10.00% | ~216 |
-| Keeping Busy | 9.00% | ~194 |
-| Infantry Reporting | 9.00% | ~194 |
+| Keeping Busy | 9.00% | ~195 |
+| Infantry Reporting | 9.00% | ~195 |
 | Fighting for Survival | 8.00% | ~173 |
 | Silver Competitor | 8.00% | ~173 |
 | Captain | 8.00% | ~173 |
@@ -44,7 +44,7 @@ Rating: 3.28 (Ranked 1,089)
 | Platinum Achiever | 0.10% | ~2 |
 | Platinum Competitor | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,161 (Ranked 241)  
+Progressed: 2,162 (Ranked 241)  
 Completed: 1 (0.05%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,7 +253,7 @@ Completed: 1 (0.05%) (Ranked 333)
 | 2023-12-31 | 2,141 | 1 |
 | 2024-01-01 | 2,151 | 1 |
 | 2024-01-02 | 2,160 | 1 |
-| 2024-01-03 | 2,161 | 1 |
+| 2024-01-03 | 2,162 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

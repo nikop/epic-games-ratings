@@ -263,7 +263,7 @@
       "Count": 90
     }
   ],
-  "EOS_Progressed": 9750,
+  "EOS_Progressed": 9754,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1808,
   "EOS_NewCompleters": 0,
@@ -3463,6 +3463,11 @@
       "Time": "2024-01-03T07:09:50.0864352+00:00",
       "NumProgressed": 9750,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T08:10:37.2918177+00:00",
+      "NumProgressed": 9754,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3491,7 +3496,7 @@
       "Name": "Trade Empire",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "05_TheComorraghSurvivors",
@@ -3571,15 +3576,15 @@
       "Name": "Fear Not Obliteration",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "15_Pentakill",
       "SetID": "37a94m8",
       "Name": "Pentakill",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 390
+      "UsersEstimate": 488
     },
     {
       "ID": "16_TheRise",
@@ -3643,7 +3648,7 @@
       "Name": "The Dynasty Restored",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "24_TheHighrise",
@@ -3803,7 +3808,7 @@
       "Name": "No Place Like Home",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -3883,7 +3888,7 @@
       "Name": "Enraged Dragon",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "54_ThisIsAJobForLordCaptain",
@@ -3969,9 +3974,9 @@
       "ID": "64_TheOathToStars",
       "SetID": "37a94m8",
       "Name": "Oath to the Stars",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 10
     },
     {
       "ID": "65_TheImperialRoute",
@@ -3994,7 +3999,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 9750,
+      "Progressed": 9754,
       "Completed": 0
     }
   ],
@@ -4002,8 +4007,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-03T03:00:34.4543831+00:00",
-  "LastChanged_Achievements": "2024-01-03T07:09:50.0864349+00:00",
+  "LastChanged_Achievements": "2024-01-03T08:10:37.2918174+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2024-01-03T07:00:29.6298285+00:00",
-  "LastUpdate_Achievements": "2024-01-03T07:09:50.0865098+00:00"
+  "LastUpdate_Ratings": "2024-01-03T08:01:39.6896885+00:00",
+  "LastUpdate_Achievements": "2024-01-03T08:10:37.2919231+00:00"
 }

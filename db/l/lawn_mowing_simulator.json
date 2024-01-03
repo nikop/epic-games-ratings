@@ -2230,9 +2230,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 693829,
+  "EOS_Progressed": 693837,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 2132,
+  "EOS_NewPlayers": 2131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31890,6 +31890,11 @@
       "Time": "2024-01-03T07:10:00.5299914+00:00",
       "NumProgressed": 693829,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2024-01-03T08:10:50.7662144+00:00",
+      "NumProgressed": 693837,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 54,
@@ -31901,7 +31906,7 @@
       "Name": "The dream begins",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 548125
+      "UsersEstimate": 548131
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -31917,7 +31922,7 @@
       "Name": "Earn your stripes",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6244
+      "UsersEstimate": 6245
     },
     {
       "ID": "ALL_AMATEUR_CHALLENGES",
@@ -31989,7 +31994,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 249778
+      "UsersEstimate": 249781
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -32005,7 +32010,7 @@
       "Name": "Lawn \u0026 Order",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6244
+      "UsersEstimate": 6245
     },
     {
       "ID": "CONTRACT_SMALL_DECK",
@@ -32125,7 +32130,7 @@
       "Name": "Hard times",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 2081
+      "UsersEstimate": 2082
     },
     {
       "ID": "DRIVE_100_MILES",
@@ -32141,7 +32146,7 @@
       "Name": "The first of many",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 215087
+      "UsersEstimate": 215089
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -32181,7 +32186,7 @@
       "Name": "The grass is always greener",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6244
+      "UsersEstimate": 6245
     },
     {
       "ID": "ONE_OF_EACH_CONTRACT",
@@ -32189,7 +32194,7 @@
       "Name": "Jack of all trades",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6244
+      "UsersEstimate": 6245
     },
     {
       "ID": "OWN_ALL_ORIGINAL_MOWERS",
@@ -32205,7 +32210,7 @@
       "Name": "Lawn in the U.S.A.",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 104074
+      "UsersEstimate": 104076
     },
     {
       "ID": "PART_EX_LESS_EXPENSIVE",
@@ -32229,7 +32234,7 @@
       "Name": "All hands on deck",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6244
+      "UsersEstimate": 6245
     },
     {
       "ID": "PURCHASE_FORTH_HQ",
@@ -32261,7 +32266,7 @@
       "Name": "Credible",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 48568
+      "UsersEstimate": 48569
     },
     {
       "ID": "RP_DISTINGUISHED",
@@ -32293,7 +32298,7 @@
       "Name": "Professional",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6244
+      "UsersEstimate": 6245
     },
     {
       "ID": "RP_RANK_UP",
@@ -32301,7 +32306,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 124889
+      "UsersEstimate": 124891
     },
     {
       "ID": "RP_TRUSTED",
@@ -32332,15 +32337,15 @@
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 693829,
+      "Progressed": 693837,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-12-22T00:00:38.9182801+00:00",
-  "LastChanged_Achievements": "2024-01-03T07:10:00.5299912+00:00",
+  "LastChanged_Achievements": "2024-01-03T08:10:50.766214+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:51.3270984+00:00",
-  "LastUpdate_Ratings": "2024-01-03T06:59:18.2219015+00:00",
-  "LastUpdate_Achievements": "2024-01-03T07:10:00.5301509+00:00"
+  "LastUpdate_Ratings": "2024-01-03T08:00:04.849817+00:00",
+  "LastUpdate_Achievements": "2024-01-03T08:10:50.7664434+00:00"
 }

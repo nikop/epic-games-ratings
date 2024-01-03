@@ -7,7 +7,7 @@ Number of Ratings: 111  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You're free now! | 62.00% | ~2,176 |
-| Keeping it classy | 27.00% | ~947 |
+| Keeping it classy | 27.00% | ~948 |
 | Welcome to the family | 21.00% | ~737 |
 | The finer things in life | 19.00% | ~667 |
 | Backpacker | 13.00% | ~456 |
@@ -29,16 +29,16 @@ Number of Ratings: 111  (23.09.2022)
 | Purple passion | 6.00% | ~211 |
 | Squad goals | 6.00% | ~211 |
 | Sup widdit big dog! | 6.00% | ~211 |
-| Commence the Hijinx! | 5.00% | ~175 |
-| DIY Boss | 5.00% | ~175 |
-| Globetrotter | 5.00% | ~175 |
-| Laid back | 5.00% | ~175 |
-| Lines for days | 5.00% | ~175 |
-| Manny Destroys All | 5.00% | ~175 |
-| Renaissance man | 5.00% | ~175 |
-| Tank commander | 5.00% | ~175 |
-| Trick shot marksman | 5.00% | ~175 |
-| We get it, you're good | 5.00% | ~175 |
+| Commence the Hijinx! | 5.00% | ~176 |
+| DIY Boss | 5.00% | ~176 |
+| Globetrotter | 5.00% | ~176 |
+| Laid back | 5.00% | ~176 |
+| Lines for days | 5.00% | ~176 |
+| Manny Destroys All | 5.00% | ~176 |
+| Renaissance man | 5.00% | ~176 |
+| Tank commander | 5.00% | ~176 |
+| Trick shot marksman | 5.00% | ~176 |
+| We get it, you're good | 5.00% | ~176 |
 | Cops called! | 4.00% | ~140 |
 | G.O.A.T. status | 4.00% | ~140 |
 | Hoarder | 4.00% | ~140 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~4 |
 | Ultimate skate nerd | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,509 (Ranked 220)  
+Progressed: 3,510 (Ranked 220)  
 Completed: 2 (0.06%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 2 (0.06%) (Ranked 326)
 | 2023-12-31 | 3,477 | 2 |
 | 2024-01-01 | 3,487 | 2 |
 | 2024-01-02 | 3,506 | 2 |
-| 2024-01-03 | 3,509 | 2 |
+| 2024-01-03 | 3,510 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 62  (Ranked 423)  
 Sum: 579 (Ranked 324)  

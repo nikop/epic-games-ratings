@@ -2,10 +2,10 @@
   "ID": "64f5543ade2942d59ae4e0321915e0da",
   "Name": "Laika: Aged Through Blood",
   "ProductSlug": "laika-3293ee",
-  "Ranking_EOS_Progress": 373,
+  "Ranking_EOS_Progress": 372,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 363,
+  "EOS_Progressed": 364,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -1424,6 +1424,11 @@
       "Time": "2024-01-03T04:04:44.9373111+00:00",
       "NumProgressed": 363,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-03T08:05:39.8854012+00:00",
+      "NumProgressed": 364,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -1474,9 +1479,9 @@
       "ID": "AC_ALL_WEAPONS",
       "SetID": "16i2akc",
       "Name": "Arsenal",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 22
+      "UsersEstimate": 18
     },
     {
       "ID": "AC_ALL_WEAPON_SLOTS",
@@ -1532,7 +1537,7 @@
       "Name": "Sacrilege",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "AC_BOSS_04",
@@ -1548,7 +1553,7 @@
       "Name": "Pack",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "AC_COMBO_2",
@@ -1604,7 +1609,7 @@
       "Name": "Killer",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -1612,7 +1617,7 @@
       "Name": "Psycopath",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "AC_DEATH_ENEMIES_3",
@@ -1628,7 +1633,7 @@
       "Name": "Excursion",
       "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -1652,7 +1657,7 @@
       "Name": "Player",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "AC_FLASHBACK_01",
@@ -1676,7 +1681,7 @@
       "Name": "Schooling",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "AC_FULL_MAP",
@@ -1771,14 +1776,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 363,
+      "Progressed": 364,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-03T07:04:53.5131197+00:00",
+  "LastChanged_Achievements": "2024-01-03T08:05:39.8854005+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:05.7124829+00:00",
-  "LastUpdate_Ratings": "2024-01-03T06:59:50.5333002+00:00",
-  "LastUpdate_Achievements": "2024-01-03T07:04:53.5131551+00:00"
+  "LastUpdate_Ratings": "2024-01-03T08:00:47.0366213+00:00",
+  "LastUpdate_Achievements": "2024-01-03T08:05:39.8854294+00:00"
 }

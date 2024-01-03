@@ -1996,9 +1996,9 @@
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
       "SetID": "aniflfk",
       "Name": "Empty Shelves",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 78
+      "UsersEstimate": 83
     },
     {
       "ID": "CATCH_30_FISH",
@@ -2100,9 +2100,9 @@
       "ID": "SPEND_2000_COINS",
       "SetID": "aniflfk",
       "Name": "Crypto Bro",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 161
+      "UsersEstimate": 166
     },
     {
       "ID": "TAKE_LEECH",
@@ -2131,8 +2131,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2024-01-03T07:04:33.5973823+00:00",
+  "LastChanged_Achievements": "2024-01-03T08:05:12.5802582+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:54.5394751+00:00",
-  "LastUpdate_Ratings": "2024-01-03T07:02:56.1254278+00:00",
-  "LastUpdate_Achievements": "2024-01-03T07:04:33.5973969+00:00"
+  "LastUpdate_Ratings": "2024-01-03T08:02:56.7061158+00:00",
+  "LastUpdate_Achievements": "2024-01-03T08:05:12.5802813+00:00"
 }

@@ -1165,9 +1165,9 @@
       "ID": "KR4_ACHIEVEMENT_BARNY",
       "SetID": "caeik3h",
       "Name": "BUUURP!",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 106
     },
     {
       "ID": "KR4_ACHIEVEMENT_BILBO_DOOR",
@@ -1445,9 +1445,9 @@
       "ID": "KR4_ACHIEVEMENT_JOKULL",
       "SetID": "caeik3h",
       "Name": "How To Tame Your Dragon",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 50,
-      "UsersEstimate": 159
+      "UsersEstimate": 161
     },
     {
       "ID": "KR4_ACHIEVEMENT_KERMIT",
@@ -1461,9 +1461,9 @@
       "ID": "KR4_ACHIEVEMENT_KILL_DWARF_ENGINEERS",
       "SetID": "caeik3h",
       "Name": "Can\u0027t Touch This",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 209
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_EASY",
@@ -1525,9 +1525,9 @@
       "ID": "KR4_ACHIEVEMENT_MELTINGFURNACE",
       "SetID": "caeik3h",
       "Name": "Presto Logs",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 53
     },
     {
       "ID": "KR4_ACHIEVEMENT_MERCENARIES",
@@ -1749,9 +1749,9 @@
       "ID": "KR4_ACHIEVEMENT_WINTERLORD",
       "SetID": "caeik3h",
       "Name": "Lord of Winter",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 98
     },
     {
       "ID": "KR4_ACHIEVEMENT_WINTER_QUEEN",
@@ -1778,8 +1778,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2024-01-03T07:03:49.9479968+00:00",
+  "LastChanged_Achievements": "2024-01-03T08:04:13.0924294+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:04.1058747+00:00",
-  "LastUpdate_Ratings": "2024-01-03T07:00:10.1544491+00:00",
-  "LastUpdate_Achievements": "2024-01-03T07:03:49.9480664+00:00"
+  "LastUpdate_Ratings": "2024-01-03T08:01:14.2241468+00:00",
+  "LastUpdate_Achievements": "2024-01-03T08:04:13.0924884+00:00"
 }

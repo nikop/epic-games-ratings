@@ -2,7 +2,7 @@
   "ID": "3000405a9f864d848824e6f6022fb86c",
   "Name": "Astria Ascending",
   "ProductSlug": "astria-ascending",
-  "Ranking_Rating": 1029,
+  "Ranking_Rating": 1012,
   "Ranking_Popularity": 578,
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 820,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.04,
+  "Rating": 4.08,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:02.6538126+00:00",
@@ -45,6 +45,12 @@
       "Rating": 4.04,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-03T08:00:53.6600452+00:00",
+      "Rating": 4.08,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -63,8 +69,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:43.1419961+00:00",
   "FirstSeenRating": "2023-03-31T05:57:02.6538123+00:00",
-  "LastChanged": "2024-01-02T07:59:10.8558935+00:00",
+  "LastChanged": "2024-01-03T08:00:53.660045+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:26.7001031+00:00",
-  "LastUpdate_Ratings": "2024-01-03T06:59:55.0932737+00:00",
-  "LastUpdate_Achievements": "2024-01-03T07:04:46.7342897+00:00"
+  "LastUpdate_Ratings": "2024-01-03T08:00:53.6600461+00:00",
+  "LastUpdate_Achievements": "2024-01-03T08:05:30.5920046+00:00"
 }

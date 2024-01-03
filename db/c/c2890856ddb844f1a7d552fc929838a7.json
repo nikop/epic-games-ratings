@@ -273,9 +273,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 2128,
+  "EOS_Progressed": 2129,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 298,
+  "EOS_NewPlayers": 296,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5018,6 +5018,11 @@
       "Time": "2024-01-03T07:08:24.6880808+00:00",
       "NumProgressed": 2128,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T08:08:43.7265139+00:00",
+      "NumProgressed": 2129,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -5038,7 +5043,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 1894
+      "UsersEstimate": 1895
     },
     {
       "ID": "AC02",
@@ -5046,7 +5051,7 @@
       "Name": "Blood and Dust",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 1362
+      "UsersEstimate": 1363
     },
     {
       "ID": "AC03",
@@ -5062,7 +5067,7 @@
       "Name": "Blood and Iron",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 1234
+      "UsersEstimate": 1235
     },
     {
       "ID": "AC05",
@@ -5070,7 +5075,7 @@
       "Name": "The Sharpest Tool in the Shed",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 1149
+      "UsersEstimate": 1150
     },
     {
       "ID": "AC06",
@@ -5086,7 +5091,7 @@
       "Name": "The Sea dies on the Shore",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 1000
+      "UsersEstimate": 1001
     },
     {
       "ID": "AC08",
@@ -5110,7 +5115,7 @@
       "Name": "The Wait is Over",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "AC11",
@@ -5174,7 +5179,7 @@
       "Name": "Acquired Taste",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "AC19",
@@ -5182,7 +5187,7 @@
       "Name": "Soledad",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "AC20",
@@ -5238,7 +5243,7 @@
       "Name": "A Leap of Faith",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "AC27",
@@ -5294,7 +5299,7 @@
       "Name": "Ultima Ratio",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 1000
+      "UsersEstimate": 1001
     },
     {
       "ID": "AC34",
@@ -5334,7 +5339,7 @@
       "Name": "Edge of Orison",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "AC39",
@@ -5366,7 +5371,7 @@
       "Name": "Two Old Ones Eating Soup",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "AC43",
@@ -5374,7 +5379,7 @@
       "Name": "The Finest Craftmanship",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "AC44",
@@ -5397,7 +5402,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 2128,
+      "Progressed": 2129,
       "Completed": 0
     }
   ],
@@ -5405,8 +5410,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-02T10:59:36.3957369+00:00",
-  "LastChanged_Achievements": "2024-01-03T07:08:24.6880807+00:00",
+  "LastChanged_Achievements": "2024-01-03T08:08:43.7265135+00:00",
   "LastUpdate_AppInfo": "2024-01-03T03:57:04.3699674+00:00",
-  "LastUpdate_Ratings": "2024-01-03T06:59:55.9581279+00:00",
-  "LastUpdate_Achievements": "2024-01-03T07:08:24.6881285+00:00"
+  "LastUpdate_Ratings": "2024-01-03T08:00:54.8911528+00:00",
+  "LastUpdate_Achievements": "2024-01-03T08:08:43.7265921+00:00"
 }

@@ -391,7 +391,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2573,
+  "EOS_Progressed": 2575,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 579,
   "EOS_NewCompleters": 0,
@@ -4206,6 +4206,11 @@
       "Time": "2024-01-03T07:09:48.7641801+00:00",
       "NumProgressed": 2573,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-03T08:10:35.6089135+00:00",
+      "NumProgressed": 2575,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -4218,7 +4223,7 @@
       "Name": "Unforeseen",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 2264
+      "UsersEstimate": 2266
     },
     {
       "ID": "achievement_10",
@@ -4250,7 +4255,7 @@
       "Name": "A Familiar Nest",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "achievement_14",
@@ -4258,15 +4263,15 @@
       "Name": "Geas Aristeya",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "achievement_15",
       "SetID": "18al4io",
       "Name": "A Perfect Cycle",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 309
+      "UsersEstimate": 335
     },
     {
       "ID": "achievement_16",
@@ -4306,7 +4311,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 2084
+      "UsersEstimate": 2086
     },
     {
       "ID": "achievement_20",
@@ -4362,7 +4367,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1775
+      "UsersEstimate": 1777
     },
     {
       "ID": "achievement_36",
@@ -4370,7 +4375,7 @@
       "Name": "Armsman",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "achievement_37",
@@ -4394,7 +4399,7 @@
       "Name": "No More Names",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1312
+      "UsersEstimate": 1313
     },
     {
       "ID": "achievement_41",
@@ -4434,7 +4439,7 @@
       "Name": "Periapt Alizarin",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "achievement_46",
@@ -4450,7 +4455,7 @@
       "Name": "Enlisted",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 1904
+      "UsersEstimate": 1906
     },
     {
       "ID": "achievement_49",
@@ -4466,7 +4471,7 @@
       "Name": "Initiate",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "achievement_50",
@@ -4474,7 +4479,7 @@
       "Name": "Veteran",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "achievement_54",
@@ -4514,7 +4519,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "achievement_60",
@@ -4593,7 +4598,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 2573,
+      "Progressed": 2575,
       "Completed": 2
     }
   ],
@@ -4601,8 +4606,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-02T16:59:14.2447676+00:00",
-  "LastChanged_Achievements": "2024-01-03T07:09:48.7641798+00:00",
+  "LastChanged_Achievements": "2024-01-03T08:10:35.608913+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.4007279+00:00",
-  "LastUpdate_Ratings": "2024-01-03T06:58:46.4492328+00:00",
-  "LastUpdate_Achievements": "2024-01-03T07:09:48.7642233+00:00"
+  "LastUpdate_Ratings": "2024-01-03T07:59:20.243325+00:00",
+  "LastUpdate_Achievements": "2024-01-03T08:10:35.6089754+00:00"
 }

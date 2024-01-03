@@ -2,7 +2,7 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 1023,
+  "Ranking_Rating": 1024,
   "Ranking_Popularity": 72,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 70,
@@ -9289,9 +9289,9 @@
       "Count": 3622
     }
   ],
-  "EOS_Progressed": 250198,
+  "EOS_Progressed": 250217,
   "EOS_Completed": 2587,
-  "EOS_NewPlayers": 5063,
+  "EOS_NewPlayers": 5078,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -38474,6 +38474,11 @@
       "Time": "2024-01-03T07:10:07.7292504+00:00",
       "NumProgressed": 250198,
       "NumCompleted": 2587
+    },
+    {
+      "Time": "2024-01-03T08:10:59.2972697+00:00",
+      "NumProgressed": 250217,
+      "NumCompleted": 2587
     }
   ],
   "TotalAchievements": 546,
@@ -38485,7 +38490,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7506
+      "UsersEstimate": 7507
     },
     {
       "ID": "objective_completed_10",
@@ -42852,21 +42857,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 216472,
+      "Progressed": 216491,
       "Completed": 4129
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 250198,
+      "Progressed": 250217,
       "Completed": 2587
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-02T20:58:24.5866544+00:00",
-  "LastChanged_Achievements": "2024-01-03T07:10:07.72925+00:00",
+  "LastChanged_Achievements": "2024-01-03T08:10:59.2972694+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-03T06:58:35.7271099+00:00",
-  "LastUpdate_Achievements": "2024-01-03T07:10:07.7316042+00:00"
+  "LastUpdate_Ratings": "2024-01-03T07:59:04.2403529+00:00",
+  "LastUpdate_Achievements": "2024-01-03T08:10:59.2997219+00:00"
 }

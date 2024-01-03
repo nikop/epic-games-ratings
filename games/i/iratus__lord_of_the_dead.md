@@ -6,33 +6,33 @@ Number of Ratings: 10,109  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Improvement | 85.00% | ~41,244 |
-| Blood Moon | 73.00% | ~35,421 |
-| Path of the Necromancer | 65.00% | ~31,539 |
-| Chainbreaker - I | 60.00% | ~29,113 |
+| Improvement | 85.00% | ~41,245 |
+| Blood Moon | 73.00% | ~35,422 |
+| Path of the Necromancer | 65.00% | ~31,540 |
+| Chainbreaker - I | 60.00% | ~29,114 |
 | Cursed Creature | 57.00% | ~27,658 |
 | Extraction | 57.00% | ~27,658 |
-| Chainbreaker - II | 55.00% | ~26,687 |
-| Necromancer's Apprentice | 50.00% | ~24,261 |
-| Keeper of Keys | 47.00% | ~22,805 |
-| Distillation | 43.00% | ~20,864 |
-| Transmutation | 42.00% | ~20,379 |
+| Chainbreaker - II | 55.00% | ~26,688 |
+| Necromancer's Apprentice | 50.00% | ~24,262 |
+| Keeper of Keys | 47.00% | ~22,806 |
+| Distillation | 43.00% | ~20,865 |
+| Transmutation | 42.00% | ~20,380 |
 | Mountain King - I | 41.00% | ~19,894 |
 | Prepared Necromancer | 40.00% | ~19,409 |
 | Mountain King - II | 39.00% | ~18,924 |
-| Blind Rage | 38.00% | ~18,438 |
+| Blind Rage | 38.00% | ~18,439 |
 | Mad Genius | 35.00% | ~16,983 |
-| Cannon Fodder - I | 34.00% | ~16,497 |
-| Soul of Lies | 34.00% | ~16,497 |
+| Cannon Fodder - I | 34.00% | ~16,498 |
+| Soul of Lies | 34.00% | ~16,498 |
 | Bane of Mercenaries - I | 32.00% | ~15,527 |
 | Bane of Mercenaries - II | 31.00% | ~15,042 |
-| Cannon Fodder - II | 29.00% | ~14,071 |
-| Shadow Between Worlds | 29.00% | ~14,071 |
+| Cannon Fodder - II | 29.00% | ~14,072 |
+| Shadow Between Worlds | 29.00% | ~14,072 |
 | Bane of Monsters | 28.00% | ~13,586 |
 | Chainbreaker - III | 28.00% | ~13,586 |
 | Revealed Secrets - I | 26.00% | ~12,616 |
-| Revealed Secrets - II | 25.00% | ~12,130 |
-| Blood Elemental | 24.00% | ~11,645 |
+| Revealed Secrets - II | 25.00% | ~12,131 |
+| Blood Elemental | 24.00% | ~11,646 |
 | Unholy Bones | 23.00% | ~11,160 |
 | Lord of Fire | 22.00% | ~10,675 |
 | Cannon Fodder - III | 22.00% | ~10,675 |
@@ -40,9 +40,9 @@ Number of Ratings: 10,109  (23.09.2022)
 | Uncommon Warrior | 22.00% | ~10,675 |
 | Nightmare of the Humanity - I | 22.00% | ~10,675 |
 | Nightmare of the Humanity - II | 21.00% | ~10,190 |
-| That Was Easy! | 20.00% | ~9,704 |
-| Silent Waters | 20.00% | ~9,704 |
-| Head of Order | 20.00% | ~9,704 |
+| That Was Easy! | 20.00% | ~9,705 |
+| Silent Waters | 20.00% | ~9,705 |
+| Head of Order | 20.00% | ~9,705 |
 | Calcination | 19.00% | ~9,219 |
 | Blood Mage | 17.00% | ~8,249 |
 | Wild Hunger | 16.00% | ~7,764 |
@@ -82,7 +82,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Unrivaled | 0.50% | ~243 |
 | Renowned Researcher | 0.10% | ~49 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48,522 (Ranked 122)  
+Progressed: 48,523 (Ranked 122)  
 Completed: 26 (0.05%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,7 +340,7 @@ Completed: 26 (0.05%) (Ranked 333)
 | 2023-12-31 | 48,351 | 26 |
 | 2024-01-01 | 48,427 | 26 |
 | 2024-01-02 | 48,499 | 26 |
-| 2024-01-03 | 48,522 | 26 |
+| 2024-01-03 | 48,523 | 26 |
 ## Awards
 Max (Character Customization): 2,166  (Ranked 114)  
 Sum: 4,223 (Ranked 158)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
     "PcReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -3499,9 +3499,9 @@
       "ID": "ABetterTomorrow",
       "SetID": "3ai6ml8",
       "Name": "A Better Tomorrow",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 601
+      "UsersEstimate": 613
     },
     {
       "ID": "BostonHayDay",
@@ -3547,9 +3547,9 @@
       "ID": "DarkestBeforeTheDawn",
       "SetID": "3ai6ml8",
       "Name": "Darkest Before the Dawn",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 539
+      "UsersEstimate": 552
     },
     {
       "ID": "DrinkingOnTheJob",
@@ -3571,9 +3571,9 @@
       "ID": "EverythingIsDust",
       "SetID": "3ai6ml8",
       "Name": "Everything is Dust",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 343
+      "UsersEstimate": 356
     },
     {
       "ID": "LightsOut",
@@ -3666,8 +3666,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2024-01-03T07:09:48.6254865+00:00",
+  "LastChanged_Achievements": "2024-01-03T08:10:35.3968862+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:55.6682443+00:00",
-  "LastUpdate_Ratings": "2024-01-03T06:59:35.6690817+00:00",
-  "LastUpdate_Achievements": "2024-01-03T07:09:48.6255135+00:00"
+  "LastUpdate_Ratings": "2024-01-03T08:00:27.0469613+00:00",
+  "LastUpdate_Achievements": "2024-01-03T08:10:35.3969262+00:00"
 }

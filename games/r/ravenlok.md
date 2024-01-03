@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Once Upon a Time | 96.00% | ~1,121 |
-| Waff! | 94.00% | ~1,098 |
+| Waff! | 95.00% | ~1,110 |
 | Into the Barn | 87.00% | ~1,016 |
 | A Prophecy | 85.00% | ~993 |
 | Sword, Shield, Fight! | 76.00% | ~888 |

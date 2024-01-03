@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 139,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -419,10 +419,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 27801,
+  "EOS_Progressed": 27803,
   "EOS_Completed": 506,
-  "EOS_NewPlayers": 614,
-  "EOS_NewCompleters": 3,
+  "EOS_NewPlayers": 615,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 1.82,
   "EosHistory": [
     {
@@ -28189,6 +28189,11 @@
       "Time": "2024-01-03T07:04:10.4620963+00:00",
       "NumProgressed": 27801,
       "NumCompleted": 506
+    },
+    {
+      "Time": "2024-01-03T08:04:41.3281545+00:00",
+      "NumProgressed": 27803,
+      "NumCompleted": 506
     }
   ],
   "TotalAchievements": 20,
@@ -28320,7 +28325,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 21129
+      "UsersEstimate": 21130
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -28328,7 +28333,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 7506
+      "UsersEstimate": 7507
     },
     {
       "ID": "NORTH_FINISHED",
@@ -28352,22 +28357,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 5004
+      "UsersEstimate": 5005
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 27801,
+      "Progressed": 27803,
       "Completed": 506
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2024-01-03T07:04:10.4620956+00:00",
+  "LastChanged_Achievements": "2024-01-03T08:04:41.328154+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:39.3353951+00:00",
-  "LastUpdate_Ratings": "2024-01-03T06:57:17.9399561+00:00",
-  "LastUpdate_Achievements": "2024-01-03T07:04:10.4622305+00:00"
+  "LastUpdate_Ratings": "2024-01-03T07:57:17.0793616+00:00",
+  "LastUpdate_Achievements": "2024-01-03T08:04:41.3283236+00:00"
 }

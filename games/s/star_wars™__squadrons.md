@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~35,288 |
-| Safety in the Storm | 23.00% | ~8,543 |
-| A Better Idea | 23.00% | ~8,543 |
-| Begin the Ceremony | 19.00% | ~7,058 |
-| Mission Accomplished | 18.00% | ~6,686 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~5,572 |
-| A Starfighter of Your Own | 13.00% | ~4,829 |
-| Asset Secured | 12.00% | ~4,457 |
-| Unkillable | 7.00% | ~2,600 |
-| Together, Vanguard | 7.00% | ~2,600 |
+| Fracture at Fostar Haven | 95.00% | ~35,298 |
+| Safety in the Storm | 23.00% | ~8,546 |
+| A Better Idea | 23.00% | ~8,546 |
+| Begin the Ceremony | 19.00% | ~7,060 |
+| Mission Accomplished | 18.00% | ~6,688 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~5,573 |
+| A Starfighter of Your Own | 13.00% | ~4,830 |
+| Asset Secured | 12.00% | ~4,459 |
+| Unkillable | 7.00% | ~2,601 |
+| Together, Vanguard | 7.00% | ~2,601 |
 | The Galaxy's Finest (Pilot) | 6.00% | ~2,229 |
 | Sound Strategy | 6.00% | ~2,229 |
-| Stomped | 5.00% | ~1,857 |
+| Stomped | 5.00% | ~1,858 |
 | Fearless | 4.00% | ~1,486 |
 | Back From the Brink | 4.00% | ~1,486 |
 | Flames Over Mon Cala | 4.00% | ~1,486 |
 | A Promising Career | 4.00% | ~1,486 |
-| Great Shot, Kid | 3.00% | ~1,114 |
-| Stronger Together | 3.00% | ~1,114 |
-| Temporary Guardian | 3.00% | ~1,114 |
-| Baited | 3.00% | ~1,114 |
-| Punch It | 3.00% | ~1,114 |
+| Great Shot, Kid | 3.00% | ~1,115 |
+| Stronger Together | 3.00% | ~1,115 |
+| Temporary Guardian | 3.00% | ~1,115 |
+| Baited | 3.00% | ~1,115 |
+| Punch It | 3.00% | ~1,115 |
 | Stun 'Em | 2.00% | ~743 |
 | Squadron Hunter | 2.00% | ~743 |
 | Combat Pilot | 2.00% | ~743 |
 | Dressed for the Job You Want | 2.00% | ~743 |
-| I Have You Now | 1.00% | ~371 |
+| I Have You Now | 1.00% | ~372 |
 | Against the Current | 0.80% | ~297 |
 | Denied | 0.70% | ~260 |
 | Found Your Place | 0.60% | ~223 |
@@ -52,7 +52,7 @@
 | The Galaxy's Finest (Ace) | 0.10% | ~37 |
 | Ultimate Weapon | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37,145 (Ranked 133)  
+Progressed: 37,156 (Ranked 133)  
 Completed: 3 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 3 (0.01%) (Ranked 367)
 | 2023-12-31 | 36,244 | 3 |
 | 2024-01-01 | 36,677 | 3 |
 | 2024-01-02 | 37,047 | 3 |
-| 2024-01-03 | 37,145 | 3 |
+| 2024-01-03 | 37,156 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

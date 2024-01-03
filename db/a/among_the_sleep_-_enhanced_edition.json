@@ -500,9 +500,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 97916,
+  "EOS_Progressed": 97920,
   "EOS_Completed": 450,
-  "EOS_NewPlayers": 1001,
+  "EOS_NewPlayers": 1003,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -29230,6 +29230,11 @@
       "Time": "2024-01-03T06:09:12.4373265+00:00",
       "NumProgressed": 97916,
       "NumCompleted": 450
+    },
+    {
+      "Time": "2024-01-03T08:09:43.2325348+00:00",
+      "NumProgressed": 97920,
+      "NumCompleted": 450
     }
   ],
   "TotalAchievements": 10,
@@ -29273,7 +29278,7 @@
       "Name": "Closet Drawings",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "DrawingsAll",
@@ -29305,7 +29310,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 34271
+      "UsersEstimate": 34272
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -29320,15 +29325,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 97916,
+      "Progressed": 97920,
       "Completed": 450
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-12-20T03:02:57.8561576+00:00",
-  "LastChanged_Achievements": "2024-01-03T07:09:09.2127873+00:00",
+  "LastChanged_Achievements": "2024-01-03T08:09:43.2325343+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:31.1360404+00:00",
-  "LastUpdate_Ratings": "2024-01-03T07:03:18.5620453+00:00",
-  "LastUpdate_Achievements": "2024-01-03T07:09:09.2129533+00:00"
+  "LastUpdate_Ratings": "2024-01-03T08:03:27.1699509+00:00",
+  "LastUpdate_Achievements": "2024-01-03T08:09:43.2327312+00:00"
 }

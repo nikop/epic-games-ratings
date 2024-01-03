@@ -2,7 +2,7 @@
   "ID": "808b7e84dc7145adac359cd19ac2442e",
   "Name": "Delivery from the Pain",
   "ProductSlug": "delivery-from-the-pain-73198e",
-  "Ranking_EOS_Progress": 386,
+  "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 151,
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 310,
+  "EOS_Progressed": 311,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
@@ -1399,6 +1399,11 @@
       "Time": "2024-01-02T16:05:36.1271977+00:00",
       "NumProgressed": 310,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T08:06:49.532909+00:00",
+      "NumProgressed": 311,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 81,
@@ -2057,14 +2062,14 @@
     {
       "ID": "b90k33f",
       "IsBase": true,
-      "Progressed": 310,
+      "Progressed": 311,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-13T22:58:14.2557499+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:17.7528576+00:00",
-  "LastChanged_Achievements": "2024-01-03T07:05:42.0516371+00:00",
+  "LastChanged_Achievements": "2024-01-03T08:06:49.5329086+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:12.797231+00:00",
-  "LastUpdate_Ratings": "2024-01-03T06:58:23.4932708+00:00",
-  "LastUpdate_Achievements": "2024-01-03T07:05:42.0517134+00:00"
+  "LastUpdate_Ratings": "2024-01-03T07:58:46.5883951+00:00",
+  "LastUpdate_Achievements": "2024-01-03T08:06:49.5329823+00:00"
 }

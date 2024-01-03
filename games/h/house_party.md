@@ -22,12 +22,12 @@ Number of Ratings: 177  (23.09.2022)
 | Newcomer: Vickie | 1.00% | ~71 |
 | Social Butterfly | 1.00% | ~71 |
 | The Muse: Madison | 1.00% | ~71 |
+| It Smells Like Roses | 0.80% | ~33 |
 | Smooth Operator: Ashley | 0.80% | ~56 |
 | The Crush | 0.80% | ~56 |
 | Amy: Scavenger Hunt | 0.70% | ~49 |
 | Casanova | 0.70% | ~49 |
 | Deck the Balls | 0.70% | ~29 |
-| It Smells Like Roses | 0.70% | ~29 |
 | Now It's a Party! | 0.70% | ~49 |
 | Stephanie | 0.70% | ~49 |
 | The Magic Number | 0.70% | ~49 |

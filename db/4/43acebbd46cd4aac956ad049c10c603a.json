@@ -273,7 +273,7 @@
   ],
   "EOS_Progressed": 1244,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3820,9 +3820,9 @@
       "ID": "TeamSpirit",
       "SetID": "1n308hc",
       "Name": "Team Spirit",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 261
+      "UsersEstimate": 274
     },
     {
       "ID": "TextAdventurer",
@@ -3957,8 +3957,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-03T01:45:19.9316925+00:00",
-  "LastChanged_Achievements": "2024-01-03T07:04:00.9722181+00:00",
+  "LastChanged_Achievements": "2024-01-03T08:04:28.1655083+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.9244138+00:00",
-  "LastUpdate_Ratings": "2024-01-03T06:59:33.1098521+00:00",
-  "LastUpdate_Achievements": "2024-01-03T07:04:00.9722652+00:00"
+  "LastUpdate_Ratings": "2024-01-03T08:00:23.7711524+00:00",
+  "LastUpdate_Achievements": "2024-01-03T08:04:28.1655579+00:00"
 }

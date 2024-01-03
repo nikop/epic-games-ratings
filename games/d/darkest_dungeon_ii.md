@@ -6,31 +6,31 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 12.00% | ~753 |
-| Lost and Found | 8.00% | ~502 |
-| This Belongs in a Museum | 6.00% | ~7,884 |
-| Autodidact | 6.00% | ~7,884 |
-| This guy... again? | 6.00% | ~376 |
-| Serenity Now! | 5.00% | ~6,570 |
-| Creep and Sleep | 5.00% | ~6,570 |
-| Catch and Decease | 5.00% | ~6,570 |
-| Overdue Notice | 5.00% | ~6,570 |
-| Escape from the Black Hole | 5.00% | ~6,570 |
+| Malpractice Assurance | 12.00% | ~754 |
+| Lost and Found | 8.00% | ~503 |
+| This Belongs in a Museum | 6.00% | ~7,885 |
+| Autodidact | 6.00% | ~7,885 |
+| This guy... again? | 6.00% | ~377 |
+| Serenity Now! | 5.00% | ~6,571 |
+| Creep and Sleep | 5.00% | ~6,571 |
+| Catch and Decease | 5.00% | ~6,571 |
+| Overdue Notice | 5.00% | ~6,571 |
+| Escape from the Black Hole | 5.00% | ~6,571 |
 | Ploughshares to Swords | 5.00% | ~314 |
 | Bloody Graduation | 5.00% | ~314 |
-| Don't Make Me Turn This Coach Around | 4.00% | ~5,256 |
-| It Rings a Bell | 4.00% | ~5,256 |
-| Not Today! | 4.00% | ~5,256 |
-| Meat and Greet | 4.00% | ~5,256 |
-| It Happens | 4.00% | ~5,256 |
-| Rush Hour | 4.00% | ~5,256 |
-| Merry Time | 4.00% | ~5,256 |
-| Harvest Festival | 4.00% | ~5,256 |
-| To Grandmother's House | 4.00% | ~5,256 |
-| Whale | 4.00% | ~5,256 |
-| A Place to Lay Your Head | 4.00% | ~5,256 |
-| FNG | 4.00% | ~5,256 |
-| Nope | 4.00% | ~5,256 |
+| Don't Make Me Turn This Coach Around | 4.00% | ~5,257 |
+| It Rings a Bell | 4.00% | ~5,257 |
+| Not Today! | 4.00% | ~5,257 |
+| Meat and Greet | 4.00% | ~5,257 |
+| It Happens | 4.00% | ~5,257 |
+| Rush Hour | 4.00% | ~5,257 |
+| Merry Time | 4.00% | ~5,257 |
+| Harvest Festival | 4.00% | ~5,257 |
+| To Grandmother's House | 4.00% | ~5,257 |
+| Whale | 4.00% | ~5,257 |
+| A Place to Lay Your Head | 4.00% | ~5,257 |
+| FNG | 4.00% | ~5,257 |
+| Nope | 4.00% | ~5,257 |
 | Friends 'Til the End | 4.00% | ~251 |
 | Resurrection | 3.00% | ~3,942 |
 | Unleash Hell | 3.00% | ~3,942 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,405 (Ranked 90)  
+Progressed: 131,414 (Ranked 90)  
 Completed: 3 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,7 +334,7 @@ Completed: 3 (0.00%) (Ranked 390)
 | 2023-12-31 | 131,026 | 3 |
 | 2024-01-01 | 131,206 | 3 |
 | 2024-01-02 | 131,365 | 3 |
-| 2024-01-03 | 131,405 | 3 |
+| 2024-01-03 | 131,414 | 3 |
 ## Awards
 Max (Character Customization): 7,927  (Ranked 50)  
 Sum: 21,355 (Ranked 58)  

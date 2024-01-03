@@ -81,7 +81,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 861,
+  "EOS_Progressed": 862,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
@@ -2701,6 +2701,11 @@
       "Time": "2024-01-03T01:55:56.728156+00:00",
       "NumProgressed": 861,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-03T08:10:47.1330235+00:00",
+      "NumProgressed": 862,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -2760,7 +2765,7 @@
       "Name": "Devoted",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "EyeSpy",
@@ -2798,9 +2803,9 @@
       "ID": "GoldRush",
       "SetID": "2aagp3d",
       "Name": "Gold rush",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 60
+      "UsersEstimate": 52
     },
     {
       "ID": "GossipGirl",
@@ -2967,7 +2972,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 861,
+      "Progressed": 862,
       "Completed": 1
     }
   ],
@@ -2975,8 +2980,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-13T20:57:47.9412245+00:00",
-  "LastChanged_Achievements": "2024-01-03T07:09:57.8238606+00:00",
+  "LastChanged_Achievements": "2024-01-03T08:10:47.1330234+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:21.1393886+00:00",
-  "LastUpdate_Ratings": "2024-01-03T06:59:46.2538177+00:00",
-  "LastUpdate_Achievements": "2024-01-03T07:09:57.8238889+00:00"
+  "LastUpdate_Ratings": "2024-01-03T08:00:40.1956743+00:00",
+  "LastUpdate_Achievements": "2024-01-03T08:10:47.1330564+00:00"
 }

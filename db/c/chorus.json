@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 531,
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -325,11 +325,11 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 1379,
+  "EOS_Progressed": 1380,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.31,
+  "EOS_Completed_Percentage": 1.3,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:24.544527+00:00",
@@ -2895,6 +2895,11 @@
       "Time": "2024-01-03T04:09:44.6376592+00:00",
       "NumProgressed": 1379,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-03T08:10:19.5258423+00:00",
+      "NumProgressed": 1380,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 43,
@@ -2906,7 +2911,7 @@
       "Name": "Demigod",
       "Percentage": 74,
       "XP": 150,
-      "UsersEstimate": 1020
+      "UsersEstimate": 1021
     },
     {
       "ID": "DieInPermadeath",
@@ -2922,7 +2927,7 @@
       "Name": "Voices from the Past",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1063
     },
     {
       "ID": "Finish5SideMissions",
@@ -2930,7 +2935,7 @@
       "Name": "Helping Hand",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 896
+      "UsersEstimate": 897
     },
     {
       "ID": "FinishAllSideMissions",
@@ -2938,7 +2943,7 @@
       "Name": "Paragon",
       "Percentage": 61,
       "XP": 70,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "GatlingVsArmor",
@@ -3010,7 +3015,7 @@
       "Name": "Retaliate",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "MissionAncientRitual",
@@ -3034,7 +3039,7 @@
       "Name": "Payback",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "MissionDreamsOfThePast",
@@ -3058,7 +3063,7 @@
       "Name": "Set in Motion",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "MissionFirstRiftBoss",
@@ -3080,9 +3085,9 @@
       "ID": "MissionHelios",
       "SetID": "a6c395p",
       "Name": "Cult Slayer",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 552
+      "UsersEstimate": 538
     },
     {
       "ID": "MissionLiberateEnclave",
@@ -3090,7 +3095,7 @@
       "Name": "Safe Home",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 896
+      "UsersEstimate": 897
     },
     {
       "ID": "MissionMasterAndDisciple",
@@ -3122,7 +3127,7 @@
       "Name": "Shields Down",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "MissionScavengingJob",
@@ -3130,7 +3135,7 @@
       "Name": "Another Life",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1159
     },
     {
       "ID": "MissionShipyard",
@@ -3138,7 +3143,7 @@
       "Name": "In the Eye of the Storm",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "MissionSlayingChimera",
@@ -3154,7 +3159,7 @@
       "Name": "Disruption",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "MissionTheArmadaStrikes",
@@ -3202,7 +3207,7 @@
       "Name": "Huntress",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "RiteOfTheStar",
@@ -3234,7 +3239,7 @@
       "Name": "Space Traveler",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1063
     },
     {
       "ID": "WinARace",
@@ -3242,22 +3247,22 @@
       "Name": "Relentless",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     }
   ],
   "AchievementSets": [
     {
       "ID": "a6c395p",
       "IsBase": true,
-      "Progressed": 1379,
+      "Progressed": 1380,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2024-01-02T19:59:04.843998+00:00",
-  "LastChanged_Achievements": "2024-01-03T07:09:36.9270111+00:00",
+  "LastChanged_Achievements": "2024-01-03T08:10:19.5258419+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:53.7450783+00:00",
-  "LastUpdate_Ratings": "2024-01-03T06:59:21.9890314+00:00",
-  "LastUpdate_Achievements": "2024-01-03T07:09:36.9270458+00:00"
+  "LastUpdate_Ratings": "2024-01-03T08:00:10.7393734+00:00",
+  "LastUpdate_Achievements": "2024-01-03T08:10:19.5258931+00:00"
 }

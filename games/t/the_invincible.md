@@ -5,27 +5,27 @@ Rating: 4.56 (Ranked 502)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 68.00% | ~894 |
-| The Teleprobe | 53.00% | ~697 |
-| The City | 48.00% | ~631 |
-| The field base | 44.00% | ~579 |
-| The Alliance | 39.00% | ~513 |
-| Survivors | 38.00% | ~500 |
-| The Condor | 36.00% | ~473 |
-| The End | 36.00% | ~473 |
-| The Necroevolution | 28.00% | ~368 |
-| Krauta is alive | 27.00% | ~355 |
-| Peacemaker | 22.00% | ~289 |
-| On her own | 21.00% | ~276 |
-| Volcanologist | 21.00% | ~276 |
-| Fierce fight | 20.00% | ~263 |
+| The Camp | 68.00% | ~896 |
+| The Teleprobe | 53.00% | ~699 |
+| The City | 48.00% | ~633 |
+| The field base | 44.00% | ~580 |
+| The Alliance | 39.00% | ~514 |
+| Survivors | 38.00% | ~501 |
+| The Condor | 36.00% | ~474 |
+| The End | 36.00% | ~474 |
+| The Necroevolution | 28.00% | ~369 |
+| Krauta is alive | 27.00% | ~356 |
+| Peacemaker | 22.00% | ~290 |
+| On her own | 21.00% | ~277 |
+| Volcanologist | 21.00% | ~277 |
+| Fierce fight | 20.00% | ~264 |
 | Evacuation | 19.00% | ~250 |
 | Flying Objects Operator | 17.00% | ~224 |
 | Beyond divisions | 17.00% | ~224 |
-| I remember everything! | 14.00% | ~184 |
+| I remember everything! | 14.00% | ~185 |
 | Another giant | 13.00% | ~171 |
-| Violent solution | 9.00% | ~118 |
-| I leave no man behind | 9.00% | ~118 |
+| Violent solution | 9.00% | ~119 |
+| I leave no man behind | 9.00% | ~119 |
 | Innate curiosity | 7.00% | ~92 |
 | Ubiquitous holes | 6.00% | ~79 |
 | The Invincible | 6.00% | ~79 |
@@ -35,7 +35,7 @@ Rating: 4.56 (Ranked 502)
 | Convoy list | 0.80% | ~11 |
 | No more mistakes | 0.50% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,315 (Ranked 271)  
+Progressed: 1,318 (Ranked 271)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-31 | 1,236 | 0 |
 | 2024-01-01 | 1,273 | 0 |
 | 2024-01-02 | 1,309 | 0 |
-| 2024-01-03 | 1,315 | 0 |
+| 2024-01-03 | 1,318 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

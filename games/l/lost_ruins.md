@@ -24,8 +24,8 @@
 | Oops | 7.00% | ~46 |
 | Shield Crusher | 7.00% | ~46 |
 | Treasure Hunter | 6.00% | ~39 |
-| Explorer | 5.00% | ~32 |
-| Trio | 5.00% | ~32 |
+| Explorer | 5.00% | ~33 |
+| Trio | 5.00% | ~33 |
 | Pyromancer | 4.00% | ~26 |
 | Arrive Home | 3.00% | ~20 |
 | Holy Knight | 3.00% | ~20 |
@@ -34,10 +34,10 @@
 | Marksman | 2.00% | ~13 |
 | Meat Lover | 2.00% | ~13 |
 | Sling of David | 2.00% | ~13 |
-| Roughneck | 1.00% | ~6 |
-| Rune Master | 1.00% | ~6 |
-| Sword Master | 1.00% | ~6 |
-| Witch | 1.00% | ~6 |
+| Roughneck | 1.00% | ~7 |
+| Rune Master | 1.00% | ~7 |
+| Sword Master | 1.00% | ~7 |
+| Witch | 1.00% | ~7 |
 | Weapon Master | 0.90% | ~6 |
 | Assassin | 0.80% | ~5 |
 | Art Collector | 0.50% | ~3 |
@@ -45,7 +45,7 @@
 | Cryomancer | 0.30% | ~2 |
 | Hardboiled | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 650 (Ranked 327)  
+Progressed: 651 (Ranked 327)  
 Completed: 1 (0.15%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 1 (0.15%) (Ranked 286)
 | 2023-12-31 | 641 | 1 |
 | 2024-01-01 | 646 | 1 |
 | 2024-01-02 | 649 | 1 |
-| 2024-01-03 | 650 | 1 |
+| 2024-01-03 | 651 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

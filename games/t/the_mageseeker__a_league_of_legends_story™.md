@@ -1,7 +1,7 @@
 # The Mageseeker: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/the-mageseeker-a-league-of-legends-story)  
 [View Rawdata](../../db/t/the_mageseeker__a_league_of_legends_story™.json)  
-Rating: 4.81 (Ranked 82)  
+Rating: 4.81 (Ranked 84)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -16,8 +16,8 @@ Rating: 4.81 (Ranked 82)
 | Big Helmet Bro | 41.00% | ~1,327 |
 | Clarion Cove | 40.00% | ~1,295 |
 | Ternmoat Headquarters | 39.00% | ~1,262 |
+| Past trauma | 38.00% | ~1,230 |
 | Elemental master | 37.00% | ~1,198 |
-| Past trauma | 37.00% | ~1,198 |
 | Cypress Glen Headquarters | 34.00% | ~1,101 |
 | Petricite Burst | 33.00% | ~1,068 |
 | Old friend | 32.00% | ~1,036 |

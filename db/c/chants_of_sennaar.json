@@ -103,9 +103,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2254,
+  "EOS_Progressed": 2256,
   "EOS_Completed": 143,
-  "EOS_NewPlayers": 390,
+  "EOS_NewPlayers": 391,
   "EOS_NewCompleters": 32,
   "EOS_Completed_Percentage": 6.34,
   "EosHistory": [
@@ -6178,6 +6178,11 @@
       "Time": "2024-01-03T07:04:02.7210716+00:00",
       "NumProgressed": 2254,
       "NumCompleted": 143
+    },
+    {
+      "Time": "2024-01-03T08:04:30.6314852+00:00",
+      "NumProgressed": 2256,
+      "NumCompleted": 143
     }
   ],
   "TotalAchievements": 25,
@@ -6197,7 +6202,7 @@
       "Name": "In this together",
       "Percentage": 23,
       "XP": 200,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "META_ALL_LINK",
@@ -6237,7 +6242,7 @@
       "Name": "Open door",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "META_RESULT_1-3",
@@ -6309,7 +6314,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 947
+      "UsersEstimate": 948
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -6333,7 +6338,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -6349,7 +6354,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1172
+      "UsersEstimate": 1173
     },
     {
       "ID": "PROGRESS_N2",
@@ -6357,7 +6362,7 @@
       "Name": "The great escape",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 992
+      "UsersEstimate": 993
     },
     {
       "ID": "PROGRESS_N3",
@@ -6365,7 +6370,7 @@
       "Name": "A new dawn",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "PROGRESS_N4",
@@ -6373,7 +6378,7 @@
       "Name": "The darkness",
       "Percentage": 30,
       "XP": 60,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "PROGRESS_N5",
@@ -6381,14 +6386,14 @@
       "Name": "One last step",
       "Percentage": 26,
       "XP": 80,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2254,
+      "Progressed": 2256,
       "Completed": 143
     }
   ],
@@ -6396,8 +6401,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-02T16:02:46.9551572+00:00",
-  "LastChanged_Achievements": "2024-01-03T07:04:02.7210712+00:00",
+  "LastChanged_Achievements": "2024-01-03T08:04:30.6314843+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:09.4320521+00:00",
-  "LastUpdate_Ratings": "2024-01-03T07:02:54.8396487+00:00",
-  "LastUpdate_Achievements": "2024-01-03T07:04:02.7211079+00:00"
+  "LastUpdate_Ratings": "2024-01-03T08:02:54.9004123+00:00",
+  "LastUpdate_Achievements": "2024-01-03T08:04:30.6315258+00:00"
 }

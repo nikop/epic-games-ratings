@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 395,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -3387,9 +3387,9 @@
       "ID": "2",
       "SetID": "d0g98p",
       "Name": "Waff!",
-      "Percentage": 94,
+      "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1098
+      "UsersEstimate": 1110
     },
     {
       "ID": "20",
@@ -3708,8 +3708,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2024-01-03T07:06:33.2934745+00:00",
+  "LastChanged_Achievements": "2024-01-03T08:08:29.801358+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:35.7146113+00:00",
-  "LastUpdate_Ratings": "2024-01-03T07:00:41.6148997+00:00",
-  "LastUpdate_Achievements": "2024-01-03T07:06:33.2935228+00:00"
+  "LastUpdate_Ratings": "2024-01-03T08:01:58.2147932+00:00",
+  "LastUpdate_Achievements": "2024-01-03T08:08:29.8014229+00:00"
 }

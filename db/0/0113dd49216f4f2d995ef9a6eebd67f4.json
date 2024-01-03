@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 225,
+  "EOS_Progressed": 226,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1009,6 +1009,11 @@
       "Time": "2024-01-03T06:09:01.4228142+00:00",
       "NumProgressed": 225,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T08:09:29.0087715+00:00",
+      "NumProgressed": 226,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -1029,7 +1034,7 @@
       "Name": "Across The Styx",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "SG_AGAINSTALLODDS",
@@ -1093,7 +1098,7 @@
       "Name": "End Of The Road",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -1141,7 +1146,7 @@
       "Name": "Lost In A Song",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "SG_MAESTRO",
@@ -1155,17 +1160,17 @@
       "ID": "SG_MEANTTOBE",
       "SetID": "bj5g0n4",
       "Name": "Meant To Be",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 43
     },
     {
       "ID": "SG_MYTIMETOSHINE",
       "SetID": "bj5g0n4",
       "Name": "My Time To Shine",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 34
     },
     {
       "ID": "SG_NOTALOSTGIRL",
@@ -1221,7 +1226,7 @@
       "Name": "Talk To The Hand",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SG_THEANSWERISYOU",
@@ -1245,7 +1250,7 @@
       "Name": "The Deep End",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "SG_THEHIGHROAD",
@@ -1293,7 +1298,7 @@
       "Name": "This Hell Is Mine",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SG_TOGETHERVICTORIOUS",
@@ -1301,7 +1306,7 @@
       "Name": "Together, Victorious",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SG_VIRTUOSO",
@@ -1316,14 +1321,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 225,
+      "Progressed": 226,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-03T07:08:58.4987065+00:00",
+  "LastChanged_Achievements": "2024-01-03T08:09:29.0087711+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:04.3127204+00:00",
-  "LastUpdate_Ratings": "2024-01-03T07:00:11.2012821+00:00",
-  "LastUpdate_Achievements": "2024-01-03T07:08:58.4987681+00:00"
+  "LastUpdate_Ratings": "2024-01-03T08:01:15.8115998+00:00",
+  "LastUpdate_Achievements": "2024-01-03T08:09:29.0088087+00:00"
 }

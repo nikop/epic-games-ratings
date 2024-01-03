@@ -2,7 +2,7 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 543,
+  "Ranking_Rating": 544,
   "Ranking_Popularity": 578,
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 158,
@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18092,
+  "EOS_Progressed": 18094,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 551,
+  "EOS_NewPlayers": 552,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -16105,6 +16105,11 @@
       "Time": "2024-01-03T07:04:28.9711162+00:00",
       "NumProgressed": 18092,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-03T08:05:06.2624876+00:00",
+      "NumProgressed": 18094,
+      "NumCompleted": 58
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16141,7 +16146,7 @@
       "Name": "Data Archivist",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1266
+      "UsersEstimate": 1267
     },
     {
       "ID": "13",
@@ -16173,7 +16178,7 @@
       "Name": "Drug Gifter",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1266
+      "UsersEstimate": 1267
     },
     {
       "ID": "17",
@@ -16237,7 +16242,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1266
+      "UsersEstimate": 1267
     },
     {
       "ID": "24",
@@ -16261,7 +16266,7 @@
       "Name": "Call it Even",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 1447
+      "UsersEstimate": 1448
     },
     {
       "ID": "27",
@@ -16396,13 +16401,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18092,
+      "Progressed": 18094,
       "Completed": 58
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4046,
+      "Progressed": 4048,
       "Completed": 1164
     }
   ],
@@ -16410,8 +16415,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T23:58:17.8612142+00:00",
-  "LastChanged_Achievements": "2024-01-03T07:04:28.9711159+00:00",
+  "LastChanged_Achievements": "2024-01-03T08:05:06.2624871+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2024-01-03T06:59:39.109933+00:00",
-  "LastUpdate_Achievements": "2024-01-03T07:04:28.9711959+00:00"
+  "LastUpdate_Ratings": "2024-01-03T08:00:32.1957732+00:00",
+  "LastUpdate_Achievements": "2024-01-03T08:05:06.2625997+00:00"
 }
