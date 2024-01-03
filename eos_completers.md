@@ -75,7 +75,7 @@
 | 73 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 5.00% |
 | 73 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 5.00% |
 | 75 | [Bugsnax](games/b/bugsnax.md) | 4.90% |
-| 76 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.84% |
+| 76 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.85% |
 | 77 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.78% |
 | 78 | [ZZT!](games/z/zzt!.md) | 4.70% |
 | 79 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 4.55% |
@@ -145,7 +145,7 @@
 | 143 | [Frogun](games/f/frogun.md) | 1.71% |
 | 144 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.68% |
 | 145 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.66% |
-| 146 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.56% |
+| 146 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.57% |
 | 147 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.54% |
 | 148 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.52% |
 | 149 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.51% |
