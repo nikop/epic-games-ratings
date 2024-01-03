@@ -2455,9 +2455,9 @@
       "ID": "ACHIEVEMENT_17",
       "SetID": "7pimpda",
       "Name": "Squeaky Clean",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 110
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -2760,8 +2760,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2024-01-02T13:03:58.5026072+00:00",
-  "LastChanged_Achievements": "2024-01-03T13:13:38.1488414+00:00",
+  "LastChanged_Achievements": "2024-01-03T14:09:27.8220698+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:39.5136135+00:00",
-  "LastUpdate_Ratings": "2024-01-03T13:01:32.1297661+00:00",
-  "LastUpdate_Achievements": "2024-01-03T13:13:38.1488844+00:00"
+  "LastUpdate_Ratings": "2024-01-03T13:57:33.716641+00:00",
+  "LastUpdate_Achievements": "2024-01-03T14:09:27.8221251+00:00"
 }

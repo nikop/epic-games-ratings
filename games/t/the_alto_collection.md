@@ -6,9 +6,9 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~14,390 |
-| Finding Your Footing | 25.00% | ~13,324 |
-| Nomad | 17.00% | ~9,061 |
+| Rookie | 27.00% | ~14,392 |
+| Finding Your Footing | 25.00% | ~13,326 |
+| Nomad | 17.00% | ~9,062 |
 | Picking Up Speed | 15.00% | ~7,995 |
 | Welcome Maya | 14.00% | ~7,462 |
 | Scout | 11.00% | ~5,863 |
@@ -38,7 +38,7 @@ Number of Ratings: 332  (23.09.2022)
 | Vandal | 1.00% | ~533 |
 | Unlock Felipe | 0.90% | ~480 |
 | Adventurer | 0.80% | ~426 |
-| Unlock Tupa | 0.50% | ~266 |
+| Unlock Tupa | 0.50% | ~267 |
 | Master Of The Sands | 0.30% | ~160 |
 | Master | 0.20% | ~107 |
 | Survivalist | 0.20% | ~107 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~53 |
 | Windswept | 0.10% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,298 (Ranked 121)  
+Progressed: 53,303 (Ranked 121)  
 Completed: 5 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,10 +304,10 @@ Completed: 5 (0.01%) (Ranked 367)
 | 2023-12-31 | 52,900 | 5 |
 | 2024-01-01 | 53,060 | 5 |
 | 2024-01-02 | 53,223 | 5 |
-| 2024-01-03 | 53,298 | 5 |
+| 2024-01-03 | 53,303 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 50  (Ranked 452)  
-Sum: 392 (Ranked 352)  
+Sum: 393 (Ranked 352)  
 Diff (max vs sum): 100  
 | Award | Count |
 | ----- | ----- |
@@ -315,7 +315,7 @@ Diff (max vs sum): 100
 | This game is Great for Beginners | 47 |
 | This game is Highly Recommended | 44 |
 | This game has Beautiful Visuals | 43 |
-| This game has Quickly Understood Controls | 40 |
+| This game has Quickly Understood Controls | 41 |
 | This game is Extremely Fun | 39 |
 | This game is Relaxing | 38 |
 | This game has Diverse Characters | 34 |
@@ -449,3 +449,4 @@ Diff (max vs sum): 100
 | 2023-12-25 | 4.70 | - | 49 | 389 |
 | 2023-12-28 | 4.70 | - | 50 | 391 |
 | 2024-01-01 | 4.70 | - | 50 | 392 |
+| 2024-01-03 | 4.70 | - | 50 | 393 |

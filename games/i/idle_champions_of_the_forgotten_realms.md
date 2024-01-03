@@ -6,10 +6,10 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~7,510 |
-| Beast Intentions | 1.00% | ~2,503 |
-| The Cursed Farmer | 1.00% | ~2,503 |
-| The Mad Wizard | 1.00% | ~2,503 |
+| A Brief Tour of the Realms | 3.00% | ~7,511 |
+| Beast Intentions | 1.00% | ~2,504 |
+| The Cursed Farmer | 1.00% | ~2,504 |
+| The Mad Wizard | 1.00% | ~2,504 |
 | Welcome to Sigil | 0.80% | ~1,733 |
 | The Ring of Regeneration | 0.60% | ~1,502 |
 | Are Ya Chicken? | 0.60% | ~1,502 |
@@ -21,11 +21,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mad Cow Disease | 0.40% | ~1,001 |
 | Friendly Imps | 0.40% | ~1,001 |
 | Pure Energy | 0.40% | ~1,001 |
-| Misaligned in Sigil | 0.40% | ~866 |
-| When Tentacles Attack | 0.40% | ~866 |
-| Flames of Avernus | 0.40% | ~866 |
-| Don't Lose Your Head | 0.40% | ~866 |
-| Mind Spike | 0.40% | ~866 |
+| Misaligned in Sigil | 0.40% | ~867 |
+| Chaos Theory | 0.40% | ~867 |
+| When Tentacles Attack | 0.40% | ~867 |
+| Flames of Avernus | 0.40% | ~867 |
+| Don't Lose Your Head | 0.40% | ~867 |
+| Mind Spike | 0.40% | ~867 |
 | Maddening | 0.30% | ~751 |
 | A Persistent Buzzing | 0.30% | ~751 |
 | Terror in the Dark | 0.30% | ~751 |
@@ -34,7 +35,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Contagious Curse | 0.30% | ~751 |
 | Arcane Suppression | 0.30% | ~650 |
 | Welcome to the Vrocks | 0.30% | ~650 |
-| Chaos Theory | 0.30% | ~650 |
 | The Silken Swamp | 0.20% | ~501 |
 | Beast Mode | 0.20% | ~501 |
 | Low Initiative | 0.20% | ~501 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~217 |
 | The Brains of an Illithid's Desire | 0.10% | ~217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,342 (Ranked 70)  
+Progressed: 250,367 (Ranked 70)  
 Completed: 2,588 (1.03%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -811,7 +811,7 @@ Completed: 2,588 (1.03%) (Ranked 170)
 | 2023-12-31 | 248,665 | 2,581 |
 | 2024-01-01 | 249,335 | 2,583 |
 | 2024-01-02 | 250,032 | 2,585 |
-| 2024-01-03 | 250,342 | 2,588 |
+| 2024-01-03 | 250,367 | 2,588 |
 ## Awards
 Max (Great for Beginners): 5,730  (Ranked 72)  
 Sum: 33,274 (Ranked 41)  

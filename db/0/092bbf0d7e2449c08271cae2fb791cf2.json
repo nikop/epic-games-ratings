@@ -4,7 +4,7 @@
   "ProductSlug": "chuchel-203808",
   "Ranking_EOS_Progress": 358,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 412,
+  "EOS_Progressed": 413,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
@@ -1364,6 +1364,11 @@
       "Time": "2024-01-03T05:03:39.0837008+00:00",
       "NumProgressed": 412,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-03T14:04:02.7283859+00:00",
+      "NumProgressed": 413,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -1392,7 +1397,7 @@
       "Name": "Blue Bean",
       "Percentage": 4,
       "XP": 145,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ach4",
@@ -1431,14 +1436,14 @@
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 412,
+      "Progressed": 413,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2024-01-03T13:08:10.5100727+00:00",
+  "LastChanged_Achievements": "2024-01-03T14:04:02.7283854+00:00",
   "LastUpdate_AppInfo": "2023-12-27T20:57:07.636228+00:00",
-  "LastUpdate_Ratings": "2024-01-03T13:03:30.0711798+00:00",
-  "LastUpdate_Achievements": "2024-01-03T13:08:10.5100868+00:00"
+  "LastUpdate_Ratings": "2024-01-03T13:59:38.9755759+00:00",
+  "LastUpdate_Achievements": "2024-01-03T14:04:02.7283994+00:00"
 }

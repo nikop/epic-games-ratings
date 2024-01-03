@@ -1,54 +1,54 @@
 # Train Valley 2
 [Store](https://store.epicgames.com/en-US/p/train-valley-2-3606da)  
 [View Rawdata](../../db/t/train_valley_2.json)  
-Rating: 4.45 (Ranked 687)  
+Rating: 4.45 (Ranked 686)  
 Number of Ratings: 87  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~313,781 |
-| Full garage | 61.00% | ~262,201 |
-| To the eyeballs! | 51.00% | ~219,217 |
-| Individual delivery | 47.00% | ~202,023 |
-| Non-Stop | 45.00% | ~193,427 |
-| Juggler | 36.00% | ~154,741 |
-| Forgot something | 35.00% | ~150,443 |
-| Close call! | 30.00% | ~128,951 |
-| Get out my way | 28.00% | ~120,354 |
-| Common cause | 26.00% | ~111,758 |
-| Critical care | 26.00% | ~111,758 |
-| Mega-railroad | 23.00% | ~98,863 |
-| Upgrade complete | 23.00% | ~98,863 |
-| Just in time! | 18.00% | ~77,371 |
-| Builder | 17.00% | ~73,072 |
-| Long Haul | 17.00% | ~72,960 |
-| Steam Age | 16.00% | ~68,774 |
-| Multilevel road | 15.00% | ~64,476 |
-| Bridgemania | 14.00% | ~60,177 |
-| Need to think | 14.00% | ~60,177 |
-| The Tortoise | 12.00% | ~51,580 |
-| Beginner | 11.00% | ~47,282 |
-| Without a lunch break | 11.00% | ~47,282 |
-| One way | 10.00% | ~42,984 |
-| Relocation | 10.00% | ~42,984 |
-| Industrial Age | 9.00% | ~38,685 |
-| Just One More Valley | 9.00% | ~38,626 |
-| Prick of conscience | 8.00% | ~34,387 |
-| Missed it! | 7.00% | ~30,089 |
-| At the last moment! | 6.00% | ~25,790 |
-| Overseer | 6.00% | ~25,790 |
+| Dealmaker | 73.00% | ~313,790 |
+| Full garage | 61.00% | ~262,208 |
+| To the eyeballs! | 51.00% | ~219,224 |
+| Individual delivery | 47.00% | ~202,030 |
+| Non-Stop | 45.00% | ~193,432 |
+| Juggler | 36.00% | ~154,746 |
+| Forgot something | 35.00% | ~150,448 |
+| Close call! | 30.00% | ~128,955 |
+| Get out my way | 28.00% | ~120,358 |
+| Common cause | 26.00% | ~111,761 |
+| Critical care | 26.00% | ~111,761 |
+| Mega-railroad | 23.00% | ~98,866 |
+| Upgrade complete | 23.00% | ~98,866 |
+| Just in time! | 18.00% | ~77,373 |
+| Builder | 17.00% | ~73,074 |
+| Long Haul | 17.00% | ~72,962 |
+| Steam Age | 16.00% | ~68,776 |
+| Multilevel road | 15.00% | ~64,478 |
+| Bridgemania | 14.00% | ~60,179 |
+| Need to think | 14.00% | ~60,179 |
+| The Tortoise | 12.00% | ~51,582 |
+| Beginner | 11.00% | ~47,284 |
+| Without a lunch break | 11.00% | ~47,284 |
+| One way | 10.00% | ~42,985 |
+| Relocation | 10.00% | ~42,985 |
+| Industrial Age | 9.00% | ~38,686 |
+| Just One More Valley | 9.00% | ~38,627 |
+| Prick of conscience | 8.00% | ~34,388 |
+| Missed it! | 7.00% | ~30,090 |
+| At the last moment! | 6.00% | ~25,791 |
+| Overseer | 6.00% | ~25,791 |
 | Highlander | 5.00% | ~21,492 |
 | Jewelry accuracy | 5.00% | ~21,492 |
 | Stargazer | 5.00% | ~21,492 |
-| Bridge builder | 4.00% | ~17,193 |
-| Electrical Age | 4.00% | ~17,193 |
-| Engineer | 4.00% | ~17,193 |
-| Large construction | 4.00% | ~17,193 |
-| Squander | 4.00% | ~17,193 |
-| Globalisation Age | 3.00% | ~12,895 |
-| Living it large | 3.00% | ~12,895 |
-| Sabotage | 3.00% | ~12,895 |
-| Test Batch | 3.00% | ~12,875 |
+| Bridge builder | 4.00% | ~17,194 |
+| Electrical Age | 4.00% | ~17,194 |
+| Engineer | 4.00% | ~17,194 |
+| Large construction | 4.00% | ~17,194 |
+| Squander | 4.00% | ~17,194 |
+| Globalisation Age | 3.00% | ~12,896 |
+| Living it large | 3.00% | ~12,896 |
+| Sabotage | 3.00% | ~12,896 |
+| Test Batch | 3.00% | ~12,876 |
 | Astronomer | 2.00% | ~8,597 |
 | Innovator | 2.00% | ~8,597 |
 | Lucky vandal | 2.00% | ~8,597 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~429 |
 | World Zapper | 0.10% | ~429 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 429,837 (Ranked 47)  
+Progressed: 429,850 (Ranked 47)  
 Completed: 24 (0.01%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 24 (0.01%) (Ranked 367)
 | 2023-12-31 | 428,968 | 24 |
 | 2024-01-01 | 429,346 | 24 |
 | 2024-01-02 | 429,689 | 24 |
-| 2024-01-03 | 429,837 | 24 |
+| 2024-01-03 | 429,850 | 24 |
 ## Awards
 Max (Challenging Puzzles): 1,017  (Ranked 158)  
 Sum: 2,100 (Ranked 215)  

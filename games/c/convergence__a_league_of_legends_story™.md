@@ -8,8 +8,8 @@ Rating: 4.65 (Ranked 321)
 | Time Heals All Wounds | 44.00% | ~532 |
 | Rail Rat | 33.00% | ~399 |
 | The Mysterious Stranger | 32.00% | ~387 |
-| Immaculate Aim | 27.00% | ~326 |
-| The Brass Boss | 27.00% | ~326 |
+| Immaculate Aim | 27.00% | ~327 |
+| The Brass Boss | 27.00% | ~327 |
 | Make Up For Lost Time | 25.00% | ~302 |
 | Time Flies | 25.00% | ~302 |
 | No, Thanks! | 25.00% | ~302 |
@@ -20,8 +20,8 @@ Rating: 4.65 (Ranked 321)
 | Immaculate Aim | 24.00% | ~290 |
 | The Steel Shadow | 23.00% | ~278 |
 | Breaking Down Barriers | 23.00% | ~278 |
-| Right On Time | 22.00% | ~266 |
 | The Wicked Twins | 22.00% | ~266 |
+| Right On Time | 21.00% | ~254 |
 | Like Clockwork | 21.00% | ~254 |
 | The Betrayer | 21.00% | ~254 |
 | Golem Chaser | 21.00% | ~254 |
@@ -30,7 +30,7 @@ Rating: 4.65 (Ranked 321)
 | Street Style | 18.00% | ~218 |
 | The Man Who Shattered Time | 18.00% | ~218 |
 | The Family Fortune | 18.00% | ~218 |
-| Whiz Kid | 15.00% | ~181 |
+| Whiz Kid | 15.00% | ~182 |
 | Family Memories | 14.00% | ~169 |
 | Good Neighbor | 14.00% | ~169 |
 | Cartographer | 13.00% | ~157 |
@@ -59,7 +59,7 @@ Rating: 4.65 (Ranked 321)
 | Raw Talent | 0.60% | ~7 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,209 (Ranked 280)  
+Progressed: 1,210 (Ranked 280)  
 Completed: 6 (0.50%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 6 (0.50%) (Ranked 219)
 | 2023-12-31 | 1,175 | 6 |
 | 2024-01-01 | 1,190 | 6 |
 | 2024-01-02 | 1,201 | 6 |
-| 2024-01-03 | 1,209 | 6 |
+| 2024-01-03 | 1,210 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

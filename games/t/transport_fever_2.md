@@ -6,18 +6,18 @@ Number of Ratings: 180  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First line | 74.00% | ~1,705 |
+| First line | 74.00% | ~1,706 |
 | First cargo item waiting | 68.00% | ~1,567 |
 | First bus stop | 67.00% | ~1,544 |
 | First cargo item on board | 67.00% | ~1,544 |
 | First passenger waiting | 64.00% | ~1,475 |
 | First passenger on board | 63.00% | ~1,452 |
-| First bus arrived | 62.00% | ~1,428 |
-| First train station | 60.00% | ~1,382 |
-| First steam train arrived | 57.00% | ~1,313 |
-| Cadet | 53.00% | ~1,221 |
-| First industry upgraded | 53.00% | ~1,221 |
-| Transport millionaire | 51.00% | ~1,175 |
+| First bus arrived | 62.00% | ~1,429 |
+| First train station | 60.00% | ~1,383 |
+| First steam train arrived | 57.00% | ~1,314 |
+| Cadet | 53.00% | ~1,222 |
+| First industry upgraded | 53.00% | ~1,222 |
+| Transport millionaire | 51.00% | ~1,176 |
 | Transport master | 49.00% | ~1,129 |
 | Cargo hub | 49.00% | ~1,129 |
 | Sculpturer | 46.00% | ~1,060 |
@@ -28,9 +28,9 @@ Number of Ratings: 180  (23.09.2022)
 | Exemplary student | 41.00% | ~945 |
 | High speed | 39.00% | ~899 |
 | First aircraft arrived | 38.00% | ~876 |
-| Transport shark | 37.00% | ~852 |
-| Mass production | 32.00% | ~737 |
-| Aircraft entrepreneur | 31.00% | ~714 |
+| Transport shark | 37.00% | ~853 |
+| Mass production | 32.00% | ~738 |
+| Aircraft entrepreneur | 31.00% | ~715 |
 | The future is now, old man | 29.00% | ~668 |
 | Crowd in a train | 28.00% | ~645 |
 | Not in my backyard | 27.00% | ~622 |
@@ -45,9 +45,9 @@ Number of Ratings: 180  (23.09.2022)
 | Campaign expert | 10.00% | ~230 |
 | Truck Fever | 10.00% | ~230 |
 | No free seats | 9.00% | ~207 |
+| Penny pincher | 9.00% | ~207 |
 | Back to the future | 8.00% | ~184 |
 | Transport belt | 8.00% | ~184 |
-| Penny pincher | 8.00% | ~184 |
 | Campaign shark | 5.00% | ~115 |
 | E.P.E.C. | 5.00% | ~115 |
 | Transport shark (Hard mode) | 4.00% | ~92 |
@@ -68,7 +68,7 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.20% | ~5 |
 | Museum line | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,304 (Ranked 238)  
+Progressed: 2,305 (Ranked 237)  
 Completed: 1 (0.04%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 1 (0.04%) (Ranked 344)
 | 2023-12-31 | 2,263 | 1 |
 | 2024-01-01 | 2,280 | 1 |
 | 2024-01-02 | 2,299 | 1 |
-| 2024-01-03 | 2,304 | 1 |
+| 2024-01-03 | 2,305 | 1 |
 ## Awards
 Max (Great for Beginners): 50  (Ranked 452)  
 Sum: 331 (Ranked 372)  

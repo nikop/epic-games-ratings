@@ -709,9 +709,9 @@
       "ID": "9",
       "SetID": "41h3j82",
       "Name": "Talented Performer",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 70,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     }
   ],
   "AchievementSets": [
@@ -726,8 +726,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2024-01-03T13:12:29.2652894+00:00",
+  "LastChanged_Achievements": "2024-01-03T14:08:11.3202253+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:52.6103683+00:00",
-  "LastUpdate_Ratings": "2024-01-03T13:07:00.8285055+00:00",
-  "LastUpdate_Achievements": "2024-01-03T13:12:29.2653057+00:00"
+  "LastUpdate_Ratings": "2024-01-03T14:02:43.1819133+00:00",
+  "LastUpdate_Achievements": "2024-01-03T14:08:11.3202445+00:00"
 }

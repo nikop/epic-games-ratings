@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1170,
+  "EOS_Progressed": 1171,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3326,6 +3326,11 @@
       "Time": "2024-01-03T05:03:18.965262+00:00",
       "NumProgressed": 1170,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-03T14:03:42.5632067+00:00",
+      "NumProgressed": 1171,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -3337,7 +3342,7 @@
       "Name": "Cabin boy",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "ACH001",
@@ -3345,7 +3350,7 @@
       "Name": "Seafarer",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "ACH002",
@@ -3361,7 +3366,7 @@
       "Name": "Buccaneer",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH004",
@@ -3369,7 +3374,7 @@
       "Name": "Flying Dutchman",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH005",
@@ -3457,7 +3462,7 @@
       "Name": "Groundskeeper",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ACH016",
@@ -3505,7 +3510,7 @@
       "Name": "Collectionitis",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "ACH022",
@@ -3521,7 +3526,7 @@
       "Name": "Gofer",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "ACH024",
@@ -3569,7 +3574,7 @@
       "Name": "Licence to Kill",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "ACH030",
@@ -3625,7 +3630,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "ACH037",
@@ -3689,7 +3694,7 @@
       "Name": "Greed for gold",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "ACH045",
@@ -3729,22 +3734,22 @@
       "Name": "Wholesale",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     }
   ],
   "AchievementSets": [
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 1170,
+      "Progressed": 1171,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-11-01T22:59:02.448108+00:00",
-  "LastChanged_Achievements": "2024-01-03T13:07:52.0238575+00:00",
+  "LastChanged_Achievements": "2024-01-03T14:03:42.5632053+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:13.936517+00:00",
-  "LastUpdate_Ratings": "2024-01-03T13:02:31.6282308+00:00",
-  "LastUpdate_Achievements": "2024-01-03T13:07:52.023946+00:00"
+  "LastUpdate_Ratings": "2024-01-03T13:58:36.4472411+00:00",
+  "LastUpdate_Achievements": "2024-01-03T14:03:42.5632564+00:00"
 }

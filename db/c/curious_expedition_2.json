@@ -741,9 +741,9 @@
       "ID": "ach-campaign-story1",
       "SetID": "17ih7ma",
       "Name": "A Strange Artefact",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 218
     },
     {
       "ID": "ach-campaign-story2",
@@ -781,9 +781,9 @@
       "ID": "ach-discover-locations",
       "SetID": "17ih7ma",
       "Name": "Cartographer",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 234
     },
     {
       "ID": "ach-discover-locations-high",
@@ -1094,8 +1094,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2024-01-01T02:59:19.0992943+00:00",
-  "LastChanged_Achievements": "2024-01-03T13:14:26.2888595+00:00",
+  "LastChanged_Achievements": "2024-01-03T14:10:20.4408408+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:12.3485961+00:00",
-  "LastUpdate_Ratings": "2024-01-03T13:04:00.8082358+00:00",
-  "LastUpdate_Achievements": "2024-01-03T13:14:26.2889056+00:00"
+  "LastUpdate_Ratings": "2024-01-03T14:00:15.3211238+00:00",
+  "LastUpdate_Achievements": "2024-01-03T14:10:20.4408897+00:00"
 }

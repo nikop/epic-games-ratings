@@ -4,7 +4,7 @@
   "ProductSlug": "figment2-creed-valley",
   "Ranking_EOS_Progress": 531,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 419,
+  "Ranking_EOS_NewPlayers": 418,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -450,9 +450,9 @@
       "ID": "story_end_credits",
       "SetID": "7e96e7l",
       "Name": "I\u0027m Back at the Surface now",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 120,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "story_ethics_maze",
@@ -499,8 +499,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4324402+00:00",
   "FirstSeenAchievements": "2023-05-30T08:03:39.2504029+00:00",
   "LastChanged": "2023-03-31T05:57:26.4324404+00:00",
-  "LastChanged_Achievements": "2024-01-03T13:14:18.1182483+00:00",
+  "LastChanged_Achievements": "2024-01-03T14:10:11.5710174+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:03.3549942+00:00",
-  "LastUpdate_Ratings": "2024-01-03T13:03:00.0571976+00:00",
-  "LastUpdate_Achievements": "2024-01-03T13:14:18.1182702+00:00"
+  "LastUpdate_Ratings": "2024-01-03T13:59:07.4478348+00:00",
+  "LastUpdate_Achievements": "2024-01-03T14:10:11.5710367+00:00"
 }

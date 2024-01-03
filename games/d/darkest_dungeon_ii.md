@@ -6,16 +6,16 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 12.00% | ~758 |
-| Lost and Found | 8.00% | ~505 |
+| Malpractice Assurance | 12.00% | ~759 |
+| Lost and Found | 8.00% | ~506 |
 | This Belongs in a Museum | 6.00% | ~7,887 |
 | Autodidact | 6.00% | ~7,887 |
-| This guy... again? | 6.00% | ~379 |
-| Serenity Now! | 5.00% | ~6,572 |
-| Creep and Sleep | 5.00% | ~6,572 |
-| Catch and Decease | 5.00% | ~6,572 |
-| Overdue Notice | 5.00% | ~6,572 |
-| Escape from the Black Hole | 5.00% | ~6,572 |
+| This guy... again? | 6.00% | ~380 |
+| Serenity Now! | 5.00% | ~6,573 |
+| Creep and Sleep | 5.00% | ~6,573 |
+| Catch and Decease | 5.00% | ~6,573 |
+| Overdue Notice | 5.00% | ~6,573 |
+| Escape from the Black Hole | 5.00% | ~6,573 |
 | Ploughshares to Swords | 5.00% | ~316 |
 | Bloody Graduation | 5.00% | ~316 |
 | Don't Make Me Turn This Coach Around | 4.00% | ~5,258 |
@@ -32,22 +32,22 @@ Number of Ratings: 7,767  (23.09.2022)
 | FNG | 4.00% | ~5,258 |
 | Nope | 4.00% | ~5,258 |
 | Friends 'Til the End | 4.00% | ~253 |
-| Resurrection | 3.00% | ~3,943 |
-| Unleash Hell | 3.00% | ~3,943 |
-| Funny Guy | 3.00% | ~3,943 |
-| Long Live the King | 3.00% | ~3,943 |
-| Wyrdly Reconstructed | 3.00% | ~3,943 |
-| Boxcar Kid | 3.00% | ~3,943 |
-| Unfulfilled Desires | 3.00% | ~3,943 |
-| Dissector | 3.00% | ~3,943 |
-| Banishment | 3.00% | ~3,943 |
-| Deprogramming | 3.00% | ~3,943 |
-| Now Stay Dead | 3.00% | ~3,943 |
-| Spelunker | 3.00% | ~3,943 |
-| Ramble On | 3.00% | ~3,943 |
-| A Clear Conscience | 3.00% | ~3,943 |
-| Unshackled | 3.00% | ~3,943 |
-| Road Trip | 3.00% | ~3,943 |
+| Resurrection | 3.00% | ~3,944 |
+| Unleash Hell | 3.00% | ~3,944 |
+| Funny Guy | 3.00% | ~3,944 |
+| Long Live the King | 3.00% | ~3,944 |
+| Wyrdly Reconstructed | 3.00% | ~3,944 |
+| Boxcar Kid | 3.00% | ~3,944 |
+| Unfulfilled Desires | 3.00% | ~3,944 |
+| Dissector | 3.00% | ~3,944 |
+| Banishment | 3.00% | ~3,944 |
+| Deprogramming | 3.00% | ~3,944 |
+| Now Stay Dead | 3.00% | ~3,944 |
+| Spelunker | 3.00% | ~3,944 |
+| Ramble On | 3.00% | ~3,944 |
+| A Clear Conscience | 3.00% | ~3,944 |
+| Unshackled | 3.00% | ~3,944 |
+| Road Trip | 3.00% | ~3,944 |
 | This Looks Familiar | 2.00% | ~2,629 |
 | Hope Rekindled | 2.00% | ~2,629 |
 | Predator | 2.00% | ~2,629 |
@@ -59,9 +59,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | Utopia | 2.00% | ~2,629 |
 | Hot Air | 2.00% | ~2,629 |
 | Eyes Up | 2.00% | ~2,629 |
-| Shrine of Reflection | 1.00% | ~1,314 |
-| Handled | 1.00% | ~1,314 |
-| Body of Work | 1.00% | ~1,314 |
+| Shrine of Reflection | 1.00% | ~1,315 |
+| Handled | 1.00% | ~1,315 |
+| Body of Work | 1.00% | ~1,315 |
 | Slap on the Wrist | 1.00% | ~63 |
 | For Old Time' Sake | 1.00% | ~63 |
 | Clearing the Ledger | 0.90% | ~1,183 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,447 (Ranked 90)  
+Progressed: 131,456 (Ranked 90)  
 Completed: 3 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,14 +334,14 @@ Completed: 3 (0.00%) (Ranked 391)
 | 2023-12-31 | 131,026 | 3 |
 | 2024-01-01 | 131,206 | 3 |
 | 2024-01-02 | 131,365 | 3 |
-| 2024-01-03 | 131,447 | 3 |
+| 2024-01-03 | 131,456 | 3 |
 ## Awards
-Max (Character Customization): 7,927  (Ranked 50)  
-Sum: 21,355 (Ranked 58)  
+Max (Character Customization): 7,940  (Ranked 50)  
+Sum: 21,368 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,927 |
+| This game has Inclusive Character Customization | 7,940 |
 | This game has Diverse Characters | 1,807 |
 | This game has Challenging Combat | 1,661 |
 | This game is Highly Recommended | 1,587 |
@@ -696,4 +696,4 @@ Diff (max vs sum): -8
 | 2023-12-31 | 4.68 | - | 7,910 | 21,297 |
 | 2024-01-01 | 4.68 | - | 7,919 | 21,323 |
 | 2024-01-02 | 4.68 | - | 7,927 | 21,353 |
-| 2024-01-03 | 4.68 | - | 7,927 | 21,355 |
+| 2024-01-03 | 4.68 | - | 7,940 | 21,368 |

@@ -6,22 +6,22 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shop Til They Drop | 72.00% | ~219 |
-| Kaijuiced | 68.00% | ~207 |
-| Lie Back and Think of Albion | 62.00% | ~188 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 61.00% | ~185 |
-| I Look Up As I Walk to Takoshima | 58.00% | ~176 |
-| Yettisoned | 57.00% | ~173 |
-| Perfect Probulator | 54.00% | ~164 |
-| Pimp My Raid | 53.00% | ~161 |
+| Shop Til They Drop | 72.00% | ~220 |
+| Kaijuiced | 69.00% | ~210 |
+| Lie Back and Think of Albion | 62.00% | ~189 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 61.00% | ~186 |
+| I Look Up As I Walk to Takoshima | 58.00% | ~177 |
+| Yettisoned | 57.00% | ~174 |
+| Perfect Probulator | 54.00% | ~165 |
+| Pimp My Raid | 53.00% | ~162 |
 | Lobster Blisque | 50.00% | ~152 |
 | Earthly Pleasures | 47.00% | ~143 |
 | Fly Me to the Moon Base | 46.00% | ~140 |
 | Ducks in a Row, Fish in a Barrel | 44.00% | ~134 |
-| Forbidden Donut | 36.00% | ~109 |
-| Freshly Squeezed | 36.00% | ~109 |
-| Bodied Sattva | 35.00% | ~106 |
-| Upgreatest | 33.00% | ~100 |
+| Forbidden Donut | 36.00% | ~110 |
+| Freshly Squeezed | 36.00% | ~110 |
+| Bodied Sattva | 35.00% | ~107 |
+| Upgreatest | 33.00% | ~101 |
 | Furon Fashion | 29.00% | ~88 |
 | Deincarnated | 28.00% | ~85 |
 | Rock of the Bay | 26.00% | ~79 |
@@ -47,7 +47,7 @@ Number of Ratings: 85  (23.09.2022)
 | Steezy Down the Spine | 2.00% | ~6 |
 | Against All Odds | 2.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 304 (Ranked 389)  
+Progressed: 305 (Ranked 389)  
 Completed: 5 (1.64%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,7 +68,7 @@ Completed: 5 (1.64%) (Ranked 145)
 | 2023-12-31 | 264 | 5 |
 | 2024-01-01 | 279 | 5 |
 | 2024-01-02 | 296 | 5 |
-| 2024-01-03 | 304 | 5 |
+| 2024-01-03 | 305 | 5 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 499)  
 Sum: 35 (Ranked 529)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 46,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9289,9 +9289,9 @@
       "Count": 3622
     }
   ],
-  "EOS_Progressed": 250342,
+  "EOS_Progressed": 250367,
   "EOS_Completed": 2588,
-  "EOS_NewPlayers": 5151,
+  "EOS_NewPlayers": 5157,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -38504,6 +38504,11 @@
       "Time": "2024-01-03T13:14:31.3679673+00:00",
       "NumProgressed": 250342,
       "NumCompleted": 2588
+    },
+    {
+      "Time": "2024-01-03T14:10:25.5132298+00:00",
+      "NumProgressed": 250367,
+      "NumCompleted": 2588
     }
   ],
   "TotalAchievements": 546,
@@ -38515,7 +38520,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7510
+      "UsersEstimate": 7511
     },
     {
       "ID": "objective_completed_10",
@@ -38883,7 +38888,7 @@
       "Name": "Beast Intentions",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2503
+      "UsersEstimate": 2504
     },
     {
       "ID": "objective_completed_110",
@@ -40187,7 +40192,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2503
+      "UsersEstimate": 2504
     },
     {
       "ID": "objective_completed_34",
@@ -41659,7 +41664,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2503
+      "UsersEstimate": 2504
     },
     {
       "ID": "objective_completed_70",
@@ -42811,7 +42816,7 @@
       "Name": "Misaligned in Sigil",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "objective_completed_1562",
@@ -42825,9 +42830,9 @@
       "ID": "objective_completed_1563",
       "SetID": "415jc5c",
       "Name": "Chaos Theory",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 650
+      "UsersEstimate": 867
     },
     {
       "ID": "objective_completed_598",
@@ -42843,7 +42848,7 @@
       "Name": "When Tentacles Attack",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "objective_completed_678",
@@ -42851,7 +42856,7 @@
       "Name": "Flames of Avernus",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "objective_completed_683",
@@ -42867,7 +42872,7 @@
       "Name": "Don\u0027t Lose Your Head",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "objective_completed_865",
@@ -42875,28 +42880,28 @@
       "Name": "Mind Spike",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 216616,
+      "Progressed": 216641,
       "Completed": 4129
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 250342,
+      "Progressed": 250367,
       "Completed": 2588
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-02T20:58:24.5866544+00:00",
-  "LastChanged_Achievements": "2024-01-03T13:14:31.3679666+00:00",
+  "LastChanged_Achievements": "2024-01-03T14:10:25.5132295+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-03T13:02:52.8314145+00:00",
-  "LastUpdate_Achievements": "2024-01-03T13:14:31.370508+00:00"
+  "LastUpdate_Ratings": "2024-01-03T13:58:59.7072724+00:00",
+  "LastUpdate_Achievements": "2024-01-03T14:10:25.5157062+00:00"
 }

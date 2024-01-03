@@ -12,15 +12,16 @@ Number of Ratings: 15,086  (23.09.2022)
 | Uncharted Territory | 1.00% | ~2,423 |
 | An Offering | 1.00% | ~2,423 |
 | Matching | 1.00% | ~38 |
-| Nothing To Lose | 0.90% | ~2,180 |
-| Heavy Hitter | 0.90% | ~2,180 |
-| That Was Quick | 0.90% | ~2,180 |
-| Colorful Corpse | 0.90% | ~2,180 |
-| Defeat The Dark | 0.90% | ~2,180 |
-| Goodbye, Frog Friend | 0.90% | ~2,180 |
-| A Donation | 0.90% | ~2,180 |
-| Explorer | 0.90% | ~2,180 |
+| Nothing To Lose | 0.90% | ~2,181 |
+| Heavy Hitter | 0.90% | ~2,181 |
+| That Was Quick | 0.90% | ~2,181 |
+| Colorful Corpse | 0.90% | ~2,181 |
+| Defeat The Dark | 0.90% | ~2,181 |
+| Goodbye, Frog Friend | 0.90% | ~2,181 |
+| A Donation | 0.90% | ~2,181 |
+| Explorer | 0.90% | ~2,181 |
 | Not Touching You | 0.90% | ~34 |
+| Ambitious Intent | 0.80% | ~1,938 |
 | Delving Deeper | 0.80% | ~1,938 |
 | R.I.P | 0.80% | ~1,938 |
 | The Bestiary | 0.80% | ~1,938 |
@@ -30,7 +31,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | C-C-Combo | 0.80% | ~1,938 |
 | Deflection | 0.80% | ~1,938 |
 | Sneaky | 0.80% | ~1,938 |
-| Ambitious Intent | 0.70% | ~1,696 |
 | Dig Your Own Grave | 0.70% | ~1,696 |
 | Walk It Off | 0.70% | ~1,696 |
 | Cold Hearted | 0.70% | ~1,696 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,273 (Ranked 72)  
+Progressed: 242,279 (Ranked 72)  
 Completed: 303 (0.13%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -403,10 +403,10 @@ Completed: 303 (0.13%) (Ranked 295)
 | 2023-12-31 | 242,129 | 302 |
 | 2024-01-01 | 242,196 | 302 |
 | 2024-01-02 | 242,247 | 303 |
-| 2024-01-03 | 242,273 | 303 |
+| 2024-01-03 | 242,279 | 303 |
 ## Awards
 Max (Quickly Understood Controls): 1,513  (Ranked 136)  
-Sum: 11,781 (Ranked 88)  
+Sum: 11,784 (Ranked 88)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
@@ -417,8 +417,8 @@ Diff (max vs sum): 48
 | This game is Extremely Fun | 1,425 |
 | This game is Highly Recommended | 1,395 |
 | This game has Amazing Storytelling | 1,332 |
+| This game has Amazing Characters | 1,238 |
 | This game has Unique Visuals | 1,237 |
-| This game has Amazing Characters | 1,235 |
 | This game has Obsessive Gameplay | 1,088 |
 | This game has a Creative Community | 749 |
 ## Ratings History
@@ -672,3 +672,4 @@ Diff (max vs sum): 48
 | 2023-12-30 | 4.58 | - | 1,513 | 11,770 |
 | 2023-12-31 | 4.58 | - | 1,513 | 11,774 |
 | 2024-01-01 | 4.58 | - | 1,513 | 11,781 |
+| 2024-01-03 | 4.58 | - | 1,513 | 11,784 |

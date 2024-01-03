@@ -2,7 +2,7 @@
   "ID": "4d62b26703d24f6d919750b3d88b6d52",
   "Name": "Destroy All Humans! 2 - Reprobed",
   "ProductSlug": "destroy-all-humans-2-reprobed",
-  "Ranking_Rating": 544,
+  "Ranking_Rating": 545,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 391,
@@ -1802,9 +1802,9 @@
       "ID": "ACH_UNLOCK_BURROW_BEAST",
       "SetID": "4n84pon",
       "Name": "Arkvoodle Doodle",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_UPGRADE_CRYPTO",
@@ -1835,8 +1835,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-03T11:58:36.9448322+00:00",
-  "LastChanged_Achievements": "2024-01-03T13:13:29.1160591+00:00",
+  "LastChanged_Achievements": "2024-01-03T14:09:17.3271774+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.261947+00:00",
-  "LastUpdate_Ratings": "2024-01-03T13:02:40.9663139+00:00",
-  "LastUpdate_Achievements": "2024-01-03T13:13:29.1160926+00:00"
+  "LastUpdate_Ratings": "2024-01-03T13:58:47.0915475+00:00",
+  "LastUpdate_Achievements": "2024-01-03T14:09:17.3272296+00:00"
 }

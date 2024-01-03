@@ -717,7 +717,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6766,
+  "EOS_Progressed": 6768,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 447,
   "EOS_NewCompleters": 0,
@@ -10227,6 +10227,11 @@
       "Time": "2024-01-03T13:12:41.2547921+00:00",
       "NumProgressed": 6766,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-03T14:08:24.8972876+00:00",
+      "NumProgressed": 6768,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10244,9 +10249,9 @@
       "ID": "10",
       "SetID": "3aa2279",
       "Name": "Snap Out of It!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 34
     },
     {
       "ID": "11",
@@ -10366,7 +10371,7 @@
       "Name": "Secret Technique",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 947
+      "UsersEstimate": 948
     },
     {
       "ID": "25",
@@ -10717,13 +10722,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6766,
+      "Progressed": 6768,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6766,
+      "Progressed": 6768,
       "Completed": 7
     }
   ],
@@ -10731,8 +10736,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-03T13:04:27.6429549+00:00",
-  "LastChanged_Achievements": "2024-01-03T13:12:41.2547914+00:00",
+  "LastChanged_Achievements": "2024-01-03T14:08:24.8972872+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-03T13:04:27.6429553+00:00",
-  "LastUpdate_Achievements": "2024-01-03T13:12:41.2549055+00:00"
+  "LastUpdate_Ratings": "2024-01-03T14:00:45.4541563+00:00",
+  "LastUpdate_Achievements": "2024-01-03T14:08:24.8973752+00:00"
 }

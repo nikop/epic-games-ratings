@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
   "Ranking_EOS_Progress": 473,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 375,
+  "Ranking_EOS_NewPlayers": 374,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -711,9 +711,9 @@
       "ID": "CgkInO_K3eIdEAIQDg",
       "SetID": "6bj96in",
       "Name": "CHRONOSPY",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 40,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "CgkInO_K3eIdEAIQDw",
@@ -822,8 +822,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2024-01-03T13:14:12.9627285+00:00",
+  "LastChanged_Achievements": "2024-01-03T14:10:05.8026004+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:14.0329257+00:00",
-  "LastUpdate_Ratings": "2024-01-03T13:01:30.8145121+00:00",
-  "LastUpdate_Achievements": "2024-01-03T13:14:12.9627474+00:00"
+  "LastUpdate_Ratings": "2024-01-03T13:57:32.1916411+00:00",
+  "LastUpdate_Achievements": "2024-01-03T14:10:05.8026195+00:00"
 }

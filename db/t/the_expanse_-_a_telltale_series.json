@@ -2,7 +2,7 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 544,
+  "Ranking_Rating": 545,
   "Ranking_Popularity": 578,
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 158,
@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18102,
+  "EOS_Progressed": 18105,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 546,
+  "EOS_NewPlayers": 547,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -16135,6 +16135,11 @@
       "Time": "2024-01-03T13:08:48.8602458+00:00",
       "NumProgressed": 18102,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-03T14:04:43.4112262+00:00",
+      "NumProgressed": 18105,
+      "NumCompleted": 58
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16163,7 +16168,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2172
+      "UsersEstimate": 2173
     },
     {
       "ID": "12",
@@ -16179,7 +16184,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3077
+      "UsersEstimate": 3078
     },
     {
       "ID": "14",
@@ -16227,7 +16232,7 @@
       "Name": "Martian Music",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2172
+      "UsersEstimate": 2173
     },
     {
       "ID": "2",
@@ -16251,7 +16256,7 @@
       "Name": "Drone Dodger",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1991
+      "UsersEstimate": 1992
     },
     {
       "ID": "22",
@@ -16299,7 +16304,7 @@
       "Name": "Bosmang",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 2172
+      "UsersEstimate": 2173
     },
     {
       "ID": "28",
@@ -16323,7 +16328,7 @@
       "Name": "Captain Drummer",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2353
+      "UsersEstimate": 2354
     },
     {
       "ID": "30",
@@ -16355,7 +16360,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2172
+      "UsersEstimate": 2173
     },
     {
       "ID": "7",
@@ -16379,7 +16384,7 @@
       "Name": "Impossible Objects",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2172
+      "UsersEstimate": 2173
     },
     {
       "ID": "31",
@@ -16411,7 +16416,7 @@
       "Name": "Master Negotiator",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "35",
@@ -16419,20 +16424,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18102,
+      "Progressed": 18105,
       "Completed": 58
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4056,
+      "Progressed": 4059,
       "Completed": 1165
     }
   ],
@@ -16440,8 +16445,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T23:58:17.8612142+00:00",
-  "LastChanged_Achievements": "2024-01-03T13:08:48.8602447+00:00",
+  "LastChanged_Achievements": "2024-01-03T14:04:43.4112258+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2024-01-03T13:03:57.6182299+00:00",
-  "LastUpdate_Achievements": "2024-01-03T13:08:48.8603549+00:00"
+  "LastUpdate_Ratings": "2024-01-03T14:00:11.6086294+00:00",
+  "LastUpdate_Achievements": "2024-01-03T14:04:43.4113392+00:00"
 }

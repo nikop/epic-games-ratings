@@ -4,8 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Greener Day | 0.00% | ~0 |
-| A Sad Moment | 0.00% | ~0 |
+| A Greener Day | 0.50% | ~1 |
+| A Sad Moment | 0.50% | ~1 |
+| Taking Notes | 0.50% | ~1 |
 | Balcony Optimizer | 0.00% | ~0 |
 | Budding Scientist | 0.00% | ~0 |
 | Dry No More | 0.00% | ~0 |
@@ -28,7 +29,6 @@
 | Say Cheese! | 0.00% | ~0 |
 | Seed of Love | 0.00% | ~0 |
 | Spray Spray Spray | 0.00% | ~0 |
-| Taking Notes | 0.00% | ~0 |
 | The Best One | 0.00% | ~0 |
 | The Mendel Experiment | 0.00% | ~0 |
 | Time for Renovations | 0.00% | ~0 |

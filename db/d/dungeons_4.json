@@ -53,11 +53,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 704,
+  "EOS_Progressed": 705,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 3.84,
+  "EOS_Completed_Percentage": 3.83,
   "EosHistory": [
     {
       "Time": "2023-11-09T19:14:40.2664678+00:00",
@@ -2168,6 +2168,11 @@
       "Time": "2024-01-03T07:09:00.9986488+00:00",
       "NumProgressed": 704,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2024-01-03T14:09:10.1798692+00:00",
+      "NumProgressed": 705,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-11-07T12:05:38.3005436+00:00",
@@ -2204,7 +2209,7 @@
       "Name": "Hammer Time, Round Two",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "ach_main02horde_creatures",
@@ -2212,7 +2217,7 @@
       "Name": "For the Horde!",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "ach_main02horde_traps",
@@ -2220,7 +2225,7 @@
       "Name": "Trap Master",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "ach_main03demon_completed",
@@ -2228,7 +2233,7 @@
       "Name": "The Hellwoods",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "ach_main03demon_doors",
@@ -2236,7 +2241,7 @@
       "Name": "Master of Magic",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "ach_main03demon_spells",
@@ -2244,7 +2249,7 @@
       "Name": "Magic Accidents",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ach_main04undead_completed",
@@ -2252,7 +2257,7 @@
       "Name": "The Plains of Strothalm",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "ach_main04undead_minions",
@@ -2260,7 +2265,7 @@
       "Name": "Minions, Minions!",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "ach_main04undead_sacrifice",
@@ -2284,7 +2289,7 @@
       "Name": "Experienced Thalya",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "ach_main05evil_unicorn",
@@ -2292,7 +2297,7 @@
       "Name": "Unicorn steaks\u00A0\u2013 fresh off the hoof!",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "ach_main06transporter_completed",
@@ -2322,9 +2327,9 @@
       "ID": "ach_main07storm_classified",
       "SetID": "4hg22ll",
       "Name": "Hard Work",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 380
+      "UsersEstimate": 374
     },
     {
       "ID": "ach_main07storm_completed",
@@ -2332,7 +2337,7 @@
       "Name": "The Ascent",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "ach_main07storm_dynamite",
@@ -2348,7 +2353,7 @@
       "Name": "It\u0027s Warm and Cozy at Home",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "ach_main08sacrifice_completed",
@@ -2356,7 +2361,7 @@
       "Name": "The Big Eaty",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "ach_main08sacrifice_gorguattack",
@@ -2380,7 +2385,7 @@
       "Name": "\u201C\u2026 like son\u201D",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "ach_main09journey_killheroes",
@@ -2412,7 +2417,7 @@
       "Name": "Unstoppable Horde",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ach_main10fire_naga",
@@ -2436,15 +2441,15 @@
       "Name": "Ghost Pirates? Ghost Heroes!",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ach_main11blessing_undeadonly",
       "SetID": "4hg22ll",
       "Name": "Master of the Undead",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 246
+      "UsersEstimate": 240
     },
     {
       "ID": "ach_main12race_completed",
@@ -2484,7 +2489,7 @@
       "Name": "Gorgu is in the Best of Health",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ach_main13tanos_evilbosses",
@@ -2500,7 +2505,7 @@
       "Name": "If Looks Could Kill",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ach_main14run_mirroruses",
@@ -2524,7 +2529,7 @@
       "Name": "The Finitude Drill",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "ach_main15drill_sabotage",
@@ -2548,7 +2553,7 @@
       "Name": "Doom Hill",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ach_main16ring_lavalings",
@@ -2667,7 +2672,7 @@
     {
       "ID": "4hg22ll",
       "IsBase": true,
-      "Progressed": 704,
+      "Progressed": 705,
       "Completed": 27
     }
   ],
@@ -2675,8 +2680,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-01T22:59:34.2453487+00:00",
-  "LastChanged_Achievements": "2024-01-03T13:13:22.686469+00:00",
+  "LastChanged_Achievements": "2024-01-03T14:09:10.1798688+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:16.0613697+00:00",
-  "LastUpdate_Ratings": "2024-01-03T13:03:54.3346279+00:00",
-  "LastUpdate_Achievements": "2024-01-03T13:13:22.6865252+00:00"
+  "LastUpdate_Ratings": "2024-01-03T14:00:07.3986659+00:00",
+  "LastUpdate_Achievements": "2024-01-03T14:09:10.1799221+00:00"
 }

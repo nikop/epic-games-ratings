@@ -5,10 +5,10 @@
   "Ranking_Rating": 321,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 526,
-  "Ranking_EOS_Progress": 322,
+  "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -329,9 +329,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 673,
+  "EOS_Progressed": 674,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 248,
+  "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -1834,6 +1834,11 @@
       "Time": "2024-01-03T13:08:26.5791517+00:00",
       "NumProgressed": 673,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-03T14:04:19.2809617+00:00",
+      "NumProgressed": 674,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1918,7 +1923,7 @@
       "Name": "Jellyfishing",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_JELLYFISH_JAM",
@@ -1926,7 +1931,7 @@
       "Name": "Jellyfish Jam",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ACH_KELP_FOREST",
@@ -2101,15 +2106,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 673,
+      "Progressed": 674,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-01T20:58:26.8279253+00:00",
-  "LastChanged_Achievements": "2024-01-03T13:08:26.5791512+00:00",
+  "LastChanged_Achievements": "2024-01-03T14:04:19.2809614+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:11.8880921+00:00",
-  "LastUpdate_Ratings": "2024-01-03T13:03:36.131023+00:00",
-  "LastUpdate_Achievements": "2024-01-03T13:08:26.5791751+00:00"
+  "LastUpdate_Ratings": "2024-01-03T13:59:45.4097015+00:00",
+  "LastUpdate_Achievements": "2024-01-03T14:04:19.2809874+00:00"
 }

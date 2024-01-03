@@ -3,7 +3,7 @@
   "Name": "Warhammer 40,000: Mechanicus - Standard Edition",
   "ProductSlug": "warhammer-mechanicus-0e4b71",
   "Ranking_Rating": 719,
-  "Ranking_Popularity": 263,
+  "Ranking_Popularity": 264,
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 391,
@@ -1056,9 +1056,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 231240,
+  "EOS_Progressed": 231245,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 644,
+  "EOS_NewPlayers": 645,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29361,6 +29361,11 @@
       "Time": "2024-01-03T13:14:18.008793+00:00",
       "NumProgressed": 231240,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-03T14:10:11.3858565+00:00",
+      "NumProgressed": 231245,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -29372,7 +29377,7 @@
       "Name": "This is only the beginning",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 46248
+      "UsersEstimate": 46249
     },
     {
       "ID": "ACH_BASE_10",
@@ -29380,7 +29385,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 60122
+      "UsersEstimate": 60124
     },
     {
       "ID": "ACH_BASE_11",
@@ -29452,7 +29457,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13874
+      "UsersEstimate": 13875
     },
     {
       "ID": "ACH_BASE_20",
@@ -29620,7 +29625,7 @@
       "Name": "Knowledge is power",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 30061
+      "UsersEstimate": 30062
     },
     {
       "ID": "ACH_BASE_8",
@@ -29643,7 +29648,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 231240,
+      "Progressed": 231245,
       "Completed": 5
     }
   ],
@@ -29651,8 +29656,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2024-01-02T09:00:26.6320972+00:00",
-  "LastChanged_Achievements": "2024-01-03T13:14:18.0087924+00:00",
+  "LastChanged_Achievements": "2024-01-03T14:10:11.3858563+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:45.3371168+00:00",
-  "LastUpdate_Ratings": "2024-01-03T13:01:43.3063202+00:00",
-  "LastUpdate_Achievements": "2024-01-03T13:14:18.0089776+00:00"
+  "LastUpdate_Ratings": "2024-01-03T13:57:44.9222351+00:00",
+  "LastUpdate_Achievements": "2024-01-03T14:10:11.3860046+00:00"
 }

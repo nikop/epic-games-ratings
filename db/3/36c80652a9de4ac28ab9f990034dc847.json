@@ -4,7 +4,7 @@
   "ProductSlug": "death-crown-b2f5cd",
   "Ranking_EOS_Progress": 564,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 419,
+  "Ranking_EOS_NewPlayers": 418,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-08-22T23:00:00+00:00",
@@ -259,9 +259,9 @@
       "ID": "All_Bosses",
       "SetID": "cla1dpp",
       "Name": "Till death tear us apart!",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "All_Human_Missions",
@@ -283,9 +283,9 @@
       "ID": "Boss_Blacksmith",
       "SetID": "cla1dpp",
       "Name": "No, this is not a stack of coins!",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Boss_Cita",
@@ -299,9 +299,9 @@
       "ID": "Boss_Cube",
       "SetID": "cla1dpp",
       "Name": "I hate geometry so much!",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Boss_King",
@@ -315,9 +315,9 @@
       "ID": "Boss_Pyramid",
       "SetID": "cla1dpp",
       "Name": "We\u0027ll build a new one!",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Boss_Sphere",
@@ -331,9 +331,9 @@
       "ID": "Boss_Tower",
       "SetID": "cla1dpp",
       "Name": "My tower is bigger than yours.",
-      "Percentage": 23,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Boss_Tree",
@@ -355,9 +355,9 @@
       "ID": "Full_Upgrade_Cita",
       "SetID": "cla1dpp",
       "Name": "Anything for my princess!",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "No_Lose_All_Human_Missions",
@@ -371,9 +371,9 @@
       "ID": "Pass_Tutorial",
       "SetID": "cla1dpp",
       "Name": "First time here?",
-      "Percentage": 60,
+      "Percentage": 63,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "PvP_Mission",
@@ -442,8 +442,8 @@
   ],
   "FirstSeen": "2023-10-24T18:58:49.6745587+00:00",
   "FirstSeenAchievements": "2023-08-23T14:02:21.3308024+00:00",
-  "LastChanged_Achievements": "2024-01-03T13:13:54.495017+00:00",
+  "LastChanged_Achievements": "2024-01-03T14:09:45.5778036+00:00",
   "LastUpdate_AppInfo": "2023-12-28T02:56:54.5483043+00:00",
-  "LastUpdate_Ratings": "2024-01-03T13:04:20.1213263+00:00",
-  "LastUpdate_Achievements": "2024-01-03T13:13:54.4950366+00:00"
+  "LastUpdate_Ratings": "2024-01-03T14:00:37.6411477+00:00",
+  "LastUpdate_Achievements": "2024-01-03T14:09:45.577828+00:00"
 }

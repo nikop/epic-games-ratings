@@ -4402,9 +4402,9 @@
       "ID": "Achievement_064",
       "SetID": "6b34g18",
       "Name": "Good Samaritan",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "Achievement_065",
@@ -4467,8 +4467,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-01T12:00:40.1847166+00:00",
-  "LastChanged_Achievements": "2024-01-03T13:10:35.5095301+00:00",
+  "LastChanged_Achievements": "2024-01-03T14:07:57.2021827+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.8280502+00:00",
-  "LastUpdate_Ratings": "2024-01-03T13:01:20.2604075+00:00",
-  "LastUpdate_Achievements": "2024-01-03T13:10:35.5095982+00:00"
+  "LastUpdate_Ratings": "2024-01-03T13:57:20.6713861+00:00",
+  "LastUpdate_Achievements": "2024-01-03T14:07:57.2022656+00:00"
 }

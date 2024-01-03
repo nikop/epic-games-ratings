@@ -271,9 +271,9 @@
       "Count": 92
     }
   ],
-  "EOS_Progressed": 1245,
+  "EOS_Progressed": 1246,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3471,6 +3471,11 @@
       "Time": "2024-01-03T11:03:52.4178553+00:00",
       "NumProgressed": 1245,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-03T14:04:12.0185601+00:00",
+      "NumProgressed": 1246,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3499,7 +3504,7 @@
       "Name": "Anthropic Hills",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "Archaeologist",
@@ -3523,7 +3528,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "BreakTheLoop",
@@ -3563,7 +3568,7 @@
       "Name": "Circular Oasis",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "DesolateIsland",
@@ -3571,7 +3576,7 @@
       "Name": "Desolate Island",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "Discovery",
@@ -3579,7 +3584,7 @@
       "Name": "Discovery",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "EasternWetlands",
@@ -3635,7 +3640,7 @@
       "Name": "Grasslands Ring",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "HighPlain",
@@ -3651,15 +3656,15 @@
       "Name": "Into the Machine",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "JustOneLap",
       "SetID": "1n308hc",
       "Name": "Just One Lap",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 137
+      "UsersEstimate": 150
     },
     {
       "ID": "LordOfTheFiles",
@@ -3675,7 +3680,7 @@
       "Name": "Lost Marshes",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "MistressOfRiddles",
@@ -3731,7 +3736,7 @@
       "Name": "Not What It Seems",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "Overload",
@@ -3755,7 +3760,7 @@
       "Name": "Prometheus Unbound",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "PuzzleFiend",
@@ -3817,9 +3822,9 @@
       "ID": "SouthernCoast",
       "SetID": "1n308hc",
       "Name": "Southern Coast",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 137
     },
     {
       "ID": "TeamSpirit",
@@ -3883,7 +3888,7 @@
       "Name": "The Thief of Fire",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "TheWordEndures",
@@ -3899,7 +3904,7 @@
       "Name": "Touch Grass",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "TrevorsBiographer",
@@ -3907,7 +3912,7 @@
       "Name": "Trevor\u0027s Biographer",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "VerdantCanyon",
@@ -3954,7 +3959,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1245,
+      "Progressed": 1246,
       "Completed": 2
     }
   ],
@@ -3962,8 +3967,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-03T01:45:19.9316925+00:00",
-  "LastChanged_Achievements": "2024-01-03T13:08:19.6617993+00:00",
+  "LastChanged_Achievements": "2024-01-03T14:04:12.0185598+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.9244138+00:00",
-  "LastUpdate_Ratings": "2024-01-03T13:03:51.7796681+00:00",
-  "LastUpdate_Achievements": "2024-01-03T13:08:19.661861+00:00"
+  "LastUpdate_Ratings": "2024-01-03T14:00:04.123407+00:00",
+  "LastUpdate_Achievements": "2024-01-03T14:04:12.0186391+00:00"
 }

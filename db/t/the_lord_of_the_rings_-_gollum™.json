@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 362,
+  "Ranking_EOS_NewPlayers": 370,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -25,7 +25,7 @@
   "Tags": [],
   "EOS_Progressed": 676,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2201,9 +2201,9 @@
       "ID": "SIlly",
       "SetID": "70l3651",
       "Name": "So Silly!",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 27
     },
     {
       "ID": "Scout",
@@ -2272,8 +2272,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2024-01-03T13:12:51.552456+00:00",
+  "LastChanged_Achievements": "2024-01-03T14:08:36.1535644+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:52.7488707+00:00",
-  "LastUpdate_Ratings": "2024-01-03T13:03:40.7859355+00:00",
-  "LastUpdate_Achievements": "2024-01-03T13:12:51.5524904+00:00"
+  "LastUpdate_Ratings": "2024-01-03T13:59:50.7422939+00:00",
+  "LastUpdate_Achievements": "2024-01-03T14:08:36.1535958+00:00"
 }

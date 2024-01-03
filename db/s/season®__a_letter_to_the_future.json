@@ -4,8 +4,8 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 94,
-  "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1934,
+  "EOS_Progressed": 1935,
   "EOS_Completed": 72,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 3.72,
   "EosHistory": [
@@ -4364,6 +4364,11 @@
       "Time": "2024-01-03T13:14:10.71221+00:00",
       "NumProgressed": 1934,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2024-01-03T14:10:03.3548725+00:00",
+      "NumProgressed": 1935,
+      "NumCompleted": 72
     }
   ],
   "TotalAchievements": 16,
@@ -4431,7 +4436,7 @@
       "Name": "Home Leaver",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1528
+      "UsersEstimate": 1529
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -4439,7 +4444,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1528
+      "UsersEstimate": 1529
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -4463,7 +4468,7 @@
       "Name": "Outside World Seer",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 1160
+      "UsersEstimate": 1161
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -4495,14 +4500,14 @@
       "Name": "Tour de Tieng",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1934,
+      "Progressed": 1935,
       "Completed": 72
     }
   ],
@@ -4510,8 +4515,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2024-01-03T13:14:10.7122095+00:00",
+  "LastChanged_Achievements": "2024-01-03T14:10:03.3548716+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.182252+00:00",
-  "LastUpdate_Ratings": "2024-01-03T13:06:57.9441371+00:00",
-  "LastUpdate_Achievements": "2024-01-03T13:14:10.7122438+00:00"
+  "LastUpdate_Ratings": "2024-01-03T14:02:39.2672924+00:00",
+  "LastUpdate_Achievements": "2024-01-03T14:10:03.3548962+00:00"
 }

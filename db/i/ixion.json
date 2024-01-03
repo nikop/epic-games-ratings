@@ -329,9 +329,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3921,
+  "EOS_Progressed": 3922,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7769,6 +7769,11 @@
       "Time": "2024-01-03T13:12:32.1236878+00:00",
       "NumProgressed": 3921,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T14:08:14.5734513+00:00",
+      "NumProgressed": 3922,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -7780,7 +7785,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1019
+      "UsersEstimate": 1020
     },
     {
       "ID": "ACH_BASE_10",
@@ -7908,7 +7913,7 @@
       "Name": "Sightseeing",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "ACH_BASE_27",
@@ -8004,7 +8009,7 @@
       "Name": "Necessary Enhancement",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "ACH_BASE_38",
@@ -8076,7 +8081,7 @@
       "Name": "Permanent Redesigns",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "ACH_BASE_49",
@@ -8212,7 +8217,7 @@
       "Name": "From the Past",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "ACH_BASE_8",
@@ -8235,13 +8240,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 2105,
+      "Progressed": 2106,
       "Completed": 10
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3921,
+      "Progressed": 3922,
       "Completed": 0
     }
   ],
@@ -8249,8 +8254,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2024-01-02T02:20:24.7743828+00:00",
-  "LastChanged_Achievements": "2024-01-03T13:12:32.1236873+00:00",
+  "LastChanged_Achievements": "2024-01-03T14:08:14.5734508+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:27.7465752+00:00",
-  "LastUpdate_Ratings": "2024-01-03T13:02:22.080694+00:00",
-  "LastUpdate_Achievements": "2024-01-03T13:12:32.1237858+00:00"
+  "LastUpdate_Ratings": "2024-01-03T13:58:27.449976+00:00",
+  "LastUpdate_Achievements": "2024-01-03T14:08:14.573551+00:00"
 }

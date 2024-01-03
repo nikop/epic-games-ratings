@@ -2,7 +2,7 @@
   "ID": "c0d2e8a180624787be1c4c6386493796",
   "Name": "Kingdom Rush Vengeance",
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
-  "Ranking_EOS_Progress": 408,
+  "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_NewPlayers": 297,
   "Ranking_EOS_NewCompleters": 150,
@@ -1207,9 +1207,9 @@
       "ID": "KR4_ACHIEVEMENT_BONEFLINGERS",
       "SetID": "caeik3h",
       "Name": "The Skeleton War",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 61
     },
     {
       "ID": "KR4_ACHIEVEMENT_BONEHART",
@@ -1383,9 +1383,9 @@
       "ID": "KR4_ACHIEVEMENT_HAPPY_NEW_YEAR",
       "SetID": "caeik3h",
       "Name": "Happy New Year!",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 53
     },
     {
       "ID": "KR4_ACHIEVEMENT_HEROIC",
@@ -1399,9 +1399,9 @@
       "ID": "KR4_ACHIEVEMENT_HODOR",
       "SetID": "caeik3h",
       "Name": "Hold The Door",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 89
     },
     {
       "ID": "KR4_ACHIEVEMENT_HORN",
@@ -1423,9 +1423,9 @@
       "ID": "KR4_ACHIEVEMENT_ICESCULPTOR",
       "SetID": "caeik3h",
       "Name": "Ice sculptor",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 173
     },
     {
       "ID": "KR4_ACHIEVEMENT_INCREDIBLES",
@@ -1583,9 +1583,9 @@
       "ID": "KR4_ACHIEVEMENT_OLOCH_MAX",
       "SetID": "caeik3h",
       "Name": "Mischievous Demon",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "KR4_ACHIEVEMENT_ORCSDEN",
@@ -1599,9 +1599,9 @@
       "ID": "KR4_ACHIEVEMENT_ORCSHAMAN",
       "SetID": "caeik3h",
       "Name": "Thunderstruck",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 104
     },
     {
       "ID": "KR4_ACHIEVEMENT_PEERLESS_DEFENDER",
@@ -1788,8 +1788,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2024-01-03T13:08:07.7391473+00:00",
+  "LastChanged_Achievements": "2024-01-03T14:03:59.6251355+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:04.1058747+00:00",
-  "LastUpdate_Ratings": "2024-01-03T13:04:29.9116211+00:00",
-  "LastUpdate_Achievements": "2024-01-03T13:08:07.7392044+00:00"
+  "LastUpdate_Ratings": "2024-01-03T14:00:48.5245992+00:00",
+  "LastUpdate_Achievements": "2024-01-03T14:03:59.625205+00:00"
 }

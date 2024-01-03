@@ -185,7 +185,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1415,
+  "EOS_Progressed": 1416,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 1,
@@ -4895,6 +4895,11 @@
       "Time": "2024-01-03T11:06:18.0492571+00:00",
       "NumProgressed": 1415,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-03T14:03:28.1779651+00:00",
+      "NumProgressed": 1416,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4915,7 +4920,7 @@
       "Name": "A New Journey",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "_03_FinishAct1",
@@ -4923,7 +4928,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -4939,7 +4944,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -4963,7 +4968,7 @@
       "Name": "Swabbie",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "_09_Completion_20",
@@ -5035,7 +5040,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -5114,7 +5119,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1415,
+      "Progressed": 1416,
       "Completed": 35
     }
   ],
@@ -5122,8 +5127,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-03T10:02:59.9033308+00:00",
-  "LastChanged_Achievements": "2024-01-03T12:08:12.5490356+00:00",
+  "LastChanged_Achievements": "2024-01-03T14:03:28.1779641+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.1530944+00:00",
-  "LastUpdate_Ratings": "2024-01-03T13:07:03.6212562+00:00",
-  "LastUpdate_Achievements": "2024-01-03T12:08:12.5490784+00:00"
+  "LastUpdate_Ratings": "2024-01-03T14:02:46.4149989+00:00",
+  "LastUpdate_Achievements": "2024-01-03T14:03:28.1797+00:00"
 }

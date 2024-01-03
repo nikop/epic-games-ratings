@@ -687,9 +687,9 @@
       "ID": "ach_39_mtTopView",
       "SetID": "16n29hg",
       "Name": "View from the Mountaintop",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_40_towerDestroyer",
@@ -852,8 +852,8 @@
   ],
   "FirstSeen": "2023-06-30T05:57:16.6793848+00:00",
   "FirstSeenAchievements": "2023-06-20T07:03:35.8699826+00:00",
-  "LastChanged_Achievements": "2024-01-03T13:13:40.6150964+00:00",
+  "LastChanged_Achievements": "2024-01-03T14:09:30.6167712+00:00",
   "LastUpdate_AppInfo": "2023-12-27T22:56:54.833532+00:00",
-  "LastUpdate_Ratings": "2024-01-03T13:03:39.0423214+00:00",
-  "LastUpdate_Achievements": "2024-01-03T13:13:40.6151513+00:00"
+  "LastUpdate_Ratings": "2024-01-03T13:59:48.6679454+00:00",
+  "LastUpdate_Achievements": "2024-01-03T14:09:30.6168417+00:00"
 }

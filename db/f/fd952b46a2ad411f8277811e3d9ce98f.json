@@ -4,7 +4,7 @@
   "ProductSlug": "mini-royale-ad1dca",
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 398250,
+  "EOS_Progressed": 398251,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12732,6 +12732,11 @@
       "Time": "2024-01-02T11:04:42.4451099+00:00",
       "NumProgressed": 398250,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T14:05:27.8872115+00:00",
+      "NumProgressed": 398251,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-23T09:03:04.200541+00:00",
@@ -12744,7 +12749,7 @@
       "Name": "Soldier 47",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 796
+      "UsersEstimate": 797
     },
     {
       "ID": "firstKills_1",
@@ -12840,7 +12845,7 @@
       "Name": "Rookie Rumble",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 227002
+      "UsersEstimate": 227003
     },
     {
       "ID": "kills_100",
@@ -12848,7 +12853,7 @@
       "Name": "Rookie Riot",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 3982
+      "UsersEstimate": 3983
     },
     {
       "ID": "kills_1000",
@@ -12991,13 +12996,13 @@
     {
       "ID": "413a09o",
       "IsBase": true,
-      "Progressed": 398250,
+      "Progressed": 398251,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-23T09:03:04.2005407+00:00",
-  "LastChanged_Achievements": "2024-01-03T13:09:30.3443037+00:00",
+  "LastChanged_Achievements": "2024-01-03T14:05:27.8872112+00:00",
   "LastUpdate_AppInfo": "2023-12-27T20:57:06.1198345+00:00",
-  "LastUpdate_Ratings": "2024-01-03T13:02:12.0206502+00:00",
-  "LastUpdate_Achievements": "2024-01-03T13:09:30.3444019+00:00"
+  "LastUpdate_Ratings": "2024-01-03T13:58:16.2823791+00:00",
+  "LastUpdate_Achievements": "2024-01-03T14:05:27.8872874+00:00"
 }

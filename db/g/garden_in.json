@@ -440,17 +440,17 @@
       "ID": "ACH_A_GREENER_DAY",
       "SetID": "95o50of",
       "Name": "A Greener Day",
-      "Percentage": 0,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_A_SAD_MOMENT",
       "SetID": "95o50of",
       "Name": "A Sad Moment",
-      "Percentage": 0,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_BALCONY_OPTIMIZER",
@@ -632,9 +632,9 @@
       "ID": "ACH_TAKING_NOTES",
       "SetID": "95o50of",
       "Name": "Taking Notes",
-      "Percentage": 0,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_THE_BEST_ONE",
@@ -697,8 +697,8 @@
   "FirstSeenRating": "2023-03-31T05:57:23.5695131+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:31.2425806+00:00",
   "LastChanged": "2023-03-31T05:57:23.5695132+00:00",
-  "LastChanged_Achievements": "2024-01-03T13:12:53.7931057+00:00",
+  "LastChanged_Achievements": "2024-01-03T14:08:38.6432767+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:50.9003231+00:00",
-  "LastUpdate_Ratings": "2024-01-03T13:03:49.5845383+00:00",
-  "LastUpdate_Achievements": "2024-01-03T13:12:53.7931316+00:00"
+  "LastUpdate_Ratings": "2024-01-03T14:00:01.1822227+00:00",
+  "LastUpdate_Achievements": "2024-01-03T14:08:38.6433015+00:00"
 }

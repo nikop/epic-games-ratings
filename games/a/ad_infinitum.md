@@ -16,7 +16,7 @@
 | Mayhem | 18.00% | ~31 |
 | Reflections | 18.00% | ~31 |
 | The shining | 18.00% | ~31 |
-| Clarity | 16.00% | ~27 |
+| Clarity | 17.00% | ~29 |
 | Health | 14.00% | ~24 |
 | Awaiting orders | 13.00% | ~22 |
 | Art critic | 11.00% | ~19 |

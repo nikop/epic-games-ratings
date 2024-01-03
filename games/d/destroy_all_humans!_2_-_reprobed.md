@@ -1,7 +1,7 @@
 # Destroy All Humans! 2 - Reprobed
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans-2-reprobed)  
 [View Rawdata](../../db/d/destroy_all_humans!_2_-_reprobed.json)  
-Rating: 4.54 (Ranked 544)  
+Rating: 4.54 (Ranked 545)  
 Number of Ratings: 90  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -31,8 +31,8 @@ Number of Ratings: 90  (23.09.2022)
 | Lobster Blisque | 5.00% | ~15 |
 | Ultimate Smoothie | 4.00% | ~12 |
 | Yettisoned | 4.00% | ~12 |
+| Arkvoodle Doodle | 4.00% | ~12 |
 | Deincarnated | 3.00% | ~9 |
-| Arkvoodle Doodle | 3.00% | ~9 |
 | Arty Facts | 1.00% | ~3 |
 | Against All Odds | 1.00% | ~3 |
 | Forbidden Donut | 1.00% | ~3 |

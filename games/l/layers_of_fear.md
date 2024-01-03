@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 84.00% | ~220 |
-| A piece of the story | 61.00% | ~160 |
-| It's covered up for a reason | 54.00% | ~141 |
-| Wanderer | 52.00% | ~136 |
-| Scraps of love | 47.00% | ~123 |
-| The artist’s impression | 45.00% | ~118 |
-| Do what you have to | 41.00% | ~107 |
+| Something important | 84.00% | ~222 |
+| A piece of the story | 61.00% | ~161 |
+| It's covered up for a reason | 54.00% | ~143 |
+| Wanderer | 51.00% | ~135 |
+| Scraps of love | 46.00% | ~121 |
+| The artist’s impression | 45.00% | ~119 |
+| Do what you have to | 41.00% | ~108 |
 | Sign of weakness | 38.00% | ~100 |
-| Refuse to look | 34.00% | ~89 |
-| Face your fears | 28.00% | ~73 |
-| Finished it | 26.00% | ~68 |
+| Refuse to look | 34.00% | ~90 |
+| Face your fears | 28.00% | ~74 |
+| Finished it | 26.00% | ~69 |
 | Whispers long forgotten | 16.00% | ~42 |
 | Sound Bite | 13.00% | ~34 |
 | The art of movement | 13.00% | ~34 |
-| A Slice of Life | 12.00% | ~31 |
-| Debut | 12.00% | ~31 |
+| A Slice of Life | 12.00% | ~32 |
+| Debut | 12.00% | ~32 |
 | Another perspective | 11.00% | ~29 |
 | Lights! Camera! Action! | 11.00% | ~29 |
-| First steps | 10.00% | ~26 |
 | Playtime | 10.00% | ~26 |
 | The tragedy unfolds | 10.00% | ~26 |
 | Tough conversation | 10.00% | ~26 |
 | A new way | 9.00% | ~24 |
+| First steps | 9.00% | ~24 |
 | Breaking free | 8.00% | ~21 |
 | True Reflection | 7.00% | ~18 |
 | Casting Finished | 6.00% | ~16 |
 | Heavy Burden | 6.00% | ~16 |
 | Instinct of self-preservation | 6.00% | ~16 |
 | Fisherman | 6.00% | ~16 |
-| Something to think about | 4.00% | ~10 |
-| I remember It Like Was Yesterday | 4.00% | ~10 |
+| Something to think about | 4.00% | ~11 |
+| I remember It Like Was Yesterday | 4.00% | ~11 |
 | We Are Not Alone | 3.00% | ~8 |
 | Dark correspondence | 3.00% | ~8 |
 | Immortalized in my heart | 3.00% | ~8 |
@@ -57,7 +57,7 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 262 (Ranked 404)  
+Progressed: 264 (Ranked 404)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,4 +129,4 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-31 | 243 | 0 |
 | 2024-01-01 | 255 | 0 |
 | 2024-01-02 | 256 | 0 |
-| 2024-01-03 | 262 | 0 |
+| 2024-01-03 | 264 | 0 |

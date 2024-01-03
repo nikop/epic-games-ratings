@@ -6,8 +6,8 @@
   "Ranking_Popularity": 578,
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 256,
-  "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_Completed": 280,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -61,11 +61,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1714,
+  "EOS_Progressed": 1715,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 378,
+  "EOS_NewPlayers": 376,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.18,
+  "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
     {
       "Time": "2023-06-23T15:02:22.2302993+00:00",
@@ -3366,6 +3366,11 @@
       "Time": "2024-01-03T13:14:22.0256062+00:00",
       "NumProgressed": 1714,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-03T14:10:15.8192226+00:00",
+      "NumProgressed": 1715,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -3377,7 +3382,7 @@
       "Name": "Break Out",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1028
+      "UsersEstimate": 1029
     },
     {
       "ID": "ACH_02",
@@ -3441,7 +3446,7 @@
       "Name": "The Mentor",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_10",
@@ -3633,15 +3638,15 @@
       "Name": "The Collector",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "ACH_35",
       "SetID": "efe2lj",
       "Name": "Feeling Fancy",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_36",
@@ -3664,7 +3669,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1714,
+      "Progressed": 1715,
       "Completed": 3
     }
   ],
@@ -3672,8 +3677,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-02T01:47:19.6899919+00:00",
-  "LastChanged_Achievements": "2024-01-03T13:14:22.0256054+00:00",
+  "LastChanged_Achievements": "2024-01-03T14:10:15.8192222+00:00",
   "LastUpdate_AppInfo": "2024-01-01T22:57:08.0954502+00:00",
-  "LastUpdate_Ratings": "2024-01-03T13:04:46.0959931+00:00",
-  "LastUpdate_Achievements": "2024-01-03T13:14:22.0256728+00:00"
+  "LastUpdate_Ratings": "2024-01-03T14:01:07.3160018+00:00",
+  "LastUpdate_Achievements": "2024-01-03T14:10:15.8192556+00:00"
 }

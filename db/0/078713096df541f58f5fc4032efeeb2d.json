@@ -4,7 +4,7 @@
   "ProductSlug": "creepy-tale-3-ingrid-penance-1daff4",
   "Ranking_EOS_Progress": 513,
   "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 369,
+  "Ranking_EOS_NewPlayers": 370,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -477,17 +477,17 @@
       "ID": "creepytale3_ach_21",
       "SetID": "7idcjbn",
       "Name": "Larva",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "creepytale3_ach_22",
       "SetID": "7idcjbn",
       "Name": "Sadomasochist",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "creepytale3_ach_23",
@@ -660,8 +660,8 @@
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2024-01-03T13:08:45.4174932+00:00",
+  "LastChanged_Achievements": "2024-01-03T14:04:39.7481306+00:00",
   "LastUpdate_AppInfo": "2024-01-03T07:57:05.980712+00:00",
-  "LastUpdate_Ratings": "2024-01-03T13:03:57.838216+00:00",
-  "LastUpdate_Achievements": "2024-01-03T13:08:45.4175113+00:00"
+  "LastUpdate_Ratings": "2024-01-03T14:00:11.777088+00:00",
+  "LastUpdate_Achievements": "2024-01-03T14:04:39.748153+00:00"
 }

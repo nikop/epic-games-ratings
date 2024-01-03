@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 432,
+  "Ranking_EOS_NewPlayers": 418,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -77,9 +77,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 502,
+  "EOS_Progressed": 503,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -637,6 +637,11 @@
       "Time": "2024-01-01T16:08:32.6083252+00:00",
       "NumProgressed": 502,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-03T14:08:37.0551071+00:00",
+      "NumProgressed": 503,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -664,7 +669,7 @@
       "Name": "Lion Tamer",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -718,9 +723,9 @@
       "ID": "ACHIEVEMENT_10",
       "SetID": "631ndc2",
       "Name": "Time Travel!",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 60
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -736,7 +741,7 @@
       "Name": "Fan Service",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -776,7 +781,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -880,7 +885,7 @@
       "Name": "King of District 1",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -984,7 +989,7 @@
       "Name": "Amazing!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHIEVEMENT_44",
@@ -1047,7 +1052,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 502,
+      "Progressed": 503,
       "Completed": 1
     }
   ],
@@ -1055,8 +1060,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2024-01-03T13:12:52.4260675+00:00",
+  "LastChanged_Achievements": "2024-01-03T14:08:37.0551066+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:23.6546135+00:00",
-  "LastUpdate_Ratings": "2024-01-03T13:04:34.1761017+00:00",
-  "LastUpdate_Achievements": "2024-01-03T13:12:52.4261193+00:00"
+  "LastUpdate_Ratings": "2024-01-03T14:00:53.2225984+00:00",
+  "LastUpdate_Achievements": "2024-01-03T14:08:37.0551604+00:00"
 }

@@ -3782,10 +3782,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 11781,
       "NumberOfAwardsMax": 1513
+    },
+    {
+      "Time": "2024-01-03T13:58:52.543529+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 11784,
+      "NumberOfAwardsMax": 1513
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11781,
+  "NumberOfAwards": 11784,
   "NumberOfAwardsMax": 1513,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3799,7 +3805,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1235
+      "Count": 1238
     },
     {
       "Text": "This game has Challenging Combat",
@@ -3856,9 +3862,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242273,
+  "EOS_Progressed": 242279,
   "EOS_Completed": 303,
-  "EOS_NewPlayers": 455,
+  "EOS_NewPlayers": 457,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -30546,6 +30552,11 @@
       "Time": "2024-01-03T13:14:29.0724125+00:00",
       "NumProgressed": 242273,
       "NumCompleted": 303
+    },
+    {
+      "Time": "2024-01-03T14:10:23.3426277+00:00",
+      "NumProgressed": 242279,
+      "NumCompleted": 303
     }
   ],
   "TotalAchievements": 138,
@@ -30571,9 +30582,9 @@
       "ID": "ATTACKOWL",
       "SetID": "5l8oe0h",
       "Name": "Ambitious Intent",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1696
+      "UsersEstimate": 1938
     },
     {
       "ID": "BOSSPIT",
@@ -30597,7 +30608,7 @@
       "Name": "Nothing To Lose",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2180
+      "UsersEstimate": 2181
     },
     {
       "ID": "CURSEDPOTIONS",
@@ -30637,7 +30648,7 @@
       "Name": "Heavy Hitter",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2180
+      "UsersEstimate": 2181
     },
     {
       "ID": "DEAL99DAMAGE",
@@ -30733,7 +30744,7 @@
       "Name": "That Was Quick",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2180
+      "UsersEstimate": 2181
     },
     {
       "ID": "DIERAINBOWSOCKS",
@@ -30741,7 +30752,7 @@
       "Name": "Colorful Corpse",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2180
+      "UsersEstimate": 2181
     },
     {
       "ID": "DIETOGRAVESTONE",
@@ -30957,7 +30968,7 @@
       "Name": "Defeat The Dark",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2180
+      "UsersEstimate": 2181
     },
     {
       "ID": "KILL1000",
@@ -31045,7 +31056,7 @@
       "Name": "Goodbye, Frog Friend",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2180
+      "UsersEstimate": 2181
     },
     {
       "ID": "KILLNICEDOG",
@@ -31141,7 +31152,7 @@
       "Name": "A Donation",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2180
+      "UsersEstimate": 2181
     },
     {
       "ID": "MULTEXPLOSIONS",
@@ -31309,7 +31320,7 @@
       "Name": "Explorer",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2180
+      "UsersEstimate": 2181
     },
     {
       "ID": "SPEEDRUN10",
@@ -31660,22 +31671,22 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242273,
+      "Progressed": 242279,
       "Completed": 303
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3753,
-      "Completed": 419
+      "Progressed": 3759,
+      "Completed": 420
     }
   ],
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
-  "LastChanged": "2024-01-01T19:58:02.265715+00:00",
-  "LastChanged_Achievements": "2024-01-03T13:14:29.072412+00:00",
+  "LastChanged": "2024-01-03T13:58:52.5435288+00:00",
+  "LastChanged_Achievements": "2024-01-03T14:10:23.3426273+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:01.848225+00:00",
-  "LastUpdate_Ratings": "2024-01-03T13:02:45.9716682+00:00",
-  "LastUpdate_Achievements": "2024-01-03T13:14:29.0727614+00:00"
+  "LastUpdate_Ratings": "2024-01-03T13:58:52.5435292+00:00",
+  "LastUpdate_Achievements": "2024-01-03T14:10:23.3428986+00:00"
 }

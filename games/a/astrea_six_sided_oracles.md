@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 83.00% | ~255 |
+| Meissa's Savior | 83.00% | ~256 |
 | Purification Pioneer | 79.00% | ~243 |
-| Mechanical Buddy | 73.00% | ~224 |
+| Mechanical Buddy | 73.00% | ~225 |
 | Dicesmithing Time! | 65.00% | ~200 |
 | Sanctuary Guardian | 56.00% | ~172 |
 | Endless Tricks | 51.00% | ~157 |
-| Wild's Keeper | 47.00% | ~144 |
-| Mind Illuminator | 44.00% | ~135 |
+| Wild's Keeper | 47.00% | ~145 |
+| Mind Illuminator | 44.00% | ~136 |
 | Stellar Dismantler | 37.00% | ~114 |
-| Noctuan Champion | 36.00% | ~111 |
-| Astral Adventurer | 34.00% | ~104 |
+| Noctuan Champion | 35.00% | ~108 |
+| Astral Adventurer | 33.00% | ~102 |
 | Anomaly Destroyer | 31.00% | ~95 |
 | Star Killer | 29.00% | ~89 |
 | Eridanian Champion | 24.00% | ~74 |
-| Loyal Partner | 21.00% | ~64 |
-| Lacertian Champion | 21.00% | ~64 |
-| Shard Spender | 19.00% | ~58 |
-| Apian Champion | 19.00% | ~58 |
+| Loyal Partner | 21.00% | ~65 |
+| Lacertian Champion | 21.00% | ~65 |
+| Shard Spender | 19.00% | ~59 |
+| Apian Champion | 19.00% | ~59 |
 | Unbeatable | 18.00% | ~55 |
 | Sadistic Plan | 16.00% | ~49 |
 | Behenian Champion | 14.00% | ~43 |
@@ -29,10 +29,10 @@
 | Astral Seeker | 9.00% | ~28 |
 | Heavy Purger | 9.00% | ~28 |
 | Aquarian Champion | 9.00% | ~28 |
+| Heart Gate | 8.00% | ~25 |
 | Stellar Haste | 8.00% | ~25 |
-| Heart Gate | 7.00% | ~21 |
-| The Corruption Goddess | 7.00% | ~21 |
-| The Goddes Avatar | 7.00% | ~21 |
+| The Corruption Goddess | 7.00% | ~22 |
+| The Goddes Avatar | 7.00% | ~22 |
 | Favored by the Cosmos | 6.00% | ~18 |
 | Anomaly Control | 5.00% | ~15 |
 | Artificer | 5.00% | ~15 |
@@ -68,12 +68,12 @@
 | Unepic Hero | 1.00% | ~3 |
 | Apian Mastery | 1.00% | ~3 |
 | Eridanian Mastery | 1.00% | ~3 |
-| Astral Tinkerer | 0.70% | ~2 |
-| Astrea's Saviors | 0.70% | ~2 |
-| Astrium Specialist | 0.70% | ~2 |
-| Plague Doctor | 0.70% | ~2 |
-| Six-Sided Mastery | 0.70% | ~2 |
-| This is Fine | 0.70% | ~2 |
+| Astral Tinkerer | 0.60% | ~2 |
+| Astrea's Saviors | 0.60% | ~2 |
+| Astrium Specialist | 0.60% | ~2 |
+| Plague Doctor | 0.60% | ~2 |
+| Six-Sided Mastery | 0.60% | ~2 |
+| This is Fine | 0.60% | ~2 |
 | Arch-Oracle | 0.30% | ~1 |
 | Dice Specialist | 0.30% | ~1 |
 | Gotta tinker'em all! | 0.30% | ~1 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 307 (Ranked 388)  
+Progressed: 308 (Ranked 388)  
 Completed: 0 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,4 +172,4 @@ Completed: 0 (0.00%) (Ranked 391)
 | 2023-12-31 | 285 | 0 |
 | 2024-01-01 | 294 | 0 |
 | 2024-01-02 | 303 | 0 |
-| 2024-01-03 | 307 | 0 |
+| 2024-01-03 | 308 | 0 |

@@ -27,8 +27,8 @@ Rating: 4.35 (Ranked 820)
 | Youth Magnet | 19.00% | ~131 |
 | Furious Scorpion Killer | 17.00% | ~117 |
 | Lethal Blade Mantis Killer | 17.00% | ~117 |
+| Squeaky Clean | 17.00% | ~117 |
 | Master Artificer | 17.00% | ~117 |
-| Squeaky Clean | 16.00% | ~110 |
 | Kind Adventurer | 15.00% | ~104 |
 | Mermaid Killer | 15.00% | ~104 |
 | Face Slapper | 15.00% | ~104 |

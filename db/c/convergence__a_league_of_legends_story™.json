@@ -51,7 +51,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1209,
+  "EOS_Progressed": 1210,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
@@ -3526,6 +3526,11 @@
       "Time": "2024-01-03T11:09:50.4907312+00:00",
       "NumProgressed": 1209,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-03T14:10:18.3936561+00:00",
+      "NumProgressed": 1210,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3567,9 +3572,9 @@
       "ID": "ChronobreakMultiKill1",
       "SetID": "a9e499d",
       "Name": "Right On Time",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 254
     },
     {
       "ID": "ClockworkCompletion1",
@@ -3689,7 +3694,7 @@
       "Name": "Whiz Kid",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "GrindingTime1",
@@ -3913,7 +3918,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "WarwickDefeated",
@@ -3945,7 +3950,7 @@
       "Name": "The Brass Boss",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "Zarkon2Defeated",
@@ -3960,7 +3965,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1209,
+      "Progressed": 1210,
       "Completed": 6
     }
   ],
@@ -3968,8 +3973,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2024-01-03T13:14:24.4570114+00:00",
+  "LastChanged_Achievements": "2024-01-03T14:10:18.3936559+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:23.9308133+00:00",
-  "LastUpdate_Ratings": "2024-01-03T13:07:08.5049101+00:00",
-  "LastUpdate_Achievements": "2024-01-03T13:14:24.4570695+00:00"
+  "LastUpdate_Ratings": "2024-01-03T14:02:52.2433436+00:00",
+  "LastUpdate_Achievements": "2024-01-03T14:10:18.393709+00:00"
 }

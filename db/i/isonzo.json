@@ -1057,9 +1057,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9746,
+  "EOS_Progressed": 9747,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10512,6 +10512,11 @@
       "Time": "2024-01-03T13:13:36.798502+00:00",
       "NumProgressed": 9746,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-03T14:09:25.8119932+00:00",
+      "NumProgressed": 9747,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -10529,9 +10534,9 @@
       "ID": "ISONZO_ACH_AURELIO_BARUZZI",
       "SetID": "akchbl3",
       "Name": "Aurelio Baruzzi",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 2047
+      "UsersEstimate": 1949
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -10539,7 +10544,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4288
+      "UsersEstimate": 4289
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -10667,7 +10672,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1559
+      "UsersEstimate": 1560
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -10771,7 +10776,7 @@
       "Name": "Silver Lining",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2631
+      "UsersEstimate": 2632
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -10819,7 +10824,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1364
+      "UsersEstimate": 1365
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -10851,7 +10856,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4873
+      "UsersEstimate": 4874
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -10875,14 +10880,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 4970
+      "UsersEstimate": 4971
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9746,
+      "Progressed": 9747,
       "Completed": 10
     }
   ],
@@ -10890,8 +10895,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-02T20:59:57.5573345+00:00",
-  "LastChanged_Achievements": "2024-01-03T13:13:36.7985016+00:00",
+  "LastChanged_Achievements": "2024-01-03T14:09:25.8119929+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:27.5115536+00:00",
-  "LastUpdate_Ratings": "2024-01-03T13:04:16.2454647+00:00",
-  "LastUpdate_Achievements": "2024-01-03T13:13:36.7985731+00:00"
+  "LastUpdate_Ratings": "2024-01-03T14:00:33.3423357+00:00",
+  "LastUpdate_Achievements": "2024-01-03T14:09:25.8120779+00:00"
 }

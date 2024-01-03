@@ -5,20 +5,20 @@ Rating: 4.21 (Ranked 948)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 5.00% | ~17,012 |
-| May the Torchbearer light our way | 4.00% | ~13,609 |
-| A powerful aura was here | 3.00% | ~10,207 |
+| The touch of Chaos | 5.00% | ~17,013 |
+| May the Torchbearer light our way | 4.00% | ~13,610 |
+| A powerful aura was here | 3.00% | ~10,208 |
 | Let's raise the stakes!! | 2.00% | ~6,805 |
-| Rumors are true | 1.00% | ~3,402 |
-| Pride is a sin, young Knight | 1.00% | ~3,402 |
-| Your wounds… They are healing so fast! | 1.00% | ~3,402 |
+| Rumors are true | 1.00% | ~3,403 |
+| Pride is a sin, young Knight | 1.00% | ~3,403 |
+| Your wounds… They are healing so fast! | 1.00% | ~3,403 |
 | We'll be careful | 0.90% | ~3,062 |
 | Back to your senses | 0.70% | ~2,382 |
 | They won't last long | 0.70% | ~2,382 |
 | Bring it on! | 0.70% | ~2,382 |
-| They tricked me | 0.60% | ~2,041 |
-| We need to talk | 0.60% | ~2,041 |
-| I feel drawn to it | 0.60% | ~2,041 |
+| They tricked me | 0.60% | ~2,042 |
+| We need to talk | 0.60% | ~2,042 |
+| I feel drawn to it | 0.60% | ~2,042 |
 | Here to stay | 0.50% | ~1,701 |
 | Counting on you | 0.50% | ~1,701 |
 | This is the end | 0.50% | ~1,701 |
@@ -26,8 +26,8 @@ Rating: 4.21 (Ranked 948)
 | I took a risk | 0.50% | ~1,701 |
 | Their fate is sealed | 0.30% | ~1,021 |
 | Not even from this world | 0.30% | ~1,021 |
-| No damsels in distress | 0.20% | ~680 |
-| Chaos be damned! | 0.20% | ~680 |
+| No damsels in distress | 0.20% | ~681 |
+| Chaos be damned! | 0.20% | ~681 |
 | The immortal is bound to reborn | 0.10% | ~340 |
 | A legend among Chimeras | 0.10% | ~340 |
 | It's only pain | 0.10% | ~340 |
@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 948)
 | Something... unnatural | 0.10% | ~340 |
 | We strike as one | 0.10% | ~340 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 340,235 (Ranked 58)  
+Progressed: 340,262 (Ranked 58)  
 Completed: 7 (0.00%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 7 (0.00%) (Ranked 391)
 | 2023-12-31 | 338,873 | 7 |
 | 2024-01-01 | 339,449 | 7 |
 | 2024-01-02 | 339,962 | 7 |
-| 2024-01-03 | 340,235 | 7 |
+| 2024-01-03 | 340,262 | 7 |
 ## Awards
 Max (Great Boss Battles): 77  (Ranked 404)  
 Sum: 77 (Ranked 480)  

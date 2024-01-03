@@ -3,8 +3,8 @@
   "Name": "Buddy and Friends in Halloween",
   "ProductSlug": "buddy-and-friends-in-halloween-192190",
   "Ranking_EOS_Progress": 517,
-  "Ranking_EOS_Completed": 88,
-  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_Completed": 90,
+  "Ranking_EOS_NewPlayers": 340,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-10-24T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 72,
+  "EOS_Progressed": 73,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.17,
+  "EOS_Completed_Percentage": 4.11,
   "EosHistory": [
     {
       "Time": "2023-09-27T22:06:15.8881954+00:00",
@@ -389,6 +389,11 @@
       "Time": "2024-01-03T03:04:28.1712369+00:00",
       "NumProgressed": 72,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-03T14:04:30.3807336+00:00",
+      "NumProgressed": 73,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-27T20:05:04.1724035+00:00",
@@ -407,7 +412,7 @@
       "ID": "LEVEL_060_001",
       "SetID": "5g7b0mb",
       "Name": "Mirror - 60 pieces",
-      "Percentage": 89,
+      "Percentage": 88,
       "XP": 5,
       "UsersEstimate": 64
     },
@@ -415,7 +420,7 @@
       "ID": "LEVEL_060_002",
       "SetID": "5g7b0mb",
       "Name": "Doors - 60 pieces",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 5,
       "UsersEstimate": 48
     },
@@ -431,7 +436,7 @@
       "ID": "LEVEL_060_004",
       "SetID": "5g7b0mb",
       "Name": "Alley - 60 pieces",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 5,
       "UsersEstimate": 35
     },
@@ -439,7 +444,7 @@
       "ID": "LEVEL_060_005",
       "SetID": "5g7b0mb",
       "Name": "Grass - 60 pieces",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 5,
       "UsersEstimate": 35
     },
@@ -447,7 +452,7 @@
       "ID": "LEVEL_060_006",
       "SetID": "5g7b0mb",
       "Name": "Warmth - 60 pieces",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 5,
       "UsersEstimate": 30
     },
@@ -479,7 +484,7 @@
       "ID": "LEVEL_135_004",
       "SetID": "5g7b0mb",
       "Name": "Alley - 135 pieces",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
       "UsersEstimate": 9
     },
@@ -487,7 +492,7 @@
       "ID": "LEVEL_135_005",
       "SetID": "5g7b0mb",
       "Name": "Grass - 135 pieces",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
       "UsersEstimate": 9
     },
@@ -527,7 +532,7 @@
       "ID": "LEVEL_240_004",
       "SetID": "5g7b0mb",
       "Name": "Alley - 240 pieces",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -599,7 +604,7 @@
       "ID": "LEVEL_540_001",
       "SetID": "5g7b0mb",
       "Name": "Mirror - 540 pieces",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -607,7 +612,7 @@
       "ID": "LEVEL_540_002",
       "SetID": "5g7b0mb",
       "Name": "Doors - 540 pieces",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -623,7 +628,7 @@
       "ID": "LEVEL_540_004",
       "SetID": "5g7b0mb",
       "Name": "Alley - 540 pieces",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 100,
       "UsersEstimate": 4
     },
@@ -631,7 +636,7 @@
       "ID": "LEVEL_540_005",
       "SetID": "5g7b0mb",
       "Name": "Grass - 540 pieces",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 100,
       "UsersEstimate": 4
     },
@@ -648,14 +653,14 @@
     {
       "ID": "5g7b0mb",
       "IsBase": true,
-      "Progressed": 72,
+      "Progressed": 73,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-10-25T11:59:09.0555301+00:00",
   "FirstSeenAchievements": "2023-09-22T13:08:37.9195504+00:00",
-  "LastChanged_Achievements": "2024-01-03T13:08:36.9714721+00:00",
+  "LastChanged_Achievements": "2024-01-03T14:04:30.3807329+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:19.5932305+00:00",
-  "LastUpdate_Ratings": "2024-01-03T13:04:16.7865515+00:00",
-  "LastUpdate_Achievements": "2024-01-03T13:08:36.9714885+00:00"
+  "LastUpdate_Ratings": "2024-01-03T14:00:34.0283386+00:00",
+  "LastUpdate_Achievements": "2024-01-03T14:04:30.3807517+00:00"
 }
