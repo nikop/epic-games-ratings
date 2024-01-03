@@ -61,9 +61,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1703,
+  "EOS_Progressed": 1706,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 376,
+  "EOS_NewPlayers": 377,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -3341,6 +3341,11 @@
       "Time": "2024-01-03T08:10:48.7716731+00:00",
       "NumProgressed": 1703,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-03T09:10:47.0626645+00:00",
+      "NumProgressed": 1706,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -3352,7 +3357,7 @@
       "Name": "Break Out",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1024
     },
     {
       "ID": "ACH_02",
@@ -3416,7 +3421,7 @@
       "Name": "The Mentor",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "ACH_10",
@@ -3424,7 +3429,7 @@
       "Name": "Trinity",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "ACH_11",
@@ -3446,9 +3451,9 @@
       "ID": "ACH_13",
       "SetID": "efe2lj",
       "Name": "Adventurer",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 341
+      "UsersEstimate": 358
     },
     {
       "ID": "ACH_14",
@@ -3472,7 +3477,7 @@
       "Name": "Essence Blow",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "ACH_17",
@@ -3512,7 +3517,7 @@
       "Name": "Big Bazar",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "ACH_22",
@@ -3584,7 +3589,7 @@
       "Name": "Alchemist",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "ACH_31",
@@ -3639,7 +3644,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1703,
+      "Progressed": 1706,
       "Completed": 3
     }
   ],
@@ -3647,8 +3652,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-02T01:47:19.6899919+00:00",
-  "LastChanged_Achievements": "2024-01-03T08:10:48.7716727+00:00",
+  "LastChanged_Achievements": "2024-01-03T09:10:47.062664+00:00",
   "LastUpdate_AppInfo": "2024-01-01T22:57:08.0954502+00:00",
-  "LastUpdate_Ratings": "2024-01-03T08:01:35.8312692+00:00",
-  "LastUpdate_Achievements": "2024-01-03T08:10:48.7717234+00:00"
+  "LastUpdate_Ratings": "2024-01-03T09:01:04.6388301+00:00",
+  "LastUpdate_Achievements": "2024-01-03T09:10:47.0627046+00:00"
 }

@@ -61,9 +61,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1318,
+  "EOS_Progressed": 1319,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 269,
+  "EOS_NewPlayers": 268,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3431,6 +3431,11 @@
       "Time": "2024-01-03T08:10:11.6911613+00:00",
       "NumProgressed": 1318,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T09:10:15.9297531+00:00",
+      "NumProgressed": 1319,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -3523,7 +3528,7 @@
       "Name": "Evacuation",
       "Percentage": 19,
       "XP": 90,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "AchvInvShip",
@@ -3619,7 +3624,7 @@
       "Name": "The Camp",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 896
+      "UsersEstimate": 897
     },
     {
       "ID": "AchvReachCity",
@@ -3635,7 +3640,7 @@
       "Name": "The Condor",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "AchvSurvivors",
@@ -3659,7 +3664,7 @@
       "Name": "The End",
       "Percentage": 36,
       "XP": 55,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "AchvUnity",
@@ -3674,7 +3679,7 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1318,
+      "Progressed": 1319,
       "Completed": 0
     }
   ],
@@ -3682,8 +3687,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-01T16:57:32.3594457+00:00",
-  "LastChanged_Achievements": "2024-01-03T08:10:11.6911608+00:00",
+  "LastChanged_Achievements": "2024-01-03T09:10:15.9297527+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:20.4992862+00:00",
-  "LastUpdate_Ratings": "2024-01-03T07:58:38.971122+00:00",
-  "LastUpdate_Achievements": "2024-01-03T08:10:11.6912053+00:00"
+  "LastUpdate_Ratings": "2024-01-03T08:58:40.7167504+00:00",
+  "LastUpdate_Achievements": "2024-01-03T09:10:15.9297794+00:00"
 }

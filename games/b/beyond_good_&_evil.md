@@ -1,7 +1,7 @@
 # Beyond Good & Evil
 [Store](https://store.epicgames.com/en-US/p/beyond-good-and-evil)  
 [View Rawdata](../../db/b/beyond_good_&_evil.json)  
-Rating: 4.74 (Ranked 162)  
+Rating: 4.74 (Ranked 163)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

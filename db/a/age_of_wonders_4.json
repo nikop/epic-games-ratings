@@ -711,9 +711,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6753,
+  "EOS_Progressed": 6756,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 445,
+  "EOS_NewPlayers": 447,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10201,6 +10201,11 @@
       "Time": "2024-01-03T08:08:38.9673528+00:00",
       "NumProgressed": 6753,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-03T09:08:57.5033461+00:00",
+      "NumProgressed": 6756,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10324,7 +10329,7 @@
       "Name": "Realm Estate",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "23",
@@ -10340,7 +10345,7 @@
       "Name": "Secret Technique",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "25",
@@ -10372,7 +10377,7 @@
       "Name": "From Friends to Family",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "29",
@@ -10682,22 +10687,22 @@
       "ID": "60",
       "SetID": "7132754",
       "Name": "A Very Special Ring",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 27
     }
   ],
   "AchievementSets": [
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6753,
+      "Progressed": 6756,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6753,
+      "Progressed": 6756,
       "Completed": 7
     }
   ],
@@ -10705,8 +10710,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-03T03:59:51.7263846+00:00",
-  "LastChanged_Achievements": "2024-01-03T08:08:38.9673525+00:00",
+  "LastChanged_Achievements": "2024-01-03T09:08:57.5033459+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-03T08:01:10.8909252+00:00",
-  "LastUpdate_Achievements": "2024-01-03T08:08:38.9674387+00:00"
+  "LastUpdate_Ratings": "2024-01-03T09:00:43.4110044+00:00",
+  "LastUpdate_Achievements": "2024-01-03T09:08:57.5034263+00:00"
 }

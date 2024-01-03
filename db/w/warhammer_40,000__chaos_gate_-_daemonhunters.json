@@ -813,7 +813,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3726,
+  "EOS_Progressed": 3727,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
@@ -5383,6 +5383,11 @@
       "Time": "2024-01-03T06:05:25.6189885+00:00",
       "NumProgressed": 3726,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T09:06:16.3823746+00:00",
+      "NumProgressed": 3727,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -5410,7 +5415,7 @@
       "Name": "Look Over There!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "BloodAndIron",
@@ -5512,9 +5517,9 @@
       "ID": "ForTheMachineGod",
       "SetID": "2im8phi",
       "Name": "For the Machine God",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 37
     },
     {
       "ID": "FrequentWarpSurges",
@@ -5562,7 +5567,7 @@
       "Name": "Not So Fast...",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "Kills_Bleed",
@@ -5618,7 +5623,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "Kills_Streak",
@@ -5642,7 +5647,7 @@
       "Name": "An Ill Omen",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -5872,9 +5877,9 @@
       "ID": "ExperiencedCallidus",
       "SetID": "2im8phi",
       "Name": "Reign of Confusion",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 19
     },
     {
       "ID": "ExperiencedCulexus",
@@ -5937,21 +5942,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3726,
+      "Progressed": 3727,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3726,
+      "Progressed": 3727,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-01T18:03:40.84636+00:00",
-  "LastChanged_Achievements": "2024-01-03T08:06:29.7464316+00:00",
+  "LastChanged_Achievements": "2024-01-03T09:06:16.3823743+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:30.5390055+00:00",
-  "LastUpdate_Ratings": "2024-01-03T08:03:26.4152125+00:00",
-  "LastUpdate_Achievements": "2024-01-03T08:06:29.7465323+00:00"
+  "LastUpdate_Ratings": "2024-01-03T09:03:47.6888779+00:00",
+  "LastUpdate_Achievements": "2024-01-03T09:06:16.3824818+00:00"
 }

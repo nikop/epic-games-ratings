@@ -4,7 +4,7 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 407,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 258,
+  "EOS_Progressed": 259,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1174,6 +1174,11 @@
       "Time": "2024-01-03T03:09:02.575075+00:00",
       "NumProgressed": 258,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T09:09:20.2763143+00:00",
+      "NumProgressed": 259,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -1208,9 +1213,9 @@
       "ID": "breaking_free",
       "SetID": "f2im8d",
       "Name": "Breaking free",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     },
     {
       "ID": "casting_finished",
@@ -1218,7 +1223,7 @@
       "Name": "Casting Finished",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "collect_items_mother",
@@ -1266,7 +1271,7 @@
       "Name": "It\u0027s covered up for a reason",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "decrypt_one_myth",
@@ -1290,7 +1295,7 @@
       "Name": "Refuse to look",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "do_what_you_have_to",
@@ -1314,7 +1319,7 @@
       "Name": "Face your fears",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "find_most_of_family_mementos",
@@ -1338,7 +1343,7 @@
       "Name": "Scraps of love",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "find_one_photo",
@@ -1402,7 +1407,7 @@
       "Name": "Heavy Burden",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "in_one_take",
@@ -1458,7 +1463,7 @@
       "Name": "A piece of the story",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "playtime",
@@ -1506,7 +1511,7 @@
       "Name": "Instinct of self-preservation",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "sign_of_weakness",
@@ -1522,7 +1527,7 @@
       "Name": "Something important",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "spy_one_item",
@@ -1530,7 +1535,7 @@
       "Name": "Fisherman",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "sword_of_the_serpent",
@@ -1586,7 +1591,7 @@
       "Name": "Wanderer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "whispers_long_forgotten",
@@ -1601,14 +1606,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 258,
+      "Progressed": 259,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-03T08:09:05.9572226+00:00",
+  "LastChanged_Achievements": "2024-01-03T09:09:20.276314+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.7570027+00:00",
-  "LastUpdate_Ratings": "2024-01-03T07:59:05.8677191+00:00",
-  "LastUpdate_Achievements": "2024-01-03T08:09:05.9572664+00:00"
+  "LastUpdate_Ratings": "2024-01-03T08:59:03.1106981+00:00",
+  "LastUpdate_Achievements": "2024-01-03T09:09:20.2763487+00:00"
 }

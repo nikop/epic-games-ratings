@@ -5,13 +5,13 @@ Rating: 4.55 (Ranked 522)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~14,679 |
-| Pay 'n' Spray | 50.00% | ~9,061 |
-| All Dressed Up for San Fierro | 25.00% | ~4,530 |
-| The American Dream | 19.00% | ~3,443 |
+| Getting Started | 81.00% | ~14,680 |
+| Pay 'n' Spray | 50.00% | ~9,062 |
+| All Dressed Up for San Fierro | 25.00% | ~4,531 |
+| The American Dream | 19.00% | ~3,444 |
 | School's Out | 18.00% | ~3,262 |
 | Smooth Moves | 17.00% | ~3,081 |
-| Today Was a Good Day | 15.00% | ~2,718 |
+| Today Was a Good Day | 15.00% | ~2,719 |
 | What happens in Las Venturas... | 14.00% | ~2,537 |
 | Horror of the Santa Maria | 10.00% | ~1,812 |
 | Liberty City State of Mind | 9.00% | ~1,631 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 522)
 | ...Here we go again | 0.50% | ~91 |
 | I Ain't No Buster | 0.40% | ~72 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,122 (Ranked 157)  
+Progressed: 18,124 (Ranked 157)  
 Completed: 70 (0.39%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,16 +299,16 @@ Completed: 70 (0.39%) (Ranked 234)
 | 2023-12-31 | 17,792 | 67 |
 | 2024-01-01 | 17,956 | 69 |
 | 2024-01-02 | 18,093 | 70 |
-| 2024-01-03 | 18,122 | 70 |
+| 2024-01-03 | 18,124 | 70 |
 ## Awards
-Max (Relaxing): 49  (Ranked 457)  
-Sum: 326 (Ranked 373)  
-Diff (max vs sum): 84  
+Max (Amazing Characters): 50  (Ranked 452)  
+Sum: 328 (Ranked 373)  
+Diff (max vs sum): 79  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 557 |
+| This game has Amazing Characters | 50 |
 | This game is Relaxing | 49 |
-| This game has Amazing Characters | 48 |
 | This game is Great for Beginners | 45 |
 | This game has Amazing Storytelling | 42 |
 | This game is Highly Recommended | 42 |
@@ -538,4 +538,4 @@ Diff (max vs sum): 84
 | 2023-12-31 | 4.55 | 557 | 871 |
 | 2024-01-01 | 4.55 | 49 | 320 |
 | 2024-01-02 | 4.55 | 49 | 324 |
-| 2024-01-03 | 4.55 | 49 | 326 |
+| 2024-01-03 | 4.55 | 50 | 328 |

@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Land of the Rising Sun | 100.00% | ~1,090 |
-| Hidden History | 71.00% | ~774 |
+| Hidden History | 72.00% | ~785 |
 | Commencing of Quests | 61.00% | ~665 |
 | Budding Conjuror | 59.00% | ~643 |
 | Man-Machine Master | 49.00% | ~534 |
@@ -33,7 +33,7 @@
 | Team Hunter | 19.00% | ~207 |
 | Reincarnation Cycle Stopper | 19.00% | ~207 |
 | Karakuri Isle | 18.00% | ~196 |
-| Human Believer | 16.00% | ~174 |
+| Human Believer | 17.00% | ~185 |
 | Left Arm Leverager | 15.00% | ~164 |
 | Style Seeker | 15.00% | ~164 |
 | Unrivaled in Arms | 15.00% | ~164 |

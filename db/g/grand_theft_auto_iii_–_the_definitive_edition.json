@@ -679,9 +679,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11420,
+  "EOS_Progressed": 11421,
   "EOS_Completed": 72,
-  "EOS_NewPlayers": 662,
+  "EOS_NewPlayers": 659,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -14554,6 +14554,11 @@
       "Time": "2024-01-03T07:06:12.5260566+00:00",
       "NumProgressed": 11420,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2024-01-03T09:07:07.3736201+00:00",
+      "NumProgressed": 11421,
+      "NumCompleted": 72
     }
   ],
   "TotalAchievements": 29,
@@ -14669,7 +14674,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1941
+      "UsersEstimate": 1942
     },
     {
       "ID": "ACH15",
@@ -14749,7 +14754,7 @@
       "Name": "Dirty Money",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1370
+      "UsersEstimate": 1371
     },
     {
       "ID": "ACH25",
@@ -14796,7 +14801,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 11420,
+      "Progressed": 11421,
       "Completed": 72
     }
   ],
@@ -14804,8 +14809,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-02T18:57:54.9669165+00:00",
-  "LastChanged_Achievements": "2024-01-03T08:07:31.2621853+00:00",
+  "LastChanged_Achievements": "2024-01-03T09:07:07.3736196+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:06.0840087+00:00",
-  "LastUpdate_Ratings": "2024-01-03T07:58:08.0187441+00:00",
-  "LastUpdate_Achievements": "2024-01-03T08:07:31.2622954+00:00"
+  "LastUpdate_Ratings": "2024-01-03T08:58:16.3850978+00:00",
+  "LastUpdate_Achievements": "2024-01-03T09:07:07.3737106+00:00"
 }

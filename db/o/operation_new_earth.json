@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2162,
+  "EOS_Progressed": 2163,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -8315,6 +8315,11 @@
       "Time": "2024-01-03T08:03:48.6023626+00:00",
       "NumProgressed": 2162,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-03T09:04:06.1994988+00:00",
+      "NumProgressed": 2163,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8358,7 +8363,7 @@
       "Name": "Gold Achiever",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ach_gold_rewards_25",
@@ -8430,7 +8435,7 @@
       "Name": "Facility Online",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -8502,7 +8507,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -8510,7 +8515,7 @@
       "Name": "Covert Operative",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -8542,7 +8547,7 @@
       "Name": "Resourceful",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "objective_key_objectives_completed_2",
@@ -8582,7 +8587,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -8629,7 +8634,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2162,
+      "Progressed": 2163,
       "Completed": 1
     }
   ],
@@ -8637,8 +8642,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-25T23:58:10.3014256+00:00",
-  "LastChanged_Achievements": "2024-01-03T08:03:48.6023623+00:00",
+  "LastChanged_Achievements": "2024-01-03T09:04:06.1994984+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:25.9392392+00:00",
-  "LastUpdate_Ratings": "2024-01-03T07:59:12.5926443+00:00",
-  "LastUpdate_Achievements": "2024-01-03T08:03:48.602425+00:00"
+  "LastUpdate_Ratings": "2024-01-03T08:59:07.9896359+00:00",
+  "LastUpdate_Achievements": "2024-01-03T09:04:06.1995849+00:00"
 }

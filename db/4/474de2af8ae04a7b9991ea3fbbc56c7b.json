@@ -4,7 +4,7 @@
   "ProductSlug": "counterattackuprising-06aed8",
   "Ranking_EOS_Progress": 754,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewPlayers": 571,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2024-01-11T08:00:00+00:00",
@@ -240,8 +240,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-12T23:09:03.0564734+00:00",
-  "LastChanged_Achievements": "2024-01-03T08:09:38.0982343+00:00",
+  "LastChanged_Achievements": "2024-01-03T09:09:47.193045+00:00",
   "LastUpdate_AppInfo": "2024-01-01T01:53:25.2143596+00:00",
-  "LastUpdate_Ratings": "2024-01-03T07:59:45.7400352+00:00",
-  "LastUpdate_Achievements": "2024-01-03T08:09:38.0982661+00:00"
+  "LastUpdate_Ratings": "2024-01-03T08:59:33.5936337+00:00",
+  "LastUpdate_Achievements": "2024-01-03T09:09:47.1930577+00:00"
 }

@@ -1,7 +1,7 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.65 (Ranked 320)  
+Rating: 4.65 (Ranked 321)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -15,13 +15,13 @@ Rating: 4.65 (Ranked 320)
 | No, Thanks! | 25.00% | ~302 |
 | The Prince in Heels | 25.00% | ~302 |
 | Honest Mistake | 25.00% | ~302 |
-| The Harder They Fall | 24.00% | ~289 |
-| Fast Learner | 24.00% | ~289 |
-| Immaculate Aim | 24.00% | ~289 |
-| The Steel Shadow | 23.00% | ~277 |
-| Breaking Down Barriers | 23.00% | ~277 |
-| Right On Time | 22.00% | ~265 |
-| The Wicked Twins | 22.00% | ~265 |
+| The Harder They Fall | 24.00% | ~290 |
+| Fast Learner | 24.00% | ~290 |
+| Immaculate Aim | 24.00% | ~290 |
+| The Steel Shadow | 23.00% | ~278 |
+| Breaking Down Barriers | 23.00% | ~278 |
+| Right On Time | 22.00% | ~266 |
+| The Wicked Twins | 22.00% | ~266 |
 | Like Clockwork | 21.00% | ~253 |
 | The Betrayer | 21.00% | ~253 |
 | Golem Chaser | 21.00% | ~253 |
@@ -43,8 +43,8 @@ Rating: 4.65 (Ranked 320)
 | Fairgrounds Explorer | 10.00% | ~121 |
 | Theater Explorer | 10.00% | ~121 |
 | Cultivair Explorer | 9.00% | ~109 |
-| Corin Goes Home | 8.00% | ~96 |
-| Entresol Explorer | 8.00% | ~96 |
+| Corin Goes Home | 8.00% | ~97 |
+| Entresol Explorer | 8.00% | ~97 |
 | Sartorialist | 7.00% | ~84 |
 | Golem Hunter | 7.00% | ~84 |
 | Clovemary for Remembering | 6.00% | ~72 |
@@ -59,7 +59,7 @@ Rating: 4.65 (Ranked 320)
 | Raw Talent | 0.60% | ~7 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,206 (Ranked 280)  
+Progressed: 1,207 (Ranked 280)  
 Completed: 6 (0.50%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 6 (0.50%) (Ranked 219)
 | 2023-12-31 | 1,175 | 6 |
 | 2024-01-01 | 1,190 | 6 |
 | 2024-01-02 | 1,201 | 6 |
-| 2024-01-03 | 1,206 | 6 |
+| 2024-01-03 | 1,207 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

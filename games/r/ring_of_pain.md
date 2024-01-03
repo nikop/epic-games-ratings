@@ -42,6 +42,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Flesh Wound | 0.70% | ~1,696 |
 | Consecutive Curses | 0.60% | ~1,454 |
 | Who To Trust? | 0.60% | ~1,454 |
+| Save Our Souls | 0.60% | ~1,454 |
 | Destroy Your Fears | 0.60% | ~1,454 |
 | New Perspectives | 0.60% | ~1,454 |
 | Shapeshifting | 0.60% | ~1,454 |
@@ -50,7 +51,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | To The Death! | 0.50% | ~1,211 |
 | Well Prepared | 0.50% | ~1,211 |
 | Just Chilling | 0.50% | ~1,211 |
-| Save Our Souls | 0.50% | ~1,211 |
 | Don't Ignore Me! | 0.50% | ~1,211 |
 | All Consuming | 0.50% | ~1,211 |
 | Stop Hitting Yourself | 0.50% | ~1,211 |
@@ -90,6 +90,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Soul Stash | 0.20% | ~485 |
 | Willing the World | 0.20% | ~485 |
 | Gigantic | 0.20% | ~485 |
+| Power Score | 0.20% | ~485 |
 | Predator | 0.20% | ~485 |
 | Resourceful | 0.20% | ~485 |
 | Become The Nightmare | 0.20% | ~485 |
@@ -107,7 +108,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | A Hard Carry | 0.10% | ~242 |
 | Powerful Potion | 0.10% | ~242 |
 | For Science | 0.10% | ~242 |
-| Power Score | 0.10% | ~242 |
 | Here Comes The Airplane | 0.10% | ~242 |
 | Blizzard | 0.10% | ~242 |
 | The Boulder | 0.10% | ~242 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,265 (Ranked 72)  
+Progressed: 242,266 (Ranked 72)  
 Completed: 303 (0.13%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -403,7 +403,7 @@ Completed: 303 (0.13%) (Ranked 295)
 | 2023-12-31 | 242,129 | 302 |
 | 2024-01-01 | 242,196 | 302 |
 | 2024-01-02 | 242,247 | 303 |
-| 2024-01-03 | 242,265 | 303 |
+| 2024-01-03 | 242,266 | 303 |
 ## Awards
 Max (Quickly Understood Controls): 1,513  (Ranked 136)  
 Sum: 11,781 (Ranked 88)  

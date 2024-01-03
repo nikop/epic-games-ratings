@@ -16,7 +16,7 @@
 | Noctuan Champion | 35.00% | ~107 |
 | Astral Adventurer | 33.00% | ~101 |
 | Anomaly Destroyer | 31.00% | ~95 |
-| Star Killer | 28.00% | ~86 |
+| Star Killer | 29.00% | ~89 |
 | Eridanian Champion | 25.00% | ~76 |
 | Loyal Partner | 21.00% | ~64 |
 | Lacertian Champion | 21.00% | ~64 |

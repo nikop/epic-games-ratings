@@ -2,7 +2,7 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_Rating": 320,
+  "Ranking_Rating": 321,
   "Ranking_Popularity": 578,
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 280,
@@ -51,7 +51,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1206,
+  "EOS_Progressed": 1207,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
@@ -3511,6 +3511,11 @@
       "Time": "2024-01-03T04:10:09.2724395+00:00",
       "NumProgressed": 1206,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-03T09:10:49.6338274+00:00",
+      "NumProgressed": 1207,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3530,7 +3535,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -3554,7 +3559,7 @@
       "Name": "Right On Time",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ClockworkCompletion1",
@@ -3562,7 +3567,7 @@
       "Name": "Corin Goes Home",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ClockworkProgress1",
@@ -3610,7 +3615,7 @@
       "Name": "Entresol Explorer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ExamineFamilyPortrait",
@@ -3770,7 +3775,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "ParryRepeated1",
@@ -3786,7 +3791,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -3794,7 +3799,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "PidgeDefeated",
@@ -3850,7 +3855,7 @@
       "Name": "Fast Learner",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "SpeedRun",
@@ -3906,7 +3911,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "WatcherFought",
@@ -3945,7 +3950,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1206,
+      "Progressed": 1207,
       "Completed": 6
     }
   ],
@@ -3953,8 +3958,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2024-01-03T08:10:51.6915064+00:00",
+  "LastChanged_Achievements": "2024-01-03T09:10:49.6338273+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:23.9308133+00:00",
-  "LastUpdate_Ratings": "2024-01-03T08:02:57.5836183+00:00",
-  "LastUpdate_Achievements": "2024-01-03T08:10:51.6915577+00:00"
+  "LastUpdate_Ratings": "2024-01-03T09:03:24.7372018+00:00",
+  "LastUpdate_Achievements": "2024-01-03T09:10:49.633871+00:00"
 }

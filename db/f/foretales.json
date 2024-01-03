@@ -4,7 +4,7 @@
   "ProductSlug": "foretales-d6c5bd",
   "Ranking_EOS_Progress": 396,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 460,
+  "Ranking_EOS_NewPlayers": 459,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-09-15T13:00:00+00:00",
@@ -555,9 +555,9 @@
       "ID": "theUnionLeader",
       "SetID": "5bkacmp",
       "Name": "Gorilla warfare",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 172
     },
     {
       "ID": "trialByCombat",
@@ -596,8 +596,8 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
   "LastChanged": "2023-03-31T05:57:28.024543+00:00",
-  "LastChanged_Achievements": "2024-01-03T08:06:00.745965+00:00",
+  "LastChanged_Achievements": "2024-01-03T09:05:52.3770665+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:47.02679+00:00",
-  "LastUpdate_Ratings": "2024-01-03T07:59:50.1292615+00:00",
-  "LastUpdate_Achievements": "2024-01-03T08:06:00.7459872+00:00"
+  "LastUpdate_Ratings": "2024-01-03T08:59:37.18106+00:00",
+  "LastUpdate_Achievements": "2024-01-03T09:05:52.3770914+00:00"
 }

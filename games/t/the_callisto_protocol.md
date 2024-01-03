@@ -7,24 +7,24 @@ Rating: 4.21 (Ranked 946)
 | ---- | ---------- | ----- |
 | Flesh Wound | 22.00% | ~4,560 |
 | The Outer Way | 22.00% | ~4,560 |
-| Desperate Times | 21.00% | ~4,352 |
-| Get a Grip | 19.00% | ~3,938 |
-| Paper Jams | 19.00% | ~3,938 |
-| Chew 'Em Up | 17.00% | ~3,523 |
-| Reforged | 16.00% | ~3,316 |
+| Desperate Times | 21.00% | ~4,353 |
+| Get a Grip | 19.00% | ~3,939 |
+| Paper Jams | 19.00% | ~3,939 |
+| Chew 'Em Up | 17.00% | ~3,524 |
+| Reforged | 16.00% | ~3,317 |
 | Float Like A Butterfly | 15.00% | ~3,109 |
 | Workplace Hazard | 14.00% | ~2,902 |
 | If the SHU Fits... | 14.00% | ~2,902 |
 | Without A Paddle | 12.00% | ~2,487 |
-| Two Heads Are Better Than One | 10.00% | ~2,072 |
-| In the Pipe, Five by Five | 10.00% | ~2,072 |
-| Crash Site | 10.00% | ~2,072 |
-| Terminated | 9.00% | ~1,865 |
-| Power Up | 9.00% | ~1,865 |
+| Two Heads Are Better Than One | 10.00% | ~2,073 |
+| In the Pipe, Five by Five | 10.00% | ~2,073 |
+| Crash Site | 10.00% | ~2,073 |
+| Terminated | 9.00% | ~1,866 |
+| Full Circle | 9.00% | ~1,866 |
+| Power Up | 9.00% | ~1,866 |
 | Giving Back | 8.00% | ~1,658 |
 | You Need a Gun | 8.00% | ~1,658 |
 | What Lies Beneath | 8.00% | ~1,658 |
-| Full Circle | 8.00% | ~1,658 |
 | I Do Belong Here | 7.00% | ~1,451 |
 | Keep Fighting | 7.00% | ~606 |
 | The Commonality | 5.00% | ~1,036 |
@@ -40,7 +40,7 @@ Rating: 4.21 (Ranked 946)
 | Parole Denied | 0.80% | ~69 |
 | Information Overload | 0.80% | ~69 |
 | Quick Pick | 0.70% | ~61 |
-| Subject Alpha | 0.60% | ~52 |
+| Subject Alpha | 0.50% | ~43 |
 | The Protocol is About Life | 0.30% | ~62 |
 | Hoard Mode | 0.30% | ~26 |
 | Don't Let It Mellow | 0.30% | ~26 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 946)
 | Big Game Hunter | 0.10% | ~9 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,725 (Ranked 150)  
+Progressed: 20,729 (Ranked 150)  
 Completed: 82 (0.40%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 82 (0.40%) (Ranked 232)
 | 2023-12-31 | 20,337 | 82 |
 | 2024-01-01 | 20,521 | 82 |
 | 2024-01-02 | 20,695 | 82 |
-| 2024-01-03 | 20,725 | 82 |
+| 2024-01-03 | 20,729 | 82 |
 ## Awards
 Max (Amazing Characters): 111  (Ranked 361)  
 Sum: 559 (Ranked 326)  

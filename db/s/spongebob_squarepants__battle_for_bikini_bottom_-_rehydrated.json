@@ -2,7 +2,7 @@
   "ID": "b3d490d845c040ee82fd02f400ab0efc",
   "Name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
   "ProductSlug": "spongebob-squarepants-battle-for-bikini-bottom-rehydrated",
-  "Ranking_Rating": 320,
+  "Ranking_Rating": 321,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 322,
@@ -2026,9 +2026,9 @@
       "ID": "ACH_STAT_75_SPATULA_SEEKER",
       "SetID": "biiejkc",
       "Name": "Mega Spatula Seeker",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_STAT_COLLECT_SOCKS",
@@ -2098,8 +2098,8 @@
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-01T20:58:26.8279253+00:00",
-  "LastChanged_Achievements": "2024-01-03T08:04:37.093226+00:00",
+  "LastChanged_Achievements": "2024-01-03T09:04:46.2145346+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:11.8880921+00:00",
-  "LastUpdate_Ratings": "2024-01-03T08:00:01.6819127+00:00",
-  "LastUpdate_Achievements": "2024-01-03T08:04:37.0932482+00:00"
+  "LastUpdate_Ratings": "2024-01-03T08:59:45.6586056+00:00",
+  "LastUpdate_Achievements": "2024-01-03T09:04:46.2145582+00:00"
 }

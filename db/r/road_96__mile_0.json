@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 617,
+  "EOS_Progressed": 618,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 1,
@@ -2227,6 +2227,11 @@
       "Time": "2024-01-02T23:10:41.9267103+00:00",
       "NumProgressed": 617,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-03T09:10:41.8128071+00:00",
+      "NumProgressed": 618,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -2244,9 +2249,9 @@
       "ID": "completeact2",
       "SetID": "40n95i5",
       "Name": "Conspiracy Theorist",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 80,
-      "UsersEstimate": 247
+      "UsersEstimate": 241
     },
     {
       "ID": "completeact3",
@@ -2278,7 +2283,7 @@
       "Name": "Truthseeker",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "scoreminrankrb2",
@@ -2357,7 +2362,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 617,
+      "Progressed": 618,
       "Completed": 3
     }
   ],
@@ -2365,8 +2370,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-03T08:10:42.6084157+00:00",
+  "LastChanged_Achievements": "2024-01-03T09:10:41.812807+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:00.0371084+00:00",
-  "LastUpdate_Ratings": "2024-01-03T08:00:29.1883544+00:00",
-  "LastUpdate_Achievements": "2024-01-03T08:10:42.6084461+00:00"
+  "LastUpdate_Ratings": "2024-01-03T09:00:08.5919103+00:00",
+  "LastUpdate_Achievements": "2024-01-03T09:10:41.8128331+00:00"
 }

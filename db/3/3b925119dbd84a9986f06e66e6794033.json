@@ -4,7 +4,7 @@
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -2148,9 +2148,9 @@
       "ID": "RISKYTEXT_BOOST_VOTE",
       "SetID": "9j9h72e",
       "Name": "FixyText: Pump It Up",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 126
+      "UsersEstimate": 133
     },
     {
       "ID": "RISKYTEXT_ONE_WORD_GETS_VOTES_FROM_ALL_VOTING_PLAYERS",
@@ -2251,8 +2251,8 @@
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2024-01-03T08:10:31.8313119+00:00",
+  "LastChanged_Achievements": "2024-01-03T09:10:32.772591+00:00",
   "LastUpdate_AppInfo": "2023-12-30T02:16:13.4108208+00:00",
-  "LastUpdate_Ratings": "2024-01-03T07:59:17.8290694+00:00",
-  "LastUpdate_Achievements": "2024-01-03T08:10:31.8313369+00:00"
+  "LastUpdate_Ratings": "2024-01-03T08:59:12.2746088+00:00",
+  "LastUpdate_Achievements": "2024-01-03T09:10:32.772613+00:00"
 }

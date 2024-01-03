@@ -23,10 +23,10 @@
 | The seer | 16.00% | ~12 |
 | Et in arcadia ego | 14.00% | ~11 |
 | You had one wish left | 13.00% | ~10 |
+| Kirlian's best disciple | 13.00% | ~10 |
+| Welcome to Hellville | 13.00% | ~10 |
 | You've awakened the beast | 12.00% | ~9 |
 | Hate is... addictive | 12.00% | ~9 |
-| Kirlian's best disciple | 12.00% | ~9 |
-| Welcome to Hellville | 12.00% | ~9 |
 | Blood Red Island | 10.00% | ~8 |
 | Bread and bocaua | 10.00% | ~8 |
 | Fanatacism is... poisonous | 10.00% | ~8 |

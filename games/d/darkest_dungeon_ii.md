@@ -32,22 +32,22 @@ Number of Ratings: 7,767  (23.09.2022)
 | FNG | 4.00% | ~5,257 |
 | Nope | 4.00% | ~5,257 |
 | Friends 'Til the End | 4.00% | ~251 |
-| Resurrection | 3.00% | ~3,942 |
-| Unleash Hell | 3.00% | ~3,942 |
-| Funny Guy | 3.00% | ~3,942 |
-| Long Live the King | 3.00% | ~3,942 |
-| Wyrdly Reconstructed | 3.00% | ~3,942 |
-| Boxcar Kid | 3.00% | ~3,942 |
-| Unfulfilled Desires | 3.00% | ~3,942 |
-| Dissector | 3.00% | ~3,942 |
-| Banishment | 3.00% | ~3,942 |
-| Deprogramming | 3.00% | ~3,942 |
-| Now Stay Dead | 3.00% | ~3,942 |
-| Spelunker | 3.00% | ~3,942 |
-| Ramble On | 3.00% | ~3,942 |
-| A Clear Conscience | 3.00% | ~3,942 |
-| Unshackled | 3.00% | ~3,942 |
-| Road Trip | 3.00% | ~3,942 |
+| Resurrection | 3.00% | ~3,943 |
+| Unleash Hell | 3.00% | ~3,943 |
+| Funny Guy | 3.00% | ~3,943 |
+| Long Live the King | 3.00% | ~3,943 |
+| Wyrdly Reconstructed | 3.00% | ~3,943 |
+| Boxcar Kid | 3.00% | ~3,943 |
+| Unfulfilled Desires | 3.00% | ~3,943 |
+| Dissector | 3.00% | ~3,943 |
+| Banishment | 3.00% | ~3,943 |
+| Deprogramming | 3.00% | ~3,943 |
+| Now Stay Dead | 3.00% | ~3,943 |
+| Spelunker | 3.00% | ~3,943 |
+| Ramble On | 3.00% | ~3,943 |
+| A Clear Conscience | 3.00% | ~3,943 |
+| Unshackled | 3.00% | ~3,943 |
+| Road Trip | 3.00% | ~3,943 |
 | This Looks Familiar | 2.00% | ~2,628 |
 | Hope Rekindled | 2.00% | ~2,628 |
 | Predator | 2.00% | ~2,628 |
@@ -69,7 +69,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Triage | 0.80% | ~1,051 |
 | No Mercy | 0.80% | ~50 |
 | Et Tu, Riposte? | 0.80% | ~50 |
-| The World As It Was | 0.60% | ~788 |
+| The World As It Was | 0.60% | ~789 |
 | A Life Well Lived | 0.50% | ~657 |
 | Bacon Bits | 0.50% | ~657 |
 | On This Long Road, We Found Redemption | 0.50% | ~31 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,414 (Ranked 90)  
+Progressed: 131,417 (Ranked 90)  
 Completed: 3 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,7 +334,7 @@ Completed: 3 (0.00%) (Ranked 390)
 | 2023-12-31 | 131,026 | 3 |
 | 2024-01-01 | 131,206 | 3 |
 | 2024-01-02 | 131,365 | 3 |
-| 2024-01-03 | 131,414 | 3 |
+| 2024-01-03 | 131,417 | 3 |
 ## Awards
 Max (Character Customization): 7,927  (Ranked 50)  
 Sum: 21,355 (Ranked 58)  

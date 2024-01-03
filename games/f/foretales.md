@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Caged tiger | 63.00% | ~184 |
-| Gorilla warfare | 58.00% | ~169 |
+| Gorilla warfare | 59.00% | ~172 |
 | Isenburg's fall | 48.00% | ~140 |
 | Pieces of eight! | 41.00% | ~120 |
 | Elephant in the room | 31.00% | ~91 |

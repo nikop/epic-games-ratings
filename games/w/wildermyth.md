@@ -33,6 +33,7 @@ Number of Ratings: 45  (23.09.2022)
 | Some Say I'm Too Flashy | 0.80% | ~13 |
 | No Time for Clawmonsters | 0.80% | ~13 |
 | Plague Doctor | 0.70% | ~11 |
+| Bears are Scary | 0.70% | ~11 |
 | Astrology | 0.70% | ~11 |
 | Storied Past | 0.60% | ~10 |
 | Worldwalker | 0.60% | ~10 |
@@ -40,7 +41,6 @@ Number of Ratings: 45  (23.09.2022)
 | A Hunger, Sated | 0.60% | ~10 |
 | Wingknight's Prowess | 0.60% | ~10 |
 | All My Birds, Safely Home | 0.60% | ~10 |
-| Bears are Scary | 0.60% | ~10 |
 | Into Mulch | 0.60% | ~10 |
 | Tempest | 0.60% | ~10 |
 | We Emerge Changed | 0.50% | ~8 |

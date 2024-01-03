@@ -305,11 +305,11 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 303,
+  "EOS_Progressed": 304,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 1.65,
+  "EOS_Completed_Percentage": 1.64,
   "EosHistory": [
     {
       "Time": "2023-12-18T10:04:38.3586261+00:00",
@@ -1320,6 +1320,11 @@
       "Time": "2024-01-03T07:08:25.373564+00:00",
       "NumProgressed": 303,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-03T09:09:02.2519279+00:00",
+      "NumProgressed": 304,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -1332,7 +1337,7 @@
       "Name": "Fly Me to the Moon Base",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ACH_ABILITY_ABDUCTOBEAMCOW",
@@ -1428,7 +1433,7 @@
       "Name": "Ouch of Body Experience",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_CHALLENGE_ANY",
@@ -1458,9 +1463,9 @@
       "ID": "ACH_CHALLENGE_RAMPAGETHREESTAR",
       "SetID": "cefn62b",
       "Name": "If You Know What I Mean",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 52
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_CHALLENGE_THREESTARSEVERYWHERE",
@@ -1484,7 +1489,7 @@
       "Name": "Earthly Pleasures",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_COLLECT_BRAINWHILEDAMAGED",
@@ -1492,7 +1497,7 @@
       "Name": "Kaijuiced",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ACH_COLLECT_PROBE",
@@ -1508,7 +1513,7 @@
       "Name": "Die Nasty",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_ENEMY_KILLARMQUIST",
@@ -1516,7 +1521,7 @@
       "Name": "Albion Bridge Is for Falling Down",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_ENEMY_KILLROBOPREZ",
@@ -1556,7 +1561,7 @@
       "Name": "Hidden Human Hive Harvest",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_INVADE_ROCKWELL",
@@ -1580,7 +1585,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "ACH_INVADE_UNIONTOWN",
@@ -1588,7 +1593,7 @@
       "Name": "Mash Machine",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_JETPACK_INTODONUT",
@@ -1620,7 +1625,7 @@
       "Name": "Dusted",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_UPGRADE_CRYPTO",
@@ -1636,7 +1641,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ACH_UPGRADE_TOPTIER",
@@ -1651,15 +1656,15 @@
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 303,
+      "Progressed": 304,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2024-01-02T13:57:49.2378657+00:00",
-  "LastChanged_Achievements": "2024-01-03T08:08:44.6731028+00:00",
+  "LastChanged_Achievements": "2024-01-03T09:09:02.2519277+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:06.6677344+00:00",
-  "LastUpdate_Ratings": "2024-01-03T07:58:08.7227086+00:00",
-  "LastUpdate_Achievements": "2024-01-03T08:08:44.673141+00:00"
+  "LastUpdate_Ratings": "2024-01-03T08:58:16.934139+00:00",
+  "LastUpdate_Achievements": "2024-01-03T09:09:02.2519569+00:00"
 }

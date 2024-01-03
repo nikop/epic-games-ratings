@@ -2,7 +2,7 @@
   "ID": "6feac7e685174dd698e90ca9536e1299",
   "Name": "Skul: The Hero Slayer",
   "ProductSlug": "skul-the-hero-slayer",
-  "Ranking_Rating": 162,
+  "Ranking_Rating": 146,
   "Ranking_Popularity": 328,
   "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 174,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.74,
+  "Rating": 4.75,
   "NumberOfRatings": 546,
   "RatingHistory": [
     {
@@ -1287,10 +1287,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 984,
       "NumberOfAwardsMax": 147
+    },
+    {
+      "Time": "2024-01-03T09:01:03.825381+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 986,
+      "NumberOfAwardsMax": 147
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 984,
+  "NumberOfAwards": 986,
   "NumberOfAwardsMax": 147,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1322,7 +1328,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 110
+      "Count": 112
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1361,9 +1367,9 @@
       "Count": 147
     }
   ],
-  "EOS_Progressed": 13621,
+  "EOS_Progressed": 13626,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 945,
+  "EOS_NewPlayers": 940,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -8556,6 +8562,11 @@
       "Time": "2024-01-03T07:09:06.8312314+00:00",
       "NumProgressed": 13621,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2024-01-03T09:09:48.9051754+00:00",
+      "NumProgressed": 13626,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 24,
@@ -8567,7 +8578,7 @@
       "Name": "Brain at Full Throttle",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2724
+      "UsersEstimate": 2725
     },
     {
       "ID": "Chatterbox",
@@ -8591,7 +8602,7 @@
       "Name": "Focus!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 8173
+      "UsersEstimate": 8176
     },
     {
       "ID": "DemonCastleRestoration",
@@ -8607,7 +8618,7 @@
       "Name": "The Dwarven Chandelier",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1362
+      "UsersEstimate": 1363
     },
     {
       "ID": "FakeGoddessGone",
@@ -8615,7 +8626,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 5312
+      "UsersEstimate": 5314
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -8623,7 +8634,7 @@
       "Name": "Deadly Power",
       "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 2043
+      "UsersEstimate": 2044
     },
     {
       "ID": "FirstHeroLastBattle",
@@ -8631,7 +8642,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 3541
+      "UsersEstimate": 3543
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -8647,7 +8658,7 @@
       "Name": "Go Home...",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 3678
+      "UsersEstimate": 3679
     },
     {
       "ID": "HeroSlayer",
@@ -8655,7 +8666,7 @@
       "Name": "The Hero Killer",
       "Percentage": 24,
       "XP": 90,
-      "UsersEstimate": 3269
+      "UsersEstimate": 3270
     },
     {
       "ID": "LeoniasFall",
@@ -8663,7 +8674,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 4086
+      "UsersEstimate": 4088
     },
     {
       "ID": "LeoniasFall_2",
@@ -8671,7 +8682,7 @@
       "Name": "The Levitator",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     },
     {
       "ID": "Manners",
@@ -8679,7 +8690,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 5040
+      "UsersEstimate": 5042
     },
     {
       "ID": "RookieWelcome",
@@ -8687,7 +8698,7 @@
       "Name": "Rookies Welcome",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2452
+      "UsersEstimate": 2453
     },
     {
       "ID": "SavedElderEnt",
@@ -8695,7 +8706,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 8309
+      "UsersEstimate": 8312
     },
     {
       "ID": "SavedElderEnt_2",
@@ -8703,7 +8714,7 @@
       "Name": "Quick Movements",
       "Percentage": 30,
       "XP": 90,
-      "UsersEstimate": 4086
+      "UsersEstimate": 4088
     },
     {
       "ID": "SkeletonKing",
@@ -8719,7 +8730,7 @@
       "Name": "Inventory Management",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 4223
+      "UsersEstimate": 4224
     },
     {
       "ID": "TheLegendBegins",
@@ -8727,7 +8738,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 12668
+      "UsersEstimate": 12672
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -8735,7 +8746,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 6402
+      "UsersEstimate": 6404
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -8751,22 +8762,22 @@
       "Name": "What should I buy?",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 11033
+      "UsersEstimate": 11037
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 13621,
+      "Progressed": 13626,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
-  "LastChanged": "2024-01-02T21:00:29.3169253+00:00",
-  "LastChanged_Achievements": "2024-01-03T08:09:40.0044045+00:00",
+  "LastChanged": "2024-01-03T09:01:03.8253808+00:00",
+  "LastChanged_Achievements": "2024-01-03T09:09:48.9051751+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:27.9431294+00:00",
-  "LastUpdate_Ratings": "2024-01-03T08:01:34.9033077+00:00",
-  "LastUpdate_Achievements": "2024-01-03T08:09:40.0044666+00:00"
+  "LastUpdate_Ratings": "2024-01-03T09:01:03.8253813+00:00",
+  "LastUpdate_Achievements": "2024-01-03T09:09:48.9052564+00:00"
 }

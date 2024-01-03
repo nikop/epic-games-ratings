@@ -4,7 +4,7 @@
   "ProductSlug": "monster-harvest-75f018",
   "Ranking_EOS_Progress": 381,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 417,
+  "Ranking_EOS_NewPlayers": 405,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-11-03T14:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 327,
+  "EOS_Progressed": 328,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.06,
+  "EOS_Completed_Percentage": 3.05,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:24.8770575+00:00",
@@ -570,6 +570,11 @@
       "Time": "2024-01-03T01:55:39.0461365+00:00",
       "NumProgressed": 327,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-03T09:10:25.8870863+00:00",
+      "NumProgressed": 328,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 10,
@@ -589,7 +594,7 @@
       "Name": "Furniture in the Forest!",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "GREEN_SLIME_SHEEN",
@@ -597,7 +602,7 @@
       "Name": "Green Sheen",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "LETS_GET_FISHY",
@@ -651,16 +656,16 @@
       "ID": "WELCOME_TO_PLANIMAL_POINT",
       "SetID": "ca3djk0",
       "Name": "Welcome To Planimal Point",
-      "Percentage": 96,
+      "Percentage": 95,
       "XP": 100,
-      "UsersEstimate": 314
+      "UsersEstimate": 312
     }
   ],
   "AchievementSets": [
     {
       "ID": "ca3djk0",
       "IsBase": true,
-      "Progressed": 327,
+      "Progressed": 328,
       "Completed": 10
     }
   ],
@@ -668,8 +673,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.9307508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.8770583+00:00",
   "LastChanged": "2023-03-31T05:58:23.9307509+00:00",
-  "LastChanged_Achievements": "2024-01-03T08:10:23.81738+00:00",
+  "LastChanged_Achievements": "2024-01-03T09:10:25.8870859+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:24.2662149+00:00",
-  "LastUpdate_Ratings": "2024-01-03T07:58:06.9204234+00:00",
-  "LastUpdate_Achievements": "2024-01-03T08:10:23.817392+00:00"
+  "LastUpdate_Ratings": "2024-01-03T08:58:15.5293109+00:00",
+  "LastUpdate_Achievements": "2024-01-03T09:10:25.8870982+00:00"
 }

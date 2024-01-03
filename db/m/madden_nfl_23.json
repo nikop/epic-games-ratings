@@ -1021,9 +1021,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4297,
+  "EOS_Progressed": 4298,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8211,6 +8211,11 @@
       "Time": "2024-01-03T08:07:36.8947448+00:00",
       "NumProgressed": 4297,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T09:07:11.9725814+00:00",
+      "NumProgressed": 4298,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -8231,7 +8236,7 @@
       "Name": "Bragging Rights",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 2363
+      "UsersEstimate": 2364
     },
     {
       "ID": "achievement_11",
@@ -8239,7 +8244,7 @@
       "Name": "Future of the Franchise",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "achievement_12",
@@ -8255,7 +8260,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 2277
+      "UsersEstimate": 2278
     },
     {
       "ID": "achievement_14",
@@ -8271,7 +8276,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 2320
+      "UsersEstimate": 2321
     },
     {
       "ID": "achievement_16",
@@ -8335,7 +8340,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "achievement_4",
@@ -8351,7 +8356,7 @@
       "Name": "Already in Progress",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "achievement_6",
@@ -8390,7 +8395,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 4297,
+      "Progressed": 4298,
       "Completed": 0
     }
   ],
@@ -8398,8 +8403,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2024-01-02T21:02:50.1835455+00:00",
-  "LastChanged_Achievements": "2024-01-03T08:07:36.8947444+00:00",
+  "LastChanged_Achievements": "2024-01-03T09:07:11.9725812+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.7364021+00:00",
-  "LastUpdate_Ratings": "2024-01-03T08:02:49.7529499+00:00",
-  "LastUpdate_Achievements": "2024-01-03T08:07:36.894793+00:00"
+  "LastUpdate_Ratings": "2024-01-03T09:03:18.4308371+00:00",
+  "LastUpdate_Achievements": "2024-01-03T09:07:11.9726393+00:00"
 }

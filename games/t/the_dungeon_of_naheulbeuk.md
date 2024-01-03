@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~88,667 |
+| Sowwy! | 36.00% | ~88,669 |
 | Alt+F4 | 10.00% | ~24,630 |
 | Where's that freaking Dwarf? | 9.00% | ~22,167 |
 | Déjà vu | 8.00% | ~19,704 |
@@ -51,7 +51,7 @@ Number of Ratings: 118  (23.09.2022)
 | An old poacher makes the best gamekeeper | 0.70% | ~1,724 |
 | Scholar of the Lands of Fangh | 0.60% | ~1,478 |
 | Law and Order | 0.60% | ~1,478 |
-| It's been a hard day's night | 0.50% | ~1,231 |
+| It's been a hard day's night | 0.50% | ~1,232 |
 | Friendly fire | 0.40% | ~985 |
 | I'd rather... Just... Sing! | 0.40% | ~985 |
 | Inception | 0.40% | ~985 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~246 |
 | Dwarf Candy | 0.10% | ~246 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246,297 (Ranked 71)  
+Progressed: 246,303 (Ranked 71)  
 Completed: 8 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 8 (0.00%) (Ranked 390)
 | 2023-12-31 | 245,835 | 8 |
 | 2024-01-01 | 246,069 | 8 |
 | 2024-01-02 | 246,255 | 8 |
-| 2024-01-03 | 246,297 | 8 |
+| 2024-01-03 | 246,303 | 8 |
 ## Awards
 Max (Character Customization): 263  (Ranked 275)  
 Sum: 553 (Ranked 328)  

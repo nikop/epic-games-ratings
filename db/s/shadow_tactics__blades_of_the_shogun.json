@@ -3,7 +3,7 @@
   "Name": "Shadow Tactics: Blades of the Shogun",
   "ProductSlug": "shadow-tactics",
   "Ranking_Rating": 301,
-  "Ranking_Popularity": 207,
+  "Ranking_Popularity": 208,
   "Ranking_PopularitySum": 147,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 333,
@@ -2452,9 +2452,9 @@
       "Count": 259
     }
   ],
-  "EOS_Progressed": 223660,
+  "EOS_Progressed": 223667,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 1717,
+  "EOS_NewPlayers": 1713,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -32112,6 +32112,11 @@
       "Time": "2024-01-03T08:04:47.5442544+00:00",
       "NumProgressed": 223660,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2024-01-03T09:04:54.5317497+00:00",
+      "NumProgressed": 223667,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 44,
@@ -32163,7 +32168,7 @@
       "Name": "Disguised",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 20129
+      "UsersEstimate": 20130
     },
     {
       "ID": "FiveShadows",
@@ -32187,7 +32192,7 @@
       "Name": "Gear up",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8946
+      "UsersEstimate": 8947
     },
     {
       "ID": "Genin",
@@ -32195,7 +32200,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 26839
+      "UsersEstimate": 26840
     },
     {
       "ID": "HappyLittleAccidents",
@@ -32211,7 +32216,7 @@
       "Name": "Happy Planning",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 15656
+      "UsersEstimate": 15657
     },
     {
       "ID": "HighFiveTheMoon",
@@ -32243,7 +32248,7 @@
       "Name": "Jonin",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 15656
+      "UsersEstimate": 15657
     },
     {
       "ID": "Mercyful",
@@ -32275,7 +32280,7 @@
       "Name": "Mugen Unchained",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 15656
+      "UsersEstimate": 15657
     },
     {
       "ID": "NoGimmicks",
@@ -32291,7 +32296,7 @@
       "Name": "Noboru",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 8946
+      "UsersEstimate": 8947
     },
     {
       "ID": "Okkoto",
@@ -32339,7 +32344,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 20129
+      "UsersEstimate": 20130
     },
     {
       "ID": "Rollin",
@@ -32347,7 +32352,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 20129
+      "UsersEstimate": 20130
     },
     {
       "ID": "StillRollin",
@@ -32355,7 +32360,7 @@
       "Name": "Still Rollin\u0027",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8946
+      "UsersEstimate": 8947
     },
     {
       "ID": "Stoned",
@@ -32363,7 +32368,7 @@
       "Name": "Stoned",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8946
+      "UsersEstimate": 8947
     },
     {
       "ID": "StonedOx",
@@ -32379,7 +32384,7 @@
       "Name": "Tanuki Time",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 20129
+      "UsersEstimate": 20130
     },
     {
       "ID": "TheCave",
@@ -32474,15 +32479,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 223660,
+      "Progressed": 223667,
       "Completed": 102
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2024-01-02T20:59:01.5395006+00:00",
-  "LastChanged_Achievements": "2024-01-03T08:04:47.544254+00:00",
+  "LastChanged_Achievements": "2024-01-03T09:04:54.5317494+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:46.5494566+00:00",
-  "LastUpdate_Ratings": "2024-01-03T07:59:49.418356+00:00",
-  "LastUpdate_Achievements": "2024-01-03T08:04:47.5444571+00:00"
+  "LastUpdate_Ratings": "2024-01-03T08:59:36.6614775+00:00",
+  "LastUpdate_Achievements": "2024-01-03T09:04:54.5319496+00:00"
 }

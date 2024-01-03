@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 84.00% | ~217 |
-| A piece of the story | 62.00% | ~160 |
-| It's covered up for a reason | 54.00% | ~139 |
-| Wanderer | 52.00% | ~134 |
-| Scraps of love | 47.00% | ~121 |
+| Something important | 84.00% | ~218 |
+| A piece of the story | 62.00% | ~161 |
+| It's covered up for a reason | 54.00% | ~140 |
+| Wanderer | 52.00% | ~135 |
+| Scraps of love | 47.00% | ~122 |
 | The artist’s impression | 46.00% | ~119 |
 | Do what you have to | 41.00% | ~106 |
 | Sign of weakness | 38.00% | ~98 |
-| Refuse to look | 35.00% | ~90 |
-| Face your fears | 28.00% | ~72 |
+| Refuse to look | 35.00% | ~91 |
+| Face your fears | 28.00% | ~73 |
 | Finished it | 26.00% | ~67 |
 | Whispers long forgotten | 16.00% | ~41 |
 | Sound Bite | 13.00% | ~34 |
@@ -27,12 +27,12 @@
 | The tragedy unfolds | 10.00% | ~26 |
 | Tough conversation | 10.00% | ~26 |
 | A new way | 9.00% | ~23 |
-| Breaking free | 9.00% | ~23 |
+| Breaking free | 8.00% | ~21 |
 | True Reflection | 7.00% | ~18 |
-| Casting Finished | 6.00% | ~15 |
-| Heavy Burden | 6.00% | ~15 |
-| Instinct of self-preservation | 6.00% | ~15 |
-| Fisherman | 6.00% | ~15 |
+| Casting Finished | 6.00% | ~16 |
+| Heavy Burden | 6.00% | ~16 |
+| Instinct of self-preservation | 6.00% | ~16 |
+| Fisherman | 6.00% | ~16 |
 | Something to think about | 4.00% | ~10 |
 | I remember It Like Was Yesterday | 4.00% | ~10 |
 | We Are Not Alone | 3.00% | ~8 |
@@ -57,7 +57,7 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 258 (Ranked 407)  
+Progressed: 259 (Ranked 407)  
 Completed: 0 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,4 +129,4 @@ Completed: 0 (0.00%) (Ranked 390)
 | 2023-12-31 | 243 | 0 |
 | 2024-01-01 | 255 | 0 |
 | 2024-01-02 | 256 | 0 |
-| 2024-01-03 | 258 | 0 |
+| 2024-01-03 | 259 | 0 |

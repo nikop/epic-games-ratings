@@ -2,9 +2,9 @@
   "ID": "300ee26a2d6746cdb7dd515ae819f5d4",
   "Name": "The Spirit and the Mouse",
   "ProductSlug": "the-spirit-and-the-mouse-42390b",
-  "Ranking_EOS_Progress": 507,
+  "Ranking_EOS_Progress": 505,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewPlayers": 526,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-09-26T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 81,
+  "EOS_Progressed": 82,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -95,6 +95,11 @@
       "Time": "2023-12-21T19:05:56.0573462+00:00",
       "NumProgressed": 81,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T09:04:47.7776573+00:00",
+      "NumProgressed": 82,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -122,7 +127,7 @@
       "Name": "Energy Seeker",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "energy1500",
@@ -136,7 +141,7 @@
       "ID": "energy250",
       "SetID": "bbgli2k",
       "Name": "Energy Collector",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 15,
       "UsersEstimate": 61
     },
@@ -144,7 +149,7 @@
       "ID": "energy800",
       "SetID": "bbgli2k",
       "Name": "Energy Expert",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 20,
       "UsersEstimate": 37
     },
@@ -162,7 +167,7 @@
       "Name": "Grilled Mouse",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "kibblinbox.all",
@@ -216,15 +221,15 @@
       "ID": "lightbulbs1",
       "SetID": "bbgli2k",
       "Name": "Lightbulb Seeker",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "lightbulbs10",
       "SetID": "bbgli2k",
       "Name": "Lightbulbs Collector",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 15,
       "UsersEstimate": 63
     },
@@ -240,7 +245,7 @@
       "ID": "lightbulbs50",
       "SetID": "bbgli2k",
       "Name": "Lightbulbs Expert",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 20,
       "UsersEstimate": 37
     },
@@ -248,7 +253,7 @@
       "ID": "neighenergy.east",
       "SetID": "bbgli2k",
       "Name": "East Street Energy",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 20,
       "UsersEstimate": 42
     },
@@ -256,7 +261,7 @@
       "ID": "neighenergy.north",
       "SetID": "bbgli2k",
       "Name": "North Town Energy",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 20,
       "UsersEstimate": 25
     },
@@ -296,7 +301,7 @@
       "ID": "quest002",
       "SetID": "bbgli2k",
       "Name": "The Old Man and the Caf\u00E9",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 20,
       "UsersEstimate": 32
     },
@@ -320,7 +325,7 @@
       "ID": "quest005",
       "SetID": "bbgli2k",
       "Name": "The Ghost and the Lamps",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
       "UsersEstimate": 15
     },
@@ -360,7 +365,7 @@
       "ID": "riddles",
       "SetID": "bbgli2k",
       "Name": "Riddle Master",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 11
     },
@@ -384,7 +389,7 @@
       "ID": "shop.photo",
       "SetID": "bbgli2k",
       "Name": "Photogenic",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 20,
       "UsersEstimate": 24
     },
@@ -392,7 +397,7 @@
       "ID": "shop.teleport",
       "SetID": "bbgli2k",
       "Name": "That\u0027s one way to travel",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 20,
       "UsersEstimate": 34
     },
@@ -425,7 +430,7 @@
     {
       "ID": "bbgli2k",
       "IsBase": true,
-      "Progressed": 81,
+      "Progressed": 82,
       "Completed": 0
     }
   ],
@@ -433,8 +438,8 @@
   "FirstSeenRating": "2023-03-31T05:58:29.0586638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.5925841+00:00",
   "LastChanged": "2023-03-31T05:58:29.0586639+00:00",
-  "LastChanged_Achievements": "2024-01-03T08:04:38.9299412+00:00",
+  "LastChanged_Achievements": "2024-01-03T09:04:47.777657+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:45.8472603+00:00",
-  "LastUpdate_Ratings": "2024-01-03T07:58:43.7463402+00:00",
-  "LastUpdate_Achievements": "2024-01-03T08:04:38.9299667+00:00"
+  "LastUpdate_Ratings": "2024-01-03T08:58:44.6293471+00:00",
+  "LastUpdate_Achievements": "2024-01-03T09:04:47.7776942+00:00"
 }

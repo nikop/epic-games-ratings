@@ -2003,9 +2003,9 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 20725,
+  "EOS_Progressed": 20729,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1207,
+  "EOS_NewPlayers": 1204,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -12348,6 +12348,11 @@
       "Time": "2024-01-03T08:10:09.9162833+00:00",
       "NumProgressed": 20725,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-03T09:10:14.3906029+00:00",
+      "NumProgressed": 20729,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -12463,7 +12468,7 @@
       "Name": "Get a Grip",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 3938
+      "UsersEstimate": 3939
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -12479,7 +12484,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2072
+      "UsersEstimate": 2073
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -12487,7 +12492,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 3523
+      "UsersEstimate": 3524
     },
     {
       "ID": "KILL_ROBOT",
@@ -12495,7 +12500,7 @@
       "Name": "Terminated",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1865
+      "UsersEstimate": 1866
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -12527,7 +12532,7 @@
       "Name": "Reforged",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3316
+      "UsersEstimate": 3317
     },
     {
       "ID": "PRINT_WEAPON",
@@ -12535,7 +12540,7 @@
       "Name": "Paper Jams",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3938
+      "UsersEstimate": 3939
     },
     {
       "ID": "SHARE_PHOTO",
@@ -12575,7 +12580,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 2072
+      "UsersEstimate": 2073
     },
     {
       "ID": "STORY_MINETOWN",
@@ -12591,7 +12596,7 @@
       "Name": "Desperate Times",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 4352
+      "UsersEstimate": 4353
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -12599,15 +12604,15 @@
       "Name": "Crash Site",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 2072
+      "UsersEstimate": 2073
     },
     {
       "ID": "STORY_TOWER",
       "SetID": "4hj6d86",
       "Name": "Full Circle",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1866
     },
     {
       "ID": "STORY_TUNNELS",
@@ -12615,7 +12620,7 @@
       "Name": "Power Up",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1865
+      "UsersEstimate": 1866
     },
     {
       "ID": "DISMEMBER_100",
@@ -12661,9 +12666,9 @@
       "ID": "RIOT_10_POWERUPS",
       "SetID": "6j5ggkc",
       "Name": "Subject Alpha",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 43
     },
     {
       "ID": "SPEND_20000",
@@ -12734,13 +12739,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 20725,
+      "Progressed": 20729,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 8651,
+      "Progressed": 8655,
       "Completed": 29
     }
   ],
@@ -12748,8 +12753,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-03T05:03:07.6789966+00:00",
-  "LastChanged_Achievements": "2024-01-03T08:10:09.9162828+00:00",
+  "LastChanged_Achievements": "2024-01-03T09:10:14.3906026+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.412859+00:00",
-  "LastUpdate_Ratings": "2024-01-03T08:03:32.1296856+00:00",
-  "LastUpdate_Achievements": "2024-01-03T08:10:09.9163606+00:00"
+  "LastUpdate_Ratings": "2024-01-03T09:03:52.0858786+00:00",
+  "LastUpdate_Achievements": "2024-01-03T09:10:14.390693+00:00"
 }

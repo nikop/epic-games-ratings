@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 226,
+  "EOS_Progressed": 227,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
@@ -1014,6 +1014,11 @@
       "Time": "2024-01-03T08:09:29.0087715+00:00",
       "NumProgressed": 226,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T09:09:39.3725556+00:00",
+      "NumProgressed": 227,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -1026,7 +1031,7 @@
       "Name": "Abdication",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "SG_ACROSSTHESTYX",
@@ -1050,7 +1055,7 @@
       "Name": "All The Help You Need",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "SG_ARROWOFEROSUNDONE",
@@ -1098,7 +1103,7 @@
       "Name": "End Of The Road",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -1120,9 +1125,9 @@
       "ID": "SG_GODOFTHESUN",
       "SetID": "bj5g0n4",
       "Name": "God Of The Sun",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "SG_HEARTBREAKER",
@@ -1130,7 +1135,7 @@
       "Name": "Heartbreaker",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "SG_LIKEHEROESBEFOREYOU",
@@ -1178,7 +1183,7 @@
       "Name": "Not A Lost Girl",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "SG_NOTTAKINGANYCHANCES",
@@ -1242,7 +1247,7 @@
       "Name": "The Choice Is Yours",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "SG_THEDEEPEND",
@@ -1274,7 +1279,7 @@
       "Name": "The Muse\u2019s Encore",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "SG_THEQUEENOFTHEDEAD",
@@ -1321,14 +1326,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 226,
+      "Progressed": 227,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-03T08:09:29.0087711+00:00",
+  "LastChanged_Achievements": "2024-01-03T09:09:39.3725553+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:04.3127204+00:00",
-  "LastUpdate_Ratings": "2024-01-03T08:01:15.8115998+00:00",
-  "LastUpdate_Achievements": "2024-01-03T08:09:29.0088087+00:00"
+  "LastUpdate_Ratings": "2024-01-03T09:00:48.6198169+00:00",
+  "LastUpdate_Achievements": "2024-01-03T09:09:39.3725845+00:00"
 }

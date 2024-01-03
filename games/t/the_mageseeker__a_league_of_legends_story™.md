@@ -19,8 +19,8 @@ Rating: 4.81 (Ranked 84)
 | Past trauma | 38.00% | ~1,230 |
 | Elemental master | 37.00% | ~1,198 |
 | Cypress Glen Headquarters | 34.00% | ~1,101 |
+| Old friend | 33.00% | ~1,068 |
 | Petricite Burst | 33.00% | ~1,068 |
-| Old friend | 32.00% | ~1,036 |
 | Devineur | 32.00% | ~1,036 |
 | Hijack | 31.00% | ~1,003 |
 | Whispers in the Woods I | 28.00% | ~906 |

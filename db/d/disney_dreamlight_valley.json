@@ -5727,9 +5727,9 @@
       "Count": 550
     }
   ],
-  "EOS_Progressed": 13668,
+  "EOS_Progressed": 13669,
   "EOS_Completed": 339,
-  "EOS_NewPlayers": 376,
+  "EOS_NewPlayers": 377,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 2.48,
   "EosHistory": [
@@ -24067,6 +24067,11 @@
       "Time": "2024-01-03T08:09:39.7120925+00:00",
       "NumProgressed": 13668,
       "NumCompleted": 339
+    },
+    {
+      "Time": "2024-01-03T09:09:48.4935731+00:00",
+      "NumProgressed": 13669,
+      "NumCompleted": 339
     }
   ],
   "TotalAchievements": 15,
@@ -24126,7 +24131,7 @@
       "Name": "Duty Bound",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "Gardener",
@@ -24158,7 +24163,7 @@
       "Name": "Miner",
       "Percentage": 11,
       "XP": 75,
-      "UsersEstimate": 1503
+      "UsersEstimate": 1504
     },
     {
       "ID": "Photographer",
@@ -24190,14 +24195,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 59,
       "XP": 100,
-      "UsersEstimate": 8064
+      "UsersEstimate": 8065
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 13668,
+      "Progressed": 13669,
       "Completed": 339
     }
   ],
@@ -24205,8 +24210,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2024-01-03T01:45:30.7605854+00:00",
-  "LastChanged_Achievements": "2024-01-03T08:09:39.7120922+00:00",
+  "LastChanged_Achievements": "2024-01-03T09:09:48.4935727+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:02.6007727+00:00",
-  "LastUpdate_Ratings": "2024-01-03T08:00:36.891072+00:00",
-  "LastUpdate_Achievements": "2024-01-03T08:09:39.7121878+00:00"
+  "LastUpdate_Ratings": "2024-01-03T09:00:15.7198615+00:00",
+  "LastUpdate_Achievements": "2024-01-03T09:09:48.4936861+00:00"
 }

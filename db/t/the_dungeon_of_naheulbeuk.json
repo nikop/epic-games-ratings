@@ -1665,7 +1665,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 246297,
+  "EOS_Progressed": 246303,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 1352,
   "EOS_NewCompleters": 0,
@@ -24755,6 +24755,11 @@
       "Time": "2024-01-03T08:10:51.0973569+00:00",
       "NumProgressed": 246297,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-03T09:10:49.1143428+00:00",
+      "NumProgressed": 246303,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 88,
@@ -25214,7 +25219,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 88667
+      "UsersEstimate": 88669
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -25358,7 +25363,7 @@
       "Name": "It\u0027s been a hard day\u0027s night",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1232
     },
     {
       "ID": "QuestMinstrel",
@@ -25469,21 +25474,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 246297,
+      "Progressed": 246303,
       "Completed": 8
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 246297,
+      "Progressed": 246303,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-02T19:59:53.8993733+00:00",
-  "LastChanged_Achievements": "2024-01-03T08:10:51.0973566+00:00",
+  "LastChanged_Achievements": "2024-01-03T09:10:49.1143426+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:29.7482382+00:00",
-  "LastUpdate_Ratings": "2024-01-03T08:01:15.9843636+00:00",
-  "LastUpdate_Achievements": "2024-01-03T08:10:51.0975553+00:00"
+  "LastUpdate_Ratings": "2024-01-03T09:00:48.7555704+00:00",
+  "LastUpdate_Achievements": "2024-01-03T09:10:49.1145072+00:00"
 }

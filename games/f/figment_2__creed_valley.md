@@ -12,7 +12,7 @@
 | Heavy Thoughts | 23.00% | ~14 |
 | A heavy thinker | 21.00% | ~13 |
 | Repair the Mind Validation Machine | 20.00% | ~12 |
-| Flee like an idiot | 18.00% | ~11 |
+| Flee like an idiot | 20.00% | ~12 |
 | Elementary, My Dear Dusty | 16.00% | ~10 |
 | Come full circle | 11.00% | ~7 |
 | Dance like an idiot | 11.00% | ~7 |

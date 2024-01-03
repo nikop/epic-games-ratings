@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
     "PcReleaseDate": "2021-04-01T07:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4828,
+  "EOS_Progressed": 4829,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.89,
   "EosHistory": [
@@ -12685,6 +12685,11 @@
       "Time": "2024-01-03T08:06:01.8203548+00:00",
       "NumProgressed": 4828,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2024-01-03T09:05:53.2809082+00:00",
+      "NumProgressed": 4829,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 16,
@@ -12744,7 +12749,7 @@
       "Name": "Architecture - unlocked",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 1593
+      "UsersEstimate": 1594
     },
     {
       "ID": "ach_bomb",
@@ -12790,9 +12795,9 @@
       "ID": "ach_game_opened",
       "SetID": "3h4khpo",
       "Name": "Game opened",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3621
+      "UsersEstimate": 3670
     },
     {
       "ID": "ach_magic_wand",
@@ -12800,7 +12805,7 @@
       "Name": "Magic time",
       "Percentage": 30,
       "XP": 65,
-      "UsersEstimate": 1448
+      "UsersEstimate": 1449
     },
     {
       "ID": "ach_no_boosters",
@@ -12823,7 +12828,7 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 4828,
+      "Progressed": 4829,
       "Completed": 43
     }
   ],
@@ -12831,8 +12836,8 @@
   "FirstSeenRating": "2023-12-06T23:00:44.8965761+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
   "LastChanged": "2023-12-06T23:00:44.8965762+00:00",
-  "LastChanged_Achievements": "2024-01-03T08:06:01.8203544+00:00",
+  "LastChanged_Achievements": "2024-01-03T09:05:53.280908+00:00",
   "LastUpdate_AppInfo": "2023-12-29T23:56:56.9957208+00:00",
-  "LastUpdate_Ratings": "2024-01-03T08:00:49.9854417+00:00",
-  "LastUpdate_Achievements": "2024-01-03T08:06:01.8204424+00:00"
+  "LastUpdate_Ratings": "2024-01-03T09:00:27.1504118+00:00",
+  "LastUpdate_Achievements": "2024-01-03T09:05:53.2809667+00:00"
 }

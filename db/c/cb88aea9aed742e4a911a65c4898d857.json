@@ -263,9 +263,9 @@
       "Count": 90
     }
   ],
-  "EOS_Progressed": 9754,
+  "EOS_Progressed": 9756,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1808,
+  "EOS_NewPlayers": 1804,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3468,6 +3468,11 @@
       "Time": "2024-01-03T08:10:37.2918177+00:00",
       "NumProgressed": 9754,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T09:10:37.3556071+00:00",
+      "NumProgressed": 9756,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3480,7 +3485,7 @@
       "Name": "Conspiracy",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "03_TheStolenStar",
@@ -3662,9 +3667,9 @@
       "ID": "25_DynastyProspers",
       "SetID": "37a94m8",
       "Name": "The Dynasty Prospers",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 59
     },
     {
       "ID": "26_MasterOfTheTrade",
@@ -3894,9 +3899,9 @@
       "ID": "54_ThisIsAJobForLordCaptain",
       "SetID": "37a94m8",
       "Name": "This Is a Job for the Lord Captain!",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 98
     },
     {
       "ID": "55_ReturningTheBoots",
@@ -3999,7 +4004,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 9754,
+      "Progressed": 9756,
       "Completed": 0
     }
   ],
@@ -4007,8 +4012,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-03T03:00:34.4543831+00:00",
-  "LastChanged_Achievements": "2024-01-03T08:10:37.2918174+00:00",
+  "LastChanged_Achievements": "2024-01-03T09:10:37.3556068+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2024-01-03T08:01:39.6896885+00:00",
-  "LastUpdate_Achievements": "2024-01-03T08:10:37.2919231+00:00"
+  "LastUpdate_Ratings": "2024-01-03T09:01:07.6884448+00:00",
+  "LastUpdate_Achievements": "2024-01-03T09:10:37.3556769+00:00"
 }

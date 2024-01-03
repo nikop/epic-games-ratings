@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Big Day | 62.00% | ~585 |
-| You're the Expert! | 27.00% | ~255 |
+| You're the Expert! | 28.00% | ~264 |
 | Home Cook | 24.00% | ~226 |
 | So Clean You Can Eat Off the Floor | 16.00% | ~151 |
 | S is for Scrumptious | 15.00% | ~141 |
