@@ -5,28 +5,28 @@ Rating: 4.27 (Ranked 896)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 79.00% | ~1,935 |
-| Don't I Know You...? | 75.00% | ~1,837 |
+| Rigged And Ready | 79.00% | ~1,936 |
+| Don't I Know You...? | 75.00% | ~1,838 |
 | Jailbreak | 65.00% | ~1,592 |
 | Suited and Booted | 38.00% | ~931 |
 | HEADSHOT! | 37.00% | ~906 |
-| Sleeping With The Fishes | 35.00% | ~857 |
+| Sleeping With The Fishes | 35.00% | ~858 |
 | Overheated | 30.00% | ~735 |
 | High Performance | 30.00% | ~735 |
 | Powered Up | 28.00% | ~686 |
 | Studied The Blade | 24.00% | ~588 |
-| Home Invasion | 23.00% | ~563 |
+| Home Invasion | 23.00% | ~564 |
 | Luminary | 22.00% | ~539 |
 | It's a Trap | 22.00% | ~539 |
 | True Survivor | 21.00% | ~514 |
 | Offensive Defense | 20.00% | ~490 |
 | Shocking | 20.00% | ~490 |
-| Court Martial | 19.00% | ~465 |
-| Unforeseeable Consequences | 19.00% | ~465 |
+| Court Martial | 19.00% | ~466 |
+| Unforeseeable Consequences | 19.00% | ~466 |
 | Clean Cut | 18.00% | ~441 |
-| Dead Again | 17.00% | ~416 |
-| Full Arsenal | 17.00% | ~416 |
-| Can't Trust Banks | 15.00% | ~367 |
+| Dead Again | 17.00% | ~417 |
+| Full Arsenal | 17.00% | ~417 |
+| Can't Trust Banks | 15.00% | ~368 |
 | Mommy Dearest | 13.00% | ~318 |
 | Bad Dog | 13.00% | ~318 |
 | Where It All Began | 13.00% | ~318 |
@@ -41,7 +41,7 @@ Rating: 4.27 (Ranked 896)
 | A Little Banged Up | 8.00% | ~196 |
 | Following In Their Footsteps | 8.00% | ~196 |
 | Defense in Depth | 8.00% | ~196 |
-| Reverse Engineering | 7.00% | ~171 |
+| Reverse Engineering | 7.00% | ~172 |
 | Reborn | 6.00% | ~147 |
 | Remote Surgery | 6.00% | ~147 |
 | Turbo Booster | 6.00% | ~147 |
@@ -53,7 +53,7 @@ Rating: 4.27 (Ranked 896)
 | Geronimo! | 4.00% | ~98 |
 | Homewrecker | 4.00% | ~98 |
 | Plank of Wood | 4.00% | ~98 |
-| Gotta Craft 'em All | 3.00% | ~73 |
+| Gotta Craft 'em All | 3.00% | ~74 |
 | Own Medicine | 2.00% | ~49 |
 | It Lives! It Sniffs! It Conquers! | 2.00% | ~49 |
 | Box Office Smash | 2.00% | ~49 |
@@ -63,7 +63,7 @@ Rating: 4.27 (Ranked 896)
 | Three Birds With One Stone | 1.00% | ~24 |
 | The Easy Way Out | 1.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,449 (Ranked 234)  
+Progressed: 2,450 (Ranked 234)  
 Completed: 13 (0.53%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 13 (0.53%) (Ranked 215)
 | 2023-12-31 | 2,428 | 13 |
 | 2024-01-01 | 2,442 | 13 |
 | 2024-01-02 | 2,447 | 13 |
-| 2024-01-03 | 2,449 | 13 |
+| 2024-01-03 | 2,450 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

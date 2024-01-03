@@ -6,18 +6,18 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 12.00% | ~754 |
+| Malpractice Assurance | 12.00% | ~755 |
 | Lost and Found | 8.00% | ~503 |
 | This Belongs in a Museum | 6.00% | ~7,885 |
 | Autodidact | 6.00% | ~7,885 |
-| This guy... again? | 6.00% | ~377 |
+| This guy... again? | 6.00% | ~378 |
 | Serenity Now! | 5.00% | ~6,571 |
 | Creep and Sleep | 5.00% | ~6,571 |
 | Catch and Decease | 5.00% | ~6,571 |
 | Overdue Notice | 5.00% | ~6,571 |
 | Escape from the Black Hole | 5.00% | ~6,571 |
-| Ploughshares to Swords | 5.00% | ~314 |
-| Bloody Graduation | 5.00% | ~314 |
+| Ploughshares to Swords | 5.00% | ~315 |
+| Bloody Graduation | 5.00% | ~315 |
 | Don't Make Me Turn This Coach Around | 4.00% | ~5,257 |
 | It Rings a Bell | 4.00% | ~5,257 |
 | Not Today! | 4.00% | ~5,257 |
@@ -31,7 +31,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 4.00% | ~5,257 |
 | FNG | 4.00% | ~5,257 |
 | Nope | 4.00% | ~5,257 |
-| Friends 'Til the End | 4.00% | ~251 |
+| Friends 'Til the End | 4.00% | ~252 |
 | Resurrection | 3.00% | ~3,943 |
 | Unleash Hell | 3.00% | ~3,943 |
 | Funny Guy | 3.00% | ~3,943 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~131 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,417 (Ranked 90)  
+Progressed: 131,424 (Ranked 90)  
 Completed: 3 (0.00%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,7 +334,7 @@ Completed: 3 (0.00%) (Ranked 390)
 | 2023-12-31 | 131,026 | 3 |
 | 2024-01-01 | 131,206 | 3 |
 | 2024-01-02 | 131,365 | 3 |
-| 2024-01-03 | 131,417 | 3 |
+| 2024-01-03 | 131,424 | 3 |
 ## Awards
 Max (Character Customization): 7,927  (Ranked 50)  
 Sum: 21,355 (Ranked 58)  

@@ -5,13 +5,13 @@ Rating: 4.65 (Ranked 321)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 44.00% | ~531 |
-| Rail Rat | 33.00% | ~398 |
-| The Mysterious Stranger | 32.00% | ~386 |
-| Immaculate Aim | 28.00% | ~338 |
+| Time Heals All Wounds | 44.00% | ~532 |
+| Rail Rat | 33.00% | ~399 |
+| The Mysterious Stranger | 32.00% | ~387 |
+| Immaculate Aim | 27.00% | ~326 |
 | The Brass Boss | 27.00% | ~326 |
-| Time Flies | 26.00% | ~314 |
 | Make Up For Lost Time | 25.00% | ~302 |
+| Time Flies | 25.00% | ~302 |
 | No, Thanks! | 25.00% | ~302 |
 | The Prince in Heels | 25.00% | ~302 |
 | Honest Mistake | 25.00% | ~302 |
@@ -22,11 +22,11 @@ Rating: 4.65 (Ranked 321)
 | Breaking Down Barriers | 23.00% | ~278 |
 | Right On Time | 22.00% | ~266 |
 | The Wicked Twins | 22.00% | ~266 |
-| Like Clockwork | 21.00% | ~253 |
-| The Betrayer | 21.00% | ~253 |
-| Golem Chaser | 21.00% | ~253 |
-| Check Your Pulse | 20.00% | ~241 |
-| The Loose Cannon | 19.00% | ~229 |
+| Like Clockwork | 21.00% | ~254 |
+| The Betrayer | 21.00% | ~254 |
+| Golem Chaser | 21.00% | ~254 |
+| Check Your Pulse | 20.00% | ~242 |
+| The Loose Cannon | 19.00% | ~230 |
 | Street Style | 18.00% | ~217 |
 | The Man Who Shattered Time | 18.00% | ~217 |
 | The Family Fortune | 18.00% | ~217 |
@@ -45,8 +45,8 @@ Rating: 4.65 (Ranked 321)
 | Cultivair Explorer | 9.00% | ~109 |
 | Corin Goes Home | 8.00% | ~97 |
 | Entresol Explorer | 8.00% | ~97 |
-| Sartorialist | 7.00% | ~84 |
-| Golem Hunter | 7.00% | ~84 |
+| Sartorialist | 7.00% | ~85 |
+| Golem Hunter | 7.00% | ~85 |
 | Clovemary for Remembering | 6.00% | ~72 |
 | Hexlock for Protection | 6.00% | ~72 |
 | Rungs Was Right | 5.00% | ~60 |
@@ -59,7 +59,7 @@ Rating: 4.65 (Ranked 321)
 | Raw Talent | 0.60% | ~7 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,207 (Ranked 280)  
+Progressed: 1,208 (Ranked 280)  
 Completed: 6 (0.50%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 6 (0.50%) (Ranked 219)
 | 2023-12-31 | 1,175 | 6 |
 | 2024-01-01 | 1,190 | 6 |
 | 2024-01-02 | 1,201 | 6 |
-| 2024-01-03 | 1,207 | 6 |
+| 2024-01-03 | 1,208 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

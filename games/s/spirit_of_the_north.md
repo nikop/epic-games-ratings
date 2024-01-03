@@ -1,24 +1,24 @@
 # Spirit of the North
 [Store](https://store.epicgames.com/en-US/p/spirit-of-the-north-f58a66)  
 [View Rawdata](../../db/s/spirit_of_the_north.json)  
-Rating: 4.36 (Ranked 804)  
+Rating: 4.36 (Ranked 805)  
 Number of Ratings: 1,175  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 69.00% | ~54,433 |
-| INFUSED WITH LIGHT | 53.00% | ~41,811 |
-| FOXIN' AROUND | 29.00% | ~22,878 |
-| FETCH | 28.00% | ~22,089 |
-| BLOOMS OF LIGHT | 26.00% | ~20,511 |
+| A GUARDIAN FORGOTTEN | 69.00% | ~54,436 |
+| INFUSED WITH LIGHT | 53.00% | ~41,813 |
+| FOXIN' AROUND | 29.00% | ~22,879 |
+| FETCH | 28.00% | ~22,090 |
+| BLOOMS OF LIGHT | 26.00% | ~20,512 |
 | AWAKEN | 22.00% | ~17,356 |
 | BEST FRIENDS | 22.00% | ~17,356 |
 | SPIRIT BARK | 22.00% | ~17,356 |
-| ERADICATE | 21.00% | ~16,567 |
-| GARDEN OF LIGHT | 18.00% | ~14,200 |
-| SPIRIT FORM | 17.00% | ~13,411 |
-| UPROOTING DARKNESS | 16.00% | ~12,622 |
-| WRITTEN IN STONE | 16.00% | ~12,622 |
+| ERADICATE | 21.00% | ~16,568 |
+| GARDEN OF LIGHT | 18.00% | ~14,201 |
+| SPIRIT FORM | 17.00% | ~13,412 |
+| UPROOTING DARKNESS | 16.00% | ~12,623 |
+| WRITTEN IN STONE | 16.00% | ~12,623 |
 | WEIGHTLESS | 12.00% | ~9,467 |
 | SPIRIT DASH | 11.00% | ~8,678 |
 | OLD COMPANION | 9.00% | ~7,100 |
@@ -31,7 +31,7 @@ Number of Ratings: 1,175  (23.09.2022)
 | NONE FORGOTTEN | 2.00% | ~1,578 |
 | KINDRED SPIRITS | 0.60% | ~473 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78,889 (Ranked 111)  
+Progressed: 78,893 (Ranked 111)  
 Completed: 424 (0.54%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 424 (0.54%) (Ranked 213)
 | 2023-12-31 | 78,636 | 420 |
 | 2024-01-01 | 78,760 | 421 |
 | 2024-01-02 | 78,864 | 424 |
-| 2024-01-03 | 78,889 | 424 |
+| 2024-01-03 | 78,893 | 424 |
 ## Awards
 Max (Extremely Fun): 27  (Ranked 535)  
 Sum: 116 (Ranked 456)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -51,9 +51,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1207,
+  "EOS_Progressed": 1208,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -3516,6 +3516,11 @@
       "Time": "2024-01-03T09:10:49.6338274+00:00",
       "NumProgressed": 1207,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-03T10:10:49.2016404+00:00",
+      "NumProgressed": 1208,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3575,7 +3580,7 @@
       "Name": "Like Clockwork",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ClovemaryGift",
@@ -3591,7 +3596,7 @@
       "Name": "Sartorialist",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "CosmeticProgress1",
@@ -3647,7 +3652,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -3655,7 +3660,7 @@
       "Name": "The Betrayer",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -3687,7 +3692,7 @@
       "Name": "Rail Rat",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "HexlockGift",
@@ -3711,7 +3716,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "LacunaCompleted",
@@ -3765,9 +3770,9 @@
       "ID": "ParallelConvergenceMultiHit1",
       "SetID": "a9e499d",
       "Name": "Time Flies",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 314
+      "UsersEstimate": 302
     },
     {
       "ID": "ParryBoss",
@@ -3815,7 +3820,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "RewindParry",
@@ -3831,7 +3836,7 @@
       "Name": "Golem Hunter",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ScrambotProgress1",
@@ -3839,7 +3844,7 @@
       "Name": "Golem Chaser",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "SkillCompletion1",
@@ -3887,7 +3892,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "TheaterChests1",
@@ -3901,9 +3906,9 @@
       "ID": "TimewinderMultiKill1",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 338
+      "UsersEstimate": 326
     },
     {
       "ID": "WarwickDefeated",
@@ -3950,7 +3955,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1207,
+      "Progressed": 1208,
       "Completed": 6
     }
   ],
@@ -3958,8 +3963,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2024-01-03T09:10:49.6338273+00:00",
+  "LastChanged_Achievements": "2024-01-03T10:10:49.2016402+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:23.9308133+00:00",
-  "LastUpdate_Ratings": "2024-01-03T09:03:24.7372018+00:00",
-  "LastUpdate_Achievements": "2024-01-03T09:10:49.633871+00:00"
+  "LastUpdate_Ratings": "2024-01-03T10:03:07.2583493+00:00",
+  "LastUpdate_Achievements": "2024-01-03T10:10:49.2016937+00:00"
 }

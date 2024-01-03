@@ -6,12 +6,12 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~7,507 |
-| Beast Intentions | 1.00% | ~2,502 |
-| The Cursed Farmer | 1.00% | ~2,502 |
-| The Mad Wizard | 1.00% | ~2,502 |
+| A Brief Tour of the Realms | 3.00% | ~7,508 |
+| Beast Intentions | 1.00% | ~2,503 |
+| The Cursed Farmer | 1.00% | ~2,503 |
+| The Mad Wizard | 1.00% | ~2,503 |
 | Welcome to Sigil | 0.80% | ~1,732 |
-| The Ring of Regeneration | 0.60% | ~1,501 |
+| The Ring of Regeneration | 0.60% | ~1,502 |
 | Fast Food | 0.60% | ~1,299 |
 | Were-verpowered | 0.50% | ~1,251 |
 | Are Ya Chicken? | 0.50% | ~1,251 |
@@ -35,20 +35,20 @@ Number of Ratings: 9,041  (23.09.2022)
 | Arcane Suppression | 0.30% | ~650 |
 | Welcome to the Vrocks | 0.30% | ~650 |
 | Chaos Theory | 0.30% | ~650 |
-| The Silken Swamp | 0.20% | ~500 |
-| Beast Mode | 0.20% | ~500 |
-| Low Initiative | 0.20% | ~500 |
-| A Mysterious Summons | 0.20% | ~500 |
-| Building Trust | 0.20% | ~500 |
-| March of the Undead | 0.20% | ~500 |
-| No Time To Rest | 0.20% | ~500 |
-| Useless Allies | 0.20% | ~500 |
-| Exploring Port Nyanzaru | 0.20% | ~500 |
-| Running of the Saurs | 0.20% | ~500 |
-| Escort to Waterdeep | 0.20% | ~500 |
-| Waterdeep Detours | 0.20% | ~500 |
-| Underdeep Cartography | 0.20% | ~500 |
-| The Templar's Camp | 0.20% | ~500 |
+| The Silken Swamp | 0.20% | ~501 |
+| Beast Mode | 0.20% | ~501 |
+| Low Initiative | 0.20% | ~501 |
+| A Mysterious Summons | 0.20% | ~501 |
+| Building Trust | 0.20% | ~501 |
+| March of the Undead | 0.20% | ~501 |
+| No Time To Rest | 0.20% | ~501 |
+| Useless Allies | 0.20% | ~501 |
+| Exploring Port Nyanzaru | 0.20% | ~501 |
+| Running of the Saurs | 0.20% | ~501 |
+| Escort to Waterdeep | 0.20% | ~501 |
+| Waterdeep Detours | 0.20% | ~501 |
+| Underdeep Cartography | 0.20% | ~501 |
+| The Templar's Camp | 0.20% | ~501 |
 | Pros and CONs | 0.10% | ~250 |
 | Upholding the Law | 0.10% | ~250 |
 | Starving in the Jungle | 0.10% | ~250 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~217 |
 | The Brains of an Illithid's Desire | 0.10% | ~217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,235 (Ranked 70)  
+Progressed: 250,254 (Ranked 70)  
 Completed: 2,588 (1.03%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -811,7 +811,7 @@ Completed: 2,588 (1.03%) (Ranked 170)
 | 2023-12-31 | 248,665 | 2,581 |
 | 2024-01-01 | 249,335 | 2,583 |
 | 2024-01-02 | 250,032 | 2,585 |
-| 2024-01-03 | 250,235 | 2,588 |
+| 2024-01-03 | 250,254 | 2,588 |
 ## Awards
 Max (Great for Beginners): 5,730  (Ranked 72)  
 Sum: 33,274 (Ranked 41)  

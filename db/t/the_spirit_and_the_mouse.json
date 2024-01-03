@@ -229,9 +229,9 @@
       "ID": "lightbulbs10",
       "SetID": "bbgli2k",
       "Name": "Lightbulbs Collector",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "lightbulbs100",
@@ -438,8 +438,8 @@
   "FirstSeenRating": "2023-03-31T05:58:29.0586638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.5925841+00:00",
   "LastChanged": "2023-03-31T05:58:29.0586639+00:00",
-  "LastChanged_Achievements": "2024-01-03T09:04:47.777657+00:00",
+  "LastChanged_Achievements": "2024-01-03T10:04:55.0615877+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:45.8472603+00:00",
-  "LastUpdate_Ratings": "2024-01-03T08:58:44.6293471+00:00",
-  "LastUpdate_Achievements": "2024-01-03T09:04:47.7776942+00:00"
+  "LastUpdate_Ratings": "2024-01-03T09:58:42.7049758+00:00",
+  "LastUpdate_Achievements": "2024-01-03T10:04:55.0616113+00:00"
 }

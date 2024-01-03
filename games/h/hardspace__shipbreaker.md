@@ -27,8 +27,8 @@ Number of Ratings: 36  (23.09.2022)
 | A Tucked Tale | 10.00% | ~104 |
 | The best thing money can buy | 9.00% | ~94 |
 | Act III Complete | 6.00% | ~63 |
+| See you Space Cowboy | 6.00% | ~63 |
 | Fire and Brimstone | 5.00% | ~52 |
-| See you Space Cowboy | 5.00% | ~52 |
 | Ghost in the Ship | 2.00% | ~21 |
 | Disagree and Commit | 0.10% | ~1 |
 | Captured Killer of Caerbannog | 0.00% | ~0 |

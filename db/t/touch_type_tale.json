@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewPlayers": 278,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3965,
+  "EOS_Progressed": 3966,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -5352,6 +5352,11 @@
       "Time": "2024-01-03T07:04:24.7586788+00:00",
       "NumProgressed": 3965,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-03T10:05:17.319469+00:00",
+      "NumProgressed": 3966,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -5451,7 +5456,7 @@
       "Name": "Well Supplied",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "campaign15",
@@ -5515,7 +5520,7 @@
       "Name": "Economics 101",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 2339
+      "UsersEstimate": 2340
     },
     {
       "ID": "campaign4",
@@ -5531,7 +5536,7 @@
       "Name": "Clay Fighter",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "campaign6",
@@ -5539,7 +5544,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "campaign7",
@@ -5547,7 +5552,7 @@
       "Name": "Maestro",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "campaign8",
@@ -5626,7 +5631,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3965,
+      "Progressed": 3966,
       "Completed": 11
     }
   ],
@@ -5634,8 +5639,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2024-01-03T09:05:05.2498375+00:00",
+  "LastChanged_Achievements": "2024-01-03T10:05:17.3194684+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.1228513+00:00",
-  "LastUpdate_Ratings": "2024-01-03T08:58:02.9296296+00:00",
-  "LastUpdate_Achievements": "2024-01-03T09:05:05.2498788+00:00"
+  "LastUpdate_Ratings": "2024-01-03T09:57:48.262303+00:00",
+  "LastUpdate_Achievements": "2024-01-03T10:05:17.3195162+00:00"
 }

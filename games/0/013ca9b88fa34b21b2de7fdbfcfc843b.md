@@ -28,10 +28,10 @@ Rating: 4.62 (Ranked 375)
 | Skilled | 0.70% | ~62 |
 | Fae Farmer | 0.60% | ~53 |
 | Got to Catch Them All | 0.50% | ~44 |
+| Scattered Scroll Scrounger | 0.50% | ~44 |
 | Rumble in the Jumble | 0.50% | ~44 |
 | Fanatical Farmer | 0.50% | ~44 |
 | Azorian Hat Dance | 0.50% | ~7 |
-| Scattered Scroll Scrounger | 0.40% | ~35 |
 | Chatty Neighbor | 0.40% | ~35 |
 | Right Tool For the Job | 0.40% | ~35 |
 | Going Down | 0.40% | ~6 |

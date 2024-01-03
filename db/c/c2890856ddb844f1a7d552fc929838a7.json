@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -273,9 +273,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 2131,
+  "EOS_Progressed": 2132,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 298,
+  "EOS_NewPlayers": 299,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5028,6 +5028,11 @@
       "Time": "2024-01-03T09:09:01.4850498+00:00",
       "NumProgressed": 2131,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T10:08:33.9539742+00:00",
+      "NumProgressed": 2132,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -5064,7 +5069,7 @@
       "Name": "Blood and Gold",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 1257
+      "UsersEstimate": 1258
     },
     {
       "ID": "AC04",
@@ -5072,7 +5077,7 @@
       "Name": "Blood and Iron",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 1236
+      "UsersEstimate": 1237
     },
     {
       "ID": "AC05",
@@ -5088,7 +5093,7 @@
       "Name": "The Last Ascension",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 1044
+      "UsersEstimate": 1045
     },
     {
       "ID": "AC07",
@@ -5104,7 +5109,7 @@
       "Name": "Forged in Fire",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "AC09",
@@ -5112,7 +5117,7 @@
       "Name": "Fermosa Fembra",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "AC10",
@@ -5120,7 +5125,7 @@
       "Name": "The Wait is Over",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "AC11",
@@ -5184,7 +5189,7 @@
       "Name": "Acquired Taste",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 852
+      "UsersEstimate": 853
     },
     {
       "ID": "AC19",
@@ -5192,7 +5197,7 @@
       "Name": "Soledad",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 852
+      "UsersEstimate": 853
     },
     {
       "ID": "AC20",
@@ -5248,7 +5253,7 @@
       "Name": "A Leap of Faith",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "AC27",
@@ -5280,7 +5285,7 @@
       "Name": "The Anointed One",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 1044
+      "UsersEstimate": 1045
     },
     {
       "ID": "AC31",
@@ -5294,9 +5299,9 @@
       "ID": "AC32",
       "SetID": "l4abp0",
       "Name": "Nobody Expects the Spanish Inquisition!",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 575
+      "UsersEstimate": 597
     },
     {
       "ID": "AC33",
@@ -5344,7 +5349,7 @@
       "Name": "Edge of Orison",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "AC39",
@@ -5352,7 +5357,7 @@
       "Name": "Warrior of the Silent Sorrow",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "AC40",
@@ -5360,7 +5365,7 @@
       "Name": "Welcome Back!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1641
+      "UsersEstimate": 1642
     },
     {
       "ID": "AC41",
@@ -5384,7 +5389,7 @@
       "Name": "The Finest Craftmanship",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 852
+      "UsersEstimate": 853
     },
     {
       "ID": "AC44",
@@ -5407,7 +5412,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 2131,
+      "Progressed": 2132,
       "Completed": 0
     }
   ],
@@ -5415,8 +5420,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-02T10:59:36.3957369+00:00",
-  "LastChanged_Achievements": "2024-01-03T09:09:01.4850493+00:00",
+  "LastChanged_Achievements": "2024-01-03T10:08:33.9539739+00:00",
   "LastUpdate_AppInfo": "2024-01-03T03:57:04.3699674+00:00",
-  "LastUpdate_Ratings": "2024-01-03T09:00:31.0659452+00:00",
-  "LastUpdate_Achievements": "2024-01-03T09:09:01.4850956+00:00"
+  "LastUpdate_Ratings": "2024-01-03T10:01:04.1583371+00:00",
+  "LastUpdate_Achievements": "2024-01-03T10:08:33.9540331+00:00"
 }

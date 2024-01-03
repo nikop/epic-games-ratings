@@ -1,10 +1,10 @@
 # Dishonored 2
 [Store](https://store.epicgames.com/en-US/p/dishonored-2)  
 [View Rawdata](../../db/d/dishonored_2.json)  
-Rating: 4.79 (Ranked 101)  
+Rating: 4.79 (Ranked 102)  
 ## Awards
 Max (Great Boss Battles): 759  (Ranked 188)  
-Sum: 1,326 (Ranked 249)  
+Sum: 1,327 (Ranked 249)  
 Diff (max vs sum): -61  
 | Award | Count |
 | ----- | ----- |
@@ -17,7 +17,7 @@ Diff (max vs sum): -61
 | This game is Great for Beginners | 58 |
 | This game has Quickly Understood Controls | 57 |
 | This game is Relaxing | 53 |
-| This game is Extremely Fun | 48 |
+| This game is Extremely Fun | 49 |
 | This game has a Creative Community | 47 |
 | This game is Educational | 20 |
 ## Ratings History
@@ -288,4 +288,4 @@ Diff (max vs sum): -61
 | 2023-12-31 | 4.79 | 748 | 1,303 |
 | 2024-01-01 | 4.79 | 753 | 1,314 |
 | 2024-01-02 | 4.79 | 753 | 1,320 |
-| 2024-01-03 | 4.79 | 759 | 1,326 |
+| 2024-01-03 | 4.79 | 759 | 1,327 |

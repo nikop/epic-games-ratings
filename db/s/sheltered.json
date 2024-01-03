@@ -2,12 +2,12 @@
   "ID": "3b550d92911244558770b68c5a812a5d",
   "Name": "Sheltered",
   "ProductSlug": "sheltered",
-  "Ranking_Rating": 734,
+  "Ranking_Rating": 747,
   "Ranking_Popularity": 268,
   "Ranking_PopularitySum": 388,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 390,
-  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-09-09T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.42,
+  "Rating": 4.41,
   "NumberOfRatings": 877,
   "RatingHistory": [
     {
@@ -796,6 +796,12 @@
       "Rating": 4.42,
       "NumberOfAwards": 279,
       "NumberOfAwardsMax": 279
+    },
+    {
+      "Time": "2024-01-03T09:59:00.6911845+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 279,
+      "NumberOfAwardsMax": 279
     }
   ],
   "ReviewsDisabled": false,
@@ -821,8 +827,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:02.2392677+00:00",
-  "LastChanged": "2023-12-30T10:01:14.2123706+00:00",
+  "LastChanged": "2024-01-03T09:59:00.6911844+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:12.4000524+00:00",
-  "LastUpdate_Ratings": "2024-01-03T08:58:58.4257899+00:00",
-  "LastUpdate_Achievements": "2024-01-03T09:06:07.3038219+00:00"
+  "LastUpdate_Ratings": "2024-01-03T09:59:00.691185+00:00",
+  "LastUpdate_Achievements": "2024-01-03T10:06:35.631635+00:00"
 }

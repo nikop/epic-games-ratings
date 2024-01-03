@@ -7,9 +7,9 @@ Number of Ratings: 1,635  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Shadow strikes | 70.00% | ~32,014 |
-| The Evilest Evil | 59.00% | ~26,983 |
+| The Evilest Evil | 59.00% | ~26,984 |
 | Twistram is devastated | 58.00% | ~26,526 |
-| The Gehenna Stones | 50.00% | ~22,867 |
+| The Gehenna Stones | 50.00% | ~22,868 |
 | No one has to die today! | 47.00% | ~21,495 |
 | Death and destruction! | 46.00% | ~21,038 |
 | The Swamplanders from the swamplands | 44.00% | ~20,123 |
@@ -17,9 +17,9 @@ Number of Ratings: 1,635  (23.09.2022)
 | The One-Huge-Army-Building Evil | 40.00% | ~18,294 |
 | Braiiiiins! | 38.00% | ~17,379 |
 | The last burger | 37.00% | ~16,922 |
-| Hands off the Dungeonheart! | 36.00% | ~16,464 |
+| Hands off the Dungeonheart! | 36.00% | ~16,465 |
 | A trip on sea, what fun it can be | 34.00% | ~15,550 |
-| Damned good | 33.00% | ~15,092 |
+| Damned good | 33.00% | ~15,093 |
 | Stock Market Crash | 31.00% | ~14,178 |
 | Factory farming | 31.00% | ~14,178 |
 | Shadow hunter | 30.00% | ~13,720 |
@@ -34,19 +34,19 @@ Number of Ratings: 1,635  (23.09.2022)
 | Prepare the grave | 24.00% | ~10,976 |
 | Angel of Fire | 24.00% | ~10,976 |
 | Where there is Light, there is Shadow | 23.00% | ~10,519 |
-| At the foot of Mount Destiny | 22.00% | ~10,061 |
+| At the foot of Mount Destiny | 22.00% | ~10,062 |
 | The Force disturbed | 21.00% | ~9,604 |
 | The Victorious Evil | 20.00% | ~9,147 |
-| Chorus of damnation | 19.00% | ~8,689 |
-| We don’t have time! | 19.00% | ~8,689 |
+| Chorus of damnation | 19.00% | ~8,690 |
+| We don’t have time! | 19.00% | ~8,690 |
 | The Stones’ Power | 18.00% | ~8,232 |
 | Flat as a pancake | 17.00% | ~7,775 |
 | Lifeguard | 17.00% | ~7,775 |
 | Can’t stand the sight of Dark Elf blood | 15.00% | ~6,860 |
 | This is fun, I’m going to keep doing this! | 12.00% | ~5,488 |
 | Then let them eat cake! | 12.00% | ~5,488 |
-| The White Knight | 10.00% | ~4,573 |
-| Please, no interruptions! | 10.00% | ~4,573 |
+| The White Knight | 10.00% | ~4,574 |
+| Please, no interruptions! | 10.00% | ~4,574 |
 | Use the terrain | 9.00% | ~4,116 |
 | Prison Break | 9.00% | ~4,116 |
 | Hearts of Iron | 8.00% | ~3,659 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~915 |
 | Sacrifices! | 2.00% | ~915 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,734 (Ranked 126)  
+Progressed: 45,735 (Ranked 126)  
 Completed: 365 (0.80%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 365 (0.80%) (Ranked 187)
 | 2023-12-31 | 45,477 | 363 |
 | 2024-01-01 | 45,599 | 364 |
 | 2024-01-02 | 45,713 | 365 |
-| 2024-01-03 | 45,734 | 365 |
+| 2024-01-03 | 45,735 | 365 |
 ## Awards
 Max (Great for Beginners): 395  (Ranked 238)  
 Sum: 2,838 (Ranked 187)  

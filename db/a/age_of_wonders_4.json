@@ -711,7 +711,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6756,
+  "EOS_Progressed": 6757,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 447,
   "EOS_NewCompleters": 0,
@@ -10206,6 +10206,11 @@
       "Time": "2024-01-03T09:08:57.5033461+00:00",
       "NumProgressed": 6756,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-03T10:08:29.1978245+00:00",
+      "NumProgressed": 6757,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10361,7 +10366,7 @@
       "Name": "Bone Peddler",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "27",
@@ -10696,13 +10701,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6756,
+      "Progressed": 6757,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6756,
+      "Progressed": 6757,
       "Completed": 7
     }
   ],
@@ -10710,8 +10715,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-03T03:59:51.7263846+00:00",
-  "LastChanged_Achievements": "2024-01-03T09:08:57.5033459+00:00",
+  "LastChanged_Achievements": "2024-01-03T10:08:29.1978242+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-03T09:00:43.4110044+00:00",
-  "LastUpdate_Achievements": "2024-01-03T09:08:57.5034263+00:00"
+  "LastUpdate_Ratings": "2024-01-03T10:01:20.9197037+00:00",
+  "LastUpdate_Achievements": "2024-01-03T10:08:29.1979481+00:00"
 }

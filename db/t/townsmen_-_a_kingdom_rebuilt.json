@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 395,
+  "Ranking_EOS_NewPlayers": 386,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4416,
+  "EOS_Progressed": 4417,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1898,6 +1898,11 @@
       "Time": "2024-01-02T20:09:58.583027+00:00",
       "NumProgressed": 4416,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-03T10:10:55.0792747+00:00",
+      "NumProgressed": 4417,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 101,
@@ -1957,7 +1962,7 @@
       "Name": "Bread for the people III",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACHIEVEMENT_BREWS",
@@ -1965,7 +1970,7 @@
       "Name": "Five brews are a schnitzel",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACHIEVEMENT_BUILDINGS1",
@@ -2005,7 +2010,7 @@
       "Name": "I like to build stuff... V",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACHIEVEMENT_BURNEDDOWN1",
@@ -2029,7 +2034,7 @@
       "Name": "The King\u0027s new clothes II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACHIEVEMENT_CLOTHES3",
@@ -2069,7 +2074,7 @@
       "Name": "Saint Florian",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACHIEVEMENT_FOUR_DESASTERS",
@@ -2093,7 +2098,7 @@
       "Name": "My precious... II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACHIEVEMENT_JEWELS3",
@@ -2125,7 +2130,7 @@
       "Name": "Cosmas and Damian",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACHIEVEMENT_PLAGEAFFLICTED1",
@@ -2157,7 +2162,7 @@
       "Name": "Builder III",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACHIEVEMENT_POPULATION4",
@@ -2373,7 +2378,7 @@
       "Name": "I\u0027ve been everywhere III",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_ELECTION",
@@ -2421,7 +2426,7 @@
       "Name": "Made my choice",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_INSURGENTS",
@@ -2453,7 +2458,7 @@
       "Name": "An honorable departure",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_MONEYBAGS",
@@ -2469,7 +2474,7 @@
       "Name": "I\u0027ve been everywhere VII",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_THE_BEAST",
@@ -2597,7 +2602,7 @@
       "Name": "A time consuming game I",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "ACHIEVEMENT_TIME2",
@@ -2621,7 +2626,7 @@
       "Name": "A time consuming game IV",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACHIEVEMENT_TIME5",
@@ -2701,7 +2706,7 @@
       "Name": "Out of the frying pan",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACHIEVEMENT_YOUSHALLNOTPASS",
@@ -2716,15 +2721,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4416,
+      "Progressed": 4417,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-12-26T18:02:48.4372833+00:00",
-  "LastChanged_Achievements": "2024-01-03T09:10:54.7659132+00:00",
+  "LastChanged_Achievements": "2024-01-03T10:10:55.0792745+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:20.4533426+00:00",
-  "LastUpdate_Ratings": "2024-01-03T09:00:14.3275385+00:00",
-  "LastUpdate_Achievements": "2024-01-03T09:10:54.7660064+00:00"
+  "LastUpdate_Ratings": "2024-01-03T10:00:42.0152201+00:00",
+  "LastUpdate_Achievements": "2024-01-03T10:10:55.0793871+00:00"
 }

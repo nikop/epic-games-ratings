@@ -31,8 +31,8 @@
 | Champion – starter pack | 53.00% | ~278 |
 | It's good to be alive | 53.00% | ~278 |
 | Intriguing candies | 53.00% | ~278 |
+| Own four walls | 52.00% | ~273 |
 | Employee of the year | 52.00% | ~273 |
-| Own four walls | 51.00% | ~268 |
 | Legal courier | 48.00% | ~252 |
 | Extreme neuropower! | 48.00% | ~252 |
 | Escaped from a big trouble | 46.00% | ~242 |

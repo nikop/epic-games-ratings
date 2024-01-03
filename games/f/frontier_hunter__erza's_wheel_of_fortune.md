@@ -1,28 +1,28 @@
 # Frontier Hunter: Erza's Wheel of Fortune
 [Store](https://store.epicgames.com/en-US/p/frontier-hunter-erzas-wheel-of-fortune)  
 [View Rawdata](../../db/f/frontier_hunter__erza's_wheel_of_fortune.json)  
-Rating: 4.35 (Ranked 817)  
+Rating: 4.35 (Ranked 818)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 93.00% | ~640 |
+| Travel Streamer | 93.00% | ~641 |
 | Training Simulation | 79.00% | ~544 |
-| Kuku Bird Hunter | 65.00% | ~447 |
+| Kuku Bird Hunter | 65.00% | ~448 |
 | Storm Traveller | 60.00% | ~413 |
-| Wolf King Killer | 55.00% | ~378 |
+| Wolf King Killer | 55.00% | ~379 |
 | Fashion Connoisseur | 52.00% | ~358 |
-| Arms Mechanic | 49.00% | ~337 |
+| Arms Mechanic | 49.00% | ~338 |
 | Flower Thief | 44.00% | ~303 |
-| Apostle of Flame | 39.00% | ~268 |
-| Beginner Cook | 38.00% | ~261 |
+| Apostle of Flame | 39.00% | ~269 |
+| Beginner Cook | 38.00% | ~262 |
 | Beginner Artificer | 37.00% | ~255 |
 | Seal Breaker | 32.00% | ~220 |
 | Handyman | 28.00% | ~193 |
 | Giant Lizard Killer | 27.00% | ~186 |
 | Guardian | 26.00% | ~179 |
 | Nosebleeder | 26.00% | ~179 |
-| Trader | 22.00% | ~151 |
-| Weapon Boost | 21.00% | ~144 |
+| Trader | 22.00% | ~152 |
+| Weapon Boost | 21.00% | ~145 |
 | Flying Kobold Killer | 19.00% | ~131 |
 | Youth Magnet | 19.00% | ~131 |
 | Furious Scorpion Killer | 17.00% | ~117 |
@@ -51,7 +51,7 @@ Rating: 4.35 (Ranked 817)
 | Giantess Challenge | 2.00% | ~14 |
 | Warden Challenge | 2.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 688 (Ranked 318)  
+Progressed: 689 (Ranked 317)  
 Completed: 3 (0.44%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 3 (0.44%) (Ranked 229)
 | 2023-12-31 | 678 | 2 |
 | 2024-01-01 | 682 | 3 |
 | 2024-01-02 | 687 | 3 |
-| 2024-01-03 | 688 | 3 |
+| 2024-01-03 | 689 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

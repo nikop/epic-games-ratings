@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2449,
+  "EOS_Progressed": 2450,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -4204,6 +4204,11 @@
       "Time": "2024-01-03T09:05:46.9056552+00:00",
       "NumProgressed": 2449,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-03T10:06:09.7668386+00:00",
+      "NumProgressed": 2450,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4231,7 +4236,7 @@
       "Name": "Dead Again",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "ACHV_04",
@@ -4255,7 +4260,7 @@
       "Name": "Home Invasion",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "ACHV_07",
@@ -4263,7 +4268,7 @@
       "Name": "Court Martial",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "ACHV_08",
@@ -4303,7 +4308,7 @@
       "Name": "Reverse Engineering",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACHV_13",
@@ -4399,7 +4404,7 @@
       "Name": "Gotta Craft \u0027em All",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHV_25",
@@ -4407,7 +4412,7 @@
       "Name": "Full Arsenal",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "ACHV_26",
@@ -4415,7 +4420,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1935
+      "UsersEstimate": 1936
     },
     {
       "ID": "ACHV_27",
@@ -4487,7 +4492,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 857
+      "UsersEstimate": 858
     },
     {
       "ID": "ACHV_36",
@@ -4495,7 +4500,7 @@
       "Name": "Can\u0027t Trust Banks",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "ACHV_37",
@@ -4519,7 +4524,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 1837
+      "UsersEstimate": 1838
     },
     {
       "ID": "ACHV_40",
@@ -4575,7 +4580,7 @@
       "Name": "Unforeseeable Consequences",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "ACHV_47",
@@ -4670,7 +4675,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2449,
+      "Progressed": 2450,
       "Completed": 13
     }
   ],
@@ -4678,8 +4683,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-29T03:00:05.8444174+00:00",
-  "LastChanged_Achievements": "2024-01-03T09:05:46.9056548+00:00",
+  "LastChanged_Achievements": "2024-01-03T10:06:09.7668381+00:00",
   "LastUpdate_AppInfo": "2023-12-30T17:56:59.176771+00:00",
-  "LastUpdate_Ratings": "2024-01-03T08:59:46.4723126+00:00",
-  "LastUpdate_Achievements": "2024-01-03T09:05:46.9057206+00:00"
+  "LastUpdate_Ratings": "2024-01-03T10:00:07.0602445+00:00",
+  "LastUpdate_Achievements": "2024-01-03T10:06:09.7668973+00:00"
 }

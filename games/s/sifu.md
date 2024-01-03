@@ -6,35 +6,35 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 5.00% | ~37,622 |
-| The Assault | 4.00% | ~30,098 |
-| Life is your teacher | 4.00% | ~30,098 |
-| Lightning Hands | 4.00% | ~30,098 |
-| The Hateful Pole Fighter | 2.00% | ~15,049 |
-| A Lady's Blood in the Snow | 2.00% | ~15,049 |
-| Lady Wing Chun | 2.00% | ~15,049 |
-| Kill Nil | 2.00% | ~15,049 |
-| Stuntmaster | 2.00% | ~15,049 |
-| Street Fighting | 2.00% | ~15,049 |
-| State of constant learning | 2.00% | ~15,049 |
-| Qi Gong: Breath | 2.00% | ~15,049 |
-| Qi Gong: Essence | 2.00% | ~15,049 |
-| I know Kung-Fu | 2.00% | ~15,049 |
-| Old Child | 2.00% | ~15,049 |
-| Path of the Prospect | 2.00% | ~15,049 |
-| Rumble in the Hangar | 2.00% | ~15,049 |
-| Diligence as a goal | 2.00% | ~1,235 |
-| Furious Fists | 1.00% | ~7,524 |
-| Scareless | 1.00% | ~7,524 |
-| Qi Gong: Mind | 1.00% | ~7,524 |
-| Kung-Fu Tussle | 1.00% | ~7,524 |
-| Take damage to save time | 1.00% | ~7,524 |
-| Project Arena | 1.00% | ~617 |
+| The Old Grandmaster | 5.00% | ~37,624 |
+| The Assault | 4.00% | ~30,099 |
+| Life is your teacher | 4.00% | ~30,099 |
+| Lightning Hands | 4.00% | ~30,099 |
+| The Hateful Pole Fighter | 2.00% | ~15,050 |
+| A Lady's Blood in the Snow | 2.00% | ~15,050 |
+| Lady Wing Chun | 2.00% | ~15,050 |
+| Kill Nil | 2.00% | ~15,050 |
+| Stuntmaster | 2.00% | ~15,050 |
+| Street Fighting | 2.00% | ~15,050 |
+| State of constant learning | 2.00% | ~15,050 |
+| Qi Gong: Breath | 2.00% | ~15,050 |
+| Qi Gong: Essence | 2.00% | ~15,050 |
+| I know Kung-Fu | 2.00% | ~15,050 |
+| Old Child | 2.00% | ~15,050 |
+| Path of the Prospect | 2.00% | ~15,050 |
+| Rumble in the Hangar | 2.00% | ~15,050 |
+| Diligence as a goal | 2.00% | ~1,236 |
+| Furious Fists | 1.00% | ~7,525 |
+| Scareless | 1.00% | ~7,525 |
+| Qi Gong: Mind | 1.00% | ~7,525 |
+| Kung-Fu Tussle | 1.00% | ~7,525 |
+| Take damage to save time | 1.00% | ~7,525 |
+| Project Arena | 1.00% | ~618 |
 | Dance of the Praying Mantis | 0.90% | ~6,772 |
 | Fight the way you practice | 0.80% | ~494 |
 | Muk Yan Master | 0.60% | ~4,515 |
 | Detective Story | 0.60% | ~4,515 |
-| Martial Hub | 0.60% | ~370 |
+| Martial Hub | 0.60% | ~371 |
 | Tiger on Fire | 0.50% | ~3,762 |
 | Source of Flying Daggers | 0.50% | ~3,762 |
 | Iron Money | 0.50% | ~3,762 |
@@ -54,11 +54,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Master of the Phoenix Eye Fist | 0.20% | ~1,505 |
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,505 |
 | Be like water my friend | 0.20% | ~1,505 |
-| A Touch of Acumen | 0.20% | ~123 |
-| Crouching Tiger | 0.20% | ~123 |
-| Skill and an even stronger will | 0.20% | ~123 |
-| Master of the Flying Assassins | 0.20% | ~123 |
-| Beatmaker | 0.20% | ~123 |
+| A Touch of Acumen | 0.20% | ~124 |
+| Crouching Tiger | 0.20% | ~124 |
+| Skill and an even stronger will | 0.20% | ~124 |
+| Master of the Flying Assassins | 0.20% | ~124 |
+| Beatmaker | 0.20% | ~124 |
 | Warriors from the Mountain | 0.10% | ~752 |
 | Secure, Protect, Leave | 0.10% | ~62 |
 | Hidden Dragon | 0.10% | ~62 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~62 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 752,445 (Ranked 24)  
+Progressed: 752,487 (Ranked 24)  
 Completed: 12,971 (1.72%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 12,971 (1.72%) (Ranked 141)
 | 2023-12-31 | 750,399 | 12,971 |
 | 2024-01-01 | 751,425 | 12,971 |
 | 2024-01-02 | 752,188 | 12,971 |
-| 2024-01-03 | 752,445 | 12,971 |
+| 2024-01-03 | 752,487 | 12,971 |
 ## Awards
 Max (Great Boss Battles): 7,079  (Ranked 55)  
 Sum: 11,978 (Ranked 87)  

@@ -6,18 +6,18 @@ Number of Ratings: 180  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First line | 74.00% | ~1,702 |
-| First cargo item on board | 68.00% | ~1,564 |
-| First cargo item waiting | 68.00% | ~1,564 |
-| First bus stop | 67.00% | ~1,541 |
-| First passenger waiting | 64.00% | ~1,472 |
-| First passenger on board | 63.00% | ~1,449 |
-| First bus arrived | 62.00% | ~1,426 |
-| First train station | 60.00% | ~1,380 |
-| First steam train arrived | 57.00% | ~1,311 |
-| Cadet | 53.00% | ~1,219 |
-| First industry upgraded | 53.00% | ~1,219 |
-| Transport millionaire | 51.00% | ~1,173 |
+| First line | 74.00% | ~1,703 |
+| First cargo item on board | 68.00% | ~1,565 |
+| First cargo item waiting | 68.00% | ~1,565 |
+| First bus stop | 67.00% | ~1,542 |
+| First passenger waiting | 64.00% | ~1,473 |
+| First passenger on board | 63.00% | ~1,450 |
+| First bus arrived | 62.00% | ~1,427 |
+| First train station | 60.00% | ~1,381 |
+| First steam train arrived | 57.00% | ~1,312 |
+| Cadet | 53.00% | ~1,220 |
+| First industry upgraded | 53.00% | ~1,220 |
+| Transport millionaire | 51.00% | ~1,174 |
 | Transport master | 49.00% | ~1,127 |
 | Cargo hub | 49.00% | ~1,127 |
 | Sculpturer | 46.00% | ~1,058 |
@@ -68,7 +68,7 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.20% | ~5 |
 | Museum line | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,300 (Ranked 238)  
+Progressed: 2,301 (Ranked 238)  
 Completed: 1 (0.04%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 1 (0.04%) (Ranked 344)
 | 2023-12-31 | 2,263 | 1 |
 | 2024-01-01 | 2,280 | 1 |
 | 2024-01-02 | 2,299 | 1 |
-| 2024-01-03 | 2,300 | 1 |
+| 2024-01-03 | 2,301 | 1 |
 ## Awards
 Max (Great for Beginners): 50  (Ranked 452)  
 Sum: 331 (Ranked 372)  

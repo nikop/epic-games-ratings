@@ -6,8 +6,8 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~36,959 |
-| Just The Two of Us | 32.00% | ~34,785 |
+| Simoon | 34.00% | ~36,960 |
+| Just The Two of Us | 32.00% | ~34,786 |
 | Up On High | 25.00% | ~27,176 |
 | Under The Hood | 25.00% | ~27,176 |
 | Got Your Nose | 24.00% | ~26,089 |
@@ -26,9 +26,9 @@ Number of Ratings: 43  (23.09.2022)
 | Take That! | 13.00% | ~14,132 |
 | Treasure Tracker | 13.00% | ~14,132 |
 | Big Spender | 13.00% | ~14,132 |
-| Badge Collector | 12.00% | ~13,044 |
-| Quite The Catch | 12.00% | ~13,044 |
-| Rowleys Way | 11.00% | ~11,957 |
+| Badge Collector | 12.00% | ~13,045 |
+| Quite The Catch | 12.00% | ~13,045 |
+| Rowleys Way | 11.00% | ~11,958 |
 | The Machinist Mask | 10.00% | ~10,870 |
 | The Cartographer Mask | 10.00% | ~10,870 |
 | Balfron Connection | 10.00% | ~10,870 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~3,261 |
 | Vivacious Vivarium | 2.00% | ~2,174 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 108,704 (Ranked 97)  
+Progressed: 108,705 (Ranked 97)  
 Completed: 1,104 (1.02%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 1,104 (1.02%) (Ranked 171)
 | 2023-12-31 | 108,177 | 1,094 |
 | 2024-01-01 | 108,392 | 1,097 |
 | 2024-01-02 | 108,620 | 1,104 |
-| 2024-01-03 | 108,704 | 1,104 |
+| 2024-01-03 | 108,705 | 1,104 |
 ## Awards
 Max (Extremely Fun): 29  (Ranked 523)  
 Sum: 125 (Ranked 450)  

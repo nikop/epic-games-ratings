@@ -9289,9 +9289,9 @@
       "Count": 3622
     }
   ],
-  "EOS_Progressed": 250235,
+  "EOS_Progressed": 250254,
   "EOS_Completed": 2588,
-  "EOS_NewPlayers": 5087,
+  "EOS_NewPlayers": 5101,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -38484,6 +38484,11 @@
       "Time": "2024-01-03T09:10:56.9419412+00:00",
       "NumProgressed": 250235,
       "NumCompleted": 2588
+    },
+    {
+      "Time": "2024-01-03T10:10:57.4009089+00:00",
+      "NumProgressed": 250254,
+      "NumCompleted": 2588
     }
   ],
   "TotalAchievements": 546,
@@ -38495,7 +38500,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7507
+      "UsersEstimate": 7508
     },
     {
       "ID": "objective_completed_10",
@@ -38799,7 +38804,7 @@
       "Name": "The Silken Swamp",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "objective_completed_1090",
@@ -38863,7 +38868,7 @@
       "Name": "Beast Intentions",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2502
+      "UsersEstimate": 2503
     },
     {
       "ID": "objective_completed_110",
@@ -39599,7 +39604,7 @@
       "Name": "Beast Mode",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "objective_completed_149",
@@ -39679,7 +39684,7 @@
       "Name": "Low Initiative",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "objective_completed_164",
@@ -39687,7 +39692,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "objective_completed_165",
@@ -39719,7 +39724,7 @@
       "Name": "Building Trust",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "objective_completed_17",
@@ -39727,7 +39732,7 @@
       "Name": "March of the Undead",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "objective_completed_170",
@@ -39831,7 +39836,7 @@
       "Name": "No Time To Rest",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "objective_completed_208",
@@ -40167,7 +40172,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2502
+      "UsersEstimate": 2503
     },
     {
       "ID": "objective_completed_34",
@@ -40175,7 +40180,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1501
+      "UsersEstimate": 1502
     },
     {
       "ID": "objective_completed_35",
@@ -40367,7 +40372,7 @@
       "Name": "Useless Allies",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "objective_completed_400",
@@ -40639,7 +40644,7 @@
       "Name": "Exploring Port Nyanzaru",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "objective_completed_540",
@@ -40983,7 +40988,7 @@
       "Name": "Running of the Saurs",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "objective_completed_590",
@@ -41567,7 +41572,7 @@
       "Name": "Escort to Waterdeep",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "objective_completed_690",
@@ -41639,7 +41644,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2502
+      "UsersEstimate": 2503
     },
     {
       "ID": "objective_completed_70",
@@ -41671,7 +41676,7 @@
       "Name": "Waterdeep Detours",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "objective_completed_75",
@@ -41703,7 +41708,7 @@
       "Name": "Underdeep Cartography",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "objective_completed_8",
@@ -42367,7 +42372,7 @@
       "Name": "The Templar\u0027s Camp",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "objective_completed_95",
@@ -42862,21 +42867,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 216509,
+      "Progressed": 216528,
       "Completed": 4129
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 250235,
+      "Progressed": 250254,
       "Completed": 2588
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-02T20:58:24.5866544+00:00",
-  "LastChanged_Achievements": "2024-01-03T09:10:56.9419409+00:00",
+  "LastChanged_Achievements": "2024-01-03T10:10:57.4009085+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-03T08:59:01.8767102+00:00",
-  "LastUpdate_Achievements": "2024-01-03T09:10:56.9443821+00:00"
+  "LastUpdate_Ratings": "2024-01-03T09:59:05.6025019+00:00",
+  "LastUpdate_Achievements": "2024-01-03T10:10:57.4033277+00:00"
 }

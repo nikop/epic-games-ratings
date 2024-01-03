@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewPlayers": 362,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -219,9 +219,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5225,
+  "EOS_Progressed": 5226,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -1109,6 +1109,11 @@
       "Time": "2024-01-03T01:51:57.854364+00:00",
       "NumProgressed": 5225,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-03T10:08:00.6210171+00:00",
+      "NumProgressed": 5226,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 49,
@@ -1120,7 +1125,7 @@
       "Name": "Employee of the Month",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 1933
+      "UsersEstimate": 1934
     },
     {
       "ID": "ACHIEVE_3_OFFSHOOTS_COMPLETE",
@@ -1128,7 +1133,7 @@
       "Name": "Off the Beaten Path",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "ACHIEVE_50_BATWINGS",
@@ -1136,7 +1141,7 @@
       "Name": "I Believe I Can Fly",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1933
+      "UsersEstimate": 1934
     },
     {
       "ID": "ACHIEVE_50_BONES",
@@ -1152,15 +1157,15 @@
       "Name": "Trying To Get Into That 1%, Huh?",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "ACHIEVE_50_ECTOPLASM",
       "SetID": "b8l3p0g",
       "Name": "Ghost Facers!",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 1463
+      "UsersEstimate": 1411
     },
     {
       "ID": "ACHIEVE_50_GOLD",
@@ -1224,7 +1229,7 @@
       "Name": "Timber!",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 3187
+      "UsersEstimate": 3188
     },
     {
       "ID": "ACHIEVE_ATE_FOOD_3",
@@ -1248,7 +1253,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5120
+      "UsersEstimate": 5121
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -1272,7 +1277,7 @@
       "Name": "Can\u0027t Touch This",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "ACHIEVE_FELLOWSHIP",
@@ -1296,7 +1301,7 @@
       "Name": "Fortunate Soul",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2560
+      "UsersEstimate": 2561
     },
     {
       "ID": "ACHIEVE_GREED_GRIND_WIN",
@@ -1408,7 +1413,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5120
+      "UsersEstimate": 5121
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -1496,7 +1501,7 @@
       "Name": "Pardon my Slob",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1724
+      "UsersEstimate": 1725
     },
     {
       "ID": "ACHIEVE_WOKE_UP_INN",
@@ -1511,15 +1516,15 @@
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5225,
+      "Progressed": 5226,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-12-26T18:58:09.3460811+00:00",
-  "LastChanged_Achievements": "2024-01-03T09:07:14.1774148+00:00",
+  "LastChanged_Achievements": "2024-01-03T10:08:00.6210166+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:55.5067997+00:00",
-  "LastUpdate_Ratings": "2024-01-03T08:57:28.9716422+00:00",
-  "LastUpdate_Achievements": "2024-01-03T09:07:14.1774494+00:00"
+  "LastUpdate_Ratings": "2024-01-03T09:57:03.1250563+00:00",
+  "LastUpdate_Achievements": "2024-01-03T10:08:00.6210536+00:00"
 }

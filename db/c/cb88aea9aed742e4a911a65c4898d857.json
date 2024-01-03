@@ -263,9 +263,9 @@
       "Count": 90
     }
   ],
-  "EOS_Progressed": 9756,
+  "EOS_Progressed": 9762,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1804,
+  "EOS_NewPlayers": 1801,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3473,6 +3473,11 @@
       "Time": "2024-01-03T09:10:37.3556071+00:00",
       "NumProgressed": 9756,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T10:10:34.6039315+00:00",
+      "NumProgressed": 9762,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3493,7 +3498,7 @@
       "Name": "Stolen Star",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -3597,7 +3602,7 @@
       "Name": "The Rise",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "17_TheExemplar",
@@ -3613,7 +3618,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "19_TheVoidWolf",
@@ -3627,9 +3632,9 @@
       "ID": "20_PurgeTheUnclean",
       "SetID": "37a94m8",
       "Name": "Purge the Unclean",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 88
     },
     {
       "ID": "21_PreciseDefense",
@@ -3837,7 +3842,7 @@
       "Name": "A Spark",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "47_AFlame",
@@ -3883,9 +3888,9 @@
       "ID": "52_TheGoldenFrog",
       "SetID": "37a94m8",
       "Name": "Frog Trader",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 20
+      "UsersEstimate": 29
     },
     {
       "ID": "53_GardensOfMadness",
@@ -3995,16 +4000,16 @@
       "ID": "66_TheDeepestConviction",
       "SetID": "37a94m8",
       "Name": "Deepest Conviction",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 10
     }
   ],
   "AchievementSets": [
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 9756,
+      "Progressed": 9762,
       "Completed": 0
     }
   ],
@@ -4012,8 +4017,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-03T03:00:34.4543831+00:00",
-  "LastChanged_Achievements": "2024-01-03T09:10:37.3556068+00:00",
+  "LastChanged_Achievements": "2024-01-03T10:10:34.603931+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2024-01-03T09:01:07.6884448+00:00",
-  "LastUpdate_Achievements": "2024-01-03T09:10:37.3556769+00:00"
+  "LastUpdate_Ratings": "2024-01-03T10:01:52.2721601+00:00",
+  "LastUpdate_Achievements": "2024-01-03T10:10:34.6039922+00:00"
 }

@@ -7957,9 +7957,9 @@
       "Count": 3810
     }
   ],
-  "EOS_Progressed": 149126,
+  "EOS_Progressed": 149133,
   "EOS_Completed": 341,
-  "EOS_NewPlayers": 1236,
+  "EOS_NewPlayers": 1233,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -35132,6 +35132,11 @@
       "Time": "2024-01-03T09:07:10.7947663+00:00",
       "NumProgressed": 149126,
       "NumCompleted": 341
+    },
+    {
+      "Time": "2024-01-03T10:07:56.2048984+00:00",
+      "NumProgressed": 149133,
+      "NumCompleted": 341
     }
   ],
   "TotalAchievements": 112,
@@ -35223,7 +35228,7 @@
       "Name": "One Easy Payment",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7456
+      "UsersEstimate": 7457
     },
     {
       "ID": "bigsale02",
@@ -35247,7 +35252,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7456
+      "UsersEstimate": 7457
     },
     {
       "ID": "blueprint02",
@@ -35375,7 +35380,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13421
+      "UsersEstimate": 13422
     },
     {
       "ID": "commonres02",
@@ -35495,7 +35500,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7456
+      "UsersEstimate": 7457
     },
     {
       "ID": "energy02",
@@ -35615,7 +35620,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13421
+      "UsersEstimate": 13422
     },
     {
       "ID": "gold02",
@@ -35623,7 +35628,7 @@
       "Name": "Pretty Penny",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 7456
+      "UsersEstimate": 7457
     },
     {
       "ID": "gold03",
@@ -35695,7 +35700,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7456
+      "UsersEstimate": 7457
     },
     {
       "ID": "jackslot02",
@@ -36007,7 +36012,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7456
+      "UsersEstimate": 7457
     },
     {
       "ID": "workers02",
@@ -36038,15 +36043,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 149126,
+      "Progressed": 149133,
       "Completed": 341
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-03T09:03:50.5810235+00:00",
-  "LastChanged_Achievements": "2024-01-03T09:07:10.794766+00:00",
+  "LastChanged_Achievements": "2024-01-03T10:07:56.204898+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.6407181+00:00",
-  "LastUpdate_Ratings": "2024-01-03T09:03:50.5810241+00:00",
-  "LastUpdate_Achievements": "2024-01-03T09:07:10.7950059+00:00"
+  "LastUpdate_Ratings": "2024-01-03T10:03:41.4334383+00:00",
+  "LastUpdate_Achievements": "2024-01-03T10:07:56.205113+00:00"
 }

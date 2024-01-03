@@ -11,7 +11,7 @@ Number of Ratings: 37  (23.09.2022)
 | A new beginning | 13.00% | ~574 |
 | Friends from the past | 11.00% | ~486 |
 | I like to build stuff... I | 10.00% | ~442 |
-| A time consuming game I | 9.00% | ~397 |
+| A time consuming game I | 9.00% | ~398 |
 | Builder I | 8.00% | ~353 |
 | An honorable Governor I | 8.00% | ~353 |
 | Full-time job I | 8.00% | ~353 |
@@ -41,16 +41,16 @@ Number of Ratings: 37  (23.09.2022)
 | My precious... I | 4.00% | ~177 |
 | Full-time job III | 4.00% | ~177 |
 | Tools of the trade II | 4.00% | ~177 |
-| Bread for the people III | 3.00% | ~132 |
-| Five brews are a schnitzel | 3.00% | ~132 |
-| I like to build stuff... V | 3.00% | ~132 |
-| The King's new clothes II | 3.00% | ~132 |
-| Saint Florian | 3.00% | ~132 |
-| My precious... II | 3.00% | ~132 |
-| Cosmas and Damian | 3.00% | ~132 |
-| Builder III | 3.00% | ~132 |
-| A time consuming game IV | 3.00% | ~132 |
-| Out of the frying pan | 3.00% | ~132 |
+| Bread for the people III | 3.00% | ~133 |
+| Five brews are a schnitzel | 3.00% | ~133 |
+| I like to build stuff... V | 3.00% | ~133 |
+| The King's new clothes II | 3.00% | ~133 |
+| Saint Florian | 3.00% | ~133 |
+| My precious... II | 3.00% | ~133 |
+| Cosmas and Damian | 3.00% | ~133 |
+| Builder III | 3.00% | ~133 |
+| A time consuming game IV | 3.00% | ~133 |
+| Out of the frying pan | 3.00% | ~133 |
 | The Art of War | 2.00% | ~88 |
 | The King's new clothes III | 2.00% | ~88 |
 | Survivalist | 2.00% | ~88 |
@@ -82,10 +82,10 @@ Number of Ratings: 37  (23.09.2022)
 | Craftsmen challenge | 0.70% | ~31 |
 | Impregnable | 0.70% | ~31 |
 | To serve and protect | 0.70% | ~31 |
-| I've been everywhere III | 0.60% | ~26 |
-| Made my choice | 0.60% | ~26 |
-| An honorable departure | 0.60% | ~26 |
-| I've been everywhere VII | 0.60% | ~26 |
+| I've been everywhere III | 0.60% | ~27 |
+| Made my choice | 0.60% | ~27 |
+| An honorable departure | 0.60% | ~27 |
+| I've been everywhere VII | 0.60% | ~27 |
 | I've been everywhere IV | 0.50% | ~22 |
 | Governor-elect | 0.50% | ~22 |
 | Little place in the country | 0.50% | ~22 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,416 (Ranked 206)  
+Progressed: 4,417 (Ranked 206)  
 Completed: 4 (0.09%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,6 +261,7 @@ Completed: 4 (0.09%) (Ranked 311)
 | 2023-12-31 | 4,412 | 4 |
 | 2024-01-01 | 4,414 | 4 |
 | 2024-01-02 | 4,416 | 4 |
+| 2024-01-03 | 4,417 | 4 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
