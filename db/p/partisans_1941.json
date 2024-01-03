@@ -2,13 +2,13 @@
   "ID": "aa102e1c575d42868a11ac8e79af2126",
   "Name": "Partisans 1941",
   "ProductSlug": "partisans-1941",
-  "Ranking_Rating": 374,
+  "Ranking_Rating": 375,
   "Ranking_Popularity": 578,
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 338,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1927,
+  "EOS_Progressed": 1928,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -4749,6 +4749,11 @@
       "Time": "2024-01-03T18:10:33.0064065+00:00",
       "NumProgressed": 1927,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-03T23:10:36.2855544+00:00",
+      "NumProgressed": 1928,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -4760,7 +4765,7 @@
       "Name": "Agent 47",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "Auditor",
@@ -4792,7 +4797,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "Commandos",
@@ -4808,7 +4813,7 @@
       "Name": "Death to the Oppressor!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "Defense_Common",
@@ -4840,7 +4845,7 @@
       "Name": "E1M1",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "Everyone_is_here",
@@ -4944,7 +4949,7 @@
       "Name": "Bomberman",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "MoskitoBite",
@@ -4999,15 +5004,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1927,
+      "Progressed": 1928,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2024-01-03T22:09:25.1064907+00:00",
+  "LastChanged_Achievements": "2024-01-03T23:10:36.2855539+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:23.7315333+00:00",
-  "LastUpdate_Ratings": "2024-01-03T22:02:52.0692306+00:00",
-  "LastUpdate_Achievements": "2024-01-03T22:09:25.1065484+00:00"
+  "LastUpdate_Ratings": "2024-01-03T23:03:35.8323934+00:00",
+  "LastUpdate_Achievements": "2024-01-03T23:10:36.2856422+00:00"
 }

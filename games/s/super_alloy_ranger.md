@@ -11,12 +11,12 @@
 | GG EZ | 52.00% | ~77 |
 | Hydrophobia | 36.00% | ~54 |
 | Ka-Ching! | 30.00% | ~45 |
-| Stop Right There | 27.00% | ~40 |
+| Stop Right There | 28.00% | ~42 |
 | Get to the Point | 25.00% | ~37 |
+| Toe to Toe | 14.00% | ~21 |
 | Phew! | 14.00% | ~21 |
 | The Hidden Secret | 13.00% | ~19 |
 | Mr. Want It All | 13.00% | ~19 |
-| Toe to Toe | 13.00% | ~19 |
 | The Abyss Conqueror | 9.00% | ~13 |
 | Grand Escape | 9.00% | ~13 |
 | Space Warrior: Prologue | 9.00% | ~13 |
@@ -56,7 +56,7 @@
 | Super Alloy Ranger! | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 149 (Ranked 450)  
-Completed: 1 (0.67%) (Ranked 198)  
+Completed: 1 (0.67%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

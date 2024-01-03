@@ -1,27 +1,27 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.52 (Ranked 574)  
+Rating: 4.52 (Ranked 573)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~7,008 |
-| Greasy Palms | 42.00% | ~6,398 |
-| South American Connection | 26.00% | ~3,961 |
-| Life of the Party | 20.00% | ~3,047 |
-| Big Heat from Little Havana | 15.00% | ~2,285 |
-| Chauffeur | 15.00% | ~2,285 |
-| Tommy Two-Wheels | 15.00% | ~2,285 |
-| Salutations My Little Friend | 11.00% | ~1,676 |
-| Iron-y | 10.00% | ~1,523 |
-| Gun for Hire | 9.00% | ~1,371 |
-| Mischief Managed | 9.00% | ~1,371 |
-| Vice City Mogul | 7.00% | ~1,066 |
+| Legal Counsel | 46.00% | ~7,011 |
+| Greasy Palms | 42.00% | ~6,401 |
+| South American Connection | 26.00% | ~3,963 |
+| Life of the Party | 20.00% | ~3,048 |
+| Big Heat from Little Havana | 15.00% | ~2,286 |
+| Chauffeur | 15.00% | ~2,286 |
+| Tommy Two-Wheels | 15.00% | ~2,286 |
+| Salutations My Little Friend | 11.00% | ~1,677 |
+| Iron-y | 10.00% | ~1,524 |
+| Gun for Hire | 9.00% | ~1,372 |
+| Mischief Managed | 9.00% | ~1,372 |
+| Vice City Mogul | 7.00% | ~1,067 |
 | Catch Me if You Can | 6.00% | ~914 |
 | Bloodstained Hands | 6.00% | ~914 |
 | Not my First Time | 5.00% | ~762 |
 | Grand Theft Auto | 5.00% | ~762 |
-| Pie Guy | 4.00% | ~609 |
+| Pie Guy | 4.00% | ~610 |
 | Point A to Point B | 3.00% | ~457 |
 | High Quality H2O | 3.00% | ~457 |
 | Bull in a China Shop | 3.00% | ~457 |
@@ -40,8 +40,8 @@ Rating: 4.52 (Ranked 574)
 | Done it All | 0.90% | ~137 |
 | Kingpin | 0.60% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,234 (Ranked 168)  
-Completed: 85 (0.56%) (Ranked 209)  
+Progressed: 15,241 (Ranked 168)  
+Completed: 85 (0.56%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -298,7 +298,7 @@ Completed: 85 (0.56%) (Ranked 209)
 | 2023-12-31 | 14,859 | 83 |
 | 2024-01-01 | 15,003 | 84 |
 | 2024-01-02 | 15,126 | 85 |
-| 2024-01-03 | 15,234 | 85 |
+| 2024-01-03 | 15,241 | 85 |
 ## Awards
 Max (Great Boss Battles): 177  (Ranked 311)  
 Sum: 177 (Ranked 426)  

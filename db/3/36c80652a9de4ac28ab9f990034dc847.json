@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 565,
   "Ranking_EOS_Completed": 130,
   "Ranking_EOS_NewPlayers": 431,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-08-22T23:00:00+00:00",
     "PcReleaseDate": "2019-08-22T23:00:00+00:00",
@@ -379,9 +379,9 @@
       "ID": "PvP_Mission",
       "SetID": "cla1dpp",
       "Name": "Many men, many corpses.",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Surv_10",
@@ -442,8 +442,8 @@
   ],
   "FirstSeen": "2023-10-24T18:58:49.6745587+00:00",
   "FirstSeenAchievements": "2023-08-23T14:02:21.3308024+00:00",
-  "LastChanged_Achievements": "2024-01-03T22:09:21.5120834+00:00",
+  "LastChanged_Achievements": "2024-01-03T23:10:30.8236504+00:00",
   "LastUpdate_AppInfo": "2023-12-28T02:56:54.5483043+00:00",
-  "LastUpdate_Ratings": "2024-01-03T22:00:10.3345918+00:00",
-  "LastUpdate_Achievements": "2024-01-03T22:09:21.5120994+00:00"
+  "LastUpdate_Ratings": "2024-01-03T23:01:52.943258+00:00",
+  "LastUpdate_Achievements": "2024-01-03T23:10:30.8236701+00:00"
 }

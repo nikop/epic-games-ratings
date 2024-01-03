@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 443,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 431,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-03-01T17:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 511,
+  "EOS_Progressed": 512,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.37,
   "EosHistory": [
@@ -850,6 +850,11 @@
       "Time": "2024-01-02T22:05:56.7925782+00:00",
       "NumProgressed": 511,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-03T23:08:01.1992684+00:00",
+      "NumProgressed": 512,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 36,
@@ -861,7 +866,7 @@
       "Name": "Huzza, he\u0027s back.",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "dep4_achievement_10",
@@ -901,7 +906,7 @@
       "Name": "Shall we play a game?",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "dep4_achievement_15",
@@ -933,7 +938,7 @@
       "Name": "Chunky",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "dep4_achievement_19",
@@ -941,7 +946,7 @@
       "Name": "FunScore",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "dep4_achievement_2",
@@ -949,7 +954,7 @@
       "Name": "And again, and again, and...",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "dep4_achievement_20",
@@ -1109,7 +1114,7 @@
       "Name": "Boat of love, boat of love",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "dep4_achievement_6",
@@ -1125,7 +1130,7 @@
       "Name": "Portals come in packs",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "dep4_achievement_8",
@@ -1148,7 +1153,7 @@
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 511,
+      "Progressed": 512,
       "Completed": 7
     }
   ],
@@ -1156,8 +1161,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-09-28T09:59:33.6365228+00:00",
-  "LastChanged_Achievements": "2024-01-03T22:06:01.5017439+00:00",
+  "LastChanged_Achievements": "2024-01-03T23:08:01.1992681+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:30.0571081+00:00",
-  "LastUpdate_Ratings": "2024-01-03T22:03:01.0194494+00:00",
-  "LastUpdate_Achievements": "2024-01-03T22:06:01.5017739+00:00"
+  "LastUpdate_Ratings": "2024-01-03T23:03:47.8759596+00:00",
+  "LastUpdate_Achievements": "2024-01-03T23:08:01.1993008+00:00"
 }

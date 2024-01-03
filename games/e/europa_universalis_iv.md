@@ -9,8 +9,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | That's a Grand Army | 0.50% | ~2,457 |
 | Until death do us apart | 0.50% | ~2,457 |
 | Victorious! | 0.50% | ~2,457 |
-| Seriously?! | 0.40% | ~1,965 |
-| That is mine! | 0.40% | ~1,965 |
+| Seriously?! | 0.40% | ~1,966 |
+| That is mine! | 0.40% | ~1,966 |
 | Brothers in Arms | 0.30% | ~1,474 |
 | That's a Grand Navy | 0.30% | ~1,474 |
 | Blockader | 0.20% | ~983 |
@@ -261,6 +261,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Sweet Home Qaraqorum | 0.10% | ~491 |
 | Switzerlake | 0.10% | ~491 |
 | Take that, von Habsburgs! | 0.10% | ~491 |
+| Tatarstan | 0.10% | ~491 |
 | Tear Down This Wall | 0.10% | ~491 |
 | Terra Mariana | 0.10% | ~491 |
 | That's a Silk Road | 0.10% | ~491 |
@@ -359,7 +360,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Foremost Servitor of Jagannath | 0.00% | ~0 |
 | Spaghetti Western | 0.00% | ~0 |
 | Sworn Fealty | 0.00% | ~0 |
-| Tatarstan | 0.00% | ~0 |
 | The Freest Man in the World | 0.00% | ~0 |
 | The Third Way | 0.00% | ~0 |
 | The Three Mountains | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 491,351 (Ranked 43)  
+Progressed: 491,381 (Ranked 43)  
 Completed: 1 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -628,7 +628,7 @@ Completed: 1 (0.00%) (Ranked 392)
 | 2023-12-31 | 489,119 | 1 |
 | 2024-01-01 | 489,961 | 1 |
 | 2024-01-02 | 490,643 | 1 |
-| 2024-01-03 | 491,351 | 1 |
+| 2024-01-03 | 491,381 | 1 |
 ## Awards
 Max (Educational): 7,696  (Ranked 54)  
 Sum: 63,439 (Ranked 24)  

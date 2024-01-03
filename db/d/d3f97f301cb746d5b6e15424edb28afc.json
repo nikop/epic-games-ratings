@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -4393,9 +4393,9 @@
       "ID": "GSS_ACH_01_SHOP_01",
       "SetID": "5fn8ia4",
       "Name": "First Customer!",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 1350
+      "UsersEstimate": 1366
     },
     {
       "ID": "GSS_ACH_02_SHOP_02",
@@ -4505,9 +4505,9 @@
       "ID": "GSS_ACH_15_FUEL_SERVE_03",
       "SetID": "5fn8ia4",
       "Name": "Skills to Pay the Bills",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 1117
+      "UsersEstimate": 1133
     },
     {
       "ID": "GSS_ACH_16_ORDER_FUEL",
@@ -4601,9 +4601,9 @@
       "ID": "GSS_ACH_28_PAINT_02",
       "SetID": "5fn8ia4",
       "Name": "On the Roll",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 1273
+      "UsersEstimate": 1288
     },
     {
       "ID": "GSS_ACH_29_PAINT_03",
@@ -4657,9 +4657,9 @@
       "ID": "GSS_ACH_35_BROOM_01",
       "SetID": "5fn8ia4",
       "Name": "Broomed",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1428
     },
     {
       "ID": "GSS_ACH_36_BROOM_02",
@@ -4713,9 +4713,9 @@
       "ID": "GSS_ACH_42_CARAVAN_01",
       "SetID": "5fn8ia4",
       "Name": "Help Wanted!",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1071
     },
     {
       "ID": "GSS_ACH_43_CARAVAN_02",
@@ -5050,8 +5050,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-03T14:59:41.5993566+00:00",
-  "LastChanged_Achievements": "2024-01-03T22:06:04.1291565+00:00",
+  "LastChanged_Achievements": "2024-01-03T23:08:05.0495443+00:00",
   "LastUpdate_AppInfo": "2024-01-01T19:57:12.6980533+00:00",
-  "LastUpdate_Ratings": "2024-01-03T21:58:56.4766451+00:00",
-  "LastUpdate_Achievements": "2024-01-03T22:06:04.129277+00:00"
+  "LastUpdate_Ratings": "2024-01-03T23:00:08.2962825+00:00",
+  "LastUpdate_Achievements": "2024-01-03T23:08:05.0496871+00:00"
 }

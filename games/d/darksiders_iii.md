@@ -31,7 +31,7 @@ Number of Ratings: 116  (23.09.2022)
 | Freeze Frame | 27.00% | ~109 |
 | Eat Your Heart Out | 27.00% | ~109 |
 | For Whom the Bell Tolls | 27.00% | ~109 |
-| Unyielding Strength | 24.00% | ~97 |
+| Unyielding Strength | 25.00% | ~101 |
 | Can you restore the Balance? | 24.00% | ~97 |
 | Big Spender | 24.00% | ~97 |
 | Cleanup Crew | 22.00% | ~89 |

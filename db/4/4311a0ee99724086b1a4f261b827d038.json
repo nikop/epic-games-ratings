@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -833,9 +833,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 241283,
+  "EOS_Progressed": 241288,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1328,
+  "EOS_NewPlayers": 1321,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19908,6 +19908,11 @@
       "Time": "2024-01-03T22:09:44.6766316+00:00",
       "NumProgressed": 241283,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T23:11:03.3061672+00:00",
+      "NumProgressed": 241288,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -19976,7 +19981,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 50669
+      "UsersEstimate": 50670
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -19984,7 +19989,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21715
+      "UsersEstimate": 21716
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -20000,7 +20005,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9651
+      "UsersEstimate": 9652
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -20016,7 +20021,7 @@
       "Name": "Diamond Shoals Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 7238
+      "UsersEstimate": 7239
     },
     {
       "ID": "HW1_MISSION7_COMPLETE",
@@ -20024,7 +20029,7 @@
       "Name": "The Gardens of Kadesh Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 7238
+      "UsersEstimate": 7239
     },
     {
       "ID": "HW1_MISSION8_COMPLETE",
@@ -20176,7 +20181,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 60321
+      "UsersEstimate": 60322
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -20191,7 +20196,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 241283,
+      "Progressed": 241288,
       "Completed": 0
     }
   ],
@@ -20199,8 +20204,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2024-01-02T14:59:18.2342094+00:00",
-  "LastChanged_Achievements": "2024-01-03T22:09:44.6766312+00:00",
+  "LastChanged_Achievements": "2024-01-03T23:11:03.3061665+00:00",
   "LastUpdate_AppInfo": "2023-12-29T06:57:17.105104+00:00",
-  "LastUpdate_Ratings": "2024-01-03T21:59:03.0675418+00:00",
-  "LastUpdate_Achievements": "2024-01-03T22:09:44.6767638+00:00"
+  "LastUpdate_Ratings": "2024-01-03T23:00:17.0640251+00:00",
+  "LastUpdate_Achievements": "2024-01-03T23:11:03.3062608+00:00"
 }

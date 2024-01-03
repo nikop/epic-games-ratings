@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 695,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-06-22T16:00:00+00:00",
     "PcReleaseDate": "2023-06-22T16:00:00+00:00",
@@ -74,9 +74,9 @@
       "ID": "complete_book1",
       "SetID": "5o7abj2",
       "Name": "Drop of Infinity",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "complete_book2",
@@ -202,9 +202,9 @@
       "ID": "dialogue_some_items",
       "SetID": "5o7abj2",
       "Name": "Alternate Solution",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "fight_blocked_damage",
@@ -274,9 +274,9 @@
       "ID": "potion_half",
       "SetID": "5o7abj2",
       "Name": "Divide (and Conquer)",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "return_keys",
@@ -346,9 +346,9 @@
       "ID": "upgrade_one",
       "SetID": "5o7abj2",
       "Name": "\u0022Your Shield,  My Liege\u0022",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
@@ -361,8 +361,8 @@
   ],
   "FirstSeen": "2023-06-24T19:57:11.4257975+00:00",
   "FirstSeenAchievements": "2023-06-14T13:08:04.4229366+00:00",
-  "LastChanged_Achievements": "2024-01-03T22:09:46.73336+00:00",
+  "LastChanged_Achievements": "2024-01-03T23:11:04.918674+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:19.4011766+00:00",
-  "LastUpdate_Ratings": "2024-01-03T22:00:13.893547+00:00",
-  "LastUpdate_Achievements": "2024-01-03T22:09:46.7334147+00:00"
+  "LastUpdate_Ratings": "2024-01-03T23:01:57.4893175+00:00",
+  "LastUpdate_Achievements": "2024-01-03T23:11:04.9186993+00:00"
 }

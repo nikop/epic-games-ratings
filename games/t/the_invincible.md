@@ -5,25 +5,25 @@ Rating: 4.57 (Ranked 490)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 68.00% | ~913 |
-| The Teleprobe | 53.00% | ~711 |
-| The City | 48.00% | ~644 |
-| The field base | 44.00% | ~590 |
-| The Alliance | 39.00% | ~523 |
-| Survivors | 38.00% | ~510 |
-| The Condor | 36.00% | ~483 |
-| The End | 35.00% | ~470 |
-| The Necroevolution | 28.00% | ~376 |
-| Krauta is alive | 27.00% | ~362 |
+| The Camp | 68.00% | ~915 |
+| The Teleprobe | 53.00% | ~713 |
+| The City | 48.00% | ~646 |
+| The field base | 44.00% | ~592 |
+| The Alliance | 39.00% | ~525 |
+| Survivors | 38.00% | ~511 |
+| The Condor | 36.00% | ~484 |
+| The End | 35.00% | ~471 |
+| The Necroevolution | 28.00% | ~377 |
+| Krauta is alive | 27.00% | ~363 |
 | On her own | 21.00% | ~282 |
 | Peacemaker | 21.00% | ~282 |
 | Volcanologist | 21.00% | ~282 |
-| Fierce fight | 20.00% | ~268 |
-| Evacuation | 19.00% | ~255 |
-| Beyond divisions | 17.00% | ~228 |
+| Fierce fight | 20.00% | ~269 |
+| Evacuation | 19.00% | ~256 |
+| Beyond divisions | 17.00% | ~229 |
 | Flying Objects Operator | 16.00% | ~215 |
 | I remember everything! | 14.00% | ~188 |
-| Another giant | 13.00% | ~174 |
+| Another giant | 13.00% | ~175 |
 | Violent solution | 9.00% | ~121 |
 | I leave no man behind | 9.00% | ~121 |
 | Innate curiosity | 7.00% | ~94 |
@@ -32,10 +32,10 @@ Rating: 4.57 (Ranked 490)
 | Strong objection | 6.00% | ~81 |
 | Got lost again | 5.00% | ~67 |
 | I leave no man behind (no exceptions) | 2.00% | ~27 |
-| Convoy list | 0.90% | ~12 |
+| Convoy list | 1.00% | ~13 |
 | No more mistakes | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,342 (Ranked 272)  
+Progressed: 1,345 (Ranked 272)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2023-12-31 | 1,236 | 0 |
 | 2024-01-01 | 1,273 | 0 |
 | 2024-01-02 | 1,309 | 0 |
-| 2024-01-03 | 1,342 | 0 |
+| 2024-01-03 | 1,345 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

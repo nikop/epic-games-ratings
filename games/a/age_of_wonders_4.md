@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.62 (Ranked 374)  
+Rating: 4.62 (Ranked 375)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,7 +10,7 @@ Rating: 4.62 (Ranked 374)
 | A Wonderful Discovery | 12.00% | ~815 |
 | Walls Cannot Stop Us | 11.00% | ~747 |
 | From Friends to Family | 10.00% | ~679 |
-| Bone Peddler | 8.00% | ~543 |
+| Bone Peddler | 9.00% | ~611 |
 | Full Ascension | 7.00% | ~476 |
 | Magical Synergy | 7.00% | ~476 |
 | There Can Only Be One! | 6.00% | ~408 |

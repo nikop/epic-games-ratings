@@ -5,16 +5,16 @@ Rating: 4.75 (Ranked 146)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 88.00% | ~15,331 |
-| I Challenge You To Save More Money! | 81.00% | ~14,112 |
-| I Love How Tough You Are | 65.00% | ~11,324 |
+| Last Night...Did We... | 88.00% | ~15,332 |
+| I Challenge You To Save More Money! | 81.00% | ~14,113 |
+| I Love How Tough You Are | 65.00% | ~11,325 |
 | Wanna Come To My Place For Dinner? | 58.00% | ~10,105 |
 | What I Want Is You | 53.00% | ~9,234 |
-| To Be Or Not To Be | 50.00% | ~8,711 |
-| Are You Alright? | 47.00% | ~8,188 |
+| To Be Or Not To Be | 50.00% | ~8,712 |
+| Are You Alright? | 47.00% | ~8,189 |
 | Love Actually | 41.00% | ~7,143 |
 | Drama King | 36.00% | ~6,272 |
-| Go Clean up In Your Own Way | 33.00% | ~5,749 |
+| Go Clean up In Your Own Way | 33.00% | ~5,750 |
 | You're Really Something Else | 32.00% | ~5,575 |
 | Drama CP: Reel to Real | 31.00% | ~5,401 |
 | Happy Family | 30.00% | ~5,227 |
@@ -31,11 +31,11 @@ Rating: 4.75 (Ranked 146)
 | A Slap In The Face! | 21.00% | ~3,659 |
 | That's So You | 21.00% | ~3,659 |
 | SALUTE | 21.00% | ~3,659 |
-| Let Me Be Your Toy Boy | 20.00% | ~3,484 |
+| Let Me Be Your Toy Boy | 20.00% | ~3,485 |
 | Off We Sail Tonight | 15.00% | ~2,613 |
 | Love You Three Thousand | 13.00% | ~2,265 |
 | Can You Do This Or Not? | 13.00% | ~2,265 |
-| Doesn't Matter I'll Handle It | 11.00% | ~1,916 |
+| Doesn't Matter I'll Handle It | 11.00% | ~1,917 |
 | The Flash | 10.00% | ~1,742 |
 | New Yoga Pose Unlocked | 10.00% | ~1,742 |
 | My Dear Love! | 8.00% | ~1,394 |
@@ -48,7 +48,7 @@ Rating: 4.75 (Ranked 146)
 | Tall; Grande; Venti | 2.00% | ~348 |
 | Limerence | 2.00% | ~348 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,422 (Ranked 162)  
+Progressed: 17,423 (Ranked 162)  
 Completed: 289 (1.66%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 289 (1.66%) (Ranked 144)
 | 2023-12-31 | 16,987 | 281 |
 | 2024-01-01 | 17,170 | 287 |
 | 2024-01-02 | 17,300 | 288 |
-| 2024-01-03 | 17,422 | 289 |
+| 2024-01-03 | 17,423 | 289 |
 ## Awards
 Max (Impact the Story): 34  (Ranked 504)  
 Sum: 34 (Ranked 531)  

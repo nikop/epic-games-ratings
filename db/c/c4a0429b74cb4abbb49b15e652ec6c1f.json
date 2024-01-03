@@ -4,8 +4,8 @@
   "ProductSlug": "deverse-world-3ccb84",
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 525,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2024-02-29T02:00:00+00:00",
     "PcReleaseDate": "2024-02-29T02:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 462,
+  "EOS_Progressed": 463,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1999,6 +1999,11 @@
       "Time": "2023-12-22T17:09:46.3651557+00:00",
       "NumProgressed": 462,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T23:11:02.3065494+00:00",
+      "NumProgressed": 463,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-19T08:04:21.5092334+00:00",
@@ -2139,7 +2144,7 @@
       "Name": "Your virtual self",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "visit_cleric",
@@ -2162,14 +2167,14 @@
     {
       "ID": "5fi1i42",
       "IsBase": true,
-      "Progressed": 462,
+      "Progressed": 463,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-12T15:57:01.7070767+00:00",
   "FirstSeenAchievements": "2023-07-18T16:05:27.8243884+00:00",
-  "LastChanged_Achievements": "2024-01-03T22:09:43.9229925+00:00",
+  "LastChanged_Achievements": "2024-01-03T23:11:02.3065488+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:05.95466+00:00",
-  "LastUpdate_Ratings": "2024-01-03T21:57:57.2167418+00:00",
-  "LastUpdate_Achievements": "2024-01-03T22:09:43.9230181+00:00"
+  "LastUpdate_Ratings": "2024-01-03T22:58:44.3450182+00:00",
+  "LastUpdate_Achievements": "2024-01-03T23:11:02.3065696+00:00"
 }

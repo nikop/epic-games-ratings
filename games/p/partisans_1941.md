@@ -1,21 +1,21 @@
 # Partisans 1941
 [Store](https://store.epicgames.com/en-US/p/partisans-1941)  
 [View Rawdata](../../db/p/partisans_1941.json)  
-Rating: 4.62 (Ranked 374)  
+Rating: 4.62 (Ranked 375)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| E1M1 | 45.00% | ~867 |
+| E1M1 | 45.00% | ~868 |
 | Grenadier | 44.00% | ~848 |
 | War Never Changes | 44.00% | ~848 |
 | Heroes Never Die | 41.00% | ~790 |
 | Mosquito bite | 37.00% | ~713 |
 | Spice It Up | 33.00% | ~636 |
-| Agent 47 | 27.00% | ~520 |
-| You're Gonna Go Far, Kid | 27.00% | ~520 |
-| Bomberman | 27.00% | ~520 |
-| Death to the Oppressor! | 20.00% | ~385 |
+| Agent 47 | 27.00% | ~521 |
+| You're Gonna Go Far, Kid | 27.00% | ~521 |
+| Bomberman | 27.00% | ~521 |
+| Death to the Oppressor! | 20.00% | ~386 |
 | The Gang's All Here | 17.00% | ~328 |
 | One by One | 15.00% | ~289 |
 | Your Answer | 15.00% | ~289 |
@@ -37,7 +37,7 @@ Number of Ratings: 98  (23.09.2022)
 | A Little Culture | 0.10% | ~2 |
 | Scout | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,927 (Ranked 248)  
+Progressed: 1,928 (Ranked 248)  
 Completed: 2 (0.10%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,7 +271,7 @@ Completed: 2 (0.10%) (Ranked 305)
 | 2023-12-31 | 1,918 | 2 |
 | 2024-01-01 | 1,922 | 2 |
 | 2024-01-02 | 1,924 | 2 |
-| 2024-01-03 | 1,927 | 2 |
+| 2024-01-03 | 1,928 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -4,8 +4,8 @@
   "ProductSlug": "creepy-tale-058ebd",
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2021-02-21T17:00:00+00:00",
@@ -1172,9 +1172,9 @@
       "ID": "creepytaleach8",
       "SetID": "bnif31p",
       "Name": "Fake tune",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 75,
-      "UsersEstimate": 110
+      "UsersEstimate": 112
     },
     {
       "ID": "creepytaleach9",
@@ -1195,8 +1195,8 @@
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2024-01-03T22:09:42.3863455+00:00",
+  "LastChanged_Achievements": "2024-01-03T23:10:59.8136529+00:00",
   "LastUpdate_AppInfo": "2024-01-03T07:57:06.3288119+00:00",
-  "LastUpdate_Ratings": "2024-01-03T22:00:05.6267419+00:00",
-  "LastUpdate_Achievements": "2024-01-03T22:09:42.3863652+00:00"
+  "LastUpdate_Ratings": "2024-01-03T23:01:46.259823+00:00",
+  "LastUpdate_Achievements": "2024-01-03T23:10:59.813667+00:00"
 }

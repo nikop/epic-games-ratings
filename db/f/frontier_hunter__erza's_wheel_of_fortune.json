@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -2566,9 +2566,9 @@
       "ID": "ACHIEVEMENT_28",
       "SetID": "7pimpda",
       "Name": "Trader",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 152
+      "UsersEstimate": 159
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -2775,8 +2775,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2024-01-02T13:03:58.5026072+00:00",
-  "LastChanged_Achievements": "2024-01-03T22:09:04.9447818+00:00",
+  "LastChanged_Achievements": "2024-01-03T23:10:08.6787551+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:39.5136135+00:00",
-  "LastUpdate_Ratings": "2024-01-03T21:57:21.8973679+00:00",
-  "LastUpdate_Achievements": "2024-01-03T22:09:04.9448362+00:00"
+  "LastUpdate_Ratings": "2024-01-03T22:57:53.7074957+00:00",
+  "LastUpdate_Achievements": "2024-01-03T23:10:08.6787981+00:00"
 }

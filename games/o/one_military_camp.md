@@ -5,28 +5,28 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 51.00% | ~141 |
-| The 4 Pillars | 48.00% | ~132 |
-| Capitalism | 20.00% | ~55 |
+| The 4 Pillars | 48.00% | ~133 |
+| Capitalism | 19.00% | ~53 |
 | Green Energy | 12.00% | ~33 |
 | There's something in those trees | 11.00% | ~30 |
-| Great Producer | 11.00% | ~30 |
 | Desert Power | 10.00% | ~28 |
 | Indebted | 10.00% | ~28 |
+| Great Producer | 10.00% | ~28 |
 | Health Care | 9.00% | ~25 |
 | Perfect Soldier | 8.00% | ~22 |
 | Desert Rat | 8.00% | ~22 |
-| Healing | 7.00% | ~19 |
-| Food Tycoon | 7.00% | ~19 |
-| Fuel Tycoon | 7.00% | ~19 |
 | Ammo Tycoon | 7.00% | ~19 |
+| Healing | 6.00% | ~17 |
 | Good payer | 6.00% | ~17 |
 | Pathfinder | 6.00% | ~17 |
+| Food Tycoon | 6.00% | ~17 |
+| Fuel Tycoon | 6.00% | ~17 |
 | Jantine: the Misfortunes of Evil | 5.00% | ~14 |
 | Overpopulation | 5.00% | ~14 |
 | Self-sufficient | 5.00% | ~14 |
+| Medicine Tycoon | 5.00% | ~14 |
 | Outdoor Decorator | 4.00% | ~11 |
 | Property Bro | 4.00% | ~11 |
-| Medicine Tycoon | 4.00% | ~11 |
 | Tear Down the Wall! | 3.00% | ~8 |
 | Supersoldier | 3.00% | ~8 |
 | Vive le Résistance | 3.00% | ~8 |
@@ -35,12 +35,12 @@
 | Training Camp | 3.00% | ~8 |
 | Winter Soldier | 2.00% | ~6 |
 | Economist | 1.00% | ~3 |
+| Counter-espionage | 1.00% | ~3 |
 | Crisis Committee | 1.00% | ~3 |
 | Snowman | 1.00% | ~3 |
 | Reconquest | 1.00% | ~3 |
 | Against Adversity | 1.00% | ~3 |
 | Researcher | 1.00% | ~3 |
-| Counter-espionage | 0.70% | ~2 |
 | Conveyor Belt Madness | 0.40% | ~1 |
 | People's Hero | 0.40% | ~1 |
 | Attack of the Drones | 0.00% | ~0 |
@@ -49,7 +49,7 @@
 | First Victory | 0.00% | ~0 |
 | Sandbox Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 276 (Ranked 401)  
+Progressed: 277 (Ranked 400)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,4 +142,4 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2023-12-31 | 262 | 0 |
 | 2024-01-01 | 265 | 0 |
 | 2024-01-02 | 269 | 0 |
-| 2024-01-03 | 276 | 0 |
+| 2024-01-03 | 277 | 0 |

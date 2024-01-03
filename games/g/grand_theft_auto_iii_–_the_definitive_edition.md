@@ -13,7 +13,7 @@ Rating: 4.21 (Ranked 947)
 | Street Sweeper | 19.00% | ~2,178 |
 | Liberty City Minute | 17.00% | ~1,948 |
 | Offshore Delivery | 14.00% | ~1,605 |
-| Dirty Money | 12.00% | ~1,375 |
+| Dirty Money | 13.00% | ~1,490 |
 | By a Mile | 10.00% | ~1,146 |
 | Not So Fast | 10.00% | ~1,146 |
 | Right-hand Man | 10.00% | ~1,146 |
@@ -36,7 +36,7 @@ Rating: 4.21 (Ranked 947)
 | King of Liberty City | 0.70% | ~80 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 11,461 (Ranked 177)  
-Completed: 76 (0.66%) (Ranked 199)  
+Completed: 76 (0.66%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

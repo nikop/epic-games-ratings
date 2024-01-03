@@ -6,9 +6,9 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~15,659 |
-| Sweet Sorrow | 18.00% | ~7,829 |
-| Rules the Waves | 17.00% | ~7,394 |
+| Sink Beneath the Waves | 36.00% | ~15,661 |
+| Sweet Sorrow | 18.00% | ~7,830 |
+| Rules the Waves | 17.00% | ~7,395 |
 | Thou, All-Shaking Thunder | 15.00% | ~6,525 |
 | Rival | 14.00% | ~6,090 |
 | Correspondent | 12.00% | ~5,220 |
@@ -37,31 +37,31 @@ Number of Ratings: 401  (23.09.2022)
 | Knife, Cup and Bone | 1.00% | ~435 |
 | Rosewater sailor | 1.00% | ~435 |
 | A current under zee | 1.00% | ~435 |
-| Never Stop Sinking... | 0.90% | ~391 |
-| His bones in whispers | 0.90% | ~391 |
-| The beauty of the deep | 0.90% | ~391 |
-| The dragon in the zee | 0.90% | ~391 |
-| Thanks for all the fish | 0.90% | ~391 |
-| Those are pearls that were his eyes | 0.90% | ~391 |
-| No regrets | 0.90% | ~391 |
-| Under the zee | 0.90% | ~391 |
-| Depth charge | 0.90% | ~391 |
+| Never Stop Sinking... | 0.90% | ~392 |
+| His bones in whispers | 0.90% | ~392 |
+| The beauty of the deep | 0.90% | ~392 |
+| The dragon in the zee | 0.90% | ~392 |
+| Thanks for all the fish | 0.90% | ~392 |
+| Those are pearls that were his eyes | 0.90% | ~392 |
+| No regrets | 0.90% | ~392 |
+| Under the zee | 0.90% | ~392 |
+| Depth charge | 0.90% | ~392 |
 | A zee-change | 0.80% | ~348 |
 | Leviathan | 0.80% | ~348 |
-| What lies beneath | 0.70% | ~304 |
-| Stone's Curse | 0.70% | ~304 |
-| Five Years at Zee | 0.50% | ~217 |
+| What lies beneath | 0.70% | ~305 |
+| Stone's Curse | 0.70% | ~305 |
+| Five Years at Zee | 0.50% | ~218 |
 | The Lady's Parlour | 0.20% | ~87 |
 | A Past Wreathed in Shadows | 0.20% | ~87 |
 | Under pressure | 0.20% | ~87 |
-| A Drownie devotee | 0.10% | ~43 |
-| Romans 6:9 | 0.10% | ~43 |
-| Ofermod | 0.10% | ~43 |
-| Consider Phlebas | 0.10% | ~43 |
-| Death By Water | 0.10% | ~43 |
-| Ten Years at Zee | 0.10% | ~43 |
+| A Drownie devotee | 0.10% | ~44 |
+| Romans 6:9 | 0.10% | ~44 |
+| Ofermod | 0.10% | ~44 |
+| Consider Phlebas | 0.10% | ~44 |
+| Death By Water | 0.10% | ~44 |
+| Ten Years at Zee | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,497 (Ranked 130)  
+Progressed: 43,502 (Ranked 130)  
 Completed: 4 (0.01%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 4 (0.01%) (Ranked 368)
 | 2023-12-31 | 43,307 | 4 |
 | 2024-01-01 | 43,379 | 4 |
 | 2024-01-02 | 43,431 | 4 |
-| 2024-01-03 | 43,497 | 4 |
+| 2024-01-03 | 43,502 | 4 |
 ## Awards
 Max (Character Customization): 221  (Ranked 289)  
 Sum: 315 (Ranked 376)  

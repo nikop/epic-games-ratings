@@ -21,7 +21,7 @@ Rating: 4.35 (Ranked 820)
 | Giant Lizard Killer | 27.00% | ~187 |
 | Guardian | 26.00% | ~180 |
 | Nosebleeder | 26.00% | ~180 |
-| Trader | 22.00% | ~152 |
+| Trader | 23.00% | ~159 |
 | Weapon Boost | 21.00% | ~146 |
 | Flying Kobold Killer | 19.00% | ~132 |
 | Youth Magnet | 18.00% | ~125 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -173,9 +173,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24384,
+  "EOS_Progressed": 24390,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 462,
+  "EOS_NewPlayers": 466,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -22338,6 +22338,11 @@
       "Time": "2024-01-03T22:04:05.1848753+00:00",
       "NumProgressed": 24384,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2024-01-03T23:05:22.8303197+00:00",
+      "NumProgressed": 24390,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 14,
@@ -22349,7 +22354,7 @@
       "Name": "Across The Border",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 18776
+      "UsersEstimate": 18780
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -22365,7 +22370,7 @@
       "Name": "Caught in a Trap",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 2438
+      "UsersEstimate": 2439
     },
     {
       "ID": "ACH_DANGER_AHEAD",
@@ -22373,7 +22378,7 @@
       "Name": "Danger Ahead",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 6096
+      "UsersEstimate": 6098
     },
     {
       "ID": "ACH_DONT_BRING_ME_DOWN",
@@ -22381,7 +22386,7 @@
       "Name": "Don\u0027t Bring Me Down",
       "Percentage": 17,
       "XP": 90,
-      "UsersEstimate": 4145
+      "UsersEstimate": 4146
     },
     {
       "ID": "ACH_EVEYONE_IS_BORN_TO_DIE",
@@ -22389,7 +22394,7 @@
       "Name": "Everyone\u0027s Born to Die",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 3414
+      "UsersEstimate": 3415
     },
     {
       "ID": "ACH_HELLO_MY_OLD_FRIEND",
@@ -22397,7 +22402,7 @@
       "Name": "Hello My Old Friend",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1219
+      "UsersEstimate": 1220
     },
     {
       "ID": "ACH_IM_ALIVE",
@@ -22405,7 +22410,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 12436
+      "UsersEstimate": 12439
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -22413,7 +22418,7 @@
       "Name": "In For The Kill",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 2682
+      "UsersEstimate": 2683
     },
     {
       "ID": "ACH_IN_MY_OWN_TIME",
@@ -22421,7 +22426,7 @@
       "Name": "In My Own Time",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 2926
+      "UsersEstimate": 2927
     },
     {
       "ID": "ACH_LOOK_AT_ME_NOW",
@@ -22429,7 +22434,7 @@
       "Name": "Look at Me Now",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 6340
+      "UsersEstimate": 6341
     },
     {
       "ID": "ACH_THE_FALL",
@@ -22437,7 +22442,7 @@
       "Name": "The Fall",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 3901
+      "UsersEstimate": 3902
     },
     {
       "ID": "ACH_TIME_OF_OUR_LIFE",
@@ -22453,22 +22458,22 @@
       "Name": "Wild West Hero",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 3170
+      "UsersEstimate": 3171
     }
   ],
   "AchievementSets": [
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 24384,
+      "Progressed": 24390,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-11-02T20:58:32.2795394+00:00",
-  "LastChanged_Achievements": "2024-01-03T22:04:05.1848749+00:00",
+  "LastChanged_Achievements": "2024-01-03T23:05:22.8303193+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:21.7307915+00:00",
-  "LastUpdate_Ratings": "2024-01-03T22:02:47.1198843+00:00",
-  "LastUpdate_Achievements": "2024-01-03T22:04:05.1849809+00:00"
+  "LastUpdate_Ratings": "2024-01-03T23:03:29.8442853+00:00",
+  "LastUpdate_Achievements": "2024-01-03T23:05:22.8304272+00:00"
 }

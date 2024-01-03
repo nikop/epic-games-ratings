@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Introduction completed | 78.00% | ~29 |
-| Chapter 1 | 46.00% | ~17 |
-| Chapter 2 | 43.00% | ~16 |
-| Chapter 3 | 38.00% | ~14 |
-| It's In My Nature | 38.00% | ~14 |
-| Chapter 4 | 35.00% | ~13 |
-| Your Days Are Numbered | 35.00% | ~13 |
-| All Materials | 35.00% | ~13 |
-| Chapter 5 | 30.00% | ~11 |
-| Chapter 6 | 22.00% | ~8 |
-| Ads Fan | 14.00% | ~5 |
-| Best Student | 14.00% | ~5 |
-| Food Thief | 14.00% | ~5 |
-| Hard To Wake Up | 14.00% | ~5 |
+| Introduction completed | 76.00% | ~29 |
+| Chapter 1 | 45.00% | ~17 |
+| Chapter 2 | 42.00% | ~16 |
+| Chapter 3 | 37.00% | ~14 |
+| It's In My Nature | 37.00% | ~14 |
+| Chapter 4 | 34.00% | ~13 |
+| Your Days Are Numbered | 34.00% | ~13 |
+| All Materials | 34.00% | ~13 |
+| Chapter 5 | 29.00% | ~11 |
+| Chapter 6 | 21.00% | ~8 |
+| Ads Fan | 13.00% | ~5 |
+| Best Student | 13.00% | ~5 |
+| Food Thief | 13.00% | ~5 |
+| Hard To Wake Up | 13.00% | ~5 |
 | Highway Survival | 11.00% | ~4 |
 | Sugar Pills Lover | 11.00% | ~4 |
 | Tramp Saver | 11.00% | ~4 |
@@ -34,7 +34,7 @@
 | The World Is My Doormat | 0.00% | ~0 |
 | Worst. Investigator. Ever. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37 (Ranked 575)  
+Progressed: 38 (Ranked 572)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,7 +66,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2023-12-27 | 33 | 0 |
 | 2023-12-31 | 34 | 0 |
 | 2024-01-01 | 36 | 0 |
-| 2024-01-03 | 37 | 0 |
+| 2024-01-03 | 38 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

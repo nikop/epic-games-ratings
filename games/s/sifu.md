@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 5.00% | ~37,649 |
-| The Assault | 4.00% | ~30,119 |
-| Life is your teacher | 4.00% | ~30,119 |
-| Lightning Hands | 4.00% | ~30,119 |
+| The Old Grandmaster | 5.00% | ~37,650 |
+| The Assault | 4.00% | ~30,120 |
+| Life is your teacher | 4.00% | ~30,120 |
+| Lightning Hands | 4.00% | ~30,120 |
 | The Hateful Pole Fighter | 2.00% | ~15,060 |
 | A Lady's Blood in the Snow | 2.00% | ~15,060 |
 | Lady Wing Chun | 2.00% | ~15,060 |
@@ -39,7 +39,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Source of Flying Daggers | 0.50% | ~3,765 |
 | Iron Money | 0.50% | ~3,765 |
 | Sword Stained With Blood | 0.50% | ~3,765 |
-| Bloody Sport | 0.50% | ~311 |
+| Bloody Sport | 0.50% | ~312 |
 | Legendary Talismans of Wuxing | 0.40% | ~3,012 |
 | Prodigal Child | 0.40% | ~3,012 |
 | The 36th Chamber of Kung-Fu | 0.40% | ~3,012 |
@@ -67,8 +67,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~62 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 752,979 (Ranked 24)  
-Completed: 12,972 (1.72%) (Ranked 141)  
+Progressed: 753,003 (Ranked 24)  
+Completed: 12,973 (1.72%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -325,7 +325,7 @@ Completed: 12,972 (1.72%) (Ranked 141)
 | 2023-12-31 | 750,399 | 12,971 |
 | 2024-01-01 | 751,425 | 12,971 |
 | 2024-01-02 | 752,188 | 12,971 |
-| 2024-01-03 | 752,979 | 12,972 |
+| 2024-01-03 | 753,003 | 12,973 |
 ## Awards
 Max (Great Boss Battles): 7,088  (Ranked 55)  
 Sum: 11,987 (Ranked 87)  

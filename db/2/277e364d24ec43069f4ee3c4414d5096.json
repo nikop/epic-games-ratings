@@ -371,9 +371,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 118973,
+  "EOS_Progressed": 118974,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 853,
+  "EOS_NewPlayers": 851,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -23616,6 +23616,11 @@
       "Time": "2024-01-03T22:09:48.3206629+00:00",
       "NumProgressed": 118973,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2024-01-03T23:11:06.8824724+00:00",
+      "NumProgressed": 118974,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 49,
@@ -23635,7 +23640,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 91609
+      "UsersEstimate": 91610
     },
     {
       "ID": "EAwards_10",
@@ -23899,7 +23904,7 @@
       "Name": "Severed",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 15466
+      "UsersEstimate": 15467
     },
     {
       "ID": "EAwards_40",
@@ -24018,7 +24023,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 118973,
+      "Progressed": 118974,
       "Completed": 56
     }
   ],
@@ -24026,8 +24031,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2024-01-02T01:45:21.9654639+00:00",
-  "LastChanged_Achievements": "2024-01-03T22:09:48.3206624+00:00",
+  "LastChanged_Achievements": "2024-01-03T23:11:06.8824722+00:00",
   "LastUpdate_AppInfo": "2023-12-29T08:57:21.6773482+00:00",
-  "LastUpdate_Ratings": "2024-01-03T21:58:47.9595331+00:00",
-  "LastUpdate_Achievements": "2024-01-03T22:09:48.3208996+00:00"
+  "LastUpdate_Ratings": "2024-01-03T22:59:55.3389801+00:00",
+  "LastUpdate_Achievements": "2024-01-03T23:11:06.882612+00:00"
 }

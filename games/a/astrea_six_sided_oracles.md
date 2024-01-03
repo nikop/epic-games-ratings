@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 83.00% | ~258 |
+| Meissa's Savior | 83.00% | ~259 |
 | Purification Pioneer | 79.00% | ~246 |
-| Mechanical Buddy | 73.00% | ~227 |
-| Dicesmithing Time! | 65.00% | ~202 |
-| Sanctuary Guardian | 56.00% | ~174 |
+| Mechanical Buddy | 72.00% | ~225 |
+| Dicesmithing Time! | 65.00% | ~203 |
+| Sanctuary Guardian | 55.00% | ~172 |
 | Endless Tricks | 51.00% | ~159 |
-| Wild's Keeper | 47.00% | ~146 |
+| Wild's Keeper | 47.00% | ~147 |
 | Mind Illuminator | 45.00% | ~140 |
-| Stellar Dismantler | 38.00% | ~118 |
+| Stellar Dismantler | 38.00% | ~119 |
 | Noctuan Champion | 35.00% | ~109 |
 | Astral Adventurer | 34.00% | ~106 |
-| Anomaly Destroyer | 32.00% | ~100 |
+| Anomaly Destroyer | 31.00% | ~97 |
 | Star Killer | 29.00% | ~90 |
 | Eridanian Champion | 25.00% | ~78 |
-| Loyal Partner | 21.00% | ~65 |
-| Lacertian Champion | 21.00% | ~65 |
+| Loyal Partner | 21.00% | ~66 |
+| Lacertian Champion | 21.00% | ~66 |
 | Shard Spender | 19.00% | ~59 |
 | Apian Champion | 19.00% | ~59 |
 | Unbeatable | 18.00% | ~56 |
@@ -37,13 +37,13 @@
 | Anomaly Control | 5.00% | ~16 |
 | Artificer | 5.00% | ~16 |
 | Can't touch this | 5.00% | ~16 |
-| Prestidigitation | 5.00% | ~16 |
-| The Dark Moon | 5.00% | ~16 |
-| Apian Hero | 5.00% | ~16 |
 | Astrarium of Holding | 4.00% | ~12 |
 | Denying Destiny | 4.00% | ~12 |
 | If I Had Failed... | 4.00% | ~12 |
+| Prestidigitation | 4.00% | ~12 |
 | The Chaos Artisan | 4.00% | ~12 |
+| The Dark Moon | 4.00% | ~12 |
+| Apian Hero | 4.00% | ~12 |
 | Behenian Hero | 4.00% | ~12 |
 | Lacertian Hero | 4.00% | ~12 |
 | Noctuan Hero | 4.00% | ~12 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 311 (Ranked 386)  
+Progressed: 312 (Ranked 386)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,4 +172,4 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2023-12-31 | 285 | 0 |
 | 2024-01-01 | 294 | 0 |
 | 2024-01-02 | 303 | 0 |
-| 2024-01-03 | 311 | 0 |
+| 2024-01-03 | 312 | 0 |

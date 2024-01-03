@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Declawing | 64.00% | ~95 |
 | Target Practice | 44.00% | ~65 |
-| The Bigger They Are | 31.00% | ~46 |
+| The Bigger They Are | 32.00% | ~47 |
 | Over the Moon | 30.00% | ~44 |
 | Enemies of Fate | 30.00% | ~44 |
 | Your Training Continues | 29.00% | ~43 |
@@ -27,7 +27,7 @@
 | Broken Reflection | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 148 (Ranked 452)  
-Completed: 1 (0.68%) (Ranked 196)  
+Completed: 1 (0.68%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

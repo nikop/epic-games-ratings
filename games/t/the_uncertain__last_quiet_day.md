@@ -1,7 +1,7 @@
 # The Uncertain: Last Quiet Day
 [Store](https://store.epicgames.com/en-US/p/the-uncertain-last-quiet-day)  
 [View Rawdata](../../db/t/the_uncertain__last_quiet_day.json)  
-Rating: 3.75 (Ranked 1,081)  
+Rating: 3.75 (Ranked 1,082)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -38,7 +38,7 @@ Rating: 3.75 (Ranked 1,081)
 | Accurate | 5.00% | ~31 |
 | Silent | 4.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 627 (Ranked 329)  
+Progressed: 627 (Ranked 330)  
 Completed: 19 (3.03%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |

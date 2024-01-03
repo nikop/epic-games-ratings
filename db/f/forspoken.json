@@ -2,13 +2,13 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 1002,
+  "Ranking_Rating": 1001,
   "Ranking_Popularity": 467,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 368,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -583,9 +583,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 46252,
+  "EOS_Progressed": 46259,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 819,
+  "EOS_NewPlayers": 826,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17533,6 +17533,11 @@
       "Time": "2024-01-03T22:05:43.436493+00:00",
       "NumProgressed": 46252,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-03T23:07:36.7133886+00:00",
+      "NumProgressed": 46259,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -17592,7 +17597,7 @@
       "Name": "Attachments",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5550
+      "UsersEstimate": 5551
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -17696,7 +17701,7 @@
       "Name": "Tinkerer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3700
+      "UsersEstimate": 3701
     },
     {
       "ID": "CUFF_ATTACK",
@@ -17704,7 +17709,7 @@
       "Name": "No Mercy",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2775
+      "UsersEstimate": 2776
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -17760,7 +17765,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2775
+      "UsersEstimate": 2776
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -17967,22 +17972,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 46252,
+      "Progressed": 46259,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 11089,
-      "Completed": 11089
+      "Progressed": 11096,
+      "Completed": 11096
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-03T17:03:22.02257+00:00",
-  "LastChanged_Achievements": "2024-01-03T22:05:43.4364924+00:00",
+  "LastChanged_Achievements": "2024-01-03T23:07:36.7133883+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:48.1998363+00:00",
-  "LastUpdate_Ratings": "2024-01-03T22:02:43.1534901+00:00",
-  "LastUpdate_Achievements": "2024-01-03T22:05:43.4366154+00:00"
+  "LastUpdate_Ratings": "2024-01-03T23:03:23.5038899+00:00",
+  "LastUpdate_Achievements": "2024-01-03T23:07:36.7134876+00:00"
 }

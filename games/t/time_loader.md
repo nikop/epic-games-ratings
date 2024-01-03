@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Screwdriver | 59.00% | ~81 |
+| Screwdriver | 60.00% | ~83 |
 | Springs | 57.00% | ~79 |
-| Soap | 38.00% | ~52 |
-| Purr-fect | 33.00% | ~46 |
-| Act 1 | 33.00% | ~46 |
+| Soap | 38.00% | ~53 |
+| Purr-fect | 34.00% | ~47 |
+| Act 1 | 32.00% | ~44 |
 | Wrench | 31.00% | ~43 |
 | Capacitors | 31.00% | ~43 |
 | Mug | 28.00% | ~39 |
-| Soldering iron | 28.00% | ~39 |
-| Robot Bros | 22.00% | ~30 |
-| Act 2 | 22.00% | ~30 |
-| Act 3 | 20.00% | ~28 |
+| Soldering iron | 27.00% | ~38 |
+| Robot Bros | 22.00% | ~31 |
+| Act 2 | 22.00% | ~31 |
 | Cassette | 19.00% | ~26 |
 | Harpoon | 19.00% | ~26 |
+| Act 3 | 19.00% | ~26 |
 | Here we go again | 18.00% | ~25 |
 | Flyer | 16.00% | ~22 |
 | It’s in the Vault | 14.00% | ~19 |
@@ -26,16 +26,16 @@
 | Time Capsule | 12.00% | ~17 |
 | Photo | 12.00% | ~17 |
 | Ticket | 12.00% | ~17 |
-| Contract | 9.00% | ~12 |
-| Baseball | 9.00% | ~12 |
+| Contract | 9.00% | ~13 |
+| Baseball | 9.00% | ~13 |
 | VHS blogger | 8.00% | ~11 |
 | Out of the loop | 8.00% | ~11 |
 | New Dawn | 8.00% | ~11 |
 | Secret ending | 8.00% | ~11 |
 | Leave me alone | 7.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138 (Ranked 458)  
-Completed: 9 (6.52%) (Ranked 63)  
+Progressed: 139 (Ranked 458)  
+Completed: 9 (6.47%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -76,6 +76,7 @@ Completed: 9 (6.52%) (Ranked 63)
 | 2023-12-28 | 136 | 9 |
 | 2023-12-30 | 137 | 9 |
 | 2023-12-31 | 138 | 9 |
+| 2024-01-03 | 139 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

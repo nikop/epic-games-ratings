@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1238,
+  "EOS_Progressed": 1239,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3122,6 +3122,11 @@
       "Time": "2024-01-03T20:07:53.0055352+00:00",
       "NumProgressed": 1238,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-03T23:09:03.931059+00:00",
+      "NumProgressed": 1239,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -3230,7 +3235,7 @@
       "Name": "For Harkanibus!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "CompleteChapter15",
@@ -3429,14 +3434,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 1238,
+      "Progressed": 1239,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2024-01-03T22:08:17.5732971+00:00",
+  "LastChanged_Achievements": "2024-01-03T23:09:03.9310587+00:00",
   "LastUpdate_AppInfo": "2023-12-29T09:57:13.5043463+00:00",
-  "LastUpdate_Ratings": "2024-01-03T21:59:54.5222816+00:00",
-  "LastUpdate_Achievements": "2024-01-03T22:08:17.5733358+00:00"
+  "LastUpdate_Ratings": "2024-01-03T23:01:30.0239667+00:00",
+  "LastUpdate_Achievements": "2024-01-03T23:09:03.9310935+00:00"
 }

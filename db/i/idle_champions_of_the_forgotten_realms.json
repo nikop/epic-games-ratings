@@ -6,7 +6,7 @@
   "Ranking_Popularity": 72,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 70,
-  "Ranking_EOS_Completed": 169,
+  "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 46,
   "Ranking_EOS_NewCompleters": 17,
   "Store": {
@@ -9251,10 +9251,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 33292,
       "NumberOfAwardsMax": 5730
+    },
+    {
+      "Time": "2024-01-03T22:59:48.0977094+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33294,
+      "NumberOfAwardsMax": 5730
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33292,
+  "NumberOfAwards": 33294,
   "NumberOfAwardsMax": 5730,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9298,12 +9304,12 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3622
+      "Count": 3624
     }
   ],
-  "EOS_Progressed": 250569,
+  "EOS_Progressed": 250594,
   "EOS_Completed": 2588,
-  "EOS_NewPlayers": 5080,
+  "EOS_NewPlayers": 5063,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -38561,6 +38567,11 @@
       "Time": "2024-01-03T22:09:59.2063466+00:00",
       "NumProgressed": 250569,
       "NumCompleted": 2588
+    },
+    {
+      "Time": "2024-01-03T23:11:20.1318877+00:00",
+      "NumProgressed": 250594,
+      "NumCompleted": 2588
     }
   ],
   "TotalAchievements": 546,
@@ -38572,7 +38583,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7517
+      "UsersEstimate": 7518
     },
     {
       "ID": "objective_completed_10",
@@ -40252,7 +40263,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1503
+      "UsersEstimate": 1504
     },
     {
       "ID": "objective_completed_35",
@@ -40436,7 +40447,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1503
+      "UsersEstimate": 1504
     },
     {
       "ID": "objective_completed_40",
@@ -42939,21 +42950,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 216843,
+      "Progressed": 216868,
       "Completed": 4131
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 250569,
+      "Progressed": 250594,
       "Completed": 2588
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-03T20:59:36.4428074+00:00",
-  "LastChanged_Achievements": "2024-01-03T22:09:59.2063462+00:00",
+  "LastChanged": "2024-01-03T22:59:48.0977093+00:00",
+  "LastChanged_Achievements": "2024-01-03T23:11:20.1318872+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-03T21:58:43.2958687+00:00",
-  "LastUpdate_Achievements": "2024-01-03T22:09:59.2089367+00:00"
+  "LastUpdate_Ratings": "2024-01-03T22:59:48.0977099+00:00",
+  "LastUpdate_Achievements": "2024-01-03T23:11:20.1343877+00:00"
 }

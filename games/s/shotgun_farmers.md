@@ -4,38 +4,38 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 81.00% | ~297 |
-| First Blood | 63.00% | ~231 |
-| Triple Kill | 62.00% | ~228 |
-| Aspairagus | 60.00% | ~190 |
-| No Asperascope | 58.00% | ~213 |
-| Survivor | 56.00% | ~178 |
-| Cornivore | 54.00% | ~198 |
-| I Believe I Can Fly | 49.00% | ~180 |
-| No Diggity | 45.00% | ~143 |
-| Early Survivor | 40.00% | ~127 |
-| Bouncemato | 31.00% | ~98 |
-| 10K | 29.00% | ~106 |
-| Amateur Survivor | 29.00% | ~92 |
-| 15K | 27.00% | ~99 |
-| Grave Digger | 23.00% | ~73 |
+| Seeds of War | 81.00% | ~299 |
+| First Blood | 64.00% | ~236 |
+| Triple Kill | 62.00% | ~229 |
+| Aspairagus | 60.00% | ~191 |
+| No Asperascope | 57.00% | ~210 |
+| Survivor | 56.00% | ~179 |
+| Cornivore | 54.00% | ~199 |
+| I Believe I Can Fly | 49.00% | ~181 |
+| No Diggity | 44.00% | ~140 |
+| Early Survivor | 40.00% | ~128 |
+| Bouncemato | 31.00% | ~99 |
+| 10K | 29.00% | ~107 |
+| Amateur Survivor | 28.00% | ~89 |
+| 15K | 27.00% | ~100 |
 | Drinking Problem | 22.00% | ~81 |
-| Quick-Draw Pod | 22.00% | ~70 |
+| Grave Digger | 22.00% | ~70 |
 | Pork Chop Express | 21.00% | ~77 |
-| Professional Survivor | 19.00% | ~60 |
-| Skin Of Your Teeth | 17.00% | ~62 |
-| Carrocketeer | 17.00% | ~62 |
+| Quick-Draw Pod | 21.00% | ~67 |
+| Professional Survivor | 19.00% | ~61 |
+| Skin Of Your Teeth | 17.00% | ~63 |
+| Carrocketeer | 17.00% | ~63 |
 | Getting Started | 16.00% | ~59 |
 | This Is My Boomstick | 16.00% | ~51 |
-| Eggtraordinary | 14.00% | ~51 |
-| Oh My Gourd | 14.00% | ~44 |
+| Eggtraordinary | 14.00% | ~52 |
+| Oh My Gourd | 14.00% | ~45 |
 | Perfect | 13.00% | ~41 |
 | Summers Here | 12.00% | ~38 |
-| Quit Horsin' Around | 11.00% | ~40 |
+| Quit Horsin' Around | 11.00% | ~41 |
 | Fresh Pancake | 10.00% | ~37 |
 | Quadsparagus | 10.00% | ~32 |
-| Bring Home The Bacon | 8.00% | ~29 |
-| Expert Survivor | 8.00% | ~25 |
+| Bring Home The Bacon | 8.00% | ~30 |
+| Expert Survivor | 8.00% | ~26 |
 | Early Bird | 7.00% | ~26 |
 | Chick Magnet | 5.00% | ~18 |
 | I Have The High Ground | 5.00% | ~18 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 367 (Ranked 372)  
+Progressed: 369 (Ranked 371)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2023-12-30 | 363 | 0 |
 | 2023-12-31 | 365 | 0 |
 | 2024-01-01 | 366 | 0 |
-| 2024-01-03 | 367 | 0 |
+| 2024-01-03 | 369 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

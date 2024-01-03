@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -709,9 +709,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4138,
+  "EOS_Progressed": 4139,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 254,
+  "EOS_NewPlayers": 253,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -11644,6 +11644,11 @@
       "Time": "2024-01-03T22:08:06.9843254+00:00",
       "NumProgressed": 4138,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-03T23:08:49.3822845+00:00",
+      "NumProgressed": 4139,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -11751,7 +11756,7 @@
       "Name": "Doing My Part",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "dragonclicker",
@@ -11863,7 +11868,7 @@
       "Name": "Full Party",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1117
+      "UsersEstimate": 1118
     },
     {
       "ID": "gearenchanting",
@@ -11919,7 +11924,7 @@
       "Name": "Hunter",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "inspection",
@@ -12079,7 +12084,7 @@
       "Name": "Scientist",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "scrollmaster",
@@ -12111,7 +12116,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2317
+      "UsersEstimate": 2318
     },
     {
       "ID": "thealchemist",
@@ -12151,7 +12156,7 @@
       "Name": "The power of Awakening",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "theunstoppable",
@@ -12215,7 +12220,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 3848
+      "UsersEstimate": 3849
     },
     {
       "ID": "warmachinesarmy",
@@ -12254,7 +12259,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4138,
+      "Progressed": 4139,
       "Completed": 2
     }
   ],
@@ -12262,8 +12267,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-02T09:57:01.626986+00:00",
-  "LastChanged_Achievements": "2024-01-03T22:08:06.984325+00:00",
+  "LastChanged_Achievements": "2024-01-03T23:08:49.3822841+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:50.7213096+00:00",
-  "LastUpdate_Ratings": "2024-01-03T21:57:41.1888516+00:00",
-  "LastUpdate_Achievements": "2024-01-03T22:08:06.9844644+00:00"
+  "LastUpdate_Ratings": "2024-01-03T22:58:23.5312868+00:00",
+  "LastUpdate_Achievements": "2024-01-03T23:08:49.3823874+00:00"
 }

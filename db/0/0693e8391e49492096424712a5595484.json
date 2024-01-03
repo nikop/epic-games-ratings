@@ -2927,9 +2927,9 @@
       "ID": "BeggarWomanCoin",
       "SetID": "db30heh",
       "Name": "Alms",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 616
+      "UsersEstimate": 623
     },
     {
       "ID": "BeggarWomanFishGrilled",
@@ -3055,9 +3055,9 @@
       "ID": "HatFlower",
       "SetID": "db30heh",
       "Name": "Flower",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 371
+      "UsersEstimate": 378
     },
     {
       "ID": "KingDiamond",
@@ -3175,9 +3175,9 @@
       "ID": "SleepingBasiliskAmanita",
       "SetID": "db30heh",
       "Name": "Wild Dreams",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 126
+      "UsersEstimate": 133
     },
     {
       "ID": "SleepingBasiliskPistol",
@@ -3230,8 +3230,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2024-01-03T22:03:48.1476495+00:00",
+  "LastChanged_Achievements": "2024-01-03T23:04:58.9181151+00:00",
   "LastUpdate_AppInfo": "2024-01-03T02:57:24.0507598+00:00",
-  "LastUpdate_Ratings": "2024-01-03T21:58:29.7303621+00:00",
-  "LastUpdate_Achievements": "2024-01-03T22:03:48.147695+00:00"
+  "LastUpdate_Ratings": "2024-01-03T22:59:27.6162439+00:00",
+  "LastUpdate_Achievements": "2024-01-03T23:04:58.9181515+00:00"
 }

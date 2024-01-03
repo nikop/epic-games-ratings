@@ -6,12 +6,12 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 10.00% | ~14,923 |
-| Titan's First Steps | 10.00% | ~14,923 |
+| Sponsored by Argon | 10.00% | ~14,924 |
+| Titan's First Steps | 10.00% | ~14,924 |
 | Basic in Bulk | 9.00% | ~13,431 |
 | Tinkle of Coins | 9.00% | ~13,431 |
-| Disintermediation | 7.00% | ~10,446 |
-| Capitalism Ho! | 7.00% | ~10,446 |
+| Disintermediation | 7.00% | ~10,447 |
+| Capitalism Ho! | 7.00% | ~10,447 |
 | It's Free Real Estate | 6.00% | ~8,954 |
 | Budding Merchant | 6.00% | ~8,954 |
 | One Easy Payment | 5.00% | ~7,462 |
@@ -20,15 +20,15 @@ Number of Ratings: 12,664  (23.09.2022)
 | Pretty Penny | 5.00% | ~7,462 |
 | One-Armed Bandit | 5.00% | ~7,462 |
 | Own the Means of Production | 5.00% | ~7,462 |
-| The Daily Grind | 4.00% | ~5,969 |
-| Bounty Hunters | 4.00% | ~5,969 |
-| Demand for Supplies | 4.00% | ~5,969 |
-| Flooding the Market | 4.00% | ~5,969 |
-| Where it Hurts | 4.00% | ~5,969 |
-| Gild-Gotten Goods | 4.00% | ~5,969 |
-| Dungeon Imports | 4.00% | ~5,969 |
-| Through Repetition, Perfection | 4.00% | ~5,969 |
-| Arcane Industries | 4.00% | ~5,969 |
+| The Daily Grind | 4.00% | ~5,970 |
+| Bounty Hunters | 4.00% | ~5,970 |
+| Demand for Supplies | 4.00% | ~5,970 |
+| Flooding the Market | 4.00% | ~5,970 |
+| Where it Hurts | 4.00% | ~5,970 |
+| Gild-Gotten Goods | 4.00% | ~5,970 |
+| Dungeon Imports | 4.00% | ~5,970 |
+| Through Repetition, Perfection | 4.00% | ~5,970 |
+| Arcane Industries | 4.00% | ~5,970 |
 | On the Path to Greatness | 3.00% | ~4,477 |
 | Ascended | 3.00% | ~4,477 |
 | Tax not Included | 3.00% | ~4,477 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~597 |
 | Capitalist Camaraderie | 0.20% | ~298 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 149,233 (Ranked 86)  
+Progressed: 149,238 (Ranked 86)  
 Completed: 342 (0.23%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -377,7 +377,7 @@ Completed: 342 (0.23%) (Ranked 268)
 | 2023-12-31 | 148,713 | 340 |
 | 2024-01-01 | 148,903 | 340 |
 | 2024-01-02 | 149,077 | 341 |
-| 2024-01-03 | 149,233 | 342 |
+| 2024-01-03 | 149,238 | 342 |
 ## Awards
 Max (Great for Beginners): 4,940  (Ranked 78)  
 Sum: 27,918 (Ranked 51)  

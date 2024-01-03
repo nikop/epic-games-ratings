@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 329,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -265,9 +265,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1675,
+  "EOS_Progressed": 1676,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4260,6 +4260,11 @@
       "Time": "2024-01-03T20:09:28.4489291+00:00",
       "NumProgressed": 1675,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-03T23:11:13.7784266+00:00",
+      "NumProgressed": 1676,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -4285,9 +4290,9 @@
       "ID": "ASPIRING_EDITOR",
       "SetID": "9a4jnji",
       "Name": "Aspiring Editor",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1240
     },
     {
       "ID": "ATTENBOROUGH",
@@ -4295,7 +4300,7 @@
       "Name": "Attenborough",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "BOOKWORM",
@@ -4319,7 +4324,7 @@
       "Name": "Chain Killer",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "CHAIN_REACTION",
@@ -4375,7 +4380,7 @@
       "Name": "Ganglord",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "DEAD_DICK",
@@ -4415,7 +4420,7 @@
       "Name": "Editor Adept",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "ENDGAME",
@@ -4455,7 +4460,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1541
+      "UsersEstimate": 1542
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -4487,7 +4492,7 @@
       "Name": "Giant Killer",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "GOAL",
@@ -4519,7 +4524,7 @@
       "Name": "I am the law!",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1056
     },
     {
       "ID": "INFILTRATOR",
@@ -4527,7 +4532,7 @@
       "Name": "Infiltrator",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "LUMBERJACK",
@@ -4575,7 +4580,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 1290
+      "UsersEstimate": 1291
     },
     {
       "ID": "RECYCLER",
@@ -4631,7 +4636,7 @@
       "Name": "Silent but Violent",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "TECHNOPHOBE",
@@ -4663,7 +4668,7 @@
       "Name": "The Watchers",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "WIPE_OUT",
@@ -4678,7 +4683,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1675,
+      "Progressed": 1676,
       "Completed": 0
     }
   ],
@@ -4686,8 +4691,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2024-01-02T20:02:58.7354435+00:00",
-  "LastChanged_Achievements": "2024-01-03T22:09:53.7398293+00:00",
+  "LastChanged_Achievements": "2024-01-03T23:11:13.7784261+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:28.618292+00:00",
-  "LastUpdate_Ratings": "2024-01-03T22:02:58.2162262+00:00",
-  "LastUpdate_Achievements": "2024-01-03T22:09:53.739893+00:00"
+  "LastUpdate_Ratings": "2024-01-03T23:03:43.7133074+00:00",
+  "LastUpdate_Achievements": "2024-01-03T23:11:13.778482+00:00"
 }

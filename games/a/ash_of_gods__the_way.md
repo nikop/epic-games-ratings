@@ -25,13 +25,13 @@
 | For the greater good | 10.00% | ~6 |
 | Overplay the rogue | 10.00% | ~6 |
 | The champion of the arena | 10.00% | ~6 |
+| Collector | 8.00% | ~5 |
 | Stronger than Gellian steel | 8.00% | ~5 |
 | Protect the Healer! | 8.00% | ~5 |
-| Collector | 7.00% | ~4 |
+| The End | 8.00% | ~5 |
 | First among Frisians | 7.00% | ~4 |
 | Punish the Punisher | 7.00% | ~4 |
 | Cunning plan | 7.00% | ~4 |
-| The End | 7.00% | ~4 |
 | Nothing is settled | 7.00% | ~4 |
 | Supplier | 5.00% | ~3 |
 | The best apprentice | 5.00% | ~3 |

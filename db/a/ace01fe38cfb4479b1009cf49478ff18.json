@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 294,
   "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 729,
+  "EOS_Progressed": 732,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -2414,6 +2414,11 @@
       "Time": "2024-01-03T22:08:22.0451226+00:00",
       "NumProgressed": 729,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-03T23:09:10.0744991+00:00",
+      "NumProgressed": 732,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -2424,9 +2429,9 @@
       "ID": "ach_chapter_complete_1",
       "SetID": "d499apg",
       "Name": "Chapter I - Complete",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 45,
-      "UsersEstimate": 139
+      "UsersEstimate": 146
     },
     {
       "ID": "ach_chapter_complete_2",
@@ -2434,7 +2439,7 @@
       "Name": "Chapter II - Complete",
       "Percentage": 8,
       "XP": 45,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ach_chapter_complete_3",
@@ -2474,7 +2479,7 @@
       "Name": "My Armour is Contempt",
       "Percentage": 5,
       "XP": 95,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ach_defeat_great_unclean_one",
@@ -2521,14 +2526,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 729,
+      "Progressed": 732,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2024-01-03T22:08:22.0451221+00:00",
+  "LastChanged_Achievements": "2024-01-03T23:09:10.0744989+00:00",
   "LastUpdate_AppInfo": "2023-12-29T15:57:01.9014557+00:00",
-  "LastUpdate_Ratings": "2024-01-03T22:02:27.7504821+00:00",
-  "LastUpdate_Achievements": "2024-01-03T22:08:22.0451427+00:00"
+  "LastUpdate_Ratings": "2024-01-03T23:02:31.4384698+00:00",
+  "LastUpdate_Achievements": "2024-01-03T23:09:10.0745341+00:00"
 }

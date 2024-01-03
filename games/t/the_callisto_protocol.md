@@ -5,32 +5,32 @@ Rating: 4.21 (Ranked 947)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Outer Way | 23.00% | ~4,790 |
-| Flesh Wound | 22.00% | ~4,581 |
-| Desperate Times | 21.00% | ~4,373 |
-| Paper Jams | 20.00% | ~4,165 |
-| Get a Grip | 19.00% | ~3,957 |
-| Chew 'Em Up | 17.00% | ~3,540 |
-| Reforged | 16.00% | ~3,332 |
-| Float Like A Butterfly | 15.00% | ~3,124 |
-| Workplace Hazard | 14.00% | ~2,915 |
-| If the SHU Fits... | 14.00% | ~2,915 |
-| Without A Paddle | 12.00% | ~2,499 |
-| Two Heads Are Better Than One | 10.00% | ~2,082 |
-| In the Pipe, Five by Five | 10.00% | ~2,082 |
-| Crash Site | 10.00% | ~2,082 |
-| Power Up | 10.00% | ~2,082 |
-| Terminated | 9.00% | ~1,874 |
-| What Lies Beneath | 9.00% | ~1,874 |
-| Full Circle | 9.00% | ~1,874 |
-| Giving Back | 8.00% | ~1,666 |
-| You Need a Gun | 8.00% | ~1,666 |
+| The Outer Way | 23.00% | ~4,792 |
+| Flesh Wound | 22.00% | ~4,583 |
+| Desperate Times | 21.00% | ~4,375 |
+| Paper Jams | 20.00% | ~4,167 |
+| Get a Grip | 19.00% | ~3,958 |
+| Chew 'Em Up | 17.00% | ~3,542 |
+| Reforged | 16.00% | ~3,333 |
+| Float Like A Butterfly | 15.00% | ~3,125 |
+| Workplace Hazard | 14.00% | ~2,917 |
+| If the SHU Fits... | 14.00% | ~2,917 |
+| Without A Paddle | 12.00% | ~2,500 |
+| Two Heads Are Better Than One | 10.00% | ~2,083 |
+| In the Pipe, Five by Five | 10.00% | ~2,083 |
+| Crash Site | 10.00% | ~2,083 |
+| Power Up | 10.00% | ~2,083 |
+| Terminated | 9.00% | ~1,875 |
+| What Lies Beneath | 9.00% | ~1,875 |
+| Full Circle | 9.00% | ~1,875 |
+| Giving Back | 8.00% | ~1,667 |
+| You Need a Gun | 8.00% | ~1,667 |
 | I Do Belong Here | 7.00% | ~1,458 |
 | Keep Fighting | 7.00% | ~613 |
-| The Commonality | 5.00% | ~1,041 |
+| The Commonality | 5.00% | ~1,042 |
 | It's Time | 5.00% | ~438 |
 | In Striking Distance | 4.00% | ~833 |
-| One Last Job | 3.00% | ~262 |
+| One Last Job | 3.00% | ~263 |
 | Big Spender | 2.00% | ~175 |
 | This Isn't About Escape | 2.00% | ~175 |
 | Armed to the Teeth | 1.00% | ~88 |
@@ -40,7 +40,7 @@ Rating: 4.21 (Ranked 947)
 | Information Overload | 0.90% | ~79 |
 | Parole Denied | 0.80% | ~70 |
 | Quick Pick | 0.70% | ~61 |
-| Subject Alpha | 0.60% | ~52 |
+| Subject Alpha | 0.60% | ~53 |
 | The Protocol is About Life | 0.30% | ~62 |
 | Hoard Mode | 0.30% | ~26 |
 | Don't Let It Mellow | 0.30% | ~26 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 947)
 | Big Game Hunter | 0.10% | ~9 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,824 (Ranked 150)  
+Progressed: 20,833 (Ranked 150)  
 Completed: 82 (0.39%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,18 +303,18 @@ Completed: 82 (0.39%) (Ranked 234)
 | 2023-12-31 | 20,337 | 82 |
 | 2024-01-01 | 20,521 | 82 |
 | 2024-01-02 | 20,695 | 82 |
-| 2024-01-03 | 20,824 | 82 |
+| 2024-01-03 | 20,833 | 82 |
 ## Awards
 Max (Amazing Characters): 111  (Ranked 362)  
-Sum: 561 (Ranked 325)  
+Sum: 562 (Ranked 325)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 111 |
 | This game is Highly Recommended | 104 |
 | This game is Extremely Fun | 102 |
+| This game has Quickly Understood Controls | 101 |
 | This game has Amazing Storytelling | 101 |
-| This game has Quickly Understood Controls | 100 |
 | This game has Challenging Combat | 68 |
 | This game has a Creative Community | 43 |
 ## Ratings History
@@ -510,4 +510,4 @@ Diff (max vs sum): 37
 | 2023-12-31 | 4.21 | 107 | 541 |
 | 2024-01-01 | 4.21 | 109 | 551 |
 | 2024-01-02 | 4.21 | 109 | 554 |
-| 2024-01-03 | 4.21 | 111 | 561 |
+| 2024-01-03 | 4.21 | 111 | 562 |
