@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 159813,
+  "EOS_Progressed": 159814,
   "EOS_Completed": 377,
-  "EOS_NewPlayers": 1253,
+  "EOS_NewPlayers": 1251,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -24018,6 +24018,11 @@
       "Time": "2024-01-04T08:04:01.7599362+00:00",
       "NumProgressed": 159813,
       "NumCompleted": 377
+    },
+    {
+      "Time": "2024-01-04T09:04:36.9214006+00:00",
+      "NumProgressed": 159814,
+      "NumCompleted": 377
     }
   ],
   "TotalAchievements": 31,
@@ -24037,7 +24042,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 111869
+      "UsersEstimate": 111870
     },
     {
       "ID": "EAwards_10",
@@ -24077,7 +24082,7 @@
       "Name": "Do or Do Not",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 63925
+      "UsersEstimate": 63926
     },
     {
       "ID": "EAwards_15",
@@ -24141,7 +24146,7 @@
       "Name": "Got to catch them all",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 17579
+      "UsersEstimate": 17580
     },
     {
       "ID": "EAwards_22",
@@ -24213,7 +24218,7 @@
       "Name": "X\u0027tabay-Bye",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 30364
+      "UsersEstimate": 30365
     },
     {
       "ID": "EAwards_30",
@@ -24245,7 +24250,7 @@
       "Name": "Power Within",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 39953
+      "UsersEstimate": 39954
     },
     {
       "ID": "EAwards_7",
@@ -24276,7 +24281,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 159813,
+      "Progressed": 159814,
       "Completed": 377
     }
   ],
@@ -24284,8 +24289,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-12-16T18:59:03.9912318+00:00",
-  "LastChanged_Achievements": "2024-01-04T08:04:01.7599357+00:00",
+  "LastChanged_Achievements": "2024-01-04T09:04:36.9214003+00:00",
   "LastUpdate_AppInfo": "2023-12-29T08:57:20.9998122+00:00",
-  "LastUpdate_Ratings": "2024-01-04T07:57:31.5050105+00:00",
-  "LastUpdate_Achievements": "2024-01-04T08:04:01.7600556+00:00"
+  "LastUpdate_Ratings": "2024-01-04T08:57:56.8634479+00:00",
+  "LastUpdate_Achievements": "2024-01-04T09:04:36.9215395+00:00"
 }

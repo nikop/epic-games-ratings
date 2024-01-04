@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -400,9 +400,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5231,
+  "EOS_Progressed": 5232,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -4680,6 +4680,11 @@
       "Time": "2024-01-04T08:04:20.4919291+00:00",
       "NumProgressed": 5231,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-04T09:04:55.8614364+00:00",
+      "NumProgressed": 5232,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -4691,7 +4696,7 @@
       "Name": "P.A.X",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1935
+      "UsersEstimate": 1936
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -4739,7 +4744,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4394
+      "UsersEstimate": 4395
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -4747,7 +4752,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4917
+      "UsersEstimate": 4918
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -4763,7 +4768,7 @@
       "Name": "Hey Listen",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1883
+      "UsersEstimate": 1884
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -4771,7 +4776,7 @@
       "Name": "CREO Killed the Video Star",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "ID_ACHIEV_12",
@@ -4795,7 +4800,7 @@
       "Name": "Who\u0027s in Charge Here?",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "ID_ACHIEV_15",
@@ -4827,7 +4832,7 @@
       "Name": "Pusher Man",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "ID_ACHIEV_19",
@@ -4851,7 +4856,7 @@
       "Name": "Shall Not Pass",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "ID_ACHIEV_22",
@@ -4971,7 +4976,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1726
+      "UsersEstimate": 1727
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -5067,7 +5072,7 @@
       "Name": "Squad Chief Helvig",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "ID_ACHIEV_50",
@@ -5107,7 +5112,7 @@
       "Name": "No More Marching",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "ID_ACHIEV_55",
@@ -5139,7 +5144,7 @@
       "Name": "Is This Real Life?",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "ID_ACHIEV_59",
@@ -5226,15 +5231,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5231,
+      "Progressed": 5232,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-31T19:58:10.5906343+00:00",
-  "LastChanged_Achievements": "2024-01-04T08:04:20.4919286+00:00",
+  "LastChanged_Achievements": "2024-01-04T09:04:55.861436+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:44.5404504+00:00",
-  "LastUpdate_Ratings": "2024-01-04T07:59:05.9501052+00:00",
-  "LastUpdate_Achievements": "2024-01-04T08:04:20.4920045+00:00"
+  "LastUpdate_Ratings": "2024-01-04T08:59:31.0138156+00:00",
+  "LastUpdate_Achievements": "2024-01-04T09:04:55.8615184+00:00"
 }

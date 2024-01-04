@@ -5,21 +5,21 @@ Rating: 4.62 (Ranked 376)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 14.00% | ~953 |
-| Realm Estate | 12.00% | ~817 |
+| Secret Technique | 14.00% | ~954 |
+| Realm Estate | 13.00% | ~886 |
 | A Wonderful Discovery | 12.00% | ~817 |
 | Walls Cannot Stop Us | 11.00% | ~749 |
 | From Friends to Family | 10.00% | ~681 |
 | Bone Peddler | 9.00% | ~613 |
-| Full Ascension | 7.00% | ~476 |
-| Magical Synergy | 7.00% | ~476 |
-| There Can Only Be One! | 6.00% | ~408 |
-| Stronger Together | 6.00% | ~408 |
-| Seat of Power | 6.00% | ~408 |
-| In a Liege of Your Own | 6.00% | ~408 |
-| Valley of Wonders | 5.00% | ~340 |
-| Intimidation Tactics | 5.00% | ~340 |
-| But this one is mine | 5.00% | ~340 |
+| Full Ascension | 7.00% | ~477 |
+| Magical Synergy | 7.00% | ~477 |
+| There Can Only Be One! | 6.00% | ~409 |
+| Stronger Together | 6.00% | ~409 |
+| Seat of Power | 6.00% | ~409 |
+| In a Liege of Your Own | 6.00% | ~409 |
+| Valley of Wonders | 5.00% | ~341 |
+| Intimidation Tactics | 5.00% | ~341 |
+| But this one is mine | 5.00% | ~341 |
 | Return of the Wizard King | 4.00% | ~272 |
 | Digging for Treasure | 4.00% | ~272 |
 | My Final Form | 4.00% | ~272 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 376)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,806 (Ranked 196)  
+Progressed: 6,812 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 7 (0.10%) (Ranked 305)
 | 2024-01-01 | 6,687 | 7 |
 | 2024-01-02 | 6,742 | 7 |
 | 2024-01-03 | 6,793 | 7 |
-| 2024-01-04 | 6,806 | 7 |
+| 2024-01-04 | 6,812 | 7 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 478)  
 Sum: 209 (Ranked 409)  

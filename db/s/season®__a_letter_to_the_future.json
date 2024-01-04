@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1948,
+  "EOS_Progressed": 1950,
   "EOS_Completed": 72,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 3.7,
+  "EOS_Completed_Percentage": 3.69,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:27.3083538+00:00",
@@ -4409,6 +4409,11 @@
       "Time": "2024-01-04T08:09:18.1805216+00:00",
       "NumProgressed": 1948,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2024-01-04T09:10:03.3056033+00:00",
+      "NumProgressed": 1950,
+      "NumCompleted": 72
     }
   ],
   "TotalAchievements": 16,
@@ -4444,7 +4449,7 @@
       "Name": "Emotional Baggage Handler",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "ACH_GOODBYETIENGVALLEY",
@@ -4476,7 +4481,7 @@
       "Name": "Home Leaver",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1539
+      "UsersEstimate": 1540
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -4484,7 +4489,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1539
+      "UsersEstimate": 1540
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -4492,7 +4497,7 @@
       "Name": "Love Uncoverer",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "ACH_MUSICFORCOWS",
@@ -4508,7 +4513,7 @@
       "Name": "Outside World Seer",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1170
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -4540,14 +4545,14 @@
       "Name": "Tour de Tieng",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1948,
+      "Progressed": 1950,
       "Completed": 72
     }
   ],
@@ -4555,8 +4560,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2024-01-04T08:09:18.1805214+00:00",
+  "LastChanged_Achievements": "2024-01-04T09:10:03.3056029+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.182252+00:00",
-  "LastUpdate_Ratings": "2024-01-04T07:57:04.2552175+00:00",
-  "LastUpdate_Achievements": "2024-01-04T08:09:18.1805518+00:00"
+  "LastUpdate_Ratings": "2024-01-04T08:57:29.0635665+00:00",
+  "LastUpdate_Achievements": "2024-01-04T09:10:03.3056381+00:00"
 }

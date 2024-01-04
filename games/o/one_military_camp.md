@@ -15,8 +15,8 @@
 | Health Care | 9.00% | ~25 |
 | Perfect Soldier | 8.00% | ~22 |
 | Desert Rat | 8.00% | ~22 |
+| Healing | 7.00% | ~19 |
 | Ammo Tycoon | 7.00% | ~19 |
-| Healing | 6.00% | ~17 |
 | Good payer | 6.00% | ~17 |
 | Pathfinder | 6.00% | ~17 |
 | Food Tycoon | 6.00% | ~17 |
@@ -41,10 +41,10 @@
 | Reconquest | 1.00% | ~3 |
 | Against Adversity | 1.00% | ~3 |
 | Researcher | 1.00% | ~3 |
+| Self-management | 0.40% | ~1 |
 | Conveyor Belt Madness | 0.40% | ~1 |
 | People's Hero | 0.40% | ~1 |
 | Attack of the Drones | 0.00% | ~0 |
-| Self-management | 0.00% | ~0 |
 | War Veteran | 0.00% | ~0 |
 | First Victory | 0.00% | ~0 |
 | Sandbox Expert | 0.00% | ~0 |

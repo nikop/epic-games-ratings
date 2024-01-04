@@ -1,22 +1,22 @@
 # Chess Ultra
 [Store](https://store.epicgames.com/en-US/p/chess-ultra-91bba3)  
 [View Rawdata](../../db/c/chess_ultra.json)  
-Rating: 4.31 (Ranked 861)  
+Rating: 4.31 (Ranked 862)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 71.00% | ~160,340 |
-| Doubled Pawn | 57.00% | ~128,724 |
-| Check | 56.00% | ~126,465 |
-| Absolute pin | 47.00% | ~106,141 |
-| Promotion | 31.00% | ~70,008 |
-| Checkmate | 30.00% | ~67,749 |
-| O-O | 24.00% | ~54,199 |
+| Chop Wood | 71.00% | ~160,343 |
+| Doubled Pawn | 57.00% | ~128,726 |
+| Check | 56.00% | ~126,468 |
+| Absolute pin | 47.00% | ~106,142 |
+| Promotion | 31.00% | ~70,009 |
+| Checkmate | 30.00% | ~67,750 |
+| O-O | 24.00% | ~54,200 |
 | Spanish Bishop | 21.00% | ~47,425 |
-| Queen Sacrifice | 20.00% | ~45,166 |
+| Queen Sacrifice | 20.00% | ~45,167 |
 | Stalemate | 18.00% | ~40,650 |
-| O-O-O | 13.00% | ~29,358 |
-| Octopus | 13.00% | ~29,358 |
+| O-O-O | 13.00% | ~29,359 |
+| Octopus | 13.00% | ~29,359 |
 | Stranger Danger | 12.00% | ~27,100 |
 | En Passant | 9.00% | ~20,325 |
 | Double Check | 7.00% | ~15,808 |
@@ -30,8 +30,8 @@ Rating: 4.31 (Ranked 861)
 | Blind Pigs | 2.00% | ~4,517 |
 | ELO ELO ELO | 2.00% | ~4,517 |
 | Bobby Time | 1.00% | ~2,258 |
-| Back-rank Mate | 0.90% | ~2,032 |
-| Chess Champion | 0.30% | ~677 |
+| Back-rank Mate | 0.90% | ~2,033 |
+| Chess Champion | 0.30% | ~678 |
 | Alekhine’s gun | 0.20% | ~452 |
 | Boden’s Mate | 0.10% | ~226 |
 | Epaulette Mate | 0.10% | ~226 |
@@ -44,7 +44,7 @@ Rating: 4.31 (Ranked 861)
 | Tournament Master | 0.10% | ~226 |
 | Tournament Pro | 0.10% | ~226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,831 (Ranked 77)  
+Progressed: 225,835 (Ranked 77)  
 Completed: 2 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 2 (0.00%) (Ranked 392)
 | 2024-01-01 | 225,410 | 2 |
 | 2024-01-02 | 225,591 | 2 |
 | 2024-01-03 | 225,784 | 2 |
-| 2024-01-04 | 225,831 | 2 |
+| 2024-01-04 | 225,835 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

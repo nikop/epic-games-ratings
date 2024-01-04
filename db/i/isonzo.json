@@ -1057,9 +1057,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9756,
+  "EOS_Progressed": 9757,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10552,6 +10552,11 @@
       "Time": "2024-01-04T05:09:34.1791713+00:00",
       "NumProgressed": 9756,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-04T09:09:30.6111142+00:00",
+      "NumProgressed": 9757,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -10755,7 +10760,7 @@
       "Name": "Peak Performance",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4390
+      "UsersEstimate": 4391
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -10867,7 +10872,7 @@
       "Name": "The Show Must Go On",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "ISONZO_ACH_THUS_WITH_A_KISS",
@@ -10883,7 +10888,7 @@
       "Name": "Tosca",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "ISONZO_ACH_TUTTI_EROI",
@@ -10922,7 +10927,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9756,
+      "Progressed": 9757,
       "Completed": 10
     }
   ],
@@ -10930,8 +10935,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-02T20:59:57.5573345+00:00",
-  "LastChanged_Achievements": "2024-01-04T08:08:45.1583895+00:00",
+  "LastChanged_Achievements": "2024-01-04T09:09:30.6111139+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:27.5115536+00:00",
-  "LastUpdate_Ratings": "2024-01-04T07:59:59.2878142+00:00",
-  "LastUpdate_Achievements": "2024-01-04T08:08:45.1584613+00:00"
+  "LastUpdate_Ratings": "2024-01-04T09:00:25.574247+00:00",
+  "LastUpdate_Achievements": "2024-01-04T09:09:30.611264+00:00"
 }

@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 85.00% | ~226 |
+| Something important | 84.00% | ~224 |
 | A piece of the story | 63.00% | ~168 |
-| It's covered up for a reason | 55.00% | ~146 |
-| Wanderer | 52.00% | ~138 |
+| It's covered up for a reason | 55.00% | ~147 |
+| Wanderer | 52.00% | ~139 |
 | Scraps of love | 48.00% | ~128 |
 | The artist’s impression | 47.00% | ~125 |
 | Do what you have to | 42.00% | ~112 |
 | Sign of weakness | 39.00% | ~104 |
-| Refuse to look | 34.00% | ~90 |
-| Face your fears | 28.00% | ~74 |
-| Finished it | 26.00% | ~69 |
+| Refuse to look | 34.00% | ~91 |
+| Face your fears | 28.00% | ~75 |
+| Finished it | 25.00% | ~67 |
 | Whispers long forgotten | 16.00% | ~43 |
 | A Slice of Life | 12.00% | ~32 |
 | Debut | 12.00% | ~32 |
@@ -28,9 +28,9 @@
 | A new way | 9.00% | ~24 |
 | First steps | 9.00% | ~24 |
 | Breaking free | 8.00% | ~21 |
+| Heavy Burden | 7.00% | ~19 |
 | True Reflection | 7.00% | ~19 |
 | Casting Finished | 6.00% | ~16 |
-| Heavy Burden | 6.00% | ~16 |
 | Instinct of self-preservation | 6.00% | ~16 |
 | Fisherman | 6.00% | ~16 |
 | Something to think about | 4.00% | ~11 |
@@ -40,15 +40,15 @@
 | Immortalized in my heart | 3.00% | ~8 |
 | The Perfect Storm | 3.00% | ~8 |
 | Se7en Seas | 3.00% | ~8 |
-| Body of Work | 2.00% | ~5 |
 | It was worth a try | 2.00% | ~5 |
 | Full Scoop | 2.00% | ~5 |
-| In One Take | 2.00% | ~5 |
 | Preferred Parent | 2.00% | ~5 |
 | A Mosaic of Misery | 2.00% | ~5 |
 | The Big Picture | 1.00% | ~3 |
+| Body of Work | 1.00% | ~3 |
+| In One Take | 1.00% | ~3 |
 | Sword of the Serpent | 1.00% | ~3 |
-| Rocket Science | 0.80% | ~2 |
+| Rocket Science | 0.70% | ~2 |
 | You Can’t Handle the Truth | 0.40% | ~1 |
 | The Tree and the Apple | 0.40% | ~1 |
 | The whole story | 0.00% | ~0 |
@@ -57,7 +57,7 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 266 (Ranked 404)  
+Progressed: 267 (Ranked 404)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,4 +130,4 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-01 | 255 | 0 |
 | 2024-01-02 | 256 | 0 |
 | 2024-01-03 | 265 | 0 |
-| 2024-01-04 | 266 | 0 |
+| 2024-01-04 | 267 | 0 |

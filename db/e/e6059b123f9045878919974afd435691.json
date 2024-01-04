@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1336,
+  "EOS_Progressed": 1337,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3519,6 +3519,11 @@
       "Time": "2024-01-04T07:10:20.7105559+00:00",
       "NumProgressed": 1336,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T09:10:19.6762162+00:00",
+      "NumProgressed": 1337,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3538,7 +3543,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -3650,7 +3655,7 @@
       "Name": "Burnt Smell",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "BURN_ACHIEVEMENT_2",
@@ -3770,7 +3775,7 @@
       "Name": "Where Is Houdini?",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "FREE_ACHIEVEMENT_1",
@@ -3818,7 +3823,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -3890,7 +3895,7 @@
       "Name": "Don\u0027t Turn Your Back",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -3922,7 +3927,7 @@
       "Name": "Night Snack",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -4057,14 +4062,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1336,
+      "Progressed": 1337,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-04T08:09:34.7188246+00:00",
+  "LastChanged_Achievements": "2024-01-04T09:10:19.6762157+00:00",
   "LastUpdate_AppInfo": "2023-12-29T02:57:14.6537743+00:00",
-  "LastUpdate_Ratings": "2024-01-04T07:59:52.3741478+00:00",
-  "LastUpdate_Achievements": "2024-01-04T08:09:34.7188929+00:00"
+  "LastUpdate_Ratings": "2024-01-04T09:00:18.8727663+00:00",
+  "LastUpdate_Achievements": "2024-01-04T09:10:19.6762977+00:00"
 }

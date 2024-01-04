@@ -1269,9 +1269,9 @@
       "Count": 31
     }
   ],
-  "EOS_Progressed": 15145,
+  "EOS_Progressed": 15148,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2131,
+  "EOS_NewPlayers": 2122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10234,6 +10234,11 @@
       "Time": "2024-01-04T08:05:29.2202373+00:00",
       "NumProgressed": 15145,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T09:06:07.1124711+00:00",
+      "NumProgressed": 15148,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -10246,7 +10251,7 @@
       "Name": "Spring Cleaning",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 2726
+      "UsersEstimate": 2727
     },
     {
       "ID": "achievement_0002",
@@ -10286,7 +10291,7 @@
       "Name": "Setting up for Success",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 10450
+      "UsersEstimate": 10452
     },
     {
       "ID": "achievement_0007",
@@ -10294,7 +10299,7 @@
       "Name": "Getting on the Step",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 13782
+      "UsersEstimate": 13785
     },
     {
       "ID": "achievement_0008",
@@ -10302,7 +10307,7 @@
       "Name": "On the Top Step",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 12419
+      "UsersEstimate": 12421
     },
     {
       "ID": "achievement_0009",
@@ -10310,7 +10315,7 @@
       "Name": "Eagle Eye",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1514
+      "UsersEstimate": 1515
     },
     {
       "ID": "achievement_0010",
@@ -10318,7 +10323,7 @@
       "Name": "Network Success",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 3483
+      "UsersEstimate": 3484
     },
     {
       "ID": "achievement_0011",
@@ -10406,7 +10411,7 @@
       "Name": "Team Orders",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 10299
+      "UsersEstimate": 10301
     },
     {
       "ID": "achievement_0022",
@@ -10414,7 +10419,7 @@
       "Name": "A Dozen Pieces",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 3635
+      "UsersEstimate": 3636
     },
     {
       "ID": "achievement_0023",
@@ -10422,7 +10427,7 @@
       "Name": "Sharing the Love",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 4998
+      "UsersEstimate": 4999
     },
     {
       "ID": "achievement_0024",
@@ -10446,7 +10451,7 @@
       "Name": "Friendly Competition",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1514
+      "UsersEstimate": 1515
     },
     {
       "ID": "achievement_0027",
@@ -10454,7 +10459,7 @@
       "Name": "Switcheroo",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1514
+      "UsersEstimate": 1515
     },
     {
       "ID": "achievement_0028",
@@ -10478,7 +10483,7 @@
       "Name": "Reuse",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1817
+      "UsersEstimate": 1818
     },
     {
       "ID": "achievement_0031",
@@ -10502,7 +10507,7 @@
       "Name": "Engineer",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 6815
+      "UsersEstimate": 6817
     },
     {
       "ID": "achievement_0034",
@@ -10510,7 +10515,7 @@
       "Name": "Challenge Yourself",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 3483
+      "UsersEstimate": 3484
     },
     {
       "ID": "achievement_0035",
@@ -10582,7 +10587,7 @@
       "Name": "Familiar Faces",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 6361
+      "UsersEstimate": 6362
     },
     {
       "ID": "achievement_0044",
@@ -10590,7 +10595,7 @@
       "Name": "Going the Extra Mile",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 5452
+      "UsersEstimate": 5453
     },
     {
       "ID": "achievement_0045",
@@ -10598,7 +10603,7 @@
       "Name": "Making History",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3786
+      "UsersEstimate": 3787
     },
     {
       "ID": "achievement_0046",
@@ -10630,14 +10635,14 @@
       "Name": "Proving Them Wrong",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1817
+      "UsersEstimate": 1818
     }
   ],
   "AchievementSets": [
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 15145,
+      "Progressed": 15148,
       "Completed": 0
     }
   ],
@@ -10645,8 +10650,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2024-01-04T06:58:16.3966171+00:00",
-  "LastChanged_Achievements": "2024-01-04T08:05:29.2202369+00:00",
+  "LastChanged_Achievements": "2024-01-04T09:06:07.1124706+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:56:57.776446+00:00",
-  "LastUpdate_Ratings": "2024-01-04T07:57:51.9589987+00:00",
-  "LastUpdate_Achievements": "2024-01-04T08:05:29.2203373+00:00"
+  "LastUpdate_Ratings": "2024-01-04T08:58:17.5011419+00:00",
+  "LastUpdate_Achievements": "2024-01-04T09:06:07.112564+00:00"
 }

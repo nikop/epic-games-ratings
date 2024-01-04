@@ -4,7 +4,7 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 404,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 266,
+  "EOS_Progressed": 267,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1204,6 +1204,11 @@
       "Time": "2024-01-04T02:30:50.1580105+00:00",
       "NumProgressed": 266,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T09:08:56.3889655+00:00",
+      "NumProgressed": 267,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -1278,9 +1283,9 @@
       "ID": "collect_most_of_posters",
       "SetID": "f2im8d",
       "Name": "Body of Work",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "collect_notes_mother",
@@ -1296,7 +1301,7 @@
       "Name": "It\u0027s covered up for a reason",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "decrypt_one_myth",
@@ -1320,7 +1325,7 @@
       "Name": "Refuse to look",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "do_what_you_have_to",
@@ -1344,7 +1349,7 @@
       "Name": "Face your fears",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "find_most_of_family_mementos",
@@ -1398,9 +1403,9 @@
       "ID": "finished_it",
       "SetID": "f2im8d",
       "Name": "Finished it",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 69
+      "UsersEstimate": 67
     },
     {
       "ID": "first_step",
@@ -1430,17 +1435,17 @@
       "ID": "heavy_burden",
       "SetID": "f2im8d",
       "Name": "Heavy Burden",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "in_one_take",
       "SetID": "f2im8d",
       "Name": "In One Take",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "inheritance",
@@ -1510,7 +1515,7 @@
       "ID": "rocket_science",
       "SetID": "f2im8d",
       "Name": "Rocket Science",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1550,9 +1555,9 @@
       "ID": "something_important",
       "SetID": "f2im8d",
       "Name": "Something important",
-      "Percentage": 85,
+      "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 226
+      "UsersEstimate": 224
     },
     {
       "ID": "spy_one_item",
@@ -1616,7 +1621,7 @@
       "Name": "Wanderer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "whispers_long_forgotten",
@@ -1631,14 +1636,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 266,
+      "Progressed": 267,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-04T08:08:10.70536+00:00",
+  "LastChanged_Achievements": "2024-01-04T09:08:56.3889646+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.7570027+00:00",
-  "LastUpdate_Ratings": "2024-01-04T07:58:42.2993016+00:00",
-  "LastUpdate_Achievements": "2024-01-04T08:08:10.7054131+00:00"
+  "LastUpdate_Ratings": "2024-01-04T08:59:07.5132331+00:00",
+  "LastUpdate_Achievements": "2024-01-04T09:08:56.3890242+00:00"
 }

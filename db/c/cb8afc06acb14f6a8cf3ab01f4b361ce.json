@@ -461,9 +461,9 @@
       "Count": 77
     }
   ],
-  "EOS_Progressed": 340625,
+  "EOS_Progressed": 340634,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 3980,
+  "EOS_NewPlayers": 3972,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12106,6 +12106,11 @@
       "Time": "2024-01-04T08:08:17.6054223+00:00",
       "NumProgressed": 340625,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-04T09:09:02.7046234+00:00",
+      "NumProgressed": 340634,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -12254,7 +12259,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17031
+      "UsersEstimate": 17032
     },
     {
       "ID": "S19_CHALLENGES",
@@ -12430,14 +12435,14 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6812
+      "UsersEstimate": 6813
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 340625,
+      "Progressed": 340634,
       "Completed": 7
     }
   ],
@@ -12445,8 +12450,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2024-01-01T23:01:20.9565561+00:00",
-  "LastChanged_Achievements": "2024-01-04T08:08:17.605422+00:00",
+  "LastChanged_Achievements": "2024-01-04T09:09:02.7046229+00:00",
   "LastUpdate_AppInfo": "2023-12-28T22:56:57.7073923+00:00",
-  "LastUpdate_Ratings": "2024-01-04T07:57:25.1149645+00:00",
-  "LastUpdate_Achievements": "2024-01-04T08:08:17.6055089+00:00"
+  "LastUpdate_Ratings": "2024-01-04T08:57:50.2639723+00:00",
+  "LastUpdate_Achievements": "2024-01-04T09:09:02.7047407+00:00"
 }

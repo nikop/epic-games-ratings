@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 171,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -329,7 +329,7 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 692,
+  "EOS_Progressed": 693,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 4,
@@ -1879,6 +1879,11 @@
       "Time": "2024-01-04T06:05:05.9603253+00:00",
       "NumProgressed": 692,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-04T09:04:41.1168406+00:00",
+      "NumProgressed": 693,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1923,7 +1928,7 @@
       "Name": "Life\u0027s as extreme as you wanna make it!",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_DOWN_TOWN",
@@ -1995,7 +2000,7 @@
       "Name": "Shrimp Catcher",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_ROBO_PATRICK_BOSS",
@@ -2003,7 +2008,7 @@
       "Name": "Toxic Terror",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_ROBO_SANDY_BOSS",
@@ -2027,7 +2032,7 @@
       "Name": "Hit Rock Bottom",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_SLEEPY_TIME",
@@ -2099,7 +2104,7 @@
       "Name": "Spatula Seeker",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -2107,7 +2112,7 @@
       "Name": "Sponge Smasher",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
@@ -2146,15 +2151,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 692,
+      "Progressed": 693,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-01T20:58:26.8279253+00:00",
-  "LastChanged_Achievements": "2024-01-04T08:04:05.8392863+00:00",
+  "LastChanged_Achievements": "2024-01-04T09:04:41.11684+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:11.8880921+00:00",
-  "LastUpdate_Ratings": "2024-01-04T07:59:20.8681156+00:00",
-  "LastUpdate_Achievements": "2024-01-04T08:04:05.8393147+00:00"
+  "LastUpdate_Ratings": "2024-01-04T08:59:46.6431556+00:00",
+  "LastUpdate_Achievements": "2024-01-04T09:04:41.1168731+00:00"
 }

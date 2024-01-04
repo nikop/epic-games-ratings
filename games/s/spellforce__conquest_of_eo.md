@@ -18,8 +18,8 @@
 | Necromancer's Apprentice | 38.00% | ~43 |
 | Alchemist's Apprentice | 37.00% | ~41 |
 | Friend of Lyraine | 37.00% | ~41 |
-| Redecorating | 33.00% | ~37 |
-| The Circle | 33.00% | ~37 |
+| Redecorating | 34.00% | ~38 |
+| The Circle | 34.00% | ~38 |
 | Bad JuJu | 25.00% | ~28 |
 | Friend of Sevenkeeps | 23.00% | ~26 |
 | Slave to the rhythm | 22.00% | ~25 |
@@ -40,9 +40,9 @@
 | Friend of Windholme | 11.00% | ~12 |
 | Defeat Gor | 10.00% | ~11 |
 | Mage Teacher | 10.00% | ~11 |
+| Defeat Uram | 9.00% | ~10 |
 | Yngrid's Tale | 9.00% | ~10 |
 | A Joke | 9.00% | ~10 |
-| Defeat Uram | 8.00% | ~9 |
 | The Forge of Regan Gor | 8.00% | ~9 |
 | Friend of Uram Gor | 8.00% | ~9 |
 | Defeat Hokan | 7.00% | ~8 |

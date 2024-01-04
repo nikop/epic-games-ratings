@@ -1579,9 +1579,9 @@
       "ID": "Collect_AdamantineLarge_30",
       "SetID": "7a5k76n",
       "Name": "Unbreakable Will",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 50
     },
     {
       "ID": "Collect_AdamantineMedium_30",
@@ -1627,9 +1627,9 @@
       "ID": "Collect_Artifact_EpicShard",
       "SetID": "7a5k76n",
       "Name": "One Of the Chosen",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 161
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_1",
@@ -1971,9 +1971,9 @@
       "ID": "Kill_Sin_Wrath",
       "SetID": "7a5k76n",
       "Name": "Seeing Red",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 83
     },
     {
       "ID": "Level_Up_100",
@@ -2099,8 +2099,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-03T05:57:54.1795117+00:00",
-  "LastChanged_Achievements": "2024-01-04T08:06:01.7225344+00:00",
+  "LastChanged_Achievements": "2024-01-04T09:06:39.89371+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.0817876+00:00",
-  "LastUpdate_Ratings": "2024-01-04T07:58:12.9600097+00:00",
-  "LastUpdate_Achievements": "2024-01-04T08:06:01.7225967+00:00"
+  "LastUpdate_Ratings": "2024-01-04T08:58:38.2996342+00:00",
+  "LastUpdate_Achievements": "2024-01-04T09:06:39.8937661+00:00"
 }

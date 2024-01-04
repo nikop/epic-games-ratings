@@ -2,12 +2,12 @@
   "ID": "f9af68c0b03e425999c18381eb45e5fb",
   "Name": "Frontier Hunter: Erza\u0027s Wheel of Fortune",
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
-  "Ranking_Rating": 820,
+  "Ranking_Rating": 819,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
@@ -37,9 +37,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 695,
+  "EOS_Progressed": 696,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -2407,6 +2407,11 @@
       "Time": "2024-01-04T08:08:46.5872309+00:00",
       "NumProgressed": 695,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-04T09:09:32.0360114+00:00",
+      "NumProgressed": 696,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -2418,7 +2423,7 @@
       "Name": "Travel Streamer",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -2506,7 +2511,7 @@
       "Name": "Training Simulation",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -2554,7 +2559,7 @@
       "Name": "Beginner Artificer",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -2570,7 +2575,7 @@
       "Name": "Fashion Connoisseur",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -2610,7 +2615,7 @@
       "Name": "Boss challenge",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -2674,7 +2679,7 @@
       "Name": "Storm Traveller",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -2690,7 +2695,7 @@
       "Name": "Berserker Slayer",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -2738,7 +2743,7 @@
       "Name": "Wolf King Killer",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -2762,7 +2767,7 @@
       "Name": "Seal Breaker",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -2777,7 +2782,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 695,
+      "Progressed": 696,
       "Completed": 3
     }
   ],
@@ -2785,8 +2790,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2024-01-02T13:03:58.5026072+00:00",
-  "LastChanged_Achievements": "2024-01-04T08:08:46.5872306+00:00",
+  "LastChanged_Achievements": "2024-01-04T09:09:32.0360111+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:39.5136135+00:00",
-  "LastUpdate_Ratings": "2024-01-04T07:57:24.9219132+00:00",
-  "LastUpdate_Achievements": "2024-01-04T08:08:46.587292+00:00"
+  "LastUpdate_Ratings": "2024-01-04T08:57:50.1303531+00:00",
+  "LastUpdate_Achievements": "2024-01-04T09:09:32.0360532+00:00"
 }

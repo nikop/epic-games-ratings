@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 474,
+  "EOS_Progressed": 475,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -2004,6 +2004,11 @@
       "Time": "2024-01-04T06:05:43.997562+00:00",
       "NumProgressed": 474,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-04T09:05:07.7823436+00:00",
+      "NumProgressed": 475,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -2016,7 +2021,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 90,
       "XP": 50,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -2112,7 +2117,7 @@
       "Name": "Tough Guy",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "PREPARE_10_COFFEE",
@@ -2128,7 +2133,7 @@
       "Name": "Weed Warrior",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -2160,7 +2165,7 @@
       "Name": "Uppies!",
       "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -2175,14 +2180,14 @@
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 474,
+      "Progressed": 475,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2024-01-04T08:04:32.7217303+00:00",
+  "LastChanged_Achievements": "2024-01-04T09:05:07.7823429+00:00",
   "LastUpdate_AppInfo": "2024-01-03T22:57:16.910321+00:00",
-  "LastUpdate_Ratings": "2024-01-04T08:02:30.4638217+00:00",
-  "LastUpdate_Achievements": "2024-01-04T08:04:32.7217568+00:00"
+  "LastUpdate_Ratings": "2024-01-04T09:03:03.89876+00:00",
+  "LastUpdate_Achievements": "2024-01-04T09:05:07.7823718+00:00"
 }

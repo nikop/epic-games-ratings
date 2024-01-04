@@ -17,6 +17,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Catch and Decease | 5.00% | ~6,579 |
 | Overdue Notice | 5.00% | ~6,579 |
 | Escape from the Black Hole | 5.00% | ~6,579 |
+| To Grandmother's House | 5.00% | ~6,579 |
 | Ploughshares to Swords | 5.00% | ~323 |
 | Bloody Graduation | 5.00% | ~323 |
 | Don't Make Me Turn This Coach Around | 4.00% | ~5,263 |
@@ -26,29 +27,28 @@ Number of Ratings: 7,767  (23.09.2022)
 | Rush Hour | 4.00% | ~5,263 |
 | Merry Time | 4.00% | ~5,263 |
 | Harvest Festival | 4.00% | ~5,263 |
-| To Grandmother's House | 4.00% | ~5,263 |
 | Whale | 4.00% | ~5,263 |
 | A Place to Lay Your Head | 4.00% | ~5,263 |
 | FNG | 4.00% | ~5,263 |
 | Nope | 4.00% | ~5,263 |
 | Friends 'Til the End | 4.00% | ~258 |
-| Resurrection | 3.00% | ~3,947 |
-| Unleash Hell | 3.00% | ~3,947 |
-| Funny Guy | 3.00% | ~3,947 |
-| Long Live the King | 3.00% | ~3,947 |
-| Wyrdly Reconstructed | 3.00% | ~3,947 |
-| Boxcar Kid | 3.00% | ~3,947 |
-| Unfulfilled Desires | 3.00% | ~3,947 |
-| Dissector | 3.00% | ~3,947 |
-| Banishment | 3.00% | ~3,947 |
-| Deprogramming | 3.00% | ~3,947 |
-| Now Stay Dead | 3.00% | ~3,947 |
-| Reverse Banditry | 3.00% | ~3,947 |
-| Spelunker | 3.00% | ~3,947 |
-| Ramble On | 3.00% | ~3,947 |
-| A Clear Conscience | 3.00% | ~3,947 |
-| Unshackled | 3.00% | ~3,947 |
-| Road Trip | 3.00% | ~3,947 |
+| Resurrection | 3.00% | ~3,948 |
+| Unleash Hell | 3.00% | ~3,948 |
+| Funny Guy | 3.00% | ~3,948 |
+| Long Live the King | 3.00% | ~3,948 |
+| Wyrdly Reconstructed | 3.00% | ~3,948 |
+| Boxcar Kid | 3.00% | ~3,948 |
+| Unfulfilled Desires | 3.00% | ~3,948 |
+| Dissector | 3.00% | ~3,948 |
+| Banishment | 3.00% | ~3,948 |
+| Deprogramming | 3.00% | ~3,948 |
+| Now Stay Dead | 3.00% | ~3,948 |
+| Reverse Banditry | 3.00% | ~3,948 |
+| Spelunker | 3.00% | ~3,948 |
+| Ramble On | 3.00% | ~3,948 |
+| A Clear Conscience | 3.00% | ~3,948 |
+| Unshackled | 3.00% | ~3,948 |
+| Road Trip | 3.00% | ~3,948 |
 | This Looks Familiar | 2.00% | ~2,632 |
 | Hope Rekindled | 2.00% | ~2,632 |
 | Predator | 2.00% | ~2,632 |
@@ -69,7 +69,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Triage | 0.80% | ~1,053 |
 | No Mercy | 0.80% | ~52 |
 | Et Tu, Riposte? | 0.80% | ~52 |
-| The World As It Was | 0.60% | ~789 |
+| The World As It Was | 0.60% | ~790 |
 | A Life Well Lived | 0.50% | ~658 |
 | Bacon Bits | 0.50% | ~658 |
 | On This Long Road, We Found Redemption | 0.50% | ~32 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,582 (Ranked 91)  
+Progressed: 131,584 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,7 +335,7 @@ Completed: 3 (0.00%) (Ranked 392)
 | 2024-01-01 | 131,206 | 3 |
 | 2024-01-02 | 131,365 | 3 |
 | 2024-01-03 | 131,540 | 3 |
-| 2024-01-04 | 131,582 | 3 |
+| 2024-01-04 | 131,584 | 3 |
 ## Awards
 Max (Character Customization): 7,940  (Ranked 50)  
 Sum: 21,391 (Ranked 58)  

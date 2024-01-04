@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~31 |
 | Murder Death Kill | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,000 (Ranked 140)  
+Progressed: 31,001 (Ranked 140)  
 Completed: 1 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,10 +181,10 @@ Completed: 1 (0.00%) (Ranked 392)
 | 2024-01-01 | 30,444 | 1 |
 | 2024-01-02 | 30,695 | 1 |
 | 2024-01-03 | 30,944 | 1 |
-| 2024-01-04 | 31,000 | 1 |
+| 2024-01-04 | 31,001 | 1 |
 ## Awards
 Max (Character Customization): 3,615  (Ranked 94)  
-Sum: 8,461 (Ranked 105)  
+Sum: 8,462 (Ranked 105)  
 Diff (max vs sum): -11  
 | Award | Count |
 | ----- | ----- |
@@ -193,9 +193,9 @@ Diff (max vs sum): -11
 | This game has Challenging Combat | 557 |
 | This game is Highly Recommended | 553 |
 | This game is Extremely Fun | 550 |
+| This game is Relaxing | 494 |
 | This game has Amazing Characters | 494 |
 | This game has Quickly Understood Controls | 493 |
-| This game is Relaxing | 493 |
 | This game has Amazing Storytelling | 491 |
 | This game has Unique Visuals | 383 |
 | This game has a Creative Community | 221 |
@@ -459,4 +459,4 @@ Diff (max vs sum): -11
 | 2024-01-01 | 4.47 | - | 3,608 | 8,449 |
 | 2024-01-02 | 4.47 | - | 3,613 | 8,456 |
 | 2024-01-03 | 4.47 | - | 3,615 | 8,460 |
-| 2024-01-04 | 4.47 | - | 3,615 | 8,461 |
+| 2024-01-04 | 4.47 | - | 3,615 | 8,462 |

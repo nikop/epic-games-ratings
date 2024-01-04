@@ -5,8 +5,8 @@
   "Ranking_Rating": 49,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
-  "Ranking_EOS_Progress": 237,
-  "Ranking_EOS_Completed": 65,
+  "Ranking_EOS_Progress": 236,
+  "Ranking_EOS_Completed": 67,
   "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 12,
   "Store": {
@@ -109,11 +109,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2321,
+  "EOS_Progressed": 2322,
   "EOS_Completed": 145,
-  "EOS_NewPlayers": 401,
+  "EOS_NewPlayers": 400,
   "EOS_NewCompleters": 30,
-  "EOS_Completed_Percentage": 6.25,
+  "EOS_Completed_Percentage": 6.24,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -6299,6 +6299,11 @@
       "Time": "2024-01-04T08:04:01.42936+00:00",
       "NumProgressed": 2321,
       "NumCompleted": 145
+    },
+    {
+      "Time": "2024-01-04T09:04:36.4850221+00:00",
+      "NumProgressed": 2322,
+      "NumCompleted": 145
     }
   ],
   "TotalAchievements": 25,
@@ -6358,7 +6363,7 @@
       "Name": "Open door",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "META_RESULT_1-3",
@@ -6422,7 +6427,7 @@
       "Name": "True G3M4R",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -6454,7 +6459,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1346
+      "UsersEstimate": 1347
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -6478,7 +6483,7 @@
       "Name": "The great escape",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 1021
+      "UsersEstimate": 1022
     },
     {
       "ID": "PROGRESS_N3",
@@ -6494,7 +6499,7 @@
       "Name": "The darkness",
       "Percentage": 30,
       "XP": 60,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "PROGRESS_N5",
@@ -6509,7 +6514,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2321,
+      "Progressed": 2322,
       "Completed": 145
     }
   ],
@@ -6517,8 +6522,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-04T06:02:50.6973409+00:00",
-  "LastChanged_Achievements": "2024-01-04T08:04:01.4293595+00:00",
+  "LastChanged_Achievements": "2024-01-04T09:04:36.4850213+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:09.4320521+00:00",
-  "LastUpdate_Ratings": "2024-01-04T08:02:29.5812396+00:00",
-  "LastUpdate_Achievements": "2024-01-04T08:04:01.4293998+00:00"
+  "LastUpdate_Ratings": "2024-01-04T09:03:02.9761089+00:00",
+  "LastUpdate_Achievements": "2024-01-04T09:04:36.4850637+00:00"
 }

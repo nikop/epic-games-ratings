@@ -1,7 +1,7 @@
 # Salt and Sacrifice
 [Store](https://store.epicgames.com/en-US/p/salt-and-sacrifice)  
 [View Rawdata](../../db/s/salt_and_sacrifice.json)  
-Rating: 4.31 (Ranked 861)  
+Rating: 4.31 (Ranked 862)  
 Number of Ratings: 2,205  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -61,7 +61,7 @@ Number of Ratings: 2,205  (23.09.2022)
 | Top Shelf | 5.00% | ~3,404 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 68,082 (Ranked 115)  
-Completed: 1,288 (1.89%) (Ranked 137)  
+Completed: 1,289 (1.89%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -319,7 +319,7 @@ Completed: 1,288 (1.89%) (Ranked 137)
 | 2024-01-01 | 68,057 | 1,286 |
 | 2024-01-02 | 68,071 | 1,286 |
 | 2024-01-03 | 68,079 | 1,287 |
-| 2024-01-04 | 68,082 | 1,288 |
+| 2024-01-04 | 68,082 | 1,289 |
 ## Awards
 Max (Character Customization): 993  (Ranked 161)  
 Sum: 2,008 (Ranked 218)  

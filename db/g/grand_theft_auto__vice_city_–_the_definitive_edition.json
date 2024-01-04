@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -1056,7 +1056,7 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 15275,
+  "EOS_Progressed": 15278,
   "EOS_Completed": 85,
   "EOS_NewPlayers": 913,
   "EOS_NewCompleters": 4,
@@ -16956,6 +16956,11 @@
       "Time": "2024-01-04T08:09:09.6995446+00:00",
       "NumProgressed": 15275,
       "NumCompleted": 85
+    },
+    {
+      "Time": "2024-01-04T09:09:54.9158747+00:00",
+      "NumProgressed": 15278,
+      "NumCompleted": 85
     }
   ],
   "TotalAchievements": 34,
@@ -17047,7 +17052,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1680
+      "UsersEstimate": 1681
     },
     {
       "ID": "ACH12",
@@ -17055,7 +17060,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "ACH13",
@@ -17071,7 +17076,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 6416
+      "UsersEstimate": 6417
     },
     {
       "ID": "ACH15",
@@ -17127,7 +17132,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 7026
+      "UsersEstimate": 7028
     },
     {
       "ID": "ACH22",
@@ -17151,7 +17156,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2291
+      "UsersEstimate": 2292
     },
     {
       "ID": "ACH25",
@@ -17159,7 +17164,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2291
+      "UsersEstimate": 2292
     },
     {
       "ID": "ACH26",
@@ -17167,7 +17172,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2291
+      "UsersEstimate": 2292
     },
     {
       "ID": "ACH27",
@@ -17183,7 +17188,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "ACH29",
@@ -17223,7 +17228,7 @@
       "Name": "Done it All",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACH34",
@@ -17238,7 +17243,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 15275,
+      "Progressed": 15278,
       "Completed": 85
     }
   ],
@@ -17246,8 +17251,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-03T02:18:34.6735113+00:00",
-  "LastChanged_Achievements": "2024-01-04T08:09:09.6995442+00:00",
+  "LastChanged_Achievements": "2024-01-04T09:09:54.915874+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:48.9246276+00:00",
-  "LastUpdate_Ratings": "2024-01-04T07:57:58.9326775+00:00",
-  "LastUpdate_Achievements": "2024-01-04T08:09:09.6996501+00:00"
+  "LastUpdate_Ratings": "2024-01-04T08:58:24.4792399+00:00",
+  "LastUpdate_Achievements": "2024-01-04T09:09:54.9159984+00:00"
 }

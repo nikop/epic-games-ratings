@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -409,7 +409,7 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1597,
+  "EOS_Progressed": 1598,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
@@ -4129,6 +4129,11 @@
       "Time": "2024-01-04T06:11:00.3107186+00:00",
       "NumProgressed": 1597,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-04T09:10:10.1589267+00:00",
+      "NumProgressed": 1598,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4196,7 +4201,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1581
+      "UsersEstimate": 1582
     },
     {
       "ID": "EXPERT_1",
@@ -4228,7 +4233,7 @@
       "Name": "Grave Robber",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "HEAD_BURST_1",
@@ -4236,7 +4241,7 @@
       "Name": "Head Burst",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "INDY_1",
@@ -4396,7 +4401,7 @@
       "Name": "Traveler",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "VVE",
@@ -4427,15 +4432,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1597,
+      "Progressed": 1598,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-12-27T01:41:52.1948259+00:00",
-  "LastChanged_Achievements": "2024-01-04T08:09:24.970986+00:00",
+  "LastChanged_Achievements": "2024-01-04T09:10:10.1589265+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.8702318+00:00",
-  "LastUpdate_Ratings": "2024-01-04T07:57:07.6909547+00:00",
-  "LastUpdate_Achievements": "2024-01-04T08:09:24.9710196+00:00"
+  "LastUpdate_Ratings": "2024-01-04T08:57:32.0834027+00:00",
+  "LastUpdate_Achievements": "2024-01-04T09:10:10.1589804+00:00"
 }

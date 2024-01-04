@@ -4,7 +4,7 @@
   "ProductSlug": "spellforce-conquest-of-eo",
   "Ranking_EOS_Progress": 480,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 326,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -603,9 +603,9 @@
       "ID": "Build_First_Room_Extension",
       "SetID": "7b9f97e",
       "Name": "Redecorating",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "Capture_Own_Tower",
@@ -627,9 +627,9 @@
       "ID": "Circle_Page",
       "SetID": "7b9f97e",
       "Name": "The Circle",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "Craft_First_Glyph",
@@ -715,9 +715,9 @@
       "ID": "Defeat_Uram",
       "SetID": "7b9f97e",
       "Name": "Defeat Uram",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Defeat_Yria",
@@ -1148,8 +1148,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2024-01-04T08:08:57.9367019+00:00",
+  "LastChanged_Achievements": "2024-01-04T09:09:43.2335055+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:20.4706393+00:00",
-  "LastUpdate_Ratings": "2024-01-04T08:00:09.3737749+00:00",
-  "LastUpdate_Achievements": "2024-01-04T08:08:57.9367871+00:00"
+  "LastUpdate_Ratings": "2024-01-04T09:00:35.400471+00:00",
+  "LastUpdate_Achievements": "2024-01-04T09:09:43.2335868+00:00"
 }

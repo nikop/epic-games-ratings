@@ -9,9 +9,9 @@ Rating: 4.55 (Ranked 522)
 | Don't judge a manhole by its cover | 60.00% | ~496 |
 | I just love stuff! | 41.00% | ~339 |
 | Keep 'em coming! | 41.00% | ~339 |
-| The things they print nowadays | 39.00% | ~322 |
+| The things they print nowadays | 39.00% | ~323 |
 | Big Spender | 38.00% | ~314 |
-| That's gotta hurt | 36.00% | ~297 |
+| That's gotta hurt | 36.00% | ~298 |
 | I think it's broke | 26.00% | ~215 |
 | The Ann Flores Combo Experience | 26.00% | ~215 |
 | Club Star | 24.00% | ~198 |
@@ -21,15 +21,15 @@ Rating: 4.55 (Ranked 522)
 | You are the One | 19.00% | ~157 |
 | Deadly Kombationem | 18.00% | ~149 |
 | The truth is out there | 16.00% | ~132 |
-| Annakin Skyscroller | 13.00% | ~107 |
+| Annakin Skyscroller | 13.00% | ~108 |
 | In the smacker...I think | 10.00% | ~83 |
 | Arm Wrestlin' | 9.00% | ~74 |
 | 1+1>2 | 9.00% | ~74 |
-| Supreme Bartender Ann | 8.00% | ~66 |
 | This can't be right… | 8.00% | ~66 |
 | Welcome home, 06 | 8.00% | ~66 |
 | I'm walking here! | 7.00% | ~58 |
 | So Fresh and So clean clean | 7.00% | ~58 |
+| Supreme Bartender Ann | 7.00% | ~58 |
 | Clarity of Mind | 6.00% | ~50 |
 | I feel secure, contained & protected | 6.00% | ~50 |
 | Science, it works! | 6.00% | ~50 |
@@ -42,7 +42,7 @@ Rating: 4.55 (Ranked 522)
 | Love me like I love my posters | 1.00% | ~8 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 826 (Ranked 303)  
+Progressed: 827 (Ranked 303)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,6 +163,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-01 | 818 | 0 |
 | 2024-01-02 | 821 | 0 |
 | 2024-01-03 | 826 | 0 |
+| 2024-01-04 | 827 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

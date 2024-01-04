@@ -9,33 +9,33 @@
 | A Forest Walk | 28.00% | ~121 |
 | Amateur Mechanic | 27.00% | ~117 |
 | Pushover | 27.00% | ~117 |
-| C-C-C-Combo! | 25.00% | ~108 |
 | Multiply that! | 25.00% | ~108 |
+| C-C-C-Combo! | 24.00% | ~104 |
 | Fore! | 22.00% | ~95 |
 | The Collector | 22.00% | ~95 |
 | Insurance fraud | 22.00% | ~95 |
 | The Wild West | 22.00% | ~95 |
 | Snow Fun! | 22.00% | ~95 |
-| Bag of Tricks | 22.00% | ~95 |
 | You're it | 22.00% | ~95 |
 | To and Fro | 21.00% | ~91 |
+| Bag of Tricks | 21.00% | ~91 |
 | I see the light! | 21.00% | ~91 |
 | In the Bag! | 21.00% | ~91 |
-| Car-Tapult | 20.00% | ~86 |
-| First Come, First Serve | 20.00% | ~86 |
-| Goodbye cruel world | 20.00% | ~86 |
-| Beach Party! | 20.00% | ~86 |
+| Car-Tapult | 20.00% | ~87 |
+| First Come, First Serve | 20.00% | ~87 |
+| Goodbye cruel world | 20.00% | ~87 |
+| Beach Party! | 20.00% | ~87 |
 | Disoriented | 19.00% | ~82 |
 | Anger Issues | 19.00% | ~82 |
 | Take that Frosty! | 19.00% | ~82 |
 | Your Highness | 19.00% | ~82 |
 | Event Amateur | 18.00% | ~78 |
-| Drift King! | 16.00% | ~69 |
 | Feeling Hot Hot Hot! | 16.00% | ~69 |
 | Feeling Dizzy? | 16.00% | ~69 |
 | Ferry Good! | 16.00% | ~69 |
 | Assert Dominance | 16.00% | ~69 |
-| Speed of light | 16.00% | ~69 |
+| Drift King! | 15.00% | ~65 |
+| Speed of light | 15.00% | ~65 |
 | Out of this League | 13.00% | ~56 |
 | Special Forces | 12.00% | ~52 |
 | Toot Toot! | 11.00% | ~48 |
@@ -60,8 +60,8 @@
 | Master Mechanic | 0.90% | ~4 |
 | Crashed and Driven | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 432 (Ranked 357)  
-Completed: 2 (0.46%) (Ranked 226)  
+Progressed: 433 (Ranked 357)  
+Completed: 2 (0.46%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -169,7 +169,7 @@ Completed: 2 (0.46%) (Ranked 226)
 | 2024-01-01 | 428 | 2 |
 | 2024-01-02 | 430 | 2 |
 | 2024-01-03 | 431 | 2 |
-| 2024-01-04 | 432 | 2 |
+| 2024-01-04 | 433 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

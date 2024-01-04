@@ -281,9 +281,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17414,
+  "EOS_Progressed": 17415,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7986,6 +7986,11 @@
       "Time": "2024-01-04T01:53:18.1840647+00:00",
       "NumProgressed": 17414,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-04T09:08:39.4829869+00:00",
+      "NumProgressed": 17415,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 26,
@@ -7997,7 +8002,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 16543
+      "UsersEstimate": 16544
     },
     {
       "ID": "ACH001",
@@ -8005,7 +8010,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 14976
+      "UsersEstimate": 14977
     },
     {
       "ID": "ACH0010",
@@ -8045,7 +8050,7 @@
       "Name": "Sharing Is Caring",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1741
+      "UsersEstimate": 1742
     },
     {
       "ID": "ACH0015",
@@ -8093,7 +8098,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 12538
+      "UsersEstimate": 12539
     },
     {
       "ID": "ACH0020",
@@ -8157,7 +8162,7 @@
       "Name": "No Half Measures",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 15150
+      "UsersEstimate": 15151
     },
     {
       "ID": "ACH005",
@@ -8204,7 +8209,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 17414,
+      "Progressed": 17415,
       "Completed": 1
     }
   ],
@@ -8212,8 +8217,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-12-25T00:02:45.1252566+00:00",
-  "LastChanged_Achievements": "2024-01-04T08:06:22.6682714+00:00",
+  "LastChanged_Achievements": "2024-01-04T09:08:39.4829864+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:20.2106038+00:00",
-  "LastUpdate_Ratings": "2024-01-04T07:59:38.1200368+00:00",
-  "LastUpdate_Achievements": "2024-01-04T08:06:22.6683277+00:00"
+  "LastUpdate_Ratings": "2024-01-04T09:00:04.1639874+00:00",
+  "LastUpdate_Achievements": "2024-01-04T09:08:39.4830527+00:00"
 }

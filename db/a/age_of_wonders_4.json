@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 409,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -717,9 +717,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6806,
+  "EOS_Progressed": 6812,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 429,
+  "EOS_NewPlayers": 434,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10302,6 +10302,11 @@
       "Time": "2024-01-04T07:08:39.842217+00:00",
       "NumProgressed": 6806,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-04T09:03:36.9961297+00:00",
+      "NumProgressed": 6812,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10313,7 +10318,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "10",
@@ -10329,7 +10334,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "12",
@@ -10353,7 +10358,7 @@
       "Name": "Full Ascension",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "15",
@@ -10423,9 +10428,9 @@
       "ID": "22",
       "SetID": "3aa2279",
       "Name": "Realm Estate",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 817
+      "UsersEstimate": 886
     },
     {
       "ID": "23",
@@ -10441,7 +10446,7 @@
       "Name": "Secret Technique",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     },
     {
       "ID": "25",
@@ -10481,7 +10486,7 @@
       "Name": "Stronger Together",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "3",
@@ -10505,7 +10510,7 @@
       "Name": "Magical Synergy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "32",
@@ -10521,7 +10526,7 @@
       "Name": "Seat of Power",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "34",
@@ -10529,7 +10534,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "35",
@@ -10585,7 +10590,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "41",
@@ -10777,7 +10782,7 @@
       "Name": "But this one is mine",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "60",
@@ -10792,13 +10797,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6806,
+      "Progressed": 6812,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6806,
+      "Progressed": 6812,
       "Completed": 7
     }
   ],
@@ -10806,8 +10811,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-03T13:04:27.6429549+00:00",
-  "LastChanged_Achievements": "2024-01-04T07:08:39.8422167+00:00",
+  "LastChanged_Achievements": "2024-01-04T09:03:36.9961284+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-04T08:00:09.60255+00:00",
-  "LastUpdate_Achievements": "2024-01-04T07:08:39.8423117+00:00"
+  "LastUpdate_Ratings": "2024-01-04T09:00:35.5971567+00:00",
+  "LastUpdate_Achievements": "2024-01-04T09:03:36.9980841+00:00"
 }

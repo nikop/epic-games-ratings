@@ -1,22 +1,22 @@
 # Frontier Hunter: Erza's Wheel of Fortune
 [Store](https://store.epicgames.com/en-US/p/frontier-hunter-erzas-wheel-of-fortune)  
 [View Rawdata](../../db/f/frontier_hunter__erza's_wheel_of_fortune.json)  
-Rating: 4.35 (Ranked 820)  
+Rating: 4.35 (Ranked 819)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 93.00% | ~646 |
-| Training Simulation | 79.00% | ~549 |
+| Travel Streamer | 93.00% | ~647 |
+| Training Simulation | 79.00% | ~550 |
 | Kuku Bird Hunter | 65.00% | ~452 |
-| Storm Traveller | 60.00% | ~417 |
-| Wolf King Killer | 55.00% | ~382 |
-| Fashion Connoisseur | 52.00% | ~361 |
+| Storm Traveller | 60.00% | ~418 |
+| Wolf King Killer | 55.00% | ~383 |
+| Fashion Connoisseur | 52.00% | ~362 |
 | Arms Mechanic | 49.00% | ~341 |
 | Flower Thief | 44.00% | ~306 |
 | Apostle of Flame | 39.00% | ~271 |
 | Beginner Cook | 38.00% | ~264 |
-| Beginner Artificer | 37.00% | ~257 |
-| Seal Breaker | 32.00% | ~222 |
+| Beginner Artificer | 37.00% | ~258 |
+| Seal Breaker | 32.00% | ~223 |
 | Handyman | 29.00% | ~202 |
 | Giant Lizard Killer | 27.00% | ~188 |
 | Guardian | 26.00% | ~181 |
@@ -33,8 +33,8 @@ Rating: 4.35 (Ranked 820)
 | Mermaid Killer | 15.00% | ~104 |
 | Cave Master | 15.00% | ~104 |
 | Face Slapper | 15.00% | ~104 |
-| Boss challenge | 11.00% | ~76 |
-| Berserker Slayer | 11.00% | ~76 |
+| Boss challenge | 11.00% | ~77 |
+| Berserker Slayer | 11.00% | ~77 |
 | Giantess Slayer | 10.00% | ~70 |
 | Warden Slayer | 10.00% | ~70 |
 | Master Cook | 9.00% | ~63 |
@@ -51,7 +51,7 @@ Rating: 4.35 (Ranked 820)
 | Giantess Challenge | 2.00% | ~14 |
 | Warden Challenge | 2.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 695 (Ranked 316)  
+Progressed: 696 (Ranked 316)  
 Completed: 3 (0.43%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 3 (0.43%) (Ranked 231)
 | 2024-01-01 | 682 | 3 |
 | 2024-01-02 | 687 | 3 |
 | 2024-01-03 | 693 | 3 |
-| 2024-01-04 | 695 | 3 |
+| 2024-01-04 | 696 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

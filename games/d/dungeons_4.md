@@ -10,13 +10,13 @@ Rating: 4.71 (Ranked 202)
 | For the Horde! | 82.00% | ~584 |
 | Hammer Time, Round Two | 81.00% | ~577 |
 | The Hellwoods | 77.00% | ~548 |
-| The Plains of Strothalm | 72.00% | ~513 |
+| The Plains of Strothalm | 73.00% | ~520 |
 | Experienced Thalya | 71.00% | ~506 |
 | Thalya's Concentrated Fury | 68.00% | ~484 |
 | Bad Elves Go Everywhere | 68.00% | ~484 |
 | Heroes’ Gorge | 64.00% | ~456 |
+| Unicorn steaks – fresh off the hoof! | 63.00% | ~449 |
 | Master of Magic | 62.00% | ~441 |
-| Unicorn steaks – fresh off the hoof! | 62.00% | ~441 |
 | Magic Accidents | 59.00% | ~420 |
 | The Ascent | 59.00% | ~420 |
 | It's Warm and Cozy at Home | 59.00% | ~420 |
@@ -31,7 +31,7 @@ Rating: 4.71 (Ranked 202)
 | Dungeonlord Gorgu | 45.00% | ~320 |
 | Tanos' Crusade Against Thalya | 45.00% | ~320 |
 | Pure Dynamite! | 44.00% | ~313 |
-| Mana Cannon | 41.00% | ~292 |
+| Mana Cannon | 42.00% | ~299 |
 | All’s Well That Ends Evil | 40.00% | ~285 |
 | The Duel | 38.00% | ~271 |
 | If Looks Could Kill | 35.00% | ~249 |

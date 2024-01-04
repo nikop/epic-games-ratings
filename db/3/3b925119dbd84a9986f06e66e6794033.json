@@ -4,7 +4,7 @@
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 671,
+  "EOS_Progressed": 672,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
@@ -2109,6 +2109,11 @@
       "Time": "2024-01-04T05:10:06.0755301+00:00",
       "NumProgressed": 671,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T09:10:01.8190211+00:00",
+      "NumProgressed": 672,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -2183,9 +2188,9 @@
       "ID": "RISKYTEXT_BOOST_VOTE",
       "SetID": "9j9h72e",
       "Name": "FixyText: Pump It Up",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 134
+      "UsersEstimate": 128
     },
     {
       "ID": "RISKYTEXT_ONE_WORD_GETS_VOTES_FROM_ALL_VOTING_PLAYERS",
@@ -2193,7 +2198,7 @@
       "Name": "FixyText: Bestseller",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "RISKYTEXT_PLAY_ALL_CATEGORIES",
@@ -2280,14 +2285,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 671,
+      "Progressed": 672,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2024-01-04T08:09:16.5608892+00:00",
+  "LastChanged_Achievements": "2024-01-04T09:10:01.8190206+00:00",
   "LastUpdate_AppInfo": "2023-12-30T02:16:13.4108208+00:00",
-  "LastUpdate_Ratings": "2024-01-04T07:58:51.5695923+00:00",
-  "LastUpdate_Achievements": "2024-01-04T08:09:16.560917+00:00"
+  "LastUpdate_Ratings": "2024-01-04T08:59:16.0905237+00:00",
+  "LastUpdate_Achievements": "2024-01-04T09:10:01.819049+00:00"
 }

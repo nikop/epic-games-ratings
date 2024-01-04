@@ -43,8 +43,8 @@ Number of Ratings: 892  (23.09.2022)
 | Happier-est Place on Earth | 56.00% | ~445 |
 | Anti-Santa | 55.00% | ~437 |
 | You Don't Win Friends With Salad | 55.00% | ~437 |
+| Sepia Toned Memories | 54.00% | ~429 |
 | Finishing Touches | 53.00% | ~421 |
-| Sepia Toned Memories | 53.00% | ~421 |
 | Time Flies | 52.00% | ~413 |
 | Who Ya Gonna Call...? | 52.00% | ~413 |
 | Call Me Fishmael | 52.00% | ~413 |
@@ -53,8 +53,8 @@ Number of Ratings: 892  (23.09.2022)
 | Jewel of the Eufaula | 45.00% | ~358 |
 | My Time Mansion | 42.00% | ~334 |
 | He Can Spin A Yarn... | 40.00% | ~318 |
+| Santa In Training | 40.00% | ~318 |
 | Sandrunning Speedster | 40.00% | ~318 |
-| Santa In Training | 39.00% | ~310 |
 | It Belongs in a Museum! | 36.00% | ~286 |
 | Pro Gamer | 34.00% | ~270 |
 | Do Your Part | 34.00% | ~270 |
@@ -138,7 +138,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-04 | 795 | 0 |
 ## Awards
 Max (Character Customization): 623  (Ranked 203)  
-Sum: 1,487 (Ranked 243)  
+Sum: 1,488 (Ranked 243)  
 Diff (max vs sum): -40  
 | Award | Count |
 | ----- | ----- |
@@ -151,7 +151,7 @@ Diff (max vs sum): -40
 | This game is Relaxing | 81 |
 | This game has Amazing Characters | 79 |
 | This game has Amazing Storytelling | 77 |
-| This game has Easy Combat | 72 |
+| This game has Easy Combat | 73 |
 | This game has a Creative Community | 63 |
 | This game has a Kind Community | 46 |
 | This game has Obsessive Gameplay | 40 |
@@ -365,3 +365,4 @@ Diff (max vs sum): -40
 | 2024-01-01 | 4.68 | - | 619 | 1,479 |
 | 2024-01-02 | 4.68 | - | 619 | 1,482 |
 | 2024-01-03 | 4.68 | - | 623 | 1,487 |
+| 2024-01-04 | 4.68 | - | 623 | 1,488 |

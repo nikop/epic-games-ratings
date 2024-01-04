@@ -25,8 +25,8 @@ Number of Ratings: 398  (23.09.2022)
 | Firestarter | 8.00% | ~550 |
 | Make Tropico Great Again! | 7.00% | ~481 |
 | French Connection | 7.00% | ~481 |
-| Don't Panic! | 6.00% | ~412 |
-| I Owe You Nothing | 6.00% | ~412 |
+| Don't Panic! | 6.00% | ~413 |
+| I Owe You Nothing | 6.00% | ~413 |
 | Viva Tropico! | 5.00% | ~344 |
 | Computer Says "No" | 5.00% | ~344 |
 | Beware The Betman | 5.00% | ~344 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~55 |
 | My Ways | 0.20% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,875 (Ranked 194)  
+Progressed: 6,876 (Ranked 194)  
 Completed: 2 (0.03%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 2 (0.03%) (Ranked 351)
 | 2024-01-01 | 6,834 | 2 |
 | 2024-01-02 | 6,856 | 2 |
 | 2024-01-03 | 6,872 | 2 |
-| 2024-01-04 | 6,875 | 2 |
+| 2024-01-04 | 6,876 | 2 |
 ## Awards
 Max (Highly Recommended): 106  (Ranked 367)  
 Sum: 752 (Ranked 303)  
