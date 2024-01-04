@@ -4,7 +4,7 @@
   "ProductSlug": "stone-guardian-81fcc1",
   "Ranking_EOS_Progress": 668,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 523,
+  "Ranking_EOS_NewPlayers": 522,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-12-07T08:00:00+00:00",
@@ -206,8 +206,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-05T19:03:44.7323973+00:00",
-  "LastChanged_Achievements": "2024-01-04T09:06:22.2628659+00:00",
+  "LastChanged_Achievements": "2024-01-04T10:06:24.332291+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:06.4215275+00:00",
-  "LastUpdate_Ratings": "2024-01-04T08:57:27.1110189+00:00",
-  "LastUpdate_Achievements": "2024-01-04T09:06:22.2628843+00:00"
+  "LastUpdate_Ratings": "2024-01-04T09:57:32.0317504+00:00",
+  "LastUpdate_Achievements": "2024-01-04T10:06:24.332299+00:00"
 }

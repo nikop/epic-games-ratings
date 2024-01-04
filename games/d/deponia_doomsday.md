@@ -5,30 +5,30 @@ Rating: 4.55 (Ranked 522)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Huzza, he's back. | 86.00% | ~440 |
+| Huzza, he's back. | 86.00% | ~441 |
 | And again, and again, and... | 64.00% | ~328 |
-| Kuvaq Minigame-Master | 62.00% | ~317 |
-| Burn, Elysium, burn! | 62.00% | ~317 |
+| Kuvaq Minigame-Master | 62.00% | ~318 |
+| Burn, Elysium, burn! | 62.00% | ~318 |
 | FunScore | 55.00% | ~282 |
-| Funtime's over | 52.00% | ~266 |
+| Funtime's over | 52.00% | ~267 |
 | Chunky | 49.00% | ~251 |
 | Boat of love, boat of love | 48.00% | ~246 |
 | Shall we play a game? | 47.00% | ~241 |
-| School's out | 43.00% | ~220 |
-| Sole Music | 37.00% | ~189 |
-| Scaffolding Expert | 37.00% | ~189 |
-| Elysian Minigame-Master | 37.00% | ~189 |
+| School's out | 43.00% | ~221 |
+| Sole Music | 37.00% | ~190 |
+| Scaffolding Expert | 36.00% | ~185 |
+| Elysian Minigame-Master | 36.00% | ~185 |
 | Portals come in packs | 30.00% | ~154 |
-| No man left behind! | 29.00% | ~148 |
+| No man left behind! | 29.00% | ~149 |
 | Photo Friend | 25.00% | ~128 |
-| Masseltov | 20.00% | ~102 |
-| Brainfreeze | 20.00% | ~102 |
-| And everything comes full circle. | 20.00% | ~102 |
+| Masseltov | 20.00% | ~103 |
+| Brainfreeze | 20.00% | ~103 |
+| And everything comes full circle. | 19.00% | ~97 |
 | Quickdraw | 15.00% | ~77 |
 | Thuna...? | 14.00% | ~72 |
 | Monstrous Harassment | 14.00% | ~72 |
 | Heading the inverter | 14.00% | ~72 |
-| Blast from the Past | 12.00% | ~61 |
+| Blast from the Past | 12.00% | ~62 |
 | Play it again, Ronny | 11.00% | ~56 |
 | Goat Team | 10.00% | ~51 |
 | Paradox! | 10.00% | ~51 |
@@ -42,8 +42,8 @@ Rating: 4.55 (Ranked 522)
 | Every man for himself! | 5.00% | ~26 |
 | 1001 Jackalopes | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 512 (Ranked 342)  
-Completed: 7 (1.37%) (Ranked 152)  
+Progressed: 513 (Ranked 342)  
+Completed: 7 (1.36%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -147,6 +147,7 @@ Completed: 7 (1.37%) (Ranked 152)
 | 2023-12-31 | 510 | 7 |
 | 2024-01-02 | 511 | 7 |
 | 2024-01-03 | 512 | 7 |
+| 2024-01-04 | 513 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

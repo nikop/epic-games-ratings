@@ -2,9 +2,9 @@
   "ID": "a8bf762f26ca484cb26164d48821e90f",
   "Name": "BROK the InvestiGator",
   "ProductSlug": "brok-the-investigator-fb0513",
-  "Ranking_EOS_Progress": 572,
+  "Ranking_EOS_Progress": 571,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewPlayers": 434,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-04-07T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 38,
+  "EOS_Progressed": 39,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -196,6 +196,11 @@
       "Time": "2024-01-03T23:08:58.868509+00:00",
       "NumProgressed": 38,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T10:03:48.5920342+00:00",
+      "NumProgressed": 39,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 29,
@@ -237,7 +242,7 @@
       "ID": "CHAPTER1",
       "SetID": "bb2dp",
       "Name": "Chapter 1",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 30,
       "UsersEstimate": 18
     },
@@ -245,7 +250,7 @@
       "ID": "CHAPTER2",
       "SetID": "bb2dp",
       "Name": "Chapter 2",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 30,
       "UsersEstimate": 16
     },
@@ -253,7 +258,7 @@
       "ID": "CHAPTER3",
       "SetID": "bb2dp",
       "Name": "Chapter 3",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 30,
       "UsersEstimate": 14
     },
@@ -261,7 +266,7 @@
       "ID": "CHAPTER4",
       "SetID": "bb2dp",
       "Name": "Chapter 4",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 13
     },
@@ -269,7 +274,7 @@
       "ID": "CHAPTER5",
       "SetID": "bb2dp",
       "Name": "Chapter 5",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 30,
       "UsersEstimate": 11
     },
@@ -301,7 +306,7 @@
       "ID": "HEALTHCHECKUP",
       "SetID": "bb2dp",
       "Name": "Your Days Are Numbered",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 13
     },
@@ -309,7 +314,7 @@
       "ID": "HIGHWAYSURVIVE",
       "SetID": "bb2dp",
       "Name": "Highway Survival",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -317,7 +322,7 @@
       "ID": "INTRO",
       "SetID": "bb2dp",
       "Name": "Introduction completed",
-      "Percentage": 76,
+      "Percentage": 74,
       "XP": 30,
       "UsersEstimate": 29
     },
@@ -341,7 +346,7 @@
       "ID": "MATERIALS",
       "SetID": "bb2dp",
       "Name": "All Materials",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 13
     },
@@ -365,7 +370,7 @@
       "ID": "PILLSLOVER",
       "SetID": "bb2dp",
       "Name": "Sugar Pills Lover",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -389,7 +394,7 @@
       "ID": "SWIM",
       "SetID": "bb2dp",
       "Name": "It\u0027s In My Nature",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
       "UsersEstimate": 14
     },
@@ -413,7 +418,7 @@
       "ID": "TRAMPSAVER",
       "SetID": "bb2dp",
       "Name": "Tramp Saver",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 70,
       "UsersEstimate": 4
     },
@@ -438,7 +443,7 @@
     {
       "ID": "bb2dp",
       "IsBase": true,
-      "Progressed": 38,
+      "Progressed": 39,
       "Completed": 0
     }
   ],
@@ -446,8 +451,8 @@
   "FirstSeenRating": "2023-04-09T06:58:32.3271567+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.8723244+00:00",
   "LastChanged": "2023-04-09T06:58:32.3271567+00:00",
-  "LastChanged_Achievements": "2024-01-04T09:03:44.5520707+00:00",
+  "LastChanged_Achievements": "2024-01-04T10:03:48.5920336+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:20.335815+00:00",
-  "LastUpdate_Ratings": "2024-01-04T08:58:46.0911726+00:00",
-  "LastUpdate_Achievements": "2024-01-04T09:03:44.5520922+00:00"
+  "LastUpdate_Ratings": "2024-01-04T09:58:51.156847+00:00",
+  "LastUpdate_Achievements": "2024-01-04T10:03:48.592059+00:00"
 }

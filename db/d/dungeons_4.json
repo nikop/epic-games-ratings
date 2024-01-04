@@ -2310,9 +2310,9 @@
       "ID": "ach_main05evil_completed",
       "SetID": "4hg22ll",
       "Name": "Bad Elves Go Everywhere",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 484
+      "UsersEstimate": 491
     },
     {
       "ID": "ach_main05evil_thalyalevel",
@@ -2711,8 +2711,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-03T15:00:48.7802365+00:00",
-  "LastChanged_Achievements": "2024-01-04T09:09:17.0774217+00:00",
+  "LastChanged_Achievements": "2024-01-04T10:09:17.614774+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:16.0613697+00:00",
-  "LastUpdate_Ratings": "2024-01-04T09:00:04.9093593+00:00",
-  "LastUpdate_Achievements": "2024-01-04T09:09:17.077513+00:00"
+  "LastUpdate_Ratings": "2024-01-04T10:00:09.2534502+00:00",
+  "LastUpdate_Achievements": "2024-01-04T10:09:17.6148346+00:00"
 }

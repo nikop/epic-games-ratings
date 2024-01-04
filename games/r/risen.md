@@ -5,36 +5,36 @@ Rating: 4.55 (Ranked 522)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 92.00% | ~146 |
+| Beginner | 93.00% | ~149 |
 | Map reader | 64.00% | ~102 |
-| Adventurer | 63.00% | ~100 |
-| Philanthropist | 60.00% | ~95 |
+| Adventurer | 63.00% | ~101 |
+| Philanthropist | 59.00% | ~94 |
 | Archer | 42.00% | ~67 |
-| The brave little tailor | 40.00% | ~64 |
 | Field hand | 39.00% | ~62 |
+| The brave little tailor | 39.00% | ~62 |
 | Samaritan | 32.00% | ~51 |
 | Well-to-do | 32.00% | ~51 |
-| The merciful one | 30.00% | ~48 |
-| Ladies' man | 30.00% | ~48 |
+| The merciful one | 29.00% | ~46 |
+| Ladies' man | 29.00% | ~46 |
 | Ferocious wild boars | 24.00% | ~38 |
 | Idiot | 24.00% | ~38 |
-| Beast slayer | 21.00% | ~33 |
+| Beast slayer | 21.00% | ~34 |
 | Death of a legend | 19.00% | ~30 |
 | Archaeologist | 19.00% | ~30 |
 | Ogre friend | 18.00% | ~29 |
 | Family man | 17.00% | ~27 |
 | Fence | 17.00% | ~27 |
 | Sidelined | 17.00% | ~27 |
-| Wise man | 16.00% | ~25 |
-| Little hero | 16.00% | ~25 |
-| Hard worker | 16.00% | ~25 |
-| The fourth triplet | 16.00% | ~25 |
+| Wise man | 16.00% | ~26 |
+| Little hero | 16.00% | ~26 |
+| Hard worker | 16.00% | ~26 |
+| The fourth triplet | 16.00% | ~26 |
 | Master detective | 14.00% | ~22 |
 | Pandora's box | 13.00% | ~21 |
 | Ghost hunter | 13.00% | ~21 |
 | Peacekeeper | 13.00% | ~21 |
 | Workaholic | 12.00% | ~19 |
-| Defender | 11.00% | ~17 |
+| Defender | 11.00% | ~18 |
 | Safecracker | 10.00% | ~16 |
 | Master thief | 10.00% | ~16 |
 | Freedom fighter | 9.00% | ~14 |
@@ -56,7 +56,7 @@ Rating: 4.55 (Ranked 522)
 | Master of the classes | 0.60% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 159 (Ranked 443)  
+Progressed: 160 (Ranked 443)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,6 +123,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-01 | 152 | 0 |
 | 2024-01-02 | 156 | 0 |
 | 2024-01-03 | 159 | 0 |
+| 2024-01-04 | 160 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

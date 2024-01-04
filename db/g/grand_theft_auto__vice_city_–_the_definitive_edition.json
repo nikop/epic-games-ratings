@@ -1056,9 +1056,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 15278,
+  "EOS_Progressed": 15279,
   "EOS_Completed": 85,
-  "EOS_NewPlayers": 913,
+  "EOS_NewPlayers": 910,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -16961,6 +16961,11 @@
       "Time": "2024-01-04T09:09:54.9158747+00:00",
       "NumProgressed": 15278,
       "NumCompleted": 85
+    },
+    {
+      "Time": "2024-01-04T10:09:55.7053894+00:00",
+      "NumProgressed": 15279,
+      "NumCompleted": 85
     }
   ],
   "TotalAchievements": 34,
@@ -17044,7 +17049,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 1069
+      "UsersEstimate": 1070
     },
     {
       "ID": "ACH11",
@@ -17140,7 +17145,7 @@
       "Name": "Life of the Party",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3208
+      "UsersEstimate": 3209
     },
     {
       "ID": "ACH23",
@@ -17148,7 +17153,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 3972
+      "UsersEstimate": 3973
     },
     {
       "ID": "ACH24",
@@ -17243,7 +17248,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 15278,
+      "Progressed": 15279,
       "Completed": 85
     }
   ],
@@ -17251,8 +17256,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-03T02:18:34.6735113+00:00",
-  "LastChanged_Achievements": "2024-01-04T09:09:54.915874+00:00",
+  "LastChanged_Achievements": "2024-01-04T10:09:55.705389+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:48.9246276+00:00",
-  "LastUpdate_Ratings": "2024-01-04T08:58:24.4792399+00:00",
-  "LastUpdate_Achievements": "2024-01-04T09:09:54.9159984+00:00"
+  "LastUpdate_Ratings": "2024-01-04T09:58:29.6102053+00:00",
+  "LastUpdate_Achievements": "2024-01-04T10:09:55.7054917+00:00"
 }

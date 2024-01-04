@@ -6,24 +6,24 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 5.00% | ~37,665 |
-| The Assault | 4.00% | ~30,132 |
-| Life is your teacher | 4.00% | ~30,132 |
-| Lightning Hands | 4.00% | ~30,132 |
-| The Hateful Pole Fighter | 2.00% | ~15,066 |
-| A Lady's Blood in the Snow | 2.00% | ~15,066 |
-| Lady Wing Chun | 2.00% | ~15,066 |
-| Kill Nil | 2.00% | ~15,066 |
-| Stuntmaster | 2.00% | ~15,066 |
-| Street Fighting | 2.00% | ~15,066 |
-| State of constant learning | 2.00% | ~15,066 |
-| Qi Gong: Breath | 2.00% | ~15,066 |
-| Qi Gong: Essence | 2.00% | ~15,066 |
-| I know Kung-Fu | 2.00% | ~15,066 |
-| Old Child | 2.00% | ~15,066 |
-| Path of the Prospect | 2.00% | ~15,066 |
-| Rumble in the Hangar | 2.00% | ~15,066 |
-| Diligence as a goal | 2.00% | ~1,252 |
+| The Old Grandmaster | 5.00% | ~37,667 |
+| The Assault | 4.00% | ~30,134 |
+| Life is your teacher | 4.00% | ~30,134 |
+| Lightning Hands | 4.00% | ~30,134 |
+| The Hateful Pole Fighter | 2.00% | ~15,067 |
+| A Lady's Blood in the Snow | 2.00% | ~15,067 |
+| Lady Wing Chun | 2.00% | ~15,067 |
+| Kill Nil | 2.00% | ~15,067 |
+| Stuntmaster | 2.00% | ~15,067 |
+| Street Fighting | 2.00% | ~15,067 |
+| State of constant learning | 2.00% | ~15,067 |
+| Qi Gong: Breath | 2.00% | ~15,067 |
+| Qi Gong: Essence | 2.00% | ~15,067 |
+| I know Kung-Fu | 2.00% | ~15,067 |
+| Old Child | 2.00% | ~15,067 |
+| Path of the Prospect | 2.00% | ~15,067 |
+| Rumble in the Hangar | 2.00% | ~15,067 |
+| Diligence as a goal | 2.00% | ~1,253 |
 | Furious Fists | 1.00% | ~7,533 |
 | Scareless | 1.00% | ~7,533 |
 | Qi Gong: Mind | 1.00% | ~7,533 |
@@ -43,7 +43,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Legendary Talismans of Wuxing | 0.40% | ~3,013 |
 | Prodigal Child | 0.40% | ~3,013 |
 | The 36th Chamber of Kung-Fu | 0.40% | ~3,013 |
-| The best strikes are the ones we avoid | 0.40% | ~250 |
+| The best strikes are the ones we avoid | 0.40% | ~251 |
 | Drunken Fighter | 0.30% | ~2,260 |
 | Martial Artist | 0.30% | ~2,260 |
 | Knowledge Greed | 0.30% | ~2,260 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~63 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~63 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 753,303 (Ranked 25)  
+Progressed: 753,344 (Ranked 25)  
 Completed: 12,973 (1.72%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,7 +326,7 @@ Completed: 12,973 (1.72%) (Ranked 141)
 | 2024-01-01 | 751,425 | 12,971 |
 | 2024-01-02 | 752,188 | 12,971 |
 | 2024-01-03 | 753,003 | 12,973 |
-| 2024-01-04 | 753,303 | 12,973 |
+| 2024-01-04 | 753,344 | 12,973 |
 ## Awards
 Max (Great Boss Battles): 7,088  (Ranked 55)  
 Sum: 11,988 (Ranked 87)  

@@ -61,9 +61,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1751,
+  "EOS_Progressed": 1754,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 369,
+  "EOS_NewPlayers": 371,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -3466,6 +3466,11 @@
       "Time": "2024-01-04T09:10:14.2930388+00:00",
       "NumProgressed": 1751,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-04T10:10:15.1515915+00:00",
+      "NumProgressed": 1754,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -3477,7 +3482,7 @@
       "Name": "Break Out",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1070
     },
     {
       "ID": "ACH_02",
@@ -3493,7 +3498,7 @@
       "Name": "Powerful Allies",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "ACH_04",
@@ -3549,7 +3554,7 @@
       "Name": "Trinity",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "ACH_11",
@@ -3613,7 +3618,7 @@
       "Name": "Shatter Them All",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "ACH_19",
@@ -3653,7 +3658,7 @@
       "Name": "Geared Up",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "ACH_24",
@@ -3669,7 +3674,7 @@
       "Name": "Fashion Victim",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "ACH_26",
@@ -3715,9 +3720,9 @@
       "ID": "ACH_31",
       "SetID": "efe2lj",
       "Name": "Stone Collection",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 350
+      "UsersEstimate": 333
     },
     {
       "ID": "ACH_33",
@@ -3733,7 +3738,7 @@
       "Name": "The Collector",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "ACH_35",
@@ -3764,7 +3769,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1751,
+      "Progressed": 1754,
       "Completed": 3
     }
   ],
@@ -3772,8 +3777,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-02T01:47:19.6899919+00:00",
-  "LastChanged_Achievements": "2024-01-04T09:10:14.2930385+00:00",
+  "LastChanged_Achievements": "2024-01-04T10:10:15.1515913+00:00",
   "LastUpdate_AppInfo": "2024-01-01T22:57:08.0954502+00:00",
-  "LastUpdate_Ratings": "2024-01-04T08:57:20.827947+00:00",
-  "LastUpdate_Achievements": "2024-01-04T09:10:14.2930823+00:00"
+  "LastUpdate_Ratings": "2024-01-04T09:57:25.6349381+00:00",
+  "LastUpdate_Achievements": "2024-01-04T10:10:15.1516352+00:00"
 }

@@ -34,8 +34,8 @@ Number of Ratings: 116  (23.09.2022)
 | Unyielding Strength | 24.00% | ~99 |
 | Big Spender | 24.00% | ~99 |
 | Can you restore the Balance? | 23.00% | ~95 |
+| Crowd Source | 23.00% | ~95 |
 | Cleanup Crew | 22.00% | ~91 |
-| Crowd Source | 22.00% | ~91 |
 | Demon Meddler | 20.00% | ~83 |
 | Seeing Red | 20.00% | ~83 |
 | Maximum Capacity | 19.00% | ~78 |
@@ -53,11 +53,11 @@ Number of Ratings: 116  (23.09.2022)
 | Humanitarian | 7.00% | ~29 |
 | My Evil Twin | 6.00% | ~25 |
 | Made of Sterner Stuff | 5.00% | ~21 |
+| Purity of Power | 4.00% | ~17 |
 | "Impressive!" | 4.00% | ~17 |
 | Keeper of the Bonfire | 4.00% | ~17 |
 | Keeper of the Vale | 4.00% | ~17 |
 | Keeper of the Sky | 4.00% | ~17 |
-| Purity of Power | 3.00% | ~12 |
 | Balance in all things | 3.00% | ~12 |
 | "Incredible!" | 3.00% | ~12 |
 | Keeper of Colossal Automata | 3.00% | ~12 |

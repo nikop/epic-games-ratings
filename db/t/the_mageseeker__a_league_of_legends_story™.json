@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -169,9 +169,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3261,
+  "EOS_Progressed": 3262,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -5869,6 +5869,11 @@
       "Time": "2024-01-04T08:05:44.0541706+00:00",
       "NumProgressed": 3261,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2024-01-04T10:06:24.258822+00:00",
+      "NumProgressed": 3262,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 53,
@@ -5912,7 +5917,7 @@
       "Name": "Whispers in the Woods III",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "STB_COPY_ABILITIES",
@@ -5944,7 +5949,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 3098
+      "UsersEstimate": 3099
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -5952,7 +5957,7 @@
       "Name": "My heart and sword always for Demacia",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "STB_DEFEAT_ICE_SALAMANDER_I",
@@ -5960,7 +5965,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2511
+      "UsersEstimate": 2512
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -5976,7 +5981,7 @@
       "Name": "Friendly fire",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "STB_DEFEAT_MAGICSHIFTER",
@@ -5992,7 +5997,7 @@
       "Name": "I chose my shackles",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
@@ -6000,7 +6005,7 @@
       "Name": "Past trauma",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 1239
+      "UsersEstimate": 1240
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -6056,7 +6061,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 2478
+      "UsersEstimate": 2479
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -6064,7 +6069,7 @@
       "Name": "No more cages!",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 2935
+      "UsersEstimate": 2936
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -6096,7 +6101,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 2478
+      "UsersEstimate": 2479
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -6104,7 +6109,7 @@
       "Name": "Thornbarrow",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 1402
+      "UsersEstimate": 1403
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -6160,7 +6165,7 @@
       "Name": "The Central Headquarters",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "STB_MISSION8_COMPLETED",
@@ -6232,7 +6237,7 @@
       "Name": "Iffighain Headquarters",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_IV",
@@ -6303,7 +6308,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 3261,
+      "Progressed": 3262,
       "Completed": 20
     }
   ],
@@ -6311,8 +6316,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-30T20:57:35.994685+00:00",
-  "LastChanged_Achievements": "2024-01-04T09:06:22.0831327+00:00",
+  "LastChanged_Achievements": "2024-01-04T10:06:24.2588218+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:16.0545663+00:00",
-  "LastUpdate_Ratings": "2024-01-04T08:59:20.3728046+00:00",
-  "LastUpdate_Achievements": "2024-01-04T09:06:22.0832131+00:00"
+  "LastUpdate_Ratings": "2024-01-04T09:59:24.5611482+00:00",
+  "LastUpdate_Achievements": "2024-01-04T10:06:24.2588791+00:00"
 }

@@ -1057,9 +1057,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9757,
+  "EOS_Progressed": 9758,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10557,6 +10557,11 @@
       "Time": "2024-01-04T09:09:30.6111142+00:00",
       "NumProgressed": 9757,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-04T10:09:31.2793643+00:00",
+      "NumProgressed": 9758,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -10584,7 +10589,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4293
+      "UsersEstimate": 4294
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -10616,7 +10621,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 3122
+      "UsersEstimate": 3123
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -10632,7 +10637,7 @@
       "Name": "Decimation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1951
+      "UsersEstimate": 1952
     },
     {
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
@@ -10680,7 +10685,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 3122
+      "UsersEstimate": 3123
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -10816,7 +10821,7 @@
       "Name": "Silver Lining",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2634
+      "UsersEstimate": 2635
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -10896,7 +10901,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4878
+      "UsersEstimate": 4879
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -10904,7 +10909,7 @@
       "Name": "Uomo Universale",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "ISONZO_ACH_VENI_VIDI_VICI",
@@ -10920,14 +10925,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 4976
+      "UsersEstimate": 4977
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9757,
+      "Progressed": 9758,
       "Completed": 10
     }
   ],
@@ -10935,8 +10940,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-02T20:59:57.5573345+00:00",
-  "LastChanged_Achievements": "2024-01-04T09:09:30.6111139+00:00",
+  "LastChanged_Achievements": "2024-01-04T10:09:31.2793639+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:27.5115536+00:00",
-  "LastUpdate_Ratings": "2024-01-04T09:00:25.574247+00:00",
-  "LastUpdate_Achievements": "2024-01-04T09:09:30.611264+00:00"
+  "LastUpdate_Ratings": "2024-01-04T10:00:29.5384154+00:00",
+  "LastUpdate_Achievements": "2024-01-04T10:09:31.2794505+00:00"
 }

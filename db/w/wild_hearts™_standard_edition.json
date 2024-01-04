@@ -18,7 +18,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1108,
+  "EOS_Progressed": 1109,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 0,
@@ -3678,6 +3678,11 @@
       "Time": "2024-01-04T09:09:38.4112041+00:00",
       "NumProgressed": 1108,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-04T10:09:39.0882361+00:00",
+      "NumProgressed": 1109,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -3690,7 +3695,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 1108
+      "UsersEstimate": 1109
     },
     {
       "ID": "achievement_10",
@@ -3706,7 +3711,7 @@
       "Name": "Karakuri Isle",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "achievement_12",
@@ -3754,7 +3759,7 @@
       "Name": "Master of the Skies",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "achievement_18",
@@ -3800,9 +3805,9 @@
       "ID": "achievement_22",
       "SetID": "2cpn27e",
       "Name": "Kemono Hunter",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 465
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_23",
@@ -3898,7 +3903,7 @@
       "Name": "Human Believer",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "achievement_34",
@@ -3928,9 +3933,9 @@
       "ID": "achievement_37",
       "SetID": "2cpn27e",
       "Name": "Hidden History",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 787
+      "UsersEstimate": 798
     },
     {
       "ID": "achievement_38",
@@ -3954,7 +3959,7 @@
       "Name": "Axer of Auspice",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "achievement_40",
@@ -4058,7 +4063,7 @@
       "Name": "Expert Conjuror",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "achievement_9",
@@ -4073,13 +4078,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 1108,
+      "Progressed": 1109,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-04T09:09:38.4112037+00:00",
+  "LastChanged_Achievements": "2024-01-04T10:09:39.0882358+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:22.7723621+00:00",
-  "LastUpdate_Ratings": "2024-01-04T08:57:34.212664+00:00",
-  "LastUpdate_Achievements": "2024-01-04T09:09:38.411262+00:00"
+  "LastUpdate_Ratings": "2024-01-04T09:57:39.5237515+00:00",
+  "LastUpdate_Achievements": "2024-01-04T10:09:39.0882827+00:00"
 }

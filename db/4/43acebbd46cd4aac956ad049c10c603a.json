@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -277,7 +277,7 @@
       "Count": 93
     }
   ],
-  "EOS_Progressed": 1254,
+  "EOS_Progressed": 1255,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
@@ -3517,6 +3517,11 @@
       "Time": "2024-01-04T07:04:23.6626122+00:00",
       "NumProgressed": 1254,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-04T10:04:37.955046+00:00",
+      "NumProgressed": 1255,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3527,9 +3532,9 @@
       "ID": "AbAeterno",
       "SetID": "1n308hc",
       "Name": "Ab Aeterno",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 75
+      "UsersEstimate": 63
     },
     {
       "ID": "AbInitio",
@@ -3545,7 +3550,7 @@
       "Name": "Anthropic Hills",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "Archaeologist",
@@ -3617,7 +3622,7 @@
       "Name": "Desolate Island",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "Discovery",
@@ -3657,7 +3662,7 @@
       "Name": "Flooded Valley",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "GnothiSeauton",
@@ -3681,7 +3686,7 @@
       "Name": "Grasslands Ring",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "HighPlain",
@@ -3705,7 +3710,7 @@
       "Name": "Just One Lap",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "LordOfTheFiles",
@@ -3721,7 +3726,7 @@
       "Name": "Lost Marshes",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "MistressOfRiddles",
@@ -3777,7 +3782,7 @@
       "Name": "Not What It Seems",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "Overload",
@@ -3801,7 +3806,7 @@
       "Name": "Prometheus Unbound",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "PuzzleFiend",
@@ -3929,7 +3934,7 @@
       "Name": "The Thief of Fire",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "TheWordEndures",
@@ -3937,7 +3942,7 @@
       "Name": "The Word Endures",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "TouchGrass",
@@ -3953,7 +3958,7 @@
       "Name": "Trevor\u0027s Biographer",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "VerdantCanyon",
@@ -3969,7 +3974,7 @@
       "Name": "Wanderers",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "WesternDelta",
@@ -4000,7 +4005,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1254,
+      "Progressed": 1255,
       "Completed": 2
     }
   ],
@@ -4008,8 +4013,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-03T15:00:44.4057345+00:00",
-  "LastChanged_Achievements": "2024-01-04T09:04:34.6130927+00:00",
+  "LastChanged_Achievements": "2024-01-04T10:04:37.9550456+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.9244138+00:00",
-  "LastUpdate_Ratings": "2024-01-04T09:00:02.2780804+00:00",
-  "LastUpdate_Achievements": "2024-01-04T09:04:34.6131699+00:00"
+  "LastUpdate_Ratings": "2024-01-04T10:00:06.5336454+00:00",
+  "LastUpdate_Achievements": "2024-01-04T10:04:37.9551062+00:00"
 }

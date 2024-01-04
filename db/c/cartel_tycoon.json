@@ -6,7 +6,7 @@
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 294,
-  "Ranking_EOS_Completed": 246,
+  "Ranking_EOS_Completed": 245,
   "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
@@ -301,7 +301,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 933,
+  "EOS_Progressed": 934,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
@@ -3321,6 +3321,11 @@
       "Time": "2024-01-04T06:04:19.2392032+00:00",
       "NumProgressed": 933,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-04T10:04:11.3999977+00:00",
+      "NumProgressed": 934,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3356,7 +3361,7 @@
       "Name": "Didn\u0027t Miss A Single One",
       "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "female-conqueror",
@@ -3380,7 +3385,7 @@
       "Name": "Our Man",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "kill-lieutenants",
@@ -3396,7 +3401,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "play-at-night",
@@ -3452,7 +3457,7 @@
       "Name": "Camellos",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "unlock-residences",
@@ -3468,7 +3473,7 @@
       "Name": "Take-Off",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "use-submarine",
@@ -3483,15 +3488,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 933,
+      "Progressed": 934,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-23T10:57:58.3271618+00:00",
-  "LastChanged_Achievements": "2024-01-04T09:04:07.7062132+00:00",
+  "LastChanged_Achievements": "2024-01-04T10:04:11.3999973+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:28.1140989+00:00",
-  "LastUpdate_Ratings": "2024-01-04T09:03:06.5961337+00:00",
-  "LastUpdate_Achievements": "2024-01-04T09:04:07.7062449+00:00"
+  "LastUpdate_Ratings": "2024-01-04T10:03:09.8971756+00:00",
+  "LastUpdate_Achievements": "2024-01-04T10:04:11.4000238+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 321,
+  "Ranking_EOS_NewPlayers": 317,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1932,
+  "EOS_Progressed": 1933,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -4769,6 +4769,11 @@
       "Time": "2024-01-04T07:09:51.7108302+00:00",
       "NumProgressed": 1932,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-04T10:09:51.8074131+00:00",
+      "NumProgressed": 1933,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -4812,7 +4817,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "Commandos",
@@ -4828,7 +4833,7 @@
       "Name": "Death to the Oppressor!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "Defense_Common",
@@ -4860,7 +4865,7 @@
       "Name": "E1M1",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "Everyone_is_here",
@@ -4868,7 +4873,7 @@
       "Name": "The Gang\u0027s All Here",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "Experienced_strategist",
@@ -4892,7 +4897,7 @@
       "Name": "Grenadier",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "Hard_Serpent",
@@ -4908,7 +4913,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "High_noon",
@@ -4996,7 +5001,7 @@
       "Name": "War Never Changes",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "We_were_not_here",
@@ -5019,15 +5024,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1932,
+      "Progressed": 1933,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2024-01-04T09:09:50.9477654+00:00",
+  "LastChanged_Achievements": "2024-01-04T10:09:51.8074127+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:23.7315333+00:00",
-  "LastUpdate_Ratings": "2024-01-04T09:03:14.8242056+00:00",
-  "LastUpdate_Achievements": "2024-01-04T09:09:50.9478087+00:00"
+  "LastUpdate_Ratings": "2024-01-04T10:03:18.1002746+00:00",
+  "LastUpdate_Achievements": "2024-01-04T10:09:51.8074482+00:00"
 }

@@ -1595,9 +1595,9 @@
       "ID": "Collect_AdamantinePure_3",
       "SetID": "7a5k76n",
       "Name": "Purity of Power",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 17
     },
     {
       "ID": "Collect_AdamantineSmall_30",
@@ -1995,9 +1995,9 @@
       "ID": "Save_Humans_10",
       "SetID": "7a5k76n",
       "Name": "Crowd Source",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 95
     },
     {
       "ID": "Save_Humans_15",
@@ -2099,8 +2099,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-03T05:57:54.1795117+00:00",
-  "LastChanged_Achievements": "2024-01-04T09:06:39.89371+00:00",
+  "LastChanged_Achievements": "2024-01-04T10:06:42.1300727+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.0817876+00:00",
-  "LastUpdate_Ratings": "2024-01-04T08:58:38.2996342+00:00",
-  "LastUpdate_Achievements": "2024-01-04T09:06:39.8937661+00:00"
+  "LastUpdate_Ratings": "2024-01-04T09:58:43.6569756+00:00",
+  "LastUpdate_Achievements": "2024-01-04T10:06:42.1301311+00:00"
 }

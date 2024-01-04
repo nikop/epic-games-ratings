@@ -4,8 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Greener Day | 2.00% | ~4 |
-| A Sad Moment | 2.00% | ~4 |
+| A Greener Day | 3.00% | ~6 |
+| A Sad Moment | 3.00% | ~6 |
+| Taking Notes | 3.00% | ~6 |
 | Budding Scientist | 2.00% | ~4 |
 | Dry No More | 2.00% | ~4 |
 | Hands in the Dirt | 2.00% | ~4 |
@@ -20,7 +21,6 @@
 | Room Revealer | 2.00% | ~4 |
 | Seed of Love | 2.00% | ~4 |
 | Spray Spray Spray | 2.00% | ~4 |
-| Taking Notes | 2.00% | ~4 |
 | The Mendel Experiment | 2.00% | ~4 |
 | Time for Renovations | 2.00% | ~4 |
 | Water Water Water | 2.00% | ~4 |

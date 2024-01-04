@@ -709,9 +709,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4151,
+  "EOS_Progressed": 4152,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 252,
+  "EOS_NewPlayers": 253,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -11684,6 +11684,11 @@
       "Time": "2024-01-04T09:08:38.4606999+00:00",
       "NumProgressed": 4151,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-04T10:08:39.3086655+00:00",
+      "NumProgressed": 4152,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -11901,9 +11906,9 @@
       "ID": "fullparty",
       "SetID": "3nl4bcg",
       "Name": "Full Party",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1163
     },
     {
       "ID": "gearenchanting",
@@ -12255,7 +12260,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 3860
+      "UsersEstimate": 3861
     },
     {
       "ID": "warmachinesarmy",
@@ -12287,14 +12292,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3238
+      "UsersEstimate": 3239
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4151,
+      "Progressed": 4152,
       "Completed": 2
     }
   ],
@@ -12302,8 +12307,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-02T09:57:01.626986+00:00",
-  "LastChanged_Achievements": "2024-01-04T09:08:38.4606995+00:00",
+  "LastChanged_Achievements": "2024-01-04T10:08:39.3086652+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:50.7213096+00:00",
-  "LastUpdate_Ratings": "2024-01-04T08:58:08.6981002+00:00",
-  "LastUpdate_Achievements": "2024-01-04T09:08:38.4608865+00:00"
+  "LastUpdate_Ratings": "2024-01-04T09:58:13.9443478+00:00",
+  "LastUpdate_Achievements": "2024-01-04T10:08:39.308834+00:00"
 }

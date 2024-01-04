@@ -6,8 +6,8 @@
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 330,
-  "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_Completed": 245,
+  "Ranking_EOS_NewPlayers": 293,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -150,9 +150,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 627,
+  "EOS_Progressed": 628,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -1800,6 +1800,11 @@
       "Time": "2024-01-03T23:07:14.8869538+00:00",
       "NumProgressed": 627,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-04T10:06:01.5233364+00:00",
+      "NumProgressed": 628,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -1835,7 +1840,7 @@
       "Name": "Tycoon",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "05_pangs",
@@ -1979,7 +1984,7 @@
       "Name": "Ouroboros",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "23_closecall",
@@ -1987,7 +1992,7 @@
       "Name": "Close call!",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "24_mega",
@@ -2027,7 +2032,7 @@
       "Name": "Non Stop!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "29_madness",
@@ -2035,15 +2040,15 @@
       "Name": "Madness!",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "30_completelynuts",
       "SetID": "chb1m60",
       "Name": "Completely nuts!",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 257
+      "UsersEstimate": 251
     },
     {
       "ID": "31_chancellor",
@@ -2122,15 +2127,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 627,
+      "Progressed": 628,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2024-01-01T09:01:13.9555975+00:00",
-  "LastChanged_Achievements": "2024-01-04T09:05:59.7193117+00:00",
+  "LastChanged_Achievements": "2024-01-04T10:06:01.5233361+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:40.4916275+00:00",
-  "LastUpdate_Ratings": "2024-01-04T08:57:57.0788937+00:00",
-  "LastUpdate_Achievements": "2024-01-04T09:05:59.7193489+00:00"
+  "LastUpdate_Ratings": "2024-01-04T09:58:02.1479937+00:00",
+  "LastUpdate_Achievements": "2024-01-04T10:06:01.5233701+00:00"
 }

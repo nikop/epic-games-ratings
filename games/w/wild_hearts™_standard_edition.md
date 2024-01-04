@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Land of the Rising Sun | 100.00% | ~1,108 |
-| Hidden History | 71.00% | ~787 |
+| Land of the Rising Sun | 100.00% | ~1,109 |
+| Hidden History | 72.00% | ~798 |
 | Commencing of Quests | 61.00% | ~676 |
 | Budding Conjuror | 59.00% | ~654 |
 | Man-Machine Master | 49.00% | ~543 |
@@ -14,15 +14,15 @@
 | Subsistence Skills | 47.00% | ~521 |
 | Memory Rouser | 46.00% | ~510 |
 | Fusion Conjuror | 45.00% | ~499 |
-| Kemono Hunter | 42.00% | ~465 |
-| Expert Conjuror | 39.00% | ~432 |
+| Kemono Hunter | 41.00% | ~455 |
+| Expert Conjuror | 39.00% | ~433 |
 | Helpful Heart | 38.00% | ~421 |
 | Flawless Crystal | 37.00% | ~410 |
 | Bonds of Enmity | 37.00% | ~410 |
 | Distance Devourer | 35.00% | ~388 |
 | Counter Specialist | 33.00% | ~366 |
-| Master of the Skies | 31.00% | ~343 |
-| Axer of Auspice | 28.00% | ~310 |
+| Master of the Skies | 31.00% | ~344 |
+| Axer of Auspice | 28.00% | ~311 |
 | Mighty Marmelizer | 26.00% | ~288 |
 | Fair Means or Foul | 26.00% | ~288 |
 | Kemono at Heart | 26.00% | ~288 |
@@ -32,8 +32,8 @@
 | Artful Assister | 21.00% | ~233 |
 | Team Hunter | 19.00% | ~211 |
 | Reincarnation Cycle Stopper | 19.00% | ~211 |
-| Karakuri Isle | 18.00% | ~199 |
-| Human Believer | 17.00% | ~188 |
+| Karakuri Isle | 18.00% | ~200 |
+| Human Believer | 17.00% | ~189 |
 | Left Arm Leverager | 15.00% | ~166 |
 | Style Seeker | 15.00% | ~166 |
 | Unrivaled in Arms | 15.00% | ~166 |
@@ -53,7 +53,7 @@
 | Big Spender | 5.00% | ~55 |
 | Tsukumo Whisperer | 3.00% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,108 (Ranked 285)  
+Progressed: 1,109 (Ranked 285)  
 Completed: 8 (0.72%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,4 +164,4 @@ Completed: 8 (0.72%) (Ranked 193)
 | 2024-01-01 | 1,065 | 8 |
 | 2024-01-02 | 1,084 | 8 |
 | 2024-01-03 | 1,099 | 8 |
-| 2024-01-04 | 1,108 | 8 |
+| 2024-01-04 | 1,109 | 8 |

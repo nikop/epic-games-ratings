@@ -5,10 +5,10 @@ Rating: 4.52 (Ranked 573)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 74.00% | ~1,079 |
-| I Broke It | 73.00% | ~1,064 |
-| Better On Ice | 67.00% | ~977 |
-| Notai Notes | 66.00% | ~962 |
+| Feels Familiar | 74.00% | ~1,080 |
+| I Broke It | 73.00% | ~1,065 |
+| Better On Ice | 67.00% | ~978 |
+| Notai Notes | 66.00% | ~963 |
 | Blue Dreams | 65.00% | ~948 |
 | He's Famous! | 65.00% | ~948 |
 | Cutie Poro | 65.00% | ~948 |
@@ -16,15 +16,15 @@ Rating: 4.52 (Ranked 573)
 | Moneyball | 60.00% | ~875 |
 | The Fire Below the Mountain | 60.00% | ~875 |
 | Iceborn | 55.00% | ~802 |
-| No Bites | 54.00% | ~787 |
-| Boom Things | 52.00% | ~758 |
+| No Bites | 54.00% | ~788 |
+| Boom Things | 52.00% | ~759 |
 | Tear of Freedom | 51.00% | ~744 |
 | My Darkest Day | 48.00% | ~700 |
 | Rhythm Of Willump | 46.00% | ~671 |
 | The Relentless Storm | 46.00% | ~671 |
 | A Tragic Reminder | 44.00% | ~642 |
 | 3000 Year Blackout | 44.00% | ~642 |
-| The Finisher | 42.00% | ~612 |
+| The Finisher | 42.00% | ~613 |
 | So Close | 41.00% | ~598 |
 | You Get Used To It | 41.00% | ~598 |
 | Family | 39.00% | ~569 |
@@ -34,7 +34,7 @@ Rating: 4.52 (Ranked 573)
 | Freeze The Ice Witch | 38.00% | ~554 |
 | True Legends | 38.00% | ~554 |
 | Bullseye | 36.00% | ~525 |
-| It Is Not Over | 35.00% | ~510 |
+| It Is Not Over | 35.00% | ~511 |
 | On The Rocks | 33.00% | ~481 |
 | Snowy Poro | 32.00% | ~467 |
 | Never Gets Old | 31.00% | ~452 |
@@ -43,14 +43,14 @@ Rating: 4.52 (Ranked 573)
 | Yummy | 10.00% | ~146 |
 | Snowball Fightn't | 9.00% | ~131 |
 | It Was Him | 7.00% | ~102 |
-| Handy Yeti | 6.00% | ~87 |
+| Handy Yeti | 6.00% | ~88 |
 | The Pied Piper Of Freljord | 5.00% | ~73 |
 | Braum's Poro Ranch | 3.00% | ~44 |
 | Rock Star | 2.00% | ~29 |
 | We Are Speed | 2.00% | ~29 |
 | Sneaky Notai | 1.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,458 (Ranked 265)  
+Progressed: 1,459 (Ranked 265)  
 Completed: 9 (0.62%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 9 (0.62%) (Ranked 203)
 | 2024-01-01 | 1,425 | 9 |
 | 2024-01-02 | 1,441 | 9 |
 | 2024-01-03 | 1,451 | 9 |
-| 2024-01-04 | 1,458 | 9 |
+| 2024-01-04 | 1,459 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

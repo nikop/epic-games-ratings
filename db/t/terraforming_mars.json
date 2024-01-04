@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2018-10-16T00:00:00+00:00",
@@ -3487,9 +3487,9 @@
       "Count": 262
     }
   ],
-  "EOS_Progressed": 89078,
+  "EOS_Progressed": 89084,
   "EOS_Completed": 180,
-  "EOS_NewPlayers": 1125,
+  "EOS_NewPlayers": 1126,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -32457,6 +32457,11 @@
       "Time": "2024-01-04T09:06:11.4952863+00:00",
       "NumProgressed": 89078,
       "NumCompleted": 180
+    },
+    {
+      "Time": "2024-01-04T10:06:13.3404181+00:00",
+      "NumProgressed": 89084,
+      "NumCompleted": 180
     }
   ],
   "TotalAchievements": 30,
@@ -32468,7 +32473,7 @@
       "Name": "First Journey",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 12471
+      "UsersEstimate": 12472
     },
     {
       "ID": "ACHIEVEMENT_01",
@@ -32476,7 +32481,7 @@
       "Name": "Team Effort",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2672
+      "UsersEstimate": 2673
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -32492,7 +32497,7 @@
       "Name": "New Home",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 20488
+      "UsersEstimate": 20489
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -32500,7 +32505,7 @@
       "Name": "No Longer Red",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 15143
+      "UsersEstimate": 15144
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -32516,7 +32521,7 @@
       "Name": "Biggest Reward",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 11580
+      "UsersEstimate": 11581
     },
     {
       "ID": "ACHIEVEMENT_07",
@@ -32532,7 +32537,7 @@
       "Name": "Variety Expert",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 8017
+      "UsersEstimate": 8018
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -32540,7 +32545,7 @@
       "Name": "Project Manager",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 16925
+      "UsersEstimate": 16926
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -32548,7 +32553,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 32959
+      "UsersEstimate": 32961
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -32556,7 +32561,7 @@
       "Name": "Changing the Planet",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 24942
+      "UsersEstimate": 24944
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -32564,7 +32569,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 28505
+      "UsersEstimate": 28507
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -32580,7 +32585,7 @@
       "Name": "Opportunity",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2672
+      "UsersEstimate": 2673
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -32588,7 +32593,7 @@
       "Name": "Curiosity",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 16034
+      "UsersEstimate": 16035
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -32596,7 +32601,7 @@
       "Name": "Beagle 2",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 20488
+      "UsersEstimate": 20489
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -32604,7 +32609,7 @@
       "Name": "Sojourner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 23160
+      "UsersEstimate": 23162
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -32612,7 +32617,7 @@
       "Name": "Collector",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 16925
+      "UsersEstimate": 16926
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -32620,7 +32625,7 @@
       "Name": "Winner Winner Terraformer",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 18706
+      "UsersEstimate": 18708
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -32628,7 +32633,7 @@
       "Name": "Acquired knowledge",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 10689
+      "UsersEstimate": 10690
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -32636,7 +32641,7 @@
       "Name": "Money money",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 13362
+      "UsersEstimate": 13363
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -32644,7 +32649,7 @@
       "Name": "Final touch",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 30287
+      "UsersEstimate": 30289
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -32652,7 +32657,7 @@
       "Name": "Self-sufficient",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 15143
+      "UsersEstimate": 15144
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -32660,7 +32665,7 @@
       "Name": "Frequent tester",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 7126
+      "UsersEstimate": 7127
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -32692,7 +32697,7 @@
       "Name": "Master",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 16034
+      "UsersEstimate": 16035
     },
     {
       "ID": "ACHIEVEMENT_29",
@@ -32700,22 +32705,22 @@
       "Name": "Determined",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 6235
+      "UsersEstimate": 6236
     }
   ],
   "AchievementSets": [
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 89078,
+      "Progressed": 89084,
       "Completed": 180
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2024-01-01T23:57:12.7290872+00:00",
-  "LastChanged_Achievements": "2024-01-04T09:06:11.4952856+00:00",
+  "LastChanged_Achievements": "2024-01-04T10:06:13.3404178+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:05.7214012+00:00",
-  "LastUpdate_Ratings": "2024-01-04T08:58:25.7544091+00:00",
-  "LastUpdate_Achievements": "2024-01-04T09:06:11.4954897+00:00"
+  "LastUpdate_Ratings": "2024-01-04T09:58:30.8742407+00:00",
+  "LastUpdate_Achievements": "2024-01-04T10:06:13.3405424+00:00"
 }

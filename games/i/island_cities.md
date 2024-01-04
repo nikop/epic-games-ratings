@@ -13,11 +13,11 @@
 | Burger or pizza? | 38.00% | ~325 |
 | Passion for sports | 33.00% | ~282 |
 | Who loves trains? | 30.00% | ~256 |
-| Easy and steady climb | 28.00% | ~239 |
-| At the heart of the city | 26.00% | ~222 |
+| Easy and steady climb | 29.00% | ~248 |
+| At the heart of the city | 27.00% | ~231 |
 | Calm neighborhood | 24.00% | ~205 |
 | Elevated ring | 23.00% | ~197 |
-| Not lonely anymore | 21.00% | ~180 |
+| Not lonely anymore | 22.00% | ~188 |
 | Monumental tribute | 21.00% | ~180 |
 | The beach is right there | 20.00% | ~171 |
 | Commuting | 19.00% | ~162 |

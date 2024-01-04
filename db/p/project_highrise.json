@@ -2,9 +2,9 @@
   "ID": "d354bf1a92ac4546aa20c74c8e7f70e1",
   "Name": "Project Highrise",
   "ProductSlug": "project-highrise-a567e8",
-  "Ranking_EOS_Progress": 348,
+  "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 290,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 486,
+  "EOS_Progressed": 487,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1565,6 +1565,11 @@
       "Time": "2024-01-03T16:05:39.8798137+00:00",
       "NumProgressed": 486,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T10:06:21.6884351+00:00",
+      "NumProgressed": 487,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1624,7 +1629,7 @@
       "Name": "Artfully Done",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ach_art_large",
@@ -1712,15 +1717,15 @@
       "Name": "Need a Consult",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ach_consultant_1",
       "SetID": "b8gh1fi",
       "Name": "Upgrade Unlock",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 161
     },
     {
       "ID": "ach_consultants_a",
@@ -1744,7 +1749,7 @@
       "Name": "Smooth Operator",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ach_contracts_1",
@@ -1880,7 +1885,7 @@
       "Name": "Starting Skyward",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "ach_floors_1",
@@ -1976,7 +1981,7 @@
       "Name": "It\u0027s Technical",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "ach_office_2",
@@ -2000,7 +2005,7 @@
       "Name": "People Mover",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ach_pop_2",
@@ -2040,7 +2045,7 @@
       "Name": "In the Black",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ach_profit_1",
@@ -2128,7 +2133,7 @@
       "Name": "Emporium Empire",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ach_retail_3",
@@ -2136,7 +2141,7 @@
       "Name": "Leveled Up Shops",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ach_retail_4",
@@ -2144,7 +2149,7 @@
       "Name": "Boutique Benefits",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ach_revs_1",
@@ -2208,7 +2213,7 @@
       "Name": "Terrifically Trashed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ach_tutorial",
@@ -2216,7 +2221,7 @@
       "Name": "We Don\u0027t Need No Education",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ach_util_cable",
@@ -2264,7 +2269,7 @@
       "Name": "Thrilled Tenants",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ach_visitors_1",
@@ -2279,7 +2284,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 486,
+      "Progressed": 487,
       "Completed": 0
     }
   ],
@@ -2287,8 +2292,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2024-01-04T09:06:19.5575337+00:00",
+  "LastChanged_Achievements": "2024-01-04T10:06:21.6884347+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.6325323+00:00",
-  "LastUpdate_Ratings": "2024-01-04T08:59:18.5064072+00:00",
-  "LastUpdate_Achievements": "2024-01-04T09:06:19.5576693+00:00"
+  "LastUpdate_Ratings": "2024-01-04T09:59:22.9299145+00:00",
+  "LastUpdate_Achievements": "2024-01-04T10:06:21.688525+00:00"
 }

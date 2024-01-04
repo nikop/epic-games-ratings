@@ -6,11 +6,11 @@ Rating: 4.50 (Ranked 614)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Good start! | 88.00% | ~430 |
-| Vanquisher of Robots | 78.00% | ~381 |
-| Party | 50.00% | ~244 |
+| Vanquisher of Robots | 79.00% | ~386 |
+| Party | 51.00% | ~249 |
 | Impossible Cube | 45.00% | ~220 |
+| Through the Darkness | 45.00% | ~220 |
 | Knowledge is Power | 44.00% | ~215 |
-| Through the Darkness | 44.00% | ~215 |
 | No Mercy | 43.00% | ~210 |
 | The Return of a Rat | 40.00% | ~196 |
 | Fat of the Earth | 36.00% | ~176 |

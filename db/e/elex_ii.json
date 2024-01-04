@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 435,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -573,7 +573,7 @@
   ],
   "EOS_Progressed": 174,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1264,9 +1264,9 @@
       "ID": "10000ELEXIT",
       "SetID": "a1angca",
       "Name": "Banker",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "1000ELEXIT",
@@ -1456,9 +1456,9 @@
       "ID": "CHOSEALB",
       "SetID": "a1angca",
       "Name": "Alb",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "CHOSEBSK",
@@ -1664,8 +1664,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2024-01-04T09:03:54.418045+00:00",
+  "LastChanged_Achievements": "2024-01-04T10:03:58.3414327+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:16.9599546+00:00",
-  "LastUpdate_Ratings": "2024-01-04T08:00:18.7802801+00:00",
-  "LastUpdate_Achievements": "2024-01-04T09:03:54.4180801+00:00"
+  "LastUpdate_Ratings": "2024-01-04T09:57:18.7527802+00:00",
+  "LastUpdate_Achievements": "2024-01-04T10:03:58.3414709+00:00"
 }

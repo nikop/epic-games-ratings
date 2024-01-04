@@ -685,9 +685,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11483,
+  "EOS_Progressed": 11485,
   "EOS_Completed": 76,
-  "EOS_NewPlayers": 623,
+  "EOS_NewPlayers": 620,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -14670,6 +14670,11 @@
       "Time": "2024-01-04T09:03:45.7657164+00:00",
       "NumProgressed": 11483,
       "NumCompleted": 76
+    },
+    {
+      "Time": "2024-01-04T10:03:49.7822868+00:00",
+      "NumProgressed": 11485,
+      "NumCompleted": 76
     }
   ],
   "TotalAchievements": 29,
@@ -14681,7 +14686,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 9531
+      "UsersEstimate": 9533
     },
     {
       "ID": "ACH02",
@@ -14689,7 +14694,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 3904
+      "UsersEstimate": 3905
     },
     {
       "ID": "ACH03",
@@ -14713,7 +14718,7 @@
       "Name": "Mob Boss",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ACH06",
@@ -14753,7 +14758,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 3215
+      "UsersEstimate": 3216
     },
     {
       "ID": "ACH11",
@@ -14912,7 +14917,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 11483,
+      "Progressed": 11485,
       "Completed": 76
     }
   ],
@@ -14920,8 +14925,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-03T20:58:39.4932254+00:00",
-  "LastChanged_Achievements": "2024-01-04T09:03:45.7657159+00:00",
+  "LastChanged_Achievements": "2024-01-04T10:03:49.7822864+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:06.0840087+00:00",
-  "LastUpdate_Ratings": "2024-01-04T08:58:25.4502372+00:00",
-  "LastUpdate_Achievements": "2024-01-04T09:03:45.7658319+00:00"
+  "LastUpdate_Ratings": "2024-01-04T09:58:30.5045987+00:00",
+  "LastUpdate_Achievements": "2024-01-04T10:03:49.7823912+00:00"
 }

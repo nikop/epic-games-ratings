@@ -10414,10 +10414,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 21391,
       "NumberOfAwardsMax": 7940
+    },
+    {
+      "Time": "2024-01-04T09:59:44.9809759+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21395,
+      "NumberOfAwardsMax": 7940
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21391,
+  "NumberOfAwards": 21395,
   "NumberOfAwardsMax": 7940,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10461,7 +10467,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1513
+      "Count": 1517
     },
     {
       "Text": "This game has Diverse Characters",
@@ -10494,7 +10500,7 @@
       "Count": 1079
     }
   ],
-  "EOS_Progressed": 131584,
+  "EOS_Progressed": 131588,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 1262,
   "EOS_NewCompleters": 0,
@@ -38264,6 +38270,11 @@
       "Time": "2024-01-04T09:09:52.0234113+00:00",
       "NumProgressed": 131584,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-04T10:09:52.9554083+00:00",
+      "NumProgressed": 131588,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38275,7 +38286,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5263
+      "UsersEstimate": 5264
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -38291,7 +38302,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5263
+      "UsersEstimate": 5264
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -38427,7 +38438,7 @@
       "Name": "Not Today!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5263
+      "UsersEstimate": 5264
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -38547,7 +38558,7 @@
       "Name": "It Happens",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5263
+      "UsersEstimate": 5264
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -38571,7 +38582,7 @@
       "Name": "Rush Hour",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5263
+      "UsersEstimate": 5264
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -38579,7 +38590,7 @@
       "Name": "Merry Time",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5263
+      "UsersEstimate": 5264
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -38587,7 +38598,7 @@
       "Name": "Harvest Festival",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5263
+      "UsersEstimate": 5264
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -38651,7 +38662,7 @@
       "Name": "Whale",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5263
+      "UsersEstimate": 5264
     },
     {
       "ID": "hospital_full_service",
@@ -38667,7 +38678,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5263
+      "UsersEstimate": 5264
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -38683,7 +38694,7 @@
       "Name": "FNG",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5263
+      "UsersEstimate": 5264
     },
     {
       "ID": "inn_visit_all_variants",
@@ -38723,7 +38734,7 @@
       "Name": "Nope",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5263
+      "UsersEstimate": 5264
     },
     {
       "ID": "run_victory_act01",
@@ -38811,7 +38822,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "combat_kill_collector",
@@ -38875,7 +38886,7 @@
       "Name": "Lost and Found",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -38906,21 +38917,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131584,
+      "Progressed": 131588,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6453,
+      "Progressed": 6457,
       "Completed": 821
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-04T01:45:58.9475308+00:00",
-  "LastChanged_Achievements": "2024-01-04T09:09:52.023411+00:00",
+  "LastChanged": "2024-01-04T09:59:44.9809757+00:00",
+  "LastChanged_Achievements": "2024-01-04T10:09:52.9554081+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-04T08:59:40.4125674+00:00",
-  "LastUpdate_Achievements": "2024-01-04T09:09:52.02362+00:00"
+  "LastUpdate_Ratings": "2024-01-04T09:59:44.9809763+00:00",
+  "LastUpdate_Achievements": "2024-01-04T10:09:52.9556217+00:00"
 }

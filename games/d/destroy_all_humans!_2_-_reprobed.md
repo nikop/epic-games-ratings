@@ -7,18 +7,18 @@ Number of Ratings: 90  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rock of the Bay | 81.00% | ~249 |
-| Mash Machine | 75.00% | ~230 |
+| Mash Machine | 75.00% | ~231 |
 | Ducks in a Row, Fish in a Barrel | 55.00% | ~169 |
-| Furon Fashion | 49.00% | ~150 |
+| Furon Fashion | 48.00% | ~148 |
 | Shop Til They Drop | 41.00% | ~126 |
 | Bodied Sattva | 38.00% | ~117 |
-| Cult Following | 35.00% | ~107 |
-| Earthly Pleasures | 35.00% | ~107 |
+| Earthly Pleasures | 35.00% | ~108 |
+| Cult Following | 34.00% | ~105 |
 | Lie Back and Think of Albion | 27.00% | ~83 |
 | Upgreatest | 26.00% | ~80 |
 | Pimp My Raid | 25.00% | ~77 |
-| Freshly Squeezed | 21.00% | ~64 |
-| I Look Up As I Walk to Takoshima | 20.00% | ~61 |
+| Freshly Squeezed | 21.00% | ~65 |
+| I Look Up As I Walk to Takoshima | 20.00% | ~62 |
 | Die Nasty | 18.00% | ~55 |
 | Perfect Probulator | 17.00% | ~52 |
 | Transmitting From Sol-3 | 15.00% | ~46 |
@@ -27,7 +27,7 @@ Number of Ratings: 90  (23.09.2022)
 | Fly Me to the Moon Base | 9.00% | ~28 |
 | Scuttled | 8.00% | ~25 |
 | Dusted | 8.00% | ~25 |
-| Re-Return of the Clone of the Invasion II-2 | 7.00% | ~21 |
+| Re-Return of the Clone of the Invasion II-2 | 7.00% | ~22 |
 | Lobster Blisque | 6.00% | ~18 |
 | Yettisoned | 5.00% | ~15 |
 | Ultimate Smoothie | 4.00% | ~12 |
@@ -39,20 +39,20 @@ Number of Ratings: 90  (23.09.2022)
 | The Optional Mandate | 1.00% | ~3 |
 | Higher Than the Futen Zoku | 1.00% | ~3 |
 | If You Know What I Mean | 1.00% | ~3 |
-| PK Slam Dunk | 0.70% | ~2 |
-| Gotta Catch All the Pop Art | 0.70% | ~2 |
-| This Is Earth Radio | 0.70% | ~2 |
-| Hidden Human Hive Harvest | 0.70% | ~2 |
-| Albion Bridge Is for Falling Down | 0.70% | ~2 |
-| Ouch of Body Experience | 0.70% | ~2 |
-| To Russia With Love | 0.70% | ~2 |
-| Path of the Furon | 0.70% | ~2 |
-| Trans-Siberian Express | 0.70% | ~2 |
+| PK Slam Dunk | 0.60% | ~2 |
+| Gotta Catch All the Pop Art | 0.60% | ~2 |
+| This Is Earth Radio | 0.60% | ~2 |
+| Hidden Human Hive Harvest | 0.60% | ~2 |
+| Albion Bridge Is for Falling Down | 0.60% | ~2 |
+| Ouch of Body Experience | 0.60% | ~2 |
+| To Russia With Love | 0.60% | ~2 |
+| Path of the Furon | 0.60% | ~2 |
+| Trans-Siberian Express | 0.60% | ~2 |
 | Toilet Break | 0.30% | ~1 |
 | Steezy Down the Spine | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 307 (Ranked 390)  
-Completed: 1 (0.33%) (Ranked 244)  
+Progressed: 308 (Ranked 390)  
+Completed: 1 (0.32%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -90,7 +90,7 @@ Completed: 1 (0.33%) (Ranked 244)
 | 2024-01-01 | 279 | 1 |
 | 2024-01-02 | 291 | 1 |
 | 2024-01-03 | 301 | 1 |
-| 2024-01-04 | 307 | 1 |
+| 2024-01-04 | 308 | 1 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 493)  
 Sum: 36 (Ranked 525)  

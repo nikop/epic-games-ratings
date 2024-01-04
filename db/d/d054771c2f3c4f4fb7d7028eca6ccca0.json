@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3484,
+  "EOS_Progressed": 3485,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 518,
+  "EOS_NewPlayers": 519,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3869,6 +3869,11 @@
       "Time": "2024-01-04T09:05:38.4751497+00:00",
       "NumProgressed": 3484,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T10:05:40.4900904+00:00",
+      "NumProgressed": 3485,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -4065,7 +4070,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -4081,7 +4086,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 1463
+      "UsersEstimate": 1464
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -4103,9 +4108,9 @@
       "ID": "ACHIEVEMENT_37",
       "SetID": "c167foo",
       "Name": "Relic Master",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -4256,14 +4261,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 3484,
+      "Progressed": 3485,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2024-01-04T09:05:38.4751491+00:00",
+  "LastChanged_Achievements": "2024-01-04T10:05:40.4900902+00:00",
   "LastUpdate_AppInfo": "2024-01-02T13:00:37.2315097+00:00",
-  "LastUpdate_Ratings": "2024-01-04T09:02:59.2010639+00:00",
-  "LastUpdate_Achievements": "2024-01-04T09:05:38.4752156+00:00"
+  "LastUpdate_Ratings": "2024-01-04T10:03:02.5276469+00:00",
+  "LastUpdate_Achievements": "2024-01-04T10:05:40.4901423+00:00"
 }

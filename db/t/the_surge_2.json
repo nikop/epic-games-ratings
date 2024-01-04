@@ -6,8 +6,8 @@
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 234,
-  "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_Completed": 213,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2460,
+  "EOS_Progressed": 2461,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -4259,6 +4259,11 @@
       "Time": "2024-01-04T09:05:39.5463447+00:00",
       "NumProgressed": 2460,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-04T10:05:41.483841+00:00",
+      "NumProgressed": 2461,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4278,7 +4283,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1599
+      "UsersEstimate": 1600
     },
     {
       "ID": "ACHV_03",
@@ -4302,7 +4307,7 @@
       "Name": "Studied The Blade",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "ACHV_06",
@@ -4318,7 +4323,7 @@
       "Name": "Court Martial",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "ACHV_08",
@@ -4446,7 +4451,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 910
+      "UsersEstimate": 911
     },
     {
       "ID": "ACHV_24",
@@ -4470,7 +4475,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1943
+      "UsersEstimate": 1944
     },
     {
       "ID": "ACHV_27",
@@ -4574,7 +4579,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 1845
+      "UsersEstimate": 1846
     },
     {
       "ID": "ACHV_40",
@@ -4590,7 +4595,7 @@
       "Name": "Suited and Booted",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 910
+      "UsersEstimate": 911
     },
     {
       "ID": "ACHV_42",
@@ -4630,7 +4635,7 @@
       "Name": "Unforeseeable Consequences",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "ACHV_47",
@@ -4725,7 +4730,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2460,
+      "Progressed": 2461,
       "Completed": 13
     }
   ],
@@ -4733,8 +4738,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-29T03:00:05.8444174+00:00",
-  "LastChanged_Achievements": "2024-01-04T09:05:39.5463442+00:00",
+  "LastChanged_Achievements": "2024-01-04T10:05:41.4838407+00:00",
   "LastUpdate_AppInfo": "2023-12-30T17:56:59.176771+00:00",
-  "LastUpdate_Ratings": "2024-01-04T08:59:47.1121535+00:00",
-  "LastUpdate_Achievements": "2024-01-04T09:05:39.5464277+00:00"
+  "LastUpdate_Ratings": "2024-01-04T09:59:52.8786801+00:00",
+  "LastUpdate_Achievements": "2024-01-04T10:05:41.4839126+00:00"
 }

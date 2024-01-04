@@ -7,15 +7,15 @@ Rating: 4.21 (Ranked 947)
 | ---- | ---------- | ----- |
 | Flesh Wound | 23.00% | ~4,804 |
 | The Outer Way | 23.00% | ~4,804 |
-| Desperate Times | 21.00% | ~4,386 |
-| Paper Jams | 20.00% | ~4,177 |
-| Get a Grip | 19.00% | ~3,968 |
-| Chew 'Em Up | 18.00% | ~3,759 |
+| Desperate Times | 21.00% | ~4,387 |
+| Paper Jams | 20.00% | ~4,178 |
+| Get a Grip | 19.00% | ~3,969 |
+| Chew 'Em Up | 18.00% | ~3,760 |
 | Reforged | 16.00% | ~3,342 |
 | Float Like A Butterfly | 15.00% | ~3,133 |
 | Workplace Hazard | 14.00% | ~2,924 |
 | If the SHU Fits... | 14.00% | ~2,924 |
-| Without A Paddle | 12.00% | ~2,506 |
+| Without A Paddle | 12.00% | ~2,507 |
 | Two Heads Are Better Than One | 10.00% | ~2,089 |
 | In the Pipe, Five by Five | 10.00% | ~2,089 |
 | Crash Site | 10.00% | ~2,089 |
@@ -29,7 +29,7 @@ Rating: 4.21 (Ranked 947)
 | Keep Fighting | 7.00% | ~617 |
 | The Commonality | 5.00% | ~1,044 |
 | It's Time | 5.00% | ~441 |
-| In Striking Distance | 4.00% | ~835 |
+| In Striking Distance | 4.00% | ~836 |
 | One Last Job | 3.00% | ~264 |
 | Big Spender | 2.00% | ~176 |
 | This Isn't About Escape | 2.00% | ~176 |
@@ -38,7 +38,7 @@ Rating: 4.21 (Ranked 947)
 | Instigator | 1.00% | ~88 |
 | Grim Reaper | 0.90% | ~188 |
 | Information Overload | 0.90% | ~79 |
-| Parole Denied | 0.80% | ~70 |
+| Parole Denied | 0.80% | ~71 |
 | Quick Pick | 0.70% | ~62 |
 | Subject Alpha | 0.60% | ~53 |
 | The Protocol is About Life | 0.30% | ~63 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 947)
 | Big Game Hunter | 0.10% | ~9 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,886 (Ranked 151)  
+Progressed: 20,889 (Ranked 151)  
 Completed: 82 (0.39%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 82 (0.39%) (Ranked 234)
 | 2024-01-01 | 20,521 | 82 |
 | 2024-01-02 | 20,695 | 82 |
 | 2024-01-03 | 20,833 | 82 |
-| 2024-01-04 | 20,886 | 82 |
+| 2024-01-04 | 20,889 | 82 |
 ## Awards
 Max (Amazing Characters): 115  (Ranked 357)  
 Sum: 567 (Ranked 325)  

@@ -6,21 +6,21 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,918 |
-| I'll Be Back | 84.00% | ~4,395 |
-| Sorry, I Dropped This | 76.00% | ~3,976 |
-| First Day on the Job | 76.00% | ~3,976 |
-| Butcher's Bill | 54.00% | ~2,825 |
+| On My Own Two Feet | 94.00% | ~4,919 |
+| I'll Be Back | 84.00% | ~4,396 |
+| Sorry, I Dropped This | 76.00% | ~3,977 |
+| First Day on the Job | 76.00% | ~3,977 |
+| Butcher's Bill | 54.00% | ~2,826 |
 | P.A.X | 37.00% | ~1,936 |
 | Hey Listen | 36.00% | ~1,884 |
-| OPERATOR | 35.00% | ~1,831 |
+| OPERATOR | 35.00% | ~1,832 |
 | It's Blue Light | 33.00% | ~1,727 |
-| Most Wanted | 26.00% | ~1,360 |
-| Infidel | 23.00% | ~1,203 |
-| Firebug | 20.00% | ~1,046 |
-| GOLIATH | 20.00% | ~1,046 |
-| I Choose You | 17.00% | ~889 |
-| Nothing to Lose | 17.00% | ~889 |
+| Most Wanted | 26.00% | ~1,361 |
+| Infidel | 23.00% | ~1,204 |
+| Firebug | 20.00% | ~1,047 |
+| GOLIATH | 20.00% | ~1,047 |
+| I Choose You | 17.00% | ~890 |
+| Nothing to Lose | 17.00% | ~890 |
 | Big Sister | 15.00% | ~785 |
 | Gear Up | 15.00% | ~785 |
 | SENTINEL | 15.00% | ~785 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~31 |
 | The Surge | 0.40% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,232 (Ranked 202)  
+Progressed: 5,233 (Ranked 202)  
 Completed: 18 (0.34%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 18 (0.34%) (Ranked 242)
 | 2024-01-01 | 5,186 | 18 |
 | 2024-01-02 | 5,210 | 18 |
 | 2024-01-03 | 5,224 | 18 |
-| 2024-01-04 | 5,232 | 18 |
+| 2024-01-04 | 5,233 | 18 |
 ## Awards
 Max (Great Boss Battles): 30  (Ranked 517)  
 Sum: 30 (Ranked 537)  

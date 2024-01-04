@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewPlayers": 285,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7729,
+  "EOS_Progressed": 7730,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -6738,6 +6738,11 @@
       "Time": "2024-01-04T05:05:15.6037376+00:00",
       "NumProgressed": 7729,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2024-01-04T10:05:20.2314873+00:00",
+      "NumProgressed": 7730,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 27,
@@ -6781,7 +6786,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 4096
+      "UsersEstimate": 4097
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -6797,7 +6802,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1700
+      "UsersEstimate": 1701
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -6901,7 +6906,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4328
+      "UsersEstimate": 4329
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -6964,15 +6969,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7729,
+      "Progressed": 7730,
       "Completed": 59
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2024-01-04T09:05:15.7563182+00:00",
+  "LastChanged_Achievements": "2024-01-04T10:05:20.231487+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:57:02.2887263+00:00",
-  "LastUpdate_Ratings": "2024-01-04T09:03:31.5122346+00:00",
-  "LastUpdate_Achievements": "2024-01-04T09:05:15.7563751+00:00"
+  "LastUpdate_Ratings": "2024-01-04T10:03:34.3552765+00:00",
+  "LastUpdate_Achievements": "2024-01-04T10:05:20.2315425+00:00"
 }

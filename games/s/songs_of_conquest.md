@@ -6,8 +6,8 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 46.00% | ~444 |
-| Double Kill | 40.00% | ~386 |
+| Adept | 46.00% | ~445 |
+| Double Kill | 40.00% | ~387 |
 | Critical Hit | 22.00% | ~213 |
 | Veteran | 22.00% | ~213 |
 | Dressed For Success | 15.00% | ~145 |
@@ -22,13 +22,13 @@ Number of Ratings: 292  (23.09.2022)
 | Don't Touch My Stuff | 5.00% | ~48 |
 | Trojan Horse | 4.00% | ~39 |
 | Expert Essence Employment | 3.00% | ~29 |
+| Venisti, Vidisti, Perdidisti | 3.00% | ~29 |
 | This Spot's Taken | 2.00% | ~19 |
 | Deepstrike | 2.00% | ~19 |
 | Infernal Influence | 2.00% | ~19 |
 | From the Ashes | 2.00% | ~19 |
 | Ultra Kill | 2.00% | ~19 |
 | Pyrrhic Victory | 2.00% | ~19 |
-| Venisti, Vidisti, Perdidisti | 2.00% | ~19 |
 | Versatile Wielder | 1.00% | ~10 |
 | Together For Her | 1.00% | ~10 |
 | Such A Fungi | 1.00% | ~10 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 966 (Ranked 290)  
+Progressed: 967 (Ranked 290)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-01 | 923 | 0 |
 | 2024-01-02 | 944 | 0 |
 | 2024-01-03 | 962 | 0 |
-| 2024-01-04 | 966 | 0 |
+| 2024-01-04 | 967 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 29  (Ranked 522)  
 Sum: 251 (Ranked 399)  
