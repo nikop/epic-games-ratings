@@ -24,8 +24,8 @@
 | 22 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.34% |
 | 23 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.23% |
 | 24 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
-| 25 | [The Riflemen](games/t/the_riflemen.md) | 18.26% |
-| 26 | [Island Cities](games/i/island_cities.md) | 16.74% |
+| 25 | [The Riflemen](games/t/the_riflemen.md) | 18.25% |
+| 26 | [Island Cities](games/i/island_cities.md) | 16.73% |
 | 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 28 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
 | 29 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.30% |
@@ -125,8 +125,8 @@
 | 123 | [Mega City Force](games/m/mega_city_police.md) | 2.56% |
 | 124 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 125 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.49% |
-| 126 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.46% |
 | 126 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.46% |
+| 127 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.45% |
 | 128 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.44% |
 | 129 | [Destiny 2](games/d/destiny_2.md) | 2.37% |
 | 130 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 2.33% |
@@ -137,9 +137,9 @@
 | 135 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.00% |
 | 136 | [Somerville](games/s/somerville.md) | 1.96% |
 | 137 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.89% |
-| 138 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 1.85% |
-| 139 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.83% |
-| 140 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.82% |
+| 138 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.83% |
+| 139 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.82% |
+| 139 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 1.82% |
 | 141 | [Sifu](games/s/sifu.md) | 1.72% |
 | 142 | [Frogun](games/f/frogun.md) | 1.70% |
 | 142 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 1.70% |
@@ -267,9 +267,9 @@
 | 264 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.25% |
 | 266 | [Darksiders III](games/d/darksiders_iii.md) | 0.24% |
 | 266 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.24% |
-| 268 | [Aegis Descent](games/a/aegis_descent.md) | 0.23% |
 | 268 | [Shop Titans](games/s/shop_titans.md) | 0.23% |
-| 270 | [It Takes Two](games/i/it_takes_two.md) | 0.22% |
+| 269 | [Aegis Descent](games/a/aegis_descent.md) | 0.22% |
+| 269 | [It Takes Two](games/i/it_takes_two.md) | 0.22% |
 | 271 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
 | 272 | [Circus Electrique](games/c/circus_electrique.md) | 0.20% |
 | 272 | [Dead Space](games/d/dead_space.md) | 0.20% |
