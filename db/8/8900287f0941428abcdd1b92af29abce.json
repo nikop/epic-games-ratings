@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 613,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-12-07T14:00:00+00:00",
     "PcReleaseDate": "2023-04-10T13:00:00+00:00",
@@ -165,9 +165,9 @@
       "ID": "ach-bone-meal",
       "SetID": "6aph42m",
       "Name": "I don\u0027t have the time to wait",
-      "Percentage": 14,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach-broccoli",
@@ -197,9 +197,9 @@
       "ID": "ach-bucket-of-salt-water",
       "SetID": "6aph42m",
       "Name": "Now I can drink that",
-      "Percentage": 23,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach-cactus",
@@ -445,9 +445,9 @@
       "ID": "ach-redwood-cone",
       "SetID": "6aph42m",
       "Name": "What a big tree!",
-      "Percentage": 9,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach-rgb-lamps",
@@ -461,9 +461,9 @@
       "ID": "ach-ruby",
       "SetID": "6aph42m",
       "Name": "Shiny!",
-      "Percentage": 23,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach-saddle",
@@ -572,8 +572,8 @@
   ],
   "FirstSeen": "2023-12-09T20:59:53.605626+00:00",
   "FirstSeenAchievements": "2023-09-27T06:05:39.2666292+00:00",
-  "LastChanged_Achievements": "2024-01-04T00:09:36.5094304+00:00",
+  "LastChanged_Achievements": "2024-01-04T01:56:12.0264201+00:00",
   "LastUpdate_AppInfo": "2024-01-03T13:01:17.9653832+00:00",
   "LastUpdate_Ratings": "2024-01-04T00:02:38.0722553+00:00",
-  "LastUpdate_Achievements": "2024-01-04T00:09:36.5094748+00:00"
+  "LastUpdate_Achievements": "2024-01-04T01:56:12.0264553+00:00"
 }

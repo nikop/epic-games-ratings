@@ -329,9 +329,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 684,
+  "EOS_Progressed": 688,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 249,
+  "EOS_NewPlayers": 250,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
@@ -1864,6 +1864,11 @@
       "Time": "2024-01-03T21:05:10.6923115+00:00",
       "NumProgressed": 684,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-04T01:50:57.9003986+00:00",
+      "NumProgressed": 688,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1892,7 +1897,7 @@
       "Name": "The Small Does Not Rule",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_COMPLETION",
@@ -1924,7 +1929,7 @@
       "Name": "Ship Shape",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_FIND_BB_SPATULAS",
@@ -1940,7 +1945,7 @@
       "Name": "Shanghaied",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_JELLYFISHING",
@@ -1956,7 +1961,7 @@
       "Name": "Jellyfish Jam",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_KELP_FOREST",
@@ -1964,7 +1969,7 @@
       "Name": "Kelp Forest of Fear",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_MERMALAIR",
@@ -1996,7 +2001,7 @@
       "Name": "Sweet Victory",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_ROBO_SB_BOSS",
@@ -2004,7 +2009,7 @@
       "Name": "SpongeBob vs SpongeBob!",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_ROCK_BOTTOM",
@@ -2018,9 +2023,9 @@
       "ID": "ACH_SLEEPY_TIME",
       "SetID": "biiejkc",
       "Name": "Sleepy Time",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_SOCK_CONCERT",
@@ -2076,7 +2081,7 @@
       "Name": "Sock Getter",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_STAT_SPATULA_SEEKER",
@@ -2084,7 +2089,7 @@
       "Name": "Spatula Seeker",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -2092,7 +2097,7 @@
       "Name": "Sponge Smasher",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
@@ -2124,22 +2129,22 @@
       "Name": "Time For Tutorial",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     }
   ],
   "AchievementSets": [
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 684,
+      "Progressed": 688,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-01T20:58:26.8279253+00:00",
-  "LastChanged_Achievements": "2024-01-04T00:04:09.684963+00:00",
+  "LastChanged_Achievements": "2024-01-04T01:50:57.9003984+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:11.8880921+00:00",
-  "LastUpdate_Ratings": "2024-01-03T23:59:15.4212388+00:00",
-  "LastUpdate_Achievements": "2024-01-04T00:04:09.6849951+00:00"
+  "LastUpdate_Ratings": "2024-01-04T01:46:05.9763783+00:00",
+  "LastUpdate_Achievements": "2024-01-04T01:50:57.9004234+00:00"
 }

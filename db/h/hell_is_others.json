@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 359,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -1373,10 +1373,16 @@
       "Rating": 4.4,
       "NumberOfAwards": 372,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2024-01-04T01:45:41.2160952+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 373,
+      "NumberOfAwardsMax": 54
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 372,
+  "NumberOfAwards": 373,
   "NumberOfAwardsMax": 54,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1408,7 +1414,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 37
+      "Count": 38
     },
     {
       "Text": "This game has a Competitive Community",
@@ -1441,9 +1447,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 260179,
+  "EOS_Progressed": 260180,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 330,
+  "EOS_NewPlayers": 323,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26191,6 +26197,11 @@
       "Time": "2024-01-03T23:07:53.8026158+00:00",
       "NumProgressed": 260179,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-04T01:52:40.4115495+00:00",
+      "NumProgressed": 260180,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -26250,7 +26261,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80655
+      "UsersEstimate": 80656
     },
     {
       "ID": "BackHomeNTimes",
@@ -26649,16 +26660,16 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 260179,
+      "Progressed": 260180,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2024-01-03T17:59:58.7102862+00:00",
-  "LastChanged_Achievements": "2024-01-04T00:05:52.5662075+00:00",
+  "LastChanged": "2024-01-04T01:45:41.2160951+00:00",
+  "LastChanged_Achievements": "2024-01-04T01:52:40.4115491+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:41.7689812+00:00",
-  "LastUpdate_Ratings": "2024-01-03T23:58:52.9316146+00:00",
-  "LastUpdate_Achievements": "2024-01-04T00:05:52.5663711+00:00"
+  "LastUpdate_Ratings": "2024-01-04T01:45:41.2160954+00:00",
+  "LastUpdate_Achievements": "2024-01-04T01:52:40.4117215+00:00"
 }

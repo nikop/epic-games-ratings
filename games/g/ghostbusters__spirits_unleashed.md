@@ -1,21 +1,21 @@
 # Ghostbusters: Spirits Unleashed Ecto Edition
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 613)  
+Rating: 4.50 (Ranked 614)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 11.00% | ~3,653 |
 | Advancement | 8.00% | ~2,657 |
 | Meticulously Efficient | 8.00% | ~2,657 |
-| Discovery | 6.00% | ~1,992 |
-| Solo Capture | 6.00% | ~1,992 |
-| Swift Rift Removers | 6.00% | ~1,992 |
-| I collect Spores, Molds, and Fungi | 5.00% | ~1,660 |
-| Fully Upgraded | 5.00% | ~1,660 |
-| Teamwork | 5.00% | ~1,660 |
-| Vaporous Expansion | 5.00% | ~1,660 |
-| Clutch Capture | 4.00% | ~1,328 |
+| Discovery | 6.00% | ~1,993 |
+| Solo Capture | 6.00% | ~1,993 |
+| Swift Rift Removers | 6.00% | ~1,993 |
+| Clutch Capture | 5.00% | ~1,661 |
+| I collect Spores, Molds, and Fungi | 5.00% | ~1,661 |
+| Fully Upgraded | 5.00% | ~1,661 |
+| Teamwork | 5.00% | ~1,661 |
+| Vaporous Expansion | 5.00% | ~1,661 |
 | Cultured | 4.00% | ~1,328 |
 | Daily Dose | 4.00% | ~1,328 |
 | Ghostbuster In Training | 4.00% | ~1,328 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 613)
 | Ultimate Defense | 0.20% | ~66 |
 | Line em' up | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,207 (Ranked 136)  
+Progressed: 33,212 (Ranked 136)  
 Completed: 71 (0.21%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,15 +316,15 @@ Completed: 71 (0.21%) (Ranked 271)
 | 2024-01-01 | 33,089 | 71 |
 | 2024-01-02 | 33,151 | 71 |
 | 2024-01-03 | 33,206 | 71 |
-| 2024-01-04 | 33,207 | 71 |
+| 2024-01-04 | 33,212 | 71 |
 ## Awards
 Max (Great for Quick Sessions): 327  (Ranked 254)  
-Sum: 2,948 (Ranked 185)  
+Sum: 2,949 (Ranked 185)  
 Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
+| This game is Great for Beginners | 327 |
 | This game is Great for Quick Sessions | 327 |
-| This game is Great for Beginners | 326 |
 | This game has Diverse Characters | 312 |
 | This game has Amazing Storytelling | 293 |
 | This game is Highly Recommended | 292 |
@@ -594,3 +594,4 @@ Diff (max vs sum): 69
 | 2024-01-01 | 4.50 | 326 | 2,944 |
 | 2024-01-02 | 4.50 | 326 | 2,947 |
 | 2024-01-03 | 4.50 | 327 | 2,948 |
+| 2024-01-04 | 4.50 | 327 | 2,949 |

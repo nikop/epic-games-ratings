@@ -21,7 +21,7 @@ Rating: 3.96 (Ranked 1,053)
 | Hidden Sonata | 1.00% | ~929 |
 | Track Star | 1.00% | ~929 |
 | True Player | 1.00% | ~929 |
-| Headhunter | 0.90% | ~836 |
+| Headhunter | 0.90% | ~837 |
 | I Like Trains | 0.80% | ~744 |
 | Freebooter | 0.80% | ~744 |
 | Legend Looter | 0.60% | ~558 |
@@ -47,7 +47,7 @@ Rating: 3.96 (Ranked 1,053)
 | Full House | 0.10% | ~93 |
 | Geek Out | 0.10% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92,944 (Ranked 101)  
+Progressed: 92,948 (Ranked 101)  
 Completed: 58 (0.06%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,10 +306,11 @@ Completed: 58 (0.06%) (Ranked 327)
 | 2024-01-01 | 92,863 | 58 |
 | 2024-01-02 | 92,910 | 58 |
 | 2024-01-03 | 92,944 | 58 |
+| 2024-01-04 | 92,948 | 58 |
 ## Awards
 Max (Diverse Characters): 590  (Ranked 210)  
-Sum: 2,780 (Ranked 191)  
-Diff (max vs sum): 19  
+Sum: 2,780 (Ranked 192)  
+Diff (max vs sum): 18  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 590 |

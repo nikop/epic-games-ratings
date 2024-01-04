@@ -4,8 +4,8 @@
   "ProductSlug": "xuan-yuan-sword-7-22c442",
   "Ranking_EOS_Progress": 572,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 456,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 455,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-06T02:00:00+00:00",
     "PcReleaseDate": "2020-10-28T16:00:00+00:00",
@@ -370,9 +370,9 @@
       "ID": "Chapter13_AdventureInTheArroyo",
       "SetID": "c8fdd59",
       "Name": "Adventure in the Arroyo",
-      "Percentage": 8,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Chapter14_MissedOpportunity",
@@ -593,8 +593,8 @@
   ],
   "FirstSeen": "2023-09-08T10:00:07.3821883+00:00",
   "FirstSeenAchievements": "2023-08-28T07:03:21.9021387+00:00",
-  "LastChanged_Achievements": "2024-01-04T00:10:01.7070839+00:00",
+  "LastChanged_Achievements": "2024-01-04T01:56:36.6939318+00:00",
   "LastUpdate_AppInfo": "2024-01-01T17:57:04.7287115+00:00",
-  "LastUpdate_Ratings": "2024-01-04T00:02:39.0455296+00:00",
-  "LastUpdate_Achievements": "2024-01-04T00:10:01.7071209+00:00"
+  "LastUpdate_Ratings": "2024-01-04T01:49:24.1779758+00:00",
+  "LastUpdate_Achievements": "2024-01-04T01:56:36.693961+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "267b56359a8c45ee9154861187de210b",
   "Name": "Marble It Up! Ultra",
   "ProductSlug": "marble-it-up-ultra-7b5692",
-  "Ranking_EOS_Progress": 477,
+  "Ranking_EOS_Progress": 476,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 340,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
     "PcReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 115,
+  "EOS_Progressed": 116,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
@@ -554,6 +554,11 @@
       "Time": "2024-01-04T00:03:45.5638338+00:00",
       "NumProgressed": 115,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T01:50:34.2103967+00:00",
+      "NumProgressed": 116,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T22:03:23.4161887+00:00",
@@ -692,7 +697,7 @@
       "ID": "beat_c1_silver",
       "SetID": "3448go",
       "Name": "Treasured Momentum",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 10,
       "UsersEstimate": 55
     },
@@ -758,7 +763,7 @@
       "Name": "Gone for a Whirl",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "beat_c2a_bronze",
@@ -1142,7 +1147,7 @@
       "Name": "Marathon",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "rolldist_short",
@@ -1150,7 +1155,7 @@
       "Name": "Rolling the Competition",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "soccer_hattrick",
@@ -1172,9 +1177,9 @@
       "ID": "soccer_low",
       "SetID": "3448go",
       "Name": "Goal-Chaser",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "soccer_mid",
@@ -1253,14 +1258,14 @@
     {
       "ID": "3448go",
       "IsBase": true,
-      "Progressed": 115,
+      "Progressed": 116,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2024-01-04T00:03:45.5638335+00:00",
+  "LastChanged_Achievements": "2024-01-04T01:50:34.2103963+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:18.5941148+00:00",
-  "LastUpdate_Ratings": "2024-01-03T23:59:07.7018555+00:00",
-  "LastUpdate_Achievements": "2024-01-04T00:03:45.5639008+00:00"
+  "LastUpdate_Ratings": "2024-01-04T01:45:57.2242004+00:00",
+  "LastUpdate_Achievements": "2024-01-04T01:50:34.2105104+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 368,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
     "PcReleaseDate": "2021-09-28T16:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 381,
+  "EOS_Progressed": 382,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -1676,6 +1676,11 @@
       "Time": "2024-01-03T23:09:10.5721505+00:00",
       "NumProgressed": 381,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-04T01:55:11.77072+00:00",
+      "NumProgressed": 382,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1703,7 +1708,7 @@
       "Name": "Alone with Them",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -1783,7 +1788,7 @@
       "Name": "Forced to Kill",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -1837,9 +1842,9 @@
       "ID": "ETUA_OpenSesame",
       "SetID": "65jc0ap",
       "Name": "Open Sesame",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 107
+      "UsersEstimate": 103
     },
     {
       "ID": "ETUA_OutRage",
@@ -1991,7 +1996,7 @@
       "Name": "What A Mansion",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ETUA_WhatHaveIDone",
@@ -2006,7 +2011,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 381,
+      "Progressed": 382,
       "Completed": 1
     }
   ],
@@ -2014,8 +2019,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2024-01-04T00:08:35.7765227+00:00",
+  "LastChanged_Achievements": "2024-01-04T01:55:11.7707199+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:30.0285391+00:00",
-  "LastUpdate_Ratings": "2024-01-03T23:58:28.2418334+00:00",
-  "LastUpdate_Achievements": "2024-01-04T00:08:35.7765656+00:00"
+  "LastUpdate_Ratings": "2024-01-04T01:45:17.3879873+00:00",
+  "LastUpdate_Achievements": "2024-01-04T01:55:11.7707491+00:00"
 }

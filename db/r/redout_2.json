@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 431,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 423,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1200,
+  "EOS_Progressed": 1201,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1275,6 +1275,11 @@
       "Time": "2024-01-03T18:06:51.0194298+00:00",
       "NumProgressed": 1200,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T01:52:04.7474994+00:00",
+      "NumProgressed": 1201,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -1420,9 +1425,9 @@
       "ID": "CAREERADVANCED",
       "SetID": "3dh70f3",
       "Name": "Rookie No-No More",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 144
     },
     {
       "ID": "CAREERCLASSA",
@@ -1484,9 +1489,9 @@
       "ID": "CAREERTRIALSS",
       "SetID": "3dh70f3",
       "Name": "[Sweats profusely]",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 24
     },
     {
       "ID": "CHAMPION",
@@ -1636,9 +1641,9 @@
       "ID": "PARMESANCHEESE",
       "SetID": "3dh70f3",
       "Name": "A Cheese Grater to the Face",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 228
     },
     {
       "ID": "TENPLATINUM",
@@ -1701,7 +1706,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1200,
+      "Progressed": 1201,
       "Completed": 0
     }
   ],
@@ -1709,8 +1714,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-12-19T23:02:44.1554509+00:00",
-  "LastChanged_Achievements": "2024-01-04T00:05:16.3293858+00:00",
+  "LastChanged_Achievements": "2024-01-04T01:52:04.7474991+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:29.4677395+00:00",
-  "LastUpdate_Ratings": "2024-01-04T00:03:02.7241346+00:00",
-  "LastUpdate_Achievements": "2024-01-04T00:05:16.3294227+00:00"
+  "LastUpdate_Ratings": "2024-01-04T01:49:48.4582044+00:00",
+  "LastUpdate_Achievements": "2024-01-04T01:52:04.747551+00:00"
 }

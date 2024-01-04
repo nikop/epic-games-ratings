@@ -5,32 +5,32 @@ Rating: 4.39 (Ranked 777)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,542 |
+| First Blood | 92.00% | ~1,543 |
 | Ranidaphobia | 77.00% | ~1,291 |
-| Aspiring Editor | 74.00% | ~1,240 |
-| Gun for Hire | 69.00% | ~1,156 |
-| I am the law! | 63.00% | ~1,056 |
-| Lumberjack | 53.00% | ~888 |
-| Croaked | 49.00% | ~821 |
-| Limp Richard | 48.00% | ~804 |
-| Exorcist | 48.00% | ~804 |
-| From Darkness to Light | 48.00% | ~804 |
+| Aspiring Editor | 74.00% | ~1,241 |
+| Gun for Hire | 69.00% | ~1,157 |
+| I am the law! | 63.00% | ~1,057 |
+| Lumberjack | 53.00% | ~889 |
+| Croaked | 49.00% | ~822 |
+| Limp Richard | 48.00% | ~805 |
+| Exorcist | 48.00% | ~805 |
+| From Darkness to Light | 48.00% | ~805 |
 | Editor Adept | 47.00% | ~788 |
 | Giant Killer | 46.00% | ~771 |
-| Sensei | 44.00% | ~737 |
+| Sensei | 44.00% | ~738 |
 | Firestarter | 42.00% | ~704 |
 | The meaning of Kain | 42.00% | ~704 |
-| Technophobe | 41.00% | ~687 |
-| Recycler | 40.00% | ~670 |
-| Are you not entertained? | 36.00% | ~603 |
-| Jarhead | 36.00% | ~603 |
+| Technophobe | 41.00% | ~688 |
+| Recycler | 40.00% | ~671 |
+| Are you not entertained? | 36.00% | ~604 |
+| Jarhead | 36.00% | ~604 |
 | Ganglord | 35.00% | ~587 |
 | Infiltrator | 35.00% | ~587 |
 | Experienced | 33.00% | ~553 |
 | Pushing Daisy | 33.00% | ~553 |
-| Hold The Line | 32.00% | ~536 |
-| Endgame | 28.00% | ~469 |
-| Savior | 28.00% | ~469 |
+| Hold The Line | 32.00% | ~537 |
+| Endgame | 28.00% | ~470 |
+| Savior | 28.00% | ~470 |
 | Silent but Violent | 27.00% | ~453 |
 | There Can Be Only One! | 26.00% | ~436 |
 | Chain Killer | 22.00% | ~369 |
@@ -57,7 +57,7 @@ Rating: 4.39 (Ranked 777)
 | Goaaaaal! | 0.80% | ~13 |
 | QA Has Suffered! (Redux) | 0.80% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,676 (Ranked 259)  
+Progressed: 1,677 (Ranked 259)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,6 +224,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-01 | 1,671 | 0 |
 | 2024-01-02 | 1,673 | 0 |
 | 2024-01-03 | 1,676 | 0 |
+| 2024-01-04 | 1,677 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

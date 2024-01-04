@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 150,
   "Ranking_EOS_NewPlayers": 323,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-05-26T17:00:00+00:00",
     "PcReleaseDate": "2022-12-31T01:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 679,
+  "EOS_Progressed": 680,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 1,
@@ -3124,6 +3124,11 @@
       "Time": "2024-01-03T17:06:43.4558158+00:00",
       "NumProgressed": 679,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-04T01:52:44.9482105+00:00",
+      "NumProgressed": 680,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 8,
@@ -3135,7 +3140,7 @@
       "Name": "Barista",
       "Percentage": 52,
       "XP": 75,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "coffee_100",
@@ -3167,7 +3172,7 @@
       "Name": "Get Lost!",
       "Percentage": 90,
       "XP": 50,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "tea_10",
@@ -3198,14 +3203,14 @@
     {
       "ID": "56hff7o",
       "IsBase": true,
-      "Progressed": 679,
+      "Progressed": 680,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-06-23T10:58:45.2753016+00:00",
   "FirstSeenAchievements": "2023-05-18T05:04:21.5286003+00:00",
-  "LastChanged_Achievements": "2024-01-04T00:05:57.1949825+00:00",
+  "LastChanged_Achievements": "2024-01-04T01:52:44.9482088+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:48.8560762+00:00",
-  "LastUpdate_Ratings": "2024-01-03T23:59:12.318805+00:00",
-  "LastUpdate_Achievements": "2024-01-04T00:05:57.1950052+00:00"
+  "LastUpdate_Ratings": "2024-01-04T01:46:02.3194277+00:00",
+  "LastUpdate_Achievements": "2024-01-04T01:52:44.9482362+00:00"
 }

@@ -1,23 +1,23 @@
 # Tortuga - A Pirate's Tale
 [Store](https://store.epicgames.com/en-US/p/tortuga-a-pirates-tale-e02635)  
 [View Rawdata](../../db/t/tortuga_-_a_pirate's_tale.json)  
-Rating: 3.80 (Ranked 1,078)  
+Rating: 3.80 (Ranked 1,077)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eeligally Ambitious | 95.00% | ~16,542 |
-| No Half Measures | 87.00% | ~15,149 |
-| Personal Matter | 86.00% | ~14,975 |
-| But You Have Heard of Me | 72.00% | ~12,537 |
-| Double the Barrels, double the Fun | 54.00% | ~9,403 |
-| Pimp My Glide | 49.00% | ~8,532 |
-| ... And Where Do the Stories Come From? | 40.00% | ~6,965 |
+| Eeligally Ambitious | 95.00% | ~16,543 |
+| No Half Measures | 87.00% | ~15,150 |
+| Personal Matter | 86.00% | ~14,976 |
+| But You Have Heard of Me | 72.00% | ~12,538 |
+| Double the Barrels, double the Fun | 54.00% | ~9,404 |
+| Pimp My Glide | 49.00% | ~8,533 |
+| ... And Where Do the Stories Come From? | 40.00% | ~6,966 |
 | House Party! | 35.00% | ~6,095 |
 | Make It Rain | 23.00% | ~4,005 |
 | Curse of the Seven Seas | 22.00% | ~3,831 |
 | Head First | 16.00% | ~2,786 |
 | To the World's End | 12.00% | ~2,090 |
-| Table for Six | 11.00% | ~1,915 |
+| Table for Six | 11.00% | ~1,916 |
 | Sharing Is Caring | 10.00% | ~1,741 |
 | I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,393 |
 | Morally Flexible | 6.00% | ~1,045 |
@@ -32,7 +32,7 @@ Rating: 3.80 (Ranked 1,078)
 | Heavy Tunaing | 0.10% | ~17 |
 | Pufferfish | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,413 (Ranked 163)  
+Progressed: 17,414 (Ranked 163)  
 Completed: 1 (0.01%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 1 (0.01%) (Ranked 368)
 | 2024-01-01 | 17,393 | 1 |
 | 2024-01-02 | 17,400 | 1 |
 | 2024-01-03 | 17,412 | 1 |
-| 2024-01-04 | 17,413 | 1 |
+| 2024-01-04 | 17,414 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

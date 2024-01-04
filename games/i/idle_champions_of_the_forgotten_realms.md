@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~7,518 |
+| A Brief Tour of the Realms | 3.00% | ~7,519 |
 | Beast Intentions | 1.00% | ~2,506 |
 | The Cursed Farmer | 1.00% | ~2,506 |
 | The Mad Wizard | 1.00% | ~2,506 |
@@ -18,10 +18,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeking Allies | 0.50% | ~1,253 |
 | Mad Cow Disease | 0.50% | ~1,253 |
 | Friendly Imps | 0.50% | ~1,253 |
-| The Overgrown Grove | 0.50% | ~1,084 |
-| Mental Gymnastics | 0.50% | ~1,084 |
-| A Persistent Buzzing | 0.40% | ~1,002 |
-| Pure Energy | 0.40% | ~1,002 |
+| The Overgrown Grove | 0.50% | ~1,085 |
+| Mental Gymnastics | 0.50% | ~1,085 |
+| A Persistent Buzzing | 0.40% | ~1,003 |
+| Pure Energy | 0.40% | ~1,003 |
 | Arcane Suppression | 0.40% | ~868 |
 | Misaligned in Sigil | 0.40% | ~868 |
 | Chaos Theory | 0.40% | ~868 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~217 |
 | The Brains of an Illithid's Desire | 0.10% | ~217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,613 (Ranked 70)  
+Progressed: 250,634 (Ranked 70)  
 Completed: 2,588 (1.03%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -812,7 +812,7 @@ Completed: 2,588 (1.03%) (Ranked 170)
 | 2024-01-01 | 249,335 | 2,583 |
 | 2024-01-02 | 250,032 | 2,585 |
 | 2024-01-03 | 250,594 | 2,588 |
-| 2024-01-04 | 250,613 | 2,588 |
+| 2024-01-04 | 250,634 | 2,588 |
 ## Awards
 Max (Great for Beginners): 5,730  (Ranked 72)  
 Sum: 33,294 (Ranked 41)  

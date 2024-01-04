@@ -1,38 +1,38 @@
 # LEGO® Star Wars™: The Skywalker Saga
 [Store](https://store.epicgames.com/en-US/p/lego-star-wars-the-skywalker-saga)  
 [View Rawdata](../../db/l/lego®_star_wars™__the_skywalker_saga.json)  
-Rating: 4.77 (Ranked 115)  
+Rating: 4.78 (Ranked 110)  
 Number of Ratings: 2,536  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 96.00% | ~55,116 |
-| ''I don't like you either!'' | 77.00% | ~44,208 |
-| ''Impressive, most impressive'' | 69.00% | ~39,615 |
-| ''You think you're some kind of Jedi?'' | 69.00% | ~39,615 |
-| The Phantom Menace | 57.00% | ~32,725 |
-| ''Aggressive Negotiations'' | 56.00% | ~32,151 |
-| ''I can fly anything'' | 55.00% | ~31,577 |
-| ''And who gave you permission...?'' | 51.00% | ~29,281 |
-| A New Hope | 46.00% | ~26,410 |
-| Attack of the Clones | 44.00% | ~25,262 |
-| Revenge of the Sith | 38.00% | ~21,817 |
-| The Empire Strikes Back | 36.00% | ~20,669 |
-| ''A fine addition to my collection'' | 36.00% | ~20,669 |
-| Return of the Jedi | 30.00% | ~17,224 |
-| The Force Awakens | 25.00% | ~14,353 |
-| The Last Jedi | 22.00% | ~12,631 |
-| The Rise of Skywalker | 19.00% | ~10,908 |
-| ''It's true... all of it'' | 18.00% | ~10,334 |
-| ''Get the crews to their fighters'' | 18.00% | ~10,334 |
-| ''Raw, untamed power'' | 8.00% | ~4,593 |
+| ''You guys got yourself a ship!'' | 96.00% | ~55,125 |
+| ''I don't like you either!'' | 77.00% | ~44,215 |
+| ''Impressive, most impressive'' | 69.00% | ~39,621 |
+| ''You think you're some kind of Jedi?'' | 69.00% | ~39,621 |
+| The Phantom Menace | 57.00% | ~32,731 |
+| ''Aggressive Negotiations'' | 56.00% | ~32,156 |
+| ''I can fly anything'' | 55.00% | ~31,582 |
+| ''And who gave you permission...?'' | 51.00% | ~29,285 |
+| A New Hope | 46.00% | ~26,414 |
+| Attack of the Clones | 44.00% | ~25,266 |
+| Revenge of the Sith | 38.00% | ~21,820 |
+| The Empire Strikes Back | 36.00% | ~20,672 |
+| ''A fine addition to my collection'' | 36.00% | ~20,672 |
+| Return of the Jedi | 30.00% | ~17,227 |
+| The Force Awakens | 25.00% | ~14,356 |
+| The Last Jedi | 22.00% | ~12,633 |
+| The Rise of Skywalker | 19.00% | ~10,910 |
+| ''It's true... all of it'' | 18.00% | ~10,336 |
+| ''Get the crews to their fighters'' | 18.00% | ~10,336 |
+| ''Raw, untamed power'' | 8.00% | ~4,594 |
 | Rishi Maze | 5.00% | ~2,871 |
 | ''Only one business in the Galaxy...'' | 4.00% | ~2,297 |
-| ''You may fire when ready'' | 3.00% | ~1,722 |
-| ''What have you done with those plans?'' | 3.00% | ~1,722 |
-| ''GONK!'' | 3.00% | ~1,722 |
-| ''Hey, what are you trying to push on us?'' | 3.00% | ~1,722 |
-| The Slice | 3.00% | ~1,722 |
+| ''You may fire when ready'' | 3.00% | ~1,723 |
+| ''What have you done with those plans?'' | 3.00% | ~1,723 |
+| ''GONK!'' | 3.00% | ~1,723 |
+| ''Hey, what are you trying to push on us?'' | 3.00% | ~1,723 |
+| The Slice | 3.00% | ~1,723 |
 | ''Hello there!'' | 2.00% | ~1,148 |
 | Unknown Regions | 2.00% | ~1,148 |
 | ''Do or do not. There is no try'' | 2.00% | ~1,148 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''Jedi Business'' | 1.00% | ~574 |
 | ''I've never seen a real one!'' | 0.90% | ~517 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,413 (Ranked 120)  
+Progressed: 57,422 (Ranked 120)  
 Completed: 257 (0.45%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,19 +310,19 @@ Completed: 257 (0.45%) (Ranked 229)
 | 2024-01-01 | 56,979 | 256 |
 | 2024-01-02 | 57,195 | 256 |
 | 2024-01-03 | 57,403 | 256 |
-| 2024-01-04 | 57,413 | 257 |
+| 2024-01-04 | 57,422 | 257 |
 ## Awards
-Max (Great Boss Battles): 2,481  (Ranked 108)  
-Sum: 6,799 (Ranked 129)  
-Diff (max vs sum): -21  
+Max (Great Boss Battles): 2,481  (Ranked 109)  
+Sum: 6,801 (Ranked 129)  
+Diff (max vs sum): -20  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,481 |
 | This game is Great for Beginners | 525 |
 | This game has Diverse Characters | 520 |
 | This game has Amazing Characters | 497 |
+| This game has Easy Combat | 479 |
 | This game is Highly Recommended | 477 |
-| This game has Easy Combat | 477 |
 | This game has Amazing Storytelling | 472 |
 | This game is Extremely Fun | 460 |
 | This game has Quickly Understood Controls | 448 |
@@ -618,3 +618,4 @@ Diff (max vs sum): -21
 | 2024-01-01 | 4.77 | - | 2,479 | 6,794 |
 | 2024-01-02 | 4.77 | - | 2,481 | 6,797 |
 | 2024-01-03 | 4.77 | - | 2,481 | 6,799 |
+| 2024-01-04 | 4.78 | - | 2,481 | 6,801 |

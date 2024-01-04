@@ -1,7 +1,7 @@
 # Fae Farm
 [Store](https://store.epicgames.com/en-US/p/fae-farm)  
 [View Rawdata](../../db/0/013ca9b88fa34b21b2de7fdbfcfc843b.json)  
-Rating: 4.62 (Ranked 375)  
+Rating: 4.63 (Ranked 356)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -16,13 +16,13 @@ Rating: 4.62 (Ranked 375)
 | Mist Walker | 2.00% | ~177 |
 | Bramble Breaker | 2.00% | ~177 |
 | Clear the Air | 1.00% | ~88 |
-| Search for the Hairy Grell | 1.00% | ~88 |
 | Lumberjack | 1.00% | ~88 |
 | Oui, Chef! | 1.00% | ~88 |
 | Botanical Breakthrough | 1.00% | ~88 |
 | Exit Through The Gift Shop | 1.00% | ~15 |
+| Search for the Hairy Grell | 0.90% | ~80 |
+| Beach Comber | 0.90% | ~80 |
 | Higher Tax Bracket | 0.90% | ~80 |
-| Beach Comber | 0.80% | ~71 |
 | Skilled | 0.80% | ~71 |
 | Flaming Hot Completos | 0.70% | ~62 |
 | Azorian Anniversary | 0.70% | ~62 |
@@ -49,7 +49,7 @@ Rating: 4.62 (Ranked 375)
 | Splish-Splash | 0.10% | ~1 |
 | Archi-Pal-igo Aficionado | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,842 (Ranked 184)  
+Progressed: 8,843 (Ranked 184)  
 Completed: 1 (0.01%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 1 (0.01%) (Ranked 368)
 | 2024-01-01 | 8,805 | 1 |
 | 2024-01-02 | 8,830 | 1 |
 | 2024-01-03 | 8,841 | 1 |
-| 2024-01-04 | 8,842 | 1 |
+| 2024-01-04 | 8,843 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -221,3 +221,4 @@ Completed: 1 (0.01%) (Ranked 368)
 | 2023-12-18 | 4.62 | 0 | 0 |
 | 2023-12-19 | 4.63 | 0 | 0 |
 | 2024-01-02 | 4.62 | 0 | 0 |
+| 2024-01-04 | 4.63 | 0 | 0 |

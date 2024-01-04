@@ -1,7 +1,7 @@
 # HITMAN
 [Store](https://store.epicgames.com/en-US/p/hitman/standard-edition)  
 [View Rawdata](../../db/h/hitman.json)  
-Rating: 4.64 (Ranked 343)  
+Rating: 4.63 (Ranked 356)  
 Number of Ratings: 6,362  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 217  (Ranked 290)  
@@ -183,3 +183,4 @@ Diff (max vs sum): 55
 | 2023-12-31 | 4.64 | - | 217 | 1,622 |
 | 2024-01-01 | 4.64 | - | 217 | 1,623 |
 | 2024-01-02 | 4.64 | - | 217 | 1,624 |
+| 2024-01-04 | 4.63 | - | 217 | 1,624 |

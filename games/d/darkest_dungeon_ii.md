@@ -1,22 +1,22 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 259)  
+Rating: 4.68 (Ranked 260)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 12.00% | ~770 |
-| Lost and Found | 8.00% | ~513 |
+| Malpractice Assurance | 12.00% | ~771 |
+| Lost and Found | 8.00% | ~514 |
+| Autodidact | 7.00% | ~9,209 |
 | This Belongs in a Museum | 6.00% | ~7,893 |
-| Autodidact | 6.00% | ~7,893 |
 | This guy... again? | 6.00% | ~385 |
-| Serenity Now! | 5.00% | ~6,577 |
-| Creep and Sleep | 5.00% | ~6,577 |
-| Meat and Greet | 5.00% | ~6,577 |
-| Catch and Decease | 5.00% | ~6,577 |
-| Overdue Notice | 5.00% | ~6,577 |
-| Escape from the Black Hole | 5.00% | ~6,577 |
+| Serenity Now! | 5.00% | ~6,578 |
+| Creep and Sleep | 5.00% | ~6,578 |
+| Meat and Greet | 5.00% | ~6,578 |
+| Catch and Decease | 5.00% | ~6,578 |
+| Overdue Notice | 5.00% | ~6,578 |
+| Escape from the Black Hole | 5.00% | ~6,578 |
 | Ploughshares to Swords | 5.00% | ~321 |
 | Bloody Graduation | 5.00% | ~321 |
 | Don't Make Me Turn This Coach Around | 4.00% | ~5,262 |
@@ -32,23 +32,23 @@ Number of Ratings: 7,767  (23.09.2022)
 | FNG | 4.00% | ~5,262 |
 | Nope | 4.00% | ~5,262 |
 | Friends 'Til the End | 4.00% | ~257 |
-| Resurrection | 3.00% | ~3,946 |
-| Unleash Hell | 3.00% | ~3,946 |
-| Funny Guy | 3.00% | ~3,946 |
-| Long Live the King | 3.00% | ~3,946 |
-| Wyrdly Reconstructed | 3.00% | ~3,946 |
-| Boxcar Kid | 3.00% | ~3,946 |
-| Unfulfilled Desires | 3.00% | ~3,946 |
-| Dissector | 3.00% | ~3,946 |
-| Banishment | 3.00% | ~3,946 |
-| Deprogramming | 3.00% | ~3,946 |
-| Now Stay Dead | 3.00% | ~3,946 |
-| Reverse Banditry | 3.00% | ~3,946 |
-| Spelunker | 3.00% | ~3,946 |
-| Ramble On | 3.00% | ~3,946 |
-| A Clear Conscience | 3.00% | ~3,946 |
-| Unshackled | 3.00% | ~3,946 |
-| Road Trip | 3.00% | ~3,946 |
+| Resurrection | 3.00% | ~3,947 |
+| Unleash Hell | 3.00% | ~3,947 |
+| Funny Guy | 3.00% | ~3,947 |
+| Long Live the King | 3.00% | ~3,947 |
+| Wyrdly Reconstructed | 3.00% | ~3,947 |
+| Boxcar Kid | 3.00% | ~3,947 |
+| Unfulfilled Desires | 3.00% | ~3,947 |
+| Dissector | 3.00% | ~3,947 |
+| Banishment | 3.00% | ~3,947 |
+| Deprogramming | 3.00% | ~3,947 |
+| Now Stay Dead | 3.00% | ~3,947 |
+| Reverse Banditry | 3.00% | ~3,947 |
+| Spelunker | 3.00% | ~3,947 |
+| Ramble On | 3.00% | ~3,947 |
+| A Clear Conscience | 3.00% | ~3,947 |
+| Unshackled | 3.00% | ~3,947 |
+| Road Trip | 3.00% | ~3,947 |
 | This Looks Familiar | 2.00% | ~2,631 |
 | Hope Rekindled | 2.00% | ~2,631 |
 | Predator | 2.00% | ~2,631 |
@@ -59,9 +59,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | Utopia | 2.00% | ~2,631 |
 | Hot Air | 2.00% | ~2,631 |
 | Eyes Up | 2.00% | ~2,631 |
-| Shrine of Reflection | 1.00% | ~1,315 |
-| Handled | 1.00% | ~1,315 |
-| Body of Work | 1.00% | ~1,315 |
+| Shrine of Reflection | 1.00% | ~1,316 |
+| Handled | 1.00% | ~1,316 |
+| Body of Work | 1.00% | ~1,316 |
 | Slap on the Wrist | 1.00% | ~64 |
 | For Old Time' Sake | 1.00% | ~64 |
 | Clearing the Ledger | 0.90% | ~1,184 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,545 (Ranked 91)  
+Progressed: 131,552 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,10 +335,10 @@ Completed: 3 (0.00%) (Ranked 392)
 | 2024-01-01 | 131,206 | 3 |
 | 2024-01-02 | 131,365 | 3 |
 | 2024-01-03 | 131,540 | 3 |
-| 2024-01-04 | 131,545 | 3 |
+| 2024-01-04 | 131,552 | 3 |
 ## Awards
 Max (Character Customization): 7,940  (Ranked 50)  
-Sum: 21,388 (Ranked 58)  
+Sum: 21,391 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -349,7 +349,7 @@ Diff (max vs sum): -8
 | This game has Amazing Characters | 1,513 |
 | This game is Extremely Fun | 1,508 |
 | This game has Unique Visuals | 1,452 |
-| This game has Amazing Storytelling | 1,431 |
+| This game has Amazing Storytelling | 1,434 |
 | This game has Quickly Understood Controls | 1,400 |
 | This game has a Creative Community | 1,079 |
 | This game has Obsessive Gameplay | 585 |
@@ -698,3 +698,4 @@ Diff (max vs sum): -8
 | 2024-01-01 | 4.68 | - | 7,919 | 21,323 |
 | 2024-01-02 | 4.68 | - | 7,927 | 21,353 |
 | 2024-01-03 | 4.68 | - | 7,940 | 21,388 |
+| 2024-01-04 | 4.68 | - | 7,940 | 21,391 |

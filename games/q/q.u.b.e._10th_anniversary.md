@@ -5,32 +5,32 @@ Rating: 4.42 (Ranked 735)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 31.00% | ~8,748 |
-| Sector 2 | 28.00% | ~7,902 |
-| Crush That Cube! | 23.00% | ~6,491 |
-| Sector 3 | 23.00% | ~6,491 |
-| Sector 4 | 19.00% | ~5,362 |
-| Crush That Ball! | 18.00% | ~5,080 |
-| Sector 5 | 12.00% | ~3,386 |
-| Sector 6 | 11.00% | ~3,104 |
+| Sector 1 | 31.00% | ~8,750 |
+| Sector 2 | 28.00% | ~7,904 |
+| Crush That Cube! | 23.00% | ~6,492 |
+| Sector 3 | 23.00% | ~6,492 |
+| Sector 4 | 19.00% | ~5,363 |
+| Crush That Ball! | 18.00% | ~5,081 |
+| Sector 5 | 12.00% | ~3,387 |
+| Sector 6 | 11.00% | ~3,105 |
 | Feeling the Blues | 8.00% | ~2,258 |
 | Squished | 8.00% | ~2,258 |
 | Finale | 8.00% | ~2,258 |
 | Sector 7 | 8.00% | ~2,258 |
-| Did That Work? -- No! | 7.00% | ~1,975 |
+| Did That Work? -- No! | 7.00% | ~1,976 |
 | Master Room | 4.00% | ~1,129 |
-| Bronze Trophy | 2.00% | ~564 |
-| Master Of The Collectables | 2.00% | ~564 |
-| Gold Trophy | 2.00% | ~564 |
-| Hopefully that's all of them! | 2.00% | ~564 |
-| Phew! | 2.00% | ~564 |
-| The Puzzle Master | 2.00% | ~564 |
-| Silver Trophy | 2.00% | ~564 |
-| Completed It. | 2.00% | ~564 |
-| Maxed Out | 2.00% | ~564 |
+| Bronze Trophy | 2.00% | ~565 |
+| Master Of The Collectables | 2.00% | ~565 |
+| Gold Trophy | 2.00% | ~565 |
+| Hopefully that's all of them! | 2.00% | ~565 |
+| Phew! | 2.00% | ~565 |
+| The Puzzle Master | 2.00% | ~565 |
+| Silver Trophy | 2.00% | ~565 |
+| Completed It. | 2.00% | ~565 |
+| Maxed Out | 2.00% | ~565 |
 | The Collector | 1.00% | ~282 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,220 (Ranked 142)  
+Progressed: 28,227 (Ranked 142)  
 Completed: 191 (0.68%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 191 (0.68%) (Ranked 197)
 | 2024-01-01 | 27,944 | 185 |
 | 2024-01-02 | 28,087 | 188 |
 | 2024-01-03 | 28,217 | 191 |
-| 2024-01-04 | 28,220 | 191 |
+| 2024-01-04 | 28,227 | 191 |
 ## Awards
 Max (Challenging Puzzles): 24  (Ranked 549)  
 Sum: 24 (Ranked 556)  

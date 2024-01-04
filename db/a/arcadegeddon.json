@@ -2,13 +2,13 @@
   "ID": "043ffc92cbd64a9fbc350ea68f415937",
   "Name": "Arcadegeddon",
   "ProductSlug": "arcadegeddon",
-  "Ranking_Rating": 633,
+  "Ranking_Rating": 634,
   "Ranking_Popularity": 419,
   "Ranking_PopularitySum": 338,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 358,
   "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
     "PcReleaseDate": "2021-07-08T21:30:00+00:00",
@@ -832,9 +832,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 10247,
+  "EOS_Progressed": 10248,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13772,6 +13772,11 @@
       "Time": "2024-01-03T23:06:37.5563322+00:00",
       "NumProgressed": 10247,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-04T01:51:47.7304955+00:00",
+      "NumProgressed": 10248,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 50,
@@ -13783,7 +13788,7 @@
       "Name": "Adventure Time",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 7685
+      "UsersEstimate": 7686
     },
     {
       "ID": "ACH_BOOTY_BASHING",
@@ -13807,7 +13812,7 @@
       "Name": "Clips and Crits",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1844
+      "UsersEstimate": 1845
     },
     {
       "ID": "ACH_COUP_DETAT",
@@ -13895,7 +13900,7 @@
       "Name": "Hacks In Stacks",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 5328
+      "UsersEstimate": 5329
     },
     {
       "ID": "ACH_HERE_COMES_A_NEW_CHALLENGER",
@@ -13903,7 +13908,7 @@
       "Name": "Here Comes a New Challenger",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 3586
+      "UsersEstimate": 3587
     },
     {
       "ID": "ACH_IM_THE_PLUGGERNAUT",
@@ -13927,7 +13932,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 8812
+      "UsersEstimate": 8813
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -13991,7 +13996,7 @@
       "Name": "Playing With Power",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7378
+      "UsersEstimate": 7379
     },
     {
       "ID": "ACH_PLUG_IT_IN",
@@ -14087,7 +14092,7 @@
       "Name": "Surge Gauntlet Jockey",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 8095
+      "UsersEstimate": 8096
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_SCHOLAR",
@@ -14175,22 +14180,22 @@
       "Name": "You\u0027re Fired",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 5533
+      "UsersEstimate": 5534
     }
   ],
   "AchievementSets": [
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 10247,
+      "Progressed": 10248,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-12-06T04:01:07.9880717+00:00",
-  "LastChanged_Achievements": "2024-01-04T00:04:59.3152286+00:00",
+  "LastChanged_Achievements": "2024-01-04T01:51:47.7304951+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:28.3971436+00:00",
-  "LastUpdate_Ratings": "2024-01-04T00:02:48.4696961+00:00",
-  "LastUpdate_Achievements": "2024-01-04T00:04:59.3153111+00:00"
+  "LastUpdate_Ratings": "2024-01-04T01:49:34.0356+00:00",
+  "LastUpdate_Achievements": "2024-01-04T01:51:47.7305964+00:00"
 }

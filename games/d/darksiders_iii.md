@@ -1,37 +1,37 @@
 # Darksiders III
 [Store](https://store.epicgames.com/en-US/p/darksiders3)  
 [View Rawdata](../../db/d/darksiders_iii.json)  
-Rating: 4.48 (Ranked 650)  
+Rating: 4.48 (Ranked 651)  
 Number of Ratings: 116  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 77.00% | ~314 |
-| First of many… | 67.00% | ~273 |
-| Helping Hand | 63.00% | ~257 |
+| Green with Envy | 77.00% | ~315 |
+| First of many… | 67.00% | ~274 |
+| Helping Hand | 64.00% | ~262 |
 | Increased Vigor | 59.00% | ~241 |
 | Fight Fire with Fire | 57.00% | ~233 |
-| Increased Capacity | 53.00% | ~216 |
+| Increased Capacity | 54.00% | ~221 |
 | Just the start | 48.00% | ~196 |
 | Perfect Storm | 46.00% | ~188 |
 | All That Glitters | 46.00% | ~188 |
-| Enhance! | 41.00% | ~167 |
-| One Of the Chosen | 38.00% | ~155 |
+| Enhance! | 41.00% | ~168 |
+| One Of the Chosen | 39.00% | ~160 |
 | Throne Potato | 38.00% | ~155 |
 | Devil's in the Details | 37.00% | ~151 |
 | Five's a Crowd | 37.00% | ~151 |
-| 25 to Life | 37.00% | ~151 |
-| Salvation | 36.00% | ~147 |
+| 25 to Life | 36.00% | ~147 |
 | Soul Harvester | 35.00% | ~143 |
-| Unshakable Fortitude | 34.00% | ~139 |
+| Salvation | 35.00% | ~143 |
+| Unshakable Fortitude | 33.00% | ~135 |
 | Delusions of Grandeur | 32.00% | ~131 |
-| I Wanna Rock | 31.00% | ~126 |
-| Maximum Vigor | 30.00% | ~122 |
-| Love Tap | 30.00% | ~122 |
+| I Wanna Rock | 31.00% | ~127 |
+| Maximum Vigor | 30.00% | ~123 |
+| Love Tap | 30.00% | ~123 |
 | Freeze Frame | 27.00% | ~110 |
 | Eat Your Heart Out | 27.00% | ~110 |
 | For Whom the Bell Tolls | 27.00% | ~110 |
-| Unyielding Strength | 25.00% | ~102 |
+| Unyielding Strength | 24.00% | ~98 |
 | Can you restore the Balance? | 24.00% | ~98 |
 | Big Spender | 24.00% | ~98 |
 | Cleanup Crew | 22.00% | ~90 |
@@ -39,19 +39,19 @@ Number of Ratings: 116  (23.09.2022)
 | Maximum Capacity | 20.00% | ~82 |
 | Demon Meddler | 20.00% | ~82 |
 | Seeing Red | 20.00% | ~82 |
-| Egomaniac | 18.00% | ~73 |
+| Egomaniac | 18.00% | ~74 |
 | Protector of Humanity | 16.00% | ~65 |
 | Everybody Wants to Rule the World | 16.00% | ~65 |
-| Community Outreach | 14.00% | ~57 |
+| Community Outreach | 15.00% | ~61 |
 | A Parting Gift | 13.00% | ~53 |
-| Unbreakable Will | 12.00% | ~49 |
-| Path of the Horseman | 12.00% | ~49 |
+| Unbreakable Will | 11.00% | ~45 |
+| Path of the Horseman | 11.00% | ~45 |
 | Take it to the Limit | 11.00% | ~45 |
 | Holy Keeper | 10.00% | ~41 |
 | Demon Keeper | 10.00% | ~41 |
 | Soul Reaper | 8.00% | ~33 |
 | Humanitarian | 7.00% | ~29 |
-| My Evil Twin | 6.00% | ~24 |
+| My Evil Twin | 6.00% | ~25 |
 | Made of Sterner Stuff | 5.00% | ~20 |
 | "Impressive!" | 4.00% | ~16 |
 | Keeper of the Bonfire | 4.00% | ~16 |
@@ -71,8 +71,8 @@ Number of Ratings: 116  (23.09.2022)
 | Quite Proper | 0.70% | ~3 |
 | Beast Mode | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 408 (Ranked 359)  
-Completed: 1 (0.25%) (Ranked 264)  
+Progressed: 409 (Ranked 359)  
+Completed: 1 (0.24%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -91,7 +91,7 @@ Completed: 1 (0.25%) (Ranked 264)
 | 2024-01-01 | 373 | 1 |
 | 2024-01-02 | 388 | 1 |
 | 2024-01-03 | 405 | 1 |
-| 2024-01-04 | 408 | 1 |
+| 2024-01-04 | 409 | 1 |
 ## Awards
 Max (Great Boss Battles): 96  (Ranked 383)  
 Sum: 96 (Ranked 466)  

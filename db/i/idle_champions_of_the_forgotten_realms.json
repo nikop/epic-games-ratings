@@ -9307,9 +9307,9 @@
       "Count": 3624
     }
   ],
-  "EOS_Progressed": 250613,
+  "EOS_Progressed": 250634,
   "EOS_Completed": 2588,
-  "EOS_NewPlayers": 5038,
+  "EOS_NewPlayers": 4998,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -38577,6 +38577,11 @@
       "Time": "2024-01-04T00:10:09.1967259+00:00",
       "NumProgressed": 250613,
       "NumCompleted": 2588
+    },
+    {
+      "Time": "2024-01-04T01:56:44.0718717+00:00",
+      "NumProgressed": 250634,
+      "NumCompleted": 2588
     }
   ],
   "TotalAchievements": 546,
@@ -38588,7 +38593,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7518
+      "UsersEstimate": 7519
     },
     {
       "ID": "objective_completed_10",
@@ -39564,7 +39569,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1002
+      "UsersEstimate": 1003
     },
     {
       "ID": "objective_completed_130",
@@ -42332,7 +42337,7 @@
       "Name": "Pure Energy",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1002
+      "UsersEstimate": 1003
     },
     {
       "ID": "objective_completed_902",
@@ -42908,7 +42913,7 @@
       "Name": "The Overgrown Grove",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "objective_completed_673",
@@ -42932,7 +42937,7 @@
       "Name": "Mental Gymnastics",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "objective_completed_860",
@@ -42955,21 +42960,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 216887,
+      "Progressed": 216908,
       "Completed": 4131
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 250613,
+      "Progressed": 250634,
       "Completed": 2588
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-03T22:59:48.0977093+00:00",
-  "LastChanged_Achievements": "2024-01-04T00:10:09.1967253+00:00",
+  "LastChanged_Achievements": "2024-01-04T01:56:44.0718714+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-03T23:58:36.0843728+00:00",
-  "LastUpdate_Achievements": "2024-01-04T00:10:09.1991791+00:00"
+  "LastUpdate_Ratings": "2024-01-04T01:45:25.0786146+00:00",
+  "LastUpdate_Achievements": "2024-01-04T01:56:44.0742769+00:00"
 }

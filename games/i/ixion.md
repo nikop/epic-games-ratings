@@ -6,12 +6,12 @@ Rating: 4.59 (Ranked 445)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 32.00% | ~1,261 |
-| Sputnik 2049 | 28.00% | ~1,103 |
+| Sputnik 2049 | 28.00% | ~1,104 |
 | Infinite Growth... | 27.00% | ~1,064 |
 | Without Breaking Some Eggs... | 26.00% | ~1,025 |
-| Space Society | 18.00% | ~709 |
-| A Thousand Strong | 18.00% | ~709 |
-| Ready for a New World | 18.00% | ~709 |
+| Space Society | 18.00% | ~710 |
+| A Thousand Strong | 18.00% | ~710 |
+| Ready for a New World | 18.00% | ~710 |
 | Permanent Redesigns | 16.00% | ~631 |
 | Fully Recycled | 15.00% | ~591 |
 | The Ship of Theseus | 15.00% | ~591 |
@@ -28,9 +28,9 @@ Rating: 4.59 (Ranked 445)
 | Sightseeing | 7.00% | ~276 |
 | Necessary Enhancement | 7.00% | ~276 |
 | From the Past | 7.00% | ~276 |
-| Access Granted | 6.00% | ~236 |
-| All in Good Health | 6.00% | ~236 |
-| Drill-dozer | 6.00% | ~236 |
+| Access Granted | 6.00% | ~237 |
+| All in Good Health | 6.00% | ~237 |
+| Drill-dozer | 6.00% | ~237 |
 | Oats | 5.00% | ~197 |
 | What They Hide From Us | 5.00% | ~197 |
 | ...  in a finite world | 5.00% | ~197 |
@@ -63,7 +63,7 @@ Rating: 4.59 (Ranked 445)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,941 (Ranked 211)  
+Progressed: 3,942 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-01 | 3,888 | 0 |
 | 2024-01-02 | 3,912 | 0 |
 | 2024-01-03 | 3,940 | 0 |
-| 2024-01-04 | 3,941 | 0 |
+| 2024-01-04 | 3,942 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

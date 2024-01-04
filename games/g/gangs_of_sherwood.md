@@ -25,8 +25,8 @@
 | Merry Go Round | 21.00% | ~24 |
 | Savior | 17.00% | ~19 |
 | Hidden Experiment | 16.00% | ~18 |
+| Take Action! | 16.00% | ~18 |
 | Ultra Combo | 15.00% | ~17 |
-| Take Action! | 15.00% | ~17 |
 | Ascending Will | 14.00% | ~16 |
 | Into the Lion's Den | 12.00% | ~13 |
 | Sky High Fighter | 10.00% | ~11 |

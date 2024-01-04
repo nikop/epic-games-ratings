@@ -2,13 +2,13 @@
   "ID": "720cc28ab09b455f8388decfa0ba4796",
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
-  "Ranking_Rating": 658,
+  "Ranking_Rating": 659,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 379,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 322,
   "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -848,9 +848,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6057,
+  "EOS_Progressed": 6059,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -12483,6 +12483,11 @@
       "Time": "2024-01-04T00:03:24.5082645+00:00",
       "NumProgressed": 6057,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-04T01:50:13.1319004+00:00",
+      "NumProgressed": 6059,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -12543,7 +12548,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1635
+      "UsersEstimate": 1636
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -12559,7 +12564,7 @@
       "Name": "Flawless Victory",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -12575,7 +12580,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "MF_Ach_HitEmWhereItHurts",
@@ -12607,7 +12612,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1393
+      "UsersEstimate": 1394
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -12631,7 +12636,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1514
+      "UsersEstimate": 1515
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -12663,7 +12668,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 1514
+      "UsersEstimate": 1515
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -12678,15 +12683,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6057,
+      "Progressed": 6059,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-12-26T21:58:46.0180606+00:00",
-  "LastChanged_Achievements": "2024-01-04T00:03:24.5082641+00:00",
+  "LastChanged_Achievements": "2024-01-04T01:50:13.1319001+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:44.5580896+00:00",
-  "LastUpdate_Ratings": "2024-01-03T23:59:02.9060459+00:00",
-  "LastUpdate_Achievements": "2024-01-04T00:03:24.5083692+00:00"
+  "LastUpdate_Ratings": "2024-01-04T01:45:52.1180676+00:00",
+  "LastUpdate_Achievements": "2024-01-04T01:50:13.1319965+00:00"
 }

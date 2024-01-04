@@ -4,11 +4,11 @@
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 1053,
   "Ranking_Popularity": 210,
-  "Ranking_PopularitySum": 191,
+  "Ranking_PopularitySum": 192,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -5397,9 +5397,9 @@
       "Count": 531
     }
   ],
-  "EOS_Progressed": 92944,
+  "EOS_Progressed": 92948,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 327,
+  "EOS_NewPlayers": 328,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -30227,6 +30227,11 @@
       "Time": "2024-01-03T23:06:24.7155876+00:00",
       "NumProgressed": 92944,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-04T01:51:38.6873997+00:00",
+      "NumProgressed": 92948,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -30350,7 +30355,7 @@
       "Name": "Headhunter",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "ACH_0101",
@@ -30565,13 +30570,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 92944,
+      "Progressed": 92948,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 21291,
+      "Progressed": 21295,
       "Completed": 15595
     }
   ],
@@ -30579,8 +30584,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2024-01-03T14:57:19.1540535+00:00",
-  "LastChanged_Achievements": "2024-01-04T00:04:50.4717642+00:00",
+  "LastChanged_Achievements": "2024-01-04T01:51:38.6873995+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:43.6008036+00:00",
-  "LastUpdate_Ratings": "2024-01-03T23:57:13.9145881+00:00",
-  "LastUpdate_Achievements": "2024-01-04T00:04:50.4719217+00:00"
+  "LastUpdate_Ratings": "2024-01-04T01:44:01.8289966+00:00",
+  "LastUpdate_Achievements": "2024-01-04T01:51:38.6875163+00:00"
 }

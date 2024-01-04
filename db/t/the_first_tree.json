@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -277,9 +277,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 40021,
+  "EOS_Progressed": 40022,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 397,
+  "EOS_NewPlayers": 394,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -22977,6 +22977,11 @@
       "Time": "2024-01-04T00:08:36.2695323+00:00",
       "NumProgressed": 40021,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-04T01:55:12.2021035+00:00",
+      "NumProgressed": 40022,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 14,
@@ -23004,7 +23009,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 10405
+      "UsersEstimate": 10406
     },
     {
       "ID": "allItems",
@@ -23076,7 +23081,7 @@
       "Name": "Two Worlds",
       "Percentage": 76,
       "XP": 25,
-      "UsersEstimate": 30416
+      "UsersEstimate": 30417
     },
     {
       "ID": "roots",
@@ -23099,15 +23104,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 40021,
+      "Progressed": 40022,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-12-25T15:57:40.6217361+00:00",
-  "LastChanged_Achievements": "2024-01-04T00:08:36.2695319+00:00",
+  "LastChanged_Achievements": "2024-01-04T01:55:12.2021032+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:00.6185917+00:00",
-  "LastUpdate_Ratings": "2024-01-03T23:57:35.8333614+00:00",
-  "LastUpdate_Achievements": "2024-01-04T00:08:36.269683+00:00"
+  "LastUpdate_Ratings": "2024-01-04T01:44:23.6490916+00:00",
+  "LastUpdate_Achievements": "2024-01-04T01:55:12.2022198+00:00"
 }

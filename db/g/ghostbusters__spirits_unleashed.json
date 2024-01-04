@@ -2,13 +2,13 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed Ecto Edition",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 613,
+  "Ranking_Rating": 614,
   "Ranking_Popularity": 254,
   "Ranking_PopularitySum": 185,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3853,10 +3853,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2948,
       "NumberOfAwardsMax": 327
+    },
+    {
+      "Time": "2024-01-04T01:46:13.3751346+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2949,
+      "NumberOfAwardsMax": 327
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2948,
+  "NumberOfAwards": 2949,
   "NumberOfAwardsMax": 327,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -3864,7 +3870,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 326
+      "Count": 327
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3933,9 +3939,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33207,
+  "EOS_Progressed": 33212,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 384,
+  "EOS_NewPlayers": 389,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -24503,6 +24509,11 @@
       "Time": "2024-01-04T00:08:49.884026+00:00",
       "NumProgressed": 33207,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-04T01:55:25.38458+00:00",
+      "NumProgressed": 33212,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -24552,9 +24563,9 @@
       "ID": "Clutch_Capture",
       "SetID": "819popo",
       "Name": "Clutch Capture",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1328
+      "UsersEstimate": 1661
     },
     {
       "ID": "Collect_Spores",
@@ -24562,7 +24573,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1660
+      "UsersEstimate": 1661
     },
     {
       "ID": "Collector",
@@ -24602,7 +24613,7 @@
       "Name": "Discovery",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1992
+      "UsersEstimate": 1993
     },
     {
       "ID": "Dont_Need_These",
@@ -24650,7 +24661,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1660
+      "UsersEstimate": 1661
     },
     {
       "ID": "GB_In_Training",
@@ -24802,7 +24813,7 @@
       "Name": "Solo Capture",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1992
+      "UsersEstimate": 1993
     },
     {
       "ID": "Stunner",
@@ -24842,7 +24853,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 1992
+      "UsersEstimate": 1993
     },
     {
       "ID": "Teamwork",
@@ -24850,7 +24861,7 @@
       "Name": "Teamwork",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1660
+      "UsersEstimate": 1661
     },
     {
       "ID": "Terrifying",
@@ -24898,7 +24909,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1660
+      "UsersEstimate": 1661
     },
     {
       "ID": "Welcome_Crew",
@@ -24921,16 +24932,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33207,
+      "Progressed": 33212,
       "Completed": 71
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2024-01-03T19:59:26.4443022+00:00",
-  "LastChanged_Achievements": "2024-01-04T00:08:49.8840257+00:00",
+  "LastChanged": "2024-01-04T01:46:13.3751253+00:00",
+  "LastChanged_Achievements": "2024-01-04T01:55:25.3845798+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:23.250158+00:00",
-  "LastUpdate_Ratings": "2024-01-03T23:59:23.1296253+00:00",
-  "LastUpdate_Achievements": "2024-01-04T00:08:49.8841313+00:00"
+  "LastUpdate_Ratings": "2024-01-04T01:46:13.3751348+00:00",
+  "LastUpdate_Achievements": "2024-01-04T01:55:25.3847015+00:00"
 }

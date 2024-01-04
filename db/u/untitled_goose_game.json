@@ -2,13 +2,13 @@
   "ID": "f7e06ee3d0c1491094cc0215859f0120",
   "Name": "Untitled Goose Game",
   "ProductSlug": "untitled-goose-game",
-  "Ranking_Rating": 115,
+  "Ranking_Rating": 130,
   "Ranking_Popularity": 578,
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2019-09-20T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.77,
+  "Rating": 4.76,
   "NumberOfRatings": 109,
   "RatingHistory": [
     {
@@ -301,6 +301,12 @@
       "Rating": 4.77,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-04T01:49:28.6696705+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -318,8 +324,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:58.6433496+00:00",
-  "LastChanged": "2023-11-15T08:59:32.4094732+00:00",
+  "LastChanged": "2024-01-04T01:49:28.6696701+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:08.871287+00:00",
-  "LastUpdate_Ratings": "2024-01-04T00:02:43.7925479+00:00",
-  "LastUpdate_Achievements": "2024-01-04T00:04:05.969129+00:00"
+  "LastUpdate_Ratings": "2024-01-04T01:49:28.6696711+00:00",
+  "LastUpdate_Achievements": "2024-01-04T01:50:54.3612425+00:00"
 }

@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Master trainee | 49.00% | ~39 |
-| You have three wishes left | 43.00% | ~34 |
-| Jung's dream | 34.00% | ~27 |
-| The battle of Great Britain | 34.00% | ~27 |
+| Master trainee | 50.00% | ~40 |
+| You have three wishes left | 44.00% | ~35 |
+| Jung's dream | 35.00% | ~28 |
+| The battle of Great Britain | 35.00% | ~28 |
 | Pulp! Where Monsters Dwell | 28.00% | ~22 |
 | A continent with chemistry | 25.00% | ~20 |
 | The happy farmer girl | 24.00% | ~19 |
 | Giant | 20.00% | ~16 |
 | Pulp! Terror Tales in the Night | 20.00% | ~16 |
 | Pulp! Out of this World | 20.00% | ~16 |
+| Diagnosis: fear | 20.00% | ~16 |
+| Ambition is... blind | 20.00% | ~16 |
 | A rival with no options | 19.00% | ~15 |
 | The artist | 19.00% | ~15 |
-| Diagnosis: fear | 19.00% | ~15 |
-| Ambition is... blind | 19.00% | ~15 |
 | You have two wishes left | 19.00% | ~15 |
 | Pulp! Adventures into the Unknown | 18.00% | ~14 |
 | Et in arcadia ego | 16.00% | ~13 |
+| You had one wish left | 15.00% | ~12 |
 | The seer | 15.00% | ~12 |
-| You had one wish left | 14.00% | ~11 |
+| You've awakened the beast | 14.00% | ~11 |
+| Hate is... addictive | 14.00% | ~11 |
 | Welcome to Hellville | 14.00% | ~11 |
-| You've awakened the beast | 13.00% | ~10 |
-| Hate is... addictive | 13.00% | ~10 |
 | Kirlian's best disciple | 13.00% | ~10 |
+| Blessed antennas | 11.00% | ~9 |
 | The bully | 11.00% | ~9 |
-| Blessed antennas | 10.00% | ~8 |
 | Blood Red Island | 10.00% | ~8 |
 | Bread and bocaua | 10.00% | ~8 |
 | Fanatacism is... poisonous | 10.00% | ~8 |
@@ -52,7 +52,7 @@
 | Pulp! Skeleton Hand | 1.00% | ~1 |
 | Pulp! The Vault of Horror | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79 (Ranked 509)  
+Progressed: 80 (Ranked 508)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,3 +97,4 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-01 | 76 | 0 |
 | 2024-01-02 | 77 | 0 |
 | 2024-01-03 | 79 | 0 |
+| 2024-01-04 | 80 | 0 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -325,10 +325,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18143,
+  "EOS_Progressed": 18145,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 535,
-  "EOS_NewCompleters": 4,
+  "EOS_NewPlayers": 533,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
     {
@@ -16190,6 +16190,11 @@
       "Time": "2024-01-04T00:04:32.0221742+00:00",
       "NumProgressed": 18143,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-04T01:51:19.74619+00:00",
+      "NumProgressed": 18145,
+      "NumCompleted": 58
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16234,7 +16239,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3084
+      "UsersEstimate": 3085
     },
     {
       "ID": "14",
@@ -16322,7 +16327,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1451
+      "UsersEstimate": 1452
     },
     {
       "ID": "24",
@@ -16346,7 +16351,7 @@
       "Name": "Call it Even",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 1451
+      "UsersEstimate": 1452
     },
     {
       "ID": "27",
@@ -16472,31 +16477,31 @@
       "ID": "35",
       "SetID": "9nnpo9n",
       "Name": "Madame Undersecretary",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 328
+      "UsersEstimate": 369
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18143,
+      "Progressed": 18145,
       "Completed": 58
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4097,
-      "Completed": 1175
+      "Progressed": 4099,
+      "Completed": 1177
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T23:58:17.8612142+00:00",
-  "LastChanged_Achievements": "2024-01-04T00:04:32.0221739+00:00",
+  "LastChanged_Achievements": "2024-01-04T01:51:19.7461894+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2024-01-03T23:59:36.7976586+00:00",
-  "LastUpdate_Achievements": "2024-01-04T00:04:32.0222675+00:00"
+  "LastUpdate_Ratings": "2024-01-04T01:46:26.6958318+00:00",
+  "LastUpdate_Achievements": "2024-01-04T01:51:19.7462966+00:00"
 }

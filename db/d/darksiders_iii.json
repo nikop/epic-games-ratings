@@ -2,13 +2,13 @@
   "ID": "springbok",
   "Name": "Darksiders III",
   "ProductSlug": "darksiders3",
-  "Ranking_Rating": 650,
+  "Ranking_Rating": 651,
   "Ranking_Popularity": 383,
   "Ranking_PopularitySum": 466,
   "Ranking_EOS_Progress": 359,
-  "Ranking_EOS_Completed": 264,
+  "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -474,11 +474,11 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 408,
+  "EOS_Progressed": 409,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.25,
+  "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
     {
       "Time": "2023-12-13T11:05:01.7592506+00:00",
@@ -1549,6 +1549,11 @@
       "Time": "2024-01-04T00:06:04.900548+00:00",
       "NumProgressed": 408,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-04T01:52:52.7371376+00:00",
+      "NumProgressed": 409,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-13T09:04:44.5703562+00:00",
@@ -1559,17 +1564,17 @@
       "ID": "Collect_AdamantineLarge_30",
       "SetID": "7a5k76n",
       "Name": "Unbreakable Will",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 45
     },
     {
       "ID": "Collect_AdamantineMedium_30",
       "SetID": "7a5k76n",
       "Name": "Unyielding Strength",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 98
     },
     {
       "ID": "Collect_AdamantinePure_3",
@@ -1583,9 +1588,9 @@
       "ID": "Collect_AdamantineSmall_30",
       "SetID": "7a5k76n",
       "Name": "Unshakable Fortitude",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 135
     },
     {
       "ID": "Collect_Artifact_Angel_50",
@@ -1607,17 +1612,17 @@
       "ID": "Collect_Artifact_EpicShard",
       "SetID": "7a5k76n",
       "Name": "One Of the Chosen",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 160
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_1",
       "SetID": "7a5k76n",
       "Name": "Increased Capacity",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 216
+      "UsersEstimate": 221
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_4",
@@ -1641,7 +1646,7 @@
       "Name": "Maximum Vigor",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "Collect_Hollow_Flame",
@@ -1657,7 +1662,7 @@
       "Name": "I Wanna Rock",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "Collect_Hollow_Stasis",
@@ -1711,9 +1716,9 @@
       "ID": "Collect_Weapon_Crossblade",
       "SetID": "7a5k76n",
       "Name": "Salvation",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 143
     },
     {
       "ID": "Craft_Enhancement_Balanced_1",
@@ -1737,7 +1742,7 @@
       "Name": "Enhance!",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "Crucible_Kill_WickedK",
@@ -1753,7 +1758,7 @@
       "Name": "My Evil Twin",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Crucible_Wave_100",
@@ -1815,9 +1820,9 @@
       "ID": "Game_CompleteNormal",
       "SetID": "7a5k76n",
       "Name": "Path of the Horseman",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 49
+      "UsersEstimate": 45
     },
     {
       "ID": "Keeper_Kill_Final",
@@ -1873,7 +1878,7 @@
       "Name": "Love Tap",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "Kill_Enemies_666",
@@ -1913,7 +1918,7 @@
       "Name": "Green with Envy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "Kill_Sin_Gluttony",
@@ -1937,7 +1942,7 @@
       "Name": "Egomaniac",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "Kill_Sin_Sloth",
@@ -1967,9 +1972,9 @@
       "ID": "Save_Humans_1",
       "SetID": "7a5k76n",
       "Name": "Helping Hand",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 257
+      "UsersEstimate": 262
     },
     {
       "ID": "Save_Humans_10",
@@ -1983,9 +1988,9 @@
       "ID": "Save_Humans_15",
       "SetID": "7a5k76n",
       "Name": "Community Outreach",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 61
     },
     {
       "ID": "Save_Humans_20",
@@ -2017,15 +2022,15 @@
       "Name": "First of many\u2026",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "Spend_AttributePoint_25",
       "SetID": "7a5k76n",
       "Name": "25 to Life",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 147
     },
     {
       "ID": "Spend_AttributePoint_50",
@@ -2072,15 +2077,15 @@
     {
       "ID": "7a5k76n",
       "IsBase": true,
-      "Progressed": 408,
+      "Progressed": 409,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-03T05:57:54.1795117+00:00",
-  "LastChanged_Achievements": "2024-01-04T00:06:04.9005477+00:00",
+  "LastChanged_Achievements": "2024-01-04T01:52:52.7371373+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.0817876+00:00",
-  "LastUpdate_Ratings": "2024-01-03T23:58:09.9443936+00:00",
-  "LastUpdate_Achievements": "2024-01-04T00:06:04.9006046+00:00"
+  "LastUpdate_Ratings": "2024-01-04T01:44:59.4231129+00:00",
+  "LastUpdate_Achievements": "2024-01-04T01:52:52.7372284+00:00"
 }

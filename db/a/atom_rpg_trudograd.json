@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 292,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-11-07T12:00:00+00:00",
     "PcReleaseDate": "2022-11-07T12:00:00+00:00",
@@ -252,9 +252,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 1370,
+  "EOS_Progressed": 1371,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2072,6 +2072,11 @@
       "Time": "2024-01-03T18:10:26.2658417+00:00",
       "NumProgressed": 1370,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T01:56:06.6310557+00:00",
+      "NumProgressed": 1371,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -2211,7 +2216,7 @@
       "Name": "Lot 49",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "LUCKY_GOOSE",
@@ -2331,14 +2336,14 @@
       "Name": "Fresh Prince of Trudograd",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 1192
+      "UsersEstimate": 1193
     }
   ],
   "AchievementSets": [
     {
       "ID": "62d2oh4",
       "IsBase": true,
-      "Progressed": 1370,
+      "Progressed": 1371,
       "Completed": 0
     }
   ],
@@ -2346,8 +2351,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2023-12-29T02:14:41.7987751+00:00",
-  "LastChanged_Achievements": "2024-01-04T00:09:31.1010759+00:00",
+  "LastChanged_Achievements": "2024-01-04T01:56:06.6310555+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:57:00.3334195+00:00",
-  "LastUpdate_Ratings": "2024-01-03T23:58:40.3449263+00:00",
-  "LastUpdate_Achievements": "2024-01-04T00:09:31.1011115+00:00"
+  "LastUpdate_Ratings": "2024-01-04T01:45:29.5522306+00:00",
+  "LastUpdate_Achievements": "2024-01-04T01:56:06.6310882+00:00"
 }

@@ -12,8 +12,8 @@ Rating: 3.64 (Ranked 1,087)
 | Wounded Whispers | 12.00% | ~269 |
 | Blood Will Have Blood | 10.00% | ~224 |
 | Ne Plus Ultra | 10.00% | ~224 |
+| Fly Fisher | 10.00% | ~224 |
 | Peek-a-boo | 10.00% | ~224 |
-| Fly Fisher | 9.00% | ~201 |
 | Sucks To Be You | 9.00% | ~201 |
 | Enter of Your Own Free Will | 8.00% | ~179 |
 | Welcome to the Neighborhood | 8.00% | ~179 |
@@ -72,7 +72,7 @@ Rating: 3.64 (Ranked 1,087)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,238 (Ranked 240)  
+Progressed: 2,238 (Ranked 241)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |

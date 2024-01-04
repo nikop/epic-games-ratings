@@ -9,14 +9,14 @@ Rating: 4.52 (Ranked 573)
 | Increasing your Power Level | 27.00% | ~324 |
 | Enter the Speed Gauntlet | 25.00% | ~300 |
 | I just can't choose | 25.00% | ~300 |
-| A Cheese Grater to the Face | 20.00% | ~240 |
+| A Cheese Grater to the Face | 19.00% | ~228 |
 | Put it on a shelf | 18.00% | ~216 |
 | It's like an haircut | 17.00% | ~204 |
 | Ride in the rising sun | 16.00% | ~192 |
 | Suit up | 16.00% | ~192 |
 | Walked like an Egyptian | 15.00% | ~180 |
-| Rookie No-No More | 13.00% | ~156 |
 | Running at the speed of sound | 13.00% | ~156 |
+| Rookie No-No More | 12.00% | ~144 |
 | Martian explorer | 11.00% | ~132 |
 | To the core | 8.00% | ~96 |
 | Blurred photofinish | 8.00% | ~96 |
@@ -38,11 +38,11 @@ Rating: 4.52 (Ranked 573)
 | A-mazing! | 3.00% | ~36 |
 | To infinity and gravity! | 3.00% | ~36 |
 | One giant drive for mankind | 3.00% | ~36 |
-| [Sweats profusely] | 3.00% | ~36 |
 | It's like a party! | 3.00% | ~36 |
 | Healthy competition | 3.00% | ~36 |
 | This is to go, even Further Beyond! | 2.00% | ~24 |
 | Gitting Gud | 2.00% | ~24 |
+| [Sweats profusely] | 2.00% | ~24 |
 | Redout Champion | 2.00% | ~24 |
 | Great Start | 2.00% | ~24 |
 | S-uper! | 1.00% | ~12 |
@@ -58,7 +58,7 @@ Rating: 4.52 (Ranked 573)
 | I, need, more, shelves! | 0.50% | ~6 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,200 (Ranked 281)  
+Progressed: 1,201 (Ranked 281)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,6 +205,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-01 | 1,198 | 0 |
 | 2024-01-02 | 1,199 | 0 |
 | 2024-01-03 | 1,200 | 0 |
+| 2024-01-04 | 1,201 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

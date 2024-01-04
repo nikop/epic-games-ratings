@@ -1,16 +1,16 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.62 (Ranked 375)  
+Rating: 4.62 (Ranked 376)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 14.00% | ~951 |
-| Realm Estate | 12.00% | ~815 |
-| A Wonderful Discovery | 12.00% | ~815 |
-| Walls Cannot Stop Us | 11.00% | ~747 |
-| From Friends to Family | 10.00% | ~679 |
-| Bone Peddler | 9.00% | ~611 |
+| Secret Technique | 14.00% | ~952 |
+| Realm Estate | 12.00% | ~816 |
+| A Wonderful Discovery | 12.00% | ~816 |
+| Walls Cannot Stop Us | 11.00% | ~748 |
+| From Friends to Family | 10.00% | ~680 |
+| Bone Peddler | 9.00% | ~612 |
 | Full Ascension | 7.00% | ~476 |
 | Magical Synergy | 7.00% | ~476 |
 | There Can Only Be One! | 6.00% | ~408 |
@@ -23,11 +23,11 @@ Rating: 4.62 (Ranked 375)
 | Return of the Wizard King | 4.00% | ~272 |
 | Digging for Treasure | 4.00% | ~272 |
 | My Final Form | 4.00% | ~272 |
+| Impenetrable Fortress | 4.00% | ~272 |
 | Enchanted Archipelago | 3.00% | ~204 |
 | Preparation Is Everything | 3.00% | ~204 |
 | Fiery Friend | 3.00% | ~204 |
 | Against the Odds | 3.00% | ~204 |
-| Impenetrable Fortress | 3.00% | ~204 |
 | Freed Lands of Manuhari | 3.00% | ~204 |
 | Arch Mage | 2.00% | ~136 |
 | The Creator | 2.00% | ~136 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 375)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,794 (Ranked 196)  
+Progressed: 6,798 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 7 (0.10%) (Ranked 305)
 | 2024-01-01 | 6,687 | 7 |
 | 2024-01-02 | 6,742 | 7 |
 | 2024-01-03 | 6,793 | 7 |
-| 2024-01-04 | 6,794 | 7 |
+| 2024-01-04 | 6,798 | 7 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 479)  
 Sum: 209 (Ranked 409)  

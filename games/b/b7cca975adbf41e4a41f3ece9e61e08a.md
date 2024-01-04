@@ -5,24 +5,24 @@ Rating: 4.75 (Ranked 146)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 88.00% | ~15,332 |
-| I Challenge You To Save More Money! | 81.00% | ~14,113 |
-| I Love How Tough You Are | 65.00% | ~11,325 |
-| Wanna Come To My Place For Dinner? | 58.00% | ~10,105 |
-| What I Want Is You | 53.00% | ~9,234 |
+| Last Night...Did We... | 88.00% | ~15,334 |
+| I Challenge You To Save More Money! | 81.00% | ~14,114 |
+| I Love How Tough You Are | 65.00% | ~11,326 |
+| Wanna Come To My Place For Dinner? | 58.00% | ~10,106 |
+| What I Want Is You | 53.00% | ~9,235 |
 | To Be Or Not To Be | 50.00% | ~8,712 |
-| Are You Alright? | 47.00% | ~8,189 |
-| Love Actually | 41.00% | ~7,143 |
-| Drama King | 36.00% | ~6,272 |
+| Are You Alright? | 47.00% | ~8,190 |
+| Love Actually | 41.00% | ~7,144 |
+| Drama King | 36.00% | ~6,273 |
 | Go Clean up In Your Own Way | 33.00% | ~5,750 |
-| You're Really Something Else | 32.00% | ~5,575 |
-| Drama CP: Reel to Real | 31.00% | ~5,401 |
-| Happy Family | 30.00% | ~5,227 |
-| FIRST LOVE | 30.00% | ~5,227 |
-| Worthless Speech | 30.00% | ~5,227 |
-| Absolutely Elegant | 28.00% | ~4,878 |
-| ONE PUNCH | 28.00% | ~4,878 |
-| Still Single | 27.00% | ~4,704 |
+| You're Really Something Else | 32.00% | ~5,576 |
+| Drama CP: Reel to Real | 31.00% | ~5,402 |
+| Happy Family | 30.00% | ~5,228 |
+| FIRST LOVE | 30.00% | ~5,228 |
+| Worthless Speech | 30.00% | ~5,228 |
+| Absolutely Elegant | 28.00% | ~4,879 |
+| ONE PUNCH | 28.00% | ~4,879 |
+| Still Single | 27.00% | ~4,705 |
 | Days Of Innocence | 26.00% | ~4,530 |
 | David | 26.00% | ~4,530 |
 | Go Get Some Fries On The Pier | 25.00% | ~4,356 |
@@ -32,7 +32,7 @@ Rating: 4.75 (Ranked 146)
 | That's So You | 21.00% | ~3,659 |
 | SALUTE | 21.00% | ~3,659 |
 | Let Me Be Your Toy Boy | 20.00% | ~3,485 |
-| Off We Sail Tonight | 15.00% | ~2,613 |
+| Off We Sail Tonight | 15.00% | ~2,614 |
 | Love You Three Thousand | 13.00% | ~2,265 |
 | Can You Do This Or Not? | 13.00% | ~2,265 |
 | Doesn't Matter I'll Handle It | 11.00% | ~1,917 |
@@ -48,7 +48,7 @@ Rating: 4.75 (Ranked 146)
 | Tall; Grande; Venti | 2.00% | ~348 |
 | Limerence | 2.00% | ~348 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,423 (Ranked 162)  
+Progressed: 17,425 (Ranked 162)  
 Completed: 289 (1.66%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,6 +137,7 @@ Completed: 289 (1.66%) (Ranked 144)
 | 2024-01-01 | 17,170 | 287 |
 | 2024-01-02 | 17,300 | 288 |
 | 2024-01-03 | 17,423 | 289 |
+| 2024-01-04 | 17,425 | 289 |
 ## Awards
 Max (Impact the Story): 34  (Ranked 504)  
 Sum: 34 (Ranked 531)  

@@ -6,17 +6,17 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 81.00% | ~244 |
+| Rock of the Bay | 81.00% | ~245 |
 | Mash Machine | 75.00% | ~226 |
 | Ducks in a Row, Fish in a Barrel | 55.00% | ~166 |
-| Furon Fashion | 49.00% | ~147 |
-| Shop Til They Drop | 41.00% | ~123 |
-| Bodied Sattva | 38.00% | ~114 |
-| Cult Following | 35.00% | ~105 |
-| Earthly Pleasures | 35.00% | ~105 |
-| Lie Back and Think of Albion | 28.00% | ~84 |
-| Upgreatest | 27.00% | ~81 |
-| Pimp My Raid | 25.00% | ~75 |
+| Furon Fashion | 49.00% | ~148 |
+| Shop Til They Drop | 41.00% | ~124 |
+| Bodied Sattva | 38.00% | ~115 |
+| Cult Following | 35.00% | ~106 |
+| Earthly Pleasures | 35.00% | ~106 |
+| Lie Back and Think of Albion | 27.00% | ~82 |
+| Upgreatest | 26.00% | ~79 |
+| Pimp My Raid | 25.00% | ~76 |
 | I Look Up As I Walk to Takoshima | 21.00% | ~63 |
 | Freshly Squeezed | 21.00% | ~63 |
 | Perfect Probulator | 18.00% | ~54 |
@@ -46,12 +46,12 @@ Number of Ratings: 90  (23.09.2022)
 | Albion Bridge Is for Falling Down | 0.70% | ~2 |
 | To Russia With Love | 0.70% | ~2 |
 | Path of the Furon | 0.70% | ~2 |
+| Trans-Siberian Express | 0.70% | ~2 |
 | Toilet Break | 0.30% | ~1 |
 | Ouch of Body Experience | 0.30% | ~1 |
 | Steezy Down the Spine | 0.30% | ~1 |
-| Trans-Siberian Express | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 301 (Ranked 391)  
+Progressed: 302 (Ranked 390)  
 Completed: 1 (0.33%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,6 +90,7 @@ Completed: 1 (0.33%) (Ranked 244)
 | 2024-01-01 | 279 | 1 |
 | 2024-01-02 | 291 | 1 |
 | 2024-01-03 | 301 | 1 |
+| 2024-01-04 | 302 | 1 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 494)  
 Sum: 36 (Ranked 526)  

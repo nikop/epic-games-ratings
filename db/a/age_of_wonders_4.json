@@ -2,13 +2,13 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 375,
+  "Ranking_Rating": 376,
   "Ranking_Popularity": 479,
   "Ranking_PopularitySum": 409,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -717,7 +717,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6794,
+  "EOS_Progressed": 6798,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 431,
   "EOS_NewCompleters": 0,
@@ -10272,6 +10272,11 @@
       "Time": "2024-01-04T00:08:22.3643593+00:00",
       "NumProgressed": 6794,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-04T01:53:18.7014388+00:00",
+      "NumProgressed": 6798,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10395,7 +10400,7 @@
       "Name": "Realm Estate",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "23",
@@ -10403,7 +10408,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "24",
@@ -10411,7 +10416,7 @@
       "Name": "Secret Technique",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 951
+      "UsersEstimate": 952
     },
     {
       "ID": "25",
@@ -10419,7 +10424,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "26",
@@ -10427,7 +10432,7 @@
       "Name": "Bone Peddler",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "27",
@@ -10443,7 +10448,7 @@
       "Name": "From Friends to Family",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "29",
@@ -10537,9 +10542,9 @@
       "ID": "39",
       "SetID": "3aa2279",
       "Name": "Impenetrable Fortress",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 272
     },
     {
       "ID": "4",
@@ -10762,13 +10767,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6794,
+      "Progressed": 6798,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6794,
+      "Progressed": 6798,
       "Completed": 7
     }
   ],
@@ -10776,8 +10781,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-03T13:04:27.6429549+00:00",
-  "LastChanged_Achievements": "2024-01-04T00:08:22.3643589+00:00",
+  "LastChanged_Achievements": "2024-01-04T01:53:18.7014386+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-04T00:00:05.413149+00:00",
-  "LastUpdate_Achievements": "2024-01-04T00:08:22.3644495+00:00"
+  "LastUpdate_Ratings": "2024-01-04T01:46:53.8030936+00:00",
+  "LastUpdate_Achievements": "2024-01-04T01:53:18.7015248+00:00"
 }

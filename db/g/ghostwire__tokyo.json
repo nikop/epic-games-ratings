@@ -2,13 +2,13 @@
   "ID": "a93cd6111251461c953776a0c4ea4d80",
   "Name": "Ghostwire: Tokyo",
   "ProductSlug": "ghostwire-tokyo",
-  "Ranking_Rating": 591,
-  "Ranking_Popularity": 94,
+  "Ranking_Rating": 592,
+  "Ranking_Popularity": 93,
   "Ranking_PopularitySum": 153,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-03-25T04:00:00+00:00",
     "PcReleaseDate": "2022-03-25T04:00:00+00:00",
@@ -3196,18 +3196,24 @@
       "Rating": 4.51,
       "NumberOfAwards": 4522,
       "NumberOfAwardsMax": 3537
+    },
+    {
+      "Time": "2024-01-04T01:43:48.5930541+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 4628,
+      "NumberOfAwardsMax": 3742
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4522,
-  "NumberOfAwardsMax": 3537,
+  "NumberOfAwards": 4628,
+  "NumberOfAwardsMax": 3742,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 3537
+      "Count": 3742
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3261,7 +3267,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 64
+      "Count": 67
     },
     {
       "Text": "This game is Educational",
@@ -3281,8 +3287,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:08.0109801+00:00",
-  "LastChanged": "2024-01-03T21:02:07.8431863+00:00",
+  "LastChanged": "2024-01-04T01:43:48.5930538+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:19.5929989+00:00",
-  "LastUpdate_Ratings": "2024-01-03T23:57:00.1412877+00:00",
-  "LastUpdate_Achievements": "2024-01-04T00:08:05.9925434+00:00"
+  "LastUpdate_Ratings": "2024-01-04T01:43:48.5930545+00:00",
+  "LastUpdate_Achievements": "2024-01-04T01:53:02.4409183+00:00"
 }
