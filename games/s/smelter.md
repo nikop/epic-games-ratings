@@ -15,12 +15,12 @@
 | It's a Sign! | 33.00% | ~15 |
 | Deflect This! | 28.00% | ~13 |
 | Just Some Improvements | 22.00% | ~10 |
+| A Terrible Way to Go | 22.00% | ~10 |
 | My Precious Gems! | 20.00% | ~9 |
 | A Little Extra Love | 20.00% | ~9 |
 | An Unexpected Visitor | 20.00% | ~9 |
 | Final Announcement | 20.00% | ~9 |
 | A New Strategy | 20.00% | ~9 |
-| A Terrible Way to Go | 20.00% | ~9 |
 | Isn't It Beautiful? | 17.00% | ~8 |
 | A Generous Leader | 17.00% | ~8 |
 | Dr. Dreinstein III | 13.00% | ~6 |

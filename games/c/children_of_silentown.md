@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lucky charm | 89.00% | ~211 |
+| Lucky charm | 90.00% | ~213 |
 | Trumpet | 89.00% | ~211 |
-| Spyglass | 83.00% | ~197 |
-| Broken toy | 77.00% | ~182 |
+| Spyglass | 84.00% | ~199 |
+| Broken toy | 78.00% | ~185 |
 | Egghead Lucy | 76.00% | ~180 |
 | Puppy | 63.00% | ~149 |
 | Coal's fur | 59.00% | ~140 |

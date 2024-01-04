@@ -14,8 +14,8 @@ Rating: 4.62 (Ranked 377)
 | Magical Synergy | 8.00% | ~548 |
 | There Can Only Be One! | 7.00% | ~480 |
 | Full Ascension | 7.00% | ~480 |
-| Stronger Together | 6.00% | ~411 |
-| Seat of Power | 6.00% | ~411 |
+| Stronger Together | 7.00% | ~480 |
+| Seat of Power | 7.00% | ~480 |
 | In a Liege of Your Own | 6.00% | ~411 |
 | Valley of Wonders | 5.00% | ~343 |
 | Intimidation Tactics | 5.00% | ~343 |

@@ -23,7 +23,7 @@
 | Pal of your father? | 61.00% | ~326 |
 | Spirit of the past | 59.00% | ~315 |
 | Employee of the month | 59.00% | ~315 |
-| Law student | 56.00% | ~299 |
+| Law student | 57.00% | ~304 |
 | Workout professional | 54.00% | ~288 |
 | Handyman | 54.00% | ~288 |
 | Fight for life | 53.00% | ~283 |
@@ -60,13 +60,13 @@
 | The lonesome road | 28.00% | ~150 |
 | Family comes first | 28.00% | ~150 |
 | Key memories | 28.00% | ~150 |
+| Anyone can resist | 28.00% | ~150 |
 | The heart of the Resistance | 28.00% | ~150 |
 | Your own way | 28.00% | ~150 |
 | Trap disarmed | 27.00% | ~144 |
 | Keep nature safe | 27.00% | ~144 |
 | The last bell ring | 27.00% | ~144 |
 | Careerist | 27.00% | ~144 |
-| Anyone can resist | 27.00% | ~144 |
 | Silver’s past | 25.00% | ~134 |
 | Better cooking at home | 25.00% | ~134 |
 | The only right decision | 25.00% | ~134 |

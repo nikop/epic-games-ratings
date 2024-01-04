@@ -4,7 +4,7 @@
   "ProductSlug": "return-to-abyss-226301",
   "Ranking_EOS_Progress": 470,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewPlayers": 567,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
@@ -687,9 +687,9 @@
       "ID": "Epic_Firefly_1",
       "SetID": "ba1m2fc",
       "Name": "Stars\u0027 Shimmer",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 86
     },
     {
       "ID": "Epic_Formula_12",
@@ -974,8 +974,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2024-01-04T21:07:41.956244+00:00",
+  "LastChanged_Achievements": "2024-01-04T22:08:17.56536+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:25.8631749+00:00",
-  "LastUpdate_Ratings": "2024-01-04T21:01:51.3443685+00:00",
-  "LastUpdate_Achievements": "2024-01-04T21:07:41.9562852+00:00"
+  "LastUpdate_Ratings": "2024-01-04T22:02:27.8598748+00:00",
+  "LastUpdate_Achievements": "2024-01-04T22:08:17.5654019+00:00"
 }

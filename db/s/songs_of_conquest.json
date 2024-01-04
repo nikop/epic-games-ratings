@@ -3,11 +3,11 @@
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
   "Ranking_Rating": 233,
-  "Ranking_Popularity": 522,
+  "Ranking_Popularity": 523,
   "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -450,9 +450,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 975,
+  "EOS_Progressed": 977,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3490,6 +3490,11 @@
       "Time": "2024-01-04T21:09:40.9035629+00:00",
       "NumProgressed": 975,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T22:09:51.7249408+00:00",
+      "NumProgressed": 977,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3526,7 +3531,7 @@
       "Name": "Dressed For Success",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "AttackCount",
@@ -3606,7 +3611,7 @@
       "Name": "Critical Hit",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "Deepstrike",
@@ -3646,7 +3651,7 @@
       "Name": "Double Kill",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "FlameAttackKillCount",
@@ -3742,7 +3747,7 @@
       "Name": "Whoops!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "RanaCampaign",
@@ -3830,7 +3835,7 @@
       "Name": "Adept",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "WielderLevel2",
@@ -3838,7 +3843,7 @@
       "Name": "Veteran",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "WielderLevel3",
@@ -3933,15 +3938,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 975,
+      "Progressed": 977,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2024-01-04T21:09:40.9035624+00:00",
+  "LastChanged_Achievements": "2024-01-04T22:09:51.7249403+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:53.9356991+00:00",
-  "LastUpdate_Ratings": "2024-01-04T20:58:53.4201347+00:00",
-  "LastUpdate_Achievements": "2024-01-04T21:09:40.9036108+00:00"
+  "LastUpdate_Ratings": "2024-01-04T21:59:16.4286681+00:00",
+  "LastUpdate_Achievements": "2024-01-04T22:09:51.7250072+00:00"
 }

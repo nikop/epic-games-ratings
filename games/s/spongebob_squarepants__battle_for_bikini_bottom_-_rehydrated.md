@@ -1,7 +1,7 @@
 # SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated
 [Store](https://store.epicgames.com/en-US/p/spongebob-squarepants-battle-for-bikini-bottom-rehydrated)  
 [View Rawdata](../../db/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.json)  
-Rating: 4.66 (Ranked 300)  
+Rating: 4.66 (Ranked 299)  
 Number of Ratings: 76  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,7 +10,7 @@ Number of Ratings: 76  (23.09.2022)
 | Spatula Seeker | 19.00% | ~135 |
 | Jellyfish Jam | 18.00% | ~128 |
 | Jellyfishing | 14.00% | ~100 |
-| Time For Tutorial | 12.00% | ~85 |
+| Time For Tutorial | 12.00% | ~86 |
 | Sock Getter | 11.00% | ~78 |
 | Sweet Victory | 10.00% | ~71 |
 | Uptown and Downtown | 9.00% | ~64 |
@@ -27,19 +27,19 @@ Number of Ratings: 76  (23.09.2022)
 | Robot encyclopedia | 5.00% | ~36 |
 | Are you ready now? | 5.00% | ~36 |
 | Ultra Spatula Seeker | 5.00% | ~36 |
-| The Small Does Not Rule | 4.00% | ~28 |
-| Ship Shape | 4.00% | ~28 |
-| Shanghaied | 4.00% | ~28 |
-| Kelp Forest of Fear | 4.00% | ~28 |
-| SpongeBob vs SpongeBob! | 4.00% | ~28 |
-| Sleepy Time | 4.00% | ~28 |
-| Sock Concert | 4.00% | ~28 |
+| The Small Does Not Rule | 4.00% | ~29 |
+| Ship Shape | 4.00% | ~29 |
+| Shanghaied | 4.00% | ~29 |
+| Kelp Forest of Fear | 4.00% | ~29 |
+| SpongeBob vs SpongeBob! | 4.00% | ~29 |
+| Sleepy Time | 4.00% | ~29 |
+| Sock Concert | 4.00% | ~29 |
 | Mega Spatula Seeker | 3.00% | ~21 |
 | 100% SpongeBob | 1.00% | ~7 |
 | Sock Opera | 1.00% | ~7 |
 | Super Ultra Mega Spatula Seeker | 1.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712 (Ranked 315)  
+Progressed: 713 (Ranked 315)  
 Completed: 7 (0.98%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,7 +61,7 @@ Completed: 7 (0.98%) (Ranked 172)
 | 2024-01-01 | 626 | 5 |
 | 2024-01-02 | 662 | 6 |
 | 2024-01-03 | 684 | 7 |
-| 2024-01-04 | 712 | 7 |
+| 2024-01-04 | 713 | 7 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 493)  
 Sum: 36 (Ranked 525)  

@@ -18,10 +18,10 @@
 | Anomaly Destroyer | 31.00% | ~100 |
 | Star Killer | 29.00% | ~94 |
 | Eridanian Champion | 25.00% | ~81 |
-| Loyal Partner | 21.00% | ~68 |
+| Loyal Partner | 22.00% | ~71 |
 | Lacertian Champion | 21.00% | ~68 |
+| Shard Spender | 19.00% | ~62 |
 | Apian Champion | 19.00% | ~62 |
-| Shard Spender | 18.00% | ~58 |
 | Unbeatable | 17.00% | ~55 |
 | Sadistic Plan | 16.00% | ~52 |
 | Behenian Champion | 14.00% | ~45 |
@@ -33,9 +33,9 @@
 | Heart Gate | 7.00% | ~23 |
 | The Corruption Goddess | 7.00% | ~23 |
 | The Goddes Avatar | 7.00% | ~23 |
+| Artificer | 6.00% | ~19 |
 | Favored by the Cosmos | 6.00% | ~19 |
 | Anomaly Control | 5.00% | ~16 |
-| Artificer | 5.00% | ~16 |
 | Can't touch this | 5.00% | ~16 |
 | Astrarium of Holding | 4.00% | ~13 |
 | Denying Destiny | 4.00% | ~13 |

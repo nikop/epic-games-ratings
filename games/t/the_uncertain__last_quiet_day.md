@@ -24,12 +24,12 @@ Rating: 3.75 (Ranked 1,083)
 | Uncertain | 18.00% | ~113 |
 | Goody | 17.00% | ~107 |
 | Not what it seems | 17.00% | ~107 |
+| Please oh pleeease! | 17.00% | ~107 |
 | Ace | 16.00% | ~100 |
 | Concrete painting | 16.00% | ~100 |
 | Found it! | 16.00% | ~100 |
-| Please oh pleeease! | 16.00% | ~100 |
+| Hipster | 16.00% | ~100 |
 | That's much better! | 16.00% | ~100 |
-| Hipster | 15.00% | ~94 |
 | Not as clumsy or random | 13.00% | ~82 |
 | Blade Runner | 11.00% | ~69 |
 | Perfect hearing | 9.00% | ~56 |
@@ -38,7 +38,7 @@ Rating: 3.75 (Ranked 1,083)
 | Accurate | 5.00% | ~31 |
 | Silent | 4.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 627 (Ranked 332)  
+Progressed: 627 (Ranked 333)  
 Completed: 19 (3.03%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -5,29 +5,29 @@ Rating: 3.64 (Ranked 1,088)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 19.00% | ~427 |
+| I Like My Stakes Rare! | 19.00% | ~428 |
 | Catch and Release | 14.00% | ~315 |
-| Home Is Where the Heart Is | 13.00% | ~292 |
+| Home Is Where the Heart Is | 13.00% | ~293 |
 | ICU | 12.00% | ~270 |
 | Wounded Whispers | 12.00% | ~270 |
-| Blood Will Have Blood | 10.00% | ~225 |
+| Blood Will Have Blood | 11.00% | ~248 |
 | Ne Plus Ultra | 10.00% | ~225 |
 | Fly Fisher | 10.00% | ~225 |
 | Peek-a-boo | 10.00% | ~225 |
-| Sucks To Be You | 9.00% | ~202 |
+| Sucks To Be You | 9.00% | ~203 |
 | Enter of Your Own Free Will | 8.00% | ~180 |
 | Welcome to the Neighborhood | 8.00% | ~180 |
 | Throw The First Stone | 8.00% | ~180 |
 | Heart Attack | 8.00% | ~180 |
-| Skin of Their Teeth | 7.00% | ~157 |
+| Skin of Their Teeth | 7.00% | ~158 |
 | Bad Wiring | 6.00% | ~135 |
 | Grounded | 6.00% | ~135 |
-| Neighborhood Revitalization | 5.00% | ~112 |
-| Radio Silence | 5.00% | ~112 |
-| You Clean It Up | 3.00% | ~67 |
-| Starve the Beast | 3.00% | ~67 |
-| Helping Hand | 3.00% | ~67 |
-| I Spit On Your Grave | 3.00% | ~67 |
+| Neighborhood Revitalization | 5.00% | ~113 |
+| Radio Silence | 5.00% | ~113 |
+| You Clean It Up | 3.00% | ~68 |
+| Starve the Beast | 3.00% | ~68 |
+| Helping Hand | 3.00% | ~68 |
+| I Spit On Your Grave | 3.00% | ~68 |
 | Revelations | 2.00% | ~45 |
 | Contingency Plans | 2.00% | ~45 |
 | Block Party | 2.00% | ~45 |
@@ -38,26 +38,26 @@ Rating: 3.64 (Ranked 1,088)
 | From the Shadows | 2.00% | ~45 |
 | Check, Please! | 2.00% | ~45 |
 | Harvest’s End | 2.00% | ~45 |
-| Right This Way | 1.00% | ~22 |
-| Nice Try | 1.00% | ~22 |
-| Blacklight Down | 1.00% | ~22 |
-| Curious Finch | 1.00% | ~22 |
+| Right This Way | 1.00% | ~23 |
+| Nice Try | 1.00% | ~23 |
+| Blacklight Down | 1.00% | ~23 |
+| Curious Finch | 1.00% | ~23 |
 | Empty Nest Syndrome | 0.80% | ~18 |
 | Bloody Initiate | 0.80% | ~18 |
 | Neighborhood Watch | 0.70% | ~16 |
 | What Lies Below | 0.70% | ~16 |
 | Dexterity Save | 0.70% | ~16 |
-| Blood Brother | 0.60% | ~13 |
-| Sisterhood | 0.60% | ~13 |
-| Good Samaritan | 0.60% | ~13 |
+| Blood Brother | 0.60% | ~14 |
+| Sisterhood | 0.60% | ~14 |
+| Good Samaritan | 0.60% | ~14 |
 | Scream Team | 0.40% | ~9 |
 | Monster Hunters Club | 0.40% | ~9 |
 | Friendgineering | 0.40% | ~9 |
 | Under a Bushel | 0.40% | ~9 |
 | Enemy of My Enemy | 0.40% | ~9 |
 | So Anyway I Started Blasting | 0.30% | ~7 |
-| Faith Healer | 0.20% | ~4 |
-| Bob’s Final Hour | 0.20% | ~4 |
+| Faith Healer | 0.20% | ~5 |
+| Bob’s Final Hour | 0.20% | ~5 |
 | A Cry in the Dark | 0.10% | ~2 |
 | Someplace to Be | 0.10% | ~2 |
 | Sepsis | 0.10% | ~2 |
@@ -72,7 +72,7 @@ Rating: 3.64 (Ranked 1,088)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,249 (Ranked 241)  
+Progressed: 2,253 (Ranked 241)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-01 | 2,212 | 0 |
 | 2024-01-02 | 2,228 | 0 |
 | 2024-01-03 | 2,238 | 0 |
-| 2024-01-04 | 2,249 | 0 |
+| 2024-01-04 | 2,253 | 0 |
 ## Awards
 Max (Great Boss Battles): 20  (Ranked 571)  
 Sum: 20 (Ranked 572)  

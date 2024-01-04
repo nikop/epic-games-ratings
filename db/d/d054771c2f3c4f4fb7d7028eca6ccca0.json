@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3529,
+  "EOS_Progressed": 3535,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 516,
+  "EOS_NewPlayers": 521,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3919,6 +3919,11 @@
       "Time": "2024-01-04T21:06:41.4638318+00:00",
       "NumProgressed": 3529,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T22:07:13.3947265+00:00",
+      "NumProgressed": 3535,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -3939,7 +3944,7 @@
       "Name": "Done for Today",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -3955,15 +3960,15 @@
       "Name": "Highest Among the Highest",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1096
     },
     {
       "ID": "ACHIEVEMENT_10",
       "SetID": "c167foo",
       "Name": "Gruesome Ball Handler",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 35
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -3995,7 +4000,7 @@
       "Name": "Terrible Journey",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -4035,7 +4040,7 @@
       "Name": "Worthy Badge",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -4115,7 +4120,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1270
+      "UsersEstimate": 1273
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -4131,7 +4136,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 1482
+      "UsersEstimate": 1485
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -4249,9 +4254,9 @@
       "ID": "ACHIEVEMENT_49",
       "SetID": "c167foo",
       "Name": "I\u0027m your friend to the end",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 25
     },
     {
       "ID": "ACHIEVEMENT_50",
@@ -4306,14 +4311,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 3529,
+      "Progressed": 3535,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2024-01-04T21:06:41.4638315+00:00",
+  "LastChanged_Achievements": "2024-01-04T22:07:13.3947261+00:00",
   "LastUpdate_AppInfo": "2024-01-02T13:00:37.2315097+00:00",
-  "LastUpdate_Ratings": "2024-01-04T20:57:11.704091+00:00",
-  "LastUpdate_Achievements": "2024-01-04T21:06:41.4638777+00:00"
+  "LastUpdate_Ratings": "2024-01-04T21:57:26.2837707+00:00",
+  "LastUpdate_Achievements": "2024-01-04T22:07:13.3947778+00:00"
 }

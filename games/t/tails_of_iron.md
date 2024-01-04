@@ -13,6 +13,7 @@ Rating: 4.56 (Ranked 504)
 | Collect Monster Parts | 1.00% | ~23 |
 | Complete Elder Faction | 1.00% | ~23 |
 | End of the Mozis | 1.00% | ~23 |
+| Defeat Ratnor Rodentson | 1.00% | ~23 |
 | Ranged Weapon | 1.00% | ~23 |
 | Two Handed Weapon | 1.00% | ~23 |
 | Defeat 25 Grubs | 1.00% | ~23 |
@@ -27,7 +28,6 @@ Rating: 4.56 (Ranked 504)
 | Defeat Croakhis Khan | 1.00% | ~9 |
 | Shield Maiden Yellow Tongue | 1.00% | ~9 |
 | I Remember My First Beer | 1.00% | ~9 |
-| Defeat Ratnor Rodentson | 0.90% | ~21 |
 | Fix the Travellers Wagon | 0.90% | ~21 |
 | Return the Statues | 0.80% | ~18 |
 | Defeat Rattus Augustail | 0.80% | ~18 |

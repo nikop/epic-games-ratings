@@ -6,7 +6,7 @@ Rating: 4.74 (Ranked 163)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Last Night...Did We... | 88.00% | ~15,449 |
-| I Challenge You To Save More Money! | 80.00% | ~14,045 |
+| I Challenge You To Save More Money! | 81.00% | ~14,220 |
 | I Love How Tough You Are | 65.00% | ~11,411 |
 | Wanna Come To My Place For Dinner? | 58.00% | ~10,182 |
 | What I Want Is You | 53.00% | ~9,305 |

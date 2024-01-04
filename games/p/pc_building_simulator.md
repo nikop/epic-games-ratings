@@ -1,44 +1,44 @@
 # PC Building Simulator
 [Store](https://store.epicgames.com/en-US/p/pc-building-simulator)  
 [View Rawdata](../../db/p/pc_building_simulator.json)  
-Rating: 4.66 (Ranked 300)  
+Rating: 4.66 (Ranked 299)  
 Number of Ratings: 12,155  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,765,780 |
-| Easy to forget | 46.00% | ~1,657,671 |
-| Back in the black | 39.00% | ~1,405,417 |
-| That's what I'm talking about | 29.00% | ~1,045,054 |
-| The Best of Both Worlds | 25.00% | ~900,908 |
-| Get your wings | 20.00% | ~720,727 |
-| Double trouble | 16.00% | ~576,581 |
-| Smashing it | 11.00% | ~396,400 |
-| But can it run Crysis? | 9.00% | ~324,327 |
-| My favourite feature... | 9.00% | ~324,327 |
-| From humble beginnings... | 7.00% | ~252,254 |
-| Customer satisfaction | 7.00% | ~252,254 |
-| Keeping things neat | 4.00% | ~144,145 |
-| Seems you're pretty good at this | 4.00% | ~144,145 |
-| Bending over backwards | 4.00% | ~144,145 |
-| I'm broke, Uncle! | 3.00% | ~108,109 |
-| Triple threat | 3.00% | ~108,109 |
-| You rock at this! | 3.00% | ~108,109 |
-| Perfection | 3.00% | ~108,109 |
-| Your music sucks | 3.00% | ~108,109 |
+| You need to plug it in... | 49.00% | ~1,765,793 |
+| Easy to forget | 46.00% | ~1,657,684 |
+| Back in the black | 39.00% | ~1,405,427 |
+| That's what I'm talking about | 29.00% | ~1,045,061 |
+| The Best of Both Worlds | 25.00% | ~900,915 |
+| Get your wings | 20.00% | ~720,732 |
+| Double trouble | 16.00% | ~576,586 |
+| Smashing it | 11.00% | ~396,403 |
+| But can it run Crysis? | 9.00% | ~324,329 |
+| My favourite feature... | 9.00% | ~324,329 |
+| From humble beginnings... | 7.00% | ~252,256 |
+| Customer satisfaction | 7.00% | ~252,256 |
+| Keeping things neat | 4.00% | ~144,146 |
+| Seems you're pretty good at this | 4.00% | ~144,146 |
+| Bending over backwards | 4.00% | ~144,146 |
+| I'm broke, Uncle! | 3.00% | ~108,110 |
+| Triple threat | 3.00% | ~108,110 |
+| You rock at this! | 3.00% | ~108,110 |
+| Perfection | 3.00% | ~108,110 |
+| Your music sucks | 3.00% | ~108,110 |
 | Maybe you should try something else? | 2.00% | ~72,073 |
 | Taking care of business | 2.00% | ~72,073 |
 | Things are under control | 2.00% | ~72,073 |
 | Calling in Sick | 2.00% | ~72,073 |
-| Overvolted | 1.00% | ~36,036 |
-| If you fail the first time... | 1.00% | ~36,036 |
-| Amazonian | 1.00% | ~36,036 |
-| Show off | 1.00% | ~36,036 |
-| The Stuart Morton Award for Purpleness | 1.00% | ~36,036 |
-| Building isn't cheap! | 1.00% | ~36,036 |
-| Majority Shareholder | 1.00% | ~36,036 |
-| Owner | 1.00% | ~36,036 |
-| Work ethic 101 | 0.70% | ~25,225 |
+| Overvolted | 1.00% | ~36,037 |
+| If you fail the first time... | 1.00% | ~36,037 |
+| Amazonian | 1.00% | ~36,037 |
+| Show off | 1.00% | ~36,037 |
+| The Stuart Morton Award for Purpleness | 1.00% | ~36,037 |
+| Building isn't cheap! | 1.00% | ~36,037 |
+| Majority Shareholder | 1.00% | ~36,037 |
+| Owner | 1.00% | ~36,037 |
+| Work ethic 101 | 0.70% | ~25,226 |
 | Building momentum | 0.60% | ~21,622 |
 | Lead by example | 0.60% | ~21,622 |
 | Treat yourself - RAM | 0.50% | ~18,018 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,604 |
 | Treat yourself - GPU | 0.10% | ~3,604 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,603,633 (Ranked 5)  
+Progressed: 3,603,660 (Ranked 5)  
 Completed: 41 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 41 (0.00%) (Ranked 393)
 | 2024-01-01 | 3,601,910 | 41 |
 | 2024-01-02 | 3,602,513 | 41 |
 | 2024-01-03 | 3,603,102 | 41 |
-| 2024-01-04 | 3,603,633 | 41 |
+| 2024-01-04 | 3,603,660 | 41 |
 ## Awards
 Max (Great for Beginners): 1,130  (Ranked 149)  
 Sum: 8,266 (Ranked 113)  

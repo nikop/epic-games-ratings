@@ -29,7 +29,7 @@
 | My pants squeak when I walk | 45.00% | ~68 |
 | Surprise!! | 44.00% | ~66 |
 | Self assessed tax return | 43.00% | ~64 |
-| Haemochromatosis | 41.00% | ~61 |
+| Haemochromatosis | 42.00% | ~63 |
 | Make America Grate Again | 39.00% | ~58 |
 | You can't stop me, bro! | 37.00% | ~56 |
 | Pasta Bolognese | 37.00% | ~56 |
@@ -37,7 +37,7 @@
 | Karaoke king | 35.00% | ~52 |
 | Meatballs, coming up! | 33.00% | ~50 |
 | Catch the bus with me! | 33.00% | ~50 |
-| Another one bites the iron | 32.00% | ~48 |
+| Another one bites the iron | 33.00% | ~50 |
 | I'm going to get a concussion | 31.00% | ~46 |
 | Ripe Meat Off The Bone! | 28.00% | ~42 |
 | A Megapint...? | 27.00% | ~40 |

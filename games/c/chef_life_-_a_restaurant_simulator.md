@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Big Day | 61.00% | ~584 |
+| The Big Day | 62.00% | ~594 |
 | You're the Expert! | 27.00% | ~259 |
 | Home Cook | 24.00% | ~230 |
 | So Clean You Can Eat Off the Floor | 16.00% | ~153 |
@@ -13,10 +13,10 @@
 | Next Level Cuisine | 8.00% | ~77 |
 | Haute Cuisine | 7.00% | ~67 |
 | Italian Style | 6.00% | ~57 |
+| Culinary Arts | 4.00% | ~38 |
 | Sous-Chef | 4.00% | ~38 |
 | Rolling in Dough | 4.00% | ~38 |
 | Well-Stocked Kitchen | 4.00% | ~38 |
-| Culinary Arts | 3.00% | ~29 |
 | Perfectionist | 3.00% | ~29 |
 | Leaning Tower of Pizza | 2.00% | ~19 |
 | The Bigger the Better | 0.50% | ~5 |

@@ -9,7 +9,7 @@ Number of Ratings: 124  (23.09.2022)
 | Entrepreneur | 40.00% | ~71 |
 | Best Buddy | 32.00% | ~57 |
 | Civilian | 31.00% | ~55 |
-| Role Model | 26.00% | ~46 |
+| Role Model | 27.00% | ~48 |
 | Creator | 24.00% | ~42 |
 | Festival-goer | 24.00% | ~42 |
 | Peddler | 23.00% | ~41 |
@@ -20,9 +20,9 @@ Number of Ratings: 124  (23.09.2022)
 | Pass A38 | 13.00% | ~23 |
 | Family Reunion | 12.00% | ~21 |
 | Eternal Oblivion | 11.00% | ~19 |
+| Storyteller | 10.00% | ~18 |
 | Globetrotter | 10.00% | ~18 |
 | Berserker | 10.00% | ~18 |
-| Storyteller | 9.00% | ~16 |
 | Alb | 8.00% | ~14 |
 | Banker | 6.00% | ~11 |
 | Treasure Hunter | 6.00% | ~11 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Enforcer | 0.00% | ~0 |
 | Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 177 (Ranked 434)  
+Progressed: 177 (Ranked 435)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |

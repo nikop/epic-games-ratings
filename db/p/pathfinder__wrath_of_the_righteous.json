@@ -4811,9 +4811,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 13027,
+  "EOS_Progressed": 13029,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18921,6 +18921,11 @@
       "Time": "2024-01-04T21:11:00.4663543+00:00",
       "NumProgressed": 13027,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T22:11:14.9771669+00:00",
+      "NumProgressed": 13029,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -18932,7 +18937,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3517
+      "UsersEstimate": 3518
     },
     {
       "ID": "02_BurningCity",
@@ -18940,7 +18945,7 @@
       "Name": "Burning City",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2475
+      "UsersEstimate": 2476
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -18956,7 +18961,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1172
+      "UsersEstimate": 1173
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -19180,7 +19185,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2084
+      "UsersEstimate": 2085
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -19300,7 +19305,7 @@
       "Name": "A Spark",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2605
+      "UsersEstimate": 2606
     },
     {
       "ID": "49_Flame",
@@ -19859,21 +19864,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11809,
+      "Progressed": 11811,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 13027,
+      "Progressed": 13029,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2024-01-04T18:57:51.2604572+00:00",
-  "LastChanged_Achievements": "2024-01-04T21:11:00.466354+00:00",
+  "LastChanged_Achievements": "2024-01-04T22:11:14.9771665+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:46.0860245+00:00",
-  "LastUpdate_Ratings": "2024-01-04T20:58:21.4160811+00:00",
-  "LastUpdate_Achievements": "2024-01-04T21:11:00.4665549+00:00"
+  "LastUpdate_Ratings": "2024-01-04T21:58:43.6185129+00:00",
+  "LastUpdate_Achievements": "2024-01-04T22:11:14.9773518+00:00"
 }

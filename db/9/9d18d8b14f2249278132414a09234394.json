@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3035,
+  "EOS_Progressed": 3036,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 198,
+  "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4769,6 +4769,11 @@
       "Time": "2024-01-04T21:07:33.6425089+00:00",
       "NumProgressed": 3035,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T22:08:08.8615017+00:00",
+      "NumProgressed": 3036,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T10:03:34.0451585+00:00",
@@ -4795,9 +4800,9 @@
       "ID": "ACH_ANewPurpose",
       "SetID": "ai9gp4m",
       "Name": "A New Purpose",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_Advisor",
@@ -4851,9 +4856,9 @@
       "ID": "ACH_EarthlockNLoad",
       "SetID": "ai9gp4m",
       "Name": "Earthlock \u0027n Load",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_Effishient",
@@ -5027,9 +5032,9 @@
       "ID": "ACH_SuddenlyPirates",
       "SetID": "ai9gp4m",
       "Name": "Suddenly, Pirates!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_TakingShelter",
@@ -5068,14 +5073,14 @@
     {
       "ID": "ai9gp4m",
       "IsBase": true,
-      "Progressed": 3035,
+      "Progressed": 3036,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T17:12:11.6441417+00:00",
   "FirstSeenAchievements": "2023-11-07T10:03:34.0451584+00:00",
-  "LastChanged_Achievements": "2024-01-04T21:07:33.6425085+00:00",
+  "LastChanged_Achievements": "2024-01-04T22:08:08.8615012+00:00",
   "LastUpdate_AppInfo": "2024-01-02T13:00:36.8357629+00:00",
-  "LastUpdate_Ratings": "2024-01-04T20:58:33.3085955+00:00",
-  "LastUpdate_Achievements": "2024-01-04T21:07:33.6425518+00:00"
+  "LastUpdate_Ratings": "2024-01-04T21:58:55.5750759+00:00",
+  "LastUpdate_Achievements": "2024-01-04T22:08:08.8615459+00:00"
 }

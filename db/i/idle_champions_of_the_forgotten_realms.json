@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 46,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9319,10 +9319,10 @@
       "Count": 3624
     }
   ],
-  "EOS_Progressed": 251058,
-  "EOS_Completed": 2591,
-  "EOS_NewPlayers": 4778,
-  "EOS_NewCompleters": 20,
+  "EOS_Progressed": 251098,
+  "EOS_Completed": 2592,
+  "EOS_NewPlayers": 4808,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -38694,6 +38694,11 @@
       "Time": "2024-01-04T21:11:03.9197398+00:00",
       "NumProgressed": 251058,
       "NumCompleted": 2591
+    },
+    {
+      "Time": "2024-01-04T22:11:18.4882401+00:00",
+      "NumProgressed": 251098,
+      "NumCompleted": 2592
     }
   ],
   "TotalAchievements": 546,
@@ -38705,7 +38710,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7532
+      "UsersEstimate": 7533
     },
     {
       "ID": "objective_completed_10",
@@ -39569,7 +39574,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1506
+      "UsersEstimate": 1507
     },
     {
       "ID": "objective_completed_1203",
@@ -40377,7 +40382,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5021
+      "UsersEstimate": 5022
     },
     {
       "ID": "objective_completed_34",
@@ -40385,7 +40390,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1757
+      "UsersEstimate": 1758
     },
     {
       "ID": "objective_completed_35",
@@ -40399,9 +40404,9 @@
       "ID": "objective_completed_36",
       "SetID": "cc37lbc",
       "Name": "The Death Curse",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 251
+      "UsersEstimate": 502
     },
     {
       "ID": "objective_completed_37",
@@ -40569,7 +40574,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1506
+      "UsersEstimate": 1507
     },
     {
       "ID": "objective_completed_40",
@@ -43072,21 +43077,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 217332,
-      "Completed": 4132
+      "Progressed": 217372,
+      "Completed": 4133
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 251058,
-      "Completed": 2591
+      "Progressed": 251098,
+      "Completed": 2592
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-04T18:59:04.4083235+00:00",
-  "LastChanged_Achievements": "2024-01-04T21:11:03.9197393+00:00",
+  "LastChanged_Achievements": "2024-01-04T22:11:18.4882397+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-04T21:00:00.5961147+00:00",
-  "LastUpdate_Achievements": "2024-01-04T21:11:03.9222133+00:00"
+  "LastUpdate_Ratings": "2024-01-04T22:00:28.9846655+00:00",
+  "LastUpdate_Achievements": "2024-01-04T22:11:18.4907467+00:00"
 }

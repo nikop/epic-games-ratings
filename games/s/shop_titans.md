@@ -6,20 +6,20 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 10.00% | ~14,944 |
-| Titan's First Steps | 10.00% | ~14,944 |
-| Basic in Bulk | 9.00% | ~13,450 |
-| Tinkle of Coins | 9.00% | ~13,450 |
-| Disintermediation | 7.00% | ~10,461 |
-| It's Free Real Estate | 7.00% | ~10,461 |
-| Capitalism Ho! | 7.00% | ~10,461 |
+| Sponsored by Argon | 10.00% | ~14,946 |
+| Titan's First Steps | 10.00% | ~14,946 |
+| Basic in Bulk | 9.00% | ~13,451 |
+| Tinkle of Coins | 9.00% | ~13,451 |
+| Disintermediation | 7.00% | ~10,462 |
+| It's Free Real Estate | 7.00% | ~10,462 |
+| Capitalism Ho! | 7.00% | ~10,462 |
 | Another Satisfied Customer | 6.00% | ~8,967 |
 | Budding Merchant | 6.00% | ~8,967 |
-| One Easy Payment | 5.00% | ~7,472 |
-| Some Assembly Required | 5.00% | ~7,472 |
-| Pretty Penny | 5.00% | ~7,472 |
-| One-Armed Bandit | 5.00% | ~7,472 |
-| Own the Means of Production | 5.00% | ~7,472 |
+| One Easy Payment | 5.00% | ~7,473 |
+| Some Assembly Required | 5.00% | ~7,473 |
+| Pretty Penny | 5.00% | ~7,473 |
+| One-Armed Bandit | 5.00% | ~7,473 |
+| Own the Means of Production | 5.00% | ~7,473 |
 | The Daily Grind | 4.00% | ~5,978 |
 | Bounty Hunters | 4.00% | ~5,978 |
 | Demand for Supplies | 4.00% | ~5,978 |
@@ -29,26 +29,26 @@ Number of Ratings: 12,664  (23.09.2022)
 | Dungeon Imports | 4.00% | ~5,978 |
 | Through Repetition, Perfection | 4.00% | ~5,978 |
 | Arcane Industries | 4.00% | ~5,978 |
-| On the Path to Greatness | 3.00% | ~4,483 |
-| Ascended | 3.00% | ~4,483 |
-| Tax not Included | 3.00% | ~4,483 |
-| Research & Development | 3.00% | ~4,483 |
-| Vanity, Verily | 3.00% | ~4,483 |
-| Fated Encounters | 3.00% | ~4,483 |
-| For the Hoard! | 3.00% | ~4,483 |
-| Blank Page Syndrome | 3.00% | ~4,483 |
-| Power of Love | 3.00% | ~4,483 |
-| Efficient Floor Space | 3.00% | ~4,483 |
-| Flawless Fusion | 3.00% | ~4,483 |
-| Trash to Treasure | 3.00% | ~4,483 |
-| Gem Expert | 3.00% | ~4,483 |
-| Royal Ransom | 3.00% | ~4,483 |
-| Helping Hand | 3.00% | ~4,483 |
-| Accomplished Merchant | 3.00% | ~4,483 |
-| Natural 20 | 3.00% | ~4,483 |
-| Did we pack lunch? | 3.00% | ~4,483 |
-| Magical Harmony | 3.00% | ~4,483 |
-| Complete Monopoly | 3.00% | ~4,483 |
+| On the Path to Greatness | 3.00% | ~4,484 |
+| Ascended | 3.00% | ~4,484 |
+| Tax not Included | 3.00% | ~4,484 |
+| Research & Development | 3.00% | ~4,484 |
+| Vanity, Verily | 3.00% | ~4,484 |
+| Fated Encounters | 3.00% | ~4,484 |
+| For the Hoard! | 3.00% | ~4,484 |
+| Blank Page Syndrome | 3.00% | ~4,484 |
+| Power of Love | 3.00% | ~4,484 |
+| Efficient Floor Space | 3.00% | ~4,484 |
+| Flawless Fusion | 3.00% | ~4,484 |
+| Trash to Treasure | 3.00% | ~4,484 |
+| Gem Expert | 3.00% | ~4,484 |
+| Royal Ransom | 3.00% | ~4,484 |
+| Helping Hand | 3.00% | ~4,484 |
+| Accomplished Merchant | 3.00% | ~4,484 |
+| Natural 20 | 3.00% | ~4,484 |
+| Did we pack lunch? | 3.00% | ~4,484 |
+| Magical Harmony | 3.00% | ~4,484 |
+| Complete Monopoly | 3.00% | ~4,484 |
 | A Notch Above the Rest | 2.00% | ~2,989 |
 | Cream of the Crop | 2.00% | ~2,989 |
 | Top of the World | 2.00% | ~2,989 |
@@ -101,10 +101,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Exotic Commodities | 2.00% | ~2,989 |
 | Economy of Scarce | 2.00% | ~2,989 |
 | King's Blade | 2.00% | ~2,989 |
-| The Free Encyclopedia | 1.00% | ~1,494 |
-| Thank You Tom Nook | 1.00% | ~1,494 |
-| Jackpot! | 1.00% | ~1,494 |
-| Eternal Crusade | 1.00% | ~1,494 |
+| The Free Encyclopedia | 1.00% | ~1,495 |
+| Thank You Tom Nook | 1.00% | ~1,495 |
+| Jackpot! | 1.00% | ~1,495 |
+| Eternal Crusade | 1.00% | ~1,495 |
 | The Greatest Grind | 0.90% | ~1,345 |
 | All or Nothing! | 0.90% | ~1,345 |
 | Bane of Legends | 0.80% | ~1,196 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~598 |
 | Capitalist Camaraderie | 0.20% | ~299 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 149,444 (Ranked 86)  
+Progressed: 149,456 (Ranked 86)  
 Completed: 342 (0.23%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -378,7 +378,7 @@ Completed: 342 (0.23%) (Ranked 268)
 | 2024-01-01 | 148,903 | 340 |
 | 2024-01-02 | 149,077 | 341 |
 | 2024-01-03 | 149,238 | 342 |
-| 2024-01-04 | 149,444 | 342 |
+| 2024-01-04 | 149,456 | 342 |
 ## Awards
 Max (Great for Beginners): 4,940  (Ranked 78)  
 Sum: 27,924 (Ranked 52)  

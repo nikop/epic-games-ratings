@@ -8851,9 +8851,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "7opfcp",
       "Name": "I Challenge You To Save More Money!",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 14045
+      "UsersEstimate": 14220
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -9188,8 +9188,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2024-01-04T17:58:43.3124643+00:00",
-  "LastChanged_Achievements": "2024-01-04T21:10:13.1243754+00:00",
+  "LastChanged_Achievements": "2024-01-04T22:10:24.9689892+00:00",
   "LastUpdate_AppInfo": "2023-12-30T03:56:51.5051317+00:00",
-  "LastUpdate_Ratings": "2024-01-04T20:59:14.2690602+00:00",
-  "LastUpdate_Achievements": "2024-01-04T21:10:13.124442+00:00"
+  "LastUpdate_Ratings": "2024-01-04T21:59:38.5168494+00:00",
+  "LastUpdate_Achievements": "2024-01-04T22:10:24.9690747+00:00"
 }

@@ -994,11 +994,17 @@
       "Rating": 4.43,
       "NumberOfAwards": 2223,
       "NumberOfAwardsMax": 291
+    },
+    {
+      "Time": "2024-01-04T21:58:49.1902681+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 2224,
+      "NumberOfAwardsMax": 292
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2223,
-  "NumberOfAwardsMax": 291,
+  "NumberOfAwards": 2224,
+  "NumberOfAwardsMax": 292,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -1023,7 +1029,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 291
+      "Count": 292
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1062,9 +1068,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 231364,
+  "EOS_Progressed": 231368,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 639,
+  "EOS_NewPlayers": 643,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29512,6 +29518,11 @@
       "Time": "2024-01-04T21:10:47.4865904+00:00",
       "NumProgressed": 231364,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-04T22:11:01.5008092+00:00",
+      "NumProgressed": 231368,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -29523,7 +29534,7 @@
       "Name": "This is only the beginning",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 46273
+      "UsersEstimate": 46274
     },
     {
       "ID": "ACH_BASE_10",
@@ -29531,7 +29542,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 60155
+      "UsersEstimate": 60156
     },
     {
       "ID": "ACH_BASE_11",
@@ -29571,7 +29582,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23136
+      "UsersEstimate": 23137
     },
     {
       "ID": "ACH_BASE_17",
@@ -29587,7 +29598,7 @@
       "Name": "Radium Ready",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23136
+      "UsersEstimate": 23137
     },
     {
       "ID": "ACH_BASE_19",
@@ -29771,7 +29782,7 @@
       "Name": "Knowledge is power",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 30077
+      "UsersEstimate": 30078
     },
     {
       "ID": "ACH_BASE_8",
@@ -29794,16 +29805,16 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 231364,
+      "Progressed": 231368,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-08-11T20:31:05.9094892+00:00",
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
-  "LastChanged": "2024-01-03T14:57:45.5951776+00:00",
-  "LastChanged_Achievements": "2024-01-04T21:10:47.48659+00:00",
+  "LastChanged": "2024-01-04T21:58:49.1902679+00:00",
+  "LastChanged_Achievements": "2024-01-04T22:11:01.5008088+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:45.3371168+00:00",
-  "LastUpdate_Ratings": "2024-01-04T20:58:27.249239+00:00",
-  "LastUpdate_Achievements": "2024-01-04T21:10:47.4867708+00:00"
+  "LastUpdate_Ratings": "2024-01-04T21:58:49.1902683+00:00",
+  "LastUpdate_Achievements": "2024-01-04T22:11:01.5009942+00:00"
 }

@@ -4,10 +4,10 @@
   "ProductSlug": "session-skate-sim",
   "Ranking_Rating": 233,
   "Ranking_Popularity": 420,
-  "Ranking_PopularitySum": 323,
+  "Ranking_PopularitySum": 324,
   "Ranking_EOS_Progress": 222,
-  "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_Completed": 329,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -1351,9 +1351,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 3525,
+  "EOS_Progressed": 3526,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -7471,6 +7471,11 @@
       "Time": "2024-01-04T21:07:24.051548+00:00",
       "NumProgressed": 3525,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-04T22:07:58.6056709+00:00",
+      "NumProgressed": 3526,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -7522,7 +7527,7 @@
       "Name": "Cross lock country",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ACH_DIPPED",
@@ -7698,7 +7703,7 @@
       "Name": "Plastic Surgeon",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "ACH_PRINCE-OF-PHILLY",
@@ -7770,7 +7775,7 @@
       "Name": "That was wheelie fun",
       "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ACH_THATS-HOW-ITS-DONE",
@@ -7794,7 +7799,7 @@
       "Name": "The flip trick crown jewel",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "ACH_THE-HARD-WAY",
@@ -7802,7 +7807,7 @@
       "Name": "The hard way",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "ACH_TIGHT-LIPSLIDES",
@@ -7865,15 +7870,15 @@
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3525,
+      "Progressed": 3526,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2024-01-04T04:58:59.6946056+00:00",
-  "LastChanged_Achievements": "2024-01-04T21:07:24.0515477+00:00",
+  "LastChanged_Achievements": "2024-01-04T22:07:58.6056707+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:58.5643959+00:00",
-  "LastUpdate_Ratings": "2024-01-04T20:59:53.1510043+00:00",
-  "LastUpdate_Achievements": "2024-01-04T21:07:24.0516236+00:00"
+  "LastUpdate_Ratings": "2024-01-04T22:00:20.1946615+00:00",
+  "LastUpdate_Achievements": "2024-01-04T22:07:58.6057203+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -1056,11 +1056,11 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 15357,
-  "EOS_Completed": 85,
-  "EOS_NewPlayers": 929,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 0.55,
+  "EOS_Progressed": 15364,
+  "EOS_Completed": 86,
+  "EOS_NewPlayers": 936,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.1062688+00:00",
@@ -17021,6 +17021,11 @@
       "Time": "2024-01-04T21:10:27.5476043+00:00",
       "NumProgressed": 15357,
       "NumCompleted": 85
+    },
+    {
+      "Time": "2024-01-04T22:10:40.4753358+00:00",
+      "NumProgressed": 15364,
+      "NumCompleted": 86
     }
   ],
   "TotalAchievements": 34,
@@ -17088,7 +17093,7 @@
       "Name": "Pie Guy",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "ACH09",
@@ -17112,7 +17117,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1689
+      "UsersEstimate": 1690
     },
     {
       "ID": "ACH12",
@@ -17120,7 +17125,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 921
+      "UsersEstimate": 922
     },
     {
       "ID": "ACH13",
@@ -17136,7 +17141,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 6450
+      "UsersEstimate": 6453
     },
     {
       "ID": "ACH15",
@@ -17160,7 +17165,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1382
+      "UsersEstimate": 1383
     },
     {
       "ID": "ACH18",
@@ -17192,7 +17197,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 7064
+      "UsersEstimate": 7067
     },
     {
       "ID": "ACH22",
@@ -17200,7 +17205,7 @@
       "Name": "Life of the Party",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3225
+      "UsersEstimate": 3226
     },
     {
       "ID": "ACH23",
@@ -17208,7 +17213,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 3993
+      "UsersEstimate": 3995
     },
     {
       "ID": "ACH24",
@@ -17216,7 +17221,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2304
+      "UsersEstimate": 2305
     },
     {
       "ID": "ACH25",
@@ -17224,7 +17229,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2304
+      "UsersEstimate": 2305
     },
     {
       "ID": "ACH26",
@@ -17232,7 +17237,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2304
+      "UsersEstimate": 2305
     },
     {
       "ID": "ACH27",
@@ -17248,7 +17253,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 921
+      "UsersEstimate": 922
     },
     {
       "ID": "ACH29",
@@ -17264,7 +17269,7 @@
       "Name": "Mischief Managed",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1382
+      "UsersEstimate": 1383
     },
     {
       "ID": "ACH31",
@@ -17303,16 +17308,16 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 15357,
-      "Completed": 85
+      "Progressed": 15364,
+      "Completed": 86
     }
   ],
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-03T02:18:34.6735113+00:00",
-  "LastChanged_Achievements": "2024-01-04T21:10:27.547604+00:00",
+  "LastChanged_Achievements": "2024-01-04T22:10:40.4753353+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:48.9246276+00:00",
-  "LastUpdate_Ratings": "2024-01-04T20:59:02.5073563+00:00",
-  "LastUpdate_Achievements": "2024-01-04T21:10:27.5477365+00:00"
+  "LastUpdate_Ratings": "2024-01-04T21:59:25.8171813+00:00",
+  "LastUpdate_Achievements": "2024-01-04T22:10:40.4754511+00:00"
 }

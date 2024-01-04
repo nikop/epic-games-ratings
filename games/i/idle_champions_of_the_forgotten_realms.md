@@ -6,14 +6,14 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~7,532 |
-| The Cursed Farmer | 2.00% | ~5,021 |
+| A Brief Tour of the Realms | 3.00% | ~7,533 |
+| The Cursed Farmer | 2.00% | ~5,022 |
 | Beast Intentions | 1.00% | ~2,511 |
 | The Mad Wizard | 1.00% | ~2,511 |
 | Welcome to Sigil | 0.80% | ~1,739 |
-| The Ring of Regeneration | 0.70% | ~1,757 |
-| Were-verpowered | 0.60% | ~1,506 |
-| Are Ya Chicken? | 0.60% | ~1,506 |
+| The Ring of Regeneration | 0.70% | ~1,758 |
+| Were-verpowered | 0.60% | ~1,507 |
+| Are Ya Chicken? | 0.60% | ~1,507 |
 | Fast Food | 0.60% | ~1,304 |
 | Seeking Allies | 0.50% | ~1,255 |
 | Mad Cow Disease | 0.50% | ~1,255 |
@@ -46,6 +46,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | March of the Undead | 0.20% | ~502 |
 | No Time To Rest | 0.20% | ~502 |
 | Invisible Shadows | 0.20% | ~502 |
+| The Death Curse | 0.20% | ~502 |
 | Useless Allies | 0.20% | ~502 |
 | Running of the Saurs | 0.20% | ~502 |
 | Close Escort | 0.20% | ~502 |
@@ -249,7 +250,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Trepidatious Trio | 0.10% | ~251 |
 | Our Time To Shine | 0.10% | ~251 |
 | Review by the Blackstaff | 0.10% | ~217 |
-| The Death Curse | 0.10% | ~251 |
 | Treasure Hunters | 0.10% | ~251 |
 | The Guardian of Orolunga | 0.10% | ~251 |
 | Think Your Way Out Of It | 0.10% | ~251 |
@@ -553,8 +553,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~217 |
 | A Wise Approach | 0.10% | ~217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251,058 (Ranked 70)  
-Completed: 2,591 (1.03%) (Ranked 170)  
+Progressed: 251,098 (Ranked 70)  
+Completed: 2,592 (1.03%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -812,7 +812,7 @@ Completed: 2,591 (1.03%) (Ranked 170)
 | 2024-01-01 | 249,335 | 2,583 |
 | 2024-01-02 | 250,032 | 2,585 |
 | 2024-01-03 | 250,594 | 2,588 |
-| 2024-01-04 | 251,058 | 2,591 |
+| 2024-01-04 | 251,098 | 2,592 |
 ## Awards
 Max (Great for Beginners): 5,740  (Ranked 72)  
 Sum: 33,310 (Ranked 41)  

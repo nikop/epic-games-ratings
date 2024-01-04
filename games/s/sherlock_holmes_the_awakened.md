@@ -5,36 +5,36 @@ Rating: 4.50 (Ranked 613)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 63.00% | ~877 |
-| To Hell In A Handcart | 61.00% | ~849 |
-| High Profile | 55.00% | ~766 |
-| Whispers In The Dark | 52.00% | ~724 |
-| Fond Memories | 50.00% | ~696 |
-| A Method To His Madness | 48.00% | ~668 |
-| History Check | 47.00% | ~654 |
-| The New World | 45.00% | ~626 |
-| Open Sesame | 44.00% | ~612 |
-| Sticky Fingers | 44.00% | ~612 |
+| Read Between The Lines | 63.00% | ~878 |
+| To Hell In A Handcart | 61.00% | ~850 |
+| High Profile | 55.00% | ~767 |
+| Whispers In The Dark | 52.00% | ~725 |
+| Fond Memories | 50.00% | ~697 |
+| A Method To His Madness | 48.00% | ~669 |
+| History Check | 47.00% | ~655 |
+| The New World | 45.00% | ~627 |
+| Open Sesame | 44.00% | ~613 |
+| Sticky Fingers | 44.00% | ~613 |
 | Lock, Stock, And Barrel | 43.00% | ~599 |
 | Gaze Into The Abyss | 43.00% | ~599 |
 | Knives Out | 43.00% | ~599 |
 | Land, Ho! | 43.00% | ~599 |
 | Back In The Saddle | 42.00% | ~585 |
-| No Man Is An Island | 41.00% | ~571 |
-| At Wits' End | 41.00% | ~571 |
-| Fhtagn! | 39.00% | ~543 |
-| Bookworm | 38.00% | ~529 |
-| Up In Flames | 38.00% | ~529 |
-| Going Once... | 36.00% | ~501 |
-| Let Me Be Frank | 34.00% | ~473 |
-| No Stone Unturned | 32.00% | ~445 |
+| No Man Is An Island | 41.00% | ~572 |
+| At Wits' End | 41.00% | ~572 |
+| Fhtagn! | 39.00% | ~544 |
+| Bookworm | 38.00% | ~530 |
+| Up In Flames | 38.00% | ~530 |
+| Going Once... | 36.00% | ~502 |
+| Let Me Be Frank | 34.00% | ~474 |
+| No Stone Unturned | 32.00% | ~446 |
 | Brain Food | 31.00% | ~432 |
-| Read It And Weep | 20.00% | ~278 |
+| Read It And Weep | 20.00% | ~279 |
 | Curiosity Killed The Cat | 18.00% | ~251 |
 | Big Breakthrough | 12.00% | ~167 |
 | Reawakened | 3.00% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,392 (Ranked 269)  
+Progressed: 1,394 (Ranked 269)  
 Completed: 40 (2.87%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 40 (2.87%) (Ranked 114)
 | 2024-01-01 | 1,375 | 38 |
 | 2024-01-02 | 1,383 | 39 |
 | 2024-01-03 | 1,386 | 40 |
-| 2024-01-04 | 1,392 | 40 |
+| 2024-01-04 | 1,394 | 40 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

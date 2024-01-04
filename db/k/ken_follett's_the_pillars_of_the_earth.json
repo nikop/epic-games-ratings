@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 417,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17623,
+  "EOS_Progressed": 17624,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -17695,6 +17695,11 @@
       "Time": "2024-01-04T21:03:48.3546474+00:00",
       "NumProgressed": 17623,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2024-01-04T22:04:10.6591913+00:00",
+      "NumProgressed": 17624,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 41,
@@ -17722,7 +17727,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 4053
+      "UsersEstimate": 4054
     },
     {
       "ID": "tpote_achievement_12",
@@ -17746,7 +17751,7 @@
       "Name": "Friends of sorts",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5639
+      "UsersEstimate": 5640
     },
     {
       "ID": "tpote_achievement_15",
@@ -17970,7 +17975,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 7049
+      "UsersEstimate": 7050
     },
     {
       "ID": "tpote_achievement_40",
@@ -17994,7 +17999,7 @@
       "Name": "Garden of Eden",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4053
+      "UsersEstimate": 4054
     },
     {
       "ID": "tpote_achievement_6",
@@ -18002,7 +18007,7 @@
       "Name": "Full house",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 4053
+      "UsersEstimate": 4054
     },
     {
       "ID": "tpote_achievement_7",
@@ -18033,15 +18038,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17623,
+      "Progressed": 17624,
       "Completed": 124
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-04T21:03:48.3546471+00:00",
+  "LastChanged_Achievements": "2024-01-04T22:04:10.6591909+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:24.3361109+00:00",
-  "LastUpdate_Ratings": "2024-01-04T21:02:56.6498748+00:00",
-  "LastUpdate_Achievements": "2024-01-04T21:03:48.354774+00:00"
+  "LastUpdate_Ratings": "2024-01-04T22:02:51.6886408+00:00",
+  "LastUpdate_Achievements": "2024-01-04T22:04:10.6592988+00:00"
 }

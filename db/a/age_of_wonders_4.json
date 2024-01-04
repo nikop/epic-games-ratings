@@ -10539,9 +10539,9 @@
       "ID": "29",
       "SetID": "3aa2279",
       "Name": "Stronger Together",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 411
+      "UsersEstimate": 480
     },
     {
       "ID": "3",
@@ -10579,9 +10579,9 @@
       "ID": "33",
       "SetID": "3aa2279",
       "Name": "Seat of Power",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 411
+      "UsersEstimate": 480
     },
     {
       "ID": "34",
@@ -10866,8 +10866,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-03T13:04:27.6429549+00:00",
-  "LastChanged_Achievements": "2024-01-04T21:03:56.8475991+00:00",
+  "LastChanged_Achievements": "2024-01-04T22:04:19.2709156+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-04T21:02:41.757754+00:00",
-  "LastUpdate_Achievements": "2024-01-04T21:03:56.8477065+00:00"
+  "LastUpdate_Ratings": "2024-01-04T22:02:36.6047174+00:00",
+  "LastUpdate_Achievements": "2024-01-04T22:04:19.2709929+00:00"
 }

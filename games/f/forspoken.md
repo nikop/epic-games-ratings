@@ -1,24 +1,24 @@
 # Forspoken
 [Store](https://store.epicgames.com/en-US/p/forspoken)  
 [View Rawdata](../../db/f/forspoken.json)  
-Rating: 4.13 (Ranked 1,002)  
+Rating: 4.13 (Ranked 1,003)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 12.00% | ~5,563 |
+| Attachments | 12.00% | ~5,564 |
 | Unlocked Potential | 11.00% | ~5,100 |
 | Tinkerer | 8.00% | ~3,709 |
-| Leapfrogger | 7.00% | ~3,245 |
-| Knock 'Em Dead | 7.00% | ~3,245 |
-| Pilgrimage: Initiate | 7.00% | ~3,245 |
-| Hell of a Run | 7.00% | ~3,245 |
-| Call of the Fount: Baptized | 7.00% | ~3,245 |
+| Leapfrogger | 7.00% | ~3,246 |
+| Knock 'Em Dead | 7.00% | ~3,246 |
+| Pilgrimage: Initiate | 7.00% | ~3,246 |
+| Hell of a Run | 7.00% | ~3,246 |
+| Call of the Fount: Baptized | 7.00% | ~3,246 |
 | No Mercy | 6.00% | ~2,782 |
 | Explorer: Seeker | 6.00% | ~2,782 |
 | Through the Eyes of Another: Empath | 5.00% | ~2,318 |
 | Stuck | 5.00% | ~2,318 |
 | Help Me Out Here | 5.00% | ~2,318 |
-| The Interloper | 4.00% | ~1,854 |
+| The Interloper | 4.00% | ~1,855 |
 | Outdoorsperson | 3.00% | ~1,391 |
 | Hop, Step, Jump | 3.00% | ~1,391 |
 | Endless Runner | 3.00% | ~1,391 |
@@ -59,7 +59,7 @@ Rating: 4.13 (Ranked 1,002)
 | Remembrance | 0.10% | ~46 |
 | Cat Person | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,360 (Ranked 125)  
+Progressed: 46,365 (Ranked 125)  
 Completed: 4 (0.01%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,14 +318,14 @@ Completed: 4 (0.01%) (Ranked 369)
 | 2024-01-01 | 46,038 | 4 |
 | 2024-01-02 | 46,154 | 4 |
 | 2024-01-03 | 46,259 | 4 |
-| 2024-01-04 | 46,360 | 4 |
+| 2024-01-04 | 46,365 | 4 |
 ## Awards
-Max (Character Customization): 45  (Ranked 466)  
-Sum: 45 (Ranked 513)  
-Diff (max vs sum): -47  
+Max (Character Customization): 46  (Ranked 464)  
+Sum: 46 (Ranked 512)  
+Diff (max vs sum): -48  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 45 |
+| This game has Inclusive Character Customization | 46 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -424,3 +424,4 @@ Diff (max vs sum): -47
 | 2024-01-01 | 4.14 | 37 | 37 |
 | 2024-01-02 | 4.14 | 40 | 40 |
 | 2024-01-03 | 4.13 | 45 | 45 |
+| 2024-01-04 | 4.13 | 46 | 46 |

@@ -4,7 +4,7 @@
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3930,
+  "EOS_Progressed": 3931,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4596,6 +4596,11 @@
       "Time": "2024-01-04T19:03:44.1169255+00:00",
       "NumProgressed": 3930,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T22:04:39.5246034+00:00",
+      "NumProgressed": 3931,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -4703,7 +4708,7 @@
       "Name": "Missilis",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ACH_MC",
@@ -4743,7 +4748,7 @@
       "Name": "Modest Earnings",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ACH_M_D2",
@@ -4799,7 +4804,7 @@
       "Name": "Armaments of the Pantheon",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ACH_M_SC",
@@ -4815,7 +4820,7 @@
       "Name": "Persephone\u0027s Guidance",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ACH_OB_BB",
@@ -4911,7 +4916,7 @@
       "Name": "Lochos",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ACH_OB_LS",
@@ -4943,7 +4948,7 @@
       "Name": "Strength of Herakles",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ACH_OB_SD",
@@ -5031,7 +5036,7 @@
       "Name": "Reign in Blood",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ACH_TP",
@@ -5110,7 +5115,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3930,
+      "Progressed": 3931,
       "Completed": 0
     }
   ],
@@ -5118,8 +5123,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2024-01-04T21:04:16.3168566+00:00",
+  "LastChanged_Achievements": "2024-01-04T22:04:39.5246031+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:44.8279496+00:00",
-  "LastUpdate_Ratings": "2024-01-04T21:00:40.3793566+00:00",
-  "LastUpdate_Achievements": "2024-01-04T21:04:16.316935+00:00"
+  "LastUpdate_Ratings": "2024-01-04T22:01:11.4817494+00:00",
+  "LastUpdate_Achievements": "2024-01-04T22:04:39.524664+00:00"
 }

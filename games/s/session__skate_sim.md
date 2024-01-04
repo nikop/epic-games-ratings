@@ -12,9 +12,9 @@ Number of Ratings: 111  (23.09.2022)
 | The finer things in life | 19.00% | ~670 |
 | Backpacker | 13.00% | ~458 |
 | Go with the Flow | 13.00% | ~458 |
-| Plastic Surgeon | 10.00% | ~352 |
-| The flip trick crown jewel | 10.00% | ~352 |
-| The hard way | 10.00% | ~352 |
+| Plastic Surgeon | 10.00% | ~353 |
+| The flip trick crown jewel | 10.00% | ~353 |
+| The hard way | 10.00% | ~353 |
 | Good vibes | 9.00% | ~317 |
 | Keep the dream alive | 9.00% | ~317 |
 | Upfront shredder | 9.00% | ~317 |
@@ -45,8 +45,8 @@ Number of Ratings: 111  (23.09.2022)
 | Tank commander | 4.00% | ~141 |
 | Many plys later... | 3.00% | ~106 |
 | Pew-Pew | 3.00% | ~106 |
-| Cross lock country | 2.00% | ~70 |
-| That was wheelie fun | 2.00% | ~70 |
+| Cross lock country | 2.00% | ~71 |
+| That was wheelie fun | 2.00% | ~71 |
 | Dipped! | 1.00% | ~35 |
 | Skatepark hero | 1.00% | ~35 |
 | Bing Bong! | 0.10% | ~4 |
@@ -55,8 +55,8 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~4 |
 | Ultimate skate nerd | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,525 (Ranked 222)  
-Completed: 2 (0.06%) (Ranked 328)  
+Progressed: 3,526 (Ranked 222)  
+Completed: 2 (0.06%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -289,11 +289,11 @@ Completed: 2 (0.06%) (Ranked 328)
 | 2024-01-01 | 3,487 | 2 |
 | 2024-01-02 | 3,506 | 2 |
 | 2024-01-03 | 3,515 | 2 |
-| 2024-01-04 | 3,525 | 2 |
+| 2024-01-04 | 3,526 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 63  (Ranked 420)  
-Sum: 581 (Ranked 323)  
-Diff (max vs sum): 97  
+Sum: 581 (Ranked 324)  
+Diff (max vs sum): 96  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 63 |

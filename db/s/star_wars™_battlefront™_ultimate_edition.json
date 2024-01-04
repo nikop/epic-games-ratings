@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -7458,9 +7458,9 @@
       "ID": "achievement_4",
       "SetID": "271ol84",
       "Name": "I suggest a new strategy",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 441
+      "UsersEstimate": 467
     },
     {
       "ID": "achievement_40",
@@ -7713,8 +7713,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-04T21:10:59.5110626+00:00",
+  "LastChanged_Achievements": "2024-01-04T22:11:13.8969549+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:19.759459+00:00",
-  "LastUpdate_Ratings": "2024-01-04T21:01:22.1694768+00:00",
-  "LastUpdate_Achievements": "2024-01-04T21:10:59.5111695+00:00"
+  "LastUpdate_Ratings": "2024-01-04T22:01:57.2051705+00:00",
+  "LastUpdate_Achievements": "2024-01-04T22:11:13.8970525+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 176,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 3803,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3773,9 +3773,9 @@
       "Count": 341
     }
   ],
-  "EOS_Progressed": 20136,
+  "EOS_Progressed": 20139,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 600,
+  "EOS_NewPlayers": 603,
   "EOS_NewCompleters": -3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -18438,6 +18438,11 @@
       "Time": "2024-01-04T21:06:39.6142379+00:00",
       "NumProgressed": 20136,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2024-01-04T22:07:11.4873761+00:00",
+      "NumProgressed": 20139,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -18666,7 +18671,7 @@
       "Name": "Royal Outpost",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "WinNearRuins",
@@ -18706,7 +18711,7 @@
       "Name": "Watchtower",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "WinOnCoral",
@@ -18921,15 +18926,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20136,
+      "Progressed": 20139,
       "Completed": 33
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-04T21:00:11.5483425+00:00",
-  "LastChanged_Achievements": "2024-01-04T21:06:39.6142375+00:00",
+  "LastChanged_Achievements": "2024-01-04T22:07:11.4873757+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:03.5085053+00:00",
-  "LastUpdate_Ratings": "2024-01-04T21:00:11.5483432+00:00",
-  "LastUpdate_Achievements": "2024-01-04T21:06:39.6143359+00:00"
+  "LastUpdate_Ratings": "2024-01-04T22:00:40.5742586+00:00",
+  "LastUpdate_Achievements": "2024-01-04T22:07:11.4874993+00:00"
 }

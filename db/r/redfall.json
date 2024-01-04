@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 572,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -351,9 +351,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2249,
+  "EOS_Progressed": 2253,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3976,6 +3976,11 @@
       "Time": "2024-01-04T21:04:09.5572768+00:00",
       "NumProgressed": 2249,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T22:04:32.5579507+00:00",
+      "NumProgressed": 2253,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3987,7 +3992,7 @@
       "Name": "Neighborhood Revitalization",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "Achievement_002",
@@ -4003,7 +4008,7 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "Achievement_004",
@@ -4033,9 +4038,9 @@
       "ID": "Achievement_008",
       "SetID": "6b34g18",
       "Name": "Blood Will Have Blood",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 248
     },
     {
       "ID": "Achievement_009",
@@ -4091,7 +4096,7 @@
       "Name": "Blood Brother",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Achievement_016",
@@ -4123,7 +4128,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "Achievement_020",
@@ -4139,7 +4144,7 @@
       "Name": "Radio Silence",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "Achievement_022",
@@ -4195,7 +4200,7 @@
       "Name": "You Clean It Up",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Achievement_029",
@@ -4219,7 +4224,7 @@
       "Name": "Sucks To Be You",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "Achievement_032",
@@ -4227,7 +4232,7 @@
       "Name": "Faith Healer",
       "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Achievement_033",
@@ -4267,7 +4272,7 @@
       "Name": "Sisterhood",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Achievement_038",
@@ -4307,7 +4312,7 @@
       "Name": "Starve the Beast",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Achievement_044",
@@ -4323,7 +4328,7 @@
       "Name": "Skin of Their Teeth",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "Achievement_046",
@@ -4363,7 +4368,7 @@
       "Name": "Right This Way",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Achievement_052",
@@ -4371,7 +4376,7 @@
       "Name": "Nice Try",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Achievement_053",
@@ -4387,7 +4392,7 @@
       "Name": "Blacklight Down",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Achievement_056",
@@ -4435,7 +4440,7 @@
       "Name": "Bob\u2019s Final Hour",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Achievement_062",
@@ -4451,7 +4456,7 @@
       "Name": "Helping Hand",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Achievement_064",
@@ -4459,7 +4464,7 @@
       "Name": "Good Samaritan",
       "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Achievement_065",
@@ -4467,7 +4472,7 @@
       "Name": "Curious Finch",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Achievement_066",
@@ -4507,14 +4512,14 @@
       "Name": "I Spit On Your Grave",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     }
   ],
   "AchievementSets": [
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2249,
+      "Progressed": 2253,
       "Completed": 0
     }
   ],
@@ -4522,8 +4527,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-01T12:00:40.1847166+00:00",
-  "LastChanged_Achievements": "2024-01-04T21:04:09.5572765+00:00",
+  "LastChanged_Achievements": "2024-01-04T22:04:32.5579502+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.8280502+00:00",
-  "LastUpdate_Ratings": "2024-01-04T20:57:57.476047+00:00",
-  "LastUpdate_Achievements": "2024-01-04T21:04:09.5573378+00:00"
+  "LastUpdate_Ratings": "2024-01-04T21:58:16.279744+00:00",
+  "LastUpdate_Achievements": "2024-01-04T22:04:32.5580221+00:00"
 }

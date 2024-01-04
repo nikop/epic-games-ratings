@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1254,
+  "EOS_Progressed": 1256,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3192,6 +3192,11 @@
       "Time": "2024-01-04T20:09:16.0124019+00:00",
       "NumProgressed": 1254,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-04T22:09:02.610356+00:00",
+      "NumProgressed": 1256,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -3212,7 +3217,7 @@
       "Name": "Territorial",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "Capture100VictoryPoints",
@@ -3260,7 +3265,7 @@
       "Name": "Pathfinder",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 978
+      "UsersEstimate": 980
     },
     {
       "ID": "CompleteChapter10",
@@ -3276,7 +3281,7 @@
       "Name": "The Artefact is Mine",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "CompleteChapter12",
@@ -3284,7 +3289,7 @@
       "Name": "Grumblin\u0027 Bellies",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "CompleteChapter13",
@@ -3348,7 +3353,7 @@
       "Name": "Met the Enemy",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 752
+      "UsersEstimate": 754
     },
     {
       "ID": "CompleteChapter3",
@@ -3356,7 +3361,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "CompleteChapter4",
@@ -3364,15 +3369,15 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "CompleteChapter5",
       "SetID": "52ail55",
       "Name": "Breathing Easy",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 301
+      "UsersEstimate": 314
     },
     {
       "ID": "CompleteChapter6",
@@ -3386,9 +3391,9 @@
       "ID": "CompleteChapter7",
       "SetID": "52ail55",
       "Name": "First to be Forged, Never to Fail!",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 238
+      "UsersEstimate": 226
     },
     {
       "ID": "CompleteChapter8",
@@ -3452,7 +3457,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "Win100OnlineMatched",
@@ -3499,14 +3504,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 1254,
+      "Progressed": 1256,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2024-01-04T21:08:54.6081581+00:00",
+  "LastChanged_Achievements": "2024-01-04T22:09:02.6103552+00:00",
   "LastUpdate_AppInfo": "2023-12-29T09:57:13.5043463+00:00",
-  "LastUpdate_Ratings": "2024-01-04T21:01:37.3237993+00:00",
-  "LastUpdate_Achievements": "2024-01-04T21:08:54.608197+00:00"
+  "LastUpdate_Ratings": "2024-01-04T22:02:12.5008299+00:00",
+  "LastUpdate_Achievements": "2024-01-04T22:09:02.6104053+00:00"
 }

@@ -38,8 +38,8 @@ Rating: 4.71 (Ranked 202)
 | Unstoppable Horde | 34.00% | ~244 |
 | Master of the Undead | 34.00% | ~244 |
 | The Finitude Drill | 33.00% | ~237 |
+| Ghost Pirates? Ghost Heroes! | 30.00% | ~216 |
 | Doom Hill | 30.00% | ~216 |
-| Ghost Pirates? Ghost Heroes! | 29.00% | ~209 |
 | Forbidden Knowledge | 28.00% | ~201 |
 | Brimstone Shaken, Not Stirred | 28.00% | ~201 |
 | Hungry, Hungry Gorgu! | 27.00% | ~194 |

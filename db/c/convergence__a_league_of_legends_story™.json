@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -51,9 +51,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1227,
+  "EOS_Progressed": 1228,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -3596,6 +3596,11 @@
       "Time": "2024-01-04T21:10:56.8946755+00:00",
       "NumProgressed": 1227,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-04T22:11:11.2877726+00:00",
+      "NumProgressed": 1228,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3687,7 +3692,7 @@
       "Name": "Cultivair Explorer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "EntresolChests1",
@@ -3935,7 +3940,7 @@
       "Name": "Fast Learner",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "SpeedRun",
@@ -3967,7 +3972,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "TheaterChests1",
@@ -3991,7 +3996,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "WatcherFought",
@@ -4015,7 +4020,7 @@
       "Name": "The Brass Boss",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "Zarkon2Defeated",
@@ -4030,7 +4035,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1227,
+      "Progressed": 1228,
       "Completed": 6
     }
   ],
@@ -4038,8 +4043,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2024-01-04T21:10:56.8946753+00:00",
+  "LastChanged_Achievements": "2024-01-04T22:11:11.2877721+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:23.9308133+00:00",
-  "LastUpdate_Ratings": "2024-01-04T21:02:55.4041563+00:00",
-  "LastUpdate_Achievements": "2024-01-04T21:10:56.8947258+00:00"
+  "LastUpdate_Ratings": "2024-01-04T22:02:50.3498835+00:00",
+  "LastUpdate_Achievements": "2024-01-04T22:11:11.2878458+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "b3d490d845c040ee82fd02f400ab0efc",
   "Name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
   "ProductSlug": "spongebob-squarepants-battle-for-bikini-bottom-rehydrated",
-  "Ranking_Rating": 300,
+  "Ranking_Rating": 299,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 315,
@@ -335,9 +335,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 712,
+  "EOS_Progressed": 713,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 246,
+  "EOS_NewPlayers": 247,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -1930,6 +1930,11 @@
       "Time": "2024-01-04T20:05:57.5279272+00:00",
       "NumProgressed": 712,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-04T22:05:52.9305703+00:00",
+      "NumProgressed": 713,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1958,7 +1963,7 @@
       "Name": "The Small Does Not Rule",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_COMPLETION",
@@ -1990,7 +1995,7 @@
       "Name": "Ship Shape",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_FIND_BB_SPATULAS",
@@ -2006,7 +2011,7 @@
       "Name": "Shanghaied",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_JELLYFISHING",
@@ -2030,7 +2035,7 @@
       "Name": "Kelp Forest of Fear",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_MERMALAIR",
@@ -2070,7 +2075,7 @@
       "Name": "SpongeBob vs SpongeBob!",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_ROCK_BOTTOM",
@@ -2086,7 +2091,7 @@
       "Name": "Sleepy Time",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_SOCK_CONCERT",
@@ -2094,7 +2099,7 @@
       "Name": "Sock Concert",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_SOCK_OPERA",
@@ -2190,22 +2195,22 @@
       "Name": "Time For Tutorial",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     }
   ],
   "AchievementSets": [
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 712,
+      "Progressed": 713,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-04T21:00:59.1702575+00:00",
-  "LastChanged_Achievements": "2024-01-04T21:05:26.2103523+00:00",
+  "LastChanged_Achievements": "2024-01-04T22:05:52.9305698+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:11.8880921+00:00",
-  "LastUpdate_Ratings": "2024-01-04T21:00:59.1702582+00:00",
-  "LastUpdate_Achievements": "2024-01-04T21:05:26.2103813+00:00"
+  "LastUpdate_Ratings": "2024-01-04T22:01:33.020805+00:00",
+  "LastUpdate_Achievements": "2024-01-04T22:05:52.9305973+00:00"
 }

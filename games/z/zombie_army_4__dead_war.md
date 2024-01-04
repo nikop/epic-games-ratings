@@ -74,7 +74,7 @@ Number of Ratings: 743  (23.09.2022)
 | None more hard | 0.60% | ~266 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 44,342 (Ranked 129)  
-Completed: 25 (0.06%) (Ranked 328)  
+Completed: 25 (0.06%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -335,14 +335,14 @@ Completed: 25 (0.06%) (Ranked 328)
 | 2024-01-04 | 44,342 | 25 |
 ## Awards
 Max (Great Boss Battles): 872  (Ranked 173)  
-Sum: 2,624 (Ranked 198)  
+Sum: 2,626 (Ranked 198)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 872 |
 | This game is Great for Beginners | 280 |
-| This game has Diverse Characters | 224 |
-| This game is Highly Recommended | 222 |
+| This game has Diverse Characters | 225 |
+| This game is Highly Recommended | 223 |
 | This game has Amazing Storytelling | 218 |
 | This game is Extremely Fun | 213 |
 | This game has Quickly Understood Controls | 211 |
@@ -600,4 +600,4 @@ Diff (max vs sum): -25
 | 2024-01-01 | 4.69 | - | 869 | 2,618 |
 | 2024-01-02 | 4.69 | - | 869 | 2,619 |
 | 2024-01-03 | 4.69 | - | 869 | 2,621 |
-| 2024-01-04 | 4.69 | - | 872 | 2,624 |
+| 2024-01-04 | 4.69 | - | 872 | 2,626 |

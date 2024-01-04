@@ -1,28 +1,28 @@
 # Tropico 6
 [Store](https://store.epicgames.com/en-US/p/tropico-6)  
 [View Rawdata](../../db/t/tropico_6.json)  
-Rating: 4.66 (Ranked 300)  
+Rating: 4.66 (Ranked 299)  
 Number of Ratings: 398  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 73.00% | ~5,032 |
-| Un-Lonely Island | 45.00% | ~3,102 |
-| The Beginning of a Servantship | 44.00% | ~3,033 |
-| Trade Is My Trait | 36.00% | ~2,481 |
-| Number 18 | 23.00% | ~1,585 |
+| Just One...More...Term... | 73.00% | ~5,035 |
+| Un-Lonely Island | 45.00% | ~3,104 |
+| The Beginning of a Servantship | 44.00% | ~3,035 |
+| Trade Is My Trait | 36.00% | ~2,483 |
+| Number 18 | 23.00% | ~1,586 |
 | We Don't Have Time For That | 18.00% | ~1,241 |
 | The Governator | 17.00% | ~1,172 |
-| The Legend of Langostino | 16.00% | ~1,103 |
-| Caribbean Comrade | 15.00% | ~1,034 |
-| The Dreamer of Dreams | 15.00% | ~1,034 |
-| Go Sovereigns! | 11.00% | ~758 |
-| For Science! | 11.00% | ~758 |
-| Happy Ending? | 10.00% | ~689 |
-| Of Seals And Men | 9.00% | ~620 |
-| Shackadelic | 9.00% | ~620 |
-| Double Trouble | 8.00% | ~551 |
-| Firestarter | 8.00% | ~551 |
+| The Legend of Langostino | 16.00% | ~1,104 |
+| Caribbean Comrade | 15.00% | ~1,035 |
+| The Dreamer of Dreams | 15.00% | ~1,035 |
+| Go Sovereigns! | 11.00% | ~759 |
+| For Science! | 11.00% | ~759 |
+| Happy Ending? | 10.00% | ~690 |
+| Of Seals And Men | 9.00% | ~621 |
+| Shackadelic | 9.00% | ~621 |
+| Double Trouble | 8.00% | ~552 |
+| Firestarter | 8.00% | ~552 |
 | Make Tropico Great Again! | 7.00% | ~483 |
 | French Connection | 7.00% | ~483 |
 | Don't Panic! | 6.00% | ~414 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~55 |
 | My Ways | 0.20% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,893 (Ranked 195)  
+Progressed: 6,897 (Ranked 195)  
 Completed: 2 (0.03%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 2 (0.03%) (Ranked 352)
 | 2024-01-01 | 6,834 | 2 |
 | 2024-01-02 | 6,856 | 2 |
 | 2024-01-03 | 6,872 | 2 |
-| 2024-01-04 | 6,893 | 2 |
+| 2024-01-04 | 6,897 | 2 |
 ## Awards
 Max (Highly Recommended): 106  (Ranked 368)  
 Sum: 754 (Ranked 303)  

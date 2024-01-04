@@ -44,12 +44,12 @@
 | Yngrid's Tale | 9.00% | ~10 |
 | A Joke | 9.00% | ~10 |
 | The Forge of Regan Gor | 8.00% | ~9 |
+| Fireforge | 8.00% | ~9 |
 | Friend of Uram Gor | 8.00% | ~9 |
 | Defeat Hokan | 7.00% | ~8 |
 | Defeat Raith | 7.00% | ~8 |
 | Lore's Tale | 7.00% | ~8 |
 | Tuscari Sea Portal | 7.00% | ~8 |
-| Fireforge | 7.00% | ~8 |
 | A Monopoly of Might | 7.00% | ~8 |
 | Balanced | 7.00% | ~8 |
 | Defeat Undergast | 6.00% | ~7 |

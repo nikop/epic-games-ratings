@@ -7,6 +7,8 @@
 | A Greener Day | 3.00% | ~6 |
 | A Sad Moment | 3.00% | ~6 |
 | Taking Notes | 3.00% | ~6 |
+| The Mendel Experiment | 3.00% | ~6 |
+| Time for Renovations | 3.00% | ~6 |
 | Budding Scientist | 2.00% | ~4 |
 | Dry No More | 2.00% | ~4 |
 | Hands in the Dirt | 2.00% | ~4 |
@@ -21,8 +23,6 @@
 | Room Revealer | 2.00% | ~4 |
 | Seed of Love | 2.00% | ~4 |
 | Spray Spray Spray | 2.00% | ~4 |
-| The Mendel Experiment | 2.00% | ~4 |
-| Time for Renovations | 2.00% | ~4 |
 | Water Water Water | 2.00% | ~4 |
 | Who's a Good Plant? | 2.00% | ~4 |
 | Balcony Optimizer | 1.00% | ~2 |
@@ -36,7 +36,7 @@
 | Love and Science | 0.90% | ~2 |
 | Perfectionist | 0.90% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212 (Ranked 424)  
+Progressed: 213 (Ranked 423)  
 Completed: 1 (0.47%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,6 +101,7 @@ Completed: 1 (0.47%) (Ranked 224)
 | 2023-12-22 | 210 | 0 |
 | 2023-12-25 | 212 | 0 |
 | 2024-01-03 | 212 | 1 |
+| 2024-01-04 | 213 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

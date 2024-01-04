@@ -48,7 +48,7 @@ Rating: 3.96 (Ranked 1,054)
 | Geek Out | 0.10% | ~93 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 93,005 (Ranked 101)  
-Completed: 58 (0.06%) (Ranked 328)  
+Completed: 58 (0.06%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
