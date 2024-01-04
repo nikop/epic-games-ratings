@@ -6,19 +6,19 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,913 |
-| I'll Be Back | 84.00% | ~4,391 |
-| Sorry, I Dropped This | 76.00% | ~3,973 |
-| First Day on the Job | 76.00% | ~3,973 |
-| Butcher's Bill | 54.00% | ~2,823 |
-| P.A.X | 37.00% | ~1,934 |
+| On My Own Two Feet | 94.00% | ~4,915 |
+| I'll Be Back | 84.00% | ~4,392 |
+| Sorry, I Dropped This | 76.00% | ~3,974 |
+| First Day on the Job | 76.00% | ~3,974 |
+| Butcher's Bill | 54.00% | ~2,824 |
+| P.A.X | 37.00% | ~1,935 |
 | Hey Listen | 36.00% | ~1,882 |
-| OPERATOR | 35.00% | ~1,829 |
-| It's Blue Light | 33.00% | ~1,725 |
-| Most Wanted | 26.00% | ~1,359 |
-| Infidel | 23.00% | ~1,202 |
-| Firebug | 20.00% | ~1,045 |
-| GOLIATH | 20.00% | ~1,045 |
+| OPERATOR | 35.00% | ~1,830 |
+| It's Blue Light | 33.00% | ~1,726 |
+| Most Wanted | 26.00% | ~1,360 |
+| Infidel | 23.00% | ~1,203 |
+| GOLIATH | 21.00% | ~1,098 |
+| Firebug | 20.00% | ~1,046 |
 | I Choose You | 17.00% | ~889 |
 | Nothing to Lose | 17.00% | ~889 |
 | Big Sister | 15.00% | ~784 |
@@ -31,9 +31,9 @@ Number of Ratings: 62  (23.09.2022)
 | Who's in Charge Here? | 11.00% | ~575 |
 | Shall Not Pass | 11.00% | ~575 |
 | Right Tool for the Job | 10.00% | ~523 |
-| Melting Down | 9.00% | ~470 |
-| Raging Drones | 9.00% | ~470 |
-| Overconfident | 9.00% | ~470 |
+| Melting Down | 9.00% | ~471 |
+| Raging Drones | 9.00% | ~471 |
+| Overconfident | 9.00% | ~471 |
 | Pusher Man | 8.00% | ~418 |
 | Squad Chief Helvig | 8.00% | ~418 |
 | No More Marching | 8.00% | ~418 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~31 |
 | The Surge | 0.40% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,227 (Ranked 202)  
+Progressed: 5,229 (Ranked 202)  
 Completed: 18 (0.34%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 18 (0.34%) (Ranked 242)
 | 2024-01-01 | 5,186 | 18 |
 | 2024-01-02 | 5,210 | 18 |
 | 2024-01-03 | 5,224 | 18 |
-| 2024-01-04 | 5,227 | 18 |
+| 2024-01-04 | 5,229 | 18 |
 ## Awards
 Max (Great Boss Battles): 30  (Ranked 518)  
 Sum: 30 (Ranked 538)  

@@ -6,7 +6,7 @@ Number of Ratings: 67  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mint I | 6.00% | ~24 |
+| Mint I | 5.00% | ~20 |
 | Soul Cache | 5.00% | ~20 |
 | Mammon | 2.00% | ~8 |
 | Astarte | 1.00% | ~4 |
@@ -16,19 +16,19 @@ Number of Ratings: 67  (23.09.2022)
 | Master of Strife | 1.00% | ~4 |
 | Master of War | 1.00% | ~4 |
 | The Dead Court | 1.00% | ~4 |
-| Mint II | 0.80% | ~3 |
-| Why'd It Have to Be Snakes? | 0.80% | ~3 |
+| Mint II | 0.70% | ~3 |
+| Why'd It Have to Be Snakes? | 0.70% | ~3 |
 | A Bullet for All Seasons | 0.50% | ~2 |
 | Good Deeds | 0.50% | ~2 |
 | Infested | 0.50% | ~2 |
 | Mint III | 0.50% | ~2 |
 | Walking Armory | 0.50% | ~2 |
-| Are You Not Entertained? | 0.30% | ~1 |
-| Collector | 0.30% | ~1 |
-| Full of Hell | 0.30% | ~1 |
-| Gatekeeper | 0.30% | ~1 |
-| The Promised End | 0.30% | ~1 |
-| Wicked Killington | 0.30% | ~1 |
+| Are You Not Entertained? | 0.20% | ~1 |
+| Collector | 0.20% | ~1 |
+| Full of Hell | 0.20% | ~1 |
+| Gatekeeper | 0.20% | ~1 |
+| The Promised End | 0.20% | ~1 |
+| Wicked Killington | 0.20% | ~1 |
 | Belial | 0.00% | ~0 |
 | Blademaster | 0.00% | ~0 |
 | Dagon | 0.00% | ~0 |
@@ -37,7 +37,7 @@ Number of Ratings: 67  (23.09.2022)
 | Respect For Animals | 0.00% | ~0 |
 | Garden of Forking Paths | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 400 (Ranked 361)  
+Progressed: 401 (Ranked 361)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,7 +59,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-01 | 356 | 0 |
 | 2024-01-02 | 373 | 0 |
 | 2024-01-03 | 396 | 0 |
-| 2024-01-04 | 400 | 0 |
+| 2024-01-04 | 401 | 0 |
 ## Awards
 Max (Great Boss Battles): 45  (Ranked 467)  
 Sum: 45 (Ranked 514)  

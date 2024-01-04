@@ -4,7 +4,7 @@
   "ProductSlug": "xuan-yuan-sword-7-22c442",
   "Ranking_EOS_Progress": 572,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 476,
+  "Ranking_EOS_NewPlayers": 477,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-09-06T02:00:00+00:00",
@@ -250,9 +250,9 @@
       "ID": "BloodForBlood",
       "SetID": "c8fdd59",
       "Name": "Blood For Blood",
-      "Percentage": 8,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "BuyLowSellHigh",
@@ -394,9 +394,9 @@
       "ID": "Chapter16_ToEndItAll",
       "SetID": "c8fdd59",
       "Name": "To End It All",
-      "Percentage": 8,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Chapter17_DustSettled",
@@ -546,9 +546,9 @@
       "ID": "ThousandMiles",
       "SetID": "c8fdd59",
       "Name": "Thousand Miles",
-      "Percentage": 8,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "UltimateWeapon",
@@ -593,8 +593,8 @@
   ],
   "FirstSeen": "2023-09-08T10:00:07.3821883+00:00",
   "FirstSeenAchievements": "2023-08-28T07:03:21.9021387+00:00",
-  "LastChanged_Achievements": "2024-01-04T04:10:09.2201431+00:00",
+  "LastChanged_Achievements": "2024-01-04T05:10:20.6531738+00:00",
   "LastUpdate_AppInfo": "2024-01-01T17:57:04.7287115+00:00",
-  "LastUpdate_Ratings": "2024-01-04T04:02:37.793519+00:00",
-  "LastUpdate_Achievements": "2024-01-04T04:10:09.2201928+00:00"
+  "LastUpdate_Ratings": "2024-01-04T05:00:50.3997833+00:00",
+  "LastUpdate_Achievements": "2024-01-04T05:10:20.6531997+00:00"
 }

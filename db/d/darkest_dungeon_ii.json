@@ -10494,9 +10494,9 @@
       "Count": 1079
     }
   ],
-  "EOS_Progressed": 131567,
+  "EOS_Progressed": 131574,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1277,
+  "EOS_NewPlayers": 1283,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38239,6 +38239,11 @@
       "Time": "2024-01-04T04:09:42.828117+00:00",
       "NumProgressed": 131567,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-04T05:09:56.3220834+00:00",
+      "NumProgressed": 131574,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38258,7 +38263,7 @@
       "Name": "Serenity Now!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6578
+      "UsersEstimate": 6579
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -38410,7 +38415,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6578
+      "UsersEstimate": 6579
     },
     {
       "ID": "combat_kill_fanatics",
@@ -38450,7 +38455,7 @@
       "Name": "Meat and Greet",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6578
+      "UsersEstimate": 6579
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -38466,7 +38471,7 @@
       "Name": "Catch and Decease",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6578
+      "UsersEstimate": 6579
     },
     {
       "ID": "combat_kill_librarian",
@@ -38474,7 +38479,7 @@
       "Name": "Overdue Notice",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6578
+      "UsersEstimate": 6579
     },
     {
       "ID": "combat_kill_pillagers",
@@ -38490,7 +38495,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6578
+      "UsersEstimate": 6579
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -38786,7 +38791,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "combat_kill_collector",
@@ -38794,7 +38799,7 @@
       "Name": "This guy... again?",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -38810,7 +38815,7 @@
       "Name": "No Mercy",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "combat_land_riposte_dmg_threshold_duelist",
@@ -38826,7 +38831,7 @@
       "Name": "Et Tu, Riposte?",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "hero_story_complete_crusader",
@@ -38858,7 +38863,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -38881,21 +38886,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131567,
+      "Progressed": 131574,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6436,
+      "Progressed": 6443,
       "Completed": 821
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-04T01:45:58.9475308+00:00",
-  "LastChanged_Achievements": "2024-01-04T04:09:42.8281167+00:00",
+  "LastChanged_Achievements": "2024-01-04T05:09:56.3220832+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-04T03:59:26.2107863+00:00",
-  "LastUpdate_Achievements": "2024-01-04T04:09:42.8282965+00:00"
+  "LastUpdate_Ratings": "2024-01-04T04:59:38.0866545+00:00",
+  "LastUpdate_Achievements": "2024-01-04T05:09:56.3222651+00:00"
 }

@@ -397,9 +397,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 1870,
+  "EOS_Progressed": 1871,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -3322,6 +3322,11 @@
       "Time": "2024-01-03T22:05:55.9244631+00:00",
       "NumProgressed": 1870,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-04T05:06:25.255481+00:00",
+      "NumProgressed": 1871,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 38,
@@ -3333,15 +3338,15 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1833
+      "UsersEstimate": 1834
     },
     {
       "ID": "ACHIEVEMENTS_02",
       "SetID": "d4o538a",
       "Name": "Great Doctor",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 935
+      "UsersEstimate": 917
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -3379,9 +3384,9 @@
       "ID": "ACHIEVEMENTS_07",
       "SetID": "d4o538a",
       "Name": "K.O.!",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 804
+      "UsersEstimate": 786
     },
     {
       "ID": "ACHIEVEMENTS_08",
@@ -3389,7 +3394,7 @@
       "Name": "The First Step",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 1627
+      "UsersEstimate": 1628
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -3405,7 +3410,7 @@
       "Name": "Intermediate Chemist",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "ACHIEVEMENTS_11",
@@ -3421,7 +3426,7 @@
       "Name": "Amateur Chef",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "ACHIEVEMENTS_13",
@@ -3429,7 +3434,7 @@
       "Name": "Line Cook",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "ACHIEVEMENTS_14",
@@ -3445,7 +3450,7 @@
       "Name": "Friendly",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 860
+      "UsersEstimate": 861
     },
     {
       "ID": "ACHIEVEMENTS_16",
@@ -3453,7 +3458,7 @@
       "Name": "Sociable",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "ACHIEVEMENTS_17",
@@ -3467,9 +3472,9 @@
       "ID": "ACHIEVEMENTS_18",
       "SetID": "d4o538a",
       "Name": "Dog Whisperer",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 879
+      "UsersEstimate": 898
     },
     {
       "ID": "ACHIEVEMENTS_19",
@@ -3501,7 +3506,7 @@
       "Name": "The Capitalist",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 804
+      "UsersEstimate": 805
     },
     {
       "ID": "ACHIEVEMENTS_23",
@@ -3573,7 +3578,7 @@
       "Name": "Ablutomaniac",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "ACHIEVEMENTS_32",
@@ -3597,7 +3602,7 @@
       "Name": "Moonbury Traveller",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1178
+      "UsersEstimate": 1179
     },
     {
       "ID": "ACHIEVEMENTS_35",
@@ -3636,7 +3641,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1870,
+      "Progressed": 1871,
       "Completed": 11
     }
   ],
@@ -3644,8 +3649,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-12-28T09:03:17.5303608+00:00",
-  "LastChanged_Achievements": "2024-01-04T04:06:21.4354257+00:00",
+  "LastChanged_Achievements": "2024-01-04T05:06:25.2554807+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:18.8535407+00:00",
-  "LastUpdate_Ratings": "2024-01-04T03:59:11.4327711+00:00",
-  "LastUpdate_Achievements": "2024-01-04T04:06:21.4354604+00:00"
+  "LastUpdate_Ratings": "2024-01-04T04:59:23.7402+00:00",
+  "LastUpdate_Achievements": "2024-01-04T05:06:25.2555285+00:00"
 }

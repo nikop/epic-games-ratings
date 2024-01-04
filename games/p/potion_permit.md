@@ -5,29 +5,29 @@ Rating: 3.85 (Ranked 1,068)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,833 |
-| The First Step | 87.00% | ~1,627 |
-| Moonbury Traveller | 63.00% | ~1,178 |
+| Welcome to Moonbury | 98.00% | ~1,834 |
+| The First Step | 87.00% | ~1,628 |
+| Moonbury Traveller | 63.00% | ~1,179 |
 | Rookie Chemist | 61.00% | ~1,141 |
-| Great Doctor | 50.00% | ~935 |
-| Dog Whisperer | 47.00% | ~879 |
-| Friendly | 46.00% | ~860 |
-| K.O.! | 43.00% | ~804 |
-| The Capitalist | 43.00% | ~804 |
-| Intermediate Chemist | 39.00% | ~729 |
+| Great Doctor | 49.00% | ~917 |
+| Dog Whisperer | 48.00% | ~898 |
+| Friendly | 46.00% | ~861 |
+| The Capitalist | 43.00% | ~805 |
+| K.O.! | 42.00% | ~786 |
+| Intermediate Chemist | 39.00% | ~730 |
 | Decorative Mind | 33.00% | ~617 |
 | Lumber Specialist | 31.00% | ~580 |
 | Kind-hearted | 25.00% | ~468 |
 | Catch of the Day | 25.00% | ~468 |
-| Amateur Chef | 22.00% | ~411 |
+| Amateur Chef | 22.00% | ~412 |
 | Fishing Guru | 20.00% | ~374 |
 | Spark of Love | 18.00% | ~337 |
 | Community Helper | 17.00% | ~318 |
 | Expert Chemist | 14.00% | ~262 |
 | Stone Specialist | 14.00% | ~262 |
-| Line Cook | 12.00% | ~224 |
-| Sociable | 12.00% | ~224 |
-| Ablutomaniac | 12.00% | ~224 |
+| Line Cook | 12.00% | ~225 |
+| Sociable | 12.00% | ~225 |
+| Ablutomaniac | 12.00% | ~225 |
 | Production Sorter | 11.00% | ~206 |
 | Good Samaritan | 10.00% | ~187 |
 | Acrobatic Adventurer | 9.00% | ~168 |
@@ -44,7 +44,7 @@ Rating: 3.85 (Ranked 1,068)
 | Moonbury Navigator | 1.00% | ~19 |
 | Being a donut... | 0.70% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,870 (Ranked 250)  
+Progressed: 1,871 (Ranked 250)  
 Completed: 11 (0.59%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,6 +228,7 @@ Completed: 11 (0.59%) (Ranked 206)
 | 2024-01-01 | 1,851 | 11 |
 | 2024-01-02 | 1,866 | 11 |
 | 2024-01-03 | 1,870 | 11 |
+| 2024-01-04 | 1,871 | 11 |
 ## Awards
 Max (Character Customization): 70  (Ranked 416)  
 Sum: 70 (Ranked 488)  

@@ -21,16 +21,16 @@ Number of Ratings: 15,086  (23.09.2022)
 | A Donation | 0.90% | ~2,181 |
 | Explorer | 0.90% | ~2,181 |
 | Not Touching You | 0.90% | ~34 |
-| Ambitious Intent | 0.80% | ~1,938 |
-| Delving Deeper | 0.80% | ~1,938 |
-| R.I.P | 0.80% | ~1,938 |
-| The Bestiary | 0.80% | ~1,938 |
-| Heartless | 0.80% | ~1,938 |
-| What's Yours Is Mine | 0.80% | ~1,938 |
-| Spine Breaker | 0.80% | ~1,938 |
-| C-C-Combo | 0.80% | ~1,938 |
-| Deflection | 0.80% | ~1,938 |
-| Sneaky | 0.80% | ~1,938 |
+| Ambitious Intent | 0.80% | ~1,939 |
+| Delving Deeper | 0.80% | ~1,939 |
+| R.I.P | 0.80% | ~1,939 |
+| The Bestiary | 0.80% | ~1,939 |
+| Heartless | 0.80% | ~1,939 |
+| What's Yours Is Mine | 0.80% | ~1,939 |
+| Spine Breaker | 0.80% | ~1,939 |
+| C-C-Combo | 0.80% | ~1,939 |
+| Deflection | 0.80% | ~1,939 |
+| Sneaky | 0.80% | ~1,939 |
 | Dig Your Own Grave | 0.70% | ~1,696 |
 | Who To Trust? | 0.70% | ~1,696 |
 | Walk It Off | 0.70% | ~1,696 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,311 (Ranked 72)  
+Progressed: 242,316 (Ranked 72)  
 Completed: 304 (0.13%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -404,7 +404,7 @@ Completed: 304 (0.13%) (Ranked 296)
 | 2024-01-01 | 242,196 | 302 |
 | 2024-01-02 | 242,247 | 303 |
 | 2024-01-03 | 242,304 | 303 |
-| 2024-01-04 | 242,311 | 304 |
+| 2024-01-04 | 242,316 | 304 |
 ## Awards
 Max (Quickly Understood Controls): 1,513  (Ranked 136)  
 Sum: 11,784 (Ranked 89)  

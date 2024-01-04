@@ -445,9 +445,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 400,
+  "EOS_Progressed": 401,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1565,6 +1565,11 @@
       "Time": "2024-01-04T04:09:54.1761097+00:00",
       "NumProgressed": 400,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T05:10:06.8558008+00:00",
+      "NumProgressed": 401,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:09:59.7070954+00:00",
@@ -1583,7 +1588,7 @@
       "ID": "AreYouNotEntertained",
       "SetID": "329ak73",
       "Name": "Are You Not Entertained?",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -1623,7 +1628,7 @@
       "ID": "Collector",
       "SetID": "329ak73",
       "Name": "Collector",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 75,
       "UsersEstimate": 1
     },
@@ -1647,7 +1652,7 @@
       "ID": "FullofHell",
       "SetID": "329ak73",
       "Name": "Full of Hell",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -1655,7 +1660,7 @@
       "ID": "Gatekeeper",
       "SetID": "329ak73",
       "Name": "Gatekeeper",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -1711,15 +1716,15 @@
       "ID": "MintI",
       "SetID": "329ak73",
       "Name": "Mint I",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 20
     },
     {
       "ID": "MintII",
       "SetID": "329ak73",
       "Name": "Mint II",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -1783,7 +1788,7 @@
       "ID": "ThePromisedEnd",
       "SetID": "329ak73",
       "Name": "The Promised End",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 150,
       "UsersEstimate": 1
     },
@@ -1799,7 +1804,7 @@
       "ID": "WhydItHavetoBeSnakes",
       "SetID": "329ak73",
       "Name": "Why\u0027d It Have to Be Snakes?",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -1807,7 +1812,7 @@
       "ID": "WickedKillington",
       "SetID": "329ak73",
       "Name": "Wicked Killington",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 25,
       "UsersEstimate": 1
     }
@@ -1816,15 +1821,15 @@
     {
       "ID": "329ak73",
       "IsBase": true,
-      "Progressed": 400,
+      "Progressed": 401,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2023-12-28T14:59:58.8011191+00:00",
-  "LastChanged_Achievements": "2024-01-04T04:09:54.1761095+00:00",
+  "LastChanged_Achievements": "2024-01-04T05:10:06.8558004+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.7338435+00:00",
-  "LastUpdate_Ratings": "2024-01-04T03:59:28.3494195+00:00",
-  "LastUpdate_Achievements": "2024-01-04T04:09:54.1761306+00:00"
+  "LastUpdate_Ratings": "2024-01-04T04:59:39.8614632+00:00",
+  "LastUpdate_Achievements": "2024-01-04T05:10:06.8558278+00:00"
 }

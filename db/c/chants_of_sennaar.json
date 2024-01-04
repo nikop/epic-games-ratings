@@ -103,9 +103,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2316,
+  "EOS_Progressed": 2317,
   "EOS_Completed": 145,
-  "EOS_NewPlayers": 399,
+  "EOS_NewPlayers": 400,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 6.26,
   "EosHistory": [
@@ -6273,6 +6273,11 @@
       "Time": "2024-01-04T04:04:21.1159842+00:00",
       "NumProgressed": 2316,
       "NumCompleted": 145
+    },
+    {
+      "Time": "2024-01-04T05:04:35.1108137+00:00",
+      "NumProgressed": 2317,
+      "NumCompleted": 145
     }
   ],
   "TotalAchievements": 25,
@@ -6332,7 +6337,7 @@
       "Name": "Open door",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "META_RESULT_1-3",
@@ -6372,7 +6377,7 @@
       "Name": "A Link to the Past",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -6394,9 +6399,9 @@
       "ID": "OPTIONNAL_GAMES",
       "SetID": "2gma9an",
       "Name": "True G3M4R",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 672
+      "UsersEstimate": 695
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -6428,7 +6433,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1343
+      "UsersEstimate": 1344
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -6444,7 +6449,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1204
+      "UsersEstimate": 1205
     },
     {
       "ID": "PROGRESS_N2",
@@ -6476,14 +6481,14 @@
       "Name": "One last step",
       "Percentage": 27,
       "XP": 80,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2316,
+      "Progressed": 2317,
       "Completed": 145
     }
   ],
@@ -6491,8 +6496,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-02T16:02:46.9551572+00:00",
-  "LastChanged_Achievements": "2024-01-04T04:04:21.1159839+00:00",
+  "LastChanged_Achievements": "2024-01-04T05:04:35.1108133+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:09.4320521+00:00",
-  "LastUpdate_Ratings": "2024-01-04T04:02:43.8349225+00:00",
-  "LastUpdate_Achievements": "2024-01-04T04:04:21.1160187+00:00"
+  "LastUpdate_Ratings": "2024-01-04T05:03:06.8049162+00:00",
+  "LastUpdate_Achievements": "2024-01-04T05:04:35.1108592+00:00"
 }

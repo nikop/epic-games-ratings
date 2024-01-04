@@ -4,7 +4,7 @@
   "ProductSlug": "samorost-2-1b9bb1",
   "Ranking_EOS_Progress": 421,
   "Ranking_EOS_Completed": 8,
-  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewPlayers": 336,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 219,
+  "EOS_Progressed": 220,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 42.47,
+  "EOS_Completed_Percentage": 42.27,
   "EosHistory": [
     {
       "Time": "2023-06-30T19:02:26.4579198+00:00",
@@ -1469,6 +1469,11 @@
       "Time": "2024-01-04T00:05:47.0976632+00:00",
       "NumProgressed": 219,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2024-01-04T05:06:19.7019061+00:00",
+      "NumProgressed": 220,
+      "NumCompleted": 93
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.1574321+00:00",
@@ -1479,9 +1484,9 @@
       "ID": "Budoar",
       "SetID": "823jm6g",
       "Name": "Budoir",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 80,
-      "UsersEstimate": 145
+      "UsersEstimate": 143
     },
     {
       "ID": "Intro",
@@ -1489,15 +1494,15 @@
       "Name": "Intro",
       "Percentage": 95,
       "XP": 75,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "Kanalizace",
       "SetID": "823jm6g",
       "Name": "Sewers",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 75,
-      "UsersEstimate": 166
+      "UsersEstimate": 165
     },
     {
       "ID": "Kompotarna",
@@ -1505,7 +1510,7 @@
       "Name": "Pantry",
       "Percentage": 76,
       "XP": 80,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "Konec",
@@ -1513,7 +1518,7 @@
       "Name": "Happy End",
       "Percentage": 44,
       "XP": 75,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "Les",
@@ -1521,7 +1526,7 @@
       "Name": "Woods",
       "Percentage": 60,
       "XP": 80,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "Majak",
@@ -1529,7 +1534,7 @@
       "Name": "Lighthouse",
       "Percentage": 44,
       "XP": 75,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "Nora",
@@ -1537,7 +1542,7 @@
       "Name": "Burrow",
       "Percentage": 60,
       "XP": 75,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "Planina",
@@ -1545,15 +1550,15 @@
       "Name": "Plain",
       "Percentage": 60,
       "XP": 80,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "Poklop",
       "SetID": "823jm6g",
       "Name": "Hatch",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 75,
-      "UsersEstimate": 184
+      "UsersEstimate": 183
     },
     {
       "ID": "Snekoun",
@@ -1561,15 +1566,15 @@
       "Name": "Snailman",
       "Percentage": 83,
       "XP": 80,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "Sopouch",
       "SetID": "823jm6g",
       "Name": "Pit",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 75,
-      "UsersEstimate": 171
+      "UsersEstimate": 169
     },
     {
       "ID": "Tuleni",
@@ -1584,14 +1589,14 @@
     {
       "ID": "823jm6g",
       "IsBase": true,
-      "Progressed": 219,
+      "Progressed": 220,
       "Completed": 93
     }
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2024-01-04T04:06:15.2860946+00:00",
+  "LastChanged_Achievements": "2024-01-04T05:06:19.701906+00:00",
   "LastUpdate_AppInfo": "2023-12-30T07:56:58.6269869+00:00",
-  "LastUpdate_Ratings": "2024-01-04T03:58:54.4175431+00:00",
-  "LastUpdate_Achievements": "2024-01-04T04:06:15.2861084+00:00"
+  "LastUpdate_Ratings": "2024-01-04T04:59:09.9316892+00:00",
+  "LastUpdate_Achievements": "2024-01-04T05:06:19.7019171+00:00"
 }

@@ -1,12 +1,12 @@
 # House Party
 [Store](https://store.epicgames.com/en-US/p/house-party-ae8b27)  
 [View Rawdata](../../db/h/house_party.json)  
-Rating: 4.32 (Ranked 854)  
+Rating: 4.32 (Ranked 853)  
 Number of Ratings: 177  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Friend in Need... | 6.00% | ~424 |
+| A Friend in Need... | 6.00% | ~425 |
 | Smooth Operator: Madison | 5.00% | ~354 |
 | The Brahdyssey | 3.00% | ~212 |
 | Caught in the Act | 3.00% | ~212 |
@@ -26,7 +26,6 @@ Number of Ratings: 177  (23.09.2022)
 | The Crush | 0.80% | ~57 |
 | Amy: Scavenger Hunt | 0.70% | ~50 |
 | Casanova | 0.70% | ~50 |
-| Deck the Balls | 0.70% | ~29 |
 | It Smells Like Roses | 0.70% | ~29 |
 | Now It's a Party! | 0.70% | ~50 |
 | Stephanie | 0.70% | ~50 |
@@ -35,6 +34,7 @@ Number of Ratings: 177  (23.09.2022)
 | Te Amo Lety | 0.70% | ~50 |
 | Benedict Brahrnold | 0.60% | ~42 |
 | I'll Be Back | 0.60% | ~42 |
+| Deck the Balls | 0.60% | ~25 |
 | Ashley | 0.50% | ~35 |
 | Love Conquers All | 0.50% | ~35 |
 | Rule 34 | 0.40% | ~28 |
@@ -50,6 +50,7 @@ Number of Ratings: 177  (23.09.2022)
 | Do You Smell Blood? | 0.30% | ~21 |
 | A Striking Resemblance | 0.30% | ~21 |
 | The Muse: Derek | 0.30% | ~21 |
+| Howz It Goin Dood | 0.30% | ~21 |
 | Derezzed | 0.30% | ~21 |
 | Congrats, A Celebrity Hates You | 0.20% | ~8 |
 | Doja's Dope-Ass Dinolicious Danceapalooza | 0.20% | ~8 |
@@ -57,7 +58,6 @@ Number of Ratings: 177  (23.09.2022)
 | Good Riddance! | 0.20% | ~14 |
 | I Know Grump-Fu | 0.20% | ~14 |
 | Ronin | 0.20% | ~14 |
-| Howz It Goin Dood | 0.20% | ~14 |
 | La Coochadora | 0.20% | ~14 |
 | Snapped | 0.20% | ~14 |
 | Against All Odds | 0.10% | ~7 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Most Wonderful Time of the Year | 0.10% | ~4 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,075 (Ranked 193)  
+Progressed: 7,077 (Ranked 193)  
 Completed: 3 (0.04%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,7 +326,7 @@ Completed: 3 (0.04%) (Ranked 346)
 | 2024-01-01 | 7,031 | 3 |
 | 2024-01-02 | 7,052 | 3 |
 | 2024-01-03 | 7,070 | 3 |
-| 2024-01-04 | 7,075 | 3 |
+| 2024-01-04 | 7,077 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

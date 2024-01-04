@@ -37,7 +37,7 @@ Rating: 4.46 (Ranked 672)
 | Precision Is Key | 10.00% | ~420 |
 | My Little Friend | 10.00% | ~420 |
 | Rigged to Blow | 9.00% | ~378 |
-| Herr Today, Gone Tomorrow | 7.00% | ~290 |
+| Herr Today, Gone Tomorrow | 7.00% | ~291 |
 | The Long Game | 6.00% | ~252 |
 | Operation Foxley | 6.00% | ~249 |
 | Strategist | 5.00% | ~210 |
@@ -53,9 +53,9 @@ Rating: 4.46 (Ranked 672)
 | Burn after reading | 3.00% | ~126 |
 | Souvenir hunter | 3.00% | ~126 |
 | Shoot for the Moon | 3.00% | ~126 |
-| If You Go Down To The Woods Today | 3.00% | ~124 |
-| Fight Another Day | 3.00% | ~124 |
-| Shipbreaker | 3.00% | ~124 |
+| If You Go Down To The Woods Today | 3.00% | ~125 |
+| Fight Another Day | 3.00% | ~125 |
+| Shipbreaker | 3.00% | ~125 |
 | Out of Scope | 2.00% | ~84 |
 | Eagle Eyed | 2.00% | ~84 |
 | Up close and personal | 2.00% | ~84 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 672)
 | Going Overboard | 0.60% | ~25 |
 | Stroll in the Woods | 0.50% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,199 (Ranked 208)  
+Progressed: 4,200 (Ranked 208)  
 Completed: 11 (0.26%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,7 +334,7 @@ Completed: 11 (0.26%) (Ranked 261)
 | 2024-01-01 | 4,182 | 11 |
 | 2024-01-02 | 4,190 | 11 |
 | 2024-01-03 | 4,197 | 11 |
-| 2024-01-04 | 4,199 | 11 |
+| 2024-01-04 | 4,200 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 530)  
 Sum: 28 (Ranked 546)  

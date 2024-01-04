@@ -5,20 +5,20 @@ Rating: 4.55 (Ranked 522)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 107.00% | ~19,194 |
-| Before the Downfall | 102.00% | ~18,297 |
-| Money like Water | 100.00% | ~17,938 |
-| Minimalist | 98.00% | ~17,579 |
-| Builder | 90.00% | ~16,144 |
-| Eraser | 76.00% | ~13,633 |
-| Pocket of Trains | 71.00% | ~12,736 |
+| Trevithick's Legacy | 107.00% | ~19,193 |
+| Before the Downfall | 102.00% | ~18,296 |
+| Money like Water | 100.00% | ~17,937 |
+| Minimalist | 98.00% | ~17,578 |
+| Builder | 90.00% | ~16,143 |
+| Eraser | 76.00% | ~13,632 |
+| Pocket of Trains | 71.00% | ~12,735 |
 | Inspector | 64.00% | ~11,480 |
 | Going the Distance | 59.00% | ~10,583 |
 | Oil Baron | 46.00% | ~8,251 |
 | Loads-a-Money | 46.00% | ~8,251 |
 | Helper of the People | 43.00% | ~7,713 |
 | Simplification | 37.00% | ~6,637 |
-| Box of Trains | 36.00% | ~6,458 |
+| Box of Trains | 36.00% | ~6,457 |
 | Let There be Light | 35.00% | ~6,278 |
 | Hot Water | 34.00% | ~6,099 |
 | Indecisive | 32.00% | ~5,740 |
@@ -33,7 +33,7 @@ Rating: 4.55 (Ranked 522)
 | Multiverse | 8.00% | ~1,435 |
 | The poor groundwater levels | 8.00% | ~1,435 |
 | Metropolis | 8.00% | ~1,435 |
-| High Flier | 4.00% | ~718 |
+| High Flier | 4.00% | ~717 |
 | To infinity, and beyond! | 3.00% | ~538 |
 | Space industrialization | 2.00% | ~359 |
 | Deertastic | 1.00% | ~179 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 522)
 | Overdeer | 0.60% | ~108 |
 | Cloud Services | 0.30% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,938 (Ranked 160)  
+Progressed: 17,937 (Ranked 160)  
 Completed: 26 (0.14%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |

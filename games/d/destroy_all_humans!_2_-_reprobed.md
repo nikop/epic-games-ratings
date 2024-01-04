@@ -6,28 +6,28 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 81.00% | ~245 |
-| Mash Machine | 75.00% | ~227 |
-| Ducks in a Row, Fish in a Barrel | 55.00% | ~167 |
-| Furon Fashion | 49.00% | ~148 |
-| Shop Til They Drop | 41.00% | ~124 |
-| Bodied Sattva | 38.00% | ~115 |
-| Cult Following | 35.00% | ~106 |
-| Earthly Pleasures | 35.00% | ~106 |
-| Lie Back and Think of Albion | 27.00% | ~82 |
-| Upgreatest | 26.00% | ~79 |
+| Rock of the Bay | 81.00% | ~248 |
+| Mash Machine | 75.00% | ~230 |
+| Ducks in a Row, Fish in a Barrel | 55.00% | ~168 |
+| Furon Fashion | 48.00% | ~147 |
+| Shop Til They Drop | 41.00% | ~125 |
+| Bodied Sattva | 38.00% | ~116 |
+| Cult Following | 35.00% | ~107 |
+| Earthly Pleasures | 35.00% | ~107 |
+| Lie Back and Think of Albion | 27.00% | ~83 |
+| Upgreatest | 26.00% | ~80 |
 | Pimp My Raid | 25.00% | ~76 |
 | Freshly Squeezed | 21.00% | ~64 |
 | I Look Up As I Walk to Takoshima | 20.00% | ~61 |
 | Perfect Probulator | 17.00% | ~52 |
 | Die Nasty | 17.00% | ~52 |
-| Transmitting From Sol-3 | 16.00% | ~48 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 12.00% | ~36 |
-| Kaijuiced | 10.00% | ~30 |
-| Fly Me to the Moon Base | 9.00% | ~27 |
+| Transmitting From Sol-3 | 15.00% | ~46 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 12.00% | ~37 |
+| Kaijuiced | 10.00% | ~31 |
+| Fly Me to the Moon Base | 9.00% | ~28 |
+| Scuttled | 8.00% | ~24 |
 | Re-Return of the Clone of the Invasion II-2 | 8.00% | ~24 |
 | Dusted | 8.00% | ~24 |
-| Scuttled | 7.00% | ~21 |
 | Lobster Blisque | 5.00% | ~15 |
 | Yettisoned | 5.00% | ~15 |
 | Ultimate Smoothie | 4.00% | ~12 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Ouch of Body Experience | 0.30% | ~1 |
 | Steezy Down the Spine | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 303 (Ranked 390)  
+Progressed: 306 (Ranked 390)  
 Completed: 1 (0.33%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 1 (0.33%) (Ranked 244)
 | 2024-01-01 | 279 | 1 |
 | 2024-01-02 | 291 | 1 |
 | 2024-01-03 | 301 | 1 |
-| 2024-01-04 | 303 | 1 |
+| 2024-01-04 | 306 | 1 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 494)  
 Sum: 36 (Ranked 526)  

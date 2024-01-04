@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1333,
+  "EOS_Progressed": 1334,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
@@ -3509,6 +3509,11 @@
       "Time": "2024-01-04T04:10:12.9627944+00:00",
       "NumProgressed": 1333,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T05:10:24.2516558+00:00",
+      "NumProgressed": 1334,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3520,7 +3525,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -3528,7 +3533,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -3582,9 +3587,9 @@
       "ID": "ATK_ACHIEVEMENT_4",
       "SetID": "9lcahn0",
       "Name": "Barkannan Cannot Be Pacified",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 13
     },
     {
       "ID": "BARK_ACHIEVEMENT_1",
@@ -3800,7 +3805,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -3808,7 +3813,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -3896,7 +3901,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -3968,7 +3973,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -3982,9 +3987,9 @@
       "ID": "RAPTOR_ACHIEVEMENT_3",
       "SetID": "9lcahn0",
       "Name": "Heavy Burden",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_4",
@@ -4038,23 +4043,23 @@
       "ID": "WINS_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Do You Accept The Challenge?",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 27
+      "UsersEstimate": 13
     }
   ],
   "AchievementSets": [
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1333,
+      "Progressed": 1334,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-04T04:10:12.9627942+00:00",
+  "LastChanged_Achievements": "2024-01-04T05:10:24.2516557+00:00",
   "LastUpdate_AppInfo": "2023-12-29T02:57:14.6537743+00:00",
-  "LastUpdate_Ratings": "2024-01-04T04:00:08.8044+00:00",
-  "LastUpdate_Achievements": "2024-01-04T04:10:12.9628759+00:00"
+  "LastUpdate_Ratings": "2024-01-04T05:00:16.2792917+00:00",
+  "LastUpdate_Achievements": "2024-01-04T05:10:24.2517206+00:00"
 }

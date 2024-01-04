@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 46,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9313,10 +9313,10 @@
       "Count": 3624
     }
   ],
-  "EOS_Progressed": 250662,
+  "EOS_Progressed": 250674,
   "EOS_Completed": 2588,
-  "EOS_NewPlayers": 4952,
-  "EOS_NewCompleters": 20,
+  "EOS_NewPlayers": 4926,
+  "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -38603,6 +38603,11 @@
       "Time": "2024-01-04T04:10:16.9159664+00:00",
       "NumProgressed": 250662,
       "NumCompleted": 2588
+    },
+    {
+      "Time": "2024-01-04T05:10:27.7805789+00:00",
+      "NumProgressed": 250674,
+      "NumCompleted": 2588
     }
   ],
   "TotalAchievements": 546,
@@ -42902,7 +42907,7 @@
       "Name": "Welcome to Sigil",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1735
+      "UsersEstimate": 1736
     },
     {
       "ID": "objective_completed_1558",
@@ -42981,21 +42986,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 216936,
+      "Progressed": 216948,
       "Completed": 4131
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 250662,
+      "Progressed": 250674,
       "Completed": 2588
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-04T03:58:47.9786606+00:00",
-  "LastChanged_Achievements": "2024-01-04T04:10:16.9159661+00:00",
+  "LastChanged_Achievements": "2024-01-04T05:10:27.7805786+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-04T03:58:47.9786611+00:00",
-  "LastUpdate_Achievements": "2024-01-04T04:10:16.9184231+00:00"
+  "LastUpdate_Ratings": "2024-01-04T04:59:04.2437175+00:00",
+  "LastUpdate_Achievements": "2024-01-04T05:10:27.7830821+00:00"
 }

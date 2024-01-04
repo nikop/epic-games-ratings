@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 670,
+  "EOS_Progressed": 671,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2104,6 +2104,11 @@
       "Time": "2024-01-04T04:09:53.4641511+00:00",
       "NumProgressed": 670,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T05:10:06.0755301+00:00",
+      "NumProgressed": 671,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -2148,7 +2153,7 @@
       "Name": "Hypnotorious: Brainiacs",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "HYPNO_OUTLIER_ID",
@@ -2212,7 +2217,7 @@
       "Name": "Timejinx: Timejinx",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "TIME_ORWELL",
@@ -2275,14 +2280,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 670,
+      "Progressed": 671,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2024-01-04T04:09:53.4641508+00:00",
+  "LastChanged_Achievements": "2024-01-04T05:10:06.0755297+00:00",
   "LastUpdate_AppInfo": "2023-12-30T02:16:13.4108208+00:00",
-  "LastUpdate_Ratings": "2024-01-04T03:58:58.3924295+00:00",
-  "LastUpdate_Achievements": "2024-01-04T04:09:53.4641793+00:00"
+  "LastUpdate_Ratings": "2024-01-04T04:59:13.4326813+00:00",
+  "LastUpdate_Achievements": "2024-01-04T05:10:06.075556+00:00"
 }

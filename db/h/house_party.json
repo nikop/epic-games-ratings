@@ -2,7 +2,7 @@
   "ID": "5f2fcf280d11455f8eab5c1e2a4d0392",
   "Name": "House Party",
   "ProductSlug": "house-party-ae8b27",
-  "Ranking_Rating": 854,
+  "Ranking_Rating": 853,
   "Ranking_Popularity": 578,
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 193,
@@ -383,9 +383,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7075,
+  "EOS_Progressed": 7077,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8253,6 +8253,11 @@
       "Time": "2024-01-04T02:31:01.3904109+00:00",
       "NumProgressed": 7075,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-04T05:09:08.8781713+00:00",
+      "NumProgressed": 7077,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -8374,9 +8379,9 @@
       "ID": "DeckTheBalls",
       "SetID": "5f3a6d9",
       "Name": "Deck the Balls",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 25
     },
     {
       "ID": "DnD_Ashley",
@@ -8440,7 +8445,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "GoodRiddance",
@@ -8694,9 +8699,9 @@
       "ID": "TM_Frank",
       "SetID": "bmkn7o4",
       "Name": "Howz It Goin Dood",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 21
     },
     {
       "ID": "TM_Madison",
@@ -8815,21 +8820,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 4114,
+      "Progressed": 4116,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 7075,
+      "Progressed": 7077,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-12-30T21:02:21.4914587+00:00",
-  "LastChanged_Achievements": "2024-01-04T04:08:51.895009+00:00",
+  "LastChanged_Achievements": "2024-01-04T05:09:08.878171+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:40.2112681+00:00",
-  "LastUpdate_Ratings": "2024-01-04T03:58:40.2181263+00:00",
-  "LastUpdate_Achievements": "2024-01-04T04:08:51.8951183+00:00"
+  "LastUpdate_Ratings": "2024-01-04T04:58:57.3127151+00:00",
+  "LastUpdate_Achievements": "2024-01-04T05:09:08.8782991+00:00"
 }

@@ -173,9 +173,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16338,
+  "EOS_Progressed": 16339,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 342,
+  "EOS_NewPlayers": 341,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -5798,6 +5798,11 @@
       "Time": "2024-01-04T04:09:32.4122424+00:00",
       "NumProgressed": 16338,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-04T05:09:46.5216301+00:00",
+      "NumProgressed": 16339,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -5810,7 +5815,7 @@
       "Name": "Revelations",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 6208
+      "UsersEstimate": 6209
     },
     {
       "ID": "ACH_AE_10",
@@ -5818,7 +5823,7 @@
       "Name": "Together We Fight",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1470
+      "UsersEstimate": 1471
     },
     {
       "ID": "ACH_AE_11",
@@ -5858,7 +5863,7 @@
       "Name": "Right Back At You",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3594
+      "UsersEstimate": 3595
     },
     {
       "ID": "ACH_AE_16",
@@ -6058,7 +6063,7 @@
       "Name": "Betrayal",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1470
+      "UsersEstimate": 1471
     },
     {
       "ID": "ACH_AE_7",
@@ -6082,14 +6087,14 @@
       "Name": "Paradise Lost",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1470
+      "UsersEstimate": 1471
     }
   ],
   "AchievementSets": [
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16338,
+      "Progressed": 16339,
       "Completed": 15
     }
   ],
@@ -6097,8 +6102,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2024-01-03T15:58:59.1983822+00:00",
-  "LastChanged_Achievements": "2024-01-04T04:09:32.4122421+00:00",
+  "LastChanged_Achievements": "2024-01-04T05:09:46.5216296+00:00",
   "LastUpdate_AppInfo": "2024-01-02T18:57:14.4864444+00:00",
-  "LastUpdate_Ratings": "2024-01-04T03:59:21.5024818+00:00",
-  "LastUpdate_Achievements": "2024-01-04T04:09:32.4122915+00:00"
+  "LastUpdate_Ratings": "2024-01-04T04:59:32.6696447+00:00",
+  "LastUpdate_Achievements": "2024-01-04T05:09:46.5216855+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "pc-building-simulator",
   "Ranking_Rating": 301,
   "Ranking_Popularity": 149,
-  "Ranking_PopularitySum": 111,
+  "Ranking_PopularitySum": 112,
   "Ranking_EOS_Progress": 5,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 52,
@@ -5773,9 +5773,9 @@
       "Count": 684
     }
   ],
-  "EOS_Progressed": 3603194,
+  "EOS_Progressed": 3603210,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 4231,
+  "EOS_NewPlayers": 4232,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35613,6 +35613,11 @@
       "Time": "2024-01-04T04:06:10.3220684+00:00",
       "NumProgressed": 3603194,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2024-01-04T05:06:15.075024+00:00",
+      "NumProgressed": 3603210,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 52,
@@ -35632,7 +35637,7 @@
       "Name": "The Best of Both Worlds",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 900798
+      "UsersEstimate": 900802
     },
     {
       "ID": "BRICK",
@@ -35664,7 +35669,7 @@
       "Name": "Double trouble",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 576511
+      "UsersEstimate": 576514
     },
     {
       "ID": "BUILD_2",
@@ -35688,7 +35693,7 @@
       "Name": "Back in the black",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1405246
+      "UsersEstimate": 1405252
     },
     {
       "ID": "CASH_2",
@@ -35720,7 +35725,7 @@
       "Name": "But can it run Crysis?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 324287
+      "UsersEstimate": 324289
     },
     {
       "ID": "DATE",
@@ -35752,7 +35757,7 @@
       "Name": "Get your wings",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 720639
+      "UsersEstimate": 720642
     },
     {
       "ID": "HBPC_TIME",
@@ -35784,7 +35789,7 @@
       "Name": "That\u0027s what I\u0027m talking about",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1044926
+      "UsersEstimate": 1044931
     },
     {
       "ID": "JOBS_2",
@@ -35792,7 +35797,7 @@
       "Name": "Smashing it",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 396351
+      "UsersEstimate": 396353
     },
     {
       "ID": "JOBS_3",
@@ -35824,7 +35829,7 @@
       "Name": "From humble beginnings...",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 252224
+      "UsersEstimate": 252225
     },
     {
       "ID": "LEVEL_2",
@@ -35864,7 +35869,7 @@
       "Name": "You need to plug it in...",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 1765565
+      "UsersEstimate": 1765573
     },
     {
       "ID": "NO_PASTE",
@@ -35872,7 +35877,7 @@
       "Name": "Easy to forget",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1657469
+      "UsersEstimate": 1657477
     },
     {
       "ID": "OPC_BM_1",
@@ -35928,7 +35933,7 @@
       "Name": "My favourite feature...",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 324287
+      "UsersEstimate": 324289
     },
     {
       "ID": "PLAY_MUSIC",
@@ -35984,7 +35989,7 @@
       "Name": "Customer satisfaction",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 252224
+      "UsersEstimate": 252225
     },
     {
       "ID": "STARS_2",
@@ -36039,15 +36044,15 @@
     {
       "ID": "m0injl",
       "IsBase": true,
-      "Progressed": 3603194,
+      "Progressed": 3603210,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:21:06.3204437+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:31.9861995+00:00",
   "LastChanged": "2024-01-03T13:58:25.2511374+00:00",
-  "LastChanged_Achievements": "2024-01-04T04:06:10.3220681+00:00",
+  "LastChanged_Achievements": "2024-01-04T05:06:15.0750237+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:55.9180203+00:00",
-  "LastUpdate_Ratings": "2024-01-04T03:58:15.3529404+00:00",
-  "LastUpdate_Achievements": "2024-01-04T04:06:10.3222073+00:00"
+  "LastUpdate_Ratings": "2024-01-04T04:58:33.6716194+00:00",
+  "LastUpdate_Achievements": "2024-01-04T05:06:15.0751812+00:00"
 }

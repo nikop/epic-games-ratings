@@ -17,7 +17,7 @@ Rating: 4.76 (Ranked 130)
 | Their Rock | 27.00% | ~206 |
 | Yuna's Promise | 26.00% | ~198 |
 | Stone Retriever | 26.00% | ~198 |
-| Find myself | 24.00% | ~183 |
+| Find myself | 25.00% | ~191 |
 | Min's Promise | 18.00% | ~137 |
 | Sia's Promise | 17.00% | ~130 |
 | Truebro | 17.00% | ~130 |

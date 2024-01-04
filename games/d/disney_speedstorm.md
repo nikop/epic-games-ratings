@@ -5,13 +5,13 @@ Rating: 4.42 (Ranked 735)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 13.00% | ~49,802 |
-| IT MAKES BOOM! | 8.00% | ~30,647 |
-| EXTRA BOOST | 6.00% | ~22,985 |
-| PROTECTED | 5.00% | ~19,155 |
-| HERE ARE SOME BARE NECESSITIES | 4.00% | ~15,324 |
-| PRO | 4.00% | ~15,324 |
-| AGGRESSIVE RACER | 3.00% | ~11,493 |
+| ROOKIE | 13.00% | ~49,806 |
+| IT MAKES BOOM! | 8.00% | ~30,650 |
+| EXTRA BOOST | 6.00% | ~22,988 |
+| PROTECTED | 5.00% | ~19,156 |
+| HERE ARE SOME BARE NECESSITIES | 4.00% | ~15,325 |
+| PRO | 4.00% | ~15,325 |
+| AGGRESSIVE RACER | 3.00% | ~11,494 |
 | IT'S A LONG WAY TO THE TOP | 2.00% | ~7,662 |
 | TRAINING HARD | 2.00% | ~7,662 |
 | ACE SPEEDSTER | 2.00% | ~7,662 |
@@ -30,8 +30,8 @@ Rating: 4.42 (Ranked 735)
 | PERFECTLY POISED | 0.60% | ~2,299 |
 | ACE TRICKSTER | 0.60% | ~2,299 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 383,091 (Ranked 52)  
-Completed: 1,426 (0.37%) (Ranked 238)  
+Progressed: 383,125 (Ranked 52)  
+Completed: 1,427 (0.37%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -285,7 +285,7 @@ Completed: 1,426 (0.37%) (Ranked 238)
 | 2024-01-01 | 379,893 | 1,380 |
 | 2024-01-02 | 381,442 | 1,405 |
 | 2024-01-03 | 382,781 | 1,420 |
-| 2024-01-04 | 383,091 | 1,426 |
+| 2024-01-04 | 383,125 | 1,427 |
 ## Awards
 Max (Great for Beginners): 167  (Ranked 321)  
 Sum: 1,101 (Ranked 263)  

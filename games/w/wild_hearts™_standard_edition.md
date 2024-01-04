@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Land of the Rising Sun | 100.00% | ~1,105 |
+| Land of the Rising Sun | 100.00% | ~1,106 |
 | Hidden History | 72.00% | ~796 |
-| Commencing of Quests | 61.00% | ~674 |
-| Budding Conjuror | 59.00% | ~652 |
-| Man-Machine Master | 49.00% | ~541 |
-| Mountain Splitter | 48.00% | ~530 |
-| Charmed by the Hunt | 48.00% | ~530 |
-| Subsistence Skills | 47.00% | ~519 |
-| Memory Rouser | 46.00% | ~508 |
-| Fusion Conjuror | 45.00% | ~497 |
-| Kemono Hunter | 42.00% | ~464 |
+| Commencing of Quests | 61.00% | ~675 |
+| Budding Conjuror | 59.00% | ~653 |
+| Man-Machine Master | 49.00% | ~542 |
+| Charmed by the Hunt | 48.00% | ~531 |
+| Mountain Splitter | 47.00% | ~520 |
+| Subsistence Skills | 47.00% | ~520 |
+| Memory Rouser | 46.00% | ~509 |
+| Fusion Conjuror | 45.00% | ~498 |
+| Kemono Hunter | 42.00% | ~465 |
 | Expert Conjuror | 39.00% | ~431 |
 | Helpful Heart | 38.00% | ~420 |
 | Flawless Crystal | 37.00% | ~409 |
@@ -22,10 +22,10 @@
 | Distance Devourer | 35.00% | ~387 |
 | Counter Specialist | 33.00% | ~365 |
 | Master of the Skies | 31.00% | ~343 |
-| Axer of Auspice | 28.00% | ~309 |
-| Mighty Marmelizer | 27.00% | ~298 |
-| Fair Means or Foul | 26.00% | ~287 |
-| Kemono at Heart | 26.00% | ~287 |
+| Axer of Auspice | 28.00% | ~310 |
+| Mighty Marmelizer | 26.00% | ~288 |
+| Fair Means or Foul | 26.00% | ~288 |
+| Kemono at Heart | 26.00% | ~288 |
 | Single Minded | 24.00% | ~265 |
 | Snare Specialist | 23.00% | ~254 |
 | Karakuri Trail | 22.00% | ~243 |
@@ -43,9 +43,9 @@
 | Canyon of Karakuri | 13.00% | ~144 |
 | Jack of All Trades | 12.00% | ~133 |
 | Karakuri Fortress | 11.00% | ~122 |
-| Tender Touch | 10.00% | ~110 |
-| Haven Hunter | 10.00% | ~110 |
-| Volatile Vocation | 9.00% | ~99 |
+| Haven Hunter | 10.00% | ~111 |
+| Volatile Vocation | 9.00% | ~100 |
+| Tender Touch | 9.00% | ~100 |
 | Superlative View | 8.00% | ~88 |
 | Relentless Kemono Hunter | 7.00% | ~77 |
 | Vanquisher of the Volatile | 7.00% | ~77 |
@@ -53,7 +53,7 @@
 | Big Spender | 5.00% | ~55 |
 | Tsukumo Whisperer | 3.00% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,105 (Ranked 285)  
+Progressed: 1,106 (Ranked 285)  
 Completed: 8 (0.72%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,4 +164,4 @@ Completed: 8 (0.72%) (Ranked 193)
 | 2024-01-01 | 1,065 | 8 |
 | 2024-01-02 | 1,084 | 8 |
 | 2024-01-03 | 1,099 | 8 |
-| 2024-01-04 | 1,105 | 8 |
+| 2024-01-04 | 1,106 | 8 |

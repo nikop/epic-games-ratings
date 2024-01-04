@@ -6274,10 +6274,10 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 722510,
-  "EOS_Completed": 6588,
-  "EOS_NewPlayers": 1291,
-  "EOS_NewCompleters": 21,
+  "EOS_Progressed": 722511,
+  "EOS_Completed": 6589,
+  "EOS_NewPlayers": 1288,
+  "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
     {
@@ -34614,6 +34614,11 @@
       "Time": "2024-01-04T04:10:06.2046872+00:00",
       "NumProgressed": 722510,
       "NumCompleted": 6588
+    },
+    {
+      "Time": "2024-01-04T05:10:18.0653004+00:00",
+      "NumProgressed": 722511,
+      "NumCompleted": 6589
     }
   ],
   "TotalAchievements": 49,
@@ -34633,7 +34638,7 @@
       "Name": "War-God\u0027s Bloodlust",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 108376
+      "UsersEstimate": 108377
     },
     {
       "ID": "AchBeatCharon",
@@ -34681,7 +34686,7 @@
       "Name": "Is There No Escape?",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 375705
+      "UsersEstimate": 375706
     },
     {
       "ID": "AchClearAsphodel",
@@ -34689,7 +34694,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 570783
+      "UsersEstimate": 570784
     },
     {
       "ID": "AchClearElysium",
@@ -34729,7 +34734,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 88,
       "XP": 25,
-      "UsersEstimate": 635809
+      "UsersEstimate": 635810
     },
     {
       "ID": "AchCrushedThanatos",
@@ -34841,7 +34846,7 @@
       "Name": "Blood Bound",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 252878
+      "UsersEstimate": 252879
     },
     {
       "ID": "AchMeetChthonicGods",
@@ -34849,7 +34854,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 447956
+      "UsersEstimate": 447957
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -34921,7 +34926,7 @@
       "Name": "Tools of the Architect",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 166177
+      "UsersEstimate": 166178
     },
     {
       "ID": "AchPurgedLegendBoon",
@@ -34961,7 +34966,7 @@
       "Name": "Musician and Muse",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 101151
+      "UsersEstimate": 101152
     },
     {
       "ID": "AchSisyphusLiberation",
@@ -34977,7 +34982,7 @@
       "Name": "Skelly Slayer",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 303454
+      "UsersEstimate": 303455
     },
     {
       "ID": "AchUnlockedAllWeapons",
@@ -34985,7 +34990,7 @@
       "Name": "Arms Collector",
       "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 505757
+      "UsersEstimate": 505758
     },
     {
       "ID": "AchWeaponClears",
@@ -34993,7 +34998,7 @@
       "Name": "Master of Arms",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 166177
+      "UsersEstimate": 166178
     },
     {
       "ID": "AchWellShopItems",
@@ -35016,15 +35021,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 722510,
-      "Completed": 6588
+      "Progressed": 722511,
+      "Completed": 6589
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2024-01-03T16:58:48.6577753+00:00",
-  "LastChanged_Achievements": "2024-01-04T04:10:06.204687+00:00",
+  "LastChanged_Achievements": "2024-01-04T05:10:18.0653001+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:04.5764624+00:00",
-  "LastUpdate_Ratings": "2024-01-04T03:58:27.1180499+00:00",
-  "LastUpdate_Achievements": "2024-01-04T04:10:06.2048283+00:00"
+  "LastUpdate_Ratings": "2024-01-04T04:58:45.4161461+00:00",
+  "LastUpdate_Achievements": "2024-01-04T05:10:18.0654364+00:00"
 }

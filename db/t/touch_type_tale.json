@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3973,
+  "EOS_Progressed": 3974,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -5392,6 +5392,11 @@
       "Time": "2024-01-04T00:04:28.0159732+00:00",
       "NumProgressed": 3973,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-04T05:04:58.5113952+00:00",
+      "NumProgressed": 3974,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -5555,7 +5560,7 @@
       "Name": "Economics 101",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 2344
+      "UsersEstimate": 2345
     },
     {
       "ID": "campaign4",
@@ -5579,7 +5584,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "campaign7",
@@ -5587,7 +5592,7 @@
       "Name": "Maestro",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 993
+      "UsersEstimate": 994
     },
     {
       "ID": "campaign8",
@@ -5666,7 +5671,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3973,
+      "Progressed": 3974,
       "Completed": 11
     }
   ],
@@ -5674,8 +5679,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2024-01-04T04:04:45.699616+00:00",
+  "LastChanged_Achievements": "2024-01-04T05:04:58.5113949+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.1228513+00:00",
-  "LastUpdate_Ratings": "2024-01-04T03:57:50.5390332+00:00",
-  "LastUpdate_Achievements": "2024-01-04T04:04:45.6996528+00:00"
+  "LastUpdate_Ratings": "2024-01-04T04:58:12.3953026+00:00",
+  "LastUpdate_Achievements": "2024-01-04T05:04:58.5114372+00:00"
 }

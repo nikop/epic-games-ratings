@@ -4,7 +4,7 @@
   "ProductSlug": "bears-in-space",
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 567,
+  "Ranking_EOS_NewPlayers": 566,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2099-09-30T08:00:00+00:00",
@@ -36,8 +36,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-14T18:07:28.4096763+00:00",
-  "LastChanged_Achievements": "2024-01-04T04:09:07.0896437+00:00",
+  "LastChanged_Achievements": "2024-01-04T05:09:22.8910005+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:51.3107261+00:00",
-  "LastUpdate_Ratings": "2024-01-04T03:59:35.2488181+00:00",
-  "LastUpdate_Achievements": "2024-01-04T04:09:07.0896477+00:00"
+  "LastUpdate_Ratings": "2024-01-04T04:59:46.1391183+00:00",
+  "LastUpdate_Achievements": "2024-01-04T05:09:22.8910022+00:00"
 }

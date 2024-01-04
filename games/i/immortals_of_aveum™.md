@@ -5,35 +5,35 @@ Rating: 4.20 (Ranked 958)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~2,319 |
-| Battlefields Have Memories | 81.00% | ~2,134 |
-| Enlisted | 74.00% | ~1,950 |
-| Maybe Engage a Little | 69.00% | ~1,818 |
-| No More Names | 52.00% | ~1,370 |
-| Initiate | 37.00% | ~975 |
-| Thrada-Kul | 33.00% | ~870 |
-| Gravity-Challenged Rocks | 27.00% | ~711 |
-| Socialite | 24.00% | ~632 |
-| Soldier | 23.00% | ~606 |
+| Unforeseen | 88.00% | ~2,321 |
+| Battlefields Have Memories | 81.00% | ~2,137 |
+| Enlisted | 74.00% | ~1,952 |
+| Maybe Engage a Little | 69.00% | ~1,820 |
+| No More Names | 52.00% | ~1,372 |
+| Initiate | 37.00% | ~976 |
+| Thrada-Kul | 33.00% | ~871 |
+| Gravity-Challenged Rocks | 27.00% | ~712 |
+| Socialite | 24.00% | ~633 |
+| Soldier | 23.00% | ~607 |
 | All the Major Food Groups | 22.00% | ~580 |
-| Beggars Would Ride | 20.00% | ~527 |
+| Beggars Would Ride | 20.00% | ~528 |
 | Control is an Illusion | 19.00% | ~501 |
 | The Means to Save It | 16.00% | ~422 |
-| Resilience to Sin | 15.00% | ~395 |
+| Resilience to Sin | 15.00% | ~396 |
 | A Familiar Nest | 14.00% | ~369 |
 | Periapt Alizarin | 14.00% | ~369 |
 | Geas Aristeya | 13.00% | ~343 |
 | A Perfect Cycle | 13.00% | ~343 |
-| Recruit | 12.00% | ~316 |
+| Recruit | 12.00% | ~317 |
 | Armsman | 11.00% | ~290 |
 | Lights Army | 9.00% | ~237 |
 | Periapt Cerulean | 8.00% | ~211 |
-| Good Boy | 7.00% | ~184 |
-| Best Dressed | 6.00% | ~158 |
+| Good Boy | 7.00% | ~185 |
 | Periapt Viridian | 6.00% | ~158 |
 | Shroudfane Explorer | 6.00% | ~158 |
-| Kitted Out | 4.00% | ~105 |
-| Armaments Gules | 4.00% | ~105 |
+| Best Dressed | 5.00% | ~132 |
+| Kitted Out | 4.00% | ~106 |
+| Armaments Gules | 4.00% | ~106 |
 | Scholar | 3.00% | ~79 |
 | Armaments Azure | 3.00% | ~79 |
 | Armaments Vert | 3.00% | ~79 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 958)
 | Out of Time | 0.20% | ~5 |
 | Fowl Play | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,635 (Ranked 230)  
+Progressed: 2,638 (Ranked 230)  
 Completed: 2 (0.08%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 2 (0.08%) (Ranked 319)
 | 2024-01-01 | 2,478 | 2 |
 | 2024-01-02 | 2,542 | 2 |
 | 2024-01-03 | 2,622 | 2 |
-| 2024-01-04 | 2,635 | 2 |
+| 2024-01-04 | 2,638 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

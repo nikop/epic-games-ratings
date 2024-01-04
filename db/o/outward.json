@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 303,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -547,7 +547,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4455,
+  "EOS_Progressed": 4456,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 0,
@@ -7632,6 +7632,11 @@
       "Time": "2024-01-04T04:08:12.1835638+00:00",
       "NumProgressed": 4455,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-04T05:06:52.4486858+00:00",
+      "NumProgressed": 4456,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -7707,7 +7712,7 @@
       "Name": "Eureka",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1336
+      "UsersEstimate": 1337
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -7867,7 +7872,7 @@
       "Name": "Tapped!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1559
+      "UsersEstimate": 1560
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -7963,7 +7968,7 @@
       "Name": "Venture Outward",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3252
+      "UsersEstimate": 3253
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -7978,15 +7983,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4455,
+      "Progressed": 4456,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2024-01-03T19:03:38.0112146+00:00",
-  "LastChanged_Achievements": "2024-01-04T04:08:12.1835632+00:00",
+  "LastChanged_Achievements": "2024-01-04T05:06:52.4486855+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:23.571083+00:00",
-  "LastUpdate_Ratings": "2024-01-04T04:02:56.665934+00:00",
-  "LastUpdate_Achievements": "2024-01-04T04:08:12.1836454+00:00"
+  "LastUpdate_Ratings": "2024-01-04T05:03:18.4381889+00:00",
+  "LastUpdate_Achievements": "2024-01-04T05:06:52.4487406+00:00"
 }

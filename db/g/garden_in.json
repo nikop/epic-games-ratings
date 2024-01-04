@@ -4,8 +4,8 @@
   "ProductSlug": "garden-in-671c44",
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-01-26T13:00:00+00:00",
     "PcReleaseDate": "2023-01-26T13:00:00+00:00",
@@ -469,17 +469,17 @@
       "ID": "ACH_BUDDING_SCIENTIST",
       "SetID": "95o50of",
       "Name": "Budding Scientist",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_DRY_NO_MORE",
       "SetID": "95o50of",
       "Name": "Dry No More",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_FEET_IN_THE_WATER",
@@ -525,25 +525,25 @@
       "ID": "ACH_LANDLORD",
       "SetID": "95o50of",
       "Name": "Landlord",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_LEAVE_MY_BABY_ALONE",
       "SetID": "95o50of",
       "Name": "Leave My Baby Alone!",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_LETS_GO_FOR_A_WALK",
       "SetID": "95o50of",
       "Name": "Let\u0027s Go for a Walk",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_LOVE_AND_SCIENCE",
@@ -581,39 +581,39 @@
       "ID": "ACH_PET_PET_PET",
       "SetID": "95o50of",
       "Name": "Pet Pet Pet",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_POTTERY_CONNOISSEUR",
       "SetID": "95o50of",
       "Name": "Pottery Connoisseur",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_RESEARCH_COMPLETE",
       "SetID": "95o50of",
       "Name": "Research Complete",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_ROOM_REVEALER",
       "SetID": "95o50of",
       "Name": "Room Revealer",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_SAY_CHEESE",
       "SetID": "95o50of",
       "Name": "Say Cheese!",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -621,17 +621,17 @@
       "ID": "ACH_SEED_OF_LOVE",
       "SetID": "95o50of",
       "Name": "Seed of Love",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_SPRAY_SPRAY_SPRAY",
       "SetID": "95o50of",
       "Name": "Spray Spray Spray",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_TAKING_NOTES",
@@ -653,25 +653,25 @@
       "ID": "ACH_THE_MENDEL_EXPERIMENT",
       "SetID": "95o50of",
       "Name": "The Mendel Experiment",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_TIME_FOR_RENOVATIONS",
       "SetID": "95o50of",
       "Name": "Time for Renovations",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_WATER_WATER_WATER",
       "SetID": "95o50of",
       "Name": "Water Water Water",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_WEEDS_HAVE_FEELINGS_TOO",
@@ -685,9 +685,9 @@
       "ID": "ACH_WHO_IS_A_GOOD_PLANT",
       "SetID": "95o50of",
       "Name": "Who\u0027s a Good Plant?",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
@@ -702,8 +702,8 @@
   "FirstSeenRating": "2023-03-31T05:57:23.5695131+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:31.2425806+00:00",
   "LastChanged": "2023-03-31T05:57:23.5695132+00:00",
-  "LastChanged_Achievements": "2024-01-04T04:08:34.3712446+00:00",
+  "LastChanged_Achievements": "2024-01-04T05:08:52.810295+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:50.9003231+00:00",
-  "LastUpdate_Ratings": "2024-01-04T03:59:47.6268196+00:00",
-  "LastUpdate_Achievements": "2024-01-04T04:08:34.3712695+00:00"
+  "LastUpdate_Ratings": "2024-01-04T04:59:57.2781819+00:00",
+  "LastUpdate_Achievements": "2024-01-04T05:08:52.8103134+00:00"
 }

@@ -6,35 +6,35 @@
 | ---- | ---------- | ----- |
 | A Greener Day | 2.00% | ~4 |
 | A Sad Moment | 2.00% | ~4 |
+| Budding Scientist | 2.00% | ~4 |
+| Dry No More | 2.00% | ~4 |
 | Hands in the Dirt | 2.00% | ~4 |
+| Landlord | 2.00% | ~4 |
+| Leave My Baby Alone! | 2.00% | ~4 |
+| Let's Go for a Walk | 2.00% | ~4 |
 | Master Gardener | 2.00% | ~4 |
 | #NewFilter | 2.00% | ~4 |
+| Pet Pet Pet | 2.00% | ~4 |
+| Pottery Connoisseur | 2.00% | ~4 |
+| Research Complete | 2.00% | ~4 |
+| Room Revealer | 2.00% | ~4 |
+| Seed of Love | 2.00% | ~4 |
+| Spray Spray Spray | 2.00% | ~4 |
 | Taking Notes | 2.00% | ~4 |
+| The Mendel Experiment | 2.00% | ~4 |
+| Time for Renovations | 2.00% | ~4 |
+| Water Water Water | 2.00% | ~4 |
+| Who's a Good Plant? | 2.00% | ~4 |
 | Balcony Optimizer | 1.00% | ~2 |
-| Budding Scientist | 1.00% | ~2 |
-| Dry No More | 1.00% | ~2 |
 | Feet in the Water | 1.00% | ~2 |
 | Food for Insects | 1.00% | ~2 |
 | Head in the Clouds | 1.00% | ~2 |
 | Lab-Room | 1.00% | ~2 |
-| Landlord | 1.00% | ~2 |
-| Leave My Baby Alone! | 1.00% | ~2 |
-| Let's Go for a Walk | 1.00% | ~2 |
-| Pet Pet Pet | 1.00% | ~2 |
-| Pottery Connoisseur | 1.00% | ~2 |
-| Research Complete | 1.00% | ~2 |
-| Room Revealer | 1.00% | ~2 |
-| Seed of Love | 1.00% | ~2 |
-| Spray Spray Spray | 1.00% | ~2 |
+| Say Cheese! | 1.00% | ~2 |
 | The Best One | 1.00% | ~2 |
-| The Mendel Experiment | 1.00% | ~2 |
-| Time for Renovations | 1.00% | ~2 |
-| Water Water Water | 1.00% | ~2 |
 | Weeds Have Feelings Too | 1.00% | ~2 |
-| Who's a Good Plant? | 1.00% | ~2 |
 | Love and Science | 0.90% | ~2 |
 | Perfectionist | 0.90% | ~2 |
-| Say Cheese! | 0.90% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 212 (Ranked 423)  
 Completed: 1 (0.47%) (Ranked 224)  

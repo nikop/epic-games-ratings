@@ -487,9 +487,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1561388,
+  "EOS_Progressed": 1561392,
   "EOS_Completed": 763,
-  "EOS_NewPlayers": 1810,
+  "EOS_NewPlayers": 1808,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -30147,6 +30147,11 @@
       "Time": "2024-01-04T04:04:00.2014704+00:00",
       "NumProgressed": 1561388,
       "NumCompleted": 763
+    },
+    {
+      "Time": "2024-01-04T05:04:16.0592089+00:00",
+      "NumProgressed": 1561392,
+      "NumCompleted": 763
     }
   ],
   "TotalAchievements": 20,
@@ -30302,7 +30307,7 @@
       "Name": "The Long Drift",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 78069
+      "UsersEstimate": 78070
     },
     {
       "ID": "ACH_WASHING_MACHINE",
@@ -30317,15 +30322,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1561388,
+      "Progressed": 1561392,
       "Completed": 763
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2024-01-01T15:58:03.3050035+00:00",
-  "LastChanged_Achievements": "2024-01-04T04:04:00.20147+00:00",
+  "LastChanged_Achievements": "2024-01-04T05:04:16.0592087+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:19.1833195+00:00",
-  "LastUpdate_Ratings": "2024-01-04T03:59:12.2062849+00:00",
-  "LastUpdate_Achievements": "2024-01-04T04:04:00.201593+00:00"
+  "LastUpdate_Ratings": "2024-01-04T04:59:24.36984+00:00",
+  "LastUpdate_Achievements": "2024-01-04T05:04:16.0593686+00:00"
 }

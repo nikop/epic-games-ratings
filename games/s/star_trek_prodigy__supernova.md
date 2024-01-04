@@ -31,6 +31,7 @@
 | Quest for Loot | 6.00% | ~1 |
 | Proto Menagerie | 6.00% | ~1 |
 | Stopping the Supernova | 6.00% | ~1 |
+| Saved the System | 6.00% | ~1 |
 | Seeking Discovery | 6.00% | ~1 |
 | Open Sesame | 6.00% | ~1 |
 | Trekkie | 6.00% | ~1 |
@@ -40,7 +41,6 @@
 | Exobiology Badge | 0.00% | ~0 |
 | All of the Plunder | 0.00% | ~0 |
 | Crew Love | 0.00% | ~0 |
-| Saved the System | 0.00% | ~0 |
 | Green Thumb | 0.00% | ~0 |
 | Budding Botanist | 0.00% | ~0 |
 | Relic Hunter | 0.00% | ~0 |

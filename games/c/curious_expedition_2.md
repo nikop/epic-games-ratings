@@ -6,29 +6,29 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 66.00% | ~262 |
-| Cartographer | 58.00% | ~230 |
-| A Strange Artefact | 54.00% | ~214 |
-| Insomnia | 50.00% | ~198 |
+| The Adventure Begins | 66.00% | ~263 |
+| Cartographer | 58.00% | ~231 |
+| A Strange Artefact | 54.00% | ~215 |
+| Insomnia | 50.00% | ~199 |
 | Lost & Found & Lost Again | 44.00% | ~175 |
 | From Whence we Came | 44.00% | ~175 |
 | Fire and Flood | 42.00% | ~167 |
 | Spooky! | 39.00% | ~155 |
 | Shennong Herbalist | 36.00% | ~143 |
 | Treasure Hunt | 36.00% | ~143 |
-| Good Mama | 34.00% | ~135 |
+| Good Mama | 33.00% | ~131 |
 | O Captain My Captain | 32.00% | ~127 |
 | Plunderer | 30.00% | ~119 |
 | Taxonomist | 28.00% | ~111 |
 | Traveller | 26.00% | ~103 |
 | Uncertain Loyalties | 26.00% | ~103 |
-| Roll to Save | 24.00% | ~95 |
-| Nahua Seeker | 24.00% | ~95 |
-| Veteran Explorer | 22.00% | ~87 |
-| Red Flag Pirate | 20.00% | ~79 |
-| Iron Man | 17.00% | ~67 |
-| A Gentle Beast | 17.00% | ~67 |
-| Practical Palaeontology | 17.00% | ~67 |
+| Roll to Save | 24.00% | ~96 |
+| Nahua Seeker | 24.00% | ~96 |
+| Veteran Explorer | 22.00% | ~88 |
+| Red Flag Pirate | 20.00% | ~80 |
+| Iron Man | 17.00% | ~68 |
+| A Gentle Beast | 17.00% | ~68 |
+| Practical Palaeontology | 17.00% | ~68 |
 | Shortening of the Way | 16.00% | ~64 |
 | Adventurer | 15.00% | ~60 |
 | For the Club! | 15.00% | ~60 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.80% | ~3 |
 | Now I've Seen It All | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 397 (Ranked 364)  
+Progressed: 398 (Ranked 362)  
 Completed: 1 (0.25%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,6 +137,7 @@ Completed: 1 (0.25%) (Ranked 264)
 | 2024-01-01 | 391 | 1 |
 | 2024-01-02 | 394 | 1 |
 | 2024-01-03 | 397 | 1 |
+| 2024-01-04 | 398 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

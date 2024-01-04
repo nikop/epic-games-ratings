@@ -10,8 +10,8 @@
 | Gettin' It Done | 51.00% | ~81 |
 | Feast | 40.00% | ~63 |
 | Attuned | 35.00% | ~55 |
-| Specialist | 30.00% | ~47 |
-| Opulent | 29.00% | ~46 |
+| Specialist | 31.00% | ~49 |
+| Opulent | 30.00% | ~47 |
 | Sparkly | 28.00% | ~44 |
 | Teamwork | 22.00% | ~35 |
 | Ready to Rock | 21.00% | ~33 |

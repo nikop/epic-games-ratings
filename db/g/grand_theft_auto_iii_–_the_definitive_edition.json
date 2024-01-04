@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -685,9 +685,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11476,
+  "EOS_Progressed": 11478,
   "EOS_Completed": 76,
-  "EOS_NewPlayers": 631,
+  "EOS_NewPlayers": 632,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -14645,6 +14645,11 @@
       "Time": "2024-01-04T04:03:25.5106672+00:00",
       "NumProgressed": 11476,
       "NumCompleted": 76
+    },
+    {
+      "Time": "2024-01-04T05:03:44.4009995+00:00",
+      "NumProgressed": 11478,
+      "NumCompleted": 76
     }
   ],
   "TotalAchievements": 29,
@@ -14656,7 +14661,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 9525
+      "UsersEstimate": 9527
     },
     {
       "ID": "ACH02",
@@ -14664,7 +14669,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 3902
+      "UsersEstimate": 3903
     },
     {
       "ID": "ACH03",
@@ -14680,7 +14685,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 4361
+      "UsersEstimate": 4362
     },
     {
       "ID": "ACH05",
@@ -14696,7 +14701,7 @@
       "Name": "Street Sweeper",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 2180
+      "UsersEstimate": 2181
     },
     {
       "ID": "ACH07",
@@ -14728,7 +14733,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 3213
+      "UsersEstimate": 3214
     },
     {
       "ID": "ACH11",
@@ -14887,7 +14892,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 11476,
+      "Progressed": 11478,
       "Completed": 76
     }
   ],
@@ -14895,8 +14900,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-03T20:58:39.4932254+00:00",
-  "LastChanged_Achievements": "2024-01-04T04:03:25.5106668+00:00",
+  "LastChanged_Achievements": "2024-01-04T05:03:44.4009991+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:06.0840087+00:00",
-  "LastUpdate_Ratings": "2024-01-04T03:58:04.8093411+00:00",
-  "LastUpdate_Achievements": "2024-01-04T04:03:25.5107585+00:00"
+  "LastUpdate_Ratings": "2024-01-04T04:58:24.2056523+00:00",
+  "LastUpdate_Achievements": "2024-01-04T05:03:44.4010851+00:00"
 }

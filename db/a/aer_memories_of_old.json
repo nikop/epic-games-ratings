@@ -419,9 +419,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 27885,
+  "EOS_Progressed": 27886,
   "EOS_Completed": 510,
-  "EOS_NewPlayers": 618,
+  "EOS_NewPlayers": 614,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.83,
   "EosHistory": [
@@ -28294,6 +28294,11 @@
       "Time": "2024-01-04T04:04:29.5004061+00:00",
       "NumProgressed": 27885,
       "NumCompleted": 510
+    },
+    {
+      "Time": "2024-01-04T05:04:43.1770799+00:00",
+      "NumProgressed": 27886,
+      "NumCompleted": 510
     }
   ],
   "TotalAchievements": 20,
@@ -28345,7 +28350,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2788
+      "UsersEstimate": 2789
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -28464,15 +28469,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 27885,
+      "Progressed": 27886,
       "Completed": 510
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2024-01-04T04:04:29.5004057+00:00",
+  "LastChanged_Achievements": "2024-01-04T05:04:43.1770796+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:39.3353951+00:00",
-  "LastUpdate_Ratings": "2024-01-04T03:57:23.7533053+00:00",
-  "LastUpdate_Achievements": "2024-01-04T04:04:29.5005249+00:00"
+  "LastUpdate_Ratings": "2024-01-04T04:57:49.1214518+00:00",
+  "LastUpdate_Achievements": "2024-01-04T05:04:43.1772124+00:00"
 }

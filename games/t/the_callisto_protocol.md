@@ -5,17 +5,17 @@ Rating: 4.21 (Ranked 947)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 23.00% | ~4,800 |
-| The Outer Way | 23.00% | ~4,800 |
+| Flesh Wound | 23.00% | ~4,801 |
+| The Outer Way | 23.00% | ~4,801 |
 | Desperate Times | 21.00% | ~4,383 |
 | Paper Jams | 20.00% | ~4,174 |
-| Get a Grip | 19.00% | ~3,965 |
+| Get a Grip | 19.00% | ~3,966 |
 | Chew 'Em Up | 18.00% | ~3,757 |
-| Reforged | 16.00% | ~3,339 |
-| Float Like A Butterfly | 15.00% | ~3,130 |
+| Reforged | 16.00% | ~3,340 |
+| Float Like A Butterfly | 15.00% | ~3,131 |
 | Workplace Hazard | 14.00% | ~2,922 |
 | If the SHU Fits... | 14.00% | ~2,922 |
-| Without A Paddle | 12.00% | ~2,504 |
+| Without A Paddle | 12.00% | ~2,505 |
 | Two Heads Are Better Than One | 10.00% | ~2,087 |
 | In the Pipe, Five by Five | 10.00% | ~2,087 |
 | Crash Site | 10.00% | ~2,087 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 947)
 | Big Game Hunter | 0.10% | ~9 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,870 (Ranked 150)  
+Progressed: 20,872 (Ranked 150)  
 Completed: 82 (0.39%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,16 +304,16 @@ Completed: 82 (0.39%) (Ranked 234)
 | 2024-01-01 | 20,521 | 82 |
 | 2024-01-02 | 20,695 | 82 |
 | 2024-01-03 | 20,833 | 82 |
-| 2024-01-04 | 20,870 | 82 |
+| 2024-01-04 | 20,872 | 82 |
 ## Awards
 Max (Amazing Characters): 111  (Ranked 362)  
-Sum: 562 (Ranked 325)  
+Sum: 563 (Ranked 325)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 111 |
 | This game is Highly Recommended | 104 |
-| This game is Extremely Fun | 102 |
+| This game is Extremely Fun | 103 |
 | This game has Quickly Understood Controls | 101 |
 | This game has Amazing Storytelling | 101 |
 | This game has Challenging Combat | 68 |
@@ -512,3 +512,4 @@ Diff (max vs sum): 37
 | 2024-01-01 | 4.21 | 109 | 551 |
 | 2024-01-02 | 4.21 | 109 | 554 |
 | 2024-01-03 | 4.21 | 111 | 562 |
+| 2024-01-04 | 4.21 | 111 | 563 |

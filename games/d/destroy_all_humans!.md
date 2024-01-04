@@ -7,11 +7,11 @@ Number of Ratings: 85  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Shop Til They Drop | 72.00% | ~225 |
-| Kaijuiced | 68.00% | ~212 |
+| Kaijuiced | 69.00% | ~215 |
 | Lie Back and Think of Albion | 63.00% | ~197 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 61.00% | ~190 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 62.00% | ~193 |
+| Yettisoned | 58.00% | ~181 |
 | I Look Up As I Walk to Takoshima | 58.00% | ~181 |
-| Yettisoned | 57.00% | ~178 |
 | Perfect Probulator | 54.00% | ~168 |
 | Pimp My Raid | 53.00% | ~165 |
 | Lobster Blisque | 50.00% | ~156 |
@@ -25,12 +25,12 @@ Number of Ratings: 85  (23.09.2022)
 | Deincarnated | 29.00% | ~90 |
 | Furon Fashion | 29.00% | ~90 |
 | Rock of the Bay | 26.00% | ~81 |
-| Trans-Siberian Express | 25.00% | ~78 |
+| Trans-Siberian Express | 26.00% | ~81 |
 | Re-Return of the Clone of the Invasion II-2 | 21.00% | ~66 |
 | Arkvoodle Doodle | 19.00% | ~59 |
 | If You Know What I Mean | 17.00% | ~53 |
 | Die Nasty | 17.00% | ~53 |
-| Ouch of Body Experience | 15.00% | ~47 |
+| Ouch of Body Experience | 16.00% | ~50 |
 | Hidden Human Hive Harvest | 15.00% | ~47 |
 | Mash Machine | 15.00% | ~47 |
 | Albion Bridge Is for Falling Down | 14.00% | ~44 |

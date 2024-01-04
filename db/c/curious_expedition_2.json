@@ -5,9 +5,9 @@
   "Ranking_Rating": 163,
   "Ranking_Popularity": 578,
   "Ranking_PopularitySum": 578,
-  "Ranking_EOS_Progress": 364,
+  "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 343,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 397,
+  "EOS_Progressed": 398,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -601,6 +601,11 @@
       "Time": "2024-01-03T22:09:53.9870456+00:00",
       "NumProgressed": 397,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-04T05:10:22.8658736+00:00",
+      "NumProgressed": 398,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -732,7 +737,7 @@
       "Name": "Iron Man",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ach-campaign-pacifist",
@@ -748,7 +753,7 @@
       "Name": "A Strange Artefact",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ach-campaign-story2",
@@ -780,7 +785,7 @@
       "Name": "Roll to Save",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ach-discover-locations",
@@ -788,7 +793,7 @@
       "Name": "Cartographer",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "ach-discover-locations-high",
@@ -820,7 +825,7 @@
       "Name": "Red Flag Pirate",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ach-find-treasure-high",
@@ -836,7 +841,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "ach-hardExpeditions",
@@ -932,7 +937,7 @@
       "Name": "Veteran Explorer",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ach-meetGhost",
@@ -956,7 +961,7 @@
       "Name": "Insomnia",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ach-pacifist-goals",
@@ -964,7 +969,7 @@
       "Name": "Nahua Seeker",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ach-paleMask-cure",
@@ -1002,9 +1007,9 @@
       "ID": "ach-raiseDino",
       "SetID": "17ih7ma",
       "Name": "Good Mama",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 131
     },
     {
       "ID": "ach-redElk",
@@ -1012,7 +1017,7 @@
       "Name": "A Gentle Beast",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ach-rideDinosaur",
@@ -1020,7 +1025,7 @@
       "Name": "Practical Palaeontology",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ach-rob-shrines",
@@ -1091,7 +1096,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 397,
+      "Progressed": 398,
       "Completed": 1
     }
   ],
@@ -1099,8 +1104,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2024-01-01T02:59:19.0992943+00:00",
-  "LastChanged_Achievements": "2024-01-04T04:10:11.5835668+00:00",
+  "LastChanged_Achievements": "2024-01-04T05:10:22.8658734+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:12.3485961+00:00",
-  "LastUpdate_Ratings": "2024-01-04T04:00:00.8500449+00:00",
-  "LastUpdate_Achievements": "2024-01-04T04:10:11.5836235+00:00"
+  "LastUpdate_Ratings": "2024-01-04T05:00:08.3630814+00:00",
+  "LastUpdate_Achievements": "2024-01-04T05:10:22.8659302+00:00"
 }

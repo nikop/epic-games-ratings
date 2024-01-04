@@ -4,7 +4,7 @@
   "ProductSlug": "star-trek-prodigy-supernova-cdb770",
   "Ranking_EOS_Progress": 623,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 567,
+  "Ranking_EOS_NewPlayers": 566,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-01-18T19:00:00+00:00",
@@ -302,9 +302,9 @@
       "ID": "Finish_P3L4",
       "SetID": "7270ipa",
       "Name": "Saved the System",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Hit3EnemiesWithPhaser",
@@ -447,8 +447,8 @@
   "FirstSeenRating": "2023-03-31T05:57:13.3030994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.1498676+00:00",
   "LastChanged": "2023-03-31T05:57:13.3030995+00:00",
-  "LastChanged_Achievements": "2024-01-04T04:10:05.5144584+00:00",
+  "LastChanged_Achievements": "2024-01-04T05:10:17.4361299+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:53.5010657+00:00",
-  "LastUpdate_Ratings": "2024-01-04T03:59:40.1414126+00:00",
-  "LastUpdate_Achievements": "2024-01-04T04:10:05.514486+00:00"
+  "LastUpdate_Ratings": "2024-01-04T04:59:50.5011498+00:00",
+  "LastUpdate_Achievements": "2024-01-04T05:10:17.4361706+00:00"
 }

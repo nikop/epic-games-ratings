@@ -178,17 +178,17 @@
       "ID": "beginner",
       "SetID": "d4692al",
       "Name": "Beginner Guide",
-      "Percentage": 63,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "contractor",
       "SetID": "d4692al",
       "Name": "New Contractor",
-      "Percentage": 33,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "crazyCoaster",
@@ -409,8 +409,8 @@
   ],
   "FirstSeen": "2023-12-24T08:59:07.6239252+00:00",
   "FirstSeenAchievements": "2023-12-14T09:03:47.827813+00:00",
-  "LastChanged_Achievements": "2024-01-04T04:05:41.2353982+00:00",
+  "LastChanged_Achievements": "2024-01-04T05:05:49.6754691+00:00",
   "LastUpdate_AppInfo": "2023-12-28T08:57:17.3349077+00:00",
-  "LastUpdate_Ratings": "2024-01-04T04:00:26.6696134+00:00",
-  "LastUpdate_Achievements": "2024-01-04T04:05:41.2354219+00:00"
+  "LastUpdate_Ratings": "2024-01-04T05:00:32.3146949+00:00",
+  "LastUpdate_Achievements": "2024-01-04T05:05:49.6754901+00:00"
 }

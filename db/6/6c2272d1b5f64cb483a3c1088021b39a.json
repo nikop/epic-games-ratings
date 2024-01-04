@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewPlayers": 349,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1314,
+  "EOS_Progressed": 1315,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4709,6 +4709,11 @@
       "Time": "2024-01-04T00:10:03.8457812+00:00",
       "NumProgressed": 1314,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T05:10:22.7602494+00:00",
+      "NumProgressed": 1315,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4888,7 +4893,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "elemental_stones_2",
@@ -5128,7 +5133,7 @@
       "Name": "Sophisticated Alchemist 1",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "sophisticated_alchemist_2",
@@ -5247,14 +5252,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1314,
+      "Progressed": 1315,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2024-01-04T04:10:11.5272518+00:00",
+  "LastChanged_Achievements": "2024-01-04T05:10:22.7602492+00:00",
   "LastUpdate_AppInfo": "2024-01-02T18:57:14.0513458+00:00",
-  "LastUpdate_Ratings": "2024-01-04T03:57:53.0693498+00:00",
-  "LastUpdate_Achievements": "2024-01-04T04:10:11.5273374+00:00"
+  "LastUpdate_Ratings": "2024-01-04T04:58:14.6280464+00:00",
+  "LastUpdate_Achievements": "2024-01-04T05:10:22.7603327+00:00"
 }

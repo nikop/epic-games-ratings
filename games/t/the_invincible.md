@@ -5,37 +5,37 @@ Rating: 4.57 (Ranked 490)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 68.00% | ~917 |
-| The Teleprobe | 53.00% | ~715 |
-| The City | 48.00% | ~648 |
-| The field base | 43.00% | ~580 |
-| The Alliance | 39.00% | ~526 |
-| Survivors | 38.00% | ~513 |
-| The Condor | 36.00% | ~486 |
-| The End | 35.00% | ~472 |
-| The Necroevolution | 28.00% | ~378 |
-| Krauta is alive | 27.00% | ~364 |
-| On her own | 21.00% | ~283 |
-| Peacemaker | 21.00% | ~283 |
-| Volcanologist | 21.00% | ~283 |
-| Fierce fight | 20.00% | ~270 |
-| Evacuation | 19.00% | ~256 |
-| Beyond divisions | 17.00% | ~229 |
+| The Camp | 68.00% | ~920 |
+| The Teleprobe | 53.00% | ~717 |
+| The City | 48.00% | ~649 |
+| The field base | 43.00% | ~582 |
+| The Alliance | 39.00% | ~528 |
+| Survivors | 38.00% | ~514 |
+| The Condor | 36.00% | ~487 |
+| The End | 35.00% | ~474 |
+| Krauta is alive | 27.00% | ~365 |
+| The Necroevolution | 27.00% | ~365 |
+| On her own | 21.00% | ~284 |
+| Peacemaker | 21.00% | ~284 |
+| Volcanologist | 21.00% | ~284 |
+| Fierce fight | 20.00% | ~271 |
+| Evacuation | 19.00% | ~257 |
+| Beyond divisions | 17.00% | ~230 |
 | Flying Objects Operator | 16.00% | ~216 |
 | I remember everything! | 14.00% | ~189 |
-| Another giant | 13.00% | ~175 |
-| Violent solution | 9.00% | ~121 |
-| I leave no man behind | 9.00% | ~121 |
-| Innate curiosity | 7.00% | ~94 |
+| Another giant | 13.00% | ~176 |
+| Violent solution | 9.00% | ~122 |
+| I leave no man behind | 9.00% | ~122 |
+| Innate curiosity | 7.00% | ~95 |
 | Ubiquitous holes | 6.00% | ~81 |
 | Strong objection | 6.00% | ~81 |
-| The Invincible | 5.00% | ~67 |
-| Got lost again | 5.00% | ~67 |
+| The Invincible | 5.00% | ~68 |
+| Got lost again | 5.00% | ~68 |
 | I leave no man behind (no exceptions) | 2.00% | ~27 |
-| Convoy list | 1.00% | ~13 |
+| Convoy list | 1.00% | ~14 |
 | No more mistakes | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,349 (Ranked 272)  
+Progressed: 1,353 (Ranked 272)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-01 | 1,273 | 0 |
 | 2024-01-02 | 1,309 | 0 |
 | 2024-01-03 | 1,345 | 0 |
-| 2024-01-04 | 1,349 | 0 |
+| 2024-01-04 | 1,353 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

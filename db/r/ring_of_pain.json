@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3862,9 +3862,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242311,
+  "EOS_Progressed": 242316,
   "EOS_Completed": 304,
-  "EOS_NewPlayers": 444,
+  "EOS_NewPlayers": 449,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -30622,6 +30622,11 @@
       "Time": "2024-01-04T04:10:15.0852369+00:00",
       "NumProgressed": 242311,
       "NumCompleted": 304
+    },
+    {
+      "Time": "2024-01-04T05:10:26.0023788+00:00",
+      "NumProgressed": 242316,
+      "NumCompleted": 304
     }
   ],
   "TotalAchievements": 138,
@@ -30649,7 +30654,7 @@
       "Name": "Ambitious Intent",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1938
+      "UsersEstimate": 1939
     },
     {
       "ID": "BOSSPIT",
@@ -30729,7 +30734,7 @@
       "Name": "Delving Deeper",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1938
+      "UsersEstimate": 1939
     },
     {
       "ID": "DEPTH12HARD",
@@ -30785,7 +30790,7 @@
       "Name": "R.I.P",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1938
+      "UsersEstimate": 1939
     },
     {
       "ID": "DIEBOSS",
@@ -31065,7 +31070,7 @@
       "Name": "The Bestiary",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1938
+      "UsersEstimate": 1939
     },
     {
       "ID": "KILLABOMINATIONHIGHDEF",
@@ -31129,7 +31134,7 @@
       "Name": "Heartless",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1938
+      "UsersEstimate": 1939
     },
     {
       "ID": "KILLPARANOIA",
@@ -31137,7 +31142,7 @@
       "Name": "What\u0027s Yours Is Mine",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1938
+      "UsersEstimate": 1939
     },
     {
       "ID": "KILLREFLECT10",
@@ -31161,7 +31166,7 @@
       "Name": "Spine Breaker",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1938
+      "UsersEstimate": 1939
     },
     {
       "ID": "KILLSPITTER",
@@ -31233,7 +31238,7 @@
       "Name": "C-C-Combo",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1938
+      "UsersEstimate": 1939
     },
     {
       "ID": "NOEPIC",
@@ -31265,7 +31270,7 @@
       "Name": "Deflection",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1938
+      "UsersEstimate": 1939
     },
     {
       "ID": "PASSIVEDEPTH6",
@@ -31401,7 +31406,7 @@
       "Name": "Sneaky",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1938
+      "UsersEstimate": 1939
     },
     {
       "ID": "STEALTH100",
@@ -31736,13 +31741,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242311,
+      "Progressed": 242316,
       "Completed": 304
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3791,
+      "Progressed": 3796,
       "Completed": 421
     }
   ],
@@ -31750,8 +31755,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-03T13:58:52.5435288+00:00",
-  "LastChanged_Achievements": "2024-01-04T04:10:15.0852365+00:00",
+  "LastChanged_Achievements": "2024-01-04T05:10:26.0023786+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:01.848225+00:00",
-  "LastUpdate_Ratings": "2024-01-04T03:58:41.050869+00:00",
-  "LastUpdate_Achievements": "2024-01-04T04:10:15.0855218+00:00"
+  "LastUpdate_Ratings": "2024-01-04T04:58:58.0595802+00:00",
+  "LastUpdate_Achievements": "2024-01-04T05:10:26.0026521+00:00"
 }

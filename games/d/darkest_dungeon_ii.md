@@ -6,17 +6,17 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 12.00% | ~772 |
+| Malpractice Assurance | 12.00% | ~773 |
 | Lost and Found | 8.00% | ~515 |
 | Autodidact | 7.00% | ~9,210 |
 | This Belongs in a Museum | 6.00% | ~7,894 |
-| This guy... again? | 6.00% | ~386 |
-| Serenity Now! | 5.00% | ~6,578 |
-| Creep and Sleep | 5.00% | ~6,578 |
-| Meat and Greet | 5.00% | ~6,578 |
-| Catch and Decease | 5.00% | ~6,578 |
-| Overdue Notice | 5.00% | ~6,578 |
-| Escape from the Black Hole | 5.00% | ~6,578 |
+| This guy... again? | 6.00% | ~387 |
+| Serenity Now! | 5.00% | ~6,579 |
+| Creep and Sleep | 5.00% | ~6,579 |
+| Meat and Greet | 5.00% | ~6,579 |
+| Catch and Decease | 5.00% | ~6,579 |
+| Overdue Notice | 5.00% | ~6,579 |
+| Escape from the Black Hole | 5.00% | ~6,579 |
 | Ploughshares to Swords | 5.00% | ~322 |
 | Bloody Graduation | 5.00% | ~322 |
 | Don't Make Me Turn This Coach Around | 4.00% | ~5,263 |
@@ -31,7 +31,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 4.00% | ~5,263 |
 | FNG | 4.00% | ~5,263 |
 | Nope | 4.00% | ~5,263 |
-| Friends 'Til the End | 4.00% | ~257 |
+| Friends 'Til the End | 4.00% | ~258 |
 | Resurrection | 3.00% | ~3,947 |
 | Unleash Hell | 3.00% | ~3,947 |
 | Funny Guy | 3.00% | ~3,947 |
@@ -67,8 +67,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Clearing the Ledger | 0.90% | ~1,184 |
 | Hat Trick | 0.80% | ~1,053 |
 | Triage | 0.80% | ~1,053 |
-| No Mercy | 0.80% | ~51 |
-| Et Tu, Riposte? | 0.80% | ~51 |
+| No Mercy | 0.80% | ~52 |
+| Et Tu, Riposte? | 0.80% | ~52 |
 | The World As It Was | 0.60% | ~789 |
 | A Life Well Lived | 0.50% | ~658 |
 | Bacon Bits | 0.50% | ~658 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,567 (Ranked 91)  
+Progressed: 131,574 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,7 +335,7 @@ Completed: 3 (0.00%) (Ranked 392)
 | 2024-01-01 | 131,206 | 3 |
 | 2024-01-02 | 131,365 | 3 |
 | 2024-01-03 | 131,540 | 3 |
-| 2024-01-04 | 131,567 | 3 |
+| 2024-01-04 | 131,574 | 3 |
 ## Awards
 Max (Character Customization): 7,940  (Ranked 50)  
 Sum: 21,391 (Ranked 58)  

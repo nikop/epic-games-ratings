@@ -4,7 +4,7 @@
   "ProductSlug": "botanicula-50043d",
   "Ranking_EOS_Progress": 424,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
@@ -1056,9 +1056,9 @@
       "ID": "Ach-03-zaba",
       "SetID": "2pjo9pi",
       "Name": "Zaba",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 65
     },
     {
       "ID": "Ach-03-zrout",
@@ -1335,8 +1335,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2024-01-04T04:09:03.9827048+00:00",
+  "LastChanged_Achievements": "2024-01-04T05:09:19.9999081+00:00",
   "LastUpdate_AppInfo": "2024-01-03T20:57:13.3833834+00:00",
-  "LastUpdate_Ratings": "2024-01-04T03:57:25.0203403+00:00",
-  "LastUpdate_Achievements": "2024-01-04T04:09:03.9827905+00:00"
+  "LastUpdate_Ratings": "2024-01-04T04:57:50.2728845+00:00",
+  "LastUpdate_Achievements": "2024-01-04T05:09:19.9999611+00:00"
 }

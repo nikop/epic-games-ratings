@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 277,
+  "EOS_Progressed": 278,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1101,6 +1101,11 @@
       "Time": "2024-01-03T11:04:14.7812609+00:00",
       "NumProgressed": 277,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T05:04:56.3941843+00:00",
+      "NumProgressed": 278,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -1232,7 +1237,7 @@
       "Name": "Scribe",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Vanilla_CodexTier2",
@@ -1432,7 +1437,7 @@
       "Name": "Breached",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Vanilla_Finndurarth",
@@ -1664,7 +1669,7 @@
       "Name": "Press-ganged",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "Vanilla_Ratharnak",
@@ -1728,7 +1733,7 @@
       "Name": "A Second Chance",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "Vanilla_SecretsBelow",
@@ -1903,7 +1908,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 277,
+      "Progressed": 278,
       "Completed": 0
     }
   ],
@@ -1911,8 +1916,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2024-01-04T04:04:43.6821028+00:00",
+  "LastChanged_Achievements": "2024-01-04T05:04:56.3941842+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:41.3005977+00:00",
-  "LastUpdate_Ratings": "2024-01-04T03:59:05.9178254+00:00",
-  "LastUpdate_Achievements": "2024-01-04T04:04:43.6821985+00:00"
+  "LastUpdate_Ratings": "2024-01-04T04:59:18.9087148+00:00",
+  "LastUpdate_Achievements": "2024-01-04T05:04:56.3942728+00:00"
 }

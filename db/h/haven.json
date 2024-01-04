@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1878,
+  "EOS_Progressed": 1879,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -3278,6 +3278,11 @@
       "Time": "2024-01-04T01:50:57.7046255+00:00",
       "NumProgressed": 1878,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-04T05:04:39.8461281+00:00",
+      "NumProgressed": 1879,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3305,7 +3310,7 @@
       "Name": "Strike!",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "12",
@@ -3353,7 +3358,7 @@
       "Name": "Balding bloot!",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 1352
+      "UsersEstimate": 1353
     },
     {
       "ID": "18",
@@ -3441,7 +3446,7 @@
       "Name": "A love supreme",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "3",
@@ -3457,7 +3462,7 @@
       "Name": "Self-sustainability",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "31",
@@ -3497,7 +3502,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "7",
@@ -3505,7 +3510,7 @@
       "Name": "Ain\u0027t no mountain high enough",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "8",
@@ -3513,7 +3518,7 @@
       "Name": "Over my dead body",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "9",
@@ -3528,15 +3533,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1878,
+      "Progressed": 1879,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2024-01-04T04:04:26.3640691+00:00",
+  "LastChanged_Achievements": "2024-01-04T05:04:39.8461279+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:49.1667896+00:00",
-  "LastUpdate_Ratings": "2024-01-04T03:59:35.9719267+00:00",
-  "LastUpdate_Achievements": "2024-01-04T04:04:26.3640954+00:00"
+  "LastUpdate_Ratings": "2024-01-04T04:59:46.8237755+00:00",
+  "LastUpdate_Achievements": "2024-01-04T05:04:39.8461582+00:00"
 }

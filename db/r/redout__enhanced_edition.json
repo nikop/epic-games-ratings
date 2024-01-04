@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 238641,
+  "EOS_Progressed": 238643,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 552,
+  "EOS_NewPlayers": 550,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -27498,6 +27498,11 @@
       "Time": "2024-01-04T03:04:48.2034564+00:00",
       "NumProgressed": 238641,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2024-01-04T05:04:10.7257109+00:00",
+      "NumProgressed": 238643,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -27525,7 +27530,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 66819
+      "UsersEstimate": 66820
     },
     {
       "ID": "CENTAUR",
@@ -27597,7 +27602,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 47728
+      "UsersEstimate": 47729
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -27773,22 +27778,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 97843
+      "UsersEstimate": 97844
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 238641,
+      "Progressed": 238643,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-12-24T20:57:53.5122809+00:00",
-  "LastChanged_Achievements": "2024-01-04T04:03:54.2843977+00:00",
+  "LastChanged_Achievements": "2024-01-04T05:04:10.7257105+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:41.2856312+00:00",
-  "LastUpdate_Ratings": "2024-01-04T03:58:58.2777795+00:00",
-  "LastUpdate_Achievements": "2024-01-04T04:03:54.2845104+00:00"
+  "LastUpdate_Ratings": "2024-01-04T04:59:13.4148533+00:00",
+  "LastUpdate_Achievements": "2024-01-04T05:04:10.7258527+00:00"
 }

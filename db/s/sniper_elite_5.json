@@ -655,9 +655,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 4199,
+  "EOS_Progressed": 4200,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -9345,6 +9345,11 @@
       "Time": "2024-01-04T02:31:46.2902328+00:00",
       "NumProgressed": 4199,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-04T05:09:42.8793225+00:00",
+      "NumProgressed": 4200,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9820,7 +9825,7 @@
       "Name": "Herr Today, Gone Tomorrow",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -9876,7 +9881,7 @@
       "Name": "If You Go Down To The Woods Today",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "REWARD_DLC03_02_FIGHT_ANOTHER_DAY",
@@ -9884,7 +9889,7 @@
       "Name": "Fight Another Day",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "REWARD_DLC03_03_STROLL_IN_THE_WOODS",
@@ -9900,7 +9905,7 @@
       "Name": "Shipbreaker",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "REWARD_DLC04_02_SINK_OR_SWIM",
@@ -9923,13 +9928,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4150,
+      "Progressed": 4151,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4199,
+      "Progressed": 4200,
       "Completed": 11
     }
   ],
@@ -9937,8 +9942,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-12-31T17:57:21.8483577+00:00",
-  "LastChanged_Achievements": "2024-01-04T04:09:28.7494711+00:00",
+  "LastChanged_Achievements": "2024-01-04T05:09:42.8793223+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:41.6601563+00:00",
-  "LastUpdate_Ratings": "2024-01-04T03:58:57.7000928+00:00",
-  "LastUpdate_Achievements": "2024-01-04T04:09:28.7495573+00:00"
+  "LastUpdate_Ratings": "2024-01-04T04:59:12.7940993+00:00",
+  "LastUpdate_Achievements": "2024-01-04T05:09:42.8794068+00:00"
 }

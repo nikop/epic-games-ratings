@@ -4,7 +4,7 @@
   "ProductSlug": "rise-of-the-third-power-682886",
   "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 93,
-  "Ranking_EOS_NewPlayers": 524,
+  "Ranking_EOS_NewPlayers": 523,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -357,9 +357,9 @@
       "ID": "Opulent",
       "SetID": "4nce15l",
       "Name": "Opulent",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Overpowered",
@@ -405,9 +405,9 @@
       "ID": "Specialist",
       "SetID": "4nce15l",
       "Name": "Specialist",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 60,
-      "UsersEstimate": 47
+      "UsersEstimate": 49
     },
     {
       "ID": "Teamwork",
@@ -430,8 +430,8 @@
   "FirstSeenRating": "2023-03-31T05:58:42.3919584+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.9587587+00:00",
   "LastChanged": "2023-03-31T05:58:42.3919585+00:00",
-  "LastChanged_Achievements": "2024-01-04T04:08:37.746388+00:00",
+  "LastChanged_Achievements": "2024-01-04T05:08:56.0132613+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:41.5810558+00:00",
-  "LastUpdate_Ratings": "2024-01-04T03:57:43.329583+00:00",
-  "LastUpdate_Achievements": "2024-01-04T04:08:37.7464025+00:00"
+  "LastUpdate_Ratings": "2024-01-04T04:58:05.4688206+00:00",
+  "LastUpdate_Achievements": "2024-01-04T05:08:56.0132804+00:00"
 }

@@ -3,7 +3,7 @@
   "Name": "Session: Skate Sim",
   "ProductSlug": "session-skate-sim",
   "Ranking_Rating": 233,
-  "Ranking_Popularity": 423,
+  "Ranking_Popularity": 421,
   "Ranking_PopularitySum": 323,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 327,
@@ -1265,11 +1265,17 @@
       "Rating": 4.69,
       "NumberOfAwards": 580,
       "NumberOfAwardsMax": 62
+    },
+    {
+      "Time": "2024-01-04T04:58:59.6946059+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 581,
+      "NumberOfAwardsMax": 63
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 580,
-  "NumberOfAwardsMax": 62,
+  "NumberOfAwards": 581,
+  "NumberOfAwardsMax": 63,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
@@ -1306,7 +1312,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 62
+      "Count": 63
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1345,9 +1351,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 3519,
+  "EOS_Progressed": 3521,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -7440,6 +7446,11 @@
       "Time": "2024-01-04T04:06:00.940505+00:00",
       "NumProgressed": 3519,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-04T05:06:07.5823153+00:00",
+      "NumProgressed": 3521,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -7451,7 +7462,7 @@
       "Name": "Backpacker",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "ACH_BING-BONG",
@@ -7555,7 +7566,7 @@
       "Name": "Go with the Flow",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "ACH_GOAT-STATUS",
@@ -7603,7 +7614,7 @@
       "Name": "Keeping it classy",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -7827,22 +7838,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 2182
+      "UsersEstimate": 2183
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3519,
+      "Progressed": 3521,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
-  "LastChanged": "2024-01-03T09:58:57.9542436+00:00",
-  "LastChanged_Achievements": "2024-01-04T04:06:00.9405047+00:00",
+  "LastChanged": "2024-01-04T04:58:59.6946056+00:00",
+  "LastChanged_Achievements": "2024-01-04T05:06:07.5823151+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:58.5643959+00:00",
-  "LastUpdate_Ratings": "2024-01-04T03:58:42.882228+00:00",
-  "LastUpdate_Achievements": "2024-01-04T04:06:00.9405583+00:00"
+  "LastUpdate_Ratings": "2024-01-04T04:58:59.6946063+00:00",
+  "LastUpdate_Achievements": "2024-01-04T05:06:07.582381+00:00"
 }

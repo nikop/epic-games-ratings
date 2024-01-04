@@ -10,8 +10,8 @@
 | Wanderer | 52.00% | ~138 |
 | Scraps of love | 48.00% | ~128 |
 | The artist’s impression | 47.00% | ~125 |
-| Do what you have to | 41.00% | ~109 |
-| Sign of weakness | 38.00% | ~101 |
+| Do what you have to | 42.00% | ~112 |
+| Sign of weakness | 39.00% | ~104 |
 | Refuse to look | 34.00% | ~90 |
 | Face your fears | 28.00% | ~74 |
 | Finished it | 26.00% | ~69 |

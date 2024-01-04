@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -3525,9 +3525,9 @@
       "ID": "AbInitio",
       "SetID": "1n308hc",
       "Name": "Ab Initio",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 376
     },
     {
       "ID": "AnthropicHills",
@@ -3998,8 +3998,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-03T15:00:44.4057345+00:00",
-  "LastChanged_Achievements": "2024-01-04T04:04:19.0036176+00:00",
+  "LastChanged_Achievements": "2024-01-04T05:04:33.1138845+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.9244138+00:00",
-  "LastUpdate_Ratings": "2024-01-04T03:59:49.8647876+00:00",
-  "LastUpdate_Achievements": "2024-01-04T04:04:19.0036776+00:00"
+  "LastUpdate_Ratings": "2024-01-04T04:59:59.3284015+00:00",
+  "LastUpdate_Achievements": "2024-01-04T05:04:33.1139333+00:00"
 }
