@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 198,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -2670,9 +2670,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 44336,
+  "EOS_Progressed": 44337,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -10760,6 +10760,11 @@
       "Time": "2024-01-04T13:10:17.8922303+00:00",
       "NumProgressed": 44336,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2024-01-04T15:06:04.7146841+00:00",
+      "NumProgressed": 44337,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -10771,7 +10776,7 @@
       "Name": "Groovy",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27488
+      "UsersEstimate": 27489
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -10843,7 +10848,7 @@
       "Name": "Look mummy! A shark!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 18621
+      "UsersEstimate": 18622
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -10979,7 +10984,7 @@
       "Name": "All roads lead to Rome",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 15074
+      "UsersEstimate": 15075
     },
     {
       "ID": "SE_COMPLETE_SARDINIA",
@@ -11043,7 +11048,7 @@
       "Name": "Shock therapy",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 10197
+      "UsersEstimate": 10198
     },
     {
       "ID": "SE_FIND_ALL_JOURNALS_COMICS_TOKENS",
@@ -11059,7 +11064,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 16404
+      "UsersEstimate": 16405
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -11067,7 +11072,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 18621
+      "UsersEstimate": 18622
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -11075,7 +11080,7 @@
       "Name": "Gold",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 22611
+      "UsersEstimate": 22612
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -11091,7 +11096,7 @@
       "Name": "Cranial blowout!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 16404
+      "UsersEstimate": 16405
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -11099,7 +11104,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 31035
+      "UsersEstimate": 31036
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -11163,7 +11168,7 @@
       "Name": "Chain reaction",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19951
+      "UsersEstimate": 19952
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -11211,7 +11216,7 @@
       "Name": "You\u0027ve got red on you",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 15074
+      "UsersEstimate": 15075
     },
     {
       "ID": "SE_REACH_RANK_100",
@@ -11267,7 +11272,7 @@
       "Name": "Leave the limbs you\u0027ve lost",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 10197
+      "UsersEstimate": 10198
     },
     {
       "ID": "SE_TAKEDOWN_AN_ELITE",
@@ -11275,7 +11280,7 @@
       "Name": "The bigger they are...",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 6650
+      "UsersEstimate": 6651
     },
     {
       "ID": "SE_TAKEDOWN_A_BLIND_SCREAMER",
@@ -11283,7 +11288,7 @@
       "Name": "Take them down screaming",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 7980
+      "UsersEstimate": 7981
     },
     {
       "ID": "SE_X_HEADSHOTS_WITH_ONE_BULLET",
@@ -11298,15 +11303,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 44336,
+      "Progressed": 44337,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2024-01-04T08:00:06.1688445+00:00",
-  "LastChanged_Achievements": "2024-01-04T14:06:38.5668347+00:00",
+  "LastChanged_Achievements": "2024-01-04T15:06:04.7146838+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:12.9047325+00:00",
-  "LastUpdate_Ratings": "2024-01-04T14:01:10.0269067+00:00",
-  "LastUpdate_Achievements": "2024-01-04T14:06:38.5669604+00:00"
+  "LastUpdate_Ratings": "2024-01-04T15:00:18.0761129+00:00",
+  "LastUpdate_Achievements": "2024-01-04T15:06:04.7147799+00:00"
 }

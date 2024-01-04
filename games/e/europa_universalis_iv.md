@@ -6,7 +6,7 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 0.60% | ~2,950 |
+| Until death do us apart | 0.60% | ~2,951 |
 | That's a Grand Army | 0.50% | ~2,459 |
 | Victorious! | 0.50% | ~2,459 |
 | That's a Grand Navy | 0.40% | ~1,967 |
@@ -14,15 +14,15 @@ Number of Ratings: 8,414  (23.09.2022)
 | That is mine! | 0.40% | ~1,967 |
 | Brothers in Arms | 0.30% | ~1,475 |
 | Cold War | 0.30% | ~1,475 |
-| Blockader | 0.20% | ~983 |
-| Defender of the Faith | 0.20% | ~983 |
-| For the Glory | 0.20% | ~983 |
-| It's all about luck | 0.20% | ~983 |
-| It's all about the money | 0.20% | ~983 |
-| Respected | 0.20% | ~983 |
-| The Princess is in this Castle | 0.20% | ~983 |
-| True Catholic | 0.20% | ~983 |
-| Truly Divine Ruler | 0.20% | ~983 |
+| Blockader | 0.20% | ~984 |
+| Defender of the Faith | 0.20% | ~984 |
+| For the Glory | 0.20% | ~984 |
+| It's all about luck | 0.20% | ~984 |
+| It's all about the money | 0.20% | ~984 |
+| Respected | 0.20% | ~984 |
+| The Princess is in this Castle | 0.20% | ~984 |
+| True Catholic | 0.20% | ~984 |
+| Truly Divine Ruler | 0.20% | ~984 |
 | The 52 Garhs | 0.10% | ~492 |
 | I don't like sand | 0.10% | ~492 |
 | A Blessed Nation | 0.10% | ~492 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 491,726 (Ranked 43)  
+Progressed: 491,765 (Ranked 43)  
 Completed: 1 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -629,7 +629,7 @@ Completed: 1 (0.00%) (Ranked 392)
 | 2024-01-01 | 489,961 | 1 |
 | 2024-01-02 | 490,643 | 1 |
 | 2024-01-03 | 491,381 | 1 |
-| 2024-01-04 | 491,726 | 1 |
+| 2024-01-04 | 491,765 | 1 |
 ## Awards
 Max (Educational): 7,708  (Ranked 54)  
 Sum: 63,495 (Ranked 24)  

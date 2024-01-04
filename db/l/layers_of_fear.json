@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 269,
+  "EOS_Progressed": 270,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1219,6 +1219,11 @@
       "Time": "2024-01-04T14:08:45.9615557+00:00",
       "NumProgressed": 269,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T15:08:36.4088501+00:00",
+      "NumProgressed": 270,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -1309,9 +1314,9 @@
       "ID": "covered_up_for_a_reason",
       "SetID": "f2im8d",
       "Name": "It\u0027s covered up for a reason",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 151
     },
     {
       "ID": "decrypt_one_myth",
@@ -1333,9 +1338,9 @@
       "ID": "do_not_look",
       "SetID": "f2im8d",
       "Name": "Refuse to look",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 94
+      "UsersEstimate": 92
     },
     {
       "ID": "do_what_you_have_to",
@@ -1359,7 +1364,7 @@
       "Name": "Face your fears",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "find_most_of_family_mementos",
@@ -1383,15 +1388,15 @@
       "Name": "Scraps of love",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "find_one_photo",
       "SetID": "f2im8d",
       "Name": "A Slice of Life",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "find_one_poster",
@@ -1407,7 +1412,7 @@
       "Name": "The artist\u2019s impression",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "finished_it",
@@ -1415,7 +1420,7 @@
       "Name": "Finished it",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "first_step",
@@ -1503,7 +1508,7 @@
       "Name": "A piece of the story",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "playtime",
@@ -1567,7 +1572,7 @@
       "Name": "Something important",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "spy_one_item",
@@ -1631,7 +1636,7 @@
       "Name": "Wanderer",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "whispers_long_forgotten",
@@ -1646,14 +1651,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 269,
+      "Progressed": 270,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-04T14:08:45.9615554+00:00",
+  "LastChanged_Achievements": "2024-01-04T15:08:36.4088498+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.7570027+00:00",
-  "LastUpdate_Ratings": "2024-01-04T13:59:33.5465051+00:00",
-  "LastUpdate_Achievements": "2024-01-04T14:08:45.9616087+00:00"
+  "LastUpdate_Ratings": "2024-01-04T14:58:54.7961091+00:00",
+  "LastUpdate_Achievements": "2024-01-04T15:08:36.4088873+00:00"
 }

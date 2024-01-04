@@ -48,13 +48,13 @@
 | Defeat Hokan | 7.00% | ~8 |
 | Defeat Raith | 7.00% | ~8 |
 | Lore's Tale | 7.00% | ~8 |
+| Tuscari Sea Portal | 7.00% | ~8 |
 | Fireforge | 7.00% | ~8 |
 | A Monopoly of Might | 7.00% | ~8 |
 | Balanced | 7.00% | ~8 |
 | Defeat Undergast | 6.00% | ~7 |
 | Elynn's Tale | 6.00% | ~7 |
 | Crypt of the Revenant | 6.00% | ~7 |
-| Tuscari Sea Portal | 6.00% | ~7 |
 | Master Artificer | 6.00% | ~7 |
 | Heroes | 6.00% | ~7 |
 | Get to the Airship! | 5.00% | ~6 |

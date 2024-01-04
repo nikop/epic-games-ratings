@@ -1,7 +1,7 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.56 (Ranked 503)  
+Rating: 4.56 (Ranked 505)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -28,9 +28,9 @@ Rating: 4.56 (Ranked 503)
 | Shield Maiden Yellow Tongue | 1.00% | ~9 |
 | I Remember My First Beer | 1.00% | ~9 |
 | Defeat Ratnor Rodentson | 0.90% | ~21 |
+| Fix the Travellers Wagon | 0.90% | ~21 |
 | Return the Statues | 0.80% | ~18 |
 | Defeat Rattus Augustail | 0.80% | ~18 |
-| Fix the Travellers Wagon | 0.80% | ~18 |
 | Defeat the Grub Buster | 0.80% | ~8 |
 | Defeat the Stalker Queen | 0.80% | ~8 |
 | Complete the Chefs Book | 0.70% | ~16 |

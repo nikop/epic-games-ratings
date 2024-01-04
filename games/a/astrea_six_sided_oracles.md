@@ -58,6 +58,7 @@
 | Sentinelphobic | 2.00% | ~6 |
 | The Abyssal Terror | 2.00% | ~6 |
 | The Raging Skies | 2.00% | ~6 |
+| Apian Mastery | 2.00% | ~6 |
 | Aquarian Hero | 2.00% | ~6 |
 | Aquarian Mastery | 2.00% | ~6 |
 | Behenian Mastery | 2.00% | ~6 |
@@ -65,7 +66,6 @@
 | Noctuan Mastery | 2.00% | ~6 |
 | Anomaly Master | 1.00% | ~3 |
 | Unepic Hero | 1.00% | ~3 |
-| Apian Mastery | 1.00% | ~3 |
 | Eridanian Mastery | 1.00% | ~3 |
 | Royal Choir | 0.90% | ~3 |
 | Astral Tinkerer | 0.60% | ~2 |

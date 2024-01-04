@@ -7,23 +7,23 @@ Number of Ratings: 371  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Executioner | 18.00% | ~675 |
-| Look Over There! | 13.00% | ~487 |
-| Not So Fast... | 13.00% | ~487 |
-| Watch Where You Step... | 13.00% | ~487 |
-| An Ill Omen | 13.00% | ~487 |
-| Purging Spree | 9.00% | ~337 |
+| Look Over There! | 13.00% | ~488 |
+| Not So Fast... | 13.00% | ~488 |
+| Watch Where You Step... | 13.00% | ~488 |
+| An Ill Omen | 13.00% | ~488 |
+| Purging Spree | 9.00% | ~338 |
 | Blood for the Blood God! | 8.00% | ~300 |
-| Bloodless | 7.00% | ~262 |
+| Bloodless | 7.00% | ~263 |
 | Friendly Fire | 6.00% | ~225 |
-| Surgical Excision | 5.00% | ~187 |
-| A Foul Creche | 5.00% | ~187 |
+| Surgical Excision | 5.00% | ~188 |
+| A Foul Creche | 5.00% | ~188 |
 | Honoured Battle-Brother | 4.00% | ~150 |
 | The Emperor Protects | 4.00% | ~150 |
 | Nemesis Master | 4.00% | ~150 |
 | Gunmaster | 4.00% | ~150 |
-| Hold Your Ground | 3.00% | ~112 |
-| Just a Scratch | 3.00% | ~112 |
-| Hive Exterminator | 3.00% | ~112 |
+| Hold Your Ground | 3.00% | ~113 |
+| Just a Scratch | 3.00% | ~113 |
+| Hive Exterminator | 3.00% | ~113 |
 | Daemonkeeper | 2.00% | ~75 |
 | Corruption Cleanser | 2.00% | ~75 |
 | Mind Like a Fortress | 2.00% | ~75 |
@@ -31,22 +31,22 @@ Number of Ratings: 371  (23.09.2022)
 | Only in Death | 2.00% | ~75 |
 | A Gift Spurned | 2.00% | ~75 |
 | Execution Force | 2.00% | ~75 |
-| Fleetmaster | 1.00% | ~37 |
-| For the Machine God | 1.00% | ~37 |
-| Exterminator | 1.00% | ~37 |
-| Preservationist | 1.00% | ~37 |
-| Junk Banishment | 1.00% | ~37 |
-| Long Distance Call | 1.00% | ~37 |
-| Tactical Flexibility | 1.00% | ~37 |
-| Tactical Sabotage | 1.00% | ~37 |
+| Fleetmaster | 1.00% | ~38 |
+| For the Machine God | 1.00% | ~38 |
+| Exterminator | 1.00% | ~38 |
+| Preservationist | 1.00% | ~38 |
+| Junk Banishment | 1.00% | ~38 |
+| Long Distance Call | 1.00% | ~38 |
+| Tactical Flexibility | 1.00% | ~38 |
+| Tactical Sabotage | 1.00% | ~38 |
 | Patron of Deimos | 0.90% | ~34 |
 | Engine Kill | 0.90% | ~34 |
 | Death Comes For All | 0.90% | ~34 |
 | Harvest No More | 0.80% | ~30 |
 | Hands-On Research | 0.70% | ~26 |
-| Strike Force | 0.60% | ~22 |
-| Exercise in Restraint | 0.60% | ~22 |
-| True Mastery | 0.60% | ~22 |
+| Strike Force | 0.60% | ~23 |
+| Exercise in Restraint | 0.60% | ~23 |
+| True Mastery | 0.60% | ~23 |
 | Reign of Confusion | 0.50% | ~19 |
 | Abomination | 0.40% | ~15 |
 | Suffer Not the Mutant | 0.40% | ~15 |
@@ -56,12 +56,12 @@ Number of Ratings: 371  (23.09.2022)
 | Warp Flickers | 0.30% | ~11 |
 | Killing Rampage | 0.30% | ~11 |
 | Deadshot | 0.30% | ~11 |
-| The Flesh is Weak | 0.20% | ~7 |
-| Opportunist | 0.20% | ~7 |
-| Brothers in Arms | 0.20% | ~7 |
-| Phalanx | 0.20% | ~7 |
-| Strategic Command | 0.20% | ~7 |
-| Terminal Meltdown | 0.20% | ~7 |
+| The Flesh is Weak | 0.20% | ~8 |
+| Opportunist | 0.20% | ~8 |
+| Brothers in Arms | 0.20% | ~8 |
+| Phalanx | 0.20% | ~8 |
+| Strategic Command | 0.20% | ~8 |
+| Terminal Meltdown | 0.20% | ~8 |
 | Arsenal of Destruction | 0.10% | ~4 |
 | Crisis Management | 0.10% | ~4 |
 | Grand Master | 0.10% | ~4 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.10% | ~4 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,749 (Ranked 217)  
+Progressed: 3,751 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-01 | 3,707 | 0 |
 | 2024-01-02 | 3,720 | 0 |
 | 2024-01-03 | 3,737 | 0 |
-| 2024-01-04 | 3,749 | 0 |
+| 2024-01-04 | 3,751 | 0 |
 ## Awards
 Max (Character Customization): 232  (Ranked 282)  
 Sum: 494 (Ranked 335)  

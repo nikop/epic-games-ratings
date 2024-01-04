@@ -23,17 +23,18 @@
 | The Golden Flash | 1.00% | ~2 |
 | The Power of the Mountains | 1.00% | ~2 |
 | Changing the World | 1.00% | ~2 |
+| Mirror, Mirror on the Wall | 0.70% | ~1 |
 | Sponsor | 0.70% | ~1 |
+| Defeat Ingla | 0.70% | ~1 |
 | Defeat Uskol | 0.70% | ~1 |
 | Nothing but the Truth | 0.70% | ~1 |
 | Trailblazer | 0.70% | ~1 |
 | Finally! | 0.70% | ~1 |
+| But what of the Acreans? | 0.70% | ~1 |
 | Unveiling the Truth | 0.70% | ~1 |
 | Small Setback | 0.70% | ~1 |
-| Mirror, Mirror on the Wall | 0.00% | ~0 |
 | Style over Stats | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |
-| Defeat Ingla | 0.00% | ~0 |
 | Bringing guns to a sword fight | 0.00% | ~0 |
 | Through Dangers Untold | 0.00% | ~0 |
 | Explorer by Heart | 0.00% | ~0 |
@@ -49,7 +50,6 @@
 | Pathfinder | 0.00% | ~0 |
 | Globetrotter | 0.00% | ~0 |
 | The End | 0.00% | ~0 |
-| But what of the Acreans? | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
 | Mind Over Matter | 0.00% | ~0 |
 | Coming Prepared | 0.00% | ~0 |

@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3174,
+  "EOS_Progressed": 3175,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8624,6 +8624,11 @@
       "Time": "2024-01-04T11:11:13.4570842+00:00",
       "NumProgressed": 3174,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-04T15:09:45.8414071+00:00",
+      "NumProgressed": 3175,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -8643,7 +8648,7 @@
       "Name": "Puppetmaster",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "BOT_DESTROYER",
@@ -8659,7 +8664,7 @@
       "Name": "Whoops",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "CONQUEROR",
@@ -8699,7 +8704,7 @@
       "Name": "Apprentice",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "FEUD_GRANDMASTER",
@@ -8723,7 +8728,7 @@
       "Name": "Glove Slap!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "GONNA_FLY_NOW",
@@ -8739,7 +8744,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1904
+      "UsersEstimate": 1905
     },
     {
       "ID": "GUARD_MAKER",
@@ -8810,14 +8815,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 3174,
+      "Progressed": 3175,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2024-01-04T14:10:01.4531961+00:00",
+  "LastChanged_Achievements": "2024-01-04T15:09:45.8414067+00:00",
   "LastUpdate_AppInfo": "2024-01-03T10:57:04.3509332+00:00",
-  "LastUpdate_Ratings": "2024-01-04T14:00:40.343316+00:00",
-  "LastUpdate_Achievements": "2024-01-04T14:10:01.4532643+00:00"
+  "LastUpdate_Ratings": "2024-01-04T14:59:51.3491343+00:00",
+  "LastUpdate_Achievements": "2024-01-04T15:09:45.8414795+00:00"
 }

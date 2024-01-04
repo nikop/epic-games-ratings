@@ -1496,9 +1496,9 @@
       "ID": "KR4_ACHIEVEMENT_KILL_DWARF_ENGINEERS",
       "SetID": "caeik3h",
       "Name": "Can\u0027t Touch This",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 212
+      "UsersEstimate": 215
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_EASY",
@@ -1584,9 +1584,9 @@
       "ID": "KR4_ACHIEVEMENT_MOLE",
       "SetID": "caeik3h",
       "Name": "Guac-a-Mole",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 109
     },
     {
       "ID": "KR4_ACHIEVEMENT_MOUSETHON",
@@ -1712,9 +1712,9 @@
       "ID": "KR4_ACHIEVEMENT_SPAWN_REINFORCEMENTS",
       "SetID": "caeik3h",
       "Name": "We Are Legion!",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 142
     },
     {
       "ID": "KR4_ACHIEVEMENT_SPIDERS",
@@ -1813,8 +1813,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2024-01-04T14:04:34.2742549+00:00",
+  "LastChanged_Achievements": "2024-01-04T15:04:10.4680097+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:04.1058747+00:00",
-  "LastUpdate_Ratings": "2024-01-04T13:57:28.5673994+00:00",
-  "LastUpdate_Achievements": "2024-01-04T14:04:34.2743127+00:00"
+  "LastUpdate_Ratings": "2024-01-04T14:57:04.6109104+00:00",
+  "LastUpdate_Achievements": "2024-01-04T15:04:10.4680993+00:00"
 }

@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Caged tiger | 63.00% | ~184 |
-| Gorilla warfare | 59.00% | ~172 |
-| Isenburg's fall | 48.00% | ~140 |
+| Caged tiger | 63.00% | ~185 |
+| Gorilla warfare | 58.00% | ~170 |
+| Isenburg's fall | 48.00% | ~141 |
 | Pieces of eight! | 42.00% | ~123 |
 | Elephant in the room | 31.00% | ~91 |
 | Aboard the Sea Bird | 30.00% | ~88 |
@@ -15,8 +15,8 @@
 | A gift horse | 25.00% | ~73 |
 | Is this the end? | 24.00% | ~70 |
 | You sssaved me | 23.00% | ~67 |
-| Say hello to my little friends | 21.00% | ~61 |
-| Heal thyself | 20.00% | ~58 |
+| Say hello to my little friends | 20.00% | ~59 |
+| Heal thyself | 19.00% | ~56 |
 | Gotcha | 18.00% | ~53 |
 | It's not cheating | 16.00% | ~47 |
 | Double trouble | 15.00% | ~44 |
@@ -27,10 +27,10 @@
 | Meet your maker | 9.00% | ~26 |
 | The pelican brief | 8.00% | ~23 |
 | Pacifist fanatic | 8.00% | ~23 |
-| A grave matter | 7.00% | ~20 |
-| Peaceful protest | 7.00% | ~20 |
-| The Good Place | 7.00% | ~20 |
-| Trial by combat | 7.00% | ~20 |
+| A grave matter | 7.00% | ~21 |
+| The Good Place | 7.00% | ~21 |
+| Trial by combat | 7.00% | ~21 |
+| Peaceful protest | 6.00% | ~18 |
 | A bard day's night | 5.00% | ~15 |
 | Money talks | 5.00% | ~15 |
 | Squid Game | 4.00% | ~12 |
@@ -46,7 +46,7 @@
 | Force of nature | 0.00% | ~0 |
 | Save it for a Rainier day | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 292 (Ranked 396)  
+Progressed: 293 (Ranked 395)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,6 +84,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-01 | 290 | 0 |
 | 2024-01-02 | 291 | 0 |
 | 2024-01-03 | 292 | 0 |
+| 2024-01-04 | 293 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

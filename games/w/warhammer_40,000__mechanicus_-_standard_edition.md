@@ -5,25 +5,25 @@ Rating: 4.43 (Ranked 721)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~60,144 |
+| No aid from the Omnissiah | 26.00% | ~60,145 |
 | This is only the beginning | 20.00% | ~46,265 |
-| Knowledge is power | 13.00% | ~30,072 |
-| Galvanic Rifle | 10.00% | ~23,132 |
-| Radium Ready | 10.00% | ~23,132 |
+| Knowledge is power | 13.00% | ~30,073 |
+| Galvanic Rifle | 10.00% | ~23,133 |
+| Radium Ready | 10.00% | ~23,133 |
 | Power Ranger | 9.00% | ~20,819 |
 | Taser Goad | 9.00% | ~20,819 |
 | Half a cog | 9.00% | ~20,819 |
-| Watch them crumble | 6.00% | ~13,879 |
+| Watch them crumble | 6.00% | ~13,880 |
 | Competent Cohort | 4.00% | ~9,253 |
 | Celestial Cartography Catastrophe | 4.00% | ~9,253 |
 | One with the Machine | 4.00% | ~9,253 |
 | Legio Cybernetica | 3.00% | ~6,940 |
 | Fleshy Disposal | 3.00% | ~6,940 |
-| Battle Servitor | 2.00% | ~4,626 |
-| Ding Dong Szaregon's Gone | 2.00% | ~4,626 |
-| Impatient destruction | 2.00% | ~4,626 |
-| Vivisected Vizier | 2.00% | ~4,626 |
-| Architect Abortion | 2.00% | ~4,626 |
+| Battle Servitor | 2.00% | ~4,627 |
+| Ding Dong Szaregon's Gone | 2.00% | ~4,627 |
+| Impatient destruction | 2.00% | ~4,627 |
+| Vivisected Vizier | 2.00% | ~4,627 |
+| Architect Abortion | 2.00% | ~4,627 |
 | Cohortus Maximus | 0.80% | ~1,851 |
 | Mother of Xenarites | 0.40% | ~925 |
 | False God | 0.30% | ~694 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 721)
 | Perma-live | 0.10% | ~231 |
 | Purge the Heretek | 0.10% | ~231 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,324 (Ranked 76)  
+Progressed: 231,327 (Ranked 76)  
 Completed: 5 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 5 (0.00%) (Ranked 392)
 | 2024-01-01 | 231,120 | 5 |
 | 2024-01-02 | 231,204 | 5 |
 | 2024-01-03 | 231,298 | 5 |
-| 2024-01-04 | 231,324 | 5 |
+| 2024-01-04 | 231,327 | 5 |
 ## Awards
 Max (Highly Recommended): 291  (Ranked 264)  
 Sum: 2,223 (Ranked 210)  

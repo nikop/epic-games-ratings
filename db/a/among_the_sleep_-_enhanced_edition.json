@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
@@ -500,9 +500,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 98082,
+  "EOS_Progressed": 98085,
   "EOS_Completed": 451,
-  "EOS_NewPlayers": 1010,
+  "EOS_NewPlayers": 1004,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -29385,6 +29385,11 @@
       "Time": "2024-01-04T14:09:16.6567366+00:00",
       "NumProgressed": 98082,
       "NumCompleted": 451
+    },
+    {
+      "Time": "2024-01-04T15:09:04.2749013+00:00",
+      "NumProgressed": 98085,
+      "NumCompleted": 451
     }
   ],
   "TotalAchievements": 10,
@@ -29428,7 +29433,7 @@
       "Name": "Closet Drawings",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "DrawingsAll",
@@ -29460,7 +29465,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 34329
+      "UsersEstimate": 34330
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -29475,15 +29480,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 98082,
+      "Progressed": 98085,
       "Completed": 451
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-12-20T03:02:57.8561576+00:00",
-  "LastChanged_Achievements": "2024-01-04T14:09:16.6567362+00:00",
+  "LastChanged_Achievements": "2024-01-04T15:09:04.2749008+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:31.1360404+00:00",
-  "LastUpdate_Ratings": "2024-01-04T14:03:22.2485303+00:00",
-  "LastUpdate_Achievements": "2024-01-04T14:09:16.6569147+00:00"
+  "LastUpdate_Ratings": "2024-01-04T15:03:04.8103057+00:00",
+  "LastUpdate_Achievements": "2024-01-04T15:09:04.2750655+00:00"
 }

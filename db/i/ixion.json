@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -335,9 +335,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3948,
+  "EOS_Progressed": 3949,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7850,6 +7850,11 @@
       "Time": "2024-01-04T12:06:40.4752278+00:00",
       "NumProgressed": 3948,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T15:08:15.8951341+00:00",
+      "NumProgressed": 3949,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -7861,7 +7866,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1026
+      "UsersEstimate": 1027
     },
     {
       "ID": "ACH_BASE_10",
@@ -7949,7 +7954,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1263
+      "UsersEstimate": 1264
     },
     {
       "ID": "ACH_BASE_22",
@@ -7973,7 +7978,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1105
+      "UsersEstimate": 1106
     },
     {
       "ID": "ACH_BASE_25",
@@ -8316,13 +8321,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 2132,
+      "Progressed": 2133,
       "Completed": 10
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3948,
+      "Progressed": 3949,
       "Completed": 0
     }
   ],
@@ -8330,8 +8335,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2024-01-04T06:58:36.3655707+00:00",
-  "LastChanged_Achievements": "2024-01-04T14:08:24.1816767+00:00",
+  "LastChanged_Achievements": "2024-01-04T15:08:15.8951337+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:27.7465752+00:00",
-  "LastUpdate_Ratings": "2024-01-04T13:58:59.0640863+00:00",
-  "LastUpdate_Achievements": "2024-01-04T14:08:24.1817724+00:00"
+  "LastUpdate_Ratings": "2024-01-04T14:58:23.1334978+00:00",
+  "LastUpdate_Achievements": "2024-01-04T15:08:15.8952174+00:00"
 }

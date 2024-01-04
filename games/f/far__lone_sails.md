@@ -1,7 +1,7 @@
 # FAR: Lone Sails
 [Store](https://store.epicgames.com/en-US/p/far-lone-sails)  
 [View Rawdata](../../db/f/far__lone_sails.json)  
-Rating: 4.62 (Ranked 376)  
+Rating: 4.59 (Ranked 443)  
 Number of Ratings: 25  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -30,3 +30,4 @@ Number of Ratings: 25  (23.09.2022)
 | 2023-11-09 | 4.62 | - | 0 | 0 |
 | 2023-12-15 | 4.60 | - | 0 | 0 |
 | 2024-01-03 | 4.62 | - | 0 | 0 |
+| 2024-01-04 | 4.59 | - | 0 | 0 |

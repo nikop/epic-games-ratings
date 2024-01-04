@@ -1,17 +1,17 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.59 (Ranked 444)  
+Rating: 4.59 (Ranked 443)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~88,739 |
-| Alt+F4 | 10.00% | ~24,650 |
-| Where's that freaking Dwarf? | 9.00% | ~22,185 |
-| Déjà vu | 8.00% | ~19,720 |
-| Sock! SOCK! | 6.00% | ~14,790 |
-| Speedrun | 6.00% | ~14,790 |
+| Sowwy! | 36.00% | ~88,743 |
+| Alt+F4 | 10.00% | ~24,651 |
+| Where's that freaking Dwarf? | 9.00% | ~22,186 |
+| Déjà vu | 8.00% | ~19,721 |
+| Sock! SOCK! | 6.00% | ~14,791 |
+| Speedrun | 6.00% | ~14,791 |
 | A beer, two curses, three companions | 5.00% | ~12,325 |
 | GG EZ | 5.00% | ~12,325 |
 | DM intervention | 5.00% | ~12,325 |
@@ -45,17 +45,17 @@ Number of Ratings: 118  (23.09.2022)
 | In Navalu's footsteps | 1.00% | ~2,465 |
 | Lust and Debauchery | 1.00% | ~2,465 |
 | Material Girl | 1.00% | ~2,465 |
-| Lëgal Legend | 0.90% | ~2,218 |
+| Lëgal Legend | 0.90% | ~2,219 |
 | We come in peace | 0.80% | ~1,972 |
-| Holistic Adventuring Party | 0.70% | ~1,725 |
-| An old poacher makes the best gamekeeper | 0.70% | ~1,725 |
+| Holistic Adventuring Party | 0.70% | ~1,726 |
+| An old poacher makes the best gamekeeper | 0.70% | ~1,726 |
 | Scholar of the Lands of Fangh | 0.60% | ~1,479 |
 | Law and Order | 0.60% | ~1,479 |
-| It's been a hard day's night | 0.50% | ~1,232 |
+| It's been a hard day's night | 0.50% | ~1,233 |
 | Friendly fire | 0.40% | ~986 |
 | I'd rather... Just... Sing! | 0.40% | ~986 |
 | Inception | 0.40% | ~986 |
-| The number of the counting shalt be 7 | 0.30% | ~739 |
+| The number of the counting shalt be 7 | 0.30% | ~740 |
 | Cursed die | 0.20% | ~493 |
 | The Blood Countess | 0.20% | ~493 |
 | He’s alive! Aliiiive! | 0.20% | ~493 |
@@ -70,32 +70,32 @@ Number of Ratings: 118  (23.09.2022)
 | Death is for wimps | 0.20% | ~493 |
 | Super-Ultra-Lydian | 0.20% | ~493 |
 | Demisemiquaver | 0.20% | ~493 |
-| Necrophilia | 0.10% | ~246 |
-| Restless night | 0.10% | ~246 |
-| King of the Arena | 0.10% | ~246 |
-| Finally free | 0.10% | ~246 |
-| Hoarding | 0.10% | ~246 |
-| Staff cut | 0.10% | ~246 |
-| Legendary brew | 0.10% | ~246 |
-| Elite Adventurers | 0.10% | ~246 |
-| Take your time back in time | 0.10% | ~246 |
-| Egghead | 0.10% | ~246 |
-| Sleep schedule mastery | 0.10% | ~246 |
-| Cute Dungeon | 0.10% | ~246 |
-| Mystical Dungeon | 0.10% | ~246 |
-| Gloomy Dungeon | 0.10% | ~246 |
-| Power struggle | 0.10% | ~246 |
-| Hit snooze | 0.10% | ~246 |
-| Minmaxer | 0.10% | ~246 |
-| Iron Golems Tamer | 0.10% | ~246 |
-| And they lived happily ever after... | 0.10% | ~246 |
-| Star-crossed lovers | 0.10% | ~246 |
-| Pyrrhic victory | 0.10% | ~246 |
-| Lord of the Drunks | 0.10% | ~246 |
-| Dumb and dumber | 0.10% | ~246 |
-| Dwarf Candy | 0.10% | ~246 |
+| Necrophilia | 0.10% | ~247 |
+| Restless night | 0.10% | ~247 |
+| King of the Arena | 0.10% | ~247 |
+| Finally free | 0.10% | ~247 |
+| Hoarding | 0.10% | ~247 |
+| Staff cut | 0.10% | ~247 |
+| Legendary brew | 0.10% | ~247 |
+| Elite Adventurers | 0.10% | ~247 |
+| Take your time back in time | 0.10% | ~247 |
+| Egghead | 0.10% | ~247 |
+| Sleep schedule mastery | 0.10% | ~247 |
+| Cute Dungeon | 0.10% | ~247 |
+| Mystical Dungeon | 0.10% | ~247 |
+| Gloomy Dungeon | 0.10% | ~247 |
+| Power struggle | 0.10% | ~247 |
+| Hit snooze | 0.10% | ~247 |
+| Minmaxer | 0.10% | ~247 |
+| Iron Golems Tamer | 0.10% | ~247 |
+| And they lived happily ever after... | 0.10% | ~247 |
+| Star-crossed lovers | 0.10% | ~247 |
+| Pyrrhic victory | 0.10% | ~247 |
+| Lord of the Drunks | 0.10% | ~247 |
+| Dumb and dumber | 0.10% | ~247 |
+| Dwarf Candy | 0.10% | ~247 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246,496 (Ranked 71)  
+Progressed: 246,509 (Ranked 71)  
 Completed: 8 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 8 (0.00%) (Ranked 392)
 | 2024-01-01 | 246,069 | 8 |
 | 2024-01-02 | 246,255 | 8 |
 | 2024-01-03 | 246,417 | 8 |
-| 2024-01-04 | 246,496 | 8 |
+| 2024-01-04 | 246,509 | 8 |
 ## Awards
 Max (Character Customization): 263  (Ranked 275)  
 Sum: 553 (Ranked 328)  

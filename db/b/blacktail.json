@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewPlayers": 297,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 868,
+  "EOS_Progressed": 869,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -2736,6 +2736,11 @@
       "Time": "2024-01-04T11:11:24.860278+00:00",
       "NumProgressed": 868,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-04T15:09:54.3399729+00:00",
+      "NumProgressed": 869,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -2923,7 +2928,7 @@
       "Name": "Slavic squatter",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Specialist",
@@ -3002,7 +3007,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 868,
+      "Progressed": 869,
       "Completed": 1
     }
   ],
@@ -3010,8 +3015,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-13T20:57:47.9412245+00:00",
-  "LastChanged_Achievements": "2024-01-04T14:10:11.3565093+00:00",
+  "LastChanged_Achievements": "2024-01-04T15:09:54.3399726+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:21.1393886+00:00",
-  "LastUpdate_Ratings": "2024-01-04T14:00:51.5553405+00:00",
-  "LastUpdate_Achievements": "2024-01-04T14:10:11.3565505+00:00"
+  "LastUpdate_Ratings": "2024-01-04T15:00:00.9205193+00:00",
+  "LastUpdate_Achievements": "2024-01-04T15:09:54.3400084+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "c5730ad3d7004a65a472a7699b88008a",
   "Name": "Foretales",
   "ProductSlug": "foretales-d6c5bd",
-  "Ranking_EOS_Progress": 396,
+  "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 477,
+  "Ranking_EOS_NewPlayers": 456,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-09-15T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 292,
+  "EOS_Progressed": 293,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -250,6 +250,11 @@
       "Time": "2024-01-03T08:06:00.7459655+00:00",
       "NumProgressed": 292,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T15:05:28.0876641+00:00",
+      "NumProgressed": 293,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 41,
@@ -285,7 +290,7 @@
       "Name": "Isenburg\u0027s fall",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "chapter2",
@@ -381,7 +386,7 @@
       "Name": "A grave matter",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "itsNotCheating",
@@ -435,9 +440,9 @@
       "ID": "pacificProtest",
       "SetID": "5bkacmp",
       "Name": "Peaceful protest",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "pacifistFanatic",
@@ -451,9 +456,9 @@
       "ID": "sayHelloToMyLittleFriends",
       "SetID": "5bkacmp",
       "Name": "Say hello to my little friends",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 59
     },
     {
       "ID": "sneakInSneakOut",
@@ -493,7 +498,7 @@
       "Name": "The Good Place",
       "Percentage": 7,
       "XP": 200,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "theGreatScam",
@@ -507,9 +512,9 @@
       "ID": "theHealer",
       "SetID": "5bkacmp",
       "Name": "Heal thyself",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 56
     },
     {
       "ID": "theMediumPlace",
@@ -549,15 +554,15 @@
       "Name": "Caged tiger",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "theUnionLeader",
       "SetID": "5bkacmp",
       "Name": "Gorilla warfare",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 170
     },
     {
       "ID": "trialByCombat",
@@ -565,7 +570,7 @@
       "Name": "Trial by combat",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "welcomeToForteAiles",
@@ -588,7 +593,7 @@
     {
       "ID": "5bkacmp",
       "IsBase": true,
-      "Progressed": 292,
+      "Progressed": 293,
       "Completed": 0
     }
   ],
@@ -596,8 +601,8 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
   "LastChanged": "2023-03-31T05:57:28.024543+00:00",
-  "LastChanged_Achievements": "2024-01-04T14:05:58.9940364+00:00",
+  "LastChanged_Achievements": "2024-01-04T15:05:28.0876637+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:47.02679+00:00",
-  "LastUpdate_Ratings": "2024-01-04T14:00:08.4925773+00:00",
-  "LastUpdate_Achievements": "2024-01-04T14:05:58.9940691+00:00"
+  "LastUpdate_Ratings": "2024-01-04T14:59:25.99146+00:00",
+  "LastUpdate_Achievements": "2024-01-04T15:05:28.0877264+00:00"
 }

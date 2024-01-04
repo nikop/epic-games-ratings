@@ -281,9 +281,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20055,
+  "EOS_Progressed": 20063,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 1691,
+  "EOS_NewPlayers": 1680,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -6861,6 +6861,11 @@
       "Time": "2024-01-04T14:05:31.5015714+00:00",
       "NumProgressed": 20055,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2024-01-04T15:05:03.010042+00:00",
+      "NumProgressed": 20063,
+      "NumCompleted": 93
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -6905,7 +6910,7 @@
       "Name": "Savior",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 1805
+      "UsersEstimate": 1806
     },
     {
       "ID": "SAVE_EVERYONE_PERFECT_1_2",
@@ -6921,7 +6926,7 @@
       "Name": "Rescuer",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2407
+      "UsersEstimate": 2408
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -6937,7 +6942,7 @@
       "Name": "Locksmith",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 1604
+      "UsersEstimate": 1605
     },
     {
       "ID": "WATCH_ALL_SCENES_1_5",
@@ -6952,7 +6957,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 20055,
+      "Progressed": 20063,
       "Completed": 93
     }
   ],
@@ -6960,8 +6965,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2024-01-02T16:59:56.4750656+00:00",
-  "LastChanged_Achievements": "2024-01-04T14:05:31.5015711+00:00",
+  "LastChanged_Achievements": "2024-01-04T15:05:03.0100415+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:09.201879+00:00",
-  "LastUpdate_Ratings": "2024-01-04T14:00:14.7616453+00:00",
-  "LastUpdate_Achievements": "2024-01-04T14:05:31.5016131+00:00"
+  "LastUpdate_Ratings": "2024-01-04T14:59:31.348895+00:00",
+  "LastUpdate_Achievements": "2024-01-04T15:05:03.010082+00:00"
 }

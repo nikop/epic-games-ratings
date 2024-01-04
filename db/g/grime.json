@@ -2,11 +2,11 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 444,
+  "Ranking_Rating": 443,
   "Ranking_Popularity": 426,
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 84,
-  "Ranking_EOS_Completed": 260,
+  "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 17,
   "Store": {
@@ -1813,11 +1813,11 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 166418,
-  "EOS_Completed": 441,
-  "EOS_NewPlayers": 1317,
+  "EOS_Progressed": 166434,
+  "EOS_Completed": 442,
+  "EOS_NewPlayers": 1325,
   "EOS_NewCompleters": 24,
-  "EOS_Completed_Percentage": 0.26,
+  "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:06.2765882+00:00",
@@ -21813,6 +21813,11 @@
       "Time": "2024-01-04T14:06:07.7669696+00:00",
       "NumProgressed": 166418,
       "NumCompleted": 441
+    },
+    {
+      "Time": "2024-01-04T15:05:36.0969747+00:00",
+      "NumProgressed": 166434,
+      "NumCompleted": 442
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -21873,7 +21878,7 @@
       "Name": "The Hunt",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3328
+      "UsersEstimate": 3329
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -21897,7 +21902,7 @@
       "Name": "Weeper",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3328
+      "UsersEstimate": 3329
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -22097,15 +22102,15 @@
       "Name": "Ravenous",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3328
+      "UsersEstimate": 3329
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
       "SetID": "ccc0dlh",
       "Name": "Unwrap the Gift",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 333
+      "UsersEstimate": 499
     },
     {
       "ID": "MISC_UNLOCKNERVEPASSES",
@@ -22192,21 +22197,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 166001,
+      "Progressed": 166017,
       "Completed": 1254
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 166418,
-      "Completed": 441
+      "Progressed": 166434,
+      "Completed": 442
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-04T14:00:27.8179781+00:00",
-  "LastChanged_Achievements": "2024-01-04T14:06:07.7669693+00:00",
+  "LastChanged_Achievements": "2024-01-04T15:05:36.0969744+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:50.3299145+00:00",
-  "LastUpdate_Ratings": "2024-01-04T14:00:27.8179786+00:00",
-  "LastUpdate_Achievements": "2024-01-04T14:06:07.767068+00:00"
+  "LastUpdate_Ratings": "2024-01-04T14:59:41.7015927+00:00",
+  "LastUpdate_Achievements": "2024-01-04T15:05:36.0971129+00:00"
 }

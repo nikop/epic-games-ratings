@@ -5,9 +5,9 @@
   "Ranking_Rating": 320,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 525,
-  "Ranking_EOS_Progress": 316,
+  "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
@@ -329,9 +329,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 700,
+  "EOS_Progressed": 703,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 249,
+  "EOS_NewPlayers": 251,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -1899,6 +1899,11 @@
       "Time": "2024-01-04T14:04:52.6330777+00:00",
       "NumProgressed": 700,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-04T15:04:27.4088067+00:00",
+      "NumProgressed": 703,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1991,7 +1996,7 @@
       "Name": "Jellyfish Jam",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ACH_KELP_FOREST",
@@ -2119,7 +2124,7 @@
       "Name": "Spatula Seeker",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -2127,7 +2132,7 @@
       "Name": "Sponge Smasher",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
@@ -2166,15 +2171,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 700,
+      "Progressed": 703,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-01T20:58:26.8279253+00:00",
-  "LastChanged_Achievements": "2024-01-04T14:04:52.6330774+00:00",
+  "LastChanged_Achievements": "2024-01-04T15:04:27.4088064+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:11.8880921+00:00",
-  "LastUpdate_Ratings": "2024-01-04T14:00:18.8315665+00:00",
-  "LastUpdate_Achievements": "2024-01-04T14:04:52.6331098+00:00"
+  "LastUpdate_Ratings": "2024-01-04T14:59:34.1141215+00:00",
+  "LastUpdate_Achievements": "2024-01-04T15:04:27.4088368+00:00"
 }

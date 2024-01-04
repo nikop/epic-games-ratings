@@ -297,9 +297,9 @@
       "Count": 48
     }
   ],
-  "EOS_Progressed": 116507,
+  "EOS_Progressed": 116549,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7302,
+  "EOS_NewPlayers": 7270,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3347,6 +3347,11 @@
       "Time": "2024-01-04T14:06:16.0736453+00:00",
       "NumProgressed": 116507,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T15:05:44.0119538+00:00",
+      "NumProgressed": 116549,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-10T01:55:31.023863+00:00",
@@ -3359,7 +3364,7 @@
       "Name": "Oh Baby, A Triple",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 3495
+      "UsersEstimate": 3496
     },
     {
       "ID": "ACH_5_STAGES_OF_GRIEF",
@@ -3383,7 +3388,7 @@
       "Name": "Battle Hardened",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 2330
+      "UsersEstimate": 2331
     },
     {
       "ID": "ACH_CAUTIOUS_VETERAN",
@@ -3423,7 +3428,7 @@
       "Name": "Fists, Fury \u0026 a lot of Rage",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 11651
+      "UsersEstimate": 11655
     },
     {
       "ID": "ACH_GROWNUP",
@@ -3431,7 +3436,7 @@
       "Name": "All Grown Up!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 20971
+      "UsersEstimate": 20979
     },
     {
       "ID": "ACH_JUST_GETTING_WARMED_UP",
@@ -3455,7 +3460,7 @@
       "Name": "I\u0027ve Had Enough!",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 16311
+      "UsersEstimate": 16317
     },
     {
       "ID": "ACH_LET_THEM_FIGHT",
@@ -3479,7 +3484,7 @@
       "Name": "Master of Disguise",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2330
+      "UsersEstimate": 2331
     },
     {
       "ID": "ACH_MAYHEM",
@@ -3487,7 +3492,7 @@
       "Name": "It\u0027s Mayhem!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2330
+      "UsersEstimate": 2331
     },
     {
       "ID": "ACH_NINJA_REFLEX",
@@ -3511,7 +3516,7 @@
       "Name": "All For One and One For All",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 9321
+      "UsersEstimate": 9324
     },
     {
       "ID": "ACH_RIGHT_BACK_AT_CHA",
@@ -3519,7 +3524,7 @@
       "Name": "Right back at\u0027cha",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2330
+      "UsersEstimate": 2331
     },
     {
       "ID": "ACH_SEASONED_FIGHTER",
@@ -3527,7 +3532,7 @@
       "Name": "Seasoned Fighter",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 9321
+      "UsersEstimate": 9324
     },
     {
       "ID": "ACH_SIGNATURE_LOOK",
@@ -3567,7 +3572,7 @@
       "Name": "Symbiotic",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 3495
+      "UsersEstimate": 3496
     },
     {
       "ID": "ACH_TASTE_YOUR_OWN_MEDICINE",
@@ -3583,7 +3588,7 @@
       "Name": "A New Age",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 5825
+      "UsersEstimate": 5827
     },
     {
       "ID": "ACH_TOP_OF_THE_FOOD_CHAIN",
@@ -3623,7 +3628,7 @@
       "Name": "Home Sweet Home?",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 5825
+      "UsersEstimate": 5827
     },
     {
       "ID": "ACH_ZERO_SUM_GAME",
@@ -3638,7 +3643,7 @@
     {
       "ID": "3k5ibhn",
       "IsBase": true,
-      "Progressed": 116507,
+      "Progressed": 116549,
       "Completed": 0
     }
   ],
@@ -3646,8 +3651,8 @@
   "FirstSeenRating": "2022-10-02T07:32:08.4274129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:17.2611178+00:00",
   "LastChanged": "2024-01-02T17:03:16.2726926+00:00",
-  "LastChanged_Achievements": "2024-01-04T14:06:16.0736451+00:00",
+  "LastChanged_Achievements": "2024-01-04T15:05:44.0119535+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:23.1582373+00:00",
-  "LastUpdate_Ratings": "2024-01-04T14:03:08.9443007+00:00",
-  "LastUpdate_Achievements": "2024-01-04T14:06:16.0736885+00:00"
+  "LastUpdate_Ratings": "2024-01-04T15:02:51.6746578+00:00",
+  "LastUpdate_Achievements": "2024-01-04T15:05:44.0120034+00:00"
 }

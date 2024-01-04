@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 46,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9313,9 +9313,9 @@
       "Count": 3624
     }
   ],
-  "EOS_Progressed": 250814,
-  "EOS_Completed": 2590,
-  "EOS_NewPlayers": 4818,
+  "EOS_Progressed": 250830,
+  "EOS_Completed": 2591,
+  "EOS_NewPlayers": 4788,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -38653,6 +38653,11 @@
       "Time": "2024-01-04T14:10:22.3687372+00:00",
       "NumProgressed": 250814,
       "NumCompleted": 2590
+    },
+    {
+      "Time": "2024-01-04T15:10:04.6103853+00:00",
+      "NumProgressed": 250830,
+      "NumCompleted": 2591
     }
   ],
   "TotalAchievements": 546,
@@ -38664,7 +38669,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7524
+      "UsersEstimate": 7525
     },
     {
       "ID": "objective_completed_10",
@@ -40336,7 +40341,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5016
+      "UsersEstimate": 5017
     },
     {
       "ID": "objective_completed_34",
@@ -42984,7 +42989,7 @@
       "Name": "The Overgrown Grove",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1086
     },
     {
       "ID": "objective_completed_673",
@@ -43008,7 +43013,7 @@
       "Name": "Mental Gymnastics",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1086
     },
     {
       "ID": "objective_completed_860",
@@ -43031,21 +43036,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 217088,
+      "Progressed": 217104,
       "Completed": 4132
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 250814,
-      "Completed": 2590
+      "Progressed": 250830,
+      "Completed": 2591
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-04T03:58:47.9786606+00:00",
-  "LastChanged_Achievements": "2024-01-04T14:10:22.3687368+00:00",
+  "LastChanged_Achievements": "2024-01-04T15:10:04.6103849+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-04T13:59:31.9453486+00:00",
-  "LastUpdate_Achievements": "2024-01-04T14:10:22.3712598+00:00"
+  "LastUpdate_Ratings": "2024-01-04T14:58:53.1609991+00:00",
+  "LastUpdate_Achievements": "2024-01-04T15:10:04.6128366+00:00"
 }

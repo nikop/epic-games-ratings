@@ -13,12 +13,12 @@ Number of Ratings: 98  (23.09.2022)
 | Mosquito bite | 37.00% | ~715 |
 | Spice It Up | 33.00% | ~638 |
 | Agent 47 | 27.00% | ~522 |
+| You're Gonna Go Far, Kid | 27.00% | ~522 |
 | Bomberman | 27.00% | ~522 |
-| You're Gonna Go Far, Kid | 26.00% | ~503 |
 | Death to the Oppressor! | 20.00% | ~387 |
 | The Gang's All Here | 17.00% | ~329 |
+| Your Answer | 16.00% | ~309 |
 | One by One | 15.00% | ~290 |
-| Your Answer | 15.00% | ~290 |
 | The Big Bertha | 13.00% | ~251 |
 | Game Over | 12.00% | ~232 |
 | Lock, Stock | 8.00% | ~155 |
@@ -38,7 +38,7 @@ Number of Ratings: 98  (23.09.2022)
 | Scout | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,933 (Ranked 248)  
-Completed: 2 (0.10%) (Ranked 305)  
+Completed: 2 (0.10%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

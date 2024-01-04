@@ -36,8 +36,8 @@ Number of Ratings: 98  (23.09.2022)
 | The Show Must Go On | 8.00% | ~781 |
 | Tosca | 8.00% | ~781 |
 | 12th Bottle of the Isonzo | 6.00% | ~586 |
+| Cercatore d'Oro | 6.00% | ~586 |
 | The Enlightment | 6.00% | ~586 |
-| Cercatore d'Oro | 5.00% | ~488 |
 | Generalissimo | 4.00% | ~390 |
 | "O La Vittoria, O Tutti Accoppati" | 4.00% | ~390 |
 | Seeing Red | 3.00% | ~293 |
@@ -53,7 +53,7 @@ Number of Ratings: 98  (23.09.2022)
 | Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 9,760 (Ranked 182)  
-Completed: 10 (0.10%) (Ranked 305)  
+Completed: 10 (0.10%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

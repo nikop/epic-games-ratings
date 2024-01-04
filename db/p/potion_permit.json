@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 487,
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -397,9 +397,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 1873,
+  "EOS_Progressed": 1874,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -3337,6 +3337,11 @@
       "Time": "2024-01-04T13:10:26.8056817+00:00",
       "NumProgressed": 1873,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-04T15:06:12.8390865+00:00",
+      "NumProgressed": 1874,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 38,
@@ -3348,7 +3353,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1836
+      "UsersEstimate": 1837
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -3420,7 +3425,7 @@
       "Name": "Intermediate Chemist",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "ACHIEVEMENTS_11",
@@ -3484,7 +3489,7 @@
       "Name": "Dog Whisperer",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     },
     {
       "ID": "ACHIEVEMENTS_19",
@@ -3516,7 +3521,7 @@
       "Name": "The Capitalist",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "ACHIEVEMENTS_23",
@@ -3540,7 +3545,7 @@
       "Name": "Community Helper",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "ACHIEVEMENTS_26",
@@ -3612,7 +3617,7 @@
       "Name": "Moonbury Traveller",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1181
     },
     {
       "ID": "ACHIEVEMENTS_35",
@@ -3651,7 +3656,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1873,
+      "Progressed": 1874,
       "Completed": 11
     }
   ],
@@ -3659,8 +3664,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-12-28T09:03:17.5303608+00:00",
-  "LastChanged_Achievements": "2024-01-04T14:06:47.7435059+00:00",
+  "LastChanged_Achievements": "2024-01-04T15:06:12.839086+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:18.8535407+00:00",
-  "LastUpdate_Ratings": "2024-01-04T13:59:55.2380722+00:00",
-  "LastUpdate_Achievements": "2024-01-04T14:06:47.7435528+00:00"
+  "LastUpdate_Ratings": "2024-01-04T14:59:13.5000238+00:00",
+  "LastUpdate_Achievements": "2024-01-04T15:06:12.8391599+00:00"
 }

@@ -6,16 +6,16 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Abandoned Settlement | 8.00% | ~1,608 |
-| Overgrown Library | 8.00% | ~1,608 |
-| First Real Expedition | 7.00% | ~1,407 |
-| Taking Action | 7.00% | ~1,407 |
-| No Deaths | 7.00% | ~1,407 |
-| Petrified Necropolis | 7.00% | ~1,407 |
-| Overcoming Difficulty | 6.00% | ~1,206 |
-| Coral Forest | 6.00% | ~1,206 |
-| The Marshlands | 6.00% | ~1,206 |
-| Gathering Storm | 6.00% | ~1,206 |
+| Abandoned Settlement | 8.00% | ~1,609 |
+| Overgrown Library | 8.00% | ~1,609 |
+| First Real Expedition | 7.00% | ~1,408 |
+| Taking Action | 7.00% | ~1,408 |
+| No Deaths | 7.00% | ~1,408 |
+| Petrified Necropolis | 7.00% | ~1,408 |
+| Overcoming Difficulty | 6.00% | ~1,207 |
+| Coral Forest | 6.00% | ~1,207 |
+| The Marshlands | 6.00% | ~1,207 |
+| Gathering Storm | 6.00% | ~1,207 |
 | The Scarlet Orchard | 5.00% | ~1,005 |
 | Frosts | 5.00% | ~1,005 |
 | Land of Greed | 5.00% | ~1,005 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,106 (Ranked 152)  
+Progressed: 20,109 (Ranked 152)  
 Completed: 33 (0.16%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,11 +325,11 @@ Completed: 33 (0.16%) (Ranked 282)
 | 2024-01-01 | 19,919 | 33 |
 | 2024-01-02 | 19,991 | 33 |
 | 2024-01-03 | 20,065 | 33 |
-| 2024-01-04 | 20,106 | 33 |
+| 2024-01-04 | 20,109 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 447  (Ranked 230)  
-Sum: 3,326 (Ranked 177)  
-Diff (max vs sum): 53  
+Sum: 3,329 (Ranked 176)  
+Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 447 |
@@ -337,7 +337,7 @@ Diff (max vs sum): 53
 | This game is Great for Beginners | 437 |
 | This game is Extremely Fun | 418 |
 | This game is Highly Recommended | 401 |
-| This game has Unique Visuals | 338 |
+| This game has Unique Visuals | 341 |
 | This game has Amazing Storytelling | 329 |
 | This game has Amazing Characters | 292 |
 | This game has Obsessive Gameplay | 254 |
@@ -619,4 +619,4 @@ Diff (max vs sum): 53
 | 2024-01-01 | 4.82 | - | 447 | 3,317 |
 | 2024-01-02 | 4.82 | - | 447 | 3,320 |
 | 2024-01-03 | 4.82 | - | 447 | 3,324 |
-| 2024-01-04 | 4.82 | - | 447 | 3,326 |
+| 2024-01-04 | 4.82 | - | 447 | 3,329 |

@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 950,
+  "EOS_Progressed": 951,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4092,6 +4092,11 @@
       "Time": "2024-01-04T11:10:54.9145076+00:00",
       "NumProgressed": 950,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T15:09:32.6723109+00:00",
+      "NumProgressed": 951,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -4119,7 +4124,7 @@
       "Name": "Culinary Arts",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "5OvenDishesMenu",
@@ -4175,7 +4180,7 @@
       "Name": "Perfectionist",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "DilemasResponsibility10",
@@ -4263,7 +4268,7 @@
       "Name": "Haute Cuisine",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "Money10000",
@@ -4279,7 +4284,7 @@
       "Name": "The Big Day",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "Packing20",
@@ -4327,7 +4332,7 @@
       "Name": "S is for Scrumptious",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ServiceMaxClient",
@@ -4359,7 +4364,7 @@
       "Name": "You\u0027re the Expert!",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "TrattoriaSet",
@@ -4422,7 +4427,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 950,
+      "Progressed": 951,
       "Completed": 0
     }
   ],
@@ -4430,8 +4435,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2024-01-04T14:09:47.164613+00:00",
+  "LastChanged_Achievements": "2024-01-04T15:09:32.6723106+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.9361067+00:00",
-  "LastUpdate_Ratings": "2024-01-04T13:59:01.9210075+00:00",
-  "LastUpdate_Achievements": "2024-01-04T14:09:47.1646678+00:00"
+  "LastUpdate_Ratings": "2024-01-04T14:58:25.4236998+00:00",
+  "LastUpdate_Achievements": "2024-01-04T15:09:32.6723506+00:00"
 }

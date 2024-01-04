@@ -498,9 +498,9 @@
       "ID": "ACH_PROPERTY-DAMAGE",
       "SetID": "6lg1p1e",
       "Name": "Property Damage",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_RACER-CHAMPION",
@@ -569,8 +569,8 @@
   ],
   "FirstSeen": "2023-12-07T10:00:27.7734376+00:00",
   "FirstSeenAchievements": "2023-11-03T11:07:54.6624066+00:00",
-  "LastChanged_Achievements": "2024-01-04T14:09:01.3949484+00:00",
+  "LastChanged_Achievements": "2024-01-04T15:08:50.2727191+00:00",
   "LastUpdate_AppInfo": "2024-01-03T22:57:16.3132761+00:00",
-  "LastUpdate_Ratings": "2024-01-04T14:00:14.0475982+00:00",
-  "LastUpdate_Achievements": "2024-01-04T14:09:01.3949764+00:00"
+  "LastUpdate_Ratings": "2024-01-04T14:59:30.7382051+00:00",
+  "LastUpdate_Achievements": "2024-01-04T15:08:50.2727498+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 387,
   "Ranking_EOS_Completed": 145,
   "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -305,11 +305,11 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 315,
+  "EOS_Progressed": 316,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 1.59,
+  "EOS_Completed_Percentage": 1.58,
   "EosHistory": [
     {
       "Time": "2023-12-18T10:04:38.3586261+00:00",
@@ -1365,6 +1365,11 @@
       "Time": "2024-01-04T13:12:02.0419124+00:00",
       "NumProgressed": 315,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-04T15:08:22.5536058+00:00",
+      "NumProgressed": 316,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -1455,9 +1460,9 @@
       "ID": "ACH_ABILITY_TRANSMOG",
       "SetID": "cefn62b",
       "Name": "Freshly Squeezed",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH_ABILITY_WITHWEAPON",
@@ -1465,7 +1470,7 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_CHALLENGE_ABDUCTIONTHREESTAR",
@@ -1473,7 +1478,7 @@
       "Name": "Ouch of Body Experience",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACH_CHALLENGE_ANY",
@@ -1481,7 +1486,7 @@
       "Name": "Furon Fashion",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ACH_CHALLENGE_ARMAGEDDONTHREESTAR",
@@ -1495,9 +1500,9 @@
       "ID": "ACH_CHALLENGE_RACETHREESTAR",
       "SetID": "cefn62b",
       "Name": "PK Slam Dunk",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_CHALLENGE_RAMPAGETHREESTAR",
@@ -1529,7 +1534,7 @@
       "Name": "Earthly Pleasures",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ACH_COLLECT_BRAINWHILEDAMAGED",
@@ -1537,7 +1542,7 @@
       "Name": "Kaijuiced",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACH_COLLECT_PROBE",
@@ -1545,7 +1550,7 @@
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ACH_COMBAT_EVADEBAZOOKA",
@@ -1577,7 +1582,7 @@
       "Name": "Lobster Blisque",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACH_ENEMY_SILHOUETTE",
@@ -1623,9 +1628,9 @@
       "ID": "ACH_INVADE_TURNIPSEED",
       "SetID": "cefn62b",
       "Name": "Shop Til They Drop",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 228
     },
     {
       "ID": "ACH_INVADE_UNIONTOWN",
@@ -1649,7 +1654,7 @@
       "Name": "Bodied Sattva",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ACH_OBJECTIVES_COMPLETEDALLOPTIONAL",
@@ -1673,7 +1678,7 @@
       "Name": "Perfect Probulator",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1696,15 +1701,15 @@
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 315,
+      "Progressed": 316,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2024-01-02T13:57:49.2378657+00:00",
-  "LastChanged_Achievements": "2024-01-04T14:08:31.3345819+00:00",
+  "LastChanged_Achievements": "2024-01-04T15:08:22.5536055+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:06.6677344+00:00",
-  "LastUpdate_Ratings": "2024-01-04T13:58:47.3040999+00:00",
-  "LastUpdate_Achievements": "2024-01-04T14:08:31.3346129+00:00"
+  "LastUpdate_Ratings": "2024-01-04T14:58:12.9507538+00:00",
+  "LastUpdate_Achievements": "2024-01-04T15:08:22.5536339+00:00"
 }

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 478,
   "Ranking_PopularitySum": 409,
   "Ranking_EOS_Progress": 196,
-  "Ranking_EOS_Completed": 305,
+  "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
@@ -717,9 +717,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6818,
+  "EOS_Progressed": 6822,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 426,
+  "EOS_NewPlayers": 427,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10327,6 +10327,11 @@
       "Time": "2024-01-04T14:03:41.6635611+00:00",
       "NumProgressed": 6818,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-04T15:03:22.7510921+00:00",
+      "NumProgressed": 6822,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10378,7 +10383,7 @@
       "Name": "Full Ascension",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "15",
@@ -10450,7 +10455,7 @@
       "Name": "Realm Estate",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "23",
@@ -10458,7 +10463,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "24",
@@ -10474,7 +10479,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "26",
@@ -10530,7 +10535,7 @@
       "Name": "Magical Synergy",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "32",
@@ -10817,13 +10822,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6818,
+      "Progressed": 6822,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6818,
+      "Progressed": 6822,
       "Completed": 7
     }
   ],
@@ -10831,8 +10836,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-03T13:04:27.6429549+00:00",
-  "LastChanged_Achievements": "2024-01-04T14:03:41.6635606+00:00",
+  "LastChanged_Achievements": "2024-01-04T15:03:22.7510916+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-04T14:01:14.0514391+00:00",
-  "LastUpdate_Achievements": "2024-01-04T14:03:41.6636506+00:00"
+  "LastUpdate_Ratings": "2024-01-04T15:00:21.5290075+00:00",
+  "LastUpdate_Achievements": "2024-01-04T15:03:22.7511927+00:00"
 }

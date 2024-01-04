@@ -3,11 +3,11 @@
   "Name": "Darksiders III",
   "ProductSlug": "darksiders3",
   "Ranking_Rating": 652,
-  "Ranking_Popularity": 382,
-  "Ranking_PopularitySum": 466,
+  "Ranking_Popularity": 383,
+  "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
@@ -476,7 +476,7 @@
   ],
   "EOS_Progressed": 413,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -2099,8 +2099,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-03T05:57:54.1795117+00:00",
-  "LastChanged_Achievements": "2024-01-04T14:07:00.9726166+00:00",
+  "LastChanged_Achievements": "2024-01-04T15:08:04.625792+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.0817876+00:00",
-  "LastUpdate_Ratings": "2024-01-04T13:59:01.4877855+00:00",
-  "LastUpdate_Achievements": "2024-01-04T14:07:00.9726637+00:00"
+  "LastUpdate_Ratings": "2024-01-04T14:58:25.0334729+00:00",
+  "LastUpdate_Achievements": "2024-01-04T15:08:04.6258572+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "one-military-camp-8db1f6",
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewPlayers": 301,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 279,
+  "EOS_Progressed": 280,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
@@ -1239,6 +1239,11 @@
       "Time": "2024-01-04T10:06:28.3014266+00:00",
       "NumProgressed": 279,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T15:06:11.8958627+00:00",
+      "NumProgressed": 280,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-17T17:03:41.4004468+00:00",
@@ -1523,7 +1528,7 @@
       "Name": "First Step",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACHIEVEMENT_ID_40",
@@ -1587,7 +1592,7 @@
       "Name": "Green Energy",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHIEVEMENT_ID_9",
@@ -1602,14 +1607,14 @@
     {
       "ID": "c504de6",
       "IsBase": true,
-      "Progressed": 279,
+      "Progressed": 280,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2024-01-04T14:06:46.7210448+00:00",
+  "LastChanged_Achievements": "2024-01-04T15:06:11.8958624+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.400419+00:00",
-  "LastUpdate_Ratings": "2024-01-04T13:58:42.7003657+00:00",
-  "LastUpdate_Achievements": "2024-01-04T14:06:46.7210788+00:00"
+  "LastUpdate_Ratings": "2024-01-04T14:58:09.0790932+00:00",
+  "LastUpdate_Achievements": "2024-01-04T15:06:11.8959058+00:00"
 }

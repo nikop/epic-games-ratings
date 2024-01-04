@@ -2,9 +2,9 @@
   "ID": "82337545852b4e2d8bfbb5fcccfc587e",
   "Name": "DEEEER Simulator: Your Average Everyday Deer Game",
   "ProductSlug": "deeeer-simulator-9bfc4a",
-  "Ranking_EOS_Progress": 453,
+  "Ranking_EOS_Progress": 451,
   "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 390,
+  "Ranking_EOS_NewPlayers": 383,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 148,
+  "EOS_Progressed": 149,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.11,
+  "EOS_Completed_Percentage": 8.05,
   "EosHistory": [
     {
       "Time": "2023-08-23T04:02:11.6245776+00:00",
@@ -789,6 +789,11 @@
       "Time": "2024-01-04T06:09:41.6777987+00:00",
       "NumProgressed": 148,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-04T15:08:53.9447022+00:00",
+      "NumProgressed": 149,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-08-23T04:02:11.6262951+00:00",
@@ -809,7 +814,7 @@
       "Name": "Counting Sheep",
       "Percentage": 85,
       "XP": 70,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "EpicACHV_11",
@@ -823,9 +828,9 @@
       "ID": "EpicACHV_12",
       "SetID": "acn799d",
       "Name": "God Disguised as a Cow",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 101
+      "UsersEstimate": 100
     },
     {
       "ID": "EpicACHV_13",
@@ -857,7 +862,7 @@
       "Name": "Genius",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "EpicACHV_17",
@@ -873,7 +878,7 @@
       "Name": "Self-sacrifice",
       "Percentage": 99,
       "XP": 30,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "EpicACHV_3",
@@ -895,9 +900,9 @@
       "ID": "EpicACHV_5",
       "SetID": "acn799d",
       "Name": "Like a Truck",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 70,
-      "UsersEstimate": 90
+      "UsersEstimate": 89
     },
     {
       "ID": "EpicACHV_6",
@@ -911,7 +916,7 @@
       "ID": "EpicACHV_7",
       "SetID": "acn799d",
       "Name": "Town Musicians of Bremen",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 70,
       "UsersEstimate": 112
     },
@@ -927,7 +932,7 @@
       "ID": "EpicACHV_9",
       "SetID": "acn799d",
       "Name": "Deer-hunting",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 30,
       "UsersEstimate": 112
     }
@@ -936,14 +941,14 @@
     {
       "ID": "acn799d",
       "IsBase": true,
-      "Progressed": 148,
+      "Progressed": 149,
       "Completed": 12
     }
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2024-01-04T14:09:05.3999974+00:00",
+  "LastChanged_Achievements": "2024-01-04T15:08:53.9447019+00:00",
   "LastUpdate_AppInfo": "2024-01-03T15:56:53.9341623+00:00",
-  "LastUpdate_Ratings": "2024-01-04T13:59:31.1248497+00:00",
-  "LastUpdate_Achievements": "2024-01-04T14:09:05.400015+00:00"
+  "LastUpdate_Ratings": "2024-01-04T14:58:52.5260066+00:00",
+  "LastUpdate_Achievements": "2024-01-04T15:08:53.9447201+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 192,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -5403,9 +5403,9 @@
       "Count": 533
     }
   ],
-  "EOS_Progressed": 92978,
+  "EOS_Progressed": 92985,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 337,
+  "EOS_NewPlayers": 343,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -30288,6 +30288,11 @@
       "Time": "2024-01-04T14:05:38.3799567+00:00",
       "NumProgressed": 92978,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-04T15:05:09.2548273+00:00",
+      "NumProgressed": 92985,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -30467,7 +30472,7 @@
       "Name": "Too Old for This",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2789
+      "UsersEstimate": 2790
     },
     {
       "ID": "ACH_0300",
@@ -30531,7 +30536,7 @@
       "Name": "Fancy Pants",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2789
+      "UsersEstimate": 2790
     },
     {
       "ID": "ACH_0431",
@@ -30626,13 +30631,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 92978,
+      "Progressed": 92985,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 21325,
+      "Progressed": 21332,
       "Completed": 15595
     }
   ],
@@ -30640,8 +30645,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2024-01-04T03:57:14.6738683+00:00",
-  "LastChanged_Achievements": "2024-01-04T14:05:38.3799564+00:00",
+  "LastChanged_Achievements": "2024-01-04T15:05:09.2548269+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:43.6008036+00:00",
-  "LastUpdate_Ratings": "2024-01-04T13:57:56.8684451+00:00",
-  "LastUpdate_Achievements": "2024-01-04T14:05:38.3800914+00:00"
+  "LastUpdate_Ratings": "2024-01-04T14:57:28.3913519+00:00",
+  "LastUpdate_Achievements": "2024-01-04T15:05:09.2549877+00:00"
 }

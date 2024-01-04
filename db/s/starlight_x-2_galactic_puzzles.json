@@ -540,9 +540,9 @@
       "ID": "ach_levels_01",
       "SetID": "8jkn3bi",
       "Name": "Complete 50 levels",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_levels_02",
@@ -764,9 +764,9 @@
       "ID": "ach_usehints_02",
       "SetID": "8jkn3bi",
       "Name": "Use 50 hints",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
@@ -779,8 +779,8 @@
   ],
   "FirstSeen": "2023-11-18T16:58:15.9400848+00:00",
   "FirstSeenAchievements": "2023-04-25T20:54:03.7448556+00:00",
-  "LastChanged_Achievements": "2024-01-04T14:10:13.2474965+00:00",
+  "LastChanged_Achievements": "2024-01-04T15:09:56.0686152+00:00",
   "LastUpdate_AppInfo": "2023-12-30T17:56:59.9780956+00:00",
-  "LastUpdate_Ratings": "2024-01-04T13:59:42.0424279+00:00",
-  "LastUpdate_Achievements": "2024-01-04T14:10:13.2475415+00:00"
+  "LastUpdate_Ratings": "2024-01-04T14:59:01.9179151+00:00",
+  "LastUpdate_Achievements": "2024-01-04T15:09:56.0686416+00:00"
 }

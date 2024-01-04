@@ -2,12 +2,12 @@
   "ID": "50b6612049324d0faf8642014139b082",
   "Name": "EA SPORTS\u2122 WRC",
   "ProductSlug": "wrc-23",
-  "Ranking_Rating": 853,
+  "Ranking_Rating": 854,
   "Ranking_Popularity": 578,
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewPlayers": 568,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -2396,8 +2396,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2024-01-04T09:00:16.6928211+00:00",
-  "LastChanged_Achievements": "2024-01-04T14:10:07.763511+00:00",
+  "LastChanged_Achievements": "2024-01-04T15:09:50.7736677+00:00",
   "LastUpdate_AppInfo": "2024-01-02T23:57:09.0354443+00:00",
-  "LastUpdate_Ratings": "2024-01-04T14:00:54.288251+00:00",
-  "LastUpdate_Achievements": "2024-01-04T14:10:07.7635387+00:00"
+  "LastUpdate_Ratings": "2024-01-04T15:00:03.3922716+00:00",
+  "LastUpdate_Achievements": "2024-01-04T15:09:50.7736954+00:00"
 }

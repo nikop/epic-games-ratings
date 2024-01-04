@@ -35,9 +35,9 @@
 | Own four walls | 51.00% | ~271 |
 | Legal courier | 48.00% | ~255 |
 | Extreme neuropower! | 48.00% | ~255 |
-| Escaped from a big trouble | 45.00% | ~239 |
+| Escaped from a big trouble | 46.00% | ~244 |
+| Now you are worthy | 41.00% | ~218 |
 | Fight is life | 41.00% | ~218 |
-| Now you are worthy | 40.00% | ~212 |
 | Mysterious voice | 40.00% | ~212 |
 | Guiding on the right path | 40.00% | ~212 |
 | No blades in the gym | 38.00% | ~202 |

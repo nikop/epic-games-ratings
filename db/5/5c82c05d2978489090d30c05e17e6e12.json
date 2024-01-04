@@ -251,9 +251,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 72963,
+  "EOS_Progressed": 72980,
   "EOS_Completed": 108,
-  "EOS_NewPlayers": 1908,
+  "EOS_NewPlayers": 1911,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6081,6 +6081,11 @@
       "Time": "2024-01-04T14:07:11.1339072+00:00",
       "NumProgressed": 72963,
       "NumCompleted": 108
+    },
+    {
+      "Time": "2024-01-04T15:08:13.9119492+00:00",
+      "NumProgressed": 72980,
+      "NumCompleted": 108
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -6093,7 +6098,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 26996
+      "UsersEstimate": 27003
     },
     {
       "ID": "Achievement_10",
@@ -6133,7 +6138,7 @@
       "Name": "Gardener of Lango",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1459
+      "UsersEstimate": 1460
     },
     {
       "ID": "Achievement_15",
@@ -6181,7 +6186,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 20430
+      "UsersEstimate": 20434
     },
     {
       "ID": "Achievement_20",
@@ -6205,7 +6210,7 @@
       "Name": "Spiritualist of the Sands",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1459
+      "UsersEstimate": 1460
     },
     {
       "ID": "Achievement_23",
@@ -6269,7 +6274,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8756
+      "UsersEstimate": 8758
     },
     {
       "ID": "Achievement_30",
@@ -6293,7 +6298,7 @@
       "Name": "Art Director",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 1459
+      "UsersEstimate": 1460
     },
     {
       "ID": "Achievement_33",
@@ -6317,7 +6322,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6567
+      "UsersEstimate": 6568
     },
     {
       "ID": "Achievement_5",
@@ -6325,7 +6330,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 5107
+      "UsersEstimate": 5109
     },
     {
       "ID": "Achievement_6",
@@ -6364,7 +6369,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 72963,
+      "Progressed": 72980,
       "Completed": 108
     }
   ],
@@ -6372,8 +6377,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-02T15:03:36.0297933+00:00",
-  "LastChanged_Achievements": "2024-01-04T14:07:11.1339071+00:00",
+  "LastChanged_Achievements": "2024-01-04T15:08:13.911949+00:00",
   "LastUpdate_AppInfo": "2023-12-28T16:57:09.138646+00:00",
-  "LastUpdate_Ratings": "2024-01-04T14:03:15.2680067+00:00",
-  "LastUpdate_Achievements": "2024-01-04T14:07:11.1339499+00:00"
+  "LastUpdate_Ratings": "2024-01-04T15:02:58.5161129+00:00",
+  "LastUpdate_Achievements": "2024-01-04T15:08:13.9119898+00:00"
 }

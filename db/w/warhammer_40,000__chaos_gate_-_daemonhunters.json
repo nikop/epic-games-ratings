@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -813,9 +813,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3749,
+  "EOS_Progressed": 3751,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5463,6 +5463,11 @@
       "Time": "2024-01-04T14:06:25.1935692+00:00",
       "NumProgressed": 3749,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T15:05:52.5389351+00:00",
+      "NumProgressed": 3751,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -5482,7 +5487,7 @@
       "Name": "The Flesh is Weak",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "AutoDisrupted",
@@ -5490,7 +5495,7 @@
       "Name": "Look Over There!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "BloodAndIron",
@@ -5570,7 +5575,7 @@
       "Name": "Surgical Excision",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -5586,7 +5591,7 @@
       "Name": "Fleetmaster",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ForTheMachineGod",
@@ -5594,7 +5599,7 @@
       "Name": "For the Machine God",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "FrequentWarpSurges",
@@ -5610,7 +5615,7 @@
       "Name": "Strike Force",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "HeavyExterminatusUse",
@@ -5634,7 +5639,7 @@
       "Name": "Hold Your Ground",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "Kills_Auto",
@@ -5642,7 +5647,7 @@
       "Name": "Not So Fast...",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "Kills_Bleed",
@@ -5674,7 +5679,7 @@
       "Name": "Exterminator",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "Kills_FriendlyFire",
@@ -5690,7 +5695,7 @@
       "Name": "Opportunist",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Kills_Knockback",
@@ -5698,7 +5703,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "Kills_Streak",
@@ -5706,7 +5711,7 @@
       "Name": "Purging Spree",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "Kills_Vakir",
@@ -5722,7 +5727,7 @@
       "Name": "An Ill Omen",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -5778,7 +5783,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "MissionVictory_Interceptors",
@@ -5794,7 +5799,7 @@
       "Name": "Phalanx",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "MissionVictory_NoAmmo",
@@ -5810,7 +5815,7 @@
       "Name": "Bloodless",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "MissionVictory_NoWP",
@@ -5818,7 +5823,7 @@
       "Name": "Exercise in Restraint",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "MissionVictory_Purgators",
@@ -5834,7 +5839,7 @@
       "Name": "Just a Scratch",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "NexusCompleted",
@@ -5842,7 +5847,7 @@
       "Name": "A Foul Creche",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "NotAMoteOfCorruption",
@@ -5866,7 +5871,7 @@
       "Name": "Preservationist",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ReaperDefeated_Dolorus",
@@ -5890,7 +5895,7 @@
       "Name": "Junk Banishment",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ReaperDefeated_Poxus",
@@ -5914,7 +5919,7 @@
       "Name": "Long Distance Call",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "SkilledKnight",
@@ -5922,7 +5927,7 @@
       "Name": "True Mastery",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "StrategicCommand",
@@ -5930,7 +5935,7 @@
       "Name": "Strategic Command",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "UnlockedAllStratagems",
@@ -5938,7 +5943,7 @@
       "Name": "Tactical Flexibility",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "AllAssassinsAcquired",
@@ -5986,7 +5991,7 @@
       "Name": "Terminal Meltdown",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Kills_TaintedSons_Execution",
@@ -6002,7 +6007,7 @@
       "Name": "Tactical Sabotage",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "TentarusHive_Destroyed",
@@ -6010,28 +6015,28 @@
       "Name": "Hive Exterminator",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     }
   ],
   "AchievementSets": [
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3749,
+      "Progressed": 3751,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3749,
+      "Progressed": 3751,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-01T18:03:40.84636+00:00",
-  "LastChanged_Achievements": "2024-01-04T14:06:25.1935689+00:00",
+  "LastChanged_Achievements": "2024-01-04T15:05:52.5389348+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:30.5390055+00:00",
-  "LastUpdate_Ratings": "2024-01-04T14:03:21.7788371+00:00",
-  "LastUpdate_Achievements": "2024-01-04T14:06:25.1936381+00:00"
+  "LastUpdate_Ratings": "2024-01-04T15:03:04.2910772+00:00",
+  "LastUpdate_Achievements": "2024-01-04T15:05:52.5390148+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18170,
+  "EOS_Progressed": 18172,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 529,
+  "EOS_NewPlayers": 526,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -16250,6 +16250,11 @@
       "Time": "2024-01-04T14:05:16.9552737+00:00",
       "NumProgressed": 18170,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-04T15:04:49.3382571+00:00",
+      "NumProgressed": 18172,
+      "NumCompleted": 58
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16278,7 +16283,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2180
+      "UsersEstimate": 2181
     },
     {
       "ID": "12",
@@ -16302,7 +16307,7 @@
       "Name": "Doctor Approved",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 908
+      "UsersEstimate": 909
     },
     {
       "ID": "15",
@@ -16334,7 +16339,7 @@
       "Name": "Bottoms up!",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 908
+      "UsersEstimate": 909
     },
     {
       "ID": "19",
@@ -16342,7 +16347,7 @@
       "Name": "Martian Music",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2180
+      "UsersEstimate": 2181
     },
     {
       "ID": "2",
@@ -16414,7 +16419,7 @@
       "Name": "Bosmang",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 2180
+      "UsersEstimate": 2181
     },
     {
       "ID": "28",
@@ -16494,7 +16499,7 @@
       "Name": "Impossible Objects",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2180
+      "UsersEstimate": 2181
     },
     {
       "ID": "31",
@@ -16526,7 +16531,7 @@
       "Name": "Master Negotiator",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "35",
@@ -16541,22 +16546,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18170,
+      "Progressed": 18172,
       "Completed": 58
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4124,
-      "Completed": 1179
+      "Progressed": 4126,
+      "Completed": 1181
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T23:58:17.8612142+00:00",
-  "LastChanged_Achievements": "2024-01-04T14:05:16.9552734+00:00",
+  "LastChanged_Achievements": "2024-01-04T15:04:49.3382569+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2024-01-04T14:00:44.4823278+00:00",
-  "LastUpdate_Achievements": "2024-01-04T14:05:16.9553815+00:00"
+  "LastUpdate_Ratings": "2024-01-04T14:59:55.2059436+00:00",
+  "LastUpdate_Achievements": "2024-01-04T15:04:49.3383415+00:00"
 }

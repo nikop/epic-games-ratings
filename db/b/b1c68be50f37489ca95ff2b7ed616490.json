@@ -2,7 +2,7 @@
   "ID": "b1c68be50f37489ca95ff2b7ed616490",
   "Name": "Agatha Christie - Murder on the Orient Express",
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
-  "Ranking_EOS_Progress": 406,
+  "Ranking_EOS_Progress": 405,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 151,
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 263,
+  "EOS_Progressed": 265,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
@@ -1144,6 +1144,11 @@
       "Time": "2024-01-04T10:04:34.4510938+00:00",
       "NumProgressed": 263,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T15:04:17.1552949+00:00",
+      "NumProgressed": 265,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-05T15:06:14.3136114+00:00",
@@ -1156,15 +1161,15 @@
       "Name": "A mystery? No! A trifle for Poirot!",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "10",
       "SetID": "6bgoh8g",
       "Name": "Masquerade",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "11",
@@ -1172,7 +1177,7 @@
       "Name": "Final questions",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "12",
@@ -1234,9 +1239,9 @@
       "ID": "19",
       "SetID": "6bgoh8g",
       "Name": "I am speed",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "2",
@@ -1316,7 +1321,7 @@
       "Name": "It was not in the book",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "4",
@@ -1371,14 +1376,14 @@
     {
       "ID": "6bgoh8g",
       "IsBase": true,
-      "Progressed": 263,
+      "Progressed": 265,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2024-01-04T14:04:41.5065381+00:00",
+  "LastChanged_Achievements": "2024-01-04T15:04:17.1552945+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:18.4677846+00:00",
-  "LastUpdate_Ratings": "2024-01-04T14:03:17.8772396+00:00",
-  "LastUpdate_Achievements": "2024-01-04T14:04:41.5065555+00:00"
+  "LastUpdate_Ratings": "2024-01-04T15:03:00.7658923+00:00",
+  "LastUpdate_Achievements": "2024-01-04T15:04:17.1553198+00:00"
 }

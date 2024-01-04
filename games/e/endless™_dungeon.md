@@ -7,7 +7,7 @@
 | Leap Before You Look | 69.00% | ~1,012 |
 | Getting the Hang of It | 42.00% | ~616 |
 | Hoarder | 32.00% | ~469 |
-| Pest Control | 28.00% | ~410 |
+| Pest Control | 28.00% | ~411 |
 | Exhaustive Explorer | 27.00% | ~396 |
 | Blobmeister | 26.00% | ~381 |
 | How Low Can We Go? | 24.00% | ~352 |
@@ -22,7 +22,7 @@
 | No Stone Unturned | 5.00% | ~73 |
 | Turret Syndrome | 2.00% | ~29 |
 | Endless Biographer | 1.00% | ~15 |
-| All Your Secrets Are Belong to Us | 0.80% | ~12 |
+| All Your Secrets Are Belong to Us | 0.70% | ~10 |
 | Grab 'Em All | 0.30% | ~4 |
 | Unnaturally Curious | 0.00% | ~0 |
 | Starting an Endless Story | 0.00% | ~0 |
@@ -35,7 +35,7 @@
 | Cruising Speed | 0.00% | ~0 |
 | Full Throttle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,466 (Ranked 264)  
+Progressed: 1,467 (Ranked 264)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,4 +116,4 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-01 | 1,453 | 0 |
 | 2024-01-02 | 1,459 | 0 |
 | 2024-01-03 | 1,463 | 0 |
-| 2024-01-04 | 1,466 | 0 |
+| 2024-01-04 | 1,467 | 0 |

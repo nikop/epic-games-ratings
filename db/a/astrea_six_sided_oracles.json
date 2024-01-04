@@ -2015,9 +2015,9 @@
       "ID": "ApianMastery",
       "SetID": "1jeo1g7",
       "Name": "Apian Mastery",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "AquarianChampion",
@@ -2150,8 +2150,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-04T14:08:49.0161551+00:00",
+  "LastChanged_Achievements": "2024-01-04T15:08:38.9949698+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:34.5642416+00:00",
-  "LastUpdate_Ratings": "2024-01-04T13:57:34.7736284+00:00",
-  "LastUpdate_Achievements": "2024-01-04T14:08:49.0162668+00:00"
+  "LastUpdate_Ratings": "2024-01-04T14:57:10.0085997+00:00",
+  "LastUpdate_Achievements": "2024-01-04T15:08:38.9950569+00:00"
 }

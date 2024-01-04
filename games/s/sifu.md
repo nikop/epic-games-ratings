@@ -6,43 +6,43 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 5.00% | ~37,679 |
-| The Assault | 4.00% | ~30,143 |
-| Life is your teacher | 4.00% | ~30,143 |
-| Lightning Hands | 4.00% | ~30,143 |
-| The Hateful Pole Fighter | 2.00% | ~15,072 |
-| A Lady's Blood in the Snow | 2.00% | ~15,072 |
-| Lady Wing Chun | 2.00% | ~15,072 |
-| Kill Nil | 2.00% | ~15,072 |
-| Stuntmaster | 2.00% | ~15,072 |
-| Street Fighting | 2.00% | ~15,072 |
-| State of constant learning | 2.00% | ~15,072 |
-| Qi Gong: Breath | 2.00% | ~15,072 |
-| Qi Gong: Essence | 2.00% | ~15,072 |
-| I know Kung-Fu | 2.00% | ~15,072 |
-| Old Child | 2.00% | ~15,072 |
-| Path of the Prospect | 2.00% | ~15,072 |
-| Rumble in the Hangar | 2.00% | ~15,072 |
-| Diligence as a goal | 2.00% | ~1,258 |
+| The Old Grandmaster | 5.00% | ~37,682 |
+| The Assault | 4.00% | ~30,146 |
+| Life is your teacher | 4.00% | ~30,146 |
+| Lightning Hands | 4.00% | ~30,146 |
+| The Hateful Pole Fighter | 2.00% | ~15,073 |
+| A Lady's Blood in the Snow | 2.00% | ~15,073 |
+| Lady Wing Chun | 2.00% | ~15,073 |
+| Kill Nil | 2.00% | ~15,073 |
+| Stuntmaster | 2.00% | ~15,073 |
+| Street Fighting | 2.00% | ~15,073 |
+| State of constant learning | 2.00% | ~15,073 |
+| Qi Gong: Breath | 2.00% | ~15,073 |
+| Qi Gong: Essence | 2.00% | ~15,073 |
+| I know Kung-Fu | 2.00% | ~15,073 |
+| Old Child | 2.00% | ~15,073 |
+| Path of the Prospect | 2.00% | ~15,073 |
+| Rumble in the Hangar | 2.00% | ~15,073 |
+| Diligence as a goal | 2.00% | ~1,259 |
 | Furious Fists | 1.00% | ~7,536 |
 | Scareless | 1.00% | ~7,536 |
 | Qi Gong: Mind | 1.00% | ~7,536 |
 | Kung-Fu Tussle | 1.00% | ~7,536 |
 | Take damage to save time | 1.00% | ~7,536 |
 | Project Arena | 1.00% | ~629 |
-| Dance of the Praying Mantis | 0.90% | ~6,782 |
-| Fight the way you practice | 0.80% | ~503 |
-| Muk Yan Master | 0.60% | ~4,521 |
-| Tiger on Fire | 0.60% | ~4,521 |
-| Detective Story | 0.60% | ~4,521 |
-| Martial Hub | 0.60% | ~377 |
+| Dance of the Praying Mantis | 0.90% | ~6,783 |
+| Fight the way you practice | 0.80% | ~504 |
+| Muk Yan Master | 0.60% | ~4,522 |
+| Tiger on Fire | 0.60% | ~4,522 |
+| Detective Story | 0.60% | ~4,522 |
+| Martial Hub | 0.60% | ~378 |
 | Source of Flying Daggers | 0.50% | ~3,768 |
 | Iron Money | 0.50% | ~3,768 |
 | Legendary Talismans of Wuxing | 0.50% | ~3,768 |
 | Sword Stained With Blood | 0.50% | ~3,768 |
-| Bloody Sport | 0.50% | ~314 |
-| Prodigal Child | 0.40% | ~3,014 |
-| The 36th Chamber of Kung-Fu | 0.40% | ~3,014 |
+| Bloody Sport | 0.50% | ~315 |
+| Prodigal Child | 0.40% | ~3,015 |
+| The 36th Chamber of Kung-Fu | 0.40% | ~3,015 |
 | The best strikes are the ones we avoid | 0.40% | ~252 |
 | Drunken Fighter | 0.30% | ~2,261 |
 | Martial Artist | 0.30% | ~2,261 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~63 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~63 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 753,576 (Ranked 25)  
+Progressed: 753,640 (Ranked 25)  
 Completed: 12,973 (1.72%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,16 +326,16 @@ Completed: 12,973 (1.72%) (Ranked 141)
 | 2024-01-01 | 751,425 | 12,971 |
 | 2024-01-02 | 752,188 | 12,971 |
 | 2024-01-03 | 753,003 | 12,973 |
-| 2024-01-04 | 753,576 | 12,973 |
+| 2024-01-04 | 753,640 | 12,973 |
 ## Awards
 Max (Great Boss Battles): 7,102  (Ranked 55)  
-Sum: 12,002 (Ranked 87)  
+Sum: 12,003 (Ranked 87)  
 Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,102 |
 | This game has Diverse Characters | 693 |
-| This game has Challenging Combat | 637 |
+| This game has Challenging Combat | 638 |
 | This game has Amazing Storytelling | 614 |
 | This game has Amazing Characters | 605 |
 | This game is Highly Recommended | 601 |
@@ -699,4 +699,4 @@ Diff (max vs sum): -32
 | 2024-01-01 | 4.82 | - | 7,070 | 11,967 |
 | 2024-01-02 | 4.82 | - | 7,079 | 11,978 |
 | 2024-01-03 | 4.82 | - | 7,088 | 11,987 |
-| 2024-01-04 | 4.82 | - | 7,102 | 12,002 |
+| 2024-01-04 | 4.82 | - | 7,102 | 12,003 |

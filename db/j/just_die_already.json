@@ -3,11 +3,11 @@
   "Name": "Just Die Already",
   "ProductSlug": "just-die-already",
   "Ranking_Rating": 574,
-  "Ranking_Popularity": 365,
+  "Ranking_Popularity": 366,
   "Ranking_PopularitySum": 295,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewPlayers": 568,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-05-20T17:00:00+00:00",
@@ -1758,10 +1758,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 779,
       "NumberOfAwardsMax": 107
+    },
+    {
+      "Time": "2024-01-04T14:58:48.1254186+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 780,
+      "NumberOfAwardsMax": 107
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 779,
+  "NumberOfAwards": 780,
   "NumberOfAwardsMax": 107,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1811,7 +1817,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 80
+      "Count": 81
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1849,8 +1855,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:50.679277+00:00",
-  "LastChanged": "2023-12-25T18:57:34.7434673+00:00",
+  "LastChanged": "2024-01-04T14:58:48.1254184+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:14.9941328+00:00",
-  "LastUpdate_Ratings": "2024-01-04T13:59:26.6199501+00:00",
-  "LastUpdate_Achievements": "2024-01-04T14:03:37.2175348+00:00"
+  "LastUpdate_Ratings": "2024-01-04T14:58:48.1254189+00:00",
+  "LastUpdate_Achievements": "2024-01-04T15:03:18.7183095+00:00"
 }

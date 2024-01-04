@@ -25,6 +25,7 @@ Rating: 3.64 (Ranked 1,087)
 | Neighborhood Revitalization | 5.00% | ~112 |
 | Radio Silence | 5.00% | ~112 |
 | You Clean It Up | 3.00% | ~67 |
+| Starve the Beast | 3.00% | ~67 |
 | Helping Hand | 3.00% | ~67 |
 | I Spit On Your Grave | 3.00% | ~67 |
 | Revelations | 2.00% | ~45 |
@@ -36,7 +37,6 @@ Rating: 3.64 (Ranked 1,087)
 | Good Morning | 2.00% | ~45 |
 | From the Shadows | 2.00% | ~45 |
 | Check, Please! | 2.00% | ~45 |
-| Starve the Beast | 2.00% | ~45 |
 | Harvest’s End | 2.00% | ~45 |
 | Right This Way | 1.00% | ~22 |
 | Nice Try | 1.00% | ~22 |
@@ -51,10 +51,10 @@ Rating: 3.64 (Ranked 1,087)
 | Sisterhood | 0.60% | ~13 |
 | Good Samaritan | 0.60% | ~13 |
 | Scream Team | 0.40% | ~9 |
+| Monster Hunters Club | 0.40% | ~9 |
 | Friendgineering | 0.40% | ~9 |
 | Under a Bushel | 0.40% | ~9 |
 | Enemy of My Enemy | 0.40% | ~9 |
-| Monster Hunters Club | 0.30% | ~7 |
 | So Anyway I Started Blasting | 0.30% | ~7 |
 | Faith Healer | 0.20% | ~4 |
 | Bob’s Final Hour | 0.20% | ~4 |
