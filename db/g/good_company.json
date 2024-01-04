@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5783,
+  "EOS_Progressed": 5785,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -5194,6 +5194,11 @@
       "Time": "2024-01-04T06:05:50.789442+00:00",
       "NumProgressed": 5783,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-04T18:05:22.3425426+00:00",
+      "NumProgressed": 5785,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -5237,7 +5242,7 @@
       "Name": "Campaign: Lesson Learned",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ach_campaign_chapter2",
@@ -5261,7 +5266,7 @@
       "Name": "Level: Charlie\u0027s Circuits",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1272
+      "UsersEstimate": 1273
     },
     {
       "ID": "ach_campaign_progress10",
@@ -5301,7 +5306,7 @@
       "Name": "Level: Bet On Bots",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ach_campaign_progress4",
@@ -5317,7 +5322,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2834
+      "UsersEstimate": 2835
     },
     {
       "ID": "ach_campaign_progress6",
@@ -5325,7 +5330,7 @@
       "Name": "Level: Rising Markets",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "ach_campaign_progress7",
@@ -5573,7 +5578,7 @@
       "Name": "Modular Performance",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ach_frp_many_modules3",
@@ -5597,7 +5602,7 @@
       "Name": "Salesperson",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ach_frp_many_products3",
@@ -5812,15 +5817,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5783,
+      "Progressed": 5785,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-12-29T23:58:32.3539857+00:00",
-  "LastChanged_Achievements": "2024-01-04T17:05:31.1725139+00:00",
+  "LastChanged_Achievements": "2024-01-04T18:05:22.342542+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:45.6175263+00:00",
-  "LastUpdate_Ratings": "2024-01-04T16:58:18.4515041+00:00",
-  "LastUpdate_Achievements": "2024-01-04T17:05:31.1725989+00:00"
+  "LastUpdate_Ratings": "2024-01-04T17:58:09.005237+00:00",
+  "LastUpdate_Achievements": "2024-01-04T18:05:22.3426511+00:00"
 }

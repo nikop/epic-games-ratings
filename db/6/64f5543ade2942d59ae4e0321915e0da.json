@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 370,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 379,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -1576,9 +1576,9 @@
       "ID": "AC_BOSS_00",
       "SetID": "16i2akc",
       "Name": "Hunger",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 208
     },
     {
       "ID": "AC_BOSS_01",
@@ -1712,9 +1712,9 @@
       "ID": "AC_DISTANCE_3",
       "SetID": "16i2akc",
       "Name": "Voyage",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 45,
-      "UsersEstimate": 106
+      "UsersEstimate": 110
     },
     {
       "ID": "AC_FIRST_BLACKJACK",
@@ -1847,8 +1847,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-04T17:05:50.6050923+00:00",
+  "LastChanged_Achievements": "2024-01-04T18:05:39.5318813+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:05.7124829+00:00",
-  "LastUpdate_Ratings": "2024-01-04T17:02:36.2754039+00:00",
-  "LastUpdate_Achievements": "2024-01-04T17:05:50.6051338+00:00"
+  "LastUpdate_Ratings": "2024-01-04T18:00:34.0867743+00:00",
+  "LastUpdate_Achievements": "2024-01-04T18:05:39.5319276+00:00"
 }

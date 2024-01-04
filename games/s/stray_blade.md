@@ -18,19 +18,19 @@
 | Witch | 2.00% | ~3 |
 | The A-Team | 2.00% | ~3 |
 | Expert | 2.00% | ~3 |
+| Mirror, Mirror on the Wall | 1.00% | ~2 |
+| Defeat Ingla | 1.00% | ~2 |
 | Can't touch this | 1.00% | ~2 |
+| But what of the Acreans? | 1.00% | ~2 |
 | A Deceiving Gift | 1.00% | ~2 |
 | The Golden Flash | 1.00% | ~2 |
 | The Power of the Mountains | 1.00% | ~2 |
 | Changing the World | 1.00% | ~2 |
-| Mirror, Mirror on the Wall | 0.70% | ~1 |
 | Sponsor | 0.70% | ~1 |
-| Defeat Ingla | 0.70% | ~1 |
 | Defeat Uskol | 0.70% | ~1 |
 | Nothing but the Truth | 0.70% | ~1 |
 | Trailblazer | 0.70% | ~1 |
 | Finally! | 0.70% | ~1 |
-| But what of the Acreans? | 0.70% | ~1 |
 | Unveiling the Truth | 0.70% | ~1 |
 | Small Setback | 0.70% | ~1 |
 | Style over Stats | 0.00% | ~0 |

@@ -6,24 +6,24 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 5.00% | ~37,688 |
-| The Assault | 4.00% | ~30,150 |
-| Life is your teacher | 4.00% | ~30,150 |
-| Lightning Hands | 4.00% | ~30,150 |
-| The Hateful Pole Fighter | 2.00% | ~15,075 |
-| A Lady's Blood in the Snow | 2.00% | ~15,075 |
-| Lady Wing Chun | 2.00% | ~15,075 |
-| Kill Nil | 2.00% | ~15,075 |
-| Stuntmaster | 2.00% | ~15,075 |
-| Street Fighting | 2.00% | ~15,075 |
-| State of constant learning | 2.00% | ~15,075 |
-| Qi Gong: Breath | 2.00% | ~15,075 |
-| Qi Gong: Essence | 2.00% | ~15,075 |
-| I know Kung-Fu | 2.00% | ~15,075 |
-| Old Child | 2.00% | ~15,075 |
-| Path of the Prospect | 2.00% | ~15,075 |
-| Rumble in the Hangar | 2.00% | ~15,075 |
-| Diligence as a goal | 2.00% | ~1,261 |
+| The Old Grandmaster | 5.00% | ~37,689 |
+| The Assault | 4.00% | ~30,151 |
+| Life is your teacher | 4.00% | ~30,151 |
+| Lightning Hands | 4.00% | ~30,151 |
+| The Hateful Pole Fighter | 2.00% | ~15,076 |
+| A Lady's Blood in the Snow | 2.00% | ~15,076 |
+| Lady Wing Chun | 2.00% | ~15,076 |
+| Kill Nil | 2.00% | ~15,076 |
+| Stuntmaster | 2.00% | ~15,076 |
+| Street Fighting | 2.00% | ~15,076 |
+| State of constant learning | 2.00% | ~15,076 |
+| Qi Gong: Breath | 2.00% | ~15,076 |
+| Qi Gong: Essence | 2.00% | ~15,076 |
+| I know Kung-Fu | 2.00% | ~15,076 |
+| Old Child | 2.00% | ~15,076 |
+| Path of the Prospect | 2.00% | ~15,076 |
+| Rumble in the Hangar | 2.00% | ~15,076 |
+| Diligence as a goal | 2.00% | ~1,262 |
 | Furious Fists | 1.00% | ~7,538 |
 | Scareless | 1.00% | ~7,538 |
 | Qi Gong: Mind | 1.00% | ~7,538 |
@@ -31,10 +31,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Take damage to save time | 1.00% | ~7,538 |
 | Project Arena | 1.00% | ~631 |
 | Dance of the Praying Mantis | 0.90% | ~6,784 |
-| Fight the way you practice | 0.80% | ~504 |
-| Muk Yan Master | 0.60% | ~4,522 |
-| Tiger on Fire | 0.60% | ~4,522 |
-| Detective Story | 0.60% | ~4,522 |
+| Fight the way you practice | 0.80% | ~505 |
+| Muk Yan Master | 0.60% | ~4,523 |
+| Tiger on Fire | 0.60% | ~4,523 |
+| Detective Story | 0.60% | ~4,523 |
 | Martial Hub | 0.60% | ~378 |
 | Source of Flying Daggers | 0.50% | ~3,769 |
 | Iron Money | 0.50% | ~3,769 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~63 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~63 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 753,750 (Ranked 25)  
+Progressed: 753,779 (Ranked 25)  
 Completed: 12,974 (1.72%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,7 +326,7 @@ Completed: 12,974 (1.72%) (Ranked 141)
 | 2024-01-01 | 751,425 | 12,971 |
 | 2024-01-02 | 752,188 | 12,971 |
 | 2024-01-03 | 753,003 | 12,973 |
-| 2024-01-04 | 753,750 | 12,974 |
+| 2024-01-04 | 753,779 | 12,974 |
 ## Awards
 Max (Great Boss Battles): 7,102  (Ranked 55)  
 Sum: 12,003 (Ranked 87)  

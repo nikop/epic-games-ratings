@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 28,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewPlayers": 567,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2020-07-20T16:00:00+00:00",
@@ -12369,10 +12369,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 55065,
       "NumberOfAwardsMax": 8516
+    },
+    {
+      "Time": "2024-01-04T18:00:02.2620584+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 55069,
+      "NumberOfAwardsMax": 8516
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 55065,
+  "NumberOfAwards": 55069,
   "NumberOfAwardsMax": 8516,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -12392,7 +12398,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 6359
+      "Count": 6363
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -12454,8 +12460,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:56.7737014+00:00",
-  "LastChanged": "2024-01-04T17:00:10.2684263+00:00",
+  "LastChanged": "2024-01-04T18:00:02.2620582+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:48.8823918+00:00",
-  "LastUpdate_Ratings": "2024-01-04T17:00:10.2684269+00:00",
-  "LastUpdate_Achievements": "2024-01-04T17:03:44.0425131+00:00"
+  "LastUpdate_Ratings": "2024-01-04T18:00:02.2620587+00:00",
+  "LastUpdate_Achievements": "2024-01-04T18:03:33.4772364+00:00"
 }

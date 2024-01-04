@@ -2,9 +2,9 @@
   "ID": "0407f287e7574d88b7c00895f14628d8",
   "Name": "Settlement Survival",
   "ProductSlug": "settlement-survival-923f57",
-  "Ranking_EOS_Progress": 432,
+  "Ranking_EOS_Progress": 431,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 178,
+  "EOS_Progressed": 180,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -714,6 +714,11 @@
       "Time": "2024-01-03T16:05:20.6024001+00:00",
       "NumProgressed": 178,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T18:06:12.4728298+00:00",
+      "NumProgressed": 180,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-12T07:05:28.2307151+00:00",
@@ -758,7 +763,7 @@
       "Name": "Clear Road",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "dl2",
@@ -782,7 +787,7 @@
       "Name": "Agriculture Tycoon",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "f2",
@@ -804,9 +809,9 @@
       "ID": "fw1",
       "SetID": "b1ggf28",
       "Name": "City Center",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 81
     },
     {
       "ID": "fw2",
@@ -830,7 +835,7 @@
       "Name": "Skilled Workers",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "g2",
@@ -886,7 +891,7 @@
       "Name": "Waterpower",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "jg3",
@@ -900,17 +905,17 @@
       "ID": "jk1",
       "SetID": "b1ggf28",
       "Name": "Treatment of plague",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 52
     },
     {
       "ID": "jk2",
       "SetID": "b1ggf28",
       "Name": "Saving Lives",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "jk3",
@@ -926,7 +931,7 @@
       "Name": "Builder",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "jz2",
@@ -948,9 +953,9 @@
       "ID": "k1",
       "SetID": "b1ggf28",
       "Name": "Advanced Technology",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 61
     },
     {
       "ID": "k2",
@@ -974,7 +979,7 @@
       "Name": "Animal Imports",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "m2",
@@ -998,7 +1003,7 @@
       "Name": "Prosperity",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "r2",
@@ -1036,9 +1041,9 @@
       "ID": "w1",
       "SetID": "b1ggf28",
       "Name": "Against the Cold",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 107
+      "UsersEstimate": 106
     },
     {
       "ID": "w2",
@@ -1133,14 +1138,14 @@
     {
       "ID": "b1ggf28",
       "IsBase": true,
-      "Progressed": 178,
+      "Progressed": 180,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-04T17:06:23.9056461+00:00",
+  "LastChanged_Achievements": "2024-01-04T18:06:12.4728294+00:00",
   "LastUpdate_AppInfo": "2024-01-03T05:57:01.0489301+00:00",
-  "LastUpdate_Ratings": "2024-01-04T17:03:14.509218+00:00",
-  "LastUpdate_Achievements": "2024-01-04T17:06:23.9056876+00:00"
+  "LastUpdate_Ratings": "2024-01-04T18:03:02.7530782+00:00",
+  "LastUpdate_Achievements": "2024-01-04T18:06:12.4728698+00:00"
 }

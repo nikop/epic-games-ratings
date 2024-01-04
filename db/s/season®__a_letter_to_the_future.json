@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1959,
+  "EOS_Progressed": 1960,
   "EOS_Completed": 72,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 3.68,
+  "EOS_Completed_Percentage": 3.67,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:27.3083538+00:00",
@@ -4444,6 +4444,11 @@
       "Time": "2024-01-04T16:11:14.4625555+00:00",
       "NumProgressed": 1959,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2024-01-04T18:09:53.4920211+00:00",
+      "NumProgressed": 1960,
+      "NumCompleted": 72
     }
   ],
   "TotalAchievements": 16,
@@ -4487,7 +4492,7 @@
       "Name": "Goodbye Tieng Valley",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACH_GRAFFITIARTIST",
@@ -4543,7 +4548,7 @@
       "Name": "Outside World Seer",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 1175
+      "UsersEstimate": 1176
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -4567,7 +4572,7 @@
       "Name": "The End",
       "Percentage": 11,
       "XP": 200,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACH_TOURDETIENG",
@@ -4582,7 +4587,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1959,
+      "Progressed": 1960,
       "Completed": 72
     }
   ],
@@ -4590,8 +4595,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2024-01-04T17:10:05.7874875+00:00",
+  "LastChanged_Achievements": "2024-01-04T18:09:53.4920207+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.182252+00:00",
-  "LastUpdate_Ratings": "2024-01-04T16:57:46.8568423+00:00",
-  "LastUpdate_Achievements": "2024-01-04T17:10:05.7875194+00:00"
+  "LastUpdate_Ratings": "2024-01-04T17:57:37.1182689+00:00",
+  "LastUpdate_Achievements": "2024-01-04T18:09:53.4920619+00:00"
 }

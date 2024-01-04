@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 479,
+  "EOS_Progressed": 480,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 9.6,
+  "EOS_Completed_Percentage": 9.58,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -2249,6 +2249,11 @@
       "Time": "2024-01-03T14:09:09.6382333+00:00",
       "NumProgressed": 479,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2024-01-04T18:09:03.0498624+00:00",
+      "NumProgressed": 480,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 6,
@@ -2266,9 +2271,9 @@
       "ID": "CgkIgaGB2J0LEAIQAQ",
       "SetID": "4ocea6d",
       "Name": "File-cutter",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 165,
-      "UsersEstimate": 311
+      "UsersEstimate": 307
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAg",
@@ -2307,14 +2312,14 @@
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 479,
+      "Progressed": 480,
       "Completed": 46
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2024-01-04T17:09:15.2067569+00:00",
+  "LastChanged_Achievements": "2024-01-04T18:09:03.0498621+00:00",
   "LastUpdate_AppInfo": "2023-12-29T02:57:14.6672707+00:00",
-  "LastUpdate_Ratings": "2024-01-04T17:00:35.9535331+00:00",
-  "LastUpdate_Achievements": "2024-01-04T17:09:15.2067728+00:00"
+  "LastUpdate_Ratings": "2024-01-04T18:00:25.0695979+00:00",
+  "LastUpdate_Achievements": "2024-01-04T18:09:03.0498781+00:00"
 }

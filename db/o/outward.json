@@ -547,9 +547,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4465,
+  "EOS_Progressed": 4466,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -7662,6 +7662,11 @@
       "Time": "2024-01-04T17:08:33.163627+00:00",
       "NumProgressed": 4465,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-04T18:08:19.7537421+00:00",
+      "NumProgressed": 4466,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -7873,7 +7878,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -7993,7 +7998,7 @@
       "Name": "Venture Outward",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3259
+      "UsersEstimate": 3260
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -8008,15 +8013,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4465,
+      "Progressed": 4466,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2024-01-03T19:03:38.0112146+00:00",
-  "LastChanged_Achievements": "2024-01-04T17:08:33.1636265+00:00",
+  "LastChanged_Achievements": "2024-01-04T18:08:19.7537418+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:23.571083+00:00",
-  "LastUpdate_Ratings": "2024-01-04T17:03:14.892488+00:00",
-  "LastUpdate_Achievements": "2024-01-04T17:08:33.1636812+00:00"
+  "LastUpdate_Ratings": "2024-01-04T18:03:03.1600122+00:00",
+  "LastUpdate_Achievements": "2024-01-04T18:08:19.7537987+00:00"
 }

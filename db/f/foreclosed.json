@@ -2,9 +2,9 @@
   "ID": "9070f19d29354e45abf338e566da7ced",
   "Name": "FORECLOSED",
   "ProductSlug": "foreclosed",
-  "Ranking_EOS_Progress": 459,
+  "Ranking_EOS_Progress": 458,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 420,
+  "Ranking_EOS_NewPlayers": 410,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-08-12T13:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 139,
+  "EOS_Progressed": 140,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.16,
+  "EOS_Completed_Percentage": 2.14,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:36.3929113+00:00",
@@ -384,6 +384,11 @@
       "Time": "2024-01-04T17:06:05.5657284+00:00",
       "NumProgressed": 139,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-04T18:05:54.1426501+00:00",
+      "NumProgressed": 140,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 24,
@@ -395,7 +400,7 @@
       "Name": "Full and Final Settlement",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "AutoBullets_0",
@@ -433,9 +438,9 @@
       "ID": "EnemyDefeat_1",
       "SetID": "9e3d06k",
       "Name": "Cyborg",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ExpertChoice",
@@ -459,7 +464,7 @@
       "Name": "A.I. Training",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "GunUnlock",
@@ -467,7 +472,7 @@
       "Name": "Symbiotic Weapon",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "Headshots_0",
@@ -481,9 +486,9 @@
       "ID": "Headshots_1",
       "SetID": "9e3d06k",
       "Name": "Veteran Sniper",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 24
+      "UsersEstimate": 22
     },
     {
       "ID": "KyklosPlan",
@@ -513,9 +518,9 @@
       "ID": "Neuroconnector",
       "SetID": "9e3d06k",
       "Name": "The Neuro-connector",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 22
     },
     {
       "ID": "SecondAutoSkillUnlock",
@@ -537,9 +542,9 @@
       "ID": "StealthDefeat_0",
       "SetID": "9e3d06k",
       "Name": "Flatline",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 22
     },
     {
       "ID": "StealthDefeat_1",
@@ -555,7 +560,7 @@
       "Name": "One Click Away",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "TelekinesisThrow_0",
@@ -586,7 +591,7 @@
     {
       "ID": "9e3d06k",
       "IsBase": true,
-      "Progressed": 139,
+      "Progressed": 140,
       "Completed": 3
     }
   ],
@@ -594,8 +599,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
   "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
-  "LastChanged_Achievements": "2024-01-04T17:06:05.5657273+00:00",
+  "LastChanged_Achievements": "2024-01-04T18:05:54.1426496+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:54.8333074+00:00",
-  "LastUpdate_Ratings": "2024-01-04T17:00:20.8873885+00:00",
-  "LastUpdate_Achievements": "2024-01-04T17:06:05.5657487+00:00"
+  "LastUpdate_Ratings": "2024-01-04T18:00:11.2519726+00:00",
+  "LastUpdate_Achievements": "2024-01-04T18:05:54.1426681+00:00"
 }

@@ -6,19 +6,19 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 27.00% | ~3,516 |
+| Devoured by Darkness | 27.00% | ~3,517 |
 | Burning City | 19.00% | ~2,475 |
 | A Spark | 19.00% | ~2,475 |
 | Defender's Heart | 16.00% | ~2,084 |
 | Mythic Choices | 15.00% | ~1,954 |
-| Banner over the Citadel | 14.00% | ~1,823 |
+| Banner over the Citadel | 14.00% | ~1,824 |
 | Queen's Gratitude | 12.00% | ~1,563 |
 | Fifth Crusade | 9.00% | ~1,172 |
 | Embrace of the Abyss | 7.00% | ~912 |
 | Path of the Angel | 7.00% | ~912 |
 | Demonic and Divine | 7.00% | ~912 |
-| Great Upstart | 6.00% | ~781 |
-| All Paths Open | 6.00% | ~781 |
+| Great Upstart | 6.00% | ~782 |
+| All Paths Open | 6.00% | ~782 |
 | Path of the Azata | 5.00% | ~651 |
 | Transformation | 5.00% | ~651 |
 | The Legacy | 5.00% | ~651 |
@@ -39,10 +39,10 @@ Number of Ratings: 1,354  (23.09.2022)
 | Sarkoris Will Be Green | 3.00% | ~354 |
 | The Lady of the Forest | 3.00% | ~354 |
 | Beware Still Water | 3.00% | ~354 |
-| Path of the Demon | 2.00% | ~260 |
-| Path of the Aeon | 2.00% | ~260 |
-| Your First Big Enemy | 2.00% | ~260 |
-| Truly Important Deed | 2.00% | ~260 |
+| Path of the Demon | 2.00% | ~261 |
+| Path of the Aeon | 2.00% | ~261 |
+| Your First Big Enemy | 2.00% | ~261 |
+| Truly Important Deed | 2.00% | ~261 |
 | Stay Underground | 2.00% | ~236 |
 | The Final Threshold | 1.00% | ~130 |
 | Path of the Dragon | 1.00% | ~130 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,024 (Ranked 176)  
+Progressed: 13,026 (Ranked 176)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -382,7 +382,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-01 | 12,955 | 0 |
 | 2024-01-02 | 12,976 | 0 |
 | 2024-01-03 | 13,006 | 0 |
-| 2024-01-04 | 13,024 | 0 |
+| 2024-01-04 | 13,026 | 0 |
 ## Awards
 Max (Character Customization): 1,776  (Ranked 128)  
 Sum: 7,187 (Ranked 126)  

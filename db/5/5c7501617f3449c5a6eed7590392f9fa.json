@@ -927,9 +927,9 @@
       "ID": "Ach-01-brambora",
       "SetID": "2pjo9pi",
       "Name": "Brambora",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 20,
-      "UsersEstimate": 164
+      "UsersEstimate": 166
     },
     {
       "ID": "Ach-01-bzukavec",
@@ -1287,9 +1287,9 @@
       "ID": "Ach-level-1",
       "SetID": "2pjo9pi",
       "Name": "Level 1",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 20,
-      "UsersEstimate": 164
+      "UsersEstimate": 166
     },
     {
       "ID": "Ach-level-2",
@@ -1350,8 +1350,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2024-01-04T17:09:16.2192193+00:00",
+  "LastChanged_Achievements": "2024-01-04T18:09:04.0909607+00:00",
   "LastUpdate_AppInfo": "2024-01-03T20:57:13.3833834+00:00",
-  "LastUpdate_Ratings": "2024-01-04T16:58:08.5335019+00:00",
-  "LastUpdate_Achievements": "2024-01-04T17:09:16.219257+00:00"
+  "LastUpdate_Ratings": "2024-01-04T17:57:58.9581744+00:00",
+  "LastUpdate_Achievements": "2024-01-04T18:09:04.0910374+00:00"
 }

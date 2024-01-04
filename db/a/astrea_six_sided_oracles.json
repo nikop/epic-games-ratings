@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 323,
+  "EOS_Progressed": 324,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
@@ -1354,6 +1354,11 @@
       "Time": "2024-01-04T16:09:40.4306762+00:00",
       "NumProgressed": 323,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T18:08:44.9751376+00:00",
+      "NumProgressed": 324,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-22T01:45:20.357802+00:00",
@@ -1628,9 +1633,9 @@
       "ID": "FavoredbytheCosmos",
       "SetID": "1jeo1g7",
       "Name": "Favored by the Cosmos",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 19
     },
     {
       "ID": "Gottatinkeremall",
@@ -1710,15 +1715,15 @@
       "Name": "Mechanical Buddy",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "MeissasSavior",
       "SetID": "1jeo1g7",
       "Name": "Meissa\u0027s Savior",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 271
+      "UsersEstimate": 269
     },
     {
       "ID": "MindIlluminator",
@@ -1726,7 +1731,7 @@
       "Name": "Mind Illuminator",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "NoctuanChampionAchievement",
@@ -1790,7 +1795,7 @@
       "Name": "Purification Pioneer",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "ReflexiveMind",
@@ -1822,7 +1827,7 @@
       "Name": "Sanctuary Guardian",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "Sentinelphobic",
@@ -1988,9 +1993,9 @@
       "ID": "WaveBender",
       "SetID": "1jeo1g7",
       "Name": "Wave Bender",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 32
     },
     {
       "ID": "WildsKeeper",
@@ -1998,7 +2003,7 @@
       "Name": "Wild\u0027s Keeper",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ApianChampion",
@@ -2149,14 +2154,14 @@
     {
       "ID": "1jeo1g7",
       "IsBase": true,
-      "Progressed": 323,
+      "Progressed": 324,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-04T17:08:57.604954+00:00",
+  "LastChanged_Achievements": "2024-01-04T18:08:44.9751334+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:34.5642416+00:00",
-  "LastUpdate_Ratings": "2024-01-04T16:57:40.5684364+00:00",
-  "LastUpdate_Achievements": "2024-01-04T17:08:57.6050337+00:00"
+  "LastUpdate_Ratings": "2024-01-04T17:57:30.8720022+00:00",
+  "LastUpdate_Achievements": "2024-01-04T18:08:44.975223+00:00"
 }

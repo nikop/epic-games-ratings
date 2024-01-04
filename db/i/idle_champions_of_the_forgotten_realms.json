@@ -9313,9 +9313,9 @@
       "Count": 3624
     }
   ],
-  "EOS_Progressed": 250872,
+  "EOS_Progressed": 250905,
   "EOS_Completed": 2591,
-  "EOS_NewPlayers": 4742,
+  "EOS_NewPlayers": 4719,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -38668,6 +38668,11 @@
       "Time": "2024-01-04T17:10:26.8025214+00:00",
       "NumProgressed": 250872,
       "NumCompleted": 2591
+    },
+    {
+      "Time": "2024-01-04T18:10:13.8697627+00:00",
+      "NumProgressed": 250905,
+      "NumCompleted": 2591
     }
   ],
   "TotalAchievements": 546,
@@ -38679,7 +38684,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7526
+      "UsersEstimate": 7527
     },
     {
       "ID": "objective_completed_10",
@@ -39543,7 +39548,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "objective_completed_1203",
@@ -39655,7 +39660,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1003
+      "UsersEstimate": 1004
     },
     {
       "ID": "objective_completed_130",
@@ -40351,7 +40356,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5017
+      "UsersEstimate": 5018
     },
     {
       "ID": "objective_completed_34",
@@ -40471,7 +40476,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "objective_completed_390",
@@ -40815,7 +40820,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "objective_completed_54",
@@ -41895,7 +41900,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "objective_completed_80",
@@ -42423,7 +42428,7 @@
       "Name": "Pure Energy",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1003
+      "UsersEstimate": 1004
     },
     {
       "ID": "objective_completed_902",
@@ -42959,7 +42964,7 @@
       "Name": "Welcome to the Vrocks",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "objective_completed_1557",
@@ -43046,21 +43051,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 217146,
+      "Progressed": 217179,
       "Completed": 4132
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 250872,
+      "Progressed": 250905,
       "Completed": 2591
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-04T03:58:47.9786606+00:00",
-  "LastChanged_Achievements": "2024-01-04T17:10:26.8025211+00:00",
+  "LastChanged_Achievements": "2024-01-04T18:10:13.8697623+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-04T16:59:28.2350908+00:00",
-  "LastUpdate_Achievements": "2024-01-04T17:10:26.8048998+00:00"
+  "LastUpdate_Ratings": "2024-01-04T17:59:21.0574294+00:00",
+  "LastUpdate_Achievements": "2024-01-04T18:10:13.8721661+00:00"
 }

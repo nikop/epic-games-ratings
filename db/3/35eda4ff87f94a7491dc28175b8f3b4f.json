@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2022-05-19T14:00:00+00:00",
@@ -281,7 +281,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20094,
+  "EOS_Progressed": 20107,
   "EOS_Completed": 93,
   "EOS_NewPlayers": 1683,
   "EOS_NewCompleters": 15,
@@ -6876,6 +6876,11 @@
       "Time": "2024-01-04T17:05:34.7945315+00:00",
       "NumProgressed": 20094,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2024-01-04T18:05:26.11971+00:00",
+      "NumProgressed": 20107,
+      "NumCompleted": 93
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -6920,7 +6925,7 @@
       "Name": "Savior",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 1608
+      "UsersEstimate": 1609
     },
     {
       "ID": "SAVE_EVERYONE_PERFECT_1_2",
@@ -6936,7 +6941,7 @@
       "Name": "Rescuer",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2411
+      "UsersEstimate": 2413
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -6952,7 +6957,7 @@
       "Name": "Locksmith",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 1608
+      "UsersEstimate": 1609
     },
     {
       "ID": "WATCH_ALL_SCENES_1_5",
@@ -6967,7 +6972,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 20094,
+      "Progressed": 20107,
       "Completed": 93
     }
   ],
@@ -6975,8 +6980,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2024-01-02T16:59:56.4750656+00:00",
-  "LastChanged_Achievements": "2024-01-04T17:05:34.794531+00:00",
+  "LastChanged_Achievements": "2024-01-04T18:05:26.1197095+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:09.201879+00:00",
-  "LastUpdate_Ratings": "2024-01-04T17:00:07.8480821+00:00",
-  "LastUpdate_Achievements": "2024-01-04T17:05:34.7946048+00:00"
+  "LastUpdate_Ratings": "2024-01-04T17:59:59.351933+00:00",
+  "LastUpdate_Achievements": "2024-01-04T18:05:26.11975+00:00"
 }

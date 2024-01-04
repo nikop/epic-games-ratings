@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What is this? | 71.00% | ~75 |
+| What is this? | 72.00% | ~76 |
 | Complete Level 1-1 | 64.00% | ~67 |
 | Immortal | 55.00% | ~58 |
 | Complete Level 1-2 | 47.00% | ~49 |
@@ -26,10 +26,10 @@
 | Engineer-warrior hybrid | 12.00% | ~13 |
 | Baby steps | 11.00% | ~12 |
 | Complete Level 3-2 | 11.00% | ~12 |
+| Party popper | 11.00% | ~12 |
 | Should have left me alone | 10.00% | ~10 |
 | Drink up | 10.00% | ~10 |
 | Mage-warrior hybrid | 10.00% | ~10 |
-| Party popper | 10.00% | ~10 |
 | Complete Level 3-3 | 9.00% | ~9 |
 | Mage specialist | 8.00% | ~8 |
 | Defeat the mage boss | 7.00% | ~7 |
@@ -52,7 +52,7 @@
 | Go go go | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 105 (Ranked 485)  
-Completed: 1 (0.95%) (Ranked 177)  
+Completed: 1 (0.95%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

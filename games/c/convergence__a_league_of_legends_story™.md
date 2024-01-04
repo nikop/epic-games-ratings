@@ -5,11 +5,11 @@ Rating: 4.65 (Ranked 319)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 44.00% | ~538 |
+| Time Heals All Wounds | 44.00% | ~539 |
 | Rail Rat | 33.00% | ~404 |
-| The Mysterious Stranger | 32.00% | ~391 |
-| Immaculate Aim | 28.00% | ~342 |
-| The Brass Boss | 27.00% | ~330 |
+| The Mysterious Stranger | 32.00% | ~392 |
+| Immaculate Aim | 28.00% | ~343 |
+| The Brass Boss | 27.00% | ~331 |
 | Time Flies | 26.00% | ~318 |
 | Make Up For Lost Time | 25.00% | ~306 |
 | The Harder They Fall | 25.00% | ~306 |
@@ -18,21 +18,21 @@ Rating: 4.65 (Ranked 319)
 | Honest Mistake | 25.00% | ~306 |
 | Fast Learner | 24.00% | ~294 |
 | Immaculate Aim | 24.00% | ~294 |
-| The Steel Shadow | 23.00% | ~281 |
-| Breaking Down Barriers | 23.00% | ~281 |
-| Right On Time | 22.00% | ~269 |
-| The Wicked Twins | 22.00% | ~269 |
+| The Steel Shadow | 23.00% | ~282 |
+| Breaking Down Barriers | 23.00% | ~282 |
+| Right On Time | 22.00% | ~270 |
+| The Wicked Twins | 22.00% | ~270 |
 | Like Clockwork | 21.00% | ~257 |
 | The Betrayer | 21.00% | ~257 |
 | Golem Chaser | 21.00% | ~257 |
 | Check Your Pulse | 20.00% | ~245 |
-| The Loose Cannon | 19.00% | ~232 |
+| The Loose Cannon | 19.00% | ~233 |
 | Street Style | 18.00% | ~220 |
 | The Man Who Shattered Time | 18.00% | ~220 |
 | The Family Fortune | 18.00% | ~220 |
-| Whiz Kid | 15.00% | ~183 |
-| Family Memories | 14.00% | ~171 |
-| Good Neighbor | 14.00% | ~171 |
+| Whiz Kid | 15.00% | ~184 |
+| Family Memories | 14.00% | ~172 |
+| Good Neighbor | 14.00% | ~172 |
 | Cartographer | 13.00% | ~159 |
 | Ask Questions Later | 13.00% | ~159 |
 | Chaincrawler Explorer | 12.00% | ~147 |
@@ -47,8 +47,8 @@ Rating: 4.65 (Ranked 319)
 | Entresol Explorer | 8.00% | ~98 |
 | Sartorialist | 7.00% | ~86 |
 | Golem Hunter | 7.00% | ~86 |
-| Clovemary for Remembering | 6.00% | ~73 |
-| Hexlock for Protection | 6.00% | ~73 |
+| Clovemary for Remembering | 6.00% | ~74 |
+| Hexlock for Protection | 6.00% | ~74 |
 | Rungs Was Right | 5.00% | ~61 |
 | Wunderkind | 2.00% | ~24 |
 | Fitting In | 2.00% | ~24 |
@@ -59,7 +59,7 @@ Rating: 4.65 (Ranked 319)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,223 (Ranked 280)  
+Progressed: 1,225 (Ranked 280)  
 Completed: 6 (0.49%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 6 (0.49%) (Ranked 220)
 | 2024-01-01 | 1,190 | 6 |
 | 2024-01-02 | 1,201 | 6 |
 | 2024-01-03 | 1,216 | 6 |
-| 2024-01-04 | 1,223 | 6 |
+| 2024-01-04 | 1,225 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

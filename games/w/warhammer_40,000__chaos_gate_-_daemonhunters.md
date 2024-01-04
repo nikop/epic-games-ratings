@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.10% | ~4 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,754 (Ranked 217)  
+Progressed: 3,755 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,15 +303,15 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-01 | 3,707 | 0 |
 | 2024-01-02 | 3,720 | 0 |
 | 2024-01-03 | 3,737 | 0 |
-| 2024-01-04 | 3,754 | 0 |
+| 2024-01-04 | 3,755 | 0 |
 ## Awards
 Max (Character Customization): 232  (Ranked 282)  
-Sum: 494 (Ranked 335)  
-Diff (max vs sum): -53  
+Sum: 495 (Ranked 334)  
+Diff (max vs sum): -52  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 232 |
-| This game is Extremely Fun | 34 |
+| This game is Extremely Fun | 35 |
 | This game has Amazing Storytelling | 32 |
 | This game has Amazing Characters | 32 |
 | This game is Highly Recommended | 31 |
@@ -440,3 +440,4 @@ Diff (max vs sum): -53
 | 2023-12-24 | 4.58 | - | 231 | 492 |
 | 2023-12-29 | 4.58 | - | 232 | 493 |
 | 2024-01-01 | 4.58 | - | 232 | 494 |
+| 2024-01-04 | 4.58 | - | 232 | 495 |

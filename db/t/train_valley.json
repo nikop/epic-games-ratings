@@ -5,9 +5,9 @@
   "Ranking_Rating": 633,
   "Ranking_Popularity": 579,
   "Ranking_PopularitySum": 579,
-  "Ranking_EOS_Progress": 330,
+  "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -150,9 +150,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 629,
+  "EOS_Progressed": 630,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -1810,6 +1810,11 @@
       "Time": "2024-01-04T17:06:21.3890798+00:00",
       "NumProgressed": 629,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-04T18:06:10.0682244+00:00",
+      "NumProgressed": 630,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -1821,7 +1826,7 @@
       "Name": "Getting started",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "02_collector",
@@ -1829,7 +1834,7 @@
       "Name": "Collector",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "03_philatelist",
@@ -1853,7 +1858,7 @@
       "Name": "Pangs of conscience",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "06_living",
@@ -1869,7 +1874,7 @@
       "Name": "Europe",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "08_america",
@@ -1909,7 +1914,7 @@
       "Name": "Let\u0027s roll!",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "13_bunkrupt",
@@ -1955,9 +1960,9 @@
       "ID": "18_foreman",
       "SetID": "chb1m60",
       "Name": "Foreman",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 132
+      "UsersEstimate": 126
     },
     {
       "ID": "19_justintime",
@@ -1965,7 +1970,7 @@
       "Name": "Just in time!",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "20_sabotage",
@@ -1995,9 +2000,9 @@
       "ID": "23_closecall",
       "SetID": "chb1m60",
       "Name": "Close call!",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 447
+      "UsersEstimate": 441
     },
     {
       "ID": "24_mega",
@@ -2093,7 +2098,7 @@
       "Name": "Achtung!",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "36_supercrash",
@@ -2101,7 +2106,7 @@
       "Name": "Supercrash!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "37_maniacvandal",
@@ -2117,7 +2122,7 @@
       "Name": "Chuck Norris",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "39_salesman",
@@ -2132,15 +2137,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 629,
+      "Progressed": 630,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2024-01-01T09:01:13.9555975+00:00",
-  "LastChanged_Achievements": "2024-01-04T17:06:21.3890796+00:00",
+  "LastChanged_Achievements": "2024-01-04T18:06:10.0682241+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:40.4916275+00:00",
-  "LastUpdate_Ratings": "2024-01-04T16:58:15.6297827+00:00",
-  "LastUpdate_Achievements": "2024-01-04T17:06:21.3891176+00:00"
+  "LastUpdate_Ratings": "2024-01-04T17:58:06.1908645+00:00",
+  "LastUpdate_Achievements": "2024-01-04T18:06:10.0682591+00:00"
 }

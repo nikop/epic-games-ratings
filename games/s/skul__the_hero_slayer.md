@@ -1,23 +1,23 @@
 # Skul: The Hero Slayer
 [Store](https://store.epicgames.com/en-US/p/skul-the-hero-slayer)  
 [View Rawdata](../../db/s/skul__the_hero_slayer.json)  
-Rating: 4.74 (Ranked 164)  
+Rating: 4.74 (Ranked 163)  
 Number of Ratings: 546  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~12,833 |
-| What should I buy? | 81.00% | ~11,177 |
-| Focus! | 60.00% | ~8,279 |
-| Rescued Elder Ent | 60.00% | ~8,279 |
-| The End of the Gold Mane Knights | 47.00% | ~6,486 |
-| False Goddess, Disappear | 39.00% | ~5,382 |
-| Rules of Etiquette | 37.00% | ~5,106 |
-| Inventory Management | 31.00% | ~4,278 |
-| The Fall of the Leonia Order | 30.00% | ~4,140 |
-| Quick Movements | 30.00% | ~4,140 |
-| Go Home... | 27.00% | ~3,726 |
-| The Final Battle of the First Hero | 26.00% | ~3,588 |
+| The Legend Begins | 93.00% | ~12,836 |
+| What should I buy? | 81.00% | ~11,180 |
+| Focus! | 60.00% | ~8,281 |
+| Rescued Elder Ent | 60.00% | ~8,281 |
+| The End of the Gold Mane Knights | 47.00% | ~6,487 |
+| False Goddess, Disappear | 39.00% | ~5,383 |
+| Rules of Etiquette | 37.00% | ~5,107 |
+| Inventory Management | 31.00% | ~4,279 |
+| The Fall of the Leonia Order | 30.00% | ~4,141 |
+| Quick Movements | 30.00% | ~4,141 |
+| Go Home... | 27.00% | ~3,727 |
+| The Final Battle of the First Hero | 26.00% | ~3,589 |
 | The Hero Killer | 24.00% | ~3,312 |
 | Brain at Full Throttle | 20.00% | ~2,760 |
 | Rookies Welcome | 18.00% | ~2,484 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 1.00% | ~138 |
 | Cold-Blooded | 0.60% | ~83 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,799 (Ranked 173)  
+Progressed: 13,802 (Ranked 173)  
 Completed: 21 (0.15%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,7 +269,7 @@ Completed: 21 (0.15%) (Ranked 287)
 | 2024-01-01 | 13,477 | 20 |
 | 2024-01-02 | 13,596 | 20 |
 | 2024-01-03 | 13,707 | 20 |
-| 2024-01-04 | 13,799 | 21 |
+| 2024-01-04 | 13,802 | 21 |
 ## Awards
 Max (Great for Beginners): 148  (Ranked 327)  
 Sum: 993 (Ranked 271)  

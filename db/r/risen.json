@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 160,
+  "EOS_Progressed": 161,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -850,6 +850,11 @@
       "Time": "2024-01-04T10:10:14.7169426+00:00",
       "NumProgressed": 160,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T18:10:04.1321032+00:00",
+      "NumProgressed": 161,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T08:07:32.4989951+00:00",
@@ -862,7 +867,7 @@
       "Name": "The merciful one",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "id_11",
@@ -886,7 +891,7 @@
       "Name": "Death of a legend",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "id_15",
@@ -894,7 +899,7 @@
       "Name": "Archaeologist",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "id_16",
@@ -934,7 +939,7 @@
       "Name": "Field hand",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "id_20",
@@ -972,9 +977,9 @@
       "ID": "id_26",
       "SetID": "bk9jib6",
       "Name": "Titan Lord",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "id_3",
@@ -982,15 +987,15 @@
       "Name": "Philanthropist",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "id_30",
       "SetID": "bk9jib6",
       "Name": "Beginner",
-      "Percentage": 93,
+      "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 148
     },
     {
       "ID": "id_32",
@@ -1006,7 +1011,7 @@
       "Name": "Ferocious wild boars",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "id_34",
@@ -1038,7 +1043,7 @@
       "Name": "Samaritan",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "id_42",
@@ -1116,9 +1121,9 @@
       "ID": "id_50",
       "SetID": "bk9jib6",
       "Name": "Fervent swimmer",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "id_51",
@@ -1134,15 +1139,15 @@
       "Name": "Idiot",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "id_53",
       "SetID": "bk9jib6",
       "Name": "Jester",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "id_54",
@@ -1174,7 +1179,7 @@
       "Name": "Well-to-do",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "id_58",
@@ -1204,17 +1209,17 @@
       "ID": "id_60",
       "SetID": "bk9jib6",
       "Name": "Adventurer",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 100
     },
     {
       "ID": "id_61",
       "SetID": "bk9jib6",
       "Name": "Map reader",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 101
     },
     {
       "ID": "id_62",
@@ -1222,7 +1227,7 @@
       "Name": "Archer",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "id_63",
@@ -1238,7 +1243,7 @@
       "Name": "Ladies\u0027 man",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "id_8",
@@ -1252,16 +1257,16 @@
       "ID": "id_9",
       "SetID": "bk9jib6",
       "Name": "Master detective",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     }
   ],
   "AchievementSets": [
     {
       "ID": "bk9jib6",
       "IsBase": true,
-      "Progressed": 160,
+      "Progressed": 161,
       "Completed": 0
     }
   ],
@@ -1269,8 +1274,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-12-28T07:02:46.0007261+00:00",
-  "LastChanged_Achievements": "2024-01-04T17:10:16.2926897+00:00",
+  "LastChanged_Achievements": "2024-01-04T18:10:04.132103+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:11.6693375+00:00",
-  "LastUpdate_Ratings": "2024-01-04T16:59:51.4408718+00:00",
-  "LastUpdate_Achievements": "2024-01-04T17:10:16.2927298+00:00"
+  "LastUpdate_Ratings": "2024-01-04T17:59:43.0648373+00:00",
+  "LastUpdate_Achievements": "2024-01-04T18:10:04.1321616+00:00"
 }

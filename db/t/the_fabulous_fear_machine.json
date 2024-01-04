@@ -429,9 +429,9 @@
       "ID": "1",
       "SetID": "d37idgg",
       "Name": "Master trainee",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "10",
@@ -501,9 +501,9 @@
       "ID": "18",
       "SetID": "d37idgg",
       "Name": "Jung\u0027s dream",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "19",
@@ -517,9 +517,9 @@
       "ID": "2",
       "SetID": "d37idgg",
       "Name": "You have three wishes left",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "20",
@@ -605,9 +605,9 @@
       "ID": "3",
       "SetID": "d37idgg",
       "Name": "The battle of Great Britain",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "30",
@@ -653,9 +653,9 @@
       "ID": "35",
       "SetID": "d37idgg",
       "Name": "Pulp! Where Monsters Dwell",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "36",
@@ -812,8 +812,8 @@
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2024-01-04T17:06:37.6575186+00:00",
+  "LastChanged_Achievements": "2024-01-04T18:06:26.0359614+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:11.5765044+00:00",
-  "LastUpdate_Ratings": "2024-01-04T17:02:47.1969484+00:00",
-  "LastUpdate_Achievements": "2024-01-04T17:06:37.6575787+00:00"
+  "LastUpdate_Ratings": "2024-01-04T18:00:44.3807823+00:00",
+  "LastUpdate_Achievements": "2024-01-04T18:06:26.0359994+00:00"
 }

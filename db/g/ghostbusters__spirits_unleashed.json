@@ -3939,9 +3939,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33234,
+  "EOS_Progressed": 33239,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 384,
+  "EOS_NewPlayers": 388,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -24569,6 +24569,11 @@
       "Time": "2024-01-04T17:09:03.8318935+00:00",
       "NumProgressed": 33234,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-04T18:08:51.3435749+00:00",
+      "NumProgressed": 33239,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -24644,7 +24649,7 @@
       "Name": "Cultured",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1329
+      "UsersEstimate": 1330
     },
     {
       "ID": "Daily_Dose",
@@ -24652,7 +24657,7 @@
       "Name": "Daily Dose",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1329
+      "UsersEstimate": 1330
     },
     {
       "ID": "Diabolical",
@@ -24724,7 +24729,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1329
+      "UsersEstimate": 1330
     },
     {
       "ID": "Ghost_Expert",
@@ -24940,7 +24945,7 @@
       "Name": "There you are!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1329
+      "UsersEstimate": 1330
     },
     {
       "ID": "Tobins_Prodigy",
@@ -24980,14 +24985,14 @@
       "Name": "Whoopsie",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1329
+      "UsersEstimate": 1330
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33234,
+      "Progressed": 33239,
       "Completed": 71
     }
   ],
@@ -24995,8 +25000,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2024-01-04T01:46:13.3751253+00:00",
-  "LastChanged_Achievements": "2024-01-04T17:09:03.831893+00:00",
+  "LastChanged_Achievements": "2024-01-04T18:08:51.3435747+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:23.250158+00:00",
-  "LastUpdate_Ratings": "2024-01-04T17:00:19.5957098+00:00",
-  "LastUpdate_Achievements": "2024-01-04T17:09:03.831996+00:00"
+  "LastUpdate_Ratings": "2024-01-04T18:00:10.0455357+00:00",
+  "LastUpdate_Achievements": "2024-01-04T18:08:51.3437166+00:00"
 }

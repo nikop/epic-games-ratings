@@ -450,9 +450,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 971,
+  "EOS_Progressed": 972,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3475,6 +3475,11 @@
       "Time": "2024-01-04T17:09:20.4397184+00:00",
       "NumProgressed": 971,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T18:09:08.1002883+00:00",
+      "NumProgressed": 972,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3631,7 +3636,7 @@
       "Name": "Double Kill",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "FlameAttackKillCount",
@@ -3918,15 +3923,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 971,
+      "Progressed": 972,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2024-01-04T17:09:20.4397179+00:00",
+  "LastChanged_Achievements": "2024-01-04T18:09:08.100288+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:53.9356991+00:00",
-  "LastUpdate_Ratings": "2024-01-04T16:58:37.9705803+00:00",
-  "LastUpdate_Achievements": "2024-01-04T17:09:20.4397793+00:00"
+  "LastUpdate_Ratings": "2024-01-04T17:58:27.8905639+00:00",
+  "LastUpdate_Achievements": "2024-01-04T18:09:08.1003511+00:00"
 }

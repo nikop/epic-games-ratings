@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
@@ -474,9 +474,9 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 416,
+  "EOS_Progressed": 417,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -1579,6 +1579,11 @@
       "Time": "2024-01-04T17:08:21.8823915+00:00",
       "NumProgressed": 416,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-04T18:06:49.0265311+00:00",
+      "NumProgressed": 417,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-13T09:04:44.5703562+00:00",
@@ -1615,7 +1620,7 @@
       "Name": "Unshakable Fortitude",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "Collect_Artifact_Angel_50",
@@ -1647,31 +1652,31 @@
       "Name": "Increased Capacity",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_4",
       "SetID": "7a5k76n",
       "Name": "Maximum Capacity",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 83
     },
     {
       "ID": "Collect_HealthStone_HealUpgrade_1",
       "SetID": "7a5k76n",
       "Name": "Increased Vigor",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 246
     },
     {
       "ID": "Collect_HealthStone_HealUpgrade_4",
       "SetID": "7a5k76n",
       "Name": "Maximum Vigor",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 125
+      "UsersEstimate": 121
     },
     {
       "ID": "Collect_Hollow_Flame",
@@ -1679,15 +1684,15 @@
       "Name": "Fight Fire with Fire",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "Collect_Hollow_Force",
       "SetID": "7a5k76n",
       "Name": "I Wanna Rock",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 133
     },
     {
       "ID": "Collect_Hollow_Stasis",
@@ -1695,7 +1700,7 @@
       "Name": "Freeze Frame",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "Collect_Hollow_Storm",
@@ -1703,7 +1708,7 @@
       "Name": "Perfect Storm",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "Collect_Lurchers_100000",
@@ -1759,15 +1764,15 @@
       "Name": "Balance in all things",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Craft_Enhancement_First",
       "SetID": "7a5k76n",
       "Name": "Enhance!",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 175
     },
     {
       "ID": "Crucible_Kill_WickedK",
@@ -1807,7 +1812,7 @@
       "Name": "\u0022Incredible!\u0022",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Crucible_Wave_75",
@@ -1855,7 +1860,7 @@
       "Name": "Keeper of Colossal Automata",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Keeper_Kill_Flame",
@@ -1879,7 +1884,7 @@
       "Name": "Keeper of the Tempo",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Keeper_Kill_Storm",
@@ -1927,7 +1932,7 @@
       "Name": "All That Glitters",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "Kill_Sin_BigBad",
@@ -1943,7 +1948,7 @@
       "Name": "Green with Envy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "Kill_Sin_Gluttony",
@@ -1951,7 +1956,7 @@
       "Name": "Eat Your Heart Out",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "Kill_Sin_Lust",
@@ -1991,7 +1996,7 @@
       "Name": "Keep it 100!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Save_Humans_1",
@@ -1999,7 +2004,7 @@
       "Name": "Helping Hand",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "Save_Humans_10",
@@ -2039,7 +2044,7 @@
       "Name": "For Whom the Bell Tolls",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "Spend_AttributePoint_1",
@@ -2071,7 +2076,7 @@
       "Name": "BFA",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Upgrade_Armor_First",
@@ -2102,15 +2107,15 @@
     {
       "ID": "7a5k76n",
       "IsBase": true,
-      "Progressed": 416,
+      "Progressed": 417,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-03T05:57:54.1795117+00:00",
-  "LastChanged_Achievements": "2024-01-04T17:08:21.8823911+00:00",
+  "LastChanged_Achievements": "2024-01-04T18:06:49.0265306+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.0817876+00:00",
-  "LastUpdate_Ratings": "2024-01-04T16:58:59.5705042+00:00",
-  "LastUpdate_Achievements": "2024-01-04T17:08:21.8824371+00:00"
+  "LastUpdate_Ratings": "2024-01-04T17:58:50.3052554+00:00",
+  "LastUpdate_Achievements": "2024-01-04T18:06:49.026583+00:00"
 }

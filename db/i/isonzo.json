@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 370,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1065,7 +1065,7 @@
   ],
   "EOS_Progressed": 9760,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10686,9 +10686,9 @@
       "ID": "ISONZO_ACH_FAREWELL_TO_ARMS",
       "SetID": "akchbl3",
       "Name": "Farewell to Arms",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 195
+      "UsersEstimate": 293
     },
     {
       "ID": "ISONZO_ACH_GABRIELE_DANNUNZIO",
@@ -10951,8 +10951,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-04T11:02:12.5493527+00:00",
-  "LastChanged_Achievements": "2024-01-04T17:09:30.9374379+00:00",
+  "LastChanged_Achievements": "2024-01-04T18:09:18.593304+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:27.5115536+00:00",
-  "LastUpdate_Ratings": "2024-01-04T17:02:44.7099131+00:00",
-  "LastUpdate_Achievements": "2024-01-04T17:09:30.9375031+00:00"
+  "LastUpdate_Ratings": "2024-01-04T18:00:41.8805567+00:00",
+  "LastUpdate_Achievements": "2024-01-04T18:09:18.5933705+00:00"
 }

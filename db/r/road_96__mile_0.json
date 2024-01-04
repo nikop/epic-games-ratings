@@ -2,9 +2,9 @@
   "ID": "68c8fe90d12b4ea494f549ec409f58c8",
   "Name": "Road 96: Mile 0",
   "ProductSlug": "road-96-mile-0",
-  "Ranking_EOS_Progress": 330,
+  "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 629,
+  "EOS_Progressed": 630,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -2272,6 +2272,11 @@
       "Time": "2024-01-04T16:11:22.3844741+00:00",
       "NumProgressed": 629,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-04T18:09:59.3168145+00:00",
+      "NumProgressed": 630,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -2291,7 +2296,7 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 39,
       "XP": 80,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "completeact3",
@@ -2371,7 +2376,7 @@
       "Name": "Attack on Tyran",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "scoreminrankrp3",
@@ -2402,7 +2407,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 629,
+      "Progressed": 630,
       "Completed": 3
     }
   ],
@@ -2410,8 +2415,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-04T17:10:11.5224511+00:00",
+  "LastChanged_Achievements": "2024-01-04T18:09:59.3168143+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:00.0371084+00:00",
-  "LastUpdate_Ratings": "2024-01-04T17:00:32.8955586+00:00",
-  "LastUpdate_Achievements": "2024-01-04T17:10:11.5224744+00:00"
+  "LastUpdate_Ratings": "2024-01-04T18:00:21.976012+00:00",
+  "LastUpdate_Achievements": "2024-01-04T18:09:59.316833+00:00"
 }

@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 493,
+  "EOS_Progressed": 494,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
@@ -1904,6 +1904,11 @@
       "Time": "2024-01-04T17:03:40.9611498+00:00",
       "NumProgressed": 493,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T18:03:30.2664649+00:00",
+      "NumProgressed": 494,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-07T18:00:21.0046811+00:00",
@@ -2004,7 +2009,7 @@
       "Name": "Tangentially",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "USSR",
@@ -2027,14 +2032,14 @@
     {
       "ID": "cjfnji1",
       "IsBase": true,
-      "Progressed": 493,
+      "Progressed": 494,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2024-01-04T17:03:40.9611494+00:00",
+  "LastChanged_Achievements": "2024-01-04T18:03:30.2664645+00:00",
   "LastUpdate_AppInfo": "2024-01-02T04:56:54.2525361+00:00",
-  "LastUpdate_Ratings": "2024-01-04T17:00:10.4150396+00:00",
-  "LastUpdate_Achievements": "2024-01-04T17:03:40.9612177+00:00"
+  "LastUpdate_Ratings": "2024-01-04T18:00:02.3799547+00:00",
+  "LastUpdate_Achievements": "2024-01-04T18:03:30.2664857+00:00"
 }

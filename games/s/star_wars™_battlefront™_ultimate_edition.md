@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 87.00% | ~2,247 |
-| Off to a good start | 62.00% | ~1,601 |
-| Do... or do not. There is no try | 51.00% | ~1,317 |
-| A good blaster at your side | 25.00% | ~646 |
-| I suggest a new strategy | 17.00% | ~439 |
-| Great shot, kid! | 16.00% | ~413 |
-| Scrap collector | 15.00% | ~387 |
-| All right, I'll give it a try | 15.00% | ~387 |
+| New Recruit | 87.00% | ~2,251 |
+| Off to a good start | 62.00% | ~1,604 |
+| Do... or do not. There is no try | 51.00% | ~1,319 |
+| A good blaster at your side | 25.00% | ~647 |
+| I suggest a new strategy | 18.00% | ~466 |
+| Great shot, kid! | 16.00% | ~414 |
+| Scrap collector | 15.00% | ~388 |
+| All right, I'll give it a try | 15.00% | ~388 |
 | Shoot first | 13.00% | ~336 |
 | The power of the Force | 12.00% | ~310 |
 | Collector | 12.00% | ~310 |
@@ -28,11 +28,11 @@
 | Distinguished | 4.00% | ~103 |
 | A tremor in the Force | 4.00% | ~103 |
 | Support the troops | 4.00% | ~103 |
-| On the ball | 3.00% | ~77 |
-| Safety ain't the point of a joyride | 3.00% | ~77 |
-| Not bad for a little furball | 3.00% | ~77 |
-| Patience you must have | 3.00% | ~77 |
-| Don't underestimate the Force | 3.00% | ~77 |
+| On the ball | 3.00% | ~78 |
+| Safety ain't the point of a joyride | 3.00% | ~78 |
+| Not bad for a little furball | 3.00% | ~78 |
+| Patience you must have | 3.00% | ~78 |
+| Don't underestimate the Force | 3.00% | ~78 |
 | The Force is strong with this one | 2.00% | ~52 |
 | I've been waiting for you | 2.00% | ~52 |
 | When 900 years old you reach... | 2.00% | ~52 |
@@ -53,8 +53,8 @@
 | Walker defender | 0.80% | ~21 |
 | You have your moments | 0.80% | ~21 |
 | When surrounded by war... | 0.70% | ~18 |
-| A New Hope | 0.60% | ~15 |
-| Stop that Droid | 0.60% | ~15 |
+| A New Hope | 0.60% | ~16 |
+| Stop that Droid | 0.60% | ~16 |
 | No such thing as luck | 0.50% | ~13 |
 | Do we take prisoners? | 0.50% | ~13 |
 | I’ll take that bet | 0.50% | ~13 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,583 (Ranked 233)  
+Progressed: 2,587 (Ranked 233)  
 Completed: 1 (0.04%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 1 (0.04%) (Ranked 347)
 | 2024-01-01 | 2,461 | 1 |
 | 2024-01-02 | 2,520 | 1 |
 | 2024-01-03 | 2,563 | 1 |
-| 2024-01-04 | 2,583 | 1 |
+| 2024-01-04 | 2,587 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

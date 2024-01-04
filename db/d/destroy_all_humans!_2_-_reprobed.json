@@ -5,7 +5,7 @@
   "Ranking_Rating": 544,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 525,
-  "Ranking_EOS_Progress": 390,
+  "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 245,
   "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 150,
@@ -294,9 +294,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 308,
+  "EOS_Progressed": 309,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -1499,6 +1499,11 @@
       "Time": "2024-01-04T10:09:23.0088403+00:00",
       "NumProgressed": 308,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-04T18:09:10.1191882+00:00",
+      "NumProgressed": 309,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1509,9 +1514,9 @@
       "ID": "ACH_ACCELERATE_SMASH",
       "SetID": "4n84pon",
       "Name": "Mash Machine",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 229
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1527,7 +1532,7 @@
       "Name": "Perfect Probulator",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_BASKETBALL_SLAM",
@@ -1621,9 +1626,9 @@
       "ID": "ACH_DISLOCATOR_BOWLING",
       "SetID": "4n84pon",
       "Name": "Ducks in a Row, Fish in a Barrel",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 167
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -1647,15 +1652,15 @@
       "Name": "Rock of the Bay",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
       "SetID": "4n84pon",
       "Name": "Fly Me to the Moon Base",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_ENTER_TAKOSHIMA",
@@ -1695,7 +1700,7 @@
       "Name": "Lobster Blisque",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_KILL_ORANCHOV",
@@ -1709,9 +1714,9 @@
       "ID": "ACH_KILL_PONSONBY",
       "SetID": "4n84pon",
       "Name": "Die Nasty",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_KILL_REINCARNATOR",
@@ -1847,7 +1852,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1862,7 +1867,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 308,
+      "Progressed": 309,
       "Completed": 1
     }
   ],
@@ -1870,8 +1875,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-03T11:58:36.9448322+00:00",
-  "LastChanged_Achievements": "2024-01-04T17:09:22.4535718+00:00",
+  "LastChanged_Achievements": "2024-01-04T18:09:10.1191879+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.261947+00:00",
-  "LastUpdate_Ratings": "2024-01-04T16:59:15.8148241+00:00",
-  "LastUpdate_Achievements": "2024-01-04T17:09:22.4536006+00:00"
+  "LastUpdate_Ratings": "2024-01-04T17:59:09.1777427+00:00",
+  "LastUpdate_Achievements": "2024-01-04T18:09:10.1192476+00:00"
 }

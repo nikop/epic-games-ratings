@@ -2288,17 +2288,17 @@
       "ID": "fight_defeat_1",
       "SetID": "69co12a",
       "Name": "First defeat",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 346
+      "UsersEstimate": 352
     },
     {
       "ID": "fight_win_1",
       "SetID": "69co12a",
       "Name": "First winning",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 426
+      "UsersEstimate": 432
     },
     {
       "ID": "fight_win_10",
@@ -2328,9 +2328,9 @@
       "ID": "first_job",
       "SetID": "69co12a",
       "Name": "Your first job",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 421
+      "UsersEstimate": 426
     },
     {
       "ID": "flash_bobo",
@@ -2464,9 +2464,9 @@
       "ID": "lil_bobo_fight",
       "SetID": "69co12a",
       "Name": "Your first fight",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 448
+      "UsersEstimate": 453
     },
     {
       "ID": "met_casey",
@@ -2480,9 +2480,9 @@
       "ID": "met_k",
       "SetID": "69co12a",
       "Name": "Depressed visitor",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 394
+      "UsersEstimate": 400
     },
     {
       "ID": "mick_house",
@@ -2512,9 +2512,9 @@
       "ID": "nero_basic",
       "SetID": "69co12a",
       "Name": "Neurotrainer \u2013 power gainer!",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 389
+      "UsersEstimate": 394
     },
     {
       "ID": "nero_extrime",
@@ -2528,9 +2528,9 @@
       "ID": "not_ok",
       "SetID": "69co12a",
       "Name": "Run K, run!",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 346
+      "UsersEstimate": 352
     },
     {
       "ID": "own_home",
@@ -2719,8 +2719,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2024-01-04T17:09:59.7847581+00:00",
+  "LastChanged_Achievements": "2024-01-04T18:09:47.5422514+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:36.4340723+00:00",
-  "LastUpdate_Ratings": "2024-01-04T16:58:02.9018488+00:00",
-  "LastUpdate_Achievements": "2024-01-04T17:09:59.7848214+00:00"
+  "LastUpdate_Ratings": "2024-01-04T17:57:53.176398+00:00",
+  "LastUpdate_Achievements": "2024-01-04T18:09:47.5423116+00:00"
 }

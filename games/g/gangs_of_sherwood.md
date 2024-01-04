@@ -4,39 +4,39 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Act of Kindness | 88.00% | ~99 |
-| Air Fighter | 74.00% | ~83 |
+| Act of Kindness | 87.00% | ~98 |
+| Air Fighter | 73.00% | ~82 |
 | Oo-De-Lally | 71.00% | ~80 |
-| Treasure Hunter | 66.00% | ~74 |
+| Treasure Hunter | 65.00% | ~73 |
 | The Altruist | 65.00% | ~73 |
-| Watch your Step! | 54.00% | ~60 |
-| MAX LEVEL | 51.00% | ~57 |
+| Watch your Step! | 54.00% | ~61 |
 | Tap Dancing | 50.00% | ~56 |
+| MAX LEVEL | 50.00% | ~56 |
 | Right between the eyes | 40.00% | ~45 |
 | Starry Night | 38.00% | ~43 |
 | Spring Board | 38.00% | ~43 |
-| Locksley's Tears | 36.00% | ~40 |
+| Locksley's Tears | 35.00% | ~40 |
 | Rebel Unleashed | 34.00% | ~38 |
 | Merry Co-operation | 32.00% | ~36 |
 | Assault on the Ram | 25.00% | ~28 |
 | Finish Him! | 24.00% | ~27 |
 | First Aid | 22.00% | ~25 |
 | Ultra Rebel Instinct | 21.00% | ~24 |
-| Merry Go Round | 21.00% | ~24 |
+| Merry Go Round | 20.00% | ~23 |
 | Savior | 17.00% | ~19 |
 | Hidden Experiment | 16.00% | ~18 |
 | Take Action! | 16.00% | ~18 |
 | Ultra Combo | 15.00% | ~17 |
 | Ascending Will | 14.00% | ~16 |
-| Into the Lion's Den | 12.00% | ~13 |
+| Into the Lion's Den | 12.00% | ~14 |
 | Sky High Fighter | 10.00% | ~11 |
 | Haute Couture | 9.00% | ~10 |
 | The Gang prevails | 7.00% | ~8 |
 | Brilliant Executioner | 5.00% | ~6 |
-| No Mercy | 4.00% | ~4 |
-| Bold and Bossy | 4.00% | ~4 |
-| Power of Friendship! | 4.00% | ~4 |
-| Out of the ring | 4.00% | ~4 |
+| No Mercy | 4.00% | ~5 |
+| Bold and Bossy | 4.00% | ~5 |
+| Power of Friendship! | 4.00% | ~5 |
+| Out of the ring | 4.00% | ~5 |
 | King of the Iron Fist | 3.00% | ~3 |
 | Only Child | 3.00% | ~3 |
 | Five of Friends | 2.00% | ~2 |
@@ -58,7 +58,7 @@
 | The Armorer | 0.00% | ~0 |
 | Master of All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 112 (Ranked 481)  
+Progressed: 113 (Ranked 478)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,3 +99,4 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2023-12-31 | 109 | 0 |
 | 2024-01-01 | 111 | 0 |
 | 2024-01-02 | 112 | 0 |
+| 2024-01-04 | 113 | 0 |

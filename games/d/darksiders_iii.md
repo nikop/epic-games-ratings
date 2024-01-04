@@ -6,16 +6,16 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 77.00% | ~320 |
+| Green with Envy | 77.00% | ~321 |
 | First of many… | 67.00% | ~279 |
-| Helping Hand | 64.00% | ~266 |
-| Increased Vigor | 60.00% | ~250 |
-| Fight Fire with Fire | 58.00% | ~241 |
-| Increased Capacity | 53.00% | ~220 |
+| Helping Hand | 64.00% | ~267 |
+| Increased Vigor | 59.00% | ~246 |
+| Fight Fire with Fire | 58.00% | ~242 |
+| Increased Capacity | 53.00% | ~221 |
 | Just the start | 48.00% | ~200 |
-| Perfect Storm | 46.00% | ~191 |
-| All That Glitters | 46.00% | ~191 |
-| Enhance! | 41.00% | ~171 |
+| Perfect Storm | 46.00% | ~192 |
+| All That Glitters | 46.00% | ~192 |
+| Enhance! | 42.00% | ~175 |
 | One Of the Chosen | 38.00% | ~158 |
 | Devil's in the Details | 38.00% | ~158 |
 | Throne Potato | 38.00% | ~158 |
@@ -23,22 +23,22 @@ Number of Ratings: 116  (23.09.2022)
 | 25 to Life | 37.00% | ~154 |
 | Salvation | 36.00% | ~150 |
 | Soul Harvester | 35.00% | ~146 |
-| Unshakable Fortitude | 33.00% | ~137 |
+| Unshakable Fortitude | 33.00% | ~138 |
+| I Wanna Rock | 32.00% | ~133 |
 | Delusions of Grandeur | 32.00% | ~133 |
-| I Wanna Rock | 31.00% | ~129 |
-| Maximum Vigor | 30.00% | ~125 |
 | Love Tap | 30.00% | ~125 |
-| Freeze Frame | 27.00% | ~112 |
-| Eat Your Heart Out | 27.00% | ~112 |
-| For Whom the Bell Tolls | 27.00% | ~112 |
+| Maximum Vigor | 29.00% | ~121 |
+| Freeze Frame | 27.00% | ~113 |
+| Eat Your Heart Out | 27.00% | ~113 |
+| For Whom the Bell Tolls | 27.00% | ~113 |
 | Unyielding Strength | 25.00% | ~104 |
 | Can you restore the Balance? | 24.00% | ~100 |
 | Big Spender | 24.00% | ~100 |
 | Crowd Source | 23.00% | ~96 |
 | Cleanup Crew | 22.00% | ~92 |
+| Maximum Capacity | 20.00% | ~83 |
 | Demon Meddler | 20.00% | ~83 |
 | Seeing Red | 20.00% | ~83 |
-| Maximum Capacity | 19.00% | ~79 |
 | Egomaniac | 18.00% | ~75 |
 | Protector of Humanity | 17.00% | ~71 |
 | Everybody Wants to Rule the World | 17.00% | ~71 |
@@ -58,12 +58,12 @@ Number of Ratings: 116  (23.09.2022)
 | Keeper of the Bonfire | 4.00% | ~17 |
 | Keeper of the Vale | 4.00% | ~17 |
 | Keeper of the Sky | 4.00% | ~17 |
-| Balance in all things | 3.00% | ~12 |
-| "Incredible!" | 3.00% | ~12 |
-| Keeper of Colossal Automata | 3.00% | ~12 |
-| Keeper of the Tempo | 3.00% | ~12 |
-| Keep it 100! | 3.00% | ~12 |
-| BFA | 3.00% | ~12 |
+| Balance in all things | 3.00% | ~13 |
+| "Incredible!" | 3.00% | ~13 |
+| Keeper of Colossal Automata | 3.00% | ~13 |
+| Keeper of the Tempo | 3.00% | ~13 |
+| Keep it 100! | 3.00% | ~13 |
+| BFA | 3.00% | ~13 |
 | "Apocalyptic!" | 2.00% | ~8 |
 | "Amazing!" | 2.00% | ~8 |
 | Proceed on your way to Armageddon | 2.00% | ~8 |
@@ -71,7 +71,7 @@ Number of Ratings: 116  (23.09.2022)
 | Quite Proper | 0.70% | ~3 |
 | Beast Mode | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 416 (Ranked 359)  
+Progressed: 417 (Ranked 359)  
 Completed: 1 (0.24%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 1 (0.24%) (Ranked 266)
 | 2024-01-01 | 373 | 1 |
 | 2024-01-02 | 388 | 1 |
 | 2024-01-03 | 405 | 1 |
-| 2024-01-04 | 416 | 1 |
+| 2024-01-04 | 417 | 1 |
 ## Awards
 Max (Great Boss Battles): 96  (Ranked 383)  
 Sum: 96 (Ranked 467)  

@@ -4,7 +4,7 @@
   "ProductSlug": "bug-fables-the-everlasting-sapling-851aa9",
   "Ranking_EOS_Progress": 482,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 442,
+  "Ranking_EOS_NewPlayers": 443,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-04-08T00:00:00+00:00",
@@ -326,17 +326,17 @@
       "ID": "BFT_CH3",
       "SetID": "7o7kd30",
       "Name": "Chapter 3 Complete",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "BFT_CH3HB",
       "SetID": "7o7kd30",
       "Name": "Heavy Duty",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "BFT_CH4",
@@ -527,8 +527,8 @@
   "FirstSeenRating": "2023-03-31T05:58:05.5070215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:45.7911439+00:00",
   "LastChanged": "2023-03-31T05:58:05.5070216+00:00",
-  "LastChanged_Achievements": "2024-01-04T17:10:06.2935948+00:00",
+  "LastChanged_Achievements": "2024-01-04T18:09:54.0684326+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:46.6433066+00:00",
-  "LastUpdate_Ratings": "2024-01-04T17:00:03.3033827+00:00",
-  "LastUpdate_Achievements": "2024-01-04T17:10:06.2936141+00:00"
+  "LastUpdate_Ratings": "2024-01-04T17:59:54.2300748+00:00",
+  "LastUpdate_Achievements": "2024-01-04T18:09:54.0684482+00:00"
 }

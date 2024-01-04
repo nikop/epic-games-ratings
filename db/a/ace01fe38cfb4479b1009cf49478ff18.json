@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 749,
+  "EOS_Progressed": 752,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2464,6 +2464,11 @@
       "Time": "2024-01-04T16:09:27.3778081+00:00",
       "NumProgressed": 749,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-04T18:08:34.9580033+00:00",
+      "NumProgressed": 752,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -2516,7 +2521,7 @@
       "Name": "Emperor\u2019s Mercy",
       "Percentage": 1,
       "XP": 175,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ach_complete_difficulty_medium",
@@ -2524,7 +2529,7 @@
       "Name": "My Armour is Contempt",
       "Percentage": 5,
       "XP": 95,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ach_defeat_great_unclean_one",
@@ -2532,7 +2537,7 @@
       "Name": "Defeat a Great Unclean One",
       "Percentage": 11,
       "XP": 45,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ach_defeat_lord_of_change",
@@ -2540,7 +2545,7 @@
       "Name": "Defeat a Lord of Change",
       "Percentage": 23,
       "XP": 45,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ach_find_all_secrets_c1",
@@ -2571,14 +2576,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 749,
+      "Progressed": 752,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2024-01-04T17:08:48.1985112+00:00",
+  "LastChanged_Achievements": "2024-01-04T18:08:34.9580029+00:00",
   "LastUpdate_AppInfo": "2023-12-29T15:57:01.9014557+00:00",
-  "LastUpdate_Ratings": "2024-01-04T16:57:42.7708286+00:00",
-  "LastUpdate_Achievements": "2024-01-04T17:08:48.1985448+00:00"
+  "LastUpdate_Ratings": "2024-01-04T17:57:33.0925846+00:00",
+  "LastUpdate_Achievements": "2024-01-04T18:08:34.9580243+00:00"
 }

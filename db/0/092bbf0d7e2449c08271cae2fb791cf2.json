@@ -4,7 +4,7 @@
   "ProductSlug": "chuchel-203808",
   "Ranking_EOS_Progress": 357,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 436,
+  "EOS_Progressed": 439,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.69,
+  "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
     {
       "Time": "2023-11-01T08:06:18.9626896+00:00",
@@ -1449,6 +1449,11 @@
       "Time": "2024-01-04T16:05:38.1627766+00:00",
       "NumProgressed": 436,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-04T18:04:29.7057048+00:00",
+      "NumProgressed": 439,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -1469,7 +1474,7 @@
       "Name": "Blabber",
       "Percentage": 49,
       "XP": 145,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ach3",
@@ -1477,7 +1482,7 @@
       "Name": "Blue Bean",
       "Percentage": 4,
       "XP": 145,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ach4",
@@ -1516,14 +1521,14 @@
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 436,
+      "Progressed": 439,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2024-01-04T17:04:39.4817119+00:00",
+  "LastChanged_Achievements": "2024-01-04T18:04:29.7057046+00:00",
   "LastUpdate_AppInfo": "2024-01-03T20:57:14.741569+00:00",
-  "LastUpdate_Ratings": "2024-01-04T17:00:04.3824398+00:00",
-  "LastUpdate_Achievements": "2024-01-04T17:04:39.4817282+00:00"
+  "LastUpdate_Ratings": "2024-01-04T17:59:55.3231858+00:00",
+  "LastUpdate_Achievements": "2024-01-04T18:04:29.7057159+00:00"
 }

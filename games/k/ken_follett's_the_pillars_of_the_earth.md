@@ -6,16 +6,16 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 40.00% | ~7,046 |
-| Man of politics | 34.00% | ~5,989 |
-| Yet another secret | 33.00% | ~5,813 |
+| Tattletale | 40.00% | ~7,047 |
+| Man of politics | 34.00% | ~5,990 |
+| Yet another secret | 33.00% | ~5,814 |
 | Friends of sorts | 32.00% | ~5,637 |
 | Let there be darkness | 31.00% | ~5,461 |
 | End of Book One | 29.00% | ~5,109 |
 | Wannabe knight | 23.00% | ~4,052 |
 | Garden of Eden | 23.00% | ~4,052 |
 | Full house | 23.00% | ~4,052 |
-| Help an old friend | 21.00% | ~3,699 |
+| Help an old friend | 21.00% | ~3,700 |
 | Two of us | 20.00% | ~3,523 |
 | Negotiation skills | 18.00% | ~3,171 |
 | Workers' union | 18.00% | ~3,171 |
@@ -29,11 +29,11 @@ Number of Ratings: 368  (23.09.2022)
 | Friar Tuck | 10.00% | ~1,762 |
 | First profit | 10.00% | ~1,762 |
 | Team player | 10.00% | ~1,762 |
-| Skilled merchant | 9.00% | ~1,585 |
-| Brother Marcus | 9.00% | ~1,585 |
-| The oath | 9.00% | ~1,585 |
-| The truth revealed | 9.00% | ~1,585 |
-| The End. | 9.00% | ~1,585 |
+| Skilled merchant | 9.00% | ~1,586 |
+| Brother Marcus | 9.00% | ~1,586 |
+| The oath | 9.00% | ~1,586 |
+| The truth revealed | 9.00% | ~1,586 |
+| The End. | 9.00% | ~1,586 |
 | Nothing but make-believe | 8.00% | ~1,409 |
 | A cry for help | 7.00% | ~1,233 |
 | Silentium est aureum | 7.00% | ~1,233 |
@@ -43,12 +43,12 @@ Number of Ratings: 368  (23.09.2022)
 | Vox Populi | 5.00% | ~881 |
 | Revenge | 4.00% | ~705 |
 | Countess Aliena | 4.00% | ~705 |
-| Care, like a brother cares | 3.00% | ~528 |
-| A brush with death | 3.00% | ~528 |
-| Self-defense | 3.00% | ~528 |
+| Care, like a brother cares | 3.00% | ~529 |
+| A brush with death | 3.00% | ~529 |
+| Self-defense | 3.00% | ~529 |
 | Boy of mystery | 2.00% | ~352 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,616 (Ranked 161)  
+Progressed: 17,617 (Ranked 161)  
 Completed: 124 (0.70%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,7 +307,7 @@ Completed: 124 (0.70%) (Ranked 194)
 | 2024-01-01 | 17,557 | 123 |
 | 2024-01-02 | 17,582 | 123 |
 | 2024-01-03 | 17,600 | 124 |
-| 2024-01-04 | 17,616 | 124 |
+| 2024-01-04 | 17,617 | 124 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 324)  
 Sum: 200 (Ranked 417)  

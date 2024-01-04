@@ -289,9 +289,9 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 1261,
+  "EOS_Progressed": 1262,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3554,6 +3554,11 @@
       "Time": "2024-01-04T17:04:49.4611305+00:00",
       "NumProgressed": 1261,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-04T18:04:39.5267287+00:00",
+      "NumProgressed": 1262,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3574,7 +3579,7 @@
       "Name": "Ab Initio",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "AnthropicHills",
@@ -3620,9 +3625,9 @@
       "ID": "BridgeBuilder",
       "SetID": "1n308hc",
       "Name": "Bridge Builder",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 416
+      "UsersEstimate": 429
     },
     {
       "ID": "ChasingTheLight",
@@ -3662,15 +3667,15 @@
       "Name": "Discovery",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "EasternWetlands",
       "SetID": "1n308hc",
       "Name": "Eastern Wetlands",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 189
     },
     {
       "ID": "EcstaticTruth",
@@ -3686,7 +3691,7 @@
       "Name": "Excellent",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "FloodedValley",
@@ -3830,7 +3835,7 @@
       "Name": "Persistent",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "PrometheusUnbound",
@@ -3844,9 +3849,9 @@
       "ID": "PuzzleFiend",
       "SetID": "1n308hc",
       "Name": "Puzzle Fiend",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 214
+      "UsersEstimate": 227
     },
     {
       "ID": "RemnantsOfThePast",
@@ -3910,7 +3915,7 @@
       "Name": "Team Spirit",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "TextAdventurer",
@@ -3958,7 +3963,7 @@
       "Name": "The Spark",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "TheThiefOfFire",
@@ -4037,7 +4042,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1261,
+      "Progressed": 1262,
       "Completed": 2
     }
   ],
@@ -4045,8 +4050,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-04T17:00:27.8001198+00:00",
-  "LastChanged_Achievements": "2024-01-04T17:04:49.4611301+00:00",
+  "LastChanged_Achievements": "2024-01-04T18:04:39.5267282+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:20.1968805+00:00",
-  "LastUpdate_Ratings": "2024-01-04T17:00:27.8001203+00:00",
-  "LastUpdate_Achievements": "2024-01-04T17:04:49.4612111+00:00"
+  "LastUpdate_Ratings": "2024-01-04T18:00:17.7765967+00:00",
+  "LastUpdate_Achievements": "2024-01-04T18:04:39.526777+00:00"
 }

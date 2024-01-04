@@ -1062,9 +1062,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 231337,
+  "EOS_Progressed": 231345,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 630,
+  "EOS_NewPlayers": 636,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29492,6 +29492,11 @@
       "Time": "2024-01-04T17:10:12.4410714+00:00",
       "NumProgressed": 231337,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-04T18:10:00.1859532+00:00",
+      "NumProgressed": 231345,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -29503,7 +29508,7 @@
       "Name": "This is only the beginning",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 46267
+      "UsersEstimate": 46269
     },
     {
       "ID": "ACH_BASE_10",
@@ -29511,7 +29516,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 60148
+      "UsersEstimate": 60150
     },
     {
       "ID": "ACH_BASE_11",
@@ -29527,7 +29532,7 @@
       "Name": "Competent Cohort",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 9253
+      "UsersEstimate": 9254
     },
     {
       "ID": "ACH_BASE_13",
@@ -29543,7 +29548,7 @@
       "Name": "Power Ranger",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20820
+      "UsersEstimate": 20821
     },
     {
       "ID": "ACH_BASE_16",
@@ -29559,7 +29564,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20820
+      "UsersEstimate": 20821
     },
     {
       "ID": "ACH_BASE_18",
@@ -29583,7 +29588,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13880
+      "UsersEstimate": 13881
     },
     {
       "ID": "ACH_BASE_20",
@@ -29671,7 +29676,7 @@
       "Name": "Celestial Cartography Catastrophe",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9253
+      "UsersEstimate": 9254
     },
     {
       "ID": "ACH_BASE_30",
@@ -29751,7 +29756,7 @@
       "Name": "Knowledge is power",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 30074
+      "UsersEstimate": 30075
     },
     {
       "ID": "ACH_BASE_8",
@@ -29759,7 +29764,7 @@
       "Name": "One with the Machine",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9253
+      "UsersEstimate": 9254
     },
     {
       "ID": "ACH_BASE_9",
@@ -29767,14 +29772,14 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20820
+      "UsersEstimate": 20821
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 231337,
+      "Progressed": 231345,
       "Completed": 5
     }
   ],
@@ -29782,8 +29787,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2024-01-03T14:57:45.5951776+00:00",
-  "LastChanged_Achievements": "2024-01-04T17:10:12.4410705+00:00",
+  "LastChanged_Achievements": "2024-01-04T18:10:00.1859529+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:45.3371168+00:00",
-  "LastUpdate_Ratings": "2024-01-04T16:58:18.3281547+00:00",
-  "LastUpdate_Achievements": "2024-01-04T17:10:12.4412184+00:00"
+  "LastUpdate_Ratings": "2024-01-04T17:58:08.8842888+00:00",
+  "LastUpdate_Achievements": "2024-01-04T18:10:00.186126+00:00"
 }

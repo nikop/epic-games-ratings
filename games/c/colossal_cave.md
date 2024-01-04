@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| We've only just begun | 94.00% | ~98 |
-| You're spelunkin' now! | 81.00% | ~84 |
-| The Birdman of The Caves | 49.00% | ~51 |
-| I've Fallen & I Can't Get Up | 48.00% | ~50 |
-| Charmin' the Snake | 34.00% | ~35 |
+| We've only just begun | 94.00% | ~99 |
+| You're spelunkin' now! | 81.00% | ~85 |
+| The Birdman of The Caves | 50.00% | ~52 |
+| I've Fallen & I Can't Get Up | 49.00% | ~51 |
+| Charmin' the Snake | 33.00% | ~35 |
 | Drums in the Deep | 23.00% | ~24 |
 | Bridge Builder | 22.00% | ~23 |
 | Treasure Seeker | 20.00% | ~21 |
 | Green Thumb Goliath | 16.00% | ~17 |
 | Take the Scenic Route | 13.00% | ~14 |
-| Treasure Hunter | 13.00% | ~14 |
-| St. George's Gauntlet | 12.00% | ~12 |
-| BJ & The Bear | 12.00% | ~12 |
-| Redbeard's Revenger | 11.00% | ~11 |
+| Treasure Hunter | 12.00% | ~13 |
+| St. George's Gauntlet | 11.00% | ~12 |
+| BJ & The Bear | 11.00% | ~12 |
+| Redbeard's Revenger | 10.00% | ~10 |
 | Can't bear the weight | 9.00% | ~9 |
 | Soft Hands | 9.00% | ~9 |
 | Egg On His Face | 8.00% | ~8 |
@@ -29,8 +29,8 @@
 | Master Cave Plunderer | 4.00% | ~4 |
 | Perfect 350 pt score | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 104 (Ranked 486)  
-Completed: 1 (0.96%) (Ranked 175)  
+Progressed: 105 (Ranked 485)  
+Completed: 1 (0.95%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -63,6 +63,7 @@ Completed: 1 (0.96%) (Ranked 175)
 | 2023-12-19 | 102 | 1 |
 | 2023-12-20 | 103 | 1 |
 | 2023-12-28 | 104 | 1 |
+| 2024-01-04 | 105 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

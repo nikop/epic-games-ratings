@@ -3,7 +3,7 @@
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
   "Ranking_Rating": 466,
-  "Ranking_Popularity": 136,
+  "Ranking_Popularity": 137,
   "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 295,
@@ -3868,9 +3868,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242342,
+  "EOS_Progressed": 242344,
   "EOS_Completed": 304,
-  "EOS_NewPlayers": 433,
+  "EOS_NewPlayers": 432,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -30683,6 +30683,11 @@
       "Time": "2024-01-04T17:10:24.7915797+00:00",
       "NumProgressed": 242342,
       "NumCompleted": 304
+    },
+    {
+      "Time": "2024-01-04T18:10:12.1975254+00:00",
+      "NumProgressed": 242344,
+      "NumCompleted": 304
     }
   ],
   "TotalAchievements": 138,
@@ -31092,9 +31097,9 @@
       "ID": "KILL100",
       "SetID": "5l8oe0h",
       "Name": "Defeat The Dark",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2181
+      "UsersEstimate": 2423
     },
     {
       "ID": "KILL1000",
@@ -31797,13 +31802,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242342,
+      "Progressed": 242344,
       "Completed": 304
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3822,
+      "Progressed": 3824,
       "Completed": 421
     }
   ],
@@ -31811,8 +31816,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-04T08:58:59.001391+00:00",
-  "LastChanged_Achievements": "2024-01-04T17:10:24.7915793+00:00",
+  "LastChanged_Achievements": "2024-01-04T18:10:12.1975253+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:01.848225+00:00",
-  "LastUpdate_Ratings": "2024-01-04T16:59:21.2257529+00:00",
-  "LastUpdate_Achievements": "2024-01-04T17:10:24.7918266+00:00"
+  "LastUpdate_Ratings": "2024-01-04T17:59:14.2844489+00:00",
+  "LastUpdate_Achievements": "2024-01-04T18:10:12.1977931+00:00"
 }

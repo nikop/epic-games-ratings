@@ -5,7 +5,7 @@ Rating: 4.63 (Ranked 357)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 3.00% | ~265 |
+| Azoria Beckons | 4.00% | ~354 |
 | A Thorny Situation | 3.00% | ~265 |
 | ... And Spit Back Out | 3.00% | ~265 |
 | Calm Sailing | 2.00% | ~177 |

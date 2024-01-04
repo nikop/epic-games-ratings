@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -329,7 +329,7 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 707,
+  "EOS_Progressed": 709,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 4,
@@ -1914,6 +1914,11 @@
       "Time": "2024-01-04T17:04:56.0807409+00:00",
       "NumProgressed": 707,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-04T18:04:46.2134493+00:00",
+      "NumProgressed": 709,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1934,7 +1939,7 @@
       "Name": "Are you ready now?",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_CHUM_BUCKET_BRAIN",
@@ -1958,7 +1963,7 @@
       "Name": "Life\u0027s as extreme as you wanna make it!",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_DOWN_TOWN",
@@ -1982,7 +1987,7 @@
       "Name": "Hello, Bikini Bottom",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_FLYING_DUTCHMAN_BOSS",
@@ -2006,7 +2011,7 @@
       "Name": "Jellyfish Jam",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_KELP_FOREST",
@@ -2022,7 +2027,7 @@
       "Name": "Keep it Rolling",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_PRAWN_BOSS",
@@ -2030,7 +2035,7 @@
       "Name": "Shrimp Catcher",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_ROBO_PATRICK_BOSS",
@@ -2038,7 +2043,7 @@
       "Name": "Toxic Terror",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_ROBO_SANDY_BOSS",
@@ -2062,7 +2067,7 @@
       "Name": "Hit Rock Bottom",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_SLEEPY_TIME",
@@ -2134,7 +2139,7 @@
       "Name": "Spatula Seeker",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -2142,7 +2147,7 @@
       "Name": "Sponge Smasher",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
@@ -2181,15 +2186,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 707,
+      "Progressed": 709,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-01T20:58:26.8279253+00:00",
-  "LastChanged_Achievements": "2024-01-04T17:04:56.0807403+00:00",
+  "LastChanged_Achievements": "2024-01-04T18:04:46.2134488+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:11.8880921+00:00",
-  "LastUpdate_Ratings": "2024-01-04T17:00:10.5565694+00:00",
-  "LastUpdate_Achievements": "2024-01-04T17:04:56.0807705+00:00"
+  "LastUpdate_Ratings": "2024-01-04T18:00:02.5033447+00:00",
+  "LastUpdate_Achievements": "2024-01-04T18:04:46.2134711+00:00"
 }

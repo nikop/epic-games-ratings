@@ -10,8 +10,8 @@ Rating: 4.58 (Ranked 466)
 | Infinite Growth... | 27.00% | ~1,067 |
 | Without Breaking Some Eggs... | 26.00% | ~1,028 |
 | Ready for a New World | 19.00% | ~751 |
-| Space Society | 18.00% | ~711 |
-| A Thousand Strong | 18.00% | ~711 |
+| Space Society | 18.00% | ~712 |
+| A Thousand Strong | 18.00% | ~712 |
 | Permanent Redesigns | 16.00% | ~632 |
 | Fully Recycled | 15.00% | ~593 |
 | The Ship of Theseus | 15.00% | ~593 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 466)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,952 (Ranked 212)  
+Progressed: 3,953 (Ranked 212)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-01 | 3,888 | 0 |
 | 2024-01-02 | 3,912 | 0 |
 | 2024-01-03 | 3,940 | 0 |
-| 2024-01-04 | 3,952 | 0 |
+| 2024-01-04 | 3,953 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

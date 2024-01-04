@@ -717,9 +717,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6835,
+  "EOS_Progressed": 6840,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 435,
+  "EOS_NewPlayers": 437,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10342,6 +10342,11 @@
       "Time": "2024-01-04T17:03:47.9248984+00:00",
       "NumProgressed": 6835,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-04T18:03:37.4844331+00:00",
+      "NumProgressed": 6840,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10367,9 +10372,9 @@
       "ID": "11",
       "SetID": "3aa2279",
       "Name": "There Can Only Be One!",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 410
+      "UsersEstimate": 479
     },
     {
       "ID": "12",
@@ -10393,7 +10398,7 @@
       "Name": "Full Ascension",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "15",
@@ -10401,7 +10406,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "16",
@@ -10473,7 +10478,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "24",
@@ -10481,7 +10486,7 @@
       "Name": "Secret Technique",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "25",
@@ -10489,7 +10494,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "26",
@@ -10497,7 +10502,7 @@
       "Name": "Bone Peddler",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "27",
@@ -10505,7 +10510,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "28",
@@ -10553,7 +10558,7 @@
       "Name": "My Final Form",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "33",
@@ -10561,7 +10566,7 @@
       "Name": "Seat of Power",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "34",
@@ -10609,7 +10614,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "4",
@@ -10832,13 +10837,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6835,
+      "Progressed": 6840,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6835,
+      "Progressed": 6840,
       "Completed": 7
     }
   ],
@@ -10846,8 +10851,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-03T13:04:27.6429549+00:00",
-  "LastChanged_Achievements": "2024-01-04T17:03:47.9248981+00:00",
+  "LastChanged_Achievements": "2024-01-04T18:03:37.4844326+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-04T17:02:53.1946557+00:00",
-  "LastUpdate_Achievements": "2024-01-04T17:03:47.9250121+00:00"
+  "LastUpdate_Ratings": "2024-01-04T18:00:50.5023254+00:00",
+  "LastUpdate_Achievements": "2024-01-04T18:03:37.484512+00:00"
 }

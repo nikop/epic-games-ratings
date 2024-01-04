@@ -748,9 +748,9 @@
       "ID": "ACH_ACTIVATE_ALL_INGLA_MIRRORS",
       "SetID": "7i20me3",
       "Name": "Mirror, Mirror on the Wall",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_BOJI_SKILLTREE_PROGRESSION_100",
@@ -796,9 +796,9 @@
       "ID": "ACH_DEFEAT_BOSS_INGLA",
       "SetID": "7i20me3",
       "Name": "Defeat Ingla",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_DEFEAT_BOSS_TEZUTH",
@@ -1044,9 +1044,9 @@
       "ID": "ACH_REVEAL_ACREANS_TRUTH",
       "SetID": "7i20me3",
       "Name": "But what of the Acreans?",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_REVEAL_ARCANE_FORGE_TRUTH",
@@ -1179,8 +1179,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2024-01-04T17:10:17.2383029+00:00",
+  "LastChanged_Achievements": "2024-01-04T18:10:04.6723693+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:22.2596584+00:00",
-  "LastUpdate_Ratings": "2024-01-04T17:02:51.9803162+00:00",
-  "LastUpdate_Achievements": "2024-01-04T17:10:17.2383377+00:00"
+  "LastUpdate_Ratings": "2024-01-04T18:00:49.3607635+00:00",
+  "LastUpdate_Achievements": "2024-01-04T18:10:04.6724163+00:00"
 }

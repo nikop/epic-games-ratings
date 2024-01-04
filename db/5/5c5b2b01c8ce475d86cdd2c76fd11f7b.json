@@ -4,7 +4,7 @@
   "ProductSlug": "deus-ex-mankind-divided-4c6370",
   "Ranking_EOS_Progress": 519,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewPlayers": 361,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 71,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1045,8 +1045,8 @@
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2024-01-04T17:06:15.4294895+00:00",
+  "LastChanged_Achievements": "2024-01-04T18:06:04.3204331+00:00",
   "LastUpdate_AppInfo": "2024-01-03T16:57:22.5925378+00:00",
-  "LastUpdate_Ratings": "2024-01-04T16:57:55.1658578+00:00",
-  "LastUpdate_Achievements": "2024-01-04T17:06:15.4295765+00:00"
+  "LastUpdate_Ratings": "2024-01-04T17:57:45.2730088+00:00",
+  "LastUpdate_Achievements": "2024-01-04T18:06:04.3205031+00:00"
 }
