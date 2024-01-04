@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 148,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 334,
-  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
@@ -2458,9 +2458,9 @@
       "Count": 259
     }
   ],
-  "EOS_Progressed": 223950,
+  "EOS_Progressed": 223955,
   "EOS_Completed": 103,
-  "EOS_NewPlayers": 1681,
+  "EOS_NewPlayers": 1673,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -32278,6 +32278,11 @@
       "Time": "2024-01-04T16:06:13.7527586+00:00",
       "NumProgressed": 223950,
       "NumCompleted": 103
+    },
+    {
+      "Time": "2024-01-04T17:05:06.1740298+00:00",
+      "NumProgressed": 223955,
+      "NumCompleted": 103
     }
   ],
   "TotalAchievements": 44,
@@ -32289,7 +32294,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 24634
+      "UsersEstimate": 24635
     },
     {
       "ID": "AtheistOx",
@@ -32361,7 +32366,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 26874
+      "UsersEstimate": 26875
     },
     {
       "ID": "HappyLittleAccidents",
@@ -32401,7 +32406,7 @@
       "Name": "It\u0027s raining men",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6718
+      "UsersEstimate": 6719
     },
     {
       "ID": "Jonin",
@@ -32569,7 +32574,7 @@
       "Name": "The Old Way",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6718
+      "UsersEstimate": 6719
     },
     {
       "ID": "Thorough",
@@ -32577,7 +32582,7 @@
       "Name": "Thorough",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 24634
+      "UsersEstimate": 24635
     },
     {
       "ID": "TimeParadox",
@@ -32640,15 +32645,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 223950,
+      "Progressed": 223955,
       "Completed": 103
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2024-01-03T16:59:46.6043731+00:00",
-  "LastChanged_Achievements": "2024-01-04T16:06:13.752758+00:00",
+  "LastChanged_Achievements": "2024-01-04T17:05:06.1740292+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:46.5494566+00:00",
-  "LastUpdate_Ratings": "2024-01-04T16:01:03.8002872+00:00",
-  "LastUpdate_Achievements": "2024-01-04T16:06:13.7529544+00:00"
+  "LastUpdate_Ratings": "2024-01-04T17:00:02.4371678+00:00",
+  "LastUpdate_Achievements": "2024-01-04T17:05:06.174236+00:00"
 }

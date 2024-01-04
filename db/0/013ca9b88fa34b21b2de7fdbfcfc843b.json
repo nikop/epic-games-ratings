@@ -3,12 +3,12 @@
   "Name": "Fae Farm",
   "ProductSlug": "fae-farm",
   "Ranking_Rating": 357,
-  "Ranking_Popularity": 578,
-  "Ranking_PopularitySum": 578,
+  "Ranking_Popularity": 579,
+  "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -247,9 +247,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8845,
+  "EOS_Progressed": 8848,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9672,6 +9672,11 @@
       "Time": "2024-01-04T08:09:32.0452137+00:00",
       "NumProgressed": 8845,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-04T17:10:19.5911312+00:00",
+      "NumProgressed": 8848,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -9866,9 +9871,9 @@
       "ID": "EARN_FLORINS_1",
       "SetID": "9eia0f5",
       "Name": "Higher Tax Bracket",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 80
+      "UsersEstimate": 88
     },
     {
       "ID": "HARVEST_VEGETABLES_1",
@@ -10027,13 +10032,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8845,
+      "Progressed": 8848,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1462,
+      "Progressed": 1465,
       "Completed": 1050
     }
   ],
@@ -10041,8 +10046,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2024-01-04T01:49:56.9201089+00:00",
-  "LastChanged_Achievements": "2024-01-04T16:11:32.7864581+00:00",
+  "LastChanged_Achievements": "2024-01-04T17:10:19.5911308+00:00",
   "LastUpdate_AppInfo": "2023-12-29T11:57:18.9799571+00:00",
-  "LastUpdate_Ratings": "2024-01-04T16:04:01.7281369+00:00",
-  "LastUpdate_Achievements": "2024-01-04T16:11:32.7865429+00:00"
+  "LastUpdate_Ratings": "2024-01-04T17:03:32.9639932+00:00",
+  "LastUpdate_Achievements": "2024-01-04T17:10:19.5911893+00:00"
 }

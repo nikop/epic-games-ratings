@@ -2,13 +2,13 @@
   "ID": "8b2d6cf2b45b41f1abe91bc5b7c1e8f9",
   "Name": "UNCHARTED\u2122: Legacy of Thieves Collection",
   "ProductSlug": "uncharted-legacy-of-thieves-collection",
-  "Ranking_Rating": 162,
+  "Ranking_Rating": 149,
   "Ranking_Popularity": 179,
-  "Ranking_PopularitySum": 256,
+  "Ranking_PopularitySum": 255,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-10-19T15:00:00+00:00",
     "PcReleaseDate": "2022-10-19T15:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.74,
+  "Rating": 4.75,
   "RatingHistory": [
     {
       "Time": "2022-10-20T19:02:12.9087246+00:00",
@@ -1517,18 +1517,24 @@
       "Rating": 4.74,
       "NumberOfAwards": 1233,
       "NumberOfAwardsMax": 818
+    },
+    {
+      "Time": "2024-01-04T16:57:47.7627364+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 1240,
+      "NumberOfAwardsMax": 825
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1233,
-  "NumberOfAwardsMax": 818,
+  "NumberOfAwards": 1240,
+  "NumberOfAwardsMax": 825,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 818
+      "Count": 825
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1603,8 +1609,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-19T19:01:42.4603943+00:00",
   "FirstSeenRating": "2022-10-20T19:02:12.9087244+00:00",
-  "LastChanged": "2024-01-04T10:57:44.079286+00:00",
+  "LastChanged": "2024-01-04T16:57:47.7627363+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:30.3230359+00:00",
-  "LastUpdate_Ratings": "2024-01-04T15:57:48.5376862+00:00",
-  "LastUpdate_Achievements": "2024-01-04T16:05:27.3395418+00:00"
+  "LastUpdate_Ratings": "2024-01-04T16:57:47.7627367+00:00",
+  "LastUpdate_Achievements": "2024-01-04T17:04:32.2124165+00:00"
 }

@@ -2,8 +2,8 @@
   "ID": "1b737464d3c441f8956315433be02d3b",
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
-  "Ranking_Rating": 947,
-  "Ranking_Popularity": 343,
+  "Ranking_Rating": 948,
+  "Ranking_Popularity": 344,
   "Ranking_PopularitySum": 291,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 257,
@@ -1380,9 +1380,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 32421,
+  "EOS_Progressed": 32426,
   "EOS_Completed": 86,
-  "EOS_NewPlayers": 743,
+  "EOS_NewPlayers": 744,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -29265,6 +29265,11 @@
       "Time": "2024-01-04T15:09:40.4911421+00:00",
       "NumProgressed": 32421,
       "NumCompleted": 86
+    },
+    {
+      "Time": "2024-01-04T17:10:01.6928093+00:00",
+      "NumProgressed": 32426,
+      "NumCompleted": 86
     }
   ],
   "TotalAchievements": 22,
@@ -29284,7 +29289,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1945
+      "UsersEstimate": 1946
     },
     {
       "ID": "1017",
@@ -29292,7 +29297,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1945
+      "UsersEstimate": 1946
     },
     {
       "ID": "1018",
@@ -29308,7 +29313,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2269
+      "UsersEstimate": 2270
     },
     {
       "ID": "1020",
@@ -29332,7 +29337,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1945
+      "UsersEstimate": 1946
     },
     {
       "ID": "1023",
@@ -29356,7 +29361,7 @@
       "Name": "King in the North",
       "Percentage": 2,
       "XP": 110,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "1026",
@@ -29364,7 +29369,7 @@
       "Name": "Oathkeeper",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2269
+      "UsersEstimate": 2270
     },
     {
       "ID": "1027",
@@ -29380,7 +29385,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5836
+      "UsersEstimate": 5837
     },
     {
       "ID": "1029",
@@ -29396,7 +29401,7 @@
       "Name": "Battering Crew",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 6160
+      "UsersEstimate": 6161
     },
     {
       "ID": "1031",
@@ -29412,7 +29417,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 12968
+      "UsersEstimate": 12970
     },
     {
       "ID": "1033",
@@ -29420,7 +29425,7 @@
       "Name": "The Swift",
       "Percentage": 2,
       "XP": 120,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "1034",
@@ -29428,7 +29433,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2269
+      "UsersEstimate": 2270
     },
     {
       "ID": "1035",
@@ -29444,22 +29449,22 @@
       "Name": "A Long Journey",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2269
+      "UsersEstimate": 2270
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 32421,
+      "Progressed": 32426,
       "Completed": 86
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-12-30T03:00:21.8203894+00:00",
-  "LastChanged_Achievements": "2024-01-04T16:11:08.6664141+00:00",
+  "LastChanged_Achievements": "2024-01-04T17:10:01.6928089+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:55.7773957+00:00",
-  "LastUpdate_Ratings": "2024-01-04T15:59:48.7817016+00:00",
-  "LastUpdate_Achievements": "2024-01-04T16:11:08.6665731+00:00"
+  "LastUpdate_Ratings": "2024-01-04T16:59:09.6833324+00:00",
+  "LastUpdate_Achievements": "2024-01-04T17:10:01.6929533+00:00"
 }

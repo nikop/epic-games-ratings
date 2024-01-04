@@ -2,13 +2,13 @@
   "ID": "dc61166eea95474e912953b163791d42",
   "Name": "The Outer Worlds: Spacer\u0027s Choice Edition",
   "ProductSlug": "the-outer-worlds-spacers-choice-edition",
-  "Ranking_Rating": 614,
+  "Ranking_Rating": 613,
   "Ranking_Popularity": 106,
   "Ranking_PopularitySum": 186,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-03-07T16:00:00+00:00",
     "PcReleaseDate": "2023-03-07T16:00:00+00:00",
@@ -921,10 +921,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2905,
       "NumberOfAwardsMax": 2572
+    },
+    {
+      "Time": "2024-01-04T16:59:57.7533725+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2914,
+      "NumberOfAwardsMax": 2572
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2905,
+  "NumberOfAwards": 2914,
   "NumberOfAwardsMax": 2572,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -968,7 +974,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 39
+      "Count": 48
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1003,9 +1009,9 @@
   "FirstSeen": "2023-03-07T20:56:52.9843527+00:00",
   "FirstSeenRating": "2023-03-24T21:56:57.663882+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5081268+00:00",
-  "LastChanged": "2024-01-04T04:59:30.7160811+00:00",
-  "LastChanged_Achievements": "2024-01-04T16:06:34.093371+00:00",
+  "LastChanged": "2024-01-04T16:59:57.7533724+00:00",
+  "LastChanged_Achievements": "2024-01-04T17:05:20.9253558+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:45.1038851+00:00",
-  "LastUpdate_Ratings": "2024-01-04T16:00:57.1837368+00:00",
-  "LastUpdate_Achievements": "2024-01-04T16:06:34.0933739+00:00"
+  "LastUpdate_Ratings": "2024-01-04T16:59:57.7533728+00:00",
+  "LastUpdate_Achievements": "2024-01-04T17:05:20.9253702+00:00"
 }

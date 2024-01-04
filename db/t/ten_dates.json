@@ -4,8 +4,8 @@
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
     "PcReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 465,
+  "EOS_Progressed": 466,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.08,
+  "EOS_Completed_Percentage": 1.07,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:50.5545173+00:00",
@@ -1311,6 +1311,11 @@
       "Time": "2024-01-04T12:09:24.5166516+00:00",
       "NumProgressed": 465,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-04T17:09:51.3887884+00:00",
+      "NumProgressed": 466,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 19,
@@ -1330,7 +1335,7 @@
       "Name": "Picky, Picky!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "misha_date2_all",
@@ -1362,7 +1367,7 @@
       "Name": "That wasn\u0027t so bad",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "ryan_date2_all",
@@ -1402,7 +1407,7 @@
       "Name": "The boss",
       "Percentage": 22,
       "XP": 90,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "success_derek",
@@ -1432,9 +1437,9 @@
       "ID": "success_kathleen",
       "SetID": "6h5h9ho",
       "Name": "The intellectual",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 90,
-      "UsersEstimate": 116
+      "UsersEstimate": 112
     },
     {
       "ID": "success_lucas",
@@ -1473,7 +1478,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 465,
+      "Progressed": 466,
       "Completed": 5
     }
   ],
@@ -1481,8 +1486,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2024-01-04T16:10:54.6940584+00:00",
+  "LastChanged_Achievements": "2024-01-04T17:09:51.3887879+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:31.6181665+00:00",
-  "LastUpdate_Ratings": "2024-01-04T16:03:26.8149236+00:00",
-  "LastUpdate_Achievements": "2024-01-04T16:10:54.6940841+00:00"
+  "LastUpdate_Ratings": "2024-01-04T17:03:07.3720535+00:00",
+  "LastUpdate_Achievements": "2024-01-04T17:09:51.3888044+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Time Loader",
   "ProductSlug": "time-loader",
   "Ranking_EOS_Progress": 458,
-  "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 478,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_Completed": 64,
+  "Ranking_EOS_NewPlayers": 456,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-11-03T16:00:00+00:00",
     "PcReleaseDate": "2021-11-03T16:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 139,
+  "EOS_Progressed": 140,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.47,
+  "EOS_Completed_Percentage": 6.43,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:23.4088376+00:00",
@@ -264,6 +264,11 @@
       "Time": "2024-01-03T23:10:42.7345796+00:00",
       "NumProgressed": 139,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-04T17:09:57.8810865+00:00",
+      "NumProgressed": 140,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 29,
@@ -283,7 +288,7 @@
       "Name": "Soap",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "03_Cassette",
@@ -291,7 +296,7 @@
       "Name": "Cassette",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "04_Mug",
@@ -305,9 +310,9 @@
       "ID": "05_TimeCapsule",
       "SetID": "681m9fa",
       "Name": "Time Capsule",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 17
+      "UsersEstimate": 15
     },
     {
       "ID": "06_Photo",
@@ -355,7 +360,7 @@
       "Name": "It\u2019s in the Vault",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "12_Purrfect",
@@ -363,7 +368,7 @@
       "Name": "Purr-fect",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "13_DrAntivirus",
@@ -371,7 +376,7 @@
       "Name": "Dr. Antivirus",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "14_VhsBlogger",
@@ -385,7 +390,7 @@
       "ID": "15_Screwdriver",
       "SetID": "681m9fa",
       "Name": "Screwdriver",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 15,
       "UsersEstimate": 83
     },
@@ -393,9 +398,9 @@
       "ID": "16_Springs",
       "SetID": "681m9fa",
       "Name": "Springs",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 80
     },
     {
       "ID": "17_Capacitors",
@@ -419,7 +424,7 @@
       "Name": "Harpoon",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "20_AccessProtocol",
@@ -483,15 +488,15 @@
       "Name": "Act 1",
       "Percentage": 32,
       "XP": 70,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "28_Act2",
       "SetID": "681m9fa",
       "Name": "Act 2",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 70,
-      "UsersEstimate": 31
+      "UsersEstimate": 29
     },
     {
       "ID": "29_Act3",
@@ -499,14 +504,14 @@
       "Name": "Act 3",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     }
   ],
   "AchievementSets": [
     {
       "ID": "681m9fa",
       "IsBase": true,
-      "Progressed": 139,
+      "Progressed": 140,
       "Completed": 9
     }
   ],
@@ -514,8 +519,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.0272628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.4088384+00:00",
   "LastChanged": "2023-03-31T05:58:23.0272628+00:00",
-  "LastChanged_Achievements": "2024-01-04T16:11:03.2559601+00:00",
+  "LastChanged_Achievements": "2024-01-04T17:09:57.8810861+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:07.4748893+00:00",
-  "LastUpdate_Ratings": "2024-01-04T16:02:13.2910614+00:00",
-  "LastUpdate_Achievements": "2024-01-04T16:11:03.2559827+00:00"
+  "LastUpdate_Ratings": "2024-01-04T17:02:40.4256853+00:00",
+  "LastUpdate_Achievements": "2024-01-04T17:09:57.8811045+00:00"
 }

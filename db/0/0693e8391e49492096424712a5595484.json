@@ -2,7 +2,7 @@
   "ID": "0693e8391e49492096424712a5595484",
   "Name": "Pilgrims",
   "ProductSlug": "pilgrims-6d250f",
-  "Ranking_EOS_Progress": 315,
+  "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 54,
   "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 74,
@@ -2958,9 +2958,9 @@
       "ID": "BeggarWomanHut",
       "SetID": "db30heh",
       "Name": "Home Sweet Home",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 508
+      "UsersEstimate": 515
     },
     {
       "ID": "BroomAmanita",
@@ -3030,9 +3030,9 @@
       "ID": "FerrymanBird",
       "SetID": "db30heh",
       "Name": "Happy Reunion",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 479
+      "UsersEstimate": 486
     },
     {
       "ID": "HastrmanAcorn",
@@ -3245,8 +3245,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2024-01-04T16:05:31.962739+00:00",
+  "LastChanged_Achievements": "2024-01-04T17:04:35.5905062+00:00",
   "LastUpdate_AppInfo": "2024-01-03T02:57:24.0507598+00:00",
-  "LastUpdate_Ratings": "2024-01-04T15:59:53.9477709+00:00",
-  "LastUpdate_Achievements": "2024-01-04T16:05:31.9628343+00:00"
+  "LastUpdate_Ratings": "2024-01-04T16:59:13.0975555+00:00",
+  "LastUpdate_Achievements": "2024-01-04T17:04:35.5905703+00:00"
 }

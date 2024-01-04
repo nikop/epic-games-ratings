@@ -1,7 +1,7 @@
 # Lost Eidolons
 [Store](https://store.epicgames.com/en-US/p/lost-eidolons)  
 [View Rawdata](../../db/l/lost_eidolons.json)  
-Rating: 4.35 (Ranked 820)  
+Rating: 4.35 (Ranked 819)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,7 +9,7 @@ Rating: 4.35 (Ranked 820)
 | First Blood | 69.00% | ~778 |
 | Ready to Learn | 66.00% | ~744 |
 | Monster Hunter | 56.00% | ~631 |
-| Earning Trust | 53.00% | ~597 |
+| Earning Trust | 54.00% | ~609 |
 | Monster Slayer | 31.00% | ~349 |
 | Awakening | 24.00% | ~270 |
 | Huntmaster | 23.00% | ~259 |

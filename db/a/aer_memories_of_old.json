@@ -3,11 +3,11 @@
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
   "Ranking_Rating": 701,
-  "Ranking_Popularity": 578,
-  "Ranking_PopularitySum": 578,
+  "Ranking_Popularity": 579,
+  "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -425,9 +425,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 27920,
+  "EOS_Progressed": 27924,
   "EOS_Completed": 511,
-  "EOS_NewPlayers": 617,
+  "EOS_NewPlayers": 615,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.83,
   "EosHistory": [
@@ -28360,6 +28360,11 @@
       "Time": "2024-01-04T16:06:05.1546212+00:00",
       "NumProgressed": 27920,
       "NumCompleted": 511
+    },
+    {
+      "Time": "2024-01-04T17:04:59.5571576+00:00",
+      "NumProgressed": 27924,
+      "NumCompleted": 511
     }
   ],
   "TotalAchievements": 20,
@@ -28371,7 +28376,7 @@
       "Name": "Cartographer",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 4467
+      "UsersEstimate": 4468
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -28403,7 +28408,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 3071
+      "UsersEstimate": 3072
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -28419,7 +28424,7 @@
       "Name": "An uninvited guest",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1954
+      "UsersEstimate": 1955
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -28427,7 +28432,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3350
+      "UsersEstimate": 3351
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -28483,7 +28488,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3350
+      "UsersEstimate": 3351
     },
     {
       "ID": "INTRO_FINISHED",
@@ -28491,7 +28496,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 21219
+      "UsersEstimate": 21222
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -28499,7 +28504,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 7538
+      "UsersEstimate": 7539
     },
     {
       "ID": "NORTH_FINISHED",
@@ -28530,15 +28535,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 27920,
+      "Progressed": 27924,
       "Completed": 511
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2024-01-04T06:57:48.8328887+00:00",
-  "LastChanged_Achievements": "2024-01-04T16:06:05.1546208+00:00",
+  "LastChanged_Achievements": "2024-01-04T17:04:59.5571573+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:39.3353951+00:00",
-  "LastUpdate_Ratings": "2024-01-04T15:58:17.8324158+00:00",
-  "LastUpdate_Achievements": "2024-01-04T16:06:05.154766+00:00"
+  "LastUpdate_Ratings": "2024-01-04T16:58:07.4937574+00:00",
+  "LastUpdate_Achievements": "2024-01-04T17:04:59.5572783+00:00"
 }

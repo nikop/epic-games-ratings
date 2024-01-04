@@ -5,54 +5,54 @@ Rating: 4.58 (Ranked 466)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 32.00% | ~1,264 |
-| Sputnik 2049 | 28.00% | ~1,106 |
-| Infinite Growth... | 27.00% | ~1,066 |
-| Without Breaking Some Eggs... | 26.00% | ~1,027 |
-| Ready for a New World | 19.00% | ~750 |
+| Wakey Wakey | 32.00% | ~1,265 |
+| Sputnik 2049 | 28.00% | ~1,107 |
+| Infinite Growth... | 27.00% | ~1,067 |
+| Without Breaking Some Eggs... | 26.00% | ~1,028 |
+| Ready for a New World | 19.00% | ~751 |
 | Space Society | 18.00% | ~711 |
 | A Thousand Strong | 18.00% | ~711 |
 | Permanent Redesigns | 16.00% | ~632 |
-| Fully Recycled | 15.00% | ~592 |
-| The Ship of Theseus | 15.00% | ~592 |
+| Fully Recycled | 15.00% | ~593 |
+| The Ship of Theseus | 15.00% | ~593 |
 | Guy de Borderlands | 14.00% | ~553 |
 | Ain't Nobody Got Time for That | 14.00% | ~553 |
-| Hope Seeker | 13.00% | ~513 |
+| Hope Seeker | 13.00% | ~514 |
 | A Hunk of Junk | 12.00% | ~474 |
 | Exceeding Capacity | 12.00% | ~474 |
 | Breaking Protocol | 12.00% | ~474 |
-| Man's Best Friend | 9.00% | ~355 |
-| Power Outage | 9.00% | ~355 |
-| Please Make it Stop! | 9.00% | ~355 |
+| Man's Best Friend | 9.00% | ~356 |
+| Power Outage | 9.00% | ~356 |
+| Please Make it Stop! | 9.00% | ~356 |
 | Sightseeing | 8.00% | ~316 |
 | Convenient Transport | 8.00% | ~316 |
-| Necessary Enhancement | 7.00% | ~276 |
-| From the Past | 7.00% | ~276 |
+| Necessary Enhancement | 7.00% | ~277 |
+| From the Past | 7.00% | ~277 |
 | Access Granted | 6.00% | ~237 |
 | All in Good Health | 6.00% | ~237 |
 | Drill-dozer | 6.00% | ~237 |
-| Oats | 5.00% | ~197 |
-| What They Hide From Us | 5.00% | ~197 |
-| ...  in a finite world | 5.00% | ~197 |
-| In Dolos We Trust | 5.00% | ~197 |
-| BRAWL! | 5.00% | ~197 |
-| What the Ruins Teach Us | 5.00% | ~197 |
+| Oats | 5.00% | ~198 |
+| What They Hide From Us | 5.00% | ~198 |
+| ...  in a finite world | 5.00% | ~198 |
+| In Dolos We Trust | 5.00% | ~198 |
+| BRAWL! | 5.00% | ~198 |
+| What the Ruins Teach Us | 5.00% | ~198 |
 | Sustainable Energy | 4.00% | ~158 |
 | Pedal to the Metal | 4.00% | ~158 |
-| Praise the Hull! | 3.00% | ~118 |
-| Space Greenhouse | 3.00% | ~118 |
-| Delivery! | 3.00% | ~118 |
-| Help of the Forgotten Member | 3.00% | ~118 |
-| Pulsar Disciple | 3.00% | ~118 |
+| Praise the Hull! | 3.00% | ~119 |
+| Space Greenhouse | 3.00% | ~119 |
+| Delivery! | 3.00% | ~119 |
+| Help of the Forgotten Member | 3.00% | ~119 |
+| Pulsar Disciple | 3.00% | ~119 |
 | Mutual Loyalty | 2.00% | ~79 |
 | Tiqqun Contender | 2.00% | ~79 |
 | Catastrophe Avoided | 2.00% | ~79 |
 | You Had One Job... | 2.00% | ~79 |
 | Tiqqun Unchained | 2.00% | ~79 |
-| Better Him Than Me | 1.00% | ~39 |
-| Remember the Dead | 1.00% | ~39 |
-| Gregor Spinoza | 1.00% | ~39 |
-| Scientifically Accurate | 1.00% | ~39 |
+| Better Him Than Me | 1.00% | ~40 |
+| Remember the Dead | 1.00% | ~40 |
+| Gregor Spinoza | 1.00% | ~40 |
+| Scientifically Accurate | 1.00% | ~40 |
 | Work Harder | 0.60% | ~24 |
 | Soylent Green | 0.50% | ~20 |
 | Crunch Culture | 0.40% | ~16 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 466)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,949 (Ranked 211)  
+Progressed: 3,952 (Ranked 212)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-01 | 3,888 | 0 |
 | 2024-01-02 | 3,912 | 0 |
 | 2024-01-03 | 3,940 | 0 |
-| 2024-01-04 | 3,949 | 0 |
+| 2024-01-04 | 3,952 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

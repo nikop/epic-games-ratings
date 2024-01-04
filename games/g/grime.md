@@ -6,12 +6,12 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 3.00% | ~4,993 |
-| Imprint | 3.00% | ~4,993 |
+| Taste | 3.00% | ~4,994 |
+| Imprint | 3.00% | ~4,994 |
 | The Hunt | 2.00% | ~3,329 |
 | Weeper | 2.00% | ~3,329 |
 | Ravenous | 2.00% | ~3,329 |
-| Devourer | 1.00% | ~1,664 |
+| Devourer | 1.00% | ~1,665 |
 | Silenced Whispers | 0.90% | ~1,498 |
 | Harmless | 0.80% | ~1,332 |
 | Yank | 0.70% | ~1,165 |
@@ -23,10 +23,10 @@ Number of Ratings: 46  (23.09.2022)
 | Shapely | 0.50% | ~832 |
 | Glare | 0.50% | ~830 |
 | Watcher | 0.50% | ~832 |
+| Predator | 0.50% | ~832 |
 | Assimilation | 0.40% | ~666 |
 | Host | 0.40% | ~664 |
 | Celebration | 0.40% | ~666 |
-| Predator | 0.40% | ~666 |
 | Hunt Down | 0.30% | ~499 |
 | Artisan | 0.30% | ~499 |
 | Hush | 0.30% | ~499 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~166 |
 | Intensify | 0.10% | ~166 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 166,445 (Ranked 84)  
+Progressed: 166,452 (Ranked 84)  
 Completed: 442 (0.27%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 442 (0.27%) (Ranked 257)
 | 2024-01-01 | 166,011 | 436 |
 | 2024-01-02 | 166,178 | 440 |
 | 2024-01-03 | 166,329 | 441 |
-| 2024-01-04 | 166,445 | 442 |
+| 2024-01-04 | 166,452 | 442 |
 ## Awards
 Max (Unique Visuals): 61  (Ranked 426)  
 Sum: 441 (Ranked 343)  

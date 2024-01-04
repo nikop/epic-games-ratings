@@ -4,8 +4,8 @@
   "ProductSlug": "tools-up-ultimate-edition-d2736d",
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2024-01-05T15:00:00+00:00",
     "PcReleaseDate": "2024-01-05T15:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-21T16:04:10.1969453+00:00",
-  "LastChanged_Achievements": "2024-01-04T16:07:22.1289542+00:00",
-  "LastUpdate_AppInfo": "2023-12-28T15:57:19.4883496+00:00",
-  "LastUpdate_Ratings": "2024-01-04T16:02:54.9078316+00:00",
-  "LastUpdate_Achievements": "2024-01-04T16:07:22.1289573+00:00"
+  "LastChanged_Achievements": "2024-01-04T17:05:58.8009382+00:00",
+  "LastUpdate_AppInfo": "2024-01-04T16:57:20.655549+00:00",
+  "LastUpdate_Ratings": "2024-01-04T17:02:47.3222643+00:00",
+  "LastUpdate_Achievements": "2024-01-04T17:05:58.8009404+00:00"
 }

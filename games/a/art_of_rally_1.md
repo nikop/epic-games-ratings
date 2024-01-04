@@ -1,48 +1,48 @@
 # Art of Rally
 [Store](https://store.epicgames.com/en-US/p/art-of-rally)  
 [View Rawdata](../../db/a/art_of_rally_1.json)  
-Rating: 4.65 (Ranked 320)  
+Rating: 4.65 (Ranked 319)  
 Number of Ratings: 56  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 79.00% | ~307,250 |
-| good drivers have dead flies on the side windows | 32.00% | ~124,456 |
-| keep it tidy | 26.00% | ~101,120 |
-| brail | 26.00% | ~101,120 |
-| car wash | 23.00% | ~89,453 |
-| the artist | 23.00% | ~89,453 |
-| podium | 20.00% | ~77,785 |
-| medium attack | 17.00% | ~66,117 |
-| bicycle race | 6.00% | ~23,335 |
-| grocery-getter | 5.00% | ~19,446 |
-| autopilot | 4.00% | ~15,557 |
-| where is the stage? | 3.00% | ~11,668 |
-| night ride | 3.00% | ~11,668 |
-| snorkel | 3.00% | ~11,668 |
-| food tour: pasta | 3.00% | ~11,668 |
-| perkele | 2.00% | ~7,778 |
-| rwd only | 2.00% | ~7,778 |
-| if in doubt, flat out! | 2.00% | ~7,778 |
-| you can't treat a car like a human being. a car requires love | 2.00% | ~7,778 |
-| to finish first, first you must finish | 1.00% | ~3,889 |
-| espresso | 1.00% | ~3,889 |
-| turbo | 1.00% | ~3,889 |
-| in like a lamb, out like a lion | 1.00% | ~3,889 |
-| mittens | 1.00% | ~3,889 |
-| food tour: pretzel | 1.00% | ~3,889 |
-| monster | 0.80% | ~3,111 |
-| eurobeat | 0.60% | ~2,334 |
-| viking | 0.60% | ~2,334 |
-| oktoberfest | 0.50% | ~1,945 |
-| parallel universe | 0.50% | ~1,945 |
-| group b | 0.50% | ~1,945 |
-| maximum attack | 0.40% | ~1,556 |
-| samir | 0.40% | ~1,556 |
-| parking lot | 0.30% | ~1,167 |
-| master of rally | 0.30% | ~1,167 |
-| antilag | 0.30% | ~1,167 |
-| real roads, real fast | 0.30% | ~1,167 |
+| light attack | 79.00% | ~307,444 |
+| good drivers have dead flies on the side windows | 32.00% | ~124,534 |
+| keep it tidy | 26.00% | ~101,184 |
+| brail | 26.00% | ~101,184 |
+| car wash | 23.00% | ~89,509 |
+| the artist | 23.00% | ~89,509 |
+| podium | 20.00% | ~77,834 |
+| medium attack | 17.00% | ~66,159 |
+| bicycle race | 6.00% | ~23,350 |
+| grocery-getter | 5.00% | ~19,458 |
+| autopilot | 4.00% | ~15,567 |
+| where is the stage? | 3.00% | ~11,675 |
+| night ride | 3.00% | ~11,675 |
+| snorkel | 3.00% | ~11,675 |
+| food tour: pasta | 3.00% | ~11,675 |
+| perkele | 2.00% | ~7,783 |
+| rwd only | 2.00% | ~7,783 |
+| if in doubt, flat out! | 2.00% | ~7,783 |
+| you can't treat a car like a human being. a car requires love | 2.00% | ~7,783 |
+| to finish first, first you must finish | 1.00% | ~3,892 |
+| espresso | 1.00% | ~3,892 |
+| turbo | 1.00% | ~3,892 |
+| in like a lamb, out like a lion | 1.00% | ~3,892 |
+| mittens | 1.00% | ~3,892 |
+| food tour: pretzel | 1.00% | ~3,892 |
+| monster | 0.80% | ~3,113 |
+| eurobeat | 0.60% | ~2,335 |
+| viking | 0.60% | ~2,335 |
+| oktoberfest | 0.50% | ~1,946 |
+| parallel universe | 0.50% | ~1,946 |
+| group b | 0.50% | ~1,946 |
+| maximum attack | 0.40% | ~1,557 |
+| samir | 0.40% | ~1,557 |
+| parking lot | 0.30% | ~1,168 |
+| master of rally | 0.30% | ~1,168 |
+| antilag | 0.30% | ~1,168 |
+| real roads, real fast | 0.30% | ~1,168 |
 | comfy seats | 0.20% | ~778 |
 | simulator | 0.20% | ~778 |
 | if everything seems under control, you're not going fast enough | 0.10% | ~389 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | barely keeping it together | 0.10% | ~389 |
 | you're here for a good time, not a long time | 0.10% | ~389 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 388,924 (Ranked 51)  
+Progressed: 389,170 (Ranked 51)  
 Completed: 14 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,11 +239,11 @@ Completed: 14 (0.00%) (Ranked 393)
 | 2024-01-01 | 376,863 | 12 |
 | 2024-01-02 | 381,884 | 13 |
 | 2024-01-03 | 386,454 | 14 |
-| 2024-01-04 | 388,924 | 14 |
+| 2024-01-04 | 389,170 | 14 |
 ## Awards
 Max (Quickly Understood Controls): 32  (Ranked 510)  
-Sum: 126 (Ranked 448)  
-Diff (max vs sum): 62  
+Sum: 126 (Ranked 449)  
+Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 32 |

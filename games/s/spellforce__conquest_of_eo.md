@@ -26,8 +26,8 @@
 | Castle Meldec | 22.00% | ~25 |
 | Sevenkeeps Seat of Kings | 20.00% | ~23 |
 | Friend of Alluvyan | 18.00% | ~20 |
-| Friend of Connach | 15.00% | ~17 |
-| Friend of Gillyshire | 14.00% | ~16 |
+| Friend of Connach | 16.00% | ~18 |
+| Friend of Gillyshire | 15.00% | ~17 |
 | Stormwatch Faste | 13.00% | ~15 |
 | Friend of Silver Drift Hollow | 13.00% | ~15 |
 | Break Free | 13.00% | ~15 |
@@ -62,13 +62,13 @@
 | Master Necromancer | 5.00% | ~6 |
 | Friend of Grey Dusk Vale | 5.00% | ~6 |
 | Defeat Isgrimm | 4.00% | ~5 |
+| Defeat Rohen | 4.00% | ~5 |
 | Defeat Yria | 4.00% | ~5 |
 | Lytra's Tale | 4.00% | ~5 |
 | Misty Coast Dragonbones | 4.00% | ~5 |
 | Master Alchemist | 4.00% | ~5 |
 | Breaking the circle | 4.00% | ~5 |
 | My Friends! | 4.00% | ~5 |
-| Defeat Rohen | 3.00% | ~3 |
 | Hard Life | 2.00% | ~2 |
 | Impossible Mission | 2.00% | ~2 |
 | Potion Master | 0.00% | ~0 |

@@ -2,13 +2,13 @@
   "ID": "2cdc5a2758a6445d8d4f399ecb469aaf",
   "Name": "Cursed to Golf",
   "ProductSlug": "cursed-to-golf-a6bc22",
-  "Ranking_Rating": 958,
-  "Ranking_Popularity": 578,
-  "Ranking_PopularitySum": 578,
+  "Ranking_Rating": 960,
+  "Ranking_Popularity": 579,
+  "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-08-18T15:00:00+00:00",
     "PcReleaseDate": "2022-08-18T15:00:00+00:00",
@@ -102,6 +102,6 @@
   "FirstSeenRating": "2023-03-31T05:58:33.8447802+00:00",
   "LastChanged": "2024-01-04T14:59:23.8810699+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:46.4549704+00:00",
-  "LastUpdate_Ratings": "2024-01-04T16:01:00.9370821+00:00",
-  "LastUpdate_Achievements": "2024-01-04T16:04:48.9863816+00:00"
+  "LastUpdate_Ratings": "2024-01-04T17:00:00.5426797+00:00",
+  "LastUpdate_Achievements": "2024-01-04T17:04:05.2066993+00:00"
 }

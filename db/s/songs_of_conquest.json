@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -450,9 +450,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 970,
+  "EOS_Progressed": 971,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3470,6 +3470,11 @@
       "Time": "2024-01-04T15:09:00.8213805+00:00",
       "NumProgressed": 970,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T17:09:20.4397184+00:00",
+      "NumProgressed": 971,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3490,7 +3495,7 @@
       "Name": "The Song of Stoutheart",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ArleonCampaignFinaleOnHard",
@@ -3586,7 +3591,7 @@
       "Name": "Critical Hit",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "Deepstrike",
@@ -3746,7 +3751,7 @@
       "Name": "Don\u0027t Touch My Stuff",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "RepelIntoExplosiveFungi",
@@ -3810,7 +3815,7 @@
       "Name": "Adept",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "WielderLevel2",
@@ -3818,7 +3823,7 @@
       "Name": "Veteran",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "WielderLevel3",
@@ -3913,15 +3918,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 970,
+      "Progressed": 971,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2024-01-04T16:10:11.947753+00:00",
+  "LastChanged_Achievements": "2024-01-04T17:09:20.4397179+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:53.9356991+00:00",
-  "LastUpdate_Ratings": "2024-01-04T15:58:59.3864597+00:00",
-  "LastUpdate_Achievements": "2024-01-04T16:10:11.9478168+00:00"
+  "LastUpdate_Ratings": "2024-01-04T16:58:37.9705803+00:00",
+  "LastUpdate_Achievements": "2024-01-04T17:09:20.4397793+00:00"
 }

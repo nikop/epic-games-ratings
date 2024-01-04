@@ -5,17 +5,17 @@ Rating: 4.62 (Ranked 376)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 14.00% | ~956 |
-| Realm Estate | 13.00% | ~888 |
+| Secret Technique | 14.00% | ~957 |
+| Realm Estate | 13.00% | ~889 |
 | A Wonderful Discovery | 12.00% | ~820 |
 | Walls Cannot Stop Us | 12.00% | ~820 |
-| From Friends to Family | 10.00% | ~683 |
+| From Friends to Family | 10.00% | ~684 |
 | Bone Peddler | 9.00% | ~615 |
-| Magical Synergy | 8.00% | ~546 |
+| Magical Synergy | 8.00% | ~547 |
 | Full Ascension | 7.00% | ~478 |
+| Seat of Power | 7.00% | ~478 |
 | There Can Only Be One! | 6.00% | ~410 |
 | Stronger Together | 6.00% | ~410 |
-| Seat of Power | 6.00% | ~410 |
 | In a Liege of Your Own | 6.00% | ~410 |
 | Valley of Wonders | 5.00% | ~342 |
 | Intimidation Tactics | 5.00% | ~342 |
@@ -52,13 +52,13 @@ Rating: 4.62 (Ranked 376)
 | Seal the Deal | 1.00% | ~68 |
 | A Conqueror's Cohort | 1.00% | ~68 |
 | Dawn of the Dread | 1.00% | ~68 |
-| One for All, All for One | 0.90% | ~61 |
+| One for All, All for One | 0.90% | ~62 |
 | Betrayal Most Foul | 0.80% | ~55 |
 | Duality | 0.80% | ~55 |
 | Snap Out of It! | 0.50% | ~34 |
 | The Magic That Empowers Me! | 0.50% | ~34 |
 | A Very Special Ring | 0.40% | ~27 |
-| Jack of All Tomes | 0.30% | ~20 |
+| Jack of All Tomes | 0.30% | ~21 |
 | I Want to Break Free | 0.10% | ~7 |
 | Master of Evilness | 0.10% | ~7 |
 | The Grey Wizard | 0.10% | ~7 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 376)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,830 (Ranked 196)  
+Progressed: 6,835 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 7 (0.10%) (Ranked 306)
 | 2024-01-01 | 6,687 | 7 |
 | 2024-01-02 | 6,742 | 7 |
 | 2024-01-03 | 6,793 | 7 |
-| 2024-01-04 | 6,830 | 7 |
+| 2024-01-04 | 6,835 | 7 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 478)  
 Sum: 209 (Ranked 409)  

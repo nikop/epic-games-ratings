@@ -4,8 +4,8 @@
   "ProductSlug": "bus-world-5de29e",
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 285,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-08-10T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 491,
+  "EOS_Progressed": 493,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1899,6 +1899,11 @@
       "Time": "2024-01-04T16:04:14.641576+00:00",
       "NumProgressed": 491,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T17:03:40.9611498+00:00",
+      "NumProgressed": 493,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-07T18:00:21.0046811+00:00",
@@ -1927,7 +1932,7 @@
       "Name": "Critical dissatisfaction",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Full",
@@ -1935,7 +1940,7 @@
       "Name": "Full load",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "Island",
@@ -1951,7 +1956,7 @@
       "Name": "In the last second",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "Master",
@@ -1967,7 +1972,7 @@
       "Name": "Own route",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "Serpentine_conquero",
@@ -2022,14 +2027,14 @@
     {
       "ID": "cjfnji1",
       "IsBase": true,
-      "Progressed": 491,
+      "Progressed": 493,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2024-01-04T16:04:14.6415755+00:00",
+  "LastChanged_Achievements": "2024-01-04T17:03:40.9611494+00:00",
   "LastUpdate_AppInfo": "2024-01-02T04:56:54.2525361+00:00",
-  "LastUpdate_Ratings": "2024-01-04T16:01:16.5186442+00:00",
-  "LastUpdate_Achievements": "2024-01-04T16:04:14.6416228+00:00"
+  "LastUpdate_Ratings": "2024-01-04T17:00:10.4150396+00:00",
+  "LastUpdate_Achievements": "2024-01-04T17:03:40.9612177+00:00"
 }

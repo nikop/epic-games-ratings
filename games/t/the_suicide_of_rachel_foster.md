@@ -1,7 +1,7 @@
 # The Suicide of Rachel Foster
 [Store](https://store.epicgames.com/en-US/p/the-suicide-of-rachel-foster-1dc01b)  
 [View Rawdata](../../db/t/the_suicide_of_rachel_foster.json)  
-Rating: 4.19 (Ranked 966)  
+Rating: 4.19 (Ranked 967)  
 Number of Ratings: 71  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -15,7 +15,7 @@ Number of Ratings: 71  (23.09.2022)
 | Ghost Hunters | 40.00% | ~729 |
 | Alone | 39.00% | ~711 |
 | Pack Rat | 39.00% | ~711 |
-| All together, again | 33.00% | ~602 |
+| All together, again | 34.00% | ~620 |
 | Spicy | 5.00% | ~91 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,823 (Ranked 254)  

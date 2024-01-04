@@ -14,18 +14,18 @@
 | Blurry depth perception | 82.00% | ~123 |
 | Nerd | 81.00% | ~122 |
 | Up and down | 80.00% | ~120 |
-| Rolling, Rolling, Rolling | 76.00% | ~114 |
+| Rolling, Rolling, Rolling | 77.00% | ~116 |
+| Fire-fighter! | 67.00% | ~100 |
 | Oh, you're up to no gouda! | 66.00% | ~99 |
-| Fire-fighter! | 66.00% | ~99 |
 | Make Love not War-Craft a Mistlefoe | 63.00% | ~94 |
 | Meat grinder | 61.00% | ~92 |
-| You're not going to blow me up! | 56.00% | ~84 |
-| Mushroom soup of the day | 53.00% | ~80 |
+| You're not going to blow me up! | 57.00% | ~85 |
+| Mushroom soup of the day | 54.00% | ~81 |
 | Butcher | 51.00% | ~76 |
 | Spare Ribs | 51.00% | ~76 |
 | Cockadoodledoo! | 51.00% | ~76 |
-| Honk honk! | 49.00% | ~74 |
-| Thats disgusting! | 49.00% | ~74 |
+| Honk honk! | 50.00% | ~75 |
+| Thats disgusting! | 50.00% | ~75 |
 | My pants squeak when I walk | 45.00% | ~68 |
 | Surprise!! | 44.00% | ~66 |
 | Self assessed tax return | 43.00% | ~64 |

@@ -14,8 +14,8 @@
 | Repair the Mind Validation Machine | 18.00% | ~12 |
 | Flee like an idiot | 18.00% | ~12 |
 | Elementary, My Dear Dusty | 18.00% | ~12 |
+| Dance like an idiot | 12.00% | ~8 |
 | Come full circle | 11.00% | ~7 |
-| Dance like an idiot | 11.00% | ~7 |
 | I'm Back at the Surface now | 11.00% | ~7 |
 | Patient Listener | 6.00% | ~4 |
 | GOAAAAAAAAAL! | 5.00% | ~3 |
@@ -23,7 +23,7 @@
 | You're a-MAZE-ing! | 0.00% | ~0 |
 | Memory Completionist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65 (Ranked 526)  
+Progressed: 65 (Ranked 527)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |

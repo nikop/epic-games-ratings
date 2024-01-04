@@ -3,7 +3,7 @@
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
   "Ranking_Rating": 69,
-  "Ranking_Popularity": 230,
+  "Ranking_Popularity": 229,
   "Ranking_PopularitySum": 176,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 282,
@@ -3693,18 +3693,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 3329,
       "NumberOfAwardsMax": 447
+    },
+    {
+      "Time": "2024-01-04T16:59:35.7370116+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3330,
+      "NumberOfAwardsMax": 448
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3329,
-  "NumberOfAwardsMax": 447,
+  "NumberOfAwards": 3330,
+  "NumberOfAwardsMax": 448,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 447
+      "Count": 448
     },
     {
       "Text": "This game is Relaxing",
@@ -3761,9 +3767,9 @@
       "Count": 341
     }
   ],
-  "EOS_Progressed": 20113,
+  "EOS_Progressed": 20115,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 596,
+  "EOS_NewPlayers": 595,
   "EOS_NewCompleters": -3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -18401,6 +18407,11 @@
       "Time": "2024-01-04T16:07:20.4261034+00:00",
       "NumProgressed": 20113,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2024-01-04T17:05:57.7549881+00:00",
+      "NumProgressed": 20115,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -18884,15 +18895,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20113,
+      "Progressed": 20115,
       "Completed": 33
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2024-01-04T14:59:00.6422827+00:00",
-  "LastChanged_Achievements": "2024-01-04T16:07:20.4261031+00:00",
+  "LastChanged": "2024-01-04T16:59:35.7370115+00:00",
+  "LastChanged_Achievements": "2024-01-04T17:05:57.7549878+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:03.5085053+00:00",
-  "LastUpdate_Ratings": "2024-01-04T16:00:26.0400588+00:00",
-  "LastUpdate_Achievements": "2024-01-04T16:07:20.4262201+00:00"
+  "LastUpdate_Ratings": "2024-01-04T16:59:35.7370119+00:00",
+  "LastUpdate_Achievements": "2024-01-04T17:05:57.755119+00:00"
 }

@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 1,026)  
+Rating: 4.06 (Ranked 1,027)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -32,28 +32,29 @@ Number of Ratings: 9,041  (23.09.2022)
 | Maddening | 0.30% | ~753 |
 | Beast Mode | 0.30% | ~753 |
 | Terror in the Dark | 0.30% | ~753 |
+| A Mysterious Summons | 0.30% | ~753 |
 | Unearthed Evil | 0.30% | ~753 |
 | The Crumbling Temple | 0.30% | ~753 |
 | Exploring Port Nyanzaru | 0.30% | ~753 |
 | The Contagious Curse | 0.30% | ~753 |
+| Escort to Waterdeep | 0.30% | ~753 |
 | Welcome to the Vrocks | 0.30% | ~651 |
 | The Silken Swamp | 0.20% | ~502 |
 | Supply Run | 0.20% | ~502 |
 | Low Initiative | 0.20% | ~502 |
-| A Mysterious Summons | 0.20% | ~502 |
 | Building Trust | 0.20% | ~502 |
 | March of the Undead | 0.20% | ~502 |
 | No Time To Rest | 0.20% | ~502 |
 | Invisible Shadows | 0.20% | ~502 |
 | Useless Allies | 0.20% | ~502 |
 | Running of the Saurs | 0.20% | ~502 |
-| Escort to Waterdeep | 0.20% | ~502 |
 | Close Escort | 0.20% | ~502 |
 | Constant Banditry | 0.20% | ~502 |
 | Waterdeep Detours | 0.20% | ~502 |
 | Underdeep Cartography | 0.20% | ~502 |
 | Overdue Rendezvous | 0.20% | ~502 |
 | The Templar's Camp | 0.20% | ~502 |
+| Rescue in the Jungle | 0.20% | ~502 |
 | The Brains of an Illithid's Desire | 0.20% | ~434 |
 | Pros and CONs | 0.10% | ~251 |
 | Upholding the Law | 0.10% | ~251 |
@@ -507,7 +508,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Haunted Jungle | 0.10% | ~251 |
 | Poor Guidance | 0.10% | ~251 |
 | Overwhelming Force | 0.10% | ~251 |
-| Rescue in the Jungle | 0.10% | ~251 |
 | The Court of Storms | 0.10% | ~217 |
 | Coasting to the Finish | 0.10% | ~217 |
 | Beware the Jabberwock | 0.10% | ~217 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~217 |
 | A Wise Approach | 0.10% | ~217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,856 (Ranked 70)  
+Progressed: 250,872 (Ranked 70)  
 Completed: 2,591 (1.03%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -812,7 +812,7 @@ Completed: 2,591 (1.03%) (Ranked 170)
 | 2024-01-01 | 249,335 | 2,583 |
 | 2024-01-02 | 250,032 | 2,585 |
 | 2024-01-03 | 250,594 | 2,588 |
-| 2024-01-04 | 250,856 | 2,591 |
+| 2024-01-04 | 250,872 | 2,591 |
 ## Awards
 Max (Great for Beginners): 5,740  (Ranked 72)  
 Sum: 33,304 (Ranked 41)  

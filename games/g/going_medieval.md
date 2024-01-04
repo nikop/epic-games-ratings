@@ -8,37 +8,37 @@ Number of Ratings: 706  (23.09.2022)
 | ---- | ---------- | ----- |
 | Get A Room | 76.00% | ~5,882 |
 | Having A Field Day | 76.00% | ~5,882 |
-| Reap What You Sow | 73.00% | ~5,649 |
-| The First Day | 70.00% | ~5,417 |
+| Reap What You Sow | 73.00% | ~5,650 |
+| The First Day | 70.00% | ~5,418 |
 | Novice Researcher | 68.00% | ~5,263 |
-| Green Thumb | 67.00% | ~5,185 |
-| Home Cooked Meal | 62.00% | ~4,798 |
+| Green Thumb | 67.00% | ~5,186 |
+| Home Cooked Meal | 62.00% | ~4,799 |
 | Onward | 58.00% | ~4,489 |
 | The First Week | 56.00% | ~4,334 |
 | Studious Researcher | 53.00% | ~4,102 |
-| Beam Me Up | 52.00% | ~4,024 |
+| Beam Me Up | 52.00% | ~4,025 |
 | Adept Researcher | 45.00% | ~3,483 |
-| Putting Food on the Table | 44.00% | ~3,405 |
+| Putting Food on the Table | 44.00% | ~3,406 |
 | Retribution | 43.00% | ~3,328 |
 | ...And Don’t Come Back! | 43.00% | ~3,328 |
 | Feast or Famine | 35.00% | ~2,709 |
 | Heating Up | 33.00% | ~2,554 |
 | Luminary Researcher | 30.00% | ~2,322 |
-| Winter Is Coming | 29.00% | ~2,244 |
+| Winter Is Coming | 29.00% | ~2,245 |
 | Fit For A King | 26.00% | ~2,012 |
 | Winter Is Here | 26.00% | ~2,012 |
 | Oh Deer! | 23.00% | ~1,780 |
 | Disassembled | 22.00% | ~1,703 |
 | A Party Now | 22.00% | ~1,703 |
 | All Year Round | 22.00% | ~1,703 |
-| Don't Cry Wolf | 14.00% | ~1,083 |
+| Don't Cry Wolf | 14.00% | ~1,084 |
 | Nothing Wasted | 13.00% | ~1,006 |
 | Deerly Departed | 8.00% | ~619 |
 | Where Wolf? | 5.00% | ~387 |
 | Food Chain | 2.00% | ~155 |
 | Wabbit Season | 0.50% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,739 (Ranked 190)  
+Progressed: 7,740 (Ranked 190)  
 Completed: 14 (0.18%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 14 (0.18%) (Ranked 279)
 | 2024-01-01 | 7,691 | 14 |
 | 2024-01-02 | 7,712 | 14 |
 | 2024-01-03 | 7,723 | 14 |
-| 2024-01-04 | 7,739 | 14 |
+| 2024-01-04 | 7,740 | 14 |
 ## Awards
 Max (Great for Beginners): 133  (Ranked 336)  
 Sum: 1,057 (Ranked 265)  

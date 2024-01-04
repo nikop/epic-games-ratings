@@ -2,13 +2,13 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_Rating": 320,
-  "Ranking_Popularity": 578,
-  "Ranking_PopularitySum": 578,
+  "Ranking_Rating": 319,
+  "Ranking_Popularity": 579,
+  "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 220,
   "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -51,9 +51,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1221,
+  "EOS_Progressed": 1223,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -3581,6 +3581,11 @@
       "Time": "2024-01-04T16:11:33.4908513+00:00",
       "NumProgressed": 1221,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-04T17:10:20.1734883+00:00",
+      "NumProgressed": 1223,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3640,7 +3645,7 @@
       "Name": "Like Clockwork",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "ClovemaryGift",
@@ -3656,7 +3661,7 @@
       "Name": "Sartorialist",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "CosmeticProgress1",
@@ -3720,7 +3725,7 @@
       "Name": "The Betrayer",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -3752,7 +3757,7 @@
       "Name": "Rail Rat",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "HexlockGift",
@@ -3784,7 +3789,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "MapCompletion1",
@@ -3832,7 +3837,7 @@
       "Name": "Time Flies",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "ParryBoss",
@@ -3840,7 +3845,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "ParryRepeated1",
@@ -3848,7 +3853,7 @@
       "Name": "No, Thanks!",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "PhaseDiveCounter",
@@ -3872,7 +3877,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "RewindDamage1",
@@ -3880,7 +3885,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "RewindParry",
@@ -3888,7 +3893,7 @@
       "Name": "Honest Mistake",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "ScrambotCompletion1",
@@ -3896,7 +3901,7 @@
       "Name": "Golem Hunter",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ScrambotProgress1",
@@ -3904,7 +3909,7 @@
       "Name": "Golem Chaser",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "SkillCompletion1",
@@ -3920,7 +3925,7 @@
       "Name": "Fast Learner",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "SpeedRun",
@@ -3936,7 +3941,7 @@
       "Name": "Sump Explorer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "SyronGift",
@@ -3952,7 +3957,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "TheaterChests1",
@@ -3976,7 +3981,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "WatcherFought",
@@ -4015,7 +4020,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1221,
+      "Progressed": 1223,
       "Completed": 6
     }
   ],
@@ -4023,8 +4028,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2024-01-04T16:11:33.490851+00:00",
+  "LastChanged_Achievements": "2024-01-04T17:10:20.1734878+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:23.9308133+00:00",
-  "LastUpdate_Ratings": "2024-01-04T16:03:20.9413695+00:00",
-  "LastUpdate_Achievements": "2024-01-04T16:11:33.4909859+00:00"
+  "LastUpdate_Ratings": "2024-01-04T17:03:03.5766065+00:00",
+  "LastUpdate_Achievements": "2024-01-04T17:10:20.1735567+00:00"
 }

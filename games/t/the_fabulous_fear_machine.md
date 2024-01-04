@@ -6,11 +6,11 @@
 | ---- | ---------- | ----- |
 | Master trainee | 49.00% | ~40 |
 | You have three wishes left | 43.00% | ~35 |
-| Jung's dream | 35.00% | ~28 |
-| The battle of Great Britain | 35.00% | ~28 |
-| Pulp! Where Monsters Dwell | 30.00% | ~24 |
+| Jung's dream | 34.00% | ~28 |
+| The battle of Great Britain | 34.00% | ~28 |
+| Pulp! Where Monsters Dwell | 29.00% | ~24 |
 | A continent with chemistry | 26.00% | ~21 |
-| The happy farmer girl | 25.00% | ~20 |
+| The happy farmer girl | 24.00% | ~20 |
 | Giant | 21.00% | ~17 |
 | Pulp! Terror Tales in the Night | 21.00% | ~17 |
 | Pulp! Out of this World | 21.00% | ~17 |
@@ -18,14 +18,14 @@
 | The artist | 20.00% | ~16 |
 | Diagnosis: fear | 20.00% | ~16 |
 | Ambition is... blind | 20.00% | ~16 |
-| Pulp! Adventures into the Unknown | 19.00% | ~15 |
-| You have two wishes left | 19.00% | ~15 |
+| Pulp! Adventures into the Unknown | 18.00% | ~15 |
+| You have two wishes left | 18.00% | ~15 |
 | Et in arcadia ego | 16.00% | ~13 |
 | The seer | 16.00% | ~13 |
 | You had one wish left | 15.00% | ~12 |
-| You've awakened the beast | 14.00% | ~11 |
-| Hate is... addictive | 14.00% | ~11 |
-| Welcome to Hellville | 14.00% | ~11 |
+| You've awakened the beast | 13.00% | ~11 |
+| Hate is... addictive | 13.00% | ~11 |
+| Welcome to Hellville | 13.00% | ~11 |
 | Kirlian's best disciple | 12.00% | ~10 |
 | Blessed antennas | 11.00% | ~9 |
 | The bully | 11.00% | ~9 |
@@ -52,7 +52,7 @@
 | Pulp! Skeleton Hand | 1.00% | ~1 |
 | Pulp! The Vault of Horror | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 81 (Ranked 508)  
+Progressed: 82 (Ranked 506)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,4 +97,4 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-01 | 76 | 0 |
 | 2024-01-02 | 77 | 0 |
 | 2024-01-03 | 79 | 0 |
-| 2024-01-04 | 81 | 0 |
+| 2024-01-04 | 82 | 0 |

@@ -2,13 +2,13 @@
   "ID": "c4395ba88061417a8ac6bd3fdc7fba79",
   "Name": "Potion Permit",
   "ProductSlug": "potion-permit",
-  "Ranking_Rating": 1068,
+  "Ranking_Rating": 1069,
   "Ranking_Popularity": 415,
   "Ranking_PopularitySum": 487,
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -397,9 +397,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 1874,
+  "EOS_Progressed": 1875,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -3342,6 +3342,11 @@
       "Time": "2024-01-04T15:06:12.8390865+00:00",
       "NumProgressed": 1874,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-04T17:06:51.4486656+00:00",
+      "NumProgressed": 1875,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 38,
@@ -3353,7 +3358,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1837
+      "UsersEstimate": 1838
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -3361,7 +3366,7 @@
       "Name": "Great Doctor",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -3369,7 +3374,7 @@
       "Name": "Good Samaritan",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ACHIEVEMENTS_04",
@@ -3377,7 +3382,7 @@
       "Name": "Being forgetful...",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACHIEVEMENTS_05",
@@ -3401,7 +3406,7 @@
       "Name": "K.O.!",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "ACHIEVEMENTS_08",
@@ -3409,7 +3414,7 @@
       "Name": "The First Step",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 1630
+      "UsersEstimate": 1631
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -3417,7 +3422,7 @@
       "Name": "Rookie Chemist",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1143
+      "UsersEstimate": 1144
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -3481,7 +3486,7 @@
       "Name": "Kind-hearted",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "ACHIEVEMENTS_18",
@@ -3497,7 +3502,7 @@
       "Name": "Spark of Love",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "ACHIEVEMENTS_20",
@@ -3505,7 +3510,7 @@
       "Name": "Decorative Mind",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "ACHIEVEMENTS_21",
@@ -3553,7 +3558,7 @@
       "Name": "Community Advisor",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACHIEVEMENTS_27",
@@ -3569,7 +3574,7 @@
       "Name": "Rock Exterminator",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACHIEVEMENTS_29",
@@ -3577,7 +3582,7 @@
       "Name": "Tree Exterminator",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACHIEVEMENTS_30",
@@ -3609,7 +3614,7 @@
       "Name": "Catch of the Day",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "ACHIEVEMENTS_34",
@@ -3656,7 +3661,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1874,
+      "Progressed": 1875,
       "Completed": 11
     }
   ],
@@ -3664,8 +3669,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-12-28T09:03:17.5303608+00:00",
-  "LastChanged_Achievements": "2024-01-04T16:08:34.9889825+00:00",
+  "LastChanged_Achievements": "2024-01-04T17:06:51.4486653+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:18.8535407+00:00",
-  "LastUpdate_Ratings": "2024-01-04T16:00:46.2911605+00:00",
-  "LastUpdate_Achievements": "2024-01-04T16:08:34.9890359+00:00"
+  "LastUpdate_Ratings": "2024-01-04T16:59:49.6500399+00:00",
+  "LastUpdate_Achievements": "2024-01-04T17:06:51.4487361+00:00"
 }

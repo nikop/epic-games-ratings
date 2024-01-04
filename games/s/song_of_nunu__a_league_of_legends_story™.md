@@ -7,7 +7,7 @@ Rating: 4.52 (Ranked 574)
 | ---- | ---------- | ----- |
 | Feels Familiar | 74.00% | ~1,081 |
 | I Broke It | 73.00% | ~1,067 |
-| Better On Ice | 67.00% | ~979 |
+| Better On Ice | 68.00% | ~993 |
 | Notai Notes | 66.00% | ~964 |
 | Blue Dreams | 65.00% | ~950 |
 | He's Famous! | 65.00% | ~950 |

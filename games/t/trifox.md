@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What is this? | 72.00% | ~75 |
+| What is this? | 71.00% | ~75 |
 | Complete Level 1-1 | 64.00% | ~67 |
-| Immortal | 56.00% | ~58 |
+| Immortal | 55.00% | ~58 |
 | Complete Level 1-2 | 47.00% | ~49 |
-| Scraping by | 35.00% | ~36 |
-| Engineer-mage hybrid | 34.00% | ~35 |
-| Complete Level 1-3 | 33.00% | ~34 |
+| Scraping by | 34.00% | ~36 |
+| Engineer-mage hybrid | 33.00% | ~35 |
+| Complete Level 1-3 | 32.00% | ~34 |
 | Defeat the warrior boss | 25.00% | ~26 |
 | Get out of my way | 23.00% | ~24 |
 | Redecorator | 21.00% | ~22 |
@@ -23,13 +23,13 @@
 | Well-off | 13.00% | ~14 |
 | Too many crates | 13.00% | ~14 |
 | Complete Level 3-1 | 13.00% | ~14 |
-| Engineer-warrior hybrid | 13.00% | ~14 |
-| Baby steps | 12.00% | ~12 |
-| Complete Level 3-2 | 12.00% | ~12 |
-| Party popper | 11.00% | ~11 |
+| Engineer-warrior hybrid | 12.00% | ~13 |
+| Baby steps | 11.00% | ~12 |
+| Complete Level 3-2 | 11.00% | ~12 |
 | Should have left me alone | 10.00% | ~10 |
 | Drink up | 10.00% | ~10 |
 | Mage-warrior hybrid | 10.00% | ~10 |
+| Party popper | 10.00% | ~10 |
 | Complete Level 3-3 | 9.00% | ~9 |
 | Mage specialist | 8.00% | ~8 |
 | Defeat the mage boss | 7.00% | ~7 |
@@ -51,8 +51,8 @@
 | Almost there | 1.00% | ~1 |
 | Go go go | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 104 (Ranked 485)  
-Completed: 1 (0.96%) (Ranked 175)  
+Progressed: 105 (Ranked 485)  
+Completed: 1 (0.95%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -78,6 +78,7 @@ Completed: 1 (0.96%) (Ranked 175)
 | 2023-10-26 | 102 | 1 |
 | 2023-11-12 | 103 | 1 |
 | 2023-11-15 | 104 | 1 |
+| 2024-01-04 | 105 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

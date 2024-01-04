@@ -3,9 +3,9 @@
   "Name": "NEW Joe and Mac Caveman Ninja",
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
   "Ranking_EOS_Progress": 397,
-  "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 362,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_Completed": 128,
+  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
     "PcReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 287,
+  "EOS_Progressed": 288,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.44,
+  "EOS_Completed_Percentage": 2.43,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:18.1728843+00:00",
@@ -701,6 +701,11 @@
       "Time": "2024-01-04T12:04:57.5782723+00:00",
       "NumProgressed": 287,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-04T17:05:25.1085997+00:00",
+      "NumProgressed": 288,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 15,
@@ -710,9 +715,9 @@
       "ID": "01",
       "SetID": "6glb5g1",
       "Name": "The T-Rex plain.",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 138
+      "UsersEstimate": 141
     },
     {
       "ID": "02",
@@ -831,7 +836,7 @@
     {
       "ID": "6glb5g1",
       "IsBase": true,
-      "Progressed": 287,
+      "Progressed": 288,
       "Completed": 7
     }
   ],
@@ -839,8 +844,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2024-01-04T16:06:39.8484241+00:00",
+  "LastChanged_Achievements": "2024-01-04T17:05:25.1085994+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:56:57.5978328+00:00",
-  "LastUpdate_Ratings": "2024-01-04T15:58:52.7983362+00:00",
-  "LastUpdate_Achievements": "2024-01-04T16:06:39.8484327+00:00"
+  "LastUpdate_Ratings": "2024-01-04T16:58:33.519487+00:00",
+  "LastUpdate_Achievements": "2024-01-04T17:05:25.1086144+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "75d74aeb36024d95b8a30bad40dc19c3",
   "Name": "Call of the Wild: The Angler\u2122",
   "ProductSlug": "call-of-the-wild-the-angler",
-  "Ranking_Rating": 947,
+  "Ranking_Rating": 948,
   "Ranking_Popularity": 477,
   "Ranking_PopularitySum": 408,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -1021,9 +1021,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 7947,
+  "EOS_Progressed": 7948,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 272,
+  "EOS_NewPlayers": 271,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13176,6 +13176,11 @@
       "Time": "2024-01-04T16:08:40.6039364+00:00",
       "NumProgressed": 7947,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T17:08:14.7615961+00:00",
+      "NumProgressed": 7948,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -13209,9 +13214,9 @@
       "ID": "ACHIEVEMENT_004",
       "SetID": "1a05lfd",
       "Name": "Ready to Rod and Roll",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 795
+      "UsersEstimate": 715
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -13506,13 +13511,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7947,
+      "Progressed": 7948,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7319,
+      "Progressed": 7320,
       "Completed": 113
     }
   ],
@@ -13520,8 +13525,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-03T21:01:30.920658+00:00",
-  "LastChanged_Achievements": "2024-01-04T16:08:40.603936+00:00",
+  "LastChanged_Achievements": "2024-01-04T17:08:14.7615956+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:09.4029638+00:00",
-  "LastUpdate_Ratings": "2024-01-04T16:02:21.4740362+00:00",
-  "LastUpdate_Achievements": "2024-01-04T16:08:40.6040227+00:00"
+  "LastUpdate_Ratings": "2024-01-04T17:02:45.3808346+00:00",
+  "LastUpdate_Achievements": "2024-01-04T17:08:14.7616852+00:00"
 }

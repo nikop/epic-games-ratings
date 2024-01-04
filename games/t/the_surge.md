@@ -6,30 +6,30 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,925 |
-| I'll Be Back | 84.00% | ~4,401 |
-| Sorry, I Dropped This | 76.00% | ~3,982 |
-| First Day on the Job | 76.00% | ~3,982 |
-| Butcher's Bill | 54.00% | ~2,829 |
-| P.A.X | 37.00% | ~1,938 |
-| Hey Listen | 36.00% | ~1,886 |
+| On My Own Two Feet | 94.00% | ~4,927 |
+| I'll Be Back | 84.00% | ~4,402 |
+| Sorry, I Dropped This | 76.00% | ~3,983 |
+| First Day on the Job | 76.00% | ~3,983 |
+| Butcher's Bill | 54.00% | ~2,830 |
+| P.A.X | 37.00% | ~1,939 |
+| Hey Listen | 36.00% | ~1,887 |
 | OPERATOR | 35.00% | ~1,834 |
-| It's Blue Light | 33.00% | ~1,729 |
-| Most Wanted | 26.00% | ~1,362 |
+| It's Blue Light | 33.00% | ~1,730 |
+| Most Wanted | 26.00% | ~1,363 |
 | Infidel | 23.00% | ~1,205 |
-| GOLIATH | 21.00% | ~1,100 |
+| GOLIATH | 21.00% | ~1,101 |
 | Firebug | 20.00% | ~1,048 |
 | I Choose You | 17.00% | ~891 |
 | Nothing to Lose | 17.00% | ~891 |
 | Big Sister | 15.00% | ~786 |
 | Gear Up | 15.00% | ~786 |
 | SENTINEL | 15.00% | ~786 |
-| Core Power | 13.00% | ~681 |
 | The Black Cerberus | 12.00% | ~629 |
 | Watchman | 12.00% | ~629 |
-| CREO Killed the Video Star | 11.00% | ~576 |
-| Who's in Charge Here? | 11.00% | ~576 |
-| Shall Not Pass | 11.00% | ~576 |
+| Core Power | 12.00% | ~629 |
+| CREO Killed the Video Star | 11.00% | ~577 |
+| Who's in Charge Here? | 11.00% | ~577 |
+| Shall Not Pass | 11.00% | ~577 |
 | Right Tool for the Job | 10.00% | ~524 |
 | Melting Down | 9.00% | ~472 |
 | Raging Drones | 9.00% | ~472 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~31 |
 | The Surge | 0.40% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,239 (Ranked 202)  
+Progressed: 5,241 (Ranked 202)  
 Completed: 18 (0.34%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 18 (0.34%) (Ranked 242)
 | 2024-01-01 | 5,186 | 18 |
 | 2024-01-02 | 5,210 | 18 |
 | 2024-01-03 | 5,224 | 18 |
-| 2024-01-04 | 5,239 | 18 |
+| 2024-01-04 | 5,241 | 18 |
 ## Awards
 Max (Great Boss Battles): 30  (Ranked 518)  
 Sum: 30 (Ranked 537)  

@@ -28,7 +28,7 @@ Rating: 4.76 (Ranked 130)
 | Plushyboy | 4.00% | ~31 |
 | LOVEassistant | 3.00% | ~23 |
 | True Player | 1.00% | ~8 |
-| Dreamboat | 0.90% | ~7 |
+| Dreamboat | 1.00% | ~8 |
 | Bond Lord | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 763 (Ranked 310)  

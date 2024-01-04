@@ -4,8 +4,8 @@
   "ProductSlug": "my-sweet-floating-in-the-void-418a4a",
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2024-03-14T23:00:00+00:00",
     "PcReleaseDate": "2024-03-14T23:00:00+00:00",
@@ -82,8 +82,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-16T12:04:03.6330399+00:00",
-  "LastChanged_Achievements": "2024-01-04T16:06:12.318782+00:00",
+  "LastChanged_Achievements": "2024-01-04T17:05:04.8650736+00:00",
   "LastUpdate_AppInfo": "2023-12-30T13:00:06.5781851+00:00",
-  "LastUpdate_Ratings": "2024-01-04T16:00:52.3062306+00:00",
-  "LastUpdate_Achievements": "2024-01-04T16:06:12.3188244+00:00"
+  "LastUpdate_Ratings": "2024-01-04T16:59:54.2460258+00:00",
+  "LastUpdate_Achievements": "2024-01-04T17:05:04.8650801+00:00"
 }

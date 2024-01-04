@@ -2,13 +2,13 @@
   "ID": "5f2fcf280d11455f8eab5c1e2a4d0392",
   "Name": "House Party",
   "ProductSlug": "house-party-ae8b27",
-  "Ranking_Rating": 854,
-  "Ranking_Popularity": 578,
-  "Ranking_PopularitySum": 578,
+  "Ranking_Rating": 853,
+  "Ranking_Popularity": 579,
+  "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -383,7 +383,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7084,
+  "EOS_Progressed": 7085,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
@@ -8293,6 +8293,11 @@
       "Time": "2024-01-04T16:09:49.8295604+00:00",
       "NumProgressed": 7084,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-04T17:09:04.3877478+00:00",
+      "NumProgressed": 7085,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -8855,21 +8860,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 4123,
+      "Progressed": 4124,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 7084,
+      "Progressed": 7085,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-12-30T21:02:21.4914587+00:00",
-  "LastChanged_Achievements": "2024-01-04T16:09:49.82956+00:00",
+  "LastChanged_Achievements": "2024-01-04T17:09:04.3877473+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:40.2112681+00:00",
-  "LastUpdate_Ratings": "2024-01-04T16:00:02.8151331+00:00",
-  "LastUpdate_Achievements": "2024-01-04T16:09:49.8296537+00:00"
+  "LastUpdate_Ratings": "2024-01-04T16:59:20.5373674+00:00",
+  "LastUpdate_Achievements": "2024-01-04T17:09:04.3878283+00:00"
 }

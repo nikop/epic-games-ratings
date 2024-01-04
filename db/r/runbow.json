@@ -3,12 +3,12 @@
   "Name": "Runbow",
   "ProductSlug": "runbow-fc9fa4",
   "Ranking_Rating": 671,
-  "Ranking_Popularity": 578,
-  "Ranking_PopularitySum": 578,
+  "Ranking_Popularity": 579,
+  "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253069,
+  "EOS_Progressed": 253074,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 378,
+  "EOS_NewPlayers": 382,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23222,6 +23222,11 @@
       "Time": "2024-01-04T16:11:19.6188948+00:00",
       "NumProgressed": 253069,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-04T17:10:09.516586+00:00",
+      "NumProgressed": 253074,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -23257,7 +23262,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 53144
+      "UsersEstimate": 53146
     },
     {
       "ID": "blotbuster",
@@ -23289,7 +23294,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 43022
+      "UsersEstimate": 43023
     },
     {
       "ID": "cantBeKeptDown",
@@ -23305,7 +23310,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37960
+      "UsersEstimate": 37961
     },
     {
       "ID": "clearCut",
@@ -23329,7 +23334,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45552
+      "UsersEstimate": 45553
     },
     {
       "ID": "curator",
@@ -23337,7 +23342,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 50614
+      "UsersEstimate": 50615
     },
     {
       "ID": "didYourTime",
@@ -23409,7 +23414,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 134127
+      "UsersEstimate": 134129
     },
     {
       "ID": "indegestible",
@@ -23433,7 +23438,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 65798
+      "UsersEstimate": 65799
     },
     {
       "ID": "justABit",
@@ -23473,7 +23478,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126534
+      "UsersEstimate": 126537
     },
     {
       "ID": "notScared",
@@ -23537,7 +23542,7 @@
       "Name": "The Stunner",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 58206
+      "UsersEstimate": 58207
     },
     {
       "ID": "thunderstruck",
@@ -23553,7 +23558,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32899
+      "UsersEstimate": 32900
     },
     {
       "ID": "treeMedalist",
@@ -23593,14 +23598,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 40491
+      "UsersEstimate": 40492
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253069,
+      "Progressed": 253074,
       "Completed": 6
     }
   ],
@@ -23608,8 +23613,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-04T16:11:19.6188945+00:00",
+  "LastChanged_Achievements": "2024-01-04T17:10:09.5165856+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.9407923+00:00",
-  "LastUpdate_Ratings": "2024-01-04T16:00:37.8377763+00:00",
-  "LastUpdate_Achievements": "2024-01-04T16:11:19.6190314+00:00"
+  "LastUpdate_Ratings": "2024-01-04T16:59:43.0978371+00:00",
+  "LastUpdate_Achievements": "2024-01-04T17:10:09.5167058+00:00"
 }

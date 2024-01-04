@@ -12,9 +12,9 @@ Rating: 4.54 (Ranked 544)
 | Martian Music | 12.00% | ~2,181 |
 | Bosmang | 12.00% | ~2,181 |
 | Impossible Objects | 12.00% | ~2,181 |
-| Drone Dodger | 11.00% | ~1,999 |
-| Stogie for Fogey | 10.00% | ~1,817 |
-| Spore Taste | 10.00% | ~1,817 |
+| Drone Dodger | 11.00% | ~2,000 |
+| Stogie for Fogey | 10.00% | ~1,818 |
+| Spore Taste | 10.00% | ~1,818 |
 | Call it Even | 9.00% | ~1,636 |
 | Safe Cracker | 9.00% | ~372 |
 | Zen Master | 9.00% | ~372 |
@@ -24,24 +24,24 @@ Rating: 4.54 (Ranked 544)
 | Drug Gifter | 7.00% | ~1,272 |
 | Khan's Revenge | 7.00% | ~1,272 |
 | Keep Arjun in Check | 7.00% | ~289 |
-| Thorston Mayer | 6.00% | ~1,090 |
+| Thorston Mayer | 6.00% | ~1,091 |
 | Master Negotiator | 6.00% | ~248 |
 | Doctor Approved | 5.00% | ~909 |
 | Bottoms up! | 5.00% | ~909 |
 | Data Logger | 4.00% | ~727 |
 | Miraculous Maya | 4.00% | ~727 |
 | Data Master | 3.00% | ~545 |
-| Brother's Reaper | 2.00% | ~363 |
-| No Belter Left Behind | 2.00% | ~363 |
-| Debris Spree | 2.00% | ~363 |
-| Data Recoverer | 2.00% | ~363 |
+| Brother's Reaper | 2.00% | ~364 |
+| No Belter Left Behind | 2.00% | ~364 |
+| Debris Spree | 2.00% | ~364 |
+| Data Recoverer | 2.00% | ~364 |
 | Urshanabi Hoarder | 1.00% | ~182 |
 | Grave Robber | 0.70% | ~127 |
 | Data Miner | 0.60% | ~109 |
 | Scavenger Star | 0.30% | ~55 |
 | Data Collector | 0.20% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,174 (Ranked 159)  
+Progressed: 18,178 (Ranked 159)  
 Completed: 58 (0.32%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 58 (0.32%) (Ranked 245)
 | 2024-01-01 | 18,013 | 58 |
 | 2024-01-02 | 18,077 | 58 |
 | 2024-01-03 | 18,141 | 58 |
-| 2024-01-04 | 18,174 | 58 |
+| 2024-01-04 | 18,178 | 58 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

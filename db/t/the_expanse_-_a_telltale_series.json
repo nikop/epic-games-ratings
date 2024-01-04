@@ -3,8 +3,8 @@
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
   "Ranking_Rating": 544,
-  "Ranking_Popularity": 578,
-  "Ranking_PopularitySum": 578,
+  "Ranking_Popularity": 579,
+  "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 245,
   "Ranking_EOS_NewPlayers": 148,
@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18174,
+  "EOS_Progressed": 18178,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 521,
+  "EOS_NewPlayers": 519,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -16260,6 +16260,11 @@
       "Time": "2024-01-04T16:06:32.8683004+00:00",
       "NumProgressed": 18174,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-04T17:05:20.1813893+00:00",
+      "NumProgressed": 18178,
+      "NumCompleted": 58
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16320,7 +16325,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1817
+      "UsersEstimate": 1818
     },
     {
       "ID": "16",
@@ -16336,7 +16341,7 @@
       "Name": "Spore Taste",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1817
+      "UsersEstimate": 1818
     },
     {
       "ID": "18",
@@ -16368,7 +16373,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1090
+      "UsersEstimate": 1091
     },
     {
       "ID": "21",
@@ -16376,7 +16381,7 @@
       "Name": "Drone Dodger",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1999
+      "UsersEstimate": 2000
     },
     {
       "ID": "22",
@@ -16384,7 +16389,7 @@
       "Name": "Brother\u0027s Reaper",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "23",
@@ -16456,7 +16461,7 @@
       "Name": "No Belter Left Behind",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "4",
@@ -16464,7 +16469,7 @@
       "Name": "Debris Spree",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "5",
@@ -16496,7 +16501,7 @@
       "Name": "Data Recoverer",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "9",
@@ -16551,13 +16556,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18174,
+      "Progressed": 18178,
       "Completed": 58
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4128,
+      "Progressed": 4132,
       "Completed": 1182
     }
   ],
@@ -16565,8 +16570,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T23:58:17.8612142+00:00",
-  "LastChanged_Achievements": "2024-01-04T16:06:32.8683+00:00",
+  "LastChanged_Achievements": "2024-01-04T17:05:20.1813889+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2024-01-04T16:01:51.9353438+00:00",
-  "LastUpdate_Achievements": "2024-01-04T16:06:32.8683973+00:00"
+  "LastUpdate_Ratings": "2024-01-04T17:00:35.4495481+00:00",
+  "LastUpdate_Achievements": "2024-01-04T17:05:20.1815056+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "42b8b899a3f349bd8376264ccee3cd2a",
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
-  "Ranking_Rating": 91,
-  "Ranking_Popularity": 578,
-  "Ranking_PopularitySum": 578,
+  "Ranking_Rating": 92,
+  "Ranking_Popularity": 579,
+  "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 126,
   "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -187,7 +187,7 @@
   "Tags": [],
   "EOS_Progressed": 1428,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.45,
   "EosHistory": [
@@ -4953,17 +4953,17 @@
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 971
+      "UsersEstimate": 985
     },
     {
       "ID": "_03_FinishAct1",
       "SetID": "8a1io5d",
       "Name": "The Adventure Begins",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 700
+      "UsersEstimate": 714
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -5162,8 +5162,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-03T10:02:59.9033308+00:00",
-  "LastChanged_Achievements": "2024-01-04T16:04:51.1663404+00:00",
+  "LastChanged_Achievements": "2024-01-04T17:04:06.8205885+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.1530944+00:00",
-  "LastUpdate_Ratings": "2024-01-04T15:57:51.7866964+00:00",
-  "LastUpdate_Achievements": "2024-01-04T16:04:51.1663854+00:00"
+  "LastUpdate_Ratings": "2024-01-04T16:57:50.1409832+00:00",
+  "LastUpdate_Achievements": "2024-01-04T17:04:06.8206331+00:00"
 }

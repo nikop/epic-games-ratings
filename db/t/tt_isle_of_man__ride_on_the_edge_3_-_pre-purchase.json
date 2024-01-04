@@ -4,8 +4,8 @@
   "ProductSlug": "tt-isle-of-man-ride-on-the-edge-3",
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
     "PcReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 246,
+  "EOS_Progressed": 247,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.81,
   "EosHistory": [
@@ -1180,6 +1180,11 @@
       "Time": "2024-01-04T06:05:54.2877279+00:00",
       "NumProgressed": 246,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-04T17:05:34.3103685+00:00",
+      "NumProgressed": 247,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -1205,9 +1210,9 @@
       "ID": "ACHIEVEMENT_03",
       "SetID": "gagif7",
       "Name": "To Each Their Own",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 104
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -1455,7 +1460,7 @@
       "Name": "You\u0027re Going Down!",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -1502,14 +1507,14 @@
     {
       "ID": "gagif7",
       "IsBase": true,
-      "Progressed": 246,
+      "Progressed": 247,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2024-01-04T16:06:51.9251575+00:00",
+  "LastChanged_Achievements": "2024-01-04T17:05:34.3103679+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:15.8225499+00:00",
-  "LastUpdate_Ratings": "2024-01-04T16:00:33.9100321+00:00",
-  "LastUpdate_Achievements": "2024-01-04T16:06:51.9251988+00:00"
+  "LastUpdate_Ratings": "2024-01-04T16:59:40.9135853+00:00",
+  "LastUpdate_Achievements": "2024-01-04T17:05:34.3104051+00:00"
 }

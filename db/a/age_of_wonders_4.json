@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 409,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -717,9 +717,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6830,
+  "EOS_Progressed": 6835,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 431,
+  "EOS_NewPlayers": 435,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10337,6 +10337,11 @@
       "Time": "2024-01-04T16:04:24.249893+00:00",
       "NumProgressed": 6830,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-04T17:03:47.9248984+00:00",
+      "NumProgressed": 6835,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10460,7 +10465,7 @@
       "Name": "Realm Estate",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "23",
@@ -10476,7 +10481,7 @@
       "Name": "Secret Technique",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "25",
@@ -10508,7 +10513,7 @@
       "Name": "From Friends to Family",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "29",
@@ -10540,7 +10545,7 @@
       "Name": "Magical Synergy",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "32",
@@ -10554,9 +10559,9 @@
       "ID": "33",
       "SetID": "3aa2279",
       "Name": "Seat of Power",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 410
+      "UsersEstimate": 478
     },
     {
       "ID": "34",
@@ -10628,7 +10633,7 @@
       "Name": "Jack of All Tomes",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "42",
@@ -10668,7 +10673,7 @@
       "Name": "One for All, All for One",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "7",
@@ -10827,13 +10832,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6830,
+      "Progressed": 6835,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6830,
+      "Progressed": 6835,
       "Completed": 7
     }
   ],
@@ -10841,8 +10846,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-03T13:04:27.6429549+00:00",
-  "LastChanged_Achievements": "2024-01-04T16:04:24.2498926+00:00",
+  "LastChanged_Achievements": "2024-01-04T17:03:47.9248981+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-04T16:03:04.2620648+00:00",
-  "LastUpdate_Achievements": "2024-01-04T16:04:24.2499894+00:00"
+  "LastUpdate_Ratings": "2024-01-04T17:02:53.1946557+00:00",
+  "LastUpdate_Achievements": "2024-01-04T17:03:47.9250121+00:00"
 }

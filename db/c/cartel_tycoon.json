@@ -3,12 +3,12 @@
   "Name": "Cartel Tycoon",
   "ProductSlug": "cartel-tycoon",
   "Ranking_Rating": 808,
-  "Ranking_Popularity": 578,
-  "Ranking_PopularitySum": 578,
+  "Ranking_Popularity": 579,
+  "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -301,7 +301,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 940,
+  "EOS_Progressed": 941,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
@@ -3341,6 +3341,11 @@
       "Time": "2024-01-04T16:05:10.3948324+00:00",
       "NumProgressed": 940,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-04T17:04:20.2029325+00:00",
+      "NumProgressed": 941,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3400,7 +3405,7 @@
       "Name": "Our Man",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "kill-lieutenants",
@@ -3414,9 +3419,9 @@
       "ID": "pack-and-sell",
       "SetID": "bed33dd",
       "Name": "Hokey-Pokey",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 639
+      "UsersEstimate": 630
     },
     {
       "ID": "play-at-night",
@@ -3470,9 +3475,9 @@
       "ID": "send-smuggling",
       "SetID": "bed33dd",
       "Name": "Camellos",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 498
+      "UsersEstimate": 489
     },
     {
       "ID": "unlock-residences",
@@ -3503,15 +3508,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 940,
+      "Progressed": 941,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-23T10:57:58.3271618+00:00",
-  "LastChanged_Achievements": "2024-01-04T16:05:10.394832+00:00",
+  "LastChanged_Achievements": "2024-01-04T17:04:20.2029322+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:28.1140989+00:00",
-  "LastUpdate_Ratings": "2024-01-04T16:03:25.2801943+00:00",
-  "LastUpdate_Achievements": "2024-01-04T16:05:10.3948648+00:00"
+  "LastUpdate_Ratings": "2024-01-04T17:03:06.3700135+00:00",
+  "LastUpdate_Achievements": "2024-01-04T17:04:20.2029813+00:00"
 }

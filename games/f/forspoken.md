@@ -1,11 +1,11 @@
 # Forspoken
 [Store](https://store.epicgames.com/en-US/p/forspoken)  
 [View Rawdata](../../db/f/forspoken.json)  
-Rating: 4.13 (Ranked 1,001)  
+Rating: 4.13 (Ranked 1,002)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 12.00% | ~5,559 |
+| Attachments | 12.00% | ~5,560 |
 | Unlocked Potential | 11.00% | ~5,096 |
 | Tinkerer | 8.00% | ~3,706 |
 | Leapfrogger | 7.00% | ~3,243 |
@@ -22,12 +22,12 @@ Rating: 4.13 (Ranked 1,001)
 | Outdoorsperson | 3.00% | ~1,390 |
 | Hop, Step, Jump | 3.00% | ~1,390 |
 | Endless Runner | 3.00% | ~1,390 |
-| What Must Be Done | 2.00% | ~926 |
-| Might and Main | 2.00% | ~926 |
-| Damned If You Do... | 2.00% | ~926 |
-| Explorer: Pathfinder | 2.00% | ~926 |
-| Shocker | 2.00% | ~926 |
-| From Every Angle | 2.00% | ~926 |
+| What Must Be Done | 2.00% | ~927 |
+| Might and Main | 2.00% | ~927 |
+| Damned If You Do... | 2.00% | ~927 |
+| Explorer: Pathfinder | 2.00% | ~927 |
+| Shocker | 2.00% | ~927 |
+| From Every Angle | 2.00% | ~927 |
 | The Hue of Blue | 1.00% | ~463 |
 | The Truth Will Out | 1.00% | ~463 |
 | Breaking Point | 1.00% | ~463 |
@@ -59,7 +59,7 @@ Rating: 4.13 (Ranked 1,001)
 | Remembrance | 0.10% | ~46 |
 | Cat Person | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,325 (Ranked 125)  
+Progressed: 46,330 (Ranked 125)  
 Completed: 4 (0.01%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 4 (0.01%) (Ranked 369)
 | 2024-01-01 | 46,038 | 4 |
 | 2024-01-02 | 46,154 | 4 |
 | 2024-01-03 | 46,259 | 4 |
-| 2024-01-04 | 46,325 | 4 |
+| 2024-01-04 | 46,330 | 4 |
 ## Awards
 Max (Character Customization): 45  (Ranked 466)  
 Sum: 45 (Ranked 513)  

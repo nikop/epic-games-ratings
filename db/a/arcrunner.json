@@ -4,8 +4,8 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 362,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -2269,9 +2269,9 @@
       "ID": "ACHV_DOCKS",
       "SetID": "cceobco",
       "Name": "Starship Docks",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 92
+      "UsersEstimate": 101
     },
     {
       "ID": "ACHV_EDEN",
@@ -2285,9 +2285,9 @@
       "ID": "ACHV_FULLYMODDED",
       "SetID": "cceobco",
       "Name": "Fully Modded",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 101
+      "UsersEstimate": 110
     },
     {
       "ID": "ACHV_HARDBOILED",
@@ -2452,8 +2452,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2024-01-04T16:10:52.5810235+00:00",
+  "LastChanged_Achievements": "2024-01-04T17:09:49.6138676+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:52.3140694+00:00",
-  "LastUpdate_Ratings": "2024-01-04T16:02:59.0431612+00:00",
-  "LastUpdate_Achievements": "2024-01-04T16:10:52.581062+00:00"
+  "LastUpdate_Ratings": "2024-01-04T17:02:50.1232905+00:00",
+  "LastUpdate_Achievements": "2024-01-04T17:09:49.6139013+00:00"
 }

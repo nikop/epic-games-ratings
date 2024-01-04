@@ -1,16 +1,16 @@
 # ELEX II
 [Store](https://store.epicgames.com/en-US/p/elex-ii)  
 [View Rawdata](../../db/e/elex_ii.json)  
-Rating: 4.29 (Ranked 876)  
+Rating: 4.29 (Ranked 875)  
 Number of Ratings: 124  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Entrepreneur | 38.00% | ~67 |
-| Best Buddy | 31.00% | ~55 |
-| Civilian | 29.00% | ~51 |
+| Best Buddy | 32.00% | ~56 |
+| Civilian | 30.00% | ~53 |
 | Role Model | 26.00% | ~46 |
-| Creator | 23.00% | ~40 |
+| Creator | 24.00% | ~42 |
 | Festival-goer | 23.00% | ~40 |
 | Peddler | 22.00% | ~39 |
 | Military Leader | 22.00% | ~39 |
@@ -19,9 +19,9 @@ Number of Ratings: 124  (23.09.2022)
 | Long-Haul Flyer | 13.00% | ~23 |
 | Pass A38 | 13.00% | ~23 |
 | Family Reunion | 11.00% | ~19 |
+| Eternal Oblivion | 11.00% | ~19 |
 | Globetrotter | 10.00% | ~18 |
 | Berserker | 10.00% | ~18 |
-| Eternal Oblivion | 10.00% | ~18 |
 | Storyteller | 9.00% | ~16 |
 | Alb | 9.00% | ~16 |
 | Banker | 6.00% | ~11 |

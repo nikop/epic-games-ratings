@@ -1,29 +1,29 @@
 # Train Valley
 [Store](https://store.epicgames.com/en-US/p/train-valley-ead642)  
 [View Rawdata](../../db/t/train_valley.json)  
-Rating: 4.49 (Ranked 634)  
+Rating: 4.49 (Ranked 633)  
 Number of Ratings: 28  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 76.00% | ~477 |
-| Close call! | 71.00% | ~446 |
-| Builder | 51.00% | ~320 |
-| Living it large! | 44.00% | ~276 |
-| Collector | 43.00% | ~270 |
+| Getting started | 76.00% | ~478 |
+| Close call! | 71.00% | ~447 |
+| Builder | 51.00% | ~321 |
+| Living it large! | 44.00% | ~277 |
 | Pangs of conscience | 43.00% | ~270 |
-| Need to think | 41.00% | ~257 |
-| Completely nuts! | 40.00% | ~251 |
+| Collector | 42.00% | ~264 |
+| Need to think | 41.00% | ~258 |
+| Completely nuts! | 40.00% | ~252 |
 | Europe | 32.00% | ~201 |
 | Just in time! | 32.00% | ~201 |
 | Madness! | 31.00% | ~195 |
 | It's no coincidence. | 28.00% | ~176 |
-| Philatelist | 26.00% | ~163 |
+| Philatelist | 26.00% | ~164 |
 | Let's roll! | 25.00% | ~157 |
 | Ouroboros | 24.00% | ~151 |
 | Non Stop! | 24.00% | ~151 |
 | Foreman | 21.00% | ~132 |
-| Russia | 19.00% | ~119 |
+| Russia | 19.00% | ~120 |
 | America | 18.00% | ~113 |
 | Missed it! | 18.00% | ~113 |
 | Sabotage | 15.00% | ~94 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Mega-railroad | 0.50% | ~3 |
 | Vandal | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 628 (Ranked 331)  
+Progressed: 629 (Ranked 330)  
 Completed: 2 (0.32%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 2 (0.32%) (Ranked 245)
 | 2024-01-01 | 618 | 2 |
 | 2024-01-02 | 623 | 2 |
 | 2024-01-03 | 627 | 2 |
-| 2024-01-04 | 628 | 2 |
+| 2024-01-04 | 629 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

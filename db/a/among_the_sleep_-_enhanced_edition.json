@@ -2,9 +2,9 @@
   "ID": "53ef2f4592684c4c97d6d32e40467274",
   "Name": "Among the Sleep - Enhanced Edition",
   "ProductSlug": "among-the-sleep-enhanced-edition",
-  "Ranking_Rating": 876,
-  "Ranking_Popularity": 578,
-  "Ranking_PopularitySum": 578,
+  "Ranking_Rating": 875,
+  "Ranking_Popularity": 579,
+  "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 119,
@@ -500,9 +500,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 98096,
+  "EOS_Progressed": 98103,
   "EOS_Completed": 451,
-  "EOS_NewPlayers": 1007,
+  "EOS_NewPlayers": 1006,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -29395,6 +29395,11 @@
       "Time": "2024-01-04T16:10:17.0468478+00:00",
       "NumProgressed": 98096,
       "NumCompleted": 451
+    },
+    {
+      "Time": "2024-01-04T17:09:24.0794104+00:00",
+      "NumProgressed": 98103,
+      "NumCompleted": 451
     }
   ],
   "TotalAchievements": 10,
@@ -29446,7 +29451,7 @@
       "Name": "Collected all drawings",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "DrawingsDLC",
@@ -29454,7 +29459,7 @@
       "Name": "Prologue Drawings",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "GameCompleted",
@@ -29470,7 +29475,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 34334
+      "UsersEstimate": 34336
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -29485,15 +29490,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 98096,
+      "Progressed": 98103,
       "Completed": 451
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-12-20T03:02:57.8561576+00:00",
-  "LastChanged_Achievements": "2024-01-04T16:10:17.0468473+00:00",
+  "LastChanged_Achievements": "2024-01-04T17:09:24.0794099+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:31.1360404+00:00",
-  "LastUpdate_Ratings": "2024-01-04T16:03:53.5146725+00:00",
-  "LastUpdate_Achievements": "2024-01-04T16:10:17.0470588+00:00"
+  "LastUpdate_Ratings": "2024-01-04T17:03:27.2382092+00:00",
+  "LastUpdate_Achievements": "2024-01-04T17:09:24.0795803+00:00"
 }

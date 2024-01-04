@@ -2,13 +2,13 @@
   "ID": "e89efaeec0cd408abee8bd4dd02c8d32",
   "Name": "Port Royale 4",
   "ProductSlug": "port-royale-4",
-  "Ranking_Rating": 1035,
-  "Ranking_Popularity": 578,
-  "Ranking_PopularitySum": 578,
+  "Ranking_Rating": 1036,
+  "Ranking_Popularity": 579,
+  "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 294,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1174,
+  "EOS_Progressed": 1175,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3346,6 +3346,11 @@
       "Time": "2024-01-04T13:07:54.0408302+00:00",
       "NumProgressed": 1174,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-04T17:04:21.5626019+00:00",
+      "NumProgressed": 1175,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -3357,7 +3362,7 @@
       "Name": "Cabin boy",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "ACH001",
@@ -3365,7 +3370,7 @@
       "Name": "Seafarer",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "ACH002",
@@ -3373,7 +3378,7 @@
       "Name": "Conquistador",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH003",
@@ -3445,7 +3450,7 @@
       "Name": "Intangible",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "ACH012",
@@ -3493,7 +3498,7 @@
       "Name": "Pearly gates",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ACH018",
@@ -3517,7 +3522,7 @@
       "Name": "Strategist",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH021",
@@ -3525,7 +3530,7 @@
       "Name": "Collectionitis",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "ACH022",
@@ -3541,7 +3546,7 @@
       "Name": "Gofer",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "ACH024",
@@ -3549,7 +3554,7 @@
       "Name": "The customer is always right",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH025",
@@ -3557,7 +3562,7 @@
       "Name": "My precious!",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ACH026",
@@ -3573,7 +3578,7 @@
       "Name": "I\u0027m out of here for a while",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "ACH028",
@@ -3613,7 +3618,7 @@
       "Name": "Pirates!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "ACH033",
@@ -3693,7 +3698,7 @@
       "Name": "All aboard!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH043",
@@ -3701,7 +3706,7 @@
       "Name": "Your vessel, my vessel",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACH044",
@@ -3717,7 +3722,7 @@
       "Name": "Gold fever",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH046",
@@ -3725,7 +3730,7 @@
       "Name": "Fill it up, please!",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH047",
@@ -3756,15 +3761,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 1174,
+      "Progressed": 1175,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-11-01T22:59:02.448108+00:00",
-  "LastChanged_Achievements": "2024-01-04T16:05:12.1543048+00:00",
+  "LastChanged_Achievements": "2024-01-04T17:04:21.5626015+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:13.936517+00:00",
-  "LastUpdate_Ratings": "2024-01-04T15:59:42.4406278+00:00",
-  "LastUpdate_Achievements": "2024-01-04T16:05:12.1543555+00:00"
+  "LastUpdate_Ratings": "2024-01-04T16:59:05.7485542+00:00",
+  "LastUpdate_Achievements": "2024-01-04T17:04:21.5626712+00:00"
 }

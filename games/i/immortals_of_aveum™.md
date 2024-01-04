@@ -1,34 +1,34 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.20 (Ranked 958)  
+Rating: 4.21 (Ranked 948)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~2,343 |
-| Battlefields Have Memories | 81.00% | ~2,157 |
-| Enlisted | 74.00% | ~1,971 |
-| Maybe Engage a Little | 69.00% | ~1,837 |
-| No More Names | 52.00% | ~1,385 |
-| Initiate | 37.00% | ~985 |
-| Thrada-Kul | 33.00% | ~879 |
-| Gravity-Challenged Rocks | 27.00% | ~719 |
-| Socialite | 24.00% | ~639 |
-| Soldier | 23.00% | ~612 |
-| All the Major Food Groups | 22.00% | ~586 |
-| Beggars Would Ride | 20.00% | ~533 |
-| Control is an Illusion | 19.00% | ~506 |
-| The Means to Save It | 16.00% | ~426 |
-| Resilience to Sin | 15.00% | ~399 |
-| A Familiar Nest | 14.00% | ~373 |
-| Geas Aristeya | 14.00% | ~373 |
-| Periapt Alizarin | 14.00% | ~373 |
-| A Perfect Cycle | 13.00% | ~346 |
+| Unforeseen | 88.00% | ~2,348 |
+| Battlefields Have Memories | 81.00% | ~2,161 |
+| Enlisted | 74.00% | ~1,974 |
+| Maybe Engage a Little | 69.00% | ~1,841 |
+| No More Names | 52.00% | ~1,387 |
+| Initiate | 37.00% | ~987 |
+| Thrada-Kul | 33.00% | ~880 |
+| Gravity-Challenged Rocks | 27.00% | ~720 |
+| Socialite | 24.00% | ~640 |
+| Soldier | 23.00% | ~614 |
+| All the Major Food Groups | 22.00% | ~587 |
+| Beggars Would Ride | 20.00% | ~534 |
+| Control is an Illusion | 19.00% | ~507 |
+| The Means to Save It | 16.00% | ~427 |
+| Resilience to Sin | 15.00% | ~400 |
+| A Familiar Nest | 15.00% | ~400 |
+| Geas Aristeya | 14.00% | ~374 |
+| Periapt Alizarin | 14.00% | ~374 |
+| A Perfect Cycle | 13.00% | ~347 |
 | Recruit | 12.00% | ~320 |
 | Armsman | 11.00% | ~293 |
 | Lights Army | 9.00% | ~240 |
 | Periapt Cerulean | 8.00% | ~213 |
-| Good Boy | 7.00% | ~186 |
+| Good Boy | 7.00% | ~187 |
 | Best Dressed | 6.00% | ~160 |
 | Periapt Viridian | 6.00% | ~160 |
 | Shroudfane Explorer | 6.00% | ~160 |
@@ -46,15 +46,15 @@ Rating: 4.20 (Ranked 958)
 | Witch-Taker | 0.60% | ~16 |
 | Master of Ultramarine | 0.60% | ~16 |
 | Family Business | 0.50% | ~13 |
-| Diplomat | 0.50% | ~13 |
 | Petite Bourgeoisie | 0.50% | ~13 |
 | Master of Malachite | 0.50% | ~13 |
+| Diplomat | 0.40% | ~11 |
 | Out of Time | 0.30% | ~8 |
 | Treasure Hunter | 0.30% | ~8 |
 | Fowl Play | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,663 (Ranked 230)  
-Completed: 2 (0.08%) (Ranked 319)  
+Progressed: 2,668 (Ranked 230)  
+Completed: 2 (0.07%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -151,7 +151,7 @@ Completed: 2 (0.08%) (Ranked 319)
 | 2024-01-01 | 2,478 | 2 |
 | 2024-01-02 | 2,542 | 2 |
 | 2024-01-03 | 2,622 | 2 |
-| 2024-01-04 | 2,663 | 2 |
+| 2024-01-04 | 2,668 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -199,3 +199,4 @@ Completed: 2 (0.08%) (Ranked 319)
 | 2024-01-01 | 4.20 | 0 | 0 |
 | 2024-01-02 | 4.20 | 0 | 0 |
 | 2024-01-03 | 4.21 | 0 | 0 |
+| 2024-01-04 | 4.21 | 0 | 0 |

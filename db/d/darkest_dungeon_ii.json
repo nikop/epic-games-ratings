@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10506,9 +10506,9 @@
       "Count": 1079
     }
   ],
-  "EOS_Progressed": 131624,
+  "EOS_Progressed": 131634,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1248,
+  "EOS_NewPlayers": 1246,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38311,6 +38311,11 @@
       "Time": "2024-01-04T16:10:58.2464277+00:00",
       "NumProgressed": 131624,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-04T17:09:54.1773244+00:00",
+      "NumProgressed": 131634,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38330,7 +38335,7 @@
       "Name": "Serenity Now!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6581
+      "UsersEstimate": 6582
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -38418,7 +38423,7 @@
       "Name": "This Looks Familiar",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2632
+      "UsersEstimate": 2633
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -38426,7 +38431,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2632
+      "UsersEstimate": 2633
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -38440,9 +38445,9 @@
       "ID": "combat_kill_animal",
       "SetID": "64l4lke",
       "Name": "Predator",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2632
+      "UsersEstimate": 3949
     },
     {
       "ID": "combat_kill_antiquarian",
@@ -38450,7 +38455,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7897
+      "UsersEstimate": 7898
     },
     {
       "ID": "combat_kill_cadavers",
@@ -38482,7 +38487,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6581
+      "UsersEstimate": 6582
     },
     {
       "ID": "combat_kill_fanatics",
@@ -38498,7 +38503,7 @@
       "Name": "Ichthyophobic",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2632
+      "UsersEstimate": 2633
     },
     {
       "ID": "combat_kill_gaunts",
@@ -38514,7 +38519,7 @@
       "Name": "No More Mouths to Feed",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2632
+      "UsersEstimate": 2633
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -38522,7 +38527,7 @@
       "Name": "Meat and Greet",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6581
+      "UsersEstimate": 6582
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -38538,7 +38543,7 @@
       "Name": "Catch and Decease",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6581
+      "UsersEstimate": 6582
     },
     {
       "ID": "combat_kill_librarian",
@@ -38546,7 +38551,7 @@
       "Name": "Overdue Notice",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6581
+      "UsersEstimate": 6582
     },
     {
       "ID": "combat_kill_pillagers",
@@ -38562,7 +38567,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6581
+      "UsersEstimate": 6582
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -38642,7 +38647,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6581
+      "UsersEstimate": 6582
     },
     {
       "ID": "driving_distance_easy",
@@ -38722,7 +38727,7 @@
       "Name": "When You Want Something Done Right",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2632
+      "UsersEstimate": 2633
     },
     {
       "ID": "inn_replacement_hero_add",
@@ -38738,7 +38743,7 @@
       "Name": "Worldly Traveller",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2632
+      "UsersEstimate": 2633
     },
     {
       "ID": "relationships_all_negative_mountain",
@@ -38754,7 +38759,7 @@
       "Name": "Utopia",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2632
+      "UsersEstimate": 2633
     },
     {
       "ID": "roster_confirm_all_memoried",
@@ -38762,7 +38767,7 @@
       "Name": "Eidetic",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "run_end_abandon",
@@ -38786,7 +38791,7 @@
       "Name": "Hot Air",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2632
+      "UsersEstimate": 2633
     },
     {
       "ID": "run_victory_act03",
@@ -38794,7 +38799,7 @@
       "Name": "Eyes Up",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2632
+      "UsersEstimate": 2633
     },
     {
       "ID": "run_victory_act04",
@@ -38850,7 +38855,7 @@
       "Name": "Ma\u00EEtre De La Lame",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "combat_kill_chirurgeon",
@@ -38858,7 +38863,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "combat_kill_collector",
@@ -38874,7 +38879,7 @@
       "Name": "These Boots Are Made For Kickin\u0027",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "combat_kill_warlord_crusader",
@@ -38922,7 +38927,7 @@
       "Name": "Lost and Found",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -38946,28 +38951,28 @@
       "Name": "On This Long Road, We Found Redemption",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     }
   ],
   "AchievementSets": [
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131624,
+      "Progressed": 131634,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6493,
+      "Progressed": 6503,
       "Completed": 821
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-04T14:00:10.8851025+00:00",
-  "LastChanged_Achievements": "2024-01-04T16:10:58.2464274+00:00",
+  "LastChanged_Achievements": "2024-01-04T17:09:54.177324+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-04T16:01:07.0211677+00:00",
-  "LastUpdate_Achievements": "2024-01-04T16:10:58.2466223+00:00"
+  "LastUpdate_Ratings": "2024-01-04T17:00:04.3454114+00:00",
+  "LastUpdate_Achievements": "2024-01-04T17:09:54.1774971+00:00"
 }

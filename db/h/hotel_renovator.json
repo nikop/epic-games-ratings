@@ -2,13 +2,13 @@
   "ID": "3348e3d8eae449ecbcf9fe354d4fe8a0",
   "Name": "Hotel Renovator",
   "ProductSlug": "hotel-renovator",
-  "Ranking_Rating": 846,
-  "Ranking_Popularity": 578,
-  "Ranking_PopularitySum": 578,
+  "Ranking_Rating": 845,
+  "Ranking_Popularity": 579,
+  "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 155,
   "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -269,9 +269,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1391,
+  "EOS_Progressed": 1392,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.29,
   "EosHistory": [
@@ -3374,6 +3374,11 @@
       "Time": "2024-01-04T16:09:39.6564836+00:00",
       "NumProgressed": 1391,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-04T17:08:57.0704088+00:00",
+      "NumProgressed": 1392,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 27,
@@ -3385,7 +3390,7 @@
       "Name": "Humble beginnings",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "ACH_BOOK_ALL",
@@ -3401,7 +3406,7 @@
       "Name": "Soulmate?",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "ACH_DICE_WIN",
@@ -3425,7 +3430,7 @@
       "Name": "Fine, I\u0027ll do it myself",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "ACH_ELIZA_PHOTO",
@@ -3433,7 +3438,7 @@
       "Name": "Love is in the air",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "ACH_ENGAGEMENT_RING",
@@ -3471,9 +3476,9 @@
       "ID": "ACH_GRANDPA_BOY_SUIT",
       "SetID": "7k95e4n",
       "Name": "Memento",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 835
+      "UsersEstimate": 821
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -3505,7 +3510,7 @@
       "Name": "Big fortune",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "ACH_POSTCARD",
@@ -3519,9 +3524,9 @@
       "ID": "ACH_POWER_OUTRAGE_FIXED",
       "SetID": "7k95e4n",
       "Name": "Let there be light",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 793
+      "UsersEstimate": 780
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -3529,7 +3534,7 @@
       "Name": "Unstoppable",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ACH_STAR_1",
@@ -3537,7 +3542,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1057
+      "UsersEstimate": 1058
     },
     {
       "ID": "ACH_STAR_2",
@@ -3545,7 +3550,7 @@
       "Name": "Moving up",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "ACH_STAR_3",
@@ -3553,7 +3558,7 @@
       "Name": "Still more work ahead",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "ACH_STAR_4",
@@ -3577,7 +3582,7 @@
       "Name": "Reunited",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ACH_TIP_EARNED",
@@ -3593,14 +3598,14 @@
       "Name": "I think you dropped this",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     }
   ],
   "AchievementSets": [
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1391,
+      "Progressed": 1392,
       "Completed": 18
     }
   ],
@@ -3608,8 +3613,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2024-01-03T02:23:37.4848144+00:00",
-  "LastChanged_Achievements": "2024-01-04T16:09:39.6564832+00:00",
+  "LastChanged_Achievements": "2024-01-04T17:08:57.0704084+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:25.8678636+00:00",
-  "LastUpdate_Ratings": "2024-01-04T15:57:47.4049+00:00",
-  "LastUpdate_Achievements": "2024-01-04T16:09:39.656543+00:00"
+  "LastUpdate_Ratings": "2024-01-04T16:57:47.0195928+00:00",
+  "LastUpdate_Achievements": "2024-01-04T17:08:57.0704391+00:00"
 }

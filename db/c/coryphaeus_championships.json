@@ -2,10 +2,10 @@
   "ID": "3a404cb5028b43b9a553312b7c965b42",
   "Name": "Coryphaeus Championships (Closed Beta)",
   "ProductSlug": "coryphaeus-championships-216f4a",
-  "Ranking_EOS_Progress": 673,
+  "Ranking_EOS_Progress": 668,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 522,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 498,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-12-07T20:30:00+00:00",
     "PcReleaseDate": "2023-12-07T22:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6,
+  "EOS_Progressed": 7,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -53,6 +53,11 @@
     {
       "Time": "2024-01-04T11:11:06.3500129+00:00",
       "NumProgressed": 6,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T17:10:01.8763546+00:00",
+      "NumProgressed": 7,
       "NumCompleted": 0
     }
   ],
@@ -88,7 +93,7 @@
       "ID": "FirstWin",
       "SetID": "6gf78k7",
       "Name": "You are a Winner!",
-      "Percentage": 33,
+      "Percentage": 29,
       "XP": 200,
       "UsersEstimate": 2
     },
@@ -105,14 +110,14 @@
     {
       "ID": "6gf78k7",
       "IsBase": true,
-      "Progressed": 6,
+      "Progressed": 7,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-09T15:59:00.0551516+00:00",
   "FirstSeenAchievements": "2023-05-02T14:01:03.0189024+00:00",
-  "LastChanged_Achievements": "2024-01-04T16:11:08.8798476+00:00",
+  "LastChanged_Achievements": "2024-01-04T17:10:01.8763542+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:24.4889072+00:00",
-  "LastUpdate_Ratings": "2024-01-04T15:57:12.696829+00:00",
-  "LastUpdate_Achievements": "2024-01-04T16:11:08.8798541+00:00"
+  "LastUpdate_Ratings": "2024-01-04T16:57:24.1543575+00:00",
+  "LastUpdate_Achievements": "2024-01-04T17:10:01.8763607+00:00"
 }

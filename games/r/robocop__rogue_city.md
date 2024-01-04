@@ -1,7 +1,7 @@
 # RoboCop: Rogue City
 [Store](https://store.epicgames.com/en-US/p/robocop-rogue-city)  
 [View Rawdata](../../db/r/robocop__rogue_city.json)  
-Rating: 4.34 (Ranked 833)  
+Rating: 4.34 (Ranked 832)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -33,7 +33,7 @@ Rating: 4.34 (Ranked 833)
 | "This Guy Is Really Good" | 0.00% | ~0 |
 | Practice Makes Perfect | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,320 (Ranked 239)  
+Progressed: 2,332 (Ranked 237)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,7 +59,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-01 | 1,881 | 0 |
 | 2024-01-02 | 2,047 | 0 |
 | 2024-01-03 | 2,225 | 0 |
-| 2024-01-04 | 2,320 | 0 |
+| 2024-01-04 | 2,332 | 0 |
 ## Awards
 Max (Great Boss Battles): 122  (Ranked 351)  
 Sum: 122 (Ranked 453)  

@@ -5,30 +5,30 @@ Rating: 4.38 (Ranked 786)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 93.00% | ~651 |
-| Training Simulation | 79.00% | ~553 |
-| Kuku Bird Hunter | 65.00% | ~455 |
-| Storm Traveller | 60.00% | ~420 |
-| Wolf King Killer | 54.00% | ~378 |
-| Fashion Connoisseur | 52.00% | ~364 |
-| Arms Mechanic | 48.00% | ~336 |
-| Flower Thief | 43.00% | ~301 |
-| Apostle of Flame | 39.00% | ~273 |
-| Beginner Cook | 37.00% | ~259 |
-| Beginner Artificer | 37.00% | ~259 |
-| Seal Breaker | 32.00% | ~224 |
-| Handyman | 28.00% | ~196 |
-| Giant Lizard Killer | 27.00% | ~189 |
-| Guardian | 26.00% | ~182 |
-| Nosebleeder | 25.00% | ~175 |
+| Travel Streamer | 93.00% | ~653 |
+| Training Simulation | 79.00% | ~555 |
+| Kuku Bird Hunter | 65.00% | ~456 |
+| Storm Traveller | 60.00% | ~421 |
+| Wolf King Killer | 55.00% | ~386 |
+| Fashion Connoisseur | 52.00% | ~365 |
+| Arms Mechanic | 49.00% | ~344 |
+| Flower Thief | 43.00% | ~302 |
+| Apostle of Flame | 39.00% | ~274 |
+| Beginner Cook | 38.00% | ~267 |
+| Beginner Artificer | 37.00% | ~260 |
+| Seal Breaker | 32.00% | ~225 |
+| Handyman | 28.00% | ~197 |
+| Giant Lizard Killer | 26.00% | ~183 |
+| Guardian | 26.00% | ~183 |
+| Nosebleeder | 25.00% | ~176 |
 | Trader | 22.00% | ~154 |
 | Weapon Boost | 21.00% | ~147 |
 | Flying Kobold Killer | 19.00% | ~133 |
 | Youth Magnet | 18.00% | ~126 |
 | Furious Scorpion Killer | 17.00% | ~119 |
 | Lethal Blade Mantis Killer | 17.00% | ~119 |
+| Squeaky Clean | 17.00% | ~119 |
 | Master Artificer | 17.00% | ~119 |
-| Squeaky Clean | 16.00% | ~112 |
 | Kind Adventurer | 15.00% | ~105 |
 | Mermaid Killer | 15.00% | ~105 |
 | Face Slapper | 15.00% | ~105 |
@@ -51,7 +51,7 @@ Rating: 4.38 (Ranked 786)
 | Giantess Challenge | 2.00% | ~14 |
 | Warden Challenge | 2.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 700 (Ranked 317)  
+Progressed: 702 (Ranked 317)  
 Completed: 3 (0.43%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 3 (0.43%) (Ranked 231)
 | 2024-01-01 | 682 | 3 |
 | 2024-01-02 | 687 | 3 |
 | 2024-01-03 | 693 | 3 |
-| 2024-01-04 | 700 | 3 |
+| 2024-01-04 | 702 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

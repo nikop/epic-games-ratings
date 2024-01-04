@@ -1,17 +1,17 @@
 # The Invincible
 [Store](https://store.epicgames.com/en-US/p/the-invincible)  
 [View Rawdata](../../db/t/the_invincible.json)  
-Rating: 4.57 (Ranked 491)  
+Rating: 4.57 (Ranked 492)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 68.00% | ~928 |
-| The Teleprobe | 53.00% | ~723 |
-| The City | 48.00% | ~655 |
-| The field base | 44.00% | ~601 |
-| The Alliance | 39.00% | ~532 |
+| The Camp | 68.00% | ~929 |
+| The Teleprobe | 53.00% | ~724 |
+| The City | 48.00% | ~656 |
+| The field base | 43.00% | ~587 |
+| The Alliance | 39.00% | ~533 |
 | Survivors | 38.00% | ~519 |
-| The Condor | 36.00% | ~491 |
+| The Condor | 36.00% | ~492 |
 | The End | 35.00% | ~478 |
 | The Necroevolution | 28.00% | ~382 |
 | Krauta is alive | 27.00% | ~369 |
@@ -19,11 +19,11 @@ Rating: 4.57 (Ranked 491)
 | Peacemaker | 21.00% | ~287 |
 | Volcanologist | 21.00% | ~287 |
 | Fierce fight | 20.00% | ~273 |
-| Evacuation | 19.00% | ~259 |
+| Evacuation | 19.00% | ~260 |
 | Beyond divisions | 17.00% | ~232 |
-| Flying Objects Operator | 16.00% | ~218 |
+| Flying Objects Operator | 16.00% | ~219 |
 | I remember everything! | 14.00% | ~191 |
-| Another giant | 13.00% | ~177 |
+| Another giant | 13.00% | ~178 |
 | Violent solution | 9.00% | ~123 |
 | I leave no man behind | 9.00% | ~123 |
 | Innate curiosity | 7.00% | ~96 |
@@ -35,8 +35,8 @@ Rating: 4.57 (Ranked 491)
 | Convoy list | 1.00% | ~14 |
 | No more mistakes | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,365 (Ranked 272)  
-Completed: 1 (0.07%) (Ranked 322)  
+Progressed: 1,366 (Ranked 272)  
+Completed: 1 (0.07%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -95,7 +95,7 @@ Completed: 1 (0.07%) (Ranked 322)
 | 2024-01-01 | 1,273 | 0 |
 | 2024-01-02 | 1,309 | 0 |
 | 2024-01-03 | 1,345 | 0 |
-| 2024-01-04 | 1,365 | 1 |
+| 2024-01-04 | 1,366 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

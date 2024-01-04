@@ -1,40 +1,40 @@
 # Airborne Kingdom
 [Store](https://store.epicgames.com/en-US/p/airborne-kingdom)  
 [View Rawdata](../../db/a/airborne_kingdom.json)  
-Rating: 4.65 (Ranked 320)  
+Rating: 4.65 (Ranked 319)  
 Number of Ratings: 74  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Small Community | 56.00% | ~4,329 |
-| A Grove Replanted | 53.00% | ~4,097 |
-| Fields Watered | 41.00% | ~3,169 |
-| Seekers Found | 41.00% | ~3,169 |
-| Settling the Skies | 41.00% | ~3,169 |
-| Wind Powered | 40.00% | ~3,092 |
-| It Takes a Village | 34.00% | ~2,628 |
-| On the Town | 28.00% | ~2,164 |
-| Daylight Found | 26.00% | ~2,010 |
-| Irons Scorched | 25.00% | ~1,932 |
-| Islands Connected | 25.00% | ~1,932 |
-| Harp Tuned | 23.00% | ~1,778 |
-| Pyre Ignited | 23.00% | ~1,778 |
-| Travelers Returned | 23.00% | ~1,778 |
+| A Small Community | 56.00% | ~4,331 |
+| A Grove Replanted | 53.00% | ~4,099 |
+| Fields Watered | 41.00% | ~3,171 |
+| Seekers Found | 41.00% | ~3,171 |
+| Settling the Skies | 41.00% | ~3,171 |
+| Wind Powered | 40.00% | ~3,094 |
+| It Takes a Village | 34.00% | ~2,630 |
+| On the Town | 28.00% | ~2,166 |
+| Daylight Found | 26.00% | ~2,011 |
+| Irons Scorched | 25.00% | ~1,934 |
+| Islands Connected | 25.00% | ~1,934 |
+| Harp Tuned | 23.00% | ~1,779 |
+| Pyre Ignited | 23.00% | ~1,779 |
+| Travelers Returned | 23.00% | ~1,779 |
 | Hopes Hoisted | 22.00% | ~1,701 |
-| Knowledge Shared | 20.00% | ~1,546 |
-| Relic Finder | 20.00% | ~1,546 |
+| Knowledge Shared | 20.00% | ~1,547 |
+| Relic Finder | 20.00% | ~1,547 |
 | Worthy of the Title | 19.00% | ~1,469 |
-| A Peaceful Respite | 14.00% | ~1,082 |
+| A Peaceful Respite | 14.00% | ~1,083 |
 | A Learned Scholar | 13.00% | ~1,005 |
 | Prophecy Fulfilled | 13.00% | ~1,005 |
-| A Wanderer’s Guide | 11.00% | ~850 |
+| A Wanderer’s Guide | 11.00% | ~851 |
 | Knowledge Seeker | 6.00% | ~464 |
 | The Cycle Continues | 3.00% | ~232 |
 | Glowing Waters | 2.00% | ~155 |
 | Sparkling Alloys | 2.00% | ~155 |
 | A True Challenge | 2.00% | ~155 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,730 (Ranked 191)  
+Progressed: 7,734 (Ranked 191)  
 Completed: 59 (0.76%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 59 (0.76%) (Ranked 191)
 | 2024-01-01 | 7,713 | 59 |
 | 2024-01-02 | 7,722 | 59 |
 | 2024-01-03 | 7,726 | 59 |
-| 2024-01-04 | 7,730 | 59 |
+| 2024-01-04 | 7,734 | 59 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

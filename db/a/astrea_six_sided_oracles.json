@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 382,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -1372,9 +1372,9 @@
       "ID": "AnomalyDestroyer",
       "SetID": "1jeo1g7",
       "Name": "Anomaly Destroyer",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 100
     },
     {
       "ID": "AnomalyMaster",
@@ -1452,9 +1452,9 @@
       "ID": "AstralAdventurer",
       "SetID": "1jeo1g7",
       "Name": "Astral Adventurer",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 107
+      "UsersEstimate": 110
     },
     {
       "ID": "AstralSeeker",
@@ -2155,8 +2155,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-04T16:09:40.4306759+00:00",
+  "LastChanged_Achievements": "2024-01-04T17:08:57.604954+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:34.5642416+00:00",
-  "LastUpdate_Ratings": "2024-01-04T15:57:37.6338542+00:00",
-  "LastUpdate_Achievements": "2024-01-04T16:09:40.4307747+00:00"
+  "LastUpdate_Ratings": "2024-01-04T16:57:40.5684364+00:00",
+  "LastUpdate_Achievements": "2024-01-04T17:08:57.6050337+00:00"
 }

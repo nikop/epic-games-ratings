@@ -1813,9 +1813,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 166445,
+  "EOS_Progressed": 166452,
   "EOS_Completed": 442,
-  "EOS_NewPlayers": 1328,
+  "EOS_NewPlayers": 1318,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -21823,6 +21823,11 @@
       "Time": "2024-01-04T16:07:40.5986951+00:00",
       "NumProgressed": 166445,
       "NumCompleted": 442
+    },
+    {
+      "Time": "2024-01-04T17:06:12.2671638+00:00",
+      "NumProgressed": 166452,
+      "NumCompleted": 442
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -21899,7 +21904,7 @@
       "Name": "Taste",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4993
+      "UsersEstimate": 4994
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -22035,7 +22040,7 @@
       "Name": "Devourer",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1664
+      "UsersEstimate": 1665
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -22051,15 +22056,15 @@
       "Name": "Imprint",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4993
+      "UsersEstimate": 4994
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
       "SetID": "ccc0dlh",
       "Name": "Predator",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 666
+      "UsersEstimate": 832
     },
     {
       "ID": "MISC_ENDING_PROPER",
@@ -22202,21 +22207,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 166028,
+      "Progressed": 166035,
       "Completed": 1254
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 166445,
+      "Progressed": 166452,
       "Completed": 442
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-04T14:00:27.8179781+00:00",
-  "LastChanged_Achievements": "2024-01-04T16:07:40.5986945+00:00",
+  "LastChanged_Achievements": "2024-01-04T17:06:12.2671635+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:50.3299145+00:00",
-  "LastUpdate_Ratings": "2024-01-04T16:01:29.824678+00:00",
-  "LastUpdate_Achievements": "2024-01-04T16:07:40.598845+00:00"
+  "LastUpdate_Ratings": "2024-01-04T17:00:19.8499935+00:00",
+  "LastUpdate_Achievements": "2024-01-04T17:06:12.2672905+00:00"
 }

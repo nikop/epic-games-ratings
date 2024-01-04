@@ -11,7 +11,7 @@
 | Deep in the Mounds | 70.00% | ~32 |
 | Smeltastic! | 39.00% | ~18 |
 | Locked Away | 35.00% | ~16 |
-| A Little Renovating | 33.00% | ~15 |
+| A Little Renovating | 35.00% | ~16 |
 | It's a Sign! | 30.00% | ~14 |
 | Deflect This! | 26.00% | ~12 |
 | Just Some Improvements | 22.00% | ~10 |
@@ -56,7 +56,7 @@
 | In Her Prime | 9.00% | ~4 |
 | The More the Merrier | 9.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46 (Ranked 559)  
+Progressed: 46 (Ranked 560)  
 Completed: 4 (8.70%) (Ranked 45)  
 ## EOS Players History
 | Date | Progressed | Completed |
