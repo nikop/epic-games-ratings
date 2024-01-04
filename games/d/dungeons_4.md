@@ -20,20 +20,20 @@ Rating: 4.71 (Ranked 202)
 | Magic Accidents | 59.00% | ~424 |
 | The Ascent | 58.00% | ~417 |
 | It's Warm and Cozy at Home | 58.00% | ~417 |
-| Trap Master | 55.00% | ~395 |
+| Trap Master | 56.00% | ~403 |
 | Minions, Minions! | 55.00% | ~395 |
 | Hard Work | 54.00% | ~388 |
 | The Big Eaty | 53.00% | ~381 |
 | YOU SHALL NOT PASS! | 50.00% | ~360 |
 | “… like son” | 50.00% | ~360 |
 | The Cathedral of Light | 47.00% | ~338 |
-| Shame! Shame! Shame! | 46.00% | ~331 |
+| Shame! Shame! Shame! | 47.00% | ~338 |
 | Tanos' Crusade Against Thalya | 45.00% | ~324 |
 | Pure Dynamite! | 44.00% | ~316 |
 | Dungeonlord Gorgu | 44.00% | ~316 |
 | Mana Cannon | 42.00% | ~302 |
 | All’s Well That Ends Evil | 40.00% | ~288 |
-| The Duel | 37.00% | ~266 |
+| The Duel | 38.00% | ~273 |
 | If Looks Could Kill | 35.00% | ~252 |
 | Unstoppable Horde | 34.00% | ~244 |
 | Master of the Undead | 34.00% | ~244 |
@@ -48,7 +48,7 @@ Rating: 4.71 (Ranked 202)
 | Sabotage! | 26.00% | ~187 |
 | Raiders of the Lost Stone | 26.00% | ~187 |
 | The Rune Sockets of Finitude (Part 1) | 26.00% | ~187 |
-| Bonus Evilness | 24.00% | ~173 |
+| Bonus Evilness | 25.00% | ~180 |
 | The Rune Sockets of Finitude (Part 2) | 24.00% | ~173 |
 | The Last Stand - This Time For Real! | 23.00% | ~165 |
 | Rubble and Ashes | 21.00% | ~151 |

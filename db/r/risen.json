@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 443,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewPlayers": 306,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 161,
+  "EOS_Progressed": 162,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -855,6 +855,11 @@
       "Time": "2024-01-04T18:10:04.1321032+00:00",
       "NumProgressed": 161,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T20:11:13.6350225+00:00",
+      "NumProgressed": 162,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T08:07:32.4989951+00:00",
@@ -875,7 +880,7 @@
       "Name": "Wise man",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "id_12",
@@ -883,7 +888,7 @@
       "Name": "Family man",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "id_14",
@@ -915,7 +920,7 @@
       "Name": "Freedom fighter",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "id_18",
@@ -937,9 +942,9 @@
       "ID": "id_2",
       "SetID": "bk9jib6",
       "Name": "Field hand",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 62
     },
     {
       "ID": "id_20",
@@ -971,7 +976,7 @@
       "Name": "Showdown",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "id_26",
@@ -987,15 +992,15 @@
       "Name": "Philanthropist",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "id_30",
       "SetID": "bk9jib6",
       "Name": "Beginner",
-      "Percentage": 92,
+      "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 147
     },
     {
       "ID": "id_32",
@@ -1003,15 +1008,15 @@
       "Name": "The brave little tailor",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "id_33",
       "SetID": "bk9jib6",
       "Name": "Ferocious wild boars",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 37
     },
     {
       "ID": "id_34",
@@ -1041,9 +1046,9 @@
       "ID": "id_4",
       "SetID": "bk9jib6",
       "Name": "Samaritan",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 50
     },
     {
       "ID": "id_42",
@@ -1057,9 +1062,9 @@
       "ID": "id_43",
       "SetID": "bk9jib6",
       "Name": "Hard worker",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 24
     },
     {
       "ID": "id_44",
@@ -1137,9 +1142,9 @@
       "ID": "id_52",
       "SetID": "bk9jib6",
       "Name": "Idiot",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 37
     },
     {
       "ID": "id_53",
@@ -1177,9 +1182,9 @@
       "ID": "id_57",
       "SetID": "bk9jib6",
       "Name": "Well-to-do",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 50
     },
     {
       "ID": "id_58",
@@ -1203,7 +1208,7 @@
       "Name": "Fence",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "id_60",
@@ -1219,15 +1224,15 @@
       "Name": "Map reader",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "id_62",
       "SetID": "bk9jib6",
       "Name": "Archer",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 66
     },
     {
       "ID": "id_63",
@@ -1251,7 +1256,7 @@
       "Name": "Sidelined",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "id_9",
@@ -1266,7 +1271,7 @@
     {
       "ID": "bk9jib6",
       "IsBase": true,
-      "Progressed": 161,
+      "Progressed": 162,
       "Completed": 0
     }
   ],
@@ -1274,8 +1279,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-12-28T07:02:46.0007261+00:00",
-  "LastChanged_Achievements": "2024-01-04T19:09:51.8003202+00:00",
+  "LastChanged_Achievements": "2024-01-04T20:11:13.6350222+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:11.6693375+00:00",
-  "LastUpdate_Ratings": "2024-01-04T18:59:25.7595951+00:00",
-  "LastUpdate_Achievements": "2024-01-04T19:09:51.8003677+00:00"
+  "LastUpdate_Ratings": "2024-01-04T20:00:56.0972245+00:00",
+  "LastUpdate_Achievements": "2024-01-04T20:11:13.6350568+00:00"
 }

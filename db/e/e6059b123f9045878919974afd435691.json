@@ -3831,9 +3831,9 @@
       "ID": "KILLR_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Who You Gonna Call?",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 523
+      "UsersEstimate": 536
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -3991,9 +3991,9 @@
       "ID": "RAPTOR_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "The Clairvoyant Who Doesn\u0027t See",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 683
+      "UsersEstimate": 697
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -4078,8 +4078,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-04T19:09:57.8954921+00:00",
+  "LastChanged_Achievements": "2024-01-04T20:11:20.7426797+00:00",
   "LastUpdate_AppInfo": "2023-12-29T02:57:14.6537743+00:00",
-  "LastUpdate_Ratings": "2024-01-04T19:00:17.4585703+00:00",
-  "LastUpdate_Achievements": "2024-01-04T19:09:57.8955855+00:00"
+  "LastUpdate_Ratings": "2024-01-04T20:02:55.5014931+00:00",
+  "LastUpdate_Achievements": "2024-01-04T20:11:20.7427562+00:00"
 }

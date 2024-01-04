@@ -5,21 +5,21 @@ Rating: 4.38 (Ranked 786)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 93.00% | ~656 |
-| Training Simulation | 79.00% | ~557 |
-| Kuku Bird Hunter | 65.00% | ~458 |
-| Storm Traveller | 60.00% | ~423 |
+| Travel Streamer | 93.00% | ~657 |
+| Training Simulation | 79.00% | ~558 |
+| Kuku Bird Hunter | 65.00% | ~459 |
+| Storm Traveller | 60.00% | ~424 |
 | Wolf King Killer | 54.00% | ~381 |
 | Fashion Connoisseur | 52.00% | ~367 |
-| Arms Mechanic | 49.00% | ~345 |
-| Flower Thief | 44.00% | ~310 |
+| Arms Mechanic | 48.00% | ~339 |
+| Flower Thief | 43.00% | ~304 |
 | Apostle of Flame | 39.00% | ~275 |
 | Beginner Cook | 37.00% | ~261 |
 | Beginner Artificer | 37.00% | ~261 |
 | Seal Breaker | 32.00% | ~226 |
-| Handyman | 28.00% | ~197 |
-| Giant Lizard Killer | 26.00% | ~183 |
-| Guardian | 26.00% | ~183 |
+| Handyman | 28.00% | ~198 |
+| Giant Lizard Killer | 26.00% | ~184 |
+| Guardian | 25.00% | ~176 |
 | Nosebleeder | 25.00% | ~176 |
 | Trader | 22.00% | ~155 |
 | Weapon Boost | 21.00% | ~148 |
@@ -35,9 +35,9 @@ Rating: 4.38 (Ranked 786)
 | Face Slapper | 14.00% | ~99 |
 | Boss challenge | 11.00% | ~78 |
 | Berserker Slayer | 11.00% | ~78 |
-| Giantess Slayer | 10.00% | ~70 |
-| Warden Slayer | 10.00% | ~70 |
-| Master Cook | 9.00% | ~63 |
+| Giantess Slayer | 10.00% | ~71 |
+| Warden Slayer | 10.00% | ~71 |
+| Master Cook | 8.00% | ~56 |
 | Silver Moon Wolf King Challenge | 4.00% | ~28 |
 | Blade Mantis Challenge | 3.00% | ~21 |
 | Flying Kobold Challenge | 3.00% | ~21 |
@@ -51,8 +51,8 @@ Rating: 4.38 (Ranked 786)
 | Giantess Challenge | 2.00% | ~14 |
 | Warden Challenge | 2.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 705 (Ranked 317)  
-Completed: 3 (0.43%) (Ranked 231)  
+Progressed: 706 (Ranked 316)  
+Completed: 3 (0.42%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -172,7 +172,7 @@ Completed: 3 (0.43%) (Ranked 231)
 | 2024-01-01 | 682 | 3 |
 | 2024-01-02 | 687 | 3 |
 | 2024-01-03 | 693 | 3 |
-| 2024-01-04 | 705 | 3 |
+| 2024-01-04 | 706 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

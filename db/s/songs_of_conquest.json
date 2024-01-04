@@ -452,7 +452,7 @@
   ],
   "EOS_Progressed": 973,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3791,9 +3791,9 @@
       "ID": "SweepKillCount",
       "SetID": "71c0n9i",
       "Name": "Cleave",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "TownCompletion",
@@ -3831,9 +3831,9 @@
       "ID": "WielderLevel2",
       "SetID": "71c0n9i",
       "Name": "Veteran",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 224
     },
     {
       "ID": "WielderLevel3",
@@ -3935,8 +3935,8 @@
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2024-01-04T19:08:55.703215+00:00",
+  "LastChanged_Achievements": "2024-01-04T20:10:02.2403487+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:53.9356991+00:00",
-  "LastUpdate_Ratings": "2024-01-04T18:58:15.1232291+00:00",
-  "LastUpdate_Achievements": "2024-01-04T19:08:55.7032821+00:00"
+  "LastUpdate_Ratings": "2024-01-04T19:59:18.1529665+00:00",
+  "LastUpdate_Achievements": "2024-01-04T20:10:02.2403976+00:00"
 }

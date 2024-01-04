@@ -4,7 +4,7 @@
   "ProductSlug": "the-last-game-ea48de",
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewPlayers": 567,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-01-03T19:30:00+00:00",
@@ -21,6 +21,8 @@
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 0,
   "EOS_Completed": 0,
@@ -32,7 +34,8 @@
   "TotalAchievementsXP": 0,
   "Achievements": [],
   "AchievementSets": [],
+  "FirstSeen": "2024-01-04T20:00:47.6144891+00:00",
   "LastUpdate_AppInfo": "2023-12-30T17:56:58.0980813+00:00",
-  "LastUpdate_Ratings": "2024-01-04T18:59:20.6598039+00:00",
-  "LastUpdate_Achievements": "2024-01-04T19:05:20.6103733+00:00"
+  "LastUpdate_Ratings": "2024-01-04T20:00:47.6144924+00:00",
+  "LastUpdate_Achievements": "2024-01-04T20:06:51.329522+00:00"
 }

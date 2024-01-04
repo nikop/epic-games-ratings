@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The gateway to the underworld | 51.00% | ~322 |
+| The gateway to the underworld | 52.00% | ~328 |
 | Is it merely a dream? | 48.00% | ~303 |
 | The path to enlightenment | 32.00% | ~202 |
 | Our efforts are finally yielding progress | 28.00% | ~177 |

@@ -283,9 +283,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 17553,
+  "EOS_Progressed": 17554,
   "EOS_Completed": 292,
-  "EOS_NewPlayers": 1143,
+  "EOS_NewPlayers": 1141,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.66,
   "EosHistory": [
@@ -8823,6 +8823,11 @@
       "Time": "2024-01-04T19:09:20.4881382+00:00",
       "NumProgressed": 17553,
       "NumCompleted": 292
+    },
+    {
+      "Time": "2024-01-04T20:10:34.3512941+00:00",
+      "NumProgressed": 17554,
+      "NumCompleted": 292
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -8835,15 +8840,15 @@
       "Name": "Last Night...Did We...",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 15447
+      "UsersEstimate": 15448
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "7opfcp",
       "Name": "I Challenge You To Save More Money!",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 14042
+      "UsersEstimate": 14219
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -8931,7 +8936,7 @@
       "Name": "I Love How Tough You Are",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 11409
+      "UsersEstimate": 11410
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -8987,7 +8992,7 @@
       "Name": "Still Single",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 4739
+      "UsersEstimate": 4740
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_27",
@@ -9043,7 +9048,7 @@
       "Name": "What I Want Is You",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 9303
+      "UsersEstimate": 9304
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -9051,7 +9056,7 @@
       "Name": "To Be Or Not To Be",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 8776
+      "UsersEstimate": 8777
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -9099,7 +9104,7 @@
       "Name": "Go Clean up In Your Own Way",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5792
+      "UsersEstimate": 5793
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_2",
@@ -9107,7 +9112,7 @@
       "Name": "Drama CP: Reel to Real",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5441
+      "UsersEstimate": 5442
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_3",
@@ -9170,7 +9175,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 17553,
+      "Progressed": 17554,
       "Completed": 292
     }
   ],
@@ -9178,8 +9183,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2024-01-04T17:58:43.3124643+00:00",
-  "LastChanged_Achievements": "2024-01-04T19:09:20.4881378+00:00",
+  "LastChanged_Achievements": "2024-01-04T20:10:34.3512938+00:00",
   "LastUpdate_AppInfo": "2023-12-30T03:56:51.5051317+00:00",
-  "LastUpdate_Ratings": "2024-01-04T18:58:29.95674+00:00",
-  "LastUpdate_Achievements": "2024-01-04T19:09:20.4882172+00:00"
+  "LastUpdate_Ratings": "2024-01-04T19:59:39.0495888+00:00",
+  "LastUpdate_Achievements": "2024-01-04T20:10:34.3513549+00:00"
 }

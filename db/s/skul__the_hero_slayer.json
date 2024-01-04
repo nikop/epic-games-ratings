@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -1391,9 +1391,9 @@
       "Count": 148
     }
   ],
-  "EOS_Progressed": 13806,
+  "EOS_Progressed": 13807,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 922,
+  "EOS_NewPlayers": 921,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -8756,6 +8756,11 @@
       "Time": "2024-01-04T19:08:57.1750661+00:00",
       "NumProgressed": 13806,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-04T20:10:04.3877029+00:00",
+      "NumProgressed": 13807,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 24,
@@ -8815,7 +8820,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 5384
+      "UsersEstimate": 5385
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -8855,7 +8860,7 @@
       "Name": "The Hero Killer",
       "Percentage": 24,
       "XP": 90,
-      "UsersEstimate": 3313
+      "UsersEstimate": 3314
     },
     {
       "ID": "LeoniasFall",
@@ -8879,7 +8884,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 5108
+      "UsersEstimate": 5109
     },
     {
       "ID": "RookieWelcome",
@@ -8927,7 +8932,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 12840
+      "UsersEstimate": 12841
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -8951,22 +8956,22 @@
       "Name": "What should I buy?",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 11183
+      "UsersEstimate": 11184
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 13806,
+      "Progressed": 13807,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2024-01-04T14:57:06.9052145+00:00",
-  "LastChanged_Achievements": "2024-01-04T19:08:57.1750657+00:00",
+  "LastChanged_Achievements": "2024-01-04T20:10:04.3877023+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:27.9431294+00:00",
-  "LastUpdate_Ratings": "2024-01-04T18:57:13.3725403+00:00",
-  "LastUpdate_Achievements": "2024-01-04T19:08:57.1751147+00:00"
+  "LastUpdate_Ratings": "2024-01-04T19:57:56.3892344+00:00",
+  "LastUpdate_Achievements": "2024-01-04T20:10:04.3877688+00:00"
 }

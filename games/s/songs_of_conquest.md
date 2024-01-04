@@ -8,8 +8,8 @@ Number of Ratings: 292  (23.09.2022)
 | ---- | ---------- | ----- |
 | Adept | 46.00% | ~448 |
 | Double Kill | 40.00% | ~389 |
+| Veteran | 23.00% | ~224 |
 | Critical Hit | 22.00% | ~214 |
-| Veteran | 22.00% | ~214 |
 | Dressed For Success | 15.00% | ~146 |
 | Veni, Vidi, Vici | 10.00% | ~97 |
 | Multi Kill | 9.00% | ~88 |
@@ -37,9 +37,9 @@ Number of Ratings: 292  (23.09.2022)
 | Death To Diplomacy | 0.50% | ~5 |
 | Unlimited Power! | 0.50% | ~5 |
 | Get Over Here! | 0.50% | ~5 |
+| Cleave | 0.50% | ~5 |
 | Coming Through! | 0.40% | ~4 |
 | Killing Spree | 0.40% | ~4 |
-| Cleave | 0.40% | ~4 |
 | Fully Charged | 0.30% | ~3 |
 | Barbecue | 0.30% | ~3 |
 | Oops! | 0.30% | ~3 |

@@ -6,21 +6,21 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Shall Not Pass | 51.00% | ~4,978 |
-| Tutti Eroi! | 50.00% | ~4,880 |
-| Peak Performance | 45.00% | ~4,392 |
+| You Shall Not Pass | 51.00% | ~4,979 |
+| Tutti Eroi! | 50.00% | ~4,881 |
+| Peak Performance | 45.00% | ~4,393 |
 | Avanti Savoia! | 44.00% | ~4,295 |
-| Mamma Mia! | 35.00% | ~3,416 |
+| Mamma Mia! | 35.00% | ~3,417 |
 | Conrad von Hotzensocks | 32.00% | ~3,124 |
 | Gabriele D'Annunzio | 32.00% | ~3,124 |
-| Silver Lining | 27.00% | ~2,635 |
+| Silver Lining | 27.00% | ~2,636 |
 | Aurelio Baruzzi | 21.00% | ~2,050 |
 | Decimation | 20.00% | ~1,952 |
 | Donatello | 19.00% | ~1,855 |
 | Insubordination | 19.00% | ~1,855 |
 | The Italian Job | 19.00% | ~1,855 |
 | Veni Vidi Vici | 19.00% | ~1,855 |
-| Ragazzi del '99 | 17.00% | ~1,659 |
+| Ragazzi del '99 | 17.00% | ~1,660 |
 | Luigi Cadorna | 16.00% | ~1,562 |
 | The Lion of the Isonzo | 14.00% | ~1,367 |
 | Uomo Universale | 13.00% | ~1,269 |
@@ -30,9 +30,9 @@ Number of Ratings: 98  (23.09.2022)
 | Machiavelli | 11.00% | ~1,074 |
 | The Devil's Paintbrush | 10.00% | ~976 |
 | Thus With A Kiss | 10.00% | ~976 |
-| Dante's Inferno | 9.00% | ~878 |
-| I Have the High Ground | 9.00% | ~878 |
-| Millenial | 9.00% | ~878 |
+| Dante's Inferno | 9.00% | ~879 |
+| I Have the High Ground | 9.00% | ~879 |
+| Millenial | 9.00% | ~879 |
 | The Show Must Go On | 8.00% | ~781 |
 | Tosca | 8.00% | ~781 |
 | 12th Bottle of the Isonzo | 6.00% | ~586 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~39 |
 | Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,761 (Ranked 182)  
+Progressed: 9,762 (Ranked 182)  
 Completed: 10 (0.10%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,11 +305,11 @@ Completed: 10 (0.10%) (Ranked 306)
 | 2024-01-01 | 9,726 | 10 |
 | 2024-01-02 | 9,741 | 10 |
 | 2024-01-03 | 9,754 | 10 |
-| 2024-01-04 | 9,761 | 10 |
+| 2024-01-04 | 9,762 | 10 |
 ## Awards
 Max (Diverse Characters): 42  (Ranked 474)  
-Sum: 338 (Ranked 370)  
-Diff (max vs sum): 104  
+Sum: 338 (Ranked 371)  
+Diff (max vs sum): 103  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 42 |

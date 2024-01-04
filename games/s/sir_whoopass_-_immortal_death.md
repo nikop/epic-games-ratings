@@ -46,7 +46,7 @@
 | You're not so Big anymore, Boi! | 25.00% | ~38 |
 | Your daily dose of Vitamin C. | 25.00% | ~38 |
 | I cant stand still! | 23.00% | ~34 |
-| Slimy... yet satisfying | 21.00% | ~32 |
+| Slimy... yet satisfying | 22.00% | ~33 |
 | Master Butcher | 19.00% | ~28 |
 | Just wing it! | 18.00% | ~27 |
 | Deal with it | 18.00% | ~27 |
@@ -65,8 +65,8 @@
 | Ancient Ruins of Misplaced Belongings | 5.00% | ~8 |
 | Ancient Ruins of Stubbed Toes | 5.00% | ~8 |
 | Ancient Ruins of Leaky Roof | 5.00% | ~8 |
+| Out of bounds | 5.00% | ~8 |
 | Ancient Ruins of Poor Intrusion Prevention | 4.00% | ~6 |
-| Out of bounds | 4.00% | ~6 |
 | Fifty Shades of Gruyere | 3.00% | ~4 |
 | Ancient Ruins of Empty Echoes | 3.00% | ~4 |
 | Ancient Ruins of Vitamin D Addition | 3.00% | ~4 |

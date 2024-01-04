@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1432,
+  "EOS_Progressed": 1433,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.44,
   "EosHistory": [
@@ -4945,6 +4945,11 @@
       "Time": "2024-01-04T19:03:47.8359548+00:00",
       "NumProgressed": 1432,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-04T20:04:54.2061318+00:00",
+      "NumProgressed": 1433,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4957,7 +4962,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -4997,7 +5002,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "_07_FinishAct3",
@@ -5005,7 +5010,7 @@
       "Name": "All Good Things",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "_08_Completion_10",
@@ -5021,7 +5026,7 @@
       "Name": "Powder Monkey",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "_10_Completion_30",
@@ -5029,7 +5034,7 @@
       "Name": "Buccaneer",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "_11_Completion_40",
@@ -5109,7 +5114,7 @@
       "Name": "Fishy Fish",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -5164,7 +5169,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1432,
+      "Progressed": 1433,
       "Completed": 35
     }
   ],
@@ -5172,8 +5177,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-03T10:02:59.9033308+00:00",
-  "LastChanged_Achievements": "2024-01-04T19:03:47.8359545+00:00",
+  "LastChanged_Achievements": "2024-01-04T20:04:54.2061314+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.1530944+00:00",
-  "LastUpdate_Ratings": "2024-01-04T18:57:28.0879648+00:00",
-  "LastUpdate_Achievements": "2024-01-04T19:03:47.8359947+00:00"
+  "LastUpdate_Ratings": "2024-01-04T19:58:14.6880591+00:00",
+  "LastUpdate_Achievements": "2024-01-04T20:04:54.2061687+00:00"
 }

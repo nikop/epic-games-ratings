@@ -27,10 +27,10 @@ Number of Ratings: 45  (23.09.2022)
 | Another Tale to Tell | 1.00% | ~16 |
 | A Story of Heroes | 1.00% | ~16 |
 | Turncoat | 1.00% | ~16 |
+| Some Say I'm Too Flashy | 1.00% | ~16 |
 | Legends Never Die | 0.90% | ~14 |
 | Chain Reaction | 0.90% | ~14 |
 | In Soil, In Smoke | 0.90% | ~14 |
-| Some Say I'm Too Flashy | 0.80% | ~13 |
 | No Time for Clawmonsters | 0.80% | ~13 |
 | Plague Doctor | 0.70% | ~11 |
 | Bears are Scary | 0.70% | ~11 |

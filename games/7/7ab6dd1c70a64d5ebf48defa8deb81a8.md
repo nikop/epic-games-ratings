@@ -5,44 +5,44 @@ Rating: 4.17 (Ranked 978)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 61.00% | ~1,085 |
-| Trinity | 29.00% | ~516 |
-| The Collector | 24.00% | ~427 |
-| Find Allies | 23.00% | ~409 |
-| A Taste of Wrath | 23.00% | ~409 |
-| I Found It | 23.00% | ~409 |
-| Shatter Them All | 22.00% | ~391 |
-| Geared Up | 22.00% | ~391 |
-| Adventurer | 21.00% | ~374 |
-| Fashion Victim | 21.00% | ~374 |
-| Scholar | 21.00% | ~374 |
-| Tributes of Caladrias | 19.00% | ~338 |
-| Stone Collection | 19.00% | ~338 |
-| Powerful Allies | 18.00% | ~320 |
-| Big Bazar | 13.00% | ~231 |
-| Essence Blow | 12.00% | ~213 |
-| Alchemist | 12.00% | ~213 |
-| The Mentor | 10.00% | ~178 |
-| Calm before the Storm | 8.00% | ~142 |
+| Break Out | 61.00% | ~1,090 |
+| Trinity | 29.00% | ~518 |
+| Find Allies | 23.00% | ~411 |
+| A Taste of Wrath | 23.00% | ~411 |
+| I Found It | 23.00% | ~411 |
+| The Collector | 23.00% | ~411 |
+| Shatter Them All | 22.00% | ~393 |
+| Geared Up | 22.00% | ~393 |
+| Adventurer | 21.00% | ~375 |
+| Scholar | 21.00% | ~375 |
+| Fashion Victim | 20.00% | ~357 |
+| Tributes of Caladrias | 19.00% | ~340 |
+| Stone Collection | 19.00% | ~340 |
+| Powerful Allies | 18.00% | ~322 |
+| Big Bazar | 13.00% | ~232 |
+| Essence Blow | 12.00% | ~214 |
+| Alchemist | 12.00% | ~214 |
+| The Mentor | 10.00% | ~179 |
+| Calm before the Storm | 8.00% | ~143 |
 | To Battle | 7.00% | ~125 |
 | Godslayer | 7.00% | ~125 |
 | Airborne | 7.00% | ~125 |
-| Miner | 7.00% | ~125 |
+| Miner | 6.00% | ~107 |
 | Clear Sight | 4.00% | ~71 |
 | Shatterer | 4.00% | ~71 |
 | Fine Feathers Make Fine Birds | 4.00% | ~71 |
-| Slayer | 3.00% | ~53 |
-| A Queen's Tale | 3.00% | ~53 |
+| Slayer | 3.00% | ~54 |
+| A Queen's Tale | 3.00% | ~54 |
 | Shardbearer | 2.00% | ~36 |
 | Flawless Victory | 2.00% | ~36 |
 | All There Is | 2.00% | ~36 |
 | False God | 2.00% | ~36 |
 | Forgemaster | 1.00% | ~18 |
 | Summiter | 1.00% | ~18 |
-| All That Gold | 0.70% | ~12 |
+| All That Gold | 0.70% | ~13 |
 | Feeling Fancy | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,779 (Ranked 255)  
+Progressed: 1,787 (Ranked 255)  
 Completed: 3 (0.17%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 3 (0.17%) (Ranked 280)
 | 2024-01-01 | 1,636 | 3 |
 | 2024-01-02 | 1,683 | 3 |
 | 2024-01-03 | 1,735 | 3 |
-| 2024-01-04 | 1,779 | 3 |
+| 2024-01-04 | 1,787 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

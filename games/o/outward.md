@@ -1,28 +1,28 @@
 # Outward Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/outward)  
 [View Rawdata](../../db/o/outward.json)  
-Rating: 4.54 (Ranked 544)  
+Rating: 4.54 (Ranked 546)  
 Number of Ratings: 266  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 73.00% | ~3,264 |
-| Ready for Winter | 61.00% | ~2,727 |
-| Ready for Summer | 49.00% | ~2,191 |
-| Cordon Bleu | 41.00% | ~1,833 |
-| Tapped! | 35.00% | ~1,565 |
-| Eureka | 30.00% | ~1,341 |
-| Scourge Slayer | 24.00% | ~1,073 |
+| Venture Outward | 73.00% | ~3,266 |
+| Ready for Winter | 61.00% | ~2,729 |
+| Ready for Summer | 49.00% | ~2,192 |
+| Cordon Bleu | 41.00% | ~1,834 |
+| Tapped! | 35.00% | ~1,566 |
+| Eureka | 30.00% | ~1,342 |
+| Scourge Slayer | 24.00% | ~1,074 |
 | Science, Troglodyte! | 22.00% | ~984 |
-| Exceptional Skill | 21.00% | ~939 |
-| Home Sweet Home | 20.00% | ~894 |
+| Exceptional Skill | 21.00% | ~940 |
+| Home Sweet Home | 20.00% | ~895 |
 | Encyclopedic! | 18.00% | ~805 |
 | A Fortress Toppled! | 15.00% | ~671 |
 | The Power of Family | 15.00% | ~671 |
 | Apex Predator | 14.00% | ~626 |
 | The Power of Faith | 12.00% | ~537 |
 | Strange amalgams | 11.00% | ~492 |
-| The Power of Freedom | 9.00% | ~402 |
+| The Power of Freedom | 9.00% | ~403 |
 | Ace Detective | 7.00% | ~313 |
 | Gift from the Ancestors | 7.00% | ~313 |
 | House of Cards | 7.00% | ~313 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~13 |
 | The Absolute Pinnacle. | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,471 (Ranked 205)  
+Progressed: 4,474 (Ranked 205)  
 Completed: 5 (0.11%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 5 (0.11%) (Ranked 303)
 | 2024-01-01 | 4,404 | 5 |
 | 2024-01-02 | 4,428 | 5 |
 | 2024-01-03 | 4,452 | 5 |
-| 2024-01-04 | 4,471 | 5 |
+| 2024-01-04 | 4,474 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 498)  
 Sum: 246 (Ranked 400)  

@@ -5,27 +5,27 @@ Rating: 4.58 (Ranked 466)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 32.00% | ~1,265 |
-| Sputnik 2049 | 28.00% | ~1,107 |
-| Infinite Growth... | 27.00% | ~1,068 |
-| Without Breaking Some Eggs... | 26.00% | ~1,028 |
-| Ready for a New World | 19.00% | ~751 |
+| Wakey Wakey | 32.00% | ~1,267 |
+| Sputnik 2049 | 28.00% | ~1,108 |
+| Infinite Growth... | 27.00% | ~1,069 |
+| Without Breaking Some Eggs... | 26.00% | ~1,029 |
+| Ready for a New World | 19.00% | ~752 |
 | Space Society | 18.00% | ~712 |
 | A Thousand Strong | 18.00% | ~712 |
 | Permanent Redesigns | 16.00% | ~633 |
-| Fully Recycled | 15.00% | ~593 |
-| The Ship of Theseus | 15.00% | ~593 |
+| Fully Recycled | 15.00% | ~594 |
+| The Ship of Theseus | 15.00% | ~594 |
 | Guy de Borderlands | 14.00% | ~554 |
 | Ain't Nobody Got Time for That | 14.00% | ~554 |
-| Hope Seeker | 13.00% | ~514 |
-| A Hunk of Junk | 12.00% | ~474 |
-| Exceeding Capacity | 12.00% | ~474 |
-| Breaking Protocol | 12.00% | ~474 |
+| Hope Seeker | 13.00% | ~515 |
+| A Hunk of Junk | 12.00% | ~475 |
+| Exceeding Capacity | 12.00% | ~475 |
+| Breaking Protocol | 12.00% | ~475 |
 | Man's Best Friend | 9.00% | ~356 |
 | Power Outage | 9.00% | ~356 |
 | Please Make it Stop! | 9.00% | ~356 |
-| Sightseeing | 8.00% | ~316 |
-| Convenient Transport | 8.00% | ~316 |
+| Sightseeing | 8.00% | ~317 |
+| Convenient Transport | 8.00% | ~317 |
 | Necessary Enhancement | 7.00% | ~277 |
 | From the Past | 7.00% | ~277 |
 | Access Granted | 6.00% | ~237 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 466)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,954 (Ranked 212)  
+Progressed: 3,958 (Ranked 212)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-01 | 3,888 | 0 |
 | 2024-01-02 | 3,912 | 0 |
 | 2024-01-03 | 3,940 | 0 |
-| 2024-01-04 | 3,954 | 0 |
+| 2024-01-04 | 3,958 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

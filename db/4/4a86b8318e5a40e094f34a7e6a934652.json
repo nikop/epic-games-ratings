@@ -4,7 +4,7 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 351,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 475,
+  "EOS_Progressed": 476,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
@@ -2009,6 +2009,11 @@
       "Time": "2024-01-04T09:05:07.7823436+00:00",
       "NumProgressed": 475,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-04T20:06:33.9439472+00:00",
+      "NumProgressed": 476,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -2037,15 +2042,15 @@
       "Name": "Retro Diva",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "BRING_PROSPERO",
       "SetID": "aniflfk",
       "Name": "Amusement Park",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 190
+      "UsersEstimate": 186
     },
     {
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
@@ -2069,7 +2074,7 @@
       "Name": "Energy Boost",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "GO_ON_EXPEDITION",
@@ -2077,7 +2082,7 @@
       "Name": "Off on an Expedition!",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -2093,7 +2098,7 @@
       "Name": "A Party to Remember!",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "LUNCH_LEECH",
@@ -2101,7 +2106,7 @@
       "Name": "Leech Lunch",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
@@ -2141,7 +2146,7 @@
       "Name": "Bridge Builder",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "SLEEP_50_HOURS",
@@ -2157,7 +2162,7 @@
       "Name": "Crypto Bro",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "TAKE_LEECH",
@@ -2180,14 +2185,14 @@
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 475,
+      "Progressed": 476,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2024-01-04T19:05:07.3670841+00:00",
+  "LastChanged_Achievements": "2024-01-04T20:06:33.9439469+00:00",
   "LastUpdate_AppInfo": "2024-01-03T22:57:16.910321+00:00",
-  "LastUpdate_Ratings": "2024-01-04T19:02:42.2484121+00:00",
-  "LastUpdate_Achievements": "2024-01-04T19:05:07.3671119+00:00"
+  "LastUpdate_Ratings": "2024-01-04T20:03:26.8489226+00:00",
+  "LastUpdate_Achievements": "2024-01-04T20:06:33.9439639+00:00"
 }

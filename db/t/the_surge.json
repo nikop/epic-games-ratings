@@ -400,9 +400,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5246,
+  "EOS_Progressed": 5247,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -4720,6 +4720,11 @@
       "Time": "2024-01-04T19:04:54.3793343+00:00",
       "NumProgressed": 5246,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-04T20:06:18.0771378+00:00",
+      "NumProgressed": 5247,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -4787,7 +4792,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4931
+      "UsersEstimate": 4932
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -4795,7 +4800,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3987
+      "UsersEstimate": 3988
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -4947,7 +4952,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3987
+      "UsersEstimate": 3988
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -5011,7 +5016,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1731
+      "UsersEstimate": 1732
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -5266,15 +5271,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5246,
+      "Progressed": 5247,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-31T19:58:10.5906343+00:00",
-  "LastChanged_Achievements": "2024-01-04T19:04:54.3793336+00:00",
+  "LastChanged_Achievements": "2024-01-04T20:06:18.0771372+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:44.5404504+00:00",
-  "LastUpdate_Ratings": "2024-01-04T18:59:29.0132972+00:00",
-  "LastUpdate_Achievements": "2024-01-04T19:04:54.3794464+00:00"
+  "LastUpdate_Ratings": "2024-01-04T20:01:00.0297627+00:00",
+  "LastUpdate_Achievements": "2024-01-04T20:06:18.077201+00:00"
 }

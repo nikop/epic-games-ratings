@@ -2553,9 +2553,9 @@
       "ID": "ACH_LETS_PATCH_THINGS_UP",
       "SetID": "108h92c",
       "Name": "Let\u2019s patch things up",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 671
+      "UsersEstimate": 681
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -2601,9 +2601,9 @@
       "ID": "ACH_TRUELY_SHOCKING",
       "SetID": "108h92c",
       "Name": "Truly Shocking!",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 493
+      "UsersEstimate": 503
     }
   ],
   "AchievementSets": [
@@ -2618,8 +2618,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2024-01-01T13:59:32.897486+00:00",
-  "LastChanged_Achievements": "2024-01-04T19:09:16.2932558+00:00",
+  "LastChanged_Achievements": "2024-01-04T20:10:28.6903468+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:17.6550121+00:00",
-  "LastUpdate_Ratings": "2024-01-04T19:00:16.2094704+00:00",
-  "LastUpdate_Achievements": "2024-01-04T19:09:16.2932849+00:00"
+  "LastUpdate_Ratings": "2024-01-04T20:02:53.7254021+00:00",
+  "LastUpdate_Achievements": "2024-01-04T20:10:28.6903716+00:00"
 }

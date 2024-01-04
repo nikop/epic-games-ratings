@@ -1251,9 +1251,9 @@
       "ID": "questReachLord",
       "SetID": "ci65fo0",
       "Name": "Castle feels like home",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "questRedsBoss",
@@ -1368,8 +1368,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2024-01-04T19:09:37.4271687+00:00",
+  "LastChanged_Achievements": "2024-01-04T20:10:56.0620435+00:00",
   "LastUpdate_AppInfo": "2024-01-03T22:57:15.9010052+00:00",
-  "LastUpdate_Ratings": "2024-01-04T18:59:21.8019406+00:00",
-  "LastUpdate_Achievements": "2024-01-04T19:09:37.4272427+00:00"
+  "LastUpdate_Ratings": "2024-01-04T20:00:49.2021138+00:00",
+  "LastUpdate_Achievements": "2024-01-04T20:10:56.062113+00:00"
 }

@@ -16,11 +16,11 @@ Rating: 4.55 (Ranked 523)
 | Shall we play a game? | 47.00% | ~241 |
 | School's out | 43.00% | ~221 |
 | Sole Music | 37.00% | ~190 |
-| Scaffolding Expert | 36.00% | ~185 |
+| Scaffolding Expert | 37.00% | ~190 |
 | Elysian Minigame-Master | 36.00% | ~185 |
 | Portals come in packs | 30.00% | ~154 |
 | No man left behind! | 29.00% | ~149 |
-| Photo Friend | 25.00% | ~128 |
+| Photo Friend | 26.00% | ~133 |
 | Masseltov | 20.00% | ~103 |
 | Brainfreeze | 20.00% | ~103 |
 | And everything comes full circle. | 19.00% | ~97 |

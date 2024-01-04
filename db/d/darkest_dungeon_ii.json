@@ -10518,9 +10518,9 @@
       "Count": 1079
     }
   ],
-  "EOS_Progressed": 131655,
+  "EOS_Progressed": 131663,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1251,
+  "EOS_NewPlayers": 1248,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38338,6 +38338,11 @@
       "Time": "2024-01-04T19:09:29.2974713+00:00",
       "NumProgressed": 131655,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-04T20:10:45.6752795+00:00",
+      "NumProgressed": 131663,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38349,7 +38354,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5266
+      "UsersEstimate": 5267
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -38365,7 +38370,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5266
+      "UsersEstimate": 5267
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -38477,7 +38482,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7899
+      "UsersEstimate": 7900
     },
     {
       "ID": "combat_kill_cadavers",
@@ -38501,7 +38506,7 @@
       "Name": "Not Today!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5266
+      "UsersEstimate": 5267
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -38621,7 +38626,7 @@
       "Name": "It Happens",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5266
+      "UsersEstimate": 5267
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -38645,7 +38650,7 @@
       "Name": "Rush Hour",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5266
+      "UsersEstimate": 5267
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -38653,7 +38658,7 @@
       "Name": "Merry Time",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5266
+      "UsersEstimate": 5267
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -38661,7 +38666,7 @@
       "Name": "Harvest Festival",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5266
+      "UsersEstimate": 5267
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -38725,7 +38730,7 @@
       "Name": "Whale",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5266
+      "UsersEstimate": 5267
     },
     {
       "ID": "hospital_full_service",
@@ -38741,7 +38746,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5266
+      "UsersEstimate": 5267
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -38757,7 +38762,7 @@
       "Name": "FNG",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5266
+      "UsersEstimate": 5267
     },
     {
       "ID": "inn_visit_all_variants",
@@ -38797,7 +38802,7 @@
       "Name": "Nope",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5266
+      "UsersEstimate": 5267
     },
     {
       "ID": "run_victory_act01",
@@ -38885,7 +38890,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "combat_kill_collector",
@@ -38893,7 +38898,7 @@
       "Name": "This guy... again?",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -38933,7 +38938,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -38941,7 +38946,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "quest_complete_crusader",
@@ -38949,7 +38954,7 @@
       "Name": "Lost and Found",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -38980,21 +38985,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131655,
+      "Progressed": 131663,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6524,
+      "Progressed": 6532,
       "Completed": 821
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-04T18:59:38.4162608+00:00",
-  "LastChanged_Achievements": "2024-01-04T19:09:29.297471+00:00",
+  "LastChanged_Achievements": "2024-01-04T20:10:45.6752792+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-04T18:59:38.4162614+00:00",
-  "LastUpdate_Achievements": "2024-01-04T19:09:29.2976631+00:00"
+  "LastUpdate_Ratings": "2024-01-04T20:01:13.1660274+00:00",
+  "LastUpdate_Achievements": "2024-01-04T20:10:45.6754478+00:00"
 }

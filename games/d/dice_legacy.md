@@ -5,7 +5,7 @@ Rating: 4.29 (Ranked 875)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| We made it | 42.00% | ~546 |
+| We made it | 42.00% | ~547 |
 | The City | 11.00% | ~143 |
 | Manipulating Fate | 10.00% | ~130 |
 | Full house | 7.00% | ~91 |
@@ -32,8 +32,8 @@ Rating: 4.29 (Ranked 875)
 | Metropolis | 0.80% | ~10 |
 | Knowledge is Power | 0.70% | ~9 |
 | Red Tape | 0.60% | ~8 |
-| Six Faces | 0.50% | ~6 |
-| The Great Winter | 0.50% | ~6 |
+| Six Faces | 0.50% | ~7 |
+| The Great Winter | 0.50% | ~7 |
 | Ice and Fire | 0.30% | ~4 |
 | It's spreading | 0.30% | ~4 |
 | The Flail | 0.30% | ~4 |
@@ -51,7 +51,7 @@ Rating: 4.29 (Ranked 875)
 | Purist | 0.00% | ~0 |
 | King of the Dice | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,300 (Ranked 275)  
+Progressed: 1,302 (Ranked 275)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-01 | 1,287 | 0 |
 | 2024-01-02 | 1,291 | 0 |
 | 2024-01-03 | 1,295 | 0 |
-| 2024-01-04 | 1,300 | 0 |
+| 2024-01-04 | 1,302 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

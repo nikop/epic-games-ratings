@@ -6,49 +6,49 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~314,068 |
-| Full garage | 61.00% | ~262,440 |
-| To the eyeballs! | 51.00% | ~219,417 |
-| Individual delivery | 47.00% | ~202,208 |
-| Non-Stop | 45.00% | ~193,604 |
-| Juggler | 36.00% | ~154,883 |
-| Forgot something | 35.00% | ~150,580 |
-| Close call! | 30.00% | ~129,069 |
-| Get out my way | 28.00% | ~120,464 |
-| Common cause | 26.00% | ~111,860 |
-| Critical care | 26.00% | ~111,860 |
-| Mega-railroad | 23.00% | ~98,953 |
-| Upgrade complete | 23.00% | ~98,953 |
-| Just in time! | 18.00% | ~77,441 |
-| Builder | 17.00% | ~73,139 |
-| Long Haul | 17.00% | ~73,027 |
-| Steam Age | 16.00% | ~68,837 |
-| Multilevel road | 15.00% | ~64,534 |
-| Bridgemania | 14.00% | ~60,232 |
-| Need to think | 14.00% | ~60,232 |
-| The Tortoise | 12.00% | ~51,628 |
-| Beginner | 11.00% | ~47,325 |
-| Without a lunch break | 11.00% | ~47,325 |
-| One way | 10.00% | ~43,023 |
-| Relocation | 10.00% | ~43,023 |
-| Industrial Age | 9.00% | ~38,721 |
-| Just One More Valley | 9.00% | ~38,661 |
-| Prick of conscience | 8.00% | ~34,418 |
-| Missed it! | 7.00% | ~30,116 |
-| At the last moment! | 6.00% | ~25,814 |
-| Overseer | 6.00% | ~25,814 |
-| Highlander | 5.00% | ~21,512 |
-| Jewelry accuracy | 5.00% | ~21,512 |
-| Stargazer | 5.00% | ~21,512 |
-| Bridge builder | 4.00% | ~17,209 |
-| Electrical Age | 4.00% | ~17,209 |
-| Engineer | 4.00% | ~17,209 |
-| Large construction | 4.00% | ~17,209 |
-| Squander | 4.00% | ~17,209 |
-| Globalisation Age | 3.00% | ~12,907 |
-| Living it large | 3.00% | ~12,907 |
-| Sabotage | 3.00% | ~12,907 |
-| Test Batch | 3.00% | ~12,887 |
+| Dealmaker | 73.00% | ~314,085 |
+| Full garage | 61.00% | ~262,454 |
+| To the eyeballs! | 51.00% | ~219,429 |
+| Individual delivery | 47.00% | ~202,219 |
+| Non-Stop | 45.00% | ~193,614 |
+| Juggler | 36.00% | ~154,891 |
+| Forgot something | 35.00% | ~150,589 |
+| Close call! | 30.00% | ~129,076 |
+| Get out my way | 28.00% | ~120,471 |
+| Common cause | 26.00% | ~111,866 |
+| Critical care | 26.00% | ~111,866 |
+| Mega-railroad | 23.00% | ~98,958 |
+| Upgrade complete | 23.00% | ~98,958 |
+| Just in time! | 18.00% | ~77,446 |
+| Builder | 17.00% | ~73,143 |
+| Long Haul | 17.00% | ~73,031 |
+| Steam Age | 16.00% | ~68,840 |
+| Multilevel road | 15.00% | ~64,538 |
+| Bridgemania | 14.00% | ~60,235 |
+| Need to think | 14.00% | ~60,235 |
+| The Tortoise | 12.00% | ~51,630 |
+| Beginner | 11.00% | ~47,328 |
+| Without a lunch break | 11.00% | ~47,328 |
+| One way | 10.00% | ~43,025 |
+| Relocation | 10.00% | ~43,025 |
+| Industrial Age | 9.00% | ~38,723 |
+| Just One More Valley | 9.00% | ~38,663 |
+| Prick of conscience | 8.00% | ~34,420 |
+| Missed it! | 7.00% | ~30,118 |
+| At the last moment! | 6.00% | ~25,815 |
+| Overseer | 6.00% | ~25,815 |
+| Highlander | 5.00% | ~21,513 |
+| Jewelry accuracy | 5.00% | ~21,513 |
+| Stargazer | 5.00% | ~21,513 |
+| Bridge builder | 4.00% | ~17,210 |
+| Electrical Age | 4.00% | ~17,210 |
+| Engineer | 4.00% | ~17,210 |
+| Large construction | 4.00% | ~17,210 |
+| Squander | 4.00% | ~17,210 |
+| Globalisation Age | 3.00% | ~12,908 |
+| Living it large | 3.00% | ~12,908 |
+| Sabotage | 3.00% | ~12,908 |
+| Test Batch | 3.00% | ~12,888 |
 | Astronomer | 2.00% | ~8,605 |
 | Innovator | 2.00% | ~8,605 |
 | Lucky vandal | 2.00% | ~8,605 |
@@ -56,15 +56,15 @@ Number of Ratings: 87  (23.09.2022)
 | Vandal | 2.00% | ~8,605 |
 | Will work | 2.00% | ~8,605 |
 | Woodcutter | 2.00% | ~8,605 |
-| Occupied! | 2.00% | ~8,591 |
-| Achiever | 1.00% | ~4,302 |
-| Environmental activist | 1.00% | ~4,302 |
-| Metro builder | 1.00% | ~4,302 |
-| Ouroboros | 1.00% | ~4,302 |
-| Space Age | 1.00% | ~4,302 |
+| Occupied! | 2.00% | ~8,592 |
+| Achiever | 1.00% | ~4,303 |
+| Environmental activist | 1.00% | ~4,303 |
+| Metro builder | 1.00% | ~4,303 |
+| Ouroboros | 1.00% | ~4,303 |
+| Space Age | 1.00% | ~4,303 |
 | BBQ | 0.80% | ~3,442 |
 | Miscalculation | 0.80% | ~3,442 |
-| Voyager | 0.60% | ~2,581 |
+| Voyager | 0.60% | ~2,582 |
 | Railroad tycoon | 0.50% | ~2,151 |
 | It's no coincidence | 0.40% | ~1,721 |
 | Miner | 0.30% | ~1,289 |
@@ -73,9 +73,9 @@ Number of Ratings: 87  (23.09.2022)
 | The Hare with an espresso | 0.30% | ~1,291 |
 | Tourism Age | 0.30% | ~1,291 |
 | Trapiche Emerald | 0.30% | ~1,289 |
-| Alchemist | 0.20% | ~860 |
-| Astrophysicist | 0.20% | ~860 |
-| Urbanization Age | 0.20% | ~860 |
+| Alchemist | 0.20% | ~861 |
+| Astrophysicist | 0.20% | ~861 |
+| Urbanization Age | 0.20% | ~861 |
 | Arcturus | 0.10% | ~430 |
 | Astrochemist | 0.10% | ~430 |
 | Atomic Age | 0.10% | ~430 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~430 |
 | World Zapper | 0.10% | ~430 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 430,230 (Ranked 46)  
+Progressed: 430,253 (Ranked 46)  
 Completed: 24 (0.01%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,10 +317,10 @@ Completed: 24 (0.01%) (Ranked 369)
 | 2024-01-01 | 429,346 | 24 |
 | 2024-01-02 | 429,689 | 24 |
 | 2024-01-03 | 429,987 | 24 |
-| 2024-01-04 | 430,230 | 24 |
+| 2024-01-04 | 430,253 | 24 |
 ## Awards
 Max (Challenging Puzzles): 1,027  (Ranked 157)  
-Sum: 2,111 (Ranked 215)  
+Sum: 2,113 (Ranked 215)  
 Diff (max vs sum): -58  
 | Award | Count |
 | ----- | ----- |
@@ -332,8 +332,8 @@ Diff (max vs sum): -58
 | This game has Quickly Understood Controls | 111 |
 | This game is Highly Recommended | 103 |
 | This game has Challenging Combat | 89 |
+| This game has a Creative Community | 80 |
 | This game has Amazing Storytelling | 79 |
-| This game has a Creative Community | 78 |
 | This game has Amazing Characters | 60 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -563,4 +563,4 @@ Diff (max vs sum): -58
 | 2024-01-01 | 4.45 | - | 1,011 | 2,086 |
 | 2024-01-02 | 4.45 | - | 1,017 | 2,099 |
 | 2024-01-03 | 4.45 | - | 1,027 | 2,110 |
-| 2024-01-04 | 4.45 | - | 1,027 | 2,111 |
+| 2024-01-04 | 4.45 | - | 1,027 | 2,113 |

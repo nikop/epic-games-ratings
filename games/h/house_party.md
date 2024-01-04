@@ -7,7 +7,7 @@ Number of Ratings: 177  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Friend in Need... | 6.00% | ~425 |
-| Smooth Operator: Madison | 5.00% | ~354 |
+| Smooth Operator: Madison | 5.00% | ~355 |
 | The Brahdyssey | 3.00% | ~213 |
 | Caught in the Act | 3.00% | ~213 |
 | Katherine | 3.00% | ~213 |
@@ -26,6 +26,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Crush | 0.80% | ~57 |
 | Amy: Scavenger Hunt | 0.70% | ~50 |
 | Casanova | 0.70% | ~50 |
+| Deck the Balls | 0.70% | ~29 |
 | It Smells Like Roses | 0.70% | ~29 |
 | Now It's a Party! | 0.70% | ~50 |
 | Stephanie | 0.70% | ~50 |
@@ -34,7 +35,6 @@ Number of Ratings: 177  (23.09.2022)
 | Te Amo Lety | 0.70% | ~50 |
 | Benedict Brahrnold | 0.60% | ~43 |
 | I'll Be Back | 0.60% | ~43 |
-| Deck the Balls | 0.60% | ~25 |
 | Ashley | 0.50% | ~35 |
 | Love Conquers All | 0.50% | ~35 |
 | Rule 34 | 0.40% | ~28 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Most Wonderful Time of the Year | 0.10% | ~4 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,088 (Ranked 193)  
+Progressed: 7,091 (Ranked 193)  
 Completed: 3 (0.04%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,7 +326,7 @@ Completed: 3 (0.04%) (Ranked 347)
 | 2024-01-01 | 7,031 | 3 |
 | 2024-01-02 | 7,052 | 3 |
 | 2024-01-03 | 7,070 | 3 |
-| 2024-01-04 | 7,088 | 3 |
+| 2024-01-04 | 7,091 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

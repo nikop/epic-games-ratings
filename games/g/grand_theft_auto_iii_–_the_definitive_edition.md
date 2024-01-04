@@ -1,18 +1,18 @@
 # Grand Theft Auto III – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-iii-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto_iii_–_the_definitive_edition.json)  
-Rating: 4.21 (Ranked 948)  
+Rating: 4.21 (Ranked 947)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~9,569 |
-| Disposing of the Evidence | 38.00% | ~4,381 |
-| Without a Scratch | 34.00% | ~3,920 |
-| Wreckless Driving | 28.00% | ~3,228 |
-| A Marked Man | 26.00% | ~2,998 |
+| First Day on the Job | 83.00% | ~9,573 |
+| Disposing of the Evidence | 38.00% | ~4,383 |
+| Without a Scratch | 34.00% | ~3,922 |
+| Wreckless Driving | 28.00% | ~3,230 |
+| A Marked Man | 25.00% | ~2,884 |
 | Street Sweeper | 19.00% | ~2,191 |
-| Liberty City Minute | 17.00% | ~1,960 |
-| Offshore Delivery | 14.00% | ~1,614 |
+| Liberty City Minute | 17.00% | ~1,961 |
+| Offshore Delivery | 14.00% | ~1,615 |
 | Dirty Money | 13.00% | ~1,499 |
 | By a Mile | 10.00% | ~1,153 |
 | Not So Fast | 10.00% | ~1,153 |
@@ -21,21 +21,21 @@ Rating: 4.21 (Ranked 948)
 | Full Artillery | 4.00% | ~461 |
 | Mob Boss | 3.00% | ~346 |
 | Escape Artist | 2.00% | ~231 |
-| Got This Figured Out | 2.00% | ~231 |
-| Come Out to Play-y-y-y | 2.00% | ~231 |
 | Where To? | 2.00% | ~231 |
 | Splish Splash | 2.00% | ~231 |
 | Playing Doctor | 2.00% | ~231 |
 | Liberty City Secrets | 2.00% | ~231 |
 | Planned Ahead | 1.00% | ~115 |
+| Got This Figured Out | 1.00% | ~115 |
 | Wheels Up | 1.00% | ~115 |
+| Come Out to Play-y-y-y | 1.00% | ~115 |
 | Man Toyz | 1.00% | ~115 |
 | Going Rogue | 1.00% | ~115 |
 | Furious First Responder | 1.00% | ~115 |
 | Is That All You've Got? | 0.90% | ~104 |
 | King of Liberty City | 0.70% | ~81 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,529 (Ranked 177)  
+Progressed: 11,534 (Ranked 177)  
 Completed: 76 (0.66%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 76 (0.66%) (Ranked 200)
 | 2024-01-01 | 11,326 | 70 |
 | 2024-01-02 | 11,401 | 72 |
 | 2024-01-03 | 11,461 | 76 |
-| 2024-01-04 | 11,529 | 76 |
+| 2024-01-04 | 11,534 | 76 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

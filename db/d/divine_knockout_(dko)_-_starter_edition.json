@@ -4,10 +4,10 @@
   "ProductSlug": "divine-knockout",
   "Ranking_Rating": 861,
   "Ranking_Popularity": 410,
-  "Ranking_PopularitySum": 333,
+  "Ranking_PopularitySum": 332,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewPlayers": 567,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-06-29T11:00:00+00:00",
@@ -1611,10 +1611,16 @@
       "Rating": 4.31,
       "NumberOfAwards": 525,
       "NumberOfAwardsMax": 73
+    },
+    {
+      "Time": "2024-01-04T20:03:43.8930353+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 526,
+      "NumberOfAwardsMax": 73
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 525,
+  "NumberOfAwards": 526,
   "NumberOfAwardsMax": 73,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1664,7 +1670,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 51
+      "Count": 52
     },
     {
       "Text": "This game is Relaxing",
@@ -1708,8 +1714,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:52.9902406+00:00",
-  "LastChanged": "2024-01-02T19:03:39.5833938+00:00",
+  "LastChanged": "2024-01-04T20:03:43.8930351+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:25.1717256+00:00",
-  "LastUpdate_Ratings": "2024-01-04T19:02:55.971275+00:00",
-  "LastUpdate_Achievements": "2024-01-04T19:04:13.2313784+00:00"
+  "LastUpdate_Ratings": "2024-01-04T20:03:43.8930355+00:00",
+  "LastUpdate_Achievements": "2024-01-04T20:05:27.058153+00:00"
 }

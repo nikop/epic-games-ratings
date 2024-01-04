@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewPlayers": 283,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7734,
+  "EOS_Progressed": 7735,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -6748,6 +6748,11 @@
       "Time": "2024-01-04T17:05:34.479355+00:00",
       "NumProgressed": 7734,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2024-01-04T20:06:44.6122098+00:00",
+      "NumProgressed": 7735,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 27,
@@ -6791,7 +6796,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 4099
+      "UsersEstimate": 4100
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -6807,7 +6812,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1701
+      "UsersEstimate": 1702
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -6847,7 +6852,7 @@
       "Name": "A Learned Scholar",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "AK_ON_TOWN",
@@ -6871,7 +6876,7 @@
       "Name": "Prophecy Fulfilled",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "AK_PYRE_IGNITED",
@@ -6911,7 +6916,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4331
+      "UsersEstimate": 4332
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -6967,22 +6972,22 @@
       "Name": "Worthy of the Title",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1469
+      "UsersEstimate": 1470
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7734,
+      "Progressed": 7735,
       "Completed": 59
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2024-01-04T19:05:15.8140422+00:00",
+  "LastChanged_Achievements": "2024-01-04T20:06:44.6122096+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:57:02.2887263+00:00",
-  "LastUpdate_Ratings": "2024-01-04T19:03:11.9577051+00:00",
-  "LastUpdate_Achievements": "2024-01-04T19:05:15.8140923+00:00"
+  "LastUpdate_Ratings": "2024-01-04T20:04:05.7218529+00:00",
+  "LastUpdate_Achievements": "2024-01-04T20:06:44.6122601+00:00"
 }

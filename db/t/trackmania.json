@@ -2,12 +2,12 @@
   "ID": "b04882669b2e495e9f747c8560488c93",
   "Name": "Trackmania",
   "ProductSlug": "trackmania",
-  "Ranking_Rating": 301,
+  "Ranking_Rating": 300,
   "Ranking_Popularity": 85,
   "Ranking_PopularitySum": 40,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewPlayers": 567,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2020-07-01T15:00:00+00:00",
@@ -15348,10 +15348,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 34581,
       "NumberOfAwardsMax": 4287
+    },
+    {
+      "Time": "2024-01-04T20:01:21.1977135+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 34585,
+      "NumberOfAwardsMax": 4287
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 34581,
+  "NumberOfAwards": 34585,
   "NumberOfAwardsMax": 4287,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -15401,7 +15407,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 3491
+      "Count": 3493
     },
     {
       "Text": "This game has a Competitive Community",
@@ -15419,7 +15425,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 2098
+      "Count": 2100
     },
     {
       "Text": "This game has Amazing Characters",
@@ -15439,8 +15445,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2024-01-04T17:00:09.5093015+00:00",
+  "LastChanged": "2024-01-04T20:01:21.1977133+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:20.9854807+00:00",
-  "LastUpdate_Ratings": "2024-01-04T18:59:44.4387425+00:00",
-  "LastUpdate_Achievements": "2024-01-04T19:09:27.4337618+00:00"
+  "LastUpdate_Ratings": "2024-01-04T20:01:21.1977141+00:00",
+  "LastUpdate_Achievements": "2024-01-04T20:10:43.0381749+00:00"
 }

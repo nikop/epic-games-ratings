@@ -13,7 +13,7 @@
 | Locked Away | 35.00% | ~16 |
 | A Little Renovating | 35.00% | ~16 |
 | It's a Sign! | 30.00% | ~14 |
-| Deflect This! | 26.00% | ~12 |
+| Deflect This! | 28.00% | ~13 |
 | Just Some Improvements | 22.00% | ~10 |
 | My Precious Gems! | 20.00% | ~9 |
 | A Little Extra Love | 20.00% | ~9 |

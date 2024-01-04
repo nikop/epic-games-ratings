@@ -1,43 +1,43 @@
 # Transport Fever 2
 [Store](https://store.epicgames.com/en-US/p/transport-fever-2)  
 [View Rawdata](../../db/t/transport_fever_2.json)  
-Rating: 4.67 (Ranked 284)  
+Rating: 4.67 (Ranked 283)  
 Number of Ratings: 180  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First line | 74.00% | ~1,721 |
+| First line | 74.00% | ~1,722 |
 | First cargo item waiting | 68.00% | ~1,582 |
-| First cargo item on board | 67.00% | ~1,558 |
-| First bus stop | 66.00% | ~1,535 |
-| First passenger on board | 63.00% | ~1,465 |
-| First passenger waiting | 63.00% | ~1,465 |
-| First bus arrived | 62.00% | ~1,442 |
+| First cargo item on board | 67.00% | ~1,559 |
+| First bus stop | 66.00% | ~1,536 |
+| First passenger on board | 63.00% | ~1,466 |
+| First passenger waiting | 63.00% | ~1,466 |
+| First bus arrived | 62.00% | ~1,443 |
 | First train station | 60.00% | ~1,396 |
 | First steam train arrived | 56.00% | ~1,303 |
 | Cadet | 53.00% | ~1,233 |
 | First industry upgraded | 53.00% | ~1,233 |
-| Transport millionaire | 51.00% | ~1,186 |
+| Transport millionaire | 51.00% | ~1,187 |
 | Transport master | 49.00% | ~1,140 |
 | Cargo hub | 49.00% | ~1,140 |
 | Sculpturer | 46.00% | ~1,070 |
 | Settled down | 45.00% | ~1,047 |
-| First electric train arrived | 43.00% | ~1,000 |
-| Now what? | 43.00% | ~1,000 |
+| First electric train arrived | 43.00% | ~1,001 |
+| Now what? | 43.00% | ~1,001 |
 | First ship arrived | 42.00% | ~977 |
 | Exemplary student | 41.00% | ~954 |
-| High speed | 39.00% | ~907 |
+| High speed | 39.00% | ~908 |
 | First aircraft arrived | 38.00% | ~884 |
 | Transport shark | 37.00% | ~861 |
-| Mass production | 32.00% | ~744 |
+| Mass production | 32.00% | ~745 |
 | Aircraft entrepreneur | 30.00% | ~698 |
-| Crowd in a train | 28.00% | ~651 |
-| The future is now, old man | 28.00% | ~651 |
+| Crowd in a train | 28.00% | ~652 |
+| The future is now, old man | 28.00% | ~652 |
 | Not in my backyard | 27.00% | ~628 |
 | City | 26.00% | ~605 |
 | The king of the sea | 26.00% | ~605 |
-| Transport tycoon | 21.00% | ~488 |
-| Old timer | 21.00% | ~488 |
+| Transport tycoon | 21.00% | ~489 |
+| Old timer | 21.00% | ~489 |
 | Climate change | 20.00% | ~465 |
 | The ugly smell of success | 20.00% | ~465 |
 | Heavily loaded | 19.00% | ~442 |
@@ -68,7 +68,7 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.20% | ~5 |
 | Museum line | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,326 (Ranked 238)  
+Progressed: 2,327 (Ranked 238)  
 Completed: 1 (0.04%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,10 +312,10 @@ Completed: 1 (0.04%) (Ranked 347)
 | 2024-01-01 | 2,280 | 1 |
 | 2024-01-02 | 2,299 | 1 |
 | 2024-01-03 | 2,314 | 1 |
-| 2024-01-04 | 2,326 | 1 |
+| 2024-01-04 | 2,327 | 1 |
 ## Awards
 Max (Great for Beginners): 50  (Ranked 453)  
-Sum: 331 (Ranked 373)  
+Sum: 332 (Ranked 373)  
 Diff (max vs sum): 80  
 | Award | Count |
 | ----- | ----- |
@@ -323,7 +323,7 @@ Diff (max vs sum): 80
 | This game is Highly Recommended | 45 |
 | This game has Amazing Storytelling | 39 |
 | This game is Extremely Fun | 38 |
-| This game is Relaxing | 35 |
+| This game is Relaxing | 36 |
 | This game has Quickly Understood Controls | 35 |
 | This game has a Creative Community | 33 |
 | This game is Educational | 30 |
@@ -453,3 +453,4 @@ Diff (max vs sum): 80
 | 2023-12-30 | 4.68 | - | 49 | 330 |
 | 2023-12-31 | 4.68 | - | 50 | 331 |
 | 2024-01-03 | 4.67 | - | 50 | 331 |
+| 2024-01-04 | 4.67 | - | 50 | 332 |

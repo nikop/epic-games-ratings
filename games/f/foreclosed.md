@@ -18,8 +18,8 @@
 | Unstoppable | 16.00% | ~22 |
 | Flatline | 16.00% | ~22 |
 | Mind Over Matter | 16.00% | ~22 |
-| Full and Final Settlement | 14.00% | ~20 |
-| One Click Away | 14.00% | ~20 |
+| Full and Final Settlement | 15.00% | ~21 |
+| One Click Away | 15.00% | ~21 |
 | Cyborg | 11.00% | ~15 |
 | Lifter | 8.00% | ~11 |
 | Brain-hacker | 8.00% | ~11 |

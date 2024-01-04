@@ -6,25 +6,25 @@ Rating: 4.52 (Ranked 574)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Feels Familiar | 74.00% | ~1,083 |
-| I Broke It | 73.00% | ~1,068 |
-| Better On Ice | 68.00% | ~995 |
+| I Broke It | 73.00% | ~1,069 |
+| Better On Ice | 68.00% | ~996 |
 | Notai Notes | 66.00% | ~966 |
-| Blue Dreams | 65.00% | ~951 |
-| He's Famous! | 65.00% | ~951 |
-| Cutie Poro | 65.00% | ~951 |
+| Blue Dreams | 65.00% | ~952 |
+| He's Famous! | 65.00% | ~952 |
+| Cutie Poro | 65.00% | ~952 |
 | Krugmazing | 63.00% | ~922 |
 | Moneyball | 60.00% | ~878 |
 | The Fire Below the Mountain | 60.00% | ~878 |
 | Iceborn | 55.00% | ~805 |
-| No Bites | 54.00% | ~790 |
+| No Bites | 54.00% | ~791 |
+| Tear of Freedom | 52.00% | ~761 |
 | Boom Things | 52.00% | ~761 |
-| Tear of Freedom | 51.00% | ~746 |
 | My Darkest Day | 49.00% | ~717 |
+| The Relentless Storm | 47.00% | ~688 |
 | Rhythm Of Willump | 46.00% | ~673 |
-| The Relentless Storm | 46.00% | ~673 |
-| A Tragic Reminder | 45.00% | ~658 |
+| A Tragic Reminder | 45.00% | ~659 |
 | 3000 Year Blackout | 44.00% | ~644 |
-| The Finisher | 42.00% | ~614 |
+| The Finisher | 42.00% | ~615 |
 | So Close | 41.00% | ~600 |
 | You Get Used To It | 41.00% | ~600 |
 | Family | 39.00% | ~571 |
@@ -37,7 +37,7 @@ Rating: 4.52 (Ranked 574)
 | It Is Not Over | 35.00% | ~512 |
 | On The Rocks | 33.00% | ~483 |
 | Snowy Poro | 32.00% | ~468 |
-| Never Gets Old | 32.00% | ~468 |
+| Never Gets Old | 31.00% | ~454 |
 | Vertical Power | 27.00% | ~395 |
 | One From The Heart | 13.00% | ~190 |
 | Yummy | 10.00% | ~146 |
@@ -50,8 +50,8 @@ Rating: 4.52 (Ranked 574)
 | We Are Speed | 2.00% | ~29 |
 | Sneaky Notai | 1.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,463 (Ranked 265)  
-Completed: 9 (0.62%) (Ranked 204)  
+Progressed: 1,464 (Ranked 265)  
+Completed: 9 (0.61%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -126,7 +126,7 @@ Completed: 9 (0.62%) (Ranked 204)
 | 2024-01-01 | 1,425 | 9 |
 | 2024-01-02 | 1,441 | 9 |
 | 2024-01-03 | 1,451 | 9 |
-| 2024-01-04 | 1,463 | 9 |
+| 2024-01-04 | 1,464 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

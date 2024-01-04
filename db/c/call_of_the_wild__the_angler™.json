@@ -2,7 +2,7 @@
   "ID": "75d74aeb36024d95b8a30bad40dc19c3",
   "Name": "Call of the Wild: The Angler\u2122",
   "ProductSlug": "call-of-the-wild-the-angler",
-  "Ranking_Rating": 948,
+  "Ranking_Rating": 947,
   "Ranking_Popularity": 477,
   "Ranking_PopularitySum": 408,
   "Ranking_EOS_Progress": 189,
@@ -1021,9 +1021,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 7954,
+  "EOS_Progressed": 7955,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 273,
+  "EOS_NewPlayers": 270,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13191,6 +13191,11 @@
       "Time": "2024-01-04T19:06:31.659992+00:00",
       "NumProgressed": 7954,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T20:08:41.561276+00:00",
+      "NumProgressed": 7955,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -13226,7 +13231,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -13258,7 +13263,7 @@
       "Name": "Scaling up",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 954
+      "UsersEstimate": 955
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -13521,13 +13526,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7954,
+      "Progressed": 7955,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7326,
+      "Progressed": 7327,
       "Completed": 113
     }
   ],
@@ -13535,8 +13540,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-03T21:01:30.920658+00:00",
-  "LastChanged_Achievements": "2024-01-04T19:06:31.6599917+00:00",
+  "LastChanged_Achievements": "2024-01-04T20:08:41.5612756+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:09.4029638+00:00",
-  "LastUpdate_Ratings": "2024-01-04T19:02:24.3278621+00:00",
-  "LastUpdate_Achievements": "2024-01-04T19:06:31.6600745+00:00"
+  "LastUpdate_Ratings": "2024-01-04T20:03:03.6235241+00:00",
+  "LastUpdate_Achievements": "2024-01-04T20:08:41.5613608+00:00"
 }

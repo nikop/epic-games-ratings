@@ -11,12 +11,12 @@ Number of Ratings: 116  (23.09.2022)
 | Helping Hand | 64.00% | ~268 |
 | Increased Vigor | 60.00% | ~251 |
 | Fight Fire with Fire | 58.00% | ~243 |
-| Increased Capacity | 53.00% | ~222 |
+| Increased Capacity | 54.00% | ~226 |
 | Just the start | 48.00% | ~201 |
 | Perfect Storm | 46.00% | ~193 |
 | All That Glitters | 46.00% | ~193 |
 | Enhance! | 42.00% | ~176 |
-| One Of the Chosen | 38.00% | ~159 |
+| One Of the Chosen | 39.00% | ~163 |
 | Throne Potato | 38.00% | ~159 |
 | Five's a Crowd | 38.00% | ~159 |
 | Devil's in the Details | 37.00% | ~155 |
@@ -26,8 +26,8 @@ Number of Ratings: 116  (23.09.2022)
 | Unshakable Fortitude | 33.00% | ~138 |
 | I Wanna Rock | 32.00% | ~134 |
 | Delusions of Grandeur | 32.00% | ~134 |
+| Maximum Vigor | 30.00% | ~126 |
 | Love Tap | 30.00% | ~126 |
-| Maximum Vigor | 29.00% | ~122 |
 | Freeze Frame | 27.00% | ~113 |
 | Eat Your Heart Out | 27.00% | ~113 |
 | For Whom the Bell Tolls | 27.00% | ~113 |

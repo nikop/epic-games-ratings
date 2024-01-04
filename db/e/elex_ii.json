@@ -1282,9 +1282,9 @@
       "ID": "1000ELEXIT",
       "SetID": "a1angca",
       "Name": "Entrepreneur",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 71
     },
     {
       "ID": "100HEALS",
@@ -1306,9 +1306,9 @@
       "ID": "10MAPPARTS",
       "SetID": "a1angca",
       "Name": "Treasure Hunter",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "20AUDIOLOGS",
@@ -1538,17 +1538,17 @@
       "ID": "FINDBILLY",
       "SetID": "a1angca",
       "Name": "Festival-goer",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "FINDCITY",
       "SetID": "a1angca",
       "Name": "Civilian",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 55
     },
     {
       "ID": "FINDCRONY",
@@ -1570,9 +1570,9 @@
       "ID": "FINDWARDEK",
       "SetID": "a1angca",
       "Name": "Family Reunion",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "FUTUREIRISSA",
@@ -1674,8 +1674,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2024-01-04T19:03:47.6425249+00:00",
+  "LastChanged_Achievements": "2024-01-04T20:04:53.9554564+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:16.9599546+00:00",
-  "LastUpdate_Ratings": "2024-01-04T18:57:07.0560458+00:00",
-  "LastUpdate_Achievements": "2024-01-04T19:03:47.6425571+00:00"
+  "LastUpdate_Ratings": "2024-01-04T19:57:47.3319457+00:00",
+  "LastUpdate_Achievements": "2024-01-04T20:04:53.9554883+00:00"
 }

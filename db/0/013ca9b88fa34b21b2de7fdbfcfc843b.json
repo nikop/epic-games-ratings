@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -247,9 +247,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8856,
+  "EOS_Progressed": 8858,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9682,6 +9682,11 @@
       "Time": "2024-01-04T19:09:54.7686068+00:00",
       "NumProgressed": 8856,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-04T20:11:16.905456+00:00",
+      "NumProgressed": 8858,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -10020,9 +10025,9 @@
       "ID": "DLC1_ACHIEVEMENT_07",
       "SetID": "6p01o4j",
       "Name": "Going Down",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "DLC1_ACHIEVEMENT_08",
@@ -10037,13 +10042,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8856,
+      "Progressed": 8858,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1473,
+      "Progressed": 1475,
       "Completed": 1050
     }
   ],
@@ -10051,8 +10056,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2024-01-04T01:49:56.9201089+00:00",
-  "LastChanged_Achievements": "2024-01-04T19:09:54.7686065+00:00",
+  "LastChanged_Achievements": "2024-01-04T20:11:16.9054557+00:00",
   "LastUpdate_AppInfo": "2023-12-29T11:57:18.9799571+00:00",
-  "LastUpdate_Ratings": "2024-01-04T19:03:11.2233142+00:00",
-  "LastUpdate_Achievements": "2024-01-04T19:09:54.7687021+00:00"
+  "LastUpdate_Ratings": "2024-01-04T20:04:04.4869149+00:00",
+  "LastUpdate_Achievements": "2024-01-04T20:11:16.9055316+00:00"
 }

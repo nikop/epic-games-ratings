@@ -2,8 +2,8 @@
   "ID": "64f5543ade2942d59ae4e0321915e0da",
   "Name": "Laika: Aged Through Blood",
   "ProductSlug": "laika-3293ee",
-  "Ranking_EOS_Progress": 370,
-  "Ranking_EOS_Completed": 213,
+  "Ranking_EOS_Progress": 369,
+  "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 380,
+  "EOS_Progressed": 381,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.53,
+  "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
     {
       "Time": "2023-10-17T15:03:17.566478+00:00",
@@ -1499,6 +1499,11 @@
       "Time": "2024-01-04T19:05:29.1260444+00:00",
       "NumProgressed": 380,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-04T20:07:02.4684712+00:00",
+      "NumProgressed": 381,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -1567,7 +1572,7 @@
       "Name": "Gambler",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "AC_BLACKJACK_GAMES_2",
@@ -1583,7 +1588,7 @@
       "Name": "Hunger",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "AC_BOSS_01",
@@ -1623,7 +1628,7 @@
       "Name": "Pack",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "AC_COMBO_2",
@@ -1703,7 +1708,7 @@
       "Name": "Excursion",
       "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -1846,14 +1851,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 380,
+      "Progressed": 381,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-04T19:05:29.1260441+00:00",
+  "LastChanged_Achievements": "2024-01-04T20:07:02.4684708+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:05.7124829+00:00",
-  "LastUpdate_Ratings": "2024-01-04T19:00:17.2059801+00:00",
-  "LastUpdate_Achievements": "2024-01-04T19:05:29.1260786+00:00"
+  "LastUpdate_Ratings": "2024-01-04T20:02:55.1409253+00:00",
+  "LastUpdate_Achievements": "2024-01-04T20:07:02.4685038+00:00"
 }

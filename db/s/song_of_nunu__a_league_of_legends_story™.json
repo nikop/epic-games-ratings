@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -69,11 +69,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1463,
+  "EOS_Progressed": 1464,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.62,
+  "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
     {
       "Time": "2023-10-23T07:07:08.0528773+00:00",
@@ -3854,6 +3854,11 @@
       "Time": "2024-01-04T19:09:55.7878473+00:00",
       "NumProgressed": 1463,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-04T20:11:18.360121+00:00",
+      "NumProgressed": 1464,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-10-23T06:09:19.5228409+00:00",
@@ -3866,7 +3871,7 @@
       "Name": "Blue Dreams",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 951
+      "UsersEstimate": 952
     },
     {
       "ID": "EV_ACH02",
@@ -3882,7 +3887,7 @@
       "Name": "He\u0027s Famous!",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 951
+      "UsersEstimate": 952
     },
     {
       "ID": "EV_ACH04",
@@ -3890,15 +3895,15 @@
       "Name": "No Bites",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "EV_ACH05",
       "SetID": "6jeac23",
       "Name": "Tear of Freedom",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 746
+      "UsersEstimate": 761
     },
     {
       "ID": "EV_ACH06",
@@ -3906,7 +3911,7 @@
       "Name": "A Tragic Reminder",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "EV_ACH07",
@@ -3978,7 +3983,7 @@
       "Name": "Better On Ice",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     },
     {
       "ID": "EV_ACH16",
@@ -4048,9 +4053,9 @@
       "ID": "EV_ACH24",
       "SetID": "6jeac23",
       "Name": "Never Gets Old",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 468
+      "UsersEstimate": 454
     },
     {
       "ID": "EV_ACH25",
@@ -4074,7 +4079,7 @@
       "Name": "I Broke It",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1069
     },
     {
       "ID": "EV_ACH28",
@@ -4090,7 +4095,7 @@
       "Name": "Cutie Poro",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 951
+      "UsersEstimate": 952
     },
     {
       "ID": "EV_ACH30",
@@ -4144,9 +4149,9 @@
       "ID": "EV_ACH36",
       "SetID": "6jeac23",
       "Name": "The Relentless Storm",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 673
+      "UsersEstimate": 688
     },
     {
       "ID": "EV_ACH37",
@@ -4154,7 +4159,7 @@
       "Name": "The Finisher",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "EV_ACH38",
@@ -4217,7 +4222,7 @@
     {
       "ID": "6jeac23",
       "IsBase": true,
-      "Progressed": 1463,
+      "Progressed": 1464,
       "Completed": 9
     }
   ],
@@ -4225,8 +4230,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2023-12-25T19:59:38.6529887+00:00",
-  "LastChanged_Achievements": "2024-01-04T19:09:55.7878471+00:00",
+  "LastChanged_Achievements": "2024-01-04T20:11:18.3601207+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:31.1823177+00:00",
-  "LastUpdate_Ratings": "2024-01-04T18:57:26.5918693+00:00",
-  "LastUpdate_Achievements": "2024-01-04T19:09:55.7878908+00:00"
+  "LastUpdate_Ratings": "2024-01-04T19:58:12.6012895+00:00",
+  "LastUpdate_Achievements": "2024-01-04T20:11:18.3601644+00:00"
 }

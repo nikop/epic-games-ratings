@@ -4,7 +4,7 @@
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
   "Ranking_EOS_Progress": 405,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 269,
+  "EOS_Progressed": 270,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1159,6 +1159,11 @@
       "Time": "2024-01-04T19:04:26.415013+00:00",
       "NumProgressed": 269,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T20:05:43.78158+00:00",
+      "NumProgressed": 270,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-05T15:06:14.3136114+00:00",
@@ -1259,7 +1264,7 @@
       "Name": "I do not like your face, Mr Ratchett",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "20",
@@ -1299,7 +1304,7 @@
       "Name": "Just like a police lineup",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "25",
@@ -1386,14 +1391,14 @@
     {
       "ID": "6bgoh8g",
       "IsBase": true,
-      "Progressed": 269,
+      "Progressed": 270,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2024-01-04T19:04:26.4150126+00:00",
+  "LastChanged_Achievements": "2024-01-04T20:05:43.7815791+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:18.4677846+00:00",
-  "LastUpdate_Ratings": "2024-01-04T19:03:01.6859927+00:00",
-  "LastUpdate_Achievements": "2024-01-04T19:04:26.4150385+00:00"
+  "LastUpdate_Ratings": "2024-01-04T20:03:51.8101689+00:00",
+  "LastUpdate_Achievements": "2024-01-04T20:05:43.7816026+00:00"
 }

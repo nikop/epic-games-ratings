@@ -2,9 +2,9 @@
   "ID": "a657bc575c164ebf9380c00e2da4abbc",
   "Name": "Chaos Galaxy",
   "ProductSlug": "chaos-galaxy-a33dac",
-  "Ranking_EOS_Progress": 536,
+  "Ranking_EOS_Progress": 535,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 479,
+  "Ranking_EOS_NewPlayers": 454,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-04-10T11:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 59,
+  "EOS_Progressed": 60,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -279,6 +279,11 @@
       "Time": "2024-01-03T04:04:44.4482107+00:00",
       "NumProgressed": 59,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T20:07:02.1086602+00:00",
+      "NumProgressed": 60,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -344,7 +349,7 @@
       "ID": "16",
       "SetID": "4fgie3j",
       "Name": "Great Civil War",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
       "UsersEstimate": 8
     },
@@ -673,14 +678,14 @@
     {
       "ID": "4fgie3j",
       "IsBase": true,
-      "Progressed": 59,
+      "Progressed": 60,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-23T23:01:17.0693395+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:09.8728342+00:00",
-  "LastChanged_Achievements": "2024-01-04T19:05:28.8541342+00:00",
+  "LastChanged_Achievements": "2024-01-04T20:07:02.1086595+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:52.3878731+00:00",
-  "LastUpdate_Ratings": "2024-01-04T18:59:49.2590577+00:00",
-  "LastUpdate_Achievements": "2024-01-04T19:05:28.8541719+00:00"
+  "LastUpdate_Ratings": "2024-01-04T20:01:27.5410814+00:00",
+  "LastUpdate_Achievements": "2024-01-04T20:07:02.1087124+00:00"
 }

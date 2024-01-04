@@ -4,7 +4,7 @@
   "ProductSlug": "sir-whoopass-757c5c",
   "Ranking_EOS_Progress": 449,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 385,
+  "Ranking_EOS_NewPlayers": 387,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-05-19T23:00:00+00:00",
@@ -1285,9 +1285,9 @@
       "ID": "OUT_OF_BOUNDS",
       "SetID": "9gfkh7c",
       "Name": "Out of bounds",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "SHARK",
@@ -1341,9 +1341,9 @@
       "ID": "WORM_1",
       "SetID": "9gfkh7c",
       "Name": "Slimy... yet satisfying",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     }
   ],
   "AchievementSets": [
@@ -1356,8 +1356,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2024-01-04T19:09:58.3076707+00:00",
+  "LastChanged_Achievements": "2024-01-04T20:11:21.4064103+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:32.4318618+00:00",
-  "LastUpdate_Ratings": "2024-01-04T19:03:05.1412549+00:00",
-  "LastUpdate_Achievements": "2024-01-04T19:09:58.30775+00:00"
+  "LastUpdate_Ratings": "2024-01-04T20:03:56.533834+00:00",
+  "LastUpdate_Achievements": "2024-01-04T20:11:21.4065011+00:00"
 }

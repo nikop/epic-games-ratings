@@ -383,9 +383,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7088,
+  "EOS_Progressed": 7091,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8308,6 +8308,11 @@
       "Time": "2024-01-04T19:08:39.6153539+00:00",
       "NumProgressed": 7088,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-04T20:09:41.5431558+00:00",
+      "NumProgressed": 7091,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -8429,9 +8434,9 @@
       "ID": "DeckTheBalls",
       "SetID": "5f3a6d9",
       "Name": "Deck the Balls",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 29
     },
     {
       "ID": "DnD_Ashley",
@@ -8687,7 +8692,7 @@
       "Name": "Smooth Operator: Madison",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "SmellBlood",
@@ -8870,21 +8875,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 4127,
+      "Progressed": 4130,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 7088,
+      "Progressed": 7091,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-12-30T21:02:21.4914587+00:00",
-  "LastChanged_Achievements": "2024-01-04T19:08:39.6153534+00:00",
+  "LastChanged_Achievements": "2024-01-04T20:09:41.5431555+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:40.2112681+00:00",
-  "LastUpdate_Ratings": "2024-01-04T18:58:56.700246+00:00",
-  "LastUpdate_Achievements": "2024-01-04T19:08:39.6155109+00:00"
+  "LastUpdate_Ratings": "2024-01-04T20:00:14.5467866+00:00",
+  "LastUpdate_Achievements": "2024-01-04T20:09:41.54324+00:00"
 }

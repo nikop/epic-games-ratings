@@ -6,16 +6,16 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 29.00% | ~74,481 |
-| Powergamer | 27.00% | ~69,344 |
+| I will finish what you started | 29.00% | ~74,482 |
+| Powergamer | 27.00% | ~69,345 |
 | Write that down | 25.00% | ~64,208 |
 | Barely scratched the surface | 25.00% | ~64,208 |
 | Guns, lots of guns | 13.00% | ~33,388 |
 | Collector | 12.00% | ~30,820 |
 | Elementary! | 9.00% | ~23,115 |
-| Griever | 8.00% | ~20,546 |
-| Pumpkin Jack | 8.00% | ~20,546 |
-| Wake up! | 8.00% | ~20,546 |
+| Griever | 8.00% | ~20,547 |
+| Pumpkin Jack | 8.00% | ~20,547 |
+| Wake up! | 8.00% | ~20,547 |
 | It's honest work | 7.00% | ~17,978 |
 | Me smart | 6.00% | ~15,410 |
 | Trash compactor | 6.00% | ~15,410 |
@@ -43,7 +43,7 @@ Number of Ratings: 33  (23.09.2022)
 | SysOp on duty | 1.00% | ~2,568 |
 | Take the blue pill | 1.00% | ~2,568 |
 | The power of three | 1.00% | ~2,568 |
-| Let's try another | 0.90% | ~2,311 |
+| Let's try another | 0.90% | ~2,312 |
 | It's blue, always blue | 0.80% | ~2,055 |
 | Home run | 0.80% | ~2,055 |
 | I have the high ground | 0.70% | ~1,798 |
@@ -52,14 +52,14 @@ Number of Ratings: 33  (23.09.2022)
 | Irondec | 0.40% | ~1,027 |
 | LET ME OUT! | 0.40% | ~1,027 |
 | Un-bear-able | 0.40% | ~1,027 |
-| Well-deserved reunion | 0.30% | ~770 |
+| Well-deserved reunion | 0.30% | ~771 |
 | Breaking the chains | 0.20% | ~514 |
 | Aren't you overthinking? | 0.20% | ~514 |
 | Take the red pill | 0.20% | ~514 |
 | This is the way | 0.20% | ~514 |
 | Memory 5 | 0.10% | ~257 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 256,830 (Ranked 68)  
+Progressed: 256,834 (Ranked 68)  
 Completed: 8 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 8 (0.00%) (Ranked 393)
 | 2024-01-01 | 256,524 | 8 |
 | 2024-01-02 | 256,627 | 8 |
 | 2024-01-03 | 256,748 | 8 |
-| 2024-01-04 | 256,830 | 8 |
+| 2024-01-04 | 256,834 | 8 |
 ## Awards
 Max (Character Customization): 96  (Ranked 383)  
 Sum: 96 (Ranked 467)  

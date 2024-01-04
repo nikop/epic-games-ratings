@@ -2,13 +2,13 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 544,
+  "Ranking_Rating": 546,
   "Ranking_Popularity": 579,
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 245,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18187,
+  "EOS_Progressed": 18191,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 522,
+  "EOS_NewPlayers": 519,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -16275,6 +16275,11 @@
       "Time": "2024-01-04T19:05:01.6622602+00:00",
       "NumProgressed": 18187,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-04T20:06:26.9903948+00:00",
+      "NumProgressed": 18191,
+      "NumCompleted": 58
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16303,7 +16308,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2182
+      "UsersEstimate": 2183
     },
     {
       "ID": "12",
@@ -16327,7 +16332,7 @@
       "Name": "Doctor Approved",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 909
+      "UsersEstimate": 910
     },
     {
       "ID": "15",
@@ -16357,9 +16362,9 @@
       "ID": "18",
       "SetID": "458bbdk",
       "Name": "Bottoms up!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 909
+      "UsersEstimate": 1091
     },
     {
       "ID": "19",
@@ -16367,7 +16372,7 @@
       "Name": "Martian Music",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2182
+      "UsersEstimate": 2183
     },
     {
       "ID": "2",
@@ -16375,7 +16380,7 @@
       "Name": "Data Logger",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "20",
@@ -16415,7 +16420,7 @@
       "Name": "Miraculous Maya",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "25",
@@ -16439,7 +16444,7 @@
       "Name": "Bosmang",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 2182
+      "UsersEstimate": 2183
     },
     {
       "ID": "28",
@@ -16463,7 +16468,7 @@
       "Name": "Captain Drummer",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2364
+      "UsersEstimate": 2365
     },
     {
       "ID": "30",
@@ -16495,7 +16500,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2364
+      "UsersEstimate": 2365
     },
     {
       "ID": "7",
@@ -16519,7 +16524,7 @@
       "Name": "Impossible Objects",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2182
+      "UsersEstimate": 2183
     },
     {
       "ID": "31",
@@ -16551,7 +16556,7 @@
       "Name": "Master Negotiator",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "35",
@@ -16566,13 +16571,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18187,
+      "Progressed": 18191,
       "Completed": 58
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4141,
+      "Progressed": 4145,
       "Completed": 1184
     }
   ],
@@ -16580,8 +16585,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T23:58:17.8612142+00:00",
-  "LastChanged_Achievements": "2024-01-04T19:05:01.6622598+00:00",
+  "LastChanged_Achievements": "2024-01-04T20:06:26.9903944+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2024-01-04T19:00:08.4178378+00:00",
-  "LastUpdate_Achievements": "2024-01-04T19:05:01.6623644+00:00"
+  "LastUpdate_Ratings": "2024-01-04T20:01:52.1915092+00:00",
+  "LastUpdate_Achievements": "2024-01-04T20:06:26.9905097+00:00"
 }

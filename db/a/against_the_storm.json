@@ -3767,9 +3767,9 @@
       "Count": 341
     }
   ],
-  "EOS_Progressed": 20129,
+  "EOS_Progressed": 20132,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 603,
+  "EOS_NewPlayers": 602,
   "EOS_NewCompleters": -3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -18422,6 +18422,11 @@
       "Time": "2024-01-04T19:05:36.509321+00:00",
       "NumProgressed": 20129,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2024-01-04T20:07:11.1370554+00:00",
+      "NumProgressed": 20132,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -18722,7 +18727,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1006
+      "UsersEstimate": 1007
     },
     {
       "ID": "WinPrestige10",
@@ -18834,7 +18839,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1610
+      "UsersEstimate": 1611
     },
     {
       "ID": "WinNearFrosts",
@@ -18842,7 +18847,7 @@
       "Name": "Frosts",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1006
+      "UsersEstimate": 1007
     },
     {
       "ID": "WinNearGreed",
@@ -18850,7 +18855,7 @@
       "Name": "Land of Greed",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1006
+      "UsersEstimate": 1007
     },
     {
       "ID": "WinNearLibrary",
@@ -18858,7 +18863,7 @@
       "Name": "Overgrown Library",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1610
+      "UsersEstimate": 1611
     },
     {
       "ID": "WinNearPetrified",
@@ -18874,7 +18879,7 @@
       "Name": "Ominous Presence",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1006
+      "UsersEstimate": 1007
     },
     {
       "ID": "WinNearStorms",
@@ -18905,15 +18910,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20129,
+      "Progressed": 20132,
       "Completed": 33
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-04T16:59:35.7370115+00:00",
-  "LastChanged_Achievements": "2024-01-04T19:05:36.5093206+00:00",
+  "LastChanged_Achievements": "2024-01-04T20:07:11.137055+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:03.5085053+00:00",
-  "LastUpdate_Ratings": "2024-01-04T18:59:11.3684092+00:00",
-  "LastUpdate_Achievements": "2024-01-04T19:05:36.509444+00:00"
+  "LastUpdate_Ratings": "2024-01-04T20:00:34.6158724+00:00",
+  "LastUpdate_Achievements": "2024-01-04T20:07:11.1371885+00:00"
 }

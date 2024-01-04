@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My Papyrus! | 77.00% | ~89 |
-| A Loyal Friend | 40.00% | ~46 |
-| Abandon Ship! | 28.00% | ~32 |
-| The Tomb of Kih-Oskh | 22.00% | ~26 |
+| My Papyrus! | 76.00% | ~89 |
+| A Loyal Friend | 39.00% | ~46 |
+| Abandon Ship! | 27.00% | ~32 |
+| The Tomb of Kih-Oskh | 21.00% | ~25 |
 | The Weighing of the Soul | 20.00% | ~23 |
 | The Curse of Kih-Oskh | 17.00% | ~20 |
 | It's a Deal! | 14.00% | ~16 |
 | Cat Lover | 12.00% | ~14 |
 | Dynamite, Treason and Coconuts | 12.00% | ~14 |
+| Save a Friend | 11.00% | ~13 |
 | In the Name of the Law | 10.00% | ~12 |
 | Au Revoir, Abudin | 10.00% | ~12 |
-| Save a Friend | 10.00% | ~12 |
-| Mysterious Bungalow | 9.00% | ~10 |
+| Mysterious Bungalow | 9.00% | ~11 |
 | The Eyes! | 8.00% | ~9 |
 | Keep the Doctor Away | 8.00% | ~9 |
 | Just a Palm Tree | 8.00% | ~9 |
@@ -28,10 +28,10 @@
 | Eyes Shut | 6.00% | ~7 |
 | Barking Dog | 6.00% | ~7 |
 | Mountain Runner | 4.00% | ~5 |
-| The Corporal's Golden Boy | 3.00% | ~3 |
-| A Yummy Detour | 3.00% | ~3 |
-| Subtlety | 3.00% | ~3 |
-| Threat | 3.00% | ~3 |
+| The Corporal's Golden Boy | 3.00% | ~4 |
+| A Yummy Detour | 3.00% | ~4 |
+| Subtlety | 3.00% | ~4 |
+| Threat | 3.00% | ~4 |
 | A Diagnosis | 2.00% | ~2 |
 | Jungle Runner | 2.00% | ~2 |
 | The Pharaoh's New Clothes | 2.00% | ~2 |
@@ -42,7 +42,7 @@
 | Trials of Kih-Oskh | 0.00% | ~0 |
 | Escaping War | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 116 (Ranked 476)  
+Progressed: 117 (Ranked 476)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,3 +88,4 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-01 | 112 | 0 |
 | 2024-01-02 | 113 | 0 |
 | 2024-01-03 | 116 | 0 |
+| 2024-01-04 | 117 | 0 |

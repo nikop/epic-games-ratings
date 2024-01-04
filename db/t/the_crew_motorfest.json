@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 141,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewPlayers": 567,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-09-14T08:00:00+00:00",
@@ -3933,11 +3933,17 @@
       "Rating": 4.65,
       "NumberOfAwards": 5342,
       "NumberOfAwardsMax": 668
+    },
+    {
+      "Time": "2024-01-04T20:03:55.6664806+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 5364,
+      "NumberOfAwardsMax": 676
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5342,
-  "NumberOfAwardsMax": 668,
+  "NumberOfAwards": 5364,
+  "NumberOfAwardsMax": 676,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
@@ -3950,7 +3956,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 668
+      "Count": 676
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3968,7 +3974,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 554
+      "Count": 561
     },
     {
       "Text": "This game has a Competitive Community",
@@ -3980,7 +3986,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 518
+      "Count": 525
     },
     {
       "Text": "This game has Competitive Players",
@@ -4019,8 +4025,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-14T08:57:08.1529881+00:00",
   "FirstSeenRating": "2023-09-15T10:57:58.1384789+00:00",
-  "LastChanged": "2024-01-04T18:03:13.5791339+00:00",
+  "LastChanged": "2024-01-04T20:03:55.6664804+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:30.3901748+00:00",
-  "LastUpdate_Ratings": "2024-01-04T19:03:04.4879597+00:00",
-  "LastUpdate_Achievements": "2024-01-04T19:09:09.0371093+00:00"
+  "LastUpdate_Ratings": "2024-01-04T20:03:55.6664809+00:00",
+  "LastUpdate_Achievements": "2024-01-04T20:10:19.8169923+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -329,11 +329,11 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 709,
+  "EOS_Progressed": 712,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 245,
+  "EOS_NewPlayers": 246,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 0.99,
+  "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
       "Time": "2023-12-18T11:05:17.4237079+00:00",
@@ -1919,6 +1919,11 @@
       "Time": "2024-01-04T18:04:46.2134493+00:00",
       "NumProgressed": 709,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-04T20:05:57.5279272+00:00",
+      "NumProgressed": 712,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -1931,15 +1936,15 @@
       "Name": "Robot encyclopedia",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_ARE_YOU_READY_NOW",
       "SetID": "biiejkc",
       "Name": "Are you ready now?",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_CHUM_BUCKET_BRAIN",
@@ -2003,7 +2008,7 @@
       "Name": "Jellyfishing",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_JELLYFISH_JAM",
@@ -2115,7 +2120,7 @@
       "Name": "Ultra Spatula Seeker",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_STAT_75_SPATULA_SEEKER",
@@ -2145,9 +2150,9 @@
       "ID": "ACH_STAT_SPONGE_SMASHER",
       "SetID": "biiejkc",
       "Name": "Sponge Smasher",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
@@ -2186,15 +2191,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 709,
+      "Progressed": 712,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-01T20:58:26.8279253+00:00",
-  "LastChanged_Achievements": "2024-01-04T19:04:37.231642+00:00",
+  "LastChanged_Achievements": "2024-01-04T20:05:57.5279266+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:11.8880921+00:00",
-  "LastUpdate_Ratings": "2024-01-04T18:59:45.6882112+00:00",
-  "LastUpdate_Achievements": "2024-01-04T19:04:37.2316715+00:00"
+  "LastUpdate_Ratings": "2024-01-04T20:01:22.6630102+00:00",
+  "LastUpdate_Achievements": "2024-01-04T20:05:57.5279534+00:00"
 }

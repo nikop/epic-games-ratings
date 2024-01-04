@@ -2,9 +2,9 @@
   "ID": "dae5ac373ed9475a8edd99f3c7f5b010",
   "Name": "Frogun",
   "ProductSlug": "frogun-9cf69e",
-  "Ranking_EOS_Progress": 417,
+  "Ranking_EOS_Progress": 416,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 454,
+  "Ranking_EOS_NewPlayers": 443,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-08-02T14:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 235,
+  "EOS_Progressed": 236,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.7,
+  "EOS_Completed_Percentage": 1.69,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:55.639606+00:00",
@@ -255,6 +255,11 @@
       "Time": "2024-01-03T23:08:29.5775716+00:00",
       "NumProgressed": 235,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-04T20:08:54.1561603+00:00",
+      "NumProgressed": 236,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 31,
@@ -266,7 +271,7 @@
       "Name": "Coin collector",
       "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "Achievement_Beelzebub",
@@ -282,7 +287,7 @@
       "Name": "Treasure hunter",
       "Percentage": 91,
       "XP": 20,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "Achievement_Hexy",
@@ -306,7 +311,7 @@
       "Name": "Survivalist",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "Achievement_Notes",
@@ -314,7 +319,7 @@
       "Name": "Historian",
       "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "Achievement_Prickly",
@@ -330,7 +335,7 @@
       "Name": "On foot racer",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "Achievement_RaceAll",
@@ -354,7 +359,7 @@
       "Name": "Challenge seeker",
       "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "Achievement_TimeTrial",
@@ -362,7 +367,7 @@
       "Name": "Speedrunner",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "Achievement_Wrintry",
@@ -434,7 +439,7 @@
       "Name": "Protected",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "Achievement_hitJake",
@@ -513,7 +518,7 @@
     {
       "ID": "cn6a29l",
       "IsBase": true,
-      "Progressed": 235,
+      "Progressed": 236,
       "Completed": 4
     }
   ],
@@ -521,8 +526,8 @@
   "FirstSeenRating": "2023-03-31T05:57:36.5225978+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.6396069+00:00",
   "LastChanged": "2023-03-31T05:57:36.5225979+00:00",
-  "LastChanged_Achievements": "2024-01-04T19:08:02.5101354+00:00",
+  "LastChanged_Achievements": "2024-01-04T20:08:54.1561599+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:21.6981562+00:00",
-  "LastUpdate_Ratings": "2024-01-04T19:02:50.92103+00:00",
-  "LastUpdate_Achievements": "2024-01-04T19:08:02.5101611+00:00"
+  "LastUpdate_Ratings": "2024-01-04T20:03:37.240483+00:00",
+  "LastUpdate_Achievements": "2024-01-04T20:08:54.1561841+00:00"
 }

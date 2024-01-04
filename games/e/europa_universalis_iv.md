@@ -144,6 +144,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Holy Horder | 0.10% | ~492 |
 | Holy Trinity | 0.10% | ~492 |
 | Home and Away | 0.10% | ~492 |
+| Ideas Guy | 0.10% | ~492 |
 | Imperio español | 0.10% | ~492 |
 | Imposter Syndrome | 0.10% | ~492 |
 | In the Name of the Father | 0.10% | ~492 |
@@ -340,7 +341,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Great Moravia | 0.00% | ~0 |
 | Great Perm | 0.00% | ~0 |
 | Hoarder | 0.00% | ~0 |
-| Ideas Guy | 0.00% | ~0 |
 | It's All Greek To Me | 0.00% | ~0 |
 | Jihad | 0.00% | ~0 |
 | Knights of the Caribbean | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 491,933 (Ranked 43)  
+Progressed: 491,978 (Ranked 43)  
 Completed: 1 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -629,7 +629,7 @@ Completed: 1 (0.00%) (Ranked 393)
 | 2024-01-01 | 489,961 | 1 |
 | 2024-01-02 | 490,643 | 1 |
 | 2024-01-03 | 491,381 | 1 |
-| 2024-01-04 | 491,933 | 1 |
+| 2024-01-04 | 491,978 | 1 |
 ## Awards
 Max (Educational): 7,708  (Ranked 54)  
 Sum: 63,557 (Ranked 24)  

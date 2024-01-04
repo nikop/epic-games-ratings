@@ -2,12 +2,12 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 1027,
+  "Ranking_Rating": 1028,
   "Ranking_Popularity": 72,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 47,
+  "Ranking_EOS_NewPlayers": 46,
   "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9319,9 +9319,9 @@
       "Count": 3624
     }
   ],
-  "EOS_Progressed": 250971,
+  "EOS_Progressed": 251022,
   "EOS_Completed": 2591,
-  "EOS_NewPlayers": 4752,
+  "EOS_NewPlayers": 4761,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -38684,6 +38684,11 @@
       "Time": "2024-01-04T19:10:01.7820786+00:00",
       "NumProgressed": 250971,
       "NumCompleted": 2591
+    },
+    {
+      "Time": "2024-01-04T20:11:25.2319669+00:00",
+      "NumProgressed": 251022,
+      "NumCompleted": 2591
     }
   ],
   "TotalAchievements": 546,
@@ -38695,7 +38700,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7529
+      "UsersEstimate": 7531
     },
     {
       "ID": "objective_completed_10",
@@ -39557,9 +39562,9 @@
       "ID": "objective_completed_12",
       "SetID": "cc37lbc",
       "Name": "Were-verpowered",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1255
+      "UsersEstimate": 1506
     },
     {
       "ID": "objective_completed_1203",
@@ -40367,7 +40372,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5019
+      "UsersEstimate": 5020
     },
     {
       "ID": "objective_completed_34",
@@ -42959,7 +42964,7 @@
       "Name": "The Brains of an Illithid\u0027s Desire",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "objective_completed_1347",
@@ -42999,7 +43004,7 @@
       "Name": "Fast Food",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1304
     },
     {
       "ID": "objective_completed_1563",
@@ -43062,21 +43067,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 217245,
+      "Progressed": 217296,
       "Completed": 4132
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 250971,
+      "Progressed": 251022,
       "Completed": 2591
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-04T18:59:04.4083235+00:00",
-  "LastChanged_Achievements": "2024-01-04T19:10:01.7820782+00:00",
+  "LastChanged_Achievements": "2024-01-04T20:11:25.2319666+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-04T18:59:04.4083242+00:00",
-  "LastUpdate_Achievements": "2024-01-04T19:10:01.7844866+00:00"
+  "LastUpdate_Ratings": "2024-01-04T20:00:24.4533301+00:00",
+  "LastUpdate_Achievements": "2024-01-04T20:11:25.2344233+00:00"
 }

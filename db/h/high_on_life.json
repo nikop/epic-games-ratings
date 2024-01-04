@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -331,9 +331,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25016,
+  "EOS_Progressed": 25019,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -8666,6 +8666,11 @@
       "Time": "2024-01-04T19:08:27.8427462+00:00",
       "NumProgressed": 25016,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-04T20:09:26.3126673+00:00",
+      "NumProgressed": 25019,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -8749,7 +8754,7 @@
       "Name": "Lezduit!",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "ACH_GET_MAGBOOTS",
@@ -8821,7 +8826,7 @@
       "Name": "Legendary Bounty Hunter",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "ACH_KILL_GIBLETS",
@@ -8829,7 +8834,7 @@
       "Name": "Hardest Battle In The Game",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "ACH_KILL_KRUBIS",
@@ -8845,7 +8850,7 @@
       "Name": "Self-Actualization",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "ACH_KILL_SKRENDELS",
@@ -8861,7 +8866,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -8901,7 +8906,7 @@
       "Name": "Spent 15 Hours At The Alien Strip Club",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "ACH_NOT_KENNY",
@@ -9028,13 +9033,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 25016,
+      "Progressed": 25019,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 2309,
+      "Progressed": 2312,
       "Completed": 1376
     }
   ],
@@ -9042,8 +9047,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-12-27T23:03:01.2851601+00:00",
-  "LastChanged_Achievements": "2024-01-04T19:08:27.8427458+00:00",
+  "LastChanged_Achievements": "2024-01-04T20:09:26.3126669+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:22.3334267+00:00",
-  "LastUpdate_Ratings": "2024-01-04T19:02:52.1951969+00:00",
-  "LastUpdate_Achievements": "2024-01-04T19:08:27.8428181+00:00"
+  "LastUpdate_Ratings": "2024-01-04T20:03:38.8208333+00:00",
+  "LastUpdate_Achievements": "2024-01-04T20:09:26.3127359+00:00"
 }

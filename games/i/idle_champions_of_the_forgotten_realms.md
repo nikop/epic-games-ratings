@@ -1,20 +1,20 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 1,027)  
+Rating: 4.06 (Ranked 1,028)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~7,529 |
-| The Cursed Farmer | 2.00% | ~5,019 |
+| A Brief Tour of the Realms | 3.00% | ~7,531 |
+| The Cursed Farmer | 2.00% | ~5,020 |
 | Beast Intentions | 1.00% | ~2,510 |
 | The Mad Wizard | 1.00% | ~2,510 |
 | Welcome to Sigil | 0.80% | ~1,738 |
 | The Ring of Regeneration | 0.70% | ~1,757 |
+| Were-verpowered | 0.60% | ~1,506 |
 | Are Ya Chicken? | 0.60% | ~1,506 |
-| Fast Food | 0.60% | ~1,303 |
-| Were-verpowered | 0.50% | ~1,255 |
+| Fast Food | 0.60% | ~1,304 |
 | Seeking Allies | 0.50% | ~1,255 |
 | Mad Cow Disease | 0.50% | ~1,255 |
 | Friendly Imps | 0.50% | ~1,255 |
@@ -55,7 +55,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overdue Rendezvous | 0.20% | ~502 |
 | The Templar's Camp | 0.20% | ~502 |
 | Rescue in the Jungle | 0.20% | ~502 |
-| The Brains of an Illithid's Desire | 0.20% | ~434 |
+| The Brains of an Illithid's Desire | 0.20% | ~435 |
 | Pros and CONs | 0.10% | ~251 |
 | Upholding the Law | 0.10% | ~251 |
 | Starving in the Jungle | 0.10% | ~251 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~217 |
 | A Wise Approach | 0.10% | ~217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,971 (Ranked 70)  
+Progressed: 251,022 (Ranked 70)  
 Completed: 2,591 (1.03%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -812,7 +812,7 @@ Completed: 2,591 (1.03%) (Ranked 170)
 | 2024-01-01 | 249,335 | 2,583 |
 | 2024-01-02 | 250,032 | 2,585 |
 | 2024-01-03 | 250,594 | 2,588 |
-| 2024-01-04 | 250,971 | 2,591 |
+| 2024-01-04 | 251,022 | 2,591 |
 ## Awards
 Max (Great for Beginners): 5,740  (Ranked 72)  
 Sum: 33,310 (Ranked 41)  

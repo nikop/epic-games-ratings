@@ -5,20 +5,20 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Mighty Powers | 81.00% | ~48 |
-| Grand Re-Opening | 69.00% | ~41 |
+| Grand Re-Opening | 71.00% | ~42 |
 | Pup Pup Boogie | 68.00% | ~40 |
 | Summer Day | 66.00% | ~39 |
-| Mr. Porter | 54.00% | ~32 |
+| Mr. Porter | 56.00% | ~33 |
 | Risky Rescue | 53.00% | ~31 |
 | Carlos Is Tangled | 51.00% | ~30 |
 | Mandy Family | 44.00% | ~26 |
 | Clear the Road | 42.00% | ~25 |
-| Paw patrol member | 39.00% | ~23 |
-| Robot Out of Control | 39.00% | ~23 |
+| Paw patrol member | 41.00% | ~24 |
+| Robot Out of Control | 41.00% | ~24 |
 | Never Miss | 37.00% | ~22 |
+| Break Time | 36.00% | ~21 |
+| Master of the Rope | 36.00% | ~21 |
 | In the Air | 36.00% | ~21 |
-| Break Time | 34.00% | ~20 |
-| Master of the Rope | 34.00% | ~20 |
 | Training Day | 34.00% | ~20 |
 | Animal Sighting | 29.00% | ~17 |
 | Adventure Bay’s Citizen | 27.00% | ~16 |
@@ -26,7 +26,7 @@
 | Don’t Miss Any | 25.00% | ~15 |
 | Mountain and Ice | 24.00% | ~14 |
 | You Have Been Everywhere | 20.00% | ~12 |
-| Everything Under Control | 17.00% | ~10 |
+| Everything Under Control | 19.00% | ~11 |
 | Nothing Can Stop You | 10.00% | ~6 |
 | A Great Explorer | 8.00% | ~5 |
 | King of the Mountain | 5.00% | ~3 |
@@ -35,7 +35,7 @@
 | The Collector | 0.00% | ~0 |
 | Pup Treat Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59 (Ranked 536)  
+Progressed: 59 (Ranked 537)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |

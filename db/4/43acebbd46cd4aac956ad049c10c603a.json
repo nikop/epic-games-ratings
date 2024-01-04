@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -289,9 +289,9 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 1262,
+  "EOS_Progressed": 1263,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3559,6 +3559,11 @@
       "Time": "2024-01-04T18:04:39.5267287+00:00",
       "NumProgressed": 1262,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-04T20:05:49.375817+00:00",
+      "NumProgressed": 1263,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3595,7 +3600,7 @@
       "Name": "Archaeologist",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "Balance",
@@ -3611,7 +3616,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "BreakTheLoop",
@@ -3625,9 +3630,9 @@
       "ID": "BridgeBuilder",
       "SetID": "1n308hc",
       "Name": "Bridge Builder",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 429
+      "UsersEstimate": 417
     },
     {
       "ID": "ChasingTheLight",
@@ -3659,7 +3664,7 @@
       "Name": "Desolate Island",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "Discovery",
@@ -3699,7 +3704,7 @@
       "Name": "Flooded Valley",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "GnothiSeauton",
@@ -3723,7 +3728,7 @@
       "Name": "Grasslands Ring",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "HighPlain",
@@ -3747,7 +3752,7 @@
       "Name": "Just One Lap",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "LordOfTheFiles",
@@ -3763,7 +3768,7 @@
       "Name": "Lost Marshes",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "MistressOfRiddles",
@@ -3771,7 +3776,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "Mnemosyne",
@@ -3779,7 +3784,7 @@
       "Name": "Mnemosyne",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "MuseumExplorer",
@@ -3827,7 +3832,7 @@
       "Name": "Overload",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "Persistent",
@@ -3843,23 +3848,23 @@
       "Name": "Prometheus Unbound",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "PuzzleFiend",
       "SetID": "1n308hc",
       "Name": "Puzzle Fiend",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 227
+      "UsersEstimate": 215
     },
     {
       "ID": "RemnantsOfThePast",
       "SetID": "1n308hc",
       "Name": "Remnants of the Past",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 391
+      "UsersEstimate": 404
     },
     {
       "ID": "RenaissanceRobot",
@@ -3939,7 +3944,7 @@
       "Name": "The Edge of Forever",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "TheFuture",
@@ -3947,7 +3952,7 @@
       "Name": "The Future",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "TheHardWay",
@@ -3979,7 +3984,7 @@
       "Name": "The Word Endures",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "TouchGrass",
@@ -4042,7 +4047,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1262,
+      "Progressed": 1263,
       "Completed": 2
     }
   ],
@@ -4050,8 +4055,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-04T17:00:27.8001198+00:00",
-  "LastChanged_Achievements": "2024-01-04T19:04:30.6294249+00:00",
+  "LastChanged_Achievements": "2024-01-04T20:05:49.3758166+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:20.1968805+00:00",
-  "LastUpdate_Ratings": "2024-01-04T19:00:02.511012+00:00",
-  "LastUpdate_Achievements": "2024-01-04T19:04:30.6294896+00:00"
+  "LastUpdate_Ratings": "2024-01-04T20:01:43.3523042+00:00",
+  "LastUpdate_Achievements": "2024-01-04T20:05:49.3758639+00:00"
 }

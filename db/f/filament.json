@@ -402,9 +402,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 208522,
+  "EOS_Progressed": 208525,
   "EOS_Completed": 555,
-  "EOS_NewPlayers": 529,
+  "EOS_NewPlayers": 526,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -28147,6 +28147,11 @@
       "Time": "2024-01-04T19:03:46.9719709+00:00",
       "NumProgressed": 208522,
       "NumCompleted": 555
+    },
+    {
+      "Time": "2024-01-04T20:04:53.129055+00:00",
+      "NumProgressed": 208525,
+      "NumCompleted": 555
     }
   ],
   "TotalAchievements": 29,
@@ -28182,7 +28187,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 196011
+      "UsersEstimate": 196014
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -28252,9 +28257,9 @@
       "ID": "ACHIEVEMENT_CREW",
       "SetID": "1fd5amk",
       "Name": "Names to faces.",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 1460
+      "UsersEstimate": 1668
     },
     {
       "ID": "ACHIEVEMENT_CRYOSLEEP",
@@ -28294,7 +28299,7 @@
       "Name": "So you\u0027re saying I don\u0027t touch these ones?",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 12511
+      "UsersEstimate": 12512
     },
     {
       "ID": "ACHIEVEMENT_OPUS",
@@ -28389,7 +28394,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 208522,
+      "Progressed": 208525,
       "Completed": 555
     }
   ],
@@ -28397,8 +28402,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2024-01-01T02:58:07.3780611+00:00",
-  "LastChanged_Achievements": "2024-01-04T19:03:46.9719705+00:00",
+  "LastChanged_Achievements": "2024-01-04T20:04:53.1290545+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:16.5074852+00:00",
-  "LastUpdate_Ratings": "2024-01-04T18:59:22.3955613+00:00",
-  "LastUpdate_Achievements": "2024-01-04T19:03:46.9721108+00:00"
+  "LastUpdate_Ratings": "2024-01-04T20:00:49.9813211+00:00",
+  "LastUpdate_Achievements": "2024-01-04T20:04:53.1291906+00:00"
 }

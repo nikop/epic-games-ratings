@@ -1647,17 +1647,17 @@
       "ID": "Collect_Artifact_EpicShard",
       "SetID": "7a5k76n",
       "Name": "One Of the Chosen",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 163
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_1",
       "SetID": "7a5k76n",
       "Name": "Increased Capacity",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 226
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_4",
@@ -1679,9 +1679,9 @@
       "ID": "Collect_HealthStone_HealUpgrade_4",
       "SetID": "7a5k76n",
       "Name": "Maximum Vigor",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 122
+      "UsersEstimate": 126
     },
     {
       "ID": "Collect_Hollow_Flame",
@@ -2119,8 +2119,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-03T05:57:54.1795117+00:00",
-  "LastChanged_Achievements": "2024-01-04T19:07:58.5611185+00:00",
+  "LastChanged_Achievements": "2024-01-04T20:08:49.1276753+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.0817876+00:00",
-  "LastUpdate_Ratings": "2024-01-04T18:58:35.9423566+00:00",
-  "LastUpdate_Achievements": "2024-01-04T19:07:58.5611857+00:00"
+  "LastUpdate_Ratings": "2024-01-04T19:59:47.1450418+00:00",
+  "LastUpdate_Achievements": "2024-01-04T20:08:49.1277266+00:00"
 }

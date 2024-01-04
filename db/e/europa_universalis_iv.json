@@ -14061,9 +14061,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 491933,
+  "EOS_Progressed": 491978,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5507,
+  "EOS_NewPlayers": 5501,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -43961,6 +43961,11 @@
       "Time": "2024-01-04T19:09:28.3182809+00:00",
       "NumProgressed": 491933,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-04T20:10:44.7112408+00:00",
+      "NumProgressed": 491978,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -45098,9 +45103,9 @@
       "ID": "achievement_ideas_guy",
       "SetID": "8p2n7he",
       "Name": "Ideas Guy",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 492
     },
     {
       "ID": "achievement_imperio_espanol",
@@ -46875,21 +46880,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 491933,
+      "Progressed": 491978,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 491933,
+      "Progressed": 491978,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2024-01-04T18:57:52.613135+00:00",
-  "LastChanged_Achievements": "2024-01-04T19:09:28.3182806+00:00",
+  "LastChanged_Achievements": "2024-01-04T20:10:44.7112404+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:39.2428149+00:00",
-  "LastUpdate_Ratings": "2024-01-04T18:57:52.6131358+00:00",
-  "LastUpdate_Achievements": "2024-01-04T19:09:28.3193932+00:00"
+  "LastUpdate_Ratings": "2024-01-04T19:58:49.2701604+00:00",
+  "LastUpdate_Achievements": "2024-01-04T20:10:44.7123357+00:00"
 }

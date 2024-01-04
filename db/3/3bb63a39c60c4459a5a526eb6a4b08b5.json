@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewPlayers": 293,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1083,
+  "EOS_Progressed": 1084,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4204,6 +4204,11 @@
       "Time": "2024-01-04T18:10:05.3517746+00:00",
       "NumProgressed": 1083,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-04T20:11:14.8293747+00:00",
+      "NumProgressed": 1084,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -4311,7 +4316,7 @@
       "Name": "Game Started",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "FullCompletion",
@@ -4391,7 +4396,7 @@
       "Name": "Management Master",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "MaximumUpgrade",
@@ -4431,7 +4436,7 @@
       "Name": "No Way Back",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "NotPlanned",
@@ -4511,7 +4516,7 @@
       "Name": "Scenario Amateur",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ScenarioExpert",
@@ -4535,7 +4540,7 @@
       "Name": "Time for Management",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "TransportHub",
@@ -4550,14 +4555,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 1083,
+      "Progressed": 1084,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2024-01-04T19:09:53.0337645+00:00",
+  "LastChanged_Achievements": "2024-01-04T20:11:14.8293744+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:06.0647724+00:00",
-  "LastUpdate_Ratings": "2024-01-04T18:57:03.6485007+00:00",
-  "LastUpdate_Achievements": "2024-01-04T19:09:53.0338078+00:00"
+  "LastUpdate_Ratings": "2024-01-04T19:57:42.6100773+00:00",
+  "LastUpdate_Achievements": "2024-01-04T20:11:14.8294148+00:00"
 }

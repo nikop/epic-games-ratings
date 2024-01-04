@@ -4,7 +4,7 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 955,
+  "EOS_Progressed": 956,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4112,6 +4112,11 @@
       "Time": "2024-01-04T19:09:28.6799282+00:00",
       "NumProgressed": 955,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T20:10:45.0529615+00:00",
+      "NumProgressed": 956,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -4299,7 +4304,7 @@
       "Name": "The Big Day",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "Packing20",
@@ -4442,7 +4447,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 955,
+      "Progressed": 956,
       "Completed": 0
     }
   ],
@@ -4450,8 +4455,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2024-01-04T19:09:28.679928+00:00",
+  "LastChanged_Achievements": "2024-01-04T20:10:45.052961+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.9361067+00:00",
-  "LastUpdate_Ratings": "2024-01-04T18:58:36.308824+00:00",
-  "LastUpdate_Achievements": "2024-01-04T19:09:28.6799708+00:00"
+  "LastUpdate_Ratings": "2024-01-04T19:59:47.4867862+00:00",
+  "LastUpdate_Achievements": "2024-01-04T20:10:45.0530182+00:00"
 }
