@@ -3,9 +3,9 @@
   "Name": "PERISH",
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 214,
-  "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 282,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_Completed": 393,
+  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
     "PcReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3922,
+  "EOS_Progressed": 3923,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4581,6 +4581,11 @@
       "Time": "2024-01-04T14:03:57.5241805+00:00",
       "NumProgressed": 3922,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T16:04:46.0570604+00:00",
+      "NumProgressed": 3923,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -5095,7 +5100,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3922,
+      "Progressed": 3923,
       "Completed": 0
     }
   ],
@@ -5103,8 +5108,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2024-01-04T15:03:37.0291309+00:00",
+  "LastChanged_Achievements": "2024-01-04T16:04:46.0570601+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:44.8279496+00:00",
-  "LastUpdate_Ratings": "2024-01-04T14:59:20.899291+00:00",
-  "LastUpdate_Achievements": "2024-01-04T15:03:37.0291978+00:00"
+  "LastUpdate_Ratings": "2024-01-04T16:00:56.2699853+00:00",
+  "LastUpdate_Achievements": "2024-01-04T16:04:46.0571165+00:00"
 }

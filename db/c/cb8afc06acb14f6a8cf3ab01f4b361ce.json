@@ -6,9 +6,9 @@
   "Ranking_Popularity": 404,
   "Ranking_PopularitySum": 479,
   "Ranking_EOS_Progress": 58,
-  "Ranking_EOS_Completed": 392,
+  "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -461,9 +461,9 @@
       "Count": 77
     }
   ],
-  "EOS_Progressed": 340772,
+  "EOS_Progressed": 340796,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 3963,
+  "EOS_NewPlayers": 3955,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12141,6 +12141,11 @@
       "Time": "2024-01-04T15:08:42.724465+00:00",
       "NumProgressed": 340772,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-04T16:09:45.7425508+00:00",
+      "NumProgressed": 340796,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -12153,7 +12158,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13631
+      "UsersEstimate": 13632
     },
     {
       "ID": "S02_BRDA",
@@ -12161,7 +12166,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 10223
+      "UsersEstimate": 10224
     },
     {
       "ID": "S03_OTWA",
@@ -12185,7 +12190,7 @@
       "Name": "Back to your senses",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 2385
+      "UsersEstimate": 2386
     },
     {
       "ID": "S06_LWTC",
@@ -12193,7 +12198,7 @@
       "Name": "They tricked me",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 2385
+      "UsersEstimate": 2386
     },
     {
       "ID": "S07_INWA",
@@ -12289,7 +12294,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17039
+      "UsersEstimate": 17040
     },
     {
       "ID": "S19_CHALLENGES",
@@ -12321,7 +12326,7 @@
       "Name": "They won\u0027t last long",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 2385
+      "UsersEstimate": 2386
     },
     {
       "ID": "S23_ETHEREAL",
@@ -12385,7 +12390,7 @@
       "Name": "Bring it on!",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 2385
+      "UsersEstimate": 2386
     },
     {
       "ID": "S31_CHNG_DIAMOND",
@@ -12465,14 +12470,14 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6815
+      "UsersEstimate": 6816
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 340772,
+      "Progressed": 340796,
       "Completed": 7
     }
   ],
@@ -12480,8 +12485,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2024-01-01T23:01:20.9565561+00:00",
-  "LastChanged_Achievements": "2024-01-04T15:08:42.7244648+00:00",
+  "LastChanged_Achievements": "2024-01-04T16:09:45.7425504+00:00",
   "LastUpdate_AppInfo": "2023-12-28T22:56:57.7073923+00:00",
-  "LastUpdate_Ratings": "2024-01-04T14:57:36.4044624+00:00",
-  "LastUpdate_Achievements": "2024-01-04T15:08:42.7245404+00:00"
+  "LastUpdate_Ratings": "2024-01-04T15:58:18.5807672+00:00",
+  "LastUpdate_Achievements": "2024-01-04T16:09:45.7426475+00:00"
 }

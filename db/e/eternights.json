@@ -5,10 +5,10 @@
   "Ranking_Rating": 130,
   "Ranking_Popularity": 578,
   "Ranking_PopularitySum": 578,
-  "Ranking_EOS_Progress": 309,
+  "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -2867,9 +2867,9 @@
       "ID": "ACHIEVEMENT_12_TheirRock",
       "SetID": "9bke6f1",
       "Name": "Their Rock",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 206
+      "UsersEstimate": 214
     },
     {
       "ID": "ACHIEVEMENT_13_ExpertScavenger",
@@ -2931,9 +2931,9 @@
       "ID": "ACHIEVEMENT_1_ShelterEscape",
       "SetID": "9bke6f1",
       "Name": "Shelter Escape",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 572
+      "UsersEstimate": 580
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -3060,8 +3060,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2023-12-31T15:57:10.2736309+00:00",
-  "LastChanged_Achievements": "2024-01-04T15:08:59.4578525+00:00",
+  "LastChanged_Achievements": "2024-01-04T16:10:09.8332892+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.2091482+00:00",
-  "LastUpdate_Ratings": "2024-01-04T14:59:05.0462931+00:00",
-  "LastUpdate_Achievements": "2024-01-04T15:08:59.4578996+00:00"
+  "LastUpdate_Ratings": "2024-01-04T16:00:32.7226238+00:00",
+  "LastUpdate_Achievements": "2024-01-04T16:10:09.833325+00:00"
 }

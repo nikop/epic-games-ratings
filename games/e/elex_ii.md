@@ -1,28 +1,28 @@
 # ELEX II
 [Store](https://store.epicgames.com/en-US/p/elex-ii)  
 [View Rawdata](../../db/e/elex_ii.json)  
-Rating: 4.29 (Ranked 875)  
+Rating: 4.29 (Ranked 876)  
 Number of Ratings: 124  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Entrepreneur | 38.00% | ~67 |
 | Best Buddy | 31.00% | ~55 |
-| Civilian | 28.00% | ~49 |
+| Civilian | 29.00% | ~51 |
 | Role Model | 26.00% | ~46 |
 | Creator | 23.00% | ~40 |
+| Festival-goer | 23.00% | ~40 |
 | Peddler | 22.00% | ~39 |
 | Military Leader | 22.00% | ~39 |
-| Festival-goer | 22.00% | ~39 |
 | Commander | 19.00% | ~33 |
 | Irissa's Fate | 15.00% | ~26 |
 | Long-Haul Flyer | 13.00% | ~23 |
 | Pass A38 | 13.00% | ~23 |
 | Family Reunion | 11.00% | ~19 |
+| Globetrotter | 10.00% | ~18 |
 | Berserker | 10.00% | ~18 |
 | Eternal Oblivion | 10.00% | ~18 |
 | Storyteller | 9.00% | ~16 |
-| Globetrotter | 9.00% | ~16 |
 | Alb | 9.00% | ~16 |
 | Banker | 6.00% | ~11 |
 | Hunter | 6.00% | ~11 |
@@ -30,10 +30,10 @@ Number of Ratings: 124  (23.09.2022)
 | Treasure Hunter | 5.00% | ~9 |
 | Beam Me Up | 5.00% | ~9 |
 | Hotshot | 5.00% | ~9 |
+| Free as a Bird | 5.00% | ~9 |
+| Cleric | 5.00% | ~9 |
 | Perfectionist | 5.00% | ~9 |
 | Detective | 5.00% | ~9 |
-| Free as a Bird | 4.00% | ~7 |
-| Cleric | 4.00% | ~7 |
 | Weaponsmith | 3.00% | ~5 |
 | Alchemist | 3.00% | ~5 |
 | Self-Sufficient | 3.00% | ~5 |
@@ -41,8 +41,8 @@ Number of Ratings: 124  (23.09.2022)
 | Idealist | 2.00% | ~4 |
 | Toy Time | 2.00% | ~4 |
 | Morkon | 2.00% | ~4 |
+| Legendary | 2.00% | ~4 |
 | Destroyer | 1.00% | ~2 |
-| Legendary | 1.00% | ~2 |
 | Pack Rat | 0.60% | ~1 |
 | Defector | 0.60% | ~1 |
 | Outlaw | 0.60% | ~1 |
@@ -58,7 +58,7 @@ Number of Ratings: 124  (23.09.2022)
 | Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 176 (Ranked 434)  
-Completed: 0 (0.00%) (Ranked 392)  
+Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -5,22 +5,22 @@ Rating: 4.52 (Ranked 574)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~7,039 |
-| Greasy Palms | 42.00% | ~6,427 |
-| South American Connection | 26.00% | ~3,979 |
-| Life of the Party | 21.00% | ~3,213 |
-| Big Heat from Little Havana | 15.00% | ~2,295 |
-| Chauffeur | 15.00% | ~2,295 |
-| Tommy Two-Wheels | 15.00% | ~2,295 |
-| Salutations My Little Friend | 11.00% | ~1,683 |
-| Iron-y | 10.00% | ~1,530 |
-| Gun for Hire | 9.00% | ~1,377 |
-| Mischief Managed | 9.00% | ~1,377 |
-| Vice City Mogul | 7.00% | ~1,071 |
-| Catch Me if You Can | 6.00% | ~918 |
-| Bloodstained Hands | 6.00% | ~918 |
-| Not my First Time | 5.00% | ~765 |
-| Grand Theft Auto | 5.00% | ~765 |
+| Legal Counsel | 46.00% | ~7,043 |
+| Greasy Palms | 42.00% | ~6,430 |
+| South American Connection | 26.00% | ~3,981 |
+| Life of the Party | 21.00% | ~3,215 |
+| Big Heat from Little Havana | 15.00% | ~2,296 |
+| Chauffeur | 15.00% | ~2,296 |
+| Tommy Two-Wheels | 15.00% | ~2,296 |
+| Salutations My Little Friend | 11.00% | ~1,684 |
+| Iron-y | 10.00% | ~1,531 |
+| Gun for Hire | 9.00% | ~1,378 |
+| Mischief Managed | 9.00% | ~1,378 |
+| Vice City Mogul | 7.00% | ~1,072 |
+| Catch Me if You Can | 6.00% | ~919 |
+| Bloodstained Hands | 6.00% | ~919 |
+| Not my First Time | 5.00% | ~766 |
+| Grand Theft Auto | 5.00% | ~766 |
 | Pie Guy | 4.00% | ~612 |
 | Point A to Point B | 3.00% | ~459 |
 | High Quality H2O | 3.00% | ~459 |
@@ -40,7 +40,7 @@ Rating: 4.52 (Ranked 574)
 | Done it All | 0.90% | ~138 |
 | Kingpin | 0.60% | ~92 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,302 (Ranked 168)  
+Progressed: 15,310 (Ranked 168)  
 Completed: 85 (0.56%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 85 (0.56%) (Ranked 210)
 | 2024-01-01 | 15,003 | 84 |
 | 2024-01-02 | 15,126 | 85 |
 | 2024-01-03 | 15,241 | 85 |
-| 2024-01-04 | 15,302 | 85 |
+| 2024-01-04 | 15,310 | 85 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

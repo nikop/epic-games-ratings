@@ -12,10 +12,10 @@ Number of Ratings: 90  (23.09.2022)
 | Furon Fashion | 48.00% | ~148 |
 | Shop Til They Drop | 41.00% | ~126 |
 | Bodied Sattva | 38.00% | ~117 |
+| Cult Following | 35.00% | ~108 |
 | Earthly Pleasures | 35.00% | ~108 |
-| Cult Following | 34.00% | ~105 |
 | Lie Back and Think of Albion | 27.00% | ~83 |
-| Upgreatest | 26.00% | ~80 |
+| Upgreatest | 27.00% | ~83 |
 | Pimp My Raid | 25.00% | ~77 |
 | Freshly Squeezed | 21.00% | ~65 |
 | I Look Up As I Walk to Takoshima | 20.00% | ~62 |
@@ -47,9 +47,9 @@ Number of Ratings: 90  (23.09.2022)
 | Albion Bridge Is for Falling Down | 0.60% | ~2 |
 | Ouch of Body Experience | 0.60% | ~2 |
 | To Russia With Love | 0.60% | ~2 |
+| Steezy Down the Spine | 0.60% | ~2 |
 | Path of the Furon | 0.60% | ~2 |
 | Trans-Siberian Express | 0.60% | ~2 |
-| Steezy Down the Spine | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 308 (Ranked 390)  
 Completed: 1 (0.32%) (Ranked 245)  

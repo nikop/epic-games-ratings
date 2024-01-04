@@ -7,20 +7,20 @@ Number of Ratings: 398  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Just One...More...Term... | 73.00% | ~5,025 |
-| Un-Lonely Island | 45.00% | ~3,097 |
+| Un-Lonely Island | 45.00% | ~3,098 |
 | The Beginning of a Servantship | 44.00% | ~3,029 |
 | Trade Is My Trait | 36.00% | ~2,478 |
 | Number 18 | 23.00% | ~1,583 |
 | We Don't Have Time For That | 18.00% | ~1,239 |
 | The Governator | 17.00% | ~1,170 |
 | The Legend of Langostino | 16.00% | ~1,101 |
-| Caribbean Comrade | 15.00% | ~1,032 |
-| The Dreamer of Dreams | 15.00% | ~1,032 |
+| Caribbean Comrade | 15.00% | ~1,033 |
+| The Dreamer of Dreams | 15.00% | ~1,033 |
 | Go Sovereigns! | 11.00% | ~757 |
 | For Science! | 11.00% | ~757 |
 | Happy Ending? | 10.00% | ~688 |
-| Of Seals And Men | 9.00% | ~619 |
-| Shackadelic | 9.00% | ~619 |
+| Of Seals And Men | 9.00% | ~620 |
+| Shackadelic | 9.00% | ~620 |
 | Double Trouble | 8.00% | ~551 |
 | Firestarter | 8.00% | ~551 |
 | Make Tropico Great Again! | 7.00% | ~482 |
@@ -32,10 +32,10 @@ Number of Ratings: 398  (23.09.2022)
 | Beware The Betman | 5.00% | ~344 |
 | Watch The World Burn | 5.00% | ~344 |
 | Fairy Tale Come True | 5.00% | ~344 |
-| Been there, Done That | 3.00% | ~206 |
-| Apocalypso | 3.00% | ~206 |
-| Narcissist | 3.00% | ~206 |
-| The Time For Wonders | 3.00% | ~206 |
+| Been there, Done That | 3.00% | ~207 |
+| Apocalypso | 3.00% | ~207 |
+| Narcissist | 3.00% | ~207 |
+| The Time For Wonders | 3.00% | ~207 |
 | One Does Not Simply Stage A Coup | 2.00% | ~138 |
 | Promising Endeavors | 2.00% | ~138 |
 | Sublime Subliminal Supreme | 2.00% | ~138 |
@@ -47,8 +47,8 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~55 |
 | My Ways | 0.20% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,883 (Ranked 194)  
-Completed: 2 (0.03%) (Ranked 351)  
+Progressed: 6,884 (Ranked 194)  
+Completed: 2 (0.03%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -306,7 +306,7 @@ Completed: 2 (0.03%) (Ranked 351)
 | 2024-01-01 | 6,834 | 2 |
 | 2024-01-02 | 6,856 | 2 |
 | 2024-01-03 | 6,872 | 2 |
-| 2024-01-04 | 6,883 | 2 |
+| 2024-01-04 | 6,884 | 2 |
 ## Awards
 Max (Highly Recommended): 106  (Ranked 368)  
 Sum: 752 (Ranked 303)  

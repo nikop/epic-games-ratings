@@ -8,12 +8,12 @@ Number of Ratings: 177  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Friend in Need... | 6.00% | ~425 |
 | Smooth Operator: Madison | 5.00% | ~354 |
-| The Brahdyssey | 3.00% | ~212 |
-| Caught in the Act | 3.00% | ~212 |
-| Katherine | 3.00% | ~212 |
+| The Brahdyssey | 3.00% | ~213 |
+| Caught in the Act | 3.00% | ~213 |
+| Katherine | 3.00% | ~213 |
 | Life Found a Way | 3.00% | ~124 |
-| Relentless | 3.00% | ~212 |
-| If at First You Don't Succeed... | 3.00% | ~212 |
+| Relentless | 3.00% | ~213 |
+| If at First You Don't Succeed... | 3.00% | ~213 |
 | Drunk and Disorderly: Stephanie | 2.00% | ~142 |
 | Amy | 1.00% | ~71 |
 | Drunk and Disorderly: Ashley | 1.00% | ~71 |
@@ -32,8 +32,8 @@ Number of Ratings: 177  (23.09.2022)
 | The Magic Number | 0.70% | ~50 |
 | Vickie | 0.70% | ~50 |
 | Te Amo Lety | 0.70% | ~50 |
-| Benedict Brahrnold | 0.60% | ~42 |
-| I'll Be Back | 0.60% | ~42 |
+| Benedict Brahrnold | 0.60% | ~43 |
+| I'll Be Back | 0.60% | ~43 |
 | Deck the Balls | 0.60% | ~25 |
 | Ashley | 0.50% | ~35 |
 | Love Conquers All | 0.50% | ~35 |
@@ -76,8 +76,8 @@ Number of Ratings: 177  (23.09.2022)
 | The Most Wonderful Time of the Year | 0.10% | ~4 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,083 (Ranked 193)  
-Completed: 3 (0.04%) (Ranked 346)  
+Progressed: 7,084 (Ranked 193)  
+Completed: 3 (0.04%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -326,7 +326,7 @@ Completed: 3 (0.04%) (Ranked 346)
 | 2024-01-01 | 7,031 | 3 |
 | 2024-01-02 | 7,052 | 3 |
 | 2024-01-03 | 7,070 | 3 |
-| 2024-01-04 | 7,083 | 3 |
+| 2024-01-04 | 7,084 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

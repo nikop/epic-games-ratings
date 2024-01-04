@@ -5,7 +5,7 @@ Rating: 3.64 (Ranked 1,087)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 19.00% | ~426 |
+| I Like My Stakes Rare! | 19.00% | ~427 |
 | Catch and Release | 14.00% | ~314 |
 | Home Is Where the Heart Is | 13.00% | ~292 |
 | ICU | 12.00% | ~269 |
@@ -15,10 +15,10 @@ Rating: 3.64 (Ranked 1,087)
 | Fly Fisher | 10.00% | ~224 |
 | Peek-a-boo | 10.00% | ~224 |
 | Sucks To Be You | 9.00% | ~202 |
-| Enter of Your Own Free Will | 8.00% | ~179 |
-| Welcome to the Neighborhood | 8.00% | ~179 |
-| Throw The First Stone | 8.00% | ~179 |
-| Heart Attack | 8.00% | ~179 |
+| Enter of Your Own Free Will | 8.00% | ~180 |
+| Welcome to the Neighborhood | 8.00% | ~180 |
+| Throw The First Stone | 8.00% | ~180 |
+| Heart Attack | 8.00% | ~180 |
 | Skin of Their Teeth | 7.00% | ~157 |
 | Bad Wiring | 6.00% | ~135 |
 | Grounded | 6.00% | ~135 |
@@ -62,18 +62,18 @@ Rating: 3.64 (Ranked 1,087)
 | Someplace to Be | 0.10% | ~2 |
 | Sepsis | 0.10% | ~2 |
 | Rum Runner | 0.10% | ~2 |
+| Eagle Eyes | 0.10% | ~2 |
 | Deforestation | 0.00% | ~0 |
 | Spit Take | 0.00% | ~0 |
 | Ask Not For Whom The Horns Blow | 0.00% | ~0 |
 | Saw That Coming | 0.00% | ~0 |
 | Lights Out | 0.00% | ~0 |
 | Say Goodbye, Joe | 0.00% | ~0 |
-| Eagle Eyes | 0.00% | ~0 |
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,243 (Ranked 241)  
-Completed: 0 (0.00%) (Ranked 392)  
+Progressed: 2,245 (Ranked 241)  
+Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -208,7 +208,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-01 | 2,212 | 0 |
 | 2024-01-02 | 2,228 | 0 |
 | 2024-01-03 | 2,238 | 0 |
-| 2024-01-04 | 2,243 | 0 |
+| 2024-01-04 | 2,245 | 0 |
 ## Awards
 Max (Great Boss Battles): 20  (Ranked 571)  
 Sum: 20 (Ranked 572)  

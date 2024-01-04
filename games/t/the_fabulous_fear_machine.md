@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Master trainee | 50.00% | ~40 |
-| You have three wishes left | 44.00% | ~35 |
+| Master trainee | 49.00% | ~40 |
+| You have three wishes left | 43.00% | ~35 |
 | Jung's dream | 35.00% | ~28 |
 | The battle of Great Britain | 35.00% | ~28 |
 | Pulp! Where Monsters Dwell | 30.00% | ~24 |
@@ -26,7 +26,7 @@
 | You've awakened the beast | 14.00% | ~11 |
 | Hate is... addictive | 14.00% | ~11 |
 | Welcome to Hellville | 14.00% | ~11 |
-| Kirlian's best disciple | 13.00% | ~10 |
+| Kirlian's best disciple | 12.00% | ~10 |
 | Blessed antennas | 11.00% | ~9 |
 | The bully | 11.00% | ~9 |
 | Blood Red Island | 10.00% | ~8 |
@@ -36,24 +36,24 @@
 | The beast in the Oval Office | 9.00% | ~7 |
 | The adventurer | 9.00% | ~7 |
 | ECO mode | 9.00% | ~7 |
-| The scholar | 8.00% | ~6 |
-| Pulp! True Adventures | 8.00% | ~6 |
-| America had no Faith | 8.00% | ~6 |
+| The scholar | 7.00% | ~6 |
+| Pulp! True Adventures | 7.00% | ~6 |
+| America had no Faith | 7.00% | ~6 |
 | The barbarian invasions | 6.00% | ~5 |
 | Vaccine fans | 6.00% | ~5 |
 | A new Hindenburg | 5.00% | ~4 |
 | Pulp! Tales from the Crypt | 4.00% | ~3 |
 | Thirst for Oleum | 4.00% | ~3 |
-| Pulp! Weird Science | 3.00% | ~2 |
-| Pulp! Heart Throbs | 3.00% | ~2 |
-| Troy is burning! | 3.00% | ~2 |
+| Pulp! Weird Science | 2.00% | ~2 |
+| Pulp! Heart Throbs | 2.00% | ~2 |
+| Troy is burning! | 2.00% | ~2 |
 | Pulp! The Perfect Crime | 1.00% | ~1 |
 | Pulp! Mister Mystery | 1.00% | ~1 |
 | Pulp! Skeleton Hand | 1.00% | ~1 |
 | Pulp! The Vault of Horror | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 80 (Ranked 508)  
-Completed: 0 (0.00%) (Ranked 392)  
+Progressed: 81 (Ranked 508)  
+Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -97,4 +97,4 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-01 | 76 | 0 |
 | 2024-01-02 | 77 | 0 |
 | 2024-01-03 | 79 | 0 |
-| 2024-01-04 | 80 | 0 |
+| 2024-01-04 | 81 | 0 |

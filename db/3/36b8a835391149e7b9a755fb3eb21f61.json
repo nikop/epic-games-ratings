@@ -3,9 +3,9 @@
   "Name": "Monster Coming",
   "ProductSlug": "monster-tide-ee5a7b",
   "Ranking_EOS_Progress": 820,
-  "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 568,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_Completed": 393,
+  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2023-11-29T02:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-30T01:50:14.6628972+00:00",
-  "LastChanged_Achievements": "2024-01-04T15:04:52.6208354+00:00",
+  "LastChanged_Achievements": "2024-01-04T16:06:38.0541256+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:12.8276791+00:00",
-  "LastUpdate_Ratings": "2024-01-04T14:57:42.5196442+00:00",
-  "LastUpdate_Achievements": "2024-01-04T15:04:52.6208367+00:00"
+  "LastUpdate_Ratings": "2024-01-04T15:58:27.3285881+00:00",
+  "LastUpdate_Achievements": "2024-01-04T16:06:38.0541286+00:00"
 }

@@ -3,7 +3,7 @@
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
   "Ranking_Rating": 592,
-  "Ranking_Popularity": 323,
+  "Ranking_Popularity": 324,
   "Ranking_PopularitySum": 417,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 194,
@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17615,
+  "EOS_Progressed": 17616,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -17670,6 +17670,11 @@
       "Time": "2024-01-04T15:03:16.8460318+00:00",
       "NumProgressed": 17615,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2024-01-04T16:04:15.2437104+00:00",
+      "NumProgressed": 17616,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 41,
@@ -17697,7 +17702,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 4051
+      "UsersEstimate": 4052
     },
     {
       "ID": "tpote_achievement_12",
@@ -17745,7 +17750,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2818
+      "UsersEstimate": 2819
     },
     {
       "ID": "tpote_achievement_18",
@@ -17785,7 +17790,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 5108
+      "UsersEstimate": 5109
     },
     {
       "ID": "tpote_achievement_22",
@@ -17969,7 +17974,7 @@
       "Name": "Garden of Eden",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4051
+      "UsersEstimate": 4052
     },
     {
       "ID": "tpote_achievement_6",
@@ -17977,7 +17982,7 @@
       "Name": "Full house",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 4051
+      "UsersEstimate": 4052
     },
     {
       "ID": "tpote_achievement_7",
@@ -18008,15 +18013,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17615,
+      "Progressed": 17616,
       "Completed": 124
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-04T15:03:16.8460313+00:00",
+  "LastChanged_Achievements": "2024-01-04T16:04:15.24371+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:24.3361109+00:00",
-  "LastUpdate_Ratings": "2024-01-04T15:02:43.8623729+00:00",
-  "LastUpdate_Achievements": "2024-01-04T15:03:16.8461453+00:00"
+  "LastUpdate_Ratings": "2024-01-04T16:03:22.1367561+00:00",
+  "LastUpdate_Achievements": "2024-01-04T16:04:15.2438324+00:00"
 }

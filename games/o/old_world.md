@@ -81,6 +81,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Statesmen | 0.30% | ~48 |
 | Traders | 0.30% | ~48 |
 | Hittite Iron | 0.30% | ~48 |
+| Pantheon | 0.30% | ~48 |
 | Learn to Play 3 | 0.30% | ~48 |
 | Greece | 0.30% | ~48 |
 | Power to the People | 0.30% | ~48 |
@@ -106,7 +107,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Church of the Holy Sepulchre | 0.20% | ~32 |
 | Temple of Solomon | 0.20% | ~32 |
 | Adur Burzen-Mihr | 0.20% | ~32 |
-| Pantheon | 0.20% | ~32 |
 | Via Recta Souk | 0.20% | ~32 |
 | Babylonia | 0.20% | ~32 |
 | Carthage | 0.20% | ~32 |
@@ -366,7 +366,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 16,114 (Ranked 167)  
-Completed: 5 (0.03%) (Ranked 351)  
+Completed: 5 (0.03%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

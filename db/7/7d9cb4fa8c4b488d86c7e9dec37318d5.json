@@ -3,9 +3,9 @@
   "Name": "Suicide Guy",
   "ProductSlug": "suicide-guy-9f7963",
   "Ranking_EOS_Progress": 386,
-  "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 456,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_Completed": 393,
+  "Ranking_EOS_NewPlayers": 455,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-06-14T00:00:00+00:00",
     "PcReleaseDate": "2017-06-14T00:00:00+00:00",
@@ -1447,9 +1447,9 @@
       "ID": "Suicide Guy",
       "SetID": "1fffk9d",
       "Name": "Firest level completed!",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 273
+      "UsersEstimate": 276
     },
     {
       "ID": "The Breaker",
@@ -1470,8 +1470,8 @@
   ],
   "FirstSeen": "2023-06-15T07:57:21.3305809+00:00",
   "FirstSeenAchievements": "2023-05-16T16:00:57.0168149+00:00",
-  "LastChanged_Achievements": "2024-01-04T15:05:17.6487115+00:00",
+  "LastChanged_Achievements": "2024-01-04T16:07:14.0656112+00:00",
   "LastUpdate_AppInfo": "2024-01-03T13:01:17.6693435+00:00",
-  "LastUpdate_Ratings": "2024-01-04T14:59:37.8884155+00:00",
-  "LastUpdate_Achievements": "2024-01-04T15:05:17.6487219+00:00"
+  "LastUpdate_Ratings": "2024-01-04T16:01:23.8244548+00:00",
+  "LastUpdate_Achievements": "2024-01-04T16:07:14.0656274+00:00"
 }

@@ -1,34 +1,34 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 1,044)  
+Rating: 3.99 (Ranked 1,043)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 10.00% | ~14,933 |
-| Titan's First Steps | 10.00% | ~14,933 |
-| Basic in Bulk | 9.00% | ~13,440 |
-| Tinkle of Coins | 9.00% | ~13,440 |
-| Disintermediation | 7.00% | ~10,453 |
-| Capitalism Ho! | 7.00% | ~10,453 |
-| Another Satisfied Customer | 6.00% | ~8,960 |
-| It's Free Real Estate | 6.00% | ~8,960 |
-| Budding Merchant | 6.00% | ~8,960 |
+| Sponsored by Argon | 10.00% | ~14,935 |
+| Titan's First Steps | 10.00% | ~14,935 |
+| Basic in Bulk | 9.00% | ~13,441 |
+| Tinkle of Coins | 9.00% | ~13,441 |
+| Disintermediation | 7.00% | ~10,454 |
+| Capitalism Ho! | 7.00% | ~10,454 |
+| Another Satisfied Customer | 6.00% | ~8,961 |
+| It's Free Real Estate | 6.00% | ~8,961 |
+| Budding Merchant | 6.00% | ~8,961 |
 | One Easy Payment | 5.00% | ~7,467 |
 | Some Assembly Required | 5.00% | ~7,467 |
 | Pretty Penny | 5.00% | ~7,467 |
 | One-Armed Bandit | 5.00% | ~7,467 |
 | Own the Means of Production | 5.00% | ~7,467 |
-| The Daily Grind | 4.00% | ~5,973 |
-| Bounty Hunters | 4.00% | ~5,973 |
-| Demand for Supplies | 4.00% | ~5,973 |
-| Flooding the Market | 4.00% | ~5,973 |
-| Where it Hurts | 4.00% | ~5,973 |
-| Gild-Gotten Goods | 4.00% | ~5,973 |
-| Dungeon Imports | 4.00% | ~5,973 |
-| Through Repetition, Perfection | 4.00% | ~5,973 |
-| Arcane Industries | 4.00% | ~5,973 |
+| The Daily Grind | 4.00% | ~5,974 |
+| Bounty Hunters | 4.00% | ~5,974 |
+| Demand for Supplies | 4.00% | ~5,974 |
+| Flooding the Market | 4.00% | ~5,974 |
+| Where it Hurts | 4.00% | ~5,974 |
+| Gild-Gotten Goods | 4.00% | ~5,974 |
+| Dungeon Imports | 4.00% | ~5,974 |
+| Through Repetition, Perfection | 4.00% | ~5,974 |
+| Arcane Industries | 4.00% | ~5,974 |
 | On the Path to Greatness | 3.00% | ~4,480 |
 | Ascended | 3.00% | ~4,480 |
 | Tax not Included | 3.00% | ~4,480 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~597 |
 | Capitalist Camaraderie | 0.20% | ~299 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 149,332 (Ranked 86)  
+Progressed: 149,347 (Ranked 86)  
 Completed: 342 (0.23%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -378,16 +378,16 @@ Completed: 342 (0.23%) (Ranked 268)
 | 2024-01-01 | 148,903 | 340 |
 | 2024-01-02 | 149,077 | 341 |
 | 2024-01-03 | 149,238 | 342 |
-| 2024-01-04 | 149,332 | 342 |
+| 2024-01-04 | 149,347 | 342 |
 ## Awards
 Max (Great for Beginners): 4,940  (Ranked 78)  
-Sum: 27,919 (Ranked 52)  
+Sum: 27,921 (Ranked 52)  
 Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,940 |
 | This game is Relaxing | 4,072 |
-| This game has Quickly Understood Controls | 4,066 |
+| This game has Quickly Understood Controls | 4,068 |
 | This game has Diverse Characters | 4,020 |
 | This game is Highly Recommended | 3,813 |
 | This game has Easy Combat | 3,766 |
@@ -734,4 +734,4 @@ Diff (max vs sum): 26
 | 2024-01-01 | 3.99 | - | 4,934 | 27,894 |
 | 2024-01-02 | 3.99 | - | 4,937 | 27,905 |
 | 2024-01-03 | 3.99 | - | 4,940 | 27,918 |
-| 2024-01-04 | 3.99 | - | 4,940 | 27,919 |
+| 2024-01-04 | 3.99 | - | 4,940 | 27,921 |

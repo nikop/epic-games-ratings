@@ -83,6 +83,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Precious | 0.30% | ~727 |
 | Raw Power | 0.30% | ~11 |
 | A Long Climb | 0.20% | ~485 |
+| Hydrophobe | 0.20% | ~485 |
 | Dead Revels | 0.20% | ~485 |
 | Friend of Vermin | 0.20% | ~485 |
 | Explosive Betrayal | 0.20% | ~485 |
@@ -103,7 +104,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nuclear | 0.20% | ~8 |
 | Quick Descent | 0.10% | ~242 |
 | A Week Attempt | 0.10% | ~242 |
-| Hydrophobe | 0.10% | ~242 |
 | Disposal | 0.10% | ~242 |
 | Hanging On | 0.10% | ~242 |
 | A Hard Carry | 0.10% | ~242 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,337 (Ranked 72)  
+Progressed: 242,338 (Ranked 72)  
 Completed: 304 (0.13%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -404,7 +404,7 @@ Completed: 304 (0.13%) (Ranked 295)
 | 2024-01-01 | 242,196 | 302 |
 | 2024-01-02 | 242,247 | 303 |
 | 2024-01-03 | 242,304 | 303 |
-| 2024-01-04 | 242,337 | 304 |
+| 2024-01-04 | 242,338 | 304 |
 ## Awards
 Max (Quickly Understood Controls): 1,513  (Ranked 136)  
 Sum: 11,785 (Ranked 89)  

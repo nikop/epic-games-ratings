@@ -16,12 +16,12 @@ Number of Ratings: 1,845  (23.09.2022)
 | Coral Forest | 6.00% | ~1,207 |
 | The Marshlands | 6.00% | ~1,207 |
 | Gathering Storm | 6.00% | ~1,207 |
-| The Scarlet Orchard | 5.00% | ~1,005 |
-| Frosts | 5.00% | ~1,005 |
-| Land of Greed | 5.00% | ~1,005 |
-| Ominous Presence | 5.00% | ~1,005 |
-| Royal Outpost | 4.00% | ~804 |
-| Watchtower | 4.00% | ~804 |
+| The Scarlet Orchard | 5.00% | ~1,006 |
+| Frosts | 5.00% | ~1,006 |
+| Land of Greed | 5.00% | ~1,006 |
+| Ominous Presence | 5.00% | ~1,006 |
+| Royal Outpost | 4.00% | ~805 |
+| Watchtower | 4.00% | ~805 |
 | Homesick | 3.00% | ~603 |
 | Ruined Armory | 3.00% | ~603 |
 | Fertile Meadows | 3.00% | ~603 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,109 (Ranked 152)  
+Progressed: 20,113 (Ranked 152)  
 Completed: 33 (0.16%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 33 (0.16%) (Ranked 282)
 | 2024-01-01 | 19,919 | 33 |
 | 2024-01-02 | 19,991 | 33 |
 | 2024-01-03 | 20,065 | 33 |
-| 2024-01-04 | 20,109 | 33 |
+| 2024-01-04 | 20,113 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 447  (Ranked 230)  
 Sum: 3,329 (Ranked 176)  

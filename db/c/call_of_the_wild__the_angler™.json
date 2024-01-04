@@ -6,9 +6,9 @@
   "Ranking_Popularity": 477,
   "Ranking_PopularitySum": 408,
   "Ranking_EOS_Progress": 189,
-  "Ranking_EOS_Completed": 392,
+  "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -1021,9 +1021,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 7944,
+  "EOS_Progressed": 7947,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 271,
+  "EOS_NewPlayers": 272,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13171,6 +13171,11 @@
       "Time": "2024-01-04T15:06:16.6729337+00:00",
       "NumProgressed": 7944,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T16:08:40.6039364+00:00",
+      "NumProgressed": 7947,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -13182,7 +13187,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1350
+      "UsersEstimate": 1351
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -13198,15 +13203,15 @@
       "Name": "Hey Good Hookin",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "ACHIEVEMENT_004",
       "SetID": "1a05lfd",
       "Name": "Ready to Rod and Roll",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 715
+      "UsersEstimate": 795
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -13228,9 +13233,9 @@
       "ID": "ACHIEVEMENT_007",
       "SetID": "1a05lfd",
       "Name": "More Fish in the Sea",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1192
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -13238,7 +13243,7 @@
       "Name": "Scaling up",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -13270,7 +13275,7 @@
       "Name": "I\u0027m the Captain Now",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ACHIEVEMENT_013",
@@ -13501,13 +13506,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7944,
+      "Progressed": 7947,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7316,
+      "Progressed": 7319,
       "Completed": 113
     }
   ],
@@ -13515,8 +13520,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-03T21:01:30.920658+00:00",
-  "LastChanged_Achievements": "2024-01-04T15:06:16.6729334+00:00",
+  "LastChanged_Achievements": "2024-01-04T16:08:40.603936+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:09.4029638+00:00",
-  "LastUpdate_Ratings": "2024-01-04T15:00:12.6551475+00:00",
-  "LastUpdate_Achievements": "2024-01-04T15:06:16.6730013+00:00"
+  "LastUpdate_Ratings": "2024-01-04T16:02:21.4740362+00:00",
+  "LastUpdate_Achievements": "2024-01-04T16:08:40.6040227+00:00"
 }

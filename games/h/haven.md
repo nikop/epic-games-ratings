@@ -1,14 +1,14 @@
 # Haven
 [Store](https://store.epicgames.com/en-US/p/haven)  
 [View Rawdata](../../db/h/haven.json)  
-Rating: 4.75 (Ranked 147)  
+Rating: 4.75 (Ranked 149)  
 Number of Ratings: 38  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Balding bloot! | 71.00% | ~1,337 |
+| Balding bloot! | 71.00% | ~1,338 |
 | Lovebirds | 43.00% | ~810 |
-| Life’s short, ride long | 39.00% | ~734 |
+| Life’s short, ride long | 39.00% | ~735 |
 | Hug therapy | 38.00% | ~716 |
 | Over my dead body | 35.00% | ~659 |
 | Shake the rust off their feet | 18.00% | ~339 |
@@ -29,15 +29,15 @@ Number of Ratings: 38  (23.09.2022)
 | An eye for an eye | 5.00% | ~94 |
 | Can't get wetter... | 4.00% | ~75 |
 | Spring cleaning | 4.00% | ~75 |
-| Second thoughts | 3.00% | ~56 |
-| Mooning the moon | 3.00% | ~56 |
-| Pearls before Birble | 3.00% | ~56 |
-| Strip-a-bobble | 3.00% | ~56 |
-| Last minute | 3.00% | ~56 |
+| Second thoughts | 3.00% | ~57 |
+| Mooning the moon | 3.00% | ~57 |
+| Pearls before Birble | 3.00% | ~57 |
+| Strip-a-bobble | 3.00% | ~57 |
+| Last minute | 3.00% | ~57 |
 | Thar she blows | 2.00% | ~38 |
 | À la carte | 1.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,883 (Ranked 249)  
+Progressed: 1,884 (Ranked 249)  
 Completed: 10 (0.53%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 10 (0.53%) (Ranked 213)
 | 2024-01-01 | 1,856 | 10 |
 | 2024-01-02 | 1,867 | 10 |
 | 2024-01-03 | 1,877 | 10 |
-| 2024-01-04 | 1,883 | 10 |
+| 2024-01-04 | 1,884 | 10 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

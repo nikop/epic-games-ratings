@@ -6,9 +6,9 @@
   "Ranking_Popularity": 210,
   "Ranking_PopularitySum": 192,
   "Ranking_EOS_Progress": 101,
-  "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_Completed": 328,
+  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -5403,7 +5403,7 @@
       "Count": 533
     }
   ],
-  "EOS_Progressed": 92985,
+  "EOS_Progressed": 92989,
   "EOS_Completed": 58,
   "EOS_NewPlayers": 343,
   "EOS_NewCompleters": 0,
@@ -30293,6 +30293,11 @@
       "Time": "2024-01-04T15:05:09.2548273+00:00",
       "NumProgressed": 92985,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-04T16:07:01.6015712+00:00",
+      "NumProgressed": 92989,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -30304,7 +30309,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3719
+      "UsersEstimate": 3720
     },
     {
       "ID": "ACH_0011",
@@ -30448,7 +30453,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3719
+      "UsersEstimate": 3720
     },
     {
       "ID": "ACH_0210",
@@ -30456,7 +30461,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3719
+      "UsersEstimate": 3720
     },
     {
       "ID": "ACH_0211",
@@ -30631,13 +30636,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 92985,
+      "Progressed": 92989,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 21332,
+      "Progressed": 21336,
       "Completed": 15595
     }
   ],
@@ -30645,8 +30650,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2024-01-04T03:57:14.6738683+00:00",
-  "LastChanged_Achievements": "2024-01-04T15:05:09.2548269+00:00",
+  "LastChanged_Achievements": "2024-01-04T16:07:01.6015708+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:43.6008036+00:00",
-  "LastUpdate_Ratings": "2024-01-04T14:57:28.3913519+00:00",
-  "LastUpdate_Achievements": "2024-01-04T15:05:09.2549877+00:00"
+  "LastUpdate_Ratings": "2024-01-04T15:58:05.3065484+00:00",
+  "LastUpdate_Achievements": "2024-01-04T16:07:01.601764+00:00"
 }

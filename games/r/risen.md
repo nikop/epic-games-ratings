@@ -33,8 +33,8 @@ Rating: 4.55 (Ranked 523)
 | Pandora's box | 13.00% | ~21 |
 | Ghost hunter | 13.00% | ~21 |
 | Peacekeeper | 13.00% | ~21 |
+| Defender | 12.00% | ~19 |
 | Workaholic | 12.00% | ~19 |
-| Defender | 11.00% | ~18 |
 | Safecracker | 10.00% | ~16 |
 | Master thief | 10.00% | ~16 |
 | Freedom fighter | 9.00% | ~14 |
@@ -44,7 +44,7 @@ Rating: 4.55 (Ranked 523)
 | Terror of the hens | 6.00% | ~10 |
 | Expert | 6.00% | ~10 |
 | Moneybags | 6.00% | ~10 |
-| The traveler | 4.00% | ~6 |
+| The traveler | 5.00% | ~8 |
 | King Midas | 4.00% | ~6 |
 | Rune master | 3.00% | ~5 |
 | Fervent swimmer | 3.00% | ~5 |
@@ -57,7 +57,7 @@ Rating: 4.55 (Ranked 523)
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 160 (Ranked 443)  
-Completed: 0 (0.00%) (Ranked 392)  
+Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

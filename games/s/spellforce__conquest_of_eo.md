@@ -18,14 +18,14 @@
 | Alchemist's Apprentice | 37.00% | ~42 |
 | Necromancer's Apprentice | 37.00% | ~42 |
 | Friend of Lyraine | 36.00% | ~41 |
+| The Circle | 35.00% | ~40 |
 | Redecorating | 34.00% | ~38 |
-| The Circle | 34.00% | ~38 |
 | Bad JuJu | 25.00% | ~28 |
 | Friend of Sevenkeeps | 24.00% | ~27 |
 | Slave to the rhythm | 22.00% | ~25 |
 | Castle Meldec | 22.00% | ~25 |
 | Sevenkeeps Seat of Kings | 20.00% | ~23 |
-| Friend of Alluvyan | 17.00% | ~19 |
+| Friend of Alluvyan | 18.00% | ~20 |
 | Friend of Connach | 15.00% | ~17 |
 | Friend of Gillyshire | 14.00% | ~16 |
 | Stormwatch Faste | 13.00% | ~15 |
@@ -76,7 +76,7 @@
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 113 (Ranked 478)  
-Completed: 0 (0.00%) (Ranked 392)  
+Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

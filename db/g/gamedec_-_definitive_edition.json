@@ -6,9 +6,9 @@
   "Ranking_Popularity": 383,
   "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 68,
-  "Ranking_EOS_Completed": 392,
+  "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -519,7 +519,7 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 256810,
+  "EOS_Progressed": 256815,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 791,
   "EOS_NewCompleters": 0,
@@ -29579,6 +29579,11 @@
       "Time": "2024-01-04T15:04:09.4722601+00:00",
       "NumProgressed": 256810,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-04T16:05:34.6342777+00:00",
+      "NumProgressed": 256815,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 52,
@@ -29590,7 +29595,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 69339
+      "UsersEstimate": 69340
     },
     {
       "ID": "ACH_AON",
@@ -29614,7 +29619,7 @@
       "Name": "BOY!",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 10272
+      "UsersEstimate": 10273
     },
     {
       "ID": "ACH_CATNIPCATNIP",
@@ -29630,7 +29635,7 @@
       "Name": "Collector",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 30817
+      "UsersEstimate": 30818
     },
     {
       "ID": "ACH_ENJOY",
@@ -29654,7 +29659,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 33385
+      "UsersEstimate": 33386
     },
     {
       "ID": "ACH_HATTRICK",
@@ -29734,7 +29739,7 @@
       "Name": "I will finish what you started",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 74475
+      "UsersEstimate": 74476
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -29750,7 +29755,7 @@
       "Name": "It\u0027s blue, always blue",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 2054
+      "UsersEstimate": 2055
     },
     {
       "ID": "ACH_KACHING",
@@ -29758,7 +29763,7 @@
       "Name": "Ka-ching!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10272
+      "UsersEstimate": 10273
     },
     {
       "ID": "ACH_LETMEOUT",
@@ -29806,7 +29811,7 @@
       "Name": "Write that down",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64202
+      "UsersEstimate": 64204
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -29822,7 +29827,7 @@
       "Name": "Good listener",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 12840
+      "UsersEstimate": 12841
     },
     {
       "ID": "ACH_LETSOTHERTHINKING",
@@ -29854,7 +29859,7 @@
       "Name": "Home run",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 2054
+      "UsersEstimate": 2055
     },
     {
       "ID": "ACH_LETSWORK",
@@ -29910,7 +29915,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64202
+      "UsersEstimate": 64204
     },
     {
       "ID": "ACH_SOREAD",
@@ -29918,7 +29923,7 @@
       "Name": "So you like to read?",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 10272
+      "UsersEstimate": 10273
     },
     {
       "ID": "ACH_TAKEBLUEPILL",
@@ -30005,7 +30010,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 256810,
+      "Progressed": 256815,
       "Completed": 8
     }
   ],
@@ -30013,8 +30018,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-12-30T22:03:09.2237596+00:00",
-  "LastChanged_Achievements": "2024-01-04T15:04:09.4722597+00:00",
+  "LastChanged_Achievements": "2024-01-04T16:05:34.6342773+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:57:01.0065032+00:00",
-  "LastUpdate_Ratings": "2024-01-04T14:58:11.1108635+00:00",
-  "LastUpdate_Achievements": "2024-01-04T15:04:09.4723996+00:00"
+  "LastUpdate_Ratings": "2024-01-04T15:59:09.9904387+00:00",
+  "LastUpdate_Achievements": "2024-01-04T16:05:34.6345044+00:00"
 }

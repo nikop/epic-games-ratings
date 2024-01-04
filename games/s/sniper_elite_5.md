@@ -1,17 +1,17 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.46 (Ranked 672)  
+Rating: 4.46 (Ranked 671)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,975 |
-| Confirming Suspicions | 42.00% | ~1,765 |
-| The Kraken Wakes | 37.00% | ~1,555 |
-| It's Starting to Crack | 34.00% | ~1,429 |
-| Change the Channel | 32.00% | ~1,345 |
-| Lord of War | 31.00% | ~1,303 |
-| Taking it back | 30.00% | ~1,261 |
+| Meeting Resistance | 47.00% | ~1,976 |
+| Confirming Suspicions | 42.00% | ~1,766 |
+| The Kraken Wakes | 37.00% | ~1,556 |
+| It's Starting to Crack | 34.00% | ~1,430 |
+| Change the Channel | 32.00% | ~1,346 |
+| Lord of War | 31.00% | ~1,304 |
+| Taking it back | 30.00% | ~1,262 |
 | Resourceful | 28.00% | ~1,177 |
 | Target America | 27.00% | ~1,135 |
 | The Kraken Sleeps | 25.00% | ~1,051 |
@@ -24,16 +24,16 @@ Rating: 4.46 (Ranked 672)
 | Climbing the Ladder | 17.00% | ~715 |
 | Just a Flesh Wound | 17.00% | ~715 |
 | Der Geist | 17.00% | ~715 |
-| Close Quarters | 16.00% | ~672 |
-| Snake in the Grass | 16.00% | ~672 |
-| No Stone Unturned | 15.00% | ~630 |
-| Skirmisher | 15.00% | ~630 |
-| Die Nussknacker Sweet! | 15.00% | ~630 |
-| Brains of the Operation | 15.00% | ~630 |
-| Opposing Force | 14.00% | ~588 |
-| Enemy at the Gates | 14.00% | ~588 |
-| Fields of Glory | 14.00% | ~588 |
-| Set Europe Ablaze | 14.00% | ~588 |
+| Close Quarters | 16.00% | ~673 |
+| Snake in the Grass | 16.00% | ~673 |
+| No Stone Unturned | 15.00% | ~631 |
+| Skirmisher | 15.00% | ~631 |
+| Die Nussknacker Sweet! | 15.00% | ~631 |
+| Brains of the Operation | 15.00% | ~631 |
+| Opposing Force | 14.00% | ~589 |
+| Enemy at the Gates | 14.00% | ~589 |
+| Fields of Glory | 14.00% | ~589 |
+| Set Europe Ablaze | 14.00% | ~589 |
 | Precision Is Key | 10.00% | ~420 |
 | My Little Friend | 10.00% | ~420 |
 | Rigged to Blow | 9.00% | ~378 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 672)
 | Going Overboard | 0.60% | ~25 |
 | Stroll in the Woods | 0.50% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,203 (Ranked 208)  
+Progressed: 4,205 (Ranked 208)  
 Completed: 11 (0.26%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,7 +334,7 @@ Completed: 11 (0.26%) (Ranked 261)
 | 2024-01-01 | 4,182 | 11 |
 | 2024-01-02 | 4,190 | 11 |
 | 2024-01-03 | 4,197 | 11 |
-| 2024-01-04 | 4,203 | 11 |
+| 2024-01-04 | 4,205 | 11 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 529)  
 Sum: 28 (Ranked 545)  

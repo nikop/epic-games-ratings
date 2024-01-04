@@ -5,20 +5,20 @@ Rating: 4.57 (Ranked 491)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 68.00% | ~926 |
-| The Teleprobe | 53.00% | ~722 |
-| The City | 48.00% | ~654 |
-| The field base | 44.00% | ~599 |
-| The Alliance | 39.00% | ~531 |
-| Survivors | 38.00% | ~518 |
-| The Condor | 36.00% | ~490 |
-| The End | 35.00% | ~477 |
-| Krauta is alive | 27.00% | ~368 |
-| The Necroevolution | 27.00% | ~368 |
-| On her own | 21.00% | ~286 |
-| Peacemaker | 21.00% | ~286 |
-| Volcanologist | 21.00% | ~286 |
-| Fierce fight | 20.00% | ~272 |
+| The Camp | 68.00% | ~928 |
+| The Teleprobe | 53.00% | ~723 |
+| The City | 48.00% | ~655 |
+| The field base | 44.00% | ~601 |
+| The Alliance | 39.00% | ~532 |
+| Survivors | 38.00% | ~519 |
+| The Condor | 36.00% | ~491 |
+| The End | 35.00% | ~478 |
+| The Necroevolution | 28.00% | ~382 |
+| Krauta is alive | 27.00% | ~369 |
+| On her own | 21.00% | ~287 |
+| Peacemaker | 21.00% | ~287 |
+| Volcanologist | 21.00% | ~287 |
+| Fierce fight | 20.00% | ~273 |
 | Evacuation | 19.00% | ~259 |
 | Beyond divisions | 17.00% | ~232 |
 | Flying Objects Operator | 16.00% | ~218 |
@@ -26,7 +26,7 @@ Rating: 4.57 (Ranked 491)
 | Another giant | 13.00% | ~177 |
 | Violent solution | 9.00% | ~123 |
 | I leave no man behind | 9.00% | ~123 |
-| Innate curiosity | 7.00% | ~95 |
+| Innate curiosity | 7.00% | ~96 |
 | Ubiquitous holes | 6.00% | ~82 |
 | The Invincible | 6.00% | ~82 |
 | Strong objection | 6.00% | ~82 |
@@ -35,8 +35,8 @@ Rating: 4.57 (Ranked 491)
 | Convoy list | 1.00% | ~14 |
 | No more mistakes | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,362 (Ranked 272)  
-Completed: 0 (0.00%) (Ranked 392)  
+Progressed: 1,365 (Ranked 272)  
+Completed: 1 (0.07%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -95,7 +95,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-01 | 1,273 | 0 |
 | 2024-01-02 | 1,309 | 0 |
 | 2024-01-03 | 1,345 | 0 |
-| 2024-01-04 | 1,362 | 0 |
+| 2024-01-04 | 1,365 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,21 +7,21 @@ Rating: 4.65 (Ranked 320)
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 44.00% | ~537 |
 | Rail Rat | 33.00% | ~403 |
-| The Mysterious Stranger | 32.00% | ~390 |
+| The Mysterious Stranger | 32.00% | ~391 |
 | Immaculate Aim | 28.00% | ~342 |
-| The Brass Boss | 27.00% | ~329 |
+| The Brass Boss | 27.00% | ~330 |
 | Time Flies | 26.00% | ~317 |
 | Make Up For Lost Time | 25.00% | ~305 |
 | The Harder They Fall | 25.00% | ~305 |
 | No, Thanks! | 25.00% | ~305 |
 | The Prince in Heels | 25.00% | ~305 |
 | Honest Mistake | 25.00% | ~305 |
-| Immaculate Aim | 25.00% | ~305 |
 | Fast Learner | 24.00% | ~293 |
+| Immaculate Aim | 24.00% | ~293 |
 | The Steel Shadow | 23.00% | ~281 |
 | Breaking Down Barriers | 23.00% | ~281 |
-| Right On Time | 22.00% | ~268 |
-| The Wicked Twins | 22.00% | ~268 |
+| Right On Time | 22.00% | ~269 |
+| The Wicked Twins | 22.00% | ~269 |
 | Like Clockwork | 21.00% | ~256 |
 | The Betrayer | 21.00% | ~256 |
 | Golem Chaser | 21.00% | ~256 |
@@ -35,9 +35,9 @@ Rating: 4.65 (Ranked 320)
 | Good Neighbor | 14.00% | ~171 |
 | Cartographer | 13.00% | ~159 |
 | Ask Questions Later | 13.00% | ~159 |
-| Chaincrawler Explorer | 12.00% | ~146 |
-| Treasure Trove | 12.00% | ~146 |
-| Syron for Hope | 12.00% | ~146 |
+| Chaincrawler Explorer | 12.00% | ~147 |
+| Treasure Trove | 12.00% | ~147 |
+| Syron for Hope | 12.00% | ~147 |
 | Sump Explorer | 11.00% | ~134 |
 | Factorywood Explorer | 10.00% | ~122 |
 | Fairgrounds Explorer | 10.00% | ~122 |
@@ -59,7 +59,7 @@ Rating: 4.65 (Ranked 320)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,220 (Ranked 280)  
+Progressed: 1,221 (Ranked 280)  
 Completed: 6 (0.49%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 6 (0.49%) (Ranked 220)
 | 2024-01-01 | 1,190 | 6 |
 | 2024-01-02 | 1,201 | 6 |
 | 2024-01-03 | 1,216 | 6 |
-| 2024-01-04 | 1,220 | 6 |
+| 2024-01-04 | 1,221 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,11 +4,11 @@
   "ProductSlug": "returnal",
   "Ranking_Rating": 397,
   "Ranking_Popularity": 346,
-  "Ranking_PopularitySum": 447,
+  "Ranking_PopularitySum": 448,
   "Ranking_EOS_Progress": 820,
-  "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 568,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_Completed": 393,
+  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-02-15T16:00:00+00:00",
     "PcReleaseDate": "2023-02-15T16:00:00+00:00",
@@ -805,6 +805,6 @@
   "FirstSeenRating": "2023-02-22T19:57:26.9994266+00:00",
   "LastChanged": "2024-01-04T10:59:51.7711548+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:13.5358998+00:00",
-  "LastUpdate_Ratings": "2024-01-04T14:58:40.7660489+00:00",
-  "LastUpdate_Achievements": "2024-01-04T15:05:05.0185965+00:00"
+  "LastUpdate_Ratings": "2024-01-04T15:59:55.084013+00:00",
+  "LastUpdate_Achievements": "2024-01-04T16:06:55.4744668+00:00"
 }

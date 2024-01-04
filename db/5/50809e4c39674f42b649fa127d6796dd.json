@@ -4,7 +4,7 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 383,
+  "Ranking_EOS_NewPlayers": 375,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 510,
+  "EOS_Progressed": 511,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -1447,6 +1447,11 @@
       "Time": "2024-01-04T01:51:57.0645684+00:00",
       "NumProgressed": 510,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-04T16:07:29.4240706+00:00",
+      "NumProgressed": 511,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1515,7 +1520,7 @@
       "Name": "Combo Convert",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
@@ -1523,7 +1528,7 @@
       "Name": "Perfect Run",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
@@ -1531,7 +1536,7 @@
       "Name": "Big Encounter",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "FIRST_KODAMA_ELDER_TALK",
@@ -1539,7 +1544,7 @@
       "Name": "Elder Koco Encounter",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "FIRST_KODAMA_HERMIT_TALK",
@@ -1555,7 +1560,7 @@
       "Name": "Celestial Rain",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "FIRST_MINIBOSS_DEFEATED",
@@ -1563,7 +1568,7 @@
       "Name": "Unknown Threat",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -1611,7 +1616,7 @@
       "Name": "The Beginning",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "MAIN_CLEAR_ISLAND2",
@@ -1651,7 +1656,7 @@
       "Name": "The Journey Begins",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -1667,7 +1672,7 @@
       "Name": "Kronos Island Memories",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "PORTAL_REPAIRED_ISLANAD2",
@@ -1771,21 +1776,21 @@
       "Name": "Swath of Destruction",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     }
   ],
   "AchievementSets": [
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 510,
+      "Progressed": 511,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2024-01-04T15:05:28.2691561+00:00",
+  "LastChanged_Achievements": "2024-01-04T16:07:29.4240699+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:07.7248276+00:00",
-  "LastUpdate_Ratings": "2024-01-04T15:03:02.8891054+00:00",
-  "LastUpdate_Achievements": "2024-01-04T15:05:28.2691902+00:00"
+  "LastUpdate_Ratings": "2024-01-04T16:03:50.837632+00:00",
+  "LastUpdate_Achievements": "2024-01-04T16:07:29.424115+00:00"
 }

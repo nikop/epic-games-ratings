@@ -1,27 +1,27 @@
 # RIDE 5
 [Store](https://store.epicgames.com/en-US/p/ride-5)  
 [View Rawdata](../../db/r/ride_5.json)  
-Rating: 4.46 (Ranked 672)  
+Rating: 4.46 (Ranked 671)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 48.00% | ~1,571 |
-| First Love | 45.00% | ~1,472 |
-| Clean Race | 43.00% | ~1,407 |
-| Hear That Roar! | 41.00% | ~1,342 |
+| Eat My Dust | 48.00% | ~1,572 |
+| First Love | 45.00% | ~1,474 |
+| Clean Race | 44.00% | ~1,441 |
+| Hear That Roar! | 41.00% | ~1,343 |
 | Bitter Rivalry | 30.00% | ~982 |
 | Rivals to the End | 30.00% | ~982 |
-| Champagne Spray | 28.00% | ~916 |
-| We're Going to Need a Bigger Garage | 26.00% | ~851 |
+| Champagne Spray | 28.00% | ~917 |
+| We're Going to Need a Bigger Garage | 26.00% | ~852 |
 | Quick Pit Stop | 22.00% | ~720 |
-| I Want One Too! | 21.00% | ~687 |
-| Restored and Ready | 20.00% | ~654 |
-| Legendary!!! | 20.00% | ~654 |
-| Go-Faster Stripes | 17.00% | ~556 |
+| Restored and Ready | 20.00% | ~655 |
+| I Want One Too! | 20.00% | ~655 |
+| Legendary!!! | 20.00% | ~655 |
+| Go-Faster Stripes | 17.00% | ~557 |
 | I'm Here Too! | 15.00% | ~491 |
-| We've Just Begun | 14.00% | ~458 |
-| Stamina Star | 9.00% | ~294 |
-| Is It the Right Size? | 9.00% | ~294 |
+| We've Just Begun | 14.00% | ~459 |
+| Stamina Star | 9.00% | ~295 |
+| Is It the Right Size? | 9.00% | ~295 |
 | Evangelist | 7.00% | ~229 |
 | Make It Your Own! | 5.00% | ~164 |
 | Cherry Blossom and Temples | 4.00% | ~131 |
@@ -32,11 +32,11 @@ Rating: 4.46 (Ranked 672)
 | I Make the Rules! | 3.00% | ~98 |
 | Rounding Off | 3.00% | ~98 |
 | My Work Here Is Done | 3.00% | ~98 |
-| Iconic! | 2.00% | ~65 |
-| I'll Be the Best! | 2.00% | ~65 |
-| Back in Blighty | 2.00% | ~65 |
-| Still Here | 2.00% | ~65 |
-| Overtaking the Master | 2.00% | ~65 |
+| Iconic! | 2.00% | ~66 |
+| I'll Be the Best! | 2.00% | ~66 |
+| Back in Blighty | 2.00% | ~66 |
+| Still Here | 2.00% | ~66 |
+| Overtaking the Master | 2.00% | ~66 |
 | Next Level | 1.00% | ~33 |
 | I Don't Stop | 1.00% | ~33 |
 | Exhausted but Happy | 0.70% | ~23 |
@@ -55,8 +55,8 @@ Rating: 4.46 (Ranked 672)
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,272 (Ranked 223)  
-Completed: 0 (0.00%) (Ranked 392)  
+Progressed: 3,275 (Ranked 223)  
+Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -180,7 +180,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-01 | 3,195 | 0 |
 | 2024-01-02 | 3,224 | 0 |
 | 2024-01-03 | 3,258 | 0 |
-| 2024-01-04 | 3,272 | 0 |
+| 2024-01-04 | 3,275 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

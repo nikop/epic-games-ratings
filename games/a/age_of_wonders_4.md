@@ -5,21 +5,21 @@ Rating: 4.62 (Ranked 376)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 14.00% | ~955 |
-| Realm Estate | 13.00% | ~887 |
-| A Wonderful Discovery | 12.00% | ~819 |
-| Walls Cannot Stop Us | 12.00% | ~819 |
-| From Friends to Family | 10.00% | ~682 |
-| Bone Peddler | 9.00% | ~614 |
+| Secret Technique | 14.00% | ~956 |
+| Realm Estate | 13.00% | ~888 |
+| A Wonderful Discovery | 12.00% | ~820 |
+| Walls Cannot Stop Us | 12.00% | ~820 |
+| From Friends to Family | 10.00% | ~683 |
+| Bone Peddler | 9.00% | ~615 |
 | Magical Synergy | 8.00% | ~546 |
 | Full Ascension | 7.00% | ~478 |
-| There Can Only Be One! | 6.00% | ~409 |
-| Stronger Together | 6.00% | ~409 |
-| Seat of Power | 6.00% | ~409 |
-| In a Liege of Your Own | 6.00% | ~409 |
-| Valley of Wonders | 5.00% | ~341 |
-| Intimidation Tactics | 5.00% | ~341 |
-| But this one is mine | 5.00% | ~341 |
+| There Can Only Be One! | 6.00% | ~410 |
+| Stronger Together | 6.00% | ~410 |
+| Seat of Power | 6.00% | ~410 |
+| In a Liege of Your Own | 6.00% | ~410 |
+| Valley of Wonders | 5.00% | ~342 |
+| Intimidation Tactics | 5.00% | ~342 |
+| But this one is mine | 5.00% | ~342 |
 | Return of the Wizard King | 4.00% | ~273 |
 | Digging for Treasure | 4.00% | ~273 |
 | My Final Form | 4.00% | ~273 |
@@ -29,16 +29,16 @@ Rating: 4.62 (Ranked 376)
 | Fiery Friend | 3.00% | ~205 |
 | Against the Odds | 3.00% | ~205 |
 | Freed Lands of Manuhari | 3.00% | ~205 |
-| Arch Mage | 2.00% | ~136 |
-| The Creator | 2.00% | ~136 |
-| Crimson Caldera | 2.00% | ~136 |
-| Here be Dragons | 2.00% | ~136 |
-| Tipping the Scales | 2.00% | ~136 |
-| Blood of the Dragon | 2.00% | ~136 |
-| Mighty Hoard | 2.00% | ~136 |
-| Sehiran Oasis | 2.00% | ~136 |
-| Chaos Surge | 2.00% | ~136 |
-| Spoils of War | 2.00% | ~136 |
+| Arch Mage | 2.00% | ~137 |
+| The Creator | 2.00% | ~137 |
+| Crimson Caldera | 2.00% | ~137 |
+| Here be Dragons | 2.00% | ~137 |
+| Tipping the Scales | 2.00% | ~137 |
+| Blood of the Dragon | 2.00% | ~137 |
+| Mighty Hoard | 2.00% | ~137 |
+| Sehiran Oasis | 2.00% | ~137 |
+| Chaos Surge | 2.00% | ~137 |
+| Spoils of War | 2.00% | ~137 |
 | I've Got Everything I Need Right Here | 1.00% | ~68 |
 | God Emperor | 1.00% | ~68 |
 | Lord of Chaos | 1.00% | ~68 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 376)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,822 (Ranked 196)  
+Progressed: 6,830 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 7 (0.10%) (Ranked 306)
 | 2024-01-01 | 6,687 | 7 |
 | 2024-01-02 | 6,742 | 7 |
 | 2024-01-03 | 6,793 | 7 |
-| 2024-01-04 | 6,822 | 7 |
+| 2024-01-04 | 6,830 | 7 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 478)  
 Sum: 209 (Ranked 409)  

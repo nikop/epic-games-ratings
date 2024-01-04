@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
@@ -3868,9 +3868,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242337,
+  "EOS_Progressed": 242338,
   "EOS_Completed": 304,
-  "EOS_NewPlayers": 435,
+  "EOS_NewPlayers": 430,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -30673,6 +30673,11 @@
       "Time": "2024-01-04T15:10:02.9135656+00:00",
       "NumProgressed": 242337,
       "NumCompleted": 304
+    },
+    {
+      "Time": "2024-01-04T16:11:38.8418883+00:00",
+      "NumProgressed": 242338,
+      "NumCompleted": 304
     }
   ],
   "TotalAchievements": 138,
@@ -30810,9 +30815,9 @@
       "ID": "DEPTH6NOPOTIONS",
       "SetID": "5l8oe0h",
       "Name": "Hydrophobe",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 242
+      "UsersEstimate": 485
     },
     {
       "ID": "DESTROY20ITEMS",
@@ -31787,13 +31792,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242337,
+      "Progressed": 242338,
       "Completed": 304
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3817,
+      "Progressed": 3818,
       "Completed": 421
     }
   ],
@@ -31801,8 +31806,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-04T08:58:59.001391+00:00",
-  "LastChanged_Achievements": "2024-01-04T15:10:02.9135652+00:00",
+  "LastChanged_Achievements": "2024-01-04T16:11:38.8418879+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:01.848225+00:00",
-  "LastUpdate_Ratings": "2024-01-04T14:58:46.5424188+00:00",
-  "LastUpdate_Achievements": "2024-01-04T15:10:02.9138209+00:00"
+  "LastUpdate_Ratings": "2024-01-04T16:00:03.8677074+00:00",
+  "LastUpdate_Achievements": "2024-01-04T16:11:38.8421893+00:00"
 }

@@ -5,20 +5,20 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Something important | 85.00% | ~230 |
-| A piece of the story | 63.00% | ~170 |
-| It's covered up for a reason | 56.00% | ~151 |
-| Wanderer | 51.00% | ~138 |
+| A piece of the story | 63.00% | ~171 |
+| It's covered up for a reason | 55.00% | ~149 |
+| Wanderer | 52.00% | ~141 |
 | Scraps of love | 48.00% | ~130 |
 | The artist’s impression | 47.00% | ~127 |
-| Do what you have to | 42.00% | ~113 |
-| Sign of weakness | 39.00% | ~105 |
+| Do what you have to | 42.00% | ~114 |
+| Sign of weakness | 39.00% | ~106 |
 | Refuse to look | 34.00% | ~92 |
 | Face your fears | 28.00% | ~76 |
 | Finished it | 25.00% | ~68 |
 | Whispers long forgotten | 16.00% | ~43 |
-| Debut | 12.00% | ~32 |
-| Sound Bite | 12.00% | ~32 |
-| The art of movement | 12.00% | ~32 |
+| Sound Bite | 13.00% | ~35 |
+| Debut | 12.00% | ~33 |
+| The art of movement | 12.00% | ~33 |
 | Another perspective | 11.00% | ~30 |
 | A Slice of Life | 11.00% | ~30 |
 | Lights! Camera! Action! | 11.00% | ~30 |
@@ -35,9 +35,9 @@
 | Fisherman | 6.00% | ~16 |
 | Something to think about | 4.00% | ~11 |
 | I remember It Like Was Yesterday | 4.00% | ~11 |
+| Immortalized in my heart | 4.00% | ~11 |
 | We Are Not Alone | 3.00% | ~8 |
 | Dark correspondence | 3.00% | ~8 |
-| Immortalized in my heart | 3.00% | ~8 |
 | Full Scoop | 3.00% | ~8 |
 | The Perfect Storm | 3.00% | ~8 |
 | Se7en Seas | 3.00% | ~8 |
@@ -57,8 +57,8 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 270 (Ranked 404)  
-Completed: 0 (0.00%) (Ranked 392)  
+Progressed: 271 (Ranked 404)  
+Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -130,4 +130,4 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-01 | 255 | 0 |
 | 2024-01-02 | 256 | 0 |
 | 2024-01-03 | 265 | 0 |
-| 2024-01-04 | 270 | 0 |
+| 2024-01-04 | 271 | 0 |

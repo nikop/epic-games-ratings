@@ -2,10 +2,10 @@
   "ID": "4bd54a4fed074c488e0bb7428f29d2f4",
   "Name": "1428: Shadows over Silesia",
   "ProductSlug": "1428-shadows-over-silesia-266e5f",
-  "Ranking_EOS_Progress": 544,
-  "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 456,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_Progress": 541,
+  "Ranking_EOS_Completed": 393,
+  "Ranking_EOS_NewPlayers": 442,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2022-10-04T11:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 54,
+  "EOS_Progressed": 55,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -254,6 +254,11 @@
       "Time": "2024-01-03T05:03:42.5811788+00:00",
       "NumProgressed": 54,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T16:05:44.9957891+00:00",
+      "NumProgressed": 55,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-05T18:06:01.4667778+00:00",
@@ -296,7 +301,7 @@
       "ID": "SOS_AUTHORIZATION",
       "SetID": "6ci4lm2",
       "Name": "Authorization letter",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -336,15 +341,15 @@
       "ID": "SOS_BURN_HENNERSDORF",
       "SetID": "6ci4lm2",
       "Name": "Red rooster",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "SOS_DEAD_END",
       "SetID": "6ci4lm2",
       "Name": "Dead end",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -368,7 +373,7 @@
       "ID": "SOS_ENEMY_OF_MY_ENEMY",
       "SetID": "6ci4lm2",
       "Name": "Enemy of my enemy",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 35,
       "UsersEstimate": 3
     },
@@ -376,7 +381,7 @@
       "ID": "SOS_EVERYBODYS_DEAD",
       "SetID": "6ci4lm2",
       "Name": "Everybody\u0027s dead, Dave",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -408,7 +413,7 @@
       "ID": "SOS_FARKLE",
       "SetID": "6ci4lm2",
       "Name": "Silesian Farkle",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -418,7 +423,7 @@
       "Name": "First blood",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "SOS_FISH",
@@ -472,7 +477,7 @@
       "ID": "SOS_HEARTBREAKING_END",
       "SetID": "6ci4lm2",
       "Name": "Heartbreaking end",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -512,7 +517,7 @@
       "ID": "SOS_ITS_TRAP",
       "SetID": "6ci4lm2",
       "Name": "It\u0027s a trap!",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -544,7 +549,7 @@
       "ID": "SOS_LEGACY",
       "SetID": "6ci4lm2",
       "Name": "Legacy of the Templars",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 35,
       "UsersEstimate": 3
     },
@@ -568,7 +573,7 @@
       "ID": "SOS_MOUTH_COIN",
       "SetID": "6ci4lm2",
       "Name": "What\u0027s he got in his mouth?",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -680,7 +685,7 @@
       "ID": "SOS_SHAFT_INTO_DARKNESS",
       "SetID": "6ci4lm2",
       "Name": "Shaft into the darkness",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -736,7 +741,7 @@
       "ID": "SOS_WE_HAVE_TO_STOP_THEM",
       "SetID": "6ci4lm2",
       "Name": "We have to stop them",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -761,14 +766,14 @@
     {
       "ID": "6ci4lm2",
       "IsBase": true,
-      "Progressed": 54,
+      "Progressed": 55,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-02T04:57:46.0113451+00:00",
   "FirstSeenAchievements": "2023-10-30T14:03:47.4515139+00:00",
-  "LastChanged_Achievements": "2024-01-04T15:04:16.1923514+00:00",
+  "LastChanged_Achievements": "2024-01-04T16:05:44.9957888+00:00",
   "LastUpdate_AppInfo": "2024-01-01T18:57:10.2127516+00:00",
-  "LastUpdate_Ratings": "2024-01-04T14:59:09.6145931+00:00",
-  "LastUpdate_Achievements": "2024-01-04T15:04:16.1923968+00:00"
+  "LastUpdate_Ratings": "2024-01-04T16:00:40.1842048+00:00",
+  "LastUpdate_Achievements": "2024-01-04T16:05:44.9958527+00:00"
 }

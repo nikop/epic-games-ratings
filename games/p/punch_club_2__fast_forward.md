@@ -23,16 +23,16 @@
 | Pal of your father? | 61.00% | ~324 |
 | Spirit of the past | 60.00% | ~319 |
 | Employee of the month | 59.00% | ~313 |
-| Law student | 56.00% | ~297 |
-| Handyman | 54.00% | ~287 |
+| Law student | 57.00% | ~303 |
+| Handyman | 55.00% | ~292 |
 | Workout professional | 53.00% | ~281 |
 | Fight for life | 53.00% | ~281 |
 | Little hacker | 53.00% | ~281 |
 | Champion – starter pack | 53.00% | ~281 |
 | It's good to be alive | 53.00% | ~281 |
 | Intriguing candies | 53.00% | ~281 |
+| Own four walls | 52.00% | ~276 |
 | Employee of the year | 52.00% | ~276 |
-| Own four walls | 51.00% | ~271 |
 | Legal courier | 48.00% | ~255 |
 | Extreme neuropower! | 48.00% | ~255 |
 | Escaped from a big trouble | 46.00% | ~244 |

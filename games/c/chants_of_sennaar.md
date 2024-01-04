@@ -5,33 +5,33 @@ Rating: 4.84 (Ranked 48)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 59.00% | ~1,382 |
-| Welcome to the Tower | 52.00% | ~1,218 |
-| The great escape | 44.00% | ~1,031 |
-| The Preacher's fate | 42.00% | ~984 |
-| A new dawn | 36.00% | ~843 |
-| Scholar | 31.00% | ~726 |
-| True G3M4R | 30.00% | ~703 |
-| The darkness | 30.00% | ~703 |
-| A good beginning | 29.00% | ~679 |
+| That's the spirit | 59.00% | ~1,384 |
+| Welcome to the Tower | 52.00% | ~1,219 |
+| The great escape | 44.00% | ~1,032 |
+| The Preacher's fate | 42.00% | ~985 |
+| A new dawn | 36.00% | ~844 |
+| Scholar | 31.00% | ~727 |
+| True G3M4R | 30.00% | ~704 |
+| The darkness | 30.00% | ~704 |
+| A good beginning | 29.00% | ~680 |
 | One last step | 27.00% | ~633 |
+| Cable guy | 26.00% | ~610 |
 | I did it | 25.00% | ~586 |
-| Cable guy | 25.00% | ~586 |
 | Half the way | 25.00% | ~586 |
 | Rascal | 25.00% | ~586 |
-| Peace walker | 24.00% | ~562 |
-| Champollion | 24.00% | ~562 |
+| Peace walker | 24.00% | ~563 |
+| Champollion | 24.00% | ~563 |
 | In this together | 23.00% | ~539 |
 | Open door | 21.00% | ~492 |
 | Feels like springtime | 21.00% | ~492 |
 | Alchemists Express | 20.00% | ~469 |
 | Free at last | 18.00% | ~422 |
-| A Link to the Past | 15.00% | ~351 |
+| A Link to the Past | 15.00% | ~352 |
 | A great audience | 13.00% | ~305 |
 | For its own good | 13.00% | ~305 |
-| Fashion victim | 8.00% | ~187 |
+| Fashion victim | 8.00% | ~188 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,343 (Ranked 236)  
+Progressed: 2,345 (Ranked 236)  
 Completed: 146 (6.23%) (Ranked 67)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 146 (6.23%) (Ranked 67)
 | 2024-01-01 | 2,184 | 135 |
 | 2024-01-02 | 2,241 | 140 |
 | 2024-01-03 | 2,307 | 145 |
-| 2024-01-04 | 2,343 | 146 |
+| 2024-01-04 | 2,345 | 146 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

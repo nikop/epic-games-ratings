@@ -6,9 +6,9 @@
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 91,
-  "Ranking_EOS_Completed": 392,
+  "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10506,9 +10506,9 @@
       "Count": 1079
     }
   ],
-  "EOS_Progressed": 131617,
+  "EOS_Progressed": 131624,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1250,
+  "EOS_NewPlayers": 1248,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38306,6 +38306,11 @@
       "Time": "2024-01-04T15:09:33.2777683+00:00",
       "NumProgressed": 131617,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-04T16:10:58.2464277+00:00",
+      "NumProgressed": 131624,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38669,7 +38674,7 @@
       "Name": "Autodidact",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9213
+      "UsersEstimate": 9214
     },
     {
       "ID": "hero_story_complete_all",
@@ -38853,7 +38858,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "combat_kill_collector",
@@ -38861,7 +38866,7 @@
       "Name": "This guy... again?",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -38901,7 +38906,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -38909,7 +38914,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "quest_complete_crusader",
@@ -38925,7 +38930,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -38948,21 +38953,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131617,
+      "Progressed": 131624,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6486,
+      "Progressed": 6493,
       "Completed": 821
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-04T14:00:10.8851025+00:00",
-  "LastChanged_Achievements": "2024-01-04T15:09:33.277768+00:00",
+  "LastChanged_Achievements": "2024-01-04T16:10:58.2464274+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-04T14:59:27.676103+00:00",
-  "LastUpdate_Achievements": "2024-01-04T15:09:33.2779396+00:00"
+  "LastUpdate_Ratings": "2024-01-04T16:01:07.0211677+00:00",
+  "LastUpdate_Achievements": "2024-01-04T16:10:58.2466223+00:00"
 }

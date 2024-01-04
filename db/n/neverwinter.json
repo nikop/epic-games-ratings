@@ -2,13 +2,13 @@
   "ID": "9a4a6536096c4307bfb235d811f754ce",
   "Name": "Neverwinter",
   "ProductSlug": "neverwinter",
-  "Ranking_Rating": 875,
+  "Ranking_Rating": 876,
   "Ranking_Popularity": 182,
   "Ranking_PopularitySum": 202,
   "Ranking_EOS_Progress": 820,
-  "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 568,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_Completed": 393,
+  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2020-11-10T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -3379,10 +3379,16 @@
       "Rating": 4.29,
       "NumberOfAwards": 2465,
       "NumberOfAwardsMax": 789
+    },
+    {
+      "Time": "2024-01-04T16:00:15.2428243+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 2466,
+      "NumberOfAwardsMax": 789
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2465,
+  "NumberOfAwards": 2466,
   "NumberOfAwardsMax": 789,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3420,7 +3426,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 200
+      "Count": 201
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3464,8 +3470,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:12.0635613+00:00",
-  "LastChanged": "2024-01-04T14:58:53.145902+00:00",
+  "LastChanged": "2024-01-04T16:00:15.2428239+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:23.3659294+00:00",
-  "LastUpdate_Ratings": "2024-01-04T14:58:53.1459025+00:00",
-  "LastUpdate_Achievements": "2024-01-04T15:06:21.9434081+00:00"
+  "LastUpdate_Ratings": "2024-01-04T16:00:15.2428248+00:00",
+  "LastUpdate_Achievements": "2024-01-04T16:08:48.4477395+00:00"
 }

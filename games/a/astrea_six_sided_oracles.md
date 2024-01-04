@@ -4,36 +4,36 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 83.00% | ~266 |
-| Purification Pioneer | 79.00% | ~254 |
-| Mechanical Buddy | 73.00% | ~234 |
-| Dicesmithing Time! | 64.00% | ~205 |
-| Sanctuary Guardian | 55.00% | ~177 |
-| Endless Tricks | 50.00% | ~160 |
-| Wild's Keeper | 48.00% | ~154 |
-| Mind Illuminator | 44.00% | ~141 |
-| Stellar Dismantler | 37.00% | ~119 |
-| Noctuan Champion | 35.00% | ~112 |
-| Astral Adventurer | 34.00% | ~109 |
-| Anomaly Destroyer | 31.00% | ~100 |
-| Star Killer | 30.00% | ~96 |
-| Eridanian Champion | 25.00% | ~80 |
-| Loyal Partner | 21.00% | ~67 |
-| Lacertian Champion | 21.00% | ~67 |
+| Meissa's Savior | 84.00% | ~271 |
+| Purification Pioneer | 79.00% | ~255 |
+| Mechanical Buddy | 73.00% | ~236 |
+| Dicesmithing Time! | 64.00% | ~207 |
+| Sanctuary Guardian | 54.00% | ~174 |
+| Endless Tricks | 50.00% | ~162 |
+| Wild's Keeper | 48.00% | ~155 |
+| Mind Illuminator | 44.00% | ~142 |
+| Stellar Dismantler | 37.00% | ~120 |
+| Noctuan Champion | 34.00% | ~110 |
+| Astral Adventurer | 33.00% | ~107 |
+| Anomaly Destroyer | 30.00% | ~97 |
+| Star Killer | 29.00% | ~94 |
+| Eridanian Champion | 25.00% | ~81 |
+| Loyal Partner | 21.00% | ~68 |
+| Lacertian Champion | 21.00% | ~68 |
 | Shard Spender | 18.00% | ~58 |
 | Apian Champion | 18.00% | ~58 |
 | Unbeatable | 17.00% | ~55 |
-| Sadistic Plan | 16.00% | ~51 |
+| Sadistic Plan | 16.00% | ~52 |
 | Behenian Champion | 14.00% | ~45 |
-| Wave Bender | 11.00% | ~35 |
+| Wave Bender | 11.00% | ~36 |
 | Astral Seeker | 9.00% | ~29 |
 | Heavy Purger | 9.00% | ~29 |
 | Stellar Haste | 9.00% | ~29 |
 | Aquarian Champion | 9.00% | ~29 |
-| Favored by the Cosmos | 7.00% | ~22 |
-| Heart Gate | 7.00% | ~22 |
-| The Corruption Goddess | 7.00% | ~22 |
-| The Goddes Avatar | 7.00% | ~22 |
+| Favored by the Cosmos | 7.00% | ~23 |
+| Heart Gate | 7.00% | ~23 |
+| The Corruption Goddess | 7.00% | ~23 |
+| The Goddes Avatar | 7.00% | ~23 |
 | Anomaly Control | 5.00% | ~16 |
 | Artificer | 5.00% | ~16 |
 | Can't touch this | 5.00% | ~16 |
@@ -103,8 +103,8 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 321 (Ranked 382)  
-Completed: 0 (0.00%) (Ranked 392)  
+Progressed: 323 (Ranked 382)  
+Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -173,4 +173,4 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-01 | 294 | 0 |
 | 2024-01-02 | 303 | 0 |
 | 2024-01-03 | 312 | 0 |
-| 2024-01-04 | 321 | 0 |
+| 2024-01-04 | 323 | 0 |

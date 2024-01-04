@@ -12,7 +12,7 @@
 | Tasty | 37.00% | ~216 |
 | You Can Pet The Fox | 30.00% | ~175 |
 | Lullaby | 30.00% | ~175 |
-| Hard Fox Life | 23.00% | ~134 |
+| Hard Fox Life | 24.00% | ~140 |
 | Never Let Down | 23.00% | ~134 |
 | A Barking Fox Doesn't Bite | 21.00% | ~122 |
 | Chicken Dinner | 21.00% | ~122 |

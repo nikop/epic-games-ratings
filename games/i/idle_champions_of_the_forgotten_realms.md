@@ -6,10 +6,10 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~7,525 |
+| A Brief Tour of the Realms | 3.00% | ~7,526 |
 | The Cursed Farmer | 2.00% | ~5,017 |
-| Beast Intentions | 1.00% | ~2,508 |
-| The Mad Wizard | 1.00% | ~2,508 |
+| Beast Intentions | 1.00% | ~2,509 |
+| The Mad Wizard | 1.00% | ~2,509 |
 | Welcome to Sigil | 0.80% | ~1,737 |
 | The Ring of Regeneration | 0.70% | ~1,756 |
 | Are Ya Chicken? | 0.60% | ~1,505 |
@@ -22,20 +22,20 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mental Gymnastics | 0.50% | ~1,086 |
 | A Persistent Buzzing | 0.40% | ~1,003 |
 | Pure Energy | 0.40% | ~1,003 |
-| Arcane Suppression | 0.40% | ~868 |
-| Misaligned in Sigil | 0.40% | ~868 |
-| Chaos Theory | 0.40% | ~868 |
-| When Tentacles Attack | 0.40% | ~868 |
-| Flames of Avernus | 0.40% | ~868 |
-| Don't Lose Your Head | 0.40% | ~868 |
-| Mind Spike | 0.40% | ~868 |
-| Maddening | 0.30% | ~752 |
-| Beast Mode | 0.30% | ~752 |
-| Terror in the Dark | 0.30% | ~752 |
-| Unearthed Evil | 0.30% | ~752 |
-| The Crumbling Temple | 0.30% | ~752 |
-| Exploring Port Nyanzaru | 0.30% | ~752 |
-| The Contagious Curse | 0.30% | ~752 |
+| Arcane Suppression | 0.40% | ~869 |
+| Misaligned in Sigil | 0.40% | ~869 |
+| Chaos Theory | 0.40% | ~869 |
+| When Tentacles Attack | 0.40% | ~869 |
+| Flames of Avernus | 0.40% | ~869 |
+| Don't Lose Your Head | 0.40% | ~869 |
+| Mind Spike | 0.40% | ~869 |
+| Maddening | 0.30% | ~753 |
+| Beast Mode | 0.30% | ~753 |
+| Terror in the Dark | 0.30% | ~753 |
+| Unearthed Evil | 0.30% | ~753 |
+| The Crumbling Temple | 0.30% | ~753 |
+| Exploring Port Nyanzaru | 0.30% | ~753 |
+| The Contagious Curse | 0.30% | ~753 |
 | Welcome to the Vrocks | 0.30% | ~651 |
 | The Silken Swamp | 0.20% | ~502 |
 | Supply Run | 0.20% | ~502 |
@@ -49,6 +49,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Running of the Saurs | 0.20% | ~502 |
 | Escort to Waterdeep | 0.20% | ~502 |
 | Close Escort | 0.20% | ~502 |
+| Constant Banditry | 0.20% | ~502 |
 | Waterdeep Detours | 0.20% | ~502 |
 | Underdeep Cartography | 0.20% | ~502 |
 | Overdue Rendezvous | 0.20% | ~502 |
@@ -420,7 +421,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Enemy Summit | 0.10% | ~217 |
 | Mirage Arcane | 0.10% | ~217 |
 | Only Human | 0.10% | ~217 |
-| Constant Banditry | 0.10% | ~251 |
 | The Long Haul | 0.10% | ~251 |
 | Lost in the Deep | 0.10% | ~251 |
 | Easily Distracted | 0.10% | ~251 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~217 |
 | A Wise Approach | 0.10% | ~217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,830 (Ranked 70)  
+Progressed: 250,856 (Ranked 70)  
 Completed: 2,591 (1.03%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -812,7 +812,7 @@ Completed: 2,591 (1.03%) (Ranked 170)
 | 2024-01-01 | 249,335 | 2,583 |
 | 2024-01-02 | 250,032 | 2,585 |
 | 2024-01-03 | 250,594 | 2,588 |
-| 2024-01-04 | 250,830 | 2,591 |
+| 2024-01-04 | 250,856 | 2,591 |
 ## Awards
 Max (Great for Beginners): 5,740  (Ranked 72)  
 Sum: 33,304 (Ranked 41)  

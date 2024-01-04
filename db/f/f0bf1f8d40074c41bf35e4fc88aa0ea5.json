@@ -2,10 +2,10 @@
   "ID": "f0bf1f8d40074c41bf35e4fc88aa0ea5",
   "Name": "Argol - Kronoss\u0027 Castle",
   "ProductSlug": "argol-kronoss-castle-84d829",
-  "Ranking_EOS_Progress": 658,
-  "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 478,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_Progress": 657,
+  "Ranking_EOS_Completed": 44,
+  "Ranking_EOS_NewPlayers": 455,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-12-26T23:00:00+00:00",
     "PcReleaseDate": "2023-12-24T23:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10,
+  "EOS_Progressed": 11,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 10,
+  "EOS_Completed_Percentage": 9.09,
   "EosHistory": [
     {
       "Time": "2023-12-20T22:04:50.3148671+00:00",
@@ -83,6 +83,11 @@
     {
       "Time": "2024-01-04T05:06:29.5116373+00:00",
       "NumProgressed": 10,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-04T16:08:40.9704604+00:00",
+      "NumProgressed": 11,
       "NumCompleted": 1
     }
   ],
@@ -214,7 +219,7 @@
       "ID": "VAMPYRE_QUEEN",
       "SetID": "d0gblle",
       "Name": "Vampire hunter",
-      "Percentage": 20,
+      "Percentage": 18,
       "XP": 5,
       "UsersEstimate": 2
     }
@@ -223,14 +228,14 @@
     {
       "ID": "d0gblle",
       "IsBase": true,
-      "Progressed": 10,
+      "Progressed": 11,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-29T14:58:56.0005709+00:00",
   "FirstSeenAchievements": "2023-12-19T21:04:20.7899526+00:00",
-  "LastChanged_Achievements": "2024-01-04T15:06:16.9410676+00:00",
+  "LastChanged_Achievements": "2024-01-04T16:08:40.9704597+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:06.9956497+00:00",
-  "LastUpdate_Ratings": "2024-01-04T14:57:28.5172498+00:00",
-  "LastUpdate_Achievements": "2024-01-04T15:06:16.9410799+00:00"
+  "LastUpdate_Ratings": "2024-01-04T15:58:05.4926511+00:00",
+  "LastUpdate_Achievements": "2024-01-04T16:08:40.9704751+00:00"
 }

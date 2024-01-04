@@ -6,9 +6,9 @@
   "Ranking_Popularity": 128,
   "Ranking_PopularitySum": 126,
   "Ranking_EOS_Progress": 176,
-  "Ranking_EOS_Completed": 392,
+  "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4725,10 +4725,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7186,
       "NumberOfAwardsMax": 1776
+    },
+    {
+      "Time": "2024-01-04T15:58:27.272412+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7187,
+      "NumberOfAwardsMax": 1776
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7186,
+  "NumberOfAwards": 7187,
   "NumberOfAwardsMax": 1776,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4748,7 +4754,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 663
+      "Count": 664
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4799,9 +4805,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 13020,
+  "EOS_Progressed": 13021,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18889,6 +18895,11 @@
       "Time": "2024-01-04T15:10:01.6799229+00:00",
       "NumProgressed": 13020,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T16:11:37.2001799+00:00",
+      "NumProgressed": 13021,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -18900,7 +18911,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3515
+      "UsersEstimate": 3516
     },
     {
       "ID": "02_BurningCity",
@@ -19100,7 +19111,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1562
+      "UsersEstimate": 1563
     },
     {
       "ID": "28_GreatUpstart",
@@ -19827,21 +19838,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11802,
+      "Progressed": 11803,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 13020,
+      "Progressed": 13021,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2024-01-02T22:57:00.0776566+00:00",
-  "LastChanged_Achievements": "2024-01-04T15:10:01.6799225+00:00",
+  "LastChanged": "2024-01-04T15:58:27.2724117+00:00",
+  "LastChanged_Achievements": "2024-01-04T16:11:37.2001796+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:46.0860245+00:00",
-  "LastUpdate_Ratings": "2024-01-04T14:57:42.4775664+00:00",
-  "LastUpdate_Achievements": "2024-01-04T15:10:01.6800932+00:00"
+  "LastUpdate_Ratings": "2024-01-04T15:58:27.2724127+00:00",
+  "LastUpdate_Achievements": "2024-01-04T16:11:37.2003906+00:00"
 }

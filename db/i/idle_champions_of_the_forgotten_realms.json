@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 46,
+  "Ranking_EOS_NewPlayers": 47,
   "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9313,9 +9313,9 @@
       "Count": 3624
     }
   ],
-  "EOS_Progressed": 250830,
+  "EOS_Progressed": 250856,
   "EOS_Completed": 2591,
-  "EOS_NewPlayers": 4788,
+  "EOS_NewPlayers": 4774,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -38658,6 +38658,11 @@
       "Time": "2024-01-04T15:10:04.6103853+00:00",
       "NumProgressed": 250830,
       "NumCompleted": 2591
+    },
+    {
+      "Time": "2024-01-04T16:11:40.6759959+00:00",
+      "NumProgressed": 250856,
+      "NumCompleted": 2591
     }
   ],
   "TotalAchievements": 546,
@@ -38669,7 +38674,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7525
+      "UsersEstimate": 7526
     },
     {
       "ID": "objective_completed_10",
@@ -38677,7 +38682,7 @@
       "Name": "Maddening",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "objective_completed_100",
@@ -39037,7 +39042,7 @@
       "Name": "Beast Intentions",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2508
+      "UsersEstimate": 2509
     },
     {
       "ID": "objective_completed_110",
@@ -39773,7 +39778,7 @@
       "Name": "Beast Mode",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "objective_completed_149",
@@ -39789,7 +39794,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "objective_completed_150",
@@ -39997,7 +40002,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "objective_completed_20",
@@ -40357,7 +40362,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "objective_completed_36",
@@ -40813,7 +40818,7 @@
       "Name": "Exploring Port Nyanzaru",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "objective_completed_540",
@@ -41213,7 +41218,7 @@
       "Name": "The Contagious Curse",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "objective_completed_60",
@@ -41813,7 +41818,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2508
+      "UsersEstimate": 2509
     },
     {
       "ID": "objective_completed_70",
@@ -41827,9 +41832,9 @@
       "ID": "objective_completed_71",
       "SetID": "cc37lbc",
       "Name": "Constant Banditry",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 251
+      "UsersEstimate": 502
     },
     {
       "ID": "objective_completed_72",
@@ -42941,7 +42946,7 @@
       "Name": "Arcane Suppression",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "objective_completed_1352",
@@ -42965,7 +42970,7 @@
       "Name": "Misaligned in Sigil",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "objective_completed_1562",
@@ -42981,7 +42986,7 @@
       "Name": "Chaos Theory",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "objective_completed_598",
@@ -42997,7 +43002,7 @@
       "Name": "When Tentacles Attack",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "objective_completed_678",
@@ -43005,7 +43010,7 @@
       "Name": "Flames of Avernus",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "objective_completed_683",
@@ -43021,7 +43026,7 @@
       "Name": "Don\u0027t Lose Your Head",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "objective_completed_865",
@@ -43029,28 +43034,28 @@
       "Name": "Mind Spike",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 217104,
+      "Progressed": 217130,
       "Completed": 4132
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 250830,
+      "Progressed": 250856,
       "Completed": 2591
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-04T03:58:47.9786606+00:00",
-  "LastChanged_Achievements": "2024-01-04T15:10:04.6103849+00:00",
+  "LastChanged_Achievements": "2024-01-04T16:11:40.6759955+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-04T14:58:53.1609991+00:00",
-  "LastUpdate_Achievements": "2024-01-04T15:10:04.6128366+00:00"
+  "LastUpdate_Ratings": "2024-01-04T16:00:15.2619447+00:00",
+  "LastUpdate_Achievements": "2024-01-04T16:11:40.6784092+00:00"
 }

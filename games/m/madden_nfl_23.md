@@ -1,13 +1,13 @@
 # Madden NFL 23
 [Store](https://store.epicgames.com/en-US/p/madden-nfl-23)  
 [View Rawdata](../../db/m/madden_nfl_23.json)  
-Rating: 4.29 (Ranked 875)  
+Rating: 4.29 (Ranked 876)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Bragging Rights | 55.00% | ~2,368 |
+| MVP | 54.00% | ~2,325 |
 | Big Spender | 53.00% | ~2,282 |
-| MVP | 53.00% | ~2,282 |
 | Stud Finder | 40.00% | ~1,722 |
 | Dealmaker | 38.00% | ~1,636 |
 | ROTY | 32.00% | ~1,378 |
@@ -28,7 +28,7 @@ Rating: 4.29 (Ranked 875)
 | The Fortress | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,306 (Ranked 207)  
-Completed: 0 (0.00%) (Ranked 392)  
+Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

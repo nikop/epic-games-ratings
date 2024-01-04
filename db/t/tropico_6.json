@@ -6,9 +6,9 @@
   "Ranking_Popularity": 368,
   "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 194,
-  "Ranking_EOS_Completed": 351,
+  "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1515,9 +1515,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6883,
+  "EOS_Progressed": 6884,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15950,6 +15950,11 @@
       "Time": "2024-01-04T15:03:44.4548633+00:00",
       "NumProgressed": 6883,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-04T16:04:56.6309288+00:00",
+      "NumProgressed": 6884,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -15993,7 +15998,7 @@
       "Name": "Been there, Done That",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ACH_EP_BALLGAME",
@@ -16017,7 +16022,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1033
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -16033,7 +16038,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1033
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -16041,7 +16046,7 @@
       "Name": "Of Seals And Men",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "ACH_EP_ONEPERCENTERS",
@@ -16073,7 +16078,7 @@
       "Name": "Shackadelic",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "ACH_EP_SPEAKEASY",
@@ -16097,7 +16102,7 @@
       "Name": "Apocalypso",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ACH_EP_TROPICOLAND",
@@ -16169,7 +16174,7 @@
       "Name": "Narcissist",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ACH_PROMISINGENDEAVORS",
@@ -16217,7 +16222,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 3097
+      "UsersEstimate": 3098
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -16225,7 +16230,7 @@
       "Name": "The Time For Wonders",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ACH_TRADEISMYTRAIT",
@@ -16280,15 +16285,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6883,
+      "Progressed": 6884,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2024-01-01T23:00:51.8324602+00:00",
-  "LastChanged_Achievements": "2024-01-04T15:03:44.4548629+00:00",
+  "LastChanged_Achievements": "2024-01-04T16:04:56.6309281+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:30.406474+00:00",
-  "LastUpdate_Ratings": "2024-01-04T14:57:17.8101979+00:00",
-  "LastUpdate_Achievements": "2024-01-04T15:03:44.4549677+00:00"
+  "LastUpdate_Ratings": "2024-01-04T15:57:49.276857+00:00",
+  "LastUpdate_Achievements": "2024-01-04T16:04:56.6310496+00:00"
 }

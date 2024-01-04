@@ -6,9 +6,9 @@
   "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 43,
-  "Ranking_EOS_Completed": 392,
+  "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -13969,10 +13969,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 63495,
       "NumberOfAwardsMax": 7708
+    },
+    {
+      "Time": "2024-01-04T15:58:29.2139308+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 63536,
+      "NumberOfAwardsMax": 7708
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 63495,
+  "NumberOfAwards": 63536,
   "NumberOfAwardsMax": 7708,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -13986,7 +13992,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 7317
+      "Count": 7331
     },
     {
       "Text": "This game has Diverse Characters",
@@ -14028,13 +14034,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 6415
+      "Count": 6435
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 5934
+      "Count": 5941
     },
     {
       "Text": "This game has Unique Visuals",
@@ -14043,9 +14049,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 491765,
+  "EOS_Progressed": 491807,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5530,
+  "EOS_NewPlayers": 5521,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -43923,6 +43929,11 @@
       "Time": "2024-01-04T15:09:31.5005322+00:00",
       "NumProgressed": 491765,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-04T16:10:56.0627255+00:00",
+      "NumProgressed": 491807,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -46837,21 +46848,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 491765,
+      "Progressed": 491807,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 491765,
+      "Progressed": 491807,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-01-04T13:58:15.1252646+00:00",
-  "LastChanged_Achievements": "2024-01-04T15:09:31.5005318+00:00",
+  "LastChanged": "2024-01-04T15:58:29.2139306+00:00",
+  "LastChanged_Achievements": "2024-01-04T16:10:56.0627251+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:39.2428149+00:00",
-  "LastUpdate_Ratings": "2024-01-04T14:57:43.84965+00:00",
-  "LastUpdate_Achievements": "2024-01-04T15:09:31.5015913+00:00"
+  "LastUpdate_Ratings": "2024-01-04T15:58:29.2139312+00:00",
+  "LastUpdate_Achievements": "2024-01-04T16:10:56.0639236+00:00"
 }

@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~35,713 |
-| Safety in the Storm | 23.00% | ~8,646 |
-| A Better Idea | 23.00% | ~8,646 |
-| Begin the Ceremony | 19.00% | ~7,143 |
-| Mission Accomplished | 18.00% | ~6,767 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~5,639 |
-| A Starfighter of Your Own | 13.00% | ~4,887 |
-| Asset Secured | 12.00% | ~4,511 |
-| Unkillable | 7.00% | ~2,632 |
-| Together, Vanguard | 7.00% | ~2,632 |
-| The Galaxy's Finest (Pilot) | 6.00% | ~2,256 |
-| Sound Strategy | 6.00% | ~2,256 |
+| Fracture at Fostar Haven | 95.00% | ~35,730 |
+| Safety in the Storm | 23.00% | ~8,650 |
+| A Better Idea | 23.00% | ~8,650 |
+| Begin the Ceremony | 19.00% | ~7,146 |
+| Mission Accomplished | 18.00% | ~6,770 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~5,642 |
+| A Starfighter of Your Own | 13.00% | ~4,889 |
+| Asset Secured | 12.00% | ~4,513 |
+| Unkillable | 7.00% | ~2,633 |
+| Together, Vanguard | 7.00% | ~2,633 |
+| The Galaxy's Finest (Pilot) | 6.00% | ~2,257 |
+| Sound Strategy | 6.00% | ~2,257 |
 | Stomped | 5.00% | ~1,880 |
 | Fearless | 4.00% | ~1,504 |
 | Back From the Brink | 4.00% | ~1,504 |
@@ -52,8 +52,8 @@
 | The Galaxy's Finest (Ace) | 0.10% | ~38 |
 | Ultimate Weapon | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37,593 (Ranked 133)  
-Completed: 3 (0.01%) (Ranked 368)  
+Progressed: 37,610 (Ranked 133)  
+Completed: 3 (0.01%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -162,7 +162,7 @@ Completed: 3 (0.01%) (Ranked 368)
 | 2024-01-01 | 36,677 | 3 |
 | 2024-01-02 | 37,047 | 3 |
 | 2024-01-03 | 37,413 | 3 |
-| 2024-01-04 | 37,593 | 3 |
+| 2024-01-04 | 37,610 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
