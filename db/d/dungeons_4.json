@@ -3,8 +3,8 @@
   "Name": "Dungeons 4",
   "ProductSlug": "dungeons-4-595454",
   "Ranking_Rating": 202,
-  "Ranking_Popularity": 578,
-  "Ranking_PopularitySum": 578,
+  "Ranking_Popularity": 577,
+  "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 92,
   "Ranking_EOS_NewPlayers": 260,
@@ -2238,9 +2238,9 @@
       "ID": "ach_main02horde_completed",
       "SetID": "4hg22ll",
       "Name": "Hammer Time, Round Two",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 570
+      "UsersEstimate": 577
     },
     {
       "ID": "ach_main02horde_creatures",
@@ -2254,9 +2254,9 @@
       "ID": "ach_main02horde_traps",
       "SetID": "4hg22ll",
       "Name": "Trap Master",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 392
+      "UsersEstimate": 399
     },
     {
       "ID": "ach_main03demon_completed",
@@ -2711,8 +2711,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-03T15:00:48.7802365+00:00",
-  "LastChanged_Achievements": "2024-01-04T06:09:45.3232163+00:00",
+  "LastChanged_Achievements": "2024-01-04T07:09:17.5671604+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:16.0613697+00:00",
-  "LastUpdate_Ratings": "2024-01-04T06:01:04.6859211+00:00",
-  "LastUpdate_Achievements": "2024-01-04T06:09:45.3232844+00:00"
+  "LastUpdate_Ratings": "2024-01-04T07:00:02.7480384+00:00",
+  "LastUpdate_Achievements": "2024-01-04T07:09:17.5672132+00:00"
 }

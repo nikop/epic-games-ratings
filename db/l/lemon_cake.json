@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 426,
   "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 422,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-09-29T23:00:00+00:00",
     "PcReleaseDate": "2021-02-18T01:00:00+00:00",
@@ -432,9 +432,9 @@
       "ID": "LC-02",
       "SetID": "ap2ljl4",
       "Name": "Bakery Startup",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 79
+      "UsersEstimate": 81
     },
     {
       "ID": "LC-03",
@@ -569,8 +569,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.6780256+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.6062065+00:00",
   "LastChanged": "2023-03-31T05:58:18.6780257+00:00",
-  "LastChanged_Achievements": "2024-01-04T06:09:30.4681902+00:00",
+  "LastChanged_Achievements": "2024-01-04T07:09:07.1603919+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:37.941871+00:00",
-  "LastUpdate_Ratings": "2024-01-04T05:59:51.8964751+00:00",
-  "LastUpdate_Achievements": "2024-01-04T06:09:30.4682033+00:00"
+  "LastUpdate_Ratings": "2024-01-04T06:59:13.2752517+00:00",
+  "LastUpdate_Achievements": "2024-01-04T07:09:07.1604109+00:00"
 }

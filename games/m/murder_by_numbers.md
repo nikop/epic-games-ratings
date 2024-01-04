@@ -3,8 +3,8 @@
 [View Rawdata](../../db/m/murder_by_numbers.json)  
 Rating: 4.27 (Ranked 897)  
 ## Awards
-Max (Extremely Fun): 20  (Ranked 572)  
-Sum: 20 (Ranked 573)  
+Max (Extremely Fun): 20  (Ranked 571)  
+Sum: 20 (Ranked 572)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |

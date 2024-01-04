@@ -1,32 +1,32 @@
 # The Surge
 [Store](https://store.epicgames.com/en-US/p/the-surge)  
 [View Rawdata](../../db/t/the_surge.json)  
-Rating: 4.44 (Ranked 702)  
+Rating: 4.44 (Ranked 701)  
 Number of Ratings: 62  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,915 |
-| I'll Be Back | 84.00% | ~4,392 |
-| Sorry, I Dropped This | 76.00% | ~3,974 |
-| First Day on the Job | 76.00% | ~3,974 |
+| On My Own Two Feet | 94.00% | ~4,916 |
+| I'll Be Back | 84.00% | ~4,393 |
+| Sorry, I Dropped This | 76.00% | ~3,975 |
+| First Day on the Job | 76.00% | ~3,975 |
 | Butcher's Bill | 54.00% | ~2,824 |
 | P.A.X | 37.00% | ~1,935 |
-| Hey Listen | 36.00% | ~1,882 |
+| Hey Listen | 36.00% | ~1,883 |
 | OPERATOR | 35.00% | ~1,830 |
 | It's Blue Light | 33.00% | ~1,726 |
 | Most Wanted | 26.00% | ~1,360 |
 | Infidel | 23.00% | ~1,203 |
-| GOLIATH | 21.00% | ~1,098 |
 | Firebug | 20.00% | ~1,046 |
+| GOLIATH | 20.00% | ~1,046 |
 | I Choose You | 17.00% | ~889 |
 | Nothing to Lose | 17.00% | ~889 |
 | Big Sister | 15.00% | ~784 |
 | Gear Up | 15.00% | ~784 |
 | SENTINEL | 15.00% | ~784 |
 | Core Power | 13.00% | ~680 |
-| The Black Cerberus | 12.00% | ~627 |
-| Watchman | 12.00% | ~627 |
+| The Black Cerberus | 12.00% | ~628 |
+| Watchman | 12.00% | ~628 |
 | CREO Killed the Video Star | 11.00% | ~575 |
 | Who's in Charge Here? | 11.00% | ~575 |
 | Shall Not Pass | 11.00% | ~575 |
@@ -44,10 +44,10 @@ Number of Ratings: 62  (23.09.2022)
 | Risk Assessment | 7.00% | ~366 |
 | Sunglasses at Night | 6.00% | ~314 |
 | Carbon Cat | 6.00% | ~314 |
-| It Lives! It Sniffs! It Conquers! | 5.00% | ~261 |
-| Man of Steel | 5.00% | ~261 |
-| Jack of All Trades | 5.00% | ~261 |
-| 3-2-1 | 5.00% | ~261 |
+| It Lives! It Sniffs! It Conquers! | 5.00% | ~262 |
+| Man of Steel | 5.00% | ~262 |
+| Jack of All Trades | 5.00% | ~262 |
+| 3-2-1 | 5.00% | ~262 |
 | Rusty Rat | 4.00% | ~209 |
 | Desecration | 4.00% | ~209 |
 | For the Good of Mankind | 3.00% | ~157 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~31 |
 | The Surge | 0.40% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,229 (Ranked 202)  
+Progressed: 5,230 (Ranked 202)  
 Completed: 18 (0.34%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,10 +290,10 @@ Completed: 18 (0.34%) (Ranked 242)
 | 2024-01-01 | 5,186 | 18 |
 | 2024-01-02 | 5,210 | 18 |
 | 2024-01-03 | 5,224 | 18 |
-| 2024-01-04 | 5,229 | 18 |
+| 2024-01-04 | 5,230 | 18 |
 ## Awards
-Max (Great Boss Battles): 30  (Ranked 518)  
-Sum: 30 (Ranked 538)  
+Max (Great Boss Battles): 30  (Ranked 517)  
+Sum: 30 (Ranked 537)  
 Diff (max vs sum): -20  
 | Award | Count |
 | ----- | ----- |

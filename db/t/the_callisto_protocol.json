@@ -3,12 +3,12 @@
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 947,
-  "Ranking_Popularity": 362,
+  "Ranking_Popularity": 357,
   "Ranking_PopularitySum": 325,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1971,11 +1971,17 @@
       "Rating": 4.21,
       "NumberOfAwards": 563,
       "NumberOfAwardsMax": 111
+    },
+    {
+      "Time": "2024-01-04T07:03:21.4448841+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 567,
+      "NumberOfAwardsMax": 115
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 563,
-  "NumberOfAwardsMax": 111,
+  "NumberOfAwards": 567,
+  "NumberOfAwardsMax": 115,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
     {
@@ -2000,7 +2006,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 111
+      "Count": 115
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2021,9 +2027,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 20876,
+  "EOS_Progressed": 20878,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1214,
+  "EOS_NewPlayers": 1213,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -12471,6 +12477,11 @@
       "Time": "2024-01-04T06:10:25.4518567+00:00",
       "NumProgressed": 20876,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-04T07:09:45.6365227+00:00",
+      "NumProgressed": 20878,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -12514,7 +12525,7 @@
       "Name": "Flesh Wound",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 4801
+      "UsersEstimate": 4802
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -12586,7 +12597,7 @@
       "Name": "Get a Grip",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 3966
+      "UsersEstimate": 3967
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -12642,7 +12653,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3131
+      "UsersEstimate": 3132
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -12658,7 +12669,7 @@
       "Name": "Paper Jams",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4175
+      "UsersEstimate": 4176
     },
     {
       "ID": "SHARE_PHOTO",
@@ -12674,7 +12685,7 @@
       "Name": "The Outer Way",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 4801
+      "UsersEstimate": 4802
     },
     {
       "ID": "STORY_ESCAPE",
@@ -12857,22 +12868,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 20876,
+      "Progressed": 20878,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 8802,
+      "Progressed": 8804,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2024-01-04T05:03:33.0776969+00:00",
-  "LastChanged_Achievements": "2024-01-04T06:10:25.4518564+00:00",
+  "LastChanged": "2024-01-04T07:03:21.444884+00:00",
+  "LastChanged_Achievements": "2024-01-04T07:09:45.6365221+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.412859+00:00",
-  "LastUpdate_Ratings": "2024-01-04T06:03:29.221465+00:00",
-  "LastUpdate_Achievements": "2024-01-04T06:10:25.4519281+00:00"
+  "LastUpdate_Ratings": "2024-01-04T07:03:21.4448844+00:00",
+  "LastUpdate_Achievements": "2024-01-04T07:09:45.6366477+00:00"
 }

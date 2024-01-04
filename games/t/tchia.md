@@ -1,7 +1,7 @@
 # Tchia
 [Store](https://store.epicgames.com/en-US/p/tchia)  
 [View Rawdata](../../db/t/tchia.json)  
-Rating: 4.70 (Ranked 217)  
+Rating: 4.69 (Ranked 232)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -329,3 +329,4 @@ Completed: 34 (0.39%) (Ranked 234)
 | 2023-12-22 | 4.72 | 0 | 0 |
 | 2023-12-30 | 4.71 | 0 | 0 |
 | 2024-01-02 | 4.70 | 0 | 0 |
+| 2024-01-04 | 4.69 | 0 | 0 |

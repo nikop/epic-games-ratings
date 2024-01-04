@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 384,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -1840,9 +1840,9 @@
       "ID": "StarKiller",
       "SetID": "1jeo1g7",
       "Name": "Star Killer",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 95
     },
     {
       "ID": "StellarDismantler",
@@ -2040,9 +2040,9 @@
       "ID": "BehenianHero",
       "SetID": "1jeo1g7",
       "Name": "Behenian Hero",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 13
     },
     {
       "ID": "BehenianMastery",
@@ -2135,8 +2135,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-04T06:09:20.0672111+00:00",
+  "LastChanged_Achievements": "2024-01-04T07:08:59.8767825+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:34.5642416+00:00",
-  "LastUpdate_Ratings": "2024-01-04T05:57:02.4324157+00:00",
-  "LastUpdate_Achievements": "2024-01-04T06:09:20.067354+00:00"
+  "LastUpdate_Ratings": "2024-01-04T06:57:21.8969718+00:00",
+  "LastUpdate_Achievements": "2024-01-04T07:08:59.8768745+00:00"
 }

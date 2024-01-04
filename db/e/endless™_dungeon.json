@@ -4,8 +4,8 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1465,
+  "EOS_Progressed": 1466,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3125,6 +3125,11 @@
       "Time": "2024-01-04T06:08:43.7475791+00:00",
       "NumProgressed": 1465,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T07:08:33.7466932+00:00",
+      "NumProgressed": 1466,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -3217,7 +3222,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -3313,7 +3318,7 @@
       "Name": "Long Live Rock",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ACHIEVEMENT_ROOKY_WIN",
@@ -3376,14 +3381,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1465,
+      "Progressed": 1466,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2024-01-04T06:08:43.7475783+00:00",
+  "LastChanged_Achievements": "2024-01-04T07:08:33.7466927+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:41.9593832+00:00",
-  "LastUpdate_Ratings": "2024-01-04T06:00:03.2021425+00:00",
-  "LastUpdate_Achievements": "2024-01-04T06:08:43.7476645+00:00"
+  "LastUpdate_Ratings": "2024-01-04T06:59:21.1785158+00:00",
+  "LastUpdate_Achievements": "2024-01-04T07:08:33.7467286+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Sherlock Holmes The Awakened",
   "ProductSlug": "sherlock-holmes-the-awakened",
   "Ranking_Rating": 614,
-  "Ranking_Popularity": 578,
-  "Ranking_PopularitySum": 578,
+  "Ranking_Popularity": 577,
+  "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 114,
   "Ranking_EOS_NewPlayers": 279,
@@ -163,11 +163,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1386,
+  "EOS_Progressed": 1387,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 2.89,
+  "EOS_Completed_Percentage": 2.88,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -4883,6 +4883,11 @@
       "Time": "2024-01-03T05:05:20.9325314+00:00",
       "NumProgressed": 1386,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2024-01-04T07:05:50.5680453+00:00",
+      "NumProgressed": 1387,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 28,
@@ -4894,7 +4899,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "MQ01_2",
@@ -4902,7 +4907,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "MQ02_1",
@@ -4910,7 +4915,7 @@
       "Name": "High Profile",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "MQ02_2",
@@ -4926,7 +4931,7 @@
       "Name": "Curiosity Killed The Cat",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "MQ02_4",
@@ -4942,7 +4947,7 @@
       "Name": "Fond Memories",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "MQ03_2",
@@ -4958,7 +4963,7 @@
       "Name": "History Check",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "MQ03_4",
@@ -4974,7 +4979,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "MQ04_1",
@@ -4990,7 +4995,7 @@
       "Name": "Let Me Be Frank",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "MQ04_3",
@@ -5014,7 +5019,7 @@
       "Name": "Back In The Saddle",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "MQ05_3",
@@ -5062,7 +5067,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "MQ07_1",
@@ -5078,7 +5083,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "MQ08_1",
@@ -5117,7 +5122,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1386,
+      "Progressed": 1387,
       "Completed": 40
     }
   ],
@@ -5125,8 +5130,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-12-27T11:03:12.3161328+00:00",
-  "LastChanged_Achievements": "2024-01-04T06:06:57.3526842+00:00",
+  "LastChanged_Achievements": "2024-01-04T07:05:50.5680449+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:32.3322639+00:00",
-  "LastUpdate_Ratings": "2024-01-04T06:03:22.3116847+00:00",
-  "LastUpdate_Achievements": "2024-01-04T06:06:57.3527156+00:00"
+  "LastUpdate_Ratings": "2024-01-04T07:03:17.0501934+00:00",
+  "LastUpdate_Achievements": "2024-01-04T07:05:50.5681105+00:00"
 }

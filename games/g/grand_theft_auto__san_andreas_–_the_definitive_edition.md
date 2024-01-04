@@ -5,23 +5,23 @@ Rating: 4.54 (Ranked 543)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~14,772 |
-| Pay 'n' Spray | 50.00% | ~9,118 |
-| All Dressed Up for San Fierro | 25.00% | ~4,559 |
-| The American Dream | 19.00% | ~3,465 |
+| Getting Started | 81.00% | ~14,774 |
+| Pay 'n' Spray | 50.00% | ~9,120 |
+| All Dressed Up for San Fierro | 25.00% | ~4,560 |
+| The American Dream | 19.00% | ~3,466 |
 | School's Out | 18.00% | ~3,283 |
-| Smooth Moves | 17.00% | ~3,100 |
+| Smooth Moves | 17.00% | ~3,101 |
 | Today Was a Good Day | 15.00% | ~2,736 |
-| What happens in Las Venturas... | 14.00% | ~2,553 |
+| What happens in Las Venturas... | 14.00% | ~2,554 |
 | Horror of the Santa Maria | 10.00% | ~1,824 |
-| Liberty City State of Mind | 9.00% | ~1,641 |
+| Liberty City State of Mind | 9.00% | ~1,642 |
 | Original Gangster | 8.00% | ~1,459 |
 | With Extra Dip | 7.00% | ~1,277 |
 | The End of the Line | 7.00% | ~1,277 |
 | Saviour | 6.00% | ~1,094 |
 | Rescue a Kitten Too? | 5.00% | ~912 |
-| They Can’t Stop All of Us | 4.00% | ~729 |
-| What are the Odds | 4.00% | ~729 |
+| They Can’t Stop All of Us | 4.00% | ~730 |
+| What are the Odds | 4.00% | ~730 |
 | Bike or Biker | 3.00% | ~547 |
 | What the City Needs | 3.00% | ~547 |
 | A Legitimate Business | 2.00% | ~365 |
@@ -41,8 +41,8 @@ Rating: 4.54 (Ranked 543)
 | ...Here we go again | 0.50% | ~91 |
 | I Ain't No Buster | 0.40% | ~73 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,237 (Ranked 158)  
-Completed: 71 (0.39%) (Ranked 234)  
+Progressed: 18,240 (Ranked 158)  
+Completed: 72 (0.39%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -300,11 +300,11 @@ Completed: 71 (0.39%) (Ranked 234)
 | 2024-01-01 | 17,956 | 69 |
 | 2024-01-02 | 18,093 | 70 |
 | 2024-01-03 | 18,207 | 71 |
-| 2024-01-04 | 18,237 | 71 |
+| 2024-01-04 | 18,240 | 72 |
 ## Awards
-Max (Amazing Characters): 50  (Ranked 452)  
+Max (Amazing Characters): 50  (Ranked 451)  
 Sum: 330 (Ranked 373)  
-Diff (max vs sum): 79  
+Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 557 |

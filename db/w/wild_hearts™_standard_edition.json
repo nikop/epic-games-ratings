@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -3923,9 +3923,9 @@
       "ID": "achievement_37",
       "SetID": "2cpn27e",
       "Name": "Hidden History",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 786
+      "UsersEstimate": 797
     },
     {
       "ID": "achievement_38",
@@ -4073,8 +4073,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-04T06:10:16.0413659+00:00",
+  "LastChanged_Achievements": "2024-01-04T07:09:38.8845478+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:22.7723621+00:00",
-  "LastUpdate_Ratings": "2024-01-04T05:57:20.9367736+00:00",
-  "LastUpdate_Achievements": "2024-01-04T06:10:16.0414183+00:00"
+  "LastUpdate_Ratings": "2024-01-04T06:57:32.408952+00:00",
+  "LastUpdate_Achievements": "2024-01-04T07:09:38.8845944+00:00"
 }

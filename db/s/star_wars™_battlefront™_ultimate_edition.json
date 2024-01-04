@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 346,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2571,
+  "EOS_Progressed": 2572,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 304,
   "EOS_NewCompleters": 0,
@@ -7129,6 +7129,11 @@
       "Time": "2024-01-04T05:10:24.0612821+00:00",
       "NumProgressed": 2571,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-04T07:10:20.5283893+00:00",
+      "NumProgressed": 2572,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -7163,9 +7168,9 @@
       "ID": "achievement_12",
       "SetID": "271ol84",
       "Name": "Stay on target",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement_13",
@@ -7365,7 +7370,7 @@
       "Name": "New Recruit",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 2237
+      "UsersEstimate": 2238
     },
     {
       "ID": "achievement_36",
@@ -7381,7 +7386,7 @@
       "Name": "Off to a good start",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1594
+      "UsersEstimate": 1595
     },
     {
       "ID": "achievement_38",
@@ -7403,9 +7408,9 @@
       "ID": "achievement_4",
       "SetID": "271ol84",
       "Name": "I suggest a new strategy",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 463
+      "UsersEstimate": 437
     },
     {
       "ID": "achievement_40",
@@ -7413,7 +7418,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1312
     },
     {
       "ID": "achievement_41",
@@ -7581,7 +7586,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "achievement_60",
@@ -7644,13 +7649,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2571,
+      "Progressed": 2572,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2571,
+      "Progressed": 2572,
       "Completed": 1
     }
   ],
@@ -7658,8 +7663,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-04T06:11:12.1039601+00:00",
+  "LastChanged_Achievements": "2024-01-04T07:10:20.5283885+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:19.759459+00:00",
-  "LastUpdate_Ratings": "2024-01-04T06:01:01.9460831+00:00",
-  "LastUpdate_Achievements": "2024-01-04T06:11:12.1040449+00:00"
+  "LastUpdate_Ratings": "2024-01-04T07:00:00.8900305+00:00",
+  "LastUpdate_Achievements": "2024-01-04T07:10:20.5284783+00:00"
 }

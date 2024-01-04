@@ -13,16 +13,16 @@
 | The happy farmer girl | 25.00% | ~20 |
 | Giant | 21.00% | ~17 |
 | Pulp! Terror Tales in the Night | 21.00% | ~17 |
+| Pulp! Out of this World | 21.00% | ~17 |
 | A rival with no options | 20.00% | ~16 |
-| Pulp! Out of this World | 20.00% | ~16 |
+| The artist | 20.00% | ~16 |
 | Diagnosis: fear | 20.00% | ~16 |
 | Ambition is... blind | 20.00% | ~16 |
-| The artist | 19.00% | ~15 |
 | Pulp! Adventures into the Unknown | 19.00% | ~15 |
 | You have two wishes left | 19.00% | ~15 |
 | Et in arcadia ego | 16.00% | ~13 |
+| The seer | 16.00% | ~13 |
 | You had one wish left | 15.00% | ~12 |
-| The seer | 15.00% | ~12 |
 | You've awakened the beast | 14.00% | ~11 |
 | Hate is... addictive | 14.00% | ~11 |
 | Welcome to Hellville | 14.00% | ~11 |

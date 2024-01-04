@@ -3,8 +3,8 @@
   "Name": "DNF Duel",
   "ProductSlug": "dnf-duel-07d055",
   "Ranking_Rating": 820,
-  "Ranking_Popularity": 578,
-  "Ranking_PopularitySum": 578,
+  "Ranking_Popularity": 577,
+  "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 10,
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 399753,
+  "EOS_Progressed": 399824,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 29198,
+  "EOS_NewPlayers": 29113,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2014,6 +2014,11 @@
       "Time": "2024-01-04T06:07:18.3970843+00:00",
       "NumProgressed": 399753,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-04T07:06:05.1507948+00:00",
+      "NumProgressed": 399824,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-05T09:03:44.926061+00:00",
@@ -2034,7 +2039,7 @@
       "Name": "Relentless Will",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 27983
+      "UsersEstimate": 27988
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -2058,7 +2063,7 @@
       "Name": "The Beginning of a Legend",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 91943
+      "UsersEstimate": 91960
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -2082,7 +2087,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 103936
+      "UsersEstimate": 103954
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -2090,7 +2095,7 @@
       "Name": "Level Analysis Complete",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 87946
+      "UsersEstimate": 87961
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -2122,7 +2127,7 @@
       "Name": "For Home Appreciation",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 11993
+      "UsersEstimate": 11995
     },
     {
       "ID": "ACHIEVEMENT_014",
@@ -2170,7 +2175,7 @@
       "Name": "Adventurer at the Precipice",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7995
+      "UsersEstimate": 7996
     },
     {
       "ID": "ACHIEVEMENT_020",
@@ -2186,7 +2191,7 @@
       "Name": "Downloaded",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 35978
+      "UsersEstimate": 35984
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -2194,7 +2199,7 @@
       "Name": "The Strength to Fight",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 11993
+      "UsersEstimate": 11995
     },
     {
       "ID": "ACHIEVEMENT_023",
@@ -2218,7 +2223,7 @@
       "Name": "My Best Battle",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 3198
+      "UsersEstimate": 3199
     },
     {
       "ID": "ACHIEVEMENT_026",
@@ -2226,7 +2231,7 @@
       "Name": "One Step at a Time",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 11993
+      "UsersEstimate": 11995
     },
     {
       "ID": "ACHIEVEMENT_027",
@@ -2234,7 +2239,7 @@
       "Name": "Training Advancement",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 31980
+      "UsersEstimate": 31986
     },
     {
       "ID": "ACHIEVEMENT_028",
@@ -2250,7 +2255,7 @@
       "Name": "Training Shall Proceed!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 11993
+      "UsersEstimate": 11995
     },
     {
       "ID": "ACHIEVEMENT_030",
@@ -2290,7 +2295,7 @@
       "Name": "No Regrets",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3198
+      "UsersEstimate": 3199
     },
     {
       "ID": "ACHIEVEMENT_035",
@@ -2314,7 +2319,7 @@
       "Name": "Unrelenting Spear",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3198
+      "UsersEstimate": 3199
     },
     {
       "ID": "ACHIEVEMENT_038",
@@ -2330,7 +2335,7 @@
       "Name": "Two Swords One Soul",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 11993
+      "UsersEstimate": 11995
     },
     {
       "ID": "ACHIEVEMENT_040",
@@ -2338,7 +2343,7 @@
       "Name": "Mercenary Business",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 2798
+      "UsersEstimate": 2799
     },
     {
       "ID": "ACHIEVEMENT_041",
@@ -2369,7 +2374,7 @@
     {
       "ID": "dge1ook",
       "IsBase": true,
-      "Progressed": 399753,
+      "Progressed": 399824,
       "Completed": 2
     }
   ],
@@ -2377,8 +2382,8 @@
   "FirstSeenRating": "2023-12-21T06:03:01.4124708+00:00",
   "FirstSeenAchievements": "2023-12-05T09:03:44.9260609+00:00",
   "LastChanged": "2023-12-30T14:02:29.8007249+00:00",
-  "LastChanged_Achievements": "2024-01-04T06:07:18.3970841+00:00",
+  "LastChanged_Achievements": "2024-01-04T07:06:05.1507943+00:00",
   "LastUpdate_AppInfo": "2024-01-02T11:56:58.7736767+00:00",
-  "LastUpdate_Ratings": "2024-01-04T06:03:09.2931894+00:00",
-  "LastUpdate_Achievements": "2024-01-04T06:07:18.3971353+00:00"
+  "LastUpdate_Ratings": "2024-01-04T07:03:07.8230548+00:00",
+  "LastUpdate_Achievements": "2024-01-04T07:06:05.1508377+00:00"
 }

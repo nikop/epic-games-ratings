@@ -3,8 +3,8 @@
   "Name": "Adios",
   "ProductSlug": "adios-b378b4",
   "Ranking_Rating": 1089,
-  "Ranking_Popularity": 578,
-  "Ranking_PopularitySum": 578,
+  "Ranking_Popularity": 577,
+  "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 165,
   "Ranking_EOS_NewPlayers": 133,
@@ -141,9 +141,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 82618,
+  "EOS_Progressed": 82621,
   "EOS_Completed": 914,
-  "EOS_NewPlayers": 732,
+  "EOS_NewPlayers": 734,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.11,
   "EosHistory": [
@@ -29001,6 +29001,11 @@
       "Time": "2024-01-04T06:05:22.6831843+00:00",
       "NumProgressed": 82618,
       "NumCompleted": 914
+    },
+    {
+      "Time": "2024-01-04T07:04:41.693823+00:00",
+      "NumProgressed": 82621,
+      "NumCompleted": 914
     }
   ],
   "TotalAchievements": 25,
@@ -29028,7 +29033,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 19,
       "XP": 150,
-      "UsersEstimate": 15697
+      "UsersEstimate": 15698
     },
     {
       "ID": "Audiophile",
@@ -29044,7 +29049,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 18176
+      "UsersEstimate": 18177
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -29052,7 +29057,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 14871
+      "UsersEstimate": 14872
     },
     {
       "ID": "Butcher",
@@ -29132,7 +29137,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 15697
+      "UsersEstimate": 15698
     },
     {
       "ID": "Nice Try",
@@ -29204,14 +29209,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6609
+      "UsersEstimate": 6610
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 82618,
+      "Progressed": 82621,
       "Completed": 914
     }
   ],
@@ -29219,8 +29224,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-04T04:02:50.3920545+00:00",
-  "LastChanged_Achievements": "2024-01-04T06:05:22.6831839+00:00",
+  "LastChanged_Achievements": "2024-01-04T07:04:41.6938225+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:29.0198367+00:00",
-  "LastUpdate_Ratings": "2024-01-04T06:02:59.7784148+00:00",
-  "LastUpdate_Achievements": "2024-01-04T06:05:22.683324+00:00"
+  "LastUpdate_Ratings": "2024-01-04T07:03:01.4386+00:00",
+  "LastUpdate_Achievements": "2024-01-04T07:04:41.693967+00:00"
 }

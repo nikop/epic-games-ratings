@@ -3,8 +3,8 @@
   "Name": "We Were Here Expeditions: The FriendShip",
   "ProductSlug": "we-were-here-expeditions-the-friendship-1e8fb2",
   "Ranking_Rating": 573,
-  "Ranking_Popularity": 578,
-  "Ranking_PopularitySum": 578,
+  "Ranking_Popularity": 577,
+  "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 76,
   "Ranking_EOS_NewPlayers": 88,
@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 111677,
+  "EOS_Progressed": 111678,
   "EOS_Completed": 5426,
-  "EOS_NewPlayers": 1646,
+  "EOS_NewPlayers": 1642,
   "EOS_NewCompleters": 146,
   "EOS_Completed_Percentage": 4.86,
   "EosHistory": [
@@ -13106,6 +13106,11 @@
       "Time": "2024-01-04T05:06:12.8792417+00:00",
       "NumProgressed": 111677,
       "NumCompleted": 5426
+    },
+    {
+      "Time": "2024-01-04T07:06:02.7247137+00:00",
+      "NumProgressed": 111678,
+      "NumCompleted": 5426
     }
   ],
   "AchievementsAdded": "2023-09-14T13:08:14.9328162+00:00",
@@ -13182,7 +13187,7 @@
       "Name": "Tiles, Trails, Treasure!",
       "Percentage": 61,
       "XP": 75,
-      "UsersEstimate": 68123
+      "UsersEstimate": 68124
     },
     {
       "ID": "WeCanDoBetter",
@@ -13190,7 +13195,7 @@
       "Name": "We Can Do Better!",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 87108
+      "UsersEstimate": 87109
     },
     {
       "ID": "WeighAnchorSetSail",
@@ -13198,7 +13203,7 @@
       "Name": "Weigh Anchor, Set Sail!",
       "Percentage": 79,
       "XP": 50,
-      "UsersEstimate": 88225
+      "UsersEstimate": 88226
     },
     {
       "ID": "WelcomeAboard",
@@ -13206,14 +13211,14 @@
       "Name": "Welcome Aboard!",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 88225
+      "UsersEstimate": 88226
     }
   ],
   "AchievementSets": [
     {
       "ID": "bcl47p5",
       "IsBase": true,
-      "Progressed": 111677,
+      "Progressed": 111678,
       "Completed": 5426
     }
   ],
@@ -13221,8 +13226,8 @@
   "FirstSeenRating": "2023-09-22T19:59:25.5945535+00:00",
   "FirstSeenAchievements": "2023-09-14T13:08:14.9328161+00:00",
   "LastChanged": "2024-01-03T23:02:18.979968+00:00",
-  "LastChanged_Achievements": "2024-01-04T06:07:14.7793048+00:00",
+  "LastChanged_Achievements": "2024-01-04T07:06:02.7247131+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:04.5269617+00:00",
-  "LastUpdate_Ratings": "2024-01-04T05:57:00.4906719+00:00",
-  "LastUpdate_Achievements": "2024-01-04T06:07:14.7793839+00:00"
+  "LastUpdate_Ratings": "2024-01-04T06:57:20.5238162+00:00",
+  "LastUpdate_Achievements": "2024-01-04T07:06:02.7247827+00:00"
 }

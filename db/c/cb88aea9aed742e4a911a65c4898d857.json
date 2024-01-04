@@ -3,12 +3,12 @@
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
   "Ranking_Rating": 260,
-  "Ranking_Popularity": 388,
-  "Ranking_PopularitySum": 471,
+  "Ranking_Popularity": 387,
+  "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 368,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -269,9 +269,9 @@
       "Count": 93
     }
   ],
-  "EOS_Progressed": 9933,
+  "EOS_Progressed": 9938,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1721,
+  "EOS_NewPlayers": 1724,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3584,6 +3584,11 @@
       "Time": "2024-01-04T06:10:54.9641643+00:00",
       "NumProgressed": 9933,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-04T07:10:07.2409305+00:00",
+      "NumProgressed": 9938,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3596,7 +3601,7 @@
       "Name": "Conspiracy",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1192
+      "UsersEstimate": 1193
     },
     {
       "ID": "03_TheStolenStar",
@@ -3604,7 +3609,7 @@
       "Name": "Stolen Star",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -3612,7 +3617,7 @@
       "Name": "Trade Empire",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "05_TheComorraghSurvivors",
@@ -3708,7 +3713,7 @@
       "Name": "The Rise",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "17_TheExemplar",
@@ -3724,7 +3729,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "19_TheVoidWolf",
@@ -3732,7 +3737,7 @@
       "Name": "Void Wolf",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -3764,7 +3769,7 @@
       "Name": "The Dynasty Restored",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "24_TheHighrise",
@@ -3796,7 +3801,7 @@
       "Name": "Uncover the Ice",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "28_TheLightOfAstronomicon",
@@ -3852,7 +3857,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -3866,9 +3871,9 @@
       "ID": "36_TheAdventurousArchaelogist",
       "SetID": "37a94m8",
       "Name": "Adventurous Archaeologist",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 70
     },
     {
       "ID": "37_TheSirenicalDiplomat",
@@ -3876,7 +3881,7 @@
       "Name": "Silver-Tongued Diplomat",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "38_ThoseWhoAreAboutToDieSaluteYou",
@@ -3916,7 +3921,7 @@
       "Name": "Iron Judgement",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -3924,7 +3929,7 @@
       "Name": "No Place Like Home",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -3948,7 +3953,7 @@
       "Name": "A Spark",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "47_AFlame",
@@ -4004,7 +4009,7 @@
       "Name": "Enraged Dragon",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "54_ThisIsAJobForLordCaptain",
@@ -4115,7 +4120,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 9933,
+      "Progressed": 9938,
       "Completed": 1
     }
   ],
@@ -4123,8 +4128,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-04T01:47:10.0035057+00:00",
-  "LastChanged_Achievements": "2024-01-04T06:10:54.9641641+00:00",
+  "LastChanged_Achievements": "2024-01-04T07:10:07.2409303+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:17.7362494+00:00",
-  "LastUpdate_Ratings": "2024-01-04T06:02:40.5812911+00:00",
-  "LastUpdate_Achievements": "2024-01-04T06:10:54.9642219+00:00"
+  "LastUpdate_Ratings": "2024-01-04T07:02:47.3489329+00:00",
+  "LastUpdate_Achievements": "2024-01-04T07:10:07.2409946+00:00"
 }

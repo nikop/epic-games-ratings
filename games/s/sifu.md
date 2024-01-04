@@ -6,24 +6,24 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 5.00% | ~37,660 |
-| The Assault | 4.00% | ~30,128 |
-| Life is your teacher | 4.00% | ~30,128 |
-| Lightning Hands | 4.00% | ~30,128 |
-| The Hateful Pole Fighter | 2.00% | ~15,064 |
-| A Lady's Blood in the Snow | 2.00% | ~15,064 |
-| Lady Wing Chun | 2.00% | ~15,064 |
-| Kill Nil | 2.00% | ~15,064 |
-| Stuntmaster | 2.00% | ~15,064 |
-| Street Fighting | 2.00% | ~15,064 |
-| State of constant learning | 2.00% | ~15,064 |
-| Qi Gong: Breath | 2.00% | ~15,064 |
-| Qi Gong: Essence | 2.00% | ~15,064 |
-| I know Kung-Fu | 2.00% | ~15,064 |
-| Old Child | 2.00% | ~15,064 |
-| Path of the Prospect | 2.00% | ~15,064 |
-| Rumble in the Hangar | 2.00% | ~15,064 |
-| Diligence as a goal | 2.00% | ~1,250 |
+| The Old Grandmaster | 5.00% | ~37,662 |
+| The Assault | 4.00% | ~30,129 |
+| Life is your teacher | 4.00% | ~30,129 |
+| Lightning Hands | 4.00% | ~30,129 |
+| The Hateful Pole Fighter | 2.00% | ~15,065 |
+| A Lady's Blood in the Snow | 2.00% | ~15,065 |
+| Lady Wing Chun | 2.00% | ~15,065 |
+| Kill Nil | 2.00% | ~15,065 |
+| Stuntmaster | 2.00% | ~15,065 |
+| Street Fighting | 2.00% | ~15,065 |
+| State of constant learning | 2.00% | ~15,065 |
+| Qi Gong: Breath | 2.00% | ~15,065 |
+| Qi Gong: Essence | 2.00% | ~15,065 |
+| I know Kung-Fu | 2.00% | ~15,065 |
+| Old Child | 2.00% | ~15,065 |
+| Path of the Prospect | 2.00% | ~15,065 |
+| Rumble in the Hangar | 2.00% | ~15,065 |
+| Diligence as a goal | 2.00% | ~1,251 |
 | Furious Fists | 1.00% | ~7,532 |
 | Scareless | 1.00% | ~7,532 |
 | Qi Gong: Mind | 1.00% | ~7,532 |
@@ -39,7 +39,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Source of Flying Daggers | 0.50% | ~3,766 |
 | Iron Money | 0.50% | ~3,766 |
 | Sword Stained With Blood | 0.50% | ~3,766 |
-| Bloody Sport | 0.50% | ~312 |
+| Bloody Sport | 0.50% | ~313 |
 | Legendary Talismans of Wuxing | 0.40% | ~3,013 |
 | Prodigal Child | 0.40% | ~3,013 |
 | The 36th Chamber of Kung-Fu | 0.40% | ~3,013 |
@@ -49,7 +49,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Knowledge Greed | 0.30% | ~2,260 |
 | The Pit Protector | 0.30% | ~2,260 |
 | Come Snap With Me | 0.30% | ~2,260 |
-| Deadly Venom | 0.30% | ~187 |
+| Deadly Venom | 0.30% | ~188 |
 | Healing Memory | 0.20% | ~1,506 |
 | Master of the Phoenix Eye Fist | 0.20% | ~1,506 |
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,506 |
@@ -61,13 +61,13 @@ Number of Ratings: 9,492  (23.09.2022)
 | Master of the Flying Assassins | 0.20% | ~125 |
 | Beatmaker | 0.20% | ~125 |
 | Warriors from the Mountain | 0.10% | ~753 |
-| Hidden Dragon | 0.10% | ~62 |
-| Here Cometh the Iceman | 0.10% | ~62 |
-| Fighter in the Pond | 0.10% | ~62 |
-| Bonus Stage | 0.10% | ~62 |
-| A Bit Of Everything, Simultaneously | 0.10% | ~62 |
+| Hidden Dragon | 0.10% | ~63 |
+| Here Cometh the Iceman | 0.10% | ~63 |
+| Fighter in the Pond | 0.10% | ~63 |
+| Bonus Stage | 0.10% | ~63 |
+| A Bit Of Everything, Simultaneously | 0.10% | ~63 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 753,198 (Ranked 25)  
+Progressed: 753,232 (Ranked 25)  
 Completed: 12,973 (1.72%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,17 +326,17 @@ Completed: 12,973 (1.72%) (Ranked 141)
 | 2024-01-01 | 751,425 | 12,971 |
 | 2024-01-02 | 752,188 | 12,971 |
 | 2024-01-03 | 753,003 | 12,973 |
-| 2024-01-04 | 753,198 | 12,973 |
+| 2024-01-04 | 753,232 | 12,973 |
 ## Awards
 Max (Great Boss Battles): 7,088  (Ranked 55)  
-Sum: 11,987 (Ranked 87)  
+Sum: 11,988 (Ranked 87)  
 Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,088 |
 | This game has Diverse Characters | 693 |
 | This game has Challenging Combat | 637 |
-| This game has Amazing Storytelling | 613 |
+| This game has Amazing Storytelling | 614 |
 | This game has Amazing Characters | 605 |
 | This game is Highly Recommended | 601 |
 | This game has Quickly Understood Controls | 593 |
@@ -699,3 +699,4 @@ Diff (max vs sum): -32
 | 2024-01-01 | 4.82 | - | 7,070 | 11,967 |
 | 2024-01-02 | 4.82 | - | 7,079 | 11,978 |
 | 2024-01-03 | 4.82 | - | 7,088 | 11,987 |
+| 2024-01-04 | 4.82 | - | 7,088 | 11,988 |

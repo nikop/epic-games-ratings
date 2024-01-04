@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 3655,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 436,
+  "EOS_NewPlayers": 434,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -7510,9 +7510,9 @@
       "ID": "achievement_29",
       "SetID": "b9pe172",
       "Name": "Asari Ally",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1206
+      "UsersEstimate": 1243
     },
     {
       "ID": "achievement_3",
@@ -8146,8 +8146,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-04T06:11:13.5707019+00:00",
+  "LastChanged_Achievements": "2024-01-04T07:10:21.649596+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:34.6542278+00:00",
-  "LastUpdate_Ratings": "2024-01-04T06:03:32.8204609+00:00",
-  "LastUpdate_Achievements": "2024-01-04T06:11:13.5709037+00:00"
+  "LastUpdate_Ratings": "2024-01-04T07:03:23.9546447+00:00",
+  "LastUpdate_Achievements": "2024-01-04T07:10:21.6497861+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1825,
+  "EOS_Progressed": 1826,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4577,6 +4577,11 @@
       "Time": "2024-01-04T06:07:52.6436436+00:00",
       "NumProgressed": 1825,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-04T07:06:29.7830398+00:00",
+      "NumProgressed": 1826,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4603,9 +4608,9 @@
       "ID": "ML_ACHIEVEMENT_03",
       "SetID": "5k00jcd",
       "Name": "Out of control",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 128
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -4621,7 +4626,7 @@
       "Name": "Like lightning!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -4653,7 +4658,7 @@
       "Name": "Masterful!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -4677,7 +4682,7 @@
       "Name": "Immortal",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -4956,20 +4961,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1825,
+      "Progressed": 1826,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1493,
+      "Progressed": 1494,
       "Completed": 1006
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-04T06:07:52.6436434+00:00",
+  "LastChanged_Achievements": "2024-01-04T07:06:29.7830394+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:16.9780766+00:00",
-  "LastUpdate_Ratings": "2024-01-04T06:01:43.5075018+00:00",
-  "LastUpdate_Achievements": "2024-01-04T06:07:52.6436947+00:00"
+  "LastUpdate_Ratings": "2024-01-04T07:00:29.2896511+00:00",
+  "LastUpdate_Achievements": "2024-01-04T07:06:29.7830981+00:00"
 }

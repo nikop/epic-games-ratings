@@ -3,12 +3,12 @@
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
   "Ranking_Rating": 977,
-  "Ranking_Popularity": 578,
-  "Ranking_PopularitySum": 578,
+  "Ranking_Popularity": 577,
+  "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -61,9 +61,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1747,
+  "EOS_Progressed": 1749,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 367,
+  "EOS_NewPlayers": 369,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -3451,6 +3451,11 @@
       "Time": "2024-01-04T06:11:05.657919+00:00",
       "NumProgressed": 1747,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-04T07:10:15.3664865+00:00",
+      "NumProgressed": 1749,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -3462,7 +3467,7 @@
       "Name": "Break Out",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1067
     },
     {
       "ID": "ACH_02",
@@ -3478,7 +3483,7 @@
       "Name": "Powerful Allies",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "ACH_04",
@@ -3598,7 +3603,7 @@
       "Name": "Shatter Them All",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "ACH_19",
@@ -3638,7 +3643,7 @@
       "Name": "Geared Up",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "ACH_24",
@@ -3654,7 +3659,7 @@
       "Name": "Fashion Victim",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "ACH_26",
@@ -3702,7 +3707,7 @@
       "Name": "Stone Collection",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "ACH_33",
@@ -3718,7 +3723,7 @@
       "Name": "The Collector",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "ACH_35",
@@ -3749,7 +3754,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1747,
+      "Progressed": 1749,
       "Completed": 3
     }
   ],
@@ -3757,8 +3762,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-02T01:47:19.6899919+00:00",
-  "LastChanged_Achievements": "2024-01-04T06:11:05.6579188+00:00",
+  "LastChanged_Achievements": "2024-01-04T07:10:15.3664862+00:00",
   "LastUpdate_AppInfo": "2024-01-01T22:57:08.0954502+00:00",
-  "LastUpdate_Ratings": "2024-01-04T05:56:58.8255334+00:00",
-  "LastUpdate_Achievements": "2024-01-04T06:11:05.6579531+00:00"
+  "LastUpdate_Ratings": "2024-01-04T06:57:19.4627722+00:00",
+  "LastUpdate_Achievements": "2024-01-04T07:10:15.3665209+00:00"
 }

@@ -9,7 +9,7 @@ Number of Ratings: 124  (23.09.2022)
 | Entrepreneur | 38.00% | ~66 |
 | Best Buddy | 31.00% | ~54 |
 | Civilian | 29.00% | ~50 |
-| Role Model | 25.00% | ~43 |
+| Role Model | 26.00% | ~45 |
 | Peddler | 23.00% | ~40 |
 | Festival-goer | 23.00% | ~40 |
 | Creator | 22.00% | ~38 |

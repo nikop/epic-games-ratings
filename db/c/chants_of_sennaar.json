@@ -3,8 +3,8 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_Rating": 49,
-  "Ranking_Popularity": 578,
-  "Ranking_PopularitySum": 578,
+  "Ranking_Popularity": 577,
+  "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 65,
   "Ranking_EOS_NewPlayers": 162,
@@ -109,11 +109,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2318,
+  "EOS_Progressed": 2319,
   "EOS_Completed": 145,
   "EOS_NewPlayers": 400,
   "EOS_NewCompleters": 31,
-  "EOS_Completed_Percentage": 6.26,
+  "EOS_Completed_Percentage": 6.25,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -6289,6 +6289,11 @@
       "Time": "2024-01-04T06:04:59.405347+00:00",
       "NumProgressed": 2318,
       "NumCompleted": 145
+    },
+    {
+      "Time": "2024-01-04T07:04:25.6929327+00:00",
+      "NumProgressed": 2319,
+      "NumCompleted": 145
     }
   ],
   "TotalAchievements": 25,
@@ -6316,7 +6321,7 @@
       "Name": "Peace walker",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -6332,7 +6337,7 @@
       "Name": "A good beginning",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "META_HALF_LINK",
@@ -6412,7 +6417,7 @@
       "Name": "True G3M4R",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -6428,7 +6433,7 @@
       "Name": "Fashion victim",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "PROGRESS_ALL_RUNES",
@@ -6436,7 +6441,7 @@
       "Name": "Champollion",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -6444,7 +6449,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1344
+      "UsersEstimate": 1345
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -6460,7 +6465,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "PROGRESS_N2",
@@ -6476,7 +6481,7 @@
       "Name": "A new dawn",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "PROGRESS_N4",
@@ -6484,7 +6489,7 @@
       "Name": "The darkness",
       "Percentage": 30,
       "XP": 60,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "PROGRESS_N5",
@@ -6499,7 +6504,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2318,
+      "Progressed": 2319,
       "Completed": 145
     }
   ],
@@ -6507,8 +6512,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-04T06:02:50.6973409+00:00",
-  "LastChanged_Achievements": "2024-01-04T06:04:59.4053467+00:00",
+  "LastChanged_Achievements": "2024-01-04T07:04:25.6929323+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:09.4320521+00:00",
-  "LastUpdate_Ratings": "2024-01-04T06:02:50.6973414+00:00",
-  "LastUpdate_Achievements": "2024-01-04T06:04:59.4053873+00:00"
+  "LastUpdate_Ratings": "2024-01-04T07:02:55.0120294+00:00",
+  "LastUpdate_Achievements": "2024-01-04T07:04:25.6929886+00:00"
 }

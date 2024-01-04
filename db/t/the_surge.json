@@ -2,13 +2,13 @@
   "ID": "08f38e25e11f4c1e977cb75aae5e4535",
   "Name": "The Surge",
   "ProductSlug": "the-surge",
-  "Ranking_Rating": 702,
-  "Ranking_Popularity": 518,
-  "Ranking_PopularitySum": 538,
+  "Ranking_Rating": 701,
+  "Ranking_Popularity": 517,
+  "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -400,9 +400,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5229,
+  "EOS_Progressed": 5230,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -4670,6 +4670,11 @@
       "Time": "2024-01-04T05:04:54.9605575+00:00",
       "NumProgressed": 5229,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-04T07:04:44.5644453+00:00",
+      "NumProgressed": 5230,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -4705,7 +4710,7 @@
       "Name": "The Black Cerberus",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "ID_ACHIEV_05",
@@ -4729,7 +4734,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4392
+      "UsersEstimate": 4393
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -4737,7 +4742,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4915
+      "UsersEstimate": 4916
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -4745,7 +4750,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3974
+      "UsersEstimate": 3975
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -4753,7 +4758,7 @@
       "Name": "Hey Listen",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1882
+      "UsersEstimate": 1883
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -4777,7 +4782,7 @@
       "Name": "Watchman",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "ID_ACHIEV_14",
@@ -4801,7 +4806,7 @@
       "Name": "It Lives! It Sniffs! It Conquers!",
       "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ID_ACHIEV_17",
@@ -4857,7 +4862,7 @@
       "Name": "Man of Steel",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ID_ACHIEV_24",
@@ -4897,7 +4902,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3974
+      "UsersEstimate": 3975
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -4937,7 +4942,7 @@
       "Name": "Jack of All Trades",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ID_ACHIEV_35",
@@ -5015,9 +5020,9 @@
       "ID": "ID_ACHIEV_44",
       "SetID": "98bke8c",
       "Name": "GOLIATH",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1098
+      "UsersEstimate": 1046
     },
     {
       "ID": "ID_ACHIEV_45",
@@ -5121,7 +5126,7 @@
       "Name": "3-2-1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ID_ACHIEV_58",
@@ -5216,15 +5221,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5229,
+      "Progressed": 5230,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-31T19:58:10.5906343+00:00",
-  "LastChanged_Achievements": "2024-01-04T06:05:26.9002368+00:00",
+  "LastChanged_Achievements": "2024-01-04T07:04:44.5644449+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:44.5404504+00:00",
-  "LastUpdate_Ratings": "2024-01-04T06:00:15.5389143+00:00",
-  "LastUpdate_Achievements": "2024-01-04T06:05:26.90033+00:00"
+  "LastUpdate_Ratings": "2024-01-04T06:59:29.6340262+00:00",
+  "LastUpdate_Achievements": "2024-01-04T07:04:44.5645468+00:00"
 }

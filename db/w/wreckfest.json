@@ -3,12 +3,12 @@
   "Name": "Wreckfest",
   "ProductSlug": "wreckfest",
   "Ranking_Rating": 897,
-  "Ranking_Popularity": 578,
-  "Ranking_PopularitySum": 578,
+  "Ranking_Popularity": 577,
+  "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 748,
+  "EOS_Progressed": 750,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 276,
+  "EOS_NewPlayers": 278,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1943,6 +1943,11 @@
       "Time": "2024-01-04T05:09:06.8699041+00:00",
       "NumProgressed": 748,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T07:09:04.3021348+00:00",
+      "NumProgressed": 750,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -1963,7 +1968,7 @@
       "Name": "Highballer",
       "Percentage": 50,
       "XP": 90,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "CareerChamp1",
@@ -1971,7 +1976,7 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "CareerChamp2",
@@ -1995,7 +2000,7 @@
       "Name": "Pro Internationals Champion",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "CareerComplete",
@@ -2011,7 +2016,7 @@
       "Name": "Storm Warning",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 516
+      "UsersEstimate": 518
     },
     {
       "ID": "CollectVehiclesA",
@@ -2019,7 +2024,7 @@
       "Name": "Wheeler Dealer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "CollectVehiclesB",
@@ -2035,7 +2040,7 @@
       "Name": "Cash For Crashes",
       "Percentage": 7,
       "XP": 120,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "GetWreckedA",
@@ -2051,7 +2056,7 @@
       "Name": "Garden Variety",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "MultiplayerEventsWonA",
@@ -2067,7 +2072,7 @@
       "Name": "Dirty Roller",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "PlayerRankB",
@@ -2114,7 +2119,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 748,
+      "Progressed": 750,
       "Completed": 0
     }
   ],
@@ -2122,8 +2127,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-03T23:57:07.3017814+00:00",
-  "LastChanged_Achievements": "2024-01-04T06:09:26.4364003+00:00",
+  "LastChanged_Achievements": "2024-01-04T07:09:04.3021342+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:31.5719432+00:00",
-  "LastUpdate_Ratings": "2024-01-04T05:57:22.1030377+00:00",
-  "LastUpdate_Achievements": "2024-01-04T06:09:26.4364181+00:00"
+  "LastUpdate_Ratings": "2024-01-04T06:57:33.2844718+00:00",
+  "LastUpdate_Achievements": "2024-01-04T07:09:04.3021599+00:00"
 }

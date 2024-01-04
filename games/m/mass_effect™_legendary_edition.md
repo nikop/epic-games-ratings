@@ -21,7 +21,7 @@
 | Soldier | 35.00% | ~1,279 |
 | Meritorious Service Medal | 35.00% | ~1,279 |
 | Charismatic | 35.00% | ~1,279 |
-| Asari Ally | 33.00% | ~1,206 |
+| Asari Ally | 34.00% | ~1,243 |
 | Very Elusive | 33.00% | ~1,206 |
 | Principled | 32.00% | ~1,170 |
 | Colonial Savior | 32.00% | ~1,170 |

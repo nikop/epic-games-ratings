@@ -3,12 +3,12 @@
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
   "Ranking_Rating": 947,
-  "Ranking_Popularity": 578,
-  "Ranking_PopularitySum": 578,
+  "Ranking_Popularity": 577,
+  "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -685,9 +685,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11479,
+  "EOS_Progressed": 11480,
   "EOS_Completed": 76,
-  "EOS_NewPlayers": 630,
+  "EOS_NewPlayers": 625,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -14655,6 +14655,11 @@
       "Time": "2024-01-04T06:03:47.9958113+00:00",
       "NumProgressed": 11479,
       "NumCompleted": 76
+    },
+    {
+      "Time": "2024-01-04T07:03:35.5021372+00:00",
+      "NumProgressed": 11480,
+      "NumCompleted": 76
     }
   ],
   "TotalAchievements": 29,
@@ -14770,7 +14775,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1951
+      "UsersEstimate": 1952
     },
     {
       "ID": "ACH15",
@@ -14897,7 +14902,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 11479,
+      "Progressed": 11480,
       "Completed": 76
     }
   ],
@@ -14905,8 +14910,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-03T20:58:39.4932254+00:00",
-  "LastChanged_Achievements": "2024-01-04T06:03:47.995811+00:00",
+  "LastChanged_Achievements": "2024-01-04T07:03:35.5021366+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:06.0840087+00:00",
-  "LastUpdate_Ratings": "2024-01-04T05:58:36.9280476+00:00",
-  "LastUpdate_Achievements": "2024-01-04T06:03:47.9958893+00:00"
+  "LastUpdate_Ratings": "2024-01-04T06:58:25.1699104+00:00",
+  "LastUpdate_Achievements": "2024-01-04T07:03:35.5022194+00:00"
 }

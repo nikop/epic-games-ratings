@@ -3,12 +3,12 @@
   "Name": "FINAL FANTASY VII REMAKE INTERGRADE",
   "ProductSlug": "final-fantasy-vii-remake-intergrade",
   "Ranking_Rating": 39,
-  "Ranking_Popularity": 70,
+  "Ranking_Popularity": 71,
   "Ranking_PopularitySum": 82,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 566,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-12-16T14:30:00+00:00",
     "PcReleaseDate": "2021-12-16T14:30:00+00:00",
@@ -5225,10 +5225,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 12803,
       "NumberOfAwardsMax": 5817
+    },
+    {
+      "Time": "2024-01-04T06:59:38.2636551+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 12806,
+      "NumberOfAwardsMax": 5817
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12803,
+  "NumberOfAwards": 12806,
   "NumberOfAwardsMax": 5817,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5290,7 +5296,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 342
+      "Count": 345
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -5322,8 +5328,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:16.7757899+00:00",
-  "LastChanged": "2024-01-03T09:59:56.7212282+00:00",
+  "LastChanged": "2024-01-04T06:59:38.2636549+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.5838813+00:00",
-  "LastUpdate_Ratings": "2024-01-04T06:00:28.4011523+00:00",
-  "LastUpdate_Achievements": "2024-01-04T06:10:19.9416404+00:00"
+  "LastUpdate_Ratings": "2024-01-04T06:59:38.2636555+00:00",
+  "LastUpdate_Achievements": "2024-01-04T07:09:41.6233339+00:00"
 }

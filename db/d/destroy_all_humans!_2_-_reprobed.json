@@ -3,12 +3,12 @@
   "Name": "Destroy All Humans! 2 - Reprobed",
   "ProductSlug": "destroy-all-humans-2-reprobed",
   "Ranking_Rating": 543,
-  "Ranking_Popularity": 494,
-  "Ranking_PopularitySum": 526,
+  "Ranking_Popularity": 493,
+  "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 243,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -294,7 +294,7 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 306,
+  "EOS_Progressed": 307,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
@@ -1489,6 +1489,11 @@
       "Time": "2024-01-04T05:09:26.262173+00:00",
       "NumProgressed": 306,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-04T07:09:23.329019+00:00",
+      "NumProgressed": 307,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1613,7 +1618,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -1637,7 +1642,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1669,7 +1674,7 @@
       "Name": "Bodied Sattva",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -1683,9 +1688,9 @@
       "ID": "ACH_KILL_MILENKOV",
       "SetID": "4n84pon",
       "Name": "Lobster Blisque",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_KILL_ORANCHOV",
@@ -1707,9 +1712,9 @@
       "ID": "ACH_KILL_REINCARNATOR",
       "SetID": "4n84pon",
       "Name": "Ouch of Body Experience",
-      "Percentage": 0.3,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_KILL_SHAMA",
@@ -1723,9 +1728,9 @@
       "ID": "ACH_KILL_WARSHIP",
       "SetID": "4n84pon",
       "Name": "Scuttled",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_KILL_YETI",
@@ -1771,9 +1776,9 @@
       "ID": "ACH_REVISIT_MISSION",
       "SetID": "4n84pon",
       "Name": "Re-Return of the Clone of the Invasion II-2",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_SKATE_ALBION",
@@ -1789,7 +1794,7 @@
       "Name": "Dusted",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_SKATE_BAYCITY",
@@ -1837,7 +1842,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1845,14 +1850,14 @@
       "Name": "Pimp My Raid",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 306,
+      "Progressed": 307,
       "Completed": 1
     }
   ],
@@ -1860,8 +1865,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-03T11:58:36.9448322+00:00",
-  "LastChanged_Achievements": "2024-01-04T06:09:53.8265313+00:00",
+  "LastChanged_Achievements": "2024-01-04T07:09:23.3290187+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.261947+00:00",
-  "LastUpdate_Ratings": "2024-01-04T05:59:19.7490627+00:00",
-  "LastUpdate_Achievements": "2024-01-04T06:09:53.8265671+00:00"
+  "LastUpdate_Ratings": "2024-01-04T06:58:53.4238802+00:00",
+  "LastUpdate_Achievements": "2024-01-04T07:09:23.3290663+00:00"
 }

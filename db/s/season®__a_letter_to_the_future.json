@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1946,
+  "EOS_Progressed": 1947,
   "EOS_Completed": 72,
   "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 3,
@@ -4399,6 +4399,11 @@
       "Time": "2024-01-04T06:10:51.1166369+00:00",
       "NumProgressed": 1946,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2024-01-04T07:10:04.2806828+00:00",
+      "NumProgressed": 1947,
+      "NumCompleted": 72
     }
   ],
   "TotalAchievements": 16,
@@ -4410,7 +4415,7 @@
       "Name": "Artist Assistant",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ACH_DEEPLISTENER",
@@ -4458,7 +4463,7 @@
       "Name": "Grey Hands Praxis 101",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "ACH_HOMELEAVER",
@@ -4466,7 +4471,7 @@
       "Name": "Home Leaver",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1537
+      "UsersEstimate": 1538
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -4474,7 +4479,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1537
+      "UsersEstimate": 1538
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -4537,7 +4542,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1946,
+      "Progressed": 1947,
       "Completed": 72
     }
   ],
@@ -4545,8 +4550,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2024-01-04T06:10:51.1166366+00:00",
+  "LastChanged_Achievements": "2024-01-04T07:10:04.2806823+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.182252+00:00",
-  "LastUpdate_Ratings": "2024-01-04T05:57:12.0999841+00:00",
-  "LastUpdate_Achievements": "2024-01-04T06:10:51.1166887+00:00"
+  "LastUpdate_Ratings": "2024-01-04T06:57:27.4853884+00:00",
+  "LastUpdate_Achievements": "2024-01-04T07:10:04.2807224+00:00"
 }

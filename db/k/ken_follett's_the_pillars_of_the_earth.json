@@ -3,7 +3,7 @@
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
   "Ranking_Rating": 592,
-  "Ranking_Popularity": 324,
+  "Ranking_Popularity": 323,
   "Ranking_PopularitySum": 417,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 194,
@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17604,
+  "EOS_Progressed": 17606,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -17645,6 +17645,11 @@
       "Time": "2024-01-04T04:06:27.677614+00:00",
       "NumProgressed": 17604,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2024-01-04T07:06:20.7169965+00:00",
+      "NumProgressed": 17606,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 41,
@@ -17656,7 +17661,7 @@
       "Name": "Good midwife",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1760
+      "UsersEstimate": 1761
     },
     {
       "ID": "tpote_achievement_10",
@@ -17696,7 +17701,7 @@
       "Name": "Friends of sorts",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5633
+      "UsersEstimate": 5634
     },
     {
       "ID": "tpote_achievement_15",
@@ -17728,7 +17733,7 @@
       "Name": "Friar Tuck",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 1760
+      "UsersEstimate": 1761
     },
     {
       "ID": "tpote_achievement_19",
@@ -17744,7 +17749,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5809
+      "UsersEstimate": 5810
     },
     {
       "ID": "tpote_achievement_20",
@@ -17760,7 +17765,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 5105
+      "UsersEstimate": 5106
     },
     {
       "ID": "tpote_achievement_22",
@@ -17784,7 +17789,7 @@
       "Name": "First profit",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1760
+      "UsersEstimate": 1761
     },
     {
       "ID": "tpote_achievement_25",
@@ -17816,7 +17821,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2112
+      "UsersEstimate": 2113
     },
     {
       "ID": "tpote_achievement_29",
@@ -17824,7 +17829,7 @@
       "Name": "Skilled merchant",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1584
+      "UsersEstimate": 1585
     },
     {
       "ID": "tpote_achievement_3",
@@ -17832,7 +17837,7 @@
       "Name": "Let there be darkness",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5457
+      "UsersEstimate": 5458
     },
     {
       "ID": "tpote_achievement_30",
@@ -17840,7 +17845,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1760
+      "UsersEstimate": 1761
     },
     {
       "ID": "tpote_achievement_31",
@@ -17888,7 +17893,7 @@
       "Name": "Brother Marcus",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1584
+      "UsersEstimate": 1585
     },
     {
       "ID": "tpote_achievement_37",
@@ -17912,7 +17917,7 @@
       "Name": "The oath",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1584
+      "UsersEstimate": 1585
     },
     {
       "ID": "tpote_achievement_4",
@@ -17928,7 +17933,7 @@
       "Name": "The truth revealed",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1584
+      "UsersEstimate": 1585
     },
     {
       "ID": "tpote_achievement_41",
@@ -17936,7 +17941,7 @@
       "Name": "The End.",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 1584
+      "UsersEstimate": 1585
     },
     {
       "ID": "tpote_achievement_5",
@@ -17976,22 +17981,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5985
+      "UsersEstimate": 5986
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17604,
+      "Progressed": 17606,
       "Completed": 124
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-04T06:07:40.1473506+00:00",
+  "LastChanged_Achievements": "2024-01-04T07:06:20.7169963+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:24.3361109+00:00",
-  "LastUpdate_Ratings": "2024-01-04T06:02:54.6567049+00:00",
-  "LastUpdate_Achievements": "2024-01-04T06:07:40.1474827+00:00"
+  "LastUpdate_Ratings": "2024-01-04T07:02:57.3939866+00:00",
+  "LastUpdate_Achievements": "2024-01-04T07:06:20.7170847+00:00"
 }

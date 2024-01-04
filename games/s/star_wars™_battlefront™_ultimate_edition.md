@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 87.00% | ~2,237 |
-| Off to a good start | 62.00% | ~1,594 |
-| Do... or do not. There is no try | 51.00% | ~1,311 |
+| New Recruit | 87.00% | ~2,238 |
+| Off to a good start | 62.00% | ~1,595 |
+| Do... or do not. There is no try | 51.00% | ~1,312 |
 | A good blaster at your side | 25.00% | ~643 |
-| I suggest a new strategy | 18.00% | ~463 |
-| Great shot, kid! | 16.00% | ~411 |
+| I suggest a new strategy | 17.00% | ~437 |
+| Great shot, kid! | 16.00% | ~412 |
 | Scrap collector | 15.00% | ~386 |
 | All right, I'll give it a try | 15.00% | ~386 |
 | Shoot first | 13.00% | ~334 |
@@ -58,7 +58,7 @@
 | No such thing as luck | 0.50% | ~13 |
 | Do we take prisoners? | 0.50% | ~13 |
 | I’ll take that bet | 0.50% | ~13 |
-| Stay on target | 0.40% | ~10 |
+| Stay on target | 0.30% | ~8 |
 | Greed can be a very powerful ally | 0.30% | ~8 |
 | That got him! | 0.20% | ~5 |
 | in a galaxy far, far away.... | 0.20% | ~5 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,571 (Ranked 233)  
+Progressed: 2,572 (Ranked 233)  
 Completed: 1 (0.04%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 1 (0.04%) (Ranked 346)
 | 2024-01-01 | 2,461 | 1 |
 | 2024-01-02 | 2,520 | 1 |
 | 2024-01-03 | 2,563 | 1 |
-| 2024-01-04 | 2,571 | 1 |
+| 2024-01-04 | 2,572 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

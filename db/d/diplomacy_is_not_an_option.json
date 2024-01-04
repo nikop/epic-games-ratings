@@ -3,12 +3,12 @@
   "Name": "Diplomacy is Not an Option",
   "ProductSlug": "diplomacy-is-not-an-option-9c6bea",
   "Ranking_Rating": 634,
-  "Ranking_Popularity": 578,
-  "Ranking_PopularitySum": 578,
+  "Ranking_Popularity": 577,
+  "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 566,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-02-09T18:00:00+00:00",
     "PcReleaseDate": "2022-02-09T18:00:00+00:00",
@@ -282,6 +282,6 @@
   "FirstSeen": "2022-07-22T20:30:41.4347718+00:00",
   "LastChanged": "2023-11-29T02:57:50.5303736+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:29.9533435+00:00",
-  "LastUpdate_Ratings": "2024-01-04T06:02:27.6466728+00:00",
-  "LastUpdate_Achievements": "2024-01-04T06:08:38.044838+00:00"
+  "LastUpdate_Ratings": "2024-01-04T07:00:38.4602015+00:00",
+  "LastUpdate_Achievements": "2024-01-04T07:08:29.6752182+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Among the Sleep - Enhanced Edition",
   "ProductSlug": "among-the-sleep-enhanced-edition",
   "Ranking_Rating": 875,
-  "Ranking_Popularity": 578,
-  "Ranking_PopularitySum": 578,
+  "Ranking_Popularity": 577,
+  "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 119,
@@ -500,9 +500,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 98050,
+  "EOS_Progressed": 98051,
   "EOS_Completed": 451,
-  "EOS_NewPlayers": 1002,
+  "EOS_NewPlayers": 999,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -29345,6 +29345,11 @@
       "Time": "2024-01-04T06:09:56.1162457+00:00",
       "NumProgressed": 98050,
       "NumCompleted": 451
+    },
+    {
+      "Time": "2024-01-04T07:09:24.8291593+00:00",
+      "NumProgressed": 98051,
+      "NumCompleted": 451
     }
   ],
   "TotalAchievements": 10,
@@ -29356,7 +29361,7 @@
       "Name": "Baby Mozart",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 4902
+      "UsersEstimate": 4903
     },
     {
       "ID": "Drawings01",
@@ -29364,7 +29369,7 @@
       "Name": "House Drawings",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "Drawings02",
@@ -29372,7 +29377,7 @@
       "Name": "Cave Drawings",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "Drawings03",
@@ -29435,15 +29440,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 98050,
+      "Progressed": 98051,
       "Completed": 451
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-12-20T03:02:57.8561576+00:00",
-  "LastChanged_Achievements": "2024-01-04T06:09:56.1162455+00:00",
+  "LastChanged_Achievements": "2024-01-04T07:09:24.8291589+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:31.1360404+00:00",
-  "LastUpdate_Ratings": "2024-01-04T06:03:23.9580858+00:00",
-  "LastUpdate_Achievements": "2024-01-04T06:09:56.116433+00:00"
+  "LastUpdate_Ratings": "2024-01-04T07:03:18.1492207+00:00",
+  "LastUpdate_Achievements": "2024-01-04T07:09:24.8292956+00:00"
 }

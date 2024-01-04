@@ -5,19 +5,19 @@ Rating: 4.40 (Ranked 766)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~80,658 |
-| Predator I | 23.00% | ~59,843 |
+| Survivor | 31.00% | ~80,659 |
+| Predator I | 23.00% | ~59,844 |
 | Fixer I | 10.00% | ~26,019 |
 | A week in Century City | 10.00% | ~26,019 |
 | The Wait | 7.00% | ~18,213 |
 | Green thumb I | 6.00% | ~15,611 |
 | Cleaning Company | 6.00% | ~15,611 |
-| Well-oiled machine | 5.00% | ~13,009 |
-| Saver I | 5.00% | ~13,009 |
-| The Ascent | 4.00% | ~10,407 |
-| Pacifist | 4.00% | ~10,407 |
-| Vandalism | 4.00% | ~10,407 |
-| Capitalist I | 4.00% | ~10,407 |
+| Well-oiled machine | 5.00% | ~13,010 |
+| Saver I | 5.00% | ~13,010 |
+| The Ascent | 4.00% | ~10,408 |
+| Pacifist | 4.00% | ~10,408 |
+| Vandalism | 4.00% | ~10,408 |
+| Capitalist I | 4.00% | ~10,408 |
 | Fixer II | 3.00% | ~7,806 |
 | It took a while | 3.00% | ~7,806 |
 | Adrenaline | 3.00% | ~7,806 |
@@ -35,8 +35,8 @@ Rating: 4.40 (Ranked 766)
 | Green thumb II | 1.00% | ~2,602 |
 | Bricklayer | 1.00% | ~2,602 |
 | Run the Economy | 1.00% | ~2,602 |
-| Committed Relationship | 0.80% | ~2,081 |
-| Number 1 | 0.80% | ~2,081 |
+| Committed Relationship | 0.80% | ~2,082 |
+| Number 1 | 0.80% | ~2,082 |
 | The Gamble | 0.60% | ~1,561 |
 | A major purchase | 0.60% | ~1,561 |
 | Interior designer | 0.60% | ~1,561 |
@@ -62,7 +62,7 @@ Rating: 4.40 (Ranked 766)
 | Capitalist III | 0.10% | ~260 |
 | Hell Is You | 0.10% | ~260 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 260,187 (Ranked 67)  
+Progressed: 260,190 (Ranked 67)  
 Completed: 3 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,11 +321,11 @@ Completed: 3 (0.00%) (Ranked 392)
 | 2024-01-01 | 260,097 | 3 |
 | 2024-01-02 | 260,132 | 3 |
 | 2024-01-03 | 260,179 | 3 |
-| 2024-01-04 | 260,187 | 3 |
+| 2024-01-04 | 260,190 | 3 |
 ## Awards
-Max (Great for Quick Sessions): 54  (Ranked 440)  
+Max (Great for Quick Sessions): 54  (Ranked 439)  
 Sum: 373 (Ranked 360)  
-Diff (max vs sum): 80  
+Diff (max vs sum): 79  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 54 |

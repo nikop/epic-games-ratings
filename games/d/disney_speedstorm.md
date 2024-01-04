@@ -5,17 +5,17 @@ Rating: 4.42 (Ranked 735)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 13.00% | ~49,812 |
-| IT MAKES BOOM! | 8.00% | ~30,654 |
-| EXTRA BOOST | 6.00% | ~22,990 |
-| PROTECTED | 5.00% | ~19,159 |
-| HERE ARE SOME BARE NECESSITIES | 4.00% | ~15,327 |
-| PRO | 4.00% | ~15,327 |
-| AGGRESSIVE RACER | 3.00% | ~11,495 |
-| IT'S A LONG WAY TO THE TOP | 2.00% | ~7,663 |
-| TRAINING HARD | 2.00% | ~7,663 |
-| ACE SPEEDSTER | 2.00% | ~7,663 |
-| A TIGER'S FEAR | 2.00% | ~7,663 |
+| ROOKIE | 13.00% | ~49,817 |
+| IT MAKES BOOM! | 8.00% | ~30,656 |
+| EXTRA BOOST | 6.00% | ~22,992 |
+| PROTECTED | 5.00% | ~19,160 |
+| HERE ARE SOME BARE NECESSITIES | 4.00% | ~15,328 |
+| PRO | 4.00% | ~15,328 |
+| AGGRESSIVE RACER | 3.00% | ~11,496 |
+| IT'S A LONG WAY TO THE TOP | 2.00% | ~7,664 |
+| TRAINING HARD | 2.00% | ~7,664 |
+| ACE SPEEDSTER | 2.00% | ~7,664 |
+| A TIGER'S FEAR | 2.00% | ~7,664 |
 | RELEASE THE KRAKEN | 1.00% | ~3,832 |
 | BE OUR GUEST | 1.00% | ~3,832 |
 | DEFEAT OUR CHAMPION | 1.00% | ~3,832 |
@@ -25,12 +25,12 @@ Rating: 4.42 (Ranked 735)
 | LEGENDARY HERO | 1.00% | ~3,832 |
 | ACE BRAWLER | 0.90% | ~3,449 |
 | THE EYE OF THE HUNTER | 0.90% | ~3,449 |
-| EXPERIENCED CREW | 0.80% | ~3,065 |
+| EXPERIENCED CREW | 0.80% | ~3,066 |
 | FRAMED! | 0.70% | ~2,682 |
 | PERFECTLY POISED | 0.60% | ~2,299 |
 | ACE TRICKSTER | 0.60% | ~2,299 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 383,173 (Ranked 52)  
+Progressed: 383,206 (Ranked 52)  
 Completed: 1,428 (0.37%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,11 +285,11 @@ Completed: 1,428 (0.37%) (Ranked 238)
 | 2024-01-01 | 379,893 | 1,380 |
 | 2024-01-02 | 381,442 | 1,405 |
 | 2024-01-03 | 382,781 | 1,420 |
-| 2024-01-04 | 383,173 | 1,428 |
+| 2024-01-04 | 383,206 | 1,428 |
 ## Awards
-Max (Great for Beginners): 167  (Ranked 321)  
+Max (Great for Beginners): 167  (Ranked 320)  
 Sum: 1,101 (Ranked 263)  
-Diff (max vs sum): 58  
+Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 167 |

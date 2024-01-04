@@ -11,7 +11,7 @@ Number of Ratings: 116  (23.09.2022)
 | Helping Hand | 63.00% | ~260 |
 | Increased Vigor | 59.00% | ~244 |
 | Fight Fire with Fire | 57.00% | ~235 |
-| Increased Capacity | 53.00% | ~219 |
+| Increased Capacity | 54.00% | ~223 |
 | Just the start | 48.00% | ~198 |
 | Perfect Storm | 46.00% | ~190 |
 | All That Glitters | 46.00% | ~190 |
@@ -24,8 +24,8 @@ Number of Ratings: 116  (23.09.2022)
 | Soul Harvester | 35.00% | ~145 |
 | Salvation | 35.00% | ~145 |
 | Unshakable Fortitude | 33.00% | ~136 |
+| Delusions of Grandeur | 32.00% | ~132 |
 | I Wanna Rock | 31.00% | ~128 |
-| Delusions of Grandeur | 31.00% | ~128 |
 | Love Tap | 30.00% | ~124 |
 | Maximum Vigor | 29.00% | ~120 |
 | Freeze Frame | 27.00% | ~112 |
@@ -93,8 +93,8 @@ Completed: 1 (0.24%) (Ranked 266)
 | 2024-01-03 | 405 | 1 |
 | 2024-01-04 | 413 | 1 |
 ## Awards
-Max (Great Boss Battles): 96  (Ranked 383)  
-Sum: 96 (Ranked 467)  
+Max (Great Boss Battles): 96  (Ranked 382)  
+Sum: 96 (Ranked 466)  
 Diff (max vs sum): -84  
 | Award | Count |
 | ----- | ----- |

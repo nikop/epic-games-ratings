@@ -71,8 +71,8 @@ Completed: 5 (1.60%) (Ranked 145)
 | 2024-01-03 | 310 | 5 |
 | 2024-01-04 | 312 | 5 |
 ## Awards
-Max (Great Boss Battles): 35  (Ranked 499)  
-Sum: 35 (Ranked 529)  
+Max (Great Boss Battles): 35  (Ranked 498)  
+Sum: 35 (Ranked 528)  
 Diff (max vs sum): -30  
 | Award | Count |
 | ----- | ----- |

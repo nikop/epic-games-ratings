@@ -3,12 +3,12 @@
   "Name": "Hardspace: Shipbreaker",
   "ProductSlug": "hardspace-shipbreaker",
   "Ranking_Rating": 320,
-  "Ranking_Popularity": 578,
-  "Ranking_PopularitySum": 578,
+  "Ranking_Popularity": 577,
+  "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 316,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -309,9 +309,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1046,
+  "EOS_Progressed": 1047,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2374,6 +2374,11 @@
       "Time": "2024-01-03T20:08:49.1704435+00:00",
       "NumProgressed": 1046,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T07:09:40.8774398+00:00",
+      "NumProgressed": 1047,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -2385,7 +2390,7 @@
       "Name": "Act I Complete",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "ACH_ACT_2_COMPLETE",
@@ -2409,7 +2414,7 @@
       "Name": "Always Finding Your Mark",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "ACH_A_DROP_IN_THE_OCEAN",
@@ -2543,9 +2548,9 @@
       "ID": "ACH_LETS_PATCH_THINGS_UP",
       "SetID": "108h92c",
       "Name": "Let\u2019s patch things up",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 680
+      "UsersEstimate": 670
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -2585,7 +2590,7 @@
       "Name": "The Weight of the World",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "ACH_TRUELY_SHOCKING",
@@ -2600,7 +2605,7 @@
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 1046,
+      "Progressed": 1047,
       "Completed": 0
     }
   ],
@@ -2608,8 +2613,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2024-01-01T13:59:32.897486+00:00",
-  "LastChanged_Achievements": "2024-01-04T06:10:18.8694963+00:00",
+  "LastChanged_Achievements": "2024-01-04T07:09:40.8774393+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:17.6550121+00:00",
-  "LastUpdate_Ratings": "2024-01-04T06:01:22.9486702+00:00",
-  "LastUpdate_Achievements": "2024-01-04T06:10:18.8695257+00:00"
+  "LastUpdate_Ratings": "2024-01-04T07:00:15.348155+00:00",
+  "LastUpdate_Achievements": "2024-01-04T07:09:40.8774647+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "bcabb7efae0c4d0b9f652d6b232449d3",
   "Name": "\u0027n Verlore Verstand",
   "ProductSlug": "n-verlore-verstand-1d7f5b",
-  "Ranking_EOS_Progress": 518,
+  "Ranking_EOS_Progress": 517,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 433,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 422,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-04-13T22:00:00+00:00",
     "PcReleaseDate": "2016-02-01T10:30:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 72,
+  "EOS_Progressed": 73,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -364,6 +364,11 @@
       "Time": "2024-01-04T06:09:38.19298+00:00",
       "NumProgressed": 72,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T07:09:12.5882563+00:00",
+      "NumProgressed": 73,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -375,7 +380,7 @@
       "Name": "Start of a Journey",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "10",
@@ -389,7 +394,7 @@
       "ID": "11",
       "SetID": "6m1k8ai",
       "Name": "Scorched Ruins",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -397,7 +402,7 @@
       "ID": "12",
       "SetID": "6m1k8ai",
       "Name": "City of Illusion",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -461,7 +466,7 @@
       "ID": "2",
       "SetID": "6m1k8ai",
       "Name": "Escape the Maze",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 5,
       "UsersEstimate": 41
     },
@@ -525,9 +530,9 @@
       "ID": "27",
       "SetID": "6m1k8ai",
       "Name": "A thing of beauty",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "28",
@@ -637,7 +642,7 @@
       "ID": "4",
       "SetID": "6m1k8ai",
       "Name": "A Long Walk",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 5,
       "UsersEstimate": 31
     },
@@ -758,14 +763,14 @@
     {
       "ID": "6m1k8ai",
       "IsBase": true,
-      "Progressed": 72,
+      "Progressed": 73,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-02T12:00:06.1215649+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:54.1443777+00:00",
-  "LastChanged_Achievements": "2024-01-04T06:09:38.1929798+00:00",
+  "LastChanged_Achievements": "2024-01-04T07:09:12.5882559+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:29.1653427+00:00",
-  "LastUpdate_Ratings": "2024-01-04T06:03:18.1680393+00:00",
-  "LastUpdate_Achievements": "2024-01-04T06:09:38.1930177+00:00"
+  "LastUpdate_Ratings": "2024-01-04T07:03:14.653934+00:00",
+  "LastUpdate_Achievements": "2024-01-04T07:09:12.5882948+00:00"
 }

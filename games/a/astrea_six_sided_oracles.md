@@ -16,7 +16,7 @@
 | Noctuan Champion | 35.00% | ~111 |
 | Astral Adventurer | 34.00% | ~107 |
 | Anomaly Destroyer | 31.00% | ~98 |
-| Star Killer | 29.00% | ~92 |
+| Star Killer | 30.00% | ~95 |
 | Eridanian Champion | 25.00% | ~79 |
 | Loyal Partner | 22.00% | ~70 |
 | Lacertian Champion | 21.00% | ~66 |
@@ -44,12 +44,12 @@
 | The Chaos Artisan | 4.00% | ~13 |
 | The Dark Moon | 4.00% | ~13 |
 | Apian Hero | 4.00% | ~13 |
+| Behenian Hero | 4.00% | ~13 |
 | Lacertian Hero | 4.00% | ~13 |
 | Purification Avatar | 3.00% | ~9 |
 | The Abyssal Terror | 3.00% | ~9 |
 | The Ardent Prince | 3.00% | ~9 |
 | The Distorted Sage | 3.00% | ~9 |
-| Behenian Hero | 3.00% | ~9 |
 | Eridanian Hero | 3.00% | ~9 |
 | Noctuan Hero | 3.00% | ~9 |
 | Astromancer | 2.00% | ~6 |

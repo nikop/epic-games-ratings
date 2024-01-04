@@ -2,10 +2,10 @@
   "ID": "f8cbf321729f439aae9c088cbbebe93e",
   "Name": "Survivor - Castaway Island",
   "ProductSlug": "survivor-castaway-island-16f672",
-  "Ranking_EOS_Progress": 553,
+  "Ranking_EOS_Progress": 554,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 375,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 374,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-10-03T08:00:00+00:00",
     "PcReleaseDate": "2023-10-03T08:00:00+00:00",
@@ -369,8 +369,8 @@
   ],
   "FirstSeen": "2023-10-05T01:45:17.1796579+00:00",
   "FirstSeenAchievements": "2023-09-18T15:06:02.8477562+00:00",
-  "LastChanged_Achievements": "2024-01-04T06:09:42.8310625+00:00",
+  "LastChanged_Achievements": "2024-01-04T07:09:15.8263696+00:00",
   "LastUpdate_AppInfo": "2024-01-03T02:57:23.0323215+00:00",
-  "LastUpdate_Ratings": "2024-01-04T05:57:51.0069767+00:00",
-  "LastUpdate_Achievements": "2024-01-04T06:09:42.831073+00:00"
+  "LastUpdate_Ratings": "2024-01-04T06:57:53.8035767+00:00",
+  "LastUpdate_Achievements": "2024-01-04T07:09:15.8263868+00:00"
 }

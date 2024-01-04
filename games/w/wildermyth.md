@@ -37,6 +37,7 @@ Number of Ratings: 45  (23.09.2022)
 | Astrology | 0.70% | ~11 |
 | Storied Past | 0.60% | ~10 |
 | Worldwalker | 0.60% | ~10 |
+| Empty the Caves | 0.60% | ~10 |
 | Bonebreakers | 0.60% | ~10 |
 | A Hunger, Sated | 0.60% | ~10 |
 | Wingknight's Prowess | 0.60% | ~10 |
@@ -44,7 +45,6 @@ Number of Ratings: 45  (23.09.2022)
 | Into Mulch | 0.60% | ~10 |
 | Tempest | 0.60% | ~10 |
 | We Emerge Changed | 0.50% | ~8 |
-| Empty the Caves | 0.50% | ~8 |
 | No More Nightmares | 0.50% | ~8 |
 | Fight Like a Bird | 0.50% | ~8 |
 | Grillmaster | 0.50% | ~8 |
@@ -266,8 +266,8 @@ Completed: 7 (0.44%) (Ranked 230)
 | 2024-01-01 | 1,580 | 7 |
 | 2024-01-02 | 1,584 | 7 |
 ## Awards
-Max (Character Customization): 29  (Ranked 523)  
-Sum: 29 (Ranked 541)  
+Max (Character Customization): 29  (Ranked 522)  
+Sum: 29 (Ranked 540)  
 Diff (max vs sum): -18  
 | Award | Count |
 | ----- | ----- |

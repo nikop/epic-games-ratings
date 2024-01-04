@@ -2,13 +2,13 @@
   "ID": "80d3aeb1d7c3434981e0bcbc47700a83",
   "Name": "Europa Universalis IV",
   "ProductSlug": "europa-universalis-iv",
-  "Ranking_Rating": 233,
+  "Ranking_Rating": 232,
   "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -14019,9 +14019,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 491519,
+  "EOS_Progressed": 491528,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5591,
+  "EOS_NewPlayers": 5583,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -43854,6 +43854,11 @@
       "Time": "2024-01-04T06:10:29.9773821+00:00",
       "NumProgressed": 491519,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-04T07:09:49.1109636+00:00",
+      "NumProgressed": 491528,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -46527,9 +46532,9 @@
       "ID": "achievement_until_death_do_us_apart",
       "SetID": "8p2n7he",
       "Name": "Until death do us apart",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 2458
+      "UsersEstimate": 2949
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -46768,21 +46773,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 491519,
+      "Progressed": 491528,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 491519,
+      "Progressed": 491528,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2024-01-03T17:57:44.1599698+00:00",
-  "LastChanged_Achievements": "2024-01-04T06:10:29.9773818+00:00",
+  "LastChanged_Achievements": "2024-01-04T07:09:49.1109633+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:39.2428149+00:00",
-  "LastUpdate_Ratings": "2024-01-04T05:57:54.4200092+00:00",
-  "LastUpdate_Achievements": "2024-01-04T06:10:29.9785553+00:00"
+  "LastUpdate_Ratings": "2024-01-04T06:57:56.5613407+00:00",
+  "LastUpdate_Achievements": "2024-01-04T07:09:49.1120833+00:00"
 }

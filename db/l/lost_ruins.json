@@ -4,8 +4,8 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 653,
+  "EOS_Progressed": 654,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1764,6 +1764,11 @@
       "Time": "2024-01-03T21:11:03.1545309+00:00",
       "NumProgressed": 653,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-04T07:10:16.7517005+00:00",
+      "NumProgressed": 654,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1839,7 +1844,7 @@
       "Name": "Ghost Buster",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "Gladiator",
@@ -1855,7 +1860,7 @@
       "Name": "Goblin Tales",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "Hardboiled",
@@ -1887,7 +1892,7 @@
       "Name": "Iconoclasm",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "Inquisitor",
@@ -2094,7 +2099,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 653,
+      "Progressed": 654,
       "Completed": 1
     }
   ],
@@ -2102,8 +2107,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2024-01-04T06:11:07.4147952+00:00",
+  "LastChanged_Achievements": "2024-01-04T07:10:16.7517002+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:03.2604081+00:00",
-  "LastUpdate_Ratings": "2024-01-04T05:58:28.0835934+00:00",
-  "LastUpdate_Achievements": "2024-01-04T06:11:07.4148342+00:00"
+  "LastUpdate_Ratings": "2024-01-04T06:58:18.6750379+00:00",
+  "LastUpdate_Achievements": "2024-01-04T07:10:16.7517702+00:00"
 }

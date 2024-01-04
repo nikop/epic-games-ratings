@@ -1,23 +1,23 @@
 # Severed Steel
 [Store](https://store.epicgames.com/en-US/p/severed-steel)  
 [View Rawdata](../../db/s/severed_steel.json)  
-Rating: 4.69 (Ranked 233)  
+Rating: 4.69 (Ranked 232)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 33.00% | ~215,990 |
-| 50 HEADSHOTS | 31.00% | ~202,900 |
-| SCIENCE AND INDUSTRY | 29.00% | ~189,810 |
-| FINISHED CHAPTER 1 | 28.00% | ~183,264 |
-| FINISHED CHAPTER 2 | 21.00% | ~137,448 |
-| 200 HEADSHOTS | 19.00% | ~124,358 |
-| FINISHED CHAPTER 3 | 18.00% | ~117,813 |
-| FINISHED CHAPTER 4 | 15.00% | ~98,177 |
-| FINISH CHAPTER 5 | 13.00% | ~85,087 |
-| FINISH CHAPTER 6 | 11.00% | ~71,997 |
-| CATHARTIC ESCAPISM | 11.00% | ~71,997 |
-| 1000 KILLS | 10.00% | ~65,452 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~26,181 |
+| 100 KILLS | 33.00% | ~215,979 |
+| 50 HEADSHOTS | 31.00% | ~202,889 |
+| SCIENCE AND INDUSTRY | 29.00% | ~189,799 |
+| FINISHED CHAPTER 1 | 28.00% | ~183,255 |
+| FINISHED CHAPTER 2 | 21.00% | ~137,441 |
+| 200 HEADSHOTS | 19.00% | ~124,351 |
+| FINISHED CHAPTER 3 | 18.00% | ~117,807 |
+| FINISHED CHAPTER 4 | 15.00% | ~98,172 |
+| FINISH CHAPTER 5 | 13.00% | ~85,083 |
+| FINISH CHAPTER 6 | 11.00% | ~71,993 |
+| CATHARTIC ESCAPISM | 11.00% | ~71,993 |
+| 1000 KILLS | 10.00% | ~65,448 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~26,179 |
 | FIREFIGHT LEVEL 20 | 2.00% | ~13,090 |
 | FIRST BLOOD | 2.00% | ~13,090 |
 | FIREFIGHT LEVEL 30 | 1.00% | ~6,545 |
@@ -25,40 +25,40 @@ Rating: 4.69 (Ranked 233)
 | PACEMAKER | 1.00% | ~6,545 |
 | TIME PARADOX | 1.00% | ~6,545 |
 | PARTYHARD | 0.80% | ~5,236 |
-| NEW GAME PLUS | 0.70% | ~4,582 |
-| FIREFIGHT LEVEL 40 | 0.50% | ~3,273 |
+| NEW GAME PLUS | 0.70% | ~4,581 |
+| FIREFIGHT LEVEL 40 | 0.50% | ~3,272 |
 | CHURCH | 0.40% | ~2,618 |
-| FIREFIGHT LEVEL 50 | 0.30% | ~1,964 |
-| REMEMBER THE ARMORY | 0.30% | ~1,964 |
-| 5 RUNS | 0.30% | ~1,964 |
+| FIREFIGHT LEVEL 50 | 0.30% | ~1,963 |
+| REMEMBER THE ARMORY | 0.30% | ~1,963 |
+| 5 RUNS | 0.30% | ~1,963 |
 | CHALET | 0.20% | ~1,309 |
 | FIREFIGHT LEVEL 60 | 0.20% | ~1,309 |
 | FIREFIGHT LEVEL 70 | 0.20% | ~1,309 |
 | SOUL - HORIZONS | 0.20% | ~1,309 |
-| HEY THATS CHEATING | 0.10% | ~655 |
-| COMPLIMENTS TO THE CHEF | 0.10% | ~655 |
-| BUT WHY? | 0.10% | ~655 |
-| COMMAND - [EXIST] | 0.10% | ~655 |
-| FIREFIGHT LEVEL 80 | 0.10% | ~655 |
-| FIRE IN THE HOLE | 0.10% | ~655 |
-| FRESH | 0.10% | ~655 |
-| HUGE SUCCESS | 0.10% | ~655 |
-| ICARUS | 0.10% | ~655 |
-| INPUT - [QUERY] | 0.10% | ~655 |
-| KITTED OUT | 0.10% | ~655 |
-| HOLOGRAM SUMMER | 0.10% | ~655 |
-| OFF THE HINGES | 0.10% | ~655 |
-| ON THE EDGE | 0.10% | ~655 |
-| OVERCLOCKED | 0.10% | ~655 |
-| PAIN TRAIN | 0.10% | ~655 |
-| 10 RUNS | 0.10% | ~655 |
-| 20 RUNS | 0.10% | ~655 |
-| SAVOR THE MOMENT | 0.10% | ~655 |
-| THE COLLECTOR | 0.10% | ~655 |
-| THE GAMBLER | 0.10% | ~655 |
-| WARRIOR IN A GARDEN | 0.10% | ~655 |
+| HEY THATS CHEATING | 0.10% | ~654 |
+| COMPLIMENTS TO THE CHEF | 0.10% | ~654 |
+| BUT WHY? | 0.10% | ~654 |
+| COMMAND - [EXIST] | 0.10% | ~654 |
+| FIREFIGHT LEVEL 80 | 0.10% | ~654 |
+| FIRE IN THE HOLE | 0.10% | ~654 |
+| FRESH | 0.10% | ~654 |
+| HUGE SUCCESS | 0.10% | ~654 |
+| ICARUS | 0.10% | ~654 |
+| INPUT - [QUERY] | 0.10% | ~654 |
+| KITTED OUT | 0.10% | ~654 |
+| HOLOGRAM SUMMER | 0.10% | ~654 |
+| OFF THE HINGES | 0.10% | ~654 |
+| ON THE EDGE | 0.10% | ~654 |
+| OVERCLOCKED | 0.10% | ~654 |
+| PAIN TRAIN | 0.10% | ~654 |
+| 10 RUNS | 0.10% | ~654 |
+| 20 RUNS | 0.10% | ~654 |
+| SAVOR THE MOMENT | 0.10% | ~654 |
+| THE COLLECTOR | 0.10% | ~654 |
+| THE GAMBLER | 0.10% | ~654 |
+| WARRIOR IN A GARDEN | 0.10% | ~654 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 654,516 (Ranked 32)  
+Progressed: 654,481 (Ranked 32)  
 Completed: 59 (0.01%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -4,8 +4,8 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 368,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
     "PcReleaseDate": "2021-09-28T16:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 382,
+  "EOS_Progressed": 383,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -1681,6 +1681,11 @@
       "Time": "2024-01-04T01:55:11.77072+00:00",
       "NumProgressed": 382,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-04T07:08:51.8897991+00:00",
+      "NumProgressed": 383,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1700,7 +1705,7 @@
       "Name": "Alone In The Dark",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ETUA_AlonewithThem",
@@ -1788,15 +1793,15 @@
       "Name": "Forced to Kill",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "ETUA_IsThemAndUs",
       "SetID": "65jc0ap",
       "Name": "Them and Us",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 65
     },
     {
       "ID": "ETUA_LifeOfTheThousandGods",
@@ -1850,9 +1855,9 @@
       "ID": "ETUA_OutRage",
       "SetID": "65jc0ap",
       "Name": "OUTRAGE",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 65
     },
     {
       "ID": "ETUA_PTD",
@@ -1900,7 +1905,7 @@
       "Name": "Safe...For now?",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ETUA_StayDead",
@@ -1940,7 +1945,7 @@
       "Name": "The Cultists",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ETUA_TheCurseIsReal",
@@ -1964,7 +1969,7 @@
       "Name": "This Coffin Has Your Name On It!",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ETUA_ThisMansionIsClean",
@@ -1986,9 +1991,9 @@
       "ID": "ETUA_Trapped",
       "SetID": "65jc0ap",
       "Name": "Trapped",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 42
     },
     {
       "ID": "ETUA_WhatAMansion",
@@ -2011,7 +2016,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 382,
+      "Progressed": 383,
       "Completed": 1
     }
   ],
@@ -2019,8 +2024,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2024-01-04T06:09:08.7524026+00:00",
+  "LastChanged_Achievements": "2024-01-04T07:08:51.8897986+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:30.0285391+00:00",
-  "LastUpdate_Ratings": "2024-01-04T05:59:24.5814833+00:00",
-  "LastUpdate_Achievements": "2024-01-04T06:09:08.7524342+00:00"
+  "LastUpdate_Ratings": "2024-01-04T06:58:56.5553009+00:00",
+  "LastUpdate_Achievements": "2024-01-04T07:08:51.8898329+00:00"
 }

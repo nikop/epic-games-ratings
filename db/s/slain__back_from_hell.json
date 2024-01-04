@@ -3,12 +3,12 @@
   "Name": "Slain: Back From Hell",
   "ProductSlug": "slain-aea303",
   "Ranking_Rating": 887,
-  "Ranking_Popularity": 343,
-  "Ranking_PopularitySum": 446,
+  "Ranking_Popularity": 342,
+  "Ranking_PopularitySum": 445,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 322,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -250,7 +250,7 @@
       "Count": 128
     }
   ],
-  "EOS_Progressed": 43464,
+  "EOS_Progressed": 43467,
   "EOS_Completed": 30,
   "EOS_NewPlayers": 509,
   "EOS_NewCompleters": 0,
@@ -28355,6 +28355,11 @@
       "Time": "2024-01-04T06:05:08.9749422+00:00",
       "NumProgressed": 43464,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-04T07:04:32.2881536+00:00",
+      "NumProgressed": 43467,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -28374,7 +28379,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 9127
+      "UsersEstimate": 9128
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -28597,7 +28602,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 43464,
+      "Progressed": 43467,
       "Completed": 30
     }
   ],
@@ -28605,8 +28610,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-12-18T19:58:40.3413682+00:00",
-  "LastChanged_Achievements": "2024-01-04T06:05:08.9749419+00:00",
+  "LastChanged_Achievements": "2024-01-04T07:04:32.2881533+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:52.0120838+00:00",
-  "LastUpdate_Ratings": "2024-01-04T06:01:30.3949919+00:00",
-  "LastUpdate_Achievements": "2024-01-04T06:05:08.9750707+00:00"
+  "LastUpdate_Ratings": "2024-01-04T07:00:20.5328858+00:00",
+  "LastUpdate_Achievements": "2024-01-04T07:04:32.2882817+00:00"
 }

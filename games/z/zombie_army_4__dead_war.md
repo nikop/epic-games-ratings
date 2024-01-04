@@ -1,27 +1,27 @@
 # Zombie Army 4: Dead War
 [Store](https://store.epicgames.com/en-US/p/zombie-army-4-dead-war)  
 [View Rawdata](../../db/z/zombie_army_4__dead_war.json)  
-Rating: 4.69 (Ranked 233)  
+Rating: 4.69 (Ranked 232)  
 Number of Ratings: 743  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 70.00% | ~31,032 |
-| Say goodbye, creep! | 66.00% | ~29,259 |
-| Blood splattered | 66.00% | ~29,259 |
-| Choo choo! | 63.00% | ~27,929 |
+| Shoot it, man! Shoot it in the head! | 70.00% | ~31,033 |
+| Say goodbye, creep! | 66.00% | ~29,260 |
+| Blood splattered | 66.00% | ~29,260 |
+| Choo choo! | 63.00% | ~27,930 |
 | Groovy | 62.00% | ~27,486 |
-| Cleanup on aisle 4! | 57.00% | ~25,269 |
-| Gold | 51.00% | ~22,609 |
+| Cleanup on aisle 4! | 57.00% | ~25,270 |
+| Gold | 51.00% | ~22,610 |
 | The boat can leave now...tell the crew | 49.00% | ~21,723 |
-| Give me something to shoot! | 47.00% | ~20,836 |
-| Stand back boy! | 47.00% | ~20,836 |
-| Chain reaction | 45.00% | ~19,949 |
-| Weird science | 44.00% | ~19,506 |
-| Look mummy! A shark! | 42.00% | ~18,619 |
-| What did you say, Blain? | 42.00% | ~18,619 |
-| In the dark dark woods... | 39.00% | ~17,289 |
-| Come and get it! It's a running buffet! | 38.00% | ~16,846 |
+| Give me something to shoot! | 47.00% | ~20,837 |
+| Stand back boy! | 47.00% | ~20,837 |
+| Chain reaction | 45.00% | ~19,950 |
+| Weird science | 44.00% | ~19,507 |
+| Look mummy! A shark! | 42.00% | ~18,620 |
+| What did you say, Blain? | 42.00% | ~18,620 |
+| In the dark dark woods... | 39.00% | ~17,290 |
+| Come and get it! It's a running buffet! | 38.00% | ~16,847 |
 | Double tap | 37.00% | ~16,403 |
 | Cranial blowout! | 37.00% | ~16,403 |
 | All of this has happened before… | 36.00% | ~15,960 |
@@ -29,21 +29,21 @@ Number of Ratings: 743  (23.09.2022)
 | Every bullet counts | 36.00% | ~15,960 |
 | All roads lead to Rome | 34.00% | ~15,073 |
 | You've got red on you | 34.00% | ~15,073 |
-| You're all going to die down here | 32.00% | ~14,186 |
-| He did Nazi that coming | 32.00% | ~14,186 |
+| You're all going to die down here | 32.00% | ~14,187 |
+| He did Nazi that coming | 32.00% | ~14,187 |
 | Kill of the week | 31.00% | ~13,743 |
 | I never liked them anyway | 31.00% | ~13,743 |
 | Is it over? | 28.00% | ~12,413 |
 | Got your back | 27.00% | ~11,970 |
 | Gore soaked | 24.00% | ~10,640 |
-| Shock therapy | 23.00% | ~10,196 |
-| Leave the limbs you've lost | 23.00% | ~10,196 |
+| Shock therapy | 23.00% | ~10,197 |
+| Leave the limbs you've lost | 23.00% | ~10,197 |
 | Everyone's a mad scientist, life is the lab | 19.00% | ~8,423 |
 | Take them down screaming | 18.00% | ~7,980 |
-| Bad Blood | 17.00% | ~7,536 |
-| Weapons expert | 17.00% | ~7,536 |
+| Bad Blood | 17.00% | ~7,537 |
+| Weapons expert | 17.00% | ~7,537 |
 | The bigger they are... | 15.00% | ~6,650 |
-| I'm going deeper underground | 14.00% | ~6,206 |
+| I'm going deeper underground | 14.00% | ~6,207 |
 | Well equipped | 13.00% | ~5,763 |
 | Into the deep | 12.00% | ~5,320 |
 | Damnedbusters | 9.00% | ~3,990 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~443 |
 | None more hard | 0.60% | ~266 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,332 (Ranked 129)  
+Progressed: 44,333 (Ranked 129)  
 Completed: 25 (0.06%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,7 +332,7 @@ Completed: 25 (0.06%) (Ranked 327)
 | 2024-01-01 | 44,308 | 25 |
 | 2024-01-02 | 44,318 | 25 |
 | 2024-01-03 | 44,330 | 25 |
-| 2024-01-04 | 44,332 | 25 |
+| 2024-01-04 | 44,333 | 25 |
 ## Awards
 Max (Great Boss Battles): 869  (Ranked 173)  
 Sum: 2,621 (Ranked 198)  

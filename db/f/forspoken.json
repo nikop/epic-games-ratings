@@ -3,12 +3,12 @@
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
   "Ranking_Rating": 1001,
-  "Ranking_Popularity": 467,
-  "Ranking_PopularitySum": 514,
+  "Ranking_Popularity": 466,
+  "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 368,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -583,9 +583,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 46283,
+  "EOS_Progressed": 46288,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 828,
+  "EOS_NewPlayers": 829,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17573,6 +17573,11 @@
       "Time": "2024-01-04T06:07:15.5956+00:00",
       "NumProgressed": 46283,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-04T07:06:03.21787+00:00",
+      "NumProgressed": 46288,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -17600,7 +17605,7 @@
       "Name": "Outdoorsperson",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1388
+      "UsersEstimate": 1389
     },
     {
       "ID": "CHALLENGE_ALL",
@@ -17632,7 +17637,7 @@
       "Name": "Attachments",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5554
+      "UsersEstimate": 5555
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -17648,7 +17653,7 @@
       "Name": "The Interloper",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1851
+      "UsersEstimate": 1852
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -17760,7 +17765,7 @@
       "Name": "Hop, Step, Jump",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1388
+      "UsersEstimate": 1389
     },
     {
       "ID": "JUSTCOUNTER",
@@ -17888,7 +17893,7 @@
       "Name": "Endless Runner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1388
+      "UsersEstimate": 1389
     },
     {
       "ID": "PARKOUR_TIME",
@@ -17920,7 +17925,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5091
+      "UsersEstimate": 5092
     },
     {
       "ID": "SPRING_ALL",
@@ -18007,22 +18012,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 46283,
+      "Progressed": 46288,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 11120,
-      "Completed": 11120
+      "Progressed": 11125,
+      "Completed": 11125
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-03T17:03:22.02257+00:00",
-  "LastChanged_Achievements": "2024-01-04T06:07:15.5955997+00:00",
+  "LastChanged_Achievements": "2024-01-04T07:06:03.2178696+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:48.1998363+00:00",
-  "LastUpdate_Ratings": "2024-01-04T06:02:57.0991057+00:00",
-  "LastUpdate_Achievements": "2024-01-04T06:07:15.5957063+00:00"
+  "LastUpdate_Ratings": "2024-01-04T07:02:59.7195032+00:00",
+  "LastUpdate_Achievements": "2024-01-04T07:06:03.2179677+00:00"
 }

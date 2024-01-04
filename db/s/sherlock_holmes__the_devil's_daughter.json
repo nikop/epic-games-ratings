@@ -3,12 +3,12 @@
   "Name": "Sherlock Holmes: The Devil\u0027s Daughter",
   "ProductSlug": "sherlock-holmes-the-devils-daughter",
   "Ranking_Rating": 735,
-  "Ranking_Popularity": 578,
-  "Ranking_PopularitySum": 578,
+  "Ranking_Popularity": 577,
+  "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 566,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-06-25T15:00:00+00:00",
     "PcReleaseDate": "2016-06-10T15:00:00+00:00",
@@ -319,6 +319,6 @@
   "FirstSeen": "2022-07-22T20:27:15.2288345+00:00",
   "LastChanged": "2023-12-18T01:51:24.4733145+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.2583931+00:00",
-  "LastUpdate_Ratings": "2024-01-04T06:03:26.8516154+00:00",
-  "LastUpdate_Achievements": "2024-01-04T06:10:30.2886824+00:00"
+  "LastUpdate_Ratings": "2024-01-04T07:03:20.0228883+00:00",
+  "LastUpdate_Achievements": "2024-01-04T07:09:48.9767103+00:00"
 }

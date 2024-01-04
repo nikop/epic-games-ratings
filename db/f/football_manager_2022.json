@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -9104,9 +9104,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 478812,
+  "EOS_Progressed": 478813,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 344,
+  "EOS_NewPlayers": 343,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35149,6 +35149,11 @@
       "Time": "2024-01-04T04:08:42.4394453+00:00",
       "NumProgressed": 478812,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-01-04T07:08:57.6168308+00:00",
+      "NumProgressed": 478813,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -35176,7 +35181,7 @@
       "Name": "You\u0027re On Fire",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 129279
+      "UsersEstimate": 129280
     },
     {
       "ID": "achievement_10_matches_without_losing",
@@ -35184,7 +35189,7 @@
       "Name": "Unbeatable!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 177160
+      "UsersEstimate": 177161
     },
     {
       "ID": "achievement_10_seasons_at_one_club",
@@ -35248,7 +35253,7 @@
       "Name": "Tremendous Trio",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 129279
+      "UsersEstimate": 129280
     },
     {
       "ID": "achievement_5_clean_sheets_in_a_row",
@@ -35256,7 +35261,7 @@
       "Name": "Parked The Bus",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 138855
+      "UsersEstimate": 138856
     },
     {
       "ID": "achievement_5_manager_of_the_year_awards",
@@ -35312,7 +35317,7 @@
       "Name": "Thumping",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 177160
+      "UsersEstimate": 177161
     },
     {
       "ID": "achievement_buy_50_million_plus_player",
@@ -35448,7 +35453,7 @@
       "Name": "Attack!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 134067
+      "UsersEstimate": 134068
     },
     {
       "ID": "achievement_goal_scored_in_30_consecutive_matches",
@@ -35456,7 +35461,7 @@
       "Name": "Irresistible Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 95762
+      "UsersEstimate": 95763
     },
     {
       "ID": "achievement_golden_boot_award",
@@ -35472,7 +35477,7 @@
       "Name": "Shrewd Spender",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 138855
+      "UsersEstimate": 138856
     },
     {
       "ID": "achievement_hattrick",
@@ -35584,7 +35589,7 @@
       "Name": "Superb Dressing Room Atmosphere",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 167584
+      "UsersEstimate": 167585
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -35600,7 +35605,7 @@
       "Name": "Excellent Match Cohesion",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 95762
+      "UsersEstimate": 95763
     },
     {
       "ID": "achievement_pick_feeder",
@@ -35632,7 +35637,7 @@
       "Name": "Star Man",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 138855
+      "UsersEstimate": 138856
     },
     {
       "ID": "achievement_player_in_world_cup_best_xi",
@@ -35656,7 +35661,7 @@
       "Name": "Record Sale",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 129279
+      "UsersEstimate": 129280
     },
     {
       "ID": "achievement_record_signing",
@@ -35784,7 +35789,7 @@
       "Name": "Trophy Hoarder",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19152
+      "UsersEstimate": 19153
     },
     {
       "ID": "achievement_won_a_match",
@@ -35840,7 +35845,7 @@
       "Name": "The Rich Get Richer",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 3830
+      "UsersEstimate": 3831
     },
     {
       "ID": "career_earnings_over_10_million",
@@ -35848,7 +35853,7 @@
       "Name": "Money, Money, Money",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 57457
+      "UsersEstimate": 57458
     },
     {
       "ID": "career_earnings_over_1_million",
@@ -35943,15 +35948,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 478812,
+      "Progressed": 478813,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2024-01-03T22:02:26.4757565+00:00",
-  "LastChanged_Achievements": "2024-01-04T06:09:16.9007264+00:00",
+  "LastChanged_Achievements": "2024-01-04T07:08:57.6168305+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:28.9554136+00:00",
-  "LastUpdate_Ratings": "2024-01-04T05:57:03.734551+00:00",
-  "LastUpdate_Achievements": "2024-01-04T06:09:16.9009122+00:00"
+  "LastUpdate_Ratings": "2024-01-04T06:57:22.7817997+00:00",
+  "LastUpdate_Achievements": "2024-01-04T07:08:57.6170272+00:00"
 }

@@ -6,27 +6,27 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~25,951 |
-| Exploitative | 4.00% | ~20,761 |
-| High Speed Low Drag | 4.00% | ~20,761 |
-| Point Shooting | 4.00% | ~20,761 |
-| Wet Feet | 4.00% | ~20,761 |
-| Lucky | 3.00% | ~15,571 |
-| Stylin' | 3.00% | ~15,571 |
-| Turf War | 3.00% | ~15,571 |
+| Wallbanger | 5.00% | ~25,953 |
+| Exploitative | 4.00% | ~20,762 |
+| High Speed Low Drag | 4.00% | ~20,762 |
+| Point Shooting | 4.00% | ~20,762 |
+| Wet Feet | 4.00% | ~20,762 |
+| Lucky | 3.00% | ~15,572 |
+| Stylin' | 3.00% | ~15,572 |
+| Turf War | 3.00% | ~15,572 |
 | Banged | 2.00% | ~10,381 |
 | Checkpoint Victory | 2.00% | ~10,381 |
 | First Blood | 2.00% | ~10,381 |
 | Flaccid Paralysis | 2.00% | ~10,381 |
 | Push Victory | 2.00% | ~10,381 |
 | Self-destructive | 2.00% | ~10,381 |
-| Blindfire | 1.00% | ~5,190 |
-| Ruthless | 1.00% | ~5,190 |
-| Semper Paratus | 1.00% | ~5,190 |
-| Carrying | 0.90% | ~4,671 |
-| Efficient | 0.90% | ~4,671 |
-| Mount & Gun | 0.90% | ~4,671 |
-| Personal | 0.90% | ~4,671 |
+| Blindfire | 1.00% | ~5,191 |
+| Ruthless | 1.00% | ~5,191 |
+| Semper Paratus | 1.00% | ~5,191 |
+| Carrying | 0.90% | ~4,672 |
+| Efficient | 0.90% | ~4,672 |
+| Mount & Gun | 0.90% | ~4,672 |
+| Personal | 0.90% | ~4,672 |
 | Grounded | 0.80% | ~4,152 |
 | Play to Win | 0.80% | ~4,152 |
 | Special Delivery | 0.70% | ~3,633 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~519 |
 | Road Hazard | 0.10% | ~519 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 519,028 (Ranked 39)  
+Progressed: 519,057 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,16 +301,16 @@ Completed: 2 (0.00%) (Ranked 392)
 | 2024-01-01 | 517,132 | 2 |
 | 2024-01-02 | 517,956 | 2 |
 | 2024-01-03 | 518,784 | 2 |
-| 2024-01-04 | 519,028 | 2 |
+| 2024-01-04 | 519,057 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 415  (Ranked 237)  
-Sum: 3,324 (Ranked 176)  
+Sum: 3,325 (Ranked 176)  
 Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 415 |
 | This game has Challenging Combat | 408 |
-| This game is Extremely Fun | 386 |
+| This game is Extremely Fun | 387 |
 | This game has Competitive Players | 382 |
 | This game is Highly Recommended | 368 |
 | This game has Realistic Visuals | 360 |
@@ -650,4 +650,4 @@ Diff (max vs sum): 61
 | 2024-01-01 | 4.61 | - | 415 | 3,314 |
 | 2024-01-02 | 4.61 | - | 415 | 3,319 |
 | 2024-01-03 | 4.61 | - | 415 | 3,323 |
-| 2024-01-04 | 4.61 | - | 415 | 3,324 |
+| 2024-01-04 | 4.61 | - | 415 | 3,325 |

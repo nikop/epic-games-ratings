@@ -3,12 +3,12 @@
   "Name": "F1\u00AE 23",
   "ProductSlug": "f1-23",
   "Ranking_Rating": 320,
-  "Ranking_Popularity": 435,
+  "Ranking_Popularity": 434,
   "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 74,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -1183,10 +1183,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 359,
       "NumberOfAwardsMax": 56
+    },
+    {
+      "Time": "2024-01-04T06:58:16.3966172+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 362,
+      "NumberOfAwardsMax": 56
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 359,
+  "NumberOfAwards": 362,
   "NumberOfAwardsMax": 56,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1206,7 +1212,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 38
+      "Count": 41
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1263,9 +1269,9 @@
       "Count": 31
     }
   ],
-  "EOS_Progressed": 15141,
+  "EOS_Progressed": 15142,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2139,
+  "EOS_NewPlayers": 2136,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10218,6 +10224,11 @@
       "Time": "2024-01-04T06:07:03.9759666+00:00",
       "NumProgressed": 15141,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T07:05:55.1381553+00:00",
+      "NumProgressed": 15142,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -10230,7 +10241,7 @@
       "Name": "Spring Cleaning",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 2725
+      "UsersEstimate": 2726
     },
     {
       "ID": "achievement_0002",
@@ -10270,7 +10281,7 @@
       "Name": "Setting up for Success",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 10447
+      "UsersEstimate": 10448
     },
     {
       "ID": "achievement_0007",
@@ -10278,7 +10289,7 @@
       "Name": "Getting on the Step",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 13778
+      "UsersEstimate": 13779
     },
     {
       "ID": "achievement_0008",
@@ -10302,7 +10313,7 @@
       "Name": "Network Success",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 3482
+      "UsersEstimate": 3483
     },
     {
       "ID": "achievement_0011",
@@ -10374,7 +10385,7 @@
       "Name": "Undisputed Winner",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 908
+      "UsersEstimate": 909
     },
     {
       "ID": "achievement_0020",
@@ -10390,7 +10401,7 @@
       "Name": "Team Orders",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 10296
+      "UsersEstimate": 10297
     },
     {
       "ID": "achievement_0022",
@@ -10478,7 +10489,7 @@
       "Name": "Tinkerer",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 908
+      "UsersEstimate": 909
     },
     {
       "ID": "achievement_0033",
@@ -10486,7 +10497,7 @@
       "Name": "Engineer",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 6813
+      "UsersEstimate": 6814
     },
     {
       "ID": "achievement_0034",
@@ -10494,7 +10505,7 @@
       "Name": "Challenge Yourself",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 3482
+      "UsersEstimate": 3483
     },
     {
       "ID": "achievement_0035",
@@ -10566,7 +10577,7 @@
       "Name": "Familiar Faces",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 6359
+      "UsersEstimate": 6360
     },
     {
       "ID": "achievement_0044",
@@ -10582,7 +10593,7 @@
       "Name": "Making History",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3785
+      "UsersEstimate": 3786
     },
     {
       "ID": "achievement_0046",
@@ -10621,16 +10632,16 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 15141,
+      "Progressed": 15142,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-16T07:57:31.4647936+00:00",
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
-  "LastChanged": "2024-01-04T01:44:36.6739915+00:00",
-  "LastChanged_Achievements": "2024-01-04T06:07:03.9759663+00:00",
+  "LastChanged": "2024-01-04T06:58:16.3966171+00:00",
+  "LastChanged_Achievements": "2024-01-04T07:05:55.138155+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:56:57.776446+00:00",
-  "LastUpdate_Ratings": "2024-01-04T05:58:24.6779154+00:00",
-  "LastUpdate_Achievements": "2024-01-04T06:07:03.9760366+00:00"
+  "LastUpdate_Ratings": "2024-01-04T06:58:16.3966177+00:00",
+  "LastUpdate_Achievements": "2024-01-04T07:05:55.1382183+00:00"
 }

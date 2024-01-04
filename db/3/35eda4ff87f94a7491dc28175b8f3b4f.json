@@ -3,8 +3,8 @@
   "Name": "Eternal Threads",
   "ProductSlug": "eternal-threads-197169",
   "Ranking_Rating": 820,
-  "Ranking_Popularity": 578,
-  "Ranking_PopularitySum": 578,
+  "Ranking_Popularity": 577,
+  "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 85,
@@ -281,9 +281,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19978,
+  "EOS_Progressed": 19981,
   "EOS_Completed": 92,
-  "EOS_NewPlayers": 1717,
+  "EOS_NewPlayers": 1710,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -6821,6 +6821,11 @@
       "Time": "2024-01-04T06:05:55.7333401+00:00",
       "NumProgressed": 19978,
       "NumCompleted": 92
+    },
+    {
+      "Time": "2024-01-04T07:05:04.7334834+00:00",
+      "NumProgressed": 19981,
+      "NumCompleted": 92
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -6841,7 +6846,7 @@
       "Name": "Beam Me Up Scotty",
       "Percentage": 7,
       "XP": 200,
-      "UsersEstimate": 1398
+      "UsersEstimate": 1399
     },
     {
       "ID": "LISTEN_TO_ALL_6_VOICEMAILS_1_4",
@@ -6881,7 +6886,7 @@
       "Name": "Rescuer",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2397
+      "UsersEstimate": 2398
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -6889,7 +6894,7 @@
       "Name": "Secrets Out",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 1398
+      "UsersEstimate": 1399
     },
     {
       "ID": "UNLOCK_ALL_4_DOORS_1_3",
@@ -6912,7 +6917,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 19978,
+      "Progressed": 19981,
       "Completed": 92
     }
   ],
@@ -6920,8 +6925,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2024-01-02T16:59:56.4750656+00:00",
-  "LastChanged_Achievements": "2024-01-04T06:05:55.7333399+00:00",
+  "LastChanged_Achievements": "2024-01-04T07:05:04.733482+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:09.201879+00:00",
-  "LastUpdate_Ratings": "2024-01-04T06:00:33.67476+00:00",
-  "LastUpdate_Achievements": "2024-01-04T06:05:55.7333823+00:00"
+  "LastUpdate_Ratings": "2024-01-04T06:59:41.8803979+00:00",
+  "LastUpdate_Achievements": "2024-01-04T07:05:04.7335279+00:00"
 }

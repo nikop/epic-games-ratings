@@ -3,12 +3,12 @@
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
   "Ranking_Rating": 92,
-  "Ranking_Popularity": 578,
-  "Ranking_PopularitySum": 578,
+  "Ranking_Popularity": 577,
+  "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1423,
+  "EOS_Progressed": 1424,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.46,
   "EosHistory": [
@@ -4920,6 +4920,11 @@
       "Time": "2024-01-03T22:03:20.904898+00:00",
       "NumProgressed": 1423,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-04T07:03:44.3970125+00:00",
+      "NumProgressed": 1424,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4946,9 +4951,9 @@
       "ID": "_03_FinishAct1",
       "SetID": "8a1io5d",
       "Name": "The Adventure Begins",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 697
+      "UsersEstimate": 712
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -4988,7 +4993,7 @@
       "Name": "Swabbie",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "_09_Completion_20",
@@ -5060,7 +5065,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -5139,7 +5144,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1423,
+      "Progressed": 1424,
       "Completed": 35
     }
   ],
@@ -5147,8 +5152,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-03T10:02:59.9033308+00:00",
-  "LastChanged_Achievements": "2024-01-04T06:04:00.6700417+00:00",
+  "LastChanged_Achievements": "2024-01-04T07:03:44.397012+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.1530944+00:00",
-  "LastUpdate_Ratings": "2024-01-04T05:57:18.6030596+00:00",
-  "LastUpdate_Achievements": "2024-01-04T06:04:00.6701131+00:00"
+  "LastUpdate_Ratings": "2024-01-04T06:57:31.2548042+00:00",
+  "LastUpdate_Achievements": "2024-01-04T07:03:44.3970492+00:00"
 }

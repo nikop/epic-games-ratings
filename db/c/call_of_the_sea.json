@@ -3,8 +3,8 @@
   "Name": "Call of the Sea",
   "ProductSlug": "call-of-the-sea",
   "Ranking_Rating": 766,
-  "Ranking_Popularity": 578,
-  "Ranking_PopularitySum": 578,
+  "Ranking_Popularity": 577,
+  "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 97,
@@ -313,7 +313,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 137836,
+  "EOS_Progressed": 137840,
   "EOS_Completed": 1235,
   "EOS_NewPlayers": 1359,
   "EOS_NewCompleters": 20,
@@ -29908,6 +29908,11 @@
       "Time": "2024-01-04T06:05:20.3577313+00:00",
       "NumProgressed": 137836,
       "NumCompleted": 1235
+    },
+    {
+      "Time": "2024-01-04T07:04:40.1747979+00:00",
+      "NumProgressed": 137840,
+      "NumCompleted": 1235
     }
   ],
   "TotalAchievements": 34,
@@ -29927,7 +29932,7 @@
       "Name": "The only thing I have now",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 23432
+      "UsersEstimate": 23433
     },
     {
       "ID": "ACH_GAME_JOURNAL1",
@@ -29935,7 +29940,7 @@
       "Name": "Interesting...",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 57891
+      "UsersEstimate": 57893
     },
     {
       "ID": "ACH_GAME_JOURNAL2",
@@ -29943,7 +29948,7 @@
       "Name": "Halfway there",
       "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 41351
+      "UsersEstimate": 41352
     },
     {
       "ID": "ACH_GAME_JOURNAL3",
@@ -29951,7 +29956,7 @@
       "Name": "The Amazing Adventures of Norah Everhart",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 5513
+      "UsersEstimate": 5514
     },
     {
       "ID": "ACH_GAME_NOTES",
@@ -29959,7 +29964,7 @@
       "Name": "I\u0027ll make a note of that...",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 12405
+      "UsersEstimate": 12406
     },
     {
       "ID": "ACH_GAME_REPLAY",
@@ -29975,7 +29980,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 110269
+      "UsersEstimate": 110272
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -29991,7 +29996,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 77188
+      "UsersEstimate": 77190
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -29999,7 +30004,7 @@
       "Name": "A brigantine, a brig and a barque",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 38594
+      "UsersEstimate": 38595
     },
     {
       "ID": "ACH_L02_BASECAMP_END",
@@ -30007,7 +30012,7 @@
       "Name": "The Everhart Expedition",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 55134
+      "UsersEstimate": 55136
     },
     {
       "ID": "ACH_L02_BASECAMP_OBJ",
@@ -30015,7 +30020,7 @@
       "Name": "Weekend at Walakea\u0027s",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 37216
+      "UsersEstimate": 37217
     },
     {
       "ID": "ACH_L02_LOGO",
@@ -30031,7 +30036,7 @@
       "Name": "The Vanishing of the Lady Shannon",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 41351
+      "UsersEstimate": 41352
     },
     {
       "ID": "ACH_L03_BLACKBEACH_OBJ",
@@ -30047,7 +30052,7 @@
       "Name": "Seaside Serenade",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 42729
+      "UsersEstimate": 42730
     },
     {
       "ID": "ACH_L03_PIANO",
@@ -30087,7 +30092,7 @@
       "Name": "Quite a Show",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 37216
+      "UsersEstimate": 37217
     },
     {
       "ID": "ACH_L04B_DESERT_END",
@@ -30095,7 +30100,7 @@
       "Name": "506 East Hampden Avenue",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 38594
+      "UsersEstimate": 38595
     },
     {
       "ID": "ACH_L04B_DESERT_OBJ",
@@ -30103,7 +30108,7 @@
       "Name": "Greetings from Y\u0027ha-nthlei!",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 24810
+      "UsersEstimate": 24811
     },
     {
       "ID": "ACH_L04B_JOURNAL",
@@ -30127,7 +30132,7 @@
       "Name": "Dark Water Ride",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 34459
+      "UsersEstimate": 34460
     },
     {
       "ID": "ACH_L05_TOWN_END",
@@ -30135,7 +30140,7 @@
       "Name": "Sunken",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 34459
+      "UsersEstimate": 34460
     },
     {
       "ID": "ACH_L05_TOWN_OBJ",
@@ -30167,7 +30172,7 @@
       "Name": "Deep Cut",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 33081
+      "UsersEstimate": 33082
     },
     {
       "ID": "ACH_L06_TEMPLE_END",
@@ -30175,7 +30180,7 @@
       "Name": "FHALGOF\u0027N\u0027",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 31702
+      "UsersEstimate": 31703
     },
     {
       "ID": "ACH_L06_TEMPLE_OBJ",
@@ -30190,7 +30195,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 137836,
+      "Progressed": 137840,
       "Completed": 1235
     }
   ],
@@ -30198,8 +30203,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-11-24T21:59:26.7035134+00:00",
-  "LastChanged_Achievements": "2024-01-04T06:05:20.357731+00:00",
+  "LastChanged_Achievements": "2024-01-04T07:04:40.1747974+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:11.4349106+00:00",
-  "LastUpdate_Ratings": "2024-01-04T05:59:19.0531731+00:00",
-  "LastUpdate_Achievements": "2024-01-04T06:05:20.3578677+00:00"
+  "LastUpdate_Ratings": "2024-01-04T06:58:52.9316076+00:00",
+  "LastUpdate_Achievements": "2024-01-04T07:04:40.1749486+00:00"
 }

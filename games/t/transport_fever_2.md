@@ -6,45 +6,45 @@ Number of Ratings: 180  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First line | 74.00% | ~1,714 |
-| First cargo item waiting | 68.00% | ~1,575 |
-| First cargo item on board | 67.00% | ~1,552 |
-| First bus stop | 66.00% | ~1,529 |
-| First passenger on board | 63.00% | ~1,459 |
-| First passenger waiting | 63.00% | ~1,459 |
-| First bus arrived | 62.00% | ~1,436 |
-| First train station | 60.00% | ~1,390 |
-| First steam train arrived | 56.00% | ~1,297 |
-| Cadet | 53.00% | ~1,227 |
-| First industry upgraded | 53.00% | ~1,227 |
-| Transport millionaire | 51.00% | ~1,181 |
-| Transport master | 49.00% | ~1,135 |
-| Cargo hub | 49.00% | ~1,135 |
-| Sculpturer | 46.00% | ~1,065 |
-| Settled down | 45.00% | ~1,042 |
-| First electric train arrived | 43.00% | ~996 |
-| Now what? | 43.00% | ~996 |
-| First ship arrived | 42.00% | ~973 |
+| First line | 74.00% | ~1,715 |
+| First cargo item waiting | 68.00% | ~1,576 |
+| First cargo item on board | 67.00% | ~1,553 |
+| First bus stop | 66.00% | ~1,530 |
+| First passenger on board | 63.00% | ~1,460 |
+| First passenger waiting | 63.00% | ~1,460 |
+| First bus arrived | 62.00% | ~1,437 |
+| First train station | 60.00% | ~1,391 |
+| First steam train arrived | 56.00% | ~1,298 |
+| Cadet | 53.00% | ~1,229 |
+| First industry upgraded | 53.00% | ~1,229 |
+| Transport millionaire | 51.00% | ~1,182 |
+| Transport master | 49.00% | ~1,136 |
+| Cargo hub | 49.00% | ~1,136 |
+| Sculpturer | 46.00% | ~1,066 |
+| Settled down | 45.00% | ~1,043 |
+| First electric train arrived | 43.00% | ~997 |
+| Now what? | 43.00% | ~997 |
+| First ship arrived | 42.00% | ~974 |
 | Exemplary student | 41.00% | ~950 |
-| High speed | 39.00% | ~903 |
-| First aircraft arrived | 38.00% | ~880 |
-| Transport shark | 37.00% | ~857 |
-| Mass production | 32.00% | ~741 |
+| High speed | 39.00% | ~904 |
+| First aircraft arrived | 38.00% | ~881 |
+| Transport shark | 37.00% | ~858 |
+| Mass production | 32.00% | ~742 |
 | Aircraft entrepreneur | 30.00% | ~695 |
-| Crowd in a train | 28.00% | ~648 |
-| The future is now, old man | 28.00% | ~648 |
-| Not in my backyard | 27.00% | ~625 |
-| City | 26.00% | ~602 |
-| The king of the sea | 26.00% | ~602 |
-| Transport tycoon | 21.00% | ~486 |
-| Old timer | 21.00% | ~486 |
-| Climate change | 20.00% | ~463 |
-| The ugly smell of success | 20.00% | ~463 |
+| Crowd in a train | 28.00% | ~649 |
+| The future is now, old man | 28.00% | ~649 |
+| Not in my backyard | 27.00% | ~626 |
+| City | 26.00% | ~603 |
+| The king of the sea | 26.00% | ~603 |
+| Transport tycoon | 21.00% | ~487 |
+| Old timer | 21.00% | ~487 |
+| Climate change | 20.00% | ~464 |
+| The ugly smell of success | 20.00% | ~464 |
 | Heavily loaded | 19.00% | ~440 |
-| Bob Ross | 14.00% | ~324 |
+| Bob Ross | 14.00% | ~325 |
 | Campaign expert | 10.00% | ~232 |
 | Truck Fever | 10.00% | ~232 |
-| No free seats | 9.00% | ~208 |
+| No free seats | 9.00% | ~209 |
 | Back to the future | 8.00% | ~185 |
 | Transport belt | 8.00% | ~185 |
 | Penny pincher | 8.00% | ~185 |
@@ -53,7 +53,7 @@ Number of Ratings: 180  (23.09.2022)
 | Transport shark (Hard mode) | 4.00% | ~93 |
 | Antique | 4.00% | ~93 |
 | Transport corporation | 4.00% | ~93 |
-| Cannot get enough | 3.00% | ~69 |
+| Cannot get enough | 3.00% | ~70 |
 | Transport tycoon (Hard mode) | 2.00% | ~46 |
 | Charles Alton Ellis | 2.00% | ~46 |
 | Industrialist | 2.00% | ~46 |
@@ -68,7 +68,7 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.20% | ~5 |
 | Museum line | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,316 (Ranked 238)  
+Progressed: 2,318 (Ranked 238)  
 Completed: 1 (0.04%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,11 +312,11 @@ Completed: 1 (0.04%) (Ranked 346)
 | 2024-01-01 | 2,280 | 1 |
 | 2024-01-02 | 2,299 | 1 |
 | 2024-01-03 | 2,314 | 1 |
-| 2024-01-04 | 2,316 | 1 |
+| 2024-01-04 | 2,318 | 1 |
 ## Awards
-Max (Great for Beginners): 50  (Ranked 452)  
+Max (Great for Beginners): 50  (Ranked 451)  
 Sum: 331 (Ranked 372)  
-Diff (max vs sum): 80  
+Diff (max vs sum): 79  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 50 |
