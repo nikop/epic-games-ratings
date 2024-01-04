@@ -25,7 +25,7 @@
 | 23 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.23% |
 | 24 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
 | 25 | [The Riflemen](games/t/the_riflemen.md) | 18.25% |
-| 26 | [Island Cities](games/i/island_cities.md) | 16.73% |
+| 26 | [Island Cities](games/i/island_cities.md) | 16.84% |
 | 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 28 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
 | 29 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.30% |
@@ -55,18 +55,18 @@
 | 53 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.59% |
 | 54 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 7.58% |
 | 55 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.57% |
-| 56 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.47% |
 | 56 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
+| 57 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.46% |
 | 58 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.25% |
 | 59 | [Sonic Origins](games/s/sonic_origins.md) | 7.10% |
-| 60 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.03% |
+| 60 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.01% |
 | 61 | [Scorn](games/s/scorn.md) | 6.89% |
 | 62 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 6.67% |
 | 63 | [Time Loader](games/t/time_loader.md) | 6.47% |
 | 64 | [Anna's Quest](games/a/anna's_quest.md) | 6.45% |
 | 65 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 65 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 6.25% |
-| 67 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.24% |
+| 67 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.23% |
 | 68 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 6.20% |
 | 69 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.19% |
 | 70 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.80% |
@@ -74,7 +74,7 @@
 | 72 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.41% |
 | 73 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 5.00% |
 | 74 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 4.92% |
-| 75 | [Bugsnax](games/b/bugsnax.md) | 4.90% |
+| 75 | [Bugsnax](games/b/bugsnax.md) | 4.89% |
 | 76 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.86% |
 | 77 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.78% |
 | 78 | [ZZT!](games/z/zzt!.md) | 4.73% |
@@ -101,9 +101,9 @@
 | 99 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.49% |
 | 100 | [Thunder Ray](games/3/3c59565688c94fa2807baaa19ed62478.md) | 3.45% |
 | 100 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 3.45% |
-| 102 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.41% |
-| 103 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.38% |
-| 104 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 3.37% |
+| 102 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.38% |
+| 103 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 3.37% |
+| 103 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.37% |
 | 105 | [Bunny Park](games/b/bunny_park.md) | 3.24% |
 | 106 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 3.12% |
 | 107 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.04% |
@@ -121,7 +121,7 @@
 | 118 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.67% |
 | 120 | [Time on Frog Island](games/t/time_on_frog_island.md) | 2.63% |
 | 120 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 2.63% |
-| 122 | [Lamentum](games/l/lamentum.md) | 2.62% |
+| 122 | [Lamentum](games/l/lamentum.md) | 2.61% |
 | 123 | [Mega City Force](games/m/mega_city_police.md) | 2.56% |
 | 124 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 125 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.49% |
@@ -269,8 +269,8 @@
 | 266 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.24% |
 | 268 | [Shop Titans](games/s/shop_titans.md) | 0.23% |
 | 269 | [Aegis Descent](games/a/aegis_descent.md) | 0.22% |
-| 269 | [It Takes Two](games/i/it_takes_two.md) | 0.22% |
-| 271 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
+| 270 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
+| 270 | [It Takes Two](games/i/it_takes_two.md) | 0.21% |
 | 272 | [Circus Electrique](games/c/circus_electrique.md) | 0.20% |
 | 272 | [Dead Space](games/d/dead_space.md) | 0.20% |
 | 272 | [Despot's Game](games/d/despot's_game.md) | 0.20% |
@@ -294,11 +294,11 @@
 | 287 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
 | 287 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.15% |
 | 294 | [RAILGRADE](games/r/railgrade.md) | 0.14% |
-| 294 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 0.14% |
-| 296 | [Fall Guys](games/f/fall_guys.md) | 0.13% |
-| 296 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
-| 296 | [Ring of Pain](games/r/ring_of_pain.md) | 0.13% |
-| 296 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.13% |
+| 295 | [Fall Guys](games/f/fall_guys.md) | 0.13% |
+| 295 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
+| 295 | [Ring of Pain](games/r/ring_of_pain.md) | 0.13% |
+| 295 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.13% |
+| 295 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 0.13% |
 | 300 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.12% |
 | 300 | [BLACKTAIL](games/b/blacktail.md) | 0.12% |
 | 300 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.12% |
