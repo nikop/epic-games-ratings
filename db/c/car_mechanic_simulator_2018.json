@@ -4,7 +4,7 @@
   "ProductSlug": "car-mechanic-simulator-2018",
   "Ranking_Rating": 634,
   "Ranking_Popularity": 116,
-  "Ranking_PopularitySum": 70,
+  "Ranking_PopularitySum": 69,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 569,
@@ -5403,18 +5403,24 @@
       "Rating": 4.49,
       "NumberOfAwards": 15803,
       "NumberOfAwardsMax": 2039
+    },
+    {
+      "Time": "2024-01-04T02:24:26.8784236+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 15804,
+      "NumberOfAwardsMax": 2040
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15803,
-  "NumberOfAwardsMax": 2039,
+  "NumberOfAwards": 15804,
+  "NumberOfAwardsMax": 2040,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 2039
+      "Count": 2040
     },
     {
       "Text": "This game is Relaxing",
@@ -5482,8 +5488,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:04.6520015+00:00",
-  "LastChanged": "2024-01-03T13:04:41.2251623+00:00",
+  "LastChanged": "2024-01-04T02:24:26.8784235+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:17.7243137+00:00",
-  "LastUpdate_Ratings": "2024-01-04T01:47:06.4125713+00:00",
-  "LastUpdate_Achievements": "2024-01-04T01:52:37.7486206+00:00"
+  "LastUpdate_Ratings": "2024-01-04T02:24:26.878424+00:00",
+  "LastUpdate_Achievements": "2024-01-04T02:29:01.0692271+00:00"
 }

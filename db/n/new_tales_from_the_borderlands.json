@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 314,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -177,9 +177,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3788,
+  "EOS_Progressed": 3789,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2197,6 +2197,11 @@
       "Time": "2024-01-03T15:06:43.8515618+00:00",
       "NumProgressed": 3788,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T02:28:25.7885981+00:00",
+      "NumProgressed": 3789,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -2208,7 +2213,7 @@
       "Name": "You\u0027re Not Naked",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1136
+      "UsersEstimate": 1137
     },
     {
       "ID": "BUY_EVERY_COSMETIC_ITEM",
@@ -2240,7 +2245,7 @@
       "Name": "Totally Intentional",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1742
+      "UsersEstimate": 1743
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -2248,7 +2253,7 @@
       "Name": "Each Sold Separately",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 1439
+      "UsersEstimate": 1440
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -2272,7 +2277,7 @@
       "Name": "Our Lucky Winner",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     },
     {
       "ID": "FINISH_EPISODE_4",
@@ -2304,7 +2309,7 @@
       "Name": "Tale in the Toilet",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1136
+      "UsersEstimate": 1137
     },
     {
       "ID": "GET_MONEY_SINK_OR_SWIM",
@@ -2336,7 +2341,7 @@
       "Name": "You Poor Now!",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     },
     {
       "ID": "NAILED_PERFECT_SEXY_DANCE",
@@ -2415,7 +2420,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3788,
+      "Progressed": 3789,
       "Completed": 0
     }
   ],
@@ -2423,8 +2428,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2024-01-04T01:52:11.9412753+00:00",
+  "LastChanged_Achievements": "2024-01-04T02:28:25.7885979+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:14.9604799+00:00",
-  "LastUpdate_Ratings": "2024-01-04T01:45:19.6820473+00:00",
-  "LastUpdate_Achievements": "2024-01-04T01:52:11.9412971+00:00"
+  "LastUpdate_Ratings": "2024-01-04T02:21:06.3872505+00:00",
+  "LastUpdate_Achievements": "2024-01-04T02:28:25.788623+00:00"
 }

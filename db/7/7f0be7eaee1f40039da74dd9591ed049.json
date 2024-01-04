@@ -2,7 +2,7 @@
   "ID": "7f0be7eaee1f40039da74dd9591ed049",
   "Name": "Quick Race",
   "ProductSlug": "quick-race-293d39",
-  "Ranking_EOS_Progress": 542,
+  "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 138,
   "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 109,
@@ -383,8 +383,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-23T19:03:08.11154+00:00",
-  "LastChanged_Achievements": "2024-01-04T01:51:01.9447065+00:00",
+  "LastChanged_Achievements": "2024-01-04T02:26:53.8066055+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:41.1375402+00:00",
-  "LastUpdate_Ratings": "2024-01-04T01:45:25.7378601+00:00",
-  "LastUpdate_Achievements": "2024-01-04T01:51:01.944716+00:00"
+  "LastUpdate_Ratings": "2024-01-04T02:21:15.7580253+00:00",
+  "LastUpdate_Achievements": "2024-01-04T02:26:53.8066217+00:00"
 }

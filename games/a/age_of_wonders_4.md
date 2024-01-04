@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 376)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,798 (Ranked 196)  
+Progressed: 6,799 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 7 (0.10%) (Ranked 305)
 | 2024-01-01 | 6,687 | 7 |
 | 2024-01-02 | 6,742 | 7 |
 | 2024-01-03 | 6,793 | 7 |
-| 2024-01-04 | 6,798 | 7 |
+| 2024-01-04 | 6,799 | 7 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 479)  
 Sum: 209 (Ranked 409)  

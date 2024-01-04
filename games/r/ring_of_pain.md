@@ -49,20 +49,20 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shapeshifting | 0.60% | ~1,454 |
 | Expensive Look | 0.60% | ~23 |
 | What Doesn't Kill You | 0.60% | ~23 |
+| Shadow Spreads | 0.50% | ~1,212 |
 | To The Death! | 0.50% | ~1,212 |
 | Well Prepared | 0.50% | ~1,212 |
 | Don't Ignore Me! | 0.50% | ~1,212 |
 | All Consuming | 0.50% | ~1,212 |
 | Stop Hitting Yourself | 0.50% | ~1,212 |
+| Illuminate, Eliminate | 0.50% | ~1,212 |
 | Doing Time | 0.50% | ~1,212 |
 | Spreading Plague | 0.50% | ~1,212 |
 | Acid Bath | 0.50% | ~1,212 |
 | Thank You, Friend | 0.40% | ~969 |
-| Shadow Spreads | 0.40% | ~969 |
 | Max Damage! | 0.40% | ~969 |
 | A Rough Road | 0.40% | ~969 |
 | Berzerker | 0.40% | ~969 |
-| Illuminate, Eliminate | 0.40% | ~969 |
 | Chain Reaction | 0.40% | ~969 |
 | Antivenom | 0.40% | ~969 |
 | The Long Run | 0.40% | ~969 |
@@ -98,6 +98,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Path To Enlightenment | 0.20% | ~485 |
 | No Mercy | 0.20% | ~485 |
 | Just Looking Around | 0.20% | ~485 |
+| Champion of the Day | 0.20% | ~485 |
 | Diviner | 0.20% | ~8 |
 | Nuclear | 0.20% | ~8 |
 | Quick Descent | 0.10% | ~242 |
@@ -125,7 +126,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Masochist | 0.10% | ~242 |
 | Minimalist | 0.10% | ~242 |
 | Near Death Experience | 0.10% | ~242 |
-| Champion of the Day | 0.10% | ~242 |
 | Down Under | 0.10% | ~242 |
 | Only The Best | 0.10% | ~242 |
 | Mastermind | 0.10% | ~242 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,306 (Ranked 72)  
+Progressed: 242,309 (Ranked 72)  
 Completed: 303 (0.13%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -404,7 +404,7 @@ Completed: 303 (0.13%) (Ranked 296)
 | 2024-01-01 | 242,196 | 302 |
 | 2024-01-02 | 242,247 | 303 |
 | 2024-01-03 | 242,304 | 303 |
-| 2024-01-04 | 242,306 | 303 |
+| 2024-01-04 | 242,309 | 303 |
 ## Awards
 Max (Quickly Understood Controls): 1,513  (Ranked 136)  
 Sum: 11,784 (Ranked 89)  

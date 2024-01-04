@@ -10,9 +10,9 @@
 | Superstar-crossed lovers | 41.00% | ~108 |
 | A leader, you are not | 34.00% | ~90 |
 | Comedy Killer | 33.00% | ~87 |
+| Good job, nerd | 32.00% | ~84 |
 | This won't end well... | 32.00% | ~84 |
 | Bromance | 31.00% | ~82 |
-| Good job, nerd | 31.00% | ~82 |
 | Mission Complete | 31.00% | ~82 |
 | Lootaphilia | 22.00% | ~58 |
 | Maybe you should give it another go | 11.00% | ~29 |

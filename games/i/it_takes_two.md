@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fried Friendship | 84.00% | ~80,823 |
-| Struck A Pose | 82.00% | ~78,899 |
-| Look At Him Go | 68.00% | ~65,428 |
-| On Rails Experience | 44.00% | ~42,336 |
-| A Daring Devil | 43.00% | ~41,374 |
-| Break the Bank | 33.00% | ~31,752 |
-| It Took Two | 30.00% | ~28,865 |
-| Bug Sized Relaxation | 13.00% | ~12,508 |
-| Plastic Prison Breakers | 13.00% | ~12,508 |
-| Terror Of The Seven Seas | 10.00% | ~9,622 |
-| Realize Your Art | 8.00% | ~7,697 |
-| Force Triangulated | 8.00% | ~7,697 |
-| Meditation Maestro | 7.00% | ~6,735 |
-| Snackosaurus | 6.00% | ~5,773 |
-| Platforming Prodigy | 6.00% | ~5,773 |
-| Lost And Found | 6.00% | ~5,773 |
-| Something Fishy | 6.00% | ~5,773 |
+| Fried Friendship | 84.00% | ~80,832 |
+| Struck A Pose | 82.00% | ~78,907 |
+| Look At Him Go | 68.00% | ~65,435 |
+| On Rails Experience | 44.00% | ~42,340 |
+| A Daring Devil | 43.00% | ~41,378 |
+| Break the Bank | 33.00% | ~31,755 |
+| It Took Two | 30.00% | ~28,868 |
+| Bug Sized Relaxation | 13.00% | ~12,510 |
+| Plastic Prison Breakers | 13.00% | ~12,510 |
+| Terror Of The Seven Seas | 10.00% | ~9,623 |
+| Realize Your Art | 8.00% | ~7,698 |
+| Force Triangulated | 8.00% | ~7,698 |
+| Meditation Maestro | 7.00% | ~6,736 |
+| Snackosaurus | 6.00% | ~5,774 |
+| Platforming Prodigy | 6.00% | ~5,774 |
+| Lost And Found | 6.00% | ~5,774 |
+| Something Fishy | 6.00% | ~5,774 |
 | Mood Swing | 4.00% | ~3,849 |
 | Faraway Frequencies | 3.00% | ~2,887 |
-| Minigame Megalomania | 2.00% | ~1,924 |
+| Minigame Megalomania | 2.00% | ~1,925 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 96,218 (Ranked 100)  
+Progressed: 96,228 (Ranked 100)  
 Completed: 207 (0.22%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,4 +136,4 @@ Completed: 207 (0.22%) (Ranked 270)
 | 2024-01-01 | 92,751 | 196 |
 | 2024-01-02 | 94,529 | 200 |
 | 2024-01-03 | 96,183 | 207 |
-| 2024-01-04 | 96,218 | 207 |
+| 2024-01-04 | 96,228 | 207 |

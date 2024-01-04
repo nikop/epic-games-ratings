@@ -3862,9 +3862,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242306,
+  "EOS_Progressed": 242309,
   "EOS_Completed": 303,
-  "EOS_NewPlayers": 446,
+  "EOS_NewPlayers": 449,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -30607,6 +30607,11 @@
       "Time": "2024-01-04T00:10:06.8709866+00:00",
       "NumProgressed": 242306,
       "NumCompleted": 303
+    },
+    {
+      "Time": "2024-01-04T02:32:40.6310973+00:00",
+      "NumProgressed": 242309,
+      "NumCompleted": 303
     }
   ],
   "TotalAchievements": 138,
@@ -30680,9 +30685,9 @@
       "ID": "DARKENDING",
       "SetID": "5l8oe0h",
       "Name": "Shadow Spreads",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 969
+      "UsersEstimate": 1212
     },
     {
       "ID": "DARKENDINGMEDIUM",
@@ -31168,9 +31173,9 @@
       "ID": "LIGHTENDING",
       "SetID": "5l8oe0h",
       "Name": "Illuminate, Eliminate",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 969
+      "UsersEstimate": 1212
     },
     {
       "ID": "LIGHTENDINGHARD",
@@ -31488,9 +31493,9 @@
       "ID": "WINDAILY",
       "SetID": "5l8oe0h",
       "Name": "Champion of the Day",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 485
     },
     {
       "ID": "WININVERTEDCANDLE",
@@ -31721,13 +31726,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242306,
+      "Progressed": 242309,
       "Completed": 303
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3786,
+      "Progressed": 3789,
       "Completed": 420
     }
   ],
@@ -31735,8 +31740,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-03T13:58:52.5435288+00:00",
-  "LastChanged_Achievements": "2024-01-04T01:56:41.6575543+00:00",
+  "LastChanged_Achievements": "2024-01-04T02:32:40.6310967+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:01.848225+00:00",
-  "LastUpdate_Ratings": "2024-01-04T01:45:19.061306+00:00",
-  "LastUpdate_Achievements": "2024-01-04T01:56:41.6578336+00:00"
+  "LastUpdate_Ratings": "2024-01-04T02:21:05.456998+00:00",
+  "LastUpdate_Achievements": "2024-01-04T02:32:40.6314146+00:00"
 }

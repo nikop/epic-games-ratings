@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19250,
+  "EOS_Progressed": 19251,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -14400,6 +14400,11 @@
       "Time": "2024-01-04T01:52:12.4896527+00:00",
       "NumProgressed": 19250,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-04T02:28:26.4531774+00:00",
+      "NumProgressed": 19251,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -14419,7 +14424,7 @@
       "Name": "License to Thrill",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "0003",
@@ -14491,7 +14496,7 @@
       "Name": "Extraction Confusion",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "0012",
@@ -14523,7 +14528,7 @@
       "Name": "The terminals are not enough",
       "Percentage": 1,
       "XP": 115,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "0016",
@@ -14547,7 +14552,7 @@
       "Name": "In It to Win It",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1732
+      "UsersEstimate": 1733
     },
     {
       "ID": "0019",
@@ -14555,7 +14560,7 @@
       "Name": "Lose Another Day",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "0020",
@@ -14635,7 +14640,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2502
+      "UsersEstimate": 2503
     },
     {
       "ID": "0030",
@@ -14698,7 +14703,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19250,
+      "Progressed": 19251,
       "Completed": 4
     }
   ],
@@ -14706,8 +14711,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-12-30T02:18:11.77416+00:00",
-  "LastChanged_Achievements": "2024-01-04T01:52:12.4896523+00:00",
+  "LastChanged_Achievements": "2024-01-04T02:28:26.4531769+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:48.2583913+00:00",
-  "LastUpdate_Ratings": "2024-01-04T01:44:11.6641469+00:00",
-  "LastUpdate_Achievements": "2024-01-04T01:52:12.4897244+00:00"
+  "LastUpdate_Ratings": "2024-01-04T02:19:32.7402172+00:00",
+  "LastUpdate_Achievements": "2024-01-04T02:28:26.4532822+00:00"
 }

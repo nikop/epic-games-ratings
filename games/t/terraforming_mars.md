@@ -7,8 +7,8 @@ Number of Ratings: 2,731  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | It's a steal! | 37.00% | ~32,951 |
-| Final touch | 34.00% | ~30,279 |
-| Prop-M Rover | 32.00% | ~28,498 |
+| Final touch | 34.00% | ~30,280 |
+| Prop-M Rover | 32.00% | ~28,499 |
 | Changing the Planet | 28.00% | ~24,936 |
 | Sojourner | 26.00% | ~23,155 |
 | New Home | 23.00% | ~20,483 |
@@ -22,7 +22,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Self-sufficient | 17.00% | ~15,140 |
 | Money money | 15.00% | ~13,359 |
 | First Journey | 14.00% | ~12,468 |
-| Biggest Reward | 13.00% | ~11,577 |
+| Biggest Reward | 13.00% | ~11,578 |
 | Acquired knowledge | 12.00% | ~10,687 |
 | Landlord | 11.00% | ~9,796 |
 | Most Achievements | 11.00% | ~9,796 |
@@ -37,7 +37,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Team Effort | 3.00% | ~2,672 |
 | Opportunity | 3.00% | ~2,672 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,057 (Ranked 103)  
+Progressed: 89,058 (Ranked 103)  
 Completed: 180 (0.20%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 180 (0.20%) (Ranked 272)
 | 2024-01-01 | 88,741 | 178 |
 | 2024-01-02 | 88,879 | 179 |
 | 2024-01-03 | 89,041 | 180 |
-| 2024-01-04 | 89,057 | 180 |
+| 2024-01-04 | 89,058 | 180 |
 ## Awards
 Max (Relaxing): 535  (Ranked 215)  
 Sum: 3,322 (Ranked 178)  

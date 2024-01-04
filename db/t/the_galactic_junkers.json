@@ -2,9 +2,9 @@
   "ID": "af216ef873a244c6b0c22ea798de1aef",
   "Name": "The Galactic Junkers",
   "ProductSlug": "the-galactic-junkers-7fef21",
-  "Ranking_EOS_Progress": 542,
+  "Ranking_EOS_Progress": 540,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewPlayers": 525,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-01-09T16:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 54,
+  "EOS_Progressed": 55,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -211,6 +211,11 @@
       "Time": "2023-12-21T23:04:41.0380986+00:00",
       "NumProgressed": 54,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T02:30:38.7340696+00:00",
+      "NumProgressed": 55,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -220,7 +225,7 @@
       "ID": "A_Board_10_Ships",
       "SetID": "56632p4",
       "Name": "Notorious Pirate",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -228,7 +233,7 @@
       "ID": "A_Board_1_Ship",
       "SetID": "56632p4",
       "Name": "Pirate",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 5,
       "UsersEstimate": 41
     },
@@ -268,7 +273,7 @@
       "ID": "A_Extinguish_1_Fire",
       "SetID": "56632p4",
       "Name": "Firefighter",
-      "Percentage": 89,
+      "Percentage": 87,
       "XP": 5,
       "UsersEstimate": 48
     },
@@ -284,7 +289,7 @@
       "ID": "A_Fix_10_Systems",
       "SetID": "56632p4",
       "Name": "Expert Mechanic",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 5,
       "UsersEstimate": 28
     },
@@ -292,7 +297,7 @@
       "ID": "A_Fix_1_System",
       "SetID": "56632p4",
       "Name": "Mechanic",
-      "Percentage": 94,
+      "Percentage": 93,
       "XP": 10,
       "UsersEstimate": 51
     },
@@ -308,7 +313,7 @@
       "ID": "A_Hire_Crew",
       "SetID": "56632p4",
       "Name": "You\u0027re Hired!",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 50,
       "UsersEstimate": 16
     },
@@ -316,7 +321,7 @@
       "ID": "A_Kill_Cookie_Cutter",
       "SetID": "56632p4",
       "Name": "Cookie Addict",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 5,
       "UsersEstimate": 28
     },
@@ -332,7 +337,7 @@
       "ID": "A_Mine_10_Asteroid",
       "SetID": "56632p4",
       "Name": "Expert Miner",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 14
     },
@@ -340,7 +345,7 @@
       "ID": "A_Mine_1_Asteroid",
       "SetID": "56632p4",
       "Name": "Miner",
-      "Percentage": 69,
+      "Percentage": 67,
       "XP": 5,
       "UsersEstimate": 37
     },
@@ -405,7 +410,7 @@
     {
       "ID": "56632p4",
       "IsBase": true,
-      "Progressed": 54,
+      "Progressed": 55,
       "Completed": 0
     }
   ],
@@ -413,8 +418,8 @@
   "FirstSeenRating": "2023-03-31T05:58:44.0451512+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:41.2389416+00:00",
   "LastChanged": "2023-03-31T05:58:44.0451513+00:00",
-  "LastChanged_Achievements": "2024-01-04T01:55:09.1021237+00:00",
+  "LastChanged_Achievements": "2024-01-04T02:30:38.7340693+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:19.3135657+00:00",
-  "LastUpdate_Ratings": "2024-01-04T01:45:46.462278+00:00",
-  "LastUpdate_Achievements": "2024-01-04T01:55:09.1021414+00:00"
+  "LastUpdate_Ratings": "2024-01-04T02:21:44.4789288+00:00",
+  "LastUpdate_Achievements": "2024-01-04T02:30:38.7340884+00:00"
 }

@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 5.00% | ~37,652 |
-| The Assault | 4.00% | ~30,122 |
-| Life is your teacher | 4.00% | ~30,122 |
-| Lightning Hands | 4.00% | ~30,122 |
+| The Old Grandmaster | 5.00% | ~37,654 |
+| The Assault | 4.00% | ~30,123 |
+| Life is your teacher | 4.00% | ~30,123 |
+| Lightning Hands | 4.00% | ~30,123 |
 | The Hateful Pole Fighter | 2.00% | ~15,061 |
 | A Lady's Blood in the Snow | 2.00% | ~15,061 |
 | Lady Wing Chun | 2.00% | ~15,061 |
@@ -24,13 +24,13 @@ Number of Ratings: 9,492  (23.09.2022)
 | Path of the Prospect | 2.00% | ~15,061 |
 | Rumble in the Hangar | 2.00% | ~15,061 |
 | Diligence as a goal | 2.00% | ~1,247 |
-| Furious Fists | 1.00% | ~7,530 |
-| Scareless | 1.00% | ~7,530 |
-| Qi Gong: Mind | 1.00% | ~7,530 |
-| Kung-Fu Tussle | 1.00% | ~7,530 |
-| Take damage to save time | 1.00% | ~7,530 |
+| Furious Fists | 1.00% | ~7,531 |
+| Scareless | 1.00% | ~7,531 |
+| Qi Gong: Mind | 1.00% | ~7,531 |
+| Kung-Fu Tussle | 1.00% | ~7,531 |
+| Take damage to save time | 1.00% | ~7,531 |
 | Project Arena | 1.00% | ~624 |
-| Dance of the Praying Mantis | 0.90% | ~6,777 |
+| Dance of the Praying Mantis | 0.90% | ~6,778 |
 | Fight the way you practice | 0.80% | ~499 |
 | Muk Yan Master | 0.60% | ~4,518 |
 | Tiger on Fire | 0.60% | ~4,518 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~62 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 753,050 (Ranked 24)  
+Progressed: 753,071 (Ranked 24)  
 Completed: 12,973 (1.72%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,7 +326,7 @@ Completed: 12,973 (1.72%) (Ranked 141)
 | 2024-01-01 | 751,425 | 12,971 |
 | 2024-01-02 | 752,188 | 12,971 |
 | 2024-01-03 | 753,003 | 12,973 |
-| 2024-01-04 | 753,050 | 12,973 |
+| 2024-01-04 | 753,071 | 12,973 |
 ## Awards
 Max (Great Boss Battles): 7,088  (Ranked 55)  
 Sum: 11,987 (Ranked 87)  

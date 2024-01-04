@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4844,
+  "EOS_Progressed": 4845,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.89,
   "EosHistory": [
@@ -12730,6 +12730,11 @@
       "Time": "2024-01-04T01:51:58.092194+00:00",
       "NumProgressed": 4844,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2024-01-04T02:28:07.9149184+00:00",
+      "NumProgressed": 4845,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 16,
@@ -12773,7 +12778,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 3730
+      "UsersEstimate": 3731
     },
     {
       "ID": "ach_architecture_completed",
@@ -12837,7 +12842,7 @@
       "Name": "Game opened",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3681
+      "UsersEstimate": 3682
     },
     {
       "ID": "ach_magic_wand",
@@ -12845,7 +12850,7 @@
       "Name": "Magic time",
       "Percentage": 30,
       "XP": 65,
-      "UsersEstimate": 1453
+      "UsersEstimate": 1454
     },
     {
       "ID": "ach_no_boosters",
@@ -12853,7 +12858,7 @@
       "Name": "Master",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 1889
+      "UsersEstimate": 1890
     },
     {
       "ID": "ach_tornado",
@@ -12861,14 +12866,14 @@
       "Name": "Aeolus",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 1356
+      "UsersEstimate": 1357
     }
   ],
   "AchievementSets": [
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 4844,
+      "Progressed": 4845,
       "Completed": 43
     }
   ],
@@ -12876,8 +12881,8 @@
   "FirstSeenRating": "2023-12-06T23:00:44.8965761+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
   "LastChanged": "2023-12-06T23:00:44.8965762+00:00",
-  "LastChanged_Achievements": "2024-01-04T01:51:58.0921937+00:00",
+  "LastChanged_Achievements": "2024-01-04T02:28:07.9149178+00:00",
   "LastUpdate_AppInfo": "2023-12-29T23:56:56.9957208+00:00",
-  "LastUpdate_Ratings": "2024-01-04T01:46:39.4597833+00:00",
-  "LastUpdate_Achievements": "2024-01-04T01:51:58.0922504+00:00"
+  "LastUpdate_Ratings": "2024-01-04T02:22:56.4850136+00:00",
+  "LastUpdate_Achievements": "2024-01-04T02:28:07.9149907+00:00"
 }

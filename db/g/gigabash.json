@@ -297,9 +297,9 @@
       "Count": 48
     }
   ],
-  "EOS_Progressed": 116137,
+  "EOS_Progressed": 116156,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7582,
+  "EOS_NewPlayers": 7583,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3282,6 +3282,11 @@
       "Time": "2024-01-04T01:52:12.9787089+00:00",
       "NumProgressed": 116137,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T02:28:27.1987261+00:00",
+      "NumProgressed": 116156,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-10T01:55:31.023863+00:00",
@@ -3294,7 +3299,7 @@
       "Name": "Oh Baby, A Triple",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 3484
+      "UsersEstimate": 3485
     },
     {
       "ID": "ACH_5_STAGES_OF_GRIEF",
@@ -3326,7 +3331,7 @@
       "Name": "Cautious Veteran",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 1161
+      "UsersEstimate": 1162
     },
     {
       "ID": "ACH_COLLECTOR",
@@ -3342,7 +3347,7 @@
       "Name": "Double Punch!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1161
+      "UsersEstimate": 1162
     },
     {
       "ID": "ACH_EYE_OF_THE_TITAN",
@@ -3358,7 +3363,7 @@
       "Name": "Fists, Fury \u0026 a lot of Rage",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 11614
+      "UsersEstimate": 11616
     },
     {
       "ID": "ACH_GROWNUP",
@@ -3366,7 +3371,7 @@
       "Name": "All Grown Up!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 20905
+      "UsersEstimate": 20908
     },
     {
       "ID": "ACH_JUST_GETTING_WARMED_UP",
@@ -3390,7 +3395,7 @@
       "Name": "I\u0027ve Had Enough!",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 16259
+      "UsersEstimate": 16262
     },
     {
       "ID": "ACH_LET_THEM_FIGHT",
@@ -3406,7 +3411,7 @@
       "Name": "Martyrdom",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1161
+      "UsersEstimate": 1162
     },
     {
       "ID": "ACH_MASTER_OF_DISGUISE",
@@ -3446,7 +3451,7 @@
       "Name": "All For One and One For All",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 8130
+      "UsersEstimate": 8131
     },
     {
       "ID": "ACH_RIGHT_BACK_AT_CHA",
@@ -3462,7 +3467,7 @@
       "Name": "Seasoned Fighter",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 9291
+      "UsersEstimate": 9292
     },
     {
       "ID": "ACH_SIGNATURE_LOOK",
@@ -3502,7 +3507,7 @@
       "Name": "Symbiotic",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 3484
+      "UsersEstimate": 3485
     },
     {
       "ID": "ACH_TASTE_YOUR_OWN_MEDICINE",
@@ -3518,7 +3523,7 @@
       "Name": "A New Age",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 5807
+      "UsersEstimate": 5808
     },
     {
       "ID": "ACH_TOP_OF_THE_FOOD_CHAIN",
@@ -3534,7 +3539,7 @@
       "Name": "Spectacular Finisher",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 1161
+      "UsersEstimate": 1162
     },
     {
       "ID": "ACH_WATCHFUL_SENTINEL",
@@ -3558,7 +3563,7 @@
       "Name": "Home Sweet Home?",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 5807
+      "UsersEstimate": 5808
     },
     {
       "ID": "ACH_ZERO_SUM_GAME",
@@ -3573,7 +3578,7 @@
     {
       "ID": "3k5ibhn",
       "IsBase": true,
-      "Progressed": 116137,
+      "Progressed": 116156,
       "Completed": 0
     }
   ],
@@ -3581,8 +3586,8 @@
   "FirstSeenRating": "2022-10-02T07:32:08.4274129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:17.2611178+00:00",
   "LastChanged": "2024-01-02T17:03:16.2726926+00:00",
-  "LastChanged_Achievements": "2024-01-04T01:52:12.9787086+00:00",
+  "LastChanged_Achievements": "2024-01-04T02:28:27.1987254+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:23.1582373+00:00",
-  "LastUpdate_Ratings": "2024-01-04T01:49:40.099337+00:00",
-  "LastUpdate_Achievements": "2024-01-04T01:52:12.9787391+00:00"
+  "LastUpdate_Ratings": "2024-01-04T02:25:00.2529413+00:00",
+  "LastUpdate_Achievements": "2024-01-04T02:28:27.1987721+00:00"
 }

@@ -17,8 +17,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Embrace of the Abyss | 7.00% | ~911 |
 | Path of the Angel | 7.00% | ~911 |
 | Demonic and Divine | 7.00% | ~911 |
-| Great Upstart | 6.00% | ~780 |
-| All Paths Open | 6.00% | ~780 |
+| Great Upstart | 6.00% | ~781 |
+| All Paths Open | 6.00% | ~781 |
 | Path of the Azata | 5.00% | ~650 |
 | Transformation | 5.00% | ~650 |
 | The Legacy | 5.00% | ~650 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,008 (Ranked 176)  
+Progressed: 13,009 (Ranked 176)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -382,7 +382,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-01 | 12,955 | 0 |
 | 2024-01-02 | 12,976 | 0 |
 | 2024-01-03 | 13,006 | 0 |
-| 2024-01-04 | 13,008 | 0 |
+| 2024-01-04 | 13,009 | 0 |
 ## Awards
 Max (Character Customization): 1,776  (Ranked 128)  
 Sum: 7,186 (Ranked 126)  

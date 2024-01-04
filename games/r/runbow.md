@@ -5,18 +5,18 @@ Rating: 4.46 (Ranked 672)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~134,116 |
-| My First Runbow | 50.00% | ~126,525 |
-| It's The Fall | 26.00% | ~65,793 |
+| In The Zone | 53.00% | ~134,119 |
+| My First Runbow | 50.00% | ~126,527 |
+| It's The Fall | 26.00% | ~65,794 |
 | The Stunner | 23.00% | ~58,202 |
-| Be Aggressive | 21.00% | ~53,140 |
-| Curator | 20.00% | ~50,610 |
-| Crowning Around | 18.00% | ~45,549 |
-| Can You Dig It? | 17.00% | ~43,018 |
-| You Juan-A-Go? | 16.00% | ~40,488 |
+| Be Aggressive | 21.00% | ~53,141 |
+| Curator | 20.00% | ~50,611 |
+| Crowning Around | 18.00% | ~45,550 |
+| Can You Dig It? | 17.00% | ~43,019 |
+| You Juan-A-Go? | 16.00% | ~40,489 |
 | Chan-tastic | 15.00% | ~37,958 |
-| Muddy Waters | 14.00% | ~35,427 |
-| Toasty! | 13.00% | ~32,896 |
+| Muddy Waters | 14.00% | ~35,428 |
+| Toasty! | 13.00% | ~32,897 |
 | Lazy Laser | 8.00% | ~20,244 |
 | Just A Phaze | 7.00% | ~17,714 |
 | Into The Drift | 7.00% | ~17,714 |
@@ -27,9 +27,9 @@ Rating: 4.46 (Ranked 672)
 | And You're Okay | 2.00% | ~5,061 |
 | Blotbuster | 2.00% | ~5,061 |
 | Thunderstruck | 2.00% | ~5,061 |
-| Just A Bit | 1.00% | ~2,530 |
-| Tubular, Dude | 1.00% | ~2,530 |
-| What A Trip | 1.00% | ~2,530 |
+| Just A Bit | 1.00% | ~2,531 |
+| Tubular, Dude | 1.00% | ~2,531 |
+| What A Trip | 1.00% | ~2,531 |
 | Please The King | 0.90% | ~2,277 |
 | Here We Go! | 0.80% | ~2,024 |
 | Clear-Cut | 0.50% | ~1,265 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 672)
 | Talent Scout | 0.10% | ~253 |
 | True Completionist | 0.10% | ~253 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,050 (Ranked 69)  
+Progressed: 253,054 (Ranked 69)  
 Completed: 6 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 6 (0.00%) (Ranked 392)
 | 2024-01-01 | 252,969 | 6 |
 | 2024-01-02 | 253,007 | 6 |
 | 2024-01-03 | 253,046 | 6 |
-| 2024-01-04 | 253,050 | 6 |
+| 2024-01-04 | 253,054 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

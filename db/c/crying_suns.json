@@ -709,9 +709,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 473317,
+  "EOS_Progressed": 473318,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 398,
+  "EOS_NewPlayers": 399,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27434,6 +27434,11 @@
       "Time": "2024-01-04T01:56:39.3917399+00:00",
       "NumProgressed": 473317,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-04T02:32:38.0901684+00:00",
+      "NumProgressed": 473318,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 79,
@@ -27533,7 +27538,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 312389
+      "UsersEstimate": 312390
     },
     {
       "ID": "achievement_story_landa",
@@ -27565,7 +27570,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 118329
+      "UsersEstimate": 118330
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -27621,7 +27626,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 94663
+      "UsersEstimate": 94664
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -27869,7 +27874,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 208259
+      "UsersEstimate": 208260
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -28076,21 +28081,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 17251,
+      "Progressed": 17252,
       "Completed": 2362
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 473317,
+      "Progressed": 473318,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2024-01-03T17:03:08.8869206+00:00",
-  "LastChanged_Achievements": "2024-01-04T01:56:39.3917396+00:00",
+  "LastChanged_Achievements": "2024-01-04T02:32:38.0901681+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:35.1454991+00:00",
-  "LastUpdate_Ratings": "2024-01-04T01:43:50.4765856+00:00",
-  "LastUpdate_Achievements": "2024-01-04T01:56:39.3919019+00:00"
+  "LastUpdate_Ratings": "2024-01-04T02:19:01.7259765+00:00",
+  "LastUpdate_Achievements": "2024-01-04T02:32:38.0903965+00:00"
 }

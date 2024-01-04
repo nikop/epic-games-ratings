@@ -5,28 +5,28 @@ Rating: 4.65 (Ranked 320)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~13,761 |
-| On the Top Step | 82.00% | ~12,400 |
-| Setting up for Success | 69.00% | ~10,434 |
-| Team Orders | 68.00% | ~10,283 |
-| Engineer | 45.00% | ~6,805 |
-| Familiar Faces | 42.00% | ~6,351 |
-| Going the Extra Mile | 36.00% | ~5,444 |
-| Sharing the Love | 33.00% | ~4,990 |
+| Getting on the Step | 91.00% | ~13,763 |
+| On the Top Step | 82.00% | ~12,402 |
+| Setting up for Success | 69.00% | ~10,436 |
+| Team Orders | 68.00% | ~10,284 |
+| Engineer | 45.00% | ~6,806 |
+| Familiar Faces | 42.00% | ~6,352 |
+| Going the Extra Mile | 36.00% | ~5,445 |
+| Sharing the Love | 33.00% | ~4,991 |
 | Hitting a Season | 26.00% | ~3,932 |
-| Making History | 25.00% | ~3,780 |
-| A Dozen Pieces | 24.00% | ~3,629 |
-| Network Success | 23.00% | ~3,478 |
-| Challenge Yourself | 23.00% | ~3,478 |
-| Writing a new Chapter | 19.00% | ~2,873 |
+| Making History | 25.00% | ~3,781 |
+| A Dozen Pieces | 24.00% | ~3,630 |
+| Network Success | 23.00% | ~3,479 |
+| Challenge Yourself | 23.00% | ~3,479 |
+| Writing a new Chapter | 19.00% | ~2,874 |
 | Spring Cleaning | 18.00% | ~2,722 |
-| Reduce | 15.00% | ~2,268 |
-| Ups and Downs | 15.00% | ~2,268 |
+| Reduce | 15.00% | ~2,269 |
+| Ups and Downs | 15.00% | ~2,269 |
 | Crucial Combo | 13.00% | ~1,966 |
 | Reuse | 12.00% | ~1,815 |
 | Proving Them Wrong | 12.00% | ~1,815 |
-| Gathering Dust | 11.00% | ~1,663 |
-| One for the Book | 11.00% | ~1,663 |
+| Gathering Dust | 11.00% | ~1,664 |
+| One for the Book | 11.00% | ~1,664 |
 | Friendly Competition | 10.00% | ~1,512 |
 | Switcheroo | 10.00% | ~1,512 |
 | Eagle Eye | 9.00% | ~1,361 |
@@ -55,7 +55,7 @@ Rating: 4.65 (Ranked 320)
 | Shot in the Dark | 0.10% | ~15 |
 | Elite Racer | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,122 (Ranked 170)  
+Progressed: 15,124 (Ranked 170)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-01 | 14,544 | 0 |
 | 2024-01-02 | 14,800 | 0 |
 | 2024-01-03 | 15,088 | 0 |
-| 2024-01-04 | 15,122 | 0 |
+| 2024-01-04 | 15,124 | 0 |
 ## Awards
 Max (Diverse Characters): 56  (Ranked 435)  
 Sum: 359 (Ranked 364)  

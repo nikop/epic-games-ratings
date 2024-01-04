@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -587,7 +587,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 46330,
+  "EOS_Progressed": 46331,
   "EOS_Completed": 234,
   "EOS_NewPlayers": 941,
   "EOS_NewCompleters": 8,
@@ -12947,6 +12947,11 @@
       "Time": "2024-01-04T01:55:55.8210293+00:00",
       "NumProgressed": 46330,
       "NumCompleted": 234
+    },
+    {
+      "Time": "2024-01-04T02:31:41.0905465+00:00",
+      "NumProgressed": 46331,
+      "NumCompleted": 234
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -13143,7 +13148,7 @@
       "Name": "The Truthful Enemy",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 2316
+      "UsersEstimate": 2317
     },
     {
       "ID": "ACH_S1",
@@ -13151,7 +13156,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 31504
+      "UsersEstimate": 31505
     },
     {
       "ID": "ACH_S4",
@@ -13159,7 +13164,7 @@
       "Name": "Power Glove",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 23165
+      "UsersEstimate": 23166
     },
     {
       "ID": "ACH_S5",
@@ -13190,15 +13195,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 46330,
+      "Progressed": 46331,
       "Completed": 234
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-12-17T06:58:25.2845688+00:00",
-  "LastChanged_Achievements": "2024-01-04T01:55:55.821029+00:00",
+  "LastChanged_Achievements": "2024-01-04T02:31:41.0905459+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:18.3640051+00:00",
-  "LastUpdate_Ratings": "2024-01-04T01:46:38.4906325+00:00",
-  "LastUpdate_Achievements": "2024-01-04T01:55:55.8211154+00:00"
+  "LastUpdate_Ratings": "2024-01-04T02:22:54.9976718+00:00",
+  "LastUpdate_Achievements": "2024-01-04T02:31:41.0906225+00:00"
 }

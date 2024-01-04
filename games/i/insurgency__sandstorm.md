@@ -6,14 +6,14 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~25,944 |
-| Exploitative | 4.00% | ~20,755 |
-| High Speed Low Drag | 4.00% | ~20,755 |
-| Point Shooting | 4.00% | ~20,755 |
-| Wet Feet | 4.00% | ~20,755 |
-| Lucky | 3.00% | ~15,566 |
-| Stylin' | 3.00% | ~15,566 |
-| Turf War | 3.00% | ~15,566 |
+| Wallbanger | 5.00% | ~25,945 |
+| Exploitative | 4.00% | ~20,756 |
+| High Speed Low Drag | 4.00% | ~20,756 |
+| Point Shooting | 4.00% | ~20,756 |
+| Wet Feet | 4.00% | ~20,756 |
+| Lucky | 3.00% | ~15,567 |
+| Stylin' | 3.00% | ~15,567 |
+| Turf War | 3.00% | ~15,567 |
 | Banged | 2.00% | ~10,378 |
 | Checkpoint Victory | 2.00% | ~10,378 |
 | First Blood | 2.00% | ~10,378 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~519 |
 | Road Hazard | 0.10% | ~519 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 518,879 (Ranked 39)  
+Progressed: 518,898 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,11 +301,11 @@ Completed: 2 (0.00%) (Ranked 392)
 | 2024-01-01 | 517,132 | 2 |
 | 2024-01-02 | 517,956 | 2 |
 | 2024-01-03 | 518,784 | 2 |
-| 2024-01-04 | 518,879 | 2 |
+| 2024-01-04 | 518,898 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 415  (Ranked 237)  
-Sum: 3,323 (Ranked 177)  
-Diff (max vs sum): 60  
+Sum: 3,324 (Ranked 176)  
+Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 415 |
@@ -315,7 +315,7 @@ Diff (max vs sum): 60
 | This game is Highly Recommended | 368 |
 | This game has Realistic Visuals | 360 |
 | This game has Amazing Characters | 351 |
-| This game has Amazing Storytelling | 340 |
+| This game has Amazing Storytelling | 341 |
 | This game has a Competitive Community | 313 |
 | This game has Obsessive Gameplay | 156 |
 | This game has Diverse Characters | 103 |
@@ -650,3 +650,4 @@ Diff (max vs sum): 60
 | 2024-01-01 | 4.61 | - | 415 | 3,314 |
 | 2024-01-02 | 4.61 | - | 415 | 3,319 |
 | 2024-01-03 | 4.61 | - | 415 | 3,323 |
+| 2024-01-04 | 4.61 | - | 415 | 3,324 |

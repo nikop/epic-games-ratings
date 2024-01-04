@@ -5,21 +5,21 @@ Rating: 4.40 (Ranked 766)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~110,258 |
-| 74 miles East of Otaheité | 56.00% | ~77,181 |
+| A Family Heirloom | 80.00% | ~110,260 |
+| 74 miles East of Otaheité | 56.00% | ~77,182 |
 | Interesting... | 42.00% | ~57,886 |
-| The Everhart Expedition | 40.00% | ~55,129 |
-| Seaside Serenade | 31.00% | ~42,725 |
-| Halfway there | 30.00% | ~41,347 |
-| The Vanishing of the Lady Shannon | 30.00% | ~41,347 |
-| A brigantine, a brig and a barque | 28.00% | ~38,590 |
-| 506 East Hampden Avenue | 28.00% | ~38,590 |
-| Weekend at Walakea's | 27.00% | ~37,212 |
-| Quite a Show | 27.00% | ~37,212 |
+| The Everhart Expedition | 40.00% | ~55,130 |
+| Seaside Serenade | 31.00% | ~42,726 |
+| Halfway there | 30.00% | ~41,348 |
+| The Vanishing of the Lady Shannon | 30.00% | ~41,348 |
+| A brigantine, a brig and a barque | 28.00% | ~38,591 |
+| 506 East Hampden Avenue | 28.00% | ~38,591 |
+| Weekend at Walakea's | 27.00% | ~37,213 |
+| Quite a Show | 27.00% | ~37,213 |
 | Dark Water Ride | 25.00% | ~34,456 |
 | Sunken | 25.00% | ~34,456 |
 | Deep Cut | 24.00% | ~33,078 |
-| FHALGOF'N' | 23.00% | ~31,699 |
+| FHALGOF'N' | 23.00% | ~31,700 |
 | Marsh Cannery | 21.00% | ~28,943 |
 | Greetings from Y'ha-nthlei! | 18.00% | ~24,808 |
 | The only thing I have now | 17.00% | ~23,430 |
@@ -40,8 +40,8 @@ Rating: 4.40 (Ranked 766)
 | Gently down the stream... | 1.00% | ~1,378 |
 | Meta-reference | 1.00% | ~1,378 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,823 (Ranked 88)  
-Completed: 1,234 (0.90%) (Ranked 183)  
+Progressed: 137,825 (Ranked 88)  
+Completed: 1,235 (0.90%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -299,7 +299,7 @@ Completed: 1,234 (0.90%) (Ranked 183)
 | 2024-01-01 | 137,415 | 1,224 |
 | 2024-01-02 | 137,640 | 1,225 |
 | 2024-01-03 | 137,807 | 1,232 |
-| 2024-01-04 | 137,823 | 1,234 |
+| 2024-01-04 | 137,825 | 1,235 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -257,9 +257,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44798,
+  "EOS_Progressed": 44799,
   "EOS_Completed": 248,
-  "EOS_NewPlayers": 228,
+  "EOS_NewPlayers": 229,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -20267,6 +20267,11 @@
       "Time": "2024-01-04T01:51:59.9835093+00:00",
       "NumProgressed": 44798,
       "NumCompleted": 248
+    },
+    {
+      "Time": "2024-01-04T02:28:10.3309329+00:00",
+      "NumProgressed": 44799,
+      "NumCompleted": 248
     }
   ],
   "TotalAchievements": 44,
@@ -20286,7 +20291,7 @@
       "Name": "Lady",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13887
+      "UsersEstimate": 13888
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -20398,7 +20403,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 35838
+      "UsersEstimate": 35839
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -20470,7 +20475,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 16575
+      "UsersEstimate": 16576
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -20510,7 +20515,7 @@
       "Name": "Engraved with Power",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 14335
+      "UsersEstimate": 14336
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -20526,7 +20531,7 @@
       "Name": "Fashionable Assassin",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 12095
+      "UsersEstimate": 12096
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -20582,7 +20587,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 20159
+      "UsersEstimate": 20160
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -20614,7 +20619,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 41662
+      "UsersEstimate": 41663
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -20629,7 +20634,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 44798,
+      "Progressed": 44799,
       "Completed": 248
     }
   ],
@@ -20637,8 +20642,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-25T15:03:11.7209746+00:00",
-  "LastChanged_Achievements": "2024-01-04T01:51:59.9835091+00:00",
+  "LastChanged_Achievements": "2024-01-04T02:28:10.3309325+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:30.3527303+00:00",
-  "LastUpdate_Ratings": "2024-01-04T01:49:50.5536512+00:00",
-  "LastUpdate_Achievements": "2024-01-04T01:51:59.9836264+00:00"
+  "LastUpdate_Ratings": "2024-01-04T02:25:14.784008+00:00",
+  "LastUpdate_Achievements": "2024-01-04T02:28:10.3310408+00:00"
 }

@@ -38,6 +38,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Magnificent | 0.60% | ~97 |
 | Warrior | 0.60% | ~97 |
 | Ishtar Gate | 0.60% | ~97 |
+| Lighthouse | 0.60% | ~97 |
 | Learn to Play 1 | 0.60% | ~97 |
 | Christianity | 0.60% | ~97 |
 | Babylonian Paganism | 0.60% | ~97 |
@@ -49,7 +50,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Furious Family | 0.50% | ~81 |
 | Apadana | 0.50% | ~81 |
 | Great Ziggurat | 0.50% | ~81 |
-| Lighthouse | 0.50% | ~81 |
 | Carthaginian Paganism | 0.50% | ~81 |
 | Beloved | 0.40% | ~64 |
 | Drillmaster | 0.40% | ~64 |

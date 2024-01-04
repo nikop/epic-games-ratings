@@ -3950,9 +3950,9 @@
       "ID": "Achievement_001",
       "SetID": "6b34g18",
       "Name": "Neighborhood Revitalization",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 90
+      "UsersEstimate": 112
     },
     {
       "ID": "Achievement_002",
@@ -4102,9 +4102,9 @@
       "ID": "Achievement_021",
       "SetID": "6b34g18",
       "Name": "Radio Silence",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 112
     },
     {
       "ID": "Achievement_022",
@@ -4487,8 +4487,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-01T12:00:40.1847166+00:00",
-  "LastChanged_Achievements": "2024-01-04T01:50:03.0741405+00:00",
+  "LastChanged_Achievements": "2024-01-04T02:25:35.3051667+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.8280502+00:00",
-  "LastUpdate_Ratings": "2024-01-04T01:43:58.8044131+00:00",
-  "LastUpdate_Achievements": "2024-01-04T01:50:03.0758575+00:00"
+  "LastUpdate_Ratings": "2024-01-04T02:19:14.5519563+00:00",
+  "LastUpdate_Achievements": "2024-01-04T02:25:35.3052691+00:00"
 }
