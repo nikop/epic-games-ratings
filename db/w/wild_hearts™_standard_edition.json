@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1107,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -3771,9 +3771,9 @@
       "ID": "achievement_2",
       "SetID": "2cpn27e",
       "Name": "Mountain Splitter",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 520
+      "UsersEstimate": 531
     },
     {
       "ID": "achievement_20",
@@ -3795,9 +3795,9 @@
       "ID": "achievement_22",
       "SetID": "2cpn27e",
       "Name": "Kemono Hunter",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 454
+      "UsersEstimate": 465
     },
     {
       "ID": "achievement_23",
@@ -4073,8 +4073,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-04T07:09:38.8845478+00:00",
+  "LastChanged_Achievements": "2024-01-04T08:08:53.0346765+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:22.7723621+00:00",
-  "LastUpdate_Ratings": "2024-01-04T06:57:32.408952+00:00",
-  "LastUpdate_Achievements": "2024-01-04T07:09:38.8845944+00:00"
+  "LastUpdate_Ratings": "2024-01-04T07:57:09.4121586+00:00",
+  "LastUpdate_Achievements": "2024-01-04T08:08:53.0347401+00:00"
 }

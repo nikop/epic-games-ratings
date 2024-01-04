@@ -1447,9 +1447,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 260190,
+  "EOS_Progressed": 260193,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 323,
+  "EOS_NewPlayers": 324,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26222,6 +26222,11 @@
       "Time": "2024-01-04T07:06:15.1570653+00:00",
       "NumProgressed": 260190,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-04T08:05:49.3552532+00:00",
+      "NumProgressed": 260193,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -26233,7 +26238,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 18213
+      "UsersEstimate": 18214
     },
     {
       "ID": "Act2",
@@ -26281,7 +26286,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80659
+      "UsersEstimate": 80660
     },
     {
       "ID": "BackHomeNTimes",
@@ -26433,7 +26438,7 @@
       "Name": "Green thumb I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15611
+      "UsersEstimate": 15612
     },
     {
       "ID": "GrowPlants2",
@@ -26489,7 +26494,7 @@
       "Name": "Cleaning Company",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15611
+      "UsersEstimate": 15612
     },
     {
       "ID": "KillOtherWithKatana",
@@ -26680,7 +26685,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 260190,
+      "Progressed": 260193,
       "Completed": 3
     }
   ],
@@ -26688,8 +26693,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2024-01-04T01:45:41.2160951+00:00",
-  "LastChanged_Achievements": "2024-01-04T07:06:15.1570648+00:00",
+  "LastChanged_Achievements": "2024-01-04T08:05:49.3552528+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:41.7689812+00:00",
-  "LastUpdate_Ratings": "2024-01-04T06:59:21.6781206+00:00",
-  "LastUpdate_Achievements": "2024-01-04T07:06:15.1572109+00:00"
+  "LastUpdate_Ratings": "2024-01-04T07:58:57.9673293+00:00",
+  "LastUpdate_Achievements": "2024-01-04T08:05:49.3554074+00:00"
 }

@@ -15,7 +15,7 @@ Number of Ratings: 892  (23.09.2022)
 | On that Grindset | 108.00% | ~859 |
 | Better Late than Never | 95.00% | ~755 |
 | Your Especially Earned Trajectory | 94.00% | ~747 |
-| One of the Cool Kids | 89.00% | ~708 |
+| One of the Cool Kids | 90.00% | ~716 |
 | Pack Mule | 88.00% | ~700 |
 | Got Served | 86.00% | ~684 |
 | Diamonds are Forever | 86.00% | ~684 |

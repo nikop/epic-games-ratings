@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 5.00% | ~37,662 |
-| The Assault | 4.00% | ~30,129 |
-| Life is your teacher | 4.00% | ~30,129 |
-| Lightning Hands | 4.00% | ~30,129 |
+| The Old Grandmaster | 5.00% | ~37,663 |
+| The Assault | 4.00% | ~30,131 |
+| Life is your teacher | 4.00% | ~30,131 |
+| Lightning Hands | 4.00% | ~30,131 |
 | The Hateful Pole Fighter | 2.00% | ~15,065 |
 | A Lady's Blood in the Snow | 2.00% | ~15,065 |
 | Lady Wing Chun | 2.00% | ~15,065 |
@@ -24,17 +24,17 @@ Number of Ratings: 9,492  (23.09.2022)
 | Path of the Prospect | 2.00% | ~15,065 |
 | Rumble in the Hangar | 2.00% | ~15,065 |
 | Diligence as a goal | 2.00% | ~1,251 |
-| Furious Fists | 1.00% | ~7,532 |
-| Scareless | 1.00% | ~7,532 |
-| Qi Gong: Mind | 1.00% | ~7,532 |
-| Kung-Fu Tussle | 1.00% | ~7,532 |
-| Take damage to save time | 1.00% | ~7,532 |
-| Project Arena | 1.00% | ~625 |
+| Furious Fists | 1.00% | ~7,533 |
+| Scareless | 1.00% | ~7,533 |
+| Qi Gong: Mind | 1.00% | ~7,533 |
+| Kung-Fu Tussle | 1.00% | ~7,533 |
+| Take damage to save time | 1.00% | ~7,533 |
+| Project Arena | 1.00% | ~626 |
 | Dance of the Praying Mantis | 0.90% | ~6,779 |
-| Fight the way you practice | 0.80% | ~500 |
-| Muk Yan Master | 0.60% | ~4,519 |
-| Tiger on Fire | 0.60% | ~4,519 |
-| Detective Story | 0.60% | ~4,519 |
+| Fight the way you practice | 0.80% | ~501 |
+| Muk Yan Master | 0.60% | ~4,520 |
+| Tiger on Fire | 0.60% | ~4,520 |
+| Detective Story | 0.60% | ~4,520 |
 | Martial Hub | 0.60% | ~375 |
 | Source of Flying Daggers | 0.50% | ~3,766 |
 | Iron Money | 0.50% | ~3,766 |
@@ -50,10 +50,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Pit Protector | 0.30% | ~2,260 |
 | Come Snap With Me | 0.30% | ~2,260 |
 | Deadly Venom | 0.30% | ~188 |
-| Healing Memory | 0.20% | ~1,506 |
-| Master of the Phoenix Eye Fist | 0.20% | ~1,506 |
-| Ferocity, speed, strength, accuracy | 0.20% | ~1,506 |
-| Be like water my friend | 0.20% | ~1,506 |
+| Healing Memory | 0.20% | ~1,507 |
+| Master of the Phoenix Eye Fist | 0.20% | ~1,507 |
+| Ferocity, speed, strength, accuracy | 0.20% | ~1,507 |
+| Be like water my friend | 0.20% | ~1,507 |
 | Secure, Protect, Leave | 0.20% | ~125 |
 | A Touch of Acumen | 0.20% | ~125 |
 | Crouching Tiger | 0.20% | ~125 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~63 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~63 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 753,232 (Ranked 25)  
+Progressed: 753,266 (Ranked 25)  
 Completed: 12,973 (1.72%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,7 +326,7 @@ Completed: 12,973 (1.72%) (Ranked 141)
 | 2024-01-01 | 751,425 | 12,971 |
 | 2024-01-02 | 752,188 | 12,971 |
 | 2024-01-03 | 753,003 | 12,973 |
-| 2024-01-04 | 753,232 | 12,973 |
+| 2024-01-04 | 753,266 | 12,973 |
 ## Awards
 Max (Great Boss Battles): 7,088  (Ranked 55)  
 Sum: 11,988 (Ranked 87)  

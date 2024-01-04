@@ -10494,9 +10494,9 @@
       "Count": 1079
     }
   ],
-  "EOS_Progressed": 131578,
+  "EOS_Progressed": 131582,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1275,
+  "EOS_NewPlayers": 1270,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38254,6 +38254,11 @@
       "Time": "2024-01-04T07:09:52.7639226+00:00",
       "NumProgressed": 131578,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-04T08:09:06.7810652+00:00",
+      "NumProgressed": 131582,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38617,7 +38622,7 @@
       "Name": "Autodidact",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9210
+      "UsersEstimate": 9211
     },
     {
       "ID": "hero_story_complete_all",
@@ -38833,7 +38838,7 @@
       "Name": "Slap on the Wrist",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "combat_land_riposte_maa_hwy_dul",
@@ -38849,7 +38854,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -38857,7 +38862,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "quest_complete_crusader",
@@ -38881,7 +38886,7 @@
       "Name": "For Old Time\u0027 Sake",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "run_victory_final_boss_hwy_cru",
@@ -38896,21 +38901,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131578,
+      "Progressed": 131582,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6447,
+      "Progressed": 6451,
       "Completed": 821
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-04T01:45:58.9475308+00:00",
-  "LastChanged_Achievements": "2024-01-04T07:09:52.763922+00:00",
+  "LastChanged_Achievements": "2024-01-04T08:09:06.781065+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-04T06:59:38.254714+00:00",
-  "LastUpdate_Achievements": "2024-01-04T07:09:52.7641894+00:00"
+  "LastUpdate_Ratings": "2024-01-04T07:59:14.6852948+00:00",
+  "LastUpdate_Achievements": "2024-01-04T08:09:06.781284+00:00"
 }

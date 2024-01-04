@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -277,7 +277,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 40026,
+  "EOS_Progressed": 40027,
   "EOS_Completed": 125,
   "EOS_NewPlayers": 390,
   "EOS_NewCompleters": 1,
@@ -23002,6 +23002,11 @@
       "Time": "2024-01-04T07:08:52.1528023+00:00",
       "NumProgressed": 40026,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-04T08:08:05.3519329+00:00",
+      "NumProgressed": 40027,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 14,
@@ -23101,7 +23106,7 @@
       "Name": "Two Worlds",
       "Percentage": 76,
       "XP": 25,
-      "UsersEstimate": 30420
+      "UsersEstimate": 30421
     },
     {
       "ID": "roots",
@@ -23109,7 +23114,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 6804
+      "UsersEstimate": 6805
     },
     {
       "ID": "secretItem",
@@ -23124,15 +23129,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 40026,
+      "Progressed": 40027,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-12-25T15:57:40.6217361+00:00",
-  "LastChanged_Achievements": "2024-01-04T07:08:52.1528017+00:00",
+  "LastChanged_Achievements": "2024-01-04T08:08:05.3519325+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:00.6185917+00:00",
-  "LastUpdate_Ratings": "2024-01-04T06:58:04.1261571+00:00",
-  "LastUpdate_Achievements": "2024-01-04T07:08:52.1529175+00:00"
+  "LastUpdate_Ratings": "2024-01-04T07:57:40.2868601+00:00",
+  "LastUpdate_Achievements": "2024-01-04T08:08:05.3520564+00:00"
 }

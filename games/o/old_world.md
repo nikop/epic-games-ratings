@@ -12,13 +12,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 1.00% | ~161 |
 | Play a Single Player Game | 1.00% | ~161 |
 | Architect | 0.90% | ~145 |
+| Strong | 0.90% | ~145 |
 | Able | 0.80% | ~129 |
 | Good | 0.80% | ~129 |
 | Learned | 0.80% | ~129 |
 | Mason | 0.80% | ~129 |
 | Noble | 0.80% | ~129 |
 | Pioneer | 0.80% | ~129 |
-| Strong | 0.80% | ~129 |
 | Hanging Gardens | 0.80% | ~129 |
 | Oracle | 0.80% | ~129 |
 | Trade Caravan | 0.80% | ~129 |
@@ -27,6 +27,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious | 0.70% | ~113 |
 | Just | 0.70% | ~113 |
 | Keystone | 0.70% | ~113 |
+| Warrior | 0.70% | ~113 |
 | Developing Cities | 0.70% | ~113 |
 | Strong Cities | 0.70% | ~113 |
 | Pyramids | 0.70% | ~113 |
@@ -36,7 +37,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Brilliant | 0.60% | ~97 |
 | Fountainhead | 0.60% | ~97 |
 | Magnificent | 0.60% | ~97 |
-| Warrior | 0.60% | ~97 |
 | Ishtar Gate | 0.60% | ~97 |
 | Lighthouse | 0.60% | ~97 |
 | Learn to Play 1 | 0.60% | ~97 |
@@ -46,6 +46,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Zoroastrianism | 0.60% | ~97 |
 | Regicide | 0.50% | ~81 |
 | Wise | 0.50% | ~81 |
+| Legendary Cities | 0.50% | ~81 |
 | Able Difficulty | 0.50% | ~81 |
 | Furious Family | 0.50% | ~81 |
 | Acropolis | 0.50% | ~81 |
@@ -57,7 +58,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great | 0.40% | ~64 |
 | Intercessor | 0.40% | ~64 |
 | Valiant | 0.40% | ~64 |
-| Legendary Cities | 0.40% | ~64 |
 | Sages | 0.40% | ~64 |
 | Colossus | 0.40% | ~64 |
 | Mausoleum | 0.40% | ~64 |
@@ -133,6 +133,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Deposed Tribe | 0.20% | ~32 |
 | Centenarian | 0.10% | ~16 |
 | Alexander the Great | 0.10% | ~16 |
+| Alexander the who? | 0.10% | ~16 |
 | Lighthouse in Alexandria | 0.10% | ~16 |
 | Musaeum in Alexandria | 0.10% | ~16 |
 | Alliance Victory | 0.10% | ~16 |
@@ -293,7 +294,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library | 0.10% | ~16 |
 | Yazilikaya | 0.10% | ~16 |
 | Colosseum in Roma | 0.10% | ~16 |
-| Alexander the who? | 0.00% | ~0 |
 | The Great Raging Horde | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
 | Rebuilder | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,110 (Ranked 166)  
+Progressed: 16,111 (Ranked 166)  
 Completed: 5 (0.03%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -624,7 +624,7 @@ Completed: 5 (0.03%) (Ranked 351)
 | 2024-01-01 | 16,077 | 5 |
 | 2024-01-02 | 16,090 | 5 |
 | 2024-01-03 | 16,108 | 5 |
-| 2024-01-04 | 16,110 | 5 |
+| 2024-01-04 | 16,111 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 283)  
 Sum: 1,913 (Ranked 221)  

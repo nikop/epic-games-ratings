@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 26,
-  "Ranking_EOS_NewPlayers": 455,
+  "Ranking_EOS_NewPlayers": 443,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 854,
+  "EOS_Progressed": 855,
   "EOS_Completed": 143,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 16.74,
+  "EOS_Completed_Percentage": 16.73,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -3676,6 +3676,11 @@
       "Time": "2023-12-31T07:06:00.9439158+00:00",
       "NumProgressed": 854,
       "NumCompleted": 143
+    },
+    {
+      "Time": "2024-01-04T08:06:05.1446483+00:00",
+      "NumProgressed": 855,
+      "NumCompleted": 143
     }
   ],
   "TotalAchievements": 22,
@@ -3687,7 +3692,7 @@
       "Name": "Welcome!",
       "Percentage": 96,
       "XP": 35,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "LEVEL_002",
@@ -3695,7 +3700,7 @@
       "Name": "A tiny town",
       "Percentage": 87,
       "XP": 35,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "LEVEL_003",
@@ -3703,7 +3708,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 67,
       "XP": 35,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "LEVEL_004",
@@ -3719,7 +3724,7 @@
       "Name": "Bridges to come and go",
       "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "LEVEL_006",
@@ -3783,7 +3788,7 @@
       "Name": "Elevated ring",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "LEVEL_014",
@@ -3791,7 +3796,7 @@
       "Name": "Not lonely anymore",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "LEVEL_015",
@@ -3799,7 +3804,7 @@
       "Name": "Monumental tribute",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "LEVEL_016",
@@ -3862,7 +3867,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 854,
+      "Progressed": 855,
       "Completed": 143
     }
   ],
@@ -3870,8 +3875,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2024-01-04T07:06:31.038434+00:00",
+  "LastChanged_Achievements": "2024-01-04T08:06:05.1446475+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:25.1700467+00:00",
-  "LastUpdate_Ratings": "2024-01-04T06:59:07.8106606+00:00",
-  "LastUpdate_Achievements": "2024-01-04T07:06:31.0384723+00:00"
+  "LastUpdate_Ratings": "2024-01-04T07:58:43.9155913+00:00",
+  "LastUpdate_Achievements": "2024-01-04T08:06:05.1446793+00:00"
 }

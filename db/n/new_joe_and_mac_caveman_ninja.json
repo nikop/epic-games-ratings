@@ -2,9 +2,9 @@
   "ID": "4e9703c510444252886ee033a7c01ad6",
   "Name": "NEW Joe and Mac Caveman Ninja",
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
-  "Ranking_EOS_Progress": 398,
-  "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 374,
+  "Ranking_EOS_Progress": 397,
+  "Ranking_EOS_Completed": 127,
+  "Ranking_EOS_NewPlayers": 367,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 285,
+  "EOS_Progressed": 286,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.46,
+  "EOS_Completed_Percentage": 2.45,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:18.1728843+00:00",
@@ -691,6 +691,11 @@
       "Time": "2024-01-04T00:04:36.3462964+00:00",
       "NumProgressed": 285,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-04T08:04:32.289482+00:00",
+      "NumProgressed": 286,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 15,
@@ -700,9 +705,9 @@
       "ID": "01",
       "SetID": "6glb5g1",
       "Name": "The T-Rex plain.",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 137
+      "UsersEstimate": 140
     },
     {
       "ID": "02",
@@ -710,7 +715,7 @@
       "Name": "Crazy Jungle.",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "03",
@@ -718,7 +723,7 @@
       "Name": "In the treetops.",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "04",
@@ -766,7 +771,7 @@
       "Name": "In the heart of the volcano.",
       "Percentage": 10,
       "XP": 80,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "10",
@@ -790,7 +795,7 @@
       "Name": "Dinosaur graveyard.",
       "Percentage": 10,
       "XP": 80,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "13",
@@ -821,7 +826,7 @@
     {
       "ID": "6glb5g1",
       "IsBase": true,
-      "Progressed": 285,
+      "Progressed": 286,
       "Completed": 7
     }
   ],
@@ -829,8 +834,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2024-01-04T07:04:56.2674235+00:00",
+  "LastChanged_Achievements": "2024-01-04T08:04:32.2894814+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:56:57.5978328+00:00",
-  "LastUpdate_Ratings": "2024-01-04T06:58:12.4240676+00:00",
-  "LastUpdate_Achievements": "2024-01-04T07:04:56.2674407+00:00"
+  "LastUpdate_Ratings": "2024-01-04T07:57:48.1225565+00:00",
+  "LastUpdate_Achievements": "2024-01-04T08:04:32.2894991+00:00"
 }

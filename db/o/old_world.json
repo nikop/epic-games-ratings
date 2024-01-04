@@ -2214,9 +2214,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16110,
+  "EOS_Progressed": 16111,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18909,6 +18909,11 @@
       "Time": "2024-01-04T03:11:19.4238948+00:00",
       "NumProgressed": 16110,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-04T08:09:37.6630934+00:00",
+      "NumProgressed": 16111,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -18934,9 +18939,9 @@
       "ID": "ACHIEVEMENT_ALEXANDER_THE_WHO",
       "SetID": "9201eeb",
       "Name": "Alexander the who?",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_ALEXANDRIA_LIGHTHOUSE",
@@ -19550,9 +19555,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
       "SetID": "7l38kb8",
       "Name": "Strong",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 129
+      "UsersEstimate": 145
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
@@ -19582,9 +19587,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_WARRIOR",
       "SetID": "9201eeb",
       "Name": "Warrior",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 113
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_WHITE_DEATH",
@@ -19622,9 +19627,9 @@
       "ID": "ACHIEVEMENT_CULTURE_LEGENDARY",
       "SetID": "9201eeb",
       "Name": "Legendary Cities",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 64
+      "UsersEstimate": 81
     },
     {
       "ID": "ACHIEVEMENT_CULTURE_STRONG",
@@ -21783,21 +21788,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16110,
+      "Progressed": 16111,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16110,
+      "Progressed": 16111,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-04T06:58:24.8867619+00:00",
-  "LastChanged_Achievements": "2024-01-04T07:10:23.5005239+00:00",
+  "LastChanged_Achievements": "2024-01-04T08:09:37.6630931+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:24.5452657+00:00",
-  "LastUpdate_Ratings": "2024-01-04T06:58:24.8867623+00:00",
-  "LastUpdate_Achievements": "2024-01-04T07:10:23.5015512+00:00"
+  "LastUpdate_Ratings": "2024-01-04T07:57:59.5454697+00:00",
+  "LastUpdate_Achievements": "2024-01-04T08:09:37.6641074+00:00"
 }

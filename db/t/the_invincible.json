@@ -67,9 +67,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1354,
+  "EOS_Progressed": 1355,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 267,
+  "EOS_NewPlayers": 266,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3527,6 +3527,11 @@
       "Time": "2024-01-04T07:09:46.362777+00:00",
       "NumProgressed": 1354,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T08:09:00.48589+00:00",
+      "NumProgressed": 1355,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -3555,7 +3560,7 @@
       "Name": "On her own",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "AchvBattleScore",
@@ -3571,7 +3576,7 @@
       "Name": "Peacemaker",
       "Percentage": 21,
       "XP": 90,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "AchvBombing",
@@ -3643,7 +3648,7 @@
       "Name": "Volcanologist",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "AchvLeaveNoManBehind",
@@ -3705,9 +3710,9 @@
       "ID": "AchvReachBase",
       "SetID": "1hj060c",
       "Name": "The field base",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 596
+      "UsersEstimate": 583
     },
     {
       "ID": "AchvReachCamp",
@@ -3731,7 +3736,7 @@
       "Name": "The Condor",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "AchvSurvivors",
@@ -3770,7 +3775,7 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1354,
+      "Progressed": 1355,
       "Completed": 0
     }
   ],
@@ -3778,8 +3783,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-03T13:02:33.844766+00:00",
-  "LastChanged_Achievements": "2024-01-04T07:09:46.3627765+00:00",
+  "LastChanged_Achievements": "2024-01-04T08:09:00.4858896+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:20.4992862+00:00",
-  "LastUpdate_Ratings": "2024-01-04T06:58:46.3037085+00:00",
-  "LastUpdate_Achievements": "2024-01-04T07:09:46.3628184+00:00"
+  "LastUpdate_Ratings": "2024-01-04T07:58:21.4828067+00:00",
+  "LastUpdate_Achievements": "2024-01-04T08:09:00.4859201+00:00"
 }

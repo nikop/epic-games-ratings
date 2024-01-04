@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 29,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-04-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-23T00:00:00+00:00",
@@ -2957,9 +2957,9 @@
       "Count": 150
     }
   ],
-  "EOS_Progressed": 677768,
+  "EOS_Progressed": 677774,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 2803,
+  "EOS_NewPlayers": 2801,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32682,6 +32682,11 @@
       "Time": "2024-01-04T07:10:17.0007764+00:00",
       "NumProgressed": 677768,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-04T08:09:30.8236667+00:00",
+      "NumProgressed": 677774,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 52,
@@ -32693,7 +32698,7 @@
       "Name": "Stroller",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 108443
+      "UsersEstimate": 108444
     },
     {
       "ID": "_01_01_DISTANCE_200_EASY",
@@ -32701,7 +32706,7 @@
       "Name": "Hiker",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 81332
+      "UsersEstimate": 81333
     },
     {
       "ID": "_01_02_DISTANCE_500_EASY",
@@ -32733,7 +32738,7 @@
       "Name": "Advanced Stroller",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 128776
+      "UsersEstimate": 128777
     },
     {
       "ID": "_01_06_DISTANCE_200_MEDIUM",
@@ -32941,7 +32946,7 @@
       "Name": "Incurious",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 121998
+      "UsersEstimate": 121999
     },
     {
       "ID": "_03_01_MOJAVE_COURIER",
@@ -33013,7 +33018,7 @@
       "Name": "Climate Change",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 115221
+      "UsersEstimate": 115222
     },
     {
       "ID": "_11_00_FIRE_FIGHTER",
@@ -33108,15 +33113,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 677768,
+      "Progressed": 677774,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2024-01-02T16:58:24.8183051+00:00",
-  "LastChanged_Achievements": "2024-01-04T07:10:17.0007757+00:00",
+  "LastChanged_Achievements": "2024-01-04T08:09:30.8236665+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:40.955753+00:00",
-  "LastUpdate_Ratings": "2024-01-04T06:58:47.1448452+00:00",
-  "LastUpdate_Achievements": "2024-01-04T07:10:17.0009215+00:00"
+  "LastUpdate_Ratings": "2024-01-04T07:58:22.3243998+00:00",
+  "LastUpdate_Achievements": "2024-01-04T08:09:30.8238197+00:00"
 }

@@ -14,10 +14,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Ring of Regeneration | 0.70% | ~1,755 |
 | Are Ya Chicken? | 0.60% | ~1,504 |
 | Fast Food | 0.60% | ~1,302 |
-| Were-verpowered | 0.50% | ~1,253 |
-| Seeking Allies | 0.50% | ~1,253 |
-| Mad Cow Disease | 0.50% | ~1,253 |
-| Friendly Imps | 0.50% | ~1,253 |
+| Were-verpowered | 0.50% | ~1,254 |
+| Seeking Allies | 0.50% | ~1,254 |
+| Mad Cow Disease | 0.50% | ~1,254 |
+| Friendly Imps | 0.50% | ~1,254 |
 | The Overgrown Grove | 0.50% | ~1,085 |
 | Mental Gymnastics | 0.50% | ~1,085 |
 | A Persistent Buzzing | 0.40% | ~1,003 |
@@ -51,6 +51,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Underdeep Cartography | 0.20% | ~501 |
 | Overdue Rendezvous | 0.20% | ~501 |
 | The Templar's Camp | 0.20% | ~501 |
+| The Brains of an Illithid's Desire | 0.20% | ~434 |
 | Pros and CONs | 0.10% | ~251 |
 | Upholding the Law | 0.10% | ~251 |
 | Starving in the Jungle | 0.10% | ~251 |
@@ -551,10 +552,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~217 |
 | See You on the Flipside | 0.10% | ~217 |
 | A Wise Approach | 0.10% | ~217 |
-| The Brains of an Illithid's Desire | 0.10% | ~217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,697 (Ranked 70)  
-Completed: 2,589 (1.03%) (Ranked 170)  
+Progressed: 250,707 (Ranked 70)  
+Completed: 2,590 (1.03%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -812,7 +812,7 @@ Completed: 2,589 (1.03%) (Ranked 170)
 | 2024-01-01 | 249,335 | 2,583 |
 | 2024-01-02 | 250,032 | 2,585 |
 | 2024-01-03 | 250,594 | 2,588 |
-| 2024-01-04 | 250,697 | 2,589 |
+| 2024-01-04 | 250,707 | 2,590 |
 ## Awards
 Max (Great for Beginners): 5,740  (Ranked 72)  
 Sum: 33,304 (Ranked 41)  

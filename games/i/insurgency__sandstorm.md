@@ -7,10 +7,10 @@ Number of Ratings: 1,316  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wallbanger | 5.00% | ~25,953 |
-| Exploitative | 4.00% | ~20,762 |
-| High Speed Low Drag | 4.00% | ~20,762 |
-| Point Shooting | 4.00% | ~20,762 |
-| Wet Feet | 4.00% | ~20,762 |
+| Exploitative | 4.00% | ~20,763 |
+| High Speed Low Drag | 4.00% | ~20,763 |
+| Point Shooting | 4.00% | ~20,763 |
+| Wet Feet | 4.00% | ~20,763 |
 | Lucky | 3.00% | ~15,572 |
 | Stylin' | 3.00% | ~15,572 |
 | Turf War | 3.00% | ~15,572 |
@@ -27,8 +27,8 @@ Number of Ratings: 1,316  (23.09.2022)
 | Efficient | 0.90% | ~4,672 |
 | Mount & Gun | 0.90% | ~4,672 |
 | Personal | 0.90% | ~4,672 |
-| Grounded | 0.80% | ~4,152 |
-| Play to Win | 0.80% | ~4,152 |
+| Grounded | 0.80% | ~4,153 |
+| Play to Win | 0.80% | ~4,153 |
 | Special Delivery | 0.70% | ~3,633 |
 | Firefight Victory | 0.60% | ~3,114 |
 | #1 | 0.60% | ~3,114 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~519 |
 | Road Hazard | 0.10% | ~519 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 519,057 (Ranked 39)  
+Progressed: 519,068 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,10 +301,10 @@ Completed: 2 (0.00%) (Ranked 392)
 | 2024-01-01 | 517,132 | 2 |
 | 2024-01-02 | 517,956 | 2 |
 | 2024-01-03 | 518,784 | 2 |
-| 2024-01-04 | 519,057 | 2 |
+| 2024-01-04 | 519,068 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 415  (Ranked 237)  
-Sum: 3,325 (Ranked 176)  
+Sum: 3,327 (Ranked 176)  
 Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
@@ -313,7 +313,7 @@ Diff (max vs sum): 61
 | This game is Extremely Fun | 387 |
 | This game has Competitive Players | 382 |
 | This game is Highly Recommended | 368 |
-| This game has Realistic Visuals | 360 |
+| This game has Realistic Visuals | 362 |
 | This game has Amazing Characters | 351 |
 | This game has Amazing Storytelling | 341 |
 | This game has a Competitive Community | 313 |
@@ -650,4 +650,4 @@ Diff (max vs sum): 61
 | 2024-01-01 | 4.61 | - | 415 | 3,314 |
 | 2024-01-02 | 4.61 | - | 415 | 3,319 |
 | 2024-01-03 | 4.61 | - | 415 | 3,323 |
-| 2024-01-04 | 4.61 | - | 415 | 3,325 |
+| 2024-01-04 | 4.61 | - | 415 | 3,327 |

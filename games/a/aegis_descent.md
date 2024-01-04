@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sweep | 94.00% | ~417 |
-| Scavenger | 73.00% | ~324 |
+| Clean Sweep | 94.00% | ~418 |
+| Scavenger | 73.00% | ~325 |
 | Line of Duty | 72.00% | ~320 |
-| Gunner | 57.00% | ~253 |
+| Gunner | 57.00% | ~254 |
 | DocKing | 45.00% | ~200 |
 | What-A-Shot | 43.00% | ~191 |
 | Batteries Included | 38.00% | ~169 |
 | Death from Above | 34.00% | ~151 |
-| Hull King | 26.00% | ~115 |
-| Boss Down | 19.00% | ~84 |
-| Extra Ammo | 19.00% | ~84 |
-| Splash Damage | 19.00% | ~84 |
-| Hazardous Duty | 17.00% | ~75 |
+| Hull King | 26.00% | ~116 |
+| Boss Down | 19.00% | ~85 |
+| Extra Ammo | 19.00% | ~85 |
+| Splash Damage | 19.00% | ~85 |
+| Hazardous Duty | 17.00% | ~76 |
 | Perky | 14.00% | ~62 |
 | Perk King | 10.00% | ~44 |
 | Salvage | 10.00% | ~44 |
@@ -24,10 +24,10 @@
 | Shocking | 10.00% | ~44 |
 | Perfect Timing | 9.00% | ~40 |
 | Killer Elite | 6.00% | ~27 |
-| OP | 5.00% | ~22 |
 | Bumper Car | 4.00% | ~18 |
 | The Disruptor | 4.00% | ~18 |
 | First Victory | 4.00% | ~18 |
+| OP | 4.00% | ~18 |
 | Thirty Birds... | 4.00% | ~18 |
 | Early Bird | 3.00% | ~13 |
 | Swiss Cheese | 3.00% | ~13 |
@@ -43,14 +43,14 @@
 | Demolition Derby | 0.70% | ~3 |
 | Military Intelligence | 0.70% | ~3 |
 | Time Run | 0.70% | ~3 |
-| Halfway There | 0.50% | ~2 |
-| Intel King | 0.50% | ~2 |
+| Halfway There | 0.40% | ~2 |
+| Intel King | 0.40% | ~2 |
 | Big Spender | 0.20% | ~1 |
 | Burn Them | 0.20% | ~1 |
 | Final Ascension | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 444 (Ranked 356)  
-Completed: 1 (0.23%) (Ranked 268)  
+Progressed: 445 (Ranked 356)  
+Completed: 1 (0.22%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -123,7 +123,7 @@ Completed: 1 (0.23%) (Ranked 268)
 | 2023-12-29 | 441 | 1 |
 | 2023-12-30 | 442 | 1 |
 | 2024-01-01 | 443 | 1 |
-| 2024-01-04 | 444 | 1 |
+| 2024-01-04 | 445 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

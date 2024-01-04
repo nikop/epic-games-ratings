@@ -5,19 +5,19 @@ Rating: 4.52 (Ranked 573)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 74.00% | ~1,077 |
-| I Broke It | 73.00% | ~1,063 |
-| Better On Ice | 68.00% | ~990 |
-| Notai Notes | 66.00% | ~961 |
-| Blue Dreams | 65.00% | ~946 |
-| He's Famous! | 65.00% | ~946 |
-| Cutie Poro | 65.00% | ~946 |
-| Krugmazing | 63.00% | ~917 |
+| Feels Familiar | 74.00% | ~1,078 |
+| I Broke It | 73.00% | ~1,064 |
+| Better On Ice | 67.00% | ~976 |
+| Notai Notes | 66.00% | ~962 |
+| Blue Dreams | 65.00% | ~947 |
+| He's Famous! | 65.00% | ~947 |
+| Cutie Poro | 65.00% | ~947 |
+| Krugmazing | 63.00% | ~918 |
 | Moneyball | 60.00% | ~874 |
 | The Fire Below the Mountain | 60.00% | ~874 |
 | Iceborn | 55.00% | ~801 |
-| No Bites | 54.00% | ~786 |
-| Boom Things | 52.00% | ~757 |
+| No Bites | 54.00% | ~787 |
+| Boom Things | 52.00% | ~758 |
 | Tear of Freedom | 51.00% | ~743 |
 | My Darkest Day | 48.00% | ~699 |
 | Rhythm Of Willump | 46.00% | ~670 |
@@ -31,14 +31,14 @@ Rating: 4.52 (Ranked 573)
 | Biggest Snowball Ever | 39.00% | ~568 |
 | Boosted! | 39.00% | ~568 |
 | Deadliest and Biggest Snowball Ever! | 39.00% | ~568 |
-| Freeze The Ice Witch | 38.00% | ~553 |
-| True Legends | 38.00% | ~553 |
-| Bullseye | 36.00% | ~524 |
+| Freeze The Ice Witch | 38.00% | ~554 |
+| True Legends | 38.00% | ~554 |
+| Bullseye | 36.00% | ~525 |
 | It Is Not Over | 35.00% | ~510 |
-| On The Rocks | 33.00% | ~480 |
+| On The Rocks | 33.00% | ~481 |
 | Snowy Poro | 32.00% | ~466 |
 | Never Gets Old | 32.00% | ~466 |
-| Vertical Power | 27.00% | ~393 |
+| Vertical Power | 26.00% | ~379 |
 | One From The Heart | 13.00% | ~189 |
 | Yummy | 10.00% | ~146 |
 | Snowball Fightn't | 9.00% | ~131 |
@@ -50,7 +50,7 @@ Rating: 4.52 (Ranked 573)
 | We Are Speed | 2.00% | ~29 |
 | Sneaky Notai | 1.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,456 (Ranked 265)  
+Progressed: 1,457 (Ranked 265)  
 Completed: 9 (0.62%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 9 (0.62%) (Ranked 203)
 | 2024-01-01 | 1,425 | 9 |
 | 2024-01-02 | 1,441 | 9 |
 | 2024-01-03 | 1,451 | 9 |
-| 2024-01-04 | 1,456 | 9 |
+| 2024-01-04 | 1,457 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

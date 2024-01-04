@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 177,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 3802,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3749,9 +3749,9 @@
       "Count": 338
     }
   ],
-  "EOS_Progressed": 20081,
+  "EOS_Progressed": 20087,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 599,
+  "EOS_NewPlayers": 602,
   "EOS_NewCompleters": -3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -18344,6 +18344,11 @@
       "Time": "2024-01-04T07:05:22.802604+00:00",
       "NumProgressed": 20081,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2024-01-04T08:04:59.2693328+00:00",
+      "NumProgressed": 20087,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -18436,7 +18441,7 @@
       "Name": "Homesick",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "WinFirstGame",
@@ -18468,7 +18473,7 @@
       "Name": "Ruined Armory",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "WinNearBandit",
@@ -18516,7 +18521,7 @@
       "Name": "Fertile Meadows",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "WinNearFishmen",
@@ -18548,7 +18553,7 @@
       "Name": "Levitating Monument",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "WinNearMines",
@@ -18564,7 +18569,7 @@
       "Name": "Monastery of the Holy Flame",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "WinNearOutpost",
@@ -18580,7 +18585,7 @@
       "Name": "Lost Colonies",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "WinNearStatue",
@@ -18668,7 +18673,7 @@
       "Name": "A Real Challenge",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "WinWIthCaches",
@@ -18716,7 +18721,7 @@
       "Name": "Like a Machine",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "WinWithTradeRoutes",
@@ -18724,7 +18729,7 @@
       "Name": "Trade Baron",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "WinWithoutDeath",
@@ -18756,7 +18761,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1606
+      "UsersEstimate": 1607
     },
     {
       "ID": "WinNearFrosts",
@@ -18780,7 +18785,7 @@
       "Name": "Overgrown Library",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1606
+      "UsersEstimate": 1607
     },
     {
       "ID": "WinNearPetrified",
@@ -18812,7 +18817,7 @@
       "Name": "Untamed Wilds",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "WinWithFoxes",
@@ -18827,15 +18832,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20081,
+      "Progressed": 20087,
       "Completed": 33
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-03T18:59:48.2752359+00:00",
-  "LastChanged_Achievements": "2024-01-04T07:05:22.8026036+00:00",
+  "LastChanged_Achievements": "2024-01-04T08:04:59.2693324+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:03.5085053+00:00",
-  "LastUpdate_Ratings": "2024-01-04T06:59:11.5110806+00:00",
-  "LastUpdate_Achievements": "2024-01-04T07:05:22.8027215+00:00"
+  "LastUpdate_Ratings": "2024-01-04T07:58:47.553251+00:00",
+  "LastUpdate_Achievements": "2024-01-04T08:04:59.2694516+00:00"
 }

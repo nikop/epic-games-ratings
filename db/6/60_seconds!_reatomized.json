@@ -269,7 +269,7 @@
   "Tags": [],
   "EOS_Progressed": 6064,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -8881,9 +8881,9 @@
       "ID": "ACH_BUG_KILLER",
       "SetID": "5nj1ea3",
       "Name": "Bughunter",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_CAT",
@@ -9290,8 +9290,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2024-01-01T23:57:38.3248259+00:00",
-  "LastChanged_Achievements": "2024-01-04T07:05:38.5728555+00:00",
+  "LastChanged_Achievements": "2024-01-04T08:05:12.3271317+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:20.1950807+00:00",
-  "LastUpdate_Ratings": "2024-01-04T06:58:45.6407148+00:00",
-  "LastUpdate_Achievements": "2024-01-04T07:05:38.5729454+00:00"
+  "LastUpdate_Ratings": "2024-01-04T07:58:20.7598737+00:00",
+  "LastUpdate_Achievements": "2024-01-04T08:05:12.327231+00:00"
 }

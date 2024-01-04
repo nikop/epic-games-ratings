@@ -5,35 +5,35 @@ Rating: 4.33 (Ranked 846)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start | 76.00% | ~1,053 |
-| And so it begins | 72.00% | ~998 |
-| No pressure | 70.00% | ~970 |
+| Good start | 76.00% | ~1,054 |
+| And so it begins | 72.00% | ~999 |
+| No pressure | 70.00% | ~971 |
 | Memento | 60.00% | ~832 |
-| Let there be light | 57.00% | ~790 |
+| Let there be light | 57.00% | ~791 |
 | I think you dropped this | 53.00% | ~735 |
 | Soulmate? | 51.00% | ~707 |
-| Excellent service | 47.00% | ~651 |
+| Excellent service | 47.00% | ~652 |
 | Roll with it | 44.00% | ~610 |
-| Humble beginnings | 42.00% | ~582 |
-| Love is in the air | 41.00% | ~568 |
-| Fine, I'll do it myself | 40.00% | ~554 |
-| Moving up | 40.00% | ~554 |
+| Humble beginnings | 42.00% | ~583 |
+| Love is in the air | 41.00% | ~569 |
+| Fine, I'll do it myself | 40.00% | ~555 |
+| Moving up | 40.00% | ~555 |
 | No need to call anyone | 38.00% | ~527 |
 | Big fortune | 31.00% | ~430 |
 | Still more work ahead | 28.00% | ~388 |
 | Aesop's fable | 27.00% | ~374 |
-| Kaboom | 26.00% | ~360 |
-| Hotel sleuthing | 26.00% | ~360 |
+| Kaboom | 26.00% | ~361 |
+| Hotel sleuthing | 26.00% | ~361 |
 | Nearly there | 24.00% | ~333 |
 | Broken heart | 22.00% | ~305 |
 | Island boy | 21.00% | ~291 |
 | You're a star | 20.00% | ~277 |
-| Unstoppable | 18.00% | ~249 |
-| Reunited | 18.00% | ~249 |
-| King of hospitality | 11.00% | ~152 |
+| Unstoppable | 18.00% | ~250 |
+| Reunited | 18.00% | ~250 |
+| King of hospitality | 11.00% | ~153 |
 | Top spot in town | 2.00% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,386 (Ranked 269)  
+Progressed: 1,387 (Ranked 269)  
 Completed: 18 (1.30%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 18 (1.30%) (Ranked 153)
 | 2024-01-01 | 1,377 | 18 |
 | 2024-01-02 | 1,383 | 18 |
 | 2024-01-03 | 1,384 | 18 |
-| 2024-01-04 | 1,386 | 18 |
+| 2024-01-04 | 1,387 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

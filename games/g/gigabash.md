@@ -5,13 +5,13 @@ Rating: 4.53 (Ranked 562)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 18.00% | ~20,931 |
-| I've Had Enough! | 14.00% | ~16,280 |
-| Fists, Fury & a lot of Rage | 10.00% | ~11,629 |
-| Seasoned Fighter | 8.00% | ~9,303 |
-| All For One and One For All | 7.00% | ~8,140 |
-| A New Age | 5.00% | ~5,814 |
-| Home Sweet Home? | 5.00% | ~5,814 |
+| All Grown Up! | 18.00% | ~20,937 |
+| I've Had Enough! | 14.00% | ~16,284 |
+| Fists, Fury & a lot of Rage | 10.00% | ~11,631 |
+| Seasoned Fighter | 8.00% | ~9,305 |
+| All For One and One For All | 7.00% | ~8,142 |
+| A New Age | 5.00% | ~5,816 |
+| Home Sweet Home? | 5.00% | ~5,816 |
 | Oh Baby, A Triple | 3.00% | ~3,489 |
 | Symbiotic | 3.00% | ~3,489 |
 | Battle Hardened | 2.00% | ~2,326 |
@@ -24,13 +24,13 @@ Rating: 4.53 (Ranked 562)
 | Spectacular Finisher | 1.00% | ~1,163 |
 | Katamari | 0.90% | ~1,047 |
 | Zero-sum Game | 0.90% | ~1,047 |
-| Ninja Reflex | 0.80% | ~930 |
+| Ninja Reflex | 0.80% | ~931 |
 | Taste Your Own Medicine | 0.70% | ~814 |
-| This is GigaBash! | 0.50% | ~581 |
+| This is GigaBash! | 0.50% | ~582 |
 | Just Getting Warmed Up | 0.40% | ~465 |
 | Sidetracked... | 0.40% | ~465 |
-| Top of the Food Chain | 0.40% | ~465 |
 | Eye of the Titan | 0.30% | ~349 |
+| Top of the Food Chain | 0.30% | ~349 |
 | Let Them Fight | 0.20% | ~233 |
 | Apex Mode | 0.20% | ~233 |
 | 5 Stages of Grief | 0.10% | ~116 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 562)
 | What's Mine is Yours | 0.10% | ~116 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 116,286 (Ranked 93)  
+Progressed: 116,314 (Ranked 93)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-01 | 114,465 | 0 |
 | 2024-01-02 | 115,313 | 0 |
 | 2024-01-03 | 116,064 | 0 |
-| 2024-01-04 | 116,286 | 0 |
+| 2024-01-04 | 116,314 | 0 |
 ## Awards
 Max (Great Boss Battles): 48  (Ranked 458)  
 Sum: 48 (Ranked 509)  

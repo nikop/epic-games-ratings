@@ -6,7 +6,7 @@
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 143,
-  "Ranking_EOS_Completed": 139,
+  "Ranking_EOS_Completed": 138,
   "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
@@ -425,9 +425,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 27889,
+  "EOS_Progressed": 27890,
   "EOS_Completed": 511,
-  "EOS_NewPlayers": 611,
+  "EOS_NewPlayers": 609,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.83,
   "EosHistory": [
@@ -28315,6 +28315,11 @@
       "Time": "2024-01-04T07:04:33.0370965+00:00",
       "NumProgressed": 27889,
       "NumCompleted": 511
+    },
+    {
+      "Time": "2024-01-04T08:04:08.7048613+00:00",
+      "NumProgressed": 27890,
+      "NumCompleted": 511
     }
   ],
   "TotalAchievements": 20,
@@ -28342,7 +28347,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3904
+      "UsersEstimate": 3905
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -28390,7 +28395,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3904
+      "UsersEstimate": 3905
     },
     {
       "ID": "FOUND_ERIN",
@@ -28485,15 +28490,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 27889,
+      "Progressed": 27890,
       "Completed": 511
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2024-01-04T06:57:48.8328887+00:00",
-  "LastChanged_Achievements": "2024-01-04T07:04:33.0370962+00:00",
+  "LastChanged_Achievements": "2024-01-04T08:04:08.7048609+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:39.3353951+00:00",
-  "LastUpdate_Ratings": "2024-01-04T06:57:48.8328893+00:00",
-  "LastUpdate_Achievements": "2024-01-04T07:04:33.0372144+00:00"
+  "LastUpdate_Ratings": "2024-01-04T07:57:24.602087+00:00",
+  "LastUpdate_Achievements": "2024-01-04T08:04:08.7049935+00:00"
 }

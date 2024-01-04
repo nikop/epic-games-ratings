@@ -6,8 +6,8 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Abandoned Settlement | 8.00% | ~1,606 |
-| Overgrown Library | 8.00% | ~1,606 |
+| Abandoned Settlement | 8.00% | ~1,607 |
+| Overgrown Library | 8.00% | ~1,607 |
 | First Real Expedition | 7.00% | ~1,406 |
 | Taking Action | 7.00% | ~1,406 |
 | No Deaths | 7.00% | ~1,406 |
@@ -22,15 +22,15 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ominous Presence | 5.00% | ~1,004 |
 | Royal Outpost | 4.00% | ~803 |
 | Watchtower | 4.00% | ~803 |
-| Homesick | 3.00% | ~602 |
-| Ruined Armory | 3.00% | ~602 |
-| Fertile Meadows | 3.00% | ~602 |
-| Levitating Monument | 3.00% | ~602 |
-| Monastery of the Holy Flame | 3.00% | ~602 |
-| Lost Colonies | 3.00% | ~602 |
-| A Real Challenge | 3.00% | ~602 |
-| Trade Baron | 3.00% | ~602 |
-| Untamed Wilds | 3.00% | ~602 |
+| Homesick | 3.00% | ~603 |
+| Ruined Armory | 3.00% | ~603 |
+| Fertile Meadows | 3.00% | ~603 |
+| Levitating Monument | 3.00% | ~603 |
+| Monastery of the Holy Flame | 3.00% | ~603 |
+| Lost Colonies | 3.00% | ~603 |
+| A Real Challenge | 3.00% | ~603 |
+| Trade Baron | 3.00% | ~603 |
+| Untamed Wilds | 3.00% | ~603 |
 | Against All Odds | 2.00% | ~402 |
 | Bandit Camp | 2.00% | ~402 |
 | Barren Lands | 2.00% | ~402 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Defying the Crown | 1.00% | ~201 |
 | Into the Forest | 1.00% | ~201 |
 | Feeding The People | 0.70% | ~141 |
-| Like a Machine | 0.60% | ~120 |
+| Like a Machine | 0.60% | ~121 |
 | Fox Utopia | 0.50% | ~100 |
 | Prestigious Expedition | 0.40% | ~80 |
 | Blood Flower Farmer | 0.40% | ~80 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,081 (Ranked 152)  
+Progressed: 20,087 (Ranked 152)  
 Completed: 33 (0.16%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 33 (0.16%) (Ranked 282)
 | 2024-01-01 | 19,919 | 33 |
 | 2024-01-02 | 19,991 | 33 |
 | 2024-01-03 | 20,065 | 33 |
-| 2024-01-04 | 20,081 | 33 |
+| 2024-01-04 | 20,087 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 447  (Ranked 230)  
 Sum: 3,324 (Ranked 177)  

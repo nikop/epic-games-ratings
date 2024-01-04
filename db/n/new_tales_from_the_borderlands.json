@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -177,9 +177,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3791,
+  "EOS_Progressed": 3792,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2212,6 +2212,11 @@
       "Time": "2024-01-04T06:06:50.8488128+00:00",
       "NumProgressed": 3791,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T08:05:20.0012604+00:00",
+      "NumProgressed": 3792,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -2223,7 +2228,7 @@
       "Name": "You\u0027re Not Naked",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1137
+      "UsersEstimate": 1138
     },
     {
       "ID": "BUY_EVERY_COSMETIC_ITEM",
@@ -2271,7 +2276,7 @@
       "Name": "From Zeroes...",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 1099
+      "UsersEstimate": 1100
     },
     {
       "ID": "FINISH_EPISODE_2",
@@ -2303,7 +2308,7 @@
       "Name": "...To Heroes",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "FINISH_GAME_W_GOOD_SKATE_RAT",
@@ -2319,7 +2324,7 @@
       "Name": "Tale in the Toilet",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1137
+      "UsersEstimate": 1138
     },
     {
       "ID": "GET_MONEY_SINK_OR_SWIM",
@@ -2343,7 +2348,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1933
+      "UsersEstimate": 1934
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -2423,14 +2428,14 @@
       "Name": "Mas, Por Favor",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     }
   ],
   "AchievementSets": [
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3791,
+      "Progressed": 3792,
       "Completed": 0
     }
   ],
@@ -2438,8 +2443,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2024-01-04T07:05:46.0446794+00:00",
+  "LastChanged_Achievements": "2024-01-04T08:05:20.0012599+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:14.9604799+00:00",
-  "LastUpdate_Ratings": "2024-01-04T06:58:59.0728995+00:00",
-  "LastUpdate_Achievements": "2024-01-04T07:05:46.0447153+00:00"
+  "LastUpdate_Ratings": "2024-01-04T07:58:33.8848463+00:00",
+  "LastUpdate_Achievements": "2024-01-04T08:05:20.0012919+00:00"
 }

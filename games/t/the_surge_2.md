@@ -5,17 +5,17 @@ Rating: 4.27 (Ranked 897)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 79.00% | ~1,942 |
+| Rigged And Ready | 79.00% | ~1,943 |
 | Don't I Know You...? | 75.00% | ~1,844 |
 | Jailbreak | 65.00% | ~1,598 |
-| Suited and Booted | 38.00% | ~934 |
-| HEADSHOT! | 37.00% | ~909 |
-| Sleeping With The Fishes | 35.00% | ~860 |
-| Overheated | 30.00% | ~737 |
-| High Performance | 30.00% | ~737 |
-| Powered Up | 28.00% | ~688 |
+| HEADSHOT! | 37.00% | ~910 |
+| Suited and Booted | 37.00% | ~910 |
+| Sleeping With The Fishes | 35.00% | ~861 |
+| Overheated | 30.00% | ~738 |
+| High Performance | 30.00% | ~738 |
+| Powered Up | 28.00% | ~689 |
 | Studied The Blade | 24.00% | ~590 |
-| Home Invasion | 22.00% | ~541 |
+| Home Invasion | 23.00% | ~566 |
 | Luminary | 22.00% | ~541 |
 | It's a Trap | 22.00% | ~541 |
 | True Survivor | 21.00% | ~516 |
@@ -23,7 +23,7 @@ Rating: 4.27 (Ranked 897)
 | Shocking | 20.00% | ~492 |
 | Court Martial | 19.00% | ~467 |
 | Unforeseeable Consequences | 19.00% | ~467 |
-| Clean Cut | 18.00% | ~442 |
+| Clean Cut | 18.00% | ~443 |
 | Dead Again | 17.00% | ~418 |
 | Full Arsenal | 17.00% | ~418 |
 | Can't Trust Banks | 15.00% | ~369 |
@@ -42,9 +42,9 @@ Rating: 4.27 (Ranked 897)
 | Following In Their Footsteps | 8.00% | ~197 |
 | Defense in Depth | 8.00% | ~197 |
 | Reverse Engineering | 7.00% | ~172 |
-| Remote Surgery | 6.00% | ~147 |
-| Turbo Booster | 6.00% | ~147 |
-| Squid Pro Quo | 6.00% | ~147 |
+| Remote Surgery | 6.00% | ~148 |
+| Turbo Booster | 6.00% | ~148 |
+| Squid Pro Quo | 6.00% | ~148 |
 | Reborn | 5.00% | ~123 |
 | Hello Darkness My Old Friend | 5.00% | ~123 |
 | Counter-Sniper | 5.00% | ~123 |
@@ -63,7 +63,7 @@ Rating: 4.27 (Ranked 897)
 | Three Birds With One Stone | 1.00% | ~25 |
 | The Easy Way Out | 1.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,458 (Ranked 234)  
+Progressed: 2,459 (Ranked 234)  
 Completed: 13 (0.53%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 13 (0.53%) (Ranked 214)
 | 2024-01-01 | 2,442 | 13 |
 | 2024-01-02 | 2,447 | 13 |
 | 2024-01-03 | 2,457 | 13 |
-| 2024-01-04 | 2,458 | 13 |
+| 2024-01-04 | 2,459 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

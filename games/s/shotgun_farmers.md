@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 81.00% | ~299 |
-| First Blood | 64.00% | ~236 |
+| Seeds of War | 81.00% | ~300 |
+| First Blood | 64.00% | ~237 |
 | Triple Kill | 62.00% | ~229 |
-| Aspairagus | 60.00% | ~191 |
-| No Asperascope | 57.00% | ~210 |
+| Aspairagus | 60.00% | ~192 |
+| No Asperascope | 57.00% | ~211 |
 | Survivor | 56.00% | ~179 |
-| Cornivore | 54.00% | ~199 |
+| Cornivore | 54.00% | ~200 |
 | I Believe I Can Fly | 49.00% | ~181 |
-| No Diggity | 44.00% | ~140 |
-| Early Survivor | 40.00% | ~128 |
+| No Diggity | 44.00% | ~141 |
+| Early Survivor | 39.00% | ~125 |
 | Bouncemato | 31.00% | ~99 |
 | 10K | 29.00% | ~107 |
-| Amateur Survivor | 28.00% | ~89 |
-| 15K | 27.00% | ~100 |
+| Amateur Survivor | 28.00% | ~90 |
+| 15K | 26.00% | ~96 |
 | Drinking Problem | 22.00% | ~81 |
 | Grave Digger | 22.00% | ~70 |
-| Pork Chop Express | 21.00% | ~77 |
+| Pork Chop Express | 21.00% | ~78 |
 | Quick-Draw Pod | 21.00% | ~67 |
 | Professional Survivor | 19.00% | ~61 |
 | Skin Of Your Teeth | 17.00% | ~63 |
@@ -29,14 +29,14 @@
 | This Is My Boomstick | 16.00% | ~51 |
 | Eggtraordinary | 14.00% | ~52 |
 | Oh My Gourd | 14.00% | ~45 |
-| Perfect | 13.00% | ~41 |
+| Perfect | 13.00% | ~42 |
 | Summers Here | 12.00% | ~38 |
 | Quit Horsin' Around | 11.00% | ~41 |
 | Fresh Pancake | 10.00% | ~37 |
 | Quadsparagus | 10.00% | ~32 |
 | Bring Home The Bacon | 8.00% | ~30 |
 | Expert Survivor | 8.00% | ~26 |
-| Early Bird | 7.00% | ~26 |
+| Early Bird | 6.00% | ~22 |
 | Chick Magnet | 5.00% | ~18 |
 | I Have The High Ground | 5.00% | ~18 |
 | Pyromaniac | 5.00% | ~16 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 369 (Ranked 372)  
+Progressed: 370 (Ranked 372)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,6 +239,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2023-12-31 | 365 | 0 |
 | 2024-01-01 | 366 | 0 |
 | 2024-01-03 | 369 | 0 |
+| 2024-01-04 | 370 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
