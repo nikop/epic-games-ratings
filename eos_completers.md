@@ -59,9 +59,9 @@
 | 56 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
 | 58 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.25% |
 | 59 | [Sonic Origins](games/s/sonic_origins.md) | 7.11% |
-| 60 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.92% |
-| 61 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 6.90% |
-| 61 | [Scorn](games/s/scorn.md) | 6.90% |
+| 60 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.90% |
+| 60 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 6.90% |
+| 60 | [Scorn](games/s/scorn.md) | 6.90% |
 | 63 | [Time Loader](games/t/time_loader.md) | 6.47% |
 | 64 | [Anna's Quest](games/a/anna's_quest.md) | 6.45% |
 | 65 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.27% |
@@ -96,7 +96,7 @@
 | 94 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.72% |
 | 95 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.70% |
 | 96 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.66% |
-| 96 | [Doodle God](games/d/doodle_god.md) | 3.66% |
+| 97 | [Doodle God](games/d/doodle_god.md) | 3.65% |
 | 98 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 3.57% |
 | 99 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.49% |
 | 100 | [Thunder Ray](games/3/3c59565688c94fa2807baaa19ed62478.md) | 3.45% |
@@ -192,7 +192,7 @@
 | 190 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 0.78% |
 | 191 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
 | 192 | [Infindustry](games/i/infindustry.md) | 0.75% |
-| 193 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 0.73% |
+| 193 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 0.72% |
 | 194 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 0.71% |
 | 195 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 0.70% |
 | 195 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.70% |
@@ -334,6 +334,7 @@
 | 327 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
 | 333 | [Absolute Drift](games/a/absolute_drift.md) | 0.05% |
 | 333 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.05% |
+| 333 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.05% |
 | 333 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
 | 333 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.05% |
 | 333 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.05% |
@@ -344,19 +345,18 @@
 | 333 | [Operation New Earth](games/o/operation_new_earth.md) | 0.05% |
 | 333 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.05% |
 | 333 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.05% |
-| 345 | [House Party](games/h/house_party.md) | 0.04% |
-| 345 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.04% |
-| 345 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.04% |
-| 345 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 0.04% |
-| 345 | [Transport Fever 2](games/t/transport_fever_2.md) | 0.04% |
-| 350 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.03% |
-| 350 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 0.03% |
-| 350 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.03% |
-| 350 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
-| 350 | [Old World](games/o/old_world.md) | 0.03% |
-| 350 | [Saturnalia](games/s/saturnalia.md) | 0.03% |
-| 350 | [STAR WARS™ Battlefront™ II: Celebration Edition](games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 0.03% |
-| 350 | [Tropico 6](games/t/tropico_6.md) | 0.03% |
+| 346 | [House Party](games/h/house_party.md) | 0.04% |
+| 346 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.04% |
+| 346 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.04% |
+| 346 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 0.04% |
+| 346 | [Transport Fever 2](games/t/transport_fever_2.md) | 0.04% |
+| 351 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 0.03% |
+| 351 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.03% |
+| 351 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
+| 351 | [Old World](games/o/old_world.md) | 0.03% |
+| 351 | [Saturnalia](games/s/saturnalia.md) | 0.03% |
+| 351 | [STAR WARS™ Battlefront™ II: Celebration Edition](games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 0.03% |
+| 351 | [Tropico 6](games/t/tropico_6.md) | 0.03% |
 | 358 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.02% |
 | 358 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 0.02% |
 | 358 | [Arcadegeddon](games/a/arcadegeddon.md) | 0.02% |

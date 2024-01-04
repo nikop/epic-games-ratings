@@ -140,7 +140,7 @@
 | 130 | [Legend Bowl](games/l/legend_bowl.md) | 4.76 | 0 | 578 |
 | 130 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.76 | 0 | 578 |
 | 130 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,776 | 128 |
-| 130 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 13,595 | 32 |
+| 130 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 13,628 | 32 |
 | 130 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.76 | 109 | 364 |
 | 130 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.76 | 56 | 435 |
 | 130 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.76 | 0 | 578 |
@@ -248,7 +248,7 @@
 | 233 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,232 | 145 |
 | 233 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 578 |
 | 233 | [Pikuniku](games/p/pikuniku.md) | 4.69 | 0 | 578 |
-| 233 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,799 | 36 |
+| 233 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,808 | 36 |
 | 233 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.69 | 62 | 423 |
 | 233 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 483 | 222 |
 | 233 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 29 | 523 |
@@ -259,7 +259,7 @@
 | 233 | [The Red Lantern](games/t/the_red_lantern.md) | 4.69 | 0 | 578 |
 | 233 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 1,078 | 152 |
 | 233 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 869 | 173 |
-| 260 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,402 | 98 |
+| 260 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,406 | 98 |
 | 260 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 4,107 | 88 |
 | 260 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 714 | 192 |
 | 260 | [BLACKTAIL](games/b/blacktail.md) | 4.68 | 0 | 578 |
@@ -378,7 +378,7 @@
 | 376 | [7 Billion Humans](games/7/7_billion_humans.md) | 4.62 | 0 | 578 |
 | 376 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.62 | 40 | 479 |
 | 376 | [Aimlabs](games/a/aimlabs.md) | 4.62 | 79 | 400 |
-| 376 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.62 | 952 | 165 |
+| 376 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.62 | 956 | 165 |
 | 376 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.62 | 396 | 238 |
 | 376 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.62 | 0 | 578 |
 | 376 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 293 | 263 |
@@ -654,7 +654,7 @@
 | 651 | [ATOM RPG](games/a/atom_rpg.md) | 4.48 | 52 | 442 |
 | 651 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 96 | 383 |
 | 651 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.48 | 280 | 267 |
-| 651 | [First Class Trouble](games/f/first_class_trouble.md) | 4.48 | 146 | 330 |
+| 651 | [First Class Trouble](games/f/first_class_trouble.md) | 4.48 | 147 | 328 |
 | 651 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.48 | 322 | 255 |
 | 651 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 0 | 578 |
 | 651 | [WRC Generations](games/w/wrc_generations.md) | 4.48 | 25 | 546 |
@@ -836,7 +836,7 @@
 | 834 | [Among Trees](games/a/among_trees.md) | 4.34 | 0 | 578 |
 | 834 | [Ashen](games/a/ashen.md) | 4.34 | 0 | 578 |
 | 834 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 536 |
-| 834 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 124 | 351 |
+| 834 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 125 | 349 |
 | 834 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.34 | 107 | 366 |
 | 834 | [Dark Light](games/d/dark_light.md) | 4.34 | 0 | 578 |
 | 834 | [Encased](games/e/encased.md) | 4.34 | 163 | 322 |

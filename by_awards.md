@@ -31,11 +31,11 @@
 | 29 | [Killing Floor 2](games/k/killing_floor_2.md) | 14,135 | 4.43 | 720 |
 | 30 | [Maneater](games/m/maneater.md) | 13,913 | 4.49 | 634 |
 | 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 13,805 | 4.85 | 40 |
-| 32 | [SnowRunner](games/s/snowrunner.md) | 13,595 | 4.76 | 130 |
+| 32 | [SnowRunner](games/s/snowrunner.md) | 13,628 | 4.76 | 130 |
 | 33 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 12,872 | 4.45 | 687 |
 | 34 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,812 | 4.36 | 808 |
 | 35 | [NBA 2K21](games/n/nba_2k21.md) | 11,812 | 4.39 | 777 |
-| 36 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,799 | 4.69 | 233 |
+| 36 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,808 | 4.69 | 233 |
 | 37 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 11,748 | 4.58 | 467 |
 | 38 | [HITMAN World of Assassination](games/h/hitman_3.md) | 11,287 | 4.77 | 116 |
 | 39 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 10,746 | 4.61 | 400 |
@@ -97,7 +97,7 @@
 | 95 | [Hades](games/h/hades.md) | 3,503 | 4.92 | 4 |
 | 96 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,441 | 4.76 | 130 |
 | 97 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,425 | 4.57 | 490 |
-| 98 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,402 | 4.68 | 260 |
+| 98 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,406 | 4.68 | 260 |
 | 99 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 3,269 | 4.50 | 614 |
 | 100 | [Gotham Knights](games/g/gotham_knights.md) | 3,120 | 4.18 | 972 |
 | 101 | [Among Us](games/a/among_us.md) | 2,997 | 4.56 | 503 |
@@ -164,7 +164,7 @@
 | 162 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 990 | 4.61 | 400 |
 | 163 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 983 | 4.56 | 503 |
 | 164 | [Sonic Mania](games/s/sonic_mania.md) | 980 | 4.77 | 116 |
-| 165 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 952 | 4.62 | 376 |
+| 165 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 956 | 4.62 | 376 |
 | 166 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 949 | 4.50 | 614 |
 | 167 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 909 | 4.45 | 687 |
 | 168 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 903 | 4.75 | 146 |
@@ -327,9 +327,9 @@
 | 324 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 156 | 4.58 | 467 |
 | 326 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 155 | 4.77 | 116 |
 | 327 | [Timberborn](games/t/timberborn.md) | 153 | 4.73 | 176 |
+| 328 | [First Class Trouble](games/f/first_class_trouble.md) | 147 | 4.48 | 651 |
 | 328 | [Night in the Woods](games/n/night_in_the_woods.md) | 147 | 4.72 | 191 |
 | 328 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 147 | 4.75 | 146 |
-| 330 | [First Class Trouble](games/f/first_class_trouble.md) | 146 | 4.48 | 651 |
 | 331 | [Atomicrops](games/a/atomicrops.md) | 143 | 4.86 | 31 |
 | 332 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 141 | 4.51 | 592 |
 | 332 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 141 | 4.70 | 217 |
@@ -348,9 +348,9 @@
 | 344 | [Tropico 5](games/t/tropico_5.md) | 127 | 4.44 | 702 |
 | 347 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 126 | 4.77 | 116 |
 | 347 | [Returnal™](games/r/returnal™.md) | 126 | 4.62 | 376 |
+| 349 | [BIOMUTANT](games/b/biomutant.md) | 125 | 4.34 | 834 |
 | 349 | [Cave Story+](games/c/cave_story+.md) | 125 | 4.69 | 233 |
 | 349 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 125 | 4.38 | 787 |
-| 351 | [BIOMUTANT](games/b/biomutant.md) | 124 | 4.34 | 834 |
 | 352 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 122 | 4.34 | 834 |
 | 353 | [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 119 | 4.52 | 573 |
 | 353 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 119 | 4.64 | 343 |
