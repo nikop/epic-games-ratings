@@ -2,9 +2,9 @@
   "ID": "aa192fc2c63f4db5b9faf193acc807e1",
   "Name": "Creepy Tale",
   "ProductSlug": "creepy-tale-058ebd",
-  "Ranking_EOS_Progress": 412,
+  "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 245,
+  "EOS_Progressed": 246,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.08,
+  "EOS_Completed_Percentage": 4.07,
   "EosHistory": [
     {
       "Time": "2023-10-22T10:08:20.3379882+00:00",
@@ -1079,6 +1079,11 @@
       "Time": "2024-01-04T10:10:08.4144256+00:00",
       "NumProgressed": 245,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-04T12:09:41.6890032+00:00",
+      "NumProgressed": 246,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-10-22T10:08:20.3379913+00:00",
@@ -1089,9 +1094,9 @@
       "ID": "creepytaleach1",
       "SetID": "bnif31p",
       "Name": "Follow to the brother",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 75,
-      "UsersEstimate": 39
+      "UsersEstimate": 37
     },
     {
       "ID": "creepytaleach10",
@@ -1194,14 +1199,14 @@
     {
       "ID": "bnif31p",
       "IsBase": true,
-      "Progressed": 245,
+      "Progressed": 246,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2024-01-04T11:11:17.2130475+00:00",
+  "LastChanged_Achievements": "2024-01-04T12:09:41.6890027+00:00",
   "LastUpdate_AppInfo": "2024-01-03T07:57:06.3288119+00:00",
-  "LastUpdate_Ratings": "2024-01-04T11:02:11.1104966+00:00",
-  "LastUpdate_Achievements": "2024-01-04T11:11:17.2130623+00:00"
+  "LastUpdate_Ratings": "2024-01-04T12:00:14.893296+00:00",
+  "LastUpdate_Achievements": "2024-01-04T12:09:41.6890195+00:00"
 }

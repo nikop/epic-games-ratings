@@ -4,8 +4,8 @@
   "ProductSlug": "godzillawars-2c30e4",
   "Ranking_EOS_Progress": 576,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 455,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 457,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-08T03:00:00+00:00",
     "PcReleaseDate": "2023-11-04T03:00:00+00:00",
@@ -353,9 +353,9 @@
       "ID": "ClearStageFirst",
       "SetID": "59jf8f5",
       "Name": "The First Mushroom Hunt",
-      "Percentage": 86,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ClearStory",
@@ -537,9 +537,9 @@
       "ID": "KillEnemyByPlayerKnockback",
       "SetID": "59jf8f5",
       "Name": "Earned Through Sacrifice",
-      "Percentage": 46,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "LaunchBombAtEnemyAttack",
@@ -625,9 +625,9 @@
       "ID": "ObtainMonsterFirst",
       "SetID": "59jf8f5",
       "Name": "Rookie Monster Collector",
-      "Percentage": 70,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ObtainStar3OnStage100",
@@ -720,8 +720,8 @@
   ],
   "FirstSeen": "2023-11-24T21:58:03.1577897+00:00",
   "FirstSeenAchievements": "2023-11-07T04:02:54.7866362+00:00",
-  "LastChanged_Achievements": "2024-01-04T11:07:14.0225201+00:00",
+  "LastChanged_Achievements": "2024-01-04T12:05:23.3762804+00:00",
   "LastUpdate_AppInfo": "2024-01-02T07:56:58.0394449+00:00",
-  "LastUpdate_Ratings": "2024-01-04T11:01:42.7747752+00:00",
-  "LastUpdate_Achievements": "2024-01-04T11:07:14.0225621+00:00"
+  "LastUpdate_Ratings": "2024-01-04T11:59:56.549537+00:00",
+  "LastUpdate_Achievements": "2024-01-04T12:05:23.3763467+00:00"
 }

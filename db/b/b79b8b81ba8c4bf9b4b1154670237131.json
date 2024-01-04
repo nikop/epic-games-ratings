@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
     "PcReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -173,7 +173,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16342,
+  "EOS_Progressed": 16344,
   "EOS_Completed": 15,
   "EOS_NewPlayers": 337,
   "EOS_NewCompleters": 0,
@@ -5818,6 +5818,11 @@
       "Time": "2024-01-04T11:10:41.5680644+00:00",
       "NumProgressed": 16342,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-04T12:09:16.8387543+00:00",
+      "NumProgressed": 16344,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -5830,7 +5835,7 @@
       "Name": "Revelations",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 6210
+      "UsersEstimate": 6211
     },
     {
       "ID": "ACH_AE_10",
@@ -5862,7 +5867,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 12256
+      "UsersEstimate": 12258
     },
     {
       "ID": "ACH_AE_14",
@@ -5878,7 +5883,7 @@
       "Name": "Right Back At You",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3595
+      "UsersEstimate": 3596
     },
     {
       "ID": "ACH_AE_16",
@@ -5886,7 +5891,7 @@
       "Name": "Energy Efficient",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 2124
+      "UsersEstimate": 2125
     },
     {
       "ID": "ACH_AE_17",
@@ -5918,7 +5923,7 @@
       "Name": "Back to School",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3922
+      "UsersEstimate": 3923
     },
     {
       "ID": "ACH_AE_20",
@@ -5942,7 +5947,7 @@
       "Name": "The High Road",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 3922
+      "UsersEstimate": 3923
     },
     {
       "ID": "ACH_AE_23",
@@ -6109,7 +6114,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16342,
+      "Progressed": 16344,
       "Completed": 15
     }
   ],
@@ -6117,8 +6122,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2024-01-03T15:58:59.1983822+00:00",
-  "LastChanged_Achievements": "2024-01-04T11:10:41.5680639+00:00",
+  "LastChanged_Achievements": "2024-01-04T12:09:16.838754+00:00",
   "LastUpdate_AppInfo": "2024-01-02T18:57:14.4864444+00:00",
-  "LastUpdate_Ratings": "2024-01-04T11:00:58.1688998+00:00",
-  "LastUpdate_Achievements": "2024-01-04T11:10:41.5681206+00:00"
+  "LastUpdate_Ratings": "2024-01-04T11:59:28.008368+00:00",
+  "LastUpdate_Achievements": "2024-01-04T12:09:16.8387984+00:00"
 }

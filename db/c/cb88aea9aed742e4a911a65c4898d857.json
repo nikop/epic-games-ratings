@@ -269,9 +269,9 @@
       "Count": 93
     }
   ],
-  "EOS_Progressed": 9956,
+  "EOS_Progressed": 9961,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1720,
+  "EOS_NewPlayers": 1713,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3609,6 +3609,11 @@
       "Time": "2024-01-04T11:11:15.7284188+00:00",
       "NumProgressed": 9956,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-04T12:09:40.6271251+00:00",
+      "NumProgressed": 9961,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3781,7 +3786,7 @@
       "Name": "Perfect Timing",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "23_DynastyRestored",
@@ -3829,7 +3834,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -4140,7 +4145,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 9956,
+      "Progressed": 9961,
       "Completed": 1
     }
   ],
@@ -4148,8 +4153,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-04T01:47:10.0035057+00:00",
-  "LastChanged_Achievements": "2024-01-04T11:11:15.7284184+00:00",
+  "LastChanged_Achievements": "2024-01-04T12:09:40.6271245+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:17.7362494+00:00",
-  "LastUpdate_Ratings": "2024-01-04T11:03:21.3091082+00:00",
-  "LastUpdate_Achievements": "2024-01-04T11:11:15.7284947+00:00"
+  "LastUpdate_Ratings": "2024-01-04T12:02:44.5424797+00:00",
+  "LastUpdate_Achievements": "2024-01-04T12:09:40.6271981+00:00"
 }

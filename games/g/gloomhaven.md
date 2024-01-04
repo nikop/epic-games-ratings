@@ -6,12 +6,12 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 39.00% | ~12,095 |
+| I'm not dead yet | 39.00% | ~12,096 |
 | Overkill | 33.00% | ~10,235 |
-| Vaccine Incoming | 32.00% | ~9,924 |
+| Vaccine Incoming | 32.00% | ~9,925 |
 | A normal day in Gloomhaven | 29.00% | ~8,994 |
 | Spread the plague | 27.00% | ~8,374 |
-| Get over here! | 24.00% | ~7,443 |
+| Get over here! | 24.00% | ~7,444 |
 | Just when I thought I was out... | 19.00% | ~5,893 |
 | Precious! | 16.00% | ~4,962 |
 | Mine... All Mine... | 16.00% | ~4,962 |
@@ -21,8 +21,8 @@ Number of Ratings: 68  (23.09.2022)
 | Who's the Boss? | 12.00% | ~3,722 |
 | You activated my trap card! | 12.00% | ~3,722 |
 | Obstacle race | 12.00% | ~3,722 |
-| Augmented rat | 10.00% | ~3,101 |
-| Doom and gloom | 10.00% | ~3,101 |
+| Augmented rat | 10.00% | ~3,102 |
+| Doom and gloom | 10.00% | ~3,102 |
 | Dungeon Veteran | 8.00% | ~2,481 |
 | Pain is your friend | 8.00% | ~2,481 |
 | Pack leader | 7.00% | ~2,171 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~31 |
 | Murder Death Kill | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,014 (Ranked 140)  
+Progressed: 31,015 (Ranked 140)  
 Completed: 1 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 1 (0.00%) (Ranked 392)
 | 2024-01-01 | 30,444 | 1 |
 | 2024-01-02 | 30,695 | 1 |
 | 2024-01-03 | 30,944 | 1 |
-| 2024-01-04 | 31,014 | 1 |
+| 2024-01-04 | 31,015 | 1 |
 ## Awards
 Max (Character Customization): 3,615  (Ranked 94)  
 Sum: 8,462 (Ranked 105)  

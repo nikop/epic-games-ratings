@@ -2,13 +2,13 @@
   "ID": "e24498202a7b4c80af7e3c18e63a0b34",
   "Name": "Horizon Chase 2",
   "ProductSlug": "horizon-chase-2",
-  "Ranking_Rating": 176,
+  "Ranking_Rating": 163,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
     "PcReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.73,
+  "Rating": 4.74,
   "RatingHistory": [
     {
       "Time": "2023-09-26T18:04:36.0445809+00:00",
@@ -187,15 +187,21 @@
       "Rating": 4.73,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-04T12:00:05.3344488+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8278,
+  "EOS_Progressed": 8279,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 314,
+  "EOS_NewPlayers": 315,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -9133,6 +9139,11 @@
       "Time": "2024-01-04T11:06:32.916896+00:00",
       "NumProgressed": 8278,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2024-01-04T12:04:54.7263736+00:00",
+      "NumProgressed": 8279,
+      "NumCompleted": 49
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -9145,7 +9156,7 @@
       "Name": "First of Many",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 7285
+      "UsersEstimate": 7286
     },
     {
       "ID": "achievement_01_02",
@@ -9169,7 +9180,7 @@
       "Name": "Bzzzt",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 6208
+      "UsersEstimate": 6209
     },
     {
       "ID": "achievement_01_05",
@@ -9177,7 +9188,7 @@
       "Name": "Automotive Stylist",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 4056
+      "UsersEstimate": 4057
     },
     {
       "ID": "achievement_01_06",
@@ -9201,7 +9212,7 @@
       "Name": "Trophy Collector",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 6208
+      "UsersEstimate": 6209
     },
     {
       "ID": "achievement_01_09",
@@ -9209,7 +9220,7 @@
       "Name": "Right Foot",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 3725
+      "UsersEstimate": 3726
     },
     {
       "ID": "achievement_01_10",
@@ -9225,7 +9236,7 @@
       "Name": "Roll the Credits!",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 1324
+      "UsersEstimate": 1325
     },
     {
       "ID": "achievement_02_02",
@@ -9273,7 +9284,7 @@
       "Name": "Whale of a Time",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 4056
+      "UsersEstimate": 4057
     },
     {
       "ID": "achievement_02_08",
@@ -9385,7 +9396,7 @@
       "Name": "Gotta go Fast",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 3973
+      "UsersEstimate": 3974
     },
     {
       "ID": "achievement_04_03",
@@ -9393,7 +9404,7 @@
       "Name": "Consolation Trophy",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 4470
+      "UsersEstimate": 4471
     },
     {
       "ID": "achievement_04_04",
@@ -9409,7 +9420,7 @@
       "Name": "That was a Close Call!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 2897
+      "UsersEstimate": 2898
     },
     {
       "ID": "achievement_04_06",
@@ -9433,7 +9444,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 7202
+      "UsersEstimate": 7203
     },
     {
       "ID": "achievement_04_09",
@@ -9448,16 +9459,16 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 8278,
+      "Progressed": 8279,
       "Completed": 49
     }
   ],
   "FirstSeen": "2023-09-14T17:57:03.7987631+00:00",
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
-  "LastChanged": "2024-01-01T09:58:42.2285208+00:00",
-  "LastChanged_Achievements": "2024-01-04T11:06:32.9168958+00:00",
+  "LastChanged": "2024-01-04T12:00:05.3344486+00:00",
+  "LastChanged_Achievements": "2024-01-04T12:04:54.7263731+00:00",
   "LastUpdate_AppInfo": "2023-12-29T01:33:51.636956+00:00",
-  "LastUpdate_Ratings": "2024-01-04T11:01:56.2176893+00:00",
-  "LastUpdate_Achievements": "2024-01-04T11:06:32.9169516+00:00"
+  "LastUpdate_Ratings": "2024-01-04T12:00:05.334449+00:00",
+  "LastUpdate_Achievements": "2024-01-04T12:04:54.7264511+00:00"
 }

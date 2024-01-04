@@ -7,7 +7,7 @@ Rating: 4.76 (Ranked 130)
 | ---- | ---------- | ----- |
 | New arm | 77.00% | ~588 |
 | Shelter Escape | 75.00% | ~572 |
-| The First Bond | 64.00% | ~488 |
+| The First Bond | 65.00% | ~496 |
 | Novice Scavenger | 58.00% | ~443 |
 | Master Craftsman | 46.00% | ~351 |
 | First wall | 45.00% | ~343 |

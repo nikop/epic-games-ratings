@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 336,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -788,9 +788,9 @@
       "ID": "different-items1",
       "SetID": "799afm0",
       "Name": "Party",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 246
+      "UsersEstimate": 250
     },
     {
       "ID": "different-items2",
@@ -852,9 +852,9 @@
       "ID": "finished-quest-rat",
       "SetID": "799afm0",
       "Name": "The Return of a Rat",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 201
     },
     {
       "ID": "finished-quest-reaper",
@@ -948,9 +948,9 @@
       "ID": "win-first-biom",
       "SetID": "799afm0",
       "Name": "Vanquisher of Robots",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 383
+      "UsersEstimate": 388
     },
     {
       "ID": "win-first-level",
@@ -988,9 +988,9 @@
       "ID": "win-second-biom",
       "SetID": "799afm0",
       "Name": "Through the Darkness",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 216
+      "UsersEstimate": 221
     },
     {
       "ID": "win-with-3-cultists",
@@ -1021,8 +1021,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2024-01-04T11:06:17.5818944+00:00",
+  "LastChanged_Achievements": "2024-01-04T12:04:44.1318929+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.2003375+00:00",
-  "LastUpdate_Ratings": "2024-01-04T10:58:50.6748835+00:00",
-  "LastUpdate_Achievements": "2024-01-04T11:06:17.5819226+00:00"
+  "LastUpdate_Ratings": "2024-01-04T11:58:06.9733809+00:00",
+  "LastUpdate_Achievements": "2024-01-04T12:04:44.1319248+00:00"
 }

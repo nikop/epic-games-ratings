@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 289,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 487,
+  "EOS_Progressed": 488,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1570,6 +1570,11 @@
       "Time": "2024-01-04T10:06:21.6884351+00:00",
       "NumProgressed": 487,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T12:06:07.2531874+00:00",
+      "NumProgressed": 488,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1589,7 +1594,7 @@
       "Name": "Meet ADA/360",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ach_apartments_1",
@@ -1605,7 +1610,7 @@
       "Name": "Penthouse in the Sky",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ach_area",
@@ -1613,7 +1618,7 @@
       "Name": "Floor Galore",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ach_area_1",
@@ -1669,7 +1674,7 @@
       "Name": "Campaign Launch",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "ach_campaigns_1",
@@ -1869,7 +1874,7 @@
       "Name": "Sandbagger",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ach_ep1_revs_2",
@@ -1917,7 +1922,7 @@
       "Name": "Grime is Not Good",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ach_grime_1",
@@ -1925,7 +1930,7 @@
       "Name": "Delegate Maintenance",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ach_grime_2",
@@ -2101,7 +2106,7 @@
       "Name": "Dinner Dash",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "ach_restaurants_4",
@@ -2275,16 +2280,16 @@
       "ID": "ach_visitors_1",
       "SetID": "b8gh1fi",
       "Name": "Destination Destiny",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 137
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 487,
+      "Progressed": 488,
       "Completed": 0
     }
   ],
@@ -2292,8 +2297,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2024-01-04T11:08:17.8367646+00:00",
+  "LastChanged_Achievements": "2024-01-04T12:06:07.2531868+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.6325323+00:00",
-  "LastUpdate_Ratings": "2024-01-04T11:00:29.4607335+00:00",
-  "LastUpdate_Achievements": "2024-01-04T11:08:17.8368776+00:00"
+  "LastUpdate_Ratings": "2024-01-04T11:59:10.1833437+00:00",
+  "LastUpdate_Achievements": "2024-01-04T12:06:07.253275+00:00"
 }

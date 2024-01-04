@@ -5,37 +5,37 @@ Rating: 4.57 (Ranked 490)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 68.00% | ~923 |
-| The Teleprobe | 53.00% | ~719 |
-| The City | 48.00% | ~651 |
-| The field base | 44.00% | ~597 |
-| The Alliance | 39.00% | ~529 |
+| The Camp | 68.00% | ~924 |
+| The Teleprobe | 53.00% | ~720 |
+| The City | 48.00% | ~652 |
+| The field base | 43.00% | ~584 |
+| The Alliance | 39.00% | ~530 |
 | Survivors | 38.00% | ~516 |
 | The Condor | 36.00% | ~489 |
-| The End | 35.00% | ~475 |
-| Krauta is alive | 27.00% | ~366 |
-| The Necroevolution | 27.00% | ~366 |
+| The End | 35.00% | ~476 |
+| Krauta is alive | 27.00% | ~367 |
+| The Necroevolution | 27.00% | ~367 |
 | On her own | 21.00% | ~285 |
 | Peacemaker | 21.00% | ~285 |
 | Volcanologist | 21.00% | ~285 |
-| Fierce fight | 20.00% | ~271 |
+| Fierce fight | 20.00% | ~272 |
 | Evacuation | 19.00% | ~258 |
 | Beyond divisions | 17.00% | ~231 |
 | Flying Objects Operator | 16.00% | ~217 |
 | I remember everything! | 14.00% | ~190 |
-| Another giant | 13.00% | ~176 |
+| Another giant | 13.00% | ~177 |
 | Violent solution | 9.00% | ~122 |
 | I leave no man behind | 9.00% | ~122 |
 | Innate curiosity | 7.00% | ~95 |
-| Ubiquitous holes | 6.00% | ~81 |
-| Strong objection | 6.00% | ~81 |
+| Ubiquitous holes | 6.00% | ~82 |
+| Strong objection | 6.00% | ~82 |
 | The Invincible | 5.00% | ~68 |
 | Got lost again | 5.00% | ~68 |
 | I leave no man behind (no exceptions) | 2.00% | ~27 |
 | Convoy list | 1.00% | ~14 |
 | No more mistakes | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,357 (Ranked 272)  
+Progressed: 1,359 (Ranked 272)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-01 | 1,273 | 0 |
 | 2024-01-02 | 1,309 | 0 |
 | 2024-01-03 | 1,345 | 0 |
-| 2024-01-04 | 1,357 | 0 |
+| 2024-01-04 | 1,359 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

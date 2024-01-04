@@ -16,7 +16,7 @@
 | Unstoppable Curiosity | 18.00% | ~23 |
 | This is just the beginning... | 16.00% | ~21 |
 | A small victory | 15.00% | ~20 |
-| Gold Digger | 10.00% | ~13 |
+| Gold Digger | 11.00% | ~14 |
 | Time is on my side | 8.00% | ~10 |
 | Secret at the bottom | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

@@ -4,8 +4,8 @@
   "ProductSlug": "ultros",
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 566,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 567,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2024-02-13T08:00:00+00:00",
     "PcReleaseDate": "2024-02-13T08:00:00+00:00",
@@ -38,8 +38,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-27T15:04:03.1385531+00:00",
-  "LastChanged_Achievements": "2024-01-04T11:07:32.1405362+00:00",
+  "LastChanged_Achievements": "2024-01-04T12:05:35.7678232+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:04.1135642+00:00",
-  "LastUpdate_Ratings": "2024-01-04T11:02:27.7613932+00:00",
-  "LastUpdate_Achievements": "2024-01-04T11:07:32.1405392+00:00"
+  "LastUpdate_Ratings": "2024-01-04T12:00:26.4499025+00:00",
+  "LastUpdate_Achievements": "2024-01-04T12:05:35.7678261+00:00"
 }

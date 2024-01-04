@@ -6,38 +6,38 @@ Rating: 4.38 (Ranked 786)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | It Wasn’t a Burglary | 88.00% | ~429 |
-| Luc Piette | 74.00% | ~360 |
+| Luc Piette | 74.00% | ~361 |
 | Angeline Van den Bosch | 72.00% | ~351 |
-| Elizabeth Padget | 69.00% | ~336 |
-| Little Grey Cells | 67.00% | ~326 |
+| Elizabeth Padget | 68.00% | ~332 |
+| Little Grey Cells | 67.00% | ~327 |
 | The Bracelet | 64.00% | ~312 |
-| The Blackmail | 54.00% | ~263 |
-| Major Felix Hagen | 54.00% | ~263 |
-| Florette Duval | 53.00% | ~258 |
-| Order and Method | 52.00% | ~253 |
-| Fine-toothed Comb | 52.00% | ~253 |
+| The Blackmail | 53.00% | ~259 |
+| Florette Duval | 53.00% | ~259 |
+| Major Felix Hagen | 53.00% | ~259 |
+| Fine-toothed Comb | 52.00% | ~254 |
+| Order and Method | 51.00% | ~249 |
 | The Altercation | 49.00% | ~239 |
 | Truth from Within | 48.00% | ~234 |
 | The Major | 46.00% | ~224 |
-| Curious and Beautiful | 44.00% | ~214 |
-| Comtesse Margaux de Vos | 44.00% | ~214 |
-| Jacqueline “Jackie” Conrad | 43.00% | ~209 |
-| The Interrogations | 43.00% | ~209 |
+| Comtesse Margaux de Vos | 44.00% | ~215 |
+| Curious and Beautiful | 43.00% | ~210 |
+| Jacqueline “Jackie” Conrad | 43.00% | ~210 |
+| The Interrogations | 43.00% | ~210 |
 | Well-acquainted | 41.00% | ~200 |
 | Zakariya Demir | 40.00% | ~195 |
 | Well-read | 39.00% | ~190 |
-| Cassandra Van den Bosch | 37.00% | ~180 |
-| The Secret | 37.00% | ~180 |
-| Gedeon Demir | 35.00% | ~170 |
+| Cassandra Van den Bosch | 37.00% | ~181 |
+| The Secret | 37.00% | ~181 |
+| Gedeon Demir | 35.00% | ~171 |
 | Rehana Piette | 34.00% | ~166 |
 | Instinct is Marvellous | 33.00% | ~161 |
 | Ernesto da Silva | 33.00% | ~161 |
 | Inge Frank | 31.00% | ~151 |
 | The Search | 31.00% | ~151 |
 | Hugo Beckers | 30.00% | ~146 |
-| The Family | 28.00% | ~136 |
-| Well-travelled | 27.00% | ~131 |
-| Thinking of Everything | 27.00% | ~131 |
+| The Family | 28.00% | ~137 |
+| Well-travelled | 27.00% | ~132 |
+| Thinking of Everything | 27.00% | ~132 |
 | Archibald Sterling | 26.00% | ~127 |
 | Viscount Edwin Van den Bosch | 26.00% | ~127 |
 | Exquisite Artwork | 25.00% | ~122 |
@@ -52,7 +52,7 @@ Rating: 4.38 (Ranked 786)
 | Room with a View | 7.00% | ~34 |
 | Work-life Balance | 2.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 487 (Ranked 347)  
+Progressed: 488 (Ranked 347)  
 Completed: 6 (1.23%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,6 +153,7 @@ Completed: 6 (1.23%) (Ranked 158)
 | 2024-01-01 | 484 | 6 |
 | 2024-01-02 | 485 | 6 |
 | 2024-01-03 | 487 | 6 |
+| 2024-01-04 | 488 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

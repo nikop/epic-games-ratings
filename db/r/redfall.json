@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -351,7 +351,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2241,
+  "EOS_Progressed": 2243,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
@@ -3951,6 +3951,11 @@
       "Time": "2024-01-04T10:03:50.1027145+00:00",
       "NumProgressed": 2241,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T12:03:36.0776489+00:00",
+      "NumProgressed": 2243,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3978,7 +3983,7 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "Achievement_004",
@@ -4082,7 +4087,7 @@
       "Name": "Bad Wiring",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "Achievement_018",
@@ -4146,7 +4151,7 @@
       "Name": "Grounded",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "Achievement_026",
@@ -4489,7 +4494,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2241,
+      "Progressed": 2243,
       "Completed": 0
     }
   ],
@@ -4497,8 +4502,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-01T12:00:40.1847166+00:00",
-  "LastChanged_Achievements": "2024-01-04T11:04:39.3647171+00:00",
+  "LastChanged_Achievements": "2024-01-04T12:03:36.0776486+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.8280502+00:00",
-  "LastUpdate_Ratings": "2024-01-04T10:57:57.1857907+00:00",
-  "LastUpdate_Achievements": "2024-01-04T11:04:39.3648627+00:00"
+  "LastUpdate_Ratings": "2024-01-04T11:57:33.2215724+00:00",
+  "LastUpdate_Achievements": "2024-01-04T12:03:36.0777687+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "lost-abroad-cafe-a-language-learning-management-sim-bfc28c",
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 340,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-26T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 680,
+  "EOS_Progressed": 681,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.47,
   "EosHistory": [
@@ -3129,6 +3129,11 @@
       "Time": "2024-01-04T01:52:44.9482105+00:00",
       "NumProgressed": 680,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-04T12:06:19.7700917+00:00",
+      "NumProgressed": 681,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 8,
@@ -3146,9 +3151,9 @@
       "ID": "coffee_100",
       "SetID": "56hff7o",
       "Name": "Brew Master",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 200,
-      "UsersEstimate": 54
+      "UsersEstimate": 48
     },
     {
       "ID": "coffee_50",
@@ -3172,7 +3177,7 @@
       "Name": "Get Lost!",
       "Percentage": 90,
       "XP": 50,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "tea_10",
@@ -3203,14 +3208,14 @@
     {
       "ID": "56hff7o",
       "IsBase": true,
-      "Progressed": 680,
+      "Progressed": 681,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-06-23T10:58:45.2753016+00:00",
   "FirstSeenAchievements": "2023-05-18T05:04:21.5286003+00:00",
-  "LastChanged_Achievements": "2024-01-04T11:08:35.1533441+00:00",
+  "LastChanged_Achievements": "2024-01-04T12:06:19.7700909+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:48.8560762+00:00",
-  "LastUpdate_Ratings": "2024-01-04T11:01:08.3346582+00:00",
-  "LastUpdate_Achievements": "2024-01-04T11:08:35.153375+00:00"
+  "LastUpdate_Ratings": "2024-01-04T11:59:34.7696995+00:00",
+  "LastUpdate_Achievements": "2024-01-04T12:06:19.7701183+00:00"
 }

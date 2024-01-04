@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18160,
+  "EOS_Progressed": 18161,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 528,
+  "EOS_NewPlayers": 524,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -16235,6 +16235,11 @@
       "Time": "2024-01-04T11:06:30.4704344+00:00",
       "NumProgressed": 18160,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-04T12:04:52.9376494+00:00",
+      "NumProgressed": 18161,
+      "NumCompleted": 58
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16517,31 +16522,31 @@
       "ID": "35",
       "SetID": "9nnpo9n",
       "Name": "Madame Undersecretary",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 329
+      "UsersEstimate": 370
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18160,
+      "Progressed": 18161,
       "Completed": 58
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4114,
-      "Completed": 1177
+      "Progressed": 4115,
+      "Completed": 1178
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T23:58:17.8612142+00:00",
-  "LastChanged_Achievements": "2024-01-04T11:06:30.470434+00:00",
+  "LastChanged_Achievements": "2024-01-04T12:04:52.937649+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2024-01-04T11:01:46.6205239+00:00",
-  "LastUpdate_Achievements": "2024-01-04T11:06:30.4705764+00:00"
+  "LastUpdate_Ratings": "2024-01-04T11:59:58.9555237+00:00",
+  "LastUpdate_Achievements": "2024-01-04T12:04:52.9377267+00:00"
 }

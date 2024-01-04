@@ -4,8 +4,8 @@
   "ProductSlug": "one-hand-clapping",
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 455,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 442,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-12-14T14:00:00+00:00",
     "PcReleaseDate": "2021-06-10T11:05:23+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 850,
+  "EOS_Progressed": 851,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -604,6 +604,11 @@
       "Time": "2024-01-03T04:03:40.3691956+00:00",
       "NumProgressed": 850,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T12:04:12.7649122+00:00",
+      "NumProgressed": 851,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 28,
@@ -615,7 +620,7 @@
       "Name": "Silent City",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "10",
@@ -711,7 +716,7 @@
       "Name": "Tempo",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "21",
@@ -831,14 +836,14 @@
       "Name": "Cadence",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     }
   ],
   "AchievementSets": [
     {
       "ID": "7l2nmpm",
       "IsBase": true,
-      "Progressed": 850,
+      "Progressed": 851,
       "Completed": 0
     }
   ],
@@ -846,8 +851,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3848838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.9622538+00:00",
   "LastChanged": "2023-03-31T05:58:38.3848839+00:00",
-  "LastChanged_Achievements": "2024-01-04T11:05:31.9652084+00:00",
+  "LastChanged_Achievements": "2024-01-04T12:04:12.7649112+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:31.2784792+00:00",
-  "LastUpdate_Ratings": "2024-01-04T10:57:37.7993098+00:00",
-  "LastUpdate_Achievements": "2024-01-04T11:05:31.9652296+00:00"
+  "LastUpdate_Ratings": "2024-01-04T11:57:19.5322669+00:00",
+  "LastUpdate_Achievements": "2024-01-04T12:04:12.7649369+00:00"
 }

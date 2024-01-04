@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2023-11-16T16:00:00+00:00",
     "PcReleaseDate": "2018-03-08T17:00:00+00:00",
@@ -251,10 +251,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 72927,
+  "EOS_Progressed": 72933,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 1908,
-  "EOS_NewCompleters": 8,
+  "EOS_NewPlayers": 1900,
+  "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
     {
@@ -6066,6 +6066,11 @@
       "Time": "2024-01-04T11:09:00.3958726+00:00",
       "NumProgressed": 72927,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2024-01-04T12:06:37.4188805+00:00",
+      "NumProgressed": 72933,
+      "NumCompleted": 107
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -6078,7 +6083,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 26983
+      "UsersEstimate": 26985
     },
     {
       "ID": "Achievement_10",
@@ -6150,7 +6155,7 @@
       "Name": "Champions of Umbra",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "Achievement_19",
@@ -6166,7 +6171,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 20420
+      "UsersEstimate": 20421
     },
     {
       "ID": "Achievement_20",
@@ -6198,7 +6203,7 @@
       "Name": "Festival Masters",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "Achievement_24",
@@ -6254,7 +6259,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8751
+      "UsersEstimate": 8752
     },
     {
       "ID": "Achievement_30",
@@ -6302,7 +6307,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6563
+      "UsersEstimate": 6564
     },
     {
       "ID": "Achievement_5",
@@ -6349,7 +6354,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 72927,
+      "Progressed": 72933,
       "Completed": 107
     }
   ],
@@ -6357,8 +6362,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-02T15:03:36.0297933+00:00",
-  "LastChanged_Achievements": "2024-01-04T11:09:00.3958721+00:00",
+  "LastChanged_Achievements": "2024-01-04T12:06:37.41888+00:00",
   "LastUpdate_AppInfo": "2023-12-28T16:57:09.138646+00:00",
-  "LastUpdate_Ratings": "2024-01-04T11:03:54.695769+00:00",
-  "LastUpdate_Achievements": "2024-01-04T11:09:00.3959424+00:00"
+  "LastUpdate_Ratings": "2024-01-04T12:03:04.8661481+00:00",
+  "LastUpdate_Achievements": "2024-01-04T12:06:37.4189602+00:00"
 }

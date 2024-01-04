@@ -5,15 +5,15 @@ Rating: 4.53 (Ranked 562)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 18.00% | ~20,951 |
-| I've Had Enough! | 14.00% | ~16,295 |
-| Fists, Fury & a lot of Rage | 10.00% | ~11,639 |
-| All For One and One For All | 8.00% | ~9,311 |
-| Seasoned Fighter | 8.00% | ~9,311 |
-| A New Age | 5.00% | ~5,820 |
-| Home Sweet Home? | 5.00% | ~5,820 |
-| Oh Baby, A Triple | 3.00% | ~3,492 |
-| Symbiotic | 3.00% | ~3,492 |
+| All Grown Up! | 18.00% | ~20,956 |
+| I've Had Enough! | 14.00% | ~16,299 |
+| Fists, Fury & a lot of Rage | 10.00% | ~11,642 |
+| All For One and One For All | 8.00% | ~9,314 |
+| Seasoned Fighter | 8.00% | ~9,314 |
+| A New Age | 5.00% | ~5,821 |
+| Home Sweet Home? | 5.00% | ~5,821 |
+| Oh Baby, A Triple | 3.00% | ~3,493 |
+| Symbiotic | 3.00% | ~3,493 |
 | Battle Hardened | 2.00% | ~2,328 |
 | Master of Disguise | 2.00% | ~2,328 |
 | It's Mayhem! | 2.00% | ~2,328 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 562)
 | What's Mine is Yours | 0.10% | ~116 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 116,393 (Ranked 93)  
+Progressed: 116,420 (Ranked 93)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-01 | 114,465 | 0 |
 | 2024-01-02 | 115,313 | 0 |
 | 2024-01-03 | 116,064 | 0 |
-| 2024-01-04 | 116,393 | 0 |
+| 2024-01-04 | 116,420 | 0 |
 ## Awards
 Max (Great Boss Battles): 48  (Ranked 458)  
 Sum: 48 (Ranked 509)  

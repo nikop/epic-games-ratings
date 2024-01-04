@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 592,
   "Ranking_EOS_Completed": 100,
   "Ranking_EOS_NewPlayers": 477,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-09-14T12:00:00+00:00",
     "PcReleaseDate": "2023-09-14T12:00:00+00:00",
@@ -200,17 +200,17 @@
       "ID": "ACH_DEFEAT_BULLET",
       "SetID": "b9ng4ag",
       "Name": "Snake Eye",
-      "Percentage": 52,
+      "Percentage": 55,
       "XP": 65,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_DEFEAT_CYBER",
       "SetID": "b9ng4ag",
       "Name": "Killer Debut",
-      "Percentage": 59,
+      "Percentage": 62,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_DEFEAT_EVIL_RICO",
@@ -271,8 +271,8 @@
   ],
   "FirstSeen": "2023-10-21T23:58:29.5927099+00:00",
   "FirstSeenAchievements": "2023-09-02T00:00:26.8543865+00:00",
-  "LastChanged_Achievements": "2024-01-04T11:11:07.4628864+00:00",
+  "LastChanged_Achievements": "2024-01-04T12:09:34.9356957+00:00",
   "LastUpdate_AppInfo": "2023-12-30T07:56:55.8803761+00:00",
-  "LastUpdate_Ratings": "2024-01-04T11:01:18.4389864+00:00",
-  "LastUpdate_Achievements": "2024-01-04T11:11:07.4628957+00:00"
+  "LastUpdate_Ratings": "2024-01-04T11:59:41.1356771+00:00",
+  "LastUpdate_Achievements": "2024-01-04T12:09:34.9357049+00:00"
 }

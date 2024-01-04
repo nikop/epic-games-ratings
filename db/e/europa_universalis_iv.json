@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -13951,10 +13951,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 63453,
       "NumberOfAwardsMax": 7696
+    },
+    {
+      "Time": "2024-01-04T11:57:51.2942182+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 63469,
+      "NumberOfAwardsMax": 7696
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 63453,
+  "NumberOfAwards": 63469,
   "NumberOfAwardsMax": 7696,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -13998,7 +14004,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 6882
+      "Count": 6898
     },
     {
       "Text": "This game is Relaxing",
@@ -14025,9 +14031,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 491613,
+  "EOS_Progressed": 491642,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5569,
+  "EOS_NewPlayers": 5561,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -43885,6 +43891,11 @@
       "Time": "2024-01-04T11:10:51.5063593+00:00",
       "NumProgressed": 491613,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-04T12:09:24.2079957+00:00",
+      "NumProgressed": 491642,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -44920,7 +44931,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1966
+      "UsersEstimate": 1967
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -45896,7 +45907,7 @@
       "Name": "Seriously?!",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1966
+      "UsersEstimate": 1967
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -46176,7 +46187,7 @@
       "Name": "That is mine!",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1966
+      "UsersEstimate": 1967
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -46799,21 +46810,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 491613,
+      "Progressed": 491642,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 491613,
+      "Progressed": 491642,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-01-04T10:58:24.8284755+00:00",
-  "LastChanged_Achievements": "2024-01-04T11:10:51.5063588+00:00",
+  "LastChanged": "2024-01-04T11:57:51.294218+00:00",
+  "LastChanged_Achievements": "2024-01-04T12:09:24.2079953+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:39.2428149+00:00",
-  "LastUpdate_Ratings": "2024-01-04T10:58:24.8284761+00:00",
-  "LastUpdate_Achievements": "2024-01-04T11:10:51.5075305+00:00"
+  "LastUpdate_Ratings": "2024-01-04T11:57:51.2942186+00:00",
+  "LastUpdate_Achievements": "2024-01-04T12:09:24.2093035+00:00"
 }

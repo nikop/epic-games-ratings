@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hero Arrives | 88.00% | ~58 |
-| Eat the Rich | 62.00% | ~41 |
+| Hero Arrives | 88.00% | ~59 |
+| Eat the Rich | 61.00% | ~41 |
 | Killing Machine | 45.00% | ~30 |
-| Death Battle | 44.00% | ~29 |
-| Phantom Kunoichi | 44.00% | ~29 |
-| Divine Retribution | 41.00% | ~27 |
+| Death Battle | 43.00% | ~29 |
+| Phantom Kunoichi | 43.00% | ~29 |
+| Divine Retribution | 40.00% | ~27 |
 | Captain Mustache | 39.00% | ~26 |
 | Dispel Rumors | 36.00% | ~24 |
-| Final Showdown | 35.00% | ~23 |
-| The End of an Outlaw | 35.00% | ~23 |
+| Final Showdown | 34.00% | ~23 |
+| The End of an Outlaw | 34.00% | ~23 |
 | Demon Slayer | 33.00% | ~22 |
-| Steal Her Away | 32.00% | ~21 |
-| Sewer Rat | 29.00% | ~19 |
-| Fight Fire With Fire | 29.00% | ~19 |
+| Steal Her Away | 31.00% | ~21 |
+| Sewer Rat | 28.00% | ~19 |
+| Fight Fire With Fire | 28.00% | ~19 |
 | Urban Explorer | 27.00% | ~18 |
-| Big Eater | 26.00% | ~17 |
-| Not Today | 26.00% | ~17 |
-| Coward | 26.00% | ~17 |
-| Tour Guide | 23.00% | ~15 |
-| Tomb Raider | 23.00% | ~15 |
+| Big Eater | 25.00% | ~17 |
+| Not Today | 25.00% | ~17 |
+| Coward | 25.00% | ~17 |
+| Tour Guide | 22.00% | ~15 |
+| Tomb Raider | 22.00% | ~15 |
 | The Real O.G. | 21.00% | ~14 |
-| The Hero of the People | 17.00% | ~11 |
-| Talk to the Fist | 14.00% | ~9 |
-| Collector | 11.00% | ~7 |
+| The Hero of the People | 16.00% | ~11 |
+| Talk to the Fist | 13.00% | ~9 |
+| Collector | 10.00% | ~7 |
 | Taoist | 9.00% | ~6 |
-| The Legend | 8.00% | ~5 |
+| The Legend | 7.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66 (Ranked 524)  
-Completed: 5 (7.58%) (Ranked 54)  
+Progressed: 67 (Ranked 524)  
+Completed: 5 (7.46%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -80,7 +80,7 @@ Completed: 5 (7.58%) (Ranked 54)
 | 2024-01-01 | 62 | 4 |
 | 2024-01-02 | 64 | 5 |
 | 2024-01-03 | 65 | 5 |
-| 2024-01-04 | 66 | 5 |
+| 2024-01-04 | 67 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -17,8 +17,8 @@ Number of Ratings: 62  (23.09.2022)
 | It's Blue Light | 33.00% | ~1,727 |
 | Most Wanted | 26.00% | ~1,361 |
 | Infidel | 23.00% | ~1,204 |
+| GOLIATH | 21.00% | ~1,099 |
 | Firebug | 20.00% | ~1,047 |
-| GOLIATH | 20.00% | ~1,047 |
 | I Choose You | 17.00% | ~890 |
 | Nothing to Lose | 17.00% | ~890 |
 | Big Sister | 15.00% | ~785 |

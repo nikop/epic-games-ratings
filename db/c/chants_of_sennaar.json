@@ -2,7 +2,7 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_Rating": 49,
+  "Ranking_Rating": 48,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 236,
@@ -109,9 +109,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2327,
+  "EOS_Progressed": 2328,
   "EOS_Completed": 145,
-  "EOS_NewPlayers": 402,
+  "EOS_NewPlayers": 401,
   "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 6.23,
   "EosHistory": [
@@ -6314,6 +6314,11 @@
       "Time": "2024-01-04T11:05:52.2433264+00:00",
       "NumProgressed": 2327,
       "NumCompleted": 145
+    },
+    {
+      "Time": "2024-01-04T12:04:26.4820107+00:00",
+      "NumProgressed": 2328,
+      "NumCompleted": 145
     }
   ],
   "TotalAchievements": 25,
@@ -6341,7 +6346,7 @@
       "Name": "Peace walker",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -6389,7 +6394,7 @@
       "Name": "Feels like springtime",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "META_RESULT_2-3",
@@ -6421,7 +6426,7 @@
       "Name": "Alchemists Express",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -6445,7 +6450,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -6461,7 +6466,7 @@
       "Name": "Champollion",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -6477,15 +6482,15 @@
       "Name": "Scholar",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1234
     },
     {
       "ID": "PROGRESS_N2",
@@ -6517,14 +6522,14 @@
       "Name": "One last step",
       "Percentage": 27,
       "XP": 80,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2327,
+      "Progressed": 2328,
       "Completed": 145
     }
   ],
@@ -6532,8 +6537,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-04T06:02:50.6973409+00:00",
-  "LastChanged_Achievements": "2024-01-04T11:05:52.243326+00:00",
+  "LastChanged_Achievements": "2024-01-04T12:04:26.4820102+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:09.4320521+00:00",
-  "LastUpdate_Ratings": "2024-01-04T11:03:29.9169245+00:00",
-  "LastUpdate_Achievements": "2024-01-04T11:05:52.2433796+00:00"
+  "LastUpdate_Ratings": "2024-01-04T12:02:49.7920042+00:00",
+  "LastUpdate_Achievements": "2024-01-04T12:04:26.4820678+00:00"
 }

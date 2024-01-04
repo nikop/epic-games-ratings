@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tough Decision | 91.00% | ~713 |
+| Tough Decision | 92.00% | ~720 |
 | Blast From The Past | 83.00% | ~650 |
 | Kamikaze | 63.00% | ~493 |
 | The Rebel And The Doctor | 57.00% | ~446 |
-| Beat It | 48.00% | ~376 |
-| Free Champagne | 48.00% | ~376 |
+| Beat It | 49.00% | ~384 |
+| Free Champagne | 49.00% | ~384 |
 | Storage Hunter | 46.00% | ~360 |
-| Falling For You | 42.00% | ~329 |
+| Falling For You | 43.00% | ~337 |
 | Trust Me For Once | 26.00% | ~204 |
 | Lab Rat | 24.00% | ~188 |
 | Stalemate | 21.00% | ~164 |

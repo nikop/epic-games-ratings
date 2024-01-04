@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -277,9 +277,9 @@
       "Count": 93
     }
   ],
-  "EOS_Progressed": 1256,
+  "EOS_Progressed": 1257,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3527,6 +3527,11 @@
       "Time": "2024-01-04T11:05:48.9017459+00:00",
       "NumProgressed": 1256,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-04T12:04:24.5206517+00:00",
+      "NumProgressed": 1257,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3579,7 +3584,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "BreakTheLoop",
@@ -3587,7 +3592,7 @@
       "Name": "Break the Loop",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "BridgeBuilder",
@@ -3595,7 +3600,7 @@
       "Name": "Bridge Builder",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "ChasingTheLight",
@@ -3603,7 +3608,7 @@
       "Name": "Chasing the Light",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "Chicken",
@@ -3699,7 +3704,7 @@
       "Name": "High Plain",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "IntoTheMachine",
@@ -3723,7 +3728,7 @@
       "Name": "Lord of the Files",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "LostMarshes",
@@ -3763,7 +3768,7 @@
       "Name": "Museum Visitor",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "NewBeginning",
@@ -3795,7 +3800,7 @@
       "Name": "Overload",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "Persistent",
@@ -3827,7 +3832,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "RenaissanceRobot",
@@ -3883,7 +3888,7 @@
       "Name": "Team Spirit",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "TextAdventurer",
@@ -3947,7 +3952,7 @@
       "Name": "The Word Endures",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "TouchGrass",
@@ -3995,7 +4000,7 @@
       "Name": "Wooded Plateau",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "YourBiggestFan",
@@ -4010,7 +4015,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1256,
+      "Progressed": 1257,
       "Completed": 2
     }
   ],
@@ -4018,8 +4023,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-03T15:00:44.4057345+00:00",
-  "LastChanged_Achievements": "2024-01-04T11:05:48.9017456+00:00",
+  "LastChanged_Achievements": "2024-01-04T12:04:24.5206513+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.9244138+00:00",
-  "LastUpdate_Ratings": "2024-01-04T11:01:37.5701592+00:00",
-  "LastUpdate_Achievements": "2024-01-04T11:05:48.9018046+00:00"
+  "LastUpdate_Ratings": "2024-01-04T11:59:52.9906389+00:00",
+  "LastUpdate_Achievements": "2024-01-04T12:04:24.5207104+00:00"
 }

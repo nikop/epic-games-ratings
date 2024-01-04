@@ -2,10 +2,10 @@
   "ID": "3319fe5042ab4392a2b11c6938c0cda1",
   "Name": "Thief",
   "ProductSlug": "thief-5bb95f",
-  "Ranking_EOS_Progress": 461,
+  "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
     "PcReleaseDate": "2014-02-25T05:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 137,
+  "EOS_Progressed": 138,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
@@ -604,6 +604,11 @@
       "Time": "2024-01-03T21:06:17.2563804+00:00",
       "NumProgressed": 137,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T12:05:20.4086435+00:00",
+      "NumProgressed": 138,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-13T17:03:37.6694863+00:00",
@@ -784,15 +789,15 @@
       "Name": "Lockdown",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_29",
       "SetID": "ae95dh3",
       "Name": "Dust to Dust",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 23
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -880,7 +885,7 @@
       "Name": "A Man Apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_2",
@@ -911,14 +916,14 @@
     {
       "ID": "ae95dh3",
       "IsBase": true,
-      "Progressed": 137,
+      "Progressed": 138,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2024-01-04T11:07:09.7907737+00:00",
+  "LastChanged_Achievements": "2024-01-04T12:05:20.4086431+00:00",
   "LastUpdate_AppInfo": "2024-01-03T16:57:23.9346853+00:00",
-  "LastUpdate_Ratings": "2024-01-04T10:57:20.7665042+00:00",
-  "LastUpdate_Achievements": "2024-01-04T11:07:09.7908027+00:00"
+  "LastUpdate_Ratings": "2024-01-04T11:57:08.4984974+00:00",
+  "LastUpdate_Achievements": "2024-01-04T12:05:20.4086728+00:00"
 }

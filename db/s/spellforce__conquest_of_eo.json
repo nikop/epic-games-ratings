@@ -2,10 +2,10 @@
   "ID": "0acc28c619c44fbab3dd30c7f87e9679",
   "Name": "SpellForce: Conquest of Eo",
   "ProductSlug": "spellforce-conquest-of-eo",
-  "Ranking_EOS_Progress": 480,
+  "Ranking_EOS_Progress": 478,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 326,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 321,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
     "PcReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 112,
+  "EOS_Progressed": 113,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -569,6 +569,11 @@
       "Time": "2024-01-03T15:10:30.0244834+00:00",
       "NumProgressed": 112,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T12:09:17.5953879+00:00",
+      "NumProgressed": 113,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-25T16:04:46.0994968+00:00",
@@ -587,7 +592,7 @@
       "ID": "Build_First_Lodge",
       "SetID": "7b9f97e",
       "Name": "Expansion",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 15,
       "UsersEstimate": 69
     },
@@ -595,9 +600,9 @@
       "ID": "Build_First_Room",
       "SetID": "7b9f97e",
       "Name": "Enough rooms to swing a cat",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 90
     },
     {
       "ID": "Build_First_Room_Extension",
@@ -643,7 +648,7 @@
       "ID": "Craft_First_Potion",
       "SetID": "7b9f97e",
       "Name": "Alchemist\u0027s Apprentice",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
       "UsersEstimate": 41
     },
@@ -651,9 +656,9 @@
       "ID": "Craft_First_Undead",
       "SetID": "7b9f97e",
       "Name": "Necromancer\u0027s Apprentice",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 42
     },
     {
       "ID": "Defeat_Gor",
@@ -685,7 +690,7 @@
       "Name": "Defeat Isgrimm",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Defeat_Raith",
@@ -725,7 +730,7 @@
       "Name": "Defeat Yria",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Enslave_Unit_Post_Battle",
@@ -741,13 +746,13 @@
       "Name": "First to the post",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "First_Node_Meld",
       "SetID": "7b9f97e",
       "Name": "Connected",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 15,
       "UsersEstimate": 75
     },
@@ -781,7 +786,7 @@
       "Name": "Lytra\u0027s Tale",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "HeroStory_Philo",
@@ -789,7 +794,7 @@
       "Name": "Philo\u0027s Tale",
       "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "HeroStory_Yngrid",
@@ -821,7 +826,7 @@
       "Name": "Misty Coast Dragonbones",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Landmark_ReganGorForge",
@@ -837,7 +842,7 @@
       "Name": "Silver Drift Hollow Mine",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Landmark_StormwatchFaste",
@@ -851,9 +856,9 @@
       "ID": "Landmark_Throne",
       "SetID": "7b9f97e",
       "Name": "Sevenkeeps Seat of Kings",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 23
     },
     {
       "ID": "Landmark_TuscariPortal",
@@ -877,7 +882,7 @@
       "Name": "Master Alchemist",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "MainCampaign_Artificer",
@@ -893,7 +898,7 @@
       "Name": "Breaking the circle",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "MainCampaign_CirclePage_AllfireNodes",
@@ -925,7 +930,7 @@
       "Name": "A Master of Magic",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "MainCampaign_CirclePage_Reputation",
@@ -933,7 +938,7 @@
       "Name": "My Friends!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "MainCampaign_Hard",
@@ -995,7 +1000,7 @@
       "ID": "Max_Reputation_Goldenfields",
       "SetID": "7b9f97e",
       "Name": "Friend of Lyraine",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 5,
       "UsersEstimate": 41
     },
@@ -1005,7 +1010,7 @@
       "Name": "Friend of Orgash",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Max_Reputation_Sevenkeeps",
@@ -1043,9 +1048,9 @@
       "ID": "Max_Reputation_Westguard",
       "SetID": "7b9f97e",
       "Name": "Friend of Bastion",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 14
     },
     {
       "ID": "Max_Reputation_Windholme",
@@ -1059,9 +1064,9 @@
       "ID": "Max_Tower_And_Apprentices",
       "SetID": "7b9f97e",
       "Name": "Magic Academy",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 14
     },
     {
       "ID": "Mine_First_Ore",
@@ -1107,9 +1112,9 @@
       "ID": "Remove_Raider_From_Tower",
       "SetID": "7b9f97e",
       "Name": "Get out of here!",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 47
     },
     {
       "ID": "Start_Of_A_Joke",
@@ -1123,9 +1128,9 @@
       "ID": "Tower_Fly",
       "SetID": "7b9f97e",
       "Name": "Fly the friendly Sky",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 51
     },
     {
       "ID": "Zombify_Unit_Post_Battle",
@@ -1140,7 +1145,7 @@
     {
       "ID": "7b9f97e",
       "IsBase": true,
-      "Progressed": 112,
+      "Progressed": 113,
       "Completed": 0
     }
   ],
@@ -1148,8 +1153,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2024-01-04T11:10:42.5753915+00:00",
+  "LastChanged_Achievements": "2024-01-04T12:09:17.5953875+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:20.4706393+00:00",
-  "LastUpdate_Ratings": "2024-01-04T11:02:27.935418+00:00",
-  "LastUpdate_Achievements": "2024-01-04T11:10:42.5754475+00:00"
+  "LastUpdate_Ratings": "2024-01-04T12:00:26.5386709+00:00",
+  "LastUpdate_Achievements": "2024-01-04T12:09:17.5954503+00:00"
 }

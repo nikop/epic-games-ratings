@@ -4,8 +4,8 @@
   "ProductSlug": "lifeslide",
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 566,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 522,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-11-15T19:00:00+00:00",
     "PcReleaseDate": "2021-08-06T12:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 338,
+  "EOS_Progressed": 339,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -154,6 +154,11 @@
       "Time": "2024-01-01T03:06:36.1674567+00:00",
       "NumProgressed": 338,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T12:03:29.6232436+00:00",
+      "NumProgressed": 339,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 31,
@@ -205,7 +210,7 @@
       "Name": "All Starts Here",
       "Percentage": 96,
       "XP": 20,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "BUILDING_HIDDEN",
@@ -227,9 +232,9 @@
       "ID": "CHANGE_POWERUP",
       "SetID": "b6f796g",
       "Name": "Change of Heart",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 186
     },
     {
       "ID": "CHILDHOOD_REACHED",
@@ -237,7 +242,7 @@
       "Name": "Wonderful World",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "COLLECT_MATTER_10000",
@@ -253,7 +258,7 @@
       "Name": "Alive",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "FIRST_IMPROVEMENT",
@@ -325,15 +330,15 @@
       "Name": "Cut The Air",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "NIGHT_FOREST_HIDDEN",
       "SetID": "b6f796g",
       "Name": "Night Air",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 20
     },
     {
       "ID": "OLD_AGE_REACHED",
@@ -349,7 +354,7 @@
       "Name": "Second Wind",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "SECOND_WIND_X3",
@@ -357,7 +362,7 @@
       "Name": "What Are The Chances?",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "SPRING_HIDDEN",
@@ -412,7 +417,7 @@
     {
       "ID": "b6f796g",
       "IsBase": true,
-      "Progressed": 338,
+      "Progressed": 339,
       "Completed": 0
     }
   ],
@@ -420,8 +425,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.7063169+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.5274456+00:00",
   "LastChanged": "2023-03-31T05:57:26.706317+00:00",
-  "LastChanged_Achievements": "2024-01-04T11:04:29.6395757+00:00",
+  "LastChanged_Achievements": "2024-01-04T12:03:29.6232431+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:45.3217512+00:00",
-  "LastUpdate_Ratings": "2024-01-04T10:58:27.8984204+00:00",
-  "LastUpdate_Achievements": "2024-01-04T11:04:29.6395979+00:00"
+  "LastUpdate_Ratings": "2024-01-04T11:57:53.2728668+00:00",
+  "LastUpdate_Achievements": "2024-01-04T12:03:29.6232714+00:00"
 }

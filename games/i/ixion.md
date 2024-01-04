@@ -9,9 +9,9 @@ Rating: 4.58 (Ranked 466)
 | Sputnik 2049 | 28.00% | ~1,105 |
 | Infinite Growth... | 27.00% | ~1,066 |
 | Without Breaking Some Eggs... | 26.00% | ~1,026 |
-| Space Society | 18.00% | ~710 |
-| A Thousand Strong | 18.00% | ~710 |
-| Ready for a New World | 18.00% | ~710 |
+| Ready for a New World | 19.00% | ~750 |
+| Space Society | 18.00% | ~711 |
+| A Thousand Strong | 18.00% | ~711 |
 | Permanent Redesigns | 16.00% | ~632 |
 | Fully Recycled | 15.00% | ~592 |
 | The Ship of Theseus | 15.00% | ~592 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 466)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,947 (Ranked 211)  
+Progressed: 3,948 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-01 | 3,888 | 0 |
 | 2024-01-02 | 3,912 | 0 |
 | 2024-01-03 | 3,940 | 0 |
-| 2024-01-04 | 3,947 | 0 |
+| 2024-01-04 | 3,948 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

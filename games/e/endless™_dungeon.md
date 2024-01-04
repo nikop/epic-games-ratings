@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Leap Before You Look | 69.00% | ~1,012 |
-| Getting the Hang of It | 41.00% | ~601 |
+| Getting the Hang of It | 42.00% | ~616 |
 | Hoarder | 32.00% | ~469 |
 | Pest Control | 28.00% | ~410 |
 | Exhaustive Explorer | 27.00% | ~396 |
@@ -14,9 +14,9 @@
 | Team Builder | 20.00% | ~293 |
 | Long Live Rock | 16.00% | ~235 |
 | Aggressive Antivirus | 15.00% | ~220 |
+| Effective Efficiency | 13.00% | ~191 |
 | Unblurred Lines | 12.00% | ~176 |
 | Obsessively Thorough | 12.00% | ~176 |
-| Effective Efficiency | 12.00% | ~176 |
 | Endlessly Effective | 11.00% | ~161 |
 | What's Behind Every Door? | 6.00% | ~88 |
 | No Stone Unturned | 5.00% | ~73 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -5214,9 +5214,9 @@
       "ID": "AC10",
       "SetID": "l4abp0",
       "Name": "The Wait is Over",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 715
+      "UsersEstimate": 737
     },
     {
       "ID": "AC11",
@@ -5382,9 +5382,9 @@
       "ID": "AC31",
       "SetID": "l4abp0",
       "Name": "The Merciless One",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 693
+      "UsersEstimate": 715
     },
     {
       "ID": "AC32",
@@ -5511,8 +5511,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-03T18:01:37.9777192+00:00",
-  "LastChanged_Achievements": "2024-01-04T11:09:14.9633329+00:00",
+  "LastChanged_Achievements": "2024-01-04T12:08:17.2498007+00:00",
   "LastUpdate_AppInfo": "2024-01-03T03:57:04.3699674+00:00",
-  "LastUpdate_Ratings": "2024-01-04T11:02:10.3928977+00:00",
-  "LastUpdate_Achievements": "2024-01-04T11:09:14.9634054+00:00"
+  "LastUpdate_Ratings": "2024-01-04T12:00:14.4242705+00:00",
+  "LastUpdate_Achievements": "2024-01-04T12:08:17.2498721+00:00"
 }

@@ -501,7 +501,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3844,
+  "EOS_Progressed": 3845,
   "EOS_Completed": 143,
   "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 3,
@@ -6731,6 +6731,11 @@
       "Time": "2024-01-04T10:08:47.6270453+00:00",
       "NumProgressed": 3844,
       "NumCompleted": 143
+    },
+    {
+      "Time": "2024-01-04T12:08:21.6788837+00:00",
+      "NumProgressed": 3845,
+      "NumCompleted": 143
     }
   ],
   "TotalAchievements": 14,
@@ -6750,7 +6755,7 @@
       "Name": "Case Closed",
       "Percentage": 35,
       "XP": 55,
-      "UsersEstimate": 1345
+      "UsersEstimate": 1346
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -6846,14 +6851,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 79,
       "XP": 35,
-      "UsersEstimate": 3037
+      "UsersEstimate": 3038
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3844,
+      "Progressed": 3845,
       "Completed": 143
     }
   ],
@@ -6861,8 +6866,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2024-01-03T23:57:00.115458+00:00",
-  "LastChanged_Achievements": "2024-01-04T11:09:21.6243531+00:00",
+  "LastChanged_Achievements": "2024-01-04T12:08:21.6788833+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:02.885587+00:00",
-  "LastUpdate_Ratings": "2024-01-04T10:57:39.7828253+00:00",
-  "LastUpdate_Achievements": "2024-01-04T11:09:21.6244047+00:00"
+  "LastUpdate_Ratings": "2024-01-04T11:57:21.20078+00:00",
+  "LastUpdate_Achievements": "2024-01-04T12:08:21.6789264+00:00"
 }

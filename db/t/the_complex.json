@@ -4,7 +4,7 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 308,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewPlayers": 278,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
@@ -1639,9 +1639,9 @@
       "ID": "beat_it",
       "SetID": "d4f4pll",
       "Name": "Beat It",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 25,
-      "UsersEstimate": 376
+      "UsersEstimate": 384
     },
     {
       "ID": "blast_from_the_past",
@@ -1727,17 +1727,17 @@
       "ID": "falling_for_you",
       "SetID": "d4f4pll",
       "Name": "Falling For You",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 329
+      "UsersEstimate": 337
     },
     {
       "ID": "free_champagne",
       "SetID": "d4f4pll",
       "Name": "Free Champagne",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 25,
-      "UsersEstimate": 376
+      "UsersEstimate": 384
     },
     {
       "ID": "kamikaze",
@@ -1791,9 +1791,9 @@
       "ID": "tough_decision",
       "SetID": "d4f4pll",
       "Name": "Tough Decision",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 50,
-      "UsersEstimate": 713
+      "UsersEstimate": 720
     }
   ],
   "AchievementSets": [
@@ -1808,8 +1808,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2024-01-04T11:10:50.7644673+00:00",
+  "LastChanged_Achievements": "2024-01-04T12:09:23.1689702+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:19.0245137+00:00",
-  "LastUpdate_Ratings": "2024-01-04T11:02:08.7898181+00:00",
-  "LastUpdate_Achievements": "2024-01-04T11:10:50.7644918+00:00"
+  "LastUpdate_Ratings": "2024-01-04T12:00:13.4560612+00:00",
+  "LastUpdate_Achievements": "2024-01-04T12:09:23.1689984+00:00"
 }

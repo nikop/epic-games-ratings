@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -67,9 +67,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1357,
+  "EOS_Progressed": 1359,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 265,
+  "EOS_NewPlayers": 267,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3542,6 +3542,11 @@
       "Time": "2024-01-04T11:10:46.1724658+00:00",
       "NumProgressed": 1357,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T12:09:20.0041535+00:00",
+      "NumProgressed": 1359,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -3554,7 +3559,7 @@
       "Name": "The Teleprobe",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "AchvAllMemories",
@@ -3578,7 +3583,7 @@
       "Name": "Fierce fight",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "AchvBombStop",
@@ -3610,7 +3615,7 @@
       "Name": "Ubiquitous holes",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "AchvDiscoverAlliance",
@@ -3618,7 +3623,7 @@
       "Name": "The Alliance",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "AchvDoom",
@@ -3642,7 +3647,7 @@
       "Name": "Another giant",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "AchvKrautaAlive",
@@ -3650,7 +3655,7 @@
       "Name": "Krauta is alive",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "AchvLava",
@@ -3682,7 +3687,7 @@
       "Name": "The Necroevolution",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "AchvNest",
@@ -3714,15 +3719,15 @@
       "Name": "Strong objection",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "AchvReachBase",
       "SetID": "1hj060c",
       "Name": "The field base",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 597
+      "UsersEstimate": 584
     },
     {
       "ID": "AchvReachCamp",
@@ -3730,7 +3735,7 @@
       "Name": "The Camp",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "AchvReachCity",
@@ -3738,7 +3743,7 @@
       "Name": "The City",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "AchvReachCondor",
@@ -3770,7 +3775,7 @@
       "Name": "The End",
       "Percentage": 35,
       "XP": 55,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "AchvUnity",
@@ -3785,7 +3790,7 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1357,
+      "Progressed": 1359,
       "Completed": 0
     }
   ],
@@ -3793,8 +3798,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-03T13:02:33.844766+00:00",
-  "LastChanged_Achievements": "2024-01-04T11:10:46.1724652+00:00",
+  "LastChanged_Achievements": "2024-01-04T12:09:20.0041528+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:20.4992862+00:00",
-  "LastUpdate_Ratings": "2024-01-04T10:59:42.2810276+00:00",
-  "LastUpdate_Achievements": "2024-01-04T11:10:46.1725454+00:00"
+  "LastUpdate_Ratings": "2024-01-04T11:58:40.0431491+00:00",
+  "LastUpdate_Achievements": "2024-01-04T12:09:20.0042049+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "arons-adventure-1e76cd",
   "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 455,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 442,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
     "PcReleaseDate": "2021-04-07T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 158,
+  "EOS_Progressed": 159,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -629,6 +629,11 @@
       "Time": "2024-01-03T16:05:53.7737+00:00",
       "NumProgressed": 158,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T12:06:20.1660299+00:00",
+      "NumProgressed": 159,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-25T20:03:47.3726007+00:00",
@@ -641,7 +646,7 @@
       "Name": "Adventure awaits",
       "Percentage": 80,
       "XP": 100,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "BARON",
@@ -649,7 +654,7 @@
       "Name": "Baron",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "CHAIR",
@@ -681,7 +686,7 @@
       "Name": "Disciple",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "DRAGON",
@@ -721,7 +726,7 @@
       "Name": "The Rescue",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "GREEDY",
@@ -831,9 +836,9 @@
       "ID": "SAVIOR",
       "SetID": "40o4f14",
       "Name": "Savior of the people",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 33
     },
     {
       "ID": "SKILLED",
@@ -847,17 +852,17 @@
       "ID": "SNEAKY",
       "SetID": "40o4f14",
       "Name": "Sneaky",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 51
+      "UsersEstimate": 49
     },
     {
       "ID": "SOUL",
       "SetID": "40o4f14",
       "Name": "A restless soul",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 80
     },
     {
       "ID": "WASHING",
@@ -865,7 +870,7 @@
       "Name": "Needs washing",
       "Percentage": 18,
       "XP": 35,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "WITCH",
@@ -888,14 +893,14 @@
     {
       "ID": "40o4f14",
       "IsBase": true,
-      "Progressed": 158,
+      "Progressed": 159,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2024-01-04T11:08:35.688729+00:00",
+  "LastChanged_Achievements": "2024-01-04T12:06:20.1660294+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:17.400694+00:00",
-  "LastUpdate_Ratings": "2024-01-04T11:03:14.1689542+00:00",
-  "LastUpdate_Achievements": "2024-01-04T11:08:35.6887524+00:00"
+  "LastUpdate_Ratings": "2024-01-04T12:00:30.062031+00:00",
+  "LastUpdate_Achievements": "2024-01-04T12:06:20.1660596+00:00"
 }

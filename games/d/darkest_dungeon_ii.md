@@ -6,8 +6,8 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 12.00% | ~776 |
-| Lost and Found | 8.00% | ~517 |
+| Malpractice Assurance | 12.00% | ~777 |
+| Lost and Found | 8.00% | ~518 |
 | Autodidact | 7.00% | ~9,212 |
 | This Belongs in a Museum | 6.00% | ~7,896 |
 | This guy... again? | 6.00% | ~388 |
@@ -18,8 +18,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Overdue Notice | 5.00% | ~6,580 |
 | Escape from the Black Hole | 5.00% | ~6,580 |
 | To Grandmother's House | 5.00% | ~6,580 |
-| Ploughshares to Swords | 5.00% | ~323 |
-| Bloody Graduation | 5.00% | ~323 |
+| Ploughshares to Swords | 5.00% | ~324 |
+| Bloody Graduation | 5.00% | ~324 |
 | Don't Make Me Turn This Coach Around | 4.00% | ~5,264 |
 | It Rings a Bell | 4.00% | ~5,264 |
 | Not Today! | 4.00% | ~5,264 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,595 (Ranked 91)  
+Progressed: 131,603 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,7 +335,7 @@ Completed: 3 (0.00%) (Ranked 392)
 | 2024-01-01 | 131,206 | 3 |
 | 2024-01-02 | 131,365 | 3 |
 | 2024-01-03 | 131,540 | 3 |
-| 2024-01-04 | 131,595 | 3 |
+| 2024-01-04 | 131,603 | 3 |
 ## Awards
 Max (Character Customization): 7,940  (Ranked 50)  
 Sum: 21,395 (Ranked 58)  
