@@ -4,8 +4,8 @@
   "ProductSlug": "monster-harvest-75f018",
   "Ranking_EOS_Progress": 381,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 411,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 402,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-11-03T14:00:00+00:00",
     "PcReleaseDate": "2021-08-31T13:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 329,
+  "EOS_Progressed": 330,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.04,
+  "EOS_Completed_Percentage": 3.03,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:24.8770575+00:00",
@@ -580,6 +580,11 @@
       "Time": "2024-01-03T22:09:29.7202904+00:00",
       "NumProgressed": 329,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-04T21:10:27.97096+00:00",
+      "NumProgressed": 330,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 10,
@@ -623,7 +628,7 @@
       "Name": "My first Planimal!",
       "Percentage": 69,
       "XP": 100,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "RED_SLIME_TIME",
@@ -639,7 +644,7 @@
       "Name": "Save the Slimes!",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "SO_LONG_SLIME_CO",
@@ -663,14 +668,14 @@
       "Name": "Welcome To Planimal Point",
       "Percentage": 95,
       "XP": 100,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     }
   ],
   "AchievementSets": [
     {
       "ID": "ca3djk0",
       "IsBase": true,
-      "Progressed": 329,
+      "Progressed": 330,
       "Completed": 10
     }
   ],
@@ -678,8 +683,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.9307508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.8770583+00:00",
   "LastChanged": "2023-03-31T05:58:23.9307509+00:00",
-  "LastChanged_Achievements": "2024-01-04T20:10:49.5430834+00:00",
+  "LastChanged_Achievements": "2024-01-04T21:10:27.9709594+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:24.2662149+00:00",
-  "LastUpdate_Ratings": "2024-01-04T19:59:27.3383228+00:00",
-  "LastUpdate_Achievements": "2024-01-04T20:10:49.5430951+00:00"
+  "LastUpdate_Ratings": "2024-01-04T20:59:02.6446143+00:00",
+  "LastUpdate_Achievements": "2024-01-04T21:10:27.9710017+00:00"
 }

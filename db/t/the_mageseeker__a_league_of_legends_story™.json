@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -6038,9 +6038,9 @@
       "ID": "STB_DEFEAT_NIGHTMARE_I",
       "SetID": "3pe2bac",
       "Name": "Past trauma",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 1212
+      "UsersEstimate": 1244
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -6351,8 +6351,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-30T20:57:35.994685+00:00",
-  "LastChanged_Achievements": "2024-01-04T20:08:31.9384452+00:00",
+  "LastChanged_Achievements": "2024-01-04T21:07:40.532887+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:16.0545663+00:00",
-  "LastUpdate_Ratings": "2024-01-04T20:00:43.9773246+00:00",
-  "LastUpdate_Achievements": "2024-01-04T20:08:31.9385161+00:00"
+  "LastUpdate_Ratings": "2024-01-04T21:00:21.0091834+00:00",
+  "LastUpdate_Achievements": "2024-01-04T21:07:40.5329497+00:00"
 }

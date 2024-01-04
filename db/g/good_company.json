@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 359,
   "Ranking_EOS_NewPlayers": 290,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2020-03-31T12:00:00+00:00",
@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5785,
+  "EOS_Progressed": 5786,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -5199,6 +5199,11 @@
       "Time": "2024-01-04T18:05:22.3425426+00:00",
       "NumProgressed": 5785,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-04T21:06:10.0447883+00:00",
+      "NumProgressed": 5786,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -5482,7 +5487,7 @@
       "Name": "Merry-Go-Around: Self-Made",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ach_campaign_special8",
@@ -5754,7 +5759,7 @@
       "Name": "Trendsetter",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ach_prof_modules_analyzed",
@@ -5817,15 +5822,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5785,
+      "Progressed": 5786,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-12-29T23:58:32.3539857+00:00",
-  "LastChanged_Achievements": "2024-01-04T20:06:40.8990999+00:00",
+  "LastChanged_Achievements": "2024-01-04T21:06:10.0447877+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:45.6175263+00:00",
-  "LastUpdate_Ratings": "2024-01-04T19:58:52.8547883+00:00",
-  "LastUpdate_Achievements": "2024-01-04T20:06:40.8991832+00:00"
+  "LastUpdate_Ratings": "2024-01-04T20:58:27.6142868+00:00",
+  "LastUpdate_Achievements": "2024-01-04T21:06:10.0448663+00:00"
 }

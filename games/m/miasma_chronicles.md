@@ -44,9 +44,9 @@ Rating: 4.39 (Ranked 776)
 | Bot Whisperer | 9.00% | ~151 |
 | Chain Reaction | 9.00% | ~151 |
 | Curveball | 8.00% | ~134 |
+| Wipe Out | 8.00% | ~134 |
 | Dressed To Kill | 7.00% | ~118 |
 | Master Editor | 7.00% | ~118 |
-| Wipe Out | 7.00% | ~118 |
 | Attenborough | 6.00% | ~101 |
 | Bookworm | 3.00% | ~50 |
 | Cruelty | 3.00% | ~50 |

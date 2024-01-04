@@ -4,40 +4,40 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 88.00% | ~99 |
-| Enough rooms to swing a cat | 80.00% | ~90 |
-| First to the post | 80.00% | ~90 |
-| A kind of Magic | 73.00% | ~82 |
+| Home Sweet Home | 89.00% | ~101 |
+| Enough rooms to swing a cat | 79.00% | ~90 |
+| First to the post | 79.00% | ~90 |
+| A kind of Magic | 73.00% | ~83 |
 | Connected | 66.00% | ~75 |
-| Expansion | 61.00% | ~69 |
-| Harvest Time | 57.00% | ~64 |
-| Mine! | 57.00% | ~64 |
-| Artificer's Apprentice | 49.00% | ~55 |
+| Expansion | 61.00% | ~70 |
+| Harvest Time | 56.00% | ~64 |
+| Mine! | 56.00% | ~64 |
+| Artificer's Apprentice | 48.00% | ~55 |
 | Fly the friendly Sky | 45.00% | ~51 |
-| Get out of here! | 42.00% | ~47 |
+| Get out of here! | 42.00% | ~48 |
 | Alchemist's Apprentice | 37.00% | ~42 |
 | Necromancer's Apprentice | 37.00% | ~42 |
 | Friend of Lyraine | 36.00% | ~41 |
-| The Circle | 35.00% | ~40 |
-| Redecorating | 34.00% | ~38 |
+| The Circle | 34.00% | ~39 |
+| Redecorating | 33.00% | ~38 |
 | Bad JuJu | 25.00% | ~28 |
 | Friend of Sevenkeeps | 24.00% | ~27 |
 | Slave to the rhythm | 22.00% | ~25 |
 | Castle Meldec | 22.00% | ~25 |
 | Sevenkeeps Seat of Kings | 20.00% | ~23 |
-| Friend of Alluvyan | 18.00% | ~20 |
+| Friend of Alluvyan | 18.00% | ~21 |
 | Friend of Connach | 16.00% | ~18 |
 | Friend of Gillyshire | 15.00% | ~17 |
 | Stormwatch Faste | 13.00% | ~15 |
 | Friend of Silver Drift Hollow | 13.00% | ~15 |
 | Break Free | 13.00% | ~15 |
-| Philo's Tale | 12.00% | ~14 |
-| Silver Drift Hollow Mine | 12.00% | ~14 |
-| A Master of Magic | 12.00% | ~14 |
 | Friend of Orgash | 12.00% | ~14 |
 | Friend of Bastion | 12.00% | ~14 |
 | Magic Academy | 12.00% | ~14 |
-| Friend of Windholme | 11.00% | ~12 |
+| Philo's Tale | 11.00% | ~13 |
+| Silver Drift Hollow Mine | 11.00% | ~13 |
+| A Master of Magic | 11.00% | ~13 |
+| Friend of Windholme | 11.00% | ~13 |
 | Defeat Gor | 10.00% | ~11 |
 | Mage Teacher | 10.00% | ~11 |
 | Defeat Uram | 9.00% | ~10 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 113 (Ranked 478)  
+Progressed: 114 (Ranked 478)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-01 | 107 | 0 |
 | 2024-01-02 | 110 | 0 |
 | 2024-01-03 | 112 | 0 |
-| 2024-01-04 | 113 | 0 |
+| 2024-01-04 | 114 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

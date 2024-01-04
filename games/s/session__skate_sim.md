@@ -1,13 +1,13 @@
 # Session: Skate Sim
 [Store](https://store.epicgames.com/en-US/p/session-skate-sim)  
 [View Rawdata](../../db/s/session__skate_sim.json)  
-Rating: 4.69 (Ranked 232)  
+Rating: 4.69 (Ranked 233)  
 Number of Ratings: 111  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 62.00% | ~2,185 |
-| Keeping it classy | 27.00% | ~951 |
+| You're free now! | 62.00% | ~2,186 |
+| Keeping it classy | 27.00% | ~952 |
 | Welcome to the family | 21.00% | ~740 |
 | The finer things in life | 19.00% | ~670 |
 | Backpacker | 13.00% | ~458 |
@@ -23,12 +23,12 @@ Number of Ratings: 111  (23.09.2022)
 | Finally he zips it | 7.00% | ~247 |
 | That pinch! | 7.00% | ~247 |
 | Tight lipslides | 7.00% | ~247 |
-| Fulfilled the dream | 6.00% | ~211 |
-| G'Day Mate! | 6.00% | ~211 |
-| NAHELL! | 6.00% | ~211 |
-| Purple passion | 6.00% | ~211 |
-| Squad goals | 6.00% | ~211 |
-| Sup widdit big dog! | 6.00% | ~211 |
+| Fulfilled the dream | 6.00% | ~212 |
+| G'Day Mate! | 6.00% | ~212 |
+| NAHELL! | 6.00% | ~212 |
+| Purple passion | 6.00% | ~212 |
+| Squad goals | 6.00% | ~212 |
+| Sup widdit big dog! | 6.00% | ~212 |
 | Commence the Hijinx! | 5.00% | ~176 |
 | DIY Boss | 5.00% | ~176 |
 | Globetrotter | 5.00% | ~176 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~4 |
 | Ultimate skate nerd | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,524 (Ranked 221)  
+Progressed: 3,525 (Ranked 222)  
 Completed: 2 (0.06%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 2 (0.06%) (Ranked 328)
 | 2024-01-01 | 3,487 | 2 |
 | 2024-01-02 | 3,506 | 2 |
 | 2024-01-03 | 3,515 | 2 |
-| 2024-01-04 | 3,524 | 2 |
+| 2024-01-04 | 3,525 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 63  (Ranked 420)  
 Sum: 581 (Ranked 323)  

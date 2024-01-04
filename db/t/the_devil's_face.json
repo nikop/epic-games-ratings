@@ -4,8 +4,8 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 333,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 631,
+  "EOS_Progressed": 632,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.11,
   "EosHistory": [
@@ -2774,6 +2774,11 @@
       "Time": "2024-01-04T19:03:49.449494+00:00",
       "NumProgressed": 631,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-04T21:04:23.1441384+00:00",
+      "NumProgressed": 632,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 14,
@@ -2785,7 +2790,7 @@
       "Name": "The gateway to the underworld",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -2801,7 +2806,7 @@
       "Name": "The crucifixion",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -2889,21 +2894,21 @@
       "Name": "Flagellation",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     }
   ],
   "AchievementSets": [
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 631,
+      "Progressed": 632,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2024-01-04T20:04:56.2633387+00:00",
+  "LastChanged_Achievements": "2024-01-04T21:04:23.144138+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:37.2024016+00:00",
-  "LastUpdate_Ratings": "2024-01-04T19:58:20.0906367+00:00",
-  "LastUpdate_Achievements": "2024-01-04T20:04:56.2633628+00:00"
+  "LastUpdate_Ratings": "2024-01-04T20:57:54.451643+00:00",
+  "LastUpdate_Achievements": "2024-01-04T21:04:23.1441617+00:00"
 }

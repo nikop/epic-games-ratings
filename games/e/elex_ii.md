@@ -1,7 +1,7 @@
 # ELEX II
 [Store](https://store.epicgames.com/en-US/p/elex-ii)  
 [View Rawdata](../../db/e/elex_ii.json)  
-Rating: 4.29 (Ranked 875)  
+Rating: 4.29 (Ranked 876)  
 Number of Ratings: 124  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -12,7 +12,7 @@ Number of Ratings: 124  (23.09.2022)
 | Role Model | 26.00% | ~46 |
 | Creator | 24.00% | ~42 |
 | Festival-goer | 24.00% | ~42 |
-| Peddler | 22.00% | ~39 |
+| Peddler | 23.00% | ~41 |
 | Military Leader | 21.00% | ~37 |
 | Commander | 19.00% | ~34 |
 | Irissa's Fate | 15.00% | ~27 |
@@ -41,8 +41,8 @@ Number of Ratings: 124  (23.09.2022)
 | Idealist | 2.00% | ~4 |
 | Toy Time | 2.00% | ~4 |
 | Morkon | 2.00% | ~4 |
+| Destroyer | 2.00% | ~4 |
 | Legendary | 2.00% | ~4 |
-| Destroyer | 1.00% | ~2 |
 | Pack Rat | 0.60% | ~1 |
 | Defector | 0.60% | ~1 |
 | Outlaw | 0.60% | ~1 |

@@ -2,13 +2,13 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 947,
+  "Ranking_Rating": 948,
   "Ranking_Popularity": 357,
   "Ranking_PopularitySum": 325,
   "Ranking_EOS_Progress": 151,
-  "Ranking_EOS_Completed": 234,
+  "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2039,9 +2039,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 20966,
+  "EOS_Progressed": 20974,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1193,
+  "EOS_NewPlayers": 1196,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -12559,6 +12559,11 @@
       "Time": "2024-01-04T20:10:35.9355162+00:00",
       "NumProgressed": 20966,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-04T21:10:14.7322735+00:00",
+      "NumProgressed": 20974,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -12586,7 +12591,7 @@
       "Name": "Giving Back",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1677
+      "UsersEstimate": 1678
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -12594,7 +12599,7 @@
       "Name": "You Need a Gun",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 1677
+      "UsersEstimate": 1678
     },
     {
       "ID": "DISARM_ENEMY",
@@ -12602,7 +12607,7 @@
       "Name": "Flesh Wound",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 4822
+      "UsersEstimate": 4824
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -12674,7 +12679,7 @@
       "Name": "Get a Grip",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 3984
+      "UsersEstimate": 3985
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -12698,7 +12703,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 3774
+      "UsersEstimate": 3775
     },
     {
       "ID": "KILL_ROBOT",
@@ -12706,7 +12711,7 @@
       "Name": "Terminated",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1887
+      "UsersEstimate": 1888
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -12714,7 +12719,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 2935
+      "UsersEstimate": 2936
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -12722,7 +12727,7 @@
       "Name": "The Commonality",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -12730,7 +12735,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 3355
+      "UsersEstimate": 3356
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -12738,7 +12743,7 @@
       "Name": "Reforged",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3355
+      "UsersEstimate": 3356
     },
     {
       "ID": "PRINT_WEAPON",
@@ -12746,7 +12751,7 @@
       "Name": "Paper Jams",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4193
+      "UsersEstimate": 4195
     },
     {
       "ID": "SHARE_PHOTO",
@@ -12762,7 +12767,7 @@
       "Name": "The Outer Way",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 4822
+      "UsersEstimate": 4824
     },
     {
       "ID": "STORY_ESCAPE",
@@ -12770,7 +12775,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2935
+      "UsersEstimate": 2936
     },
     {
       "ID": "STORY_HABITAT",
@@ -12778,7 +12783,7 @@
       "Name": "Without A Paddle",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2516
+      "UsersEstimate": 2517
     },
     {
       "ID": "STORY_HANGAR",
@@ -12786,7 +12791,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2306
+      "UsersEstimate": 2307
     },
     {
       "ID": "STORY_MINETOWN",
@@ -12794,7 +12799,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1887
+      "UsersEstimate": 1888
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -12802,7 +12807,7 @@
       "Name": "Desperate Times",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 4613
+      "UsersEstimate": 4614
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -12810,7 +12815,7 @@
       "Name": "Crash Site",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2306
+      "UsersEstimate": 2307
     },
     {
       "ID": "STORY_TOWER",
@@ -12818,7 +12823,7 @@
       "Name": "Full Circle",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1887
+      "UsersEstimate": 1888
     },
     {
       "ID": "STORY_TUNNELS",
@@ -12922,7 +12927,7 @@
       "Name": "Keep Fighting",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -12945,13 +12950,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 20966,
+      "Progressed": 20974,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 8892,
+      "Progressed": 8900,
       "Completed": 29
     }
   ],
@@ -12959,8 +12964,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-04T19:03:09.3737067+00:00",
-  "LastChanged_Achievements": "2024-01-04T20:10:35.9355157+00:00",
+  "LastChanged_Achievements": "2024-01-04T21:10:14.7322729+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.412859+00:00",
-  "LastUpdate_Ratings": "2024-01-04T20:04:01.9501629+00:00",
-  "LastUpdate_Achievements": "2024-01-04T20:10:35.9356116+00:00"
+  "LastUpdate_Ratings": "2024-01-04T21:03:28.411548+00:00",
+  "LastUpdate_Achievements": "2024-01-04T21:10:14.7323545+00:00"
 }

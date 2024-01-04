@@ -11,7 +11,7 @@
 | Coin collector | 74.00% | ~175 |
 | Floater | 59.00% | ~139 |
 | Speedrunner | 44.00% | ~104 |
-| On foot racer | 41.00% | ~97 |
+| On foot racer | 42.00% | ~99 |
 | Prickly situation handler | 34.00% | ~80 |
 | Hat lover | 33.00% | ~78 |
 | Perfectionist | 31.00% | ~73 |
@@ -36,7 +36,7 @@
 | Art lover | 1.00% | ~2 |
 | Completionist | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236 (Ranked 416)  
+Progressed: 236 (Ranked 417)  
 Completed: 4 (1.69%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |

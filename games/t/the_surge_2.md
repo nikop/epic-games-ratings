@@ -1,42 +1,42 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.27 (Ranked 897)  
+Rating: 4.27 (Ranked 898)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 79.00% | ~1,947 |
-| Don't I Know You...? | 75.00% | ~1,849 |
-| Jailbreak | 65.00% | ~1,602 |
+| Rigged And Ready | 79.00% | ~1,949 |
+| Don't I Know You...? | 75.00% | ~1,850 |
+| Jailbreak | 64.00% | ~1,579 |
 | HEADSHOT! | 38.00% | ~937 |
 | Suited and Booted | 38.00% | ~937 |
 | Sleeping With The Fishes | 35.00% | ~863 |
 | Overheated | 30.00% | ~740 |
 | High Performance | 30.00% | ~740 |
-| Powered Up | 28.00% | ~690 |
+| Powered Up | 28.00% | ~691 |
 | Studied The Blade | 24.00% | ~592 |
-| Home Invasion | 23.00% | ~567 |
-| Luminary | 22.00% | ~542 |
-| It's a Trap | 22.00% | ~542 |
+| Home Invasion | 22.00% | ~543 |
+| Luminary | 22.00% | ~543 |
+| It's a Trap | 22.00% | ~543 |
 | True Survivor | 21.00% | ~518 |
 | Offensive Defense | 20.00% | ~493 |
 | Shocking | 20.00% | ~493 |
-| Court Martial | 19.00% | ~468 |
-| Unforeseeable Consequences | 19.00% | ~468 |
+| Court Martial | 19.00% | ~469 |
+| Unforeseeable Consequences | 19.00% | ~469 |
 | Clean Cut | 18.00% | ~444 |
 | Dead Again | 17.00% | ~419 |
 | Full Arsenal | 17.00% | ~419 |
 | Can't Trust Banks | 15.00% | ~370 |
-| Mommy Dearest | 13.00% | ~320 |
-| Bad Dog | 13.00% | ~320 |
-| Where It All Began | 13.00% | ~320 |
-| Risk Tolerant | 13.00% | ~320 |
-| What A Catchy Song | 13.00% | ~320 |
+| Mommy Dearest | 13.00% | ~321 |
+| Bad Dog | 13.00% | ~321 |
+| Where It All Began | 13.00% | ~321 |
+| Risk Tolerant | 13.00% | ~321 |
+| What A Catchy Song | 13.00% | ~321 |
 | Corrupted Beauty | 12.00% | ~296 |
 | Marked For Success | 12.00% | ~296 |
 | Sorry, Didn't See You There | 12.00% | ~296 |
-| Stimulating The Local Economy | 10.00% | ~246 |
-| Triplets | 10.00% | ~246 |
+| Stimulating The Local Economy | 10.00% | ~247 |
+| Triplets | 10.00% | ~247 |
 | Denying Prophecy | 9.00% | ~222 |
 | A Little Banged Up | 8.00% | ~197 |
 | Following In Their Footsteps | 8.00% | ~197 |
@@ -63,7 +63,7 @@ Rating: 4.27 (Ranked 897)
 | Three Birds With One Stone | 1.00% | ~25 |
 | The Easy Way Out | 1.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,465 (Ranked 234)  
+Progressed: 2,467 (Ranked 234)  
 Completed: 13 (0.53%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 13 (0.53%) (Ranked 213)
 | 2024-01-01 | 2,442 | 13 |
 | 2024-01-02 | 2,447 | 13 |
 | 2024-01-03 | 2,457 | 13 |
-| 2024-01-04 | 2,465 | 13 |
+| 2024-01-04 | 2,467 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

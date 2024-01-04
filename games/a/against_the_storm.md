@@ -8,10 +8,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | ---- | ---------- | ----- |
 | Abandoned Settlement | 8.00% | ~1,611 |
 | Overgrown Library | 8.00% | ~1,611 |
-| First Real Expedition | 7.00% | ~1,409 |
-| Taking Action | 7.00% | ~1,409 |
-| No Deaths | 7.00% | ~1,409 |
-| Petrified Necropolis | 7.00% | ~1,409 |
+| First Real Expedition | 7.00% | ~1,410 |
+| Taking Action | 7.00% | ~1,410 |
+| No Deaths | 7.00% | ~1,410 |
+| Petrified Necropolis | 7.00% | ~1,410 |
 | Overcoming Difficulty | 6.00% | ~1,208 |
 | Coral Forest | 6.00% | ~1,208 |
 | The Marshlands | 6.00% | ~1,208 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Defying the Crown | 1.00% | ~201 |
 | Into the Forest | 1.00% | ~201 |
 | Feeding The People | 0.70% | ~141 |
-| Like a Machine | 0.60% | ~121 |
+| Like a Machine | 0.70% | ~141 |
 | Fox Utopia | 0.50% | ~101 |
 | Prestigious Expedition | 0.40% | ~81 |
 | Blood Flower Farmer | 0.40% | ~81 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,132 (Ranked 152)  
+Progressed: 20,136 (Ranked 153)  
 Completed: 33 (0.16%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,10 +325,10 @@ Completed: 33 (0.16%) (Ranked 281)
 | 2024-01-01 | 19,919 | 33 |
 | 2024-01-02 | 19,991 | 33 |
 | 2024-01-03 | 20,065 | 33 |
-| 2024-01-04 | 20,132 | 33 |
+| 2024-01-04 | 20,136 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 448  (Ranked 229)  
-Sum: 3,330 (Ranked 176)  
+Sum: 3,331 (Ranked 176)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
@@ -339,7 +339,7 @@ Diff (max vs sum): 53
 | This game is Highly Recommended | 401 |
 | This game has Unique Visuals | 341 |
 | This game has Amazing Storytelling | 329 |
-| This game has Amazing Characters | 292 |
+| This game has Amazing Characters | 293 |
 | This game has Obsessive Gameplay | 254 |
 | This game has a Creative Community | 218 |
 ## Ratings History
@@ -619,4 +619,4 @@ Diff (max vs sum): 53
 | 2024-01-01 | 4.82 | - | 447 | 3,317 |
 | 2024-01-02 | 4.82 | - | 447 | 3,320 |
 | 2024-01-03 | 4.82 | - | 447 | 3,324 |
-| 2024-01-04 | 4.82 | - | 448 | 3,330 |
+| 2024-01-04 | 4.82 | - | 448 | 3,331 |

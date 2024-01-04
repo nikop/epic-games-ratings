@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
     "PcReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 790,
+  "EOS_Progressed": 791,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 7.59,
   "EosHistory": [
@@ -781,6 +781,11 @@
       "Time": "2024-01-03T07:08:51.1974878+00:00",
       "NumProgressed": 790,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2024-01-04T21:09:22.5518106+00:00",
+      "NumProgressed": 791,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 50,
@@ -800,7 +805,7 @@
       "Name": "Partners?",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "ACHIEVEMENT003",
@@ -832,7 +837,7 @@
       "Name": "The Lords of the Snowpeak",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "ACHIEVEMENT007",
@@ -856,7 +861,7 @@
       "Name": "The Road to Recovery",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "ACHIEVEMENT010",
@@ -872,7 +877,7 @@
       "Name": "A Girl About the Town",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "ACHIEVEMENT012",
@@ -918,9 +923,9 @@
       "ID": "ACHIEVEMENT017",
       "SetID": "dejhjd5",
       "Name": "Adept, for an Acting Mayor",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 261
+      "UsersEstimate": 253
     },
     {
       "ID": "ACHIEVEMENT018",
@@ -976,7 +981,7 @@
       "Name": "Amateur Adventurer",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "ACHIEVEMENT025",
@@ -1048,7 +1053,7 @@
       "Name": "Rune Scholar",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ACHIEVEMENT034",
@@ -1064,7 +1069,7 @@
       "Name": "First Time Fishing",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "ACHIEVEMENT036",
@@ -1072,7 +1077,7 @@
       "Name": "First Time Hunting",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "ACHIEVEMENT037",
@@ -1144,7 +1149,7 @@
       "Name": "The Runebarrows...On Foot!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ACHIEVEMENT046",
@@ -1191,15 +1196,15 @@
     {
       "ID": "dejhjd5",
       "IsBase": true,
-      "Progressed": 790,
+      "Progressed": 791,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-12-03T09:59:31.596296+00:00",
-  "LastChanged_Achievements": "2024-01-04T20:09:43.8336424+00:00",
+  "LastChanged_Achievements": "2024-01-04T21:09:22.5518103+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:02.3357194+00:00",
-  "LastUpdate_Ratings": "2024-01-04T20:03:23.0891756+00:00",
-  "LastUpdate_Achievements": "2024-01-04T20:09:43.8336971+00:00"
+  "LastUpdate_Ratings": "2024-01-04T21:02:51.5862023+00:00",
+  "LastUpdate_Achievements": "2024-01-04T21:09:22.5518478+00:00"
 }

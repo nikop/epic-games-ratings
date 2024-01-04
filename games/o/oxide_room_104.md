@@ -13,7 +13,7 @@
 | Now or never | 73.00% | ~220 |
 | Soundtrack | 61.00% | ~184 |
 | First aid | 58.00% | ~175 |
-| Antidote | 50.00% | ~151 |
+| Antidote | 51.00% | ~154 |
 | Pick the right door | 24.00% | ~72 |
 | The third floor | 18.00% | ~54 |
 | One-way | 16.00% | ~48 |

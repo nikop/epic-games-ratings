@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 537,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 480,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-12-13T19:30:00+00:00",
     "PcReleaseDate": "2020-11-06T07:30:00+00:00",
@@ -450,9 +450,9 @@
       "ID": "22",
       "SetID": "38ide56",
       "Name": "Clear the Road",
-      "Percentage": 42,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "23",
@@ -579,8 +579,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2024-01-04T20:06:33.1034358+00:00",
+  "LastChanged_Achievements": "2024-01-04T21:06:02.2414695+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:17.3516667+00:00",
-  "LastUpdate_Ratings": "2024-01-04T19:58:15.9831703+00:00",
-  "LastUpdate_Achievements": "2024-01-04T20:06:33.1034512+00:00"
+  "LastUpdate_Ratings": "2024-01-04T20:57:50.1011335+00:00",
+  "LastUpdate_Achievements": "2024-01-04T21:06:02.2414848+00:00"
 }

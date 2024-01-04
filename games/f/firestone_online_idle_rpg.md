@@ -5,31 +5,31 @@ Rating: 4.07 (Ranked 1,022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,880 |
-| World Map | 78.00% | ~3,254 |
-| Temple of Eternals | 56.00% | ~2,336 |
-| Prestigious | 52.00% | ~2,169 |
+| Victor | 93.00% | ~3,882 |
+| World Map | 78.00% | ~3,256 |
+| Temple of Eternals | 56.00% | ~2,337 |
+| Prestigious | 52.00% | ~2,170 |
 | Fellowship Power | 41.00% | ~1,711 |
-| Full Party | 28.00% | ~1,168 |
+| Full Party | 28.00% | ~1,169 |
 | Guild Power | 23.00% | ~960 |
-| Prestigious x10 | 20.00% | ~834 |
+| Prestigious x10 | 20.00% | ~835 |
 | The game is on | 18.00% | ~751 |
 | Exotic Merchant | 16.00% | ~668 |
 | Dragon Clicker | 15.00% | ~626 |
 | Miner Clicker | 15.00% | ~626 |
 | Inspection | 14.00% | ~584 |
-| Dragon Master | 13.00% | ~542 |
-| Enlightenment | 13.00% | ~542 |
-| Hero inspection | 13.00% | ~542 |
+| Dragon Master | 13.00% | ~543 |
+| Enlightenment | 13.00% | ~543 |
+| Hero inspection | 13.00% | ~543 |
 | Lieutenant | 12.00% | ~501 |
 | Milestone collector | 11.00% | ~459 |
 | Mysterious Rock | 11.00% | ~459 |
 | Natural Talent | 11.00% | ~459 |
 | Superior | 11.00% | ~459 |
 | The Unstoppable | 11.00% | ~459 |
-| Doing My Part | 9.00% | ~375 |
-| Scientist | 9.00% | ~375 |
-| The power of Awakening | 9.00% | ~375 |
+| Doing My Part | 9.00% | ~376 |
+| Scientist | 9.00% | ~376 |
+| The power of Awakening | 9.00% | ~376 |
 | Challenger | 8.00% | ~334 |
 | Daily Quest Completionist | 8.00% | ~334 |
 | Frostfire Liberator | 8.00% | ~334 |
@@ -81,7 +81,7 @@ Rating: 4.07 (Ranked 1,022)
 | Jewel Enchanting | 0.10% | ~4 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,172 (Ranked 209)  
+Progressed: 4,174 (Ranked 209)  
 Completed: 2 (0.05%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,7 +335,7 @@ Completed: 2 (0.05%) (Ranked 334)
 | 2024-01-01 | 4,079 | 2 |
 | 2024-01-02 | 4,107 | 2 |
 | 2024-01-03 | 4,139 | 2 |
-| 2024-01-04 | 4,172 | 2 |
+| 2024-01-04 | 4,174 | 2 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 478)  
 Sum: 154 (Ranked 437)  

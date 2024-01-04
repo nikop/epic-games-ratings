@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 381,
+  "EOS_Progressed": 382,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 1,
@@ -1504,6 +1504,11 @@
       "Time": "2024-01-04T20:07:02.4684712+00:00",
       "NumProgressed": 381,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-04T21:06:30.8615663+00:00",
+      "NumProgressed": 382,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -1596,7 +1601,7 @@
       "Name": "Misery",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "AC_BOSS_02",
@@ -1660,7 +1665,7 @@
       "Name": "Corpse",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "AC_DEATH_2",
@@ -1684,7 +1689,7 @@
       "Name": "Killer",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -1700,7 +1705,7 @@
       "Name": "Genocide",
       "Percentage": 19,
       "XP": 45,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "AC_DISTANCE_1",
@@ -1716,7 +1721,7 @@
       "Name": "Journey",
       "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -1724,7 +1729,7 @@
       "Name": "Voyage",
       "Percentage": 29,
       "XP": 45,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "AC_FIRST_BLACKJACK",
@@ -1732,7 +1737,7 @@
       "Name": "Player",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "AC_FLASHBACK_01",
@@ -1764,7 +1769,7 @@
       "Name": "Vision",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "AC_MONEY_BLACKJACK",
@@ -1820,7 +1825,7 @@
       "Name": "Loss",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -1828,7 +1833,7 @@
       "Name": "Shot",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "AC_SNIPER_MAX",
@@ -1851,14 +1856,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 381,
+      "Progressed": 382,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-04T20:07:02.4684708+00:00",
+  "LastChanged_Achievements": "2024-01-04T21:06:30.861566+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:05.7124829+00:00",
-  "LastUpdate_Ratings": "2024-01-04T20:02:55.1409253+00:00",
-  "LastUpdate_Achievements": "2024-01-04T20:07:02.4685038+00:00"
+  "LastUpdate_Ratings": "2024-01-04T21:01:41.3566772+00:00",
+  "LastUpdate_Achievements": "2024-01-04T21:06:30.8615988+00:00"
 }

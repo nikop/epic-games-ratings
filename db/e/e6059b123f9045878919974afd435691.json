@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -3967,9 +3967,9 @@
       "ID": "NOTE_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Buy A Book",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 228
     },
     {
       "ID": "OUT_ACHIEVEMENT_1",
@@ -4078,8 +4078,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-04T20:11:20.7426797+00:00",
+  "LastChanged_Achievements": "2024-01-04T21:10:59.697301+00:00",
   "LastUpdate_AppInfo": "2023-12-29T02:57:14.6537743+00:00",
-  "LastUpdate_Ratings": "2024-01-04T20:02:55.5014931+00:00",
-  "LastUpdate_Achievements": "2024-01-04T20:11:20.7427562+00:00"
+  "LastUpdate_Ratings": "2024-01-04T21:01:41.7014746+00:00",
+  "LastUpdate_Achievements": "2024-01-04T21:10:59.6973845+00:00"
 }

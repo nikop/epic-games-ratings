@@ -1,14 +1,14 @@
 # Tchia
 [Store](https://store.epicgames.com/en-US/p/tchia)  
 [View Rawdata](../../db/t/tchia.json)  
-Rating: 4.69 (Ranked 232)  
+Rating: 4.69 (Ranked 233)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | In a Pinch | 1.00% | ~87 |
 | Energy Saver | 0.90% | ~78 |
+| The Journey Onwards | 0.60% | ~52 |
 | Soul-Canon | 0.50% | ~43 |
-| The Journey Onwards | 0.50% | ~43 |
 | Body and Soul | 0.40% | ~35 |
 | Ahem Ahem | 0.30% | ~26 |
 | Audiophile | 0.30% | ~26 |
@@ -18,6 +18,7 @@ Rating: 4.69 (Ranked 232)
 | Historian | 0.20% | ~17 |
 | Iconoclast | 0.20% | ~17 |
 | Arrr! | 0.10% | ~9 |
+| Ça de Wizz! | 0.10% | ~9 |
 | Fashion Faux-Pas | 0.10% | ~9 |
 | Fashion Victim | 0.10% | ~9 |
 | Happy Camper | 0.10% | ~9 |
@@ -25,10 +26,9 @@ Rating: 4.69 (Ranked 232)
 | Live Wire | 0.10% | ~9 |
 | Snip Snip | 0.10% | ~9 |
 | Thing | 0.10% | ~9 |
-| Ça de Wizz! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,695 (Ranked 186)  
-Completed: 34 (0.39%) (Ranked 234)  
+Progressed: 8,698 (Ranked 186)  
+Completed: 35 (0.40%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -284,7 +284,7 @@ Completed: 34 (0.39%) (Ranked 234)
 | 2024-01-01 | 8,632 | 34 |
 | 2024-01-02 | 8,661 | 34 |
 | 2024-01-03 | 8,678 | 34 |
-| 2024-01-04 | 8,695 | 34 |
+| 2024-01-04 | 8,698 | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

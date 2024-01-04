@@ -11,8 +11,8 @@
 | Mr. Porter | 56.00% | ~33 |
 | Risky Rescue | 53.00% | ~31 |
 | Carlos Is Tangled | 51.00% | ~30 |
+| Clear the Road | 44.00% | ~26 |
 | Mandy Family | 44.00% | ~26 |
-| Clear the Road | 42.00% | ~25 |
 | Paw patrol member | 41.00% | ~24 |
 | Robot Out of Control | 41.00% | ~24 |
 | Never Miss | 37.00% | ~22 |

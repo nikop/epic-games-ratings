@@ -1,17 +1,17 @@
 # Songs of Conquest
 [Store](https://store.epicgames.com/en-US/p/songs-of-conquest)  
 [View Rawdata](../../db/s/songs_of_conquest.json)  
-Rating: 4.69 (Ranked 232)  
+Rating: 4.69 (Ranked 233)  
 Number of Ratings: 292  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Adept | 46.00% | ~448 |
-| Double Kill | 40.00% | ~389 |
-| Veteran | 23.00% | ~224 |
+| Double Kill | 40.00% | ~390 |
 | Critical Hit | 22.00% | ~214 |
+| Veteran | 22.00% | ~214 |
 | Dressed For Success | 15.00% | ~146 |
-| Veni, Vidi, Vici | 10.00% | ~97 |
+| Veni, Vidi, Vici | 10.00% | ~98 |
 | Multi Kill | 9.00% | ~88 |
 | Humiliation | 9.00% | ~88 |
 | Sorcerous Spree | 8.00% | ~78 |
@@ -23,12 +23,12 @@ Number of Ratings: 292  (23.09.2022)
 | Trojan Horse | 4.00% | ~39 |
 | Expert Essence Employment | 3.00% | ~29 |
 | Venisti, Vidisti, Perdidisti | 3.00% | ~29 |
-| This Spot's Taken | 2.00% | ~19 |
-| Deepstrike | 2.00% | ~19 |
-| Infernal Influence | 2.00% | ~19 |
-| From the Ashes | 2.00% | ~19 |
-| Ultra Kill | 2.00% | ~19 |
-| Pyrrhic Victory | 2.00% | ~19 |
+| This Spot's Taken | 2.00% | ~20 |
+| Deepstrike | 2.00% | ~20 |
+| Infernal Influence | 2.00% | ~20 |
+| From the Ashes | 2.00% | ~20 |
+| Ultra Kill | 2.00% | ~20 |
+| Pyrrhic Victory | 2.00% | ~20 |
 | Versatile Wielder | 1.00% | ~10 |
 | Together For Her | 1.00% | ~10 |
 | Such A Fungi | 1.00% | ~10 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 973 (Ranked 290)  
+Progressed: 975 (Ranked 290)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-01 | 923 | 0 |
 | 2024-01-02 | 944 | 0 |
 | 2024-01-03 | 962 | 0 |
-| 2024-01-04 | 973 | 0 |
+| 2024-01-04 | 975 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 29  (Ranked 522)  
 Sum: 251 (Ranked 399)  

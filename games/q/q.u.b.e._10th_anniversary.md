@@ -1,24 +1,24 @@
 # Q.U.B.E. 10th Anniversary
 [Store](https://store.epicgames.com/en-US/p/qube-10th-anniversary-59e999)  
 [View Rawdata](../../db/q/q.u.b.e._10th_anniversary.json)  
-Rating: 4.42 (Ranked 735)  
+Rating: 4.42 (Ranked 734)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 31.00% | ~8,784 |
-| Sector 2 | 28.00% | ~7,934 |
-| Crush That Cube! | 23.00% | ~6,518 |
-| Sector 3 | 23.00% | ~6,518 |
-| Sector 4 | 19.00% | ~5,384 |
-| Crush That Ball! | 18.00% | ~5,101 |
-| Sector 5 | 12.00% | ~3,400 |
-| Sector 6 | 11.00% | ~3,117 |
-| Feeling the Blues | 8.00% | ~2,267 |
-| Squished | 8.00% | ~2,267 |
-| Finale | 8.00% | ~2,267 |
-| Sector 7 | 8.00% | ~2,267 |
+| Sector 1 | 31.00% | ~8,787 |
+| Sector 2 | 28.00% | ~7,936 |
+| Crush That Cube! | 23.00% | ~6,519 |
+| Sector 3 | 23.00% | ~6,519 |
+| Sector 4 | 19.00% | ~5,385 |
+| Crush That Ball! | 18.00% | ~5,102 |
+| Sector 5 | 12.00% | ~3,401 |
+| Sector 6 | 11.00% | ~3,118 |
+| Feeling the Blues | 8.00% | ~2,268 |
+| Squished | 8.00% | ~2,268 |
+| Finale | 8.00% | ~2,268 |
+| Sector 7 | 8.00% | ~2,268 |
 | Did That Work? -- No! | 7.00% | ~1,984 |
-| Master Room | 4.00% | ~1,133 |
+| Master Room | 4.00% | ~1,134 |
 | Bronze Trophy | 2.00% | ~567 |
 | Master Of The Collectables | 2.00% | ~567 |
 | Gold Trophy | 2.00% | ~567 |
@@ -30,7 +30,7 @@ Rating: 4.42 (Ranked 735)
 | Maxed Out | 2.00% | ~567 |
 | The Collector | 1.00% | ~283 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,337 (Ranked 142)  
+Progressed: 28,344 (Ranked 142)  
 Completed: 193 (0.68%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,14 +112,14 @@ Completed: 193 (0.68%) (Ranked 196)
 | 2024-01-01 | 27,944 | 185 |
 | 2024-01-02 | 28,087 | 188 |
 | 2024-01-03 | 28,217 | 191 |
-| 2024-01-04 | 28,337 | 193 |
+| 2024-01-04 | 28,344 | 193 |
 ## Awards
-Max (Challenging Puzzles): 24  (Ranked 548)  
-Sum: 24 (Ranked 555)  
-Diff (max vs sum): -7  
+Max (Challenging Puzzles): 25  (Ranked 545)  
+Sum: 25 (Ranked 554)  
+Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 24 |
+| This game features Challenging Puzzles | 25 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -169,3 +169,4 @@ Diff (max vs sum): -7
 | 2023-12-29 | 4.41 | 23 | 23 |
 | 2024-01-02 | 4.42 | 23 | 23 |
 | 2024-01-03 | 4.42 | 24 | 24 |
+| 2024-01-04 | 4.42 | 25 | 25 |

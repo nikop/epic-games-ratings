@@ -1,24 +1,24 @@
 # Grand Theft Auto III – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-iii-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto_iii_–_the_definitive_edition.json)  
-Rating: 4.21 (Ranked 947)  
+Rating: 4.22 (Ranked 941)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~9,573 |
-| Disposing of the Evidence | 38.00% | ~4,383 |
-| Without a Scratch | 34.00% | ~3,922 |
-| Wreckless Driving | 28.00% | ~3,230 |
+| First Day on the Job | 83.00% | ~9,577 |
+| Disposing of the Evidence | 38.00% | ~4,384 |
+| Without a Scratch | 34.00% | ~3,923 |
+| Wreckless Driving | 28.00% | ~3,231 |
 | A Marked Man | 25.00% | ~2,884 |
-| Street Sweeper | 19.00% | ~2,191 |
+| Street Sweeper | 19.00% | ~2,192 |
 | Liberty City Minute | 17.00% | ~1,961 |
 | Offshore Delivery | 14.00% | ~1,615 |
-| Dirty Money | 13.00% | ~1,499 |
-| By a Mile | 10.00% | ~1,153 |
-| Not So Fast | 10.00% | ~1,153 |
-| Right-hand Man | 10.00% | ~1,153 |
-| A Gift from the King | 7.00% | ~807 |
-| Full Artillery | 4.00% | ~461 |
+| Dirty Money | 13.00% | ~1,500 |
+| By a Mile | 10.00% | ~1,154 |
+| Not So Fast | 10.00% | ~1,154 |
+| Right-hand Man | 10.00% | ~1,154 |
+| A Gift from the King | 7.00% | ~808 |
+| Full Artillery | 4.00% | ~462 |
 | Mob Boss | 3.00% | ~346 |
 | Escape Artist | 2.00% | ~231 |
 | Where To? | 2.00% | ~231 |
@@ -35,7 +35,7 @@ Rating: 4.21 (Ranked 947)
 | Is That All You've Got? | 0.90% | ~104 |
 | King of Liberty City | 0.70% | ~81 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,534 (Ranked 177)  
+Progressed: 11,538 (Ranked 177)  
 Completed: 76 (0.66%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 76 (0.66%) (Ranked 200)
 | 2024-01-01 | 11,326 | 70 |
 | 2024-01-02 | 11,401 | 72 |
 | 2024-01-03 | 11,461 | 76 |
-| 2024-01-04 | 11,534 | 76 |
+| 2024-01-04 | 11,538 | 76 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -407,3 +407,4 @@ Completed: 76 (0.66%) (Ranked 200)
 | 2024-01-01 | 4.22 | 0 | 0 |
 | 2024-01-02 | 4.22 | 0 | 0 |
 | 2024-01-03 | 4.21 | 0 | 0 |
+| 2024-01-04 | 4.22 | 0 | 0 |

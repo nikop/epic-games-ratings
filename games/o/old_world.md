@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 319)  
+Rating: 4.65 (Ranked 320)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -13,13 +13,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Single Player Game | 1.00% | ~161 |
 | Architect | 0.90% | ~145 |
 | Strong | 0.90% | ~145 |
+| Hanging Gardens | 0.90% | ~145 |
 | Able | 0.80% | ~129 |
 | Good | 0.80% | ~129 |
 | Learned | 0.80% | ~129 |
 | Mason | 0.80% | ~129 |
 | Noble | 0.80% | ~129 |
 | Pioneer | 0.80% | ~129 |
-| Hanging Gardens | 0.80% | ~129 |
 | Oracle | 0.80% | ~129 |
 | Trade Caravan | 0.80% | ~129 |
 | Ambitious | 0.70% | ~113 |
@@ -32,6 +32,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Developing Cities | 0.70% | ~113 |
 | Strong Cities | 0.70% | ~113 |
 | Pyramids | 0.70% | ~113 |
+| Learn to Play 1 | 0.70% | ~113 |
 | Judaism | 0.70% | ~113 |
 | Greek Paganism | 0.70% | ~113 |
 | Naming Landmarks | 0.70% | ~113 |
@@ -39,12 +40,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Magnificent | 0.60% | ~97 |
 | Ishtar Gate | 0.60% | ~97 |
 | Lighthouse | 0.60% | ~97 |
-| Learn to Play 1 | 0.60% | ~97 |
 | Christianity | 0.60% | ~97 |
 | Babylonian Paganism | 0.60% | ~97 |
 | Roman Paganism | 0.60% | ~97 |
 | Zoroastrianism | 0.60% | ~97 |
 | Regicide | 0.50% | ~81 |
+| Great | 0.50% | ~81 |
 | Wise | 0.50% | ~81 |
 | Legendary Cities | 0.50% | ~81 |
 | Able Difficulty | 0.50% | ~81 |
@@ -52,28 +53,28 @@ Number of Ratings: 1,307  (23.09.2022)
 | Acropolis | 0.50% | ~81 |
 | Apadana | 0.50% | ~81 |
 | Great Ziggurat | 0.50% | ~81 |
+| Learn to Play 2 | 0.50% | ~81 |
 | Carthaginian Paganism | 0.50% | ~81 |
 | Beloved | 0.40% | ~64 |
 | Drillmaster | 0.40% | ~64 |
-| Great | 0.40% | ~64 |
 | Intercessor | 0.40% | ~64 |
 | Valiant | 0.40% | ~64 |
+| Just Difficulty | 0.40% | ~64 |
 | Sages | 0.40% | ~64 |
 | Colossus | 0.40% | ~64 |
 | Mausoleum | 0.40% | ~64 |
 | Musaeum | 0.40% | ~64 |
 | Necropolis | 0.40% | ~64 |
-| Learn to Play 2 | 0.40% | ~64 |
 | Manichaeism | 0.40% | ~64 |
 | Egyptian Paganism | 0.40% | ~64 |
 | Building Wonders | 0.40% | ~64 |
 | Win a Single Player Game | 0.40% | ~64 |
 | Hanging Gardens in Babylon | 0.30% | ~48 |
+| Conqueror | 0.30% | ~48 |
 | Mighty | 0.30% | ~48 |
 | Ready | 0.30% | ~48 |
 | Victorious | 0.30% | ~48 |
 | Good Difficulty | 0.30% | ~48 |
-| Just Difficulty | 0.30% | ~48 |
 | Artisans | 0.30% | ~48 |
 | Champions | 0.30% | ~48 |
 | Patrons | 0.30% | ~48 |
@@ -93,7 +94,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Points Victory | 0.30% | ~48 |
 | Bad Heir Day | 0.20% | ~32 |
 | Capable | 0.20% | ~32 |
-| Conqueror | 0.20% | ~32 |
 | Devout | 0.20% | ~32 |
 | Invincible | 0.20% | ~32 |
 | Lion | 0.20% | ~32 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,115 (Ranked 167)  
+Progressed: 16,118 (Ranked 167)  
 Completed: 5 (0.03%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -624,7 +624,7 @@ Completed: 5 (0.03%) (Ranked 352)
 | 2024-01-01 | 16,077 | 5 |
 | 2024-01-02 | 16,090 | 5 |
 | 2024-01-03 | 16,108 | 5 |
-| 2024-01-04 | 16,115 | 5 |
+| 2024-01-04 | 16,118 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 283)  
 Sum: 1,913 (Ranked 221)  

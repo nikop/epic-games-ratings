@@ -4,8 +4,8 @@
   "ProductSlug": "strike-force-kitty-4603e5",
   "Ranking_EOS_Progress": 439,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 312,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2018-02-20T17:00:00+00:00",
@@ -918,9 +918,9 @@
       "ID": "ach21",
       "SetID": "baneh2j",
       "Name": "Delicious",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ach22",
@@ -1069,8 +1069,8 @@
   ],
   "FirstSeen": "2023-10-28T07:00:19.541662+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6926977+00:00",
-  "LastChanged_Achievements": "2024-01-04T20:08:49.36688+00:00",
+  "LastChanged_Achievements": "2024-01-04T21:08:28.1558849+00:00",
   "LastUpdate_AppInfo": "2024-01-03T10:57:04.956852+00:00",
-  "LastUpdate_Ratings": "2024-01-04T20:03:15.5782361+00:00",
-  "LastUpdate_Achievements": "2024-01-04T20:08:49.3669263+00:00"
+  "LastUpdate_Ratings": "2024-01-04T21:02:42.6695667+00:00",
+  "LastUpdate_Achievements": "2024-01-04T21:08:28.1559086+00:00"
 }

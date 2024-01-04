@@ -6,32 +6,32 @@ Number of Ratings: 32,207  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Long and Winding Road | 94.00% | ~1,242,909 |
-| The People's Hero | 56.00% | ~740,457 |
-| In A Flash | 30.00% | ~396,673 |
-| Lest Ye Be Judged | 21.00% | ~277,671 |
-| Cayde's Pathfinder | 21.00% | ~277,671 |
-| Heart of Darkness | 21.00% | ~277,671 |
-| Ikora's Protégé | 19.00% | ~251,226 |
-| Zavala's Lieutenant | 16.00% | ~211,559 |
-| The Life Exotic | 16.00% | ~211,559 |
-| Heart of the Awoken | 14.00% | ~185,114 |
-| Challenge Accepted | 13.00% | ~171,892 |
-| Show Me What You Got | 13.00% | ~171,892 |
-| High-Stakes Play | 12.00% | ~158,669 |
-| Legends Grow | 10.00% | ~132,224 |
-| Nothing Left to Say | 10.00% | ~132,224 |
-| Exotique | 9.00% | ~119,002 |
-| An Exotic Journey | 9.00% | ~119,002 |
-| Darkness Falls | 9.00% | ~119,002 |
-| Belly Of The Beast | 7.00% | ~92,557 |
-| Seal the Deal | 6.00% | ~79,335 |
-| Fashion Statement | 6.00% | ~79,335 |
-| The Prestige | 5.00% | ~66,112 |
-| Wishing for the Best | 5.00% | ~66,112 |
+| Long and Winding Road | 94.00% | ~1,243,157 |
+| The People's Hero | 56.00% | ~740,604 |
+| In A Flash | 30.00% | ~396,752 |
+| Lest Ye Be Judged | 21.00% | ~277,726 |
+| Cayde's Pathfinder | 21.00% | ~277,726 |
+| Heart of Darkness | 21.00% | ~277,726 |
+| Ikora's Protégé | 19.00% | ~251,276 |
+| Zavala's Lieutenant | 16.00% | ~211,601 |
+| The Life Exotic | 16.00% | ~211,601 |
+| Heart of the Awoken | 14.00% | ~185,151 |
+| Challenge Accepted | 13.00% | ~171,926 |
+| Show Me What You Got | 13.00% | ~171,926 |
+| High-Stakes Play | 12.00% | ~158,701 |
+| Legends Grow | 10.00% | ~132,251 |
+| Nothing Left to Say | 10.00% | ~132,251 |
+| Exotique | 9.00% | ~119,026 |
+| An Exotic Journey | 9.00% | ~119,026 |
+| Darkness Falls | 9.00% | ~119,026 |
+| Belly Of The Beast | 7.00% | ~92,575 |
+| Seal the Deal | 6.00% | ~79,350 |
+| Fashion Statement | 6.00% | ~79,350 |
+| The Prestige | 5.00% | ~66,125 |
+| Wishing for the Best | 5.00% | ~66,125 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,322,244 (Ranked 10)  
-Completed: 31,320 (2.37%) (Ranked 129)  
+Progressed: 1,322,507 (Ranked 10)  
+Completed: 31,331 (2.37%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -289,7 +289,7 @@ Completed: 31,320 (2.37%) (Ranked 129)
 | 2024-01-01 | 1,307,422 | 30,856 |
 | 2024-01-02 | 1,313,059 | 31,061 |
 | 2024-01-03 | 1,318,099 | 31,205 |
-| 2024-01-04 | 1,322,244 | 31,320 |
+| 2024-01-04 | 1,322,507 | 31,331 |
 ## Awards
 Max (Great Boss Battles): 53,245  (Ranked 12)  
 Sum: 125,118 (Ranked 14)  

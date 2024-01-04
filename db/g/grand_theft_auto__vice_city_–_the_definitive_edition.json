@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -1056,9 +1056,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 15351,
+  "EOS_Progressed": 15357,
   "EOS_Completed": 85,
-  "EOS_NewPlayers": 924,
+  "EOS_NewPlayers": 929,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -17016,6 +17016,11 @@
       "Time": "2024-01-04T20:10:49.0685954+00:00",
       "NumProgressed": 15351,
       "NumCompleted": 85
+    },
+    {
+      "Time": "2024-01-04T21:10:27.5476043+00:00",
+      "NumProgressed": 15357,
+      "NumCompleted": 85
     }
   ],
   "TotalAchievements": 34,
@@ -17043,7 +17048,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 1535
+      "UsersEstimate": 1536
     },
     {
       "ID": "ACH04",
@@ -17131,7 +17136,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 6447
+      "UsersEstimate": 6450
     },
     {
       "ID": "ACH15",
@@ -17187,7 +17192,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 7061
+      "UsersEstimate": 7064
     },
     {
       "ID": "ACH22",
@@ -17195,7 +17200,7 @@
       "Name": "Life of the Party",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3224
+      "UsersEstimate": 3225
     },
     {
       "ID": "ACH23",
@@ -17203,7 +17208,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 3991
+      "UsersEstimate": 3993
     },
     {
       "ID": "ACH24",
@@ -17211,7 +17216,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2303
+      "UsersEstimate": 2304
     },
     {
       "ID": "ACH25",
@@ -17219,7 +17224,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2303
+      "UsersEstimate": 2304
     },
     {
       "ID": "ACH26",
@@ -17227,7 +17232,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2303
+      "UsersEstimate": 2304
     },
     {
       "ID": "ACH27",
@@ -17298,7 +17303,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 15351,
+      "Progressed": 15357,
       "Completed": 85
     }
   ],
@@ -17306,8 +17311,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-03T02:18:34.6735113+00:00",
-  "LastChanged_Achievements": "2024-01-04T20:10:49.068595+00:00",
+  "LastChanged_Achievements": "2024-01-04T21:10:27.547604+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:48.9246276+00:00",
-  "LastUpdate_Ratings": "2024-01-04T19:59:27.2717848+00:00",
-  "LastUpdate_Achievements": "2024-01-04T20:10:49.0687198+00:00"
+  "LastUpdate_Ratings": "2024-01-04T20:59:02.5073563+00:00",
+  "LastUpdate_Achievements": "2024-01-04T21:10:27.5477365+00:00"
 }

@@ -9,28 +9,28 @@ Number of Ratings: 48  (23.09.2022)
 | Plenty More to Go | 85.00% | ~672 |
 | All Bark, No Bite | 74.00% | ~585 |
 | Hopeful Hunter | 63.00% | ~498 |
-| Amateur Adventurer | 61.00% | ~482 |
-| The Road to Recovery | 60.00% | ~474 |
-| Partners? | 58.00% | ~458 |
+| Amateur Adventurer | 61.00% | ~483 |
+| The Road to Recovery | 60.00% | ~475 |
+| Partners? | 58.00% | ~459 |
 | Magical Mineral Golem | 52.00% | ~411 |
 | On Outlander Lane | 51.00% | ~403 |
-| First Time Fishing | 48.00% | ~379 |
-| A Girl About the Town | 47.00% | ~371 |
-| First Time Hunting | 46.00% | ~363 |
+| First Time Fishing | 48.00% | ~380 |
+| A Girl About the Town | 47.00% | ~372 |
+| First Time Hunting | 46.00% | ~364 |
 | Rune Wall Wreckage | 45.00% | ~356 |
 | ...And Your Tax Money | 44.00% | ~348 |
-| The Lords of the Snowpeak | 38.00% | ~300 |
+| The Lords of the Snowpeak | 38.00% | ~301 |
 | The Lava Mantor Wyrm | 34.00% | ~269 |
 | The Go-To Girl | 34.00% | ~269 |
 | Scavenger's Honor | 34.00% | ~269 |
 | Natural Born Monster-Killer | 34.00% | ~269 |
 | The Great Forest...On Foot! | 34.00% | ~269 |
 | One Mean Merc | 33.00% | ~261 |
-| Adept, for an Acting Mayor | 33.00% | ~261 |
 | Money, Money, Money | 33.00% | ~261 |
+| Adept, for an Acting Mayor | 32.00% | ~253 |
 | Rune Wall Master | 31.00% | ~245 |
 | The Quarry...On Foot! | 29.00% | ~229 |
-| The Runebarrows...On Foot! | 27.00% | ~213 |
+| The Runebarrows...On Foot! | 27.00% | ~214 |
 | The Snowpeak...On Foot! | 25.00% | ~198 |
 | The Lava Ruins...On Foot! | 25.00% | ~198 |
 | Meat Master | 24.00% | ~190 |
@@ -40,7 +40,7 @@ Number of Ratings: 48  (23.09.2022)
 | This Treasure I've Found | 19.00% | ~150 |
 | New Nevaeh's Number One Customer | 19.00% | ~150 |
 | Arms Master | 18.00% | ~142 |
-| Rune Scholar | 15.00% | ~118 |
+| Rune Scholar | 15.00% | ~119 |
 | No Treasure Left Behind | 12.00% | ~95 |
 | Sommelier | 11.00% | ~87 |
 | Champion of the Great Forest | 11.00% | ~87 |
@@ -57,7 +57,7 @@ Number of Ratings: 48  (23.09.2022)
 | Full Force - Isha | 7.00% | ~55 |
 | Rising Champion | 6.00% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 790 (Ranked 306)  
+Progressed: 791 (Ranked 306)  
 Completed: 60 (7.59%) (Ranked 53)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,6 +124,7 @@ Completed: 60 (7.59%) (Ranked 53)
 | 2024-01-01 | 788 | 60 |
 | 2024-01-02 | 789 | 60 |
 | 2024-01-03 | 790 | 60 |
+| 2024-01-04 | 791 | 60 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

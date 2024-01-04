@@ -1,57 +1,57 @@
 # World of Warships
 [Store](https://store.epicgames.com/en-US/p/world-of-warships)  
 [View Rawdata](../../db/w/world_of_warships.json)  
-Rating: 4.41 (Ranked 749)  
+Rating: 4.41 (Ranked 748)  
 Number of Ratings: 4,733  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 76.00% | ~63,411 |
-| Initial Capital | 62.00% | ~51,730 |
-| Moneybags | 40.00% | ~33,374 |
-| Junior Supply Officer | 40.00% | ~33,374 |
-| Naval Warfare. Arson | 30.00% | ~25,031 |
-| Naval Warfare. Ramming | 29.00% | ~24,196 |
-| Amateur | 27.00% | ~22,528 |
-| Naval Warfare. Tactics | 27.00% | ~22,528 |
-| Naval Constructor | 26.00% | ~21,693 |
-| Naval Warfare. Weaponry Basics | 20.00% | ~16,687 |
-| Naval Warfare. Flooding | 17.00% | ~14,184 |
-| Naval Warfare. Lucky Shot | 17.00% | ~14,184 |
-| Business Magnate | 14.00% | ~11,681 |
-| Battle Hero | 13.00% | ~10,847 |
-| Smooth Supply | 11.00% | ~9,178 |
-| Warrior | 10.00% | ~8,344 |
-| Supply Officer | 10.00% | ~8,344 |
-| Veteran | 6.00% | ~5,006 |
-| Legend of the Seas | 3.00% | ~2,503 |
-| Chief Naval Architect | 3.00% | ~2,503 |
-| Shield | 3.00% | ~2,503 |
-| Senior Supply Officer | 2.00% | ~1,669 |
-| Weather Beaten | 2.00% | ~1,669 |
-| Important Missions | 2.00% | ~1,669 |
-| Guardian | 2.00% | ~1,669 |
-| Bane of the Oceans | 1.00% | ~834 |
-| "Science of Victory" | 1.00% | ~834 |
-| Special Orders | 1.00% | ~834 |
-| Protector | 1.00% | ~834 |
-| Exterminator | 1.00% | ~834 |
-| American Cruisers | 1.00% | ~834 |
-| Old-Timer | 0.90% | ~751 |
+| Junior Naval Designer | 76.00% | ~63,465 |
+| Initial Capital | 62.00% | ~51,774 |
+| Moneybags | 40.00% | ~33,402 |
+| Junior Supply Officer | 40.00% | ~33,402 |
+| Naval Warfare. Arson | 30.00% | ~25,052 |
+| Naval Warfare. Ramming | 29.00% | ~24,217 |
+| Amateur | 27.00% | ~22,547 |
+| Naval Warfare. Tactics | 27.00% | ~22,547 |
+| Naval Constructor | 26.00% | ~21,712 |
+| Naval Warfare. Weaponry Basics | 20.00% | ~16,701 |
+| Naval Warfare. Flooding | 17.00% | ~14,196 |
+| Naval Warfare. Lucky Shot | 17.00% | ~14,196 |
+| Business Magnate | 14.00% | ~11,691 |
+| Battle Hero | 13.00% | ~10,856 |
+| Smooth Supply | 11.00% | ~9,186 |
+| Warrior | 10.00% | ~8,351 |
+| Supply Officer | 10.00% | ~8,351 |
+| Veteran | 6.00% | ~5,010 |
+| Legend of the Seas | 3.00% | ~2,505 |
+| Chief Naval Architect | 3.00% | ~2,505 |
+| Shield | 3.00% | ~2,505 |
+| Senior Supply Officer | 2.00% | ~1,670 |
+| Weather Beaten | 2.00% | ~1,670 |
+| Important Missions | 2.00% | ~1,670 |
+| Guardian | 2.00% | ~1,670 |
+| Bane of the Oceans | 1.00% | ~835 |
+| "Science of Victory" | 1.00% | ~835 |
+| Special Orders | 1.00% | ~835 |
+| Protector | 1.00% | ~835 |
+| Exterminator | 1.00% | ~835 |
+| American Cruisers | 1.00% | ~835 |
+| Old-Timer | 0.90% | ~752 |
 | Secret Instructions | 0.60% | ~501 |
-| Raider | 0.50% | ~417 |
+| Raider | 0.50% | ~418 |
 | Experienced One | 0.40% | ~334 |
-| Ravager | 0.30% | ~250 |
-| "Yamamoto Isoroku" | 0.30% | ~250 |
-| "Yamamoto Isoroku" | 0.30% | ~250 |
+| Ravager | 0.30% | ~251 |
+| "Yamamoto Isoroku" | 0.30% | ~251 |
+| "Yamamoto Isoroku" | 0.30% | ~251 |
 | "Honorable Service" | 0.20% | ~167 |
 | Hit Hard! Hit Fast! Hit Often! | 0.20% | ~167 |
-| "Science of Victory" with Honors | 0.10% | ~83 |
-| "Honorable Service" with Honors | 0.10% | ~83 |
-| "Yamamoto Isoroku" with Honors | 0.10% | ~83 |
-| Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~83 |
+| "Science of Victory" with Honors | 0.10% | ~84 |
+| "Honorable Service" with Honors | 0.10% | ~84 |
+| "Yamamoto Isoroku" with Honors | 0.10% | ~84 |
+| Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~84 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83,436 (Ranked 106)  
+Progressed: 83,506 (Ranked 106)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-01 | 81,367 | 0 |
 | 2024-01-02 | 82,030 | 0 |
 | 2024-01-03 | 82,724 | 0 |
-| 2024-01-04 | 83,436 | 0 |
+| 2024-01-04 | 83,506 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 1,678  (Ranked 131)  
 Sum: 14,059 (Ranked 79)  

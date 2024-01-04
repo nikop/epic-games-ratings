@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 756,
+  "EOS_Progressed": 757,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 0,
@@ -2474,6 +2474,11 @@
       "Time": "2024-01-04T20:09:20.7518237+00:00",
       "NumProgressed": 756,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-04T21:08:59.47212+00:00",
+      "NumProgressed": 757,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -2494,7 +2499,7 @@
       "Name": "Chapter II - Complete",
       "Percentage": 8,
       "XP": 45,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ach_chapter_complete_3",
@@ -2548,9 +2553,9 @@
       "ID": "ach_defeat_lord_of_change",
       "SetID": "d499apg",
       "Name": "Defeat a Lord of Change",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 45,
-      "UsersEstimate": 174
+      "UsersEstimate": 182
     },
     {
       "ID": "ach_find_all_secrets_c1",
@@ -2581,14 +2586,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 756,
+      "Progressed": 757,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2024-01-04T20:09:20.7518234+00:00",
+  "LastChanged_Achievements": "2024-01-04T21:08:59.4721192+00:00",
   "LastUpdate_AppInfo": "2023-12-29T15:57:01.9014557+00:00",
-  "LastUpdate_Ratings": "2024-01-04T19:58:04.1173324+00:00",
-  "LastUpdate_Achievements": "2024-01-04T20:09:20.7518477+00:00"
+  "LastUpdate_Ratings": "2024-01-04T20:57:38.6556953+00:00",
+  "LastUpdate_Achievements": "2024-01-04T21:08:59.4721431+00:00"
 }

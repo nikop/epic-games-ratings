@@ -4,8 +4,8 @@
   "ProductSlug": "split-29a6ef",
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-09-08T19:00:00+00:00",
     "PcReleaseDate": "2022-04-06T17:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-02T23:57:09.2395434+00:00",
-  "LastUpdate_Ratings": "2024-01-04T19:58:20.2629745+00:00",
-  "LastUpdate_Achievements": "2024-01-04T20:10:17.6581952+00:00"
+  "LastUpdate_Ratings": "2024-01-04T20:57:54.5287218+00:00",
+  "LastUpdate_Achievements": "2024-01-04T21:09:55.6164647+00:00"
 }

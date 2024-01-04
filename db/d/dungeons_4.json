@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 92,
   "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -2276,9 +2276,9 @@
       "ID": "ach_main02horde_creatures",
       "SetID": "4hg22ll",
       "Name": "For the Horde!",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 590
+      "UsersEstimate": 597
     },
     {
       "ID": "ach_main02horde_traps",
@@ -2316,9 +2316,9 @@
       "ID": "ach_main04undead_completed",
       "SetID": "4hg22ll",
       "Name": "The Plains of Strothalm",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 518
+      "UsersEstimate": 525
     },
     {
       "ID": "ach_main04undead_minions",
@@ -2741,8 +2741,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-03T15:00:48.7802365+00:00",
-  "LastChanged_Achievements": "2024-01-04T20:09:57.896196+00:00",
+  "LastChanged_Achievements": "2024-01-04T21:09:36.6880625+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:16.0613697+00:00",
-  "LastUpdate_Ratings": "2024-01-04T20:01:47.2800482+00:00",
-  "LastUpdate_Achievements": "2024-01-04T20:09:57.8962474+00:00"
+  "LastUpdate_Ratings": "2024-01-04T21:01:24.8363579+00:00",
+  "LastUpdate_Achievements": "2024-01-04T21:09:36.6881204+00:00"
 }

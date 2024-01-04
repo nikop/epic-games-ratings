@@ -2,13 +2,13 @@
   "ID": "28eda6de701c47dfbbe6255fcee8aa65",
   "Name": "High On Life",
   "ProductSlug": "high-on-life-3a855b",
-  "Ranking_Rating": 319,
+  "Ranking_Rating": 320,
   "Ranking_Popularity": 579,
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -331,9 +331,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25019,
+  "EOS_Progressed": 25020,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -8671,6 +8671,11 @@
       "Time": "2024-01-04T20:09:26.3126673+00:00",
       "NumProgressed": 25019,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-04T21:09:04.9929204+00:00",
+      "NumProgressed": 25020,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -9033,13 +9038,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 25019,
+      "Progressed": 25020,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 2312,
+      "Progressed": 2313,
       "Completed": 1376
     }
   ],
@@ -9047,8 +9052,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-12-27T23:03:01.2851601+00:00",
-  "LastChanged_Achievements": "2024-01-04T20:09:26.3126669+00:00",
+  "LastChanged_Achievements": "2024-01-04T21:09:04.99292+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:22.3334267+00:00",
-  "LastUpdate_Ratings": "2024-01-04T20:03:38.8208333+00:00",
-  "LastUpdate_Achievements": "2024-01-04T20:09:26.3127359+00:00"
+  "LastUpdate_Ratings": "2024-01-04T21:03:05.1990546+00:00",
+  "LastUpdate_Achievements": "2024-01-04T21:09:04.9930103+00:00"
 }

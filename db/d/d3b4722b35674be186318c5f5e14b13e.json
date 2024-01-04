@@ -4,8 +4,8 @@
   "ProductSlug": "arms-race-2-219fd5",
   "Ranking_EOS_Progress": 646,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 454,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-12-05T18:00:00+00:00",
     "PcReleaseDate": "2023-12-05T18:00:00+00:00",
@@ -179,9 +179,9 @@
       "ID": "Man in Space",
       "SetID": "1g0ce2c",
       "Name": "Man in Space",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Nuclear strike",
@@ -242,8 +242,8 @@
   ],
   "FirstSeen": "2023-12-23T13:59:26.4382087+00:00",
   "FirstSeenAchievements": "2023-10-11T21:08:28.3507055+00:00",
-  "LastChanged_Achievements": "2024-01-04T20:05:21.5810914+00:00",
+  "LastChanged_Achievements": "2024-01-04T21:04:50.7933084+00:00",
   "LastUpdate_AppInfo": "2024-01-02T23:57:08.057447+00:00",
-  "LastUpdate_Ratings": "2024-01-04T19:59:41.8324244+00:00",
-  "LastUpdate_Achievements": "2024-01-04T20:05:21.581101+00:00"
+  "LastUpdate_Ratings": "2024-01-04T20:59:17.2269924+00:00",
+  "LastUpdate_Achievements": "2024-01-04T21:04:50.793317+00:00"
 }

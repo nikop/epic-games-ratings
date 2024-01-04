@@ -1,7 +1,7 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.56 (Ranked 505)  
+Rating: 4.56 (Ranked 504)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -34,15 +34,15 @@ Rating: 4.56 (Ranked 505)
 | Defeat the Grub Buster | 0.80% | ~8 |
 | Defeat the Stalker Queen | 0.80% | ~8 |
 | Complete the Chefs Book | 0.70% | ~16 |
-| Defeat Avor Warden of the Northern Wastes | 0.70% | ~16 |
 | Complete Ranger Faction | 0.60% | ~14 |
+| Defeat Avor Warden of the Northern Wastes | 0.60% | ~14 |
 | Discover the mystery of the Kings Chambers | 0.60% | ~14 |
 | Complete Arena Faction | 0.50% | ~12 |
 | Complete Redgi's Armory | 0.40% | ~9 |
 | King of Kings | 0.40% | ~9 |
 | A new Warchief rises | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,307 (Ranked 240)  
+Progressed: 2,308 (Ranked 240)  
 Completed: 12 (0.52%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 12 (0.52%) (Ranked 215)
 | 2024-01-01 | 2,303 | 12 |
 | 2024-01-02 | 2,304 | 12 |
 | 2024-01-03 | 2,306 | 12 |
-| 2024-01-04 | 2,307 | 12 |
+| 2024-01-04 | 2,308 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

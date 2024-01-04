@@ -2,13 +2,13 @@
   "ID": "fb76c816bb054fc8be57dc49f1600843",
   "Name": "Tails of Iron",
   "ProductSlug": "tails-of-iron-587abd",
-  "Ranking_Rating": 505,
+  "Ranking_Rating": 504,
   "Ranking_Popularity": 579,
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 343,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -266,9 +266,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2307,
+  "EOS_Progressed": 2308,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -4286,6 +4286,11 @@
       "Time": "2024-01-04T09:06:39.7632743+00:00",
       "NumProgressed": 2307,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-04T21:08:27.3710137+00:00",
+      "NumProgressed": 2308,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 36,
@@ -4399,9 +4404,9 @@
       "ID": "DefeatAvor",
       "SetID": "9lj35g4",
       "Name": "Defeat Avor Warden of the Northern Wastes",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "DefeatMoziQueen",
@@ -4584,13 +4589,13 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2307,
+      "Progressed": 2308,
       "Completed": 12
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 948,
+      "Progressed": 949,
       "Completed": 913
     }
   ],
@@ -4598,8 +4603,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-12-23T19:58:55.6551134+00:00",
-  "LastChanged_Achievements": "2024-01-04T20:08:48.6254304+00:00",
+  "LastChanged_Achievements": "2024-01-04T21:08:27.3710133+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:25.3230554+00:00",
-  "LastUpdate_Ratings": "2024-01-04T20:01:59.3083957+00:00",
-  "LastUpdate_Achievements": "2024-01-04T20:08:48.6254826+00:00"
+  "LastUpdate_Ratings": "2024-01-04T21:01:36.7288774+00:00",
+  "LastUpdate_Achievements": "2024-01-04T21:08:27.3710624+00:00"
 }

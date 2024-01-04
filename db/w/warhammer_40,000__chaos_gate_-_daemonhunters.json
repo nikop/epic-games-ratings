@@ -2,13 +2,13 @@
   "ID": "ab7e605d8d734d3ab48a243c51ca5b8e",
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
-  "Ranking_Rating": 466,
+  "Ranking_Rating": 467,
   "Ranking_Popularity": 282,
   "Ranking_PopularitySum": 334,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -819,9 +819,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3757,
+  "EOS_Progressed": 3761,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5494,6 +5494,11 @@
       "Time": "2024-01-04T19:06:07.4972339+00:00",
       "NumProgressed": 3757,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T21:07:20.2209506+00:00",
+      "NumProgressed": 3761,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -5521,7 +5526,7 @@
       "Name": "Look Over There!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "BloodAndIron",
@@ -5673,7 +5678,7 @@
       "Name": "Not So Fast...",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "Kills_Bleed",
@@ -5697,7 +5702,7 @@
       "Name": "Executioner",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "Kills_Exterminator",
@@ -5713,7 +5718,7 @@
       "Name": "Friendly Fire",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "Kills_Interactable",
@@ -5729,7 +5734,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "Kills_Streak",
@@ -5753,7 +5758,7 @@
       "Name": "An Ill Omen",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -6048,21 +6053,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3757,
+      "Progressed": 3761,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3757,
+      "Progressed": 3761,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-04T18:03:14.3502303+00:00",
-  "LastChanged_Achievements": "2024-01-04T20:07:51.4615471+00:00",
+  "LastChanged_Achievements": "2024-01-04T21:07:20.2209503+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:30.5390055+00:00",
-  "LastUpdate_Ratings": "2024-01-04T20:03:57.1917308+00:00",
-  "LastUpdate_Achievements": "2024-01-04T20:07:51.461616+00:00"
+  "LastUpdate_Ratings": "2024-01-04T21:03:23.7009162+00:00",
+  "LastUpdate_Achievements": "2024-01-04T21:07:20.2210275+00:00"
 }

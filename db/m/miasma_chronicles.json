@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 321,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -4694,9 +4694,9 @@
       "ID": "WIPE_OUT",
       "SetID": "9a4jnji",
       "Name": "Wipe Out",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 134
     }
   ],
   "AchievementSets": [
@@ -4711,8 +4711,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2024-01-02T20:02:58.7354435+00:00",
-  "LastChanged_Achievements": "2024-01-04T20:11:18.7444681+00:00",
+  "LastChanged_Achievements": "2024-01-04T21:10:57.6018609+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:28.618292+00:00",
-  "LastUpdate_Ratings": "2024-01-04T20:03:50.4190993+00:00",
-  "LastUpdate_Achievements": "2024-01-04T20:11:18.7445286+00:00"
+  "LastUpdate_Ratings": "2024-01-04T21:03:17.0091814+00:00",
+  "LastUpdate_Achievements": "2024-01-04T21:10:57.601923+00:00"
 }

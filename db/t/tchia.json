@@ -2,13 +2,13 @@
   "ID": "2e09c1d223094f3798f63873548c9454",
   "Name": "Tchia",
   "ProductSlug": "tchia",
-  "Ranking_Rating": 232,
+  "Ranking_Rating": 233,
   "Ranking_Popularity": 579,
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 186,
-  "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Completed": 233,
+  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -281,11 +281,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8695,
-  "EOS_Completed": 34,
-  "EOS_NewPlayers": 245,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.39,
+  "EOS_Progressed": 8698,
+  "EOS_Completed": 35,
+  "EOS_NewPlayers": 247,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:52.5163739+00:00",
@@ -10836,6 +10836,11 @@
       "Time": "2024-01-04T20:09:27.7795994+00:00",
       "NumProgressed": 8695,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-04T21:09:06.3581519+00:00",
+      "NumProgressed": 8698,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 21,
@@ -10877,9 +10882,9 @@
       "ID": "CA_DE_WIZZ",
       "SetID": "3cck1g6",
       "Name": "\u00C7a de Wizz!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 80,
-      "UsersEstimate": 0
+      "UsersEstimate": 9
     },
     {
       "ID": "CLAY_PIGEON",
@@ -10997,9 +11002,9 @@
       "ID": "THE_JOURNEY_ONWARDS",
       "SetID": "3cck1g6",
       "Name": "The Journey Onwards",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 43
+      "UsersEstimate": 52
     },
     {
       "ID": "THING",
@@ -11014,16 +11019,16 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 8695,
-      "Completed": 34
+      "Progressed": 8698,
+      "Completed": 35
     }
   ],
   "FirstSeen": "2023-03-21T09:57:30.0588208+00:00",
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2024-01-04T06:59:23.347632+00:00",
-  "LastChanged_Achievements": "2024-01-04T20:09:27.7795991+00:00",
+  "LastChanged_Achievements": "2024-01-04T21:09:06.3581515+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:18.6099916+00:00",
-  "LastUpdate_Ratings": "2024-01-04T20:00:50.334698+00:00",
-  "LastUpdate_Achievements": "2024-01-04T20:09:27.7796736+00:00"
+  "LastUpdate_Ratings": "2024-01-04T21:00:28.8657117+00:00",
+  "LastUpdate_Achievements": "2024-01-04T21:09:06.3582098+00:00"
 }

@@ -14,7 +14,7 @@ Rating: 4.38 (Ranked 786)
 | Arms Mechanic | 48.00% | ~339 |
 | Flower Thief | 43.00% | ~304 |
 | Apostle of Flame | 39.00% | ~275 |
-| Beginner Cook | 37.00% | ~261 |
+| Beginner Cook | 38.00% | ~268 |
 | Beginner Artificer | 37.00% | ~261 |
 | Seal Breaker | 32.00% | ~226 |
 | Handyman | 28.00% | ~198 |

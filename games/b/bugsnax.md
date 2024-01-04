@@ -6,38 +6,38 @@ Number of Ratings: 425  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Everybody Gets One | 97.00% | ~28,161 |
-| Gone Home | 93.00% | ~27,000 |
-| Wonderfalls | 87.00% | ~25,258 |
+| Everybody Gets One | 97.00% | ~28,162 |
+| Gone Home | 93.00% | ~27,001 |
+| Wonderfalls | 87.00% | ~25,259 |
 | Got to Catch a Few | 77.00% | ~22,355 |
-| Double Trapper | 75.00% | ~21,774 |
-| I'm Stuffed | 69.00% | ~20,032 |
-| Got to Catch a Lot | 66.00% | ~19,161 |
+| Double Trapper | 75.00% | ~21,775 |
+| I'm Stuffed | 69.00% | ~20,033 |
+| Got to Catch a Lot | 66.00% | ~19,162 |
 | Talkin' 'Bout Bugsnax | 61.00% | ~17,710 |
 | In the Arms of the Gramble | 59.00% | ~17,129 |
 | Know Thy Neighbor | 59.00% | ~17,129 |
-| Perf Dirt | 57.00% | ~16,548 |
+| Perf Dirt | 57.00% | ~16,549 |
 | Launch Party | 56.00% | ~16,258 |
 | Vacation's End | 53.00% | ~15,387 |
 | Bossy Bugs | 46.00% | ~13,355 |
-| Survivor | 45.00% | ~13,064 |
+| Survivor | 45.00% | ~13,065 |
 | That Reminds Me of a Puzzle | 43.00% | ~12,484 |
 | Sidetracked | 40.00% | ~11,613 |
-| Film Buff | 38.00% | ~11,032 |
-| Combo Meal | 38.00% | ~11,032 |
+| Film Buff | 38.00% | ~11,033 |
+| Combo Meal | 38.00% | ~11,033 |
 | Midnight Snak | 36.00% | ~10,452 |
-| Candid Cryptid | 35.00% | ~10,161 |
+| Candid Cryptid | 35.00% | ~10,162 |
 | Got to Catch Them All | 33.00% | ~9,581 |
-| Deep Impact | 23.00% | ~6,677 |
-| Grab Bag | 23.00% | ~6,677 |
+| Deep Impact | 23.00% | ~6,678 |
+| Grab Bag | 23.00% | ~6,678 |
 | Feeding Frenzy | 19.00% | ~5,516 |
-| Clothesline | 17.00% | ~4,935 |
+| Clothesline | 17.00% | ~4,936 |
 | Say Cheese! | 16.00% | ~4,645 |
-| Sundae Best | 14.00% | ~4,064 |
+| Sundae Best | 14.00% | ~4,065 |
 | Live Laugh Hut | 9.00% | ~2,613 |
 | Dapper Capper | 7.00% | ~2,032 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,032 (Ranked 141)  
+Progressed: 29,033 (Ranked 141)  
 Completed: 1,421 (4.89%) (Ranked 74)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,11 +295,11 @@ Completed: 1,421 (4.89%) (Ranked 74)
 | 2024-01-01 | 29,010 | 1,419 |
 | 2024-01-02 | 29,014 | 1,420 |
 | 2024-01-03 | 29,020 | 1,421 |
-| 2024-01-04 | 29,032 | 1,421 |
+| 2024-01-04 | 29,033 | 1,421 |
 ## Awards
 Max (Amazing Storytelling): 45  (Ranked 466)  
-Sum: 381 (Ranked 357)  
-Diff (max vs sum): 109  
+Sum: 381 (Ranked 358)  
+Diff (max vs sum): 108  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 45 |

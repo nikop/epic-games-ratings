@@ -6,27 +6,27 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~14,439 |
-| Finding Your Footing | 25.00% | ~13,369 |
-| Nomad | 17.00% | ~9,091 |
-| Picking Up Speed | 15.00% | ~8,021 |
-| Welcome Maya | 14.00% | ~7,487 |
-| Scout | 11.00% | ~5,882 |
-| Sightseer | 11.00% | ~5,882 |
-| Amateur | 10.00% | ~5,348 |
-| Unlock Maya | 8.00% | ~4,278 |
-| Wanderer | 8.00% | ~4,278 |
-| Enter Paz | 7.00% | ~3,743 |
+| Rookie | 27.00% | ~14,441 |
+| Finding Your Footing | 25.00% | ~13,372 |
+| Nomad | 17.00% | ~9,093 |
+| Picking Up Speed | 15.00% | ~8,023 |
+| Welcome Maya | 14.00% | ~7,488 |
+| Scout | 11.00% | ~5,884 |
+| Sightseer | 11.00% | ~5,884 |
+| Amateur | 10.00% | ~5,349 |
+| Unlock Maya | 8.00% | ~4,279 |
+| Wanderer | 8.00% | ~4,279 |
+| Enter Paz | 7.00% | ~3,744 |
 | Aviator | 6.00% | ~3,209 |
 | My Little Friend | 5.00% | ~2,674 |
 | One With The Board | 5.00% | ~2,674 |
 | Voyager | 4.00% | ~2,139 |
-| Junkie | 3.00% | ~1,604 |
-| Traveler | 3.00% | ~1,604 |
-| Unlock Paz | 3.00% | ~1,604 |
-| Human Flight | 3.00% | ~1,604 |
-| Sandboarder | 3.00% | ~1,604 |
-| Izel Has Arrived | 3.00% | ~1,604 |
+| Junkie | 3.00% | ~1,605 |
+| Traveler | 3.00% | ~1,605 |
+| Unlock Paz | 3.00% | ~1,605 |
+| Human Flight | 3.00% | ~1,605 |
+| Sandboarder | 3.00% | ~1,605 |
+| Izel Has Arrived | 3.00% | ~1,605 |
 | Explorer | 2.00% | ~1,070 |
 | Pro | 2.00% | ~1,070 |
 | Journeyer | 2.00% | ~1,070 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~53 |
 | Windswept | 0.10% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,476 (Ranked 121)  
+Progressed: 53,487 (Ranked 121)  
 Completed: 5 (0.01%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 5 (0.01%) (Ranked 369)
 | 2024-01-01 | 53,060 | 5 |
 | 2024-01-02 | 53,223 | 5 |
 | 2024-01-03 | 53,366 | 5 |
-| 2024-01-04 | 53,476 | 5 |
+| 2024-01-04 | 53,487 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 50  (Ranked 453)  
 Sum: 393 (Ranked 354)  

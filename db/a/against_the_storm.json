@@ -5,7 +5,7 @@
   "Ranking_Rating": 69,
   "Ranking_Popularity": 229,
   "Ranking_PopularitySum": 176,
-  "Ranking_EOS_Progress": 152,
+  "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 3803,
@@ -3699,10 +3699,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3330,
       "NumberOfAwardsMax": 448
+    },
+    {
+      "Time": "2024-01-04T21:00:11.5483427+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3331,
+      "NumberOfAwardsMax": 448
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3330,
+  "NumberOfAwards": 3331,
   "NumberOfAwardsMax": 448,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3746,7 +3752,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 292
+      "Count": 293
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3767,9 +3773,9 @@
       "Count": 341
     }
   ],
-  "EOS_Progressed": 20132,
+  "EOS_Progressed": 20136,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 602,
+  "EOS_NewPlayers": 600,
   "EOS_NewCompleters": -3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -18427,6 +18433,11 @@
       "Time": "2024-01-04T20:07:11.1370554+00:00",
       "NumProgressed": 20132,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2024-01-04T21:06:39.6142379+00:00",
+      "NumProgressed": 20136,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -18527,7 +18538,7 @@
       "Name": "First Real Expedition",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1409
+      "UsersEstimate": 1410
     },
     {
       "ID": "WinHard",
@@ -18775,7 +18786,7 @@
       "Name": "Taking Action",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1409
+      "UsersEstimate": 1410
     },
     {
       "ID": "WinWithResolve",
@@ -18797,9 +18808,9 @@
       "ID": "WinWithTimedOrders",
       "SetID": "cfbk359",
       "Name": "Like a Machine",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 141
     },
     {
       "ID": "WinWithTradeRoutes",
@@ -18815,7 +18826,7 @@
       "Name": "No Deaths",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1409
+      "UsersEstimate": 1410
     },
     {
       "ID": "WinWithoutOrders",
@@ -18871,7 +18882,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1409
+      "UsersEstimate": 1410
     },
     {
       "ID": "WinNearPresence",
@@ -18910,15 +18921,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20132,
+      "Progressed": 20136,
       "Completed": 33
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2024-01-04T16:59:35.7370115+00:00",
-  "LastChanged_Achievements": "2024-01-04T20:07:11.137055+00:00",
+  "LastChanged": "2024-01-04T21:00:11.5483425+00:00",
+  "LastChanged_Achievements": "2024-01-04T21:06:39.6142375+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:03.5085053+00:00",
-  "LastUpdate_Ratings": "2024-01-04T20:00:34.6158724+00:00",
-  "LastUpdate_Achievements": "2024-01-04T20:07:11.1371885+00:00"
+  "LastUpdate_Ratings": "2024-01-04T21:00:11.5483432+00:00",
+  "LastUpdate_Achievements": "2024-01-04T21:06:39.6143359+00:00"
 }

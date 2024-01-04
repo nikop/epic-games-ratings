@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1597,18 +1597,24 @@
       "Rating": 4.59,
       "NumberOfAwards": 553,
       "NumberOfAwardsMax": 263
+    },
+    {
+      "Time": "2024-01-04T20:57:18.2128246+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 554,
+      "NumberOfAwardsMax": 264
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 553,
-  "NumberOfAwardsMax": 263,
+  "NumberOfAwards": 554,
+  "NumberOfAwardsMax": 264,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 263
+      "Count": 264
     },
     {
       "Text": "This game is Relaxing",
@@ -1665,9 +1671,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 246558,
+  "EOS_Progressed": 246569,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1331,
+  "EOS_NewPlayers": 1334,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24935,6 +24941,11 @@
       "Time": "2024-01-04T20:11:17.7060937+00:00",
       "NumProgressed": 246558,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-04T21:10:56.5860912+00:00",
+      "NumProgressed": 246569,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 88,
@@ -24994,7 +25005,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19725
+      "UsersEstimate": 19726
     },
     {
       "ID": "Chapter2",
@@ -25010,7 +25021,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9862
+      "UsersEstimate": 9863
     },
     {
       "ID": "Chapter4",
@@ -25346,7 +25357,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 22190
+      "UsersEstimate": 22191
     },
     {
       "ID": "DwarfElf15Support",
@@ -25378,7 +25389,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14793
+      "UsersEstimate": 14794
     },
     {
       "ID": "ElfEpic",
@@ -25394,7 +25405,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 88761
+      "UsersEstimate": 88765
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -25442,7 +25453,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 24656
+      "UsersEstimate": 24657
     },
     {
       "ID": "FollowBraztok",
@@ -25482,7 +25493,7 @@
       "Name": "We come in peace",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 1972
+      "UsersEstimate": 1973
     },
     {
       "ID": "MinistrelEpic",
@@ -25594,7 +25605,7 @@
       "Name": "Speedrun",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14793
+      "UsersEstimate": 14794
     },
     {
       "ID": "SupportCount4",
@@ -25642,28 +25653,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9862
+      "UsersEstimate": 9863
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 246558,
+      "Progressed": 246569,
       "Completed": 8
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 246558,
+      "Progressed": 246569,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2024-01-02T19:59:53.8993733+00:00",
-  "LastChanged_Achievements": "2024-01-04T20:11:17.7060932+00:00",
+  "LastChanged": "2024-01-04T20:57:18.2128245+00:00",
+  "LastChanged_Achievements": "2024-01-04T21:10:56.5860909+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:29.7482382+00:00",
-  "LastUpdate_Ratings": "2024-01-04T19:57:44.2077606+00:00",
-  "LastUpdate_Achievements": "2024-01-04T20:11:17.7062522+00:00"
+  "LastUpdate_Ratings": "2024-01-04T20:57:18.212825+00:00",
+  "LastUpdate_Achievements": "2024-01-04T21:10:56.5862595+00:00"
 }
