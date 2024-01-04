@@ -5,29 +5,29 @@ Rating: 4.81 (Ranked 83)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~3,113 |
-| No more cages! | 90.00% | ~2,949 |
-| Everfrost | 77.00% | ~2,523 |
+| For Demacia | 95.00% | ~3,114 |
+| No more cages! | 90.00% | ~2,950 |
+| Everfrost | 77.00% | ~2,524 |
+| Pentakill | 76.00% | ~2,491 |
 | Dark Forest | 76.00% | ~2,491 |
-| Pentakill | 75.00% | ~2,458 |
-| The use of petricite | 73.00% | ~2,392 |
-| You can pet the dog | 60.00% | ~1,966 |
-| Thornbarrow | 43.00% | ~1,409 |
+| The use of petricite | 73.00% | ~2,393 |
+| You can pet the dog | 60.00% | ~1,967 |
+| Thornbarrow | 43.00% | ~1,410 |
 | Big Helmet Bro | 41.00% | ~1,344 |
 | Clarion Cove | 40.00% | ~1,311 |
 | Ternmoat Headquarters | 39.00% | ~1,278 |
-| Past trauma | 38.00% | ~1,245 |
-| Elemental master | 37.00% | ~1,212 |
-| Cypress Glen Headquarters | 34.00% | ~1,114 |
-| Old friend | 33.00% | ~1,081 |
-| Petricite Burst | 33.00% | ~1,081 |
+| Past trauma | 38.00% | ~1,246 |
+| Elemental master | 37.00% | ~1,213 |
+| Cypress Glen Headquarters | 34.00% | ~1,115 |
+| Old friend | 33.00% | ~1,082 |
+| Petricite Burst | 33.00% | ~1,082 |
 | Devineur | 32.00% | ~1,049 |
 | Hijack | 31.00% | ~1,016 |
 | Whispers in the Woods I | 28.00% | ~918 |
 | Ancient power | 28.00% | ~918 |
 | I chose my shackles | 27.00% | ~885 |
 | Sacred Woods | 26.00% | ~852 |
-| Little light | 24.00% | ~786 |
+| Little light | 24.00% | ~787 |
 | Glyndemere | 23.00% | ~754 |
 | Capelworth | 23.00% | ~754 |
 | Full equipped | 23.00% | ~754 |
@@ -52,14 +52,14 @@ Rating: 4.81 (Ranked 83)
 | Truth is a dark mirror | 13.00% | ~426 |
 | Do you trust me? | 12.00% | ~393 |
 | Back to sleep, then... | 12.00% | ~393 |
-| Chains master | 11.00% | ~360 |
-| The great mage rebellion starts now | 11.00% | ~360 |
-| You can pet the... horse | 11.00% | ~360 |
+| Chains master | 11.00% | ~361 |
+| The great mage rebellion starts now | 11.00% | ~361 |
+| You can pet the... horse | 11.00% | ~361 |
 | Spellcrafting | 10.00% | ~328 |
 | Silverwing nest | 2.00% | ~66 |
 | The Unshackled | 1.00% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,277 (Ranked 224)  
+Progressed: 3,278 (Ranked 224)  
 Completed: 21 (0.64%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,7 +265,7 @@ Completed: 21 (0.64%) (Ranked 202)
 | 2024-01-01 | 3,217 | 19 |
 | 2024-01-02 | 3,235 | 20 |
 | 2024-01-03 | 3,256 | 20 |
-| 2024-01-04 | 3,277 | 21 |
+| 2024-01-04 | 3,278 | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

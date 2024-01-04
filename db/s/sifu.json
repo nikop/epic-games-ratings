@@ -3,8 +3,8 @@
   "Name": "Sifu",
   "ProductSlug": "sifu",
   "Ranking_Rating": 69,
-  "Ranking_Popularity": 55,
-  "Ranking_PopularitySum": 87,
+  "Ranking_Popularity": 56,
+  "Ranking_PopularitySum": 88,
   "Ranking_EOS_Progress": 25,
   "Ranking_EOS_Completed": 141,
   "Ranking_EOS_NewPlayers": 36,
@@ -8733,9 +8733,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 753894,
+  "EOS_Progressed": 753906,
   "EOS_Completed": 12974,
-  "EOS_NewPlayers": 6654,
+  "EOS_NewPlayers": 6660,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.72,
   "EosHistory": [
@@ -32348,6 +32348,11 @@
       "Time": "2024-01-04T22:09:57.4600031+00:00",
       "NumProgressed": 753894,
       "NumCompleted": 12974
+    },
+    {
+      "Time": "2024-01-04T23:09:12.7202017+00:00",
+      "NumProgressed": 753906,
+      "NumCompleted": 12974
     }
   ],
   "TotalAchievements": 60,
@@ -32423,7 +32428,7 @@
       "Name": "Source of Flying Daggers",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3769
+      "UsersEstimate": 3770
     },
     {
       "ID": "10_Wude_H4",
@@ -32431,7 +32436,7 @@
       "Name": "Iron Money",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3769
+      "UsersEstimate": 3770
     },
     {
       "ID": "11_Wude_H5",
@@ -32439,7 +32444,7 @@
       "Name": "Legendary Talismans of Wuxing",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3769
+      "UsersEstimate": 3770
     },
     {
       "ID": "12_MidAge",
@@ -32615,7 +32620,7 @@
       "Name": "Sword Stained With Blood",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3769
+      "UsersEstimate": 3770
     },
     {
       "ID": "34_TimedTakedown",
@@ -32838,21 +32843,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 63195,
+      "Progressed": 63207,
       "Completed": 10799
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 753894,
+      "Progressed": 753906,
       "Completed": 12974
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-04T21:03:13.0026966+00:00",
-  "LastChanged_Achievements": "2024-01-04T22:09:57.4600027+00:00",
+  "LastChanged_Achievements": "2024-01-04T23:09:12.7202013+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:26.4563062+00:00",
-  "LastUpdate_Ratings": "2024-01-04T22:03:11.2911351+00:00",
-  "LastUpdate_Achievements": "2024-01-04T22:09:57.4601555+00:00"
+  "LastUpdate_Ratings": "2024-01-04T23:02:58.0482599+00:00",
+  "LastUpdate_Achievements": "2024-01-04T23:09:12.7203419+00:00"
 }

@@ -9,7 +9,7 @@
 | Bug Hunter | 23.00% | ~152 |
 | Boss Killer | 22.00% | ~145 |
 | The Fallen | 20.00% | ~132 |
-| Artifact Collector | 18.00% | ~119 |
+| Artifact Collector | 19.00% | ~125 |
 | Trap Master | 18.00% | ~119 |
 | Ghost Buster | 14.00% | ~92 |
 | Iconoclasm | 14.00% | ~92 |
@@ -37,8 +37,8 @@
 | Roughneck | 1.00% | ~7 |
 | Rune Master | 1.00% | ~7 |
 | Sword Master | 1.00% | ~7 |
+| Weapon Master | 1.00% | ~7 |
 | Witch | 1.00% | ~7 |
-| Weapon Master | 0.90% | ~6 |
 | Assassin | 0.80% | ~5 |
 | Art Collector | 0.50% | ~3 |
 | Necromancer | 0.50% | ~3 |

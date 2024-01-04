@@ -32,11 +32,11 @@ Number of Ratings: 45  (23.09.2022)
 | Chain Reaction | 0.90% | ~14 |
 | In Soil, In Smoke | 0.90% | ~14 |
 | No Time for Clawmonsters | 0.80% | ~13 |
+| Worldwalker | 0.70% | ~11 |
 | Plague Doctor | 0.70% | ~11 |
 | Bears are Scary | 0.70% | ~11 |
 | Astrology | 0.70% | ~11 |
 | Storied Past | 0.60% | ~10 |
-| Worldwalker | 0.60% | ~10 |
 | Empty the Caves | 0.60% | ~10 |
 | Bonebreakers | 0.60% | ~10 |
 | A Hunger, Sated | 0.60% | ~10 |

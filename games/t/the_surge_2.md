@@ -5,16 +5,16 @@ Rating: 4.27 (Ranked 898)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 79.00% | ~1,950 |
-| Don't I Know You...? | 75.00% | ~1,851 |
-| Jailbreak | 65.00% | ~1,604 |
+| Rigged And Ready | 79.00% | ~1,951 |
+| Don't I Know You...? | 75.00% | ~1,852 |
+| Jailbreak | 64.00% | ~1,580 |
 | HEADSHOT! | 38.00% | ~938 |
 | Suited and Booted | 38.00% | ~938 |
 | Sleeping With The Fishes | 35.00% | ~864 |
-| Overheated | 30.00% | ~740 |
-| High Performance | 30.00% | ~740 |
+| Overheated | 30.00% | ~741 |
+| High Performance | 30.00% | ~741 |
 | Powered Up | 28.00% | ~691 |
-| Studied The Blade | 24.00% | ~592 |
+| Studied The Blade | 24.00% | ~593 |
 | Home Invasion | 22.00% | ~543 |
 | Luminary | 22.00% | ~543 |
 | It's a Trap | 22.00% | ~543 |
@@ -38,9 +38,9 @@ Rating: 4.27 (Ranked 898)
 | Stimulating The Local Economy | 10.00% | ~247 |
 | Triplets | 10.00% | ~247 |
 | Denying Prophecy | 9.00% | ~222 |
-| A Little Banged Up | 8.00% | ~197 |
-| Following In Their Footsteps | 8.00% | ~197 |
-| Defense in Depth | 8.00% | ~197 |
+| A Little Banged Up | 8.00% | ~198 |
+| Following In Their Footsteps | 8.00% | ~198 |
+| Defense in Depth | 8.00% | ~198 |
 | Reverse Engineering | 7.00% | ~173 |
 | Remote Surgery | 6.00% | ~148 |
 | Turbo Booster | 6.00% | ~148 |
@@ -63,7 +63,7 @@ Rating: 4.27 (Ranked 898)
 | Three Birds With One Stone | 1.00% | ~25 |
 | The Easy Way Out | 1.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,468 (Ranked 234)  
+Progressed: 2,469 (Ranked 234)  
 Completed: 13 (0.53%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 13 (0.53%) (Ranked 213)
 | 2024-01-01 | 2,442 | 13 |
 | 2024-01-02 | 2,447 | 13 |
 | 2024-01-03 | 2,457 | 13 |
-| 2024-01-04 | 2,468 | 13 |
+| 2024-01-04 | 2,469 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

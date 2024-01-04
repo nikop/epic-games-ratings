@@ -2952,9 +2952,9 @@
       "ID": "BeggarWomanCoin",
       "SetID": "db30heh",
       "Name": "Alms",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 623
+      "UsersEstimate": 630
     },
     {
       "ID": "BeggarWomanFishGrilled",
@@ -2968,9 +2968,9 @@
       "ID": "BeggarWomanHut",
       "SetID": "db30heh",
       "Name": "Home Sweet Home",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 510
+      "UsersEstimate": 517
     },
     {
       "ID": "BroomAmanita",
@@ -2992,9 +2992,9 @@
       "ID": "DevilPriest",
       "SetID": "db30heh",
       "Name": "Deal with the Devil",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 510
+      "UsersEstimate": 517
     },
     {
       "ID": "DevilRope",
@@ -3040,9 +3040,9 @@
       "ID": "FerrymanBird",
       "SetID": "db30heh",
       "Name": "Happy Reunion",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 481
+      "UsersEstimate": 489
     },
     {
       "ID": "HastrmanAcorn",
@@ -3160,17 +3160,17 @@
       "ID": "RogueChest",
       "SetID": "db30heh",
       "Name": "Treasure Chest",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 404
+      "UsersEstimate": 411
     },
     {
       "ID": "RogueEat",
       "SetID": "db30heh",
       "Name": "Debt Free",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 658
+      "UsersEstimate": 666
     },
     {
       "ID": "RogueKing",
@@ -3192,9 +3192,9 @@
       "ID": "RogueRum",
       "SetID": "db30heh",
       "Name": "In Good Spirits",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 566
+      "UsersEstimate": 573
     },
     {
       "ID": "SleepingBasiliskAmanita",
@@ -3255,8 +3255,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2024-01-04T22:05:25.6350127+00:00",
+  "LastChanged_Achievements": "2024-01-04T23:04:17.164691+00:00",
   "LastUpdate_AppInfo": "2024-01-03T02:57:24.0507598+00:00",
-  "LastUpdate_Ratings": "2024-01-04T22:00:07.5251181+00:00",
-  "LastUpdate_Achievements": "2024-01-04T22:05:25.635063+00:00"
+  "LastUpdate_Ratings": "2024-01-04T22:58:50.9179073+00:00",
+  "LastUpdate_Achievements": "2024-01-04T23:04:17.1647359+00:00"
 }

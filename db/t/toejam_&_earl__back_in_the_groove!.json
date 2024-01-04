@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58623,
+  "EOS_Progressed": 58625,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15356,6 +15356,11 @@
       "Time": "2024-01-04T21:04:09.3120886+00:00",
       "NumProgressed": 58623,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-04T23:03:40.2557145+00:00",
+      "NumProgressed": 58625,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -15439,7 +15444,7 @@
       "Name": "Flying Present Catcher",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3517
+      "UsersEstimate": 3518
     },
     {
       "ID": "FlyingPresentMaster",
@@ -15511,7 +15516,7 @@
       "Name": "HFZ Goober",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3517
+      "UsersEstimate": 3518
     },
     {
       "ID": "HarshLove",
@@ -15758,7 +15763,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58623,
+      "Progressed": 58625,
       "Completed": 6
     }
   ],
@@ -15766,8 +15771,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2024-01-04T22:04:32.1728221+00:00",
+  "LastChanged_Achievements": "2024-01-04T23:03:40.2557141+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:00.2032486+00:00",
-  "LastUpdate_Ratings": "2024-01-04T22:02:01.3215816+00:00",
-  "LastUpdate_Achievements": "2024-01-04T22:04:32.1729087+00:00"
+  "LastUpdate_Ratings": "2024-01-04T23:00:06.8286588+00:00",
+  "LastUpdate_Achievements": "2024-01-04T23:03:40.2558115+00:00"
 }

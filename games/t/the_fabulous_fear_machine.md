@@ -18,8 +18,8 @@
 | The artist | 19.00% | ~16 |
 | Diagnosis: fear | 19.00% | ~16 |
 | Ambition is... blind | 19.00% | ~16 |
+| You have two wishes left | 19.00% | ~16 |
 | Pulp! Adventures into the Unknown | 18.00% | ~15 |
-| You have two wishes left | 18.00% | ~15 |
 | Et in arcadia ego | 16.00% | ~13 |
 | The seer | 16.00% | ~13 |
 | You had one wish left | 14.00% | ~12 |
@@ -52,7 +52,7 @@
 | Pulp! Skeleton Hand | 1.00% | ~1 |
 | Pulp! The Vault of Horror | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83 (Ranked 503)  
+Progressed: 83 (Ranked 504)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |

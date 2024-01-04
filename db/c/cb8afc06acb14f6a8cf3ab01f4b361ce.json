@@ -461,9 +461,9 @@
       "Count": 77
     }
   ],
-  "EOS_Progressed": 340923,
+  "EOS_Progressed": 340944,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 3920,
+  "EOS_NewPlayers": 3932,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12176,6 +12176,11 @@
       "Time": "2024-01-04T22:09:25.9205181+00:00",
       "NumProgressed": 340923,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-04T23:08:49.7835628+00:00",
+      "NumProgressed": 340944,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -12188,7 +12193,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13637
+      "UsersEstimate": 13638
     },
     {
       "ID": "S02_BRDA",
@@ -12220,7 +12225,7 @@
       "Name": "Back to your senses",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 2386
+      "UsersEstimate": 2387
     },
     {
       "ID": "S06_LWTC",
@@ -12228,7 +12233,7 @@
       "Name": "They tricked me",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 2386
+      "UsersEstimate": 2387
     },
     {
       "ID": "S07_INWA",
@@ -12324,7 +12329,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17046
+      "UsersEstimate": 17047
     },
     {
       "ID": "S19_CHALLENGES",
@@ -12356,7 +12361,7 @@
       "Name": "They won\u0027t last long",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 2386
+      "UsersEstimate": 2387
     },
     {
       "ID": "S23_ETHEREAL",
@@ -12420,7 +12425,7 @@
       "Name": "Bring it on!",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 2386
+      "UsersEstimate": 2387
     },
     {
       "ID": "S31_CHNG_DIAMOND",
@@ -12500,14 +12505,14 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6818
+      "UsersEstimate": 6819
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 340923,
+      "Progressed": 340944,
       "Completed": 7
     }
   ],
@@ -12515,8 +12520,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2024-01-01T23:01:20.9565561+00:00",
-  "LastChanged_Achievements": "2024-01-04T22:09:25.9205176+00:00",
+  "LastChanged_Achievements": "2024-01-04T23:08:49.7835625+00:00",
   "LastUpdate_AppInfo": "2023-12-28T22:56:57.7073923+00:00",
-  "LastUpdate_Ratings": "2024-01-04T21:58:33.7325026+00:00",
-  "LastUpdate_Achievements": "2024-01-04T22:09:25.9205968+00:00"
+  "LastUpdate_Ratings": "2024-01-04T22:57:46.0966993+00:00",
+  "LastUpdate_Achievements": "2024-01-04T23:08:49.7836658+00:00"
 }

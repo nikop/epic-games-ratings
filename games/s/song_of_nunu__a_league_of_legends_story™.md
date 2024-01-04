@@ -1,7 +1,7 @@
 # Song of Nunu: A League of Legends Story
 [Store](https://store.epicgames.com/en-US/p/song-of-nunu-a-league-of-legends-story)  
 [View Rawdata](../../db/s/song_of_nunu__a_league_of_legends_story™.json)  
-Rating: 4.52 (Ranked 574)  
+Rating: 4.52 (Ranked 575)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -35,7 +35,7 @@ Rating: 4.52 (Ranked 574)
 | Deadliest and Biggest Snowball Ever! | 38.00% | ~556 |
 | Bullseye | 36.00% | ~527 |
 | It Is Not Over | 35.00% | ~512 |
-| On The Rocks | 33.00% | ~483 |
+| On The Rocks | 34.00% | ~498 |
 | Snowy Poro | 32.00% | ~468 |
 | Never Gets Old | 31.00% | ~454 |
 | Vertical Power | 27.00% | ~395 |

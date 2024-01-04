@@ -857,9 +857,9 @@
       "ID": "heavy_rayne",
       "SetID": "2db2j74",
       "Name": "Heavy Rayne",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 22
+      "UsersEstimate": 25
     },
     {
       "ID": "highlander",
@@ -986,8 +986,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2024-01-04T22:07:34.956537+00:00",
+  "LastChanged_Achievements": "2024-01-04T23:05:50.9930067+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:29.4282289+00:00",
-  "LastUpdate_Ratings": "2024-01-04T22:03:37.3856638+00:00",
-  "LastUpdate_Achievements": "2024-01-04T22:07:34.956557+00:00"
+  "LastUpdate_Ratings": "2024-01-04T23:03:02.1169379+00:00",
+  "LastUpdate_Achievements": "2024-01-04T23:05:50.9930375+00:00"
 }

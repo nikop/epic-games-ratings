@@ -4,7 +4,7 @@
   "ProductSlug": "astalon-tears-of-the-earth-1b2279",
   "Ranking_EOS_Progress": 503,
   "Ranking_EOS_Completed": 97,
-  "Ranking_EOS_NewPlayers": 441,
+  "Ranking_EOS_NewPlayers": 429,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-04-01T00:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83,
+  "EOS_Progressed": 84,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.61,
+  "EOS_Completed_Percentage": 3.57,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:01.3708206+00:00",
@@ -199,6 +199,11 @@
       "Time": "2024-01-04T19:04:23.0961174+00:00",
       "NumProgressed": 83,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-04T23:04:22.8924868+00:00",
+      "NumProgressed": 84,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 30,
@@ -280,7 +285,7 @@
       "ID": "Buy_All_Kyuli_Character_Deals",
       "SetID": "4f0g260",
       "Name": "Rogue Mastery",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
       "UsersEstimate": 13
     },
@@ -328,7 +333,7 @@
       "ID": "Complete_Bestiary_50",
       "SetID": "4f0g260",
       "Name": "Beast Hunter",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
       "UsersEstimate": 27
     },
@@ -336,7 +341,7 @@
       "ID": "Complete_Bestiary_80",
       "SetID": "4f0g260",
       "Name": "Beast Knight",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 40,
       "UsersEstimate": 23
     },
@@ -384,7 +389,7 @@
       "ID": "Defeat_Tauros",
       "SetID": "4f0g260",
       "Name": "Horn prize!",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 15,
       "UsersEstimate": 42
     },
@@ -440,7 +445,7 @@
       "ID": "Unlock_Zeek",
       "SetID": "4f0g260",
       "Name": "Loot, loot!",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 30,
       "UsersEstimate": 27
     }
@@ -449,7 +454,7 @@
     {
       "ID": "4f0g260",
       "IsBase": true,
-      "Progressed": 83,
+      "Progressed": 84,
       "Completed": 3
     }
   ],
@@ -457,8 +462,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6585967+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.3708214+00:00",
   "LastChanged": "2023-03-31T05:57:06.6585968+00:00",
-  "LastChanged_Achievements": "2024-01-04T22:05:34.038781+00:00",
+  "LastChanged_Achievements": "2024-01-04T23:04:22.8924864+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:11.1356612+00:00",
-  "LastUpdate_Ratings": "2024-01-04T21:57:27.6798016+00:00",
-  "LastUpdate_Achievements": "2024-01-04T22:05:34.0388+00:00"
+  "LastUpdate_Ratings": "2024-01-04T22:57:03.6388955+00:00",
+  "LastUpdate_Achievements": "2024-01-04T23:04:22.8925057+00:00"
 }

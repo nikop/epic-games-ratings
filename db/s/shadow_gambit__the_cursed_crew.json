@@ -6,8 +6,8 @@
   "Ranking_Popularity": 579,
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 267,
-  "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_Completed": 127,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -185,11 +185,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1437,
+  "EOS_Progressed": 1439,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.44,
+  "EOS_Completed_Percentage": 2.43,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -4955,6 +4955,11 @@
       "Time": "2024-01-04T22:04:45.3505906+00:00",
       "NumProgressed": 1437,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-04T23:03:49.3664326+00:00",
+      "NumProgressed": 1439,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4975,7 +4980,7 @@
       "Name": "A New Journey",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 977
+      "UsersEstimate": 979
     },
     {
       "ID": "_03_FinishAct1",
@@ -4983,7 +4988,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -4991,7 +4996,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "_05_FinishAct2",
@@ -4999,7 +5004,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -5015,7 +5020,7 @@
       "Name": "All Good Things",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "_08_Completion_10",
@@ -5023,7 +5028,7 @@
       "Name": "Swabbie",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "_09_Completion_20",
@@ -5039,7 +5044,7 @@
       "Name": "Buccaneer",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "_11_Completion_40",
@@ -5055,7 +5060,7 @@
       "Name": "Privateer",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "_13_Completion_60",
@@ -5071,7 +5076,7 @@
       "Name": "Freebooter",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "_15_Completion_80",
@@ -5095,7 +5100,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -5119,7 +5124,7 @@
       "Name": "Fishy Fish",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -5135,7 +5140,7 @@
       "Name": "Accursed Artifacts",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -5143,7 +5148,7 @@
       "Name": "Lyrical Longing",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "_24_CrewTale_SNP",
@@ -5174,7 +5179,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1437,
+      "Progressed": 1439,
       "Completed": 35
     }
   ],
@@ -5182,8 +5187,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-03T10:02:59.9033308+00:00",
-  "LastChanged_Achievements": "2024-01-04T22:04:45.3505895+00:00",
+  "LastChanged_Achievements": "2024-01-04T23:03:49.3664321+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.1530944+00:00",
-  "LastUpdate_Ratings": "2024-01-04T21:58:06.7674812+00:00",
-  "LastUpdate_Achievements": "2024-01-04T22:04:45.3506264+00:00"
+  "LastUpdate_Ratings": "2024-01-04T22:57:28.0559877+00:00",
+  "LastUpdate_Achievements": "2024-01-04T23:03:49.3664712+00:00"
 }

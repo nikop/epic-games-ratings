@@ -20,8 +20,8 @@
 | Oscar Winning Performance | 10.00% | ~31 |
 | Voyeur | 10.00% | ~31 |
 | Put A Ring On It | 9.00% | ~28 |
+| Heavy Rayne | 8.00% | ~25 |
 | Chicken | 7.00% | ~22 |
-| Heavy Rayne | 7.00% | ~22 |
 | Bullseye | 4.00% | ~13 |
 | Show Me Some Skin | 4.00% | ~13 |
 | The Big Sleep | 4.00% | ~13 |

@@ -11,8 +11,8 @@
 | Act 1 | 32.00% | ~45 |
 | Wrench | 31.00% | ~43 |
 | Capacitors | 31.00% | ~43 |
-| Mug | 28.00% | ~39 |
-| Soldering iron | 27.00% | ~38 |
+| Mug | 29.00% | ~41 |
+| Soldering iron | 28.00% | ~39 |
 | Robot Bros | 22.00% | ~31 |
 | Act 2 | 21.00% | ~29 |
 | Cassette | 19.00% | ~27 |

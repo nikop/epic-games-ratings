@@ -20,7 +20,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Goodbye, Frog Friend | 0.90% | ~2,181 |
 | A Donation | 0.90% | ~2,181 |
 | Explorer | 0.90% | ~2,181 |
-| Not Touching You | 0.90% | ~34 |
+| Not Touching You | 0.90% | ~35 |
 | Ambitious Intent | 0.80% | ~1,939 |
 | Delving Deeper | 0.80% | ~1,939 |
 | R.I.P | 0.80% | ~1,939 |
@@ -31,16 +31,16 @@ Number of Ratings: 15,086  (23.09.2022)
 | C-C-Combo | 0.80% | ~1,939 |
 | Deflection | 0.80% | ~1,939 |
 | Sneaky | 0.80% | ~1,939 |
-| Dig Your Own Grave | 0.70% | ~1,696 |
-| Who To Trust? | 0.70% | ~1,696 |
-| Walk It Off | 0.70% | ~1,696 |
-| Cold Hearted | 0.70% | ~1,696 |
-| I Am Overburdened | 0.70% | ~1,696 |
-| Shootout | 0.70% | ~1,696 |
-| Stone Touch | 0.70% | ~1,696 |
-| Toxic | 0.70% | ~1,696 |
-| Shadow Walker | 0.70% | ~1,696 |
-| Flesh Wound | 0.70% | ~1,696 |
+| Dig Your Own Grave | 0.70% | ~1,697 |
+| Who To Trust? | 0.70% | ~1,697 |
+| Walk It Off | 0.70% | ~1,697 |
+| Cold Hearted | 0.70% | ~1,697 |
+| I Am Overburdened | 0.70% | ~1,697 |
+| Shootout | 0.70% | ~1,697 |
+| Stone Touch | 0.70% | ~1,697 |
+| Toxic | 0.70% | ~1,697 |
+| Shadow Walker | 0.70% | ~1,697 |
+| Flesh Wound | 0.70% | ~1,697 |
 | Consecutive Curses | 0.60% | ~1,454 |
 | Just Chilling | 0.60% | ~1,454 |
 | Save Our Souls | 0.60% | ~1,454 |
@@ -81,7 +81,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Obsessed | 0.30% | ~727 |
 | Sentimental Value | 0.30% | ~727 |
 | Precious | 0.30% | ~727 |
-| Raw Power | 0.30% | ~11 |
+| Raw Power | 0.30% | ~12 |
 | A Long Climb | 0.20% | ~485 |
 | Hydrophobe | 0.20% | ~485 |
 | Dead Revels | 0.20% | ~485 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,353 (Ranked 72)  
+Progressed: 242,358 (Ranked 72)  
 Completed: 304 (0.13%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -404,7 +404,7 @@ Completed: 304 (0.13%) (Ranked 295)
 | 2024-01-01 | 242,196 | 302 |
 | 2024-01-02 | 242,247 | 303 |
 | 2024-01-03 | 242,304 | 303 |
-| 2024-01-04 | 242,353 | 304 |
+| 2024-01-04 | 242,358 | 304 |
 ## Awards
 Max (Quickly Understood Controls): 1,514  (Ranked 137)  
 Sum: 11,786 (Ranked 89)  

@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -1819,9 +1819,9 @@
       "ID": "ArtifactsCollector",
       "SetID": "82505mn",
       "Name": "Artifact Collector",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 119
+      "UsersEstimate": 125
     },
     {
       "ID": "Assassin",
@@ -2107,9 +2107,9 @@
       "ID": "WeaponMaster",
       "SetID": "82505mn",
       "Name": "Weapon Master",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Witch",
@@ -2132,8 +2132,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2024-01-04T22:11:09.0042934+00:00",
+  "LastChanged_Achievements": "2024-01-04T23:10:04.8233114+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:03.2604081+00:00",
-  "LastUpdate_Ratings": "2024-01-04T21:59:18.7380036+00:00",
-  "LastUpdate_Achievements": "2024-01-04T22:11:09.0043525+00:00"
+  "LastUpdate_Ratings": "2024-01-04T22:58:16.3244174+00:00",
+  "LastUpdate_Achievements": "2024-01-04T23:10:04.8233415+00:00"
 }

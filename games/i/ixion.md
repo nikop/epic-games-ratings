@@ -6,7 +6,7 @@ Rating: 4.58 (Ranked 467)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 32.00% | ~1,268 |
-| Sputnik 2049 | 28.00% | ~1,109 |
+| Sputnik 2049 | 28.00% | ~1,110 |
 | Infinite Growth... | 27.00% | ~1,070 |
 | Without Breaking Some Eggs... | 26.00% | ~1,030 |
 | Ready for a New World | 19.00% | ~753 |
@@ -18,9 +18,9 @@ Rating: 4.58 (Ranked 467)
 | Guy de Borderlands | 14.00% | ~555 |
 | Ain't Nobody Got Time for That | 14.00% | ~555 |
 | Hope Seeker | 13.00% | ~515 |
-| A Hunk of Junk | 12.00% | ~475 |
-| Exceeding Capacity | 12.00% | ~475 |
-| Breaking Protocol | 12.00% | ~475 |
+| A Hunk of Junk | 12.00% | ~476 |
+| Exceeding Capacity | 12.00% | ~476 |
+| Breaking Protocol | 12.00% | ~476 |
 | Man's Best Friend | 9.00% | ~357 |
 | Power Outage | 9.00% | ~357 |
 | Please Make it Stop! | 9.00% | ~357 |
@@ -37,8 +37,8 @@ Rating: 4.58 (Ranked 467)
 | In Dolos We Trust | 5.00% | ~198 |
 | BRAWL! | 5.00% | ~198 |
 | What the Ruins Teach Us | 5.00% | ~198 |
-| Sustainable Energy | 4.00% | ~158 |
-| Pedal to the Metal | 4.00% | ~158 |
+| Sustainable Energy | 4.00% | ~159 |
+| Pedal to the Metal | 4.00% | ~159 |
 | Praise the Hull! | 3.00% | ~119 |
 | Space Greenhouse | 3.00% | ~119 |
 | Delivery! | 3.00% | ~119 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 467)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,962 (Ranked 212)  
+Progressed: 3,963 (Ranked 212)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-01 | 3,888 | 0 |
 | 2024-01-02 | 3,912 | 0 |
 | 2024-01-03 | 3,940 | 0 |
-| 2024-01-04 | 3,962 | 0 |
+| 2024-01-04 | 3,963 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 489,
+  "EOS_Progressed": 490,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1580,6 +1580,11 @@
       "Time": "2024-01-04T18:06:31.4317558+00:00",
       "NumProgressed": 489,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T23:06:18.1452105+00:00",
+      "NumProgressed": 490,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1631,7 +1636,7 @@
       "Name": "Under One Roof",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ach_art",
@@ -1727,15 +1732,15 @@
       "Name": "Need a Consult",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ach_consultant_1",
       "SetID": "b8gh1fi",
       "Name": "Upgrade Unlock",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 162
     },
     {
       "ID": "ach_consultants_a",
@@ -1925,9 +1930,9 @@
       "ID": "ach_grime",
       "SetID": "b8gh1fi",
       "Name": "Grime is Not Good",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 210
+      "UsersEstimate": 206
     },
     {
       "ID": "ach_grime_1",
@@ -1951,7 +1956,7 @@
       "Name": "Happy Tenants",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ach_loan",
@@ -1991,7 +1996,7 @@
       "Name": "It\u0027s Technical",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ach_office_2",
@@ -2039,7 +2044,7 @@
       "Name": "Established Fame",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ach_prestige_3",
@@ -2119,7 +2124,7 @@
       "Name": "Potent Potables",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ach_restaurants_5",
@@ -2167,7 +2172,7 @@
       "Name": "Cashflow Chief",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ach_revs_2",
@@ -2294,7 +2299,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 489,
+      "Progressed": 490,
       "Completed": 0
     }
   ],
@@ -2302,8 +2307,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2024-01-04T22:08:13.0341943+00:00",
+  "LastChanged_Achievements": "2024-01-04T23:06:18.1452101+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.6325323+00:00",
-  "LastUpdate_Ratings": "2024-01-04T22:00:48.1881868+00:00",
-  "LastUpdate_Achievements": "2024-01-04T22:08:13.0342804+00:00"
+  "LastUpdate_Ratings": "2024-01-04T22:59:16.8438596+00:00",
+  "LastUpdate_Achievements": "2024-01-04T23:06:18.1452927+00:00"
 }

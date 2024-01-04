@@ -2,7 +2,7 @@
   "ID": "eca39884bdf14f65af242a8e3ff5b2d9",
   "Name": "Avatar: Frontiers of Pandora",
   "ProductSlug": "avatar-frontiers-of-pandora",
-  "Ranking_Rating": 574,
+  "Ranking_Rating": 563,
   "Ranking_Popularity": 350,
   "Ranking_PopularitySum": 283,
   "Ranking_EOS_Progress": 820,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN, RU, BY"
     }
   },
-  "Rating": 4.52,
+  "Rating": 4.53,
   "RatingHistory": [
     {
       "Time": "2023-12-07T19:59:23.1655441+00:00",
@@ -963,10 +963,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 885,
       "NumberOfAwardsMax": 125
+    },
+    {
+      "Time": "2024-01-04T22:58:12.7583608+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 892,
+      "NumberOfAwardsMax": 125
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 885,
+  "NumberOfAwards": 892,
   "NumberOfAwardsMax": 125,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -1004,7 +1010,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 102
+      "Count": 104
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -1016,7 +1022,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 89
+      "Count": 94
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1049,8 +1055,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-07T07:59:53.6089805+00:00",
   "FirstSeenRating": "2023-12-07T19:59:23.1655437+00:00",
-  "LastChanged": "2024-01-04T19:59:15.7959844+00:00",
+  "LastChanged": "2024-01-04T22:58:12.7583606+00:00",
   "LastUpdate_AppInfo": "2024-01-01T07:57:22.7847618+00:00",
-  "LastUpdate_Ratings": "2024-01-04T21:59:13.73508+00:00",
-  "LastUpdate_Achievements": "2024-01-04T22:07:34.0026629+00:00"
+  "LastUpdate_Ratings": "2024-01-04T22:58:12.7583612+00:00",
+  "LastUpdate_Achievements": "2024-01-04T23:05:50.2585084+00:00"
 }

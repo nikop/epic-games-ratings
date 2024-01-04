@@ -5,31 +5,31 @@ Rating: 4.54 (Ranked 546)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 17.00% | ~3,095 |
-| Captain Drummer | 13.00% | ~2,366 |
-| Celebrations are in Order | 13.00% | ~2,366 |
-| The Pit and the Pirates | 12.00% | ~2,184 |
-| Martian Music | 12.00% | ~2,184 |
-| Bosmang | 12.00% | ~2,184 |
-| Impossible Objects | 12.00% | ~2,184 |
-| Drone Dodger | 11.00% | ~2,002 |
-| Stogie for Fogey | 10.00% | ~1,820 |
-| Spore Taste | 10.00% | ~1,820 |
-| Call it Even | 9.00% | ~1,638 |
-| Safe Cracker | 9.00% | ~374 |
-| Zen Master | 9.00% | ~374 |
-| Madame Undersecretary | 9.00% | ~374 |
-| Heal Thy Medic | 8.00% | ~1,456 |
-| Data Archivist | 7.00% | ~1,274 |
-| Drug Gifter | 7.00% | ~1,274 |
-| Khan's Revenge | 7.00% | ~1,274 |
-| Keep Arjun in Check | 7.00% | ~291 |
-| Bottoms up! | 6.00% | ~1,092 |
-| Thorston Mayer | 6.00% | ~1,092 |
-| Master Negotiator | 6.00% | ~249 |
-| Doctor Approved | 5.00% | ~910 |
-| Data Logger | 4.00% | ~728 |
-| Miraculous Maya | 4.00% | ~728 |
+| Oyedang, Kopengs | 17.00% | ~3,096 |
+| Captain Drummer | 13.00% | ~2,368 |
+| Celebrations are in Order | 13.00% | ~2,368 |
+| The Pit and the Pirates | 12.00% | ~2,186 |
+| Martian Music | 12.00% | ~2,186 |
+| Bosmang | 12.00% | ~2,186 |
+| Impossible Objects | 12.00% | ~2,186 |
+| Drone Dodger | 11.00% | ~2,003 |
+| Stogie for Fogey | 10.00% | ~1,821 |
+| Spore Taste | 10.00% | ~1,821 |
+| Zen Master | 10.00% | ~417 |
+| Call it Even | 9.00% | ~1,639 |
+| Safe Cracker | 9.00% | ~375 |
+| Madame Undersecretary | 9.00% | ~375 |
+| Heal Thy Medic | 8.00% | ~1,457 |
+| Data Archivist | 7.00% | ~1,275 |
+| Drug Gifter | 7.00% | ~1,275 |
+| Khan's Revenge | 7.00% | ~1,275 |
+| Keep Arjun in Check | 7.00% | ~292 |
+| Doctor Approved | 6.00% | ~1,093 |
+| Bottoms up! | 6.00% | ~1,093 |
+| Thorston Mayer | 6.00% | ~1,093 |
+| Master Negotiator | 6.00% | ~250 |
+| Data Logger | 4.00% | ~729 |
+| Miraculous Maya | 4.00% | ~729 |
 | Data Master | 3.00% | ~546 |
 | Brother's Reaper | 2.00% | ~364 |
 | No Belter Left Behind | 2.00% | ~364 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 546)
 | Scavenger Star | 0.30% | ~55 |
 | Data Collector | 0.20% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,203 (Ranked 159)  
+Progressed: 18,213 (Ranked 159)  
 Completed: 58 (0.32%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 58 (0.32%) (Ranked 245)
 | 2024-01-01 | 18,013 | 58 |
 | 2024-01-02 | 18,077 | 58 |
 | 2024-01-03 | 18,141 | 58 |
-| 2024-01-04 | 18,203 | 58 |
+| 2024-01-04 | 18,213 | 58 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

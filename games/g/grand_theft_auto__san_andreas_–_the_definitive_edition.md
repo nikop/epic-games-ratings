@@ -5,23 +5,23 @@ Rating: 4.55 (Ranked 523)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~14,853 |
-| Pay 'n' Spray | 50.00% | ~9,168 |
-| All Dressed Up for San Fierro | 25.00% | ~4,584 |
-| The American Dream | 19.00% | ~3,484 |
-| School's Out | 18.00% | ~3,301 |
-| Smooth Moves | 17.00% | ~3,117 |
-| Today Was a Good Day | 15.00% | ~2,751 |
-| What happens in Las Venturas... | 14.00% | ~2,567 |
+| Getting Started | 81.00% | ~14,859 |
+| Pay 'n' Spray | 50.00% | ~9,172 |
+| All Dressed Up for San Fierro | 25.00% | ~4,586 |
+| The American Dream | 19.00% | ~3,485 |
+| School's Out | 18.00% | ~3,302 |
+| Smooth Moves | 17.00% | ~3,118 |
+| Today Was a Good Day | 15.00% | ~2,752 |
+| What happens in Las Venturas... | 14.00% | ~2,568 |
 | Horror of the Santa Maria | 10.00% | ~1,834 |
-| Liberty City State of Mind | 9.00% | ~1,650 |
-| Original Gangster | 8.00% | ~1,467 |
+| Liberty City State of Mind | 9.00% | ~1,651 |
+| Original Gangster | 8.00% | ~1,468 |
 | With Extra Dip | 7.00% | ~1,284 |
 | The End of the Line | 7.00% | ~1,284 |
-| Saviour | 6.00% | ~1,100 |
+| Saviour | 6.00% | ~1,101 |
 | Rescue a Kitten Too? | 5.00% | ~917 |
-| They Can’t Stop All of Us | 4.00% | ~733 |
-| What are the Odds | 4.00% | ~733 |
+| They Can’t Stop All of Us | 4.00% | ~734 |
+| What are the Odds | 4.00% | ~734 |
 | Bike or Biker | 3.00% | ~550 |
 | What the City Needs | 3.00% | ~550 |
 | A Legitimate Business | 2.00% | ~367 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 523)
 | ...Here we go again | 0.50% | ~92 |
 | I Ain't No Buster | 0.40% | ~73 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,337 (Ranked 158)  
+Progressed: 18,344 (Ranked 158)  
 Completed: 72 (0.39%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 72 (0.39%) (Ranked 235)
 | 2024-01-01 | 17,956 | 69 |
 | 2024-01-02 | 18,093 | 70 |
 | 2024-01-03 | 18,207 | 71 |
-| 2024-01-04 | 18,337 | 72 |
+| 2024-01-04 | 18,344 | 72 |
 ## Awards
 Max (Amazing Characters): 52  (Ranked 442)  
 Sum: 341 (Ranked 370)  

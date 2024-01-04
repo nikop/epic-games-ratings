@@ -4,7 +4,7 @@
   "ProductSlug": "homeworld-remastered-collection",
   "Ranking_Rating": 523,
   "Ranking_Popularity": 498,
-  "Ranking_PopularitySum": 415,
+  "Ranking_PopularitySum": 408,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 102,
@@ -771,10 +771,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 202,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2024-01-04T22:59:24.4648872+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 222,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 202,
+  "NumberOfAwards": 222,
   "NumberOfAwardsMax": 35,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -837,11 +843,17 @@
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
       "Count": 25
+    },
+    {
+      "Text": "This game has Unique Visuals",
+      "Prefix": "This game has",
+      "Type": "Unique Visuals",
+      "Count": 20
     }
   ],
-  "EOS_Progressed": 241434,
+  "EOS_Progressed": 241441,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1287,
+  "EOS_NewPlayers": 1293,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20034,6 +20046,11 @@
       "Time": "2024-01-04T22:11:01.6169501+00:00",
       "NumProgressed": 241434,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T23:09:59.2246188+00:00",
+      "NumProgressed": 241441,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -20078,7 +20095,7 @@
       "Name": "Bridge of Sighs Completed",
       "Percentage": 0.8,
       "XP": 35,
-      "UsersEstimate": 1931
+      "UsersEstimate": 1932
     },
     {
       "ID": "HW1_MISSION15_COMPLETE",
@@ -20102,7 +20119,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 50701
+      "UsersEstimate": 50703
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -20110,7 +20127,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21729
+      "UsersEstimate": 21730
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -20126,7 +20143,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9657
+      "UsersEstimate": 9658
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -20230,7 +20247,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 33801
+      "UsersEstimate": 33802
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -20238,7 +20255,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 16900
+      "UsersEstimate": 16901
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -20302,7 +20319,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 60358
+      "UsersEstimate": 60360
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -20317,16 +20334,16 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 241434,
+      "Progressed": 241441,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T17:57:09.4627104+00:00",
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
-  "LastChanged": "2024-01-04T20:00:50.9031793+00:00",
-  "LastChanged_Achievements": "2024-01-04T22:11:01.6169498+00:00",
+  "LastChanged": "2024-01-04T22:59:24.464887+00:00",
+  "LastChanged_Achievements": "2024-01-04T23:09:59.2246187+00:00",
   "LastUpdate_AppInfo": "2023-12-29T06:57:17.105104+00:00",
-  "LastUpdate_Ratings": "2024-01-04T22:00:59.6821028+00:00",
-  "LastUpdate_Achievements": "2024-01-04T22:11:01.6170575+00:00"
+  "LastUpdate_Ratings": "2024-01-04T22:59:24.4648874+00:00",
+  "LastUpdate_Achievements": "2024-01-04T23:09:59.2247063+00:00"
 }

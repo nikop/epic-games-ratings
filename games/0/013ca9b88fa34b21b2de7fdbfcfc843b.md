@@ -5,7 +5,7 @@ Rating: 4.63 (Ranked 357)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 4.00% | ~354 |
+| Azoria Beckons | 4.00% | ~355 |
 | A Thorny Situation | 3.00% | ~266 |
 | ... And Spit Back Out | 3.00% | ~266 |
 | Calm Sailing | 2.00% | ~177 |
@@ -49,7 +49,7 @@ Rating: 4.63 (Ranked 357)
 | Splish-Splash | 0.10% | ~1 |
 | Archi-Pal-igo Aficionado | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,862 (Ranked 184)  
+Progressed: 8,863 (Ranked 184)  
 Completed: 1 (0.01%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 1 (0.01%) (Ranked 369)
 | 2024-01-01 | 8,805 | 1 |
 | 2024-01-02 | 8,830 | 1 |
 | 2024-01-03 | 8,841 | 1 |
-| 2024-01-04 | 8,862 | 1 |
+| 2024-01-04 | 8,863 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

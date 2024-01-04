@@ -1330,9 +1330,9 @@
       "ID": "20TRADER",
       "SetID": "a1angca",
       "Name": "Peddler",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "20WEAPONSCRAFTED",
@@ -1578,9 +1578,9 @@
       "ID": "FUTUREIRISSA",
       "SetID": "a1angca",
       "Name": "Irissa\u0027s Fate",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "HELPCHILDREN",
@@ -1674,8 +1674,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2024-01-04T22:04:44.2910899+00:00",
+  "LastChanged_Achievements": "2024-01-04T23:03:48.8942138+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:16.9599546+00:00",
-  "LastUpdate_Ratings": "2024-01-04T21:57:36.8074787+00:00",
-  "LastUpdate_Achievements": "2024-01-04T22:04:44.2911292+00:00"
+  "LastUpdate_Ratings": "2024-01-04T22:57:09.6286552+00:00",
+  "LastUpdate_Achievements": "2024-01-04T23:03:48.894254+00:00"
 }

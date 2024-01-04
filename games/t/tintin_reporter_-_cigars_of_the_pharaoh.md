@@ -7,7 +7,7 @@
 | My Papyrus! | 76.00% | ~89 |
 | A Loyal Friend | 39.00% | ~46 |
 | Abandon Ship! | 27.00% | ~32 |
-| The Tomb of Kih-Oskh | 21.00% | ~25 |
+| The Tomb of Kih-Oskh | 22.00% | ~26 |
 | The Weighing of the Soul | 20.00% | ~23 |
 | The Curse of Kih-Oskh | 17.00% | ~20 |
 | It's a Deal! | 14.00% | ~16 |
@@ -36,10 +36,10 @@
 | Jungle Runner | 2.00% | ~2 |
 | The Pharaoh's New Clothes | 2.00% | ~2 |
 | Guilt | 2.00% | ~2 |
+| Trials of Kih-Oskh | 0.90% | ~1 |
 | Broken Brotherhood | 0.90% | ~1 |
 | Cookie Accomplished | 0.00% | ~0 |
 | Flying Ace | 0.00% | ~0 |
-| Trials of Kih-Oskh | 0.00% | ~0 |
 | Escaping War | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 117 (Ranked 476)  

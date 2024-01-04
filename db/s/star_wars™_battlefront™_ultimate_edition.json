@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2594,
+  "EOS_Progressed": 2595,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 296,
   "EOS_NewCompleters": 0,
@@ -7184,6 +7184,11 @@
       "Time": "2024-01-04T21:10:59.5110631+00:00",
       "NumProgressed": 2594,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-04T23:10:08.8317397+00:00",
+      "NumProgressed": 2595,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -7420,7 +7425,7 @@
       "Name": "New Recruit",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 2257
+      "UsersEstimate": 2258
     },
     {
       "ID": "achievement_36",
@@ -7436,7 +7441,7 @@
       "Name": "Off to a good start",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1608
+      "UsersEstimate": 1609
     },
     {
       "ID": "achievement_38",
@@ -7458,9 +7463,9 @@
       "ID": "achievement_4",
       "SetID": "271ol84",
       "Name": "I suggest a new strategy",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 467
+      "UsersEstimate": 441
     },
     {
       "ID": "achievement_40",
@@ -7500,7 +7505,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "achievement_45",
@@ -7699,13 +7704,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2594,
+      "Progressed": 2595,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2594,
+      "Progressed": 2595,
       "Completed": 1
     }
   ],
@@ -7713,8 +7718,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-04T22:11:13.8969549+00:00",
+  "LastChanged_Achievements": "2024-01-04T23:10:08.8317392+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:19.759459+00:00",
-  "LastUpdate_Ratings": "2024-01-04T22:01:57.2051705+00:00",
-  "LastUpdate_Achievements": "2024-01-04T22:11:13.8970525+00:00"
+  "LastUpdate_Ratings": "2024-01-04T23:00:03.7985134+00:00",
+  "LastUpdate_Achievements": "2024-01-04T23:10:08.8318145+00:00"
 }

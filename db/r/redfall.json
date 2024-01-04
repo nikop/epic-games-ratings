@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 572,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 149,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -4238,9 +4238,9 @@
       "ID": "Achievement_033",
       "SetID": "6b34g18",
       "Name": "Wounded Whispers",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 293
     },
     {
       "ID": "Achievement_034",
@@ -4527,8 +4527,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-01T12:00:40.1847166+00:00",
-  "LastChanged_Achievements": "2024-01-04T22:04:32.5579502+00:00",
+  "LastChanged_Achievements": "2024-01-04T23:03:40.5541889+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.8280502+00:00",
-  "LastUpdate_Ratings": "2024-01-04T21:58:16.279744+00:00",
-  "LastUpdate_Achievements": "2024-01-04T22:04:32.5580221+00:00"
+  "LastUpdate_Ratings": "2024-01-04T22:57:34.272612+00:00",
+  "LastUpdate_Achievements": "2024-01-04T23:03:40.5542471+00:00"
 }

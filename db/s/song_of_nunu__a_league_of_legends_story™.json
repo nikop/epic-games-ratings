@@ -2,7 +2,7 @@
   "ID": "c7ab6cc723fe4bc6b24237d61b58687b",
   "Name": "Song of Nunu: A League of Legends Story",
   "ProductSlug": "song-of-nunu-a-league-of-legends-story",
-  "Ranking_Rating": 574,
+  "Ranking_Rating": 575,
   "Ranking_Popularity": 579,
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 265,
@@ -4013,9 +4013,9 @@
       "ID": "EV_ACH19",
       "SetID": "6jeac23",
       "Name": "On The Rocks",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 483
+      "UsersEstimate": 498
     },
     {
       "ID": "EV_ACH20",
@@ -4230,8 +4230,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2023-12-25T19:59:38.6529887+00:00",
-  "LastChanged_Achievements": "2024-01-04T22:11:11.6002934+00:00",
+  "LastChanged_Achievements": "2024-01-04T23:10:07.031442+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:31.1823177+00:00",
-  "LastUpdate_Ratings": "2024-01-04T21:58:04.007242+00:00",
-  "LastUpdate_Achievements": "2024-01-04T22:11:11.6003847+00:00"
+  "LastUpdate_Ratings": "2024-01-04T22:57:26.6225712+00:00",
+  "LastUpdate_Achievements": "2024-01-04T23:10:07.0314947+00:00"
 }

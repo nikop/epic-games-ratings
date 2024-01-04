@@ -5,13 +5,13 @@ Rating: 4.40 (Ranked 766)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~80,669 |
-| Predator I | 23.00% | ~59,851 |
-| Fixer I | 10.00% | ~26,022 |
-| A week in Century City | 10.00% | ~26,022 |
-| The Wait | 7.00% | ~18,215 |
-| Green thumb I | 6.00% | ~15,613 |
-| Cleaning Company | 6.00% | ~15,613 |
+| Survivor | 31.00% | ~80,670 |
+| Predator I | 23.00% | ~59,852 |
+| Fixer I | 10.00% | ~26,023 |
+| A week in Century City | 10.00% | ~26,023 |
+| The Wait | 7.00% | ~18,216 |
+| Green thumb I | 6.00% | ~15,614 |
+| Cleaning Company | 6.00% | ~15,614 |
 | Well-oiled machine | 5.00% | ~13,011 |
 | Saver I | 5.00% | ~13,011 |
 | The Ascent | 4.00% | ~10,409 |
@@ -22,12 +22,12 @@ Rating: 4.40 (Ranked 766)
 | It took a while | 3.00% | ~7,807 |
 | Adrenaline | 3.00% | ~7,807 |
 | Predator II | 3.00% | ~7,807 |
-| By a hair | 2.00% | ~5,204 |
-| Samurai | 2.00% | ~5,204 |
-| I Left You a Present | 2.00% | ~5,204 |
-| Truffle Dog | 2.00% | ~5,204 |
-| Don't try this at home | 2.00% | ~5,204 |
-| A month in Century City | 2.00% | ~5,204 |
+| By a hair | 2.00% | ~5,205 |
+| Samurai | 2.00% | ~5,205 |
+| I Left You a Present | 2.00% | ~5,205 |
+| Truffle Dog | 2.00% | ~5,205 |
+| Don't try this at home | 2.00% | ~5,205 |
+| A month in Century City | 2.00% | ~5,205 |
 | The Strengthening | 1.00% | ~2,602 |
 | Saver II | 1.00% | ~2,602 |
 | It's the last one, I swear | 1.00% | ~2,602 |
@@ -62,7 +62,7 @@ Rating: 4.40 (Ranked 766)
 | Capitalist III | 0.10% | ~260 |
 | Hell Is You | 0.10% | ~260 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 260,221 (Ranked 67)  
+Progressed: 260,226 (Ranked 67)  
 Completed: 3 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 3 (0.00%) (Ranked 393)
 | 2024-01-01 | 260,097 | 3 |
 | 2024-01-02 | 260,132 | 3 |
 | 2024-01-03 | 260,179 | 3 |
-| 2024-01-04 | 260,221 | 3 |
+| 2024-01-04 | 260,226 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 54  (Ranked 439)  
 Sum: 374 (Ranked 359)  

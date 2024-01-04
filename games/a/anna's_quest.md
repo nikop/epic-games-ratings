@@ -8,8 +8,8 @@
 | Book Worm | 47.00% | ~44 |
 | Ooh, it's shiny! | 47.00% | ~44 |
 | Fussy eater | 35.00% | ~33 |
-| My lost nightingale | 33.00% | ~31 |
-| Through the woods | 32.00% | ~30 |
+| My lost nightingale | 34.00% | ~32 |
+| Through the woods | 33.00% | ~31 |
 | Back to the anvil | 31.00% | ~29 |
 | So soothing... | 31.00% | ~29 |
 | Kekekeke... | 31.00% | ~29 |
@@ -26,10 +26,10 @@
 | Beekeeper | 27.00% | ~25 |
 | Far away from home | 27.00% | ~25 |
 | Show me your true self | 26.00% | ~24 |
+| Little genius | 26.00% | ~24 |
 | Memories | 25.00% | ~23 |
 | Mischief maker | 25.00% | ~23 |
 | No posters allowed | 25.00% | ~23 |
-| Little genius | 25.00% | ~23 |
 | Turn the last page | 24.00% | ~22 |
 | Pain in the hands | 22.00% | ~20 |
 | Kill it! KILL IT! | 20.00% | ~19 |

@@ -400,9 +400,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5248,
+  "EOS_Progressed": 5249,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -4730,6 +4730,11 @@
       "Time": "2024-01-04T22:06:15.4347946+00:00",
       "NumProgressed": 5248,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-04T23:04:53.2030078+00:00",
+      "NumProgressed": 5249,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -4789,7 +4794,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4408
+      "UsersEstimate": 4409
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -4797,7 +4802,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4933
+      "UsersEstimate": 4934
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -4805,7 +4810,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3988
+      "UsersEstimate": 3989
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -4813,7 +4818,7 @@
       "Name": "Hey Listen",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1889
+      "UsersEstimate": 1890
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -4957,7 +4962,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3988
+      "UsersEstimate": 3989
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -5005,7 +5010,7 @@
       "Name": "Most Wanted",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1364
+      "UsersEstimate": 1365
     },
     {
       "ID": "ID_ACHIEV_36",
@@ -5075,9 +5080,9 @@
       "ID": "ID_ACHIEV_44",
       "SetID": "98bke8c",
       "Name": "GOLIATH",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1102
+      "UsersEstimate": 1050
     },
     {
       "ID": "ID_ACHIEV_45",
@@ -5276,15 +5281,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5248,
+      "Progressed": 5249,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-31T19:58:10.5906343+00:00",
-  "LastChanged_Achievements": "2024-01-04T22:06:15.4347942+00:00",
+  "LastChanged_Achievements": "2024-01-04T23:04:53.2030073+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:44.5404504+00:00",
-  "LastUpdate_Ratings": "2024-01-04T22:01:08.2980484+00:00",
-  "LastUpdate_Achievements": "2024-01-04T22:06:15.4348658+00:00"
+  "LastUpdate_Ratings": "2024-01-04T22:59:31.1910367+00:00",
+  "LastUpdate_Achievements": "2024-01-04T23:04:53.2030926+00:00"
 }

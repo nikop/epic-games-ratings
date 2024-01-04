@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fried Friendship | 83.00% | ~81,146 |
-| Struck A Pose | 82.00% | ~80,168 |
-| Look At Him Go | 68.00% | ~66,481 |
-| On Rails Experience | 44.00% | ~43,017 |
-| A Daring Devil | 43.00% | ~42,039 |
-| Break the Bank | 33.00% | ~32,263 |
-| It Took Two | 30.00% | ~29,330 |
-| Bug Sized Relaxation | 14.00% | ~13,687 |
-| Plastic Prison Breakers | 13.00% | ~12,710 |
-| Terror Of The Seven Seas | 10.00% | ~9,777 |
-| Realize Your Art | 8.00% | ~7,821 |
-| Force Triangulated | 8.00% | ~7,821 |
-| Meditation Maestro | 8.00% | ~7,821 |
-| Snackosaurus | 6.00% | ~5,866 |
-| Platforming Prodigy | 6.00% | ~5,866 |
-| Lost And Found | 6.00% | ~5,866 |
-| Something Fishy | 6.00% | ~5,866 |
+| Fried Friendship | 83.00% | ~81,158 |
+| Struck A Pose | 82.00% | ~80,180 |
+| Look At Him Go | 68.00% | ~66,491 |
+| On Rails Experience | 44.00% | ~43,024 |
+| A Daring Devil | 43.00% | ~42,046 |
+| Break the Bank | 33.00% | ~32,268 |
+| It Took Two | 30.00% | ~29,334 |
+| Bug Sized Relaxation | 14.00% | ~13,689 |
+| Plastic Prison Breakers | 13.00% | ~12,712 |
+| Terror Of The Seven Seas | 10.00% | ~9,778 |
+| Realize Your Art | 8.00% | ~7,822 |
+| Force Triangulated | 8.00% | ~7,822 |
+| Meditation Maestro | 8.00% | ~7,822 |
+| Snackosaurus | 6.00% | ~5,867 |
+| Platforming Prodigy | 6.00% | ~5,867 |
+| Lost And Found | 6.00% | ~5,867 |
+| Something Fishy | 6.00% | ~5,867 |
 | Mood Swing | 4.00% | ~3,911 |
 | Faraway Frequencies | 3.00% | ~2,933 |
-| Minigame Megalomania | 2.00% | ~1,955 |
+| Minigame Megalomania | 2.00% | ~1,956 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97,766 (Ranked 100)  
+Progressed: 97,781 (Ranked 100)  
 Completed: 214 (0.22%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,4 +136,4 @@ Completed: 214 (0.22%) (Ranked 269)
 | 2024-01-01 | 92,751 | 196 |
 | 2024-01-02 | 94,529 | 200 |
 | 2024-01-03 | 96,183 | 207 |
-| 2024-01-04 | 97,766 | 214 |
+| 2024-01-04 | 97,781 | 214 |

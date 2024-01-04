@@ -980,9 +980,9 @@
       "ID": "Ach-02-dzin",
       "SetID": "2pjo9pi",
       "Name": "Dzin",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 96
+      "UsersEstimate": 98
     },
     {
       "ID": "Ach-02-hopik",
@@ -1276,9 +1276,9 @@
       "ID": "Ach-05-zelva",
       "SetID": "2pjo9pi",
       "Name": "Zelva",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "Ach-05-zloC",
@@ -1355,8 +1355,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2024-01-04T22:09:46.0461313+00:00",
+  "LastChanged_Achievements": "2024-01-04T23:09:04.2584718+00:00",
   "LastUpdate_AppInfo": "2024-01-03T20:57:13.3833834+00:00",
-  "LastUpdate_Ratings": "2024-01-04T21:58:35.2512035+00:00",
-  "LastUpdate_Achievements": "2024-01-04T22:09:46.046175+00:00"
+  "LastUpdate_Ratings": "2024-01-04T22:57:46.7771448+00:00",
+  "LastUpdate_Achievements": "2024-01-04T23:09:04.2585197+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 46,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewPlayers": 47,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9319,10 +9319,10 @@
       "Count": 3624
     }
   ],
-  "EOS_Progressed": 251098,
+  "EOS_Progressed": 251128,
   "EOS_Completed": 2592,
-  "EOS_NewPlayers": 4808,
-  "EOS_NewCompleters": 21,
+  "EOS_NewPlayers": 4823,
+  "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -38699,6 +38699,11 @@
       "Time": "2024-01-04T22:11:18.4882401+00:00",
       "NumProgressed": 251098,
       "NumCompleted": 2592
+    },
+    {
+      "Time": "2024-01-04T23:10:13.5992308+00:00",
+      "NumProgressed": 251128,
+      "NumCompleted": 2592
     }
   ],
   "TotalAchievements": 546,
@@ -38710,7 +38715,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7533
+      "UsersEstimate": 7534
     },
     {
       "ID": "objective_completed_10",
@@ -39686,7 +39691,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1004
+      "UsersEstimate": 1005
     },
     {
       "ID": "objective_completed_130",
@@ -40124,9 +40129,9 @@
       "ID": "objective_completed_230",
       "SetID": "cc37lbc",
       "Name": "The Dinner Party",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 251
+      "UsersEstimate": 502
     },
     {
       "ID": "objective_completed_231",
@@ -40382,7 +40387,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5022
+      "UsersEstimate": 5023
     },
     {
       "ID": "objective_completed_34",
@@ -40502,7 +40507,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1255
+      "UsersEstimate": 1256
     },
     {
       "ID": "objective_completed_390",
@@ -40846,7 +40851,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1255
+      "UsersEstimate": 1256
     },
     {
       "ID": "objective_completed_54",
@@ -41926,7 +41931,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1255
+      "UsersEstimate": 1256
     },
     {
       "ID": "objective_completed_80",
@@ -42454,7 +42459,7 @@
       "Name": "Pure Energy",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1004
+      "UsersEstimate": 1005
     },
     {
       "ID": "objective_completed_902",
@@ -42982,7 +42987,7 @@
       "Name": "Arcane Suppression",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "objective_completed_1352",
@@ -43006,7 +43011,7 @@
       "Name": "Misaligned in Sigil",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "objective_completed_1562",
@@ -43022,7 +43027,7 @@
       "Name": "Chaos Theory",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "objective_completed_598",
@@ -43038,7 +43043,7 @@
       "Name": "When Tentacles Attack",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "objective_completed_678",
@@ -43046,7 +43051,7 @@
       "Name": "Flames of Avernus",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "objective_completed_683",
@@ -43062,7 +43067,7 @@
       "Name": "Don\u0027t Lose Your Head",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "objective_completed_865",
@@ -43070,28 +43075,28 @@
       "Name": "Mind Spike",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 217372,
+      "Progressed": 217402,
       "Completed": 4133
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 251098,
+      "Progressed": 251128,
       "Completed": 2592
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-04T18:59:04.4083235+00:00",
-  "LastChanged_Achievements": "2024-01-04T22:11:18.4882397+00:00",
+  "LastChanged_Achievements": "2024-01-04T23:10:13.5992304+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-04T22:00:28.9846655+00:00",
-  "LastUpdate_Achievements": "2024-01-04T22:11:18.4907467+00:00"
+  "LastUpdate_Ratings": "2024-01-04T22:59:04.7373003+00:00",
+  "LastUpdate_Achievements": "2024-01-04T23:10:13.6016975+00:00"
 }

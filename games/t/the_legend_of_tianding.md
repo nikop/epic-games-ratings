@@ -22,7 +22,7 @@
 | Big Eater | 25.00% | ~17 |
 | Not Today | 25.00% | ~17 |
 | Coward | 25.00% | ~17 |
-| Tour Guide | 22.00% | ~15 |
+| Tour Guide | 24.00% | ~16 |
 | Tomb Raider | 22.00% | ~15 |
 | The Real O.G. | 21.00% | ~14 |
 | The Hero of the People | 16.00% | ~11 |

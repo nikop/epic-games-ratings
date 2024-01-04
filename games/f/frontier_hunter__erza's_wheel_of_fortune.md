@@ -5,23 +5,23 @@ Rating: 4.38 (Ranked 786)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 93.00% | ~657 |
-| Training Simulation | 79.00% | ~558 |
-| Kuku Bird Hunter | 65.00% | ~459 |
+| Travel Streamer | 93.00% | ~658 |
+| Training Simulation | 79.00% | ~559 |
+| Kuku Bird Hunter | 65.00% | ~460 |
 | Storm Traveller | 60.00% | ~424 |
-| Wolf King Killer | 54.00% | ~381 |
-| Fashion Connoisseur | 52.00% | ~367 |
+| Wolf King Killer | 54.00% | ~382 |
+| Fashion Connoisseur | 52.00% | ~368 |
 | Arms Mechanic | 48.00% | ~339 |
 | Flower Thief | 43.00% | ~304 |
-| Apostle of Flame | 39.00% | ~275 |
-| Beginner Cook | 38.00% | ~268 |
-| Beginner Artificer | 37.00% | ~261 |
+| Apostle of Flame | 39.00% | ~276 |
+| Beginner Cook | 37.00% | ~262 |
+| Beginner Artificer | 37.00% | ~262 |
 | Seal Breaker | 32.00% | ~226 |
 | Handyman | 28.00% | ~198 |
 | Giant Lizard Killer | 26.00% | ~184 |
-| Guardian | 25.00% | ~176 |
-| Nosebleeder | 25.00% | ~176 |
-| Trader | 22.00% | ~155 |
+| Guardian | 25.00% | ~177 |
+| Nosebleeder | 25.00% | ~177 |
+| Trader | 22.00% | ~156 |
 | Weapon Boost | 21.00% | ~148 |
 | Flying Kobold Killer | 19.00% | ~134 |
 | Youth Magnet | 18.00% | ~127 |
@@ -37,7 +37,7 @@ Rating: 4.38 (Ranked 786)
 | Berserker Slayer | 11.00% | ~78 |
 | Giantess Slayer | 10.00% | ~71 |
 | Warden Slayer | 10.00% | ~71 |
-| Master Cook | 8.00% | ~56 |
+| Master Cook | 8.00% | ~57 |
 | Silver Moon Wolf King Challenge | 4.00% | ~28 |
 | Blade Mantis Challenge | 3.00% | ~21 |
 | Flying Kobold Challenge | 3.00% | ~21 |
@@ -51,7 +51,7 @@ Rating: 4.38 (Ranked 786)
 | Giantess Challenge | 2.00% | ~14 |
 | Warden Challenge | 2.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 706 (Ranked 317)  
+Progressed: 707 (Ranked 317)  
 Completed: 3 (0.42%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 3 (0.42%) (Ranked 232)
 | 2024-01-01 | 682 | 3 |
 | 2024-01-02 | 687 | 3 |
 | 2024-01-03 | 693 | 3 |
-| 2024-01-04 | 706 | 3 |
+| 2024-01-04 | 707 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

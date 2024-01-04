@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
@@ -3874,9 +3874,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242353,
+  "EOS_Progressed": 242358,
   "EOS_Completed": 304,
-  "EOS_NewPlayers": 435,
+  "EOS_NewPlayers": 439,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -30714,6 +30714,11 @@
       "Time": "2024-01-04T22:11:16.1924831+00:00",
       "NumProgressed": 242353,
       "NumCompleted": 304
+    },
+    {
+      "Time": "2024-01-04T23:10:10.8557811+00:00",
+      "NumProgressed": 242358,
+      "NumCompleted": 304
     }
   ],
   "TotalAchievements": 138,
@@ -30917,7 +30922,7 @@
       "Name": "Dig Your Own Grave",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1696
+      "UsersEstimate": 1697
     },
     {
       "ID": "DONTATTACKRATSDEPTH10",
@@ -30941,7 +30946,7 @@
       "Name": "Who To Trust?",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1696
+      "UsersEstimate": 1697
     },
     {
       "ID": "ENDWOUNDED",
@@ -30957,7 +30962,7 @@
       "Name": "Walk It Off",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1696
+      "UsersEstimate": 1697
     },
     {
       "ID": "FIREBEAD20EXPLOSIONS",
@@ -30989,7 +30994,7 @@
       "Name": "Cold Hearted",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1696
+      "UsersEstimate": 1697
     },
     {
       "ID": "FULLINVENTORY",
@@ -30997,7 +31002,7 @@
       "Name": "I Am Overburdened",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1696
+      "UsersEstimate": 1697
     },
     {
       "ID": "FULLYPRESTIGESPOON",
@@ -31261,7 +31266,7 @@
       "Name": "Shootout",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1696
+      "UsersEstimate": 1697
     },
     {
       "ID": "KILLSTONESHIFTERHARD",
@@ -31381,7 +31386,7 @@
       "Name": "Stone Touch",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1696
+      "UsersEstimate": 1697
     },
     {
       "ID": "PLAY10HOURS",
@@ -31405,7 +31410,7 @@
       "Name": "Toxic",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1696
+      "UsersEstimate": 1697
     },
     {
       "ID": "POISONEDTWICEIN1TURN",
@@ -31501,7 +31506,7 @@
       "Name": "Shadow Walker",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1696
+      "UsersEstimate": 1697
     },
     {
       "ID": "SURVIVEON1",
@@ -31509,7 +31514,7 @@
       "Name": "Flesh Wound",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1696
+      "UsersEstimate": 1697
     },
     {
       "ID": "TELEPORTKNOCKBACKEXPLOSIVE50",
@@ -31781,7 +31786,7 @@
       "Name": "Not Touching You",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "KILLBOSSWITHNOITEMS",
@@ -31789,7 +31794,7 @@
       "Name": "Raw Power",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "KILLCREATUREWITHSAMESTATS",
@@ -31828,13 +31833,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242353,
+      "Progressed": 242358,
       "Completed": 304
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3833,
+      "Progressed": 3838,
       "Completed": 421
     }
   ],
@@ -31842,8 +31847,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-04T22:00:17.6708288+00:00",
-  "LastChanged_Achievements": "2024-01-04T22:11:16.1924824+00:00",
+  "LastChanged_Achievements": "2024-01-04T23:10:10.8557808+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:01.848225+00:00",
-  "LastUpdate_Ratings": "2024-01-04T22:00:17.6708293+00:00",
-  "LastUpdate_Achievements": "2024-01-04T22:11:16.1927491+00:00"
+  "LastUpdate_Ratings": "2024-01-04T22:58:58.3353992+00:00",
+  "LastUpdate_Achievements": "2024-01-04T23:10:10.8560507+00:00"
 }

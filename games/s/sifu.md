@@ -36,10 +36,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Tiger on Fire | 0.60% | ~4,523 |
 | Detective Story | 0.60% | ~4,523 |
 | Martial Hub | 0.60% | ~379 |
-| Source of Flying Daggers | 0.50% | ~3,769 |
-| Iron Money | 0.50% | ~3,769 |
-| Legendary Talismans of Wuxing | 0.50% | ~3,769 |
-| Sword Stained With Blood | 0.50% | ~3,769 |
+| Source of Flying Daggers | 0.50% | ~3,770 |
+| Iron Money | 0.50% | ~3,770 |
+| Legendary Talismans of Wuxing | 0.50% | ~3,770 |
+| Sword Stained With Blood | 0.50% | ~3,770 |
 | Bloody Sport | 0.50% | ~316 |
 | Prodigal Child | 0.40% | ~3,016 |
 | The 36th Chamber of Kung-Fu | 0.40% | ~3,016 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~63 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~63 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 753,894 (Ranked 25)  
+Progressed: 753,906 (Ranked 25)  
 Completed: 12,974 (1.72%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,10 +326,10 @@ Completed: 12,974 (1.72%) (Ranked 141)
 | 2024-01-01 | 751,425 | 12,971 |
 | 2024-01-02 | 752,188 | 12,971 |
 | 2024-01-03 | 753,003 | 12,973 |
-| 2024-01-04 | 753,894 | 12,974 |
+| 2024-01-04 | 753,906 | 12,974 |
 ## Awards
-Max (Great Boss Battles): 7,102  (Ranked 55)  
-Sum: 12,005 (Ranked 87)  
+Max (Great Boss Battles): 7,102  (Ranked 56)  
+Sum: 12,005 (Ranked 88)  
 Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |

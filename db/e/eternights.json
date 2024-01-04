@@ -41,7 +41,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 767,
+  "EOS_Progressed": 768,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
@@ -2856,6 +2856,11 @@
       "Time": "2024-01-04T20:10:00.1084703+00:00",
       "NumProgressed": 767,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-04T23:09:06.8685885+00:00",
+      "NumProgressed": 768,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -2900,7 +2905,7 @@
       "Name": "Yuna\u0027s Promise",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "ACHIEVEMENT_15_PromiseMin",
@@ -2924,15 +2929,15 @@
       "Name": "Sia\u0027s Promise",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACHIEVEMENT_18_FindMyself",
       "SetID": "9bke6f1",
       "Name": "Find myself",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 192
+      "UsersEstimate": 184
     },
     {
       "ID": "ACHIEVEMENT_19_Romantic",
@@ -2940,7 +2945,7 @@
       "Name": "Romantic",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ACHIEVEMENT_1_ShelterEscape",
@@ -2948,7 +2953,7 @@
       "Name": "Shelter Escape",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -2980,7 +2985,7 @@
       "Name": "Truebro",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACHIEVEMENT_24_TentacleMan",
@@ -3028,7 +3033,7 @@
       "Name": "First wall",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
@@ -3052,7 +3057,7 @@
       "Name": "Stone Retriever",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "ACHIEVEMENT_9_Flawless",
@@ -3067,7 +3072,7 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 767,
+      "Progressed": 768,
       "Completed": 2
     }
   ],
@@ -3075,8 +3080,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2023-12-31T15:57:10.2736309+00:00",
-  "LastChanged_Achievements": "2024-01-04T22:09:49.3660014+00:00",
+  "LastChanged_Achievements": "2024-01-04T23:09:06.868588+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.2091482+00:00",
-  "LastUpdate_Ratings": "2024-01-04T22:00:47.6111028+00:00",
-  "LastUpdate_Achievements": "2024-01-04T22:09:49.3660427+00:00"
+  "LastUpdate_Ratings": "2024-01-04T22:59:16.5831955+00:00",
+  "LastUpdate_Achievements": "2024-01-04T23:09:06.8686141+00:00"
 }

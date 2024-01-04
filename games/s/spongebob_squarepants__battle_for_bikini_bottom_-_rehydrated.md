@@ -7,12 +7,12 @@ Number of Ratings: 76  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Sponge Smasher | 21.00% | ~150 |
-| Spatula Seeker | 19.00% | ~135 |
-| Jellyfish Jam | 18.00% | ~128 |
+| Spatula Seeker | 19.00% | ~136 |
+| Jellyfish Jam | 18.00% | ~129 |
 | Jellyfishing | 14.00% | ~100 |
 | Time For Tutorial | 12.00% | ~86 |
-| Sock Getter | 11.00% | ~78 |
-| Sweet Victory | 10.00% | ~71 |
+| Sock Getter | 11.00% | ~79 |
+| Sweet Victory | 10.00% | ~72 |
 | Uptown and Downtown | 9.00% | ~64 |
 | Super Spatula Seeker | 9.00% | ~64 |
 | Star Smasher | 9.00% | ~64 |
@@ -33,13 +33,13 @@ Number of Ratings: 76  (23.09.2022)
 | Kelp Forest of Fear | 4.00% | ~29 |
 | SpongeBob vs SpongeBob! | 4.00% | ~29 |
 | Sleepy Time | 4.00% | ~29 |
-| Sock Concert | 4.00% | ~29 |
+| Sock Concert | 3.00% | ~21 |
 | Mega Spatula Seeker | 3.00% | ~21 |
 | 100% SpongeBob | 1.00% | ~7 |
 | Sock Opera | 1.00% | ~7 |
 | Super Ultra Mega Spatula Seeker | 1.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713 (Ranked 315)  
+Progressed: 715 (Ranked 315)  
 Completed: 7 (0.98%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,7 +61,7 @@ Completed: 7 (0.98%) (Ranked 172)
 | 2024-01-01 | 626 | 5 |
 | 2024-01-02 | 662 | 6 |
 | 2024-01-03 | 684 | 7 |
-| 2024-01-04 | 713 | 7 |
+| 2024-01-04 | 715 | 7 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 493)  
 Sum: 36 (Ranked 525)  

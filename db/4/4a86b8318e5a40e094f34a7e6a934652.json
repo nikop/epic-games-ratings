@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 478,
+  "EOS_Progressed": 479,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
@@ -2019,6 +2019,11 @@
       "Time": "2024-01-04T22:06:32.069947+00:00",
       "NumProgressed": 478,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-04T23:05:05.4156288+00:00",
+      "NumProgressed": 479,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -2031,7 +2036,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 90,
       "XP": 50,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -2047,7 +2052,7 @@
       "Name": "Retro Diva",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "BRING_PROSPERO",
@@ -2055,7 +2060,7 @@
       "Name": "Amusement Park",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
@@ -2071,7 +2076,7 @@
       "Name": "Fisherman",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -2087,15 +2092,15 @@
       "Name": "Off on an Expedition!",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "GROW_20_PLANTS",
       "SetID": "aniflfk",
       "Name": "Farmer",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 210
+      "UsersEstimate": 216
     },
     {
       "ID": "HOUSEWARMING",
@@ -2109,9 +2114,9 @@
       "ID": "LUNCH_LEECH",
       "SetID": "aniflfk",
       "Name": "Leech Lunch",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 206
+      "UsersEstimate": 211
     },
     {
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
@@ -2143,7 +2148,7 @@
       "Name": "Weed Warrior",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -2167,7 +2172,7 @@
       "Name": "Crypto Bro",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "TAKE_LEECH",
@@ -2175,7 +2180,7 @@
       "Name": "Uppies!",
       "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -2183,21 +2188,21 @@
       "Name": "Strong Signal",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     }
   ],
   "AchievementSets": [
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 478,
+      "Progressed": 479,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2024-01-04T22:06:32.0699465+00:00",
+  "LastChanged_Achievements": "2024-01-04T23:05:05.4156284+00:00",
   "LastUpdate_AppInfo": "2024-01-03T22:57:16.910321+00:00",
-  "LastUpdate_Ratings": "2024-01-04T22:02:50.0821713+00:00",
-  "LastUpdate_Achievements": "2024-01-04T22:06:32.0699685+00:00"
+  "LastUpdate_Ratings": "2024-01-04T23:02:44.4569761+00:00",
+  "LastUpdate_Achievements": "2024-01-04T23:05:05.4156495+00:00"
 }

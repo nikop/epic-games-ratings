@@ -409,9 +409,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1610,
+  "EOS_Progressed": 1611,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4174,6 +4174,11 @@
       "Time": "2024-01-04T21:10:47.7379195+00:00",
       "NumProgressed": 1610,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-04T23:09:59.2658499+00:00",
+      "NumProgressed": 1611,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4241,7 +4246,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1594
+      "UsersEstimate": 1595
     },
     {
       "ID": "EXPERT_1",
@@ -4337,7 +4342,7 @@
       "Name": "One HIT wonder",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -4417,7 +4422,7 @@
       "Name": "Secret room",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "SHOG",
@@ -4441,7 +4446,7 @@
       "Name": "Traveler",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "VVE",
@@ -4457,7 +4462,7 @@
       "Name": "Wanderer",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "WISHMASTER_1",
@@ -4472,15 +4477,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1610,
+      "Progressed": 1611,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-12-27T01:41:52.1948259+00:00",
-  "LastChanged_Achievements": "2024-01-04T22:11:01.7546755+00:00",
+  "LastChanged_Achievements": "2024-01-04T23:09:59.2658497+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.8702318+00:00",
-  "LastUpdate_Ratings": "2024-01-04T21:58:05.2220881+00:00",
-  "LastUpdate_Achievements": "2024-01-04T22:11:01.7547232+00:00"
+  "LastUpdate_Ratings": "2024-01-04T22:57:27.4300336+00:00",
+  "LastUpdate_Achievements": "2024-01-04T23:09:59.2658847+00:00"
 }

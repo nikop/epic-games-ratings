@@ -5,22 +5,22 @@ Rating: 4.55 (Ranked 523)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tell me your story | 75.00% | ~621 |
+| Tell me your story | 75.00% | ~622 |
 | Don't judge a manhole by its cover | 60.00% | ~497 |
-| I just love stuff! | 42.00% | ~348 |
-| Keep 'em coming! | 41.00% | ~339 |
+| I just love stuff! | 41.00% | ~340 |
+| Keep 'em coming! | 41.00% | ~340 |
 | The things they print nowadays | 39.00% | ~323 |
 | Big Spender | 38.00% | ~315 |
-| That's gotta hurt | 36.00% | ~298 |
-| I think it's broke | 26.00% | ~215 |
-| The Ann Flores Combo Experience | 26.00% | ~215 |
+| That's gotta hurt | 35.00% | ~290 |
+| I think it's broke | 26.00% | ~216 |
+| The Ann Flores Combo Experience | 26.00% | ~216 |
 | Club Star | 24.00% | ~199 |
 | Fire in the hole! | 20.00% | ~166 |
 | Omnipotence | 20.00% | ~166 |
 | The Warlord | 20.00% | ~166 |
-| You are the One | 19.00% | ~157 |
+| You are the One | 19.00% | ~158 |
 | Deadly Kombationem | 18.00% | ~149 |
-| The truth is out there | 16.00% | ~132 |
+| The truth is out there | 16.00% | ~133 |
 | Annakin Skyscroller | 13.00% | ~108 |
 | In the smacker...I think | 10.00% | ~83 |
 | Arm Wrestlin' | 9.00% | ~75 |
@@ -42,7 +42,7 @@ Rating: 4.55 (Ranked 523)
 | Love me like I love my posters | 1.00% | ~8 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 828 (Ranked 303)  
+Progressed: 829 (Ranked 303)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-01 | 818 | 0 |
 | 2024-01-02 | 821 | 0 |
 | 2024-01-03 | 826 | 0 |
-| 2024-01-04 | 828 | 0 |
+| 2024-01-04 | 829 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 758,
+  "EOS_Progressed": 759,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 178,
+  "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2484,6 +2484,11 @@
       "Time": "2024-01-04T22:09:07.7716366+00:00",
       "NumProgressed": 758,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-04T23:08:36.6743307+00:00",
+      "NumProgressed": 759,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -2512,7 +2517,7 @@
       "Name": "Chapter III - Complete",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ach_complete_difficulty_easy",
@@ -2520,7 +2525,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ach_complete_difficulty_extreme",
@@ -2560,7 +2565,7 @@
       "Name": "Defeat a Lord of Change",
       "Percentage": 23,
       "XP": 45,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ach_find_all_secrets_c1",
@@ -2591,14 +2596,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 758,
+      "Progressed": 759,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2024-01-04T22:09:07.7716361+00:00",
+  "LastChanged_Achievements": "2024-01-04T23:08:36.6743304+00:00",
   "LastUpdate_AppInfo": "2023-12-29T15:57:01.9014557+00:00",
-  "LastUpdate_Ratings": "2024-01-04T21:57:55.2109656+00:00",
-  "LastUpdate_Achievements": "2024-01-04T22:09:07.7716583+00:00"
+  "LastUpdate_Ratings": "2024-01-04T22:57:20.7294726+00:00",
+  "LastUpdate_Achievements": "2024-01-04T23:08:36.6743487+00:00"
 }
