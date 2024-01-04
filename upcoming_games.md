@@ -1,7 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Backrooms: Eight Levels](games/8/8ebe0bf06dea45859084c258c74e8bfd.md) | 2024-01-04 | - |  | - | - |
-| [Eyes Of Memes](games/b/ba74867ed69a4bb6abd9f81fea647af6.md) | 2024-01-04 | - |  | - | - |
 | [RagDoll Wreckage: Zombie Farts](games/e/e1ca70ca1c594d0588f17b61f0391c1d.md) | 2024-01-05 | - |  | - | - |
 | [Potato Sack Racing Simulator 2024](games/2/2ea4230c2a664c27a7e3d1c94a487241.md) | 2024-01-05 | 17 (1,000 XP) | 1 | - | - |
 | [Tools Up! Ultimate Edition](games/6/664885023b1443f799f03a9b94937fda.md) | 2024-01-05 | - |  | - | - |
@@ -109,7 +107,7 @@
 | [Forgotten Runiverse](games/2/28102c9b12f0424cb937170f7f6286b9.md) | 2024-06-30 | - |  | - | - |
 | [I Love Finding Cats](games/2/22d7d08b02de4ce79b0316ced5064741.md) | 2024-06-30 | - |  | - | - |
 | [Little Wu Chang](games/2/2949830a102e4b6aad990f6ae31e758f.md) | 2024-06-30 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 398,257 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 398,258 | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-06-30 | - |  | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
