@@ -828,9 +828,9 @@
       "ID": "RECOVERING",
       "SetID": "40o4f14",
       "Name": "Growing the economy",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "SAVIOR",
@@ -852,9 +852,9 @@
       "ID": "SNEAKY",
       "SetID": "40o4f14",
       "Name": "Sneaky",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 51
     },
     {
       "ID": "SOUL",
@@ -899,8 +899,8 @@
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2024-01-04T12:06:20.1660294+00:00",
+  "LastChanged_Achievements": "2024-01-04T13:10:32.4265079+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:17.400694+00:00",
-  "LastUpdate_Ratings": "2024-01-04T12:00:30.062031+00:00",
-  "LastUpdate_Achievements": "2024-01-04T12:06:20.1660596+00:00"
+  "LastUpdate_Ratings": "2024-01-04T13:06:25.4784661+00:00",
+  "LastUpdate_Achievements": "2024-01-04T13:10:32.42653+00:00"
 }

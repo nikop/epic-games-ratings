@@ -269,9 +269,9 @@
       "Count": 93
     }
   ],
-  "EOS_Progressed": 9961,
+  "EOS_Progressed": 9970,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1713,
+  "EOS_NewPlayers": 1709,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3614,6 +3614,11 @@
       "Time": "2024-01-04T12:09:40.6271251+00:00",
       "NumProgressed": 9961,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-04T13:13:34.8641517+00:00",
+      "NumProgressed": 9970,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3626,7 +3631,7 @@
       "Name": "Conspiracy",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1195
+      "UsersEstimate": 1196
     },
     {
       "ID": "03_TheStolenStar",
@@ -3634,7 +3639,7 @@
       "Name": "Stolen Star",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -3642,7 +3647,7 @@
       "Name": "Trade Empire",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "05_TheComorraghSurvivors",
@@ -3722,7 +3727,7 @@
       "Name": "Fear Not Obliteration",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "15_Pentakill",
@@ -3738,7 +3743,7 @@
       "Name": "The Rise",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "17_TheExemplar",
@@ -3754,7 +3759,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "19_TheVoidWolf",
@@ -3794,7 +3799,7 @@
       "Name": "The Dynasty Restored",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "24_TheHighrise",
@@ -3864,9 +3869,9 @@
       "ID": "32_AviationSaviour",
       "SetID": "37a94m8",
       "Name": "Aviation Saviour",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 70
     },
     {
       "ID": "33_TzeentchCleaning",
@@ -3946,7 +3951,7 @@
       "Name": "Iron Judgement",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -3954,7 +3959,7 @@
       "Name": "No Place Like Home",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -3978,7 +3983,7 @@
       "Name": "A Spark",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "47_AFlame",
@@ -4145,7 +4150,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 9961,
+      "Progressed": 9970,
       "Completed": 1
     }
   ],
@@ -4153,8 +4158,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-04T01:47:10.0035057+00:00",
-  "LastChanged_Achievements": "2024-01-04T12:09:40.6271245+00:00",
+  "LastChanged_Achievements": "2024-01-04T13:13:34.8641514+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:17.7362494+00:00",
-  "LastUpdate_Ratings": "2024-01-04T12:02:44.5424797+00:00",
-  "LastUpdate_Achievements": "2024-01-04T12:09:40.6271981+00:00"
+  "LastUpdate_Ratings": "2024-01-04T13:06:28.7567932+00:00",
+  "LastUpdate_Achievements": "2024-01-04T13:13:34.8642185+00:00"
 }

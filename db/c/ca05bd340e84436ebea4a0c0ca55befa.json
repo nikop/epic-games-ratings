@@ -3,11 +3,11 @@
   "Name": "Golden Light",
   "ProductSlug": "golden-light-f543b3",
   "Ranking_Rating": 862,
-  "Ranking_Popularity": 577,
-  "Ranking_PopularitySum": 577,
+  "Ranking_Popularity": 578,
+  "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 567,
+  "Ranking_EOS_NewPlayers": 566,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-14T16:00:00+00:00",
@@ -1467,8 +1467,8 @@
   "FirstSeenRating": "2023-11-17T10:00:31.8324772+00:00",
   "FirstSeenAchievements": "2023-10-12T12:03:32.4502016+00:00",
   "LastChanged": "2024-01-04T04:59:03.0830703+00:00",
-  "LastChanged_Achievements": "2024-01-04T12:05:40.1210978+00:00",
+  "LastChanged_Achievements": "2024-01-04T13:09:47.9065038+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:08.0757054+00:00",
-  "LastUpdate_Ratings": "2024-01-04T11:58:57.3533857+00:00",
-  "LastUpdate_Achievements": "2024-01-04T12:05:40.12117+00:00"
+  "LastUpdate_Ratings": "2024-01-04T13:02:51.0612719+00:00",
+  "LastUpdate_Achievements": "2024-01-04T13:09:47.9065566+00:00"
 }

@@ -1,28 +1,28 @@
 # Outward Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/outward)  
 [View Rawdata](../../db/o/outward.json)  
-Rating: 4.54 (Ranked 543)  
+Rating: 4.54 (Ranked 544)  
 Number of Ratings: 266  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 73.00% | ~3,256 |
-| Ready for Winter | 61.00% | ~2,721 |
-| Ready for Summer | 49.00% | ~2,185 |
-| Cordon Bleu | 41.00% | ~1,829 |
-| Tapped! | 35.00% | ~1,561 |
-| Eureka | 30.00% | ~1,338 |
-| Scourge Slayer | 24.00% | ~1,070 |
-| Science, Troglodyte! | 22.00% | ~981 |
+| Venture Outward | 73.00% | ~3,258 |
+| Ready for Winter | 61.00% | ~2,722 |
+| Ready for Summer | 49.00% | ~2,187 |
+| Cordon Bleu | 41.00% | ~1,830 |
+| Tapped! | 35.00% | ~1,562 |
+| Eureka | 30.00% | ~1,339 |
+| Scourge Slayer | 24.00% | ~1,071 |
+| Science, Troglodyte! | 22.00% | ~982 |
 | Exceptional Skill | 21.00% | ~937 |
-| Home Sweet Home | 20.00% | ~892 |
+| Home Sweet Home | 20.00% | ~893 |
 | Encyclopedic! | 18.00% | ~803 |
 | A Fortress Toppled! | 15.00% | ~669 |
 | The Power of Family | 15.00% | ~669 |
-| Apex Predator | 14.00% | ~624 |
-| The Power of Faith | 12.00% | ~535 |
+| Apex Predator | 14.00% | ~625 |
+| The Power of Faith | 12.00% | ~536 |
 | Strange amalgams | 11.00% | ~491 |
-| The Power of Freedom | 9.00% | ~401 |
+| The Power of Freedom | 9.00% | ~402 |
 | Ace Detective | 7.00% | ~312 |
 | Gift from the Ancestors | 7.00% | ~312 |
 | House of Cards | 7.00% | ~312 |
@@ -32,9 +32,9 @@ Number of Ratings: 266  (23.09.2022)
 | The power of ambition | 6.00% | ~268 |
 | The stuff of legends. | 6.00% | ~268 |
 | Blood and justice | 5.00% | ~223 |
-| Ancestor's Pride | 4.00% | ~178 |
-| For All Aurai | 4.00% | ~178 |
-| Memory of a legend | 4.00% | ~178 |
+| Ancestor's Pride | 4.00% | ~179 |
+| For All Aurai | 4.00% | ~179 |
+| Memory of a legend | 4.00% | ~179 |
 | Light of Levant | 3.00% | ~134 |
 | This was a mistake... | 3.00% | ~134 |
 | Crowd Pleaser. | 2.00% | ~89 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~13 |
 | The Absolute Pinnacle. | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,460 (Ranked 205)  
+Progressed: 4,463 (Ranked 205)  
 Completed: 5 (0.11%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 5 (0.11%) (Ranked 303)
 | 2024-01-01 | 4,404 | 5 |
 | 2024-01-02 | 4,428 | 5 |
 | 2024-01-03 | 4,452 | 5 |
-| 2024-01-04 | 4,460 | 5 |
+| 2024-01-04 | 4,463 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 498)  
 Sum: 246 (Ranked 400)  

@@ -409,9 +409,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1599,
+  "EOS_Progressed": 1601,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4139,6 +4139,11 @@
       "Time": "2024-01-04T12:09:44.3363887+00:00",
       "NumProgressed": 1599,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-04T13:13:39.1969298+00:00",
+      "NumProgressed": 1601,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4206,7 +4211,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1583
+      "UsersEstimate": 1585
     },
     {
       "ID": "EXPERT_1",
@@ -4340,9 +4345,9 @@
       "ID": "PROTECTION_RACKET",
       "SetID": "bf13m8j",
       "Name": "Protection racket",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 64
     },
     {
       "ID": "RELICTS",
@@ -4437,15 +4442,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1599,
+      "Progressed": 1601,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-12-27T01:41:52.1948259+00:00",
-  "LastChanged_Achievements": "2024-01-04T12:09:44.3363883+00:00",
+  "LastChanged_Achievements": "2024-01-04T13:13:39.1969296+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.8702318+00:00",
-  "LastUpdate_Ratings": "2024-01-04T11:57:26.6657779+00:00",
-  "LastUpdate_Achievements": "2024-01-04T12:09:44.3364653+00:00"
+  "LastUpdate_Ratings": "2024-01-04T13:01:08.0435128+00:00",
+  "LastUpdate_Achievements": "2024-01-04T13:13:39.1969762+00:00"
 }

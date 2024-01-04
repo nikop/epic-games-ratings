@@ -3,8 +3,8 @@
   "Name": "Adios",
   "ProductSlug": "adios-b378b4",
   "Ranking_Rating": 1089,
-  "Ranking_Popularity": 577,
-  "Ranking_PopularitySum": 577,
+  "Ranking_Popularity": 578,
+  "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 165,
   "Ranking_EOS_NewPlayers": 133,
@@ -141,9 +141,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 82640,
+  "EOS_Progressed": 82642,
   "EOS_Completed": 914,
-  "EOS_NewPlayers": 743,
+  "EOS_NewPlayers": 742,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.11,
   "EosHistory": [
@@ -29031,6 +29031,11 @@
       "Time": "2024-01-04T12:04:42.8862508+00:00",
       "NumProgressed": 82640,
       "NumCompleted": 914
+    },
+    {
+      "Time": "2024-01-04T13:08:43.8026+00:00",
+      "NumProgressed": 82642,
+      "NumCompleted": 914
     }
   ],
   "TotalAchievements": 25,
@@ -29082,7 +29087,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 14875
+      "UsersEstimate": 14876
     },
     {
       "ID": "Butcher",
@@ -29098,7 +29103,7 @@
       "Name": "Cut Call",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 4958
+      "UsersEstimate": 4959
     },
     {
       "ID": "Fair\u0027sFair",
@@ -29146,7 +29151,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 17354
+      "UsersEstimate": 17355
     },
     {
       "ID": "Meaty",
@@ -29170,7 +29175,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 13222
+      "UsersEstimate": 13223
     },
     {
       "ID": "Nothing Left to Say",
@@ -29186,7 +29191,7 @@
       "Name": "Piano Man",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 9090
+      "UsersEstimate": 9091
     },
     {
       "ID": "Right On Target",
@@ -29241,7 +29246,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 82640,
+      "Progressed": 82642,
       "Completed": 914
     }
   ],
@@ -29249,8 +29254,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-04T04:02:50.3920545+00:00",
-  "LastChanged_Achievements": "2024-01-04T12:04:42.8862503+00:00",
+  "LastChanged_Achievements": "2024-01-04T13:08:43.8025997+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:29.0198367+00:00",
-  "LastUpdate_Ratings": "2024-01-04T12:02:54.9789862+00:00",
-  "LastUpdate_Achievements": "2024-01-04T12:04:42.886459+00:00"
+  "LastUpdate_Ratings": "2024-01-04T13:06:42.6612627+00:00",
+  "LastUpdate_Achievements": "2024-01-04T13:08:43.8027608+00:00"
 }

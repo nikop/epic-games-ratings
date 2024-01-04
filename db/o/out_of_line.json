@@ -3,11 +3,11 @@
   "Name": "Out of Line",
   "ProductSlug": "out-of-line-209cbb",
   "Ranking_Rating": 935,
-  "Ranking_Popularity": 577,
-  "Ranking_PopularitySum": 577,
+  "Ranking_Popularity": 578,
+  "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 567,
+  "Ranking_EOS_NewPlayers": 566,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-06-23T07:00:00+00:00",
@@ -287,6 +287,6 @@
   "FirstSeenRating": "2023-03-31T05:58:27.4516384+00:00",
   "LastChanged": "2024-01-02T23:57:54.3925319+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:56:57.6468242+00:00",
-  "LastUpdate_Ratings": "2024-01-04T11:58:15.9394783+00:00",
-  "LastUpdate_Achievements": "2024-01-04T12:04:55.1476095+00:00"
+  "LastUpdate_Ratings": "2024-01-04T13:02:04.0001224+00:00",
+  "LastUpdate_Achievements": "2024-01-04T13:08:57.3682308+00:00"
 }

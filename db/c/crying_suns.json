@@ -709,9 +709,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 473333,
+  "EOS_Progressed": 473334,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 399,
+  "EOS_NewPlayers": 394,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27474,6 +27474,11 @@
       "Time": "2024-01-04T11:11:32.7118404+00:00",
       "NumProgressed": 473333,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-04T13:13:48.7705473+00:00",
+      "NumProgressed": 473334,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 79,
@@ -27605,7 +27610,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 118333
+      "UsersEstimate": 118334
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -27669,7 +27674,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160933
+      "UsersEstimate": 160934
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -28116,21 +28121,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 17267,
+      "Progressed": 17268,
       "Completed": 2362
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 473333,
+      "Progressed": 473334,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2024-01-03T17:03:08.8869206+00:00",
-  "LastChanged_Achievements": "2024-01-04T12:09:54.0146455+00:00",
+  "LastChanged_Achievements": "2024-01-04T13:13:48.770547+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:35.1454991+00:00",
-  "LastUpdate_Ratings": "2024-01-04T11:57:23.5848021+00:00",
-  "LastUpdate_Achievements": "2024-01-04T12:09:54.0148331+00:00"
+  "LastUpdate_Ratings": "2024-01-04T13:01:05.2956537+00:00",
+  "LastUpdate_Achievements": "2024-01-04T13:13:48.7707384+00:00"
 }

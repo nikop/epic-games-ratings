@@ -3,11 +3,11 @@
   "Name": "Scrapnaut",
   "ProductSlug": "scrapnaut",
   "Ranking_Rating": 875,
-  "Ranking_Popularity": 577,
-  "Ranking_PopularitySum": 577,
+  "Ranking_Popularity": 578,
+  "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -156,9 +156,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 611,
+  "EOS_Progressed": 612,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -2101,6 +2101,11 @@
       "Time": "2024-01-04T01:55:53.7783964+00:00",
       "NumProgressed": 611,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-04T13:12:57.6909233+00:00",
+      "NumProgressed": 612,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 31,
@@ -2112,7 +2117,7 @@
       "Name": "Digger",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ACH_ALL_TELEPORTS",
@@ -2160,7 +2165,7 @@
       "Name": "Mushroom Picker",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "ACH_COLLECT_20_RED_BOOKS",
@@ -2192,7 +2197,7 @@
       "Name": "Electro-Scrap Gatherer",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ACH_COLLECT_50_SCRAP",
@@ -2359,7 +2364,7 @@
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 611,
+      "Progressed": 612,
       "Completed": 4
     }
   ],
@@ -2367,8 +2372,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2024-01-04T12:09:07.3764017+00:00",
+  "LastChanged_Achievements": "2024-01-04T13:12:57.690923+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:09.8569887+00:00",
-  "LastUpdate_Ratings": "2024-01-04T11:58:31.6911809+00:00",
-  "LastUpdate_Achievements": "2024-01-04T12:09:07.3764489+00:00"
+  "LastUpdate_Ratings": "2024-01-04T13:02:21.5948232+00:00",
+  "LastUpdate_Achievements": "2024-01-04T13:12:57.6909478+00:00"
 }

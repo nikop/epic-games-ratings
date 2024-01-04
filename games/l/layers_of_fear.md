@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 85.00% | ~227 |
-| A piece of the story | 63.00% | ~168 |
+| Something important | 85.00% | ~228 |
+| A piece of the story | 63.00% | ~169 |
 | It's covered up for a reason | 55.00% | ~147 |
-| Wanderer | 52.00% | ~139 |
-| Scraps of love | 48.00% | ~128 |
-| The artist’s impression | 47.00% | ~125 |
-| Do what you have to | 42.00% | ~112 |
-| Sign of weakness | 39.00% | ~104 |
+| Wanderer | 51.00% | ~137 |
+| Scraps of love | 49.00% | ~131 |
+| The artist’s impression | 47.00% | ~126 |
+| Do what you have to | 42.00% | ~113 |
+| Sign of weakness | 39.00% | ~105 |
 | Refuse to look | 34.00% | ~91 |
 | Face your fears | 28.00% | ~75 |
 | Finished it | 25.00% | ~67 |
@@ -38,14 +38,14 @@
 | We Are Not Alone | 3.00% | ~8 |
 | Dark correspondence | 3.00% | ~8 |
 | Immortalized in my heart | 3.00% | ~8 |
+| Full Scoop | 3.00% | ~8 |
 | The Perfect Storm | 3.00% | ~8 |
 | Se7en Seas | 3.00% | ~8 |
+| Body of Work | 2.00% | ~5 |
 | It was worth a try | 2.00% | ~5 |
-| Full Scoop | 2.00% | ~5 |
 | Preferred Parent | 2.00% | ~5 |
 | A Mosaic of Misery | 2.00% | ~5 |
 | The Big Picture | 1.00% | ~3 |
-| Body of Work | 1.00% | ~3 |
 | In One Take | 1.00% | ~3 |
 | Sword of the Serpent | 1.00% | ~3 |
 | Rocket Science | 0.70% | ~2 |
@@ -57,7 +57,7 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 267 (Ranked 404)  
+Progressed: 268 (Ranked 404)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,4 +130,4 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-01 | 255 | 0 |
 | 2024-01-02 | 256 | 0 |
 | 2024-01-03 | 265 | 0 |
-| 2024-01-04 | 267 | 0 |
+| 2024-01-04 | 268 | 0 |

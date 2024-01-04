@@ -1560,9 +1560,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 27649,
+  "EOS_Progressed": 27652,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 662,
+  "EOS_NewPlayers": 656,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -12970,6 +12970,11 @@
       "Time": "2024-01-04T12:09:40.9751972+00:00",
       "NumProgressed": 27649,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-04T13:13:35.2817799+00:00",
+      "NumProgressed": 27652,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -13109,7 +13114,7 @@
       "Name": "Harvest and Home",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 829
+      "UsersEstimate": 830
     },
     {
       "ID": "BossGardenAdvancedDefeated",
@@ -13141,7 +13146,7 @@
       "Name": "Poise and Poisons",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 829
+      "UsersEstimate": 830
     },
     {
       "ID": "BossTowerAdvancedDefeated",
@@ -13237,7 +13242,7 @@
       "Name": "Prequel to the Sequel",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "RogueMode",
@@ -13292,21 +13297,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 27649,
+      "Progressed": 27652,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 6579,
+      "Progressed": 6582,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2024-01-03T16:58:29.4851329+00:00",
-  "LastChanged_Achievements": "2024-01-04T12:09:40.9751968+00:00",
+  "LastChanged_Achievements": "2024-01-04T13:13:35.2817796+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.0569835+00:00",
-  "LastUpdate_Ratings": "2024-01-04T11:58:23.6958792+00:00",
-  "LastUpdate_Achievements": "2024-01-04T12:09:40.9752889+00:00"
+  "LastUpdate_Ratings": "2024-01-04T13:02:12.6155789+00:00",
+  "LastUpdate_Achievements": "2024-01-04T13:13:35.2818487+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "19d5458aa3c849a1b0fff69da4c9ed9d",
   "Name": "EA SPORTS\u2122 PGA TOUR\u2122",
   "ProductSlug": "ea-sports-pga-tour",
-  "Ranking_EOS_Progress": 301,
+  "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 846,
+  "EOS_Progressed": 847,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.18,
   "EosHistory": [
@@ -3050,6 +3050,11 @@
       "Time": "2024-01-04T12:09:30.6284834+00:00",
       "NumProgressed": 846,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-04T13:13:23.6111025+00:00",
+      "NumProgressed": 847,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -3070,7 +3075,7 @@
       "Name": "Holey Moley",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "achievement_11",
@@ -3078,7 +3083,7 @@
       "Name": "Bomb\u0027s Away",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "achievement_12",
@@ -3108,9 +3113,9 @@
       "ID": "achievement_15",
       "SetID": "7ldgi7j",
       "Name": "Victory Lap",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 59
+      "UsersEstimate": 51
     },
     {
       "ID": "achievement_16",
@@ -3126,7 +3131,7 @@
       "Name": "Clean Sheet",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "achievement_18",
@@ -3190,7 +3195,7 @@
       "Name": "Winner\u0027s Circle",
       "Percentage": 46,
       "XP": 35,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "achievement_9",
@@ -3205,13 +3210,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 846,
+      "Progressed": 847,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2024-01-04T12:09:30.6284828+00:00",
+  "LastChanged_Achievements": "2024-01-04T13:13:23.611102+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:46.6527826+00:00",
-  "LastUpdate_Ratings": "2024-01-04T11:58:51.3621447+00:00",
-  "LastUpdate_Achievements": "2024-01-04T12:09:30.6285181+00:00"
+  "LastUpdate_Ratings": "2024-01-04T13:02:44.3242745+00:00",
+  "LastUpdate_Achievements": "2024-01-04T13:13:23.6111263+00:00"
 }

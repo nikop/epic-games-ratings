@@ -2,9 +2,9 @@
   "ID": "d3f97f301cb746d5b6e15424edb28afc",
   "Name": "Gas Station Simulator",
   "ProductSlug": "gas-station-simulator-ee93c7",
-  "Ranking_Rating": 543,
-  "Ranking_Popularity": 577,
-  "Ranking_PopularitySum": 577,
+  "Ranking_Rating": 544,
+  "Ranking_Popularity": 578,
+  "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 327,
   "Ranking_EOS_NewPlayers": 211,
@@ -4428,9 +4428,9 @@
       "ID": "GSS_ACH_01_SHOP_01",
       "SetID": "5fn8ia4",
       "Name": "First Customer!",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1374
     },
     {
       "ID": "GSS_ACH_02_SHOP_02",
@@ -4636,9 +4636,9 @@
       "ID": "GSS_ACH_28_PAINT_02",
       "SetID": "5fn8ia4",
       "Name": "On the Roll",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 1280
+      "UsersEstimate": 1296
     },
     {
       "ID": "GSS_ACH_29_PAINT_03",
@@ -4692,9 +4692,9 @@
       "ID": "GSS_ACH_35_BROOM_01",
       "SetID": "5fn8ia4",
       "Name": "Broomed",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1421
+      "UsersEstimate": 1436
     },
     {
       "ID": "GSS_ACH_36_BROOM_02",
@@ -5085,8 +5085,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-03T14:59:41.5993566+00:00",
-  "LastChanged_Achievements": "2024-01-04T12:06:23.5696262+00:00",
+  "LastChanged_Achievements": "2024-01-04T13:11:35.9988249+00:00",
   "LastUpdate_AppInfo": "2024-01-01T19:57:12.6980533+00:00",
-  "LastUpdate_Ratings": "2024-01-04T11:59:11.067071+00:00",
-  "LastUpdate_Achievements": "2024-01-04T12:06:23.569737+00:00"
+  "LastUpdate_Ratings": "2024-01-04T13:03:07.8105245+00:00",
+  "LastUpdate_Achievements": "2024-01-04T13:11:35.9989242+00:00"
 }

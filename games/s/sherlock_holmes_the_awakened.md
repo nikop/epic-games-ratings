@@ -1,40 +1,40 @@
 # Sherlock Holmes The Awakened
 [Store](https://store.epicgames.com/en-US/p/sherlock-holmes-the-awakened)  
 [View Rawdata](../../db/s/sherlock_holmes_the_awakened.json)  
-Rating: 4.50 (Ranked 614)  
+Rating: 4.50 (Ranked 613)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 63.00% | ~874 |
+| Read Between The Lines | 63.00% | ~875 |
 | To Hell In A Handcart | 61.00% | ~847 |
-| High Profile | 55.00% | ~763 |
+| High Profile | 55.00% | ~764 |
 | Whispers In The Dark | 52.00% | ~722 |
 | Fond Memories | 50.00% | ~694 |
-| A Method To His Madness | 48.00% | ~666 |
-| History Check | 47.00% | ~652 |
+| A Method To His Madness | 48.00% | ~667 |
+| History Check | 47.00% | ~653 |
 | The New World | 45.00% | ~625 |
-| Gaze Into The Abyss | 44.00% | ~611 |
 | Open Sesame | 44.00% | ~611 |
 | Sticky Fingers | 44.00% | ~611 |
-| Knives Out | 44.00% | ~611 |
 | Lock, Stock, And Barrel | 43.00% | ~597 |
+| Gaze Into The Abyss | 43.00% | ~597 |
+| Knives Out | 43.00% | ~597 |
 | Land, Ho! | 43.00% | ~597 |
 | Back In The Saddle | 42.00% | ~583 |
 | No Man Is An Island | 41.00% | ~569 |
 | At Wits' End | 41.00% | ~569 |
-| Fhtagn! | 39.00% | ~541 |
-| Bookworm | 38.00% | ~527 |
-| Up In Flames | 38.00% | ~527 |
+| Fhtagn! | 39.00% | ~542 |
+| Bookworm | 38.00% | ~528 |
+| Up In Flames | 38.00% | ~528 |
 | Going Once... | 36.00% | ~500 |
 | Let Me Be Frank | 34.00% | ~472 |
 | No Stone Unturned | 32.00% | ~444 |
-| Brain Food | 31.00% | ~430 |
+| Brain Food | 31.00% | ~431 |
 | Read It And Weep | 20.00% | ~278 |
 | Curiosity Killed The Cat | 18.00% | ~250 |
 | Big Breakthrough | 12.00% | ~167 |
 | Reawakened | 3.00% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,388 (Ranked 268)  
+Progressed: 1,389 (Ranked 268)  
 Completed: 40 (2.88%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 40 (2.88%) (Ranked 114)
 | 2024-01-01 | 1,375 | 38 |
 | 2024-01-02 | 1,383 | 39 |
 | 2024-01-03 | 1,386 | 40 |
-| 2024-01-04 | 1,388 | 40 |
+| 2024-01-04 | 1,389 | 40 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

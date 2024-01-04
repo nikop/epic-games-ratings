@@ -1,7 +1,7 @@
 # Destroy All Humans! 2 - Reprobed
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans-2-reprobed)  
 [View Rawdata](../../db/d/destroy_all_humans!_2_-_reprobed.json)  
-Rating: 4.54 (Ranked 543)  
+Rating: 4.54 (Ranked 544)  
 Number of Ratings: 90  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -34,6 +34,8 @@ Number of Ratings: 90  (23.09.2022)
 | Arkvoodle Doodle | 4.00% | ~12 |
 | Deincarnated | 3.00% | ~9 |
 | Arty Facts | 1.00% | ~3 |
+| Gotta Catch All the Pop Art | 1.00% | ~3 |
+| This Is Earth Radio | 1.00% | ~3 |
 | Against All Odds | 1.00% | ~3 |
 | Forbidden Donut | 1.00% | ~3 |
 | Hidden Human Hive Harvest | 1.00% | ~3 |
@@ -41,8 +43,6 @@ Number of Ratings: 90  (23.09.2022)
 | Higher Than the Futen Zoku | 1.00% | ~3 |
 | If You Know What I Mean | 1.00% | ~3 |
 | PK Slam Dunk | 0.60% | ~2 |
-| Gotta Catch All the Pop Art | 0.60% | ~2 |
-| This Is Earth Radio | 0.60% | ~2 |
 | Toilet Break | 0.60% | ~2 |
 | Albion Bridge Is for Falling Down | 0.60% | ~2 |
 | Ouch of Body Experience | 0.60% | ~2 |

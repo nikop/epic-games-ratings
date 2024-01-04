@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 46,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9313,9 +9313,9 @@
       "Count": 3624
     }
   ],
-  "EOS_Progressed": 250770,
+  "EOS_Progressed": 250793,
   "EOS_Completed": 2590,
-  "EOS_NewPlayers": 4837,
+  "EOS_NewPlayers": 4826,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -38643,6 +38643,11 @@
       "Time": "2024-01-04T12:09:58.2156144+00:00",
       "NumProgressed": 250770,
       "NumCompleted": 2590
+    },
+    {
+      "Time": "2024-01-04T13:13:53.484034+00:00",
+      "NumProgressed": 250793,
+      "NumCompleted": 2590
     }
   ],
   "TotalAchievements": 546,
@@ -38654,7 +38659,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7523
+      "UsersEstimate": 7524
     },
     {
       "ID": "objective_completed_10",
@@ -40334,7 +40339,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1755
+      "UsersEstimate": 1756
     },
     {
       "ID": "objective_completed_35",
@@ -42942,7 +42947,7 @@
       "Name": "Welcome to Sigil",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1736
+      "UsersEstimate": 1737
     },
     {
       "ID": "objective_completed_1558",
@@ -43021,21 +43026,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 217044,
+      "Progressed": 217067,
       "Completed": 4132
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 250770,
+      "Progressed": 250793,
       "Completed": 2590
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-04T03:58:47.9786606+00:00",
-  "LastChanged_Achievements": "2024-01-04T12:09:58.2156139+00:00",
+  "LastChanged_Achievements": "2024-01-04T13:13:53.4840336+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-04T11:58:58.5122153+00:00",
-  "LastUpdate_Achievements": "2024-01-04T12:09:58.2181099+00:00"
+  "LastUpdate_Ratings": "2024-01-04T13:02:52.4058844+00:00",
+  "LastUpdate_Achievements": "2024-01-04T13:13:53.486626+00:00"
 }

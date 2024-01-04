@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iceberg Theory | 76.00% | ~113 |
-| Gear Up | 64.00% | ~95 |
-| A Grand Show | 64.00% | ~95 |
+| Iceberg Theory | 75.00% | ~112 |
+| Gear Up | 65.00% | ~98 |
+| A Grand Show | 65.00% | ~98 |
 | Freshen Up | 55.00% | ~82 |
-| GG EZ | 52.00% | ~77 |
+| GG EZ | 52.00% | ~78 |
 | Hydrophobia | 36.00% | ~54 |
-| Ka-Ching! | 30.00% | ~45 |
-| Stop Right There | 28.00% | ~42 |
-| Get to the Point | 25.00% | ~37 |
+| Ka-Ching! | 29.00% | ~44 |
+| Stop Right There | 27.00% | ~40 |
+| Get to the Point | 25.00% | ~38 |
 | Toe to Toe | 14.00% | ~21 |
 | Phew! | 14.00% | ~21 |
-| The Hidden Secret | 13.00% | ~19 |
-| Mr. Want It All | 13.00% | ~19 |
-| The Abyss Conqueror | 9.00% | ~13 |
-| Grand Escape | 9.00% | ~13 |
-| Space Warrior: Prologue | 9.00% | ~13 |
+| The Hidden Secret | 13.00% | ~20 |
+| Mr. Want It All | 13.00% | ~20 |
+| The Abyss Conqueror | 9.00% | ~14 |
+| Grand Escape | 9.00% | ~14 |
+| Space Warrior: Prologue | 9.00% | ~14 |
 | The Fortress Conqueror | 8.00% | ~12 |
-| Keep it Up, rookie! | 7.00% | ~10 |
-| The Deep Frozen Conqueror | 5.00% | ~7 |
-| The Infinite Train Conqueror | 5.00% | ~7 |
-| The Paradox Coordinate Conqueror | 5.00% | ~7 |
-| The Inactivated Frozen Conqueror | 5.00% | ~7 |
-| The Hypergravitational Abyss Conqueror | 5.00% | ~7 |
-| he Ultra Fortress Conqueror | 5.00% | ~7 |
-| Antaeus | 5.00% | ~7 |
-| Hell of a Fight | 5.00% | ~7 |
-| Decapitation Strike | 5.00% | ~7 |
+| Keep it Up, rookie! | 7.00% | ~11 |
+| The Deep Frozen Conqueror | 5.00% | ~8 |
+| The Infinite Train Conqueror | 5.00% | ~8 |
+| The Paradox Coordinate Conqueror | 5.00% | ~8 |
+| The Inactivated Frozen Conqueror | 5.00% | ~8 |
+| The Hypergravitational Abyss Conqueror | 5.00% | ~8 |
+| he Ultra Fortress Conqueror | 5.00% | ~8 |
+| Antaeus | 5.00% | ~8 |
+| Hell of a Fight | 5.00% | ~8 |
+| Decapitation Strike | 5.00% | ~8 |
 | The Sunken City Conqueror | 4.00% | ~6 |
 | The Zero Dimensional Capital Conqueror | 4.00% | ~6 |
 | Death Bringer Conqueror | 4.00% | ~6 |
@@ -45,9 +45,9 @@
 | Pumped Up | 2.00% | ~3 |
 | Proliferation | 2.00% | ~3 |
 | Burn After Reading | 2.00% | ~3 |
-| Alloy Rangers, Assemble! | 1.00% | ~1 |
-| Easy Peasy | 1.00% | ~1 |
-| Clean Sweep | 1.00% | ~1 |
+| Alloy Rangers, Assemble! | 1.00% | ~2 |
+| Easy Peasy | 1.00% | ~2 |
+| Clean Sweep | 1.00% | ~2 |
 | Flawless | 0.70% | ~1 |
 | Peace Out | 0.70% | ~1 |
 | Mischief Time | 0.70% | ~1 |
@@ -55,7 +55,7 @@
 | Bullets Fear Me | 0.70% | ~1 |
 | Super Alloy Ranger! | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 149 (Ranked 450)  
+Progressed: 150 (Ranked 449)  
 Completed: 1 (0.67%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,6 +138,7 @@ Completed: 1 (0.67%) (Ranked 199)
 | 2024-01-01 | 147 | 1 |
 | 2024-01-02 | 148 | 1 |
 | 2024-01-03 | 149 | 1 |
+| 2024-01-04 | 150 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

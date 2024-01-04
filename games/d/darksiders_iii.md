@@ -9,8 +9,8 @@ Number of Ratings: 116  (23.09.2022)
 | Green with Envy | 77.00% | ~318 |
 | First of many… | 67.00% | ~277 |
 | Helping Hand | 64.00% | ~264 |
-| Increased Vigor | 59.00% | ~244 |
-| Fight Fire with Fire | 57.00% | ~235 |
+| Increased Vigor | 60.00% | ~248 |
+| Fight Fire with Fire | 58.00% | ~240 |
 | Increased Capacity | 54.00% | ~223 |
 | Just the start | 48.00% | ~198 |
 | Perfect Storm | 46.00% | ~190 |
@@ -31,9 +31,9 @@ Number of Ratings: 116  (23.09.2022)
 | Freeze Frame | 27.00% | ~112 |
 | Eat Your Heart Out | 27.00% | ~112 |
 | For Whom the Bell Tolls | 27.00% | ~112 |
-| Unyielding Strength | 24.00% | ~99 |
+| Unyielding Strength | 25.00% | ~103 |
+| Can you restore the Balance? | 24.00% | ~99 |
 | Big Spender | 24.00% | ~99 |
-| Can you restore the Balance? | 23.00% | ~95 |
 | Crowd Source | 23.00% | ~95 |
 | Cleanup Crew | 22.00% | ~91 |
 | Demon Meddler | 20.00% | ~83 |

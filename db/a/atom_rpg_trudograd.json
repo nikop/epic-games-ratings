@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-11-07T12:00:00+00:00",
@@ -252,9 +252,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 1374,
+  "EOS_Progressed": 1375,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2092,6 +2092,11 @@
       "Time": "2024-01-04T11:10:46.3518483+00:00",
       "NumProgressed": 1374,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T13:13:11.9476363+00:00",
+      "NumProgressed": 1375,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -2103,7 +2108,7 @@
       "Name": "Admiral",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ALBINO_BLOODSUCKER",
@@ -2111,7 +2116,7 @@
       "Name": "Albino Bloodsucker",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ATOM_KVAS",
@@ -2175,7 +2180,7 @@
       "Name": "Fight Club",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "FREELANCE_POLICE",
@@ -2207,7 +2212,7 @@
       "Name": "Human Antidote",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "INCOMPETENCE",
@@ -2215,7 +2220,7 @@
       "Name": "Incompetence",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "KGB_BUNKER",
@@ -2239,7 +2244,7 @@
       "Name": "Goose Sacrifice",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "MEMOIRS_OF_A_NIBBLER",
@@ -2351,14 +2356,14 @@
       "Name": "Fresh Prince of Trudograd",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 1195
+      "UsersEstimate": 1196
     }
   ],
   "AchievementSets": [
     {
       "ID": "62d2oh4",
       "IsBase": true,
-      "Progressed": 1374,
+      "Progressed": 1375,
       "Completed": 0
     }
   ],
@@ -2366,8 +2371,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2023-12-29T02:14:41.7987751+00:00",
-  "LastChanged_Achievements": "2024-01-04T12:09:20.0851979+00:00",
+  "LastChanged_Achievements": "2024-01-04T13:13:11.9476362+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:57:00.3334195+00:00",
-  "LastUpdate_Ratings": "2024-01-04T11:59:02.8018724+00:00",
-  "LastUpdate_Achievements": "2024-01-04T12:09:20.0852306+00:00"
+  "LastUpdate_Ratings": "2024-01-04T13:02:57.3649992+00:00",
+  "LastUpdate_Achievements": "2024-01-04T13:13:11.9476614+00:00"
 }

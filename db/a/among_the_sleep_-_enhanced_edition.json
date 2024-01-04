@@ -3,11 +3,11 @@
   "Name": "Among the Sleep - Enhanced Edition",
   "ProductSlug": "among-the-sleep-enhanced-edition",
   "Ranking_Rating": 875,
-  "Ranking_Popularity": 577,
-  "Ranking_PopularitySum": 577,
+  "Ranking_Popularity": 578,
+  "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
@@ -500,9 +500,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 98070,
+  "EOS_Progressed": 98075,
   "EOS_Completed": 451,
-  "EOS_NewPlayers": 1004,
+  "EOS_NewPlayers": 1006,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -29375,6 +29375,11 @@
       "Time": "2024-01-04T12:08:58.7210825+00:00",
       "NumProgressed": 98070,
       "NumCompleted": 451
+    },
+    {
+      "Time": "2024-01-04T13:12:47.7279733+00:00",
+      "NumProgressed": 98075,
+      "NumCompleted": 451
     }
   ],
   "TotalAchievements": 10,
@@ -29410,7 +29415,7 @@
       "Name": "Forest Drawings",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "Drawings04",
@@ -29442,7 +29447,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 9807
+      "UsersEstimate": 9808
     },
     {
       "ID": "Level00BowlingStrike",
@@ -29450,7 +29455,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 34324
+      "UsersEstimate": 34326
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -29465,15 +29470,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 98070,
+      "Progressed": 98075,
       "Completed": 451
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-12-20T03:02:57.8561576+00:00",
-  "LastChanged_Achievements": "2024-01-04T12:08:58.721082+00:00",
+  "LastChanged_Achievements": "2024-01-04T13:12:47.727973+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:31.1360404+00:00",
-  "LastUpdate_Ratings": "2024-01-04T12:03:12.3649763+00:00",
-  "LastUpdate_Achievements": "2024-01-04T12:08:58.7212544+00:00"
+  "LastUpdate_Ratings": "2024-01-04T13:07:00.7748737+00:00",
+  "LastUpdate_Achievements": "2024-01-04T13:12:47.7281171+00:00"
 }

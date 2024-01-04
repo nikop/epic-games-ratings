@@ -5,35 +5,35 @@ Rating: 4.80 (Ranked 91)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 68.00% | ~969 |
-| The Adventure Begins | 50.00% | ~712 |
-| Swabbie | 36.00% | ~513 |
-| With Great Power… | 36.00% | ~513 |
-| This Belongs in a Museum | 33.00% | ~470 |
+| A New Journey | 68.00% | ~971 |
+| The Adventure Begins | 49.00% | ~700 |
+| Swabbie | 36.00% | ~514 |
+| With Great Power… | 36.00% | ~514 |
+| This Belongs in a Museum | 33.00% | ~471 |
 | The Gambit Has Begun | 30.00% | ~428 |
-| Somewhere Deep in the Lost Caribbean | 27.00% | ~385 |
-| Mirror Mirror on the Wall | 26.00% | ~370 |
-| Powder Monkey | 26.00% | ~370 |
-| Pirates Assemble! | 24.00% | ~342 |
-| Buccaneer | 20.00% | ~285 |
-| Fishy Fish | 20.00% | ~285 |
-| All Good Things | 17.00% | ~242 |
-| Persistent Parasite | 17.00% | ~242 |
+| Somewhere Deep in the Lost Caribbean | 26.00% | ~371 |
+| Mirror Mirror on the Wall | 26.00% | ~371 |
+| Powder Monkey | 26.00% | ~371 |
+| Pirates Assemble! | 24.00% | ~343 |
+| Buccaneer | 20.00% | ~286 |
+| Fishy Fish | 20.00% | ~286 |
+| All Good Things | 17.00% | ~243 |
+| Persistent Parasite | 17.00% | ~243 |
 | Seadog | 14.00% | ~200 |
 | Tobacco Travesty | 11.00% | ~157 |
 | Jaded Judge | 11.00% | ~157 |
 | Rustic Recipe | 11.00% | ~157 |
-| Privateer | 9.00% | ~128 |
-| Accursed Artifacts | 9.00% | ~128 |
-| Lyrical Longing | 9.00% | ~128 |
+| Privateer | 9.00% | ~129 |
+| Accursed Artifacts | 9.00% | ~129 |
+| Lyrical Longing | 9.00% | ~129 |
 | Fully Decked | 7.00% | ~100 |
 | Corsair | 5.00% | ~71 |
 | Freebooter | 4.00% | ~57 |
 | Marauder | 3.00% | ~43 |
 | Welcome Back Jester | 3.00% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,425 (Ranked 266)  
-Completed: 35 (2.46%) (Ranked 126)  
+Progressed: 1,428 (Ranked 266)  
+Completed: 35 (2.45%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -179,7 +179,7 @@ Completed: 35 (2.46%) (Ranked 126)
 | 2024-01-01 | 1,393 | 35 |
 | 2024-01-02 | 1,413 | 35 |
 | 2024-01-03 | 1,423 | 35 |
-| 2024-01-04 | 1,425 | 35 |
+| 2024-01-04 | 1,428 | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

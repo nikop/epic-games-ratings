@@ -521,17 +521,17 @@
       "ID": "ACH_013",
       "SetID": "7b646ck",
       "Name": "Seeking the truth",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACH_014",
       "SetID": "7b646ck",
       "Name": "Little grey cells",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_015",
@@ -577,25 +577,25 @@
       "ID": "ACH_02",
       "SetID": "7b646ck",
       "Name": "The Gala",
-      "Percentage": 53,
-      "XP": 25,
-      "UsersEstimate": 47
-    },
-    {
-      "ID": "ACH_020",
-      "SetID": "7b646ck",
-      "Name": "An old friend",
       "Percentage": 54,
       "XP": 25,
       "UsersEstimate": 48
     },
     {
+      "ID": "ACH_020",
+      "SetID": "7b646ck",
+      "Name": "An old friend",
+      "Percentage": 55,
+      "XP": 25,
+      "UsersEstimate": 49
+    },
+    {
       "ID": "ACH_021",
       "SetID": "7b646ck",
       "Name": "A curious gathering",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_022",
@@ -649,9 +649,9 @@
       "ID": "ACH_028",
       "SetID": "7b646ck",
       "Name": "Impossible is possible",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_029",
@@ -665,9 +665,9 @@
       "ID": "ACH_03",
       "SetID": "7b646ck",
       "Name": "The Missing Magdalene",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_030",
@@ -729,9 +729,9 @@
       "ID": "ACH_037",
       "SetID": "7b646ck",
       "Name": "Arthur Hastings",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_038",
@@ -864,8 +864,8 @@
   ],
   "FirstSeen": "2023-09-01T19:00:04.7737325+00:00",
   "FirstSeenAchievements": "2023-07-06T13:22:18.2956112+00:00",
-  "LastChanged_Achievements": "2024-01-04T12:09:28.5438515+00:00",
+  "LastChanged_Achievements": "2024-01-04T13:13:21.4785374+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:16.5856967+00:00",
-  "LastUpdate_Ratings": "2024-01-04T11:58:35.7700614+00:00",
-  "LastUpdate_Achievements": "2024-01-04T12:09:28.5438838+00:00"
+  "LastUpdate_Ratings": "2024-01-04T13:02:27.056656+00:00",
+  "LastUpdate_Achievements": "2024-01-04T13:13:21.4785673+00:00"
 }

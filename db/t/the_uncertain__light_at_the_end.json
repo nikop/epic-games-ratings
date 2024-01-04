@@ -3,11 +3,11 @@
   "Name": "The Uncertain: Light at the End",
   "ProductSlug": "the-uncertain-light-at-the-end",
   "Ranking_Rating": 1066,
-  "Ranking_Popularity": 577,
-  "Ranking_PopularitySum": 577,
+  "Ranking_Popularity": 578,
+  "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewPlayers": 321,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -89,11 +89,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 641,
+  "EOS_Progressed": 643,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.94,
+  "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:44.5175392+00:00",
@@ -1274,6 +1274,11 @@
       "Time": "2024-01-04T04:04:24.4366354+00:00",
       "NumProgressed": 641,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-04T13:08:28.9609339+00:00",
+      "NumProgressed": 643,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -1309,7 +1314,7 @@
       "Name": "Bosom Buddies",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "Doors_Closing",
@@ -1373,7 +1378,7 @@
       "Name": "Bundle of Joy",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 320
+      "UsersEstimate": 322
     },
     {
       "ID": "Hitman",
@@ -1405,7 +1410,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "Leisurely_Strol",
@@ -1453,7 +1458,7 @@
       "Name": "A Stealthy Outlook",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Old_Friend",
@@ -1501,7 +1506,7 @@
       "Name": "Beat the Heat",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "Unforeseen_Consequences",
@@ -1509,14 +1514,14 @@
       "Name": "Unexpected Consequences",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     }
   ],
   "AchievementSets": [
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 641,
+      "Progressed": 643,
       "Completed": 6
     }
   ],
@@ -1524,8 +1529,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2024-01-02T20:03:11.8970033+00:00",
-  "LastChanged_Achievements": "2024-01-04T12:04:29.5608498+00:00",
+  "LastChanged_Achievements": "2024-01-04T13:08:28.9609337+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:43.1004855+00:00",
-  "LastUpdate_Ratings": "2024-01-04T12:03:19.8979924+00:00",
-  "LastUpdate_Achievements": "2024-01-04T12:04:29.5609068+00:00"
+  "LastUpdate_Ratings": "2024-01-04T13:07:09.1304753+00:00",
+  "LastUpdate_Achievements": "2024-01-04T13:08:28.9609508+00:00"
 }

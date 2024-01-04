@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 268,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -7919,10 +7919,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27918,
       "NumberOfAwardsMax": 4940
+    },
+    {
+      "Time": "2024-01-04T13:07:03.1179035+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27919,
+      "NumberOfAwardsMax": 4940
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27918,
+  "NumberOfAwards": 27919,
   "NumberOfAwardsMax": 4940,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7966,7 +7972,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3241
+      "Count": 3242
     },
     {
       "Text": "This game is Highly Recommended",
@@ -7975,9 +7981,9 @@
       "Count": 3813
     }
   ],
-  "EOS_Progressed": 149299,
+  "EOS_Progressed": 149308,
   "EOS_Completed": 342,
-  "EOS_NewPlayers": 1197,
+  "EOS_NewPlayers": 1196,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -35285,6 +35291,11 @@
       "Time": "2024-01-04T12:06:35.2804652+00:00",
       "NumProgressed": 149299,
       "NumCompleted": 342
+    },
+    {
+      "Time": "2024-01-04T13:11:49.0902776+00:00",
+      "NumProgressed": 149308,
+      "NumCompleted": 342
     }
   ],
   "TotalAchievements": 112,
@@ -35464,7 +35475,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 14930
+      "UsersEstimate": 14931
     },
     {
       "ID": "chest02",
@@ -35528,7 +35539,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13437
+      "UsersEstimate": 13438
     },
     {
       "ID": "commonres02",
@@ -35560,7 +35571,7 @@
       "Name": "Disintermediation",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10451
+      "UsersEstimate": 10452
     },
     {
       "ID": "craft02",
@@ -35592,7 +35603,7 @@
       "Name": "Oligarch Monarch",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "damage01",
@@ -35646,9 +35657,9 @@
       "ID": "energy01",
       "SetID": "anfd17p",
       "Name": "Another Satisfied Customer",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7465
+      "UsersEstimate": 8958
     },
     {
       "ID": "energy02",
@@ -35768,7 +35779,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13437
+      "UsersEstimate": 13438
     },
     {
       "ID": "gold02",
@@ -35904,7 +35915,7 @@
       "Name": "Merchant Extraordinaire",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "lilu_a",
@@ -36072,7 +36083,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10451
+      "UsersEstimate": 10452
     },
     {
       "ID": "sell02",
@@ -36112,7 +36123,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 14930
+      "UsersEstimate": 14931
     },
     {
       "ID": "twinenchant01",
@@ -36191,15 +36202,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 149299,
+      "Progressed": 149308,
       "Completed": 342
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2024-01-03T21:03:45.6839609+00:00",
-  "LastChanged_Achievements": "2024-01-04T12:06:35.2804648+00:00",
+  "LastChanged": "2024-01-04T13:07:03.1179033+00:00",
+  "LastChanged_Achievements": "2024-01-04T13:11:49.0902773+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.6407181+00:00",
-  "LastUpdate_Ratings": "2024-01-04T12:03:14.7443018+00:00",
-  "LastUpdate_Achievements": "2024-01-04T12:06:35.2807674+00:00"
+  "LastUpdate_Ratings": "2024-01-04T13:07:03.1179039+00:00",
+  "LastUpdate_Achievements": "2024-01-04T13:11:49.0905092+00:00"
 }

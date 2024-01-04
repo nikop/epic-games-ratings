@@ -2,12 +2,12 @@
   "ID": "viola",
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
-  "Ranking_Rating": 543,
+  "Ranking_Rating": 544,
   "Ranking_Popularity": 498,
   "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 303,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -547,9 +547,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4460,
+  "EOS_Progressed": 4463,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -7647,6 +7647,11 @@
       "Time": "2024-01-04T11:09:01.6311995+00:00",
       "NumProgressed": 4460,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-04T13:11:52.6228947+00:00",
+      "NumProgressed": 4463,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -7674,7 +7679,7 @@
       "Name": "Ancestor\u0027s Pride",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ApexPredator_27",
@@ -7682,7 +7687,7 @@
       "Name": "Apex Predator",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "BloodAndJustice_50",
@@ -7698,7 +7703,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1829
+      "UsersEstimate": 1830
     },
     {
       "ID": "CrowdPleaser",
@@ -7722,7 +7727,7 @@
       "Name": "Eureka",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -7738,7 +7743,7 @@
       "Name": "For All Aurai",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "GiftfromtheAncestors_34",
@@ -7762,7 +7767,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 892
+      "UsersEstimate": 893
     },
     {
       "ID": "HouseofCards_19",
@@ -7818,7 +7823,7 @@
       "Name": "Memory of a legend",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "PerfectDefense_31",
@@ -7842,7 +7847,7 @@
       "Name": "Ready for Summer",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2185
+      "UsersEstimate": 2187
     },
     {
       "ID": "ReadyforWinter_42",
@@ -7850,7 +7855,7 @@
       "Name": "Ready for Winter",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 2721
+      "UsersEstimate": 2722
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -7858,7 +7863,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 981
+      "UsersEstimate": 982
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -7866,7 +7871,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1071
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -7882,7 +7887,7 @@
       "Name": "Tapped!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1561
+      "UsersEstimate": 1562
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -7914,7 +7919,7 @@
       "Name": "The Power of Faith",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "ThePowerofFamily_2",
@@ -7930,7 +7935,7 @@
       "Name": "The Power of Freedom",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "TheStuffOfLegends",
@@ -7978,7 +7983,7 @@
       "Name": "Venture Outward",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3256
+      "UsersEstimate": 3258
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -7993,15 +7998,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4460,
+      "Progressed": 4463,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2024-01-03T19:03:38.0112146+00:00",
-  "LastChanged_Achievements": "2024-01-04T12:06:38.3774138+00:00",
+  "LastChanged_Achievements": "2024-01-04T13:11:52.6228944+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:23.571083+00:00",
-  "LastUpdate_Ratings": "2024-01-04T12:03:00.3009912+00:00",
-  "LastUpdate_Achievements": "2024-01-04T12:06:38.3774788+00:00"
+  "LastUpdate_Ratings": "2024-01-04T13:06:49.0320659+00:00",
+  "LastUpdate_Achievements": "2024-01-04T13:11:52.6229486+00:00"
 }

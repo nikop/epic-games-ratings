@@ -10,7 +10,7 @@ Number of Ratings: 124  (23.09.2022)
 | Best Buddy | 31.00% | ~54 |
 | Civilian | 29.00% | ~50 |
 | Role Model | 26.00% | ~45 |
-| Creator | 23.00% | ~40 |
+| Creator | 24.00% | ~42 |
 | Peddler | 22.00% | ~38 |
 | Military Leader | 22.00% | ~38 |
 | Festival-goer | 22.00% | ~38 |
@@ -28,10 +28,10 @@ Number of Ratings: 124  (23.09.2022)
 | Hunter | 6.00% | ~10 |
 | Lover | 6.00% | ~10 |
 | Treasure Hunter | 5.00% | ~9 |
+| Beam Me Up | 5.00% | ~9 |
 | Hotshot | 5.00% | ~9 |
 | Perfectionist | 5.00% | ~9 |
 | Detective | 5.00% | ~9 |
-| Beam Me Up | 4.00% | ~7 |
 | Free as a Bird | 4.00% | ~7 |
 | Cleric | 4.00% | ~7 |
 | Alchemist | 3.00% | ~5 |

@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 267,
+  "EOS_Progressed": 268,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
@@ -1209,6 +1209,11 @@
       "Time": "2024-01-04T09:08:56.3889655+00:00",
       "NumProgressed": 267,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T13:12:16.9682299+00:00",
+      "NumProgressed": 268,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -1283,9 +1288,9 @@
       "ID": "collect_most_of_posters",
       "SetID": "f2im8d",
       "Name": "Body of Work",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "collect_notes_mother",
@@ -1333,7 +1338,7 @@
       "Name": "Do what you have to",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "earn_all_trophies",
@@ -1371,9 +1376,9 @@
       "ID": "find_one_memento",
       "SetID": "f2im8d",
       "Name": "Scraps of love",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 131
     },
     {
       "ID": "find_one_photo",
@@ -1397,7 +1402,7 @@
       "Name": "The artist\u2019s impression",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "finished_it",
@@ -1419,9 +1424,9 @@
       "ID": "hear_most_of_interviews",
       "SetID": "f2im8d",
       "Name": "Full Scoop",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     },
     {
       "ID": "hear_one_interview",
@@ -1493,7 +1498,7 @@
       "Name": "A piece of the story",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "playtime",
@@ -1549,7 +1554,7 @@
       "Name": "Sign of weakness",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "something_important",
@@ -1557,7 +1562,7 @@
       "Name": "Something important",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "spy_one_item",
@@ -1619,9 +1624,9 @@
       "ID": "wanderer",
       "SetID": "f2im8d",
       "Name": "Wanderer",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 137
     },
     {
       "ID": "whispers_long_forgotten",
@@ -1636,14 +1641,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 267,
+      "Progressed": 268,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-04T12:08:31.1626769+00:00",
+  "LastChanged_Achievements": "2024-01-04T13:12:16.9682297+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.7570027+00:00",
-  "LastUpdate_Ratings": "2024-01-04T11:59:00.009353+00:00",
-  "LastUpdate_Achievements": "2024-01-04T12:08:31.1627335+00:00"
+  "LastUpdate_Ratings": "2024-01-04T13:02:54.0648102+00:00",
+  "LastUpdate_Achievements": "2024-01-04T13:12:16.9682658+00:00"
 }

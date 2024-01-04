@@ -5,7 +5,7 @@ Rating: 4.56 (Ranked 503)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fresh Prince of Trudograd | 87.00% | ~1,195 |
+| Fresh Prince of Trudograd | 87.00% | ~1,196 |
 | Household | 7.00% | ~96 |
 | An Old Friend | 6.00% | ~82 |
 | Lot 49 | 5.00% | ~69 |
@@ -16,18 +16,18 @@ Rating: 4.56 (Ranked 503)
 | Freelance Police | 3.00% | ~41 |
 | Mysterious Knife | 3.00% | ~41 |
 | The Great and Powerful | 3.00% | ~41 |
-| Albino Bloodsucker | 2.00% | ~27 |
-| Fight Club | 2.00% | ~27 |
-| Human Antidote | 2.00% | ~27 |
+| Albino Bloodsucker | 2.00% | ~28 |
+| Fight Club | 2.00% | ~28 |
+| Human Antidote | 2.00% | ~28 |
 | Death of the Author | 1.00% | ~14 |
 | Memoirs of a Nibbler | 0.90% | ~12 |
 | Rising Star | 0.90% | ~12 |
 | KGB Bunker | 0.70% | ~10 |
 | Sixth Sense | 0.70% | ~10 |
 | Baby Eater | 0.60% | ~8 |
-| Admiral | 0.40% | ~5 |
-| Incompetence | 0.40% | ~5 |
-| Goose Sacrifice | 0.40% | ~5 |
+| Admiral | 0.40% | ~6 |
+| Incompetence | 0.40% | ~6 |
+| Goose Sacrifice | 0.40% | ~6 |
 | Bronzovka | 0.30% | ~4 |
 | Commando | 0.30% | ~4 |
 | Holy Mountain | 0.30% | ~4 |
@@ -38,7 +38,7 @@ Rating: 4.56 (Ranked 503)
 | Terrorist | 0.20% | ~3 |
 | Escalation of Conflict | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,374 (Ranked 271)  
+Progressed: 1,375 (Ranked 271)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,7 +216,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-01 | 1,358 | 0 |
 | 2024-01-02 | 1,363 | 0 |
 | 2024-01-03 | 1,370 | 0 |
-| 2024-01-04 | 1,374 | 0 |
+| 2024-01-04 | 1,375 | 0 |
 ## Awards
 Max (Character Customization): 26  (Ranked 540)  
 Sum: 26 (Ranked 551)  

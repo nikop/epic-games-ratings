@@ -1,27 +1,27 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.52 (Ranked 573)  
+Rating: 4.52 (Ranked 574)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~7,032 |
-| Greasy Palms | 42.00% | ~6,420 |
-| South American Connection | 26.00% | ~3,974 |
-| Life of the Party | 21.00% | ~3,210 |
-| Big Heat from Little Havana | 15.00% | ~2,293 |
-| Chauffeur | 15.00% | ~2,293 |
-| Tommy Two-Wheels | 15.00% | ~2,293 |
-| Salutations My Little Friend | 11.00% | ~1,681 |
+| Legal Counsel | 46.00% | ~7,035 |
+| Greasy Palms | 42.00% | ~6,423 |
+| South American Connection | 26.00% | ~3,976 |
+| Life of the Party | 21.00% | ~3,212 |
+| Big Heat from Little Havana | 15.00% | ~2,294 |
+| Chauffeur | 15.00% | ~2,294 |
+| Tommy Two-Wheels | 15.00% | ~2,294 |
+| Salutations My Little Friend | 11.00% | ~1,682 |
 | Iron-y | 10.00% | ~1,529 |
 | Gun for Hire | 9.00% | ~1,376 |
 | Mischief Managed | 9.00% | ~1,376 |
-| Vice City Mogul | 7.00% | ~1,070 |
-| Catch Me if You Can | 6.00% | ~917 |
-| Bloodstained Hands | 6.00% | ~917 |
-| Not my First Time | 5.00% | ~764 |
-| Grand Theft Auto | 5.00% | ~764 |
-| Pie Guy | 4.00% | ~611 |
+| Vice City Mogul | 7.00% | ~1,071 |
+| Catch Me if You Can | 6.00% | ~918 |
+| Bloodstained Hands | 6.00% | ~918 |
+| Not my First Time | 5.00% | ~765 |
+| Grand Theft Auto | 5.00% | ~765 |
+| Pie Guy | 4.00% | ~612 |
 | Point A to Point B | 3.00% | ~459 |
 | High Quality H2O | 3.00% | ~459 |
 | Bull in a China Shop | 3.00% | ~459 |
@@ -40,7 +40,7 @@ Rating: 4.52 (Ranked 573)
 | Done it All | 0.90% | ~138 |
 | Kingpin | 0.60% | ~92 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,286 (Ranked 168)  
+Progressed: 15,293 (Ranked 168)  
 Completed: 85 (0.56%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 85 (0.56%) (Ranked 210)
 | 2024-01-01 | 15,003 | 84 |
 | 2024-01-02 | 15,126 | 85 |
 | 2024-01-03 | 15,241 | 85 |
-| 2024-01-04 | 15,286 | 85 |
+| 2024-01-04 | 15,293 | 85 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

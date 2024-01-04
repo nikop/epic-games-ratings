@@ -643,9 +643,9 @@
       "ID": "35",
       "SetID": "d37idgg",
       "Name": "Pulp! Where Monsters Dwell",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "36",
@@ -802,8 +802,8 @@
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2024-01-04T12:06:02.7213019+00:00",
+  "LastChanged_Achievements": "2024-01-04T13:10:13.1373531+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:11.5765044+00:00",
-  "LastUpdate_Ratings": "2024-01-04T12:00:20.3312483+00:00",
-  "LastUpdate_Achievements": "2024-01-04T12:06:02.7213324+00:00"
+  "LastUpdate_Ratings": "2024-01-04T13:06:14.9899331+00:00",
+  "LastUpdate_Achievements": "2024-01-04T13:10:13.1373869+00:00"
 }

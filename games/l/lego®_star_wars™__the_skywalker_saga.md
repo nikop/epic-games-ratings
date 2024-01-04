@@ -6,33 +6,33 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 96.00% | ~55,182 |
-| ''I don't like you either!'' | 77.00% | ~44,260 |
-| ''Impressive, most impressive'' | 69.00% | ~39,662 |
-| ''You think you're some kind of Jedi?'' | 69.00% | ~39,662 |
-| The Phantom Menace | 57.00% | ~32,764 |
-| ''Aggressive Negotiations'' | 56.00% | ~32,189 |
-| ''I can fly anything'' | 54.00% | ~31,040 |
-| ''And who gave you permission...?'' | 51.00% | ~29,315 |
-| A New Hope | 46.00% | ~26,441 |
-| Attack of the Clones | 44.00% | ~25,292 |
-| Revenge of the Sith | 38.00% | ~21,843 |
-| The Empire Strikes Back | 36.00% | ~20,693 |
-| ''A fine addition to my collection'' | 36.00% | ~20,693 |
-| Return of the Jedi | 30.00% | ~17,244 |
-| The Force Awakens | 25.00% | ~14,370 |
-| The Last Jedi | 22.00% | ~12,646 |
-| The Rise of Skywalker | 19.00% | ~10,921 |
-| ''It's true... all of it'' | 18.00% | ~10,347 |
-| ''Get the crews to their fighters'' | 18.00% | ~10,347 |
-| ''Raw, untamed power'' | 8.00% | ~4,598 |
+| ''You guys got yourself a ship!'' | 96.00% | ~55,190 |
+| ''I don't like you either!'' | 77.00% | ~44,267 |
+| ''Impressive, most impressive'' | 69.00% | ~39,668 |
+| ''You think you're some kind of Jedi?'' | 69.00% | ~39,668 |
+| The Phantom Menace | 57.00% | ~32,769 |
+| ''Aggressive Negotiations'' | 56.00% | ~32,194 |
+| ''I can fly anything'' | 54.00% | ~31,045 |
+| ''And who gave you permission...?'' | 51.00% | ~29,320 |
+| A New Hope | 46.00% | ~26,445 |
+| Attack of the Clones | 44.00% | ~25,296 |
+| Revenge of the Sith | 38.00% | ~21,846 |
+| The Empire Strikes Back | 36.00% | ~20,696 |
+| ''A fine addition to my collection'' | 36.00% | ~20,696 |
+| Return of the Jedi | 30.00% | ~17,247 |
+| The Force Awakens | 25.00% | ~14,372 |
+| The Last Jedi | 22.00% | ~12,648 |
+| The Rise of Skywalker | 19.00% | ~10,923 |
+| ''It's true... all of it'' | 18.00% | ~10,348 |
+| ''Get the crews to their fighters'' | 18.00% | ~10,348 |
+| ''Raw, untamed power'' | 8.00% | ~4,599 |
 | Rishi Maze | 5.00% | ~2,874 |
-| ''Only one business in the Galaxy...'' | 4.00% | ~2,299 |
-| ''You may fire when ready'' | 3.00% | ~1,724 |
-| ''What have you done with those plans?'' | 3.00% | ~1,724 |
-| ''GONK!'' | 3.00% | ~1,724 |
-| ''Hey, what are you trying to push on us?'' | 3.00% | ~1,724 |
-| The Slice | 3.00% | ~1,724 |
+| ''Only one business in the Galaxy...'' | 4.00% | ~2,300 |
+| ''You may fire when ready'' | 3.00% | ~1,725 |
+| ''What have you done with those plans?'' | 3.00% | ~1,725 |
+| ''GONK!'' | 3.00% | ~1,725 |
+| ''Hey, what are you trying to push on us?'' | 3.00% | ~1,725 |
+| The Slice | 3.00% | ~1,725 |
 | ''Hello there!'' | 2.00% | ~1,150 |
 | Unknown Regions | 2.00% | ~1,150 |
 | ''Do or do not. There is no try'' | 2.00% | ~1,150 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''Jedi Business'' | 1.00% | ~575 |
 | ''I've never seen a real one!'' | 0.90% | ~517 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,481 (Ranked 120)  
+Progressed: 57,490 (Ranked 120)  
 Completed: 257 (0.45%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,21 +310,21 @@ Completed: 257 (0.45%) (Ranked 229)
 | 2024-01-01 | 56,979 | 256 |
 | 2024-01-02 | 57,195 | 256 |
 | 2024-01-03 | 57,403 | 256 |
-| 2024-01-04 | 57,481 | 257 |
+| 2024-01-04 | 57,490 | 257 |
 ## Awards
 Max (Great Boss Battles): 2,483  (Ranked 109)  
-Sum: 6,804 (Ranked 129)  
+Sum: 6,806 (Ranked 129)  
 Diff (max vs sum): -20  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,483 |
-| This game is Great for Beginners | 525 |
+| This game is Great for Beginners | 526 |
 | This game has Diverse Characters | 521 |
 | This game has Amazing Characters | 497 |
 | This game has Easy Combat | 479 |
 | This game is Highly Recommended | 477 |
 | This game has Amazing Storytelling | 472 |
-| This game is Extremely Fun | 460 |
+| This game is Extremely Fun | 461 |
 | This game has Quickly Understood Controls | 448 |
 | This game is Relaxing | 442 |
 | This game has Obsessive Gameplay | 341 |
@@ -618,4 +618,4 @@ Diff (max vs sum): -20
 | 2024-01-01 | 4.77 | - | 2,479 | 6,794 |
 | 2024-01-02 | 4.77 | - | 2,481 | 6,797 |
 | 2024-01-03 | 4.77 | - | 2,481 | 6,799 |
-| 2024-01-04 | 4.78 | - | 2,483 | 6,804 |
+| 2024-01-04 | 4.78 | - | 2,483 | 6,806 |

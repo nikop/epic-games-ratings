@@ -2,7 +2,7 @@
   "ID": "be6723b7e93d4bb0a63bde783ffa06ac",
   "Name": "StrikeForce Kitty",
   "ProductSlug": "strike-force-kitty-4603e5",
-  "Ranking_EOS_Progress": 441,
+  "Ranking_EOS_Progress": 440,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 317,
   "Ranking_EOS_NewCompleters": 152,
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 165,
+  "EOS_Progressed": 166,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
@@ -789,6 +789,11 @@
       "Time": "2024-01-04T01:52:53.2346389+00:00",
       "NumProgressed": 165,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T13:11:41.4870005+00:00",
+      "NumProgressed": 166,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-23T15:03:22.1103385+00:00",
@@ -953,7 +958,7 @@
       "Name": "Preparation",
       "Percentage": 77,
       "XP": 35,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ach28",
@@ -961,7 +966,7 @@
       "Name": "Start",
       "Percentage": 90,
       "XP": 35,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ach29",
@@ -1048,14 +1053,14 @@
     {
       "ID": "baneh2j",
       "IsBase": true,
-      "Progressed": 165,
+      "Progressed": 166,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-28T07:00:19.541662+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6926977+00:00",
-  "LastChanged_Achievements": "2024-01-04T12:06:28.3630448+00:00",
+  "LastChanged_Achievements": "2024-01-04T13:11:41.4870002+00:00",
   "LastUpdate_AppInfo": "2024-01-03T10:57:04.956852+00:00",
-  "LastUpdate_Ratings": "2024-01-04T12:00:27.3936148+00:00",
-  "LastUpdate_Achievements": "2024-01-04T12:06:28.3630759+00:00"
+  "LastUpdate_Ratings": "2024-01-04T13:06:22.0430879+00:00",
+  "LastUpdate_Achievements": "2024-01-04T13:11:41.4870203+00:00"
 }

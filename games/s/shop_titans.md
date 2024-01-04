@@ -6,17 +6,17 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 10.00% | ~14,930 |
-| Titan's First Steps | 10.00% | ~14,930 |
-| Basic in Bulk | 9.00% | ~13,437 |
-| Tinkle of Coins | 9.00% | ~13,437 |
-| Disintermediation | 7.00% | ~10,451 |
-| Capitalism Ho! | 7.00% | ~10,451 |
+| Sponsored by Argon | 10.00% | ~14,931 |
+| Titan's First Steps | 10.00% | ~14,931 |
+| Basic in Bulk | 9.00% | ~13,438 |
+| Tinkle of Coins | 9.00% | ~13,438 |
+| Disintermediation | 7.00% | ~10,452 |
+| Capitalism Ho! | 7.00% | ~10,452 |
+| Another Satisfied Customer | 6.00% | ~8,958 |
 | It's Free Real Estate | 6.00% | ~8,958 |
 | Budding Merchant | 6.00% | ~8,958 |
 | One Easy Payment | 5.00% | ~7,465 |
 | Some Assembly Required | 5.00% | ~7,465 |
-| Another Satisfied Customer | 5.00% | ~7,465 |
 | Pretty Penny | 5.00% | ~7,465 |
 | One-Armed Bandit | 5.00% | ~7,465 |
 | Own the Means of Production | 5.00% | ~7,465 |
@@ -113,13 +113,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Unleashed Potential | 0.70% | ~1,045 |
 | JACKPOT!!! | 0.70% | ~1,045 |
 | Ultimate Collector | 0.60% | ~896 |
-| Oligarch Monarch | 0.50% | ~746 |
-| Merchant Extraordinaire | 0.50% | ~746 |
+| Oligarch Monarch | 0.50% | ~747 |
+| Merchant Extraordinaire | 0.50% | ~747 |
 | To Hell and Back | 0.40% | ~597 |
 | Cash Only Please | 0.40% | ~597 |
 | Capitalist Camaraderie | 0.20% | ~299 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 149,299 (Ranked 86)  
+Progressed: 149,308 (Ranked 86)  
 Completed: 342 (0.23%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -378,10 +378,10 @@ Completed: 342 (0.23%) (Ranked 268)
 | 2024-01-01 | 148,903 | 340 |
 | 2024-01-02 | 149,077 | 341 |
 | 2024-01-03 | 149,238 | 342 |
-| 2024-01-04 | 149,299 | 342 |
+| 2024-01-04 | 149,308 | 342 |
 ## Awards
 Max (Great for Beginners): 4,940  (Ranked 78)  
-Sum: 27,918 (Ranked 52)  
+Sum: 27,919 (Ranked 52)  
 Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
@@ -391,7 +391,7 @@ Diff (max vs sum): 26
 | This game has Diverse Characters | 4,020 |
 | This game is Highly Recommended | 3,813 |
 | This game has Easy Combat | 3,766 |
-| This game has Playful Visuals | 3,241 |
+| This game has Playful Visuals | 3,242 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -734,3 +734,4 @@ Diff (max vs sum): 26
 | 2024-01-01 | 3.99 | - | 4,934 | 27,894 |
 | 2024-01-02 | 3.99 | - | 4,937 | 27,905 |
 | 2024-01-03 | 3.99 | - | 4,940 | 27,918 |
+| 2024-01-04 | 3.99 | - | 4,940 | 27,919 |

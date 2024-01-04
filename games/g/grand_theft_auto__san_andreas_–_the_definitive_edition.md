@@ -1,24 +1,24 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.54 (Ranked 543)  
+Rating: 4.54 (Ranked 544)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~14,787 |
-| Pay 'n' Spray | 50.00% | ~9,128 |
-| All Dressed Up for San Fierro | 25.00% | ~4,564 |
+| Getting Started | 81.00% | ~14,790 |
+| Pay 'n' Spray | 50.00% | ~9,130 |
+| All Dressed Up for San Fierro | 25.00% | ~4,565 |
 | The American Dream | 19.00% | ~3,469 |
-| School's Out | 18.00% | ~3,286 |
+| School's Out | 18.00% | ~3,287 |
 | Smooth Moves | 17.00% | ~3,104 |
-| Today Was a Good Day | 15.00% | ~2,738 |
+| Today Was a Good Day | 15.00% | ~2,739 |
 | What happens in Las Venturas... | 14.00% | ~2,556 |
 | Horror of the Santa Maria | 10.00% | ~1,826 |
 | Liberty City State of Mind | 9.00% | ~1,643 |
-| Original Gangster | 8.00% | ~1,460 |
+| Original Gangster | 8.00% | ~1,461 |
 | With Extra Dip | 7.00% | ~1,278 |
 | The End of the Line | 7.00% | ~1,278 |
-| Saviour | 6.00% | ~1,095 |
+| Saviour | 6.00% | ~1,096 |
 | Rescue a Kitten Too? | 5.00% | ~913 |
 | They Can’t Stop All of Us | 4.00% | ~730 |
 | What are the Odds | 4.00% | ~730 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 543)
 | ...Here we go again | 0.50% | ~91 |
 | I Ain't No Buster | 0.40% | ~73 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,256 (Ranked 158)  
+Progressed: 18,259 (Ranked 158)  
 Completed: 72 (0.39%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,18 +300,18 @@ Completed: 72 (0.39%) (Ranked 234)
 | 2024-01-01 | 17,956 | 69 |
 | 2024-01-02 | 18,093 | 70 |
 | 2024-01-03 | 18,207 | 71 |
-| 2024-01-04 | 18,256 | 72 |
+| 2024-01-04 | 18,259 | 72 |
 ## Awards
 Max (Amazing Characters): 52  (Ranked 441)  
-Sum: 332 (Ranked 372)  
-Diff (max vs sum): 69  
+Sum: 335 (Ranked 371)  
+Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 557 |
 | This game has Amazing Characters | 52 |
 | This game is Relaxing | 49 |
+| This game has Amazing Storytelling | 45 |
 | This game is Great for Beginners | 45 |
-| This game has Amazing Storytelling | 42 |
 | This game is Highly Recommended | 42 |
 | This game has Quickly Understood Controls | 35 |
 | This game has Diverse Characters | 34 |
@@ -540,4 +540,4 @@ Diff (max vs sum): 69
 | 2024-01-01 | 4.55 | 49 | 320 |
 | 2024-01-02 | 4.55 | 49 | 324 |
 | 2024-01-03 | 4.55 | 50 | 330 |
-| 2024-01-04 | 4.54 | 52 | 332 |
+| 2024-01-04 | 4.54 | 52 | 335 |

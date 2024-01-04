@@ -3755,9 +3755,9 @@
       "Count": 338
     }
   ],
-  "EOS_Progressed": 20098,
+  "EOS_Progressed": 20104,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 602,
+  "EOS_NewPlayers": 603,
   "EOS_NewCompleters": -3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -18375,6 +18375,11 @@
       "Time": "2024-01-04T12:05:24.9211374+00:00",
       "NumProgressed": 20098,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2024-01-04T13:09:30.8463137+00:00",
+      "NumProgressed": 20104,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -18851,22 +18856,22 @@
       "Name": "Fox Utopia",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     }
   ],
   "AchievementSets": [
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20098,
+      "Progressed": 20104,
       "Completed": 33
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-04T11:00:22.1106036+00:00",
-  "LastChanged_Achievements": "2024-01-04T12:05:24.9211367+00:00",
+  "LastChanged_Achievements": "2024-01-04T13:09:30.8463134+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:03.5085053+00:00",
-  "LastUpdate_Ratings": "2024-01-04T11:59:05.3472304+00:00",
-  "LastUpdate_Achievements": "2024-01-04T12:05:24.9212646+00:00"
+  "LastUpdate_Ratings": "2024-01-04T13:03:01.4494483+00:00",
+  "LastUpdate_Achievements": "2024-01-04T13:09:30.8464024+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "Invincible Presents: Atom Eve",
   "ProductSlug": "atom-eve-ff090d",
   "Ranking_Rating": 875,
-  "Ranking_Popularity": 577,
-  "Ranking_PopularitySum": 577,
+  "Ranking_Popularity": 578,
+  "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -175,7 +175,7 @@
   "Tags": [],
   "EOS_Progressed": 16344,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 337,
+  "EOS_NewPlayers": 336,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -6122,8 +6122,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2024-01-03T15:58:59.1983822+00:00",
-  "LastChanged_Achievements": "2024-01-04T12:09:16.838754+00:00",
+  "LastChanged_Achievements": "2024-01-04T13:13:08.3742933+00:00",
   "LastUpdate_AppInfo": "2024-01-02T18:57:14.4864444+00:00",
-  "LastUpdate_Ratings": "2024-01-04T11:59:28.008368+00:00",
-  "LastUpdate_Achievements": "2024-01-04T12:09:16.8387984+00:00"
+  "LastUpdate_Ratings": "2024-01-04T13:03:26.4409258+00:00",
+  "LastUpdate_Achievements": "2024-01-04T13:13:08.3743448+00:00"
 }

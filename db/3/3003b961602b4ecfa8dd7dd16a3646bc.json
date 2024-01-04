@@ -4,7 +4,7 @@
   "ProductSlug": "horse-club-adventures-19e7a0",
   "Ranking_EOS_Progress": 508,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 457,
+  "Ranking_EOS_NewPlayers": 456,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-06-28T22:00:00+00:00",
@@ -489,9 +489,9 @@
       "ID": "ACH_13_TREASUREHUNTER",
       "SetID": "9dl0ei6",
       "Name": "Treasure Hunter",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_14_HORSECLUB",
@@ -521,9 +521,9 @@
       "ID": "ACH_17_PICNIC",
       "SetID": "9dl0ei6",
       "Name": "Picnic",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_18_MIA",
@@ -616,8 +616,8 @@
   ],
   "FirstSeen": "2023-07-12T17:57:50.452035+00:00",
   "FirstSeenAchievements": "2023-06-18T14:01:38.8947903+00:00",
-  "LastChanged_Achievements": "2024-01-04T12:09:45.4150341+00:00",
+  "LastChanged_Achievements": "2024-01-04T13:13:40.255928+00:00",
   "LastUpdate_AppInfo": "2024-01-01T02:57:07.1307099+00:00",
-  "LastUpdate_Ratings": "2024-01-04T11:59:14.9214023+00:00",
-  "LastUpdate_Achievements": "2024-01-04T12:09:45.4150923+00:00"
+  "LastUpdate_Ratings": "2024-01-04T13:03:11.0164076+00:00",
+  "LastUpdate_Achievements": "2024-01-04T13:13:40.2559443+00:00"
 }

@@ -1,17 +1,17 @@
 # VALORANT
 [Store](https://store.epicgames.com/en-US/p/valorant)  
 [View Rawdata](../../db/v/valorant.json)  
-Rating: 4.52 (Ranked 573)  
+Rating: 4.52 (Ranked 574)  
 Number of Ratings: 157,172  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 90,988  (Ranked 10)  
-Sum: 649,357 (Ranked 6)  
+Sum: 649,493 (Ranked 6)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 90,988 |
 | This game has Challenging Combat | 75,452 |
-| This game is Highly Recommended | 72,486 |
+| This game is Highly Recommended | 72,622 |
 | This game has Amazing Characters | 71,370 |
 | This game has a Competitive Community | 69,641 |
 | This game has Competitive Players | 69,235 |
@@ -366,4 +366,4 @@ Diff (max vs sum): 4
 | 2024-01-01 | 4.52 | - | 90,604 | 646,135 |
 | 2024-01-02 | 4.52 | - | 90,786 | 647,371 |
 | 2024-01-03 | 4.52 | - | 90,988 | 648,669 |
-| 2024-01-04 | 4.52 | - | 90,988 | 649,357 |
+| 2024-01-04 | 4.52 | - | 90,988 | 649,493 |

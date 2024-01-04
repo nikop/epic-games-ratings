@@ -717,9 +717,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6814,
+  "EOS_Progressed": 6816,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 430,
+  "EOS_NewPlayers": 429,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10317,6 +10317,11 @@
       "Time": "2024-01-04T12:03:26.9410765+00:00",
       "NumProgressed": 6814,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-04T13:07:18.4716725+00:00",
+      "NumProgressed": 6816,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10462,9 +10467,9 @@
       "ID": "25",
       "SetID": "3aa2279",
       "Name": "Walls Cannot Stop Us",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 750
+      "UsersEstimate": 818
     },
     {
       "ID": "26",
@@ -10488,7 +10493,7 @@
       "Name": "From Friends to Family",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "29",
@@ -10518,9 +10523,9 @@
       "ID": "31",
       "SetID": "3aa2279",
       "Name": "Magical Synergy",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 477
+      "UsersEstimate": 545
     },
     {
       "ID": "32",
@@ -10807,13 +10812,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6814,
+      "Progressed": 6816,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6814,
+      "Progressed": 6816,
       "Completed": 7
     }
   ],
@@ -10821,8 +10826,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-03T13:04:27.6429549+00:00",
-  "LastChanged_Achievements": "2024-01-04T12:03:26.941076+00:00",
+  "LastChanged_Achievements": "2024-01-04T13:07:18.4716721+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-04T12:00:26.6961628+00:00",
-  "LastUpdate_Achievements": "2024-01-04T12:03:26.9411652+00:00"
+  "LastUpdate_Ratings": "2024-01-04T13:06:21.3235895+00:00",
+  "LastUpdate_Achievements": "2024-01-04T13:07:18.4717617+00:00"
 }
