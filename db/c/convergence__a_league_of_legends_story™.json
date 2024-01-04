@@ -51,7 +51,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1219,
+  "EOS_Progressed": 1220,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
@@ -3571,6 +3571,11 @@
       "Time": "2024-01-04T06:11:08.8899308+00:00",
       "NumProgressed": 1219,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-04T11:11:30.1540526+00:00",
+      "NumProgressed": 1220,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3590,7 +3595,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -3654,7 +3659,7 @@
       "Name": "Street Style",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "CultivairChests1",
@@ -3718,7 +3723,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "GadgetCompletion1",
@@ -3742,7 +3747,7 @@
       "Name": "Rail Rat",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "HexlockGift",
@@ -3782,7 +3787,7 @@
       "Name": "Cartographer",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "NoCritterSump",
@@ -3846,7 +3851,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -3870,7 +3875,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "RewindParry",
@@ -3958,7 +3963,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "WarwickDefeated",
@@ -3974,7 +3979,7 @@
       "Name": "Ask Questions Later",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "WatcherSpared",
@@ -3998,14 +4003,14 @@
       "Name": "The Family Fortune",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1219,
+      "Progressed": 1220,
       "Completed": 6
     }
   ],
@@ -4013,8 +4018,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2024-01-04T10:10:18.0616667+00:00",
+  "LastChanged_Achievements": "2024-01-04T11:11:30.1540522+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:23.9308133+00:00",
-  "LastUpdate_Ratings": "2024-01-04T10:03:07.8539146+00:00",
-  "LastUpdate_Achievements": "2024-01-04T10:10:18.061718+00:00"
+  "LastUpdate_Ratings": "2024-01-04T11:03:32.3901352+00:00",
+  "LastUpdate_Achievements": "2024-01-04T11:11:30.1541134+00:00"
 }

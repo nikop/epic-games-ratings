@@ -4,7 +4,7 @@
   "ProductSlug": "iratus-d0e5ba",
   "Ranking_Rating": 799,
   "Ranking_Popularity": 114,
-  "Ranking_PopularitySum": 158,
+  "Ranking_PopularitySum": 159,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 142,
@@ -2467,9 +2467,9 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 48608,
+  "EOS_Progressed": 48609,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 566,
+  "EOS_NewPlayers": 565,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -30657,6 +30657,11 @@
       "Time": "2024-01-04T10:05:00.5929133+00:00",
       "NumProgressed": 48608,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2024-01-04T11:06:22.0236414+00:00",
+      "NumProgressed": 48609,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 75,
@@ -30732,7 +30737,7 @@
       "Name": "Bane of Monsters",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 13610
+      "UsersEstimate": 13611
     },
     {
       "ID": "achievements_2",
@@ -30780,7 +30785,7 @@
       "Name": "Chainbreaker - II",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 26734
+      "UsersEstimate": 26735
     },
     {
       "ID": "achievements_25",
@@ -30788,7 +30793,7 @@
       "Name": "Chainbreaker - III",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 13610
+      "UsersEstimate": 13611
     },
     {
       "ID": "achievements_26",
@@ -30796,7 +30801,7 @@
       "Name": "Mountain King - I",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 19929
+      "UsersEstimate": 19930
     },
     {
       "ID": "achievements_27",
@@ -30804,7 +30809,7 @@
       "Name": "Mountain King - II",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 18957
+      "UsersEstimate": 18958
     },
     {
       "ID": "achievements_28",
@@ -30836,7 +30841,7 @@
       "Name": "Bane of Mercenaries - II",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 15068
+      "UsersEstimate": 15069
     },
     {
       "ID": "achievements_31",
@@ -30860,7 +30865,7 @@
       "Name": "Cannon Fodder - II",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 14096
+      "UsersEstimate": 14097
     },
     {
       "ID": "achievements_34",
@@ -30876,7 +30881,7 @@
       "Name": "Means of Recovery",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2916
+      "UsersEstimate": 2917
     },
     {
       "ID": "achievements_36",
@@ -30916,7 +30921,7 @@
       "Name": "Path of the Necromancer",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 31595
+      "UsersEstimate": 31596
     },
     {
       "ID": "achievements_40",
@@ -30972,7 +30977,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 41317
+      "UsersEstimate": 41318
     },
     {
       "ID": "achievements_47",
@@ -30988,7 +30993,7 @@
       "Name": "Master of Magic",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 2916
+      "UsersEstimate": 2917
     },
     {
       "ID": "achievements_49",
@@ -31020,7 +31025,7 @@
       "Name": "Prepared Necromancer",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 19443
+      "UsersEstimate": 19444
     },
     {
       "ID": "achievements_52",
@@ -31028,7 +31033,7 @@
       "Name": "Transmutation",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 20415
+      "UsersEstimate": 20416
     },
     {
       "ID": "achievements_53",
@@ -31044,7 +31049,7 @@
       "Name": "Distillation",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 20901
+      "UsersEstimate": 20902
     },
     {
       "ID": "achievements_55",
@@ -31244,7 +31249,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 35484
+      "UsersEstimate": 35485
     },
     {
       "ID": "achievements_8",
@@ -31252,7 +31257,7 @@
       "Name": "Shadow Between Worlds",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 14096
+      "UsersEstimate": 14097
     },
     {
       "ID": "achievements_9",
@@ -31260,22 +31265,22 @@
       "Name": "Blood Mage",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 8263
+      "UsersEstimate": 8264
     }
   ],
   "AchievementSets": [
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 48608,
+      "Progressed": 48609,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-12-31T16:59:00.6586228+00:00",
-  "LastChanged_Achievements": "2024-01-04T10:05:00.592913+00:00",
+  "LastChanged_Achievements": "2024-01-04T11:06:22.0236406+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:18.237307+00:00",
-  "LastUpdate_Ratings": "2024-01-04T10:02:58.8049071+00:00",
-  "LastUpdate_Achievements": "2024-01-04T10:05:00.5930966+00:00"
+  "LastUpdate_Ratings": "2024-01-04T11:03:18.2534146+00:00",
+  "LastUpdate_Achievements": "2024-01-04T11:06:22.0238432+00:00"
 }

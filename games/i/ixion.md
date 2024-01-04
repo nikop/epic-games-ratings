@@ -5,22 +5,22 @@ Rating: 4.58 (Ranked 466)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 32.00% | ~1,262 |
-| Sputnik 2049 | 28.00% | ~1,104 |
-| Infinite Growth... | 27.00% | ~1,065 |
-| Without Breaking Some Eggs... | 26.00% | ~1,025 |
-| Ready for a New World | 19.00% | ~749 |
+| Wakey Wakey | 32.00% | ~1,263 |
+| Sputnik 2049 | 28.00% | ~1,105 |
+| Infinite Growth... | 27.00% | ~1,066 |
+| Without Breaking Some Eggs... | 26.00% | ~1,026 |
 | Space Society | 18.00% | ~710 |
 | A Thousand Strong | 18.00% | ~710 |
-| Permanent Redesigns | 16.00% | ~631 |
+| Ready for a New World | 18.00% | ~710 |
+| Permanent Redesigns | 16.00% | ~632 |
 | Fully Recycled | 15.00% | ~592 |
 | The Ship of Theseus | 15.00% | ~592 |
-| Guy de Borderlands | 14.00% | ~552 |
-| Ain't Nobody Got Time for That | 14.00% | ~552 |
+| Guy de Borderlands | 14.00% | ~553 |
+| Ain't Nobody Got Time for That | 14.00% | ~553 |
 | Hope Seeker | 13.00% | ~513 |
-| A Hunk of Junk | 12.00% | ~473 |
-| Exceeding Capacity | 12.00% | ~473 |
-| Breaking Protocol | 12.00% | ~473 |
+| A Hunk of Junk | 12.00% | ~474 |
+| Exceeding Capacity | 12.00% | ~474 |
+| Breaking Protocol | 12.00% | ~474 |
 | Man's Best Friend | 9.00% | ~355 |
 | Power Outage | 9.00% | ~355 |
 | Please Make it Stop! | 9.00% | ~355 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 466)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,944 (Ranked 211)  
+Progressed: 3,947 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-01 | 3,888 | 0 |
 | 2024-01-02 | 3,912 | 0 |
 | 2024-01-03 | 3,940 | 0 |
-| 2024-01-04 | 3,944 | 0 |
+| 2024-01-04 | 3,947 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1424,
+  "EOS_Progressed": 1425,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.46,
   "EosHistory": [
@@ -4925,6 +4925,11 @@
       "Time": "2024-01-04T07:03:44.3970125+00:00",
       "NumProgressed": 1424,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-04T11:04:51.7498882+00:00",
+      "NumProgressed": 1425,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4937,7 +4942,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -4945,7 +4950,7 @@
       "Name": "A New Journey",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 968
+      "UsersEstimate": 969
     },
     {
       "ID": "_03_FinishAct1",
@@ -4969,7 +4974,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -5017,7 +5022,7 @@
       "Name": "Seadog",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "_12_Completion_50",
@@ -5144,7 +5149,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1424,
+      "Progressed": 1425,
       "Completed": 35
     }
   ],
@@ -5152,8 +5157,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-03T10:02:59.9033308+00:00",
-  "LastChanged_Achievements": "2024-01-04T10:03:58.6851716+00:00",
+  "LastChanged_Achievements": "2024-01-04T11:04:51.7498877+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.1530944+00:00",
-  "LastUpdate_Ratings": "2024-01-04T09:57:38.3609026+00:00",
-  "LastUpdate_Achievements": "2024-01-04T10:03:58.6852152+00:00"
+  "LastUpdate_Ratings": "2024-01-04T10:57:47.3221656+00:00",
+  "LastUpdate_Achievements": "2024-01-04T11:04:51.7499323+00:00"
 }

@@ -717,9 +717,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6812,
+  "EOS_Progressed": 6813,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 431,
+  "EOS_NewPlayers": 430,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10307,6 +10307,11 @@
       "Time": "2024-01-04T09:03:36.9961297+00:00",
       "NumProgressed": 6812,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-04T11:04:25.8476753+00:00",
+      "NumProgressed": 6813,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10366,7 +10371,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "16",
@@ -10438,7 +10443,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "24",
@@ -10470,7 +10475,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "28",
@@ -10518,7 +10523,7 @@
       "Name": "My Final Form",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "33",
@@ -10574,7 +10579,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "4",
@@ -10654,7 +10659,7 @@
       "Name": "Betrayal Most Foul",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "9",
@@ -10686,7 +10691,7 @@
       "Name": "Duality",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "48",
@@ -10797,13 +10802,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6812,
+      "Progressed": 6813,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6812,
+      "Progressed": 6813,
       "Completed": 7
     }
   ],
@@ -10811,8 +10816,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-03T13:04:27.6429549+00:00",
-  "LastChanged_Achievements": "2024-01-04T10:03:40.9789611+00:00",
+  "LastChanged_Achievements": "2024-01-04T11:04:25.8476749+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-04T10:00:39.5933761+00:00",
-  "LastUpdate_Achievements": "2024-01-04T10:03:40.9790692+00:00"
+  "LastUpdate_Ratings": "2024-01-04T11:02:28.1534881+00:00",
+  "LastUpdate_Achievements": "2024-01-04T11:04:25.8477921+00:00"
 }

@@ -8,8 +8,8 @@
 | Little ideas | 73.00% | ~65 |
 | The Ship | 70.00% | ~62 |
 | Seeking the truth | 56.00% | ~50 |
-| An old friend | 53.00% | ~47 |
-| The Gala | 52.00% | ~46 |
+| An old friend | 54.00% | ~48 |
+| The Gala | 53.00% | ~47 |
 | A curious gathering | 49.00% | ~44 |
 | Little grey cells | 47.00% | ~42 |
 | Impossible is possible | 46.00% | ~41 |
@@ -52,7 +52,7 @@
 | Perkins | 7.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 89 (Ranked 500)  
-Completed: 3 (3.37%) (Ranked 104)  
+Completed: 3 (3.37%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

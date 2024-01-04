@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -353,7 +353,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24686,
+  "EOS_Progressed": 24687,
   "EOS_Completed": 118,
   "EOS_NewPlayers": 466,
   "EOS_NewCompleters": 0,
@@ -22058,6 +22058,11 @@
       "Time": "2024-01-04T10:06:31.7769339+00:00",
       "NumProgressed": 24686,
       "NumCompleted": 118
+    },
+    {
+      "Time": "2024-01-04T11:08:31.9077663+00:00",
+      "NumProgressed": 24687,
+      "NumCompleted": 118
     }
   ],
   "TotalAchievements": 16,
@@ -22077,7 +22082,7 @@
       "Name": "Burning For You",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 6418
+      "UsersEstimate": 6419
     },
     {
       "ID": "Deadline",
@@ -22101,7 +22106,7 @@
       "Name": "Eyes On Fire",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 2715
+      "UsersEstimate": 2716
     },
     {
       "ID": "Feel_The_Thunder",
@@ -22165,7 +22170,7 @@
       "Name": "Shooting Shark",
       "Percentage": 47,
       "XP": 90,
-      "UsersEstimate": 11602
+      "UsersEstimate": 11603
     },
     {
       "ID": "Sole_Survivor",
@@ -22196,15 +22201,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 24686,
+      "Progressed": 24687,
       "Completed": 118
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-12-26T13:00:27.7460321+00:00",
-  "LastChanged_Achievements": "2024-01-04T10:06:31.7769335+00:00",
+  "LastChanged_Achievements": "2024-01-04T11:08:31.9077658+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:56.3485527+00:00",
-  "LastUpdate_Ratings": "2024-01-04T09:58:42.8811759+00:00",
-  "LastUpdate_Achievements": "2024-01-04T10:06:31.7770401+00:00"
+  "LastUpdate_Ratings": "2024-01-04T10:59:29.1487268+00:00",
+  "LastUpdate_Achievements": "2024-01-04T11:08:31.9078839+00:00"
 }

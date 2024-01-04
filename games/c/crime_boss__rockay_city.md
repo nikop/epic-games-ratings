@@ -5,9 +5,9 @@ Rating: 3.96 (Ranked 1,053)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Neophyte Ninja | 4.00% | ~3,718 |
-| First One’s Free | 4.00% | ~3,718 |
-| Downed but Not Outed | 4.00% | ~3,718 |
+| Neophyte Ninja | 4.00% | ~3,719 |
+| First One’s Free | 4.00% | ~3,719 |
+| Downed but Not Outed | 4.00% | ~3,719 |
 | Too Old for This | 3.00% | ~2,789 |
 | Fancy Pants | 3.00% | ~2,789 |
 | Underworld Initiate | 2.00% | ~1,859 |
@@ -27,10 +27,10 @@ Rating: 3.96 (Ranked 1,053)
 | Legend Looter | 0.60% | ~558 |
 | Foo Finder | 0.60% | ~558 |
 | Moneybags | 0.60% | ~558 |
+| Olympus Ascended | 0.60% | ~558 |
 | Ding Dong | 0.60% | ~558 |
 | Imports and Exports | 0.50% | ~465 |
 | Savvy Seeker | 0.50% | ~465 |
-| Olympus Ascended | 0.50% | ~465 |
 | All that Glitters | 0.50% | ~107 |
 | Rockay Raider | 0.40% | ~372 |
 | Groundhog Days | 0.40% | ~372 |
@@ -47,7 +47,7 @@ Rating: 3.96 (Ranked 1,053)
 | Full House | 0.10% | ~93 |
 | Geek Out | 0.10% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92,962 (Ranked 101)  
+Progressed: 92,966 (Ranked 101)  
 Completed: 58 (0.06%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 58 (0.06%) (Ranked 327)
 | 2024-01-01 | 92,863 | 58 |
 | 2024-01-02 | 92,910 | 58 |
 | 2024-01-03 | 92,944 | 58 |
-| 2024-01-04 | 92,962 | 58 |
+| 2024-01-04 | 92,966 | 58 |
 ## Awards
 Max (Diverse Characters): 590  (Ranked 210)  
 Sum: 2,782 (Ranked 192)  

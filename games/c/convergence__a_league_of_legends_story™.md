@@ -5,10 +5,10 @@ Rating: 4.65 (Ranked 320)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 44.00% | ~536 |
-| Rail Rat | 33.00% | ~402 |
+| Time Heals All Wounds | 44.00% | ~537 |
+| Rail Rat | 33.00% | ~403 |
 | The Mysterious Stranger | 32.00% | ~390 |
-| Immaculate Aim | 28.00% | ~341 |
+| Immaculate Aim | 28.00% | ~342 |
 | The Brass Boss | 27.00% | ~329 |
 | Time Flies | 26.00% | ~317 |
 | Make Up For Lost Time | 25.00% | ~305 |
@@ -18,8 +18,8 @@ Rating: 4.65 (Ranked 320)
 | Honest Mistake | 25.00% | ~305 |
 | Immaculate Aim | 25.00% | ~305 |
 | Fast Learner | 24.00% | ~293 |
-| The Steel Shadow | 23.00% | ~280 |
-| Breaking Down Barriers | 23.00% | ~280 |
+| The Steel Shadow | 23.00% | ~281 |
+| Breaking Down Barriers | 23.00% | ~281 |
 | Right On Time | 22.00% | ~268 |
 | The Wicked Twins | 22.00% | ~268 |
 | Like Clockwork | 21.00% | ~256 |
@@ -27,14 +27,14 @@ Rating: 4.65 (Ranked 320)
 | Golem Chaser | 21.00% | ~256 |
 | Check Your Pulse | 20.00% | ~244 |
 | The Loose Cannon | 19.00% | ~232 |
-| Street Style | 18.00% | ~219 |
-| The Man Who Shattered Time | 18.00% | ~219 |
-| The Family Fortune | 18.00% | ~219 |
+| Street Style | 18.00% | ~220 |
+| The Man Who Shattered Time | 18.00% | ~220 |
+| The Family Fortune | 18.00% | ~220 |
 | Whiz Kid | 15.00% | ~183 |
 | Family Memories | 14.00% | ~171 |
 | Good Neighbor | 14.00% | ~171 |
-| Cartographer | 13.00% | ~158 |
-| Ask Questions Later | 13.00% | ~158 |
+| Cartographer | 13.00% | ~159 |
+| Ask Questions Later | 13.00% | ~159 |
 | Chaincrawler Explorer | 12.00% | ~146 |
 | Treasure Trove | 12.00% | ~146 |
 | Syron for Hope | 12.00% | ~146 |
@@ -59,7 +59,7 @@ Rating: 4.65 (Ranked 320)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,219 (Ranked 280)  
+Progressed: 1,220 (Ranked 280)  
 Completed: 6 (0.49%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 6 (0.49%) (Ranked 220)
 | 2024-01-01 | 1,190 | 6 |
 | 2024-01-02 | 1,201 | 6 |
 | 2024-01-03 | 1,216 | 6 |
-| 2024-01-04 | 1,219 | 6 |
+| 2024-01-04 | 1,220 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

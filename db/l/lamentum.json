@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 410,
+  "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-05-12T16:00:00+00:00",
@@ -78,11 +78,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 344,
+  "EOS_Progressed": 345,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.62,
+  "EOS_Completed_Percentage": 2.61,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:34.4947976+00:00",
@@ -473,6 +473,11 @@
       "Time": "2024-01-03T17:06:51.311045+00:00",
       "NumProgressed": 344,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-04T11:08:46.3174288+00:00",
+      "NumProgressed": 345,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 19,
@@ -556,15 +561,15 @@
       "Name": "Grau Hill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "achievement_10",
       "SetID": "7881h0d",
       "Name": "The creature",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 275
+      "UsersEstimate": 273
     },
     {
       "ID": "achievement_11",
@@ -572,7 +577,7 @@
       "Name": "A forgotten language",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "achievement_12",
@@ -588,7 +593,7 @@
       "Name": "One step down",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "achievement_14",
@@ -612,15 +617,15 @@
       "Name": "The other side of the mirror",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "achievement_17",
       "SetID": "7881h0d",
       "Name": "Little Mary",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 48
     },
     {
       "ID": "achievement_18",
@@ -635,7 +640,7 @@
     {
       "ID": "7881h0d",
       "IsBase": true,
-      "Progressed": 344,
+      "Progressed": 345,
       "Completed": 9
     }
   ],
@@ -643,8 +648,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-12-19T15:00:52.3248594+00:00",
-  "LastChanged_Achievements": "2024-01-04T10:06:41.7356308+00:00",
+  "LastChanged_Achievements": "2024-01-04T11:08:46.3174283+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:31.5419716+00:00",
-  "LastUpdate_Ratings": "2024-01-04T09:57:32.1519138+00:00",
-  "LastUpdate_Achievements": "2024-01-04T10:06:41.7356694+00:00"
+  "LastUpdate_Ratings": "2024-01-04T10:57:39.227066+00:00",
+  "LastUpdate_Achievements": "2024-01-04T11:08:46.317445+00:00"
 }

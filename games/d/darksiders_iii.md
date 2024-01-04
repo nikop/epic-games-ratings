@@ -1,14 +1,14 @@
 # Darksiders III
 [Store](https://store.epicgames.com/en-US/p/darksiders3)  
 [View Rawdata](../../db/d/darksiders_iii.json)  
-Rating: 4.48 (Ranked 651)  
+Rating: 4.48 (Ranked 652)  
 Number of Ratings: 116  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Green with Envy | 77.00% | ~318 |
 | First of many… | 67.00% | ~277 |
-| Helping Hand | 63.00% | ~260 |
+| Helping Hand | 64.00% | ~264 |
 | Increased Vigor | 59.00% | ~244 |
 | Fight Fire with Fire | 57.00% | ~235 |
 | Increased Capacity | 54.00% | ~223 |
@@ -20,7 +20,7 @@ Number of Ratings: 116  (23.09.2022)
 | Throne Potato | 38.00% | ~157 |
 | Devil's in the Details | 37.00% | ~153 |
 | Five's a Crowd | 37.00% | ~153 |
-| 25 to Life | 36.00% | ~149 |
+| 25 to Life | 37.00% | ~153 |
 | Soul Harvester | 35.00% | ~145 |
 | Salvation | 35.00% | ~145 |
 | Unshakable Fortitude | 33.00% | ~136 |
@@ -45,7 +45,7 @@ Number of Ratings: 116  (23.09.2022)
 | Community Outreach | 15.00% | ~62 |
 | A Parting Gift | 13.00% | ~54 |
 | Unbreakable Will | 12.00% | ~50 |
-| Path of the Horseman | 11.00% | ~45 |
+| Path of the Horseman | 12.00% | ~50 |
 | Take it to the Limit | 11.00% | ~45 |
 | Holy Keeper | 10.00% | ~41 |
 | Demon Keeper | 10.00% | ~41 |

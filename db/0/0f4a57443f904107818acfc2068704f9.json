@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1246,
+  "EOS_Progressed": 1247,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 173,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3157,6 +3157,11 @@
       "Time": "2024-01-04T10:08:47.0687222+00:00",
       "NumProgressed": 1246,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-04T11:09:20.9214046+00:00",
+      "NumProgressed": 1247,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -3225,7 +3230,7 @@
       "Name": "Pathfinder",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "CompleteChapter10",
@@ -3361,7 +3366,7 @@
       "Name": "Troggoff Troubles",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "CompleteChapter9",
@@ -3369,7 +3374,7 @@
       "Name": "Ingredients List",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "CompleteConquestKruleboyz",
@@ -3464,14 +3469,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 1246,
+      "Progressed": 1247,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2024-01-04T10:08:47.0687215+00:00",
+  "LastChanged_Achievements": "2024-01-04T11:09:20.9214041+00:00",
   "LastUpdate_AppInfo": "2023-12-29T09:57:13.5043463+00:00",
-  "LastUpdate_Ratings": "2024-01-04T10:00:17.4477128+00:00",
-  "LastUpdate_Achievements": "2024-01-04T10:08:47.0687594+00:00"
+  "LastUpdate_Ratings": "2024-01-04T11:01:54.7131914+00:00",
+  "LastUpdate_Achievements": "2024-01-04T11:09:20.9214582+00:00"
 }

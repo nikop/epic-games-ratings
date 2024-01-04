@@ -6,13 +6,13 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~7,522 |
-| Beast Intentions | 1.00% | ~2,507 |
-| The Cursed Farmer | 1.00% | ~2,507 |
-| The Mad Wizard | 1.00% | ~2,507 |
+| A Brief Tour of the Realms | 3.00% | ~7,523 |
+| Beast Intentions | 1.00% | ~2,508 |
+| The Cursed Farmer | 1.00% | ~2,508 |
+| The Mad Wizard | 1.00% | ~2,508 |
 | Welcome to Sigil | 0.80% | ~1,736 |
 | The Ring of Regeneration | 0.70% | ~1,755 |
-| Are Ya Chicken? | 0.60% | ~1,504 |
+| Are Ya Chicken? | 0.60% | ~1,505 |
 | Fast Food | 0.60% | ~1,302 |
 | Were-verpowered | 0.50% | ~1,254 |
 | Seeking Allies | 0.50% | ~1,254 |
@@ -37,20 +37,20 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 0.30% | ~752 |
 | The Contagious Curse | 0.30% | ~752 |
 | Welcome to the Vrocks | 0.30% | ~651 |
-| The Silken Swamp | 0.20% | ~501 |
-| Low Initiative | 0.20% | ~501 |
-| A Mysterious Summons | 0.20% | ~501 |
-| Building Trust | 0.20% | ~501 |
-| March of the Undead | 0.20% | ~501 |
-| No Time To Rest | 0.20% | ~501 |
-| Invisible Shadows | 0.20% | ~501 |
-| Useless Allies | 0.20% | ~501 |
-| Running of the Saurs | 0.20% | ~501 |
-| Escort to Waterdeep | 0.20% | ~501 |
-| Waterdeep Detours | 0.20% | ~501 |
-| Underdeep Cartography | 0.20% | ~501 |
-| Overdue Rendezvous | 0.20% | ~501 |
-| The Templar's Camp | 0.20% | ~501 |
+| The Silken Swamp | 0.20% | ~502 |
+| Low Initiative | 0.20% | ~502 |
+| A Mysterious Summons | 0.20% | ~502 |
+| Building Trust | 0.20% | ~502 |
+| March of the Undead | 0.20% | ~502 |
+| No Time To Rest | 0.20% | ~502 |
+| Invisible Shadows | 0.20% | ~502 |
+| Useless Allies | 0.20% | ~502 |
+| Running of the Saurs | 0.20% | ~502 |
+| Escort to Waterdeep | 0.20% | ~502 |
+| Waterdeep Detours | 0.20% | ~502 |
+| Underdeep Cartography | 0.20% | ~502 |
+| Overdue Rendezvous | 0.20% | ~502 |
+| The Templar's Camp | 0.20% | ~502 |
 | The Brains of an Illithid's Desire | 0.20% | ~434 |
 | Pros and CONs | 0.10% | ~251 |
 | Upholding the Law | 0.10% | ~251 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~217 |
 | A Wise Approach | 0.10% | ~217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,730 (Ranked 70)  
+Progressed: 250,751 (Ranked 70)  
 Completed: 2,590 (1.03%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -812,7 +812,7 @@ Completed: 2,590 (1.03%) (Ranked 170)
 | 2024-01-01 | 249,335 | 2,583 |
 | 2024-01-02 | 250,032 | 2,585 |
 | 2024-01-03 | 250,594 | 2,588 |
-| 2024-01-04 | 250,730 | 2,590 |
+| 2024-01-04 | 250,751 | 2,590 |
 ## Awards
 Max (Great for Beginners): 5,740  (Ranked 72)  
 Sum: 33,304 (Ranked 41)  

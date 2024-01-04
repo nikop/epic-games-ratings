@@ -5,22 +5,22 @@ Rating: 4.50 (Ranked 614)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start! | 88.00% | ~430 |
-| Vanquisher of Robots | 79.00% | ~386 |
-| Party | 51.00% | ~249 |
-| Impossible Cube | 45.00% | ~220 |
-| Through the Darkness | 45.00% | ~220 |
-| Knowledge is Power | 44.00% | ~215 |
-| No Mercy | 43.00% | ~210 |
+| Good start! | 88.00% | ~432 |
+| Vanquisher of Robots | 78.00% | ~383 |
+| Party | 50.00% | ~246 |
+| Impossible Cube | 45.00% | ~221 |
+| Knowledge is Power | 44.00% | ~216 |
+| Through the Darkness | 44.00% | ~216 |
+| No Mercy | 43.00% | ~211 |
 | The Return of a Rat | 40.00% | ~196 |
-| Fat of the Earth | 36.00% | ~176 |
+| Fat of the Earth | 36.00% | ~177 |
 | Last Man Standing | 31.00% | ~152 |
 | He's Seen It All | 28.00% | ~137 |
 | Great Hero | 28.00% | ~137 |
-| Campaigning | 27.00% | ~132 |
-| Rookie | 27.00% | ~132 |
-| Catch Jonathan_tostar | 26.00% | ~127 |
-| Assemble a Meganewbie | 24.00% | ~117 |
+| Rookie | 27.00% | ~133 |
+| Campaigning | 26.00% | ~128 |
+| Catch Jonathan_tostar | 26.00% | ~128 |
+| Assemble a Meganewbie | 24.00% | ~118 |
 | Frugal | 22.00% | ~108 |
 | Feed a God | 21.00% | ~103 |
 | To the Moon and Back | 20.00% | ~98 |
@@ -33,7 +33,7 @@ Rating: 4.50 (Ranked 614)
 | Experimentalist | 7.00% | ~34 |
 | Soldier | 7.00% | ~34 |
 | Wide Selection | 6.00% | ~29 |
-| Android Power | 5.00% | ~24 |
+| Android Power | 5.00% | ~25 |
 | Zombie Lover | 3.00% | ~15 |
 | Shopaholic | 2.00% | ~10 |
 | Munchkin | 2.00% | ~10 |
@@ -41,7 +41,7 @@ Rating: 4.50 (Ranked 614)
 | Vet | 0.80% | ~4 |
 | Real Achiever | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 489 (Ranked 345)  
+Progressed: 491 (Ranked 345)  
 Completed: 1 (0.20%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 1 (0.20%) (Ranked 272)
 | 2023-12-31 | 478 | 1 |
 | 2024-01-02 | 484 | 1 |
 | 2024-01-03 | 488 | 1 |
-| 2024-01-04 | 489 | 1 |
+| 2024-01-04 | 491 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

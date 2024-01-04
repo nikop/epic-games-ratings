@@ -11,9 +11,9 @@
 | The Fallen | 20.00% | ~131 |
 | Artifact Collector | 18.00% | ~118 |
 | Trap Master | 18.00% | ~118 |
-| Reincarnation | 15.00% | ~98 |
 | Ghost Buster | 14.00% | ~92 |
 | Iconoclasm | 14.00% | ~92 |
+| Reincarnation | 14.00% | ~92 |
 | Librarian | 12.00% | ~79 |
 | Orcs Must Die! | 12.00% | ~79 |
 | The End | 12.00% | ~79 |
@@ -45,7 +45,7 @@
 | Cryomancer | 0.30% | ~2 |
 | Hardboiled | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 655 (Ranked 326)  
+Progressed: 656 (Ranked 326)  
 Completed: 1 (0.15%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 1 (0.15%) (Ranked 287)
 | 2024-01-01 | 646 | 1 |
 | 2024-01-02 | 649 | 1 |
 | 2024-01-03 | 653 | 1 |
-| 2024-01-04 | 655 | 1 |
+| 2024-01-04 | 656 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

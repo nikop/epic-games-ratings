@@ -14,8 +14,8 @@
 | Hope | 28.00% | ~49 |
 | Path of Pain | 23.00% | ~40 |
 | Mayhem | 19.00% | ~33 |
+| The shining | 19.00% | ~33 |
 | Reflections | 18.00% | ~32 |
-| The shining | 18.00% | ~32 |
 | Clarity | 16.00% | ~28 |
 | Awaiting orders | 14.00% | ~25 |
 | Health | 14.00% | ~25 |
@@ -24,7 +24,7 @@
 | Peace | 10.00% | ~18 |
 | Lost | 8.00% | ~14 |
 | An act of courage | 7.00% | ~12 |
-| All knowing | 6.00% | ~11 |
+| All knowing | 7.00% | ~12 |
 | Corruption | 5.00% | ~9 |
 | An act of mercy | 4.00% | ~7 |
 | An act of compassion | 3.00% | ~5 |

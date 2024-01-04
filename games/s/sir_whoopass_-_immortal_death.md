@@ -36,10 +36,10 @@
 | You can't stop me, bro! | 36.00% | ~53 |
 | Karaoke king | 34.00% | ~50 |
 | Meatballs, coming up! | 33.00% | ~49 |
-| Catch the bus with me! | 32.00% | ~47 |
+| Catch the bus with me! | 33.00% | ~49 |
 | Another one bites the iron | 32.00% | ~47 |
 | I'm going to get a concussion | 31.00% | ~46 |
-| Ripe Meat Off The Bone! | 27.00% | ~40 |
+| Ripe Meat Off The Bone! | 28.00% | ~41 |
 | Kleptomaniac | 27.00% | ~40 |
 | A Megapint...? | 26.00% | ~38 |
 | Hovering around | 26.00% | ~38 |

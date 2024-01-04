@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -43,7 +43,7 @@
   "Tags": [],
   "EOS_Progressed": 763,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -2971,9 +2971,9 @@
       "ID": "ACHIEVEMENT_24_TentacleMan",
       "SetID": "9bke6f1",
       "Name": "TentacleMAN",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 61
+      "UsersEstimate": 69
     },
     {
       "ID": "ACHIEVEMENT_25_LoveAssistant",
@@ -3060,8 +3060,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2023-12-31T15:57:10.2736309+00:00",
-  "LastChanged_Achievements": "2024-01-04T10:09:19.6931982+00:00",
+  "LastChanged_Achievements": "2024-01-04T11:10:07.7884864+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.2091482+00:00",
-  "LastUpdate_Ratings": "2024-01-04T09:59:22.3249544+00:00",
-  "LastUpdate_Achievements": "2024-01-04T10:09:19.6932316+00:00"
+  "LastUpdate_Ratings": "2024-01-04T11:00:28.597069+00:00",
+  "LastUpdate_Achievements": "2024-01-04T11:10:07.7885227+00:00"
 }

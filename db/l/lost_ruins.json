@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewPlayers": 299,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 655,
+  "EOS_Progressed": 656,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1774,6 +1774,11 @@
       "Time": "2024-01-04T08:09:30.5665115+00:00",
       "NumProgressed": 655,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-04T11:11:28.2609881+00:00",
+      "NumProgressed": 656,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1983,9 +1988,9 @@
       "ID": "Reincarnation",
       "SetID": "82505mn",
       "Name": "Reincarnation",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 98
+      "UsersEstimate": 92
     },
     {
       "ID": "Roughneck",
@@ -2104,7 +2109,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 655,
+      "Progressed": 656,
       "Completed": 1
     }
   ],
@@ -2112,8 +2117,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2024-01-04T10:10:16.5908967+00:00",
+  "LastChanged_Achievements": "2024-01-04T11:11:28.2609878+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:03.2604081+00:00",
-  "LastUpdate_Ratings": "2024-01-04T09:58:24.9429617+00:00",
-  "LastUpdate_Achievements": "2024-01-04T10:10:16.5909366+00:00"
+  "LastUpdate_Ratings": "2024-01-04T10:59:00.7662048+00:00",
+  "LastUpdate_Achievements": "2024-01-04T11:11:28.261028+00:00"
 }

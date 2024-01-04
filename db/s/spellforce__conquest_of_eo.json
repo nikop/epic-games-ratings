@@ -971,9 +971,9 @@
       "ID": "Max_Reputation_Alluvyan",
       "SetID": "7b9f97e",
       "Name": "Friend of Alluvyan",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Max_Reputation_Coldmark",
@@ -1043,9 +1043,9 @@
       "ID": "Max_Reputation_Westguard",
       "SetID": "7b9f97e",
       "Name": "Friend of Bastion",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "Max_Reputation_Windholme",
@@ -1148,8 +1148,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2024-01-04T10:09:43.9715724+00:00",
+  "LastChanged_Achievements": "2024-01-04T11:10:42.5753915+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:20.4706393+00:00",
-  "LastUpdate_Ratings": "2024-01-04T10:00:39.4398776+00:00",
-  "LastUpdate_Achievements": "2024-01-04T10:09:43.971658+00:00"
+  "LastUpdate_Ratings": "2024-01-04T11:02:27.935418+00:00",
+  "LastUpdate_Achievements": "2024-01-04T11:10:42.5754475+00:00"
 }

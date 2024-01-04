@@ -4,7 +4,7 @@
   "ProductSlug": "sir-whoopass-757c5c",
   "Ranking_EOS_Progress": 452,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-19T23:00:00+00:00",
@@ -883,9 +883,9 @@
       "ID": "DIE_1",
       "SetID": "9gfkh7c",
       "Name": "Catch the bus with me!",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 49
     },
     {
       "ID": "DODGE_1",
@@ -1083,9 +1083,9 @@
       "ID": "ITEM_1",
       "SetID": "9gfkh7c",
       "Name": "Ripe Meat Off The Bone!",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ITEM_2",
@@ -1346,8 +1346,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2024-01-04T10:10:21.049182+00:00",
+  "LastChanged_Achievements": "2024-01-04T11:11:33.7678376+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:32.4318618+00:00",
-  "LastUpdate_Ratings": "2024-01-04T10:03:27.9731224+00:00",
-  "LastUpdate_Achievements": "2024-01-04T10:10:21.0492701+00:00"
+  "LastUpdate_Ratings": "2024-01-04T11:04:03.6903434+00:00",
+  "LastUpdate_Achievements": "2024-01-04T11:11:33.7679251+00:00"
 }

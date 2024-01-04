@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 491,585 (Ranked 43)  
+Progressed: 491,613 (Ranked 43)  
 Completed: 1 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -629,15 +629,15 @@ Completed: 1 (0.00%) (Ranked 392)
 | 2024-01-01 | 489,961 | 1 |
 | 2024-01-02 | 490,643 | 1 |
 | 2024-01-03 | 491,381 | 1 |
-| 2024-01-04 | 491,585 | 1 |
+| 2024-01-04 | 491,613 | 1 |
 ## Awards
 Max (Educational): 7,696  (Ranked 54)  
-Sum: 63,439 (Ranked 24)  
+Sum: 63,453 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 7,696 |
-| This game has Diverse Characters | 7,531 |
+| This game has Diverse Characters | 7,545 |
 | This game is Highly Recommended | 7,395 |
 | This game has Challenging Combat | 7,317 |
 | This game is Extremely Fun | 7,215 |
@@ -1001,3 +1001,4 @@ Diff (max vs sum): 30
 | 2024-01-01 | 4.69 | - | 7,659 | 63,158 |
 | 2024-01-02 | 4.69 | - | 7,680 | 63,302 |
 | 2024-01-03 | 4.69 | - | 7,696 | 63,439 |
+| 2024-01-04 | 4.69 | - | 7,696 | 63,453 |

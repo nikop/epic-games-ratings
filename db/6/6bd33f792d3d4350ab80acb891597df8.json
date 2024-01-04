@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-3-b0c022",
   "Ranking_EOS_Progress": 475,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewPlayers": 349,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 120,
+  "EOS_Progressed": 121,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -614,6 +614,11 @@
       "Time": "2024-01-04T08:03:53.0649007+00:00",
       "NumProgressed": 120,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T11:05:39.5363342+00:00",
+      "NumProgressed": 121,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -623,7 +628,7 @@
       "ID": "CgkIxYDzrbcPEAIQAQ",
       "SetID": "4egpam7",
       "Name": "Catacomb Crawl",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 30,
       "UsersEstimate": 96
     },
@@ -657,7 +662,7 @@
       "Name": "Man of Faith",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "CgkIxYDzrbcPEAIQBg",
@@ -705,7 +710,7 @@
       "Name": "Target Practice",
       "Percentage": 74,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "CgkIxYDzrbcPEAIQDA",
@@ -735,7 +740,7 @@
       "ID": "CgkIxYDzrbcPEAIQDw",
       "SetID": "4egpam7",
       "Name": "Dear Diary",
-      "Percentage": 90,
+      "Percentage": 89,
       "XP": 30,
       "UsersEstimate": 108
     },
@@ -745,7 +750,7 @@
       "Name": "Collector of Secrets",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "CgkIxYDzrbcPEAIQEQ",
@@ -791,9 +796,9 @@
       "ID": "CgkIxYDzrbcPEAIQFg",
       "SetID": "4egpam7",
       "Name": "Dangerous Manipulation",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 15
     },
     {
       "ID": "CgkIxYDzrbcPEAIQFw",
@@ -801,7 +806,7 @@
       "Name": "I Could Do This Blindfolded",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "CgkIxYDzrbcPEAIQGA",
@@ -825,7 +830,7 @@
       "Name": "Short History of Time Travel",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "CgkIxYDzrbcPEAIQGw",
@@ -864,14 +869,14 @@
     {
       "ID": "4egpam7",
       "IsBase": true,
-      "Progressed": 120,
+      "Progressed": 121,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2024-01-04T10:04:31.4635791+00:00",
+  "LastChanged_Achievements": "2024-01-04T11:05:39.5363337+00:00",
   "LastUpdate_AppInfo": "2024-01-03T03:57:03.7970515+00:00",
-  "LastUpdate_Ratings": "2024-01-04T09:59:32.2801233+00:00",
-  "LastUpdate_Achievements": "2024-01-04T10:04:31.4635965+00:00"
+  "LastUpdate_Ratings": "2024-01-04T11:00:44.5211319+00:00",
+  "LastUpdate_Achievements": "2024-01-04T11:05:39.5363599+00:00"
 }

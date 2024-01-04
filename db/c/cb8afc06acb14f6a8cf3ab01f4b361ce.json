@@ -461,9 +461,9 @@
       "Count": 77
     }
   ],
-  "EOS_Progressed": 340647,
+  "EOS_Progressed": 340670,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 3972,
+  "EOS_NewPlayers": 3977,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12116,6 +12116,11 @@
       "Time": "2024-01-04T10:09:03.3632583+00:00",
       "NumProgressed": 340647,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-04T11:09:44.3973817+00:00",
+      "NumProgressed": 340670,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -12128,7 +12133,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13626
+      "UsersEstimate": 13627
     },
     {
       "ID": "S02_BRDA",
@@ -12136,7 +12141,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 10219
+      "UsersEstimate": 10220
     },
     {
       "ID": "S03_OTWA",
@@ -12144,7 +12149,7 @@
       "Name": "Rumors are true",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3406
+      "UsersEstimate": 3407
     },
     {
       "ID": "S04_BRDC",
@@ -12264,7 +12269,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17032
+      "UsersEstimate": 17034
     },
     {
       "ID": "S19_CHALLENGES",
@@ -12320,7 +12325,7 @@
       "Name": "Pride is a sin, young Knight",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3406
+      "UsersEstimate": 3407
     },
     {
       "ID": "S26_CRTA",
@@ -12352,7 +12357,7 @@
       "Name": "Your wounds\u2026 They are healing so fast!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3406
+      "UsersEstimate": 3407
     },
     {
       "ID": "S30_DIAMOND",
@@ -12447,7 +12452,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 340647,
+      "Progressed": 340670,
       "Completed": 7
     }
   ],
@@ -12455,8 +12460,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2024-01-01T23:01:20.9565561+00:00",
-  "LastChanged_Achievements": "2024-01-04T10:09:03.3632581+00:00",
+  "LastChanged_Achievements": "2024-01-04T11:09:44.3973812+00:00",
   "LastUpdate_AppInfo": "2023-12-28T22:56:57.7073923+00:00",
-  "LastUpdate_Ratings": "2024-01-04T09:57:55.2420973+00:00",
-  "LastUpdate_Achievements": "2024-01-04T10:09:03.3633301+00:00"
+  "LastUpdate_Ratings": "2024-01-04T10:58:14.383106+00:00",
+  "LastUpdate_Achievements": "2024-01-04T11:09:44.3974864+00:00"
 }

@@ -5,34 +5,34 @@ Rating: 4.84 (Ranked 49)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 58.00% | ~1,347 |
-| Welcome to the Tower | 53.00% | ~1,231 |
-| The great escape | 44.00% | ~1,022 |
-| The Preacher's fate | 42.00% | ~976 |
-| A new dawn | 36.00% | ~836 |
-| Scholar | 31.00% | ~720 |
-| True G3M4R | 30.00% | ~697 |
-| The darkness | 30.00% | ~697 |
-| A good beginning | 29.00% | ~674 |
-| One last step | 27.00% | ~627 |
-| I did it | 25.00% | ~581 |
-| Cable guy | 25.00% | ~581 |
-| Half the way | 25.00% | ~581 |
-| Rascal | 25.00% | ~581 |
+| That's the spirit | 58.00% | ~1,350 |
+| Welcome to the Tower | 52.00% | ~1,210 |
+| The great escape | 44.00% | ~1,024 |
+| The Preacher's fate | 42.00% | ~977 |
+| A new dawn | 36.00% | ~838 |
+| Scholar | 31.00% | ~721 |
+| True G3M4R | 30.00% | ~698 |
+| The darkness | 30.00% | ~698 |
+| A good beginning | 29.00% | ~675 |
+| One last step | 27.00% | ~628 |
+| I did it | 25.00% | ~582 |
+| Cable guy | 25.00% | ~582 |
+| Half the way | 25.00% | ~582 |
+| Rascal | 25.00% | ~582 |
 | Peace walker | 24.00% | ~558 |
 | Champollion | 24.00% | ~558 |
-| In this together | 23.00% | ~534 |
-| Open door | 21.00% | ~488 |
+| In this together | 23.00% | ~535 |
+| Open door | 21.00% | ~489 |
 | Feels like springtime | 20.00% | ~465 |
 | Alchemists Express | 20.00% | ~465 |
-| Free at last | 18.00% | ~418 |
-| A Link to the Past | 15.00% | ~348 |
-| A great audience | 13.00% | ~302 |
-| For its own good | 13.00% | ~302 |
+| Free at last | 18.00% | ~419 |
+| A Link to the Past | 15.00% | ~349 |
+| A great audience | 13.00% | ~303 |
+| For its own good | 13.00% | ~303 |
 | Fashion victim | 8.00% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,323 (Ranked 236)  
-Completed: 145 (6.24%) (Ranked 67)  
+Progressed: 2,327 (Ranked 236)  
+Completed: 145 (6.23%) (Ranked 67)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -197,7 +197,7 @@ Completed: 145 (6.24%) (Ranked 67)
 | 2024-01-01 | 2,184 | 135 |
 | 2024-01-02 | 2,241 | 140 |
 | 2024-01-03 | 2,307 | 145 |
-| 2024-01-04 | 2,323 | 145 |
+| 2024-01-04 | 2,327 | 145 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

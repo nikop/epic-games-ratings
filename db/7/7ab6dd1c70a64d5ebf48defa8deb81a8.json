@@ -61,7 +61,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1754,
+  "EOS_Progressed": 1755,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 371,
   "EOS_NewCompleters": 0,
@@ -3471,6 +3471,11 @@
       "Time": "2024-01-04T10:10:15.1515915+00:00",
       "NumProgressed": 1754,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-04T11:11:26.3696666+00:00",
+      "NumProgressed": 1755,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -3482,7 +3487,7 @@
       "Name": "Break Out",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1071
     },
     {
       "ID": "ACH_02",
@@ -3490,7 +3495,7 @@
       "Name": "Find Allies",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "ACH_03",
@@ -3538,7 +3543,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "ACH_09",
@@ -3546,7 +3551,7 @@
       "Name": "The Mentor",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "ACH_10",
@@ -3578,7 +3583,7 @@
       "Name": "Adventurer",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "ACH_14",
@@ -3602,7 +3607,7 @@
       "Name": "Essence Blow",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ACH_17",
@@ -3682,7 +3687,7 @@
       "Name": "Scholar",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "ACH_27",
@@ -3698,7 +3703,7 @@
       "Name": "I Found It",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "ACH_29",
@@ -3714,7 +3719,7 @@
       "Name": "Alchemist",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ACH_31",
@@ -3769,7 +3774,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 1754,
+      "Progressed": 1755,
       "Completed": 3
     }
   ],
@@ -3777,8 +3782,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-02T01:47:19.6899919+00:00",
-  "LastChanged_Achievements": "2024-01-04T10:10:15.1515913+00:00",
+  "LastChanged_Achievements": "2024-01-04T11:11:26.3696661+00:00",
   "LastUpdate_AppInfo": "2024-01-01T22:57:08.0954502+00:00",
-  "LastUpdate_Ratings": "2024-01-04T09:57:25.6349381+00:00",
-  "LastUpdate_Achievements": "2024-01-04T10:10:15.1516352+00:00"
+  "LastUpdate_Ratings": "2024-01-04T10:57:29.5830656+00:00",
+  "LastUpdate_Achievements": "2024-01-04T11:11:26.3697157+00:00"
 }

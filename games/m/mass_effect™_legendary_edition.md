@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 90.00% | ~3,297 |
-| Spectre Inductee | 67.00% | ~2,454 |
+| Distinguished Service Medal | 90.00% | ~3,298 |
+| Spectre Inductee | 67.00% | ~2,455 |
 | Medal of Exploration I | 57.00% | ~2,088 |
 | Recruit | 52.00% | ~1,905 |
 | Search and Rescue | 52.00% | ~1,905 |
@@ -22,9 +22,9 @@
 | Meritorious Service Medal | 35.00% | ~1,282 |
 | Charismatic | 35.00% | ~1,282 |
 | Asari Ally | 33.00% | ~1,209 |
+| Colonial Savior | 33.00% | ~1,209 |
 | Very Elusive | 33.00% | ~1,209 |
 | Principled | 32.00% | ~1,172 |
-| Colonial Savior | 32.00% | ~1,172 |
 | Medal of Exploration III | 31.00% | ~1,136 |
 | Krogan Ally | 31.00% | ~1,136 |
 | Merciless | 31.00% | ~1,136 |
@@ -32,21 +32,22 @@
 | Paramour I | 30.00% | ~1,099 |
 | Sentinel Ally | 30.00% | ~1,099 |
 | Scholar | 30.00% | ~1,099 |
-| The Professor | 29.00% | ~1,062 |
-| Head Hunter | 29.00% | ~1,062 |
+| The Professor | 29.00% | ~1,063 |
+| Head Hunter | 29.00% | ~1,063 |
 | The Archangel | 28.00% | ~1,026 |
 | Operative | 28.00% | ~1,026 |
 | Power Full | 27.00% | ~989 |
-| The Convict | 26.00% | ~952 |
-| The Krogan | 26.00% | ~952 |
+| The Convict | 26.00% | ~953 |
+| The Krogan | 26.00% | ~953 |
 | Veteran | 25.00% | ~916 |
 | Colony Defense | 25.00% | ~916 |
 | Broke, Blind, and Bedlam | 25.00% | ~916 |
 | Driven | 24.00% | ~879 |
-| Ghost Ship | 23.00% | ~842 |
-| The Assassin | 23.00% | ~842 |
-| The Quarian | 23.00% | ~842 |
+| Ghost Ship | 23.00% | ~843 |
+| The Assassin | 23.00% | ~843 |
+| The Quarian | 23.00% | ~843 |
 | The Justicar | 22.00% | ~806 |
+| Catharsis | 22.00% | ~806 |
 | The Prodigal | 22.00% | ~806 |
 | Galactic Explorer | 22.00% | ~806 |
 | Revenge! | 22.00% | ~806 |
@@ -54,7 +55,6 @@
 | A Personal Touch | 21.00% | ~769 |
 | Archivist | 21.00% | ~769 |
 | Battlemaster | 21.00% | ~769 |
-| Catharsis | 21.00% | ~769 |
 | Fade Away | 21.00% | ~769 |
 | Ghost of the Father | 21.00% | ~769 |
 | The Cure | 21.00% | ~769 |
@@ -73,19 +73,19 @@
 | Mission Accomplished | 19.00% | ~696 |
 | Suicide Mission | 19.00% | ~696 |
 | Against All Odds | 19.00% | ~696 |
-| Untouchable | 18.00% | ~659 |
-| Eye of the Hurricane | 18.00% | ~659 |
-| Giant Killer | 18.00% | ~659 |
-| First Aid Specialist | 18.00% | ~659 |
-| A House Divided | 18.00% | ~659 |
-| World Shaker | 18.00% | ~659 |
+| Untouchable | 18.00% | ~660 |
+| Eye of the Hurricane | 18.00% | ~660 |
+| Giant Killer | 18.00% | ~660 |
+| First Aid Specialist | 18.00% | ~660 |
+| A House Divided | 18.00% | ~660 |
+| World Shaker | 18.00% | ~660 |
 | Liberator | 17.00% | ~623 |
 | Savior | 16.00% | ~586 |
 | Weapon Specialist | 16.00% | ~586 |
 | Pathfinder | 16.00% | ~586 |
 | Tunnel Rat | 16.00% | ~586 |
 | Arbiter | 16.00% | ~586 |
-| Lost and Found | 15.00% | ~549 |
+| Lost and Found | 15.00% | ~550 |
 | Paramour II | 14.00% | ~513 |
 | Party Crasher | 14.00% | ~513 |
 | Hard Target | 14.00% | ~513 |
@@ -105,18 +105,18 @@
 | Throw Mastery | 11.00% | ~403 |
 | Legend | 11.00% | ~403 |
 | Master and Commander | 11.00% | ~403 |
-| Mail Slot | 10.00% | ~366 |
 | Long Service Medal | 10.00% | ~366 |
 | Combined Arms | 9.00% | ~330 |
+| Mail Slot | 9.00% | ~330 |
 | Warp Mastery | 8.00% | ~293 |
 | Barrier Mastery | 7.00% | ~256 |
 | Always Prepared | 7.00% | ~256 |
 | Bruiser | 7.00% | ~256 |
+| Lift Mastery | 7.00% | ~256 |
 | Overload Specialist | 7.00% | ~256 |
 | Sky High | 6.00% | ~220 |
 | Hijacker | 6.00% | ~220 |
 | Paramour III | 6.00% | ~220 |
-| Lift Mastery | 6.00% | ~220 |
 | Damping Specialist | 4.00% | ~147 |
 | Singularity Mastery | 4.00% | ~147 |
 | Shield Breaker | 3.00% | ~110 |
@@ -132,7 +132,7 @@
 | Neural Shock Specialist | 1.00% | ~37 |
 | The One and Only | 0.50% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,663 (Ranked 218)  
+Progressed: 3,664 (Ranked 218)  
 Completed: 13 (0.35%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,4 +243,4 @@ Completed: 13 (0.35%) (Ranked 240)
 | 2024-01-01 | 3,545 | 12 |
 | 2024-01-02 | 3,592 | 12 |
 | 2024-01-03 | 3,645 | 13 |
-| 2024-01-04 | 3,663 | 13 |
+| 2024-01-04 | 3,664 | 13 |

@@ -17,9 +17,9 @@
 | Your own amateur gym | 67.00% | ~354 |
 | First defeat | 66.00% | ~349 |
 | Run K, run! | 66.00% | ~349 |
+| No bullying more | 64.00% | ~339 |
 | Hello, world! | 64.00% | ~339 |
 | Fighting is cool | 63.00% | ~333 |
-| No bullying more | 63.00% | ~333 |
 | Pal of your father? | 61.00% | ~323 |
 | Spirit of the past | 59.00% | ~312 |
 | Employee of the month | 59.00% | ~312 |
@@ -31,8 +31,8 @@
 | Champion – starter pack | 53.00% | ~280 |
 | It's good to be alive | 53.00% | ~280 |
 | Intriguing candies | 53.00% | ~280 |
+| Own four walls | 52.00% | ~275 |
 | Employee of the year | 52.00% | ~275 |
-| Own four walls | 51.00% | ~270 |
 | Legal courier | 48.00% | ~254 |
 | Extreme neuropower! | 48.00% | ~254 |
 | Escaped from a big trouble | 46.00% | ~243 |

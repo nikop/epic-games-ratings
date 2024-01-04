@@ -4,7 +4,7 @@
   "ProductSlug": "stargate-timekeepers",
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewPlayers": 566,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2099-12-12T15:00:00+00:00",
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-02T07:56:57.899425+00:00",
-  "LastUpdate_Ratings": "2024-01-04T09:58:53.862698+00:00",
-  "LastUpdate_Achievements": "2024-01-04T10:05:44.5322967+00:00"
+  "LastUpdate_Ratings": "2024-01-04T10:59:44.5821992+00:00",
+  "LastUpdate_Achievements": "2024-01-04T11:07:23.9620347+00:00"
 }

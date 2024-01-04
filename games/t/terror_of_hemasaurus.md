@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Terror Rising | 73.00% | ~64 |
+| Terror Rising | 72.00% | ~64 |
 | Jalopy Poppy | 69.00% | ~61 |
 | Green-Bodied Monster | 60.00% | ~53 |
-| Chopper Stopper | 50.00% | ~44 |
+| Chopper Stopper | 49.00% | ~44 |
 | Aerosolized | 45.00% | ~40 |
-| Monstrosity Atrocity | 40.00% | ~35 |
+| Monstrosity Atrocity | 39.00% | ~35 |
 | Test of Faith | 35.00% | ~31 |
-| Reign of Terror | 33.00% | ~29 |
+| Reign of Terror | 34.00% | ~30 |
 | Crushing All Cars | 24.00% | ~21 |
 | Brain Chopper | 20.00% | ~18 |
 | Night Bird | 17.00% | ~15 |
 | Horror Show | 17.00% | ~15 |
-| Demolition Ambition | 13.00% | ~11 |
+| Demolition Ambition | 12.00% | ~11 |
 | Hindenburgerer | 8.00% | ~7 |
 | Punchy Wagon | 8.00% | ~7 |
 | Holy Terror | 6.00% | ~5 |
 | Kill All Humans! | 6.00% | ~5 |
-| Midair Affair | 5.00% | ~4 |
-| Demolition Tactician | 5.00% | ~4 |
-| Plight of the Valkyrie | 5.00% | ~4 |
-| Trash the Planet. | 5.00% | ~4 |
+| Midair Affair | 4.00% | ~4 |
+| Demolition Tactician | 4.00% | ~4 |
+| Plight of the Valkyrie | 4.00% | ~4 |
+| Trash the Planet. | 4.00% | ~4 |
 | Demolition Exhibition | 3.00% | ~3 |
 | Rocket Science | 3.00% | ~3 |
 | Meat Catcher | 3.00% | ~3 |
@@ -35,8 +35,8 @@
 | Juggle the People | 3.00% | ~3 |
 | Simulation 8e7d28c1 | 3.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88 (Ranked 501)  
-Completed: 3 (3.41%) (Ranked 102)  
+Progressed: 89 (Ranked 500)  
+Completed: 3 (3.37%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -85,6 +85,7 @@ Completed: 3 (3.41%) (Ranked 102)
 | 2023-12-11 | 84 | 3 |
 | 2023-12-15 | 86 | 3 |
 | 2023-12-22 | 88 | 3 |
+| 2024-01-04 | 89 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

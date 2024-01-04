@@ -18,7 +18,7 @@ Rating: 4.29 (Ranked 875)
 | Primetime | 16.00% | ~689 |
 | Change of Scenery | 16.00% | ~689 |
 | Pro Bowler | 16.00% | ~689 |
-| Unblockable | 9.00% | ~387 |
+| Unblockable | 9.00% | ~388 |
 | Pocket Ace | 5.00% | ~215 |
 | Lockdown Corner | 5.00% | ~215 |
 | Head-to-Head | 5.00% | ~215 |
@@ -27,7 +27,7 @@ Rating: 4.29 (Ranked 875)
 | Lockdown Leader | 0.50% | ~22 |
 | The Fortress | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,305 (Ranked 207)  
+Progressed: 4,306 (Ranked 207)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-01 | 4,277 | 0 |
 | 2024-01-02 | 4,295 | 0 |
 | 2024-01-03 | 4,301 | 0 |
-| 2024-01-04 | 4,305 | 0 |
+| 2024-01-04 | 4,306 | 0 |
 ## Awards
 Max (Diverse Characters): 47  (Ranked 461)  
 Sum: 175 (Ranked 428)  

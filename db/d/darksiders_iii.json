@@ -2,7 +2,7 @@
   "ID": "springbok",
   "Name": "Darksiders III",
   "ProductSlug": "darksiders3",
-  "Ranking_Rating": 651,
+  "Ranking_Rating": 652,
   "Ranking_Popularity": 382,
   "Ranking_PopularitySum": 466,
   "Ranking_EOS_Progress": 359,
@@ -476,7 +476,7 @@
   ],
   "EOS_Progressed": 413,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -1835,9 +1835,9 @@
       "ID": "Game_CompleteNormal",
       "SetID": "7a5k76n",
       "Name": "Path of the Horseman",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 45
+      "UsersEstimate": 50
     },
     {
       "ID": "Keeper_Kill_Final",
@@ -1987,9 +1987,9 @@
       "ID": "Save_Humans_1",
       "SetID": "7a5k76n",
       "Name": "Helping Hand",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 264
     },
     {
       "ID": "Save_Humans_10",
@@ -2043,9 +2043,9 @@
       "ID": "Spend_AttributePoint_25",
       "SetID": "7a5k76n",
       "Name": "25 to Life",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 153
     },
     {
       "ID": "Spend_AttributePoint_50",
@@ -2099,8 +2099,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-03T05:57:54.1795117+00:00",
-  "LastChanged_Achievements": "2024-01-04T10:06:42.1300727+00:00",
+  "LastChanged_Achievements": "2024-01-04T11:08:46.8504854+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.0817876+00:00",
-  "LastUpdate_Ratings": "2024-01-04T09:58:43.6569756+00:00",
-  "LastUpdate_Achievements": "2024-01-04T10:06:42.1301311+00:00"
+  "LastUpdate_Ratings": "2024-01-04T10:59:30.3509534+00:00",
+  "LastUpdate_Achievements": "2024-01-04T11:08:46.8505645+00:00"
 }

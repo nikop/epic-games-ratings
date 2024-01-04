@@ -25,18 +25,18 @@
 | Slave to the rhythm | 22.00% | ~25 |
 | Castle Meldec | 22.00% | ~25 |
 | Sevenkeeps Seat of Kings | 21.00% | ~24 |
-| Friend of Alluvyan | 16.00% | ~18 |
+| Friend of Alluvyan | 17.00% | ~19 |
 | Friend of Connach | 15.00% | ~17 |
 | Friend of Gillyshire | 14.00% | ~16 |
 | Stormwatch Faste | 13.00% | ~15 |
 | Friend of Silver Drift Hollow | 13.00% | ~15 |
+| Friend of Bastion | 13.00% | ~15 |
 | Magic Academy | 13.00% | ~15 |
 | Break Free | 13.00% | ~15 |
 | Philo's Tale | 12.00% | ~13 |
 | Silver Drift Hollow Mine | 12.00% | ~13 |
 | A Master of Magic | 12.00% | ~13 |
 | Friend of Orgash | 12.00% | ~13 |
-| Friend of Bastion | 12.00% | ~13 |
 | Friend of Windholme | 11.00% | ~12 |
 | Defeat Gor | 10.00% | ~11 |
 | Mage Teacher | 10.00% | ~11 |

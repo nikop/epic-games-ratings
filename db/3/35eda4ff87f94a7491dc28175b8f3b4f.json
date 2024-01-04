@@ -281,9 +281,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20008,
+  "EOS_Progressed": 20016,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 1700,
+  "EOS_NewPlayers": 1698,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -6841,6 +6841,11 @@
       "Time": "2024-01-04T10:05:20.5397012+00:00",
       "NumProgressed": 20008,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2024-01-04T11:06:49.2441456+00:00",
+      "NumProgressed": 20016,
+      "NumCompleted": 93
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -6883,9 +6888,9 @@
       "ID": "SAVE_EVERYONE_1_1",
       "SetID": "24fdn9j",
       "Name": "Savior",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 1601
+      "UsersEstimate": 1801
     },
     {
       "ID": "SAVE_EVERYONE_PERFECT_1_2",
@@ -6893,7 +6898,7 @@
       "Name": "Righter of Wrongs",
       "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 1000
+      "UsersEstimate": 1001
     },
     {
       "ID": "SAVE_ONE_PERSON_1_0",
@@ -6901,7 +6906,7 @@
       "Name": "Rescuer",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2401
+      "UsersEstimate": 2402
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -6932,7 +6937,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 20008,
+      "Progressed": 20016,
       "Completed": 93
     }
   ],
@@ -6940,8 +6945,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2024-01-02T16:59:56.4750656+00:00",
-  "LastChanged_Achievements": "2024-01-04T10:05:20.539701+00:00",
+  "LastChanged_Achievements": "2024-01-04T11:06:49.2441452+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:09.201879+00:00",
-  "LastUpdate_Ratings": "2024-01-04T09:59:48.3452557+00:00",
-  "LastUpdate_Achievements": "2024-01-04T10:05:20.539746+00:00"
+  "LastUpdate_Ratings": "2024-01-04T11:01:09.4617542+00:00",
+  "LastUpdate_Achievements": "2024-01-04T11:06:49.2441856+00:00"
 }

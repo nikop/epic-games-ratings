@@ -6,7 +6,7 @@
   "Ranking_Popularity": 286,
   "Ranking_PopularitySum": 227,
   "Ranking_EOS_Progress": 144,
-  "Ranking_EOS_Completed": 296,
+  "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
@@ -1560,7 +1560,7 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 27641,
+  "EOS_Progressed": 27644,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 665,
   "EOS_NewCompleters": 0,
@@ -12960,6 +12960,11 @@
       "Time": "2024-01-04T10:10:07.7270039+00:00",
       "NumProgressed": 27641,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-04T11:11:16.2507488+00:00",
+      "NumProgressed": 27644,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -12979,7 +12984,7 @@
       "Name": "Truly Blessed",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "AllEquipment",
@@ -13003,7 +13008,7 @@
       "Name": "Pillow Investments",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "AllScarsBronze",
@@ -13019,7 +13024,7 @@
       "Name": "Looks Familiar",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "BossBridgeAdvancedDefeated",
@@ -13051,7 +13056,7 @@
       "Name": "Spells and Swords",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -13282,21 +13287,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 27641,
+      "Progressed": 27644,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 6571,
+      "Progressed": 6574,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2024-01-03T16:58:29.4851329+00:00",
-  "LastChanged_Achievements": "2024-01-04T10:10:07.7270036+00:00",
+  "LastChanged_Achievements": "2024-01-04T11:11:16.2507483+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.0569835+00:00",
-  "LastUpdate_Ratings": "2024-01-04T09:58:35.1517028+00:00",
-  "LastUpdate_Achievements": "2024-01-04T10:10:07.7270682+00:00"
+  "LastUpdate_Ratings": "2024-01-04T10:59:17.1493808+00:00",
+  "LastUpdate_Achievements": "2024-01-04T11:11:16.2508855+00:00"
 }

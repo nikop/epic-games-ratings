@@ -5,16 +5,16 @@ Rating: 4.21 (Ranked 947)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 23.00% | ~4,804 |
-| The Outer Way | 23.00% | ~4,804 |
-| Desperate Times | 21.00% | ~4,387 |
-| Paper Jams | 20.00% | ~4,178 |
-| Get a Grip | 19.00% | ~3,969 |
-| Chew 'Em Up | 18.00% | ~3,760 |
-| Reforged | 16.00% | ~3,342 |
-| Float Like A Butterfly | 15.00% | ~3,133 |
-| Workplace Hazard | 14.00% | ~2,924 |
-| If the SHU Fits... | 14.00% | ~2,924 |
+| Flesh Wound | 23.00% | ~4,806 |
+| The Outer Way | 23.00% | ~4,806 |
+| Desperate Times | 21.00% | ~4,388 |
+| Paper Jams | 20.00% | ~4,179 |
+| Get a Grip | 19.00% | ~3,970 |
+| Chew 'Em Up | 18.00% | ~3,761 |
+| Reforged | 16.00% | ~3,343 |
+| Float Like A Butterfly | 15.00% | ~3,134 |
+| Workplace Hazard | 14.00% | ~2,925 |
+| If the SHU Fits... | 14.00% | ~2,925 |
 | Without A Paddle | 12.00% | ~2,507 |
 | Two Heads Are Better Than One | 10.00% | ~2,089 |
 | In the Pipe, Five by Five | 10.00% | ~2,089 |
@@ -23,14 +23,14 @@ Rating: 4.21 (Ranked 947)
 | Terminated | 9.00% | ~1,880 |
 | What Lies Beneath | 9.00% | ~1,880 |
 | Full Circle | 9.00% | ~1,880 |
-| Giving Back | 8.00% | ~1,671 |
-| You Need a Gun | 8.00% | ~1,671 |
-| I Do Belong Here | 7.00% | ~1,462 |
+| Giving Back | 8.00% | ~1,672 |
+| You Need a Gun | 8.00% | ~1,672 |
+| I Do Belong Here | 7.00% | ~1,463 |
 | Keep Fighting | 7.00% | ~617 |
-| The Commonality | 5.00% | ~1,044 |
+| The Commonality | 5.00% | ~1,045 |
 | It's Time | 5.00% | ~441 |
 | In Striking Distance | 4.00% | ~836 |
-| One Last Job | 3.00% | ~264 |
+| One Last Job | 3.00% | ~265 |
 | Big Spender | 2.00% | ~176 |
 | This Isn't About Escape | 2.00% | ~176 |
 | Armed to the Teeth | 1.00% | ~88 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 947)
 | Big Game Hunter | 0.10% | ~9 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,889 (Ranked 151)  
+Progressed: 20,894 (Ranked 151)  
 Completed: 82 (0.39%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,10 +304,10 @@ Completed: 82 (0.39%) (Ranked 234)
 | 2024-01-01 | 20,521 | 82 |
 | 2024-01-02 | 20,695 | 82 |
 | 2024-01-03 | 20,833 | 82 |
-| 2024-01-04 | 20,889 | 82 |
+| 2024-01-04 | 20,894 | 82 |
 ## Awards
 Max (Amazing Characters): 115  (Ranked 357)  
-Sum: 567 (Ranked 325)  
+Sum: 569 (Ranked 325)  
 Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
@@ -317,7 +317,7 @@ Diff (max vs sum): 32
 | This game has Quickly Understood Controls | 101 |
 | This game has Amazing Storytelling | 101 |
 | This game has Challenging Combat | 68 |
-| This game has a Creative Community | 43 |
+| This game has a Creative Community | 45 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -512,4 +512,4 @@ Diff (max vs sum): 32
 | 2024-01-01 | 4.21 | 109 | 551 |
 | 2024-01-02 | 4.21 | 109 | 554 |
 | 2024-01-03 | 4.21 | 111 | 562 |
-| 2024-01-04 | 4.21 | 115 | 567 |
+| 2024-01-04 | 4.21 | 115 | 569 |

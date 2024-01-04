@@ -75,12 +75,12 @@
 | Four of a Kind | 2.00% | ~10 |
 | In the Money | 2.00% | ~10 |
 | It is Payday | 2.00% | ~10 |
+| Scenario Success | 2.00% | ~10 |
 | Curated Class | 1.00% | ~5 |
 | Plebs Are Needed | 1.00% | ~5 |
 | Full House | 1.00% | ~5 |
 | Such Great Heights | 1.00% | ~5 |
 | Lofty Landlord | 1.00% | ~5 |
-| Scenario Success | 1.00% | ~5 |
 | High Hand | 0.80% | ~4 |
 | Double Down | 0.80% | ~4 |
 | Artistic Largesse | 0.60% | ~3 |

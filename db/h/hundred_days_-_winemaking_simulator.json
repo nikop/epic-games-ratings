@@ -1111,7 +1111,7 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 19050,
+  "EOS_Progressed": 19057,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 1050,
   "EOS_NewCompleters": 0,
@@ -16066,6 +16066,11 @@
       "Time": "2024-01-04T10:09:51.1252064+00:00",
       "NumProgressed": 19050,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-04T11:10:52.6478644+00:00",
+      "NumProgressed": 19057,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -16078,7 +16083,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1905
+      "UsersEstimate": 1906
     },
     {
       "ID": "a_10",
@@ -16126,7 +16131,7 @@
       "Name": "Bye Bye",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 8192
+      "UsersEstimate": 8195
     },
     {
       "ID": "a_19",
@@ -16134,7 +16139,7 @@
       "Name": "Bonjour!",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1524
+      "UsersEstimate": 1525
     },
     {
       "ID": "a_2",
@@ -16142,7 +16147,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "a_20",
@@ -16174,7 +16179,7 @@
       "Name": "Quack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1524
+      "UsersEstimate": 1525
     },
     {
       "ID": "a_25",
@@ -16182,7 +16187,7 @@
       "Name": "Better than nothing?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "a_26",
@@ -16278,7 +16283,7 @@
       "Name": "King of Langhe",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "a_5",
@@ -16294,7 +16299,7 @@
       "Name": "Gem of Monferrato",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "a_7",
@@ -16325,7 +16330,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 19050,
+      "Progressed": 19057,
       "Completed": 13
     }
   ],
@@ -16333,8 +16338,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2024-01-01T19:03:20.2476808+00:00",
-  "LastChanged_Achievements": "2024-01-04T10:09:51.1252061+00:00",
+  "LastChanged_Achievements": "2024-01-04T11:10:52.647864+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:46.499135+00:00",
-  "LastUpdate_Ratings": "2024-01-04T10:03:07.7243972+00:00",
-  "LastUpdate_Achievements": "2024-01-04T10:09:51.125279+00:00"
+  "LastUpdate_Ratings": "2024-01-04T11:03:31.4757086+00:00",
+  "LastUpdate_Achievements": "2024-01-04T11:10:52.6479527+00:00"
 }

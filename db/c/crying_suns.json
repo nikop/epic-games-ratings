@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 397,
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
@@ -709,9 +709,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 473332,
+  "EOS_Progressed": 473333,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 401,
+  "EOS_NewPlayers": 400,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27469,6 +27469,11 @@
       "Time": "2024-01-04T09:10:19.320333+00:00",
       "NumProgressed": 473332,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-04T11:11:32.7118404+00:00",
+      "NumProgressed": 473333,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 79,
@@ -27568,7 +27573,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 312399
+      "UsersEstimate": 312400
     },
     {
       "ID": "achievement_story_landa",
@@ -27656,7 +27661,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 94666
+      "UsersEstimate": 94667
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -27904,7 +27909,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 208266
+      "UsersEstimate": 208267
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -27936,7 +27941,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 184599
+      "UsersEstimate": 184600
     },
     {
       "ID": "achievement_win_run_hard",
@@ -28111,21 +28116,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 17266,
+      "Progressed": 17267,
       "Completed": 2362
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 473332,
+      "Progressed": 473333,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2024-01-03T17:03:08.8869206+00:00",
-  "LastChanged_Achievements": "2024-01-04T10:10:20.187638+00:00",
+  "LastChanged_Achievements": "2024-01-04T11:11:32.7118401+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:35.1454991+00:00",
-  "LastUpdate_Ratings": "2024-01-04T09:57:35.2761591+00:00",
-  "LastUpdate_Achievements": "2024-01-04T10:10:20.1878244+00:00"
+  "LastUpdate_Ratings": "2024-01-04T10:57:42.8833944+00:00",
+  "LastUpdate_Achievements": "2024-01-04T11:11:32.7120288+00:00"
 }

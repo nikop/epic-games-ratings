@@ -5,19 +5,19 @@ Rating: 4.06 (Ranked 1,026)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,861 |
-| World Map | 78.00% | ~3,239 |
-| Temple of Eternals | 56.00% | ~2,325 |
-| Prestigious | 52.00% | ~2,159 |
-| Fellowship Power | 41.00% | ~1,702 |
+| Victor | 93.00% | ~3,863 |
+| World Map | 78.00% | ~3,240 |
+| Temple of Eternals | 56.00% | ~2,326 |
+| Prestigious | 52.00% | ~2,160 |
+| Fellowship Power | 41.00% | ~1,703 |
 | Full Party | 28.00% | ~1,163 |
 | Guild Power | 23.00% | ~955 |
-| Prestigious x10 | 20.00% | ~830 |
-| The game is on | 18.00% | ~747 |
-| Exotic Merchant | 16.00% | ~664 |
+| Prestigious x10 | 20.00% | ~831 |
+| The game is on | 18.00% | ~748 |
+| Exotic Merchant | 16.00% | ~665 |
 | Dragon Clicker | 15.00% | ~623 |
 | Miner Clicker | 15.00% | ~623 |
-| Inspection | 14.00% | ~581 |
+| Inspection | 14.00% | ~582 |
 | Dragon Master | 13.00% | ~540 |
 | Enlightenment | 13.00% | ~540 |
 | Hero inspection | 13.00% | ~540 |
@@ -28,12 +28,12 @@ Rating: 4.06 (Ranked 1,026)
 | Superior | 11.00% | ~457 |
 | The Unstoppable | 11.00% | ~457 |
 | Doing My Part | 9.00% | ~374 |
-| Hunter | 9.00% | ~374 |
 | Scientist | 9.00% | ~374 |
 | The power of Awakening | 9.00% | ~374 |
 | Challenger | 8.00% | ~332 |
 | Daily Quest Completionist | 8.00% | ~332 |
 | Frostfire Liberator | 8.00% | ~332 |
+| Hunter | 8.00% | ~332 |
 | Mastery | 8.00% | ~332 |
 | Moving Up The Ladder | 8.00% | ~332 |
 | Relic Of The Past | 8.00% | ~332 |
@@ -81,7 +81,7 @@ Rating: 4.06 (Ranked 1,026)
 | Jewel Enchanting | 0.10% | ~4 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,152 (Ranked 209)  
+Progressed: 4,154 (Ranked 209)  
 Completed: 2 (0.05%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,7 +335,7 @@ Completed: 2 (0.05%) (Ranked 333)
 | 2024-01-01 | 4,079 | 2 |
 | 2024-01-02 | 4,107 | 2 |
 | 2024-01-03 | 4,139 | 2 |
-| 2024-01-04 | 4,152 | 2 |
+| 2024-01-04 | 4,154 | 2 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 478)  
 Sum: 154 (Ranked 437)  

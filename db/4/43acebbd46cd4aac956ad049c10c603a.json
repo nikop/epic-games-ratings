@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -277,9 +277,9 @@
       "Count": 93
     }
   ],
-  "EOS_Progressed": 1255,
+  "EOS_Progressed": 1256,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3522,6 +3522,11 @@
       "Time": "2024-01-04T10:04:37.955046+00:00",
       "NumProgressed": 1255,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-04T11:05:48.9017459+00:00",
+      "NumProgressed": 1256,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3542,7 +3547,7 @@
       "Name": "Ab Initio",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "AnthropicHills",
@@ -3702,7 +3707,7 @@
       "Name": "Into the Machine",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "JustOneLap",
@@ -3798,7 +3803,7 @@
       "Name": "Persistent",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "PrometheusUnbound",
@@ -3814,7 +3819,7 @@
       "Name": "Puzzle Fiend",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "RemnantsOfThePast",
@@ -3894,7 +3899,7 @@
       "Name": "The All-Gifted",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "TheEdgeOfForever",
@@ -3948,9 +3953,9 @@
       "ID": "TouchGrass",
       "SetID": "1n308hc",
       "Name": "Touch Grass",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 301
+      "UsersEstimate": 289
     },
     {
       "ID": "TrevorsBiographer",
@@ -4005,7 +4010,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1255,
+      "Progressed": 1256,
       "Completed": 2
     }
   ],
@@ -4013,8 +4018,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-03T15:00:44.4057345+00:00",
-  "LastChanged_Achievements": "2024-01-04T10:04:37.9550456+00:00",
+  "LastChanged_Achievements": "2024-01-04T11:05:48.9017456+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.9244138+00:00",
-  "LastUpdate_Ratings": "2024-01-04T10:00:06.5336454+00:00",
-  "LastUpdate_Achievements": "2024-01-04T10:04:37.9551062+00:00"
+  "LastUpdate_Ratings": "2024-01-04T11:01:37.5701592+00:00",
+  "LastUpdate_Achievements": "2024-01-04T11:05:48.9018046+00:00"
 }

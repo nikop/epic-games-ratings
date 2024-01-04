@@ -7,7 +7,7 @@ Rating: 4.62 (Ranked 376)
 | ---- | ---------- | ----- |
 | Secret Technique | 14.00% | ~954 |
 | Realm Estate | 13.00% | ~886 |
-| A Wonderful Discovery | 12.00% | ~817 |
+| A Wonderful Discovery | 12.00% | ~818 |
 | Walls Cannot Stop Us | 11.00% | ~749 |
 | From Friends to Family | 10.00% | ~681 |
 | Bone Peddler | 9.00% | ~613 |
@@ -20,10 +20,10 @@ Rating: 4.62 (Ranked 376)
 | Valley of Wonders | 5.00% | ~341 |
 | Intimidation Tactics | 5.00% | ~341 |
 | But this one is mine | 5.00% | ~341 |
-| Return of the Wizard King | 4.00% | ~272 |
-| Digging for Treasure | 4.00% | ~272 |
-| My Final Form | 4.00% | ~272 |
-| Impenetrable Fortress | 4.00% | ~272 |
+| Return of the Wizard King | 4.00% | ~273 |
+| Digging for Treasure | 4.00% | ~273 |
+| My Final Form | 4.00% | ~273 |
+| Impenetrable Fortress | 4.00% | ~273 |
 | Enchanted Archipelago | 3.00% | ~204 |
 | Preparation Is Everything | 3.00% | ~204 |
 | Fiery Friend | 3.00% | ~204 |
@@ -53,8 +53,8 @@ Rating: 4.62 (Ranked 376)
 | A Conqueror's Cohort | 1.00% | ~68 |
 | Dawn of the Dread | 1.00% | ~68 |
 | One for All, All for One | 0.90% | ~61 |
-| Betrayal Most Foul | 0.80% | ~54 |
-| Duality | 0.80% | ~54 |
+| Betrayal Most Foul | 0.80% | ~55 |
+| Duality | 0.80% | ~55 |
 | Snap Out of It! | 0.50% | ~34 |
 | The Magic That Empowers Me! | 0.50% | ~34 |
 | A Very Special Ring | 0.40% | ~27 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 376)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,812 (Ranked 196)  
+Progressed: 6,813 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 7 (0.10%) (Ranked 305)
 | 2024-01-01 | 6,687 | 7 |
 | 2024-01-02 | 6,742 | 7 |
 | 2024-01-03 | 6,793 | 7 |
-| 2024-01-04 | 6,812 | 7 |
+| 2024-01-04 | 6,813 | 7 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 478)  
 Sum: 209 (Ranked 409)  

@@ -9313,9 +9313,9 @@
       "Count": 3624
     }
   ],
-  "EOS_Progressed": 250730,
+  "EOS_Progressed": 250751,
   "EOS_Completed": 2590,
-  "EOS_NewPlayers": 4856,
+  "EOS_NewPlayers": 4846,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -38633,6 +38633,11 @@
       "Time": "2024-01-04T10:10:24.539621+00:00",
       "NumProgressed": 250730,
       "NumCompleted": 2590
+    },
+    {
+      "Time": "2024-01-04T11:11:37.6734242+00:00",
+      "NumProgressed": 250751,
+      "NumCompleted": 2590
     }
   ],
   "TotalAchievements": 546,
@@ -38644,7 +38649,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7522
+      "UsersEstimate": 7523
     },
     {
       "ID": "objective_completed_10",
@@ -38948,7 +38953,7 @@
       "Name": "The Silken Swamp",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "objective_completed_1090",
@@ -39012,7 +39017,7 @@
       "Name": "Beast Intentions",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2507
+      "UsersEstimate": 2508
     },
     {
       "ID": "objective_completed_110",
@@ -39828,7 +39833,7 @@
       "Name": "Low Initiative",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "objective_completed_164",
@@ -39836,7 +39841,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "objective_completed_165",
@@ -39868,7 +39873,7 @@
       "Name": "Building Trust",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "objective_completed_17",
@@ -39876,7 +39881,7 @@
       "Name": "March of the Undead",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "objective_completed_170",
@@ -39980,7 +39985,7 @@
       "Name": "No Time To Rest",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "objective_completed_208",
@@ -40004,7 +40009,7 @@
       "Name": "Invisible Shadows",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "objective_completed_210",
@@ -40316,7 +40321,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2507
+      "UsersEstimate": 2508
     },
     {
       "ID": "objective_completed_34",
@@ -40508,7 +40513,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1504
+      "UsersEstimate": 1505
     },
     {
       "ID": "objective_completed_40",
@@ -40516,7 +40521,7 @@
       "Name": "Useless Allies",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "objective_completed_400",
@@ -41132,7 +41137,7 @@
       "Name": "Running of the Saurs",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "objective_completed_590",
@@ -41716,7 +41721,7 @@
       "Name": "Escort to Waterdeep",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "objective_completed_690",
@@ -41788,7 +41793,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2507
+      "UsersEstimate": 2508
     },
     {
       "ID": "objective_completed_70",
@@ -41820,7 +41825,7 @@
       "Name": "Waterdeep Detours",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "objective_completed_75",
@@ -41852,7 +41857,7 @@
       "Name": "Underdeep Cartography",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "objective_completed_8",
@@ -41868,7 +41873,7 @@
       "Name": "Overdue Rendezvous",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "objective_completed_802",
@@ -42516,7 +42521,7 @@
       "Name": "The Templar\u0027s Camp",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "objective_completed_95",
@@ -43011,21 +43016,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 217004,
+      "Progressed": 217025,
       "Completed": 4132
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 250730,
+      "Progressed": 250751,
       "Completed": 2590
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-04T03:58:47.9786606+00:00",
-  "LastChanged_Achievements": "2024-01-04T10:10:24.5396205+00:00",
+  "LastChanged_Achievements": "2024-01-04T11:11:37.6734238+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-04T09:59:11.0104532+00:00",
-  "LastUpdate_Achievements": "2024-01-04T10:10:24.5421236+00:00"
+  "LastUpdate_Ratings": "2024-01-04T11:00:10.3210079+00:00",
+  "LastUpdate_Achievements": "2024-01-04T11:11:37.675834+00:00"
 }

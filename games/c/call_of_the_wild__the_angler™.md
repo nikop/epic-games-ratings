@@ -24,7 +24,7 @@ Number of Ratings: 281  (23.09.2022)
 | Diamond in the Rough | 1.00% | ~79 |
 | I'm the Captain Now | 0.90% | ~71 |
 | More than a Tourist | 0.80% | ~63 |
-| Hook, Line and Sinker | 0.70% | ~56 |
+| Hook, Line and Sinker | 0.80% | ~63 |
 | Gonna Need a Bigger Boat | 0.60% | ~48 |
 | No Fin left to give | 0.50% | ~40 |
 | Live by the Rod, Diez by the Rod! | 0.40% | ~29 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,936 (Ranked 189)  
+Progressed: 7,937 (Ranked 189)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,11 +306,11 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-01 | 7,846 | 0 |
 | 2024-01-02 | 7,890 | 0 |
 | 2024-01-03 | 7,926 | 0 |
-| 2024-01-04 | 7,936 | 0 |
+| 2024-01-04 | 7,937 | 0 |
 ## Awards
-Max (Great for Beginners): 41  (Ranked 476)  
+Max (Great for Beginners): 41  (Ranked 477)  
 Sum: 212 (Ranked 408)  
-Diff (max vs sum): 68  
+Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 41 |

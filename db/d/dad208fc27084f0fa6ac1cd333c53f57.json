@@ -4,7 +4,7 @@
   "ProductSlug": "the-hidden-room-1a63ec",
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-10-31T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6849,
+  "EOS_Progressed": 6850,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 534,
+  "EOS_NewPlayers": 527,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.92,
   "EosHistory": [
@@ -7159,6 +7159,11 @@
       "Time": "2024-01-04T10:04:51.7924746+00:00",
       "NumProgressed": 6849,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2024-01-04T11:06:09.3140332+00:00",
+      "NumProgressed": 6850,
+      "NumCompleted": 63
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -7171,7 +7176,7 @@
       "Name": "Finish The Hidden Room",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 1575
+      "UsersEstimate": 1576
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_HIDDENROOM",
@@ -7179,7 +7184,7 @@
       "Name": "Unlock the secret room",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 1575
+      "UsersEstimate": 1576
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_MASK",
@@ -7227,7 +7232,7 @@
       "Name": "Wrong passcode",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 5411
+      "UsersEstimate": 5412
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -7235,7 +7240,7 @@
       "Name": "Finish The Hidden Room in Speedrun",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_HIDDENROOM",
@@ -7243,7 +7248,7 @@
       "Name": "Unlock the secret room in Speedrun",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_MASK",
@@ -7298,14 +7303,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 6849,
+      "Progressed": 6850,
       "Completed": 63
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2024-01-04T10:04:51.7924742+00:00",
+  "LastChanged_Achievements": "2024-01-04T11:06:09.3140327+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:11.3556672+00:00",
-  "LastUpdate_Ratings": "2024-01-04T09:59:30.816359+00:00",
-  "LastUpdate_Achievements": "2024-01-04T10:04:51.7925121+00:00"
+  "LastUpdate_Ratings": "2024-01-04T11:00:42.2041584+00:00",
+  "LastUpdate_Achievements": "2024-01-04T11:06:09.3140676+00:00"
 }
