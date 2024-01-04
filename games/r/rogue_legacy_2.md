@@ -1,7 +1,7 @@
 # Rogue Legacy 2
 [Store](https://store.epicgames.com/en-US/p/rogue-legacy-2)  
 [View Rawdata](../../db/r/rogue_legacy_2.json)  
-Rating: 4.85 (Ranked 40)  
+Rating: 4.85 (Ranked 39)  
 Number of Ratings: 1,331  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,10 +11,10 @@ Number of Ratings: 1,331  (23.09.2022)
 | No Harm in Looking | 4.00% | ~1,105 |
 | Harvest and Home | 3.00% | ~829 |
 | Poise and Poisons | 3.00% | ~829 |
-| Hands and Hammers | 2.00% | ~552 |
-| King and Kin | 2.00% | ~552 |
-| Progenitor and Protégé | 2.00% | ~552 |
-| Suns and Soldiers | 2.00% | ~552 |
+| Hands and Hammers | 2.00% | ~553 |
+| King and Kin | 2.00% | ~553 |
+| Progenitor and Protégé | 2.00% | ~553 |
+| Suns and Soldiers | 2.00% | ~553 |
 | Prequel to the Sequel | 1.00% | ~276 |
 | For Glory | 0.90% | ~249 |
 | Truly Blessed | 0.70% | ~193 |
@@ -23,8 +23,8 @@ Number of Ratings: 1,331  (23.09.2022)
 | For Justice | 0.60% | ~166 |
 | Good Boy! | 0.60% | ~166 |
 | For Survival | 0.50% | ~138 |
-| K.O. | 0.40% | ~110 |
-| Jack of all Trades | 0.40% | ~110 |
+| K.O. | 0.40% | ~111 |
+| Jack of all Trades | 0.40% | ~111 |
 | For Wrath | 0.30% | ~83 |
 | For Love | 0.30% | ~83 |
 | For Pride | 0.30% | ~83 |
@@ -46,7 +46,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,625 (Ranked 144)  
+Progressed: 27,628 (Ranked 144)  
 Completed: 35 (0.13%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 35 (0.13%) (Ranked 296)
 | 2024-01-01 | 27,441 | 35 |
 | 2024-01-02 | 27,528 | 35 |
 | 2024-01-03 | 27,609 | 35 |
-| 2024-01-04 | 27,625 | 35 |
+| 2024-01-04 | 27,628 | 35 |
 ## Awards
 Max (Extremely Fun): 227  (Ranked 286)  
 Sum: 1,718 (Ranked 227)  

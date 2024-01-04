@@ -5,8 +5,8 @@ Rating: 4.17 (Ranked 977)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 61.00% | ~1,065 |
-| Trinity | 29.00% | ~506 |
+| Break Out | 61.00% | ~1,066 |
+| Trinity | 29.00% | ~507 |
 | The Collector | 24.00% | ~419 |
 | Find Allies | 23.00% | ~402 |
 | A Taste of Wrath | 23.00% | ~402 |
@@ -31,9 +31,9 @@ Rating: 4.17 (Ranked 977)
 | Clear Sight | 4.00% | ~70 |
 | Shatterer | 4.00% | ~70 |
 | Fine Feathers Make Fine Birds | 4.00% | ~70 |
+| Slayer | 3.00% | ~52 |
 | A Queen's Tale | 3.00% | ~52 |
 | Shardbearer | 2.00% | ~35 |
-| Slayer | 2.00% | ~35 |
 | Flawless Victory | 2.00% | ~35 |
 | All There Is | 2.00% | ~35 |
 | False God | 2.00% | ~35 |
@@ -42,7 +42,7 @@ Rating: 4.17 (Ranked 977)
 | All That Gold | 0.70% | ~12 |
 | Feeling Fancy | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,746 (Ranked 255)  
+Progressed: 1,747 (Ranked 255)  
 Completed: 3 (0.17%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 3 (0.17%) (Ranked 280)
 | 2024-01-01 | 1,636 | 3 |
 | 2024-01-02 | 1,683 | 3 |
 | 2024-01-03 | 1,735 | 3 |
-| 2024-01-04 | 1,746 | 3 |
+| 2024-01-04 | 1,747 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

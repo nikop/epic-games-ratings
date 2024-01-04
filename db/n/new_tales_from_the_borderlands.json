@@ -177,7 +177,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3790,
+  "EOS_Progressed": 3791,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
@@ -2207,6 +2207,11 @@
       "Time": "2024-01-04T04:05:47.6628467+00:00",
       "NumProgressed": 3790,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T06:06:50.8488128+00:00",
+      "NumProgressed": 3791,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -2250,7 +2255,7 @@
       "Name": "Totally Intentional",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1743
+      "UsersEstimate": 1744
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -2258,7 +2263,7 @@
       "Name": "Each Sold Separately",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 1440
+      "UsersEstimate": 1441
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -2394,7 +2399,7 @@
       "Name": "And Still Champion...",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "WIN_FIRST_VAULTLANDER_BATTLE",
@@ -2402,7 +2407,7 @@
       "Name": "Don\u0027t Get Cocky",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1023
+      "UsersEstimate": 1024
     },
     {
       "ID": "WIN_VAULTLANDER_BATTLE_CLAPTRAP",
@@ -2425,7 +2430,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3790,
+      "Progressed": 3791,
       "Completed": 0
     }
   ],
@@ -2433,8 +2438,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2024-01-04T05:05:55.3128294+00:00",
+  "LastChanged_Achievements": "2024-01-04T06:06:50.8488125+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:14.9604799+00:00",
-  "LastUpdate_Ratings": "2024-01-04T04:58:58.6755172+00:00",
-  "LastUpdate_Achievements": "2024-01-04T05:05:55.3128644+00:00"
+  "LastUpdate_Ratings": "2024-01-04T05:59:28.0745863+00:00",
+  "LastUpdate_Achievements": "2024-01-04T06:06:50.848837+00:00"
 }

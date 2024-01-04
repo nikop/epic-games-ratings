@@ -419,7 +419,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 27886,
+  "EOS_Progressed": 27888,
   "EOS_Completed": 510,
   "EOS_NewPlayers": 614,
   "EOS_NewCompleters": 6,
@@ -28299,6 +28299,11 @@
       "Time": "2024-01-04T05:04:43.1770799+00:00",
       "NumProgressed": 27886,
       "NumCompleted": 510
+    },
+    {
+      "Time": "2024-01-04T06:05:10.1188473+00:00",
+      "NumProgressed": 27888,
+      "NumCompleted": 510
     }
   ],
   "TotalAchievements": 20,
@@ -28342,7 +28347,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 3067
+      "UsersEstimate": 3068
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -28366,7 +28371,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3346
+      "UsersEstimate": 3347
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -28382,7 +28387,7 @@
       "Name": "Hide and Seek",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1116
     },
     {
       "ID": "FOUND_FOX_STATUE",
@@ -28422,7 +28427,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3346
+      "UsersEstimate": 3347
     },
     {
       "ID": "INTRO_FINISHED",
@@ -28430,7 +28435,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 21193
+      "UsersEstimate": 21195
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -28438,7 +28443,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 7529
+      "UsersEstimate": 7530
     },
     {
       "ID": "NORTH_FINISHED",
@@ -28462,22 +28467,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 5019
+      "UsersEstimate": 5020
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 27886,
+      "Progressed": 27888,
       "Completed": 510
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-11-26T19:00:13.8430067+00:00",
-  "LastChanged_Achievements": "2024-01-04T05:04:43.1770796+00:00",
+  "LastChanged_Achievements": "2024-01-04T06:05:10.118847+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:39.3353951+00:00",
-  "LastUpdate_Ratings": "2024-01-04T04:57:49.1214518+00:00",
-  "LastUpdate_Achievements": "2024-01-04T05:04:43.1772124+00:00"
+  "LastUpdate_Ratings": "2024-01-04T05:57:43.56714+00:00",
+  "LastUpdate_Achievements": "2024-01-04T06:05:10.1189632+00:00"
 }

@@ -11,13 +11,13 @@ Rating: 4.65 (Ranked 320)
 | Immaculate Aim | 28.00% | ~341 |
 | The Brass Boss | 27.00% | ~329 |
 | Time Flies | 26.00% | ~317 |
-| Make Up For Lost Time | 25.00% | ~304 |
-| No, Thanks! | 25.00% | ~304 |
-| The Prince in Heels | 25.00% | ~304 |
-| Honest Mistake | 25.00% | ~304 |
-| Immaculate Aim | 25.00% | ~304 |
-| The Harder They Fall | 24.00% | ~292 |
-| Fast Learner | 24.00% | ~292 |
+| Make Up For Lost Time | 25.00% | ~305 |
+| No, Thanks! | 25.00% | ~305 |
+| The Prince in Heels | 25.00% | ~305 |
+| Honest Mistake | 25.00% | ~305 |
+| Immaculate Aim | 25.00% | ~305 |
+| The Harder They Fall | 24.00% | ~293 |
+| Fast Learner | 24.00% | ~293 |
 | The Steel Shadow | 23.00% | ~280 |
 | Breaking Down Barriers | 23.00% | ~280 |
 | Right On Time | 22.00% | ~268 |
@@ -26,7 +26,7 @@ Rating: 4.65 (Ranked 320)
 | The Betrayer | 21.00% | ~256 |
 | Golem Chaser | 21.00% | ~256 |
 | Check Your Pulse | 20.00% | ~244 |
-| The Loose Cannon | 19.00% | ~231 |
+| The Loose Cannon | 19.00% | ~232 |
 | Street Style | 18.00% | ~219 |
 | The Man Who Shattered Time | 18.00% | ~219 |
 | The Family Fortune | 18.00% | ~219 |
@@ -43,8 +43,8 @@ Rating: 4.65 (Ranked 320)
 | Fairgrounds Explorer | 10.00% | ~122 |
 | Theater Explorer | 10.00% | ~122 |
 | Cultivair Explorer | 9.00% | ~110 |
-| Corin Goes Home | 8.00% | ~97 |
-| Entresol Explorer | 8.00% | ~97 |
+| Corin Goes Home | 8.00% | ~98 |
+| Entresol Explorer | 8.00% | ~98 |
 | Sartorialist | 7.00% | ~85 |
 | Golem Hunter | 7.00% | ~85 |
 | Clovemary for Remembering | 6.00% | ~73 |
@@ -59,7 +59,7 @@ Rating: 4.65 (Ranked 320)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,218 (Ranked 280)  
+Progressed: 1,219 (Ranked 280)  
 Completed: 6 (0.49%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 6 (0.49%) (Ranked 220)
 | 2024-01-01 | 1,190 | 6 |
 | 2024-01-02 | 1,201 | 6 |
 | 2024-01-03 | 1,216 | 6 |
-| 2024-01-04 | 1,218 | 6 |
+| 2024-01-04 | 1,219 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

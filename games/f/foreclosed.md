@@ -30,7 +30,7 @@
 | A Voice in the Dark | 2.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 138 (Ranked 459)  
-Completed: 3 (2.17%) (Ranked 134)  
+Completed: 3 (2.17%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

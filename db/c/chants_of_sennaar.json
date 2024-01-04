@@ -2,7 +2,7 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_Rating": 31,
+  "Ranking_Rating": 49,
   "Ranking_Popularity": 578,
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 237,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.86,
+  "Rating": 4.84,
   "RatingHistory": [
     {
       "Time": "2023-12-16T17:01:08.7568687+00:00",
@@ -97,13 +97,19 @@
       "Rating": 4.86,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-04T06:02:50.6973411+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2317,
+  "EOS_Progressed": 2318,
   "EOS_Completed": 145,
   "EOS_NewPlayers": 400,
   "EOS_NewCompleters": 31,
@@ -6278,6 +6284,11 @@
       "Time": "2024-01-04T05:04:35.1108137+00:00",
       "NumProgressed": 2317,
       "NumCompleted": 145
+    },
+    {
+      "Time": "2024-01-04T06:04:59.405347+00:00",
+      "NumProgressed": 2318,
+      "NumCompleted": 145
     }
   ],
   "TotalAchievements": 25,
@@ -6289,7 +6300,7 @@
       "Name": "I did it",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "END_GOOD",
@@ -6313,7 +6324,7 @@
       "Name": "Cable guy",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "META_FIRST_LINK",
@@ -6329,7 +6340,7 @@
       "Name": "Half the way",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "META_RESULT_1-2",
@@ -6353,7 +6364,7 @@
       "Name": "Feels like springtime",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "META_RESULT_2-3",
@@ -6385,7 +6396,7 @@
       "Name": "Alchemists Express",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -6393,7 +6404,7 @@
       "Name": "Rascal",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -6409,7 +6420,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 973
+      "UsersEstimate": 974
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -6441,7 +6452,7 @@
       "Name": "Scholar",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "PROGRESS_N1",
@@ -6457,7 +6468,7 @@
       "Name": "The great escape",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 1019
+      "UsersEstimate": 1020
     },
     {
       "ID": "PROGRESS_N3",
@@ -6488,16 +6499,16 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2317,
+      "Progressed": 2318,
       "Completed": 145
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged": "2024-01-02T16:02:46.9551572+00:00",
-  "LastChanged_Achievements": "2024-01-04T05:04:35.1108133+00:00",
+  "LastChanged": "2024-01-04T06:02:50.6973409+00:00",
+  "LastChanged_Achievements": "2024-01-04T06:04:59.4053467+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:09.4320521+00:00",
-  "LastUpdate_Ratings": "2024-01-04T05:03:06.8049162+00:00",
-  "LastUpdate_Achievements": "2024-01-04T05:04:35.1108592+00:00"
+  "LastUpdate_Ratings": "2024-01-04T06:02:50.6973414+00:00",
+  "LastUpdate_Achievements": "2024-01-04T06:04:59.4053873+00:00"
 }

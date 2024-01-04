@@ -17,7 +17,7 @@ Number of Ratings: 25  (23.09.2022)
 | I... I did it? | 81.00% | ~504 |
 | Adored | 76.00% | ~473 |
 | The Hobbyist | 66.00% | ~411 |
-| A Forked Tongue | 55.00% | ~342 |
+| A Forked Tongue | 56.00% | ~348 |
 | The Admirer | 53.00% | ~330 |
 | Between Two Fires | 51.00% | ~317 |
 | Precious | 45.00% | ~280 |

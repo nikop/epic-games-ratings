@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Home Leaver | 79.00% | ~1,537 |
 | Journal Beautifier | 79.00% | ~1,537 |
-| Outside World Seer | 60.00% | ~1,167 |
+| Outside World Seer | 60.00% | ~1,168 |
 | Stranger Encounterer | 35.00% | ~681 |
 | Grey Hands Praxis 101 | 27.00% | ~525 |
 | Deep Listener | 24.00% | ~467 |
@@ -15,13 +15,13 @@
 | Dream Listener | 15.00% | ~292 |
 | Artist Assistant | 14.00% | ~272 |
 | Tour de Tieng | 13.00% | ~253 |
-| Shrine Arriver | 12.00% | ~233 |
+| Shrine Arriver | 12.00% | ~234 |
 | Goodbye Tieng Valley | 11.00% | ~214 |
 | The End | 11.00% | ~214 |
 | Love Uncoverer | 9.00% | ~175 |
 | Graffiti Artist | 8.00% | ~156 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,945 (Ranked 246)  
+Progressed: 1,946 (Ranked 246)  
 Completed: 72 (3.70%) (Ranked 95)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 72 (3.70%) (Ranked 95)
 | 2024-01-01 | 1,901 | 72 |
 | 2024-01-02 | 1,921 | 72 |
 | 2024-01-03 | 1,944 | 72 |
-| 2024-01-04 | 1,945 | 72 |
+| 2024-01-04 | 1,946 | 72 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

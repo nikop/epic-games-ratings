@@ -9,9 +9,9 @@ Rating: 4.59 (Ranked 445)
 | Sputnik 2049 | 28.00% | ~1,104 |
 | Infinite Growth... | 27.00% | ~1,065 |
 | Without Breaking Some Eggs... | 26.00% | ~1,025 |
+| Ready for a New World | 19.00% | ~749 |
 | Space Society | 18.00% | ~710 |
 | A Thousand Strong | 18.00% | ~710 |
-| Ready for a New World | 18.00% | ~710 |
 | Permanent Redesigns | 16.00% | ~631 |
 | Fully Recycled | 15.00% | ~591 |
 | The Ship of Theseus | 15.00% | ~591 |
@@ -24,8 +24,8 @@ Rating: 4.59 (Ranked 445)
 | Man's Best Friend | 9.00% | ~355 |
 | Power Outage | 9.00% | ~355 |
 | Please Make it Stop! | 9.00% | ~355 |
+| Sightseeing | 8.00% | ~315 |
 | Convenient Transport | 8.00% | ~315 |
-| Sightseeing | 7.00% | ~276 |
 | Necessary Enhancement | 7.00% | ~276 |
 | From the Past | 7.00% | ~276 |
 | Access Granted | 6.00% | ~237 |

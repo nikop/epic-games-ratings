@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -353,7 +353,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24675,
+  "EOS_Progressed": 24677,
   "EOS_Completed": 118,
   "EOS_NewPlayers": 467,
   "EOS_NewCompleters": 0,
@@ -22033,6 +22033,11 @@
       "Time": "2024-01-04T05:06:27.698688+00:00",
       "NumProgressed": 24675,
       "NumCompleted": 118
+    },
+    {
+      "Time": "2024-01-04T06:07:35.7671613+00:00",
+      "NumProgressed": 24677,
+      "NumCompleted": 118
     }
   ],
   "TotalAchievements": 16,
@@ -22092,7 +22097,7 @@
       "Name": "Fireworks",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 7402
+      "UsersEstimate": 7403
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -22100,7 +22105,7 @@
       "Name": "Harvester Of Eyes",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 1480
+      "UsersEstimate": 1481
     },
     {
       "ID": "I_Am_The_Storm",
@@ -22116,7 +22121,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 9623
+      "UsersEstimate": 9624
     },
     {
       "ID": "Mirrors",
@@ -22140,7 +22145,7 @@
       "Name": "Shooting Shark",
       "Percentage": 47,
       "XP": 90,
-      "UsersEstimate": 11597
+      "UsersEstimate": 11598
     },
     {
       "ID": "Sole_Survivor",
@@ -22148,7 +22153,7 @@
       "Name": "Sole Survivor",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 8636
+      "UsersEstimate": 8637
     },
     {
       "ID": "Still_Burning",
@@ -22164,22 +22169,22 @@
       "Name": "The Reaper",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 1480
+      "UsersEstimate": 1481
     }
   ],
   "AchievementSets": [
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 24675,
+      "Progressed": 24677,
       "Completed": 118
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-12-26T13:00:27.7460321+00:00",
-  "LastChanged_Achievements": "2024-01-04T05:06:27.6986878+00:00",
+  "LastChanged_Achievements": "2024-01-04T06:07:35.7671609+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:56.3485527+00:00",
-  "LastUpdate_Ratings": "2024-01-04T04:58:36.5262962+00:00",
-  "LastUpdate_Achievements": "2024-01-04T05:06:27.6987775+00:00"
+  "LastUpdate_Ratings": "2024-01-04T05:58:56.0644855+00:00",
+  "LastUpdate_Achievements": "2024-01-04T06:07:35.767264+00:00"
 }

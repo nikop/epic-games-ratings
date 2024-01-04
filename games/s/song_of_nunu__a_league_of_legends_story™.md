@@ -7,7 +7,7 @@ Rating: 4.52 (Ranked 573)
 | ---- | ---------- | ----- |
 | Feels Familiar | 74.00% | ~1,077 |
 | I Broke It | 73.00% | ~1,063 |
-| Better On Ice | 67.00% | ~976 |
+| Better On Ice | 68.00% | ~990 |
 | Notai Notes | 66.00% | ~961 |
 | Blue Dreams | 65.00% | ~946 |
 | He's Famous! | 65.00% | ~946 |
@@ -37,7 +37,7 @@ Rating: 4.52 (Ranked 573)
 | It Is Not Over | 35.00% | ~510 |
 | On The Rocks | 33.00% | ~480 |
 | Snowy Poro | 32.00% | ~466 |
-| Never Gets Old | 31.00% | ~451 |
+| Never Gets Old | 32.00% | ~466 |
 | Vertical Power | 27.00% | ~393 |
 | One From The Heart | 13.00% | ~189 |
 | Yummy | 10.00% | ~146 |

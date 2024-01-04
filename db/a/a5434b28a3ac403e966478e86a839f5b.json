@@ -2,8 +2,8 @@
   "ID": "a5434b28a3ac403e966478e86a839f5b",
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
-  "Ranking_EOS_Progress": 297,
-  "Ranking_EOS_Completed": 161,
+  "Ranking_EOS_Progress": 296,
+  "Ranking_EOS_Completed": 162,
   "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 865,
+  "EOS_Progressed": 867,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.16,
+  "EOS_Completed_Percentage": 1.15,
   "EosHistory": [
     {
       "Time": "2023-09-22T21:07:10.6425492+00:00",
@@ -2985,6 +2985,11 @@
       "Time": "2024-01-04T05:09:07.165197+00:00",
       "NumProgressed": 865,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-04T06:09:26.8125971+00:00",
+      "NumProgressed": 867,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -3005,7 +3010,7 @@
       "Name": "Establish Communications",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "ACH_eou2",
@@ -3029,7 +3034,7 @@
       "Name": "Navigate the Mines",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ACH_eou5",
@@ -3045,7 +3050,7 @@
       "Name": "Destroy Strogg Main Reactor",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_eou7",
@@ -3061,7 +3066,7 @@
       "Name": "Destroy Black Hole Generator",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_mg2",
@@ -3100,14 +3105,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 865,
+      "Progressed": 867,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2024-01-04T05:09:07.1651968+00:00",
+  "LastChanged_Achievements": "2024-01-04T06:09:26.8125967+00:00",
   "LastUpdate_AppInfo": "2023-12-29T06:57:16.3144275+00:00",
-  "LastUpdate_Ratings": "2024-01-04T05:00:27.5284711+00:00",
-  "LastUpdate_Achievements": "2024-01-04T05:09:07.1652162+00:00"
+  "LastUpdate_Ratings": "2024-01-04T06:01:40.6211748+00:00",
+  "LastUpdate_Achievements": "2024-01-04T06:09:26.8126296+00:00"
 }

@@ -7966,9 +7966,9 @@
       "ID": "ACH_BASE_26",
       "SetID": "92iocjf",
       "Name": "Sightseeing",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 276
+      "UsersEstimate": 315
     },
     {
       "ID": "ACH_BASE_27",
@@ -8038,9 +8038,9 @@
       "ID": "ACH_BASE_34",
       "SetID": "92iocjf",
       "Name": "Ready for a New World",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 710
+      "UsersEstimate": 749
     },
     {
       "ID": "ACH_BASE_35",
@@ -8309,8 +8309,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2024-01-02T02:20:24.7743828+00:00",
-  "LastChanged_Achievements": "2024-01-04T05:08:37.5521969+00:00",
+  "LastChanged_Achievements": "2024-01-04T06:08:44.949714+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:27.7465752+00:00",
-  "LastUpdate_Ratings": "2024-01-04T04:58:35.1832781+00:00",
-  "LastUpdate_Achievements": "2024-01-04T05:08:37.5522662+00:00"
+  "LastUpdate_Ratings": "2024-01-04T05:58:54.0423426+00:00",
+  "LastUpdate_Achievements": "2024-01-04T06:08:44.9497949+00:00"
 }

@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1824,
+  "EOS_Progressed": 1825,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4572,6 +4572,11 @@
       "Time": "2024-01-04T05:06:39.9762924+00:00",
       "NumProgressed": 1824,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-04T06:07:52.6436436+00:00",
+      "NumProgressed": 1825,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4592,7 +4597,7 @@
       "Name": "Acrobat",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -4600,7 +4605,7 @@
       "Name": "Out of control",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -4632,7 +4637,7 @@
       "Name": "Globetrotter",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
@@ -4824,7 +4829,7 @@
       "Name": "Shopping time!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
@@ -4951,20 +4956,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1824,
+      "Progressed": 1825,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1492,
+      "Progressed": 1493,
       "Completed": 1006
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-04T05:06:39.9762922+00:00",
+  "LastChanged_Achievements": "2024-01-04T06:07:52.6436434+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:16.9780766+00:00",
-  "LastUpdate_Ratings": "2024-01-04T05:00:29.3400753+00:00",
-  "LastUpdate_Achievements": "2024-01-04T05:06:39.9763868+00:00"
+  "LastUpdate_Ratings": "2024-01-04T06:01:43.5075018+00:00",
+  "LastUpdate_Achievements": "2024-01-04T06:07:52.6436947+00:00"
 }

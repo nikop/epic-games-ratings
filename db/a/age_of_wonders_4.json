@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 409,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -717,7 +717,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6804,
+  "EOS_Progressed": 6805,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 430,
   "EOS_NewCompleters": 0,
@@ -10292,6 +10292,11 @@
       "Time": "2024-01-04T05:08:42.7641305+00:00",
       "NumProgressed": 6804,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-04T06:08:52.2963927+00:00",
+      "NumProgressed": 6805,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10415,7 +10420,7 @@
       "Name": "Realm Estate",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "23",
@@ -10423,7 +10428,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "24",
@@ -10439,7 +10444,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "26",
@@ -10782,13 +10787,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6804,
+      "Progressed": 6805,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6804,
+      "Progressed": 6805,
       "Completed": 7
     }
   ],
@@ -10796,8 +10801,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-03T13:04:27.6429549+00:00",
-  "LastChanged_Achievements": "2024-01-04T05:08:42.7641298+00:00",
+  "LastChanged_Achievements": "2024-01-04T06:08:52.2963923+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-04T05:00:33.5556363+00:00",
-  "LastUpdate_Achievements": "2024-01-04T05:08:42.7642354+00:00"
+  "LastUpdate_Ratings": "2024-01-04T06:01:49.9193298+00:00",
+  "LastUpdate_Achievements": "2024-01-04T06:08:52.2964983+00:00"
 }

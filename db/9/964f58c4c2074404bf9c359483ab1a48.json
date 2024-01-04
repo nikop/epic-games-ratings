@@ -2313,9 +2313,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 1298791,
+  "EOS_Progressed": 1298799,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1881,
+  "EOS_NewPlayers": 1878,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27698,6 +27698,11 @@
       "Time": "2024-01-04T05:06:32.8635223+00:00",
       "NumProgressed": 1298791,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T06:07:43.0704052+00:00",
+      "NumProgressed": 1298799,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -27821,7 +27826,7 @@
       "Name": "10 Kills as a Ghost!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 142867
+      "UsersEstimate": 142868
     },
     {
       "ID": "10_ghost_wins",
@@ -27829,7 +27834,7 @@
       "Name": "10 Ghost Wins!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 103903
+      "UsersEstimate": 103904
     },
     {
       "ID": "10_hero_prop_kills",
@@ -27845,7 +27850,7 @@
       "Name": "10 Kills as a Hunter!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 207807
+      "UsersEstimate": 207808
     },
     {
       "ID": "10_hunter_wins",
@@ -27853,7 +27858,7 @@
       "Name": "10 Hunter Wins!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 77927
+      "UsersEstimate": 77928
     },
     {
       "ID": "10_prop_headshots",
@@ -27997,7 +28002,7 @@
       "Name": "ACE!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 129879
+      "UsersEstimate": 129880
     },
     {
       "ID": "ghost_win",
@@ -28005,7 +28010,7 @@
       "Name": "Ghost Victory!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 766287
+      "UsersEstimate": 766291
     },
     {
       "ID": "hunter_win",
@@ -28013,7 +28018,7 @@
       "Name": "Hunter Victory!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 701347
+      "UsersEstimate": 701351
     },
     {
       "ID": "master_of_loadouts",
@@ -28037,14 +28042,14 @@
       "Name": "Unlock Any Cosmetic",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 285734
+      "UsersEstimate": 285736
     }
   ],
   "AchievementSets": [
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1298791,
+      "Progressed": 1298799,
       "Completed": 0
     }
   ],
@@ -28052,8 +28057,8 @@
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
   "LastChanged": "2024-01-04T03:58:26.250733+00:00",
-  "LastChanged_Achievements": "2024-01-04T05:06:32.863522+00:00",
+  "LastChanged_Achievements": "2024-01-04T06:07:43.0704048+00:00",
   "LastUpdate_AppInfo": "2023-12-29T11:57:17.553463+00:00",
-  "LastUpdate_Ratings": "2024-01-04T04:58:44.6073947+00:00",
-  "LastUpdate_Achievements": "2024-01-04T05:06:32.8636755+00:00"
+  "LastUpdate_Ratings": "2024-01-04T05:59:06.5766702+00:00",
+  "LastUpdate_Achievements": "2024-01-04T06:07:43.070582+00:00"
 }

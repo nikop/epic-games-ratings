@@ -9837,9 +9837,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 815847,
+  "EOS_Progressed": 815850,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 1155,
+  "EOS_NewPlayers": 1154,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -39112,6 +39112,11 @@
       "Time": "2024-01-04T05:10:18.6354709+00:00",
       "NumProgressed": 815847,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2024-01-04T06:11:05.5933505+00:00",
+      "NumProgressed": 815850,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 82,
@@ -39187,7 +39192,7 @@
       "Name": "Bard",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 24475
+      "UsersEstimate": 24476
     },
     {
       "ID": "Bastard",
@@ -39203,7 +39208,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 261071
+      "UsersEstimate": 261072
     },
     {
       "ID": "Bookworm",
@@ -39211,7 +39216,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 122377
+      "UsersEstimate": 122378
     },
     {
       "ID": "Buddy",
@@ -39235,7 +39240,7 @@
       "Name": "Cavalier",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 212120
+      "UsersEstimate": 212121
     },
     {
       "ID": "Chivalrous",
@@ -39275,7 +39280,7 @@
       "Name": "Conqueror",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 24475
+      "UsersEstimate": 24476
     },
     {
       "ID": "Convict",
@@ -39323,7 +39328,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 187645
+      "UsersEstimate": 187646
     },
     {
       "ID": "Fighter",
@@ -39395,7 +39400,7 @@
       "Name": "Ginger in a Pickle",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 24475
+      "UsersEstimate": 24476
     },
     {
       "ID": "Haggler",
@@ -39467,7 +39472,7 @@
       "Name": "Kingdom did not come",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 24475
+      "UsersEstimate": 24476
     },
     {
       "ID": "Knightrider",
@@ -39523,7 +39528,7 @@
       "Name": "McLovin",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 57109
+      "UsersEstimate": 57110
     },
     {
       "ID": "MercenarysHonor",
@@ -39603,7 +39608,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 163169
+      "UsersEstimate": 163170
     },
     {
       "ID": "RevenantOfLedechko",
@@ -39627,7 +39632,7 @@
       "Name": "Runt",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 57109
+      "UsersEstimate": 57110
     },
     {
       "ID": "Saviour",
@@ -39643,7 +39648,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 163169
+      "UsersEstimate": 163170
     },
     {
       "ID": "SerialKiller",
@@ -39659,7 +39664,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 89743
+      "UsersEstimate": 89744
     },
     {
       "ID": "Sniper",
@@ -39731,7 +39736,7 @@
       "Name": "Traveller",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 89743
+      "UsersEstimate": 89744
     },
     {
       "ID": "TrialAndError",
@@ -39778,15 +39783,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 815847,
+      "Progressed": 815850,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2024-01-04T01:45:58.2044317+00:00",
-  "LastChanged_Achievements": "2024-01-04T05:10:18.6354706+00:00",
+  "LastChanged_Achievements": "2024-01-04T06:11:05.5933503+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:46.9804753+00:00",
-  "LastUpdate_Ratings": "2024-01-04T04:59:37.3009377+00:00",
-  "LastUpdate_Achievements": "2024-01-04T05:10:18.6356949+00:00"
+  "LastUpdate_Ratings": "2024-01-04T06:00:27.0838909+00:00",
+  "LastUpdate_Achievements": "2024-01-04T06:11:05.5935321+00:00"
 }

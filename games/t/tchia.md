@@ -12,11 +12,11 @@ Rating: 4.70 (Ranked 217)
 | Soul-Canon | 0.40% | ~35 |
 | Ahem Ahem | 0.30% | ~26 |
 | Globe Trotter | 0.30% | ~26 |
+| Shredder | 0.30% | ~26 |
 | Audiophile | 0.20% | ~17 |
 | Clay Pigeon | 0.20% | ~17 |
 | Historian | 0.20% | ~17 |
 | Iconoclast | 0.20% | ~17 |
-| Shredder | 0.20% | ~17 |
 | Arrr! | 0.10% | ~9 |
 | Fashion Faux-Pas | 0.10% | ~9 |
 | Fashion Victim | 0.10% | ~9 |

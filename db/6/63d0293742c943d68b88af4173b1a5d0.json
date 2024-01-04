@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 620,
+  "EOS_Progressed": 621,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2014,6 +2014,11 @@
       "Time": "2024-01-04T03:05:27.8498721+00:00",
       "NumProgressed": 620,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T06:05:05.0250196+00:00",
+      "NumProgressed": 621,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -2064,9 +2069,9 @@
       "ID": "8",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s On Fire",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 248
+      "UsersEstimate": 242
     },
     {
       "ID": "9",
@@ -2082,7 +2087,7 @@
       "Name": "Turn a Rat into a Snack",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "REMAKE_002",
@@ -2098,7 +2103,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "Remake_005",
@@ -2138,7 +2143,7 @@
       "Name": "Make a fish your dish",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "Remake_010",
@@ -2154,7 +2159,7 @@
       "Name": "Imma Powder Out",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "Remake_12",
@@ -2249,14 +2254,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 620,
+      "Progressed": 621,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-04T05:04:39.065755+00:00",
+  "LastChanged_Achievements": "2024-01-04T06:05:05.0250194+00:00",
   "LastUpdate_AppInfo": "2024-01-02T02:20:04.0332654+00:00",
-  "LastUpdate_Ratings": "2024-01-04T04:58:43.2071231+00:00",
-  "LastUpdate_Achievements": "2024-01-04T05:04:39.0657801+00:00"
+  "LastUpdate_Ratings": "2024-01-04T05:59:04.5114054+00:00",
+  "LastUpdate_Achievements": "2024-01-04T06:05:05.025045+00:00"
 }

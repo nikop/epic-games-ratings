@@ -5403,9 +5403,9 @@
       "Count": 533
     }
   ],
-  "EOS_Progressed": 92949,
+  "EOS_Progressed": 92950,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 324,
+  "EOS_NewPlayers": 322,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -30243,6 +30243,11 @@
       "Time": "2024-01-04T05:05:21.598146+00:00",
       "NumProgressed": 92949,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-04T06:06:03.9221803+00:00",
+      "NumProgressed": 92950,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -30278,7 +30283,7 @@
       "Name": "Hidden Sonata",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "ACH_0014",
@@ -30286,7 +30291,7 @@
       "Name": "Track Star",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "ACH_0015",
@@ -30502,7 +30507,7 @@
       "Name": "True Player",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "ACH_0450",
@@ -30581,13 +30586,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 92949,
+      "Progressed": 92950,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 21296,
+      "Progressed": 21297,
       "Completed": 15595
     }
   ],
@@ -30595,8 +30600,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2024-01-04T03:57:14.6738683+00:00",
-  "LastChanged_Achievements": "2024-01-04T05:05:21.5981458+00:00",
+  "LastChanged_Achievements": "2024-01-04T06:06:03.9221799+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:43.6008036+00:00",
-  "LastUpdate_Ratings": "2024-01-04T04:57:41.4350909+00:00",
-  "LastUpdate_Achievements": "2024-01-04T05:05:21.5982623+00:00"
+  "LastUpdate_Ratings": "2024-01-04T05:57:32.2310789+00:00",
+  "LastUpdate_Achievements": "2024-01-04T06:06:03.9223561+00:00"
 }

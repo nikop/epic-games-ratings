@@ -666,9 +666,9 @@
       "ID": "ACH_UNLOCK_CHAPTER_3",
       "SetID": "ajki3eh",
       "Name": "A Forked Tongue",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 342
+      "UsersEstimate": 348
     },
     {
       "ID": "ACH_UNLOCK_LUNA_ENDING",
@@ -738,8 +738,8 @@
   "FirstSeen": "2022-07-22T20:30:06.1147591+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.1712211+00:00",
   "LastChanged": "2023-03-31T05:57:36.3389853+00:00",
-  "LastChanged_Achievements": "2024-01-04T05:05:42.8547042+00:00",
+  "LastChanged_Achievements": "2024-01-04T06:06:33.9159318+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:18.8138447+00:00",
-  "LastUpdate_Ratings": "2024-01-04T04:58:39.645561+00:00",
-  "LastUpdate_Achievements": "2024-01-04T05:05:42.8547273+00:00"
+  "LastUpdate_Ratings": "2024-01-04T05:59:00.313623+00:00",
+  "LastUpdate_Achievements": "2024-01-04T06:06:33.91596+00:00"
 }

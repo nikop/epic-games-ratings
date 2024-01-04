@@ -4,7 +4,7 @@
   "ProductSlug": "deus-ex-mankind-divided-4c6370",
   "Ranking_EOS_Progress": 519,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
@@ -843,9 +843,9 @@
       "ID": "NEW_ACHIEVEMENT_2_5",
       "SetID": "7on801h",
       "Name": "The Golden Ticket",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_6",
@@ -1040,8 +1040,8 @@
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2024-01-04T05:05:51.5347572+00:00",
+  "LastChanged_Achievements": "2024-01-04T06:06:45.5890922+00:00",
   "LastUpdate_AppInfo": "2024-01-03T16:57:22.5925378+00:00",
-  "LastUpdate_Ratings": "2024-01-04T04:57:37.8163633+00:00",
-  "LastUpdate_Achievements": "2024-01-04T05:05:51.5348276+00:00"
+  "LastUpdate_Ratings": "2024-01-04T05:57:26.6452641+00:00",
+  "LastUpdate_Achievements": "2024-01-04T06:06:45.5891689+00:00"
 }

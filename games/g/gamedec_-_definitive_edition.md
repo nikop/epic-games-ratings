@@ -8,9 +8,9 @@ Number of Ratings: 33  (23.09.2022)
 | ---- | ---------- | ----- |
 | I will finish what you started | 29.00% | ~74,462 |
 | Powergamer | 27.00% | ~69,327 |
-| Write that down | 25.00% | ~64,191 |
-| Barely scratched the surface | 25.00% | ~64,191 |
-| Guns, lots of guns | 13.00% | ~33,379 |
+| Write that down | 25.00% | ~64,192 |
+| Barely scratched the surface | 25.00% | ~64,192 |
+| Guns, lots of guns | 13.00% | ~33,380 |
 | Collector | 12.00% | ~30,812 |
 | Elementary! | 9.00% | ~23,109 |
 | Griever | 8.00% | ~20,541 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~514 |
 | Memory 5 | 0.10% | ~257 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 256,765 (Ranked 68)  
+Progressed: 256,766 (Ranked 68)  
 Completed: 8 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 8 (0.00%) (Ranked 392)
 | 2024-01-01 | 256,524 | 8 |
 | 2024-01-02 | 256,627 | 8 |
 | 2024-01-03 | 256,748 | 8 |
-| 2024-01-04 | 256,765 | 8 |
+| 2024-01-04 | 256,766 | 8 |
 ## Awards
 Max (Character Customization): 96  (Ranked 383)  
 Sum: 96 (Ranked 467)  

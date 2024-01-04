@@ -277,9 +277,9 @@
       "Count": 93
     }
   ],
-  "EOS_Progressed": 1252,
+  "EOS_Progressed": 1253,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3507,6 +3507,11 @@
       "Time": "2024-01-04T04:04:19.003618+00:00",
       "NumProgressed": 1252,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-04T06:04:56.4697739+00:00",
+      "NumProgressed": 1253,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3719,7 +3724,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "Mnemosyne",
@@ -3741,9 +3746,9 @@
       "ID": "MuseumVisitor",
       "SetID": "1n308hc",
       "Name": "Museum Visitor",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 300
+      "UsersEstimate": 313
     },
     {
       "ID": "NewBeginning",
@@ -3773,9 +3778,9 @@
       "ID": "Overload",
       "SetID": "1n308hc",
       "Name": "Overload",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 388
+      "UsersEstimate": 376
     },
     {
       "ID": "Persistent",
@@ -3831,7 +3836,7 @@
       "Name": "Signatory",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "SingleRod",
@@ -3863,7 +3868,7 @@
       "Name": "Team Spirit",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "TextAdventurer",
@@ -3990,7 +3995,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1252,
+      "Progressed": 1253,
       "Completed": 2
     }
   ],
@@ -3998,8 +4003,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-03T15:00:44.4057345+00:00",
-  "LastChanged_Achievements": "2024-01-04T05:04:33.1138845+00:00",
+  "LastChanged_Achievements": "2024-01-04T06:04:56.4697737+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.9244138+00:00",
-  "LastUpdate_Ratings": "2024-01-04T04:59:59.3284015+00:00",
-  "LastUpdate_Achievements": "2024-01-04T05:04:33.1139333+00:00"
+  "LastUpdate_Ratings": "2024-01-04T06:01:00.6131853+00:00",
+  "LastUpdate_Achievements": "2024-01-04T06:04:56.4698243+00:00"
 }

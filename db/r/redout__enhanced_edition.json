@@ -343,7 +343,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 238643,
+  "EOS_Progressed": 238644,
   "EOS_Completed": 49,
   "EOS_NewPlayers": 550,
   "EOS_NewCompleters": 0,
@@ -27503,6 +27503,11 @@
       "Time": "2024-01-04T05:04:10.7257109+00:00",
       "NumProgressed": 238643,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2024-01-04T06:04:25.1951693+00:00",
+      "NumProgressed": 238644,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -27538,7 +27543,7 @@
       "Name": "CENTAUR",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 19091
+      "UsersEstimate": 19092
     },
     {
       "ID": "CHALLENGER",
@@ -27578,7 +27583,7 @@
       "Name": "FASTER THAN EVER",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 19091
+      "UsersEstimate": 19092
     },
     {
       "ID": "FLAWLESS",
@@ -27650,7 +27655,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 78752
+      "UsersEstimate": 78753
     },
     {
       "ID": "NOBUNAGA",
@@ -27738,7 +27743,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 52501
+      "UsersEstimate": 52502
     },
     {
       "ID": "TACTICIAN",
@@ -27762,7 +27767,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 52501
+      "UsersEstimate": 52502
     },
     {
       "ID": "TUNINGMANIAC",
@@ -27785,15 +27790,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 238643,
+      "Progressed": 238644,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-12-24T20:57:53.5122809+00:00",
-  "LastChanged_Achievements": "2024-01-04T05:04:10.7257105+00:00",
+  "LastChanged_Achievements": "2024-01-04T06:04:25.195169+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:41.2856312+00:00",
-  "LastUpdate_Ratings": "2024-01-04T04:59:13.4148533+00:00",
-  "LastUpdate_Achievements": "2024-01-04T05:04:10.7258527+00:00"
+  "LastUpdate_Ratings": "2024-01-04T05:59:53.102864+00:00",
+  "LastUpdate_Achievements": "2024-01-04T06:04:25.1953065+00:00"
 }

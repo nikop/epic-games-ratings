@@ -277,7 +277,7 @@
   "Tags": [],
   "EOS_Progressed": 8682,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 264,
+  "EOS_NewPlayers": 263,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -10927,9 +10927,9 @@
       "ID": "SHREDDER",
       "SetID": "3cck1g6",
       "Name": "Shredder",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 17
+      "UsersEstimate": 26
     },
     {
       "ID": "SNIP_SNIP",
@@ -10976,8 +10976,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2024-01-02T06:58:15.4214976+00:00",
-  "LastChanged_Achievements": "2024-01-04T05:08:59.1244991+00:00",
+  "LastChanged_Achievements": "2024-01-04T06:09:15.1188876+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:18.6099916+00:00",
-  "LastUpdate_Ratings": "2024-01-04T04:59:22.1144333+00:00",
-  "LastUpdate_Achievements": "2024-01-04T05:08:59.1245521+00:00"
+  "LastUpdate_Ratings": "2024-01-04T06:00:06.4124528+00:00",
+  "LastUpdate_Achievements": "2024-01-04T06:09:15.118983+00:00"
 }

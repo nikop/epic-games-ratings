@@ -4,7 +4,7 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 357,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 432,
+  "Ranking_EOS_NewPlayers": 422,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 431,
+  "EOS_Progressed": 432,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -714,6 +714,11 @@
       "Time": "2024-01-03T19:09:51.1619142+00:00",
       "NumProgressed": 431,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-04T06:09:42.4037293+00:00",
+      "NumProgressed": 432,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -725,7 +730,7 @@
       "Name": "Brace for impact!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ALL_ACHIEVEMENTS",
@@ -877,7 +882,7 @@
       "Name": "Amateur Mechanic",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "HIGHEST_ASTEROID",
@@ -909,7 +914,7 @@
       "Name": "Pushover",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "HIT_ALIEN",
@@ -949,7 +954,7 @@
       "Name": "Toot Toot!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "JOIN_A_FRIEND",
@@ -1157,14 +1162,14 @@
       "Name": "Blasting away!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     }
   ],
   "AchievementSets": [
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 431,
+      "Progressed": 432,
       "Completed": 2
     }
   ],
@@ -1172,8 +1177,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2024-01-04T05:09:18.2710297+00:00",
+  "LastChanged_Achievements": "2024-01-04T06:09:42.4037289+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:00.1799692+00:00",
-  "LastUpdate_Ratings": "2024-01-04T04:59:11.1740502+00:00",
-  "LastUpdate_Achievements": "2024-01-04T05:09:18.2710744+00:00"
+  "LastUpdate_Ratings": "2024-01-04T05:59:49.7376746+00:00",
+  "LastUpdate_Achievements": "2024-01-04T06:09:42.4037775+00:00"
 }

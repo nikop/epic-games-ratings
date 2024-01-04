@@ -409,9 +409,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1596,
+  "EOS_Progressed": 1597,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4124,6 +4124,11 @@
       "Time": "2024-01-04T05:10:14.7124698+00:00",
       "NumProgressed": 1596,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-04T06:11:00.3107186+00:00",
+      "NumProgressed": 1597,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4183,7 +4188,7 @@
       "Name": "Double agent",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "EARLY_ACCESS_1",
@@ -4191,7 +4196,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1580
+      "UsersEstimate": 1581
     },
     {
       "ID": "EXPERT_1",
@@ -4207,7 +4212,7 @@
       "Name": "Explorer",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "GHOSTBUSTER",
@@ -4311,7 +4316,7 @@
       "Name": "Paranoia",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "PRIVATE_EYE",
@@ -4422,15 +4427,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1596,
+      "Progressed": 1597,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-12-27T01:41:52.1948259+00:00",
-  "LastChanged_Achievements": "2024-01-04T05:10:14.7124696+00:00",
+  "LastChanged_Achievements": "2024-01-04T06:11:00.3107183+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.8702318+00:00",
-  "LastUpdate_Ratings": "2024-01-04T04:57:32.075665+00:00",
-  "LastUpdate_Achievements": "2024-01-04T05:10:14.7125177+00:00"
+  "LastUpdate_Ratings": "2024-01-04T05:57:17.6506815+00:00",
+  "LastUpdate_Achievements": "2024-01-04T06:11:00.3107586+00:00"
 }

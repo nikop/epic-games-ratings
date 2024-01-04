@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 176,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 3802,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3749,9 +3749,9 @@
       "Count": 338
     }
   ],
-  "EOS_Progressed": 20077,
+  "EOS_Progressed": 20080,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 598,
+  "EOS_NewPlayers": 600,
   "EOS_NewCompleters": -3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -18334,6 +18334,11 @@
       "Time": "2024-01-04T05:05:33.9614201+00:00",
       "NumProgressed": 20077,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2024-01-04T06:06:21.5601567+00:00",
+      "NumProgressed": 20080,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -18434,7 +18439,7 @@
       "Name": "First Real Expedition",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1405
+      "UsersEstimate": 1406
     },
     {
       "ID": "WinHard",
@@ -18682,7 +18687,7 @@
       "Name": "Taking Action",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1405
+      "UsersEstimate": 1406
     },
     {
       "ID": "WinWithResolve",
@@ -18722,7 +18727,7 @@
       "Name": "No Deaths",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1405
+      "UsersEstimate": 1406
     },
     {
       "ID": "WinWithoutOrders",
@@ -18778,7 +18783,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1405
+      "UsersEstimate": 1406
     },
     {
       "ID": "WinNearPresence",
@@ -18817,15 +18822,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20077,
+      "Progressed": 20080,
       "Completed": 33
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-03T18:59:48.2752359+00:00",
-  "LastChanged_Achievements": "2024-01-04T05:05:33.9614198+00:00",
+  "LastChanged_Achievements": "2024-01-04T06:06:21.5601564+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:03.5085053+00:00",
-  "LastUpdate_Ratings": "2024-01-04T04:59:10.9076692+00:00",
-  "LastUpdate_Achievements": "2024-01-04T05:05:33.9615282+00:00"
+  "LastUpdate_Ratings": "2024-01-04T05:59:49.3649121+00:00",
+  "LastUpdate_Achievements": "2024-01-04T06:06:21.5602821+00:00"
 }

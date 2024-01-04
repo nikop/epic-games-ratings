@@ -7975,9 +7975,9 @@
       "Count": 3813
     }
   ],
-  "EOS_Progressed": 149270,
+  "EOS_Progressed": 149274,
   "EOS_Completed": 342,
-  "EOS_NewPlayers": 1211,
+  "EOS_NewPlayers": 1209,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -35250,6 +35250,11 @@
       "Time": "2024-01-04T05:06:48.7709866+00:00",
       "NumProgressed": 149270,
       "NumCompleted": 342
+    },
+    {
+      "Time": "2024-01-04T06:08:34.7646466+00:00",
+      "NumProgressed": 149274,
+      "NumCompleted": 342
     }
   ],
   "TotalAchievements": 112,
@@ -35493,7 +35498,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13434
+      "UsersEstimate": 13435
     },
     {
       "ID": "commonres02",
@@ -35733,7 +35738,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13434
+      "UsersEstimate": 13435
     },
     {
       "ID": "gold02",
@@ -35827,9 +35832,9 @@
       "ID": "jackslot03",
       "SetID": "anfd17p",
       "Name": "JACKPOT!!!",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 896
+      "UsersEstimate": 1045
     },
     {
       "ID": "legenchant01",
@@ -36156,15 +36161,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 149270,
+      "Progressed": 149274,
       "Completed": 342
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-03T21:03:45.6839609+00:00",
-  "LastChanged_Achievements": "2024-01-04T05:06:48.7709863+00:00",
+  "LastChanged_Achievements": "2024-01-04T06:08:34.7646462+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.6407181+00:00",
-  "LastUpdate_Ratings": "2024-01-04T05:03:31.9095763+00:00",
-  "LastUpdate_Achievements": "2024-01-04T05:06:48.7712006+00:00"
+  "LastUpdate_Ratings": "2024-01-04T06:03:27.2318225+00:00",
+  "LastUpdate_Achievements": "2024-01-04T06:08:34.7649213+00:00"
 }

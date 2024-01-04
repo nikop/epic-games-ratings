@@ -4,7 +4,7 @@
   "ProductSlug": "tt-isle-of-man-ride-on-the-edge-3",
   "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewPlayers": 349,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 245,
+  "EOS_Progressed": 246,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.82,
+  "EOS_Completed_Percentage": 0.81,
   "EosHistory": [
     {
       "Time": "2023-05-09T11:06:33.5022357+00:00",
@@ -1175,6 +1175,11 @@
       "Time": "2024-01-03T16:04:36.0078614+00:00",
       "NumProgressed": 245,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-04T06:05:54.2877279+00:00",
+      "NumProgressed": 246,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -1200,17 +1205,17 @@
       "ID": "ACHIEVEMENT_03",
       "SetID": "gagif7",
       "Name": "To Each Their Own",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 101
     },
     {
       "ID": "ACHIEVEMENT_04",
       "SetID": "gagif7",
       "Name": "Like Phileas Fogg",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -1450,7 +1455,7 @@
       "Name": "You\u0027re Going Down!",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -1497,14 +1502,14 @@
     {
       "ID": "gagif7",
       "IsBase": true,
-      "Progressed": 245,
+      "Progressed": 246,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2024-01-04T05:05:14.7030908+00:00",
+  "LastChanged_Achievements": "2024-01-04T06:05:54.2877276+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:15.8225499+00:00",
-  "LastUpdate_Ratings": "2024-01-04T04:59:16.2235108+00:00",
-  "LastUpdate_Achievements": "2024-01-04T05:05:14.7031209+00:00"
+  "LastUpdate_Ratings": "2024-01-04T05:59:57.5265727+00:00",
+  "LastUpdate_Achievements": "2024-01-04T06:05:54.2877548+00:00"
 }
