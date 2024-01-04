@@ -5,70 +5,70 @@ Rating: 4.71 (Ranked 202)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 88.00% | ~627 |
-| Thalya – Simply Immortal | 88.00% | ~627 |
-| For the Horde! | 82.00% | ~585 |
-| Hammer Time, Round Two | 81.00% | ~578 |
-| The Hellwoods | 77.00% | ~549 |
-| The Plains of Strothalm | 73.00% | ~520 |
-| Experienced Thalya | 71.00% | ~506 |
-| Bad Elves Go Everywhere | 69.00% | ~492 |
-| Thalya's Concentrated Fury | 68.00% | ~485 |
-| Heroes’ Gorge | 65.00% | ~463 |
-| Master of Magic | 62.00% | ~442 |
-| Unicorn steaks – fresh off the hoof! | 62.00% | ~442 |
-| Magic Accidents | 59.00% | ~421 |
-| The Ascent | 59.00% | ~421 |
-| It's Warm and Cozy at Home | 59.00% | ~421 |
-| Trap Master | 56.00% | ~399 |
-| Minions, Minions! | 55.00% | ~392 |
-| Hard Work | 54.00% | ~385 |
-| The Big Eaty | 53.00% | ~378 |
-| YOU SHALL NOT PASS! | 50.00% | ~356 |
-| “… like son” | 50.00% | ~356 |
-| The Cathedral of Light | 47.00% | ~335 |
-| Shame! Shame! Shame! | 47.00% | ~335 |
-| Tanos' Crusade Against Thalya | 45.00% | ~321 |
-| Pure Dynamite! | 44.00% | ~314 |
-| Dungeonlord Gorgu | 44.00% | ~314 |
-| Mana Cannon | 42.00% | ~299 |
-| All’s Well That Ends Evil | 40.00% | ~285 |
-| The Duel | 38.00% | ~271 |
+| The Last Stand | 88.00% | ~629 |
+| Thalya – Simply Immortal | 88.00% | ~629 |
+| For the Horde! | 82.00% | ~586 |
+| Hammer Time, Round Two | 81.00% | ~579 |
+| The Hellwoods | 77.00% | ~551 |
+| The Plains of Strothalm | 72.00% | ~515 |
+| Experienced Thalya | 71.00% | ~508 |
+| Thalya's Concentrated Fury | 68.00% | ~486 |
+| Bad Elves Go Everywhere | 68.00% | ~486 |
+| Heroes’ Gorge | 64.00% | ~458 |
+| Master of Magic | 62.00% | ~443 |
+| Unicorn steaks – fresh off the hoof! | 62.00% | ~443 |
+| Magic Accidents | 59.00% | ~422 |
+| The Ascent | 58.00% | ~415 |
+| It's Warm and Cozy at Home | 58.00% | ~415 |
+| Trap Master | 56.00% | ~400 |
+| Minions, Minions! | 55.00% | ~393 |
+| Hard Work | 54.00% | ~386 |
+| The Big Eaty | 53.00% | ~379 |
+| YOU SHALL NOT PASS! | 50.00% | ~358 |
+| “… like son” | 50.00% | ~358 |
+| The Cathedral of Light | 47.00% | ~336 |
+| Shame! Shame! Shame! | 47.00% | ~336 |
+| Tanos' Crusade Against Thalya | 45.00% | ~322 |
+| Pure Dynamite! | 44.00% | ~315 |
+| Dungeonlord Gorgu | 44.00% | ~315 |
+| Mana Cannon | 42.00% | ~300 |
+| All’s Well That Ends Evil | 40.00% | ~286 |
+| The Duel | 38.00% | ~272 |
 | If Looks Could Kill | 35.00% | ~250 |
-| Unstoppable Horde | 34.00% | ~242 |
-| Master of the Undead | 34.00% | ~242 |
-| The Finitude Drill | 33.00% | ~235 |
+| Unstoppable Horde | 34.00% | ~243 |
+| Master of the Undead | 34.00% | ~243 |
+| The Finitude Drill | 33.00% | ~236 |
 | Ghost Pirates? Ghost Heroes! | 30.00% | ~214 |
 | Doom Hill | 30.00% | ~214 |
 | Forbidden Knowledge | 28.00% | ~200 |
 | Brimstone Shaken, Not Stirred | 28.00% | ~200 |
 | Hungry, Hungry Gorgu! | 27.00% | ~193 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 27.00% | ~193 |
-| Stop Tanos! | 26.00% | ~185 |
-| Sabotage! | 26.00% | ~185 |
-| Raiders of the Lost Stone | 26.00% | ~185 |
-| The Rune Sockets of Finitude (Part 1) | 26.00% | ~185 |
-| Bonus Evilness | 25.00% | ~178 |
-| The Rune Sockets of Finitude (Part 2) | 24.00% | ~171 |
+| Stop Tanos! | 26.00% | ~186 |
+| Sabotage! | 26.00% | ~186 |
+| Raiders of the Lost Stone | 26.00% | ~186 |
+| The Rune Sockets of Finitude (Part 1) | 26.00% | ~186 |
+| Bonus Evilness | 25.00% | ~179 |
+| The Rune Sockets of Finitude (Part 2) | 24.00% | ~172 |
 | The Last Stand - This Time For Real! | 23.00% | ~164 |
 | Rubble and Ashes | 21.00% | ~150 |
 | Lavalumps on Ice! | 20.00% | ~143 |
-| To Infinity And Beyond! | 19.00% | ~135 |
-| Sacrificial Pit = Garbage Disposal? | 18.00% | ~128 |
-| My Little Torture Chamber | 18.00% | ~128 |
-| To the Max! | 18.00% | ~128 |
-| Evilification | 17.00% | ~121 |
+| To Infinity And Beyond! | 19.00% | ~136 |
+| Sacrificial Pit = Garbage Disposal? | 18.00% | ~129 |
+| My Little Torture Chamber | 18.00% | ~129 |
+| To the Max! | 18.00% | ~129 |
+| Evilification | 17.00% | ~122 |
 | Mirror, Mirror | 16.00% | ~114 |
 | Untouchable | 16.00% | ~114 |
 | Heal Heal Blessing | 16.00% | ~114 |
 | Laser Eyes Are So Useless | 14.00% | ~100 |
 | Hands Off My Stones | 13.00% | ~93 |
 | Gorgu is in the Best of Health | 12.00% | ~86 |
-| No Mana, No Cry | 10.00% | ~71 |
-| I Don't Need Any Help | 10.00% | ~71 |
+| No Mana, No Cry | 10.00% | ~72 |
+| I Don't Need Any Help | 10.00% | ~72 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713 (Ranked 314)  
-Completed: 28 (3.93%) (Ranked 92)  
+Progressed: 715 (Ranked 314)  
+Completed: 28 (3.92%) (Ranked 92)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -127,7 +127,7 @@ Completed: 28 (3.93%) (Ranked 92)
 | 2024-01-01 | 689 | 26 |
 | 2024-01-02 | 701 | 27 |
 | 2024-01-03 | 710 | 28 |
-| 2024-01-04 | 713 | 28 |
+| 2024-01-04 | 715 | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,13 +2,13 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 428,
+  "Ranking_Rating": 444,
   "Ranking_Popularity": 426,
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 84,
-  "Ranking_EOS_Completed": 257,
+  "Ranking_EOS_Completed": 260,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -21,7 +21,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.59,
   "NumberOfRatings": 46,
   "RatingHistory": [
     {
@@ -1745,10 +1745,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 440,
       "NumberOfAwardsMax": 61
+    },
+    {
+      "Time": "2024-01-04T14:00:27.8179783+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 441,
+      "NumberOfAwardsMax": 61
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 440,
+  "NumberOfAwards": 441,
   "NumberOfAwardsMax": 61,
   "MaxAwardTitle": "Unique Visuals",
   "Tags": [
@@ -1762,7 +1768,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 59
+      "Count": 60
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1807,11 +1813,11 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 166410,
+  "EOS_Progressed": 166418,
   "EOS_Completed": 441,
-  "EOS_NewPlayers": 1319,
+  "EOS_NewPlayers": 1317,
   "EOS_NewCompleters": 24,
-  "EOS_Completed_Percentage": 0.27,
+  "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:06.2765882+00:00",
@@ -21802,6 +21808,11 @@
       "Time": "2024-01-04T13:09:46.35177+00:00",
       "NumProgressed": 166410,
       "NumCompleted": 441
+    },
+    {
+      "Time": "2024-01-04T14:06:07.7669696+00:00",
+      "NumProgressed": 166418,
+      "NumCompleted": 441
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -21878,7 +21889,7 @@
       "Name": "Taste",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4992
+      "UsersEstimate": 4993
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -21958,7 +21969,7 @@
       "Name": "Jawcrab",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "DEFEAT_JAWSTAG",
@@ -21966,7 +21977,7 @@
       "Name": "Jawstag",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "DEFEAT_PERFORMER",
@@ -21990,7 +22001,7 @@
       "Name": "Feast",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "DEFEAT_WATCHER",
@@ -22030,7 +22041,7 @@
       "Name": "Imprint",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4992
+      "UsersEstimate": 4993
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -22181,21 +22192,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 165993,
+      "Progressed": 166001,
       "Completed": 1254
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 166410,
+      "Progressed": 166418,
       "Completed": 441
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2024-01-03T05:59:13.2567344+00:00",
-  "LastChanged_Achievements": "2024-01-04T13:09:46.3517696+00:00",
+  "LastChanged": "2024-01-04T14:00:27.8179781+00:00",
+  "LastChanged_Achievements": "2024-01-04T14:06:07.7669693+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:50.3299145+00:00",
-  "LastUpdate_Ratings": "2024-01-04T13:03:46.1261281+00:00",
-  "LastUpdate_Achievements": "2024-01-04T13:09:46.3518966+00:00"
+  "LastUpdate_Ratings": "2024-01-04T14:00:27.8179786+00:00",
+  "LastUpdate_Achievements": "2024-01-04T14:06:07.767068+00:00"
 }

@@ -1,13 +1,13 @@
 # GRIME
 [Store](https://store.epicgames.com/en-US/p/grime)  
 [View Rawdata](../../db/g/grime.json)  
-Rating: 4.60 (Ranked 428)  
+Rating: 4.59 (Ranked 444)  
 Number of Ratings: 46  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 3.00% | ~4,992 |
-| Imprint | 3.00% | ~4,992 |
+| Taste | 3.00% | ~4,993 |
+| Imprint | 3.00% | ~4,993 |
 | The Hunt | 2.00% | ~3,328 |
 | Weeper | 2.00% | ~3,328 |
 | Ravenous | 2.00% | ~3,328 |
@@ -17,9 +17,9 @@ Number of Ratings: 46  (23.09.2022)
 | Yank | 0.70% | ~1,165 |
 | Sharpened Vessel | 0.70% | ~1,165 |
 | Scion | 0.60% | ~996 |
-| Jawcrab | 0.60% | ~998 |
-| Jawstag | 0.60% | ~998 |
-| Feast | 0.60% | ~998 |
+| Jawcrab | 0.60% | ~999 |
+| Jawstag | 0.60% | ~999 |
+| Feast | 0.60% | ~999 |
 | Shapely | 0.50% | ~832 |
 | Glare | 0.50% | ~830 |
 | Watcher | 0.50% | ~832 |
@@ -53,8 +53,8 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~166 |
 | Intensify | 0.10% | ~166 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 166,410 (Ranked 84)  
-Completed: 441 (0.27%) (Ranked 257)  
+Progressed: 166,418 (Ranked 84)  
+Completed: 441 (0.26%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -289,15 +289,15 @@ Completed: 441 (0.27%) (Ranked 257)
 | 2024-01-01 | 166,011 | 436 |
 | 2024-01-02 | 166,178 | 440 |
 | 2024-01-03 | 166,329 | 441 |
-| 2024-01-04 | 166,410 | 441 |
+| 2024-01-04 | 166,418 | 441 |
 ## Awards
 Max (Unique Visuals): 61  (Ranked 426)  
-Sum: 440 (Ranked 343)  
+Sum: 441 (Ranked 343)  
 Diff (max vs sum): 83  
 | Award | Count |
 | ----- | ----- |
 | This game has Unique Visuals | 61 |
-| This game is Highly Recommended | 59 |
+| This game is Highly Recommended | 60 |
 | This game has Quickly Understood Controls | 58 |
 | This game has Amazing Storytelling | 58 |
 | This game has Challenging Combat | 56 |
@@ -481,3 +481,4 @@ Diff (max vs sum): 83
 | 2023-12-31 | 4.59 | - | 61 | 434 |
 | 2024-01-01 | 4.60 | - | 61 | 438 |
 | 2024-01-03 | 4.60 | - | 61 | 440 |
+| 2024-01-04 | 4.59 | - | 61 | 441 |

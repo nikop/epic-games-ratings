@@ -13,8 +13,8 @@
 | The individualist | 17.00% | ~79 |
 | The nice guy | 11.00% | ~51 |
 | Picky, Picky! | 10.00% | ~46 |
+| The lad | 9.00% | ~42 |
 | The debonair | 9.00% | ~42 |
-| The lad | 8.00% | ~37 |
 | The techie | 7.00% | ~33 |
 | More than browsing | 6.00% | ~28 |
 | The bad boy | 5.00% | ~23 |

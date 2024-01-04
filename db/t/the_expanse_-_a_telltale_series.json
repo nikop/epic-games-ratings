@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18166,
+  "EOS_Progressed": 18170,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 526,
+  "EOS_NewPlayers": 529,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -16245,6 +16245,11 @@
       "Time": "2024-01-04T13:08:55.093975+00:00",
       "NumProgressed": 18166,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-04T14:05:16.9552737+00:00",
+      "NumProgressed": 18170,
+      "NumCompleted": 58
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16289,7 +16294,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3088
+      "UsersEstimate": 3089
     },
     {
       "ID": "14",
@@ -16361,7 +16366,7 @@
       "Name": "Drone Dodger",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1998
+      "UsersEstimate": 1999
     },
     {
       "ID": "22",
@@ -16377,7 +16382,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1453
+      "UsersEstimate": 1454
     },
     {
       "ID": "24",
@@ -16417,7 +16422,7 @@
       "Name": "Scavenger Star",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "29",
@@ -16497,7 +16502,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "32",
@@ -16536,13 +16541,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18166,
+      "Progressed": 18170,
       "Completed": 58
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4120,
+      "Progressed": 4124,
       "Completed": 1179
     }
   ],
@@ -16550,8 +16555,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T23:58:17.8612142+00:00",
-  "LastChanged_Achievements": "2024-01-04T13:08:55.0939747+00:00",
+  "LastChanged_Achievements": "2024-01-04T14:05:16.9552734+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2024-01-04T13:04:01.0753111+00:00",
-  "LastUpdate_Achievements": "2024-01-04T13:08:55.094056+00:00"
+  "LastUpdate_Ratings": "2024-01-04T14:00:44.4823278+00:00",
+  "LastUpdate_Achievements": "2024-01-04T14:05:16.9553815+00:00"
 }

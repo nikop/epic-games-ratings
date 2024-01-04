@@ -7,13 +7,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 3.00% | ~7,524 |
+| The Cursed Farmer | 2.00% | ~5,016 |
 | Beast Intentions | 1.00% | ~2,508 |
-| The Cursed Farmer | 1.00% | ~2,508 |
 | The Mad Wizard | 1.00% | ~2,508 |
 | Welcome to Sigil | 0.80% | ~1,737 |
 | The Ring of Regeneration | 0.70% | ~1,756 |
 | Are Ya Chicken? | 0.60% | ~1,505 |
-| Fast Food | 0.60% | ~1,302 |
+| Fast Food | 0.60% | ~1,303 |
 | Were-verpowered | 0.50% | ~1,254 |
 | Seeking Allies | 0.50% | ~1,254 |
 | Mad Cow Disease | 0.50% | ~1,254 |
@@ -38,6 +38,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Contagious Curse | 0.30% | ~752 |
 | Welcome to the Vrocks | 0.30% | ~651 |
 | The Silken Swamp | 0.20% | ~502 |
+| Supply Run | 0.20% | ~502 |
 | Low Initiative | 0.20% | ~502 |
 | A Mysterious Summons | 0.20% | ~502 |
 | Building Trust | 0.20% | ~502 |
@@ -47,6 +48,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Useless Allies | 0.20% | ~502 |
 | Running of the Saurs | 0.20% | ~502 |
 | Escort to Waterdeep | 0.20% | ~502 |
+| Close Escort | 0.20% | ~502 |
 | Waterdeep Detours | 0.20% | ~502 |
 | Underdeep Cartography | 0.20% | ~502 |
 | Overdue Rendezvous | 0.20% | ~502 |
@@ -118,7 +120,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Roots of Loomlurch | 0.10% | ~217 |
 | The Loots of Loomlurch | 0.10% | ~217 |
 | The Lutes of Loomlurch | 0.10% | ~217 |
-| Supply Run | 0.10% | ~251 |
 | Best Laid Plans | 0.10% | ~217 |
 | Pincushion Party | 0.10% | ~217 |
 | G. O. A. T. | 0.10% | ~217 |
@@ -419,7 +420,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Enemy Summit | 0.10% | ~217 |
 | Mirage Arcane | 0.10% | ~217 |
 | Only Human | 0.10% | ~217 |
-| Close Escort | 0.10% | ~251 |
 | Constant Banditry | 0.10% | ~251 |
 | The Long Haul | 0.10% | ~251 |
 | Lost in the Deep | 0.10% | ~251 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~217 |
 | A Wise Approach | 0.10% | ~217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,793 (Ranked 70)  
+Progressed: 250,814 (Ranked 70)  
 Completed: 2,590 (1.03%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -812,7 +812,7 @@ Completed: 2,590 (1.03%) (Ranked 170)
 | 2024-01-01 | 249,335 | 2,583 |
 | 2024-01-02 | 250,032 | 2,585 |
 | 2024-01-03 | 250,594 | 2,588 |
-| 2024-01-04 | 250,793 | 2,590 |
+| 2024-01-04 | 250,814 | 2,590 |
 ## Awards
 Max (Great for Beginners): 5,740  (Ranked 72)  
 Sum: 33,304 (Ranked 41)  

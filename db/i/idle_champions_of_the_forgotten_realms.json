@@ -9313,9 +9313,9 @@
       "Count": 3624
     }
   ],
-  "EOS_Progressed": 250793,
+  "EOS_Progressed": 250814,
   "EOS_Completed": 2590,
-  "EOS_NewPlayers": 4826,
+  "EOS_NewPlayers": 4818,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -38648,6 +38648,11 @@
       "Time": "2024-01-04T13:13:53.484034+00:00",
       "NumProgressed": 250793,
       "NumCompleted": 2590
+    },
+    {
+      "Time": "2024-01-04T14:10:22.3687372+00:00",
+      "NumProgressed": 250814,
+      "NumCompleted": 2590
     }
   ],
   "TotalAchievements": 546,
@@ -39217,9 +39222,9 @@
       "ID": "objective_completed_114",
       "SetID": "cc37lbc",
       "Name": "Supply Run",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 251
+      "UsersEstimate": 502
     },
     {
       "ID": "objective_completed_1142",
@@ -40329,9 +40334,9 @@
       "ID": "objective_completed_3",
       "SetID": "cc37lbc",
       "Name": "The Cursed Farmer",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2508
+      "UsersEstimate": 5016
     },
     {
       "ID": "objective_completed_34",
@@ -41809,9 +41814,9 @@
       "ID": "objective_completed_70",
       "SetID": "cc37lbc",
       "Name": "Close Escort",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 251
+      "UsersEstimate": 502
     },
     {
       "ID": "objective_completed_71",
@@ -42963,7 +42968,7 @@
       "Name": "Fast Food",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1302
+      "UsersEstimate": 1303
     },
     {
       "ID": "objective_completed_1563",
@@ -43026,21 +43031,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 217067,
+      "Progressed": 217088,
       "Completed": 4132
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 250793,
+      "Progressed": 250814,
       "Completed": 2590
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-04T03:58:47.9786606+00:00",
-  "LastChanged_Achievements": "2024-01-04T13:13:53.4840336+00:00",
+  "LastChanged_Achievements": "2024-01-04T14:10:22.3687368+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-04T13:02:52.4058844+00:00",
-  "LastUpdate_Achievements": "2024-01-04T13:13:53.486626+00:00"
+  "LastUpdate_Ratings": "2024-01-04T13:59:31.9453486+00:00",
+  "LastUpdate_Achievements": "2024-01-04T14:10:22.3712598+00:00"
 }

@@ -36,9 +36,9 @@ Number of Ratings: 116  (23.09.2022)
 | Big Spender | 24.00% | ~99 |
 | Crowd Source | 23.00% | ~95 |
 | Cleanup Crew | 22.00% | ~91 |
+| Maximum Capacity | 20.00% | ~83 |
 | Demon Meddler | 20.00% | ~83 |
 | Seeing Red | 20.00% | ~83 |
-| Maximum Capacity | 19.00% | ~78 |
 | Egomaniac | 18.00% | ~74 |
 | Protector of Humanity | 16.00% | ~66 |
 | Everybody Wants to Rule the World | 16.00% | ~66 |

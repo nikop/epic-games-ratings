@@ -40,6 +40,7 @@ Rating: 4.58 (Ranked 466)
 | Sustainable Energy | 4.00% | ~158 |
 | Pedal to the Metal | 4.00% | ~158 |
 | Praise the Hull! | 3.00% | ~118 |
+| Space Greenhouse | 3.00% | ~118 |
 | Delivery! | 3.00% | ~118 |
 | Help of the Forgotten Member | 3.00% | ~118 |
 | Pulsar Disciple | 3.00% | ~118 |
@@ -47,7 +48,6 @@ Rating: 4.58 (Ranked 466)
 | Tiqqun Contender | 2.00% | ~79 |
 | Catastrophe Avoided | 2.00% | ~79 |
 | You Had One Job... | 2.00% | ~79 |
-| Space Greenhouse | 2.00% | ~79 |
 | Tiqqun Unchained | 2.00% | ~79 |
 | Better Him Than Me | 1.00% | ~39 |
 | Remember the Dead | 1.00% | ~39 |

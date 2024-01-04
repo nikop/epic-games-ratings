@@ -14,22 +14,22 @@
 | Blurry depth perception | 82.00% | ~122 |
 | Nerd | 81.00% | ~121 |
 | Up and down | 80.00% | ~119 |
-| Rolling, Rolling, Rolling | 76.00% | ~113 |
+| Rolling, Rolling, Rolling | 77.00% | ~115 |
 | Oh, you're up to no gouda! | 66.00% | ~98 |
 | Fire-fighter! | 66.00% | ~98 |
 | Make Love not War-Craft a Mistlefoe | 63.00% | ~94 |
 | Meat grinder | 61.00% | ~91 |
 | You're not going to blow me up! | 56.00% | ~83 |
-| Mushroom soup of the day | 53.00% | ~79 |
+| Mushroom soup of the day | 54.00% | ~80 |
+| Butcher | 51.00% | ~76 |
+| Spare Ribs | 51.00% | ~76 |
 | Cockadoodledoo! | 51.00% | ~76 |
-| Butcher | 50.00% | ~74 |
-| Spare Ribs | 50.00% | ~74 |
-| Honk honk! | 49.00% | ~73 |
+| Honk honk! | 50.00% | ~74 |
 | Thats disgusting! | 49.00% | ~73 |
-| My pants squeak when I walk | 45.00% | ~67 |
-| Surprise!! | 43.00% | ~64 |
-| Self assessed tax return | 42.00% | ~63 |
-| Haemochromatosis | 41.00% | ~61 |
+| My pants squeak when I walk | 46.00% | ~69 |
+| Surprise!! | 44.00% | ~66 |
+| Self assessed tax return | 43.00% | ~64 |
+| Haemochromatosis | 42.00% | ~63 |
 | Make America Grate Again | 39.00% | ~58 |
 | Pasta Bolognese | 37.00% | ~55 |
 | You are no match for me, Billy! | 36.00% | ~54 |

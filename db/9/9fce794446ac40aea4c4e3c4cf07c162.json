@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 592,
   "Ranking_EOS_Completed": 100,
   "Ranking_EOS_NewPlayers": 432,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
     "PcReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -213,9 +213,9 @@
       "ID": "BOSS_05",
       "SetID": "35d3i7a",
       "Name": "I need to hide myself.",
-      "Percentage": 21,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "BOSS_06",
@@ -612,8 +612,8 @@
   ],
   "FirstSeen": "2023-10-03T14:57:54.0765548+00:00",
   "FirstSeenAchievements": "2023-09-13T06:03:08.8902067+00:00",
-  "LastChanged_Achievements": "2024-01-04T13:13:42.358643+00:00",
+  "LastChanged_Achievements": "2024-01-04T14:10:11.4704077+00:00",
   "LastUpdate_AppInfo": "2024-01-03T15:56:54.4691409+00:00",
-  "LastUpdate_Ratings": "2024-01-04T13:04:20.5667097+00:00",
-  "LastUpdate_Achievements": "2024-01-04T13:13:42.3587033+00:00"
+  "LastUpdate_Ratings": "2024-01-04T14:01:04.558941+00:00",
+  "LastUpdate_Achievements": "2024-01-04T14:10:11.470447+00:00"
 }

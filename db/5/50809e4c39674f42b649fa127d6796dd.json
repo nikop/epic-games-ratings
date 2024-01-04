@@ -4,8 +4,8 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 384,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 382,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -1569,9 +1569,9 @@
       "ID": "FIRST_POWER_BOOST",
       "SetID": "apihg0e",
       "Name": "Speed Demon",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 230
+      "UsersEstimate": 235
     },
     {
       "ID": "FIRST_S_RANK",
@@ -1784,8 +1784,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2024-01-04T13:09:37.6221922+00:00",
+  "LastChanged_Achievements": "2024-01-04T14:05:59.2188936+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:07.7248276+00:00",
-  "LastUpdate_Ratings": "2024-01-04T13:06:58.8024724+00:00",
-  "LastUpdate_Achievements": "2024-01-04T13:09:37.6222219+00:00"
+  "LastUpdate_Ratings": "2024-01-04T14:03:20.2854904+00:00",
+  "LastUpdate_Achievements": "2024-01-04T14:05:59.2189386+00:00"
 }

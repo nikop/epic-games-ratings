@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -717,9 +717,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6816,
+  "EOS_Progressed": 6818,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 429,
+  "EOS_NewPlayers": 426,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10322,6 +10322,11 @@
       "Time": "2024-01-04T13:07:18.4716725+00:00",
       "NumProgressed": 6816,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-04T14:03:41.6635611+00:00",
+      "NumProgressed": 6818,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10421,7 +10426,7 @@
       "Name": "Enchanted Archipelago",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "20",
@@ -10461,7 +10466,7 @@
       "Name": "Secret Technique",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 954
+      "UsersEstimate": 955
     },
     {
       "ID": "25",
@@ -10477,7 +10482,7 @@
       "Name": "Bone Peddler",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "27",
@@ -10517,7 +10522,7 @@
       "Name": "Preparation Is Everything",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "31",
@@ -10565,7 +10570,7 @@
       "Name": "Fiery Friend",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "37",
@@ -10573,7 +10578,7 @@
       "Name": "Against the Odds",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "38",
@@ -10733,7 +10738,7 @@
       "Name": "Freed Lands of Manuhari",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "52",
@@ -10812,13 +10817,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6816,
+      "Progressed": 6818,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6816,
+      "Progressed": 6818,
       "Completed": 7
     }
   ],
@@ -10826,8 +10831,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-03T13:04:27.6429549+00:00",
-  "LastChanged_Achievements": "2024-01-04T13:07:18.4716721+00:00",
+  "LastChanged_Achievements": "2024-01-04T14:03:41.6635606+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-04T13:06:21.3235895+00:00",
-  "LastUpdate_Achievements": "2024-01-04T13:07:18.4717617+00:00"
+  "LastUpdate_Ratings": "2024-01-04T14:01:14.0514391+00:00",
+  "LastUpdate_Achievements": "2024-01-04T14:03:41.6636506+00:00"
 }

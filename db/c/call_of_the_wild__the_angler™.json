@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 408,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -1021,9 +1021,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 7938,
+  "EOS_Progressed": 7940,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 270,
+  "EOS_NewPlayers": 272,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13161,6 +13161,11 @@
       "Time": "2024-01-04T13:10:31.052817+00:00",
       "NumProgressed": 7938,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T14:06:51.7521655+00:00",
+      "NumProgressed": 7940,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -13172,7 +13177,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1349
+      "UsersEstimate": 1350
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -13188,7 +13193,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 1111
+      "UsersEstimate": 1112
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -13196,7 +13201,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 714
+      "UsersEstimate": 715
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -13220,7 +13225,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1111
+      "UsersEstimate": 1112
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -13491,13 +13496,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7938,
+      "Progressed": 7940,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7310,
+      "Progressed": 7312,
       "Completed": 113
     }
   ],
@@ -13505,8 +13510,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-03T21:01:30.920658+00:00",
-  "LastChanged_Achievements": "2024-01-04T13:10:31.0528167+00:00",
+  "LastChanged_Achievements": "2024-01-04T14:06:51.7521651+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:09.4029638+00:00",
-  "LastUpdate_Ratings": "2024-01-04T13:04:20.9666199+00:00",
-  "LastUpdate_Achievements": "2024-01-04T13:10:31.0529032+00:00"
+  "LastUpdate_Ratings": "2024-01-04T14:01:04.9873315+00:00",
+  "LastUpdate_Achievements": "2024-01-04T14:06:51.7522612+00:00"
 }

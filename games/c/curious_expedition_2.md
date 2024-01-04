@@ -6,9 +6,9 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 66.00% | ~263 |
-| Cartographer | 58.00% | ~231 |
-| A Strange Artefact | 54.00% | ~215 |
+| The Adventure Begins | 66.00% | ~264 |
+| Cartographer | 58.00% | ~232 |
+| A Strange Artefact | 54.00% | ~216 |
 | Insomnia | 50.00% | ~200 |
 | Lost & Found & Lost Again | 44.00% | ~176 |
 | From Whence we Came | 44.00% | ~176 |
@@ -32,9 +32,9 @@ Number of Ratings: 20  (23.09.2022)
 | Shortening of the Way | 16.00% | ~64 |
 | Adventurer | 15.00% | ~60 |
 | For the Club! | 15.00% | ~60 |
-| Dapper | 15.00% | ~60 |
 | The New Director | 14.00% | ~56 |
 | Plays Well With Others | 14.00% | ~56 |
+| Dapper | 14.00% | ~56 |
 | The Director is Dead | 13.00% | ~52 |
 | And Here Is Your Statue | 13.00% | ~52 |
 | Discovery | 13.00% | ~52 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.80% | ~3 |
 | Now I've Seen It All | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 399 (Ranked 362)  
+Progressed: 400 (Ranked 362)  
 Completed: 1 (0.25%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 1 (0.25%) (Ranked 264)
 | 2024-01-01 | 391 | 1 |
 | 2024-01-02 | 394 | 1 |
 | 2024-01-03 | 397 | 1 |
-| 2024-01-04 | 399 | 1 |
+| 2024-01-04 | 400 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -5,7 +5,7 @@ Rating: 4.29 (Ranked 875)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| We made it | 42.00% | ~544 |
+| We made it | 42.00% | ~545 |
 | The City | 11.00% | ~143 |
 | Manipulating Fate | 10.00% | ~130 |
 | Full house | 7.00% | ~91 |
@@ -51,7 +51,7 @@ Rating: 4.29 (Ranked 875)
 | Purist | 0.00% | ~0 |
 | King of the Dice | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,296 (Ranked 275)  
+Progressed: 1,297 (Ranked 275)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-01 | 1,287 | 0 |
 | 2024-01-02 | 1,291 | 0 |
 | 2024-01-03 | 1,295 | 0 |
-| 2024-01-04 | 1,296 | 0 |
+| 2024-01-04 | 1,297 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10420,10 +10420,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 21395,
       "NumberOfAwardsMax": 7940
+    },
+    {
+      "Time": "2024-01-04T14:00:10.8851028+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21399,
+      "NumberOfAwardsMax": 7940
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21395,
+  "NumberOfAwards": 21399,
   "NumberOfAwardsMax": 7940,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10461,7 +10467,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1400
+      "Count": 1404
     },
     {
       "Text": "This game has Amazing Characters",
@@ -10500,9 +10506,9 @@
       "Count": 1079
     }
   ],
-  "EOS_Progressed": 131608,
+  "EOS_Progressed": 131610,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1261,
+  "EOS_NewPlayers": 1252,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38290,6 +38296,11 @@
       "Time": "2024-01-04T13:13:19.231731+00:00",
       "NumProgressed": 131608,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-04T14:09:47.7761813+00:00",
+      "NumProgressed": 131610,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38429,7 +38440,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7896
+      "UsersEstimate": 7897
     },
     {
       "ID": "combat_kill_cadavers",
@@ -38932,21 +38943,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131608,
+      "Progressed": 131610,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6477,
+      "Progressed": 6479,
       "Completed": 821
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-04T09:59:44.9809757+00:00",
-  "LastChanged_Achievements": "2024-01-04T13:13:19.2317308+00:00",
+  "LastChanged": "2024-01-04T14:00:10.8851025+00:00",
+  "LastChanged_Achievements": "2024-01-04T14:09:47.7761809+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-04T13:03:30.7885711+00:00",
-  "LastUpdate_Achievements": "2024-01-04T13:13:19.2318935+00:00"
+  "LastUpdate_Ratings": "2024-01-04T14:00:10.8851033+00:00",
+  "LastUpdate_Achievements": "2024-01-04T14:09:47.7763649+00:00"
 }

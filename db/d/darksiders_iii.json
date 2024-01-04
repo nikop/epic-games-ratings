@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1643,9 +1643,9 @@
       "ID": "Collect_HealthStone_CapacityUpgrade_4",
       "SetID": "7a5k76n",
       "Name": "Maximum Capacity",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 83
     },
     {
       "ID": "Collect_HealthStone_HealUpgrade_1",
@@ -2099,8 +2099,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-03T05:57:54.1795117+00:00",
-  "LastChanged_Achievements": "2024-01-04T13:11:41.193257+00:00",
+  "LastChanged_Achievements": "2024-01-04T14:07:00.9726166+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.0817876+00:00",
-  "LastUpdate_Ratings": "2024-01-04T13:02:21.9866551+00:00",
-  "LastUpdate_Achievements": "2024-01-04T13:11:41.1933466+00:00"
+  "LastUpdate_Ratings": "2024-01-04T13:59:01.4877855+00:00",
+  "LastUpdate_Achievements": "2024-01-04T14:07:00.9726637+00:00"
 }

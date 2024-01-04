@@ -4,8 +4,8 @@
   "ProductSlug": "dungeon-drafters-82c40a",
   "Ranking_EOS_Progress": 462,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 403,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 390,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 134,
+  "EOS_Progressed": 135,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -656,6 +656,11 @@
       "Time": "2024-01-01T22:06:13.7219508+00:00",
       "NumProgressed": 134,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T14:03:54.9985481+00:00",
+      "NumProgressed": 135,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -681,9 +686,9 @@
       "ID": "InnkeeperQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Treasure Hunting",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 53
     },
     {
       "ID": "InnkeeperQuestlineLast",
@@ -753,9 +758,9 @@
       "ID": "MasterRaiderQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Friend!",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 40
     },
     {
       "ID": "MasterRaiderQuestlineLast",
@@ -986,7 +991,7 @@
     {
       "ID": "3b8n56h",
       "IsBase": true,
-      "Progressed": 134,
+      "Progressed": 135,
       "Completed": 0
     }
   ],
@@ -994,8 +999,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2024-01-04T13:07:31.7771292+00:00",
+  "LastChanged_Achievements": "2024-01-04T14:03:54.9985476+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:40.4890913+00:00",
-  "LastUpdate_Ratings": "2024-01-04T13:02:37.5130835+00:00",
-  "LastUpdate_Achievements": "2024-01-04T13:07:31.7771571+00:00"
+  "LastUpdate_Ratings": "2024-01-04T13:59:16.3381971+00:00",
+  "LastUpdate_Achievements": "2024-01-04T14:03:54.9985727+00:00"
 }

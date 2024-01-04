@@ -25,14 +25,15 @@ Number of Ratings: 90  (23.09.2022)
 | The Irony of Fate, or Enjoy Your Tunguska! | 12.00% | ~37 |
 | Kaijuiced | 10.00% | ~31 |
 | Fly Me to the Moon Base | 9.00% | ~28 |
+| Dusted | 9.00% | ~28 |
 | Scuttled | 8.00% | ~25 |
-| Dusted | 8.00% | ~25 |
 | Re-Return of the Clone of the Invasion II-2 | 7.00% | ~22 |
 | Lobster Blisque | 6.00% | ~18 |
 | Yettisoned | 5.00% | ~15 |
 | Ultimate Smoothie | 4.00% | ~12 |
 | Arkvoodle Doodle | 4.00% | ~12 |
 | Deincarnated | 3.00% | ~9 |
+| PK Slam Dunk | 1.00% | ~3 |
 | Arty Facts | 1.00% | ~3 |
 | Gotta Catch All the Pop Art | 1.00% | ~3 |
 | This Is Earth Radio | 1.00% | ~3 |
@@ -42,7 +43,6 @@ Number of Ratings: 90  (23.09.2022)
 | The Optional Mandate | 1.00% | ~3 |
 | Higher Than the Futen Zoku | 1.00% | ~3 |
 | If You Know What I Mean | 1.00% | ~3 |
-| PK Slam Dunk | 0.60% | ~2 |
 | Toilet Break | 0.60% | ~2 |
 | Albion Bridge Is for Falling Down | 0.60% | ~2 |
 | Ouch of Body Experience | 0.60% | ~2 |

@@ -21,7 +21,7 @@
 | Fighting is cool | 63.00% | ~335 |
 | No bullying more | 63.00% | ~335 |
 | Pal of your father? | 61.00% | ~324 |
-| Spirit of the past | 59.00% | ~313 |
+| Spirit of the past | 60.00% | ~319 |
 | Employee of the month | 59.00% | ~313 |
 | Law student | 56.00% | ~297 |
 | Handyman | 54.00% | ~287 |
@@ -52,9 +52,9 @@
 | The die is cast | 33.00% | ~175 |
 | Gang wrangler | 31.00% | ~165 |
 | Seashell hunter | 31.00% | ~165 |
+| Undercover robot | 31.00% | ~165 |
 | Problems of cyborgs | 30.00% | ~159 |
 | Absolute Champion! | 30.00% | ~159 |
-| Undercover robot | 30.00% | ~159 |
 | Not little hacker | 29.00% | ~154 |
 | Another world | 28.00% | ~149 |
 | The lonesome road | 28.00% | ~149 |

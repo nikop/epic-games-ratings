@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 336,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -780,9 +780,9 @@
       "ID": "collect-sacrifices",
       "SetID": "799afm0",
       "Name": "No Mercy",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 216
     },
     {
       "ID": "different-items1",
@@ -1021,8 +1021,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2024-01-04T13:08:45.2926836+00:00",
+  "LastChanged_Achievements": "2024-01-04T14:05:07.2545607+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.2003375+00:00",
-  "LastUpdate_Ratings": "2024-01-04T13:01:53.747104+00:00",
-  "LastUpdate_Achievements": "2024-01-04T13:08:45.2927039+00:00"
+  "LastUpdate_Ratings": "2024-01-04T13:58:32.0256844+00:00",
+  "LastUpdate_Achievements": "2024-01-04T14:05:07.2545925+00:00"
 }

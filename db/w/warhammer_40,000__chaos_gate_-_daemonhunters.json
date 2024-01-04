@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -813,9 +813,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3747,
+  "EOS_Progressed": 3749,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5458,6 +5458,11 @@
       "Time": "2024-01-04T13:10:04.1814497+00:00",
       "NumProgressed": 3747,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T14:06:25.1935692+00:00",
+      "NumProgressed": 3749,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -5661,7 +5666,7 @@
       "Name": "Executioner",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "Kills_Exterminator",
@@ -6012,21 +6017,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3747,
+      "Progressed": 3749,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3747,
+      "Progressed": 3749,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-01T18:03:40.84636+00:00",
-  "LastChanged_Achievements": "2024-01-04T13:10:04.1814494+00:00",
+  "LastChanged_Achievements": "2024-01-04T14:06:25.1935689+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:30.5390055+00:00",
-  "LastUpdate_Ratings": "2024-01-04T13:07:00.3164963+00:00",
-  "LastUpdate_Achievements": "2024-01-04T13:10:04.1815303+00:00"
+  "LastUpdate_Ratings": "2024-01-04T14:03:21.7788371+00:00",
+  "LastUpdate_Achievements": "2024-01-04T14:06:25.1936381+00:00"
 }

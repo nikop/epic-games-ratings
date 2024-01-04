@@ -5,12 +5,12 @@ Rating: 4.62 (Ranked 376)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 14.00% | ~954 |
+| Secret Technique | 14.00% | ~955 |
 | Realm Estate | 13.00% | ~886 |
 | A Wonderful Discovery | 12.00% | ~818 |
 | Walls Cannot Stop Us | 12.00% | ~818 |
 | From Friends to Family | 10.00% | ~682 |
-| Bone Peddler | 9.00% | ~613 |
+| Bone Peddler | 9.00% | ~614 |
 | Magical Synergy | 8.00% | ~545 |
 | Full Ascension | 7.00% | ~477 |
 | There Can Only Be One! | 6.00% | ~409 |
@@ -24,11 +24,11 @@ Rating: 4.62 (Ranked 376)
 | Digging for Treasure | 4.00% | ~273 |
 | My Final Form | 4.00% | ~273 |
 | Impenetrable Fortress | 4.00% | ~273 |
-| Enchanted Archipelago | 3.00% | ~204 |
-| Preparation Is Everything | 3.00% | ~204 |
-| Fiery Friend | 3.00% | ~204 |
-| Against the Odds | 3.00% | ~204 |
-| Freed Lands of Manuhari | 3.00% | ~204 |
+| Enchanted Archipelago | 3.00% | ~205 |
+| Preparation Is Everything | 3.00% | ~205 |
+| Fiery Friend | 3.00% | ~205 |
+| Against the Odds | 3.00% | ~205 |
+| Freed Lands of Manuhari | 3.00% | ~205 |
 | Arch Mage | 2.00% | ~136 |
 | The Creator | 2.00% | ~136 |
 | Crimson Caldera | 2.00% | ~136 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 376)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,816 (Ranked 196)  
+Progressed: 6,818 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 7 (0.10%) (Ranked 305)
 | 2024-01-01 | 6,687 | 7 |
 | 2024-01-02 | 6,742 | 7 |
 | 2024-01-03 | 6,793 | 7 |
-| 2024-01-04 | 6,816 | 7 |
+| 2024-01-04 | 6,818 | 7 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 478)  
 Sum: 209 (Ranked 409)  

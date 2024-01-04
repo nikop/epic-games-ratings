@@ -14,8 +14,8 @@
 | Endless Possibilities | 37.00% | ~125 |
 | Finding The Way | 24.00% | ~81 |
 | Tangibility | 20.00% | ~68 |
+| On The Right Path | 19.00% | ~64 |
 | Around The World | 19.00% | ~64 |
-| On The Right Path | 18.00% | ~61 |
 | Bigger Picture | 16.00% | ~54 |
 | Sunset | 13.00% | ~44 |
 | Spring Air | 12.00% | ~41 |

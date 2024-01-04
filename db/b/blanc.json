@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3945,
+  "EOS_Progressed": 3946,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 173,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6586,6 +6586,11 @@
       "Time": "2024-01-04T12:03:41.586644+00:00",
       "NumProgressed": 3945,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-04T14:03:58.0655804+00:00",
+      "NumProgressed": 3946,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -6605,7 +6610,7 @@
       "Name": "A big leap for wolfkind",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "FALLEN_TREE",
@@ -6621,7 +6626,7 @@
       "Name": "Helping the little ones",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "MOVE_ON",
@@ -6700,7 +6705,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 3945,
+      "Progressed": 3946,
       "Completed": 6
     }
   ],
@@ -6708,8 +6713,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2024-01-04T13:07:34.8602546+00:00",
+  "LastChanged_Achievements": "2024-01-04T14:03:58.06558+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:59.0797821+00:00",
-  "LastUpdate_Ratings": "2024-01-04T13:03:53.7756503+00:00",
-  "LastUpdate_Achievements": "2024-01-04T13:07:34.860296+00:00"
+  "LastUpdate_Ratings": "2024-01-04T14:00:35.6791143+00:00",
+  "LastUpdate_Achievements": "2024-01-04T14:03:58.065627+00:00"
 }

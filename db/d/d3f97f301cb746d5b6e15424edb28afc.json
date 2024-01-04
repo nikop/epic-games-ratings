@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 327,
   "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -145,7 +145,7 @@
   "Tags": [],
   "EOS_Progressed": 1561,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4820,9 +4820,9 @@
       "ID": "GSS_ACH_51_UPGRADE_WORKSHOP_01",
       "SetID": "5fn8ia4",
       "Name": "Workshop Obtained!",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1218
+      "UsersEstimate": 1233
     },
     {
       "ID": "GSS_ACH_52_UPGRADE_WORKSHOP_02",
@@ -5085,8 +5085,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-03T14:59:41.5993566+00:00",
-  "LastChanged_Achievements": "2024-01-04T13:11:35.9988249+00:00",
+  "LastChanged_Achievements": "2024-01-04T14:06:56.0952574+00:00",
   "LastUpdate_AppInfo": "2024-01-01T19:57:12.6980533+00:00",
-  "LastUpdate_Ratings": "2024-01-04T13:03:07.8105245+00:00",
-  "LastUpdate_Achievements": "2024-01-04T13:11:35.9989242+00:00"
+  "LastUpdate_Ratings": "2024-01-04T13:59:47.3778661+00:00",
+  "LastUpdate_Achievements": "2024-01-04T14:06:56.0953626+00:00"
 }

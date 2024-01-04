@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -1447,9 +1447,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 260199,
+  "EOS_Progressed": 260203,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 316,
+  "EOS_NewPlayers": 317,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26237,6 +26237,11 @@
       "Time": "2024-01-04T13:10:27.0794881+00:00",
       "NumProgressed": 260199,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-04T14:06:48.0011061+00:00",
+      "NumProgressed": 260203,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -26296,7 +26301,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80662
+      "UsersEstimate": 80663
     },
     {
       "ID": "BackHomeNTimes",
@@ -26536,7 +26541,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59846
+      "UsersEstimate": 59847
     },
     {
       "ID": "KillOthers2",
@@ -26695,7 +26700,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 260199,
+      "Progressed": 260203,
       "Completed": 3
     }
   ],
@@ -26703,8 +26708,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2024-01-04T01:45:41.2160951+00:00",
-  "LastChanged_Achievements": "2024-01-04T13:10:27.0794877+00:00",
+  "LastChanged_Achievements": "2024-01-04T14:06:48.0011057+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:41.7689812+00:00",
-  "LastUpdate_Ratings": "2024-01-04T13:03:12.0017363+00:00",
-  "LastUpdate_Achievements": "2024-01-04T13:10:27.0796164+00:00"
+  "LastUpdate_Ratings": "2024-01-04T13:59:51.6707857+00:00",
+  "LastUpdate_Achievements": "2024-01-04T14:06:48.0012774+00:00"
 }

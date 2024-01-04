@@ -34,10 +34,10 @@ Number of Ratings: 124  (23.09.2022)
 | Detective | 5.00% | ~9 |
 | Free as a Bird | 4.00% | ~7 |
 | Cleric | 4.00% | ~7 |
+| Weaponsmith | 3.00% | ~5 |
 | Alchemist | 3.00% | ~5 |
 | Self-Sufficient | 3.00% | ~5 |
 | Unbreakable | 3.00% | ~5 |
-| Weaponsmith | 2.00% | ~3 |
 | Idealist | 2.00% | ~3 |
 | Toy Time | 2.00% | ~3 |
 | Morkon | 2.00% | ~3 |

@@ -5,35 +5,35 @@ Rating: 4.43 (Ranked 721)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Speak Friend | 82.00% | ~297,893 |
-| Delving Onward | 68.00% | ~247,033 |
-| Miner's Helper | 59.00% | ~214,338 |
-| Suit Up | 54.00% | ~196,173 |
-| To the Mountain's Roots | 49.00% | ~178,009 |
-| Covered Head to Toe | 33.00% | ~119,884 |
-| Remains To Be Seen | 33.00% | ~119,884 |
-| Line of Azog, Ended | 31.00% | ~112,618 |
-| Risk a Little Real Light | 30.00% | ~108,985 |
-| Caradhras The Cruel | 17.00% | ~61,758 |
-| A Memory of this Place | 17.00% | ~61,758 |
-| Battering Ram | 13.00% | ~47,227 |
-| False King, Deposed | 13.00% | ~47,227 |
-| Baruk Khazâd! | 12.00% | ~43,594 |
-| Shadow's Bane | 9.00% | ~32,696 |
-| Westgate Weaponcraft | 8.00% | ~29,063 |
-| Deeps Weaponcraft | 7.00% | ~25,430 |
-| Darkness Is Passing | 7.00% | ~25,430 |
-| Decked Out | 5.00% | ~18,164 |
-| Guarded from Despair | 4.00% | ~14,531 |
-| Master of All Trades | 4.00% | ~14,531 |
-| Eregion Weaponcraft | 3.00% | ~10,899 |
-| True-silver | 3.00% | ~10,899 |
-| Dimrill Weaponcraft | 3.00% | ~10,899 |
-| Shielded | 1.00% | ~3,633 |
+| Speak Friend | 82.00% | ~297,960 |
+| Delving Onward | 68.00% | ~247,089 |
+| Miner's Helper | 59.00% | ~214,386 |
+| Suit Up | 54.00% | ~196,218 |
+| To the Mountain's Roots | 49.00% | ~178,049 |
+| Covered Head to Toe | 33.00% | ~119,911 |
+| Remains To Be Seen | 33.00% | ~119,911 |
+| Line of Azog, Ended | 31.00% | ~112,643 |
+| Risk a Little Real Light | 30.00% | ~109,010 |
+| Caradhras The Cruel | 17.00% | ~61,772 |
+| A Memory of this Place | 17.00% | ~61,772 |
+| Battering Ram | 13.00% | ~47,238 |
+| False King, Deposed | 13.00% | ~47,238 |
+| Baruk Khazâd! | 12.00% | ~43,604 |
+| Shadow's Bane | 9.00% | ~32,703 |
+| Westgate Weaponcraft | 8.00% | ~29,069 |
+| Deeps Weaponcraft | 7.00% | ~25,436 |
+| Darkness Is Passing | 7.00% | ~25,436 |
+| Decked Out | 5.00% | ~18,168 |
+| Guarded from Despair | 4.00% | ~14,535 |
+| Master of All Trades | 4.00% | ~14,535 |
+| Eregion Weaponcraft | 3.00% | ~10,901 |
+| True-silver | 3.00% | ~10,901 |
+| Dimrill Weaponcraft | 3.00% | ~10,901 |
+| Shielded | 1.00% | ~3,634 |
 | Hard-headed | 0.90% | ~3,270 |
 | We're Gonna Need More Mugs | 0.20% | ~727 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 363,284 (Ranked 55)  
+Progressed: 363,366 (Ranked 55)  
 Completed: 263 (0.07%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 263 (0.07%) (Ranked 322)
 | 2024-01-01 | 356,688 | 250 |
 | 2024-01-02 | 359,611 | 255 |
 | 2024-01-03 | 362,200 | 260 |
-| 2024-01-04 | 363,284 | 263 |
+| 2024-01-04 | 363,366 | 263 |
 ## Awards
 Max (Great for Beginners): 843  (Ranked 176)  
 Sum: 4,838 (Ranked 149)  

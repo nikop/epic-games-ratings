@@ -9,7 +9,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Malpractice Assurance | 12.00% | ~777 |
 | Lost and Found | 8.00% | ~518 |
 | Autodidact | 7.00% | ~9,213 |
-| This Belongs in a Museum | 6.00% | ~7,896 |
+| This Belongs in a Museum | 6.00% | ~7,897 |
 | This guy... again? | 6.00% | ~389 |
 | Serenity Now! | 5.00% | ~6,580 |
 | Creep and Sleep | 5.00% | ~6,580 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,608 (Ranked 91)  
+Progressed: 131,610 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,10 +335,10 @@ Completed: 3 (0.00%) (Ranked 392)
 | 2024-01-01 | 131,206 | 3 |
 | 2024-01-02 | 131,365 | 3 |
 | 2024-01-03 | 131,540 | 3 |
-| 2024-01-04 | 131,608 | 3 |
+| 2024-01-04 | 131,610 | 3 |
 ## Awards
 Max (Character Customization): 7,940  (Ranked 50)  
-Sum: 21,395 (Ranked 58)  
+Sum: 21,399 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -350,7 +350,7 @@ Diff (max vs sum): -8
 | This game is Extremely Fun | 1,508 |
 | This game has Unique Visuals | 1,452 |
 | This game has Amazing Storytelling | 1,434 |
-| This game has Quickly Understood Controls | 1,400 |
+| This game has Quickly Understood Controls | 1,404 |
 | This game has a Creative Community | 1,079 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
@@ -698,4 +698,4 @@ Diff (max vs sum): -8
 | 2024-01-01 | 4.68 | - | 7,919 | 21,323 |
 | 2024-01-02 | 4.68 | - | 7,927 | 21,353 |
 | 2024-01-03 | 4.68 | - | 7,940 | 21,388 |
-| 2024-01-04 | 4.68 | - | 7,940 | 21,395 |
+| 2024-01-04 | 4.68 | - | 7,940 | 21,399 |

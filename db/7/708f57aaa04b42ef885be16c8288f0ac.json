@@ -6,9 +6,9 @@
   "Ranking_Popularity": 484,
   "Ranking_PopularitySum": 522,
   "Ranking_EOS_Progress": 175,
-  "Ranking_EOS_Completed": 278,
+  "Ranking_EOS_Completed": 276,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -371,11 +371,11 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 13191,
-  "EOS_Completed": 24,
-  "EOS_NewPlayers": 1223,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.18,
+  "EOS_Progressed": 13197,
+  "EOS_Completed": 25,
+  "EOS_NewPlayers": 1220,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
     {
       "Time": "2023-10-17T16:05:13.3734944+00:00",
@@ -9116,6 +9116,11 @@
       "Time": "2024-01-04T13:13:40.6768443+00:00",
       "NumProgressed": 13191,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2024-01-04T14:10:09.7204458+00:00",
+      "NumProgressed": 13197,
+      "NumCompleted": 25
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -9136,7 +9141,7 @@
       "Name": "Baby Steps",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 4881
+      "UsersEstimate": 4883
     },
     {
       "ID": "BeLikeWater",
@@ -9152,7 +9157,7 @@
       "Name": "Bikemaggedon",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "ChewingTheScenery",
@@ -9168,7 +9173,7 @@
       "Name": "Connection Lost",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 2770
+      "UsersEstimate": 2771
     },
     {
       "ID": "Eavesdropper",
@@ -9184,7 +9189,7 @@
       "Name": "Explosive Personality",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2374
+      "UsersEstimate": 2375
     },
     {
       "ID": "FasterThanLight",
@@ -9200,7 +9205,7 @@
       "Name": "First Time?",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 6727
+      "UsersEstimate": 6730
     },
     {
       "ID": "FuneralForTheDeath",
@@ -9208,7 +9213,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1715
+      "UsersEstimate": 1716
     },
     {
       "ID": "GarbageMan",
@@ -9232,7 +9237,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 2506
+      "UsersEstimate": 2507
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -9240,7 +9245,7 @@
       "Name": "He Just Wanted To Help",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 791
+      "UsersEstimate": 792
     },
     {
       "ID": "JackOfAllTrades",
@@ -9272,7 +9277,7 @@
       "Name": "Nasty!",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 3430
+      "UsersEstimate": 3431
     },
     {
       "ID": "NoMoreTotems",
@@ -9280,7 +9285,7 @@
       "Name": "No More Totems",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1451
+      "UsersEstimate": 1452
     },
     {
       "ID": "NotLikeTheOthers",
@@ -9312,7 +9317,7 @@
       "Name": "The Floor Is Lava",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 791
+      "UsersEstimate": 792
     },
     {
       "ID": "TheOldSchoolWay",
@@ -9320,7 +9325,7 @@
       "Name": "The Old-School Way",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 3034
+      "UsersEstimate": 3035
     },
     {
       "ID": "TheQuarterback",
@@ -9328,7 +9333,7 @@
       "Name": "The Quarterback",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 5144
+      "UsersEstimate": 5147
     },
     {
       "ID": "ThisIsDharma",
@@ -9336,7 +9341,7 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1847
+      "UsersEstimate": 1848
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -9344,7 +9349,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 2506
+      "UsersEstimate": 2507
     },
     {
       "ID": "UnResurrected",
@@ -9352,7 +9357,7 @@
       "Name": "Un-Resurrected",
       "Percentage": 11,
       "XP": 45,
-      "UsersEstimate": 1451
+      "UsersEstimate": 1452
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -9360,7 +9365,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2506
+      "UsersEstimate": 2507
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -9368,7 +9373,7 @@
       "Name": "Digestive Issues",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1847
+      "UsersEstimate": 1848
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -9384,7 +9389,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1187
+      "UsersEstimate": 1188
     },
     {
       "ID": "k01101110",
@@ -9392,23 +9397,23 @@
       "Name": "01101110 01101001 01100011 01100101",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1056
     }
   ],
   "AchievementSets": [
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 13191,
-      "Completed": 24
+      "Progressed": 13197,
+      "Completed": 25
     }
   ],
   "FirstSeen": "2023-10-26T15:59:55.7422761+00:00",
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-02T20:02:44.2880456+00:00",
-  "LastChanged_Achievements": "2024-01-04T13:13:40.6768441+00:00",
+  "LastChanged_Achievements": "2024-01-04T14:10:09.7204454+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:18.4946312+00:00",
-  "LastUpdate_Ratings": "2024-01-04T13:01:03.4458344+00:00",
-  "LastUpdate_Achievements": "2024-01-04T13:13:40.6769179+00:00"
+  "LastUpdate_Ratings": "2024-01-04T13:57:39.9091015+00:00",
+  "LastUpdate_Achievements": "2024-01-04T14:10:09.7205124+00:00"
 }

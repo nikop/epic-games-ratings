@@ -4,8 +4,8 @@
   "ProductSlug": "lifeslide",
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 523,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 522,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-11-15T19:00:00+00:00",
     "PcReleaseDate": "2021-08-06T12:00:00+00:00",
@@ -176,9 +176,9 @@
       "ID": "ADULTHOOD_REACHED",
       "SetID": "b6f796g",
       "Name": "On The Right Path",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 64
     },
     {
       "ID": "ALL_PLANES _UNLOCKED",
@@ -425,8 +425,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.7063169+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.5274456+00:00",
   "LastChanged": "2023-03-31T05:57:26.706317+00:00",
-  "LastChanged_Achievements": "2024-01-04T13:07:21.4844841+00:00",
+  "LastChanged_Achievements": "2024-01-04T14:03:44.4765776+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:45.3217512+00:00",
-  "LastUpdate_Ratings": "2024-01-04T13:01:37.9798227+00:00",
-  "LastUpdate_Achievements": "2024-01-04T13:07:21.4845042+00:00"
+  "LastUpdate_Ratings": "2024-01-04T13:58:17.2332385+00:00",
+  "LastUpdate_Achievements": "2024-01-04T14:03:44.4766026+00:00"
 }
