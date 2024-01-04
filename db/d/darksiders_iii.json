@@ -4,11 +4,11 @@
   "ProductSlug": "darksiders3",
   "Ranking_Rating": 651,
   "Ranking_Popularity": 383,
-  "Ranking_PopularitySum": 466,
+  "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1681,9 +1681,9 @@
       "ID": "Collect_Hollow_Storm",
       "SetID": "7a5k76n",
       "Name": "Perfect Storm",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 189
     },
     {
       "ID": "Collect_Lurchers_100000",
@@ -1905,9 +1905,9 @@
       "ID": "Kill_Sin_Avarice",
       "SetID": "7a5k76n",
       "Name": "All That Glitters",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 189
     },
     {
       "ID": "Kill_Sin_BigBad",
@@ -2089,8 +2089,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-03T05:57:54.1795117+00:00",
-  "LastChanged_Achievements": "2024-01-04T02:29:21.9119535+00:00",
+  "LastChanged_Achievements": "2024-01-04T03:08:10.9182053+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.0817876+00:00",
-  "LastUpdate_Ratings": "2024-01-04T02:20:37.0302631+00:00",
-  "LastUpdate_Achievements": "2024-01-04T02:29:21.9120114+00:00"
+  "LastUpdate_Ratings": "2024-01-04T02:59:10.8938349+00:00",
+  "LastUpdate_Achievements": "2024-01-04T03:08:10.9182575+00:00"
 }

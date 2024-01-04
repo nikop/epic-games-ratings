@@ -23,8 +23,8 @@ Rating: 4.63 (Ranked 356)
 | Search for the Hairy Grell | 0.90% | ~80 |
 | Beach Comber | 0.90% | ~80 |
 | Higher Tax Bracket | 0.90% | ~80 |
+| Flaming Hot Completos | 0.80% | ~71 |
 | Skilled | 0.80% | ~71 |
-| Flaming Hot Completos | 0.70% | ~62 |
 | Azorian Anniversary | 0.70% | ~62 |
 | Fae Farmer | 0.60% | ~53 |
 | Got to Catch Them All | 0.50% | ~44 |

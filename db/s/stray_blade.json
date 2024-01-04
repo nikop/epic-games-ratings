@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 449,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 455,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -764,9 +764,9 @@
       "ID": "ACH_CRAFT_15_WEAPONS",
       "SetID": "7i20me3",
       "Name": "Craftsmen",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_CRAFT_ALL_ARMOR",
@@ -1179,8 +1179,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2024-01-04T02:32:32.4772422+00:00",
+  "LastChanged_Achievements": "2024-01-04T03:11:09.6147008+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:22.2596584+00:00",
-  "LastUpdate_Ratings": "2024-01-04T02:23:16.1549318+00:00",
-  "LastUpdate_Achievements": "2024-01-04T02:32:32.4772778+00:00"
+  "LastUpdate_Ratings": "2024-01-04T03:02:01.6050241+00:00",
+  "LastUpdate_Achievements": "2024-01-04T03:11:09.6147331+00:00"
 }

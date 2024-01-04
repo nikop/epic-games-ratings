@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Something important | 84.00% | ~223 |
-| A piece of the story | 62.00% | ~165 |
+| A piece of the story | 63.00% | ~168 |
 | It's covered up for a reason | 55.00% | ~146 |
 | Wanderer | 52.00% | ~138 |
 | Scraps of love | 47.00% | ~125 |

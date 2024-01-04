@@ -31,16 +31,16 @@ Number of Ratings: 1,845  (23.09.2022)
 | A Real Challenge | 3.00% | ~602 |
 | Trade Baron | 3.00% | ~602 |
 | Untamed Wilds | 3.00% | ~602 |
-| Against All Odds | 2.00% | ~401 |
-| Bandit Camp | 2.00% | ~401 |
-| Barren Lands | 2.00% | ~401 |
-| Ancient Battleground | 2.00% | ~401 |
-| Sparkdew Crystals | 2.00% | ~401 |
-| Haunted Forest | 2.00% | ~401 |
-| Flooded Mines | 2.00% | ~401 |
-| Statue of the Forefathers | 2.00% | ~401 |
-| Corrosive Torrent | 2.00% | ~401 |
-| Cursed Lands | 2.00% | ~401 |
+| Against All Odds | 2.00% | ~402 |
+| Bandit Camp | 2.00% | ~402 |
+| Barren Lands | 2.00% | ~402 |
+| Ancient Battleground | 2.00% | ~402 |
+| Sparkdew Crystals | 2.00% | ~402 |
+| Haunted Forest | 2.00% | ~402 |
+| Flooded Mines | 2.00% | ~402 |
+| Statue of the Forefathers | 2.00% | ~402 |
+| Corrosive Torrent | 2.00% | ~402 |
+| Cursed Lands | 2.00% | ~402 |
 | Serving Ale | 1.00% | ~201 |
 | Efficient Explorer | 1.00% | ~201 |
 | Refinery | 1.00% | ~201 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,074 (Ranked 152)  
+Progressed: 20,075 (Ranked 152)  
 Completed: 33 (0.16%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 33 (0.16%) (Ranked 282)
 | 2024-01-01 | 19,919 | 33 |
 | 2024-01-02 | 19,991 | 33 |
 | 2024-01-03 | 20,065 | 33 |
-| 2024-01-04 | 20,074 | 33 |
+| 2024-01-04 | 20,075 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 447  (Ranked 230)  
 Sum: 3,324 (Ranked 176)  

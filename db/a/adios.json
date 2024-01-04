@@ -135,7 +135,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 82604,
+  "EOS_Progressed": 82607,
   "EOS_Completed": 914,
   "EOS_NewPlayers": 736,
   "EOS_NewCompleters": 13,
@@ -28975,6 +28975,11 @@
       "Time": "2024-01-04T02:27:04.0800125+00:00",
       "NumProgressed": 82604,
       "NumCompleted": 914
+    },
+    {
+      "Time": "2024-01-04T03:05:45.2440373+00:00",
+      "NumProgressed": 82607,
+      "NumCompleted": 914
     }
   ],
   "TotalAchievements": 25,
@@ -29018,7 +29023,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 18173
+      "UsersEstimate": 18174
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -29074,7 +29079,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 7434
+      "UsersEstimate": 7435
     },
     {
       "ID": "Magnetic Miracles",
@@ -29130,7 +29135,7 @@
       "Name": "Piano Man",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 9086
+      "UsersEstimate": 9087
     },
     {
       "ID": "Right On Target",
@@ -29178,14 +29183,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6608
+      "UsersEstimate": 6609
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 82604,
+      "Progressed": 82607,
       "Completed": 914
     }
   ],
@@ -29193,8 +29198,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-12-24T03:59:19.0038141+00:00",
-  "LastChanged_Achievements": "2024-01-04T02:27:04.0800118+00:00",
+  "LastChanged_Achievements": "2024-01-04T03:05:45.2440368+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:29.0198367+00:00",
-  "LastUpdate_Ratings": "2024-01-04T02:24:53.5188167+00:00",
-  "LastUpdate_Achievements": "2024-01-04T02:27:04.0801613+00:00"
+  "LastUpdate_Ratings": "2024-01-04T03:03:28.1200633+00:00",
+  "LastUpdate_Achievements": "2024-01-04T03:05:45.2441829+00:00"
 }

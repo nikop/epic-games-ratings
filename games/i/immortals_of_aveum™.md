@@ -5,9 +5,9 @@ Rating: 4.20 (Ranked 958)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~2,314 |
-| Battlefields Have Memories | 81.00% | ~2,130 |
-| Enlisted | 74.00% | ~1,946 |
+| Unforeseen | 88.00% | ~2,315 |
+| Battlefields Have Memories | 81.00% | ~2,131 |
+| Enlisted | 74.00% | ~1,947 |
 | Maybe Engage a Little | 69.00% | ~1,815 |
 | No More Names | 52.00% | ~1,368 |
 | Initiate | 37.00% | ~973 |
@@ -19,7 +19,7 @@ Rating: 4.20 (Ranked 958)
 | Beggars Would Ride | 20.00% | ~526 |
 | Control is an Illusion | 19.00% | ~500 |
 | The Means to Save It | 16.00% | ~421 |
-| Resilience to Sin | 15.00% | ~394 |
+| Resilience to Sin | 15.00% | ~395 |
 | A Familiar Nest | 14.00% | ~368 |
 | Periapt Alizarin | 14.00% | ~368 |
 | Geas Aristeya | 13.00% | ~342 |
@@ -29,9 +29,9 @@ Rating: 4.20 (Ranked 958)
 | Lights Army | 9.00% | ~237 |
 | Periapt Cerulean | 8.00% | ~210 |
 | Good Boy | 7.00% | ~184 |
+| Best Dressed | 6.00% | ~158 |
 | Periapt Viridian | 6.00% | ~158 |
 | Shroudfane Explorer | 6.00% | ~158 |
-| Best Dressed | 5.00% | ~132 |
 | Kitted Out | 4.00% | ~105 |
 | Armaments Gules | 4.00% | ~105 |
 | Scholar | 3.00% | ~79 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 958)
 | Out of Time | 0.20% | ~5 |
 | Fowl Play | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,630 (Ranked 230)  
+Progressed: 2,631 (Ranked 230)  
 Completed: 2 (0.08%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 2 (0.08%) (Ranked 319)
 | 2024-01-01 | 2,478 | 2 |
 | 2024-01-02 | 2,542 | 2 |
 | 2024-01-03 | 2,622 | 2 |
-| 2024-01-04 | 2,630 | 2 |
+| 2024-01-04 | 2,631 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

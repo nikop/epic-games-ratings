@@ -10,8 +10,8 @@ Rating: 4.65 (Ranked 320)
 | The Mysterious Stranger | 32.00% | ~390 |
 | Immaculate Aim | 28.00% | ~341 |
 | The Brass Boss | 27.00% | ~329 |
+| Time Flies | 26.00% | ~317 |
 | Make Up For Lost Time | 25.00% | ~304 |
-| Time Flies | 25.00% | ~304 |
 | No, Thanks! | 25.00% | ~304 |
 | The Prince in Heels | 25.00% | ~304 |
 | Honest Mistake | 25.00% | ~304 |

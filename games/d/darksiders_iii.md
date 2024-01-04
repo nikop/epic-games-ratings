@@ -13,8 +13,8 @@ Number of Ratings: 116  (23.09.2022)
 | Fight Fire with Fire | 57.00% | ~234 |
 | Increased Capacity | 54.00% | ~222 |
 | Just the start | 48.00% | ~197 |
-| Perfect Storm | 45.00% | ~185 |
-| All That Glitters | 45.00% | ~185 |
+| Perfect Storm | 46.00% | ~189 |
+| All That Glitters | 46.00% | ~189 |
 | Enhance! | 41.00% | ~169 |
 | One Of the Chosen | 39.00% | ~160 |
 | Throne Potato | 38.00% | ~156 |
@@ -94,8 +94,8 @@ Completed: 1 (0.24%) (Ranked 266)
 | 2024-01-04 | 411 | 1 |
 ## Awards
 Max (Great Boss Battles): 96  (Ranked 383)  
-Sum: 96 (Ranked 466)  
-Diff (max vs sum): -83  
+Sum: 96 (Ranked 467)  
+Diff (max vs sum): -84  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 96 |

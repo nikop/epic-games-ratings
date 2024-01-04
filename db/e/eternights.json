@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -41,9 +41,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 762,
+  "EOS_Progressed": 763,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -2836,6 +2836,11 @@
       "Time": "2024-01-04T02:31:19.5201421+00:00",
       "NumProgressed": 762,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-04T03:09:52.8813733+00:00",
+      "NumProgressed": 763,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -2848,7 +2853,7 @@
       "Name": "New arm",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -2872,7 +2877,7 @@
       "Name": "Expert Scavenger",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "ACHIEVEMENT_14_PromiseYuna",
@@ -2944,7 +2949,7 @@
       "Name": "Plushyboy",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHIEVEMENT_22_Dreamboat",
@@ -2990,17 +2995,17 @@
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
       "SetID": "9bke6f1",
       "Name": "Novice Scavenger",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 434
+      "UsersEstimate": 443
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
       "SetID": "9bke6f1",
       "Name": "Master Craftsman",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 351
+      "UsersEstimate": 343
     },
     {
       "ID": "ACHIEVEMENT_5_FirstWall",
@@ -3024,7 +3029,7 @@
       "Name": "Second wall",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "ACHIEVEMENT_8_StoneRetriever",
@@ -3047,7 +3052,7 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 762,
+      "Progressed": 763,
       "Completed": 2
     }
   ],
@@ -3055,8 +3060,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2023-12-31T15:57:10.2736309+00:00",
-  "LastChanged_Achievements": "2024-01-04T02:31:19.5201413+00:00",
+  "LastChanged_Achievements": "2024-01-04T03:09:52.8813729+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.2091482+00:00",
-  "LastUpdate_Ratings": "2024-01-04T02:21:30.578747+00:00",
-  "LastUpdate_Achievements": "2024-01-04T02:31:19.5201665+00:00"
+  "LastUpdate_Ratings": "2024-01-04T03:00:06.8460441+00:00",
+  "LastUpdate_Achievements": "2024-01-04T03:09:52.8814013+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "train-world-07e156",
   "Ranking_EOS_Progress": 606,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 478,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 500,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-07-19T21:00:00+00:00",
     "PcReleaseDate": "2023-07-19T21:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 25,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -571,8 +571,8 @@
   ],
   "FirstSeen": "2023-07-21T20:59:26.8070141+00:00",
   "FirstSeenAchievements": "2023-07-14T13:20:01.4168917+00:00",
-  "LastChanged_Achievements": "2024-01-04T02:26:53.5332027+00:00",
+  "LastChanged_Achievements": "2024-01-04T03:05:34.1847327+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:23.8148514+00:00",
-  "LastUpdate_Ratings": "2024-01-04T02:25:02.6349497+00:00",
-  "LastUpdate_Achievements": "2024-01-04T02:26:53.5332403+00:00"
+  "LastUpdate_Ratings": "2024-01-04T03:03:37.3748446+00:00",
+  "LastUpdate_Achievements": "2024-01-04T03:05:34.1847685+00:00"
 }

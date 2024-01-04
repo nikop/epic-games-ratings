@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 28,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 75,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-07-28T15:00:00+00:00",
     "PcReleaseDate": "2022-07-28T15:00:00+00:00",
@@ -2230,7 +2230,7 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 694056,
+  "EOS_Progressed": 694061,
   "EOS_Completed": 19,
   "EOS_NewPlayers": 2070,
   "EOS_NewCompleters": 0,
@@ -31985,6 +31985,11 @@
       "Time": "2024-01-04T02:32:33.8635911+00:00",
       "NumProgressed": 694056,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2024-01-04T03:11:10.9175573+00:00",
+      "NumProgressed": 694061,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 54,
@@ -31996,7 +32001,7 @@
       "Name": "The dream begins",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 548304
+      "UsersEstimate": 548308
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -32084,7 +32089,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 249860
+      "UsersEstimate": 249862
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -32236,7 +32241,7 @@
       "Name": "The first of many",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 215157
+      "UsersEstimate": 215159
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -32268,7 +32273,7 @@
       "Name": "Teamwork makes the dream work",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 41643
+      "UsersEstimate": 41644
     },
     {
       "ID": "NO_FINE_CONTRACT",
@@ -32300,7 +32305,7 @@
       "Name": "Lawn in the U.S.A.",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 104108
+      "UsersEstimate": 104109
     },
     {
       "ID": "PART_EX_LESS_EXPENSIVE",
@@ -32396,7 +32401,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 124930
+      "UsersEstimate": 124931
     },
     {
       "ID": "RP_TRUSTED",
@@ -32427,15 +32432,15 @@
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 694056,
+      "Progressed": 694061,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-12-22T00:00:38.9182801+00:00",
-  "LastChanged_Achievements": "2024-01-04T02:32:33.8635906+00:00",
+  "LastChanged_Achievements": "2024-01-04T03:11:10.9175568+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:51.3270984+00:00",
-  "LastUpdate_Ratings": "2024-01-04T02:22:13.615143+00:00",
-  "LastUpdate_Achievements": "2024-01-04T02:32:33.8637552+00:00"
+  "LastUpdate_Ratings": "2024-01-04T03:00:54.1350565+00:00",
+  "LastUpdate_Achievements": "2024-01-04T03:11:10.9177444+00:00"
 }

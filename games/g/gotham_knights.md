@@ -5,11 +5,11 @@ Rating: 4.18 (Ranked 972)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~40,652 |
+| First Step Into the Knight | 50.00% | ~40,653 |
 | Har, Har, Har, Very Funny | 34.00% | ~27,644 |
 | Loose Ends | 33.00% | ~26,831 |
-| To the Victor Go the Spoils | 27.00% | ~21,952 |
-| Knighthood | 26.00% | ~21,139 |
+| To the Victor Go the Spoils | 27.00% | ~21,953 |
+| Knighthood | 26.00% | ~21,140 |
 | Get ReQ'd | 24.00% | ~19,513 |
 | Whispered Words | 24.00% | ~19,513 |
 | The Batman Family | 22.00% | ~17,887 |
@@ -35,8 +35,8 @@ Rating: 4.18 (Ranked 972)
 | Bulldozed | 12.00% | ~9,757 |
 | Gotham Knight | 12.00% | ~9,757 |
 | Gotham City Confidential | 11.00% | ~8,944 |
-| Drone You Out | 10.00% | ~8,130 |
-| Out of Their League | 9.00% | ~7,317 |
+| Drone You Out | 10.00% | ~8,131 |
+| Out of Their League | 9.00% | ~7,318 |
 | Solid Alibi | 8.00% | ~6,504 |
 | Fusion Expert | 7.00% | ~5,691 |
 | Family Meeting | 6.00% | ~4,878 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 972)
 | The Cold, the Bad and the Ugly | 0.30% | ~155 |
 | It's Nice to Be Wanted | 0.20% | ~103 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 81,305 (Ranked 110)  
+Progressed: 81,306 (Ranked 110)  
 Completed: 130 (0.16%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,7 +326,7 @@ Completed: 130 (0.16%) (Ranked 282)
 | 2024-01-01 | 80,929 | 130 |
 | 2024-01-02 | 81,089 | 130 |
 | 2024-01-03 | 81,281 | 130 |
-| 2024-01-04 | 81,305 | 130 |
+| 2024-01-04 | 81,306 | 130 |
 ## Awards
 Max (Great Boss Battles): 3,120  (Ranked 100)  
 Sum: 5,334 (Ranked 142)  

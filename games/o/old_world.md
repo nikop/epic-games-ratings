@@ -48,6 +48,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Wise | 0.50% | ~81 |
 | Able Difficulty | 0.50% | ~81 |
 | Furious Family | 0.50% | ~81 |
+| Acropolis | 0.50% | ~81 |
 | Apadana | 0.50% | ~81 |
 | Great Ziggurat | 0.50% | ~81 |
 | Carthaginian Paganism | 0.50% | ~81 |
@@ -58,7 +59,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Valiant | 0.40% | ~64 |
 | Legendary Cities | 0.40% | ~64 |
 | Sages | 0.40% | ~64 |
-| Acropolis | 0.40% | ~64 |
 | Colossus | 0.40% | ~64 |
 | Mausoleum | 0.40% | ~64 |
 | Musaeum | 0.40% | ~64 |
@@ -98,6 +98,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lion | 0.20% | ~32 |
 | Subjugator | 0.20% | ~32 |
 | Strong Difficulty | 0.20% | ~32 |
+| Clerics | 0.20% | ~32 |
 | Hunters | 0.20% | ~32 |
 | Landowners | 0.20% | ~32 |
 | Circus Maximus | 0.20% | ~32 |
@@ -112,6 +113,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt | 0.20% | ~32 |
 | Rome | 0.20% | ~32 |
 | Assyrian Paganism | 0.20% | ~32 |
+| Hittite Paganism | 0.20% | ~32 |
 | Industrial Progress | 0.20% | ~32 |
 | Dualism | 0.20% | ~32 |
 | Enlightenment | 0.20% | ~32 |
@@ -180,7 +182,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Elephant in Elephantine | 0.10% | ~16 |
 | Et tu Brutus? | 0.10% | ~16 |
 | Event Level High | 0.10% | ~16 |
-| Clerics | 0.10% | ~16 |
 | Battle of the Fertile Crescent | 0.10% | ~16 |
 | The Eternal Treaty | 0.10% | ~16 |
 | Five Routs | 0.10% | ~16 |
@@ -233,7 +234,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Network Game | 0.10% | ~16 |
 | Play a Play-By-Cloud Game | 0.10% | ~16 |
 | Punic Wars | 0.10% | ~16 |
-| Hittite Paganism | 0.10% | ~16 |
 | Colossus in Rhodes | 0.10% | ~16 |
 | Roman Papacy | 0.10% | ~16 |
 | Circus Maximus in Roma | 0.10% | ~16 |
@@ -365,8 +365,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,109 (Ranked 166)  
-Completed: 5 (0.03%) (Ranked 350)  
+Progressed: 16,110 (Ranked 166)  
+Completed: 5 (0.03%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -624,7 +624,7 @@ Completed: 5 (0.03%) (Ranked 350)
 | 2024-01-01 | 16,077 | 5 |
 | 2024-01-02 | 16,090 | 5 |
 | 2024-01-03 | 16,108 | 5 |
-| 2024-01-04 | 16,109 | 5 |
+| 2024-01-04 | 16,110 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 283)  
 Sum: 1,912 (Ranked 221)  

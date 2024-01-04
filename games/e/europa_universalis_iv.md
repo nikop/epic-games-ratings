@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 491,447 (Ranked 43)  
+Progressed: 491,457 (Ranked 43)  
 Completed: 1 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -629,7 +629,7 @@ Completed: 1 (0.00%) (Ranked 392)
 | 2024-01-01 | 489,961 | 1 |
 | 2024-01-02 | 490,643 | 1 |
 | 2024-01-03 | 491,381 | 1 |
-| 2024-01-04 | 491,447 | 1 |
+| 2024-01-04 | 491,457 | 1 |
 ## Awards
 Max (Educational): 7,696  (Ranked 54)  
 Sum: 63,439 (Ranked 24)  

@@ -32,7 +32,7 @@ Rating: 4.71 (Ranked 202)
 | Tanos' Crusade Against Thalya | 45.00% | ~320 |
 | Pure Dynamite! | 44.00% | ~312 |
 | Mana Cannon | 41.00% | ~291 |
-| All’s Well That Ends Evil | 40.00% | ~284 |
+| All’s Well That Ends Evil | 41.00% | ~291 |
 | The Duel | 38.00% | ~270 |
 | If Looks Could Kill | 35.00% | ~248 |
 | Unstoppable Horde | 34.00% | ~241 |

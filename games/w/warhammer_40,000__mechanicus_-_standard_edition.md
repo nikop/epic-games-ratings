@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 720)
 | Perma-live | 0.10% | ~231 |
 | Purge the Heretek | 0.10% | ~231 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,304 (Ranked 76)  
+Progressed: 231,305 (Ranked 76)  
 Completed: 5 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 5 (0.00%) (Ranked 392)
 | 2024-01-01 | 231,120 | 5 |
 | 2024-01-02 | 231,204 | 5 |
 | 2024-01-03 | 231,298 | 5 |
-| 2024-01-04 | 231,304 | 5 |
+| 2024-01-04 | 231,305 | 5 |
 ## Awards
 Max (Highly Recommended): 291  (Ranked 264)  
 Sum: 2,223 (Ranked 210)  

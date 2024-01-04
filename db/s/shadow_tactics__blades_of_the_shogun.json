@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -2458,9 +2458,9 @@
       "Count": 259
     }
   ],
-  "EOS_Progressed": 223821,
+  "EOS_Progressed": 223822,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 1678,
+  "EOS_NewPlayers": 1677,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -32208,6 +32208,11 @@
       "Time": "2024-01-04T02:26:59.2699174+00:00",
       "NumProgressed": 223821,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2024-01-04T03:05:40.325397+00:00",
+      "NumProgressed": 223822,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 44,
@@ -32307,7 +32312,7 @@
       "Name": "Happy Planning",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 15667
+      "UsersEstimate": 15668
     },
     {
       "ID": "HighFiveTheMoon",
@@ -32339,7 +32344,7 @@
       "Name": "Jonin",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 15667
+      "UsersEstimate": 15668
     },
     {
       "ID": "Mercyful",
@@ -32371,7 +32376,7 @@
       "Name": "Mugen Unchained",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 15667
+      "UsersEstimate": 15668
     },
     {
       "ID": "NoGimmicks",
@@ -32570,15 +32575,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 223821,
+      "Progressed": 223822,
       "Completed": 102
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2024-01-03T16:59:46.6043731+00:00",
-  "LastChanged_Achievements": "2024-01-04T02:26:59.2699169+00:00",
+  "LastChanged_Achievements": "2024-01-04T03:05:40.3253963+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:46.5494566+00:00",
-  "LastUpdate_Ratings": "2024-01-04T02:21:58.5111248+00:00",
-  "LastUpdate_Achievements": "2024-01-04T02:26:59.2701046+00:00"
+  "LastUpdate_Ratings": "2024-01-04T03:00:37.2102955+00:00",
+  "LastUpdate_Achievements": "2024-01-04T03:05:40.3255511+00:00"
 }

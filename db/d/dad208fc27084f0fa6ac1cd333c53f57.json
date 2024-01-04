@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6833,
+  "EOS_Progressed": 6834,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 543,
+  "EOS_NewPlayers": 541,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.92,
   "EosHistory": [
@@ -7124,6 +7124,11 @@
       "Time": "2024-01-04T01:51:05.3522202+00:00",
       "NumProgressed": 6833,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2024-01-04T03:05:38.9255844+00:00",
+      "NumProgressed": 6834,
+      "NumCompleted": 63
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -7168,7 +7173,7 @@
       "Name": "Unlock the PC",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 2528
+      "UsersEstimate": 2529
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_SOFA",
@@ -7176,7 +7181,7 @@
       "Name": "Move the sofa",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 2323
+      "UsersEstimate": 2324
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_TV",
@@ -7192,7 +7197,7 @@
       "Name": "Wrong passcode",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 5398
+      "UsersEstimate": 5399
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -7263,14 +7268,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 6833,
+      "Progressed": 6834,
       "Completed": 63
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2024-01-04T02:26:58.020126+00:00",
+  "LastChanged_Achievements": "2024-01-04T03:05:38.925584+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:11.3556672+00:00",
-  "LastUpdate_Ratings": "2024-01-04T02:21:42.2723231+00:00",
-  "LastUpdate_Achievements": "2024-01-04T02:26:58.0201615+00:00"
+  "LastUpdate_Ratings": "2024-01-04T03:00:18.9017912+00:00",
+  "LastUpdate_Achievements": "2024-01-04T03:05:38.9256246+00:00"
 }

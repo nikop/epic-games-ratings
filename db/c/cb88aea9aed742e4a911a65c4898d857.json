@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 368,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -269,9 +269,9 @@
       "Count": 93
     }
   ],
-  "EOS_Progressed": 9917,
+  "EOS_Progressed": 9920,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1740,
+  "EOS_NewPlayers": 1735,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3564,6 +3564,11 @@
       "Time": "2024-01-04T02:32:21.8265634+00:00",
       "NumProgressed": 9917,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-04T03:10:58.5030834+00:00",
+      "NumProgressed": 9920,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3590,9 +3595,9 @@
       "ID": "04_TheTradeEmpire",
       "SetID": "37a94m8",
       "Name": "Trade Empire",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 298
+      "UsersEstimate": 397
     },
     {
       "ID": "05_TheComorraghSurvivors",
@@ -4095,7 +4100,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 9917,
+      "Progressed": 9920,
       "Completed": 1
     }
   ],
@@ -4103,8 +4108,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-04T01:47:10.0035057+00:00",
-  "LastChanged_Achievements": "2024-01-04T02:32:21.8265631+00:00",
+  "LastChanged_Achievements": "2024-01-04T03:10:58.5030829+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2024-01-04T02:24:32.0049601+00:00",
-  "LastUpdate_Achievements": "2024-01-04T02:32:21.826624+00:00"
+  "LastUpdate_Ratings": "2024-01-04T03:03:06.40262+00:00",
+  "LastUpdate_Achievements": "2024-01-04T03:10:58.5031392+00:00"
 }

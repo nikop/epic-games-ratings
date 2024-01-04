@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -182,7 +182,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253054,
+  "EOS_Progressed": 253055,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 383,
   "EOS_NewCompleters": 0,
@@ -23177,6 +23177,11 @@
       "Time": "2024-01-04T02:32:23.3150498+00:00",
       "NumProgressed": 253054,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-04T03:10:59.9857595+00:00",
+      "NumProgressed": 253055,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -23212,7 +23217,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 53141
+      "UsersEstimate": 53142
     },
     {
       "ID": "blotbuster",
@@ -23428,7 +23433,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126527
+      "UsersEstimate": 126528
     },
     {
       "ID": "notScared",
@@ -23492,7 +23497,7 @@
       "Name": "The Stunner",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 58202
+      "UsersEstimate": 58203
     },
     {
       "ID": "thunderstruck",
@@ -23555,7 +23560,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253054,
+      "Progressed": 253055,
       "Completed": 6
     }
   ],
@@ -23563,8 +23568,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-04T02:32:23.3150494+00:00",
+  "LastChanged_Achievements": "2024-01-04T03:10:59.9857592+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.9407923+00:00",
-  "LastUpdate_Ratings": "2024-01-04T02:21:35.084742+00:00",
-  "LastUpdate_Achievements": "2024-01-04T02:32:23.3151868+00:00"
+  "LastUpdate_Ratings": "2024-01-04T03:00:11.4886449+00:00",
+  "LastUpdate_Achievements": "2024-01-04T03:10:59.985881+00:00"
 }

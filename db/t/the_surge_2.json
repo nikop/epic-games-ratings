@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2457,
+  "EOS_Progressed": 2458,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -4244,6 +4244,11 @@
       "Time": "2024-01-03T23:06:46.0886541+00:00",
       "NumProgressed": 2457,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-04T03:06:47.2254259+00:00",
+      "NumProgressed": 2458,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4263,7 +4268,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1597
+      "UsersEstimate": 1598
     },
     {
       "ID": "ACHV_03",
@@ -4293,9 +4298,9 @@
       "ID": "ACHV_06",
       "SetID": "8p5mlmc",
       "Name": "Home Invasion",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 565
+      "UsersEstimate": 541
     },
     {
       "ID": "ACHV_07",
@@ -4311,7 +4316,7 @@
       "Name": "Mommy Dearest",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "ACHV_09",
@@ -4319,7 +4324,7 @@
       "Name": "Bad Dog",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "ACHV_10",
@@ -4423,7 +4428,7 @@
       "Name": "Offensive Defense",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "ACHV_23",
@@ -4455,7 +4460,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1941
+      "UsersEstimate": 1942
     },
     {
       "ID": "ACHV_27",
@@ -4495,7 +4500,7 @@
       "Name": "Where It All Began",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "ACHV_32",
@@ -4519,7 +4524,7 @@
       "Name": "Shocking",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "ACHV_35",
@@ -4551,7 +4556,7 @@
       "Name": "Risk Tolerant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "ACHV_39",
@@ -4559,7 +4564,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 1843
+      "UsersEstimate": 1844
     },
     {
       "ID": "ACHV_40",
@@ -4591,7 +4596,7 @@
       "Name": "What A Catchy Song",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "ACHV_44",
@@ -4710,7 +4715,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2457,
+      "Progressed": 2458,
       "Completed": 13
     }
   ],
@@ -4718,8 +4723,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-29T03:00:05.8444174+00:00",
-  "LastChanged_Achievements": "2024-01-04T02:28:02.074953+00:00",
+  "LastChanged_Achievements": "2024-01-04T03:06:47.2254255+00:00",
   "LastUpdate_AppInfo": "2023-12-30T17:56:59.176771+00:00",
-  "LastUpdate_Ratings": "2024-01-04T02:22:10.6213635+00:00",
-  "LastUpdate_Achievements": "2024-01-04T02:28:02.0750148+00:00"
+  "LastUpdate_Ratings": "2024-01-04T03:00:50.505144+00:00",
+  "LastUpdate_Achievements": "2024-01-04T03:06:47.2254918+00:00"
 }

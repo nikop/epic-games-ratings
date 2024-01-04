@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 607,
+  "EOS_Progressed": 609,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 6.92,
+  "EOS_Completed_Percentage": 6.9,
   "EosHistory": [
     {
       "Time": "2023-12-07T15:03:10.6458391+00:00",
@@ -1884,6 +1884,11 @@
       "Time": "2024-01-04T01:50:20.9722631+00:00",
       "NumProgressed": 607,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2024-01-04T03:04:36.5591409+00:00",
+      "NumProgressed": 609,
+      "NumCompleted": 42
     }
   ],
   "AchievementsAdded": "2023-12-07T15:03:10.6469952+00:00",
@@ -1896,7 +1901,7 @@
       "Name": "5 000 Score",
       "Percentage": 7,
       "XP": 200,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "10000_XP",
@@ -1904,7 +1909,7 @@
       "Name": "2 000 Score",
       "Percentage": 20,
       "XP": 200,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "1000_XP",
@@ -1912,7 +1917,7 @@
       "Name": "1000 Score",
       "Percentage": 40,
       "XP": 200,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "100_XP",
@@ -1920,7 +1925,7 @@
       "Name": "500 Score",
       "Percentage": 54,
       "XP": 200,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "10_XP",
@@ -1928,21 +1933,21 @@
       "Name": "200 Score",
       "Percentage": 69,
       "XP": 200,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     }
   ],
   "AchievementSets": [
     {
       "ID": "8d0im30",
       "IsBase": true,
-      "Progressed": 607,
+      "Progressed": 609,
       "Completed": 42
     }
   ],
   "FirstSeen": "2023-12-08T10:57:34.1568649+00:00",
   "FirstSeenAchievements": "2023-12-07T15:03:10.6469952+00:00",
-  "LastChanged_Achievements": "2024-01-04T02:25:58.7513397+00:00",
+  "LastChanged_Achievements": "2024-01-04T03:04:36.5591403+00:00",
   "LastUpdate_AppInfo": "2023-12-28T15:57:17.8041321+00:00",
-  "LastUpdate_Ratings": "2024-01-04T02:18:55.7855917+00:00",
-  "LastUpdate_Achievements": "2024-01-04T02:25:58.7513535+00:00"
+  "LastUpdate_Ratings": "2024-01-04T02:57:22.9940469+00:00",
+  "LastUpdate_Achievements": "2024-01-04T03:04:36.5591554+00:00"
 }

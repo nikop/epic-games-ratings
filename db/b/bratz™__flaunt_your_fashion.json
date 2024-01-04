@@ -2,10 +2,10 @@
   "ID": "2d6693ed985e4774a19d77291f8593db",
   "Name": "Bratz\u2122: Flaunt Your Fashion",
   "ProductSlug": "bratz-flaunt-your-fashion-95d529",
-  "Ranking_EOS_Progress": 457,
+  "Ranking_EOS_Progress": 455,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 323,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-01-24T09:30:00+00:00",
     "PcReleaseDate": "2022-11-04T00:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 141,
+  "EOS_Progressed": 142,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -566,6 +566,11 @@
       "Time": "2024-01-03T21:08:17.7303978+00:00",
       "NumProgressed": 141,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T03:08:34.9835899+00:00",
+      "NumProgressed": 142,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 19,
@@ -577,15 +582,15 @@
       "Name": "Welcome to Stilesville",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "10",
       "SetID": "41h3j82",
       "Name": "Born to Win",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 70,
-      "UsersEstimate": 54
+      "UsersEstimate": 53
     },
     {
       "ID": "11",
@@ -671,9 +676,9 @@
       "ID": "3",
       "SetID": "41h3j82",
       "Name": "Welcome to Seoul",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 70,
-      "UsersEstimate": 54
+      "UsersEstimate": 53
     },
     {
       "ID": "4",
@@ -687,9 +692,9 @@
       "ID": "5",
       "SetID": "41h3j82",
       "Name": "We will need a bigger wardrobe",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 70,
-      "UsersEstimate": 61
+      "UsersEstimate": 60
     },
     {
       "ID": "6",
@@ -719,7 +724,7 @@
       "ID": "9",
       "SetID": "41h3j82",
       "Name": "Talented Performer",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 70,
       "UsersEstimate": 80
     }
@@ -728,7 +733,7 @@
     {
       "ID": "41h3j82",
       "IsBase": true,
-      "Progressed": 141,
+      "Progressed": 142,
       "Completed": 0
     }
   ],
@@ -736,8 +741,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2024-01-04T02:30:15.3220238+00:00",
+  "LastChanged_Achievements": "2024-01-04T03:08:34.9835894+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:52.6103683+00:00",
-  "LastUpdate_Ratings": "2024-01-04T02:24:38.7524121+00:00",
-  "LastUpdate_Achievements": "2024-01-04T02:30:15.3220369+00:00"
+  "LastUpdate_Ratings": "2024-01-04T03:03:12.7784977+00:00",
+  "LastUpdate_Achievements": "2024-01-04T03:08:34.9836044+00:00"
 }

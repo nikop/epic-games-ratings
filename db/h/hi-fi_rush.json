@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -237,9 +237,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 15075,
+  "EOS_Progressed": 15077,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 2288,
+  "EOS_NewPlayers": 2282,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -10937,6 +10937,11 @@
       "Time": "2024-01-04T02:25:58.3191162+00:00",
       "NumProgressed": 15075,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-04T03:04:36.3425548+00:00",
+      "NumProgressed": 15077,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -10948,7 +10953,7 @@
       "Name": "Start with a bang!",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 7839
+      "UsersEstimate": 7840
     },
     {
       "ID": "Ach002",
@@ -10972,7 +10977,7 @@
       "Name": "The Negotiator",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2110
+      "UsersEstimate": 2111
     },
     {
       "ID": "Ach005",
@@ -11012,7 +11017,7 @@
       "Name": "Well that was a rush!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 904
+      "UsersEstimate": 905
     },
     {
       "ID": "Ach010",
@@ -11076,15 +11081,15 @@
       "Name": "I play my own way!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 3316
+      "UsersEstimate": 3317
     },
     {
       "ID": "Ach018",
       "SetID": "12n4k20",
       "Name": "Whoa! There\u0027s ANOTHER health bar!?",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2261
+      "UsersEstimate": 2412
     },
     {
       "ID": "Ach019",
@@ -11124,7 +11129,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 7990
+      "UsersEstimate": 7991
     },
     {
       "ID": "Ach024",
@@ -11132,7 +11137,7 @@
       "Name": "Beat-hit mania",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 904
+      "UsersEstimate": 905
     },
     {
       "ID": "Ach025",
@@ -11140,7 +11145,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 4221
+      "UsersEstimate": 4222
     },
     {
       "ID": "Ach026",
@@ -11212,7 +11217,7 @@
       "Name": "That\u0027s a lot of junk metal\u2026",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 904
+      "UsersEstimate": 905
     },
     {
       "ID": "Ach035",
@@ -11316,7 +11321,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 5728
+      "UsersEstimate": 5729
     },
     {
       "ID": "Ach048",
@@ -11348,7 +11353,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 7085
+      "UsersEstimate": 7086
     },
     {
       "ID": "Ach052",
@@ -11515,13 +11520,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 15075,
+      "Progressed": 15077,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 13596,
+      "Progressed": 13598,
       "Completed": 1930
     }
   ],
@@ -11529,8 +11534,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-03T15:57:01.9136963+00:00",
-  "LastChanged_Achievements": "2024-01-04T02:25:58.3191157+00:00",
+  "LastChanged_Achievements": "2024-01-04T03:04:36.3425542+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:38.1838915+00:00",
-  "LastUpdate_Ratings": "2024-01-04T02:19:17.3209688+00:00",
-  "LastUpdate_Achievements": "2024-01-04T02:25:58.3192144+00:00"
+  "LastUpdate_Ratings": "2024-01-04T02:57:45.0979057+00:00",
+  "LastUpdate_Achievements": "2024-01-04T03:04:36.342676+00:00"
 }

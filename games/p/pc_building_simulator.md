@@ -6,10 +6,10 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,765,555 |
-| Easy to forget | 46.00% | ~1,657,460 |
-| Back in the black | 39.00% | ~1,405,238 |
-| That's what I'm talking about | 29.00% | ~1,044,920 |
+| You need to plug it in... | 49.00% | ~1,765,556 |
+| Easy to forget | 46.00% | ~1,657,461 |
+| Back in the black | 39.00% | ~1,405,239 |
+| That's what I'm talking about | 29.00% | ~1,044,921 |
 | The Best of Both Worlds | 25.00% | ~900,794 |
 | Get your wings | 20.00% | ~720,635 |
 | Double trouble | 16.00% | ~576,508 |
@@ -26,10 +26,10 @@ Number of Ratings: 12,155  (23.09.2022)
 | You rock at this! | 3.00% | ~108,095 |
 | Perfection | 3.00% | ~108,095 |
 | Your music sucks | 3.00% | ~108,095 |
-| Maybe you should try something else? | 2.00% | ~72,063 |
-| Taking care of business | 2.00% | ~72,063 |
-| Things are under control | 2.00% | ~72,063 |
-| Calling in Sick | 2.00% | ~72,063 |
+| Maybe you should try something else? | 2.00% | ~72,064 |
+| Taking care of business | 2.00% | ~72,064 |
+| Things are under control | 2.00% | ~72,064 |
+| Calling in Sick | 2.00% | ~72,064 |
 | Overvolted | 1.00% | ~36,032 |
 | If you fail the first time... | 1.00% | ~36,032 |
 | Amazonian | 1.00% | ~36,032 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,603 |
 | Treat yourself - GPU | 0.10% | ~3,603 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,603,174 (Ranked 5)  
+Progressed: 3,603,176 (Ranked 5)  
 Completed: 41 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 41 (0.00%) (Ranked 392)
 | 2024-01-01 | 3,601,910 | 41 |
 | 2024-01-02 | 3,602,513 | 41 |
 | 2024-01-03 | 3,603,102 | 41 |
-| 2024-01-04 | 3,603,174 | 41 |
+| 2024-01-04 | 3,603,176 | 41 |
 ## Awards
 Max (Great for Beginners): 1,127  (Ranked 149)  
 Sum: 8,262 (Ranked 111)  
