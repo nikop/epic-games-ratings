@@ -7,7 +7,7 @@
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.91% |
 | 6 | [greensheen Production](games/g/greensheen_production.md) | 43.75% |
 | 7 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 42.86% |
-| 8 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 42.66% |
+| 8 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 42.47% |
 | 9 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 38.96% |
 | 10 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 38.93% |
 | 11 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 33.33% |
@@ -24,7 +24,7 @@
 | 22 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.34% |
 | 23 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.23% |
 | 24 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
-| 25 | [The Riflemen](games/t/the_riflemen.md) | 18.28% |
+| 25 | [The Riflemen](games/t/the_riflemen.md) | 18.27% |
 | 26 | [Island Cities](games/i/island_cities.md) | 16.74% |
 | 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 28 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
@@ -47,7 +47,7 @@
 | 45 | [Smelter](games/s/smelter.md) | 8.89% |
 | 46 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 8.51% |
 | 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.38% |
-| 48 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 8.22% |
+| 48 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 8.16% |
 | 49 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.89% |
 | 50 | [Ravenlok](games/r/ravenlok.md) | 7.70% |
 | 51 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
@@ -64,7 +64,7 @@
 | 61 | [Scorn](games/s/scorn.md) | 6.90% |
 | 63 | [Time Loader](games/t/time_loader.md) | 6.47% |
 | 64 | [Anna's Quest](games/a/anna's_quest.md) | 6.45% |
-| 65 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.29% |
+| 65 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.27% |
 | 66 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 66 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 6.25% |
 | 68 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 6.20% |
@@ -103,7 +103,7 @@
 | 101 | [Thunder Ray](games/3/3c59565688c94fa2807baaa19ed62478.md) | 3.45% |
 | 102 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 3.41% |
 | 102 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.41% |
-| 104 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.39% |
+| 104 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.38% |
 | 105 | [Bunny Park](games/b/bunny_park.md) | 3.24% |
 | 106 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 3.12% |
 | 107 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.04% |
@@ -145,7 +145,7 @@
 | 142 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 1.70% |
 | 144 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.66% |
 | 145 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.61% |
-| 146 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.57% |
+| 146 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.58% |
 | 147 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.54% |
 | 148 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.52% |
 | 149 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.51% |
