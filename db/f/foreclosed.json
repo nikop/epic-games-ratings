@@ -4,8 +4,8 @@
   "ProductSlug": "foreclosed",
   "Ranking_EOS_Progress": 458,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 410,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-08-12T13:00:00+00:00",
     "PcReleaseDate": "2021-08-12T13:00:00+00:00",
@@ -430,9 +430,9 @@
       "ID": "EnemyDefeat_0",
       "SetID": "9e3d06k",
       "Name": "Unstoppable",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "EnemyDefeat_1",
@@ -446,9 +446,9 @@
       "ID": "ExpertChoice",
       "SetID": "9e3d06k",
       "Name": "Tough Decision",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "FirstAutoSkillUnlock",
@@ -486,9 +486,9 @@
       "ID": "Headshots_1",
       "SetID": "9e3d06k",
       "Name": "Veteran Sniper",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "KyklosPlan",
@@ -518,9 +518,9 @@
       "ID": "Neuroconnector",
       "SetID": "9e3d06k",
       "Name": "The Neuro-connector",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "SecondAutoSkillUnlock",
@@ -599,8 +599,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
   "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
-  "LastChanged_Achievements": "2024-01-04T18:05:54.1426496+00:00",
+  "LastChanged_Achievements": "2024-01-04T19:05:44.0899027+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:54.8333074+00:00",
-  "LastUpdate_Ratings": "2024-01-04T18:00:11.2519726+00:00",
-  "LastUpdate_Achievements": "2024-01-04T18:05:54.1426681+00:00"
+  "LastUpdate_Ratings": "2024-01-04T18:59:55.8582356+00:00",
+  "LastUpdate_Achievements": "2024-01-04T19:05:44.089927+00:00"
 }

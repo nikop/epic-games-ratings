@@ -6,16 +6,16 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Abandoned Settlement | 8.00% | ~1,609 |
-| Overgrown Library | 8.00% | ~1,609 |
-| First Real Expedition | 7.00% | ~1,408 |
-| Taking Action | 7.00% | ~1,408 |
-| No Deaths | 7.00% | ~1,408 |
-| Petrified Necropolis | 7.00% | ~1,408 |
-| Overcoming Difficulty | 6.00% | ~1,207 |
-| Coral Forest | 6.00% | ~1,207 |
-| The Marshlands | 6.00% | ~1,207 |
-| Gathering Storm | 6.00% | ~1,207 |
+| Abandoned Settlement | 8.00% | ~1,610 |
+| Overgrown Library | 8.00% | ~1,610 |
+| First Real Expedition | 7.00% | ~1,409 |
+| Taking Action | 7.00% | ~1,409 |
+| No Deaths | 7.00% | ~1,409 |
+| Petrified Necropolis | 7.00% | ~1,409 |
+| Overcoming Difficulty | 6.00% | ~1,208 |
+| Coral Forest | 6.00% | ~1,208 |
+| The Marshlands | 6.00% | ~1,208 |
+| Gathering Storm | 6.00% | ~1,208 |
 | The Scarlet Orchard | 5.00% | ~1,006 |
 | Frosts | 5.00% | ~1,006 |
 | Land of Greed | 5.00% | ~1,006 |
@@ -31,16 +31,16 @@ Number of Ratings: 1,845  (23.09.2022)
 | A Real Challenge | 3.00% | ~604 |
 | Trade Baron | 3.00% | ~604 |
 | Untamed Wilds | 3.00% | ~604 |
-| Against All Odds | 2.00% | ~402 |
-| Bandit Camp | 2.00% | ~402 |
-| Barren Lands | 2.00% | ~402 |
-| Ancient Battleground | 2.00% | ~402 |
-| Sparkdew Crystals | 2.00% | ~402 |
-| Haunted Forest | 2.00% | ~402 |
-| Flooded Mines | 2.00% | ~402 |
-| Statue of the Forefathers | 2.00% | ~402 |
-| Corrosive Torrent | 2.00% | ~402 |
-| Cursed Lands | 2.00% | ~402 |
+| Against All Odds | 2.00% | ~403 |
+| Bandit Camp | 2.00% | ~403 |
+| Barren Lands | 2.00% | ~403 |
+| Ancient Battleground | 2.00% | ~403 |
+| Sparkdew Crystals | 2.00% | ~403 |
+| Haunted Forest | 2.00% | ~403 |
+| Flooded Mines | 2.00% | ~403 |
+| Statue of the Forefathers | 2.00% | ~403 |
+| Corrosive Torrent | 2.00% | ~403 |
+| Cursed Lands | 2.00% | ~403 |
 | Serving Ale | 1.00% | ~201 |
 | Efficient Explorer | 1.00% | ~201 |
 | Refinery | 1.00% | ~201 |
@@ -54,8 +54,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Feeding The People | 0.70% | ~141 |
 | Like a Machine | 0.60% | ~121 |
 | Fox Utopia | 0.50% | ~101 |
-| Prestigious Expedition | 0.40% | ~80 |
-| Blood Flower Farmer | 0.40% | ~80 |
+| Prestigious Expedition | 0.40% | ~81 |
+| Blood Flower Farmer | 0.40% | ~81 |
 | Human Utopia | 0.30% | ~60 |
 | Beaver Utopia | 0.20% | ~40 |
 | Lizard Utopia | 0.20% | ~40 |
@@ -66,8 +66,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,118 (Ranked 152)  
-Completed: 33 (0.16%) (Ranked 282)  
+Progressed: 20,129 (Ranked 152)  
+Completed: 33 (0.16%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -325,7 +325,7 @@ Completed: 33 (0.16%) (Ranked 282)
 | 2024-01-01 | 19,919 | 33 |
 | 2024-01-02 | 19,991 | 33 |
 | 2024-01-03 | 20,065 | 33 |
-| 2024-01-04 | 20,118 | 33 |
+| 2024-01-04 | 20,129 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 448  (Ranked 229)  
 Sum: 3,330 (Ranked 176)  

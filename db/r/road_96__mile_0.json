@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 630,
+  "EOS_Progressed": 631,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 1,
@@ -2277,6 +2277,11 @@
       "Time": "2024-01-04T18:09:59.3168145+00:00",
       "NumProgressed": 630,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-04T19:09:46.7236656+00:00",
+      "NumProgressed": 631,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -2288,7 +2293,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 47,
       "XP": 60,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "completeact2",
@@ -2304,7 +2309,7 @@
       "Name": "On the Road",
       "Percentage": 38,
       "XP": 100,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "findalltapes",
@@ -2368,7 +2373,7 @@
       "Name": "This is Not Heavy Metal!",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "scoreminrankrp2",
@@ -2407,7 +2412,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 630,
+      "Progressed": 631,
       "Completed": 3
     }
   ],
@@ -2415,8 +2420,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-04T18:09:59.3168143+00:00",
+  "LastChanged_Achievements": "2024-01-04T19:09:46.7236652+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:00.0371084+00:00",
-  "LastUpdate_Ratings": "2024-01-04T18:00:21.976012+00:00",
-  "LastUpdate_Achievements": "2024-01-04T18:09:59.316833+00:00"
+  "LastUpdate_Ratings": "2024-01-04T19:00:06.0822998+00:00",
+  "LastUpdate_Achievements": "2024-01-04T19:09:46.7236828+00:00"
 }

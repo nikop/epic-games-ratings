@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 434,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
     "PcReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -571,9 +571,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 176,
+  "EOS_Progressed": 177,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1251,6 +1251,11 @@
       "Time": "2024-01-04T15:03:40.4849399+00:00",
       "NumProgressed": 176,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T19:03:47.6425252+00:00",
+      "NumProgressed": 177,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:41.4600068+00:00",
@@ -1389,9 +1394,9 @@
       "ID": "5CREWMEMBER",
       "SetID": "a1angca",
       "Name": "Military Leader",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 37
     },
     {
       "ID": "ALLCOMBAT",
@@ -1461,9 +1466,9 @@
       "ID": "CHOSEALB",
       "SetID": "a1angca",
       "Name": "Alb",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "CHOSEBSK",
@@ -1527,7 +1532,7 @@
       "Name": "Commander",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "FINDBILLY",
@@ -1535,7 +1540,7 @@
       "Name": "Festival-goer",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "FINDCITY",
@@ -1551,7 +1556,7 @@
       "Name": "Best Buddy",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "FINDMAP",
@@ -1575,7 +1580,7 @@
       "Name": "Irissa\u0027s Fate",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "HELPCHILDREN",
@@ -1662,15 +1667,15 @@
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 176,
+      "Progressed": 177,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2024-01-04T18:03:55.8684647+00:00",
+  "LastChanged_Achievements": "2024-01-04T19:03:47.6425249+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:16.9599546+00:00",
-  "LastUpdate_Ratings": "2024-01-04T17:57:20.1696562+00:00",
-  "LastUpdate_Achievements": "2024-01-04T18:03:55.8685016+00:00"
+  "LastUpdate_Ratings": "2024-01-04T18:57:07.0560458+00:00",
+  "LastUpdate_Achievements": "2024-01-04T19:03:47.6425571+00:00"
 }

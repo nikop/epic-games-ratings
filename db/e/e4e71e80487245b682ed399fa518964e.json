@@ -4,8 +4,8 @@
   "ProductSlug": "horse-racing-4192a0",
   "Ranking_EOS_Progress": 668,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-12-02T18:30:00+00:00",
     "PcReleaseDate": "2016-10-20T18:30:00+00:00",
@@ -140,8 +140,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-30T17:03:58.2919235+00:00",
-  "LastChanged_Achievements": "2024-01-04T18:06:07.467336+00:00",
+  "LastChanged_Achievements": "2024-01-04T19:05:57.33654+00:00",
   "LastUpdate_AppInfo": "2023-12-28T18:57:07.1121714+00:00",
-  "LastUpdate_Ratings": "2024-01-04T17:58:50.5734691+00:00",
-  "LastUpdate_Achievements": "2024-01-04T18:06:07.4673477+00:00"
+  "LastUpdate_Ratings": "2024-01-04T18:58:36.2003849+00:00",
+  "LastUpdate_Achievements": "2024-01-04T19:05:57.3365481+00:00"
 }

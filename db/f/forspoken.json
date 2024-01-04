@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -583,9 +583,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 46336,
+  "EOS_Progressed": 46346,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 825,
+  "EOS_NewPlayers": 830,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17633,6 +17633,11 @@
       "Time": "2024-01-04T18:06:26.1783953+00:00",
       "NumProgressed": 46336,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-04T19:06:16.4077921+00:00",
+      "NumProgressed": 46346,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -17692,7 +17697,7 @@
       "Name": "Attachments",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5560
+      "UsersEstimate": 5562
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -17708,7 +17713,7 @@
       "Name": "The Interloper",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1853
+      "UsersEstimate": 1854
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -17796,7 +17801,7 @@
       "Name": "Tinkerer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3707
+      "UsersEstimate": 3708
     },
     {
       "ID": "CUFF_ATTACK",
@@ -17804,7 +17809,7 @@
       "Name": "No Mercy",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2780
+      "UsersEstimate": 2781
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -17860,7 +17865,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2780
+      "UsersEstimate": 2781
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -17980,7 +17985,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5097
+      "UsersEstimate": 5098
     },
     {
       "ID": "SPRING_ALL",
@@ -18067,22 +18072,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 46336,
+      "Progressed": 46346,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 11173,
-      "Completed": 11173
+      "Progressed": 11183,
+      "Completed": 11183
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-03T17:03:22.02257+00:00",
-  "LastChanged_Achievements": "2024-01-04T18:06:26.1783948+00:00",
+  "LastChanged_Achievements": "2024-01-04T19:06:16.4077917+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:48.1998363+00:00",
-  "LastUpdate_Ratings": "2024-01-04T18:02:53.7159543+00:00",
-  "LastUpdate_Achievements": "2024-01-04T18:06:26.1785094+00:00"
+  "LastUpdate_Ratings": "2024-01-04T19:02:47.2898943+00:00",
+  "LastUpdate_Achievements": "2024-01-04T19:06:16.4079362+00:00"
 }

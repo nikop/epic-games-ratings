@@ -4,8 +4,8 @@
   "ProductSlug": "marble-it-up-ultra-7b5692",
   "Ranking_EOS_Progress": 476,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 347,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
     "PcReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -689,17 +689,17 @@
       "ID": "beat_c1_gold",
       "SetID": "3448go",
       "Name": "Venture Time",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "beat_c1_silver",
       "SetID": "3448go",
       "Name": "Treasured Momentum",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "beat_c1a_bronze",
@@ -1153,9 +1153,9 @@
       "ID": "rolldist_short",
       "SetID": "3448go",
       "Name": "Rolling the Competition",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "soccer_hattrick",
@@ -1193,9 +1193,9 @@
       "ID": "trophies_10",
       "SetID": "3448go",
       "Name": "Look What I Found!",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "trophies_117",
@@ -1264,8 +1264,8 @@
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2024-01-04T18:04:21.791507+00:00",
+  "LastChanged_Achievements": "2024-01-04T19:04:12.7913282+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:15.6057122+00:00",
-  "LastUpdate_Ratings": "2024-01-04T17:59:53.043155+00:00",
-  "LastUpdate_Achievements": "2024-01-04T18:04:21.7915793+00:00"
+  "LastUpdate_Ratings": "2024-01-04T18:59:36.2094682+00:00",
+  "LastUpdate_Achievements": "2024-01-04T19:04:12.791413+00:00"
 }

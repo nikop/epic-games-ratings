@@ -2,12 +2,12 @@
   "ID": "ffa7b0821b4142d5873ecb0528715003",
   "Name": "Supraland Six Inches Under",
   "ProductSlug": "supraland-six-inches-under-dd0220",
-  "Ranking_Rating": 130,
+  "Ranking_Rating": 129,
   "Ranking_Popularity": 364,
   "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 36,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 321,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
@@ -2822,9 +2822,9 @@
       "ID": "AllChests",
       "SetID": "5lok9mm",
       "Name": "All the chests",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 314
+      "UsersEstimate": 338
     },
     {
       "ID": "Area2",
@@ -3246,8 +3246,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-12-30T23:58:48.7600595+00:00",
-  "LastChanged_Achievements": "2024-01-04T18:04:18.3547448+00:00",
+  "LastChanged_Achievements": "2024-01-04T19:04:09.3939994+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:33.9994226+00:00",
-  "LastUpdate_Ratings": "2024-01-04T17:57:45.3437084+00:00",
-  "LastUpdate_Achievements": "2024-01-04T18:04:18.3547843+00:00"
+  "LastUpdate_Ratings": "2024-01-04T18:57:33.1042825+00:00",
+  "LastUpdate_Achievements": "2024-01-04T19:04:09.394039+00:00"
 }

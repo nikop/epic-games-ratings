@@ -4,11 +4,11 @@
   "ProductSlug": "kerbal-space-program-2",
   "Ranking_Rating": 941,
   "Ranking_Popularity": 474,
-  "Ranking_PopularitySum": 375,
+  "Ranking_PopularitySum": 374,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-02-24T14:00:00+00:00",
     "PcReleaseDate": "2023-02-24T14:00:00+00:00",
@@ -1025,10 +1025,16 @@
       "Rating": 4.22,
       "NumberOfAwards": 316,
       "NumberOfAwardsMax": 42
+    },
+    {
+      "Time": "2024-01-04T19:03:15.6982056+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 317,
+      "NumberOfAwardsMax": 42
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 316,
+  "NumberOfAwards": 317,
   "NumberOfAwardsMax": 42,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -1054,7 +1060,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 29
+      "Count": 30
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1105,8 +1111,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-24T16:58:34.691796+00:00",
   "FirstSeenRating": "2023-02-27T02:15:09.7091148+00:00",
-  "LastChanged": "2024-01-03T19:04:09.1189176+00:00",
+  "LastChanged": "2024-01-04T19:03:15.6982054+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:57:02.5659121+00:00",
-  "LastUpdate_Ratings": "2024-01-04T18:03:25.3444642+00:00",
-  "LastUpdate_Achievements": "2024-01-04T18:05:17.8477237+00:00"
+  "LastUpdate_Ratings": "2024-01-04T19:03:15.6982059+00:00",
+  "LastUpdate_Achievements": "2024-01-04T19:05:08.0594763+00:00"
 }

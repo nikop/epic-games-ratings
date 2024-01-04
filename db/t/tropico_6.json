@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1441,10 +1441,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 752,
       "NumberOfAwardsMax": 106
+    },
+    {
+      "Time": "2024-01-04T18:57:26.439714+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 753,
+      "NumberOfAwardsMax": 106
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 752,
+  "NumberOfAwards": 753,
   "NumberOfAwardsMax": 106,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1476,7 +1482,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 95
+      "Count": 96
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1515,9 +1521,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6887,
+  "EOS_Progressed": 6890,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15965,6 +15971,11 @@
       "Time": "2024-01-04T18:04:00.2399878+00:00",
       "NumProgressed": 6887,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-04T19:03:51.56293+00:00",
+      "NumProgressed": 6890,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -16032,7 +16043,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -16048,7 +16059,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -16072,7 +16083,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3030
+      "UsersEstimate": 3032
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -16096,7 +16107,7 @@
       "Name": "Number 18",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1584
+      "UsersEstimate": 1585
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -16136,7 +16147,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 5028
+      "UsersEstimate": 5030
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -16232,7 +16243,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 3099
+      "UsersEstimate": 3100
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -16248,7 +16259,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2479
+      "UsersEstimate": 2480
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -16295,15 +16306,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6887,
+      "Progressed": 6890,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
-  "LastChanged": "2024-01-01T23:00:51.8324602+00:00",
-  "LastChanged_Achievements": "2024-01-04T18:04:00.2399872+00:00",
+  "LastChanged": "2024-01-04T18:57:26.4397138+00:00",
+  "LastChanged_Achievements": "2024-01-04T19:03:51.5629295+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:30.406474+00:00",
-  "LastUpdate_Ratings": "2024-01-04T17:57:38.6029362+00:00",
-  "LastUpdate_Achievements": "2024-01-04T18:04:00.2400615+00:00"
+  "LastUpdate_Ratings": "2024-01-04T18:57:26.4397143+00:00",
+  "LastUpdate_Achievements": "2024-01-04T19:03:51.5631107+00:00"
 }

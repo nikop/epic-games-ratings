@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Master trainee | 50.00% | ~41 |
-| You have three wishes left | 44.00% | ~36 |
+| Master trainee | 49.00% | ~41 |
+| You have three wishes left | 43.00% | ~36 |
 | Jung's dream | 35.00% | ~29 |
 | The battle of Great Britain | 35.00% | ~29 |
 | Pulp! Where Monsters Dwell | 30.00% | ~25 |
-| A continent with chemistry | 26.00% | ~21 |
+| A continent with chemistry | 27.00% | ~22 |
 | The happy farmer girl | 24.00% | ~20 |
-| Giant | 21.00% | ~17 |
-| Pulp! Terror Tales in the Night | 21.00% | ~17 |
-| Pulp! Out of this World | 21.00% | ~17 |
-| A rival with no options | 20.00% | ~16 |
-| The artist | 20.00% | ~16 |
-| Diagnosis: fear | 20.00% | ~16 |
-| Ambition is... blind | 20.00% | ~16 |
+| Pulp! Terror Tales in the Night | 22.00% | ~18 |
+| Giant | 20.00% | ~17 |
+| Pulp! Out of this World | 20.00% | ~17 |
+| A rival with no options | 19.00% | ~16 |
+| The artist | 19.00% | ~16 |
+| Diagnosis: fear | 19.00% | ~16 |
+| Ambition is... blind | 19.00% | ~16 |
 | Pulp! Adventures into the Unknown | 18.00% | ~15 |
 | You have two wishes left | 18.00% | ~15 |
 | Et in arcadia ego | 16.00% | ~13 |
 | The seer | 16.00% | ~13 |
-| You had one wish left | 15.00% | ~12 |
+| You had one wish left | 14.00% | ~12 |
 | You've awakened the beast | 13.00% | ~11 |
 | Hate is... addictive | 13.00% | ~11 |
 | Welcome to Hellville | 13.00% | ~11 |
@@ -33,9 +33,9 @@
 | Bread and bocaua | 10.00% | ~8 |
 | Fanatacism is... poisonous | 10.00% | ~8 |
 | Pulp! The Beyond | 10.00% | ~8 |
-| The beast in the Oval Office | 9.00% | ~7 |
-| The adventurer | 9.00% | ~7 |
-| ECO mode | 9.00% | ~7 |
+| The beast in the Oval Office | 8.00% | ~7 |
+| The adventurer | 8.00% | ~7 |
+| ECO mode | 8.00% | ~7 |
 | The scholar | 7.00% | ~6 |
 | Pulp! True Adventures | 7.00% | ~6 |
 | America had no Faith | 7.00% | ~6 |
@@ -52,7 +52,7 @@
 | Pulp! Skeleton Hand | 1.00% | ~1 |
 | Pulp! The Vault of Horror | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82 (Ranked 506)  
+Progressed: 83 (Ranked 503)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,4 +97,4 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-01 | 76 | 0 |
 | 2024-01-02 | 77 | 0 |
 | 2024-01-03 | 79 | 0 |
-| 2024-01-04 | 82 | 0 |
+| 2024-01-04 | 83 | 0 |

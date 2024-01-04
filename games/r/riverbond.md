@@ -6,33 +6,33 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~374,379 |
-| Now You're Talking | 62.00% | ~331,593 |
-| Steel Yourself | 62.00% | ~331,593 |
-| Window Dressing | 50.00% | ~267,414 |
-| Trigger Happy | 46.00% | ~246,020 |
-| Riverborn | 45.00% | ~240,672 |
-| Starry Eyed | 34.00% | ~181,841 |
-| Poking Around | 34.00% | ~181,841 |
-| Talk of the Town | 24.00% | ~128,358 |
-| AAARR! | 23.00% | ~123,010 |
-| Hello Darkness | 23.00% | ~123,010 |
-| Wind At Our Backs | 22.00% | ~117,662 |
-| To the Beat | 20.00% | ~106,965 |
-| Sunny Shores | 17.00% | ~90,921 |
-| Sunday Best | 16.00% | ~85,572 |
-| To Victory! | 15.00% | ~80,224 |
-| Two of a Kind | 14.00% | ~74,876 |
-| Keep On Trucking | 13.00% | ~69,528 |
-| Going on an Adventure | 12.00% | ~64,179 |
-| Make Peace, Not War | 11.00% | ~58,831 |
-| Walking The Line | 10.00% | ~53,483 |
-| Not So Cute Anymore | 10.00% | ~53,483 |
-| Road Less Travelled | 9.00% | ~48,134 |
-| Lost and Found | 9.00% | ~48,134 |
-| Under the Radar | 8.00% | ~42,786 |
-| Partner in Crime | 7.00% | ~37,438 |
-| Hard to Hear | 7.00% | ~37,438 |
+| First Step | 70.00% | ~374,387 |
+| Now You're Talking | 62.00% | ~331,600 |
+| Steel Yourself | 62.00% | ~331,600 |
+| Window Dressing | 50.00% | ~267,419 |
+| Trigger Happy | 46.00% | ~246,025 |
+| Riverborn | 45.00% | ~240,677 |
+| Starry Eyed | 34.00% | ~181,845 |
+| Poking Around | 34.00% | ~181,845 |
+| Talk of the Town | 24.00% | ~128,361 |
+| AAARR! | 23.00% | ~123,013 |
+| Hello Darkness | 23.00% | ~123,013 |
+| Wind At Our Backs | 22.00% | ~117,664 |
+| To the Beat | 20.00% | ~106,968 |
+| Sunny Shores | 17.00% | ~90,922 |
+| Sunday Best | 16.00% | ~85,574 |
+| To Victory! | 15.00% | ~80,226 |
+| Two of a Kind | 14.00% | ~74,877 |
+| Keep On Trucking | 13.00% | ~69,529 |
+| Going on an Adventure | 12.00% | ~64,181 |
+| Make Peace, Not War | 11.00% | ~58,832 |
+| Walking The Line | 10.00% | ~53,484 |
+| Not So Cute Anymore | 10.00% | ~53,484 |
+| Road Less Travelled | 9.00% | ~48,135 |
+| Lost and Found | 9.00% | ~48,135 |
+| Under the Radar | 8.00% | ~42,787 |
+| Partner in Crime | 7.00% | ~37,439 |
+| Hard to Hear | 7.00% | ~37,439 |
 | Moving On Up | 6.00% | ~32,090 |
 | Owl Knows Best | 6.00% | ~32,090 |
 | Mind the Moose | 6.00% | ~32,090 |
@@ -40,14 +40,14 @@ Number of Ratings: 617  (23.09.2022)
 | Dressed to Kill | 6.00% | ~32,090 |
 | Beast Mode | 6.00% | ~32,090 |
 | Slime Slayer | 6.00% | ~32,090 |
-| Noble Intentions | 5.00% | ~26,741 |
-| Rising Star | 5.00% | ~26,741 |
-| Privacy, Please! | 4.00% | ~21,393 |
-| Silky Smooth | 4.00% | ~21,393 |
-| Hash It Over | 4.00% | ~21,393 |
-| Biting Tongue | 4.00% | ~21,393 |
-| What a Catch! | 4.00% | ~21,393 |
-| Hit the Spot | 4.00% | ~21,393 |
+| Noble Intentions | 5.00% | ~26,742 |
+| Rising Star | 5.00% | ~26,742 |
+| Privacy, Please! | 4.00% | ~21,394 |
+| Silky Smooth | 4.00% | ~21,394 |
+| Hash It Over | 4.00% | ~21,394 |
+| Biting Tongue | 4.00% | ~21,394 |
+| What a Catch! | 4.00% | ~21,394 |
+| Hit the Spot | 4.00% | ~21,394 |
 | Talk the Talk | 3.00% | ~16,045 |
 | Skin in the Game | 3.00% | ~16,045 |
 | Caving In | 3.00% | ~16,045 |
@@ -61,11 +61,11 @@ Number of Ratings: 617  (23.09.2022)
 | Written in the Stars | 1.00% | ~5,348 |
 | Don't Care | 1.00% | ~5,348 |
 | Don’t Get Crabby | 1.00% | ~5,348 |
-| Boss of All Bosses | 0.30% | ~1,604 |
+| Boss of All Bosses | 0.30% | ~1,605 |
 | Point Taken | 0.20% | ~1,070 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 534,827 (Ranked 37)  
-Completed: 515 (0.10%) (Ranked 306)  
+Progressed: 534,838 (Ranked 37)  
+Completed: 516 (0.10%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -323,7 +323,7 @@ Completed: 515 (0.10%) (Ranked 306)
 | 2024-01-01 | 534,604 | 513 |
 | 2024-01-02 | 534,691 | 514 |
 | 2024-01-03 | 534,766 | 515 |
-| 2024-01-04 | 534,827 | 515 |
+| 2024-01-04 | 534,838 | 516 |
 ## Awards
 Max (Relaxing): 21  (Ranked 566)  
 Sum: 21 (Ranked 568)  

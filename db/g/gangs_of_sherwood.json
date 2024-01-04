@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 478,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 403,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-11-30T17:00:00+00:00",
     "PcReleaseDate": "2023-11-30T17:00:00+00:00",
@@ -495,9 +495,9 @@
       "ID": "ACH_100_ARROW",
       "SetID": "5akmpni",
       "Name": "Starry Night",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_100_CHARGE",
@@ -543,9 +543,9 @@
       "ID": "ACH_AIR_COMBO",
       "SetID": "5akmpni",
       "Name": "Air Fighter",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 84
     },
     {
       "ID": "ACH_ALL_CHALENGES",
@@ -623,9 +623,9 @@
       "ID": "ACH_COMPLETE_TUTO",
       "SetID": "5akmpni",
       "Name": "Oo-De-Lally",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ACH_COOP_MISSIONS",
@@ -679,9 +679,9 @@
       "ID": "ACH_EQUIP_ARTIFACT",
       "SetID": "5akmpni",
       "Name": "Treasure Hunter",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 75
     },
     {
       "ID": "ACH_EVO_MOMENT_37",
@@ -703,9 +703,9 @@
       "ID": "ACH_GIVE_MONEY_CHECKPOINT",
       "SetID": "5akmpni",
       "Name": "Act of Kindness",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH_GRAPPLE_ENEMY",
@@ -719,9 +719,9 @@
       "ID": "ACH_HEADSHOT_KILL",
       "SetID": "5akmpni",
       "Name": "Right between the eyes",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_HIGH_FIVE",
@@ -855,9 +855,9 @@
       "ID": "ACH_REPUTATION_LVL_4",
       "SetID": "5akmpni",
       "Name": "MAX LEVEL",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_REVIVE_ALLY",
@@ -926,8 +926,8 @@
   ],
   "FirstSeen": "2023-12-01T02:59:33.2600004+00:00",
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2024-01-04T18:05:43.5518563+00:00",
+  "LastChanged_Achievements": "2024-01-04T19:05:33.0276126+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.813502+00:00",
-  "LastUpdate_Ratings": "2024-01-04T17:58:50.0387862+00:00",
-  "LastUpdate_Achievements": "2024-01-04T18:05:43.5518965+00:00"
+  "LastUpdate_Ratings": "2024-01-04T18:58:35.6865874+00:00",
+  "LastUpdate_Achievements": "2024-01-04T19:05:33.0276544+00:00"
 }

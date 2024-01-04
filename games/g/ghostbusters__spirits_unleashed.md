@@ -5,21 +5,21 @@ Rating: 4.50 (Ranked 613)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 11.00% | ~3,656 |
+| Stylish | 11.00% | ~3,657 |
 | Advancement | 8.00% | ~2,659 |
 | Meticulously Efficient | 8.00% | ~2,659 |
-| Discovery | 6.00% | ~1,994 |
-| Solo Capture | 6.00% | ~1,994 |
-| Swift Rift Removers | 6.00% | ~1,994 |
+| Discovery | 6.00% | ~1,995 |
+| Solo Capture | 6.00% | ~1,995 |
+| Swift Rift Removers | 6.00% | ~1,995 |
 | Clutch Capture | 5.00% | ~1,662 |
 | I collect Spores, Molds, and Fungi | 5.00% | ~1,662 |
 | Fully Upgraded | 5.00% | ~1,662 |
 | Teamwork | 5.00% | ~1,662 |
+| There you are! | 5.00% | ~1,662 |
 | Vaporous Expansion | 5.00% | ~1,662 |
 | Cultured | 4.00% | ~1,330 |
 | Daily Dose | 4.00% | ~1,330 |
 | Ghostbuster In Training | 4.00% | ~1,330 |
-| There you are! | 4.00% | ~1,330 |
 | Whoopsie | 4.00% | ~1,330 |
 | Animated | 3.00% | ~997 |
 | Back Off | 3.00% | ~997 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 613)
 | Ultimate Defense | 0.20% | ~66 |
 | Line em' up | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,239 (Ranked 136)  
+Progressed: 33,243 (Ranked 136)  
 Completed: 71 (0.21%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 71 (0.21%) (Ranked 271)
 | 2024-01-01 | 33,089 | 71 |
 | 2024-01-02 | 33,151 | 71 |
 | 2024-01-03 | 33,206 | 71 |
-| 2024-01-04 | 33,239 | 71 |
+| 2024-01-04 | 33,243 | 71 |
 ## Awards
 Max (Great for Quick Sessions): 327  (Ranked 255)  
 Sum: 2,949 (Ranked 185)  

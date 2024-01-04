@@ -1,7 +1,7 @@
 # Supraland Six Inches Under
 [Store](https://store.epicgames.com/en-US/p/supraland-six-inches-under-dd0220)  
 [View Rawdata](../../db/s/supraland_six_inches_under.json)  
-Rating: 4.76 (Ranked 130)  
+Rating: 4.76 (Ranked 129)  
 Number of Ratings: 209  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -58,7 +58,7 @@ Number of Ratings: 209  (23.09.2022)
 | So much force | 35.00% | ~846 |
 | You feel fully engaged | 24.00% | ~580 |
 | Too hot | 20.00% | ~483 |
-| All the chests | 13.00% | ~314 |
+| All the chests | 14.00% | ~338 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,417 (Ranked 235)  
 Completed: 293 (12.12%) (Ranked 36)  

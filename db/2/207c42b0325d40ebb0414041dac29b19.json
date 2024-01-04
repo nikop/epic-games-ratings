@@ -4,11 +4,11 @@
   "ProductSlug": "melvor-idle-b6a9b3",
   "Ranking_Rating": 397,
   "Ranking_Popularity": 162,
-  "Ranking_PopularitySum": 244,
+  "Ranking_PopularitySum": 245,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-12-21T16:00:00+00:00",
     "PcReleaseDate": "2021-11-18T00:00:00+00:00",
@@ -389,10 +389,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 1441,
       "NumberOfAwardsMax": 990
+    },
+    {
+      "Time": "2024-01-04T19:00:19.6525327+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1400,
+      "NumberOfAwardsMax": 990
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1441,
+  "NumberOfAwards": 1400,
   "NumberOfAwardsMax": 990,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -469,8 +475,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-21T16:57:07.0640742+00:00",
   "FirstSeenRating": "2023-12-22T16:57:30.2372031+00:00",
-  "LastChanged": "2024-01-04T18:00:36.7524785+00:00",
+  "LastChanged": "2024-01-04T19:00:19.6525325+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:20.516278+00:00",
-  "LastUpdate_Ratings": "2024-01-04T18:00:36.7524789+00:00",
-  "LastUpdate_Achievements": "2024-01-04T18:05:55.9565101+00:00"
+  "LastUpdate_Ratings": "2024-01-04T19:00:19.6525331+00:00",
+  "LastUpdate_Achievements": "2024-01-04T19:05:45.7650279+00:00"
 }

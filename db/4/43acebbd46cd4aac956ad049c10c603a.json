@@ -6,9 +6,9 @@
   "Ranking_Popularity": 383,
   "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 277,
-  "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_Completed": 281,
+  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -291,7 +291,7 @@
   ],
   "EOS_Progressed": 1262,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3665,9 +3665,9 @@
       "ID": "Discovery",
       "SetID": "1n308hc",
       "Name": "Discovery",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 316
+      "UsersEstimate": 328
     },
     {
       "ID": "EasternWetlands",
@@ -4050,8 +4050,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-04T17:00:27.8001198+00:00",
-  "LastChanged_Achievements": "2024-01-04T18:04:39.5267282+00:00",
+  "LastChanged_Achievements": "2024-01-04T19:04:30.6294249+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:20.1968805+00:00",
-  "LastUpdate_Ratings": "2024-01-04T18:00:17.7765967+00:00",
-  "LastUpdate_Achievements": "2024-01-04T18:04:39.526777+00:00"
+  "LastUpdate_Ratings": "2024-01-04T19:00:02.511012+00:00",
+  "LastUpdate_Achievements": "2024-01-04T19:04:30.6294896+00:00"
 }

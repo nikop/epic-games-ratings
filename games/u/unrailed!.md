@@ -6,18 +6,18 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 19.00% | ~128,800 |
-| Incurious | 18.00% | ~122,021 |
-| Climate Change | 17.00% | ~115,242 |
-| Stroller | 16.00% | ~108,463 |
-| Advanced Hiker | 14.00% | ~94,905 |
-| Toy Train | 14.00% | ~94,905 |
-| Hiker | 12.00% | ~81,347 |
-| Mojave Courier | 6.00% | ~40,674 |
-| Saved by Nausicaä | 6.00% | ~40,674 |
-| Advanced Voyager | 4.00% | ~27,116 |
-| Expert Stroller | 4.00% | ~27,116 |
-| Orient Express | 4.00% | ~27,116 |
+| Advanced Stroller | 19.00% | ~128,803 |
+| Incurious | 18.00% | ~122,024 |
+| Climate Change | 17.00% | ~115,245 |
+| Stroller | 16.00% | ~108,466 |
+| Advanced Hiker | 14.00% | ~94,908 |
+| Toy Train | 14.00% | ~94,908 |
+| Hiker | 12.00% | ~81,350 |
+| Mojave Courier | 6.00% | ~40,675 |
+| Saved by Nausicaä | 6.00% | ~40,675 |
+| Advanced Voyager | 4.00% | ~27,117 |
+| Expert Stroller | 4.00% | ~27,117 |
+| Orient Express | 4.00% | ~27,117 |
 | Voyager | 3.00% | ~20,337 |
 | Marathon | 3.00% | ~20,337 |
 | Destructionist | 3.00% | ~20,337 |
@@ -29,7 +29,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Nanuk | 0.70% | ~4,745 |
 | Dynamite Fishing | 0.70% | ~4,745 |
 | Terminal Station | 0.60% | ~4,067 |
-| Scrooge | 0.50% | ~3,389 |
+| Scrooge | 0.50% | ~3,390 |
 | Wayfarer | 0.40% | ~2,712 |
 | Advanced Wayfarer | 0.40% | ~2,712 |
 | Trans-Siberian Railway | 0.40% | ~2,712 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~678 |
 | 20 Miles under the Sea | 0.10% | ~678 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 677,894 (Ranked 30)  
+Progressed: 677,913 (Ranked 30)  
 Completed: 13 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,11 +318,11 @@ Completed: 13 (0.00%) (Ranked 393)
 | 2024-01-01 | 676,999 | 13 |
 | 2024-01-02 | 677,326 | 13 |
 | 2024-01-03 | 677,685 | 13 |
-| 2024-01-04 | 677,894 | 13 |
+| 2024-01-04 | 677,913 | 13 |
 ## Awards
 Max (Great for Beginners): 208  (Ranked 293)  
-Sum: 1,625 (Ranked 234)  
-Diff (max vs sum): 59  
+Sum: 1,625 (Ranked 235)  
+Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 208 |

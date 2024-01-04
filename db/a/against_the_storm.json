@@ -6,9 +6,9 @@
   "Ranking_Popularity": 229,
   "Ranking_PopularitySum": 176,
   "Ranking_EOS_Progress": 152,
-  "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 3802,
+  "Ranking_EOS_Completed": 281,
+  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewCompleters": 3803,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3767,9 +3767,9 @@
       "Count": 341
     }
   ],
-  "EOS_Progressed": 20118,
+  "EOS_Progressed": 20129,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 596,
+  "EOS_NewPlayers": 603,
   "EOS_NewCompleters": -3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -18417,6 +18417,11 @@
       "Time": "2024-01-04T18:05:46.3531454+00:00",
       "NumProgressed": 20118,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2024-01-04T19:05:36.509321+00:00",
+      "NumProgressed": 20129,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -18517,7 +18522,7 @@
       "Name": "First Real Expedition",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1409
     },
     {
       "ID": "WinHard",
@@ -18525,7 +18530,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1207
+      "UsersEstimate": 1208
     },
     {
       "ID": "WinImpossible",
@@ -18533,7 +18538,7 @@
       "Name": "Against All Odds",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "WinNearArmory",
@@ -18549,7 +18554,7 @@
       "Name": "Bandit Camp",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "WinNearBarren",
@@ -18557,7 +18562,7 @@
       "Name": "Barren Lands",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "WinNearBattleground",
@@ -18565,7 +18570,7 @@
       "Name": "Ancient Battleground",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "WinNearCrystals",
@@ -18573,7 +18578,7 @@
       "Name": "Sparkdew Crystals",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "WinNearDangerous",
@@ -18613,7 +18618,7 @@
       "Name": "Haunted Forest",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "WinNearLevitating",
@@ -18629,7 +18634,7 @@
       "Name": "Flooded Mines",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "WinNearMonastery",
@@ -18661,7 +18666,7 @@
       "Name": "Statue of the Forefathers",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "WinNearTemple",
@@ -18677,7 +18682,7 @@
       "Name": "Corrosive Torrent",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "WinNearWatchtower",
@@ -18693,7 +18698,7 @@
       "Name": "Coral Forest",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1207
+      "UsersEstimate": 1208
     },
     {
       "ID": "WinOnCursed",
@@ -18701,7 +18706,7 @@
       "Name": "Cursed Lands",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "WinOnMarshlands",
@@ -18709,7 +18714,7 @@
       "Name": "The Marshlands",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1207
+      "UsersEstimate": 1208
     },
     {
       "ID": "WinOnMoorlands",
@@ -18725,7 +18730,7 @@
       "Name": "Prestigious Expedition",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "WinPrestige20",
@@ -18757,7 +18762,7 @@
       "Name": "Blood Flower Farmer",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "WinWithEvents",
@@ -18765,7 +18770,7 @@
       "Name": "Taking Action",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1409
     },
     {
       "ID": "WinWithResolve",
@@ -18805,7 +18810,7 @@
       "Name": "No Deaths",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1409
     },
     {
       "ID": "WinWithoutOrders",
@@ -18829,7 +18834,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1609
+      "UsersEstimate": 1610
     },
     {
       "ID": "WinNearFrosts",
@@ -18853,7 +18858,7 @@
       "Name": "Overgrown Library",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1609
+      "UsersEstimate": 1610
     },
     {
       "ID": "WinNearPetrified",
@@ -18861,7 +18866,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1409
     },
     {
       "ID": "WinNearPresence",
@@ -18877,7 +18882,7 @@
       "Name": "Gathering Storm",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1207
+      "UsersEstimate": 1208
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -18900,15 +18905,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20118,
+      "Progressed": 20129,
       "Completed": 33
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-04T16:59:35.7370115+00:00",
-  "LastChanged_Achievements": "2024-01-04T18:05:46.3531449+00:00",
+  "LastChanged_Achievements": "2024-01-04T19:05:36.5093206+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:03.5085053+00:00",
-  "LastUpdate_Ratings": "2024-01-04T17:59:28.3026028+00:00",
-  "LastUpdate_Achievements": "2024-01-04T18:05:46.3532614+00:00"
+  "LastUpdate_Ratings": "2024-01-04T18:59:11.3684092+00:00",
+  "LastUpdate_Achievements": "2024-01-04T19:05:36.509444+00:00"
 }

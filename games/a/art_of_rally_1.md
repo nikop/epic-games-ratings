@@ -6,51 +6,51 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 79.00% | ~307,641 |
-| good drivers have dead flies on the side windows | 32.00% | ~124,614 |
-| keep it tidy | 26.00% | ~101,249 |
-| brail | 26.00% | ~101,249 |
-| car wash | 23.00% | ~89,566 |
-| the artist | 23.00% | ~89,566 |
-| podium | 20.00% | ~77,884 |
-| medium attack | 17.00% | ~66,201 |
-| bicycle race | 6.00% | ~23,365 |
-| grocery-getter | 5.00% | ~19,471 |
-| autopilot | 4.00% | ~15,577 |
-| where is the stage? | 3.00% | ~11,683 |
-| night ride | 3.00% | ~11,683 |
-| snorkel | 3.00% | ~11,683 |
-| food tour: pasta | 3.00% | ~11,683 |
-| perkele | 2.00% | ~7,788 |
-| rwd only | 2.00% | ~7,788 |
-| if in doubt, flat out! | 2.00% | ~7,788 |
-| you can't treat a car like a human being. a car requires love | 2.00% | ~7,788 |
-| to finish first, first you must finish | 1.00% | ~3,894 |
-| espresso | 1.00% | ~3,894 |
-| turbo | 1.00% | ~3,894 |
-| in like a lamb, out like a lion | 1.00% | ~3,894 |
-| mittens | 1.00% | ~3,894 |
-| food tour: pretzel | 1.00% | ~3,894 |
-| monster | 0.80% | ~3,115 |
-| eurobeat | 0.60% | ~2,337 |
-| viking | 0.60% | ~2,337 |
-| oktoberfest | 0.50% | ~1,947 |
-| parallel universe | 0.50% | ~1,947 |
-| group b | 0.50% | ~1,947 |
-| maximum attack | 0.40% | ~1,558 |
-| samir | 0.40% | ~1,558 |
-| parking lot | 0.30% | ~1,168 |
-| master of rally | 0.30% | ~1,168 |
-| antilag | 0.30% | ~1,168 |
-| real roads, real fast | 0.30% | ~1,168 |
+| light attack | 79.00% | ~307,842 |
+| good drivers have dead flies on the side windows | 32.00% | ~124,696 |
+| keep it tidy | 26.00% | ~101,315 |
+| brail | 26.00% | ~101,315 |
+| car wash | 23.00% | ~89,625 |
+| the artist | 23.00% | ~89,625 |
+| podium | 20.00% | ~77,935 |
+| medium attack | 17.00% | ~66,245 |
+| bicycle race | 6.00% | ~23,380 |
+| grocery-getter | 5.00% | ~19,484 |
+| autopilot | 4.00% | ~15,587 |
+| where is the stage? | 3.00% | ~11,690 |
+| night ride | 3.00% | ~11,690 |
+| snorkel | 3.00% | ~11,690 |
+| food tour: pasta | 3.00% | ~11,690 |
+| perkele | 2.00% | ~7,793 |
+| rwd only | 2.00% | ~7,793 |
+| if in doubt, flat out! | 2.00% | ~7,793 |
+| you can't treat a car like a human being. a car requires love | 2.00% | ~7,793 |
+| to finish first, first you must finish | 1.00% | ~3,897 |
+| espresso | 1.00% | ~3,897 |
+| turbo | 1.00% | ~3,897 |
+| in like a lamb, out like a lion | 1.00% | ~3,897 |
+| mittens | 1.00% | ~3,897 |
+| food tour: pretzel | 1.00% | ~3,897 |
+| monster | 0.80% | ~3,117 |
+| eurobeat | 0.60% | ~2,338 |
+| viking | 0.60% | ~2,338 |
+| oktoberfest | 0.50% | ~1,948 |
+| parallel universe | 0.50% | ~1,948 |
+| group b | 0.50% | ~1,948 |
+| maximum attack | 0.40% | ~1,559 |
+| samir | 0.40% | ~1,559 |
+| parking lot | 0.30% | ~1,169 |
+| master of rally | 0.30% | ~1,169 |
+| antilag | 0.30% | ~1,169 |
+| real roads, real fast | 0.30% | ~1,169 |
 | comfy seats | 0.20% | ~779 |
 | simulator | 0.20% | ~779 |
-| if everything seems under control, you're not going fast enough | 0.10% | ~389 |
-| absolute drift | 0.10% | ~389 |
-| barely keeping it together | 0.10% | ~389 |
-| you're here for a good time, not a long time | 0.10% | ~389 |
+| if everything seems under control, you're not going fast enough | 0.10% | ~390 |
+| absolute drift | 0.10% | ~390 |
+| barely keeping it together | 0.10% | ~390 |
+| you're here for a good time, not a long time | 0.10% | ~390 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 389,419 (Ranked 51)  
+Progressed: 389,674 (Ranked 51)  
 Completed: 14 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,19 +239,19 @@ Completed: 14 (0.00%) (Ranked 393)
 | 2024-01-01 | 376,863 | 12 |
 | 2024-01-02 | 381,884 | 13 |
 | 2024-01-03 | 386,454 | 14 |
-| 2024-01-04 | 389,419 | 14 |
+| 2024-01-04 | 389,674 | 14 |
 ## Awards
 Max (Quickly Understood Controls): 32  (Ranked 510)  
-Sum: 126 (Ranked 449)  
-Diff (max vs sum): 61  
+Sum: 128 (Ranked 446)  
+Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 32 |
 | This game is Great for Beginners | 28 |
 | This game is Highly Recommended | 28 |
 | This game is Relaxing | 25 |
+| This game is Extremely Fun | 22 |
 | This game is Great for Quick Sessions | 21 |
-| This game is Extremely Fun | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -304,3 +304,4 @@ Diff (max vs sum): 61
 | 2024-01-01 | 4.67 | - | 32 | 106 |
 | 2024-01-02 | 4.67 | - | 32 | 106 |
 | 2024-01-03 | 4.65 | - | 32 | 126 |
+| 2024-01-04 | 4.65 | - | 32 | 128 |

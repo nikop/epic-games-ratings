@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -169,7 +169,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3272,
+  "EOS_Progressed": 3273,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 4,
@@ -5899,6 +5899,11 @@
       "Time": "2024-01-04T18:06:34.1184144+00:00",
       "NumProgressed": 3272,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-04T19:06:24.0508607+00:00",
+      "NumProgressed": 3273,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 53,
@@ -5950,7 +5955,7 @@
       "Name": "Hijack",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1015
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -5974,7 +5979,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 3108
+      "UsersEstimate": 3109
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -5990,7 +5995,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2519
+      "UsersEstimate": 2520
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -6022,7 +6027,7 @@
       "Name": "I chose my shackles",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
@@ -6030,7 +6035,7 @@
       "Name": "Past trauma",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 1243
+      "UsersEstimate": 1244
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -6038,7 +6043,7 @@
       "Name": "Little light",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_I",
@@ -6086,7 +6091,7 @@
       "Name": "Pentakill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 2454
+      "UsersEstimate": 2455
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -6094,7 +6099,7 @@
       "Name": "No more cages!",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 2945
+      "UsersEstimate": 2946
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -6214,7 +6219,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1963
+      "UsersEstimate": 1964
     },
     {
       "ID": "STB_PET_HORSE",
@@ -6254,7 +6259,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -6333,7 +6338,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 3272,
+      "Progressed": 3273,
       "Completed": 21
     }
   ],
@@ -6341,8 +6346,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-12-30T20:57:35.994685+00:00",
-  "LastChanged_Achievements": "2024-01-04T18:06:34.118414+00:00",
+  "LastChanged_Achievements": "2024-01-04T19:06:24.0508604+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:16.0545663+00:00",
-  "LastUpdate_Ratings": "2024-01-04T17:59:34.9484907+00:00",
-  "LastUpdate_Achievements": "2024-01-04T18:06:34.1184796+00:00"
+  "LastUpdate_Ratings": "2024-01-04T18:59:18.033709+00:00",
+  "LastUpdate_Achievements": "2024-01-04T19:06:24.0509189+00:00"
 }

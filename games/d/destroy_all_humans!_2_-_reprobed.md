@@ -29,8 +29,8 @@ Number of Ratings: 90  (23.09.2022)
 | Scuttled | 8.00% | ~25 |
 | Re-Return of the Clone of the Invasion II-2 | 7.00% | ~22 |
 | Lobster Blisque | 6.00% | ~19 |
+| Ultimate Smoothie | 5.00% | ~15 |
 | Yettisoned | 5.00% | ~15 |
-| Ultimate Smoothie | 4.00% | ~12 |
 | Arkvoodle Doodle | 4.00% | ~12 |
 | Deincarnated | 3.00% | ~9 |
 | PK Slam Dunk | 1.00% | ~3 |

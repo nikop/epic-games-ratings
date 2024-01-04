@@ -35,7 +35,7 @@
 | Employee of the year | 52.00% | ~277 |
 | Legal courier | 48.00% | ~256 |
 | Extreme neuropower! | 48.00% | ~256 |
-| Escaped from a big trouble | 45.00% | ~240 |
+| Escaped from a big trouble | 46.00% | ~245 |
 | Now you are worthy | 41.00% | ~219 |
 | Fight is life | 41.00% | ~219 |
 | Guiding on the right path | 41.00% | ~219 |
@@ -61,12 +61,12 @@
 | Family comes first | 28.00% | ~149 |
 | Key memories | 28.00% | ~149 |
 | The heart of the Resistance | 28.00% | ~149 |
+| Your own way | 28.00% | ~149 |
 | Trap disarmed | 27.00% | ~144 |
 | Keep nature safe | 27.00% | ~144 |
 | The last bell ring | 27.00% | ~144 |
 | Careerist | 27.00% | ~144 |
 | Anyone can resist | 27.00% | ~144 |
-| Your own way | 27.00% | ~144 |
 | Silver’s past | 25.00% | ~133 |
 | Better cooking at home | 25.00% | ~133 |
 | The only right decision | 25.00% | ~133 |

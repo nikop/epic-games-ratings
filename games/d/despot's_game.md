@@ -14,7 +14,7 @@ Rating: 4.50 (Ranked 613)
 | Knowledge is Power | 44.00% | ~216 |
 | The Return of a Rat | 41.00% | ~201 |
 | Fat of the Earth | 36.00% | ~177 |
-| Last Man Standing | 31.00% | ~152 |
+| Last Man Standing | 32.00% | ~157 |
 | He's Seen It All | 28.00% | ~137 |
 | Great Hero | 28.00% | ~137 |
 | Rookie | 27.00% | ~133 |

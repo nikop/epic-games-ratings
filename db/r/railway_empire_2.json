@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -311,7 +311,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2623,
+  "EOS_Progressed": 2624,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
@@ -7616,6 +7616,11 @@
       "Time": "2024-01-04T16:04:55.4904069+00:00",
       "NumProgressed": 2623,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T19:03:50.9101954+00:00",
+      "NumProgressed": 2624,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -7707,7 +7712,7 @@
       "Name": "From X to Y",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1941
+      "UsersEstimate": 1942
     },
     {
       "ID": "A11",
@@ -7723,7 +7728,7 @@
       "Name": "Departure",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1941
+      "UsersEstimate": 1942
     },
     {
       "ID": "A13",
@@ -7739,7 +7744,7 @@
       "Name": "A new Journey",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1967
+      "UsersEstimate": 1968
     },
     {
       "ID": "A15",
@@ -7763,7 +7768,7 @@
       "Name": "Facility Manager",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1417
     },
     {
       "ID": "A18",
@@ -7787,7 +7792,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 1993
+      "UsersEstimate": 1994
     },
     {
       "ID": "A21",
@@ -7803,7 +7808,7 @@
       "Name": "Brainstorm",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1757
+      "UsersEstimate": 1758
     },
     {
       "ID": "A23",
@@ -7819,7 +7824,7 @@
       "Name": "Access granted",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 944
+      "UsersEstimate": 945
     },
     {
       "ID": "A25",
@@ -7859,7 +7864,7 @@
       "Name": "Going once, going twice, sold",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 944
+      "UsersEstimate": 945
     },
     {
       "ID": "A30",
@@ -7883,7 +7888,7 @@
       "Name": "Assimilated",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "A33",
@@ -7915,7 +7920,7 @@
       "Name": "Way of Iron",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 1862
+      "UsersEstimate": 1863
     },
     {
       "ID": "A37",
@@ -7931,7 +7936,7 @@
       "Name": "Poor Devil",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1417
     },
     {
       "ID": "A39",
@@ -7947,7 +7952,7 @@
       "Name": "Mind the Gap",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1731
+      "UsersEstimate": 1732
     },
     {
       "ID": "A41",
@@ -7979,7 +7984,7 @@
       "Name": "Breaking Ground",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "A45",
@@ -7995,7 +8000,7 @@
       "Name": "Mystery Tour",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1836
+      "UsersEstimate": 1837
     },
     {
       "ID": "A47",
@@ -8003,7 +8008,7 @@
       "Name": "Travel Company",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 1731
+      "UsersEstimate": 1732
     },
     {
       "ID": "A48",
@@ -8066,7 +8071,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 2623,
+      "Progressed": 2624,
       "Completed": 0
     }
   ],
@@ -8074,8 +8079,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-12-27T17:00:03.776976+00:00",
-  "LastChanged_Achievements": "2024-01-04T18:03:59.4707386+00:00",
+  "LastChanged_Achievements": "2024-01-04T19:03:50.910195+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:54.9390802+00:00",
-  "LastUpdate_Ratings": "2024-01-04T18:00:11.1279792+00:00",
-  "LastUpdate_Achievements": "2024-01-04T18:03:59.4707997+00:00"
+  "LastUpdate_Ratings": "2024-01-04T18:59:55.7395971+00:00",
+  "LastUpdate_Achievements": "2024-01-04T19:03:50.9102565+00:00"
 }

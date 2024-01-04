@@ -17,7 +17,7 @@
 | Bouncemato | 31.00% | ~99 |
 | 10K | 29.00% | ~107 |
 | Amateur Survivor | 29.00% | ~93 |
-| 15K | 26.00% | ~96 |
+| 15K | 27.00% | ~100 |
 | Drinking Problem | 22.00% | ~81 |
 | Grave Digger | 22.00% | ~70 |
 | Pork Chop Express | 21.00% | ~78 |
@@ -29,7 +29,7 @@
 | This Is My Boomstick | 16.00% | ~51 |
 | Eggtraordinary | 14.00% | ~52 |
 | Oh My Gourd | 14.00% | ~45 |
-| Perfect | 13.00% | ~42 |
+| Perfect | 14.00% | ~45 |
 | Summers Here | 12.00% | ~38 |
 | Quit Horsin' Around | 11.00% | ~41 |
 | Fresh Pancake | 10.00% | ~37 |
@@ -48,13 +48,13 @@
 | Pro Shotgunner | 1.00% | ~4 |
 | Tomassacred | 1.00% | ~3 |
 | King of the Crow | 0.80% | ~3 |
+| Forestside Survivor | 0.50% | ~2 |
 | Pro Pyromancer | 0.50% | ~2 |
 | Pro Sniperagus | 0.50% | ~2 |
 | Unstoppable | 0.50% | ~2 |
 | Death From Above | 0.50% | ~2 |
 | 30 Days | 0.30% | ~1 |
 | Darkside Survivor | 0.30% | ~1 |
-| Forestside Survivor | 0.30% | ~1 |
 | Graveside Survivor | 0.30% | ~1 |
 | Pro Carrocketeer | 0.30% | ~1 |
 | Berry Loved | 0.30% | ~1 |

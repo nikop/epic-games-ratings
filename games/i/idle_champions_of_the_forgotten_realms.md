@@ -6,13 +6,13 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~7,527 |
-| The Cursed Farmer | 2.00% | ~5,018 |
-| Beast Intentions | 1.00% | ~2,509 |
-| The Mad Wizard | 1.00% | ~2,509 |
-| Welcome to Sigil | 0.80% | ~1,737 |
-| The Ring of Regeneration | 0.70% | ~1,756 |
-| Are Ya Chicken? | 0.60% | ~1,505 |
+| A Brief Tour of the Realms | 3.00% | ~7,529 |
+| The Cursed Farmer | 2.00% | ~5,019 |
+| Beast Intentions | 1.00% | ~2,510 |
+| The Mad Wizard | 1.00% | ~2,510 |
+| Welcome to Sigil | 0.80% | ~1,738 |
+| The Ring of Regeneration | 0.70% | ~1,757 |
+| Are Ya Chicken? | 0.60% | ~1,506 |
 | Fast Food | 0.60% | ~1,303 |
 | Were-verpowered | 0.50% | ~1,255 |
 | Seeking Allies | 0.50% | ~1,255 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~217 |
 | A Wise Approach | 0.10% | ~217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,905 (Ranked 70)  
+Progressed: 250,971 (Ranked 70)  
 Completed: 2,591 (1.03%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -812,17 +812,17 @@ Completed: 2,591 (1.03%) (Ranked 170)
 | 2024-01-01 | 249,335 | 2,583 |
 | 2024-01-02 | 250,032 | 2,585 |
 | 2024-01-03 | 250,594 | 2,588 |
-| 2024-01-04 | 250,905 | 2,591 |
+| 2024-01-04 | 250,971 | 2,591 |
 ## Awards
 Max (Great for Beginners): 5,740  (Ranked 72)  
-Sum: 33,304 (Ranked 41)  
+Sum: 33,310 (Ranked 41)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,740 |
 | This game has Diverse Characters | 5,687 |
-| This game has Quickly Understood Controls | 4,888 |
-| This game is Relaxing | 4,760 |
+| This game has Quickly Understood Controls | 4,891 |
+| This game is Relaxing | 4,763 |
 | This game has Amazing Characters | 4,312 |
 | This game is Highly Recommended | 4,293 |
 | This game has Playful Visuals | 3,624 |
@@ -1172,4 +1172,4 @@ Diff (max vs sum): 31
 | 2024-01-01 | 4.06 | - | 5,726 | 33,249 |
 | 2024-01-02 | 4.06 | - | 5,730 | 33,274 |
 | 2024-01-03 | 4.06 | - | 5,730 | 33,294 |
-| 2024-01-04 | 4.06 | - | 5,740 | 33,304 |
+| 2024-01-04 | 4.06 | - | 5,740 | 33,310 |

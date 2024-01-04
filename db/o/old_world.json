@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2216,7 +2216,7 @@
   ],
   "EOS_Progressed": 16115,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19322,9 +19322,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_BRILLIANT",
       "SetID": "9201eeb",
       "Name": "Brilliant",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 113
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_CAPABLE",
@@ -21816,8 +21816,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-04T06:58:24.8867619+00:00",
-  "LastChanged_Achievements": "2024-01-04T18:10:13.142541+00:00",
+  "LastChanged_Achievements": "2024-01-04T19:10:00.650301+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:24.5452657+00:00",
-  "LastUpdate_Ratings": "2024-01-04T17:58:35.8920016+00:00",
-  "LastUpdate_Achievements": "2024-01-04T18:10:13.1435905+00:00"
+  "LastUpdate_Ratings": "2024-01-04T18:58:22.3527036+00:00",
+  "LastUpdate_Achievements": "2024-01-04T19:10:00.6513584+00:00"
 }

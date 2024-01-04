@@ -6,33 +6,33 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 96.00% | ~55,235 |
-| ''I don't like you either!'' | 77.00% | ~44,303 |
-| ''Impressive, most impressive'' | 69.00% | ~39,700 |
-| ''You think you're some kind of Jedi?'' | 69.00% | ~39,700 |
-| The Phantom Menace | 57.00% | ~32,796 |
-| ''Aggressive Negotiations'' | 56.00% | ~32,220 |
-| ''I can fly anything'' | 54.00% | ~31,069 |
-| ''And who gave you permission...?'' | 51.00% | ~29,343 |
-| A New Hope | 46.00% | ~26,467 |
-| Attack of the Clones | 44.00% | ~25,316 |
-| Revenge of the Sith | 38.00% | ~21,864 |
-| The Empire Strikes Back | 36.00% | ~20,713 |
-| ''A fine addition to my collection'' | 36.00% | ~20,713 |
-| Return of the Jedi | 30.00% | ~17,261 |
-| The Force Awakens | 25.00% | ~14,384 |
-| The Last Jedi | 22.00% | ~12,658 |
-| The Rise of Skywalker | 19.00% | ~10,932 |
-| ''It's true... all of it'' | 18.00% | ~10,356 |
-| ''Get the crews to their fighters'' | 18.00% | ~10,356 |
-| ''Raw, untamed power'' | 8.00% | ~4,603 |
-| Rishi Maze | 5.00% | ~2,877 |
-| ''Only one business in the Galaxy...'' | 4.00% | ~2,301 |
-| ''You may fire when ready'' | 3.00% | ~1,726 |
-| ''What have you done with those plans?'' | 3.00% | ~1,726 |
-| ''GONK!'' | 3.00% | ~1,726 |
-| ''Hey, what are you trying to push on us?'' | 3.00% | ~1,726 |
-| The Slice | 3.00% | ~1,726 |
+| ''You guys got yourself a ship!'' | 96.00% | ~55,250 |
+| ''I don't like you either!'' | 77.00% | ~44,315 |
+| ''Impressive, most impressive'' | 69.00% | ~39,711 |
+| ''You think you're some kind of Jedi?'' | 69.00% | ~39,711 |
+| The Phantom Menace | 57.00% | ~32,805 |
+| ''Aggressive Negotiations'' | 56.00% | ~32,229 |
+| ''I can fly anything'' | 54.00% | ~31,078 |
+| ''And who gave you permission...?'' | 51.00% | ~29,352 |
+| A New Hope | 46.00% | ~26,474 |
+| Attack of the Clones | 44.00% | ~25,323 |
+| Revenge of the Sith | 38.00% | ~21,870 |
+| The Empire Strikes Back | 36.00% | ~20,719 |
+| ''A fine addition to my collection'' | 36.00% | ~20,719 |
+| Return of the Jedi | 30.00% | ~17,266 |
+| The Force Awakens | 25.00% | ~14,388 |
+| The Last Jedi | 22.00% | ~12,661 |
+| The Rise of Skywalker | 19.00% | ~10,935 |
+| ''It's true... all of it'' | 18.00% | ~10,359 |
+| ''Get the crews to their fighters'' | 18.00% | ~10,359 |
+| ''Raw, untamed power'' | 8.00% | ~4,604 |
+| Rishi Maze | 5.00% | ~2,878 |
+| ''Only one business in the Galaxy...'' | 4.00% | ~2,302 |
+| ''You may fire when ready'' | 3.00% | ~1,727 |
+| ''What have you done with those plans?'' | 3.00% | ~1,727 |
+| ''GONK!'' | 3.00% | ~1,727 |
+| ''Hey, what are you trying to push on us?'' | 3.00% | ~1,727 |
+| The Slice | 3.00% | ~1,727 |
 | ''Hello there!'' | 2.00% | ~1,151 |
 | Unknown Regions | 2.00% | ~1,151 |
 | ''Do or do not. There is no try'' | 2.00% | ~1,151 |
@@ -49,10 +49,10 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''No more training, do you require'' | 2.00% | ~1,151 |
 | ''You needn't worry about your reward'' | 2.00% | ~1,151 |
 | ''Now I am the Master'' | 2.00% | ~1,151 |
-| ''Jedi Business'' | 1.00% | ~575 |
+| ''Jedi Business'' | 1.00% | ~576 |
 | ''I've never seen a real one!'' | 0.90% | ~518 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,536 (Ranked 120)  
+Progressed: 57,552 (Ranked 120)  
 Completed: 258 (0.45%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 258 (0.45%) (Ranked 229)
 | 2024-01-01 | 56,979 | 256 |
 | 2024-01-02 | 57,195 | 256 |
 | 2024-01-03 | 57,403 | 256 |
-| 2024-01-04 | 57,536 | 258 |
+| 2024-01-04 | 57,552 | 258 |
 ## Awards
 Max (Great Boss Battles): 2,483  (Ranked 109)  
 Sum: 6,806 (Ranked 129)  

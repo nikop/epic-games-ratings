@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18183,
+  "EOS_Progressed": 18187,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 519,
+  "EOS_NewPlayers": 522,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -16270,6 +16270,11 @@
       "Time": "2024-01-04T18:05:10.4354133+00:00",
       "NumProgressed": 18183,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-04T19:05:01.6622602+00:00",
+      "NumProgressed": 18187,
+      "NumCompleted": 58
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16314,7 +16319,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3091
+      "UsersEstimate": 3092
     },
     {
       "ID": "14",
@@ -16330,7 +16335,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1818
+      "UsersEstimate": 1819
     },
     {
       "ID": "16",
@@ -16346,7 +16351,7 @@
       "Name": "Spore Taste",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1818
+      "UsersEstimate": 1819
     },
     {
       "ID": "18",
@@ -16386,7 +16391,7 @@
       "Name": "Drone Dodger",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2000
+      "UsersEstimate": 2001
     },
     {
       "ID": "22",
@@ -16426,7 +16431,7 @@
       "Name": "Call it Even",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1636
+      "UsersEstimate": 1637
     },
     {
       "ID": "27",
@@ -16482,7 +16487,7 @@
       "Name": "Data Master",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "6",
@@ -16530,7 +16535,7 @@
       "Name": "Safe Cracker",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "33",
@@ -16538,7 +16543,7 @@
       "Name": "Zen Master",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "34",
@@ -16554,29 +16559,29 @@
       "Name": "Madame Undersecretary",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18183,
+      "Progressed": 18187,
       "Completed": 58
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4137,
-      "Completed": 1183
+      "Progressed": 4141,
+      "Completed": 1184
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T23:58:17.8612142+00:00",
-  "LastChanged_Achievements": "2024-01-04T18:05:10.4354127+00:00",
+  "LastChanged_Achievements": "2024-01-04T19:05:01.6622598+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2024-01-04T18:00:24.5092283+00:00",
-  "LastUpdate_Achievements": "2024-01-04T18:05:10.4355479+00:00"
+  "LastUpdate_Ratings": "2024-01-04T19:00:08.4178378+00:00",
+  "LastUpdate_Achievements": "2024-01-04T19:05:01.6623644+00:00"
 }

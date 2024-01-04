@@ -4,8 +4,8 @@
   "ProductSlug": "airport-ceo-442ecc",
   "Ranking_EOS_Progress": 525,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 443,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 454,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-09-01T10:00:00+00:00",
     "PcReleaseDate": "2021-03-04T18:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 66,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -489,9 +489,9 @@
       "ID": "NoviceCEO",
       "SetID": "d11cl5p",
       "Name": "Novice CEO",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "OrACEO",
@@ -521,9 +521,9 @@
       "ID": "RegionalAirport",
       "SetID": "d11cl5p",
       "Name": "Regional airport",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Scan750MBags",
@@ -625,9 +625,9 @@
       "ID": "WhenIsTheNextDevBlog",
       "SetID": "d11cl5p",
       "Name": "\u0022When is the next dev blog?\u0022",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "YoungSuccessfullEntrepreneur",
@@ -648,8 +648,8 @@
   ],
   "FirstSeen": "2023-09-02T13:02:28.4911547+00:00",
   "FirstSeenAchievements": "2023-07-27T10:02:52.8790419+00:00",
-  "LastChanged_Achievements": "2024-01-04T18:04:15.1836468+00:00",
+  "LastChanged_Achievements": "2024-01-04T19:04:06.5596562+00:00",
   "LastUpdate_AppInfo": "2024-01-03T22:57:15.4833356+00:00",
-  "LastUpdate_Ratings": "2024-01-04T17:58:43.178819+00:00",
-  "LastUpdate_Achievements": "2024-01-04T18:04:15.1836689+00:00"
+  "LastUpdate_Ratings": "2024-01-04T18:58:29.8318187+00:00",
+  "LastUpdate_Achievements": "2024-01-04T19:04:06.5596774+00:00"
 }

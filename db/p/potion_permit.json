@@ -4,11 +4,11 @@
   "ProductSlug": "potion-permit",
   "Ranking_Rating": 1069,
   "Ranking_Popularity": 415,
-  "Ranking_PopularitySum": 487,
+  "Ranking_PopularitySum": 488,
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -399,7 +399,7 @@
   ],
   "EOS_Progressed": 1875,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -3669,8 +3669,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-12-28T09:03:17.5303608+00:00",
-  "LastChanged_Achievements": "2024-01-04T18:06:39.5346215+00:00",
+  "LastChanged_Achievements": "2024-01-04T19:06:29.1049037+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:18.8535407+00:00",
-  "LastUpdate_Ratings": "2024-01-04T17:59:41.549934+00:00",
-  "LastUpdate_Achievements": "2024-01-04T18:06:39.5346569+00:00"
+  "LastUpdate_Ratings": "2024-01-04T18:59:24.2552274+00:00",
+  "LastUpdate_Achievements": "2024-01-04T19:06:29.1049463+00:00"
 }

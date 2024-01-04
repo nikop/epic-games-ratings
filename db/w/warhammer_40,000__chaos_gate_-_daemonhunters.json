@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 334,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -819,9 +819,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3755,
+  "EOS_Progressed": 3757,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5489,6 +5489,11 @@
       "Time": "2024-01-04T18:06:17.6452447+00:00",
       "NumProgressed": 3755,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T19:06:07.4972339+00:00",
+      "NumProgressed": 3757,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -5676,7 +5681,7 @@
       "Name": "Blood for the Blood God!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -5866,9 +5871,9 @@
       "ID": "NexusCompleted",
       "SetID": "3jha1np",
       "Name": "A Foul Creche",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 150
     },
     {
       "ID": "NotAMoteOfCorruption",
@@ -6043,21 +6048,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3755,
+      "Progressed": 3757,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3755,
+      "Progressed": 3757,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-04T18:03:14.3502303+00:00",
-  "LastChanged_Achievements": "2024-01-04T18:06:17.6452442+00:00",
+  "LastChanged_Achievements": "2024-01-04T19:06:07.4972335+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:30.5390055+00:00",
-  "LastUpdate_Ratings": "2024-01-04T18:03:14.3502311+00:00",
-  "LastUpdate_Achievements": "2024-01-04T18:06:17.6453357+00:00"
+  "LastUpdate_Ratings": "2024-01-04T19:03:05.2650338+00:00",
+  "LastUpdate_Achievements": "2024-01-04T19:06:07.4973346+00:00"
 }

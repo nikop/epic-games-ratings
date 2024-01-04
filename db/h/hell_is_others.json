@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -1447,9 +1447,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 260209,
+  "EOS_Progressed": 260217,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 314,
+  "EOS_NewPlayers": 322,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26257,6 +26257,11 @@
       "Time": "2024-01-04T18:06:39.7620949+00:00",
       "NumProgressed": 260209,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-04T19:06:29.3526921+00:00",
+      "NumProgressed": 260217,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -26276,7 +26281,7 @@
       "Name": "The Ascent",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10408
+      "UsersEstimate": 10409
     },
     {
       "ID": "Act3",
@@ -26316,7 +26321,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80665
+      "UsersEstimate": 80667
     },
     {
       "ID": "BackHomeNTimes",
@@ -26324,7 +26329,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13010
+      "UsersEstimate": 13011
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -26332,7 +26337,7 @@
       "Name": "Pacifist",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10408
+      "UsersEstimate": 10409
     },
     {
       "ID": "BreakNWindows",
@@ -26340,7 +26345,7 @@
       "Name": "Vandalism",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10408
+      "UsersEstimate": 10409
     },
     {
       "ID": "BuyHighValueFurniture",
@@ -26372,7 +26377,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 26021
+      "UsersEstimate": 26022
     },
     {
       "ID": "CreditLevel2",
@@ -26380,7 +26385,7 @@
       "Name": "Fixer II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7806
+      "UsersEstimate": 7807
     },
     {
       "ID": "CreditLevel3",
@@ -26396,7 +26401,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13010
+      "UsersEstimate": 13011
     },
     {
       "ID": "CreedsInBank2",
@@ -26508,7 +26513,7 @@
       "Name": "It took a while",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7806
+      "UsersEstimate": 7807
     },
     {
       "ID": "KillHauntingThingsWithBaseballBat",
@@ -26540,7 +26545,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7806
+      "UsersEstimate": 7807
     },
     {
       "ID": "KillOtherWithMine",
@@ -26556,7 +26561,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59848
+      "UsersEstimate": 59850
     },
     {
       "ID": "KillOthers2",
@@ -26564,7 +26569,7 @@
       "Name": "Predator II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7806
+      "UsersEstimate": 7807
     },
     {
       "ID": "KillOthers3",
@@ -26636,7 +26641,7 @@
       "Name": "Capitalist I",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10408
+      "UsersEstimate": 10409
     },
     {
       "ID": "Patrimony2",
@@ -26660,7 +26665,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 26021
+      "UsersEstimate": 26022
     },
     {
       "ID": "ReachNDays2",
@@ -26715,7 +26720,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 260209,
+      "Progressed": 260217,
       "Completed": 3
     }
   ],
@@ -26723,8 +26728,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2024-01-04T01:45:41.2160951+00:00",
-  "LastChanged_Achievements": "2024-01-04T18:06:39.7620944+00:00",
+  "LastChanged_Achievements": "2024-01-04T19:06:29.3526915+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:41.7689812+00:00",
-  "LastUpdate_Ratings": "2024-01-04T17:59:38.3414351+00:00",
-  "LastUpdate_Achievements": "2024-01-04T18:06:39.7622426+00:00"
+  "LastUpdate_Ratings": "2024-01-04T18:59:21.0935833+00:00",
+  "LastUpdate_Achievements": "2024-01-04T19:06:29.352927+00:00"
 }

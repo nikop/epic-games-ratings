@@ -4,8 +4,8 @@
   "ProductSlug": "night-book-77f2c7",
   "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 372,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 373,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
     "PcReleaseDate": "2021-07-27T17:00:00+00:00",
@@ -726,9 +726,9 @@
       "ID": "no_one_is_safe",
       "SetID": "a3kkelb",
       "Name": "No One Is Safe",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 199
     },
     {
       "ID": "off_his_meds",
@@ -758,9 +758,9 @@
       "ID": "personal_life",
       "SetID": "a3kkelb",
       "Name": "Personal Life",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 142
     },
     {
       "ID": "save_dad",
@@ -815,8 +815,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2024-01-04T18:06:51.7355334+00:00",
+  "LastChanged_Achievements": "2024-01-04T19:08:01.1404313+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:35.4264884+00:00",
-  "LastUpdate_Ratings": "2024-01-04T17:59:55.9911909+00:00",
-  "LastUpdate_Achievements": "2024-01-04T18:06:51.7355478+00:00"
+  "LastUpdate_Ratings": "2024-01-04T18:59:38.9068156+00:00",
+  "LastUpdate_Achievements": "2024-01-04T19:08:01.1404432+00:00"
 }

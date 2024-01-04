@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 5.00% | ~37,689 |
-| The Assault | 4.00% | ~30,151 |
-| Life is your teacher | 4.00% | ~30,151 |
-| Lightning Hands | 4.00% | ~30,151 |
+| The Old Grandmaster | 5.00% | ~37,690 |
+| The Assault | 4.00% | ~30,152 |
+| Life is your teacher | 4.00% | ~30,152 |
+| Lightning Hands | 4.00% | ~30,152 |
 | The Hateful Pole Fighter | 2.00% | ~15,076 |
 | A Lady's Blood in the Snow | 2.00% | ~15,076 |
 | Lady Wing Chun | 2.00% | ~15,076 |
@@ -26,21 +26,21 @@ Number of Ratings: 9,492  (23.09.2022)
 | Diligence as a goal | 2.00% | ~1,262 |
 | Furious Fists | 1.00% | ~7,538 |
 | Scareless | 1.00% | ~7,538 |
+| Dance of the Praying Mantis | 1.00% | ~7,538 |
 | Qi Gong: Mind | 1.00% | ~7,538 |
 | Kung-Fu Tussle | 1.00% | ~7,538 |
 | Take damage to save time | 1.00% | ~7,538 |
 | Project Arena | 1.00% | ~631 |
-| Dance of the Praying Mantis | 0.90% | ~6,784 |
 | Fight the way you practice | 0.80% | ~505 |
 | Muk Yan Master | 0.60% | ~4,523 |
 | Tiger on Fire | 0.60% | ~4,523 |
 | Detective Story | 0.60% | ~4,523 |
-| Martial Hub | 0.60% | ~378 |
+| Martial Hub | 0.60% | ~379 |
 | Source of Flying Daggers | 0.50% | ~3,769 |
 | Iron Money | 0.50% | ~3,769 |
 | Legendary Talismans of Wuxing | 0.50% | ~3,769 |
 | Sword Stained With Blood | 0.50% | ~3,769 |
-| Bloody Sport | 0.50% | ~315 |
+| Bloody Sport | 0.50% | ~316 |
 | Prodigal Child | 0.40% | ~3,015 |
 | The 36th Chamber of Kung-Fu | 0.40% | ~3,015 |
 | The best strikes are the ones we avoid | 0.40% | ~252 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~63 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~63 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 753,779 (Ranked 25)  
+Progressed: 753,810 (Ranked 25)  
 Completed: 12,974 (1.72%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,10 +326,10 @@ Completed: 12,974 (1.72%) (Ranked 141)
 | 2024-01-01 | 751,425 | 12,971 |
 | 2024-01-02 | 752,188 | 12,971 |
 | 2024-01-03 | 753,003 | 12,973 |
-| 2024-01-04 | 753,779 | 12,974 |
+| 2024-01-04 | 753,810 | 12,974 |
 ## Awards
 Max (Great Boss Battles): 7,102  (Ranked 55)  
-Sum: 12,003 (Ranked 87)  
+Sum: 12,004 (Ranked 87)  
 Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
@@ -340,7 +340,7 @@ Diff (max vs sum): -32
 | This game has Amazing Characters | 605 |
 | This game is Highly Recommended | 601 |
 | This game has Quickly Understood Controls | 593 |
-| This game is Extremely Fun | 579 |
+| This game is Extremely Fun | 580 |
 | This game has Unique Visuals | 578 |
 | This game is Relaxing | 558 |
 | This game has a Creative Community | 436 |
@@ -699,4 +699,4 @@ Diff (max vs sum): -32
 | 2024-01-01 | 4.82 | - | 7,070 | 11,967 |
 | 2024-01-02 | 4.82 | - | 7,079 | 11,978 |
 | 2024-01-03 | 4.82 | - | 7,088 | 11,987 |
-| 2024-01-04 | 4.82 | - | 7,102 | 12,003 |
+| 2024-01-04 | 4.82 | - | 7,102 | 12,004 |

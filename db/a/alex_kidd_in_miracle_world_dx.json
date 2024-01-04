@@ -4,8 +4,8 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 361,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 344,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
     "PcReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 408,
+  "EOS_Progressed": 409,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -879,6 +879,11 @@
       "Time": "2024-01-04T01:50:11.1913358+00:00",
       "NumProgressed": 408,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-04T19:03:46.6149255+00:00",
+      "NumProgressed": 409,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -938,7 +943,7 @@
       "Name": "First Commander",
       "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "GRIZZLY_DEFEATED",
@@ -986,7 +991,7 @@
       "Name": "Wild Ox",
       "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "PARPLIN_DEFEATED",
@@ -1010,14 +1015,14 @@
       "Name": "Magic Ball",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     }
   ],
   "AchievementSets": [
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 408,
+      "Progressed": 409,
       "Completed": 4
     }
   ],
@@ -1025,8 +1030,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2024-01-04T18:03:54.9850031+00:00",
+  "LastChanged_Achievements": "2024-01-04T19:03:46.6149252+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:25.7594248+00:00",
-  "LastUpdate_Ratings": "2024-01-04T17:57:22.1920507+00:00",
-  "LastUpdate_Achievements": "2024-01-04T18:03:54.9850189+00:00"
+  "LastUpdate_Ratings": "2024-01-04T18:57:09.3408845+00:00",
+  "LastUpdate_Achievements": "2024-01-04T19:03:46.6149397+00:00"
 }

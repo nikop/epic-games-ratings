@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 443,
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 410,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
     "PcReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -3293,9 +3293,9 @@
       "ID": "ID_28_ART_MANIA",
       "SetID": "7o8nc5m",
       "Name": "Art Appreciator",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 95
+      "UsersEstimate": 101
     },
     {
       "ID": "ID_29_HERO_FOR_ALL",
@@ -3365,8 +3365,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-12-13T19:57:46.4026225+00:00",
-  "LastChanged_Achievements": "2024-01-04T18:10:04.2695578+00:00",
+  "LastChanged_Achievements": "2024-01-04T19:09:51.9038187+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:39.4774601+00:00",
-  "LastUpdate_Ratings": "2024-01-04T17:58:24.2898323+00:00",
-  "LastUpdate_Achievements": "2024-01-04T18:10:04.2695962+00:00"
+  "LastUpdate_Ratings": "2024-01-04T18:58:11.9036743+00:00",
+  "LastUpdate_Achievements": "2024-01-04T19:09:51.9038511+00:00"
 }

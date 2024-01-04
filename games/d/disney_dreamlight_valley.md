@@ -1,28 +1,28 @@
 # Disney Dreamlight Valley
 [Store](https://store.epicgames.com/en-US/p/disney-dreamlight-valley)  
 [View Rawdata](../../db/d/disney_dreamlight_valley.json)  
-Rating: 4.76 (Ranked 130)  
+Rating: 4.76 (Ranked 129)  
 Number of Ratings: 1,396  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 67.00% | ~9,201 |
-| Photographer | 67.00% | ~9,201 |
-| Valley's Helper | 59.00% | ~8,102 |
-| Constructor | 50.00% | ~6,866 |
-| Renovator | 50.00% | ~6,866 |
-| Bestest Friend | 44.00% | ~6,043 |
-| Banker | 38.00% | ~5,219 |
-| Gardener | 30.00% | ~4,120 |
-| Generous | 25.00% | ~3,433 |
-| Chef Cook | 19.00% | ~2,609 |
+| Goofy's Investor | 67.00% | ~9,204 |
+| Photographer | 67.00% | ~9,204 |
+| Valley's Helper | 59.00% | ~8,105 |
+| Constructor | 50.00% | ~6,869 |
+| Renovator | 50.00% | ~6,869 |
+| Bestest Friend | 44.00% | ~6,045 |
+| Banker | 38.00% | ~5,220 |
+| Gardener | 30.00% | ~4,121 |
+| Generous | 25.00% | ~3,434 |
+| Chef Cook | 19.00% | ~2,610 |
 | Miner | 11.00% | ~1,511 |
 | Duty Bound | 8.00% | ~1,099 |
 | Angler | 6.00% | ~824 |
 | Thorn Cleaner | 6.00% | ~824 |
 | Chit Chatter | 3.00% | ~412 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,733 (Ranked 174)  
+Progressed: 13,738 (Ranked 174)  
 Completed: 342 (2.49%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,16 +232,16 @@ Completed: 342 (2.49%) (Ranked 125)
 | 2024-01-01 | 13,602 | 337 |
 | 2024-01-02 | 13,655 | 339 |
 | 2024-01-03 | 13,697 | 341 |
-| 2024-01-04 | 13,733 | 342 |
+| 2024-01-04 | 13,738 | 342 |
 ## Awards
 Max (Great for Beginners): 1,172  (Ranked 147)  
-Sum: 8,350 (Ranked 108)  
+Sum: 8,351 (Ranked 108)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,172 |
 | This game has Diverse Characters | 987 |
-| This game is Highly Recommended | 867 |
+| This game is Highly Recommended | 868 |
 | This game has Amazing Characters | 845 |
 | This game is Relaxing | 826 |
 | This game has Amazing Storytelling | 805 |
@@ -548,4 +548,4 @@ Diff (max vs sum): 39
 | 2024-01-01 | 4.76 | - | 1,166 | 8,321 |
 | 2024-01-02 | 4.76 | - | 1,169 | 8,331 |
 | 2024-01-03 | 4.76 | - | 1,172 | 8,343 |
-| 2024-01-04 | 4.76 | - | 1,172 | 8,350 |
+| 2024-01-04 | 4.76 | - | 1,172 | 8,351 |

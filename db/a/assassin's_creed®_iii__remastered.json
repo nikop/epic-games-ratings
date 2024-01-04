@@ -2,13 +2,13 @@
   "ID": "anise",
   "Name": "Assassin\u0027s Creed\u00AE III: Remastered",
   "ProductSlug": "assassins-creed-3",
-  "Ranking_Rating": 592,
+  "Ranking_Rating": 574,
   "Ranking_Popularity": 298,
-  "Ranking_PopularitySum": 414,
+  "Ranking_PopularitySum": 413,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 566,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2019-03-29T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.51,
+  "Rating": 4.52,
   "NumberOfRatings": 257,
   "RatingHistory": [
     {
@@ -646,18 +646,24 @@
       "Rating": 4.51,
       "NumberOfAwards": 203,
       "NumberOfAwardsMax": 203
+    },
+    {
+      "Time": "2024-01-04T18:59:00.6516432+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 204,
+      "NumberOfAwardsMax": 204
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 203,
-  "NumberOfAwardsMax": 203,
+  "NumberOfAwards": 204,
+  "NumberOfAwardsMax": 204,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 203
+      "Count": 204
     }
   ],
   "EOS_Progressed": 0,
@@ -671,8 +677,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:27.0025149+00:00",
-  "LastChanged": "2023-12-31T13:56:58.6180977+00:00",
+  "LastChanged": "2024-01-04T18:59:00.651643+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:16.7926234+00:00",
-  "LastUpdate_Ratings": "2024-01-04T17:59:16.8911384+00:00",
-  "LastUpdate_Achievements": "2024-01-04T18:05:52.1591558+00:00"
+  "LastUpdate_Ratings": "2024-01-04T18:59:00.6516437+00:00",
+  "LastUpdate_Achievements": "2024-01-04T19:05:42.0392962+00:00"
 }

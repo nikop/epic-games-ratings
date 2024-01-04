@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -247,9 +247,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8848,
+  "EOS_Progressed": 8856,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9677,6 +9677,11 @@
       "Time": "2024-01-04T17:10:19.5911312+00:00",
       "NumProgressed": 8848,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-04T19:09:54.7686068+00:00",
+      "NumProgressed": 8856,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -9697,7 +9702,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -9721,7 +9726,7 @@
       "Name": "Clear the Air",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -9777,7 +9782,7 @@
       "Name": "Lumberjack",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -9841,7 +9846,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -9873,7 +9878,7 @@
       "Name": "Higher Tax Bracket",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "HARVEST_VEGETABLES_1",
@@ -9905,7 +9910,7 @@
       "Name": "Oui, Chef!",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "PRODUCE_HYBRIDFLOWER",
@@ -9913,7 +9918,7 @@
       "Name": "Botanical Breakthrough",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "SPEND_FIRSTYEAR",
@@ -9999,9 +10004,9 @@
       "ID": "DLC1_ACHIEVEMENT_05",
       "SetID": "6p01o4j",
       "Name": "Archi-Pal-igo Aficionado",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 90,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DLC1_ACHIEVEMENT_06",
@@ -10032,13 +10037,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8848,
+      "Progressed": 8856,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1465,
+      "Progressed": 1473,
       "Completed": 1050
     }
   ],
@@ -10046,8 +10051,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2024-01-04T01:49:56.9201089+00:00",
-  "LastChanged_Achievements": "2024-01-04T18:10:07.1168841+00:00",
+  "LastChanged_Achievements": "2024-01-04T19:09:54.7686065+00:00",
   "LastUpdate_AppInfo": "2023-12-29T11:57:18.9799571+00:00",
-  "LastUpdate_Ratings": "2024-01-04T18:03:20.5771835+00:00",
-  "LastUpdate_Achievements": "2024-01-04T18:10:07.1169472+00:00"
+  "LastUpdate_Ratings": "2024-01-04T19:03:11.2233142+00:00",
+  "LastUpdate_Achievements": "2024-01-04T19:09:54.7687021+00:00"
 }

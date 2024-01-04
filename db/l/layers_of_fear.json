@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 404,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 272,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 271,
+  "EOS_Progressed": 272,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1229,6 +1229,11 @@
       "Time": "2024-01-04T16:09:36.8263251+00:00",
       "NumProgressed": 271,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T19:08:30.372919+00:00",
+      "NumProgressed": 272,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -1321,7 +1326,7 @@
       "Name": "It\u0027s covered up for a reason",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "decrypt_one_myth",
@@ -1393,7 +1398,7 @@
       "Name": "Scraps of love",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "find_one_photo",
@@ -1417,7 +1422,7 @@
       "Name": "The artist\u2019s impression",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "finished_it",
@@ -1577,7 +1582,7 @@
       "Name": "Something important",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "spy_one_item",
@@ -1649,21 +1654,21 @@
       "Name": "Whispers long forgotten",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     }
   ],
   "AchievementSets": [
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 271,
+      "Progressed": 272,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-04T18:08:42.3805614+00:00",
+  "LastChanged_Achievements": "2024-01-04T19:08:30.3729185+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.7570027+00:00",
-  "LastUpdate_Ratings": "2024-01-04T17:59:22.8293274+00:00",
-  "LastUpdate_Achievements": "2024-01-04T18:08:42.3806034+00:00"
+  "LastUpdate_Ratings": "2024-01-04T18:59:06.0040802+00:00",
+  "LastUpdate_Achievements": "2024-01-04T19:08:30.3730056+00:00"
 }

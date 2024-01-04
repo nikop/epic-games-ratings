@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -173,9 +173,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24440,
+  "EOS_Progressed": 24442,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 459,
+  "EOS_NewPlayers": 460,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -22423,6 +22423,11 @@
       "Time": "2024-01-04T18:04:42.6560445+00:00",
       "NumProgressed": 24440,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2024-01-04T19:04:33.5518507+00:00",
+      "NumProgressed": 24442,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 14,
@@ -22434,7 +22439,7 @@
       "Name": "Across The Border",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 18819
+      "UsersEstimate": 18820
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -22490,7 +22495,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 12464
+      "UsersEstimate": 12465
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -22498,7 +22503,7 @@
       "Name": "In For The Kill",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 2688
+      "UsersEstimate": 2689
     },
     {
       "ID": "ACH_IN_MY_OWN_TIME",
@@ -22514,7 +22519,7 @@
       "Name": "Look at Me Now",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 6354
+      "UsersEstimate": 6355
     },
     {
       "ID": "ACH_THE_FALL",
@@ -22522,7 +22527,7 @@
       "Name": "The Fall",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 3910
+      "UsersEstimate": 3911
     },
     {
       "ID": "ACH_TIME_OF_OUR_LIFE",
@@ -22545,15 +22550,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 24440,
+      "Progressed": 24442,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-11-02T20:58:32.2795394+00:00",
-  "LastChanged_Achievements": "2024-01-04T18:04:42.6560442+00:00",
+  "LastChanged_Achievements": "2024-01-04T19:04:33.5518503+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:21.7307915+00:00",
-  "LastUpdate_Ratings": "2024-01-04T18:02:59.4445682+00:00",
-  "LastUpdate_Achievements": "2024-01-04T18:04:42.6561771+00:00"
+  "LastUpdate_Ratings": "2024-01-04T19:02:51.1788092+00:00",
+  "LastUpdate_Achievements": "2024-01-04T19:04:33.5519866+00:00"
 }

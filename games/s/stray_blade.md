@@ -28,6 +28,7 @@
 | Changing the World | 1.00% | ~2 |
 | Sponsor | 0.70% | ~1 |
 | Defeat Uskol | 0.70% | ~1 |
+| Through Dangers Untold | 0.70% | ~1 |
 | Nothing but the Truth | 0.70% | ~1 |
 | Trailblazer | 0.70% | ~1 |
 | Finally! | 0.70% | ~1 |
@@ -36,7 +37,6 @@
 | Style over Stats | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |
 | Bringing guns to a sword fight | 0.00% | ~0 |
-| Through Dangers Untold | 0.00% | ~0 |
 | Explorer by Heart | 0.00% | ~0 |
 | Mountain Lover | 0.00% | ~0 |
 | Wasteland Connoisseur | 0.00% | ~0 |

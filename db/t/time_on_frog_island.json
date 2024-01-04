@@ -2,10 +2,10 @@
   "ID": "ab4dbb7ed03c4ee49d810b7c018cd894",
   "Name": "Time on Frog Island",
   "ProductSlug": "time-on-frog-island-b3ad0d",
-  "Ranking_EOS_Progress": 572,
-  "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 499,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_Progress": 570,
+  "Ranking_EOS_Completed": 123,
+  "Ranking_EOS_NewPlayers": 479,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-07-12T13:00:00+00:00",
     "PcReleaseDate": "2022-07-12T13:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 39,
+  "EOS_Progressed": 40,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.56,
+  "EOS_Completed_Percentage": 2.5,
   "EosHistory": [
     {
       "Time": "2023-09-11T10:06:16.3667497+00:00",
@@ -225,6 +225,11 @@
       "Time": "2024-01-04T15:03:36.1307381+00:00",
       "NumProgressed": 39,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-04T19:03:42.9813438+00:00",
+      "NumProgressed": 40,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-11T10:06:16.366753+00:00",
@@ -355,7 +360,7 @@
       "ID": "a23",
       "SetID": "cdg65ol",
       "Name": "Mad Scientist",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 8
     },
@@ -395,7 +400,7 @@
       "ID": "a28",
       "SetID": "cdg65ol",
       "Name": "What?!",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 15,
       "UsersEstimate": 17
     },
@@ -411,7 +416,7 @@
       "ID": "a3",
       "SetID": "cdg65ol",
       "Name": "Sea Legs",
-      "Percentage": 62,
+      "Percentage": 60,
       "XP": 10,
       "UsersEstimate": 24
     },
@@ -467,9 +472,9 @@
       "ID": "a4",
       "SetID": "cdg65ol",
       "Name": "Shipwrecked!",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "a5",
@@ -516,7 +521,7 @@
     {
       "ID": "cdg65ol",
       "IsBase": true,
-      "Progressed": 39,
+      "Progressed": 40,
       "Completed": 1
     }
   ],
@@ -524,8 +529,8 @@
   "FirstSeenRating": "2023-03-31T05:58:16.4143103+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:44.2276989+00:00",
   "LastChanged": "2023-03-31T05:58:16.4143104+00:00",
-  "LastChanged_Achievements": "2024-01-04T18:03:51.0387289+00:00",
+  "LastChanged_Achievements": "2024-01-04T19:03:42.9813434+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:23.4380814+00:00",
-  "LastUpdate_Ratings": "2024-01-04T18:03:03.291063+00:00",
-  "LastUpdate_Achievements": "2024-01-04T18:03:51.038748+00:00"
+  "LastUpdate_Ratings": "2024-01-04T19:02:55.0938234+00:00",
+  "LastUpdate_Achievements": "2024-01-04T19:03:42.9813738+00:00"
 }

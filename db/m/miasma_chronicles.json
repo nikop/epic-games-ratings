@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 334,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -4393,9 +4393,9 @@
       "ID": "DEAD_DD",
       "SetID": "9a4jnji",
       "Name": "Ganglord",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 588
+      "UsersEstimate": 604
     },
     {
       "ID": "DEAD_DICK",
@@ -4706,8 +4706,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2024-01-02T20:02:58.7354435+00:00",
-  "LastChanged_Achievements": "2024-01-04T18:10:08.4420293+00:00",
+  "LastChanged_Achievements": "2024-01-04T19:09:56.2805226+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:28.618292+00:00",
-  "LastUpdate_Ratings": "2024-01-04T18:03:09.5851251+00:00",
-  "LastUpdate_Achievements": "2024-01-04T18:10:08.4420789+00:00"
+  "LastUpdate_Ratings": "2024-01-04T19:03:00.7882101+00:00",
+  "LastUpdate_Achievements": "2024-01-04T19:09:56.280577+00:00"
 }

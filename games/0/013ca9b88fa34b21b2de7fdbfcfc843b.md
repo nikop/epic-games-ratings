@@ -6,8 +6,8 @@ Rating: 4.63 (Ranked 357)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Azoria Beckons | 4.00% | ~354 |
-| A Thorny Situation | 3.00% | ~265 |
-| ... And Spit Back Out | 3.00% | ~265 |
+| A Thorny Situation | 3.00% | ~266 |
+| ... And Spit Back Out | 3.00% | ~266 |
 | Calm Sailing | 2.00% | ~177 |
 | Open the Gate! | 2.00% | ~177 |
 | Miner 49er | 2.00% | ~177 |
@@ -15,11 +15,11 @@ Rating: 4.63 (Ranked 357)
 | Humble Collector | 2.00% | ~177 |
 | Mist Walker | 2.00% | ~177 |
 | Bramble Breaker | 2.00% | ~177 |
-| Clear the Air | 1.00% | ~88 |
-| Lumberjack | 1.00% | ~88 |
-| Higher Tax Bracket | 1.00% | ~88 |
-| Oui, Chef! | 1.00% | ~88 |
-| Botanical Breakthrough | 1.00% | ~88 |
+| Clear the Air | 1.00% | ~89 |
+| Lumberjack | 1.00% | ~89 |
+| Higher Tax Bracket | 1.00% | ~89 |
+| Oui, Chef! | 1.00% | ~89 |
+| Botanical Breakthrough | 1.00% | ~89 |
 | Exit Through The Gift Shop | 1.00% | ~15 |
 | Search for the Hairy Grell | 0.90% | ~80 |
 | Beach Comber | 0.90% | ~80 |
@@ -47,9 +47,9 @@ Rating: 4.63 (Ranked 357)
 | A Pal To All | 0.10% | ~1 |
 | Scroll Hunter | 0.10% | ~1 |
 | Splish-Splash | 0.10% | ~1 |
-| Archi-Pal-igo Aficionado | 0.00% | ~0 |
+| Archi-Pal-igo Aficionado | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,848 (Ranked 184)  
+Progressed: 8,856 (Ranked 184)  
 Completed: 1 (0.01%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 1 (0.01%) (Ranked 369)
 | 2024-01-01 | 8,805 | 1 |
 | 2024-01-02 | 8,830 | 1 |
 | 2024-01-03 | 8,841 | 1 |
-| 2024-01-04 | 8,848 | 1 |
+| 2024-01-04 | 8,856 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

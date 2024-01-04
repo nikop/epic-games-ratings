@@ -23,6 +23,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Oracle | 0.80% | ~129 |
 | Trade Caravan | 0.80% | ~129 |
 | Ambitious | 0.70% | ~113 |
+| Brilliant | 0.70% | ~113 |
 | Enlightened | 0.70% | ~113 |
 | Glorious | 0.70% | ~113 |
 | Just | 0.70% | ~113 |
@@ -34,7 +35,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Judaism | 0.70% | ~113 |
 | Greek Paganism | 0.70% | ~113 |
 | Naming Landmarks | 0.70% | ~113 |
-| Brilliant | 0.60% | ~97 |
 | Fountainhead | 0.60% | ~97 |
 | Magnificent | 0.60% | ~97 |
 | Ishtar Gate | 0.60% | ~97 |
