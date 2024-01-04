@@ -5,47 +5,47 @@ Rating: 4.26 (Ranked 907)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Power Shot | 75.00% | ~157,450 |
-| Dead-ball specialist | 62.00% | ~130,159 |
-| European Legend | 52.00% | ~109,166 |
-| Multitasking | 51.00% | ~107,066 |
-| Balanced Path | 49.00% | ~102,868 |
-| High Grades | 48.00% | ~100,768 |
-| A Moment of Your Time | 46.00% | ~96,570 |
-| Let the Games Begin | 46.00% | ~96,570 |
-| Aiming High | 46.00% | ~96,570 |
-| Tactical Tinkerer | 40.00% | ~83,974 |
-| Intuition and Execution | 39.00% | ~81,874 |
-| Squad Building Connoisseur | 38.00% | ~79,775 |
-| The Winning Formula | 36.00% | ~75,576 |
-| Parking the Bus | 28.00% | ~58,782 |
-| Safe House | 26.00% | ~54,583 |
-| Best of Five | 26.00% | ~54,583 |
-| Football is Everything | 24.00% | ~50,384 |
-| The Chosen One | 22.00% | ~46,185 |
-| Fresh Fit | 20.00% | ~41,987 |
-| Bring it on | 17.00% | ~35,689 |
-| Life-Like | 14.00% | ~29,391 |
-| Make the Grade | 12.00% | ~25,192 |
-| I Played Them All | 10.00% | ~20,993 |
-| Specialist | 10.00% | ~20,993 |
-| Teamwork works | 9.00% | ~18,894 |
-| First of Many | 9.00% | ~18,894 |
-| Momentous Achievement | 6.00% | ~12,596 |
+| Power Shot | 75.00% | ~157,459 |
+| Dead-ball specialist | 62.00% | ~130,166 |
+| European Legend | 52.00% | ~109,171 |
+| Multitasking | 51.00% | ~107,072 |
+| Balanced Path | 49.00% | ~102,873 |
+| High Grades | 48.00% | ~100,774 |
+| A Moment of Your Time | 46.00% | ~96,575 |
+| Let the Games Begin | 46.00% | ~96,575 |
+| Aiming High | 46.00% | ~96,575 |
+| Tactical Tinkerer | 40.00% | ~83,978 |
+| Intuition and Execution | 39.00% | ~81,879 |
+| Squad Building Connoisseur | 38.00% | ~79,779 |
+| The Winning Formula | 36.00% | ~75,580 |
+| Parking the Bus | 28.00% | ~58,785 |
+| Safe House | 26.00% | ~54,586 |
+| Best of Five | 26.00% | ~54,586 |
+| Football is Everything | 24.00% | ~50,387 |
+| The Chosen One | 22.00% | ~46,188 |
+| Fresh Fit | 20.00% | ~41,989 |
+| Bring it on | 17.00% | ~35,691 |
+| Life-Like | 14.00% | ~29,392 |
+| Make the Grade | 12.00% | ~25,193 |
+| I Played Them All | 10.00% | ~20,994 |
+| Specialist | 10.00% | ~20,994 |
+| Teamwork works | 9.00% | ~18,895 |
+| First of Many | 9.00% | ~18,895 |
+| Momentous Achievement | 6.00% | ~12,597 |
 | In Cahoots | 5.00% | ~10,497 |
 | Becoming Unplayable | 5.00% | ~10,497 |
 | Shop till you drop | 5.00% | ~10,497 |
 | On the way up | 5.00% | ~10,497 |
-| Volta's best | 4.00% | ~8,397 |
-| Tune Your Club | 4.00% | ~8,397 |
-| Full-House | 4.00% | ~8,397 |
+| Volta's best | 4.00% | ~8,398 |
+| Tune Your Club | 4.00% | ~8,398 |
+| Full-House | 4.00% | ~8,398 |
 | Sharing is Caring | 3.00% | ~6,298 |
 | Full wardrobe | 0.60% | ~1,260 |
 | Girl Power | 0.40% | ~840 |
 | Training Addict | 0.10% | ~210 |
 | Dazzling Personality | 0.10% | ~210 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 209,934 (Ranked 81)  
+Progressed: 209,945 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,10 +157,10 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-01 | 209,172 | 0 |
 | 2024-01-02 | 209,558 | 0 |
 | 2024-01-03 | 209,886 | 0 |
-| 2024-01-04 | 209,934 | 0 |
+| 2024-01-04 | 209,945 | 0 |
 ## Awards
 Max (Diverse Characters): 22,088  (Ranked 21)  
-Sum: 109,808 (Ranked 17)  
+Sum: 109,813 (Ranked 17)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
@@ -168,7 +168,7 @@ Diff (max vs sum): 4
 | This game is Highly Recommended | 15,019 |
 | This game has a Competitive Community | 14,368 |
 | This game has Amazing Characters | 12,372 |
-| This game is Extremely Fun | 11,846 |
+| This game is Extremely Fun | 11,851 |
 | This game has Competitive Players | 11,799 |
 | This game has Amazing Storytelling | 11,600 |
 | This game has Quickly Understood Controls | 10,716 |
@@ -540,4 +540,4 @@ Diff (max vs sum): 4
 | 2024-01-01 | 4.26 | 22,060 | 109,687 |
 | 2024-01-02 | 4.26 | 22,076 | 109,752 |
 | 2024-01-03 | 4.26 | 22,088 | 109,799 |
-| 2024-01-04 | 4.26 | 22,088 | 109,808 |
+| 2024-01-04 | 4.26 | 22,088 | 109,813 |

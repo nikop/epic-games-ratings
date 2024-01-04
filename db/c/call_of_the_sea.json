@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2022-02-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-08T13:25:14+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 137829,
+  "EOS_Progressed": 137830,
   "EOS_Completed": 1235,
-  "EOS_NewPlayers": 1367,
+  "EOS_NewPlayers": 1361,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -29893,6 +29893,11 @@
       "Time": "2024-01-04T03:05:42.8086275+00:00",
       "NumProgressed": 137829,
       "NumCompleted": 1235
+    },
+    {
+      "Time": "2024-01-04T04:04:37.1873837+00:00",
+      "NumProgressed": 137830,
+      "NumCompleted": 1235
     }
   ],
   "TotalAchievements": 34,
@@ -29920,7 +29925,7 @@
       "Name": "Interesting...",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 57888
+      "UsersEstimate": 57889
     },
     {
       "ID": "ACH_GAME_JOURNAL2",
@@ -29960,7 +29965,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 110263
+      "UsersEstimate": 110264
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -29976,7 +29981,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 77184
+      "UsersEstimate": 77185
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -30008,7 +30013,7 @@
       "Name": "Fawning Developers",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 6891
+      "UsersEstimate": 6892
     },
     {
       "ID": "ACH_L03_BLACKBEACH_END",
@@ -30112,7 +30117,7 @@
       "Name": "Dark Water Ride",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 34457
+      "UsersEstimate": 34458
     },
     {
       "ID": "ACH_L05_TOWN_END",
@@ -30120,7 +30125,7 @@
       "Name": "Sunken",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 34457
+      "UsersEstimate": 34458
     },
     {
       "ID": "ACH_L05_TOWN_OBJ",
@@ -30168,14 +30173,14 @@
       "Name": "Candid Photo",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 6891
+      "UsersEstimate": 6892
     }
   ],
   "AchievementSets": [
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 137829,
+      "Progressed": 137830,
       "Completed": 1235
     }
   ],
@@ -30183,8 +30188,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-11-24T21:59:26.7035134+00:00",
-  "LastChanged_Achievements": "2024-01-04T03:05:42.808627+00:00",
+  "LastChanged_Achievements": "2024-01-04T04:04:37.1873833+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:11.4349106+00:00",
-  "LastUpdate_Ratings": "2024-01-04T02:59:32.6186609+00:00",
-  "LastUpdate_Achievements": "2024-01-04T03:05:42.8088381+00:00"
+  "LastUpdate_Ratings": "2024-01-04T03:58:35.2030579+00:00",
+  "LastUpdate_Achievements": "2024-01-04T04:04:37.187535+00:00"
 }

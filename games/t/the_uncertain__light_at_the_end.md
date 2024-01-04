@@ -15,7 +15,7 @@ Rating: 3.86 (Ranked 1,066)
 | F is for Feline | 12.00% | ~77 |
 | A Trip to Remember | 12.00% | ~77 |
 | Does Not Compute | 12.00% | ~77 |
-| Mind the Gap | 11.00% | ~70 |
+| Mind the Gap | 11.00% | ~71 |
 | U Mad Bro? | 10.00% | ~64 |
 | Short Circuit | 10.00% | ~64 |
 | Catch You Later | 7.00% | ~45 |
@@ -35,7 +35,7 @@ Rating: 3.86 (Ranked 1,066)
 | Marvellous Toys | 2.00% | ~13 |
 | Hardcore Gamer | 1.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 640 (Ranked 328)  
+Progressed: 641 (Ranked 328)  
 Completed: 6 (0.94%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,6 +170,7 @@ Completed: 6 (0.94%) (Ranked 179)
 | 2023-12-31 | 632 | 6 |
 | 2024-01-01 | 635 | 6 |
 | 2024-01-02 | 640 | 6 |
+| 2024-01-04 | 641 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

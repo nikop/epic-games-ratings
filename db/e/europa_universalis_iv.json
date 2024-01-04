@@ -14019,9 +14019,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 491457,
+  "EOS_Progressed": 491478,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5585,
+  "EOS_NewPlayers": 5586,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -43839,6 +43839,11 @@
       "Time": "2024-01-04T03:10:32.5865517+00:00",
       "NumProgressed": 491457,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-04T04:09:38.0102026+00:00",
+      "NumProgressed": 491478,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -44368,9 +44373,9 @@
       "ID": "achievement_cold_war",
       "SetID": "67mdiil",
       "Name": "Cold War",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 983
+      "UsersEstimate": 1474
     },
     {
       "ID": "achievement_colonial_management",
@@ -44872,9 +44877,9 @@
       "ID": "achievement_grand_navy",
       "SetID": "8p2n7he",
       "Name": "That\u0027s a Grand Navy",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1474
+      "UsersEstimate": 1966
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -46753,21 +46758,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 491457,
+      "Progressed": 491478,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 491457,
+      "Progressed": 491478,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2024-01-03T17:57:44.1599698+00:00",
-  "LastChanged_Achievements": "2024-01-04T03:10:32.5865513+00:00",
+  "LastChanged_Achievements": "2024-01-04T04:09:38.0102023+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:39.2428149+00:00",
-  "LastUpdate_Ratings": "2024-01-04T02:58:09.2746975+00:00",
-  "LastUpdate_Achievements": "2024-01-04T03:10:32.5878506+00:00"
+  "LastUpdate_Ratings": "2024-01-04T03:57:31.9648793+00:00",
+  "LastUpdate_Achievements": "2024-01-04T04:09:38.0113448+00:00"
 }

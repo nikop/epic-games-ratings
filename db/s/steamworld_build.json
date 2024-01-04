@@ -1019,9 +1019,9 @@
       "ID": "DiggingAHole",
       "SetID": "4bd750m",
       "Name": "Digging a Hole",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 186
     },
     {
       "ID": "DopaMiner",
@@ -1083,9 +1083,9 @@
       "ID": "Mathematic",
       "SetID": "4bd750m",
       "Name": "Mathematic",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 207
     },
     {
       "ID": "MineSweeper",
@@ -1210,8 +1210,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2024-01-04T03:05:15.77159+00:00",
+  "LastChanged_Achievements": "2024-01-04T04:04:16.047929+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.9245287+00:00",
-  "LastUpdate_Ratings": "2024-01-04T03:03:55.528495+00:00",
-  "LastUpdate_Achievements": "2024-01-04T03:05:15.771611+00:00"
+  "LastUpdate_Ratings": "2024-01-04T04:03:12.7778515+00:00",
+  "LastUpdate_Achievements": "2024-01-04T04:04:16.0479497+00:00"
 }

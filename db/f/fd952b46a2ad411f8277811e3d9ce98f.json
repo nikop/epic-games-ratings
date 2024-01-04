@@ -4,7 +4,7 @@
   "ProductSlug": "mini-royale-ad1dca",
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewPlayers": 329,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 398252,
+  "EOS_Progressed": 398253,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12742,6 +12742,11 @@
       "Time": "2024-01-03T23:06:55.4135404+00:00",
       "NumProgressed": 398252,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T04:05:34.5592978+00:00",
+      "NumProgressed": 398253,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-23T09:03:04.200541+00:00",
@@ -13001,13 +13006,13 @@
     {
       "ID": "413a09o",
       "IsBase": true,
-      "Progressed": 398252,
+      "Progressed": 398253,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-23T09:03:04.2005407+00:00",
-  "LastChanged_Achievements": "2024-01-04T03:06:56.2387166+00:00",
+  "LastChanged_Achievements": "2024-01-04T04:05:34.5592975+00:00",
   "LastUpdate_AppInfo": "2024-01-03T20:57:13.5944019+00:00",
-  "LastUpdate_Ratings": "2024-01-04T02:58:53.9679478+00:00",
-  "LastUpdate_Achievements": "2024-01-04T03:06:56.2387869+00:00"
+  "LastUpdate_Ratings": "2024-01-04T03:58:06.3870781+00:00",
+  "LastUpdate_Achievements": "2024-01-04T04:05:34.5593857+00:00"
 }

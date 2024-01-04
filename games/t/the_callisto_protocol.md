@@ -5,16 +5,16 @@ Rating: 4.21 (Ranked 947)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 23.00% | ~4,799 |
-| The Outer Way | 23.00% | ~4,799 |
-| Desperate Times | 21.00% | ~4,382 |
-| Paper Jams | 20.00% | ~4,173 |
+| Flesh Wound | 23.00% | ~4,800 |
+| The Outer Way | 23.00% | ~4,800 |
+| Desperate Times | 21.00% | ~4,383 |
+| Paper Jams | 20.00% | ~4,174 |
 | Get a Grip | 19.00% | ~3,965 |
-| Chew 'Em Up | 18.00% | ~3,756 |
+| Chew 'Em Up | 18.00% | ~3,757 |
 | Reforged | 16.00% | ~3,339 |
 | Float Like A Butterfly | 15.00% | ~3,130 |
-| Workplace Hazard | 14.00% | ~2,921 |
-| If the SHU Fits... | 14.00% | ~2,921 |
+| Workplace Hazard | 14.00% | ~2,922 |
+| If the SHU Fits... | 14.00% | ~2,922 |
 | Without A Paddle | 12.00% | ~2,504 |
 | Two Heads Are Better Than One | 10.00% | ~2,087 |
 | In the Pipe, Five by Five | 10.00% | ~2,087 |
@@ -23,11 +23,11 @@ Rating: 4.21 (Ranked 947)
 | Terminated | 9.00% | ~1,878 |
 | What Lies Beneath | 9.00% | ~1,878 |
 | Full Circle | 9.00% | ~1,878 |
-| Giving Back | 8.00% | ~1,669 |
-| You Need a Gun | 8.00% | ~1,669 |
+| Giving Back | 8.00% | ~1,670 |
+| You Need a Gun | 8.00% | ~1,670 |
 | I Do Belong Here | 7.00% | ~1,461 |
-| Keep Fighting | 7.00% | ~615 |
-| The Commonality | 5.00% | ~1,043 |
+| Keep Fighting | 7.00% | ~616 |
+| The Commonality | 5.00% | ~1,044 |
 | It's Time | 5.00% | ~440 |
 | In Striking Distance | 4.00% | ~835 |
 | One Last Job | 3.00% | ~264 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 947)
 | Big Game Hunter | 0.10% | ~9 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,866 (Ranked 150)  
+Progressed: 20,870 (Ranked 150)  
 Completed: 82 (0.39%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 82 (0.39%) (Ranked 234)
 | 2024-01-01 | 20,521 | 82 |
 | 2024-01-02 | 20,695 | 82 |
 | 2024-01-03 | 20,833 | 82 |
-| 2024-01-04 | 20,866 | 82 |
+| 2024-01-04 | 20,870 | 82 |
 ## Awards
 Max (Amazing Characters): 111  (Ranked 362)  
 Sum: 562 (Ranked 325)  

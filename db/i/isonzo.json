@@ -1057,9 +1057,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9754,
+  "EOS_Progressed": 9755,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10542,6 +10542,11 @@
       "Time": "2024-01-03T20:08:38.7931385+00:00",
       "NumProgressed": 9754,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-04T04:09:19.2111828+00:00",
+      "NumProgressed": 9755,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -10561,7 +10566,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 2048
+      "UsersEstimate": 2049
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -10601,7 +10606,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 3121
+      "UsersEstimate": 3122
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -10625,7 +10630,7 @@
       "Name": "Die Bosniaken Kommen!",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1170
+      "UsersEstimate": 1171
     },
     {
       "ID": "ISONZO_ACH_DIRTY_DOZEN",
@@ -10633,7 +10638,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1170
+      "UsersEstimate": 1171
     },
     {
       "ID": "ISONZO_ACH_DONATELLO",
@@ -10665,7 +10670,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 3121
+      "UsersEstimate": 3122
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -10745,7 +10750,7 @@
       "Name": "Peak Performance",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4389
+      "UsersEstimate": 4390
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -10793,7 +10798,7 @@
       "Name": "Shaken, Not Stirred",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1170
+      "UsersEstimate": 1171
     },
     {
       "ID": "ISONZO_ACH_SILVER_LINING",
@@ -10825,7 +10830,7 @@
       "Name": "The Devil\u0027s Paintbrush",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "ISONZO_ACH_THE_ENLIGHTMENT",
@@ -10865,7 +10870,7 @@
       "Name": "Thus With A Kiss",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "ISONZO_ACH_TOSCA",
@@ -10881,7 +10886,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4877
+      "UsersEstimate": 4878
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -10912,7 +10917,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9754,
+      "Progressed": 9755,
       "Completed": 10
     }
   ],
@@ -10920,8 +10925,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-02T20:59:57.5573345+00:00",
-  "LastChanged_Achievements": "2024-01-04T03:10:08.8229555+00:00",
+  "LastChanged_Achievements": "2024-01-04T04:09:19.2111825+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:27.5115536+00:00",
-  "LastUpdate_Ratings": "2024-01-04T03:01:47.896185+00:00",
-  "LastUpdate_Achievements": "2024-01-04T03:10:08.8230634+00:00"
+  "LastUpdate_Ratings": "2024-01-04T04:00:16.0278279+00:00",
+  "LastUpdate_Achievements": "2024-01-04T04:09:19.211262+00:00"
 }

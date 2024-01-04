@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -269,9 +269,9 @@
       "Count": 93
     }
   ],
-  "EOS_Progressed": 9920,
+  "EOS_Progressed": 9926,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1735,
+  "EOS_NewPlayers": 1726,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3569,6 +3569,11 @@
       "Time": "2024-01-04T03:10:58.5030834+00:00",
       "NumProgressed": 9920,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-04T04:09:58.198626+00:00",
+      "NumProgressed": 9926,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -3581,7 +3586,7 @@
       "Name": "Conspiracy",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1190
+      "UsersEstimate": 1191
     },
     {
       "ID": "03_TheStolenStar",
@@ -3589,7 +3594,7 @@
       "Name": "Stolen Star",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -3693,7 +3698,7 @@
       "Name": "The Rise",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "17_TheExemplar",
@@ -3701,7 +3706,7 @@
       "Name": "Exemplar",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "18_TheRookieSkipper",
@@ -3709,7 +3714,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "19_TheVoidWolf",
@@ -3741,7 +3746,7 @@
       "Name": "Perfect Timing",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "23_DynastyRestored",
@@ -3757,7 +3762,7 @@
       "Name": "Highrise",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "25_DynastyProspers",
@@ -3789,7 +3794,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -3805,7 +3810,7 @@
       "Name": "Greatest Exploration",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "31_DontTouchThis",
@@ -3933,7 +3938,7 @@
       "Name": "A Spark",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "47_AFlame",
@@ -4019,9 +4024,9 @@
       "ID": "57_TheBurningHeritage",
       "SetID": "37a94m8",
       "Name": "Burning Inheritance",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 69
     },
     {
       "ID": "58_KneeDeepInChaos",
@@ -4100,7 +4105,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 9920,
+      "Progressed": 9926,
       "Completed": 1
     }
   ],
@@ -4108,8 +4113,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-04T01:47:10.0035057+00:00",
-  "LastChanged_Achievements": "2024-01-04T03:10:58.5030829+00:00",
+  "LastChanged_Achievements": "2024-01-04T04:09:58.1986256+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2024-01-04T03:03:06.40262+00:00",
-  "LastUpdate_Achievements": "2024-01-04T03:10:58.5031392+00:00"
+  "LastUpdate_Ratings": "2024-01-04T04:02:34.7196245+00:00",
+  "LastUpdate_Achievements": "2024-01-04T04:09:58.198686+00:00"
 }

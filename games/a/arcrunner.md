@@ -31,7 +31,7 @@
 | Hard Boiled | 0.50% | ~5 |
 | Ripperdoc | 0.50% | ~5 |
 | Weaponsmith | 0.30% | ~3 |
-| Cyborg | 0.10% | ~1 |
+| Cyborg | 0.20% | ~2 |
 | Hell Raiser | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 918 (Ranked 295)  

@@ -5,16 +5,16 @@ Rating: 4.14 (Ranked 999)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 44.00% | ~36,419 |
-| As Far Away As Possible | 20.00% | ~16,554 |
-| More Power to You | 19.00% | ~15,726 |
-| A Most Unstable Organism | 14.00% | ~11,588 |
-| No Time to Follow Protocol | 9.00% | ~7,449 |
-| Float Like a Butterfly... | 8.00% | ~6,622 |
-| Nano Connoisseur | 7.00% | ~5,794 |
-| In Two Places At Once | 6.00% | ~4,966 |
-| Pulling Your Weight | 3.00% | ~2,483 |
-| Reaping Rivals | 3.00% | ~2,483 |
+| Your Lucky Day | 44.00% | ~36,425 |
+| As Far Away As Possible | 20.00% | ~16,557 |
+| More Power to You | 19.00% | ~15,729 |
+| A Most Unstable Organism | 14.00% | ~11,590 |
+| No Time to Follow Protocol | 9.00% | ~7,451 |
+| Float Like a Butterfly... | 8.00% | ~6,623 |
+| Nano Connoisseur | 7.00% | ~5,795 |
+| In Two Places At Once | 6.00% | ~4,967 |
+| Pulling Your Weight | 3.00% | ~2,484 |
+| Reaping Rivals | 3.00% | ~2,484 |
 | fifteenth Time's the Charm | 1.00% | ~828 |
 | Gone Rogue | 0.80% | ~662 |
 | Memory Keeper | 0.40% | ~331 |
@@ -22,7 +22,7 @@ Rating: 4.14 (Ranked 999)
 | Runs for Your Money | 0.30% | ~248 |
 | Past Master | 0.30% | ~248 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,770 (Ranked 107)  
+Progressed: 82,785 (Ranked 107)  
 Completed: 62 (0.07%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,14 +152,14 @@ Completed: 62 (0.07%) (Ranked 322)
 | 2024-01-01 | 81,346 | 61 |
 | 2024-01-02 | 82,048 | 61 |
 | 2024-01-03 | 82,692 | 62 |
-| 2024-01-04 | 82,770 | 62 |
+| 2024-01-04 | 82,785 | 62 |
 ## Awards
-Max (Great for Beginners): 128  (Ranked 342)  
-Sum: 544 (Ranked 331)  
+Max (Great for Beginners): 129  (Ranked 342)  
+Sum: 545 (Ranked 331)  
 Diff (max vs sum): 11  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 128 |
+| This game is Great for Beginners | 129 |
 | This game has Diverse Characters | 88 |
 | This game is Highly Recommended | 64 |
 | This game is Extremely Fun | 61 |
@@ -280,4 +280,4 @@ Diff (max vs sum): 11
 | 2024-01-01 | 4.15 | 126 | 490 |
 | 2024-01-02 | 4.15 | 126 | 491 |
 | 2024-01-03 | 4.15 | 128 | 543 |
-| 2024-01-04 | 4.14 | 128 | 544 |
+| 2024-01-04 | 4.14 | 129 | 545 |

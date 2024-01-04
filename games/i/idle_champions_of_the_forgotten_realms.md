@@ -1,15 +1,15 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 1,025)  
+Rating: 4.06 (Ranked 1,026)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 3.00% | ~7,520 |
-| Beast Intentions | 1.00% | ~2,506 |
-| The Cursed Farmer | 1.00% | ~2,506 |
-| The Mad Wizard | 1.00% | ~2,506 |
+| Beast Intentions | 1.00% | ~2,507 |
+| The Cursed Farmer | 1.00% | ~2,507 |
+| The Mad Wizard | 1.00% | ~2,507 |
 | Welcome to Sigil | 0.80% | ~1,735 |
 | The Ring of Regeneration | 0.60% | ~1,504 |
 | Are Ya Chicken? | 0.60% | ~1,504 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~217 |
 | The Brains of an Illithid's Desire | 0.10% | ~217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,650 (Ranked 70)  
+Progressed: 250,662 (Ranked 70)  
 Completed: 2,588 (1.03%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -812,14 +812,14 @@ Completed: 2,588 (1.03%) (Ranked 170)
 | 2024-01-01 | 249,335 | 2,583 |
 | 2024-01-02 | 250,032 | 2,585 |
 | 2024-01-03 | 250,594 | 2,588 |
-| 2024-01-04 | 250,650 | 2,588 |
+| 2024-01-04 | 250,662 | 2,588 |
 ## Awards
-Max (Great for Beginners): 5,730  (Ranked 72)  
-Sum: 33,294 (Ranked 41)  
+Max (Great for Beginners): 5,740  (Ranked 72)  
+Sum: 33,304 (Ranked 41)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 5,730 |
+| This game is Great for Beginners | 5,740 |
 | This game has Diverse Characters | 5,687 |
 | This game has Quickly Understood Controls | 4,888 |
 | This game is Relaxing | 4,760 |
@@ -1172,3 +1172,4 @@ Diff (max vs sum): 31
 | 2024-01-01 | 4.06 | - | 5,726 | 33,249 |
 | 2024-01-02 | 4.06 | - | 5,730 | 33,274 |
 | 2024-01-03 | 4.06 | - | 5,730 | 33,294 |
+| 2024-01-04 | 4.06 | - | 5,740 | 33,304 |

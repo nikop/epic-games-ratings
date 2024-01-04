@@ -7,14 +7,14 @@ Number of Ratings: 98  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You Shall Not Pass | 51.00% | ~4,975 |
-| Tutti Eroi! | 50.00% | ~4,877 |
-| Peak Performance | 45.00% | ~4,389 |
+| Tutti Eroi! | 50.00% | ~4,878 |
+| Peak Performance | 45.00% | ~4,390 |
 | Avanti Savoia! | 44.00% | ~4,292 |
 | Mamma Mia! | 35.00% | ~3,414 |
-| Conrad von Hotzensocks | 32.00% | ~3,121 |
-| Gabriele D'Annunzio | 32.00% | ~3,121 |
+| Conrad von Hotzensocks | 32.00% | ~3,122 |
+| Gabriele D'Annunzio | 32.00% | ~3,122 |
 | Silver Lining | 27.00% | ~2,634 |
-| Aurelio Baruzzi | 21.00% | ~2,048 |
+| Aurelio Baruzzi | 21.00% | ~2,049 |
 | Decimation | 20.00% | ~1,951 |
 | Donatello | 19.00% | ~1,853 |
 | Insubordination | 19.00% | ~1,853 |
@@ -24,12 +24,12 @@ Number of Ratings: 98  (23.09.2022)
 | Luigi Cadorna | 16.00% | ~1,561 |
 | The Lion of the Isonzo | 14.00% | ~1,366 |
 | Uomo Universale | 13.00% | ~1,268 |
-| Die Bosniaken Kommen! | 12.00% | ~1,170 |
-| Dirty Dozen | 12.00% | ~1,170 |
-| Shaken, Not Stirred | 12.00% | ~1,170 |
+| Die Bosniaken Kommen! | 12.00% | ~1,171 |
+| Dirty Dozen | 12.00% | ~1,171 |
+| Shaken, Not Stirred | 12.00% | ~1,171 |
 | Machiavelli | 11.00% | ~1,073 |
-| The Devil's Paintbrush | 10.00% | ~975 |
-| Thus With A Kiss | 10.00% | ~975 |
+| The Devil's Paintbrush | 10.00% | ~976 |
+| Thus With A Kiss | 10.00% | ~976 |
 | Dante's Inferno | 9.00% | ~878 |
 | I Have the High Ground | 9.00% | ~878 |
 | Millenial | 9.00% | ~878 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~39 |
 | Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,754 (Ranked 182)  
+Progressed: 9,755 (Ranked 182)  
 Completed: 10 (0.10%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,6 +305,7 @@ Completed: 10 (0.10%) (Ranked 305)
 | 2024-01-01 | 9,726 | 10 |
 | 2024-01-02 | 9,741 | 10 |
 | 2024-01-03 | 9,754 | 10 |
+| 2024-01-04 | 9,755 | 10 |
 ## Awards
 Max (Diverse Characters): 41  (Ranked 477)  
 Sum: 337 (Ranked 370)  

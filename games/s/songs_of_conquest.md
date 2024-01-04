@@ -8,10 +8,10 @@ Number of Ratings: 292  (23.09.2022)
 | ---- | ---------- | ----- |
 | Adept | 46.00% | ~444 |
 | Double Kill | 40.00% | ~386 |
-| Critical Hit | 22.00% | ~212 |
-| Veteran | 22.00% | ~212 |
+| Critical Hit | 22.00% | ~213 |
+| Veteran | 22.00% | ~213 |
 | Dressed For Success | 15.00% | ~145 |
-| Veni, Vidi, Vici | 10.00% | ~96 |
+| Veni, Vidi, Vici | 10.00% | ~97 |
 | Multi Kill | 9.00% | ~87 |
 | Humiliation | 9.00% | ~87 |
 | Sorcerous Spree | 8.00% | ~77 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 965 (Ranked 290)  
+Progressed: 966 (Ranked 290)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-01 | 923 | 0 |
 | 2024-01-02 | 944 | 0 |
 | 2024-01-03 | 962 | 0 |
-| 2024-01-04 | 965 | 0 |
+| 2024-01-04 | 966 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 29  (Ranked 523)  
 Sum: 251 (Ranked 399)  

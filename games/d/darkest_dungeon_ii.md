@@ -7,8 +7,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 12.00% | ~772 |
-| Lost and Found | 8.00% | ~514 |
-| Autodidact | 7.00% | ~9,209 |
+| Lost and Found | 8.00% | ~515 |
+| Autodidact | 7.00% | ~9,210 |
 | This Belongs in a Museum | 6.00% | ~7,894 |
 | This guy... again? | 6.00% | ~386 |
 | Serenity Now! | 5.00% | ~6,578 |
@@ -19,18 +19,18 @@ Number of Ratings: 7,767  (23.09.2022)
 | Escape from the Black Hole | 5.00% | ~6,578 |
 | Ploughshares to Swords | 5.00% | ~322 |
 | Bloody Graduation | 5.00% | ~322 |
-| Don't Make Me Turn This Coach Around | 4.00% | ~5,262 |
-| It Rings a Bell | 4.00% | ~5,262 |
-| Not Today! | 4.00% | ~5,262 |
-| It Happens | 4.00% | ~5,262 |
-| Rush Hour | 4.00% | ~5,262 |
-| Merry Time | 4.00% | ~5,262 |
-| Harvest Festival | 4.00% | ~5,262 |
-| To Grandmother's House | 4.00% | ~5,262 |
-| Whale | 4.00% | ~5,262 |
-| A Place to Lay Your Head | 4.00% | ~5,262 |
-| FNG | 4.00% | ~5,262 |
-| Nope | 4.00% | ~5,262 |
+| Don't Make Me Turn This Coach Around | 4.00% | ~5,263 |
+| It Rings a Bell | 4.00% | ~5,263 |
+| Not Today! | 4.00% | ~5,263 |
+| It Happens | 4.00% | ~5,263 |
+| Rush Hour | 4.00% | ~5,263 |
+| Merry Time | 4.00% | ~5,263 |
+| Harvest Festival | 4.00% | ~5,263 |
+| To Grandmother's House | 4.00% | ~5,263 |
+| Whale | 4.00% | ~5,263 |
+| A Place to Lay Your Head | 4.00% | ~5,263 |
+| FNG | 4.00% | ~5,263 |
+| Nope | 4.00% | ~5,263 |
 | Friends 'Til the End | 4.00% | ~257 |
 | Resurrection | 3.00% | ~3,947 |
 | Unleash Hell | 3.00% | ~3,947 |
@@ -65,8 +65,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Slap on the Wrist | 1.00% | ~64 |
 | For Old Time' Sake | 1.00% | ~64 |
 | Clearing the Ledger | 0.90% | ~1,184 |
-| Hat Trick | 0.80% | ~1,052 |
-| Triage | 0.80% | ~1,052 |
+| Hat Trick | 0.80% | ~1,053 |
+| Triage | 0.80% | ~1,053 |
 | No Mercy | 0.80% | ~51 |
 | Et Tu, Riposte? | 0.80% | ~51 |
 | The World As It Was | 0.60% | ~789 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,562 (Ranked 91)  
+Progressed: 131,567 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,7 +335,7 @@ Completed: 3 (0.00%) (Ranked 392)
 | 2024-01-01 | 131,206 | 3 |
 | 2024-01-02 | 131,365 | 3 |
 | 2024-01-03 | 131,540 | 3 |
-| 2024-01-04 | 131,562 | 3 |
+| 2024-01-04 | 131,567 | 3 |
 ## Awards
 Max (Character Customization): 7,940  (Ranked 50)  
 Sum: 21,391 (Ranked 58)  

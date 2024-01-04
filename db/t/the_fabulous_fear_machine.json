@@ -499,9 +499,9 @@
       "ID": "19",
       "SetID": "d37idgg",
       "Name": "Giant",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "2",
@@ -515,9 +515,9 @@
       "ID": "20",
       "SetID": "d37idgg",
       "Name": "A rival with no options",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "21",
@@ -659,9 +659,9 @@
       "ID": "37",
       "SetID": "d37idgg",
       "Name": "Pulp! Adventures into the Unknown",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "38",
@@ -683,9 +683,9 @@
       "ID": "4",
       "SetID": "d37idgg",
       "Name": "A continent with chemistry",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "40",
@@ -755,9 +755,9 @@
       "ID": "5",
       "SetID": "d37idgg",
       "Name": "The happy farmer girl",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "6",
@@ -802,8 +802,8 @@
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2024-01-04T03:07:35.9541844+00:00",
+  "LastChanged_Achievements": "2024-01-04T04:06:07.7264241+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:11.5765044+00:00",
-  "LastUpdate_Ratings": "2024-01-04T03:01:54.3795569+00:00",
-  "LastUpdate_Achievements": "2024-01-04T03:07:35.9542197+00:00"
+  "LastUpdate_Ratings": "2024-01-04T04:00:21.5633558+00:00",
+  "LastUpdate_Achievements": "2024-01-04T04:06:07.7264566+00:00"
 }

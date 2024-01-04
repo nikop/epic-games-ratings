@@ -15,12 +15,12 @@ Rating: 4.70 (Ranked 217)
 | Audiophile | 0.20% | ~17 |
 | Clay Pigeon | 0.20% | ~17 |
 | Historian | 0.20% | ~17 |
+| Iconoclast | 0.20% | ~17 |
 | Shredder | 0.20% | ~17 |
 | Arrr! | 0.10% | ~9 |
 | Fashion Faux-Pas | 0.10% | ~9 |
 | Fashion Victim | 0.10% | ~9 |
 | Happy Camper | 0.10% | ~9 |
-| Iconoclast | 0.10% | ~9 |
 | Liberator | 0.10% | ~9 |
 | Live Wire | 0.10% | ~9 |
 | Snip Snip | 0.10% | ~9 |

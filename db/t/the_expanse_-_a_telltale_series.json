@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18148,
+  "EOS_Progressed": 18150,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 532,
+  "EOS_NewPlayers": 533,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -16205,6 +16205,11 @@
       "Time": "2024-01-04T03:05:59.489056+00:00",
       "NumProgressed": 18148,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-04T04:04:50.2124408+00:00",
+      "NumProgressed": 18150,
+      "NumCompleted": 58
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16217,7 +16222,7 @@
       "Name": "Urshanabi Hoarder",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "10",
@@ -16241,7 +16246,7 @@
       "Name": "Data Archivist",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1270
+      "UsersEstimate": 1271
     },
     {
       "ID": "13",
@@ -16249,7 +16254,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3085
+      "UsersEstimate": 3086
     },
     {
       "ID": "14",
@@ -16257,7 +16262,7 @@
       "Name": "Doctor Approved",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 907
+      "UsersEstimate": 908
     },
     {
       "ID": "15",
@@ -16273,7 +16278,7 @@
       "Name": "Drug Gifter",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1270
+      "UsersEstimate": 1271
     },
     {
       "ID": "17",
@@ -16289,7 +16294,7 @@
       "Name": "Bottoms up!",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 907
+      "UsersEstimate": 908
     },
     {
       "ID": "19",
@@ -16393,7 +16398,7 @@
       "Name": "Captain Drummer",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2359
+      "UsersEstimate": 2360
     },
     {
       "ID": "30",
@@ -16425,7 +16430,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2359
+      "UsersEstimate": 2360
     },
     {
       "ID": "7",
@@ -16496,13 +16501,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18148,
+      "Progressed": 18150,
       "Completed": 58
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4102,
+      "Progressed": 4104,
       "Completed": 1177
     }
   ],
@@ -16510,8 +16515,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T23:58:17.8612142+00:00",
-  "LastChanged_Achievements": "2024-01-04T03:05:59.4890557+00:00",
+  "LastChanged_Achievements": "2024-01-04T04:04:50.2124403+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2024-01-04T03:01:22.245662+00:00",
-  "LastUpdate_Achievements": "2024-01-04T03:05:59.4891572+00:00"
+  "LastUpdate_Ratings": "2024-01-04T03:59:56.4173306+00:00",
+  "LastUpdate_Achievements": "2024-01-04T04:04:50.2125187+00:00"
 }

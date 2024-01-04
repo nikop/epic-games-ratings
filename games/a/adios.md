@@ -1,28 +1,28 @@
 # Adios
 [Store](https://store.epicgames.com/en-US/p/adios-b378b4)  
 [View Rawdata](../../db/a/adios.json)  
-Rating: 3.47 (Ranked 1,089)  
+Rating: 3.51 (Ranked 1,089)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 22.00% | ~18,174 |
-| Master, Commander | 21.00% | ~17,347 |
-| Hard Worker | 20.00% | ~16,521 |
-| Adios, Friendo | 19.00% | ~15,695 |
-| Mechanic | 19.00% | ~15,695 |
-| Bottom's Up | 18.00% | ~14,869 |
-| Nice Try | 16.00% | ~13,217 |
-| Right On Target | 14.00% | ~11,565 |
-| Piano Man | 11.00% | ~9,087 |
+| Be Seeing You | 22.00% | ~18,175 |
+| Master, Commander | 21.00% | ~17,349 |
+| Hard Worker | 20.00% | ~16,523 |
+| Adios, Friendo | 19.00% | ~15,697 |
+| Mechanic | 19.00% | ~15,697 |
+| Bottom's Up | 18.00% | ~14,871 |
+| Nice Try | 16.00% | ~13,218 |
+| Right On Target | 14.00% | ~11,566 |
+| Piano Man | 11.00% | ~9,088 |
 | Lazy Bones | 9.00% | ~7,435 |
 | Vinyl Vibes | 8.00% | ~6,609 |
-| Nothing Left to Say | 7.00% | ~5,782 |
-| Sniper | 7.00% | ~5,782 |
-| Cut Call | 6.00% | ~4,956 |
-| Magnetic Miracles | 5.00% | ~4,130 |
-| Butcher | 4.00% | ~3,304 |
-| Fair's Fair | 4.00% | ~3,304 |
-| Spicy | 4.00% | ~3,304 |
+| Nothing Left to Say | 7.00% | ~5,783 |
+| Sniper | 7.00% | ~5,783 |
+| Cut Call | 6.00% | ~4,957 |
+| Magnetic Miracles | 5.00% | ~4,131 |
+| Butcher | 4.00% | ~3,305 |
+| Fair's Fair | 4.00% | ~3,305 |
+| Spicy | 4.00% | ~3,305 |
 | A Man Of Taste | 3.00% | ~2,478 |
 | Ace in the Hole | 3.00% | ~2,478 |
 | Hearty | 3.00% | ~2,478 |
@@ -31,7 +31,7 @@ Rating: 3.47 (Ranked 1,089)
 | Audiophile | 2.00% | ~1,652 |
 | Tape Head | 2.00% | ~1,652 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,607 (Ranked 108)  
+Progressed: 82,614 (Ranked 108)  
 Completed: 914 (1.11%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 914 (1.11%) (Ranked 165)
 | 2024-01-01 | 82,385 | 908 |
 | 2024-01-02 | 82,485 | 909 |
 | 2024-01-03 | 82,592 | 914 |
-| 2024-01-04 | 82,607 | 914 |
+| 2024-01-04 | 82,614 | 914 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -312,3 +312,4 @@ Completed: 914 (1.11%) (Ranked 165)
 | 2023-11-28 | 3.53 | 0 | 0 |
 | 2023-12-22 | 3.46 | 0 | 0 |
 | 2023-12-24 | 3.47 | 0 | 0 |
+| 2024-01-04 | 3.51 | 0 | 0 |

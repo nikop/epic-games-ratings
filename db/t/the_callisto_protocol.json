@@ -2015,9 +2015,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 20866,
+  "EOS_Progressed": 20870,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1214,
+  "EOS_NewPlayers": 1215,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -12450,6 +12450,11 @@
       "Time": "2024-01-04T03:10:29.004762+00:00",
       "NumProgressed": 20866,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-04T04:09:35.0192464+00:00",
+      "NumProgressed": 20870,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -12477,7 +12482,7 @@
       "Name": "Giving Back",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1669
+      "UsersEstimate": 1670
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -12485,7 +12490,7 @@
       "Name": "You Need a Gun",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 1669
+      "UsersEstimate": 1670
     },
     {
       "ID": "DISARM_ENEMY",
@@ -12493,7 +12498,7 @@
       "Name": "Flesh Wound",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 4799
+      "UsersEstimate": 4800
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -12589,7 +12594,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 3756
+      "UsersEstimate": 3757
     },
     {
       "ID": "KILL_ROBOT",
@@ -12605,7 +12610,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 2921
+      "UsersEstimate": 2922
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -12613,7 +12618,7 @@
       "Name": "The Commonality",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1044
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -12637,7 +12642,7 @@
       "Name": "Paper Jams",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4173
+      "UsersEstimate": 4174
     },
     {
       "ID": "SHARE_PHOTO",
@@ -12653,7 +12658,7 @@
       "Name": "The Outer Way",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 4799
+      "UsersEstimate": 4800
     },
     {
       "ID": "STORY_ESCAPE",
@@ -12661,7 +12666,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2921
+      "UsersEstimate": 2922
     },
     {
       "ID": "STORY_HABITAT",
@@ -12693,7 +12698,7 @@
       "Name": "Desperate Times",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 4382
+      "UsersEstimate": 4383
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -12813,7 +12818,7 @@
       "Name": "Keep Fighting",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -12836,13 +12841,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 20866,
+      "Progressed": 20870,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 8792,
+      "Progressed": 8796,
       "Completed": 29
     }
   ],
@@ -12850,8 +12855,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-03T23:03:55.8277334+00:00",
-  "LastChanged_Achievements": "2024-01-04T03:10:29.0047615+00:00",
+  "LastChanged_Achievements": "2024-01-04T04:09:35.0192461+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.412859+00:00",
-  "LastUpdate_Ratings": "2024-01-04T03:03:57.5132412+00:00",
-  "LastUpdate_Achievements": "2024-01-04T03:10:29.0048558+00:00"
+  "LastUpdate_Ratings": "2024-01-04T04:03:14.0202299+00:00",
+  "LastUpdate_Achievements": "2024-01-04T04:09:35.0193252+00:00"
 }

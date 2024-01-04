@@ -3,8 +3,8 @@
   "Name": "Endling - Extinction is Forever",
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 339,
-  "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_Completed": 217,
+  "Ranking_EOS_NewPlayers": 392,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 582,
+  "EOS_Progressed": 583,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.52,
+  "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:20.8598224+00:00",
@@ -1094,6 +1094,11 @@
       "Time": "2024-01-02T23:10:47.4231023+00:00",
       "NumProgressed": 582,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-04T04:10:06.6375075+00:00",
+      "NumProgressed": 583,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -1145,7 +1150,7 @@
       "Name": "A Friend in Need",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "TROP006",
@@ -1161,7 +1166,7 @@
       "Name": "Family Reunion",
       "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "TROP008",
@@ -1169,7 +1174,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "TROP009",
@@ -1177,15 +1182,15 @@
       "Name": "Surviving",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "TROP010",
       "SetID": "9n0dl35",
       "Name": "Hard Fox Life",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 60,
-      "UsersEstimate": 140
+      "UsersEstimate": 134
     },
     {
       "ID": "TROP011",
@@ -1233,7 +1238,7 @@
       "Name": "Beyond Words",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "TROP017",
@@ -1273,7 +1278,7 @@
       "Name": "Tasty",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "TROP022",
@@ -1289,7 +1294,7 @@
       "Name": "Detox diet",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "TROP024",
@@ -1328,7 +1333,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 582,
+      "Progressed": 583,
       "Completed": 3
     }
   ],
@@ -1336,8 +1341,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2024-01-04T03:11:08.8145874+00:00",
+  "LastChanged_Achievements": "2024-01-04T04:10:06.6375073+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:39.1770758+00:00",
-  "LastUpdate_Ratings": "2024-01-04T02:58:14.8952097+00:00",
-  "LastUpdate_Achievements": "2024-01-04T03:11:08.8146094+00:00"
+  "LastUpdate_Ratings": "2024-01-04T03:57:35.9465042+00:00",
+  "LastUpdate_Achievements": "2024-01-04T04:10:06.6375396+00:00"
 }
