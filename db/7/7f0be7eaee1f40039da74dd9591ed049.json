@@ -4,7 +4,7 @@
   "ProductSlug": "quick-race-293d39",
   "Ranking_EOS_Progress": 544,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-12-29T17:00:00+00:00",
@@ -332,9 +332,9 @@
       "ID": "3_RACES",
       "SetID": "2g288ag",
       "Name": "Triple Threat",
-      "Percentage": 72,
+      "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "5_MAPS",
@@ -348,9 +348,9 @@
       "ID": "5_RACES",
       "SetID": "2g288ag",
       "Name": "Quintessential Quest",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "NO_CRASH",
@@ -378,8 +378,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-23T19:03:08.11154+00:00",
-  "LastChanged_Achievements": "2024-01-03T23:05:32.9062035+00:00",
+  "LastChanged_Achievements": "2024-01-04T00:04:14.3203343+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:41.1375402+00:00",
-  "LastUpdate_Ratings": "2024-01-03T22:59:49.0706746+00:00",
-  "LastUpdate_Achievements": "2024-01-03T23:05:32.9062225+00:00"
+  "LastUpdate_Ratings": "2024-01-03T23:58:36.7607939+00:00",
+  "LastUpdate_Achievements": "2024-01-04T00:04:14.3203432+00:00"
 }

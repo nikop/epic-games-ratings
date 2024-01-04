@@ -2,12 +2,12 @@
   "ID": "cb88aea9aed742e4a911a65c4898d857",
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
-  "Ranking_Rating": 283,
+  "Ranking_Rating": 282,
   "Ranking_Popularity": 391,
   "Ranking_PopularitySum": 473,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -263,9 +263,9 @@
       "Count": 90
     }
   ],
-  "EOS_Progressed": 9897,
+  "EOS_Progressed": 9901,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1745,
+  "EOS_NewPlayers": 1736,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3543,6 +3543,11 @@
       "Time": "2024-01-03T23:10:57.4071654+00:00",
       "NumProgressed": 9897,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-04T00:09:51.463887+00:00",
+      "NumProgressed": 9901,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -4035,7 +4040,7 @@
       "Name": "Invisible Bureaucracy",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "63_YouShouldGoToAnotherWindow",
@@ -4074,7 +4079,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 9897,
+      "Progressed": 9901,
       "Completed": 1
     }
   ],
@@ -4082,8 +4087,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-03T03:00:34.4543831+00:00",
-  "LastChanged_Achievements": "2024-01-03T23:10:57.4071651+00:00",
+  "LastChanged_Achievements": "2024-01-04T00:09:51.4638864+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:12.9794893+00:00",
-  "LastUpdate_Ratings": "2024-01-03T23:02:32.191089+00:00",
-  "LastUpdate_Achievements": "2024-01-03T23:10:57.4072312+00:00"
+  "LastUpdate_Ratings": "2024-01-04T00:02:34.26625+00:00",
+  "LastUpdate_Achievements": "2024-01-04T00:09:51.4639512+00:00"
 }

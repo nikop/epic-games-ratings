@@ -162,9 +162,9 @@
       "ID": "craft_some_items",
       "SetID": "5o7abj2",
       "Name": "Crafty",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "defeat_crowd",
@@ -186,17 +186,17 @@
       "ID": "dialogue_lots_items",
       "SetID": "5o7abj2",
       "Name": "No Time For Words",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "dialogue_some_ink",
       "SetID": "5o7abj2",
       "Name": "Plot Twist",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "dialogue_some_items",
@@ -361,8 +361,8 @@
   ],
   "FirstSeen": "2023-06-24T19:57:11.4257975+00:00",
   "FirstSeenAchievements": "2023-06-14T13:08:04.4229366+00:00",
-  "LastChanged_Achievements": "2024-01-03T23:11:04.918674+00:00",
+  "LastChanged_Achievements": "2024-01-04T00:09:56.7462846+00:00",
   "LastUpdate_AppInfo": "2023-12-28T03:57:19.4011766+00:00",
-  "LastUpdate_Ratings": "2024-01-03T23:01:57.4893175+00:00",
-  "LastUpdate_Achievements": "2024-01-03T23:11:04.9186993+00:00"
+  "LastUpdate_Ratings": "2024-01-04T00:00:01.7406852+00:00",
+  "LastUpdate_Achievements": "2024-01-04T00:09:56.7463104+00:00"
 }

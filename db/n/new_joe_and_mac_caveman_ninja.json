@@ -4,7 +4,7 @@
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 384,
+  "Ranking_EOS_NewPlayers": 376,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 284,
+  "EOS_Progressed": 285,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.46,
   "EosHistory": [
@@ -686,6 +686,11 @@
       "Time": "2024-01-03T11:04:26.081011+00:00",
       "NumProgressed": 284,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-04T00:04:36.3462964+00:00",
+      "NumProgressed": 285,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 15,
@@ -695,9 +700,9 @@
       "ID": "01",
       "SetID": "6glb5g1",
       "Name": "The T-Rex plain.",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 139
+      "UsersEstimate": 137
     },
     {
       "ID": "02",
@@ -719,9 +724,9 @@
       "ID": "04",
       "SetID": "6glb5g1",
       "Name": "At the top of the mountain.",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 48
+      "UsersEstimate": 46
     },
     {
       "ID": "05",
@@ -816,7 +821,7 @@
     {
       "ID": "6glb5g1",
       "IsBase": true,
-      "Progressed": 284,
+      "Progressed": 285,
       "Completed": 7
     }
   ],
@@ -824,8 +829,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2024-01-03T23:06:04.5666366+00:00",
+  "LastChanged_Achievements": "2024-01-04T00:04:36.3462961+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:56:57.5978328+00:00",
-  "LastUpdate_Ratings": "2024-01-03T22:58:29.622011+00:00",
-  "LastUpdate_Achievements": "2024-01-03T23:06:04.5666494+00:00"
+  "LastUpdate_Ratings": "2024-01-03T23:57:44.723596+00:00",
+  "LastUpdate_Achievements": "2024-01-04T00:04:36.3463074+00:00"
 }

@@ -400,9 +400,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5224,
+  "EOS_Progressed": 5226,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -4655,6 +4655,11 @@
       "Time": "2024-01-03T21:05:30.0895684+00:00",
       "NumProgressed": 5224,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-04T00:04:24.4594084+00:00",
+      "NumProgressed": 5226,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -4666,7 +4671,7 @@
       "Name": "P.A.X",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1933
+      "UsersEstimate": 1934
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -4714,7 +4719,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4388
+      "UsersEstimate": 4390
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -4722,7 +4727,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4911
+      "UsersEstimate": 4912
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -4730,7 +4735,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3970
+      "UsersEstimate": 3972
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -4794,7 +4799,7 @@
       "Name": "Sunglasses at Night",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "ID_ACHIEV_18",
@@ -4834,7 +4839,7 @@
       "Name": "Right Tool for the Job",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "ID_ACHIEV_23",
@@ -4866,7 +4871,7 @@
       "Name": "Ghost in the Machine",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ID_ACHIEV_27",
@@ -4882,7 +4887,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3970
+      "UsersEstimate": 3972
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -4914,7 +4919,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 2821
+      "UsersEstimate": 2822
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -4930,7 +4935,7 @@
       "Name": "Most Wanted",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1359
     },
     {
       "ID": "ID_ACHIEV_36",
@@ -4946,7 +4951,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1724
+      "UsersEstimate": 1725
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -4962,7 +4967,7 @@
       "Name": "Homo Machinalis",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ID_ACHIEV_40",
@@ -4970,7 +4975,7 @@
       "Name": "Was That Yours?",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ID_ACHIEV_41",
@@ -4978,7 +4983,7 @@
       "Name": "Guard Dog",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ID_ACHIEV_42",
@@ -5000,9 +5005,9 @@
       "ID": "ID_ACHIEV_44",
       "SetID": "98bke8c",
       "Name": "GOLIATH",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1045
     },
     {
       "ID": "ID_ACHIEV_45",
@@ -5010,7 +5015,7 @@
       "Name": "OPERATOR",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1828
+      "UsersEstimate": 1829
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -5050,7 +5055,7 @@
       "Name": "Carbon Cat",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "ID_ACHIEV_51",
@@ -5058,7 +5063,7 @@
       "Name": "Carbon Cat vs Iron Maus",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ID_ACHIEV_52",
@@ -5066,7 +5071,7 @@
       "Name": "Dress Up",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ID_ACHIEV_53",
@@ -5074,7 +5079,7 @@
       "Name": "New Gear",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ID_ACHIEV_54",
@@ -5090,7 +5095,7 @@
       "Name": "Good Listener",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ID_ACHIEV_56",
@@ -5122,7 +5127,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ID_ACHIEV_60",
@@ -5138,7 +5143,7 @@
       "Name": "Episodic",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ID_ACHIEV_62",
@@ -5170,7 +5175,7 @@
       "Name": "End of Transmission",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ID_ACHIEV_66",
@@ -5178,7 +5183,7 @@
       "Name": "Gramophone Enthusiast",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ID_ACHIEV_67",
@@ -5201,15 +5206,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5224,
+      "Progressed": 5226,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-31T19:58:10.5906343+00:00",
-  "LastChanged_Achievements": "2024-01-03T23:05:47.4743782+00:00",
+  "LastChanged_Achievements": "2024-01-04T00:04:24.4594081+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:44.5404504+00:00",
-  "LastUpdate_Ratings": "2024-01-03T23:00:26.4157621+00:00",
-  "LastUpdate_Achievements": "2024-01-03T23:05:47.474447+00:00"
+  "LastUpdate_Ratings": "2024-01-03T23:59:01.2136741+00:00",
+  "LastUpdate_Achievements": "2024-01-04T00:04:24.4594751+00:00"
 }

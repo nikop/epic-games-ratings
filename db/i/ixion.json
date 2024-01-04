@@ -5,9 +5,9 @@
   "Ranking_Rating": 445,
   "Ranking_Popularity": 578,
   "Ranking_PopularitySum": 578,
-  "Ranking_EOS_Progress": 212,
+  "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -329,9 +329,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3940,
+  "EOS_Progressed": 3941,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7814,6 +7814,11 @@
       "Time": "2024-01-03T23:08:44.4973165+00:00",
       "NumProgressed": 3940,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T00:08:17.0423834+00:00",
+      "NumProgressed": 3941,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -7825,7 +7830,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "ACH_BASE_10",
@@ -8121,7 +8126,7 @@
       "Name": "Permanent Redesigns",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "ACH_BASE_49",
@@ -8280,13 +8285,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 2124,
+      "Progressed": 2125,
       "Completed": 10
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3940,
+      "Progressed": 3941,
       "Completed": 0
     }
   ],
@@ -8294,8 +8299,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2024-01-02T02:20:24.7743828+00:00",
-  "LastChanged_Achievements": "2024-01-03T23:08:44.4973162+00:00",
+  "LastChanged_Achievements": "2024-01-04T00:08:17.0423831+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:27.7465752+00:00",
-  "LastUpdate_Ratings": "2024-01-03T22:59:04.2593205+00:00",
-  "LastUpdate_Achievements": "2024-01-03T23:08:44.4974051+00:00"
+  "LastUpdate_Ratings": "2024-01-03T23:58:08.0410425+00:00",
+  "LastUpdate_Achievements": "2024-01-04T00:08:17.0424562+00:00"
 }

@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 1239,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3241,9 +3241,9 @@
       "ID": "CompleteChapter15",
       "SetID": "52ail55",
       "Name": "The Great Scheme",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 112
     },
     {
       "ID": "CompleteChapter16",
@@ -3440,8 +3440,8 @@
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2024-01-03T23:09:03.9310587+00:00",
+  "LastChanged_Achievements": "2024-01-04T00:08:31.1812658+00:00",
   "LastUpdate_AppInfo": "2023-12-29T09:57:13.5043463+00:00",
-  "LastUpdate_Ratings": "2024-01-03T23:01:30.0239667+00:00",
-  "LastUpdate_Achievements": "2024-01-03T23:09:03.9310935+00:00"
+  "LastUpdate_Ratings": "2024-01-03T23:59:42.2429007+00:00",
+  "LastUpdate_Achievements": "2024-01-04T00:08:31.1813089+00:00"
 }

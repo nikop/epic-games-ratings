@@ -11,13 +11,13 @@ Rating: 4.57 (Ranked 490)
 | The field base | 44.00% | ~592 |
 | The Alliance | 39.00% | ~525 |
 | Survivors | 38.00% | ~511 |
-| The Condor | 36.00% | ~484 |
+| The Condor | 36.00% | ~485 |
 | The End | 35.00% | ~471 |
 | The Necroevolution | 28.00% | ~377 |
 | Krauta is alive | 27.00% | ~363 |
-| On her own | 21.00% | ~282 |
-| Peacemaker | 21.00% | ~282 |
-| Volcanologist | 21.00% | ~282 |
+| On her own | 21.00% | ~283 |
+| Peacemaker | 21.00% | ~283 |
+| Volcanologist | 21.00% | ~283 |
 | Fierce fight | 20.00% | ~269 |
 | Evacuation | 19.00% | ~256 |
 | Beyond divisions | 17.00% | ~229 |
@@ -28,14 +28,14 @@ Rating: 4.57 (Ranked 490)
 | I leave no man behind | 9.00% | ~121 |
 | Innate curiosity | 7.00% | ~94 |
 | Ubiquitous holes | 6.00% | ~81 |
-| The Invincible | 6.00% | ~81 |
 | Strong objection | 6.00% | ~81 |
+| The Invincible | 5.00% | ~67 |
 | Got lost again | 5.00% | ~67 |
 | I leave no man behind (no exceptions) | 2.00% | ~27 |
 | Convoy list | 1.00% | ~13 |
 | No more mistakes | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,345 (Ranked 272)  
+Progressed: 1,346 (Ranked 272)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,6 +95,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-01 | 1,273 | 0 |
 | 2024-01-02 | 1,309 | 0 |
 | 2024-01-03 | 1,345 | 0 |
+| 2024-01-04 | 1,346 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

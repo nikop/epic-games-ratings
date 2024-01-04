@@ -1,19 +1,19 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.29 (Ranked 876)  
+Rating: 4.29 (Ranked 875)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~165,709 |
+| Corner Clout | 46.00% | ~165,710 |
 | Copacetic Coordination | 16.00% | ~57,638 |
-| Fronting the Money | 15.00% | ~54,035 |
-| The Dawn of Automation | 14.00% | ~50,433 |
-| Extraordinary Logistics | 14.00% | ~50,433 |
+| Fronting the Money | 15.00% | ~54,036 |
+| The Dawn of Automation | 14.00% | ~50,434 |
+| Extraordinary Logistics | 14.00% | ~50,434 |
 | Dirty Money | 13.00% | ~46,831 |
 | Family First | 13.00% | ~46,831 |
-| Cleaning House | 12.00% | ~43,228 |
-| Room in the Back | 12.00% | ~43,228 |
+| Cleaning House | 12.00% | ~43,229 |
+| Room in the Back | 12.00% | ~43,229 |
 | Beating the Heat | 11.00% | ~39,626 |
 | Booze Baron | 11.00% | ~39,626 |
 | Friends on the Force | 10.00% | ~36,024 |
@@ -36,12 +36,12 @@ Rating: 4.29 (Ranked 876)
 | Opportunity Knocked | 5.00% | ~18,012 |
 | City of Big Shoulders | 5.00% | ~18,012 |
 | Mission Mastery | 5.00% | ~18,012 |
-| Considerable Clams | 4.00% | ~14,409 |
-| Gin Joint | 4.00% | ~14,409 |
-| An Affront to the Enemy | 4.00% | ~14,409 |
-| Friends from Back Home | 4.00% | ~14,409 |
-| Bees Knees Bootlegger | 4.00% | ~14,409 |
-| Half Century Mark | 4.00% | ~14,409 |
+| Considerable Clams | 4.00% | ~14,410 |
+| Gin Joint | 4.00% | ~14,410 |
+| An Affront to the Enemy | 4.00% | ~14,410 |
+| Friends from Back Home | 4.00% | ~14,410 |
+| Bees Knees Bootlegger | 4.00% | ~14,410 |
+| Half Century Mark | 4.00% | ~14,410 |
 | Corner Opportunities | 3.00% | ~10,807 |
 | 2122 North Clark Street | 3.00% | ~10,807 |
 | Copious Cabbage | 3.00% | ~10,807 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 876)
 | High Pillow | 0.10% | ~360 |
 | Station Master | 0.10% | ~360 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 360,236 (Ranked 56)  
+Progressed: 360,240 (Ranked 56)  
 Completed: 7 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -345,6 +345,7 @@ Completed: 7 (0.00%) (Ranked 392)
 | 2024-01-01 | 359,873 | 7 |
 | 2024-01-02 | 360,046 | 7 |
 | 2024-01-03 | 360,236 | 7 |
+| 2024-01-04 | 360,240 | 7 |
 ## Awards
 Max (Great for Beginners): 58  (Ranked 430)  
 Sum: 268 (Ranked 393)  

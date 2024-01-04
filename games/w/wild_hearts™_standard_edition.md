@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Land of the Rising Sun | 100.00% | ~1,099 |
-| Hidden History | 72.00% | ~791 |
-| Commencing of Quests | 61.00% | ~670 |
-| Budding Conjuror | 60.00% | ~659 |
+| Land of the Rising Sun | 100.00% | ~1,100 |
+| Hidden History | 72.00% | ~792 |
+| Commencing of Quests | 61.00% | ~671 |
+| Budding Conjuror | 59.00% | ~649 |
 | Man-Machine Master | 49.00% | ~539 |
 | Mountain Splitter | 48.00% | ~528 |
 | Charmed by the Hunt | 48.00% | ~528 |
@@ -53,7 +53,7 @@
 | Big Spender | 5.00% | ~55 |
 | Tsukumo Whisperer | 3.00% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,099 (Ranked 285)  
+Progressed: 1,100 (Ranked 285)  
 Completed: 8 (0.73%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,3 +164,4 @@ Completed: 8 (0.73%) (Ranked 193)
 | 2024-01-01 | 1,065 | 8 |
 | 2024-01-02 | 1,084 | 8 |
 | 2024-01-03 | 1,099 | 8 |
+| 2024-01-04 | 1,100 | 8 |

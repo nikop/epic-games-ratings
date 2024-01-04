@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15186,
+  "EOS_Progressed": 15187,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 271,
+  "EOS_NewPlayers": 268,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18220,6 +18220,11 @@
       "Time": "2024-01-03T23:04:26.2171965+00:00",
       "NumProgressed": 15186,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T00:03:29.5448051+00:00",
+      "NumProgressed": 15187,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -18319,7 +18324,7 @@
       "Name": "Facepalm",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2733
+      "UsersEstimate": 2734
     },
     {
       "ID": "ACH_TEN_WORD_PACKAGES",
@@ -18423,14 +18428,14 @@
       "Name": "First Sketch",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2733
+      "UsersEstimate": 2734
     }
   ],
   "AchievementSets": [
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 15186,
+      "Progressed": 15187,
       "Completed": 0
     }
   ],
@@ -18438,8 +18443,8 @@
   "FirstSeenRating": "2023-12-27T16:58:07.3955203+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
   "LastChanged": "2023-12-27T16:58:07.3955204+00:00",
-  "LastChanged_Achievements": "2024-01-03T23:04:26.2171961+00:00",
+  "LastChanged_Achievements": "2024-01-04T00:03:29.5448047+00:00",
   "LastUpdate_AppInfo": "2023-12-30T07:56:57.9484971+00:00",
-  "LastUpdate_Ratings": "2024-01-03T22:58:05.8230071+00:00",
-  "LastUpdate_Achievements": "2024-01-03T23:04:26.2173011+00:00"
+  "LastUpdate_Ratings": "2024-01-03T23:57:29.7545007+00:00",
+  "LastUpdate_Achievements": "2024-01-04T00:03:29.5449233+00:00"
 }

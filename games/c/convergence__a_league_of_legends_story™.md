@@ -6,10 +6,10 @@ Rating: 4.65 (Ranked 320)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 44.00% | ~535 |
-| Rail Rat | 33.00% | ~401 |
+| Rail Rat | 33.00% | ~402 |
 | The Mysterious Stranger | 32.00% | ~389 |
-| Immaculate Aim | 28.00% | ~340 |
-| The Brass Boss | 27.00% | ~328 |
+| Immaculate Aim | 28.00% | ~341 |
+| The Brass Boss | 27.00% | ~329 |
 | Make Up For Lost Time | 25.00% | ~304 |
 | Time Flies | 25.00% | ~304 |
 | No, Thanks! | 25.00% | ~304 |
@@ -20,17 +20,17 @@ Rating: 4.65 (Ranked 320)
 | Immaculate Aim | 24.00% | ~292 |
 | The Steel Shadow | 23.00% | ~280 |
 | Breaking Down Barriers | 23.00% | ~280 |
+| Right On Time | 22.00% | ~268 |
 | The Wicked Twins | 22.00% | ~268 |
-| Right On Time | 21.00% | ~255 |
-| Like Clockwork | 21.00% | ~255 |
-| The Betrayer | 21.00% | ~255 |
-| Golem Chaser | 21.00% | ~255 |
+| Like Clockwork | 21.00% | ~256 |
+| The Betrayer | 21.00% | ~256 |
+| Golem Chaser | 21.00% | ~256 |
 | Check Your Pulse | 20.00% | ~243 |
 | The Loose Cannon | 19.00% | ~231 |
 | Street Style | 18.00% | ~219 |
 | The Man Who Shattered Time | 18.00% | ~219 |
 | The Family Fortune | 18.00% | ~219 |
-| Whiz Kid | 15.00% | ~182 |
+| Whiz Kid | 15.00% | ~183 |
 | Good Neighbor | 14.00% | ~170 |
 | Family Memories | 13.00% | ~158 |
 | Cartographer | 13.00% | ~158 |
@@ -42,7 +42,7 @@ Rating: 4.65 (Ranked 320)
 | Factorywood Explorer | 10.00% | ~122 |
 | Fairgrounds Explorer | 10.00% | ~122 |
 | Theater Explorer | 10.00% | ~122 |
-| Cultivair Explorer | 9.00% | ~109 |
+| Cultivair Explorer | 9.00% | ~110 |
 | Corin Goes Home | 8.00% | ~97 |
 | Entresol Explorer | 8.00% | ~97 |
 | Sartorialist | 7.00% | ~85 |
@@ -59,7 +59,7 @@ Rating: 4.65 (Ranked 320)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,216 (Ranked 280)  
+Progressed: 1,217 (Ranked 280)  
 Completed: 6 (0.49%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,6 +224,7 @@ Completed: 6 (0.49%) (Ranked 220)
 | 2024-01-01 | 1,190 | 6 |
 | 2024-01-02 | 1,201 | 6 |
 | 2024-01-03 | 1,216 | 6 |
+| 2024-01-04 | 1,217 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

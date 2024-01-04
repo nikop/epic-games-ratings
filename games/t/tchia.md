@@ -8,9 +8,9 @@ Rating: 4.70 (Ranked 217)
 | In a Pinch | 1.00% | ~87 |
 | Energy Saver | 0.90% | ~78 |
 | The Journey Onwards | 0.50% | ~43 |
+| Body and Soul | 0.40% | ~35 |
 | Soul-Canon | 0.40% | ~35 |
 | Ahem Ahem | 0.30% | ~26 |
-| Body and Soul | 0.30% | ~26 |
 | Globe Trotter | 0.30% | ~26 |
 | Audiophile | 0.20% | ~17 |
 | Clay Pigeon | 0.20% | ~17 |

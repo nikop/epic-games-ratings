@@ -301,7 +301,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 930,
+  "EOS_Progressed": 931,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
@@ -3306,6 +3306,11 @@
       "Time": "2024-01-03T23:04:38.7768086+00:00",
       "NumProgressed": 930,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-04T00:03:36.4658893+00:00",
+      "NumProgressed": 931,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3363,9 +3368,9 @@
       "ID": "hire-lieutenant",
       "SetID": "bed33dd",
       "Name": "Our Man",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 781
+      "UsersEstimate": 773
     },
     {
       "ID": "kill-lieutenants",
@@ -3381,7 +3386,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "play-at-night",
@@ -3405,7 +3410,7 @@
       "Name": "Bad Trip",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "rename-lieutenant",
@@ -3468,15 +3473,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 930,
+      "Progressed": 931,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-23T10:57:58.3271618+00:00",
-  "LastChanged_Achievements": "2024-01-03T23:04:38.7768082+00:00",
+  "LastChanged_Achievements": "2024-01-04T00:03:36.4658889+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:28.1140989+00:00",
-  "LastUpdate_Ratings": "2024-01-03T23:03:22.9165048+00:00",
-  "LastUpdate_Achievements": "2024-01-03T23:04:38.7768383+00:00"
+  "LastUpdate_Ratings": "2024-01-04T00:02:48.0226941+00:00",
+  "LastUpdate_Achievements": "2024-01-04T00:03:36.4659163+00:00"
 }

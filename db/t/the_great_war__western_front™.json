@@ -5,9 +5,9 @@
   "Ranking_Rating": 1060,
   "Ranking_Popularity": 578,
   "Ranking_PopularitySum": 578,
-  "Ranking_EOS_Progress": 302,
+  "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -115,9 +115,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 841,
+  "EOS_Progressed": 843,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3690,6 +3690,11 @@
       "Time": "2024-01-03T21:06:19.7346326+00:00",
       "NumProgressed": 841,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T00:05:00.3046453+00:00",
+      "NumProgressed": 843,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -3755,7 +3760,7 @@
       "ID": "REACH_DECEMBER_1919",
       "SetID": "6kcl14p",
       "Name": "That\u0027s Not What Happened",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 70,
       "UsersEstimate": 8
     },
@@ -3765,7 +3770,7 @@
       "Name": "Earth Shattering",
       "Percentage": 45,
       "XP": 90,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -3796,7 +3801,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 841,
+      "Progressed": 843,
       "Completed": 0
     }
   ],
@@ -3804,8 +3809,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-12-31T09:58:52.6483653+00:00",
-  "LastChanged_Achievements": "2024-01-03T23:06:38.9018782+00:00",
+  "LastChanged_Achievements": "2024-01-04T00:05:00.3046451+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:29.6055115+00:00",
-  "LastUpdate_Ratings": "2024-01-03T23:02:32.3821807+00:00",
-  "LastUpdate_Achievements": "2024-01-03T23:06:38.9019025+00:00"
+  "LastUpdate_Ratings": "2024-01-04T00:02:34.3820502+00:00",
+  "LastUpdate_Achievements": "2024-01-04T00:05:00.3046694+00:00"
 }

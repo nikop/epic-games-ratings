@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -296,7 +296,7 @@
   ],
   "EOS_Progressed": 301,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1564,9 +1564,9 @@
       "ID": "ACH_COMPLETE_OJ01",
       "SetID": "4n84pon",
       "Name": "Transmitting From Sol-3",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_COP_THROUGH_DONUT",
@@ -1845,8 +1845,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-03T11:58:36.9448322+00:00",
-  "LastChanged_Achievements": "2024-01-03T23:09:55.7440657+00:00",
+  "LastChanged_Achievements": "2024-01-04T00:09:07.8252893+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.261947+00:00",
-  "LastUpdate_Ratings": "2024-01-03T22:59:30.0633809+00:00",
-  "LastUpdate_Achievements": "2024-01-03T23:09:55.7441049+00:00"
+  "LastUpdate_Ratings": "2024-01-03T23:58:25.0420294+00:00",
+  "LastUpdate_Achievements": "2024-01-04T00:09:07.8253289+00:00"
 }

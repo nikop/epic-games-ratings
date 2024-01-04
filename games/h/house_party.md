@@ -24,15 +24,15 @@ Number of Ratings: 177  (23.09.2022)
 | The Muse: Madison | 1.00% | ~71 |
 | Smooth Operator: Ashley | 0.80% | ~57 |
 | The Crush | 0.80% | ~57 |
-| Amy: Scavenger Hunt | 0.70% | ~49 |
-| Casanova | 0.70% | ~49 |
+| Amy: Scavenger Hunt | 0.70% | ~50 |
+| Casanova | 0.70% | ~50 |
 | Deck the Balls | 0.70% | ~29 |
 | It Smells Like Roses | 0.70% | ~29 |
-| Now It's a Party! | 0.70% | ~49 |
-| Stephanie | 0.70% | ~49 |
-| The Magic Number | 0.70% | ~49 |
-| Vickie | 0.70% | ~49 |
-| Te Amo Lety | 0.70% | ~49 |
+| Now It's a Party! | 0.70% | ~50 |
+| Stephanie | 0.70% | ~50 |
+| The Magic Number | 0.70% | ~50 |
+| Vickie | 0.70% | ~50 |
+| Te Amo Lety | 0.70% | ~50 |
 | Benedict Brahrnold | 0.60% | ~42 |
 | I'll Be Back | 0.60% | ~42 |
 | Ashley | 0.50% | ~35 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Most Wonderful Time of the Year | 0.10% | ~4 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,070 (Ranked 193)  
+Progressed: 7,072 (Ranked 193)  
 Completed: 3 (0.04%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,6 +326,7 @@ Completed: 3 (0.04%) (Ranked 345)
 | 2024-01-01 | 7,031 | 3 |
 | 2024-01-02 | 7,052 | 3 |
 | 2024-01-03 | 7,070 | 3 |
+| 2024-01-04 | 7,072 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

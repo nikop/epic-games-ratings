@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 420,
+  "Ranking_EOS_NewPlayers": 411,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -77,9 +77,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 504,
+  "EOS_Progressed": 505,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -647,6 +647,11 @@
       "Time": "2024-01-03T18:09:01.8469523+00:00",
       "NumProgressed": 504,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-04T00:08:32.8700581+00:00",
+      "NumProgressed": 505,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -714,7 +719,7 @@
       "Name": "Built in a Day",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -728,9 +733,9 @@
       "ID": "ACHIEVEMENT_10",
       "SetID": "631ndc2",
       "Name": "Time Travel!",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 56
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -762,7 +767,7 @@
       "Name": "More Brain Than Brawn",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -1057,7 +1062,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 504,
+      "Progressed": 505,
       "Completed": 1
     }
   ],
@@ -1065,8 +1070,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2024-01-03T23:09:06.34292+00:00",
+  "LastChanged_Achievements": "2024-01-04T00:08:32.8700577+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:23.6546135+00:00",
-  "LastUpdate_Ratings": "2024-01-03T23:02:12.7187919+00:00",
-  "LastUpdate_Achievements": "2024-01-03T23:09:06.3429567+00:00"
+  "LastUpdate_Ratings": "2024-01-04T00:00:12.0932293+00:00",
+  "LastUpdate_Achievements": "2024-01-04T00:08:32.8701013+00:00"
 }

@@ -21,7 +21,7 @@ Number of Ratings: 90  (23.09.2022)
 | Freshly Squeezed | 21.00% | ~63 |
 | Perfect Probulator | 18.00% | ~54 |
 | Die Nasty | 18.00% | ~54 |
-| Transmitting From Sol-3 | 15.00% | ~45 |
+| Transmitting From Sol-3 | 16.00% | ~48 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 12.00% | ~36 |
 | Kaijuiced | 10.00% | ~30 |
 | Fly Me to the Moon Base | 9.00% | ~27 |

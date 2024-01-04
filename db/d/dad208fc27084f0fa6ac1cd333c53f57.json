@@ -4,8 +4,8 @@
   "ProductSlug": "the-hidden-room-1a63ec",
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-10-31T14:00:00+00:00",
     "PcReleaseDate": "2021-10-14T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6830,
+  "EOS_Progressed": 6831,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 552,
+  "EOS_NewPlayers": 549,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.92,
   "EosHistory": [
@@ -7114,6 +7114,11 @@
       "Time": "2024-01-03T23:05:37.4534161+00:00",
       "NumProgressed": 6830,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2024-01-04T00:04:17.5150984+00:00",
+      "NumProgressed": 6831,
+      "NumCompleted": 63
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -7166,7 +7171,7 @@
       "Name": "Move the sofa",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 2322
+      "UsersEstimate": 2323
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_TV",
@@ -7174,7 +7179,7 @@
       "Name": "Turn on the TV",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 3893
+      "UsersEstimate": 3894
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_WRONGCODE",
@@ -7253,14 +7258,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 6830,
+      "Progressed": 6831,
       "Completed": 63
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2024-01-03T23:05:37.4534157+00:00",
+  "LastChanged_Achievements": "2024-01-04T00:04:17.515098+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:11.3556672+00:00",
-  "LastUpdate_Ratings": "2024-01-03T23:00:18.1190708+00:00",
-  "LastUpdate_Achievements": "2024-01-03T23:05:37.4534564+00:00"
+  "LastUpdate_Ratings": "2024-01-03T23:58:56.3033767+00:00",
+  "LastUpdate_Achievements": "2024-01-04T00:04:17.5151583+00:00"
 }

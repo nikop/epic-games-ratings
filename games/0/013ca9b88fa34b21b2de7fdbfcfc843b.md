@@ -23,9 +23,9 @@ Rating: 4.62 (Ranked 375)
 | Exit Through The Gift Shop | 1.00% | ~15 |
 | Higher Tax Bracket | 0.90% | ~80 |
 | Beach Comber | 0.80% | ~71 |
+| Skilled | 0.80% | ~71 |
 | Flaming Hot Completos | 0.70% | ~62 |
 | Azorian Anniversary | 0.70% | ~62 |
-| Skilled | 0.70% | ~62 |
 | Fae Farmer | 0.60% | ~53 |
 | Got to Catch Them All | 0.50% | ~44 |
 | Scattered Scroll Scrounger | 0.50% | ~44 |
@@ -49,7 +49,7 @@ Rating: 4.62 (Ranked 375)
 | Splish-Splash | 0.10% | ~1 |
 | Archi-Pal-igo Aficionado | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,841 (Ranked 184)  
+Progressed: 8,842 (Ranked 184)  
 Completed: 1 (0.01%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,6 +181,7 @@ Completed: 1 (0.01%) (Ranked 368)
 | 2024-01-01 | 8,805 | 1 |
 | 2024-01-02 | 8,830 | 1 |
 | 2024-01-03 | 8,841 | 1 |
+| 2024-01-04 | 8,842 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

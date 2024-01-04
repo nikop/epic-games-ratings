@@ -9,7 +9,7 @@ Rating: 4.71 (Ranked 202)
 | Thalya – Simply Immortal | 88.00% | ~625 |
 | For the Horde! | 82.00% | ~582 |
 | Hammer Time, Round Two | 81.00% | ~575 |
-| The Hellwoods | 76.00% | ~540 |
+| The Hellwoods | 77.00% | ~547 |
 | The Plains of Strothalm | 72.00% | ~511 |
 | Experienced Thalya | 71.00% | ~504 |
 | Thalya's Concentrated Fury | 68.00% | ~483 |
@@ -25,7 +25,7 @@ Rating: 4.71 (Ranked 202)
 | Hard Work | 54.00% | ~383 |
 | The Big Eaty | 53.00% | ~376 |
 | “… like son” | 51.00% | ~362 |
-| YOU SHALL NOT PASS! | 49.00% | ~348 |
+| YOU SHALL NOT PASS! | 50.00% | ~355 |
 | The Cathedral of Light | 47.00% | ~334 |
 | Shame! Shame! Shame! | 47.00% | ~334 |
 | Dungeonlord Gorgu | 45.00% | ~320 |
@@ -54,9 +54,9 @@ Rating: 4.71 (Ranked 202)
 | Rubble and Ashes | 21.00% | ~149 |
 | Lavalumps on Ice! | 19.00% | ~135 |
 | To Infinity And Beyond! | 19.00% | ~135 |
+| Sacrificial Pit = Garbage Disposal? | 18.00% | ~128 |
 | My Little Torture Chamber | 18.00% | ~128 |
 | To the Max! | 18.00% | ~128 |
-| Sacrificial Pit = Garbage Disposal? | 17.00% | ~121 |
 | Evilification | 17.00% | ~121 |
 | Mirror, Mirror | 16.00% | ~114 |
 | Untouchable | 16.00% | ~114 |

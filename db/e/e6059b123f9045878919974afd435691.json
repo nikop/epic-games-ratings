@@ -3516,9 +3516,9 @@
       "ID": "AMMO_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "How Many Do You Need?",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 691
+      "UsersEstimate": 704
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -3788,9 +3788,9 @@
       "ID": "KILLR_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Breaking Twigs",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 758
+      "UsersEstimate": 771
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -3956,9 +3956,9 @@
       "ID": "RAPTOR_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "The Clairvoyant Who Doesn\u0027t See",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 678
+      "UsersEstimate": 691
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -4043,8 +4043,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-03T23:11:15.6881126+00:00",
+  "LastChanged_Achievements": "2024-01-04T00:10:05.1703038+00:00",
   "LastUpdate_AppInfo": "2023-12-29T02:57:14.6537743+00:00",
-  "LastUpdate_Ratings": "2024-01-03T23:01:37.7668523+00:00",
-  "LastUpdate_Achievements": "2024-01-03T23:11:15.6881772+00:00"
+  "LastUpdate_Ratings": "2024-01-03T23:59:48.8342084+00:00",
+  "LastUpdate_Achievements": "2024-01-04T00:10:05.1704035+00:00"
 }

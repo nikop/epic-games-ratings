@@ -6,10 +6,10 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 12.00% | ~769 |
+| Malpractice Assurance | 12.00% | ~770 |
 | Lost and Found | 8.00% | ~513 |
-| This Belongs in a Museum | 6.00% | ~7,892 |
-| Autodidact | 6.00% | ~7,892 |
+| This Belongs in a Museum | 6.00% | ~7,893 |
+| Autodidact | 6.00% | ~7,893 |
 | This guy... again? | 6.00% | ~385 |
 | Serenity Now! | 5.00% | ~6,577 |
 | Creep and Sleep | 5.00% | ~6,577 |
@@ -17,8 +17,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Catch and Decease | 5.00% | ~6,577 |
 | Overdue Notice | 5.00% | ~6,577 |
 | Escape from the Black Hole | 5.00% | ~6,577 |
-| Ploughshares to Swords | 5.00% | ~320 |
-| Bloody Graduation | 5.00% | ~320 |
+| Ploughshares to Swords | 5.00% | ~321 |
+| Bloody Graduation | 5.00% | ~321 |
 | Don't Make Me Turn This Coach Around | 4.00% | ~5,262 |
 | It Rings a Bell | 4.00% | ~5,262 |
 | Not Today! | 4.00% | ~5,262 |
@@ -31,7 +31,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 4.00% | ~5,262 |
 | FNG | 4.00% | ~5,262 |
 | Nope | 4.00% | ~5,262 |
-| Friends 'Til the End | 4.00% | ~256 |
+| Friends 'Til the End | 4.00% | ~257 |
 | Resurrection | 3.00% | ~3,946 |
 | Unleash Hell | 3.00% | ~3,946 |
 | Funny Guy | 3.00% | ~3,946 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,540 (Ranked 91)  
+Progressed: 131,545 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,16 +335,17 @@ Completed: 3 (0.00%) (Ranked 392)
 | 2024-01-01 | 131,206 | 3 |
 | 2024-01-02 | 131,365 | 3 |
 | 2024-01-03 | 131,540 | 3 |
+| 2024-01-04 | 131,545 | 3 |
 ## Awards
 Max (Character Customization): 7,940  (Ranked 50)  
-Sum: 21,384 (Ranked 58)  
+Sum: 21,388 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,940 |
 | This game has Diverse Characters | 1,811 |
 | This game has Challenging Combat | 1,663 |
-| This game is Highly Recommended | 1,587 |
+| This game is Highly Recommended | 1,591 |
 | This game has Amazing Characters | 1,513 |
 | This game is Extremely Fun | 1,508 |
 | This game has Unique Visuals | 1,452 |
@@ -696,4 +697,4 @@ Diff (max vs sum): -8
 | 2023-12-31 | 4.68 | - | 7,910 | 21,297 |
 | 2024-01-01 | 4.68 | - | 7,919 | 21,323 |
 | 2024-01-02 | 4.68 | - | 7,927 | 21,353 |
-| 2024-01-03 | 4.68 | - | 7,940 | 21,384 |
+| 2024-01-03 | 4.68 | - | 7,940 | 21,388 |

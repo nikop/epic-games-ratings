@@ -16,7 +16,7 @@
 | Employee of the week | 71.00% | ~375 |
 | Your own amateur gym | 67.00% | ~354 |
 | First defeat | 66.00% | ~348 |
-| Run K, run! | 65.00% | ~343 |
+| Run K, run! | 66.00% | ~348 |
 | Hello, world! | 64.00% | ~338 |
 | Fighting is cool | 63.00% | ~333 |
 | No bullying more | 63.00% | ~333 |
@@ -26,11 +26,11 @@
 | Law student | 56.00% | ~296 |
 | Handyman | 54.00% | ~285 |
 | Workout professional | 53.00% | ~280 |
+| Fight for life | 53.00% | ~280 |
 | Little hacker | 53.00% | ~280 |
 | Champion – starter pack | 53.00% | ~280 |
 | It's good to be alive | 53.00% | ~280 |
 | Intriguing candies | 53.00% | ~280 |
-| Fight for life | 52.00% | ~275 |
 | Own four walls | 52.00% | ~275 |
 | Employee of the year | 52.00% | ~275 |
 | Legal courier | 48.00% | ~253 |
@@ -51,9 +51,9 @@
 | Poisoned fighter | 33.00% | ~174 |
 | Get out of my apartment! | 33.00% | ~174 |
 | Gang wrangler | 31.00% | ~164 |
+| Seashell hunter | 31.00% | ~164 |
 | Problems of cyborgs | 30.00% | ~158 |
 | Absolute Champion! | 30.00% | ~158 |
-| Seashell hunter | 30.00% | ~158 |
 | Undercover robot | 30.00% | ~158 |
 | Not little hacker | 29.00% | ~153 |
 | Another world | 28.00% | ~148 |

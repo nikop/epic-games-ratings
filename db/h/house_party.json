@@ -383,9 +383,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7070,
+  "EOS_Progressed": 7072,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8238,6 +8238,11 @@
       "Time": "2024-01-03T23:09:31.4007945+00:00",
       "NumProgressed": 7070,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-04T00:08:50.5537901+00:00",
+      "NumProgressed": 7072,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -8265,7 +8270,7 @@
       "Name": "Amy: Scavenger Hunt",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "Ashley",
@@ -8329,7 +8334,7 @@
       "Name": "Casanova",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "CaughtInAct",
@@ -8561,7 +8566,7 @@
       "Name": "Now It\u0027s a Party!",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "Pat_Relentless",
@@ -8641,7 +8646,7 @@
       "Name": "Stephanie",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "StrikingResemblance",
@@ -8721,7 +8726,7 @@
       "Name": "The Magic Number",
       "Percentage": 0.7,
       "XP": 75,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "TheMostWonderfulTimeOfTheYear",
@@ -8737,7 +8742,7 @@
       "Name": "Vickie",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "cooch",
@@ -8793,28 +8798,28 @@
       "Name": "Te Amo Lety",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     }
   ],
   "AchievementSets": [
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 4109,
+      "Progressed": 4111,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 7070,
+      "Progressed": 7072,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-12-30T21:02:21.4914587+00:00",
-  "LastChanged_Achievements": "2024-01-03T23:09:31.4007942+00:00",
+  "LastChanged_Achievements": "2024-01-04T00:08:50.5537899+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:40.2112681+00:00",
-  "LastUpdate_Ratings": "2024-01-03T22:59:37.038549+00:00",
-  "LastUpdate_Achievements": "2024-01-03T23:09:31.4008787+00:00"
+  "LastUpdate_Ratings": "2024-01-03T23:58:29.3060707+00:00",
+  "LastUpdate_Achievements": "2024-01-04T00:08:50.5539437+00:00"
 }

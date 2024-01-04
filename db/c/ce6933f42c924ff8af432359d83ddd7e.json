@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 84,
   "Ranking_EOS_NewPlayers": 308,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
     "PcReleaseDate": "2023-04-26T16:00:00+00:00",
@@ -3059,9 +3059,9 @@
       "ID": "ACH_CLOCK",
       "SetID": "6f5dahd",
       "Name": "Time traveller",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 140,
-      "UsersEstimate": 256
+      "UsersEstimate": 269
     },
     {
       "ID": "ACH_CUBES",
@@ -3146,8 +3146,8 @@
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2024-01-03T23:10:44.61819+00:00",
+  "LastChanged_Achievements": "2024-01-04T00:09:42.1727913+00:00",
   "LastUpdate_AppInfo": "2023-12-29T19:57:02.4539688+00:00",
-  "LastUpdate_Ratings": "2024-01-03T23:02:12.5907601+00:00",
-  "LastUpdate_Achievements": "2024-01-03T23:10:44.6182138+00:00"
+  "LastUpdate_Ratings": "2024-01-04T00:00:12.0647887+00:00",
+  "LastUpdate_Achievements": "2024-01-04T00:09:42.172821+00:00"
 }

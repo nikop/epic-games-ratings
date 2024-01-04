@@ -67,7 +67,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1345,
+  "EOS_Progressed": 1346,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 262,
   "EOS_NewCompleters": 0,
@@ -3502,6 +3502,11 @@
       "Time": "2024-01-03T23:10:28.7240071+00:00",
       "NumProgressed": 1345,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T00:09:31.0429502+00:00",
+      "NumProgressed": 1346,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -3530,7 +3535,7 @@
       "Name": "On her own",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "AchvBattleScore",
@@ -3546,7 +3551,7 @@
       "Name": "Peacemaker",
       "Percentage": 21,
       "XP": 90,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "AchvBombing",
@@ -3584,9 +3589,9 @@
       "ID": "AchvDoom",
       "SetID": "1hj060c",
       "Name": "The Invincible",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 81
+      "UsersEstimate": 67
     },
     {
       "ID": "AchvEvacuate",
@@ -3618,7 +3623,7 @@
       "Name": "Volcanologist",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "AchvLeaveNoManBehind",
@@ -3706,7 +3711,7 @@
       "Name": "The Condor",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "AchvSurvivors",
@@ -3745,7 +3750,7 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1345,
+      "Progressed": 1346,
       "Completed": 0
     }
   ],
@@ -3753,8 +3758,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-03T13:02:33.844766+00:00",
-  "LastChanged_Achievements": "2024-01-03T23:10:28.7240067+00:00",
+  "LastChanged_Achievements": "2024-01-04T00:09:31.0429499+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:20.4992862+00:00",
-  "LastUpdate_Ratings": "2024-01-03T22:59:19.4901902+00:00",
-  "LastUpdate_Achievements": "2024-01-03T23:10:28.7240519+00:00"
+  "LastUpdate_Ratings": "2024-01-03T23:58:18.0321929+00:00",
+  "LastUpdate_Achievements": "2024-01-04T00:09:31.0429859+00:00"
 }

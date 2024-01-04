@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 408,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -1021,9 +1021,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 7926,
+  "EOS_Progressed": 7927,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 275,
+  "EOS_NewPlayers": 274,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13121,6 +13121,11 @@
       "Time": "2024-01-03T23:07:58.8135683+00:00",
       "NumProgressed": 7926,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-04T00:05:56.0967297+00:00",
+      "NumProgressed": 7927,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -13132,7 +13137,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -13140,7 +13145,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1031
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -13451,13 +13456,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7926,
+      "Progressed": 7927,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7298,
+      "Progressed": 7299,
       "Completed": 113
     }
   ],
@@ -13465,8 +13470,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-03T21:01:30.920658+00:00",
-  "LastChanged_Achievements": "2024-01-03T23:07:58.8135679+00:00",
+  "LastChanged_Achievements": "2024-01-04T00:05:56.0967293+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:09.4029638+00:00",
-  "LastUpdate_Ratings": "2024-01-03T23:01:48.5673109+00:00",
-  "LastUpdate_Achievements": "2024-01-03T23:07:58.8137692+00:00"
+  "LastUpdate_Ratings": "2024-01-03T23:59:55.948598+00:00",
+  "LastUpdate_Achievements": "2024-01-04T00:05:56.0968424+00:00"
 }

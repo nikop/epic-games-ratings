@@ -22,12 +22,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mental Gymnastics | 0.50% | ~1,084 |
 | A Persistent Buzzing | 0.40% | ~1,002 |
 | Pure Energy | 0.40% | ~1,002 |
-| Misaligned in Sigil | 0.40% | ~867 |
-| Chaos Theory | 0.40% | ~867 |
-| When Tentacles Attack | 0.40% | ~867 |
-| Flames of Avernus | 0.40% | ~867 |
-| Don't Lose Your Head | 0.40% | ~867 |
-| Mind Spike | 0.40% | ~867 |
+| Arcane Suppression | 0.40% | ~868 |
+| Misaligned in Sigil | 0.40% | ~868 |
+| Chaos Theory | 0.40% | ~868 |
+| When Tentacles Attack | 0.40% | ~868 |
+| Flames of Avernus | 0.40% | ~868 |
+| Don't Lose Your Head | 0.40% | ~868 |
+| Mind Spike | 0.40% | ~868 |
 | Maddening | 0.30% | ~752 |
 | Beast Mode | 0.30% | ~752 |
 | Terror in the Dark | 0.30% | ~752 |
@@ -35,7 +36,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Crumbling Temple | 0.30% | ~752 |
 | Exploring Port Nyanzaru | 0.30% | ~752 |
 | The Contagious Curse | 0.30% | ~752 |
-| Arcane Suppression | 0.30% | ~651 |
 | Welcome to the Vrocks | 0.30% | ~651 |
 | The Silken Swamp | 0.20% | ~501 |
 | Low Initiative | 0.20% | ~501 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Wise Approach | 0.10% | ~217 |
 | The Brains of an Illithid's Desire | 0.10% | ~217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,594 (Ranked 70)  
+Progressed: 250,613 (Ranked 70)  
 Completed: 2,588 (1.03%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -812,6 +812,7 @@ Completed: 2,588 (1.03%) (Ranked 170)
 | 2024-01-01 | 249,335 | 2,583 |
 | 2024-01-02 | 250,032 | 2,585 |
 | 2024-01-03 | 250,594 | 2,588 |
+| 2024-01-04 | 250,613 | 2,588 |
 ## Awards
 Max (Great for Beginners): 5,730  (Ranked 72)  
 Sum: 33,294 (Ranked 41)  

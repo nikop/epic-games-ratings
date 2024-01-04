@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 469,
+  "EOS_Progressed": 470,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
@@ -1984,6 +1984,11 @@
       "Time": "2024-01-03T22:04:36.3829949+00:00",
       "NumProgressed": 469,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-04T00:04:36.7659574+00:00",
+      "NumProgressed": 470,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -1996,7 +2001,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 90,
       "XP": 50,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -2004,7 +2009,7 @@
       "Name": "Design Engineer",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "BRING_MARY",
@@ -2036,7 +2041,7 @@
       "Name": "Fisherman",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -2052,7 +2057,7 @@
       "Name": "Off on an Expedition!",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -2060,7 +2065,7 @@
       "Name": "Farmer",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "HOUSEWARMING",
@@ -2092,7 +2097,7 @@
       "Name": "Tough Guy",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "PREPARE_10_COFFEE",
@@ -2108,7 +2113,7 @@
       "Name": "Weed Warrior",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -2140,7 +2145,7 @@
       "Name": "Uppies!",
       "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -2148,21 +2153,21 @@
       "Name": "Strong Signal",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     }
   ],
   "AchievementSets": [
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 469,
+      "Progressed": 470,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2024-01-03T23:06:05.0650796+00:00",
+  "LastChanged_Achievements": "2024-01-04T00:04:36.765957+00:00",
   "LastUpdate_AppInfo": "2024-01-03T22:57:16.910321+00:00",
-  "LastUpdate_Ratings": "2024-01-03T23:03:19.5334563+00:00",
-  "LastUpdate_Achievements": "2024-01-03T23:06:05.0650996+00:00"
+  "LastUpdate_Ratings": "2024-01-04T00:02:45.7234174+00:00",
+  "LastUpdate_Achievements": "2024-01-04T00:04:36.7659808+00:00"
 }

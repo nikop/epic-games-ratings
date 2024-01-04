@@ -6,38 +6,38 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~731,399 |
-| The Blues | 85.00% | ~627,969 |
-| Fast | 66.00% | ~487,599 |
-| Healthbar | 55.00% | ~406,333 |
-| Force Cube | 53.00% | ~391,557 |
-| Double Jump | 48.00% | ~354,618 |
-| Regeneration | 47.00% | ~347,230 |
-| Triple Jump | 43.00% | ~317,678 |
-| Climb the hill | 42.00% | ~310,291 |
-| Through the fire pipe | 39.00% | ~288,127 |
-| MacGuffin | 38.00% | ~280,739 |
-| Just once | 37.00% | ~273,351 |
-| Armor | 30.00% | ~221,636 |
-| True holy spirit | 28.00% | ~206,860 |
-| That's how electronics work obviously | 27.00% | ~199,472 |
-| Force Cube Catapult | 25.00% | ~184,697 |
-| Holy Sword | 23.00% | ~169,921 |
-| Telefrag | 23.00% | ~169,921 |
-| Freed from prison | 22.00% | ~162,533 |
-| Stomp | 21.00% | ~155,145 |
-| Double Health | 19.00% | ~140,370 |
-| Buckle | 18.00% | ~132,982 |
-| Green Keycard | 18.00% | ~132,982 |
-| Rattle Hag | 16.00% | ~118,206 |
-| All Shells | 15.00% | ~110,818 |
-| Beam | 14.00% | ~103,430 |
-| 9 | 14.00% | ~103,430 |
-| Supraball Noob | 14.00% | ~103,430 |
-| Health Drink | 13.00% | ~96,042 |
-| Helped a star | 13.00% | ~96,042 |
-| Purple Cube | 13.00% | ~96,042 |
-| Strong | 12.00% | ~88,654 |
+| Out of bed | 99.00% | ~731,406 |
+| The Blues | 85.00% | ~627,975 |
+| Fast | 66.00% | ~487,604 |
+| Healthbar | 55.00% | ~406,337 |
+| Force Cube | 53.00% | ~391,561 |
+| Double Jump | 48.00% | ~354,621 |
+| Regeneration | 47.00% | ~347,233 |
+| Triple Jump | 43.00% | ~317,681 |
+| Climb the hill | 42.00% | ~310,293 |
+| Through the fire pipe | 39.00% | ~288,130 |
+| MacGuffin | 38.00% | ~280,742 |
+| Just once | 37.00% | ~273,354 |
+| Armor | 30.00% | ~221,638 |
+| True holy spirit | 28.00% | ~206,862 |
+| That's how electronics work obviously | 27.00% | ~199,474 |
+| Force Cube Catapult | 25.00% | ~184,698 |
+| Holy Sword | 23.00% | ~169,923 |
+| Telefrag | 23.00% | ~169,923 |
+| Freed from prison | 22.00% | ~162,535 |
+| Stomp | 21.00% | ~155,147 |
+| Double Health | 19.00% | ~140,371 |
+| Buckle | 18.00% | ~132,983 |
+| Green Keycard | 18.00% | ~132,983 |
+| Rattle Hag | 16.00% | ~118,207 |
+| All Shells | 15.00% | ~110,819 |
+| Beam | 14.00% | ~103,431 |
+| 9 | 14.00% | ~103,431 |
+| Supraball Noob | 14.00% | ~103,431 |
+| Health Drink | 13.00% | ~96,043 |
+| Helped a star | 13.00% | ~96,043 |
+| Purple Cube | 13.00% | ~96,043 |
+| Strong | 12.00% | ~88,655 |
 | Blue King's lair | 11.00% | ~81,267 |
 | Payback | 11.00% | ~81,267 |
 | Got the coins back | 11.00% | ~81,267 |
@@ -55,9 +55,9 @@ Number of Ratings: 25,175  (23.09.2022)
 | Momentum | 9.00% | ~66,491 |
 | Through the tiny pipe | 9.00% | ~66,491 |
 | Win! | 9.00% | ~66,491 |
-| The real real teleported man | 8.00% | ~59,103 |
-| Well deserved | 6.00% | ~44,327 |
-| Super Sword | 4.00% | ~29,551 |
+| The real real teleported man | 8.00% | ~59,104 |
+| Well deserved | 6.00% | ~44,328 |
+| Super Sword | 4.00% | ~29,552 |
 | Happiness | 3.00% | ~22,164 |
 | All Chests | 2.00% | ~14,776 |
 | Poor ancestors | 2.00% | ~14,776 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~739 |
 | DLC: Top of the world | 0.10% | ~739 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 738,787 (Ranked 26)  
+Progressed: 738,794 (Ranked 26)  
 Completed: 779 (0.11%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -364,9 +364,10 @@ Completed: 779 (0.11%) (Ranked 303)
 | 2024-01-01 | 738,520 | 777 |
 | 2024-01-02 | 738,654 | 778 |
 | 2024-01-03 | 738,787 | 779 |
+| 2024-01-04 | 738,794 | 779 |
 ## Awards
 Max (Challenging Puzzles): 7,768  (Ranked 52)  
-Sum: 10,136 (Ranked 93)  
+Sum: 10,138 (Ranked 93)  
 Diff (max vs sum): -41  
 | Award | Count |
 | ----- | ----- |
@@ -375,9 +376,9 @@ Diff (max vs sum): -41
 | This game has Amazing Storytelling | 282 |
 | This game has Amazing Characters | 281 |
 | This game is Relaxing | 278 |
-| This game is Great for Beginners | 272 |
+| This game is Great for Beginners | 273 |
 | This game has Quickly Understood Controls | 270 |
-| This game is Extremely Fun | 263 |
+| This game is Extremely Fun | 264 |
 | This game has Obsessive Gameplay | 243 |
 | This game is Highly Recommended | 240 |
 | This game has a Creative Community | 197 |
@@ -599,4 +600,4 @@ Diff (max vs sum): -41
 | 2023-12-30 | 4.61 | - | 7,766 | 10,131 |
 | 2023-12-31 | 4.61 | - | 7,767 | 10,133 |
 | 2024-01-02 | 4.61 | - | 7,767 | 10,135 |
-| 2024-01-03 | 4.61 | - | 7,768 | 10,136 |
+| 2024-01-03 | 4.61 | - | 7,768 | 10,138 |

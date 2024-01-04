@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fried Friendship | 84.00% | ~80,794 |
-| Struck A Pose | 82.00% | ~78,870 |
-| Look At Him Go | 68.00% | ~65,404 |
-| On Rails Experience | 44.00% | ~42,321 |
-| A Daring Devil | 43.00% | ~41,359 |
-| Break the Bank | 33.00% | ~31,740 |
-| It Took Two | 30.00% | ~28,855 |
-| Bug Sized Relaxation | 13.00% | ~12,504 |
-| Plastic Prison Breakers | 13.00% | ~12,504 |
-| Terror Of The Seven Seas | 10.00% | ~9,618 |
-| Realize Your Art | 8.00% | ~7,695 |
-| Force Triangulated | 8.00% | ~7,695 |
-| Meditation Maestro | 7.00% | ~6,733 |
-| Snackosaurus | 6.00% | ~5,771 |
-| Platforming Prodigy | 6.00% | ~5,771 |
-| Lost And Found | 6.00% | ~5,771 |
-| Something Fishy | 6.00% | ~5,771 |
-| Mood Swing | 4.00% | ~3,847 |
-| Faraway Frequencies | 3.00% | ~2,885 |
+| Fried Friendship | 84.00% | ~80,807 |
+| Struck A Pose | 82.00% | ~78,883 |
+| Look At Him Go | 68.00% | ~65,415 |
+| On Rails Experience | 44.00% | ~42,328 |
+| A Daring Devil | 43.00% | ~41,366 |
+| Break the Bank | 33.00% | ~31,746 |
+| It Took Two | 30.00% | ~28,860 |
+| Bug Sized Relaxation | 13.00% | ~12,506 |
+| Plastic Prison Breakers | 13.00% | ~12,506 |
+| Terror Of The Seven Seas | 10.00% | ~9,620 |
+| Realize Your Art | 8.00% | ~7,696 |
+| Force Triangulated | 8.00% | ~7,696 |
+| Meditation Maestro | 7.00% | ~6,734 |
+| Snackosaurus | 6.00% | ~5,772 |
+| Platforming Prodigy | 6.00% | ~5,772 |
+| Lost And Found | 6.00% | ~5,772 |
+| Something Fishy | 6.00% | ~5,772 |
+| Mood Swing | 4.00% | ~3,848 |
+| Faraway Frequencies | 3.00% | ~2,886 |
 | Minigame Megalomania | 2.00% | ~1,924 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 96,183 (Ranked 100)  
+Progressed: 96,199 (Ranked 100)  
 Completed: 207 (0.22%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,3 +136,4 @@ Completed: 207 (0.22%) (Ranked 270)
 | 2024-01-01 | 92,751 | 196 |
 | 2024-01-02 | 94,529 | 200 |
 | 2024-01-03 | 96,183 | 207 |
+| 2024-01-04 | 96,199 | 207 |

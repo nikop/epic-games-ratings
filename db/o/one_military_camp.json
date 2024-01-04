@@ -1367,9 +1367,9 @@
       "ID": "ACHIEVEMENT_ID_23",
       "SetID": "c504de6",
       "Name": "Snowman",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_ID_24",
@@ -1598,8 +1598,8 @@
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2024-01-03T23:07:51.7939928+00:00",
+  "LastChanged_Achievements": "2024-01-04T00:05:51.26834+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.400419+00:00",
-  "LastUpdate_Ratings": "2024-01-03T22:58:42.7993662+00:00",
-  "LastUpdate_Achievements": "2024-01-03T23:07:51.7940403+00:00"
+  "LastUpdate_Ratings": "2024-01-03T23:57:53.5773867+00:00",
+  "LastUpdate_Achievements": "2024-01-04T00:05:51.2684129+00:00"
 }

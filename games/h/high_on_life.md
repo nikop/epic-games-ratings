@@ -13,11 +13,11 @@ Rating: 4.65 (Ranked 320)
 | Creature Feature | 4.00% | ~1,000 |
 | Are You Packin'? | 4.00% | ~1,000 |
 | Bring A Knife to a Gun Fight | 4.00% | ~1,000 |
+| RIP Davey Glutes | 4.00% | ~1,000 |
 | We're All Very Impressed, Trust Me | 4.00% | ~1,000 |
 | Who's The Boss? | 4.00% | ~1,000 |
 | Don't Knife The Hand That Feeds | 4.00% | ~1,000 |
 | Lezduit! | 3.00% | ~750 |
-| RIP Davey Glutes | 3.00% | ~750 |
 | Legendary Bounty Hunter | 3.00% | ~750 |
 | Hardest Battle In The Game | 3.00% | ~750 |
 | Self-Actualization | 3.00% | ~750 |

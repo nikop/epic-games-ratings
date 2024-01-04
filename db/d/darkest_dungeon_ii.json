@@ -10402,10 +10402,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 21384,
       "NumberOfAwardsMax": 7940
+    },
+    {
+      "Time": "2024-01-03T23:59:09.4475126+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21388,
+      "NumberOfAwardsMax": 7940
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21384,
+  "NumberOfAwards": 21388,
   "NumberOfAwardsMax": 7940,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10425,7 +10431,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1587
+      "Count": 1591
     },
     {
       "Text": "This game is Extremely Fun",
@@ -10482,7 +10488,7 @@
       "Count": 1079
     }
   ],
-  "EOS_Progressed": 131540,
+  "EOS_Progressed": 131545,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 1281,
   "EOS_NewCompleters": 0,
@@ -38202,6 +38208,11 @@
       "Time": "2024-01-03T23:10:37.2887854+00:00",
       "NumProgressed": 131540,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-04T00:09:36.9540829+00:00",
+      "NumProgressed": 131545,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38341,7 +38352,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7892
+      "UsersEstimate": 7893
     },
     {
       "ID": "combat_kill_cadavers",
@@ -38565,7 +38576,7 @@
       "Name": "Autodidact",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7892
+      "UsersEstimate": 7893
     },
     {
       "ID": "hero_story_complete_all",
@@ -38749,7 +38760,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "combat_kill_collector",
@@ -38797,7 +38808,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -38805,7 +38816,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "quest_complete_crusader",
@@ -38821,7 +38832,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -38844,21 +38855,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131540,
+      "Progressed": 131545,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6409,
+      "Progressed": 6414,
       "Completed": 821
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-03T21:59:18.4017224+00:00",
-  "LastChanged_Achievements": "2024-01-03T23:10:37.2887849+00:00",
+  "LastChanged": "2024-01-03T23:59:09.4475125+00:00",
+  "LastChanged_Achievements": "2024-01-04T00:09:36.9540815+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-03T23:00:40.6049388+00:00",
-  "LastUpdate_Achievements": "2024-01-03T23:10:37.2889708+00:00"
+  "LastUpdate_Ratings": "2024-01-03T23:59:09.447513+00:00",
+  "LastUpdate_Achievements": "2024-01-04T00:09:36.9543154+00:00"
 }

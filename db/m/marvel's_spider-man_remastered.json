@@ -4,7 +4,7 @@
   "ProductSlug": "marvels-spider-man-remastered",
   "Ranking_Rating": 40,
   "Ranking_Popularity": 31,
-  "Ranking_PopularitySum": 56,
+  "Ranking_PopularitySum": 57,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 569,
@@ -8885,10 +8885,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 23328,
       "NumberOfAwardsMax": 13805
+    },
+    {
+      "Time": "2024-01-03T23:57:41.6670401+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 23331,
+      "NumberOfAwardsMax": 13805
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 23328,
+  "NumberOfAwards": 23331,
   "NumberOfAwardsMax": 13805,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -8920,7 +8926,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1072
+      "Count": 1075
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -8977,8 +8983,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-12T18:01:31.1852692+00:00",
   "FirstSeenRating": "2022-08-12T21:01:33.6251933+00:00",
-  "LastChanged": "2024-01-03T21:57:42.4311533+00:00",
+  "LastChanged": "2024-01-03T23:57:41.66704+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:56:58.1871661+00:00",
-  "LastUpdate_Ratings": "2024-01-03T22:58:25.3406504+00:00",
-  "LastUpdate_Achievements": "2024-01-03T23:06:42.95467+00:00"
+  "LastUpdate_Ratings": "2024-01-03T23:57:41.6670408+00:00",
+  "LastUpdate_Achievements": "2024-01-04T00:05:03.0529911+00:00"
 }

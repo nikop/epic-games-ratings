@@ -709,7 +709,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4139,
+  "EOS_Progressed": 4140,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 253,
   "EOS_NewCompleters": 0,
@@ -11649,6 +11649,11 @@
       "Time": "2024-01-03T23:08:49.3822845+00:00",
       "NumProgressed": 4139,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-04T00:08:20.602589+00:00",
+      "NumProgressed": 4140,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -11932,7 +11937,7 @@
       "Name": "Inspection",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "jewelenchanting",
@@ -12052,7 +12057,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 2152
+      "UsersEstimate": 2153
     },
     {
       "ID": "prestigiousx10",
@@ -12220,7 +12225,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 3849
+      "UsersEstimate": 3850
     },
     {
       "ID": "warmachinesarmy",
@@ -12252,14 +12257,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3228
+      "UsersEstimate": 3229
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4139,
+      "Progressed": 4140,
       "Completed": 2
     }
   ],
@@ -12267,8 +12272,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-02T09:57:01.626986+00:00",
-  "LastChanged_Achievements": "2024-01-03T23:08:49.3822841+00:00",
+  "LastChanged_Achievements": "2024-01-04T00:08:20.6025887+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:50.7213096+00:00",
-  "LastUpdate_Ratings": "2024-01-03T22:58:23.5312868+00:00",
-  "LastUpdate_Achievements": "2024-01-03T23:08:49.3823874+00:00"
+  "LastUpdate_Ratings": "2024-01-03T23:57:40.3008208+00:00",
+  "LastUpdate_Achievements": "2024-01-04T00:08:20.6027354+00:00"
 }

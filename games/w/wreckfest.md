@@ -1,32 +1,32 @@
 # Wreckfest
 [Store](https://store.epicgames.com/en-US/p/wreckfest)  
 [View Rawdata](../../db/w/wreckfest.json)  
-Rating: 4.30 (Ranked 871)  
+Rating: 4.27 (Ranked 897)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Storm Warning | 68.00% | ~503 |
-| Highballer | 49.00% | ~363 |
-| Dirty Roller | 33.00% | ~244 |
-| Regional Juniors Champion | 32.00% | ~237 |
-| Wheeler Dealer | 25.00% | ~185 |
-| Look Mom, I Can Fly | 24.00% | ~178 |
-| National Amateurs Champion | 18.00% | ~133 |
+| Storm Warning | 68.00% | ~505 |
+| Highballer | 50.00% | ~372 |
+| Dirty Roller | 33.00% | ~245 |
+| Regional Juniors Champion | 32.00% | ~238 |
+| Wheeler Dealer | 25.00% | ~186 |
+| Look Mom, I Can Fly | 23.00% | ~171 |
+| National Amateurs Champion | 18.00% | ~134 |
 | Junk Collector | 15.00% | ~111 |
 | Hating Them Tin Cans | 15.00% | ~111 |
 | Trashing Around | 14.00% | ~104 |
-| Challengers Champion | 11.00% | ~81 |
+| Challengers Champion | 11.00% | ~82 |
 | Pro Internationals Champion | 7.00% | ~52 |
 | Cash For Crashes | 7.00% | ~52 |
-| Maniac Driver | 4.00% | ~30 |
 | Showing Some Dedication | 3.00% | ~22 |
+| Maniac Driver | 3.00% | ~22 |
 | World Masters Champion | 2.00% | ~15 |
 | Garden Variety | 1.00% | ~7 |
 | Glutton For Punishment | 0.70% | ~5 |
 | Human Lover | 0.50% | ~4 |
 | Rocketeer | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 740 (Ranked 312)  
+Progressed: 743 (Ranked 311)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -48,6 +48,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-01 | 670 | 0 |
 | 2024-01-02 | 710 | 0 |
 | 2024-01-03 | 740 | 0 |
+| 2024-01-04 | 743 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -102,3 +103,4 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2023-12-26 | 4.28 | 0 | 0 |
 | 2023-12-28 | 4.29 | 0 | 0 |
 | 2024-01-01 | 4.30 | 0 | 0 |
+| 2024-01-03 | 4.27 | 0 | 0 |

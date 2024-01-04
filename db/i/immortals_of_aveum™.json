@@ -403,7 +403,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2622,
+  "EOS_Progressed": 2623,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 573,
   "EOS_NewCompleters": 0,
@@ -4298,6 +4298,11 @@
       "Time": "2024-01-03T23:10:55.734208+00:00",
       "NumProgressed": 2622,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-04T00:09:50.1895015+00:00",
+      "NumProgressed": 2623,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -4310,7 +4315,7 @@
       "Name": "Unforeseen",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 2307
+      "UsersEstimate": 2308
     },
     {
       "ID": "achievement_10",
@@ -4390,7 +4395,7 @@
       "Name": "Socialite",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "achievement_2",
@@ -4398,7 +4403,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 2124
+      "UsersEstimate": 2125
     },
     {
       "ID": "achievement_20",
@@ -4420,9 +4425,9 @@
       "ID": "achievement_22",
       "SetID": "18al4io",
       "Name": "Petite Bourgeoisie",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "achievement_23",
@@ -4454,7 +4459,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1809
+      "UsersEstimate": 1810
     },
     {
       "ID": "achievement_36",
@@ -4462,7 +4467,7 @@
       "Name": "Armsman",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "achievement_37",
@@ -4486,7 +4491,7 @@
       "Name": "No More Names",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1363
+      "UsersEstimate": 1364
     },
     {
       "ID": "achievement_41",
@@ -4542,7 +4547,7 @@
       "Name": "Enlisted",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 1940
+      "UsersEstimate": 1941
     },
     {
       "ID": "achievement_49",
@@ -4558,7 +4563,7 @@
       "Name": "Initiate",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "achievement_50",
@@ -4596,9 +4601,9 @@
       "ID": "achievement_59",
       "SetID": "18al4io",
       "Name": "Shroudfane Explorer",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 157
     },
     {
       "ID": "achievement_6",
@@ -4606,7 +4611,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "achievement_60",
@@ -4678,14 +4683,14 @@
       "Name": "Beggars Would Ride",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 2622,
+      "Progressed": 2623,
       "Completed": 2
     }
   ],
@@ -4693,8 +4698,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-03T21:58:55.2102914+00:00",
-  "LastChanged_Achievements": "2024-01-03T23:10:55.7342074+00:00",
+  "LastChanged_Achievements": "2024-01-04T00:09:50.1895011+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.4007279+00:00",
-  "LastUpdate_Ratings": "2024-01-03T23:00:06.3909173+00:00",
-  "LastUpdate_Achievements": "2024-01-03T23:10:55.7343018+00:00"
+  "LastUpdate_Ratings": "2024-01-03T23:58:47.1718482+00:00",
+  "LastUpdate_Achievements": "2024-01-04T00:09:50.1895539+00:00"
 }

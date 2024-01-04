@@ -20,7 +20,7 @@ Number of Ratings: 292  (23.09.2022)
 | Whoops! | 6.00% | ~58 |
 | The Song of Stoutheart | 5.00% | ~48 |
 | Don't Touch My Stuff | 5.00% | ~48 |
-| Trojan Horse | 4.00% | ~38 |
+| Trojan Horse | 4.00% | ~39 |
 | Expert Essence Employment | 3.00% | ~29 |
 | This Spot's Taken | 2.00% | ~19 |
 | Deepstrike | 2.00% | ~19 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 962 (Ranked 290)  
+Progressed: 963 (Ranked 290)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,6 +116,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-01 | 923 | 0 |
 | 2024-01-02 | 944 | 0 |
 | 2024-01-03 | 962 | 0 |
+| 2024-01-04 | 963 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 29  (Ranked 523)  
 Sum: 251 (Ranked 399)  

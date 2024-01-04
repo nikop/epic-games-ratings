@@ -8703,9 +8703,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 753003,
+  "EOS_Progressed": 753015,
   "EOS_Completed": 12973,
-  "EOS_NewPlayers": 6596,
+  "EOS_NewPlayers": 6592,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.72,
   "EosHistory": [
@@ -32203,6 +32203,11 @@
       "Time": "2024-01-03T23:09:58.152884+00:00",
       "NumProgressed": 753003,
       "NumCompleted": 12973
+    },
+    {
+      "Time": "2024-01-04T00:09:09.5880009+00:00",
+      "NumProgressed": 753015,
+      "NumCompleted": 12973
     }
   ],
   "TotalAchievements": 60,
@@ -32214,7 +32219,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 37650
+      "UsersEstimate": 37651
     },
     {
       "ID": "02_Vengeance_H1",
@@ -32222,7 +32227,7 @@
       "Name": "The Assault",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30120
+      "UsersEstimate": 30121
     },
     {
       "ID": "03_Vengeance_H2",
@@ -32390,7 +32395,7 @@
       "Name": "Life is your teacher",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 30120
+      "UsersEstimate": 30121
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -32478,7 +32483,7 @@
       "Name": "Lightning Hands",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30120
+      "UsersEstimate": 30121
     },
     {
       "ID": "35_WideStrike",
@@ -32678,7 +32683,7 @@
       "Name": "Fight the way you practice",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "60_Arena_Randomizer",
@@ -32693,21 +32698,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 62304,
+      "Progressed": 62316,
       "Completed": 10798
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 753003,
+      "Progressed": 753015,
       "Completed": 12973
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-03T12:03:15.1642267+00:00",
-  "LastChanged_Achievements": "2024-01-03T23:09:58.1528837+00:00",
+  "LastChanged_Achievements": "2024-01-04T00:09:09.5880005+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:26.4563062+00:00",
-  "LastUpdate_Ratings": "2024-01-03T23:03:39.4340689+00:00",
-  "LastUpdate_Achievements": "2024-01-03T23:09:58.153025+00:00"
+  "LastUpdate_Ratings": "2024-01-04T00:02:58.3387293+00:00",
+  "LastUpdate_Achievements": "2024-01-04T00:09:09.5881528+00:00"
 }

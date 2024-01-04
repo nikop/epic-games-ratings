@@ -3,8 +3,8 @@
 [View Rawdata](../../db/s/shapez.json)  
 Rating: 4.71 (Ranked 202)  
 ## Awards
-Max (Quickly Understood Controls): 22  (Ranked 560)  
-Sum: 64 (Ranked 490)  
+Max (Quickly Understood Controls): 22  (Ranked 561)  
+Sum: 64 (Ranked 491)  
 Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |

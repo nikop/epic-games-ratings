@@ -32,6 +32,7 @@
 | Halls of Marble | 3.00% | ~118 |
 | Serpentine | 3.00% | ~118 |
 | Wayward Son of Hephaestus | 2.00% | ~78 |
+| Lament of the Constellations | 2.00% | ~78 |
 | Forged in Fire | 2.00% | ~78 |
 | Rock and a Hard Place | 2.00% | ~78 |
 | The Midas Touch | 2.00% | ~78 |
@@ -44,7 +45,6 @@
 | Mors Omnibus | 2.00% | ~78 |
 | Blot Out the Sky | 2.00% | ~78 |
 | The Nameless One | 1.00% | ~39 |
-| Lament of the Constellations | 1.00% | ~39 |
 | Rule of Thirds | 1.00% | ~39 |
 | Pyr Demon | 1.00% | ~39 |
 | Don't Pay the Ferryman | 1.00% | ~39 |
