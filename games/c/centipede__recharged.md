@@ -1,7 +1,7 @@
 # Centipede: Recharged
 [Store](https://store.epicgames.com/en-US/p/centipede-recharged)  
 [View Rawdata](../../db/c/centipede__recharged.json)  
-Rating: 4.31 (Ranked 864)  
+Rating: 4.31 (Ranked 863)  
 Number of Ratings: 76  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,7 +9,7 @@ Number of Ratings: 76  (23.09.2022)
 | Shooting Shark | 47.00% | ~11,638 |
 | Make Rock Not War | 39.00% | ~9,657 |
 | Sole Survivor | 34.00% | ~8,419 |
-| Fireworks | 30.00% | ~7,428 |
+| Fireworks | 30.00% | ~7,429 |
 | Burning For You | 26.00% | ~6,438 |
 | Beat 'em Up | 24.00% | ~5,943 |
 | I Am The Storm | 16.00% | ~3,962 |
@@ -23,7 +23,7 @@ Number of Ratings: 76  (23.09.2022)
 | Shadow Warrior | 2.00% | ~495 |
 | Mirrors | 0.80% | ~198 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,761 (Ranked 146)  
+Progressed: 24,762 (Ranked 146)  
 Completed: 118 (0.48%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 118 (0.48%) (Ranked 222)
 | 2024-01-02 | 24,597 | 118 |
 | 2024-01-03 | 24,657 | 118 |
 | 2024-01-04 | 24,729 | 118 |
-| 2024-01-05 | 24,761 | 118 |
+| 2024-01-05 | 24,762 | 118 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

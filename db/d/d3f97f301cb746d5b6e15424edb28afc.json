@@ -3,11 +3,11 @@
   "Name": "Gas Station Simulator",
   "ProductSlug": "gas-station-simulator-ee93c7",
   "Ranking_Rating": 523,
-  "Ranking_Popularity": 579,
-  "Ranking_PopularitySum": 579,
+  "Ranking_Popularity": 580,
+  "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -151,7 +151,7 @@
   "Tags": [],
   "EOS_Progressed": 1577,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5099,9 +5099,9 @@
       "ID": "GSS_ACH_77_EMPLOYEE_LEVEL_05",
       "SetID": "5fn8ia4",
       "Name": "Well Versed",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1041
     },
     {
       "ID": "GSS_ACH_78_EMPLOYEE_LEVEL_10",
@@ -5156,8 +5156,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-04T20:00:42.946597+00:00",
-  "LastChanged_Achievements": "2024-01-05T15:08:14.7126259+00:00",
+  "LastChanged_Achievements": "2024-01-05T16:08:04.2410498+00:00",
   "LastUpdate_AppInfo": "2024-01-01T19:57:12.6980533+00:00",
-  "LastUpdate_Ratings": "2024-01-05T14:59:34.1916176+00:00",
-  "LastUpdate_Achievements": "2024-01-05T15:08:14.7127325+00:00"
+  "LastUpdate_Ratings": "2024-01-05T15:59:51.140666+00:00",
+  "LastUpdate_Achievements": "2024-01-05T16:08:04.2411813+00:00"
 }

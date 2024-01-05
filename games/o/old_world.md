@@ -41,6 +41,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Magnificent | 0.60% | ~97 |
 | Wise | 0.60% | ~97 |
 | Furious Family | 0.60% | ~97 |
+| Great Ziggurat | 0.60% | ~97 |
 | Ishtar Gate | 0.60% | ~97 |
 | Lighthouse | 0.60% | ~97 |
 | Christianity | 0.60% | ~97 |
@@ -52,7 +53,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able Difficulty | 0.50% | ~81 |
 | Acropolis | 0.50% | ~81 |
 | Apadana | 0.50% | ~81 |
-| Great Ziggurat | 0.50% | ~81 |
 | Mausoleum | 0.50% | ~81 |
 | Necropolis | 0.50% | ~81 |
 | Learn to Play 2 | 0.50% | ~81 |
@@ -274,7 +274,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pharaonic Greater Kmt Unified | 0.10% | ~16 |
 | Pharaonic Kmt Unified | 0.10% | ~16 |
 | Golden Age-less | 0.10% | ~16 |
+| Kmt Golden Age | 0.10% | ~16 |
 | Prosperous Kmt | 0.10% | ~16 |
+| Pharaonic Kmt Golden Age | 0.10% | ~16 |
+| Prosperous Pharaonic Kmt | 0.10% | ~16 |
 | Ramesses II KIA | 0.10% | ~16 |
 | Lost the Hearts of Kmt | 0.10% | ~16 |
 | Won the Hearts of Kmt | 0.10% | ~16 |
@@ -332,9 +335,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 | Worst Pharaoh Ever | 0.00% | ~0 |
-| Kmt Golden Age | 0.00% | ~0 |
-| Pharaonic Kmt Golden Age | 0.00% | ~0 |
-| Prosperous Pharaonic Kmt | 0.00% | ~0 |
 | Failed the Aten | 0.00% | ~0 |
 | Akhen-who? | 0.00% | ~0 |
 | Glory to The Aten | 0.00% | ~0 |
@@ -628,15 +628,15 @@ Completed: 5 (0.03%) (Ranked 352)
 | 2024-01-05 | 16,129 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 283)  
-Sum: 1,913 (Ranked 221)  
+Sum: 1,915 (Ranked 221)  
 Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 229 |
 | This game has Diverse Characters | 222 |
+| This game is Extremely Fun | 222 |
 | This game is Highly Recommended | 222 |
-| This game is Extremely Fun | 221 |
-| This game is Educational | 216 |
+| This game is Educational | 217 |
 | This game has Challenging Combat | 209 |
 | This game has Amazing Characters | 200 |
 | This game has Quickly Understood Controls | 197 |
@@ -833,3 +833,4 @@ Diff (max vs sum): 62
 | 2023-12-27 | 4.65 | - | 229 | 1,911 |
 | 2023-12-29 | 4.65 | - | 229 | 1,912 |
 | 2024-01-04 | 4.65 | - | 229 | 1,913 |
+| 2024-01-05 | 4.65 | - | 229 | 1,915 |

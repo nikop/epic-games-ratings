@@ -3,11 +3,11 @@
   "Name": "Haven",
   "ProductSlug": "haven",
   "Ranking_Rating": 129,
-  "Ranking_Popularity": 579,
-  "Ranking_PopularitySum": 579,
+  "Ranking_Popularity": 580,
+  "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -189,9 +189,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1892,
+  "EOS_Progressed": 1893,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -3334,6 +3334,11 @@
       "Time": "2024-01-05T15:04:54.7207661+00:00",
       "NumProgressed": 1892,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-05T16:05:07.8469113+00:00",
+      "NumProgressed": 1893,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3409,7 +3414,7 @@
       "Name": "Balding bloot!",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 1343
+      "UsersEstimate": 1344
     },
     {
       "ID": "18",
@@ -3513,7 +3518,7 @@
       "Name": "Self-sustainability",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "31",
@@ -3561,7 +3566,7 @@
       "Name": "Ain\u0027t no mountain high enough",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "8",
@@ -3569,7 +3574,7 @@
       "Name": "Over my dead body",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "9",
@@ -3584,15 +3589,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1892,
+      "Progressed": 1893,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2024-01-04T18:59:48.0906377+00:00",
-  "LastChanged_Achievements": "2024-01-05T15:04:54.7207656+00:00",
+  "LastChanged_Achievements": "2024-01-05T16:05:07.8469108+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:49.1667896+00:00",
-  "LastUpdate_Ratings": "2024-01-05T15:00:04.0959351+00:00",
-  "LastUpdate_Achievements": "2024-01-05T15:04:54.7208039+00:00"
+  "LastUpdate_Ratings": "2024-01-05T16:00:23.9643309+00:00",
+  "LastUpdate_Achievements": "2024-01-05T16:05:07.8469432+00:00"
 }

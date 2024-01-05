@@ -4,7 +4,7 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 392,
+  "Ranking_EOS_NewPlayers": 383,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 805,
+  "EOS_Progressed": 806,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1141,6 +1141,11 @@
       "Time": "2024-01-05T15:05:37.4847117+00:00",
       "NumProgressed": 805,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-05T16:05:53.9764412+00:00",
+      "NumProgressed": 806,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -1160,7 +1165,7 @@
       "Name": "Across The Stars",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "Achievement_AirlockExit",
@@ -1216,7 +1221,7 @@
       "Name": "Crafty",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "Achievement_DontPanic",
@@ -1224,7 +1229,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "Achievement_DustToDust",
@@ -1232,7 +1237,7 @@
       "Name": "Dust to Dust",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "Achievement_EcoShuttle",
@@ -1296,7 +1301,7 @@
       "Name": "Friendzone",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "Achievement_GiantLeap",
@@ -1352,7 +1357,7 @@
       "Name": "KIA",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "Achievement_LastSupper",
@@ -1384,7 +1389,7 @@
       "Name": "Mutiny in making",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "Achievement_Muttnik",
@@ -1400,7 +1405,7 @@
       "Name": "No Man Left Behind",
       "Percentage": 9,
       "XP": 70,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "Achievement_NonFiction",
@@ -1440,7 +1445,7 @@
       "Name": "Space Colonization",
       "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "Achievement_SpaceEngineer",
@@ -1448,7 +1453,7 @@
       "Name": "Space Engineer",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "Achievement_SpaceExplorer",
@@ -1488,7 +1493,7 @@
       "Name": "Tinkerer",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "Achievement_Traitor",
@@ -1503,7 +1508,7 @@
     {
       "ID": "c01p6e5",
       "IsBase": true,
-      "Progressed": 805,
+      "Progressed": 806,
       "Completed": 1
     }
   ],
@@ -1511,8 +1516,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2024-01-05T15:05:37.4847112+00:00",
+  "LastChanged_Achievements": "2024-01-05T16:05:53.9764406+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:36.3559417+00:00",
-  "LastUpdate_Ratings": "2024-01-05T14:57:14.4825595+00:00",
-  "LastUpdate_Achievements": "2024-01-05T15:05:37.4847479+00:00"
+  "LastUpdate_Ratings": "2024-01-05T15:57:14.8854282+00:00",
+  "LastUpdate_Achievements": "2024-01-05T16:05:53.9764871+00:00"
 }

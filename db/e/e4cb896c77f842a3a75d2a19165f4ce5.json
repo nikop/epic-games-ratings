@@ -4,7 +4,7 @@
   "ProductSlug": "dolmenjord-viking-islands-965b06",
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 382,
+  "Ranking_EOS_NewPlayers": 378,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 693,
+  "EOS_Progressed": 694,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.03,
   "EosHistory": [
@@ -2204,6 +2204,11 @@
       "Time": "2024-01-04T21:10:00.7252844+00:00",
       "NumProgressed": 693,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-05T16:09:16.2666672+00:00",
+      "NumProgressed": 694,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 11,
@@ -2215,7 +2220,7 @@
       "Name": "Pit-house",
       "Percentage": 94,
       "XP": 45,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "LEVEL_003",
@@ -2223,7 +2228,7 @@
       "Name": "Smith house",
       "Percentage": 86,
       "XP": 45,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "LEVEL_004",
@@ -2302,14 +2307,14 @@
     {
       "ID": "7jk5g4e",
       "IsBase": true,
-      "Progressed": 693,
+      "Progressed": 694,
       "Completed": 21
     }
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2024-01-05T15:09:21.0504833+00:00",
+  "LastChanged_Achievements": "2024-01-05T16:09:16.2666667+00:00",
   "LastUpdate_AppInfo": "2024-01-02T06:57:01.033472+00:00",
-  "LastUpdate_Ratings": "2024-01-05T15:02:38.0067648+00:00",
-  "LastUpdate_Achievements": "2024-01-05T15:09:21.0505419+00:00"
+  "LastUpdate_Ratings": "2024-01-05T16:02:36.9343618+00:00",
+  "LastUpdate_Achievements": "2024-01-05T16:09:16.2667183+00:00"
 }

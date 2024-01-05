@@ -5,12 +5,12 @@ Rating: 4.62 (Ranked 379)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 15.00% | ~1,032 |
+| Secret Technique | 15.00% | ~1,033 |
 | Realm Estate | 13.00% | ~895 |
 | A Wonderful Discovery | 12.00% | ~826 |
 | Walls Cannot Stop Us | 12.00% | ~826 |
 | From Friends to Family | 10.00% | ~688 |
-| Bone Peddler | 9.00% | ~619 |
+| Bone Peddler | 9.00% | ~620 |
 | Magical Synergy | 8.00% | ~551 |
 | There Can Only Be One! | 7.00% | ~482 |
 | Full Ascension | 7.00% | ~482 |
@@ -24,12 +24,12 @@ Rating: 4.62 (Ranked 379)
 | Digging for Treasure | 4.00% | ~275 |
 | My Final Form | 4.00% | ~275 |
 | Impenetrable Fortress | 4.00% | ~275 |
-| Enchanted Archipelago | 3.00% | ~206 |
-| Preparation Is Everything | 3.00% | ~206 |
-| Fiery Friend | 3.00% | ~206 |
-| Against the Odds | 3.00% | ~206 |
-| Tipping the Scales | 3.00% | ~206 |
-| Freed Lands of Manuhari | 3.00% | ~206 |
+| Enchanted Archipelago | 3.00% | ~207 |
+| Preparation Is Everything | 3.00% | ~207 |
+| Fiery Friend | 3.00% | ~207 |
+| Against the Odds | 3.00% | ~207 |
+| Tipping the Scales | 3.00% | ~207 |
+| Freed Lands of Manuhari | 3.00% | ~207 |
 | God Emperor | 2.00% | ~138 |
 | Arch Mage | 2.00% | ~138 |
 | The Creator | 2.00% | ~138 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 379)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,882 (Ranked 197)  
+Progressed: 6,885 (Ranked 197)  
 Completed: 7 (0.10%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,11 +294,11 @@ Completed: 7 (0.10%) (Ranked 307)
 | 2024-01-02 | 6,742 | 7 |
 | 2024-01-03 | 6,793 | 7 |
 | 2024-01-04 | 6,853 | 7 |
-| 2024-01-05 | 6,882 | 7 |
+| 2024-01-05 | 6,885 | 7 |
 ## Awards
-Max (Great for Beginners): 40  (Ranked 479)  
+Max (Great for Beginners): 40  (Ranked 480)  
 Sum: 209 (Ranked 411)  
-Diff (max vs sum): 68  
+Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 40 |

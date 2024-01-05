@@ -5,24 +5,24 @@ Rating: 4.14 (Ranked 1,002)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 44.00% | ~36,755 |
-| As Far Away As Possible | 20.00% | ~16,707 |
-| More Power to You | 20.00% | ~16,707 |
-| A Most Unstable Organism | 14.00% | ~11,695 |
-| No Time to Follow Protocol | 9.00% | ~7,518 |
-| Float Like a Butterfly... | 8.00% | ~6,683 |
-| Nano Connoisseur | 7.00% | ~5,847 |
-| In Two Places At Once | 6.00% | ~5,012 |
-| Pulling Your Weight | 3.00% | ~2,506 |
-| Reaping Rivals | 3.00% | ~2,506 |
-| fifteenth Time's the Charm | 1.00% | ~835 |
+| Your Lucky Day | 44.00% | ~36,769 |
+| As Far Away As Possible | 20.00% | ~16,713 |
+| More Power to You | 20.00% | ~16,713 |
+| A Most Unstable Organism | 14.00% | ~11,699 |
+| No Time to Follow Protocol | 9.00% | ~7,521 |
+| Float Like a Butterfly... | 8.00% | ~6,685 |
+| Nano Connoisseur | 7.00% | ~5,850 |
+| In Two Places At Once | 6.00% | ~5,014 |
+| Pulling Your Weight | 3.00% | ~2,507 |
+| Reaping Rivals | 3.00% | ~2,507 |
+| fifteenth Time's the Charm | 1.00% | ~836 |
 | Gone Rogue | 0.90% | ~752 |
 | Memory Keeper | 0.40% | ~334 |
 | Completely Customizable | 0.40% | ~334 |
 | Runs for Your Money | 0.30% | ~251 |
 | Past Master | 0.30% | ~251 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83,534 (Ranked 107)  
+Progressed: 83,566 (Ranked 107)  
 Completed: 62 (0.07%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,10 +153,10 @@ Completed: 62 (0.07%) (Ranked 322)
 | 2024-01-02 | 82,048 | 61 |
 | 2024-01-03 | 82,692 | 62 |
 | 2024-01-04 | 83,212 | 62 |
-| 2024-01-05 | 83,534 | 62 |
+| 2024-01-05 | 83,566 | 62 |
 ## Awards
 Max (Great for Beginners): 133  (Ranked 336)  
-Sum: 557 (Ranked 327)  
+Sum: 558 (Ranked 327)  
 Diff (max vs sum): 9  
 | Award | Count |
 | ----- | ----- |
@@ -167,7 +167,7 @@ Diff (max vs sum): 9
 | This game has Amazing Characters | 61 |
 | This game has a Competitive Community | 54 |
 | This game has Amazing Storytelling | 52 |
-| This game has Quickly Understood Controls | 51 |
+| This game has Quickly Understood Controls | 52 |
 | This game is Relaxing | 46 |
 | This game has Unique Visuals | 20 |
 ## Ratings History
@@ -282,4 +282,4 @@ Diff (max vs sum): 9
 | 2024-01-02 | 4.15 | 126 | 491 |
 | 2024-01-03 | 4.15 | 128 | 543 |
 | 2024-01-04 | 4.14 | 129 | 546 |
-| 2024-01-05 | 4.14 | 133 | 557 |
+| 2024-01-05 | 4.14 | 133 | 558 |

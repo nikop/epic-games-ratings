@@ -1,7 +1,7 @@
 # Way of the Hunter
 [Store](https://store.epicgames.com/en-US/p/way-of-the-hunter)  
 [View Rawdata](../../db/w/way_of_the_hunter.json)  
-Rating: 4.39 (Ranked 777)  
+Rating: 4.39 (Ranked 776)  
 Number of Ratings: 190  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -34,7 +34,7 @@ Number of Ratings: 190  (23.09.2022)
 | Welcome to the land of vamp… chamois! | 0.00% | ~0 |
 | Worth the View | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,915 (Ranked 249)  
+Progressed: 1,919 (Ranked 249)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,11 +62,11 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-02 | 1,793 | 0 |
 | 2024-01-03 | 1,847 | 0 |
 | 2024-01-04 | 1,883 | 0 |
-| 2024-01-05 | 1,915 | 0 |
+| 2024-01-05 | 1,919 | 0 |
 ## Awards
-Max (Highly Recommended): 62  (Ranked 424)  
-Sum: 370 (Ranked 364)  
-Diff (max vs sum): 60  
+Max (Highly Recommended): 62  (Ranked 425)  
+Sum: 372 (Ranked 361)  
+Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 62 |
@@ -74,9 +74,9 @@ Diff (max vs sum): 60
 | This game is Relaxing | 51 |
 | This game is Extremely Fun | 43 |
 | This game has Amazing Characters | 41 |
-| This game is Educational | 40 |
+| This game is Educational | 41 |
 | This game has Amazing Storytelling | 39 |
-| This game has Realistic Visuals | 38 |
+| This game has Realistic Visuals | 39 |
 | This game has Diverse Characters | 25 |
 | This game has Challenging Combat | 25 |
 | This game has Obsessive Gameplay | 21 |
@@ -282,4 +282,4 @@ Diff (max vs sum): 60
 | 2023-12-31 | 4.41 | - | 61 | 363 |
 | 2024-01-01 | 4.40 | - | 62 | 364 |
 | 2024-01-03 | 4.40 | - | 62 | 368 |
-| 2024-01-05 | 4.39 | - | 62 | 370 |
+| 2024-01-05 | 4.39 | - | 62 | 372 |

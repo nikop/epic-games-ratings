@@ -1,7 +1,7 @@
 # Frontier Hunter: Erza's Wheel of Fortune
 [Store](https://store.epicgames.com/en-US/p/frontier-hunter-erzas-wheel-of-fortune)  
 [View Rawdata](../../db/f/frontier_hunter__erza's_wheel_of_fortune.json)  
-Rating: 4.38 (Ranked 788)  
+Rating: 4.38 (Ranked 787)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -27,8 +27,8 @@ Rating: 4.38 (Ranked 788)
 | Youth Magnet | 18.00% | ~129 |
 | Furious Scorpion Killer | 17.00% | ~122 |
 | Lethal Blade Mantis Killer | 17.00% | ~122 |
+| Squeaky Clean | 17.00% | ~122 |
 | Master Artificer | 17.00% | ~122 |
-| Squeaky Clean | 16.00% | ~115 |
 | Kind Adventurer | 15.00% | ~108 |
 | Mermaid Killer | 15.00% | ~108 |
 | Cave Master | 14.00% | ~100 |

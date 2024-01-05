@@ -5,13 +5,13 @@ Rating: 4.05 (Ranked 1,032)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~3,911 |
-| World Map | 78.00% | ~3,280 |
-| Temple of Eternals | 56.00% | ~2,355 |
-| Prestigious | 52.00% | ~2,187 |
-| Fellowship Power | 41.00% | ~1,724 |
-| Full Party | 28.00% | ~1,177 |
-| Guild Power | 23.00% | ~967 |
+| Victor | 93.00% | ~3,913 |
+| World Map | 78.00% | ~3,281 |
+| Temple of Eternals | 56.00% | ~2,356 |
+| Prestigious | 52.00% | ~2,188 |
+| Fellowship Power | 41.00% | ~1,725 |
+| Full Party | 28.00% | ~1,178 |
+| Guild Power | 23.00% | ~968 |
 | Prestigious x10 | 20.00% | ~841 |
 | The game is on | 18.00% | ~757 |
 | Exotic Merchant | 16.00% | ~673 |
@@ -27,17 +27,17 @@ Rating: 4.05 (Ranked 1,032)
 | Natural Talent | 11.00% | ~463 |
 | Superior | 11.00% | ~463 |
 | The Unstoppable | 11.00% | ~463 |
-| Doing My Part | 9.00% | ~378 |
-| Scientist | 9.00% | ~378 |
-| The power of Awakening | 9.00% | ~378 |
-| Challenger | 8.00% | ~336 |
-| Daily Quest Completionist | 8.00% | ~336 |
-| Frostfire Liberator | 8.00% | ~336 |
-| Hunter | 8.00% | ~336 |
-| Mastery | 8.00% | ~336 |
-| Moving Up The Ladder | 8.00% | ~336 |
-| Relic Of The Past | 8.00% | ~336 |
-| Scroll Master | 8.00% | ~336 |
+| Doing My Part | 9.00% | ~379 |
+| Scientist | 9.00% | ~379 |
+| The power of Awakening | 9.00% | ~379 |
+| Challenger | 8.00% | ~337 |
+| Daily Quest Completionist | 8.00% | ~337 |
+| Frostfire Liberator | 8.00% | ~337 |
+| Hunter | 8.00% | ~337 |
+| Mastery | 8.00% | ~337 |
+| Moving Up The Ladder | 8.00% | ~337 |
+| Relic Of The Past | 8.00% | ~337 |
+| Scroll Master | 8.00% | ~337 |
 | Four Leaf Clover | 7.00% | ~294 |
 | Here We Go Again | 7.00% | ~294 |
 | Master Enchanter | 7.00% | ~294 |
@@ -81,7 +81,7 @@ Rating: 4.05 (Ranked 1,032)
 | Jewel Enchanting | 0.10% | ~4 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,205 (Ranked 210)  
+Progressed: 4,207 (Ranked 210)  
 Completed: 2 (0.05%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,11 +336,11 @@ Completed: 2 (0.05%) (Ranked 335)
 | 2024-01-02 | 4,107 | 2 |
 | 2024-01-03 | 4,139 | 2 |
 | 2024-01-04 | 4,183 | 2 |
-| 2024-01-05 | 4,205 | 2 |
+| 2024-01-05 | 4,207 | 2 |
 ## Awards
-Max (Great for Beginners): 40  (Ranked 479)  
+Max (Great for Beginners): 40  (Ranked 480)  
 Sum: 154 (Ranked 437)  
-Diff (max vs sum): 42  
+Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 40 |

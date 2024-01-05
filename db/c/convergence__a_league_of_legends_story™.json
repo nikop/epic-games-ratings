@@ -3,11 +3,11 @@
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_Rating": 286,
-  "Ranking_Popularity": 579,
-  "Ranking_PopularitySum": 579,
+  "Ranking_Popularity": 580,
+  "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -57,9 +57,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1235,
+  "EOS_Progressed": 1236,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -3642,6 +3642,11 @@
       "Time": "2024-01-05T15:10:03.8784874+00:00",
       "NumProgressed": 1235,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-05T16:10:02.7903129+00:00",
+      "NumProgressed": 1236,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3701,7 +3706,7 @@
       "Name": "Like Clockwork",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ClovemaryGift",
@@ -3773,7 +3778,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -3781,7 +3786,7 @@
       "Name": "The Betrayer",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -3941,7 +3946,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "RewindParry",
@@ -3957,7 +3962,7 @@
       "Name": "Golem Hunter",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ScrambotProgress1",
@@ -3965,7 +3970,7 @@
       "Name": "Golem Chaser",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "SkillCompletion1",
@@ -3981,7 +3986,7 @@
       "Name": "Fast Learner",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "SpeedRun",
@@ -4037,7 +4042,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "WatcherFought",
@@ -4061,7 +4066,7 @@
       "Name": "The Brass Boss",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "Zarkon2Defeated",
@@ -4076,7 +4081,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1235,
+      "Progressed": 1236,
       "Completed": 6
     }
   ],
@@ -4084,8 +4089,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-05T11:57:15.4004085+00:00",
-  "LastChanged_Achievements": "2024-01-05T15:10:03.8784868+00:00",
+  "LastChanged_Achievements": "2024-01-05T16:10:02.7903126+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:23.9308133+00:00",
-  "LastUpdate_Ratings": "2024-01-05T14:57:08.4997954+00:00",
-  "LastUpdate_Achievements": "2024-01-05T15:10:03.8785526+00:00"
+  "LastUpdate_Ratings": "2024-01-05T15:57:08.3203642+00:00",
+  "LastUpdate_Achievements": "2024-01-05T16:10:02.7903641+00:00"
 }

@@ -406,9 +406,9 @@
       "ID": "BFT_CHOMP",
       "SetID": "7o7kd30",
       "Name": "Plant Enchanter",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 65,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "BFT_COOK",
@@ -527,8 +527,8 @@
   "FirstSeenRating": "2023-03-31T05:58:05.5070215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:45.7911439+00:00",
   "LastChanged": "2023-03-31T05:58:05.5070216+00:00",
-  "LastChanged_Achievements": "2024-01-05T15:09:50.4161105+00:00",
+  "LastChanged_Achievements": "2024-01-05T16:09:48.4909341+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:46.6433066+00:00",
-  "LastUpdate_Ratings": "2024-01-05T14:59:53.7322403+00:00",
-  "LastUpdate_Achievements": "2024-01-05T15:09:50.4161294+00:00"
+  "LastUpdate_Ratings": "2024-01-05T16:00:12.4215144+00:00",
+  "LastUpdate_Achievements": "2024-01-05T16:09:48.4909556+00:00"
 }

@@ -1,34 +1,34 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.29 (Ranked 878)  
+Rating: 4.29 (Ranked 876)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~165,832 |
+| Corner Clout | 46.00% | ~165,834 |
 | Copacetic Coordination | 16.00% | ~57,681 |
 | Fronting the Money | 15.00% | ~54,076 |
 | The Dawn of Automation | 14.00% | ~50,471 |
 | Extraordinary Logistics | 14.00% | ~50,471 |
 | Dirty Money | 13.00% | ~46,866 |
 | Family First | 13.00% | ~46,866 |
-| Cleaning House | 12.00% | ~43,260 |
-| Room in the Back | 12.00% | ~43,260 |
-| Beating the Heat | 11.00% | ~39,655 |
-| Booze Baron | 11.00% | ~39,655 |
-| Friends on the Force | 10.00% | ~36,050 |
-| Neighborhood Watch | 10.00% | ~36,050 |
-| Core Corps | 8.00% | ~28,840 |
-| Sizeable Stash | 8.00% | ~28,840 |
-| Street Fighter | 7.00% | ~25,235 |
-| Friendly Gestures | 7.00% | ~25,235 |
-| People Person | 7.00% | ~25,235 |
-| Liquor Lord | 6.00% | ~21,630 |
-| Safety in Numbers | 6.00% | ~21,630 |
-| Moving Experiences | 6.00% | ~21,630 |
-| Wise Head | 6.00% | ~21,630 |
-| Show ‘em the Sugar | 6.00% | ~21,630 |
-| Killing Them Softly | 6.00% | ~21,630 |
+| Cleaning House | 12.00% | ~43,261 |
+| Room in the Back | 12.00% | ~43,261 |
+| Beating the Heat | 11.00% | ~39,656 |
+| Booze Baron | 11.00% | ~39,656 |
+| Friends on the Force | 10.00% | ~36,051 |
+| Neighborhood Watch | 10.00% | ~36,051 |
+| Core Corps | 8.00% | ~28,841 |
+| Sizeable Stash | 8.00% | ~28,841 |
+| Street Fighter | 7.00% | ~25,236 |
+| Friendly Gestures | 7.00% | ~25,236 |
+| People Person | 7.00% | ~25,236 |
+| Liquor Lord | 6.00% | ~21,631 |
+| Safety in Numbers | 6.00% | ~21,631 |
+| Moving Experiences | 6.00% | ~21,631 |
+| Wise Head | 6.00% | ~21,631 |
+| Show ‘em the Sugar | 6.00% | ~21,631 |
+| Killing Them Softly | 6.00% | ~21,631 |
 | Street Knowledge | 5.00% | ~18,025 |
 | Oh Captain | 5.00% | ~18,025 |
 | Branching Out | 5.00% | ~18,025 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 878)
 | High Pillow | 0.10% | ~361 |
 | Station Master | 0.10% | ~361 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 360,504 (Ranked 56)  
+Progressed: 360,509 (Ranked 56)  
 Completed: 7 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -346,11 +346,11 @@ Completed: 7 (0.00%) (Ranked 392)
 | 2024-01-02 | 360,046 | 7 |
 | 2024-01-03 | 360,236 | 7 |
 | 2024-01-04 | 360,386 | 7 |
-| 2024-01-05 | 360,504 | 7 |
+| 2024-01-05 | 360,509 | 7 |
 ## Awards
-Max (Great for Beginners): 58  (Ranked 431)  
+Max (Great for Beginners): 58  (Ranked 432)  
 Sum: 268 (Ranked 393)  
-Diff (max vs sum): 38  
+Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 58 |

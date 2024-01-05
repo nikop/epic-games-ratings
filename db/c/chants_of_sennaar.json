@@ -3,8 +3,8 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_Rating": 54,
-  "Ranking_Popularity": 579,
-  "Ranking_PopularitySum": 579,
+  "Ranking_Popularity": 580,
+  "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 65,
   "Ranking_EOS_NewPlayers": 161,
@@ -115,9 +115,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2403,
+  "EOS_Progressed": 2404,
   "EOS_Completed": 154,
-  "EOS_NewPlayers": 422,
+  "EOS_NewPlayers": 419,
   "EOS_NewCompleters": 33,
   "EOS_Completed_Percentage": 6.41,
   "EosHistory": [
@@ -6440,6 +6440,11 @@
       "Time": "2024-01-05T15:04:49.7401019+00:00",
       "NumProgressed": 2403,
       "NumCompleted": 154
+    },
+    {
+      "Time": "2024-01-05T16:05:02.3457446+00:00",
+      "NumProgressed": 2404,
+      "NumCompleted": 154
     }
   ],
   "TotalAchievements": 25,
@@ -6523,7 +6528,7 @@
       "Name": "A great audience",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "META_RESULT_2-4",
@@ -6531,7 +6536,7 @@
       "Name": "For its own good",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "META_RESULT_3-4",
@@ -6539,7 +6544,7 @@
       "Name": "A Link to the Past",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -6553,9 +6558,9 @@
       "ID": "OPTIONNAL_BELL",
       "SetID": "2gma9an",
       "Name": "Rascal",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 625
+      "UsersEstimate": 601
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -6571,7 +6576,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1010
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -6619,7 +6624,7 @@
       "Name": "The great escape",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 1057
+      "UsersEstimate": 1058
     },
     {
       "ID": "PROGRESS_N3",
@@ -6650,7 +6655,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2403,
+      "Progressed": 2404,
       "Completed": 154
     }
   ],
@@ -6658,8 +6663,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-05T05:56:52.9506566+00:00",
-  "LastChanged_Achievements": "2024-01-05T15:04:49.7401014+00:00",
+  "LastChanged_Achievements": "2024-01-05T16:05:02.3457442+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:09.4320521+00:00",
-  "LastUpdate_Ratings": "2024-01-05T14:57:07.6277558+00:00",
-  "LastUpdate_Achievements": "2024-01-05T15:04:49.7401525+00:00"
+  "LastUpdate_Ratings": "2024-01-05T15:57:07.3727249+00:00",
+  "LastUpdate_Achievements": "2024-01-05T16:05:02.3457881+00:00"
 }

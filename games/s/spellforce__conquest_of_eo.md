@@ -9,18 +9,18 @@
 | First to the post | 80.00% | ~93 |
 | A kind of Magic | 73.00% | ~85 |
 | Connected | 66.00% | ~77 |
-| Expansion | 60.00% | ~70 |
+| Expansion | 61.00% | ~71 |
+| Mine! | 57.00% | ~66 |
 | Harvest Time | 56.00% | ~65 |
-| Mine! | 56.00% | ~65 |
 | Artificer's Apprentice | 47.00% | ~55 |
 | Fly the friendly Sky | 45.00% | ~52 |
 | Get out of here! | 43.00% | ~50 |
 | Necromancer's Apprentice | 38.00% | ~44 |
 | Alchemist's Apprentice | 36.00% | ~42 |
 | Friend of Lyraine | 36.00% | ~42 |
+| Redecorating | 34.00% | ~39 |
 | The Circle | 34.00% | ~39 |
-| Redecorating | 33.00% | ~38 |
-| Bad JuJu | 25.00% | ~29 |
+| Bad JuJu | 26.00% | ~30 |
 | Friend of Sevenkeeps | 23.00% | ~27 |
 | Slave to the rhythm | 22.00% | ~26 |
 | Castle Meldec | 22.00% | ~26 |
@@ -31,44 +31,44 @@
 | Break Free | 14.00% | ~16 |
 | Stormwatch Faste | 13.00% | ~15 |
 | Friend of Silver Drift Hollow | 13.00% | ~15 |
+| A Master of Magic | 12.00% | ~14 |
 | Friend of Orgash | 12.00% | ~14 |
 | Friend of Bastion | 12.00% | ~14 |
 | Magic Academy | 12.00% | ~14 |
 | Philo's Tale | 11.00% | ~13 |
 | Silver Drift Hollow Mine | 11.00% | ~13 |
-| A Master of Magic | 11.00% | ~13 |
 | Friend of Windholme | 11.00% | ~13 |
+| Mage Teacher | 10.00% | ~12 |
 | Defeat Gor | 9.00% | ~10 |
 | Defeat Uram | 9.00% | ~10 |
 | Yngrid's Tale | 9.00% | ~10 |
-| Mage Teacher | 9.00% | ~10 |
 | Friend of Uram Gor | 9.00% | ~10 |
 | A Joke | 9.00% | ~10 |
 | The Forge of Regan Gor | 8.00% | ~9 |
 | Fireforge | 8.00% | ~9 |
+| A Monopoly of Might | 8.00% | ~9 |
+| Get to the Airship! | 7.00% | ~8 |
 | Defeat Hokan | 7.00% | ~8 |
 | Defeat Raith | 7.00% | ~8 |
 | Lore's Tale | 7.00% | ~8 |
 | Tuscari Sea Portal | 7.00% | ~8 |
-| A Monopoly of Might | 7.00% | ~8 |
+| Master Artificer | 7.00% | ~8 |
+| Heroes | 7.00% | ~8 |
 | Balanced | 7.00% | ~8 |
 | Friend of Grey Dusk Vale | 7.00% | ~8 |
-| Get to the Airship! | 6.00% | ~7 |
 | Defeat Undergast | 6.00% | ~7 |
 | Elynn's Tale | 6.00% | ~7 |
 | Crypt of the Revenant | 6.00% | ~7 |
-| Master Artificer | 6.00% | ~7 |
-| Heroes | 6.00% | ~7 |
 | Defeat Ianna | 5.00% | ~6 |
+| Defeat Yria | 5.00% | ~6 |
+| My Friends! | 5.00% | ~6 |
 | Master Necromancer | 5.00% | ~6 |
 | Defeat Isgrimm | 4.00% | ~5 |
-| Defeat Yria | 4.00% | ~5 |
 | Lytra's Tale | 4.00% | ~5 |
 | Misty Coast Dragonbones | 4.00% | ~5 |
-| My Friends! | 4.00% | ~5 |
+| Breaking the circle | 4.00% | ~5 |
 | Defeat Rohen | 3.00% | ~3 |
 | Master Alchemist | 3.00% | ~3 |
-| Breaking the circle | 3.00% | ~3 |
 | Hard Life | 2.00% | ~2 |
 | Impossible Mission | 2.00% | ~2 |
 | Potion Master | 0.00% | ~0 |

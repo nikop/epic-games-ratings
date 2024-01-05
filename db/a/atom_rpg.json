@@ -3,8 +3,8 @@
   "Name": "ATOM RPG",
   "ProductSlug": "atom-rpg-3adb54",
   "Ranking_Rating": 653,
-  "Ranking_Popularity": 444,
-  "Ranking_PopularitySum": 502,
+  "Ranking_Popularity": 445,
+  "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 329,
   "Ranking_EOS_NewPlayers": 243,
@@ -409,9 +409,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1620,
+  "EOS_Progressed": 1622,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4219,6 +4219,11 @@
       "Time": "2024-01-05T15:09:56.3097461+00:00",
       "NumProgressed": 1620,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-05T16:09:54.7078958+00:00",
+      "NumProgressed": 1622,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4286,7 +4291,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1604
+      "UsersEstimate": 1606
     },
     {
       "ID": "EXPERT_1",
@@ -4302,7 +4307,7 @@
       "Name": "Explorer",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "GHOSTBUSTER",
@@ -4318,7 +4323,7 @@
       "Name": "Grave Robber",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "HEAD_BURST_1",
@@ -4326,7 +4331,7 @@
       "Name": "Head Burst",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "INDY_1",
@@ -4390,7 +4395,7 @@
       "Name": "One shot, one kill",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "PACIFIST",
@@ -4420,9 +4425,9 @@
       "ID": "PROTECTION_RACKET",
       "SetID": "bf13m8j",
       "Name": "Protection racket",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 81
     },
     {
       "ID": "RELICTS",
@@ -4452,9 +4457,9 @@
       "ID": "SAVANT_1",
       "SetID": "bf13m8j",
       "Name": "Savant",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 162
+      "UsersEstimate": 146
     },
     {
       "ID": "SECRET_ROOM",
@@ -4502,7 +4507,7 @@
       "Name": "Wanderer",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "WISHMASTER_1",
@@ -4517,15 +4522,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1620,
+      "Progressed": 1622,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-12-27T01:41:52.1948259+00:00",
-  "LastChanged_Achievements": "2024-01-05T15:09:56.3097457+00:00",
+  "LastChanged_Achievements": "2024-01-05T16:09:54.7078955+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.8702318+00:00",
-  "LastUpdate_Ratings": "2024-01-05T14:57:48.2872159+00:00",
-  "LastUpdate_Achievements": "2024-01-05T15:09:56.3097857+00:00"
+  "LastUpdate_Ratings": "2024-01-05T15:57:50.9254673+00:00",
+  "LastUpdate_Achievements": "2024-01-05T16:09:54.7079656+00:00"
 }

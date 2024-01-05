@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 498,
+  "EOS_Progressed": 499,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1924,6 +1924,11 @@
       "Time": "2024-01-05T07:03:53.9659414+00:00",
       "NumProgressed": 498,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T16:03:50.0099271+00:00",
+      "NumProgressed": 499,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-07T18:00:21.0046811+00:00",
@@ -1976,7 +1981,7 @@
       "Name": "In the last second",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "Master",
@@ -2047,14 +2052,14 @@
     {
       "ID": "cjfnji1",
       "IsBase": true,
-      "Progressed": 498,
+      "Progressed": 499,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2024-01-05T15:03:41.7369858+00:00",
+  "LastChanged_Achievements": "2024-01-05T16:03:50.0099267+00:00",
   "LastUpdate_AppInfo": "2024-01-02T04:56:54.2525361+00:00",
-  "LastUpdate_Ratings": "2024-01-05T15:00:01.0236067+00:00",
-  "LastUpdate_Achievements": "2024-01-05T15:03:41.7370039+00:00"
+  "LastUpdate_Ratings": "2024-01-05T16:00:20.4857516+00:00",
+  "LastUpdate_Achievements": "2024-01-05T16:03:50.0099476+00:00"
 }

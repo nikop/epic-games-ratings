@@ -6,29 +6,29 @@ Number of Ratings: 756  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 3.00% | ~8,745 |
+| Ball Launched | 3.00% | ~8,746 |
 | I Found it! | 1.00% | ~2,915 |
 | Ready Steady Score | 0.40% | ~1,166 |
 | First but not Last | 0.20% | ~583 |
 | Full Loot Madness | 0.20% | ~583 |
-| Contender | 0.10% | ~291 |
-| My Table, my Rules | 0.10% | ~291 |
-| Collect Them All | 0.10% | ~291 |
-| Shiny Memento | 0.10% | ~291 |
-| Table Mastered, part 10 | 0.10% | ~291 |
-| Medal Hunter | 0.10% | ~291 |
-| Medal Wizard | 0.10% | ~291 |
-| Pinball Hoarder | 0.10% | ~291 |
-| Virtual Pinball Museum | 0.10% | ~291 |
-| Nine Zeroes | 0.10% | ~291 |
-| Challenge Accepted! | 0.10% | ~291 |
-| Relic Hunter | 0.10% | ~291 |
-| Interior Designer | 0.10% | ~291 |
-| Show Them | 0.10% | ~291 |
-| Totally Furnished | 0.10% | ~291 |
-| Dress Code | 0.10% | ~291 |
-| Customizer | 0.10% | ~291 |
-| I know the Rules | 0.10% | ~291 |
+| Contender | 0.10% | ~292 |
+| My Table, my Rules | 0.10% | ~292 |
+| Collect Them All | 0.10% | ~292 |
+| Shiny Memento | 0.10% | ~292 |
+| Table Mastered, part 10 | 0.10% | ~292 |
+| Medal Hunter | 0.10% | ~292 |
+| Medal Wizard | 0.10% | ~292 |
+| Pinball Hoarder | 0.10% | ~292 |
+| Virtual Pinball Museum | 0.10% | ~292 |
+| Nine Zeroes | 0.10% | ~292 |
+| Challenge Accepted! | 0.10% | ~292 |
+| Relic Hunter | 0.10% | ~292 |
+| Interior Designer | 0.10% | ~292 |
+| Show Them | 0.10% | ~292 |
+| Totally Furnished | 0.10% | ~292 |
+| Dress Code | 0.10% | ~292 |
+| Customizer | 0.10% | ~292 |
+| I know the Rules | 0.10% | ~292 |
 | Catomic Bomb | 0.10% | ~10 |
 | Terraformer | 0.10% | ~10 |
 | The Captain | 0.10% | ~10 |
@@ -46,7 +46,7 @@ Number of Ratings: 756  (23.09.2022)
 | The most beautiful Christmas | 0.00% | ~0 |
 | End of Gloom | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 291,497 (Ranked 63)  
+Progressed: 291,537 (Ranked 63)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-02 | 290,342 | 0 |
 | 2024-01-03 | 290,679 | 0 |
 | 2024-01-04 | 291,140 | 0 |
-| 2024-01-05 | 291,497 | 0 |
+| 2024-01-05 | 291,537 | 0 |
 ## Awards
 Max (Great for Beginners): 213  (Ranked 292)  
 Sum: 1,636 (Ranked 231)  

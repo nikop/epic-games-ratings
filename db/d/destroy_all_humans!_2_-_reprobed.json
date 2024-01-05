@@ -3,11 +3,11 @@
   "Name": "Destroy All Humans! 2 - Reprobed",
   "ProductSlug": "destroy-all-humans-2-reprobed",
   "Ranking_Rating": 546,
-  "Ranking_Popularity": 494,
-  "Ranking_PopularitySum": 526,
-  "Ranking_EOS_Progress": 387,
+  "Ranking_Popularity": 495,
+  "Ranking_PopularitySum": 527,
+  "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -294,9 +294,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 318,
+  "EOS_Progressed": 319,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -1534,6 +1534,11 @@
       "Time": "2024-01-05T10:09:28.8688011+00:00",
       "NumProgressed": 318,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-05T16:09:02.929342+00:00",
+      "NumProgressed": 319,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1546,7 +1551,7 @@
       "Name": "Mash Machine",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1578,7 +1583,7 @@
       "Name": "Furon Fashion",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -1616,9 +1621,9 @@
       "ID": "ACH_COMPLETE_ARK01",
       "SetID": "4n84pon",
       "Name": "Cult Following",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -1682,7 +1687,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 82,
       "XP": 25,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1770,7 +1775,7 @@
       "Name": "Scuttled",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_KILL_YETI",
@@ -1880,9 +1885,9 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "4n84pon",
       "Name": "Shop Til They Drop",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1897,7 +1902,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 318,
+      "Progressed": 319,
       "Completed": 2
     }
   ],
@@ -1905,8 +1910,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-03T11:58:36.9448322+00:00",
-  "LastChanged_Achievements": "2024-01-05T15:09:08.7777179+00:00",
+  "LastChanged_Achievements": "2024-01-05T16:09:02.9293415+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.261947+00:00",
-  "LastUpdate_Ratings": "2024-01-05T14:59:08.4689234+00:00",
-  "LastUpdate_Achievements": "2024-01-05T15:09:08.7777581+00:00"
+  "LastUpdate_Ratings": "2024-01-05T15:59:23.1536591+00:00",
+  "LastUpdate_Achievements": "2024-01-05T16:09:02.9293765+00:00"
 }

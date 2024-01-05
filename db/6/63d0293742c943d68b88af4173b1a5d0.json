@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 637,
+  "EOS_Progressed": 639,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2074,6 +2074,11 @@
       "Time": "2024-01-05T13:09:22.069062+00:00",
       "NumProgressed": 637,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T16:05:06.3843558+00:00",
+      "NumProgressed": 639,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -2126,7 +2131,7 @@
       "Name": "Baby\u0027s On Fire",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "9",
@@ -2140,9 +2145,9 @@
       "ID": "REMAKE_001",
       "SetID": "5pi96jj",
       "Name": "Turn a Rat into a Snack",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 204
+      "UsersEstimate": 198
     },
     {
       "ID": "REMAKE_002",
@@ -2150,7 +2155,7 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "REMAKE_004",
@@ -2158,7 +2163,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "Remake_005",
@@ -2174,7 +2179,7 @@
       "Name": "Attempted Vehicular Infanticide",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "Remake_007",
@@ -2182,7 +2187,7 @@
       "Name": "Deez Buffs Make Me Go Nuts",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "Remake_008",
@@ -2214,7 +2219,7 @@
       "Name": "Imma Powder Out",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "Remake_12",
@@ -2228,9 +2233,9 @@
       "ID": "Remake_13",
       "SetID": "5pi96jj",
       "Name": "Toasted",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 102
+      "UsersEstimate": 96
     },
     {
       "ID": "Remake_14",
@@ -2246,7 +2251,7 @@
       "Name": "Ready for the Big Leagues",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Remake_16",
@@ -2278,7 +2283,7 @@
       "Name": "Pan Head",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Remake_20",
@@ -2309,14 +2314,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 637,
+      "Progressed": 639,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-05T15:04:53.4024591+00:00",
+  "LastChanged_Achievements": "2024-01-05T16:05:06.3843553+00:00",
   "LastUpdate_AppInfo": "2024-01-02T02:20:04.0332654+00:00",
-  "LastUpdate_Ratings": "2024-01-05T14:58:58.1026725+00:00",
-  "LastUpdate_Achievements": "2024-01-05T15:04:53.4024914+00:00"
+  "LastUpdate_Ratings": "2024-01-05T15:59:11.9256289+00:00",
+  "LastUpdate_Achievements": "2024-01-05T16:05:06.384384+00:00"
 }

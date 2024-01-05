@@ -1,7 +1,7 @@
 # Townsmen - A Kingdom Rebuilt
 [Store](https://store.epicgames.com/en-US/p/townsmen-a-kingdom-rebuilt-07c09d)  
 [View Rawdata](../../db/t/townsmen_-_a_kingdom_rebuilt.json)  
-Rating: 4.27 (Ranked 900)  
+Rating: 4.27 (Ranked 899)  
 Number of Ratings: 37  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -58,6 +58,7 @@ Number of Ratings: 37  (23.09.2022)
 | Lord of War | 2.00% | ~88 |
 | Plague strikes! | 2.00% | ~88 |
 | Builder IV | 2.00% | ~88 |
+| An honorable Governor III | 2.00% | ~88 |
 | Completionist II | 2.00% | ~88 |
 | Completionist III | 2.00% | ~88 |
 | Genius | 2.00% | ~88 |
@@ -66,17 +67,16 @@ Number of Ratings: 37  (23.09.2022)
 | Tax-man V | 2.00% | ~88 |
 | Tools of the trade III | 2.00% | ~88 |
 | When there's fire... | 1.00% | ~44 |
-| An honorable Governor III | 1.00% | ~44 |
 | Reunification | 1.00% | ~44 |
 | Treat her well… | 1.00% | ~44 |
 | I've been everywhere II | 1.00% | ~44 |
 | I've been everywhere I | 1.00% | ~44 |
 | I've been everywhere VI | 1.00% | ~44 |
 | A time consuming game V | 1.00% | ~44 |
+| Builder V | 0.90% | ~40 |
 | Ten-Hut! | 0.90% | ~40 |
 | The wood shortage | 0.90% | ~40 |
 | Last man standing | 0.80% | ~35 |
-| Builder V | 0.80% | ~35 |
 | Buried | 0.80% | ~35 |
 | Penny pincher | 0.80% | ~35 |
 | Craftsmen challenge | 0.70% | ~31 |

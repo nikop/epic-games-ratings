@@ -287,9 +287,9 @@
       "ID": "ACH_ATLAS",
       "SetID": "6lg1p1e",
       "Name": "Atlas",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_BARGAIN-HUNTER",
@@ -423,9 +423,9 @@
       "ID": "ACH_LOREMASTER",
       "SetID": "6lg1p1e",
       "Name": "Lore Master",
-      "Percentage": 10,
+      "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_MISCHIEVOUS-BREAD",
@@ -527,17 +527,17 @@
       "ID": "ACH_ROYAL-PARDON",
       "SetID": "6lg1p1e",
       "Name": "Royal Pardon",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_SPELUNKER",
       "SetID": "6lg1p1e",
       "Name": "Spelunker",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_WELL-TRAVELLED",
@@ -574,8 +574,8 @@
   ],
   "FirstSeen": "2023-12-07T10:00:27.7734376+00:00",
   "FirstSeenAchievements": "2023-11-03T11:07:54.6624066+00:00",
-  "LastChanged_Achievements": "2024-01-05T15:08:55.4127505+00:00",
+  "LastChanged_Achievements": "2024-01-05T16:08:48.6775153+00:00",
   "LastUpdate_AppInfo": "2024-01-03T22:57:16.3132761+00:00",
-  "LastUpdate_Ratings": "2024-01-05T14:59:57.882446+00:00",
-  "LastUpdate_Achievements": "2024-01-05T15:08:55.4127803+00:00"
+  "LastUpdate_Ratings": "2024-01-05T16:00:17.1146794+00:00",
+  "LastUpdate_Achievements": "2024-01-05T16:08:48.6775412+00:00"
 }

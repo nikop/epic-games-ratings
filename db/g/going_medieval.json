@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 265,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1667,7 +1667,7 @@
       "Count": 78
     }
   ],
-  "EOS_Progressed": 7759,
+  "EOS_Progressed": 7760,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
@@ -16182,6 +16182,11 @@
       "Time": "2024-01-05T15:07:56.7030494+00:00",
       "NumProgressed": 7759,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-05T16:06:34.5047206+00:00",
+      "NumProgressed": 7760,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -16193,7 +16198,7 @@
       "Name": "Get A Room",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 5897
+      "UsersEstimate": 5898
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -16233,7 +16238,7 @@
       "Name": "Having A Field Day",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 5897
+      "UsersEstimate": 5898
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -16241,7 +16246,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 5664
+      "UsersEstimate": 5665
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -16305,7 +16310,7 @@
       "Name": "Retribution",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3336
+      "UsersEstimate": 3337
     },
     {
       "ID": "PRODUCE_AT_CAMPFIRE",
@@ -16329,7 +16334,7 @@
       "Name": "Fit For A King",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 2017
+      "UsersEstimate": 2018
     },
     {
       "ID": "STORE_NUTRITION_5000",
@@ -16353,7 +16358,7 @@
       "Name": "The First Day",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 5431
+      "UsersEstimate": 5432
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -16361,7 +16366,7 @@
       "Name": "...And Don\u2019t Come Back!",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 3336
+      "UsersEstimate": 3337
     },
     {
       "ID": "SURVIVE_FIRST_SUMMER",
@@ -16369,7 +16374,7 @@
       "Name": "Heating Up",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2560
+      "UsersEstimate": 2561
     },
     {
       "ID": "SURVIVE_FIRST_WINTER",
@@ -16377,7 +16382,7 @@
       "Name": "Winter Is Here",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 2017
+      "UsersEstimate": 2018
     },
     {
       "ID": "SURVIVE_FIRST_YEAR",
@@ -16393,7 +16398,7 @@
       "Name": "The First Week",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4345
+      "UsersEstimate": 4346
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -16401,7 +16406,7 @@
       "Name": "Novice Researcher",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 5276
+      "UsersEstimate": 5277
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -16425,7 +16430,7 @@
       "Name": "Onward",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 4500
+      "UsersEstimate": 4501
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -16433,22 +16438,22 @@
       "Name": "Studious Researcher",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 4112
+      "UsersEstimate": 4113
     }
   ],
   "AchievementSets": [
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 7759,
+      "Progressed": 7760,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2024-01-03T16:59:16.511255+00:00",
-  "LastChanged_Achievements": "2024-01-05T15:07:56.7030491+00:00",
+  "LastChanged_Achievements": "2024-01-05T16:06:34.5047202+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:26.1002888+00:00",
-  "LastUpdate_Ratings": "2024-01-05T14:59:26.9313737+00:00",
-  "LastUpdate_Achievements": "2024-01-05T15:07:56.7031457+00:00"
+  "LastUpdate_Ratings": "2024-01-05T15:59:43.0416581+00:00",
+  "LastUpdate_Achievements": "2024-01-05T16:06:34.504813+00:00"
 }

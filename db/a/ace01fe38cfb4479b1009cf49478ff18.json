@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 771,
+  "EOS_Progressed": 773,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2524,6 +2524,11 @@
       "Time": "2024-01-05T13:13:10.6822001+00:00",
       "NumProgressed": 771,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-05T16:08:26.1227193+00:00",
+      "NumProgressed": 773,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -2536,15 +2541,15 @@
       "Name": "Chapter I - Complete",
       "Percentage": 20,
       "XP": 45,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ach_chapter_complete_2",
       "SetID": "d499apg",
       "Name": "Chapter II - Complete",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 45,
-      "UsersEstimate": 62
+      "UsersEstimate": 70
     },
     {
       "ID": "ach_chapter_complete_3",
@@ -2600,7 +2605,7 @@
       "Name": "Defeat a Lord of Change",
       "Percentage": 24,
       "XP": 45,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ach_find_all_secrets_c1",
@@ -2631,14 +2636,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 771,
+      "Progressed": 773,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2024-01-05T15:08:34.7284847+00:00",
+  "LastChanged_Achievements": "2024-01-05T16:08:26.1227189+00:00",
   "LastUpdate_AppInfo": "2023-12-29T15:57:01.9014557+00:00",
-  "LastUpdate_Ratings": "2024-01-05T14:57:41.6680912+00:00",
-  "LastUpdate_Achievements": "2024-01-05T15:08:34.7285104+00:00"
+  "LastUpdate_Ratings": "2024-01-05T15:57:43.6178742+00:00",
+  "LastUpdate_Achievements": "2024-01-05T16:08:26.1227454+00:00"
 }

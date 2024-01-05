@@ -1,14 +1,14 @@
 # Eiyuden Chronicle: Rising
 [Store](https://store.epicgames.com/en-US/p/eiyuden-chronicle-rising)  
 [View Rawdata](../../db/e/eiyuden_chronicle__rising.json)  
-Rating: 4.50 (Ranked 615)  
+Rating: 4.50 (Ranked 614)  
 Number of Ratings: 48  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Plenty More to Go | 85.00% | ~674 |
 | All Bark, No Bite | 74.00% | ~587 |
-| Hopeful Hunter | 63.00% | ~500 |
+| Hopeful Hunter | 64.00% | ~508 |
 | Amateur Adventurer | 61.00% | ~484 |
 | The Road to Recovery | 60.00% | ~476 |
 | Partners? | 58.00% | ~460 |

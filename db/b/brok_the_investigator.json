@@ -239,9 +239,9 @@
       "ID": "BESTSTUDENT",
       "SetID": "bb2dp",
       "Name": "Best Student",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "CHAPTER1",
@@ -279,9 +279,9 @@
       "ID": "CHAPTER5",
       "SetID": "bb2dp",
       "Name": "Chapter 5",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "CHAPTER6",
@@ -456,8 +456,8 @@
   "FirstSeenRating": "2023-04-09T06:58:32.3271567+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.8723244+00:00",
   "LastChanged": "2023-04-09T06:58:32.3271567+00:00",
-  "LastChanged_Achievements": "2024-01-05T15:03:56.8610335+00:00",
+  "LastChanged_Achievements": "2024-01-05T16:04:05.6395026+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:20.335815+00:00",
-  "LastUpdate_Ratings": "2024-01-05T14:59:00.5467213+00:00",
-  "LastUpdate_Achievements": "2024-01-05T15:03:56.861049+00:00"
+  "LastUpdate_Ratings": "2024-01-05T15:59:14.6841607+00:00",
+  "LastUpdate_Achievements": "2024-01-05T16:04:05.6395227+00:00"
 }

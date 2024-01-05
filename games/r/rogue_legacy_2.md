@@ -7,21 +7,21 @@ Number of Ratings: 1,331  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Spells and Swords | 6.00% | ~1,665 |
-| Captain and Crew | 5.00% | ~1,387 |
+| Captain and Crew | 5.00% | ~1,388 |
 | No Harm in Looking | 4.00% | ~1,110 |
-| Harvest and Home | 3.00% | ~832 |
-| Poise and Poisons | 3.00% | ~832 |
+| Harvest and Home | 3.00% | ~833 |
+| Poise and Poisons | 3.00% | ~833 |
 | Hands and Hammers | 2.00% | ~555 |
 | King and Kin | 2.00% | ~555 |
 | Progenitor and Protégé | 2.00% | ~555 |
 | Suns and Soldiers | 2.00% | ~555 |
-| Prequel to the Sequel | 1.00% | ~277 |
+| Prequel to the Sequel | 1.00% | ~278 |
 | For Glory | 0.90% | ~250 |
 | Truly Blessed | 0.70% | ~194 |
 | Pillow Investments | 0.70% | ~194 |
 | Looks Familiar | 0.70% | ~194 |
-| For Justice | 0.60% | ~166 |
-| Good Boy! | 0.60% | ~166 |
+| For Justice | 0.60% | ~167 |
+| Good Boy! | 0.60% | ~167 |
 | For Survival | 0.50% | ~139 |
 | K.O. | 0.40% | ~111 |
 | Jack of all Trades | 0.40% | ~111 |
@@ -31,12 +31,12 @@ Number of Ratings: 1,331  (23.09.2022)
 | Just the Beginning | 0.30% | ~83 |
 | Wasted Betrayal | 0.30% | ~83 |
 | Color Coordination | 0.30% | ~83 |
-| Black-shoppe | 0.20% | ~55 |
-| For Greed | 0.20% | ~55 |
-| For Penance | 0.20% | ~55 |
-| Good Practice | 0.20% | ~55 |
-| Maybe Wax Doesn't Melt | 0.20% | ~55 |
-| A Glimpse of the Future | 0.20% | ~55 |
+| Black-shoppe | 0.20% | ~56 |
+| For Greed | 0.20% | ~56 |
+| For Penance | 0.20% | ~56 |
+| Good Practice | 0.20% | ~56 |
+| Maybe Wax Doesn't Melt | 0.20% | ~56 |
+| A Glimpse of the Future | 0.20% | ~56 |
 | Full House | 0.10% | ~28 |
 | Erebus Purified | 0.10% | ~28 |
 | It Was Just an Estimate | 0.10% | ~28 |
@@ -46,7 +46,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,748 (Ranked 144)  
+Progressed: 27,751 (Ranked 144)  
 Completed: 35 (0.13%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 35 (0.13%) (Ranked 295)
 | 2024-01-02 | 27,528 | 35 |
 | 2024-01-03 | 27,609 | 35 |
 | 2024-01-04 | 27,682 | 35 |
-| 2024-01-05 | 27,748 | 35 |
+| 2024-01-05 | 27,751 | 35 |
 ## Awards
 Max (Extremely Fun): 227  (Ranked 287)  
 Sum: 1,720 (Ranked 227)  

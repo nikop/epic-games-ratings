@@ -3,11 +3,11 @@
   "Name": "Kingdoms of Amalur: Re-Reckoning",
   "ProductSlug": "kingdoms-of-amalur-re-reckoning",
   "Ranking_Rating": 523,
-  "Ranking_Popularity": 408,
+  "Ranking_Popularity": 409,
   "Ranking_PopularitySum": 455,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 563,
+  "Ranking_EOS_NewPlayers": 562,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2020-09-08T17:00:00+00:00",
@@ -448,6 +448,6 @@
   "FirstSeen": "2022-07-22T20:23:19.3365419+00:00",
   "LastChanged": "2023-12-21T01:46:52.9389224+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:12.9874542+00:00",
-  "LastUpdate_Ratings": "2024-01-05T14:57:10.8697268+00:00",
-  "LastUpdate_Achievements": "2024-01-05T15:09:46.0649818+00:00"
+  "LastUpdate_Ratings": "2024-01-05T15:57:10.9551381+00:00",
+  "LastUpdate_Achievements": "2024-01-05T16:09:43.9457708+00:00"
 }

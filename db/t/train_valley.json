@@ -3,11 +3,11 @@
   "Name": "Train Valley",
   "ProductSlug": "train-valley-ead642",
   "Ranking_Rating": 635,
-  "Ranking_Popularity": 579,
-  "Ranking_PopularitySum": 579,
+  "Ranking_Popularity": 580,
+  "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewPlayers": 300,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -2061,17 +2061,17 @@
       "ID": "30_completelynuts",
       "SetID": "chb1m60",
       "Name": "Completely nuts!",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 252
+      "UsersEstimate": 259
     },
     {
       "ID": "31_chancellor",
       "SetID": "chb1m60",
       "Name": "\u0421hancellor",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 32
     },
     {
       "ID": "32_engineer",
@@ -2149,8 +2149,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2024-01-01T09:01:13.9555975+00:00",
-  "LastChanged_Achievements": "2024-01-05T15:06:11.3606956+00:00",
+  "LastChanged_Achievements": "2024-01-05T16:06:29.8535223+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:40.4916275+00:00",
-  "LastUpdate_Ratings": "2024-01-05T14:58:12.4993348+00:00",
-  "LastUpdate_Achievements": "2024-01-05T15:06:11.3607602+00:00"
+  "LastUpdate_Ratings": "2024-01-05T15:58:19.935771+00:00",
+  "LastUpdate_Achievements": "2024-01-05T16:06:29.8535547+00:00"
 }

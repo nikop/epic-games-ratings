@@ -6,13 +6,13 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 82.00% | ~261 |
-| Mash Machine | 75.00% | ~238 |
+| Rock of the Bay | 82.00% | ~262 |
+| Mash Machine | 75.00% | ~239 |
 | Ducks in a Row, Fish in a Barrel | 54.00% | ~172 |
-| Furon Fashion | 47.00% | ~149 |
-| Shop Til They Drop | 41.00% | ~130 |
+| Furon Fashion | 47.00% | ~150 |
+| Shop Til They Drop | 40.00% | ~128 |
 | Bodied Sattva | 38.00% | ~121 |
-| Cult Following | 35.00% | ~111 |
+| Cult Following | 34.00% | ~108 |
 | Earthly Pleasures | 34.00% | ~108 |
 | Lie Back and Think of Albion | 27.00% | ~86 |
 | Upgreatest | 26.00% | ~83 |
@@ -26,7 +26,7 @@ Number of Ratings: 90  (23.09.2022)
 | Fly Me to the Moon Base | 10.00% | ~32 |
 | Kaijuiced | 10.00% | ~32 |
 | Dusted | 9.00% | ~29 |
-| Scuttled | 8.00% | ~25 |
+| Scuttled | 8.00% | ~26 |
 | Re-Return of the Clone of the Invasion II-2 | 7.00% | ~22 |
 | Lobster Blisque | 6.00% | ~19 |
 | Yettisoned | 5.00% | ~16 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.60% | ~2 |
 | Trans-Siberian Express | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 318 (Ranked 387)  
+Progressed: 319 (Ranked 385)  
 Completed: 2 (0.63%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,10 +91,10 @@ Completed: 2 (0.63%) (Ranked 203)
 | 2024-01-02 | 291 | 1 |
 | 2024-01-03 | 301 | 1 |
 | 2024-01-04 | 311 | 1 |
-| 2024-01-05 | 318 | 2 |
+| 2024-01-05 | 319 | 2 |
 ## Awards
-Max (Great Boss Battles): 36  (Ranked 494)  
-Sum: 36 (Ranked 526)  
+Max (Great Boss Battles): 36  (Ranked 495)  
+Sum: 36 (Ranked 527)  
 Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |

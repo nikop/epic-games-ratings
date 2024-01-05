@@ -3,8 +3,8 @@
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
   "Ranking_Rating": 1002,
-  "Ranking_Popularity": 465,
-  "Ranking_PopularitySum": 492,
+  "Ranking_Popularity": 466,
+  "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 369,
   "Ranking_EOS_NewPlayers": 127,
@@ -601,7 +601,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 46438,
+  "EOS_Progressed": 46444,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 840,
   "EOS_NewCompleters": 1,
@@ -17746,6 +17746,11 @@
       "Time": "2024-01-05T15:03:26.2955013+00:00",
       "NumProgressed": 46438,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-05T16:03:33.0382186+00:00",
+      "NumProgressed": 46444,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -17909,7 +17914,7 @@
       "Name": "Tinkerer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4179
+      "UsersEstimate": 4180
     },
     {
       "ID": "CUFF_ATTACK",
@@ -17917,7 +17922,7 @@
       "Name": "No Mercy",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2786
+      "UsersEstimate": 2787
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -17973,7 +17978,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2786
+      "UsersEstimate": 2787
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -18093,7 +18098,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5108
+      "UsersEstimate": 5109
     },
     {
       "ID": "SPRING_ALL",
@@ -18180,22 +18185,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 46438,
+      "Progressed": 46444,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 11275,
-      "Completed": 11275
+      "Progressed": 11281,
+      "Completed": 11281
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-05T09:03:07.6217814+00:00",
-  "LastChanged_Achievements": "2024-01-05T15:03:26.2955007+00:00",
+  "LastChanged_Achievements": "2024-01-05T16:03:33.0382181+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:48.1998363+00:00",
-  "LastUpdate_Ratings": "2024-01-05T15:02:50.8159865+00:00",
-  "LastUpdate_Achievements": "2024-01-05T15:03:26.2956904+00:00"
+  "LastUpdate_Ratings": "2024-01-05T16:02:51.7335715+00:00",
+  "LastUpdate_Achievements": "2024-01-05T16:03:33.0383268+00:00"
 }

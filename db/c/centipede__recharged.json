@@ -2,9 +2,9 @@
   "ID": "a1edd0d2e28d4d298152c001e7c47e22",
   "Name": "Centipede: Recharged",
   "ProductSlug": "centipede-recharged",
-  "Ranking_Rating": 864,
-  "Ranking_Popularity": 579,
-  "Ranking_PopularitySum": 579,
+  "Ranking_Rating": 863,
+  "Ranking_Popularity": 580,
+  "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 152,
@@ -353,9 +353,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24761,
+  "EOS_Progressed": 24762,
   "EOS_Completed": 118,
-  "EOS_NewPlayers": 473,
+  "EOS_NewPlayers": 474,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -22193,6 +22193,11 @@
       "Time": "2024-01-05T15:03:38.8663942+00:00",
       "NumProgressed": 24761,
       "NumCompleted": 118
+    },
+    {
+      "Time": "2024-01-05T16:03:46.9242096+00:00",
+      "NumProgressed": 24762,
+      "NumCompleted": 118
     }
   ],
   "TotalAchievements": 16,
@@ -22252,7 +22257,7 @@
       "Name": "Fireworks",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 7428
+      "UsersEstimate": 7429
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -22331,15 +22336,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 24761,
+      "Progressed": 24762,
       "Completed": 118
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-12-26T13:00:27.7460321+00:00",
-  "LastChanged_Achievements": "2024-01-05T15:03:38.8663938+00:00",
+  "LastChanged_Achievements": "2024-01-05T16:03:46.9242091+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:56.3485527+00:00",
-  "LastUpdate_Ratings": "2024-01-05T14:58:52.5876944+00:00",
-  "LastUpdate_Achievements": "2024-01-05T15:03:38.8665285+00:00"
+  "LastUpdate_Ratings": "2024-01-05T15:59:05.6415189+00:00",
+  "LastUpdate_Achievements": "2024-01-05T16:03:46.9243204+00:00"
 }

@@ -8,8 +8,8 @@
 | Target Practice | 45.00% | ~68 |
 | The Bigger They Are | 32.00% | ~48 |
 | Enemies of Fate | 31.00% | ~46 |
+| Over the Moon | 30.00% | ~45 |
 | Your Training Continues | 29.00% | ~44 |
-| Over the Moon | 29.00% | ~44 |
 | Armored | 27.00% | ~40 |
 | Amokuali Tower | 25.00% | ~38 |
 | Freedom | 22.00% | ~33 |
@@ -26,7 +26,7 @@
 | Vivid Dreams | 2.00% | ~3 |
 | Broken Reflection | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 150 (Ranked 449)  
+Progressed: 150 (Ranked 450)  
 Completed: 1 (0.67%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |

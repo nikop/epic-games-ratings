@@ -322,9 +322,9 @@
       "ID": "Chapter07_Reunion",
       "SetID": "c8fdd59",
       "Name": "Reunion",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Chapter08_UntimelyAdversity",
@@ -522,9 +522,9 @@
       "ID": "SlayerOfMonsters",
       "SetID": "c8fdd59",
       "Name": "Slayer of Monsters",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "SuperBestFriends",
@@ -593,8 +593,8 @@
   ],
   "FirstSeen": "2023-09-08T10:00:07.3821883+00:00",
   "FirstSeenAchievements": "2023-08-28T07:03:21.9021387+00:00",
-  "LastChanged_Achievements": "2024-01-05T15:10:01.9875491+00:00",
+  "LastChanged_Achievements": "2024-01-05T16:10:00.8624509+00:00",
   "LastUpdate_AppInfo": "2024-01-01T17:57:04.7287115+00:00",
-  "LastUpdate_Ratings": "2024-01-05T14:57:22.6883815+00:00",
-  "LastUpdate_Achievements": "2024-01-05T15:10:01.9875811+00:00"
+  "LastUpdate_Ratings": "2024-01-05T15:57:23.8668002+00:00",
+  "LastUpdate_Achievements": "2024-01-05T16:10:00.862481+00:00"
 }

@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 1260,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3291,9 +3291,9 @@
       "ID": "CompleteChapter10",
       "SetID": "52ail55",
       "Name": "You da Boss, Now",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 176
     },
     {
       "ID": "CompleteChapter11",
@@ -3530,8 +3530,8 @@
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2024-01-05T15:08:31.5889714+00:00",
+  "LastChanged_Achievements": "2024-01-05T16:08:22.7045384+00:00",
   "LastUpdate_AppInfo": "2024-01-05T10:56:56.5895712+00:00",
-  "LastUpdate_Ratings": "2024-01-05T14:02:34.2577516+00:00",
-  "LastUpdate_Achievements": "2024-01-05T15:08:31.589013+00:00"
+  "LastUpdate_Ratings": "2024-01-05T15:56:54.7375996+00:00",
+  "LastUpdate_Achievements": "2024-01-05T16:08:22.7045855+00:00"
 }

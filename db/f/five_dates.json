@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1979,
+  "EOS_Progressed": 1980,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 283,
+  "EOS_NewPlayers": 281,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -3715,6 +3715,11 @@
       "Time": "2024-01-05T15:09:51.8361612+00:00",
       "NumProgressed": 1979,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-05T16:09:49.9686717+00:00",
+      "NumProgressed": 1980,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 15,
@@ -3726,7 +3731,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 1939
+      "UsersEstimate": 1940
     },
     {
       "ID": "booty_call",
@@ -3750,7 +3755,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 1900
+      "UsersEstimate": 1901
     },
     {
       "ID": "hold_my_beer",
@@ -3758,7 +3763,7 @@
       "Name": "Hold my Beer",
       "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 1207
+      "UsersEstimate": 1208
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -3845,7 +3850,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 1979,
+      "Progressed": 1980,
       "Completed": 12
     }
   ],
@@ -3853,8 +3858,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2024-01-05T15:09:51.8361596+00:00",
+  "LastChanged_Achievements": "2024-01-05T16:09:49.9686713+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:27.9788979+00:00",
-  "LastUpdate_Ratings": "2024-01-05T14:57:25.6414422+00:00",
-  "LastUpdate_Achievements": "2024-01-05T15:09:51.8361938+00:00"
+  "LastUpdate_Ratings": "2024-01-05T15:57:27.1432428+00:00",
+  "LastUpdate_Achievements": "2024-01-05T16:09:49.9687007+00:00"
 }

@@ -1195,9 +1195,9 @@
       "ID": "SG_GODOFTHESUN",
       "SetID": "bj5g0n4",
       "Name": "God Of The Sun",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 22
     },
     {
       "ID": "SG_HEARTBREAKER",
@@ -1402,8 +1402,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-05T15:08:59.2612909+00:00",
+  "LastChanged_Achievements": "2024-01-05T16:08:52.7848385+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:19.3214389+00:00",
-  "LastUpdate_Ratings": "2024-01-05T14:57:27.3808686+00:00",
-  "LastUpdate_Achievements": "2024-01-05T15:08:59.2613194+00:00"
+  "LastUpdate_Ratings": "2024-01-05T15:57:28.9670624+00:00",
+  "LastUpdate_Achievements": "2024-01-05T16:08:52.7848671+00:00"
 }

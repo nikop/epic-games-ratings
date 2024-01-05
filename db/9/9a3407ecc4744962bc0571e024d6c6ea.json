@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1245,
+  "EOS_Progressed": 1246,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -3574,6 +3574,11 @@
       "Time": "2024-01-05T15:09:50.7460495+00:00",
       "NumProgressed": 1245,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-05T16:09:48.8046222+00:00",
+      "NumProgressed": 1246,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -3586,7 +3591,7 @@
       "Name": "A Better Tomorrow",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "BostonHayDay",
@@ -3594,7 +3599,7 @@
       "Name": "Boston Hay Day",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "BoxingClever",
@@ -3602,7 +3607,7 @@
       "Name": "Boxing Clever",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "Cartographer",
@@ -3610,7 +3615,7 @@
       "Name": "Cartographer",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "Causality",
@@ -3626,7 +3631,7 @@
       "Name": "Congratulations, you\u0027re an engineer",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "DarkestBeforeTheDawn",
@@ -3640,9 +3645,9 @@
       "ID": "DrinkingOnTheJob",
       "SetID": "3ai6ml8",
       "Name": "Drinking on the Job",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 560
+      "UsersEstimate": 573
     },
     {
       "ID": "DustDancing",
@@ -3666,7 +3671,7 @@
       "Name": "Lights Out",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "MiCasaSuCasa",
@@ -3682,7 +3687,7 @@
       "Name": "Once more into the Breach",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "Outpatient",
@@ -3690,7 +3695,7 @@
       "Name": "Outpatient",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "Relic",
@@ -3706,7 +3711,7 @@
       "Name": "Skeleton Crew",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "TerraTourGuide",
@@ -3745,14 +3750,14 @@
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 1245,
+      "Progressed": 1246,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2024-01-05T15:09:50.746049+00:00",
+  "LastChanged_Achievements": "2024-01-05T16:09:48.8046215+00:00",
   "LastUpdate_AppInfo": "2024-01-03T22:57:16.6987681+00:00",
-  "LastUpdate_Ratings": "2024-01-05T15:00:17.8166504+00:00",
-  "LastUpdate_Achievements": "2024-01-05T15:09:50.7460758+00:00"
+  "LastUpdate_Ratings": "2024-01-05T16:02:28.5450598+00:00",
+  "LastUpdate_Achievements": "2024-01-05T16:09:48.804656+00:00"
 }

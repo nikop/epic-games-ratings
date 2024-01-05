@@ -6,69 +6,69 @@ Number of Ratings: 180  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First line | 74.00% | ~1,738 |
-| First cargo item waiting | 68.00% | ~1,597 |
-| First cargo item on board | 67.00% | ~1,574 |
-| First bus stop | 66.00% | ~1,550 |
-| First passenger on board | 63.00% | ~1,480 |
-| First passenger waiting | 63.00% | ~1,480 |
-| First bus arrived | 62.00% | ~1,456 |
-| First train station | 60.00% | ~1,409 |
-| First steam train arrived | 56.00% | ~1,315 |
-| Cadet | 53.00% | ~1,245 |
-| First industry upgraded | 53.00% | ~1,245 |
-| Transport millionaire | 51.00% | ~1,198 |
-| Transport master | 49.00% | ~1,151 |
-| Cargo hub | 49.00% | ~1,151 |
+| First line | 74.00% | ~1,740 |
+| First cargo item waiting | 68.00% | ~1,599 |
+| First cargo item on board | 67.00% | ~1,575 |
+| First bus stop | 66.00% | ~1,552 |
+| First passenger on board | 63.00% | ~1,481 |
+| First passenger waiting | 63.00% | ~1,481 |
+| First bus arrived | 62.00% | ~1,458 |
+| First train station | 60.00% | ~1,411 |
+| First steam train arrived | 56.00% | ~1,317 |
+| Cadet | 53.00% | ~1,246 |
+| First industry upgraded | 53.00% | ~1,246 |
+| Transport millionaire | 51.00% | ~1,199 |
+| Transport master | 49.00% | ~1,152 |
+| Cargo hub | 49.00% | ~1,152 |
 | Sculpturer | 46.00% | ~1,081 |
-| Settled down | 45.00% | ~1,057 |
-| First electric train arrived | 43.00% | ~1,010 |
-| Now what? | 43.00% | ~1,010 |
+| Settled down | 45.00% | ~1,058 |
+| First electric train arrived | 43.00% | ~1,011 |
+| Now what? | 43.00% | ~1,011 |
 | First ship arrived | 42.00% | ~987 |
-| Exemplary student | 41.00% | ~963 |
-| High speed | 39.00% | ~916 |
+| Exemplary student | 41.00% | ~964 |
+| High speed | 39.00% | ~917 |
 | First aircraft arrived | 38.00% | ~893 |
-| Transport shark | 37.00% | ~869 |
+| Transport shark | 37.00% | ~870 |
 | Mass production | 32.00% | ~752 |
 | Aircraft entrepreneur | 30.00% | ~705 |
 | Crowd in a train | 28.00% | ~658 |
 | The future is now, old man | 28.00% | ~658 |
-| Not in my backyard | 27.00% | ~634 |
-| City | 26.00% | ~611 |
+| Not in my backyard | 27.00% | ~635 |
 | The king of the sea | 26.00% | ~611 |
-| Transport tycoon | 21.00% | ~493 |
-| Old timer | 21.00% | ~493 |
+| City | 25.00% | ~588 |
+| Transport tycoon | 21.00% | ~494 |
+| Old timer | 21.00% | ~494 |
 | Climate change | 20.00% | ~470 |
 | The ugly smell of success | 20.00% | ~470 |
-| Heavily loaded | 19.00% | ~446 |
+| Heavily loaded | 19.00% | ~447 |
 | Bob Ross | 14.00% | ~329 |
 | Campaign expert | 10.00% | ~235 |
 | Truck Fever | 10.00% | ~235 |
-| No free seats | 9.00% | ~211 |
+| No free seats | 9.00% | ~212 |
 | Back to the future | 8.00% | ~188 |
 | Transport belt | 8.00% | ~188 |
 | Penny pincher | 8.00% | ~188 |
-| Campaign shark | 5.00% | ~117 |
-| E.P.E.C. | 5.00% | ~117 |
+| Campaign shark | 5.00% | ~118 |
+| E.P.E.C. | 5.00% | ~118 |
 | Transport shark (Hard mode) | 4.00% | ~94 |
 | Antique | 4.00% | ~94 |
 | Transport corporation | 4.00% | ~94 |
-| Cannot get enough | 3.00% | ~70 |
+| Cannot get enough | 3.00% | ~71 |
 | Transport tycoon (Hard mode) | 2.00% | ~47 |
 | Charles Alton Ellis | 2.00% | ~47 |
 | Industrialist | 2.00% | ~47 |
 | Metropolis | 2.00% | ~47 |
 | Speed of light | 2.00% | ~47 |
-| No country for old trains | 1.00% | ~23 |
-| Campaign tycoon | 1.00% | ~23 |
-| Trans-Siberian Railway | 1.00% | ~23 |
+| No country for old trains | 1.00% | ~24 |
+| Campaign tycoon | 1.00% | ~24 |
+| Trans-Siberian Railway | 1.00% | ~24 |
 | Train Fever | 0.80% | ~19 |
 | Louis Favre | 0.80% | ~19 |
 | Big spender | 0.60% | ~14 |
 | Glacier express | 0.20% | ~5 |
 | Museum line | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,349 (Ranked 238)  
+Progressed: 2,351 (Ranked 238)  
 Completed: 1 (0.04%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,11 +313,11 @@ Completed: 1 (0.04%) (Ranked 347)
 | 2024-01-02 | 2,299 | 1 |
 | 2024-01-03 | 2,314 | 1 |
 | 2024-01-04 | 2,331 | 1 |
-| 2024-01-05 | 2,349 | 1 |
+| 2024-01-05 | 2,351 | 1 |
 ## Awards
-Max (Great for Beginners): 50  (Ranked 454)  
+Max (Great for Beginners): 50  (Ranked 455)  
 Sum: 332 (Ranked 373)  
-Diff (max vs sum): 81  
+Diff (max vs sum): 82  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 50 |

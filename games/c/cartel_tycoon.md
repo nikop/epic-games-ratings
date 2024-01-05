@@ -1,15 +1,15 @@
 # Cartel Tycoon
 [Store](https://store.epicgames.com/en-US/p/cartel-tycoon)  
 [View Rawdata](../../db/c/cartel_tycoon.json)  
-Rating: 4.36 (Ranked 812)  
+Rating: 4.36 (Ranked 811)  
 Number of Ratings: 101  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Our Man | 83.00% | ~788 |
-| Take-Off | 79.00% | ~750 |
-| Hokey-Pokey | 68.00% | ~646 |
-| Camellos | 52.00% | ~494 |
+| Our Man | 83.00% | ~789 |
+| Take-Off | 79.00% | ~751 |
+| Hokey-Pokey | 68.00% | ~647 |
+| Camellos | 52.00% | ~495 |
 | Bad Trip | 44.00% | ~418 |
 | Didn't Miss A Single One | 42.00% | ~399 |
 | That was base | 42.00% | ~399 |
@@ -20,13 +20,13 @@ Number of Ratings: 101  (23.09.2022)
 | Bite the Blow | 22.00% | ~209 |
 | Pampered Life | 21.00% | ~200 |
 | Spreading Fear | 9.00% | ~86 |
-| Follow the Money | 7.00% | ~66 |
+| Follow the Money | 7.00% | ~67 |
 | I'm Going To Call You Kitty | 6.00% | ~57 |
 | Operation Odessa | 1.00% | ~10 |
 | Iron Lady | 0.60% | ~6 |
 | Sense Of Style | 0.40% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 950 (Ranked 294)  
+Progressed: 951 (Ranked 294)  
 Completed: 3 (0.32%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 3 (0.32%) (Ranked 246)
 | 2024-01-02 | 918 | 3 |
 | 2024-01-03 | 930 | 3 |
 | 2024-01-04 | 947 | 3 |
-| 2024-01-05 | 950 | 3 |
+| 2024-01-05 | 951 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

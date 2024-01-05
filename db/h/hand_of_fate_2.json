@@ -3,7 +3,7 @@
   "Name": "Hand of Fate 2",
   "ProductSlug": "hand-of-fate-2",
   "Ranking_Rating": 523,
-  "Ranking_Popularity": 494,
+  "Ranking_Popularity": 495,
   "Ranking_PopularitySum": 419,
   "Ranking_EOS_Progress": 31,
   "Ranking_EOS_Completed": 352,
@@ -943,9 +943,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 666887,
+  "EOS_Progressed": 666888,
   "EOS_Completed": 174,
-  "EOS_NewPlayers": 418,
+  "EOS_NewPlayers": 417,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -25723,6 +25723,11 @@
       "Time": "2024-01-05T15:09:18.5655292+00:00",
       "NumProgressed": 666887,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2024-01-05T16:09:13.563716+00:00",
+      "NumProgressed": 666888,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 48,
@@ -25742,7 +25747,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 386794
+      "UsersEstimate": 386795
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -25974,7 +25979,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 80026
+      "UsersEstimate": 80027
     },
     {
       "ID": "Achievement_32_Karma",
@@ -26117,15 +26122,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 666887,
+      "Progressed": 666888,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-11-24T17:58:48.2867936+00:00",
-  "LastChanged_Achievements": "2024-01-05T15:09:18.5655287+00:00",
+  "LastChanged_Achievements": "2024-01-05T16:09:13.5637156+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:45.4290677+00:00",
-  "LastUpdate_Ratings": "2024-01-05T14:58:54.3518947+00:00",
-  "LastUpdate_Achievements": "2024-01-05T15:09:18.565708+00:00"
+  "LastUpdate_Ratings": "2024-01-05T15:59:07.6428988+00:00",
+  "LastUpdate_Achievements": "2024-01-05T16:09:13.5638491+00:00"
 }

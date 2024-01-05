@@ -2,9 +2,9 @@
   "ID": "b022b60ee02545788d645fe353f5ddd6",
   "Name": "The Devil\u0027s Face",
   "ProductSlug": "the-devils-face-356c31",
-  "Ranking_EOS_Progress": 332,
-  "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_Progress": 331,
+  "Ranking_EOS_Completed": 167,
+  "Ranking_EOS_NewPlayers": 329,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 633,
+  "EOS_Progressed": 634,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.11,
+  "EOS_Completed_Percentage": 1.1,
   "EosHistory": [
     {
       "Time": "2023-06-26T18:04:48.9323975+00:00",
@@ -2784,6 +2784,11 @@
       "Time": "2024-01-05T07:04:22.186004+00:00",
       "NumProgressed": 633,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-05T16:04:18.2263666+00:00",
+      "NumProgressed": 634,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 14,
@@ -2795,7 +2800,7 @@
       "Name": "The gateway to the underworld",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -2851,7 +2856,7 @@
       "Name": "Our efforts are finally yielding progress",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -2906,14 +2911,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 633,
+      "Progressed": 634,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2024-01-05T15:04:08.6441102+00:00",
+  "LastChanged_Achievements": "2024-01-05T16:04:18.226366+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:37.2024016+00:00",
-  "LastUpdate_Ratings": "2024-01-05T14:57:52.6525177+00:00",
-  "LastUpdate_Achievements": "2024-01-05T15:04:08.6441303+00:00"
+  "LastUpdate_Ratings": "2024-01-05T15:57:55.5779526+00:00",
+  "LastUpdate_Achievements": "2024-01-05T16:04:18.2263902+00:00"
 }

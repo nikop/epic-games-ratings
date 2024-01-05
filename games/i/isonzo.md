@@ -1,19 +1,19 @@
 # Isonzo
 [Store](https://store.epicgames.com/en-US/p/isonzo)  
 [View Rawdata](../../db/i/isonzo.json)  
-Rating: 4.58 (Ranked 472)  
+Rating: 4.58 (Ranked 471)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Shall Not Pass | 51.00% | ~4,985 |
+| You Shall Not Pass | 51.00% | ~4,986 |
 | Tutti Eroi! | 50.00% | ~4,888 |
 | Peak Performance | 45.00% | ~4,399 |
 | Avanti Savoia! | 44.00% | ~4,301 |
-| Mamma Mia! | 35.00% | ~3,421 |
+| Mamma Mia! | 35.00% | ~3,422 |
 | Conrad von Hotzensocks | 32.00% | ~3,128 |
 | Gabriele D'Annunzio | 32.00% | ~3,128 |
-| Silver Lining | 27.00% | ~2,639 |
+| Silver Lining | 27.00% | ~2,640 |
 | Aurelio Baruzzi | 21.00% | ~2,053 |
 | Decimation | 20.00% | ~1,955 |
 | Donatello | 19.00% | ~1,857 |
@@ -35,9 +35,9 @@ Number of Ratings: 98  (23.09.2022)
 | Millenial | 9.00% | ~880 |
 | The Show Must Go On | 8.00% | ~782 |
 | Tosca | 8.00% | ~782 |
-| 12th Bottle of the Isonzo | 6.00% | ~586 |
-| Cercatore d'Oro | 6.00% | ~586 |
-| The Enlightment | 6.00% | ~586 |
+| 12th Bottle of the Isonzo | 6.00% | ~587 |
+| Cercatore d'Oro | 6.00% | ~587 |
+| The Enlightment | 6.00% | ~587 |
 | Generalissimo | 4.00% | ~391 |
 | "O La Vittoria, O Tutti Accoppati" | 4.00% | ~391 |
 | Seeing Red | 3.00% | ~293 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~39 |
 | Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,775 (Ranked 182)  
+Progressed: 9,776 (Ranked 182)  
 Completed: 10 (0.10%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,11 +306,11 @@ Completed: 10 (0.10%) (Ranked 307)
 | 2024-01-02 | 9,741 | 10 |
 | 2024-01-03 | 9,754 | 10 |
 | 2024-01-04 | 9,768 | 10 |
-| 2024-01-05 | 9,775 | 10 |
+| 2024-01-05 | 9,776 | 10 |
 ## Awards
-Max (Diverse Characters): 42  (Ranked 475)  
+Max (Diverse Characters): 42  (Ranked 476)  
 Sum: 338 (Ranked 371)  
-Diff (max vs sum): 104  
+Diff (max vs sum): 105  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 42 |

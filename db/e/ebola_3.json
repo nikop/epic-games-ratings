@@ -4,7 +4,7 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 384,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 382,
+  "Ranking_EOS_NewPlayers": 378,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 319,
+  "EOS_Progressed": 320,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1371,6 +1371,11 @@
       "Time": "2024-01-05T10:10:26.7146253+00:00",
       "NumProgressed": 319,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T16:10:03.3602969+00:00",
+      "NumProgressed": 320,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -1404,9 +1409,9 @@
       "ID": "achBag",
       "SetID": "72gjli4",
       "Name": "Inventory \u2714",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 170
     },
     {
       "ID": "achBett",
@@ -1446,7 +1451,7 @@
       "Name": "Chest \u2714",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "achCity",
@@ -1582,7 +1587,7 @@
       "Name": "Fright \u2714",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "achLizun",
@@ -1781,7 +1786,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 319,
+      "Progressed": 320,
       "Completed": 0
     }
   ],
@@ -1789,8 +1794,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2024-01-05T15:10:04.3579861+00:00",
+  "LastChanged_Achievements": "2024-01-05T16:10:03.3602965+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:19.8305387+00:00",
-  "LastUpdate_Ratings": "2024-01-05T15:00:16.2462882+00:00",
-  "LastUpdate_Achievements": "2024-01-05T15:10:04.3580574+00:00"
+  "LastUpdate_Ratings": "2024-01-05T16:02:27.0334073+00:00",
+  "LastUpdate_Achievements": "2024-01-05T16:10:03.3603483+00:00"
 }

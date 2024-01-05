@@ -2,9 +2,9 @@
   "ID": "1696ef78f67c411ea67d2c2b8e9bc5a6",
   "Name": "Cartel Tycoon",
   "ProductSlug": "cartel-tycoon",
-  "Ranking_Rating": 812,
-  "Ranking_Popularity": 579,
-  "Ranking_PopularitySum": 579,
+  "Ranking_Rating": 811,
+  "Ranking_Popularity": 580,
+  "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 256,
@@ -301,7 +301,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 950,
+  "EOS_Progressed": 951,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
@@ -3376,6 +3376,11 @@
       "Time": "2024-01-05T15:04:20.0303252+00:00",
       "NumProgressed": 950,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-05T16:04:30.5679141+00:00",
+      "NumProgressed": 951,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3435,7 +3440,7 @@
       "Name": "Our Man",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "kill-lieutenants",
@@ -3451,7 +3456,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "play-at-night",
@@ -3467,7 +3472,7 @@
       "Name": "Follow the Money",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "rage-quit",
@@ -3507,7 +3512,7 @@
       "Name": "Camellos",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "unlock-residences",
@@ -3523,7 +3528,7 @@
       "Name": "Take-Off",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "use-submarine",
@@ -3538,15 +3543,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 950,
+      "Progressed": 951,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-23T10:57:58.3271618+00:00",
-  "LastChanged_Achievements": "2024-01-05T15:04:20.0303247+00:00",
+  "LastChanged_Achievements": "2024-01-05T16:04:30.5679137+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:28.1140989+00:00",
-  "LastUpdate_Ratings": "2024-01-05T15:02:51.0246949+00:00",
-  "LastUpdate_Achievements": "2024-01-05T15:04:20.0303525+00:00"
+  "LastUpdate_Ratings": "2024-01-05T16:02:51.8849557+00:00",
+  "LastUpdate_Achievements": "2024-01-05T16:04:30.5679356+00:00"
 }

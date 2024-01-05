@@ -12,8 +12,8 @@ Number of Ratings: 28  (23.09.2022)
 | Living it large! | 44.00% | ~278 |
 | Pangs of conscience | 43.00% | ~271 |
 | Collector | 42.00% | ~265 |
+| Completely nuts! | 41.00% | ~259 |
 | Need to think | 41.00% | ~259 |
-| Completely nuts! | 40.00% | ~252 |
 | Europe | 32.00% | ~202 |
 | Just in time! | 32.00% | ~202 |
 | Madness! | 31.00% | ~196 |
@@ -33,9 +33,9 @@ Number of Ratings: 28  (23.09.2022)
 | Woodcutter | 10.00% | ~63 |
 | Engineer | 10.00% | ~63 |
 | Germany | 7.00% | ~44 |
+| Сhancellor | 5.00% | ~32 |
 | Supercrash! | 5.00% | ~32 |
 | Chuck Norris | 5.00% | ~32 |
-| Сhancellor | 4.00% | ~25 |
 | Peacemaker | 4.00% | ~25 |
 | Forgotten | 3.00% | ~19 |
 | Lucky vandal | 3.00% | ~19 |

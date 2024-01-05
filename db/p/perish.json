@@ -4,7 +4,7 @@
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3937,
+  "EOS_Progressed": 3939,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4616,6 +4616,11 @@
       "Time": "2024-01-05T13:08:27.3330185+00:00",
       "NumProgressed": 3937,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T16:04:13.3063161+00:00",
+      "NumProgressed": 3939,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -4675,7 +4680,7 @@
       "Name": "Immolator",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_FH",
@@ -4707,7 +4712,7 @@
       "Name": "Go For the Head",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_K_A2",
@@ -4715,7 +4720,7 @@
       "Name": "Spartan Sandal",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_K_A3",
@@ -4843,7 +4848,7 @@
       "Name": "Symbols of Heresy",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_OB_BR",
@@ -4875,7 +4880,7 @@
       "Name": "The Sons of Minos",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_OB_CS",
@@ -4923,7 +4928,7 @@
       "Name": "Eidola",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_OB_LI",
@@ -5051,7 +5056,7 @@
       "Name": "Reign in Blood",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_TP",
@@ -5075,7 +5080,7 @@
       "Name": "Invicta",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "KBK",
@@ -5130,7 +5135,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3937,
+      "Progressed": 3939,
       "Completed": 0
     }
   ],
@@ -5138,8 +5143,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2024-01-05T15:04:03.9165525+00:00",
+  "LastChanged_Achievements": "2024-01-05T16:04:13.3063156+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:44.8279496+00:00",
-  "LastUpdate_Ratings": "2024-01-05T14:59:47.73371+00:00",
-  "LastUpdate_Achievements": "2024-01-05T15:04:03.9166238+00:00"
+  "LastUpdate_Ratings": "2024-01-05T16:00:06.375342+00:00",
+  "LastUpdate_Achievements": "2024-01-05T16:04:13.3063738+00:00"
 }

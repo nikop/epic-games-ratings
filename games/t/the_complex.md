@@ -8,8 +8,8 @@
 | Blast From The Past | 83.00% | ~655 |
 | Kamikaze | 63.00% | ~497 |
 | The Rebel And The Doctor | 57.00% | ~450 |
+| Free Champagne | 49.00% | ~387 |
 | Beat It | 48.00% | ~379 |
-| Free Champagne | 48.00% | ~379 |
 | Storage Hunter | 46.00% | ~363 |
 | Falling For You | 42.00% | ~331 |
 | Trust Me For Once | 26.00% | ~205 |
@@ -25,7 +25,7 @@
 | Second Chances | 7.00% | ~55 |
 | Not A People Person | 4.00% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 789 (Ranked 307)  
+Progressed: 789 (Ranked 308)  
 Completed: 22 (2.79%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |

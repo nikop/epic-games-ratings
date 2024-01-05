@@ -3,11 +3,11 @@
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 379,
-  "Ranking_Popularity": 479,
+  "Ranking_Popularity": 480,
   "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -717,9 +717,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6882,
+  "EOS_Progressed": 6885,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 424,
+  "EOS_NewPlayers": 421,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10427,6 +10427,11 @@
       "Time": "2024-01-05T15:03:49.3782417+00:00",
       "NumProgressed": 6882,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-05T16:03:58.138557+00:00",
+      "NumProgressed": 6885,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10526,7 +10531,7 @@
       "Name": "Enchanted Archipelago",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "20",
@@ -10566,7 +10571,7 @@
       "Name": "Secret Technique",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1033
     },
     {
       "ID": "25",
@@ -10582,7 +10587,7 @@
       "Name": "Bone Peddler",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "27",
@@ -10622,7 +10627,7 @@
       "Name": "Preparation Is Everything",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "31",
@@ -10670,7 +10675,7 @@
       "Name": "Fiery Friend",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "37",
@@ -10678,7 +10683,7 @@
       "Name": "Against the Odds",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "38",
@@ -10798,7 +10803,7 @@
       "Name": "Tipping the Scales",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "47",
@@ -10838,7 +10843,7 @@
       "Name": "Freed Lands of Manuhari",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "52",
@@ -10917,13 +10922,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6882,
+      "Progressed": 6885,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6882,
+      "Progressed": 6885,
       "Completed": 7
     }
   ],
@@ -10931,8 +10936,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-03T13:04:27.6429549+00:00",
-  "LastChanged_Achievements": "2024-01-05T15:03:49.3782412+00:00",
+  "LastChanged_Achievements": "2024-01-05T16:03:58.1385566+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-05T15:02:42.1800864+00:00",
-  "LastUpdate_Achievements": "2024-01-05T15:03:49.3783246+00:00"
+  "LastUpdate_Ratings": "2024-01-05T16:02:42.0593785+00:00",
+  "LastUpdate_Achievements": "2024-01-05T16:03:58.1386359+00:00"
 }

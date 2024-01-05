@@ -2,9 +2,9 @@
   "ID": "c1edd23d035a4df0bbc419f2d0fbb40d",
   "Name": "Scrapnaut",
   "ProductSlug": "scrapnaut",
-  "Ranking_Rating": 878,
-  "Ranking_Popularity": 579,
-  "Ranking_PopularitySum": 579,
+  "Ranking_Rating": 876,
+  "Ranking_Popularity": 580,
+  "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 285,
@@ -158,7 +158,7 @@
   "Tags": [],
   "EOS_Progressed": 620,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -2169,9 +2169,9 @@
       "ID": "ACH_COLLECT_100_ELECTROSCRAP",
       "SetID": "7c4cldc",
       "Name": "Electro-Scrap Master",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 136
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_COLLECT_100_SCRAP",
@@ -2402,8 +2402,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2024-01-05T15:09:18.7645168+00:00",
+  "LastChanged_Achievements": "2024-01-05T16:09:13.7948081+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:09.8569887+00:00",
-  "LastUpdate_Ratings": "2024-01-05T14:58:52.9965698+00:00",
-  "LastUpdate_Achievements": "2024-01-05T15:09:18.7645454+00:00"
+  "LastUpdate_Ratings": "2024-01-05T15:59:06.0929039+00:00",
+  "LastUpdate_Achievements": "2024-01-05T16:09:13.7948633+00:00"
 }

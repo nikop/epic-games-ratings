@@ -3,12 +3,12 @@
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 523,
-  "Ranking_Popularity": 440,
-  "Ranking_PopularitySum": 369,
+  "Ranking_Popularity": 441,
+  "Ranking_PopularitySum": 368,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -2177,10 +2177,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 345,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2024-01-05T15:58:40.5779493+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 349,
+      "NumberOfAwardsMax": 54
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 345,
+  "NumberOfAwards": 349,
   "NumberOfAwardsMax": 54,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -2236,7 +2242,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 45
+      "Count": 49
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2245,9 +2251,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 18426,
+  "EOS_Progressed": 18437,
   "EOS_Completed": 72,
-  "EOS_NewPlayers": 1026,
+  "EOS_NewPlayers": 1025,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -19140,6 +19146,11 @@
       "Time": "2024-01-05T15:09:55.5236006+00:00",
       "NumProgressed": 18426,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2024-01-05T16:09:53.8915503+00:00",
+      "NumProgressed": 18437,
+      "NumCompleted": 72
     }
   ],
   "TotalAchievements": 35,
@@ -19151,7 +19162,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 14925
+      "UsersEstimate": 14934
     },
     {
       "ID": "ACH02",
@@ -19159,7 +19170,7 @@
       "Name": "With Extra Dip",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1290
+      "UsersEstimate": 1291
     },
     {
       "ID": "ACH03",
@@ -19167,7 +19178,7 @@
       "Name": "The End of the Line",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1290
+      "UsersEstimate": 1291
     },
     {
       "ID": "ACH04",
@@ -19199,7 +19210,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3501
+      "UsersEstimate": 3503
     },
     {
       "ID": "ACH08",
@@ -19207,7 +19218,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 9213
+      "UsersEstimate": 9218
     },
     {
       "ID": "ACH09",
@@ -19231,7 +19242,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     },
     {
       "ID": "ACH12",
@@ -19247,7 +19258,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 3317
+      "UsersEstimate": 3319
     },
     {
       "ID": "ACH14",
@@ -19255,7 +19266,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1843
+      "UsersEstimate": 1844
     },
     {
       "ID": "ACH15",
@@ -19271,7 +19282,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3132
+      "UsersEstimate": 3134
     },
     {
       "ID": "ACH17",
@@ -19295,7 +19306,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 921
+      "UsersEstimate": 922
     },
     {
       "ID": "ACH20",
@@ -19319,7 +19330,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2580
+      "UsersEstimate": 2581
     },
     {
       "ID": "ACH23",
@@ -19327,7 +19338,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4606
+      "UsersEstimate": 4609
     },
     {
       "ID": "ACH24",
@@ -19367,7 +19378,7 @@
       "Name": "Original Gangster",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 1474
+      "UsersEstimate": 1475
     },
     {
       "ID": "ACH29",
@@ -19375,7 +19386,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 2764
+      "UsersEstimate": 2766
     },
     {
       "ID": "ACH30",
@@ -19430,16 +19441,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 18426,
+      "Progressed": 18437,
       "Completed": 72
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2024-01-05T13:58:50.2644693+00:00",
-  "LastChanged_Achievements": "2024-01-05T15:09:55.5235999+00:00",
+  "LastChanged": "2024-01-05T15:58:40.5779491+00:00",
+  "LastChanged_Achievements": "2024-01-05T16:09:53.8915498+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.8114387+00:00",
-  "LastUpdate_Ratings": "2024-01-05T14:58:31.6944188+00:00",
-  "LastUpdate_Achievements": "2024-01-05T15:09:55.5236929+00:00"
+  "LastUpdate_Ratings": "2024-01-05T15:58:40.5779496+00:00",
+  "LastUpdate_Achievements": "2024-01-05T16:09:53.891674+00:00"
 }

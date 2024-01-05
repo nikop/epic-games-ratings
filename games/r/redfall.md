@@ -21,7 +21,7 @@ Rating: 3.64 (Ranked 1,090)
 | Heart Attack | 8.00% | ~181 |
 | Grounded | 7.00% | ~158 |
 | Skin of Their Teeth | 7.00% | ~158 |
-| Bad Wiring | 6.00% | ~135 |
+| Bad Wiring | 6.00% | ~136 |
 | Neighborhood Revitalization | 5.00% | ~113 |
 | Radio Silence | 5.00% | ~113 |
 | You Clean It Up | 3.00% | ~68 |
@@ -38,8 +38,8 @@ Rating: 3.64 (Ranked 1,090)
 | Good Morning | 2.00% | ~45 |
 | Check, Please! | 2.00% | ~45 |
 | Right This Way | 2.00% | ~45 |
+| Nice Try | 2.00% | ~45 |
 | Harvest’s End | 2.00% | ~45 |
-| Nice Try | 1.00% | ~23 |
 | Blacklight Down | 1.00% | ~23 |
 | Curious Finch | 1.00% | ~23 |
 | Empty Nest Syndrome | 0.80% | ~18 |
@@ -72,7 +72,7 @@ Rating: 3.64 (Ranked 1,090)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,258 (Ranked 241)  
+Progressed: 2,259 (Ranked 241)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,10 +209,10 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-02 | 2,228 | 0 |
 | 2024-01-03 | 2,238 | 0 |
 | 2024-01-04 | 2,253 | 0 |
-| 2024-01-05 | 2,258 | 0 |
+| 2024-01-05 | 2,259 | 0 |
 ## Awards
-Max (Great Boss Battles): 22  (Ranked 562)  
-Sum: 22 (Ranked 565)  
+Max (Great Boss Battles): 22  (Ranked 563)  
+Sum: 22 (Ranked 566)  
 Diff (max vs sum): -3  
 | Award | Count |
 | ----- | ----- |

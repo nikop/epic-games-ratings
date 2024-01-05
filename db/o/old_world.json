@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 221,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2134,10 +2134,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1913,
       "NumberOfAwardsMax": 229
+    },
+    {
+      "Time": "2024-01-05T15:58:51.4001303+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1915,
+      "NumberOfAwardsMax": 229
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1913,
+  "NumberOfAwards": 1915,
   "NumberOfAwardsMax": 229,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2151,7 +2157,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 221
+      "Count": 222
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2163,7 +2169,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 216
+      "Count": 217
     },
     {
       "Text": "This game has Challenging Combat",
@@ -20335,9 +20341,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_GREAT_ZIGGURAT",
       "SetID": "9201eeb",
       "Name": "Great Ziggurat",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 97
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HAGIA_SOPHIA",
@@ -21423,9 +21429,9 @@
       "ID": "ACHIEVEMENT_EGYPT2_MAJOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "Kmt Golden Age",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_EGYPT2_MINOR_VICTORY",
@@ -21439,17 +21445,17 @@
       "ID": "ACHIEVEMENT_EGYPT2_PHARAOH_MAJOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "Pharaonic Kmt Golden Age",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_EGYPT2_PHARAOH_MINOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "Prosperous Pharaonic Kmt",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_EGYPT3_DEFEAT",
@@ -21860,9 +21866,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2024-01-04T06:58:24.8867619+00:00",
-  "LastChanged_Achievements": "2024-01-05T15:10:08.3374375+00:00",
+  "LastChanged": "2024-01-05T15:58:51.4001301+00:00",
+  "LastChanged_Achievements": "2024-01-05T16:10:07.8675616+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:24.5452657+00:00",
-  "LastUpdate_Ratings": "2024-01-05T14:58:40.3909566+00:00",
-  "LastUpdate_Achievements": "2024-01-05T15:10:08.3384689+00:00"
+  "LastUpdate_Ratings": "2024-01-05T15:58:51.4001306+00:00",
+  "LastUpdate_Achievements": "2024-01-05T16:10:07.8686699+00:00"
 }

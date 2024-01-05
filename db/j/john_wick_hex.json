@@ -2,12 +2,12 @@
   "ID": "a9cb15d3362d43d585b8a5b13b8a4513",
   "Name": "John Wick Hex",
   "ProductSlug": "johnwickhex",
-  "Ranking_Rating": 873,
-  "Ranking_Popularity": 579,
-  "Ranking_PopularitySum": 579,
+  "Ranking_Rating": 876,
+  "Ranking_Popularity": 580,
+  "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 563,
+  "Ranking_EOS_NewPlayers": 562,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2019-10-08T15:00:00+00:00",
@@ -21,7 +21,7 @@
       "SupportedPlatforms": "Window,Mac"
     }
   },
-  "Rating": 4.3,
+  "Rating": 4.29,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:56:58.5458845+00:00",
@@ -32,6 +32,12 @@
     {
       "Time": "2023-12-31T16:02:57.189971+00:00",
       "Rating": 4.3,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-05T15:58:51.5398678+00:00",
+      "Rating": 4.29,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -52,8 +58,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:11.5680704+00:00",
   "FirstSeenRating": "2023-03-31T05:56:58.5458842+00:00",
-  "LastChanged": "2023-12-31T16:02:57.1899708+00:00",
+  "LastChanged": "2024-01-05T15:58:51.5398676+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:24.7389031+00:00",
-  "LastUpdate_Ratings": "2024-01-05T14:58:40.5089692+00:00",
-  "LastUpdate_Achievements": "2024-01-05T15:09:42.5025063+00:00"
+  "LastUpdate_Ratings": "2024-01-05T15:58:51.5398681+00:00",
+  "LastUpdate_Achievements": "2024-01-05T16:09:39.6753466+00:00"
 }

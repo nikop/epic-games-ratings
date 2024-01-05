@@ -3,11 +3,11 @@
   "Name": "Them\u0027s Fightin\u0027 Herds",
   "ProductSlug": "thems-fightin-herds",
   "Ranking_Rating": 446,
-  "Ranking_Popularity": 530,
+  "Ranking_Popularity": 531,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
@@ -323,10 +323,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 49,
       "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2024-01-05T16:00:22.9926655+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 50,
+      "NumberOfAwardsMax": 28
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 49,
+  "NumberOfAwards": 50,
   "NumberOfAwardsMax": 28,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -340,12 +346,12 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 21
+      "Count": 22
     }
   ],
-  "EOS_Progressed": 234944,
+  "EOS_Progressed": 234946,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 464,
+  "EOS_NewPlayers": 462,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26833,6 +26839,11 @@
       "Time": "2024-01-05T15:09:21.3686994+00:00",
       "NumProgressed": 234944,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-05T16:09:16.5639246+00:00",
+      "NumProgressed": 234946,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 28,
@@ -26908,7 +26919,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 84580
+      "UsersEstimate": 84581
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -26988,7 +26999,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 79881
+      "UsersEstimate": 79882
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -27004,7 +27015,7 @@
       "Name": "Be Gentle...",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 49338
+      "UsersEstimate": 49339
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -27052,7 +27063,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 39940
+      "UsersEstimate": 39941
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -27067,16 +27078,16 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 234944,
+      "Progressed": 234946,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-12-19T18:57:06.8658934+00:00",
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
-  "LastChanged": "2024-01-02T21:59:02.7368642+00:00",
-  "LastChanged_Achievements": "2024-01-05T15:09:21.3686988+00:00",
+  "LastChanged": "2024-01-05T16:00:22.9926653+00:00",
+  "LastChanged_Achievements": "2024-01-05T16:09:16.563924+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:51.1279895+00:00",
-  "LastUpdate_Ratings": "2024-01-05T15:00:03.1901526+00:00",
-  "LastUpdate_Achievements": "2024-01-05T15:09:21.3688337+00:00"
+  "LastUpdate_Ratings": "2024-01-05T16:00:22.9926657+00:00",
+  "LastUpdate_Achievements": "2024-01-05T16:09:16.5641045+00:00"
 }

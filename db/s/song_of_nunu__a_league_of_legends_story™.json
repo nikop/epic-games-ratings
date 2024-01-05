@@ -3,11 +3,11 @@
   "Name": "Song of Nunu: A League of Legends Story",
   "ProductSlug": "song-of-nunu-a-league-of-legends-story",
   "Ranking_Rating": 576,
-  "Ranking_Popularity": 579,
-  "Ranking_PopularitySum": 579,
+  "Ranking_Popularity": 580,
+  "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -71,7 +71,7 @@
   "Tags": [],
   "EOS_Progressed": 1469,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -4145,9 +4145,9 @@
       "ID": "EV_ACH33",
       "SetID": "6jeac23",
       "Name": "Notai Notes",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 970
+      "UsersEstimate": 984
     },
     {
       "ID": "EV_ACH34",
@@ -4161,9 +4161,9 @@
       "ID": "EV_ACH35",
       "SetID": "6jeac23",
       "Name": "The Fire Below the Mountain",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 881
+      "UsersEstimate": 896
     },
     {
       "ID": "EV_ACH36",
@@ -4250,8 +4250,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2023-12-25T19:59:38.6529887+00:00",
-  "LastChanged_Achievements": "2024-01-05T15:10:03.6145949+00:00",
+  "LastChanged_Achievements": "2024-01-05T16:10:02.5131529+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:31.1823177+00:00",
-  "LastUpdate_Ratings": "2024-01-05T14:57:47.3779831+00:00",
-  "LastUpdate_Achievements": "2024-01-05T15:10:03.614636+00:00"
+  "LastUpdate_Ratings": "2024-01-05T15:57:49.9247136+00:00",
+  "LastUpdate_Achievements": "2024-01-05T16:10:02.5132085+00:00"
 }

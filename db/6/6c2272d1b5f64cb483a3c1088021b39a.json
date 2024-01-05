@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 377,
+  "Ranking_EOS_NewPlayers": 378,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -4824,9 +4824,9 @@
       "ID": "collector_1",
       "SetID": "53c1p3k",
       "Name": "Collector 1",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 92
     },
     {
       "ID": "collector_2",
@@ -4840,9 +4840,9 @@
       "ID": "collector_3",
       "SetID": "53c1p3k",
       "Name": "Collector 3",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "conqueror_1",
@@ -5176,9 +5176,9 @@
       "ID": "soul_shards_3",
       "SetID": "53c1p3k",
       "Name": "Soul Shards 3",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "stronghold_1",
@@ -5263,8 +5263,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2024-01-05T15:10:04.5611166+00:00",
+  "LastChanged_Achievements": "2024-01-05T16:10:03.5753783+00:00",
   "LastUpdate_AppInfo": "2024-01-02T18:57:14.0513458+00:00",
-  "LastUpdate_Ratings": "2024-01-05T14:58:30.70489+00:00",
-  "LastUpdate_Achievements": "2024-01-05T15:10:04.5611857+00:00"
+  "LastUpdate_Ratings": "2024-01-05T15:58:39.4148367+00:00",
+  "LastUpdate_Achievements": "2024-01-05T16:10:03.5754604+00:00"
 }

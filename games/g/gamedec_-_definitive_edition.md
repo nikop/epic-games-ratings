@@ -1,18 +1,18 @@
 # Gamedec - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/gamedec)  
 [View Rawdata](../../db/g/gamedec_-_definitive_edition.json)  
-Rating: 4.28 (Ranked 890)  
+Rating: 4.28 (Ranked 889)  
 Number of Ratings: 33  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 29.00% | ~74,509 |
-| Powergamer | 27.00% | ~69,370 |
+| I will finish what you started | 29.00% | ~74,510 |
+| Powergamer | 27.00% | ~69,371 |
 | Write that down | 25.00% | ~64,232 |
 | Barely scratched the surface | 25.00% | ~64,232 |
-| Guns, lots of guns | 13.00% | ~33,400 |
-| Collector | 12.00% | ~30,831 |
-| Elementary! | 9.00% | ~23,123 |
+| Guns, lots of guns | 13.00% | ~33,401 |
+| Collector | 12.00% | ~30,832 |
+| Elementary! | 9.00% | ~23,124 |
 | Griever | 8.00% | ~20,554 |
 | Pumpkin Jack | 8.00% | ~20,554 |
 | Wake up! | 8.00% | ~20,554 |
@@ -46,7 +46,7 @@ Number of Ratings: 33  (23.09.2022)
 | Let's try another | 0.90% | ~2,312 |
 | It's blue, always blue | 0.80% | ~2,055 |
 | Home run | 0.80% | ~2,055 |
-| I have the high ground | 0.70% | ~1,798 |
+| I have the high ground | 0.70% | ~1,799 |
 | Enjoy these little moments | 0.50% | ~1,285 |
 | Who wouldn't love a troll? | 0.50% | ~1,285 |
 | Irondec | 0.40% | ~1,028 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~514 |
 | Memory 5 | 0.10% | ~257 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 256,926 (Ranked 68)  
+Progressed: 256,930 (Ranked 68)  
 Completed: 8 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,14 +319,14 @@ Completed: 8 (0.00%) (Ranked 392)
 | 2024-01-02 | 256,627 | 8 |
 | 2024-01-03 | 256,748 | 8 |
 | 2024-01-04 | 256,850 | 8 |
-| 2024-01-05 | 256,926 | 8 |
+| 2024-01-05 | 256,930 | 8 |
 ## Awards
-Max (Character Customization): 96  (Ranked 384)  
-Sum: 96 (Ranked 468)  
+Max (Character Customization): 97  (Ranked 383)  
+Sum: 97 (Ranked 467)  
 Diff (max vs sum): -84  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 96 |
+| This game has Inclusive Character Customization | 97 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -416,3 +416,4 @@ Diff (max vs sum): -84
 | 2023-12-26 | 4.28 | - | 93 | 93 |
 | 2023-12-29 | 4.28 | - | 95 | 95 |
 | 2023-12-30 | 4.28 | - | 96 | 96 |
+| 2024-01-05 | 4.28 | - | 97 | 97 |

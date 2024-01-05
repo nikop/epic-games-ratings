@@ -3,7 +3,7 @@
   "Name": "GRIME",
   "ProductSlug": "grime",
   "Ranking_Rating": 429,
-  "Ranking_Popularity": 424,
+  "Ranking_Popularity": 425,
   "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 257,
@@ -1825,9 +1825,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 166624,
+  "EOS_Progressed": 166635,
   "EOS_Completed": 445,
-  "EOS_NewPlayers": 1352,
+  "EOS_NewPlayers": 1355,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -21945,6 +21945,11 @@
       "Time": "2024-01-05T15:06:02.0758592+00:00",
       "NumProgressed": 166624,
       "NumCompleted": 445
+    },
+    {
+      "Time": "2024-01-05T16:06:20.1159283+00:00",
+      "NumProgressed": 166635,
+      "NumCompleted": 445
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -21981,7 +21986,7 @@
       "Name": "Assimilation",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "ACQUIRE_ALLWEAPONS",
@@ -22005,7 +22010,7 @@
       "Name": "The Hunt",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3332
+      "UsersEstimate": 3333
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -22029,7 +22034,7 @@
       "Name": "Weeper",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3332
+      "UsersEstimate": 3333
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -22117,7 +22122,7 @@
       "Name": "Celebration",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "DEFEAT_SHIDRA",
@@ -22229,7 +22234,7 @@
       "Name": "Ravenous",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3332
+      "UsersEstimate": 3333
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -22324,21 +22329,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 166207,
+      "Progressed": 166218,
       "Completed": 1254
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 166624,
+      "Progressed": 166635,
       "Completed": 445
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-05T15:00:08.520148+00:00",
-  "LastChanged_Achievements": "2024-01-05T15:06:02.0758587+00:00",
+  "LastChanged_Achievements": "2024-01-05T16:06:20.1159278+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:50.3299145+00:00",
-  "LastUpdate_Ratings": "2024-01-05T15:00:08.5201485+00:00",
-  "LastUpdate_Achievements": "2024-01-05T15:06:02.0760436+00:00"
+  "LastUpdate_Ratings": "2024-01-05T16:00:28.9405343+00:00",
+  "LastUpdate_Achievements": "2024-01-05T16:06:20.116042+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "Redfall",
   "ProductSlug": "redfall",
   "Ranking_Rating": 1090,
-  "Ranking_Popularity": 562,
-  "Ranking_PopularitySum": 565,
+  "Ranking_Popularity": 563,
+  "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -357,9 +357,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2258,
+  "EOS_Progressed": 2259,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4012,6 +4012,11 @@
       "Time": "2024-01-05T14:04:10.1226827+00:00",
       "NumProgressed": 2258,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T16:04:08.6088531+00:00",
+      "NumProgressed": 2259,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4143,7 +4148,7 @@
       "Name": "Bad Wiring",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "Achievement_018",
@@ -4405,9 +4410,9 @@
       "ID": "Achievement_052",
       "SetID": "6b34g18",
       "Name": "Nice Try",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 45
     },
     {
       "ID": "Achievement_053",
@@ -4550,7 +4555,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2258,
+      "Progressed": 2259,
       "Completed": 0
     }
   ],
@@ -4558,8 +4563,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-04T23:58:10.1541435+00:00",
-  "LastChanged_Achievements": "2024-01-05T15:03:59.5725458+00:00",
+  "LastChanged_Achievements": "2024-01-05T16:04:08.6088527+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.8280502+00:00",
-  "LastUpdate_Ratings": "2024-01-05T14:57:54.7620201+00:00",
-  "LastUpdate_Achievements": "2024-01-05T15:03:59.572611+00:00"
+  "LastUpdate_Ratings": "2024-01-05T15:57:57.7223228+00:00",
+  "LastUpdate_Achievements": "2024-01-05T16:04:08.6089291+00:00"
 }
