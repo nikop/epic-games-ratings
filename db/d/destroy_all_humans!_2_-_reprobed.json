@@ -294,9 +294,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 317,
+  "EOS_Progressed": 318,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -1529,6 +1529,11 @@
       "Time": "2024-01-05T05:09:01.9432184+00:00",
       "NumProgressed": 317,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-05T10:09:28.8688011+00:00",
+      "NumProgressed": 318,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1539,9 +1544,9 @@
       "ID": "ACH_ACCELERATE_SMASH",
       "SetID": "4n84pon",
       "Name": "Mash Machine",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 235
+      "UsersEstimate": 238
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1653,7 +1658,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -1677,7 +1682,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 82,
       "XP": 25,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1693,7 +1698,7 @@
       "Name": "I Look Up As I Walk to Takoshima",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_ENTER_TUNGUSKA",
@@ -1709,7 +1714,7 @@
       "Name": "Bodied Sattva",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -1797,7 +1802,7 @@
       "Name": "Upgreatest",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
@@ -1885,14 +1890,14 @@
       "Name": "Pimp My Raid",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 317,
+      "Progressed": 318,
       "Completed": 2
     }
   ],
@@ -1900,8 +1905,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-03T11:58:36.9448322+00:00",
-  "LastChanged_Achievements": "2024-01-05T09:09:38.0304645+00:00",
+  "LastChanged_Achievements": "2024-01-05T10:09:28.8688008+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.261947+00:00",
-  "LastUpdate_Ratings": "2024-01-05T08:59:38.3663039+00:00",
-  "LastUpdate_Achievements": "2024-01-05T09:09:38.0304952+00:00"
+  "LastUpdate_Ratings": "2024-01-05T09:59:09.9557884+00:00",
+  "LastUpdate_Achievements": "2024-01-05T10:09:28.8688291+00:00"
 }

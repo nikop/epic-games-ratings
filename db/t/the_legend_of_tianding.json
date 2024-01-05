@@ -4,7 +4,7 @@
   "ProductSlug": "the-legend-of-tianding",
   "Ranking_EOS_Progress": 523,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-11-02T01:00:00+00:00",
@@ -617,8 +617,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2024-01-05T09:04:22.5779488+00:00",
+  "LastChanged_Achievements": "2024-01-05T10:04:06.9304458+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:12.5249807+00:00",
-  "LastUpdate_Ratings": "2024-01-05T08:59:49.3980455+00:00",
-  "LastUpdate_Achievements": "2024-01-05T09:04:22.5779654+00:00"
+  "LastUpdate_Ratings": "2024-01-05T09:59:19.4881329+00:00",
+  "LastUpdate_Achievements": "2024-01-05T10:04:06.9304609+00:00"
 }

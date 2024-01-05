@@ -2,13 +2,13 @@
   "ID": "b47d3947087147baa8e1665680aefc11",
   "Name": "Tower of Fantasy",
   "ProductSlug": "tower-of-fantasy",
-  "Ranking_Rating": 836,
+  "Ranking_Rating": 847,
   "Ranking_Popularity": 241,
   "Ranking_PopularitySum": 287,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 562,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-05-11T14:00:00+00:00",
     "PcReleaseDate": "2021-12-16T19:36:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.34,
+  "Rating": 4.33,
   "RatingHistory": [
     {
       "Time": "2023-05-19T13:03:09.3101375+00:00",
@@ -2773,10 +2773,16 @@
       "Rating": 4.34,
       "NumberOfAwards": 852,
       "NumberOfAwardsMax": 385
+    },
+    {
+      "Time": "2024-01-05T09:57:55.187009+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 853,
+      "NumberOfAwardsMax": 385
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 852,
+  "NumberOfAwards": 853,
   "NumberOfAwardsMax": 385,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2844,7 +2850,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 47
+      "Count": 48
     }
   ],
   "EOS_Progressed": 0,
@@ -2859,8 +2865,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-11T14:59:22.8545223+00:00",
   "FirstSeenRating": "2023-05-19T13:03:09.3101373+00:00",
-  "LastChanged": "2024-01-04T16:57:54.1679125+00:00",
+  "LastChanged": "2024-01-05T09:57:55.1870088+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:32.4361855+00:00",
-  "LastUpdate_Ratings": "2024-01-05T08:58:10.0338247+00:00",
-  "LastUpdate_Achievements": "2024-01-05T09:10:06.3361897+00:00"
+  "LastUpdate_Ratings": "2024-01-05T09:57:55.1870093+00:00",
+  "LastUpdate_Achievements": "2024-01-05T10:09:54.1303034+00:00"
 }

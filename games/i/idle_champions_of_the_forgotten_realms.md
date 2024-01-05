@@ -6,12 +6,12 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~7,540 |
+| A Brief Tour of the Realms | 3.00% | ~7,541 |
 | The Cursed Farmer | 2.00% | ~5,027 |
-| Beast Intentions | 1.00% | ~2,513 |
-| The Mad Wizard | 1.00% | ~2,513 |
+| Beast Intentions | 1.00% | ~2,514 |
+| The Mad Wizard | 1.00% | ~2,514 |
 | Welcome to Sigil | 0.80% | ~1,741 |
-| The Ring of Regeneration | 0.70% | ~1,759 |
+| The Ring of Regeneration | 0.70% | ~1,760 |
 | Were-verpowered | 0.60% | ~1,508 |
 | Are Ya Chicken? | 0.60% | ~1,508 |
 | Fast Food | 0.60% | ~1,306 |
@@ -22,13 +22,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mental Gymnastics | 0.50% | ~1,088 |
 | A Persistent Buzzing | 0.40% | ~1,005 |
 | Pure Energy | 0.40% | ~1,005 |
-| Arcane Suppression | 0.40% | ~870 |
-| Misaligned in Sigil | 0.40% | ~870 |
-| Chaos Theory | 0.40% | ~870 |
-| When Tentacles Attack | 0.40% | ~870 |
-| Flames of Avernus | 0.40% | ~870 |
-| Don't Lose Your Head | 0.40% | ~870 |
-| Mind Spike | 0.40% | ~870 |
+| Arcane Suppression | 0.40% | ~871 |
+| Misaligned in Sigil | 0.40% | ~871 |
+| Chaos Theory | 0.40% | ~871 |
+| When Tentacles Attack | 0.40% | ~871 |
+| Flames of Avernus | 0.40% | ~871 |
+| Don't Lose Your Head | 0.40% | ~871 |
+| Mind Spike | 0.40% | ~871 |
 | Maddening | 0.30% | ~754 |
 | Beast Mode | 0.30% | ~754 |
 | Terror in the Dark | 0.30% | ~754 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~218 |
 | A Wise Approach | 0.10% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251,349 (Ranked 70)  
+Progressed: 251,358 (Ranked 70)  
 Completed: 2,593 (1.03%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -813,7 +813,7 @@ Completed: 2,593 (1.03%) (Ranked 170)
 | 2024-01-02 | 250,032 | 2,585 |
 | 2024-01-03 | 250,594 | 2,588 |
 | 2024-01-04 | 251,128 | 2,592 |
-| 2024-01-05 | 251,349 | 2,593 |
+| 2024-01-05 | 251,358 | 2,593 |
 ## Awards
 Max (Great for Beginners): 5,750  (Ranked 72)  
 Sum: 33,330 (Ranked 41)  

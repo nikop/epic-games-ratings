@@ -5,36 +5,36 @@ Rating: 4.86 (Ranked 31)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 53.00% | ~8,157 |
-| Start with a bang! | 52.00% | ~8,003 |
-| You can pet the cat! | 47.00% | ~7,234 |
-| Who put gears in there? | 39.00% | ~6,002 |
-| Cream of the Crop | 34.00% | ~5,233 |
-| Thanks for the free chip, Peppermint! | 33.00% | ~5,079 |
-| You got this, Peppermint? | 28.00% | ~4,309 |
-| Perfect Parry | 26.00% | ~4,002 |
-| Alright, that felt AWESOME! | 26.00% | ~4,002 |
-| I play my own way! | 22.00% | ~3,386 |
-| This will cost you big time | 20.00% | ~3,078 |
-| Uh, they were broken when I got here | 20.00% | ~3,078 |
-| Z-shielding's got nothing on us! | 19.00% | ~2,924 |
-| Kissing the sky! | 18.00% | ~2,770 |
-| Whoa! There's ANOTHER health bar!? | 16.00% | ~2,463 |
-| Does that say weakpoint? | 16.00% | ~2,463 |
-| The Negotiator | 14.00% | ~2,155 |
-| You must like calling me in, Chai | 13.00% | ~2,001 |
-| Headliner | 12.00% | ~1,847 |
-| Out in a puff of smoke | 12.00% | ~1,847 |
-| I look cool. But I can look COOLER. | 12.00% | ~1,847 |
-| Time to pay up! | 11.00% | ~1,693 |
-| Perfecter Parry-er! | 11.00% | ~1,693 |
-| Who's the boss now? | 10.00% | ~1,539 |
-| I have to read these things? | 10.00% | ~1,539 |
-| NOW we got a kickass hideout! | 8.00% | ~1,113 |
-| Well that was a rush! | 7.00% | ~1,077 |
-| There's such a thing as TOO helpful | 7.00% | ~1,077 |
-| Beat-hit mania | 6.00% | ~923 |
-| That's a lot of junk metal… | 6.00% | ~923 |
+| Feeling the beat! | 53.00% | ~8,166 |
+| Start with a bang! | 52.00% | ~8,012 |
+| You can pet the cat! | 47.00% | ~7,241 |
+| Who put gears in there? | 39.00% | ~6,009 |
+| Cream of the Crop | 34.00% | ~5,238 |
+| Thanks for the free chip, Peppermint! | 33.00% | ~5,084 |
+| You got this, Peppermint? | 28.00% | ~4,314 |
+| Perfect Parry | 26.00% | ~4,006 |
+| Alright, that felt AWESOME! | 26.00% | ~4,006 |
+| I play my own way! | 22.00% | ~3,390 |
+| This will cost you big time | 20.00% | ~3,081 |
+| Uh, they were broken when I got here | 20.00% | ~3,081 |
+| Z-shielding's got nothing on us! | 19.00% | ~2,927 |
+| Kissing the sky! | 18.00% | ~2,773 |
+| Whoa! There's ANOTHER health bar!? | 16.00% | ~2,465 |
+| Does that say weakpoint? | 16.00% | ~2,465 |
+| The Negotiator | 14.00% | ~2,157 |
+| You must like calling me in, Chai | 13.00% | ~2,003 |
+| Headliner | 12.00% | ~1,849 |
+| Out in a puff of smoke | 12.00% | ~1,849 |
+| I look cool. But I can look COOLER. | 12.00% | ~1,849 |
+| Time to pay up! | 11.00% | ~1,695 |
+| Perfecter Parry-er! | 11.00% | ~1,695 |
+| Who's the boss now? | 10.00% | ~1,541 |
+| I have to read these things? | 10.00% | ~1,541 |
+| NOW we got a kickass hideout! | 8.00% | ~1,114 |
+| Well that was a rush! | 7.00% | ~1,078 |
+| There's such a thing as TOO helpful | 7.00% | ~1,078 |
+| Beat-hit mania | 6.00% | ~924 |
+| That's a lot of junk metal… | 6.00% | ~924 |
 | I told you I'd be fine, Peppermint! | 5.00% | ~770 |
 | Chip-tuned | 4.00% | ~616 |
 | Wanna hear my playlist? | 3.00% | ~462 |
@@ -50,7 +50,7 @@ Rating: 4.86 (Ranked 31)
 | This is a breeze! | 1.00% | ~154 |
 | Call me Turbo Chai | 1.00% | ~139 |
 | OK, well THEY came after ME! | 0.70% | ~108 |
-| New bad guys? No problem! | 0.60% | ~83 |
+| New bad guys? No problem! | 0.60% | ~84 |
 | Now this is how you fight like a team! | 0.40% | ~62 |
 | And the crowd goes wild! | 0.30% | ~46 |
 | Problem solved... wait, what? | 0.30% | ~46 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 31)
 | Voices from within | 0.10% | ~14 |
 | Low budget finish | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,391 (Ranked 170)  
+Progressed: 15,407 (Ranked 169)  
 Completed: 8 (0.05%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 8 (0.05%) (Ranked 335)
 | 2024-01-02 | 14,784 | 8 |
 | 2024-01-03 | 15,051 | 8 |
 | 2024-01-04 | 15,290 | 8 |
-| 2024-01-05 | 15,391 | 8 |
+| 2024-01-05 | 15,407 | 8 |
 ## Awards
 Max (Great Boss Battles): 28  (Ranked 529)  
 Sum: 28 (Ranked 545)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 335,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -525,9 +525,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 5884,
+  "EOS_Progressed": 5885,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 514,
+  "EOS_NewPlayers": 512,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -8875,6 +8875,11 @@
       "Time": "2024-01-05T09:03:57.2888601+00:00",
       "NumProgressed": 5884,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-05T10:03:43.9712506+00:00",
+      "NumProgressed": 5885,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -8926,7 +8931,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 2530
+      "UsersEstimate": 2531
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -8998,7 +9003,7 @@
       "Name": "Call Me Snake",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 3177
+      "UsersEstimate": 3178
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -9046,7 +9051,7 @@
       "Name": "Bandage Lover",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 941
+      "UsersEstimate": 942
     },
     {
       "ID": "ACH_MAX_RECON",
@@ -9062,7 +9067,7 @@
       "Name": "Come on, You Wanna Live Forever?",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "ACH_MAX_TECKER",
@@ -9116,9 +9121,9 @@
       "ID": "ACH_MISSION_06",
       "SetID": "816efe",
       "Name": "Living Nightmare",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1589
+      "UsersEstimate": 1648
     },
     {
       "ID": "ACH_MISSION_07",
@@ -9134,7 +9139,7 @@
       "Name": "Deep Into Insanity",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1353
+      "UsersEstimate": 1354
     },
     {
       "ID": "ACH_MISSION_09",
@@ -9142,7 +9147,7 @@
       "Name": "The Passenger",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1353
+      "UsersEstimate": 1354
     },
     {
       "ID": "ACH_MISSION_10",
@@ -9206,7 +9211,7 @@
       "Name": "People Person",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 2824
+      "UsersEstimate": 2825
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -9214,7 +9219,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2059
+      "UsersEstimate": 2060
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -9236,16 +9241,16 @@
       "ID": "ACH_USE_REDEMPTION",
       "SetID": "816efe",
       "Name": "The Shrink Hates Me",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 2824
+      "UsersEstimate": 2884
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 5884,
+      "Progressed": 5885,
       "Completed": 3
     }
   ],
@@ -9253,8 +9258,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-04T09:59:56.7771926+00:00",
-  "LastChanged_Achievements": "2024-01-05T09:03:57.2888599+00:00",
+  "LastChanged_Achievements": "2024-01-05T10:03:43.9712502+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:52.952602+00:00",
-  "LastUpdate_Ratings": "2024-01-05T09:00:41.8263513+00:00",
-  "LastUpdate_Achievements": "2024-01-05T09:03:57.2889122+00:00"
+  "LastUpdate_Ratings": "2024-01-05T10:00:07.5795939+00:00",
+  "LastUpdate_Achievements": "2024-01-05T10:03:43.9713215+00:00"
 }

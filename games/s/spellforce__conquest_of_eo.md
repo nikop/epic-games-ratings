@@ -52,15 +52,15 @@
 | Tuscari Sea Portal | 7.00% | ~8 |
 | A Monopoly of Might | 7.00% | ~8 |
 | Balanced | 7.00% | ~8 |
+| Get to the Airship! | 6.00% | ~7 |
 | Defeat Undergast | 6.00% | ~7 |
 | Elynn's Tale | 6.00% | ~7 |
 | Crypt of the Revenant | 6.00% | ~7 |
 | Master Artificer | 6.00% | ~7 |
 | Heroes | 6.00% | ~7 |
-| Get to the Airship! | 5.00% | ~6 |
+| Friend of Grey Dusk Vale | 6.00% | ~7 |
 | Defeat Ianna | 5.00% | ~6 |
 | Master Necromancer | 5.00% | ~6 |
-| Friend of Grey Dusk Vale | 5.00% | ~6 |
 | Defeat Isgrimm | 4.00% | ~5 |
 | Defeat Rohen | 4.00% | ~5 |
 | Defeat Yria | 4.00% | ~5 |

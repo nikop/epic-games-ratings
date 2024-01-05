@@ -6,7 +6,7 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 210.00% | ~1,695 |
+| Adept Assembler | 211.00% | ~1,703 |
 | Super Spelunker | 148.00% | ~1,194 |
 | Iron Chef | 145.00% | ~1,170 |
 | The Little Wood that Could | 119.00% | ~960 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 437,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 335,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -721,7 +721,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4197,
+  "EOS_Progressed": 4198,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 274,
   "EOS_NewCompleters": 0,
@@ -11786,6 +11786,11 @@
       "Time": "2024-01-05T09:03:59.4848969+00:00",
       "NumProgressed": 4197,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-05T10:03:45.9688553+00:00",
+      "NumProgressed": 4198,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -11979,9 +11984,9 @@
       "ID": "fellowshippower",
       "SetID": "3nl4bcg",
       "Name": "Fellowship Power",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1763
+      "UsersEstimate": 1721
     },
     {
       "ID": "fourleafclover",
@@ -12029,7 +12034,7 @@
       "Name": "Guild Power",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "herewegoagain",
@@ -12189,7 +12194,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 2182
+      "UsersEstimate": 2183
     },
     {
       "ID": "prestigiousx10",
@@ -12197,7 +12202,7 @@
       "Name": "Prestigious x10",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 839
+      "UsersEstimate": 840
     },
     {
       "ID": "relicofthepast",
@@ -12253,7 +12258,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2350
+      "UsersEstimate": 2351
     },
     {
       "ID": "thealchemist",
@@ -12285,7 +12290,7 @@
       "Name": "The game is on",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "thepowerofawakening",
@@ -12357,7 +12362,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 3903
+      "UsersEstimate": 3904
     },
     {
       "ID": "warmachinesarmy",
@@ -12396,7 +12401,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4197,
+      "Progressed": 4198,
       "Completed": 2
     }
   ],
@@ -12404,8 +12409,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-05T01:45:12.3026402+00:00",
-  "LastChanged_Achievements": "2024-01-05T09:03:59.4848966+00:00",
+  "LastChanged_Achievements": "2024-01-05T10:03:45.9688549+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:50.7213096+00:00",
-  "LastUpdate_Ratings": "2024-01-05T08:58:48.4326286+00:00",
-  "LastUpdate_Achievements": "2024-01-05T09:03:59.4850066+00:00"
+  "LastUpdate_Ratings": "2024-01-05T09:58:26.4360353+00:00",
+  "LastUpdate_Achievements": "2024-01-05T10:03:45.9690107+00:00"
 }

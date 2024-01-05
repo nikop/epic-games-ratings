@@ -409,9 +409,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2732,
+  "EOS_Progressed": 2735,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 564,
+  "EOS_NewPlayers": 566,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4459,6 +4459,11 @@
       "Time": "2024-01-05T08:11:03.0967299+00:00",
       "NumProgressed": 2732,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-05T10:10:13.5253055+00:00",
+      "NumProgressed": 2735,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -4471,7 +4476,7 @@
       "Name": "Unforeseen",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 2404
+      "UsersEstimate": 2407
     },
     {
       "ID": "achievement_10",
@@ -4479,7 +4484,7 @@
       "Name": "Control is an Illusion",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "achievement_11",
@@ -4487,7 +4492,7 @@
       "Name": "The Means to Save It",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "achievement_12",
@@ -4511,7 +4516,7 @@
       "Name": "Geas Aristeya",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "achievement_15",
@@ -4519,7 +4524,7 @@
       "Name": "A Perfect Cycle",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "achievement_16",
@@ -4559,7 +4564,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 2213
+      "UsersEstimate": 2215
     },
     {
       "ID": "achievement_20",
@@ -4615,7 +4620,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1885
+      "UsersEstimate": 1887
     },
     {
       "ID": "achievement_36",
@@ -4647,15 +4652,15 @@
       "Name": "No More Names",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1421
+      "UsersEstimate": 1422
     },
     {
       "ID": "achievement_41",
       "SetID": "18al4io",
       "Name": "Armaments Azure",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 82
+      "UsersEstimate": 109
     },
     {
       "ID": "achievement_42",
@@ -4687,7 +4692,7 @@
       "Name": "Periapt Alizarin",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "achievement_46",
@@ -4703,7 +4708,7 @@
       "Name": "Enlisted",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 2022
+      "UsersEstimate": 2024
     },
     {
       "ID": "achievement_49",
@@ -4711,7 +4716,7 @@
       "Name": "Soldier",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "achievement_5",
@@ -4719,7 +4724,7 @@
       "Name": "Initiate",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "achievement_50",
@@ -4767,7 +4772,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 902
+      "UsersEstimate": 903
     },
     {
       "ID": "achievement_60",
@@ -4831,7 +4836,7 @@
       "Name": "All the Major Food Groups",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "achievement_9",
@@ -4839,14 +4844,14 @@
       "Name": "Beggars Would Ride",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 2732,
+      "Progressed": 2735,
       "Completed": 3
     }
   ],
@@ -4854,8 +4859,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-04T16:59:40.3998354+00:00",
-  "LastChanged_Achievements": "2024-01-05T09:10:24.5590244+00:00",
+  "LastChanged_Achievements": "2024-01-05T10:10:13.5253052+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.4007279+00:00",
-  "LastUpdate_Ratings": "2024-01-05T09:00:04.103198+00:00",
-  "LastUpdate_Achievements": "2024-01-05T09:10:24.559113+00:00"
+  "LastUpdate_Ratings": "2024-01-05T09:59:32.9815627+00:00",
+  "LastUpdate_Achievements": "2024-01-05T10:10:13.5253454+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 397,
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
@@ -709,7 +709,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 473386,
+  "EOS_Progressed": 473387,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 405,
   "EOS_NewCompleters": 1,
@@ -27564,6 +27564,11 @@
       "Time": "2024-01-05T09:10:39.4724337+00:00",
       "NumProgressed": 473386,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-05T10:10:27.490157+00:00",
+      "NumProgressed": 473387,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 79,
@@ -27695,7 +27700,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 118346
+      "UsersEstimate": 118347
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -27727,7 +27732,7 @@
       "Name": "Tetsuo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 52072
+      "UsersEstimate": 52073
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -27759,7 +27764,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160951
+      "UsersEstimate": 160952
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -28206,21 +28211,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 17320,
+      "Progressed": 17321,
       "Completed": 2362
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 473386,
+      "Progressed": 473387,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2024-01-03T17:03:08.8869206+00:00",
-  "LastChanged_Achievements": "2024-01-05T09:10:39.472433+00:00",
+  "LastChanged_Achievements": "2024-01-05T10:10:27.4901566+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:35.1454991+00:00",
-  "LastUpdate_Ratings": "2024-01-05T08:58:02.005517+00:00",
-  "LastUpdate_Achievements": "2024-01-05T09:10:39.4726473+00:00"
+  "LastUpdate_Ratings": "2024-01-05T09:57:48.0891693+00:00",
+  "LastUpdate_Achievements": "2024-01-05T10:10:27.4903524+00:00"
 }

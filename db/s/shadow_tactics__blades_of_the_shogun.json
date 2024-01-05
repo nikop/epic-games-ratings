@@ -2464,9 +2464,9 @@
       "Count": 259
     }
   ],
-  "EOS_Progressed": 224099,
+  "EOS_Progressed": 224108,
   "EOS_Completed": 103,
-  "EOS_NewPlayers": 1686,
+  "EOS_NewPlayers": 1685,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -32364,6 +32364,11 @@
       "Time": "2024-01-05T09:05:23.7394392+00:00",
       "NumProgressed": 224099,
       "NumCompleted": 103
+    },
+    {
+      "Time": "2024-01-05T10:05:02.1992841+00:00",
+      "NumProgressed": 224108,
+      "NumCompleted": 103
     }
   ],
   "TotalAchievements": 44,
@@ -32375,7 +32380,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 24651
+      "UsersEstimate": 24652
     },
     {
       "ID": "AtheistOx",
@@ -32415,7 +32420,7 @@
       "Name": "Disguised",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 20169
+      "UsersEstimate": 20170
     },
     {
       "ID": "FiveShadows",
@@ -32447,7 +32452,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 26892
+      "UsersEstimate": 26893
     },
     {
       "ID": "HappyLittleAccidents",
@@ -32463,7 +32468,7 @@
       "Name": "Happy Planning",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 15687
+      "UsersEstimate": 15688
     },
     {
       "ID": "HighFiveTheMoon",
@@ -32479,7 +32484,7 @@
       "Name": "Ice Ice Yuki",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 17928
+      "UsersEstimate": 17929
     },
     {
       "ID": "ItsRainingMen",
@@ -32495,7 +32500,7 @@
       "Name": "Jonin",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 15687
+      "UsersEstimate": 15688
     },
     {
       "ID": "Mercyful",
@@ -32503,7 +32508,7 @@
       "Name": "Merciful",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "Meticulous",
@@ -32527,7 +32532,7 @@
       "Name": "Mugen Unchained",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 15687
+      "UsersEstimate": 15688
     },
     {
       "ID": "NoGimmicks",
@@ -32591,7 +32596,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 20169
+      "UsersEstimate": 20170
     },
     {
       "ID": "Rollin",
@@ -32599,7 +32604,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 20169
+      "UsersEstimate": 20170
     },
     {
       "ID": "StillRollin",
@@ -32623,7 +32628,7 @@
       "Name": "Stoned Ox",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 17928
+      "UsersEstimate": 17929
     },
     {
       "ID": "TanukiTime",
@@ -32631,7 +32636,7 @@
       "Name": "Tanuki Time",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 20169
+      "UsersEstimate": 20170
     },
     {
       "ID": "TheCave",
@@ -32663,7 +32668,7 @@
       "Name": "Thorough",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 24651
+      "UsersEstimate": 24652
     },
     {
       "ID": "TimeParadox",
@@ -32719,22 +32724,22 @@
       "Name": "Yabu",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 17928
+      "UsersEstimate": 17929
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 224099,
+      "Progressed": 224108,
       "Completed": 103
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2024-01-05T05:59:57.916298+00:00",
-  "LastChanged_Achievements": "2024-01-05T09:05:23.7394385+00:00",
+  "LastChanged_Achievements": "2024-01-05T10:05:02.1992838+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:46.5494566+00:00",
-  "LastUpdate_Ratings": "2024-01-05T09:00:26.3104859+00:00",
-  "LastUpdate_Achievements": "2024-01-05T09:05:23.7396113+00:00"
+  "LastUpdate_Ratings": "2024-01-05T09:59:53.8489048+00:00",
+  "LastUpdate_Achievements": "2024-01-05T10:05:02.1994157+00:00"
 }

@@ -59,11 +59,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 722,
+  "EOS_Progressed": 723,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 3.88,
+  "EOS_Completed_Percentage": 3.87,
   "EosHistory": [
     {
       "Time": "2023-11-09T19:14:40.2664678+00:00",
@@ -2249,6 +2249,11 @@
       "Time": "2024-01-05T07:09:13.698472+00:00",
       "NumProgressed": 722,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2024-01-05T10:09:24.0408666+00:00",
+      "NumProgressed": 723,
+      "NumCompleted": 28
     }
   ],
   "AchievementsAdded": "2023-11-07T12:05:38.3005436+00:00",
@@ -2269,7 +2274,7 @@
       "Name": "Thalya\u00A0\u2013 Simply Immortal",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "ach_main01begin_storm",
@@ -2277,7 +2282,7 @@
       "Name": "Thalya\u0027s Concentrated Fury",
       "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "ach_main02horde_completed",
@@ -2285,7 +2290,7 @@
       "Name": "Hammer Time, Round Two",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "ach_main02horde_creatures",
@@ -2293,7 +2298,7 @@
       "Name": "For the Horde!",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "ach_main02horde_traps",
@@ -2301,7 +2306,7 @@
       "Name": "Trap Master",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "ach_main03demon_completed",
@@ -2309,7 +2314,7 @@
       "Name": "The Hellwoods",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "ach_main03demon_doors",
@@ -2325,7 +2330,7 @@
       "Name": "Magic Accidents",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "ach_main04undead_completed",
@@ -2333,7 +2338,7 @@
       "Name": "The Plains of Strothalm",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "ach_main04undead_minions",
@@ -2341,7 +2346,7 @@
       "Name": "Minions, Minions!",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "ach_main04undead_sacrifice",
@@ -2357,7 +2362,7 @@
       "Name": "Bad Elves Go Everywhere",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "ach_main05evil_thalyalevel",
@@ -2381,7 +2386,7 @@
       "Name": "Heroes\u2019 Gorge",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "ach_main06transporter_towers",
@@ -2389,7 +2394,7 @@
       "Name": "Mana Cannon",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "ach_main06transporter_transport",
@@ -2397,7 +2402,7 @@
       "Name": "YOU SHALL NOT PASS!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "ach_main07storm_classified",
@@ -2413,7 +2418,7 @@
       "Name": "The Ascent",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "ach_main07storm_dynamite",
@@ -2429,7 +2434,7 @@
       "Name": "It\u0027s Warm and Cozy at Home",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "ach_main08sacrifice_completed",
@@ -2459,9 +2464,9 @@
       "ID": "ach_main09journey_completed",
       "SetID": "4hg22ll",
       "Name": "\u201C\u2026 like son\u201D",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 368
+      "UsersEstimate": 362
     },
     {
       "ID": "ach_main09journey_killheroes",
@@ -2485,7 +2490,7 @@
       "Name": "The Cathedral of Light",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "ach_main10fire_freehorde",
@@ -2493,7 +2498,7 @@
       "Name": "Unstoppable Horde",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "ach_main10fire_naga",
@@ -2501,7 +2506,7 @@
       "Name": "Shame! Shame! Shame!",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "ach_main11blessing_completed",
@@ -2515,9 +2520,9 @@
       "ID": "ach_main11blessing_ghostheroes",
       "SetID": "4hg22ll",
       "Name": "Ghost Pirates? Ghost Heroes!",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 217
+      "UsersEstimate": 210
     },
     {
       "ID": "ach_main11blessing_undeadonly",
@@ -2525,7 +2530,7 @@
       "Name": "Master of the Undead",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "ach_main12race_completed",
@@ -2557,7 +2562,7 @@
       "Name": "The Duel",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "ach_main13tanos_dungeonlord",
@@ -2571,9 +2576,9 @@
       "ID": "ach_main13tanos_evilbosses",
       "SetID": "4hg22ll",
       "Name": "Bonus Evilness",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 180
+      "UsersEstimate": 174
     },
     {
       "ID": "ach_main14run_completed",
@@ -2605,7 +2610,7 @@
       "Name": "The Finitude Drill",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "ach_main15drill_sabotage",
@@ -2637,7 +2642,7 @@
       "Name": "Lavalumps on Ice!",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ach_main16ring_spawners",
@@ -2701,7 +2706,7 @@
       "Name": "The Rune Sockets of Finitude (Part 2)",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ach_main19war_heal",
@@ -2748,7 +2753,7 @@
     {
       "ID": "4hg22ll",
       "IsBase": true,
-      "Progressed": 722,
+      "Progressed": 723,
       "Completed": 28
     }
   ],
@@ -2756,8 +2761,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-03T15:00:48.7802365+00:00",
-  "LastChanged_Achievements": "2024-01-05T09:09:32.6460028+00:00",
+  "LastChanged_Achievements": "2024-01-05T10:09:24.0408662+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:16.0613697+00:00",
-  "LastUpdate_Ratings": "2024-01-05T09:00:57.4701353+00:00",
-  "LastUpdate_Achievements": "2024-01-05T09:09:32.6460714+00:00"
+  "LastUpdate_Ratings": "2024-01-05T10:00:20.4292182+00:00",
+  "LastUpdate_Achievements": "2024-01-05T10:09:24.0409199+00:00"
 }

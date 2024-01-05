@@ -6,12 +6,12 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 18.00% | ~679 |
+| Executioner | 18.00% | ~680 |
 | Watch Where You Step... | 14.00% | ~528 |
-| Look Over There! | 13.00% | ~490 |
-| Not So Fast... | 13.00% | ~490 |
-| An Ill Omen | 13.00% | ~490 |
-| Purging Spree | 9.00% | ~339 |
+| Look Over There! | 13.00% | ~491 |
+| Not So Fast... | 13.00% | ~491 |
+| An Ill Omen | 13.00% | ~491 |
+| Purging Spree | 9.00% | ~340 |
 | Blood for the Blood God! | 8.00% | ~302 |
 | Bloodless | 7.00% | ~264 |
 | Friendly Fire | 6.00% | ~226 |
@@ -24,13 +24,13 @@ Number of Ratings: 371  (23.09.2022)
 | Hold Your Ground | 3.00% | ~113 |
 | Just a Scratch | 3.00% | ~113 |
 | Hive Exterminator | 3.00% | ~113 |
-| Daemonkeeper | 2.00% | ~75 |
-| Corruption Cleanser | 2.00% | ~75 |
-| Mind Like a Fortress | 2.00% | ~75 |
-| Efficient Killer | 2.00% | ~75 |
-| Only in Death | 2.00% | ~75 |
-| A Gift Spurned | 2.00% | ~75 |
-| Execution Force | 2.00% | ~75 |
+| Daemonkeeper | 2.00% | ~76 |
+| Corruption Cleanser | 2.00% | ~76 |
+| Mind Like a Fortress | 2.00% | ~76 |
+| Efficient Killer | 2.00% | ~76 |
+| Only in Death | 2.00% | ~76 |
+| A Gift Spurned | 2.00% | ~76 |
+| Execution Force | 2.00% | ~76 |
 | Fleetmaster | 1.00% | ~38 |
 | For the Machine God | 1.00% | ~38 |
 | Exterminator | 1.00% | ~38 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.10% | ~4 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,772 (Ranked 217)  
+Progressed: 3,775 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-02 | 3,720 | 0 |
 | 2024-01-03 | 3,737 | 0 |
 | 2024-01-04 | 3,765 | 0 |
-| 2024-01-05 | 3,772 | 0 |
+| 2024-01-05 | 3,775 | 0 |
 ## Awards
 Max (Character Customization): 232  (Ranked 282)  
 Sum: 495 (Ranked 334)  

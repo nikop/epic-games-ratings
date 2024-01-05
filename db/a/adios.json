@@ -2,13 +2,13 @@
   "ID": "a3dd9f3da8ec49c7b25dec42cce2ec46",
   "Name": "Adios",
   "ProductSlug": "adios-b378b4",
-  "Ranking_Rating": 1091,
+  "Ranking_Rating": 1090,
   "Ranking_Popularity": 579,
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 108,
-  "Ranking_EOS_Completed": 165,
+  "Ranking_EOS_Completed": 166,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -141,10 +141,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 82725,
-  "EOS_Completed": 917,
+  "EOS_Progressed": 82727,
+  "EOS_Completed": 918,
   "EOS_NewPlayers": 757,
-  "EOS_NewCompleters": 15,
+  "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.11,
   "EosHistory": [
     {
@@ -29126,6 +29126,11 @@
       "Time": "2024-01-05T09:05:26.6602301+00:00",
       "NumProgressed": 82725,
       "NumCompleted": 917
+    },
+    {
+      "Time": "2024-01-05T10:05:04.8056534+00:00",
+      "NumProgressed": 82727,
+      "NumCompleted": 918
     }
   ],
   "TotalAchievements": 25,
@@ -29161,7 +29166,7 @@
       "Name": "Audiophile",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1654
+      "UsersEstimate": 1655
     },
     {
       "ID": "Be Seeing You",
@@ -29177,7 +29182,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 14890
+      "UsersEstimate": 14891
     },
     {
       "ID": "Butcher",
@@ -29241,7 +29246,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 17372
+      "UsersEstimate": 17373
     },
     {
       "ID": "Meaty",
@@ -29321,7 +29326,7 @@
       "Name": "Tape Head",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1654
+      "UsersEstimate": 1655
     },
     {
       "ID": "Vinyl Vibes",
@@ -29336,16 +29341,16 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 82725,
-      "Completed": 917
+      "Progressed": 82727,
+      "Completed": 918
     }
   ],
   "FirstSeen": "2022-07-22T20:27:11.1683553+00:00",
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-04T04:02:50.3920545+00:00",
-  "LastChanged_Achievements": "2024-01-05T09:05:26.6602297+00:00",
+  "LastChanged_Achievements": "2024-01-05T10:05:04.8056529+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:29.0198367+00:00",
-  "LastUpdate_Ratings": "2024-01-05T09:03:09.4234943+00:00",
-  "LastUpdate_Achievements": "2024-01-05T09:05:26.660382+00:00"
+  "LastUpdate_Ratings": "2024-01-05T10:02:59.833107+00:00",
+  "LastUpdate_Achievements": "2024-01-05T10:05:04.8058021+00:00"
 }

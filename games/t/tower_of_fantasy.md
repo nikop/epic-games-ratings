@@ -1,10 +1,10 @@
 # Tower of Fantasy
 [Store](https://store.epicgames.com/en-US/p/tower-of-fantasy)  
 [View Rawdata](../../db/t/tower_of_fantasy.json)  
-Rating: 4.34 (Ranked 836)  
+Rating: 4.33 (Ranked 847)  
 ## Awards
 Max (Character Customization): 385  (Ranked 241)  
-Sum: 852 (Ranked 287)  
+Sum: 853 (Ranked 287)  
 Diff (max vs sum): -46  
 | Award | Count |
 | ----- | ----- |
@@ -16,7 +16,7 @@ Diff (max vs sum): -46
 | This game has Beautiful Visuals | 57 |
 | This game is Extremely Fun | 54 |
 | This game has Amazing Storytelling | 54 |
-| This game has Quickly Understood Controls | 47 |
+| This game has Quickly Understood Controls | 48 |
 | This game is Relaxing | 42 |
 | This game has a Kind Community | 24 |
 ## Ratings History
@@ -234,3 +234,4 @@ Diff (max vs sum): -46
 | 2024-01-02 | 4.34 | 383 | 845 |
 | 2024-01-03 | 4.34 | 383 | 849 |
 | 2024-01-04 | 4.34 | 385 | 852 |
+| 2024-01-05 | 4.33 | 385 | 853 |

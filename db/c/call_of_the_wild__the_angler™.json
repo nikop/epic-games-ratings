@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -1021,9 +1021,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 7970,
+  "EOS_Progressed": 7972,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 271,
+  "EOS_NewPlayers": 273,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13231,6 +13231,11 @@
       "Time": "2024-01-05T09:08:35.4694228+00:00",
       "NumProgressed": 7970,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T10:08:32.7129829+00:00",
+      "NumProgressed": 7972,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -13312,9 +13317,9 @@
       "ID": "ACHIEVEMENT_010",
       "SetID": "1a05lfd",
       "Name": "License to Gill",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 319
+      "UsersEstimate": 239
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -13346,7 +13351,7 @@
       "Name": "Goldfish?",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -13354,7 +13359,7 @@
       "Name": "Going for Gold",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -13561,13 +13566,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7970,
+      "Progressed": 7972,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7342,
+      "Progressed": 7344,
       "Completed": 113
     }
   ],
@@ -13575,8 +13580,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-03T21:01:30.920658+00:00",
-  "LastChanged_Achievements": "2024-01-05T09:08:35.4694224+00:00",
+  "LastChanged_Achievements": "2024-01-05T10:08:32.7129826+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:09.4029638+00:00",
-  "LastUpdate_Ratings": "2024-01-05T09:02:54.6787659+00:00",
-  "LastUpdate_Achievements": "2024-01-05T09:08:35.4695113+00:00"
+  "LastUpdate_Ratings": "2024-01-05T10:02:45.8843467+00:00",
+  "LastUpdate_Achievements": "2024-01-05T10:08:32.7130547+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18246,
+  "EOS_Progressed": 18249,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 538,
+  "EOS_NewPlayers": 539,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -16335,6 +16335,11 @@
       "Time": "2024-01-05T09:05:37.5752173+00:00",
       "NumProgressed": 18246,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-05T10:05:14.5659981+00:00",
+      "NumProgressed": 18249,
+      "NumCompleted": 58
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16523,7 +16528,7 @@
       "Name": "Captain Drummer",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2554
+      "UsersEstimate": 2555
     },
     {
       "ID": "30",
@@ -16626,13 +16631,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18246,
+      "Progressed": 18249,
       "Completed": 58
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4200,
+      "Progressed": 4203,
       "Completed": 1192
     }
   ],
@@ -16640,8 +16645,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T23:58:17.8612142+00:00",
-  "LastChanged_Achievements": "2024-01-05T09:05:37.5752168+00:00",
+  "LastChanged_Achievements": "2024-01-05T10:05:14.5659978+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
   "LastUpdate_Ratings": "2024-01-05T09:01:00.8390677+00:00",
-  "LastUpdate_Achievements": "2024-01-05T09:05:37.5753141+00:00"
+  "LastUpdate_Achievements": "2024-01-05T10:05:14.566075+00:00"
 }

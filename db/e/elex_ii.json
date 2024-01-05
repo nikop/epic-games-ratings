@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 432,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
     "PcReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -571,9 +571,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 179,
+  "EOS_Progressed": 180,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1266,6 +1266,11 @@
       "Time": "2024-01-05T06:03:45.0447751+00:00",
       "NumProgressed": 179,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T10:04:07.350108+00:00",
+      "NumProgressed": 180,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:41.4600068+00:00",
@@ -1332,9 +1337,9 @@
       "ID": "20TELEPORTS",
       "SetID": "a1angca",
       "Name": "Beam Me Up",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "20TRADER",
@@ -1454,7 +1459,7 @@
       "Name": "Role Model",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "BRINGTOYS",
@@ -1516,9 +1521,9 @@
       "ID": "CONSTRUCTION",
       "SetID": "a1angca",
       "Name": "Creator",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 43
     },
     {
       "ID": "DESTRUCTION",
@@ -1540,9 +1545,9 @@
       "ID": "FINDALLIES",
       "SetID": "a1angca",
       "Name": "Commander",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 34
     },
     {
       "ID": "FINDBILLY",
@@ -1558,7 +1563,7 @@
       "Name": "Civilian",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "FINDCRONY",
@@ -1566,7 +1571,7 @@
       "Name": "Best Buddy",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "FINDMAP",
@@ -1582,7 +1587,7 @@
       "Name": "Family Reunion",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "FUTUREIRISSA",
@@ -1677,15 +1682,15 @@
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 179,
+      "Progressed": 180,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2024-01-05T09:04:23.0462501+00:00",
+  "LastChanged_Achievements": "2024-01-05T10:04:07.3501077+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:16.9599546+00:00",
-  "LastUpdate_Ratings": "2024-01-05T08:57:43.995687+00:00",
-  "LastUpdate_Achievements": "2024-01-05T09:04:23.0462828+00:00"
+  "LastUpdate_Ratings": "2024-01-05T09:57:32.9668816+00:00",
+  "LastUpdate_Achievements": "2024-01-05T10:04:07.3501422+00:00"
 }

@@ -5,57 +5,57 @@ Rating: 4.76 (Ranked 129)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Motivational Speaker | 69.00% | ~255,230 |
-| The Player Whisperer | 68.00% | ~251,531 |
-| One of Us, One of Us! | 62.00% | ~229,337 |
-| First Victory | 55.00% | ~203,444 |
-| Clean Sheet | 54.00% | ~199,745 |
-| #DoneDeal | 54.00% | ~199,745 |
-| Off the Books | 52.00% | ~192,347 |
-| Super-Sub | 52.00% | ~192,347 |
-| Hat-trick | 47.00% | ~173,852 |
-| Planned Signing | 44.00% | ~162,755 |
-| "I Would Love It If We Beat Them" | 43.00% | ~159,056 |
-| Thumping | 40.00% | ~147,959 |
-| Scoring Streak | 40.00% | ~147,959 |
-| Wheeler Dealer | 40.00% | ~147,959 |
-| People Pleaser | 39.00% | ~144,260 |
-| Unbeatable! | 38.00% | ~140,561 |
-| One Of Our Own | 37.00% | ~136,862 |
-| They're a Natural | 32.00% | ~118,367 |
-| Record Signing | 32.00% | ~118,367 |
-| Team Performance | 31.00% | ~114,668 |
-| Star Player | 30.00% | ~110,969 |
-| The Only Stat That Matters | 30.00% | ~110,969 |
-| Parked The Bus | 28.00% | ~103,571 |
-| Full Faith | 28.00% | ~103,571 |
-| Goal Rush | 28.00% | ~103,571 |
-| The People's Champion | 28.00% | ~103,571 |
-| Squad Goals | 27.00% | ~99,872 |
-| Beating Expectations | 26.00% | ~96,173 |
-| Unstoppable Force | 26.00% | ~96,173 |
-| Record Sale | 26.00% | ~96,173 |
-| You're on Fire | 25.00% | ~92,474 |
-| Tremendous Trio | 25.00% | ~92,474 |
-| On a Roll | 24.00% | ~88,776 |
-| Flavour Of The Month | 24.00% | ~88,776 |
-| Shots For Days | 24.00% | ~88,776 |
-| Drilling Down | 23.00% | ~85,077 |
-| The Special One | 23.00% | ~85,077 |
-| What A Goal! | 22.00% | ~81,378 |
-| Goal Machine | 21.00% | ~77,679 |
-| Splashing the Cash | 20.00% | ~73,980 |
-| Immovable Object | 20.00% | ~73,980 |
-| Cup Glory! | 20.00% | ~73,980 |
-| Irresistible Force | 18.00% | ~66,582 |
-| Do The Double | 17.00% | ~62,883 |
-| Cash to Burn | 16.00% | ~59,184 |
-| Top Form | 14.00% | ~51,786 |
-| Window Shopping | 14.00% | ~51,786 |
-| A Game of Two Halves | 13.00% | ~48,087 |
-| You're Up! | 12.00% | ~44,388 |
-| Money, Money, Money | 11.00% | ~40,689 |
-| Best in the World | 9.00% | ~33,291 |
+| Motivational Speaker | 69.00% | ~255,235 |
+| The Player Whisperer | 68.00% | ~251,536 |
+| One of Us, One of Us! | 62.00% | ~229,342 |
+| First Victory | 55.00% | ~203,448 |
+| Clean Sheet | 54.00% | ~199,749 |
+| #DoneDeal | 54.00% | ~199,749 |
+| Off the Books | 52.00% | ~192,351 |
+| Super-Sub | 52.00% | ~192,351 |
+| Hat-trick | 47.00% | ~173,856 |
+| Planned Signing | 44.00% | ~162,759 |
+| "I Would Love It If We Beat Them" | 43.00% | ~159,060 |
+| Thumping | 40.00% | ~147,962 |
+| Scoring Streak | 40.00% | ~147,962 |
+| Wheeler Dealer | 40.00% | ~147,962 |
+| People Pleaser | 39.00% | ~144,263 |
+| Unbeatable! | 38.00% | ~140,564 |
+| One Of Our Own | 37.00% | ~136,865 |
+| They're a Natural | 32.00% | ~118,370 |
+| Record Signing | 32.00% | ~118,370 |
+| Team Performance | 31.00% | ~114,671 |
+| Star Player | 30.00% | ~110,972 |
+| The Only Stat That Matters | 30.00% | ~110,972 |
+| Parked The Bus | 28.00% | ~103,574 |
+| Full Faith | 28.00% | ~103,574 |
+| Goal Rush | 28.00% | ~103,574 |
+| The People's Champion | 28.00% | ~103,574 |
+| Squad Goals | 27.00% | ~99,875 |
+| Beating Expectations | 26.00% | ~96,176 |
+| Unstoppable Force | 26.00% | ~96,176 |
+| Record Sale | 26.00% | ~96,176 |
+| You're on Fire | 25.00% | ~92,476 |
+| Tremendous Trio | 25.00% | ~92,476 |
+| On a Roll | 24.00% | ~88,777 |
+| Flavour Of The Month | 24.00% | ~88,777 |
+| Shots For Days | 24.00% | ~88,777 |
+| Drilling Down | 23.00% | ~85,078 |
+| The Special One | 23.00% | ~85,078 |
+| What A Goal! | 22.00% | ~81,379 |
+| Goal Machine | 21.00% | ~77,680 |
+| Splashing the Cash | 20.00% | ~73,981 |
+| Immovable Object | 20.00% | ~73,981 |
+| Cup Glory! | 20.00% | ~73,981 |
+| Irresistible Force | 18.00% | ~66,583 |
+| Do The Double | 17.00% | ~62,884 |
+| Cash to Burn | 16.00% | ~59,185 |
+| Top Form | 14.00% | ~51,787 |
+| Window Shopping | 14.00% | ~51,787 |
+| A Game of Two Halves | 13.00% | ~48,088 |
+| You're Up! | 12.00% | ~44,389 |
+| Money, Money, Money | 11.00% | ~40,690 |
+| Best in the World | 9.00% | ~33,292 |
 | Clean Sheet Network | 8.00% | ~29,592 |
 | First Goal Network | 8.00% | ~29,592 |
 | First Win Network | 8.00% | ~29,592 |
@@ -88,9 +88,9 @@ Rating: 4.76 (Ranked 129)
 | Online Streak | 0.70% | ~2,589 |
 | First Win Versus | 0.60% | ~2,219 |
 | We Go Again | 0.60% | ~2,219 |
-| Clean Sheet Versus | 0.50% | ~1,849 |
-| Versus Champ | 0.50% | ~1,849 |
-| Online Rivalry | 0.50% | ~1,849 |
+| Clean Sheet Versus | 0.50% | ~1,850 |
+| Versus Champ | 0.50% | ~1,850 |
+| Online Rivalry | 0.50% | ~1,850 |
 | The Rich Get Richer | 0.40% | ~1,480 |
 | Outstanding Defence | 0.30% | ~1,110 |
 | Import To Victory | 0.20% | ~740 |
@@ -106,7 +106,7 @@ Rating: 4.76 (Ranked 129)
 | 200 Club | 0.10% | ~370 |
 | Draft Value | 0.10% | ~370 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 369,898 (Ranked 53)  
+Progressed: 369,906 (Ranked 53)  
 Completed: 29 (0.01%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -366,10 +366,10 @@ Completed: 29 (0.01%) (Ranked 369)
 | 2024-01-02 | 369,460 | 29 |
 | 2024-01-03 | 369,648 | 29 |
 | 2024-01-04 | 369,840 | 29 |
-| 2024-01-05 | 369,898 | 29 |
+| 2024-01-05 | 369,906 | 29 |
 ## Awards
 Max (Diverse Characters): 1,344  (Ranked 141)  
-Sum: 9,225 (Ranked 101)  
+Sum: 9,227 (Ranked 101)  
 Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
@@ -377,7 +377,7 @@ Diff (max vs sum): 40
 | This game is Extremely Fun | 1,118 |
 | This game is Highly Recommended | 1,117 |
 | This game is Educational | 1,061 |
-| This game is Relaxing | 1,039 |
+| This game is Relaxing | 1,041 |
 | This game has Competitive Players | 945 |
 | This game has Quickly Understood Controls | 923 |
 | This game has Amazing Storytelling | 879 |
@@ -699,4 +699,4 @@ Diff (max vs sum): 40
 | 2024-01-02 | 4.76 | 1,337 | 9,186 |
 | 2024-01-03 | 4.76 | 1,340 | 9,201 |
 | 2024-01-04 | 4.76 | 1,344 | 9,216 |
-| 2024-01-05 | 4.76 | 1,344 | 9,225 |
+| 2024-01-05 | 4.76 | 1,344 | 9,227 |

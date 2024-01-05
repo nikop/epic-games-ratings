@@ -4,8 +4,8 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 403,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 278,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -1382,9 +1382,9 @@
       "ID": "face_your_fears",
       "SetID": "f2im8d",
       "Name": "Face your fears",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 77
+      "UsersEstimate": 79
     },
     {
       "ID": "find_most_of_family_mementos",
@@ -1677,8 +1677,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-05T09:09:09.1245618+00:00",
+  "LastChanged_Achievements": "2024-01-05T10:09:02.7801359+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.7570027+00:00",
-  "LastUpdate_Ratings": "2024-01-05T08:59:52.5990047+00:00",
-  "LastUpdate_Achievements": "2024-01-05T09:09:09.1246083+00:00"
+  "LastUpdate_Ratings": "2024-01-05T09:59:22.2824104+00:00",
+  "LastUpdate_Achievements": "2024-01-05T10:09:02.7801718+00:00"
 }

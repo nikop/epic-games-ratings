@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alone with Them | 69.00% | ~265 |
-| Forced to Kill | 66.00% | ~253 |
+| Alone with Them | 69.00% | ~266 |
+| Forced to Kill | 66.00% | ~254 |
 | A Night To Remember | 39.00% | ~150 |
 | Safe...For now? | 32.00% | ~123 |
 | Open Sesame | 27.00% | ~104 |
@@ -23,8 +23,8 @@
 | Lover of classics | 9.00% | ~35 |
 | Rest In Peace | 9.00% | ~35 |
 | What A Mansion | 8.00% | ~31 |
-| I Am The Gate Keeper! | 7.00% | ~27 |
 | Researcher | 6.00% | ~23 |
+| I Am The Gate Keeper! | 6.00% | ~23 |
 | Armed To The Teeth | 4.00% | ~15 |
 | This Mansion Is Clean | 4.00% | ~15 |
 | The bus stop | 3.00% | ~12 |
@@ -45,7 +45,7 @@
 | Nightmare Over | 0.30% | ~1 |
 | Survival Horror | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 384 (Ranked 369)  
+Progressed: 385 (Ranked 369)  
 Completed: 1 (0.26%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,6 +167,7 @@ Completed: 1 (0.26%) (Ranked 260)
 | 2024-01-02 | 377 | 1 |
 | 2024-01-03 | 381 | 1 |
 | 2024-01-04 | 384 | 1 |
+| 2024-01-05 | 385 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,8 +6,8 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Abandoned Settlement | 8.00% | ~1,613 |
-| Overgrown Library | 8.00% | ~1,613 |
+| Abandoned Settlement | 8.00% | ~1,614 |
+| Overgrown Library | 8.00% | ~1,614 |
 | First Real Expedition | 7.00% | ~1,412 |
 | Taking Action | 7.00% | ~1,412 |
 | No Deaths | 7.00% | ~1,412 |
@@ -56,7 +56,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Blood Flower Farmer | 0.50% | ~101 |
 | Fox Utopia | 0.50% | ~101 |
 | Prestigious Expedition | 0.40% | ~81 |
-| Human Utopia | 0.30% | ~60 |
+| Human Utopia | 0.30% | ~61 |
 | Beaver Utopia | 0.20% | ~40 |
 | Lizard Utopia | 0.20% | ~40 |
 | Paradise | 0.10% | ~20 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,166 (Ranked 153)  
+Progressed: 20,169 (Ranked 153)  
 Completed: 33 (0.16%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,7 +326,7 @@ Completed: 33 (0.16%) (Ranked 281)
 | 2024-01-02 | 19,991 | 33 |
 | 2024-01-03 | 20,065 | 33 |
 | 2024-01-04 | 20,143 | 33 |
-| 2024-01-05 | 20,166 | 33 |
+| 2024-01-05 | 20,169 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 448  (Ranked 229)  
 Sum: 3,331 (Ranked 176)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -819,9 +819,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3772,
+  "EOS_Progressed": 3775,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5534,6 +5534,11 @@
       "Time": "2024-01-05T07:06:43.8154838+00:00",
       "NumProgressed": 3772,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T10:08:15.3992633+00:00",
+      "NumProgressed": 3775,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -5561,7 +5566,7 @@
       "Name": "Look Over There!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "BloodAndIron",
@@ -5697,7 +5702,7 @@
       "Name": "Daemonkeeper",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "KadexDefeated_Nexus",
@@ -5713,7 +5718,7 @@
       "Name": "Not So Fast...",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "Kills_Bleed",
@@ -5729,7 +5734,7 @@
       "Name": "Corruption Cleanser",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "Kills_Executioner",
@@ -5737,7 +5742,7 @@
       "Name": "Executioner",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "Kills_Exterminator",
@@ -5777,7 +5782,7 @@
       "Name": "Purging Spree",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "Kills_Vakir",
@@ -5793,7 +5798,7 @@
       "Name": "An Ill Omen",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -5801,7 +5806,7 @@
       "Name": "Mind Like a Fortress",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "MasterCraftLevel3_Armour",
@@ -5873,7 +5878,7 @@
       "Name": "Efficient Killer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "MissionVictory_NoDamage",
@@ -5929,7 +5934,7 @@
       "Name": "Only in Death",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "Preservationist",
@@ -5969,7 +5974,7 @@
       "Name": "A Gift Spurned",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ReaperDefeated_Tentarus",
@@ -6017,7 +6022,7 @@
       "Name": "Execution Force",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ExperiencedCallidus",
@@ -6088,21 +6093,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3772,
+      "Progressed": 3775,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3772,
+      "Progressed": 3775,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-04T18:03:14.3502303+00:00",
-  "LastChanged_Achievements": "2024-01-05T09:06:45.2255088+00:00",
+  "LastChanged_Achievements": "2024-01-05T10:08:15.3992629+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:30.5390055+00:00",
-  "LastUpdate_Ratings": "2024-01-05T09:03:27.7713362+00:00",
-  "LastUpdate_Achievements": "2024-01-05T09:06:45.2255881+00:00"
+  "LastUpdate_Ratings": "2024-01-05T10:03:16.078755+00:00",
+  "LastUpdate_Achievements": "2024-01-05T10:08:15.3993396+00:00"
 }

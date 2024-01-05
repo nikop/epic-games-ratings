@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10542,9 +10542,9 @@
       "Count": 1080
     }
   ],
-  "EOS_Progressed": 131734,
+  "EOS_Progressed": 131736,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1246,
+  "EOS_NewPlayers": 1243,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38427,6 +38427,11 @@
       "Time": "2024-01-05T09:10:10.3478391+00:00",
       "NumProgressed": 131734,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-05T10:09:57.7788858+00:00",
+      "NumProgressed": 131736,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38790,7 +38795,7 @@
       "Name": "Autodidact",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9221
+      "UsersEstimate": 9222
     },
     {
       "ID": "hero_story_complete_all",
@@ -38974,7 +38979,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "combat_kill_collector",
@@ -39069,21 +39074,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131734,
+      "Progressed": 131736,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6603,
+      "Progressed": 6605,
       "Completed": 821
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-05T08:01:42.4898639+00:00",
-  "LastChanged_Achievements": "2024-01-05T09:10:10.3478386+00:00",
+  "LastChanged_Achievements": "2024-01-05T10:09:57.7788855+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-05T09:00:28.6363426+00:00",
-  "LastUpdate_Achievements": "2024-01-05T09:10:10.3480518+00:00"
+  "LastUpdate_Ratings": "2024-01-05T09:59:56.5698586+00:00",
+  "LastUpdate_Achievements": "2024-01-05T10:09:57.7790403+00:00"
 }

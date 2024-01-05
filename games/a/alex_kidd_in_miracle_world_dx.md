@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | Wild Ox | 41.00% | ~170 |
 | Magic Ball | 30.00% | ~124 |
-| Assailants | 24.00% | ~99 |
+| Assailants | 24.00% | ~100 |
 | Prisoner | 21.00% | ~87 |
-| First Commander | 17.00% | ~70 |
+| First Commander | 17.00% | ~71 |
 | Second Commander | 16.00% | ~66 |
 | Adventurer | 16.00% | ~66 |
 | Third Commander | 14.00% | ~58 |
@@ -21,8 +21,8 @@
 | Champion | 1.00% | ~4 |
 | Stingy | 1.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 414 (Ranked 361)  
-Completed: 4 (0.97%) (Ranked 173)  
+Progressed: 415 (Ranked 361)  
+Completed: 4 (0.96%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -122,7 +122,7 @@ Completed: 4 (0.97%) (Ranked 173)
 | 2024-01-02 | 405 | 4 |
 | 2024-01-03 | 407 | 4 |
 | 2024-01-04 | 411 | 4 |
-| 2024-01-05 | 414 | 4 |
+| 2024-01-05 | 415 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

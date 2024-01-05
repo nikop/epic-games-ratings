@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -450,9 +450,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 982,
+  "EOS_Progressed": 984,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3510,6 +3510,11 @@
       "Time": "2024-01-05T07:09:17.1540562+00:00",
       "NumProgressed": 982,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T10:09:26.7987055+00:00",
+      "NumProgressed": 984,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3546,7 +3551,7 @@
       "Name": "Dressed For Success",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "AttackCount",
@@ -3624,9 +3629,9 @@
       "ID": "DamageThreshold",
       "SetID": "71c0n9i",
       "Name": "Critical Hit",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 216
     },
     {
       "ID": "Deepstrike",
@@ -3666,7 +3671,7 @@
       "Name": "Double Kill",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "FlameAttackKillCount",
@@ -3730,7 +3735,7 @@
       "Name": "Multi Kill",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "MultiplayerWins",
@@ -3850,7 +3855,7 @@
       "Name": "Adept",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "WielderLevel2",
@@ -3882,7 +3887,7 @@
       "Name": "Humiliation",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "WinBattleWithOneUnitLeft",
@@ -3898,7 +3903,7 @@
       "Name": "Expert Essence Employment",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "WinSiegeAsAttacker",
@@ -3914,7 +3919,7 @@
       "Name": "Venisti, Vidisti, Perdidisti",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "WinsWithFactionArleon",
@@ -3953,15 +3958,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 982,
+      "Progressed": 984,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2024-01-05T09:09:35.9407411+00:00",
+  "LastChanged_Achievements": "2024-01-05T10:09:26.7987051+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:53.9356991+00:00",
-  "LastUpdate_Ratings": "2024-01-05T08:58:58.2854164+00:00",
-  "LastUpdate_Achievements": "2024-01-05T09:09:35.9408182+00:00"
+  "LastUpdate_Ratings": "2024-01-05T09:58:35.4394772+00:00",
+  "LastUpdate_Achievements": "2024-01-05T10:09:26.79875+00:00"
 }

@@ -29,7 +29,7 @@ Number of Ratings: 98  (23.09.2022)
 | Unbreakable Wall | 2.00% | ~39 |
 | Experienced Strategist | 1.00% | ~19 |
 | How?! | 0.90% | ~17 |
-| Tough as Nails | 0.40% | ~8 |
+| Tough as Nails | 0.50% | ~10 |
 | Commandos | 0.30% | ~6 |
 | We Weren't There | 0.20% | ~4 |
 | Inspector General | 0.10% | ~2 |

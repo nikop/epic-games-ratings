@@ -4,8 +4,8 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 369,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
     "PcReleaseDate": "2021-09-28T16:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 384,
+  "EOS_Progressed": 385,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -1691,6 +1691,11 @@
       "Time": "2024-01-04T10:08:51.6540933+00:00",
       "NumProgressed": 384,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-05T10:08:57.018879+00:00",
+      "NumProgressed": 385,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1718,7 +1723,7 @@
       "Name": "Alone with Them",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -1798,7 +1803,7 @@
       "Name": "Forced to Kill",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -1916,9 +1921,9 @@
       "ID": "ETUA_StayDead",
       "SetID": "65jc0ap",
       "Name": "I Am The Gate Keeper!",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 23
     },
     {
       "ID": "ETUA_SurvivalHero",
@@ -2021,7 +2026,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 384,
+      "Progressed": 385,
       "Completed": 1
     }
   ],
@@ -2029,8 +2034,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2024-01-05T09:09:02.7314475+00:00",
+  "LastChanged_Achievements": "2024-01-05T10:08:57.0188786+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:30.0285391+00:00",
-  "LastUpdate_Ratings": "2024-01-05T08:59:41.9760095+00:00",
-  "LastUpdate_Achievements": "2024-01-05T09:09:02.7314838+00:00"
+  "LastUpdate_Ratings": "2024-01-05T09:59:12.9647029+00:00",
+  "LastUpdate_Achievements": "2024-01-05T10:08:57.0189127+00:00"
 }

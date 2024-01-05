@@ -6,44 +6,44 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 6.00% | ~68,500 |
-| Zealous | 5.00% | ~57,083 |
-| Skillful | 5.00% | ~57,083 |
-| Not half bad | 4.00% | ~45,667 |
-| Apt Survivor | 4.00% | ~45,667 |
-| Survival Treasures | 4.00% | ~45,667 |
-| Make Some Noise | 4.00% | ~45,667 |
-| The Grand Sacrifice | 3.00% | ~34,250 |
-| No one left behind | 3.00% | ~34,250 |
-| Medic | 3.00% | ~34,250 |
-| Handyman | 3.00% | ~34,250 |
-| Bloody Millionaire | 3.00% | ~34,250 |
-| I | 3.00% | ~34,250 |
-| Sorted | 3.00% | ~34,250 |
-| Healthy Obsession | 3.00% | ~34,250 |
-| Resurgence | 3.00% | ~34,250 |
-| Preemptive Strike | 3.00% | ~34,250 |
-| Humanitarian | 3.00% | ~34,250 |
-| Escape Artist | 2.00% | ~22,833 |
-| Agonizing Escape | 2.00% | ~22,833 |
-| Backdoor Escape | 2.00% | ~22,833 |
-| I've got your back | 2.00% | ~22,833 |
-| Perfect Escape | 2.00% | ~22,833 |
-| Perfect Killing | 2.00% | ~22,833 |
-| Apt Killer | 2.00% | ~22,833 |
-| Risk it all | 2.00% | ~22,833 |
-| Vulture | 2.00% | ~22,833 |
-| II | 2.00% | ~22,833 |
-| III | 2.00% | ~22,833 |
-| Engineer | 2.00% | ~22,833 |
-| Wounded Healer | 2.00% | ~22,833 |
-| First to the Punch | 2.00% | ~22,833 |
-| Operation: Survival | 2.00% | ~22,833 |
-| Every Last Drop | 2.00% | ~22,833 |
-| Close Shave | 2.00% | ~22,833 |
-| With Scars to Show | 2.00% | ~22,833 |
-| Lifting The Fog | 2.00% | ~22,833 |
-| Second Act | 2.00% | ~22,833 |
+| It wakes | 6.00% | ~68,504 |
+| Zealous | 5.00% | ~57,086 |
+| Skillful | 5.00% | ~57,086 |
+| Not half bad | 4.00% | ~45,669 |
+| Apt Survivor | 4.00% | ~45,669 |
+| Survival Treasures | 4.00% | ~45,669 |
+| Make Some Noise | 4.00% | ~45,669 |
+| The Grand Sacrifice | 3.00% | ~34,252 |
+| No one left behind | 3.00% | ~34,252 |
+| Medic | 3.00% | ~34,252 |
+| Handyman | 3.00% | ~34,252 |
+| Bloody Millionaire | 3.00% | ~34,252 |
+| I | 3.00% | ~34,252 |
+| Sorted | 3.00% | ~34,252 |
+| Healthy Obsession | 3.00% | ~34,252 |
+| Resurgence | 3.00% | ~34,252 |
+| Preemptive Strike | 3.00% | ~34,252 |
+| Humanitarian | 3.00% | ~34,252 |
+| Escape Artist | 2.00% | ~22,835 |
+| Agonizing Escape | 2.00% | ~22,835 |
+| Backdoor Escape | 2.00% | ~22,835 |
+| I've got your back | 2.00% | ~22,835 |
+| Perfect Escape | 2.00% | ~22,835 |
+| Perfect Killing | 2.00% | ~22,835 |
+| Apt Killer | 2.00% | ~22,835 |
+| Risk it all | 2.00% | ~22,835 |
+| Vulture | 2.00% | ~22,835 |
+| II | 2.00% | ~22,835 |
+| III | 2.00% | ~22,835 |
+| Engineer | 2.00% | ~22,835 |
+| Wounded Healer | 2.00% | ~22,835 |
+| First to the Punch | 2.00% | ~22,835 |
+| Operation: Survival | 2.00% | ~22,835 |
+| Every Last Drop | 2.00% | ~22,835 |
+| Close Shave | 2.00% | ~22,835 |
+| With Scars to Show | 2.00% | ~22,835 |
+| Lifting The Fog | 2.00% | ~22,835 |
+| Second Act | 2.00% | ~22,835 |
 | Blood on your hands | 1.00% | ~11,417 |
 | Blood on your face | 1.00% | ~11,417 |
 | Made it out alive! | 1.00% | ~11,417 |
@@ -74,21 +74,21 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 1.00% | ~11,417 |
 | MU/TH/UR Dearest | 1.00% | ~11,417 |
 | Outta Nowhere | 1.00% | ~11,417 |
-| A bite for the Entity | 0.90% | ~10,275 |
-| Leapfrog | 0.90% | ~10,275 |
-| Escaping the Nightmare | 0.90% | ~10,275 |
-| Devoted Gatekeeping | 0.90% | ~10,275 |
-| Selfless Survival | 0.90% | ~10,275 |
-| End of Days | 0.90% | ~10,275 |
-| Outrun the Overlap | 0.90% | ~10,275 |
-| Rebuilding The Borgo | 0.90% | ~10,275 |
-| Hemophobia | 0.80% | ~9,133 |
-| Serial Killer | 0.80% | ~9,133 |
-| Shrine Apparatus | 0.80% | ~9,133 |
-| Broken Bodies | 0.80% | ~9,133 |
-| Insult and Injury | 0.80% | ~9,133 |
+| A bite for the Entity | 0.90% | ~10,276 |
+| Leapfrog | 0.90% | ~10,276 |
+| Escaping the Nightmare | 0.90% | ~10,276 |
+| Devoted Gatekeeping | 0.90% | ~10,276 |
+| Selfless Survival | 0.90% | ~10,276 |
+| End of Days | 0.90% | ~10,276 |
+| Outrun the Overlap | 0.90% | ~10,276 |
+| Rebuilding The Borgo | 0.90% | ~10,276 |
+| Hemophobia | 0.80% | ~9,134 |
+| Serial Killer | 0.80% | ~9,134 |
+| Game Over | 0.80% | ~9,134 |
+| Shrine Apparatus | 0.80% | ~9,134 |
+| Broken Bodies | 0.80% | ~9,134 |
+| Insult and Injury | 0.80% | ~9,134 |
 | Jump Scares | 0.70% | ~7,992 |
-| Game Over | 0.70% | ~7,992 |
 | Party Crasher | 0.70% | ~7,992 |
 | High Speed Pursuit | 0.70% | ~7,992 |
 | Complete the Evolution | 0.70% | ~7,992 |
@@ -99,11 +99,11 @@ Number of Ratings: 70,340  (23.09.2022)
 | Heavy Burden | 0.60% | ~6,850 |
 | I See You | 0.60% | ~6,850 |
 | Triage | 0.60% | ~6,850 |
-| Whiffing to Success | 0.50% | ~5,708 |
-| Power Moves | 0.50% | ~5,708 |
-| Punch Drunk | 0.50% | ~5,708 |
-| Prowler | 0.50% | ~5,708 |
-| Kitted Out | 0.50% | ~5,708 |
+| Whiffing to Success | 0.50% | ~5,709 |
+| Power Moves | 0.50% | ~5,709 |
+| Punch Drunk | 0.50% | ~5,709 |
+| Prowler | 0.50% | ~5,709 |
+| Kitted Out | 0.50% | ~5,709 |
 | Looter | 0.40% | ~4,567 |
 | Death of Ignorance | 0.40% | ~4,567 |
 | Ghost in the Machine | 0.40% | ~4,567 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,142 |
 | Adept Good Guy | 0.10% | ~1,142 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,141,665 (Ranked 13)  
+Progressed: 1,141,727 (Ranked 13)  
 Completed: 66 (0.01%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -499,7 +499,7 @@ Completed: 66 (0.01%) (Ranked 369)
 | 2024-01-02 | 1,136,652 | 66 |
 | 2024-01-03 | 1,138,836 | 66 |
 | 2024-01-04 | 1,140,999 | 66 |
-| 2024-01-05 | 1,141,665 | 66 |
+| 2024-01-05 | 1,141,727 | 66 |
 ## Awards
 Max (Diverse Characters): 39,149  (Ranked 15)  
 Sum: 295,739 (Ranked 12)  

@@ -4,8 +4,8 @@
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 239,
+  "EOS_Progressed": 240,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1079,6 +1079,11 @@
       "Time": "2024-01-05T07:09:09.0397215+00:00",
       "NumProgressed": 239,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T10:09:19.7400044+00:00",
+      "NumProgressed": 240,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -1091,7 +1096,7 @@
       "Name": "Abdication",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "SG_ACROSSTHESTYX",
@@ -1099,7 +1104,7 @@
       "Name": "Across The Styx",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "SG_AGAINSTALLODDS",
@@ -1107,7 +1112,7 @@
       "Name": "Against All Odds",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "SG_ALLTHEHELPYOUNEED",
@@ -1163,7 +1168,7 @@
       "Name": "End Of The Road",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -1209,9 +1214,9 @@
       "ID": "SG_LOSTINASONG",
       "SetID": "bj5g0n4",
       "Name": "Lost In A Song",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "SG_MAESTRO",
@@ -1225,9 +1230,9 @@
       "ID": "SG_MEANTTOBE",
       "SetID": "bj5g0n4",
       "Name": "Meant To Be",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 48
     },
     {
       "ID": "SG_MYTIMETOSHINE",
@@ -1241,9 +1246,9 @@
       "ID": "SG_NOTALOSTGIRL",
       "SetID": "bj5g0n4",
       "Name": "Not A Lost Girl",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 103
     },
     {
       "ID": "SG_NOTTAKINGANYCHANCES",
@@ -1259,7 +1264,7 @@
       "Name": "Queen Without A Throne",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "SG_SAYINGGOODBYE",
@@ -1315,7 +1320,7 @@
       "Name": "The Deep End",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "SG_THEHIGHROAD",
@@ -1386,14 +1391,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 239,
+      "Progressed": 240,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-05T09:09:27.8445067+00:00",
+  "LastChanged_Achievements": "2024-01-05T10:09:19.740004+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:19.3214389+00:00",
-  "LastUpdate_Ratings": "2024-01-05T08:57:41.2882868+00:00",
-  "LastUpdate_Achievements": "2024-01-05T09:09:27.844546+00:00"
+  "LastUpdate_Ratings": "2024-01-05T09:57:30.5937196+00:00",
+  "LastUpdate_Achievements": "2024-01-05T10:09:19.7400268+00:00"
 }
