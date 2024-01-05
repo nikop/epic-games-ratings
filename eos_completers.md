@@ -19,12 +19,12 @@
 | 16 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 25.00% |
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 19 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 20 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.65% |
+| 20 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.83% |
 | 21 | [Doodle Devil](games/d/doodle_devil.md) | 20.88% |
 | 22 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.80% |
 | 23 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
 | 24 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.52% |
-| 25 | [The Riflemen](games/t/the_riflemen.md) | 18.11% |
+| 25 | [The Riflemen](games/t/the_riflemen.md) | 18.10% |
 | 26 | [Island Cities](games/i/island_cities.md) | 16.84% |
 | 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 28 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
@@ -52,19 +52,19 @@
 | 50 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 50 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.69% |
 | 52 | [Ravenlok](games/r/ravenlok.md) | 7.67% |
-| 53 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.59% |
+| 53 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.58% |
 | 54 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
 | 55 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.46% |
 | 55 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.46% |
-| 57 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 7.35% |
+| 57 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 7.25% |
 | 58 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.15% |
 | 59 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.14% |
-| 60 | [Sonic Origins](games/s/sonic_origins.md) | 7.09% |
+| 60 | [Sonic Origins](games/s/sonic_origins.md) | 7.08% |
 | 61 | [Scorn](games/s/scorn.md) | 6.93% |
 | 62 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 6.67% |
 | 63 | [Anna's Quest](games/a/anna's_quest.md) | 6.45% |
 | 64 | [Time Loader](games/t/time_loader.md) | 6.43% |
-| 65 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.32% |
+| 65 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.35% |
 | 66 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 66 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 6.25% |
 | 68 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 6.20% |
@@ -130,8 +130,8 @@
 | 127 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.42% |
 | 129 | [Destiny 2](games/d/destiny_2.md) | 2.37% |
 | 130 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 2.33% |
-| 131 | [Night Book](games/n/night_book.md) | 2.32% |
-| 132 | [Bloodshore](games/b/bloodshore.md) | 2.25% |
+| 131 | [Night Book](games/n/night_book.md) | 2.31% |
+| 132 | [Bloodshore](games/b/bloodshore.md) | 2.24% |
 | 133 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 134 | [FORECLOSED](games/f/foreclosed.md) | 2.11% |
 | 135 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.00% |
@@ -253,8 +253,8 @@
 | 251 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.31% |
 | 251 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 253 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.30% |
-| 253 | [Remnant 2](games/r/remnant_2.md) | 0.30% |
 | 253 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.30% |
+| 255 | [Remnant 2](games/r/remnant_2.md) | 0.29% |
 | 256 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.28% |
 | 257 | [Filament](games/f/filament.md) | 0.27% |
 | 257 | [GRIME](games/g/grime.md) | 0.27% |
