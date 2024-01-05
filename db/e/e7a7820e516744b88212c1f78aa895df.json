@@ -4,7 +4,7 @@
   "ProductSlug": "overpass-2",
   "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewPlayers": 341,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -1495,9 +1495,9 @@
       "ID": "achMaxTransmission",
       "SetID": "7ji07dj",
       "Name": "Moving Up a Gear",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "achMaxTransmissionAll",
@@ -1686,8 +1686,8 @@
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2024-01-05T11:10:27.945459+00:00",
+  "LastChanged_Achievements": "2024-01-05T12:10:31.6417919+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:18.5913726+00:00",
-  "LastUpdate_Ratings": "2024-01-05T10:57:33.4441179+00:00",
-  "LastUpdate_Achievements": "2024-01-05T11:10:27.9454825+00:00"
+  "LastUpdate_Ratings": "2024-01-05T11:57:44.3657397+00:00",
+  "LastUpdate_Achievements": "2024-01-05T12:10:31.6418252+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_Rating": 322,
+  "Ranking_Rating": 285,
   "Ranking_Popularity": 579,
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 280,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.65,
+  "Rating": 4.67,
   "RatingHistory": [
     {
       "Time": "2023-07-28T17:00:54.1232384+00:00",
@@ -45,15 +45,21 @@
       "Rating": 4.65,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-05T11:57:15.4004086+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1232,
+  "EOS_Progressed": 1233,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -3621,6 +3627,11 @@
       "Time": "2024-01-05T07:10:19.5988129+00:00",
       "NumProgressed": 1232,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-05T12:11:04.1246128+00:00",
+      "NumProgressed": 1233,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3640,7 +3651,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -3752,7 +3763,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -3872,7 +3883,7 @@
       "Name": "Time Flies",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "ParryBoss",
@@ -3896,7 +3907,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -3920,7 +3931,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "RewindParry",
@@ -3992,7 +4003,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "TheaterChests1",
@@ -4055,16 +4066,16 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1232,
+      "Progressed": 1233,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged": "2023-12-23T11:00:26.0237024+00:00",
-  "LastChanged_Achievements": "2024-01-05T11:10:59.9738536+00:00",
+  "LastChanged": "2024-01-05T11:57:15.4004085+00:00",
+  "LastChanged_Achievements": "2024-01-05T12:11:04.1246125+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:23.9308133+00:00",
-  "LastUpdate_Ratings": "2024-01-05T10:57:06.9224593+00:00",
-  "LastUpdate_Achievements": "2024-01-05T11:10:59.9739133+00:00"
+  "LastUpdate_Ratings": "2024-01-05T11:57:15.4004095+00:00",
+  "LastUpdate_Achievements": "2024-01-05T12:11:04.1246613+00:00"
 }

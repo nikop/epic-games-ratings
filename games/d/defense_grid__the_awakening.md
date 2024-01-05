@@ -6,9 +6,9 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~399,655 |
-| Happy Returns | 78.00% | ~384,853 |
-| Hey! That's mine! | 78.00% | ~384,853 |
+| First Blood | 81.00% | ~399,656 |
+| Happy Returns | 78.00% | ~384,854 |
+| Hey! That's mine! | 78.00% | ~384,854 |
 | Field Promotion | 74.00% | ~365,117 |
 | Leadhead | 71.00% | ~350,315 |
 | Eradicator | 67.00% | ~330,579 |
@@ -18,20 +18,20 @@ Number of Ratings: 1,225  (23.09.2022)
 | Yellow Beats Green | 56.00% | ~276,305 |
 | Salvage Rights | 53.00% | ~261,503 |
 | What IS that? | 51.00% | ~251,635 |
-| Close Call | 50.00% | ~246,700 |
-| Pew Pew | 50.00% | ~246,700 |
-| Penny Pincher | 49.00% | ~241,766 |
-| Arsenal | 46.00% | ~226,964 |
-| Boot Camp | 45.00% | ~222,030 |
-| Flawless Victory | 42.00% | ~207,228 |
-| Confident | 41.00% | ~202,294 |
-| Exterminator | 36.00% | ~177,624 |
-| Sharpshooter | 34.00% | ~167,756 |
-| Not So Fast | 33.00% | ~162,822 |
-| Great Ball of Fire | 32.00% | ~157,888 |
-| No Sale | 31.00% | ~152,954 |
-| Kaboom! | 30.00% | ~148,020 |
-| Liquidator | 29.00% | ~143,086 |
+| Close Call | 50.00% | ~246,701 |
+| Pew Pew | 50.00% | ~246,701 |
+| Penny Pincher | 49.00% | ~241,767 |
+| Arsenal | 46.00% | ~226,965 |
+| Boot Camp | 45.00% | ~222,031 |
+| Flawless Victory | 42.00% | ~207,229 |
+| Confident | 41.00% | ~202,295 |
+| Exterminator | 36.00% | ~177,625 |
+| Sharpshooter | 34.00% | ~167,757 |
+| Not So Fast | 33.00% | ~162,823 |
+| Great Ball of Fire | 32.00% | ~157,889 |
+| No Sale | 31.00% | ~152,955 |
+| Kaboom! | 30.00% | ~148,021 |
+| Liquidator | 29.00% | ~143,087 |
 | High Voltage | 24.00% | ~118,416 |
 | Filthy Rich | 20.00% | ~98,680 |
 | Pyrrhic Victory | 18.00% | ~88,812 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~493 |
 | You Monster | 0.10% | ~493 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 493,401 (Ranked 41)  
+Progressed: 493,402 (Ranked 41)  
 Completed: 5 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -354,10 +354,10 @@ Completed: 5 (0.00%) (Ranked 393)
 | 2024-01-02 | 493,192 | 5 |
 | 2024-01-03 | 493,263 | 5 |
 | 2024-01-04 | 493,364 | 5 |
-| 2024-01-05 | 493,401 | 5 |
+| 2024-01-05 | 493,402 | 5 |
 ## Awards
 Max (Great for Beginners): 263  (Ranked 276)  
-Sum: 1,740 (Ranked 225)  
+Sum: 1,741 (Ranked 225)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
@@ -365,7 +365,7 @@ Diff (max vs sum): 51
 | This game has Quickly Understood Controls | 227 |
 | This game is Relaxing | 221 |
 | This game is Extremely Fun | 214 |
-| This game is Highly Recommended | 197 |
+| This game is Highly Recommended | 198 |
 | This game has Challenging Combat | 186 |
 | This game has Amazing Storytelling | 183 |
 | This game has Amazing Characters | 175 |
@@ -534,3 +534,4 @@ Diff (max vs sum): 51
 | 2023-12-29 | 4.45 | - | 263 | 1,738 |
 | 2024-01-03 | 4.45 | - | 263 | 1,739 |
 | 2024-01-04 | 4.45 | - | 263 | 1,740 |
+| 2024-01-05 | 4.45 | - | 263 | 1,741 |

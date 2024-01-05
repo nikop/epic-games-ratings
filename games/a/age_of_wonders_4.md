@@ -5,7 +5,7 @@ Rating: 4.62 (Ranked 378)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 14.00% | ~963 |
+| Secret Technique | 15.00% | ~1,032 |
 | Realm Estate | 13.00% | ~894 |
 | A Wonderful Discovery | 12.00% | ~825 |
 | Walls Cannot Stop Us | 12.00% | ~825 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 378)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,877 (Ranked 196)  
+Progressed: 6,877 (Ranked 197)  
 Completed: 7 (0.10%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |

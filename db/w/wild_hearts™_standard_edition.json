@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1141,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -4135,9 +4135,9 @@
       "ID": "achievement_6",
       "SetID": "2cpn27e",
       "Name": "Commencing of Quests",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 685
+      "UsersEstimate": 696
     },
     {
       "ID": "achievement_7",
@@ -4173,8 +4173,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-05T11:10:08.0771171+00:00",
+  "LastChanged_Achievements": "2024-01-05T12:10:11.6694334+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:22.7723621+00:00",
-  "LastUpdate_Ratings": "2024-01-05T10:58:05.6364742+00:00",
-  "LastUpdate_Achievements": "2024-01-05T11:10:08.0771833+00:00"
+  "LastUpdate_Ratings": "2024-01-05T11:58:16.4313629+00:00",
+  "LastUpdate_Achievements": "2024-01-05T12:10:11.669497+00:00"
 }

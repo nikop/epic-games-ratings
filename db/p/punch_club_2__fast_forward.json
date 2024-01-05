@@ -2303,9 +2303,9 @@
       "ID": "fight_defeat_1",
       "SetID": "69co12a",
       "Name": "First defeat",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 348
+      "UsersEstimate": 354
     },
     {
       "ID": "fight_win_1",
@@ -2543,9 +2543,9 @@
       "ID": "not_ok",
       "SetID": "69co12a",
       "Name": "Run K, run!",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 348
+      "UsersEstimate": 354
     },
     {
       "ID": "own_home",
@@ -2734,8 +2734,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2024-01-05T11:10:34.9927725+00:00",
+  "LastChanged_Achievements": "2024-01-05T12:10:38.8106973+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:36.4340723+00:00",
-  "LastUpdate_Ratings": "2024-01-05T10:58:21.8225331+00:00",
-  "LastUpdate_Achievements": "2024-01-05T11:10:34.9928474+00:00"
+  "LastUpdate_Ratings": "2024-01-05T11:58:32.6962524+00:00",
+  "LastUpdate_Achievements": "2024-01-05T12:10:38.8107885+00:00"
 }

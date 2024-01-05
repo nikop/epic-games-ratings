@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 541,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 477,
+  "Ranking_EOS_NewPlayers": 455,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -382,9 +382,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 2055,
+  "EOS_Progressed": 2056,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -3022,6 +3022,11 @@
       "Time": "2024-01-02T22:03:46.3459318+00:00",
       "NumProgressed": 2055,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-05T12:05:31.5289203+00:00",
+      "NumProgressed": 2056,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -3041,7 +3046,7 @@
       "Name": "Dead or Alive",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1131
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -3113,7 +3118,7 @@
       "Name": "Full House",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "ACH_GETTING_THE_GANG_BACK_TOGETHER",
@@ -3177,7 +3182,7 @@
       "Name": "Justice Served",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "ACH_LETS_RIDE",
@@ -3185,7 +3190,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 1212
+      "UsersEstimate": 1213
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -3329,7 +3334,7 @@
       "Name": "Self-Improvement",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1459
+      "UsersEstimate": 1460
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -3345,7 +3350,7 @@
       "Name": "That\u2019s All, Folks",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "ACH_THERE_IS_HOPE",
@@ -3393,7 +3398,7 @@
       "Name": "Through Their Eyes",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "ACH_TURNING_THE_TABLES",
@@ -3409,7 +3414,7 @@
       "Name": "Unforgiven",
       "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 1829
+      "UsersEstimate": 1830
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -3456,15 +3461,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 2055,
+      "Progressed": 2056,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2024-01-01T13:01:35.2225517+00:00",
-  "LastChanged_Achievements": "2024-01-05T11:05:28.8852868+00:00",
+  "LastChanged_Achievements": "2024-01-05T12:05:31.52892+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.2708576+00:00",
-  "LastUpdate_Ratings": "2024-01-05T11:01:09.3998684+00:00",
-  "LastUpdate_Achievements": "2024-01-05T11:05:28.8853422+00:00"
+  "LastUpdate_Ratings": "2024-01-05T12:01:22.6672654+00:00",
+  "LastUpdate_Achievements": "2024-01-05T12:05:31.5289587+00:00"
 }

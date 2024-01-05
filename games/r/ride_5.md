@@ -1,7 +1,7 @@
 # RIDE 5
 [Store](https://store.epicgames.com/en-US/p/ride-5)  
 [View Rawdata](../../db/r/ride_5.json)  
-Rating: 4.46 (Ranked 672)  
+Rating: 4.46 (Ranked 673)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,8 +9,8 @@ Rating: 4.46 (Ranked 672)
 | First Love | 45.00% | ~1,483 |
 | Clean Race | 44.00% | ~1,450 |
 | Hear That Roar! | 41.00% | ~1,351 |
-| Bitter Rivalry | 30.00% | ~988 |
-| Rivals to the End | 30.00% | ~988 |
+| Bitter Rivalry | 30.00% | ~989 |
+| Rivals to the End | 30.00% | ~989 |
 | Champagne Spray | 28.00% | ~923 |
 | We're Going to Need a Bigger Garage | 26.00% | ~857 |
 | Quick Pit Stop | 22.00% | ~725 |
@@ -55,7 +55,7 @@ Rating: 4.46 (Ranked 672)
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,295 (Ranked 223)  
+Progressed: 3,296 (Ranked 223)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-02 | 3,224 | 0 |
 | 2024-01-03 | 3,258 | 0 |
 | 2024-01-04 | 3,289 | 0 |
-| 2024-01-05 | 3,295 | 0 |
+| 2024-01-05 | 3,296 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

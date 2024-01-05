@@ -199,9 +199,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8311,
+  "EOS_Progressed": 8312,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 309,
+  "EOS_NewPlayers": 308,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -9229,6 +9229,11 @@
       "Time": "2024-01-05T10:05:16.7993557+00:00",
       "NumProgressed": 8311,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2024-01-05T12:06:28.5965526+00:00",
+      "NumProgressed": 8312,
+      "NumCompleted": 49
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -9241,7 +9246,7 @@
       "Name": "First of Many",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 7314
+      "UsersEstimate": 7315
     },
     {
       "ID": "achievement_01_02",
@@ -9257,7 +9262,7 @@
       "Name": "Brand New Ride",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 5402
+      "UsersEstimate": 5403
     },
     {
       "ID": "achievement_01_04",
@@ -9265,7 +9270,7 @@
       "Name": "Bzzzt",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 6233
+      "UsersEstimate": 6234
     },
     {
       "ID": "achievement_01_05",
@@ -9273,7 +9278,7 @@
       "Name": "Automotive Stylist",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 4072
+      "UsersEstimate": 4073
     },
     {
       "ID": "achievement_01_06",
@@ -9297,7 +9302,7 @@
       "Name": "Trophy Collector",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 6233
+      "UsersEstimate": 6234
     },
     {
       "ID": "achievement_01_09",
@@ -9313,7 +9318,7 @@
       "Name": "Beat the Clock",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 4654
+      "UsersEstimate": 4655
     },
     {
       "ID": "achievement_02_01",
@@ -9369,7 +9374,7 @@
       "Name": "Whale of a Time",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 4072
+      "UsersEstimate": 4073
     },
     {
       "ID": "achievement_02_08",
@@ -9481,7 +9486,7 @@
       "Name": "Gotta go Fast",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 4072
+      "UsersEstimate": 4073
     },
     {
       "ID": "achievement_04_03",
@@ -9544,7 +9549,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 8311,
+      "Progressed": 8312,
       "Completed": 49
     }
   ],
@@ -9552,8 +9557,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2024-01-04T12:00:05.3344486+00:00",
-  "LastChanged_Achievements": "2024-01-05T11:06:25.5494265+00:00",
+  "LastChanged_Achievements": "2024-01-05T12:06:28.5965523+00:00",
   "LastUpdate_AppInfo": "2024-01-05T01:43:58.6689875+00:00",
-  "LastUpdate_Ratings": "2024-01-05T11:01:52.5796826+00:00",
-  "LastUpdate_Achievements": "2024-01-05T11:06:25.5494855+00:00"
+  "LastUpdate_Ratings": "2024-01-05T12:02:47.0449429+00:00",
+  "LastUpdate_Achievements": "2024-01-05T12:06:28.5966089+00:00"
 }

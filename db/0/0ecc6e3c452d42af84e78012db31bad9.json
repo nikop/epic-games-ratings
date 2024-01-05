@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4863,
+  "EOS_Progressed": 4864,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -12810,6 +12810,11 @@
       "Time": "2024-01-05T10:05:52.499031+00:00",
       "NumProgressed": 4863,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2024-01-05T12:07:18.2634364+00:00",
+      "NumProgressed": 4864,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 16,
@@ -12821,7 +12826,7 @@
       "Name": "Colored 10 easy pictures.",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "ach_10_hard_pictures",
@@ -12893,7 +12898,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 3939
+      "UsersEstimate": 3940
     },
     {
       "ID": "ach_food_completed",
@@ -12917,7 +12922,7 @@
       "Name": "Game opened",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3696
+      "UsersEstimate": 3697
     },
     {
       "ID": "ach_magic_wand",
@@ -12948,7 +12953,7 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 4863,
+      "Progressed": 4864,
       "Completed": 44
     }
   ],
@@ -12956,8 +12961,8 @@
   "FirstSeenRating": "2023-12-06T23:00:44.8965761+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
   "LastChanged": "2023-12-06T23:00:44.8965762+00:00",
-  "LastChanged_Achievements": "2024-01-05T11:07:15.7490387+00:00",
+  "LastChanged_Achievements": "2024-01-05T12:07:18.263436+00:00",
   "LastUpdate_AppInfo": "2023-12-29T23:56:56.9957208+00:00",
-  "LastUpdate_Ratings": "2024-01-05T11:02:47.2234204+00:00",
-  "LastUpdate_Achievements": "2024-01-05T11:07:15.7491255+00:00"
+  "LastUpdate_Ratings": "2024-01-05T12:02:49.8555026+00:00",
+  "LastUpdate_Achievements": "2024-01-05T12:07:18.2635055+00:00"
 }

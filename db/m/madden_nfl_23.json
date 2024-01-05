@@ -1021,9 +1021,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4312,
+  "EOS_Progressed": 4313,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8271,6 +8271,11 @@
       "Time": "2024-01-05T11:08:21.3383828+00:00",
       "NumProgressed": 4312,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T12:08:44.8167399+00:00",
+      "NumProgressed": 4313,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -8315,7 +8320,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 2285
+      "UsersEstimate": 2286
     },
     {
       "ID": "achievement_14",
@@ -8331,7 +8336,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 2328
+      "UsersEstimate": 2329
     },
     {
       "ID": "achievement_16",
@@ -8363,7 +8368,7 @@
       "Name": "Ol\u0027 Reliable",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "achievement_2",
@@ -8450,7 +8455,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 4312,
+      "Progressed": 4313,
       "Completed": 0
     }
   ],
@@ -8458,8 +8463,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2024-01-02T21:02:50.1835455+00:00",
-  "LastChanged_Achievements": "2024-01-05T11:08:21.3383825+00:00",
+  "LastChanged_Achievements": "2024-01-05T12:08:44.8167396+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.7364021+00:00",
-  "LastUpdate_Ratings": "2024-01-05T10:58:03.4281001+00:00",
-  "LastUpdate_Achievements": "2024-01-05T11:08:21.3384299+00:00"
+  "LastUpdate_Ratings": "2024-01-05T11:58:14.444999+00:00",
+  "LastUpdate_Achievements": "2024-01-05T12:08:44.8167919+00:00"
 }

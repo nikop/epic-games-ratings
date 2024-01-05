@@ -11,17 +11,17 @@
 | Grey Hands Praxis 101 | 27.00% | ~533 |
 | Deep Listener | 24.00% | ~474 |
 | Music for Cows | 18.00% | ~355 |
-| Emotional Baggage Handler | 17.00% | ~335 |
+| Emotional Baggage Handler | 17.00% | ~336 |
 | Dream Listener | 15.00% | ~296 |
 | Artist Assistant | 14.00% | ~276 |
-| Tour de Tieng | 13.00% | ~256 |
-| Shrine Arriver | 12.00% | ~237 |
+| Tour de Tieng | 13.00% | ~257 |
 | Goodbye Tieng Valley | 11.00% | ~217 |
+| Shrine Arriver | 11.00% | ~217 |
 | The End | 11.00% | ~217 |
 | Love Uncoverer | 9.00% | ~178 |
 | Graffiti Artist | 8.00% | ~158 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,973 (Ranked 246)  
+Progressed: 1,974 (Ranked 246)  
 Completed: 73 (3.70%) (Ranked 95)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 73 (3.70%) (Ranked 95)
 | 2024-01-02 | 1,921 | 72 |
 | 2024-01-03 | 1,944 | 72 |
 | 2024-01-04 | 1,964 | 73 |
-| 2024-01-05 | 1,973 | 73 |
+| 2024-01-05 | 1,974 | 73 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

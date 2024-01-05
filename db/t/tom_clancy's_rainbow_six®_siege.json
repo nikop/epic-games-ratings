@@ -2,7 +2,7 @@
   "ID": "carnation",
   "Name": "Tom Clancy\u0027s Rainbow Six\u00AE Siege",
   "ProductSlug": "rainbow-six-siege",
-  "Ranking_Rating": 493,
+  "Ranking_Rating": 494,
   "Ranking_Popularity": 125,
   "Ranking_PopularitySum": 75,
   "Ranking_EOS_Progress": 820,
@@ -5979,10 +5979,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 14742,
       "NumberOfAwardsMax": 1796
+    },
+    {
+      "Time": "2024-01-05T11:58:14.6270228+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 14743,
+      "NumberOfAwardsMax": 1796
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14742,
+  "NumberOfAwards": 14743,
   "NumberOfAwardsMax": 1796,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6014,7 +6020,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 1749
+      "Count": 1750
     },
     {
       "Text": "This game has Challenging Combat",
@@ -6064,8 +6070,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:50.9592707+00:00",
-  "LastChanged": "2024-01-03T06:02:39.6211675+00:00",
+  "LastChanged": "2024-01-05T11:58:14.6270226+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:38.5309466+00:00",
-  "LastUpdate_Ratings": "2024-01-05T10:58:03.5996984+00:00",
-  "LastUpdate_Achievements": "2024-01-05T11:06:39.2814695+00:00"
+  "LastUpdate_Ratings": "2024-01-05T11:58:14.6270231+00:00",
+  "LastUpdate_Achievements": "2024-01-05T12:06:41.9789546+00:00"
 }

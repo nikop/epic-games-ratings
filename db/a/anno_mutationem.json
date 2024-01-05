@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 831,
+  "EOS_Progressed": 832,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1249,6 +1249,11 @@
       "Time": "2024-01-05T10:05:09.2138354+00:00",
       "NumProgressed": 831,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T12:06:18.1461768+00:00",
+      "NumProgressed": 832,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1300,7 +1305,7 @@
       "Name": "Club Star",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "Combine",
@@ -1346,9 +1351,9 @@
       "ID": "I_just_love_stuff",
       "SetID": "gl7plp",
       "Name": "I just love stuff!",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 349
+      "UsersEstimate": 341
     },
     {
       "ID": "I_think_its_broke",
@@ -1428,7 +1433,7 @@
       "Name": "Tell me your story",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -1436,7 +1441,7 @@
       "Name": "That\u0027s gotta hurt",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "The Traveler",
@@ -1492,7 +1497,7 @@
       "Name": "This can\u0027t be right\u2026",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "Welcome_home_06",
@@ -1500,7 +1505,7 @@
       "Name": "Welcome home, 06",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "Woman on a (side) mission",
@@ -1547,7 +1552,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 831,
+      "Progressed": 832,
       "Completed": 0
     }
   ],
@@ -1555,8 +1560,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-12-25T11:02:42.8909676+00:00",
-  "LastChanged_Achievements": "2024-01-05T11:06:15.1882878+00:00",
+  "LastChanged_Achievements": "2024-01-05T12:06:18.1461764+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:48.7904746+00:00",
-  "LastUpdate_Ratings": "2024-01-05T11:03:14.7794636+00:00",
-  "LastUpdate_Achievements": "2024-01-05T11:06:15.1883134+00:00"
+  "LastUpdate_Ratings": "2024-01-05T12:03:16.3360831+00:00",
+  "LastUpdate_Achievements": "2024-01-05T12:06:18.1462101+00:00"
 }

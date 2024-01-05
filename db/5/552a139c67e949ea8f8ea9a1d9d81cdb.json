@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1837,
+  "EOS_Progressed": 1838,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4627,6 +4627,11 @@
       "Time": "2024-01-05T10:03:29.0999616+00:00",
       "NumProgressed": 1837,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-05T12:03:59.1469239+00:00",
+      "NumProgressed": 1838,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4639,7 +4644,7 @@
       "Name": "Rookie",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -4719,7 +4724,7 @@
       "Name": "It\u0027s me you have to beat",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ML_ACHIEVEMENT_12",
@@ -4791,7 +4796,7 @@
       "Name": "Challenge accepted!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -4799,7 +4804,7 @@
       "Name": "I\u0027m in charge here!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ML_ACHIEVEMENT_22",
@@ -4911,7 +4916,7 @@
       "Name": "Extra gear",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ML_ACHIEVEMENT_36",
@@ -4919,7 +4924,7 @@
       "Name": "Perfectionist",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ML_ACHIEVEMENT_37",
@@ -5006,20 +5011,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1837,
+      "Progressed": 1838,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1505,
+      "Progressed": 1506,
       "Completed": 1006
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-05T11:03:56.507249+00:00",
+  "LastChanged_Achievements": "2024-01-05T12:03:59.1469231+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:16.9780766+00:00",
-  "LastUpdate_Ratings": "2024-01-05T11:02:54.8993297+00:00",
-  "LastUpdate_Achievements": "2024-01-05T11:03:56.5073028+00:00"
+  "LastUpdate_Ratings": "2024-01-05T12:02:57.4748583+00:00",
+  "LastUpdate_Achievements": "2024-01-05T12:03:59.1469876+00:00"
 }

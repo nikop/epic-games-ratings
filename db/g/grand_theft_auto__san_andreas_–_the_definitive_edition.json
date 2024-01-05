@@ -4,7 +4,7 @@
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 523,
   "Ranking_Popularity": 442,
-  "Ranking_PopularitySum": 370,
+  "Ranking_PopularitySum": 369,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 117,
@@ -2165,10 +2165,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 342,
       "NumberOfAwardsMax": 52
+    },
+    {
+      "Time": "2024-01-05T11:59:18.1589812+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 343,
+      "NumberOfAwardsMax": 52
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 342,
+  "NumberOfAwards": 343,
   "NumberOfAwardsMax": 52,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -2182,7 +2188,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 49
+      "Count": 50
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2233,9 +2239,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 18398,
+  "EOS_Progressed": 18400,
   "EOS_Completed": 72,
-  "EOS_NewPlayers": 1028,
+  "EOS_NewPlayers": 1027,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -19108,6 +19114,11 @@
       "Time": "2024-01-05T11:10:49.750338+00:00",
       "NumProgressed": 18398,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2024-01-05T12:10:53.7787567+00:00",
+      "NumProgressed": 18400,
+      "NumCompleted": 72
     }
   ],
   "TotalAchievements": 35,
@@ -19119,7 +19130,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 14902
+      "UsersEstimate": 14904
     },
     {
       "ID": "ACH02",
@@ -19175,7 +19186,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 9199
+      "UsersEstimate": 9200
     },
     {
       "ID": "ACH09",
@@ -19398,16 +19409,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 18398,
+      "Progressed": 18400,
       "Completed": 72
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2024-01-05T01:45:19.2310225+00:00",
-  "LastChanged_Achievements": "2024-01-05T11:10:49.7503377+00:00",
+  "LastChanged": "2024-01-05T11:59:18.158981+00:00",
+  "LastChanged_Achievements": "2024-01-05T12:10:53.7787564+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.8114387+00:00",
-  "LastUpdate_Ratings": "2024-01-05T10:59:05.9009293+00:00",
-  "LastUpdate_Achievements": "2024-01-05T11:10:49.7504274+00:00"
+  "LastUpdate_Ratings": "2024-01-05T11:59:18.1589814+00:00",
+  "LastUpdate_Achievements": "2024-01-05T12:10:53.7788535+00:00"
 }

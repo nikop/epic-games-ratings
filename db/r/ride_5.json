@@ -2,7 +2,7 @@
   "ID": "82aa77fde0b14916a86b66b1e6345c30",
   "Name": "RIDE 5",
   "ProductSlug": "ride-5",
-  "Ranking_Rating": 672,
+  "Ranking_Rating": 673,
   "Ranking_Popularity": 579,
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 223,
@@ -45,7 +45,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3295,
+  "EOS_Progressed": 3296,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 0,
@@ -8145,6 +8145,11 @@
       "Time": "2024-01-05T10:05:43.6221905+00:00",
       "NumProgressed": 3295,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T12:07:05.9302849+00:00",
+      "NumProgressed": 3296,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -8445,7 +8450,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -8509,7 +8514,7 @@
       "Name": "Rivals to the End",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -8548,7 +8553,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3295,
+      "Progressed": 3296,
       "Completed": 0
     }
   ],
@@ -8556,8 +8561,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-02T17:58:34.6110096+00:00",
-  "LastChanged_Achievements": "2024-01-05T11:07:03.7266443+00:00",
+  "LastChanged_Achievements": "2024-01-05T12:07:05.9302845+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:59.7599271+00:00",
-  "LastUpdate_Ratings": "2024-01-05T10:59:49.8000888+00:00",
-  "LastUpdate_Achievements": "2024-01-05T11:07:03.7267184+00:00"
+  "LastUpdate_Ratings": "2024-01-05T12:00:03.1251378+00:00",
+  "LastUpdate_Achievements": "2024-01-05T12:07:05.930362+00:00"
 }

@@ -41,9 +41,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 777,
+  "EOS_Progressed": 778,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -2891,6 +2891,11 @@
       "Time": "2024-01-05T10:09:24.859789+00:00",
       "NumProgressed": 777,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-05T12:09:44.7050663+00:00",
+      "NumProgressed": 778,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -2903,7 +2908,7 @@
       "Name": "New arm",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -2967,7 +2972,7 @@
       "Name": "Find myself",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ACHIEVEMENT_19_Romantic",
@@ -2983,7 +2988,7 @@
       "Name": "Shelter Escape",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -3039,7 +3044,7 @@
       "Name": "The First Bond",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
@@ -3071,7 +3076,7 @@
       "Name": "Piggyback Expert",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "ACHIEVEMENT_7_SecondWall",
@@ -3079,7 +3084,7 @@
       "Name": "Second wall",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "ACHIEVEMENT_8_StoneRetriever",
@@ -3102,7 +3107,7 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 777,
+      "Progressed": 778,
       "Completed": 2
     }
   ],
@@ -3110,8 +3115,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2023-12-31T15:57:10.2736309+00:00",
-  "LastChanged_Achievements": "2024-01-05T11:09:41.614195+00:00",
+  "LastChanged_Achievements": "2024-01-05T12:09:44.7050658+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.2091482+00:00",
-  "LastUpdate_Ratings": "2024-01-05T11:00:35.1905664+00:00",
-  "LastUpdate_Achievements": "2024-01-05T11:09:41.6142208+00:00"
+  "LastUpdate_Ratings": "2024-01-05T12:00:49.9315406+00:00",
+  "LastUpdate_Achievements": "2024-01-05T12:09:44.7050945+00:00"
 }

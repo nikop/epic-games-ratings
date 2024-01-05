@@ -5,22 +5,22 @@ Rating: 4.55 (Ranked 523)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 91.00% | ~147 |
-| Map reader | 63.00% | ~102 |
-| Adventurer | 62.00% | ~100 |
+| Beginner | 91.00% | ~148 |
+| Map reader | 63.00% | ~103 |
+| Adventurer | 61.00% | ~99 |
 | Philanthropist | 59.00% | ~96 |
-| Archer | 41.00% | ~66 |
+| Archer | 41.00% | ~67 |
 | The brave little tailor | 40.00% | ~65 |
-| Field hand | 38.00% | ~62 |
-| Samaritan | 31.00% | ~50 |
-| Well-to-do | 31.00% | ~50 |
+| Field hand | 39.00% | ~64 |
+| Samaritan | 31.00% | ~51 |
+| Well-to-do | 31.00% | ~51 |
 | The merciful one | 29.00% | ~47 |
 | Ladies' man | 29.00% | ~47 |
 | Ferocious wild boars | 24.00% | ~39 |
 | Idiot | 23.00% | ~37 |
 | Beast slayer | 21.00% | ~34 |
 | Death of a legend | 19.00% | ~31 |
-| Archaeologist | 19.00% | ~31 |
+| Archaeologist | 18.00% | ~29 |
 | Ogre friend | 18.00% | ~29 |
 | Wise man | 17.00% | ~28 |
 | Family man | 17.00% | ~28 |
@@ -33,8 +33,8 @@ Rating: 4.55 (Ranked 523)
 | Pandora's box | 13.00% | ~21 |
 | Ghost hunter | 13.00% | ~21 |
 | Peacekeeper | 13.00% | ~21 |
-| Defender | 12.00% | ~19 |
-| Workaholic | 12.00% | ~19 |
+| Defender | 12.00% | ~20 |
+| Workaholic | 12.00% | ~20 |
 | Safecracker | 10.00% | ~16 |
 | Master thief | 10.00% | ~16 |
 | Freedom fighter | 9.00% | ~15 |
@@ -45,7 +45,7 @@ Rating: 4.55 (Ranked 523)
 | Expert | 6.00% | ~10 |
 | Moneybags | 6.00% | ~10 |
 | The traveler | 5.00% | ~8 |
-| King Midas | 4.00% | ~6 |
+| King Midas | 4.00% | ~7 |
 | Rune master | 3.00% | ~5 |
 | Big game hunter | 2.00% | ~3 |
 | Mage | 2.00% | ~3 |
@@ -56,7 +56,7 @@ Rating: 4.55 (Ranked 523)
 | Master of the classes | 0.60% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 162 (Ranked 443)  
+Progressed: 163 (Ranked 443)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,6 +124,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-02 | 156 | 0 |
 | 2024-01-03 | 159 | 0 |
 | 2024-01-04 | 162 | 0 |
+| 2024-01-05 | 163 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

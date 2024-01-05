@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 723,
+  "EOS_Progressed": 724,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 3.87,
   "EosHistory": [
@@ -2254,6 +2254,11 @@
       "Time": "2024-01-05T10:09:24.0408666+00:00",
       "NumProgressed": 723,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2024-01-05T12:09:43.536435+00:00",
+      "NumProgressed": 724,
+      "NumCompleted": 28
     }
   ],
   "AchievementsAdded": "2023-11-07T12:05:38.3005436+00:00",
@@ -2264,9 +2269,9 @@
       "ID": "ach_main01begin_completed",
       "SetID": "4hg22ll",
       "Name": "The Last Stand",
-      "Percentage": 89,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 643
+      "UsersEstimate": 637
     },
     {
       "ID": "ach_main01begin_die",
@@ -2274,7 +2279,7 @@
       "Name": "Thalya\u00A0\u2013 Simply Immortal",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "ach_main01begin_storm",
@@ -2298,7 +2303,7 @@
       "Name": "For the Horde!",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "ach_main02horde_traps",
@@ -2322,7 +2327,7 @@
       "Name": "Master of Magic",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "ach_main03demon_spells",
@@ -2370,7 +2375,7 @@
       "Name": "Experienced Thalya",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "ach_main05evil_unicorn",
@@ -2378,7 +2383,7 @@
       "Name": "Unicorn steaks\u00A0\u2013 fresh off the hoof!",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "ach_main06transporter_completed",
@@ -2410,7 +2415,7 @@
       "Name": "Hard Work",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "ach_main07storm_completed",
@@ -2426,7 +2431,7 @@
       "Name": "Pure Dynamite!",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "ach_main07storm_storm",
@@ -2440,9 +2445,9 @@
       "ID": "ach_main08sacrifice_completed",
       "SetID": "4hg22ll",
       "Name": "The Big Eaty",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 390
+      "UsersEstimate": 384
     },
     {
       "ID": "ach_main08sacrifice_gorguattack",
@@ -2456,9 +2461,9 @@
       "ID": "ach_main08sacrifice_overfed",
       "SetID": "4hg22ll",
       "Name": "Not Even a Tiny Thin Mint Wafer, Thanks!",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 202
+      "UsersEstimate": 195
     },
     {
       "ID": "ach_main09journey_completed",
@@ -2474,7 +2479,7 @@
       "Name": "Dungeonlord Gorgu",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "ach_main09journey_nospells",
@@ -2482,7 +2487,7 @@
       "Name": "Forbidden Knowledge",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ach_main10fire_completed",
@@ -2514,7 +2519,7 @@
       "Name": "Tanos\u0027 Crusade Against Thalya",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "ach_main11blessing_ghostheroes",
@@ -2538,7 +2543,7 @@
       "Name": "All\u2019s Well That Ends Evil",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ach_main12race_tanosevilness",
@@ -2666,7 +2671,7 @@
       "Name": "Brimstone Shaken, Not Stirred",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ach_main17stone_transporter",
@@ -2698,7 +2703,7 @@
       "Name": "To Infinity And Beyond!",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ach_main19war_completed",
@@ -2730,7 +2735,7 @@
       "Name": "The Last Stand\u00A0- This Time For Real!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ach_main20end_notristan",
@@ -2753,7 +2758,7 @@
     {
       "ID": "4hg22ll",
       "IsBase": true,
-      "Progressed": 723,
+      "Progressed": 724,
       "Completed": 28
     }
   ],
@@ -2761,8 +2766,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-03T15:00:48.7802365+00:00",
-  "LastChanged_Achievements": "2024-01-05T11:09:40.5105909+00:00",
+  "LastChanged_Achievements": "2024-01-05T12:09:43.5364346+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:16.0613697+00:00",
-  "LastUpdate_Ratings": "2024-01-05T11:01:42.6180534+00:00",
-  "LastUpdate_Achievements": "2024-01-05T11:09:40.5106715+00:00"
+  "LastUpdate_Ratings": "2024-01-05T12:01:56.6509645+00:00",
+  "LastUpdate_Achievements": "2024-01-05T12:09:43.5365215+00:00"
 }

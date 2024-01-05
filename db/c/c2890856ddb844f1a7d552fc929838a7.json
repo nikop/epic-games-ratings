@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -281,7 +281,7 @@
   ],
   "EOS_Progressed": 2207,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 305,
+  "EOS_NewPlayers": 302,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5240,17 +5240,17 @@
       "ID": "AC02",
       "SetID": "l4abp0",
       "Name": "Blood and Dust",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 1390
+      "UsersEstimate": 1412
     },
     {
       "ID": "AC03",
       "SetID": "l4abp0",
       "Name": "Blood and Gold",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 1280
+      "UsersEstimate": 1302
     },
     {
       "ID": "AC04",
@@ -5601,8 +5601,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-03T18:01:37.9777192+00:00",
-  "LastChanged_Achievements": "2024-01-05T11:08:54.4765392+00:00",
+  "LastChanged_Achievements": "2024-01-05T12:08:57.4043707+00:00",
   "LastUpdate_AppInfo": "2024-01-03T03:57:04.3699674+00:00",
-  "LastUpdate_Ratings": "2024-01-05T11:02:51.6357887+00:00",
-  "LastUpdate_Achievements": "2024-01-05T11:08:54.4766052+00:00"
+  "LastUpdate_Ratings": "2024-01-05T12:02:54.1452689+00:00",
+  "LastUpdate_Achievements": "2024-01-05T12:08:57.4044249+00:00"
 }

@@ -354,17 +354,17 @@
       "ID": "ACH_06_CAT_RESCUE",
       "SetID": "9loam6m",
       "Name": "Cat rescue",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_07_TRUST_GAIN",
       "SetID": "9loam6m",
       "Name": "Trust-gaining exercise",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_08_WESTERN_RANCH",
@@ -594,9 +594,9 @@
       "ID": "ACH_36_LIFE_IN_COUNTRYSIDE",
       "SetID": "9loam6m",
       "Name": "Life in the countryside",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_37_UP_IN_THE_MOUNTAINS",
@@ -626,9 +626,9 @@
       "ID": "ACH_40_GLOBETROTTER",
       "SetID": "9loam6m",
       "Name": "Globetrotter",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_41_GOLDEN_GLEAM",
@@ -657,8 +657,8 @@
   ],
   "FirstSeen": "2023-07-23T11:57:26.6885781+00:00",
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2024-01-05T11:06:26.0675163+00:00",
+  "LastChanged_Achievements": "2024-01-05T12:06:29.0488488+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:11.8388561+00:00",
-  "LastUpdate_Ratings": "2024-01-05T10:57:51.339815+00:00",
-  "LastUpdate_Achievements": "2024-01-05T11:06:26.067539+00:00"
+  "LastUpdate_Ratings": "2024-01-05T11:58:02.2348743+00:00",
+  "LastUpdate_Achievements": "2024-01-05T12:06:29.048882+00:00"
 }

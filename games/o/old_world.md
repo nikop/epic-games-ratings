@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 322)  
+Rating: 4.65 (Ranked 323)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -99,6 +99,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Devout | 0.20% | ~32 |
 | Invincible | 0.20% | ~32 |
 | Lion | 0.20% | ~32 |
+| Old | 0.20% | ~32 |
 | Peacemaker | 0.20% | ~32 |
 | Strong Difficulty | 0.20% | ~32 |
 | Clerics | 0.20% | ~32 |
@@ -175,7 +176,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Avenger | 0.10% | ~16 |
 | Destroyer | 0.10% | ~16 |
 | Holy | 0.10% | ~16 |
-| Old | 0.10% | ~16 |
 | White Death | 0.10% | ~16 |
 | Via Recta Souk in Damascus | 0.10% | ~16 |
 | Glorious Difficulty | 0.10% | ~16 |

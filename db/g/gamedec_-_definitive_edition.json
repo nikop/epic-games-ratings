@@ -519,7 +519,7 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 256897,
+  "EOS_Progressed": 256903,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 796,
   "EOS_NewCompleters": 0,
@@ -29674,6 +29674,11 @@
       "Time": "2024-01-05T11:05:30.1324653+00:00",
       "NumProgressed": 256897,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-05T12:05:32.7385972+00:00",
+      "NumProgressed": 256903,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 52,
@@ -29685,7 +29690,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 69362
+      "UsersEstimate": 69364
     },
     {
       "ID": "ACH_AON",
@@ -29733,7 +29738,7 @@
       "Name": "Enjoy these little moments",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1284
+      "UsersEstimate": 1285
     },
     {
       "ID": "ACH_GENTLEMAN",
@@ -29829,7 +29834,7 @@
       "Name": "I will finish what you started",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 74500
+      "UsersEstimate": 74502
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -29901,7 +29906,7 @@
       "Name": "Write that down",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64224
+      "UsersEstimate": 64226
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -30005,7 +30010,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64224
+      "UsersEstimate": 64226
     },
     {
       "ID": "ACH_SOREAD",
@@ -30093,14 +30098,14 @@
       "Name": "Who wouldn\u0027t love a troll?",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 1284
+      "UsersEstimate": 1285
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 256897,
+      "Progressed": 256903,
       "Completed": 8
     }
   ],
@@ -30108,8 +30113,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-12-30T22:03:09.2237596+00:00",
-  "LastChanged_Achievements": "2024-01-05T11:05:30.1324649+00:00",
+  "LastChanged_Achievements": "2024-01-05T12:05:32.7385968+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:57:01.0065032+00:00",
-  "LastUpdate_Ratings": "2024-01-05T10:59:17.0152468+00:00",
-  "LastUpdate_Achievements": "2024-01-05T11:05:30.1326519+00:00"
+  "LastUpdate_Ratings": "2024-01-05T11:59:29.4114506+00:00",
+  "LastUpdate_Achievements": "2024-01-05T12:05:32.73877+00:00"
 }

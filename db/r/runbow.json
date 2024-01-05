@@ -2,7 +2,7 @@
   "ID": "aa7c3e6b5a2a4ca8962270c15bddb861",
   "Name": "Runbow",
   "ProductSlug": "runbow-fc9fa4",
-  "Ranking_Rating": 672,
+  "Ranking_Rating": 673,
   "Ranking_Popularity": 579,
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 69,
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253114,
+  "EOS_Progressed": 253116,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 387,
+  "EOS_NewPlayers": 389,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23292,6 +23292,11 @@
       "Time": "2024-01-05T10:10:15.6981169+00:00",
       "NumProgressed": 253114,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-05T12:10:51.1721796+00:00",
+      "NumProgressed": 253116,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -23359,7 +23364,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 43029
+      "UsersEstimate": 43030
     },
     {
       "ID": "cantBeKeptDown",
@@ -23479,7 +23484,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 134150
+      "UsersEstimate": 134151
     },
     {
       "ID": "indegestible",
@@ -23543,7 +23548,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126557
+      "UsersEstimate": 126558
     },
     {
       "ID": "notScared",
@@ -23607,7 +23612,7 @@
       "Name": "The Stunner",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 58216
+      "UsersEstimate": 58217
     },
     {
       "ID": "thunderstruck",
@@ -23663,14 +23668,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 40498
+      "UsersEstimate": 40499
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253114,
+      "Progressed": 253116,
       "Completed": 6
     }
   ],
@@ -23678,8 +23683,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-05T11:10:47.1164634+00:00",
+  "LastChanged_Achievements": "2024-01-05T12:10:51.1721794+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.9407923+00:00",
-  "LastUpdate_Ratings": "2024-01-05T11:00:40.2236253+00:00",
-  "LastUpdate_Achievements": "2024-01-05T11:10:47.1165956+00:00"
+  "LastUpdate_Ratings": "2024-01-05T12:00:54.0929227+00:00",
+  "LastUpdate_Achievements": "2024-01-05T12:10:51.1723435+00:00"
 }

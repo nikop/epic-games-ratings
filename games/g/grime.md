@@ -6,20 +6,20 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 3.00% | ~4,997 |
-| Imprint | 3.00% | ~4,997 |
+| Taste | 3.00% | ~4,998 |
+| Imprint | 3.00% | ~4,998 |
 | The Hunt | 2.00% | ~3,332 |
 | Weeper | 2.00% | ~3,332 |
 | Ravenous | 2.00% | ~3,332 |
 | Devourer | 1.00% | ~1,666 |
+| Harmless | 0.90% | ~1,499 |
 | Silenced Whispers | 0.90% | ~1,499 |
-| Harmless | 0.80% | ~1,333 |
 | Sharpened Vessel | 0.80% | ~1,333 |
+| Feast | 0.70% | ~1,166 |
 | Yank | 0.70% | ~1,166 |
 | Scion | 0.60% | ~997 |
-| Jawcrab | 0.60% | ~999 |
-| Jawstag | 0.60% | ~999 |
-| Feast | 0.60% | ~999 |
+| Jawcrab | 0.60% | ~1,000 |
+| Jawstag | 0.60% | ~1,000 |
 | Shapely | 0.50% | ~833 |
 | Glare | 0.50% | ~831 |
 | Watcher | 0.50% | ~833 |
@@ -34,7 +34,7 @@ Number of Ratings: 46  (23.09.2022)
 | All-Seeing | 0.30% | ~500 |
 | Breathsmith | 0.30% | ~500 |
 | Unwrap the Gift | 0.30% | ~500 |
-| Dream | 0.30% | ~498 |
+| Dream | 0.30% | ~499 |
 | Bloodhunter | 0.20% | ~333 |
 | Breath | 0.20% | ~333 |
 | Kinship | 0.20% | ~333 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~166 |
 | Intensify | 0.10% | ~166 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 166,581 (Ranked 84)  
+Progressed: 166,588 (Ranked 84)  
 Completed: 444 (0.27%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 444 (0.27%) (Ranked 257)
 | 2024-01-02 | 166,178 | 440 |
 | 2024-01-03 | 166,329 | 441 |
 | 2024-01-04 | 166,498 | 443 |
-| 2024-01-05 | 166,581 | 444 |
+| 2024-01-05 | 166,588 | 444 |
 ## Awards
 Max (Unique Visuals): 61  (Ranked 427)  
 Sum: 441 (Ranked 343)  

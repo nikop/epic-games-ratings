@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Going Down! | 92.00% | ~230 |
-| To Each Their Own | 41.00% | ~102 |
+| You're Going Down! | 92.00% | ~231 |
+| To Each Their Own | 41.00% | ~103 |
 | You Get An Upgrade, You Get An Upgrade! | 18.00% | ~45 |
-| Like Phileas Fogg | 17.00% | ~42 |
+| Like Phileas Fogg | 17.00% | ~43 |
 | Onwards and Upwards | 12.00% | ~30 |
-| Serial Winner | 9.00% | ~22 |
+| Serial Winner | 9.00% | ~23 |
 | Start Your Engines | 8.00% | ~20 |
 | Lone Wolf | 8.00% | ~20 |
 | Highly Qualified | 7.00% | ~18 |
 | No Room for Improvement | 7.00% | ~18 |
-| Playing God | 5.00% | ~12 |
+| Tailor-Made | 5.00% | ~13 |
+| Playing God | 5.00% | ~13 |
 | Nerd | 4.00% | ~10 |
 | First and Foremost | 4.00% | ~10 |
 | Upgradeaholic | 4.00% | ~10 |
-| Tailor-Made | 4.00% | ~10 |
 | Gotta Go Fast! | 3.00% | ~8 |
 | Made Mother Proud | 3.00% | ~8 |
 | Winner Winner Chicken Dinner | 3.00% | ~8 |
@@ -34,17 +34,17 @@
 | Made Father Proud | 2.00% | ~5 |
 | Win-Win! | 2.00% | ~5 |
 | Tailor-Made for Two | 2.00% | ~5 |
-| The Joy of Discovery | 1.00% | ~2 |
-| The Immortal One | 1.00% | ~2 |
-| Shopping List | 1.00% | ~2 |
-| Supersport Superfan | 1.00% | ~2 |
+| The Joy of Discovery | 1.00% | ~3 |
+| The Immortal One | 1.00% | ~3 |
+| Shopping List | 1.00% | ~3 |
+| Supersport Superfan | 1.00% | ~3 |
 | Golden Ratio | 0.80% | ~2 |
 | Checklist | 0.80% | ~2 |
 | Time Is of the Essence | 0.80% | ~2 |
 | Superbike Superfan | 0.80% | ~2 |
 | Playing Favourites | 0.80% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250 (Ranked 411)  
+Progressed: 251 (Ranked 411)  
 Completed: 2 (0.80%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,4 +159,4 @@ Completed: 2 (0.80%) (Ranked 188)
 | 2024-01-01 | 243 | 2 |
 | 2024-01-03 | 245 | 2 |
 | 2024-01-04 | 248 | 2 |
-| 2024-01-05 | 250 | 2 |
+| 2024-01-05 | 251 | 2 |

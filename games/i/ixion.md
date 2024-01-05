@@ -5,29 +5,29 @@ Rating: 4.58 (Ranked 470)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 32.00% | ~1,273 |
+| Wakey Wakey | 32.00% | ~1,274 |
 | Sputnik 2049 | 28.00% | ~1,114 |
-| Infinite Growth... | 27.00% | ~1,074 |
-| Without Breaking Some Eggs... | 26.00% | ~1,034 |
+| Infinite Growth... | 27.00% | ~1,075 |
+| Without Breaking Some Eggs... | 26.00% | ~1,035 |
 | Ready for a New World | 19.00% | ~756 |
 | Space Society | 18.00% | ~716 |
 | A Thousand Strong | 18.00% | ~716 |
-| Permanent Redesigns | 16.00% | ~636 |
+| Permanent Redesigns | 16.00% | ~637 |
 | Fully Recycled | 15.00% | ~597 |
 | The Ship of Theseus | 15.00% | ~597 |
 | Guy de Borderlands | 14.00% | ~557 |
 | Ain't Nobody Got Time for That | 14.00% | ~557 |
 | Hope Seeker | 13.00% | ~517 |
-| A Hunk of Junk | 12.00% | ~477 |
-| Exceeding Capacity | 12.00% | ~477 |
-| Breaking Protocol | 12.00% | ~477 |
+| A Hunk of Junk | 12.00% | ~478 |
+| Exceeding Capacity | 12.00% | ~478 |
+| Breaking Protocol | 12.00% | ~478 |
 | Man's Best Friend | 9.00% | ~358 |
 | Power Outage | 9.00% | ~358 |
 | Please Make it Stop! | 9.00% | ~358 |
 | Convenient Transport | 8.00% | ~318 |
-| Sightseeing | 7.00% | ~278 |
-| Necessary Enhancement | 7.00% | ~278 |
-| From the Past | 7.00% | ~278 |
+| Sightseeing | 7.00% | ~279 |
+| Necessary Enhancement | 7.00% | ~279 |
+| From the Past | 7.00% | ~279 |
 | Access Granted | 6.00% | ~239 |
 | All in Good Health | 6.00% | ~239 |
 | Drill-dozer | 6.00% | ~239 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 470)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,978 (Ranked 212)  
+Progressed: 3,980 (Ranked 212)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-02 | 3,912 | 0 |
 | 2024-01-03 | 3,940 | 0 |
 | 2024-01-04 | 3,963 | 0 |
-| 2024-01-05 | 3,978 | 0 |
+| 2024-01-05 | 3,980 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

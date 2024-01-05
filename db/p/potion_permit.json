@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 488,
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -397,9 +397,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 1879,
+  "EOS_Progressed": 1880,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -3367,6 +3367,11 @@
       "Time": "2024-01-05T07:07:04.0162055+00:00",
       "NumProgressed": 1879,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-05T12:08:31.1690035+00:00",
+      "NumProgressed": 1880,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 38,
@@ -3378,7 +3383,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1841
+      "UsersEstimate": 1842
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -3426,7 +3431,7 @@
       "Name": "K.O.!",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "ACHIEVEMENTS_08",
@@ -3434,7 +3439,7 @@
       "Name": "The First Step",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 1635
+      "UsersEstimate": 1636
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -3442,7 +3447,7 @@
       "Name": "Rookie Chemist",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -3466,7 +3471,7 @@
       "Name": "Amateur Chef",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "ACHIEVEMENTS_13",
@@ -3474,7 +3479,7 @@
       "Name": "Line Cook",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ACHIEVEMENTS_14",
@@ -3490,7 +3495,7 @@
       "Name": "Friendly",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "ACHIEVEMENTS_16",
@@ -3498,7 +3503,7 @@
       "Name": "Sociable",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ACHIEVEMENTS_17",
@@ -3514,7 +3519,7 @@
       "Name": "Dog Whisperer",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "ACHIEVEMENTS_19",
@@ -3554,7 +3559,7 @@
       "Name": "Lumber Specialist",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "ACHIEVEMENTS_24",
@@ -3570,7 +3575,7 @@
       "Name": "Community Helper",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "ACHIEVEMENTS_26",
@@ -3618,7 +3623,7 @@
       "Name": "Ablutomaniac",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ACHIEVEMENTS_32",
@@ -3681,7 +3686,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1879,
+      "Progressed": 1880,
       "Completed": 11
     }
   ],
@@ -3689,8 +3694,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-12-28T09:03:17.5303608+00:00",
-  "LastChanged_Achievements": "2024-01-05T11:08:08.0409379+00:00",
+  "LastChanged_Achievements": "2024-01-05T12:08:31.1690031+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:18.8535407+00:00",
-  "LastUpdate_Ratings": "2024-01-05T11:00:48.8375321+00:00",
-  "LastUpdate_Achievements": "2024-01-05T11:08:08.0409786+00:00"
+  "LastUpdate_Ratings": "2024-01-05T12:01:02.0643849+00:00",
+  "LastUpdate_Achievements": "2024-01-05T12:08:31.169047+00:00"
 }

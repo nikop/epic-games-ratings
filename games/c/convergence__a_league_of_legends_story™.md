@@ -1,16 +1,16 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.65 (Ranked 322)  
+Rating: 4.67 (Ranked 285)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 44.00% | ~542 |
+| Time Heals All Wounds | 44.00% | ~543 |
 | Rail Rat | 33.00% | ~407 |
-| The Mysterious Stranger | 32.00% | ~394 |
+| The Mysterious Stranger | 32.00% | ~395 |
 | Immaculate Aim | 28.00% | ~345 |
 | The Brass Boss | 27.00% | ~333 |
-| Time Flies | 26.00% | ~320 |
+| Time Flies | 26.00% | ~321 |
 | Make Up For Lost Time | 25.00% | ~308 |
 | The Harder They Fall | 25.00% | ~308 |
 | No, Thanks! | 25.00% | ~308 |
@@ -18,14 +18,14 @@ Rating: 4.65 (Ranked 322)
 | Honest Mistake | 25.00% | ~308 |
 | Fast Learner | 24.00% | ~296 |
 | Immaculate Aim | 24.00% | ~296 |
-| The Steel Shadow | 23.00% | ~283 |
-| Breaking Down Barriers | 23.00% | ~283 |
+| The Steel Shadow | 23.00% | ~284 |
+| Breaking Down Barriers | 23.00% | ~284 |
 | Right On Time | 22.00% | ~271 |
 | The Wicked Twins | 22.00% | ~271 |
 | Like Clockwork | 21.00% | ~259 |
 | The Betrayer | 21.00% | ~259 |
 | Golem Chaser | 21.00% | ~259 |
-| Check Your Pulse | 20.00% | ~246 |
+| Check Your Pulse | 20.00% | ~247 |
 | The Loose Cannon | 19.00% | ~234 |
 | Street Style | 18.00% | ~222 |
 | The Man Who Shattered Time | 18.00% | ~222 |
@@ -59,7 +59,7 @@ Rating: 4.65 (Ranked 322)
 | Raw Talent | 0.60% | ~7 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,232 (Ranked 280)  
+Progressed: 1,233 (Ranked 280)  
 Completed: 6 (0.49%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 6 (0.49%) (Ranked 221)
 | 2024-01-02 | 1,201 | 6 |
 | 2024-01-03 | 1,216 | 6 |
 | 2024-01-04 | 1,228 | 6 |
-| 2024-01-05 | 1,232 | 6 |
+| 2024-01-05 | 1,233 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -233,3 +233,4 @@ Completed: 6 (0.49%) (Ranked 221)
 | 2023-10-16 | 4.62 | 0 | 0 |
 | 2023-12-18 | 4.64 | 0 | 0 |
 | 2023-12-23 | 4.65 | 0 | 0 |
+| 2024-01-05 | 4.67 | 0 | 0 |

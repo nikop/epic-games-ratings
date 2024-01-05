@@ -570,7 +570,7 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17637,
+  "EOS_Progressed": 17638,
   "EOS_Completed": 124,
   "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 2,
@@ -17745,6 +17745,11 @@
       "Time": "2024-01-05T11:04:17.3498393+00:00",
       "NumProgressed": 17637,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2024-01-05T12:04:20.0412331+00:00",
+      "NumProgressed": 17638,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 41,
@@ -17844,7 +17849,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5820
+      "UsersEstimate": 5821
     },
     {
       "ID": "tpote_achievement_20",
@@ -17868,7 +17873,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3527
+      "UsersEstimate": 3528
     },
     {
       "ID": "tpote_achievement_23",
@@ -17892,7 +17897,7 @@
       "Name": "Revenge",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "tpote_achievement_26",
@@ -17916,7 +17921,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2116
+      "UsersEstimate": 2117
     },
     {
       "ID": "tpote_achievement_29",
@@ -17932,7 +17937,7 @@
       "Name": "Let there be darkness",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5467
+      "UsersEstimate": 5468
     },
     {
       "ID": "tpote_achievement_30",
@@ -18004,7 +18009,7 @@
       "Name": "Countess Aliena",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "tpote_achievement_39",
@@ -18083,15 +18088,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17637,
+      "Progressed": 17638,
       "Completed": 124
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-05T11:04:17.349839+00:00",
+  "LastChanged_Achievements": "2024-01-05T12:04:20.0412327+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:24.3361109+00:00",
-  "LastUpdate_Ratings": "2024-01-05T11:03:06.832521+00:00",
-  "LastUpdate_Achievements": "2024-01-05T11:04:17.3499525+00:00"
+  "LastUpdate_Ratings": "2024-01-05T12:03:09.532359+00:00",
+  "LastUpdate_Achievements": "2024-01-05T12:04:20.0413471+00:00"
 }

@@ -819,7 +819,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3775,
+  "EOS_Progressed": 3776,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
@@ -5539,6 +5539,11 @@
       "Time": "2024-01-05T10:08:15.3992633+00:00",
       "NumProgressed": 3775,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T12:07:48.4572936+00:00",
+      "NumProgressed": 3776,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -5758,7 +5763,7 @@
       "Name": "Friendly Fire",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "Kills_Interactable",
@@ -5774,7 +5779,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "Kills_Streak",
@@ -6093,21 +6098,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3775,
+      "Progressed": 3776,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3775,
+      "Progressed": 3776,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-04T18:03:14.3502303+00:00",
-  "LastChanged_Achievements": "2024-01-05T11:07:45.5211372+00:00",
+  "LastChanged_Achievements": "2024-01-05T12:07:48.4572932+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:30.5390055+00:00",
-  "LastUpdate_Ratings": "2024-01-05T11:03:35.4836518+00:00",
-  "LastUpdate_Achievements": "2024-01-05T11:07:45.5212113+00:00"
+  "LastUpdate_Ratings": "2024-01-05T12:03:37.2335747+00:00",
+  "LastUpdate_Achievements": "2024-01-05T12:07:48.457399+00:00"
 }

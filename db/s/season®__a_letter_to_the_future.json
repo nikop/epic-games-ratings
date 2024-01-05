@@ -4,7 +4,7 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 95,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1973,
+  "EOS_Progressed": 1974,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 3.7,
   "EosHistory": [
@@ -4494,6 +4494,11 @@
       "Time": "2024-01-05T11:10:41.7490471+00:00",
       "NumProgressed": 1973,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2024-01-05T12:10:45.8453201+00:00",
+      "NumProgressed": 1974,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 16,
@@ -4529,7 +4534,7 @@
       "Name": "Emotional Baggage Handler",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "ACH_GOODBYETIENGVALLEY",
@@ -4599,9 +4604,9 @@
       "ID": "ACH_SHRINEARRIVER",
       "SetID": "7pam6gn",
       "Name": "Shrine Arriver",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 237
+      "UsersEstimate": 217
     },
     {
       "ID": "ACH_STRANGERENCOUNTERER",
@@ -4625,14 +4630,14 @@
       "Name": "Tour de Tieng",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1973,
+      "Progressed": 1974,
       "Completed": 73
     }
   ],
@@ -4640,8 +4645,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2024-01-05T11:10:41.7490466+00:00",
+  "LastChanged_Achievements": "2024-01-05T12:10:45.8453199+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.182252+00:00",
-  "LastUpdate_Ratings": "2024-01-05T10:57:58.8679927+00:00",
-  "LastUpdate_Achievements": "2024-01-05T11:10:41.7490872+00:00"
+  "LastUpdate_Ratings": "2024-01-05T11:58:09.7819079+00:00",
+  "LastUpdate_Achievements": "2024-01-05T12:10:45.8453491+00:00"
 }

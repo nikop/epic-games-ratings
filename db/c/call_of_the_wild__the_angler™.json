@@ -1021,9 +1021,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 7975,
+  "EOS_Progressed": 7976,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 274,
+  "EOS_NewPlayers": 273,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13241,6 +13241,11 @@
       "Time": "2024-01-05T11:08:09.5150821+00:00",
       "NumProgressed": 7975,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T12:08:32.7750684+00:00",
+      "NumProgressed": 7976,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -13268,7 +13273,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 1116
+      "UsersEstimate": 1117
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -13284,7 +13289,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -13571,13 +13576,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7975,
+      "Progressed": 7976,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7347,
+      "Progressed": 7348,
       "Completed": 113
     }
   ],
@@ -13585,8 +13590,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-03T21:01:30.920658+00:00",
-  "LastChanged_Achievements": "2024-01-05T11:08:09.5150819+00:00",
+  "LastChanged_Achievements": "2024-01-05T12:08:32.7750679+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:09.4029638+00:00",
-  "LastUpdate_Ratings": "2024-01-05T11:02:52.202745+00:00",
-  "LastUpdate_Achievements": "2024-01-05T11:08:09.5151993+00:00"
+  "LastUpdate_Ratings": "2024-01-05T12:02:54.7933802+00:00",
+  "LastUpdate_Achievements": "2024-01-05T12:08:32.7751583+00:00"
 }

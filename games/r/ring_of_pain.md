@@ -36,6 +36,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Walk It Off | 0.70% | ~1,697 |
 | Cold Hearted | 0.70% | ~1,697 |
 | I Am Overburdened | 0.70% | ~1,697 |
+| Destroy Your Fears | 0.70% | ~1,697 |
 | Shootout | 0.70% | ~1,697 |
 | Stone Touch | 0.70% | ~1,697 |
 | Toxic | 0.70% | ~1,697 |
@@ -44,7 +45,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Consecutive Curses | 0.60% | ~1,454 |
 | Just Chilling | 0.60% | ~1,454 |
 | Save Our Souls | 0.60% | ~1,454 |
-| Destroy Your Fears | 0.60% | ~1,454 |
 | New Perspectives | 0.60% | ~1,454 |
 | Shapeshifting | 0.60% | ~1,454 |
 | Expensive Look | 0.60% | ~23 |
@@ -66,7 +66,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Chain Reaction | 0.40% | ~970 |
 | Antivenom | 0.40% | ~970 |
 | The Long Run | 0.40% | ~970 |
-| Who Needs Luck? | 0.40% | ~15 |
+| Who Needs Luck? | 0.40% | ~16 |
 | Achievement Hunter | 0.30% | ~727 |
 | Challenge Increases | 0.30% | ~727 |
 | New Game+ | 0.30% | ~727 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,392 (Ranked 72)  
+Progressed: 242,397 (Ranked 72)  
 Completed: 304 (0.13%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -405,7 +405,7 @@ Completed: 304 (0.13%) (Ranked 295)
 | 2024-01-02 | 242,247 | 303 |
 | 2024-01-03 | 242,304 | 303 |
 | 2024-01-04 | 242,358 | 304 |
-| 2024-01-05 | 242,392 | 304 |
+| 2024-01-05 | 242,397 | 304 |
 ## Awards
 Max (Quickly Understood Controls): 1,514  (Ranked 137)  
 Sum: 11,786 (Ranked 89)  

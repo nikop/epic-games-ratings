@@ -4,7 +4,7 @@
   "ProductSlug": "there-is-no-game-wrong-dimension-d2782b",
   "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
@@ -1190,9 +1190,9 @@
       "ID": "TINGWD_NOSHAME",
       "SetID": "c0imaa6",
       "Name": "Have you no shame?",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 208
     },
     {
       "ID": "TINGWD_OUTBOX",
@@ -1293,8 +1293,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2024-01-05T11:06:12.5559581+00:00",
+  "LastChanged_Achievements": "2024-01-05T12:06:15.493168+00:00",
   "LastUpdate_AppInfo": "2024-01-01T22:57:08.3171345+00:00",
-  "LastUpdate_Ratings": "2024-01-05T10:57:51.8863186+00:00",
-  "LastUpdate_Achievements": "2024-01-05T11:06:12.5559884+00:00"
+  "LastUpdate_Ratings": "2024-01-05T11:58:02.8451444+00:00",
+  "LastUpdate_Achievements": "2024-01-05T12:06:15.4931973+00:00"
 }

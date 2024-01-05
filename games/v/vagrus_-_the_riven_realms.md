@@ -30,15 +30,15 @@
 | Potential Unlocked | 4.00% | ~11 |
 | Been There | 4.00% | ~11 |
 | Spiritual Journey | 4.00% | ~11 |
-| Bounty Hunter | 3.00% | ~8 |
-| Huntress Unbound | 3.00% | ~8 |
-| Xevarian Gambit | 3.00% | ~8 |
 | The Voice of Hereafter | 3.00% | ~8 |
 | Despised | 3.00% | ~8 |
 | A Terrible Will | 3.00% | ~8 |
 | Inquisitions of Discord | 3.00% | ~8 |
 | Unseen Patterns | 3.00% | ~8 |
+| Bounty Hunter | 2.00% | ~6 |
 | Supercargo | 2.00% | ~6 |
+| Huntress Unbound | 2.00% | ~6 |
+| Xevarian Gambit | 2.00% | ~6 |
 | Business As Usual | 2.00% | ~6 |
 | Legacy of a Mercenary | 2.00% | ~6 |
 | Delayed | 2.00% | ~6 |
@@ -104,7 +104,7 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 280 (Ranked 401)  
+Progressed: 281 (Ranked 401)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-02 | 272 | 0 |
 | 2024-01-03 | 277 | 0 |
 | 2024-01-04 | 279 | 0 |
-| 2024-01-05 | 280 | 0 |
+| 2024-01-05 | 281 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

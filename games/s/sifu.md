@@ -6,31 +6,31 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 5.00% | ~37,716 |
-| The Assault | 4.00% | ~30,173 |
-| Life is your teacher | 4.00% | ~30,173 |
-| Lightning Hands | 4.00% | ~30,173 |
-| The Hateful Pole Fighter | 2.00% | ~15,086 |
-| A Lady's Blood in the Snow | 2.00% | ~15,086 |
-| Lady Wing Chun | 2.00% | ~15,086 |
-| Kill Nil | 2.00% | ~15,086 |
-| Stuntmaster | 2.00% | ~15,086 |
-| Street Fighting | 2.00% | ~15,086 |
-| State of constant learning | 2.00% | ~15,086 |
-| Qi Gong: Breath | 2.00% | ~15,086 |
-| Qi Gong: Essence | 2.00% | ~15,086 |
-| I know Kung-Fu | 2.00% | ~15,086 |
-| Old Child | 2.00% | ~15,086 |
-| Path of the Prospect | 2.00% | ~15,086 |
-| Rumble in the Hangar | 2.00% | ~15,086 |
-| Diligence as a goal | 2.00% | ~1,272 |
-| Furious Fists | 1.00% | ~7,543 |
-| Scareless | 1.00% | ~7,543 |
-| Dance of the Praying Mantis | 1.00% | ~7,543 |
-| Qi Gong: Mind | 1.00% | ~7,543 |
-| Kung-Fu Tussle | 1.00% | ~7,543 |
-| Take damage to save time | 1.00% | ~7,543 |
-| Project Arena | 1.00% | ~636 |
+| The Old Grandmaster | 5.00% | ~37,718 |
+| The Assault | 4.00% | ~30,175 |
+| Life is your teacher | 4.00% | ~30,175 |
+| Lightning Hands | 4.00% | ~30,175 |
+| The Hateful Pole Fighter | 2.00% | ~15,087 |
+| A Lady's Blood in the Snow | 2.00% | ~15,087 |
+| Lady Wing Chun | 2.00% | ~15,087 |
+| Kill Nil | 2.00% | ~15,087 |
+| Stuntmaster | 2.00% | ~15,087 |
+| Street Fighting | 2.00% | ~15,087 |
+| State of constant learning | 2.00% | ~15,087 |
+| Qi Gong: Breath | 2.00% | ~15,087 |
+| Qi Gong: Essence | 2.00% | ~15,087 |
+| I know Kung-Fu | 2.00% | ~15,087 |
+| Old Child | 2.00% | ~15,087 |
+| Path of the Prospect | 2.00% | ~15,087 |
+| Rumble in the Hangar | 2.00% | ~15,087 |
+| Diligence as a goal | 2.00% | ~1,273 |
+| Furious Fists | 1.00% | ~7,544 |
+| Scareless | 1.00% | ~7,544 |
+| Dance of the Praying Mantis | 1.00% | ~7,544 |
+| Qi Gong: Mind | 1.00% | ~7,544 |
+| Kung-Fu Tussle | 1.00% | ~7,544 |
+| Take damage to save time | 1.00% | ~7,544 |
+| Project Arena | 1.00% | ~637 |
 | Fight the way you practice | 0.80% | ~509 |
 | Muk Yan Master | 0.60% | ~4,526 |
 | Tiger on Fire | 0.60% | ~4,526 |
@@ -43,7 +43,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bloody Sport | 0.50% | ~318 |
 | Prodigal Child | 0.40% | ~3,017 |
 | The 36th Chamber of Kung-Fu | 0.40% | ~3,017 |
-| The best strikes are the ones we avoid | 0.40% | ~254 |
+| The best strikes are the ones we avoid | 0.40% | ~255 |
 | Drunken Fighter | 0.30% | ~2,263 |
 | Martial Artist | 0.30% | ~2,263 |
 | Knowledge Greed | 0.30% | ~2,263 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~64 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~64 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 754,315 (Ranked 25)  
+Progressed: 754,370 (Ranked 25)  
 Completed: 12,974 (1.72%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 12,974 (1.72%) (Ranked 141)
 | 2024-01-02 | 752,188 | 12,971 |
 | 2024-01-03 | 753,003 | 12,973 |
 | 2024-01-04 | 753,906 | 12,974 |
-| 2024-01-05 | 754,315 | 12,974 |
+| 2024-01-05 | 754,370 | 12,974 |
 ## Awards
 Max (Great Boss Battles): 7,102  (Ranked 56)  
 Sum: 12,008 (Ranked 88)  

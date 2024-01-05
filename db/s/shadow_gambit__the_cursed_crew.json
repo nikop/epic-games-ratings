@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1444,
+  "EOS_Progressed": 1445,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.42,
   "EosHistory": [
@@ -4975,6 +4975,11 @@
       "Time": "2024-01-05T10:04:07.673007+00:00",
       "NumProgressed": 1444,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-05T12:04:53.2760414+00:00",
+      "NumProgressed": 1445,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -4987,7 +4992,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -4995,7 +5000,7 @@
       "Name": "A New Journey",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "_03_FinishAct1",
@@ -5019,7 +5024,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -5027,7 +5032,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "_07_FinishAct3",
@@ -5035,7 +5040,7 @@
       "Name": "All Good Things",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "_08_Completion_10",
@@ -5051,7 +5056,7 @@
       "Name": "Powder Monkey",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "_10_Completion_30",
@@ -5169,9 +5174,9 @@
       "ID": "_24_CrewTale_SNP",
       "SetID": "8a1io5d",
       "Name": "Jaded Judge",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 173
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -5194,7 +5199,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1444,
+      "Progressed": 1445,
       "Completed": 35
     }
   ],
@@ -5202,8 +5207,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-03T10:02:59.9033308+00:00",
-  "LastChanged_Achievements": "2024-01-05T11:04:50.3378009+00:00",
+  "LastChanged_Achievements": "2024-01-05T12:04:53.2760409+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:56.1530944+00:00",
-  "LastUpdate_Ratings": "2024-01-05T10:58:03.184984+00:00",
-  "LastUpdate_Achievements": "2024-01-05T11:04:50.3378373+00:00"
+  "LastUpdate_Ratings": "2024-01-05T11:58:14.1178127+00:00",
+  "LastUpdate_Achievements": "2024-01-05T12:04:53.2760904+00:00"
 }

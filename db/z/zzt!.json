@@ -4,7 +4,7 @@
   "ProductSlug": "zzt",
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 78,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-03-31T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3558,
+  "EOS_Progressed": 3559,
   "EOS_Completed": 168,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 4.72,
   "EosHistory": [
@@ -6389,6 +6389,11 @@
       "Time": "2024-01-05T05:08:40.9127174+00:00",
       "NumProgressed": 3558,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2024-01-05T12:09:21.6411022+00:00",
+      "NumProgressed": 3559,
+      "NumCompleted": 168
     }
   ],
   "TotalAchievements": 5,
@@ -6400,7 +6405,7 @@
       "Name": "Potomac Computer Systems",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 3558
+      "UsersEstimate": 3559
     },
     {
       "ID": "2",
@@ -6416,7 +6421,7 @@
       "Name": "Explorer",
       "Percentage": 6,
       "XP": 200,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "4",
@@ -6439,7 +6444,7 @@
     {
       "ID": "dm385hd",
       "IsBase": true,
-      "Progressed": 3558,
+      "Progressed": 3559,
       "Completed": 168
     }
   ],
@@ -6447,8 +6452,8 @@
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2024-01-05T11:09:18.812767+00:00",
+  "LastChanged_Achievements": "2024-01-05T12:09:21.6411019+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:37.6162486+00:00",
-  "LastUpdate_Ratings": "2024-01-05T10:58:47.2972243+00:00",
-  "LastUpdate_Achievements": "2024-01-05T11:09:18.8128066+00:00"
+  "LastUpdate_Ratings": "2024-01-05T11:59:00.6097334+00:00",
+  "LastUpdate_Achievements": "2024-01-05T12:09:21.6411375+00:00"
 }

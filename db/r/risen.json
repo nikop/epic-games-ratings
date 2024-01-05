@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 443,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 162,
+  "EOS_Progressed": 163,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -860,6 +860,11 @@
       "Time": "2024-01-04T20:11:13.6350225+00:00",
       "NumProgressed": 162,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T12:10:59.6511622+00:00",
+      "NumProgressed": 163,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T08:07:32.4989951+00:00",
@@ -902,9 +907,9 @@
       "ID": "id_15",
       "SetID": "bk9jib6",
       "Name": "Archaeologist",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 29
     },
     {
       "ID": "id_16",
@@ -928,7 +933,7 @@
       "Name": "Defender",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "id_19",
@@ -942,9 +947,9 @@
       "ID": "id_2",
       "SetID": "bk9jib6",
       "Name": "Field hand",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 64
     },
     {
       "ID": "id_20",
@@ -1000,7 +1005,7 @@
       "Name": "Beginner",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "id_32",
@@ -1048,7 +1053,7 @@
       "Name": "Samaritan",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "id_42",
@@ -1080,7 +1085,7 @@
       "Name": "Workaholic",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "id_46",
@@ -1184,7 +1189,7 @@
       "Name": "Well-to-do",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "id_58",
@@ -1200,7 +1205,7 @@
       "Name": "King Midas",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "id_6",
@@ -1214,9 +1219,9 @@
       "ID": "id_60",
       "SetID": "bk9jib6",
       "Name": "Adventurer",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 99
     },
     {
       "ID": "id_61",
@@ -1224,7 +1229,7 @@
       "Name": "Map reader",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "id_62",
@@ -1232,7 +1237,7 @@
       "Name": "Archer",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "id_63",
@@ -1271,7 +1276,7 @@
     {
       "ID": "bk9jib6",
       "IsBase": true,
-      "Progressed": 162,
+      "Progressed": 163,
       "Completed": 0
     }
   ],
@@ -1279,8 +1284,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-12-28T07:02:46.0007261+00:00",
-  "LastChanged_Achievements": "2024-01-05T11:10:55.349767+00:00",
+  "LastChanged_Achievements": "2024-01-05T12:10:59.6511618+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:11.6693375+00:00",
-  "LastUpdate_Ratings": "2024-01-05T11:00:50.9199266+00:00",
-  "LastUpdate_Achievements": "2024-01-05T11:10:55.3498262+00:00"
+  "LastUpdate_Ratings": "2024-01-05T12:01:04.0980848+00:00",
+  "LastUpdate_Achievements": "2024-01-05T12:10:59.6512089+00:00"
 }

@@ -3,7 +3,7 @@
   "Name": "Disney Dreamlight Valley",
   "ProductSlug": "disney-dreamlight-valley",
   "Ranking_Rating": 129,
-  "Ranking_Popularity": 147,
+  "Ranking_Popularity": 148,
   "Ranking_PopularitySum": 108,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 125,
@@ -5787,9 +5787,9 @@
       "Count": 553
     }
   ],
-  "EOS_Progressed": 13771,
+  "EOS_Progressed": 13772,
   "EOS_Completed": 342,
-  "EOS_NewPlayers": 357,
+  "EOS_NewPlayers": 355,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 2.48,
   "EosHistory": [
@@ -24327,6 +24327,11 @@
       "Time": "2024-01-05T10:09:26.5092353+00:00",
       "NumProgressed": 13771,
       "NumCompleted": 342
+    },
+    {
+      "Time": "2024-01-05T12:09:47.063717+00:00",
+      "NumProgressed": 13772,
+      "NumCompleted": 342
     }
   ],
   "TotalAchievements": 15,
@@ -24354,7 +24359,7 @@
       "Name": "Bestest Friend",
       "Percentage": 44,
       "XP": 75,
-      "UsersEstimate": 6059
+      "UsersEstimate": 6060
     },
     {
       "ID": "Chef_Cook",
@@ -24362,7 +24367,7 @@
       "Name": "Chef Cook",
       "Percentage": 19,
       "XP": 75,
-      "UsersEstimate": 2616
+      "UsersEstimate": 2617
     },
     {
       "ID": "Chit_Chatter",
@@ -24394,7 +24399,7 @@
       "Name": "Gardener",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4131
+      "UsersEstimate": 4132
     },
     {
       "ID": "Generous",
@@ -24457,7 +24462,7 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 13771,
+      "Progressed": 13772,
       "Completed": 342
     }
   ],
@@ -24465,8 +24470,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2024-01-05T07:01:12.2242226+00:00",
-  "LastChanged_Achievements": "2024-01-05T11:09:43.9246379+00:00",
+  "LastChanged_Achievements": "2024-01-05T12:09:47.0637167+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:02.6007727+00:00",
-  "LastUpdate_Ratings": "2024-01-05T11:01:48.4459245+00:00",
-  "LastUpdate_Achievements": "2024-01-05T11:09:43.9247573+00:00"
+  "LastUpdate_Ratings": "2024-01-05T12:02:02.6716131+00:00",
+  "LastUpdate_Achievements": "2024-01-05T12:09:47.0638185+00:00"
 }

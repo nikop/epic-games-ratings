@@ -5,7 +5,7 @@ Rating: 4.13 (Ranked 1,005)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 61.00% | ~1,105 |
+| Break Out | 61.00% | ~1,106 |
 | Trinity | 30.00% | ~544 |
 | Find Allies | 23.00% | ~417 |
 | A Taste of Wrath | 23.00% | ~417 |
@@ -16,21 +16,21 @@ Rating: 4.13 (Ranked 1,005)
 | Adventurer | 21.00% | ~381 |
 | Fashion Victim | 21.00% | ~381 |
 | Scholar | 21.00% | ~381 |
-| Tributes of Caladrias | 20.00% | ~362 |
+| Tributes of Caladrias | 20.00% | ~363 |
 | Stone Collection | 19.00% | ~344 |
 | Powerful Allies | 18.00% | ~326 |
 | Big Bazar | 13.00% | ~236 |
-| Essence Blow | 12.00% | ~217 |
-| Alchemist | 12.00% | ~217 |
+| Essence Blow | 12.00% | ~218 |
+| Alchemist | 12.00% | ~218 |
 | The Mentor | 10.00% | ~181 |
 | Calm before the Storm | 8.00% | ~145 |
 | To Battle | 7.00% | ~127 |
 | Godslayer | 7.00% | ~127 |
 | Airborne | 7.00% | ~127 |
 | Miner | 7.00% | ~127 |
-| Clear Sight | 4.00% | ~72 |
-| Shatterer | 4.00% | ~72 |
-| Fine Feathers Make Fine Birds | 4.00% | ~72 |
+| Clear Sight | 4.00% | ~73 |
+| Shatterer | 4.00% | ~73 |
+| Fine Feathers Make Fine Birds | 4.00% | ~73 |
 | A Queen's Tale | 3.00% | ~54 |
 | Slayer | 2.00% | ~36 |
 | Flawless Victory | 2.00% | ~36 |
@@ -42,7 +42,7 @@ Rating: 4.13 (Ranked 1,005)
 | All That Gold | 0.70% | ~13 |
 | Feeling Fancy | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,812 (Ranked 255)  
+Progressed: 1,813 (Ranked 255)  
 Completed: 3 (0.17%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 3 (0.17%) (Ranked 280)
 | 2024-01-02 | 1,683 | 3 |
 | 2024-01-03 | 1,735 | 3 |
 | 2024-01-04 | 1,793 | 3 |
-| 2024-01-05 | 1,812 | 3 |
+| 2024-01-05 | 1,813 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

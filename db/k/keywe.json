@@ -2,9 +2,9 @@
   "ID": "2f85e4b21b8b459fa78a34e59ccac2a2",
   "Name": "KeyWe",
   "ProductSlug": "keywe-c3a70e",
-  "Ranking_EOS_Progress": 462,
+  "Ranking_EOS_Progress": 461,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewPlayers": 307,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-04-28T09:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 137,
+  "EOS_Progressed": 138,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -600,6 +600,11 @@
       "Time": "2024-01-05T07:04:37.8269721+00:00",
       "NumProgressed": 137,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T12:05:14.4855792+00:00",
+      "NumProgressed": 138,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:04:51.255408+00:00",
@@ -620,7 +625,7 @@
       "Name": "Secrets of the Telepost",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "allCoursesCleared",
@@ -660,7 +665,7 @@
       "Name": "Practice Makes Postmasters",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "completeFall",
@@ -668,7 +673,7 @@
       "Name": "Pumpkins and Postage Stamps",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "completeGame",
@@ -708,7 +713,7 @@
       "Name": "A Startling Discovery",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "getABonusReward",
@@ -716,7 +721,7 @@
       "Name": "Working for the Kiweekend",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "goldOnAllLevels",
@@ -771,13 +776,13 @@
     {
       "ID": "cfe0fhi",
       "IsBase": true,
-      "Progressed": 137,
+      "Progressed": 138,
       "Completed": 0
     },
     {
       "ID": "cfj6lld",
       "IsBase": false,
-      "Progressed": 137,
+      "Progressed": 138,
       "Completed": 0
     }
   ],
@@ -785,8 +790,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.8503401+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:23.8514145+00:00",
   "LastChanged": "2023-03-31T05:58:13.8503402+00:00",
-  "LastChanged_Achievements": "2024-01-05T11:05:11.8607462+00:00",
+  "LastChanged_Achievements": "2024-01-05T12:05:14.4855786+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:20.8360507+00:00",
-  "LastUpdate_Ratings": "2024-01-05T11:01:13.2931844+00:00",
-  "LastUpdate_Achievements": "2024-01-05T11:05:11.860763+00:00"
+  "LastUpdate_Ratings": "2024-01-05T12:01:27.1563314+00:00",
+  "LastUpdate_Achievements": "2024-01-05T12:05:14.4855955+00:00"
 }
