@@ -6,14 +6,14 @@ Number of Ratings: 48  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Plenty More to Go | 85.00% | ~672 |
-| All Bark, No Bite | 74.00% | ~585 |
-| Hopeful Hunter | 63.00% | ~498 |
+| Plenty More to Go | 85.00% | ~673 |
+| All Bark, No Bite | 74.00% | ~586 |
+| Hopeful Hunter | 63.00% | ~499 |
 | Amateur Adventurer | 61.00% | ~483 |
 | The Road to Recovery | 60.00% | ~475 |
 | Partners? | 58.00% | ~459 |
-| Magical Mineral Golem | 52.00% | ~411 |
-| On Outlander Lane | 51.00% | ~403 |
+| Magical Mineral Golem | 52.00% | ~412 |
+| On Outlander Lane | 51.00% | ~404 |
 | First Time Fishing | 48.00% | ~380 |
 | A Girl About the Town | 47.00% | ~372 |
 | First Time Hunting | 46.00% | ~364 |
@@ -28,8 +28,8 @@ Number of Ratings: 48  (23.09.2022)
 | One Mean Merc | 33.00% | ~261 |
 | Adept, for an Acting Mayor | 33.00% | ~261 |
 | Money, Money, Money | 33.00% | ~261 |
-| Rune Wall Master | 31.00% | ~245 |
-| The Quarry...On Foot! | 29.00% | ~229 |
+| Rune Wall Master | 31.00% | ~246 |
+| The Quarry...On Foot! | 29.00% | ~230 |
 | The Runebarrows...On Foot! | 27.00% | ~214 |
 | The Snowpeak...On Foot! | 25.00% | ~198 |
 | The Lava Ruins...On Foot! | 25.00% | ~198 |
@@ -39,7 +39,7 @@ Number of Ratings: 48  (23.09.2022)
 | The Pride of the Town | 21.00% | ~166 |
 | This Treasure I've Found | 19.00% | ~150 |
 | New Nevaeh's Number One Customer | 19.00% | ~150 |
-| Arms Master | 18.00% | ~142 |
+| Arms Master | 18.00% | ~143 |
 | Rune Scholar | 16.00% | ~127 |
 | No Treasure Left Behind | 12.00% | ~95 |
 | Sommelier | 11.00% | ~87 |
@@ -55,10 +55,10 @@ Number of Ratings: 48  (23.09.2022)
 | Full Force - CJ | 8.00% | ~63 |
 | Full Force - Garoo | 7.00% | ~55 |
 | Full Force - Isha | 7.00% | ~55 |
-| Rising Champion | 6.00% | ~47 |
+| Rising Champion | 6.00% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 791 (Ranked 306)  
-Completed: 60 (7.59%) (Ranked 53)  
+Progressed: 792 (Ranked 306)  
+Completed: 60 (7.58%) (Ranked 53)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -125,6 +125,7 @@ Completed: 60 (7.59%) (Ranked 53)
 | 2024-01-02 | 789 | 60 |
 | 2024-01-03 | 790 | 60 |
 | 2024-01-04 | 791 | 60 |
+| 2024-01-05 | 792 | 60 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

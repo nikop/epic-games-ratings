@@ -4,8 +4,8 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 403,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 277,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 274,
+  "EOS_Progressed": 275,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1244,6 +1244,11 @@
       "Time": "2024-01-04T22:09:17.0451045+00:00",
       "NumProgressed": 274,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T11:09:11.2165312+00:00",
+      "NumProgressed": 275,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -1320,7 +1325,7 @@
       "Name": "Body of Work",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "collect_notes_mother",
@@ -1336,7 +1341,7 @@
       "Name": "It\u0027s covered up for a reason",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "decrypt_one_myth",
@@ -1352,15 +1357,15 @@
       "Name": "It was worth a try",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "do_not_look",
       "SetID": "f2im8d",
       "Name": "Refuse to look",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 96
+      "UsersEstimate": 99
     },
     {
       "ID": "do_what_you_have_to",
@@ -1368,7 +1373,7 @@
       "Name": "Do what you have to",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "earn_all_trophies",
@@ -1384,7 +1389,7 @@
       "Name": "Face your fears",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "find_most_of_family_mementos",
@@ -1408,7 +1413,7 @@
       "Name": "Scraps of love",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "find_one_photo",
@@ -1440,7 +1445,7 @@
       "Name": "Finished it",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "first_step",
@@ -1528,7 +1533,7 @@
       "Name": "A piece of the story",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "playtime",
@@ -1536,7 +1541,7 @@
       "Name": "Playtime",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "preferred_parent",
@@ -1544,7 +1549,7 @@
       "Name": "Preferred Parent",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "rocket_science",
@@ -1632,7 +1637,7 @@
       "Name": "Tough conversation",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "true_reflection",
@@ -1648,7 +1653,7 @@
       "Name": "A Mosaic of Misery",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "wanderer",
@@ -1656,7 +1661,7 @@
       "Name": "Wanderer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "whispers_long_forgotten",
@@ -1671,14 +1676,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 274,
+      "Progressed": 275,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-05T10:09:02.7801359+00:00",
+  "LastChanged_Achievements": "2024-01-05T11:09:11.2165308+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.7570027+00:00",
-  "LastUpdate_Ratings": "2024-01-05T09:59:22.2824104+00:00",
-  "LastUpdate_Achievements": "2024-01-05T10:09:02.7801718+00:00"
+  "LastUpdate_Ratings": "2024-01-05T11:00:18.4164347+00:00",
+  "LastUpdate_Achievements": "2024-01-05T11:09:11.216599+00:00"
 }

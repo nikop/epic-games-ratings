@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -461,9 +461,9 @@
       "Count": 77
     }
   ],
-  "EOS_Progressed": 341115,
+  "EOS_Progressed": 341130,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 3901,
+  "EOS_NewPlayers": 3889,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12231,6 +12231,11 @@
       "Time": "2024-01-05T10:09:08.601195+00:00",
       "NumProgressed": 341115,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-05T11:09:19.3897989+00:00",
+      "NumProgressed": 341130,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -12251,7 +12256,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 10233
+      "UsersEstimate": 10234
     },
     {
       "ID": "S03_OTWA",
@@ -12555,14 +12560,14 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6822
+      "UsersEstimate": 6823
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 341115,
+      "Progressed": 341130,
       "Completed": 7
     }
   ],
@@ -12570,8 +12575,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2024-01-01T23:01:20.9565561+00:00",
-  "LastChanged_Achievements": "2024-01-05T10:09:08.6011947+00:00",
+  "LastChanged_Achievements": "2024-01-05T11:09:19.3897985+00:00",
   "LastUpdate_AppInfo": "2024-01-04T23:57:04.1079824+00:00",
-  "LastUpdate_Ratings": "2024-01-05T09:58:07.6021028+00:00",
-  "LastUpdate_Achievements": "2024-01-05T10:09:08.6012568+00:00"
+  "LastUpdate_Ratings": "2024-01-05T10:58:28.3229443+00:00",
+  "LastUpdate_Achievements": "2024-01-05T11:09:19.3898912+00:00"
 }

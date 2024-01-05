@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 335,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -721,9 +721,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4198,
+  "EOS_Progressed": 4199,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 274,
+  "EOS_NewPlayers": 275,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -11791,6 +11791,11 @@
       "Time": "2024-01-05T10:03:45.9688553+00:00",
       "NumProgressed": 4198,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-05T11:04:20.2833821+00:00",
+      "NumProgressed": 4199,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -11986,7 +11991,7 @@
       "Name": "Fellowship Power",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1721
+      "UsersEstimate": 1722
     },
     {
       "ID": "fourleafclover",
@@ -12010,7 +12015,7 @@
       "Name": "Full Party",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1175
+      "UsersEstimate": 1176
     },
     {
       "ID": "gearenchanting",
@@ -12362,7 +12367,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 3904
+      "UsersEstimate": 3905
     },
     {
       "ID": "warmachinesarmy",
@@ -12394,14 +12399,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3274
+      "UsersEstimate": 3275
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4198,
+      "Progressed": 4199,
       "Completed": 2
     }
   ],
@@ -12409,8 +12414,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-05T01:45:12.3026402+00:00",
-  "LastChanged_Achievements": "2024-01-05T10:03:45.9688549+00:00",
+  "LastChanged_Achievements": "2024-01-05T11:04:20.2833817+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:50.7213096+00:00",
-  "LastUpdate_Ratings": "2024-01-05T09:58:26.4360353+00:00",
-  "LastUpdate_Achievements": "2024-01-05T10:03:45.9690107+00:00"
+  "LastUpdate_Ratings": "2024-01-05T10:58:55.4226097+00:00",
+  "LastUpdate_Achievements": "2024-01-05T11:04:20.2835092+00:00"
 }

@@ -9337,10 +9337,10 @@
       "Count": 3624
     }
   ],
-  "EOS_Progressed": 251358,
-  "EOS_Completed": 2593,
-  "EOS_NewPlayers": 4746,
-  "EOS_NewCompleters": 18,
+  "EOS_Progressed": 251369,
+  "EOS_Completed": 2594,
+  "EOS_NewPlayers": 4723,
+  "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -38772,6 +38772,11 @@
       "Time": "2024-01-05T10:10:31.7947469+00:00",
       "NumProgressed": 251358,
       "NumCompleted": 2593
+    },
+    {
+      "Time": "2024-01-05T11:11:07.0210846+00:00",
+      "NumProgressed": 251369,
+      "NumCompleted": 2594
     }
   ],
   "TotalAchievements": 546,
@@ -39901,9 +39906,9 @@
       "ID": "objective_completed_15",
       "SetID": "cc37lbc",
       "Name": "Terror in the Dark",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 754
+      "UsersEstimate": 1005
     },
     {
       "ID": "objective_completed_150",
@@ -43150,21 +43155,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 217632,
+      "Progressed": 217643,
       "Completed": 4136
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 251358,
-      "Completed": 2593
+      "Progressed": 251369,
+      "Completed": 2594
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-05T08:00:50.5128071+00:00",
-  "LastChanged_Achievements": "2024-01-05T10:10:31.7947466+00:00",
+  "LastChanged_Achievements": "2024-01-05T11:11:07.0210842+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-05T09:59:20.8570885+00:00",
-  "LastUpdate_Achievements": "2024-01-05T10:10:31.7970533+00:00"
+  "LastUpdate_Ratings": "2024-01-05T11:00:16.2824379+00:00",
+  "LastUpdate_Achievements": "2024-01-05T11:11:07.023622+00:00"
 }

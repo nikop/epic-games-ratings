@@ -5,15 +5,15 @@ Rating: 4.21 (Ranked 949)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~2,407 |
-| Battlefields Have Memories | 81.00% | ~2,215 |
-| Enlisted | 74.00% | ~2,024 |
-| Maybe Engage a Little | 69.00% | ~1,887 |
-| No More Names | 52.00% | ~1,422 |
+| Unforeseen | 88.00% | ~2,408 |
+| Battlefields Have Memories | 81.00% | ~2,216 |
+| Enlisted | 74.00% | ~2,025 |
+| Maybe Engage a Little | 69.00% | ~1,888 |
+| No More Names | 52.00% | ~1,423 |
 | Initiate | 37.00% | ~1,012 |
-| Thrada-Kul | 33.00% | ~903 |
-| Gravity-Challenged Rocks | 27.00% | ~738 |
-| Socialite | 24.00% | ~656 |
+| Thrada-Kul | 34.00% | ~930 |
+| Gravity-Challenged Rocks | 27.00% | ~739 |
+| Socialite | 24.00% | ~657 |
 | Soldier | 23.00% | ~629 |
 | All the Major Food Groups | 22.00% | ~602 |
 | Beggars Would Ride | 20.00% | ~547 |
@@ -28,7 +28,7 @@ Rating: 4.21 (Ranked 949)
 | Armsman | 11.00% | ~301 |
 | Lights Army | 9.00% | ~246 |
 | Periapt Cerulean | 8.00% | ~219 |
-| Good Boy | 7.00% | ~191 |
+| Good Boy | 7.00% | ~192 |
 | Best Dressed | 6.00% | ~164 |
 | Periapt Viridian | 6.00% | ~164 |
 | Shroudfane Explorer | 6.00% | ~164 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 949)
 | Treasure Hunter | 0.30% | ~8 |
 | Fowl Play | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,735 (Ranked 230)  
+Progressed: 2,736 (Ranked 230)  
 Completed: 3 (0.11%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 3 (0.11%) (Ranked 303)
 | 2024-01-02 | 2,542 | 2 |
 | 2024-01-03 | 2,622 | 2 |
 | 2024-01-04 | 2,699 | 2 |
-| 2024-01-05 | 2,735 | 3 |
+| 2024-01-05 | 2,736 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

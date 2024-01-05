@@ -4,8 +4,8 @@
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 341,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
     "PcReleaseDate": "2018-11-06T17:00:00+00:00",
@@ -843,9 +843,9 @@
       "ID": "chameleon",
       "SetID": "2db2j74",
       "Name": "Chameleon",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 63
     },
     {
       "ID": "chicken",
@@ -923,9 +923,9 @@
       "ID": "poetent",
       "SetID": "2db2j74",
       "Name": "Poetent",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 35
+      "UsersEstimate": 38
     },
     {
       "ID": "put_a_ring_on_it",
@@ -939,9 +939,9 @@
       "ID": "show_me_some_skin",
       "SetID": "2db2j74",
       "Name": "Show Me Some Skin",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "strong_silent_type",
@@ -996,8 +996,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2024-01-05T10:06:02.3863442+00:00",
+  "LastChanged_Achievements": "2024-01-05T11:07:29.6722381+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:29.4282289+00:00",
-  "LastUpdate_Ratings": "2024-01-05T10:03:12.9554184+00:00",
-  "LastUpdate_Achievements": "2024-01-05T10:06:02.3863611+00:00"
+  "LastUpdate_Ratings": "2024-01-05T11:03:30.9756289+00:00",
+  "LastUpdate_Achievements": "2024-01-05T11:07:29.6722593+00:00"
 }

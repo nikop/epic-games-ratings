@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 3802,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1128,
+  "EOS_Progressed": 1127,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": -8,
+  "EOS_NewPlayers": -9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2407,6 +2407,11 @@
       "Time": "2024-01-05T10:08:43.5747977+00:00",
       "NumProgressed": 1128,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-05T11:08:44.7000049+00:00",
+      "NumProgressed": 1127,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -2466,7 +2471,7 @@
       "Name": "Monster Hunter",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 632
+      "UsersEstimate": 631
     },
     {
       "ID": "08",
@@ -2474,7 +2479,7 @@
       "Name": "Monster Slayer",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 350
+      "UsersEstimate": 349
     },
     {
       "ID": "09",
@@ -2482,7 +2487,7 @@
       "Name": "Awakening",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 270
     },
     {
       "ID": "10",
@@ -2562,7 +2567,7 @@
       "Name": "Broken Oath",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 102
+      "UsersEstimate": 101
     },
     {
       "ID": "20",
@@ -2601,7 +2606,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1128,
+      "Progressed": 1127,
       "Completed": 1
     }
   ],
@@ -2609,8 +2614,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2024-01-03T20:02:34.5349742+00:00",
-  "LastChanged_Achievements": "2024-01-05T10:08:43.5747974+00:00",
+  "LastChanged_Achievements": "2024-01-05T11:08:44.7000046+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:47.6931487+00:00",
-  "LastUpdate_Ratings": "2024-01-05T10:02:57.4101044+00:00",
-  "LastUpdate_Achievements": "2024-01-05T10:08:43.574823+00:00"
+  "LastUpdate_Ratings": "2024-01-05T11:03:07.9616606+00:00",
+  "LastUpdate_Achievements": "2024-01-05T11:08:44.7000293+00:00"
 }

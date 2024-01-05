@@ -2520,9 +2520,9 @@
       "ID": "ach_main11blessing_ghostheroes",
       "SetID": "4hg22ll",
       "Name": "Ghost Pirates? Ghost Heroes!",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 210
+      "UsersEstimate": 217
     },
     {
       "ID": "ach_main11blessing_undeadonly",
@@ -2761,8 +2761,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-03T15:00:48.7802365+00:00",
-  "LastChanged_Achievements": "2024-01-05T10:09:24.0408662+00:00",
+  "LastChanged_Achievements": "2024-01-05T11:09:40.5105909+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:16.0613697+00:00",
-  "LastUpdate_Ratings": "2024-01-05T10:00:20.4292182+00:00",
-  "LastUpdate_Achievements": "2024-01-05T10:09:24.0409199+00:00"
+  "LastUpdate_Ratings": "2024-01-05T11:01:42.6180534+00:00",
+  "LastUpdate_Achievements": "2024-01-05T11:09:40.5106715+00:00"
 }

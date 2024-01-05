@@ -3874,9 +3874,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242386,
+  "EOS_Progressed": 242392,
   "EOS_Completed": 304,
-  "EOS_NewPlayers": 443,
+  "EOS_NewPlayers": 446,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -30759,6 +30759,11 @@
       "Time": "2024-01-05T10:10:30.1228998+00:00",
       "NumProgressed": 242386,
       "NumCompleted": 304
+    },
+    {
+      "Time": "2024-01-05T11:11:05.076572+00:00",
+      "NumProgressed": 242392,
+      "NumCompleted": 304
     }
   ],
   "TotalAchievements": 138,
@@ -30810,7 +30815,7 @@
       "Name": "Nothing To Lose",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2181
+      "UsersEstimate": 2182
     },
     {
       "ID": "CURSEDPOTIONS",
@@ -30850,7 +30855,7 @@
       "Name": "Heavy Hitter",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2181
+      "UsersEstimate": 2182
     },
     {
       "ID": "DEAL99DAMAGE",
@@ -30946,7 +30951,7 @@
       "Name": "That Was Quick",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2181
+      "UsersEstimate": 2182
     },
     {
       "ID": "DIERAINBOWSOCKS",
@@ -30954,7 +30959,7 @@
       "Name": "Colorful Corpse",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2181
+      "UsersEstimate": 2182
     },
     {
       "ID": "DIETOGRAVESTONE",
@@ -31258,7 +31263,7 @@
       "Name": "Goodbye, Frog Friend",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2181
+      "UsersEstimate": 2182
     },
     {
       "ID": "KILLNICEDOG",
@@ -31354,7 +31359,7 @@
       "Name": "A Donation",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2181
+      "UsersEstimate": 2182
     },
     {
       "ID": "MULTEXPLOSIONS",
@@ -31402,7 +31407,7 @@
       "Name": "Deflection",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2181
+      "UsersEstimate": 2182
     },
     {
       "ID": "PASSIVEDEPTH6",
@@ -31522,7 +31527,7 @@
       "Name": "Explorer",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2181
+      "UsersEstimate": 2182
     },
     {
       "ID": "SPEEDRUN10",
@@ -31873,13 +31878,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242386,
+      "Progressed": 242392,
       "Completed": 304
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3866,
+      "Progressed": 3872,
       "Completed": 421
     }
   ],
@@ -31887,8 +31892,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-04T22:00:17.6708288+00:00",
-  "LastChanged_Achievements": "2024-01-05T10:10:30.1228994+00:00",
+  "LastChanged_Achievements": "2024-01-05T11:11:05.0765713+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:01.848225+00:00",
-  "LastUpdate_Ratings": "2024-01-05T09:59:14.8466243+00:00",
-  "LastUpdate_Achievements": "2024-01-05T10:10:30.1231458+00:00"
+  "LastUpdate_Ratings": "2024-01-05T11:00:07.0500687+00:00",
+  "LastUpdate_Achievements": "2024-01-05T11:11:05.076848+00:00"
 }

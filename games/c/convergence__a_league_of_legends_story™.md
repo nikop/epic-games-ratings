@@ -31,7 +31,7 @@ Rating: 4.65 (Ranked 322)
 | The Man Who Shattered Time | 18.00% | ~222 |
 | The Family Fortune | 18.00% | ~222 |
 | Whiz Kid | 15.00% | ~185 |
-| Good Neighbor | 14.00% | ~172 |
+| Good Neighbor | 15.00% | ~185 |
 | Family Memories | 13.00% | ~160 |
 | Cartographer | 13.00% | ~160 |
 | Ask Questions Later | 13.00% | ~160 |

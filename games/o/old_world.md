@@ -17,12 +17,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mason | 0.90% | ~145 |
 | Strong | 0.90% | ~145 |
 | Hanging Gardens | 0.90% | ~145 |
+| Oracle | 0.90% | ~145 |
 | Just | 0.80% | ~129 |
 | Keystone | 0.80% | ~129 |
 | Learned | 0.80% | ~129 |
 | Noble | 0.80% | ~129 |
 | Pioneer | 0.80% | ~129 |
-| Oracle | 0.80% | ~129 |
 | Judaism | 0.80% | ~129 |
 | Trade Caravan | 0.80% | ~129 |
 | Ambitious | 0.70% | ~113 |

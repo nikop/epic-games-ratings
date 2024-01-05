@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 56.00% | ~274 |
-| Starting Skyward | 49.00% | ~240 |
+| In the Black | 55.00% | ~270 |
+| Starting Skyward | 49.00% | ~241 |
 | Grime is Not Good | 43.00% | ~211 |
-| Floor Galore | 37.00% | ~181 |
-| Campaign Launch | 36.00% | ~176 |
-| Dinner Dash | 36.00% | ~176 |
+| Floor Galore | 37.00% | ~182 |
+| Campaign Launch | 36.00% | ~177 |
+| Dinner Dash | 36.00% | ~177 |
 | Need a Consult | 34.00% | ~167 |
 | Upgrade Unlock | 33.00% | ~162 |
 | It's Technical | 33.00% | ~162 |
@@ -28,9 +28,9 @@
 | Leveled Up Shops | 18.00% | ~88 |
 | We Don't Need No Education | 18.00% | ~88 |
 | Lux Living | 17.00% | ~83 |
-| Tasty Profits | 17.00% | ~83 |
 | Get Electrified | 17.00% | ~83 |
-| Rehab Expert | 16.00% | ~78 |
+| Rehab Expert | 16.00% | ~79 |
+| Tasty Profits | 16.00% | ~79 |
 | Established Fame | 15.00% | ~74 |
 | Under One Roof | 14.00% | ~69 |
 | Cashflow Chief | 14.00% | ~69 |
@@ -48,16 +48,16 @@
 | First 100 Days | 7.00% | ~34 |
 | Water Features | 7.00% | ~34 |
 | Phoning It In | 7.00% | ~34 |
-| Careful Constructor | 6.00% | ~29 |
-| Meet Me at HQ | 6.00% | ~29 |
-| Maximum Reuse | 6.00% | ~29 |
 | Revenue Royalty | 6.00% | ~29 |
 | Golden Opportunity | 6.00% | ~29 |
 | Pipe Up | 6.00% | ~29 |
-| I'm Busy Ruling | 5.00% | ~24 |
-| Profound Proceeds | 5.00% | ~24 |
-| Tuned In | 5.00% | ~24 |
-| It's a Gas | 5.00% | ~24 |
+| I'm Busy Ruling | 5.00% | ~25 |
+| Careful Constructor | 5.00% | ~25 |
+| Meet Me at HQ | 5.00% | ~25 |
+| Profound Proceeds | 5.00% | ~25 |
+| Maximum Reuse | 5.00% | ~25 |
+| Tuned In | 5.00% | ~25 |
+| It's a Gas | 5.00% | ~25 |
 | Meet ADA/360 | 4.00% | ~20 |
 | Penthouse in the Sky | 4.00% | ~20 |
 | Baron of Business | 4.00% | ~20 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 490 (Ranked 347)  
+Progressed: 491 (Ranked 347)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,6 +216,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-02 | 483 | 0 |
 | 2024-01-03 | 486 | 0 |
 | 2024-01-04 | 490 | 0 |
+| 2024-01-05 | 491 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

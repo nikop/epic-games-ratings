@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
     "PcReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -179,7 +179,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16379,
+  "EOS_Progressed": 16380,
   "EOS_Completed": 15,
   "EOS_NewPlayers": 331,
   "EOS_NewCompleters": 0,
@@ -5909,6 +5909,11 @@
       "Time": "2024-01-05T07:09:40.8503324+00:00",
       "NumProgressed": 16379,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-05T11:10:13.9481346+00:00",
+      "NumProgressed": 16380,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -5953,7 +5958,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 12284
+      "UsersEstimate": 12285
     },
     {
       "ID": "ACH_AE_14",
@@ -5969,7 +5974,7 @@
       "Name": "Right Back At You",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3603
+      "UsersEstimate": 3604
     },
     {
       "ID": "ACH_AE_16",
@@ -6153,7 +6158,7 @@
       "Name": "The Bomb",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1965
+      "UsersEstimate": 1966
     },
     {
       "ID": "ACH_AE_5",
@@ -6161,7 +6166,7 @@
       "Name": "Bad Chemistry",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1965
+      "UsersEstimate": 1966
     },
     {
       "ID": "ACH_AE_6",
@@ -6200,7 +6205,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16379,
+      "Progressed": 16380,
       "Completed": 15
     }
   ],
@@ -6208,8 +6213,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2024-01-04T16:01:00.556364+00:00",
-  "LastChanged_Achievements": "2024-01-05T10:09:48.0851883+00:00",
+  "LastChanged_Achievements": "2024-01-05T11:10:13.9481342+00:00",
   "LastUpdate_AppInfo": "2024-01-02T18:57:14.4864444+00:00",
-  "LastUpdate_Ratings": "2024-01-05T09:59:51.8060592+00:00",
-  "LastUpdate_Achievements": "2024-01-05T10:09:48.0852261+00:00"
+  "LastUpdate_Ratings": "2024-01-05T11:01:02.230544+00:00",
+  "LastUpdate_Achievements": "2024-01-05T11:10:13.9481988+00:00"
 }

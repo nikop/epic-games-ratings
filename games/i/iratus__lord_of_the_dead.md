@@ -12,7 +12,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Chainbreaker - I | 60.00% | ~29,212 |
 | Cursed Creature | 57.00% | ~27,752 |
 | Extraction | 57.00% | ~27,752 |
-| Chainbreaker - II | 54.00% | ~26,291 |
+| Chainbreaker - II | 55.00% | ~26,778 |
 | Necromancer's Apprentice | 50.00% | ~24,344 |
 | Keeper of Keys | 47.00% | ~22,883 |
 | Distillation | 43.00% | ~20,935 |

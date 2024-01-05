@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -1206,9 +1206,9 @@
       "ID": "SG_LIKEHEROESBEFOREYOU",
       "SetID": "bj5g0n4",
       "Name": "Like Heroes Before You",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 26
+      "UsersEstimate": 29
     },
     {
       "ID": "SG_LOSTINASONG",
@@ -1230,9 +1230,9 @@
       "ID": "SG_MEANTTOBE",
       "SetID": "bj5g0n4",
       "Name": "Meant To Be",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "SG_MYTIMETOSHINE",
@@ -1397,8 +1397,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-05T10:09:19.740004+00:00",
+  "LastChanged_Achievements": "2024-01-05T11:09:34.4347622+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:19.3214389+00:00",
-  "LastUpdate_Ratings": "2024-01-05T09:57:30.5937196+00:00",
-  "LastUpdate_Achievements": "2024-01-05T10:09:19.7400268+00:00"
+  "LastUpdate_Ratings": "2024-01-05T10:57:33.989126+00:00",
+  "LastUpdate_Achievements": "2024-01-05T11:09:34.4348143+00:00"
 }

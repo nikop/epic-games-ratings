@@ -6,7 +6,7 @@ Rating: 4.13 (Ranked 1,005)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Break Out | 61.00% | ~1,105 |
-| Trinity | 29.00% | ~525 |
+| Trinity | 30.00% | ~544 |
 | Find Allies | 23.00% | ~417 |
 | A Taste of Wrath | 23.00% | ~417 |
 | I Found It | 23.00% | ~417 |

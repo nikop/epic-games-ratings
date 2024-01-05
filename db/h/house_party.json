@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -383,9 +383,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7119,
+  "EOS_Progressed": 7120,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8363,6 +8363,11 @@
       "Time": "2024-01-05T08:09:39.8013994+00:00",
       "NumProgressed": 7119,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-05T11:09:23.6631462+00:00",
+      "NumProgressed": 7120,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -8548,9 +8553,9 @@
       "ID": "FriendInNeed",
       "SetID": "bmkn7o4",
       "Name": "A Friend in Need...",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 427
+      "UsersEstimate": 498
     },
     {
       "ID": "GoodRiddance",
@@ -8925,21 +8930,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 4158,
+      "Progressed": 4159,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 7119,
+      "Progressed": 7120,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-12-30T21:02:21.4914587+00:00",
-  "LastChanged_Achievements": "2024-01-05T10:09:11.7200961+00:00",
+  "LastChanged_Achievements": "2024-01-05T11:09:23.6631457+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:40.2112681+00:00",
-  "LastUpdate_Ratings": "2024-01-05T09:59:14.1140973+00:00",
-  "LastUpdate_Achievements": "2024-01-05T10:09:11.720172+00:00"
+  "LastUpdate_Ratings": "2024-01-05T11:00:05.9220291+00:00",
+  "LastUpdate_Achievements": "2024-01-05T11:09:23.6632333+00:00"
 }

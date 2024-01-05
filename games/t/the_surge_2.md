@@ -15,7 +15,7 @@ Rating: 4.27 (Ranked 899)
 | High Performance | 30.00% | ~742 |
 | Powered Up | 28.00% | ~693 |
 | Studied The Blade | 24.00% | ~594 |
-| Home Invasion | 22.00% | ~544 |
+| Home Invasion | 23.00% | ~569 |
 | Luminary | 22.00% | ~544 |
 | It's a Trap | 22.00% | ~544 |
 | True Survivor | 21.00% | ~520 |

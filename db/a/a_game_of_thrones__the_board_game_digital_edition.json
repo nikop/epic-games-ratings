@@ -1386,9 +1386,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 32493,
+  "EOS_Progressed": 32496,
   "EOS_Completed": 86,
-  "EOS_NewPlayers": 727,
+  "EOS_NewPlayers": 728,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -29351,6 +29351,11 @@
       "Time": "2024-01-05T10:10:05.7357116+00:00",
       "NumProgressed": 32493,
       "NumCompleted": 86
+    },
+    {
+      "Time": "2024-01-05T11:10:36.1132455+00:00",
+      "NumProgressed": 32496,
+      "NumCompleted": 86
     }
   ],
   "TotalAchievements": 22,
@@ -29434,7 +29439,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2599
+      "UsersEstimate": 2600
     },
     {
       "ID": "1025",
@@ -29458,7 +29463,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2924
+      "UsersEstimate": 2925
     },
     {
       "ID": "1028",
@@ -29474,7 +29479,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2599
+      "UsersEstimate": 2600
     },
     {
       "ID": "1030",
@@ -29498,7 +29503,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 12997
+      "UsersEstimate": 12998
     },
     {
       "ID": "1033",
@@ -29537,15 +29542,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 32493,
+      "Progressed": 32496,
       "Completed": 86
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-04T20:00:00.8139163+00:00",
-  "LastChanged_Achievements": "2024-01-05T10:10:05.7357112+00:00",
+  "LastChanged_Achievements": "2024-01-05T11:10:36.1132451+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:55.7773957+00:00",
-  "LastUpdate_Ratings": "2024-01-05T09:59:05.0031972+00:00",
-  "LastUpdate_Achievements": "2024-01-05T10:10:05.7358574+00:00"
+  "LastUpdate_Ratings": "2024-01-05T10:59:52.3133879+00:00",
+  "LastUpdate_Achievements": "2024-01-05T11:10:36.113413+00:00"
 }

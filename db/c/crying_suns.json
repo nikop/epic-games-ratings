@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 397,
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
@@ -709,9 +709,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 473387,
+  "EOS_Progressed": 473388,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 405,
+  "EOS_NewPlayers": 402,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27569,6 +27569,11 @@
       "Time": "2024-01-05T10:10:27.490157+00:00",
       "NumProgressed": 473387,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-05T11:11:01.9552948+00:00",
+      "NumProgressed": 473388,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 79,
@@ -27668,7 +27673,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 312435
+      "UsersEstimate": 312436
     },
     {
       "ID": "achievement_story_landa",
@@ -27756,7 +27761,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 94677
+      "UsersEstimate": 94678
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -28004,7 +28009,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 208290
+      "UsersEstimate": 208291
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -28028,7 +28033,7 @@
       "Name": "Plan for the worst",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 56806
+      "UsersEstimate": 56807
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -28211,21 +28216,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 17321,
+      "Progressed": 17322,
       "Completed": 2362
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 473387,
+      "Progressed": 473388,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2024-01-03T17:03:08.8869206+00:00",
-  "LastChanged_Achievements": "2024-01-05T10:10:27.4901566+00:00",
+  "LastChanged_Achievements": "2024-01-05T11:11:01.9552946+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:35.1454991+00:00",
-  "LastUpdate_Ratings": "2024-01-05T09:57:48.0891693+00:00",
-  "LastUpdate_Achievements": "2024-01-05T10:10:27.4903524+00:00"
+  "LastUpdate_Ratings": "2024-01-05T10:57:59.0448517+00:00",
+  "LastUpdate_Achievements": "2024-01-05T11:11:01.9554832+00:00"
 }

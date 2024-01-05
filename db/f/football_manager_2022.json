@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -9122,7 +9122,7 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 478868,
+  "EOS_Progressed": 478869,
   "EOS_Completed": 22,
   "EOS_NewPlayers": 358,
   "EOS_NewCompleters": 0,
@@ -35287,6 +35287,11 @@
       "Time": "2024-01-05T10:09:03.5124816+00:00",
       "NumProgressed": 478868,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-01-05T11:09:12.5866761+00:00",
+      "NumProgressed": 478869,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -35298,7 +35303,7 @@
       "Name": "Best In The Business",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 38309
+      "UsersEstimate": 38310
     },
     {
       "ID": "achievement_10_manager_of_the_year_awards",
@@ -35314,7 +35319,7 @@
       "Name": "You\u0027re On Fire",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 129294
+      "UsersEstimate": 129295
     },
     {
       "ID": "achievement_10_matches_without_losing",
@@ -35322,7 +35327,7 @@
       "Name": "Unbeatable!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 177181
+      "UsersEstimate": 177182
     },
     {
       "ID": "achievement_10_seasons_at_one_club",
@@ -35386,7 +35391,7 @@
       "Name": "Tremendous Trio",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 129294
+      "UsersEstimate": 129295
     },
     {
       "ID": "achievement_5_clean_sheets_in_a_row",
@@ -35410,7 +35415,7 @@
       "Name": "Team Performance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 143660
+      "UsersEstimate": 143661
     },
     {
       "ID": "achievement_5_players_in_team_of_the_year",
@@ -35418,7 +35423,7 @@
       "Name": "Fantastic Five",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 114928
+      "UsersEstimate": 114929
     },
     {
       "ID": "achievement_always_a_plan_b",
@@ -35450,7 +35455,7 @@
       "Name": "Thumping",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 177181
+      "UsersEstimate": 177182
     },
     {
       "ID": "achievement_buy_50_million_plus_player",
@@ -35538,7 +35543,7 @@
       "Name": "Full Faith",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 114928
+      "UsersEstimate": 114929
     },
     {
       "ID": "achievement_gain_bottom_to_top_promotion",
@@ -35666,7 +35671,7 @@
       "Name": "Iron Curtain",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 114928
+      "UsersEstimate": 114929
     },
     {
       "ID": "achievement_manager_of_the_month",
@@ -35682,7 +35687,7 @@
       "Name": "The Boss",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 114928
+      "UsersEstimate": 114929
     },
     {
       "ID": "achievement_most_goals_scored_in_league",
@@ -35794,7 +35799,7 @@
       "Name": "Record Sale",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 129294
+      "UsersEstimate": 129295
     },
     {
       "ID": "achievement_record_signing",
@@ -35874,7 +35879,7 @@
       "Name": "Invincible!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 52675
+      "UsersEstimate": 52676
     },
     {
       "ID": "achievement_watch_popup_match_viewer",
@@ -36081,15 +36086,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 478868,
+      "Progressed": 478869,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2024-01-04T23:57:48.8923932+00:00",
-  "LastChanged_Achievements": "2024-01-05T10:09:03.5124813+00:00",
+  "LastChanged_Achievements": "2024-01-05T11:09:12.5866756+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:28.9554136+00:00",
-  "LastUpdate_Ratings": "2024-01-05T09:57:43.064233+00:00",
-  "LastUpdate_Achievements": "2024-01-05T10:09:03.512672+00:00"
+  "LastUpdate_Ratings": "2024-01-05T10:57:51.6981374+00:00",
+  "LastUpdate_Achievements": "2024-01-05T11:09:12.5868935+00:00"
 }

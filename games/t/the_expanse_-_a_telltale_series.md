@@ -5,24 +5,24 @@ Rating: 4.54 (Ranked 546)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 17.00% | ~3,102 |
+| Oyedang, Kopengs | 17.00% | ~3,103 |
 | Captain Drummer | 14.00% | ~2,555 |
-| Celebrations are in Order | 13.00% | ~2,372 |
+| Celebrations are in Order | 13.00% | ~2,373 |
 | The Pit and the Pirates | 12.00% | ~2,190 |
 | Martian Music | 12.00% | ~2,190 |
 | Bosmang | 12.00% | ~2,190 |
 | Impossible Objects | 12.00% | ~2,190 |
-| Spore Taste | 11.00% | ~2,007 |
-| Drone Dodger | 11.00% | ~2,007 |
+| Spore Taste | 11.00% | ~2,008 |
+| Drone Dodger | 11.00% | ~2,008 |
 | Stogie for Fogey | 10.00% | ~1,825 |
 | Zen Master | 10.00% | ~420 |
-| Call it Even | 9.00% | ~1,642 |
+| Call it Even | 9.00% | ~1,643 |
 | Safe Cracker | 9.00% | ~378 |
 | Madame Undersecretary | 9.00% | ~378 |
 | Heal Thy Medic | 8.00% | ~1,460 |
-| Data Archivist | 7.00% | ~1,277 |
-| Drug Gifter | 7.00% | ~1,277 |
-| Khan's Revenge | 7.00% | ~1,277 |
+| Data Archivist | 7.00% | ~1,278 |
+| Drug Gifter | 7.00% | ~1,278 |
+| Khan's Revenge | 7.00% | ~1,278 |
 | Keep Arjun in Check | 7.00% | ~294 |
 | Doctor Approved | 6.00% | ~1,095 |
 | Bottoms up! | 6.00% | ~1,095 |
@@ -30,18 +30,18 @@ Rating: 4.54 (Ranked 546)
 | Master Negotiator | 6.00% | ~252 |
 | Data Logger | 4.00% | ~730 |
 | Miraculous Maya | 4.00% | ~730 |
-| Data Master | 3.00% | ~547 |
+| Data Master | 3.00% | ~548 |
 | Brother's Reaper | 2.00% | ~365 |
 | No Belter Left Behind | 2.00% | ~365 |
 | Debris Spree | 2.00% | ~365 |
 | Data Recoverer | 2.00% | ~365 |
-| Urshanabi Hoarder | 1.00% | ~182 |
+| Urshanabi Hoarder | 1.00% | ~183 |
 | Grave Robber | 0.70% | ~128 |
-| Data Miner | 0.60% | ~109 |
+| Data Miner | 0.60% | ~110 |
 | Scavenger Star | 0.30% | ~55 |
-| Data Collector | 0.20% | ~36 |
+| Data Collector | 0.20% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,249 (Ranked 159)  
+Progressed: 18,251 (Ranked 159)  
 Completed: 58 (0.32%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 58 (0.32%) (Ranked 246)
 | 2024-01-02 | 18,077 | 58 |
 | 2024-01-03 | 18,141 | 58 |
 | 2024-01-04 | 18,213 | 58 |
-| 2024-01-05 | 18,249 | 58 |
+| 2024-01-05 | 18,251 | 58 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

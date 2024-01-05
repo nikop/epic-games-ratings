@@ -27,8 +27,8 @@
 | The Ghost and the Lamps | 20.00% | ~16 |
 | The Woman and the Pizzeria | 18.00% | ~15 |
 | West Residence Energy | 17.00% | ~14 |
+| The Painter and the Lights | 16.00% | ~13 |
 | West Residence Lightbulbs | 15.00% | ~12 |
-| The Painter and the Lights | 15.00% | ~12 |
 | Riddle Master | 13.00% | ~11 |
 | At your service | 12.00% | ~10 |
 | East Street Lightbulbs | 12.00% | ~10 |

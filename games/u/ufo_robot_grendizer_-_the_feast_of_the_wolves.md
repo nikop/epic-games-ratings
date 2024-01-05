@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Life of Pi | 52.00% | ~35 |
-| The Remains of Fleed | 51.00% | ~34 |
+| Life of Pi | 51.00% | ~35 |
+| The Remains of Fleed | 50.00% | ~34 |
 | The Legend | 49.00% | ~33 |
 | Escape from Fleed | 40.00% | ~27 |
 | Strength in Defeat | 40.00% | ~27 |
@@ -35,7 +35,7 @@
 | Vengeance of the Wolf | 1.00% | ~1 |
 | The Fire Cannons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67 (Ranked 525)  
+Progressed: 68 (Ranked 524)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,4 +63,4 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-02 | 61 | 0 |
 | 2024-01-03 | 64 | 0 |
 | 2024-01-04 | 66 | 0 |
-| 2024-01-05 | 67 | 0 |
+| 2024-01-05 | 68 | 0 |

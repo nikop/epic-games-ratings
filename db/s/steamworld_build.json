@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 289,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -1044,9 +1044,9 @@
       "ID": "DiggingAHole",
       "SetID": "4bd750m",
       "Name": "Digging a Hole",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 190
     },
     {
       "ID": "DopaMiner",
@@ -1235,8 +1235,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2024-01-05T10:04:43.8276329+00:00",
+  "LastChanged_Achievements": "2024-01-05T11:05:40.7404763+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.9245287+00:00",
-  "LastUpdate_Ratings": "2024-01-05T10:03:18.2607653+00:00",
-  "LastUpdate_Achievements": "2024-01-05T10:04:43.8276607+00:00"
+  "LastUpdate_Ratings": "2024-01-05T11:03:38.9320755+00:00",
+  "LastUpdate_Achievements": "2024-01-05T11:05:40.7404919+00:00"
 }

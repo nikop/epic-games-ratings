@@ -3,12 +3,12 @@
   "Name": "Madden NFL 24",
   "ProductSlug": "madden-nfl-24",
   "Ranking_Rating": 1001,
-  "Ranking_Popularity": 399,
+  "Ranking_Popularity": 400,
   "Ranking_PopularitySum": 356,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -1449,9 +1449,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 8612,
+  "EOS_Progressed": 8613,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1551,
+  "EOS_NewPlayers": 1550,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10129,6 +10129,11 @@
       "Time": "2024-01-05T10:04:04.9675242+00:00",
       "NumProgressed": 8612,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T11:04:46.6937972+00:00",
+      "NumProgressed": 8613,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -10173,7 +10178,7 @@
       "Name": "MVP",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 2411
+      "UsersEstimate": 2412
     },
     {
       "ID": "achievement_14",
@@ -10245,7 +10250,7 @@
       "Name": "Clean The Pile",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "achievement_3",
@@ -10308,7 +10313,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 8612,
+      "Progressed": 8613,
       "Completed": 0
     }
   ],
@@ -10316,8 +10321,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2024-01-05T06:00:52.2529645+00:00",
-  "LastChanged_Achievements": "2024-01-05T10:04:04.9675237+00:00",
+  "LastChanged_Achievements": "2024-01-05T11:04:46.6937969+00:00",
   "LastUpdate_AppInfo": "2024-01-04T09:57:17.1124999+00:00",
-  "LastUpdate_Ratings": "2024-01-05T10:02:50.1084453+00:00",
-  "LastUpdate_Achievements": "2024-01-05T10:04:04.9675792+00:00"
+  "LastUpdate_Ratings": "2024-01-05T11:02:57.0879062+00:00",
+  "LastUpdate_Achievements": "2024-01-05T11:04:46.6938562+00:00"
 }

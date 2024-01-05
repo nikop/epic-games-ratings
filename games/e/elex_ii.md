@@ -13,8 +13,8 @@ Number of Ratings: 124  (23.09.2022)
 | Creator | 24.00% | ~43 |
 | Festival-goer | 24.00% | ~43 |
 | Peddler | 23.00% | ~41 |
-| Military Leader | 21.00% | ~38 |
-| Commander | 19.00% | ~34 |
+| Military Leader | 22.00% | ~40 |
+| Commander | 20.00% | ~36 |
 | Irissa's Fate | 16.00% | ~29 |
 | Long-Haul Flyer | 13.00% | ~23 |
 | Pass A38 | 13.00% | ~23 |
@@ -23,7 +23,7 @@ Number of Ratings: 124  (23.09.2022)
 | Berserker | 11.00% | ~20 |
 | Eternal Oblivion | 11.00% | ~20 |
 | Storyteller | 10.00% | ~18 |
-| Alb | 8.00% | ~14 |
+| Alb | 9.00% | ~16 |
 | Hunter | 7.00% | ~13 |
 | Lover | 7.00% | ~13 |
 | Banker | 6.00% | ~11 |

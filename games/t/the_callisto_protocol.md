@@ -5,29 +5,29 @@ Rating: 4.21 (Ranked 949)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 23.00% | ~4,845 |
-| The Outer Way | 23.00% | ~4,845 |
-| Desperate Times | 22.00% | ~4,634 |
-| Paper Jams | 20.00% | ~4,213 |
-| Get a Grip | 19.00% | ~4,002 |
-| Chew 'Em Up | 18.00% | ~3,792 |
-| Float Like A Butterfly | 16.00% | ~3,370 |
-| Reforged | 16.00% | ~3,370 |
-| Workplace Hazard | 14.00% | ~2,949 |
-| If the SHU Fits... | 14.00% | ~2,949 |
+| Flesh Wound | 23.00% | ~4,846 |
+| The Outer Way | 23.00% | ~4,846 |
+| Desperate Times | 22.00% | ~4,635 |
+| Paper Jams | 20.00% | ~4,214 |
+| Get a Grip | 19.00% | ~4,003 |
+| Chew 'Em Up | 18.00% | ~3,793 |
+| Float Like A Butterfly | 16.00% | ~3,371 |
+| Reforged | 16.00% | ~3,371 |
+| Workplace Hazard | 14.00% | ~2,950 |
+| If the SHU Fits... | 14.00% | ~2,950 |
 | Without A Paddle | 12.00% | ~2,528 |
-| In the Pipe, Five by Five | 11.00% | ~2,317 |
-| Crash Site | 11.00% | ~2,317 |
-| Two Heads Are Better Than One | 10.00% | ~2,106 |
-| Power Up | 10.00% | ~2,106 |
+| In the Pipe, Five by Five | 11.00% | ~2,318 |
+| Crash Site | 11.00% | ~2,318 |
+| Two Heads Are Better Than One | 10.00% | ~2,107 |
+| Power Up | 10.00% | ~2,107 |
 | Giving Back | 9.00% | ~1,896 |
 | Terminated | 9.00% | ~1,896 |
 | What Lies Beneath | 9.00% | ~1,896 |
 | Full Circle | 9.00% | ~1,896 |
-| You Need a Gun | 8.00% | ~1,685 |
+| You Need a Gun | 8.00% | ~1,686 |
 | I Do Belong Here | 7.00% | ~1,475 |
-| Keep Fighting | 7.00% | ~629 |
-| The Commonality | 5.00% | ~1,053 |
+| Keep Fighting | 7.00% | ~630 |
+| The Commonality | 5.00% | ~1,054 |
 | It's Time | 5.00% | ~450 |
 | In Striking Distance | 4.00% | ~843 |
 | One Last Job | 3.00% | ~270 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 949)
 | Big Game Hunter | 0.10% | ~9 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,065 (Ranked 151)  
+Progressed: 21,070 (Ranked 151)  
 Completed: 82 (0.39%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 82 (0.39%) (Ranked 236)
 | 2024-01-02 | 20,695 | 82 |
 | 2024-01-03 | 20,833 | 82 |
 | 2024-01-04 | 20,995 | 82 |
-| 2024-01-05 | 21,065 | 82 |
+| 2024-01-05 | 21,070 | 82 |
 ## Awards
 Max (Amazing Characters): 115  (Ranked 358)  
 Sum: 573 (Ranked 326)  

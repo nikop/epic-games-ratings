@@ -4,8 +4,8 @@
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 381,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 375,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 585,
+  "EOS_Progressed": 586,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -1109,6 +1109,11 @@
       "Time": "2024-01-04T20:11:13.9098846+00:00",
       "NumProgressed": 585,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-05T11:10:54.874607+00:00",
+      "NumProgressed": 586,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -1136,7 +1141,7 @@
       "Name": "Three Little Foxes",
       "Percentage": 10,
       "XP": 45,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "TROP003",
@@ -1184,7 +1189,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "TROP009",
@@ -1200,7 +1205,7 @@
       "Name": "Hard Fox Life",
       "Percentage": 24,
       "XP": 60,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "TROP011",
@@ -1216,7 +1221,7 @@
       "Name": "Never Give Up",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "TROP013",
@@ -1288,7 +1293,7 @@
       "Name": "Tasty",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "TROP022",
@@ -1343,7 +1348,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 585,
+      "Progressed": 586,
       "Completed": 3
     }
   ],
@@ -1351,8 +1356,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2024-01-05T10:10:21.938509+00:00",
+  "LastChanged_Achievements": "2024-01-05T11:10:54.8746067+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:39.1770758+00:00",
-  "LastUpdate_Ratings": "2024-01-05T09:58:18.5811486+00:00",
-  "LastUpdate_Achievements": "2024-01-05T10:10:21.9385262+00:00"
+  "LastUpdate_Ratings": "2024-01-05T10:58:43.8939026+00:00",
+  "LastUpdate_Achievements": "2024-01-05T11:10:54.8746319+00:00"
 }

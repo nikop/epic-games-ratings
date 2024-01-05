@@ -1,23 +1,23 @@
 # Defense Grid: The Awakening
 [Store](https://store.epicgames.com/en-US/p/defense-grid)  
 [View Rawdata](../../db/d/defense_grid__the_awakening.json)  
-Rating: 4.45 (Ranked 691)  
+Rating: 4.45 (Ranked 692)  
 Number of Ratings: 1,225  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~399,654 |
-| Happy Returns | 78.00% | ~384,852 |
-| Hey! That's mine! | 78.00% | ~384,852 |
-| Field Promotion | 74.00% | ~365,116 |
-| Leadhead | 71.00% | ~350,314 |
-| Eradicator | 67.00% | ~330,578 |
-| Surplus | 66.00% | ~325,644 |
-| I Spy | 64.00% | ~315,776 |
-| Burn Baby Burn | 59.00% | ~291,106 |
-| Yellow Beats Green | 56.00% | ~276,304 |
-| Salvage Rights | 53.00% | ~261,502 |
-| What IS that? | 51.00% | ~251,634 |
+| First Blood | 81.00% | ~399,655 |
+| Happy Returns | 78.00% | ~384,853 |
+| Hey! That's mine! | 78.00% | ~384,853 |
+| Field Promotion | 74.00% | ~365,117 |
+| Leadhead | 71.00% | ~350,315 |
+| Eradicator | 67.00% | ~330,579 |
+| Surplus | 66.00% | ~325,645 |
+| I Spy | 64.00% | ~315,777 |
+| Burn Baby Burn | 59.00% | ~291,107 |
+| Yellow Beats Green | 56.00% | ~276,305 |
+| Salvage Rights | 53.00% | ~261,503 |
+| What IS that? | 51.00% | ~251,635 |
 | Close Call | 50.00% | ~246,700 |
 | Pew Pew | 50.00% | ~246,700 |
 | Penny Pincher | 49.00% | ~241,766 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~493 |
 | You Monster | 0.10% | ~493 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 493,400 (Ranked 41)  
+Progressed: 493,401 (Ranked 41)  
 Completed: 5 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -354,7 +354,7 @@ Completed: 5 (0.00%) (Ranked 393)
 | 2024-01-02 | 493,192 | 5 |
 | 2024-01-03 | 493,263 | 5 |
 | 2024-01-04 | 493,364 | 5 |
-| 2024-01-05 | 493,400 | 5 |
+| 2024-01-05 | 493,401 | 5 |
 ## Awards
 Max (Great for Beginners): 263  (Ranked 276)  
 Sum: 1,740 (Ranked 225)  

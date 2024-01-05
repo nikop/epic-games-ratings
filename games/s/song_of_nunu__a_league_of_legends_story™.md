@@ -5,39 +5,39 @@ Rating: 4.52 (Ranked 576)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 74.00% | ~1,085 |
-| I Broke It | 73.00% | ~1,070 |
-| Better On Ice | 68.00% | ~997 |
-| Notai Notes | 66.00% | ~968 |
-| Blue Dreams | 65.00% | ~953 |
-| He's Famous! | 65.00% | ~953 |
-| Cutie Poro | 65.00% | ~953 |
-| Krugmazing | 64.00% | ~938 |
-| The Fire Below the Mountain | 61.00% | ~894 |
-| Moneyball | 60.00% | ~880 |
-| No Bites | 55.00% | ~806 |
-| Iceborn | 55.00% | ~806 |
-| Boom Things | 53.00% | ~777 |
-| Tear of Freedom | 52.00% | ~762 |
-| My Darkest Day | 49.00% | ~718 |
-| The Relentless Storm | 47.00% | ~689 |
-| Rhythm Of Willump | 46.00% | ~674 |
-| A Tragic Reminder | 45.00% | ~660 |
-| 3000 Year Blackout | 44.00% | ~645 |
-| The Finisher | 42.00% | ~616 |
-| So Close | 41.00% | ~601 |
-| You Get Used To It | 41.00% | ~601 |
-| Family | 39.00% | ~572 |
-| Biggest Snowball Ever | 39.00% | ~572 |
-| Boosted! | 39.00% | ~572 |
-| Deadliest and Biggest Snowball Ever! | 39.00% | ~572 |
-| Freeze The Ice Witch | 38.00% | ~557 |
-| True Legends | 38.00% | ~557 |
+| Feels Familiar | 74.00% | ~1,086 |
+| I Broke It | 73.00% | ~1,072 |
+| Better On Ice | 68.00% | ~998 |
+| Notai Notes | 66.00% | ~969 |
+| Blue Dreams | 65.00% | ~954 |
+| He's Famous! | 65.00% | ~954 |
+| Cutie Poro | 65.00% | ~954 |
+| Krugmazing | 64.00% | ~940 |
+| Moneyball | 60.00% | ~881 |
+| The Fire Below the Mountain | 60.00% | ~881 |
+| No Bites | 55.00% | ~807 |
+| Iceborn | 55.00% | ~807 |
+| Boom Things | 53.00% | ~778 |
+| Tear of Freedom | 52.00% | ~763 |
+| My Darkest Day | 49.00% | ~719 |
+| The Relentless Storm | 47.00% | ~690 |
+| Rhythm Of Willump | 46.00% | ~675 |
+| A Tragic Reminder | 45.00% | ~661 |
+| 3000 Year Blackout | 44.00% | ~646 |
+| The Finisher | 42.00% | ~617 |
+| So Close | 41.00% | ~602 |
+| You Get Used To It | 41.00% | ~602 |
+| Family | 39.00% | ~573 |
+| Biggest Snowball Ever | 39.00% | ~573 |
+| Boosted! | 39.00% | ~573 |
+| Deadliest and Biggest Snowball Ever! | 39.00% | ~573 |
+| Freeze The Ice Witch | 38.00% | ~558 |
+| True Legends | 38.00% | ~558 |
 | Bullseye | 36.00% | ~528 |
-| It Is Not Over | 35.00% | ~513 |
-| On The Rocks | 34.00% | ~498 |
-| Snowy Poro | 32.00% | ~469 |
-| Never Gets Old | 32.00% | ~469 |
+| It Is Not Over | 35.00% | ~514 |
+| On The Rocks | 34.00% | ~499 |
+| Snowy Poro | 32.00% | ~470 |
+| Never Gets Old | 31.00% | ~455 |
 | Vertical Power | 27.00% | ~396 |
 | One From The Heart | 13.00% | ~191 |
 | Yummy | 10.00% | ~147 |
@@ -50,7 +50,7 @@ Rating: 4.52 (Ranked 576)
 | We Are Speed | 2.00% | ~29 |
 | Sneaky Notai | 1.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,466 (Ranked 266)  
+Progressed: 1,468 (Ranked 266)  
 Completed: 9 (0.61%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 9 (0.61%) (Ranked 205)
 | 2024-01-02 | 1,441 | 9 |
 | 2024-01-03 | 1,451 | 9 |
 | 2024-01-04 | 1,464 | 9 |
-| 2024-01-05 | 1,466 | 9 |
+| 2024-01-05 | 1,468 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

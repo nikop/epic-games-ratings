@@ -13,14 +13,14 @@ Number of Ratings: 15,086  (23.09.2022)
 | Uncharted Territory | 1.00% | ~2,424 |
 | An Offering | 1.00% | ~2,424 |
 | Matching | 1.00% | ~39 |
-| Nothing To Lose | 0.90% | ~2,181 |
-| Heavy Hitter | 0.90% | ~2,181 |
-| That Was Quick | 0.90% | ~2,181 |
-| Colorful Corpse | 0.90% | ~2,181 |
-| Goodbye, Frog Friend | 0.90% | ~2,181 |
-| A Donation | 0.90% | ~2,181 |
-| Deflection | 0.90% | ~2,181 |
-| Explorer | 0.90% | ~2,181 |
+| Nothing To Lose | 0.90% | ~2,182 |
+| Heavy Hitter | 0.90% | ~2,182 |
+| That Was Quick | 0.90% | ~2,182 |
+| Colorful Corpse | 0.90% | ~2,182 |
+| Goodbye, Frog Friend | 0.90% | ~2,182 |
+| A Donation | 0.90% | ~2,182 |
+| Deflection | 0.90% | ~2,182 |
+| Explorer | 0.90% | ~2,182 |
 | Not Touching You | 0.90% | ~35 |
 | Ambitious Intent | 0.80% | ~1,939 |
 | Delving Deeper | 0.80% | ~1,939 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,386 (Ranked 72)  
+Progressed: 242,392 (Ranked 72)  
 Completed: 304 (0.13%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -405,7 +405,7 @@ Completed: 304 (0.13%) (Ranked 295)
 | 2024-01-02 | 242,247 | 303 |
 | 2024-01-03 | 242,304 | 303 |
 | 2024-01-04 | 242,358 | 304 |
-| 2024-01-05 | 242,386 | 304 |
+| 2024-01-05 | 242,392 | 304 |
 ## Awards
 Max (Quickly Understood Controls): 1,514  (Ranked 137)  
 Sum: 11,786 (Ranked 89)  

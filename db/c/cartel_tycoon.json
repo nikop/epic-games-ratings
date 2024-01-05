@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 947,
+  "EOS_Progressed": 948,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -3361,6 +3361,11 @@
       "Time": "2024-01-04T21:04:38.3617948+00:00",
       "NumProgressed": 947,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-05T11:05:07.4858551+00:00",
+      "NumProgressed": 948,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3388,7 +3393,7 @@
       "Name": "Architect of Fortunes",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "dont-miss-calls",
@@ -3420,7 +3425,7 @@
       "Name": "Our Man",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "kill-lieutenants",
@@ -3436,7 +3441,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "play-at-night",
@@ -3476,7 +3481,7 @@
       "Name": "Bite the Blow",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "sell-variety",
@@ -3492,7 +3497,7 @@
       "Name": "Camellos",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "unlock-residences",
@@ -3500,7 +3505,7 @@
       "Name": "Pampered Life",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "upgrade-building",
@@ -3508,7 +3513,7 @@
       "Name": "Take-Off",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "use-submarine",
@@ -3523,15 +3528,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 947,
+      "Progressed": 948,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-12-23T10:57:58.3271618+00:00",
-  "LastChanged_Achievements": "2024-01-05T10:04:19.6769895+00:00",
+  "LastChanged_Achievements": "2024-01-05T11:05:07.4858548+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:28.1140989+00:00",
-  "LastUpdate_Ratings": "2024-01-05T10:02:58.5830998+00:00",
-  "LastUpdate_Achievements": "2024-01-05T10:04:19.6770157+00:00"
+  "LastUpdate_Ratings": "2024-01-05T11:03:09.5226081+00:00",
+  "LastUpdate_Achievements": "2024-01-05T11:05:07.4858791+00:00"
 }
