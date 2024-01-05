@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First success | 92.00% | ~56 |
-| Suicide squad | 48.00% | ~29 |
-| Train hard, fight easy | 30.00% | ~18 |
-| Under cover | 30.00% | ~18 |
-| First blood | 30.00% | ~18 |
+| First success | 92.00% | ~57 |
+| Suicide squad | 47.00% | ~29 |
+| Train hard, fight easy | 29.00% | ~18 |
+| Under cover | 29.00% | ~18 |
+| First blood | 29.00% | ~18 |
 | Royal blessing | 23.00% | ~14 |
 | Blood and sand | 23.00% | ~14 |
 | All for one! | 21.00% | ~13 |
@@ -29,10 +29,10 @@
 | Stronger than Gellian steel | 8.00% | ~5 |
 | Protect the Healer! | 8.00% | ~5 |
 | The End | 8.00% | ~5 |
-| First among Frisians | 7.00% | ~4 |
-| Punish the Punisher | 7.00% | ~4 |
-| Cunning plan | 7.00% | ~4 |
-| Nothing is settled | 7.00% | ~4 |
+| First among Frisians | 6.00% | ~4 |
+| Punish the Punisher | 6.00% | ~4 |
+| Cunning plan | 6.00% | ~4 |
+| Nothing is settled | 6.00% | ~4 |
 | Supplier | 5.00% | ~3 |
 | The best apprentice | 5.00% | ~3 |
 | Defeat the bear | 5.00% | ~3 |
@@ -54,7 +54,7 @@
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61 (Ranked 533)  
+Progressed: 62 (Ranked 532)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,6 +92,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2023-12-31 | 57 | 0 |
 | 2024-01-01 | 59 | 0 |
 | 2024-01-03 | 61 | 0 |
+| 2024-01-05 | 62 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

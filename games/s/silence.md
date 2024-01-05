@@ -31,9 +31,9 @@
 | To err is human... | 12.00% | ~22 |
 | Master of Thermodynamics | 12.00% | ~22 |
 | Unfullfilled dreams | 12.00% | ~22 |
+| Mumbo Jumbo | 10.00% | ~18 |
 | Useless but beautiful | 9.00% | ~16 |
 | Nothing can stop me | 9.00% | ~16 |
-| Mumbo Jumbo | 9.00% | ~16 |
 | Lollipop | 7.00% | ~13 |
 | Where there is life, there is hope | 7.00% | ~13 |
 | It's nothing personal | 7.00% | ~13 |

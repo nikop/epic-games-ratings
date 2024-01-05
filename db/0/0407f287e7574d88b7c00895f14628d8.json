@@ -781,9 +781,9 @@
       "ID": "dl1",
       "SetID": "b1ggf28",
       "Name": "Clear Road",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "dl2",
@@ -917,17 +917,17 @@
       "ID": "jg3",
       "SetID": "b1ggf28",
       "Name": "Full Load",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "jk1",
       "SetID": "b1ggf28",
       "Name": "Treatment of plague",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 55
     },
     {
       "ID": "jk2",
@@ -1164,8 +1164,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-05T12:07:45.166029+00:00",
+  "LastChanged_Achievements": "2024-01-05T13:12:22.2999259+00:00",
   "LastUpdate_AppInfo": "2024-01-03T05:57:01.0489301+00:00",
-  "LastUpdate_Ratings": "2024-01-05T12:03:22.2697909+00:00",
-  "LastUpdate_Achievements": "2024-01-05T12:07:45.1660631+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:07:15.7194864+00:00",
+  "LastUpdate_Achievements": "2024-01-05T13:12:22.2999725+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "456d95ca54814c8d98db2f52346ff5de",
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
-  "Ranking_Rating": 446,
+  "Ranking_Rating": 445,
   "Ranking_Popularity": 275,
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1677,9 +1677,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 246654,
+  "EOS_Progressed": 246661,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1335,
+  "EOS_NewPlayers": 1333,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25022,6 +25022,11 @@
       "Time": "2024-01-05T12:11:03.470903+00:00",
       "NumProgressed": 246654,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-05T13:14:50.3403615+00:00",
+      "NumProgressed": 246661,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 88,
@@ -25081,7 +25086,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19732
+      "UsersEstimate": 19733
     },
     {
       "ID": "Chapter2",
@@ -25465,7 +25470,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14799
+      "UsersEstimate": 14800
     },
     {
       "ID": "ElfEpic",
@@ -25481,7 +25486,7 @@
       "Name": "Sowwy!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 88795
+      "UsersEstimate": 88798
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -25529,7 +25534,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 24665
+      "UsersEstimate": 24666
     },
     {
       "ID": "FollowBraztok",
@@ -25681,7 +25686,7 @@
       "Name": "Speedrun",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14799
+      "UsersEstimate": 14800
     },
     {
       "ID": "SupportCount4",
@@ -25736,21 +25741,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 246654,
+      "Progressed": 246661,
       "Completed": 8
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 246654,
+      "Progressed": 246661,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-05T11:57:44.9693554+00:00",
-  "LastChanged_Achievements": "2024-01-05T12:11:03.4709027+00:00",
+  "LastChanged_Achievements": "2024-01-05T13:14:50.3403608+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:29.7482382+00:00",
-  "LastUpdate_Ratings": "2024-01-05T11:57:44.9693558+00:00",
-  "LastUpdate_Achievements": "2024-01-05T12:11:03.4710817+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:01:50.8100673+00:00",
+  "LastUpdate_Achievements": "2024-01-05T13:14:50.3405189+00:00"
 }

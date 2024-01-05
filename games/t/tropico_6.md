@@ -23,10 +23,10 @@ Number of Ratings: 398  (23.09.2022)
 | Shackadelic | 9.00% | ~622 |
 | Double Trouble | 8.00% | ~553 |
 | Firestarter | 8.00% | ~553 |
+| I Owe You Nothing | 7.00% | ~484 |
 | Make Tropico Great Again! | 7.00% | ~484 |
 | French Connection | 7.00% | ~484 |
 | Don't Panic! | 6.00% | ~414 |
-| I Owe You Nothing | 6.00% | ~414 |
 | Viva Tropico! | 5.00% | ~345 |
 | Computer Says "No" | 5.00% | ~345 |
 | Beware The Betman | 5.00% | ~345 |

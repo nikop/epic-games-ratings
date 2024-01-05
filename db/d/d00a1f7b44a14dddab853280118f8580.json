@@ -1694,9 +1694,9 @@
       "ID": "ach_hint_9",
       "SetID": "5e260i9",
       "Name": "Together is better!",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 181
+      "UsersEstimate": 185
     },
     {
       "ID": "ach_items_50",
@@ -1749,8 +1749,8 @@
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2024-01-05T12:09:57.6189568+00:00",
+  "LastChanged_Achievements": "2024-01-05T13:13:54.8633959+00:00",
   "LastUpdate_AppInfo": "2024-01-05T10:56:56.7031423+00:00",
-  "LastUpdate_Ratings": "2024-01-05T12:02:53.1483473+00:00",
-  "LastUpdate_Achievements": "2024-01-05T12:09:57.6189712+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:06:53.4930976+00:00",
+  "LastUpdate_Achievements": "2024-01-05T13:13:54.8634138+00:00"
 }

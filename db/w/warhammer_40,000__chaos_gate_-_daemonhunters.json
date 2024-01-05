@@ -2,7 +2,7 @@
   "ID": "ab7e605d8d734d3ab48a243c51ca5b8e",
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
-  "Ranking_Rating": 470,
+  "Ranking_Rating": 471,
   "Ranking_Popularity": 282,
   "Ranking_PopularitySum": 334,
   "Ranking_EOS_Progress": 217,
@@ -5569,9 +5569,9 @@
       "ID": "AutoDisrupted",
       "SetID": "3jha1np",
       "Name": "Look Over There!",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 491
+      "UsersEstimate": 529
     },
     {
       "ID": "BloodAndIron",
@@ -6111,8 +6111,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-04T18:03:14.3502303+00:00",
-  "LastChanged_Achievements": "2024-01-05T12:07:48.4572932+00:00",
+  "LastChanged_Achievements": "2024-01-05T13:12:24.951932+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:30.5390055+00:00",
-  "LastUpdate_Ratings": "2024-01-05T12:03:37.2335747+00:00",
-  "LastUpdate_Achievements": "2024-01-05T12:07:48.457399+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:07:27.2031791+00:00",
+  "LastUpdate_Achievements": "2024-01-05T13:12:24.9520355+00:00"
 }

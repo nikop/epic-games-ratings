@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -115,7 +115,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 860,
+  "EOS_Progressed": 861,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
@@ -3745,6 +3745,11 @@
       "Time": "2024-01-05T10:05:42.834702+00:00",
       "NumProgressed": 860,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T13:10:19.942324+00:00",
+      "NumProgressed": 861,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -3828,7 +3833,7 @@
       "Name": "La Der des Ders",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
@@ -3836,7 +3841,7 @@
       "Name": "Das Ist Endg\u00FCltig!",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
@@ -3851,7 +3856,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 860,
+      "Progressed": 861,
       "Completed": 0
     }
   ],
@@ -3859,8 +3864,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-12-31T09:58:52.6483653+00:00",
-  "LastChanged_Achievements": "2024-01-05T12:07:04.5967162+00:00",
+  "LastChanged_Achievements": "2024-01-05T13:10:19.9423235+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:29.6055115+00:00",
-  "LastUpdate_Ratings": "2024-01-05T12:03:02.4607137+00:00",
-  "LastUpdate_Achievements": "2024-01-05T12:07:04.5967364+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:07:00.776514+00:00",
+  "LastUpdate_Achievements": "2024-01-05T13:10:19.9423517+00:00"
 }

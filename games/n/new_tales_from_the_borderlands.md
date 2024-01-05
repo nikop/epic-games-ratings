@@ -6,14 +6,14 @@ Rating: 4.08 (Ranked 1,016)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Who Needs Keys? | 51.00% | ~1,935 |
-| Totally Intentional | 46.00% | ~1,745 |
+| Totally Intentional | 46.00% | ~1,746 |
 | Each Sold Separately | 38.00% | ~1,442 |
 | We're In | 33.00% | ~1,252 |
 | You're Not Naked | 30.00% | ~1,138 |
 | Tale in the Toilet | 30.00% | ~1,138 |
-| From Zeroes... | 29.00% | ~1,100 |
-| Don't Get Cocky | 27.00% | ~1,024 |
-| Shard Snatchers | 25.00% | ~948 |
+| From Zeroes... | 29.00% | ~1,101 |
+| Don't Get Cocky | 27.00% | ~1,025 |
+| Shard Snatchers | 25.00% | ~949 |
 | You Rich Now! | 23.00% | ~873 |
 | Our Lucky Winner | 21.00% | ~797 |
 | You Poor Now! | 21.00% | ~797 |
@@ -23,7 +23,7 @@ Rating: 4.08 (Ranked 1,016)
 | ...To Heroes | 18.00% | ~683 |
 | Mas, Por Favor | 18.00% | ~683 |
 | And Still Champion... | 15.00% | ~569 |
-| Super Trusting Friend! | 9.00% | ~341 |
+| Super Trusting Friend! | 9.00% | ~342 |
 | Bring back the butt! | 4.00% | ~152 |
 | Hey, thanks! | 4.00% | ~152 |
 | Murderous Mascot Mayhem | 3.00% | ~114 |
@@ -32,7 +32,7 @@ Rating: 4.08 (Ranked 1,016)
 | Not Dolls. Action Figures! | 0.20% | ~8 |
 | You Played This Before? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,794 (Ranked 216)  
+Progressed: 3,795 (Ranked 216)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-02 | 3,785 | 0 |
 | 2024-01-03 | 3,788 | 0 |
 | 2024-01-04 | 3,793 | 0 |
-| 2024-01-05 | 3,794 | 0 |
+| 2024-01-05 | 3,795 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

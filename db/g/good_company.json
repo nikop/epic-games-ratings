@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewPlayers": 292,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5786,
+  "EOS_Progressed": 5788,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -5204,6 +5204,11 @@
       "Time": "2024-01-04T21:06:10.0447883+00:00",
       "NumProgressed": 5786,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-05T13:09:59.3580245+00:00",
+      "NumProgressed": 5788,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -5327,7 +5332,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2835
+      "UsersEstimate": 2836
     },
     {
       "ID": "ach_campaign_progress6",
@@ -5367,7 +5372,7 @@
       "Name": "Returning Home: Quick Learner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1504
+      "UsersEstimate": 1505
     },
     {
       "ID": "ach_campaign_special10",
@@ -5471,7 +5476,7 @@
       "Name": "Extra Life: Wish Granted",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "ach_campaign_special6",
@@ -5559,7 +5564,7 @@
       "Name": "High Five!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "ach_frp_high_networth",
@@ -5575,7 +5580,7 @@
       "Name": "Modular Progress",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "ach_frp_many_modules2",
@@ -5822,15 +5827,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5786,
+      "Progressed": 5788,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-12-29T23:58:32.3539857+00:00",
-  "LastChanged_Achievements": "2024-01-05T12:06:39.870349+00:00",
+  "LastChanged_Achievements": "2024-01-05T13:09:59.3580241+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:45.6175263+00:00",
-  "LastUpdate_Ratings": "2024-01-05T11:58:54.4008347+00:00",
-  "LastUpdate_Achievements": "2024-01-05T12:06:39.8704323+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:02:45.4698057+00:00",
+  "LastUpdate_Achievements": "2024-01-05T13:09:59.3581046+00:00"
 }

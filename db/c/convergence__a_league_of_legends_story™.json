@@ -57,9 +57,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1233,
+  "EOS_Progressed": 1234,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -3632,6 +3632,11 @@
       "Time": "2024-01-05T12:11:04.1246128+00:00",
       "NumProgressed": 1233,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-05T13:14:50.888522+00:00",
+      "NumProgressed": 1234,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -4019,7 +4024,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "WarwickDefeated",
@@ -4066,7 +4071,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1233,
+      "Progressed": 1234,
       "Completed": 6
     }
   ],
@@ -4074,8 +4079,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-05T11:57:15.4004085+00:00",
-  "LastChanged_Achievements": "2024-01-05T12:11:04.1246125+00:00",
+  "LastChanged_Achievements": "2024-01-05T13:14:50.8885216+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:23.9308133+00:00",
-  "LastUpdate_Ratings": "2024-01-05T11:57:15.4004095+00:00",
-  "LastUpdate_Achievements": "2024-01-05T12:11:04.1246613+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:01:28.2867675+00:00",
+  "LastUpdate_Achievements": "2024-01-05T13:14:50.8885769+00:00"
 }

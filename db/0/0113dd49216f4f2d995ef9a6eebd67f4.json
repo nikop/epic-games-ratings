@@ -1142,9 +1142,9 @@
       "ID": "SG_BRAVEONTIME",
       "SetID": "bj5g0n4",
       "Name": "Brave On Time",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "SG_CHARISMATIC",
@@ -1158,9 +1158,9 @@
       "ID": "SG_CUNNING",
       "SetID": "bj5g0n4",
       "Name": "Cunning",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "SG_ENDOFTHEROAD",
@@ -1397,8 +1397,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-05T12:09:37.4483751+00:00",
+  "LastChanged_Achievements": "2024-01-05T13:13:38.4790738+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:19.3214389+00:00",
-  "LastUpdate_Ratings": "2024-01-05T11:57:44.9680549+00:00",
-  "LastUpdate_Achievements": "2024-01-05T12:09:37.4484145+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:01:50.7980595+00:00",
+  "LastUpdate_Achievements": "2024-01-05T13:13:38.4791058+00:00"
 }

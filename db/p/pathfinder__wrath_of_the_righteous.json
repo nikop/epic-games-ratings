@@ -4817,9 +4817,9 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 13035,
+  "EOS_Progressed": 13039,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18952,6 +18952,11 @@
       "Time": "2024-01-05T12:11:07.4867645+00:00",
       "NumProgressed": 13035,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T13:14:53.8012234+00:00",
+      "NumProgressed": 13039,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -18963,7 +18968,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3519
+      "UsersEstimate": 3521
     },
     {
       "ID": "02_BurningCity",
@@ -18987,7 +18992,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1173
+      "UsersEstimate": 1174
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -18995,7 +19000,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -19003,7 +19008,7 @@
       "Name": "Heart of the Fallen Land",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "07_FinalThreshold",
@@ -19019,7 +19024,7 @@
       "Name": "Path of the Angel",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "09_PathOfDemon",
@@ -19099,7 +19104,7 @@
       "Name": "Mythic Choices",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1955
+      "UsersEstimate": 1956
     },
     {
       "ID": "19_EqualToAroden",
@@ -19163,7 +19168,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1564
+      "UsersEstimate": 1565
     },
     {
       "ID": "28_GreatUpstart",
@@ -19195,7 +19200,7 @@
       "Name": "Divide and Rule",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "32_MythicReinforcements",
@@ -19203,7 +19208,7 @@
       "Name": "Mythic Reinforcements",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "33_DefendersHeart",
@@ -19331,7 +19336,7 @@
       "Name": "A Spark",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2607
+      "UsersEstimate": 2608
     },
     {
       "ID": "49_Flame",
@@ -19339,7 +19344,7 @@
       "Name": "A Flame",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "50_HeyIKnowYou",
@@ -19347,7 +19352,7 @@
       "Name": "Hey, I Know You!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "51_DemonicAndDivine",
@@ -19355,7 +19360,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -19890,21 +19895,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11817,
+      "Progressed": 11821,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 13035,
+      "Progressed": 13039,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2024-01-05T04:58:13.2501035+00:00",
-  "LastChanged_Achievements": "2024-01-05T12:11:07.4867642+00:00",
+  "LastChanged_Achievements": "2024-01-05T13:14:53.8012228+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:46.0860245+00:00",
-  "LastUpdate_Ratings": "2024-01-05T11:58:48.6817027+00:00",
-  "LastUpdate_Achievements": "2024-01-05T12:11:07.4869336+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:02:40.4702263+00:00",
+  "LastUpdate_Achievements": "2024-01-05T13:14:53.8014145+00:00"
 }

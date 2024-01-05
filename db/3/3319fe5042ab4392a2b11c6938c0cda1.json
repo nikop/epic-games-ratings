@@ -4,7 +4,7 @@
   "ProductSlug": "thief-5bb95f",
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
@@ -634,7 +634,7 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "ae95dh3",
       "Name": "Obsessive Compulsive",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -770,9 +770,9 @@
       "ID": "NEW_ACHIEVEMENT_1_24",
       "SetID": "ae95dh3",
       "Name": "All That Glitters",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 37
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_25",
@@ -834,9 +834,9 @@
       "ID": "NEW_ACHIEVEMENT_1_31",
       "SetID": "ae95dh3",
       "Name": "A Friend in Need",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -937,8 +937,8 @@
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2024-01-05T12:07:03.8888251+00:00",
+  "LastChanged_Achievements": "2024-01-05T13:10:19.4240455+00:00",
   "LastUpdate_AppInfo": "2024-01-03T16:57:23.9346853+00:00",
-  "LastUpdate_Ratings": "2024-01-05T11:57:49.1914086+00:00",
-  "LastUpdate_Achievements": "2024-01-05T12:07:03.8888556+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:01:54.2036569+00:00",
+  "LastUpdate_Achievements": "2024-01-05T13:10:19.4240769+00:00"
 }

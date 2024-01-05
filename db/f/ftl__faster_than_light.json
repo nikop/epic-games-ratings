@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 250,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 562,
+  "Ranking_EOS_NewPlayers": 563,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2019-12-26T16:00:00+00:00",
@@ -1960,10 +1960,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 1333,
       "NumberOfAwardsMax": 172
+    },
+    {
+      "Time": "2024-01-05T13:03:35.0612515+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1334,
+      "NumberOfAwardsMax": 172
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1333,
+  "NumberOfAwards": 1334,
   "NumberOfAwardsMax": 172,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -2007,7 +2013,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 140
+      "Count": 141
     },
     {
       "Text": "This game is Relaxing",
@@ -2045,8 +2051,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:43.0008392+00:00",
-  "LastChanged": "2024-01-04T20:59:28.901304+00:00",
+  "LastChanged": "2024-01-05T13:03:35.0612513+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:43.2126525+00:00",
-  "LastUpdate_Ratings": "2024-01-05T11:59:58.0770077+00:00",
-  "LastUpdate_Achievements": "2024-01-05T12:09:17.7730515+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:03:35.0612519+00:00",
+  "LastUpdate_Achievements": "2024-01-05T13:13:22.0558139+00:00"
 }

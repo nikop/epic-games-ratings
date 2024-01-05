@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewPlayers": 350,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 485,
+  "EOS_Progressed": 486,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1740,6 +1740,11 @@
       "Time": "2024-01-05T08:11:20.3233179+00:00",
       "NumProgressed": 485,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T13:14:51.9625303+00:00",
+      "NumProgressed": 486,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -2077,9 +2082,9 @@
       "ID": "GREEN_AREAS_1",
       "SetID": "44dlcg0",
       "Name": "I like parks",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 83
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -2269,9 +2274,9 @@
       "ID": "SPORTS_1",
       "SetID": "44dlcg0",
       "Name": "Sport is good for you",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 39
     },
     {
       "ID": "SPORTS_2",
@@ -2382,7 +2387,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 485,
+      "Progressed": 486,
       "Completed": 0
     }
   ],
@@ -2390,8 +2395,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2024-01-05T12:11:05.3115786+00:00",
+  "LastChanged_Achievements": "2024-01-05T13:14:51.9625298+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:29.1030987+00:00",
-  "LastUpdate_Ratings": "2024-01-05T12:03:13.2438185+00:00",
-  "LastUpdate_Achievements": "2024-01-05T12:11:05.3116586+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:07:09.0263229+00:00",
+  "LastUpdate_Achievements": "2024-01-05T13:14:51.9626078+00:00"
 }

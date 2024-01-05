@@ -2,12 +2,12 @@
   "ID": "8962863aee2f4e7483fc37d4719c3f69",
   "Name": "PAYDAY 3",
   "ProductSlug": "payday-3",
-  "Ranking_Rating": 1042,
-  "Ranking_Popularity": 550,
+  "Ranking_Rating": 1044,
+  "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 562,
+  "Ranking_EOS_NewPlayers": 563,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-21T15:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4,
+  "Rating": 3.99,
   "RatingHistory": [
     {
       "Time": "2023-09-22T23:59:41.345092+00:00",
@@ -619,18 +619,24 @@
       "Rating": 4,
       "NumberOfAwards": 69,
       "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2024-01-05T13:06:47.2949418+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 70,
+      "NumberOfAwardsMax": 25
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 69,
-  "NumberOfAwardsMax": 24,
-  "MaxAwardTitle": "Diverse Characters",
+  "NumberOfAwards": 70,
+  "NumberOfAwardsMax": 25,
+  "MaxAwardTitle": "Realistic Visuals",
   "Tags": [
     {
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game has Diverse Characters",
@@ -657,8 +663,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-21T15:59:03.5169673+00:00",
   "FirstSeenRating": "2023-09-22T23:59:41.3450917+00:00",
-  "LastChanged": "2024-01-05T05:00:34.4420906+00:00",
+  "LastChanged": "2024-01-05T13:06:47.2949417+00:00",
   "LastUpdate_AppInfo": "2024-01-05T09:57:07.5420882+00:00",
-  "LastUpdate_Ratings": "2024-01-05T12:02:46.1814112+00:00",
-  "LastUpdate_Achievements": "2024-01-05T12:05:04.3572817+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:06:47.2949425+00:00",
+  "LastUpdate_Achievements": "2024-01-05T13:08:40.3793018+00:00"
 }

@@ -7,8 +7,8 @@ Number of Ratings: 266  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Venture Outward | 73.00% | ~3,281 |
-| Ready for Winter | 61.00% | ~2,741 |
-| Ready for Summer | 48.00% | ~2,157 |
+| Ready for Winter | 61.00% | ~2,742 |
+| Ready for Summer | 48.00% | ~2,158 |
 | Cordon Bleu | 41.00% | ~1,843 |
 | Tapped! | 35.00% | ~1,573 |
 | Eureka | 30.00% | ~1,348 |
@@ -22,7 +22,7 @@ Number of Ratings: 266  (23.09.2022)
 | Apex Predator | 14.00% | ~629 |
 | The Power of Faith | 12.00% | ~539 |
 | Strange amalgams | 11.00% | ~494 |
-| The Power of Freedom | 9.00% | ~404 |
+| The Power of Freedom | 9.00% | ~405 |
 | Ace Detective | 7.00% | ~315 |
 | Gift from the Ancestors | 7.00% | ~315 |
 | Magic is a science | 7.00% | ~315 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~13 |
 | The Absolute Pinnacle. | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,494 (Ranked 205)  
+Progressed: 4,495 (Ranked 205)  
 Completed: 5 (0.11%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,11 +295,11 @@ Completed: 5 (0.11%) (Ranked 303)
 | 2024-01-02 | 4,428 | 5 |
 | 2024-01-03 | 4,452 | 5 |
 | 2024-01-04 | 4,478 | 5 |
-| 2024-01-05 | 4,494 | 5 |
+| 2024-01-05 | 4,495 | 5 |
 ## Awards
-Max (Highly Recommended): 35  (Ranked 498)  
+Max (Highly Recommended): 35  (Ranked 499)  
 Sum: 246 (Ranked 400)  
-Diff (max vs sum): 98  
+Diff (max vs sum): 99  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 35 |

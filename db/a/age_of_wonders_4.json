@@ -3,7 +3,7 @@
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 378,
-  "Ranking_Popularity": 478,
+  "Ranking_Popularity": 479,
   "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 307,
@@ -717,9 +717,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6877,
+  "EOS_Progressed": 6879,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 430,
+  "EOS_NewPlayers": 429,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10412,6 +10412,11 @@
       "Time": "2024-01-05T11:04:26.3551036+00:00",
       "NumProgressed": 6877,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-05T13:08:11.6418496+00:00",
+      "NumProgressed": 6879,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10439,7 +10444,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "12",
@@ -10463,7 +10468,7 @@
       "Name": "Full Ascension",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "15",
@@ -10477,9 +10482,9 @@
       "ID": "16",
       "SetID": "3aa2279",
       "Name": "God Emperor",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 138
     },
     {
       "ID": "17",
@@ -10591,7 +10596,7 @@
       "Name": "Stronger Together",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "3",
@@ -10631,7 +10636,7 @@
       "Name": "Seat of Power",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "34",
@@ -10902,13 +10907,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6877,
+      "Progressed": 6879,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6877,
+      "Progressed": 6879,
       "Completed": 7
     }
   ],
@@ -10916,8 +10921,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-03T13:04:27.6429549+00:00",
-  "LastChanged_Achievements": "2024-01-05T12:04:29.0701129+00:00",
+  "LastChanged_Achievements": "2024-01-05T13:08:11.6418492+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-05T12:02:59.1211115+00:00",
-  "LastUpdate_Achievements": "2024-01-05T12:04:29.0701892+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:06:58.1057485+00:00",
+  "LastUpdate_Achievements": "2024-01-05T13:08:11.641939+00:00"
 }

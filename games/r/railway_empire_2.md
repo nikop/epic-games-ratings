@@ -1,21 +1,21 @@
 # Railway Empire 2
 [Store](https://store.epicgames.com/en-US/p/railway-empire-2-46840c)  
 [View Rawdata](../../db/r/railway_empire_2.json)  
-Rating: 4.42 (Ranked 736)  
+Rating: 4.42 (Ranked 737)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Country Bumpkin | 76.00% | ~2,003 |
-| A new Journey | 75.00% | ~1,976 |
-| From X to Y | 74.00% | ~1,950 |
-| Departure | 74.00% | ~1,950 |
-| Way of Iron | 71.00% | ~1,871 |
-| Mystery Tour | 70.00% | ~1,844 |
-| We brake for nobody | 69.00% | ~1,818 |
-| Brainstorm | 66.00% | ~1,739 |
-| Mind the Gap | 66.00% | ~1,739 |
-| Travel Company | 66.00% | ~1,739 |
-| All around the World | 64.00% | ~1,686 |
+| A new Journey | 75.00% | ~1,977 |
+| From X to Y | 74.00% | ~1,951 |
+| Departure | 74.00% | ~1,951 |
+| Way of Iron | 71.00% | ~1,872 |
+| Mystery Tour | 70.00% | ~1,845 |
+| We brake for nobody | 68.00% | ~1,792 |
+| Brainstorm | 66.00% | ~1,740 |
+| Mind the Gap | 66.00% | ~1,740 |
+| Travel Company | 66.00% | ~1,740 |
+| All around the World | 64.00% | ~1,687 |
 | Right through the middle | 59.00% | ~1,555 |
 | Facility Manager | 54.00% | ~1,423 |
 | Poor Devil | 54.00% | ~1,423 |
@@ -24,7 +24,7 @@ Rating: 4.42 (Ranked 736)
 | Apprentice | 42.00% | ~1,107 |
 | Access granted | 36.00% | ~949 |
 | Going once, going twice, sold | 36.00% | ~949 |
-| Bull and bear | 35.00% | ~922 |
+| Bull and bear | 35.00% | ~923 |
 | Stoker | 34.00% | ~896 |
 | Full Steam ahead | 33.00% | ~870 |
 | All mine | 31.00% | ~817 |
@@ -52,7 +52,7 @@ Rating: 4.42 (Ranked 736)
 | Call of Duty | 10.00% | ~264 |
 | Unstoppable | 9.00% | ~237 |
 | Track to the Future | 9.00% | ~237 |
-| Conductor | 7.00% | ~184 |
+| Conductor | 7.00% | ~185 |
 | Let off some steam | 5.00% | ~132 |
 | Engineer | 4.00% | ~105 |
 | Accurate | 4.00% | ~105 |
@@ -61,7 +61,7 @@ Rating: 4.42 (Ranked 736)
 | United States | 0.60% | ~16 |
 | Together we stand | 0.50% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,635 (Ranked 231)  
+Progressed: 2,636 (Ranked 231)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-02 | 2,607 | 0 |
 | 2024-01-03 | 2,617 | 0 |
 | 2024-01-04 | 2,630 | 0 |
-| 2024-01-05 | 2,635 | 0 |
+| 2024-01-05 | 2,636 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

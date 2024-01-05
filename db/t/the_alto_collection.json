@@ -3,7 +3,7 @@
   "Name": "The Alto Collection",
   "ProductSlug": "the-alto-collection",
   "Ranking_Rating": 217,
-  "Ranking_Popularity": 453,
+  "Ranking_Popularity": 454,
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 369,
@@ -952,9 +952,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 53569,
+  "EOS_Progressed": 53574,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1123,
+  "EOS_NewPlayers": 1124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30537,6 +30537,11 @@
       "Time": "2024-01-05T12:04:32.9956669+00:00",
       "NumProgressed": 53569,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-05T13:08:14.7287494+00:00",
+      "NumProgressed": 53574,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -30588,7 +30593,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 14464
+      "UsersEstimate": 14465
     },
     {
       "ID": "goals180",
@@ -30660,7 +30665,7 @@
       "Name": "My Little Friend",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2678
+      "UsersEstimate": 2679
     },
     {
       "ID": "nomad",
@@ -30668,7 +30673,7 @@
       "Name": "Nomad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 9107
+      "UsersEstimate": 9108
     },
     {
       "ID": "novice",
@@ -30676,7 +30681,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 8035
+      "UsersEstimate": 8036
     },
     {
       "ID": "playerFelipe",
@@ -30740,7 +30745,7 @@
       "Name": "One With The Board",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 2678
+      "UsersEstimate": 2679
     },
     {
       "ID": "proximityFly1000",
@@ -30756,7 +30761,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 13392
+      "UsersEstimate": 13394
     },
     {
       "ID": "sandboarder",
@@ -30859,15 +30864,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 53569,
+      "Progressed": 53574,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2024-01-03T14:00:16.7622175+00:00",
-  "LastChanged_Achievements": "2024-01-05T12:04:32.9956665+00:00",
+  "LastChanged_Achievements": "2024-01-05T13:08:14.7287488+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:20.753487+00:00",
-  "LastUpdate_Ratings": "2024-01-05T12:02:43.8701149+00:00",
-  "LastUpdate_Achievements": "2024-01-05T12:04:32.9958154+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:06:45.7081486+00:00",
+  "LastUpdate_Achievements": "2024-01-05T13:08:14.7289145+00:00"
 }

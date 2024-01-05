@@ -999,7 +999,7 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 7512,
+  "EOS_Progressed": 7513,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
@@ -9629,6 +9629,11 @@
       "Time": "2024-01-05T06:09:27.3787275+00:00",
       "NumProgressed": 7512,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T13:14:45.4767652+00:00",
+      "NumProgressed": 7513,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -9672,7 +9677,7 @@
       "Name": "Commodity Trader",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 2178
+      "UsersEstimate": 2179
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -9680,7 +9685,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4507
+      "UsersEstimate": 4508
     },
     {
       "ID": "Control_All_Relics",
@@ -9744,7 +9749,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5784
+      "UsersEstimate": 5785
     },
     {
       "ID": "First_Race_Met",
@@ -9760,7 +9765,7 @@
       "Name": "Design a Ship",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 2028
+      "UsersEstimate": 2029
     },
     {
       "ID": "First_Stream_Travel",
@@ -9776,7 +9781,7 @@
       "Name": "Worker Specialization",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 5709
+      "UsersEstimate": 5710
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -9960,7 +9965,7 @@
       "Name": "Unleash My Power",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4507
+      "UsersEstimate": 4508
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -10144,7 +10149,7 @@
       "Name": "Conquest Victory!",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "Win_CustomFaction",
@@ -10200,7 +10205,7 @@
       "Name": "Win Quickly",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "Win_Research",
@@ -10215,15 +10220,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7512,
+      "Progressed": 7513,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-12-27T21:02:14.3045553+00:00",
-  "LastChanged_Achievements": "2024-01-05T12:10:58.2256967+00:00",
+  "LastChanged_Achievements": "2024-01-05T13:14:45.4767648+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:30.2533612+00:00",
-  "LastUpdate_Ratings": "2024-01-05T11:57:46.0470983+00:00",
-  "LastUpdate_Achievements": "2024-01-05T12:10:58.2257944+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:01:51.5859531+00:00",
+  "LastUpdate_Achievements": "2024-01-05T13:14:45.4768654+00:00"
 }

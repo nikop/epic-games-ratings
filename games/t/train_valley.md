@@ -40,8 +40,8 @@ Number of Ratings: 28  (23.09.2022)
 | Forgotten | 3.00% | ~19 |
 | Lucky vandal | 3.00% | ~19 |
 | Salesman | 1.00% | ~6 |
+| Juggler | 0.80% | ~5 |
 | BBQ | 0.60% | ~4 |
-| Juggler | 0.60% | ~4 |
 | Maniac vandal | 0.60% | ~4 |
 | Mega-railroad | 0.50% | ~3 |
 | Vandal | 0.30% | ~2 |

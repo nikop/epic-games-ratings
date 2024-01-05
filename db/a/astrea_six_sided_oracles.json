@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 331,
+  "EOS_Progressed": 332,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
@@ -1389,6 +1389,11 @@
       "Time": "2024-01-05T10:09:05.6001794+00:00",
       "NumProgressed": 331,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T13:13:22.4188316+00:00",
+      "NumProgressed": 332,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-22T01:45:20.357802+00:00",
@@ -1409,7 +1414,7 @@
       "Name": "Anomaly Destroyer",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "AnomalyMaster",
@@ -1487,9 +1492,9 @@
       "ID": "AstralAdventurer",
       "SetID": "1jeo1g7",
       "Name": "Astral Adventurer",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 110
     },
     {
       "ID": "AstralSeeker",
@@ -1625,7 +1630,7 @@
       "Name": "Dicesmithing Time!",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "EndlessTricks",
@@ -1681,7 +1686,7 @@
       "Name": "Heart Gate",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "HeavyPurger",
@@ -1745,7 +1750,7 @@
       "Name": "Mechanical Buddy",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "MeissasSavior",
@@ -1753,7 +1758,7 @@
       "Name": "Meissa\u0027s Savior",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "MindIlluminator",
@@ -1761,7 +1766,7 @@
       "Name": "Mind Illuminator",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "NoctuanChampionAchievement",
@@ -1823,9 +1828,9 @@
       "ID": "PurificationPioneer",
       "SetID": "1jeo1g7",
       "Name": "Purification Pioneer",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 266
     },
     {
       "ID": "ReflexiveMind",
@@ -1905,7 +1910,7 @@
       "Name": "Stellar Dismantler",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "StellarHaste",
@@ -1913,7 +1918,7 @@
       "Name": "Stellar Haste",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "TheAbyssalTerror",
@@ -2025,7 +2030,7 @@
       "Name": "Wave Bender",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "WildsKeeper",
@@ -2184,14 +2189,14 @@
     {
       "ID": "1jeo1g7",
       "IsBase": true,
-      "Progressed": 331,
+      "Progressed": 332,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-05T12:09:18.0334209+00:00",
+  "LastChanged_Achievements": "2024-01-05T13:13:22.4188311+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:34.5642416+00:00",
-  "LastUpdate_Ratings": "2024-01-05T11:58:00.9543735+00:00",
-  "LastUpdate_Achievements": "2024-01-05T12:09:18.0335179+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:02:03.728801+00:00",
+  "LastUpdate_Achievements": "2024-01-05T13:13:22.4189181+00:00"
 }

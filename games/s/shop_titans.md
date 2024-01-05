@@ -1,20 +1,20 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 1,045)  
+Rating: 3.99 (Ranked 1,044)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 10.00% | ~14,959 |
-| Titan's First Steps | 10.00% | ~14,959 |
-| Basic in Bulk | 9.00% | ~13,463 |
-| Tinkle of Coins | 9.00% | ~13,463 |
-| Disintermediation | 7.00% | ~10,471 |
-| It's Free Real Estate | 7.00% | ~10,471 |
-| Capitalism Ho! | 7.00% | ~10,471 |
-| Another Satisfied Customer | 6.00% | ~8,975 |
-| Budding Merchant | 6.00% | ~8,975 |
+| Sponsored by Argon | 10.00% | ~14,960 |
+| Titan's First Steps | 10.00% | ~14,960 |
+| Basic in Bulk | 9.00% | ~13,464 |
+| Tinkle of Coins | 9.00% | ~13,464 |
+| Disintermediation | 7.00% | ~10,472 |
+| It's Free Real Estate | 7.00% | ~10,472 |
+| Capitalism Ho! | 7.00% | ~10,472 |
+| Another Satisfied Customer | 6.00% | ~8,976 |
+| Budding Merchant | 6.00% | ~8,976 |
 | One Easy Payment | 5.00% | ~7,480 |
 | Some Assembly Required | 5.00% | ~7,480 |
 | Pretty Penny | 5.00% | ~7,480 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~598 |
 | Capitalist Camaraderie | 0.20% | ~299 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 149,591 (Ranked 86)  
+Progressed: 149,603 (Ranked 86)  
 Completed: 342 (0.23%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -379,7 +379,7 @@ Completed: 342 (0.23%) (Ranked 267)
 | 2024-01-02 | 149,077 | 341 |
 | 2024-01-03 | 149,238 | 342 |
 | 2024-01-04 | 149,471 | 342 |
-| 2024-01-05 | 149,591 | 342 |
+| 2024-01-05 | 149,603 | 342 |
 ## Awards
 Max (Great for Beginners): 4,945  (Ranked 78)  
 Sum: 27,931 (Ranked 52)  

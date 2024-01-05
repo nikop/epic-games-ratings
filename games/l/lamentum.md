@@ -6,17 +6,17 @@ Rating: 4.28 (Ranked 889)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The creature | 79.00% | ~273 |
-| Grau Hill | 76.00% | ~262 |
-| A forgotten language | 69.00% | ~238 |
-| Lord Wesley | 34.00% | ~117 |
+| Grau Hill | 76.00% | ~263 |
+| A forgotten language | 69.00% | ~239 |
+| Lord Wesley | 34.00% | ~118 |
 | My dear Magda | 27.00% | ~93 |
 | One step down | 26.00% | ~90 |
 | Lord Clayton | 22.00% | ~76 |
 | The other side of the mirror | 17.00% | ~59 |
 | Little Mary | 14.00% | ~48 |
-| There is freedom in awakening | 12.00% | ~41 |
-| Ritual | 10.00% | ~34 |
-| Cowardice | 10.00% | ~34 |
+| There is freedom in awakening | 12.00% | ~42 |
+| Ritual | 10.00% | ~35 |
+| Cowardice | 10.00% | ~35 |
 | Bloodrush | 8.00% | ~28 |
 | The moth and the flame | 7.00% | ~24 |
 | True magic doesn't exist | 7.00% | ~24 |
@@ -25,8 +25,8 @@ Rating: 4.28 (Ranked 889)
 | Sacrifice | 3.00% | ~10 |
 | Lamentum | 3.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 345 (Ranked 378)  
-Completed: 9 (2.61%) (Ranked 121)  
+Progressed: 346 (Ranked 377)  
+Completed: 9 (2.60%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -94,6 +94,7 @@ Completed: 9 (2.61%) (Ranked 121)
 | 2024-01-02 | 342 | 9 |
 | 2024-01-03 | 344 | 9 |
 | 2024-01-04 | 345 | 9 |
+| 2024-01-05 | 346 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

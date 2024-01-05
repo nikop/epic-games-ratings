@@ -6,12 +6,12 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 46.00% | ~453 |
-| Double Kill | 40.00% | ~394 |
+| Adept | 46.00% | ~454 |
+| Double Kill | 40.00% | ~395 |
 | Critical Hit | 22.00% | ~217 |
 | Veteran | 22.00% | ~217 |
 | Dressed For Success | 15.00% | ~148 |
-| Veni, Vidi, Vici | 10.00% | ~98 |
+| Veni, Vidi, Vici | 10.00% | ~99 |
 | Multi Kill | 9.00% | ~89 |
 | Humiliation | 9.00% | ~89 |
 | Sorcerous Spree | 8.00% | ~79 |
@@ -20,7 +20,7 @@ Number of Ratings: 292  (23.09.2022)
 | Whoops! | 6.00% | ~59 |
 | The Song of Stoutheart | 5.00% | ~49 |
 | Don't Touch My Stuff | 5.00% | ~49 |
-| Trojan Horse | 4.00% | ~39 |
+| Trojan Horse | 4.00% | ~40 |
 | Expert Essence Employment | 3.00% | ~30 |
 | Venisti, Vidisti, Perdidisti | 3.00% | ~30 |
 | This Spot's Taken | 2.00% | ~20 |
@@ -34,7 +34,7 @@ Number of Ratings: 292  (23.09.2022)
 | Such A Fungi | 1.00% | ~10 |
 | Grand Master | 1.00% | ~10 |
 | In The Thick of It | 0.90% | ~9 |
-| Death To Diplomacy | 0.50% | ~5 |
+| Death To Diplomacy | 0.60% | ~6 |
 | Unlimited Power! | 0.50% | ~5 |
 | Get Over Here! | 0.50% | ~5 |
 | Cleave | 0.50% | ~5 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 985 (Ranked 290)  
+Progressed: 988 (Ranked 290)  
 Completed: 0 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,11 +117,11 @@ Completed: 0 (0.00%) (Ranked 393)
 | 2024-01-02 | 944 | 0 |
 | 2024-01-03 | 962 | 0 |
 | 2024-01-04 | 978 | 0 |
-| 2024-01-05 | 985 | 0 |
+| 2024-01-05 | 988 | 0 |
 ## Awards
-Max (Quickly Understood Controls): 29  (Ranked 524)  
+Max (Quickly Understood Controls): 29  (Ranked 525)  
 Sum: 251 (Ranked 399)  
-Diff (max vs sum): 125  
+Diff (max vs sum): 126  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 29 |

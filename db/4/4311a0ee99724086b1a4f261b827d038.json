@@ -3,7 +3,7 @@
   "Name": "Homeworld Remastered Collection",
   "ProductSlug": "homeworld-remastered-collection",
   "Ranking_Rating": 523,
-  "Ranking_Popularity": 498,
+  "Ranking_Popularity": 499,
   "Ranking_PopularitySum": 408,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 393,
@@ -851,9 +851,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 241513,
+  "EOS_Progressed": 241523,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1290,
+  "EOS_NewPlayers": 1286,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20111,6 +20111,11 @@
       "Time": "2024-01-05T12:10:54.236321+00:00",
       "NumProgressed": 241513,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T13:14:42.1629119+00:00",
+      "NumProgressed": 241523,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -20179,7 +20184,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 50718
+      "UsersEstimate": 50720
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -20187,7 +20192,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21736
+      "UsersEstimate": 21737
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -20219,7 +20224,7 @@
       "Name": "Diamond Shoals Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 7245
+      "UsersEstimate": 7246
     },
     {
       "ID": "HW1_MISSION7_COMPLETE",
@@ -20227,7 +20232,7 @@
       "Name": "The Gardens of Kadesh Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 7245
+      "UsersEstimate": 7246
     },
     {
       "ID": "HW1_MISSION8_COMPLETE",
@@ -20307,7 +20312,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 33812
+      "UsersEstimate": 33813
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -20315,7 +20320,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 16906
+      "UsersEstimate": 16907
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -20379,7 +20384,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 60378
+      "UsersEstimate": 60381
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -20394,7 +20399,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 241513,
+      "Progressed": 241523,
       "Completed": 0
     }
   ],
@@ -20402,8 +20407,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2024-01-04T22:59:24.464887+00:00",
-  "LastChanged_Achievements": "2024-01-05T12:10:54.2363208+00:00",
+  "LastChanged_Achievements": "2024-01-05T13:14:42.1629117+00:00",
   "LastUpdate_AppInfo": "2024-01-05T06:57:19.696761+00:00",
-  "LastUpdate_Ratings": "2024-01-05T12:01:00.3718134+00:00",
-  "LastUpdate_Achievements": "2024-01-05T12:10:54.236421+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:04:24.09264+00:00",
+  "LastUpdate_Achievements": "2024-01-05T13:14:42.163023+00:00"
 }

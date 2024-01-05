@@ -41,9 +41,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 778,
+  "EOS_Progressed": 779,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -2896,6 +2896,11 @@
       "Time": "2024-01-05T12:09:44.7050663+00:00",
       "NumProgressed": 778,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-05T13:13:44.5326959+00:00",
+      "NumProgressed": 779,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -2908,7 +2913,7 @@
       "Name": "New arm",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -2940,7 +2945,7 @@
       "Name": "Yuna\u0027s Promise",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ACHIEVEMENT_15_PromiseMin",
@@ -3044,15 +3049,15 @@
       "Name": "The First Bond",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
       "SetID": "9bke6f1",
       "Name": "Novice Scavenger",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 443
+      "UsersEstimate": 452
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -3060,7 +3065,7 @@
       "Name": "Master Craftsman",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "ACHIEVEMENT_5_FirstWall",
@@ -3068,7 +3073,7 @@
       "Name": "First wall",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
@@ -3082,9 +3087,9 @@
       "ID": "ACHIEVEMENT_7_SecondWall",
       "SetID": "9bke6f1",
       "Name": "Second wall",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 257
+      "UsersEstimate": 249
     },
     {
       "ID": "ACHIEVEMENT_8_StoneRetriever",
@@ -3092,7 +3097,7 @@
       "Name": "Stone Retriever",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ACHIEVEMENT_9_Flawless",
@@ -3107,7 +3112,7 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 778,
+      "Progressed": 779,
       "Completed": 2
     }
   ],
@@ -3115,8 +3120,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2023-12-31T15:57:10.2736309+00:00",
-  "LastChanged_Achievements": "2024-01-05T12:09:44.7050658+00:00",
+  "LastChanged_Achievements": "2024-01-05T13:13:44.5326899+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.2091482+00:00",
-  "LastUpdate_Ratings": "2024-01-05T12:00:49.9315406+00:00",
-  "LastUpdate_Achievements": "2024-01-05T12:09:44.7050945+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:04:14.6015779+00:00",
+  "LastUpdate_Achievements": "2024-01-05T13:13:44.5327252+00:00"
 }

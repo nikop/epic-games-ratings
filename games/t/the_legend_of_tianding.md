@@ -20,10 +20,10 @@
 | Fight Fire With Fire | 28.00% | ~19 |
 | Urban Explorer | 26.00% | ~18 |
 | Big Eater | 25.00% | ~17 |
+| Tour Guide | 25.00% | ~17 |
 | Not Today | 25.00% | ~17 |
 | Coward | 25.00% | ~17 |
-| Tour Guide | 23.00% | ~16 |
-| Tomb Raider | 22.00% | ~15 |
+| Tomb Raider | 23.00% | ~16 |
 | The Real O.G. | 20.00% | ~14 |
 | The Hero of the People | 16.00% | ~11 |
 | Talk to the Fist | 13.00% | ~9 |

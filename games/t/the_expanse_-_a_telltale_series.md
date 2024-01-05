@@ -15,10 +15,10 @@ Rating: 4.54 (Ranked 546)
 | Spore Taste | 11.00% | ~2,008 |
 | Drone Dodger | 11.00% | ~2,008 |
 | Stogie for Fogey | 10.00% | ~1,825 |
-| Zen Master | 10.00% | ~420 |
+| Zen Master | 10.00% | ~421 |
 | Call it Even | 9.00% | ~1,643 |
-| Safe Cracker | 9.00% | ~378 |
-| Madame Undersecretary | 9.00% | ~378 |
+| Safe Cracker | 9.00% | ~379 |
+| Madame Undersecretary | 9.00% | ~379 |
 | Heal Thy Medic | 8.00% | ~1,460 |
 | Data Archivist | 7.00% | ~1,278 |
 | Drug Gifter | 7.00% | ~1,278 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 546)
 | Scavenger Star | 0.30% | ~55 |
 | Data Collector | 0.20% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,251 (Ranked 159)  
+Progressed: 18,253 (Ranked 159)  
 Completed: 58 (0.32%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 58 (0.32%) (Ranked 246)
 | 2024-01-02 | 18,077 | 58 |
 | 2024-01-03 | 18,141 | 58 |
 | 2024-01-04 | 18,213 | 58 |
-| 2024-01-05 | 18,251 | 58 |
+| 2024-01-05 | 18,253 | 58 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

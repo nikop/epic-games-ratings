@@ -3,7 +3,7 @@
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
   "Ranking_Rating": 546,
-  "Ranking_Popularity": 498,
+  "Ranking_Popularity": 499,
   "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 303,
@@ -547,9 +547,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4494,
+  "EOS_Progressed": 4495,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -7732,6 +7732,11 @@
       "Time": "2024-01-05T12:04:00.3873635+00:00",
       "NumProgressed": 4494,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-05T13:07:48.0940248+00:00",
+      "NumProgressed": 4495,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -7927,7 +7932,7 @@
       "Name": "Ready for Summer",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 2157
+      "UsersEstimate": 2158
     },
     {
       "ID": "ReadyforWinter_42",
@@ -7935,7 +7940,7 @@
       "Name": "Ready for Winter",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 2741
+      "UsersEstimate": 2742
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -8015,7 +8020,7 @@
       "Name": "The Power of Freedom",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "TheStuffOfLegends",
@@ -8078,15 +8083,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4494,
+      "Progressed": 4495,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2024-01-03T19:03:38.0112146+00:00",
-  "LastChanged_Achievements": "2024-01-05T12:04:00.3873628+00:00",
+  "LastChanged_Achievements": "2024-01-05T13:07:48.0940245+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:23.571083+00:00",
-  "LastUpdate_Ratings": "2024-01-05T12:03:22.9840903+00:00",
-  "LastUpdate_Achievements": "2024-01-05T12:04:00.3874135+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:07:16.2454421+00:00",
+  "LastUpdate_Achievements": "2024-01-05T13:07:48.0940896+00:00"
 }

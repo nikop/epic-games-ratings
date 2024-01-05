@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1127,
+  "EOS_Progressed": 1128,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": -9,
+  "EOS_NewPlayers": -8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2412,6 +2412,11 @@
       "Time": "2024-01-05T11:08:44.7000049+00:00",
       "NumProgressed": 1127,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-05T13:12:56.6082254+00:00",
+      "NumProgressed": 1128,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -2471,7 +2476,7 @@
       "Name": "Monster Hunter",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "08",
@@ -2479,7 +2484,7 @@
       "Name": "Monster Slayer",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "09",
@@ -2487,7 +2492,7 @@
       "Name": "Awakening",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "10",
@@ -2567,7 +2572,7 @@
       "Name": "Broken Oath",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "20",
@@ -2606,7 +2611,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1127,
+      "Progressed": 1128,
       "Completed": 1
     }
   ],
@@ -2614,8 +2619,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2024-01-03T20:02:34.5349742+00:00",
-  "LastChanged_Achievements": "2024-01-05T12:08:47.7052564+00:00",
+  "LastChanged_Achievements": "2024-01-05T13:12:56.6082245+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:47.6931487+00:00",
-  "LastUpdate_Ratings": "2024-01-05T12:03:10.6006834+00:00",
-  "LastUpdate_Achievements": "2024-01-05T12:08:47.7052802+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:07:07.0019805+00:00",
+  "LastUpdate_Achievements": "2024-01-05T13:12:56.6082535+00:00"
 }

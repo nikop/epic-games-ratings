@@ -10,19 +10,19 @@
 | Police officers ✔ | 29.00% | ~93 |
 | Mutation ✔ | 26.00% | ~83 |
 | Doberman ✔ | 14.00% | ~45 |
-| Weapon ✔ | 11.00% | ~35 |
+| Weapon ✔ | 12.00% | ~38 |
 | Chess ✔ | 10.00% | ~32 |
 | Master of Unlocking ✔ | 9.00% | ~29 |
 | Survival ✔ | 8.00% | ~26 |
 | Hospital ✔ | 8.00% | ~26 |
 | Thirst ✔ | 8.00% | ~26 |
 | City ✔ | 7.00% | ~22 |
+| Fraternal help ✔ | 7.00% | ~22 |
 | Alice ✔ | 6.00% | ~19 |
 | Antivirus ✔ | 6.00% | ~19 |
 | Betty ✔ | 6.00% | ~19 |
 | Cheats ✔ | 6.00% | ~19 |
 | Food ✔ | 6.00% | ~19 |
-| Fraternal help ✔ | 6.00% | ~19 |
 | King of survival ✔ | 6.00% | ~19 |
 | Boss 1 ✔ | 5.00% | ~16 |
 | Brain ✔ | 5.00% | ~16 |

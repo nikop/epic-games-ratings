@@ -3,8 +3,8 @@
   "Name": "Redfall",
   "ProductSlug": "redfall",
   "Ranking_Rating": 1089,
-  "Ranking_Popularity": 560,
-  "Ranking_PopularitySum": 563,
+  "Ranking_Popularity": 562,
+  "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 223,
@@ -357,9 +357,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2256,
+  "EOS_Progressed": 2257,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4002,6 +4002,11 @@
       "Time": "2024-01-05T11:04:39.3742342+00:00",
       "NumProgressed": 2256,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T13:08:22.6026964+00:00",
+      "NumProgressed": 2257,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4037,7 +4042,7 @@
       "Name": "Enter of Your Own Free Will",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "Achievement_006",
@@ -4077,7 +4082,7 @@
       "Name": "Welcome to the Neighborhood",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "Achievement_011",
@@ -4229,7 +4234,7 @@
       "Name": "Throw The First Stone",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "Achievement_030",
@@ -4259,9 +4264,9 @@
       "ID": "Achievement_033",
       "SetID": "6b34g18",
       "Name": "Wounded Whispers",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 293
+      "UsersEstimate": 271
     },
     {
       "ID": "Achievement_034",
@@ -4317,7 +4322,7 @@
       "Name": "Heart Attack",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "Achievement_041",
@@ -4540,7 +4545,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2256,
+      "Progressed": 2257,
       "Completed": 0
     }
   ],
@@ -4548,8 +4553,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-04T23:58:10.1541435+00:00",
-  "LastChanged_Achievements": "2024-01-05T12:04:42.6196487+00:00",
+  "LastChanged_Achievements": "2024-01-05T13:08:22.602696+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.8280502+00:00",
-  "LastUpdate_Ratings": "2024-01-05T11:58:22.4509549+00:00",
-  "LastUpdate_Achievements": "2024-01-05T12:04:42.6197255+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:02:21.2320367+00:00",
+  "LastUpdate_Achievements": "2024-01-05T13:08:22.6027614+00:00"
 }

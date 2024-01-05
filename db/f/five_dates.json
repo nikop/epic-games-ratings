@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1970,
+  "EOS_Progressed": 1972,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 281,
+  "EOS_NewPlayers": 282,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -3700,6 +3700,11 @@
       "Time": "2024-01-05T12:10:49.3592198+00:00",
       "NumProgressed": 1970,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-05T13:14:37.8715438+00:00",
+      "NumProgressed": 1972,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 15,
@@ -3711,7 +3716,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 1931
+      "UsersEstimate": 1933
     },
     {
       "ID": "booty_call",
@@ -3735,7 +3740,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 1891
+      "UsersEstimate": 1893
     },
     {
       "ID": "hold_my_beer",
@@ -3743,7 +3748,7 @@
       "Name": "Hold my Beer",
       "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 1202
+      "UsersEstimate": 1203
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -3791,7 +3796,7 @@
       "Name": "Only Thyme Will Tell",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "planting_the_seed",
@@ -3799,7 +3804,7 @@
       "Name": "Planting the Seed",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "smooth_criminal",
@@ -3815,7 +3820,7 @@
       "Name": "Sore Loser",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "we_go_again",
@@ -3823,14 +3828,14 @@
       "Name": "We Go Again",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     }
   ],
   "AchievementSets": [
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 1970,
+      "Progressed": 1972,
       "Completed": 12
     }
   ],
@@ -3838,8 +3843,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2024-01-05T12:10:49.3592195+00:00",
+  "LastChanged_Achievements": "2024-01-05T13:14:37.8715432+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:27.9788979+00:00",
-  "LastUpdate_Ratings": "2024-01-05T11:57:42.5171511+00:00",
-  "LastUpdate_Achievements": "2024-01-05T12:10:49.3592615+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:01:48.7323622+00:00",
+  "LastUpdate_Achievements": "2024-01-05T13:14:37.871581+00:00"
 }

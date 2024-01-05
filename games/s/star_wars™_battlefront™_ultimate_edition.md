@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 87.00% | ~2,273 |
-| Off to a good start | 62.00% | ~1,620 |
-| Do... or do not. There is no try | 52.00% | ~1,359 |
-| A good blaster at your side | 25.00% | ~653 |
-| I suggest a new strategy | 17.00% | ~444 |
-| Great shot, kid! | 16.00% | ~418 |
-| Scrap collector | 15.00% | ~392 |
-| All right, I'll give it a try | 15.00% | ~392 |
+| New Recruit | 87.00% | ~2,278 |
+| Off to a good start | 62.00% | ~1,623 |
+| Do... or do not. There is no try | 52.00% | ~1,361 |
+| A good blaster at your side | 25.00% | ~654 |
+| I suggest a new strategy | 17.00% | ~445 |
+| Great shot, kid! | 16.00% | ~419 |
+| Scrap collector | 15.00% | ~393 |
+| All right, I'll give it a try | 15.00% | ~393 |
 | Shoot first | 13.00% | ~340 |
 | The power of the Force | 12.00% | ~314 |
 | Collector | 12.00% | ~314 |
@@ -28,10 +28,10 @@
 | Distinguished | 4.00% | ~105 |
 | A tremor in the Force | 4.00% | ~105 |
 | Support the troops | 4.00% | ~105 |
-| Safety ain't the point of a joyride | 3.00% | ~78 |
-| Not bad for a little furball | 3.00% | ~78 |
-| Patience you must have | 3.00% | ~78 |
-| Don't underestimate the Force | 3.00% | ~78 |
+| Safety ain't the point of a joyride | 3.00% | ~79 |
+| Not bad for a little furball | 3.00% | ~79 |
+| Patience you must have | 3.00% | ~79 |
+| Don't underestimate the Force | 3.00% | ~79 |
 | The Force is strong with this one | 2.00% | ~52 |
 | I've been waiting for you | 2.00% | ~52 |
 | When 900 years old you reach... | 2.00% | ~52 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,613 (Ranked 233)  
+Progressed: 2,618 (Ranked 233)  
 Completed: 1 (0.04%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 1 (0.04%) (Ranked 347)
 | 2024-01-02 | 2,520 | 1 |
 | 2024-01-03 | 2,563 | 1 |
 | 2024-01-04 | 2,595 | 1 |
-| 2024-01-05 | 2,613 | 1 |
+| 2024-01-05 | 2,618 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

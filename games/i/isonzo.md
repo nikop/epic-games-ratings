@@ -1,21 +1,21 @@
 # Isonzo
 [Store](https://store.epicgames.com/en-US/p/isonzo)  
 [View Rawdata](../../db/i/isonzo.json)  
-Rating: 4.58 (Ranked 470)  
+Rating: 4.58 (Ranked 471)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You Shall Not Pass | 51.00% | ~4,984 |
 | Tutti Eroi! | 50.00% | ~4,886 |
-| Peak Performance | 45.00% | ~4,397 |
+| Peak Performance | 45.00% | ~4,398 |
 | Avanti Savoia! | 44.00% | ~4,300 |
-| Mamma Mia! | 35.00% | ~3,420 |
+| Mamma Mia! | 35.00% | ~3,421 |
 | Conrad von Hotzensocks | 32.00% | ~3,127 |
 | Gabriele D'Annunzio | 32.00% | ~3,127 |
-| Silver Lining | 27.00% | ~2,638 |
+| Silver Lining | 27.00% | ~2,639 |
 | Aurelio Baruzzi | 21.00% | ~2,052 |
-| Decimation | 20.00% | ~1,954 |
+| Decimation | 20.00% | ~1,955 |
 | Donatello | 19.00% | ~1,857 |
 | Insubordination | 19.00% | ~1,857 |
 | The Italian Job | 19.00% | ~1,857 |
@@ -30,9 +30,9 @@ Number of Ratings: 98  (23.09.2022)
 | Machiavelli | 11.00% | ~1,075 |
 | The Devil's Paintbrush | 10.00% | ~977 |
 | Thus With A Kiss | 10.00% | ~977 |
-| Dante's Inferno | 9.00% | ~879 |
-| I Have the High Ground | 9.00% | ~879 |
-| Millenial | 9.00% | ~879 |
+| Dante's Inferno | 9.00% | ~880 |
+| I Have the High Ground | 9.00% | ~880 |
+| Millenial | 9.00% | ~880 |
 | The Show Must Go On | 8.00% | ~782 |
 | Tosca | 8.00% | ~782 |
 | 12th Bottle of the Isonzo | 6.00% | ~586 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~39 |
 | Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,772 (Ranked 182)  
+Progressed: 9,773 (Ranked 182)  
 Completed: 10 (0.10%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,11 +306,11 @@ Completed: 10 (0.10%) (Ranked 307)
 | 2024-01-02 | 9,741 | 10 |
 | 2024-01-03 | 9,754 | 10 |
 | 2024-01-04 | 9,768 | 10 |
-| 2024-01-05 | 9,772 | 10 |
+| 2024-01-05 | 9,773 | 10 |
 ## Awards
-Max (Diverse Characters): 42  (Ranked 474)  
+Max (Diverse Characters): 42  (Ranked 475)  
 Sum: 338 (Ranked 371)  
-Diff (max vs sum): 103  
+Diff (max vs sum): 104  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 42 |

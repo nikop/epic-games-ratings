@@ -3,7 +3,7 @@
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
   "Ranking_Rating": 1031,
-  "Ranking_Popularity": 478,
+  "Ranking_Popularity": 479,
   "Ranking_PopularitySum": 437,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 335,
@@ -723,7 +723,7 @@
   ],
   "EOS_Progressed": 4201,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 275,
+  "EOS_NewPlayers": 273,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -12306,9 +12306,9 @@
       "ID": "thepowerofawakening",
       "SetID": "3nl4bcg",
       "Name": "The power of Awakening",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 336
+      "UsersEstimate": 378
     },
     {
       "ID": "theunstoppable",
@@ -12419,8 +12419,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-05T01:45:12.3026402+00:00",
-  "LastChanged_Achievements": "2024-01-05T12:04:22.8502548+00:00",
+  "LastChanged_Achievements": "2024-01-05T13:08:06.7359269+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:50.7213096+00:00",
-  "LastUpdate_Ratings": "2024-01-05T11:59:08.1493422+00:00",
-  "LastUpdate_Achievements": "2024-01-05T12:04:22.8503452+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:02:55.6936186+00:00",
+  "LastUpdate_Achievements": "2024-01-05T13:08:06.736081+00:00"
 }

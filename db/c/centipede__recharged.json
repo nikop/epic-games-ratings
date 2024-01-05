@@ -353,9 +353,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24753,
+  "EOS_Progressed": 24754,
   "EOS_Completed": 118,
-  "EOS_NewPlayers": 471,
+  "EOS_NewPlayers": 470,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -22178,6 +22178,11 @@
       "Time": "2024-01-05T12:04:15.3697973+00:00",
       "NumProgressed": 24753,
       "NumCompleted": 118
+    },
+    {
+      "Time": "2024-01-05T13:08:00.2791773+00:00",
+      "NumProgressed": 24754,
+      "NumCompleted": 118
     }
   ],
   "TotalAchievements": 16,
@@ -22253,7 +22258,7 @@
       "Name": "I Am The Storm",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 3960
+      "UsersEstimate": 3961
     },
     {
       "ID": "Make_Rock_Not_War",
@@ -22301,7 +22306,7 @@
       "Name": "Still Burnin\u0027",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 3960
+      "UsersEstimate": 3961
     },
     {
       "ID": "The_Reaper",
@@ -22316,15 +22321,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 24753,
+      "Progressed": 24754,
       "Completed": 118
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-12-26T13:00:27.7460321+00:00",
-  "LastChanged_Achievements": "2024-01-05T12:04:15.3697967+00:00",
+  "LastChanged_Achievements": "2024-01-05T13:08:00.2791769+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:56.3485527+00:00",
-  "LastUpdate_Ratings": "2024-01-05T11:59:50.0404393+00:00",
-  "LastUpdate_Achievements": "2024-01-05T12:04:15.3698946+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:03:28.7794524+00:00",
+  "LastUpdate_Achievements": "2024-01-05T13:08:00.2792919+00:00"
 }

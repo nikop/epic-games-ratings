@@ -29,6 +29,7 @@ Rating: 4.05 (Ranked 1,031)
 | The Unstoppable | 11.00% | ~462 |
 | Doing My Part | 9.00% | ~378 |
 | Scientist | 9.00% | ~378 |
+| The power of Awakening | 9.00% | ~378 |
 | Challenger | 8.00% | ~336 |
 | Daily Quest Completionist | 8.00% | ~336 |
 | Frostfire Liberator | 8.00% | ~336 |
@@ -37,7 +38,6 @@ Rating: 4.05 (Ranked 1,031)
 | Moving Up The Ladder | 8.00% | ~336 |
 | Relic Of The Past | 8.00% | ~336 |
 | Scroll Master | 8.00% | ~336 |
-| The power of Awakening | 8.00% | ~336 |
 | Four Leaf Clover | 7.00% | ~294 |
 | Here We Go Again | 7.00% | ~294 |
 | Master Enchanter | 7.00% | ~294 |
@@ -338,9 +338,9 @@ Completed: 2 (0.05%) (Ranked 335)
 | 2024-01-04 | 4,183 | 2 |
 | 2024-01-05 | 4,201 | 2 |
 ## Awards
-Max (Great for Beginners): 40  (Ranked 478)  
+Max (Great for Beginners): 40  (Ranked 479)  
 Sum: 154 (Ranked 437)  
-Diff (max vs sum): 41  
+Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 40 |

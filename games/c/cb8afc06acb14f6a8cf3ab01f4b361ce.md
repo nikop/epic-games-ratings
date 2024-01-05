@@ -5,14 +5,14 @@ Rating: 4.21 (Ranked 949)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 5.00% | ~17,057 |
-| May the Torchbearer light our way | 4.00% | ~13,646 |
-| A powerful aura was here | 3.00% | ~10,234 |
-| Let's raise the stakes!! | 2.00% | ~6,823 |
-| Rumors are true | 1.00% | ~3,411 |
-| Pride is a sin, young Knight | 1.00% | ~3,411 |
-| Your wounds… They are healing so fast! | 1.00% | ~3,411 |
-| We'll be careful | 0.90% | ~3,070 |
+| The touch of Chaos | 5.00% | ~17,059 |
+| May the Torchbearer light our way | 4.00% | ~13,647 |
+| A powerful aura was here | 3.00% | ~10,235 |
+| Let's raise the stakes!! | 2.00% | ~6,824 |
+| Rumors are true | 1.00% | ~3,412 |
+| Pride is a sin, young Knight | 1.00% | ~3,412 |
+| Your wounds… They are healing so fast! | 1.00% | ~3,412 |
+| We'll be careful | 0.90% | ~3,071 |
 | Back to your senses | 0.70% | ~2,388 |
 | They tricked me | 0.70% | ~2,388 |
 | They won't last long | 0.70% | ~2,388 |
@@ -24,8 +24,8 @@ Rating: 4.21 (Ranked 949)
 | This is the end | 0.50% | ~1,706 |
 | We can choose to fight | 0.50% | ~1,706 |
 | I took a risk | 0.50% | ~1,706 |
-| Their fate is sealed | 0.30% | ~1,023 |
-| Not even from this world | 0.30% | ~1,023 |
+| Their fate is sealed | 0.30% | ~1,024 |
+| Not even from this world | 0.30% | ~1,024 |
 | No damsels in distress | 0.20% | ~682 |
 | Chaos be damned! | 0.20% | ~682 |
 | The immortal is bound to reborn | 0.10% | ~341 |
@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 949)
 | Something... unnatural | 0.10% | ~341 |
 | We strike as one | 0.10% | ~341 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 341,149 (Ranked 58)  
+Progressed: 341,175 (Ranked 58)  
 Completed: 7 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,10 +150,10 @@ Completed: 7 (0.00%) (Ranked 393)
 | 2024-01-02 | 339,962 | 7 |
 | 2024-01-03 | 340,492 | 7 |
 | 2024-01-04 | 340,944 | 7 |
-| 2024-01-05 | 341,149 | 7 |
+| 2024-01-05 | 341,175 | 7 |
 ## Awards
-Max (Great Boss Battles): 77  (Ranked 404)  
-Sum: 77 (Ranked 480)  
+Max (Great Boss Battles): 77  (Ranked 405)  
+Sum: 77 (Ranked 481)  
 Diff (max vs sum): -76  
 | Award | Count |
 | ----- | ----- |

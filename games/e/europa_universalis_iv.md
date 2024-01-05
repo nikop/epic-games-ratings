@@ -6,7 +6,7 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 0.60% | ~2,954 |
+| Until death do us apart | 0.60% | ~2,955 |
 | That's a Grand Army | 0.50% | ~2,462 |
 | Victorious! | 0.50% | ~2,462 |
 | That's a Grand Navy | 0.40% | ~1,970 |
@@ -225,6 +225,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Qing of China | 0.10% | ~492 |
 | Queen of Conquest | 0.10% | ~492 |
 | Queen of Mercury | 0.10% | ~492 |
+| Rags and Riches | 0.10% | ~492 |
 | The Reapers | 0.10% | ~492 |
 | Redecorating | 0.10% | ~492 |
 | Relentless Push East | 0.10% | ~492 |
@@ -353,7 +354,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Philippine Tiger | 0.00% | ~0 |
 | Purify the Temple | 0.00% | ~0 |
 | Quizquiz Pro Quo | 0.00% | ~0 |
-| Rags and Riches | 0.00% | ~0 |
 | Raja of the Rajput Reich | 0.00% | ~0 |
 | Rekindling the Flames | 0.00% | ~0 |
 | Sailor Mon | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 492,391 (Ranked 43)  
+Progressed: 492,440 (Ranked 43)  
 Completed: 1 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -630,10 +630,10 @@ Completed: 1 (0.00%) (Ranked 393)
 | 2024-01-02 | 490,643 | 1 |
 | 2024-01-03 | 491,381 | 1 |
 | 2024-01-04 | 492,104 | 1 |
-| 2024-01-05 | 492,391 | 1 |
+| 2024-01-05 | 492,440 | 1 |
 ## Awards
 Max (Educational): 7,708  (Ranked 54)  
-Sum: 63,575 (Ranked 24)  
+Sum: 63,587 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -643,7 +643,7 @@ Diff (max vs sum): 30
 | This game has Challenging Combat | 7,331 |
 | This game is Extremely Fun | 7,229 |
 | This game is Relaxing | 7,066 |
-| This game has Competitive Players | 6,898 |
+| This game has Competitive Players | 6,910 |
 | This game has Amazing Storytelling | 6,435 |
 | This game has Amazing Characters | 5,941 |
 | This game has Obsessive Gameplay | 3,351 |
@@ -1003,4 +1003,4 @@ Diff (max vs sum): 30
 | 2024-01-02 | 4.69 | - | 7,680 | 63,302 |
 | 2024-01-03 | 4.69 | - | 7,696 | 63,439 |
 | 2024-01-04 | 4.69 | - | 7,708 | 63,557 |
-| 2024-01-05 | 4.69 | - | 7,708 | 63,575 |
+| 2024-01-05 | 4.69 | - | 7,708 | 63,587 |

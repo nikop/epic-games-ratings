@@ -3,11 +3,11 @@
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
   "Ranking_Rating": 235,
-  "Ranking_Popularity": 524,
+  "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -450,9 +450,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 985,
+  "EOS_Progressed": 988,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3520,6 +3520,11 @@
       "Time": "2024-01-05T12:09:47.5327236+00:00",
       "NumProgressed": 985,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T13:13:46.7954322+00:00",
+      "NumProgressed": 988,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3546,9 +3551,9 @@
       "ID": "ArleonCampaignFinaleOnHard",
       "SetID": "71c0n9i",
       "Name": "Death To Diplomacy",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ArtifactsEquipped",
@@ -3676,7 +3681,7 @@
       "Name": "Double Kill",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "FlameAttackKillCount",
@@ -3844,7 +3849,7 @@
       "Name": "Trojan Horse",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "UltraKill",
@@ -3860,7 +3865,7 @@
       "Name": "Adept",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "WielderLevel2",
@@ -3916,7 +3921,7 @@
       "Name": "Veni, Vidi, Vici",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "WinSiegeAsDefender",
@@ -3963,15 +3968,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 985,
+      "Progressed": 988,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2024-01-05T12:09:47.5327233+00:00",
+  "LastChanged_Achievements": "2024-01-05T13:13:46.7954319+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:53.9356991+00:00",
-  "LastUpdate_Ratings": "2024-01-05T11:59:20.8135952+00:00",
-  "LastUpdate_Achievements": "2024-01-05T12:09:47.5328272+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:03:06.2022347+00:00",
+  "LastUpdate_Achievements": "2024-01-05T13:13:46.7954826+00:00"
 }

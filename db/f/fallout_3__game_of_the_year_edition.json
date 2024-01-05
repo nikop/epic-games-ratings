@@ -2,12 +2,12 @@
   "ID": "fa702d34a37248ba98fb17f680c085e3",
   "Name": "Fallout 3: Game of the Year Edition",
   "ProductSlug": "fallout-3-game-of-the-year-edition",
-  "Ranking_Rating": 429,
+  "Ranking_Rating": 445,
   "Ranking_Popularity": 28,
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 562,
+  "Ranking_EOS_NewPlayers": 563,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-10-20T17:50:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.59,
   "RatingHistory": [
     {
       "Time": "2022-10-21T00:33:04.5526799+00:00",
@@ -6857,10 +6857,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 29908,
       "NumberOfAwardsMax": 14539
+    },
+    {
+      "Time": "2024-01-05T13:01:54.6669281+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 29911,
+      "NumberOfAwardsMax": 14539
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29908,
+  "NumberOfAwards": 29911,
   "NumberOfAwardsMax": 14539,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6874,7 +6880,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1692
+      "Count": 1695
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -6949,8 +6955,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-20T18:02:29.378678+00:00",
   "FirstSeenRating": "2022-10-21T00:33:04.5526796+00:00",
-  "LastChanged": "2024-01-05T02:57:42.603184+00:00",
+  "LastChanged": "2024-01-05T13:01:54.6669279+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:31.7164037+00:00",
-  "LastUpdate_Ratings": "2024-01-05T11:57:49.667367+00:00",
-  "LastUpdate_Achievements": "2024-01-05T12:07:09.9550745+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:01:54.6669288+00:00",
+  "LastUpdate_Achievements": "2024-01-05T13:10:24.2237603+00:00"
 }

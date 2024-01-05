@@ -20,7 +20,7 @@
 | Flawless Crystal | 37.00% | ~422 |
 | Bonds of Enmity | 36.00% | ~411 |
 | Distance Devourer | 35.00% | ~399 |
-| Counter Specialist | 32.00% | ~365 |
+| Counter Specialist | 33.00% | ~377 |
 | Master of the Skies | 30.00% | ~342 |
 | Axer of Auspice | 27.00% | ~308 |
 | Mighty Marmelizer | 26.00% | ~297 |
@@ -41,7 +41,7 @@
 | Threaded Harmony | 15.00% | ~171 |
 | Karakuri Minato | 14.00% | ~160 |
 | Canyon of Karakuri | 13.00% | ~148 |
-| Jack of All Trades | 12.00% | ~137 |
+| Jack of All Trades | 13.00% | ~148 |
 | Karakuri Fortress | 11.00% | ~126 |
 | Tender Touch | 10.00% | ~114 |
 | Haven Hunter | 10.00% | ~114 |

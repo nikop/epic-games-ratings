@@ -9,9 +9,9 @@
 | Capitalism | 19.00% | ~54 |
 | Green Energy | 12.00% | ~34 |
 | There's something in those trees | 11.00% | ~31 |
+| Great Producer | 11.00% | ~31 |
 | Desert Power | 10.00% | ~28 |
 | Indebted | 10.00% | ~28 |
-| Great Producer | 10.00% | ~28 |
 | Health Care | 9.00% | ~25 |
 | Perfect Soldier | 7.00% | ~20 |
 | Healing | 7.00% | ~20 |

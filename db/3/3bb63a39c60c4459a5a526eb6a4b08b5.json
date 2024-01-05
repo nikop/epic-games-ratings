@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 287,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1089,
+  "EOS_Progressed": 1091,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4234,6 +4234,11 @@
       "Time": "2024-01-05T10:10:23.0812822+00:00",
       "NumProgressed": 1089,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-05T13:14:47.5053186+00:00",
+      "NumProgressed": 1091,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -4253,7 +4258,7 @@
       "Name": "Active Pause",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "BasicControls",
@@ -4261,7 +4266,7 @@
       "Name": "Basic Controls",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "BigPlane",
@@ -4269,7 +4274,7 @@
       "Name": "Expensive Plane",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "BudgetFlight",
@@ -4277,7 +4282,7 @@
       "Name": "Budget Flight",
       "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "Calculated",
@@ -4341,7 +4346,7 @@
       "Name": "Game Started",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "FullCompletion",
@@ -4381,7 +4386,7 @@
       "Name": "Large Airport",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "LargeTerritories",
@@ -4419,9 +4424,9 @@
       "ID": "ManagementMaster",
       "SetID": "1e89b4i",
       "Name": "Management Master",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "MaximumUpgrade",
@@ -4429,7 +4434,7 @@
       "Name": "Maximum Upgrade",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "Millionaire",
@@ -4445,7 +4450,7 @@
       "Name": "New Record",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "NoTimeForModernization",
@@ -4453,7 +4458,7 @@
       "Name": "No Time for Modernization",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "NoWayBack",
@@ -4461,7 +4466,7 @@
       "Name": "No Way Back",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "NotPlanned",
@@ -4517,7 +4522,7 @@
       "Name": "Resource Economy",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "Restructuring",
@@ -4565,7 +4570,7 @@
       "Name": "Time for Management",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "TransportHub",
@@ -4580,14 +4585,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 1089,
+      "Progressed": 1091,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2024-01-05T12:11:00.5171494+00:00",
+  "LastChanged_Achievements": "2024-01-05T13:14:47.5053182+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:06.0647724+00:00",
-  "LastUpdate_Ratings": "2024-01-05T11:57:43.6344902+00:00",
-  "LastUpdate_Achievements": "2024-01-05T12:11:00.5172019+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:01:49.6920816+00:00",
+  "LastUpdate_Achievements": "2024-01-05T13:14:47.5053656+00:00"
 }

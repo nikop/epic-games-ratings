@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1141,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -3863,9 +3863,9 @@
       "ID": "achievement_19",
       "SetID": "2cpn27e",
       "Name": "Counter Specialist",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 365
+      "UsersEstimate": 377
     },
     {
       "ID": "achievement_2",
@@ -4055,9 +4055,9 @@
       "ID": "achievement_40",
       "SetID": "2cpn27e",
       "Name": "Jack of All Trades",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 148
     },
     {
       "ID": "achievement_41",
@@ -4173,8 +4173,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-05T12:10:11.6694334+00:00",
+  "LastChanged_Achievements": "2024-01-05T13:14:07.0685378+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:22.7723621+00:00",
-  "LastUpdate_Ratings": "2024-01-05T11:58:16.4313629+00:00",
-  "LastUpdate_Achievements": "2024-01-05T12:10:11.669497+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:02:16.3281325+00:00",
+  "LastUpdate_Achievements": "2024-01-05T13:14:07.0686045+00:00"
 }

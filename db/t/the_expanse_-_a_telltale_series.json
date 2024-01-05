@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18251,
+  "EOS_Progressed": 18253,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 538,
+  "EOS_NewPlayers": 539,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -16345,6 +16345,11 @@
       "Time": "2024-01-05T11:06:22.6759126+00:00",
       "NumProgressed": 18251,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-05T13:09:47.309368+00:00",
+      "NumProgressed": 18253,
+      "NumCompleted": 58
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16605,7 +16610,7 @@
       "Name": "Safe Cracker",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "33",
@@ -16613,7 +16618,7 @@
       "Name": "Zen Master",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "34",
@@ -16629,20 +16634,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18251,
+      "Progressed": 18253,
       "Completed": 58
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4205,
+      "Progressed": 4207,
       "Completed": 1192
     }
   ],
@@ -16650,8 +16655,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T23:58:17.8612142+00:00",
-  "LastChanged_Achievements": "2024-01-05T12:06:25.8072452+00:00",
+  "LastChanged_Achievements": "2024-01-05T13:09:47.3093675+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2024-01-05T11:57:06.7500024+00:00",
-  "LastUpdate_Achievements": "2024-01-05T12:06:25.8073263+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:01:20.9217729+00:00",
+  "LastUpdate_Achievements": "2024-01-05T13:09:47.3094875+00:00"
 }

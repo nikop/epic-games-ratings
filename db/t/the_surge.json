@@ -2,9 +2,9 @@
   "ID": "08f38e25e11f4c1e977cb75aae5e4535",
   "Name": "The Surge",
   "ProductSlug": "the-surge",
-  "Ranking_Rating": 702,
-  "Ranking_Popularity": 519,
-  "Ranking_PopularitySum": 538,
+  "Ranking_Rating": 703,
+  "Ranking_Popularity": 521,
+  "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 243,
   "Ranking_EOS_NewPlayers": 208,
@@ -400,7 +400,7 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5259,
+  "EOS_Progressed": 5260,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
@@ -4760,6 +4760,11 @@
       "Time": "2024-01-05T10:05:08.6358631+00:00",
       "NumProgressed": 5259,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-05T13:09:40.3025826+00:00",
+      "NumProgressed": 5260,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -4771,7 +4776,7 @@
       "Name": "P.A.X",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1893
+      "UsersEstimate": 1894
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -4827,7 +4832,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4943
+      "UsersEstimate": 4944
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -4835,7 +4840,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3997
+      "UsersEstimate": 3998
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -4843,7 +4848,7 @@
       "Name": "Hey Listen",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1893
+      "UsersEstimate": 1894
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -4851,7 +4856,7 @@
       "Name": "CREO Killed the Video Star",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "ID_ACHIEV_12",
@@ -4875,7 +4880,7 @@
       "Name": "Who\u0027s in Charge Here?",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "ID_ACHIEV_15",
@@ -4931,7 +4936,7 @@
       "Name": "Shall Not Pass",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "ID_ACHIEV_22",
@@ -4987,7 +4992,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3997
+      "UsersEstimate": 3998
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -5035,7 +5040,7 @@
       "Name": "Most Wanted",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1367
+      "UsersEstimate": 1368
     },
     {
       "ID": "ID_ACHIEV_36",
@@ -5051,7 +5056,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1735
+      "UsersEstimate": 1736
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -5306,15 +5311,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5259,
+      "Progressed": 5260,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-31T19:58:10.5906343+00:00",
-  "LastChanged_Achievements": "2024-01-05T12:06:17.3799656+00:00",
+  "LastChanged_Achievements": "2024-01-05T13:09:40.3025816+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:44.5404504+00:00",
-  "LastUpdate_Ratings": "2024-01-05T12:01:08.6629606+00:00",
-  "LastUpdate_Achievements": "2024-01-05T12:06:17.3800551+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:04:30.5903845+00:00",
+  "LastUpdate_Achievements": "2024-01-05T13:09:40.3026677+00:00"
 }

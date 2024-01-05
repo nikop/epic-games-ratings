@@ -2,9 +2,9 @@
   "ID": "a567c32599bf4d4fb609e424f3691b39",
   "Name": "Them\u0027s Fightin\u0027 Herds",
   "ProductSlug": "thems-fightin-herds",
-  "Ranking_Rating": 446,
-  "Ranking_Popularity": 529,
-  "Ranking_PopularitySum": 508,
+  "Ranking_Rating": 445,
+  "Ranking_Popularity": 530,
+  "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 393,
   "Ranking_EOS_NewPlayers": 153,
@@ -343,9 +343,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 234935,
+  "EOS_Progressed": 234936,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 468,
+  "EOS_NewPlayers": 467,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26818,6 +26818,11 @@
       "Time": "2024-01-05T12:10:07.8345157+00:00",
       "NumProgressed": 234935,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-05T13:14:03.750145+00:00",
+      "NumProgressed": 234936,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 28,
@@ -26989,7 +26994,7 @@
       "Name": "Be Gentle...",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 49336
+      "UsersEstimate": 49337
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -27052,7 +27057,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 234935,
+      "Progressed": 234936,
       "Completed": 6
     }
   ],
@@ -27060,8 +27065,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2024-01-02T21:59:02.7368642+00:00",
-  "LastChanged_Achievements": "2024-01-05T12:10:07.8345154+00:00",
+  "LastChanged_Achievements": "2024-01-05T13:14:03.7501444+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:51.1279895+00:00",
-  "LastUpdate_Ratings": "2024-01-05T12:01:34.0206019+00:00",
-  "LastUpdate_Achievements": "2024-01-05T12:10:07.8346829+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:04:50.8398922+00:00",
+  "LastUpdate_Achievements": "2024-01-05T13:14:03.7502809+00:00"
 }

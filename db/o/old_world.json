@@ -2,7 +2,7 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 323,
+  "Ranking_Rating": 322,
   "Ranking_Popularity": 283,
   "Ranking_PopularitySum": 221,
   "Ranking_EOS_Progress": 167,
@@ -2214,9 +2214,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16126,
+  "EOS_Progressed": 16128,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18964,6 +18964,11 @@
       "Time": "2024-01-05T10:10:30.7346842+00:00",
       "NumProgressed": 16126,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-05T13:14:55.666085+00:00",
+      "NumProgressed": 16128,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20397,9 +20402,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_MAUSOLEUM",
       "SetID": "9201eeb",
       "Name": "Mausoleum",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 81
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_MUSAEUM",
@@ -20805,9 +20810,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_GREECE",
       "SetID": "7l38kb8",
       "Name": "Greek Paganism",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 129
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_HITTITE",
@@ -21838,21 +21843,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16126,
+      "Progressed": 16128,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16126,
+      "Progressed": 16128,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-04T06:58:24.8867619+00:00",
-  "LastChanged_Achievements": "2024-01-05T12:11:09.799168+00:00",
+  "LastChanged_Achievements": "2024-01-05T13:14:55.6660845+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:24.5452657+00:00",
-  "LastUpdate_Ratings": "2024-01-05T11:59:31.2599161+00:00",
-  "LastUpdate_Achievements": "2024-01-05T12:11:09.8001929+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:03:14.3291598+00:00",
+  "LastUpdate_Achievements": "2024-01-05T13:14:55.6671099+00:00"
 }

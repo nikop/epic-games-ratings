@@ -13993,10 +13993,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 63575,
       "NumberOfAwardsMax": 7708
+    },
+    {
+      "Time": "2024-01-05T13:02:41.9582086+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 63587,
+      "NumberOfAwardsMax": 7708
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 63575,
+  "NumberOfAwards": 63587,
   "NumberOfAwardsMax": 7708,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -14040,7 +14046,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 6898
+      "Count": 6910
     },
     {
       "Text": "This game is Relaxing",
@@ -14067,9 +14073,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 492391,
+  "EOS_Progressed": 492440,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5556,
+  "EOS_NewPlayers": 5562,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -44047,6 +44053,11 @@
       "Time": "2024-01-05T12:10:34.3037539+00:00",
       "NumProgressed": 492391,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-05T13:14:26.1032145+00:00",
+      "NumProgressed": 492440,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -45944,9 +45955,9 @@
       "ID": "achievement_rags_and_riches",
       "SetID": "67mdiil",
       "Name": "Rags and Riches",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 492
     },
     {
       "ID": "achievement_raja_of_the_rajput_reich",
@@ -46722,7 +46733,7 @@
       "Name": "Until death do us apart",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 2954
+      "UsersEstimate": 2955
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -46961,21 +46972,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 492391,
+      "Progressed": 492440,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 492391,
+      "Progressed": 492440,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-01-05T11:58:50.5405585+00:00",
-  "LastChanged_Achievements": "2024-01-05T12:10:34.3037535+00:00",
+  "LastChanged": "2024-01-05T13:02:41.9582084+00:00",
+  "LastChanged_Achievements": "2024-01-05T13:14:26.103214+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:39.2428149+00:00",
-  "LastUpdate_Ratings": "2024-01-05T11:58:50.540559+00:00",
-  "LastUpdate_Achievements": "2024-01-05T12:10:34.3048773+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:02:41.9582092+00:00",
+  "LastUpdate_Achievements": "2024-01-05T13:14:26.10432+00:00"
 }

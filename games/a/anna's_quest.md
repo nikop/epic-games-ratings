@@ -13,9 +13,9 @@
 | Back to the anvil | 31.00% | ~29 |
 | So soothing... | 31.00% | ~29 |
 | Kekekeke... | 31.00% | ~29 |
+| Sorry Grandpa | 31.00% | ~29 |
 | Mystery solved | 30.00% | ~28 |
 | Honey, honey, honey… | 30.00% | ~28 |
-| Sorry Grandpa | 30.00% | ~28 |
 | Roostwig has entered the building | 30.00% | ~28 |
 | A very special drink | 29.00% | ~27 |
 | NOW GO AWAY! | 29.00% | ~27 |

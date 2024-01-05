@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something fully in bloom... | 16.00% | ~21 |
-| Something to make you dream... | 16.00% | ~21 |
-| Something firmly rooted... | 16.00% | ~21 |
-| Something free... | 15.00% | ~19 |
-| Something ever-changing... | 15.00% | ~19 |
-| Something foundational... | 15.00% | ~19 |
-| Something monumental... | 15.00% | ~19 |
-| Something to long for... | 15.00% | ~19 |
+| Something free... | 15.00% | ~20 |
+| Something ever-changing... | 15.00% | ~20 |
+| Something fully in bloom... | 15.00% | ~20 |
+| Something foundational... | 15.00% | ~20 |
+| Something to make you dream... | 15.00% | ~20 |
+| Something monumental... | 15.00% | ~20 |
+| Something to long for... | 15.00% | ~20 |
+| Something firmly rooted... | 15.00% | ~20 |
 | Something gentle... | 14.00% | ~18 |
 | Something reflective... | 14.00% | ~18 |
 | Something natural... | 13.00% | ~17 |
-| Somewhere to belong... | 12.00% | ~15 |
-| Something free... (fragile) | 9.00% | ~12 |
-| Something gentle... (fragile) | 9.00% | ~12 |
-| Something ever-changing... (fragile) | 9.00% | ~12 |
-| Something fully in bloom... (fragile) | 9.00% | ~12 |
-| Something fragile... | 9.00% | ~12 |
-| Something foundational... (fragile) | 9.00% | ~12 |
-| Somewhere to belong... (fragile) | 9.00% | ~12 |
+| Somewhere to belong... | 12.00% | ~16 |
 | Something to make you dream... (fragile) | 9.00% | ~12 |
-| Something monumental... (fragile) | 9.00% | ~12 |
-| Something to long for... (fragile) | 9.00% | ~12 |
-| Something firmly rooted... (fragile) | 9.00% | ~12 |
-| Something reflective... (fragile) | 9.00% | ~12 |
+| Something free... (fragile) | 8.00% | ~10 |
+| Something gentle... (fragile) | 8.00% | ~10 |
+| Something ever-changing... (fragile) | 8.00% | ~10 |
+| Something fully in bloom... (fragile) | 8.00% | ~10 |
+| Something fragile... | 8.00% | ~10 |
+| Something foundational... (fragile) | 8.00% | ~10 |
+| Somewhere to belong... (fragile) | 8.00% | ~10 |
+| Something monumental... (fragile) | 8.00% | ~10 |
+| Something to long for... (fragile) | 8.00% | ~10 |
+| Something firmly rooted... (fragile) | 8.00% | ~10 |
+| Something reflective... (fragile) | 8.00% | ~10 |
 | Something more... (fragile) | 7.00% | ~9 |
 | Something more... | 6.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129 (Ranked 470)  
-Completed: 8 (6.20%) (Ranked 68)  
+Progressed: 130 (Ranked 467)  
+Completed: 8 (6.15%) (Ranked 69)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -134,3 +134,4 @@ Completed: 8 (6.20%) (Ranked 68)
 | 2023-12-30 | 126 | 8 |
 | 2024-01-01 | 128 | 8 |
 | 2024-01-03 | 129 | 8 |
+| 2024-01-05 | 130 | 8 |

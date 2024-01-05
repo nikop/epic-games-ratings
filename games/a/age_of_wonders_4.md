@@ -12,10 +12,10 @@ Rating: 4.62 (Ranked 378)
 | From Friends to Family | 10.00% | ~688 |
 | Bone Peddler | 9.00% | ~619 |
 | Magical Synergy | 8.00% | ~550 |
-| There Can Only Be One! | 7.00% | ~481 |
-| Full Ascension | 7.00% | ~481 |
-| Stronger Together | 7.00% | ~481 |
-| Seat of Power | 7.00% | ~481 |
+| There Can Only Be One! | 7.00% | ~482 |
+| Full Ascension | 7.00% | ~482 |
+| Stronger Together | 7.00% | ~482 |
+| Seat of Power | 7.00% | ~482 |
 | In a Liege of Your Own | 6.00% | ~413 |
 | Valley of Wonders | 5.00% | ~344 |
 | Intimidation Tactics | 5.00% | ~344 |
@@ -29,6 +29,7 @@ Rating: 4.62 (Ranked 378)
 | Fiery Friend | 3.00% | ~206 |
 | Against the Odds | 3.00% | ~206 |
 | Freed Lands of Manuhari | 3.00% | ~206 |
+| God Emperor | 2.00% | ~138 |
 | Arch Mage | 2.00% | ~138 |
 | The Creator | 2.00% | ~138 |
 | Crimson Caldera | 2.00% | ~138 |
@@ -40,7 +41,6 @@ Rating: 4.62 (Ranked 378)
 | Chaos Surge | 2.00% | ~138 |
 | Spoils of War | 2.00% | ~138 |
 | I've Got Everything I Need Right Here | 1.00% | ~69 |
-| God Emperor | 1.00% | ~69 |
 | Lord of Chaos | 1.00% | ~69 |
 | The Goddess of Nature | 1.00% | ~69 |
 | Eternal Lord | 1.00% | ~69 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 378)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,877 (Ranked 197)  
+Progressed: 6,879 (Ranked 197)  
 Completed: 7 (0.10%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,11 +294,11 @@ Completed: 7 (0.10%) (Ranked 307)
 | 2024-01-02 | 6,742 | 7 |
 | 2024-01-03 | 6,793 | 7 |
 | 2024-01-04 | 6,853 | 7 |
-| 2024-01-05 | 6,877 | 7 |
+| 2024-01-05 | 6,879 | 7 |
 ## Awards
-Max (Great for Beginners): 40  (Ranked 478)  
+Max (Great for Beginners): 40  (Ranked 479)  
 Sum: 209 (Ranked 411)  
-Diff (max vs sum): 67  
+Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 40 |

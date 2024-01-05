@@ -4,7 +4,7 @@
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 395,
+  "Ranking_EOS_NewPlayers": 381,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 268,
+  "EOS_Progressed": 269,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.24,
+  "EOS_Completed_Percentage": 2.23,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:37.2601776+00:00",
@@ -690,6 +690,11 @@
       "Time": "2024-01-05T11:04:59.2038513+00:00",
       "NumProgressed": 268,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-05T13:08:38.4023429+00:00",
+      "NumProgressed": 269,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 17,
@@ -709,7 +714,7 @@
       "Name": "Comedy Killer",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "congratulations_you_are_a_sadist",
@@ -757,7 +762,7 @@
       "Name": "Maybe you should give it another go",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "mikey_lizard",
@@ -781,7 +786,7 @@
       "Name": "Super Seducer",
       "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "superstar_crossed_lovers",
@@ -821,7 +826,7 @@
       "Name": "Um, ok...",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "used_to_think_i_was_indecisive",
@@ -836,7 +841,7 @@
     {
       "ID": "84ad177",
       "IsBase": true,
-      "Progressed": 268,
+      "Progressed": 269,
       "Completed": 6
     }
   ],
@@ -844,8 +849,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2024-01-05T12:05:01.9267436+00:00",
+  "LastChanged_Achievements": "2024-01-05T13:08:38.4023425+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:34.3380666+00:00",
-  "LastUpdate_Ratings": "2024-01-05T12:03:44.2562551+00:00",
-  "LastUpdate_Achievements": "2024-01-05T12:05:01.9267576+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:07:34.1813515+00:00",
+  "LastUpdate_Achievements": "2024-01-05T13:08:38.4023555+00:00"
 }

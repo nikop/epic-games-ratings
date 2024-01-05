@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 681,
+  "EOS_Progressed": 682,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2139,6 +2139,11 @@
       "Time": "2024-01-05T05:09:40.6740175+00:00",
       "NumProgressed": 681,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T13:14:33.3883786+00:00",
+      "NumProgressed": 682,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -2223,7 +2228,7 @@
       "Name": "FixyText: Bestseller",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "RISKYTEXT_PLAY_ALL_CATEGORIES",
@@ -2247,7 +2252,7 @@
       "Name": "Timejinx: Timejinx",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "TIME_ORWELL",
@@ -2271,7 +2276,7 @@
       "Name": "Timejinx: The Perfect Guest",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "TKO2_BEACH_LIFE",
@@ -2310,14 +2315,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 681,
+      "Progressed": 682,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2024-01-05T12:10:43.9276565+00:00",
+  "LastChanged_Achievements": "2024-01-05T13:14:33.3883678+00:00",
   "LastUpdate_AppInfo": "2023-12-30T02:16:13.4108208+00:00",
-  "LastUpdate_Ratings": "2024-01-05T12:00:48.0669956+00:00",
-  "LastUpdate_Achievements": "2024-01-05T12:10:43.9277024+00:00"
+  "LastUpdate_Ratings": "2024-01-05T13:04:12.996432+00:00",
+  "LastUpdate_Achievements": "2024-01-05T13:14:33.3884036+00:00"
 }
