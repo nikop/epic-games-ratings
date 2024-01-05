@@ -15,7 +15,7 @@ Rating: 4.28 (Ranked 890)
 | The other side of the mirror | 17.00% | ~59 |
 | Little Mary | 15.00% | ~52 |
 | There is freedom in awakening | 12.00% | ~42 |
-| Ritual | 10.00% | ~35 |
+| Ritual | 11.00% | ~38 |
 | Cowardice | 10.00% | ~35 |
 | Bloodrush | 8.00% | ~28 |
 | The moth and the flame | 7.00% | ~24 |

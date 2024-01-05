@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4743,10 +4743,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7192,
       "NumberOfAwardsMax": 1777
+    },
+    {
+      "Time": "2024-01-05T19:58:22.7776617+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7194,
+      "NumberOfAwardsMax": 1777
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7192,
+  "NumberOfAwards": 7194,
   "NumberOfAwardsMax": 1777,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4772,7 +4778,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 651
+      "Count": 652
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4808,7 +4814,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 599
+      "Count": 600
     },
     {
       "Text": "This game has a Creative Community",
@@ -4817,7 +4823,7 @@
       "Count": 404
     }
   ],
-  "EOS_Progressed": 13051,
+  "EOS_Progressed": 13053,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 0,
@@ -18982,6 +18988,11 @@
       "Time": "2024-01-05T19:11:32.7794816+00:00",
       "NumProgressed": 13051,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T20:10:08.9759733+00:00",
+      "NumProgressed": 13053,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -19361,7 +19372,7 @@
       "Name": "A Spark",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2610
+      "UsersEstimate": 2611
     },
     {
       "ID": "49_Flame",
@@ -19920,21 +19931,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 11833,
+      "Progressed": 11835,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 13051,
+      "Progressed": 13053,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2024-01-05T04:58:13.2501035+00:00",
-  "LastChanged_Achievements": "2024-01-05T19:11:32.7794813+00:00",
+  "LastChanged": "2024-01-05T19:58:22.7776615+00:00",
+  "LastChanged_Achievements": "2024-01-05T20:10:08.9759727+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:46.0860245+00:00",
-  "LastUpdate_Ratings": "2024-01-05T18:59:52.890283+00:00",
-  "LastUpdate_Achievements": "2024-01-05T19:11:32.7796533+00:00"
+  "LastUpdate_Ratings": "2024-01-05T19:58:22.777662+00:00",
+  "LastUpdate_Achievements": "2024-01-05T20:10:08.9761744+00:00"
 }

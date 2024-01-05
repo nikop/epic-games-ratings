@@ -2,13 +2,13 @@
   "ID": "038295c445bb40d1b06545fd75741af1",
   "Name": "Kerbal Space Program 2",
   "ProductSlug": "kerbal-space-program-2",
-  "Ranking_Rating": 943,
+  "Ranking_Rating": 937,
   "Ranking_Popularity": 476,
   "Ranking_PopularitySum": 374,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 568,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-02-24T14:00:00+00:00",
     "PcReleaseDate": "2023-02-24T14:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.22,
+  "Rating": 4.23,
   "RatingHistory": [
     {
       "Time": "2023-02-27T02:15:09.7091153+00:00",
@@ -1043,6 +1043,12 @@
       "Rating": 4.22,
       "NumberOfAwards": 320,
       "NumberOfAwardsMax": 42
+    },
+    {
+      "Time": "2024-01-05T20:03:11.2056124+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 320,
+      "NumberOfAwardsMax": 42
     }
   ],
   "ReviewsDisabled": false,
@@ -1123,8 +1129,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-24T16:58:34.691796+00:00",
   "FirstSeenRating": "2023-02-27T02:15:09.7091148+00:00",
-  "LastChanged": "2024-01-05T18:03:59.1404583+00:00",
+  "LastChanged": "2024-01-05T20:03:11.2056122+00:00",
   "LastUpdate_AppInfo": "2023-12-30T23:57:02.5659121+00:00",
-  "LastUpdate_Ratings": "2024-01-05T19:04:34.2514577+00:00",
-  "LastUpdate_Achievements": "2024-01-05T19:07:29.0490969+00:00"
+  "LastUpdate_Ratings": "2024-01-05T20:03:11.2056126+00:00",
+  "LastUpdate_Achievements": "2024-01-05T20:05:32.3540681+00:00"
 }

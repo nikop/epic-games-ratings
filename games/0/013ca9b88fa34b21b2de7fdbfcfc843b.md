@@ -6,9 +6,9 @@ Rating: 4.63 (Ranked 357)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Azoria Beckons | 4.00% | ~355 |
-| A Thorny Situation | 3.00% | ~266 |
-| Break-Net Speed | 3.00% | ~266 |
-| ... And Spit Back Out | 3.00% | ~266 |
+| A Thorny Situation | 3.00% | ~267 |
+| Break-Net Speed | 3.00% | ~267 |
+| ... And Spit Back Out | 3.00% | ~267 |
 | Calm Sailing | 2.00% | ~178 |
 | Open the Gate! | 2.00% | ~178 |
 | Miner 49er | 2.00% | ~178 |
@@ -24,32 +24,32 @@ Rating: 4.63 (Ranked 357)
 | Exit Through The Gift Shop | 1.00% | ~15 |
 | Beach Comber | 0.90% | ~80 |
 | Flaming Hot Completos | 0.80% | ~71 |
+| Azorian Anniversary | 0.80% | ~71 |
 | Skilled | 0.80% | ~71 |
-| Azorian Anniversary | 0.70% | ~62 |
-| Fae Farmer | 0.60% | ~53 |
+| Fae Farmer | 0.70% | ~62 |
 | Got to Catch Them All | 0.60% | ~53 |
 | Rumble in the Jumble | 0.60% | ~53 |
 | Scattered Scroll Scrounger | 0.50% | ~44 |
 | Fanatical Farmer | 0.50% | ~44 |
-| Azorian Hat Dance | 0.50% | ~7 |
+| Azorian Hat Dance | 0.50% | ~8 |
 | Chatty Neighbor | 0.40% | ~36 |
 | Right Tool For the Job | 0.40% | ~36 |
 | House Proud | 0.40% | ~36 |
 | I Now Pronounce You... | 0.30% | ~27 |
 | Captain of Cozy | 0.30% | ~27 |
-| Going Down | 0.30% | ~4 |
+| Going Down | 0.30% | ~5 |
 | Angling Authority | 0.20% | ~18 |
 | Polyglot | 0.20% | ~3 |
 | Cloverfield Island | 0.10% | ~9 |
 | Workaholic | 0.10% | ~9 |
 | Giving the People What They Want | 0.10% | ~9 |
 | Very Skilled | 0.10% | ~9 |
-| A Pal To All | 0.10% | ~1 |
-| Scroll Hunter | 0.10% | ~1 |
-| Splish-Splash | 0.10% | ~1 |
-| Archi-Pal-igo Aficionado | 0.10% | ~1 |
+| A Pal To All | 0.10% | ~2 |
+| Scroll Hunter | 0.10% | ~2 |
+| Splish-Splash | 0.10% | ~2 |
+| Archi-Pal-igo Aficionado | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,881 (Ranked 184)  
+Progressed: 8,884 (Ranked 184)  
 Completed: 1 (0.01%) (Ranked 370)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 1 (0.01%) (Ranked 370)
 | 2024-01-02 | 8,830 | 1 |
 | 2024-01-03 | 8,841 | 1 |
 | 2024-01-04 | 8,863 | 1 |
-| 2024-01-05 | 8,881 | 1 |
+| 2024-01-05 | 8,884 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

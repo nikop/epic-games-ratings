@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 287,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-08-04T16:00:00+00:00",
     "PcReleaseDate": "2022-09-21T16:00:00+00:00",
@@ -2503,9 +2503,9 @@
       "ID": "ACH_END_FIRST_WORKBENCH_MISSION",
       "SetID": "al4k4nh",
       "Name": "I can fix that",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 520
+      "UsersEstimate": 526
     },
     {
       "ID": "ACH_END_MAIL_MISSION_FAST",
@@ -2607,9 +2607,9 @@
       "ID": "ACH_SELL_ALL_DEBRIS",
       "SetID": "al4k4nh",
       "Name": "Unpacked",
-      "Percentage": 97,
+      "Percentage": 98,
       "XP": 15,
-      "UsersEstimate": 655
+      "UsersEstimate": 662
     },
     {
       "ID": "ACH_SHOCK_ON_MISSION",
@@ -2654,8 +2654,8 @@
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2024-01-05T19:05:45.4517216+00:00",
+  "LastChanged_Achievements": "2024-01-05T20:04:08.5159813+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:15.1835695+00:00",
-  "LastUpdate_Ratings": "2024-01-05T19:01:53.5485075+00:00",
-  "LastUpdate_Achievements": "2024-01-05T19:05:45.4517658+00:00"
+  "LastUpdate_Ratings": "2024-01-05T19:59:58.2999251+00:00",
+  "LastUpdate_Achievements": "2024-01-05T20:04:08.5160013+00:00"
 }

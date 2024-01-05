@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -357,7 +357,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2260,
+  "EOS_Progressed": 2261,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
@@ -4022,6 +4022,11 @@
       "Time": "2024-01-05T18:05:02.7835865+00:00",
       "NumProgressed": 2260,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T20:04:01.866592+00:00",
+      "NumProgressed": 2261,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4169,7 +4174,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "Achievement_020",
@@ -4289,7 +4294,7 @@
       "Name": "Catch and Release",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "Achievement_035",
@@ -4560,7 +4565,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2260,
+      "Progressed": 2261,
       "Completed": 0
     }
   ],
@@ -4568,8 +4573,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-04T23:58:10.1541435+00:00",
-  "LastChanged_Achievements": "2024-01-05T19:05:36.6097388+00:00",
+  "LastChanged_Achievements": "2024-01-05T20:04:01.8665917+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.8280502+00:00",
-  "LastUpdate_Ratings": "2024-01-05T18:59:28.5044969+00:00",
-  "LastUpdate_Achievements": "2024-01-05T19:05:36.6098083+00:00"
+  "LastUpdate_Ratings": "2024-01-05T19:58:03.402648+00:00",
+  "LastUpdate_Achievements": "2024-01-05T20:04:01.8666494+00:00"
 }

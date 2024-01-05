@@ -6,12 +6,12 @@ Rating: 4.52 (Ranked 575)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Legal Counsel | 46.00% | ~7,113 |
-| Greasy Palms | 42.00% | ~6,494 |
-| South American Connection | 26.00% | ~4,020 |
+| Greasy Palms | 42.00% | ~6,495 |
+| South American Connection | 26.00% | ~4,021 |
 | Life of the Party | 21.00% | ~3,247 |
-| Big Heat from Little Havana | 15.00% | ~2,319 |
-| Chauffeur | 15.00% | ~2,319 |
-| Tommy Two-Wheels | 15.00% | ~2,319 |
+| Big Heat from Little Havana | 15.00% | ~2,320 |
+| Chauffeur | 15.00% | ~2,320 |
+| Tommy Two-Wheels | 15.00% | ~2,320 |
 | Salutations My Little Friend | 11.00% | ~1,701 |
 | Iron-y | 10.00% | ~1,546 |
 | Gun for Hire | 9.00% | ~1,392 |
@@ -40,7 +40,7 @@ Rating: 4.52 (Ranked 575)
 | Done it All | 0.90% | ~139 |
 | Kingpin | 0.60% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,463 (Ranked 170)  
+Progressed: 15,464 (Ranked 170)  
 Completed: 86 (0.56%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 86 (0.56%) (Ranked 211)
 | 2024-01-02 | 15,126 | 85 |
 | 2024-01-03 | 15,241 | 85 |
 | 2024-01-04 | 15,370 | 86 |
-| 2024-01-05 | 15,463 | 86 |
+| 2024-01-05 | 15,464 | 86 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

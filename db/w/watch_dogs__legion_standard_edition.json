@@ -2,13 +2,13 @@
   "ID": "0a84818055e740a7be21a2e5b6162703",
   "Name": "Watch Dogs: Legion Standard Edition",
   "ProductSlug": "watch-dogs-legion",
-  "Ranking_Rating": 802,
+  "Ranking_Rating": 810,
   "Ranking_Popularity": 335,
   "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 568,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-10-29T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.37,
+  "Rating": 4.36,
   "NumberOfRatings": 1361,
   "RatingHistory": [
     {
@@ -3671,10 +3671,16 @@
       "Rating": 4.37,
       "NumberOfAwards": 1006,
       "NumberOfAwardsMax": 137
+    },
+    {
+      "Time": "2024-01-05T20:00:09.8992404+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 1007,
+      "NumberOfAwardsMax": 137
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1006,
+  "NumberOfAwards": 1007,
   "NumberOfAwardsMax": 137,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -3706,7 +3712,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 124
+      "Count": 125
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3750,8 +3756,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:59.5198477+00:00",
-  "LastChanged": "2024-01-05T09:59:49.0893976+00:00",
+  "LastChanged": "2024-01-05T20:00:09.8992402+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:19.1111594+00:00",
-  "LastUpdate_Ratings": "2024-01-05T19:02:07.8454476+00:00",
-  "LastUpdate_Achievements": "2024-01-05T19:10:15.5628481+00:00"
+  "LastUpdate_Ratings": "2024-01-05T20:00:09.8992406+00:00",
+  "LastUpdate_Achievements": "2024-01-05T20:09:05.8463754+00:00"
 }

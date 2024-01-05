@@ -3,8 +3,8 @@
   "Name": "Battalion",
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 568,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:32:16.4340977+00:00",
-  "LastUpdate_Ratings": "2024-01-05T19:00:15.7072161+00:00",
-  "LastUpdate_Achievements": "2024-01-05T19:05:12.8843215+00:00"
+  "LastUpdate_Ratings": "2024-01-05T19:58:40.293428+00:00",
+  "LastUpdate_Achievements": "2024-01-05T20:03:42.7915955+00:00"
 }

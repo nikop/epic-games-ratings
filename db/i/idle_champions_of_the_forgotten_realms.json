@@ -9343,9 +9343,9 @@
       "Count": 3624
     }
   ],
-  "EOS_Progressed": 251616,
+  "EOS_Progressed": 251639,
   "EOS_Completed": 2596,
-  "EOS_NewPlayers": 4651,
+  "EOS_NewPlayers": 4638,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -38823,6 +38823,11 @@
       "Time": "2024-01-05T19:11:36.06649+00:00",
       "NumProgressed": 251616,
       "NumCompleted": 2596
+    },
+    {
+      "Time": "2024-01-05T20:10:12.4881375+00:00",
+      "NumProgressed": 251639,
+      "NumCompleted": 2596
     }
   ],
   "TotalAchievements": 546,
@@ -38834,7 +38839,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7548
+      "UsersEstimate": 7549
     },
     {
       "ID": "objective_completed_10",
@@ -39810,7 +39815,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1006
+      "UsersEstimate": 1007
     },
     {
       "ID": "objective_completed_130",
@@ -39954,7 +39959,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1006
+      "UsersEstimate": 1007
     },
     {
       "ID": "objective_completed_150",
@@ -40506,7 +40511,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5032
+      "UsersEstimate": 5033
     },
     {
       "ID": "objective_completed_34",
@@ -43154,7 +43159,7 @@
       "Name": "The Overgrown Grove",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1090
     },
     {
       "ID": "objective_completed_673",
@@ -43178,7 +43183,7 @@
       "Name": "Mental Gymnastics",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1090
     },
     {
       "ID": "objective_completed_860",
@@ -43201,21 +43206,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 217890,
+      "Progressed": 217913,
       "Completed": 4136
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 251616,
+      "Progressed": 251639,
       "Completed": 2596
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-05T16:59:31.6082456+00:00",
-  "LastChanged_Achievements": "2024-01-05T19:11:36.0664897+00:00",
+  "LastChanged_Achievements": "2024-01-05T20:10:12.4881374+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-05T19:01:29.979503+00:00",
-  "LastUpdate_Achievements": "2024-01-05T19:11:36.069278+00:00"
+  "LastUpdate_Ratings": "2024-01-05T19:59:39.6969393+00:00",
+  "LastUpdate_Achievements": "2024-01-05T20:10:12.4906385+00:00"
 }

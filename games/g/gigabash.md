@@ -5,19 +5,19 @@ Rating: 4.54 (Ranked 547)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 18.00% | ~21,153 |
-| I've Had Enough! | 14.00% | ~16,452 |
-| Fists, Fury & a lot of Rage | 10.00% | ~11,752 |
-| All For One and One For All | 8.00% | ~9,401 |
-| Seasoned Fighter | 8.00% | ~9,401 |
-| A New Age | 5.00% | ~5,876 |
-| Home Sweet Home? | 5.00% | ~5,876 |
-| Oh Baby, A Triple | 3.00% | ~3,525 |
-| Symbiotic | 3.00% | ~3,525 |
-| Battle Hardened | 2.00% | ~2,350 |
-| Master of Disguise | 2.00% | ~2,350 |
-| It's Mayhem! | 2.00% | ~2,350 |
-| Right back at'cha | 2.00% | ~2,350 |
+| All Grown Up! | 18.00% | ~21,158 |
+| I've Had Enough! | 14.00% | ~16,456 |
+| Fists, Fury & a lot of Rage | 10.00% | ~11,754 |
+| All For One and One For All | 8.00% | ~9,403 |
+| Seasoned Fighter | 8.00% | ~9,403 |
+| A New Age | 5.00% | ~5,877 |
+| Home Sweet Home? | 5.00% | ~5,877 |
+| Oh Baby, A Triple | 3.00% | ~3,526 |
+| Symbiotic | 3.00% | ~3,526 |
+| Battle Hardened | 2.00% | ~2,351 |
+| Master of Disguise | 2.00% | ~2,351 |
+| It's Mayhem! | 2.00% | ~2,351 |
+| Right back at'cha | 2.00% | ~2,351 |
 | Cautious Veteran | 1.00% | ~1,175 |
 | Double Punch! | 1.00% | ~1,175 |
 | Martyrdom | 1.00% | ~1,175 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 547)
 | What's Mine is Yours | 0.10% | ~118 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 117,516 (Ranked 93)  
+Progressed: 117,543 (Ranked 93)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-02 | 115,313 | 0 |
 | 2024-01-03 | 116,064 | 0 |
 | 2024-01-04 | 116,792 | 0 |
-| 2024-01-05 | 117,516 | 0 |
+| 2024-01-05 | 117,543 | 0 |
 ## Awards
 Max (Great Boss Battles): 48  (Ranked 460)  
 Sum: 48 (Ranked 513)  

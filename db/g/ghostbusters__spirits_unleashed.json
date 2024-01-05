@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3945,9 +3945,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33300,
+  "EOS_Progressed": 33302,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 396,
+  "EOS_NewPlayers": 398,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -24680,6 +24680,11 @@
       "Time": "2024-01-05T19:09:51.7610756+00:00",
       "NumProgressed": 33300,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-05T20:08:46.820939+00:00",
+      "NumProgressed": 33302,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -24891,7 +24896,7 @@
       "Name": "Master Collector",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "Mycophile",
@@ -25098,7 +25103,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33300,
+      "Progressed": 33302,
       "Completed": 71
     }
   ],
@@ -25106,8 +25111,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2024-01-05T05:00:13.3293765+00:00",
-  "LastChanged_Achievements": "2024-01-05T19:09:51.7610753+00:00",
+  "LastChanged_Achievements": "2024-01-05T20:08:46.8209387+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:23.250158+00:00",
-  "LastUpdate_Ratings": "2024-01-05T19:02:36.3238722+00:00",
-  "LastUpdate_Achievements": "2024-01-05T19:09:51.7611949+00:00"
+  "LastUpdate_Ratings": "2024-01-05T20:00:31.2804356+00:00",
+  "LastUpdate_Achievements": "2024-01-05T20:08:46.8210895+00:00"
 }

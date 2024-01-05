@@ -6,19 +6,19 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 82.00% | ~263 |
-| Mash Machine | 75.00% | ~241 |
-| Ducks in a Row, Fish in a Barrel | 54.00% | ~173 |
-| Furon Fashion | 48.00% | ~154 |
-| Shop Til They Drop | 40.00% | ~128 |
+| Rock of the Bay | 82.00% | ~264 |
+| Mash Machine | 75.00% | ~242 |
+| Ducks in a Row, Fish in a Barrel | 54.00% | ~174 |
+| Furon Fashion | 48.00% | ~155 |
+| Shop Til They Drop | 40.00% | ~129 |
 | Bodied Sattva | 38.00% | ~122 |
-| Cult Following | 35.00% | ~112 |
-| Earthly Pleasures | 35.00% | ~112 |
-| Lie Back and Think of Albion | 26.00% | ~83 |
-| Upgreatest | 26.00% | ~83 |
+| Cult Following | 35.00% | ~113 |
+| Earthly Pleasures | 34.00% | ~109 |
+| Lie Back and Think of Albion | 26.00% | ~84 |
+| Upgreatest | 26.00% | ~84 |
 | Pimp My Raid | 25.00% | ~80 |
-| Freshly Squeezed | 21.00% | ~67 |
 | I Look Up As I Walk to Takoshima | 20.00% | ~64 |
+| Freshly Squeezed | 20.00% | ~64 |
 | Perfect Probulator | 17.00% | ~55 |
 | Die Nasty | 17.00% | ~55 |
 | Transmitting From Sol-3 | 15.00% | ~48 |
@@ -27,7 +27,7 @@ Number of Ratings: 90  (23.09.2022)
 | Kaijuiced | 10.00% | ~32 |
 | Dusted | 9.00% | ~29 |
 | Scuttled | 8.00% | ~26 |
-| Re-Return of the Clone of the Invasion II-2 | 7.00% | ~22 |
+| Re-Return of the Clone of the Invasion II-2 | 7.00% | ~23 |
 | Lobster Blisque | 6.00% | ~19 |
 | Yettisoned | 5.00% | ~16 |
 | Ultimate Smoothie | 4.00% | ~13 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.60% | ~2 |
 | Trans-Siberian Express | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 321 (Ranked 384)  
+Progressed: 322 (Ranked 384)  
 Completed: 2 (0.62%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 2 (0.62%) (Ranked 203)
 | 2024-01-02 | 291 | 1 |
 | 2024-01-03 | 301 | 1 |
 | 2024-01-04 | 311 | 1 |
-| 2024-01-05 | 321 | 2 |
+| 2024-01-05 | 322 | 2 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 495)  
 Sum: 36 (Ranked 527)  

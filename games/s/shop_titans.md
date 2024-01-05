@@ -6,13 +6,13 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 10.00% | ~14,971 |
-| Titan's First Steps | 10.00% | ~14,971 |
-| Basic in Bulk | 9.00% | ~13,474 |
-| Tinkle of Coins | 9.00% | ~13,474 |
-| Disintermediation | 7.00% | ~10,480 |
-| It's Free Real Estate | 7.00% | ~10,480 |
-| Capitalism Ho! | 7.00% | ~10,480 |
+| Sponsored by Argon | 10.00% | ~14,972 |
+| Titan's First Steps | 10.00% | ~14,972 |
+| Basic in Bulk | 9.00% | ~13,475 |
+| Tinkle of Coins | 9.00% | ~13,475 |
+| Disintermediation | 7.00% | ~10,481 |
+| It's Free Real Estate | 7.00% | ~10,481 |
+| Capitalism Ho! | 7.00% | ~10,481 |
 | Another Satisfied Customer | 6.00% | ~8,983 |
 | Budding Merchant | 6.00% | ~8,983 |
 | Own the Means of Production | 6.00% | ~8,983 |
@@ -20,36 +20,36 @@ Number of Ratings: 12,664  (23.09.2022)
 | Some Assembly Required | 5.00% | ~7,486 |
 | Pretty Penny | 5.00% | ~7,486 |
 | One-Armed Bandit | 5.00% | ~7,486 |
-| The Daily Grind | 4.00% | ~5,988 |
-| Bounty Hunters | 4.00% | ~5,988 |
-| Demand for Supplies | 4.00% | ~5,988 |
-| Flooding the Market | 4.00% | ~5,988 |
-| Where it Hurts | 4.00% | ~5,988 |
-| Gild-Gotten Goods | 4.00% | ~5,988 |
-| Dungeon Imports | 4.00% | ~5,988 |
-| Through Repetition, Perfection | 4.00% | ~5,988 |
-| Did we pack lunch? | 4.00% | ~5,988 |
-| Arcane Industries | 4.00% | ~5,988 |
-| On the Path to Greatness | 3.00% | ~4,491 |
-| Ascended | 3.00% | ~4,491 |
-| Tax not Included | 3.00% | ~4,491 |
-| Research & Development | 3.00% | ~4,491 |
-| Vanity, Verily | 3.00% | ~4,491 |
-| Fated Encounters | 3.00% | ~4,491 |
-| For the Hoard! | 3.00% | ~4,491 |
-| Blank Page Syndrome | 3.00% | ~4,491 |
-| This Power Level...! | 3.00% | ~4,491 |
-| Power of Love | 3.00% | ~4,491 |
-| Efficient Floor Space | 3.00% | ~4,491 |
-| Flawless Fusion | 3.00% | ~4,491 |
-| Trash to Treasure | 3.00% | ~4,491 |
-| Gem Expert | 3.00% | ~4,491 |
-| Royal Ransom | 3.00% | ~4,491 |
-| Helping Hand | 3.00% | ~4,491 |
-| Accomplished Merchant | 3.00% | ~4,491 |
-| Natural 20 | 3.00% | ~4,491 |
-| Magical Harmony | 3.00% | ~4,491 |
-| Complete Monopoly | 3.00% | ~4,491 |
+| The Daily Grind | 4.00% | ~5,989 |
+| Bounty Hunters | 4.00% | ~5,989 |
+| Demand for Supplies | 4.00% | ~5,989 |
+| Flooding the Market | 4.00% | ~5,989 |
+| Where it Hurts | 4.00% | ~5,989 |
+| Gild-Gotten Goods | 4.00% | ~5,989 |
+| Dungeon Imports | 4.00% | ~5,989 |
+| Through Repetition, Perfection | 4.00% | ~5,989 |
+| Did we pack lunch? | 4.00% | ~5,989 |
+| Arcane Industries | 4.00% | ~5,989 |
+| On the Path to Greatness | 3.00% | ~4,492 |
+| Ascended | 3.00% | ~4,492 |
+| Tax not Included | 3.00% | ~4,492 |
+| Research & Development | 3.00% | ~4,492 |
+| Vanity, Verily | 3.00% | ~4,492 |
+| Fated Encounters | 3.00% | ~4,492 |
+| For the Hoard! | 3.00% | ~4,492 |
+| Blank Page Syndrome | 3.00% | ~4,492 |
+| This Power Level...! | 3.00% | ~4,492 |
+| Power of Love | 3.00% | ~4,492 |
+| Efficient Floor Space | 3.00% | ~4,492 |
+| Flawless Fusion | 3.00% | ~4,492 |
+| Trash to Treasure | 3.00% | ~4,492 |
+| Gem Expert | 3.00% | ~4,492 |
+| Royal Ransom | 3.00% | ~4,492 |
+| Helping Hand | 3.00% | ~4,492 |
+| Accomplished Merchant | 3.00% | ~4,492 |
+| Natural 20 | 3.00% | ~4,492 |
+| Magical Harmony | 3.00% | ~4,492 |
+| Complete Monopoly | 3.00% | ~4,492 |
 | A Notch Above the Rest | 2.00% | ~2,994 |
 | Cream of the Crop | 2.00% | ~2,994 |
 | Top of the World | 2.00% | ~2,994 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~599 |
 | Capitalist Camaraderie | 0.20% | ~299 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 149,711 (Ranked 86)  
+Progressed: 149,722 (Ranked 86)  
 Completed: 342 (0.23%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -379,15 +379,15 @@ Completed: 342 (0.23%) (Ranked 267)
 | 2024-01-02 | 149,077 | 341 |
 | 2024-01-03 | 149,238 | 342 |
 | 2024-01-04 | 149,471 | 342 |
-| 2024-01-05 | 149,711 | 342 |
+| 2024-01-05 | 149,722 | 342 |
 ## Awards
 Max (Great for Beginners): 4,945  (Ranked 78)  
-Sum: 27,932 (Ranked 52)  
+Sum: 27,935 (Ranked 52)  
 Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,945 |
-| This game is Relaxing | 4,072 |
+| This game is Relaxing | 4,075 |
 | This game has Quickly Understood Controls | 4,068 |
 | This game has Diverse Characters | 4,023 |
 | This game is Highly Recommended | 3,815 |
@@ -736,4 +736,4 @@ Diff (max vs sum): 26
 | 2024-01-02 | 3.99 | - | 4,937 | 27,905 |
 | 2024-01-03 | 3.99 | - | 4,940 | 27,918 |
 | 2024-01-04 | 3.99 | - | 4,940 | 27,924 |
-| 2024-01-05 | 3.99 | - | 4,945 | 27,932 |
+| 2024-01-05 | 3.99 | - | 4,945 | 27,935 |

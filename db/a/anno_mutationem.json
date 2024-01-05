@@ -2,13 +2,13 @@
   "ID": "52a92e2c71b54d58a249946982a0a379",
   "Name": "ANNO Mutationem",
   "ProductSlug": "anno-mutationem-ef8b9e",
-  "Ranking_Rating": 523,
+  "Ranking_Rating": 524,
   "Ranking_Popularity": 580,
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
     "PcReleaseDate": "2022-03-17T09:00:00+00:00",
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 833,
+  "EOS_Progressed": 834,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1259,6 +1259,11 @@
       "Time": "2024-01-05T15:05:10.1269607+00:00",
       "NumProgressed": 833,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T20:05:19.6239066+00:00",
+      "NumProgressed": 834,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1364,9 +1369,9 @@
       "ID": "I_think_its_broke",
       "SetID": "gl7plp",
       "Name": "I think it\u0027s broke",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 217
     },
     {
       "ID": "In the smacker...I think",
@@ -1380,9 +1385,9 @@
       "ID": "Keep_em_coming",
       "SetID": "gl7plp",
       "Name": "Keep \u0027em coming!",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 350
+      "UsersEstimate": 342
     },
     {
       "ID": "Lady_Luck",
@@ -1438,7 +1443,7 @@
       "Name": "Tell me your story",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -1557,7 +1562,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 833,
+      "Progressed": 834,
       "Completed": 0
     }
   ],
@@ -1565,8 +1570,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-12-25T11:02:42.8909676+00:00",
-  "LastChanged_Achievements": "2024-01-05T19:07:13.5510085+00:00",
+  "LastChanged_Achievements": "2024-01-05T20:05:19.6239064+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:48.7904746+00:00",
-  "LastUpdate_Ratings": "2024-01-05T19:04:00.0785063+00:00",
-  "LastUpdate_Achievements": "2024-01-05T19:07:13.5510403+00:00"
+  "LastUpdate_Ratings": "2024-01-05T20:02:44.1982385+00:00",
+  "LastUpdate_Achievements": "2024-01-05T20:05:19.6239379+00:00"
 }

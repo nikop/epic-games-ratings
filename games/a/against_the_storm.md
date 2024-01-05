@@ -16,18 +16,19 @@ Number of Ratings: 1,845  (23.09.2022)
 | Coral Forest | 6.00% | ~1,213 |
 | The Marshlands | 6.00% | ~1,213 |
 | Gathering Storm | 6.00% | ~1,213 |
-| The Scarlet Orchard | 5.00% | ~1,010 |
-| Frosts | 5.00% | ~1,010 |
-| Land of Greed | 5.00% | ~1,010 |
-| Ominous Presence | 5.00% | ~1,010 |
-| Royal Outpost | 4.00% | ~808 |
-| Watchtower | 4.00% | ~808 |
+| The Scarlet Orchard | 5.00% | ~1,011 |
+| Frosts | 5.00% | ~1,011 |
+| Land of Greed | 5.00% | ~1,011 |
+| Ominous Presence | 5.00% | ~1,011 |
+| Royal Outpost | 4.00% | ~809 |
+| Watchtower | 4.00% | ~809 |
 | Homesick | 3.00% | ~606 |
 | Ruined Armory | 3.00% | ~606 |
 | Fertile Meadows | 3.00% | ~606 |
 | Levitating Monument | 3.00% | ~606 |
 | Monastery of the Holy Flame | 3.00% | ~606 |
 | Lost Colonies | 3.00% | ~606 |
+| Corrosive Torrent | 3.00% | ~606 |
 | A Real Challenge | 3.00% | ~606 |
 | Trade Baron | 3.00% | ~606 |
 | Untamed Wilds | 3.00% | ~606 |
@@ -39,7 +40,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Haunted Forest | 2.00% | ~404 |
 | Flooded Mines | 2.00% | ~404 |
 | Statue of the Forefathers | 2.00% | ~404 |
-| Corrosive Torrent | 2.00% | ~404 |
 | Cursed Lands | 2.00% | ~404 |
 | Defying the Crown | 2.00% | ~404 |
 | Serving Ale | 1.00% | ~202 |
@@ -51,8 +51,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Forsaken Gods Temple | 1.00% | ~202 |
 | Victory Through Prosperity | 1.00% | ~202 |
 | Into the Forest | 1.00% | ~202 |
-| Feeding The People | 0.70% | ~141 |
-| Like a Machine | 0.70% | ~141 |
+| Feeding The People | 0.70% | ~142 |
+| Like a Machine | 0.70% | ~142 |
 | Blood Flower Farmer | 0.50% | ~101 |
 | Fox Utopia | 0.50% | ~101 |
 | Prestigious Expedition | 0.40% | ~81 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,209 (Ranked 154)  
+Progressed: 20,215 (Ranked 154)  
 Completed: 33 (0.16%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,7 +326,7 @@ Completed: 33 (0.16%) (Ranked 280)
 | 2024-01-02 | 19,991 | 33 |
 | 2024-01-03 | 20,065 | 33 |
 | 2024-01-04 | 20,143 | 33 |
-| 2024-01-05 | 20,209 | 33 |
+| 2024-01-05 | 20,215 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 448  (Ranked 230)  
 Sum: 3,337 (Ranked 176)  

@@ -1,18 +1,18 @@
 # ANNO Mutationem
 [Store](https://store.epicgames.com/en-US/p/anno-mutationem-ef8b9e)  
 [View Rawdata](../../db/a/anno_mutationem.json)  
-Rating: 4.55 (Ranked 523)  
+Rating: 4.55 (Ranked 524)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tell me your story | 75.00% | ~625 |
+| Tell me your story | 75.00% | ~626 |
 | Don't judge a manhole by its cover | 60.00% | ~500 |
-| Keep 'em coming! | 42.00% | ~350 |
 | I just love stuff! | 41.00% | ~342 |
+| Keep 'em coming! | 41.00% | ~342 |
 | The things they print nowadays | 39.00% | ~325 |
 | Big Spender | 38.00% | ~317 |
 | That's gotta hurt | 36.00% | ~300 |
-| I think it's broke | 27.00% | ~225 |
+| I think it's broke | 26.00% | ~217 |
 | The Ann Flores Combo Experience | 26.00% | ~217 |
 | Club Star | 24.00% | ~200 |
 | Fire in the hole! | 20.00% | ~167 |
@@ -42,7 +42,7 @@ Rating: 4.55 (Ranked 523)
 | Love me like I love my posters | 1.00% | ~8 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 833 (Ranked 303)  
+Progressed: 834 (Ranked 303)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-02 | 821 | 0 |
 | 2024-01-03 | 826 | 0 |
 | 2024-01-04 | 829 | 0 |
-| 2024-01-05 | 833 | 0 |
+| 2024-01-05 | 834 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

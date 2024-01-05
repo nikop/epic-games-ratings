@@ -1,27 +1,27 @@
 # Outward Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/outward)  
 [View Rawdata](../../db/o/outward.json)  
-Rating: 4.55 (Ranked 523)  
+Rating: 4.55 (Ranked 524)  
 Number of Ratings: 266  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 73.00% | ~3,286 |
-| Ready for Winter | 61.00% | ~2,746 |
-| Ready for Summer | 48.00% | ~2,161 |
-| Cordon Bleu | 41.00% | ~1,846 |
-| Tapped! | 35.00% | ~1,576 |
-| Eureka | 30.00% | ~1,351 |
-| Scourge Slayer | 24.00% | ~1,080 |
-| Science, Troglodyte! | 22.00% | ~990 |
-| Exceptional Skill | 21.00% | ~945 |
-| Home Sweet Home | 20.00% | ~900 |
-| Encyclopedic! | 18.00% | ~810 |
-| A Fortress Toppled! | 15.00% | ~675 |
-| The Power of Family | 15.00% | ~675 |
-| Apex Predator | 14.00% | ~630 |
-| The Power of Faith | 12.00% | ~540 |
-| Strange amalgams | 11.00% | ~495 |
+| Venture Outward | 73.00% | ~3,289 |
+| Ready for Winter | 61.00% | ~2,748 |
+| Ready for Summer | 48.00% | ~2,162 |
+| Cordon Bleu | 41.00% | ~1,847 |
+| Tapped! | 35.00% | ~1,577 |
+| Eureka | 30.00% | ~1,352 |
+| Scourge Slayer | 24.00% | ~1,081 |
+| Science, Troglodyte! | 22.00% | ~991 |
+| Exceptional Skill | 21.00% | ~946 |
+| Home Sweet Home | 20.00% | ~901 |
+| Encyclopedic! | 18.00% | ~811 |
+| A Fortress Toppled! | 15.00% | ~676 |
+| The Power of Family | 15.00% | ~676 |
+| Apex Predator | 14.00% | ~631 |
+| The Power of Faith | 12.00% | ~541 |
+| Strange amalgams | 11.00% | ~496 |
 | The Power of Freedom | 9.00% | ~405 |
 | Ace Detective | 7.00% | ~315 |
 | Gift from the Ancestors | 7.00% | ~315 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~14 |
 | The Absolute Pinnacle. | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,502 (Ranked 205)  
+Progressed: 4,505 (Ranked 205)  
 Completed: 5 (0.11%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 5 (0.11%) (Ranked 303)
 | 2024-01-02 | 4,428 | 5 |
 | 2024-01-03 | 4,452 | 5 |
 | 2024-01-04 | 4,478 | 5 |
-| 2024-01-05 | 4,502 | 5 |
+| 2024-01-05 | 4,505 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 500)  
 Sum: 246 (Ranked 400)  

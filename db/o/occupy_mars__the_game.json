@@ -5,10 +5,10 @@
   "Ranking_Rating": 1039,
   "Ranking_Popularity": 580,
   "Ranking_PopularitySum": 580,
-  "Ranking_EOS_Progress": 253,
+  "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 350,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1843,
+  "EOS_Progressed": 1845,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4867,6 +4867,11 @@
       "Time": "2024-01-05T06:08:50.1818207+00:00",
       "NumProgressed": 1843,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T20:09:24.3941051+00:00",
+      "NumProgressed": 1845,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4958,7 +4963,7 @@
       "Name": "Zero Waste",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -4982,7 +4987,7 @@
       "Name": "All Wheel Trouble",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "NEW_ACHIEVEMENT_BAREEL_ROLL",
@@ -4996,9 +5001,9 @@
       "ID": "NEW_ACHIEVEMENT_BOTANY_POWERS",
       "SetID": "l546gc",
       "Name": "Fear my botany powers, Mars",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 608
+      "UsersEstimate": 590
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -5030,7 +5035,7 @@
       "Name": "Detective",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
@@ -5054,7 +5059,7 @@
       "Name": "Electrician",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -5070,7 +5075,7 @@
       "Name": "Gardener",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -5094,7 +5099,7 @@
       "Name": "I am the greatest botanist on this planet.",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -5126,7 +5131,7 @@
       "Name": "Miner",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -5150,7 +5155,7 @@
       "Name": "Occupy Mars!",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -5238,7 +5243,7 @@
       "Name": "Bob The Builder",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -5261,7 +5266,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1843,
+      "Progressed": 1845,
       "Completed": 0
     }
   ],
@@ -5269,8 +5274,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-12-25T15:00:25.6690232+00:00",
-  "LastChanged_Achievements": "2024-01-05T19:10:38.5205586+00:00",
+  "LastChanged_Achievements": "2024-01-05T20:09:24.3941049+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:37.9319914+00:00",
-  "LastUpdate_Ratings": "2024-01-05T19:00:02.4300779+00:00",
-  "LastUpdate_Achievements": "2024-01-05T19:10:38.5206168+00:00"
+  "LastUpdate_Ratings": "2024-01-05T19:58:29.9966148+00:00",
+  "LastUpdate_Achievements": "2024-01-05T20:09:24.3941635+00:00"
 }

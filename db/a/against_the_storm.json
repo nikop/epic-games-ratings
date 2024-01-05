@@ -3785,10 +3785,10 @@
       "Count": 344
     }
   ],
-  "EOS_Progressed": 20209,
+  "EOS_Progressed": 20215,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 598,
-  "EOS_NewCompleters": -3,
+  "EOS_NewPlayers": 597,
+  "EOS_NewCompleters": -2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
     {
@@ -18555,6 +18555,11 @@
       "Time": "2024-01-05T19:08:07.5912108+00:00",
       "NumProgressed": 20209,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2024-01-05T20:06:03.4126801+00:00",
+      "NumProgressed": 20215,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -18575,7 +18580,7 @@
       "Name": "Feeding The People",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "AllNeeds",
@@ -18783,7 +18788,7 @@
       "Name": "Royal Outpost",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "WinNearRuins",
@@ -18813,9 +18818,9 @@
       "ID": "WinNearTorrent",
       "SetID": "cfbk359",
       "Name": "Corrosive Torrent",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 404
+      "UsersEstimate": 606
     },
     {
       "ID": "WinNearWatchtower",
@@ -18823,7 +18828,7 @@
       "Name": "Watchtower",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "WinOnCoral",
@@ -18855,7 +18860,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "WinPrestige10",
@@ -18927,7 +18932,7 @@
       "Name": "Like a Machine",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "WinWithTradeRoutes",
@@ -18975,7 +18980,7 @@
       "Name": "Frosts",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "WinNearGreed",
@@ -18983,7 +18988,7 @@
       "Name": "Land of Greed",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "WinNearLibrary",
@@ -19007,7 +19012,7 @@
       "Name": "Ominous Presence",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "WinNearStorms",
@@ -19038,15 +19043,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20209,
+      "Progressed": 20215,
       "Completed": 33
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-05T19:01:40.5563958+00:00",
-  "LastChanged_Achievements": "2024-01-05T19:08:07.5912104+00:00",
+  "LastChanged_Achievements": "2024-01-05T20:06:03.4126797+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:03.5085053+00:00",
-  "LastUpdate_Ratings": "2024-01-05T19:01:40.5563963+00:00",
-  "LastUpdate_Achievements": "2024-01-05T19:08:07.5913549+00:00"
+  "LastUpdate_Ratings": "2024-01-05T19:59:47.7470287+00:00",
+  "LastUpdate_Achievements": "2024-01-05T20:06:03.4127829+00:00"
 }

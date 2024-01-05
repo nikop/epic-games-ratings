@@ -5,14 +5,14 @@ Rating: 4.81 (Ranked 84)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~3,129 |
-| No more cages! | 90.00% | ~2,965 |
-| Everfrost | 77.00% | ~2,536 |
-| Pentakill | 76.00% | ~2,503 |
-| Dark Forest | 76.00% | ~2,503 |
+| For Demacia | 95.00% | ~3,130 |
+| No more cages! | 90.00% | ~2,966 |
+| Everfrost | 77.00% | ~2,537 |
+| Pentakill | 76.00% | ~2,504 |
+| Dark Forest | 76.00% | ~2,504 |
 | The use of petricite | 73.00% | ~2,405 |
-| You can pet the dog | 60.00% | ~1,976 |
-| Thornbarrow | 43.00% | ~1,416 |
+| You can pet the dog | 60.00% | ~1,977 |
+| Thornbarrow | 43.00% | ~1,417 |
 | Big Helmet Bro | 41.00% | ~1,351 |
 | Clarion Cove | 41.00% | ~1,351 |
 | Ternmoat Headquarters | 39.00% | ~1,285 |
@@ -23,10 +23,10 @@ Rating: 4.81 (Ranked 84)
 | Petricite Burst | 33.00% | ~1,087 |
 | Devineur | 32.00% | ~1,054 |
 | Hijack | 31.00% | ~1,021 |
-| Whispers in the Woods I | 28.00% | ~922 |
-| Ancient power | 28.00% | ~922 |
-| I chose my shackles | 27.00% | ~889 |
-| Sacred Woods | 26.00% | ~856 |
+| Whispers in the Woods I | 28.00% | ~923 |
+| Ancient power | 28.00% | ~923 |
+| I chose my shackles | 27.00% | ~890 |
+| Sacred Woods | 26.00% | ~857 |
 | Little light | 24.00% | ~791 |
 | Capelworth | 24.00% | ~791 |
 | Glyndemere | 23.00% | ~758 |
@@ -55,12 +55,12 @@ Rating: 4.81 (Ranked 84)
 | Chains master | 11.00% | ~362 |
 | The great mage rebellion starts now | 11.00% | ~362 |
 | You can pet the... horse | 11.00% | ~362 |
-| Spellcrafting | 10.00% | ~329 |
+| Spellcrafting | 10.00% | ~330 |
 | Silverwing nest | 2.00% | ~66 |
 | The Unshackled | 1.00% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,294 (Ranked 224)  
-Completed: 21 (0.64%) (Ranked 202)  
+Progressed: 3,295 (Ranked 224)  
+Completed: 21 (0.64%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -266,7 +266,7 @@ Completed: 21 (0.64%) (Ranked 202)
 | 2024-01-02 | 3,235 | 20 |
 | 2024-01-03 | 3,256 | 20 |
 | 2024-01-04 | 3,278 | 21 |
-| 2024-01-05 | 3,294 | 21 |
+| 2024-01-05 | 3,295 | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

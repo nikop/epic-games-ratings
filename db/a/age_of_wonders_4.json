@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -717,9 +717,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6892,
+  "EOS_Progressed": 6895,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 415,
+  "EOS_NewPlayers": 411,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10447,6 +10447,11 @@
       "Time": "2024-01-05T19:05:23.6636273+00:00",
       "NumProgressed": 6892,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-05T20:03:51.2519177+00:00",
+      "NumProgressed": 6895,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10474,7 +10479,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "12",
@@ -10498,7 +10503,7 @@
       "Name": "Full Ascension",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "15",
@@ -10602,7 +10607,7 @@
       "Name": "Bone Peddler",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "27",
@@ -10618,7 +10623,7 @@
       "Name": "From Friends to Family",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "29",
@@ -10626,7 +10631,7 @@
       "Name": "Stronger Together",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "3",
@@ -10650,7 +10655,7 @@
       "Name": "Magical Synergy",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "32",
@@ -10666,7 +10671,7 @@
       "Name": "Seat of Power",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "34",
@@ -10937,13 +10942,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6892,
+      "Progressed": 6895,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6892,
+      "Progressed": 6895,
       "Completed": 7
     }
   ],
@@ -10951,8 +10956,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-03T13:04:27.6429549+00:00",
-  "LastChanged_Achievements": "2024-01-05T19:05:23.6636269+00:00",
+  "LastChanged_Achievements": "2024-01-05T20:03:51.2519174+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-05T19:03:42.4158572+00:00",
-  "LastUpdate_Achievements": "2024-01-05T19:05:23.6637036+00:00"
+  "LastUpdate_Ratings": "2024-01-05T20:02:30.9769746+00:00",
+  "LastUpdate_Achievements": "2024-01-05T20:03:51.2520133+00:00"
 }

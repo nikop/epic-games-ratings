@@ -15,14 +15,15 @@ Number of Ratings: 1,307  (23.09.2022)
 | Architect | 0.90% | ~145 |
 | Good | 0.90% | ~145 |
 | Mason | 0.90% | ~145 |
+| Noble | 0.90% | ~145 |
 | Strong | 0.90% | ~145 |
 | Hanging Gardens | 0.90% | ~145 |
 | Oracle | 0.90% | ~145 |
 | Just | 0.80% | ~129 |
 | Keystone | 0.80% | ~129 |
 | Learned | 0.80% | ~129 |
-| Noble | 0.80% | ~129 |
 | Pioneer | 0.80% | ~129 |
+| Developing Cities | 0.80% | ~129 |
 | Judaism | 0.80% | ~129 |
 | Greek Paganism | 0.80% | ~129 |
 | Trade Caravan | 0.80% | ~129 |
@@ -31,7 +32,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightened | 0.70% | ~113 |
 | Glorious | 0.70% | ~113 |
 | Warrior | 0.70% | ~113 |
-| Developing Cities | 0.70% | ~113 |
 | Strong Cities | 0.70% | ~113 |
 | Pyramids | 0.70% | ~113 |
 | Learn to Play 1 | 0.70% | ~113 |
@@ -64,11 +64,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intercessor | 0.40% | ~65 |
 | Valiant | 0.40% | ~65 |
 | Just Difficulty | 0.40% | ~65 |
+| Artisans | 0.40% | ~65 |
 | Sages | 0.40% | ~65 |
 | Colossus | 0.40% | ~65 |
 | Musaeum | 0.40% | ~65 |
 | Egyptian Paganism | 0.40% | ~65 |
 | Building Wonders | 0.40% | ~65 |
+| Points Victory | 0.40% | ~65 |
 | Win a Single Player Game | 0.40% | ~65 |
 | Bad Heir Day | 0.30% | ~48 |
 | Conqueror | 0.30% | ~48 |
@@ -77,7 +79,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Subjugator | 0.30% | ~48 |
 | Victorious | 0.30% | ~48 |
 | Good Difficulty | 0.30% | ~48 |
-| Artisans | 0.30% | ~48 |
 | Champions | 0.30% | ~48 |
 | Landowners | 0.30% | ~48 |
 | Patrons | 0.30% | ~48 |
@@ -85,6 +86,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Statesmen | 0.30% | ~48 |
 | Traders | 0.30% | ~48 |
 | Hittite Iron | 0.30% | ~48 |
+| Temple of Solomon | 0.30% | ~48 |
 | Pantheon | 0.30% | ~48 |
 | Learn to Play 3 | 0.30% | ~48 |
 | Greece | 0.30% | ~48 |
@@ -92,9 +94,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persian Paganism | 0.30% | ~48 |
 | Economic Reform | 0.30% | ~48 |
 | Military Prestige | 0.30% | ~48 |
+| Enlightenment | 0.30% | ~48 |
 | Mythology | 0.30% | ~48 |
+| Cimmerian Archer | 0.30% | ~48 |
 | Legionary | 0.30% | ~48 |
-| Points Victory | 0.30% | ~48 |
+| Ishtar Gate in Babylon | 0.20% | ~32 |
 | Capable | 0.20% | ~32 |
 | Devout | 0.20% | ~32 |
 | Invincible | 0.20% | ~32 |
@@ -107,7 +111,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus | 0.20% | ~32 |
 | Hagia Sophia | 0.20% | ~32 |
 | Church of the Holy Sepulchre | 0.20% | ~32 |
-| Temple of Solomon | 0.20% | ~32 |
 | Adur Burzen-Mihr | 0.20% | ~32 |
 | Via Recta Souk | 0.20% | ~32 |
 | Learn to Play 4 | 0.20% | ~32 |
@@ -115,17 +118,16 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage | 0.20% | ~32 |
 | Egypt | 0.20% | ~32 |
 | Rome | 0.20% | ~32 |
+| One True Faith | 0.20% | ~32 |
 | Assyrian Paganism | 0.20% | ~32 |
 | Hittite Paganism | 0.20% | ~32 |
 | Industrial Progress | 0.20% | ~32 |
 | Dualism | 0.20% | ~32 |
-| Enlightenment | 0.20% | ~32 |
 | Gnosticism | 0.20% | ~32 |
 | Legalism | 0.20% | ~32 |
 | Redemption | 0.20% | ~32 |
 | Revelation | 0.20% | ~32 |
 | Veneration | 0.20% | ~32 |
-| Cimmerian Archer | 0.20% | ~32 |
 | Kushite Cavalry | 0.20% | ~32 |
 | Phalangite | 0.20% | ~32 |
 | Siege Tower | 0.20% | ~32 |
@@ -144,7 +146,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Alliance Victory | 0.10% | ~16 |
 | Future Regicide | 0.10% | ~16 |
 | Acropolis in Athenai | 0.10% | ~16 |
-| Ishtar Gate in Babylon | 0.10% | ~16 |
 | Barbarian Horde | 0.10% | ~16 |
 | United Against The Horde | 0.10% | ~16 |
 | Battle of Opis | 0.10% | ~16 |
@@ -226,7 +227,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hatti | 0.10% | ~16 |
 | Persia | 0.10% | ~16 |
 | Old World Order | 0.10% | ~16 |
-| One True Faith | 0.10% | ~16 |
 | Pantheon of Gods | 0.10% | ~16 |
 | Apadana in Parsa | 0.10% | ~16 |
 | Play a 1-v-1 Game | 0.10% | ~16 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,131 (Ranked 167)  
+Progressed: 16,133 (Ranked 167)  
 Completed: 5 (0.03%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -625,7 +625,7 @@ Completed: 5 (0.03%) (Ranked 352)
 | 2024-01-02 | 16,090 | 5 |
 | 2024-01-03 | 16,108 | 5 |
 | 2024-01-04 | 16,120 | 5 |
-| 2024-01-05 | 16,131 | 5 |
+| 2024-01-05 | 16,133 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 283)  
 Sum: 1,915 (Ranked 221)  

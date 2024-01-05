@@ -9,7 +9,7 @@ Number of Ratings: 37  (23.09.2022)
 | Eureka! | 14.00% | ~619 |
 | Tax-man I | 13.00% | ~575 |
 | A new beginning | 13.00% | ~575 |
-| Friends from the past | 11.00% | ~486 |
+| Friends from the past | 11.00% | ~487 |
 | I like to build stuff... I | 10.00% | ~442 |
 | A time consuming game I | 9.00% | ~398 |
 | Builder I | 8.00% | ~354 |
@@ -32,7 +32,6 @@ Number of Ratings: 37  (23.09.2022)
 | I like to build stuff... III | 5.00% | ~221 |
 | Builder II | 5.00% | ~221 |
 | An honorable Governor II | 5.00% | ~221 |
-| Tax-man IV | 5.00% | ~221 |
 | A time consuming game III | 5.00% | ~221 |
 | Conflicting parties | 5.00% | ~221 |
 | Another one bites the dust | 4.00% | ~177 |
@@ -40,6 +39,7 @@ Number of Ratings: 37  (23.09.2022)
 | Experienced decorator | 4.00% | ~177 |
 | My precious... I | 4.00% | ~177 |
 | Full-time job III | 4.00% | ~177 |
+| Tax-man IV | 4.00% | ~177 |
 | Tools of the trade II | 4.00% | ~177 |
 | Bread for the people III | 3.00% | ~133 |
 | Five brews are a schnitzel | 3.00% | ~133 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,422 (Ranked 207)  
+Progressed: 4,423 (Ranked 207)  
 Completed: 4 (0.09%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 4 (0.09%) (Ranked 314)
 | 2024-01-02 | 4,416 | 4 |
 | 2024-01-03 | 4,417 | 4 |
 | 2024-01-04 | 4,420 | 4 |
-| 2024-01-05 | 4,422 | 4 |
+| 2024-01-05 | 4,423 | 4 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

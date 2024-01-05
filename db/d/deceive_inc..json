@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19261,
+  "EOS_Progressed": 19263,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -14450,6 +14450,11 @@
       "Time": "2024-01-05T19:08:33.5975819+00:00",
       "NumProgressed": 19261,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-05T20:06:24.1479788+00:00",
+      "NumProgressed": 19263,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -14461,7 +14466,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5778
+      "UsersEstimate": 5779
     },
     {
       "ID": "0002",
@@ -14477,7 +14482,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3274
+      "UsersEstimate": 3275
     },
     {
       "ID": "0004",
@@ -14533,7 +14538,7 @@
       "Name": "Social of Solace",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "0011",
@@ -14597,7 +14602,7 @@
       "Name": "In It to Win It",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1733
+      "UsersEstimate": 1734
     },
     {
       "ID": "0019",
@@ -14645,7 +14650,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4237
+      "UsersEstimate": 4238
     },
     {
       "ID": "0025",
@@ -14661,7 +14666,7 @@
       "Name": "The Living Portrait",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2311
+      "UsersEstimate": 2312
     },
     {
       "ID": "0027",
@@ -14725,7 +14730,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2311
+      "UsersEstimate": 2312
     },
     {
       "ID": "0035",
@@ -14748,7 +14753,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19261,
+      "Progressed": 19263,
       "Completed": 4
     }
   ],
@@ -14756,8 +14761,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-12-30T02:18:11.77416+00:00",
-  "LastChanged_Achievements": "2024-01-05T19:08:33.5975814+00:00",
+  "LastChanged_Achievements": "2024-01-05T20:06:24.1479785+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:48.2583913+00:00",
-  "LastUpdate_Ratings": "2024-01-05T18:59:46.6667652+00:00",
-  "LastUpdate_Achievements": "2024-01-05T19:08:33.5976678+00:00"
+  "LastUpdate_Ratings": "2024-01-05T19:58:17.8876785+00:00",
+  "LastUpdate_Achievements": "2024-01-05T20:06:24.1480672+00:00"
 }

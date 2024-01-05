@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10474,10 +10474,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 21462,
       "NumberOfAwardsMax": 7967
+    },
+    {
+      "Time": "2024-01-05T20:00:17.6299257+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21464,
+      "NumberOfAwardsMax": 7967
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21462,
+  "NumberOfAwards": 21464,
   "NumberOfAwardsMax": 7967,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10503,7 +10509,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1514
+      "Count": 1516
     },
     {
       "Text": "This game has Challenging Combat",
@@ -10554,9 +10560,9 @@
       "Count": 1080
     }
   ],
-  "EOS_Progressed": 131788,
+  "EOS_Progressed": 131795,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1200,
+  "EOS_NewPlayers": 1202,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38489,6 +38495,11 @@
       "Time": "2024-01-05T19:10:56.7798406+00:00",
       "NumProgressed": 131788,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-05T20:09:39.2727694+00:00",
+      "NumProgressed": 131795,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38508,7 +38519,7 @@
       "Name": "Serenity Now!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6589
+      "UsersEstimate": 6590
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -38628,7 +38639,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7907
+      "UsersEstimate": 7908
     },
     {
       "ID": "combat_kill_cadavers",
@@ -38660,7 +38671,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6589
+      "UsersEstimate": 6590
     },
     {
       "ID": "combat_kill_fanatics",
@@ -38700,7 +38711,7 @@
       "Name": "Meat and Greet",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6589
+      "UsersEstimate": 6590
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -38716,7 +38727,7 @@
       "Name": "Catch and Decease",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6589
+      "UsersEstimate": 6590
     },
     {
       "ID": "combat_kill_librarian",
@@ -38724,7 +38735,7 @@
       "Name": "Overdue Notice",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7907
+      "UsersEstimate": 7908
     },
     {
       "ID": "combat_kill_pillagers",
@@ -38740,7 +38751,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6589
+      "UsersEstimate": 6590
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -38796,7 +38807,7 @@
       "Name": "Rush Hour",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6589
+      "UsersEstimate": 6590
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -38820,7 +38831,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6589
+      "UsersEstimate": 6590
     },
     {
       "ID": "driving_distance_easy",
@@ -38852,7 +38863,7 @@
       "Name": "Autodidact",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9225
+      "UsersEstimate": 9226
     },
     {
       "ID": "hero_story_complete_all",
@@ -39036,7 +39047,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "combat_kill_collector",
@@ -39044,7 +39055,7 @@
       "Name": "This guy... again?",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -39108,7 +39119,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -39131,21 +39142,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131788,
+      "Progressed": 131795,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6657,
+      "Progressed": 6664,
       "Completed": 821
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-05T19:02:18.3483919+00:00",
-  "LastChanged_Achievements": "2024-01-05T19:10:56.7798402+00:00",
+  "LastChanged": "2024-01-05T20:00:17.6299255+00:00",
+  "LastChanged_Achievements": "2024-01-05T20:09:39.2727691+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-05T19:02:18.3483924+00:00",
-  "LastUpdate_Achievements": "2024-01-05T19:10:56.7800126+00:00"
+  "LastUpdate_Ratings": "2024-01-05T20:00:17.629926+00:00",
+  "LastUpdate_Achievements": "2024-01-05T20:09:39.2729686+00:00"
 }

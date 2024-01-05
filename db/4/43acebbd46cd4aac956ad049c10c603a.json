@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -289,9 +289,9 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 1277,
+  "EOS_Progressed": 1278,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3614,6 +3614,11 @@
       "Time": "2024-01-05T19:06:44.4707665+00:00",
       "NumProgressed": 1277,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-05T20:04:56.0804889+00:00",
+      "NumProgressed": 1278,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3666,7 +3671,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "BreakTheLoop",
@@ -3682,7 +3687,7 @@
       "Name": "Bridge Builder",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "ChasingTheLight",
@@ -3706,7 +3711,7 @@
       "Name": "Circular Oasis",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "DesolateIsland",
@@ -3826,7 +3831,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "Mnemosyne",
@@ -3850,7 +3855,7 @@
       "Name": "Museum Visitor",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "NewBeginning",
@@ -3930,7 +3935,7 @@
       "Name": "Scientia Vincere Tenebras",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "Signatory",
@@ -3962,7 +3967,7 @@
       "Name": "Southern Coast",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "TeamSpirit",
@@ -4042,7 +4047,7 @@
       "Name": "Touch Grass",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "TrevorsBiographer",
@@ -4058,7 +4063,7 @@
       "Name": "Verdant Canyon",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "Wanderers",
@@ -4074,7 +4079,7 @@
       "Name": "Western Delta",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "WoodedPlateau",
@@ -4097,7 +4102,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1277,
+      "Progressed": 1278,
       "Completed": 2
     }
   ],
@@ -4105,8 +4110,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-04T17:00:27.8001198+00:00",
-  "LastChanged_Achievements": "2024-01-05T19:06:44.4707657+00:00",
+  "LastChanged_Achievements": "2024-01-05T20:04:56.0804887+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:20.1968805+00:00",
-  "LastUpdate_Ratings": "2024-01-05T19:03:24.0566722+00:00",
-  "LastUpdate_Achievements": "2024-01-05T19:06:44.4708247+00:00"
+  "LastUpdate_Ratings": "2024-01-05T20:00:36.6435288+00:00",
+  "LastUpdate_Achievements": "2024-01-05T20:04:56.0805366+00:00"
 }

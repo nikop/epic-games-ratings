@@ -4,8 +4,8 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 402,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 279,
+  "EOS_Progressed": 280,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
@@ -1259,6 +1259,11 @@
       "Time": "2024-01-05T19:09:39.9696011+00:00",
       "NumProgressed": 279,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T20:08:37.5831964+00:00",
+      "NumProgressed": 280,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -1349,9 +1354,9 @@
       "ID": "covered_up_for_a_reason",
       "SetID": "f2im8d",
       "Name": "It\u0027s covered up for a reason",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 157
     },
     {
       "ID": "decrypt_one_myth",
@@ -1383,7 +1388,7 @@
       "Name": "Do what you have to",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "earn_all_trophies",
@@ -1479,7 +1484,7 @@
       "Name": "Sound Bite",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "heavy_burden",
@@ -1605,9 +1610,9 @@
       "ID": "something_important",
       "SetID": "f2im8d",
       "Name": "Something important",
-      "Percentage": 86,
+      "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 240
+      "UsersEstimate": 238
     },
     {
       "ID": "spy_one_item",
@@ -1631,7 +1636,7 @@
       "Name": "The art of movement",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "the_tragedy_unfolds",
@@ -1671,7 +1676,7 @@
       "Name": "Wanderer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "whispers_long_forgotten",
@@ -1686,14 +1691,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 279,
+      "Progressed": 280,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-05T19:09:39.9696007+00:00",
+  "LastChanged_Achievements": "2024-01-05T20:08:37.5831961+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.7570027+00:00",
-  "LastUpdate_Ratings": "2024-01-05T19:01:32.5462196+00:00",
-  "LastUpdate_Achievements": "2024-01-05T19:09:39.9696604+00:00"
+  "LastUpdate_Ratings": "2024-01-05T19:59:41.5417014+00:00",
+  "LastUpdate_Achievements": "2024-01-05T20:08:37.583248+00:00"
 }

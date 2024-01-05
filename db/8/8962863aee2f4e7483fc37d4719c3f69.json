@@ -4,11 +4,11 @@
   "ProductSlug": "payday-3",
   "Ranking_Rating": 1047,
   "Ranking_Popularity": 548,
-  "Ranking_PopularitySum": 490,
+  "Ranking_PopularitySum": 488,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 567,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 568,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-21T15:00:00+00:00",
     "PcReleaseDate": "2023-09-21T15:00:00+00:00",
@@ -631,10 +631,16 @@
       "Rating": 3.98,
       "NumberOfAwards": 70,
       "NumberOfAwardsMax": 25
+    },
+    {
+      "Time": "2024-01-05T19:57:00.3329083+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 71,
+      "NumberOfAwardsMax": 25
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 70,
+  "NumberOfAwards": 71,
   "NumberOfAwardsMax": 25,
   "MaxAwardTitle": "Realistic Visuals",
   "Tags": [
@@ -654,7 +660,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 21
+      "Count": 22
     }
   ],
   "EOS_Progressed": 0,
@@ -669,8 +675,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-21T15:59:03.5169673+00:00",
   "FirstSeenRating": "2023-09-22T23:59:41.3450917+00:00",
-  "LastChanged": "2024-01-05T16:57:10.7552415+00:00",
+  "LastChanged": "2024-01-05T19:57:00.332908+00:00",
   "LastUpdate_AppInfo": "2024-01-05T09:57:07.5420882+00:00",
-  "LastUpdate_Ratings": "2024-01-05T18:58:06.0662177+00:00",
-  "LastUpdate_Achievements": "2024-01-05T19:05:58.8471753+00:00"
+  "LastUpdate_Ratings": "2024-01-05T19:57:00.3329087+00:00",
+  "LastUpdate_Achievements": "2024-01-05T20:04:19.2949526+00:00"
 }

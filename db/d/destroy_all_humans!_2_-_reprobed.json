@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 384,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -294,7 +294,7 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 321,
+  "EOS_Progressed": 322,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 1,
@@ -1549,6 +1549,11 @@
       "Time": "2024-01-05T19:10:16.2745905+00:00",
       "NumProgressed": 321,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-05T20:09:06.5003507+00:00",
+      "NumProgressed": 322,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1561,7 +1566,7 @@
       "Name": "Mash Machine",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1593,7 +1598,7 @@
       "Name": "Furon Fashion",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -1633,7 +1638,7 @@
       "Name": "Cult Following",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -1673,7 +1678,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -1689,7 +1694,7 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
@@ -1697,7 +1702,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 82,
       "XP": 25,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1751,9 +1756,9 @@
       "ID": "ACH_KILL_ORANCHOV",
       "SetID": "4n84pon",
       "Name": "Freshly Squeezed",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 67
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_KILL_PONSONBY",
@@ -1807,9 +1812,9 @@
       "ID": "ACH_OPEN_FLUFF_MENU",
       "SetID": "4n84pon",
       "Name": "Earthly Pleasures",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 109
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
@@ -1817,7 +1822,7 @@
       "Name": "Upgreatest",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
@@ -1833,7 +1838,7 @@
       "Name": "Re-Return of the Clone of the Invasion II-2",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_SKATE_ALBION",
@@ -1897,7 +1902,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1912,7 +1917,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 321,
+      "Progressed": 322,
       "Completed": 2
     }
   ],
@@ -1920,8 +1925,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-03T11:58:36.9448322+00:00",
-  "LastChanged_Achievements": "2024-01-05T19:10:16.2745902+00:00",
+  "LastChanged_Achievements": "2024-01-05T20:09:06.5003506+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.261947+00:00",
-  "LastUpdate_Ratings": "2024-01-05T19:01:14.2930972+00:00",
-  "LastUpdate_Achievements": "2024-01-05T19:10:16.2746229+00:00"
+  "LastUpdate_Ratings": "2024-01-05T19:59:27.2031367+00:00",
+  "LastUpdate_Achievements": "2024-01-05T20:09:06.5003805+00:00"
 }

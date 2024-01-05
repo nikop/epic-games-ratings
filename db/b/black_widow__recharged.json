@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -173,7 +173,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24499,
+  "EOS_Progressed": 24503,
   "EOS_Completed": 61,
   "EOS_NewPlayers": 443,
   "EOS_NewCompleters": 0,
@@ -22513,6 +22513,11 @@
       "Time": "2024-01-05T19:06:47.2365201+00:00",
       "NumProgressed": 24499,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2024-01-05T20:04:58.0422958+00:00",
+      "NumProgressed": 24503,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 14,
@@ -22524,7 +22529,7 @@
       "Name": "Across The Border",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 18864
+      "UsersEstimate": 18867
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -22532,7 +22537,7 @@
       "Name": "After All",
       "Percentage": 0.7,
       "XP": 90,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_COUGHT_IN_A_TRAP",
@@ -22548,7 +22553,7 @@
       "Name": "Danger Ahead",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 6125
+      "UsersEstimate": 6126
     },
     {
       "ID": "ACH_DONT_BRING_ME_DOWN",
@@ -22556,7 +22561,7 @@
       "Name": "Don\u0027t Bring Me Down",
       "Percentage": 17,
       "XP": 90,
-      "UsersEstimate": 4165
+      "UsersEstimate": 4166
     },
     {
       "ID": "ACH_EVEYONE_IS_BORN_TO_DIE",
@@ -22580,7 +22585,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 12494
+      "UsersEstimate": 12497
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -22604,7 +22609,7 @@
       "Name": "Look at Me Now",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 6370
+      "UsersEstimate": 6371
     },
     {
       "ID": "ACH_THE_FALL",
@@ -22620,7 +22625,7 @@
       "Name": "Time of Our Life",
       "Percentage": 0.3,
       "XP": 90,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_WILD_WEST_HERO",
@@ -22635,15 +22640,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 24499,
+      "Progressed": 24503,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-11-02T20:58:32.2795394+00:00",
-  "LastChanged_Achievements": "2024-01-05T19:06:47.2365197+00:00",
+  "LastChanged_Achievements": "2024-01-05T20:04:58.0422956+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:21.7307915+00:00",
-  "LastUpdate_Ratings": "2024-01-05T19:04:00.8310352+00:00",
-  "LastUpdate_Achievements": "2024-01-05T19:06:47.2366519+00:00"
+  "LastUpdate_Ratings": "2024-01-05T20:02:44.800928+00:00",
+  "LastUpdate_Achievements": "2024-01-05T20:04:58.0424182+00:00"
 }

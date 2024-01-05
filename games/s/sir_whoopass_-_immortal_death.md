@@ -15,28 +15,28 @@
 | Nerd | 81.00% | ~123 |
 | Up and down | 80.00% | ~122 |
 | Rolling, Rolling, Rolling | 77.00% | ~117 |
-| Fire-fighter! | 66.00% | ~100 |
-| Oh, you're up to no gouda! | 65.00% | ~99 |
+| Fire-fighter! | 67.00% | ~102 |
+| Oh, you're up to no gouda! | 66.00% | ~100 |
 | Make Love not War-Craft a Mistlefoe | 63.00% | ~96 |
-| Meat grinder | 61.00% | ~93 |
-| You're not going to blow me up! | 56.00% | ~85 |
-| Mushroom soup of the day | 53.00% | ~81 |
+| Meat grinder | 62.00% | ~94 |
+| You're not going to blow me up! | 57.00% | ~87 |
+| Mushroom soup of the day | 54.00% | ~82 |
 | Butcher | 51.00% | ~78 |
 | Spare Ribs | 51.00% | ~78 |
 | Cockadoodledoo! | 51.00% | ~78 |
-| Honk honk! | 49.00% | ~74 |
-| Thats disgusting! | 49.00% | ~74 |
-| My pants squeak when I walk | 45.00% | ~68 |
+| Honk honk! | 50.00% | ~76 |
+| Thats disgusting! | 50.00% | ~76 |
+| My pants squeak when I walk | 46.00% | ~70 |
 | Self assessed tax return | 43.00% | ~65 |
 | Surprise!! | 43.00% | ~65 |
 | Haemochromatosis | 41.00% | ~62 |
 | Make America Grate Again | 39.00% | ~59 |
+| You are no match for me, Billy! | 37.00% | ~56 |
 | You can't stop me, bro! | 37.00% | ~56 |
 | Pasta Bolognese | 37.00% | ~56 |
-| You are no match for me, Billy! | 36.00% | ~55 |
 | Karaoke king | 35.00% | ~53 |
+| Catch the bus with me! | 34.00% | ~52 |
 | Meatballs, coming up! | 33.00% | ~50 |
-| Catch the bus with me! | 33.00% | ~50 |
 | I'm going to get a concussion | 32.00% | ~49 |
 | Another one bites the iron | 32.00% | ~49 |
 | Ripe Meat Off The Bone! | 28.00% | ~43 |

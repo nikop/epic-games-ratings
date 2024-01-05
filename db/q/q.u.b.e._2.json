@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
@@ -587,9 +587,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 46549,
+  "EOS_Progressed": 46550,
   "EOS_Completed": 234,
-  "EOS_NewPlayers": 944,
+  "EOS_NewPlayers": 933,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -13152,6 +13152,11 @@
       "Time": "2024-01-05T19:10:31.4931815+00:00",
       "NumProgressed": 46549,
       "NumCompleted": 234
+    },
+    {
+      "Time": "2024-01-05T20:09:18.8798942+00:00",
+      "NumProgressed": 46550,
+      "NumCompleted": 234
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -13188,7 +13193,7 @@
       "Name": "True collector",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "ACH_DLC1BRONZE",
@@ -13236,7 +13241,7 @@
       "Name": "King of the Collectables",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "ACH_DLC2BRONZE",
@@ -13244,7 +13249,7 @@
       "Name": "Competent Collector",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "ACH_DLC2COMPLETE",
@@ -13252,7 +13257,7 @@
       "Name": "Puzzle Master",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "ACH_DLC2EXIT",
@@ -13260,7 +13265,7 @@
       "Name": "Coming Home",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "ACH_DLC2GOLD",
@@ -13268,7 +13273,7 @@
       "Name": "Master Collector",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "ACH_DLC2MAXPOINTS",
@@ -13276,7 +13281,7 @@
       "Name": "QUBE Master",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "ACH_DLC2SILVER",
@@ -13284,7 +13289,7 @@
       "Name": "Expert Collector",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "ACH_DLC2TUTORIAL",
@@ -13300,7 +13305,7 @@
       "Name": "Infinity Loop",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 7913
+      "UsersEstimate": 7914
     },
     {
       "ID": "ACH_HUB1",
@@ -13316,7 +13321,7 @@
       "Name": "Path to Salvation",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7913
+      "UsersEstimate": 7914
     },
     {
       "ID": "ACH_OASIS",
@@ -13324,7 +13329,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 24205
+      "UsersEstimate": 24206
     },
     {
       "ID": "ACH_PEAK",
@@ -13348,7 +13353,7 @@
       "Name": "The Truthful Enemy",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 2327
+      "UsersEstimate": 2328
     },
     {
       "ID": "ACH_S1",
@@ -13356,7 +13361,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 31653
+      "UsersEstimate": 31654
     },
     {
       "ID": "ACH_S4",
@@ -13364,7 +13369,7 @@
       "Name": "Power Glove",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 23274
+      "UsersEstimate": 23275
     },
     {
       "ID": "ACH_S5",
@@ -13372,7 +13377,7 @@
       "Name": "Cogs in the Machine",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 17223
+      "UsersEstimate": 17224
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -13395,15 +13400,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 46549,
+      "Progressed": 46550,
       "Completed": 234
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-12-17T06:58:25.2845688+00:00",
-  "LastChanged_Achievements": "2024-01-05T19:10:31.4931811+00:00",
+  "LastChanged_Achievements": "2024-01-05T20:09:18.8798938+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:18.3640051+00:00",
   "LastUpdate_Ratings": "2024-01-05T19:03:33.9448921+00:00",
-  "LastUpdate_Achievements": "2024-01-05T19:10:31.4932727+00:00"
+  "LastUpdate_Achievements": "2024-01-05T20:09:18.8799831+00:00"
 }

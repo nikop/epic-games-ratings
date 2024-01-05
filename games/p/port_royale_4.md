@@ -7,9 +7,9 @@ Number of Ratings: 53  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Cabin boy | 79.00% | ~935 |
-| My little farm | 63.00% | ~745 |
-| Every beginning is difficult | 62.00% | ~733 |
-| Gofer | 56.00% | ~662 |
+| My little farm | 63.00% | ~746 |
+| Every beginning is difficult | 62.00% | ~734 |
+| Gofer | 56.00% | ~663 |
 | 3, 2, 1, mine | 54.00% | ~639 |
 | O Captain! My Captain! | 54.00% | ~639 |
 | Seafarer | 50.00% | ~592 |
@@ -18,20 +18,20 @@ Number of Ratings: 53  (23.09.2022)
 | I'm out of here for a while | 41.00% | ~485 |
 | In a mint condition | 38.00% | ~450 |
 | Licence to Kill | 36.00% | ~426 |
-| Pirates! | 34.00% | ~402 |
+| Pirates! | 34.00% | ~403 |
 | Collectionitis | 29.00% | ~343 |
-| Megalomania | 28.00% | ~331 |
-| Christening | 27.00% | ~319 |
+| Megalomania | 28.00% | ~332 |
+| Christening | 27.00% | ~320 |
 | Groundskeeper | 25.00% | ~296 |
 | Wholesale | 22.00% | ~260 |
-| Walk the plank | 21.00% | ~248 |
+| Walk the plank | 21.00% | ~249 |
 | Pearly gates | 18.00% | ~213 |
 | My precious! | 18.00% | ~213 |
 | Conquistador | 14.00% | ~166 |
 | Panic buying | 11.00% | ~130 |
 | Your vessel, my vessel | 10.00% | ~118 |
-| Just a scratch | 9.00% | ~106 |
-| All mine! | 9.00% | ~106 |
+| Just a scratch | 9.00% | ~107 |
+| All mine! | 9.00% | ~107 |
 | Paths of Glory | 8.00% | ~95 |
 | Panel of experts | 8.00% | ~95 |
 | Maker | 7.00% | ~83 |
@@ -41,9 +41,9 @@ Number of Ratings: 53  (23.09.2022)
 | Flying Dutchman | 5.00% | ~59 |
 | A true pirate! | 4.00% | ~47 |
 | Overpopulation | 4.00% | ~47 |
-| Premier Maître | 3.00% | ~35 |
-| Supreme conqueror | 3.00% | ~35 |
-| Master & Commander | 3.00% | ~35 |
+| Premier Maître | 3.00% | ~36 |
+| Supreme conqueror | 3.00% | ~36 |
+| Master & Commander | 3.00% | ~36 |
 | Strategist | 2.00% | ~24 |
 | The customer is always right | 2.00% | ~24 |
 | All aboard! | 2.00% | ~24 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Traffic chaos | 0.80% | ~9 |
 | Davy Jones' locker | 0.30% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,183 (Ranked 282)  
+Progressed: 1,184 (Ranked 282)  
 Completed: 1 (0.08%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 1 (0.08%) (Ranked 320)
 | 2024-01-02 | 1,169 | 1 |
 | 2024-01-03 | 1,171 | 1 |
 | 2024-01-04 | 1,178 | 1 |
-| 2024-01-05 | 1,183 | 1 |
+| 2024-01-05 | 1,184 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

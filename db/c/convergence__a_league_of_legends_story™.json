@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -57,9 +57,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1238,
+  "EOS_Progressed": 1239,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -3657,6 +3657,11 @@
       "Time": "2024-01-05T19:11:29.721619+00:00",
       "NumProgressed": 1238,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-05T20:10:06.5363507+00:00",
+      "NumProgressed": 1239,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -3700,7 +3705,7 @@
       "Name": "Right On Time",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ClockworkCompletion1",
@@ -3748,7 +3753,7 @@
       "Name": "Cultivair Explorer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "EntresolChests1",
@@ -3940,7 +3945,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "PidgeDefeated",
@@ -3956,7 +3961,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "RewindParry",
@@ -4076,7 +4081,7 @@
       "Name": "The Brass Boss",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "Zarkon2Defeated",
@@ -4091,7 +4096,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1238,
+      "Progressed": 1239,
       "Completed": 6
     }
   ],
@@ -4099,8 +4104,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-05T11:57:15.4004085+00:00",
-  "LastChanged_Achievements": "2024-01-05T19:11:29.7216188+00:00",
+  "LastChanged_Achievements": "2024-01-05T20:10:06.5363505+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:23.9308133+00:00",
-  "LastUpdate_Ratings": "2024-01-05T18:58:23.5216617+00:00",
-  "LastUpdate_Achievements": "2024-01-05T19:11:29.7216737+00:00"
+  "LastUpdate_Ratings": "2024-01-05T19:57:12.9476001+00:00",
+  "LastUpdate_Achievements": "2024-01-05T20:10:06.5363961+00:00"
 }

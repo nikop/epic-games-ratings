@@ -6,12 +6,12 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 5.00% | ~37,739 |
-| The Assault | 4.00% | ~30,191 |
-| Life is your teacher | 4.00% | ~30,191 |
-| Lightning Hands | 4.00% | ~30,191 |
-| The Hateful Pole Fighter | 3.00% | ~22,643 |
-| Old Child | 3.00% | ~22,643 |
+| The Old Grandmaster | 5.00% | ~37,740 |
+| The Assault | 4.00% | ~30,192 |
+| Life is your teacher | 4.00% | ~30,192 |
+| Lightning Hands | 4.00% | ~30,192 |
+| The Hateful Pole Fighter | 3.00% | ~22,644 |
+| Old Child | 3.00% | ~22,644 |
 | A Lady's Blood in the Snow | 2.00% | ~15,096 |
 | Lady Wing Chun | 2.00% | ~15,096 |
 | Kill Nil | 2.00% | ~15,096 |
@@ -35,8 +35,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Muk Yan Master | 0.60% | ~4,529 |
 | Tiger on Fire | 0.60% | ~4,529 |
 | Detective Story | 0.60% | ~4,529 |
-| Bloody Sport | 0.60% | ~384 |
-| Martial Hub | 0.60% | ~384 |
+| Bloody Sport | 0.60% | ~385 |
+| Martial Hub | 0.60% | ~385 |
 | Source of Flying Daggers | 0.50% | ~3,774 |
 | Iron Money | 0.50% | ~3,774 |
 | Legendary Talismans of Wuxing | 0.50% | ~3,774 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~64 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~64 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 754,776 (Ranked 25)  
+Progressed: 754,803 (Ranked 25)  
 Completed: 12,975 (1.72%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 12,975 (1.72%) (Ranked 140)
 | 2024-01-02 | 752,188 | 12,971 |
 | 2024-01-03 | 753,003 | 12,973 |
 | 2024-01-04 | 753,906 | 12,974 |
-| 2024-01-05 | 754,776 | 12,975 |
+| 2024-01-05 | 754,803 | 12,975 |
 ## Awards
 Max (Great Boss Battles): 7,120  (Ranked 55)  
 Sum: 12,030 (Ranked 88)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -294,7 +294,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2480,
+  "EOS_Progressed": 2481,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
@@ -4334,6 +4334,11 @@
       "Time": "2024-01-05T19:08:10.1358163+00:00",
       "NumProgressed": 2480,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-05T20:06:05.4989861+00:00",
+      "NumProgressed": 2481,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4353,7 +4358,7 @@
       "Name": "Jailbreak",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1587
+      "UsersEstimate": 1588
     },
     {
       "ID": "ACHV_03",
@@ -4383,9 +4388,9 @@
       "ID": "ACHV_06",
       "SetID": "8p5mlmc",
       "Name": "Home Invasion",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 570
+      "UsersEstimate": 546
     },
     {
       "ID": "ACHV_07",
@@ -4401,7 +4406,7 @@
       "Name": "Mommy Dearest",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "ACHV_09",
@@ -4409,7 +4414,7 @@
       "Name": "Bad Dog",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "ACHV_10",
@@ -4519,9 +4524,9 @@
       "ID": "ACHV_23",
       "SetID": "8p5mlmc",
       "Name": "HEADSHOT!",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 942
+      "UsersEstimate": 918
     },
     {
       "ID": "ACHV_24",
@@ -4545,7 +4550,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1959
+      "UsersEstimate": 1960
     },
     {
       "ID": "ACHV_27",
@@ -4561,7 +4566,7 @@
       "Name": "Clean Cut",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "ACHV_29",
@@ -4577,15 +4582,15 @@
       "Name": "Powered Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "ACHV_31",
       "SetID": "8p5mlmc",
       "Name": "Where It All Began",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 322
+      "UsersEstimate": 298
     },
     {
       "ID": "ACHV_32",
@@ -4641,7 +4646,7 @@
       "Name": "Risk Tolerant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "ACHV_39",
@@ -4649,7 +4654,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 1860
+      "UsersEstimate": 1861
     },
     {
       "ID": "ACHV_40",
@@ -4681,7 +4686,7 @@
       "Name": "What A Catchy Song",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "ACHV_44",
@@ -4800,7 +4805,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2480,
+      "Progressed": 2481,
       "Completed": 13
     }
   ],
@@ -4808,8 +4813,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-29T03:00:05.8444174+00:00",
-  "LastChanged_Achievements": "2024-01-05T19:08:10.135816+00:00",
+  "LastChanged_Achievements": "2024-01-05T20:06:05.498986+00:00",
   "LastUpdate_AppInfo": "2023-12-30T17:56:59.176771+00:00",
-  "LastUpdate_Ratings": "2024-01-05T19:02:27.9903283+00:00",
-  "LastUpdate_Achievements": "2024-01-05T19:08:10.1358716+00:00"
+  "LastUpdate_Ratings": "2024-01-05T20:00:25.0797528+00:00",
+  "LastUpdate_Achievements": "2024-01-05T20:06:05.4990428+00:00"
 }

@@ -16,16 +16,16 @@ Number of Ratings: 495  (23.09.2022)
 | Ice Ice Yuki | 8.00% | ~17,937 |
 | Stoned Ox | 8.00% | ~17,937 |
 | Yabu | 8.00% | ~17,937 |
-| Happy Planning | 7.00% | ~15,694 |
-| Jonin | 7.00% | ~15,694 |
-| Mugen Unchained | 7.00% | ~15,694 |
-| Chunin | 6.00% | ~13,452 |
-| Flying Rocks | 6.00% | ~13,452 |
-| Warzone | 6.00% | ~13,452 |
-| Happy little accidents | 5.00% | ~11,210 |
-| Okkoto | 5.00% | ~11,210 |
-| Prisoners | 5.00% | ~11,210 |
-| Too Early | 5.00% | ~11,210 |
+| Happy Planning | 7.00% | ~15,695 |
+| Jonin | 7.00% | ~15,695 |
+| Mugen Unchained | 7.00% | ~15,695 |
+| Chunin | 6.00% | ~13,453 |
+| Flying Rocks | 6.00% | ~13,453 |
+| Warzone | 6.00% | ~13,453 |
+| Happy little accidents | 5.00% | ~11,211 |
+| Okkoto | 5.00% | ~11,211 |
+| Prisoners | 5.00% | ~11,211 |
+| Too Early | 5.00% | ~11,211 |
 | Gear up | 4.00% | ~8,968 |
 | Noboru | 4.00% | ~8,968 |
 | Still Rollin' | 4.00% | ~8,968 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~224 |
 | Release the Kraken | 0.10% | ~224 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,207 (Ranked 79)  
+Progressed: 224,212 (Ranked 79)  
 Completed: 104 (0.05%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,17 +311,17 @@ Completed: 104 (0.05%) (Ranked 335)
 | 2024-01-02 | 223,591 | 102 |
 | 2024-01-03 | 223,800 | 102 |
 | 2024-01-04 | 224,025 | 103 |
-| 2024-01-05 | 224,207 | 104 |
+| 2024-01-05 | 224,212 | 104 |
 ## Awards
 Max (Great for Beginners): 592  (Ranked 209)  
-Sum: 4,942 (Ranked 148)  
+Sum: 4,943 (Ranked 148)  
 Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 592 |
 | This game has Diverse Characters | 550 |
 | This game is Extremely Fun | 541 |
-| This game has Amazing Storytelling | 523 |
+| This game has Amazing Storytelling | 524 |
 | This game has Amazing Characters | 508 |
 | This game is Highly Recommended | 502 |
 | This game is Relaxing | 501 |
@@ -581,4 +581,4 @@ Diff (max vs sum): 61
 | 2023-12-31 | 4.66 | - | 591 | 4,937 |
 | 2024-01-02 | 4.66 | - | 592 | 4,940 |
 | 2024-01-03 | 4.66 | - | 592 | 4,941 |
-| 2024-01-05 | 4.66 | - | 592 | 4,942 |
+| 2024-01-05 | 4.66 | - | 592 | 4,943 |

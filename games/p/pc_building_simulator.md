@@ -6,30 +6,30 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,766,053 |
-| Easy to forget | 46.00% | ~1,657,927 |
-| Back in the black | 39.00% | ~1,405,634 |
-| That's what I'm talking about | 29.00% | ~1,045,215 |
-| The Best of Both Worlds | 25.00% | ~901,047 |
-| Get your wings | 20.00% | ~720,838 |
-| Double trouble | 16.00% | ~576,670 |
-| Smashing it | 11.00% | ~396,461 |
-| But can it run Crysis? | 9.00% | ~324,377 |
-| My favourite feature... | 9.00% | ~324,377 |
-| From humble beginnings... | 7.00% | ~252,293 |
-| Customer satisfaction | 7.00% | ~252,293 |
-| Keeping things neat | 4.00% | ~144,168 |
-| Seems you're pretty good at this | 4.00% | ~144,168 |
-| Bending over backwards | 4.00% | ~144,168 |
-| I'm broke, Uncle! | 3.00% | ~108,126 |
-| Triple threat | 3.00% | ~108,126 |
-| You rock at this! | 3.00% | ~108,126 |
-| Perfection | 3.00% | ~108,126 |
-| Your music sucks | 3.00% | ~108,126 |
-| Maybe you should try something else? | 2.00% | ~72,084 |
-| Taking care of business | 2.00% | ~72,084 |
-| Things are under control | 2.00% | ~72,084 |
-| Calling in Sick | 2.00% | ~72,084 |
+| You need to plug it in... | 49.00% | ~1,766,071 |
+| Easy to forget | 46.00% | ~1,657,944 |
+| Back in the black | 39.00% | ~1,405,649 |
+| That's what I'm talking about | 29.00% | ~1,045,226 |
+| The Best of Both Worlds | 25.00% | ~901,057 |
+| Get your wings | 20.00% | ~720,845 |
+| Double trouble | 16.00% | ~576,676 |
+| Smashing it | 11.00% | ~396,465 |
+| But can it run Crysis? | 9.00% | ~324,380 |
+| My favourite feature... | 9.00% | ~324,380 |
+| From humble beginnings... | 7.00% | ~252,296 |
+| Customer satisfaction | 7.00% | ~252,296 |
+| Keeping things neat | 4.00% | ~144,169 |
+| Seems you're pretty good at this | 4.00% | ~144,169 |
+| Bending over backwards | 4.00% | ~144,169 |
+| I'm broke, Uncle! | 3.00% | ~108,127 |
+| Triple threat | 3.00% | ~108,127 |
+| You rock at this! | 3.00% | ~108,127 |
+| Perfection | 3.00% | ~108,127 |
+| Your music sucks | 3.00% | ~108,127 |
+| Maybe you should try something else? | 2.00% | ~72,085 |
+| Taking care of business | 2.00% | ~72,085 |
+| Things are under control | 2.00% | ~72,085 |
+| Calling in Sick | 2.00% | ~72,085 |
 | Overvolted | 1.00% | ~36,042 |
 | If you fail the first time... | 1.00% | ~36,042 |
 | Amazonian | 1.00% | ~36,042 |
@@ -38,7 +38,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Building isn't cheap! | 1.00% | ~36,042 |
 | Majority Shareholder | 1.00% | ~36,042 |
 | Owner | 1.00% | ~36,042 |
-| Work ethic 101 | 0.70% | ~25,229 |
+| Work ethic 101 | 0.70% | ~25,230 |
 | Building momentum | 0.60% | ~21,625 |
 | Lead by example | 0.60% | ~21,625 |
 | Treat yourself - RAM | 0.50% | ~18,021 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,604 |
 | Treat yourself - GPU | 0.10% | ~3,604 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,604,189 (Ranked 5)  
+Progressed: 3,604,227 (Ranked 5)  
 Completed: 41 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,10 +319,10 @@ Completed: 41 (0.00%) (Ranked 392)
 | 2024-01-02 | 3,602,513 | 41 |
 | 2024-01-03 | 3,603,102 | 41 |
 | 2024-01-04 | 3,603,683 | 41 |
-| 2024-01-05 | 3,604,189 | 41 |
+| 2024-01-05 | 3,604,227 | 41 |
 ## Awards
 Max (Great for Beginners): 1,131  (Ranked 149)  
-Sum: 8,268 (Ranked 113)  
+Sum: 8,269 (Ranked 113)  
 Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
@@ -332,7 +332,7 @@ Diff (max vs sum): 36
 | This game is Relaxing | 1,006 |
 | This game has Quickly Understood Controls | 966 |
 | This game is Highly Recommended | 931 |
-| This game has Amazing Storytelling | 839 |
+| This game has Amazing Storytelling | 840 |
 | This game has Amazing Characters | 684 |
 | This game has a Creative Community | 670 |
 | This game has Obsessive Gameplay | 664 |
@@ -639,4 +639,4 @@ Diff (max vs sum): 36
 | 2024-01-02 | 4.66 | - | 1,125 | 8,257 |
 | 2024-01-03 | 4.66 | - | 1,127 | 8,262 |
 | 2024-01-04 | 4.66 | - | 1,130 | 8,266 |
-| 2024-01-05 | 4.66 | - | 1,131 | 8,268 |
+| 2024-01-05 | 4.66 | - | 1,131 | 8,269 |

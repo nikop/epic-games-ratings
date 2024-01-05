@@ -2,10 +2,10 @@
   "ID": "7509a5c8feb744ae866d9e3326d52d3b",
   "Name": "The Shapeshifting Detective",
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
-  "Ranking_EOS_Progress": 389,
+  "Ranking_EOS_Progress": 388,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 341,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
     "PcReleaseDate": "2018-11-06T17:00:00+00:00",
@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 316,
+  "EOS_Progressed": 317,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
@@ -810,6 +810,11 @@
       "Time": "2024-01-05T06:05:52.4738932+00:00",
       "NumProgressed": 316,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-05T20:06:18.4322766+00:00",
+      "NumProgressed": 317,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 21,
@@ -821,7 +826,7 @@
       "Name": "A Woman Scorned",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "book_em_danny",
@@ -885,7 +890,7 @@
       "Name": "Look Mum I\u0027m A Detective",
       "Percentage": 21,
       "XP": 90,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "oscar_winning_performance",
@@ -901,7 +906,7 @@
       "Name": "Patient Listener",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "play_it_again_sam",
@@ -917,7 +922,7 @@
       "Name": "Play Me By The Hour",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "poetent",
@@ -933,7 +938,7 @@
       "Name": "Put A Ring On It",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "show_me_some_skin",
@@ -963,9 +968,9 @@
       "ID": "video_saved_the_radio_star",
       "SetID": "2db2j74",
       "Name": "Video Saved The Radio Star",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 35,
-      "UsersEstimate": 123
+      "UsersEstimate": 120
     },
     {
       "ID": "voyeur",
@@ -988,7 +993,7 @@
     {
       "ID": "2db2j74",
       "IsBase": true,
-      "Progressed": 316,
+      "Progressed": 317,
       "Completed": 3
     }
   ],
@@ -996,8 +1001,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2024-01-05T19:08:26.2557143+00:00",
+  "LastChanged_Achievements": "2024-01-05T20:06:18.4322764+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:29.4282289+00:00",
-  "LastUpdate_Ratings": "2024-01-05T19:04:15.5459316+00:00",
-  "LastUpdate_Achievements": "2024-01-05T19:08:26.2557353+00:00"
+  "LastUpdate_Ratings": "2024-01-05T20:02:56.312163+00:00",
+  "LastUpdate_Achievements": "2024-01-05T20:06:18.4322882+00:00"
 }

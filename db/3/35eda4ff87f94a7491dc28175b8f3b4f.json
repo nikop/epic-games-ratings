@@ -2,10 +2,10 @@
   "ID": "35eda4ff87f94a7491dc28175b8f3b4f",
   "Name": "Eternal Threads",
   "ProductSlug": "eternal-threads-197169",
-  "Ranking_Rating": 821,
+  "Ranking_Rating": 820,
   "Ranking_Popularity": 580,
   "Ranking_PopularitySum": 580,
-  "Ranking_EOS_Progress": 152,
+  "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_NewCompleters": 24,
@@ -281,9 +281,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20346,
+  "EOS_Progressed": 20355,
   "EOS_Completed": 96,
-  "EOS_NewPlayers": 1689,
+  "EOS_NewPlayers": 1686,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -7001,6 +7001,11 @@
       "Time": "2024-01-05T19:07:38.8565584+00:00",
       "NumProgressed": 20346,
       "NumCompleted": 96
+    },
+    {
+      "Time": "2024-01-05T20:05:40.4680602+00:00",
+      "NumProgressed": 20355,
+      "NumCompleted": 96
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -7021,7 +7026,7 @@
       "Name": "Beam Me Up Scotty",
       "Percentage": 7,
       "XP": 200,
-      "UsersEstimate": 1424
+      "UsersEstimate": 1425
     },
     {
       "ID": "LISTEN_TO_ALL_6_VOICEMAILS_1_4",
@@ -7045,7 +7050,7 @@
       "Name": "Savior",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 1831
+      "UsersEstimate": 1832
     },
     {
       "ID": "SAVE_EVERYONE_PERFECT_1_2",
@@ -7053,7 +7058,7 @@
       "Name": "Righter of Wrongs",
       "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1018
     },
     {
       "ID": "SAVE_ONE_PERSON_1_0",
@@ -7061,7 +7066,7 @@
       "Name": "Rescuer",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2442
+      "UsersEstimate": 2443
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -7069,7 +7074,7 @@
       "Name": "Secrets Out",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 1424
+      "UsersEstimate": 1425
     },
     {
       "ID": "UNLOCK_ALL_4_DOORS_1_3",
@@ -7092,7 +7097,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 20346,
+      "Progressed": 20355,
       "Completed": 96
     }
   ],
@@ -7100,8 +7105,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2024-01-02T16:59:56.4750656+00:00",
-  "LastChanged_Achievements": "2024-01-05T19:07:38.8565578+00:00",
+  "LastChanged_Achievements": "2024-01-05T20:05:40.4680598+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:24.8589698+00:00",
-  "LastUpdate_Ratings": "2024-01-05T19:02:23.0423621+00:00",
-  "LastUpdate_Achievements": "2024-01-05T19:07:38.8565992+00:00"
+  "LastUpdate_Ratings": "2024-01-05T20:00:21.173777+00:00",
+  "LastUpdate_Achievements": "2024-01-05T20:05:40.4680987+00:00"
 }

@@ -1,43 +1,43 @@
 # Darksiders III
 [Store](https://store.epicgames.com/en-US/p/darksiders3)  
 [View Rawdata](../../db/d/darksiders_iii.json)  
-Rating: 4.48 (Ranked 653)  
+Rating: 4.48 (Ranked 654)  
 Number of Ratings: 116  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 77.00% | ~335 |
-| First of many… | 67.00% | ~291 |
-| Helping Hand | 63.00% | ~274 |
-| Increased Vigor | 59.00% | ~257 |
-| Fight Fire with Fire | 57.00% | ~248 |
+| Green with Envy | 78.00% | ~340 |
+| First of many… | 67.00% | ~292 |
+| Helping Hand | 63.00% | ~275 |
+| Increased Vigor | 58.00% | ~253 |
+| Fight Fire with Fire | 57.00% | ~249 |
 | Increased Capacity | 54.00% | ~235 |
 | Just the start | 48.00% | ~209 |
-| Perfect Storm | 46.00% | ~200 |
-| All That Glitters | 46.00% | ~200 |
+| Perfect Storm | 46.00% | ~201 |
+| All That Glitters | 45.00% | ~196 |
 | Enhance! | 42.00% | ~183 |
 | One Of the Chosen | 40.00% | ~174 |
 | Throne Potato | 39.00% | ~170 |
-| Devil's in the Details | 38.00% | ~165 |
-| Five's a Crowd | 38.00% | ~165 |
-| 25 to Life | 38.00% | ~165 |
+| Five's a Crowd | 39.00% | ~170 |
+| Devil's in the Details | 38.00% | ~166 |
+| 25 to Life | 38.00% | ~166 |
 | Salvation | 37.00% | ~161 |
-| Soul Harvester | 35.00% | ~152 |
+| Soul Harvester | 35.00% | ~153 |
 | Unshakable Fortitude | 34.00% | ~148 |
-| I Wanna Rock | 32.00% | ~139 |
-| Delusions of Grandeur | 32.00% | ~139 |
+| I Wanna Rock | 32.00% | ~140 |
+| Delusions of Grandeur | 32.00% | ~140 |
 | Love Tap | 31.00% | ~135 |
-| Maximum Vigor | 30.00% | ~130 |
-| Freeze Frame | 27.00% | ~117 |
-| Eat Your Heart Out | 27.00% | ~117 |
-| For Whom the Bell Tolls | 27.00% | ~117 |
+| Maximum Vigor | 30.00% | ~131 |
+| For Whom the Bell Tolls | 28.00% | ~122 |
+| Freeze Frame | 27.00% | ~118 |
+| Eat Your Heart Out | 27.00% | ~118 |
 | Unyielding Strength | 25.00% | ~109 |
 | Can you restore the Balance? | 25.00% | ~109 |
-| Big Spender | 24.00% | ~104 |
+| Big Spender | 24.00% | ~105 |
 | Crowd Source | 23.00% | ~100 |
 | Cleanup Crew | 22.00% | ~96 |
-| Demon Meddler | 21.00% | ~91 |
-| Seeing Red | 21.00% | ~91 |
+| Demon Meddler | 21.00% | ~92 |
+| Seeing Red | 21.00% | ~92 |
 | Maximum Capacity | 20.00% | ~87 |
 | Egomaniac | 19.00% | ~83 |
 | Protector of Humanity | 17.00% | ~74 |
@@ -71,7 +71,7 @@ Number of Ratings: 116  (23.09.2022)
 | Quite Proper | 0.90% | ~4 |
 | Beast Mode | 0.70% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 435 (Ranked 358)  
+Progressed: 436 (Ranked 358)  
 Completed: 1 (0.23%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 1 (0.23%) (Ranked 267)
 | 2024-01-02 | 388 | 1 |
 | 2024-01-03 | 405 | 1 |
 | 2024-01-04 | 422 | 1 |
-| 2024-01-05 | 435 | 1 |
+| 2024-01-05 | 436 | 1 |
 ## Awards
 Max (Great Boss Battles): 96  (Ranked 386)  
 Sum: 96 (Ranked 470)  

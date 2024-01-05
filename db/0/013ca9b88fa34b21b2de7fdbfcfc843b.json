@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 370,
-  "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -247,7 +247,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8881,
+  "EOS_Progressed": 8884,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
@@ -9742,6 +9742,11 @@
       "Time": "2024-01-05T19:11:27.8036089+00:00",
       "NumProgressed": 8881,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-05T20:10:04.6642313+00:00",
+      "NumProgressed": 8884,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -9762,7 +9767,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -9808,9 +9813,9 @@
       "ID": "CHAPTER_8_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Fae Farmer",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 90,
-      "UsersEstimate": 53
+      "UsersEstimate": 62
     },
     {
       "ID": "COLLECT_CLOVER",
@@ -9858,7 +9863,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -9906,7 +9911,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -9984,9 +9989,9 @@
       "ID": "SPEND_FIRSTYEAR",
       "SetID": "9eia0f5",
       "Name": "Azorian Anniversary",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 71
     },
     {
       "ID": "UPGRADE_ALLSKILLSMAX",
@@ -10034,7 +10039,7 @@
       "Name": "A Pal To All",
       "Percentage": 0.1,
       "XP": 90,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "DLC1_ACHIEVEMENT_02",
@@ -10042,7 +10047,7 @@
       "Name": "Scroll Hunter",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "DLC1_ACHIEVEMENT_03",
@@ -10058,7 +10063,7 @@
       "Name": "Splish-Splash",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "DLC1_ACHIEVEMENT_05",
@@ -10066,7 +10071,7 @@
       "Name": "Archi-Pal-igo Aficionado",
       "Percentage": 0.1,
       "XP": 90,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "DLC1_ACHIEVEMENT_06",
@@ -10074,7 +10079,7 @@
       "Name": "Azorian Hat Dance",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "DLC1_ACHIEVEMENT_07",
@@ -10082,7 +10087,7 @@
       "Name": "Going Down",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "DLC1_ACHIEVEMENT_08",
@@ -10097,13 +10102,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8881,
+      "Progressed": 8884,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1498,
+      "Progressed": 1501,
       "Completed": 1050
     }
   ],
@@ -10111,8 +10116,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2024-01-04T01:49:56.9201089+00:00",
-  "LastChanged_Achievements": "2024-01-05T19:11:27.8036083+00:00",
+  "LastChanged_Achievements": "2024-01-05T20:10:04.6642311+00:00",
   "LastUpdate_AppInfo": "2024-01-05T13:01:18.6366016+00:00",
-  "LastUpdate_Ratings": "2024-01-05T19:04:28.6114197+00:00",
-  "LastUpdate_Achievements": "2024-01-05T19:11:27.8037024+00:00"
+  "LastUpdate_Ratings": "2024-01-05T20:03:06.450889+00:00",
+  "LastUpdate_Achievements": "2024-01-05T20:10:04.6643137+00:00"
 }

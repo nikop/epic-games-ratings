@@ -1,15 +1,15 @@
 # ATOM RPG
 [Store](https://store.epicgames.com/en-US/p/atom-rpg-3adb54)  
 [View Rawdata](../../db/a/atom_rpg.json)  
-Rating: 4.48 (Ranked 653)  
+Rating: 4.48 (Ranked 654)  
 Number of Ratings: 54  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 99.00% | ~1,609 |
-| One HIT wonder | 34.00% | ~552 |
+| Atom Agent | 99.00% | ~1,610 |
+| One HIT wonder | 34.00% | ~553 |
 | Wanderer | 32.00% | ~520 |
-| One shot, one kill | 26.00% | ~422 |
+| One shot, one kill | 26.00% | ~423 |
 | Traveler | 23.00% | ~374 |
 | Grave Robber | 17.00% | ~276 |
 | Head Burst | 17.00% | ~276 |
@@ -28,22 +28,22 @@ Number of Ratings: 54  (23.09.2022)
 | Secret room | 4.00% | ~65 |
 | Indy | 3.00% | ~49 |
 | Wishmaster | 3.00% | ~49 |
-| Career criminal | 2.00% | ~32 |
+| Career criminal | 2.00% | ~33 |
 | Neanderthal | 1.00% | ~16 |
 | Cosmic Horror | 1.00% | ~16 |
 | It was worth a shot | 0.90% | ~15 |
 | Ghostbuster | 0.60% | ~10 |
-| Cheeki Breeki | 0.40% | ~6 |
-| It's a classic! | 0.40% | ~6 |
-| Comrade Yogi | 0.40% | ~6 |
-| Tourist Korallov | 0.40% | ~6 |
+| Cheeki Breeki | 0.40% | ~7 |
+| It's a classic! | 0.40% | ~7 |
+| Comrade Yogi | 0.40% | ~7 |
+| Tourist Korallov | 0.40% | ~7 |
 | Expert | 0.30% | ~5 |
 | Mystical relics | 0.20% | ~3 |
 | 27 Club | 0.10% | ~2 |
 | No Name, No Slogan | 0.10% | ~2 |
 | Pacifist | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,625 (Ranked 260)  
+Progressed: 1,626 (Ranked 260)  
 Completed: 1 (0.06%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 1 (0.06%) (Ranked 329)
 | 2024-01-02 | 1,587 | 1 |
 | 2024-01-03 | 1,594 | 1 |
 | 2024-01-04 | 1,611 | 1 |
-| 2024-01-05 | 1,625 | 1 |
+| 2024-01-05 | 1,626 | 1 |
 ## Awards
 Max (Character Customization): 52  (Ranked 445)  
 Sum: 52 (Ranked 503)  

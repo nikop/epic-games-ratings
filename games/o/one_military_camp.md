@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 52.00% | ~147 |
+| First Step | 51.00% | ~145 |
 | The 4 Pillars | 49.00% | ~139 |
 | Capitalism | 20.00% | ~57 |
 | Green Energy | 12.00% | ~34 |
@@ -12,7 +12,7 @@
 | Great Producer | 11.00% | ~31 |
 | Desert Power | 10.00% | ~28 |
 | Indebted | 10.00% | ~28 |
-| Health Care | 9.00% | ~25 |
+| Health Care | 9.00% | ~26 |
 | Perfect Soldier | 8.00% | ~23 |
 | Desert Rat | 8.00% | ~23 |
 | Healing | 7.00% | ~20 |
@@ -28,10 +28,10 @@
 | Outdoor Decorator | 4.00% | ~11 |
 | Property Bro | 4.00% | ~11 |
 | Training Camp | 4.00% | ~11 |
-| Tear Down the Wall! | 3.00% | ~8 |
-| Supersoldier | 3.00% | ~8 |
-| Vive le Résistance | 3.00% | ~8 |
-| No News is Good News | 3.00% | ~8 |
+| Tear Down the Wall! | 3.00% | ~9 |
+| Supersoldier | 3.00% | ~9 |
+| Vive le Résistance | 3.00% | ~9 |
+| No News is Good News | 3.00% | ~9 |
 | Snowman | 2.00% | ~6 |
 | Human Resources | 2.00% | ~6 |
 | Winter Soldier | 2.00% | ~6 |
@@ -49,7 +49,7 @@
 | First Victory | 0.00% | ~0 |
 | Sandbox Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 283 (Ranked 399)  
+Progressed: 284 (Ranked 399)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,4 +144,4 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-02 | 269 | 0 |
 | 2024-01-03 | 277 | 0 |
 | 2024-01-04 | 282 | 0 |
-| 2024-01-05 | 283 | 0 |
+| 2024-01-05 | 284 | 0 |

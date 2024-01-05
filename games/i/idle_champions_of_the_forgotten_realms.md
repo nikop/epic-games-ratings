@@ -6,8 +6,8 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 3.00% | ~7,548 |
-| The Cursed Farmer | 2.00% | ~5,032 |
+| A Brief Tour of the Realms | 3.00% | ~7,549 |
+| The Cursed Farmer | 2.00% | ~5,033 |
 | Beast Intentions | 1.00% | ~2,516 |
 | The Mad Wizard | 1.00% | ~2,516 |
 | Welcome to Sigil | 0.80% | ~1,743 |
@@ -19,10 +19,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mad Cow Disease | 0.50% | ~1,258 |
 | Friendly Imps | 0.50% | ~1,258 |
 | Pure Energy | 0.50% | ~1,258 |
-| The Overgrown Grove | 0.50% | ~1,089 |
-| Mental Gymnastics | 0.50% | ~1,089 |
-| A Persistent Buzzing | 0.40% | ~1,006 |
-| Terror in the Dark | 0.40% | ~1,006 |
+| The Overgrown Grove | 0.50% | ~1,090 |
+| Mental Gymnastics | 0.50% | ~1,090 |
+| A Persistent Buzzing | 0.40% | ~1,007 |
+| Terror in the Dark | 0.40% | ~1,007 |
 | Arcane Suppression | 0.40% | ~872 |
 | Misaligned in Sigil | 0.40% | ~872 |
 | Chaos Theory | 0.40% | ~872 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~218 |
 | A Wise Approach | 0.10% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251,616 (Ranked 70)  
+Progressed: 251,639 (Ranked 70)  
 Completed: 2,596 (1.03%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -813,7 +813,7 @@ Completed: 2,596 (1.03%) (Ranked 170)
 | 2024-01-02 | 250,032 | 2,585 |
 | 2024-01-03 | 250,594 | 2,588 |
 | 2024-01-04 | 251,128 | 2,592 |
-| 2024-01-05 | 251,616 | 2,596 |
+| 2024-01-05 | 251,639 | 2,596 |
 ## Awards
 Max (Great for Beginners): 5,750  (Ranked 72)  
 Sum: 33,337 (Ranked 41)  

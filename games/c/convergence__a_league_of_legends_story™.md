@@ -5,11 +5,11 @@ Rating: 4.67 (Ranked 286)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 45.00% | ~557 |
+| Time Heals All Wounds | 45.00% | ~558 |
 | Rail Rat | 34.00% | ~421 |
 | The Mysterious Stranger | 33.00% | ~409 |
 | Immaculate Aim | 28.00% | ~347 |
-| The Brass Boss | 27.00% | ~334 |
+| The Brass Boss | 27.00% | ~335 |
 | Time Flies | 26.00% | ~322 |
 | The Prince in Heels | 26.00% | ~322 |
 | Make Up For Lost Time | 25.00% | ~310 |
@@ -20,8 +20,8 @@ Rating: 4.67 (Ranked 286)
 | Fast Learner | 24.00% | ~297 |
 | The Steel Shadow | 23.00% | ~285 |
 | Breaking Down Barriers | 23.00% | ~285 |
-| Right On Time | 22.00% | ~272 |
-| The Wicked Twins | 22.00% | ~272 |
+| Right On Time | 22.00% | ~273 |
+| The Wicked Twins | 22.00% | ~273 |
 | Like Clockwork | 21.00% | ~260 |
 | The Betrayer | 21.00% | ~260 |
 | Golem Chaser | 21.00% | ~260 |
@@ -42,7 +42,7 @@ Rating: 4.67 (Ranked 286)
 | Factorywood Explorer | 10.00% | ~124 |
 | Fairgrounds Explorer | 10.00% | ~124 |
 | Theater Explorer | 10.00% | ~124 |
-| Cultivair Explorer | 9.00% | ~111 |
+| Cultivair Explorer | 9.00% | ~112 |
 | Corin Goes Home | 8.00% | ~99 |
 | Sartorialist | 8.00% | ~99 |
 | Entresol Explorer | 8.00% | ~99 |
@@ -59,7 +59,7 @@ Rating: 4.67 (Ranked 286)
 | Raw Talent | 0.60% | ~7 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,238 (Ranked 280)  
+Progressed: 1,239 (Ranked 280)  
 Completed: 6 (0.48%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 6 (0.48%) (Ranked 221)
 | 2024-01-02 | 1,201 | 6 |
 | 2024-01-03 | 1,216 | 6 |
 | 2024-01-04 | 1,228 | 6 |
-| 2024-01-05 | 1,238 | 6 |
+| 2024-01-05 | 1,239 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

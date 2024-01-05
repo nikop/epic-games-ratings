@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 227,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1578,7 +1578,7 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 27762,
+  "EOS_Progressed": 27763,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 634,
   "EOS_NewCompleters": 0,
@@ -13138,6 +13138,11 @@
       "Time": "2024-01-05T19:11:15.4441882+00:00",
       "NumProgressed": 27762,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-05T20:09:54.4044184+00:00",
+      "NumProgressed": 27763,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -13341,7 +13346,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "EndTimerFail",
@@ -13460,21 +13465,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 27762,
+      "Progressed": 27763,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 6692,
+      "Progressed": 6693,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2024-01-05T17:59:53.3686411+00:00",
-  "LastChanged_Achievements": "2024-01-05T19:11:15.4441878+00:00",
+  "LastChanged_Achievements": "2024-01-05T20:09:54.4044182+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.0569835+00:00",
-  "LastUpdate_Ratings": "2024-01-05T19:00:42.1837478+00:00",
-  "LastUpdate_Achievements": "2024-01-05T19:11:15.444282+00:00"
+  "LastUpdate_Ratings": "2024-01-05T19:59:01.2702801+00:00",
+  "LastUpdate_Achievements": "2024-01-05T20:09:54.4044974+00:00"
 }
