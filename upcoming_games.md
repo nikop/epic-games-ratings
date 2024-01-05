@@ -27,6 +27,7 @@
 | [Geometric Sniper](games/1/17514f68442f4cb19f6219f45309142b.md) | 2024-01-31 | - |  | - | - |
 | [Match Three Pirates 2](games/9/99b0be691570460b8cfdc9282fc011ab.md) | 2024-01-31 | - |  | - | - |
 | [Pro Basketball Manager 2024](games/e/e93913390878452c9bc11f52aa074cf5.md) | 2024-01-31 | - |  | - | - |
+| [Sipher Odyssey](games/6/64ece5ee89d84cb99ddd8929fa957a30.md) | 2024-01-31 | - |  | - | - |
 | [The Harvest](games/1/171eb5b083604de697c6d64e243d308b.md) | 2024-01-31 | - |  | - | - |
 | [The Evolving Forest](games/6/6e80378d8a1444cf94e8221bee233464.md) | 2024-01-31 | - |  | - | - |
 | [Argonauts Agency 5: Captive of Circe](games/7/7f9155561a3e461a83739c94459d013b.md) | 2024-02-01 | - |  | - | - |
