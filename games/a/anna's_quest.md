@@ -35,7 +35,7 @@
 | Kill it! KILL IT! | 20.00% | ~19 |
 | Ring-a-ding-ding | 19.00% | ~18 |
 | Close the deal | 18.00% | ~17 |
-| Bahahahaha... | 17.00% | ~16 |
+| Bahahahaha... | 18.00% | ~17 |
 | Makeover | 16.00% | ~15 |
 | Singstar | 16.00% | ~15 |
 | Cameodalic | 16.00% | ~15 |

@@ -335,9 +335,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3999,
+  "EOS_Progressed": 4002,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7980,6 +7980,11 @@
       "Time": "2024-01-05T22:04:10.6793894+00:00",
       "NumProgressed": 3999,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T23:06:13.3942805+00:00",
+      "NumProgressed": 4002,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -7991,7 +7996,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1040
+      "UsersEstimate": 1041
     },
     {
       "ID": "ACH_BASE_10",
@@ -8055,7 +8060,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1081
     },
     {
       "ID": "ACH_BASE_19",
@@ -8079,7 +8084,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1280
+      "UsersEstimate": 1281
     },
     {
       "ID": "ACH_BASE_22",
@@ -8103,7 +8108,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "ACH_BASE_25",
@@ -8446,13 +8451,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 2183,
+      "Progressed": 2186,
       "Completed": 10
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3999,
+      "Progressed": 4002,
       "Completed": 0
     }
   ],
@@ -8460,8 +8465,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2024-01-04T06:58:36.3655707+00:00",
-  "LastChanged_Achievements": "2024-01-05T22:04:10.6793891+00:00",
+  "LastChanged_Achievements": "2024-01-05T23:06:13.3942801+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:27.7465752+00:00",
-  "LastUpdate_Ratings": "2024-01-05T21:59:28.9652214+00:00",
-  "LastUpdate_Achievements": "2024-01-05T22:04:10.6794521+00:00"
+  "LastUpdate_Ratings": "2024-01-05T23:01:56.4765634+00:00",
+  "LastUpdate_Achievements": "2024-01-05T23:06:13.3943423+00:00"
 }

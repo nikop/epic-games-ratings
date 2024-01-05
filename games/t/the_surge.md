@@ -6,11 +6,11 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,953 |
-| I'll Be Back | 84.00% | ~4,426 |
-| Sorry, I Dropped This | 76.00% | ~4,004 |
-| First Day on the Job | 76.00% | ~4,004 |
-| Butcher's Bill | 54.00% | ~2,845 |
+| On My Own Two Feet | 94.00% | ~4,954 |
+| I'll Be Back | 84.00% | ~4,427 |
+| Sorry, I Dropped This | 76.00% | ~4,005 |
+| First Day on the Job | 76.00% | ~4,005 |
+| Butcher's Bill | 54.00% | ~2,846 |
 | P.A.X | 36.00% | ~1,897 |
 | Hey Listen | 36.00% | ~1,897 |
 | OPERATOR | 35.00% | ~1,844 |
@@ -44,10 +44,10 @@ Number of Ratings: 62  (23.09.2022)
 | Risk Assessment | 7.00% | ~369 |
 | Sunglasses at Night | 6.00% | ~316 |
 | Carbon Cat | 6.00% | ~316 |
-| It Lives! It Sniffs! It Conquers! | 5.00% | ~263 |
-| Man of Steel | 5.00% | ~263 |
-| Jack of All Trades | 5.00% | ~263 |
-| 3-2-1 | 5.00% | ~263 |
+| It Lives! It Sniffs! It Conquers! | 5.00% | ~264 |
+| Man of Steel | 5.00% | ~264 |
+| Jack of All Trades | 5.00% | ~264 |
+| 3-2-1 | 5.00% | ~264 |
 | Rusty Rat | 4.00% | ~211 |
 | Desecration | 4.00% | ~211 |
 | For the Good of Mankind | 3.00% | ~158 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~32 |
 | The Surge | 0.40% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,269 (Ranked 202)  
+Progressed: 5,270 (Ranked 202)  
 Completed: 18 (0.34%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 18 (0.34%) (Ranked 243)
 | 2024-01-02 | 5,210 | 18 |
 | 2024-01-03 | 5,224 | 18 |
 | 2024-01-04 | 5,249 | 18 |
-| 2024-01-05 | 5,269 | 18 |
+| 2024-01-05 | 5,270 | 18 |
 ## Awards
 Max (Great Boss Battles): 30  (Ranked 522)  
 Sum: 30 (Ranked 540)  

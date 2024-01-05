@@ -1037,9 +1037,9 @@
       "ID": "Jing",
       "SetID": "ag48e8e",
       "Name": "Jing Jang",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 70
+      "UsersEstimate": 72
     },
     {
       "ID": "Kamzik",
@@ -1053,9 +1053,9 @@
       "ID": "Kour",
       "SetID": "ag48e8e",
       "Name": "Spiral Smoke",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "KrabiPyramida",
@@ -1236,8 +1236,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2024-01-05T22:06:40.208336+00:00",
+  "LastChanged_Achievements": "2024-01-05T23:09:27.2281403+00:00",
   "LastUpdate_AppInfo": "2023-12-30T07:56:58.817379+00:00",
-  "LastUpdate_Ratings": "2024-01-05T22:03:24.7120045+00:00",
-  "LastUpdate_Achievements": "2024-01-05T22:06:40.2083645+00:00"
+  "LastUpdate_Ratings": "2024-01-05T23:05:09.7954454+00:00",
+  "LastUpdate_Achievements": "2024-01-05T23:09:27.2281698+00:00"
 }

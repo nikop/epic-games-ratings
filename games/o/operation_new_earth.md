@@ -5,8 +5,8 @@ Rating: 3.28 (Ranked 1,093)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Good to have Allies | 28.00% | ~610 |
-| Defenses Online | 25.00% | ~544 |
+| It's Good to have Allies | 27.00% | ~588 |
+| Defenses Online | 25.00% | ~545 |
 | Facility Online | 20.00% | ~436 |
 | Corporal | 15.00% | ~327 |
 | Sergeant | 12.00% | ~261 |
@@ -21,7 +21,7 @@ Rating: 3.28 (Ranked 1,093)
 | Silver Competitor | 8.00% | ~174 |
 | Captain | 8.00% | ~174 |
 | Factory Expansion | 8.00% | ~174 |
-| Exterminator | 7.00% | ~152 |
+| Exterminator | 7.00% | ~153 |
 | Know The Enemy | 6.00% | ~131 |
 | Silver Achiever | 6.00% | ~131 |
 | Moving On Up | 6.00% | ~131 |
@@ -44,7 +44,7 @@ Rating: 3.28 (Ranked 1,093)
 | Platinum Achiever | 0.10% | ~2 |
 | Platinum Competitor | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,178 (Ranked 243)  
+Progressed: 2,179 (Ranked 243)  
 Completed: 1 (0.05%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 1 (0.05%) (Ranked 335)
 | 2024-01-02 | 2,160 | 1 |
 | 2024-01-03 | 2,166 | 1 |
 | 2024-01-04 | 2,173 | 1 |
-| 2024-01-05 | 2,178 | 1 |
+| 2024-01-05 | 2,179 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

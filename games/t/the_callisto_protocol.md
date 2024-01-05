@@ -5,30 +5,30 @@ Rating: 4.21 (Ranked 952)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Outer Way | 24.00% | ~5,082 |
-| Flesh Wound | 23.00% | ~4,870 |
-| Desperate Times | 22.00% | ~4,658 |
-| Get a Grip | 20.00% | ~4,235 |
-| Paper Jams | 20.00% | ~4,235 |
-| Chew 'Em Up | 18.00% | ~3,811 |
-| Reforged | 17.00% | ~3,600 |
-| Float Like A Butterfly | 16.00% | ~3,388 |
-| If the SHU Fits... | 15.00% | ~3,176 |
-| Workplace Hazard | 14.00% | ~2,964 |
-| Without A Paddle | 12.00% | ~2,541 |
-| In the Pipe, Five by Five | 11.00% | ~2,329 |
-| Crash Site | 11.00% | ~2,329 |
-| Two Heads Are Better Than One | 10.00% | ~2,117 |
-| Power Up | 10.00% | ~2,117 |
-| Giving Back | 9.00% | ~1,906 |
-| Terminated | 9.00% | ~1,906 |
-| What Lies Beneath | 9.00% | ~1,906 |
-| Full Circle | 9.00% | ~1,906 |
-| You Need a Gun | 8.00% | ~1,694 |
-| I Do Belong Here | 7.00% | ~1,482 |
-| Keep Fighting | 7.00% | ~637 |
+| The Outer Way | 24.00% | ~5,085 |
+| Flesh Wound | 23.00% | ~4,873 |
+| Desperate Times | 22.00% | ~4,661 |
+| Get a Grip | 20.00% | ~4,237 |
+| Paper Jams | 20.00% | ~4,237 |
+| Chew 'Em Up | 18.00% | ~3,813 |
+| Reforged | 17.00% | ~3,602 |
+| Float Like A Butterfly | 16.00% | ~3,390 |
+| If the SHU Fits... | 15.00% | ~3,178 |
+| Workplace Hazard | 14.00% | ~2,966 |
+| Without A Paddle | 12.00% | ~2,542 |
+| In the Pipe, Five by Five | 11.00% | ~2,330 |
+| Crash Site | 11.00% | ~2,330 |
+| Two Heads Are Better Than One | 10.00% | ~2,119 |
+| Power Up | 10.00% | ~2,119 |
+| Giving Back | 9.00% | ~1,907 |
+| Terminated | 9.00% | ~1,907 |
+| What Lies Beneath | 9.00% | ~1,907 |
+| Full Circle | 9.00% | ~1,907 |
+| You Need a Gun | 8.00% | ~1,695 |
+| I Do Belong Here | 7.00% | ~1,483 |
+| Keep Fighting | 7.00% | ~638 |
 | The Commonality | 5.00% | ~1,059 |
-| It's Time | 5.00% | ~455 |
+| It's Time | 5.00% | ~456 |
 | In Striking Distance | 4.00% | ~847 |
 | One Last Job | 3.00% | ~273 |
 | Big Spender | 2.00% | ~182 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 952)
 | Big Game Hunter | 0.10% | ~9 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,174 (Ranked 151)  
+Progressed: 21,186 (Ranked 151)  
 Completed: 82 (0.39%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 82 (0.39%) (Ranked 236)
 | 2024-01-02 | 20,695 | 82 |
 | 2024-01-03 | 20,833 | 82 |
 | 2024-01-04 | 20,995 | 82 |
-| 2024-01-05 | 21,174 | 82 |
+| 2024-01-05 | 21,186 | 82 |
 ## Awards
 Max (Amazing Characters): 120  (Ranked 355)  
 Sum: 587 (Ranked 324)  

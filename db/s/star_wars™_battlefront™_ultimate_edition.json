@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2646,
+  "EOS_Progressed": 2649,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 312,
   "EOS_NewCompleters": 0,
@@ -7274,6 +7274,11 @@
       "Time": "2024-01-05T22:10:41.73918+00:00",
       "NumProgressed": 2646,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-05T23:12:51.7333868+00:00",
+      "NumProgressed": 2649,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -7510,7 +7515,7 @@
       "Name": "New Recruit",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 2302
+      "UsersEstimate": 2305
     },
     {
       "ID": "achievement_36",
@@ -7526,7 +7531,7 @@
       "Name": "Off to a good start",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1641
+      "UsersEstimate": 1642
     },
     {
       "ID": "achievement_38",
@@ -7558,7 +7563,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1376
+      "UsersEstimate": 1377
     },
     {
       "ID": "achievement_41",
@@ -7726,7 +7731,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "achievement_60",
@@ -7789,13 +7794,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2646,
+      "Progressed": 2649,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2646,
+      "Progressed": 2649,
       "Completed": 1
     }
   ],
@@ -7803,8 +7808,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-05T22:10:41.7391796+00:00",
+  "LastChanged_Achievements": "2024-01-05T23:12:51.7333866+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:19.759459+00:00",
-  "LastUpdate_Ratings": "2024-01-05T22:02:56.9781292+00:00",
-  "LastUpdate_Achievements": "2024-01-05T22:10:41.7392566+00:00"
+  "LastUpdate_Ratings": "2024-01-05T23:04:32.6068712+00:00",
+  "LastUpdate_Achievements": "2024-01-05T23:12:51.733463+00:00"
 }

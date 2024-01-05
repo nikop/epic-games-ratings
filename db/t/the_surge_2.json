@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -4393,9 +4393,9 @@
       "ID": "ACHV_06",
       "SetID": "8p5mlmc",
       "Name": "Home Invasion",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 546
+      "UsersEstimate": 571
     },
     {
       "ID": "ACHV_07",
@@ -4818,8 +4818,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-29T03:00:05.8444174+00:00",
-  "LastChanged_Achievements": "2024-01-05T22:06:41.4444211+00:00",
+  "LastChanged_Achievements": "2024-01-05T23:09:28.6519057+00:00",
   "LastUpdate_AppInfo": "2023-12-30T17:56:59.176771+00:00",
-  "LastUpdate_Ratings": "2024-01-05T22:00:44.2191161+00:00",
-  "LastUpdate_Achievements": "2024-01-05T22:06:41.4444864+00:00"
+  "LastUpdate_Ratings": "2024-01-05T23:03:37.2993759+00:00",
+  "LastUpdate_Achievements": "2024-01-05T23:09:28.6519626+00:00"
 }

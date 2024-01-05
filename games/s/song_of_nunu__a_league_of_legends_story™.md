@@ -13,8 +13,8 @@ Rating: 4.52 (Ranked 575)
 | He's Famous! | 65.00% | ~958 |
 | Cutie Poro | 65.00% | ~958 |
 | Krugmazing | 64.00% | ~943 |
+| The Fire Below the Mountain | 61.00% | ~899 |
 | Moneyball | 60.00% | ~884 |
-| The Fire Below the Mountain | 60.00% | ~884 |
 | No Bites | 55.00% | ~811 |
 | Iceborn | 55.00% | ~811 |
 | Boom Things | 53.00% | ~781 |

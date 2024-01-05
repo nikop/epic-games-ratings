@@ -4,7 +4,7 @@
   "ProductSlug": "might-and-magic-heroes-3",
   "Ranking_Rating": 68,
   "Ranking_Popularity": 279,
-  "Ranking_PopularitySum": 279,
+  "Ranking_PopularitySum": 278,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 569,
@@ -2918,10 +2918,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 966,
       "NumberOfAwardsMax": 253
+    },
+    {
+      "Time": "2024-01-05T23:00:34.6432001+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 967,
+      "NumberOfAwardsMax": 253
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 966,
+  "NumberOfAwards": 967,
   "NumberOfAwardsMax": 253,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2965,7 +2971,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 69
+      "Count": 70
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3009,8 +3015,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:33.8101196+00:00",
-  "LastChanged": "2024-01-05T19:58:06.0343597+00:00",
+  "LastChanged": "2024-01-05T23:00:34.6432+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:45.0383846+00:00",
-  "LastUpdate_Ratings": "2024-01-05T21:58:26.8044759+00:00",
-  "LastUpdate_Achievements": "2024-01-05T22:09:37.9419015+00:00"
+  "LastUpdate_Ratings": "2024-01-05T23:00:34.6432006+00:00",
+  "LastUpdate_Achievements": "2024-01-05T23:11:32.1027787+00:00"
 }

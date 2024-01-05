@@ -4,7 +4,7 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewPlayers": 348,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 923,
+  "EOS_Progressed": 925,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2211,6 +2211,11 @@
       "Time": "2024-01-05T22:10:07.3130056+00:00",
       "NumProgressed": 923,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T23:12:09.8541902+00:00",
+      "NumProgressed": 925,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 29,
@@ -2222,7 +2227,7 @@
       "Name": "Augmented",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ACHV_BIGGERTHEYARE",
@@ -2254,7 +2259,7 @@
       "Name": "The City",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "ACHV_CYBERNETIC",
@@ -2294,7 +2299,7 @@
       "Name": "Eden Heights",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACHV_FULLYMODDED",
@@ -2334,7 +2339,7 @@
       "Name": "Nanonic I",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "ACHV_NANONIC2",
@@ -2342,7 +2347,7 @@
       "Name": "Nanonic II",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACHV_NANONIC3",
@@ -2398,7 +2403,7 @@
       "Name": "Terminated II",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ACHV_TERMINATED3",
@@ -2422,7 +2427,7 @@
       "Name": "Unlocked and Loaded",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "ACHV_UPCLOSEANDPERSONAL",
@@ -2430,7 +2435,7 @@
       "Name": "Up Close And Personal",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACHV_WEAPONSMITH",
@@ -2453,13 +2458,13 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 923,
+      "Progressed": 925,
       "Completed": 0
     },
     {
       "ID": "cd9kng8",
       "IsBase": false,
-      "Progressed": 349,
+      "Progressed": 351,
       "Completed": 3
     }
   ],
@@ -2467,8 +2472,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2024-01-05T22:10:07.3130052+00:00",
+  "LastChanged_Achievements": "2024-01-05T23:12:09.8541899+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:52.3140694+00:00",
-  "LastUpdate_Ratings": "2024-01-05T21:57:38.6133277+00:00",
-  "LastUpdate_Achievements": "2024-01-05T22:10:07.3130414+00:00"
+  "LastUpdate_Ratings": "2024-01-05T22:59:29.4266022+00:00",
+  "LastUpdate_Achievements": "2024-01-05T23:12:09.8542228+00:00"
 }

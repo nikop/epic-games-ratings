@@ -1190,9 +1190,9 @@
       "ID": "SteamingRich",
       "SetID": "4bd750m",
       "Name": "Steaming Rich",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 51
     },
     {
       "ID": "Systematic",
@@ -1245,8 +1245,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2024-01-05T22:05:28.1060194+00:00",
+  "LastChanged_Achievements": "2024-01-05T23:07:54.4686812+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.9245287+00:00",
-  "LastUpdate_Ratings": "2024-01-05T22:03:39.8178443+00:00",
-  "LastUpdate_Achievements": "2024-01-05T22:05:28.106042+00:00"
+  "LastUpdate_Ratings": "2024-01-05T23:05:30.4421848+00:00",
+  "LastUpdate_Achievements": "2024-01-05T23:07:54.4687112+00:00"
 }

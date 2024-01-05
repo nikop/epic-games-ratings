@@ -5,7 +5,7 @@
   "Ranking_Rating": 910,
   "Ranking_Popularity": 580,
   "Ranking_PopularitySum": 580,
-  "Ranking_EOS_Progress": 306,
+  "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 155,
@@ -349,7 +349,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 808,
+  "EOS_Progressed": 809,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 272,
   "EOS_NewCompleters": 0,
@@ -2089,6 +2089,11 @@
       "Time": "2024-01-05T22:09:17.3461247+00:00",
       "NumProgressed": 808,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T23:11:05.3831894+00:00",
+      "NumProgressed": 809,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -2109,7 +2114,7 @@
       "Name": "Highballer",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "CareerChamp1",
@@ -2125,7 +2130,7 @@
       "Name": "National Amateurs Champion",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "CareerChamp3",
@@ -2171,9 +2176,9 @@
       "ID": "CollectVehiclesB",
       "SetID": "5hd282c",
       "Name": "Junk Collector",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 113
+      "UsersEstimate": 121
     },
     {
       "ID": "CreditsEarnedA",
@@ -2260,7 +2265,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 808,
+      "Progressed": 809,
       "Completed": 0
     }
   ],
@@ -2268,8 +2273,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-04T23:58:04.2803928+00:00",
-  "LastChanged_Achievements": "2024-01-05T22:09:17.3461244+00:00",
+  "LastChanged_Achievements": "2024-01-05T23:11:05.3831889+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:31.5719432+00:00",
-  "LastUpdate_Ratings": "2024-01-05T21:58:20.1658952+00:00",
-  "LastUpdate_Achievements": "2024-01-05T22:09:17.3461483+00:00"
+  "LastUpdate_Ratings": "2024-01-05T23:00:24.7420179+00:00",
+  "LastUpdate_Achievements": "2024-01-05T23:11:05.3832097+00:00"
 }

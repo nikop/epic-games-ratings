@@ -2,7 +2,7 @@
   "ID": "2d6693ed985e4774a19d77291f8593db",
   "Name": "Bratz\u2122: Flaunt Your Fashion",
   "ProductSlug": "bratz-flaunt-your-fashion-95d529",
-  "Ranking_EOS_Progress": 456,
+  "Ranking_EOS_Progress": 455,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 342,
   "Ranking_EOS_NewCompleters": 155,
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 146,
+  "EOS_Progressed": 147,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
@@ -591,6 +591,11 @@
       "Time": "2024-01-05T18:04:53.4861306+00:00",
       "NumProgressed": 146,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T23:06:41.8399331+00:00",
+      "NumProgressed": 147,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 19,
@@ -602,7 +607,7 @@
       "Name": "Welcome to Stilesville",
       "Percentage": 97,
       "XP": 50,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "10",
@@ -618,7 +623,7 @@
       "Name": "Creating New Trends",
       "Percentage": 27,
       "XP": 70,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "12",
@@ -642,7 +647,7 @@
       "Name": "Seoul Hidden Style",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "15",
@@ -712,9 +717,9 @@
       "ID": "5",
       "SetID": "41h3j82",
       "Name": "We will need a bigger wardrobe",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 70,
-      "UsersEstimate": 61
+      "UsersEstimate": 60
     },
     {
       "ID": "6",
@@ -746,14 +751,14 @@
       "Name": "Talented Performer",
       "Percentage": 55,
       "XP": 70,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     }
   ],
   "AchievementSets": [
     {
       "ID": "41h3j82",
       "IsBase": true,
-      "Progressed": 146,
+      "Progressed": 147,
       "Completed": 0
     }
   ],
@@ -761,8 +766,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2024-01-05T22:04:32.3955501+00:00",
+  "LastChanged_Achievements": "2024-01-05T23:06:41.8399328+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:52.6103683+00:00",
-  "LastUpdate_Ratings": "2024-01-05T21:58:02.7642196+00:00",
-  "LastUpdate_Achievements": "2024-01-05T22:04:32.3955629+00:00"
+  "LastUpdate_Ratings": "2024-01-05T23:00:01.3365474+00:00",
+  "LastUpdate_Achievements": "2024-01-05T23:06:41.8399457+00:00"
 }

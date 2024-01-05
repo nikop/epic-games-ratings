@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 85.00% | ~240 |
-| A piece of the story | 63.00% | ~178 |
-| It's covered up for a reason | 56.00% | ~158 |
+| Something important | 86.00% | ~243 |
+| A piece of the story | 64.00% | ~181 |
+| It's covered up for a reason | 57.00% | ~161 |
 | Wanderer | 52.00% | ~147 |
-| Scraps of love | 48.00% | ~135 |
+| Scraps of love | 49.00% | ~139 |
 | The artist’s impression | 47.00% | ~133 |
 | Do what you have to | 41.00% | ~116 |
 | Sign of weakness | 39.00% | ~110 |
 | Refuse to look | 35.00% | ~99 |
 | Face your fears | 29.00% | ~82 |
-| Finished it | 25.00% | ~70 |
+| Finished it | 25.00% | ~71 |
 | Whispers long forgotten | 16.00% | ~45 |
 | Sound Bite | 12.00% | ~34 |
 | The art of movement | 12.00% | ~34 |
@@ -24,9 +24,9 @@
 | Another perspective | 10.00% | ~28 |
 | Playtime | 10.00% | ~28 |
 | Tough conversation | 10.00% | ~28 |
-| A new way | 9.00% | ~25 |
 | First steps | 9.00% | ~25 |
 | The tragedy unfolds | 9.00% | ~25 |
+| A new way | 8.00% | ~23 |
 | Breaking free | 8.00% | ~23 |
 | True Reflection | 7.00% | ~20 |
 | Casting Finished | 6.00% | ~17 |
@@ -57,7 +57,7 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 282 (Ranked 402)  
+Progressed: 283 (Ranked 400)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,4 +131,4 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-02 | 256 | 0 |
 | 2024-01-03 | 265 | 0 |
 | 2024-01-04 | 274 | 0 |
-| 2024-01-05 | 282 | 0 |
+| 2024-01-05 | 283 | 0 |

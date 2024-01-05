@@ -1,25 +1,25 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.55 (Ranked 524)  
+Rating: 4.55 (Ranked 525)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~14,982 |
-| Pay 'n' Spray | 50.00% | ~9,248 |
-| All Dressed Up for San Fierro | 25.00% | ~4,624 |
-| The American Dream | 19.00% | ~3,514 |
-| School's Out | 18.00% | ~3,329 |
-| Smooth Moves | 17.00% | ~3,144 |
-| Today Was a Good Day | 15.00% | ~2,774 |
-| What happens in Las Venturas... | 14.00% | ~2,589 |
-| Horror of the Santa Maria | 10.00% | ~1,850 |
-| Liberty City State of Mind | 9.00% | ~1,665 |
-| Original Gangster | 8.00% | ~1,480 |
-| With Extra Dip | 7.00% | ~1,295 |
-| The End of the Line | 7.00% | ~1,295 |
-| Saviour | 6.00% | ~1,110 |
-| Rescue a Kitten Too? | 5.00% | ~925 |
+| Getting Started | 81.00% | ~14,995 |
+| Pay 'n' Spray | 50.00% | ~9,256 |
+| All Dressed Up for San Fierro | 25.00% | ~4,628 |
+| The American Dream | 19.00% | ~3,517 |
+| School's Out | 18.00% | ~3,332 |
+| Smooth Moves | 16.00% | ~2,962 |
+| Today Was a Good Day | 15.00% | ~2,777 |
+| What happens in Las Venturas... | 14.00% | ~2,592 |
+| Horror of the Santa Maria | 10.00% | ~1,851 |
+| Liberty City State of Mind | 9.00% | ~1,666 |
+| Original Gangster | 8.00% | ~1,481 |
+| With Extra Dip | 7.00% | ~1,296 |
+| The End of the Line | 7.00% | ~1,296 |
+| Saviour | 6.00% | ~1,111 |
+| Rescue a Kitten Too? | 5.00% | ~926 |
 | They Can’t Stop All of Us | 4.00% | ~740 |
 | What are the Odds | 4.00% | ~740 |
 | Bike or Biker | 3.00% | ~555 |
@@ -37,11 +37,11 @@ Rating: 4.55 (Ranked 524)
 | Lucky Spinner | 1.00% | ~185 |
 | Not a Player | 1.00% | ~185 |
 | Chick Magnet | 1.00% | ~185 |
-| Remastered | 0.70% | ~129 |
-| ...Here we go again | 0.50% | ~92 |
+| Remastered | 0.70% | ~130 |
+| ...Here we go again | 0.50% | ~93 |
 | I Ain't No Buster | 0.40% | ~74 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,496 (Ranked 158)  
+Progressed: 18,512 (Ranked 158)  
 Completed: 72 (0.39%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,10 +301,10 @@ Completed: 72 (0.39%) (Ranked 236)
 | 2024-01-02 | 18,093 | 70 |
 | 2024-01-03 | 18,207 | 71 |
 | 2024-01-04 | 18,344 | 72 |
-| 2024-01-05 | 18,496 | 72 |
+| 2024-01-05 | 18,512 | 72 |
 ## Awards
 Max (Amazing Characters): 54  (Ranked 441)  
-Sum: 350 (Ranked 368)  
+Sum: 351 (Ranked 368)  
 Diff (max vs sum): 73  
 | Award | Count |
 | ----- | ----- |
@@ -312,7 +312,7 @@ Diff (max vs sum): 73
 | This game has Amazing Characters | 54 |
 | This game is Relaxing | 50 |
 | This game is Great for Beginners | 49 |
-| This game has Amazing Storytelling | 45 |
+| This game has Amazing Storytelling | 46 |
 | This game is Highly Recommended | 43 |
 | This game has Diverse Characters | 38 |
 | This game is Extremely Fun | 36 |
@@ -542,4 +542,4 @@ Diff (max vs sum): 73
 | 2024-01-02 | 4.55 | 49 | 324 |
 | 2024-01-03 | 4.55 | 50 | 330 |
 | 2024-01-04 | 4.55 | 52 | 341 |
-| 2024-01-05 | 4.55 | 54 | 350 |
+| 2024-01-05 | 4.55 | 54 | 351 |

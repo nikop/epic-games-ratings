@@ -4,11 +4,11 @@
   "ProductSlug": "shadow-tactics",
   "Ranking_Rating": 302,
   "Ranking_Popularity": 209,
-  "Ranking_PopularitySum": 148,
+  "Ranking_PopularitySum": 149,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 335,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -2470,9 +2470,9 @@
       "Count": 259
     }
   ],
-  "EOS_Progressed": 224234,
+  "EOS_Progressed": 224240,
   "EOS_Completed": 105,
-  "EOS_NewPlayers": 1689,
+  "EOS_NewPlayers": 1686,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -32435,6 +32435,11 @@
       "Time": "2024-01-05T22:05:48.5035916+00:00",
       "NumProgressed": 224234,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2024-01-05T23:08:21.260293+00:00",
+      "NumProgressed": 224240,
+      "NumCompleted": 105
     }
   ],
   "TotalAchievements": 44,
@@ -32486,7 +32491,7 @@
       "Name": "Disguised",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 20181
+      "UsersEstimate": 20182
     },
     {
       "ID": "FiveShadows",
@@ -32510,7 +32515,7 @@
       "Name": "Gear up",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8969
+      "UsersEstimate": 8970
     },
     {
       "ID": "Genin",
@@ -32518,7 +32523,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 26908
+      "UsersEstimate": 26909
     },
     {
       "ID": "HappyLittleAccidents",
@@ -32534,7 +32539,7 @@
       "Name": "Happy Planning",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 15696
+      "UsersEstimate": 15697
     },
     {
       "ID": "HighFiveTheMoon",
@@ -32566,7 +32571,7 @@
       "Name": "Jonin",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 15696
+      "UsersEstimate": 15697
     },
     {
       "ID": "Mercyful",
@@ -32598,7 +32603,7 @@
       "Name": "Mugen Unchained",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 15696
+      "UsersEstimate": 15697
     },
     {
       "ID": "NoGimmicks",
@@ -32614,7 +32619,7 @@
       "Name": "Noboru",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 8969
+      "UsersEstimate": 8970
     },
     {
       "ID": "Okkoto",
@@ -32662,7 +32667,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 20181
+      "UsersEstimate": 20182
     },
     {
       "ID": "Rollin",
@@ -32670,7 +32675,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 20181
+      "UsersEstimate": 20182
     },
     {
       "ID": "StillRollin",
@@ -32678,7 +32683,7 @@
       "Name": "Still Rollin\u0027",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8969
+      "UsersEstimate": 8970
     },
     {
       "ID": "Stoned",
@@ -32686,7 +32691,7 @@
       "Name": "Stoned",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8969
+      "UsersEstimate": 8970
     },
     {
       "ID": "StonedOx",
@@ -32702,7 +32707,7 @@
       "Name": "Tanuki Time",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 20181
+      "UsersEstimate": 20182
     },
     {
       "ID": "TheCave",
@@ -32797,15 +32802,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 224234,
+      "Progressed": 224240,
       "Completed": 105
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2024-01-05T20:00:15.2748862+00:00",
-  "LastChanged_Achievements": "2024-01-05T22:05:48.503591+00:00",
+  "LastChanged_Achievements": "2024-01-05T23:08:21.2602927+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:46.5494566+00:00",
-  "LastUpdate_Ratings": "2024-01-05T22:00:34.7528127+00:00",
-  "LastUpdate_Achievements": "2024-01-05T22:05:48.5037657+00:00"
+  "LastUpdate_Ratings": "2024-01-05T23:03:24.8112799+00:00",
+  "LastUpdate_Achievements": "2024-01-05T23:08:21.2604712+00:00"
 }

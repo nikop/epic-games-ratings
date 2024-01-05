@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 335,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -95,7 +95,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2178,
+  "EOS_Progressed": 2179,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
@@ -8385,6 +8385,11 @@
       "Time": "2024-01-05T18:05:29.0511954+00:00",
       "NumProgressed": 2178,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-05T23:07:17.2525719+00:00",
+      "NumProgressed": 2179,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8404,7 +8409,7 @@
       "Name": "Exterminator",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ach_defeat_players_10",
@@ -8570,9 +8575,9 @@
       "ID": "objective_key_alliance_join_1",
       "SetID": "bm61c2p",
       "Name": "It\u0027s Good to have Allies",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 610
+      "UsersEstimate": 588
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -8652,7 +8657,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -8699,7 +8704,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2178,
+      "Progressed": 2179,
       "Completed": 1
     }
   ],
@@ -8707,8 +8712,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-25T23:58:10.3014256+00:00",
-  "LastChanged_Achievements": "2024-01-05T22:04:59.6463456+00:00",
+  "LastChanged_Achievements": "2024-01-05T23:07:17.2525716+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:25.9392392+00:00",
-  "LastUpdate_Ratings": "2024-01-05T22:00:06.3561249+00:00",
-  "LastUpdate_Achievements": "2024-01-05T22:04:59.6463986+00:00"
+  "LastUpdate_Ratings": "2024-01-05T23:02:47.1496705+00:00",
+  "LastUpdate_Achievements": "2024-01-05T23:07:17.2526229+00:00"
 }

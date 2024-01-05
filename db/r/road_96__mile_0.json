@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 642,
+  "EOS_Progressed": 643,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -2327,6 +2327,11 @@
       "Time": "2024-01-05T22:10:29.4133617+00:00",
       "NumProgressed": 642,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-05T23:12:38.4611487+00:00",
+      "NumProgressed": 643,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -2338,7 +2343,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 46,
       "XP": 60,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "completeact2",
@@ -2410,7 +2415,7 @@
       "Name": "Souvenirs",
       "Percentage": 27,
       "XP": 40,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "scoreminrankrp1",
@@ -2457,7 +2462,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 642,
+      "Progressed": 643,
       "Completed": 3
     }
   ],
@@ -2465,8 +2470,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-05T22:10:29.4133613+00:00",
+  "LastChanged_Achievements": "2024-01-05T23:12:38.4611484+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:00.0371084+00:00",
-  "LastUpdate_Ratings": "2024-01-05T22:02:59.667133+00:00",
-  "LastUpdate_Achievements": "2024-01-05T22:10:29.413379+00:00"
+  "LastUpdate_Ratings": "2024-01-05T23:04:36.3151826+00:00",
+  "LastUpdate_Achievements": "2024-01-05T23:12:38.4611729+00:00"
 }

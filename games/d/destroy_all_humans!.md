@@ -1,7 +1,7 @@
 # Destroy All Humans!
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans)  
 [View Rawdata](../../db/d/destroy_all_humans!.json)  
-Rating: 4.63 (Ranked 356)  
+Rating: 4.63 (Ranked 357)  
 Number of Ratings: 85  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,25 +10,25 @@ Number of Ratings: 85  (23.09.2022)
 | Kaijuiced | 70.00% | ~241 |
 | Lie Back and Think of Albion | 65.00% | ~224 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 63.00% | ~217 |
-| I Look Up As I Walk to Takoshima | 60.00% | ~206 |
+| I Look Up As I Walk to Takoshima | 60.00% | ~207 |
 | Yettisoned | 58.00% | ~200 |
 | Pimp My Raid | 56.00% | ~193 |
-| Perfect Probulator | 56.00% | ~193 |
-| Lobster Blisque | 51.00% | ~175 |
-| Fly Me to the Moon Base | 48.00% | ~165 |
-| Earthly Pleasures | 48.00% | ~165 |
-| Ducks in a Row, Fish in a Barrel | 45.00% | ~155 |
-| Bodied Sattva | 37.00% | ~127 |
-| Forbidden Donut | 35.00% | ~120 |
-| Freshly Squeezed | 35.00% | ~120 |
+| Perfect Probulator | 55.00% | ~190 |
+| Lobster Blisque | 51.00% | ~176 |
+| Fly Me to the Moon Base | 48.00% | ~166 |
+| Earthly Pleasures | 48.00% | ~166 |
+| Ducks in a Row, Fish in a Barrel | 46.00% | ~159 |
+| Bodied Sattva | 37.00% | ~128 |
+| Freshly Squeezed | 36.00% | ~124 |
+| Forbidden Donut | 35.00% | ~121 |
 | Upgreatest | 34.00% | ~117 |
 | Deincarnated | 29.00% | ~100 |
-| Furon Fashion | 28.00% | ~96 |
+| Furon Fashion | 28.00% | ~97 |
 | Rock of the Bay | 27.00% | ~93 |
 | Trans-Siberian Express | 25.00% | ~86 |
 | Arkvoodle Doodle | 20.00% | ~69 |
 | Re-Return of the Clone of the Invasion II-2 | 20.00% | ~69 |
-| If You Know What I Mean | 17.00% | ~58 |
+| If You Know What I Mean | 17.00% | ~59 |
 | Ouch of Body Experience | 16.00% | ~55 |
 | Die Nasty | 15.00% | ~52 |
 | Mash Machine | 15.00% | ~52 |
@@ -47,7 +47,7 @@ Number of Ratings: 85  (23.09.2022)
 | Against All Odds | 2.00% | ~7 |
 | Steezy Down the Spine | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 344 (Ranked 379)  
+Progressed: 345 (Ranked 379)  
 Completed: 5 (1.45%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,7 +70,7 @@ Completed: 5 (1.45%) (Ranked 151)
 | 2024-01-02 | 296 | 5 |
 | 2024-01-03 | 310 | 5 |
 | 2024-01-04 | 325 | 5 |
-| 2024-01-05 | 344 | 5 |
+| 2024-01-05 | 345 | 5 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 500)  
 Sum: 35 (Ranked 530)  

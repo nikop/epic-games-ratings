@@ -3876,7 +3876,7 @@
   ],
   "EOS_Progressed": 242422,
   "EOS_Completed": 304,
-  "EOS_NewPlayers": 439,
+  "EOS_NewPlayers": 437,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -31564,9 +31564,9 @@
       "ID": "SNAKESTEALTH",
       "SetID": "5l8oe0h",
       "Name": "Snake Sneak",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 727
+      "UsersEstimate": 970
     },
     {
       "ID": "SPECIALROOMS1",
@@ -31947,8 +31947,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-04T22:00:17.6708288+00:00",
-  "LastChanged_Achievements": "2024-01-05T22:10:44.5085887+00:00",
+  "LastChanged_Achievements": "2024-01-05T23:12:55.1095308+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:01.848225+00:00",
-  "LastUpdate_Ratings": "2024-01-05T21:59:52.2990386+00:00",
-  "LastUpdate_Achievements": "2024-01-05T22:10:44.5088633+00:00"
+  "LastUpdate_Ratings": "2024-01-05T23:02:28.270438+00:00",
+  "LastUpdate_Achievements": "2024-01-05T23:12:55.1097859+00:00"
 }

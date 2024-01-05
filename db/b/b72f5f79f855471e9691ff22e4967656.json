@@ -996,9 +996,9 @@
       "ID": "killStone50",
       "SetID": "ci65fo0",
       "Name": "Stone Crusher",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "killStone500",
@@ -1012,9 +1012,9 @@
       "ID": "killTree100",
       "SetID": "ci65fo0",
       "Name": "Tree Hater",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "killTree50",
@@ -1180,9 +1180,9 @@
       "ID": "questCompTutorial",
       "SetID": "ci65fo0",
       "Name": "Survivor",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 156
     },
     {
       "ID": "questDeadArtifact",
@@ -1393,8 +1393,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2024-01-05T22:10:21.204224+00:00",
+  "LastChanged_Achievements": "2024-01-05T23:12:28.0393221+00:00",
   "LastUpdate_AppInfo": "2024-01-03T22:57:15.9010052+00:00",
-  "LastUpdate_Ratings": "2024-01-05T22:00:18.8724535+00:00",
-  "LastUpdate_Achievements": "2024-01-05T22:10:21.204291+00:00"
+  "LastUpdate_Ratings": "2024-01-05T23:03:04.0767873+00:00",
+  "LastUpdate_Achievements": "2024-01-05T23:12:28.0393827+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "19d61df85a76492f82c4b59fa8f8f9eb",
   "Name": "The House of Da Vinci",
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
-  "Ranking_EOS_Progress": 350,
+  "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 41,
   "Ranking_EOS_NewPlayers": 293,
   "Ranking_EOS_NewCompleters": 46,
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 489,
+  "EOS_Progressed": 490,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 9.82,
+  "EOS_Completed_Percentage": 9.8,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -2299,6 +2299,11 @@
       "Time": "2024-01-05T21:09:42.1485004+00:00",
       "NumProgressed": 489,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2024-01-05T23:11:23.3360384+00:00",
+      "NumProgressed": 490,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 6,
@@ -2318,7 +2323,7 @@
       "Name": "File-cutter",
       "Percentage": 64,
       "XP": 165,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAg",
@@ -2350,21 +2355,21 @@
       "Name": "Flying Machine",
       "Percentage": 33,
       "XP": 165,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     }
   ],
   "AchievementSets": [
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 489,
+      "Progressed": 490,
       "Completed": 48
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2024-01-05T22:09:30.9499429+00:00",
+  "LastChanged_Achievements": "2024-01-05T23:11:23.3360382+00:00",
   "LastUpdate_AppInfo": "2024-01-05T04:57:10.7268546+00:00",
-  "LastUpdate_Ratings": "2024-01-05T21:57:28.3810248+00:00",
-  "LastUpdate_Achievements": "2024-01-05T22:09:30.9499606+00:00"
+  "LastUpdate_Ratings": "2024-01-05T22:59:15.5785818+00:00",
+  "LastUpdate_Achievements": "2024-01-05T23:11:23.3360559+00:00"
 }

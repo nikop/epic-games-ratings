@@ -10,9 +10,9 @@
 | Budding Conjuror | 59.00% | ~677 |
 | Man-Machine Master | 48.00% | ~551 |
 | Mountain Splitter | 47.00% | ~540 |
+| Subsistence Skills | 47.00% | ~540 |
 | Charmed by the Hunt | 47.00% | ~540 |
 | Memory Rouser | 46.00% | ~528 |
-| Subsistence Skills | 46.00% | ~528 |
 | Fusion Conjuror | 45.00% | ~517 |
 | Kemono Hunter | 41.00% | ~471 |
 | Expert Conjuror | 39.00% | ~448 |
@@ -22,7 +22,7 @@
 | Distance Devourer | 35.00% | ~402 |
 | Counter Specialist | 33.00% | ~379 |
 | Master of the Skies | 30.00% | ~344 |
-| Axer of Auspice | 27.00% | ~310 |
+| Axer of Auspice | 28.00% | ~321 |
 | Mighty Marmelizer | 26.00% | ~298 |
 | Fair Means or Foul | 26.00% | ~298 |
 | Kemono at Heart | 26.00% | ~298 |

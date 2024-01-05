@@ -4,7 +4,7 @@
   "ProductSlug": "foreclosed",
   "Ranking_EOS_Progress": 457,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 397,
+  "Ranking_EOS_NewPlayers": 392,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-08-12T13:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 143,
+  "EOS_Progressed": 144,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.1,
+  "EOS_Completed_Percentage": 2.08,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:36.3929113+00:00",
@@ -404,6 +404,11 @@
       "Time": "2024-01-05T17:06:11.0655658+00:00",
       "NumProgressed": 143,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-05T23:09:35.6953893+00:00",
+      "NumProgressed": 144,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 24,
@@ -415,7 +420,7 @@
       "Name": "Full and Final Settlement",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "AutoBullets_0",
@@ -447,7 +452,7 @@
       "Name": "Unstoppable",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "EnemyDefeat_1",
@@ -469,9 +474,9 @@
       "ID": "FirstAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Breaking Through",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 101
     },
     {
       "ID": "FirstSkillBuy",
@@ -511,7 +516,7 @@
       "Name": "The Red Herring",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "LiftEnemies_0",
@@ -519,7 +524,7 @@
       "Name": "Lifter",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "LiftEnemies_1",
@@ -567,7 +572,7 @@
       "Name": "Brain-hacker",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "StoryEnd",
@@ -575,7 +580,7 @@
       "Name": "One Click Away",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "TelekinesisThrow_0",
@@ -606,7 +611,7 @@
     {
       "ID": "9e3d06k",
       "IsBase": true,
-      "Progressed": 143,
+      "Progressed": 144,
       "Completed": 3
     }
   ],
@@ -614,8 +619,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
   "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
-  "LastChanged_Achievements": "2024-01-05T22:06:46.7273374+00:00",
+  "LastChanged_Achievements": "2024-01-05T23:09:35.695389+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:54.8333074+00:00",
-  "LastUpdate_Ratings": "2024-01-05T22:00:52.2991973+00:00",
-  "LastUpdate_Achievements": "2024-01-05T22:06:46.7273636+00:00"
+  "LastUpdate_Ratings": "2024-01-05T23:04:28.0644156+00:00",
+  "LastUpdate_Achievements": "2024-01-05T23:09:35.6954042+00:00"
 }

@@ -1,17 +1,17 @@
 # Risen
 [Store](https://store.epicgames.com/en-US/p/risen-e8e55e)  
 [View Rawdata](../../db/r/risen.json)  
-Rating: 4.55 (Ranked 524)  
+Rating: 4.55 (Ranked 525)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Beginner | 92.00% | ~152 |
+| Map reader | 63.00% | ~104 |
 | Adventurer | 62.00% | ~102 |
-| Map reader | 62.00% | ~102 |
 | Philanthropist | 59.00% | ~97 |
 | Archer | 42.00% | ~69 |
+| The brave little tailor | 40.00% | ~66 |
 | Field hand | 39.00% | ~64 |
-| The brave little tailor | 39.00% | ~64 |
 | Samaritan | 32.00% | ~53 |
 | Well-to-do | 32.00% | ~53 |
 | The merciful one | 29.00% | ~48 |
@@ -22,8 +22,8 @@ Rating: 4.55 (Ranked 524)
 | Death of a legend | 19.00% | ~31 |
 | Archaeologist | 18.00% | ~30 |
 | Ogre friend | 18.00% | ~30 |
+| Family man | 17.00% | ~28 |
 | Wise man | 16.00% | ~26 |
-| Family man | 16.00% | ~26 |
 | Little hero | 16.00% | ~26 |
 | The fourth triplet | 16.00% | ~26 |
 | Fence | 16.00% | ~26 |

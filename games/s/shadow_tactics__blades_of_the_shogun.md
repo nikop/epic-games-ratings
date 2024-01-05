@@ -6,19 +6,19 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~26,908 |
+| Genin | 12.00% | ~26,909 |
 | A thief's beginning | 11.00% | ~24,666 |
 | Thorough | 11.00% | ~24,666 |
-| Disguised | 9.00% | ~20,181 |
-| Rescue Takuma | 9.00% | ~20,181 |
-| Rollin' | 9.00% | ~20,181 |
-| Tanuki Time | 9.00% | ~20,181 |
+| Disguised | 9.00% | ~20,182 |
+| Rescue Takuma | 9.00% | ~20,182 |
+| Rollin' | 9.00% | ~20,182 |
+| Tanuki Time | 9.00% | ~20,182 |
 | Ice Ice Yuki | 8.00% | ~17,939 |
 | Stoned Ox | 8.00% | ~17,939 |
 | Yabu | 8.00% | ~17,939 |
-| Happy Planning | 7.00% | ~15,696 |
-| Jonin | 7.00% | ~15,696 |
-| Mugen Unchained | 7.00% | ~15,696 |
+| Happy Planning | 7.00% | ~15,697 |
+| Jonin | 7.00% | ~15,697 |
+| Mugen Unchained | 7.00% | ~15,697 |
 | Chunin | 6.00% | ~13,454 |
 | Flying Rocks | 6.00% | ~13,454 |
 | Warzone | 6.00% | ~13,454 |
@@ -26,10 +26,10 @@ Number of Ratings: 495  (23.09.2022)
 | Okkoto | 5.00% | ~11,212 |
 | Prisoners | 5.00% | ~11,212 |
 | Too Early | 5.00% | ~11,212 |
-| Gear up | 4.00% | ~8,969 |
-| Noboru | 4.00% | ~8,969 |
-| Still Rollin' | 4.00% | ~8,969 |
-| Stoned | 4.00% | ~8,969 |
+| Gear up | 4.00% | ~8,970 |
+| Noboru | 4.00% | ~8,970 |
+| Still Rollin' | 4.00% | ~8,970 |
+| Stoned | 4.00% | ~8,970 |
 | It's raining men | 3.00% | ~6,727 |
 | The Old Way | 3.00% | ~6,727 |
 | Atheist Ox | 2.00% | ~4,485 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~224 |
 | Release the Kraken | 0.10% | ~224 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,234 (Ranked 79)  
+Progressed: 224,240 (Ranked 79)  
 Completed: 105 (0.05%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,11 +311,11 @@ Completed: 105 (0.05%) (Ranked 335)
 | 2024-01-02 | 223,591 | 102 |
 | 2024-01-03 | 223,800 | 102 |
 | 2024-01-04 | 224,025 | 103 |
-| 2024-01-05 | 224,234 | 105 |
+| 2024-01-05 | 224,240 | 105 |
 ## Awards
 Max (Great for Beginners): 592  (Ranked 209)  
-Sum: 4,943 (Ranked 148)  
-Diff (max vs sum): 61  
+Sum: 4,943 (Ranked 149)  
+Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 592 |

@@ -2,9 +2,9 @@
   "ID": "4a86b8318e5a40e094f34a7e6a934652",
   "Name": "I Am Future - Cozy Apocalypse Survival",
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
-  "Ranking_EOS_Progress": 348,
+  "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 491,
+  "EOS_Progressed": 492,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -2054,6 +2054,11 @@
       "Time": "2024-01-05T20:05:31.7697873+00:00",
       "NumProgressed": 491,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-05T23:08:45.2099475+00:00",
+      "NumProgressed": 492,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -2066,7 +2071,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 91,
       "XP": 50,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -2074,7 +2079,7 @@
       "Name": "Design Engineer",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "BRING_MARY",
@@ -2082,7 +2087,7 @@
       "Name": "Retro Diva",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "BRING_PROSPERO",
@@ -2090,7 +2095,7 @@
       "Name": "Amusement Park",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
@@ -2104,9 +2109,9 @@
       "ID": "CATCH_30_FISH",
       "SetID": "aniflfk",
       "Name": "Fisherman",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 231
+      "UsersEstimate": 236
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -2114,7 +2119,7 @@
       "Name": "Energy Boost",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "GO_ON_EXPEDITION",
@@ -2122,7 +2127,7 @@
       "Name": "Off on an Expedition!",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -2160,9 +2165,9 @@
       "ID": "NOT_FAINT_HOUSEWARMING",
       "SetID": "aniflfk",
       "Name": "Tough Guy",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 88
+      "UsersEstimate": 84
     },
     {
       "ID": "PREPARE_10_COFFEE",
@@ -2186,7 +2191,7 @@
       "Name": "Bridge Builder",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "SLEEP_50_HOURS",
@@ -2210,7 +2215,7 @@
       "Name": "Uppies!",
       "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -2225,14 +2230,14 @@
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 491,
+      "Progressed": 492,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2024-01-05T22:06:07.1466687+00:00",
+  "LastChanged_Achievements": "2024-01-05T23:08:45.209947+00:00",
   "LastUpdate_AppInfo": "2024-01-03T22:57:16.910321+00:00",
-  "LastUpdate_Ratings": "2024-01-05T21:57:34.2652313+00:00",
-  "LastUpdate_Achievements": "2024-01-05T22:06:07.1466896+00:00"
+  "LastUpdate_Ratings": "2024-01-05T22:59:23.4655522+00:00",
+  "LastUpdate_Achievements": "2024-01-05T23:08:45.2099682+00:00"
 }

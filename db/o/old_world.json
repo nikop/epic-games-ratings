@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 221,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2220,7 +2220,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16135,
+  "EOS_Progressed": 16137,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
@@ -19005,6 +19005,11 @@
       "Time": "2024-01-05T22:10:45.1144421+00:00",
       "NumProgressed": 16135,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-05T23:12:55.5396066+00:00",
+      "NumProgressed": 16137,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20350,9 +20355,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_CIRCUS_MAXIMUS",
       "SetID": "9201eeb",
       "Name": "Circus Maximus",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_COLOSSUS",
@@ -21879,21 +21884,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16135,
+      "Progressed": 16137,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16135,
+      "Progressed": 16137,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-05T15:58:51.4001301+00:00",
-  "LastChanged_Achievements": "2024-01-05T22:10:45.1144417+00:00",
+  "LastChanged_Achievements": "2024-01-05T23:12:55.5396064+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:24.5452657+00:00",
-  "LastUpdate_Ratings": "2024-01-05T21:59:15.4182916+00:00",
-  "LastUpdate_Achievements": "2024-01-05T22:10:45.1154795+00:00"
+  "LastUpdate_Ratings": "2024-01-05T23:01:39.298803+00:00",
+  "LastUpdate_Achievements": "2024-01-05T23:12:55.5406098+00:00"
 }

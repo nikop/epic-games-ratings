@@ -6,8 +6,8 @@
   "Ranking_Popularity": 580,
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 311,
-  "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_Completed": 263,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -41,11 +41,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 784,
+  "EOS_Progressed": 785,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.26,
+  "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
     {
       "Time": "2023-09-08T14:06:31.5856386+00:00",
@@ -2921,6 +2921,11 @@
       "Time": "2024-01-05T20:09:01.9921+00:00",
       "NumProgressed": 784,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-05T23:11:28.7653259+00:00",
+      "NumProgressed": 785,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -3013,7 +3018,7 @@
       "Name": "Shelter Escape",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -3101,15 +3106,15 @@
       "Name": "Piggyback Expert",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "ACHIEVEMENT_7_SecondWall",
       "SetID": "9bke6f1",
       "Name": "Second wall",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 259
+      "UsersEstimate": 251
     },
     {
       "ID": "ACHIEVEMENT_8_StoneRetriever",
@@ -3132,7 +3137,7 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 784,
+      "Progressed": 785,
       "Completed": 2
     }
   ],
@@ -3140,8 +3145,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2023-12-31T15:57:10.2736309+00:00",
-  "LastChanged_Achievements": "2024-01-05T22:09:35.2132733+00:00",
+  "LastChanged_Achievements": "2024-01-05T23:11:28.7653256+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.2091482+00:00",
-  "LastUpdate_Ratings": "2024-01-05T22:00:12.5655575+00:00",
-  "LastUpdate_Achievements": "2024-01-05T22:09:35.2133002+00:00"
+  "LastUpdate_Ratings": "2024-01-05T23:02:55.2760589+00:00",
+  "LastUpdate_Achievements": "2024-01-05T23:11:28.7653528+00:00"
 }

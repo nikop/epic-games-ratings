@@ -65,6 +65,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Berzerker | 0.40% | ~970 |
 | Chain Reaction | 0.40% | ~970 |
 | Antivenom | 0.40% | ~970 |
+| Snake Sneak | 0.40% | ~970 |
 | The Long Run | 0.40% | ~970 |
 | Who Needs Luck? | 0.40% | ~16 |
 | Achievement Hunter | 0.30% | ~727 |
@@ -76,7 +77,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Clearing The Room | 0.30% | ~727 |
 | Decisions, Decisions | 0.30% | ~727 |
 | Fragile Mortality | 0.30% | ~727 |
-| Snake Sneak | 0.30% | ~727 |
 | Fire Away! | 0.30% | ~727 |
 | Defuser | 0.30% | ~727 |
 | Obsessed | 0.30% | ~727 |

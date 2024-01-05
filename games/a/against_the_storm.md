@@ -12,10 +12,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | First Real Expedition | 7.00% | ~1,416 |
 | No Deaths | 7.00% | ~1,416 |
 | Petrified Necropolis | 7.00% | ~1,416 |
-| Overcoming Difficulty | 6.00% | ~1,213 |
-| Coral Forest | 6.00% | ~1,213 |
-| The Marshlands | 6.00% | ~1,213 |
-| Gathering Storm | 6.00% | ~1,213 |
+| Overcoming Difficulty | 6.00% | ~1,214 |
+| Coral Forest | 6.00% | ~1,214 |
+| The Marshlands | 6.00% | ~1,214 |
+| Gathering Storm | 6.00% | ~1,214 |
 | The Scarlet Orchard | 5.00% | ~1,011 |
 | Frosts | 5.00% | ~1,011 |
 | Land of Greed | 5.00% | ~1,011 |
@@ -32,16 +32,16 @@ Number of Ratings: 1,845  (23.09.2022)
 | A Real Challenge | 3.00% | ~607 |
 | Trade Baron | 3.00% | ~607 |
 | Untamed Wilds | 3.00% | ~607 |
-| Against All Odds | 2.00% | ~404 |
-| Bandit Camp | 2.00% | ~404 |
-| Barren Lands | 2.00% | ~404 |
-| Ancient Battleground | 2.00% | ~404 |
-| Sparkdew Crystals | 2.00% | ~404 |
-| Haunted Forest | 2.00% | ~404 |
-| Flooded Mines | 2.00% | ~404 |
-| Statue of the Forefathers | 2.00% | ~404 |
-| Cursed Lands | 2.00% | ~404 |
-| Defying the Crown | 2.00% | ~404 |
+| Against All Odds | 2.00% | ~405 |
+| Bandit Camp | 2.00% | ~405 |
+| Barren Lands | 2.00% | ~405 |
+| Ancient Battleground | 2.00% | ~405 |
+| Sparkdew Crystals | 2.00% | ~405 |
+| Haunted Forest | 2.00% | ~405 |
+| Flooded Mines | 2.00% | ~405 |
+| Statue of the Forefathers | 2.00% | ~405 |
+| Cursed Lands | 2.00% | ~405 |
+| Defying the Crown | 2.00% | ~405 |
 | Serving Ale | 1.00% | ~202 |
 | Efficient Explorer | 1.00% | ~202 |
 | Refinery | 1.00% | ~202 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,224 (Ranked 154)  
+Progressed: 20,228 (Ranked 154)  
 Completed: 33 (0.16%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,7 +326,7 @@ Completed: 33 (0.16%) (Ranked 280)
 | 2024-01-02 | 19,991 | 33 |
 | 2024-01-03 | 20,065 | 33 |
 | 2024-01-04 | 20,143 | 33 |
-| 2024-01-05 | 20,224 | 33 |
+| 2024-01-05 | 20,228 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 448  (Ranked 230)  
 Sum: 3,337 (Ranked 176)  

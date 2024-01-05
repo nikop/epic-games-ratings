@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1148,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -3899,9 +3899,9 @@
       "ID": "achievement_20",
       "SetID": "2cpn27e",
       "Name": "Subsistence Skills",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 528
+      "UsersEstimate": 540
     },
     {
       "ID": "achievement_21",
@@ -4067,9 +4067,9 @@
       "ID": "achievement_4",
       "SetID": "2cpn27e",
       "Name": "Axer of Auspice",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 321
     },
     {
       "ID": "achievement_40",
@@ -4193,8 +4193,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-05T22:09:56.9404505+00:00",
+  "LastChanged_Achievements": "2024-01-05T23:11:56.4066667+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:22.7723621+00:00",
-  "LastUpdate_Ratings": "2024-01-05T21:58:19.6047741+00:00",
-  "LastUpdate_Achievements": "2024-01-05T22:09:56.9405115+00:00"
+  "LastUpdate_Ratings": "2024-01-05T23:00:23.962958+00:00",
+  "LastUpdate_Achievements": "2024-01-05T23:11:56.4067153+00:00"
 }

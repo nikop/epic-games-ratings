@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -3921,9 +3921,9 @@
       "ID": "ParallelConvergenceMultiHit1",
       "SetID": "a9e499d",
       "Name": "Time Flies",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 310
+      "UsersEstimate": 323
     },
     {
       "ID": "ParryBoss",
@@ -4114,8 +4114,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-05T11:57:15.4004085+00:00",
-  "LastChanged_Achievements": "2024-01-05T22:10:39.9907212+00:00",
+  "LastChanged_Achievements": "2024-01-05T23:12:50.3893386+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:23.9308133+00:00",
-  "LastUpdate_Ratings": "2024-01-05T21:57:34.4473042+00:00",
-  "LastUpdate_Achievements": "2024-01-05T22:10:39.9907794+00:00"
+  "LastUpdate_Ratings": "2024-01-05T22:59:23.8387337+00:00",
+  "LastUpdate_Achievements": "2024-01-05T23:12:50.3893868+00:00"
 }

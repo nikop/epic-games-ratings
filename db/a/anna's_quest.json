@@ -4,7 +4,7 @@
   "ProductSlug": "annas-quest-fbefa2",
   "Ranking_EOS_Progress": 496,
   "Ranking_EOS_Completed": 64,
-  "Ranking_EOS_NewPlayers": 520,
+  "Ranking_EOS_NewPlayers": 519,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-02-01T16:00:00+00:00",
@@ -607,9 +607,9 @@
       "ID": "aq_achievement_31",
       "SetID": "7jh86ne",
       "Name": "Bahahahaha...",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "aq_achievement_32",
@@ -736,8 +736,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2024-01-05T22:06:48.8731146+00:00",
+  "LastChanged_Achievements": "2024-01-05T23:09:38.5035394+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:29.152003+00:00",
-  "LastUpdate_Ratings": "2024-01-05T21:58:09.5903868+00:00",
-  "LastUpdate_Achievements": "2024-01-05T22:06:48.8731406+00:00"
+  "LastUpdate_Ratings": "2024-01-05T23:00:10.2575361+00:00",
+  "LastUpdate_Achievements": "2024-01-05T23:09:38.503582+00:00"
 }

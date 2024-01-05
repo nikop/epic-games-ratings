@@ -721,9 +721,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4227,
+  "EOS_Progressed": 4228,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 279,
+  "EOS_NewPlayers": 278,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -11846,6 +11846,11 @@
       "Time": "2024-01-05T22:04:24.0000951+00:00",
       "NumProgressed": 4227,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-05T23:06:31.131721+00:00",
+      "NumProgressed": 4228,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -11953,7 +11958,7 @@
       "Name": "Doing My Part",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "dragonclicker",
@@ -12249,7 +12254,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 2198
+      "UsersEstimate": 2199
     },
     {
       "ID": "prestigiousx10",
@@ -12257,7 +12262,7 @@
       "Name": "Prestigious x10",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "relicofthepast",
@@ -12281,7 +12286,7 @@
       "Name": "Scientist",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "scrollmaster",
@@ -12313,7 +12318,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2367
+      "UsersEstimate": 2368
     },
     {
       "ID": "thealchemist",
@@ -12417,7 +12422,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 3931
+      "UsersEstimate": 3932
     },
     {
       "ID": "warmachinesarmy",
@@ -12449,14 +12454,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3297
+      "UsersEstimate": 3298
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4227,
+      "Progressed": 4228,
       "Completed": 2
     }
   ],
@@ -12464,8 +12469,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-05T01:45:12.3026402+00:00",
-  "LastChanged_Achievements": "2024-01-05T22:04:24.0000946+00:00",
+  "LastChanged_Achievements": "2024-01-05T23:06:31.1317206+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:50.7213096+00:00",
-  "LastUpdate_Ratings": "2024-01-05T21:58:57.3462075+00:00",
-  "LastUpdate_Achievements": "2024-01-05T22:04:24.000191+00:00"
+  "LastUpdate_Ratings": "2024-01-05T23:01:14.8255075+00:00",
+  "LastUpdate_Achievements": "2024-01-05T23:06:31.1318109+00:00"
 }

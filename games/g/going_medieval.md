@@ -1,44 +1,44 @@
 # Going Medieval
 [Store](https://store.epicgames.com/en-US/p/going-medieval)  
 [View Rawdata](../../db/g/going_medieval.json)  
-Rating: 4.60 (Ranked 429)  
+Rating: 4.60 (Ranked 428)  
 Number of Ratings: 706  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 76.00% | ~5,909 |
-| Having A Field Day | 76.00% | ~5,909 |
+| Get A Room | 76.00% | ~5,910 |
+| Having A Field Day | 76.00% | ~5,910 |
 | Reap What You Sow | 73.00% | ~5,676 |
-| The First Day | 70.00% | ~5,442 |
-| Novice Researcher | 68.00% | ~5,287 |
-| Green Thumb | 67.00% | ~5,209 |
-| Home Cooked Meal | 62.00% | ~4,820 |
+| The First Day | 70.00% | ~5,443 |
+| Novice Researcher | 68.00% | ~5,288 |
+| Green Thumb | 67.00% | ~5,210 |
+| Home Cooked Meal | 62.00% | ~4,821 |
 | Onward | 58.00% | ~4,510 |
-| The First Week | 56.00% | ~4,354 |
+| The First Week | 56.00% | ~4,355 |
 | Studious Researcher | 53.00% | ~4,121 |
-| Beam Me Up | 52.00% | ~4,043 |
+| Beam Me Up | 52.00% | ~4,044 |
 | Adept Researcher | 45.00% | ~3,499 |
 | Putting Food on the Table | 44.00% | ~3,421 |
-| Retribution | 43.00% | ~3,343 |
-| ...And Don’t Come Back! | 43.00% | ~3,343 |
-| Feast or Famine | 35.00% | ~2,721 |
+| Retribution | 43.00% | ~3,344 |
+| ...And Don’t Come Back! | 43.00% | ~3,344 |
+| Feast or Famine | 35.00% | ~2,722 |
 | Heating Up | 33.00% | ~2,566 |
-| Luminary Researcher | 30.00% | ~2,332 |
+| Luminary Researcher | 30.00% | ~2,333 |
 | Winter Is Coming | 29.00% | ~2,255 |
 | Fit For A King | 26.00% | ~2,022 |
 | Winter Is Here | 26.00% | ~2,022 |
 | Oh Deer! | 23.00% | ~1,788 |
-| Disassembled | 22.00% | ~1,710 |
-| A Party Now | 22.00% | ~1,710 |
-| All Year Round | 22.00% | ~1,710 |
-| Don't Cry Wolf | 14.00% | ~1,088 |
+| Disassembled | 22.00% | ~1,711 |
+| A Party Now | 22.00% | ~1,711 |
+| All Year Round | 22.00% | ~1,711 |
+| Don't Cry Wolf | 14.00% | ~1,089 |
 | Nothing Wasted | 13.00% | ~1,011 |
 | Deerly Departed | 8.00% | ~622 |
 | Where Wolf? | 5.00% | ~389 |
 | Food Chain | 2.00% | ~156 |
 | Wabbit Season | 0.50% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,775 (Ranked 190)  
+Progressed: 7,776 (Ranked 190)  
 Completed: 14 (0.18%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,7 +277,7 @@ Completed: 14 (0.18%) (Ranked 278)
 | 2024-01-02 | 7,712 | 14 |
 | 2024-01-03 | 7,723 | 14 |
 | 2024-01-04 | 7,751 | 14 |
-| 2024-01-05 | 7,775 | 14 |
+| 2024-01-05 | 7,776 | 14 |
 ## Awards
 Max (Great for Beginners): 133  (Ranked 336)  
 Sum: 1,057 (Ranked 265)  

@@ -819,9 +819,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3781,
+  "EOS_Progressed": 3783,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5564,6 +5564,11 @@
       "Time": "2024-01-05T22:07:02.9660175+00:00",
       "NumProgressed": 3781,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T23:09:57.0280969+00:00",
+      "NumProgressed": 3783,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -5591,7 +5596,7 @@
       "Name": "Look Over There!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "BloodAndIron",
@@ -5751,7 +5756,7 @@
       "Name": "Blood for the Blood God!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -5767,7 +5772,7 @@
       "Name": "Executioner",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "Kills_Exterminator",
@@ -5799,7 +5804,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "Kills_Streak",
@@ -5823,7 +5828,7 @@
       "Name": "An Ill Omen",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -6118,21 +6123,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3781,
+      "Progressed": 3783,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3781,
+      "Progressed": 3783,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-04T18:03:14.3502303+00:00",
-  "LastChanged_Achievements": "2024-01-05T22:07:02.966017+00:00",
+  "LastChanged_Achievements": "2024-01-05T23:09:57.0280965+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:30.5390055+00:00",
-  "LastUpdate_Ratings": "2024-01-05T22:03:37.3278249+00:00",
-  "LastUpdate_Achievements": "2024-01-05T22:07:02.9660892+00:00"
+  "LastUpdate_Ratings": "2024-01-05T23:05:26.9084122+00:00",
+  "LastUpdate_Achievements": "2024-01-05T23:09:57.0281648+00:00"
 }

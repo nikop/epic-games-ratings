@@ -4,7 +4,7 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 884,
+  "EOS_Progressed": 885,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
@@ -3060,6 +3060,11 @@
       "Time": "2024-01-05T21:09:25.727102+00:00",
       "NumProgressed": 884,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-05T23:11:05.7131412+00:00",
+      "NumProgressed": 885,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -3096,7 +3101,7 @@
       "Name": "Destroy Security Grid",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "ACH_eou4",
@@ -3136,7 +3141,7 @@
       "Name": "Destroy Black Hole Generator",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ACH_mg2",
@@ -3175,14 +3180,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 884,
+      "Progressed": 885,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2024-01-05T22:09:17.5867164+00:00",
+  "LastChanged_Achievements": "2024-01-05T23:11:05.7131408+00:00",
   "LastUpdate_AppInfo": "2024-01-05T06:57:20.0779143+00:00",
-  "LastUpdate_Ratings": "2024-01-05T21:57:31.5798409+00:00",
-  "LastUpdate_Achievements": "2024-01-05T22:09:17.5867716+00:00"
+  "LastUpdate_Ratings": "2024-01-05T22:59:19.8135571+00:00",
+  "LastUpdate_Achievements": "2024-01-05T23:11:05.713169+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -335,9 +335,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 746,
+  "EOS_Progressed": 747,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 246,
+  "EOS_NewPlayers": 245,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.94,
   "EosHistory": [
@@ -2015,6 +2015,11 @@
       "Time": "2024-01-05T22:05:37.7814621+00:00",
       "NumProgressed": 746,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-05T23:08:07.1557329+00:00",
+      "NumProgressed": 747,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -2097,9 +2102,9 @@
       "ID": "ACH_JELLYFISHING",
       "SetID": "biiejkc",
       "Name": "Jellyfishing",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 112
     },
     {
       "ID": "ACH_JELLYFISH_JAM",
@@ -2225,9 +2230,9 @@
       "ID": "ACH_STAT_COLLECT_SOCKS",
       "SetID": "biiejkc",
       "Name": "Sock Getter",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 90
     },
     {
       "ID": "ACH_STAT_SPATULA_SEEKER",
@@ -2282,15 +2287,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 746,
+      "Progressed": 747,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-04T21:00:59.1702575+00:00",
-  "LastChanged_Achievements": "2024-01-05T22:05:37.7814618+00:00",
+  "LastChanged_Achievements": "2024-01-05T23:08:07.1557327+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:11.8880921+00:00",
-  "LastUpdate_Ratings": "2024-01-05T22:00:43.3340607+00:00",
-  "LastUpdate_Achievements": "2024-01-05T22:05:37.7814879+00:00"
+  "LastUpdate_Ratings": "2024-01-05T23:03:35.9753259+00:00",
+  "LastUpdate_Achievements": "2024-01-05T23:08:07.1557585+00:00"
 }

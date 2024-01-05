@@ -5,43 +5,43 @@ Rating: 4.54 (Ranked 548)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 17.00% | ~3,114 |
-| Captain Drummer | 14.00% | ~2,565 |
-| Celebrations are in Order | 13.00% | ~2,381 |
-| The Pit and the Pirates | 12.00% | ~2,198 |
-| Martian Music | 12.00% | ~2,198 |
-| Bosmang | 12.00% | ~2,198 |
-| Impossible Objects | 12.00% | ~2,198 |
-| Spore Taste | 11.00% | ~2,015 |
-| Drone Dodger | 11.00% | ~2,015 |
-| Stogie for Fogey | 10.00% | ~1,832 |
-| Zen Master | 10.00% | ~427 |
-| Call it Even | 9.00% | ~1,649 |
-| Safe Cracker | 9.00% | ~384 |
-| Madame Undersecretary | 9.00% | ~384 |
-| Heal Thy Medic | 8.00% | ~1,465 |
-| Data Archivist | 7.00% | ~1,282 |
-| Drug Gifter | 7.00% | ~1,282 |
-| Thorston Mayer | 7.00% | ~1,282 |
-| Khan's Revenge | 7.00% | ~1,282 |
-| Keep Arjun in Check | 7.00% | ~299 |
-| Doctor Approved | 6.00% | ~1,099 |
-| Bottoms up! | 6.00% | ~1,099 |
-| Master Negotiator | 6.00% | ~256 |
+| Oyedang, Kopengs | 17.00% | ~3,116 |
+| Captain Drummer | 14.00% | ~2,566 |
+| Celebrations are in Order | 13.00% | ~2,383 |
+| The Pit and the Pirates | 12.00% | ~2,199 |
+| Martian Music | 12.00% | ~2,199 |
+| Bosmang | 12.00% | ~2,199 |
+| Impossible Objects | 12.00% | ~2,199 |
+| Spore Taste | 11.00% | ~2,016 |
+| Drone Dodger | 11.00% | ~2,016 |
+| Stogie for Fogey | 10.00% | ~1,833 |
+| Zen Master | 10.00% | ~428 |
+| Call it Even | 9.00% | ~1,650 |
+| Safe Cracker | 9.00% | ~385 |
+| Madame Undersecretary | 9.00% | ~385 |
+| Heal Thy Medic | 8.00% | ~1,466 |
+| Data Archivist | 7.00% | ~1,283 |
+| Drug Gifter | 7.00% | ~1,283 |
+| Thorston Mayer | 7.00% | ~1,283 |
+| Khan's Revenge | 7.00% | ~1,283 |
+| Keep Arjun in Check | 7.00% | ~300 |
+| Doctor Approved | 6.00% | ~1,100 |
+| Bottoms up! | 6.00% | ~1,100 |
+| Master Negotiator | 6.00% | ~257 |
 | Data Logger | 4.00% | ~733 |
 | Miraculous Maya | 4.00% | ~733 |
 | Data Master | 3.00% | ~550 |
-| Brother's Reaper | 2.00% | ~366 |
-| No Belter Left Behind | 2.00% | ~366 |
-| Debris Spree | 2.00% | ~366 |
-| Data Recoverer | 2.00% | ~366 |
+| Brother's Reaper | 2.00% | ~367 |
+| No Belter Left Behind | 2.00% | ~367 |
+| Debris Spree | 2.00% | ~367 |
+| Data Recoverer | 2.00% | ~367 |
 | Urshanabi Hoarder | 1.00% | ~183 |
 | Grave Robber | 0.70% | ~128 |
 | Data Miner | 0.60% | ~110 |
 | Scavenger Star | 0.30% | ~55 |
 | Data Collector | 0.20% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,318 (Ranked 159)  
+Progressed: 18,329 (Ranked 159)  
 Completed: 58 (0.32%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 58 (0.32%) (Ranked 246)
 | 2024-01-02 | 18,077 | 58 |
 | 2024-01-03 | 18,141 | 58 |
 | 2024-01-04 | 18,213 | 58 |
-| 2024-01-05 | 18,318 | 58 |
+| 2024-01-05 | 18,329 | 58 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
