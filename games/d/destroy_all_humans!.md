@@ -33,8 +33,8 @@ Number of Ratings: 85  (23.09.2022)
 | Die Nasty | 16.00% | ~54 |
 | Hidden Human Hive Harvest | 15.00% | ~51 |
 | Mash Machine | 15.00% | ~51 |
+| Albion Bridge Is for Falling Down | 14.00% | ~47 |
 | Dusted | 14.00% | ~47 |
-| Albion Bridge Is for Falling Down | 13.00% | ~44 |
 | Scuttled | 11.00% | ~37 |
 | Higher Than the Futen Zoku | 10.00% | ~34 |
 | PK Slam Dunk | 9.00% | ~30 |

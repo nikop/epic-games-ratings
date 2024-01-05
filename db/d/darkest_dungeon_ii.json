@@ -10462,10 +10462,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 21435,
       "NumberOfAwardsMax": 7951
+    },
+    {
+      "Time": "2024-01-05T17:00:04.1105566+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21438,
+      "NumberOfAwardsMax": 7951
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21435,
+  "NumberOfAwards": 21438,
   "NumberOfAwardsMax": 7951,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10509,7 +10515,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1517
+      "Count": 1520
     },
     {
       "Text": "This game has Diverse Characters",
@@ -10542,9 +10548,9 @@
       "Count": 1080
     }
   ],
-  "EOS_Progressed": 131767,
+  "EOS_Progressed": 131773,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1217,
+  "EOS_NewPlayers": 1213,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38462,6 +38468,11 @@
       "Time": "2024-01-05T16:09:35.7036025+00:00",
       "NumProgressed": 131767,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-05T17:09:49.4159481+00:00",
+      "NumProgressed": 131773,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38481,7 +38492,7 @@
       "Name": "Serenity Now!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6588
+      "UsersEstimate": 6589
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -38633,7 +38644,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6588
+      "UsersEstimate": 6589
     },
     {
       "ID": "combat_kill_fanatics",
@@ -38673,7 +38684,7 @@
       "Name": "Meat and Greet",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6588
+      "UsersEstimate": 6589
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -38689,7 +38700,7 @@
       "Name": "Catch and Decease",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6588
+      "UsersEstimate": 6589
     },
     {
       "ID": "combat_kill_librarian",
@@ -38713,7 +38724,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6588
+      "UsersEstimate": 6589
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -38769,7 +38780,7 @@
       "Name": "Rush Hour",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6588
+      "UsersEstimate": 6589
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -38793,7 +38804,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6588
+      "UsersEstimate": 6589
     },
     {
       "ID": "driving_distance_easy",
@@ -39017,7 +39028,7 @@
       "Name": "This guy... again?",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -39081,7 +39092,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -39104,21 +39115,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131767,
+      "Progressed": 131773,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6636,
+      "Progressed": 6642,
       "Completed": 821
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-05T08:01:42.4898639+00:00",
-  "LastChanged_Achievements": "2024-01-05T16:09:35.7036019+00:00",
+  "LastChanged": "2024-01-05T17:00:04.1105563+00:00",
+  "LastChanged_Achievements": "2024-01-05T17:09:49.4159476+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-05T16:00:14.0551743+00:00",
-  "LastUpdate_Achievements": "2024-01-05T16:09:35.7037885+00:00"
+  "LastUpdate_Ratings": "2024-01-05T17:00:04.1105569+00:00",
+  "LastUpdate_Achievements": "2024-01-05T17:09:49.4161601+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 358,
   "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
@@ -1734,9 +1734,9 @@
       "ID": "Collect_HealthStone_HealUpgrade_4",
       "SetID": "7a5k76n",
       "Name": "Maximum Vigor",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 130
     },
     {
       "ID": "Collect_Hollow_Flame",
@@ -2022,9 +2022,9 @@
       "ID": "Kill_Sin_Lust",
       "SetID": "7a5k76n",
       "Name": "Delusions of Grandeur",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 139
     },
     {
       "ID": "Kill_Sin_Pride",
@@ -2150,9 +2150,9 @@
       "ID": "Upgrade_Weapon_First",
       "SetID": "7a5k76n",
       "Name": "Just the start",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 209
     },
     {
       "ID": "Upgrade_Weapon_Max",
@@ -2174,8 +2174,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-03T05:57:54.1795117+00:00",
-  "LastChanged_Achievements": "2024-01-05T16:08:07.4026257+00:00",
+  "LastChanged_Achievements": "2024-01-05T17:08:28.2382524+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:10.0817876+00:00",
-  "LastUpdate_Ratings": "2024-01-05T15:59:06.5021448+00:00",
-  "LastUpdate_Achievements": "2024-01-05T16:08:07.4026813+00:00"
+  "LastUpdate_Ratings": "2024-01-05T16:59:06.0742388+00:00",
+  "LastUpdate_Achievements": "2024-01-05T17:08:28.2383076+00:00"
 }

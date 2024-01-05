@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 218,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.92,
   "EosHistory": [
@@ -1195,9 +1195,9 @@
       "ID": "Ach-05-burak",
       "SetID": "2pjo9pi",
       "Name": "Burak",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "Ach-05-chameleon",
@@ -1251,9 +1251,9 @@
       "ID": "Ach-05-krotitel",
       "SetID": "2pjo9pi",
       "Name": "Krotitel",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "Ach-05-loutky",
@@ -1370,8 +1370,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2024-01-05T16:08:56.1786777+00:00",
+  "LastChanged_Achievements": "2024-01-05T17:09:12.4187512+00:00",
   "LastUpdate_AppInfo": "2024-01-03T20:57:13.3833834+00:00",
-  "LastUpdate_Ratings": "2024-01-05T15:58:11.7318954+00:00",
-  "LastUpdate_Achievements": "2024-01-05T16:08:56.1787197+00:00"
+  "LastUpdate_Ratings": "2024-01-05T16:58:19.6710585+00:00",
+  "LastUpdate_Achievements": "2024-01-05T17:09:12.4188221+00:00"
 }

@@ -1203,9 +1203,9 @@
       "ID": "id_59",
       "SetID": "bk9jib6",
       "Name": "King Midas",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "id_6",
@@ -1284,8 +1284,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-12-28T07:02:46.0007261+00:00",
-  "LastChanged_Achievements": "2024-01-05T16:09:58.6489542+00:00",
+  "LastChanged_Achievements": "2024-01-05T17:10:10.233735+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:11.6693375+00:00",
-  "LastUpdate_Ratings": "2024-01-05T16:00:00.5819625+00:00",
-  "LastUpdate_Achievements": "2024-01-05T16:09:58.6489989+00:00"
+  "LastUpdate_Ratings": "2024-01-05T16:59:52.3284111+00:00",
+  "LastUpdate_Achievements": "2024-01-05T17:10:10.2337736+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 383,
+  "Ranking_EOS_NewPlayers": 378,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -219,9 +219,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5228,
+  "EOS_Progressed": 5229,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -1124,6 +1124,11 @@
       "Time": "2024-01-05T11:08:43.7192303+00:00",
       "NumProgressed": 5228,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-05T17:08:32.4327218+00:00",
+      "NumProgressed": 5229,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 49,
@@ -1135,7 +1140,7 @@
       "Name": "Employee of the Month",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 1934
+      "UsersEstimate": 1935
     },
     {
       "ID": "ACHIEVE_3_OFFSHOOTS_COMPLETE",
@@ -1151,7 +1156,7 @@
       "Name": "I Believe I Can Fly",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1934
+      "UsersEstimate": 1935
     },
     {
       "ID": "ACHIEVE_50_BONES",
@@ -1239,7 +1244,7 @@
       "Name": "Timber!",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 3189
+      "UsersEstimate": 3190
     },
     {
       "ID": "ACHIEVE_ATE_FOOD_3",
@@ -1247,7 +1252,7 @@
       "Name": "Yummy!",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "ACHIEVE_BIOHAZARD",
@@ -1263,7 +1268,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5123
+      "UsersEstimate": 5124
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -1343,7 +1348,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4078
+      "UsersEstimate": 4079
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -1359,7 +1364,7 @@
       "Name": "Killed 20 Jerks",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 2823
+      "UsersEstimate": 2824
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_200",
@@ -1375,7 +1380,7 @@
       "Name": "Royal Flush",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3241
+      "UsersEstimate": 3242
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_50",
@@ -1383,7 +1388,7 @@
       "Name": "Royal Flush, Again",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 993
+      "UsersEstimate": 994
     },
     {
       "ID": "ACHIEVE_LVL_120_COMPLETE",
@@ -1423,7 +1428,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5123
+      "UsersEstimate": 5124
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -1479,7 +1484,7 @@
       "Name": "Death Defied",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 2823
+      "UsersEstimate": 2824
     },
     {
       "ID": "ACHIEVE_PLATINUM",
@@ -1511,7 +1516,7 @@
       "Name": "Pardon my Slob",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1725
+      "UsersEstimate": 1726
     },
     {
       "ID": "ACHIEVE_WOKE_UP_INN",
@@ -1519,22 +1524,22 @@
       "Name": "There is No Escape",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 3712
+      "UsersEstimate": 3713
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5228,
+      "Progressed": 5229,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-12-26T18:58:09.3460811+00:00",
-  "LastChanged_Achievements": "2024-01-05T16:08:11.9986371+00:00",
+  "LastChanged_Achievements": "2024-01-05T17:08:32.4327213+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:55.5067997+00:00",
-  "LastUpdate_Ratings": "2024-01-05T15:58:02.5963957+00:00",
-  "LastUpdate_Achievements": "2024-01-05T16:08:11.9986822+00:00"
+  "LastUpdate_Ratings": "2024-01-05T16:58:12.2621757+00:00",
+  "LastUpdate_Achievements": "2024-01-05T17:08:32.4327607+00:00"
 }

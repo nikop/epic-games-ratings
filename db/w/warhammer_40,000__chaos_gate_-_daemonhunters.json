@@ -819,9 +819,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3777,
+  "EOS_Progressed": 3779,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5549,6 +5549,11 @@
       "Time": "2024-01-05T14:08:16.1063547+00:00",
       "NumProgressed": 3777,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T17:06:26.5335904+00:00",
+      "NumProgressed": 3779,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -5750,9 +5755,9 @@
       "ID": "Kills_Executioner",
       "SetID": "3jha1np",
       "Name": "Executioner",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 680
+      "UsersEstimate": 718
     },
     {
       "ID": "Kills_Exterminator",
@@ -5896,7 +5901,7 @@
       "Name": "Bloodless",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "MissionVictory_NoWP",
@@ -6103,21 +6108,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3777,
+      "Progressed": 3779,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3777,
+      "Progressed": 3779,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-04T18:03:14.3502303+00:00",
-  "LastChanged_Achievements": "2024-01-05T16:06:31.5600635+00:00",
+  "LastChanged_Achievements": "2024-01-05T17:06:26.53359+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:30.5390055+00:00",
-  "LastUpdate_Ratings": "2024-01-05T16:03:10.3616648+00:00",
-  "LastUpdate_Achievements": "2024-01-05T16:06:31.5601546+00:00"
+  "LastUpdate_Ratings": "2024-01-05T17:03:21.7196241+00:00",
+  "LastUpdate_Achievements": "2024-01-05T17:06:26.5337069+00:00"
 }

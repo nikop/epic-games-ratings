@@ -7,10 +7,10 @@ Number of Ratings: 28  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Getting started | 76.00% | ~480 |
-| Close call! | 71.00% | ~448 |
+| Close call! | 71.00% | ~449 |
 | Builder | 51.00% | ~322 |
 | Living it large! | 44.00% | ~278 |
-| Pangs of conscience | 43.00% | ~271 |
+| Pangs of conscience | 43.00% | ~272 |
 | Collector | 42.00% | ~265 |
 | Completely nuts! | 41.00% | ~259 |
 | Need to think | 41.00% | ~259 |
@@ -20,18 +20,18 @@ Number of Ratings: 28  (23.09.2022)
 | It's no coincidence. | 28.00% | ~177 |
 | Philatelist | 26.00% | ~164 |
 | Let's roll! | 25.00% | ~158 |
-| Ouroboros | 24.00% | ~151 |
-| Non Stop! | 24.00% | ~151 |
+| Ouroboros | 24.00% | ~152 |
+| Non Stop! | 24.00% | ~152 |
 | Foreman | 21.00% | ~133 |
 | Russia | 19.00% | ~120 |
 | America | 18.00% | ~114 |
 | Missed it! | 18.00% | ~114 |
 | Sabotage | 15.00% | ~95 |
 | Achtung! | 12.00% | ~76 |
-| Japan | 11.00% | ~69 |
-| Tycoon | 10.00% | ~63 |
+| Japan | 11.00% | ~70 |
 | Woodcutter | 10.00% | ~63 |
 | Engineer | 10.00% | ~63 |
+| Tycoon | 9.00% | ~57 |
 | Germany | 7.00% | ~44 |
 | Сhancellor | 5.00% | ~32 |
 | Supercrash! | 5.00% | ~32 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Mega-railroad | 0.50% | ~3 |
 | Vandal | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 631 (Ranked 333)  
+Progressed: 632 (Ranked 333)  
 Completed: 2 (0.32%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 2 (0.32%) (Ranked 246)
 | 2024-01-02 | 623 | 2 |
 | 2024-01-03 | 627 | 2 |
 | 2024-01-04 | 630 | 2 |
-| 2024-01-05 | 631 | 2 |
+| 2024-01-05 | 632 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

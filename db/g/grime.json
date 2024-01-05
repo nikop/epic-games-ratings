@@ -2,12 +2,12 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 429,
+  "Ranking_Rating": 445,
   "Ranking_Popularity": 425,
   "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -21,7 +21,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.59,
   "NumberOfRatings": 46,
   "RatingHistory": [
     {
@@ -1763,6 +1763,12 @@
       "Rating": 4.6,
       "NumberOfAwards": 442,
       "NumberOfAwardsMax": 62
+    },
+    {
+      "Time": "2024-01-05T17:00:16.985449+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 442,
+      "NumberOfAwardsMax": 62
     }
   ],
   "ReviewsDisabled": false,
@@ -1825,10 +1831,10 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 166635,
+  "EOS_Progressed": 166643,
   "EOS_Completed": 445,
-  "EOS_NewPlayers": 1355,
-  "EOS_NewCompleters": 23,
+  "EOS_NewPlayers": 1351,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
@@ -21950,6 +21956,11 @@
       "Time": "2024-01-05T16:06:20.1159283+00:00",
       "NumProgressed": 166635,
       "NumCompleted": 445
+    },
+    {
+      "Time": "2024-01-05T17:06:16.3188366+00:00",
+      "NumProgressed": 166643,
+      "NumCompleted": 445
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -22138,7 +22149,7 @@
       "Name": "Feast",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1167
     },
     {
       "ID": "DEFEAT_WATCHER",
@@ -22218,7 +22229,7 @@
       "Name": "Yank",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1167
     },
     {
       "ID": "MISC_REACHHIGHLEVEL",
@@ -22329,21 +22340,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 166218,
+      "Progressed": 166226,
       "Completed": 1254
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 166635,
+      "Progressed": 166643,
       "Completed": 445
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2024-01-05T15:00:08.520148+00:00",
-  "LastChanged_Achievements": "2024-01-05T16:06:20.1159278+00:00",
+  "LastChanged": "2024-01-05T17:00:16.9854489+00:00",
+  "LastChanged_Achievements": "2024-01-05T17:06:16.3188359+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:50.3299145+00:00",
-  "LastUpdate_Ratings": "2024-01-05T16:00:28.9405343+00:00",
-  "LastUpdate_Achievements": "2024-01-05T16:06:20.116042+00:00"
+  "LastUpdate_Ratings": "2024-01-05T17:00:16.9854493+00:00",
+  "LastUpdate_Achievements": "2024-01-05T17:06:16.318991+00:00"
 }

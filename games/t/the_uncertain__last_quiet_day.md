@@ -21,12 +21,12 @@ Rating: 3.75 (Ranked 1,085)
 | Hacker | 19.00% | ~120 |
 | He is just a child | 19.00% | ~120 |
 | The Walking Robot Among Us | 19.00% | ~120 |
+| Concrete painting | 17.00% | ~107 |
 | Goody | 17.00% | ~107 |
 | Not what it seems | 17.00% | ~107 |
 | Please oh pleeease! | 17.00% | ~107 |
 | Uncertain | 17.00% | ~107 |
 | Ace | 16.00% | ~101 |
-| Concrete painting | 16.00% | ~101 |
 | Found it! | 16.00% | ~101 |
 | Hipster | 16.00% | ~101 |
 | That's much better! | 16.00% | ~101 |

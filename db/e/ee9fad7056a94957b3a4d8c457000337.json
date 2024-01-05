@@ -2,7 +2,7 @@
   "ID": "ee9fad7056a94957b3a4d8c457000337",
   "Name": "20 Minutes Till Dawn",
   "ProductSlug": "20-minutes-till-dawn-be3305",
-  "Ranking_Rating": 398,
+  "Ranking_Rating": 379,
   "Ranking_Popularity": 400,
   "Ranking_PopularitySum": 479,
   "Ranking_EOS_Progress": 820,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.61,
+  "Rating": 4.62,
   "RatingHistory": [
     {
       "Time": "2024-01-03T11:57:34.34371+00:00",
@@ -83,6 +83,12 @@
       "Rating": 4.61,
       "NumberOfAwards": 80,
       "NumberOfAwardsMax": 80
+    },
+    {
+      "Time": "2024-01-05T16:58:27.7726697+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 80,
+      "NumberOfAwardsMax": 80
     }
   ],
   "ReviewsDisabled": false,
@@ -109,8 +115,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-01-02T18:57:16.5662622+00:00",
   "FirstSeenRating": "2024-01-03T11:57:34.3437098+00:00",
-  "LastChanged": "2024-01-05T13:02:44.0268931+00:00",
+  "LastChanged": "2024-01-05T16:58:27.7726695+00:00",
   "LastUpdate_AppInfo": "2024-01-02T16:57:05.408242+00:00",
-  "LastUpdate_Ratings": "2024-01-05T15:58:22.3984202+00:00",
-  "LastUpdate_Achievements": "2024-01-05T16:04:37.8359761+00:00"
+  "LastUpdate_Ratings": "2024-01-05T16:58:27.7726699+00:00",
+  "LastUpdate_Achievements": "2024-01-05T17:04:42.7881052+00:00"
 }

@@ -8,13 +8,13 @@ Rating: 4.63 (Ranked 357)
 | Azoria Beckons | 4.00% | ~355 |
 | A Thorny Situation | 3.00% | ~266 |
 | ... And Spit Back Out | 3.00% | ~266 |
-| Calm Sailing | 2.00% | ~177 |
-| Open the Gate! | 2.00% | ~177 |
-| Miner 49er | 2.00% | ~177 |
-| Break-Net Speed | 2.00% | ~177 |
-| Humble Collector | 2.00% | ~177 |
-| Mist Walker | 2.00% | ~177 |
-| Bramble Breaker | 2.00% | ~177 |
+| Calm Sailing | 2.00% | ~178 |
+| Open the Gate! | 2.00% | ~178 |
+| Miner 49er | 2.00% | ~178 |
+| Break-Net Speed | 2.00% | ~178 |
+| Humble Collector | 2.00% | ~178 |
+| Mist Walker | 2.00% | ~178 |
+| Bramble Breaker | 2.00% | ~178 |
 | Clear the Air | 1.00% | ~89 |
 | Search for the Hairy Grell | 1.00% | ~89 |
 | Lumberjack | 1.00% | ~89 |
@@ -32,9 +32,9 @@ Rating: 4.63 (Ranked 357)
 | Scattered Scroll Scrounger | 0.50% | ~44 |
 | Fanatical Farmer | 0.50% | ~44 |
 | Azorian Hat Dance | 0.50% | ~7 |
-| Chatty Neighbor | 0.40% | ~35 |
-| Right Tool For the Job | 0.40% | ~35 |
-| House Proud | 0.40% | ~35 |
+| Chatty Neighbor | 0.40% | ~36 |
+| Right Tool For the Job | 0.40% | ~36 |
+| House Proud | 0.40% | ~36 |
 | I Now Pronounce You... | 0.30% | ~27 |
 | Captain of Cozy | 0.30% | ~27 |
 | Going Down | 0.30% | ~4 |
@@ -49,8 +49,8 @@ Rating: 4.63 (Ranked 357)
 | Splish-Splash | 0.10% | ~1 |
 | Archi-Pal-igo Aficionado | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,874 (Ranked 184)  
-Completed: 1 (0.01%) (Ranked 369)  
+Progressed: 8,876 (Ranked 184)  
+Completed: 1 (0.01%) (Ranked 370)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -182,7 +182,7 @@ Completed: 1 (0.01%) (Ranked 369)
 | 2024-01-02 | 8,830 | 1 |
 | 2024-01-03 | 8,841 | 1 |
 | 2024-01-04 | 8,863 | 1 |
-| 2024-01-05 | 8,874 | 1 |
+| 2024-01-05 | 8,876 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

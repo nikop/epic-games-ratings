@@ -15,7 +15,7 @@
 | Chapter 6 Complete | 19.00% | ~21 |
 | Plant Enchanter | 19.00% | ~21 |
 | The Truth | 19.00% | ~21 |
-| Reconciliation | 18.00% | ~20 |
+| Reconciliation | 19.00% | ~21 |
 | Always Watchful | 17.00% | ~19 |
 | Chapter 7 Complete | 17.00% | ~19 |
 | Bounty Hunter | 15.00% | ~17 |

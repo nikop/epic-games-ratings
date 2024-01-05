@@ -6,7 +6,7 @@ Rating: 4.71 (Ranked 203)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Last Stand | 89.00% | ~646 |
-| Thalya – Simply Immortal | 88.00% | ~639 |
+| Thalya – Simply Immortal | 89.00% | ~646 |
 | For the Horde! | 83.00% | ~603 |
 | Hammer Time, Round Two | 81.00% | ~588 |
 | The Hellwoods | 77.00% | ~559 |
@@ -65,10 +65,10 @@ Rating: 4.71 (Ranked 203)
 | Hands Off My Stones | 13.00% | ~94 |
 | Gorgu is in the Best of Health | 12.00% | ~87 |
 | No Mana, No Cry | 10.00% | ~73 |
-| I Don't Need Any Help | 9.00% | ~65 |
+| I Don't Need Any Help | 10.00% | ~73 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 726 (Ranked 315)  
-Completed: 28 (3.86%) (Ranked 92)  
+Completed: 29 (3.99%) (Ranked 90)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -128,7 +128,7 @@ Completed: 28 (3.86%) (Ranked 92)
 | 2024-01-02 | 701 | 27 |
 | 2024-01-03 | 710 | 28 |
 | 2024-01-04 | 719 | 28 |
-| 2024-01-05 | 726 | 28 |
+| 2024-01-05 | 726 | 29 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

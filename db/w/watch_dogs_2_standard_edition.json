@@ -2,7 +2,7 @@
   "ID": "angelonia",
   "Name": "Watch Dogs 2 Standard Edition",
   "ProductSlug": "watch-dogs-2",
-  "Ranking_Rating": 398,
+  "Ranking_Rating": 399,
   "Ranking_Popularity": 198,
   "Ranking_PopularitySum": 151,
   "Ranking_EOS_Progress": 820,
@@ -8827,10 +8827,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 4829,
       "NumberOfAwardsMax": 657
+    },
+    {
+      "Time": "2024-01-05T16:59:05.7082484+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 4830,
+      "NumberOfAwardsMax": 657
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4829,
+  "NumberOfAwards": 4830,
   "NumberOfAwardsMax": 657,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8850,7 +8856,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 591
+      "Count": 592
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -8906,8 +8912,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:47.2553494+00:00",
-  "LastChanged": "2024-01-05T13:03:29.2874049+00:00",
+  "LastChanged": "2024-01-05T16:59:05.7082483+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:55.1714698+00:00",
-  "LastUpdate_Ratings": "2024-01-05T15:59:06.0723981+00:00",
-  "LastUpdate_Achievements": "2024-01-05T16:08:46.4367699+00:00"
+  "LastUpdate_Ratings": "2024-01-05T16:59:05.708249+00:00",
+  "LastUpdate_Achievements": "2024-01-05T17:09:03.2162729+00:00"
 }

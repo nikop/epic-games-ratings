@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -41,9 +41,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 781,
+  "EOS_Progressed": 782,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -2911,6 +2911,11 @@
       "Time": "2024-01-05T15:09:04.7193851+00:00",
       "NumProgressed": 781,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-05T17:09:14.6834445+00:00",
+      "NumProgressed": 782,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -2923,7 +2928,7 @@
       "Name": "New arm",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -2987,7 +2992,7 @@
       "Name": "Find myself",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ACHIEVEMENT_19_Romantic",
@@ -3043,7 +3048,7 @@
       "Name": "TentacleMAN",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ACHIEVEMENT_25_LoveAssistant",
@@ -3067,7 +3072,7 @@
       "Name": "Novice Scavenger",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -3075,7 +3080,7 @@
       "Name": "Master Craftsman",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "ACHIEVEMENT_5_FirstWall",
@@ -3097,9 +3102,9 @@
       "ID": "ACHIEVEMENT_7_SecondWall",
       "SetID": "9bke6f1",
       "Name": "Second wall",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 258
+      "UsersEstimate": 250
     },
     {
       "ID": "ACHIEVEMENT_8_StoneRetriever",
@@ -3122,7 +3127,7 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 781,
+      "Progressed": 782,
       "Completed": 2
     }
   ],
@@ -3130,8 +3135,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2023-12-31T15:57:10.2736309+00:00",
-  "LastChanged_Achievements": "2024-01-05T16:08:58.5537775+00:00",
+  "LastChanged_Achievements": "2024-01-05T17:09:14.6834438+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.2091482+00:00",
-  "LastUpdate_Ratings": "2024-01-05T15:59:49.5788419+00:00",
-  "LastUpdate_Achievements": "2024-01-05T16:08:58.5538163+00:00"
+  "LastUpdate_Ratings": "2024-01-05T16:59:42.7039054+00:00",
+  "LastUpdate_Achievements": "2024-01-05T17:09:14.6834692+00:00"
 }

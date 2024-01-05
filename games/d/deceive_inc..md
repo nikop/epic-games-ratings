@@ -1,7 +1,7 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.59 (Ranked 446)  
+Rating: 4.59 (Ranked 445)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -42,7 +42,7 @@ Rating: 4.59 (Ranked 446)
 | Extraction Confusion | 0.20% | ~39 |
 | Spyfall | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,260 (Ranked 155)  
+Progressed: 19,260 (Ranked 156)  
 Completed: 4 (0.02%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |

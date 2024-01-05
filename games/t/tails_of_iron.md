@@ -7,6 +7,8 @@ Rating: 4.56 (Ranked 505)
 | ---- | ---------- | ----- |
 | Become King | 2.00% | ~46 |
 | Complete Guard Faction | 2.00% | ~46 |
+| Ranged Weapon | 2.00% | ~46 |
+| Defeat 25 Frogs | 2.00% | ~46 |
 | The Bright Fir | 2.00% | ~19 |
 | Collect Gold | 1.00% | ~23 |
 | Collect Iron Ore | 1.00% | ~23 |
@@ -14,10 +16,8 @@ Rating: 4.56 (Ranked 505)
 | Complete Elder Faction | 1.00% | ~23 |
 | End of the Mozis | 1.00% | ~23 |
 | Defeat Ratnor Rodentson | 1.00% | ~23 |
-| Ranged Weapon | 1.00% | ~23 |
 | Two Handed Weapon | 1.00% | ~23 |
 | Defeat 25 Grubs | 1.00% | ~23 |
-| Defeat 25 Frogs | 1.00% | ~23 |
 | Defeat 25 Mozis | 1.00% | ~23 |
 | Meet the Creatures from the Deep | 1.00% | ~23 |
 | Kitchen Ready To Cook | 1.00% | ~23 |
@@ -29,9 +29,9 @@ Rating: 4.56 (Ranked 505)
 | Shield Maiden Yellow Tongue | 1.00% | ~10 |
 | I Remember My First Beer | 1.00% | ~10 |
 | Fix the Travellers Wagon | 0.90% | ~21 |
+| Defeat the Grub Buster | 0.90% | ~9 |
 | Return the Statues | 0.80% | ~18 |
 | Defeat Rattus Augustail | 0.80% | ~18 |
-| Defeat the Grub Buster | 0.80% | ~8 |
 | Defeat the Stalker Queen | 0.80% | ~8 |
 | Complete the Chefs Book | 0.70% | ~16 |
 | Complete Ranger Faction | 0.60% | ~14 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 505)
 | King of Kings | 0.40% | ~9 |
 | A new Warchief rises | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,311 (Ranked 240)  
+Progressed: 2,312 (Ranked 240)  
 Completed: 12 (0.52%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 12 (0.52%) (Ranked 215)
 | 2024-01-02 | 2,304 | 12 |
 | 2024-01-03 | 2,306 | 12 |
 | 2024-01-04 | 2,308 | 12 |
-| 2024-01-05 | 2,311 | 12 |
+| 2024-01-05 | 2,312 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

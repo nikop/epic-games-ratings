@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 431,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -573,7 +573,7 @@
   ],
   "EOS_Progressed": 182,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1347,9 +1347,9 @@
       "ID": "20TELEPORTS",
       "SetID": "a1angca",
       "Name": "Beam Me Up",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "20TRADER",
@@ -1515,9 +1515,9 @@
       "ID": "CHOSEMOR",
       "SetID": "a1angca",
       "Name": "Morkon",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "CHOSEOUT",
@@ -1699,8 +1699,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2024-01-05T16:04:16.8124947+00:00",
+  "LastChanged_Achievements": "2024-01-05T17:04:23.5592959+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:16.9599546+00:00",
-  "LastUpdate_Ratings": "2024-01-05T15:57:31.6654381+00:00",
-  "LastUpdate_Achievements": "2024-01-05T16:04:16.8125269+00:00"
+  "LastUpdate_Ratings": "2024-01-05T16:57:43.7246157+00:00",
+  "LastUpdate_Achievements": "2024-01-05T17:04:23.5593275+00:00"
 }

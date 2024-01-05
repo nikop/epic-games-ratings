@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -3776,9 +3776,9 @@
       "ID": "FutureEkko1Defeated",
       "SetID": "a9e499d",
       "Name": "The Mysterious Stranger",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 396
+      "UsersEstimate": 408
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -3936,9 +3936,9 @@
       "ID": "PidgeDefeated",
       "SetID": "a9e499d",
       "Name": "The Prince in Heels",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 309
+      "UsersEstimate": 321
     },
     {
       "ID": "RewindDamage1",
@@ -4040,9 +4040,9 @@
       "ID": "WarwickDefeated",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 297
+      "UsersEstimate": 309
     },
     {
       "ID": "WatcherFought",
@@ -4089,8 +4089,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-05T11:57:15.4004085+00:00",
-  "LastChanged_Achievements": "2024-01-05T16:10:02.7903126+00:00",
+  "LastChanged_Achievements": "2024-01-05T17:10:14.3057472+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:23.9308133+00:00",
-  "LastUpdate_Ratings": "2024-01-05T15:57:08.3203642+00:00",
-  "LastUpdate_Achievements": "2024-01-05T16:10:02.7903641+00:00"
+  "LastUpdate_Ratings": "2024-01-05T16:57:22.314678+00:00",
+  "LastUpdate_Achievements": "2024-01-05T17:10:14.3058082+00:00"
 }

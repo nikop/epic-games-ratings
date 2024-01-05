@@ -5,10 +5,10 @@
   "Ranking_Rating": 546,
   "Ranking_Popularity": 495,
   "Ranking_PopularitySum": 527,
-  "Ranking_EOS_Progress": 385,
+  "Ranking_EOS_Progress": 384,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -294,11 +294,11 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 319,
+  "EOS_Progressed": 320,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.63,
+  "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
     {
       "Time": "2023-12-01T10:05:16.7894965+00:00",
@@ -1539,6 +1539,11 @@
       "Time": "2024-01-05T16:09:02.929342+00:00",
       "NumProgressed": 319,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-05T17:09:18.7378286+00:00",
+      "NumProgressed": 320,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1549,9 +1554,9 @@
       "ID": "ACH_ACCELERATE_SMASH",
       "SetID": "4n84pon",
       "Name": "Mash Machine",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 239
+      "UsersEstimate": 237
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1623,7 +1628,7 @@
       "Name": "Cult Following",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -1663,7 +1668,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -1711,7 +1716,7 @@
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_KILL_BONGWATER",
@@ -1719,7 +1724,7 @@
       "Name": "Bodied Sattva",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -1799,7 +1804,7 @@
       "Name": "Earthly Pleasures",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
@@ -1902,7 +1907,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 319,
+      "Progressed": 320,
       "Completed": 2
     }
   ],
@@ -1910,8 +1915,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-03T11:58:36.9448322+00:00",
-  "LastChanged_Achievements": "2024-01-05T16:09:02.9293415+00:00",
+  "LastChanged_Achievements": "2024-01-05T17:09:18.7378283+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:44.261947+00:00",
-  "LastUpdate_Ratings": "2024-01-05T15:59:23.1536591+00:00",
-  "LastUpdate_Achievements": "2024-01-05T16:09:02.9293765+00:00"
+  "LastUpdate_Ratings": "2024-01-05T16:59:21.0241854+00:00",
+  "LastUpdate_Achievements": "2024-01-05T17:09:18.7378728+00:00"
 }

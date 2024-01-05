@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 308,
   "Ranking_EOS_Completed": 116,
   "Ranking_EOS_NewPlayers": 281,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
     "PcReleaseDate": "2020-03-31T05:00:00+00:00",
@@ -1752,9 +1752,9 @@
       "ID": "falling_for_you",
       "SetID": "d4f4pll",
       "Name": "Falling For You",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 331
+      "UsersEstimate": 339
     },
     {
       "ID": "free_champagne",
@@ -1833,8 +1833,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2024-01-05T16:09:31.5804081+00:00",
+  "LastChanged_Achievements": "2024-01-05T17:09:45.643066+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:19.0245137+00:00",
-  "LastUpdate_Ratings": "2024-01-05T16:02:36.7963819+00:00",
-  "LastUpdate_Achievements": "2024-01-05T16:09:31.5804288+00:00"
+  "LastUpdate_Ratings": "2024-01-05T17:00:31.7981363+00:00",
+  "LastUpdate_Achievements": "2024-01-05T17:09:45.6430854+00:00"
 }

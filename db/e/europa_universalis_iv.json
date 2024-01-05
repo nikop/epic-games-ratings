@@ -14005,10 +14005,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 63619,
       "NumberOfAwardsMax": 7726
+    },
+    {
+      "Time": "2024-01-05T16:58:25.8032996+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 63662,
+      "NumberOfAwardsMax": 7726
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 63619,
+  "NumberOfAwards": 63662,
   "NumberOfAwardsMax": 7726,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -14022,7 +14028,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 7331
+      "Count": 7348
     },
     {
       "Text": "This game has Diverse Characters",
@@ -14064,13 +14070,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 6435
+      "Count": 6447
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 5941
+      "Count": 5955
     },
     {
       "Text": "This game has Unique Visuals",
@@ -14079,9 +14085,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 492604,
+  "EOS_Progressed": 492654,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5569,
+  "EOS_NewPlayers": 5556,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -44079,6 +44085,11 @@
       "Time": "2024-01-05T16:09:39.186526+00:00",
       "NumProgressed": 492604,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-05T17:09:52.9638771+00:00",
+      "NumProgressed": 492654,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -45114,7 +45125,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1970
+      "UsersEstimate": 1971
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -46090,7 +46101,7 @@
       "Name": "Seriously?!",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1970
+      "UsersEstimate": 1971
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -46993,21 +47004,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 492604,
+      "Progressed": 492654,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 492604,
+      "Progressed": 492654,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-01-05T14:58:12.870886+00:00",
-  "LastChanged_Achievements": "2024-01-05T16:09:39.1865257+00:00",
+  "LastChanged": "2024-01-05T16:58:25.8032994+00:00",
+  "LastChanged_Achievements": "2024-01-05T17:09:52.9638766+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:39.2428149+00:00",
-  "LastUpdate_Ratings": "2024-01-05T15:58:20.3370327+00:00",
-  "LastUpdate_Achievements": "2024-01-05T16:09:39.1877593+00:00"
+  "LastUpdate_Ratings": "2024-01-05T16:58:25.8032999+00:00",
+  "LastUpdate_Achievements": "2024-01-05T17:09:52.9650529+00:00"
 }

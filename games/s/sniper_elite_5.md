@@ -5,15 +5,15 @@ Rating: 4.46 (Ranked 673)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,978 |
+| Meeting Resistance | 47.00% | ~1,979 |
 | Confirming Suspicions | 42.00% | ~1,768 |
-| The Kraken Wakes | 38.00% | ~1,599 |
+| The Kraken Wakes | 38.00% | ~1,600 |
 | It's Starting to Crack | 34.00% | ~1,431 |
 | Change the Channel | 32.00% | ~1,347 |
 | Lord of War | 31.00% | ~1,305 |
 | Taking it back | 30.00% | ~1,263 |
 | Resourceful | 28.00% | ~1,179 |
-| Target America | 27.00% | ~1,136 |
+| Target America | 27.00% | ~1,137 |
 | The Kraken Sleeps | 25.00% | ~1,052 |
 | As Quiet as a Mouse | 24.00% | ~1,010 |
 | Liberté | 23.00% | ~968 |
@@ -24,12 +24,12 @@ Rating: 4.46 (Ranked 673)
 | Climbing the Ladder | 17.00% | ~716 |
 | Just a Flesh Wound | 17.00% | ~716 |
 | Der Geist | 17.00% | ~716 |
-| Close Quarters | 16.00% | ~673 |
-| Snake in the Grass | 16.00% | ~673 |
-| No Stone Unturned | 15.00% | ~631 |
-| Skirmisher | 15.00% | ~631 |
-| Die Nussknacker Sweet! | 15.00% | ~631 |
-| Brains of the Operation | 15.00% | ~631 |
+| Close Quarters | 16.00% | ~674 |
+| Snake in the Grass | 16.00% | ~674 |
+| No Stone Unturned | 15.00% | ~632 |
+| Skirmisher | 15.00% | ~632 |
+| Die Nussknacker Sweet! | 15.00% | ~632 |
+| Brains of the Operation | 15.00% | ~632 |
 | Opposing Force | 14.00% | ~589 |
 | Enemy at the Gates | 14.00% | ~589 |
 | Fields of Glory | 14.00% | ~589 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 673)
 | Going Overboard | 0.60% | ~25 |
 | Stroll in the Woods | 0.50% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,209 (Ranked 209)  
+Progressed: 4,210 (Ranked 209)  
 Completed: 11 (0.26%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,14 +335,14 @@ Completed: 11 (0.26%) (Ranked 260)
 | 2024-01-02 | 4,190 | 11 |
 | 2024-01-03 | 4,197 | 11 |
 | 2024-01-04 | 4,208 | 11 |
-| 2024-01-05 | 4,209 | 11 |
+| 2024-01-05 | 4,210 | 11 |
 ## Awards
-Max (Great for Beginners): 28  (Ranked 531)  
-Sum: 28 (Ranked 547)  
-Diff (max vs sum): -16  
+Max (Great for Beginners): 29  (Ranked 526)  
+Sum: 29 (Ranked 543)  
+Diff (max vs sum): -17  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 28 |
+| This game is Great for Beginners | 29 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -443,3 +443,4 @@ Diff (max vs sum): -16
 | 2023-12-12 | 4.44 | 28 | 28 |
 | 2023-12-20 | 4.45 | 28 | 28 |
 | 2023-12-31 | 4.46 | 28 | 28 |
+| 2024-01-05 | 4.46 | 29 | 29 |

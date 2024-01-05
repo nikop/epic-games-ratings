@@ -15,11 +15,11 @@
 | Clear the Road | 44.00% | ~26 |
 | Paw patrol member | 42.00% | ~25 |
 | Robot Out of Control | 42.00% | ~25 |
+| Break Time | 37.00% | ~22 |
+| Training Day | 37.00% | ~22 |
+| In the Air | 37.00% | ~22 |
 | Never Miss | 37.00% | ~22 |
-| Break Time | 36.00% | ~21 |
 | Master of the Rope | 36.00% | ~21 |
-| Training Day | 36.00% | ~21 |
-| In the Air | 36.00% | ~21 |
 | Animal Sighting | 31.00% | ~18 |
 | The Fastest | 27.00% | ~16 |
 | Adventure Bay’s Citizen | 27.00% | ~16 |

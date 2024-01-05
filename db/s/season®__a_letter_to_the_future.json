@@ -4,8 +4,8 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 94,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1978,
+  "EOS_Progressed": 1979,
   "EOS_Completed": 74,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 3.74,
   "EosHistory": [
@@ -4514,6 +4514,11 @@
       "Time": "2024-01-05T15:09:49.2677529+00:00",
       "NumProgressed": 1978,
       "NumCompleted": 74
+    },
+    {
+      "Time": "2024-01-05T17:09:59.8562008+00:00",
+      "NumProgressed": 1979,
+      "NumCompleted": 74
     }
   ],
   "TotalAchievements": 16,
@@ -4629,7 +4634,7 @@
       "Name": "Stranger Encounterer",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 692
+      "UsersEstimate": 693
     },
     {
       "ID": "ACH_THEEND",
@@ -4652,7 +4657,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1978,
+      "Progressed": 1979,
       "Completed": 74
     }
   ],
@@ -4660,8 +4665,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2024-01-05T16:09:47.2528264+00:00",
+  "LastChanged_Achievements": "2024-01-05T17:09:59.8562003+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:36.182252+00:00",
-  "LastUpdate_Ratings": "2024-01-05T15:57:48.0536136+00:00",
-  "LastUpdate_Achievements": "2024-01-05T16:09:47.2528704+00:00"
+  "LastUpdate_Ratings": "2024-01-05T16:57:59.235738+00:00",
+  "LastUpdate_Achievements": "2024-01-05T17:09:59.8562362+00:00"
 }

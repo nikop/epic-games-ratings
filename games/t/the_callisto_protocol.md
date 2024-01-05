@@ -5,31 +5,31 @@ Rating: 4.21 (Ranked 950)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 23.00% | ~4,854 |
-| The Outer Way | 23.00% | ~4,854 |
-| Desperate Times | 22.00% | ~4,643 |
-| Get a Grip | 20.00% | ~4,221 |
-| Paper Jams | 20.00% | ~4,221 |
-| Chew 'Em Up | 18.00% | ~3,799 |
-| Reforged | 17.00% | ~3,588 |
-| Float Like A Butterfly | 16.00% | ~3,377 |
-| Workplace Hazard | 14.00% | ~2,955 |
-| If the SHU Fits... | 14.00% | ~2,955 |
-| Without A Paddle | 12.00% | ~2,532 |
-| In the Pipe, Five by Five | 11.00% | ~2,321 |
-| Crash Site | 11.00% | ~2,321 |
-| Two Heads Are Better Than One | 10.00% | ~2,110 |
-| Power Up | 10.00% | ~2,110 |
-| Giving Back | 9.00% | ~1,899 |
-| Terminated | 9.00% | ~1,899 |
-| What Lies Beneath | 9.00% | ~1,899 |
-| Full Circle | 9.00% | ~1,899 |
-| You Need a Gun | 8.00% | ~1,688 |
-| I Do Belong Here | 7.00% | ~1,477 |
-| Keep Fighting | 7.00% | ~632 |
-| The Commonality | 5.00% | ~1,055 |
+| The Outer Way | 24.00% | ~5,067 |
+| Flesh Wound | 23.00% | ~4,856 |
+| Desperate Times | 22.00% | ~4,645 |
+| Get a Grip | 20.00% | ~4,223 |
+| Paper Jams | 20.00% | ~4,223 |
+| Chew 'Em Up | 18.00% | ~3,800 |
+| Reforged | 17.00% | ~3,589 |
+| Float Like A Butterfly | 16.00% | ~3,378 |
+| Workplace Hazard | 14.00% | ~2,956 |
+| If the SHU Fits... | 14.00% | ~2,956 |
+| Without A Paddle | 12.00% | ~2,534 |
+| In the Pipe, Five by Five | 11.00% | ~2,322 |
+| Crash Site | 11.00% | ~2,322 |
+| Two Heads Are Better Than One | 10.00% | ~2,111 |
+| Power Up | 10.00% | ~2,111 |
+| Giving Back | 9.00% | ~1,900 |
+| Terminated | 9.00% | ~1,900 |
+| What Lies Beneath | 9.00% | ~1,900 |
+| Full Circle | 9.00% | ~1,900 |
+| You Need a Gun | 8.00% | ~1,689 |
+| I Do Belong Here | 7.00% | ~1,478 |
+| Keep Fighting | 7.00% | ~633 |
+| The Commonality | 5.00% | ~1,056 |
 | It's Time | 5.00% | ~452 |
-| In Striking Distance | 4.00% | ~844 |
+| In Striking Distance | 4.00% | ~845 |
 | One Last Job | 3.00% | ~271 |
 | Big Spender | 2.00% | ~181 |
 | This Isn't About Escape | 2.00% | ~181 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 950)
 | Big Game Hunter | 0.10% | ~9 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,104 (Ranked 151)  
+Progressed: 21,113 (Ranked 151)  
 Completed: 82 (0.39%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 82 (0.39%) (Ranked 236)
 | 2024-01-02 | 20,695 | 82 |
 | 2024-01-03 | 20,833 | 82 |
 | 2024-01-04 | 20,995 | 82 |
-| 2024-01-05 | 21,104 | 82 |
+| 2024-01-05 | 21,113 | 82 |
 ## Awards
 Max (Amazing Characters): 120  (Ranked 354)  
 Sum: 581 (Ranked 324)  

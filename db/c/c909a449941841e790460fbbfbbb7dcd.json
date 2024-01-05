@@ -1064,9 +1064,9 @@
       "ID": "BUY_FUSION_BOMB_LEVEL_1",
       "SetID": "14g34pl",
       "Name": "Kaboom!",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 60,
-      "UsersEstimate": 97
+      "UsersEstimate": 100
     },
     {
       "ID": "BUY_LASER_BEAM_LEVEL_1",
@@ -1088,9 +1088,9 @@
       "ID": "DEFEATED_1000_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Assassin",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 60,
-      "UsersEstimate": 135
+      "UsersEstimate": 137
     },
     {
       "ID": "DEFEATED_100_ENEMIES",
@@ -1120,9 +1120,9 @@
       "ID": "NEW_ACHIEVEMENT_0_0",
       "SetID": "14g34pl",
       "Name": "Peaceful is safe!",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 60,
-      "UsersEstimate": 148
+      "UsersEstimate": 151
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_0",
@@ -1207,8 +1207,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2024-01-05T16:05:31.834344+00:00",
+  "LastChanged_Achievements": "2024-01-05T17:05:33.0489555+00:00",
   "LastUpdate_AppInfo": "2024-01-02T23:57:08.4629099+00:00",
-  "LastUpdate_Ratings": "2024-01-05T15:59:48.3420153+00:00",
-  "LastUpdate_Achievements": "2024-01-05T16:05:31.834365+00:00"
+  "LastUpdate_Ratings": "2024-01-05T16:59:41.6547318+00:00",
+  "LastUpdate_Achievements": "2024-01-05T17:05:33.0489754+00:00"
 }

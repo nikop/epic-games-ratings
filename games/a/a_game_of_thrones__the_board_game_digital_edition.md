@@ -6,30 +6,30 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~13,007 |
-| Battering Crew | 19.00% | ~6,178 |
-| The Kingsroad | 18.00% | ~5,853 |
-| Well Stocked | 13.00% | ~4,227 |
-| Royal Fleet | 13.00% | ~4,227 |
-| The Kraken’s Grasp | 9.00% | ~2,927 |
-| Daggers in the Dark | 8.00% | ~2,601 |
-| Alliance | 8.00% | ~2,601 |
-| Winter is Coming | 7.00% | ~2,276 |
-| Oathkeeper | 7.00% | ~2,276 |
-| Influential | 7.00% | ~2,276 |
-| A Long Journey | 7.00% | ~2,276 |
-| Ours is the Fury | 6.00% | ~1,951 |
-| We Do Not Sow | 6.00% | ~1,951 |
-| Defender of the Wall | 6.00% | ~1,951 |
+| Conqueror | 40.00% | ~13,012 |
+| Battering Crew | 19.00% | ~6,181 |
+| The Kingsroad | 18.00% | ~5,855 |
+| Well Stocked | 13.00% | ~4,229 |
+| Royal Fleet | 13.00% | ~4,229 |
+| The Kraken’s Grasp | 9.00% | ~2,928 |
+| Daggers in the Dark | 8.00% | ~2,602 |
+| Alliance | 8.00% | ~2,602 |
+| Winter is Coming | 7.00% | ~2,277 |
+| Oathkeeper | 7.00% | ~2,277 |
+| Influential | 7.00% | ~2,277 |
+| A Long Journey | 7.00% | ~2,277 |
+| Ours is the Fury | 6.00% | ~1,952 |
+| We Do Not Sow | 6.00% | ~1,952 |
+| Defender of the Wall | 6.00% | ~1,952 |
 | Unbowed, Unbent, Unbroken | 5.00% | ~1,626 |
 | Growing Strong | 5.00% | ~1,626 |
 | Hear me Roar! | 5.00% | ~1,626 |
 | What is Dead may Never Die | 3.00% | ~976 |
-| King in the North | 2.00% | ~650 |
-| The Swift | 2.00% | ~650 |
+| King in the North | 2.00% | ~651 |
+| The Swift | 2.00% | ~651 |
 | War of the Five Kings | 1.00% | ~325 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,518 (Ranked 137)  
+Progressed: 32,529 (Ranked 137)  
 Completed: 86 (0.26%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,14 +289,14 @@ Completed: 86 (0.26%) (Ranked 260)
 | 2024-01-02 | 32,279 | 86 |
 | 2024-01-03 | 32,380 | 86 |
 | 2024-01-04 | 32,460 | 86 |
-| 2024-01-05 | 32,518 | 86 |
+| 2024-01-05 | 32,529 | 86 |
 ## Awards
-Max (Quickly Understood Controls): 127  (Ranked 346)  
-Sum: 808 (Ranked 292)  
-Diff (max vs sum): 54  
+Max (Quickly Understood Controls): 128  (Ranked 345)  
+Sum: 809 (Ranked 290)  
+Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
-| This game has Quickly Understood Controls | 127 |
+| This game has Quickly Understood Controls | 128 |
 | This game is Extremely Fun | 112 |
 | This game is Highly Recommended | 112 |
 | This game has Competitive Players | 101 |
@@ -409,3 +409,4 @@ Diff (max vs sum): 54
 | 2023-12-29 | 4.21 | - | 127 | 806 |
 | 2023-12-30 | 4.21 | - | 127 | 807 |
 | 2024-01-04 | 4.21 | - | 127 | 808 |
+| 2024-01-05 | 4.21 | - | 128 | 809 |

@@ -3138,9 +3138,9 @@
       "ID": "PriestRogue",
       "SetID": "db30heh",
       "Name": "Direct Hit",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 185
+      "UsersEstimate": 192
     },
     {
       "ID": "PriestRum",
@@ -3170,9 +3170,9 @@
       "ID": "RogueChest",
       "SetID": "db30heh",
       "Name": "Treasure Chest",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 405
+      "UsersEstimate": 412
     },
     {
       "ID": "RogueEat",
@@ -3202,17 +3202,17 @@
       "ID": "RogueRum",
       "SetID": "db30heh",
       "Name": "In Good Spirits",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 568
+      "UsersEstimate": 575
     },
     {
       "ID": "SleepingBasiliskAmanita",
       "SetID": "db30heh",
       "Name": "Wild Dreams",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 128
+      "UsersEstimate": 135
     },
     {
       "ID": "SleepingBasiliskPistol",
@@ -3265,8 +3265,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2024-01-05T16:04:46.9816421+00:00",
+  "LastChanged_Achievements": "2024-01-05T17:04:51.3218699+00:00",
   "LastUpdate_AppInfo": "2024-01-03T02:57:24.0507598+00:00",
-  "LastUpdate_Ratings": "2024-01-05T15:59:21.1578119+00:00",
-  "LastUpdate_Achievements": "2024-01-05T16:04:46.9817265+00:00"
+  "LastUpdate_Ratings": "2024-01-05T16:59:19.0482704+00:00",
+  "LastUpdate_Achievements": "2024-01-05T17:04:51.3219099+00:00"
 }

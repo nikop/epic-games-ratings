@@ -25,10 +25,10 @@ Number of Ratings: 124  (23.09.2022)
 | Berserker | 10.00% | ~18 |
 | Alb | 9.00% | ~16 |
 | Banker | 7.00% | ~13 |
+| Beam Me Up | 7.00% | ~13 |
 | Hunter | 7.00% | ~13 |
 | Lover | 7.00% | ~13 |
 | Treasure Hunter | 6.00% | ~11 |
-| Beam Me Up | 6.00% | ~11 |
 | Hotshot | 5.00% | ~9 |
 | Free as a Bird | 5.00% | ~9 |
 | Cleric | 4.00% | ~7 |
@@ -38,9 +38,9 @@ Number of Ratings: 124  (23.09.2022)
 | Alchemist | 3.00% | ~5 |
 | Self-Sufficient | 3.00% | ~5 |
 | Unbreakable | 3.00% | ~5 |
+| Morkon | 3.00% | ~5 |
 | Idealist | 2.00% | ~4 |
 | Toy Time | 2.00% | ~4 |
-| Morkon | 2.00% | ~4 |
 | Destroyer | 2.00% | ~4 |
 | Legendary | 2.00% | ~4 |
 | Pack Rat | 0.50% | ~1 |

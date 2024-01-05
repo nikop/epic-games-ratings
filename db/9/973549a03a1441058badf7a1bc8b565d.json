@@ -2,9 +2,9 @@
   "ID": "973549a03a1441058badf7a1bc8b565d",
   "Name": "Knight vs Giant: The Broken Excalibur",
   "ProductSlug": "knight-vs-giant-the-broken-excalibur-230c5c",
-  "Ranking_EOS_Progress": 639,
+  "Ranking_EOS_Progress": 638,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 458,
+  "Ranking_EOS_NewPlayers": 437,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-10-05T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13,
+  "EOS_Progressed": 14,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -89,6 +89,11 @@
       "Time": "2024-01-05T00:10:40.0086119+00:00",
       "NumProgressed": 13,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T17:10:07.1693124+00:00",
+      "NumProgressed": 14,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T15:05:55.5796702+00:00",
@@ -99,7 +104,7 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "4mjb15",
       "Name": "A Fool to the World",
-      "Percentage": 54,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -107,7 +112,7 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "4mjb15",
       "Name": "The Chosen One",
-      "Percentage": 38,
+      "Percentage": 36,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -115,7 +120,7 @@
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "4mjb15",
       "Name": "Definitely Not Diamond",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -123,7 +128,7 @@
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "4mjb15",
       "Name": "Ugly Massive Sandbag",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -131,7 +136,7 @@
       "ID": "NEW_ACHIEVEMENT_1_12",
       "SetID": "4mjb15",
       "Name": "Pollinated",
-      "Percentage": 31,
+      "Percentage": 29,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -139,7 +144,7 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "4mjb15",
       "Name": "A Weapon to Grind",
-      "Percentage": 38,
+      "Percentage": 36,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -147,7 +152,7 @@
       "ID": "NEW_ACHIEVEMENT_1_14",
       "SetID": "4mjb15",
       "Name": "Burned Out",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -155,7 +160,7 @@
       "ID": "NEW_ACHIEVEMENT_1_15",
       "SetID": "4mjb15",
       "Name": "The Void Stares Back",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -171,7 +176,7 @@
       "ID": "NEW_ACHIEVEMENT_1_17",
       "SetID": "4mjb15",
       "Name": "Slowly but Surely",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -179,7 +184,7 @@
       "ID": "NEW_ACHIEVEMENT_1_18",
       "SetID": "4mjb15",
       "Name": "Rebuild the Nation",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -195,7 +200,7 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "4mjb15",
       "Name": "Gone Full Circle",
-      "Percentage": 54,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -203,7 +208,7 @@
       "ID": "NEW_ACHIEVEMENT_1_20",
       "SetID": "4mjb15",
       "Name": "Bedivere of the Perfect Sinew",
-      "Percentage": 46,
+      "Percentage": 43,
       "XP": 50,
       "UsersEstimate": 6
     },
@@ -211,7 +216,7 @@
       "ID": "NEW_ACHIEVEMENT_1_21",
       "SetID": "4mjb15",
       "Name": "Tristan, the Orphaned Blade",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -219,7 +224,7 @@
       "ID": "NEW_ACHIEVEMENT_1_22",
       "SetID": "4mjb15",
       "Name": "Gawain, the Green Gallant",
-      "Percentage": 38,
+      "Percentage": 36,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -227,7 +232,7 @@
       "ID": "NEW_ACHIEVEMENT_1_23",
       "SetID": "4mjb15",
       "Name": "Percival, the Noble Spearhead",
-      "Percentage": 31,
+      "Percentage": 29,
       "XP": 100,
       "UsersEstimate": 4
     },
@@ -235,7 +240,7 @@
       "ID": "NEW_ACHIEVEMENT_1_24",
       "SetID": "4mjb15",
       "Name": "Get a Friend, Get a Sword",
-      "Percentage": 46,
+      "Percentage": 43,
       "XP": 50,
       "UsersEstimate": 6
     },
@@ -243,7 +248,7 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "4mjb15",
       "Name": "The Rock Is Indeed Moving",
-      "Percentage": 46,
+      "Percentage": 43,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -251,7 +256,7 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "4mjb15",
       "Name": "Get To Know the Locals",
-      "Percentage": 46,
+      "Percentage": 43,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -259,7 +264,7 @@
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "4mjb15",
       "Name": "Barbaric Competitor",
-      "Percentage": 38,
+      "Percentage": 36,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -267,7 +272,7 @@
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "4mjb15",
       "Name": "Reduced to Rubble",
-      "Percentage": 46,
+      "Percentage": 43,
       "XP": 100,
       "UsersEstimate": 6
     },
@@ -275,7 +280,7 @@
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "4mjb15",
       "Name": "Barking up the Wrong Tree",
-      "Percentage": 46,
+      "Percentage": 43,
       "XP": 100,
       "UsersEstimate": 6
     },
@@ -283,7 +288,7 @@
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "4mjb15",
       "Name": "Fit into the Pocket",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -291,7 +296,7 @@
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "4mjb15",
       "Name": "Wisdom of the Knights",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 3
     }
@@ -300,14 +305,14 @@
     {
       "ID": "4mjb15",
       "IsBase": true,
-      "Progressed": 13,
+      "Progressed": 14,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-07T12:03:46.8255851+00:00",
   "FirstSeenAchievements": "2023-09-15T05:04:55.0336993+00:00",
-  "LastChanged_Achievements": "2024-01-05T16:09:55.3757915+00:00",
+  "LastChanged_Achievements": "2024-01-05T17:10:07.169312+00:00",
   "LastUpdate_AppInfo": "2023-12-29T21:57:13.1618378+00:00",
-  "LastUpdate_Ratings": "2024-01-05T15:59:38.4724359+00:00",
-  "LastUpdate_Achievements": "2024-01-05T16:09:55.375812+00:00"
+  "LastUpdate_Ratings": "2024-01-05T16:59:33.065763+00:00",
+  "LastUpdate_Achievements": "2024-01-05T17:10:07.1693307+00:00"
 }

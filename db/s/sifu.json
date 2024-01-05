@@ -8757,7 +8757,7 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 754654,
+  "EOS_Progressed": 754701,
   "EOS_Completed": 12974,
   "EOS_NewPlayers": 6653,
   "EOS_NewCompleters": 6,
@@ -32457,6 +32457,11 @@
       "Time": "2024-01-05T16:09:05.4982558+00:00",
       "NumProgressed": 754654,
       "NumCompleted": 12974
+    },
+    {
+      "Time": "2024-01-05T17:09:21.087989+00:00",
+      "NumProgressed": 754701,
+      "NumCompleted": 12974
     }
   ],
   "TotalAchievements": 60,
@@ -32468,7 +32473,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 37733
+      "UsersEstimate": 37735
     },
     {
       "ID": "02_Vengeance_H1",
@@ -32476,15 +32481,15 @@
       "Name": "The Assault",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30186
+      "UsersEstimate": 30188
     },
     {
       "ID": "03_Vengeance_H2",
       "SetID": "adcm20g",
       "Name": "The Hateful Pole Fighter",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 15093
+      "UsersEstimate": 22641
     },
     {
       "ID": "04_Vengeance_H3",
@@ -32492,7 +32497,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 15093
+      "UsersEstimate": 15094
     },
     {
       "ID": "05_Vengeance_H4",
@@ -32500,7 +32505,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 15093
+      "UsersEstimate": 15094
     },
     {
       "ID": "06_Vengeance_H5",
@@ -32532,7 +32537,7 @@
       "Name": "Source of Flying Daggers",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3773
+      "UsersEstimate": 3774
     },
     {
       "ID": "10_Wude_H4",
@@ -32540,7 +32545,7 @@
       "Name": "Iron Money",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3773
+      "UsersEstimate": 3774
     },
     {
       "ID": "11_Wude_H5",
@@ -32548,7 +32553,7 @@
       "Name": "Legendary Talismans of Wuxing",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3773
+      "UsersEstimate": 3774
     },
     {
       "ID": "12_MidAge",
@@ -32572,7 +32577,7 @@
       "Name": "Kill Nil",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 15093
+      "UsersEstimate": 15094
     },
     {
       "ID": "15_Detective_H1",
@@ -32620,7 +32625,7 @@
       "Name": "Stuntmaster",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 15093
+      "UsersEstimate": 15094
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -32636,7 +32641,7 @@
       "Name": "Street Fighting",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 15093
+      "UsersEstimate": 15094
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -32644,7 +32649,7 @@
       "Name": "Life is your teacher",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 30186
+      "UsersEstimate": 30188
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -32652,7 +32657,7 @@
       "Name": "State of constant learning",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 15093
+      "UsersEstimate": 15094
     },
     {
       "ID": "25_ShrineMind",
@@ -32668,7 +32673,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 15093
+      "UsersEstimate": 15094
     },
     {
       "ID": "27_ShrineBody",
@@ -32676,7 +32681,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 15093
+      "UsersEstimate": 15094
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -32700,7 +32705,7 @@
       "Name": "I know Kung-Fu",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 15093
+      "UsersEstimate": 15094
     },
     {
       "ID": "31_ComboHigh",
@@ -32716,7 +32721,7 @@
       "Name": "Old Child",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22640
+      "UsersEstimate": 22641
     },
     {
       "ID": "33_BladeOneShot",
@@ -32724,7 +32729,7 @@
       "Name": "Sword Stained With Blood",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3773
+      "UsersEstimate": 3774
     },
     {
       "ID": "34_TimedTakedown",
@@ -32732,7 +32737,7 @@
       "Name": "Lightning Hands",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30186
+      "UsersEstimate": 30188
     },
     {
       "ID": "35_WideStrike",
@@ -32748,7 +32753,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 15093
+      "UsersEstimate": 15094
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -32756,7 +32761,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 15093
+      "UsersEstimate": 15094
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -32812,7 +32817,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1279
+      "UsersEstimate": 1280
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -32947,21 +32952,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 63955,
+      "Progressed": 64002,
       "Completed": 10799
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 754654,
+      "Progressed": 754701,
       "Completed": 12974
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-05T15:03:01.2535369+00:00",
-  "LastChanged_Achievements": "2024-01-05T16:09:05.4982553+00:00",
+  "LastChanged_Achievements": "2024-01-05T17:09:21.0879848+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:26.4563062+00:00",
-  "LastUpdate_Ratings": "2024-01-05T16:03:02.5178662+00:00",
-  "LastUpdate_Achievements": "2024-01-05T16:09:05.4984052+00:00"
+  "LastUpdate_Ratings": "2024-01-05T17:03:14.2025531+00:00",
+  "LastUpdate_Achievements": "2024-01-05T17:09:21.0881373+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 419,
+  "Ranking_EOS_NewPlayers": 409,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 433,
+  "EOS_Progressed": 434,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -724,6 +724,11 @@
       "Time": "2024-01-04T09:09:14.7877037+00:00",
       "NumProgressed": 433,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-05T17:09:10.1220542+00:00",
+      "NumProgressed": 434,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -733,9 +738,9 @@
       "ID": "AIRTIME_6_SEC",
       "SetID": "20koof9",
       "Name": "Brace for impact!",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 126
     },
     {
       "ID": "ALL_ACHIEVEMENTS",
@@ -775,7 +780,7 @@
       "Name": "Baby\u0027s First Car",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "COLLECT_20_CARS",
@@ -999,7 +1004,7 @@
       "Name": "A Forest Walk",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "LOADED_LVL_SNOW",
@@ -1174,7 +1179,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 433,
+      "Progressed": 434,
       "Completed": 2
     }
   ],
@@ -1182,8 +1187,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2024-01-05T16:08:53.6973148+00:00",
+  "LastChanged_Achievements": "2024-01-05T17:09:10.1220535+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:00.1799692+00:00",
-  "LastUpdate_Ratings": "2024-01-05T15:59:44.5303691+00:00",
-  "LastUpdate_Achievements": "2024-01-05T16:08:53.6973854+00:00"
+  "LastUpdate_Ratings": "2024-01-05T16:59:38.3773081+00:00",
+  "LastUpdate_Achievements": "2024-01-05T17:09:10.1220972+00:00"
 }

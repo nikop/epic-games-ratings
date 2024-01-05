@@ -12,7 +12,7 @@ Number of Ratings: 116  (23.09.2022)
 | Increased Vigor | 58.00% | ~252 |
 | Fight Fire with Fire | 57.00% | ~248 |
 | Increased Capacity | 53.00% | ~231 |
-| Just the start | 47.00% | ~204 |
+| Just the start | 48.00% | ~209 |
 | Perfect Storm | 46.00% | ~200 |
 | All That Glitters | 45.00% | ~196 |
 | Enhance! | 41.00% | ~178 |
@@ -24,10 +24,10 @@ Number of Ratings: 116  (23.09.2022)
 | Salvation | 37.00% | ~161 |
 | Soul Harvester | 35.00% | ~152 |
 | Unshakable Fortitude | 34.00% | ~148 |
+| Delusions of Grandeur | 32.00% | ~139 |
 | I Wanna Rock | 31.00% | ~135 |
-| Delusions of Grandeur | 31.00% | ~135 |
+| Maximum Vigor | 30.00% | ~130 |
 | Love Tap | 30.00% | ~130 |
-| Maximum Vigor | 29.00% | ~126 |
 | Freeze Frame | 27.00% | ~117 |
 | Eat Your Heart Out | 27.00% | ~117 |
 | For Whom the Bell Tolls | 27.00% | ~117 |

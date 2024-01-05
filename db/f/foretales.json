@@ -4,7 +4,7 @@
   "ProductSlug": "foretales-d6c5bd",
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 458,
+  "Ranking_EOS_NewPlayers": 437,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-09-15T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 293,
+  "EOS_Progressed": 294,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -255,6 +255,11 @@
       "Time": "2024-01-04T15:05:28.0876641+00:00",
       "NumProgressed": 293,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T17:06:09.8114465+00:00",
+      "NumProgressed": 294,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 41,
@@ -306,7 +311,7 @@
       "Name": "Is this the end?",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "darkAndStinky",
@@ -424,9 +429,9 @@
       "ID": "objection",
       "SetID": "5bkacmp",
       "Name": "The pelican brief",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     },
     {
       "ID": "oneShotBlade",
@@ -450,7 +455,7 @@
       "Name": "Pacifist fanatic",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "sayHelloToMyLittleFriends",
@@ -466,7 +471,7 @@
       "Name": "Sneak in, sneak out",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "stronk",
@@ -528,17 +533,17 @@
       "ID": "theNovice",
       "SetID": "5bkacmp",
       "Name": "A gift horse",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 71
     },
     {
       "ID": "thePirate",
       "SetID": "5bkacmp",
       "Name": "Pieces of eight!",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 121
     },
     {
       "ID": "thePolitician",
@@ -562,7 +567,7 @@
       "Name": "Gorilla warfare",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "trialByCombat",
@@ -586,14 +591,14 @@
       "Name": "You sssaved me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     }
   ],
   "AchievementSets": [
     {
       "ID": "5bkacmp",
       "IsBase": true,
-      "Progressed": 293,
+      "Progressed": 294,
       "Completed": 0
     }
   ],
@@ -601,8 +606,8 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
   "LastChanged": "2023-03-31T05:57:28.024543+00:00",
-  "LastChanged_Achievements": "2024-01-05T16:06:13.0416032+00:00",
+  "LastChanged_Achievements": "2024-01-05T17:06:09.811446+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:47.02679+00:00",
-  "LastUpdate_Ratings": "2024-01-05T16:00:12.0577202+00:00",
-  "LastUpdate_Achievements": "2024-01-05T16:06:13.0416334+00:00"
+  "LastUpdate_Ratings": "2024-01-05T17:00:02.406275+00:00",
+  "LastUpdate_Achievements": "2024-01-05T17:06:09.8114721+00:00"
 }

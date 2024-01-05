@@ -1,20 +1,20 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.59 (Ranked 446)  
+Rating: 4.59 (Ranked 445)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~88,808 |
-| Alt+F4 | 10.00% | ~24,669 |
-| Where's that freaking Dwarf? | 9.00% | ~22,202 |
-| Déjà vu | 8.00% | ~19,735 |
-| Sock! SOCK! | 6.00% | ~14,801 |
-| Speedrun | 6.00% | ~14,801 |
-| A beer, two curses, three companions | 5.00% | ~12,334 |
-| GG EZ | 5.00% | ~12,334 |
-| DM intervention | 5.00% | ~12,334 |
+| Sowwy! | 36.00% | ~88,812 |
+| Alt+F4 | 10.00% | ~24,670 |
+| Where's that freaking Dwarf? | 9.00% | ~22,203 |
+| Déjà vu | 8.00% | ~19,736 |
+| Sock! SOCK! | 6.00% | ~14,802 |
+| Speedrun | 6.00% | ~14,802 |
+| A beer, two curses, three companions | 5.00% | ~12,335 |
+| GG EZ | 5.00% | ~12,335 |
+| DM intervention | 5.00% | ~12,335 |
 | The plot thickens... At the tavern | 4.00% | ~9,868 |
 | Fireproof Wizardess | 4.00% | ~9,868 |
 | Livin' in a dwarven paradise | 3.00% | ~7,401 |
@@ -51,7 +51,7 @@ Number of Ratings: 118  (23.09.2022)
 | An old poacher makes the best gamekeeper | 0.70% | ~1,727 |
 | Scholar of the Lands of Fangh | 0.60% | ~1,480 |
 | Law and Order | 0.60% | ~1,480 |
-| It's been a hard day's night | 0.50% | ~1,233 |
+| It's been a hard day's night | 0.50% | ~1,234 |
 | Friendly fire | 0.40% | ~987 |
 | I'd rather... Just... Sing! | 0.40% | ~987 |
 | Inception | 0.40% | ~987 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~247 |
 | Dwarf Candy | 0.10% | ~247 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246,690 (Ranked 71)  
+Progressed: 246,700 (Ranked 71)  
 Completed: 8 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 8 (0.00%) (Ranked 392)
 | 2024-01-02 | 246,255 | 8 |
 | 2024-01-03 | 246,417 | 8 |
 | 2024-01-04 | 246,586 | 8 |
-| 2024-01-05 | 246,690 | 8 |
+| 2024-01-05 | 246,700 | 8 |
 ## Awards
 Max (Character Customization): 264  (Ranked 275)  
 Sum: 555 (Ranked 329)  

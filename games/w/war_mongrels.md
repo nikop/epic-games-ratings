@@ -33,9 +33,9 @@ Number of Ratings: 34  (23.09.2022)
 | Atonement | 17.00% | ~129 |
 | Helping Hand | 17.00% | ~129 |
 | Food Massacre | 17.00% | ~129 |
+| Collectibles of Chapter III | 14.00% | ~107 |
 | Collectibles of Chapter IV | 14.00% | ~107 |
 | Without a Second Thought | 14.00% | ~107 |
-| Collectibles of Chapter III | 13.00% | ~99 |
 | Tiptoe Around | 11.00% | ~84 |
 | Collectibles of Chapter V | 10.00% | ~76 |
 | Such is War! | 8.00% | ~61 |

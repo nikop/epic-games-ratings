@@ -11,14 +11,14 @@ Number of Ratings: 7,767  (23.09.2022)
 | Autodidact | 7.00% | ~9,224 |
 | This Belongs in a Museum | 6.00% | ~7,906 |
 | Overdue Notice | 6.00% | ~7,906 |
-| This guy... again? | 6.00% | ~398 |
-| Serenity Now! | 5.00% | ~6,588 |
-| Creep and Sleep | 5.00% | ~6,588 |
-| Meat and Greet | 5.00% | ~6,588 |
-| Catch and Decease | 5.00% | ~6,588 |
-| Escape from the Black Hole | 5.00% | ~6,588 |
-| Rush Hour | 5.00% | ~6,588 |
-| To Grandmother's House | 5.00% | ~6,588 |
+| This guy... again? | 6.00% | ~399 |
+| Serenity Now! | 5.00% | ~6,589 |
+| Creep and Sleep | 5.00% | ~6,589 |
+| Meat and Greet | 5.00% | ~6,589 |
+| Catch and Decease | 5.00% | ~6,589 |
+| Escape from the Black Hole | 5.00% | ~6,589 |
+| Rush Hour | 5.00% | ~6,589 |
+| To Grandmother's House | 5.00% | ~6,589 |
 | Ploughshares to Swords | 5.00% | ~332 |
 | Bloody Graduation | 5.00% | ~332 |
 | Don't Make Me Turn This Coach Around | 4.00% | ~5,271 |
@@ -31,7 +31,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 4.00% | ~5,271 |
 | FNG | 4.00% | ~5,271 |
 | Nope | 4.00% | ~5,271 |
-| Friends 'Til the End | 4.00% | ~265 |
+| Friends 'Til the End | 4.00% | ~266 |
 | Resurrection | 3.00% | ~3,953 |
 | Unleash Hell | 3.00% | ~3,953 |
 | Funny Guy | 3.00% | ~3,953 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,767 (Ranked 91)  
+Progressed: 131,773 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,10 +336,10 @@ Completed: 3 (0.00%) (Ranked 392)
 | 2024-01-02 | 131,365 | 3 |
 | 2024-01-03 | 131,540 | 3 |
 | 2024-01-04 | 131,685 | 3 |
-| 2024-01-05 | 131,767 | 3 |
+| 2024-01-05 | 131,773 | 3 |
 ## Awards
 Max (Character Customization): 7,951  (Ranked 50)  
-Sum: 21,435 (Ranked 58)  
+Sum: 21,438 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -347,7 +347,7 @@ Diff (max vs sum): -8
 | This game has Diverse Characters | 1,816 |
 | This game has Challenging Combat | 1,666 |
 | This game is Highly Recommended | 1,594 |
-| This game has Amazing Characters | 1,517 |
+| This game has Amazing Characters | 1,520 |
 | This game is Extremely Fun | 1,514 |
 | This game has Unique Visuals | 1,456 |
 | This game has Amazing Storytelling | 1,437 |
@@ -700,4 +700,4 @@ Diff (max vs sum): -8
 | 2024-01-02 | 4.68 | - | 7,927 | 21,353 |
 | 2024-01-03 | 4.68 | - | 7,940 | 21,388 |
 | 2024-01-04 | 4.68 | - | 7,951 | 21,421 |
-| 2024-01-05 | 4.68 | - | 7,951 | 21,435 |
+| 2024-01-05 | 4.68 | - | 7,951 | 21,438 |

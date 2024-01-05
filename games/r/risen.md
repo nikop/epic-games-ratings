@@ -45,7 +45,7 @@ Rating: 4.55 (Ranked 523)
 | Expert | 6.00% | ~10 |
 | Moneybags | 6.00% | ~10 |
 | The traveler | 5.00% | ~8 |
-| King Midas | 4.00% | ~7 |
+| King Midas | 5.00% | ~8 |
 | Rune master | 3.00% | ~5 |
 | Big game hunter | 2.00% | ~3 |
 | Mage | 2.00% | ~3 |

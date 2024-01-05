@@ -547,9 +547,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4498,
+  "EOS_Progressed": 4499,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -7752,6 +7752,11 @@
       "Time": "2024-01-05T16:03:35.2428411+00:00",
       "NumProgressed": 4498,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-05T17:03:44.7993014+00:00",
+      "NumProgressed": 4499,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -7803,7 +7808,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1844
+      "UsersEstimate": 1845
     },
     {
       "ID": "CrowdPleaser",
@@ -7827,7 +7832,7 @@
       "Name": "Eureka",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1349
+      "UsersEstimate": 1350
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -7889,9 +7894,9 @@
       "ID": "LetEmEatMagma",
       "SetID": "c4hee28",
       "Name": "Let \u2018em eat magma!",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 315
     },
     {
       "ID": "LightofLevant_18",
@@ -7947,7 +7952,7 @@
       "Name": "Ready for Summer",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 2159
+      "UsersEstimate": 2160
     },
     {
       "ID": "ReadyforWinter_42",
@@ -7987,7 +7992,7 @@
       "Name": "Tapped!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1574
+      "UsersEstimate": 1575
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -8098,15 +8103,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4498,
+      "Progressed": 4499,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2024-01-03T19:03:38.0112146+00:00",
-  "LastChanged_Achievements": "2024-01-05T16:03:35.2428406+00:00",
+  "LastChanged_Achievements": "2024-01-05T17:03:44.7993008+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:23.571083+00:00",
-  "LastUpdate_Ratings": "2024-01-05T16:02:59.5820191+00:00",
-  "LastUpdate_Achievements": "2024-01-05T16:03:35.2428918+00:00"
+  "LastUpdate_Ratings": "2024-01-05T17:03:11.5844803+00:00",
+  "LastUpdate_Achievements": "2024-01-05T17:03:44.7993807+00:00"
 }

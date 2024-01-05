@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 238741,
+  "EOS_Progressed": 238745,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 548,
+  "EOS_NewPlayers": 547,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -27663,6 +27663,11 @@
       "Time": "2024-01-05T16:04:35.7740651+00:00",
       "NumProgressed": 238741,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2024-01-05T17:04:40.888181+00:00",
+      "NumProgressed": 238745,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -27690,7 +27695,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 66847
+      "UsersEstimate": 66849
     },
     {
       "ID": "CENTAUR",
@@ -27698,7 +27703,7 @@
       "Name": "CENTAUR",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 19099
+      "UsersEstimate": 19100
     },
     {
       "ID": "CHALLENGER",
@@ -27738,7 +27743,7 @@
       "Name": "FASTER THAN EVER",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 19099
+      "UsersEstimate": 19100
     },
     {
       "ID": "FLAWLESS",
@@ -27762,7 +27767,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 47748
+      "UsersEstimate": 47749
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -27810,7 +27815,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 78785
+      "UsersEstimate": 78786
     },
     {
       "ID": "NOBUNAGA",
@@ -27898,7 +27903,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 52523
+      "UsersEstimate": 52524
     },
     {
       "ID": "TACTICIAN",
@@ -27922,7 +27927,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 52523
+      "UsersEstimate": 52524
     },
     {
       "ID": "TUNINGMANIAC",
@@ -27938,22 +27943,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 97884
+      "UsersEstimate": 97885
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 238741,
+      "Progressed": 238745,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-12-24T20:57:53.5122809+00:00",
-  "LastChanged_Achievements": "2024-01-05T16:04:35.7740646+00:00",
+  "LastChanged_Achievements": "2024-01-05T17:04:40.8881807+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:41.2856312+00:00",
-  "LastUpdate_Ratings": "2024-01-05T15:59:47.7304056+00:00",
-  "LastUpdate_Achievements": "2024-01-05T16:04:35.7742181+00:00"
+  "LastUpdate_Ratings": "2024-01-05T16:59:41.1703713+00:00",
+  "LastUpdate_Achievements": "2024-01-05T17:04:40.8883612+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "steamworld-build-71ee6c",
   "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 245,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1102,9 +1102,9 @@
       "ID": "ItsYoursMyFriend",
       "SetID": "4bd750m",
       "Name": "It\u0027s Yours, My Friend",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 181
     },
     {
       "ID": "ManicMechanic",
@@ -1245,8 +1245,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2024-01-05T16:04:56.7568163+00:00",
+  "LastChanged_Achievements": "2024-01-05T17:05:00.2501045+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:32.9245287+00:00",
-  "LastUpdate_Ratings": "2024-01-05T16:03:12.824933+00:00",
-  "LastUpdate_Achievements": "2024-01-05T16:04:56.7568436+00:00"
+  "LastUpdate_Ratings": "2024-01-05T17:03:24.0106756+00:00",
+  "LastUpdate_Achievements": "2024-01-05T17:05:00.2501273+00:00"
 }

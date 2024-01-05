@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 185,
   "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
     "PcReleaseDate": "2018-03-07T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 454,
+  "EOS_Progressed": 456,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.88,
   "EosHistory": [
@@ -1509,6 +1509,11 @@
       "Time": "2024-01-05T16:04:49.3901028+00:00",
       "NumProgressed": 454,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-05T17:04:53.4341703+00:00",
+      "NumProgressed": 456,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -1521,15 +1526,15 @@
       "Name": "Good Morning",
       "Percentage": 17,
       "XP": 145,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ach2",
       "SetID": "796kfpa",
       "Name": "Blabber",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 145,
-      "UsersEstimate": 222
+      "UsersEstimate": 219
     },
     {
       "ID": "ach3",
@@ -1576,14 +1581,14 @@
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 454,
+      "Progressed": 456,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2024-01-05T16:04:49.3901022+00:00",
+  "LastChanged_Achievements": "2024-01-05T17:04:53.4341699+00:00",
   "LastUpdate_AppInfo": "2024-01-03T20:57:14.741569+00:00",
-  "LastUpdate_Ratings": "2024-01-05T16:00:13.7870095+00:00",
-  "LastUpdate_Achievements": "2024-01-05T16:04:49.3901165+00:00"
+  "LastUpdate_Ratings": "2024-01-05T17:00:03.8717655+00:00",
+  "LastUpdate_Achievements": "2024-01-05T17:04:53.4341861+00:00"
 }

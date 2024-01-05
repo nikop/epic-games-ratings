@@ -6,8 +6,8 @@
   "Ranking_Popularity": 580,
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 184,
-  "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_Completed": 370,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -247,7 +247,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8874,
+  "EOS_Progressed": 8876,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
@@ -9727,6 +9727,11 @@
       "Time": "2024-01-05T15:10:02.6440494+00:00",
       "NumProgressed": 8874,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-05T17:10:12.8689526+00:00",
+      "NumProgressed": 8876,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -9755,7 +9760,7 @@
       "Name": "Calm Sailing",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -9763,7 +9768,7 @@
       "Name": "Open the Gate!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -9835,7 +9840,7 @@
       "Name": "Miner 49er",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -9843,7 +9848,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -9875,7 +9880,7 @@
       "Name": "Humble Collector",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -9899,7 +9904,7 @@
       "Name": "Mist Walker",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -9915,7 +9920,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -9947,7 +9952,7 @@
       "Name": "Chatty Neighbor",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "PREPARE_MEALS_1",
@@ -9987,7 +9992,7 @@
       "Name": "Right Tool For the Job",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "UPGRADE_COZYMAX",
@@ -10003,7 +10008,7 @@
       "Name": "House Proud",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "UPGRADE_ONESKILLMAX",
@@ -10082,13 +10087,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8874,
+      "Progressed": 8876,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1491,
+      "Progressed": 1493,
       "Completed": 1050
     }
   ],
@@ -10096,8 +10101,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2024-01-04T01:49:56.9201089+00:00",
-  "LastChanged_Achievements": "2024-01-05T16:10:01.4270516+00:00",
+  "LastChanged_Achievements": "2024-01-05T17:10:12.8689523+00:00",
   "LastUpdate_AppInfo": "2024-01-05T13:01:18.6366016+00:00",
-  "LastUpdate_Ratings": "2024-01-05T16:03:17.5149347+00:00",
-  "LastUpdate_Achievements": "2024-01-05T16:10:01.4271198+00:00"
+  "LastUpdate_Ratings": "2024-01-05T17:03:27.8620307+00:00",
+  "LastUpdate_Achievements": "2024-01-05T17:10:12.8690357+00:00"
 }

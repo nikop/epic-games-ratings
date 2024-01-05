@@ -4,7 +4,7 @@
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 426,
   "Ranking_EOS_Completed": 72,
-  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 191,
+  "EOS_Progressed": 192,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.24,
+  "EOS_Completed_Percentage": 5.21,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -964,6 +964,11 @@
       "Time": "2024-01-05T16:06:08.421337+00:00",
       "NumProgressed": 191,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-05T17:06:05.748751+00:00",
+      "NumProgressed": 192,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -1022,17 +1027,17 @@
       "ID": "Jing",
       "SetID": "ag48e8e",
       "Name": "Jing Jang",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 67
     },
     {
       "ID": "Kamzik",
       "SetID": "ag48e8e",
       "Name": "Chamois",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 94
+      "UsersEstimate": 96
     },
     {
       "ID": "Kour",
@@ -1062,9 +1067,9 @@
       "ID": "Kvitky",
       "SetID": "ag48e8e",
       "Name": "Blossoms",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 80
+      "UsersEstimate": 83
     },
     {
       "ID": "MluviciPapouch",
@@ -1078,17 +1083,17 @@
       "ID": "Myska",
       "SetID": "ag48e8e",
       "Name": "Singing Mouse",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     },
     {
       "ID": "Netopyrci",
       "SetID": "ag48e8e",
       "Name": "Cave Bats",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     },
     {
       "ID": "Netopyrek",
@@ -1144,7 +1149,7 @@
       "Name": "Sleeping Parrot",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Sputnik2",
@@ -1182,17 +1187,17 @@
       "ID": "Truhlice",
       "SetID": "ag48e8e",
       "Name": "Shem Is Home",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     },
     {
       "ID": "Xicht",
       "SetID": "ag48e8e",
       "Name": "Rockheads",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "Zelvak",
@@ -1208,21 +1213,21 @@
       "Name": "Dancing Fungus",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     }
   ],
   "AchievementSets": [
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 191,
+      "Progressed": 192,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2024-01-05T16:06:08.4213365+00:00",
+  "LastChanged_Achievements": "2024-01-05T17:06:05.7487507+00:00",
   "LastUpdate_AppInfo": "2023-12-30T07:56:58.817379+00:00",
-  "LastUpdate_Ratings": "2024-01-05T16:02:57.9848394+00:00",
-  "LastUpdate_Achievements": "2024-01-05T16:06:08.4213598+00:00"
+  "LastUpdate_Ratings": "2024-01-05T17:03:10.1586408+00:00",
+  "LastUpdate_Achievements": "2024-01-05T17:06:05.7487786+00:00"
 }

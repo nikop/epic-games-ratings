@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 639,
+  "EOS_Progressed": 640,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
@@ -2079,6 +2079,11 @@
       "Time": "2024-01-05T16:05:06.3843558+00:00",
       "NumProgressed": 639,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T17:05:08.8733541+00:00",
+      "NumProgressed": 640,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -2131,7 +2136,7 @@
       "Name": "Baby\u0027s On Fire",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "9",
@@ -2145,25 +2150,25 @@
       "ID": "REMAKE_001",
       "SetID": "5pi96jj",
       "Name": "Turn a Rat into a Snack",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 205
     },
     {
       "ID": "REMAKE_002",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s First...",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 466
+      "UsersEstimate": 474
     },
     {
       "ID": "REMAKE_004",
       "SetID": "5pi96jj",
       "Name": "I\u0027m Your Daddy",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 383
+      "UsersEstimate": 390
     },
     {
       "ID": "Remake_005",
@@ -2314,14 +2319,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 639,
+      "Progressed": 640,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-05T16:05:06.3843553+00:00",
+  "LastChanged_Achievements": "2024-01-05T17:05:08.8733537+00:00",
   "LastUpdate_AppInfo": "2024-01-02T02:20:04.0332654+00:00",
-  "LastUpdate_Ratings": "2024-01-05T15:59:11.9256289+00:00",
-  "LastUpdate_Achievements": "2024-01-05T16:05:06.384384+00:00"
+  "LastUpdate_Ratings": "2024-01-05T16:59:10.6267128+00:00",
+  "LastUpdate_Achievements": "2024-01-05T17:05:08.8733752+00:00"
 }

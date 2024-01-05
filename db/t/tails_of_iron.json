@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewPlayers": 340,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -266,9 +266,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2311,
+  "EOS_Progressed": 2312,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -4306,6 +4306,11 @@
       "Time": "2024-01-05T11:08:16.8681635+00:00",
       "NumProgressed": 2311,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-05T17:08:27.5646856+00:00",
+      "NumProgressed": 2312,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 36,
@@ -4459,9 +4464,9 @@
       "ID": "GetRangedWeapon",
       "SetID": "9lj35g4",
       "Name": "Ranged Weapon",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 46
     },
     {
       "ID": "GetTHWeapon",
@@ -4483,9 +4488,9 @@
       "ID": "Kill25Frogs",
       "SetID": "9lj35g4",
       "Name": "Defeat 25 Frogs",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 46
     },
     {
       "ID": "Kill25Mozi",
@@ -4563,9 +4568,9 @@
       "ID": "DefeatGrubBuster",
       "SetID": "cbf1i0c",
       "Name": "Defeat the Grub Buster",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "DefeatStalkerQueen",
@@ -4604,13 +4609,13 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2311,
+      "Progressed": 2312,
       "Completed": 12
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 952,
+      "Progressed": 953,
       "Completed": 913
     }
   ],
@@ -4618,8 +4623,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-12-23T19:58:55.6551134+00:00",
-  "LastChanged_Achievements": "2024-01-05T16:08:06.6777215+00:00",
+  "LastChanged_Achievements": "2024-01-05T17:08:27.5646851+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:25.3230554+00:00",
-  "LastUpdate_Ratings": "2024-01-05T15:56:57.6865431+00:00",
-  "LastUpdate_Achievements": "2024-01-05T16:08:06.6777961+00:00"
+  "LastUpdate_Ratings": "2024-01-05T16:57:12.7197763+00:00",
+  "LastUpdate_Achievements": "2024-01-05T17:08:27.5647298+00:00"
 }
