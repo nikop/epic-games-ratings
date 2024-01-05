@@ -6,29 +6,29 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 73.00% | ~3,289 |
-| Ready for Winter | 61.00% | ~2,748 |
-| Ready for Summer | 48.00% | ~2,162 |
-| Cordon Bleu | 41.00% | ~1,847 |
-| Tapped! | 35.00% | ~1,577 |
+| Venture Outward | 72.00% | ~3,246 |
+| Ready for Winter | 61.00% | ~2,750 |
+| Ready for Summer | 48.00% | ~2,164 |
+| Cordon Bleu | 41.00% | ~1,848 |
+| Tapped! | 35.00% | ~1,578 |
 | Eureka | 30.00% | ~1,352 |
-| Scourge Slayer | 24.00% | ~1,081 |
-| Science, Troglodyte! | 22.00% | ~991 |
-| Exceptional Skill | 21.00% | ~946 |
-| Home Sweet Home | 20.00% | ~901 |
+| Scourge Slayer | 24.00% | ~1,082 |
+| Science, Troglodyte! | 22.00% | ~992 |
+| Exceptional Skill | 21.00% | ~947 |
+| Home Sweet Home | 20.00% | ~902 |
 | Encyclopedic! | 18.00% | ~811 |
 | A Fortress Toppled! | 15.00% | ~676 |
 | The Power of Family | 15.00% | ~676 |
 | Apex Predator | 14.00% | ~631 |
 | The Power of Faith | 12.00% | ~541 |
 | Strange amalgams | 11.00% | ~496 |
-| The Power of Freedom | 9.00% | ~405 |
-| Ace Detective | 7.00% | ~315 |
-| Gift from the Ancestors | 7.00% | ~315 |
-| House of Cards | 7.00% | ~315 |
-| Let ‘em eat magma! | 7.00% | ~315 |
-| Magic is a science | 7.00% | ~315 |
+| The Power of Freedom | 9.00% | ~406 |
+| Ace Detective | 7.00% | ~316 |
+| Gift from the Ancestors | 7.00% | ~316 |
+| Magic is a science | 7.00% | ~316 |
 | Hold my Mead and Watch This | 6.00% | ~270 |
+| House of Cards | 6.00% | ~270 |
+| Let ‘em eat magma! | 6.00% | ~270 |
 | The power of ambition | 6.00% | ~270 |
 | The stuff of legends. | 6.00% | ~270 |
 | Blood and justice | 5.00% | ~225 |
@@ -49,8 +49,8 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~14 |
 | The Absolute Pinnacle. | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,505 (Ranked 205)  
-Completed: 5 (0.11%) (Ranked 303)  
+Progressed: 4,508 (Ranked 205)  
+Completed: 5 (0.11%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -295,7 +295,7 @@ Completed: 5 (0.11%) (Ranked 303)
 | 2024-01-02 | 4,428 | 5 |
 | 2024-01-03 | 4,452 | 5 |
 | 2024-01-04 | 4,478 | 5 |
-| 2024-01-05 | 4,505 | 5 |
+| 2024-01-05 | 4,508 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 500)  
 Sum: 246 (Ranked 400)  

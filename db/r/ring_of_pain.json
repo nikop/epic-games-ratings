@@ -2,11 +2,11 @@
   "ID": "b9c7474c6bdf4e9ab8ca5a5da60059d4",
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
-  "Ranking_Rating": 471,
+  "Ranking_Rating": 470,
   "Ranking_Popularity": 137,
   "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 72,
-  "Ranking_EOS_Completed": 295,
+  "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
@@ -3874,9 +3874,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242416,
+  "EOS_Progressed": 242420,
   "EOS_Completed": 304,
-  "EOS_NewPlayers": 441,
+  "EOS_NewPlayers": 440,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -30809,6 +30809,11 @@
       "Time": "2024-01-05T20:10:10.1451767+00:00",
       "NumProgressed": 242416,
       "NumCompleted": 304
+    },
+    {
+      "Time": "2024-01-05T21:11:08.1231308+00:00",
+      "NumProgressed": 242420,
+      "NumCompleted": 304
     }
   ],
   "TotalAchievements": 138,
@@ -30868,7 +30873,7 @@
       "Name": "Consecutive Curses",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1454
+      "UsersEstimate": 1455
     },
     {
       "ID": "DAILY7",
@@ -31076,7 +31081,7 @@
       "Name": "Just Chilling",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1454
+      "UsersEstimate": 1455
     },
     {
       "ID": "FREEZE20TIMES",
@@ -31196,7 +31201,7 @@
       "Name": "Save Our Souls",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1454
+      "UsersEstimate": 1455
     },
     {
       "ID": "HUGESOULSPILL",
@@ -31508,7 +31513,7 @@
       "Name": "Acid Bath",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1454
+      "UsersEstimate": 1455
     },
     {
       "ID": "POISONSELF20",
@@ -31548,7 +31553,7 @@
       "Name": "New Perspectives",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1454
+      "UsersEstimate": 1455
     },
     {
       "ID": "SNAKESTEALTH",
@@ -31620,7 +31625,7 @@
       "Name": "Shapeshifting",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1454
+      "UsersEstimate": 1455
     },
     {
       "ID": "TRANSFORMFIREBEAD",
@@ -31923,13 +31928,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242416,
+      "Progressed": 242420,
       "Completed": 304
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 3896,
+      "Progressed": 3900,
       "Completed": 421
     }
   ],
@@ -31937,8 +31942,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-04T22:00:17.6708288+00:00",
-  "LastChanged_Achievements": "2024-01-05T20:10:10.1451764+00:00",
+  "LastChanged_Achievements": "2024-01-05T21:11:08.1231306+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:01.848225+00:00",
-  "LastUpdate_Ratings": "2024-01-05T19:59:32.8415209+00:00",
-  "LastUpdate_Achievements": "2024-01-05T20:10:10.1454436+00:00"
+  "LastUpdate_Ratings": "2024-01-05T21:00:22.6902677+00:00",
+  "LastUpdate_Achievements": "2024-01-05T21:11:08.1233984+00:00"
 }

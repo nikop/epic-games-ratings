@@ -2,10 +2,10 @@
   "ID": "7f849b4158ca4264a43f71d4306a4199",
   "Name": "Choo-Choo Charles",
   "ProductSlug": "choochoo-charles-0eece5",
-  "Ranking_EOS_Progress": 820,
+  "Ranking_EOS_Progress": 821,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 568,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-08-17T08:00:00+00:00",
     "PcReleaseDate": "2022-12-09T15:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-20T16:57:08.4189955+00:00",
   "LastUpdate_AppInfo": "2024-01-05T13:01:16.7627257+00:00",
-  "LastUpdate_Ratings": "2024-01-05T19:59:25.010464+00:00",
-  "LastUpdate_Achievements": "2024-01-05T20:09:11.5555861+00:00"
+  "LastUpdate_Ratings": "2024-01-05T21:00:12.9634035+00:00",
+  "LastUpdate_Achievements": "2024-01-05T21:09:58.71164+00:00"
 }

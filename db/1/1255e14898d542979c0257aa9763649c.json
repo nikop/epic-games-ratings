@@ -2,10 +2,10 @@
   "ID": "1255e14898d542979c0257aa9763649c",
   "Name": "Starvin Martian",
   "ProductSlug": "starvin-martian-fc5ae1",
-  "Ranking_EOS_Progress": 820,
+  "Ranking_EOS_Progress": 821,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 568,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-04T08:57:14.0333679+00:00",
-  "LastUpdate_Ratings": "2024-01-05T19:59:56.4251671+00:00",
-  "LastUpdate_Achievements": "2024-01-05T20:06:23.3630364+00:00"
+  "LastUpdate_Ratings": "2024-01-05T21:00:52.8081042+00:00",
+  "LastUpdate_Achievements": "2024-01-05T21:08:13.7939723+00:00"
 }

@@ -10,13 +10,13 @@
 | Police officers ✔ | 29.00% | ~93 |
 | Mutation ✔ | 26.00% | ~83 |
 | Doberman ✔ | 15.00% | ~48 |
-| Weapon ✔ | 12.00% | ~38 |
+| Weapon ✔ | 12.00% | ~39 |
 | Chess ✔ | 10.00% | ~32 |
 | Master of Unlocking ✔ | 9.00% | ~29 |
 | Survival ✔ | 8.00% | ~26 |
-| Hospital ✔ | 8.00% | ~26 |
 | Thirst ✔ | 8.00% | ~26 |
 | City ✔ | 7.00% | ~22 |
+| Hospital ✔ | 7.00% | ~22 |
 | Fraternal help ✔ | 7.00% | ~22 |
 | Alice ✔ | 6.00% | ~19 |
 | Antivirus ✔ | 6.00% | ~19 |
@@ -36,17 +36,17 @@
 | Infected ✔ | 4.00% | ~13 |
 | Priest ✔ | 4.00% | ~13 |
 | Broadcasting ✔ | 4.00% | ~13 |
-| Car ✔ | 3.00% | ~10 |
 | Crocodile Attack ✔ | 3.00% | ~10 |
 | Secret ✔ | 3.00% | ~10 |
-| Boss 2 ✔ | 3.00% | ~10 |
 | Osipov's video message ✔ | 3.00% | ~10 |
 | Rank B+ ✔ | 3.00% | ~10 |
 | Rank A ✔ | 3.00% | ~10 |
 | Boss 3 ✔ | 3.00% | ~10 |
+| Car ✔ | 2.00% | ~6 |
 | Seeker One ✔ | 2.00% | ~6 |
 | Seeker Three ✔ | 2.00% | ~6 |
 | Crocodile Escape ✔ | 2.00% | ~6 |
+| Boss 2 ✔ | 2.00% | ~6 |
 | The escape ✔ | 2.00% | ~6 |
 | VIP ✔ | 2.00% | ~6 |
 | Exterminate pests ✔ | 1.00% | ~3 |
@@ -55,7 +55,7 @@
 | Seeker Two ✔ | 0.30% | ~1 |
 | Rank A+ ✔ | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 320 (Ranked 385)  
+Progressed: 321 (Ranked 385)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-02 | 312 | 0 |
 | 2024-01-03 | 317 | 0 |
 | 2024-01-04 | 318 | 0 |
-| 2024-01-05 | 320 | 0 |
+| 2024-01-05 | 321 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

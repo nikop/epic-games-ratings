@@ -16,8 +16,8 @@
 | Bathroom Brawler | 19.00% | ~19 |
 | Codebreaker | 19.00% | ~19 |
 | Set Sail | 19.00% | ~19 |
+| Flying High | 18.00% | ~18 |
 | Backstory Buff | 17.00% | ~17 |
-| Flying High | 17.00% | ~17 |
 | Freedum Fighter | 5.00% | ~5 |
 | Key Keeper's Curse | 5.00% | ~5 |
 | Fool's Gold | 4.00% | ~4 |

@@ -6,59 +6,59 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 67.00% | ~89,830 |
-| Let There Be Light | 55.00% | ~73,741 |
-| Float Like a Butterfly | 53.00% | ~71,060 |
-| Nordic Walking | 43.00% | ~57,652 |
-| Bright Falls' Finest | 42.00% | ~56,312 |
-| Under a Thin Layer of Skin | 38.00% | ~50,948 |
-| Paging Mr. Wake | 32.00% | ~42,904 |
-| Park Ranger | 31.00% | ~41,563 |
-| Back! Back, I Say! | 30.00% | ~40,222 |
-| Finders Keepers | 29.00% | ~38,882 |
-| Sound and Fury | 27.00% | ~36,200 |
-| Missed by a Mile | 27.00% | ~36,200 |
-| Damn Good Cup of Coffee | 27.00% | ~36,200 |
-| They're Heeeeeere! | 26.00% | ~34,860 |
-| Wheels Within Wheels | 25.00% | ~33,519 |
-| The Six-Gun Scribe | 25.00% | ~33,519 |
-| Iron Horse | 23.00% | ~30,837 |
-| Collateral Carnage | 23.00% | ~30,837 |
-| Come One, Come All | 23.00% | ~30,837 |
-| Heavy Metal | 22.00% | ~29,496 |
-| Perchance to Dream | 22.00% | ~29,496 |
-| It's Not Just a Typewriter Brand | 21.00% | ~28,156 |
-| Thunder and Lightning | 21.00% | ~28,156 |
-| Two For the Price of One | 20.00% | ~26,815 |
-| Gatekeeper | 19.00% | ~25,474 |
-| Energized! | 19.00% | ~25,474 |
-| The Lady of the Light | 18.00% | ~24,134 |
-| Right of Way | 16.00% | ~21,452 |
-| What Light Through Yonder Window | 15.00% | ~20,111 |
-| Tornado Wrangler | 14.00% | ~18,770 |
-| Departure | 13.00% | ~17,430 |
-| Hardboiled Writer | 10.00% | ~13,408 |
-| Children of the Elder God | 9.00% | ~12,067 |
-| Drink 'Em Both Up | 9.00% | ~12,067 |
-| A Friend in Need | 9.00% | ~8,779 |
-| Boob Tube | 8.00% | ~10,726 |
-| KBF-FM | 8.00% | ~10,726 |
-| If It Flies, It Burns | 7.00% | ~9,385 |
-| A Friend Indeed | 7.00% | ~6,828 |
-| Ding! | 6.00% | ~5,853 |
-| Medical Opinions | 4.00% | ~5,363 |
-| Carny | 4.00% | ~5,363 |
-| An Idyllic Small Town | 4.00% | ~5,363 |
-| Kill Your Darlings | 4.00% | ~3,902 |
-| Heartbreaker | 4.00% | ~3,902 |
-| Taken Season | 3.00% | ~4,022 |
-| Couch Potato | 2.00% | ~2,682 |
-| Iron Will | 2.00% | ~1,951 |
-| Go Gentle Into That Good Light | 1.00% | ~975 |
+| Follow the Light | 67.00% | ~89,879 |
+| Let There Be Light | 55.00% | ~73,781 |
+| Float Like a Butterfly | 53.00% | ~71,098 |
+| Nordic Walking | 43.00% | ~57,684 |
+| Bright Falls' Finest | 42.00% | ~56,342 |
+| Under a Thin Layer of Skin | 38.00% | ~50,976 |
+| Paging Mr. Wake | 32.00% | ~42,927 |
+| Park Ranger | 31.00% | ~41,586 |
+| Back! Back, I Say! | 30.00% | ~40,244 |
+| Finders Keepers | 29.00% | ~38,903 |
+| Sound and Fury | 27.00% | ~36,220 |
+| Missed by a Mile | 27.00% | ~36,220 |
+| Damn Good Cup of Coffee | 27.00% | ~36,220 |
+| They're Heeeeeere! | 26.00% | ~34,878 |
+| Wheels Within Wheels | 25.00% | ~33,537 |
+| The Six-Gun Scribe | 25.00% | ~33,537 |
+| Iron Horse | 23.00% | ~30,854 |
+| Collateral Carnage | 23.00% | ~30,854 |
+| Come One, Come All | 23.00% | ~30,854 |
+| Heavy Metal | 22.00% | ~29,513 |
+| Perchance to Dream | 22.00% | ~29,513 |
+| It's Not Just a Typewriter Brand | 21.00% | ~28,171 |
+| Thunder and Lightning | 21.00% | ~28,171 |
+| Two For the Price of One | 20.00% | ~26,830 |
+| Gatekeeper | 19.00% | ~25,488 |
+| Energized! | 19.00% | ~25,488 |
+| The Lady of the Light | 18.00% | ~24,147 |
+| Right of Way | 16.00% | ~21,464 |
+| What Light Through Yonder Window | 15.00% | ~20,122 |
+| Tornado Wrangler | 14.00% | ~18,781 |
+| Departure | 13.00% | ~17,439 |
+| Hardboiled Writer | 10.00% | ~13,415 |
+| Children of the Elder God | 9.00% | ~12,073 |
+| Drink 'Em Both Up | 9.00% | ~12,073 |
+| A Friend in Need | 9.00% | ~8,785 |
+| Boob Tube | 8.00% | ~10,732 |
+| KBF-FM | 8.00% | ~10,732 |
+| If It Flies, It Burns | 7.00% | ~9,390 |
+| A Friend Indeed | 7.00% | ~6,833 |
+| Ding! | 6.00% | ~5,857 |
+| Medical Opinions | 4.00% | ~5,366 |
+| Carny | 4.00% | ~5,366 |
+| An Idyllic Small Town | 4.00% | ~5,366 |
+| Kill Your Darlings | 4.00% | ~3,905 |
+| Heartbreaker | 4.00% | ~3,905 |
+| Taken Season | 3.00% | ~4,024 |
+| Couch Potato | 2.00% | ~2,683 |
+| Iron Will | 2.00% | ~1,952 |
+| Go Gentle Into That Good Light | 1.00% | ~976 |
 | Words Will Never Harm You | 0.70% | ~683 |
-| Meet the Deadline | 0.60% | ~804 |
-| Alan, Wake Up | 0.50% | ~670 |
-| Picking Up After Yourself | 0.50% | ~670 |
+| Meet the Deadline | 0.60% | ~805 |
+| Alan, Wake Up | 0.50% | ~671 |
+| Picking Up After Yourself | 0.50% | ~671 |
 | Fast and Furious | 0.50% | ~488 |
 | Cardboard Companions | 0.50% | ~488 |
 | Whirlwind | 0.50% | ~488 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Licensed Properties | 0.20% | ~195 |
 | No Punctuation | 0.10% | ~98 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,075 (Ranked 90)  
+Progressed: 134,148 (Ranked 90)  
 Completed: 131 (0.10%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,7 +334,7 @@ Completed: 131 (0.10%) (Ranked 307)
 | 2024-01-02 | 130,713 | 128 |
 | 2024-01-03 | 131,880 | 128 |
 | 2024-01-04 | 133,043 | 129 |
-| 2024-01-05 | 134,075 | 131 |
+| 2024-01-05 | 134,148 | 131 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

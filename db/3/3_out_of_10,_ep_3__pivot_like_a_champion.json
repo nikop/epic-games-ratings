@@ -2,10 +2,10 @@
   "ID": "f4bbbc20a6b74295ac82b7c258739bff",
   "Name": "3 out of 10, EP 3: Pivot Like A Champion",
   "ProductSlug": "3-out-of-10-ep3",
-  "Ranking_EOS_Progress": 820,
+  "Ranking_EOS_Progress": 821,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 568,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2020-08-20T15:00:00+00:00",
     "PcReleaseDate": "2020-08-20T15:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:47.5049458+00:00",
   "LastChanged": "2023-03-31T05:57:47.5049459+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:49.3887576+00:00",
-  "LastUpdate_Ratings": "2024-01-05T19:58:18.8988297+00:00",
-  "LastUpdate_Achievements": "2024-01-05T20:09:30.7180402+00:00"
+  "LastUpdate_Ratings": "2024-01-05T20:58:49.9472494+00:00",
+  "LastUpdate_Achievements": "2024-01-05T21:10:21.7659158+00:00"
 }

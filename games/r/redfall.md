@@ -1,7 +1,7 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.64 (Ranked 1,090)  
+Rating: 3.66 (Ranked 1,089)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -11,11 +11,11 @@ Rating: 3.64 (Ranked 1,090)
 | Wounded Whispers | 13.00% | ~294 |
 | ICU | 12.00% | ~271 |
 | Blood Will Have Blood | 11.00% | ~249 |
-| Ne Plus Ultra | 10.00% | ~226 |
+| Ne Plus Ultra | 11.00% | ~249 |
 | Fly Fisher | 10.00% | ~226 |
 | Peek-a-boo | 10.00% | ~226 |
+| Sucks To Be You | 10.00% | ~226 |
 | Throw The First Stone | 9.00% | ~203 |
-| Sucks To Be You | 9.00% | ~203 |
 | Enter of Your Own Free Will | 8.00% | ~181 |
 | Welcome to the Neighborhood | 8.00% | ~181 |
 | Heart Attack | 8.00% | ~181 |
@@ -268,3 +268,4 @@ Diff (max vs sum): -3
 | 2023-12-31 | 3.61 | 20 | 20 |
 | 2024-01-01 | 3.64 | 20 | 20 |
 | 2024-01-04 | 3.64 | 22 | 22 |
+| 2024-01-05 | 3.66 | 22 | 22 |

@@ -4,8 +4,8 @@
   "ProductSlug": "brok-the-investigator-fb0513",
   "Ranking_EOS_Progress": 570,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 425,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 427,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-04-07T14:00:00+00:00",
     "PcReleaseDate": "2022-08-26T19:00:00+00:00",
@@ -399,9 +399,9 @@
       "ID": "SWIM",
       "SetID": "bb2dp",
       "Name": "It\u0027s In My Nature",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "TABLES",
@@ -456,8 +456,8 @@
   "FirstSeenRating": "2023-04-09T06:58:32.3271567+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.8723244+00:00",
   "LastChanged": "2023-04-09T06:58:32.3271567+00:00",
-  "LastChanged_Achievements": "2024-01-05T20:03:59.0436931+00:00",
+  "LastChanged_Achievements": "2024-01-05T21:04:50.1898192+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:20.335815+00:00",
-  "LastUpdate_Ratings": "2024-01-05T19:59:18.1981773+00:00",
-  "LastUpdate_Achievements": "2024-01-05T20:03:59.0437094+00:00"
+  "LastUpdate_Ratings": "2024-01-05T21:00:04.5031552+00:00",
+  "LastUpdate_Achievements": "2024-01-05T21:04:50.1898365+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "fefe1db11f534484987ef50ec1e25225",
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
-  "Ranking_EOS_Progress": 232,
+  "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2638,
+  "EOS_Progressed": 2644,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 313,
+  "EOS_NewPlayers": 315,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7264,6 +7264,11 @@
       "Time": "2024-01-05T20:10:07.7113548+00:00",
       "NumProgressed": 2638,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-05T21:11:05.1346928+00:00",
+      "NumProgressed": 2644,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -7308,7 +7313,7 @@
       "Name": "What\u0027s the cargo?",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "achievement_14",
@@ -7380,7 +7385,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "achievement_22",
@@ -7468,7 +7473,7 @@
       "Name": "Scrap collector",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "achievement_32",
@@ -7476,7 +7481,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "achievement_33",
@@ -7492,7 +7497,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "achievement_35",
@@ -7500,7 +7505,7 @@
       "Name": "New Recruit",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 2295
+      "UsersEstimate": 2300
     },
     {
       "ID": "achievement_36",
@@ -7516,7 +7521,7 @@
       "Name": "Off to a good start",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1636
+      "UsersEstimate": 1639
     },
     {
       "ID": "achievement_38",
@@ -7540,7 +7545,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_40",
@@ -7548,7 +7553,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1375
     },
     {
       "ID": "achievement_41",
@@ -7580,7 +7585,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "achievement_45",
@@ -7652,7 +7657,7 @@
       "Name": "When surrounded by war...",
       "Percentage": 0.7,
       "XP": 60,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_53",
@@ -7716,7 +7721,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "achievement_60",
@@ -7756,7 +7761,7 @@
       "Name": "A cunning warrior",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "achievement_8",
@@ -7779,13 +7784,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2638,
+      "Progressed": 2644,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2638,
+      "Progressed": 2644,
       "Completed": 1
     }
   ],
@@ -7793,8 +7798,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-05T20:10:07.7113545+00:00",
+  "LastChanged_Achievements": "2024-01-05T21:11:05.1346925+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:19.759459+00:00",
-  "LastUpdate_Ratings": "2024-01-05T20:00:38.0066536+00:00",
-  "LastUpdate_Achievements": "2024-01-05T20:10:07.7114776+00:00"
+  "LastUpdate_Ratings": "2024-01-05T21:02:45.7513916+00:00",
+  "LastUpdate_Achievements": "2024-01-05T21:11:05.1347711+00:00"
 }

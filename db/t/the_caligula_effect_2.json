@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 568,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 520,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-06-23T03:00:00+00:00",
     "PcReleaseDate": "2022-06-23T03:00:00+00:00",
@@ -63,9 +63,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 249,
+  "EOS_Progressed": 250,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
@@ -178,6 +178,11 @@
       "Time": "2023-12-30T08:10:43.6339187+00:00",
       "NumProgressed": 249,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-05T21:10:59.9618559+00:00",
+      "NumProgressed": 250,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 49,
@@ -203,25 +208,25 @@
       "ID": "ACH_03",
       "SetID": "2eg5kgc",
       "Name": "Daily Life Begins Anew",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 202
     },
     {
       "ID": "ACH_04",
       "SetID": "2eg5kgc",
       "Name": "Go-Home Club Activities START!",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 120
     },
     {
       "ID": "ACH_05",
       "SetID": "2eg5kgc",
       "Name": "Behind the Curtain",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_06",
@@ -229,7 +234,7 @@
       "Name": "Be Who You Wanna Be",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_07",
@@ -237,7 +242,7 @@
       "Name": "One-Track Mind",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_08",
@@ -293,7 +298,7 @@
       "Name": "To Each Their Own",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_15",
@@ -317,7 +322,7 @@
       "Name": "Building Bridges",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_18",
@@ -333,7 +338,7 @@
       "Name": "Philanthropist",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_20",
@@ -357,7 +362,7 @@
       "Name": "Eat Your Heart Out",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_23",
@@ -373,7 +378,7 @@
       "Name": "Hustled and Bustled",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_25",
@@ -381,7 +386,7 @@
       "Name": "The Part-Time Tyrant",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_26",
@@ -469,7 +474,7 @@
       "Name": "Lost Souls For Sale",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_37",
@@ -485,7 +490,7 @@
       "Name": "Songstress Unleashed",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_39",
@@ -493,7 +498,7 @@
       "Name": "Executive Privilege",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_40",
@@ -501,7 +506,7 @@
       "Name": "Never Saw It Coming",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_41",
@@ -557,7 +562,7 @@
       "Name": "Trigger Finger",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_48",
@@ -565,7 +570,7 @@
       "Name": "Stay Winning",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_49",
@@ -580,15 +585,15 @@
     {
       "ID": "2eg5kgc",
       "IsBase": true,
-      "Progressed": 249,
+      "Progressed": 250,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:19:58.3140985+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.7038898+00:00",
   "LastChanged": "2023-03-31T05:57:16.8033506+00:00",
-  "LastChanged_Achievements": "2024-01-05T20:10:03.0639926+00:00",
+  "LastChanged_Achievements": "2024-01-05T21:10:59.9618556+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:22.9298582+00:00",
-  "LastUpdate_Ratings": "2024-01-05T19:57:30.5940155+00:00",
-  "LastUpdate_Achievements": "2024-01-05T20:10:03.0640403+00:00"
+  "LastUpdate_Ratings": "2024-01-05T20:57:48.5775863+00:00",
+  "LastUpdate_Achievements": "2024-01-05T21:10:59.9619025+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "75d74aeb36024d95b8a30bad40dc19c3",
   "Name": "Call of the Wild: The Angler\u2122",
   "ProductSlug": "call-of-the-wild-the-angler",
-  "Ranking_Rating": 950,
+  "Ranking_Rating": 952,
   "Ranking_Popularity": 479,
   "Ranking_PopularitySum": 410,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -1021,7 +1021,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 7997,
+  "EOS_Progressed": 8000,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 279,
   "EOS_NewCompleters": 0,
@@ -13281,6 +13281,11 @@
       "Time": "2024-01-05T20:08:05.2373124+00:00",
       "NumProgressed": 7997,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T21:08:38.8158454+00:00",
+      "NumProgressed": 8000,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -13292,7 +13297,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1439
+      "UsersEstimate": 1440
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -13611,13 +13616,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 7997,
+      "Progressed": 8000,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7369,
+      "Progressed": 7372,
       "Completed": 113
     }
   ],
@@ -13625,8 +13630,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-03T21:01:30.920658+00:00",
-  "LastChanged_Achievements": "2024-01-05T20:08:05.2373122+00:00",
+  "LastChanged_Achievements": "2024-01-05T21:08:38.815845+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:09.4029638+00:00",
-  "LastUpdate_Ratings": "2024-01-05T19:56:56.6559013+00:00",
-  "LastUpdate_Achievements": "2024-01-05T20:08:05.2373995+00:00"
+  "LastUpdate_Ratings": "2024-01-05T20:57:05.9066626+00:00",
+  "LastUpdate_Achievements": "2024-01-05T21:08:38.8159443+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
     "PcReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -2096,7 +2096,7 @@
   ],
   "EOS_Progressed": 824,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9242,9 +9242,9 @@
       "ID": "M_HOME_STAR",
       "SetID": "80dcan0",
       "Name": "Kind of a Big Deal",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 379
+      "UsersEstimate": 387
     },
     {
       "ID": "M_PET",
@@ -9482,9 +9482,9 @@
       "ID": "S_MARRY",
       "SetID": "80dcan0",
       "Name": "I Do!",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 618
+      "UsersEstimate": 626
     },
     {
       "ID": "S_PARTY",
@@ -9602,8 +9602,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2024-01-05T08:02:06.5101252+00:00",
-  "LastChanged_Achievements": "2024-01-05T20:08:37.9999312+00:00",
+  "LastChanged_Achievements": "2024-01-05T21:09:18.0776503+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:56.3187403+00:00",
-  "LastUpdate_Ratings": "2024-01-05T20:00:34.3992571+00:00",
-  "LastUpdate_Achievements": "2024-01-05T20:08:38.000012+00:00"
+  "LastUpdate_Ratings": "2024-01-05T21:02:40.7056614+00:00",
+  "LastUpdate_Achievements": "2024-01-05T21:09:18.0777354+00:00"
 }

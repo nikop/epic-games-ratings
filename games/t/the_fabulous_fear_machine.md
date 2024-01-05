@@ -27,8 +27,8 @@
 | Hate is... addictive | 14.00% | ~12 |
 | Welcome to Hellville | 14.00% | ~12 |
 | Kirlian's best disciple | 13.00% | ~11 |
+| Blessed antennas | 12.00% | ~10 |
 | The bully | 12.00% | ~10 |
-| Blessed antennas | 11.00% | ~9 |
 | Blood Red Island | 10.00% | ~8 |
 | Bread and bocaua | 10.00% | ~8 |
 | Fanatacism is... poisonous | 10.00% | ~8 |

@@ -2,10 +2,10 @@
   "ID": "2f8dfd36b56b48dfb83432f2b6d96d38",
   "Name": "MythBusters: The First Experiment",
   "ProductSlug": "mythbusters-the-first-experiment-b71c29",
-  "Ranking_EOS_Progress": 820,
+  "Ranking_EOS_Progress": 821,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 568,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-12-31T00:00:00+00:00",
     "PcReleaseDate": "2022-12-31T00:00:00+00:00",
@@ -31,6 +31,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-12-30T22:57:38.9711048+00:00",
-  "LastUpdate_Ratings": "2024-01-05T19:58:17.6370847+00:00",
-  "LastUpdate_Achievements": "2024-01-05T20:09:40.2503953+00:00"
+  "LastUpdate_Ratings": "2024-01-05T20:58:48.3076211+00:00",
+  "LastUpdate_Achievements": "2024-01-05T21:10:33.2960992+00:00"
 }

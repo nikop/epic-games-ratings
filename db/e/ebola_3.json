@@ -4,8 +4,8 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 383,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
     "PcReleaseDate": "2022-09-19T00:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 320,
+  "EOS_Progressed": 321,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1376,6 +1376,11 @@
       "Time": "2024-01-05T16:10:03.3602969+00:00",
       "NumProgressed": 320,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T21:11:04.3764486+00:00",
+      "NumProgressed": 321,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -1433,9 +1438,9 @@
       "ID": "achCar",
       "SetID": "72gjli4",
       "Name": "Car \u2714",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 6
     },
     {
       "ID": "achCheet",
@@ -1521,9 +1526,9 @@
       "ID": "achDictator",
       "SetID": "72gjli4",
       "Name": "Boss 2 \u2714",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 6
     },
     {
       "ID": "achDog",
@@ -1569,9 +1574,9 @@
       "ID": "achHospital",
       "SetID": "72gjli4",
       "Name": "Hospital \u2714",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 22
     },
     {
       "ID": "achIvan",
@@ -1771,7 +1776,7 @@
       "Name": "Weapon \u2714",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "achWorms",
@@ -1786,7 +1791,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 320,
+      "Progressed": 321,
       "Completed": 0
     }
   ],
@@ -1794,8 +1799,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2024-01-05T20:10:07.0936774+00:00",
+  "LastChanged_Achievements": "2024-01-05T21:11:04.3764482+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:19.8305387+00:00",
-  "LastUpdate_Ratings": "2024-01-05T20:00:37.9938204+00:00",
-  "LastUpdate_Achievements": "2024-01-05T20:10:07.0937234+00:00"
+  "LastUpdate_Ratings": "2024-01-05T21:02:45.7048391+00:00",
+  "LastUpdate_Achievements": "2024-01-05T21:11:04.3764957+00:00"
 }

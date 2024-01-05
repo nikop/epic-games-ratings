@@ -2,10 +2,10 @@
   "ID": "geranium",
   "Name": "The Jackbox Party Pack 5",
   "ProductSlug": "jackbox-party-pack-5",
-  "Ranking_EOS_Progress": 820,
+  "Ranking_EOS_Progress": 821,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 568,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2017-10-17T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:54.002841+00:00",
   "LastChanged": "2023-03-31T05:57:54.0028411+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:07.2938762+00:00",
-  "LastUpdate_Ratings": "2024-01-05T20:02:25.4882901+00:00",
-  "LastUpdate_Achievements": "2024-01-05T20:08:32.9151399+00:00"
+  "LastUpdate_Ratings": "2024-01-05T21:02:53.0632758+00:00",
+  "LastUpdate_Achievements": "2024-01-05T21:09:12.0297806+00:00"
 }

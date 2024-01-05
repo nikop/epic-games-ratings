@@ -1,7 +1,7 @@
 # Warhammer 40,000: Chaos Gate - Daemonhunters
 [Store](https://store.epicgames.com/en-US/p/warhammer-40000-chaos-gate-daemonhunters)  
 [View Rawdata](../../db/w/warhammer_40,000__chaos_gate_-_daemonhunters.json)  
-Rating: 4.58 (Ranked 471)  
+Rating: 4.58 (Ranked 470)  
 Number of Ratings: 371  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -44,9 +44,9 @@ Number of Ratings: 371  (23.09.2022)
 | Death Comes For All | 0.90% | ~34 |
 | Harvest No More | 0.80% | ~30 |
 | Hands-On Research | 0.70% | ~26 |
+| True Mastery | 0.70% | ~26 |
 | Strike Force | 0.60% | ~23 |
 | Exercise in Restraint | 0.60% | ~23 |
-| True Mastery | 0.60% | ~23 |
 | Reign of Confusion | 0.50% | ~19 |
 | Abomination | 0.40% | ~15 |
 | Suffer Not the Mutant | 0.40% | ~15 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.10% | ~4 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,779 (Ranked 217)  
+Progressed: 3,780 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 0 (0.00%) (Ranked 392)
 | 2024-01-02 | 3,720 | 0 |
 | 2024-01-03 | 3,737 | 0 |
 | 2024-01-04 | 3,765 | 0 |
-| 2024-01-05 | 3,779 | 0 |
+| 2024-01-05 | 3,780 | 0 |
 ## Awards
 Max (Character Customization): 232  (Ranked 282)  
 Sum: 495 (Ranked 334)  

@@ -9,13 +9,13 @@ Number of Ratings: 76  (23.09.2022)
 | Sponge Smasher | 20.00% | ~149 |
 | Jellyfish Jam | 19.00% | ~141 |
 | Spatula Seeker | 19.00% | ~141 |
-| Jellyfishing | 14.00% | ~104 |
+| Jellyfishing | 15.00% | ~112 |
 | Time For Tutorial | 12.00% | ~89 |
 | Sweet Victory | 11.00% | ~82 |
 | Sock Getter | 11.00% | ~82 |
 | Super Spatula Seeker | 10.00% | ~74 |
+| Star Smasher | 10.00% | ~74 |
 | Uptown and Downtown | 9.00% | ~67 |
-| Star Smasher | 9.00% | ~67 |
 | Surf's Up! | 9.00% | ~67 |
 | Squirrel Smasher | 8.00% | ~60 |
 | Life's as extreme as you wanna make it! | 7.00% | ~52 |
@@ -40,7 +40,7 @@ Number of Ratings: 76  (23.09.2022)
 | Super Ultra Mega Spatula Seeker | 1.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 744 (Ranked 313)  
-Completed: 7 (0.94%) (Ranked 177)  
+Completed: 7 (0.94%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

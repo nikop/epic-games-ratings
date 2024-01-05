@@ -45,13 +45,13 @@
 | Friend of Uram Gor | 9.00% | ~11 |
 | A Joke | 9.00% | ~11 |
 | The Forge of Regan Gor | 8.00% | ~9 |
+| Tuscari Sea Portal | 8.00% | ~9 |
 | Fireforge | 8.00% | ~9 |
 | A Monopoly of Might | 8.00% | ~9 |
 | Get to the Airship! | 7.00% | ~8 |
 | Defeat Hokan | 7.00% | ~8 |
 | Defeat Raith | 7.00% | ~8 |
 | Lore's Tale | 7.00% | ~8 |
-| Tuscari Sea Portal | 7.00% | ~8 |
 | Master Artificer | 7.00% | ~8 |
 | Heroes | 7.00% | ~8 |
 | Balanced | 7.00% | ~8 |

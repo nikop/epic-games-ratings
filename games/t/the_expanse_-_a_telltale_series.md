@@ -1,33 +1,33 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.54 (Ranked 547)  
+Rating: 4.54 (Ranked 548)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 17.00% | ~3,111 |
-| Captain Drummer | 14.00% | ~2,562 |
-| Celebrations are in Order | 13.00% | ~2,379 |
-| The Pit and the Pirates | 12.00% | ~2,196 |
-| Martian Music | 12.00% | ~2,196 |
-| Bosmang | 12.00% | ~2,196 |
-| Impossible Objects | 12.00% | ~2,196 |
-| Spore Taste | 11.00% | ~2,013 |
-| Drone Dodger | 11.00% | ~2,013 |
-| Stogie for Fogey | 10.00% | ~1,830 |
-| Zen Master | 10.00% | ~425 |
-| Call it Even | 9.00% | ~1,647 |
-| Safe Cracker | 9.00% | ~383 |
-| Madame Undersecretary | 9.00% | ~383 |
-| Heal Thy Medic | 8.00% | ~1,464 |
-| Data Archivist | 7.00% | ~1,281 |
-| Drug Gifter | 7.00% | ~1,281 |
-| Thorston Mayer | 7.00% | ~1,281 |
-| Khan's Revenge | 7.00% | ~1,281 |
+| Oyedang, Kopengs | 17.00% | ~3,112 |
+| Captain Drummer | 14.00% | ~2,563 |
+| Celebrations are in Order | 13.00% | ~2,380 |
+| The Pit and the Pirates | 12.00% | ~2,197 |
+| Martian Music | 12.00% | ~2,197 |
+| Bosmang | 12.00% | ~2,197 |
+| Impossible Objects | 12.00% | ~2,197 |
+| Spore Taste | 11.00% | ~2,014 |
+| Drone Dodger | 11.00% | ~2,014 |
+| Stogie for Fogey | 10.00% | ~1,831 |
+| Zen Master | 10.00% | ~426 |
+| Call it Even | 9.00% | ~1,648 |
+| Safe Cracker | 9.00% | ~384 |
+| Madame Undersecretary | 9.00% | ~384 |
+| Heal Thy Medic | 8.00% | ~1,465 |
+| Data Archivist | 7.00% | ~1,282 |
+| Drug Gifter | 7.00% | ~1,282 |
+| Thorston Mayer | 7.00% | ~1,282 |
+| Khan's Revenge | 7.00% | ~1,282 |
 | Keep Arjun in Check | 7.00% | ~298 |
 | Doctor Approved | 6.00% | ~1,098 |
 | Bottoms up! | 6.00% | ~1,098 |
-| Master Negotiator | 6.00% | ~255 |
+| Master Negotiator | 6.00% | ~256 |
 | Data Logger | 4.00% | ~732 |
 | Miraculous Maya | 4.00% | ~732 |
 | Data Master | 3.00% | ~549 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 547)
 | Scavenger Star | 0.30% | ~55 |
 | Data Collector | 0.20% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,299 (Ranked 159)  
+Progressed: 18,308 (Ranked 159)  
 Completed: 58 (0.32%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 58 (0.32%) (Ranked 246)
 | 2024-01-02 | 18,077 | 58 |
 | 2024-01-03 | 18,141 | 58 |
 | 2024-01-04 | 18,213 | 58 |
-| 2024-01-05 | 18,299 | 58 |
+| 2024-01-05 | 18,308 | 58 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

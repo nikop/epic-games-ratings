@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 290,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2020-03-31T12:00:00+00:00",
@@ -196,7 +196,7 @@
   "Tags": [],
   "EOS_Progressed": 5793,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -5801,9 +5801,9 @@
       "ID": "ach_prof_products_sold",
       "SetID": "8cb3id7",
       "Name": "Tycoon",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 52
     },
     {
       "ID": "ach_prof_success",
@@ -5849,8 +5849,8 @@
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-12-29T23:58:32.3539857+00:00",
-  "LastChanged_Achievements": "2024-01-05T20:05:38.3103545+00:00",
+  "LastChanged_Achievements": "2024-01-05T21:06:49.3155017+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:45.6175263+00:00",
-  "LastUpdate_Ratings": "2024-01-05T19:58:27.0002033+00:00",
-  "LastUpdate_Achievements": "2024-01-05T20:05:38.3104437+00:00"
+  "LastUpdate_Ratings": "2024-01-05T20:59:00.263428+00:00",
+  "LastUpdate_Achievements": "2024-01-05T21:06:49.3155844+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 445,
   "Ranking_Popularity": 28,
   "Ranking_PopularitySum": 49,
-  "Ranking_EOS_Progress": 820,
+  "Ranking_EOS_Progress": 821,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 568,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-10-20T17:50:00+00:00",
     "PcReleaseDate": "2009-10-13T13:00:00+00:00",
@@ -6881,10 +6881,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 29968,
       "NumberOfAwardsMax": 14582
+    },
+    {
+      "Time": "2024-01-05T20:57:57.4073892+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 29976,
+      "NumberOfAwardsMax": 14582
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29968,
+  "NumberOfAwards": 29976,
   "NumberOfAwardsMax": 14582,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6916,19 +6922,19 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1673
+      "Count": 1676
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1492
+      "Count": 1495
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1572
+      "Count": 1574
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6973,8 +6979,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-20T18:02:29.378678+00:00",
   "FirstSeenRating": "2022-10-21T00:33:04.5526796+00:00",
-  "LastChanged": "2024-01-05T18:58:55.5086208+00:00",
+  "LastChanged": "2024-01-05T20:57:57.407389+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:31.7164037+00:00",
-  "LastUpdate_Ratings": "2024-01-05T19:57:37.5684512+00:00",
-  "LastUpdate_Achievements": "2024-01-05T20:06:02.166866+00:00"
+  "LastUpdate_Ratings": "2024-01-05T20:57:57.4073896+00:00",
+  "LastUpdate_Achievements": "2024-01-05T21:07:17.9411554+00:00"
 }

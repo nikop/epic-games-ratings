@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10560,9 +10560,9 @@
       "Count": 1080
     }
   ],
-  "EOS_Progressed": 131795,
+  "EOS_Progressed": 131803,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1202,
+  "EOS_NewPlayers": 1203,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38500,6 +38500,11 @@
       "Time": "2024-01-05T20:09:39.2727694+00:00",
       "NumProgressed": 131795,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-05T21:10:32.1422708+00:00",
+      "NumProgressed": 131803,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38949,9 +38954,9 @@
       "ID": "roster_confirm_all_memoried",
       "SetID": "64l4lke",
       "Name": "Eidetic",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 527
+      "UsersEstimate": 659
     },
     {
       "ID": "run_end_abandon",
@@ -39047,7 +39052,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "combat_kill_collector",
@@ -39095,7 +39100,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -39103,7 +39108,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "quest_complete_crusader",
@@ -39111,7 +39116,7 @@
       "Name": "Lost and Found",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -39142,21 +39147,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131795,
+      "Progressed": 131803,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6664,
+      "Progressed": 6672,
       "Completed": 821
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-05T20:00:17.6299255+00:00",
-  "LastChanged_Achievements": "2024-01-05T20:09:39.2727691+00:00",
+  "LastChanged_Achievements": "2024-01-05T21:10:32.1422705+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-05T20:00:17.629926+00:00",
-  "LastUpdate_Achievements": "2024-01-05T20:09:39.2729686+00:00"
+  "LastUpdate_Ratings": "2024-01-05T21:01:19.482766+00:00",
+  "LastUpdate_Achievements": "2024-01-05T21:10:32.1424354+00:00"
 }

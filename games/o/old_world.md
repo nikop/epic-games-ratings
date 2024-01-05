@@ -23,7 +23,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Keystone | 0.80% | ~129 |
 | Learned | 0.80% | ~129 |
 | Pioneer | 0.80% | ~129 |
-| Developing Cities | 0.80% | ~129 |
 | Judaism | 0.80% | ~129 |
 | Greek Paganism | 0.80% | ~129 |
 | Trade Caravan | 0.80% | ~129 |
@@ -32,6 +31,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightened | 0.70% | ~113 |
 | Glorious | 0.70% | ~113 |
 | Warrior | 0.70% | ~113 |
+| Developing Cities | 0.70% | ~113 |
 | Strong Cities | 0.70% | ~113 |
 | Pyramids | 0.70% | ~113 |
 | Learn to Play 1 | 0.70% | ~113 |
@@ -65,6 +65,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Valiant | 0.40% | ~65 |
 | Just Difficulty | 0.40% | ~65 |
 | Artisans | 0.40% | ~65 |
+| Champions | 0.40% | ~65 |
 | Sages | 0.40% | ~65 |
 | Colossus | 0.40% | ~65 |
 | Musaeum | 0.40% | ~65 |
@@ -79,7 +80,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Subjugator | 0.30% | ~48 |
 | Victorious | 0.30% | ~48 |
 | Good Difficulty | 0.30% | ~48 |
-| Champions | 0.30% | ~48 |
 | Landowners | 0.30% | ~48 |
 | Patrons | 0.30% | ~48 |
 | Riders | 0.30% | ~48 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,133 (Ranked 167)  
+Progressed: 16,134 (Ranked 167)  
 Completed: 5 (0.03%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -625,7 +625,7 @@ Completed: 5 (0.03%) (Ranked 352)
 | 2024-01-02 | 16,090 | 5 |
 | 2024-01-03 | 16,108 | 5 |
 | 2024-01-04 | 16,120 | 5 |
-| 2024-01-05 | 16,133 | 5 |
+| 2024-01-05 | 16,134 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 283)  
 Sum: 1,915 (Ranked 221)  

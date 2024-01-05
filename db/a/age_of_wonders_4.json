@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 307,
   "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -717,9 +717,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6895,
+  "EOS_Progressed": 6899,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 411,
+  "EOS_NewPlayers": 410,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10452,6 +10452,11 @@
       "Time": "2024-01-05T20:03:51.2519177+00:00",
       "NumProgressed": 6895,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-05T21:04:40.7684454+00:00",
+      "NumProgressed": 6899,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10575,7 +10580,7 @@
       "Name": "Realm Estate",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 896
+      "UsersEstimate": 897
     },
     {
       "ID": "23",
@@ -10583,7 +10588,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "24",
@@ -10591,7 +10596,7 @@
       "Name": "Secret Technique",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1035
     },
     {
       "ID": "25",
@@ -10599,7 +10604,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "26",
@@ -10621,9 +10626,9 @@
       "ID": "28",
       "SetID": "3aa2279",
       "Name": "From Friends to Family",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 690
+      "UsersEstimate": 759
     },
     {
       "ID": "29",
@@ -10942,13 +10947,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6895,
+      "Progressed": 6899,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6895,
+      "Progressed": 6899,
       "Completed": 7
     }
   ],
@@ -10956,8 +10961,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-03T13:04:27.6429549+00:00",
-  "LastChanged_Achievements": "2024-01-05T20:03:51.2519174+00:00",
+  "LastChanged_Achievements": "2024-01-05T21:04:40.7684449+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-05T20:02:30.9769746+00:00",
-  "LastUpdate_Achievements": "2024-01-05T20:03:51.2520133+00:00"
+  "LastUpdate_Ratings": "2024-01-05T21:02:59.5589163+00:00",
+  "LastUpdate_Achievements": "2024-01-05T21:04:40.7685191+00:00"
 }

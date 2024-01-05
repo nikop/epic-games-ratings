@@ -1,36 +1,36 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.21 (Ranked 950)  
+Rating: 4.21 (Ranked 952)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Outer Way | 24.00% | ~5,077 |
-| Flesh Wound | 23.00% | ~4,865 |
-| Desperate Times | 22.00% | ~4,654 |
-| Get a Grip | 20.00% | ~4,231 |
-| Paper Jams | 20.00% | ~4,231 |
-| Chew 'Em Up | 18.00% | ~3,808 |
-| Reforged | 17.00% | ~3,596 |
-| Float Like A Butterfly | 16.00% | ~3,384 |
-| Workplace Hazard | 14.00% | ~2,961 |
-| If the SHU Fits... | 14.00% | ~2,961 |
-| Without A Paddle | 12.00% | ~2,538 |
-| In the Pipe, Five by Five | 11.00% | ~2,327 |
-| Crash Site | 11.00% | ~2,327 |
-| Two Heads Are Better Than One | 10.00% | ~2,115 |
-| Power Up | 10.00% | ~2,115 |
-| Giving Back | 9.00% | ~1,904 |
-| Terminated | 9.00% | ~1,904 |
-| What Lies Beneath | 9.00% | ~1,904 |
-| Full Circle | 9.00% | ~1,904 |
-| You Need a Gun | 8.00% | ~1,692 |
-| I Do Belong Here | 7.00% | ~1,481 |
+| The Outer Way | 24.00% | ~5,080 |
+| Flesh Wound | 23.00% | ~4,868 |
+| Desperate Times | 22.00% | ~4,656 |
+| Get a Grip | 20.00% | ~4,233 |
+| Paper Jams | 20.00% | ~4,233 |
+| Chew 'Em Up | 18.00% | ~3,810 |
+| Reforged | 17.00% | ~3,598 |
+| Float Like A Butterfly | 16.00% | ~3,386 |
+| If the SHU Fits... | 15.00% | ~3,175 |
+| Workplace Hazard | 14.00% | ~2,963 |
+| Without A Paddle | 12.00% | ~2,540 |
+| In the Pipe, Five by Five | 11.00% | ~2,328 |
+| Crash Site | 11.00% | ~2,328 |
+| Two Heads Are Better Than One | 10.00% | ~2,116 |
+| Power Up | 10.00% | ~2,116 |
+| Giving Back | 9.00% | ~1,905 |
+| Terminated | 9.00% | ~1,905 |
+| What Lies Beneath | 9.00% | ~1,905 |
+| Full Circle | 9.00% | ~1,905 |
+| You Need a Gun | 8.00% | ~1,693 |
+| I Do Belong Here | 7.00% | ~1,482 |
 | Keep Fighting | 7.00% | ~636 |
 | The Commonality | 5.00% | ~1,058 |
-| It's Time | 5.00% | ~454 |
-| In Striking Distance | 4.00% | ~846 |
-| One Last Job | 3.00% | ~272 |
+| It's Time | 5.00% | ~455 |
+| In Striking Distance | 4.00% | ~847 |
+| One Last Job | 3.00% | ~273 |
 | Big Spender | 2.00% | ~182 |
 | This Isn't About Escape | 2.00% | ~182 |
 | Armed to the Teeth | 1.00% | ~91 |
@@ -40,7 +40,7 @@ Rating: 4.21 (Ranked 950)
 | Information Overload | 0.90% | ~82 |
 | Parole Denied | 0.80% | ~73 |
 | Quick Pick | 0.70% | ~64 |
-| Subject Alpha | 0.60% | ~54 |
+| Subject Alpha | 0.60% | ~55 |
 | The Protocol is About Life | 0.40% | ~85 |
 | Hoard Mode | 0.30% | ~27 |
 | Don't Let It Mellow | 0.30% | ~27 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 950)
 | Big Game Hunter | 0.10% | ~9 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,153 (Ranked 151)  
+Progressed: 21,165 (Ranked 151)  
 Completed: 82 (0.39%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 82 (0.39%) (Ranked 236)
 | 2024-01-02 | 20,695 | 82 |
 | 2024-01-03 | 20,833 | 82 |
 | 2024-01-04 | 20,995 | 82 |
-| 2024-01-05 | 21,153 | 82 |
+| 2024-01-05 | 21,165 | 82 |
 ## Awards
 Max (Amazing Characters): 120  (Ranked 355)  
 Sum: 587 (Ranked 324)  

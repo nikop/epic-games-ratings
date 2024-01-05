@@ -6,8 +6,8 @@
   "Ranking_Popularity": 580,
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 236,
-  "Ranking_EOS_Completed": 65,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_Completed": 63,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -115,11 +115,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2419,
-  "EOS_Completed": 154,
-  "EOS_NewPlayers": 426,
-  "EOS_NewCompleters": 33,
-  "EOS_Completed_Percentage": 6.37,
+  "EOS_Progressed": 2420,
+  "EOS_Completed": 156,
+  "EOS_NewPlayers": 424,
+  "EOS_NewCompleters": 35,
+  "EOS_Completed_Percentage": 6.45,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -6465,6 +6465,11 @@
       "Time": "2024-01-05T20:04:56.9488009+00:00",
       "NumProgressed": 2419,
       "NumCompleted": 154
+    },
+    {
+      "Time": "2024-01-05T21:06:00.286564+00:00",
+      "NumProgressed": 2420,
+      "NumCompleted": 156
     }
   ],
   "TotalAchievements": 25,
@@ -6532,7 +6537,7 @@
       "Name": "Free at last",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "META_RESULT_1-4",
@@ -6556,7 +6561,7 @@
       "Name": "For its own good",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "META_RESULT_3-4",
@@ -6620,7 +6625,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 1427
+      "UsersEstimate": 1428
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -6636,7 +6641,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1283
     },
     {
       "ID": "PROGRESS_N2",
@@ -6644,7 +6649,7 @@
       "Name": "The great escape",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 1064
+      "UsersEstimate": 1065
     },
     {
       "ID": "PROGRESS_N3",
@@ -6675,16 +6680,16 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2419,
-      "Completed": 154
+      "Progressed": 2420,
+      "Completed": 156
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-05T05:56:52.9506566+00:00",
-  "LastChanged_Achievements": "2024-01-05T20:04:56.9488008+00:00",
+  "LastChanged_Achievements": "2024-01-05T21:06:00.2865635+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:09.4320521+00:00",
-  "LastUpdate_Ratings": "2024-01-05T19:57:12.1063293+00:00",
-  "LastUpdate_Achievements": "2024-01-05T20:04:56.9488682+00:00"
+  "LastUpdate_Ratings": "2024-01-05T20:57:25.314317+00:00",
+  "LastUpdate_Achievements": "2024-01-05T21:06:00.286616+00:00"
 }

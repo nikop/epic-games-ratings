@@ -2,10 +2,10 @@
   "ID": "a55f781bdb5940bab92aae536a879f89",
   "Name": "Legendary Road Online",
   "ProductSlug": "legendary-road-online-e3f617",
-  "Ranking_EOS_Progress": 820,
+  "Ranking_EOS_Progress": 821,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 568,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-04T02:00:00+00:00",
     "PcReleaseDate": "2023-12-01T02:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-05T11:58:13.01852+00:00",
   "LastUpdate_AppInfo": "2023-12-31T19:57:12.05783+00:00",
-  "LastUpdate_Ratings": "2024-01-05T19:59:11.145508+00:00",
-  "LastUpdate_Achievements": "2024-01-05T20:08:39.529079+00:00"
+  "LastUpdate_Ratings": "2024-01-05T20:59:55.2119641+00:00",
+  "LastUpdate_Achievements": "2024-01-05T21:09:19.8822317+00:00"
 }

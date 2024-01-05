@@ -1,23 +1,23 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.67 (Ranked 286)  
+Rating: 4.67 (Ranked 285)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 45.00% | ~558 |
-| Rail Rat | 34.00% | ~421 |
+| Rail Rat | 34.00% | ~422 |
 | The Mysterious Stranger | 33.00% | ~409 |
 | Immaculate Aim | 28.00% | ~347 |
 | The Brass Boss | 27.00% | ~335 |
-| Time Flies | 26.00% | ~322 |
 | The Prince in Heels | 26.00% | ~322 |
 | Make Up For Lost Time | 25.00% | ~310 |
+| Time Flies | 25.00% | ~310 |
 | The Harder They Fall | 25.00% | ~310 |
 | No, Thanks! | 25.00% | ~310 |
 | Honest Mistake | 25.00% | ~310 |
 | Immaculate Aim | 25.00% | ~310 |
-| Fast Learner | 24.00% | ~297 |
+| Fast Learner | 24.00% | ~298 |
 | The Steel Shadow | 23.00% | ~285 |
 | Breaking Down Barriers | 23.00% | ~285 |
 | Right On Time | 22.00% | ~273 |
@@ -26,13 +26,13 @@ Rating: 4.67 (Ranked 286)
 | The Betrayer | 21.00% | ~260 |
 | Golem Chaser | 21.00% | ~260 |
 | Check Your Pulse | 20.00% | ~248 |
-| The Loose Cannon | 19.00% | ~235 |
+| The Loose Cannon | 19.00% | ~236 |
 | Street Style | 18.00% | ~223 |
 | The Man Who Shattered Time | 18.00% | ~223 |
 | The Family Fortune | 18.00% | ~223 |
 | Whiz Kid | 15.00% | ~186 |
 | Good Neighbor | 15.00% | ~186 |
-| Family Memories | 14.00% | ~173 |
+| Family Memories | 14.00% | ~174 |
 | Cartographer | 13.00% | ~161 |
 | Ask Questions Later | 13.00% | ~161 |
 | Chaincrawler Explorer | 12.00% | ~149 |
@@ -59,7 +59,7 @@ Rating: 4.67 (Ranked 286)
 | Raw Talent | 0.60% | ~7 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,239 (Ranked 280)  
+Progressed: 1,240 (Ranked 280)  
 Completed: 6 (0.48%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 6 (0.48%) (Ranked 221)
 | 2024-01-02 | 1,201 | 6 |
 | 2024-01-03 | 1,216 | 6 |
 | 2024-01-04 | 1,228 | 6 |
-| 2024-01-05 | 1,239 | 6 |
+| 2024-01-05 | 1,240 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

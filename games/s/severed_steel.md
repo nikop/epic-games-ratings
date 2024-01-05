@@ -5,27 +5,27 @@ Rating: 4.69 (Ranked 235)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 33.00% | ~215,282 |
-| 50 HEADSHOTS | 31.00% | ~202,234 |
-| SCIENCE AND INDUSTRY | 30.00% | ~195,711 |
-| FINISHED CHAPTER 1 | 28.00% | ~182,663 |
-| FINISHED CHAPTER 2 | 21.00% | ~136,997 |
-| 200 HEADSHOTS | 19.00% | ~123,950 |
-| FINISHED CHAPTER 3 | 18.00% | ~117,426 |
-| FINISHED CHAPTER 4 | 15.00% | ~97,855 |
-| FINISH CHAPTER 5 | 13.00% | ~84,808 |
-| FINISH CHAPTER 6 | 11.00% | ~71,761 |
-| CATHARTIC ESCAPISM | 11.00% | ~71,761 |
-| 1000 KILLS | 10.00% | ~65,237 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~26,095 |
+| 100 KILLS | 33.00% | ~215,273 |
+| 50 HEADSHOTS | 31.00% | ~202,226 |
+| SCIENCE AND INDUSTRY | 30.00% | ~195,702 |
+| FINISHED CHAPTER 1 | 28.00% | ~182,655 |
+| FINISHED CHAPTER 2 | 21.00% | ~136,992 |
+| 200 HEADSHOTS | 19.00% | ~123,945 |
+| FINISHED CHAPTER 3 | 18.00% | ~117,421 |
+| FINISHED CHAPTER 4 | 15.00% | ~97,851 |
+| FINISH CHAPTER 5 | 13.00% | ~84,804 |
+| FINISH CHAPTER 6 | 11.00% | ~71,758 |
+| CATHARTIC ESCAPISM | 11.00% | ~71,758 |
+| 1000 KILLS | 10.00% | ~65,234 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~26,094 |
 | FIREFIGHT LEVEL 20 | 2.00% | ~13,047 |
 | FIRST BLOOD | 2.00% | ~13,047 |
-| FIREFIGHT LEVEL 30 | 1.00% | ~6,524 |
-| OUT OF ORDER | 1.00% | ~6,524 |
-| PACEMAKER | 1.00% | ~6,524 |
-| TIME PARADOX | 1.00% | ~6,524 |
+| FIREFIGHT LEVEL 30 | 1.00% | ~6,523 |
+| OUT OF ORDER | 1.00% | ~6,523 |
+| PACEMAKER | 1.00% | ~6,523 |
+| TIME PARADOX | 1.00% | ~6,523 |
 | PARTYHARD | 0.80% | ~5,219 |
-| NEW GAME PLUS | 0.70% | ~4,567 |
+| NEW GAME PLUS | 0.70% | ~4,566 |
 | FIREFIGHT LEVEL 40 | 0.60% | ~3,914 |
 | CHURCH | 0.40% | ~2,609 |
 | FIREFIGHT LEVEL 50 | 0.30% | ~1,957 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 235)
 | THE GAMBLER | 0.10% | ~652 |
 | WARRIOR IN A GARDEN | 0.10% | ~652 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 652,369 (Ranked 32)  
+Progressed: 652,341 (Ranked 32)  
 Completed: 59 (0.01%) (Ranked 370)  
 ## EOS Players History
 | Date | Progressed | Completed |

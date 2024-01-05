@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -37,9 +37,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3990,
+  "EOS_Progressed": 3991,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -5467,6 +5467,11 @@
       "Time": "2024-01-05T20:05:23.0575987+00:00",
       "NumProgressed": 3990,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-05T21:06:31.2293894+00:00",
+      "NumProgressed": 3991,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -5526,7 +5531,7 @@
       "Name": "You and what Army?",
       "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 3471
+      "UsersEstimate": 3472
     },
     {
       "ID": "campaign10",
@@ -5614,7 +5619,7 @@
       "Name": "Flanked!",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 2992
+      "UsersEstimate": 2993
     },
     {
       "ID": "campaign20",
@@ -5630,7 +5635,7 @@
       "Name": "Economics 101",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 2354
+      "UsersEstimate": 2355
     },
     {
       "ID": "campaign4",
@@ -5646,7 +5651,7 @@
       "Name": "Clay Fighter",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "campaign6",
@@ -5686,7 +5691,7 @@
       "Name": "Do the Splits",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1476
+      "UsersEstimate": 1477
     },
     {
       "ID": "scenario2",
@@ -5741,7 +5746,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3990,
+      "Progressed": 3991,
       "Completed": 11
     }
   ],
@@ -5749,8 +5754,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2024-01-05T08:58:52.7711213+00:00",
-  "LastChanged_Achievements": "2024-01-05T20:05:23.0575984+00:00",
+  "LastChanged_Achievements": "2024-01-05T21:06:31.2293892+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:55.1228513+00:00",
-  "LastUpdate_Ratings": "2024-01-05T19:58:41.1245166+00:00",
-  "LastUpdate_Achievements": "2024-01-05T20:05:23.0576464+00:00"
+  "LastUpdate_Ratings": "2024-01-05T20:59:18.2180751+00:00",
+  "LastUpdate_Achievements": "2024-01-05T21:06:31.2294283+00:00"
 }

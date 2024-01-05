@@ -2,10 +2,10 @@
   "ID": "c1f4bc1c1b004134b8af9d05d48215c1",
   "Name": "Mahjong Royal Towers",
   "ProductSlug": "mahjong-royal-towers-e327ab",
-  "Ranking_EOS_Progress": 820,
+  "Ranking_EOS_Progress": 821,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 568,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2024-01-08T21:00:00+00:00",
     "PcReleaseDate": "2019-10-21T21:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-02T06:57:00.5711649+00:00",
-  "LastUpdate_Ratings": "2024-01-05T20:00:38.2828388+00:00",
-  "LastUpdate_Achievements": "2024-01-05T20:03:43.0833977+00:00"
+  "LastUpdate_Ratings": "2024-01-05T21:02:46.0540236+00:00",
+  "LastUpdate_Achievements": "2024-01-05T21:04:31.1619414+00:00"
 }

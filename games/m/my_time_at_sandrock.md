@@ -26,8 +26,8 @@ Number of Ratings: 892  (23.09.2022)
 | No Mountain Wide Enough | 77.00% | ~634 |
 | Yakmel Whisperer | 77.00% | ~634 |
 | Unboxing | 77.00% | ~634 |
+| I Do! | 76.00% | ~626 |
 | What Plants Crave | 75.00% | ~618 |
-| I Do! | 75.00% | ~618 |
 | Panda-kin | 74.00% | ~610 |
 | First Love | 74.00% | ~610 |
 | Chatterbox | 73.00% | ~602 |
@@ -48,7 +48,7 @@ Number of Ratings: 892  (23.09.2022)
 | Time Flies | 52.00% | ~428 |
 | Finishing Touches | 52.00% | ~428 |
 | Call Me Fishmael | 52.00% | ~428 |
-| Kind of a Big Deal | 46.00% | ~379 |
+| Kind of a Big Deal | 47.00% | ~387 |
 | Just What I Always Wanted! | 46.00% | ~379 |
 | Jewel of the Eufaula | 44.00% | ~363 |
 | My Time Mansion | 42.00% | ~346 |

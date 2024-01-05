@@ -2,10 +2,10 @@
   "ID": "cf7613b267a042e9b06d5d527e8a5eb1",
   "Name": "Observation Particle Life 1",
   "ProductSlug": "particle-life-on-ai-illustrations-2-21674c",
-  "Ranking_EOS_Progress": 820,
+  "Ranking_EOS_Progress": 821,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 568,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-24T15:00:00+00:00",
     "PcReleaseDate": "2023-05-24T15:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-07T14:57:59.2006427+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:24.6250584+00:00",
-  "LastUpdate_Ratings": "2024-01-05T20:00:09.7615094+00:00",
-  "LastUpdate_Achievements": "2024-01-05T20:04:58.8698183+00:00"
+  "LastUpdate_Ratings": "2024-01-05T21:01:09.2173678+00:00",
+  "LastUpdate_Achievements": "2024-01-05T21:06:02.5855536+00:00"
 }

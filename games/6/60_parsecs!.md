@@ -18,7 +18,7 @@
 | Meet the Petersons | 32.00% | ~259 |
 | Stay Cool | 30.00% | ~243 |
 | KIA | 28.00% | ~227 |
-| Mutiny in making | 24.00% | ~194 |
+| Mutiny in making | 25.00% | ~202 |
 | Eco-Shuttle | 21.00% | ~170 |
 | Et tu, Astrocitizen? | 20.00% | ~162 |
 | Space Explorer | 17.00% | ~138 |
@@ -50,7 +50,7 @@
 | Man's best comrade | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 809 (Ranked 305)  
-Completed: 1 (0.12%) (Ranked 300)  
+Completed: 1 (0.12%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,10 +2,10 @@
   "ID": "2e4eb349e07241faaf3e6248c3ed4581",
   "Name": "Terra Nil",
   "ProductSlug": "terra-nil-508d16",
-  "Ranking_EOS_Progress": 820,
+  "Ranking_EOS_Progress": 821,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 568,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-03-31T05:57:11.3616788+00:00",
   "LastChanged": "2023-03-31T05:57:11.3616789+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:37.0205649+00:00",
-  "LastUpdate_Ratings": "2024-01-05T19:57:30.4577562+00:00",
-  "LastUpdate_Achievements": "2024-01-05T20:05:49.1549764+00:00"
+  "LastUpdate_Ratings": "2024-01-05T20:57:48.3940361+00:00",
+  "LastUpdate_Achievements": "2024-01-05T21:07:02.4539647+00:00"
 }

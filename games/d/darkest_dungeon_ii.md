@@ -6,8 +6,8 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~866 |
-| Lost and Found | 8.00% | ~533 |
+| Malpractice Assurance | 13.00% | ~867 |
+| Lost and Found | 8.00% | ~534 |
 | Autodidact | 7.00% | ~9,226 |
 | This Belongs in a Museum | 6.00% | ~7,908 |
 | Overdue Notice | 6.00% | ~7,908 |
@@ -19,8 +19,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Escape from the Black Hole | 5.00% | ~6,590 |
 | Rush Hour | 5.00% | ~6,590 |
 | To Grandmother's House | 5.00% | ~6,590 |
-| Ploughshares to Swords | 5.00% | ~333 |
-| Bloody Graduation | 5.00% | ~333 |
+| Ploughshares to Swords | 5.00% | ~334 |
+| Bloody Graduation | 5.00% | ~334 |
 | Don't Make Me Turn This Coach Around | 4.00% | ~5,272 |
 | It Rings a Bell | 4.00% | ~5,272 |
 | Not Today! | 4.00% | ~5,272 |
@@ -72,8 +72,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | The World As It Was | 0.60% | ~791 |
 | A Life Well Lived | 0.50% | ~659 |
 | Bacon Bits | 0.50% | ~659 |
+| Eidetic | 0.50% | ~659 |
 | On This Long Road, We Found Redemption | 0.50% | ~33 |
-| Eidetic | 0.40% | ~527 |
 | Battle Hardened | 0.40% | ~27 |
 | Tears in the Rain | 0.30% | ~395 |
 | Maître De La Lame | 0.30% | ~20 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,795 (Ranked 91)  
+Progressed: 131,803 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,7 +336,7 @@ Completed: 3 (0.00%) (Ranked 392)
 | 2024-01-02 | 131,365 | 3 |
 | 2024-01-03 | 131,540 | 3 |
 | 2024-01-04 | 131,685 | 3 |
-| 2024-01-05 | 131,795 | 3 |
+| 2024-01-05 | 131,803 | 3 |
 ## Awards
 Max (Character Customization): 7,967  (Ranked 50)  
 Sum: 21,464 (Ranked 58)  

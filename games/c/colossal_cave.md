@@ -15,9 +15,9 @@
 | Green Thumb Goliath | 17.00% | ~18 |
 | Take the Scenic Route | 14.00% | ~15 |
 | St. George's Gauntlet | 12.00% | ~13 |
+| Redbeard's Revenger | 12.00% | ~13 |
 | Treasure Hunter | 12.00% | ~13 |
 | BJ & The Bear | 12.00% | ~13 |
-| Redbeard's Revenger | 11.00% | ~12 |
 | Can't bear the weight | 10.00% | ~10 |
 | Mr. Magic | 9.00% | ~9 |
 | Soft Hands | 9.00% | ~9 |
@@ -30,7 +30,7 @@
 | Perfect 350 pt score | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 105 (Ranked 485)  
-Completed: 1 (0.95%) (Ranked 174)  
+Completed: 1 (0.95%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

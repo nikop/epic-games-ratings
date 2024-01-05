@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 77,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-11-16T16:00:00+00:00",
     "PcReleaseDate": "2018-03-08T17:00:00+00:00",
@@ -263,10 +263,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 73312,
-  "EOS_Completed": 109,
-  "EOS_NewPlayers": 1922,
-  "EOS_NewCompleters": 7,
+  "EOS_Progressed": 73322,
+  "EOS_Completed": 110,
+  "EOS_NewPlayers": 1914,
+  "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
     {
@@ -6238,6 +6238,11 @@
       "Time": "2024-01-05T20:08:15.593345+00:00",
       "NumProgressed": 73312,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2024-01-05T21:08:51.757319+00:00",
+      "NumProgressed": 73322,
+      "NumCompleted": 110
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -6250,7 +6255,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 27125
+      "UsersEstimate": 27129
     },
     {
       "ID": "Achievement_10",
@@ -6282,7 +6287,7 @@
       "Name": "Supreme Scavenger",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2932
+      "UsersEstimate": 2933
     },
     {
       "ID": "Achievement_14",
@@ -6338,7 +6343,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 20527
+      "UsersEstimate": 20530
     },
     {
       "ID": "Achievement_20",
@@ -6378,7 +6383,7 @@
       "Name": "Custodian of Scrollroads",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2932
+      "UsersEstimate": 2933
     },
     {
       "ID": "Achievement_25",
@@ -6402,7 +6407,7 @@
       "Name": "Critter King",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "Achievement_28",
@@ -6426,7 +6431,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8797
+      "UsersEstimate": 8799
     },
     {
       "ID": "Achievement_30",
@@ -6474,7 +6479,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6598
+      "UsersEstimate": 6599
     },
     {
       "ID": "Achievement_5",
@@ -6482,7 +6487,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 5132
+      "UsersEstimate": 5133
     },
     {
       "ID": "Achievement_6",
@@ -6490,7 +6495,7 @@
       "Name": "The Red-Haired Enigma",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2932
+      "UsersEstimate": 2933
     },
     {
       "ID": "Achievement_7",
@@ -6498,7 +6503,7 @@
       "Name": "Ancient Sentient Support",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2199
+      "UsersEstimate": 2200
     },
     {
       "ID": "Achievement_8",
@@ -6506,7 +6511,7 @@
       "Name": "House In Order",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2199
+      "UsersEstimate": 2200
     },
     {
       "ID": "Achievement_9",
@@ -6521,16 +6526,16 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 73312,
-      "Completed": 109
+      "Progressed": 73322,
+      "Completed": 110
     }
   ],
   "FirstSeen": "2023-11-16T18:57:39.5657505+00:00",
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-05T18:03:34.6922579+00:00",
-  "LastChanged_Achievements": "2024-01-05T20:08:15.5933447+00:00",
+  "LastChanged_Achievements": "2024-01-05T21:08:51.7573187+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:21.0621045+00:00",
-  "LastUpdate_Ratings": "2024-01-05T20:02:53.2893391+00:00",
-  "LastUpdate_Achievements": "2024-01-05T20:08:15.5933995+00:00"
+  "LastUpdate_Ratings": "2024-01-05T21:03:26.9456765+00:00",
+  "LastUpdate_Achievements": "2024-01-05T21:08:51.7573735+00:00"
 }

@@ -1,26 +1,26 @@
 # A Game Of Thrones: The Board Game Digital Edition
 [Store](https://store.epicgames.com/en-US/p/a-game-of-thrones-5858a3)  
 [View Rawdata](../../db/a/a_game_of_thrones__the_board_game_digital_edition.json)  
-Rating: 4.21 (Ranked 950)  
+Rating: 4.21 (Ranked 952)  
 Number of Ratings: 2,500  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~13,020 |
-| Battering Crew | 19.00% | ~6,185 |
-| The Kingsroad | 18.00% | ~5,859 |
-| Well Stocked | 13.00% | ~4,232 |
-| Royal Fleet | 13.00% | ~4,232 |
+| Conqueror | 40.00% | ~13,024 |
+| Battering Crew | 19.00% | ~6,186 |
+| The Kingsroad | 18.00% | ~5,861 |
+| Well Stocked | 13.00% | ~4,233 |
+| Royal Fleet | 13.00% | ~4,233 |
 | The Kraken’s Grasp | 9.00% | ~2,930 |
-| Daggers in the Dark | 8.00% | ~2,604 |
-| Alliance | 8.00% | ~2,604 |
+| Daggers in the Dark | 8.00% | ~2,605 |
+| Alliance | 8.00% | ~2,605 |
 | Winter is Coming | 7.00% | ~2,279 |
 | Oathkeeper | 7.00% | ~2,279 |
 | Influential | 7.00% | ~2,279 |
 | A Long Journey | 7.00% | ~2,279 |
-| Ours is the Fury | 6.00% | ~1,953 |
-| We Do Not Sow | 6.00% | ~1,953 |
-| Defender of the Wall | 6.00% | ~1,953 |
+| Ours is the Fury | 6.00% | ~1,954 |
+| We Do Not Sow | 6.00% | ~1,954 |
+| Defender of the Wall | 6.00% | ~1,954 |
 | Unbowed, Unbent, Unbroken | 5.00% | ~1,628 |
 | Growing Strong | 5.00% | ~1,628 |
 | Hear me Roar! | 5.00% | ~1,628 |
@@ -29,7 +29,7 @@ Number of Ratings: 2,500  (23.09.2022)
 | The Swift | 2.00% | ~651 |
 | War of the Five Kings | 1.00% | ~326 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,551 (Ranked 137)  
+Progressed: 32,560 (Ranked 137)  
 Completed: 86 (0.26%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 86 (0.26%) (Ranked 260)
 | 2024-01-02 | 32,279 | 86 |
 | 2024-01-03 | 32,380 | 86 |
 | 2024-01-04 | 32,460 | 86 |
-| 2024-01-05 | 32,551 | 86 |
+| 2024-01-05 | 32,560 | 86 |
 ## Awards
 Max (Quickly Understood Controls): 128  (Ranked 345)  
 Sum: 809 (Ranked 290)  

@@ -2,10 +2,10 @@
   "ID": "4f08134bd1c74665a7372714be114f6a",
   "Name": "Fairytale Solitaire: Red Riding Hood",
   "ProductSlug": "fairytale-solitaire-red-riding-hood-289828",
-  "Ranking_EOS_Progress": 820,
+  "Ranking_EOS_Progress": 821,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 568,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2024-01-23T21:00:00+00:00",
     "PcReleaseDate": "2019-06-30T21:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-02T06:57:01.4905684+00:00",
-  "LastUpdate_Ratings": "2024-01-05T19:58:21.4510122+00:00",
-  "LastUpdate_Achievements": "2024-01-05T20:08:06.7468975+00:00"
+  "LastUpdate_Ratings": "2024-01-05T20:58:53.663136+00:00",
+  "LastUpdate_Achievements": "2024-01-05T21:08:40.7874352+00:00"
 }

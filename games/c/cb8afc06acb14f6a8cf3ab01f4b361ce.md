@@ -1,22 +1,22 @@
 # Soulstice
 [Store](https://store.epicgames.com/en-US/p/soulstice)  
 [View Rawdata](../../db/c/cb8afc06acb14f6a8cf3ab01f4b361ce.json)  
-Rating: 4.21 (Ranked 950)  
+Rating: 4.21 (Ranked 952)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 5.00% | ~17,067 |
-| May the Torchbearer light our way | 4.00% | ~13,654 |
-| A powerful aura was here | 3.00% | ~10,240 |
+| The touch of Chaos | 5.00% | ~17,068 |
+| May the Torchbearer light our way | 4.00% | ~13,655 |
+| A powerful aura was here | 3.00% | ~10,241 |
 | Let's raise the stakes!! | 2.00% | ~6,827 |
-| Rumors are true | 1.00% | ~3,413 |
-| Pride is a sin, young Knight | 1.00% | ~3,413 |
-| Your wounds… They are healing so fast! | 1.00% | ~3,413 |
+| Rumors are true | 1.00% | ~3,414 |
+| Pride is a sin, young Knight | 1.00% | ~3,414 |
+| Your wounds… They are healing so fast! | 1.00% | ~3,414 |
 | We'll be careful | 0.90% | ~3,072 |
-| Back to your senses | 0.70% | ~2,389 |
-| They tricked me | 0.70% | ~2,389 |
-| They won't last long | 0.70% | ~2,389 |
-| Bring it on! | 0.70% | ~2,389 |
+| Back to your senses | 0.70% | ~2,390 |
+| They tricked me | 0.70% | ~2,390 |
+| They won't last long | 0.70% | ~2,390 |
+| Bring it on! | 0.70% | ~2,390 |
 | We need to talk | 0.60% | ~2,048 |
 | I feel drawn to it | 0.60% | ~2,048 |
 | Here to stay | 0.50% | ~1,707 |
@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 950)
 | Something... unnatural | 0.10% | ~341 |
 | We strike as one | 0.10% | ~341 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 341,349 (Ranked 58)  
+Progressed: 341,370 (Ranked 58)  
 Completed: 7 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 7 (0.00%) (Ranked 392)
 | 2024-01-02 | 339,962 | 7 |
 | 2024-01-03 | 340,492 | 7 |
 | 2024-01-04 | 340,944 | 7 |
-| 2024-01-05 | 341,349 | 7 |
+| 2024-01-05 | 341,370 | 7 |
 ## Awards
 Max (Great Boss Battles): 78  (Ranked 403)  
 Sum: 78 (Ranked 481)  

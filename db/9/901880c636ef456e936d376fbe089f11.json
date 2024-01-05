@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 455,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 369,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
     "PcReleaseDate": "2023-04-20T13:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 146,
+  "EOS_Progressed": 147,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
@@ -739,6 +739,11 @@
       "Time": "2024-01-05T19:06:53.5932944+00:00",
       "NumProgressed": 146,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-05T21:06:07.9039917+00:00",
+      "NumProgressed": 147,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -822,7 +827,7 @@
       "Name": "It\u0027s a masterpiece!",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_CAT_SHELTER",
@@ -838,7 +843,7 @@
       "Name": "Child\u2019s Play",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_COLD_SHOULDERS",
@@ -886,7 +891,7 @@
       "Name": "One Way to Find Out",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_FIRSTLOVE",
@@ -916,9 +921,9 @@
       "ID": "ACH_GOOD_REVIEW",
       "SetID": "8h8m55b",
       "Name": "Good Review",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_GUEST_OF_HONOR",
@@ -982,15 +987,15 @@
       "Name": "Master Purloiner",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_NEW_GAME_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "Welcome to Coffee Talk",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH_NOTHING_TO_SHOW",
@@ -1012,7 +1017,7 @@
       "ID": "ACH_OVERFLOWING_WARMTH",
       "SetID": "8h8m55b",
       "Name": "\u201COverflowing Warmth: CBAW\u201D",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 5,
       "UsersEstimate": 96
     },
@@ -1054,7 +1059,7 @@
       "Name": "The Hibiscus \u0026 The Butterfly",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_TIME_SPENT_LATTEART",
@@ -1100,9 +1105,9 @@
       "ID": "ACH_UNLOCK_ALL_CHARACTER",
       "SetID": "8h8m55b",
       "Name": "We are all friends",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_UNLOCK_ALL_DRINK",
@@ -1164,7 +1169,7 @@
       "ID": "ACH_WRONG_BREW_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "Is this it?",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 74
     }
@@ -1173,14 +1178,14 @@
     {
       "ID": "8h8m55b",
       "IsBase": true,
-      "Progressed": 146,
+      "Progressed": 147,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2024-01-05T20:05:03.2463548+00:00",
+  "LastChanged_Achievements": "2024-01-05T21:06:07.9039912+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:05.1404315+00:00",
-  "LastUpdate_Ratings": "2024-01-05T20:00:21.8761203+00:00",
-  "LastUpdate_Achievements": "2024-01-05T20:05:03.2463922+00:00"
+  "LastUpdate_Ratings": "2024-01-05T21:02:24.9236097+00:00",
+  "LastUpdate_Achievements": "2024-01-05T21:06:07.9040313+00:00"
 }

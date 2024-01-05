@@ -11,7 +11,7 @@ Rating: 4.42 (Ranked 737)
 | Departure | 74.00% | ~1,954 |
 | Way of Iron | 71.00% | ~1,875 |
 | Mystery Tour | 70.00% | ~1,849 |
-| We brake for nobody | 68.00% | ~1,796 |
+| We brake for nobody | 69.00% | ~1,822 |
 | Brainstorm | 66.00% | ~1,743 |
 | Mind the Gap | 66.00% | ~1,743 |
 | Travel Company | 66.00% | ~1,743 |
@@ -61,7 +61,7 @@ Rating: 4.42 (Ranked 737)
 | United States | 0.60% | ~16 |
 | Together we stand | 0.50% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,641 (Ranked 231)  
+Progressed: 2,641 (Ranked 232)  
 Completed: 0 (0.00%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |

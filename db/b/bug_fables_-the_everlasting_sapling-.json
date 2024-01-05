@@ -2,10 +2,10 @@
   "ID": "300bfcc4364d49e7808ea4d02d6a9c5d",
   "Name": "Bug Fables -The Everlasting Sapling-",
   "ProductSlug": "bug-fables-the-everlasting-sapling-851aa9",
-  "Ranking_EOS_Progress": 483,
+  "Ranking_EOS_Progress": 482,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 435,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 427,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-04-08T00:00:00+00:00",
     "PcReleaseDate": "2022-04-08T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 111,
+  "EOS_Progressed": 112,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -269,6 +269,11 @@
       "Time": "2024-01-03T16:09:43.1643475+00:00",
       "NumProgressed": 111,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T21:10:47.3660595+00:00",
+      "NumProgressed": 112,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -318,23 +323,23 @@
       "ID": "BFT_CH2HB",
       "SetID": "7o7kd30",
       "Name": "The Guardian",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 32
     },
     {
       "ID": "BFT_CH3",
       "SetID": "7o7kd30",
       "Name": "Chapter 3 Complete",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 35
     },
     {
       "ID": "BFT_CH3HB",
       "SetID": "7o7kd30",
       "Name": "Heavy Duty",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 30,
       "UsersEstimate": 24
     },
@@ -384,7 +389,7 @@
       "Name": "All Geared Up",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "BFT_CH7",
@@ -462,17 +467,17 @@
       "ID": "BFT_MAX",
       "SetID": "7o7kd30",
       "Name": "Battle Ready",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 15
     },
     {
       "ID": "BFT_MEDAL",
       "SetID": "7o7kd30",
       "Name": "Medal Collector",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "BFT_MUSIC",
@@ -486,9 +491,9 @@
       "ID": "BFT_PLAT",
       "SetID": "7o7kd30",
       "Name": "Our job\u0027s done!",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "BFT_QUEST",
@@ -519,7 +524,7 @@
     {
       "ID": "7o7kd30",
       "IsBase": true,
-      "Progressed": 111,
+      "Progressed": 112,
       "Completed": 0
     }
   ],
@@ -527,8 +532,8 @@
   "FirstSeenRating": "2023-03-31T05:58:05.5070215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:45.7911439+00:00",
   "LastChanged": "2023-03-31T05:58:05.5070216+00:00",
-  "LastChanged_Achievements": "2024-01-05T20:09:52.1340475+00:00",
+  "LastChanged_Achievements": "2024-01-05T21:10:47.3660591+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:20:46.6433066+00:00",
-  "LastUpdate_Ratings": "2024-01-05T20:00:16.1146821+00:00",
-  "LastUpdate_Achievements": "2024-01-05T20:09:52.1340644+00:00"
+  "LastUpdate_Ratings": "2024-01-05T21:01:17.5479839+00:00",
+  "LastUpdate_Achievements": "2024-01-05T21:10:47.3661022+00:00"
 }

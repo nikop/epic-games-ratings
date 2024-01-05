@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 221,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2220,9 +2220,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16133,
+  "EOS_Progressed": 16134,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18995,6 +18995,11 @@
       "Time": "2024-01-05T20:10:11.2160019+00:00",
       "NumProgressed": 16133,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-05T21:11:08.8104796+00:00",
+      "NumProgressed": 16134,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -19700,9 +19705,9 @@
       "ID": "ACHIEVEMENT_CULTURE_DEVELOPING",
       "SetID": "9201eeb",
       "Name": "Developing Cities",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 113
     },
     {
       "ID": "ACHIEVEMENT_CULTURE_LEGENDARY",
@@ -19844,9 +19849,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_CHAMPIONS",
       "SetID": "7l38kb8",
       "Name": "Champions",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 65
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_CLERICS",
@@ -21869,21 +21874,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16133,
+      "Progressed": 16134,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16133,
+      "Progressed": 16134,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-05T15:58:51.4001301+00:00",
-  "LastChanged_Achievements": "2024-01-05T20:10:11.2160018+00:00",
+  "LastChanged_Achievements": "2024-01-05T21:11:08.8104793+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:24.5452657+00:00",
-  "LastUpdate_Ratings": "2024-01-05T19:58:55.6039575+00:00",
-  "LastUpdate_Achievements": "2024-01-05T20:10:11.2170225+00:00"
+  "LastUpdate_Ratings": "2024-01-05T20:59:35.2859281+00:00",
+  "LastUpdate_Achievements": "2024-01-05T21:11:08.8115519+00:00"
 }

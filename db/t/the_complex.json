@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 308,
   "Ranking_EOS_Completed": 116,
   "Ranking_EOS_NewPlayers": 281,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
     "PcReleaseDate": "2020-03-31T05:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 791,
+  "EOS_Progressed": 792,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.78,
   "EosHistory": [
@@ -1660,6 +1660,11 @@
       "Time": "2024-01-05T18:10:48.3947485+00:00",
       "NumProgressed": 791,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-01-05T21:10:27.1232499+00:00",
+      "NumProgressed": 792,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 20,
@@ -1759,15 +1764,15 @@
       "Name": "Falling For You",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "free_champagne",
       "SetID": "d4f4pll",
       "Name": "Free Champagne",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 388
+      "UsersEstimate": 380
     },
     {
       "ID": "kamikaze",
@@ -1775,7 +1780,7 @@
       "Name": "Kamikaze",
       "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "kindar_surprise",
@@ -1783,7 +1788,7 @@
       "Name": "Kindar Surprise",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "not_a_people_person",
@@ -1821,16 +1826,16 @@
       "ID": "tough_decision",
       "SetID": "d4f4pll",
       "Name": "Tough Decision",
-      "Percentage": 92,
+      "Percentage": 91,
       "XP": 50,
-      "UsersEstimate": 728
+      "UsersEstimate": 721
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 791,
+      "Progressed": 792,
       "Completed": 22
     }
   ],
@@ -1838,8 +1843,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2024-01-05T20:09:35.0934462+00:00",
+  "LastChanged_Achievements": "2024-01-05T21:10:27.1232494+00:00",
   "LastUpdate_AppInfo": "2023-12-30T20:57:19.0245137+00:00",
-  "LastUpdate_Ratings": "2024-01-05T20:02:27.9507616+00:00",
-  "LastUpdate_Achievements": "2024-01-05T20:09:35.093522+00:00"
+  "LastUpdate_Ratings": "2024-01-05T21:02:55.9909442+00:00",
+  "LastUpdate_Achievements": "2024-01-05T21:10:27.1232821+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 428,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 323,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
     "PcReleaseDate": "2022-10-24T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 185,
+  "EOS_Progressed": 186,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -744,6 +744,11 @@
       "Time": "2024-01-05T18:04:08.4317923+00:00",
       "NumProgressed": 185,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T21:04:02.3006284+00:00",
+      "NumProgressed": 186,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-12T07:05:28.2307151+00:00",
@@ -812,7 +817,7 @@
       "Name": "Agriculture Tycoon",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "f2",
@@ -836,7 +841,7 @@
       "Name": "City Center",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "fw2",
@@ -858,9 +863,9 @@
       "ID": "g1",
       "SetID": "b1ggf28",
       "Name": "Skilled Workers",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 89
+      "UsersEstimate": 87
     },
     {
       "ID": "g2",
@@ -876,7 +881,7 @@
       "Name": "Handcart",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "j1",
@@ -906,9 +911,9 @@
       "ID": "jg1",
       "SetID": "b1ggf28",
       "Name": "Infrastructure",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 37
     },
     {
       "ID": "jg2",
@@ -954,9 +959,9 @@
       "ID": "jz1",
       "SetID": "b1ggf28",
       "Name": "Builder",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 37
     },
     {
       "ID": "jz2",
@@ -988,7 +993,7 @@
       "Name": "Practice Makes Perfect",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "k3",
@@ -1098,9 +1103,9 @@
       "ID": "x2",
       "SetID": "b1ggf28",
       "Name": "Hard-Drinking",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 24
     },
     {
       "ID": "x3",
@@ -1163,14 +1168,14 @@
     {
       "ID": "b1ggf28",
       "IsBase": true,
-      "Progressed": 185,
+      "Progressed": 186,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-05T20:03:18.9176598+00:00",
+  "LastChanged_Achievements": "2024-01-05T21:04:02.3006281+00:00",
   "LastUpdate_AppInfo": "2024-01-03T05:57:01.0489301+00:00",
-  "LastUpdate_Ratings": "2024-01-05T20:02:48.4812447+00:00",
-  "LastUpdate_Achievements": "2024-01-05T20:03:18.917692+00:00"
+  "LastUpdate_Ratings": "2024-01-05T21:03:20.8061436+00:00",
+  "LastUpdate_Achievements": "2024-01-05T21:04:02.3006589+00:00"
 }

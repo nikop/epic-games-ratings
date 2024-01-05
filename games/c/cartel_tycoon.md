@@ -1,23 +1,23 @@
 # Cartel Tycoon
 [Store](https://store.epicgames.com/en-US/p/cartel-tycoon)  
 [View Rawdata](../../db/c/cartel_tycoon.json)  
-Rating: 4.36 (Ranked 810)  
+Rating: 4.37 (Ranked 802)  
 Number of Ratings: 101  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Our Man | 83.00% | ~789 |
-| Take-Off | 79.00% | ~751 |
-| Hokey-Pokey | 68.00% | ~647 |
-| Camellos | 53.00% | ~504 |
-| Bad Trip | 44.00% | ~418 |
-| Didn't Miss A Single One | 42.00% | ~399 |
-| That was base | 42.00% | ~399 |
-| Spread | 42.00% | ~399 |
-| Safe Pair of Hands | 34.00% | ~323 |
-| Don't Let Mom Know You're A Druglord | 30.00% | ~285 |
-| Architect of Fortunes | 24.00% | ~228 |
-| Bite the Blow | 22.00% | ~209 |
+| Our Man | 83.00% | ~791 |
+| Take-Off | 79.00% | ~753 |
+| Hokey-Pokey | 68.00% | ~648 |
+| Camellos | 53.00% | ~505 |
+| Bad Trip | 44.00% | ~419 |
+| Didn't Miss A Single One | 42.00% | ~400 |
+| That was base | 42.00% | ~400 |
+| Spread | 42.00% | ~400 |
+| Safe Pair of Hands | 34.00% | ~324 |
+| Don't Let Mom Know You're A Druglord | 29.00% | ~276 |
+| Architect of Fortunes | 24.00% | ~229 |
+| Bite the Blow | 22.00% | ~210 |
 | Pampered Life | 21.00% | ~200 |
 | Spreading Fear | 9.00% | ~86 |
 | Follow the Money | 7.00% | ~67 |
@@ -26,8 +26,8 @@ Number of Ratings: 101  (23.09.2022)
 | Iron Lady | 0.60% | ~6 |
 | Sense Of Style | 0.40% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 951 (Ranked 294)  
-Completed: 3 (0.32%) (Ranked 246)  
+Progressed: 953 (Ranked 294)  
+Completed: 3 (0.31%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -245,7 +245,7 @@ Completed: 3 (0.32%) (Ranked 246)
 | 2024-01-02 | 918 | 3 |
 | 2024-01-03 | 930 | 3 |
 | 2024-01-04 | 947 | 3 |
-| 2024-01-05 | 951 | 3 |
+| 2024-01-05 | 953 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -299,3 +299,4 @@ Completed: 3 (0.32%) (Ranked 246)
 | 2023-09-23 | 4.36 | - | 0 | 0 |
 | 2023-12-12 | 4.37 | - | 0 | 0 |
 | 2023-12-23 | 4.36 | - | 0 | 0 |
+| 2024-01-05 | 4.37 | - | 0 | 0 |

@@ -3,9 +3,9 @@
   "Name": "60 Parsecs!",
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 305,
-  "Ranking_EOS_Completed": 300,
+  "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 369,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2018-09-17T22:00:00+00:00",
@@ -1402,9 +1402,9 @@
       "ID": "Achievement_MutinyInMaking",
       "SetID": "c01p6e5",
       "Name": "Mutiny in making",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 202
     },
     {
       "ID": "Achievement_Muttnik",
@@ -1531,8 +1531,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2024-01-05T20:05:50.1450369+00:00",
+  "LastChanged_Achievements": "2024-01-05T21:07:03.7238104+00:00",
   "LastUpdate_AppInfo": "2023-12-30T18:58:36.3559417+00:00",
-  "LastUpdate_Ratings": "2024-01-05T19:57:19.6552714+00:00",
-  "LastUpdate_Achievements": "2024-01-05T20:05:50.1450717+00:00"
+  "LastUpdate_Ratings": "2024-01-05T20:57:34.7465313+00:00",
+  "LastUpdate_Achievements": "2024-01-05T21:07:03.7238457+00:00"
 }

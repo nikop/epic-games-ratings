@@ -1,7 +1,7 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 471)  
+Rating: 4.58 (Ranked 470)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -42,12 +42,12 @@ Number of Ratings: 15,086  (23.09.2022)
 | Toxic | 0.70% | ~1,697 |
 | Shadow Walker | 0.70% | ~1,697 |
 | Flesh Wound | 0.70% | ~1,697 |
-| Consecutive Curses | 0.60% | ~1,454 |
-| Just Chilling | 0.60% | ~1,454 |
-| Save Our Souls | 0.60% | ~1,454 |
-| Acid Bath | 0.60% | ~1,454 |
-| New Perspectives | 0.60% | ~1,454 |
-| Shapeshifting | 0.60% | ~1,454 |
+| Consecutive Curses | 0.60% | ~1,455 |
+| Just Chilling | 0.60% | ~1,455 |
+| Save Our Souls | 0.60% | ~1,455 |
+| Acid Bath | 0.60% | ~1,455 |
+| New Perspectives | 0.60% | ~1,455 |
+| Shapeshifting | 0.60% | ~1,455 |
 | Expensive Look | 0.60% | ~23 |
 | What Doesn't Kill You | 0.60% | ~23 |
 | Shadow Spreads | 0.50% | ~1,212 |
@@ -145,8 +145,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,416 (Ranked 72)  
-Completed: 304 (0.13%) (Ranked 295)  
+Progressed: 242,420 (Ranked 72)  
+Completed: 304 (0.13%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -405,7 +405,7 @@ Completed: 304 (0.13%) (Ranked 295)
 | 2024-01-02 | 242,247 | 303 |
 | 2024-01-03 | 242,304 | 303 |
 | 2024-01-04 | 242,358 | 304 |
-| 2024-01-05 | 242,416 | 304 |
+| 2024-01-05 | 242,420 | 304 |
 ## Awards
 Max (Quickly Understood Controls): 1,514  (Ranked 137)  
 Sum: 11,786 (Ranked 89)  

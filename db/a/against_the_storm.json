@@ -3785,9 +3785,9 @@
       "Count": 344
     }
   ],
-  "EOS_Progressed": 20215,
+  "EOS_Progressed": 20221,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 597,
+  "EOS_NewPlayers": 599,
   "EOS_NewCompleters": -2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -18560,6 +18560,11 @@
       "Time": "2024-01-05T20:06:03.4126801+00:00",
       "NumProgressed": 20215,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2024-01-05T21:07:19.4745395+00:00",
+      "NumProgressed": 20221,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -18610,9 +18615,9 @@
       "ID": "HarpyUtopia",
       "SetID": "cfbk359",
       "Name": "Harpy Utopia",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 40
     },
     {
       "ID": "HumanUtopia",
@@ -18652,7 +18657,7 @@
       "Name": "Homesick",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "WinFirstGame",
@@ -18684,7 +18689,7 @@
       "Name": "Ruined Armory",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "WinNearBandit",
@@ -18732,7 +18737,7 @@
       "Name": "Fertile Meadows",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "WinNearFishmen",
@@ -18764,7 +18769,7 @@
       "Name": "Levitating Monument",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "WinNearMines",
@@ -18780,7 +18785,7 @@
       "Name": "Monastery of the Holy Flame",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "WinNearOutpost",
@@ -18796,7 +18801,7 @@
       "Name": "Lost Colonies",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "WinNearStatue",
@@ -18820,7 +18825,7 @@
       "Name": "Corrosive Torrent",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "WinNearWatchtower",
@@ -18884,7 +18889,7 @@
       "Name": "A Real Challenge",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "WinWIthCaches",
@@ -18908,7 +18913,7 @@
       "Name": "Taking Action",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1617
+      "UsersEstimate": 1618
     },
     {
       "ID": "WinWithResolve",
@@ -18940,7 +18945,7 @@
       "Name": "Trade Baron",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "WinWithoutDeath",
@@ -18972,7 +18977,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1617
+      "UsersEstimate": 1618
     },
     {
       "ID": "WinNearFrosts",
@@ -18996,7 +19001,7 @@
       "Name": "Overgrown Library",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1617
+      "UsersEstimate": 1618
     },
     {
       "ID": "WinNearPetrified",
@@ -19028,7 +19033,7 @@
       "Name": "Untamed Wilds",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "WinWithFoxes",
@@ -19043,15 +19048,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20215,
+      "Progressed": 20221,
       "Completed": 33
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-05T19:01:40.5563958+00:00",
-  "LastChanged_Achievements": "2024-01-05T20:06:03.4126797+00:00",
+  "LastChanged_Achievements": "2024-01-05T21:07:19.474539+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:47:03.5085053+00:00",
-  "LastUpdate_Ratings": "2024-01-05T19:59:47.7470287+00:00",
-  "LastUpdate_Achievements": "2024-01-05T20:06:03.4127829+00:00"
+  "LastUpdate_Ratings": "2024-01-05T21:00:41.9806246+00:00",
+  "LastUpdate_Achievements": "2024-01-05T21:07:19.4746417+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -450,7 +450,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 992,
+  "EOS_Progressed": 997,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
@@ -3540,6 +3540,11 @@
       "Time": "2024-01-05T19:10:13.239074+00:00",
       "NumProgressed": 992,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T21:09:49.8114261+00:00",
+      "NumProgressed": 997,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3576,7 +3581,7 @@
       "Name": "Dressed For Success",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "AttackCount",
@@ -3656,7 +3661,7 @@
       "Name": "Critical Hit",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "Deepstrike",
@@ -3696,7 +3701,7 @@
       "Name": "Double Kill",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 397
+      "UsersEstimate": 399
     },
     {
       "ID": "FlameAttackKillCount",
@@ -3760,7 +3765,7 @@
       "Name": "Multi Kill",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "MultiplayerWins",
@@ -3814,9 +3819,9 @@
       "ID": "ReclaimTown",
       "SetID": "71c0n9i",
       "Name": "Don\u0027t Touch My Stuff",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 60
     },
     {
       "ID": "RepelIntoExplosiveFungi",
@@ -3832,7 +3837,7 @@
       "Name": "Sorcerous Spree",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "SwapIntoPoisonCloud",
@@ -3846,9 +3851,9 @@
       "ID": "SweepKillCount",
       "SetID": "71c0n9i",
       "Name": "Cleave",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "TownCompletion",
@@ -3856,7 +3861,7 @@
       "Name": "Landlord Extraordinaire",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "TrojanHorse",
@@ -3880,15 +3885,15 @@
       "Name": "Adept",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 456
+      "UsersEstimate": 459
     },
     {
       "ID": "WielderLevel2",
       "SetID": "71c0n9i",
       "Name": "Veteran",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 229
     },
     {
       "ID": "WielderLevel3",
@@ -3896,7 +3901,7 @@
       "Name": "Master",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "WielderLevel4",
@@ -3910,9 +3915,9 @@
       "ID": "WinBattleBeforeEnemyTurn",
       "SetID": "71c0n9i",
       "Name": "Humiliation",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 100
     },
     {
       "ID": "WinBattleWithOneUnitLeft",
@@ -3936,7 +3941,7 @@
       "Name": "Veni, Vidi, Vici",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "WinSiegeAsDefender",
@@ -3983,15 +3988,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 992,
+      "Progressed": 997,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-12-27T21:58:22.8293316+00:00",
-  "LastChanged_Achievements": "2024-01-05T20:09:04.0221221+00:00",
+  "LastChanged_Achievements": "2024-01-05T21:09:49.8114257+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:53.9356991+00:00",
-  "LastUpdate_Ratings": "2024-01-05T19:58:47.0436557+00:00",
-  "LastUpdate_Achievements": "2024-01-05T20:09:04.0222139+00:00"
+  "LastUpdate_Ratings": "2024-01-05T20:59:25.3169395+00:00",
+  "LastUpdate_Achievements": "2024-01-05T21:09:49.8114889+00:00"
 }

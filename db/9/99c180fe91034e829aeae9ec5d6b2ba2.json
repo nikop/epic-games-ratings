@@ -2,10 +2,10 @@
   "ID": "99c180fe91034e829aeae9ec5d6b2ba2",
   "Name": "Dungeons Deep",
   "ProductSlug": "dungeons-deep-e4570b",
-  "Ranking_EOS_Progress": 820,
+  "Ranking_EOS_Progress": 821,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 568,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2025-12-31T00:00:00+00:00",
     "PcReleaseDate": "2025-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-03T02:18:02.5757691+00:00",
-  "LastUpdate_Ratings": "2024-01-05T19:59:01.8758423+00:00",
-  "LastUpdate_Achievements": "2024-01-05T20:03:50.9610357+00:00"
+  "LastUpdate_Ratings": "2024-01-05T20:59:43.7686016+00:00",
+  "LastUpdate_Achievements": "2024-01-05T21:04:40.2939853+00:00"
 }

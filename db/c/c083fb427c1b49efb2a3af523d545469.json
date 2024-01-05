@@ -2,10 +2,10 @@
   "ID": "c083fb427c1b49efb2a3af523d545469",
   "Name": "Spirit of the North 2",
   "ProductSlug": "spirit-of-the-north-2-711432",
-  "Ranking_EOS_Progress": 820,
+  "Ranking_EOS_Progress": 821,
   "Ranking_EOS_Completed": 392,
-  "Ranking_EOS_NewPlayers": 568,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-04T17:57:06.8191683+00:00",
-  "LastUpdate_Ratings": "2024-01-05T20:03:05.0509201+00:00",
-  "LastUpdate_Achievements": "2024-01-05T20:05:57.5426061+00:00"
+  "LastUpdate_Ratings": "2024-01-05T21:03:43.2671691+00:00",
+  "LastUpdate_Achievements": "2024-01-05T21:07:12.487548+00:00"
 }

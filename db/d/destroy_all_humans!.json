@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 149,
   "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -305,9 +305,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 342,
+  "EOS_Progressed": 343,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 1.46,
   "EosHistory": [
@@ -1470,6 +1470,11 @@
       "Time": "2024-01-05T20:08:23.5514586+00:00",
       "NumProgressed": 342,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-05T21:09:01.392423+00:00",
+      "NumProgressed": 343,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -1482,7 +1487,7 @@
       "Name": "Fly Me to the Moon Base",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_ABILITY_ABDUCTOBEAMCOW",
@@ -1490,7 +1495,7 @@
       "Name": "Arkvoodle Doodle",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_ABILITY_DRAINVEHICLE",
@@ -1512,17 +1517,17 @@
       "ID": "ACH_ABILITY_PKBURNINGINTOHUMAN",
       "SetID": "cefn62b",
       "Name": "Transmitting From Sol-3",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_ABILITY_PKHUMANINTOHUMAN",
       "SetID": "cefn62b",
       "Name": "Yettisoned",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 196
     },
     {
       "ID": "ACH_ABILITY_PKHUMANINTOOCEAN",
@@ -1546,7 +1551,7 @@
       "Name": "I Look Up As I Walk to Takoshima",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "ACH_ABILITY_SMASHBUTTON",
@@ -1554,7 +1559,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_ABILITY_TRANSMOG",
@@ -1570,7 +1575,7 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "ACH_CHALLENGE_ABDUCTIONTHREESTAR",
@@ -1634,7 +1639,7 @@
       "Name": "Earthly Pleasures",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_COLLECT_BRAINWHILEDAMAGED",
@@ -1642,7 +1647,7 @@
       "Name": "Kaijuiced",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "ACH_COLLECT_PROBE",
@@ -1650,7 +1655,7 @@
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACH_COMBAT_EVADEBAZOOKA",
@@ -1666,7 +1671,7 @@
       "Name": "Albion Bridge Is for Falling Down",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_ENEMY_KILLROBOPREZ",
@@ -1682,7 +1687,7 @@
       "Name": "Lobster Blisque",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ACH_ENEMY_SILHOUETTE",
@@ -1698,7 +1703,7 @@
       "Name": "Re-Return of the Clone of the Invasion II-2",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_INVADE_CAPITOL",
@@ -1720,9 +1725,9 @@
       "ID": "ACH_INVADE_SANTAMODESTA",
       "SetID": "cefn62b",
       "Name": "Upgreatest",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 117
     },
     {
       "ID": "ACH_INVADE_TURNIPSEED",
@@ -1730,7 +1735,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ACH_INVADE_UNIONTOWN",
@@ -1744,9 +1749,9 @@
       "ID": "ACH_JETPACK_INTODONUT",
       "SetID": "cefn62b",
       "Name": "Toilet Break",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_MENU_FURONIGAMI",
@@ -1778,7 +1783,7 @@
       "Name": "Perfect Probulator",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -1801,15 +1806,15 @@
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 342,
+      "Progressed": 343,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2024-01-02T13:57:49.2378657+00:00",
-  "LastChanged_Achievements": "2024-01-05T20:08:23.5514584+00:00",
+  "LastChanged_Achievements": "2024-01-05T21:09:01.3924225+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:06.6677344+00:00",
-  "LastUpdate_Ratings": "2024-01-05T19:58:56.6924343+00:00",
-  "LastUpdate_Achievements": "2024-01-05T20:08:23.5515002+00:00"
+  "LastUpdate_Ratings": "2024-01-05T20:59:36.7330987+00:00",
+  "LastUpdate_Achievements": "2024-01-05T21:09:01.3924613+00:00"
 }

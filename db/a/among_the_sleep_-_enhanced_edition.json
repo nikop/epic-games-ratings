@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
     "PcReleaseDate": "2017-11-02T15:00:00+00:00",
@@ -500,9 +500,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 98259,
+  "EOS_Progressed": 98263,
   "EOS_Completed": 451,
-  "EOS_NewPlayers": 1018,
+  "EOS_NewPlayers": 1011,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -29530,6 +29530,11 @@
       "Time": "2024-01-05T20:09:06.8483329+00:00",
       "NumProgressed": 98259,
       "NumCompleted": 451
+    },
+    {
+      "Time": "2024-01-05T21:09:53.1708715+00:00",
+      "NumProgressed": 98263,
+      "NumCompleted": 451
     }
   ],
   "TotalAchievements": 10,
@@ -29605,7 +29610,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 34391
+      "UsersEstimate": 34392
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -29613,22 +29618,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 10808
+      "UsersEstimate": 10809
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 98259,
+      "Progressed": 98263,
       "Completed": 451
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-12-20T03:02:57.8561576+00:00",
-  "LastChanged_Achievements": "2024-01-05T20:09:06.8483327+00:00",
+  "LastChanged_Achievements": "2024-01-05T21:09:53.1708712+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:31.1360404+00:00",
-  "LastUpdate_Ratings": "2024-01-05T20:02:59.7914607+00:00",
-  "LastUpdate_Achievements": "2024-01-05T20:09:06.8484866+00:00"
+  "LastUpdate_Ratings": "2024-01-05T21:03:35.7441598+00:00",
+  "LastUpdate_Achievements": "2024-01-05T21:09:53.1710449+00:00"
 }

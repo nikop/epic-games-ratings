@@ -6,9 +6,9 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taking Action | 8.00% | ~1,617 |
-| Abandoned Settlement | 8.00% | ~1,617 |
-| Overgrown Library | 8.00% | ~1,617 |
+| Taking Action | 8.00% | ~1,618 |
+| Abandoned Settlement | 8.00% | ~1,618 |
+| Overgrown Library | 8.00% | ~1,618 |
 | First Real Expedition | 7.00% | ~1,415 |
 | No Deaths | 7.00% | ~1,415 |
 | Petrified Necropolis | 7.00% | ~1,415 |
@@ -22,16 +22,16 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ominous Presence | 5.00% | ~1,011 |
 | Royal Outpost | 4.00% | ~809 |
 | Watchtower | 4.00% | ~809 |
-| Homesick | 3.00% | ~606 |
-| Ruined Armory | 3.00% | ~606 |
-| Fertile Meadows | 3.00% | ~606 |
-| Levitating Monument | 3.00% | ~606 |
-| Monastery of the Holy Flame | 3.00% | ~606 |
-| Lost Colonies | 3.00% | ~606 |
-| Corrosive Torrent | 3.00% | ~606 |
-| A Real Challenge | 3.00% | ~606 |
-| Trade Baron | 3.00% | ~606 |
-| Untamed Wilds | 3.00% | ~606 |
+| Homesick | 3.00% | ~607 |
+| Ruined Armory | 3.00% | ~607 |
+| Fertile Meadows | 3.00% | ~607 |
+| Levitating Monument | 3.00% | ~607 |
+| Monastery of the Holy Flame | 3.00% | ~607 |
+| Lost Colonies | 3.00% | ~607 |
+| Corrosive Torrent | 3.00% | ~607 |
+| A Real Challenge | 3.00% | ~607 |
+| Trade Baron | 3.00% | ~607 |
+| Untamed Wilds | 3.00% | ~607 |
 | Against All Odds | 2.00% | ~404 |
 | Bandit Camp | 2.00% | ~404 |
 | Barren Lands | 2.00% | ~404 |
@@ -58,15 +58,15 @@ Number of Ratings: 1,845  (23.09.2022)
 | Prestigious Expedition | 0.40% | ~81 |
 | Human Utopia | 0.30% | ~61 |
 | Beaver Utopia | 0.20% | ~40 |
+| Harpy Utopia | 0.20% | ~40 |
 | Lizard Utopia | 0.20% | ~40 |
 | Paradise | 0.10% | ~20 |
 | Higher Needs | 0.10% | ~20 |
-| Harpy Utopia | 0.10% | ~20 |
 | The Queen's Chosen | 0.10% | ~20 |
 | Treasure | 0.10% | ~20 |
 | Ruins | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,215 (Ranked 154)  
+Progressed: 20,221 (Ranked 154)  
 Completed: 33 (0.16%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,7 +326,7 @@ Completed: 33 (0.16%) (Ranked 280)
 | 2024-01-02 | 19,991 | 33 |
 | 2024-01-03 | 20,065 | 33 |
 | 2024-01-04 | 20,143 | 33 |
-| 2024-01-05 | 20,215 | 33 |
+| 2024-01-05 | 20,221 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 448  (Ranked 230)  
 Sum: 3,337 (Ranked 176)  

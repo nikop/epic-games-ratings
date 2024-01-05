@@ -6,9 +6,9 @@
   "Ranking_Popularity": 495,
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 313,
-  "Ranking_EOS_Completed": 177,
+  "Ranking_EOS_Completed": 178,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -337,7 +337,7 @@
   ],
   "EOS_Progressed": 744,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 246,
+  "EOS_NewPlayers": 244,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.94,
   "EosHistory": [
@@ -2092,9 +2092,9 @@
       "ID": "ACH_JELLYFISHING",
       "SetID": "biiejkc",
       "Name": "Jellyfishing",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 112
     },
     {
       "ID": "ACH_JELLYFISH_JAM",
@@ -2252,9 +2252,9 @@
       "ID": "ACH_STAT_STAR_SMASHER",
       "SetID": "biiejkc",
       "Name": "Star Smasher",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_SURFS_UP",
@@ -2284,8 +2284,8 @@
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-04T21:00:59.1702575+00:00",
-  "LastChanged_Achievements": "2024-01-05T20:05:01.2775508+00:00",
+  "LastChanged_Achievements": "2024-01-05T21:06:05.4827817+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:11.8880921+00:00",
-  "LastUpdate_Ratings": "2024-01-05T20:00:24.2246779+00:00",
-  "LastUpdate_Achievements": "2024-01-05T20:05:01.2775717+00:00"
+  "LastUpdate_Ratings": "2024-01-05T21:02:27.8484859+00:00",
+  "LastUpdate_Achievements": "2024-01-05T21:06:05.4828064+00:00"
 }

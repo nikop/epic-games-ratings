@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2481,
+  "EOS_Progressed": 2483,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -4339,6 +4339,11 @@
       "Time": "2024-01-05T20:06:05.4989861+00:00",
       "NumProgressed": 2481,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-05T21:07:21.9756898+00:00",
+      "NumProgressed": 2483,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4350,7 +4355,7 @@
       "Name": "A Little Banged Up",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACHV_02",
@@ -4358,7 +4363,7 @@
       "Name": "Jailbreak",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1588
+      "UsersEstimate": 1589
     },
     {
       "ID": "ACHV_03",
@@ -4374,7 +4379,7 @@
       "Name": "Overheated",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "ACHV_05",
@@ -4382,7 +4387,7 @@
       "Name": "Studied The Blade",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "ACHV_06",
@@ -4398,7 +4403,7 @@
       "Name": "Court Martial",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "ACHV_08",
@@ -4478,7 +4483,7 @@
       "Name": "Following In Their Footsteps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACHV_18",
@@ -4494,7 +4499,7 @@
       "Name": "Defense in Depth",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACHV_20",
@@ -4518,7 +4523,7 @@
       "Name": "Offensive Defense",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "ACHV_23",
@@ -4526,7 +4531,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "ACHV_24",
@@ -4550,7 +4555,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1960
+      "UsersEstimate": 1962
     },
     {
       "ID": "ACHV_27",
@@ -4558,7 +4563,7 @@
       "Name": "High Performance",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "ACHV_28",
@@ -4614,7 +4619,7 @@
       "Name": "Shocking",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "ACHV_35",
@@ -4622,7 +4627,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "ACHV_36",
@@ -4654,7 +4659,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 1861
+      "UsersEstimate": 1862
     },
     {
       "ID": "ACHV_40",
@@ -4670,7 +4675,7 @@
       "Name": "Suited and Booted",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "ACHV_42",
@@ -4710,7 +4715,7 @@
       "Name": "Unforeseeable Consequences",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "ACHV_47",
@@ -4805,7 +4810,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2481,
+      "Progressed": 2483,
       "Completed": 13
     }
   ],
@@ -4813,8 +4818,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-29T03:00:05.8444174+00:00",
-  "LastChanged_Achievements": "2024-01-05T20:06:05.498986+00:00",
+  "LastChanged_Achievements": "2024-01-05T21:07:21.9756894+00:00",
   "LastUpdate_AppInfo": "2023-12-30T17:56:59.176771+00:00",
-  "LastUpdate_Ratings": "2024-01-05T20:00:25.0797528+00:00",
-  "LastUpdate_Achievements": "2024-01-05T20:06:05.4990428+00:00"
+  "LastUpdate_Ratings": "2024-01-05T21:02:28.8939242+00:00",
+  "LastUpdate_Achievements": "2024-01-05T21:07:21.9757608+00:00"
 }
