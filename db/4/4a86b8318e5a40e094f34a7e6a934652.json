@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 483,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -2044,9 +2044,9 @@
       "ID": "ACQUAINTANCE_EARL",
       "SetID": "aniflfk",
       "Name": "Holy Macaroni!",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 50,
-      "UsersEstimate": 435
+      "UsersEstimate": 440
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -2211,8 +2211,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2024-01-05T07:05:40.9754008+00:00",
+  "LastChanged_Achievements": "2024-01-05T08:06:55.9836221+00:00",
   "LastUpdate_AppInfo": "2024-01-03T22:57:16.910321+00:00",
-  "LastUpdate_Ratings": "2024-01-05T06:57:22.6032649+00:00",
-  "LastUpdate_Achievements": "2024-01-05T07:05:40.9754211+00:00"
+  "LastUpdate_Ratings": "2024-01-05T07:57:28.0208771+00:00",
+  "LastUpdate_Achievements": "2024-01-05T08:06:55.9836531+00:00"
 }

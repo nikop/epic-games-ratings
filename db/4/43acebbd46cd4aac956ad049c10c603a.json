@@ -289,7 +289,7 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 1266,
+  "EOS_Progressed": 1267,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
@@ -3579,6 +3579,11 @@
       "Time": "2024-01-05T07:05:05.2271923+00:00",
       "NumProgressed": 1266,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-05T08:06:10.4608444+00:00",
+      "NumProgressed": 1267,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3647,7 +3652,7 @@
       "Name": "Bridge Builder",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "ChasingTheLight",
@@ -3815,7 +3820,7 @@
       "Name": "Museum Visitor",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "NewBeginning",
@@ -3847,7 +3852,7 @@
       "Name": "Overload",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "Persistent",
@@ -4053,16 +4058,16 @@
       "ID": "YourBiggestFan",
       "SetID": "1n308hc",
       "Name": "Your Biggest Fan",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 165
     }
   ],
   "AchievementSets": [
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1266,
+      "Progressed": 1267,
       "Completed": 2
     }
   ],
@@ -4070,8 +4075,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-04T17:00:27.8001198+00:00",
-  "LastChanged_Achievements": "2024-01-05T07:05:05.227192+00:00",
+  "LastChanged_Achievements": "2024-01-05T08:06:10.4608439+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:20.1968805+00:00",
-  "LastUpdate_Ratings": "2024-01-05T07:01:01.1162443+00:00",
-  "LastUpdate_Achievements": "2024-01-05T07:05:05.2272371+00:00"
+  "LastUpdate_Ratings": "2024-01-05T08:02:14.6468781+00:00",
+  "LastUpdate_Achievements": "2024-01-05T08:06:10.460897+00:00"
 }

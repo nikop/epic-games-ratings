@@ -32,14 +32,14 @@ Rating: 4.50 (Ranked 614)
 | Seasoned | 3.00% | ~998 |
 | Side Hustle | 3.00% | ~998 |
 | Summoner | 3.00% | ~998 |
-| Collector | 2.00% | ~665 |
-| Escape Artist | 2.00% | ~665 |
-| Reckless | 2.00% | ~665 |
-| Rift Destroyer | 2.00% | ~665 |
-| Skilled | 2.00% | ~665 |
-| Stunner | 2.00% | ~665 |
-| Tobin's Prodigy | 2.00% | ~665 |
-| Welcome to the Crew | 2.00% | ~665 |
+| Collector | 2.00% | ~666 |
+| Escape Artist | 2.00% | ~666 |
+| Reckless | 2.00% | ~666 |
+| Rift Destroyer | 2.00% | ~666 |
+| Skilled | 2.00% | ~666 |
+| Stunner | 2.00% | ~666 |
+| Tobin's Prodigy | 2.00% | ~666 |
+| Welcome to the Crew | 2.00% | ~666 |
 | Diabolical | 1.00% | ~333 |
 | Fragile Panes | 1.00% | ~333 |
 | Liability | 1.00% | ~333 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 614)
 | Ultimate Defense | 0.20% | ~67 |
 | Line em' up | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,273 (Ranked 136)  
+Progressed: 33,275 (Ranked 136)  
 Completed: 71 (0.21%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 71 (0.21%) (Ranked 271)
 | 2024-01-02 | 33,151 | 71 |
 | 2024-01-03 | 33,206 | 71 |
 | 2024-01-04 | 33,258 | 71 |
-| 2024-01-05 | 33,273 | 71 |
+| 2024-01-05 | 33,275 | 71 |
 ## Awards
 Max (Great for Quick Sessions): 327  (Ranked 255)  
 Sum: 2,950 (Ranked 186)  

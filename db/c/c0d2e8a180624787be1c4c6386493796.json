@@ -4,7 +4,7 @@
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 407,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewPlayers": 299,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 263,
+  "EOS_Progressed": 264,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -1189,6 +1189,11 @@
       "Time": "2024-01-05T05:04:21.1488577+00:00",
       "NumProgressed": 263,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-05T08:05:55.4855699+00:00",
+      "NumProgressed": 264,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-21T15:02:13.5515211+00:00",
@@ -1207,9 +1212,9 @@
       "ID": "KR4_ACHIEVEMENT_ASRA_MAX",
       "SetID": "caeik3h",
       "Name": "Mistress of Shadows",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 74
     },
     {
       "ID": "KR4_ACHIEVEMENT_BARNY",
@@ -1223,9 +1228,9 @@
       "ID": "KR4_ACHIEVEMENT_BILBO_DOOR",
       "SetID": "caeik3h",
       "Name": "Far Over the Misty Mountains",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 111
     },
     {
       "ID": "KR4_ACHIEVEMENT_BLACKBROTHER",
@@ -1233,7 +1238,7 @@
       "Name": "My Watch Begins",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "KR4_ACHIEVEMENT_BLACKBURN_RETURNS",
@@ -1255,9 +1260,9 @@
       "ID": "KR4_ACHIEVEMENT_BONEHART",
       "SetID": "caeik3h",
       "Name": "Eternal Bones",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 74
     },
     {
       "ID": "KR4_ACHIEVEMENT_BUILD_TOWERS_EASY",
@@ -1273,15 +1278,15 @@
       "Name": "Gotta Go Fast",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "KR4_ACHIEVEMENT_CURSE_ME_KILTS",
       "SetID": "caeik3h",
       "Name": "Curse Me Kilts!",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 127
     },
     {
       "ID": "KR4_ACHIEVEMENT_DARKKNIGHTS",
@@ -1297,23 +1302,23 @@
       "Name": "Join The Dark Side",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "KR4_ACHIEVEMENT_DEFEAT_DWARF_KING",
       "SetID": "caeik3h",
       "Name": "I am Iron Man",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 208
+      "UsersEstimate": 211
     },
     {
       "ID": "KR4_ACHIEVEMENT_DEMOGORGON",
       "SetID": "caeik3h",
       "Name": "That\u0027s a strange flower",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 45
     },
     {
       "ID": "KR4_ACHIEVEMENT_DESTROY_MINE_CARTS",
@@ -1327,9 +1332,9 @@
       "ID": "KR4_ACHIEVEMENT_DWARVES_KINGDOM_FULL",
       "SetID": "caeik3h",
       "Name": "No More Parties In DK",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 153
     },
     {
       "ID": "KR4_ACHIEVEMENT_ELITEHARASSERS",
@@ -1353,7 +1358,7 @@
       "Name": "Feels Good To Be Back",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "KR4_ACHIEVEMENT_FIND_THE_CAPT",
@@ -1377,7 +1382,7 @@
       "Name": "Morphball",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "KR4_ACHIEVEMENT_GOBLIRANGS",
@@ -1423,9 +1428,9 @@
       "ID": "KR4_ACHIEVEMENT_HAPPY_NEW_YEAR",
       "SetID": "caeik3h",
       "Name": "Happy New Year!",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 53
     },
     {
       "ID": "KR4_ACHIEVEMENT_HEROIC",
@@ -1439,9 +1444,9 @@
       "ID": "KR4_ACHIEVEMENT_HODOR",
       "SetID": "caeik3h",
       "Name": "Hold The Door",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 90
     },
     {
       "ID": "KR4_ACHIEVEMENT_HORN",
@@ -1457,7 +1462,7 @@
       "Name": "Glory To The Hypnotoad",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "KR4_ACHIEVEMENT_ICESCULPTOR",
@@ -1465,7 +1470,7 @@
       "Name": "Ice sculptor",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "KR4_ACHIEVEMENT_INCREDIBLES",
@@ -1497,7 +1502,7 @@
       "Name": "How To Tame Your Dragon",
       "Percentage": 65,
       "XP": 50,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "KR4_ACHIEVEMENT_KERMIT",
@@ -1505,7 +1510,7 @@
       "Name": "None Of My Business",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_DWARF_ENGINEERS",
@@ -1513,7 +1518,7 @@
       "Name": "Can\u0027t Touch This",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_EASY",
@@ -1521,7 +1526,7 @@
       "Name": "No Survivors I",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_HARD",
@@ -1529,7 +1534,7 @@
       "Name": "No Survivors III",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_MEDIUM",
@@ -1537,7 +1542,7 @@
       "Name": "No Survivors II",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_WITH_VEZNAN_POWERS",
@@ -1561,7 +1566,7 @@
       "Name": "Rightful Owner",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "KR4_ACHIEVEMENT_MADAGASCAR",
@@ -1569,7 +1574,7 @@
       "Name": "You Didn\u0027t See Nothing",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "KR4_ACHIEVEMENT_MELTINGFURNACE",
@@ -1601,7 +1606,7 @@
       "Name": "Guac-a-Mole",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "KR4_ACHIEVEMENT_MOUSETHON",
@@ -1609,7 +1614,7 @@
       "Name": "Mouserthon",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "KR4_ACHIEVEMENT_OLAF",
@@ -1625,7 +1630,7 @@
       "Name": "Mischievous Demon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "KR4_ACHIEVEMENT_ORCSDEN",
@@ -1641,7 +1646,7 @@
       "Name": "Thunderstruck",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "KR4_ACHIEVEMENT_PEERLESS_DEFENDER",
@@ -1665,7 +1670,7 @@
       "Name": "Smashing Pumpkins",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "KR4_ACHIEVEMENT_ROCKETRIDERS",
@@ -1681,7 +1686,7 @@
       "Name": "Go Green or Go Home",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "KR4_ACHIEVEMENT_SHADOWARCHERS",
@@ -1695,17 +1700,17 @@
       "ID": "KR4_ACHIEVEMENT_SHAOLIN_MASTER",
       "SetID": "caeik3h",
       "Name": "Follow the Master",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 61
     },
     {
       "ID": "KR4_ACHIEVEMENT_SKIYETI",
       "SetID": "caeik3h",
       "Name": "Ski Free",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 95
     },
     {
       "ID": "KR4_ACHIEVEMENT_SLENDERMAN",
@@ -1729,7 +1734,7 @@
       "Name": "We Are Legion!",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "KR4_ACHIEVEMENT_SPIDERS",
@@ -1743,9 +1748,9 @@
       "ID": "KR4_ACHIEVEMENT_SPIRITMAUSOLEUM",
       "SetID": "caeik3h",
       "Name": "Defenders Of The Night",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 127
     },
     {
       "ID": "KR4_ACHIEVEMENT_SUPREME_DEFENDER",
@@ -1769,7 +1774,7 @@
       "Name": "The Gill-man",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "KR4_ACHIEVEMENT_THE_THING",
@@ -1809,27 +1814,27 @@
       "Name": "More Than A Legend",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     }
   ],
   "AchievementSets": [
     {
       "ID": "caeik3h",
       "IsBase": true,
-      "Progressed": 263,
+      "Progressed": 264,
       "Completed": 2
     },
     {
       "ID": "710lbm9",
       "IsBase": false,
-      "Progressed": 182,
-      "Completed": 182
+      "Progressed": 183,
+      "Completed": 183
     }
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2024-01-05T07:04:53.4289252+00:00",
+  "LastChanged_Achievements": "2024-01-05T08:05:55.4855696+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:19.7688835+00:00",
-  "LastUpdate_Ratings": "2024-01-05T06:57:50.6076528+00:00",
-  "LastUpdate_Achievements": "2024-01-05T07:04:53.4289797+00:00"
+  "LastUpdate_Ratings": "2024-01-05T07:58:07.1715619+00:00",
+  "LastUpdate_Achievements": "2024-01-05T08:05:55.4856379+00:00"
 }

@@ -2214,9 +2214,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16123,
+  "EOS_Progressed": 16124,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18954,6 +18954,11 @@
       "Time": "2024-01-05T05:10:01.5815261+00:00",
       "NumProgressed": 16123,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-05T08:11:24.8958721+00:00",
+      "NumProgressed": 16124,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -19419,9 +19424,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_GOOD",
       "SetID": "7l38kb8",
       "Name": "Good",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 145
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_GREAT",
@@ -19467,9 +19472,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_JUST",
       "SetID": "7l38kb8",
       "Name": "Just",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 129
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_KEYSTONE",
@@ -19547,9 +19552,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_PEACEMAKER",
       "SetID": "9201eeb",
       "Name": "Peacemaker",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_PIONEER",
@@ -20747,9 +20752,9 @@
       "ID": "ACHIEVEMENT_RELIGION_JUDAISM",
       "SetID": "7l38kb8",
       "Name": "Judaism",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 129
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_MANICHAEISM",
@@ -21828,21 +21833,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16123,
+      "Progressed": 16124,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16123,
+      "Progressed": 16124,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-04T06:58:24.8867619+00:00",
-  "LastChanged_Achievements": "2024-01-05T07:10:24.5345643+00:00",
+  "LastChanged_Achievements": "2024-01-05T08:11:24.8958717+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:24.5452657+00:00",
-  "LastUpdate_Ratings": "2024-01-05T06:59:09.0011927+00:00",
-  "LastUpdate_Achievements": "2024-01-05T07:10:24.5356221+00:00"
+  "LastUpdate_Ratings": "2024-01-05T07:59:49.4362938+00:00",
+  "LastUpdate_Achievements": "2024-01-05T08:11:24.8969102+00:00"
 }

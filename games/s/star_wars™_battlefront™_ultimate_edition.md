@@ -12,7 +12,7 @@
 | Great shot, kid! | 16.00% | ~418 |
 | Scrap collector | 15.00% | ~392 |
 | All right, I'll give it a try | 15.00% | ~392 |
-| Shoot first | 13.00% | ~339 |
+| Shoot first | 13.00% | ~340 |
 | The power of the Force | 12.00% | ~313 |
 | Collector | 12.00% | ~313 |
 | Together we can rule the galaxy | 12.00% | ~313 |
@@ -49,7 +49,7 @@
 | Onwards! | 1.00% | ~26 |
 | The circle is now complete | 1.00% | ~26 |
 | Disturbed tranquility | 1.00% | ~26 |
-| Playing the objective | 0.90% | ~23 |
+| Playing the objective | 0.90% | ~24 |
 | Walker defender | 0.80% | ~21 |
 | You have your moments | 0.80% | ~21 |
 | When surrounded by war... | 0.70% | ~18 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,611 (Ranked 233)  
+Progressed: 2,612 (Ranked 233)  
 Completed: 1 (0.04%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 1 (0.04%) (Ranked 347)
 | 2024-01-02 | 2,520 | 1 |
 | 2024-01-03 | 2,563 | 1 |
 | 2024-01-04 | 2,595 | 1 |
-| 2024-01-05 | 2,611 | 1 |
+| 2024-01-05 | 2,612 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

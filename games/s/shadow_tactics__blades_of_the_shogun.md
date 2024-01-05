@@ -16,16 +16,16 @@ Number of Ratings: 495  (23.09.2022)
 | Ice Ice Yuki | 8.00% | ~17,927 |
 | Stoned Ox | 8.00% | ~17,927 |
 | Yabu | 8.00% | ~17,927 |
-| Happy Planning | 7.00% | ~15,686 |
-| Jonin | 7.00% | ~15,686 |
-| Mugen Unchained | 7.00% | ~15,686 |
-| Chunin | 6.00% | ~13,445 |
-| Flying Rocks | 6.00% | ~13,445 |
-| Warzone | 6.00% | ~13,445 |
-| Happy little accidents | 5.00% | ~11,204 |
-| Okkoto | 5.00% | ~11,204 |
-| Prisoners | 5.00% | ~11,204 |
-| Too Early | 5.00% | ~11,204 |
+| Happy Planning | 7.00% | ~15,687 |
+| Jonin | 7.00% | ~15,687 |
+| Mugen Unchained | 7.00% | ~15,687 |
+| Chunin | 6.00% | ~13,446 |
+| Flying Rocks | 6.00% | ~13,446 |
+| Warzone | 6.00% | ~13,446 |
+| Happy little accidents | 5.00% | ~11,205 |
+| Okkoto | 5.00% | ~11,205 |
+| Prisoners | 5.00% | ~11,205 |
+| Too Early | 5.00% | ~11,205 |
 | Gear up | 4.00% | ~8,964 |
 | Noboru | 4.00% | ~8,964 |
 | Still Rollin' | 4.00% | ~8,964 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~224 |
 | Release the Kraken | 0.10% | ~224 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,088 (Ranked 79)  
+Progressed: 224,093 (Ranked 79)  
 Completed: 103 (0.05%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 103 (0.05%) (Ranked 335)
 | 2024-01-02 | 223,591 | 102 |
 | 2024-01-03 | 223,800 | 102 |
 | 2024-01-04 | 224,025 | 103 |
-| 2024-01-05 | 224,088 | 103 |
+| 2024-01-05 | 224,093 | 103 |
 ## Awards
 Max (Great for Beginners): 592  (Ranked 209)  
 Sum: 4,942 (Ranked 148)  

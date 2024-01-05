@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 180,
   "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
     "PcReleaseDate": "2021-04-01T07:00:00+00:00",
@@ -35,7 +35,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4860,
+  "EOS_Progressed": 4861,
   "EOS_Completed": 44,
   "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 2,
@@ -12800,6 +12800,11 @@
       "Time": "2024-01-05T07:06:17.4217321+00:00",
       "NumProgressed": 4860,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2024-01-05T08:07:42.8703816+00:00",
+      "NumProgressed": 4861,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 16,
@@ -12843,7 +12848,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 3742
+      "UsersEstimate": 3743
     },
     {
       "ID": "ach_architecture_completed",
@@ -12923,7 +12928,7 @@
       "Name": "Master",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 1895
+      "UsersEstimate": 1896
     },
     {
       "ID": "ach_tornado",
@@ -12938,7 +12943,7 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 4860,
+      "Progressed": 4861,
       "Completed": 44
     }
   ],
@@ -12946,8 +12951,8 @@
   "FirstSeenRating": "2023-12-06T23:00:44.8965761+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
   "LastChanged": "2023-12-06T23:00:44.8965762+00:00",
-  "LastChanged_Achievements": "2024-01-05T07:06:17.4217313+00:00",
+  "LastChanged_Achievements": "2024-01-05T08:07:42.8703811+00:00",
   "LastUpdate_AppInfo": "2023-12-29T23:56:56.9957208+00:00",
-  "LastUpdate_Ratings": "2024-01-05T07:01:18.1448987+00:00",
-  "LastUpdate_Achievements": "2024-01-05T07:06:17.4217941+00:00"
+  "LastUpdate_Ratings": "2024-01-05T08:02:37.8870834+00:00",
+  "LastUpdate_Achievements": "2024-01-05T08:07:42.8704505+00:00"
 }

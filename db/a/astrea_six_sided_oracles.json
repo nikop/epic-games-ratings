@@ -4,7 +4,7 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 383,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 327,
+  "EOS_Progressed": 328,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
@@ -1374,6 +1374,11 @@
       "Time": "2024-01-05T06:08:06.2963524+00:00",
       "NumProgressed": 327,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T08:09:30.9618987+00:00",
+      "NumProgressed": 328,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-22T01:45:20.357802+00:00",
@@ -1392,9 +1397,9 @@
       "ID": "AnomalyDestroyer",
       "SetID": "1jeo1g7",
       "Name": "Anomaly Destroyer",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 98
     },
     {
       "ID": "AnomalyMaster",
@@ -1474,7 +1479,7 @@
       "Name": "Astral Adventurer",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "AstralSeeker",
@@ -1482,7 +1487,7 @@
       "Name": "Astral Seeker",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "AstralTinkerer",
@@ -1674,7 +1679,7 @@
       "Name": "Heavy Purger",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "IfIHadFailed",
@@ -1736,9 +1741,9 @@
       "ID": "MeissasSavior",
       "SetID": "1jeo1g7",
       "Name": "Meissa\u0027s Savior",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 271
+      "UsersEstimate": 276
     },
     {
       "ID": "MindIlluminator",
@@ -1810,7 +1815,7 @@
       "Name": "Purification Pioneer",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "ReflexiveMind",
@@ -1898,7 +1903,7 @@
       "Name": "Stellar Haste",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "TheAbyssalTerror",
@@ -2050,7 +2055,7 @@
       "Name": "Aquarian Champion",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "AquarianHero",
@@ -2146,7 +2151,7 @@
       "Name": "Noctuan Champion",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "NoctuanHero",
@@ -2169,14 +2174,14 @@
     {
       "ID": "1jeo1g7",
       "IsBase": true,
-      "Progressed": 327,
+      "Progressed": 328,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-05T07:08:52.8919837+00:00",
+  "LastChanged_Achievements": "2024-01-05T08:09:30.9618983+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:34.5642416+00:00",
-  "LastUpdate_Ratings": "2024-01-05T06:57:57.3300534+00:00",
-  "LastUpdate_Achievements": "2024-01-05T07:08:52.8920861+00:00"
+  "LastUpdate_Ratings": "2024-01-05T07:58:15.6390668+00:00",
+  "LastUpdate_Achievements": "2024-01-05T08:09:30.9619872+00:00"
 }

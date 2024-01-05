@@ -6,11 +6,11 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 40.00% | ~7,053 |
-| Man of politics | 34.00% | ~5,995 |
-| Yet another secret | 33.00% | ~5,819 |
+| Tattletale | 40.00% | ~7,054 |
+| Man of politics | 34.00% | ~5,996 |
+| Yet another secret | 33.00% | ~5,820 |
 | Friends of sorts | 32.00% | ~5,643 |
-| Let there be darkness | 31.00% | ~5,466 |
+| Let there be darkness | 31.00% | ~5,467 |
 | End of Book One | 29.00% | ~5,114 |
 | Wannabe knight | 23.00% | ~4,056 |
 | Garden of Eden | 23.00% | ~4,056 |
@@ -20,15 +20,15 @@ Number of Ratings: 368  (23.09.2022)
 | Negotiation skills | 18.00% | ~3,174 |
 | Workers' union | 18.00% | ~3,174 |
 | End of Book Two | 18.00% | ~3,174 |
-| Everything's in order | 16.00% | ~2,821 |
+| Everything's in order | 16.00% | ~2,822 |
 | Twist of Fate | 14.00% | ~2,469 |
 | Jack was here! | 14.00% | ~2,469 |
-| Exterminator | 13.00% | ~2,292 |
+| Exterminator | 13.00% | ~2,293 |
 | Whodunnit | 12.00% | ~2,116 |
-| Good midwife | 10.00% | ~1,763 |
-| Friar Tuck | 10.00% | ~1,763 |
-| First profit | 10.00% | ~1,763 |
-| Team player | 10.00% | ~1,763 |
+| Good midwife | 10.00% | ~1,764 |
+| Friar Tuck | 10.00% | ~1,764 |
+| First profit | 10.00% | ~1,764 |
+| Team player | 10.00% | ~1,764 |
 | Skilled merchant | 9.00% | ~1,587 |
 | Brother Marcus | 9.00% | ~1,587 |
 | The oath | 9.00% | ~1,587 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~529 |
 | Boy of mystery | 2.00% | ~353 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,633 (Ranked 161)  
+Progressed: 17,635 (Ranked 161)  
 Completed: 124 (0.70%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 124 (0.70%) (Ranked 193)
 | 2024-01-02 | 17,582 | 123 |
 | 2024-01-03 | 17,600 | 124 |
 | 2024-01-04 | 17,624 | 124 |
-| 2024-01-05 | 17,633 | 124 |
+| 2024-01-05 | 17,635 | 124 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 324)  
 Sum: 200 (Ranked 417)  

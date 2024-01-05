@@ -24,9 +24,9 @@ Number of Ratings: 124  (23.09.2022)
 | Storyteller | 10.00% | ~18 |
 | Berserker | 10.00% | ~18 |
 | Alb | 8.00% | ~14 |
+| Hunter | 7.00% | ~13 |
 | Banker | 6.00% | ~11 |
 | Treasure Hunter | 6.00% | ~11 |
-| Hunter | 6.00% | ~11 |
 | Lover | 6.00% | ~11 |
 | Beam Me Up | 5.00% | ~9 |
 | Hotshot | 5.00% | ~9 |

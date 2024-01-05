@@ -4,7 +4,7 @@
   "ProductSlug": "endlessrunner-00119d",
   "Ranking_EOS_Progress": 755,
   "Ranking_EOS_Completed": 1,
-  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewPlayers": 563,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-12-02T00:00:00+00:00",
@@ -93,8 +93,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-24T20:02:24.32066+00:00",
-  "LastChanged_Achievements": "2024-01-05T07:07:02.7395836+00:00",
+  "LastChanged_Achievements": "2024-01-05T08:08:40.1284004+00:00",
   "LastUpdate_AppInfo": "2024-01-01T02:57:07.1638071+00:00",
-  "LastUpdate_Ratings": "2024-01-05T06:59:57.9669593+00:00",
-  "LastUpdate_Achievements": "2024-01-05T07:07:02.7395899+00:00"
+  "LastUpdate_Ratings": "2024-01-05T08:00:56.3255364+00:00",
+  "LastUpdate_Achievements": "2024-01-05T08:08:40.128406+00:00"
 }

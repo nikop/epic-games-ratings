@@ -12,28 +12,28 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 1.00% | ~161 |
 | Play a Single Player Game | 1.00% | ~161 |
 | Architect | 0.90% | ~145 |
+| Good | 0.90% | ~145 |
 | Mason | 0.90% | ~145 |
 | Strong | 0.90% | ~145 |
 | Hanging Gardens | 0.90% | ~145 |
 | Able | 0.80% | ~129 |
-| Good | 0.80% | ~129 |
+| Just | 0.80% | ~129 |
 | Keystone | 0.80% | ~129 |
 | Learned | 0.80% | ~129 |
 | Noble | 0.80% | ~129 |
 | Pioneer | 0.80% | ~129 |
 | Oracle | 0.80% | ~129 |
+| Judaism | 0.80% | ~129 |
 | Trade Caravan | 0.80% | ~129 |
 | Ambitious | 0.70% | ~113 |
 | Brilliant | 0.70% | ~113 |
 | Enlightened | 0.70% | ~113 |
 | Glorious | 0.70% | ~113 |
-| Just | 0.70% | ~113 |
 | Warrior | 0.70% | ~113 |
 | Developing Cities | 0.70% | ~113 |
 | Strong Cities | 0.70% | ~113 |
 | Pyramids | 0.70% | ~113 |
 | Learn to Play 1 | 0.70% | ~113 |
-| Judaism | 0.70% | ~113 |
 | Babylonian Paganism | 0.70% | ~113 |
 | Greek Paganism | 0.70% | ~113 |
 | Naming Landmarks | 0.70% | ~113 |
@@ -98,6 +98,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Devout | 0.20% | ~32 |
 | Invincible | 0.20% | ~32 |
 | Lion | 0.20% | ~32 |
+| Peacemaker | 0.20% | ~32 |
 | Strong Difficulty | 0.20% | ~32 |
 | Clerics | 0.20% | ~32 |
 | Hunters | 0.20% | ~32 |
@@ -175,7 +176,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Destroyer | 0.10% | ~16 |
 | Holy | 0.10% | ~16 |
 | Old | 0.10% | ~16 |
-| Peacemaker | 0.10% | ~16 |
 | White Death | 0.10% | ~16 |
 | Via Recta Souk in Damascus | 0.10% | ~16 |
 | Glorious Difficulty | 0.10% | ~16 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,123 (Ranked 167)  
+Progressed: 16,124 (Ranked 167)  
 Completed: 5 (0.03%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -625,7 +625,7 @@ Completed: 5 (0.03%) (Ranked 352)
 | 2024-01-02 | 16,090 | 5 |
 | 2024-01-03 | 16,108 | 5 |
 | 2024-01-04 | 16,120 | 5 |
-| 2024-01-05 | 16,123 | 5 |
+| 2024-01-05 | 16,124 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 283)  
 Sum: 1,913 (Ranked 221)  

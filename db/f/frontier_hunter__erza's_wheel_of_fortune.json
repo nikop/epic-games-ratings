@@ -43,9 +43,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 712,
+  "EOS_Progressed": 713,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -2473,6 +2473,11 @@
       "Time": "2024-01-05T05:09:10.9901824+00:00",
       "NumProgressed": 712,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-05T08:10:16.9298846+00:00",
+      "NumProgressed": 713,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -2484,7 +2489,7 @@
       "Name": "Travel Streamer",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -2572,7 +2577,7 @@
       "Name": "Training Simulation",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -2596,7 +2601,7 @@
       "Name": "Beginner Cook",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -2620,7 +2625,7 @@
       "Name": "Beginner Artificer",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -2636,7 +2641,7 @@
       "Name": "Fashion Connoisseur",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -2724,7 +2729,7 @@
       "Name": "Silver Moon Wolf King Challenge",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -2738,9 +2743,9 @@
       "ID": "ACHIEVEMENT_4",
       "SetID": "7pimpda",
       "Name": "Storm Traveller",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 427
+      "UsersEstimate": 421
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -2804,7 +2809,7 @@
       "Name": "Wolf King Killer",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -2812,7 +2817,7 @@
       "Name": "Flower Thief",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -2836,14 +2841,14 @@
       "Name": "Handyman",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 712,
+      "Progressed": 713,
       "Completed": 3
     }
   ],
@@ -2851,8 +2856,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2024-01-04T13:01:27.5517957+00:00",
-  "LastChanged_Achievements": "2024-01-05T07:09:29.3112717+00:00",
+  "LastChanged_Achievements": "2024-01-05T08:10:16.9298844+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:57:39.5136135+00:00",
-  "LastUpdate_Ratings": "2024-01-05T06:58:29.0827947+00:00",
-  "LastUpdate_Achievements": "2024-01-05T07:09:29.3113237+00:00"
+  "LastUpdate_Ratings": "2024-01-05T07:58:55.3802453+00:00",
+  "LastUpdate_Achievements": "2024-01-05T08:10:16.9299349+00:00"
 }

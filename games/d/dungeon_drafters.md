@@ -9,14 +9,14 @@
 | Shine! | 32.00% | ~43 |
 | Friend! | 30.00% | ~40 |
 | Uncut Gem | 28.00% | ~38 |
-| Clear as Water | 26.00% | ~35 |
-| Setting Off | 23.00% | ~31 |
+| Clear as Water | 27.00% | ~36 |
+| Setting Off | 24.00% | ~32 |
 | Card Collector | 23.00% | ~31 |
 | Riddlesolver | 20.00% | ~27 |
-| Dungeon Mastery | 18.00% | ~24 |
-| The Steed | 8.00% | ~11 |
-| A Strange Proposition | 8.00% | ~11 |
-| Card Completionist | 7.00% | ~9 |
+| Dungeon Mastery | 19.00% | ~26 |
+| The Steed | 9.00% | ~12 |
+| A Strange Proposition | 9.00% | ~12 |
+| Card Completionist | 8.00% | ~11 |
 | Braving Miasma | 6.00% | ~8 |
 | No Stone Unturned | 6.00% | ~8 |
 | The Bodyguard | 5.00% | ~7 |

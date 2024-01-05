@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18242,
+  "EOS_Progressed": 18244,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 536,
+  "EOS_NewPlayers": 538,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -16325,6 +16325,11 @@
       "Time": "2024-01-05T07:05:35.4245204+00:00",
       "NumProgressed": 18242,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-05T08:06:48.7785412+00:00",
+      "NumProgressed": 18244,
+      "NumCompleted": 58
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16457,7 +16462,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1459
+      "UsersEstimate": 1460
     },
     {
       "ID": "24",
@@ -16545,7 +16550,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2371
+      "UsersEstimate": 2372
     },
     {
       "ID": "7",
@@ -16616,22 +16621,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18242,
+      "Progressed": 18244,
       "Completed": 58
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4196,
-      "Completed": 1190
+      "Progressed": 4198,
+      "Completed": 1192
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-12-31T23:58:17.8612142+00:00",
-  "LastChanged_Achievements": "2024-01-05T07:05:35.42452+00:00",
+  "LastChanged_Achievements": "2024-01-05T08:06:48.7785411+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:01.3975299+00:00",
-  "LastUpdate_Ratings": "2024-01-05T07:01:07.7461417+00:00",
-  "LastUpdate_Achievements": "2024-01-05T07:05:35.4246346+00:00"
+  "LastUpdate_Ratings": "2024-01-05T08:02:23.7541206+00:00",
+  "LastUpdate_Achievements": "2024-01-05T08:06:48.7786514+00:00"
 }

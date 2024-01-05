@@ -409,9 +409,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2730,
+  "EOS_Progressed": 2732,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 568,
+  "EOS_NewPlayers": 567,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -4454,6 +4454,11 @@
       "Time": "2024-01-05T07:10:06.174826+00:00",
       "NumProgressed": 2730,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-05T08:11:03.0967299+00:00",
+      "NumProgressed": 2732,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -4466,7 +4471,7 @@
       "Name": "Unforeseen",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 2402
+      "UsersEstimate": 2404
     },
     {
       "ID": "achievement_10",
@@ -4546,7 +4551,7 @@
       "Name": "Socialite",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "achievement_2",
@@ -4554,7 +4559,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 2211
+      "UsersEstimate": 2213
     },
     {
       "ID": "achievement_20",
@@ -4610,7 +4615,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1884
+      "UsersEstimate": 1885
     },
     {
       "ID": "achievement_36",
@@ -4618,7 +4623,7 @@
       "Name": "Armsman",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "achievement_37",
@@ -4642,7 +4647,7 @@
       "Name": "No More Names",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1420
+      "UsersEstimate": 1421
     },
     {
       "ID": "achievement_41",
@@ -4674,7 +4679,7 @@
       "Name": "Periapt Cerulean",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "achievement_45",
@@ -4698,7 +4703,7 @@
       "Name": "Enlisted",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 2020
+      "UsersEstimate": 2022
     },
     {
       "ID": "achievement_49",
@@ -4714,7 +4719,7 @@
       "Name": "Initiate",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "achievement_50",
@@ -4762,7 +4767,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 901
+      "UsersEstimate": 902
     },
     {
       "ID": "achievement_60",
@@ -4818,7 +4823,7 @@
       "Name": "Gravity-Challenged Rocks",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "achievement_8",
@@ -4841,7 +4846,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 2730,
+      "Progressed": 2732,
       "Completed": 3
     }
   ],
@@ -4849,8 +4854,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-04T16:59:40.3998354+00:00",
-  "LastChanged_Achievements": "2024-01-05T07:10:06.1748254+00:00",
+  "LastChanged_Achievements": "2024-01-05T08:11:03.0967295+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:42.4007279+00:00",
-  "LastUpdate_Ratings": "2024-01-05T07:00:08.623523+00:00",
-  "LastUpdate_Achievements": "2024-01-05T07:10:06.17488+00:00"
+  "LastUpdate_Ratings": "2024-01-05T08:01:08.9335083+00:00",
+  "LastUpdate_Achievements": "2024-01-05T08:11:03.096804+00:00"
 }

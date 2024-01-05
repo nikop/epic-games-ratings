@@ -5,13 +5,13 @@ Rating: 4.42 (Ranked 735)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 13.00% | ~50,074 |
-| IT MAKES BOOM! | 8.00% | ~30,814 |
-| EXTRA BOOST | 6.00% | ~23,111 |
-| PROTECTED | 5.00% | ~19,259 |
-| HERE ARE SOME BARE NECESSITIES | 4.00% | ~15,407 |
-| PRO | 4.00% | ~15,407 |
-| AGGRESSIVE RACER | 3.00% | ~11,555 |
+| ROOKIE | 13.00% | ~50,079 |
+| IT MAKES BOOM! | 8.00% | ~30,818 |
+| EXTRA BOOST | 6.00% | ~23,114 |
+| PROTECTED | 5.00% | ~19,261 |
+| HERE ARE SOME BARE NECESSITIES | 4.00% | ~15,409 |
+| PRO | 4.00% | ~15,409 |
+| AGGRESSIVE RACER | 3.00% | ~11,557 |
 | IT'S A LONG WAY TO THE TOP | 2.00% | ~7,704 |
 | TRAINING HARD | 2.00% | ~7,704 |
 | BE OUR GUEST | 2.00% | ~7,704 |
@@ -25,12 +25,12 @@ Rating: 4.42 (Ranked 735)
 | LEGENDARY HERO | 1.00% | ~3,852 |
 | ACE BRAWLER | 0.90% | ~3,467 |
 | THE EYE OF THE HUNTER | 0.90% | ~3,467 |
-| EXPERIENCED CREW | 0.80% | ~3,081 |
-| FRAMED! | 0.70% | ~2,696 |
+| EXPERIENCED CREW | 0.80% | ~3,082 |
+| FRAMED! | 0.70% | ~2,697 |
 | PERFECTLY POISED | 0.60% | ~2,311 |
 | ACE TRICKSTER | 0.60% | ~2,311 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 385,181 (Ranked 52)  
+Progressed: 385,225 (Ranked 52)  
 Completed: 1,447 (0.38%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,15 +286,15 @@ Completed: 1,447 (0.38%) (Ranked 239)
 | 2024-01-02 | 381,442 | 1,405 |
 | 2024-01-03 | 382,781 | 1,420 |
 | 2024-01-04 | 384,509 | 1,441 |
-| 2024-01-05 | 385,181 | 1,447 |
+| 2024-01-05 | 385,225 | 1,447 |
 ## Awards
 Max (Great for Beginners): 173  (Ranked 316)  
-Sum: 1,119 (Ranked 261)  
+Sum: 1,121 (Ranked 261)  
 Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 173 |
-| This game is Great for Quick Sessions | 153 |
+| This game is Great for Quick Sessions | 155 |
 | This game has Diverse Characters | 123 |
 | This game has a Competitive Community | 100 |
 | This game has Playful Visuals | 91 |
@@ -404,4 +404,4 @@ Diff (max vs sum): 55
 | 2024-01-02 | 4.42 | 165 | 1,092 |
 | 2024-01-03 | 4.42 | 167 | 1,101 |
 | 2024-01-04 | 4.42 | 173 | 1,116 |
-| 2024-01-05 | 4.42 | 173 | 1,119 |
+| 2024-01-05 | 4.42 | 173 | 1,121 |

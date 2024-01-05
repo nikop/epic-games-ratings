@@ -249,7 +249,7 @@
   "Tags": [],
   "EOS_Progressed": 8871,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9794,9 +9794,9 @@
       "ID": "COLLECT_CRITTERS",
       "SetID": "9eia0f5",
       "Name": "Got to Catch Them All",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 53
     },
     {
       "ID": "COLLECT_FISH",
@@ -10081,8 +10081,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2024-01-04T01:49:56.9201089+00:00",
-  "LastChanged_Achievements": "2024-01-05T07:10:18.5531328+00:00",
+  "LastChanged_Achievements": "2024-01-05T08:11:17.6870624+00:00",
   "LastUpdate_AppInfo": "2023-12-29T11:57:18.9799571+00:00",
-  "LastUpdate_Ratings": "2024-01-05T07:03:32.2347437+00:00",
-  "LastUpdate_Achievements": "2024-01-05T07:10:18.5532123+00:00"
+  "LastUpdate_Ratings": "2024-01-05T08:04:05.2982728+00:00",
+  "LastUpdate_Achievements": "2024-01-05T08:11:17.6871374+00:00"
 }

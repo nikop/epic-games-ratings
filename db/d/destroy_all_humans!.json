@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 381,
   "Ranking_EOS_Completed": 147,
   "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -1472,9 +1472,9 @@
       "ID": "ACH_ABILITY_PKBURNINGINTOHUMAN",
       "SetID": "cefn62b",
       "Name": "Transmitting From Sol-3",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_ABILITY_PKHUMANINTOHUMAN",
@@ -1504,9 +1504,9 @@
       "ID": "ACH_ABILITY_SCANINHOLOBOB",
       "SetID": "cefn62b",
       "Name": "I Look Up As I Walk to Takoshima",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_ABILITY_SMASHBUTTON",
@@ -1688,9 +1688,9 @@
       "ID": "ACH_INVADE_TURNIPSEED",
       "SetID": "cefn62b",
       "Name": "Shop Til They Drop",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 246
     },
     {
       "ID": "ACH_INVADE_UNIONTOWN",
@@ -1768,8 +1768,8 @@
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2024-01-02T13:57:49.2378657+00:00",
-  "LastChanged_Achievements": "2024-01-05T07:08:36.9411528+00:00",
+  "LastChanged_Achievements": "2024-01-05T08:09:10.4944233+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:06.6677344+00:00",
-  "LastUpdate_Ratings": "2024-01-05T06:59:10.1522996+00:00",
-  "LastUpdate_Achievements": "2024-01-05T07:08:36.9411848+00:00"
+  "LastUpdate_Ratings": "2024-01-05T07:59:51.3849226+00:00",
+  "LastUpdate_Achievements": "2024-01-05T08:09:10.4944561+00:00"
 }

@@ -6,11 +6,11 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shop Til They Drop | 73.00% | ~242 |
+| Shop Til They Drop | 74.00% | ~246 |
 | Kaijuiced | 70.00% | ~232 |
 | Lie Back and Think of Albion | 64.00% | ~212 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 63.00% | ~209 |
-| I Look Up As I Walk to Takoshima | 59.00% | ~196 |
+| I Look Up As I Walk to Takoshima | 60.00% | ~199 |
 | Yettisoned | 58.00% | ~193 |
 | Pimp My Raid | 55.00% | ~183 |
 | Perfect Probulator | 55.00% | ~183 |
@@ -41,8 +41,8 @@ Number of Ratings: 85  (23.09.2022)
 | Arty Facts | 9.00% | ~30 |
 | Cult Following | 6.00% | ~20 |
 | Path of the Furon | 6.00% | ~20 |
+| Transmitting From Sol-3 | 4.00% | ~13 |
 | To Russia With Love | 4.00% | ~13 |
-| Transmitting From Sol-3 | 3.00% | ~10 |
 | Steezy Down the Spine | 2.00% | ~7 |
 | Toilet Break | 2.00% | ~7 |
 | Against All Odds | 2.00% | ~7 |

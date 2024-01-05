@@ -294,7 +294,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2474,
+  "EOS_Progressed": 2475,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
@@ -4314,6 +4314,11 @@
       "Time": "2024-01-05T05:05:34.8406397+00:00",
       "NumProgressed": 2474,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-05T08:07:38.0975555+00:00",
+      "NumProgressed": 2475,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4333,7 +4338,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1608
+      "UsersEstimate": 1609
     },
     {
       "ID": "ACHV_03",
@@ -4421,7 +4426,7 @@
       "Name": "Own Medicine",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACHV_14",
@@ -4445,7 +4450,7 @@
       "Name": "It Lives! It Sniffs! It Conquers!",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACHV_17",
@@ -4485,7 +4490,7 @@
       "Name": "Stimulating The Local Economy",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "ACHV_22",
@@ -4501,7 +4506,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 915
+      "UsersEstimate": 916
     },
     {
       "ID": "ACHV_24",
@@ -4525,7 +4530,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1954
+      "UsersEstimate": 1955
     },
     {
       "ID": "ACHV_27",
@@ -4541,7 +4546,7 @@
       "Name": "Clean Cut",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "ACHV_29",
@@ -4549,7 +4554,7 @@
       "Name": "Triplets",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "ACHV_30",
@@ -4645,7 +4650,7 @@
       "Name": "Suited and Booted",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 915
+      "UsersEstimate": 916
     },
     {
       "ID": "ACHV_42",
@@ -4709,7 +4714,7 @@
       "Name": "Box Office Smash",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACHV_50",
@@ -4741,7 +4746,7 @@
       "Name": "Going Postal",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACHV_54",
@@ -4773,14 +4778,14 @@
       "Name": "Loot, Pillage \u0026 Craft",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     }
   ],
   "AchievementSets": [
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2474,
+      "Progressed": 2475,
       "Completed": 13
     }
   ],
@@ -4788,8 +4793,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-12-29T03:00:05.8444174+00:00",
-  "LastChanged_Achievements": "2024-01-05T07:06:13.8116565+00:00",
+  "LastChanged_Achievements": "2024-01-05T08:07:38.0975551+00:00",
   "LastUpdate_AppInfo": "2023-12-30T17:56:59.176771+00:00",
-  "LastUpdate_Ratings": "2024-01-05T07:00:44.0553497+00:00",
-  "LastUpdate_Achievements": "2024-01-05T07:06:13.8117291+00:00"
+  "LastUpdate_Ratings": "2024-01-05T08:01:52.9983264+00:00",
+  "LastUpdate_Achievements": "2024-01-05T08:07:38.0976474+00:00"
 }

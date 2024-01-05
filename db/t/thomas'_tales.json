@@ -4,7 +4,7 @@
   "ProductSlug": "thomas-tales-912c23",
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewPlayers": 563,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-04-26T15:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-16T20:02:03.7236062+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:12.9325728+00:00",
-  "LastUpdate_Ratings": "2024-01-05T06:59:40.5130182+00:00",
-  "LastUpdate_Achievements": "2024-01-05T07:05:09.1305361+00:00"
+  "LastUpdate_Ratings": "2024-01-05T08:00:32.1624972+00:00",
+  "LastUpdate_Achievements": "2024-01-05T08:06:15.3495794+00:00"
 }

@@ -6,40 +6,40 @@ Rating: 3.75 (Ranked 1,083)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I can do a thing or two | 60.00% | ~377 |
-| Buckle up | 58.00% | ~364 |
-| Quick charge | 58.00% | ~364 |
+| Buckle up | 58.00% | ~365 |
+| Quick charge | 58.00% | ~365 |
 | Hands up! | 52.00% | ~327 |
 | Now you know | 52.00% | ~327 |
 | Short circuit | 52.00% | ~327 |
 | Curious | 42.00% | ~264 |
 | Everybody lies | 36.00% | ~226 |
-| Trick or Treat? | 23.00% | ~144 |
+| Trick or Treat? | 23.00% | ~145 |
+| Sysadmin | 22.00% | ~138 |
 | There is another way | 22.00% | ~138 |
-| Sysadmin | 21.00% | ~132 |
 | Every little helps | 20.00% | ~126 |
-| Annoying | 19.00% | ~119 |
-| Hacker | 19.00% | ~119 |
-| He is just a child | 19.00% | ~119 |
-| The Walking Robot Among Us | 19.00% | ~119 |
-| Uncertain | 18.00% | ~113 |
+| Annoying | 19.00% | ~120 |
+| Hacker | 19.00% | ~120 |
+| He is just a child | 19.00% | ~120 |
+| The Walking Robot Among Us | 19.00% | ~120 |
 | Goody | 17.00% | ~107 |
 | Not what it seems | 17.00% | ~107 |
 | Please oh pleeease! | 17.00% | ~107 |
-| Ace | 16.00% | ~100 |
-| Concrete painting | 16.00% | ~100 |
-| Found it! | 16.00% | ~100 |
-| Hipster | 16.00% | ~100 |
-| That's much better! | 16.00% | ~100 |
+| Uncertain | 17.00% | ~107 |
+| Ace | 16.00% | ~101 |
+| Concrete painting | 16.00% | ~101 |
+| Found it! | 16.00% | ~101 |
+| Hipster | 16.00% | ~101 |
+| That's much better! | 16.00% | ~101 |
 | Not as clumsy or random | 13.00% | ~82 |
-| Blade Runner | 11.00% | ~69 |
+| Blade Runner | 10.00% | ~63 |
 | Perfect hearing | 9.00% | ~57 |
 | Meticulous | 7.00% | ~44 |
 | Lucky dog | 5.00% | ~31 |
 | Accurate | 5.00% | ~31 |
 | Silent | 4.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 628 (Ranked 333)  
-Completed: 19 (3.03%) (Ranked 107)  
+Progressed: 629 (Ranked 333)  
+Completed: 19 (3.02%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -182,7 +182,7 @@ Completed: 19 (3.03%) (Ranked 107)
 | 2023-12-31 | 624 | 19 |
 | 2024-01-02 | 626 | 19 |
 | 2024-01-03 | 627 | 19 |
-| 2024-01-05 | 628 | 19 |
+| 2024-01-05 | 629 | 19 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

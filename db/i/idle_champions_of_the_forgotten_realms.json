@@ -9281,18 +9281,24 @@
       "Rating": 4.06,
       "NumberOfAwards": 33320,
       "NumberOfAwardsMax": 5740
+    },
+    {
+      "Time": "2024-01-05T08:00:50.5128073+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33330,
+      "NumberOfAwardsMax": 5750
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33320,
-  "NumberOfAwardsMax": 5740,
+  "NumberOfAwards": 33330,
+  "NumberOfAwardsMax": 5750,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 5740
+      "Count": 5750
     },
     {
       "Text": "This game has Diverse Characters",
@@ -9331,9 +9337,9 @@
       "Count": 3624
     }
   ],
-  "EOS_Progressed": 251321,
+  "EOS_Progressed": 251338,
   "EOS_Completed": 2593,
-  "EOS_NewPlayers": 4778,
+  "EOS_NewPlayers": 4779,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -38751,6 +38757,11 @@
       "Time": "2024-01-05T07:10:25.619044+00:00",
       "NumProgressed": 251321,
       "NumCompleted": 2593
+    },
+    {
+      "Time": "2024-01-05T08:11:26.2362436+00:00",
+      "NumProgressed": 251338,
+      "NumCompleted": 2593
     }
   ],
   "TotalAchievements": 546,
@@ -40434,7 +40445,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5026
+      "UsersEstimate": 5027
     },
     {
       "ID": "objective_completed_34",
@@ -43129,21 +43140,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 217595,
+      "Progressed": 217612,
       "Completed": 4135
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 251321,
+      "Progressed": 251338,
       "Completed": 2593
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-05T05:59:21.5037602+00:00",
-  "LastChanged_Achievements": "2024-01-05T07:10:25.6190434+00:00",
+  "LastChanged": "2024-01-05T08:00:50.5128071+00:00",
+  "LastChanged_Achievements": "2024-01-05T08:11:26.2362429+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:15.0811293+00:00",
-  "LastUpdate_Ratings": "2024-01-05T06:59:54.3714367+00:00",
-  "LastUpdate_Achievements": "2024-01-05T07:10:25.6216165+00:00"
+  "LastUpdate_Ratings": "2024-01-05T08:00:50.5128077+00:00",
+  "LastUpdate_Achievements": "2024-01-05T08:11:26.2387243+00:00"
 }

@@ -23,9 +23,9 @@ Rating: 4.71 (Ranked 202)
 | Trap Master | 56.00% | ~404 |
 | Minions, Minions! | 55.00% | ~397 |
 | Hard Work | 54.00% | ~390 |
-| The Big Eaty | 53.00% | ~383 |
+| The Big Eaty | 54.00% | ~390 |
+| “… like son” | 51.00% | ~368 |
 | YOU SHALL NOT PASS! | 50.00% | ~361 |
-| “… like son” | 50.00% | ~361 |
 | The Cathedral of Light | 47.00% | ~339 |
 | Shame! Shame! Shame! | 47.00% | ~339 |
 | Pure Dynamite! | 45.00% | ~325 |
@@ -67,7 +67,7 @@ Rating: 4.71 (Ranked 202)
 | No Mana, No Cry | 10.00% | ~72 |
 | I Don't Need Any Help | 9.00% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 722 (Ranked 314)  
+Progressed: 722 (Ranked 315)  
 Completed: 28 (3.88%) (Ranked 92)  
 ## EOS Players History
 | Date | Progressed | Completed |

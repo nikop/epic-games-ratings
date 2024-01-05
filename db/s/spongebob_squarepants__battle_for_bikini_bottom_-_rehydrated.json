@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -335,7 +335,7 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 722,
+  "EOS_Progressed": 723,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 244,
   "EOS_NewCompleters": 4,
@@ -1955,6 +1955,11 @@
       "Time": "2024-01-05T05:04:37.2851918+00:00",
       "NumProgressed": 722,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-05T08:06:17.8660046+00:00",
+      "NumProgressed": 723,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -2167,7 +2172,7 @@
       "Name": "Sock Getter",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_STAT_SPATULA_SEEKER",
@@ -2222,15 +2227,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 722,
+      "Progressed": 723,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-04T21:00:59.1702575+00:00",
-  "LastChanged_Achievements": "2024-01-05T07:05:11.0199781+00:00",
+  "LastChanged_Achievements": "2024-01-05T08:06:17.8660043+00:00",
   "LastUpdate_AppInfo": "2023-12-30T15:57:11.8880921+00:00",
-  "LastUpdate_Ratings": "2024-01-05T07:00:43.1868833+00:00",
-  "LastUpdate_Achievements": "2024-01-05T07:05:11.0200013+00:00"
+  "LastUpdate_Ratings": "2024-01-05T08:01:51.8784609+00:00",
+  "LastUpdate_Achievements": "2024-01-05T08:06:17.8660409+00:00"
 }

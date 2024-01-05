@@ -3,11 +3,11 @@
   "Name": "Fallout: A Post Nuclear Role Playing Game",
   "ProductSlug": "fallout",
   "Ranking_Rating": 398,
-  "Ranking_Popularity": 357,
-  "Ranking_PopularitySum": 457,
+  "Ranking_Popularity": 355,
+  "Ranking_PopularitySum": 456,
   "Ranking_EOS_Progress": 820,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewPlayers": 563,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -569,18 +569,24 @@
       "Rating": 4.61,
       "NumberOfAwards": 115,
       "NumberOfAwardsMax": 115
+    },
+    {
+      "Time": "2024-01-05T08:03:51.6501989+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 116,
+      "NumberOfAwardsMax": 116
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 115,
-  "NumberOfAwardsMax": 115,
+  "NumberOfAwards": 116,
+  "NumberOfAwardsMax": 116,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 115
+      "Count": 116
     }
   ],
   "EOS_Progressed": 0,
@@ -595,8 +601,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-20T22:02:33.2875741+00:00",
   "FirstSeenRating": "2022-10-28T01:33:28.7432563+00:00",
-  "LastChanged": "2023-12-31T09:02:44.4384469+00:00",
+  "LastChanged": "2024-01-05T08:03:51.6501987+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:28.0797006+00:00",
-  "LastUpdate_Ratings": "2024-01-05T07:03:21.8958342+00:00",
-  "LastUpdate_Achievements": "2024-01-05T07:03:59.3839133+00:00"
+  "LastUpdate_Ratings": "2024-01-05T08:03:51.6501993+00:00",
+  "LastUpdate_Achievements": "2024-01-05T08:04:42.9071224+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -717,9 +717,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6868,
+  "EOS_Progressed": 6872,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 428,
+  "EOS_NewPlayers": 430,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10397,6 +10397,11 @@
       "Time": "2024-01-05T07:04:01.7520593+00:00",
       "NumProgressed": 6868,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-05T08:04:45.9554249+00:00",
+      "NumProgressed": 6872,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10408,7 +10413,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "10",
@@ -10528,7 +10533,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "24",
@@ -10544,7 +10549,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "26",
@@ -10600,7 +10605,7 @@
       "Name": "Magical Synergy",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "32",
@@ -10680,7 +10685,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "41",
@@ -10872,7 +10877,7 @@
       "Name": "But this one is mine",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "60",
@@ -10887,13 +10892,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 6868,
+      "Progressed": 6872,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 6868,
+      "Progressed": 6872,
       "Completed": 7
     }
   ],
@@ -10901,8 +10906,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-03T13:04:27.6429549+00:00",
-  "LastChanged_Achievements": "2024-01-05T07:04:01.752059+00:00",
+  "LastChanged_Achievements": "2024-01-05T08:04:45.9554244+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:21:14.5388874+00:00",
-  "LastUpdate_Ratings": "2024-01-05T07:02:56.9099408+00:00",
-  "LastUpdate_Achievements": "2024-01-05T07:04:01.7521361+00:00"
+  "LastUpdate_Ratings": "2024-01-05T08:02:47.9659359+00:00",
+  "LastUpdate_Achievements": "2024-01-05T08:04:45.9555491+00:00"
 }

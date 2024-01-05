@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 25,
   "Ranking_EOS_Completed": 141,
   "Ranking_EOS_NewPlayers": 36,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8739,9 +8739,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 754142,
+  "EOS_Progressed": 754170,
   "EOS_Completed": 12974,
-  "EOS_NewPlayers": 6668,
+  "EOS_NewPlayers": 6662,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.72,
   "EosHistory": [
@@ -32394,6 +32394,11 @@
       "Time": "2024-01-05T07:09:21.7214385+00:00",
       "NumProgressed": 754142,
       "NumCompleted": 12974
+    },
+    {
+      "Time": "2024-01-05T08:10:07.3013276+00:00",
+      "NumProgressed": 754170,
+      "NumCompleted": 12974
     }
   ],
   "TotalAchievements": 60,
@@ -32405,7 +32410,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 37707
+      "UsersEstimate": 37708
     },
     {
       "ID": "02_Vengeance_H1",
@@ -32413,7 +32418,7 @@
       "Name": "The Assault",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30166
+      "UsersEstimate": 30167
     },
     {
       "ID": "03_Vengeance_H2",
@@ -32445,7 +32450,7 @@
       "Name": "Furious Fists",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 7541
+      "UsersEstimate": 7542
     },
     {
       "ID": "07_Wude_H1",
@@ -32493,7 +32498,7 @@
       "Name": "Scareless",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7541
+      "UsersEstimate": 7542
     },
     {
       "ID": "13_LowAge",
@@ -32525,7 +32530,7 @@
       "Name": "Drunken Fighter",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2262
+      "UsersEstimate": 2263
     },
     {
       "ID": "17_Detective_H3",
@@ -32533,7 +32538,7 @@
       "Name": "Martial Artist",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2262
+      "UsersEstimate": 2263
     },
     {
       "ID": "18_Detective_H4",
@@ -32541,7 +32546,7 @@
       "Name": "Knowledge Greed",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2262
+      "UsersEstimate": 2263
     },
     {
       "ID": "19_Detective_H5",
@@ -32565,7 +32570,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7541
+      "UsersEstimate": 7542
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -32581,7 +32586,7 @@
       "Name": "Life is your teacher",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 30166
+      "UsersEstimate": 30167
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -32597,7 +32602,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7541
+      "UsersEstimate": 7542
     },
     {
       "ID": "26_ShrineSpirit",
@@ -32669,7 +32674,7 @@
       "Name": "Lightning Hands",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30166
+      "UsersEstimate": 30167
     },
     {
       "ID": "35_WideStrike",
@@ -32677,7 +32682,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7541
+      "UsersEstimate": 7542
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -32701,7 +32706,7 @@
       "Name": "The Pit Protector",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2262
+      "UsersEstimate": 2263
     },
     {
       "ID": "39_CustomTrophy_H3",
@@ -32717,7 +32722,7 @@
       "Name": "Take damage to save time",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7541
+      "UsersEstimate": 7542
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -32733,7 +32738,7 @@
       "Name": "Come Snap With Me",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 2262
+      "UsersEstimate": 2263
     },
     {
       "ID": "43_Arena_UnlockPack",
@@ -32741,7 +32746,7 @@
       "Name": "Project Arena",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -32884,21 +32889,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 63443,
+      "Progressed": 63471,
       "Completed": 10799
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 754142,
+      "Progressed": 754170,
       "Completed": 12974
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-05T02:25:07.1743974+00:00",
-  "LastChanged_Achievements": "2024-01-05T07:09:21.7214382+00:00",
+  "LastChanged_Achievements": "2024-01-05T08:10:07.3013271+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:26.4563062+00:00",
-  "LastUpdate_Ratings": "2024-01-05T07:03:18.2312826+00:00",
-  "LastUpdate_Achievements": "2024-01-05T07:09:21.7215733+00:00"
+  "LastUpdate_Ratings": "2024-01-05T08:03:46.5319902+00:00",
+  "LastUpdate_Achievements": "2024-01-05T08:10:07.3015277+00:00"
 }

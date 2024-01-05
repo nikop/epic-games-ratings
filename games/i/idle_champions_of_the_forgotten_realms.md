@@ -7,7 +7,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 3.00% | ~7,540 |
-| The Cursed Farmer | 2.00% | ~5,026 |
+| The Cursed Farmer | 2.00% | ~5,027 |
 | Beast Intentions | 1.00% | ~2,513 |
 | The Mad Wizard | 1.00% | ~2,513 |
 | Welcome to Sigil | 0.80% | ~1,741 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~218 |
 | A Wise Approach | 0.10% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251,321 (Ranked 70)  
+Progressed: 251,338 (Ranked 70)  
 Completed: 2,593 (1.03%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -813,14 +813,14 @@ Completed: 2,593 (1.03%) (Ranked 170)
 | 2024-01-02 | 250,032 | 2,585 |
 | 2024-01-03 | 250,594 | 2,588 |
 | 2024-01-04 | 251,128 | 2,592 |
-| 2024-01-05 | 251,321 | 2,593 |
+| 2024-01-05 | 251,338 | 2,593 |
 ## Awards
-Max (Great for Beginners): 5,740  (Ranked 72)  
-Sum: 33,320 (Ranked 41)  
+Max (Great for Beginners): 5,750  (Ranked 72)  
+Sum: 33,330 (Ranked 41)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 5,740 |
+| This game is Great for Beginners | 5,750 |
 | This game has Diverse Characters | 5,692 |
 | This game has Quickly Understood Controls | 4,891 |
 | This game is Relaxing | 4,763 |
@@ -1174,4 +1174,4 @@ Diff (max vs sum): 31
 | 2024-01-02 | 4.06 | - | 5,730 | 33,274 |
 | 2024-01-03 | 4.06 | - | 5,730 | 33,294 |
 | 2024-01-04 | 4.06 | - | 5,740 | 33,310 |
-| 2024-01-05 | 4.06 | - | 5,740 | 33,320 |
+| 2024-01-05 | 4.06 | - | 5,750 | 33,330 |

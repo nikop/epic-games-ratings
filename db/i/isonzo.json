@@ -1063,9 +1063,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9769,
+  "EOS_Progressed": 9770,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10598,6 +10598,11 @@
       "Time": "2024-01-05T05:09:09.227509+00:00",
       "NumProgressed": 9769,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-05T08:10:14.5240189+00:00",
+      "NumProgressed": 9770,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -10617,7 +10622,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 2051
+      "UsersEstimate": 2052
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -10625,7 +10630,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4298
+      "UsersEstimate": 4299
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -10777,7 +10782,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 3419
+      "UsersEstimate": 3420
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -10937,7 +10942,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4884
+      "UsersEstimate": 4885
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -10961,14 +10966,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 4982
+      "UsersEstimate": 4983
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9769,
+      "Progressed": 9770,
       "Completed": 10
     }
   ],
@@ -10976,8 +10981,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-04T11:02:12.5493527+00:00",
-  "LastChanged_Achievements": "2024-01-05T07:09:27.4582991+00:00",
+  "LastChanged_Achievements": "2024-01-05T08:10:14.5240186+00:00",
   "LastUpdate_AppInfo": "2023-12-30T22:57:27.5115536+00:00",
-  "LastUpdate_Ratings": "2024-01-05T06:57:31.8435823+00:00",
-  "LastUpdate_Achievements": "2024-01-05T07:09:27.4583828+00:00"
+  "LastUpdate_Ratings": "2024-01-05T07:57:41.7149705+00:00",
+  "LastUpdate_Achievements": "2024-01-05T08:10:14.5240808+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "f8cbf321729f439aae9c088cbbebe93e",
   "Name": "Survivor - Castaway Island",
   "ProductSlug": "survivor-castaway-island-16f672",
-  "Ranking_EOS_Progress": 553,
+  "Ranking_EOS_Progress": 551,
   "Ranking_EOS_Completed": 393,
-  "Ranking_EOS_NewPlayers": 372,
+  "Ranking_EOS_NewPlayers": 366,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-03T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 48,
+  "EOS_Progressed": 49,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -269,6 +269,11 @@
       "Time": "2024-01-04T20:09:54.0701926+00:00",
       "NumProgressed": 48,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-05T08:09:52.0415619+00:00",
+      "NumProgressed": 49,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-27T10:09:15.6934484+00:00",
@@ -279,7 +284,7 @@
       "ID": "_00",
       "SetID": "670ak8f",
       "Name": "Immunity",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 100,
       "UsersEstimate": 7
     },
@@ -287,7 +292,7 @@
       "ID": "_01",
       "SetID": "670ak8f",
       "Name": "Let there be light",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 50,
       "UsersEstimate": 27
     },
@@ -311,7 +316,7 @@
       "ID": "_04",
       "SetID": "670ak8f",
       "Name": "Multitasking",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 50,
       "UsersEstimate": 9
     },
@@ -319,7 +324,7 @@
       "ID": "_05",
       "SetID": "670ak8f",
       "Name": "Lazy bones",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
       "UsersEstimate": 10
     },
@@ -327,7 +332,7 @@
       "ID": "_06",
       "SetID": "670ak8f",
       "Name": "Gossiper",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 50,
       "UsersEstimate": 28
     },
@@ -368,14 +373,14 @@
     {
       "ID": "670ak8f",
       "IsBase": true,
-      "Progressed": 48,
+      "Progressed": 49,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-05T01:45:17.1796579+00:00",
   "FirstSeenAchievements": "2023-09-18T15:06:02.8477562+00:00",
-  "LastChanged_Achievements": "2024-01-05T07:09:09.6602273+00:00",
+  "LastChanged_Achievements": "2024-01-05T08:09:52.0415615+00:00",
   "LastUpdate_AppInfo": "2024-01-03T02:57:23.0323215+00:00",
-  "LastUpdate_Ratings": "2024-01-05T06:58:34.1329107+00:00",
-  "LastUpdate_Achievements": "2024-01-05T07:09:09.6602344+00:00"
+  "LastUpdate_Ratings": "2024-01-05T07:59:04.3502985+00:00",
+  "LastUpdate_Achievements": "2024-01-05T08:09:52.0415711+00:00"
 }

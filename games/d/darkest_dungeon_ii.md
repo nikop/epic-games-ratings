@@ -1,7 +1,7 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 260)  
+Rating: 4.68 (Ranked 261)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -17,6 +17,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Catch and Decease | 5.00% | ~6,586 |
 | Overdue Notice | 5.00% | ~6,586 |
 | Escape from the Black Hole | 5.00% | ~6,586 |
+| Rush Hour | 5.00% | ~6,586 |
 | To Grandmother's House | 5.00% | ~6,586 |
 | Ploughshares to Swords | 5.00% | ~330 |
 | Bloody Graduation | 5.00% | ~330 |
@@ -24,7 +25,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | It Rings a Bell | 4.00% | ~5,269 |
 | Not Today! | 4.00% | ~5,269 |
 | It Happens | 4.00% | ~5,269 |
-| Rush Hour | 4.00% | ~5,269 |
 | Merry Time | 4.00% | ~5,269 |
 | Harvest Festival | 4.00% | ~5,269 |
 | Whale | 4.00% | ~5,269 |
@@ -65,8 +65,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Slap on the Wrist | 1.00% | ~66 |
 | For Old Time' Sake | 1.00% | ~66 |
 | Clearing the Ledger | 0.90% | ~1,186 |
+| Triage | 0.90% | ~1,186 |
 | Hat Trick | 0.80% | ~1,054 |
-| Triage | 0.80% | ~1,054 |
 | No Mercy | 0.80% | ~53 |
 | Et Tu, Riposte? | 0.80% | ~53 |
 | The World As It Was | 0.60% | ~790 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,727 (Ranked 91)  
+Progressed: 131,730 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,10 +336,10 @@ Completed: 3 (0.00%) (Ranked 393)
 | 2024-01-02 | 131,365 | 3 |
 | 2024-01-03 | 131,540 | 3 |
 | 2024-01-04 | 131,685 | 3 |
-| 2024-01-05 | 131,727 | 3 |
+| 2024-01-05 | 131,730 | 3 |
 ## Awards
 Max (Character Customization): 7,951  (Ranked 50)  
-Sum: 21,434 (Ranked 58)  
+Sum: 21,435 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -352,7 +352,7 @@ Diff (max vs sum): -8
 | This game has Unique Visuals | 1,456 |
 | This game has Amazing Storytelling | 1,437 |
 | This game has Quickly Understood Controls | 1,404 |
-| This game has a Creative Community | 1,079 |
+| This game has a Creative Community | 1,080 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
 ## Ratings History
@@ -700,4 +700,4 @@ Diff (max vs sum): -8
 | 2024-01-02 | 4.68 | - | 7,927 | 21,353 |
 | 2024-01-03 | 4.68 | - | 7,940 | 21,388 |
 | 2024-01-04 | 4.68 | - | 7,951 | 21,421 |
-| 2024-01-05 | 4.68 | - | 7,951 | 21,434 |
+| 2024-01-05 | 4.68 | - | 7,951 | 21,435 |

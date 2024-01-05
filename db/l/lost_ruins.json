@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 659,
+  "EOS_Progressed": 660,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1794,6 +1794,11 @@
       "Time": "2024-01-04T21:10:54.7250857+00:00",
       "NumProgressed": 659,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-05T08:11:16.450653+00:00",
+      "NumProgressed": 660,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1819,9 +1824,9 @@
       "ID": "ArtifactsCollector",
       "SetID": "82505mn",
       "Name": "Artifact Collector",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 125
+      "UsersEstimate": 119
     },
     {
       "ID": "Assassin",
@@ -1877,7 +1882,7 @@
       "Name": "Gladiator",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "GoblinTales",
@@ -1925,7 +1930,7 @@
       "Name": "Inquisitor",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "Librarian",
@@ -1941,7 +1946,7 @@
       "Name": "Lumberjack",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "Marksman",
@@ -2124,7 +2129,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 659,
+      "Progressed": 660,
       "Completed": 1
     }
   ],
@@ -2132,8 +2137,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2024-01-05T07:10:17.5338552+00:00",
+  "LastChanged_Achievements": "2024-01-05T08:11:16.4506527+00:00",
   "LastUpdate_AppInfo": "2023-12-31T02:58:03.2604081+00:00",
-  "LastUpdate_Ratings": "2024-01-05T06:59:02.6370166+00:00",
-  "LastUpdate_Achievements": "2024-01-05T07:10:17.5338969+00:00"
+  "LastUpdate_Ratings": "2024-01-05T07:59:40.8764088+00:00",
+  "LastUpdate_Achievements": "2024-01-05T08:11:16.4506908+00:00"
 }

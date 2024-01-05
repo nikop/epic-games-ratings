@@ -5,30 +5,30 @@ Rating: 4.29 (Ranked 876)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~165,802 |
-| Copacetic Coordination | 16.00% | ~57,670 |
-| Fronting the Money | 15.00% | ~54,066 |
-| The Dawn of Automation | 14.00% | ~50,461 |
-| Extraordinary Logistics | 14.00% | ~50,461 |
-| Dirty Money | 13.00% | ~46,857 |
-| Family First | 13.00% | ~46,857 |
+| Corner Clout | 46.00% | ~165,805 |
+| Copacetic Coordination | 16.00% | ~57,671 |
+| Fronting the Money | 15.00% | ~54,067 |
+| The Dawn of Automation | 14.00% | ~50,462 |
+| Extraordinary Logistics | 14.00% | ~50,462 |
+| Dirty Money | 13.00% | ~46,858 |
+| Family First | 13.00% | ~46,858 |
 | Cleaning House | 12.00% | ~43,253 |
 | Room in the Back | 12.00% | ~43,253 |
-| Beating the Heat | 11.00% | ~39,648 |
-| Booze Baron | 11.00% | ~39,648 |
+| Beating the Heat | 11.00% | ~39,649 |
+| Booze Baron | 11.00% | ~39,649 |
 | Friends on the Force | 10.00% | ~36,044 |
 | Neighborhood Watch | 10.00% | ~36,044 |
-| Core Corps | 8.00% | ~28,835 |
-| Sizeable Stash | 8.00% | ~28,835 |
+| Core Corps | 8.00% | ~28,836 |
+| Sizeable Stash | 8.00% | ~28,836 |
 | Street Fighter | 7.00% | ~25,231 |
 | Friendly Gestures | 7.00% | ~25,231 |
 | People Person | 7.00% | ~25,231 |
-| Liquor Lord | 6.00% | ~21,626 |
-| Safety in Numbers | 6.00% | ~21,626 |
-| Moving Experiences | 6.00% | ~21,626 |
-| Wise Head | 6.00% | ~21,626 |
-| Show ‘em the Sugar | 6.00% | ~21,626 |
-| Killing Them Softly | 6.00% | ~21,626 |
+| Liquor Lord | 6.00% | ~21,627 |
+| Safety in Numbers | 6.00% | ~21,627 |
+| Moving Experiences | 6.00% | ~21,627 |
+| Wise Head | 6.00% | ~21,627 |
+| Show ‘em the Sugar | 6.00% | ~21,627 |
+| Killing Them Softly | 6.00% | ~21,627 |
 | Street Knowledge | 5.00% | ~18,022 |
 | Oh Captain | 5.00% | ~18,022 |
 | Branching Out | 5.00% | ~18,022 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 876)
 | High Pillow | 0.10% | ~360 |
 | Station Master | 0.10% | ~360 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 360,439 (Ranked 56)  
+Progressed: 360,445 (Ranked 56)  
 Completed: 7 (0.00%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -346,7 +346,7 @@ Completed: 7 (0.00%) (Ranked 393)
 | 2024-01-02 | 360,046 | 7 |
 | 2024-01-03 | 360,236 | 7 |
 | 2024-01-04 | 360,386 | 7 |
-| 2024-01-05 | 360,439 | 7 |
+| 2024-01-05 | 360,445 | 7 |
 ## Awards
 Max (Great for Beginners): 58  (Ranked 430)  
 Sum: 268 (Ranked 393)  

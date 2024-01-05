@@ -1619,9 +1619,9 @@
       "ID": "AC_BOSS_01",
       "SetID": "16i2akc",
       "Name": "Misery",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 96
     },
     {
       "ID": "AC_BOSS_02",
@@ -1819,9 +1819,9 @@
       "ID": "AC_RECIPES_DONE_1",
       "SetID": "16i2akc",
       "Name": "Cook",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 58
     },
     {
       "ID": "AC_RECIPES_DONE_2",
@@ -1882,8 +1882,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-05T07:06:03.9753858+00:00",
+  "LastChanged_Achievements": "2024-01-05T08:07:25.4137188+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:05.7124829+00:00",
-  "LastUpdate_Ratings": "2024-01-05T06:57:24.5733301+00:00",
-  "LastUpdate_Achievements": "2024-01-05T07:06:03.9754217+00:00"
+  "LastUpdate_Ratings": "2024-01-05T07:57:30.6237812+00:00",
+  "LastUpdate_Achievements": "2024-01-05T08:07:25.4137638+00:00"
 }

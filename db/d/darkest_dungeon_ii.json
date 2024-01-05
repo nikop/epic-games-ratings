@@ -2,7 +2,7 @@
   "ID": "6ff9efdef6dc45ecb40ed20fcd2c4621",
   "Name": "Darkest Dungeon II",
   "ProductSlug": "darkest-dungeon-2",
-  "Ranking_Rating": 260,
+  "Ranking_Rating": 261,
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 91,
@@ -10456,10 +10456,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 21434,
       "NumberOfAwardsMax": 7951
+    },
+    {
+      "Time": "2024-01-05T08:01:42.4898641+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21435,
+      "NumberOfAwardsMax": 7951
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21434,
+  "NumberOfAwards": 21435,
   "NumberOfAwardsMax": 7951,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10533,12 +10539,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 1079
+      "Count": 1080
     }
   ],
-  "EOS_Progressed": 131727,
+  "EOS_Progressed": 131730,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1251,
+  "EOS_NewPlayers": 1247,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38411,6 +38417,11 @@
       "Time": "2024-01-05T07:09:51.9119044+00:00",
       "NumProgressed": 131727,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-05T08:10:45.2912112+00:00",
+      "NumProgressed": 131730,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38716,9 +38727,9 @@
       "ID": "driving_biome_clear_city",
       "SetID": "64l4lke",
       "Name": "Rush Hour",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5269
+      "UsersEstimate": 6586
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -38804,9 +38815,9 @@
       "ID": "hospital_full_service",
       "SetID": "64l4lke",
       "Name": "Triage",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1054
+      "UsersEstimate": 1186
     },
     {
       "ID": "inn_first_time",
@@ -39053,21 +39064,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 131727,
+      "Progressed": 131730,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 6596,
+      "Progressed": 6599,
       "Completed": 821
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-05T06:00:00.6728721+00:00",
-  "LastChanged_Achievements": "2024-01-05T07:09:51.9119038+00:00",
+  "LastChanged": "2024-01-05T08:01:42.4898639+00:00",
+  "LastChanged_Achievements": "2024-01-05T08:10:45.2912109+00:00",
   "LastUpdate_AppInfo": "2023-12-31T01:46:47.1898586+00:00",
-  "LastUpdate_Ratings": "2024-01-05T07:00:35.6579949+00:00",
-  "LastUpdate_Achievements": "2024-01-05T07:09:51.912065+00:00"
+  "LastUpdate_Ratings": "2024-01-05T08:01:42.4898647+00:00",
+  "LastUpdate_Achievements": "2024-01-05T08:10:45.2914422+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "19d61df85a76492f82c4b59fa8f8f9eb",
   "Name": "The House of Da Vinci",
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
-  "Ranking_EOS_Progress": 349,
+  "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 41,
   "Ranking_EOS_NewPlayers": 300,
   "Ranking_EOS_NewCompleters": 52,
@@ -2302,9 +2302,9 @@
       "ID": "CgkIgaGB2J0LEAIQAw",
       "SetID": "4ocea6d",
       "Name": "Scythed Chariot",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 165,
-      "UsersEstimate": 145
+      "UsersEstimate": 150
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBA",
@@ -2333,8 +2333,8 @@
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2024-01-05T07:09:11.1070102+00:00",
+  "LastChanged_Achievements": "2024-01-05T08:09:53.8545229+00:00",
   "LastUpdate_AppInfo": "2024-01-05T04:57:10.7268546+00:00",
-  "LastUpdate_Ratings": "2024-01-05T07:01:08.3146445+00:00",
-  "LastUpdate_Achievements": "2024-01-05T07:09:11.1070266+00:00"
+  "LastUpdate_Ratings": "2024-01-05T08:02:24.4033946+00:00",
+  "LastUpdate_Achievements": "2024-01-05T08:09:53.8545433+00:00"
 }

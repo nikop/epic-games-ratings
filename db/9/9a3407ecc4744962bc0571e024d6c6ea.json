@@ -4,7 +4,7 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1241,
+  "EOS_Progressed": 1242,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -3554,6 +3554,11 @@
       "Time": "2024-01-05T01:56:43.3088793+00:00",
       "NumProgressed": 1241,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-05T08:11:02.5431885+00:00",
+      "NumProgressed": 1242,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -3566,7 +3571,7 @@
       "Name": "A Better Tomorrow",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "BostonHayDay",
@@ -3574,7 +3579,7 @@
       "Name": "Boston Hay Day",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "BoxingClever",
@@ -3582,7 +3587,7 @@
       "Name": "Boxing Clever",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "Cartographer",
@@ -3590,7 +3595,7 @@
       "Name": "Cartographer",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "Causality",
@@ -3598,7 +3603,7 @@
       "Name": "Causality",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "CongratulationsYouAreAnEngineer",
@@ -3614,7 +3619,7 @@
       "Name": "Darkest Before the Dawn",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "DrinkingOnTheJob",
@@ -3622,7 +3627,7 @@
       "Name": "Drinking on the Job",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "DustDancing",
@@ -3638,7 +3643,7 @@
       "Name": "Everything is Dust",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "LightsOut",
@@ -3646,7 +3651,7 @@
       "Name": "Lights Out",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "MiCasaSuCasa",
@@ -3662,7 +3667,7 @@
       "Name": "Once more into the Breach",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "Outpatient",
@@ -3678,7 +3683,7 @@
       "Name": "Relic",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "SkeletonCrew",
@@ -3686,7 +3691,7 @@
       "Name": "Skeleton Crew",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "TerraTourGuide",
@@ -3700,9 +3705,9 @@
       "ID": "TheSafetyOfDisbelief",
       "SetID": "3ai6ml8",
       "Name": "The Safety of Disbelief",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 695
+      "UsersEstimate": 683
     },
     {
       "ID": "TragedyDocumented",
@@ -3718,21 +3723,21 @@
       "Name": "Welcome to Fort Solis",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1093
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 1241,
+      "Progressed": 1242,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2024-01-05T07:10:05.6067393+00:00",
+  "LastChanged_Achievements": "2024-01-05T08:11:02.5431879+00:00",
   "LastUpdate_AppInfo": "2024-01-03T22:57:16.6987681+00:00",
-  "LastUpdate_Ratings": "2024-01-05T07:01:04.0590316+00:00",
-  "LastUpdate_Achievements": "2024-01-05T07:10:05.6067691+00:00"
+  "LastUpdate_Ratings": "2024-01-05T08:02:18.5161881+00:00",
+  "LastUpdate_Achievements": "2024-01-05T08:11:02.5432416+00:00"
 }
